@@ -3,10 +3,6 @@ title: "isEvenNumberPlateRestricted property - TrafficIncidentVehicleRestriction
 slug: "sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-isevennumberplaterestricted"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- isEvenNumberPlateRestricted.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ bool isEvenNumberPlateRestricted;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

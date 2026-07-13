@@ -3,10 +3,6 @@ title: "boundsOf method - TileGeoBoundsCalculator class - mapview.datasource lib
 slug: "sdk-for-flutter-explore-mapview.datasource-tilegeoboundscalculator-boundsof"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- boundsOf.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -51,6 +47,3 @@ GeoBox boundsOf(TileKey tileKey);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

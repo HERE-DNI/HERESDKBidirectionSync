@@ -3,10 +3,6 @@ title: "shoppingHardwareHouseGarden property - PlaceCategory class - search libr
 slug: "sdk-for-flutter-explore-search-placecategory-shoppinghardwarehousegarden"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- shoppingHardwareHouseGarden.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ static final String shoppingHardwareHouseGarden = "600-6600";
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

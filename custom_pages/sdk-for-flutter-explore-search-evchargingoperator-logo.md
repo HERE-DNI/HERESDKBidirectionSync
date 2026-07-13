@@ -3,10 +3,6 @@ title: "logo property - EVChargingOperator class - search library - Dart API"
 slug: "sdk-for-flutter-explore-search-evchargingoperator-logo"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- logo.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ BrandLogo? logo;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

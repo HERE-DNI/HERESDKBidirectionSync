@@ -3,10 +3,6 @@ title: "allowDownload property - CatalogConfiguration class - core.engine librar
 slug: "sdk-for-flutter-explore-core.engine-catalogconfiguration-allowdownload"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- allowDownload.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ bool allowDownload;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

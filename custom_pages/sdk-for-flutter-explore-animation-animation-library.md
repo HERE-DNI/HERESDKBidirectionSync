@@ -3,10 +3,6 @@ title: "animation library - Dart API"
 slug: "sdk-for-flutter-explore-animation-animation-library"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- animation-library.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -92,6 +88,3 @@ Thrown when a problem occurs while trying to create a <a href="sdk-for-flutter-e
 
 <!-- /.main-content --> <!--/sidebar-offcanvas-right--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

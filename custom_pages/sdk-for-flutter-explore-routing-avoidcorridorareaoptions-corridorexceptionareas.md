@@ -3,10 +3,6 @@ title: "corridorExceptionAreas property - AvoidCorridorAreaOptions class - routi
 slug: "sdk-for-flutter-explore-routing-avoidcorridorareaoptions-corridorexceptionareas"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- corridorExceptionAreas.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ List<GeoCorridor> corridorExceptionAreas;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

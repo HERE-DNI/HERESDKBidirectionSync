@@ -3,10 +3,6 @@ title: "PassThroughWaypoint constructor - PassThroughWaypoint - routing library 
 slug: "sdk-for-flutter-explore-routing-passthroughwaypoint-passthroughwaypoint"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- PassThroughWaypoint.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -42,6 +38,3 @@ PassThroughWaypoint(RoutePlace place)
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

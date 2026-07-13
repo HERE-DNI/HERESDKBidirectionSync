@@ -3,10 +3,6 @@ title: "RefreshRouteParameters.withRouteHandleAndSectionPosition constructor - R
 slug: "sdk-for-flutter-explore-routing-refreshrouteparameters-refreshrouteparameters-withroutehandleandsectionposition"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- RefreshRouteParameters.withRouteHandleAndSectionPosition.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -55,6 +51,3 @@ factory RefreshRouteParameters.withRouteHandleAndSectionPosition(RouteHandle rou
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

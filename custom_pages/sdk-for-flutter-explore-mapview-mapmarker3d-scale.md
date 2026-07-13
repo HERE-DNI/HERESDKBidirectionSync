@@ -3,10 +3,6 @@ title: "scale property - MapMarker3D class - mapview library - Dart API"
 slug: "sdk-for-flutter-explore-mapview-mapmarker3d-scale"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- scale.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -69,6 +65,3 @@ set scale(double value);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

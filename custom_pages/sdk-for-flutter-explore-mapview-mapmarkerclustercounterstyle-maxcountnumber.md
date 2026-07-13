@@ -3,10 +3,6 @@ title: "maxCountNumber property - MapMarkerClusterCounterStyle class - mapview l
 slug: "sdk-for-flutter-explore-mapview-mapmarkerclustercounterstyle-maxcountnumber"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- maxCountNumber.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ int maxCountNumber;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

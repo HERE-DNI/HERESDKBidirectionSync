@@ -3,10 +3,6 @@ title: "authenticateWithSDKNativeEngine method - Authentication class - core lib
 slug: "sdk-for-flutter-explore-core-authentication-authenticatewithsdknativeengine"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- authenticateWithSDKNativeEngine.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -55,6 +51,3 @@ static AuthenticationData authenticateWithSDKNativeEngine(SDKNativeEngine sdkNat
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

@@ -3,10 +3,6 @@ title: "operator == method - MapCameraUpdateFactory class - mapview library - Da
 slug: "sdk-for-flutter-explore-mapview-mapcameraupdatefactory-operator_equals"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- operator_equals.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -69,6 +65,3 @@ external bool operator ==(Object other);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

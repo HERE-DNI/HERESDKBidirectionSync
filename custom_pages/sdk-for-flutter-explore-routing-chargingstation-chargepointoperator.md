@@ -3,10 +3,6 @@ title: "chargePointOperator property - ChargingStation class - routing library -
 slug: "sdk-for-flutter-explore-routing-chargingstation-chargepointoperator"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- chargePointOperator.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ NameID? chargePointOperator;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

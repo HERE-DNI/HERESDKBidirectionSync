@@ -3,10 +3,6 @@ title: "WebEditorial constructor - WebEditorial - search library - Dart API"
 slug: "sdk-for-flutter-explore-search-webeditorial-webeditorial"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- WebEditorial.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -53,6 +49,3 @@ WebEditorial(this.description, this.language, this.source);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

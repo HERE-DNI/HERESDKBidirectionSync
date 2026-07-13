@@ -3,10 +3,6 @@ title: "evChargingSubOperator property - EVChargingLocation class - search libra
 slug: "sdk-for-flutter-explore-search-evcharginglocation-evchargingsuboperator"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- evChargingSubOperator.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -45,6 +41,3 @@ EVChargingOperator? get evChargingSubOperator;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

@@ -3,10 +3,6 @@ title: "alternatives property - TransitRouteOptions class - routing library - Da
 slug: "sdk-for-flutter-explore-routing-transitrouteoptions-alternatives"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- alternatives.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ int alternatives;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

@@ -3,10 +3,6 @@ title: "providerHeaders property - RasterDataSourceConfigurationUpdate class - m
 slug: "sdk-for-flutter-explore-mapview.datasource-rasterdatasourceconfigurationupdate-providerheaders"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- providerHeaders.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ Map<String, String>? providerHeaders;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

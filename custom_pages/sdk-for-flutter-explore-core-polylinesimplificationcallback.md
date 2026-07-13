@@ -3,10 +3,6 @@ title: "PolylineSimplificationCallback typedef - core library - Dart API"
 slug: "sdk-for-flutter-explore-core-polylinesimplificationcallback"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- PolylineSimplificationCallback.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ typedef PolylineSimplificationCallback = void Function(PolylineSimplificationErr
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

@@ -3,10 +3,6 @@ title: "availableAtPump property - FuelAdditive class - search library - Dart AP
 slug: "sdk-for-flutter-explore-search-fueladditive-availableatpump"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- availableAtPump.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ bool? availableAtPump;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

@@ -3,10 +3,6 @@ title: "timeRuleString property - TimeRule class - core library - Dart API"
 slug: "sdk-for-flutter-explore-core-timerule-timerulestring"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- timeRuleString.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -45,6 +41,3 @@ String get timeRuleString;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

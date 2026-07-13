@@ -3,10 +3,6 @@ title: "maxSpeedOnSegments property - RoutingOptions class - routing library - D
 slug: "sdk-for-flutter-explore-routing-routingoptions-maxspeedonsegments"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- maxSpeedOnSegments.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ List<MaxSpeedOnSegment> maxSpeedOnSegments;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

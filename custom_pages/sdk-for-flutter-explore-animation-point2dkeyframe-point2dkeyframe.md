@@ -3,10 +3,6 @@ title: "Point2DKeyframe constructor - Point2DKeyframe - animation library - Dart
 slug: "sdk-for-flutter-explore-animation-point2dkeyframe-point2dkeyframe"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- Point2DKeyframe.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -52,6 +48,3 @@ factory Point2DKeyframe(Point2D value, Duration duration) => $prototype.create(v
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

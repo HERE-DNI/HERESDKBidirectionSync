@@ -3,10 +3,6 @@ title: "areaCenter property - StructuredQuery class - search library - Dart API"
 slug: "sdk-for-flutter-explore-search-structuredquery-areacenter"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- areaCenter.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ GeoCoordinates areaCenter;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

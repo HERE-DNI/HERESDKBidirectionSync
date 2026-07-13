@@ -3,10 +3,6 @@ title: "step property - EVChargingTariffPriceComponent class - search library - 
 slug: "sdk-for-flutter-explore-search-evchargingtariffpricecomponent-step"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- step.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ double? step;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

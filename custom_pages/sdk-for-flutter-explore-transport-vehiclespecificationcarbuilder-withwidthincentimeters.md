@@ -3,10 +3,6 @@ title: "withWidthInCentimeters method - VehicleSpecificationCarBuilder class - t
 slug: "sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-withwidthincentimeters"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- withWidthInCentimeters.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -51,6 +47,3 @@ VehicleSpecificationCarBuilder withWidthInCentimeters(int widthInCentimeters);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

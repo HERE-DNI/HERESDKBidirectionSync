@@ -3,10 +3,6 @@ title: "LocationListener constructor - LocationListener - core library - Dart AP
 slug: "sdk-for-flutter-explore-core-locationlistener-locationlistener"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- LocationListener.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -56,6 +52,3 @@ factory LocationListener(
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

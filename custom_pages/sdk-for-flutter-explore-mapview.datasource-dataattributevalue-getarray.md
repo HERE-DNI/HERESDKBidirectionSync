@@ -3,10 +3,6 @@ title: "getArray method - DataAttributeValue class - mapview.datasource library 
 slug: "sdk-for-flutter-explore-mapview.datasource-dataattributevalue-getarray"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- getArray.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -45,6 +41,3 @@ List<DataAttributeValue>? getArray();
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

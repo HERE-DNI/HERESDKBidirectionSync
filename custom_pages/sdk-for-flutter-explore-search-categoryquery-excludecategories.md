@@ -3,10 +3,6 @@ title: "excludeCategories property - CategoryQuery class - search library - Dart
 slug: "sdk-for-flutter-explore-search-categoryquery-excludecategories"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- excludeCategories.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ List<PlaceCategory> excludeCategories;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

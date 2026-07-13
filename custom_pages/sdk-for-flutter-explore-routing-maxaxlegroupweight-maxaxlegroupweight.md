@@ -3,10 +3,6 @@ title: "MaxAxleGroupWeight constructor - MaxAxleGroupWeight - routing library - 
 slug: "sdk-for-flutter-explore-routing-maxaxlegroupweight-maxaxlegroupweight"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- MaxAxleGroupWeight.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -51,6 +47,3 @@ MaxAxleGroupWeight(this.maxWeightInKilograms, this.axleGroupType);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

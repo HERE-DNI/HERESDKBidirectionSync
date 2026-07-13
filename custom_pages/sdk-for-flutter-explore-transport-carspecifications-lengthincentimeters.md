@@ -3,10 +3,6 @@ title: "lengthInCentimeters property - CarSpecifications class - transport libra
 slug: "sdk-for-flutter-explore-transport-carspecifications-lengthincentimeters"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- lengthInCentimeters.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ int? lengthInCentimeters;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

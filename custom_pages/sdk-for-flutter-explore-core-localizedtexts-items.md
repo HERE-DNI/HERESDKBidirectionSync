@@ -3,10 +3,6 @@ title: "items property - LocalizedTexts class - core library - Dart API"
 slug: "sdk-for-flutter-explore-core-localizedtexts-items"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- items.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ List<LocalizedText> items;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

@@ -3,10 +3,6 @@ title: "geometry property - MapPolyline class - mapview library - Dart API"
 slug: "sdk-for-flutter-explore-mapview-mappolyline-geometry"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- geometry.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -69,6 +65,3 @@ set geometry(GeoPolyline value);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

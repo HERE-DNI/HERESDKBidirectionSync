@@ -3,10 +3,6 @@ title: "GeoPolyline.withGeoBox constructor - GeoPolyline - core library - Dart A
 slug: "sdk-for-flutter-explore-core-geopolyline-geopolyline-withgeobox"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- GeoPolyline.withGeoBox.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -49,6 +45,3 @@ factory GeoPolyline.withGeoBox(GeoBox geoBox) => $prototype.withGeoBox(geoBox);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

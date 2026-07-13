@@ -3,10 +3,6 @@ title: "moveToWithEasing method - MapItemKeyFrameTrack class - animation library
 slug: "sdk-for-flutter-explore-animation-mapitemkeyframetrack-movetowitheasing"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- moveToWithEasing.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -61,6 +57,3 @@ static MapItemKeyFrameTrack moveToWithEasing(List<GeoCoordinatesKeyframe> keyfra
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

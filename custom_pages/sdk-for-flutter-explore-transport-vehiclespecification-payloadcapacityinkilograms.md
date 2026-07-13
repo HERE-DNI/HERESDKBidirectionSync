@@ -3,10 +3,6 @@ title: "payloadCapacityInKilograms property - VehicleSpecification class - trans
 slug: "sdk-for-flutter-explore-transport-vehiclespecification-payloadcapacityinkilograms"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- payloadCapacityInKilograms.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -49,6 +45,3 @@ int? payloadCapacityInKilograms;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

@@ -3,10 +3,6 @@ title: "placeFilter property - TextQuery class - search library - Dart API"
 slug: "sdk-for-flutter-explore-search-textquery-placefilter"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- placeFilter.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ PlaceFilter placeFilter;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

@@ -3,10 +3,6 @@ title: "voltageInVolts property - ChargingConnectorAttributes class - routing li
 slug: "sdk-for-flutter-explore-routing-chargingconnectorattributes-voltageinvolts"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- voltageInVolts.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ double? voltageInVolts;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

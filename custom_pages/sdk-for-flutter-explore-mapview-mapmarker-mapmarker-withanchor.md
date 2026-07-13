@@ -3,10 +3,6 @@ title: "MapMarker.withAnchor constructor - MapMarker - mapview library - Dart AP
 slug: "sdk-for-flutter-explore-mapview-mapmarker-mapmarker-withanchor"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- MapMarker.withAnchor.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -57,6 +53,3 @@ factory MapMarker.withAnchor(GeoCoordinates coordinates, MapImage image, Anchor2
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

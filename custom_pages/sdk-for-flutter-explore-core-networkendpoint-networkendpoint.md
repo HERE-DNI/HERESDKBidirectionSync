@@ -3,10 +3,6 @@ title: "NetworkEndpoint constructor - NetworkEndpoint - core library - Dart API"
 slug: "sdk-for-flutter-explore-core-networkendpoint-networkendpoint"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- NetworkEndpoint.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -50,6 +46,3 @@ NetworkEndpoint(this.address)
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

@@ -3,10 +3,6 @@ title: "polygons property - Isoline class - routing library - Dart API"
 slug: "sdk-for-flutter-explore-routing-isoline-polygons"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- polygons.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -45,6 +41,3 @@ List<GeoPolygon> get polygons;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

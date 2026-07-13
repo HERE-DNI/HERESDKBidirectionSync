@@ -3,10 +3,6 @@ title: "setGeometry method - PolygonDataAccessor class - mapview.datasource libr
 slug: "sdk-for-flutter-explore-mapview.datasource-polygondataaccessor-setgeometry"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- setGeometry.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -55,6 +51,3 @@ void setGeometry(GeoPolygon geometry);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

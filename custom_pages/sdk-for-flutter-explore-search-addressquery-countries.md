@@ -3,10 +3,6 @@ title: "countries property - AddressQuery class - search library - Dart API"
 slug: "sdk-for-flutter-explore-search-addressquery-countries"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- countries.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ final List<CountryCode> countries;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

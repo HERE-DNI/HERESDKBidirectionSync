@@ -3,10 +3,6 @@ title: "loadSceneFromConfigurationFile method - MapScene class - mapview library
 slug: "sdk-for-flutter-explore-mapview-mapscene-loadscenefromconfigurationfile"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- loadSceneFromConfigurationFile.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -65,6 +61,3 @@ void loadSceneFromConfigurationFile(String configurationFile, MapSceneLoadSceneC
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

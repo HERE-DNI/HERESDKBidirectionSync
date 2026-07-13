@@ -3,10 +3,6 @@ title: "Anchor2D.withHorizontalAndVertical constructor - Anchor2D - core library
 slug: "sdk-for-flutter-explore-core-anchor2d-anchor2d-withhorizontalandvertical"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- Anchor2D.withHorizontalAndVertical.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -52,6 +48,3 @@ factory Anchor2D.withHorizontalAndVertical(double horizontal, double vertical) =
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

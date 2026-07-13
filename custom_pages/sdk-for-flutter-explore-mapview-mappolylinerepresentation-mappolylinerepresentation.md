@@ -3,10 +3,6 @@ title: "MapPolylineRepresentation constructor - MapPolylineRepresentation - mapv
 slug: "sdk-for-flutter-explore-mapview-mappolylinerepresentation-mappolylinerepresentation"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- MapPolylineRepresentation.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -29,6 +25,3 @@ slug: "sdk-for-flutter-explore-mapview-mappolylinerepresentation-mappolylinerepr
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

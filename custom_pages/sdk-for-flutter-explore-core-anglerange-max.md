@@ -3,10 +3,6 @@ title: "max method - AngleRange class - core library - Dart API"
 slug: "sdk-for-flutter-explore-core-anglerange-max"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- max.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -45,6 +41,3 @@ double max() => $prototype.max(this);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

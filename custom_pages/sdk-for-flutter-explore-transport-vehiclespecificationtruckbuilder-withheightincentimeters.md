@@ -3,10 +3,6 @@ title: "withHeightInCentimeters method - VehicleSpecificationTruckBuilder class 
 slug: "sdk-for-flutter-explore-transport-vehiclespecificationtruckbuilder-withheightincentimeters"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- withHeightInCentimeters.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -51,6 +47,3 @@ VehicleSpecificationTruckBuilder withHeightInCentimeters(int heightInCentimeters
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

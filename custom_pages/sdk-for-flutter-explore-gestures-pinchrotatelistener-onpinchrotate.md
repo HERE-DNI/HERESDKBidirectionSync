@@ -3,10 +3,6 @@ title: "onPinchRotate method - PinchRotateListener class - gestures library - Da
 slug: "sdk-for-flutter-explore-gestures-pinchrotatelistener-onpinchrotate"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- onPinchRotate.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -61,6 +57,3 @@ void onPinchRotate(GestureState state, Point2D pinchOrigin, Point2D rotationOrig
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

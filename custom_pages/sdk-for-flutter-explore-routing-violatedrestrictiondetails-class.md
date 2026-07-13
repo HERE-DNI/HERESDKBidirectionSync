@@ -3,10 +3,6 @@ title: "ViolatedRestrictionDetails class - routing library - Dart API"
 slug: "sdk-for-flutter-explore-routing-violatedrestrictiondetails-class"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- ViolatedRestrictionDetails-class.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -242,6 +238,3 @@ The equality operator.
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

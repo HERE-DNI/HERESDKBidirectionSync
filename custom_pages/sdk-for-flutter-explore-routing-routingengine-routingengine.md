@@ -3,10 +3,6 @@ title: "RoutingEngine constructor - RoutingEngine - routing library - Dart API"
 slug: "sdk-for-flutter-explore-routing-routingengine-routingengine"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- RoutingEngine.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -45,6 +41,3 @@ factory RoutingEngine() => $prototype.$init();
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

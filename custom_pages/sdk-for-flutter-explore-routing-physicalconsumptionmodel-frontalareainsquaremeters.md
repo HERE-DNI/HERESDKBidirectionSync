@@ -3,10 +3,6 @@ title: "frontalAreaInSquareMeters property - PhysicalConsumptionModel class - ro
 slug: "sdk-for-flutter-explore-routing-physicalconsumptionmodel-frontalareainsquaremeters"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- frontalAreaInSquareMeters.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -51,6 +47,3 @@ double frontalAreaInSquareMeters;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

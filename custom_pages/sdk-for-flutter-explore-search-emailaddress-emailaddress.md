@@ -3,10 +3,6 @@ title: "EmailAddress constructor - EmailAddress - search library - Dart API"
 slug: "sdk-for-flutter-explore-search-emailaddress-emailaddress"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- EmailAddress.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -51,6 +47,3 @@ EmailAddress(this.address, this.categories);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

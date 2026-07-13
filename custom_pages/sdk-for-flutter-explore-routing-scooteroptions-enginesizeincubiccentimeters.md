@@ -3,10 +3,6 @@ title: "engineSizeInCubicCentimeters property - ScooterOptions class - routing l
 slug: "sdk-for-flutter-explore-routing-scooteroptions-enginesizeincubiccentimeters"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- engineSizeInCubicCentimeters.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -49,6 +45,3 @@ int? engineSizeInCubicCentimeters;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

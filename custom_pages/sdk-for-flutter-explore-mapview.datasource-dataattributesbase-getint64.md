@@ -3,10 +3,6 @@ title: "getInt64 method - DataAttributesBase class - mapview.datasource library 
 slug: "sdk-for-flutter-explore-mapview.datasource-dataattributesbase-getint64"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- getInt64.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -51,6 +47,3 @@ int? getInt64(String name);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

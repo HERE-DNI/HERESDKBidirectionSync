@@ -3,10 +3,6 @@ title: "MapSceneLightsAttributeSettingCallback typedef - mapview library - Dart 
 slug: "sdk-for-flutter-explore-mapview-mapscenelightsattributesettingcallback"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- MapSceneLightsAttributeSettingCallback.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -49,6 +45,3 @@ typedef MapSceneLightsAttributeSettingCallback = void Function(MapSceneLightsAtt
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

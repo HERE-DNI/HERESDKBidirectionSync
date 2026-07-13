@@ -3,10 +3,6 @@ title: "CarSpecifications constructor - CarSpecifications - transport library - 
 slug: "sdk-for-flutter-explore-transport-carspecifications-carspecifications"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- CarSpecifications.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -62,6 +58,3 @@ CarSpecifications([int? grossWeightInKilograms = null, int? heightInCentimeters 
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

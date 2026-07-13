@@ -3,10 +3,6 @@ title: "RoutingEngine.withSdkEngineAndConnectionSettings constructor - RoutingEn
 slug: "sdk-for-flutter-explore-routing-routingengine-routingengine-withsdkengineandconnectionsettings"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- RoutingEngine.withSdkEngineAndConnectionSettings.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -54,6 +50,3 @@ factory RoutingEngine.withSdkEngineAndConnectionSettings(SDKNativeEngine sdkEngi
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

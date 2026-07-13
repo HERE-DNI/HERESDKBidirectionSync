@@ -3,10 +3,6 @@ title: "AddressQuery constructor - AddressQuery - search library - Dart API"
 slug: "sdk-for-flutter-explore-search-addressquery-addressquery"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- AddressQuery.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -51,6 +47,3 @@ factory AddressQuery(String query) => $prototype.$init(query);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

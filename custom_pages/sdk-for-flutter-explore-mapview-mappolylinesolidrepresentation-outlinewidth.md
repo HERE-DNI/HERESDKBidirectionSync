@@ -3,10 +3,6 @@ title: "outlineWidth property - MapPolylineSolidRepresentation class - mapview l
 slug: "sdk-for-flutter-explore-mapview-mappolylinesolidrepresentation-outlinewidth"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- outlineWidth.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -51,6 +47,3 @@ MapMeasureDependentRenderSize get outlineWidth;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

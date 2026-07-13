@@ -3,10 +3,6 @@ title: "ensureReachability property - ElectricVehicleOptions class - routing lib
 slug: "sdk-for-flutter-explore-routing-electricvehicleoptions-ensurereachability"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- ensureReachability.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -53,6 +49,3 @@ bool ensureReachability;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

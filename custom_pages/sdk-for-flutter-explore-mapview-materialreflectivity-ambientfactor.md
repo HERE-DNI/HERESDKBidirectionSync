@@ -3,10 +3,6 @@ title: "ambientFactor property - MaterialReflectivity class - mapview library - 
 slug: "sdk-for-flutter-explore-mapview-materialreflectivity-ambientfactor"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- ambientFactor.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ double ambientFactor;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

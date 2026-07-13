@@ -3,10 +3,6 @@ title: "error property - MapSceneLoadOptionsBuilderInstantiationException class 
 slug: "sdk-for-flutter-explore-mapview-mapsceneloadoptionsbuilderinstantiationexception-error"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- error.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -41,6 +37,3 @@ final MapSceneLoadOptionsBuilderInstantiationErrorDetails error;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

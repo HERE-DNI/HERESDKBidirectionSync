@@ -3,10 +3,6 @@ title: "BusinessDetails constructor - BusinessDetails - search library - Dart AP
 slug: "sdk-for-flutter-explore-search-businessdetails-businessdetails"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- BusinessDetails.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -44,6 +40,3 @@ BusinessDetails()
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

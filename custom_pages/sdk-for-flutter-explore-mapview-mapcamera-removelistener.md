@@ -3,10 +3,6 @@ title: "removeListener method - MapCamera class - mapview library - Dart API"
 slug: "sdk-for-flutter-explore-mapview-mapcamera-removelistener"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- removeListener.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -51,6 +47,3 @@ void removeListener(MapCameraListener observer);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

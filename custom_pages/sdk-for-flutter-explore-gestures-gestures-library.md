@@ -3,10 +3,6 @@ title: "gestures library - Dart API"
 slug: "sdk-for-flutter-explore-gestures-gestures-library"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- gestures-library.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -57,6 +53,3 @@ Enum that represents the type of a gesture.
 
 <!-- /.main-content --> <!--/sidebar-offcanvas-right--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

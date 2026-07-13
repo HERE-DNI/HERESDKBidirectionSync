@@ -3,10 +3,6 @@ title: "TextQueryArea.withCorridor constructor - TextQueryArea - search library 
 slug: "sdk-for-flutter-explore-search-textqueryarea-textqueryarea-withcorridor"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- TextQueryArea.withCorridor.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -60,6 +56,3 @@ factory TextQueryArea.withCorridor(GeoCorridor corridorArea, GeoCoordinates area
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

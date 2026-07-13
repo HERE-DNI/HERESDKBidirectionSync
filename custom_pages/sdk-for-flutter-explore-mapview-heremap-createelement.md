@@ -3,10 +3,6 @@ title: "createElement method - HereMap class - mapview library - Dart API"
 slug: "sdk-for-flutter-explore-mapview-heremap-createelement"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- createElement.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -58,6 +54,3 @@ StatefulElement createElement() => StatefulElement(this);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

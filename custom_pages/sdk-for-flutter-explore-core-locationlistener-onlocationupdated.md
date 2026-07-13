@@ -3,10 +3,6 @@ title: "onLocationUpdated method - LocationListener class - core library - Dart 
 slug: "sdk-for-flutter-explore-core-locationlistener-onlocationupdated"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- onLocationUpdated.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -51,6 +47,3 @@ void onLocationUpdated(Location location);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

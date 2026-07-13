@@ -3,10 +3,6 @@ title: "addOrReplaceBoolean method - DataAttributesAccessor class - mapview.data
 slug: "sdk-for-flutter-explore-mapview.datasource-dataattributesaccessor-addorreplaceboolean"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- addOrReplaceBoolean.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -52,6 +48,3 @@ void addOrReplaceBoolean(String name, bool value);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

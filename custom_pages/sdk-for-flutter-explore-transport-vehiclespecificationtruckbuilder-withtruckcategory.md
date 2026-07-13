@@ -3,10 +3,6 @@ title: "withTruckCategory method - VehicleSpecificationTruckBuilder class - tran
 slug: "sdk-for-flutter-explore-transport-vehiclespecificationtruckbuilder-withtruckcategory"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- withTruckCategory.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -51,6 +47,3 @@ VehicleSpecificationTruckBuilder withTruckCategory(TruckCategory truckCategory);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

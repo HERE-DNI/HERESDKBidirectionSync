@@ -3,10 +3,6 @@ title: "consumablePowerInKilowatts property - ChargingActionDetails class - rout
 slug: "sdk-for-flutter-explore-routing-chargingactiondetails-consumablepowerinkilowatts"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- consumablePowerInKilowatts.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ double consumablePowerInKilowatts;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

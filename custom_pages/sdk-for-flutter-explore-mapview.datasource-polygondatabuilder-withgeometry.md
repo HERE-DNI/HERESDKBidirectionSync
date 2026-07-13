@@ -3,10 +3,6 @@ title: "withGeometry method - PolygonDataBuilder class - mapview.datasource libr
 slug: "sdk-for-flutter-explore-mapview.datasource-polygondatabuilder-withgeometry"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- withGeometry.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -51,6 +47,3 @@ PolygonDataBuilder withGeometry(GeoPolygon geometry);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

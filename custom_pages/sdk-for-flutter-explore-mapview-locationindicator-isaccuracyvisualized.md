@@ -3,10 +3,6 @@ title: "isAccuracyVisualized property - LocationIndicator class - mapview librar
 slug: "sdk-for-flutter-explore-mapview-locationindicator-isaccuracyvisualized"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- isAccuracyVisualized.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -83,6 +79,3 @@ set isAccuracyVisualized(bool value);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

@@ -3,10 +3,6 @@ title: "TransitDeparture constructor - TransitDeparture - routing library - Dart
 slug: "sdk-for-flutter-explore-routing-transitdeparture-transitdeparture"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- TransitDeparture.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -55,6 +51,3 @@ TransitDeparture(this.place, this.time, this.delay, this.status);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

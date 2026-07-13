@@ -3,10 +3,6 @@ title: "ChargingStop.withDefaults constructor - ChargingStop - routing library -
 slug: "sdk-for-flutter-explore-routing-chargingstop-chargingstop-withdefaults"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- ChargingStop.withDefaults.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -44,6 +40,3 @@ ChargingStop.withDefaults()
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

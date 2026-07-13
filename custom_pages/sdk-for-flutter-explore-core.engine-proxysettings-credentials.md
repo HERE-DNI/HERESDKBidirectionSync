@@ -3,10 +3,6 @@ title: "credentials property - ProxySettings class - core.engine library - Dart 
 slug: "sdk-for-flutter-explore-core.engine-proxysettings-credentials"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- credentials.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ ProxySettingsCredentials? credentials;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

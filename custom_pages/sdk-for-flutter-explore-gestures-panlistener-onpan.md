@@ -3,10 +3,6 @@ title: "onPan method - PanListener class - gestures library - Dart API"
 slug: "sdk-for-flutter-explore-gestures-panlistener-onpan"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- onPan.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -58,6 +54,3 @@ void onPan(GestureState state, Point2D origin, Point2D translation, double veloc
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

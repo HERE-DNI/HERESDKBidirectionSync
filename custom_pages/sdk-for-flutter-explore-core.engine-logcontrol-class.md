@@ -3,10 +3,6 @@ title: "LogControl class - core.engine library - Dart API"
 slug: "sdk-for-flutter-explore-core.engine-logcontrol-class"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- LogControl-class.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -101,6 +97,3 @@ Sets a custom log appender to receive log messages from the SDK.
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

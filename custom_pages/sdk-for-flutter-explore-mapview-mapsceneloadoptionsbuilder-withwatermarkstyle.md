@@ -3,10 +3,6 @@ title: "withWatermarkStyle method - MapSceneLoadOptionsBuilder class - mapview l
 slug: "sdk-for-flutter-explore-mapview-mapsceneloadoptionsbuilder-withwatermarkstyle"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- withWatermarkStyle.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -51,6 +47,3 @@ MapSceneLoadOptionsBuilder withWatermarkStyle(WatermarkStyle watermarkStyle);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

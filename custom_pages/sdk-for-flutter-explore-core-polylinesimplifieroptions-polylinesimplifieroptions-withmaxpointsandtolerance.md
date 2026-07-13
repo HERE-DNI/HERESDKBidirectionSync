@@ -3,10 +3,6 @@ title: "PolylineSimplifierOptions.withMaxPointsAndTolerance constructor - Polyli
 slug: "sdk-for-flutter-explore-core-polylinesimplifieroptions-polylinesimplifieroptions-withmaxpointsandtolerance"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- PolylineSimplifierOptions.withMaxPointsAndTolerance.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -59,6 +55,3 @@ PolylineSimplifierOptions.withMaxPointsAndTolerance(this.maxPoints, this.simplif
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

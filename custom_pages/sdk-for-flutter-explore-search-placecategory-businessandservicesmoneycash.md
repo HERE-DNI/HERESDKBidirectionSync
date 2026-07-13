@@ -3,10 +3,6 @@ title: "businessAndServicesMoneyCash property - PlaceCategory class - search lib
 slug: "sdk-for-flutter-explore-search-placecategory-businessandservicesmoneycash"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- businessAndServicesMoneyCash.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ static final String businessAndServicesMoneyCash = "700-7050";
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

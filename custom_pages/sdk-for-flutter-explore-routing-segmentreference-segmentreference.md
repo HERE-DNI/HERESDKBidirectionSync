@@ -3,10 +3,6 @@ title: "SegmentReference constructor - SegmentReference - routing library - Dart
 slug: "sdk-for-flutter-explore-routing-segmentreference-segmentreference"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- SegmentReference.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -60,6 +56,3 @@ SegmentReference([String segmentId = "", TravelDirection travelDirection = Trave
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

@@ -3,10 +3,6 @@ title: "ignoreExpiredData property - RasterDataSourceConfiguration class - mapvi
 slug: "sdk-for-flutter-explore-mapview.datasource-rasterdatasourceconfiguration-ignoreexpireddata"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- ignoreExpiredData.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ bool ignoreExpiredData;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

@@ -3,10 +3,6 @@ title: "GeoCoordinates class - core library - Dart API"
 slug: "sdk-for-flutter-explore-core-geocoordinates-class"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- GeoCoordinates-class.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -139,6 +135,3 @@ Constructs GeoCoordinates from the provided string in specified format.
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

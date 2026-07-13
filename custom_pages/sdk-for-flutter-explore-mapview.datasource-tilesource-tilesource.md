@@ -3,10 +3,6 @@ title: "TileSource constructor - TileSource - mapview.datasource library - Dart 
 slug: "sdk-for-flutter-explore-mapview.datasource-tilesource-tilesource"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- TileSource.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -76,6 +72,3 @@ factory TileSource(
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

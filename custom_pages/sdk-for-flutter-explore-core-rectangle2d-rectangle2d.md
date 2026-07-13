@@ -3,10 +3,6 @@ title: "Rectangle2D constructor - Rectangle2D - core library - Dart API"
 slug: "sdk-for-flutter-explore-core-rectangle2d-rectangle2d"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- Rectangle2D.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -51,6 +47,3 @@ Rectangle2D(this.origin, this.size);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

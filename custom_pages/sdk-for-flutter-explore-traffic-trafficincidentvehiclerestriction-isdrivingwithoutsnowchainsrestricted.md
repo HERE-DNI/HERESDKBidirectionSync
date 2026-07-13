@@ -3,10 +3,6 @@ title: "isDrivingWithoutSnowChainsRestricted property - TrafficIncidentVehicleRe
 slug: "sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-isdrivingwithoutsnowchainsrestricted"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- isDrivingWithoutSnowChainsRestricted.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ bool isDrivingWithoutSnowChainsRestricted;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

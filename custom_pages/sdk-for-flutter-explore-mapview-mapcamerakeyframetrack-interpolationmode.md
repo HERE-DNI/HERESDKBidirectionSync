@@ -3,10 +3,6 @@ title: "interpolationMode property - MapCameraKeyframeTrack class - mapview libr
 slug: "sdk-for-flutter-explore-mapview-mapcamerakeyframetrack-interpolationmode"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- interpolationMode.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -45,6 +41,3 @@ KeyframeInterpolationMode get interpolationMode;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

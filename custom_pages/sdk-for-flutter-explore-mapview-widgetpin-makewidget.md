@@ -3,10 +3,6 @@ title: "makeWidget method - WidgetPin class - mapview library - Dart API"
 slug: "sdk-for-flutter-explore-mapview-widgetpin-makewidget"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- makeWidget.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ Widget makeWidget(BuildContext context);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

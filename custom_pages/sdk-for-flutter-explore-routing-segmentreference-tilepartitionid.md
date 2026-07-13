@@ -3,10 +3,6 @@ title: "tilePartitionId property - SegmentReference class - routing library - Da
 slug: "sdk-for-flutter-explore-routing-segmentreference-tilepartitionid"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- tilePartitionId.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ int tilePartitionId;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

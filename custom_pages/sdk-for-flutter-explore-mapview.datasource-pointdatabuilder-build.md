@@ -3,10 +3,6 @@ title: "build method - PointDataBuilder class - mapview.datasource library - Dar
 slug: "sdk-for-flutter-explore-mapview.datasource-pointdatabuilder-build"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- build.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -45,6 +41,3 @@ PointData build();
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

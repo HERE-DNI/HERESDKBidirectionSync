@@ -3,10 +3,6 @@ title: "locationTechnology property - Location class - core library - Dart API"
 slug: "sdk-for-flutter-explore-core-location-locationtechnology"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- locationTechnology.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ LocationTechnology? locationTechnology;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

@@ -3,10 +3,6 @@ title: "getAsString method - DataAttributeValue class - mapview.datasource libra
 slug: "sdk-for-flutter-explore-mapview.datasource-dataattributevalue-getasstring"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- getAsString.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -45,6 +41,3 @@ String getAsString();
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

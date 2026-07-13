@@ -3,10 +3,6 @@ title: "travelDirection property - SegmentReference class - routing library - Da
 slug: "sdk-for-flutter-explore-routing-segmentreference-traveldirection"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- travelDirection.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ TravelDirection travelDirection;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

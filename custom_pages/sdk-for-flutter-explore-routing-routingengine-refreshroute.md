@@ -3,10 +3,6 @@ title: "refreshRoute method - RoutingEngine class - routing library - Dart API"
 slug: "sdk-for-flutter-explore-routing-routingengine-refreshroute"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- refreshRoute.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -72,6 +68,3 @@ TaskHandle refreshRoute(RouteHandle routeHandle, Waypoint startingPoint, Refresh
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

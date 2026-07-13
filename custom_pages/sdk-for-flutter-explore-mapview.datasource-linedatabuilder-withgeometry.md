@@ -3,10 +3,6 @@ title: "withGeometry method - LineDataBuilder class - mapview.datasource library
 slug: "sdk-for-flutter-explore-mapview.datasource-linedatabuilder-withgeometry"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- withGeometry.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -51,6 +47,3 @@ LineDataBuilder withGeometry(GeoPolyline geometry);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

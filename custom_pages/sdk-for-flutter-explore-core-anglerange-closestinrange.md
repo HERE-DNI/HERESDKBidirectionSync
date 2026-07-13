@@ -3,10 +3,6 @@ title: "closestInRange method - AngleRange class - core library - Dart API"
 slug: "sdk-for-flutter-explore-core-anglerange-closestinrange"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- closestInRange.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -55,6 +51,3 @@ double closestInRange(double angleClockwiseInDegreesFromNorth) => $prototype.clo
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

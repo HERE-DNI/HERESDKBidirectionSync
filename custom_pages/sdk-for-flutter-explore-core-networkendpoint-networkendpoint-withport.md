@@ -3,10 +3,6 @@ title: "NetworkEndpoint.withPort constructor - NetworkEndpoint - core library - 
 slug: "sdk-for-flutter-explore-core-networkendpoint-networkendpoint-withport"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- NetworkEndpoint.withPort.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -51,6 +47,3 @@ NetworkEndpoint.withPort(this.address, this.port);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

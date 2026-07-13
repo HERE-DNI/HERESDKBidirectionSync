@@ -3,10 +3,6 @@ title: "TileSourceListener constructor - TileSourceListener - mapview.datasource
 slug: "sdk-for-flutter-explore-mapview.datasource-tilesourcelistener-tilesourcelistener"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- TileSourceListener.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -56,6 +52,3 @@ factory TileSourceListener(
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

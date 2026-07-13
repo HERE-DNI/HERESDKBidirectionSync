@@ -3,10 +3,6 @@ title: "addOrReplaceDouble method - DataAttributesAccessor class - mapview.datas
 slug: "sdk-for-flutter-explore-mapview.datasource-dataattributesaccessor-addorreplacedouble"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- addOrReplaceDouble.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -52,6 +48,3 @@ void addOrReplaceDouble(String name, double value);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

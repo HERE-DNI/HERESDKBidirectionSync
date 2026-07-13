@@ -3,10 +3,6 @@ title: "grossWeightInKilograms property - VehicleProfile class - transport libra
 slug: "sdk-for-flutter-explore-transport-vehicleprofile-grossweightinkilograms"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- grossWeightInKilograms.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ int? grossWeightInKilograms;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

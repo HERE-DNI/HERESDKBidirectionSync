@@ -3,10 +3,6 @@ title: "mapview.datasource library - Dart API"
 slug: "sdk-for-flutter-explore-mapview.datasource-mapview-datasource-library"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- mapview.datasource-library.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -189,6 +185,3 @@ Provides the URL as String for the given tile coordinates and storage level.
 
 <!-- /.main-content --> <!--/sidebar-offcanvas-right--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

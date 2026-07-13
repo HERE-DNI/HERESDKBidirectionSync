@@ -3,10 +3,6 @@ title: "WebEditorial.withDefaults constructor - WebEditorial - search library - 
 slug: "sdk-for-flutter-explore-search-webeditorial-webeditorial-withdefaults"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- WebEditorial.withDefaults.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -44,6 +40,3 @@ WebEditorial.withDefaults()
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

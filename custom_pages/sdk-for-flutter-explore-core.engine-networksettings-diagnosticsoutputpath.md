@@ -3,10 +3,6 @@ title: "diagnosticsOutputPath property - NetworkSettings class - core.engine lib
 slug: "sdk-for-flutter-explore-core.engine-networksettings-diagnosticsoutputpath"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- diagnosticsOutputPath.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ String? diagnosticsOutputPath;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

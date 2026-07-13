@@ -3,10 +3,6 @@ title: "areaCenter property - CategoryQueryArea class - search library - Dart AP
 slug: "sdk-for-flutter-explore-search-categoryqueryarea-areacenter"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- areaCenter.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ final GeoCoordinates areaCenter;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

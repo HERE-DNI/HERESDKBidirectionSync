@@ -3,10 +3,6 @@ title: "EVChargingOpeningHours constructor - EVChargingOpeningHours - search lib
 slug: "sdk-for-flutter-explore-search-evchargingopeninghours-evchargingopeninghours"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- EVChargingOpeningHours.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -38,6 +34,3 @@ EVChargingOpeningHours()
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

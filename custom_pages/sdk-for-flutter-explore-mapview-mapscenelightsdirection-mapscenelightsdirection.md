@@ -3,10 +3,6 @@ title: "MapSceneLightsDirection constructor - MapSceneLightsDirection - mapview 
 slug: "sdk-for-flutter-explore-mapview-mapscenelightsdirection-mapscenelightsdirection"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- MapSceneLightsDirection.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -51,6 +47,3 @@ MapSceneLightsDirection(this.azimuth, this.altitude);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

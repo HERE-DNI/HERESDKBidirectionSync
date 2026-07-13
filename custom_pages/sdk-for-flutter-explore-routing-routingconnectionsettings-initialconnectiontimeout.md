@@ -3,10 +3,6 @@ title: "initialConnectionTimeout property - RoutingConnectionSettings class - ro
 slug: "sdk-for-flutter-explore-routing-routingconnectionsettings-initialconnectiontimeout"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- initialConnectionTimeout.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ Duration initialConnectionTimeout;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

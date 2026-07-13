@@ -3,10 +3,6 @@ title: "calculateBusRoute method - RoutingInterface class - routing library - Da
 slug: "sdk-for-flutter-explore-routing-routinginterface-calculatebusroute"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- calculateBusRoute.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -67,6 +63,3 @@ TaskHandle calculateBusRoute(List<Waypoint> waypoints, BusOptions busOptions, Ca
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

@@ -3,10 +3,6 @@ title: "addressElements property - StructuredQuery class - search library - Dart
 slug: "sdk-for-flutter-explore-search-structuredquery-addresselements"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- addressElements.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ StructuredQueryAddressElements addressElements;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

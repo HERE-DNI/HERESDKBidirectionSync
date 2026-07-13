@@ -3,10 +3,6 @@ title: "MapPolylineSolidMultiColorRepresentation constructor - MapPolylineSolidM
 slug: "sdk-for-flutter-explore-mapview-mappolylinesolidmulticolorrepresentation-mappolylinesolidmulticolorrepresentation"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- MapPolylineSolidMultiColorRepresentation.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -90,6 +86,3 @@ factory MapPolylineSolidMultiColorRepresentation(MapMeasureDependentRenderSize l
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

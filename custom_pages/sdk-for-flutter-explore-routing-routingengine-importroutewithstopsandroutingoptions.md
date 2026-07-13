@@ -3,10 +3,6 @@ title: "importRouteWithStopsAndRoutingOptions method - RoutingEngine class - rou
 slug: "sdk-for-flutter-explore-routing-routingengine-importroutewithstopsandroutingoptions"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- importRouteWithStopsAndRoutingOptions.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -68,6 +64,3 @@ TaskHandle importRouteWithStopsAndRoutingOptions(List<Location> locations, List<
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

@@ -3,10 +3,6 @@ title: "codes property - TrafficIncident class - traffic library - Dart API"
 slug: "sdk-for-flutter-explore-traffic-trafficincident-codes"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- codes.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -45,6 +41,3 @@ List<int> get codes;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

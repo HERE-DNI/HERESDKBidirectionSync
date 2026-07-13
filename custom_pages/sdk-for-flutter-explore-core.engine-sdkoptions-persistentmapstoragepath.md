@@ -3,10 +3,6 @@ title: "persistentMapStoragePath property - SDKOptions class - core.engine libra
 slug: "sdk-for-flutter-explore-core.engine-sdkoptions-persistentmapstoragepath"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- persistentMapStoragePath.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -60,6 +56,3 @@ String persistentMapStoragePath;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

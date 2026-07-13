@@ -3,10 +3,6 @@ title: "DataAttributeValue.withBoolean constructor - DataAttributeValue - mapvie
 slug: "sdk-for-flutter-explore-mapview.datasource-dataattributevalue-dataattributevalue-withboolean"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- DataAttributeValue.withBoolean.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -49,6 +45,3 @@ factory DataAttributeValue.withBoolean(bool value) => $prototype.withBoolean(val
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

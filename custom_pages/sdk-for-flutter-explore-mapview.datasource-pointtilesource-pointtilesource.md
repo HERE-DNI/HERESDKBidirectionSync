@@ -3,10 +3,6 @@ title: "PointTileSource constructor - PointTileSource - mapview.datasource libra
 slug: "sdk-for-flutter-explore-mapview.datasource-pointtilesource-pointtilesource"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- PointTileSource.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -83,6 +79,3 @@ factory PointTileSource(
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

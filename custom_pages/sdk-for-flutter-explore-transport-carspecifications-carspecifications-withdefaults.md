@@ -3,10 +3,6 @@ title: "CarSpecifications.withDefaults constructor - CarSpecifications - transpo
 slug: "sdk-for-flutter-explore-transport-carspecifications-carspecifications-withdefaults"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- CarSpecifications.withDefaults.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -44,6 +40,3 @@ CarSpecifications.withDefaults()
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

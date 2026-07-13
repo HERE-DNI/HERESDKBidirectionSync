@@ -3,10 +3,6 @@ title: "partnerId property - EMobilityServiceProvider class - search library - D
 slug: "sdk-for-flutter-explore-search-emobilityserviceprovider-partnerid"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- partnerId.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ String? partnerId;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

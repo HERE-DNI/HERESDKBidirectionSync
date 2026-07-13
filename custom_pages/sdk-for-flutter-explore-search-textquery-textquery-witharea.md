@@ -3,10 +3,6 @@ title: "TextQuery.withArea constructor - TextQuery - search library - Dart API"
 slug: "sdk-for-flutter-explore-search-textquery-textquery-witharea"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- TextQuery.withArea.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -54,6 +50,3 @@ factory TextQuery.withArea(String query, TextQueryArea area) => $prototype.withA
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

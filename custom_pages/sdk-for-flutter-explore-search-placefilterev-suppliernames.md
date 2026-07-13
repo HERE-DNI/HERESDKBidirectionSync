@@ -3,10 +3,6 @@ title: "supplierNames property - PlaceFilterEv class - search library - Dart API
 slug: "sdk-for-flutter-explore-search-placefilterev-suppliernames"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- supplierNames.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -49,6 +45,3 @@ List<String> supplierNames;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

@@ -3,10 +3,6 @@ title: "accommodation property - PlaceCategory class - search library - Dart API
 slug: "sdk-for-flutter-explore-search-placecategory-accommodation"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- accommodation.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ static final String accommodation = "500";
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

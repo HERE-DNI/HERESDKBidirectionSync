@@ -3,10 +3,6 @@ title: "PlaceFilterEv constructor - PlaceFilterEv - search library - Dart API"
 slug: "sdk-for-flutter-explore-search-placefilterev-placefilterev"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- PlaceFilterEv.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -38,6 +34,3 @@ PlaceFilterEv()
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

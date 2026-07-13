@@ -3,10 +3,6 @@ title: "id property - PlaceChain class - search library - Dart API"
 slug: "sdk-for-flutter-explore-search-placechain-id"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- id.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ String id;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

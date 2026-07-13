@@ -3,10 +3,6 @@ title: "MapMeasure constructor - MapMeasure - mapview library - Dart API"
 slug: "sdk-for-flutter-explore-mapview-mapmeasure-mapmeasure"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- MapMeasure.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -52,6 +48,3 @@ factory MapMeasure(MapMeasureKind kind, double value) => $prototype.create(kind,
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

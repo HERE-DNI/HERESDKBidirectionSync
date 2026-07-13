@@ -3,10 +3,6 @@ title: "CategoryQueryArea.withCircle constructor - CategoryQueryArea - search li
 slug: "sdk-for-flutter-explore-search-categoryqueryarea-categoryqueryarea-withcircle"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- CategoryQueryArea.withCircle.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -52,6 +48,3 @@ factory CategoryQueryArea.withCircle(GeoCoordinates areaCenter, GeoCircle circle
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

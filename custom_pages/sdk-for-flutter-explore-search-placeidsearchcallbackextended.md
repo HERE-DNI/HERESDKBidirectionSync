@@ -3,10 +3,6 @@ title: "PlaceIdSearchCallbackExtended typedef - search library - Dart API"
 slug: "sdk-for-flutter-explore-search-placeidsearchcallbackextended"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- PlaceIdSearchCallbackExtended.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -49,6 +45,3 @@ typedef PlaceIdSearchCallbackExtended = void Function(SearchError? searchError, 
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

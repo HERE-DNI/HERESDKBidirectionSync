@@ -3,10 +3,6 @@ title: "onRasterDataSourceReady method - RasterDataSourceListener class - mapvie
 slug: "sdk-for-flutter-explore-mapview.datasource-rasterdatasourcelistener-onrasterdatasourceready"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- onRasterDataSourceReady.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -43,6 +39,3 @@ void onRasterDataSourceReady();
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

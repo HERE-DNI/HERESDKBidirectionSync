@@ -3,10 +3,6 @@ title: "IndoorManeuver constructor - IndoorManeuver - routing library - Dart API
 slug: "sdk-for-flutter-explore-routing-indoormaneuver-indoormaneuver"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- IndoorManeuver.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -29,6 +25,3 @@ slug: "sdk-for-flutter-explore-routing-indoormaneuver-indoormaneuver"
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

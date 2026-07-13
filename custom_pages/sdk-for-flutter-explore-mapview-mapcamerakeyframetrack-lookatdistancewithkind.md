@@ -3,10 +3,6 @@ title: "lookAtDistanceWithKind method - MapCameraKeyframeTrack class - mapview l
 slug: "sdk-for-flutter-explore-mapview-mapcamerakeyframetrack-lookatdistancewithkind"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- lookAtDistanceWithKind.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -64,6 +60,3 @@ static MapCameraKeyframeTrack lookAtDistanceWithKind(MapMeasureKind distanceKind
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

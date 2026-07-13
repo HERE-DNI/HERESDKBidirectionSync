@@ -3,10 +3,6 @@ title: "visibilityRanges property - MapPolygon class - mapview library - Dart AP
 slug: "sdk-for-flutter-explore-mapview-mappolygon-visibilityranges"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- visibilityRanges.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -71,6 +67,3 @@ set visibilityRanges(List<MapMeasureRange> value);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

@@ -3,10 +3,6 @@ title: "DataAttributeValue.withDouble constructor - DataAttributeValue - mapview
 slug: "sdk-for-flutter-explore-mapview.datasource-dataattributevalue-dataattributevalue-withdouble"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- DataAttributeValue.withDouble.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -49,6 +45,3 @@ factory DataAttributeValue.withDouble(double value) => $prototype.withDouble(val
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

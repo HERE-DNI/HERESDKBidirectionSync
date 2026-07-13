@@ -3,10 +3,6 @@ title: "GeoOrientationKeyframe constructor - GeoOrientationKeyframe - animation 
 slug: "sdk-for-flutter-explore-animation-geoorientationkeyframe-geoorientationkeyframe"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- GeoOrientationKeyframe.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -52,6 +48,3 @@ factory GeoOrientationKeyframe(GeoOrientation value, Duration duration) => $prot
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

@@ -3,10 +3,6 @@ title: "baseSpeedInMetersPerSecond property - DynamicSpeedInfo class - routing l
 slug: "sdk-for-flutter-explore-routing-dynamicspeedinfo-basespeedinmeterspersecond"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- baseSpeedInMetersPerSecond.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ double baseSpeedInMetersPerSecond;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

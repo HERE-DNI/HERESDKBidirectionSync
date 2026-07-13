@@ -3,10 +3,6 @@ title: "importScooterRoute method - RoutingEngine class - routing library - Dart
 slug: "sdk-for-flutter-explore-routing-routingengine-importscooterroute"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- importScooterRoute.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -71,6 +67,3 @@ TaskHandle importScooterRoute(List<Location> locations, ScooterOptions scooterOp
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

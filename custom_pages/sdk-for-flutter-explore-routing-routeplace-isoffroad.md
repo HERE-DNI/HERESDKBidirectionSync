@@ -3,10 +3,6 @@ title: "isOffRoad method - RoutePlace class - routing library - Dart API"
 slug: "sdk-for-flutter-explore-routing-routeplace-isoffroad"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- isOffRoad.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -45,6 +41,3 @@ bool isOffRoad() => $prototype.isOffRoad(this);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

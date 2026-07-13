@@ -3,10 +3,6 @@ title: "Size2D.zero constructor - Size2D - core library - Dart API"
 slug: "sdk-for-flutter-explore-core-size2d-size2d-zero"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- Size2D.zero.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -44,6 +40,3 @@ Size2D.zero()
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

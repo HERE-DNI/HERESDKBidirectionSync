@@ -3,10 +3,6 @@ title: "trafficIncidentsAll property - MapFeatureModes class - mapview library -
 slug: "sdk-for-flutter-explore-mapview-mapfeaturemodes-trafficincidentsall"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- trafficIncidentsAll.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ static final String trafficIncidentsAll = "all";
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

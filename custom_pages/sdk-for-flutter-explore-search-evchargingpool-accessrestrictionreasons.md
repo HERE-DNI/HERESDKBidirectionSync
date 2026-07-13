@@ -3,10 +3,6 @@ title: "accessRestrictionReasons property - EVChargingPool class - search librar
 slug: "sdk-for-flutter-explore-search-evchargingpool-accessrestrictionreasons"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- accessRestrictionReasons.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ List<EVAccessRestrictionReason> accessRestrictionReasons;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

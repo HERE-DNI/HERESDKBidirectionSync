@@ -3,10 +3,6 @@ title: "getTextWithDirection method - LocalizedRoadNumber class - routing librar
 slug: "sdk-for-flutter-explore-routing-localizedroadnumber-gettextwithdirection"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- getTextWithDirection.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ String getTextWithDirection() => $prototype.getTextWithDirection(this);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

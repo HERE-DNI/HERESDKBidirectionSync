@@ -3,10 +3,6 @@ title: "roadNumber property - TextUsageOptions class - routing library - Dart AP
 slug: "sdk-for-flutter-explore-routing-textusageoptions-roadnumber"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- roadNumber.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ LocalizedTextPreference roadNumber;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

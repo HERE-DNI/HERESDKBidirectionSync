@@ -3,10 +3,6 @@ title: "MapMarkerAnimationInstantiationException constructor - MapMarkerAnimatio
 slug: "sdk-for-flutter-explore-animation-mapmarkeranimationinstantiationexception-mapmarkeranimationinstantiationexception"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- MapMarkerAnimationInstantiationException.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -41,6 +37,3 @@ MapMarkerAnimationInstantiationException(this.error);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

@@ -3,10 +3,6 @@ title: "RouteStop constructor - RouteStop - routing library - Dart API"
 slug: "sdk-for-flutter-explore-routing-routestop-routestop"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- RouteStop.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -42,6 +38,3 @@ RouteStop(int locationIndex)
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

@@ -3,10 +3,6 @@ title: "minJamFactor property - TrafficFlowQueryOptions class - traffic library 
 slug: "sdk-for-flutter-explore-traffic-trafficflowqueryoptions-minjamfactor"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- minJamFactor.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ double? minJamFactor;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

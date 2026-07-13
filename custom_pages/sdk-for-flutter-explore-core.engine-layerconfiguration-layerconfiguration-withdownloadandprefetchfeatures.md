@@ -3,10 +3,6 @@ title: "LayerConfiguration.withDownloadAndPrefetchFeatures constructor - LayerCo
 slug: "sdk-for-flutter-explore-core.engine-layerconfiguration-layerconfiguration-withdownloadandprefetchfeatures"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- LayerConfiguration.withDownloadAndPrefetchFeatures.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -60,6 +56,3 @@ LayerConfiguration.withDownloadAndPrefetchFeatures(this.enabledFeatures, this.im
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

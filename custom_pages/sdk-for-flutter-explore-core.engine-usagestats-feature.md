@@ -3,10 +3,6 @@ title: "feature property - UsageStats class - core.engine library - Dart API"
 slug: "sdk-for-flutter-explore-core.engine-usagestats-feature"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- feature.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ UsageStatsFeature feature;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

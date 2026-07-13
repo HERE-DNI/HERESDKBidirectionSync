@@ -3,10 +3,6 @@ title: "TimeRule constructor - TimeRule - core library - Dart API"
 slug: "sdk-for-flutter-explore-core-timerule-timerule"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- TimeRule.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -55,6 +51,3 @@ factory TimeRule(String timeRule, int timeZoneOffsetSeconds, String dstSpec) => 
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

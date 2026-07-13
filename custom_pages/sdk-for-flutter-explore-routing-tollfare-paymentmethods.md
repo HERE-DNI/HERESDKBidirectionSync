@@ -3,10 +3,6 @@ title: "paymentMethods property - TollFare class - routing library - Dart API"
 slug: "sdk-for-flutter-explore-routing-tollfare-paymentmethods"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- paymentMethods.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ List<PaymentMethod> paymentMethods;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

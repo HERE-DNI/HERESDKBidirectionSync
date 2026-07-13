@@ -3,10 +3,6 @@ title: "typeFilter property - TrafficIncidentsQueryOptions class - traffic libra
 slug: "sdk-for-flutter-explore-traffic-trafficincidentsqueryoptions-typefilter"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- typeFilter.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ List<TrafficIncidentType> typeFilter;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

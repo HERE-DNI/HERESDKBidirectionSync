@@ -3,10 +3,6 @@ title: "GeoPolygon.withInnerBoundaries constructor - GeoPolygon - core library -
 slug: "sdk-for-flutter-explore-core-geopolygon-geopolygon-withinnerboundaries"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- GeoPolygon.withInnerBoundaries.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -56,6 +52,3 @@ factory GeoPolygon.withInnerBoundaries(List<GeoCoordinates> vertices, List<List<
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

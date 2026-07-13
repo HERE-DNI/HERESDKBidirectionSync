@@ -3,10 +3,6 @@ title: "lookAtPointWithOrientation method - MapCameraUpdateFactory class - mapvi
 slug: "sdk-for-flutter-explore-mapview-mapcameraupdatefactory-lookatpointwithorientation"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- lookAtPointWithOrientation.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -56,6 +52,3 @@ static MapCameraUpdate lookAtPointWithOrientation(GeoCoordinatesUpdate target, G
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

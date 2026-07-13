@@ -3,10 +3,6 @@ title: "GeoBox constructor - GeoBox - core library - Dart API"
 slug: "sdk-for-flutter-explore-core-geobox-geobox"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- GeoBox.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -51,6 +47,3 @@ const GeoBox(this.southWestCorner, this.northEastCorner);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

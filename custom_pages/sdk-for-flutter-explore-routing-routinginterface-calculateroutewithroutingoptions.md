@@ -3,10 +3,6 @@ title: "calculateRouteWithRoutingOptions method - RoutingInterface class - routi
 slug: "sdk-for-flutter-explore-routing-routinginterface-calculateroutewithroutingoptions"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- calculateRouteWithRoutingOptions.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -59,6 +55,3 @@ TaskHandle calculateRouteWithRoutingOptions(List<Waypoint> waypoints, RoutingOpt
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

@@ -3,10 +3,6 @@ title: "Waypoint.withDefaults constructor - Waypoint - routing library - Dart AP
 slug: "sdk-for-flutter-explore-routing-waypoint-waypoint-withdefaults"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- Waypoint.withDefaults.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -50,6 +46,3 @@ Waypoint.withDefaults(this.coordinates)
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

@@ -3,10 +3,6 @@ title: "disableFeatures method - MapScene class - mapview library - Dart API"
 slug: "sdk-for-flutter-explore-mapview-mapscene-disablefeatures"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- disableFeatures.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -57,6 +53,3 @@ void disableFeatures(List<String> features);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

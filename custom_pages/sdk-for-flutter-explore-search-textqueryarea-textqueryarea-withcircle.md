@@ -3,10 +3,6 @@ title: "TextQueryArea.withCircle constructor - TextQueryArea - search library - 
 slug: "sdk-for-flutter-explore-search-textqueryarea-textqueryarea-withcircle"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- TextQueryArea.withCircle.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -51,6 +47,3 @@ factory TextQueryArea.withCircle(GeoCircle circleArea) => $prototype.withCircle(
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

@@ -3,10 +3,6 @@ title: "VehicleSpecificationPrivateBusBuilder class - transport library - Dart A
 slug: "sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-class"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- VehicleSpecificationPrivateBusBuilder-class.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -145,6 +141,3 @@ The equality operator.
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

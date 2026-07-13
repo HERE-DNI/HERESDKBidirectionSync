@@ -3,10 +3,6 @@ title: "GeoOrientation constructor - GeoOrientation - core library - Dart API"
 slug: "sdk-for-flutter-explore-core-geoorientation-geoorientation"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- GeoOrientation.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -50,6 +46,3 @@ factory GeoOrientation(double bearing, double tilt) => $prototype.$init(bearing,
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

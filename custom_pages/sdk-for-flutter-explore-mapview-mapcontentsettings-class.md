@@ -3,10 +3,6 @@ title: "MapContentSettings class - mapview library - Dart API"
 slug: "sdk-for-flutter-explore-mapview-mapcontentsettings-class"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- MapContentSettings-class.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -100,6 +96,3 @@ Sets the traffic data refresh period for both <a href="sdk-for-flutter-explore-m
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

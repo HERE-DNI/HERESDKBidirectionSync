@@ -3,10 +3,6 @@ title: "RasterDataSourceCacheConfiguration constructor - RasterDataSourceCacheCo
 slug: "sdk-for-flutter-explore-mapview.datasource-rasterdatasourcecacheconfiguration-rasterdatasourcecacheconfiguration"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- RasterDataSourceCacheConfiguration.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -51,6 +47,3 @@ RasterDataSourceCacheConfiguration(this.path, this.diskSize);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

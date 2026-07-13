@@ -3,10 +3,6 @@ title: "Easing.withSampledPoints constructor - Easing - animation library - Dart
 slug: "sdk-for-flutter-explore-animation-easing-easing-withsampledpoints"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- Easing.withSampledPoints.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -51,6 +47,3 @@ factory Easing.withSampledPoints(List<Point2D> points) => $prototype.withSampled
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

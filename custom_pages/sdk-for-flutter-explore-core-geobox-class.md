@@ -3,10 +3,6 @@ title: "GeoBox class - core library - Dart API"
 slug: "sdk-for-flutter-explore-core-geobox-class"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- GeoBox-class.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -141,6 +137,3 @@ Computes intersection of list of <a href="sdk-for-flutter-explore-core-geobox-cl
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

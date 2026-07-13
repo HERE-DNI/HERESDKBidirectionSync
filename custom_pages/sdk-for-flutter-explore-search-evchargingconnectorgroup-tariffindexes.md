@@ -3,10 +3,6 @@ title: "tariffIndexes property - EVChargingConnectorGroup class - search library
 slug: "sdk-for-flutter-explore-search-evchargingconnectorgroup-tariffindexes"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- tariffIndexes.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ List<int> tariffIndexes;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

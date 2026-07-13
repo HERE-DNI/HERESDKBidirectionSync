@@ -3,10 +3,6 @@ title: "setBearingRangeAtZoom method - MapCameraLimits class - mapview library -
 slug: "sdk-for-flutter-explore-mapview-mapcameralimits-setbearingrangeatzoom"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- setBearingRangeAtZoom.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -56,6 +52,3 @@ void setBearingRangeAtZoom(MapMeasure zoom, AngleRange bearingRange);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

@@ -3,10 +3,6 @@ title: "arrivalPlace property - IndoorSectionDetails class - routing library - D
 slug: "sdk-for-flutter-explore-routing-indoorsectiondetails-arrivalplace"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- arrivalPlace.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -45,6 +41,3 @@ IndoorRoutePlace get arrivalPlace;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

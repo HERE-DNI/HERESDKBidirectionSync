@@ -3,10 +3,6 @@ title: "withWeightPerAxleGroup method - VehicleSpecificationPrivateBusBuilder cl
 slug: "sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-withweightperaxlegroup"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- withWeightPerAxleGroup.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -51,6 +47,3 @@ VehicleSpecificationPrivateBusBuilder withWeightPerAxleGroup(WeightPerAxleGroup 
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

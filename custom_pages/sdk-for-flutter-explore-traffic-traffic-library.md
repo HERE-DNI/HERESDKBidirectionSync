@@ -3,10 +3,6 @@ title: "traffic library - Dart API"
 slug: "sdk-for-flutter-explore-traffic-traffic-library"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- traffic-library.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -92,6 +88,3 @@ Callback passed to <a href="sdk-for-flutter-explore-traffic-trafficengine-queryf
 
 <!-- /.main-content --> <!--/sidebar-offcanvas-right--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

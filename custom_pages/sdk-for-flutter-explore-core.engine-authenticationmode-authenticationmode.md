@@ -3,10 +3,6 @@ title: "AuthenticationMode constructor - AuthenticationMode - core.engine librar
 slug: "sdk-for-flutter-explore-core.engine-authenticationmode-authenticationmode"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- AuthenticationMode.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -29,6 +25,3 @@ slug: "sdk-for-flutter-explore-core.engine-authenticationmode-authenticationmode
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

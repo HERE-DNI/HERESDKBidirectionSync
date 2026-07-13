@@ -3,10 +3,6 @@ title: "removeListeners method - RasterDataSource class - mapview.datasource lib
 slug: "sdk-for-flutter-explore-mapview.datasource-rasterdatasource-removelisteners"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- removeListeners.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -45,6 +41,3 @@ void removeListeners();
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

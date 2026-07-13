@@ -3,10 +3,6 @@ title: "catalogConfigurations property - SDKOptions class - core.engine library 
 slug: "sdk-for-flutter-explore-core.engine-sdkoptions-catalogconfigurations"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- catalogConfigurations.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -49,6 +45,3 @@ List<CatalogConfiguration> catalogConfigurations;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

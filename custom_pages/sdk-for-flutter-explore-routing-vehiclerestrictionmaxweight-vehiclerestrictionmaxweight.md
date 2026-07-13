@@ -3,10 +3,6 @@ title: "VehicleRestrictionMaxWeight constructor - VehicleRestrictionMaxWeight - 
 slug: "sdk-for-flutter-explore-routing-vehiclerestrictionmaxweight-vehiclerestrictionmaxweight"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- VehicleRestrictionMaxWeight.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -51,6 +47,3 @@ VehicleRestrictionMaxWeight(this.valueInKilograms, this.type);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

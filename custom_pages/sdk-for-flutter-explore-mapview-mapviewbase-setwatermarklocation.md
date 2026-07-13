@@ -3,10 +3,6 @@ title: "setWatermarkLocation method - MapViewBase class - mapview library - Dart
 slug: "sdk-for-flutter-explore-mapview-mapviewbase-setwatermarklocation"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- setWatermarkLocation.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -54,6 +50,3 @@ void setWatermarkLocation(Anchor2D anchor, Point2D offset);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

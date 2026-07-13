@@ -3,10 +3,6 @@ title: "removeAppender method - LogControl class - core.engine library - Dart AP
 slug: "sdk-for-flutter-explore-core.engine-logcontrol-removeappender"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- removeAppender.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -43,6 +39,3 @@ static void removeAppender() => $prototype.removeAppender();
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

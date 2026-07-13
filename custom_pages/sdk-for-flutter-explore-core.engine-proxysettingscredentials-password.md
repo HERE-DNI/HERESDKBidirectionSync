@@ -3,10 +3,6 @@ title: "password property - ProxySettingsCredentials class - core.engine library
 slug: "sdk-for-flutter-explore-core.engine-proxysettingscredentials-password"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- password.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ String password;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

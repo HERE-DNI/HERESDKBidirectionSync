@@ -3,10 +3,6 @@ title: "Metadata constructor - Metadata - core library - Dart API"
 slug: "sdk-for-flutter-explore-core-metadata-metadata"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- Metadata.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -43,6 +39,3 @@ factory Metadata() => $prototype.make();
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

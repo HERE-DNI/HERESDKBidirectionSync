@@ -3,10 +3,6 @@ title: "dataExpiryTimestamp property - TileSourceTileMetadata class - mapview.da
 slug: "sdk-for-flutter-explore-mapview.datasource-tilesourcetilemetadata-dataexpirytimestamp"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- dataExpiryTimestamp.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ DateTime dataExpiryTimestamp;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

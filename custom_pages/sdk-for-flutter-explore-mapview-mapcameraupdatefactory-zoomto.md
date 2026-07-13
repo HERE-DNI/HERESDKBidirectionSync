@@ -3,10 +3,6 @@ title: "zoomTo method - MapCameraUpdateFactory class - mapview library - Dart AP
 slug: "sdk-for-flutter-explore-mapview-mapcameraupdatefactory-zoomto"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- zoomTo.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -53,6 +49,3 @@ static MapCameraUpdate zoomTo(double zoomLevel) => $prototype.zoomTo(zoomLevel);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

@@ -3,10 +3,6 @@ title: "area property - TextQuery class - search library - Dart API"
 slug: "sdk-for-flutter-explore-search-textquery-area"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- area.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ TextQueryArea area;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

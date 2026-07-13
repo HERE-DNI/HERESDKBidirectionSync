@@ -3,10 +3,6 @@ title: "measureKind property - MapMeasureDependentRenderSize class - mapview lib
 slug: "sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-measurekind"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- measureKind.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ final MapMeasureKind measureKind;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

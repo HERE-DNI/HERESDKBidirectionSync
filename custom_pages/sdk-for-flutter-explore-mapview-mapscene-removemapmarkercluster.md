@@ -3,10 +3,6 @@ title: "removeMapMarkerCluster method - MapScene class - mapview library - Dart 
 slug: "sdk-for-flutter-explore-mapview-mapscene-removemapmarkercluster"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- removeMapMarkerCluster.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -51,6 +47,3 @@ void removeMapMarkerCluster(MapMarkerCluster cluster);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

@@ -3,10 +3,6 @@ title: "markers3d property - PickMapItemsResult class - mapview library - Dart A
 slug: "sdk-for-flutter-explore-mapview-pickmapitemsresult-markers3d"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- markers3d.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -45,6 +41,3 @@ List<MapMarker3D> get markers3d;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

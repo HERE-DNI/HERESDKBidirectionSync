@@ -3,10 +3,6 @@ title: "urlProvider property - RasterDataSourceProviderConfiguration class - map
 slug: "sdk-for-flutter-explore-mapview.datasource-rasterdatasourceproviderconfiguration-urlprovider"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- urlProvider.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ TileUrlProviderCallback urlProvider;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

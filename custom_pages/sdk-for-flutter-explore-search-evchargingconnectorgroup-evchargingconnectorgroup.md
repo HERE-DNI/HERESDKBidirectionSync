@@ -3,10 +3,6 @@ title: "EVChargingConnectorGroup constructor - EVChargingConnectorGroup - search
 slug: "sdk-for-flutter-explore-search-evchargingconnectorgroup-evchargingconnectorgroup"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- EVChargingConnectorGroup.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -38,6 +34,3 @@ EVChargingConnectorGroup()
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

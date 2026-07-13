@@ -3,10 +3,6 @@ title: "withOccupancy method - VehicleSpecificationTaxiBuilder class - transport
 slug: "sdk-for-flutter-explore-transport-vehiclespecificationtaxibuilder-withoccupancy"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- withOccupancy.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -51,6 +47,3 @@ VehicleSpecificationTaxiBuilder withOccupancy(int occupancy);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

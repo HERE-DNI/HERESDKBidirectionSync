@@ -3,10 +3,6 @@ title: "Contact constructor - Contact - search library - Dart API"
 slug: "sdk-for-flutter-explore-search-contact-contact"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- Contact.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -55,6 +51,3 @@ Contact(this.landlinePhones, this.mobilePhones, this.emails, this.websites);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

@@ -3,10 +3,6 @@ title: "travels property - TollFarePass class - routing library - Dart API"
 slug: "sdk-for-flutter-explore-routing-tollfarepass-travels"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- travels.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ int? travels;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

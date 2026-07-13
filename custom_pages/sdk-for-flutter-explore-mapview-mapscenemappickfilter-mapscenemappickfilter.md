@@ -3,10 +3,6 @@ title: "MapSceneMapPickFilter constructor - MapSceneMapPickFilter - mapview libr
 slug: "sdk-for-flutter-explore-mapview-mapscenemappickfilter-mapscenemappickfilter"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- MapSceneMapPickFilter.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -49,6 +45,3 @@ factory MapSceneMapPickFilter(List<MapSceneMapPickFilterContentType> filter) => 
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

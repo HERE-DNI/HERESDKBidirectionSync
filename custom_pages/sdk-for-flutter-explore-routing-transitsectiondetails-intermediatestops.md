@@ -3,10 +3,6 @@ title: "intermediateStops property - TransitSectionDetails class - routing libra
 slug: "sdk-for-flutter-explore-routing-transitsectiondetails-intermediatestops"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- intermediateStops.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ List<TransitStop> intermediateStops;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

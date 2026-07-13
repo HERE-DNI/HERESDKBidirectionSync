@@ -3,10 +3,6 @@ title: "addMapMarkers3d method - MapScene class - mapview library - Dart API"
 slug: "sdk-for-flutter-explore-mapview-mapscene-addmapmarkers3d"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- addMapMarkers3d.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -53,6 +49,3 @@ void addMapMarkers3d(List<MapMarker3D> markers);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

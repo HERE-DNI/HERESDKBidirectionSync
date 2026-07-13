@@ -3,10 +3,6 @@ title: "LongPressListener constructor - LongPressListener - gestures library - D
 slug: "sdk-for-flutter-explore-gestures-longpresslistener-longpresslistener"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- LongPressListener.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -59,6 +55,3 @@ factory LongPressListener(
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

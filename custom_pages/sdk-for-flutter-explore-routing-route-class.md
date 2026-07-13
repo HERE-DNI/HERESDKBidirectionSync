@@ -3,10 +3,6 @@ title: "Route class - routing library - Dart API"
 slug: "sdk-for-flutter-explore-routing-route-class"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- Route-class.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -220,6 +216,3 @@ Serializes given route to a binary data.
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

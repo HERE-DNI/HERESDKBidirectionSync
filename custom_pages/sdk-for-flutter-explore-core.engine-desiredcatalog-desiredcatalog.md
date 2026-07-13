@@ -3,10 +3,6 @@ title: "DesiredCatalog constructor - DesiredCatalog - core.engine library - Dart
 slug: "sdk-for-flutter-explore-core.engine-desiredcatalog-desiredcatalog"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- DesiredCatalog.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -52,6 +48,3 @@ factory DesiredCatalog(String hrn, CatalogVersionHint version) => $prototype.mak
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

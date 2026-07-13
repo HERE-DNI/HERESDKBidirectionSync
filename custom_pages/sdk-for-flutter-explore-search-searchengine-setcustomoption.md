@@ -3,10 +3,6 @@ title: "setCustomOption method - SearchEngine class - search library - Dart API"
 slug: "sdk-for-flutter-explore-search-searchengine-setcustomoption"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- setCustomOption.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -72,6 +68,3 @@ SearchError? setCustomOption(String name, String value);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

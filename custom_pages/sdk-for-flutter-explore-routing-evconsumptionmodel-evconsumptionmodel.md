@@ -3,10 +3,6 @@ title: "EVConsumptionModel constructor - EVConsumptionModel - routing library - 
 slug: "sdk-for-flutter-explore-routing-evconsumptionmodel-evconsumptionmodel"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- EVConsumptionModel.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -38,6 +34,3 @@ EVConsumptionModel()
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

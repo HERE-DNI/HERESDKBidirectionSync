@@ -3,10 +3,6 @@ title: "withDisabledFeatures method - MapSceneLoadOptionsBuilder class - mapview
 slug: "sdk-for-flutter-explore-mapview-mapsceneloadoptionsbuilder-withdisabledfeatures"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- withDisabledFeatures.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -51,6 +47,3 @@ MapSceneLoadOptionsBuilder withDisabledFeatures(List<String> disabledFeatures);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

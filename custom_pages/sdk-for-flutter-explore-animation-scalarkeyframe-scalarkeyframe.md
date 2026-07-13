@@ -3,10 +3,6 @@ title: "ScalarKeyframe constructor - ScalarKeyframe - animation library - Dart A
 slug: "sdk-for-flutter-explore-animation-scalarkeyframe-scalarkeyframe"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- ScalarKeyframe.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -52,6 +48,3 @@ factory ScalarKeyframe(double value, Duration duration) => $prototype.create(val
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

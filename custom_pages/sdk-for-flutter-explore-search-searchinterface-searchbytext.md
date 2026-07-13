@@ -3,10 +3,6 @@ title: "searchByText method - SearchInterface class - search library - Dart API"
 slug: "sdk-for-flutter-explore-search-searchinterface-searchbytext"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- searchByText.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -59,6 +55,3 @@ TaskHandle searchByText(TextQuery query, SearchOptions options, SearchCallback c
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

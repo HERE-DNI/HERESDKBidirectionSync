@@ -3,10 +3,6 @@ title: "EVSearchEngine.withSdkEngine constructor - EVSearchEngine - search libra
 slug: "sdk-for-flutter-explore-search-evsearchengine-evsearchengine-withsdkengine"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- EVSearchEngine.withSdkEngine.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -51,6 +47,3 @@ factory EVSearchEngine.withSdkEngine(SDKNativeEngine sdkEngine) => $prototype.wi
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

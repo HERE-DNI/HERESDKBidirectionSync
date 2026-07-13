@@ -3,10 +3,6 @@ title: "WebsiteAddress constructor - WebsiteAddress - search library - Dart API"
 slug: "sdk-for-flutter-explore-search-websiteaddress-websiteaddress"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- WebsiteAddress.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -51,6 +47,3 @@ WebsiteAddress(this.address, this.categories);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

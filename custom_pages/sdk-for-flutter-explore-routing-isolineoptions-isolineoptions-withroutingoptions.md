@@ -3,10 +3,6 @@ title: "IsolineOptions.withRoutingOptions constructor - IsolineOptions - routing
 slug: "sdk-for-flutter-explore-routing-isolineoptions-isolineoptions-withroutingoptions"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- IsolineOptions.withRoutingOptions.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -59,6 +55,3 @@ factory IsolineOptions.withRoutingOptions(IsolineOptionsCalculation calculationO
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

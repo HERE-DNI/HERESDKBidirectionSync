@@ -3,10 +3,6 @@ title: "withPayloadCapacityInKilograms method - VehicleSpecificationCarBuilder c
 slug: "sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-withpayloadcapacityinkilograms"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- withPayloadCapacityInKilograms.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -51,6 +47,3 @@ VehicleSpecificationCarBuilder withPayloadCapacityInKilograms(int payloadCapacit
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

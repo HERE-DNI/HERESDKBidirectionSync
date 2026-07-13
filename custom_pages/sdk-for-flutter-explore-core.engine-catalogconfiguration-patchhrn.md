@@ -3,10 +3,6 @@ title: "patchHrn property - CatalogConfiguration class - core.engine library - D
 slug: "sdk-for-flutter-explore-core.engine-catalogconfiguration-patchhrn"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- patchHrn.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ String? patchHrn;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

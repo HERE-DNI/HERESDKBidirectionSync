@@ -3,10 +3,6 @@ title: "clearPersistentUsageStats method - SDKNativeEngine class - core.engine l
 slug: "sdk-for-flutter-explore-core.engine-sdknativeengine-clearpersistentusagestats"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- clearPersistentUsageStats.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -45,6 +41,3 @@ void clearPersistentUsageStats();
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

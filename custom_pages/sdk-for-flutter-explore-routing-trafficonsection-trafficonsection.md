@@ -3,10 +3,6 @@ title: "TrafficOnSection constructor - TrafficOnSection - routing library - Dart
 slug: "sdk-for-flutter-explore-routing-trafficonsection-trafficonsection"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- TrafficOnSection.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -43,6 +39,3 @@ TrafficOnSection(RoutePlace departurePlace, RoutePlace arrivalPlace)
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

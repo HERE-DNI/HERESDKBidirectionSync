@@ -3,10 +3,6 @@ title: "sendRequestExtended method - SearchEngine class - search library - Dart 
 slug: "sdk-for-flutter-explore-search-searchengine-sendrequestextended"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- sendRequestExtended.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -56,6 +52,3 @@ TaskHandle sendRequestExtended(String href, SearchCallbackExtended callback);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

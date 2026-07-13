@@ -3,10 +3,6 @@ title: "sdkVersion method - SDKBuildInformation class - core.engine library - Da
 slug: "sdk-for-flutter-explore-core.engine-sdkbuildinformation-sdkversion"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- sdkVersion.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -43,6 +39,3 @@ static SDKVersion sdkVersion() => $prototype.sdkVersion();
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

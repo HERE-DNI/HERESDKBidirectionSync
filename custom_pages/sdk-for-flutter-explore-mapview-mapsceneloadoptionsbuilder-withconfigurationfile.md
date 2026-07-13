@@ -3,10 +3,6 @@ title: "withConfigurationFile method - MapSceneLoadOptionsBuilder class - mapvie
 slug: "sdk-for-flutter-explore-mapview-mapsceneloadoptionsbuilder-withconfigurationfile"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- withConfigurationFile.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -53,6 +49,3 @@ MapSceneLoadOptionsBuilder withConfigurationFile(String configurationFile);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

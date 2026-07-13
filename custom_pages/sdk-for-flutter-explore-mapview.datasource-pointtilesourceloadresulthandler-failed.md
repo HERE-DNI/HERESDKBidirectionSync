@@ -3,10 +3,6 @@ title: "failed method - PointTileSourceLoadResultHandler class - mapview.datasou
 slug: "sdk-for-flutter-explore-mapview.datasource-pointtilesourceloadresulthandler-failed"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- failed.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -49,6 +45,3 @@ void failed(TileKey tileKey);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

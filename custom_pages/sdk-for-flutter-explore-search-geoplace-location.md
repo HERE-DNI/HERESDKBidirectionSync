@@ -3,10 +3,6 @@ title: "location property - GeoPlace class - search library - Dart API"
 slug: "sdk-for-flutter-explore-search-geoplace-location"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- location.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ LocationDetails? location;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

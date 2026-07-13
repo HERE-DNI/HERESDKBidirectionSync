@@ -3,10 +3,6 @@ title: "calculateCarRoute method - RoutingInterface class - routing library - Da
 slug: "sdk-for-flutter-explore-routing-routinginterface-calculatecarroute"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- calculateCarRoute.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -67,6 +63,3 @@ TaskHandle calculateCarRoute(List<Waypoint> waypoints, CarOptions carOptions, Ca
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

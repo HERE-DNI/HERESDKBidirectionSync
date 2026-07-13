@@ -3,10 +3,6 @@ title: "powerType property - EVChargingConnector class - search library - Dart A
 slug: "sdk-for-flutter-explore-search-evchargingconnector-powertype"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- powerType.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ PowerType powerType;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

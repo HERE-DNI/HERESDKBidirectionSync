@@ -3,10 +3,6 @@ title: "JsonStyleFactoryInstantiationException constructor - JsonStyleFactoryIns
 slug: "sdk-for-flutter-explore-mapview-jsonstylefactoryinstantiationexception-jsonstylefactoryinstantiationexception"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- JsonStyleFactoryInstantiationException.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -41,6 +37,3 @@ JsonStyleFactoryInstantiationException(this.error);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

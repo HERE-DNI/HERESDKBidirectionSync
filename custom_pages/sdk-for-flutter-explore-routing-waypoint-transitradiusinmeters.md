@@ -3,10 +3,6 @@ title: "transitRadiusInMeters property - Waypoint class - routing library - Dart
 slug: "sdk-for-flutter-explore-routing-waypoint-transitradiusinmeters"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- transitRadiusInMeters.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ int transitRadiusInMeters;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

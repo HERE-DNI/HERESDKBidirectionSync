@@ -3,10 +3,6 @@ title: "SDKDartInfo class - core.engine library - Dart API"
 slug: "sdk-for-flutter-explore-core.engine-sdkdartinfo-class"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- SDKDartInfo-class.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -97,6 +93,3 @@ The version of the current Dart runtime if applicable. The returned String is fo
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

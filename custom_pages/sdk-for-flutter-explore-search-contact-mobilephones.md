@@ -3,10 +3,6 @@ title: "mobilePhones property - Contact class - search library - Dart API"
 slug: "sdk-for-flutter-explore-search-contact-mobilephones"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- mobilePhones.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ List<MobilePhone> mobilePhones;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

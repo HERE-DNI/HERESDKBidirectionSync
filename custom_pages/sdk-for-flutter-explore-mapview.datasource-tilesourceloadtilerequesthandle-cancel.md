@@ -3,10 +3,6 @@ title: "cancel method - TileSourceLoadTileRequestHandle class - mapview.datasour
 slug: "sdk-for-flutter-explore-mapview.datasource-tilesourceloadtilerequesthandle-cancel"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- cancel.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -45,6 +41,3 @@ void cancel();
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

@@ -3,10 +3,6 @@ title: "JsonStyleFactory constructor - JsonStyleFactory - mapview library - Dart
 slug: "sdk-for-flutter-explore-mapview-jsonstylefactory-jsonstylefactory"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- JsonStyleFactory.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -29,6 +25,3 @@ slug: "sdk-for-flutter-explore-mapview-jsonstylefactory-jsonstylefactory"
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

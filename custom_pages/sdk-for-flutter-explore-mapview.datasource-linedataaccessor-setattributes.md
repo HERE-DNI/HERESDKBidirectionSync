@@ -3,10 +3,6 @@ title: "setAttributes method - LineDataAccessor class - mapview.datasource libra
 slug: "sdk-for-flutter-explore-mapview.datasource-linedataaccessor-setattributes"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- setAttributes.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -49,6 +45,3 @@ void setAttributes(DataAttributes attributes);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

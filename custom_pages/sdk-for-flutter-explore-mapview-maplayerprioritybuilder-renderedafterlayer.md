@@ -3,10 +3,6 @@ title: "renderedAfterLayer method - MapLayerPriorityBuilder class - mapview libr
 slug: "sdk-for-flutter-explore-mapview-maplayerprioritybuilder-renderedafterlayer"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- renderedAfterLayer.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -59,6 +55,3 @@ MapLayerPriorityBuilder renderedAfterLayer(String referenceLayer);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

@@ -3,10 +3,6 @@ title: "TollFarePass constructor - TollFarePass - routing library - Dart API"
 slug: "sdk-for-flutter-explore-routing-tollfarepass-tollfarepass"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- TollFarePass.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -38,6 +34,3 @@ TollFarePass()
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

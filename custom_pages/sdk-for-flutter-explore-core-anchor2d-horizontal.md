@@ -3,10 +3,6 @@ title: "horizontal property - Anchor2D class - core library - Dart API"
 slug: "sdk-for-flutter-explore-core-anchor2d-horizontal"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- horizontal.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ double horizontal;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

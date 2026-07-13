@@ -3,10 +3,6 @@ title: "Details.withDefaults constructor - Details - search library - Dart API"
 slug: "sdk-for-flutter-explore-search-details-details-withdefaults"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- Details.withDefaults.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -77,6 +73,3 @@ Details.withDefaults(this.contacts, this.openingHours, this.categories, this.ima
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

@@ -3,10 +3,6 @@ title: "GeoCoordinatesUpdate constructor - GeoCoordinatesUpdate - core library -
 slug: "sdk-for-flutter-explore-core-geocoordinatesupdate-geocoordinatesupdate"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- GeoCoordinatesUpdate.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -54,6 +50,3 @@ factory GeoCoordinatesUpdate(double? latitude, double? longitude) => $prototype.
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

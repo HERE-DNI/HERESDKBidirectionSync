@@ -3,10 +3,6 @@ title: "TrafficIncidentsQueryCallback typedef - traffic library - Dart API"
 slug: "sdk-for-flutter-explore-traffic-trafficincidentsquerycallback"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- TrafficIncidentsQueryCallback.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -49,6 +45,3 @@ typedef TrafficIncidentsQueryCallback = void Function(TrafficQueryError? queryEr
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

@@ -3,10 +3,6 @@ title: "ViolatedRestrictionDetails constructor - ViolatedRestrictionDetails - ro
 slug: "sdk-for-flutter-explore-routing-violatedrestrictiondetails-violatedrestrictiondetails"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- ViolatedRestrictionDetails.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -38,6 +34,3 @@ ViolatedRestrictionDetails()
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

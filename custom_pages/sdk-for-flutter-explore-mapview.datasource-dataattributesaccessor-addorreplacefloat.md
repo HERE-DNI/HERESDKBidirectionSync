@@ -3,10 +3,6 @@ title: "addOrReplaceFloat method - DataAttributesAccessor class - mapview.dataso
 slug: "sdk-for-flutter-explore-mapview.datasource-dataattributesaccessor-addorreplacefloat"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- addOrReplaceFloat.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -52,6 +48,3 @@ void addOrReplaceFloat(String name, double value);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

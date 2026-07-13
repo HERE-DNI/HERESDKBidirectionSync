@@ -3,10 +3,6 @@ title: "lookAtAreaWithViewRectangle method - MapCameraUpdateFactory class - mapv
 slug: "sdk-for-flutter-explore-mapview-mapcameraupdatefactory-lookatareawithviewrectangle"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- lookAtAreaWithViewRectangle.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -62,6 +58,3 @@ static MapCameraUpdate lookAtAreaWithViewRectangle(GeoBox target, Rectangle2D vi
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

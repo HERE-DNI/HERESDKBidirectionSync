@@ -3,10 +3,6 @@ title: "naturalAndGeographicalMountainOrHill property - PlaceCategory class - se
 slug: "sdk-for-flutter-explore-search-placecategory-naturalandgeographicalmountainorhill"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- naturalAndGeographicalMountainOrHill.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ static final String naturalAndGeographicalMountainOrHill = "350-3510";
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

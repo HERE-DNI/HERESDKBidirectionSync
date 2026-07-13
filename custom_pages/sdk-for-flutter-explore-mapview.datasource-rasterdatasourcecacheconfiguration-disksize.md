@@ -3,10 +3,6 @@ title: "diskSize property - RasterDataSourceCacheConfiguration class - mapview.d
 slug: "sdk-for-flutter-explore-mapview.datasource-rasterdatasourcecacheconfiguration-disksize"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- diskSize.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ int diskSize;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

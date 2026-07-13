@@ -3,10 +3,6 @@ title: "SDKBuildInformation constructor - SDKBuildInformation - core.engine libr
 slug: "sdk-for-flutter-explore-core.engine-sdkbuildinformation-sdkbuildinformation"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- SDKBuildInformation.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -29,6 +25,3 @@ slug: "sdk-for-flutter-explore-core.engine-sdkbuildinformation-sdkbuildinformati
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

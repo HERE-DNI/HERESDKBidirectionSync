@@ -3,10 +3,6 @@ title: "weightPerAxleInKilograms property - VehicleProfile class - transport lib
 slug: "sdk-for-flutter-explore-transport-vehicleprofile-weightperaxleinkilograms"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- weightPerAxleInKilograms.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ int? weightPerAxleInKilograms;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

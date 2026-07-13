@@ -3,10 +3,6 @@ title: "SearchCallbackExtended typedef - search library - Dart API"
 slug: "sdk-for-flutter-explore-search-searchcallbackextended"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- SearchCallbackExtended.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -51,6 +47,3 @@ typedef SearchCallbackExtended = void Function(SearchError? searchError, List<Pl
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

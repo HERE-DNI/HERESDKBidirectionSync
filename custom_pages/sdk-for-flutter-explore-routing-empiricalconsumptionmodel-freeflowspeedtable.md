@@ -3,10 +3,6 @@ title: "freeFlowSpeedTable property - EmpiricalConsumptionModel class - routing 
 slug: "sdk-for-flutter-explore-routing-empiricalconsumptionmodel-freeflowspeedtable"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- freeFlowSpeedTable.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ Map<int, double> freeFlowSpeedTable;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

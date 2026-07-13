@@ -3,10 +3,6 @@ title: "SegmentReference.withDefaults constructor - SegmentReference - routing l
 slug: "sdk-for-flutter-explore-routing-segmentreference-segmentreference-withdefaults"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- SegmentReference.withDefaults.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -44,6 +40,3 @@ SegmentReference.withDefaults()
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

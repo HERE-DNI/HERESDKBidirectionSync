@@ -3,10 +3,6 @@ title: "renderedBeforeLayer method - MapLayerPriorityBuilder class - mapview lib
 slug: "sdk-for-flutter-explore-mapview-maplayerprioritybuilder-renderedbeforelayer"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- renderedBeforeLayer.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -59,6 +55,3 @@ MapLayerPriorityBuilder renderedBeforeLayer(String referenceLayer);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

@@ -3,10 +3,6 @@ title: "TwoFingerTapListener constructor - TwoFingerTapListener - gestures libra
 slug: "sdk-for-flutter-explore-gestures-twofingertaplistener-twofingertaplistener"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- TwoFingerTapListener.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -58,6 +54,3 @@ factory TwoFingerTapListener(
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

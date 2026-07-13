@@ -3,10 +3,6 @@ title: "businessAndServicesAtm property - PlaceCategory class - search library -
 slug: "sdk-for-flutter-explore-search-placecategory-businessandservicesatm"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- businessAndServicesAtm.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ static final String businessAndServicesAtm = "700-7010";
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

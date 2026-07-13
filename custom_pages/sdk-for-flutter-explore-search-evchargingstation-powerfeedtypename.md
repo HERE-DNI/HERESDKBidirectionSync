@@ -3,10 +3,6 @@ title: "powerFeedTypeName property - EVChargingStation class - search library - 
 slug: "sdk-for-flutter-explore-search-evchargingstation-powerfeedtypename"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- powerFeedTypeName.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ String? powerFeedTypeName;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

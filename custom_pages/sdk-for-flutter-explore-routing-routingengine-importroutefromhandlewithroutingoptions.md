@@ -3,10 +3,6 @@ title: "importRouteFromHandleWithRoutingOptions method - RoutingEngine class - r
 slug: "sdk-for-flutter-explore-routing-routingengine-importroutefromhandlewithroutingoptions"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- importRouteFromHandleWithRoutingOptions.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -61,6 +57,3 @@ TaskHandle importRouteFromHandleWithRoutingOptions(RouteHandle routeHandle, Rout
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

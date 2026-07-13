@@ -3,10 +3,6 @@ title: "PointTileSourceLoadResultHandler constructor - PointTileSourceLoadResult
 slug: "sdk-for-flutter-explore-mapview.datasource-pointtilesourceloadresulthandler-pointtilesourceloadresulthandler"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- PointTileSourceLoadResultHandler.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -64,6 +60,3 @@ factory PointTileSourceLoadResultHandler(
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

@@ -3,10 +3,6 @@ title: "noSuchMethod method - PolygonTileDataSource class - mapview.datasource l
 slug: "sdk-for-flutter-explore-mapview.datasource-polygontiledatasource-nosuchmethod"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- noSuchMethod.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -100,6 +96,3 @@ external dynamic noSuchMethod(Invocation invocation);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

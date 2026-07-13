@@ -3,10 +3,6 @@ title: "RouteRailwayCrossing constructor - RouteRailwayCrossing - routing librar
 slug: "sdk-for-flutter-explore-routing-routerailwaycrossing-routerailwaycrossing"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- RouteRailwayCrossing.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -53,6 +49,3 @@ RouteRailwayCrossing(this.type, this.coordinates, this.routeOffset);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

@@ -3,10 +3,6 @@ title: "lookAtArea method - MapCameraUpdateFactory class - mapview library - Dar
 slug: "sdk-for-flutter-explore-mapview-mapcameraupdatefactory-lookatarea"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- lookAtArea.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -55,6 +51,3 @@ static MapCameraUpdate lookAtArea(GeoBox target) => $prototype.lookAtArea(target
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

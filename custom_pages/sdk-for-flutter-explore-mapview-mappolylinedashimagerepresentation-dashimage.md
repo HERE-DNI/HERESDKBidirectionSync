@@ -3,10 +3,6 @@ title: "dashImage property - MapPolylineDashImageRepresentation class - mapview 
 slug: "sdk-for-flutter-explore-mapview-mappolylinedashimagerepresentation-dashimage"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- dashImage.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -45,6 +41,3 @@ MapImage get dashImage;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

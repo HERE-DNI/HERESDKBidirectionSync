@@ -3,10 +3,6 @@ title: "expandedBy method - GeoBox class - core library - Dart API"
 slug: "sdk-for-flutter-explore-core-geobox-expandedby"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- expandedBy.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -64,6 +60,3 @@ GeoBox expandedBy(double southMeters, double westMeters, double northMeters, dou
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

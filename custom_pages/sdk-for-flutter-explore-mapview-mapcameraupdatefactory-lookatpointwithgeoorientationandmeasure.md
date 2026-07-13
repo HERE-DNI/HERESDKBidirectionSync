@@ -3,10 +3,6 @@ title: "lookAtPointWithGeoOrientationAndMeasure method - MapCameraUpdateFactory 
 slug: "sdk-for-flutter-explore-mapview-mapcameraupdatefactory-lookatpointwithgeoorientationandmeasure"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- lookAtPointWithGeoOrientationAndMeasure.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -61,6 +57,3 @@ static MapCameraUpdate lookAtPointWithGeoOrientationAndMeasure(GeoCoordinatesUpd
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

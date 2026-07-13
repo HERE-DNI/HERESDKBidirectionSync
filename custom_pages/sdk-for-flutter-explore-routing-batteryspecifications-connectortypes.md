@@ -3,10 +3,6 @@ title: "connectorTypes property - BatterySpecifications class - routing library 
 slug: "sdk-for-flutter-explore-routing-batteryspecifications-connectortypes"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- connectorTypes.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ List<ChargingConnectorType> connectorTypes;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

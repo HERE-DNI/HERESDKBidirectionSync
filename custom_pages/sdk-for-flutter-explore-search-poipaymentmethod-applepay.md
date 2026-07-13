@@ -3,10 +3,6 @@ title: "applePay property - POIPaymentMethod class - search library - Dart API"
 slug: "sdk-for-flutter-explore-search-poipaymentmethod-applepay"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- applePay.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ static final String applePay = "applepay";
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

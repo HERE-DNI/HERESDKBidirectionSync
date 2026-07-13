@@ -3,10 +3,6 @@ title: "truckAmenities property - Details class - search library - Dart API"
 slug: "sdk-for-flutter-explore-search-details-truckamenities"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- truckAmenities.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -62,6 +58,3 @@ TruckAmenities? truckAmenities;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

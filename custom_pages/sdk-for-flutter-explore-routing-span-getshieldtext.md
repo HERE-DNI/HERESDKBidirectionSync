@@ -3,10 +3,6 @@ title: "getShieldText method - Span class - routing library - Dart API"
 slug: "sdk-for-flutter-explore-routing-span-getshieldtext"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- getShieldText.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -53,6 +49,3 @@ String getShieldText(LocalizedRoadNumber roadNumber);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

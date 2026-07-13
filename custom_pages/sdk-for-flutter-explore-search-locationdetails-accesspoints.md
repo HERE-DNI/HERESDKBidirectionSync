@@ -3,10 +3,6 @@ title: "accessPoints property - LocationDetails class - search library - Dart AP
 slug: "sdk-for-flutter-explore-search-locationdetails-accesspoints"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- accessPoints.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ List<GeoCoordinates> accessPoints;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

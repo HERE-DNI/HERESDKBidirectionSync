@@ -3,10 +3,6 @@ title: "routeNumberName property - RoadShieldIconProperties class - mapview libr
 slug: "sdk-for-flutter-explore-mapview-roadshieldiconproperties-routenumbername"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- routeNumberName.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -51,6 +47,3 @@ String routeNumberName;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

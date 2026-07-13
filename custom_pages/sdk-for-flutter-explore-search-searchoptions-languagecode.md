@@ -3,10 +3,6 @@ title: "languageCode property - SearchOptions class - search library - Dart API"
 slug: "sdk-for-flutter-explore-search-searchoptions-languagecode"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- languageCode.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ LanguageCode? languageCode;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

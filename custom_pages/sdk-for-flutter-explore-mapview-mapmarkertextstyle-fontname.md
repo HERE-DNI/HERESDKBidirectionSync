@@ -3,10 +3,6 @@ title: "fontName property - MapMarkerTextStyle class - mapview library - Dart AP
 slug: "sdk-for-flutter-explore-mapview-mapmarkertextstyle-fontname"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- fontName.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -45,6 +41,3 @@ String get fontName;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

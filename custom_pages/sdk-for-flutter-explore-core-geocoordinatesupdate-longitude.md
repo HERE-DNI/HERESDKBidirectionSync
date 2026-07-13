@@ -3,10 +3,6 @@ title: "longitude property - GeoCoordinatesUpdate class - core library - Dart AP
 slug: "sdk-for-flutter-explore-core-geocoordinatesupdate-longitude"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- longitude.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ final double? longitude;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

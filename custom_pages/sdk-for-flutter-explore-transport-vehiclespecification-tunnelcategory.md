@@ -3,10 +3,6 @@ title: "tunnelCategory property - VehicleSpecification class - transport library
 slug: "sdk-for-flutter-explore-transport-vehiclespecification-tunnelcategory"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- tunnelCategory.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -49,6 +45,3 @@ TunnelCategory? tunnelCategory;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

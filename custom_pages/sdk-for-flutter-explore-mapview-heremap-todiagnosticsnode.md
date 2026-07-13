@@ -3,10 +3,6 @@ title: "toDiagnosticsNode method - HereMap class - mapview library - Dart API"
 slug: "sdk-for-flutter-explore-mapview-heremap-todiagnosticsnode"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- toDiagnosticsNode.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -67,6 +63,3 @@ DiagnosticsNode toDiagnosticsNode({String? name, DiagnosticsTreeStyle? style}) {
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

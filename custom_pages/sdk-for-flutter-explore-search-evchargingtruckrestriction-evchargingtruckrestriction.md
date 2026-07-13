@@ -3,10 +3,6 @@ title: "EVChargingTruckRestriction constructor - EVChargingTruckRestriction - se
 slug: "sdk-for-flutter-explore-search-evchargingtruckrestriction-evchargingtruckrestriction"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- EVChargingTruckRestriction.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -38,6 +34,3 @@ EVChargingTruckRestriction()
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

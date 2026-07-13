@@ -3,10 +3,6 @@ title: "loaded method - PolygonTileSourceLoadResultHandler class - mapview.datas
 slug: "sdk-for-flutter-explore-mapview.datasource-polygontilesourceloadresulthandler-loaded"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- loaded.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -55,6 +51,3 @@ void loaded(TileKey tileKey, List<PolygonData> data, TileSourceTileMetadata meta
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

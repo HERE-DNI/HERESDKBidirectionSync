@@ -3,10 +3,6 @@ title: "MapLayerMapMeasureDependentStorageLevels class - mapview library - Dart 
 slug: "sdk-for-flutter-explore-mapview-maplayermapmeasuredependentstoragelevels-class"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- MapLayerMapMeasureDependentStorageLevels-class.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -89,6 +85,3 @@ Creates an instance of <a href="sdk-for-flutter-explore-mapview-maplayermapmeasu
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

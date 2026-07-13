@@ -3,10 +3,6 @@ title: "connectorGroups property - EVChargingLocation class - search library - D
 slug: "sdk-for-flutter-explore-search-evcharginglocation-connectorgroups"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- connectorGroups.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -45,6 +41,3 @@ List<EVChargingConnectorGroup> get connectorGroups;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

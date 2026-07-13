@@ -3,10 +3,6 @@ title: "MapViewBaseMapPickCallback typedef - mapview library - Dart API"
 slug: "sdk-for-flutter-explore-mapview-mapviewbasemappickcallback"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- MapViewBaseMapPickCallback.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ typedef MapViewBaseMapPickCallback = void Function(MapPickResult? mapPickResult)
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

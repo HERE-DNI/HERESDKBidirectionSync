@@ -3,10 +3,6 @@ title: "path property - RasterDataSourceCacheConfiguration class - mapview.datas
 slug: "sdk-for-flutter-explore-mapview.datasource-rasterdatasourcecacheconfiguration-path"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- path.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ String path;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

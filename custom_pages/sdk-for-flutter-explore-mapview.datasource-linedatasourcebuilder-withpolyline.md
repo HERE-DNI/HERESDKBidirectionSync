@@ -3,10 +3,6 @@ title: "withPolyline method - LineDataSourceBuilder class - mapview.datasource l
 slug: "sdk-for-flutter-explore-mapview.datasource-linedatasourcebuilder-withpolyline"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- withPolyline.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -51,6 +47,3 @@ LineDataSourceBuilder withPolyline(LineData polyline);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

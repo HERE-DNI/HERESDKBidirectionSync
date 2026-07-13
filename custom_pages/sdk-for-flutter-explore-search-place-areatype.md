@@ -3,10 +3,6 @@ title: "areaType property - Place class - search library - Dart API"
 slug: "sdk-for-flutter-explore-search-place-areatype"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- areaType.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -45,6 +41,3 @@ AreaType? get areaType;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

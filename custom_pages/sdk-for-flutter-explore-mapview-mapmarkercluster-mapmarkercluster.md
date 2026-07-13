@@ -3,10 +3,6 @@ title: "MapMarkerCluster constructor - MapMarkerCluster - mapview library - Dart
 slug: "sdk-for-flutter-explore-mapview-mapmarkercluster-mapmarkercluster"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- MapMarkerCluster.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -51,6 +47,3 @@ factory MapMarkerCluster(MapMarkerClusterImageStyle imageStyle) => $prototype.$i
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

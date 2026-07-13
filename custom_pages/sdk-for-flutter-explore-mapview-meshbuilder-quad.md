@@ -3,10 +3,6 @@ title: "quad method - MeshBuilder class - mapview library - Dart API"
 slug: "sdk-for-flutter-explore-mapview-meshbuilder-quad"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- quad.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -64,6 +60,3 @@ QuadMeshBuilder quad(Point3D a, Point3D b, Point3D c, Point3D d);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

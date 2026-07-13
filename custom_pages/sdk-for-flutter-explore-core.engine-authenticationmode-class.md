@@ -3,10 +3,6 @@ title: "AuthenticationMode class - core.engine library - Dart API"
 slug: "sdk-for-flutter-explore-core.engine-authenticationmode-class"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- AuthenticationMode-class.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -100,6 +96,3 @@ SDK will use access token provider to retrieve access token.
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

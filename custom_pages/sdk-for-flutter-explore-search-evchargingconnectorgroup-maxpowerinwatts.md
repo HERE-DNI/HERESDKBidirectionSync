@@ -3,10 +3,6 @@ title: "maxPowerInWatts property - EVChargingConnectorGroup class - search libra
 slug: "sdk-for-flutter-explore-search-evchargingconnectorgroup-maxpowerinwatts"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- maxPowerInWatts.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ int maxPowerInWatts;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

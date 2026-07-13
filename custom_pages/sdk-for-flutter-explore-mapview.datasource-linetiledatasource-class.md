@@ -3,10 +3,6 @@ title: "LineTileDataSource class - mapview.datasource library - Dart API"
 slug: "sdk-for-flutter-explore-mapview.datasource-linetiledatasource-class"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- LineTileDataSource-class.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -94,6 +90,3 @@ Creates a named <a href="sdk-for-flutter-explore-mapview-datasource-linetiledata
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

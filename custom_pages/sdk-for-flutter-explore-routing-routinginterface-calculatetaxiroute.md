@@ -3,10 +3,6 @@ title: "calculateTaxiRoute method - RoutingInterface class - routing library - D
 slug: "sdk-for-flutter-explore-routing-routinginterface-calculatetaxiroute"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- calculateTaxiRoute.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -67,6 +63,3 @@ TaskHandle calculateTaxiRoute(List<Waypoint> waypoints, TaxiOptions taxiOptions,
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

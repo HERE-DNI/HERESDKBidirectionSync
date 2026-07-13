@@ -3,10 +3,6 @@ title: "MapImage.withFilePathAndWidthAndHeight constructor - MapImage - mapview 
 slug: "sdk-for-flutter-explore-mapview-mapimage-mapimage-withfilepathandwidthandheight"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- MapImage.withFilePathAndWidthAndHeight.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -65,6 +61,3 @@ factory MapImage.withFilePathAndWidthAndHeight(String filePath, int width, int h
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

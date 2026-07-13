@@ -3,10 +3,6 @@ title: "TimeOfDayRange constructor - TimeOfDayRange - search library - Dart API"
 slug: "sdk-for-flutter-explore-search-timeofdayrange-timeofdayrange"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- TimeOfDayRange.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -38,6 +34,3 @@ TimeOfDayRange()
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

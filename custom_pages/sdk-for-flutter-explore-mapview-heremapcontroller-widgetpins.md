@@ -3,10 +3,6 @@ title: "widgetPins property - HereMapController class - mapview library - Dart A
 slug: "sdk-for-flutter-explore-mapview-heremapcontroller-widgetpins"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- widgetPins.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -45,6 +41,3 @@ List<WidgetPin> get widgetPins;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

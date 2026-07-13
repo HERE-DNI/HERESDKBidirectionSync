@@ -3,10 +3,6 @@ title: "end property - IndexRange class - search library - Dart API"
 slug: "sdk-for-flutter-explore-search-indexrange-end"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- end.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -45,6 +41,3 @@ int get end;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

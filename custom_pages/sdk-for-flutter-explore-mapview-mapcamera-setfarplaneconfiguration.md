@@ -3,10 +3,6 @@ title: "setFarPlaneConfiguration method - MapCamera class - mapview library - Da
 slug: "sdk-for-flutter-explore-mapview-mapcamera-setfarplaneconfiguration"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- setFarPlaneConfiguration.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -55,6 +51,3 @@ void setFarPlaneConfiguration(Map<double, MapCameraFarPlaneConfiguration> config
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

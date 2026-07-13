@@ -3,10 +3,6 @@ title: "evChargingPool property - Details class - search library - Dart API"
 slug: "sdk-for-flutter-explore-search-details-evchargingpool"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- evChargingPool.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -58,6 +54,3 @@ EVChargingPool? evChargingPool;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

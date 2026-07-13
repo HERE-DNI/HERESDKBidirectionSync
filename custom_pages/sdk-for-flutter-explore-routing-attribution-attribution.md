@@ -3,10 +3,6 @@ title: "Attribution constructor - Attribution - routing library - Dart API"
 slug: "sdk-for-flutter-explore-routing-attribution-attribution"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- Attribution.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -44,6 +40,3 @@ Attribution(String id, String text, AttributionType type)
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

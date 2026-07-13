@@ -3,10 +3,6 @@ title: "TaxiOptions constructor - TaxiOptions - routing library - Dart API"
 slug: "sdk-for-flutter-explore-routing-taxioptions-taxioptions"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- TaxiOptions.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -54,6 +50,3 @@ TaxiOptions(this.routeOptions, this.textOptions, this.avoidanceOptions)
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

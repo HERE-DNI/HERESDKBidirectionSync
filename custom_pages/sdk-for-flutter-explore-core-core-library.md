@@ -3,10 +3,6 @@ title: "core library - Dart API"
 slug: "sdk-for-flutter-explore-core-core-library"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- core-library.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -194,6 +190,3 @@ Authentication exception
 
 <!-- /.main-content --> <!--/sidebar-offcanvas-right--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

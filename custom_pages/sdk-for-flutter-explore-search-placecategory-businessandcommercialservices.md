@@ -3,10 +3,6 @@ title: "businessAndCommercialServices property - PlaceCategory class - search li
 slug: "sdk-for-flutter-explore-search-placecategory-businessandcommercialservices"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- businessAndCommercialServices.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ static final String businessAndCommercialServices = "700-7200";
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

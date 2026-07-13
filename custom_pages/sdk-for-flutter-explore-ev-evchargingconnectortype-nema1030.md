@@ -3,10 +3,6 @@ title: "nema1030 property - EVChargingConnectorType class - ev library - Dart AP
 slug: "sdk-for-flutter-explore-ev-evchargingconnectortype-nema1030"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- nema1030.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ static final String nema1030 = "NEMA_10_30";
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

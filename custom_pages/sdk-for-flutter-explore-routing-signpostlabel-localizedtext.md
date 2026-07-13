@@ -3,10 +3,6 @@ title: "localizedText property - SignpostLabel class - routing library - Dart AP
 slug: "sdk-for-flutter-explore-routing-signpostlabel-localizedtext"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- localizedText.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ LocalizedText? localizedText;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

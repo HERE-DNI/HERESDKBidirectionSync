@@ -3,10 +3,6 @@ title: "DataAttributesAccessor constructor - DataAttributesAccessor - mapview.da
 slug: "sdk-for-flutter-explore-mapview.datasource-dataattributesaccessor-dataattributesaccessor"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- DataAttributesAccessor.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -29,6 +25,3 @@ slug: "sdk-for-flutter-explore-mapview.datasource-dataattributesaccessor-dataatt
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

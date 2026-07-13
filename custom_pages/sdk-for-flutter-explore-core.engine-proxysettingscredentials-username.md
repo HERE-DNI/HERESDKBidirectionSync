@@ -3,10 +3,6 @@ title: "userName property - ProxySettingsCredentials class - core.engine library
 slug: "sdk-for-flutter-explore-core.engine-proxysettingscredentials-username"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- userName.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ String userName;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

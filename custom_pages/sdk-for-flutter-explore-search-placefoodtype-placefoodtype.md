@@ -3,10 +3,6 @@ title: "PlaceFoodType constructor - PlaceFoodType - search library - Dart API"
 slug: "sdk-for-flutter-explore-search-placefoodtype-placefoodtype"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- PlaceFoodType.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -42,6 +38,3 @@ PlaceFoodType(String id)
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

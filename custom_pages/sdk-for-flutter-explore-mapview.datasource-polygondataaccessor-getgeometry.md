@@ -3,10 +3,6 @@ title: "getGeometry method - PolygonDataAccessor class - mapview.datasource libr
 slug: "sdk-for-flutter-explore-mapview.datasource-polygondataaccessor-getgeometry"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- getGeometry.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -45,6 +41,3 @@ GeoPolygon getGeometry();
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

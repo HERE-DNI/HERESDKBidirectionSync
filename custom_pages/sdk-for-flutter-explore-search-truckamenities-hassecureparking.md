@@ -3,10 +3,6 @@ title: "hasSecureParking property - TruckAmenities class - search library - Dart
 slug: "sdk-for-flutter-explore-search-truckamenities-hassecureparking"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- hasSecureParking.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ bool hasSecureParking;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

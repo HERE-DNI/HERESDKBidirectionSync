@@ -3,10 +3,6 @@ title: "PointDataSourcePointDataProcessor typedef - mapview.datasource library -
 slug: "sdk-for-flutter-explore-mapview.datasource-pointdatasourcepointdataprocessor"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- PointDataSourcePointDataProcessor.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ typedef PointDataSourcePointDataProcessor = bool Function(PointDataAccessor poin
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

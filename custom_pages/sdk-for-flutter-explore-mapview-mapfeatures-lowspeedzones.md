@@ -3,10 +3,6 @@ title: "lowSpeedZones property - MapFeatures class - mapview library - Dart API"
 slug: "sdk-for-flutter-explore-mapview-mapfeatures-lowspeedzones"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- lowSpeedZones.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -51,6 +47,3 @@ static final String lowSpeedZones = "low speed zones";
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

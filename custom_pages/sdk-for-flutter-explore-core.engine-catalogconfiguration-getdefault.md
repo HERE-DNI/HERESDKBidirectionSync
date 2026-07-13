@@ -3,10 +3,6 @@ title: "getDefault method - CatalogConfiguration class - core.engine library - D
 slug: "sdk-for-flutter-explore-core.engine-catalogconfiguration-getdefault"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- getDefault.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -53,6 +49,3 @@ static CatalogConfiguration getDefault(CatalogType catalogType) => $prototype.ge
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

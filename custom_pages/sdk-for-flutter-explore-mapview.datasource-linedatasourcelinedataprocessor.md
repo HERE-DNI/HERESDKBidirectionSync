@@ -3,10 +3,6 @@ title: "LineDataSourceLineDataProcessor typedef - mapview.datasource library - D
 slug: "sdk-for-flutter-explore-mapview.datasource-linedatasourcelinedataprocessor"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- LineDataSourceLineDataProcessor.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ typedef LineDataSourceLineDataProcessor = bool Function(LineDataAccessor lineAcc
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

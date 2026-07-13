@@ -3,10 +3,6 @@ title: "additives property - GenericFuel class - search library - Dart API"
 slug: "sdk-for-flutter-explore-search-genericfuel-additives"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- additives.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ List<FuelAdditive> additives;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

@@ -3,10 +3,6 @@ title: "bearingRange property - MapCameraLimits class - mapview library - Dart A
 slug: "sdk-for-flutter-explore-mapview-mapcameralimits-bearingrange"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- bearingRange.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -77,6 +73,3 @@ set bearingRange(AngleRange value);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

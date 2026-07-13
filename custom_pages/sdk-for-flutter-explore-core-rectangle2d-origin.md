@@ -3,10 +3,6 @@ title: "origin property - Rectangle2D class - core library - Dart API"
 slug: "sdk-for-flutter-explore-core-rectangle2d-origin"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- origin.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ Point2D origin;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

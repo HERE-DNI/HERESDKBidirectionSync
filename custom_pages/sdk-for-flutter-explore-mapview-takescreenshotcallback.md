@@ -3,10 +3,6 @@ title: "TakeScreenshotCallback typedef - mapview library - Dart API"
 slug: "sdk-for-flutter-explore-mapview-takescreenshotcallback"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- TakeScreenshotCallback.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -43,6 +39,3 @@ typedef TakeScreenshotCallback = void Function(ImageInfo? image);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

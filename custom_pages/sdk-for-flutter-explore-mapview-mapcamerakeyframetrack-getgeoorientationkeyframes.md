@@ -3,10 +3,6 @@ title: "getGeoOrientationKeyframes method - MapCameraKeyframeTrack class - mapvi
 slug: "sdk-for-flutter-explore-mapview-mapcamerakeyframetrack-getgeoorientationkeyframes"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- getGeoOrientationKeyframes.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -43,6 +39,3 @@ List<GeoOrientationKeyframe>? getGeoOrientationKeyframes();
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

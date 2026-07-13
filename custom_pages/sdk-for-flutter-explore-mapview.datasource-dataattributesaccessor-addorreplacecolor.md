@@ -3,10 +3,6 @@ title: "addOrReplaceColor method - DataAttributesAccessor class - mapview.dataso
 slug: "sdk-for-flutter-explore-mapview.datasource-dataattributesaccessor-addorreplacecolor"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- addOrReplaceColor.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -52,6 +48,3 @@ void addOrReplaceColor(String name, ui.Color value);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

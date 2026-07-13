@@ -3,10 +3,6 @@ title: "port property - NetworkEndpoint class - core library - Dart API"
 slug: "sdk-for-flutter-explore-core-networkendpoint-port"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- port.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ int? port;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

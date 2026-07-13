@@ -3,10 +3,6 @@ title: "withLastCharacterOfLicensePlate method - VehicleSpecificationCarBuilder 
 slug: "sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-withlastcharacteroflicenseplate"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- withLastCharacterOfLicensePlate.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -51,6 +47,3 @@ VehicleSpecificationCarBuilder withLastCharacterOfLicensePlate(String lastCharac
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

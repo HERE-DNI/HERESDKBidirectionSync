@@ -3,10 +3,6 @@ title: "containsGeoCoordinates method - GeoBox class - core library - Dart API"
 slug: "sdk-for-flutter-explore-core-geobox-containsgeocoordinates"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- containsGeoCoordinates.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -53,6 +49,3 @@ bool containsGeoCoordinates(GeoCoordinates geoCoordinates) => $prototype.contain
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

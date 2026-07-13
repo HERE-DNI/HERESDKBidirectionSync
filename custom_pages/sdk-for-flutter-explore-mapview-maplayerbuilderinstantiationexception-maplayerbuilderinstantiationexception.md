@@ -3,10 +3,6 @@ title: "MapLayerBuilderInstantiationException constructor - MapLayerBuilderInsta
 slug: "sdk-for-flutter-explore-mapview-maplayerbuilderinstantiationexception-maplayerbuilderinstantiationexception"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- MapLayerBuilderInstantiationException.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -41,6 +37,3 @@ MapLayerBuilderInstantiationException(this.error);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

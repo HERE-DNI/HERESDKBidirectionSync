@@ -3,10 +3,6 @@ title: "calculateBicycleRoute method - RoutingInterface class - routing library 
 slug: "sdk-for-flutter-explore-routing-routinginterface-calculatebicycleroute"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- calculateBicycleRoute.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -67,6 +63,3 @@ TaskHandle calculateBicycleRoute(List<Waypoint> waypoints, BicycleOptions bicycl
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

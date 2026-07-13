@@ -3,10 +3,6 @@ title: "log method - SDKLogger class - core.engine library - Dart API"
 slug: "sdk-for-flutter-explore-core.engine-sdklogger-log"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- log.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -53,6 +49,3 @@ static void log(LogLevel level, String tag, String message) => $prototype.log(le
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

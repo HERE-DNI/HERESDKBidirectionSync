@@ -3,10 +3,6 @@ title: "withTiresCount method - VehicleSpecificationTruckBuilder class - transpo
 slug: "sdk-for-flutter-explore-transport-vehiclespecificationtruckbuilder-withtirescount"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- withTiresCount.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -51,6 +47,3 @@ VehicleSpecificationTruckBuilder withTiresCount(int tiresCount);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

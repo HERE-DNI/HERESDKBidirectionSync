@@ -3,10 +3,6 @@ title: "GeoPlace class - search library - Dart API"
 slug: "sdk-for-flutter-explore-search-geoplace-class"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- GeoPlace-class.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -163,6 +159,3 @@ Creates a new instance of this class.
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

@@ -3,10 +3,6 @@ title: "triangle method - MeshBuilder class - mapview library - Dart API"
 slug: "sdk-for-flutter-explore-mapview-meshbuilder-triangle"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- triangle.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -59,6 +55,3 @@ TriangleMeshBuilder triangle(Point3D a, Point3D b, Point3D c);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

@@ -3,10 +3,6 @@ title: "evses property - EVChargingLocation class - search library - Dart API"
 slug: "sdk-for-flutter-explore-search-evcharginglocation-evses"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- evses.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -45,6 +41,3 @@ List<EVSEInfo> get evses;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

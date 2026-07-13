@@ -3,10 +3,6 @@ title: "boundingBoxExceptionAreas property - AvoidBoundingBoxAreaOptions class -
 slug: "sdk-for-flutter-explore-routing-avoidboundingboxareaoptions-boundingboxexceptionareas"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- boundingBoxExceptionAreas.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ List<GeoBox> boundingBoxExceptionAreas;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

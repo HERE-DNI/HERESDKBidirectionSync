@@ -3,10 +3,6 @@ title: "addPoints method - PointDataSource class - mapview.datasource library - 
 slug: "sdk-for-flutter-explore-mapview.datasource-pointdatasource-addpoints"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- addPoints.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -51,6 +47,3 @@ void addPoints(List<PointData> points);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

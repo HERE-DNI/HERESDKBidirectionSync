@@ -3,10 +3,6 @@ title: "suggestExtended method - SearchEngine class - search library - Dart API"
 slug: "sdk-for-flutter-explore-search-searchengine-suggestextended"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- suggestExtended.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -57,6 +53,3 @@ TaskHandle suggestExtended(TextQuery query, SearchOptions options, SuggestCallba
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

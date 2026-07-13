@@ -3,10 +3,6 @@ title: "supplyType property - ChargingStop class - routing library - Dart API"
 slug: "sdk-for-flutter-explore-routing-chargingstop-supplytype"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- supplyType.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ ChargingSupplyType? supplyType;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

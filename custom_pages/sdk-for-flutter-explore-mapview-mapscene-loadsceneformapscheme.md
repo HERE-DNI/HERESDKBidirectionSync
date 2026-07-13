@@ -3,10 +3,6 @@ title: "loadSceneForMapScheme method - MapScene class - mapview library - Dart A
 slug: "sdk-for-flutter-explore-mapview-mapscene-loadsceneformapscheme"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- loadSceneForMapScheme.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -58,6 +54,3 @@ void loadSceneForMapScheme(MapScheme mapScheme, MapSceneLoadSceneCallback? callb
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

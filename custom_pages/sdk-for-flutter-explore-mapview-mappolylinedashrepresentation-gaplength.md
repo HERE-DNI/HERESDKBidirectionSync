@@ -3,10 +3,6 @@ title: "gapLength property - MapPolylineDashRepresentation class - mapview libra
 slug: "sdk-for-flutter-explore-mapview-mappolylinedashrepresentation-gaplength"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- gapLength.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -49,6 +45,3 @@ MapMeasureDependentRenderSize get gapLength;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

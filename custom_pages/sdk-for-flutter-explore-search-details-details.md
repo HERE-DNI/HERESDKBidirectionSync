@@ -3,10 +3,6 @@ title: "Details constructor - Details - search library - Dart API"
 slug: "sdk-for-flutter-explore-search-details-details"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- Details.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -136,6 +132,3 @@ Details(List<Contact> contacts, List<OpeningHours> openingHours, List<PlaceCateg
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

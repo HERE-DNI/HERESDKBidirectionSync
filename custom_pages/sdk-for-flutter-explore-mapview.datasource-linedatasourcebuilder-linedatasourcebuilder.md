@@ -3,10 +3,6 @@ title: "LineDataSourceBuilder constructor - LineDataSourceBuilder - mapview.data
 slug: "sdk-for-flutter-explore-mapview.datasource-linedatasourcebuilder-linedatasourcebuilder"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- LineDataSourceBuilder.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -49,6 +45,3 @@ factory LineDataSourceBuilder(MapContext context) => $prototype.create(context);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

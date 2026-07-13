@@ -3,10 +3,6 @@ title: "SegmentReference class - routing library - Dart API"
 slug: "sdk-for-flutter-explore-routing-segmentreference-class"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- SegmentReference-class.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -143,6 +139,3 @@ Returns an instance of this struct from a string if it's well-formatted, `null` 
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

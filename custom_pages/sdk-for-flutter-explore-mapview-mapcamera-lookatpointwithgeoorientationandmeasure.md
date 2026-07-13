@@ -3,10 +3,6 @@ title: "lookAtPointWithGeoOrientationAndMeasure method - MapCamera class - mapvi
 slug: "sdk-for-flutter-explore-mapview-mapcamera-lookatpointwithgeoorientationandmeasure"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- lookAtPointWithGeoOrientationAndMeasure.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -59,6 +55,3 @@ void lookAtPointWithGeoOrientationAndMeasure(GeoCoordinates target, GeoOrientati
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

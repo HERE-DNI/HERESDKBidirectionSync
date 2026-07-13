@@ -3,10 +3,6 @@ title: "style property - HereMapControllerCore class - mapview library - Dart AP
 slug: "sdk-for-flutter-explore-mapview-heremapcontrollercore-style"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- style.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ Style get style;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

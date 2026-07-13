@@ -3,10 +3,6 @@ title: "majorVersion property - TileSourceDataVersion class - mapview.datasource
 slug: "sdk-for-flutter-explore-mapview.datasource-tilesourcedataversion-majorversion"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- majorVersion.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ int majorVersion;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

@@ -3,10 +3,6 @@ title: "editorials property - WebDetails class - search library - Dart API"
 slug: "sdk-for-flutter-explore-search-webdetails-editorials"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- editorials.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ List<WebEditorial> editorials;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

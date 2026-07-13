@@ -3,10 +3,6 @@ title: "here_sdk - Dart API docs"
 slug: "sdk-for-flutter-explore-search"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- search.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -17,6 +13,3 @@ slug: "sdk-for-flutter-explore-search"
 
 <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

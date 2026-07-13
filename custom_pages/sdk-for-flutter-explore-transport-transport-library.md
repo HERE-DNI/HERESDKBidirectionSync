@@ -3,10 +3,6 @@ title: "transport library - Dart API"
 slug: "sdk-for-flutter-explore-transport-transport-library"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- transport-library.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -135,6 +131,3 @@ Defines the type of the vehicle.
 
 <!-- /.main-content --> <!--/sidebar-offcanvas-right--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

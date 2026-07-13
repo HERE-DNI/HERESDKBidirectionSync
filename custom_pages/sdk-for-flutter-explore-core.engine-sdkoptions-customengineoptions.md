@@ -3,10 +3,6 @@ title: "customEngineOptions property - SDKOptions class - core.engine library - 
 slug: "sdk-for-flutter-explore-core.engine-sdkoptions-customengineoptions"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- customEngineOptions.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -50,6 +46,3 @@ Map<EngineBaseURL, EngineOptions> customEngineOptions;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

@@ -3,10 +3,6 @@ title: "forbiddenTruckRoadTypes property - ViolatedRestrictionDetails class - ro
 slug: "sdk-for-flutter-explore-routing-violatedrestrictiondetails-forbiddentruckroadtypes"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- forbiddenTruckRoadTypes.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ List<TruckRoadType> forbiddenTruckRoadTypes;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

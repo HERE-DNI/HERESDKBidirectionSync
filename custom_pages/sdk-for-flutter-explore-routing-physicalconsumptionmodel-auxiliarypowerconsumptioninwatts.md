@@ -3,10 +3,6 @@ title: "auxiliaryPowerConsumptionInWatts property - PhysicalConsumptionModel cla
 slug: "sdk-for-flutter-explore-routing-physicalconsumptionmodel-auxiliarypowerconsumptioninwatts"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- auxiliaryPowerConsumptionInWatts.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -49,6 +45,3 @@ double auxiliaryPowerConsumptionInWatts;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

@@ -3,10 +3,6 @@ title: "SDKBuildInformation class - core.engine library - Dart API"
 slug: "sdk-for-flutter-explore-core.engine-sdkbuildinformation-class"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- SDKBuildInformation-class.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -89,6 +85,3 @@ Returns <a href="sdk-for-flutter-explore-core-engine-sdkversion-class">SDKVersio
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

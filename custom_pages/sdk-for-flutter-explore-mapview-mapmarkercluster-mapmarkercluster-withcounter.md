@@ -3,10 +3,6 @@ title: "MapMarkerCluster.WithCounter constructor - MapMarkerCluster - mapview li
 slug: "sdk-for-flutter-explore-mapview-mapmarkercluster-mapmarkercluster-withcounter"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- MapMarkerCluster.WithCounter.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -54,6 +50,3 @@ factory MapMarkerCluster.WithCounter(MapMarkerClusterImageStyle imageStyle, MapM
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

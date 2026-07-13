@@ -3,10 +3,6 @@ title: "getCustomValue method - Metadata class - core library - Dart API"
 slug: "sdk-for-flutter-explore-core-metadata-getcustomvalue"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- getCustomValue.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -51,6 +47,3 @@ CustomMetadataValue? getCustomValue(String key);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

@@ -3,10 +3,6 @@ title: "forEach method - PointDataSource class - mapview.datasource library - Da
 slug: "sdk-for-flutter-explore-mapview.datasource-pointdatasource-foreach"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- forEach.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -53,6 +49,3 @@ void forEach(PointDataSourcePointDataProcessor processor);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

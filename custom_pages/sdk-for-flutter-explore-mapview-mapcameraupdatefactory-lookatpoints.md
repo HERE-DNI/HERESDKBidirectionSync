@@ -3,10 +3,6 @@ title: "lookAtPoints method - MapCameraUpdateFactory class - mapview library - D
 slug: "sdk-for-flutter-explore-mapview-mapcameraupdatefactory-lookatpoints"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- lookAtPoints.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -74,6 +70,3 @@ static MapCameraUpdate lookAtPoints(List<GeoCoordinates> points, Rectangle2D vie
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

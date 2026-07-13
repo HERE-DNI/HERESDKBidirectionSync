@@ -3,10 +3,6 @@ title: "MapMarker3DModel.withTextureFilePathAndColor constructor - MapMarker3DMo
 slug: "sdk-for-flutter-explore-mapview-mapmarker3dmodel-mapmarker3dmodel-withtexturefilepathandcolor"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- MapMarker3DModel.withTextureFilePathAndColor.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -55,6 +51,3 @@ factory MapMarker3DModel.withTextureFilePathAndColor(String geometryFilePath, St
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

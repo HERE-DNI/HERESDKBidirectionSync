@@ -3,10 +3,6 @@ title: "Waypoint constructor - Waypoint - routing library - Dart API"
 slug: "sdk-for-flutter-explore-routing-waypoint-waypoint"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- Waypoint.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -86,6 +82,3 @@ Waypoint(GeoCoordinates coordinates, [WaypointType type = WaypointType.stopover,
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

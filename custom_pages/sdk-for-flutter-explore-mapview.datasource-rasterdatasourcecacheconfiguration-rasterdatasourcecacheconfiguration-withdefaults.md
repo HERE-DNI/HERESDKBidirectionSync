@@ -3,10 +3,6 @@ title: "RasterDataSourceCacheConfiguration.withDefaults constructor - RasterData
 slug: "sdk-for-flutter-explore-mapview.datasource-rasterdatasourcecacheconfiguration-rasterdatasourcecacheconfiguration-withdefaults"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- RasterDataSourceCacheConfiguration.withDefaults.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -50,6 +46,3 @@ RasterDataSourceCacheConfiguration.withDefaults(this.path)
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

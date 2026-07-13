@@ -3,10 +3,6 @@ title: "HereMapOptions constructor - HereMapOptions - mapview library - Dart API
 slug: "sdk-for-flutter-explore-mapview-heremapoptions-heremapoptions"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- HereMapOptions.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -44,6 +40,3 @@ HereMapOptions()
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

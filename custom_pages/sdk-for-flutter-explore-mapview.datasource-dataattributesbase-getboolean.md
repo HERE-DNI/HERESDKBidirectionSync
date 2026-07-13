@@ -3,10 +3,6 @@ title: "getBoolean method - DataAttributesBase class - mapview.datasource librar
 slug: "sdk-for-flutter-explore-mapview.datasource-dataattributesbase-getboolean"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- getBoolean.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -51,6 +47,3 @@ bool? getBoolean(String name);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

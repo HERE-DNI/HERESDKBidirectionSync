@@ -3,10 +3,6 @@ title: "DataAttributeValue.withArray constructor - DataAttributeValue - mapview.
 slug: "sdk-for-flutter-explore-mapview.datasource-dataattributevalue-dataattributevalue-witharray"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- DataAttributeValue.withArray.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -49,6 +45,3 @@ factory DataAttributeValue.withArray(List<DataAttributeValue> value) => $prototy
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

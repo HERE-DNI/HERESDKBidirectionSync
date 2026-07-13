@@ -3,10 +3,6 @@ title: "update method - Style class - mapview library - Dart API"
 slug: "sdk-for-flutter-explore-mapview-style-update"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- update.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -51,6 +47,3 @@ void update(Style style);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

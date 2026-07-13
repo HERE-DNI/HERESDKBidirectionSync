@@ -3,10 +3,6 @@ title: "setCustomAppender method - LogControl class - core.engine library - Dart
 slug: "sdk-for-flutter-explore-core.engine-logcontrol-setcustomappender"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- setCustomAppender.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -54,6 +50,3 @@ static void setCustomAppender(LogLevel level, LogAppender appender) => $prototyp
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

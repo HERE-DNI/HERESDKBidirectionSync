@@ -3,10 +3,6 @@ title: "GenericFuel constructor - GenericFuel - search library - Dart API"
 slug: "sdk-for-flutter-explore-search-genericfuel-genericfuel"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- GenericFuel.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -42,6 +38,3 @@ GenericFuel(FuelType type)
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

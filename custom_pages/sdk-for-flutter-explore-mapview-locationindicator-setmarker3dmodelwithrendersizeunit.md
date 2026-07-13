@@ -3,10 +3,6 @@ title: "setMarker3dModelWithRenderSizeUnit method - LocationIndicator class - ma
 slug: "sdk-for-flutter-explore-mapview-locationindicator-setmarker3dmodelwithrendersizeunit"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- setMarker3dModelWithRenderSizeUnit.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -66,6 +62,3 @@ void setMarker3dModelWithRenderSizeUnit(MapMarker3DModel model, double scale, Lo
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

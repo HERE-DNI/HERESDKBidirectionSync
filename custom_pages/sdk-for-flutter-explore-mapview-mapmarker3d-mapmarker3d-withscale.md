@@ -3,10 +3,6 @@ title: "MapMarker3D.withScale constructor - MapMarker3D - mapview library - Dart
 slug: "sdk-for-flutter-explore-mapview-mapmarker3d-mapmarker3d-withscale"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- MapMarker3D.withScale.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -61,6 +57,3 @@ factory MapMarker3D.withScale(GeoCoordinates at, MapMarker3DModel model, double 
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

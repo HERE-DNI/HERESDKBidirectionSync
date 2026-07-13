@@ -3,10 +3,6 @@ title: "BatterySpecifications constructor - BatterySpecifications - routing libr
 slug: "sdk-for-flutter-explore-routing-batteryspecifications-batteryspecifications"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- BatterySpecifications.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -77,6 +73,3 @@ BatterySpecifications([double totalCapacityInKilowattHours = 0.0, double initial
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

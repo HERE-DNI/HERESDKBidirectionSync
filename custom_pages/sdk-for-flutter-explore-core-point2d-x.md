@@ -3,10 +3,6 @@ title: "x property - Point2D class - core library - Dart API"
 slug: "sdk-for-flutter-explore-core-point2d-x"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- x.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ double x;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

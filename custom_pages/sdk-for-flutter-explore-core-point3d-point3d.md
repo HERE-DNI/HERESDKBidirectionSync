@@ -3,10 +3,6 @@ title: "Point3D constructor - Point3D - core library - Dart API"
 slug: "sdk-for-flutter-explore-core-point3d-point3d"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- Point3D.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -53,6 +49,3 @@ Point3D(this.x, this.y, this.z);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

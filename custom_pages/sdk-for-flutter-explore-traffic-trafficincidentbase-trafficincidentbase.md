@@ -3,10 +3,6 @@ title: "TrafficIncidentBase constructor - TrafficIncidentBase - traffic library 
 slug: "sdk-for-flutter-explore-traffic-trafficincidentbase-trafficincidentbase"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- TrafficIncidentBase.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -63,6 +59,3 @@ factory TrafficIncidentBase(
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

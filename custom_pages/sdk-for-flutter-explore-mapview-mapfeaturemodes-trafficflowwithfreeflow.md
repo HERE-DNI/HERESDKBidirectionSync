@@ -3,10 +3,6 @@ title: "trafficFlowWithFreeFlow property - MapFeatureModes class - mapview libra
 slug: "sdk-for-flutter-explore-mapview-mapfeaturemodes-trafficflowwithfreeflow"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- trafficFlowWithFreeFlow.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ static final String trafficFlowWithFreeFlow = "with free flow";
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

@@ -3,10 +3,6 @@ title: "PolygonDataSourcePolygonDataProcessor typedef - mapview.datasource libra
 slug: "sdk-for-flutter-explore-mapview.datasource-polygondatasourcepolygondataprocessor"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- PolygonDataSourcePolygonDataProcessor.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ typedef PolygonDataSourcePolygonDataProcessor = bool Function(PolygonDataAccesso
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

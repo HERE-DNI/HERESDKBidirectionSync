@@ -3,10 +3,6 @@ title: "lookAtAreaWithGeoOrientationAndViewRectangle method - MapCamera class - 
 slug: "sdk-for-flutter-explore-mapview-mapcamera-lookatareawithgeoorientationandviewrectangle"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- lookAtAreaWithGeoOrientationAndViewRectangle.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -59,6 +55,3 @@ void lookAtAreaWithGeoOrientationAndViewRectangle(GeoBox target, GeoOrientationU
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

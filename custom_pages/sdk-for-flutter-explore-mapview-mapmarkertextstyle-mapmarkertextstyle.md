@@ -3,10 +3,6 @@ title: "MapMarkerTextStyle constructor - MapMarkerTextStyle - mapview library - 
 slug: "sdk-for-flutter-explore-mapview-mapmarkertextstyle-mapmarkertextstyle"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- MapMarkerTextStyle.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -53,6 +49,3 @@ factory MapMarkerTextStyle() => $prototype.$init();
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

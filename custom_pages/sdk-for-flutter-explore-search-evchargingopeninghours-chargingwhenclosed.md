@@ -3,10 +3,6 @@ title: "chargingWhenClosed property - EVChargingOpeningHours class - search libr
 slug: "sdk-for-flutter-explore-search-evchargingopeninghours-chargingwhenclosed"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- chargingWhenClosed.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ bool chargingWhenClosed;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

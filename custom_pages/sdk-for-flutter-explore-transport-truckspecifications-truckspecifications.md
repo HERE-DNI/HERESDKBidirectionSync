@@ -3,10 +3,6 @@ title: "TruckSpecifications constructor - TruckSpecifications - transport librar
 slug: "sdk-for-flutter-explore-transport-truckspecifications-truckspecifications"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- TruckSpecifications.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -83,6 +79,3 @@ TruckSpecifications([int? grossWeightInKilograms = null, int? currentWeightInKil
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

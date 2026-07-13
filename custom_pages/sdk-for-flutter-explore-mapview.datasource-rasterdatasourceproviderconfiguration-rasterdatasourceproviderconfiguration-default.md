@@ -3,10 +3,6 @@ title: "RasterDataSourceProviderConfiguration.Default constructor - RasterDataSo
 slug: "sdk-for-flutter-explore-mapview.datasource-rasterdatasourceproviderconfiguration-rasterdatasourceproviderconfiguration-default"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- RasterDataSourceProviderConfiguration.Default.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -57,6 +53,3 @@ RasterDataSourceProviderConfiguration.Default(this.urlProvider, this.tilingSchem
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

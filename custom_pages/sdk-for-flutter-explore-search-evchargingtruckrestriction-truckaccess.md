@@ -3,10 +3,6 @@ title: "truckAccess property - EVChargingTruckRestriction class - search library
 slug: "sdk-for-flutter-explore-search-evchargingtruckrestriction-truckaccess"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- truckAccess.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -53,6 +49,3 @@ List<TruckClass> truckAccess;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

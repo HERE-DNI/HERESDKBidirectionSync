@@ -3,10 +3,6 @@ title: "withOverridingMapStyle method - MapSceneLoadOptionsBuilder class - mapvi
 slug: "sdk-for-flutter-explore-mapview-mapsceneloadoptionsbuilder-withoverridingmapstyle"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- withOverridingMapStyle.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -51,6 +47,3 @@ MapSceneLoadOptionsBuilder withOverridingMapStyle(Style overridingMapStyle);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

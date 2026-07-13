@@ -3,10 +3,6 @@ title: "lookAtOrientationWithEasing method - MapCameraKeyframeTrack class - mapv
 slug: "sdk-for-flutter-explore-mapview-mapcamerakeyframetrack-lookatorientationwitheasing"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- lookAtOrientationWithEasing.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -61,6 +57,3 @@ static MapCameraKeyframeTrack lookAtOrientationWithEasing(List<GeoOrientationKey
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

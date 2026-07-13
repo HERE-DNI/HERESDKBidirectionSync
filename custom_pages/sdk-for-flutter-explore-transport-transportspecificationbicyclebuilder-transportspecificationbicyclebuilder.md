@@ -3,10 +3,6 @@ title: "TransportSpecificationBicycleBuilder constructor - TransportSpecificatio
 slug: "sdk-for-flutter-explore-transport-transportspecificationbicyclebuilder-transportspecificationbicyclebuilder"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- TransportSpecificationBicycleBuilder.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -43,6 +39,3 @@ factory TransportSpecificationBicycleBuilder() => $prototype.$init();
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

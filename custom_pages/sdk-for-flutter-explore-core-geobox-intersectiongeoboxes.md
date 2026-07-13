@@ -3,10 +3,6 @@ title: "intersectionGeoBoxes method - GeoBox class - core library - Dart API"
 slug: "sdk-for-flutter-explore-core-geobox-intersectiongeoboxes"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- intersectionGeoBoxes.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -57,6 +53,3 @@ static List<GeoBox> intersectionGeoBoxes(List<GeoBox> geoBoxes) => $prototype.in
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

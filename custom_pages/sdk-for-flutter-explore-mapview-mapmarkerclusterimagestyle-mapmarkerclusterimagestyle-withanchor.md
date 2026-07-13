@@ -3,10 +3,6 @@ title: "MapMarkerClusterImageStyle.withAnchor constructor - MapMarkerClusterImag
 slug: "sdk-for-flutter-explore-mapview-mapmarkerclusterimagestyle-mapmarkerclusterimagestyle-withanchor"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- MapMarkerClusterImageStyle.withAnchor.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -54,6 +50,3 @@ factory MapMarkerClusterImageStyle.withAnchor(MapImage image, Anchor2D anchor) =
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

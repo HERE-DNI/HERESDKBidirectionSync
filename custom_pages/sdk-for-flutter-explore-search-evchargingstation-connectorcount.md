@@ -3,10 +3,6 @@ title: "connectorCount property - EVChargingStation class - search library - Dar
 slug: "sdk-for-flutter-explore-search-evchargingstation-connectorcount"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- connectorCount.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ int? connectorCount;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

@@ -3,10 +3,6 @@ title: "MapViewLifecycleListener constructor - MapViewLifecycleListener - mapvie
 slug: "sdk-for-flutter-explore-mapview-mapviewlifecyclelistener-mapviewlifecyclelistener"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- MapViewLifecycleListener.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -75,6 +71,3 @@ factory MapViewLifecycleListener(
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

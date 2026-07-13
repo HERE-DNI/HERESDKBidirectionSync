@@ -3,10 +3,6 @@ title: "dinersClub property - POIPaymentMethod class - search library - Dart API
 slug: "sdk-for-flutter-explore-search-poipaymentmethod-dinersclub"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- dinersClub.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ static final String dinersClub = "dinersclub";
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

@@ -3,10 +3,6 @@ title: "calculateTruckRoute method - RoutingInterface class - routing library - 
 slug: "sdk-for-flutter-explore-routing-routinginterface-calculatetruckroute"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- calculateTruckRoute.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -67,6 +63,3 @@ TaskHandle calculateTruckRoute(List<Waypoint> waypoints, TruckOptions truckOptio
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

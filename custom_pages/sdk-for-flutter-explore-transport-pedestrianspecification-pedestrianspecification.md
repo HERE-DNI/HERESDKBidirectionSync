@@ -3,10 +3,6 @@ title: "PedestrianSpecification constructor - PedestrianSpecification - transpor
 slug: "sdk-for-flutter-explore-transport-pedestrianspecification-pedestrianspecification"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- PedestrianSpecification.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -38,6 +34,3 @@ PedestrianSpecification()
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

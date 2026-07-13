@@ -3,10 +3,6 @@ title: "renderedLast method - MapLayerPriorityBuilder class - mapview library - 
 slug: "sdk-for-flutter-explore-mapview-maplayerprioritybuilder-renderedlast"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- renderedLast.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -53,6 +49,3 @@ MapLayerPriorityBuilder renderedLast();
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

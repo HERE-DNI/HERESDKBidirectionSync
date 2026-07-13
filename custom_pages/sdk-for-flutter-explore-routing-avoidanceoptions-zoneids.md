@@ -3,10 +3,6 @@ title: "zoneIds property - AvoidanceOptions class - routing library - Dart API"
 slug: "sdk-for-flutter-explore-routing-avoidanceoptions-zoneids"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- zoneIds.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ List<String> zoneIds;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

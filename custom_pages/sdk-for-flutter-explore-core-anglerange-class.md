@@ -3,10 +3,6 @@ title: "AngleRange class - core library - Dart API"
 slug: "sdk-for-flutter-explore-core-anglerange-class"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- AngleRange-class.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -138,6 +134,3 @@ Constructs an AngleRange from the provided minimum and maximum angles.
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

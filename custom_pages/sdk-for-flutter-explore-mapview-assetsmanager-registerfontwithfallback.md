@@ -3,10 +3,6 @@ title: "registerFontWithFallback method - AssetsManager class - mapview library 
 slug: "sdk-for-flutter-explore-mapview-assetsmanager-registerfontwithfallback"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- registerFontWithFallback.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -64,6 +60,3 @@ void registerFontWithFallback(String fontName, String fontPath, List<String> fal
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

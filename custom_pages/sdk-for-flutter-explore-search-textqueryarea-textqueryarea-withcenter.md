@@ -3,10 +3,6 @@ title: "TextQueryArea.withCenter constructor - TextQueryArea - search library - 
 slug: "sdk-for-flutter-explore-search-textqueryarea-textqueryarea-withcenter"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- TextQueryArea.withCenter.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -49,6 +45,3 @@ factory TextQueryArea.withCenter(GeoCoordinates areaCenter) => $prototype.withCe
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

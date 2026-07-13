@@ -3,10 +3,6 @@ title: "displayCoordinates property - RoutePlace class - routing library - Dart 
 slug: "sdk-for-flutter-explore-routing-routeplace-displaycoordinates"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- displayCoordinates.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ GeoCoordinates? displayCoordinates;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

@@ -3,10 +3,6 @@ title: "truckSpecifications property - EVTruckOptions class - routing library - 
 slug: "sdk-for-flutter-explore-routing-evtruckoptions-truckspecifications"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- truckSpecifications.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ TruckSpecifications truckSpecifications;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

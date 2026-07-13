@@ -3,10 +3,6 @@ title: "DataAttributesBase constructor - DataAttributesBase - mapview.datasource
 slug: "sdk-for-flutter-explore-mapview.datasource-dataattributesbase-dataattributesbase"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- DataAttributesBase.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -103,6 +99,3 @@ factory DataAttributesBase(
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

@@ -3,10 +3,6 @@ title: "enableUsageStats method - SDKNativeEngine class - core.engine library - 
 slug: "sdk-for-flutter-explore-core.engine-sdknativeengine-enableusagestats"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- enableUsageStats.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -58,6 +54,3 @@ void enableUsageStats(bool enabled);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

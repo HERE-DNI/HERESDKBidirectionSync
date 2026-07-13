@@ -3,10 +3,6 @@ title: "ambientOcclusionAll property - MapFeatureModes class - mapview library -
 slug: "sdk-for-flutter-explore-mapview-mapfeaturemodes-ambientocclusionall"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- ambientOcclusionAll.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -49,6 +45,3 @@ static final String ambientOcclusionAll = "all";
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

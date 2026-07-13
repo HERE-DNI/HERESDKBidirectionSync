@@ -3,10 +3,6 @@ title: "withName method - MapLayerBuilder class - mapview library - Dart API"
 slug: "sdk-for-flutter-explore-mapview-maplayerbuilder-withname"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- withName.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -53,6 +49,3 @@ MapLayerBuilder withName(String name);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

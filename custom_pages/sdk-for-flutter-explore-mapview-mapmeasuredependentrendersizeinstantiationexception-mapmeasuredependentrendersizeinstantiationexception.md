@@ -3,10 +3,6 @@ title: "MapMeasureDependentRenderSizeInstantiationException constructor - MapMea
 slug: "sdk-for-flutter-explore-mapview-mapmeasuredependentrendersizeinstantiationexception-mapmeasuredependentrendersizeinstantiationexception"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- MapMeasureDependentRenderSizeInstantiationException.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -41,6 +37,3 @@ MapMeasureDependentRenderSizeInstantiationException(this.error);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

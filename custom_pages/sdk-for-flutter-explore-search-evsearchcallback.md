@@ -3,10 +3,6 @@ title: "EVSearchCallback typedef - search library - Dart API"
 slug: "sdk-for-flutter-explore-search-evsearchcallback"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- EVSearchCallback.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -49,6 +45,3 @@ typedef EVSearchCallback = void Function(EVSearchError? error, List<EVChargingLo
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

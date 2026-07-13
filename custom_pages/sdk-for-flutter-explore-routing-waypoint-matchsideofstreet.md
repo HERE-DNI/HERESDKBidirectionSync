@@ -3,10 +3,6 @@ title: "matchSideOfStreet property - Waypoint class - routing library - Dart API
 slug: "sdk-for-flutter-explore-routing-waypoint-matchsideofstreet"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- matchSideOfStreet.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ MatchSideOfStreet? matchSideOfStreet;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

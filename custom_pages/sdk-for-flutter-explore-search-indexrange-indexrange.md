@@ -3,10 +3,6 @@ title: "IndexRange constructor - IndexRange - search library - Dart API"
 slug: "sdk-for-flutter-explore-search-indexrange-indexrange"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- IndexRange.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -29,6 +25,3 @@ slug: "sdk-for-flutter-explore-search-indexrange-indexrange"
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

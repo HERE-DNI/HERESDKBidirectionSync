@@ -3,10 +3,6 @@ title: "authenticate method - Authentication class - core library - Dart API"
 slug: "sdk-for-flutter-explore-core-authentication-authenticate"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- authenticate.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -54,6 +50,3 @@ static void authenticate(SDKNativeEngine sdkNativeEngine, AuthenticationCallback
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

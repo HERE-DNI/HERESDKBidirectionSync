@@ -3,10 +3,6 @@ title: "visibilityRanges property - MapMarker class - mapview library - Dart API
 slug: "sdk-for-flutter-explore-mapview-mapmarker-visibilityranges"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- visibilityRanges.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -73,6 +69,3 @@ set visibilityRanges(List<MapMeasureRange> value);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

@@ -3,10 +3,6 @@ title: "iec62196T3a property - EVChargingConnectorType class - ev library - Dart
 slug: "sdk-for-flutter-explore-ev-evchargingconnectortype-iec62196t3a"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- iec62196T3a.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ static final String iec62196T3a = "IEC_62196_T3A";
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

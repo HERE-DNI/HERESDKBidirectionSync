@@ -3,10 +3,6 @@ title: "timeRule property - ViolatedRestrictionDetails class - routing library -
 slug: "sdk-for-flutter-explore-routing-violatedrestrictiondetails-timerule"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- timeRule.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ TimeRule? timeRule;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

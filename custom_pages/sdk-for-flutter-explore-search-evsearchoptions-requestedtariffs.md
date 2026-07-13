@@ -3,10 +3,6 @@ title: "requestedTariffs property - EVSearchOptions class - search library - Dar
 slug: "sdk-for-flutter-explore-search-evsearchoptions-requestedtariffs"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- requestedTariffs.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ List<EVChargingTariffRequest> requestedTariffs;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

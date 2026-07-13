@@ -3,10 +3,6 @@ title: "calculateTrafficOnRoute method - RoutingEngine class - routing library -
 slug: "sdk-for-flutter-explore-routing-routingengine-calculatetrafficonroute"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- calculateTrafficOnRoute.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -64,6 +60,3 @@ TaskHandle calculateTrafficOnRoute(Route route, int lastTraveledSectionIndex, in
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

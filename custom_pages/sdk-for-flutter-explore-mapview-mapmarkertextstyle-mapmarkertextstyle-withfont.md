@@ -3,10 +3,6 @@ title: "MapMarkerTextStyle.withFont constructor - MapMarkerTextStyle - mapview l
 slug: "sdk-for-flutter-explore-mapview-mapmarkertextstyle-mapmarkertextstyle-withfont"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- MapMarkerTextStyle.withFont.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -72,6 +68,3 @@ factory MapMarkerTextStyle.withFont(double textSize, ui.Color textColor, double 
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

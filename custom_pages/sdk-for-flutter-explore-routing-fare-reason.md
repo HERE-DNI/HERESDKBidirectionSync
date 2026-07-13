@@ -3,10 +3,6 @@ title: "reason property - Fare class - routing library - Dart API"
 slug: "sdk-for-flutter-explore-routing-fare-reason"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- reason.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ FareReason reason;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

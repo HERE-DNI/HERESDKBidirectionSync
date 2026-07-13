@@ -3,10 +3,6 @@ title: "endTime property - TrafficIncidentBase class - traffic library - Dart AP
 slug: "sdk-for-flutter-explore-traffic-trafficincidentbase-endtime"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- endTime.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -45,6 +41,3 @@ DateTime? get endTime;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

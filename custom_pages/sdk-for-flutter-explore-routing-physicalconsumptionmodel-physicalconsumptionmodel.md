@@ -3,10 +3,6 @@ title: "PhysicalConsumptionModel constructor - PhysicalConsumptionModel - routin
 slug: "sdk-for-flutter-explore-routing-physicalconsumptionmodel-physicalconsumptionmodel"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- PhysicalConsumptionModel.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -38,6 +34,3 @@ PhysicalConsumptionModel()
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

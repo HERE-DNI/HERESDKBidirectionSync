@@ -3,10 +3,6 @@ title: "cancelAnimation method - MapPolyline class - mapview library - Dart API"
 slug: "sdk-for-flutter-explore-mapview-mappolyline-cancelanimation"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- cancelAnimation.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -51,6 +47,3 @@ void cancelAnimation(MapPolylineAnimation animation);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

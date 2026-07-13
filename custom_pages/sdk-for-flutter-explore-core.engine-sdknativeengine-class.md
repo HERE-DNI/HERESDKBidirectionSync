@@ -3,10 +3,6 @@ title: "SDKNativeEngine class - core.engine library - Dart API"
 slug: "sdk-for-flutter-explore-core.engine-sdknativeengine-class"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- SDKNativeEngine-class.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -199,6 +195,3 @@ Makes a new instance of SDKNativeEngine using supplied options and stores it as 
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

@@ -3,10 +3,6 @@ title: "AuthenticationExceptionException constructor - AuthenticationExceptionEx
 slug: "sdk-for-flutter-explore-core-authenticationexceptionexception-authenticationexceptionexception"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- AuthenticationExceptionException.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -41,6 +37,3 @@ AuthenticationExceptionException(this.error);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

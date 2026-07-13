@@ -3,10 +3,6 @@ title: "facilitiesGovernmentCommunitty property - PlaceCategory class - search l
 slug: "sdk-for-flutter-explore-search-placecategory-facilitiesgovernmentcommunitty"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- facilitiesGovernmentCommunitty.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ static final String facilitiesGovernmentCommunitty = "800-8100";
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

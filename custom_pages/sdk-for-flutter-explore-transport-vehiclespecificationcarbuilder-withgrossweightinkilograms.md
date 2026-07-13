@@ -3,10 +3,6 @@ title: "withGrossWeightInKilograms method - VehicleSpecificationCarBuilder class
 slug: "sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-withgrossweightinkilograms"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- withGrossWeightInKilograms.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -51,6 +47,3 @@ VehicleSpecificationCarBuilder withGrossWeightInKilograms(int grossWeightInKilog
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

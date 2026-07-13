@@ -3,10 +3,6 @@ title: "initialBackgroundColor property - HereMapOptions class - mapview library
 slug: "sdk-for-flutter-explore-mapview-heremapoptions-initialbackgroundcolor"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- initialBackgroundColor.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -49,6 +45,3 @@ ui.Color? initialBackgroundColor;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

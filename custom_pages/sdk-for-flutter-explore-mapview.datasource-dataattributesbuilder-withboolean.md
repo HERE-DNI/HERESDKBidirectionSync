@@ -3,10 +3,6 @@ title: "withBoolean method - DataAttributesBuilder class - mapview.datasource li
 slug: "sdk-for-flutter-explore-mapview.datasource-dataattributesbuilder-withboolean"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- withBoolean.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -54,6 +50,3 @@ DataAttributesBuilder withBoolean(String name, bool value);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

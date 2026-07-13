@@ -3,10 +3,6 @@ title: "IsolineOptions.withEVTruckOptions constructor - IsolineOptions - routing
 slug: "sdk-for-flutter-explore-routing-isolineoptions-isolineoptions-withevtruckoptions"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- IsolineOptions.withEVTruckOptions.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -60,6 +56,3 @@ factory IsolineOptions.withEVTruckOptions(IsolineOptionsCalculation calculationO
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

@@ -3,10 +3,6 @@ title: "addPolygons method - PolygonDataSource class - mapview.datasource librar
 slug: "sdk-for-flutter-explore-mapview.datasource-polygondatasource-addpolygons"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- addPolygons.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -49,6 +45,3 @@ void addPolygons(List<PolygonData> polygons);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

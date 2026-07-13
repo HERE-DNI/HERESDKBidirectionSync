@@ -3,10 +3,6 @@ title: "TextQueryArea.withBox constructor - TextQueryArea - search library - Dar
 slug: "sdk-for-flutter-explore-search-textqueryarea-textqueryarea-withbox"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- TextQueryArea.withBox.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -51,6 +47,3 @@ factory TextQueryArea.withBox(GeoBox boxArea) => $prototype.withBox(boxArea);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

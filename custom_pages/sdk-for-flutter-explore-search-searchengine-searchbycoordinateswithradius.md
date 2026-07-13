@@ -3,10 +3,6 @@ title: "searchByCoordinatesWithRadius method - SearchEngine class - search libra
 slug: "sdk-for-flutter-explore-search-searchengine-searchbycoordinateswithradius"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- searchByCoordinatesWithRadius.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -59,6 +55,3 @@ TaskHandle searchByCoordinatesWithRadius(GeoCircle circle, SearchOptions options
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

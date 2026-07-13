@@ -3,10 +3,6 @@ title: "IndoorRoutePlace constructor - IndoorRoutePlace - routing library - Dart
 slug: "sdk-for-flutter-explore-routing-indoorrouteplace-indoorrouteplace"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- IndoorRoutePlace.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -57,6 +53,3 @@ IndoorRoutePlace(this.type, this.coordinates, this.levelZIndex, this.venueId, th
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

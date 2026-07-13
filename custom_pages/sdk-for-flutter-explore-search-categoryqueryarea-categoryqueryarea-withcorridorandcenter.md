@@ -3,10 +3,6 @@ title: "CategoryQueryArea.withCorridorAndCenter constructor - CategoryQueryArea 
 slug: "sdk-for-flutter-explore-search-categoryqueryarea-categoryqueryarea-withcorridorandcenter"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- CategoryQueryArea.withCorridorAndCenter.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -58,6 +54,3 @@ factory CategoryQueryArea.withCorridorAndCenter(GeoCorridor corridorArea, GeoCoo
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

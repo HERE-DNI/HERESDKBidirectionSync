@@ -3,10 +3,6 @@ title: "occupantsNumber property - CarOptions class - routing library - Dart API
 slug: "sdk-for-flutter-explore-routing-caroptions-occupantsnumber"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- occupantsNumber.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -49,6 +45,3 @@ int occupantsNumber;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

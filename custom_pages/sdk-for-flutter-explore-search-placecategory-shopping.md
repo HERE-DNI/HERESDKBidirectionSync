@@ -3,10 +3,6 @@ title: "shopping property - PlaceCategory class - search library - Dart API"
 slug: "sdk-for-flutter-explore-search-placecategory-shopping"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- shopping.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ static final String shopping = "600";
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

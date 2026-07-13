@@ -3,10 +3,6 @@ title: "onTwoFingerPan method - TwoFingerPanListener class - gestures library - 
 slug: "sdk-for-flutter-explore-gestures-twofingerpanlistener-ontwofingerpan"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- onTwoFingerPan.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -58,6 +54,3 @@ void onTwoFingerPan(GestureState state, Point2D origin, Point2D translation, dou
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

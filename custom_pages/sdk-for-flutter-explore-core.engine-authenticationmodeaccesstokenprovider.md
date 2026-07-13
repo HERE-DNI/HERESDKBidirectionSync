@@ -3,10 +3,6 @@ title: "AuthenticationModeAccessTokenProvider typedef - core.engine library - Da
 slug: "sdk-for-flutter-explore-core.engine-authenticationmodeaccesstokenprovider"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- AuthenticationModeAccessTokenProvider.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ typedef AuthenticationModeAccessTokenProvider = String? Function();
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

@@ -3,10 +3,6 @@ title: "periods property - EVChargingOpeningHoursSchedule class - search library
 slug: "sdk-for-flutter-explore-search-evchargingopeninghoursschedule-periods"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- periods.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ List<TimeOfDayRange> periods;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

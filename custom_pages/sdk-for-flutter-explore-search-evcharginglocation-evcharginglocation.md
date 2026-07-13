@@ -3,10 +3,6 @@ title: "EVChargingLocation constructor - EVChargingLocation - search library - D
 slug: "sdk-for-flutter-explore-search-evcharginglocation-evcharginglocation"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- EVChargingLocation.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -29,6 +25,3 @@ slug: "sdk-for-flutter-explore-search-evcharginglocation-evcharginglocation"
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

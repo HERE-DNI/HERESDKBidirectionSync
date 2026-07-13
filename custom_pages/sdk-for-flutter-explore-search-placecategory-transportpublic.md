@@ -3,10 +3,6 @@ title: "transportPublic property - PlaceCategory class - search library - Dart A
 slug: "sdk-for-flutter-explore-search-placecategory-transportpublic"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- transportPublic.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ static final String transportPublic = "400-4100";
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

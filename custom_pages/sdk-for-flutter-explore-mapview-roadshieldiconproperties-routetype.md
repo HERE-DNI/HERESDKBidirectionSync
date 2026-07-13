@@ -3,10 +3,6 @@ title: "routeType property - RoadShieldIconProperties class - mapview library - 
 slug: "sdk-for-flutter-explore-mapview-roadshieldiconproperties-routetype"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- routeType.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ RouteType routeType;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

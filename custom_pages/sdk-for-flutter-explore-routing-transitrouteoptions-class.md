@@ -3,10 +3,6 @@ title: "TransitRouteOptions class - routing library - Dart API"
 slug: "sdk-for-flutter-explore-routing-transitrouteoptions-class"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- TransitRouteOptions-class.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -164,6 +160,3 @@ Returns TransitRouteOptions instance with default values used in SDK.
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

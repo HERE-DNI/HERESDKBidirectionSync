@@ -3,10 +3,6 @@ title: "IsolineRoutingEngine.withSdkEngine constructor - IsolineRoutingEngine - 
 slug: "sdk-for-flutter-explore-routing-isolineroutingengine-isolineroutingengine-withsdkengine"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- IsolineRoutingEngine.withSdkEngine.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -51,6 +47,3 @@ factory IsolineRoutingEngine.withSdkEngine(SDKNativeEngine sdkEngine) => $protot
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

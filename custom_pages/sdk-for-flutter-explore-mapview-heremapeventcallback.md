@@ -3,10 +3,6 @@ title: "HereMapEventCallback typedef - mapview library - Dart API"
 slug: "sdk-for-flutter-explore-mapview-heremapeventcallback"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- HereMapEventCallback.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -37,6 +33,3 @@ typedef HereMapEventCallback = void Function(HereMapEvent event);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

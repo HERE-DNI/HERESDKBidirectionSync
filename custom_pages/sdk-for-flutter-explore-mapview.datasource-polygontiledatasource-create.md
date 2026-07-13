@@ -3,10 +3,6 @@ title: "create method - PolygonTileDataSource class - mapview.datasource library
 slug: "sdk-for-flutter-explore-mapview.datasource-polygontiledatasource-create"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- create.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -57,6 +53,3 @@ static PolygonTileDataSource create(MapContext context, String name, PolygonTile
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

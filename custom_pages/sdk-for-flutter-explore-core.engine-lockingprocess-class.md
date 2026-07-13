@@ -3,10 +3,6 @@ title: "LockingProcess class - core.engine library - Dart API"
 slug: "sdk-for-flutter-explore-core.engine-lockingprocess-class"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- LockingProcess-class.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -89,6 +85,3 @@ Checks if cache folder is locked.
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

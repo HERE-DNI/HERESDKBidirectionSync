@@ -3,10 +3,6 @@ title: "trafficOptimizationMode property - RouteOptions class - routing library 
 slug: "sdk-for-flutter-explore-routing-routeoptions-trafficoptimizationmode"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- trafficOptimizationMode.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ TrafficOptimizationMode trafficOptimizationMode;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

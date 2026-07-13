@@ -3,10 +3,6 @@ title: "trafficIncidents property - PickMapContentResult class - mapview library
 slug: "sdk-for-flutter-explore-mapview-pickmapcontentresult-trafficincidents"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- trafficIncidents.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -45,6 +41,3 @@ List<PickTrafficIncidentResult> get trafficIncidents;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

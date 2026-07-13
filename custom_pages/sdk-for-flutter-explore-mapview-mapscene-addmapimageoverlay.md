@@ -3,10 +3,6 @@ title: "addMapImageOverlay method - MapScene class - mapview library - Dart API"
 slug: "sdk-for-flutter-explore-mapview-mapscene-addmapimageoverlay"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- addMapImageOverlay.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -51,6 +47,3 @@ void addMapImageOverlay(MapImageOverlay overlay);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

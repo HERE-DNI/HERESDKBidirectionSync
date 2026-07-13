@@ -3,10 +3,6 @@ title: "child property - WidgetPin class - mapview library - Dart API"
 slug: "sdk-for-flutter-explore-mapview-widgetpin-child"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- child.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -45,6 +41,3 @@ Widget get child;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

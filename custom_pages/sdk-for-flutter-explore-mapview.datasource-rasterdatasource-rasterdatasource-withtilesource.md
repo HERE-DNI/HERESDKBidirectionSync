@@ -3,10 +3,6 @@ title: "RasterDataSource.withTileSource constructor - RasterDataSource - mapview
 slug: "sdk-for-flutter-explore-mapview.datasource-rasterdatasource-rasterdatasource-withtilesource"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- RasterDataSource.withTileSource.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -57,6 +53,3 @@ factory RasterDataSource.withTileSource(MapContext context, String name, RasterT
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

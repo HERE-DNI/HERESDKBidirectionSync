@@ -3,10 +3,6 @@ title: "networkInterface property - ProxySettings class - core.engine library - 
 slug: "sdk-for-flutter-explore-core.engine-proxysettings-networkinterface"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- networkInterface.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ String? networkInterface;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

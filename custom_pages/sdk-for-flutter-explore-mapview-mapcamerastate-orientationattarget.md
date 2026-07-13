@@ -3,10 +3,6 @@ title: "orientationAtTarget property - MapCameraState class - mapview library - 
 slug: "sdk-for-flutter-explore-mapview-mapcamerastate-orientationattarget"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- orientationAtTarget.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ GeoOrientation orientationAtTarget;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

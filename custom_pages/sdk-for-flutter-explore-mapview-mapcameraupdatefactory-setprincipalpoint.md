@@ -3,10 +3,6 @@ title: "setPrincipalPoint method - MapCameraUpdateFactory class - mapview librar
 slug: "sdk-for-flutter-explore-mapview-mapcameraupdatefactory-setprincipalpoint"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- setPrincipalPoint.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -53,6 +49,3 @@ static MapCameraUpdate setPrincipalPoint(Point2D principalPoint) => $prototype.s
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

@@ -3,10 +3,6 @@ title: "sectionPolylineOffset property - Span class - routing library - Dart API
 slug: "sdk-for-flutter-explore-routing-span-sectionpolylineoffset"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- sectionPolylineOffset.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -45,6 +41,3 @@ int get sectionPolylineOffset;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

@@ -3,10 +3,6 @@ title: "ChargingConnectorAttributes constructor - ChargingConnectorAttributes - 
 slug: "sdk-for-flutter-explore-routing-chargingconnectorattributes-chargingconnectorattributes"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- ChargingConnectorAttributes.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -57,6 +53,3 @@ ChargingConnectorAttributes(this.powerInKilowatts, this.currentInAmperes, this.v
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

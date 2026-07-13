@@ -3,10 +3,6 @@ title: "importTaxiRouteWithStops method - RoutingEngine class - routing library 
 slug: "sdk-for-flutter-explore-routing-routingengine-importtaxiroutewithstops"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- importTaxiRouteWithStops.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -76,6 +72,3 @@ TaskHandle importTaxiRouteWithStops(List<Location> locations, List<RouteStop> ro
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

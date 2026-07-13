@@ -3,10 +3,6 @@ title: "removeAllMapPolygons method - MapScene class - mapview library - Dart AP
 slug: "sdk-for-flutter-explore-mapview-mapscene-removeallmappolygons"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- removeAllMapPolygons.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -43,6 +39,3 @@ void removeAllMapPolygons();
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

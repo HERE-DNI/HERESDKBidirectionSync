@@ -3,10 +3,6 @@ title: "freeResource method - MapContext class - mapview library - Dart API"
 slug: "sdk-for-flutter-explore-mapview-mapcontext-freeresource"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- freeResource.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -54,6 +50,3 @@ void freeResource(MapContextResourceType type, MapContextFreeResourceSeverity se
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

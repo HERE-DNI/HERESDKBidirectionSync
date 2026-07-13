@@ -3,10 +3,6 @@ title: "customAuthenticationMode property - EngineOptions class - core.engine li
 slug: "sdk-for-flutter-explore-core.engine-engineoptions-customauthenticationmode"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- customAuthenticationMode.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ AuthenticationMode? customAuthenticationMode;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

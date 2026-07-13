@@ -3,10 +3,6 @@ title: "AddressQuery.withAreaCenterInCountries constructor - AddressQuery - sear
 slug: "sdk-for-flutter-explore-search-addressquery-addressquery-withareacenterincountries"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- AddressQuery.withAreaCenterInCountries.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -55,6 +51,3 @@ factory AddressQuery.withAreaCenterInCountries(String query, GeoCoordinates area
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

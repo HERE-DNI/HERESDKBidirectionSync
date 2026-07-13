@@ -3,10 +3,6 @@ title: "indoorSpaceData property - IndoorManeuver class - routing library - Dart
 slug: "sdk-for-flutter-explore-routing-indoormaneuver-indoorspacedata"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- indoorSpaceData.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -45,6 +41,3 @@ IndoorSpaceData? get indoorSpaceData;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

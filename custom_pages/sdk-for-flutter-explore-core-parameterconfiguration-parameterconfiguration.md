@@ -3,10 +3,6 @@ title: "ParameterConfiguration constructor - ParameterConfiguration - core libra
 slug: "sdk-for-flutter-explore-core-parameterconfiguration-parameterconfiguration"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- ParameterConfiguration.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -45,6 +41,3 @@ factory ParameterConfiguration() => $prototype.$init();
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

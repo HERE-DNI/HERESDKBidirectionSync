@@ -3,10 +3,6 @@ title: "IndoorLevelChangeData constructor - IndoorLevelChangeData - routing libr
 slug: "sdk-for-flutter-explore-routing-indoorlevelchangedata-indoorlevelchangedata"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- IndoorLevelChangeData.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -51,6 +47,3 @@ IndoorLevelChangeData(this.connector, this.deltaZ);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

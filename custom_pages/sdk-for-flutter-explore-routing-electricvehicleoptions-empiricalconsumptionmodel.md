@@ -3,10 +3,6 @@ title: "empiricalConsumptionModel property - ElectricVehicleOptions class - rout
 slug: "sdk-for-flutter-explore-routing-electricvehicleoptions-empiricalconsumptionmodel"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- empiricalConsumptionModel.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ EmpiricalConsumptionModel? empiricalConsumptionModel;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

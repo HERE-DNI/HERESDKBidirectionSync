@@ -3,10 +3,6 @@ title: "addMapArrow method - MapScene class - mapview library - Dart API"
 slug: "sdk-for-flutter-explore-mapview-mapscene-addmaparrow"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- addMapArrow.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -51,6 +47,3 @@ void addMapArrow(MapArrow mapArrow);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

@@ -3,10 +3,6 @@ title: "serializeCompact method - Place class - search library - Dart API"
 slug: "sdk-for-flutter-explore-search-place-serializecompact"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- serializeCompact.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -57,6 +53,3 @@ String serializeCompact();
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

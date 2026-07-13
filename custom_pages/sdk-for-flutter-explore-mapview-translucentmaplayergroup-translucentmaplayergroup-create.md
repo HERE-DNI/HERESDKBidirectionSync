@@ -3,10 +3,6 @@ title: "TranslucentMapLayerGroup.create constructor - TranslucentMapLayerGroup -
 slug: "sdk-for-flutter-explore-mapview-translucentmaplayergroup-translucentmaplayergroup-create"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- TranslucentMapLayerGroup.create.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -54,6 +50,3 @@ factory TranslucentMapLayerGroup.create(String name, HereMapControllerCore aMap)
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

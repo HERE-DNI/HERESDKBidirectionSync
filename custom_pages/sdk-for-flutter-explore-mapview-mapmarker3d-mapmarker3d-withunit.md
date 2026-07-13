@@ -3,10 +3,6 @@ title: "MapMarker3D.withUnit constructor - MapMarker3D - mapview library - Dart 
 slug: "sdk-for-flutter-explore-mapview-mapmarker3d-mapmarker3d-withunit"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- MapMarker3D.withUnit.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -70,6 +66,3 @@ factory MapMarker3D.withUnit(GeoCoordinates at, MapMarker3DModel model, double s
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

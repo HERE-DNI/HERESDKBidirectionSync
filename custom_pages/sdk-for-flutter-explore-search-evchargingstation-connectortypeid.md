@@ -3,10 +3,6 @@ title: "connectorTypeId property - EVChargingStation class - search library - Da
 slug: "sdk-for-flutter-explore-search-evchargingstation-connectortypeid"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- connectorTypeId.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ String? connectorTypeId;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

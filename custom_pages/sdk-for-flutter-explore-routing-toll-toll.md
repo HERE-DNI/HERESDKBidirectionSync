@@ -3,10 +3,6 @@ title: "Toll constructor - Toll - routing library - Dart API"
 slug: "sdk-for-flutter-explore-routing-toll-toll"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- Toll.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -53,6 +49,3 @@ Toll(this.countryCode, this.tollSystems, this.fares);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

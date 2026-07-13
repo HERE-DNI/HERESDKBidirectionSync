@@ -3,10 +3,6 @@ title: "options property - SDKNativeEngine class - core.engine library - Dart AP
 slug: "sdk-for-flutter-explore-core.engine-sdknativeengine-options"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- options.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -45,6 +41,3 @@ SDKOptions get options;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

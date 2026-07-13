@@ -3,10 +3,6 @@ title: "doubleTapListener property - Gestures class - gestures library - Dart AP
 slug: "sdk-for-flutter-explore-gestures-gestures-doubletaplistener"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- doubleTapListener.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -69,6 +65,3 @@ set doubleTapListener(DoubleTapListener? value);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

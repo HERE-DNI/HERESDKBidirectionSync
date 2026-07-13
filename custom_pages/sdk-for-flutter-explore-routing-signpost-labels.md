@@ -3,10 +3,6 @@ title: "labels property - Signpost class - routing library - Dart API"
 slug: "sdk-for-flutter-explore-routing-signpost-labels"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- labels.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ List<SignpostLabel> labels;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

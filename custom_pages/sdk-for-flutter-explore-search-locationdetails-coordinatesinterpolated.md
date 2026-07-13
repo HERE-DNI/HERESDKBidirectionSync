@@ -3,10 +3,6 @@ title: "coordinatesInterpolated property - LocationDetails class - search librar
 slug: "sdk-for-flutter-explore-search-locationdetails-coordinatesinterpolated"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- coordinatesInterpolated.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ bool coordinatesInterpolated;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

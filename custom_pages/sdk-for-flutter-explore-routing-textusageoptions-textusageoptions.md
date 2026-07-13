@@ -3,10 +3,6 @@ title: "TextUsageOptions constructor - TextUsageOptions - routing library - Dart
 slug: "sdk-for-flutter-explore-routing-textusageoptions-textusageoptions"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- TextUsageOptions.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -38,6 +34,3 @@ TextUsageOptions()
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

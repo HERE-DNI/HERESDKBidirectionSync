@@ -3,10 +3,6 @@ title: "createAnimationFromKeyframeTracks method - MapCameraAnimationFactory cla
 slug: "sdk-for-flutter-explore-mapview-mapcameraanimationfactory-createanimationfromkeyframetracks"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- createAnimationFromKeyframeTracks.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -67,6 +63,3 @@ static MapCameraAnimation createAnimationFromKeyframeTracks(List<MapCameraKeyfra
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

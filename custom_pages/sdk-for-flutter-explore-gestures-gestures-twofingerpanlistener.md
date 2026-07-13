@@ -3,10 +3,6 @@ title: "twoFingerPanListener property - Gestures class - gestures library - Dart
 slug: "sdk-for-flutter-explore-gestures-gestures-twofingerpanlistener"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- twoFingerPanListener.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -69,6 +65,3 @@ set twoFingerPanListener(TwoFingerPanListener? value);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

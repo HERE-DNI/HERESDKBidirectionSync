@@ -3,10 +3,6 @@ title: "junctionsTraversability property - TrafficFlow class - traffic library -
 slug: "sdk-for-flutter-explore-traffic-trafficflow-junctionstraversability"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- junctionsTraversability.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -45,6 +41,3 @@ JunctionsTraversability? get junctionsTraversability;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

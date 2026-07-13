@@ -3,10 +3,6 @@ title: "AvoidPolygonAreaOptions constructor - AvoidPolygonAreaOptions - routing 
 slug: "sdk-for-flutter-explore-routing-avoidpolygonareaoptions-avoidpolygonareaoptions"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- AvoidPolygonAreaOptions.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -42,6 +38,3 @@ AvoidPolygonAreaOptions(GeoPolygon avoidPolygonArea)
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

@@ -3,10 +3,6 @@ title: "eatAndDrinkCoffeeTea property - PlaceCategory class - search library - D
 slug: "sdk-for-flutter-explore-search-placecategory-eatanddrinkcoffeetea"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- eatAndDrinkCoffeeTea.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ static final String eatAndDrinkCoffeeTea = "100-1100";
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

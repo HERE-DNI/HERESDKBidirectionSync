@@ -3,10 +3,6 @@ title: "DeviceIdCallback typedef - core.engine library - Dart API"
 slug: "sdk-for-flutter-explore-core.engine-deviceidcallback"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- DeviceIdCallback.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -45,6 +41,3 @@ typedef DeviceIdCallback = void Function(String deviceId);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

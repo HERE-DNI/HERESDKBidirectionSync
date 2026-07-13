@@ -3,10 +3,6 @@ title: "makeMyPlace method - GeoPlace class - search library - Dart API"
 slug: "sdk-for-flutter-explore-search-geoplace-makemyplace"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- makeMyPlace.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -56,6 +52,3 @@ static GeoPlace makeMyPlace(String title, GeoCoordinates coordinates) => $protot
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

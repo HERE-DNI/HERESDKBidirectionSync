@@ -3,10 +3,6 @@ title: "PlaceCategory class - search library - Dart API"
 slug: "sdk-for-flutter-explore-search-placecategory-class"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- PlaceCategory-class.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -761,6 +757,3 @@ An establishment along a motorway (controlled access road) that provides restroo
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

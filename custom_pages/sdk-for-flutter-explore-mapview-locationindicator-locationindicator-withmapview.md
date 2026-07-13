@@ -3,10 +3,6 @@ title: "LocationIndicator.withMapView constructor - LocationIndicator - mapview 
 slug: "sdk-for-flutter-explore-mapview-locationindicator-locationindicator-withmapview"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- LocationIndicator.withMapView.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -49,6 +45,3 @@ factory LocationIndicator.withMapView(MapViewBase mapView) => $prototype.withMap
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

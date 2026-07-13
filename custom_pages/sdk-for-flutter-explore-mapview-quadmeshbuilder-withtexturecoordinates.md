@@ -3,10 +3,6 @@ title: "withTextureCoordinates method - QuadMeshBuilder class - mapview library 
 slug: "sdk-for-flutter-explore-mapview-quadmeshbuilder-withtexturecoordinates"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- withTextureCoordinates.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -62,6 +58,3 @@ MeshBuilder withTextureCoordinates(Anchor2D a, Anchor2D b, Anchor2D c, Anchor2D 
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

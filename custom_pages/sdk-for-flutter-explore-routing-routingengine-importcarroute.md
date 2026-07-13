@@ -3,10 +3,6 @@ title: "importCarRoute method - RoutingEngine class - routing library - Dart API
 slug: "sdk-for-flutter-explore-routing-routingengine-importcarroute"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- importCarRoute.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -71,6 +67,3 @@ TaskHandle importCarRoute(List<Location> locations, CarOptions carOptions, Calcu
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

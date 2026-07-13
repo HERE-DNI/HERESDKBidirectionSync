@@ -3,10 +3,6 @@ title: "name property - RouteLabel class - routing library - Dart API"
 slug: "sdk-for-flutter-explore-routing-routelabel-name"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- name.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ LocalizedText name;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

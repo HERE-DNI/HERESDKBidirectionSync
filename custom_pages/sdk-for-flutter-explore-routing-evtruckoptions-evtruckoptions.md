@@ -3,10 +3,6 @@ title: "EVTruckOptions constructor - EVTruckOptions - routing library - Dart API
 slug: "sdk-for-flutter-explore-routing-evtruckoptions-evtruckoptions"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- EVTruckOptions.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -38,6 +34,3 @@ EVTruckOptions()
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

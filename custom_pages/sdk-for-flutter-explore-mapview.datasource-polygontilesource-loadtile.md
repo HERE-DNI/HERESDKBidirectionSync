@@ -3,10 +3,6 @@ title: "loadTile method - PolygonTileSource class - mapview.datasource library -
 slug: "sdk-for-flutter-explore-mapview.datasource-polygontilesource-loadtile"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- loadTile.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -56,6 +52,3 @@ TileSourceLoadTileRequestHandle? loadTile(TileKey tileKey, PolygonTileSourceLoad
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

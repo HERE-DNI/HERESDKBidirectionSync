@@ -3,10 +3,6 @@ title: "energyProduct property - EnergyMix class - search library - Dart API"
 slug: "sdk-for-flutter-explore-search-energymix-energyproduct"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- energyProduct.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ String? energyProduct;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

@@ -3,10 +3,6 @@ title: "TransitTransport constructor - TransitTransport - routing library - Dart
 slug: "sdk-for-flutter-explore-routing-transittransport-transittransport"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- TransitTransport.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -59,6 +55,3 @@ TransitTransport(this.mode, this.name, this.headsign, this.category, this.color,
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

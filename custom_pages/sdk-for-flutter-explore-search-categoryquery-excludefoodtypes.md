@@ -3,10 +3,6 @@ title: "excludeFoodTypes property - CategoryQuery class - search library - Dart 
 slug: "sdk-for-flutter-explore-search-categoryquery-excludefoodtypes"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- excludeFoodTypes.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ List<PlaceFoodType> excludeFoodTypes;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

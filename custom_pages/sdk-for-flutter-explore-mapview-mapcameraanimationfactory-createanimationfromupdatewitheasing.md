@@ -3,10 +3,6 @@ title: "createAnimationFromUpdateWithEasing method - MapCameraAnimationFactory c
 slug: "sdk-for-flutter-explore-mapview-mapcameraanimationfactory-createanimationfromupdatewitheasing"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- createAnimationFromUpdateWithEasing.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -59,6 +55,3 @@ static MapCameraAnimation createAnimationFromUpdateWithEasing(MapCameraUpdate ca
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

@@ -3,10 +3,6 @@ title: "TrafficIncident class - traffic library - Dart API"
 slug: "sdk-for-flutter-explore-traffic-trafficincident-class"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- TrafficIncident-class.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -226,6 +222,3 @@ The equality operator.
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

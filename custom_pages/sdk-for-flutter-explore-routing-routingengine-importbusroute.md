@@ -3,10 +3,6 @@ title: "importBusRoute method - RoutingEngine class - routing library - Dart API
 slug: "sdk-for-flutter-explore-routing-routingengine-importbusroute"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- importBusRoute.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -71,6 +67,3 @@ TaskHandle importBusRoute(List<Location> locations, BusOptions busOptions, Calcu
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

@@ -3,10 +3,6 @@ title: "SearchInterface constructor - SearchInterface - search library - Dart AP
 slug: "sdk-for-flutter-explore-search-searchinterface-searchinterface"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- SearchInterface.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -106,6 +102,3 @@ factory SearchInterface(
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

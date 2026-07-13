@@ -3,10 +3,6 @@ title: "runtimeType property - MapMarker3DModelInstantiationErrorCode enum - map
 slug: "sdk-for-flutter-explore-mapview-mapmarker3dmodelinstantiationerrorcode-runtimetype"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- runtimeType.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -51,6 +47,3 @@ external Type get runtimeType;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

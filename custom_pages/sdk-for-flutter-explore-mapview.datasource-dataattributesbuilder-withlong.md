@@ -3,10 +3,6 @@ title: "withLong method - DataAttributesBuilder class - mapview.datasource libra
 slug: "sdk-for-flutter-explore-mapview.datasource-dataattributesbuilder-withlong"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- withLong.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -54,6 +50,3 @@ DataAttributesBuilder withLong(String name, int value);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

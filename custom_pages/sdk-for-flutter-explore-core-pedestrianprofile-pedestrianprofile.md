@@ -3,10 +3,6 @@ title: "PedestrianProfile constructor - PedestrianProfile - core library - Dart 
 slug: "sdk-for-flutter-explore-core-pedestrianprofile-pedestrianprofile"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- PedestrianProfile.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -38,6 +34,3 @@ PedestrianProfile()
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

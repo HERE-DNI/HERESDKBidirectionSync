@@ -3,10 +3,6 @@ title: "transportSpecification property - RoutingOptions class - routing library
 slug: "sdk-for-flutter-explore-routing-routingoptions-transportspecification"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- transportSpecification.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -54,6 +50,3 @@ TransportSpecification transportSpecification;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

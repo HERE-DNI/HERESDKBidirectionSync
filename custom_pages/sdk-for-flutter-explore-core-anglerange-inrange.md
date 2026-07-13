@@ -3,10 +3,6 @@ title: "inRange method - AngleRange class - core library - Dart API"
 slug: "sdk-for-flutter-explore-core-anglerange-inrange"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- inRange.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -51,6 +47,3 @@ bool inRange(double angleClockwiseInDegreesFromNorth) => $prototype.inRange(this
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

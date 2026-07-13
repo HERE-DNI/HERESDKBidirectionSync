@@ -3,10 +3,6 @@ title: "PickedPlace constructor - PickedPlace - core library - Dart API"
 slug: "sdk-for-flutter-explore-core-pickedplace-pickedplace"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- PickedPlace.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -53,6 +49,3 @@ PickedPlace(this.name, this.coordinates, this.placeCategoryId);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

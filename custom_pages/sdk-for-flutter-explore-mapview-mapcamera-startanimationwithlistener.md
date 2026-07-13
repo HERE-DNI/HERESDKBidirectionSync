@@ -3,10 +3,6 @@ title: "startAnimationWithListener method - MapCamera class - mapview library - 
 slug: "sdk-for-flutter-explore-mapview-mapcamera-startanimationwithlistener"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- startAnimationWithListener.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -56,6 +52,3 @@ void startAnimationWithListener(MapCameraAnimation cameraAnimation, AnimationLis
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

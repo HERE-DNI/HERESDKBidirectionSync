@@ -3,10 +3,6 @@ title: "removeIf method - PointDataSource class - mapview.datasource library - D
 slug: "sdk-for-flutter-explore-mapview.datasource-pointdatasource-removeif"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- removeIf.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -51,6 +47,3 @@ void removeIf(PointDataSourcePointDataProcessor processor);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

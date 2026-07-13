@@ -3,10 +3,6 @@ title: "dashLength property - MapPolylineDashRepresentation class - mapview libr
 slug: "sdk-for-flutter-explore-mapview-mappolylinedashrepresentation-dashlength"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- dashLength.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -49,6 +45,3 @@ MapMeasureDependentRenderSize get dashLength;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

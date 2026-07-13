@@ -3,10 +3,6 @@ title: "fromDefaultParameterConfiguration method - TransitRouteOptions class - r
 slug: "sdk-for-flutter-explore-routing-transitrouteoptions-fromdefaultparameterconfiguration"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- fromDefaultParameterConfiguration.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -45,6 +41,3 @@ static TransitRouteOptions fromDefaultParameterConfiguration() => $prototype.fro
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

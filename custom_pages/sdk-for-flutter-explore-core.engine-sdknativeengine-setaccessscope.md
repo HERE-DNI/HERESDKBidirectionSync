@@ -3,10 +3,6 @@ title: "setAccessScope method - SDKNativeEngine class - core.engine library - Da
 slug: "sdk-for-flutter-explore-core.engine-sdknativeengine-setaccessscope"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- setAccessScope.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -53,6 +49,3 @@ void setAccessScope(String scope);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

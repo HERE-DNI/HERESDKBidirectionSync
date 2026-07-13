@@ -3,10 +3,6 @@ title: "SuggestCallback typedef - search library - Dart API"
 slug: "sdk-for-flutter-explore-search-suggestcallback"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- SuggestCallback.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -49,6 +45,3 @@ typedef SuggestCallback = void Function(SearchError? searchError, List<Suggestio
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

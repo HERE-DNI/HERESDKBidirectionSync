@@ -3,10 +3,6 @@ title: "sendRequest method - SearchEngine class - search library - Dart API"
 slug: "sdk-for-flutter-explore-search-searchengine-sendrequest"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- sendRequest.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -56,6 +52,3 @@ TaskHandle sendRequest(String href, SearchCallback callback);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

@@ -3,10 +3,6 @@ title: "businessAndServicesPetrolGasolineStation property - PlaceCategory class 
 slug: "sdk-for-flutter-explore-search-placecategory-businessandservicespetrolgasolinestation"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- businessAndServicesPetrolGasolineStation.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ static final String businessAndServicesPetrolGasolineStation = "700-7600-0116";
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

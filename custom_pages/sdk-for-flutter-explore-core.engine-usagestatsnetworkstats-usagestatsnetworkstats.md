@@ -3,10 +3,6 @@ title: "UsageStatsNetworkStats constructor - UsageStatsNetworkStats - core.engin
 slug: "sdk-for-flutter-explore-core.engine-usagestatsnetworkstats-usagestatsnetworkstats"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- UsageStatsNetworkStats.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -55,6 +51,3 @@ UsageStatsNetworkStats(this.sentBytes, this.receivedBytes, this.methodCall, this
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

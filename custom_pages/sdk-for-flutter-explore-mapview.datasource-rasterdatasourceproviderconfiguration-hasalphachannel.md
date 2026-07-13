@@ -3,10 +3,6 @@ title: "hasAlphaChannel property - RasterDataSourceProviderConfiguration class -
 slug: "sdk-for-flutter-explore-mapview.datasource-rasterdatasourceproviderconfiguration-hasalphachannel"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- hasAlphaChannel.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ bool hasAlphaChannel;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

@@ -3,10 +3,6 @@ title: "TransportSpecification constructor - TransportSpecification - transport 
 slug: "sdk-for-flutter-explore-transport-transportspecification-transportspecification"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- TransportSpecification.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -38,6 +34,3 @@ TransportSpecification()
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

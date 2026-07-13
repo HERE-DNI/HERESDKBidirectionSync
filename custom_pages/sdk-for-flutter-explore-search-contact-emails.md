@@ -3,10 +3,6 @@ title: "emails property - Contact class - search library - Dart API"
 slug: "sdk-for-flutter-explore-search-contact-emails"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- emails.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ List<EmailAddress> emails;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

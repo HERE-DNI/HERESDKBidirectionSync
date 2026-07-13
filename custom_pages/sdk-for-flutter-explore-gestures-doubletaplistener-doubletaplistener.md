@@ -3,10 +3,6 @@ title: "DoubleTapListener constructor - DoubleTapListener - gestures library - D
 slug: "sdk-for-flutter-explore-gestures-doubletaplistener-doubletaplistener"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- DoubleTapListener.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -58,6 +54,3 @@ factory DoubleTapListener(
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

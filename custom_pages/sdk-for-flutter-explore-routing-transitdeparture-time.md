@@ -3,10 +3,6 @@ title: "time property - TransitDeparture class - routing library - Dart API"
 slug: "sdk-for-flutter-explore-routing-transitdeparture-time"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- time.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ DateTime? time;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

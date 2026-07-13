@@ -3,10 +3,6 @@ title: "hasTruckService property - TruckAmenities class - search library - Dart 
 slug: "sdk-for-flutter-explore-search-truckamenities-hastruckservice"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- hasTruckService.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ bool hasTruckService;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

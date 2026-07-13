@@ -3,10 +3,6 @@ title: "PolylineSimplifier constructor - PolylineSimplifier - core library - Dar
 slug: "sdk-for-flutter-explore-core-polylinesimplifier-polylinesimplifier"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- PolylineSimplifier.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -45,6 +41,3 @@ factory PolylineSimplifier() => $prototype.$init();
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

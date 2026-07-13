@@ -3,10 +3,6 @@ title: "RouteOffset constructor - RouteOffset - routing library - Dart API"
 slug: "sdk-for-flutter-explore-routing-routeoffset-routeoffset"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- RouteOffset.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -51,6 +47,3 @@ RouteOffset(this.sectionIndex, this.offsetInMeters);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

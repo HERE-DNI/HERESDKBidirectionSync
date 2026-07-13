@@ -3,10 +3,6 @@ title: "viewCoordinates property - MapImageOverlay class - mapview library - Dar
 slug: "sdk-for-flutter-explore-mapview-mapimageoverlay-viewcoordinates"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- viewCoordinates.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -69,6 +65,3 @@ set viewCoordinates(Point2D value);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

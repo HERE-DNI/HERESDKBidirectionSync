@@ -3,10 +3,6 @@ title: "passthroughWaypoints property - Section class - routing library - Dart A
 slug: "sdk-for-flutter-explore-routing-section-passthroughwaypoints"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- passthroughWaypoints.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -45,6 +41,3 @@ List<PassThroughWaypoint> get passthroughWaypoints;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

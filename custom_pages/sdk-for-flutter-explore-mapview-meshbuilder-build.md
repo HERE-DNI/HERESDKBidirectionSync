@@ -3,10 +3,6 @@ title: "build method - MeshBuilder class - mapview library - Dart API"
 slug: "sdk-for-flutter-explore-mapview-meshbuilder-build"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- build.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -43,6 +39,3 @@ Mesh? build();
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

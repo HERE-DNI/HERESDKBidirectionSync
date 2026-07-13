@@ -3,10 +3,6 @@ title: "MapMarker3D.fromImage constructor - MapMarker3D - mapview library - Dart
 slug: "sdk-for-flutter-explore-mapview-mapmarker3d-mapmarker3d-fromimage"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- MapMarker3D.fromImage.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -72,6 +68,3 @@ factory MapMarker3D.fromImage(GeoCoordinates at, MapImage image, double scale, R
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

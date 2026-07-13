@@ -3,10 +3,6 @@ title: "PolygonTileSourceLoadResultHandler class - mapview.datasource library - 
 slug: "sdk-for-flutter-explore-mapview.datasource-polygontilesourceloadresulthandler-class"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- PolygonTileSourceLoadResultHandler-class.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -97,6 +93,3 @@ The equality operator.
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

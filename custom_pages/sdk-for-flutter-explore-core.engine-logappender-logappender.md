@@ -3,10 +3,6 @@ title: "LogAppender constructor - LogAppender - core.engine library - Dart API"
 slug: "sdk-for-flutter-explore-core.engine-logappender-logappender"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- LogAppender.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -57,6 +53,3 @@ factory LogAppender(
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

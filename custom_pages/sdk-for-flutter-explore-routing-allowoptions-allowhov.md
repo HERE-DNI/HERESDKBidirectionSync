@@ -3,10 +3,6 @@ title: "allowHov property - AllowOptions class - routing library - Dart API"
 slug: "sdk-for-flutter-explore-routing-allowoptions-allowhov"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- allowHov.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -51,6 +47,3 @@ bool allowHov;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

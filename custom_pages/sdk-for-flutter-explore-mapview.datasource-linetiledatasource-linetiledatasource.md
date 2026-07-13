@@ -3,10 +3,6 @@ title: "LineTileDataSource constructor - LineTileDataSource - mapview.datasource
 slug: "sdk-for-flutter-explore-mapview.datasource-linetiledatasource-linetiledatasource"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- LineTileDataSource.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -29,6 +25,3 @@ slug: "sdk-for-flutter-explore-mapview.datasource-linetiledatasource-linetiledat
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

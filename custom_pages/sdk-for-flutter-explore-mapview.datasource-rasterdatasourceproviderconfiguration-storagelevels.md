@@ -3,10 +3,6 @@ title: "storageLevels property - RasterDataSourceProviderConfiguration class - m
 slug: "sdk-for-flutter-explore-mapview.datasource-rasterdatasourceproviderconfiguration-storagelevels"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- storageLevels.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ List<int> storageLevels;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

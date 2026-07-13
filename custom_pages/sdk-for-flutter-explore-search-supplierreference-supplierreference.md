@@ -3,10 +3,6 @@ title: "SupplierReference constructor - SupplierReference - search library - Dar
 slug: "sdk-for-flutter-explore-search-supplierreference-supplierreference"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- SupplierReference.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -51,6 +47,3 @@ SupplierReference(this.supplier, this.id);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

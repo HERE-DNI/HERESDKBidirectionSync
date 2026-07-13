@@ -3,10 +3,6 @@ title: "RefreshRouteOptions.withPrivateBusOptions constructor - RefreshRouteOpti
 slug: "sdk-for-flutter-explore-routing-refreshrouteoptions-refreshrouteoptions-withprivatebusoptions"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- RefreshRouteOptions.withPrivateBusOptions.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -49,6 +45,3 @@ factory RefreshRouteOptions.withPrivateBusOptions(PrivateBusOptions privateBusOp
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

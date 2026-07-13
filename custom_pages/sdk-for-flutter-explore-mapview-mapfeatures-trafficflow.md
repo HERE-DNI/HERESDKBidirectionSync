@@ -3,10 +3,6 @@ title: "trafficFlow property - MapFeatures class - mapview library - Dart API"
 slug: "sdk-for-flutter-explore-mapview-mapfeatures-trafficflow"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- trafficFlow.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -59,6 +55,3 @@ static final String trafficFlow = "traffic flow";
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

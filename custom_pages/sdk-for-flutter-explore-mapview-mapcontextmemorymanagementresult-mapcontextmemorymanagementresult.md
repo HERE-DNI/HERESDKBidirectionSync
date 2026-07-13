@@ -3,10 +3,6 @@ title: "MapContextMemoryManagementResult constructor - MapContextMemoryManagemen
 slug: "sdk-for-flutter-explore-mapview-mapcontextmemorymanagementresult-mapcontextmemorymanagementresult"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- MapContextMemoryManagementResult.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -42,6 +38,3 @@ MapContextMemoryManagementResult(MapContextMemoryManagementResultCode resultCode
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

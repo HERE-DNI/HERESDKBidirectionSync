@@ -3,10 +3,6 @@ title: "EVChargingConnectorReference constructor - EVChargingConnectorReference 
 slug: "sdk-for-flutter-explore-search-evchargingconnectorreference-evchargingconnectorreference"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- EVChargingConnectorReference.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -38,6 +34,3 @@ EVChargingConnectorReference()
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

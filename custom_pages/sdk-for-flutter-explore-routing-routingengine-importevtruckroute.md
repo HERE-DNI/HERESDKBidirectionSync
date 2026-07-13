@@ -3,10 +3,6 @@ title: "importEVTruckRoute method - RoutingEngine class - routing library - Dart
 slug: "sdk-for-flutter-explore-routing-routingengine-importevtruckroute"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- importEVTruckRoute.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -71,6 +67,3 @@ TaskHandle importEVTruckRoute(List<Location> locations, EVTruckOptions evTruckOp
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

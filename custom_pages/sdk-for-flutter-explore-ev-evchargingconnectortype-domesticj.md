@@ -3,10 +3,6 @@ title: "domesticJ property - EVChargingConnectorType class - ev library - Dart A
 slug: "sdk-for-flutter-explore-ev-evchargingconnectortype-domesticj"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- domesticJ.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ static final String domesticJ = "DOMESTIC_J";
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

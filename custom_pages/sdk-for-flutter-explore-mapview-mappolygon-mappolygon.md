@@ -3,10 +3,6 @@ title: "MapPolygon constructor - MapPolygon - mapview library - Dart API"
 slug: "sdk-for-flutter-explore-mapview-mappolygon-mappolygon"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- MapPolygon.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -62,6 +58,3 @@ factory MapPolygon(GeoPolygon geometry, ui.Color color) => $prototype.$init(geom
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

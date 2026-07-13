@@ -3,10 +3,6 @@ title: "ChargingStation constructor - ChargingStation - routing library - Dart A
 slug: "sdk-for-flutter-explore-routing-chargingstation-chargingstation"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- ChargingStation.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -54,6 +50,3 @@ ChargingStation(this.id, this.name, this.connectorAttributes)
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

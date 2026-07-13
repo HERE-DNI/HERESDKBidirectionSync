@@ -3,10 +3,6 @@ title: "setLayerVisibility method - MapScene class - mapview library - Dart API"
 slug: "sdk-for-flutter-explore-mapview-mapscene-setlayervisibility"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- setLayerVisibility.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -52,6 +48,3 @@ void setLayerVisibility(String layerName, VisibilityState visibility);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

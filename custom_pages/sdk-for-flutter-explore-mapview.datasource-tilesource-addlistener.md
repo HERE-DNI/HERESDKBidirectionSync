@@ -3,10 +3,6 @@ title: "addListener method - TileSource class - mapview.datasource library - Dar
 slug: "sdk-for-flutter-explore-mapview.datasource-tilesource-addlistener"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- addListener.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -49,6 +45,3 @@ void addListener(TileSourceListener listener);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

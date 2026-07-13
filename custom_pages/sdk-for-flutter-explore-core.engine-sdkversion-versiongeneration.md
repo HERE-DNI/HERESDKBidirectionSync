@@ -3,10 +3,6 @@ title: "versionGeneration property - SDKVersion class - core.engine library - Da
 slug: "sdk-for-flutter-explore-core.engine-sdkversion-versiongeneration"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- versionGeneration.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ int versionGeneration;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

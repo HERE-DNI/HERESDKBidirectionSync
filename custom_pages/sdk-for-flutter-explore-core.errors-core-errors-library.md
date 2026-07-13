@@ -3,10 +3,6 @@ title: "core.errors library - Dart API"
 slug: "sdk-for-flutter-explore-core.errors-core-errors-library"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- core.errors-library.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -33,6 +29,3 @@ Instantiation error.
 
 <!-- /.main-content --> <!--/sidebar-offcanvas-right--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

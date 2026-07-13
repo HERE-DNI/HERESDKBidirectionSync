@@ -3,10 +3,6 @@ title: "RoutingInterface constructor - RoutingInterface - routing library - Dart
 slug: "sdk-for-flutter-explore-routing-routinginterface-routinginterface"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- RoutingInterface.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -148,6 +144,3 @@ factory RoutingInterface(
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

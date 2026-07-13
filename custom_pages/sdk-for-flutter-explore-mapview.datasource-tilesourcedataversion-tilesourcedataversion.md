@@ -3,10 +3,6 @@ title: "TileSourceDataVersion constructor - TileSourceDataVersion - mapview.data
 slug: "sdk-for-flutter-explore-mapview.datasource-tilesourcedataversion-tilesourcedataversion"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- TileSourceDataVersion.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -51,6 +47,3 @@ TileSourceDataVersion(this.majorVersion, this.minorVersion);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

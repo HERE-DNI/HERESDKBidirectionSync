@@ -3,10 +3,6 @@ title: "totalNumberOfStations property - EVChargingPoolDetails class - search li
 slug: "sdk-for-flutter-explore-search-evchargingpooldetails-totalnumberofstations"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- totalNumberOfStations.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ int? totalNumberOfStations;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

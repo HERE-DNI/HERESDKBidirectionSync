@@ -3,10 +3,6 @@ title: "withTrailerCount method - VehicleSpecificationPrivateBusBuilder class - 
 slug: "sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-withtrailercount"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- withTrailerCount.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -51,6 +47,3 @@ VehicleSpecificationPrivateBusBuilder withTrailerCount(int trailerCount);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

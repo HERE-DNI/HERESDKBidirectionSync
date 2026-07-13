@@ -3,10 +3,6 @@ title: "type property - Suggestion class - search library - Dart API"
 slug: "sdk-for-flutter-explore-search-suggestion-type"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- type.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -45,6 +41,3 @@ SuggestionType get type;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

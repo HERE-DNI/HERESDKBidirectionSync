@@ -3,10 +3,6 @@ title: "latestWithIgnoringCachedData method - CatalogVersionHint class - core.en
 slug: "sdk-for-flutter-explore-core.engine-catalogversionhint-latestwithignoringcacheddata"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- latestWithIgnoringCachedData.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -59,6 +55,3 @@ static CatalogVersionHint latestWithIgnoringCachedData(bool ignoreCachedData) =>
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

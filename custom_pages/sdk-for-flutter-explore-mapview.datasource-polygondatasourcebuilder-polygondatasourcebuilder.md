@@ -3,10 +3,6 @@ title: "PolygonDataSourceBuilder constructor - PolygonDataSourceBuilder - mapvie
 slug: "sdk-for-flutter-explore-mapview.datasource-polygondatasourcebuilder-polygondatasourcebuilder"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- PolygonDataSourceBuilder.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -49,6 +45,3 @@ factory PolygonDataSourceBuilder(MapContext context) => $prototype.create(contex
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

@@ -3,10 +3,6 @@ title: "MapCameraAnimationFactory class - mapview library - Dart API"
 slug: "sdk-for-flutter-explore-mapview-mapcameraanimationfactory-class"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- MapCameraAnimationFactory-class.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -107,6 +103,3 @@ Creates a MapCameraAnimation to move the current map camera look-at coordinates 
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

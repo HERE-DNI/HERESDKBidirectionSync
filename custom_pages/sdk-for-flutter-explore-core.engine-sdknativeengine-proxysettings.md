@@ -3,10 +3,6 @@ title: "proxySettings property - SDKNativeEngine class - core.engine library - D
 slug: "sdk-for-flutter-explore-core.engine-sdknativeengine-proxysettings"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- proxySettings.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -73,6 +69,3 @@ set proxySettings(ProxySettings? value);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

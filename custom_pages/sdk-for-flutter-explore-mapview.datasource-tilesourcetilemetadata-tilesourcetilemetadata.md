@@ -3,10 +3,6 @@ title: "TileSourceTileMetadata constructor - TileSourceTileMetadata - mapview.da
 slug: "sdk-for-flutter-explore-mapview.datasource-tilesourcetilemetadata-tilesourcetilemetadata"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- TileSourceTileMetadata.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -51,6 +47,3 @@ TileSourceTileMetadata(this.dataVersion, this.dataExpiryTimestamp);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

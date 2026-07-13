@@ -3,10 +3,6 @@ title: "IsolineRoutingEngine.withConnectionSettings constructor - IsolineRouting
 slug: "sdk-for-flutter-explore-routing-isolineroutingengine-isolineroutingengine-withconnectionsettings"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- IsolineRoutingEngine.withConnectionSettings.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -51,6 +47,3 @@ factory IsolineRoutingEngine.withConnectionSettings(RoutingConnectionSettings co
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

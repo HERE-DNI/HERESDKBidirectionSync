@@ -3,10 +3,6 @@ title: "setIntensity method - MapSceneLights class - mapview library - Dart API"
 slug: "sdk-for-flutter-explore-mapview-mapscenelights-setintensity"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- setIntensity.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -55,6 +51,3 @@ void setIntensity(MapSceneLightsCategory category, double intensity, MapSceneLig
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

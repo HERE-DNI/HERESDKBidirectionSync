@@ -3,10 +3,6 @@ title: "GeoCoordinatesUpdate.withAltitude constructor - GeoCoordinatesUpdate - c
 slug: "sdk-for-flutter-explore-core-geocoordinatesupdate-geocoordinatesupdate-withaltitude"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- GeoCoordinatesUpdate.withAltitude.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -57,6 +53,3 @@ factory GeoCoordinatesUpdate.withAltitude(double? latitude, double? longitude, d
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

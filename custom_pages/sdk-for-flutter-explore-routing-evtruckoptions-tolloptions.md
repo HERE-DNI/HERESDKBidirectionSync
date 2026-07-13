@@ -3,10 +3,6 @@ title: "tollOptions property - EVTruckOptions class - routing library - Dart API
 slug: "sdk-for-flutter-explore-routing-evtruckoptions-tolloptions"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- tollOptions.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ TollOptions tollOptions;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

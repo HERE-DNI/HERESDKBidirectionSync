@@ -3,10 +3,6 @@ title: "localId property - SegmentReference class - routing library - Dart API"
 slug: "sdk-for-flutter-explore-routing-segmentreference-localid"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- localId.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ int? localId;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

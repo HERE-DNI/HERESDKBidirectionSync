@@ -3,10 +3,6 @@ title: "PlaceCategory constructor - PlaceCategory - search library - Dart API"
 slug: "sdk-for-flutter-explore-search-placecategory-placecategory"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- PlaceCategory.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -53,6 +49,3 @@ factory PlaceCategory(String id) => $prototype.make(id);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

@@ -3,10 +3,6 @@ title: "MapPolylineDashImageRepresentation constructor - MapPolylineDashImageRep
 slug: "sdk-for-flutter-explore-mapview-mappolylinedashimagerepresentation-mappolylinedashimagerepresentation"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- MapPolylineDashImageRepresentation.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -72,6 +68,3 @@ factory MapPolylineDashImageRepresentation(MapMeasureDependentRenderSize dashLen
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

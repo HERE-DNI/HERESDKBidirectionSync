@@ -3,10 +3,6 @@ title: "withIsTruckLight method - VehicleSpecificationTruckBuilder class - trans
 slug: "sdk-for-flutter-explore-transport-vehiclespecificationtruckbuilder-withistrucklight"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- withIsTruckLight.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -51,6 +47,3 @@ VehicleSpecificationTruckBuilder withIsTruckLight(bool isTruckLight);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

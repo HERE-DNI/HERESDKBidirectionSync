@@ -3,10 +3,6 @@ title: "RoutingOptions class - routing library - Dart API"
 slug: "sdk-for-flutter-explore-routing-routingoptions-class"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- RoutingOptions-class.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -166,6 +162,3 @@ Returns the default configuration for the transport specification selected in <a
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

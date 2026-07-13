@@ -3,10 +3,6 @@ title: "addMapMarker method - MapMarkerCluster class - mapview library - Dart AP
 slug: "sdk-for-flutter-explore-mapview-mapmarkercluster-addmapmarker"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- addMapMarker.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -51,6 +47,3 @@ void addMapMarker(MapMarker marker);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

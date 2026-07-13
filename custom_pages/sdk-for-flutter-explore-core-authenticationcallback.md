@@ -3,10 +3,6 @@ title: "AuthenticationCallback typedef - core library - Dart API"
 slug: "sdk-for-flutter-explore-core-authenticationcallback"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- AuthenticationCallback.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -49,6 +45,3 @@ typedef AuthenticationCallback = void Function(AuthenticationError? authenticati
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

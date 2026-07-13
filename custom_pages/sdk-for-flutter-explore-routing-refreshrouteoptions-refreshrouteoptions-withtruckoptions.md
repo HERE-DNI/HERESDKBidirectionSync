@@ -3,10 +3,6 @@ title: "RefreshRouteOptions.withTruckOptions constructor - RefreshRouteOptions -
 slug: "sdk-for-flutter-explore-routing-refreshrouteoptions-refreshrouteoptions-withtruckoptions"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- RefreshRouteOptions.withTruckOptions.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -49,6 +45,3 @@ factory RefreshRouteOptions.withTruckOptions(TruckOptions truckOptions) => $prot
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

@@ -3,10 +3,6 @@ title: "orbitBy method - MapCameraUpdateFactory class - mapview library - Dart A
 slug: "sdk-for-flutter-explore-mapview-mapcameraupdatefactory-orbitby"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- orbitBy.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -58,6 +54,3 @@ static MapCameraUpdate orbitBy(GeoOrientationUpdate delta, Point2D origin) => $p
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

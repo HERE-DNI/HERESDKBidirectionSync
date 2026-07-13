@@ -3,10 +3,6 @@ title: "addLines method - LineDataSource class - mapview.datasource library - Da
 slug: "sdk-for-flutter-explore-mapview.datasource-linedatasource-addlines"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- addLines.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -49,6 +45,3 @@ void addLines(List<LineData> lines);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

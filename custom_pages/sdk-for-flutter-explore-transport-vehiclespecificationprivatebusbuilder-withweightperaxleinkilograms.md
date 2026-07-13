@@ -3,10 +3,6 @@ title: "withWeightPerAxleInKilograms method - VehicleSpecificationPrivateBusBuil
 slug: "sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-withweightperaxleinkilograms"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- withWeightPerAxleInKilograms.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -51,6 +47,3 @@ VehicleSpecificationPrivateBusBuilder withWeightPerAxleInKilograms(int weightPer
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

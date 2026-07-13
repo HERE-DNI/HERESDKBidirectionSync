@@ -3,10 +3,6 @@ title: "jamTendency property - TrafficFlow class - traffic library - Dart API"
 slug: "sdk-for-flutter-explore-traffic-trafficflow-jamtendency"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- jamTendency.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -51,6 +47,3 @@ int? get jamTendency;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

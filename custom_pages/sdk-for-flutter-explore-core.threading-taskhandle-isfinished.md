@@ -3,10 +3,6 @@ title: "isFinished property - TaskHandle class - core.threading library - Dart A
 slug: "sdk-for-flutter-explore-core.threading-taskhandle-isfinished"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- isFinished.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -45,6 +41,3 @@ bool get isFinished;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

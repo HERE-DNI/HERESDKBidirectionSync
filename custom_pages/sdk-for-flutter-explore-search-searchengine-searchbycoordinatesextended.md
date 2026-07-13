@@ -3,10 +3,6 @@ title: "searchByCoordinatesExtended method - SearchEngine class - search library
 slug: "sdk-for-flutter-explore-search-searchengine-searchbycoordinatesextended"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- searchByCoordinatesExtended.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -59,6 +55,3 @@ TaskHandle searchByCoordinatesExtended(GeoCoordinates coordinates, SearchOptions
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

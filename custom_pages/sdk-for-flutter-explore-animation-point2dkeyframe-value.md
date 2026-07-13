@@ -3,10 +3,6 @@ title: "value property - Point2DKeyframe class - animation library - Dart API"
 slug: "sdk-for-flutter-explore-animation-point2dkeyframe-value"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- value.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ final Point2D value;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

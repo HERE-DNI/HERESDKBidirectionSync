@@ -3,10 +3,6 @@ title: "widthInCentimeters property - BusSpecifications class - transport librar
 slug: "sdk-for-flutter-explore-transport-busspecifications-widthincentimeters"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- widthInCentimeters.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ int? widthInCentimeters;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

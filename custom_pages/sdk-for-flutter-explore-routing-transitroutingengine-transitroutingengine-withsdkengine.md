@@ -3,10 +3,6 @@ title: "TransitRoutingEngine.withSdkEngine constructor - TransitRoutingEngine - 
 slug: "sdk-for-flutter-explore-routing-transitroutingengine-transitroutingengine-withsdkengine"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- TransitRoutingEngine.withSdkEngine.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -51,6 +47,3 @@ factory TransitRoutingEngine.withSdkEngine(SDKNativeEngine sdkEngine) => $protot
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

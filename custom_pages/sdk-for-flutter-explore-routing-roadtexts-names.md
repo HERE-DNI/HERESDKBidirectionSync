@@ -3,10 +3,6 @@ title: "names property - RoadTexts class - routing library - Dart API"
 slug: "sdk-for-flutter-explore-routing-roadtexts-names"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- names.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ LocalizedTexts names;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

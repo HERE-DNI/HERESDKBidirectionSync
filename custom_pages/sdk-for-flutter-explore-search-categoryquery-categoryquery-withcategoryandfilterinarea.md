@@ -3,10 +3,6 @@ title: "CategoryQuery.withCategoryAndFilterInArea constructor - CategoryQuery - 
 slug: "sdk-for-flutter-explore-search-categoryquery-categoryquery-withcategoryandfilterinarea"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- CategoryQuery.withCategoryAndFilterInArea.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -55,6 +51,3 @@ factory CategoryQuery.withCategoryAndFilterInArea(PlaceCategory category, String
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

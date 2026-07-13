@@ -3,10 +3,6 @@ title: "GeoOrientationUpdate.withGeoOrientation constructor - GeoOrientationUpda
 slug: "sdk-for-flutter-explore-core-geoorientationupdate-geoorientationupdate-withgeoorientation"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- GeoOrientationUpdate.withGeoOrientation.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -49,6 +45,3 @@ factory GeoOrientationUpdate.withGeoOrientation(GeoOrientation orientation) => $
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

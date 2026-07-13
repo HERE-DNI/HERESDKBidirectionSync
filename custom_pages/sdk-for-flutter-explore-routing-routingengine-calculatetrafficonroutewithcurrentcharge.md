@@ -3,10 +3,6 @@ title: "calculateTrafficOnRouteWithCurrentCharge method - RoutingEngine class - 
 slug: "sdk-for-flutter-explore-routing-routingengine-calculatetrafficonroutewithcurrentcharge"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- calculateTrafficOnRouteWithCurrentCharge.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -65,6 +61,3 @@ TaskHandle calculateTrafficOnRouteWithCurrentCharge(Route route, int lastTravele
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

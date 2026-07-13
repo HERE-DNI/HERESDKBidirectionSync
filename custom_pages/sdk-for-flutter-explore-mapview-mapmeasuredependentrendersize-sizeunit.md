@@ -3,10 +3,6 @@ title: "sizeUnit property - MapMeasureDependentRenderSize class - mapview librar
 slug: "sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-sizeunit"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- sizeUnit.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ final RenderSizeUnit sizeUnit;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

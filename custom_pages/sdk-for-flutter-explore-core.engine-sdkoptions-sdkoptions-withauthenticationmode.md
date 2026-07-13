@@ -3,10 +3,6 @@ title: "SDKOptions.withAuthenticationMode constructor - SDKOptions - core.engine
 slug: "sdk-for-flutter-explore-core.engine-sdkoptions-sdkoptions-withauthenticationmode"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- SDKOptions.withAuthenticationMode.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -51,6 +47,3 @@ factory SDKOptions.withAuthenticationMode(AuthenticationMode authenticationMode)
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

@@ -3,10 +3,6 @@ title: "MapPolylineAnimation constructor - MapPolylineAnimation - animation libr
 slug: "sdk-for-flutter-explore-animation-mappolylineanimation-mappolylineanimation"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- MapPolylineAnimation.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -53,6 +49,3 @@ factory MapPolylineAnimation(MapItemKeyFrameTrack track) => $prototype.$init(tra
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

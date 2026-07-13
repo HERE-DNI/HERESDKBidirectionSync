@@ -3,10 +3,6 @@ title: "isEuro5EmissionStandardRestricted property - TrafficIncidentVehicleRestr
 slug: "sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-iseuro5emissionstandardrestricted"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- isEuro5EmissionStandardRestricted.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ bool isEuro5EmissionStandardRestricted;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

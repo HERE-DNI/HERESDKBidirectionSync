@@ -3,10 +3,6 @@ title: "setPriority method - MapLayer class - mapview library - Dart API"
 slug: "sdk-for-flutter-explore-mapview-maplayer-setpriority"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- setPriority.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -49,6 +45,3 @@ void setPriority(MapLayerPriority priority);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

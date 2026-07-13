@@ -3,10 +3,6 @@ title: "GeoPolygon.withGeoCircle constructor - GeoPolygon - core library - Dart 
 slug: "sdk-for-flutter-explore-core-geopolygon-geopolygon-withgeocircle"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- GeoPolygon.withGeoCircle.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -49,6 +45,3 @@ factory GeoPolygon.withGeoCircle(GeoCircle geoCircle) => $prototype.withGeoCircl
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

@@ -3,10 +3,6 @@ title: "RoutingConnectionSettings constructor - RoutingConnectionSettings - rout
 slug: "sdk-for-flutter-explore-routing-routingconnectionsettings-routingconnectionsettings"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- RoutingConnectionSettings.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -38,6 +34,3 @@ RoutingConnectionSettings()
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

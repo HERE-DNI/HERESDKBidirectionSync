@@ -3,10 +3,6 @@ title: "shadowsAll property - MapFeatureModes class - mapview library - Dart API
 slug: "sdk-for-flutter-explore-mapview-mapfeaturemodes-shadowsall"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- shadowsAll.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -49,6 +45,3 @@ static final String shadowsAll = "all";
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

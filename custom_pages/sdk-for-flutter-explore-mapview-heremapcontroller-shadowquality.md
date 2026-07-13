@@ -3,10 +3,6 @@ title: "shadowQuality property - HereMapController class - mapview library - Dar
 slug: "sdk-for-flutter-explore-mapview-heremapcontroller-shadowquality"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- shadowQuality.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -71,6 +67,3 @@ static void set shadowQuality(ShadowQuality shadowQuality) {
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

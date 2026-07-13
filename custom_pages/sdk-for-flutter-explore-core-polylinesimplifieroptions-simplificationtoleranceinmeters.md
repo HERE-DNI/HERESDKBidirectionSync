@@ -3,10 +3,6 @@ title: "simplificationToleranceInMeters property - PolylineSimplifierOptions cla
 slug: "sdk-for-flutter-explore-core-polylinesimplifieroptions-simplificationtoleranceinmeters"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- simplificationToleranceInMeters.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -56,6 +52,3 @@ int simplificationToleranceInMeters;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

@@ -3,10 +3,6 @@ title: "PickMapItemsResult constructor - PickMapItemsResult - mapview library - 
 slug: "sdk-for-flutter-explore-mapview-pickmapitemsresult-pickmapitemsresult"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- PickMapItemsResult.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -29,6 +25,3 @@ slug: "sdk-for-flutter-explore-mapview-pickmapitemsresult-pickmapitemsresult"
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

@@ -3,10 +3,6 @@ title: "pinWidget method - HereMapController class - mapview library - Dart API"
 slug: "sdk-for-flutter-explore-mapview-heremapcontroller-pinwidget"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- pinWidget.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -59,6 +55,3 @@ WidgetPin? pinWidget(Widget widget, GeoCoordinates coordinates, {Anchor2D? ancho
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

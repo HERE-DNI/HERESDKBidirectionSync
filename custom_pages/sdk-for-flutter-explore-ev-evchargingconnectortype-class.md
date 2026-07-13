@@ -3,10 +3,6 @@ title: "EVChargingConnectorType class - ev library - Dart API"
 slug: "sdk-for-flutter-explore-ev-evchargingconnectortype-class"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- EVChargingConnectorType-class.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -457,6 +453,3 @@ Tesla connector "Roadster"-type (round, 4 pin).
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

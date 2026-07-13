@@ -3,10 +3,6 @@ title: "forbiddenTrailerCount property - ViolatedRestrictionDetails class - rout
 slug: "sdk-for-flutter-explore-routing-violatedrestrictiondetails-forbiddentrailercount"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- forbiddenTrailerCount.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ IntegerRange? forbiddenTrailerCount;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

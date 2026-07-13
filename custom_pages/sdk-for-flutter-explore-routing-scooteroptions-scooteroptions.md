@@ -3,10 +3,6 @@ title: "ScooterOptions constructor - ScooterOptions - routing library - Dart API
 slug: "sdk-for-flutter-explore-routing-scooteroptions-scooteroptions"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- ScooterOptions.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -38,6 +34,3 @@ ScooterOptions()
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

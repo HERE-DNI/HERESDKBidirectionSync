@@ -3,10 +3,6 @@ title: "ChargingStation.withDetails constructor - ChargingStation - routing libr
 slug: "sdk-for-flutter-explore-routing-chargingstation-chargingstation-withdetails"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- ChargingStation.withDetails.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -59,6 +55,3 @@ ChargingStation.withDetails(this.id, this.name, this.connectorAttributes, this.b
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

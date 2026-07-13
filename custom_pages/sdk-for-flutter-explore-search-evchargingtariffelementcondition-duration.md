@@ -3,10 +3,6 @@ title: "duration property - EVChargingTariffElementCondition class - search libr
 slug: "sdk-for-flutter-explore-search-evchargingtariffelementcondition-duration"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- duration.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -49,6 +45,3 @@ EVChargingDurationRange? duration;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

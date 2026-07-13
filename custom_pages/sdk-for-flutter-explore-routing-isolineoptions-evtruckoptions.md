@@ -3,10 +3,6 @@ title: "evTruckOptions property - IsolineOptions class - routing library - Dart 
 slug: "sdk-for-flutter-explore-routing-isolineoptions-evtruckoptions"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- evTruckOptions.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -56,6 +52,3 @@ EVTruckOptions? evTruckOptions;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

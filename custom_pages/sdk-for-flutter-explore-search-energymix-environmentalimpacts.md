@@ -3,10 +3,6 @@ title: "environmentalImpacts property - EnergyMix class - search library - Dart 
 slug: "sdk-for-flutter-explore-search-energymix-environmentalimpacts"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- environmentalImpacts.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ List<EnvironmentalImpact> environmentalImpacts;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

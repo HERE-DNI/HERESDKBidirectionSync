@@ -3,10 +3,6 @@ title: "LayerConfiguration.withDefaults constructor - LayerConfiguration - core.
 slug: "sdk-for-flutter-explore-core.engine-layerconfiguration-layerconfiguration-withdefaults"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- LayerConfiguration.withDefaults.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -44,6 +40,3 @@ LayerConfiguration.withDefaults()
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

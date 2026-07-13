@@ -3,10 +3,6 @@ title: "onDetach method - MapViewLifecycleListener class - mapview library - Dar
 slug: "sdk-for-flutter-explore-mapview-mapviewlifecyclelistener-ondetach"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- onDetach.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -51,6 +47,3 @@ void onDetach(MapViewBase mapView);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

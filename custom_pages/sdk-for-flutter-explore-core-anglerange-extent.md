@@ -3,10 +3,6 @@ title: "extent property - AngleRange class - core library - Dart API"
 slug: "sdk-for-flutter-explore-core-anglerange-extent"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- extent.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ final double extent;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

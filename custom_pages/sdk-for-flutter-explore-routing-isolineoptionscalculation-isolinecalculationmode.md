@@ -3,10 +3,6 @@ title: "isolineCalculationMode property - IsolineOptionsCalculation class - rout
 slug: "sdk-for-flutter-explore-routing-isolineoptionscalculation-isolinecalculationmode"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- isolineCalculationMode.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ IsolineCalculationMode isolineCalculationMode;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

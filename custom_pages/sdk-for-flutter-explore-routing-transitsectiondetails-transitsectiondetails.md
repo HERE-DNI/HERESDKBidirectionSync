@@ -3,10 +3,6 @@ title: "TransitSectionDetails constructor - TransitSectionDetails - routing libr
 slug: "sdk-for-flutter-explore-routing-transitsectiondetails-transitsectiondetails"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- TransitSectionDetails.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -50,6 +46,3 @@ TransitSectionDetails(this.agency)
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

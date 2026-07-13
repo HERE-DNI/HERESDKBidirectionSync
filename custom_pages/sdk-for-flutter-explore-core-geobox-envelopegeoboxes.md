@@ -3,10 +3,6 @@ title: "envelopeGeoBoxes method - GeoBox class - core library - Dart API"
 slug: "sdk-for-flutter-explore-core-geobox-envelopegeoboxes"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- envelopeGeoBoxes.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -51,6 +47,3 @@ static GeoBox? envelopeGeoBoxes(List<GeoBox> geoBoxes) => $prototype.envelopeGeo
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

@@ -3,10 +3,6 @@ title: "hasTruckWash property - TruckAmenities class - search library - Dart API
 slug: "sdk-for-flutter-explore-search-truckamenities-hastruckwash"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- hasTruckWash.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ bool hasTruckWash;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

@@ -3,10 +3,6 @@ title: "connectorType property - ChargingConnectorAttributes class - routing lib
 slug: "sdk-for-flutter-explore-routing-chargingconnectorattributes-connectortype"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- connectorType.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ ChargingConnectorType? connectorType;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

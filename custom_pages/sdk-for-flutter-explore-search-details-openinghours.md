@@ -3,10 +3,6 @@ title: "openingHours property - Details class - search library - Dart API"
 slug: "sdk-for-flutter-explore-search-details-openinghours"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- openingHours.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -49,6 +45,3 @@ List<OpeningHours> openingHours;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

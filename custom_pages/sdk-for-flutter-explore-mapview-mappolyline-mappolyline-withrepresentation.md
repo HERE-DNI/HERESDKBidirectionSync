@@ -3,10 +3,6 @@ title: "MapPolyline.withRepresentation constructor - MapPolyline - mapview libra
 slug: "sdk-for-flutter-explore-mapview-mappolyline-mappolyline-withrepresentation"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- MapPolyline.withRepresentation.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -56,6 +52,3 @@ factory MapPolyline.withRepresentation(GeoPolyline geometry, MapPolylineRepresen
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

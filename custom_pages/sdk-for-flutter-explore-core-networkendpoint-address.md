@@ -3,10 +3,6 @@ title: "address property - NetworkEndpoint class - core library - Dart API"
 slug: "sdk-for-flutter-explore-core-networkendpoint-address"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- address.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ io.InternetAddress address;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

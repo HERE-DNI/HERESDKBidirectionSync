@@ -3,10 +3,6 @@ title: "MapImageOverlay constructor - MapImageOverlay - mapview library - Dart A
 slug: "sdk-for-flutter-explore-mapview-mapimageoverlay-mapimageoverlay"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- MapImageOverlay.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -52,6 +48,3 @@ factory MapImageOverlay(Point2D viewCoordinates, MapImage image) => $prototype.$
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

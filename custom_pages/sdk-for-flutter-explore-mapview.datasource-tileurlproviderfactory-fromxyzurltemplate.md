@@ -3,10 +3,6 @@ title: "fromXyzUrlTemplate method - TileUrlProviderFactory class - mapview.datas
 slug: "sdk-for-flutter-explore-mapview.datasource-tileurlproviderfactory-fromxyzurltemplate"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- fromXyzUrlTemplate.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -53,6 +49,3 @@ static TileUrlProviderCallback? fromXyzUrlTemplate(String urlTemplate) => $proto
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

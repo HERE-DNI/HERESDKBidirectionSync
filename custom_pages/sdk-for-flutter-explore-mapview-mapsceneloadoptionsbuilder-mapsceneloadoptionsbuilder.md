@@ -3,10 +3,6 @@ title: "MapSceneLoadOptionsBuilder constructor - MapSceneLoadOptionsBuilder - ma
 slug: "sdk-for-flutter-explore-mapview-mapsceneloadoptionsbuilder-mapsceneloadoptionsbuilder"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- MapSceneLoadOptionsBuilder.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -43,6 +39,3 @@ factory MapSceneLoadOptionsBuilder() => $prototype.create();
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

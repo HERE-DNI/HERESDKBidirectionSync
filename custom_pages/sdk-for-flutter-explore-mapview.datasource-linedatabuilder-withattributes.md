@@ -3,10 +3,6 @@ title: "withAttributes method - LineDataBuilder class - mapview.datasource libra
 slug: "sdk-for-flutter-explore-mapview.datasource-linedatabuilder-withattributes"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- withAttributes.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -51,6 +47,3 @@ LineDataBuilder withAttributes(DataAttributes attributes);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

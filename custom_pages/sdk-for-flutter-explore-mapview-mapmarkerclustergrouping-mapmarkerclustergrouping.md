@@ -3,10 +3,6 @@ title: "MapMarkerClusterGrouping constructor - MapMarkerClusterGrouping - mapvie
 slug: "sdk-for-flutter-explore-mapview-mapmarkerclustergrouping-mapmarkerclustergrouping"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- MapMarkerClusterGrouping.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -51,6 +47,3 @@ MapMarkerClusterGrouping(this.markers, this.parent);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

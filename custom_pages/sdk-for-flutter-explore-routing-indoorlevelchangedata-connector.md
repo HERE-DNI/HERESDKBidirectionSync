@@ -3,10 +3,6 @@ title: "connector property - IndoorLevelChangeData class - routing library - Dar
 slug: "sdk-for-flutter-explore-routing-indoorlevelchangedata-connector"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- connector.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ IndoorLevelChangeFeatures connector;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

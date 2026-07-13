@@ -3,10 +3,6 @@ title: "vat property - EVChargingTariffPriceComponent class - search library - D
 slug: "sdk-for-flutter-explore-search-evchargingtariffpricecomponent-vat"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- vat.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ double? vat;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

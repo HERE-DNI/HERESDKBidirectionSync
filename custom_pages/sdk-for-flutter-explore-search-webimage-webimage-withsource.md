@@ -3,10 +3,6 @@ title: "WebImage.withSource constructor - WebImage - search library - Dart API"
 slug: "sdk-for-flutter-explore-search-webimage-webimage-withsource"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- WebImage.withSource.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -51,6 +47,3 @@ factory WebImage.withSource(WebSource source) => $prototype.withSource(source);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

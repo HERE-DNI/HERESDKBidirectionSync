@@ -3,10 +3,6 @@ title: "setCustomOption method - RoutingEngine class - routing library - Dart AP
 slug: "sdk-for-flutter-explore-routing-routingengine-setcustomoption"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- setCustomOption.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -58,6 +54,3 @@ RoutingError? setCustomOption(String name, String? value);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

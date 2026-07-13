@@ -3,10 +3,6 @@ title: "source property - ExternalID class - core library - Dart API"
 slug: "sdk-for-flutter-explore-core-externalid-source"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- source.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ String source;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

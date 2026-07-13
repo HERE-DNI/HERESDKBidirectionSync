@@ -3,10 +3,6 @@ title: "minCourseDistanceInMeters property - Waypoint class - routing library - 
 slug: "sdk-for-flutter-explore-routing-waypoint-mincoursedistanceinmeters"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- minCourseDistanceInMeters.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ int? minCourseDistanceInMeters;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

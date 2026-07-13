@@ -3,10 +3,6 @@ title: "withKingpinToRearAxleDistanceInCentimeters method - VehicleSpecification
 slug: "sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-withkingpintorearaxledistanceincentimeters"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- withKingpinToRearAxleDistanceInCentimeters.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -51,6 +47,3 @@ VehicleSpecificationCarBuilder withKingpinToRearAxleDistanceInCentimeters(int le
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

@@ -3,10 +3,6 @@ title: "MapItemKeyFrameTrackInstantiationException constructor - MapItemKeyFrame
 slug: "sdk-for-flutter-explore-animation-mapitemkeyframetrackinstantiationexception-mapitemkeyframetrackinstantiationexception"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- MapItemKeyFrameTrackInstantiationException.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -41,6 +37,3 @@ MapItemKeyFrameTrackInstantiationException(this.error);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

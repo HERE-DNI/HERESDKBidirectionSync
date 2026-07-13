@@ -3,10 +3,6 @@ title: "parameterConfig property - SDKNativeEngine class - core.engine library -
 slug: "sdk-for-flutter-explore-core.engine-sdknativeengine-parameterconfig"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- parameterConfig.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -69,6 +65,3 @@ static set parameterConfig(ParameterConfiguration value) { $prototype.parameterC
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

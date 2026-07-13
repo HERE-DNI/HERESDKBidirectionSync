@@ -3,10 +3,6 @@ title: "TileUrlProviderFactory class - mapview.datasource library - Dart API"
 slug: "sdk-for-flutter-explore-mapview.datasource-tileurlproviderfactory-class"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- TileUrlProviderFactory-class.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -89,6 +85,3 @@ Creates <a href="sdk-for-flutter-explore-mapview-datasource-tileurlprovidercallb
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

@@ -3,10 +3,6 @@ title: "withIsCommercial method - VehicleSpecificationTaxiBuilder class - transp
 slug: "sdk-for-flutter-explore-transport-vehiclespecificationtaxibuilder-withiscommercial"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- withIsCommercial.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -51,6 +47,3 @@ VehicleSpecificationTaxiBuilder withIsCommercial(bool isCommercial);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

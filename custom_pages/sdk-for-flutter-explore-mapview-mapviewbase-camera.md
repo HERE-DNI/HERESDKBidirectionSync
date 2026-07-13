@@ -3,10 +3,6 @@ title: "camera property - MapViewBase class - mapview library - Dart API"
 slug: "sdk-for-flutter-explore-mapview-mapviewbase-camera"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- camera.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -45,6 +41,3 @@ MapCamera get camera;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

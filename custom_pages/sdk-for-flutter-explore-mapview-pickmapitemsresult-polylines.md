@@ -3,10 +3,6 @@ title: "polylines property - PickMapItemsResult class - mapview library - Dart A
 slug: "sdk-for-flutter-explore-mapview-pickmapitemsresult-polylines"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- polylines.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -45,6 +41,3 @@ List<MapPolyline> get polylines;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

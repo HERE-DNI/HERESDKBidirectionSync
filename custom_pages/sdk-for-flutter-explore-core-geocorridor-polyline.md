@@ -3,10 +3,6 @@ title: "polyline property - GeoCorridor class - core library - Dart API"
 slug: "sdk-for-flutter-explore-core-geocorridor-polyline"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- polyline.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ final List<GeoCoordinates> polyline;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

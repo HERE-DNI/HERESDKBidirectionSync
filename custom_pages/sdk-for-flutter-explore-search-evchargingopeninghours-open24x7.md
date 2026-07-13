@@ -3,10 +3,6 @@ title: "open24x7 property - EVChargingOpeningHours class - search library - Dart
 slug: "sdk-for-flutter-explore-search-evchargingopeninghours-open24x7"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- open24x7.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ bool open24x7;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

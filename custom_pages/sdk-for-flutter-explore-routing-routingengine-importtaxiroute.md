@@ -3,10 +3,6 @@ title: "importTaxiRoute method - RoutingEngine class - routing library - Dart AP
 slug: "sdk-for-flutter-explore-routing-routingengine-importtaxiroute"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- importTaxiRoute.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -71,6 +67,3 @@ TaskHandle importTaxiRoute(List<Location> locations, TaxiOptions taxiOptions, Ca
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

@@ -3,10 +3,6 @@ title: "removeLifecycleListener method - MapViewBase class - mapview library - D
 slug: "sdk-for-flutter-explore-mapview-mapviewbase-removelifecyclelistener"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- removeLifecycleListener.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -51,6 +47,3 @@ void removeLifecycleListener(MapViewLifecycleListener lifecycleListener);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

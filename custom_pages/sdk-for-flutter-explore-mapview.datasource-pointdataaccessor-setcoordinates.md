@@ -3,10 +3,6 @@ title: "setCoordinates method - PointDataAccessor class - mapview.datasource lib
 slug: "sdk-for-flutter-explore-mapview.datasource-pointdataaccessor-setcoordinates"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- setCoordinates.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -49,6 +45,3 @@ void setCoordinates(GeoCoordinates position);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

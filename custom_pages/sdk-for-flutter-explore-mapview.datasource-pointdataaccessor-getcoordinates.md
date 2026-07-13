@@ -3,10 +3,6 @@ title: "getCoordinates method - PointDataAccessor class - mapview.datasource lib
 slug: "sdk-for-flutter-explore-mapview.datasource-pointdataaccessor-getcoordinates"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- getCoordinates.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -45,6 +41,3 @@ GeoCoordinates getCoordinates();
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

@@ -3,10 +3,6 @@ title: "matchedCoordinates property - MapMatchedCoordinates class - routing libr
 slug: "sdk-for-flutter-explore-routing-mapmatchedcoordinates-matchedcoordinates"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- matchedCoordinates.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ GeoCoordinates matchedCoordinates;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

@@ -3,10 +3,6 @@ title: "init method - SdkContext class - core library - Dart API"
 slug: "sdk-for-flutter-explore-core-sdkcontext-init"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- init.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -54,6 +50,3 @@ static void init([IsolateOrigin isolateOrigin = IsolateOrigin.main]) {
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

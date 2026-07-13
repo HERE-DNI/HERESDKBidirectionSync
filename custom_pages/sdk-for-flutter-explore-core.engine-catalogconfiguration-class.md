@@ -3,10 +3,6 @@ title: "CatalogConfiguration class - core.engine library - Dart API"
 slug: "sdk-for-flutter-explore-core.engine-catalogconfiguration-class"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- CatalogConfiguration-class.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -125,6 +121,3 @@ Gets the default catalog configuration for the specified catalog type.
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

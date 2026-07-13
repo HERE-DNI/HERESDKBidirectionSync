@@ -3,10 +3,6 @@ title: "RasterDataSourceConfiguration constructor - RasterDataSourceConfiguratio
 slug: "sdk-for-flutter-explore-mapview.datasource-rasterdatasourceconfiguration-rasterdatasourceconfiguration"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- RasterDataSourceConfiguration.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -55,6 +51,3 @@ RasterDataSourceConfiguration(this.name, this.provider, this.cache, this.ignoreE
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

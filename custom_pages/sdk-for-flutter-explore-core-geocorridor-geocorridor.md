@@ -3,10 +3,6 @@ title: "GeoCorridor constructor - GeoCorridor - core library - Dart API"
 slug: "sdk-for-flutter-explore-core-geocorridor-geocorridor"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- GeoCorridor.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -52,6 +48,3 @@ factory GeoCorridor(List<GeoCoordinates> polyline, int halfWidthInMeters) => $pr
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

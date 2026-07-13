@@ -3,10 +3,6 @@ title: "MapItemKeyFrameTrack class - animation library - Dart API"
 slug: "sdk-for-flutter-explore-animation-mapitemkeyframetrack-class"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- MapItemKeyFrameTrack-class.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -94,6 +90,3 @@ Creates a keyframe track used to animate the progress of a polyline.
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

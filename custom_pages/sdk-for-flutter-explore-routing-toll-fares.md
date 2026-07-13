@@ -3,10 +3,6 @@ title: "fares property - Toll class - routing library - Dart API"
 slug: "sdk-for-flutter-explore-routing-toll-fares"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- fares.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ List<TollFare> fares;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

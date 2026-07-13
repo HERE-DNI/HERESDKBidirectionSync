@@ -3,10 +3,6 @@ title: "TranslucentMapLayerGroup.withPriority constructor - TranslucentMapLayerG
 slug: "sdk-for-flutter-explore-mapview-translucentmaplayergroup-translucentmaplayergroup-withpriority"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- TranslucentMapLayerGroup.withPriority.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -63,6 +59,3 @@ factory TranslucentMapLayerGroup.withPriority(String name, HereMapControllerCore
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

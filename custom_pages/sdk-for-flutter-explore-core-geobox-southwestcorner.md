@@ -3,10 +3,6 @@ title: "southWestCorner property - GeoBox class - core library - Dart API"
 slug: "sdk-for-flutter-explore-core-geobox-southwestcorner"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- southWestCorner.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ final GeoCoordinates southWestCorner;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

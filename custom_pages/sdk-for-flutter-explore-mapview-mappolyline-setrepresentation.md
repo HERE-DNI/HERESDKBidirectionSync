@@ -3,10 +3,6 @@ title: "setRepresentation method - MapPolyline class - mapview library - Dart AP
 slug: "sdk-for-flutter-explore-mapview-mappolyline-setrepresentation"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- setRepresentation.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -49,6 +45,3 @@ void setRepresentation(MapPolylineRepresentation representation);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

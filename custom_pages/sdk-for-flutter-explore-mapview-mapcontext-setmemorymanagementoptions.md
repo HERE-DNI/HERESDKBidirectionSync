@@ -3,10 +3,6 @@ title: "setMemoryManagementOptions method - MapContext class - mapview library -
 slug: "sdk-for-flutter-explore-mapview-mapcontext-setmemorymanagementoptions"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- setMemoryManagementOptions.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -56,6 +52,3 @@ void setMemoryManagementOptions(MapContextMemoryManagementOptions memoryManageme
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

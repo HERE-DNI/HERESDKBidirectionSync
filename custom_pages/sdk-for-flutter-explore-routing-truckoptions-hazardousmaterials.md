@@ -3,10 +3,6 @@ title: "hazardousMaterials property - TruckOptions class - routing library - Dar
 slug: "sdk-for-flutter-explore-routing-truckoptions-hazardousmaterials"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- hazardousMaterials.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ List<HazardousMaterial> hazardousMaterials;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

@@ -3,10 +3,6 @@ title: "flyTo method - MapCameraAnimationFactory class - mapview library - Dart 
 slug: "sdk-for-flutter-explore-mapview-mapcameraanimationfactory-flyto"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- flyTo.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -73,6 +69,3 @@ static MapCameraAnimation flyTo(GeoCoordinatesUpdate target, double bowFactor, D
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

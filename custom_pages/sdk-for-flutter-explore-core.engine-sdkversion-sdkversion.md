@@ -3,10 +3,6 @@ title: "SDKVersion constructor - SDKVersion - core.engine library - Dart API"
 slug: "sdk-for-flutter-explore-core.engine-sdkversion-sdkversion"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- SDKVersion.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -65,6 +61,3 @@ SDKVersion(this.productVariant, this.versionName, this.versionGeneration, this.v
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

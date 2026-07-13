@@ -3,10 +3,6 @@ title: "businessAndServicesPostOffice property - PlaceCategory class - search li
 slug: "sdk-for-flutter-explore-search-placecategory-businessandservicespostoffice"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- businessAndServicesPostOffice.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ static final String businessAndServicesPostOffice = "700-7450";
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

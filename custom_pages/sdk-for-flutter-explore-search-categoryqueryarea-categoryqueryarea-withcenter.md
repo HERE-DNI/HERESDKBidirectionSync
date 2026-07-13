@@ -3,10 +3,6 @@ title: "CategoryQueryArea.withCenter constructor - CategoryQueryArea - search li
 slug: "sdk-for-flutter-explore-search-categoryqueryarea-categoryqueryarea-withcenter"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- CategoryQueryArea.withCenter.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -49,6 +45,3 @@ factory CategoryQueryArea.withCenter(GeoCoordinates areaCenter) => $prototype.wi
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

@@ -3,10 +3,6 @@ title: "TrafficOnSpan constructor - TrafficOnSpan - routing library - Dart API"
 slug: "sdk-for-flutter-explore-routing-trafficonspan-trafficonspan"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- TrafficOnSpan.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -38,6 +34,3 @@ TrafficOnSpan()
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

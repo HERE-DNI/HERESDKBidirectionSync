@@ -3,10 +3,6 @@ title: "loaded method - PointTileSourceLoadResultHandler class - mapview.datasou
 slug: "sdk-for-flutter-explore-mapview.datasource-pointtilesourceloadresulthandler-loaded"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- loaded.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -55,6 +51,3 @@ void loaded(TileKey tileKey, List<PointData> data, TileSourceTileMetadata metada
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

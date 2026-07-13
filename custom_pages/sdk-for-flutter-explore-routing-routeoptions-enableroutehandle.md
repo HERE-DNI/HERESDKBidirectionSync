@@ -3,10 +3,6 @@ title: "enableRouteHandle property - RouteOptions class - routing library - Dart
 slug: "sdk-for-flutter-explore-routing-routeoptions-enableroutehandle"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- enableRouteHandle.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ bool enableRouteHandle;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

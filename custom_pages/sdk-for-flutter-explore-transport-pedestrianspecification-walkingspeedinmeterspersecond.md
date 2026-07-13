@@ -3,10 +3,6 @@ title: "walkingSpeedInMetersPerSecond property - PedestrianSpecification class -
 slug: "sdk-for-flutter-explore-transport-pedestrianspecification-walkingspeedinmeterspersecond"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- walkingSpeedInMetersPerSecond.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ double walkingSpeedInMetersPerSecond;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

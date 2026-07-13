@@ -3,10 +3,6 @@ title: "core.threading library - Dart API"
 slug: "sdk-for-flutter-explore-core.threading-core-threading-library"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- core.threading-library.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -38,6 +34,3 @@ The method will be called on the main thread when a task call has been completed
 
 <!-- /.main-content --> <!--/sidebar-offcanvas-right--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

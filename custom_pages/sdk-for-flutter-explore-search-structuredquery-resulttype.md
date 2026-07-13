@@ -3,10 +3,6 @@ title: "resultType property - StructuredQuery class - search library - Dart API"
 slug: "sdk-for-flutter-explore-search-structuredquery-resulttype"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- resultType.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ StructuredQueryResultType? resultType;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

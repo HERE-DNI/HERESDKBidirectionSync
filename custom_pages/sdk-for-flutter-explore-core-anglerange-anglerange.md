@@ -3,10 +3,6 @@ title: "AngleRange constructor - AngleRange - core library - Dart API"
 slug: "sdk-for-flutter-explore-core-anglerange-anglerange"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- AngleRange.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -54,6 +50,3 @@ factory AngleRange(double start, double extent) => $prototype.$init(start, exten
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

@@ -3,10 +3,6 @@ title: "ScheduleDetails constructor - ScheduleDetails - search library - Dart AP
 slug: "sdk-for-flutter-explore-search-scheduledetails-scheduledetails"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- ScheduleDetails.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -53,6 +49,3 @@ ScheduleDetails(this.start, this.duration, this.recurrence);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

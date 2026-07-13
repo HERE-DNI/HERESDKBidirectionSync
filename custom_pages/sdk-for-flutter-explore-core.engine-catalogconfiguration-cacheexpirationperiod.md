@@ -3,10 +3,6 @@ title: "cacheExpirationPeriod property - CatalogConfiguration class - core.engin
 slug: "sdk-for-flutter-explore-core.engine-catalogconfiguration-cacheexpirationperiod"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- cacheExpirationPeriod.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ Duration? cacheExpirationPeriod;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

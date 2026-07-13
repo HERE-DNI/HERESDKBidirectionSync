@@ -3,10 +3,6 @@ title: "TrafficLocation constructor - TrafficLocation - traffic library - Dart A
 slug: "sdk-for-flutter-explore-traffic-trafficlocation-trafficlocation"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- TrafficLocation.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -54,6 +50,3 @@ TrafficLocation(this.polyline, this.additionalPolylines, this.lengthInMeters)
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

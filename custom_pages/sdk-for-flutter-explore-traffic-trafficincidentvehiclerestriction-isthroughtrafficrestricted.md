@@ -3,10 +3,6 @@ title: "isThroughTrafficRestricted property - TrafficIncidentVehicleRestriction 
 slug: "sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-isthroughtrafficrestricted"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- isThroughTrafficRestricted.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ bool isThroughTrafficRestricted;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

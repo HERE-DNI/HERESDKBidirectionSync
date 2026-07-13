@@ -3,10 +3,6 @@ title: "pantographBottomUp property - EVChargingConnectorType class - ev library
 slug: "sdk-for-flutter-explore-ev-evchargingconnectortype-pantographbottomup"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- pantographBottomUp.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ static final String pantographBottomUp = "PANTOGRAPH_BOTTOM_UP";
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

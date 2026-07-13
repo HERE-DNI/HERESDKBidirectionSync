@@ -3,10 +3,6 @@ title: "IsolineOptionsCalculation.withDefaults constructor - IsolineOptionsCalcu
 slug: "sdk-for-flutter-explore-routing-isolineoptionscalculation-isolineoptionscalculation-withdefaults"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- IsolineOptionsCalculation.withDefaults.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -50,6 +46,3 @@ factory IsolineOptionsCalculation.withDefaults(IsolineRangeType rangeType, List<
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

@@ -3,10 +3,6 @@ title: "fromDirectionDegreesClockwise method - AngleRange class - core library -
 slug: "sdk-for-flutter-explore-core-anglerange-fromdirectiondegreesclockwise"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- fromDirectionDegreesClockwise.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -56,6 +52,3 @@ static AngleRange fromDirectionDegreesClockwise(double center, double extent) =>
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

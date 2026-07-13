@@ -3,10 +3,6 @@ title: "TranslucentMapLayerGroupInstantiationException constructor - Translucent
 slug: "sdk-for-flutter-explore-mapview-translucentmaplayergroupinstantiationexception-translucentmaplayergroupinstantiationexception"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- TranslucentMapLayerGroupInstantiationException.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -41,6 +37,3 @@ TranslucentMapLayerGroupInstantiationException(this.error);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

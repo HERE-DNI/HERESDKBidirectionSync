@@ -3,10 +3,6 @@ title: "EVChargingDurationRange constructor - EVChargingDurationRange - search l
 slug: "sdk-for-flutter-explore-search-evchargingdurationrange-evchargingdurationrange"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- EVChargingDurationRange.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -38,6 +34,3 @@ EVChargingDurationRange()
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

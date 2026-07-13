@@ -3,10 +3,6 @@ title: "naturalAndGeographicalForestHealthOtherVegetation property - PlaceCatego
 slug: "sdk-for-flutter-explore-search-placecategory-naturalandgeographicalforesthealthothervegetation"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- naturalAndGeographicalForestHealthOtherVegetation.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ static final String naturalAndGeographicalForestHealthOtherVegetation = "350-352
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

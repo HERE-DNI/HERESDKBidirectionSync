@@ -3,10 +3,6 @@ title: "recuperationEfficiency property - PhysicalConsumptionModel class - routi
 slug: "sdk-for-flutter-explore-routing-physicalconsumptionmodel-recuperationefficiency"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- recuperationEfficiency.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -49,6 +45,3 @@ double recuperationEfficiency;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

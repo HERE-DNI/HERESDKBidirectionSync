@@ -3,10 +3,6 @@ title: "HereMapController constructor - HereMapController - mapview library - Da
 slug: "sdk-for-flutter-explore-mapview-heremapcontroller-heremapcontroller"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- HereMapController.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -41,6 +37,3 @@ factory HereMapController(int id) => $prototype.make(id);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

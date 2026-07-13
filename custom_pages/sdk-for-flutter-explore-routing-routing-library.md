@@ -3,10 +3,6 @@ title: "routing library - Dart API"
 slug: "sdk-for-flutter-explore-routing-routing-library"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- routing-library.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -443,6 +439,3 @@ A function which is called by the RoutingEngine after route traffic calculation 
 
 <!-- /.main-content --> <!--/sidebar-offcanvas-right--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

@@ -3,10 +3,6 @@ title: "polygonExceptionAreas property - AvoidBoundingBoxAreaOptions class - rou
 slug: "sdk-for-flutter-explore-routing-avoidboundingboxareaoptions-polygonexceptionareas"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- polygonExceptionAreas.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ List<GeoPolygon> polygonExceptionAreas;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

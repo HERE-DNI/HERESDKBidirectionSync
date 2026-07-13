@@ -3,10 +3,6 @@ title: "components property - EVChargingTariffElement class - search library - D
 slug: "sdk-for-flutter-explore-search-evchargingtariffelement-components"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- components.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ List<EVChargingTariffPriceComponent> components;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

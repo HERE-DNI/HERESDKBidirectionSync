@@ -3,10 +3,6 @@ title: "MaterialReflectivity constructor - MaterialReflectivity - mapview librar
 slug: "sdk-for-flutter-explore-mapview-materialreflectivity-materialreflectivity"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- MaterialReflectivity.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -38,6 +34,3 @@ MaterialReflectivity()
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

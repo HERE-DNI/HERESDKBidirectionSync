@@ -3,10 +3,6 @@ title: "x property - TileKey class - mapview.datasource library - Dart API"
 slug: "sdk-for-flutter-explore-mapview.datasource-tilekey-x"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- x.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ int x;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

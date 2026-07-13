@@ -3,10 +3,6 @@ title: "withDouble method - DataAttributesBuilder class - mapview.datasource lib
 slug: "sdk-for-flutter-explore-mapview.datasource-dataattributesbuilder-withdouble"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- withDouble.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -54,6 +50,3 @@ DataAttributesBuilder withDouble(String name, double value);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

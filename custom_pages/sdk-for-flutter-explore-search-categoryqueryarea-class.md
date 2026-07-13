@@ -3,10 +3,6 @@ title: "CategoryQueryArea class - search library - Dart API"
 slug: "sdk-for-flutter-explore-search-categoryqueryarea-class"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- CategoryQueryArea-class.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -155,6 +151,3 @@ The equality operator.
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

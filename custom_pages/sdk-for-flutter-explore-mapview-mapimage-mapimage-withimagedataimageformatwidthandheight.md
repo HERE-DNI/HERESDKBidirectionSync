@@ -3,10 +3,6 @@ title: "MapImage.withImageDataImageFormatWidthAndHeight constructor - MapImage -
 slug: "sdk-for-flutter-explore-mapview-mapimage-mapimage-withimagedataimageformatwidthandheight"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- MapImage.withImageDataImageFormatWidthAndHeight.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -58,6 +54,3 @@ factory MapImage.withImageDataImageFormatWidthAndHeight(Uint8List imageData, Ima
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

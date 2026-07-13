@@ -3,10 +3,6 @@ title: "allowDriveThroughTaxiRoads property - TaxiSpecification class - transpor
 slug: "sdk-for-flutter-explore-transport-taxispecification-allowdrivethroughtaxiroads"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- allowDriveThroughTaxiRoads.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ bool allowDriveThroughTaxiRoads;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

@@ -3,10 +3,6 @@ title: "MapObjectDescriptor constructor - MapObjectDescriptor - mapview library 
 slug: "sdk-for-flutter-explore-mapview-mapobjectdescriptor-mapobjectdescriptor"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- MapObjectDescriptor.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -29,6 +25,3 @@ slug: "sdk-for-flutter-explore-mapview-mapobjectdescriptor-mapobjectdescriptor"
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

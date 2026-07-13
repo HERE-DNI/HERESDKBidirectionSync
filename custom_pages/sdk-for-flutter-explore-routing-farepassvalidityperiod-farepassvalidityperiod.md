@@ -3,10 +3,6 @@ title: "FarePassValidityPeriod constructor - FarePassValidityPeriod - routing li
 slug: "sdk-for-flutter-explore-routing-farepassvalidityperiod-farepassvalidityperiod"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- FarePassValidityPeriod.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -38,6 +34,3 @@ FarePassValidityPeriod()
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

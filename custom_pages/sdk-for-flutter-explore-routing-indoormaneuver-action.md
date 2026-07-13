@@ -3,10 +3,6 @@ title: "action property - IndoorManeuver class - routing library - Dart API"
 slug: "sdk-for-flutter-explore-routing-indoormaneuver-action"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- action.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -45,6 +41,3 @@ IndoorManeuverActions? get action;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

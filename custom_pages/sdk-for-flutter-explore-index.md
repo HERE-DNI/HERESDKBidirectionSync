@@ -3,10 +3,6 @@ title: "here_sdk - Dart API docs"
 slug: "sdk-for-flutter-explore-index"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- index.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -63,6 +59,3 @@ We love feedback. Please <a href="https://www.here.com/contact">contact us</a> f
 
 <!-- /.main-content --> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

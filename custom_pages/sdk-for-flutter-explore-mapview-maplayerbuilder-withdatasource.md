@@ -3,10 +3,6 @@ title: "withDataSource method - MapLayerBuilder class - mapview library - Dart A
 slug: "sdk-for-flutter-explore-mapview-maplayerbuilder-withdatasource"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- withDataSource.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -56,6 +52,3 @@ MapLayerBuilder withDataSource(String dataSourceName, MapContentType contentType
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

@@ -3,10 +3,6 @@ title: "info method - SDKLogger class - core.engine library - Dart API"
 slug: "sdk-for-flutter-explore-core.engine-sdklogger-info"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- info.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -52,6 +48,3 @@ static void info(String tag, String message) => $prototype.info(tag, message);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

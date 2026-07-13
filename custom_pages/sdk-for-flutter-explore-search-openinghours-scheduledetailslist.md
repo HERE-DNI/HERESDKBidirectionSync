@@ -3,10 +3,6 @@ title: "scheduleDetailsList property - OpeningHours class - search library - Dar
 slug: "sdk-for-flutter-explore-search-openinghours-scheduledetailslist"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- scheduleDetailsList.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ List<ScheduleDetails> scheduleDetailsList;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

@@ -3,10 +3,6 @@ title: "log method - LogAppender class - core.engine library - Dart API"
 slug: "sdk-for-flutter-explore-core.engine-logappender-log"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- log.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -50,6 +46,3 @@ void log(LogLevel level, String message);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

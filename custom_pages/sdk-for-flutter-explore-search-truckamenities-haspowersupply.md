@@ -3,10 +3,6 @@ title: "hasPowerSupply property - TruckAmenities class - search library - Dart A
 slug: "sdk-for-flutter-explore-search-truckamenities-haspowersupply"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- hasPowerSupply.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ bool hasPowerSupply;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

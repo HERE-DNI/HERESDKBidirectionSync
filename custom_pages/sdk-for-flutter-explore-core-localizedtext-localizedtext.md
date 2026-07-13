@@ -3,10 +3,6 @@ title: "LocalizedText constructor - LocalizedText - core library - Dart API"
 slug: "sdk-for-flutter-explore-core-localizedtext-localizedtext"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- LocalizedText.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -51,6 +47,3 @@ LocalizedText(this.text, this.locale);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

@@ -3,10 +3,6 @@ title: "RouteOptions constructor - RouteOptions - routing library - Dart API"
 slug: "sdk-for-flutter-explore-routing-routeoptions-routeoptions"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- RouteOptions.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -94,6 +90,3 @@ RouteOptions([OptimizationMode optimizationMode = OptimizationMode.fastest, int 
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

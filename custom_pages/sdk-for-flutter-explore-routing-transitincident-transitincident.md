@@ -3,10 +3,6 @@ title: "TransitIncident constructor - TransitIncident - routing library - Dart A
 slug: "sdk-for-flutter-explore-routing-transitincident-transitincident"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- TransitIncident.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -61,6 +57,3 @@ TransitIncident(this.summary, this.description, this.type, this.effect, this.val
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

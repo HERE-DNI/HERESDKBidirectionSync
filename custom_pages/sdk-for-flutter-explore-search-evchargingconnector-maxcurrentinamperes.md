@@ -3,10 +3,6 @@ title: "maxCurrentInAmperes property - EVChargingConnector class - search librar
 slug: "sdk-for-flutter-explore-search-evchargingconnector-maxcurrentinamperes"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- maxCurrentInAmperes.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ int maxCurrentInAmperes;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

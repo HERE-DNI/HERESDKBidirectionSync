@@ -3,10 +3,6 @@ title: "CatalogIdentifier constructor - CatalogIdentifier - core.engine library 
 slug: "sdk-for-flutter-explore-core.engine-catalogidentifier-catalogidentifier"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- CatalogIdentifier.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -38,6 +34,3 @@ CatalogIdentifier()
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

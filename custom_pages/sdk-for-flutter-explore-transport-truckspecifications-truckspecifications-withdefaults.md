@@ -3,10 +3,6 @@ title: "TruckSpecifications.withDefaults constructor - TruckSpecifications - tra
 slug: "sdk-for-flutter-explore-transport-truckspecifications-truckspecifications-withdefaults"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- TruckSpecifications.withDefaults.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -44,6 +40,3 @@ TruckSpecifications.withDefaults()
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

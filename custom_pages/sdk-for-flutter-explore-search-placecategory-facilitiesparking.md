@@ -3,10 +3,6 @@ title: "facilitiesParking property - PlaceCategory class - search library - Dart
 slug: "sdk-for-flutter-explore-search-placecategory-facilitiesparking"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- facilitiesParking.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ static final String facilitiesParking = "800-8500";
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

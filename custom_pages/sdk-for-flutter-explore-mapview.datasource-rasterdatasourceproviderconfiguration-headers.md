@@ -3,10 +3,6 @@ title: "headers property - RasterDataSourceProviderConfiguration class - mapview
 slug: "sdk-for-flutter-explore-mapview.datasource-rasterdatasourceproviderconfiguration-headers"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- headers.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ Map<String, String>? headers;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

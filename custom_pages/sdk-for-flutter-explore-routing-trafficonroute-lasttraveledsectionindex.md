@@ -3,10 +3,6 @@ title: "lastTraveledSectionIndex property - TrafficOnRoute class - routing libra
 slug: "sdk-for-flutter-explore-routing-trafficonroute-lasttraveledsectionindex"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- lastTraveledSectionIndex.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ int lastTraveledSectionIndex;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

@@ -3,10 +3,6 @@ title: "minPowerInKilowatts property - PlaceFilterEv class - search library - Da
 slug: "sdk-for-flutter-explore-search-placefilterev-minpowerinkilowatts"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- minPowerInKilowatts.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ double? minPowerInKilowatts;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

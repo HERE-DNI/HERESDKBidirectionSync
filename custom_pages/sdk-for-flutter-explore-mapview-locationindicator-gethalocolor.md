@@ -3,10 +3,6 @@ title: "getHaloColor method - LocationIndicator class - mapview library - Dart A
 slug: "sdk-for-flutter-explore-mapview-locationindicator-gethalocolor"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- getHaloColor.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -53,6 +49,3 @@ ui.Color getHaloColor(LocationIndicatorIndicatorStyle style);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

@@ -3,10 +3,6 @@ title: "dimension property - EVChargingTariffPriceComponent class - search libra
 slug: "sdk-for-flutter-explore-search-evchargingtariffpricecomponent-dimension"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- dimension.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -47,6 +43,3 @@ EVChargingTariffDimension dimension;
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

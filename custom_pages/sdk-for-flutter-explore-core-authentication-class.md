@@ -3,10 +3,6 @@ title: "Authentication class - core library - Dart API"
 slug: "sdk-for-flutter-explore-core-authentication-class"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- Authentication-class.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -92,6 +88,3 @@ Uses the authentication service that is connected to the given SDK engine to aut
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>

@@ -3,10 +3,6 @@ title: "MapLayerVisibilityRange constructor - MapLayerVisibilityRange - mapview 
 slug: "sdk-for-flutter-explore-mapview-maplayervisibilityrange-maplayervisibilityrange"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-flutter">
-<!-- MapLayerVisibilityRange.html -->
 <div id="sdk-for-flutter-explore-overlay-under-drawer">
 
 </div>
@@ -51,6 +47,3 @@ const MapLayerVisibilityRange(this.minimumZoomLevel, this.maximumZoomLevel);
 
 <!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
 
-</div>
-`
-}</HTMLBlock>
