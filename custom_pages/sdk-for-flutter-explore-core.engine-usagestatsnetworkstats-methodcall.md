@@ -1,0 +1,52 @@
+---
+title: "methodCall property - UsageStatsNetworkStats class - core.engine library - Dart API"
+slug: "sdk-for-flutter-explore-core.engine-usagestatsnetworkstats-methodcall"
+---
+
+<HTMLBlock>{
+`
+<div class="sdk-for-flutter">
+<!-- methodCall.html -->
+<div id="sdk-for-flutter-explore-overlay-under-drawer">
+
+</div>
+
+<div id="sdk-for-flutter-explore-dartdoc-main-content" class="main-content" data-above-sidebar="core.engine/UsageStatsNetworkStats-class-sidebar.html" data-below-sidebar="">
+
+<div>
+
+# <span class="kind-property">methodCall</span> property
+
+</div>
+
+<div class="section multi-line-signature">
+
+String <span class="name">methodCall</span>
+
+<div class="features">
+
+<span class="feature">getter/setter pair</span>
+
+</div>
+
+</div>
+
+<div class="section desc markdown">
+
+Name or description of the method being called.
+
+</div>
+
+## Implementation
+
+``` dart
+String methodCall;
+```
+
+</div>
+
+<!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
+
+</div>
+`
+}</HTMLBlock>

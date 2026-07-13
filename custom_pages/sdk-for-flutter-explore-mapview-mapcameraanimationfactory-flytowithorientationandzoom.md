@@ -1,0 +1,84 @@
+---
+title: "flyToWithOrientationAndZoom method - MapCameraAnimationFactory class - mapview library - Dart API"
+slug: "sdk-for-flutter-explore-mapview-mapcameraanimationfactory-flytowithorientationandzoom"
+---
+
+<HTMLBlock>{
+`
+<div class="sdk-for-flutter">
+<!-- flyToWithOrientationAndZoom.html -->
+<div id="sdk-for-flutter-explore-overlay-under-drawer">
+
+</div>
+
+<div id="sdk-for-flutter-explore-dartdoc-main-content" class="main-content" data-above-sidebar="mapview/MapCameraAnimationFactory-class-sidebar.html" data-below-sidebar="">
+
+<div>
+
+# <span class="kind-method">flyToWithOrientationAndZoom</span> static method
+
+</div>
+
+<div class="section multi-line-signature">
+
+<span class="returntype"><a href="sdk-for-flutter-explore-mapview-mapcameraanimation-class">MapCameraAnimation</a></span> <span class="name">flyToWithOrientationAndZoom</span>(<wbr></wbr>
+
+1.  <span id="sdk-for-flutter-explore-flyToWithOrientationAndZoom-param-target" class="parameter"><span class="type-annotation"><a href="sdk-for-flutter-explore-core-geocoordinatesupdate-class">GeoCoordinatesUpdate</a></span> <span class="parameter-name">target</span>, </span>
+2.  <span id="sdk-for-flutter-explore-flyToWithOrientationAndZoom-param-orientation" class="parameter"><span class="type-annotation"><a href="sdk-for-flutter-explore-core-geoorientationupdate-class">GeoOrientationUpdate</a></span> <span class="parameter-name">orientation</span>, </span>
+3.  <span id="sdk-for-flutter-explore-flyToWithOrientationAndZoom-param-zoom" class="parameter"><span class="type-annotation"><a href="sdk-for-flutter-explore-mapview-mapmeasure-class">MapMeasure</a></span> <span class="parameter-name">zoom</span>, </span>
+4.  <span id="sdk-for-flutter-explore-flyToWithOrientationAndZoom-param-bowFactor" class="parameter"><span class="type-annotation">double</span> <span class="parameter-name">bowFactor</span>, </span>
+5.  <span id="sdk-for-flutter-explore-flyToWithOrientationAndZoom-param-duration" class="parameter"><span class="type-annotation">Duration</span> <span class="parameter-name">duration</span>, </span>
+
+)
+
+</div>
+
+<div class="section desc markdown">
+
+Creates a MapCameraAnimation to move the current map camera look-at coordinates to the new position and orientation along an adaptive ballistic curve.
+
+The beginning of the animation will use the current zoom and the end of the animation will use the provided zoom.
+
+Note: The altitude of the target point is ignored. Any subsequent camera updates and animations will consider the target point as being located on the ground.
+
+- `target` The coordinates of the camera destination point. Any target sub-element value that is not finite will be set to the current camera target sub-element value. Note: The altitude of the target point is ignored. Any subsequent camera updates and animations will consider the target point as being located on the ground.
+
+- `orientation` The orientation at destination.
+
+- `zoom` The zoom at the end of the animation.
+
+- `bowFactor` A bow factor that specifies how high (bowFactor \> 0) or low (bowFactor \< 0) the camera will fly.
+
+The highest (bowFactor = 1) or lowest point (bowFactor = -1) of the ballistic animation curve is relative to the travel distance between current camera target and destination target.
+
+A bow factor of 0 does not affect the camera's zoom over time.
+
+Values greater 0 result in a convex bow animation, values below 0 in a concave bowl animation.
+
+The bow factor is clamped to \[-1, +1\].
+
+Note that the lowest possible camera distance to earth is 0 meters and that the animation curve will not go below this value.
+
+Note that currently, bow factor is ignored and assumed to be 1 if either start or end of animation has a non zero tilt.
+
+- `duration` Duration of the flight. Negative duration results in no camera change when applied.
+
+Returns <a href="sdk-for-flutter-explore-mapview-mapcameraanimation-class">MapCameraAnimation</a>. MapCameraAnimation instance
+
+</div>
+
+## Implementation
+
+``` dart
+static MapCameraAnimation flyToWithOrientationAndZoom(GeoCoordinatesUpdate target, GeoOrientationUpdate orientation, MapMeasure zoom, double bowFactor, Duration duration) => $prototype.flyToWithOrientationAndZoom(target, orientation, zoom, bowFactor, duration);
+```
+
+</pre>
+
+</div>
+
+<!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
+
+</div>
+`
+}</HTMLBlock>

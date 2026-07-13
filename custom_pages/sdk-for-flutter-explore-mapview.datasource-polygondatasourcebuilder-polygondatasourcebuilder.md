@@ -1,0 +1,54 @@
+---
+title: "PolygonDataSourceBuilder constructor - PolygonDataSourceBuilder - mapview.datasource library - Dart API"
+slug: "sdk-for-flutter-explore-mapview.datasource-polygondatasourcebuilder-polygondatasourcebuilder"
+---
+
+<HTMLBlock>{
+`
+<div class="sdk-for-flutter">
+<!-- PolygonDataSourceBuilder.html -->
+<div id="sdk-for-flutter-explore-overlay-under-drawer">
+
+</div>
+
+<div id="sdk-for-flutter-explore-dartdoc-main-content" class="main-content" data-above-sidebar="mapview.datasource/PolygonDataSourceBuilder-class-sidebar.html" data-below-sidebar="">
+
+<div>
+
+# <span class="kind-constructor">PolygonDataSourceBuilder</span> constructor
+
+</div>
+
+<div class="section multi-line-signature">
+
+<span class="name">PolygonDataSourceBuilder</span>(<wbr></wbr>
+
+1.  <span id="sdk-for-flutter-explore-param-context" class="parameter"><span class="type-annotation"><a href="sdk-for-flutter-explore-mapview-mapcontext-class">MapContext</a></span> <span class="parameter-name">context</span></span>
+
+)
+
+</div>
+
+<div class="section desc markdown">
+
+Creates a data source builder instance in the given context.
+
+- `context` Map context to associate the data source with.
+
+</div>
+
+## Implementation
+
+``` dart
+factory PolygonDataSourceBuilder(MapContext context) => $prototype.create(context);
+```
+
+</pre>
+
+</div>
+
+<!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
+
+</div>
+`
+}</HTMLBlock>

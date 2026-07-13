@@ -1,0 +1,56 @@
+---
+title: "withTrailerAxleCount method - VehicleSpecificationPrivateBusBuilder class - transport library - Dart API"
+slug: "sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-withtraileraxlecount"
+---
+
+<HTMLBlock>{
+`
+<div class="sdk-for-flutter">
+<!-- withTrailerAxleCount.html -->
+<div id="sdk-for-flutter-explore-overlay-under-drawer">
+
+</div>
+
+<div id="sdk-for-flutter-explore-dartdoc-main-content" class="main-content" data-above-sidebar="transport/VehicleSpecificationPrivateBusBuilder-class-sidebar.html" data-below-sidebar="">
+
+<div>
+
+# <span class="kind-method">withTrailerAxleCount</span> abstract method
+
+</div>
+
+<div class="section multi-line-signature">
+
+<span class="returntype"><a href="sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-class">VehicleSpecificationPrivateBusBuilder</a></span> <span class="name">withTrailerAxleCount</span>(<wbr></wbr>
+
+1.  <span id="sdk-for-flutter-explore-withTrailerAxleCount-param-trailerAxleCount" class="parameter"><span class="type-annotation">int</span> <span class="parameter-name">trailerAxleCount</span></span>
+
+)
+
+</div>
+
+<div class="section desc markdown">
+
+Sets the vehicle trailer axle count.
+
+- `trailerAxleCount` The vehicle trailer axle count.
+
+Returns <a href="sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-class">VehicleSpecificationPrivateBusBuilder</a>. The <a href="sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-class">VehicleSpecificationPrivateBusBuilder</a> object with the trailer axle count set to the new value.
+
+</div>
+
+## Implementation
+
+``` dart
+VehicleSpecificationPrivateBusBuilder withTrailerAxleCount(int trailerAxleCount);
+```
+
+</pre>
+
+</div>
+
+<!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
+
+</div>
+`
+}</HTMLBlock>

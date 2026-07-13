@@ -1,0 +1,54 @@
+---
+title: "eMobilityServiceProviderPartnerIDs property - PlaceFilterEv class - search library - Dart API"
+slug: "sdk-for-flutter-explore-search-placefilterev-emobilityserviceproviderpartnerids"
+---
+
+<HTMLBlock>{
+`
+<div class="sdk-for-flutter">
+<!-- eMobilityServiceProviderPartnerIDs.html -->
+<div id="sdk-for-flutter-explore-overlay-under-drawer">
+
+</div>
+
+<div id="sdk-for-flutter-explore-dartdoc-main-content" class="main-content" data-above-sidebar="search/PlaceFilterEv-class-sidebar.html" data-below-sidebar="">
+
+<div>
+
+# <span class="kind-property">eMobilityServiceProviderPartnerIDs</span> property
+
+</div>
+
+<div class="section multi-line-signature">
+
+List<span class="signature">\<<wbr></wbr><span class="type-parameter">String</span>\></span> <span class="name">eMobilityServiceProviderPartnerIDs</span>
+
+<div class="features">
+
+<span class="feature">getter/setter pair</span>
+
+</div>
+
+</div>
+
+<div class="section desc markdown">
+
+Filter to retrieve EV charging stations with at least one matching e-Mobility Service Provider Partner ID.
+
+Not supported in `OfflineSearchEngine` (only available for the Navigate license).
+
+</div>
+
+## Implementation
+
+``` dart
+List<String> eMobilityServiceProviderPartnerIDs;
+```
+
+</div>
+
+<!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
+
+</div>
+`
+}</HTMLBlock>

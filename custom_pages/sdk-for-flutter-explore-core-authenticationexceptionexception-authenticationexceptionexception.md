@@ -1,0 +1,46 @@
+---
+title: "AuthenticationExceptionException constructor - AuthenticationExceptionException - core library - Dart API"
+slug: "sdk-for-flutter-explore-core-authenticationexceptionexception-authenticationexceptionexception"
+---
+
+<HTMLBlock>{
+`
+<div class="sdk-for-flutter">
+<!-- AuthenticationExceptionException.html -->
+<div id="sdk-for-flutter-explore-overlay-under-drawer">
+
+</div>
+
+<div id="sdk-for-flutter-explore-dartdoc-main-content" class="main-content" data-above-sidebar="core/AuthenticationExceptionException-class-sidebar.html" data-below-sidebar="">
+
+<div>
+
+# <span class="kind-constructor">AuthenticationExceptionException</span> constructor
+
+</div>
+
+<div class="section multi-line-signature">
+
+<span class="name">AuthenticationExceptionException</span>(<wbr></wbr>
+
+1.  <span id="sdk-for-flutter-explore-param-error" class="parameter"><span class="type-annotation"><a href="sdk-for-flutter-explore-core-authenticationerror">AuthenticationError</a></span> <span class="parameter-name">error</span></span>
+
+)
+
+</div>
+
+## Implementation
+
+``` dart
+AuthenticationExceptionException(this.error);
+```
+
+</pre>
+
+</div>
+
+<!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
+
+</div>
+`
+}</HTMLBlock>

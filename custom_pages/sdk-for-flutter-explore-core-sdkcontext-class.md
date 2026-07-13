@@ -1,0 +1,91 @@
+---
+title: "SdkContext class - core library - Dart API"
+slug: "sdk-for-flutter-explore-core-sdkcontext-class"
+---
+
+<HTMLBlock>{
+`
+<div class="sdk-for-flutter">
+<!-- SdkContext-class.html -->
+<div id="sdk-for-flutter-explore-overlay-under-drawer">
+
+</div>
+
+<div id="sdk-for-flutter-explore-dartdoc-main-content" class="main-content" data-above-sidebar="core/core-library-sidebar.html" data-below-sidebar="core/SdkContext-class-sidebar.html">
+
+<div>
+
+# <span class="kind-class">SdkContext</span> class
+
+</div>
+
+## Constructors
+
+<span class="name"><a href="sdk-for-flutter-explore-core-sdkcontext-sdkcontext">SdkContext</a></span><span class="signature">()</span>  
+
+## Properties
+
+<span class="name"><a href="sdk-for-flutter-explore-core-sdkcontext-hashcode">hashCode</a></span> <span class="signature">→ int</span>  
+The hash code for this object.
+
+<div class="features">
+
+<span class="feature">no setter</span><span class="feature">inherited</span>
+
+</div>
+
+<span class="name"><a href="sdk-for-flutter-explore-core-sdkcontext-runtimetype">runtimeType</a></span> <span class="signature">→ Type</span>  
+A representation of the runtime type of the object.
+
+<div class="features">
+
+<span class="feature">no setter</span><span class="feature">inherited</span>
+
+</div>
+
+## Methods
+
+<span class="name"><a href="sdk-for-flutter-explore-core-sdkcontext-nosuchmethod">noSuchMethod</a></span><span class="signature">(<wbr></wbr><span id="sdk-for-flutter-explore-noSuchMethod-param-invocation" class="parameter"><span class="type-annotation">Invocation</span> <span class="parameter-name">invocation</span></span>) <span class="returntype parameter">→ dynamic</span> </span>  
+Invoked when a nonexistent method or property is accessed.
+
+<div class="features">
+
+<span class="feature">inherited</span>
+
+</div>
+
+<span class="name"><a href="sdk-for-flutter-explore-core-sdkcontext-tostring">toString</a></span><span class="signature">(<wbr></wbr>) <span class="returntype parameter">→ String</span> </span>  
+A string representation of this object.
+
+<div class="features">
+
+<span class="feature">inherited</span>
+
+</div>
+
+## Operators
+
+<span class="name"><a href="sdk-for-flutter-explore-core-sdkcontext-operator_equals">operator ==</a></span><span class="signature">(<wbr></wbr><span id="sdk-for-flutter-explore-param-other" class="parameter"><span class="type-annotation">Object</span> <span class="parameter-name">other</span></span>) <span class="returntype parameter">→ bool</span> </span>  
+The equality operator.
+
+<div class="features">
+
+<span class="feature">inherited</span>
+
+</div>
+
+## Static Methods
+
+<span class="name"><a href="sdk-for-flutter-explore-core-sdkcontext-init">init</a></span><span class="signature">(<wbr></wbr>\<a href="sdk-for-flutter-explore-core-isolateorigin"><span id="sdk-for-flutter-explore-init-param-isolateOrigin" class="parameter"><span class="type-annotation">[IsolateOrigin</a></span> <span class="parameter-name">isolateOrigin</span> = <span class="default-value">IsolateOrigin.main</span></span>\]) <span class="returntype parameter">→ void</span> </span>  
+Prepares the SDK for use
+
+<span class="name"><a href="sdk-for-flutter-explore-core-sdkcontext-release">release</a></span><span class="signature">(<wbr></wbr>) <span class="returntype parameter">→ void</span> </span>  
+Releases resources used by the SDK
+
+</div>
+
+<!-- /.main-content --> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
+
+</div>
+`
+}</HTMLBlock>
