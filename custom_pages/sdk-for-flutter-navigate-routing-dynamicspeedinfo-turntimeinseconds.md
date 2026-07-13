@@ -1,0 +1,45 @@
+---
+title: "turnTimeInSeconds property - DynamicSpeedInfo class - routing library - Dart API"
+slug: "sdk-for-flutter-navigate-routing-dynamicspeedinfo-turntimeinseconds"
+---
+
+<div id="sdk-for-flutter-navigate-overlay-under-drawer">
+
+</div>
+
+<div id="sdk-for-flutter-navigate-dartdoc-main-content" class="main-content" data-above-sidebar="routing/DynamicSpeedInfo-class-sidebar.html" data-below-sidebar="">
+
+<div>
+
+# <span class="kind-property">turnTimeInSeconds</span> property
+
+</div>
+
+<div class="section multi-line-signature">
+
+int <span class="name">turnTimeInSeconds</span>
+
+<div class="features">
+
+<span class="feature">getter/setter pair</span>
+
+</div>
+
+</div>
+
+<div class="section desc markdown">
+
+The time it takes to make a turn, represented in seconds.
+
+</div>
+
+## Implementation
+
+``` dart
+int turnTimeInSeconds;
+```
+
+</div>
+
+<!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
+

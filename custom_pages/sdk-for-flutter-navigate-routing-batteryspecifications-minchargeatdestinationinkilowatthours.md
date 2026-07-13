@@ -1,0 +1,45 @@
+---
+title: "minChargeAtDestinationInKilowattHours property - BatterySpecifications class - routing library - Dart API"
+slug: "sdk-for-flutter-navigate-routing-batteryspecifications-minchargeatdestinationinkilowatthours"
+---
+
+<div id="sdk-for-flutter-navigate-overlay-under-drawer">
+
+</div>
+
+<div id="sdk-for-flutter-navigate-dartdoc-main-content" class="main-content" data-above-sidebar="routing/BatterySpecifications-class-sidebar.html" data-below-sidebar="">
+
+<div>
+
+# <span class="kind-property">minChargeAtDestinationInKilowattHours</span> property
+
+</div>
+
+<div class="section multi-line-signature">
+
+double <span class="name">minChargeAtDestinationInKilowattHours</span>
+
+<div class="features">
+
+<span class="feature">getter/setter pair</span>
+
+</div>
+
+</div>
+
+<div class="section desc markdown">
+
+Minimum charge at the final route destination in kWh. It must be non-negative and less than the value of <a href="sdk-for-flutter-navigate-routing-batteryspecifications-targetchargeinkilowatthours">BatterySpecifications.targetChargeInKilowattHours</a>, otherwise the <a href="sdk-for-flutter-navigate-routing-batteryspecifications-class">BatterySpecifications</a> instance is considered invalid. Defaults to 0.
+
+</div>
+
+## Implementation
+
+``` dart
+double minChargeAtDestinationInKilowattHours;
+```
+
+</div>
+
+<!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
+

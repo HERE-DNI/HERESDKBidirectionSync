@@ -1,0 +1,43 @@
+---
+title: "textOutlineSize property - MapMarkerTextStyle class - mapview library - Dart API"
+slug: "sdk-for-flutter-navigate-mapview-mapmarkertextstyle-textoutlinesize"
+---
+
+<div id="sdk-for-flutter-navigate-overlay-under-drawer">
+
+</div>
+
+<div id="sdk-for-flutter-navigate-dartdoc-main-content" class="main-content" data-above-sidebar="mapview/MapMarkerTextStyle-class-sidebar.html" data-below-sidebar="">
+
+<div>
+
+# <span class="kind-property">textOutlineSize</span> property
+
+</div>
+
+<div id="sdk-for-flutter-navigate-getter" class="section">
+
+<div class="section multi-line-signature">
+
+<span class="returntype">double</span> <span class="name">textOutlineSize</span>
+
+</div>
+
+<div class="section desc markdown">
+
+The text outline size in pixels. Gets the text outline size in pixels.
+
+</div>
+
+## Implementation
+
+``` dart
+double get textOutlineSize;
+```
+
+</div>
+
+</div>
+
+<!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
+

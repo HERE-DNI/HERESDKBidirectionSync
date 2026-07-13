@@ -1,0 +1,71 @@
+---
+title: "visibilityRanges property - MapMarker class - mapview library - Dart API"
+slug: "sdk-for-flutter-navigate-mapview-mapmarker-visibilityranges"
+---
+
+<div id="sdk-for-flutter-navigate-overlay-under-drawer">
+
+</div>
+
+<div id="sdk-for-flutter-navigate-dartdoc-main-content" class="main-content" data-above-sidebar="mapview/MapMarker-class-sidebar.html" data-below-sidebar="">
+
+<div>
+
+# <span class="kind-property">visibilityRanges</span> property
+
+</div>
+
+<div id="sdk-for-flutter-navigate-getter" class="section">
+
+<div class="section multi-line-signature">
+
+<span class="returntype">List<span class="signature">\<<wbr></wbr><span class="type-parameter"><a href="sdk-for-flutter-navigate-mapview-mapmeasurerange-class">MapMeasureRange</a></span>\></span></span> <span class="name">visibilityRanges</span>
+
+</div>
+
+<div class="section desc markdown">
+
+The list of visibility ranges. The map marker is visible only inside these map measure ranges. Gets the list of visibility ranges. The map marker is visible only inside these map measure ranges. When empty (the default), the map marker is visible without map measure restrictions.
+
+</div>
+
+## Implementation
+
+``` dart
+List<MapMeasureRange> get visibilityRanges;
+```
+
+</div>
+
+<div id="sdk-for-flutter-navigate-setter" class="section">
+
+<div class="section multi-line-signature">
+
+<span class="returntype">void</span> <span class="name">visibilityRanges=</span><span class="signature">(<wbr></wbr><span id="sdk-for-flutter-navigate-visibilityRanges-param-value" class="parameter"><span class="type-annotation">List<span class="signature">\<<wbr></wbr><span class="type-parameter"><a href="sdk-for-flutter-navigate-mapview-mapmeasurerange-class">MapMeasureRange</a></span>\></span></span> <span class="parameter-name">value</span></span>)</span>
+
+</div>
+
+<div class="section desc markdown">
+
+The list of visibility ranges. The map marker is visible only inside these map measure ranges. Sets visibility ranges for this map marker.
+
+A range is half open - \<a href="sdk-for-flutter-navigate-mapview-mapmeasurekind">minimumZoomLevel, maximumZoomLevel), the given maximum value is not contained in the range. The map marker is visible only inside these map measure ranges.
+
+When empty (the default), the map marker is visible without map measure restrictions. Only `MapMeasureRange`(s) of [MapMeasureKind.zoomLevel</a> type are supported. `MapMeasureRange`(s) of other unsupported types will be ignored.
+
+</div>
+
+## Implementation
+
+``` dart
+set visibilityRanges(List<MapMeasureRange> value);
+```
+
+</pre>
+
+</div>
+
+</div>
+
+<!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
+

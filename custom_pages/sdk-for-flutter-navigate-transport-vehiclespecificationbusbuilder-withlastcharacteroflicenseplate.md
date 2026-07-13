@@ -1,0 +1,49 @@
+---
+title: "withLastCharacterOfLicensePlate method - VehicleSpecificationBusBuilder class - transport library - Dart API"
+slug: "sdk-for-flutter-navigate-transport-vehiclespecificationbusbuilder-withlastcharacteroflicenseplate"
+---
+
+<div id="sdk-for-flutter-navigate-overlay-under-drawer">
+
+</div>
+
+<div id="sdk-for-flutter-navigate-dartdoc-main-content" class="main-content" data-above-sidebar="transport/VehicleSpecificationBusBuilder-class-sidebar.html" data-below-sidebar="">
+
+<div>
+
+# <span class="kind-method">withLastCharacterOfLicensePlate</span> abstract method
+
+</div>
+
+<div class="section multi-line-signature">
+
+<span class="returntype"><a href="sdk-for-flutter-navigate-transport-vehiclespecificationbusbuilder-class">VehicleSpecificationBusBuilder</a></span> <span class="name">withLastCharacterOfLicensePlate</span>(<wbr></wbr>
+
+1.  <span id="sdk-for-flutter-navigate-withLastCharacterOfLicensePlate-param-lastCharacterOfLicensePlate" class="parameter"><span class="type-annotation">String</span> <span class="parameter-name">lastCharacterOfLicensePlate</span></span>
+
+)
+
+</div>
+
+<div class="section desc markdown">
+
+Sets the vehicle last character of the license plate.
+
+- `lastCharacterOfLicensePlate` The vehicle last character of the license plate.
+
+Returns <a href="sdk-for-flutter-navigate-transport-vehiclespecificationbusbuilder-class">VehicleSpecificationBusBuilder</a>. The <a href="sdk-for-flutter-navigate-transport-vehiclespecificationbusbuilder-class">VehicleSpecificationBusBuilder</a> object with the last character of the licence plate set to the new value.
+
+</div>
+
+## Implementation
+
+``` dart
+VehicleSpecificationBusBuilder withLastCharacterOfLicensePlate(String lastCharacterOfLicensePlate);
+```
+
+</pre>
+
+</div>
+
+<!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
+

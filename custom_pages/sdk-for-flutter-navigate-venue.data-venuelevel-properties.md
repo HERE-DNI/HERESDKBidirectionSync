@@ -1,0 +1,43 @@
+---
+title: "properties property - VenueLevel class - venue.data library - Dart API"
+slug: "sdk-for-flutter-navigate-venue.data-venuelevel-properties"
+---
+
+<div id="sdk-for-flutter-navigate-overlay-under-drawer">
+
+</div>
+
+<div id="sdk-for-flutter-navigate-dartdoc-main-content" class="main-content" data-above-sidebar="venue.data/VenueLevel-class-sidebar.html" data-below-sidebar="">
+
+<div>
+
+# <span class="kind-property">properties</span> property
+
+</div>
+
+<div id="sdk-for-flutter-navigate-getter" class="section">
+
+<div class="section multi-line-signature">
+
+<span class="returntype"><a href="sdk-for-flutter-navigate-venue-data-venuelevelstringtopropertymap">VenueLevelStringToPropertyMap</a></span> <span class="name">properties</span>
+
+</div>
+
+<div class="section desc markdown">
+
+The properties of the level. Gets properties of the level.
+
+</div>
+
+## Implementation
+
+``` dart
+VenueLevelStringToPropertyMap get properties;
+```
+
+</div>
+
+</div>
+
+<!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
+

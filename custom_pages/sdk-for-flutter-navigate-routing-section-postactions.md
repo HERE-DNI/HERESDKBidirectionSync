@@ -1,0 +1,43 @@
+---
+title: "postActions property - Section class - routing library - Dart API"
+slug: "sdk-for-flutter-navigate-routing-section-postactions"
+---
+
+<div id="sdk-for-flutter-navigate-overlay-under-drawer">
+
+</div>
+
+<div id="sdk-for-flutter-navigate-dartdoc-main-content" class="main-content" data-above-sidebar="routing/Section-class-sidebar.html" data-below-sidebar="">
+
+<div>
+
+# <span class="kind-property">postActions</span> property
+
+</div>
+
+<div id="sdk-for-flutter-navigate-getter" class="section">
+
+<div class="section multi-line-signature">
+
+<span class="returntype">List<span class="signature">\<<wbr></wbr><span class="type-parameter"><a href="sdk-for-flutter-navigate-routing-postaction-class">PostAction</a></span>\></span></span> <span class="name">postActions</span>
+
+</div>
+
+<div class="section desc markdown">
+
+The post actions that must be done after the arrival at the end of the section. Gets the post actions that must be done after the arrival at the end of the section.
+
+</div>
+
+## Implementation
+
+``` dart
+List<PostAction> get postActions;
+```
+
+</div>
+
+</div>
+
+<!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
+

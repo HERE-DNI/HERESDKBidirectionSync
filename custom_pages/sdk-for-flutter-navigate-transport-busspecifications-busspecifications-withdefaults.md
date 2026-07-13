@@ -1,0 +1,42 @@
+---
+title: "BusSpecifications.withDefaults constructor - BusSpecifications - transport library - Dart API"
+slug: "sdk-for-flutter-navigate-transport-busspecifications-busspecifications-withdefaults"
+---
+
+<div id="sdk-for-flutter-navigate-overlay-under-drawer">
+
+</div>
+
+<div id="sdk-for-flutter-navigate-dartdoc-main-content" class="main-content" data-above-sidebar="transport/BusSpecifications-class-sidebar.html" data-below-sidebar="">
+
+<div>
+
+# <span class="kind-constructor">BusSpecifications.withDefaults</span> constructor
+
+</div>
+
+<div class="section multi-line-signature">
+
+<span class="name">BusSpecifications.withDefaults</span>(<wbr></wbr>)
+
+</div>
+
+<div class="section desc markdown">
+
+Creates a new instance.
+
+</div>
+
+## Implementation
+
+``` dart
+BusSpecifications.withDefaults()
+    : grossWeightInKilograms = null, heightInCentimeters = null, widthInCentimeters = null, lengthInCentimeters = null;
+```
+
+</pre>
+
+</div>
+
+<!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
+

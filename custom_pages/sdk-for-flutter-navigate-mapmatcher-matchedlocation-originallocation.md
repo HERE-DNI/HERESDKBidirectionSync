@@ -1,0 +1,45 @@
+---
+title: "originalLocation property - MatchedLocation class - mapmatcher library - Dart API"
+slug: "sdk-for-flutter-navigate-mapmatcher-matchedlocation-originallocation"
+---
+
+<div id="sdk-for-flutter-navigate-overlay-under-drawer">
+
+</div>
+
+<div id="sdk-for-flutter-navigate-dartdoc-main-content" class="main-content" data-above-sidebar="mapmatcher/MatchedLocation-class-sidebar.html" data-below-sidebar="">
+
+<div>
+
+# <span class="kind-property">originalLocation</span> property
+
+</div>
+
+<div class="section multi-line-signature">
+
+<a href="sdk-for-flutter-navigate-core-location-class">Location</a> <span class="name">originalLocation</span>
+
+<div class="features">
+
+<span class="feature">getter/setter pair</span>
+
+</div>
+
+</div>
+
+<div class="section desc markdown">
+
+The original received location.
+
+</div>
+
+## Implementation
+
+``` dart
+Location originalLocation;
+```
+
+</div>
+
+<!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
+

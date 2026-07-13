@@ -1,0 +1,49 @@
+---
+title: "onProgress method - OfflineSearchIndexListener class - search library - Dart API"
+slug: "sdk-for-flutter-navigate-search-offlinesearchindexlistener-onprogress"
+---
+
+<div id="sdk-for-flutter-navigate-overlay-under-drawer">
+
+</div>
+
+<div id="sdk-for-flutter-navigate-dartdoc-main-content" class="main-content" data-above-sidebar="search/OfflineSearchIndexListener-class-sidebar.html" data-below-sidebar="">
+
+<div>
+
+# <span class="kind-method">onProgress</span> abstract method
+
+</div>
+
+<div class="section multi-line-signature">
+
+<span class="returntype">void</span> <span class="name">onProgress</span>(<wbr></wbr>
+
+1.  <span id="sdk-for-flutter-navigate-onProgress-param-percentage" class="parameter"><span class="type-annotation">int</span> <span class="parameter-name">percentage</span></span>
+
+)
+
+</div>
+
+<div class="section desc markdown">
+
+Called multiple times to indicate the progress of index creation or deletion.
+
+Invoked on the main thread.
+
+- `percentage` Represents a percentage of work done.
+
+</div>
+
+## Implementation
+
+``` dart
+void onProgress(int percentage);
+```
+
+</pre>
+
+</div>
+
+<!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
+

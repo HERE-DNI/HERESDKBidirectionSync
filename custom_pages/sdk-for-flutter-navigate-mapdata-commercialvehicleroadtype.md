@@ -1,0 +1,132 @@
+---
+title: "CommercialVehicleRoadType enum - mapdata library - Dart API"
+slug: "sdk-for-flutter-navigate-mapdata-commercialvehicleroadtype"
+---
+
+<div id="sdk-for-flutter-navigate-overlay-under-drawer">
+
+</div>
+
+<div id="sdk-for-flutter-navigate-dartdoc-main-content" class="main-content" data-above-sidebar="mapdata/mapdata-library-sidebar.html" data-below-sidebar="mapdata/CommercialVehicleRoadType-enum-sidebar.html">
+
+<div>
+
+# <span class="kind-enum">CommercialVehicleRoadType</span> enum
+
+</div>
+
+<div class="section desc markdown">
+
+Concise description of road type used in commercial vehicle regulations.
+
+**Note:** This is a beta release of this feature, so there could be a few bugs and unexpected behaviors. Related APIs may change for new releases without a deprecation process.
+
+</div>
+
+## Values
+
+<span class="name">highway</span> <span class="signature">→ const <a href="sdk-for-flutter-navigate-mapdata-commercialvehicleroadtype">CommercialVehicleRoadType</a></span>  
+Highway road type.
+
+<span class="name">motorway</span> <span class="signature">→ const <a href="sdk-for-flutter-navigate-mapdata-commercialvehicleroadtype">CommercialVehicleRoadType</a></span>  
+Motorway road type.
+
+<span class="name">nonMotorway</span> <span class="signature">→ const <a href="sdk-for-flutter-navigate-mapdata-commercialvehicleroadtype">CommercialVehicleRoadType</a></span>  
+Non-motorway road type.
+
+<span class="name">motorisedVehiclesOnly</span> <span class="signature">→ const <a href="sdk-for-flutter-navigate-mapdata-commercialvehicleroadtype">CommercialVehicleRoadType</a></span>  
+Roads restricted to motorised vehicles only.
+
+<span class="name">singleCarriageway</span> <span class="signature">→ const <a href="sdk-for-flutter-navigate-mapdata-commercialvehicleroadtype">CommercialVehicleRoadType</a></span>  
+Single carriageway road.
+
+<span class="name">dualCarriageway</span> <span class="signature">→ const <a href="sdk-for-flutter-navigate-mapdata-commercialvehicleroadtype">CommercialVehicleRoadType</a></span>  
+Dual carriageway road.
+
+<span class="name">expressRoad</span> <span class="signature">→ const <a href="sdk-for-flutter-navigate-mapdata-commercialvehicleroadtype">CommercialVehicleRoadType</a></span>  
+Express road.
+
+<span class="name">expressway</span> <span class="signature">→ const <a href="sdk-for-flutter-navigate-mapdata-commercialvehicleroadtype">CommercialVehicleRoadType</a></span>  
+Expressway.
+
+<span class="name">freeway</span> <span class="signature">→ const <a href="sdk-for-flutter-navigate-mapdata-commercialvehicleroadtype">CommercialVehicleRoadType</a></span>  
+Freeway.
+
+<span class="name">interstate</span> <span class="signature">→ const <a href="sdk-for-flutter-navigate-mapdata-commercialvehicleroadtype">CommercialVehicleRoadType</a></span>  
+Interstate highway.
+
+<span class="name">limitedAccess</span> <span class="signature">→ const <a href="sdk-for-flutter-navigate-mapdata-commercialvehicleroadtype">CommercialVehicleRoadType</a></span>  
+Limited access road.
+
+<span class="name">other</span> <span class="signature">→ const <a href="sdk-for-flutter-navigate-mapdata-commercialvehicleroadtype">CommercialVehicleRoadType</a></span>  
+Other road type not covered by specific categories.
+
+## Properties
+
+<span class="name"><a href="sdk-for-flutter-navigate-mapdata-commercialvehicleroadtype-hashcode">hashCode</a></span> <span class="signature">→ int</span>  
+The hash code for this object.
+
+<div class="features">
+
+<span class="feature">no setter</span><span class="feature">inherited</span>
+
+</div>
+
+<span class="name"><a href="sdk-for-flutter-navigate-mapdata-commercialvehicleroadtype-index">index</a></span> <span class="signature">→ int</span>  
+A numeric identifier for the enumerated value.
+
+<div class="features">
+
+<span class="feature">no setter</span><span class="feature">inherited</span>
+
+</div>
+
+<span class="name"><a href="sdk-for-flutter-navigate-mapdata-commercialvehicleroadtype-runtimetype">runtimeType</a></span> <span class="signature">→ Type</span>  
+A representation of the runtime type of the object.
+
+<div class="features">
+
+<span class="feature">no setter</span><span class="feature">inherited</span>
+
+</div>
+
+## Methods
+
+<span class="name"><a href="sdk-for-flutter-navigate-mapdata-commercialvehicleroadtype-nosuchmethod">noSuchMethod</a></span><span class="signature">(<wbr></wbr><span id="sdk-for-flutter-navigate-noSuchMethod-param-invocation" class="parameter"><span class="type-annotation">Invocation</span> <span class="parameter-name">invocation</span></span>) <span class="returntype parameter">→ dynamic</span> </span>  
+Invoked when a nonexistent method or property is accessed.
+
+<div class="features">
+
+<span class="feature">inherited</span>
+
+</div>
+
+<span class="name"><a href="sdk-for-flutter-navigate-mapdata-commercialvehicleroadtype-tostring">toString</a></span><span class="signature">(<wbr></wbr>) <span class="returntype parameter">→ String</span> </span>  
+A string representation of this object.
+
+<div class="features">
+
+<span class="feature">inherited</span>
+
+</div>
+
+## Operators
+
+<span class="name"><a href="sdk-for-flutter-navigate-mapdata-commercialvehicleroadtype-operator_equals">operator ==</a></span><span class="signature">(<wbr></wbr><span id="sdk-for-flutter-navigate-param-other" class="parameter"><span class="type-annotation">Object</span> <span class="parameter-name">other</span></span>) <span class="returntype parameter">→ bool</span> </span>  
+The equality operator.
+
+<div class="features">
+
+<span class="feature">inherited</span>
+
+</div>
+
+## Constants
+
+<span class="name"><a href="sdk-for-flutter-navigate-mapdata-commercialvehicleroadtype-values-constant">values</a></span> <span class="signature">→ const List<span class="signature">\<<wbr></wbr><span class="type-parameter"><a href="sdk-for-flutter-navigate-mapdata-commercialvehicleroadtype">CommercialVehicleRoadType</a></span>\></span></span>  
+A constant List of the values in this enum, in order of their declaration.
+
+</div>
+
+<!-- /.main-content --> <!-- /.sidebar-offcanvas --> <span class="no-break"> here_sdk 4.26.0 </span>
+

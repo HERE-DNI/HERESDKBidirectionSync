@@ -1,0 +1,55 @@
+---
+title: "GeoCoordinates.withAltitude constructor - GeoCoordinates - core library - Dart API"
+slug: "sdk-for-flutter-navigate-core-geocoordinates-geocoordinates-withaltitude"
+---
+
+<div id="sdk-for-flutter-navigate-overlay-under-drawer">
+
+</div>
+
+<div id="sdk-for-flutter-navigate-dartdoc-main-content" class="main-content" data-above-sidebar="core/GeoCoordinates-class-sidebar.html" data-below-sidebar="">
+
+<div>
+
+# <span class="kind-constructor">GeoCoordinates.withAltitude</span> constructor
+
+</div>
+
+<div class="section multi-line-signature">
+
+<span class="name">GeoCoordinates.withAltitude</span>(<wbr></wbr>
+
+1.  <span id="sdk-for-flutter-navigate-withAltitude-param-latitude" class="parameter"><span class="type-annotation">double</span> <span class="parameter-name">latitude</span>, </span>
+2.  <span id="sdk-for-flutter-navigate-withAltitude-param-longitude" class="parameter"><span class="type-annotation">double</span> <span class="parameter-name">longitude</span>, </span>
+3.  <span id="sdk-for-flutter-navigate-withAltitude-param-altitude" class="parameter"><span class="type-annotation">double</span> <span class="parameter-name">altitude</span></span>
+
+)
+
+</div>
+
+<div class="section desc markdown">
+
+Constructs a GeoCoordinates from the provided latitude, longitude and altitude values.
+
+Corrects values of lat and long if they exceed the ranges.
+
+- `latitude` Latitude in degrees. Positive value means Northern hemisphere. If the value is out of range of \[-90.0, 90.0\] it's clamped to that range. NaN value is converted to 0.0.
+
+- `longitude` Longitude in degrees. Positive value means Eastern hemisphere. If the value is out of range of \[-180.0, 180.0\] it's replaced with a value within the range, representing effectively the same meridian. NaN value is converted to 0.0.
+
+- `altitude` Altitude in meters. NaN value is converted to `null`.
+
+</div>
+
+## Implementation
+
+``` dart
+factory GeoCoordinates.withAltitude(double latitude, double longitude, double altitude) => $prototype.withAltitude(latitude, longitude, altitude);
+```
+
+</pre>
+
+</div>
+
+<!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
+
