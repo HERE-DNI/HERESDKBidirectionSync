@@ -1,0 +1,56 @@
+---
+title: "RoutingEngine.withConnectionSettings constructor - RoutingEngine - routing library - Dart API"
+slug: "sdk-for-flutter-navigate-routing-routingengine-routingengine-withconnectionsettings"
+---
+
+<HTMLBlock>{
+`
+<div class="sdk-for-flutter">
+<!-- RoutingEngine.withConnectionSettings.html -->
+<div id="sdk-for-flutter-navigate-overlay-under-drawer">
+
+</div>
+
+<div id="sdk-for-flutter-navigate-dartdoc-main-content" class="main-content" data-above-sidebar="routing/RoutingEngine-class-sidebar.html" data-below-sidebar="">
+
+<div>
+
+# <span class="kind-constructor">RoutingEngine.withConnectionSettings</span> constructor
+
+</div>
+
+<div class="section multi-line-signature">
+
+<span class="name">RoutingEngine.withConnectionSettings</span>(<wbr></wbr>
+
+1.  <span id="sdk-for-flutter-navigate-withConnectionSettings-param-connectionSettings" class="parameter"><span class="type-annotation"><a href="sdk-for-flutter-navigate-routing-routingconnectionsettings-class">RoutingConnectionSettings</a></span> <span class="parameter-name">connectionSettings</span></span>
+
+)
+
+</div>
+
+<div class="section desc markdown">
+
+Creates a new instance of RoutingEngine.
+
+- `connectionSettings` Settings for the route calculation.
+
+Throws <a href="sdk-for-flutter-navigate-core-errors-instantiationexception-class">InstantiationException</a>. Indicates what went wrong when the instantiation was attempted.
+
+</div>
+
+## Implementation
+
+``` dart
+factory RoutingEngine.withConnectionSettings(RoutingConnectionSettings connectionSettings) => $prototype.withConnectionSettings(connectionSettings);
+```
+
+</pre>
+
+</div>
+
+<!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
+
+</div>
+`
+}</HTMLBlock>

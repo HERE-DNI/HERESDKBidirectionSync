@@ -1,0 +1,50 @@
+---
+title: "polygons property - PickMapItemsResult class - mapview library - Dart API"
+slug: "sdk-for-flutter-navigate-mapview-pickmapitemsresult-polygons"
+---
+
+<HTMLBlock>{
+`
+<div class="sdk-for-flutter">
+<!-- polygons.html -->
+<div id="sdk-for-flutter-navigate-overlay-under-drawer">
+
+</div>
+
+<div id="sdk-for-flutter-navigate-dartdoc-main-content" class="main-content" data-above-sidebar="mapview/PickMapItemsResult-class-sidebar.html" data-below-sidebar="">
+
+<div>
+
+# <span class="kind-property">polygons</span> property
+
+</div>
+
+<div id="sdk-for-flutter-navigate-getter" class="section">
+
+<div class="section multi-line-signature">
+
+<span class="returntype">List<span class="signature">\<<wbr></wbr><span class="type-parameter"><a href="sdk-for-flutter-navigate-mapview-mappolygon-class">MapPolygon</a></span>\></span></span> <span class="name">polygons</span>
+
+</div>
+
+<div class="section desc markdown">
+
+List of polygons at the location of picking. Gets list of polygons at the location of picking.
+
+</div>
+
+## Implementation
+
+``` dart
+List<MapPolygon> get polygons;
+```
+
+</div>
+
+</div>
+
+<!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
+
+</div>
+`
+}</HTMLBlock>

@@ -9,3 +9,5 @@ iOS Explore: <Anchor target="_blank" href="sdk-for-ios-explore-index">iOS Explor
 iOS Navigate: <Anchor target="_blank" href="sdk-for-ios-navigate-index">iOS Navigate API Reference</Anchor>
 
 Flutter Explore: <Anchor target="_blank" href="sdk-for-flutter-explore-index">Flutter Explore API Reference</Anchor>
+
+Flutter Navigate: <Anchor target="_blank" href="sdk-for-flutter-navigate-index">Flutter Navigate API Reference</Anchor>

@@ -1,0 +1,50 @@
+---
+title: "parentGeometry property - VenueGeometry class - venue.data library - Dart API"
+slug: "sdk-for-flutter-navigate-venue.data-venuegeometry-parentgeometry"
+---
+
+<HTMLBlock>{
+`
+<div class="sdk-for-flutter">
+<!-- parentGeometry.html -->
+<div id="sdk-for-flutter-navigate-overlay-under-drawer">
+
+</div>
+
+<div id="sdk-for-flutter-navigate-dartdoc-main-content" class="main-content" data-above-sidebar="venue.data/VenueGeometry-class-sidebar.html" data-below-sidebar="">
+
+<div>
+
+# <span class="kind-property">parentGeometry</span> property
+
+</div>
+
+<div id="sdk-for-flutter-navigate-getter" class="section">
+
+<div class="section multi-line-signature">
+
+<span class="returntype"><a href="sdk-for-flutter-navigate-venue-data-venuegeometry-class">VenueGeometry</a></span> <span class="name">parentGeometry</span>
+
+</div>
+
+<div class="section desc markdown">
+
+The parent geometry. Defaults to `null`, if the geometry represents a base shape. Gets a parent geometry on which the current geometry is located.
+
+</div>
+
+## Implementation
+
+``` dart
+VenueGeometry get parentGeometry;
+```
+
+</div>
+
+</div>
+
+<!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
+
+</div>
+`
+}</HTMLBlock>

@@ -1,0 +1,62 @@
+---
+title: "enableFeatures method - MapScene class - mapview library - Dart API"
+slug: "sdk-for-flutter-navigate-mapview-mapscene-enablefeatures"
+---
+
+<HTMLBlock>{
+`
+<div class="sdk-for-flutter">
+<!-- enableFeatures.html -->
+<div id="sdk-for-flutter-navigate-overlay-under-drawer">
+
+</div>
+
+<div id="sdk-for-flutter-navigate-dartdoc-main-content" class="main-content" data-above-sidebar="mapview/MapScene-class-sidebar.html" data-below-sidebar="">
+
+<div>
+
+# <span class="kind-method">enableFeatures</span> abstract method
+
+</div>
+
+<div class="section multi-line-signature">
+
+<span class="returntype">void</span> <span class="name">enableFeatures</span>(<wbr></wbr>
+
+1.  <span id="sdk-for-flutter-navigate-enableFeatures-param-features" class="parameter"><span class="type-annotation">Map<span class="signature">\<<wbr></wbr><span class="type-parameter">String</span>, <span class="type-parameter">String</span>\></span></span> <span class="parameter-name">features</span></span>
+
+)
+
+</div>
+
+<div class="section desc markdown">
+
+Enables specified map features.
+
+Those will become active after next map redraw, meaning that <a href="sdk-for-flutter-navigate-mapview-mapscene-getactivefeatures">MapScene.getActiveFeatures</a> will return updated list of active features only after the redraw happens.
+
+Does not affect features that were not specified. Unsupported features are ignored.
+
+May cause the current map configuration to be reloaded.
+
+See <a href="sdk-for-flutter-navigate-mapview-mapfeatures-class">MapFeatures</a> for feature names and <a href="sdk-for-flutter-navigate-mapview-mapfeaturemodes-class">MapFeatureModes</a> for feature mode names.
+
+- `features` The list of features to enable, key is the name of the feature (see <a href="sdk-for-flutter-navigate-mapview-mapfeatures-class">MapFeatures</a>), value specifies its mode (see <a href="sdk-for-flutter-navigate-mapview-mapfeaturemodes-class">MapFeatureModes</a>).
+
+</div>
+
+## Implementation
+
+``` dart
+void enableFeatures(Map<String, String> features);
+```
+
+</pre>
+
+</div>
+
+<!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
+
+</div>
+`
+}</HTMLBlock>

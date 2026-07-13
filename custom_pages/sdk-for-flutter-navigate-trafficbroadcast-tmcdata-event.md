@@ -1,0 +1,52 @@
+---
+title: "event property - TMCData class - trafficbroadcast library - Dart API"
+slug: "sdk-for-flutter-navigate-trafficbroadcast-tmcdata-event"
+---
+
+<HTMLBlock>{
+`
+<div class="sdk-for-flutter">
+<!-- event.html -->
+<div id="sdk-for-flutter-navigate-overlay-under-drawer">
+
+</div>
+
+<div id="sdk-for-flutter-navigate-dartdoc-main-content" class="main-content" data-above-sidebar="trafficbroadcast/TMCData-class-sidebar.html" data-below-sidebar="">
+
+<div>
+
+# <span class="kind-property">event</span> property
+
+</div>
+
+<div class="section multi-line-signature">
+
+int <span class="name">event</span>
+
+<div class="features">
+
+<span class="feature">getter/setter pair</span>
+
+</div>
+
+</div>
+
+<div class="section desc markdown">
+
+Traffic event data.
+
+</div>
+
+## Implementation
+
+``` dart
+int event;
+```
+
+</div>
+
+<!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
+
+</div>
+`
+}</HTMLBlock>

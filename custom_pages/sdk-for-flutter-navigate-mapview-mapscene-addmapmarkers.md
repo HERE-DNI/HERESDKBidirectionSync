@@ -1,0 +1,58 @@
+---
+title: "addMapMarkers method - MapScene class - mapview library - Dart API"
+slug: "sdk-for-flutter-navigate-mapview-mapscene-addmapmarkers"
+---
+
+<HTMLBlock>{
+`
+<div class="sdk-for-flutter">
+<!-- addMapMarkers.html -->
+<div id="sdk-for-flutter-navigate-overlay-under-drawer">
+
+</div>
+
+<div id="sdk-for-flutter-navigate-dartdoc-main-content" class="main-content" data-above-sidebar="mapview/MapScene-class-sidebar.html" data-below-sidebar="">
+
+<div>
+
+# <span class="kind-method">addMapMarkers</span> abstract method
+
+</div>
+
+<div class="section multi-line-signature">
+
+<span class="returntype">void</span> <span class="name">addMapMarkers</span>(<wbr></wbr>
+
+1.  <span id="sdk-for-flutter-navigate-addMapMarkers-param-markers" class="parameter"><span class="type-annotation">List<span class="signature">\<<wbr></wbr><span class="type-parameter"><a href="sdk-for-flutter-navigate-mapview-mapmarker-class">MapMarker</a></span>\></span></span> <span class="parameter-name">markers</span></span>
+
+)
+
+</div>
+
+<div class="section desc markdown">
+
+Adds multiple map markers to this map scene.
+
+Adding the same marker instances multiple times has no effect. Adding markers that are already part of a map marker cluster has no effect.
+
+**Note:** Due to technical limitations using the MapMarkers API to add a very large number of markers (several thousands, especially 10000+) is not recommended. Adding this many markers will have a negative impact on the performance leading to stuttering of the app and lower frame rates. To work around this limitation add only map items which are in the current camera viewport. A guide on how to achieve this can be found towards the end of the <a href="sdk-for-flutter-navigate-mapview-mapscene-class">MapScene</a> class doc.
+
+- `markers` The list of markers to be added to this map scene.
+
+</div>
+
+## Implementation
+
+``` dart
+void addMapMarkers(List<MapMarker> markers);
+```
+
+</pre>
+
+</div>
+
+<!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
+
+</div>
+`
+}</HTMLBlock>

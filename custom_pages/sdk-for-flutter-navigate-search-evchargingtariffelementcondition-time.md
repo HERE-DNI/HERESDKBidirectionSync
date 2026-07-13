@@ -1,0 +1,52 @@
+---
+title: "time property - EVChargingTariffElementCondition class - search library - Dart API"
+slug: "sdk-for-flutter-navigate-search-evchargingtariffelementcondition-time"
+---
+
+<HTMLBlock>{
+`
+<div class="sdk-for-flutter">
+<!-- time.html -->
+<div id="sdk-for-flutter-navigate-overlay-under-drawer">
+
+</div>
+
+<div id="sdk-for-flutter-navigate-dartdoc-main-content" class="main-content" data-above-sidebar="search/EVChargingTariffElementCondition-class-sidebar.html" data-below-sidebar="">
+
+<div>
+
+# <span class="kind-property">time</span> property
+
+</div>
+
+<div class="section multi-line-signature">
+
+<a href="sdk-for-flutter-navigate-search-timeofdayrange-class">TimeOfDayRange</a>? <span class="name">time</span>
+
+<div class="features">
+
+<span class="feature">getter/setter pair</span>
+
+</div>
+
+</div>
+
+<div class="section desc markdown">
+
+Time period when the tariff element is valid, in local time. The time period wraps around to the next day, when end time of the period <a href="sdk-for-flutter-navigate-search-timeofdayrange-to">TimeOfDayRange.to</a> is smaller than the beginning <a href="sdk-for-flutter-navigate-search-timeofdayrange-from">TimeOfDayRange.from</a>.
+
+</div>
+
+## Implementation
+
+``` dart
+TimeOfDayRange? time;
+```
+
+</div>
+
+<!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
+
+</div>
+`
+}</HTMLBlock>
