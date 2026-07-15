@@ -1,0 +1,329 @@
+---
+title: "IndoorWaypoint Class Reference"
+slug: "sdk-for-ios-navigate-classes-indoorwaypoint"
+---
+
+# IndoorWaypoint
+
+<div class="declaration">
+
+<div class="language">
+
+``` highlight
+public class IndoorWaypoint
+```
+
+``` highlight
+extension IndoorWaypoint: NativeBase
+```
+
+``` highlight
+extension IndoorWaypoint: Hashable
+```
+
+</div>
+
+</div>
+
+Represents an indoor waypoint, used as input for indoor route calculation.
+
+</div>
+
+<div class="section section task-group-section">
+
+<div class="task-group">
+
+- <div>
+
+      init(coordinates: venueId: levelId: )
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  Creates an indoor waypoint.
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  public init ( coordinates : GeoCoordinates , venueId : String , levelId : String )
+  ```
+
+  </pre>
+
+  </div>
+
+  </div>
+
+  <div>
+
+  #### Parameters
+
+  <table class="graybox">
+  <colgroup>
+  <col style="width: 50%" />
+  <col style="width: 50%" />
+  </colgroup>
+  <tbody>
+  <tr>
+  <td><code> </code><em><code>coordinates</code></em><code> </code></td>
+  <td><div>
+  <p>A waypoint’s geographic coordinates.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>venueId</code></em><code> </code></td>
+  <td><div>
+  <p>An ID of the venue where the waypoint is located.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>levelId</code></em><code> </code></td>
+  <td><div>
+  <p>An ID of the level where the waypoint is located</p>
+  </div></td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+      init(coordinates: )
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  Creates an outdoor waypoint.
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  public init ( coordinates : GeoCoordinates )
+  ```
+
+  </pre>
+
+  </div>
+
+  </div>
+
+  <div>
+
+  #### Parameters
+
+  <table class="graybox">
+  <colgroup>
+  <col style="width: 50%" />
+  <col style="width: 50%" />
+  </colgroup>
+  <tbody>
+  <tr>
+  <td><code> </code><em><code>coordinates</code></em><code> </code></td>
+  <td><div>
+  <p>A waypoint’s geographic coordinates.</p>
+  </div></td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+  ` `<span id="/s:7heresdk14IndoorWaypointC11coordinatesAA14GeoCoordinatesVvp"></span>` `<span id="//apple_ref/swift/Property/coordinates" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-indoorwaypoint#/s:7heresdk14IndoorWaypointC11coordinatesAA14GeoCoordinatesVvp" class="token"><code>coordinates</code></a>` `
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  The waypoint’s geographic coordinates.
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  public var coordinates: GeoCoordinates { get }
+  ```
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+  ` `<span id="/s:7heresdk14IndoorWaypointC7venueIdSSSgvp"></span>` `<span id="//apple_ref/swift/Property/venueId" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-indoorwaypoint#/s:7heresdk14IndoorWaypointC7venueIdSSSgvp" class="token"><code>venueId</code></a>` `
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  The ID of the venue where the waypoint is located, if applicable.
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  public var venueId: String? { get }
+  ```
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+  ` `<span id="/s:7heresdk14IndoorWaypointC7levelIdSSSgvp"></span>` `<span id="//apple_ref/swift/Property/levelId" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-indoorwaypoint#/s:7heresdk14IndoorWaypointC7levelIdSSSgvp" class="token"><code>levelId</code></a>` `
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  The ID of the level where the waypoint is located, if applicable.
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  public var levelId: String? { get }
+  ```
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="sdk-for-ios-navigate-footer" class="section">
+
+© 2026 . All rights reserved. (Last updated: 2026-04-14)
+
+Generated by <a href="https://github.com/realm/jazzy" class="link" rel="external noopener" target="_blank">jazzy ♪♫ v0.15.2</a>, a <a href="https://realm.io" class="link" rel="external noopener" target="_blank">Realm</a> project.
+
+</div>
+
+</article>
+

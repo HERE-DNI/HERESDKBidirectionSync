@@ -1,0 +1,560 @@
+---
+title: "TrafficBroadcast Class Reference"
+slug: "sdk-for-ios-navigate-classes-trafficbroadcast"
+---
+
+# TrafficBroadcast
+
+<div class="declaration">
+
+<div class="language">
+
+``` highlight
+public class TrafficBroadcast : LocationDelegate
+```
+
+``` highlight
+extension TrafficBroadcast: NativeBase
+```
+
+``` highlight
+extension TrafficBroadcast: Hashable
+```
+
+</div>
+
+</div>
+
+A `TrafficBroadcast` is expecting the <a href="https://en.wikipedia.org/wiki/Traffic_message_channel">RDS-TMC</a> format and it can be used when there is no internet connection, so that the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`OfflineRoutingEngine`</a> can utilize traffic data coming over a radio channel. The
+
+    TrafficBroadcast.activate(...)
+
+method needs to be called to receive traffic data events.
+</p>
+
+**Note:** In order to adopt the <a href="sdk-for-ios-navigate-traffic#/s:7heresdk19TrafficDataProviderC">`TrafficDataProvider`</a> interface special hardware is required. Talk to your HERE representative for more details. Only by adopting the <a href="sdk-for-ios-navigate-traffic#/s:7heresdk19TrafficDataProviderC">`TrafficDataProvider`</a> interface you can integrate radio station signals providing traffic broadcasts. Traffic broadcasts are meant to be used *independently* from the already included traffic on routes, on the map and from the HERE backends (when using the <a href="sdk-for-ios-navigate-classes-trafficengine">`TrafficEngine`</a>).
+
+This class continuously reacts to new locations provided from a location source and acts as a <a href="sdk-for-ios-navigate-protocols-locationdelegate">`LocationDelegate`</a>. The location must be updated regardless of calling
+
+    TrafficBroadcast.activate(...)
+
+.
+</p>
+
+**Note:** This is a beta release of this feature, so there could be a few bugs and unexpected behaviors. Related APIs may change for new releases without a deprecation process.
+
+</div>
+
+<div class="section section task-group-section">
+
+<div class="task-group">
+
+- <div>
+
+      init(parameters: )
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  Creates a new instance of this class.
+
+  <div class="aside aside-throws">
+
+  Throws
+
+  <a href="sdk-for-ios-navigate-core#/s:7heresdk18InstantiationErrora">`InstantiationError`</a> when the object was not initialized properly.
+
+  </div>
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  public init ( parameters : TrafficBroadcastParameters ) throws
+  ```
+
+  </pre>
+
+  </div>
+
+  </div>
+
+  <div>
+
+  #### Parameters
+
+  <table class="graybox">
+  <colgroup>
+  <col style="width: 50%" />
+  <col style="width: 50%" />
+  </colgroup>
+  <tbody>
+  <tr>
+  <td><code> </code><em><code>parameters</code></em><code> </code></td>
+  <td><div>
+  <p>The necessary parameters to start traffic broadcast.</p>
+  </div></td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+      init(_: parameters: )
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  Creates a new instance of this class.
+
+  <div class="aside aside-throws">
+
+  Throws
+
+  <a href="sdk-for-ios-navigate-core#/s:7heresdk18InstantiationErrora">`InstantiationError`</a> when the object was not initialized properly.
+
+  </div>
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  public init ( _ sdkEngine : SDKNativeEngine , parameters : TrafficBroadcastParameters ) throws
+  ```
+
+  </pre>
+
+  </div>
+
+  </div>
+
+  <div>
+
+  #### Parameters
+
+  <table class="graybox">
+  <colgroup>
+  <col style="width: 50%" />
+  <col style="width: 50%" />
+  </colgroup>
+  <tbody>
+  <tr>
+  <td><code> </code><em><code>sdkEngine</code></em><code> </code></td>
+  <td><div>
+  <p>Instance of an existing SDKEngine.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>parameters</code></em><code> </code></td>
+  <td><div>
+  <p>The necessary parameters to start traffic broadcast.</p>
+  </div></td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+  ` `<span id="/s:7heresdk16TrafficBroadcastC19trafficDataProviderAA0beF0CSgvp"></span>` `<span id="//apple_ref/swift/Property/trafficDataProvider" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-trafficbroadcast#/s:7heresdk16TrafficBroadcastC19trafficDataProviderAA0beF0CSgvp" class="token"><code>trafficDataProvider</code></a>` `
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  The traffic data provider that provides the traffic information.
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  public var trafficDataProvider: TrafficDataProvider? { get }
+  ```
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+      onLocationUpdated(_: )
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  Called each time a new location is available. In a navigation context while using the <a href="sdk-for-ios-navigate-classes-navigator">`Navigator`</a> or <a href="sdk-for-ios-navigate-classes-visualnavigator">`VisualNavigator`</a>, it’s required to set the <a href="sdk-for-ios-navigate-structs-location#/s:7heresdk8LocationV4time10Foundation4DateVSgvp">`Location.time`</a> parameter for each <a href="sdk-for-ios-navigate-structs-location">`Location`</a> object so that the HERE SDK can map-match the locations properly. If the <a href="sdk-for-ios-navigate-structs-location#/s:7heresdk8LocationV4time10Foundation4DateVSgvp">`Location.time`</a> parameter is missing, the location will be ignored. For navigation, it is also recommended to provide the `bearing` and `speed` parameters for each <a href="sdk-for-ios-navigate-structs-location">`Location`</a> object. Invoked on the main thread.
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  public func onLocationUpdated ( _ location : Location )
+  ```
+
+  </pre>
+
+  </div>
+
+  </div>
+
+  <div>
+
+  #### Parameters
+
+  <table class="graybox">
+  <colgroup>
+  <col style="width: 50%" />
+  <col style="width: 50%" />
+  </colgroup>
+  <tbody>
+  <tr>
+  <td><code> </code><em><code>location</code></em><code> </code></td>
+  <td><div>
+  <p>Current location.</p>
+  </div></td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+      activate()
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  Activates the reception of traffic data over the radio channel. This method is supposed to be called when the system loses internet connection, so that traffic data can be switched from the online source to the radio channel. When activation is done, requestTMCService is called from TMCServiceInterface
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  public func activate ()
+  ```
+
+  </pre>
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+      deactivate()
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  Deactivates the reception of traffic data over the radio channel. When deactivation is done, requestTMCService is called from TMCServiceInterface With special case of countryCode parameter = 0
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  public func deactivate ()
+  ```
+
+  </pre>
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+      onTMCServiceProviderInfoUpdated(tmcServiceProdiverInfo: )
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  Must be called on every TMC service prodiver info update.
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  public func onTMCServiceProviderInfoUpdated ( tmcServiceProdiverInfo : TMCServiceProviderInfo )
+  ```
+
+  </pre>
+
+  </div>
+
+  </div>
+
+  <div>
+
+  #### Parameters
+
+  <table class="graybox">
+  <colgroup>
+  <col style="width: 50%" />
+  <col style="width: 50%" />
+  </colgroup>
+  <tbody>
+  <tr>
+  <td><code> </code><em><code>tmcServiceProdiverInfo</code></em><code> </code></td>
+  <td><div>
+  <p>Contains service prodiver info in RDS-TMC format.</p>
+  </div></td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+      onTMCDataUpdated(tmcData: )
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  Must be called on every TMC data update.
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  public func onTMCDataUpdated ( tmcData : TMCData )
+  ```
+
+  </pre>
+
+  </div>
+
+  </div>
+
+  <div>
+
+  #### Parameters
+
+  <table class="graybox">
+  <colgroup>
+  <col style="width: 50%" />
+  <col style="width: 50%" />
+  </colgroup>
+  <tbody>
+  <tr>
+  <td><code> </code><em><code>tmcData</code></em><code> </code></td>
+  <td><div>
+  <p>Contains the traffic events in RDS-TMC format.</p>
+  </div></td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+  </div>
+
+  </div>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="sdk-for-ios-navigate-footer" class="section">
+
+© 2026 . All rights reserved. (Last updated: 2026-04-14)
+
+Generated by <a href="https://github.com/realm/jazzy" class="link" rel="external noopener" target="_blank">jazzy ♪♫ v0.15.2</a>, a <a href="https://realm.io" class="link" rel="external noopener" target="_blank">Realm</a> project.
+
+</div>
+
+</article>
+

@@ -1,0 +1,265 @@
+---
+title: "TrafficLocation Structure Reference"
+slug: "sdk-for-ios-navigate-structs-trafficlocation"
+---
+
+# TrafficLocation
+
+<div class="declaration">
+
+<div class="language">
+
+``` highlight
+public struct TrafficLocation : Hashable
+```
+
+</div>
+
+</div>
+
+The location reference to the traffic incident.
+
+</div>
+
+<div class="section section task-group-section">
+
+<div class="task-group">
+
+- <div>
+
+  ` `<span id="/s:7heresdk15TrafficLocationV11descriptionSSvp"></span>` `<span id="//apple_ref/swift/Property/description" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-trafficlocation#/s:7heresdk15TrafficLocationV11descriptionSSvp" class="token"><code>description</code></a>` `
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  The description of the location. In general, the language can’t be bound to the description. Usually, the language is one of the local languages of the incident region. Note: A localizable description of the incident is part of `description`. This description describes only the location where the incident occurred. Defaults to an empty string.
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  public var description: String
+  ```
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+  ` `<span id="/s:7heresdk15TrafficLocationV8polylineAA11GeoPolylineVvp"></span>` `<span id="//apple_ref/swift/Property/polyline" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-trafficlocation#/s:7heresdk15TrafficLocationV8polylineAA11GeoPolylineVvp" class="token"><code>polyline</code></a>` `
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  The polyline representing the traffic entity shape. The current field contains a continuous polyline with no gaps between geo-coordinates. All others following the gap are present in the `additional_polylines` field.
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  public var polyline: GeoPolyline
+  ```
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+  ` `<span id="/s:7heresdk15TrafficLocationV19additionalPolylinesSayAA11GeoPolylineVGvp"></span>` `<span id="//apple_ref/swift/Property/additionalPolylines" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-trafficlocation#/s:7heresdk15TrafficLocationV19additionalPolylinesSayAA11GeoPolylineVGvp" class="token"><code>additionalPolylines</code></a>` `
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  List of polylines that were not included in continuous polyline. Use this to fill any gaps in the continuous polyline.
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  public var additionalPolylines: [GeoPolyline]
+  ```
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+  ` `<span id="/s:7heresdk15TrafficLocationV14lengthInMeterss5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/lengthInMeters" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-trafficlocation#/s:7heresdk15TrafficLocationV14lengthInMeterss5Int32Vvp" class="token"><code>lengthInMeters</code></a>` `
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  The affected road length in meters. The length can be 0 only if the incident supplier has provided incomplete data.
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  public var lengthInMeters: Int32
+  ```
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+      init(description: polyline: additionalPolylines: lengthInMeters: )
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  Creates a new instance.
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  public init ( description : String = "" , polyline : GeoPolyline , additionalPolylines : [ GeoPolyline ], lengthInMeters : Int32 )
+  ```
+
+  </pre>
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="sdk-for-ios-navigate-footer" class="section">
+
+© 2026 . All rights reserved. (Last updated: 2026-04-14)
+
+Generated by <a href="https://github.com/realm/jazzy" class="link" rel="external noopener" target="_blank">jazzy ♪♫ v0.15.2</a>, a <a href="https://realm.io" class="link" rel="external noopener" target="_blank">Realm</a> project.
+
+</div>
+
+</article>
+

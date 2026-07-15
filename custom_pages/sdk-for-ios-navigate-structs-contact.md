@@ -1,0 +1,311 @@
+---
+title: "Contact Structure Reference"
+slug: "sdk-for-ios-navigate-structs-contact"
+---
+
+# Contact
+
+<div class="declaration">
+
+<div class="language">
+
+``` highlight
+public struct Contact : Hashable
+```
+
+</div>
+
+</div>
+
+Represents contact information.
+
+</div>
+
+<div class="section section task-group-section">
+
+<div class="task-group">
+
+- <div>
+
+  ` `<span id="/s:7heresdk7ContactV14landlinePhonesSayAA13LandlinePhoneVGvp"></span>` `<span id="//apple_ref/swift/Property/landlinePhones" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-contact#/s:7heresdk7ContactV14landlinePhonesSayAA13LandlinePhoneVGvp" class="token"><code>landlinePhones</code></a>` `
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  The list of landline phone numbers with associated categories. This data is not available in offline search.
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  public var landlinePhones: [LandlinePhone]
+  ```
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+  ` `<span id="/s:7heresdk7ContactV12mobilePhonesSayAA11MobilePhoneVGvp"></span>` `<span id="//apple_ref/swift/Property/mobilePhones" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-contact#/s:7heresdk7ContactV12mobilePhonesSayAA11MobilePhoneVGvp" class="token"><code>mobilePhones</code></a>` `
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  The list of mobile phones numbers with associated categories. This data is not available in offline search.
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  public var mobilePhones: [MobilePhone]
+  ```
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+  ` `<span id="/s:7heresdk7ContactV6emailsSayAA12EmailAddressVGvp"></span>` `<span id="//apple_ref/swift/Property/emails" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-contact#/s:7heresdk7ContactV6emailsSayAA12EmailAddressVGvp" class="token"><code>emails</code></a>` `
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  The list of email addresses with associated categories. This data is not available in offline search.
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  public var emails: [EmailAddress]
+  ```
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+  ` `<span id="/s:7heresdk7ContactV8websitesSayAA14WebsiteAddressVGvp"></span>` `<span id="//apple_ref/swift/Property/websites" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-contact#/s:7heresdk7ContactV8websitesSayAA14WebsiteAddressVGvp" class="token"><code>websites</code></a>` `
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  The list of website addresses with associated categories. This data is not available in offline search.
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  public var websites: [WebsiteAddress]
+  ```
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+      init()
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  Creates a new instance.
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  public init ()
+  ```
+
+  </pre>
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+      init(landlinePhones: mobilePhones: emails: websites: )
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  Creates a new instance.
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  public init ( landlinePhones : [ LandlinePhone ], mobilePhones : [ MobilePhone ], emails : [ EmailAddress ], websites : [ WebsiteAddress ])
+  ```
+
+  </pre>
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="sdk-for-ios-navigate-footer" class="section">
+
+© 2026 . All rights reserved. (Last updated: 2026-04-14)
+
+Generated by <a href="https://github.com/realm/jazzy" class="link" rel="external noopener" target="_blank">jazzy ♪♫ v0.15.2</a>, a <a href="https://realm.io" class="link" rel="external noopener" target="_blank">Realm</a> project.
+
+</div>
+
+</article>
+

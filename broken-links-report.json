@@ -1,0 +1,108 @@
+{
+  "broken_links": [
+    {
+      "source_path": "custom_pages/here-sdk-api-references.md",
+      "line_number": 9,
+      "href": "sdk-for-ios-navigate-index",
+      "matched_slug": null,
+      "slug_path": null,
+      "is_dot_hyphen_mismatch": false
+    },
+    {
+      "source_path": "custom_pages/sdk-for-flutter-explore-mapview-mapmarker3d-visibilityranges.md",
+      "line_number": 28,
+      "href": "sdk-for-flutter-explore-mapview-mapmarker3d-s",
+      "matched_slug": null,
+      "slug_path": null,
+      "is_dot_hyphen_mismatch": false
+    },
+    {
+      "source_path": "custom_pages/sdk-for-flutter-explore-mapview-mapmarker3d-visibilityranges.md",
+      "line_number": 30,
+      "href": "sdk-for-flutter-explore-mapview-mapmarker3d-s",
+      "matched_slug": null,
+      "slug_path": null,
+      "is_dot_hyphen_mismatch": false
+    },
+    {
+      "source_path": "custom_pages/sdk-for-flutter-explore-mapview-mapmarker3d-visibilityranges.md",
+      "line_number": 52,
+      "href": "sdk-for-flutter-explore-mapview-mapmarker3d-s",
+      "matched_slug": null,
+      "slug_path": null,
+      "is_dot_hyphen_mismatch": false
+    },
+    {
+      "source_path": "custom_pages/sdk-for-flutter-explore-mapview-mapmarker3d-visibilityranges.md",
+      "line_number": 54,
+      "href": "sdk-for-flutter-explore-mapview-mapmarker3d-s",
+      "matched_slug": null,
+      "slug_path": null,
+      "is_dot_hyphen_mismatch": false
+    },
+    {
+      "source_path": "custom_pages/sdk-for-flutter-navigate-mapview-mapmarker3d-visibilityranges.md",
+      "line_number": 28,
+      "href": "sdk-for-flutter-navigate-mapview-mapmarker3d-s",
+      "matched_slug": null,
+      "slug_path": null,
+      "is_dot_hyphen_mismatch": false
+    },
+    {
+      "source_path": "custom_pages/sdk-for-flutter-navigate-mapview-mapmarker3d-visibilityranges.md",
+      "line_number": 30,
+      "href": "sdk-for-flutter-navigate-mapview-mapmarker3d-s",
+      "matched_slug": null,
+      "slug_path": null,
+      "is_dot_hyphen_mismatch": false
+    },
+    {
+      "source_path": "custom_pages/sdk-for-flutter-navigate-mapview-mapmarker3d-visibilityranges.md",
+      "line_number": 52,
+      "href": "sdk-for-flutter-navigate-mapview-mapmarker3d-s",
+      "matched_slug": null,
+      "slug_path": null,
+      "is_dot_hyphen_mismatch": false
+    },
+    {
+      "source_path": "custom_pages/sdk-for-flutter-navigate-mapview-mapmarker3d-visibilityranges.md",
+      "line_number": 54,
+      "href": "sdk-for-flutter-navigate-mapview-mapmarker3d-s",
+      "matched_slug": null,
+      "slug_path": null,
+      "is_dot_hyphen_mismatch": false
+    },
+    {
+      "source_path": "custom_pages/sdk-for-ios-explore-classes-mapmarker3d.md",
+      "line_number": 897,
+      "href": "sdk-for-ios-explore-classes-s",
+      "matched_slug": null,
+      "slug_path": null,
+      "is_dot_hyphen_mismatch": false
+    },
+    {
+      "source_path": "custom_pages/sdk-for-ios-explore-classes-mapmarker3d.md",
+      "line_number": 899,
+      "href": "sdk-for-ios-explore-classes-s",
+      "matched_slug": null,
+      "slug_path": null,
+      "is_dot_hyphen_mismatch": false
+    },
+    {
+      "source_path": "custom_pages/sdk-for-ios-explore-classes-mappolygon.md",
+      "line_number": 431,
+      "href": "sdk-for-ios-explore-classes-s",
+      "matched_slug": null,
+      "slug_path": null,
+      "is_dot_hyphen_mismatch": false
+    },
+    {
+      "source_path": "custom_pages/sdk-for-ios-explore-classes-mappolygon.md",
+      "line_number": 433,
+      "href": "sdk-for-ios-explore-classes-s",
+      "matched_slug": null,
+      "slug_path": null,
+      "is_dot_hyphen_mismatch": false
+    }
+  ]
+}

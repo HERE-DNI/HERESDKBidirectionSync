@@ -1,0 +1,1728 @@
+{
+  "total": 1078973,
+  "unique": 38287,
+  "successful": 1078862,
+  "unknown": 0,
+  "unsupported": 0,
+  "timeouts": 11,
+  "redirects": 24526,
+  "remaps": 0,
+  "excludes": 0,
+  "errors": 100,
+  "cached": 1035510,
+  "success_map": {},
+  "error_map": {
+    "custom_pages/sdk-for-flutter-explore-search-searchengine-setcustomoption.md": [
+      {
+        "url": "https://www.here.com/docs/bundle/batch-api-developer-guide/page/topics/constructing-request.html",
+        "status": {
+          "text": "Rejected status code: 404 Not Found",
+          "code": 404
+        },
+        "redirects": {
+          "origin": "https://www.here.com/docs/bundle/batch-api-developer-guide/page/topics/constructing-request.html",
+          "redirects": [
+            {
+              "url": "https://docs.here.com/geocoding-and-search/docs/batch-api-v7-developer-guide-readme",
+              "code": 301
+            }
+          ]
+        },
+        "span": {
+          "line": 49,
+          "column": 589
+        },
+        "duration": {
+          "secs": 0,
+          "nanos": 839755833
+        }
+      }
+    ],
+    "custom_pages/sdk-for-flutter-navigate-routing-routingengine-setcustomoption.md": [
+      {
+        "url": "https://www.here.com/docs/bundle/routing-api-v8-api-reference/page/index.html",
+        "status": {
+          "text": "Error (cached)",
+          "code": 404
+        },
+        "span": {
+          "line": 33,
+          "column": 171
+        }
+      }
+    ],
+    "custom_pages/sdk-for-flutter-explore-core.engine-usagestatsnetworkstats-class.md": [
+      {
+        "url": "https://search.hereapi.com/someparams2",
+        "status": {
+          "text": "Error (cached)",
+          "code": 404
+        },
+        "span": {
+          "line": 59,
+          "column": 227
+        }
+      },
+      {
+        "url": "https://search.hereapi.com/someparams",
+        "status": {
+          "text": "Error (cached)",
+          "code": 404
+        },
+        "span": {
+          "line": 59,
+          "column": 183
+        }
+      }
+    ],
+    "custom_pages/sdk-for-flutter-navigate-mapview-mapcontextmemorymanagementresult-class.md": [
+      {
+        "url": "https://docs.here.com/outing-api-test/page/sdk-for-flutter-navigate-mapview-mapcontextmemorymanagementresult-resultcode",
+        "status": {
+          "text": "Rejected status code: 502 Bad Gateway",
+          "code": 502
+        },
+        "redirects": {
+          "origin": "https://docs.here.com/outing-api-test/page/sdk-for-flutter-navigate-mapview-mapcontextmemorymanagementresult-resultcode",
+          "redirects": [
+            {
+              "url": "https://oauth.readme.io/p/here-docs/oauth?redirect=%2Fouting-api-test%2Fpage%2Fsdk-for-flutter-navigate-mapview-mapcontextmemorymanagementresult-resultcode",
+              "code": 302
+            }
+          ]
+        },
+        "span": {
+          "line": 50,
+          "column": 29
+        },
+        "duration": {
+          "secs": 26,
+          "nanos": 116908708
+        }
+      },
+      {
+        "url": "https://docs.here.com/outing-api-test/page/sdk-for-flutter-navigate-mapview-mapcontextmemorymanagementresult-diffbetweenvideomemorylimitandrequirementinkib",
+        "status": {
+          "text": "Rejected status code: 502 Bad Gateway",
+          "code": 502
+        },
+        "redirects": {
+          "origin": "https://docs.here.com/outing-api-test/page/sdk-for-flutter-navigate-mapview-mapcontextmemorymanagementresult-diffbetweenvideomemorylimitandrequirementinkib",
+          "redirects": [
+            {
+              "url": "https://oauth.readme.io/p/here-docs/oauth?redirect=%2Fouting-api-test%2Fpage%2Fsdk-for-flutter-navigate-mapview-mapcontextmemorymanagementresult-diffbetweenvideomemorylimitandrequirementinkib",
+              "code": 302
+            }
+          ]
+        },
+        "span": {
+          "line": 32,
+          "column": 29
+        },
+        "duration": {
+          "secs": 26,
+          "nanos": 207762292
+        }
+      },
+      {
+        "url": "https://docs.here.com/outing-api-test/page/sdk-for-flutter-navigate-mapview-mapcontextmemorymanagementresult-tostring",
+        "status": {
+          "text": "Rejected status code: 502 Bad Gateway",
+          "code": 502
+        },
+        "redirects": {
+          "origin": "https://docs.here.com/outing-api-test/page/sdk-for-flutter-navigate-mapview-mapcontextmemorymanagementresult-tostring",
+          "redirects": [
+            {
+              "url": "https://oauth.readme.io/p/here-docs/oauth?redirect=%2Fouting-api-test%2Fpage%2Fsdk-for-flutter-navigate-mapview-mapcontextmemorymanagementresult-tostring",
+              "code": 302
+            }
+          ]
+        },
+        "span": {
+          "line": 79,
+          "column": 29
+        },
+        "duration": {
+          "secs": 25,
+          "nanos": 836402583
+        }
+      }
+    ],
+    "custom_pages/sdk-for-flutter-navigate-navigation-roadsigntype.md": [
+      {
+        "url": "https://medium.com/@maharudrabhishekkumar/understanding-two-stage-turns-for-cyclists-safer-crossings-made-simple-navigating-busy-e028f07bcc79",
+        "status": {
+          "text": "Rejected status code: 403 Forbidden",
+          "code": 403
+        },
+        "span": {
+          "line": 221,
+          "column": 467
+        },
+        "duration": {
+          "secs": 0,
+          "nanos": 81611333
+        }
+      },
+      {
+        "url": "https://medium.com/@maharudrabhishekkumar/understanding-two-stage-turns-for-cyclists-safer-crossings-made-simple-navigating-busy-e028f07bcc79",
+        "status": {
+          "text": "Rejected status code: 403 Forbidden",
+          "code": 403
+        },
+        "span": {
+          "line": 218,
+          "column": 426
+        },
+        "duration": {
+          "secs": 0,
+          "nanos": 136263542
+        }
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/File:Argentina_MSV_2017_road_sign_P-9(a",
+        "status": {
+          "text": "Rejected status code: 404 Not Found",
+          "code": 404
+        },
+        "span": {
+          "line": 86,
+          "column": 60
+        },
+        "duration": {
+          "secs": 0,
+          "nanos": 551410000
+        }
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/File:Argentina_MSV_2017_road_sign_P-9(b",
+        "status": {
+          "text": "Rejected status code: 404 Not Found",
+          "code": 404
+        },
+        "span": {
+          "line": 83,
+          "column": 59
+        },
+        "duration": {
+          "secs": 0,
+          "nanos": 334981167
+        }
+      }
+    ],
+    "custom_pages/sdk-for-flutter-navigate-mapview-mapmarkerclusterimagestyle-class.md": [
+      {
+        "url": "https://docs.here.com/outing-api-test/page/sdk-for-flutter-navigate-mapview-mapmarkerclusterimagestyle-tostring",
+        "status": {
+          "text": "Rejected status code: 502 Bad Gateway",
+          "code": 502
+        },
+        "redirects": {
+          "origin": "https://docs.here.com/outing-api-test/page/sdk-for-flutter-navigate-mapview-mapmarkerclusterimagestyle-tostring",
+          "redirects": [
+            {
+              "url": "https://oauth.readme.io/p/here-docs/oauth?redirect=%2Fouting-api-test%2Fpage%2Fsdk-for-flutter-navigate-mapview-mapmarkerclusterimagestyle-tostring",
+              "code": 302
+            }
+          ]
+        },
+        "span": {
+          "line": 100,
+          "column": 29
+        },
+        "duration": {
+          "secs": 61,
+          "nanos": 833575625
+        }
+      }
+    ],
+    "custom_pages/sdk-for-android-navigate-com-here-sdk-mapview-datasource-tileurlproviderfactory.md": [
+      {
+        "url": "https://testrastertileservice.com/%7Bz%7D/%7Bx%7D/%7By%7D/",
+        "status": {
+          "text": "Error (cached)",
+          "details": "Error (cached)"
+        },
+        "span": {
+          "line": 116,
+          "column": 103
+        }
+      }
+    ],
+    "custom_pages/sdk-for-ios-explore-classes-tileurlproviderfactory.md": [
+      {
+        "url": "https://testrastertileservice.com/%7Bz%7D/%7Bx%7D/%7By%7D/",
+        "status": {
+          "text": "Error (cached)",
+          "details": "Error (cached)"
+        },
+        "span": {
+          "line": 1059,
+          "column": 177
+        }
+      }
+    ],
+    "custom_pages/sdk-for-android-navigate-com-here-sdk-core-engine-enginebaseurl.md": [
+      {
+        "url": "https://www.my-company.com/v8/isolines",
+        "status": {
+          "text": "Error (cached)",
+          "details": "Error (cached)"
+        },
+        "span": {
+          "line": 445,
+          "column": 302
+        }
+      },
+      {
+        "url": "https://www.my-company.com/v1/discover",
+        "status": {
+          "text": "Error (cached)",
+          "details": "Error (cached)"
+        },
+        "span": {
+          "line": 319,
+          "column": 372
+        }
+      },
+      {
+        "url": "https://direct.data.api.platform.here.com/direct/v1",
+        "status": {
+          "text": "Error (cached)",
+          "code": 404
+        },
+        "span": {
+          "line": 373,
+          "column": 248
+        }
+      },
+      {
+        "url": "https://data.api.platform.yourcompany.com/direct/v1",
+        "status": {
+          "text": "Error (cached)",
+          "details": "Error (cached)"
+        },
+        "span": {
+          "line": 373,
+          "column": 621
+        }
+      },
+      {
+        "url": "https://www.my-company.com/satellite.day/%7Bz%7D/%7Bx%7D/%7By%7D/512/jpg",
+        "status": {
+          "text": "Error (cached)",
+          "details": "Error (cached)"
+        },
+        "span": {
+          "line": 427,
+          "column": 155
+        }
+      },
+      {
+        "url": "https://www.my-company.com/v2/traffictiles/%7Blayer%7D/mc/%7Bz%7D/%7Bx%7D/%7By%7D/omv",
+        "status": {
+          "text": "Error (cached)",
+          "details": "Error (cached)"
+        },
+        "span": {
+          "line": 409,
+          "column": 503
+        }
+      },
+      {
+        "url": "https://www.my-company.com/oauth2/token",
+        "status": {
+          "text": "Error (cached)",
+          "details": "Error (cached)"
+        },
+        "span": {
+          "line": 355,
+          "column": 294
+        }
+      },
+      {
+        "url": "https://www.my-company.com/v8/routes",
+        "status": {
+          "text": "Error (cached)",
+          "details": "Error (cached)"
+        },
+        "span": {
+          "line": 337,
+          "column": 306
+        }
+      }
+    ],
+    "custom_pages/sdk-for-flutter-explore-core.engine-usagestatsnetworkstats-requestcounter.md": [
+      {
+        "url": "https://search.hereapi.com/someparams",
+        "status": {
+          "text": "Error (cached)",
+          "code": 404
+        },
+        "span": {
+          "line": 32,
+          "column": 183
+        }
+      },
+      {
+        "url": "https://search.hereapi.com/someparams2",
+        "status": {
+          "text": "Error (cached)",
+          "code": 404
+        },
+        "span": {
+          "line": 32,
+          "column": 227
+        }
+      }
+    ],
+    "custom_pages/sdk-for-android-explore-com-here-sdk-core-engine-usagestats-networkstats.md": [
+      {
+        "url": "https://search.hereapi.com/someparams2",
+        "status": {
+          "text": "Error (cached)",
+          "code": 404
+        },
+        "span": {
+          "line": 330,
+          "column": 228
+        }
+      },
+      {
+        "url": "https://search.hereapi.com/someparams",
+        "status": {
+          "text": "Error (cached)",
+          "code": 404
+        },
+        "span": {
+          "line": 289,
+          "column": 186
+        }
+      },
+      {
+        "url": "https://search.hereapi.com/someparams",
+        "status": {
+          "text": "Error (cached)",
+          "code": 404
+        },
+        "span": {
+          "line": 330,
+          "column": 186
+        }
+      },
+      {
+        "url": "https://search.hereapi.com/someparams2",
+        "status": {
+          "text": "Error (cached)",
+          "code": 404
+        },
+        "span": {
+          "line": 289,
+          "column": 228
+        }
+      }
+    ],
+    "custom_pages/sdk-for-android-explore-com-here-sdk-mapview-datasource-tileurlproviderfactory.md": [
+      {
+        "url": "https://testrastertileservice.com/%7Bz%7D/%7Bx%7D/%7By%7D/",
+        "status": {
+          "text": "Network error: Connection failed. Check network connectivity and firewall settings (error sending request for url (https://testrastertileservice.com/%7Bz%7D/%7Bx%7D/%7By%7D/))",
+          "details": "Connection failed. Check network connectivity and firewall settings"
+        },
+        "span": {
+          "line": 116,
+          "column": 103
+        },
+        "duration": {
+          "secs": 0,
+          "nanos": 26105959
+        }
+      }
+    ],
+    "custom_pages/sdk-for-flutter-navigate-routing-isolineroutingengine-setcustomoption.md": [
+      {
+        "url": "https://www.here.com/docs/bundle/batch-api-developer-guide/page/topics/constructing-request.html",
+        "status": {
+          "text": "Error (cached)",
+          "code": 404
+        },
+        "span": {
+          "line": 33,
+          "column": 178
+        }
+      }
+    ],
+    "custom_pages/sdk-for-flutter-navigate-core.engine-usagestatsnetworkstats-class.md": [
+      {
+        "url": "https://search.hereapi.com/someparams",
+        "status": {
+          "text": "Error (cached)",
+          "code": 404
+        },
+        "span": {
+          "line": 59,
+          "column": 183
+        }
+      },
+      {
+        "url": "https://search.hereapi.com/someparams2",
+        "status": {
+          "text": "Error (cached)",
+          "code": 404
+        },
+        "span": {
+          "line": 59,
+          "column": 227
+        }
+      }
+    ],
+    "custom_pages/sdk-for-flutter-explore-mapview.datasource-tileurlproviderfactory-fromxyzurltemplate.md": [
+      {
+        "url": "https://testrastertileservice.com/%7Bz%7D/%7Bx%7D/%7By%7D/",
+        "status": {
+          "text": "Error (cached)",
+          "details": "Error (cached)"
+        },
+        "span": {
+          "line": 32,
+          "column": 39
+        }
+      }
+    ],
+    "custom_pages/sdk-for-flutter-explore-core-nameid-class.md": [
+      {
+        "url": "https://docs.here.com/outing-api-test/page/sdk-for-flutter-explore-core-nameid-nosuchmethod",
+        "status": {
+          "text": "Rejected status code: 502 Bad Gateway",
+          "code": 502
+        },
+        "redirects": {
+          "origin": "https://docs.here.com/outing-api-test/page/sdk-for-flutter-explore-core-nameid-nosuchmethod",
+          "redirects": [
+            {
+              "url": "https://oauth.readme.io/p/here-docs/oauth?redirect=%2Fouting-api-test%2Fpage%2Fsdk-for-flutter-explore-core-nameid-nosuchmethod",
+              "code": 302
+            }
+          ]
+        },
+        "span": {
+          "line": 68,
+          "column": 29
+        },
+        "duration": {
+          "secs": 26,
+          "nanos": 663979917
+        }
+      },
+      {
+        "url": "https://docs.here.com/outing-api-test/page/sdk-for-flutter-explore-core-nameid-runtimetype",
+        "status": {
+          "text": "Rejected status code: 502 Bad Gateway",
+          "code": 502
+        },
+        "redirects": {
+          "origin": "https://docs.here.com/outing-api-test/page/sdk-for-flutter-explore-core-nameid-runtimetype",
+          "redirects": [
+            {
+              "url": "https://oauth.readme.io/p/here-docs/oauth?redirect=%2Fouting-api-test%2Fpage%2Fsdk-for-flutter-explore-core-nameid-runtimetype",
+              "code": 302
+            }
+          ]
+        },
+        "span": {
+          "line": 57,
+          "column": 29
+        },
+        "duration": {
+          "secs": 26,
+          "nanos": 372145792
+        }
+      }
+    ],
+    "custom_pages/sdk-for-flutter-navigate-navigation-maneuvernotificationtimingoptions-class.md": [
+      {
+        "url": "https://docs.here.com/outing-api-test/page/sdk-for-flutter-navigate-navigation-maneuvernotificationtimingoptions-nosuchmethod",
+        "status": {
+          "text": "Rejected status code: 502 Bad Gateway",
+          "code": 502
+        },
+        "redirects": {
+          "origin": "https://docs.here.com/outing-api-test/page/sdk-for-flutter-navigate-navigation-maneuvernotificationtimingoptions-nosuchmethod",
+          "redirects": [
+            {
+              "url": "https://oauth.readme.io/p/here-docs/oauth?redirect=%2Fouting-api-test%2Fpage%2Fsdk-for-flutter-navigate-navigation-maneuvernotificationtimingoptions-nosuchmethod",
+              "code": 302
+            },
+            {
+              "url": "https://oauth.readme.io/p/here-docs/oauth?redirect=%2Fouting-api-test%2Fpage%2Fsdk-for-flutter-navigate-navigation-maneuvernotificationtimingoptions-nosuchmethod",
+              "code": 302
+            }
+          ]
+        },
+        "span": {
+          "line": 181,
+          "column": 29
+        },
+        "duration": {
+          "secs": 92,
+          "nanos": 89224292
+        }
+      }
+    ],
+    "custom_pages/sdk-for-android-navigate-com-here-sdk-core-engine-usagestats-networkstats.md": [
+      {
+        "url": "https://search.hereapi.com/someparams2",
+        "status": {
+          "text": "Error (cached)",
+          "code": 404
+        },
+        "span": {
+          "line": 330,
+          "column": 228
+        }
+      },
+      {
+        "url": "https://search.hereapi.com/someparams",
+        "status": {
+          "text": "Error (cached)",
+          "code": 404
+        },
+        "span": {
+          "line": 330,
+          "column": 186
+        }
+      },
+      {
+        "url": "https://search.hereapi.com/someparams2",
+        "status": {
+          "text": "Error (cached)",
+          "code": 404
+        },
+        "span": {
+          "line": 289,
+          "column": 228
+        }
+      },
+      {
+        "url": "https://search.hereapi.com/someparams",
+        "status": {
+          "text": "Error (cached)",
+          "code": 404
+        },
+        "span": {
+          "line": 289,
+          "column": 186
+        }
+      }
+    ],
+    "custom_pages/sdk-for-flutter-navigate-routing-routingconnectionsettings-class.md": [
+      {
+        "url": "https://docs.here.com/outing-api-test/page/sdk-for-flutter-navigate-routing-routingconnectionsettings-connectiontimeoutretryincrease",
+        "status": {
+          "text": "Rejected status code: 502 Bad Gateway",
+          "code": 502
+        },
+        "redirects": {
+          "origin": "https://docs.here.com/outing-api-test/page/sdk-for-flutter-navigate-routing-routingconnectionsettings-connectiontimeoutretryincrease",
+          "redirects": [
+            {
+              "url": "https://oauth.readme.io/p/here-docs/oauth?redirect=%2Fouting-api-test%2Fpage%2Fsdk-for-flutter-navigate-routing-routingconnectionsettings-connectiontimeoutretryincrease",
+              "code": 302
+            },
+            {
+              "url": "https://oauth.readme.io/p/here-docs/oauth?redirect=%2Fouting-api-test%2Fpage%2Fsdk-for-flutter-navigate-routing-routingconnectionsettings-connectiontimeoutretryincrease",
+              "code": 302
+            },
+            {
+              "url": "https://oauth.readme.io/p/here-docs/oauth?redirect=%2Fouting-api-test%2Fpage%2Fsdk-for-flutter-navigate-routing-routingconnectionsettings-connectiontimeoutretryincrease",
+              "code": 302
+            }
+          ]
+        },
+        "span": {
+          "line": 32,
+          "column": 29
+        },
+        "duration": {
+          "secs": 149,
+          "nanos": 480419542
+        }
+      }
+    ],
+    "custom_pages/sdk-for-ios-explore-enums-enginebaseurl.md": [
+      {
+        "url": "https://www.my-company.com/oauth2/token",
+        "status": {
+          "text": "Error (cached)",
+          "details": "Error (cached)"
+        },
+        "span": {
+          "line": 1139,
+          "column": 391
+        }
+      },
+      {
+        "url": "https://data.api.platform.yourcompany.com/direct/v1",
+        "status": {
+          "text": "Error (cached)",
+          "details": "Error (cached)"
+        },
+        "span": {
+          "line": 1183,
+          "column": 651
+        }
+      },
+      {
+        "url": "https://www.my-company.com/v8/routes",
+        "status": {
+          "text": "Error (cached)",
+          "details": "Error (cached)"
+        },
+        "span": {
+          "line": 1095,
+          "column": 403
+        }
+      },
+      {
+        "url": "https://www.my-company.com/satellite.day/%7Bz%7D/%7Bx%7D/%7By%7D/512/jpg",
+        "status": {
+          "text": "Error (cached)",
+          "details": "Error (cached)"
+        },
+        "span": {
+          "line": 1317,
+          "column": 156
+        }
+      },
+      {
+        "url": "https://www.my-company.com/v2/traffictiles/%7Blayer%7D/mc/%7Bz%7D/%7Bx%7D/%7By%7D/omv",
+        "status": {
+          "text": "Error (cached)",
+          "details": "Error (cached)"
+        },
+        "span": {
+          "line": 1273,
+          "column": 325
+        }
+      },
+      {
+        "url": "https://www.my-company.com/v8/isolines",
+        "status": {
+          "text": "Error (cached)",
+          "details": "Error (cached)"
+        },
+        "span": {
+          "line": 1361,
+          "column": 406
+        }
+      },
+      {
+        "url": "https://www.my-company.com/v1/discover",
+        "status": {
+          "text": "Error (cached)",
+          "details": "Error (cached)"
+        },
+        "span": {
+          "line": 1051,
+          "column": 468
+        }
+      },
+      {
+        "url": "https://direct.data.api.platform.here.com/direct/v1",
+        "status": {
+          "text": "Error (cached)",
+          "code": 404
+        },
+        "span": {
+          "line": 1183,
+          "column": 261
+        }
+      }
+    ],
+    "custom_pages/sdk-for-flutter-explore-core.engine-usagestatsnetworkstats-usagestatsnetworkstats.md": [
+      {
+        "url": "https://search.hereapi.com/someparams",
+        "status": {
+          "text": "Error (cached)",
+          "code": 404
+        },
+        "span": {
+          "line": 38,
+          "column": 202
+        }
+      },
+      {
+        "url": "https://search.hereapi.com/someparams2",
+        "status": {
+          "text": "Error (cached)",
+          "code": 404
+        },
+        "span": {
+          "line": 38,
+          "column": 246
+        }
+      }
+    ],
+    "custom_pages/sdk-for-flutter-explore-transport-vehicleprofile-class.md": [
+      {
+        "url": "https://docs.here.com/outing-api-test/page/sdk-for-flutter-explore-transport-vehicleprofile-tunnelcategory",
+        "status": {
+          "text": "Rejected status code: 502 Bad Gateway",
+          "code": 502
+        },
+        "redirects": {
+          "origin": "https://docs.here.com/outing-api-test/page/sdk-for-flutter-explore-transport-vehicleprofile-tunnelcategory",
+          "redirects": [
+            {
+              "url": "https://oauth.readme.io/p/here-docs/oauth?redirect=%2Fouting-api-test%2Fpage%2Fsdk-for-flutter-explore-transport-vehicleprofile-tunnelcategory",
+              "code": 302
+            }
+          ]
+        },
+        "span": {
+          "line": 127,
+          "column": 29
+        },
+        "duration": {
+          "secs": 49,
+          "nanos": 350306792
+        }
+      }
+    ],
+    "custom_pages/sdk-for-ios-explore-classes-routingengine.md": [
+      {
+        "url": "https://www.here.com/docs/bundle/routing-api-v8-api-reference/page/index.html",
+        "status": {
+          "text": "Error (cached)",
+          "code": 404
+        },
+        "span": {
+          "line": 5330,
+          "column": 223
+        }
+      }
+    ],
+    "custom_pages/sdk-for-flutter-navigate-navigation-maneuverviewlaneassistancelistener-class.md": [
+      {
+        "url": "https://docs.here.com/outing-api-test/page/sdk-for-flutter-navigate-navigation-maneuverviewlaneassistancelistener-runtimetype",
+        "status": {
+          "text": "Rejected status code: 502 Bad Gateway",
+          "code": 502
+        },
+        "redirects": {
+          "origin": "https://docs.here.com/outing-api-test/page/sdk-for-flutter-navigate-navigation-maneuverviewlaneassistancelistener-runtimetype",
+          "redirects": [
+            {
+              "url": "https://oauth.readme.io/p/here-docs/oauth?redirect=%2Fouting-api-test%2Fpage%2Fsdk-for-flutter-navigate-navigation-maneuverviewlaneassistancelistener-runtimetype",
+              "code": 302
+            }
+          ]
+        },
+        "span": {
+          "line": 48,
+          "column": 29
+        },
+        "duration": {
+          "secs": 42,
+          "nanos": 693928125
+        }
+      },
+      {
+        "url": "https://docs.here.com/outing-api-test/page/sdk-for-flutter-navigate-navigation-maneuverviewlaneassistancelistener-hashcode",
+        "status": {
+          "text": "Rejected status code: 502 Bad Gateway",
+          "code": 502
+        },
+        "redirects": {
+          "origin": "https://docs.here.com/outing-api-test/page/sdk-for-flutter-navigate-navigation-maneuverviewlaneassistancelistener-hashcode",
+          "redirects": [
+            {
+              "url": "https://oauth.readme.io/p/here-docs/oauth?redirect=%2Fouting-api-test%2Fpage%2Fsdk-for-flutter-navigate-navigation-maneuverviewlaneassistancelistener-hashcode",
+              "code": 302
+            }
+          ]
+        },
+        "span": {
+          "line": 39,
+          "column": 29
+        },
+        "duration": {
+          "secs": 43,
+          "nanos": 290007667
+        }
+      },
+      {
+        "url": "https://docs.here.com/outing-api-test/page/sdk-for-flutter-navigate-navigation-maneuverviewlaneassistancelistener-operator_equals",
+        "status": {
+          "text": "Rejected status code: 502 Bad Gateway",
+          "code": 502
+        },
+        "redirects": {
+          "origin": "https://docs.here.com/outing-api-test/page/sdk-for-flutter-navigate-navigation-maneuverviewlaneassistancelistener-operator_equals",
+          "redirects": [
+            {
+              "url": "https://oauth.readme.io/p/here-docs/oauth?redirect=%2Fouting-api-test%2Fpage%2Fsdk-for-flutter-navigate-navigation-maneuverviewlaneassistancelistener-operator_equals",
+              "code": 302
+            }
+          ]
+        },
+        "span": {
+          "line": 82,
+          "column": 29
+        },
+        "duration": {
+          "secs": 51,
+          "nanos": 145434417
+        }
+      }
+    ],
+    "custom_pages/sdk-for-ios-explore-classes-searchengine.md": [
+      {
+        "url": "https://www.here.com/docs/bundle/batch-api-developer-guide/page/topics/constructing-request.html",
+        "status": {
+          "text": "Error (cached)",
+          "code": 404
+        },
+        "span": {
+          "line": 2692,
+          "column": 772
+        }
+      }
+    ],
+    "custom_pages/sdk-for-ios-explore-structs-usagestats-networkstats.md": [
+      {
+        "url": "https://search.hereapi.com/someparams2",
+        "status": {
+          "text": "Error (cached)",
+          "code": 404
+        },
+        "span": {
+          "line": 1183,
+          "column": 229
+        }
+      },
+      {
+        "url": "https://search.hereapi.com/someparams",
+        "status": {
+          "text": "Error (cached)",
+          "code": 404
+        },
+        "span": {
+          "line": 1183,
+          "column": 185
+        }
+      }
+    ],
+    "custom_pages/sdk-for-flutter-navigate-core.engine-usagestatsnetworkstats-requestcounter.md": [
+      {
+        "url": "https://search.hereapi.com/someparams2",
+        "status": {
+          "text": "Rejected status code: 404 Not Found",
+          "code": 404
+        },
+        "span": {
+          "line": 32,
+          "column": 227
+        },
+        "duration": {
+          "secs": 0,
+          "nanos": 43956000
+        }
+      },
+      {
+        "url": "https://search.hereapi.com/someparams",
+        "status": {
+          "text": "Rejected status code: 404 Not Found",
+          "code": 404
+        },
+        "span": {
+          "line": 32,
+          "column": 183
+        },
+        "duration": {
+          "secs": 0,
+          "nanos": 167832375
+        }
+      }
+    ],
+    "custom_pages/sdk-for-flutter-navigate-core.engine-usagestatsnetworkstats-usagestatsnetworkstats.md": [
+      {
+        "url": "https://search.hereapi.com/someparams",
+        "status": {
+          "text": "Error (cached)",
+          "code": 404
+        },
+        "span": {
+          "line": 38,
+          "column": 202
+        }
+      },
+      {
+        "url": "https://search.hereapi.com/someparams2",
+        "status": {
+          "text": "Error (cached)",
+          "code": 404
+        },
+        "span": {
+          "line": 38,
+          "column": 246
+        }
+      }
+    ],
+    "custom_pages/sdk-for-android-explore-com-here-sdk-core-engine-enginebaseurl.md": [
+      {
+        "url": "https://www.my-company.com/v8/isolines",
+        "status": {
+          "text": "Error (cached)",
+          "details": "Error (cached)"
+        },
+        "span": {
+          "line": 445,
+          "column": 302
+        }
+      },
+      {
+        "url": "https://www.my-company.com/v1/discover",
+        "status": {
+          "text": "Error (cached)",
+          "details": "Error (cached)"
+        },
+        "span": {
+          "line": 319,
+          "column": 372
+        }
+      },
+      {
+        "url": "https://direct.data.api.platform.here.com/direct/v1",
+        "status": {
+          "text": "Error (cached)",
+          "code": 404
+        },
+        "span": {
+          "line": 373,
+          "column": 248
+        }
+      },
+      {
+        "url": "https://www.my-company.com/v2/traffictiles/%7Blayer%7D/mc/%7Bz%7D/%7Bx%7D/%7By%7D/omv",
+        "status": {
+          "text": "Error (cached)",
+          "details": "Error (cached)"
+        },
+        "span": {
+          "line": 409,
+          "column": 503
+        }
+      },
+      {
+        "url": "https://www.my-company.com/satellite.day/%7Bz%7D/%7Bx%7D/%7By%7D/512/jpg",
+        "status": {
+          "text": "Error (cached)",
+          "details": "Error (cached)"
+        },
+        "span": {
+          "line": 427,
+          "column": 155
+        }
+      },
+      {
+        "url": "https://data.api.platform.yourcompany.com/direct/v1",
+        "status": {
+          "text": "Error (cached)",
+          "details": "Error (cached)"
+        },
+        "span": {
+          "line": 373,
+          "column": 621
+        }
+      },
+      {
+        "url": "https://www.my-company.com/v8/routes",
+        "status": {
+          "text": "Error (cached)",
+          "details": "Error (cached)"
+        },
+        "span": {
+          "line": 337,
+          "column": 306
+        }
+      },
+      {
+        "url": "https://www.my-company.com/oauth2/token",
+        "status": {
+          "text": "Error (cached)",
+          "details": "Error (cached)"
+        },
+        "span": {
+          "line": 355,
+          "column": 294
+        }
+      }
+    ],
+    "custom_pages/sdk-for-ios-explore-classes-isolineroutingengine.md": [
+      {
+        "url": "https://www.here.com/docs/bundle/batch-api-developer-guide/page/topics/constructing-request.html",
+        "status": {
+          "text": "Error (cached)",
+          "code": 404
+        },
+        "span": {
+          "line": 1431,
+          "column": 230
+        }
+      }
+    ],
+    "custom_pages/sdk-for-flutter-navigate-location-locationenginebase-confirmhereprivacynoticeinclusion.md": [
+      {
+        "url": "https://legal.here.com/en-gb/here-network-positioning-via-sdk%22",
+        "status": {
+          "text": "Rejected status code: 404 Not Found",
+          "code": 404
+        },
+        "span": {
+          "line": 32,
+          "column": 367
+        },
+        "duration": {
+          "secs": 1,
+          "nanos": 643090625
+        }
+      }
+    ],
+    "custom_pages/sdk-for-flutter-navigate-mapview.datasource-tileurlproviderfactory-fromxyzurltemplate.md": [
+      {
+        "url": "https://testrastertileservice.com/%7Bz%7D/%7Bx%7D/%7By%7D/",
+        "status": {
+          "text": "Error (cached)",
+          "details": "Error (cached)"
+        },
+        "span": {
+          "line": 32,
+          "column": 39
+        }
+      }
+    ],
+    "custom_pages/sdk-for-flutter-navigate-search-searchengine-setcustomoption.md": [
+      {
+        "url": "https://www.here.com/docs/bundle/batch-api-developer-guide/page/topics/constructing-request.html",
+        "status": {
+          "text": "Error (cached)",
+          "code": 404
+        },
+        "span": {
+          "line": 49,
+          "column": 591
+        }
+      }
+    ],
+    "custom_pages/sdk-for-flutter-explore-core.engine-enginebaseurl.md": [
+      {
+        "url": "https://www.my-company.com/v1/discover",
+        "status": {
+          "text": "Error (cached)",
+          "details": "Error (cached)"
+        },
+        "span": {
+          "line": 27,
+          "column": 370
+        }
+      },
+      {
+        "url": "https://data.api.platform.yourcompany.com/direct/v1",
+        "status": {
+          "text": "Error (cached)",
+          "details": "Error (cached)"
+        },
+        "span": {
+          "line": 36,
+          "column": 770
+        }
+      },
+      {
+        "url": "https://www.my-company.com/oauth2/token",
+        "status": {
+          "text": "Error (cached)",
+          "details": "Error (cached)"
+        },
+        "span": {
+          "line": 33,
+          "column": 291
+        }
+      },
+      {
+        "url": "https://www.my-company.com/v8/routes",
+        "status": {
+          "text": "Error (cached)",
+          "details": "Error (cached)"
+        },
+        "span": {
+          "line": 30,
+          "column": 304
+        }
+      },
+      {
+        "url": "https://direct.data.api.platform.here.com/direct/v1",
+        "status": {
+          "text": "Error (cached)",
+          "code": 404
+        },
+        "span": {
+          "line": 36,
+          "column": 320
+        }
+      },
+      {
+        "url": "https://www.my-company.com/v2/traffictiles/%7Blayer%7D/mc/%7Bz%7D/%7Bx%7D/%7By%7D/omv",
+        "status": {
+          "text": "Error (cached)",
+          "details": "Error (cached)"
+        },
+        "span": {
+          "line": 44,
+          "column": 282
+        }
+      },
+      {
+        "url": "https://www.my-company.com/v8/isolines",
+        "status": {
+          "text": "Error (cached)",
+          "details": "Error (cached)"
+        },
+        "span": {
+          "line": 50,
+          "column": 300
+        }
+      },
+      {
+        "url": "https://www.my-company.com/satellite.day/%7Bz%7D/%7Bx%7D/%7By%7D/512/jpg",
+        "status": {
+          "text": "Error (cached)",
+          "details": "Error (cached)"
+        },
+        "span": {
+          "line": 47,
+          "column": 153
+        }
+      }
+    ],
+    "custom_pages/sdk-for-flutter-explore-routing-maneuver-class.md": [
+      {
+        "url": "https://docs.here.com/outing-api-test/page/sdk-for-flutter-explore-routing-maneuver-lengthinmeters",
+        "status": {
+          "text": "Rejected status code: 502 Bad Gateway",
+          "code": 502
+        },
+        "redirects": {
+          "origin": "https://docs.here.com/outing-api-test/page/sdk-for-flutter-explore-routing-maneuver-lengthinmeters",
+          "redirects": [
+            {
+              "url": "https://oauth.readme.io/p/here-docs/oauth?redirect=%2Fouting-api-test%2Fpage%2Fsdk-for-flutter-explore-routing-maneuver-lengthinmeters",
+              "code": 302
+            }
+          ]
+        },
+        "span": {
+          "line": 95,
+          "column": 29
+        },
+        "duration": {
+          "secs": 55,
+          "nanos": 266628542
+        }
+      },
+      {
+        "url": "https://docs.here.com/outing-api-test/page/sdk-for-flutter-explore-routing-maneuver-sectionindex",
+        "status": {
+          "text": "Rejected status code: 502 Bad Gateway",
+          "code": 502
+        },
+        "redirects": {
+          "origin": "https://docs.here.com/outing-api-test/page/sdk-for-flutter-explore-routing-maneuver-sectionindex",
+          "redirects": [
+            {
+              "url": "https://oauth.readme.io/p/here-docs/oauth?redirect=%2Fouting-api-test%2Fpage%2Fsdk-for-flutter-explore-routing-maneuver-sectionindex",
+              "code": 302
+            }
+          ]
+        },
+        "span": {
+          "line": 149,
+          "column": 29
+        },
+        "duration": {
+          "secs": 45,
+          "nanos": 779926958
+        }
+      },
+      {
+        "url": "https://docs.here.com/outing-api-test/page/sdk-for-flutter-explore-routing-maneuver-action",
+        "status": {
+          "text": "Rejected status code: 502 Bad Gateway",
+          "code": 502
+        },
+        "redirects": {
+          "origin": "https://docs.here.com/outing-api-test/page/sdk-for-flutter-explore-routing-maneuver-action",
+          "redirects": [
+            {
+              "url": "https://oauth.readme.io/p/here-docs/oauth?redirect=%2Fouting-api-test%2Fpage%2Fsdk-for-flutter-explore-routing-maneuver-action",
+              "code": 302
+            }
+          ]
+        },
+        "span": {
+          "line": 32,
+          "column": 29
+        },
+        "duration": {
+          "secs": 48,
+          "nanos": 59993833
+        }
+      },
+      {
+        "url": "https://docs.here.com/outing-api-test/page/sdk-for-flutter-explore-routing-maneuver-hashcode",
+        "status": {
+          "text": "Rejected status code: 502 Bad Gateway",
+          "code": 502
+        },
+        "redirects": {
+          "origin": "https://docs.here.com/outing-api-test/page/sdk-for-flutter-explore-routing-maneuver-hashcode",
+          "redirects": [
+            {
+              "url": "https://oauth.readme.io/p/here-docs/oauth?redirect=%2Fouting-api-test%2Fpage%2Fsdk-for-flutter-explore-routing-maneuver-hashcode",
+              "code": 302
+            }
+          ]
+        },
+        "span": {
+          "line": 77,
+          "column": 29
+        },
+        "duration": {
+          "secs": 55,
+          "nanos": 792077333
+        }
+      }
+    ],
+    "custom_pages/sdk-for-flutter-explore-routing-routingengine-setcustomoption.md": [
+      {
+        "url": "https://www.here.com/docs/bundle/routing-api-v8-api-reference/page/index.html",
+        "status": {
+          "text": "Rejected status code: 404 Not Found",
+          "code": 404
+        },
+        "redirects": {
+          "origin": "https://www.here.com/docs/bundle/routing-api-v8-api-reference/page/index.html",
+          "redirects": [
+            {
+              "url": "https://docs.here.com/routing/reference/calculateroutes",
+              "code": 301
+            }
+          ]
+        },
+        "span": {
+          "line": 33,
+          "column": 171
+        },
+        "duration": {
+          "secs": 0,
+          "nanos": 828089500
+        }
+      }
+    ],
+    "custom_pages/sdk-for-flutter-navigate-maploader-maploadererror.md": [
+      {
+        "url": "https://docs.here.com/outing-api-test/page/sdk-for-flutter-navigate-maploader-maploadererror-runtimetype",
+        "status": {
+          "text": "Rejected status code: 502 Bad Gateway",
+          "code": 502
+        },
+        "redirects": {
+          "origin": "https://docs.here.com/outing-api-test/page/sdk-for-flutter-navigate-maploader-maploadererror-runtimetype",
+          "redirects": [
+            {
+              "url": "https://oauth.readme.io/p/here-docs/oauth?redirect=%2Fouting-api-test%2Fpage%2Fsdk-for-flutter-navigate-maploader-maploadererror-runtimetype",
+              "code": 302
+            }
+          ]
+        },
+        "span": {
+          "line": 139,
+          "column": 29
+        },
+        "duration": {
+          "secs": 27,
+          "nanos": 102917750
+        }
+      },
+      {
+        "url": "https://docs.here.com/outing-api-test/page/sdk-for-flutter-navigate-maploader-maploadererror-hashcode",
+        "status": {
+          "text": "Rejected status code: 502 Bad Gateway",
+          "code": 502
+        },
+        "redirects": {
+          "origin": "https://docs.here.com/outing-api-test/page/sdk-for-flutter-navigate-maploader-maploadererror-hashcode",
+          "redirects": [
+            {
+              "url": "https://oauth.readme.io/p/here-docs/oauth?redirect=%2Fouting-api-test%2Fpage%2Fsdk-for-flutter-navigate-maploader-maploadererror-hashcode",
+              "code": 302
+            }
+          ]
+        },
+        "span": {
+          "line": 121,
+          "column": 29
+        },
+        "duration": {
+          "secs": 27,
+          "nanos": 98829125
+        }
+      },
+      {
+        "url": "https://docs.here.com/outing-api-test/page/sdk-for-flutter-navigate-maploader-maploadererror-nosuchmethod",
+        "status": {
+          "text": "Rejected status code: 502 Bad Gateway",
+          "code": 502
+        },
+        "redirects": {
+          "origin": "https://docs.here.com/outing-api-test/page/sdk-for-flutter-navigate-maploader-maploadererror-nosuchmethod",
+          "redirects": [
+            {
+              "url": "https://oauth.readme.io/p/here-docs/oauth?redirect=%2Fouting-api-test%2Fpage%2Fsdk-for-flutter-navigate-maploader-maploadererror-nosuchmethod",
+              "code": 302
+            }
+          ]
+        },
+        "span": {
+          "line": 150,
+          "column": 29
+        },
+        "duration": {
+          "secs": 27,
+          "nanos": 22909083
+        }
+      }
+    ],
+    "custom_pages/sdk-for-flutter-explore-routing-isolineroutingengine-setcustomoption.md": [
+      {
+        "url": "https://www.here.com/docs/bundle/batch-api-developer-guide/page/topics/constructing-request.html",
+        "status": {
+          "text": "Error (cached)",
+          "code": 404
+        },
+        "span": {
+          "line": 33,
+          "column": 178
+        }
+      }
+    ],
+    "custom_pages/sdk-for-ios-explore-enums-roadsigntype.md": [
+      {
+        "url": "https://medium.com/@maharudrabhishekkumar/understanding-two-stage-turns-for-cyclists-safer-crossings-made-simple-navigating-busy-e028f07bcc79",
+        "status": {
+          "text": "Error (cached)",
+          "code": 403
+        },
+        "span": {
+          "line": 3867,
+          "column": 469
+        }
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/File:Argentina_MSV_2017_road_sign_P-9(a",
+        "status": {
+          "text": "Error (cached)",
+          "code": 404
+        },
+        "span": {
+          "line": 1887,
+          "column": 62
+        }
+      },
+      {
+        "url": "https://medium.com/@maharudrabhishekkumar/understanding-two-stage-turns-for-cyclists-safer-crossings-made-simple-navigating-busy-e028f07bcc79",
+        "status": {
+          "text": "Error (cached)",
+          "code": 403
+        },
+        "span": {
+          "line": 3823,
+          "column": 428
+        }
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/File:Argentina_MSV_2017_road_sign_P-9(b",
+        "status": {
+          "text": "Error (cached)",
+          "code": 404
+        },
+        "span": {
+          "line": 1843,
+          "column": 61
+        }
+      }
+    ],
+    "custom_pages/sdk-for-flutter-navigate-routing-localizedroadnumber-class.md": [
+      {
+        "url": "https://docs.here.com/outing-api-test/page/sdk-for-flutter-navigate-routing-localizedroadnumber-gettextwithdirection",
+        "status": {
+          "text": "Rejected status code: 502 Bad Gateway",
+          "code": 502
+        },
+        "redirects": {
+          "origin": "https://docs.here.com/outing-api-test/page/sdk-for-flutter-navigate-routing-localizedroadnumber-gettextwithdirection",
+          "redirects": [
+            {
+              "url": "https://oauth.readme.io/p/here-docs/oauth?redirect=%2Fouting-api-test%2Fpage%2Fsdk-for-flutter-navigate-routing-localizedroadnumber-gettextwithdirection",
+              "code": 302
+            }
+          ]
+        },
+        "span": {
+          "line": 77,
+          "column": 29
+        },
+        "duration": {
+          "secs": 27,
+          "nanos": 64345708
+        }
+      },
+      {
+        "url": "https://docs.here.com/outing-api-test/page/sdk-for-flutter-navigate-routing-localizedroadnumber-localizedroadnumber",
+        "status": {
+          "text": "Rejected status code: 502 Bad Gateway",
+          "code": 502
+        },
+        "redirects": {
+          "origin": "https://docs.here.com/outing-api-test/page/sdk-for-flutter-navigate-routing-localizedroadnumber-localizedroadnumber",
+          "redirects": [
+            {
+              "url": "https://oauth.readme.io/p/here-docs/oauth?redirect=%2Fouting-api-test%2Fpage%2Fsdk-for-flutter-navigate-routing-localizedroadnumber-localizedroadnumber",
+              "code": 302
+            }
+          ]
+        },
+        "span": {
+          "line": 26,
+          "column": 29
+        },
+        "duration": {
+          "secs": 26,
+          "nanos": 804180500
+        }
+      }
+    ],
+    "custom_pages/sdk-for-flutter-navigate-core.engine-enginebaseurl.md": [
+      {
+        "url": "https://direct.data.api.platform.here.com/direct/v1",
+        "status": {
+          "text": "Rejected status code: 404 Not Found",
+          "code": 404
+        },
+        "span": {
+          "line": 36,
+          "column": 321
+        },
+        "duration": {
+          "secs": 0,
+          "nanos": 188196625
+        }
+      },
+      {
+        "url": "https://data.api.platform.yourcompany.com/direct/v1",
+        "status": {
+          "text": "Network error: Network error: received fatal alert: UnrecognisedName (error sending request for url (https://data.api.platform.yourcompany.com/direct/v1))",
+          "details": "Network error: received fatal alert: UnrecognisedName"
+        },
+        "span": {
+          "line": 36,
+          "column": 772
+        },
+        "duration": {
+          "secs": 0,
+          "nanos": 65348000
+        }
+      }
+    ]
+  },
+  "timeout_map": {
+    "custom_pages/sdk-for-ios-explore-enums-enginebaseurl.md": [
+      {
+        "url": "http://www.my-company.com/",
+        "status": {
+          "text": "Timeout",
+          "details": "Request timed out"
+        },
+        "span": {
+          "line": 1051,
+          "column": 342
+        },
+        "duration": {
+          "secs": 160,
+          "nanos": 34748083
+        }
+      },
+      {
+        "url": "http://www.my-company.com/",
+        "status": {
+          "text": "Timeout",
+          "details": "Request timed out"
+        },
+        "span": {
+          "line": 1095,
+          "column": 277
+        },
+        "duration": {
+          "secs": 169,
+          "nanos": 702304084
+        }
+      },
+      {
+        "url": "http://www.my-company.com/",
+        "status": {
+          "text": "Timeout",
+          "details": "Request timed out"
+        },
+        "span": {
+          "line": 1139,
+          "column": 271
+        },
+        "duration": {
+          "secs": 179,
+          "nanos": 441342250
+        }
+      },
+      {
+        "url": "http://www.my-company.com/",
+        "status": {
+          "text": "Timeout",
+          "details": "Request timed out"
+        },
+        "span": {
+          "line": 1273,
+          "column": 236
+        },
+        "duration": {
+          "secs": 189,
+          "nanos": 423841125
+        }
+      },
+      {
+        "url": "http://www.my-company.com/",
+        "status": {
+          "text": "Timeout",
+          "details": "Request timed out"
+        },
+        "span": {
+          "line": 1361,
+          "column": 280
+        },
+        "duration": {
+          "secs": 199,
+          "nanos": 385687334
+        }
+      }
+    ],
+    "custom_pages/sdk-for-flutter-navigate-core.engine-enginebaseurl.md": [
+      {
+        "url": "https://www.my-company.com/oauth2/token",
+        "status": {
+          "text": "Timeout",
+          "details": "Request timed out"
+        },
+        "span": {
+          "line": 33,
+          "column": 291
+        },
+        "duration": {
+          "secs": 47,
+          "nanos": 12382834
+        }
+      },
+      {
+        "url": "https://www.my-company.com/v1/discover",
+        "status": {
+          "text": "Timeout",
+          "details": "Request timed out"
+        },
+        "span": {
+          "line": 27,
+          "column": 370
+        },
+        "duration": {
+          "secs": 47,
+          "nanos": 12678959
+        }
+      },
+      {
+        "url": "https://www.my-company.com/v2/traffictiles/%7Blayer%7D/mc/%7Bz%7D/%7Bx%7D/%7By%7D/omv",
+        "status": {
+          "text": "Timeout",
+          "details": "Request timed out"
+        },
+        "span": {
+          "line": 44,
+          "column": 282
+        },
+        "duration": {
+          "secs": 47,
+          "nanos": 13433583
+        }
+      },
+      {
+        "url": "https://www.my-company.com/v8/isolines",
+        "status": {
+          "text": "Timeout",
+          "details": "Request timed out"
+        },
+        "span": {
+          "line": 50,
+          "column": 300
+        },
+        "duration": {
+          "secs": 47,
+          "nanos": 66545042
+        }
+      },
+      {
+        "url": "https://www.my-company.com/satellite.day/%7Bz%7D/%7Bx%7D/%7By%7D/512/jpg",
+        "status": {
+          "text": "Timeout",
+          "details": "Request timed out"
+        },
+        "span": {
+          "line": 47,
+          "column": 153
+        },
+        "duration": {
+          "secs": 47,
+          "nanos": 123904292
+        }
+      },
+      {
+        "url": "https://www.my-company.com/v8/routes",
+        "status": {
+          "text": "Timeout",
+          "details": "Request timed out"
+        },
+        "span": {
+          "line": 30,
+          "column": 304
+        },
+        "duration": {
+          "secs": 47,
+          "nanos": 12093250
+        }
+      }
+    ]
+  },
+  "suggestion_map": {},
+  "redirect_map": {},
+  "excluded_map": {},
+  "duration": {
+    "secs": 3559,
+    "nanos": 563859666
+  },
+  "detailed_stats": false
+}

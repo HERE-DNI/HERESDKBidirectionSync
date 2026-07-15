@@ -1,0 +1,74 @@
+---
+title: "TileSource constructor - TileSource - mapview.datasource library - Dart API"
+slug: "sdk-for-flutter-navigate-mapview-datasource-tilesource-tilesource"
+---
+
+<div id="sdk-for-flutter-navigate-overlay-under-drawer">
+
+</div>
+
+<div id="sdk-for-flutter-navigate-dartdoc-main-content" class="main-content" data-above-sidebar="mapview.datasource/TileSource-class-sidebar.html" data-below-sidebar="">
+
+<div>
+
+# <span class="kind-constructor">TileSource</span> constructor
+
+</div>
+
+<div class="section multi-line-signature">
+
+<span class="name">TileSource</span>(<wbr></wbr>
+
+1.  <span id="sdk-for-flutter-navigate-param-getDataVersionLambda" class="parameter"><span class="type-annotation"><a href="sdk-for-flutter-navigate-mapview-datasource-tilesourcedataversion-class">TileSourceDataVersion</a></span> <span class="parameter-name">getDataVersionLambda</span>(</span>
+    1.  <span id="sdk-for-flutter-navigate-param" class="parameter"><span class="type-annotation"><a href="sdk-for-flutter-navigate-mapview-datasource-tilekey-class">TileKey</a></span></span>
+
+    ), </span>
+2.  <span id="sdk-for-flutter-navigate-param-addListenerLambda" class="parameter"><span class="type-annotation">void</span> <span class="parameter-name">addListenerLambda</span>(</span>
+    1.  <span id="sdk-for-flutter-navigate-param" class="parameter"><span class="type-annotation"><a href="sdk-for-flutter-navigate-mapview-datasource-tilesourcelistener-class">TileSourceListener</a></span></span>
+
+    ), </span>
+3.  <span id="sdk-for-flutter-navigate-param-removeListenerLambda" class="parameter"><span class="type-annotation">void</span> <span class="parameter-name">removeListenerLambda</span>(</span>
+    1.  <span id="sdk-for-flutter-navigate-param" class="parameter"><span class="type-annotation"><a href="sdk-for-flutter-navigate-mapview-datasource-tilesourcelistener-class">TileSourceListener</a></span></span>
+
+    ), </span>
+4.  <span id="sdk-for-flutter-navigate-param-tilingSchemeGetLambda" class="parameter"><span class="type-annotation"><a href="sdk-for-flutter-navigate-mapview-datasource-tilingscheme">TilingScheme</a></span> <span class="parameter-name">tilingSchemeGetLambda</span>(), </span>
+5.  <span id="sdk-for-flutter-navigate-param-storageLevelsGetLambda" class="parameter"><span class="type-annotation">List<span class="signature">\<<wbr></wbr><span class="type-parameter">int</span>\></span></span> <span class="parameter-name">storageLevelsGetLambda</span>(), </span>
+
+)
+
+</div>
+
+<div class="section desc markdown">
+
+A source of tiles.
+
+The implementations must be thread-safe.
+
+Note: This is a beta release of this feature, so there could be a few bugs and unexpected behavior. Related APIs may change for new releases without a deprecation process.
+
+</div>
+
+## Implementation
+
+``` dart
+factory TileSource(
+  TileSourceDataVersion Function(TileKey) getDataVersionLambda,
+  void Function(TileSourceListener) addListenerLambda,
+  void Function(TileSourceListener) removeListenerLambda,
+  TilingScheme Function() tilingSchemeGetLambda,
+  List<int> Function() storageLevelsGetLambda
+) => TileSource$Lambdas(
+  getDataVersionLambda,
+  addListenerLambda,
+  removeListenerLambda,
+  tilingSchemeGetLambda,
+  storageLevelsGetLambda
+);
+```
+
+</pre>
+
+</div>
+
+<!-- /.main-content --> <!--/.sidebar-offcanvas-left--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
+

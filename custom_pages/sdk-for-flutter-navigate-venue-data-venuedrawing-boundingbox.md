@@ -1,0 +1,43 @@
+---
+title: "boundingBox property - VenueDrawing class - venue.data library - Dart API"
+slug: "sdk-for-flutter-navigate-venue-data-venuedrawing-boundingbox"
+---
+
+<div id="sdk-for-flutter-navigate-overlay-under-drawer">
+
+</div>
+
+<div id="sdk-for-flutter-navigate-dartdoc-main-content" class="main-content" data-above-sidebar="venue.data/VenueDrawing-class-sidebar.html" data-below-sidebar="">
+
+<div>
+
+# <span class="kind-property">boundingBox</span> property
+
+</div>
+
+<div id="sdk-for-flutter-navigate-getter" class="section">
+
+<div class="section multi-line-signature">
+
+<span class="returntype"><a href="sdk-for-flutter-navigate-core-geobox-class">GeoBox</a></span> <span class="name">boundingBox</span>
+
+</div>
+
+<div class="section desc markdown">
+
+The `GeoBox` of the bounding area of the drawing. This is used to check if at certain zoom level and inside view this GeoBox belongs, then need to render. Gets a bounding box of the drawing.
+
+</div>
+
+## Implementation
+
+``` dart
+GeoBox get boundingBox;
+```
+
+</div>
+
+</div>
+
+<!-- /.main-content --> <!--/.sidebar-offcanvas--> <!--/.sidebar-offcanvas--> <span class="no-break"> here_sdk 4.26.0 </span>
+

@@ -1,0 +1,226 @@
+---
+title: "DynamicRoutingEngineOptions Structure Reference"
+slug: "sdk-for-ios-navigate-structs-dynamicroutingengineoptions"
+---
+
+# DynamicRoutingEngineOptions
+
+<div class="declaration">
+
+<div class="language">
+
+``` highlight
+public struct DynamicRoutingEngineOptions : Hashable
+```
+
+</div>
+
+</div>
+
+Options defining the behavior of the <a href="sdk-for-ios-navigate-classes-dynamicroutingengine">`DynamicRoutingEngine`</a>. Both, `minTimeDifference` and `minTimeDifferencePercentage`, will be checked: When the poll interval is reached, the smaller difference will win and the <a href="sdk-for-ios-navigate-protocols-dynamicroutingdelegate">`DynamicRoutingDelegate`</a> is notified.
+
+</div>
+
+<div class="section section task-group-section">
+
+<div class="task-group">
+
+- <div>
+
+  ` `<span id="/s:7heresdk27DynamicRoutingEngineOptionsV27minTimeDifferencePercentageSdSgvp"></span>` `<span id="//apple_ref/swift/Property/minTimeDifferencePercentage" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-dynamicroutingengineoptions#/s:7heresdk27DynamicRoutingEngineOptionsV27minTimeDifferencePercentageSdSgvp" class="token"><code>minTimeDifferencePercentage</code></a>` `
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  The value is in the range of \[0, 1\] over the remaining (current position to next waypoint) To get notified, the following check must be true: oldEstimatedTimeOfArrival - newEstimatedTimeOfArrival \>= newRouteDuration \* \[min_time_difference_percentage\]. A value of 0 will be treated as `nil` meaning no event will be sent. In order to receive events the difference needs to be greater than 0. Defaults to `nil`.
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  public var minTimeDifferencePercentage: Double?
+  ```
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+  ` `<span id="/s:7heresdk27DynamicRoutingEngineOptionsV17minTimeDifferenceSdSgvp"></span>` `<span id="//apple_ref/swift/Property/minTimeDifference" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-dynamicroutingengineoptions#/s:7heresdk27DynamicRoutingEngineOptionsV17minTimeDifferenceSdSgvp" class="token"><code>minTimeDifference</code></a>` `
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  The minimum time difference, before notifying the <a href="sdk-for-ios-navigate-protocols-dynamicroutingdelegate">`DynamicRoutingDelegate`</a>. To get notified, the following check must be true: oldEstimatedTimeOfArrival - newEstimatedTimeOfArrival \> `DynamicRoutingEngineOptions.minTimeDifference`. A value of 0 will be treated as `nil` meaning no event will be sent. In order to receive events the difference needs to be greater than 0. Defaults to `nil`.
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  public var minTimeDifference: TimeInterval?
+  ```
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+  ` `<span id="/s:7heresdk27DynamicRoutingEngineOptionsV12pollIntervalSdvp"></span>` `<span id="//apple_ref/swift/Property/pollInterval" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-dynamicroutingengineoptions#/s:7heresdk27DynamicRoutingEngineOptionsV12pollIntervalSdvp" class="token"><code>pollInterval</code></a>` `
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  The poll interval. Zero duration triggers a route calculation with each position update. Triggered via
+
+      DynamicRoutingEngine.updateCurrentLocation(...)
+
+  Defaults to 15 minutes.
+  </p>
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  public var pollInterval: TimeInterval
+  ```
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+      init(minTimeDifferencePercentage: minTimeDifference: pollInterval: )
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  Creates an instance of this class.
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  public init ( minTimeDifferencePercentage : Double ? = nil , minTimeDifference : TimeInterval ? = nil , pollInterval : TimeInterval = 15 * 60 )
+  ```
+
+  </pre>
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="sdk-for-ios-navigate-footer" class="section">
+
+© 2026 . All rights reserved. (Last updated: 2026-04-14)
+
+Generated by <a href="https://github.com/realm/jazzy" class="link" rel="external noopener" target="_blank">jazzy ♪♫ v0.15.2</a>, a <a href="https://realm.io" class="link" rel="external noopener" target="_blank">Realm</a> project.
+
+</div>
+
+</article>
+

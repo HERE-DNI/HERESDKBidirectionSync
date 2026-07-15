@@ -1,0 +1,307 @@
+---
+title: "LocationFeature Enumeration Reference"
+slug: "sdk-for-ios-navigate-enums-locationfeature"
+---
+
+# LocationFeature
+
+<div class="declaration">
+
+<div class="language">
+
+``` highlight
+public enum LocationFeature : UInt32, CaseIterable, Codable
+```
+
+</div>
+
+</div>
+
+Location features supported by HERE positioning.
+
+</div>
+
+<div class="section section task-group-section">
+
+<div class="task-group">
+
+- <div>
+
+  ` `<span id="/s:7heresdk15LocationFeatureO19cellularPositioningyA2CmF"></span>` `<span id="//apple_ref/swift/Element/cellularPositioning" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-locationfeature#/s:7heresdk15LocationFeatureO19cellularPositioningyA2CmF" class="token"><code>cellularPositioning</code></a>` `
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  Cellular network positioning.
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  case cellularPositioning
+  ```
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+  ` `<span id="/s:7heresdk15LocationFeatureO17wifiPositioning2dyA2CmF"></span>` `<span id="//apple_ref/swift/Element/wifiPositioning2d" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-locationfeature#/s:7heresdk15LocationFeatureO17wifiPositioning2dyA2CmF" class="token"><code>wifiPositioning2d</code></a>` `
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  WiFi network positioning without altitude.
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  case wifiPositioning2d
+  ```
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+  ` `<span id="/s:7heresdk15LocationFeatureO17wifiPositioning3dyA2CmF"></span>` `<span id="//apple_ref/swift/Element/wifiPositioning3d" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-locationfeature#/s:7heresdk15LocationFeatureO17wifiPositioning3dyA2CmF" class="token"><code>wifiPositioning3d</code></a>` `
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  WiFi network positioning with altitude.
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  case wifiPositioning3d
+  ```
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+  ` `<span id="/s:7heresdk15LocationFeatureO17hdGnssPositioningyA2CmF"></span>` `<span id="//apple_ref/swift/Element/hdGnssPositioning" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-locationfeature#/s:7heresdk15LocationFeatureO17hdGnssPositioningyA2CmF" class="token"><code>hdGnssPositioning</code></a>` `
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  HD GNSS positioning.
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  case hdGnssPositioning
+  ```
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+  ` `<span id="/s:7heresdk15LocationFeatureO14vdrPositioningyA2CmF"></span>` `<span id="//apple_ref/swift/Element/vdrPositioning" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-locationfeature#/s:7heresdk15LocationFeatureO14vdrPositioningyA2CmF" class="token"><code>vdrPositioning</code></a>` `
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  Vehicle Dead Reckoning.
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  case vdrPositioning
+  ```
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+  ` `<span id="/s:7heresdk15LocationFeatureO9undefinedyA2CmF"></span>` `<span id="//apple_ref/swift/Element/undefined" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-locationfeature#/s:7heresdk15LocationFeatureO9undefinedyA2CmF" class="token"><code>undefined</code></a>` `
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  Not defined.
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  case undefined
+  ```
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="sdk-for-ios-navigate-footer" class="section">
+
+© 2026 . All rights reserved. (Last updated: 2026-04-14)
+
+Generated by <a href="https://github.com/realm/jazzy" class="link" rel="external noopener" target="_blank">jazzy ♪♫ v0.15.2</a>, a <a href="https://realm.io" class="link" rel="external noopener" target="_blank">Realm</a> project.
+
+</div>
+
+</article>
+

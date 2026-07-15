@@ -1,0 +1,234 @@
+---
+title: "SegmentSpecialSpeedSituation Structure Reference"
+slug: "sdk-for-ios-navigate-structs-segmentspecialspeedsituation"
+---
+
+# SegmentSpecialSpeedSituation
+
+<div class="declaration">
+
+<div class="language">
+
+``` highlight
+public struct SegmentSpecialSpeedSituation : Hashable
+```
+
+</div>
+
+</div>
+
+A special speed situation indicates a speed that exists under special circumstances. It can be used to further refine the estimation of traversal times, route calculation and calculation of route guidance timing.
+
+**Note:** This is a beta release of this feature, so there could be a few bugs and unexpected behaviors. Related APIs may change for new releases without a deprecation process.
+
+</div>
+
+<div class="section section task-group-section">
+
+<div class="task-group">
+
+- <div>
+
+  ` `<span id="/s:7heresdk28SegmentSpecialSpeedSituationV07specialD4TypeAA0cdG0Ovp"></span>` `<span id="//apple_ref/swift/Property/specialSpeedType" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-segmentspecialspeedsituation#/s:7heresdk28SegmentSpecialSpeedSituationV07specialD4TypeAA0cdG0Ovp" class="token"><code>specialSpeedType</code></a>` `
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  Represents the speed situation type.
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  public var specialSpeedType: SpecialSpeedType
+  ```
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+  ` `<span id="/s:7heresdk28SegmentSpecialSpeedSituationV27speedLimitInMetersPerSecondSdvp"></span>` `<span id="//apple_ref/swift/Property/speedLimitInMetersPerSecond" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-segmentspecialspeedsituation#/s:7heresdk28SegmentSpecialSpeedSituationV27speedLimitInMetersPerSecondSdvp" class="token"><code>speedLimitInMetersPerSecond</code></a>` `
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  Overrides normal speed limit for this situation.
+
+  May be 0 to indicate no special speed limit in the case of special_speed_type = SPEED_BUMPS_PRESENT and special_speed_type = LANE_DEPENDENT. Speed limit in meter per seconds.
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  public var speedLimitInMetersPerSecond: Double
+  ```
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+  ` `<span id="/s:7heresdk28SegmentSpecialSpeedSituationV13appliesDuringSayAA8TimeRuleCGvp"></span>` `<span id="//apple_ref/swift/Property/appliesDuring" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-segmentspecialspeedsituation#/s:7heresdk28SegmentSpecialSpeedSituationV13appliesDuringSayAA8TimeRuleCGvp" class="token"><code>appliesDuring</code></a>` `
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  The times during which the condition applies. May be empty for all special_speed_type values except `TIME_DEPENDENT` and `APPROXIMATE_SEASONAL_TIME`.
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  public var appliesDuring: [TimeRule]
+  ```
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+      init(specialSpeedType: speedLimitInMetersPerSecond: appliesDuring: )
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  Creates a new instance with default values.
+
+  - Parameters
+
+    - specialSpeedType: Represents the speed situation type.
+    - speedLimitInMetersPerSecond: Overrides normal speed limit for this situation.
+
+    May be 0 to indicate no special speed limit in the case of special_speed_type = SPEED_BUMPS_PRESENT and special_speed_type = LANE_DEPENDENT. Speed limit in meter per seconds.
+
+    - appliesDuring: The times during which the condition applies. May be empty for all special_speed_type values except `TIME_DEPENDENT` and `APPROXIMATE_SEASONAL_TIME`.
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  public init ( specialSpeedType : SpecialSpeedType , speedLimitInMetersPerSecond : Double , appliesDuring : [ TimeRule ])
+  ```
+
+  </pre>
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="sdk-for-ios-navigate-footer" class="section">
+
+© 2026 . All rights reserved. (Last updated: 2026-04-14)
+
+Generated by <a href="https://github.com/realm/jazzy" class="link" rel="external noopener" target="_blank">jazzy ♪♫ v0.15.2</a>, a <a href="https://realm.io" class="link" rel="external noopener" target="_blank">Realm</a> project.
+
+</div>
+
+</article>
+

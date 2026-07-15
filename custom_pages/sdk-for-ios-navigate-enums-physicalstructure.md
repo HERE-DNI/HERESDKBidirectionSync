@@ -1,0 +1,309 @@
+---
+title: "PhysicalStructure Enumeration Reference"
+slug: "sdk-for-ios-navigate-enums-physicalstructure"
+---
+
+# PhysicalStructure
+
+<div class="declaration">
+
+<div class="language">
+
+``` highlight
+public enum PhysicalStructure : UInt32, CaseIterable, Codable
+```
+
+</div>
+
+</div>
+
+Physical structure of a road feature that causes an access restriction, such as a bridge or tunnel that may limit vehicle dimensions or weight.
+
+**Note:** This is a beta release of this feature, so there could be a few bugs and unexpected behaviors. Related APIs may change for new releases without a deprecation process.
+
+</div>
+
+<div class="section section task-group-section">
+
+<div class="task-group">
+
+- <div>
+
+  ` `<span id="/s:7heresdk17PhysicalStructureO7unknownyA2CmF"></span>` `<span id="//apple_ref/swift/Element/unknown" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-physicalstructure#/s:7heresdk17PhysicalStructureO7unknownyA2CmF" class="token"><code>unknown</code></a>` `
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  No physical structure or the structure type is unknown.
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  case unknown
+  ```
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+  ` `<span id="/s:7heresdk17PhysicalStructureO6bridgeyA2CmF"></span>` `<span id="//apple_ref/swift/Element/bridge" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-physicalstructure#/s:7heresdk17PhysicalStructureO6bridgeyA2CmF" class="token"><code>bridge</code></a>` `
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  A bridge.
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  case bridge
+  ```
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+  ` `<span id="/s:7heresdk17PhysicalStructureO6tunnelyA2CmF"></span>` `<span id="//apple_ref/swift/Element/tunnel" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-physicalstructure#/s:7heresdk17PhysicalStructureO6tunnelyA2CmF" class="token"><code>tunnel</code></a>` `
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  A tunnel.
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  case tunnel
+  ```
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+  ` `<span id="/s:7heresdk17PhysicalStructureO10archBridgeyA2CmF"></span>` `<span id="//apple_ref/swift/Element/archBridge" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-physicalstructure#/s:7heresdk17PhysicalStructureO10archBridgeyA2CmF" class="token"><code>archBridge</code></a>` `
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  An arch bridge.
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  case archBridge
+  ```
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+  ` `<span id="/s:7heresdk17PhysicalStructureO10archTunnelyA2CmF"></span>` `<span id="//apple_ref/swift/Element/archTunnel" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-physicalstructure#/s:7heresdk17PhysicalStructureO10archTunnelyA2CmF" class="token"><code>archTunnel</code></a>` `
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  An arch tunnel.
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  case archTunnel
+  ```
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+  ` `<span id="/s:7heresdk17PhysicalStructureO5otheryA2CmF"></span>` `<span id="//apple_ref/swift/Element/other" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-physicalstructure#/s:7heresdk17PhysicalStructureO5otheryA2CmF" class="token"><code>other</code></a>` `
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  Any other physical structure not covered by the above values.
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  case other
+  ```
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="sdk-for-ios-navigate-footer" class="section">
+
+© 2026 . All rights reserved. (Last updated: 2026-04-14)
+
+Generated by <a href="https://github.com/realm/jazzy" class="link" rel="external noopener" target="_blank">jazzy ♪♫ v0.15.2</a>, a <a href="https://realm.io" class="link" rel="external noopener" target="_blank">Realm</a> project.
+
+</div>
+
+</article>
+

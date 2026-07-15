@@ -1,0 +1,306 @@
+---
+title: "VenueGeometryStyle Class Reference"
+slug: "sdk-for-ios-navigate-classes-venuegeometrystyle"
+---
+
+# VenueGeometryStyle
+
+<div class="declaration">
+
+<div class="language">
+
+``` highlight
+public class VenueGeometryStyle
+```
+
+``` highlight
+extension VenueGeometryStyle: NativeBase
+```
+
+``` highlight
+extension VenueGeometryStyle: Hashable
+```
+
+</div>
+
+</div>
+
+Represents a style of the <a href="sdk-for-ios-navigate-classes-venuegeometry">`VenueGeometry`</a>.
+
+</div>
+
+<div class="section section task-group-section">
+
+<div class="task-group">
+
+- <div>
+
+      init(mainColor: outlineColor: outlineWidth: )
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  Creates a custom style with specific parameters.
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  public init ( mainColor : UIColor , outlineColor : UIColor , outlineWidth : Float )
+  ```
+
+  </pre>
+
+  </div>
+
+  </div>
+
+  <div>
+
+  #### Parameters
+
+  <table class="graybox">
+  <colgroup>
+  <col style="width: 50%" />
+  <col style="width: 50%" />
+  </colgroup>
+  <tbody>
+  <tr>
+  <td><code> </code><em><code>mainColor</code></em><code> </code></td>
+  <td><div>
+  <p>The main color.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>outlineColor</code></em><code> </code></td>
+  <td><div>
+  <p>The outline color.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>outlineWidth</code></em><code> </code></td>
+  <td><div>
+  <p>The outline width.</p>
+  </div></td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+  ` `<span id="/s:7heresdk18VenueGeometryStyleC9mainColorSo7UIColorCvp"></span>` `<span id="//apple_ref/swift/Property/mainColor" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-venuegeometrystyle#/s:7heresdk18VenueGeometryStyleC9mainColorSo7UIColorCvp" class="token"><code>mainColor</code></a>` `
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  The main color.
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  public var mainColor: UIColor { get }
+  ```
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+  ` `<span id="/s:7heresdk18VenueGeometryStyleC12outlineColorSo7UIColorCvp"></span>` `<span id="//apple_ref/swift/Property/outlineColor" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-venuegeometrystyle#/s:7heresdk18VenueGeometryStyleC12outlineColorSo7UIColorCvp" class="token"><code>outlineColor</code></a>` `
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  The outline color.
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  public var outlineColor: UIColor { get }
+  ```
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+  ` `<span id="/s:7heresdk18VenueGeometryStyleC12outlineWidthSfvp"></span>` `<span id="//apple_ref/swift/Property/outlineWidth" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-venuegeometrystyle#/s:7heresdk18VenueGeometryStyleC12outlineWidthSfvp" class="token"><code>outlineWidth</code></a>` `
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  The outline width.
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  public var outlineWidth: Float { get }
+  ```
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+  ` `<span id="/s:7heresdk18VenueGeometryStyleC05labelD4NameSSSgvp"></span>` `<span id="//apple_ref/swift/Property/labelStyleName" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-venuegeometrystyle#/s:7heresdk18VenueGeometryStyleC05labelD4NameSSSgvp" class="token"><code>labelStyleName</code></a>` `
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  The label style name. Defaults to\`null, if a label style name has not been set for this style.
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  public var labelStyleName: String? { get }
+  ```
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="sdk-for-ios-navigate-footer" class="section">
+
+© 2026 . All rights reserved. (Last updated: 2026-04-14)
+
+Generated by <a href="https://github.com/realm/jazzy" class="link" rel="external noopener" target="_blank">jazzy ♪♫ v0.15.2</a>, a <a href="https://realm.io" class="link" rel="external noopener" target="_blank">Realm</a> project.
+
+</div>
+
+</article>
+

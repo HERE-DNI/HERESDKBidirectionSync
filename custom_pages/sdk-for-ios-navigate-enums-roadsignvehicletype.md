@@ -1,0 +1,307 @@
+---
+title: "RoadSignVehicleType Enumeration Reference"
+slug: "sdk-for-ios-navigate-enums-roadsignvehicletype"
+---
+
+# RoadSignVehicleType
+
+<div class="declaration">
+
+<div class="language">
+
+``` highlight
+public enum RoadSignVehicleType : UInt32, CaseIterable, Codable
+```
+
+</div>
+
+</div>
+
+Vehicle type for which a road sign is applicable.
+
+</div>
+
+<div class="section section task-group-section">
+
+<div class="task-group">
+
+- <div>
+
+  ` `<span id="/s:7heresdk19RoadSignVehicleTypeO6trucksyA2CmF"></span>` `<span id="//apple_ref/swift/Element/trucks" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-roadsignvehicletype#/s:7heresdk19RoadSignVehicleTypeO6trucksyA2CmF" class="token"><code>trucks</code></a>` `
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  Road sign is applicable for trucks.
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  case trucks
+  ```
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+  ` `<span id="/s:7heresdk19RoadSignVehicleTypeO11heavyTrucksyA2CmF"></span>` `<span id="//apple_ref/swift/Element/heavyTrucks" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-roadsignvehicletype#/s:7heresdk19RoadSignVehicleTypeO11heavyTrucksyA2CmF" class="token"><code>heavyTrucks</code></a>` `
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  Road sign is applicable for heavy trucks.
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  case heavyTrucks
+  ```
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+  ` `<span id="/s:7heresdk19RoadSignVehicleTypeO3busyA2CmF"></span>` `<span id="//apple_ref/swift/Element/bus" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-roadsignvehicletype#/s:7heresdk19RoadSignVehicleTypeO3busyA2CmF" class="token"><code>bus</code></a>` `
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  Road sign is applicable for buses.
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  case bus
+  ```
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+  ` `<span id="/s:7heresdk19RoadSignVehicleTypeO11autoTraileryA2CmF"></span>` `<span id="//apple_ref/swift/Element/autoTrailer" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-roadsignvehicletype#/s:7heresdk19RoadSignVehicleTypeO11autoTraileryA2CmF" class="token"><code>autoTrailer</code></a>` `
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  Road sign is applicable for auto trailers. For example, passenger vehicles with trailer.
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  case autoTrailer
+  ```
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+  ` `<span id="/s:7heresdk19RoadSignVehicleTypeO9motorhomeyA2CmF"></span>` `<span id="//apple_ref/swift/Element/motorhome" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-roadsignvehicletype#/s:7heresdk19RoadSignVehicleTypeO9motorhomeyA2CmF" class="token"><code>motorhome</code></a>` `
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  Road sign is applicable for motorhomes.
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  case motorhome
+  ```
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+  ` `<span id="/s:7heresdk19RoadSignVehicleTypeO10motorcycleyA2CmF"></span>` `<span id="//apple_ref/swift/Element/motorcycle" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-roadsignvehicletype#/s:7heresdk19RoadSignVehicleTypeO10motorcycleyA2CmF" class="token"><code>motorcycle</code></a>` `
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  Road sign is applicable for motorcycles.
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  case motorcycle
+  ```
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="sdk-for-ios-navigate-footer" class="section">
+
+© 2026 . All rights reserved. (Last updated: 2026-04-14)
+
+Generated by <a href="https://github.com/realm/jazzy" class="link" rel="external noopener" target="_blank">jazzy ♪♫ v0.15.2</a>, a <a href="https://realm.io" class="link" rel="external noopener" target="_blank">Realm</a> project.
+
+</div>
+
+</article>
+
