@@ -35,7 +35,7 @@ Stores keyframes for interpolation of a camera property using a specific easing 
 
 - <div>
 
-  ` `<span id="/s:7heresdk22MapCameraKeyframeTrackC18InstantiationErrora"></span>` `<span id="//apple_ref/swift/Alias/InstantiationError" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapcamerakeyframetrack#/s:7heresdk22MapCameraKeyframeTrackC18InstantiationErrora" class="token"><code>InstantiationError</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk22MapCameraKeyframeTrackC18InstantiationErrora"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Alias-InstantiationError" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapcamerakeyframetrack#sdk-for-ios-navigate-s-7heresdk22MapCameraKeyframeTrackC18InstantiationErrora" class="token"><code>InstantiationError</code></a> 
 
   </div>
 
@@ -71,6 +71,10 @@ Stores keyframes for interpolation of a camera property using a specific easing 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mapcamerakeyframetrack-instantiationerrorcode">InstantiationErrorCode</a>
+
   </div>
 
   </div>
@@ -79,7 +83,7 @@ Stores keyframes for interpolation of a camera property using a specific easing 
 
 - <div>
 
-  ` `<span id="/s:7heresdk22MapCameraKeyframeTrackC17interpolationModeAA0d13InterpolationG0Ovp"></span>` `<span id="//apple_ref/swift/Property/interpolationMode" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapcamerakeyframetrack#/s:7heresdk22MapCameraKeyframeTrackC17interpolationModeAA0d13InterpolationG0Ovp" class="token"><code>interpolationMode</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk22MapCameraKeyframeTrackC17interpolationModeAA0d13InterpolationG0Ovp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-interpolationMode" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapcamerakeyframetrack#sdk-for-ios-navigate-s-7heresdk22MapCameraKeyframeTrackC17interpolationModeAA0d13InterpolationG0Ovp" class="token"><code>interpolationMode</code></a> 
 
   </div>
 
@@ -115,6 +119,10 @@ Stores keyframes for interpolation of a camera property using a specific easing 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-keyframeinterpolationmode">KeyframeInterpolationMode</a>
+
   </div>
 
   </div>
@@ -123,7 +131,7 @@ Stores keyframes for interpolation of a camera property using a specific easing 
 
 - <div>
 
-  ` `<span id="/s:7heresdk22MapCameraKeyframeTrackC22InstantiationErrorCodeO"></span>` `<span id="//apple_ref/swift/Enum/InstantiationErrorCode" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapcamerakeyframetrack#/s:7heresdk22MapCameraKeyframeTrackC22InstantiationErrorCodeO" class="token"><code>InstantiationErrorCode</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk22MapCameraKeyframeTrackC22InstantiationErrorCodeO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-InstantiationErrorCode" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapcamerakeyframetrack#sdk-for-ios-navigate-s-7heresdk22MapCameraKeyframeTrackC22InstantiationErrorCodeO" class="token"><code>InstantiationErrorCode</code></a> 
 
   </div>
 
@@ -165,6 +173,10 @@ Stores keyframes for interpolation of a camera property using a specific easing 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mapcamerakeyframetrack">MapCameraKeyframeTrack</a>
+
   </div>
 
   </div>
@@ -173,7 +185,7 @@ Stores keyframes for interpolation of a camera property using a specific easing 
 
 - <div>
 
-      getScalarKeyframes()
+   <span id="sdk-for-ios-navigate-s-7heresdk22MapCameraKeyframeTrackC18getScalarKeyframesSayAA0gD0VGSgyF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-getScalarKeyframes" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapcamerakeyframetrack#sdk-for-ios-navigate-s-7heresdk22MapCameraKeyframeTrackC18getScalarKeyframesSayAA0gD0VGSgyF" class="token"><code>getScalarKeyframes()</code></a> 
 
   </div>
 
@@ -202,12 +214,14 @@ Stores keyframes for interpolation of a camera property using a specific easing 
   Swift
 
   ``` highlight
-  public func getScalarKeyframes () -> [ ScalarKeyframe ]?
+  public func getScalarKeyframes() -> [ScalarKeyframe]?
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-scalarkeyframe">ScalarKeyframe</a>
 
   </div>
 
@@ -225,7 +239,7 @@ Stores keyframes for interpolation of a camera property using a specific easing 
 
 - <div>
 
-      getPoint2DKeyframes()
+   <span id="sdk-for-ios-navigate-s-7heresdk22MapCameraKeyframeTrackC19getPoint2DKeyframesSayAA0G9DKeyframeVGSgyF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-getPoint2DKeyframes" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapcamerakeyframetrack#sdk-for-ios-navigate-s-7heresdk22MapCameraKeyframeTrackC19getPoint2DKeyframesSayAA0G9DKeyframeVGSgyF" class="token"><code>getPoint2DKeyframes()</code></a> 
 
   </div>
 
@@ -254,12 +268,14 @@ Stores keyframes for interpolation of a camera property using a specific easing 
   Swift
 
   ``` highlight
-  public func getPoint2DKeyframes () -> [ Point2DKeyframe ]?
+  public func getPoint2DKeyframes() -> [Point2DKeyframe]?
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-point2dkeyframe">Point2DKeyframe</a>
 
   </div>
 
@@ -277,7 +293,7 @@ Stores keyframes for interpolation of a camera property using a specific easing 
 
 - <div>
 
-      getAnchor2DKeyframes()
+   <span id="sdk-for-ios-navigate-s-7heresdk22MapCameraKeyframeTrackC20getAnchor2DKeyframesSayAA0G9DKeyframeVGSgyF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-getAnchor2DKeyframes" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapcamerakeyframetrack#sdk-for-ios-navigate-s-7heresdk22MapCameraKeyframeTrackC20getAnchor2DKeyframesSayAA0G9DKeyframeVGSgyF" class="token"><code>getAnchor2DKeyframes()</code></a> 
 
   </div>
 
@@ -306,12 +322,14 @@ Stores keyframes for interpolation of a camera property using a specific easing 
   Swift
 
   ``` highlight
-  public func getAnchor2DKeyframes () -> [ Anchor2DKeyframe ]?
+  public func getAnchor2DKeyframes() -> [Anchor2DKeyframe]?
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-anchor2dkeyframe">Anchor2DKeyframe</a>
 
   </div>
 
@@ -329,7 +347,7 @@ Stores keyframes for interpolation of a camera property using a specific easing 
 
 - <div>
 
-      getGeoCoordinatesKeyframes()
+   <span id="sdk-for-ios-navigate-s-7heresdk22MapCameraKeyframeTrackC26getGeoCoordinatesKeyframesSayAA0ghD0VGSgyF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-getGeoCoordinatesKeyframes" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapcamerakeyframetrack#sdk-for-ios-navigate-s-7heresdk22MapCameraKeyframeTrackC26getGeoCoordinatesKeyframesSayAA0ghD0VGSgyF" class="token"><code>getGeoCoordinatesKeyframes()</code></a> 
 
   </div>
 
@@ -358,12 +376,14 @@ Stores keyframes for interpolation of a camera property using a specific easing 
   Swift
 
   ``` highlight
-  public func getGeoCoordinatesKeyframes () -> [ GeoCoordinatesKeyframe ]?
+  public func getGeoCoordinatesKeyframes() -> [GeoCoordinatesKeyframe]?
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-geocoordinateskeyframe">GeoCoordinatesKeyframe</a>
 
   </div>
 
@@ -381,7 +401,7 @@ Stores keyframes for interpolation of a camera property using a specific easing 
 
 - <div>
 
-      getGeoOrientationKeyframes()
+   <span id="sdk-for-ios-navigate-s-7heresdk22MapCameraKeyframeTrackC26getGeoOrientationKeyframesSayAA0ghD0VGSgyF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-getGeoOrientationKeyframes" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapcamerakeyframetrack#sdk-for-ios-navigate-s-7heresdk22MapCameraKeyframeTrackC26getGeoOrientationKeyframesSayAA0ghD0VGSgyF" class="token"><code>getGeoOrientationKeyframes()</code></a> 
 
   </div>
 
@@ -410,12 +430,14 @@ Stores keyframes for interpolation of a camera property using a specific easing 
   Swift
 
   ``` highlight
-  public func getGeoOrientationKeyframes () -> [ GeoOrientationKeyframe ]?
+  public func getGeoOrientationKeyframes() -> [GeoOrientationKeyframe]?
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-geoorientationkeyframe">GeoOrientationKeyframe</a>
 
   </div>
 
@@ -433,7 +455,7 @@ Stores keyframes for interpolation of a camera property using a specific easing 
 
 - <div>
 
-      lookAtDistance(keyframes: easing: interpolationMode: )
+   <span id="sdk-for-ios-navigate-s-7heresdk22MapCameraKeyframeTrackC14lookAtDistance9keyframes6easing17interpolationModeACSayAA06ScalarD0VG_AA6EasingCAA0d13InterpolationL0OtKFZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-lookAtDistance-keyframes-easing-interpolationMode" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapcamerakeyframetrack#sdk-for-ios-navigate-s-7heresdk22MapCameraKeyframeTrackC14lookAtDistance9keyframes6easing17interpolationModeACSayAA06ScalarD0VG_AA6EasingCAA0d13InterpolationL0OtKFZ" class="token"><code>lookAtDistance(keyframes:</code><wbr></wbr><code>easing:</code><wbr></wbr><code>interpolationMode:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -457,7 +479,7 @@ Stores keyframes for interpolation of a camera property using a specific easing 
 
   Throws
 
-  <a href="sdk-for-ios-navigate-classes-mapcamerakeyframetrack#/s:7heresdk22MapCameraKeyframeTrackC18InstantiationErrora">`MapCameraKeyframeTrack.InstantiationError`</a> Indicates an instantiation issue.
+  <a href="sdk-for-ios-navigate-classes-mapcamerakeyframetrack#sdk-for-ios-navigate-s-7heresdk22MapCameraKeyframeTrackC18InstantiationErrora">`MapCameraKeyframeTrack.InstantiationError`</a> Indicates an instantiation issue.
 
   </div>
 
@@ -472,12 +494,17 @@ Stores keyframes for interpolation of a camera property using a specific easing 
   Swift
 
   ``` highlight
-  @available(*, deprecated, message: "Will be removed in v4.27.0. Use `MapCameraKeyframeTrack.lookAtDistance(MapMeasure.Kind, [ScalarKeyframe], Easing, KeyframeInterpolationMode﹚` instead.") public static func lookAtDistance ( keyframes : [ ScalarKeyframe ], easing : Easing , interpolationMode : KeyframeInterpolationMode ) throws -> MapCameraKeyframeTrack
+  @available(*, deprecated, message: "Will be removed in v4.27.0. Use `MapCameraKeyframeTrack.lookAtDistance(MapMeasure.Kind, [ScalarKeyframe], Easing, KeyframeInterpolationMode﹚` instead.")
+  public static func lookAtDistance(keyframes: [ScalarKeyframe], easing: Easing, interpolationMode: KeyframeInterpolationMode) throws -> MapCameraKeyframeTrack
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-scalarkeyframe">ScalarKeyframe</a>
+  - <a href="sdk-for-ios-navigate-classes-easing">Easing</a>
+  - <a href="sdk-for-ios-navigate-enums-keyframeinterpolationmode">KeyframeInterpolationMode</a>
 
   </div>
 
@@ -528,7 +555,7 @@ Stores keyframes for interpolation of a camera property using a specific easing 
 
 - <div>
 
-      lookAtDistance(ofKind: keyframes: easing: interpolationMode: )
+   <span id="sdk-for-ios-navigate-s-7heresdk22MapCameraKeyframeTrackC14lookAtDistance6ofKind9keyframes6easing17interpolationModeAcA0B7MeasureV0J0O_SayAA06ScalarD0VGAA6EasingCAA0d13InterpolationN0OtKFZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-lookAtDistance-ofKind-keyframes-easing-interpolationMode" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapcamerakeyframetrack#sdk-for-ios-navigate-s-7heresdk22MapCameraKeyframeTrackC14lookAtDistance6ofKind9keyframes6easing17interpolationModeAcA0B7MeasureV0J0O_SayAA06ScalarD0VGAA6EasingCAA0d13InterpolationN0OtKFZ" class="token"><code>lookAtDistance(ofKind:</code><wbr></wbr><code>keyframes:</code><wbr></wbr><code>easing:</code><wbr></wbr><code>interpolationMode:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -552,7 +579,7 @@ Stores keyframes for interpolation of a camera property using a specific easing 
 
   Throws
 
-  <a href="sdk-for-ios-navigate-classes-mapcamerakeyframetrack#/s:7heresdk22MapCameraKeyframeTrackC18InstantiationErrora">`MapCameraKeyframeTrack.InstantiationError`</a> Indicates an instantiation issue.
+  <a href="sdk-for-ios-navigate-classes-mapcamerakeyframetrack#sdk-for-ios-navigate-s-7heresdk22MapCameraKeyframeTrackC18InstantiationErrora">`MapCameraKeyframeTrack.InstantiationError`</a> Indicates an instantiation issue.
 
   </div>
 
@@ -567,12 +594,17 @@ Stores keyframes for interpolation of a camera property using a specific easing 
   Swift
 
   ``` highlight
-  public static func lookAtDistance ( ofKind distanceKind : MapMeasure . Kind , keyframes : [ ScalarKeyframe ], easing : Easing , interpolationMode : KeyframeInterpolationMode ) throws -> MapCameraKeyframeTrack
+  public static func lookAtDistance(ofKind distanceKind: MapMeasure.Kind, keyframes: [ScalarKeyframe], easing: Easing, interpolationMode: KeyframeInterpolationMode) throws -> MapCameraKeyframeTrack
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-mapmeasure">MapMeasure</a>
+  - <a href="sdk-for-ios-navigate-structs-scalarkeyframe">ScalarKeyframe</a>
+  - <a href="sdk-for-ios-navigate-classes-easing">Easing</a>
+  - <a href="sdk-for-ios-navigate-enums-keyframeinterpolationmode">KeyframeInterpolationMode</a>
 
   </div>
 
@@ -629,7 +661,7 @@ Stores keyframes for interpolation of a camera property using a specific easing 
 
 - <div>
 
-      lookAtTarget(keyframes: easing: interpolationMode: )
+   <span id="sdk-for-ios-navigate-s-7heresdk22MapCameraKeyframeTrackC12lookAtTarget9keyframes6easing17interpolationModeACSayAA014GeoCoordinatesD0VG_AA6EasingCAA0d13InterpolationL0OtKFZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-lookAtTarget-keyframes-easing-interpolationMode" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapcamerakeyframetrack#sdk-for-ios-navigate-s-7heresdk22MapCameraKeyframeTrackC12lookAtTarget9keyframes6easing17interpolationModeACSayAA014GeoCoordinatesD0VG_AA6EasingCAA0d13InterpolationL0OtKFZ" class="token"><code>lookAtTarget(keyframes:</code><wbr></wbr><code>easing:</code><wbr></wbr><code>interpolationMode:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -653,7 +685,7 @@ Stores keyframes for interpolation of a camera property using a specific easing 
 
   Throws
 
-  <a href="sdk-for-ios-navigate-classes-mapcamerakeyframetrack#/s:7heresdk22MapCameraKeyframeTrackC18InstantiationErrora">`MapCameraKeyframeTrack.InstantiationError`</a> Indicates an instantiation issue.
+  <a href="sdk-for-ios-navigate-classes-mapcamerakeyframetrack#sdk-for-ios-navigate-s-7heresdk22MapCameraKeyframeTrackC18InstantiationErrora">`MapCameraKeyframeTrack.InstantiationError`</a> Indicates an instantiation issue.
 
   </div>
 
@@ -668,12 +700,16 @@ Stores keyframes for interpolation of a camera property using a specific easing 
   Swift
 
   ``` highlight
-  public static func lookAtTarget ( keyframes : [ GeoCoordinatesKeyframe ], easing : Easing , interpolationMode : KeyframeInterpolationMode ) throws -> MapCameraKeyframeTrack
+  public static func lookAtTarget(keyframes: [GeoCoordinatesKeyframe], easing: Easing, interpolationMode: KeyframeInterpolationMode) throws -> MapCameraKeyframeTrack
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-geocoordinateskeyframe">GeoCoordinatesKeyframe</a>
+  - <a href="sdk-for-ios-navigate-classes-easing">Easing</a>
+  - <a href="sdk-for-ios-navigate-enums-keyframeinterpolationmode">KeyframeInterpolationMode</a>
 
   </div>
 
@@ -724,7 +760,7 @@ Stores keyframes for interpolation of a camera property using a specific easing 
 
 - <div>
 
-      lookAtOrientation(keyframes: easing: interpolationMode: )
+   <span id="sdk-for-ios-navigate-s-7heresdk22MapCameraKeyframeTrackC17lookAtOrientation9keyframes6easing17interpolationModeACSayAA03GeohD0VG_AA6EasingCAA0d13InterpolationL0OtKFZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-lookAtOrientation-keyframes-easing-interpolationMode" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapcamerakeyframetrack#sdk-for-ios-navigate-s-7heresdk22MapCameraKeyframeTrackC17lookAtOrientation9keyframes6easing17interpolationModeACSayAA03GeohD0VG_AA6EasingCAA0d13InterpolationL0OtKFZ" class="token"><code>lookAtOrientation(keyframes:</code><wbr></wbr><code>easing:</code><wbr></wbr><code>interpolationMode:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -748,7 +784,7 @@ Stores keyframes for interpolation of a camera property using a specific easing 
 
   Throws
 
-  <a href="sdk-for-ios-navigate-classes-mapcamerakeyframetrack#/s:7heresdk22MapCameraKeyframeTrackC18InstantiationErrora">`MapCameraKeyframeTrack.InstantiationError`</a> Indicates an instantiation issue.
+  <a href="sdk-for-ios-navigate-classes-mapcamerakeyframetrack#sdk-for-ios-navigate-s-7heresdk22MapCameraKeyframeTrackC18InstantiationErrora">`MapCameraKeyframeTrack.InstantiationError`</a> Indicates an instantiation issue.
 
   </div>
 
@@ -763,12 +799,16 @@ Stores keyframes for interpolation of a camera property using a specific easing 
   Swift
 
   ``` highlight
-  public static func lookAtOrientation ( keyframes : [ GeoOrientationKeyframe ], easing : Easing , interpolationMode : KeyframeInterpolationMode ) throws -> MapCameraKeyframeTrack
+  public static func lookAtOrientation(keyframes: [GeoOrientationKeyframe], easing: Easing, interpolationMode: KeyframeInterpolationMode) throws -> MapCameraKeyframeTrack
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-geoorientationkeyframe">GeoOrientationKeyframe</a>
+  - <a href="sdk-for-ios-navigate-classes-easing">Easing</a>
+  - <a href="sdk-for-ios-navigate-enums-keyframeinterpolationmode">KeyframeInterpolationMode</a>
 
   </div>
 
@@ -819,7 +859,7 @@ Stores keyframes for interpolation of a camera property using a specific easing 
 
 - <div>
 
-      principalPoint(keyframes: easing: interpolationMode: )
+   <span id="sdk-for-ios-navigate-s-7heresdk22MapCameraKeyframeTrackC14principalPoint9keyframes6easing17interpolationModeACSayAA15Point2DKeyframeVG_AA6EasingCAA0d13InterpolationK0OtKFZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-principalPoint-keyframes-easing-interpolationMode" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapcamerakeyframetrack#sdk-for-ios-navigate-s-7heresdk22MapCameraKeyframeTrackC14principalPoint9keyframes6easing17interpolationModeACSayAA15Point2DKeyframeVG_AA6EasingCAA0d13InterpolationK0OtKFZ" class="token"><code>principalPoint(keyframes:</code><wbr></wbr><code>easing:</code><wbr></wbr><code>interpolationMode:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -843,7 +883,7 @@ Stores keyframes for interpolation of a camera property using a specific easing 
 
   Throws
 
-  <a href="sdk-for-ios-navigate-classes-mapcamerakeyframetrack#/s:7heresdk22MapCameraKeyframeTrackC18InstantiationErrora">`MapCameraKeyframeTrack.InstantiationError`</a> Indicates an instantiation issue.
+  <a href="sdk-for-ios-navigate-classes-mapcamerakeyframetrack#sdk-for-ios-navigate-s-7heresdk22MapCameraKeyframeTrackC18InstantiationErrora">`MapCameraKeyframeTrack.InstantiationError`</a> Indicates an instantiation issue.
 
   </div>
 
@@ -858,12 +898,16 @@ Stores keyframes for interpolation of a camera property using a specific easing 
   Swift
 
   ``` highlight
-  public static func principalPoint ( keyframes : [ Point2DKeyframe ], easing : Easing , interpolationMode : KeyframeInterpolationMode ) throws -> MapCameraKeyframeTrack
+  public static func principalPoint(keyframes: [Point2DKeyframe], easing: Easing, interpolationMode: KeyframeInterpolationMode) throws -> MapCameraKeyframeTrack
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-point2dkeyframe">Point2DKeyframe</a>
+  - <a href="sdk-for-ios-navigate-classes-easing">Easing</a>
+  - <a href="sdk-for-ios-navigate-enums-keyframeinterpolationmode">KeyframeInterpolationMode</a>
 
   </div>
 
@@ -914,7 +958,7 @@ Stores keyframes for interpolation of a camera property using a specific easing 
 
 - <div>
 
-      normalizedPrincipalPoint(keyframes: easing: interpolationMode: )
+   <span id="sdk-for-ios-navigate-s-7heresdk22MapCameraKeyframeTrackC24normalizedPrincipalPoint9keyframes6easing17interpolationModeACSayAA16Anchor2DKeyframeVG_AA6EasingCAA0d13InterpolationL0OtKFZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-normalizedPrincipalPoint-keyframes-easing-interpolationMode" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapcamerakeyframetrack#sdk-for-ios-navigate-s-7heresdk22MapCameraKeyframeTrackC24normalizedPrincipalPoint9keyframes6easing17interpolationModeACSayAA16Anchor2DKeyframeVG_AA6EasingCAA0d13InterpolationL0OtKFZ" class="token"><code>normalizedPrincipalPoint(keyframes:</code><wbr></wbr><code>easing:</code><wbr></wbr><code>interpolationMode:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -938,7 +982,7 @@ Stores keyframes for interpolation of a camera property using a specific easing 
 
   Throws
 
-  <a href="sdk-for-ios-navigate-classes-mapcamerakeyframetrack#/s:7heresdk22MapCameraKeyframeTrackC18InstantiationErrora">`MapCameraKeyframeTrack.InstantiationError`</a> Indicates an instantiation issue.
+  <a href="sdk-for-ios-navigate-classes-mapcamerakeyframetrack#sdk-for-ios-navigate-s-7heresdk22MapCameraKeyframeTrackC18InstantiationErrora">`MapCameraKeyframeTrack.InstantiationError`</a> Indicates an instantiation issue.
 
   </div>
 
@@ -953,12 +997,16 @@ Stores keyframes for interpolation of a camera property using a specific easing 
   Swift
 
   ``` highlight
-  public static func normalizedPrincipalPoint ( keyframes : [ Anchor2DKeyframe ], easing : Easing , interpolationMode : KeyframeInterpolationMode ) throws -> MapCameraKeyframeTrack
+  public static func normalizedPrincipalPoint(keyframes: [Anchor2DKeyframe], easing: Easing, interpolationMode: KeyframeInterpolationMode) throws -> MapCameraKeyframeTrack
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-anchor2dkeyframe">Anchor2DKeyframe</a>
+  - <a href="sdk-for-ios-navigate-classes-easing">Easing</a>
+  - <a href="sdk-for-ios-navigate-enums-keyframeinterpolationmode">KeyframeInterpolationMode</a>
 
   </div>
 
@@ -1009,7 +1057,7 @@ Stores keyframes for interpolation of a camera property using a specific easing 
 
 - <div>
 
-      fieldOfView(keyframes: easing: interpolationMode: )
+   <span id="sdk-for-ios-navigate-s-7heresdk22MapCameraKeyframeTrackC11fieldOfView9keyframes6easing17interpolationModeACSayAA06ScalarD0VG_AA6EasingCAA0d13InterpolationL0OtKFZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-fieldOfView-keyframes-easing-interpolationMode" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapcamerakeyframetrack#sdk-for-ios-navigate-s-7heresdk22MapCameraKeyframeTrackC11fieldOfView9keyframes6easing17interpolationModeACSayAA06ScalarD0VG_AA6EasingCAA0d13InterpolationL0OtKFZ" class="token"><code>fieldOfView(keyframes:</code><wbr></wbr><code>easing:</code><wbr></wbr><code>interpolationMode:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1033,7 +1081,7 @@ Stores keyframes for interpolation of a camera property using a specific easing 
 
   Throws
 
-  <a href="sdk-for-ios-navigate-classes-mapcamerakeyframetrack#/s:7heresdk22MapCameraKeyframeTrackC18InstantiationErrora">`MapCameraKeyframeTrack.InstantiationError`</a> Indicates an instantiation issue.
+  <a href="sdk-for-ios-navigate-classes-mapcamerakeyframetrack#sdk-for-ios-navigate-s-7heresdk22MapCameraKeyframeTrackC18InstantiationErrora">`MapCameraKeyframeTrack.InstantiationError`</a> Indicates an instantiation issue.
 
   </div>
 
@@ -1048,12 +1096,16 @@ Stores keyframes for interpolation of a camera property using a specific easing 
   Swift
 
   ``` highlight
-  public static func fieldOfView ( keyframes : [ ScalarKeyframe ], easing : Easing , interpolationMode : KeyframeInterpolationMode ) throws -> MapCameraKeyframeTrack
+  public static func fieldOfView(keyframes: [ScalarKeyframe], easing: Easing, interpolationMode: KeyframeInterpolationMode) throws -> MapCameraKeyframeTrack
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-scalarkeyframe">ScalarKeyframe</a>
+  - <a href="sdk-for-ios-navigate-classes-easing">Easing</a>
+  - <a href="sdk-for-ios-navigate-enums-keyframeinterpolationmode">KeyframeInterpolationMode</a>
 
   </div>
 

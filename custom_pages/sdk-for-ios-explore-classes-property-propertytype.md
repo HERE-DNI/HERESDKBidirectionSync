@@ -27,7 +27,7 @@ Types of properties.
 
 - <div>
 
-  ` `<span id="/s:7heresdk8PropertyC0B4TypeO4boolyA2EmF"></span>` `<span id="//apple_ref/swift/Element/bool" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-property-propertytype#/s:7heresdk8PropertyC0B4TypeO4boolyA2EmF" class="token"><code>bool</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk8PropertyC0B4TypeO4boolyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-bool" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-property-propertytype#sdk-for-ios-explore-s-7heresdk8PropertyC0B4TypeO4boolyA2EmF" class="token"><code>bool</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Types of properties.
 
 - <div>
 
-  ` `<span id="/s:7heresdk8PropertyC0B4TypeO3intyA2EmF"></span>` `<span id="//apple_ref/swift/Element/int" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-property-propertytype#/s:7heresdk8PropertyC0B4TypeO3intyA2EmF" class="token"><code>int</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk8PropertyC0B4TypeO3intyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-int" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-property-propertytype#sdk-for-ios-explore-s-7heresdk8PropertyC0B4TypeO3intyA2EmF" class="token"><code>int</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Types of properties.
 
 - <div>
 
-  ` `<span id="/s:7heresdk8PropertyC0B4TypeO6stringyA2EmF"></span>` `<span id="//apple_ref/swift/Element/string" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-property-propertytype#/s:7heresdk8PropertyC0B4TypeO6stringyA2EmF" class="token"><code>string</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk8PropertyC0B4TypeO6stringyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-string" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-property-propertytype#sdk-for-ios-explore-s-7heresdk8PropertyC0B4TypeO6stringyA2EmF" class="token"><code>string</code></a> 
 
   </div>
 

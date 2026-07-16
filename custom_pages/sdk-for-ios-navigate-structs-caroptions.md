@@ -10,10 +10,9 @@ slug: "sdk-for-ios-navigate-structs-caroptions"
 <div class="language">
 
 ``` highlight
-@available(*, deprecated, message: "Will be removed in v4.28.0. Use `RoutingOptions` class instead.") public struct CarOptions : Hashable
+@available(*, deprecated, message: "Will be removed in v4.28.0. Use `RoutingOptions` class instead.")
+public struct CarOptions : Hashable
 ```
-
-</pre>
 
 </div>
 
@@ -29,7 +28,7 @@ All the options to specify how a car route should be calculated.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10CarOptionsV05routeC0AA05RouteC0Vvp"></span>` `<span id="//apple_ref/swift/Property/routeOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-caroptions#/s:7heresdk10CarOptionsV05routeC0AA05RouteC0Vvp" class="token"><code>routeOptions</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10CarOptionsV05routeC0AA05RouteC0Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-routeOptions" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-caroptions#sdk-for-ios-navigate-s-7heresdk10CarOptionsV05routeC0AA05RouteC0Vvp" class="token"><code>routeOptions</code></a> 
 
   </div>
 
@@ -65,6 +64,10 @@ All the options to specify how a car route should be calculated.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-routeoptions">RouteOptions</a>
+
   </div>
 
   </div>
@@ -73,7 +76,7 @@ All the options to specify how a car route should be calculated.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10CarOptionsV04textC0AA09RouteTextC0Vvp"></span>` `<span id="//apple_ref/swift/Property/textOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-caroptions#/s:7heresdk10CarOptionsV04textC0AA09RouteTextC0Vvp" class="token"><code>textOptions</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10CarOptionsV04textC0AA09RouteTextC0Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-textOptions" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-caroptions#sdk-for-ios-navigate-s-7heresdk10CarOptionsV04textC0AA09RouteTextC0Vvp" class="token"><code>textOptions</code></a> 
 
   </div>
 
@@ -109,6 +112,10 @@ All the options to specify how a car route should be calculated.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-routetextoptions">RouteTextOptions</a>
+
   </div>
 
   </div>
@@ -117,7 +124,7 @@ All the options to specify how a car route should be calculated.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10CarOptionsV09avoidanceC0AA09AvoidanceC0Vvp"></span>` `<span id="//apple_ref/swift/Property/avoidanceOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-caroptions#/s:7heresdk10CarOptionsV09avoidanceC0AA09AvoidanceC0Vvp" class="token"><code>avoidanceOptions</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10CarOptionsV09avoidanceC0AA09AvoidanceC0Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-avoidanceOptions" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-caroptions#sdk-for-ios-navigate-s-7heresdk10CarOptionsV09avoidanceC0AA09AvoidanceC0Vvp" class="token"><code>avoidanceOptions</code></a> 
 
   </div>
 
@@ -153,6 +160,10 @@ All the options to specify how a car route should be calculated.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-avoidanceoptions">AvoidanceOptions</a>
+
   </div>
 
   </div>
@@ -161,7 +172,7 @@ All the options to specify how a car route should be calculated.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10CarOptionsV04tollC0AA04TollC0Vvp"></span>` `<span id="//apple_ref/swift/Property/tollOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-caroptions#/s:7heresdk10CarOptionsV04tollC0AA04TollC0Vvp" class="token"><code>tollOptions</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10CarOptionsV04tollC0AA04TollC0Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-tollOptions" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-caroptions#sdk-for-ios-navigate-s-7heresdk10CarOptionsV04tollC0AA04TollC0Vvp" class="token"><code>tollOptions</code></a> 
 
   </div>
 
@@ -197,6 +208,10 @@ All the options to specify how a car route should be calculated.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-tolloptions">TollOptions</a>
+
   </div>
 
   </div>
@@ -205,7 +220,7 @@ All the options to specify how a car route should be calculated.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10CarOptionsV05allowC0AA05AllowC0Vvp"></span>` `<span id="//apple_ref/swift/Property/allowOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-caroptions#/s:7heresdk10CarOptionsV05allowC0AA05AllowC0Vvp" class="token"><code>allowOptions</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10CarOptionsV05allowC0AA05AllowC0Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-allowOptions" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-caroptions#sdk-for-ios-navigate-s-7heresdk10CarOptionsV05allowC0AA05AllowC0Vvp" class="token"><code>allowOptions</code></a> 
 
   </div>
 
@@ -241,6 +256,10 @@ All the options to specify how a car route should be calculated.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-allowoptions">AllowOptions</a>
+
   </div>
 
   </div>
@@ -249,7 +268,7 @@ All the options to specify how a car route should be calculated.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10CarOptionsV15occupantsNumbers5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/occupantsNumber" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-caroptions#/s:7heresdk10CarOptionsV15occupantsNumbers5Int32Vvp" class="token"><code>occupantsNumber</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10CarOptionsV15occupantsNumbers5Int32Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-occupantsNumber" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-caroptions#sdk-for-ios-navigate-s-7heresdk10CarOptionsV15occupantsNumbers5Int32Vvp" class="token"><code>occupantsNumber</code></a> 
 
   </div>
 
@@ -269,7 +288,7 @@ All the options to specify how a car route should be calculated.
 
   Specifies the number of occupants in the vehicle, including driver, can affect the vehicle’s ability to use HOV/carpool restricted lanes. Shouldn’t be less than 1 or greater than 255. Defaults to 1.
 
-  **Note:** This parameter has no effect unless HOV and/or HOT lane usage is enabled via <a href="sdk-for-ios-navigate-structs-caroptions#/s:7heresdk10CarOptionsV05allowC0AA05AllowC0Vvp">`CarOptions.allowOptions`</a> and such lanes are available in the selected country.
+  **Note:** This parameter has no effect unless HOV and/or HOT lane usage is enabled via <a href="sdk-for-ios-navigate-structs-caroptions#sdk-for-ios-navigate-s-7heresdk10CarOptionsV05allowC0AA05AllowC0Vvp">`CarOptions.allowOptions`</a> and such lanes are available in the selected country.
 
   </div>
 
@@ -295,7 +314,7 @@ All the options to specify how a car route should be calculated.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10CarOptionsV27lastCharacterOfLicensePlateSSSgvp"></span>` `<span id="//apple_ref/swift/Property/lastCharacterOfLicensePlate" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-caroptions#/s:7heresdk10CarOptionsV27lastCharacterOfLicensePlateSSSgvp" class="token"><code>lastCharacterOfLicensePlate</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10CarOptionsV27lastCharacterOfLicensePlateSSSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-lastCharacterOfLicensePlate" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-caroptions#sdk-for-ios-navigate-s-7heresdk10CarOptionsV27lastCharacterOfLicensePlateSSSgvp" class="token"><code>lastCharacterOfLicensePlate</code></a> 
 
   </div>
 
@@ -341,7 +360,7 @@ All the options to specify how a car route should be calculated.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10CarOptionsV18maxSpeedOnSegmentsSayAA03MaxeF7SegmentVGvp"></span>` `<span id="//apple_ref/swift/Property/maxSpeedOnSegments" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-caroptions#/s:7heresdk10CarOptionsV18maxSpeedOnSegmentsSayAA03MaxeF7SegmentVGvp" class="token"><code>maxSpeedOnSegments</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10CarOptionsV18maxSpeedOnSegmentsSayAA03MaxeF7SegmentVGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-maxSpeedOnSegments" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-caroptions#sdk-for-ios-navigate-s-7heresdk10CarOptionsV18maxSpeedOnSegmentsSayAA03MaxeF7SegmentVGvp" class="token"><code>maxSpeedOnSegments</code></a> 
 
   </div>
 
@@ -359,7 +378,7 @@ All the options to specify how a car route should be calculated.
 
   <div class="abstract">
 
-  Segments with restriction on maximum <a href="sdk-for-ios-navigate-structs-dynamicspeedinfo#/s:7heresdk16DynamicSpeedInfoV04baseC17InMetersPerSecondSdvp">`DynamicSpeedInfo.baseSpeedInMetersPerSecond`</a>.
+  Segments with restriction on maximum <a href="sdk-for-ios-navigate-structs-dynamicspeedinfo#sdk-for-ios-navigate-s-7heresdk16DynamicSpeedInfoV04baseC17InMetersPerSecondSdvp">`DynamicSpeedInfo.baseSpeedInMetersPerSecond`</a>.
 
   </div>
 
@@ -377,6 +396,10 @@ All the options to specify how a car route should be calculated.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-maxspeedonsegment">MaxSpeedOnSegment</a>
+
   </div>
 
   </div>
@@ -385,7 +408,7 @@ All the options to specify how a car route should be calculated.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10CarOptionsV17carSpecificationsAA0bE0Vvp"></span>` `<span id="//apple_ref/swift/Property/carSpecifications" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-caroptions#/s:7heresdk10CarOptionsV17carSpecificationsAA0bE0Vvp" class="token"><code>carSpecifications</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10CarOptionsV17carSpecificationsAA0bE0Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-carSpecifications" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-caroptions#sdk-for-ios-navigate-s-7heresdk10CarOptionsV17carSpecificationsAA0bE0Vvp" class="token"><code>carSpecifications</code></a> 
 
   </div>
 
@@ -421,6 +444,10 @@ All the options to specify how a car route should be calculated.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-carspecifications">CarSpecifications</a>
+
   </div>
 
   </div>
@@ -429,7 +456,7 @@ All the options to specify how a car route should be calculated.
 
 - <div>
 
-      init(routeOptions: textOptions: avoidanceOptions: tollOptions: allowOptions: occupantsNumber: lastCharacterOfLicensePlate: maxSpeedOnSegments: carSpecifications: )
+   <span id="sdk-for-ios-navigate-s-7heresdk10CarOptionsV05routeC004textC009avoidanceC004tollC005allowC015occupantsNumber27lastCharacterOfLicensePlate18maxSpeedOnSegments17carSpecificationsAcA05RouteC0V_AA0v4TextC0VAA09AvoidanceC0VAA04TollC0VAA05AllowC0Vs5Int32VSSSgSayAA03MaxqR7SegmentVGAA0bU0Vtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-routeOptions-textOptions-avoidanceOptions-tollOptions-allowOptions-occupantsNumber-lastCharacterOfLicensePlate-maxSpeedOnSegments-carSpecifications" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-caroptions#sdk-for-ios-navigate-s-7heresdk10CarOptionsV05routeC004textC009avoidanceC004tollC005allowC015occupantsNumber27lastCharacterOfLicensePlate18maxSpeedOnSegments17carSpecificationsAcA05RouteC0V_AA0v4TextC0VAA09AvoidanceC0VAA04TollC0VAA05AllowC0Vs5Int32VSSSgSayAA03MaxqR7SegmentVGAA0bU0Vtcfc" class="token"><code>init(routeOptions:</code><wbr></wbr><code>textOptions:</code><wbr></wbr><code>avoidanceOptions:</code><wbr></wbr><code>tollOptions:</code><wbr></wbr><code>allowOptions:</code><wbr></wbr><code>occupantsNumber:</code><wbr></wbr><code>lastCharacterOfLicensePlate:</code><wbr></wbr><code>maxSpeedOnSegments:</code><wbr></wbr><code>carSpecifications:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -458,13 +485,13 @@ All the options to specify how a car route should be calculated.
     - allowOptions: The options explicitly allowed by user for route calculations. By default no options are opt in.
     - occupantsNumber: Specifies the number of occupants in the vehicle, including driver, can affect the vehicle’s ability to use HOV/carpool restricted lanes. Shouldn’t be less than 1 or greater than 255. Defaults to 1.
 
-    **Note:** This parameter has no effect unless HOV and/or HOT lane usage is enabled via <a href="sdk-for-ios-navigate-structs-caroptions#/s:7heresdk10CarOptionsV05allowC0AA05AllowC0Vvp">`CarOptions.allowOptions`</a> and such lanes are available in the selected country.
+    **Note:** This parameter has no effect unless HOV and/or HOT lane usage is enabled via <a href="sdk-for-ios-navigate-structs-caroptions#sdk-for-ios-navigate-s-7heresdk10CarOptionsV05allowC0AA05AllowC0Vvp">`CarOptions.allowOptions`</a> and such lanes are available in the selected country.
 
     - lastCharacterOfLicensePlate: Specifies the last character of a vehicle’s license plate, typically used to evaluate traffic restrictions in certain environmental or low-emission zones. In cities like Bogotá, Mexico City, or Jakarta, specific license plate digits may be restricted on certain days or in certain areas to reduce congestion and emissions. When this value is provided, the HERE SDK considers it during route calculation to avoid roads or areas where your vehicle may be restricted based on local regulations. Example usage: “7”, when the license plate of a vehicle looks like “B-ET-182487”.
 
     If this value is not set, such license plate-based restrictions are ignored, and routing is performed without considering them.
 
-    - maxSpeedOnSegments: Segments with restriction on maximum <a href="sdk-for-ios-navigate-structs-dynamicspeedinfo#/s:7heresdk16DynamicSpeedInfoV04baseC17InMetersPerSecondSdvp">`DynamicSpeedInfo.baseSpeedInMetersPerSecond`</a>.
+    - maxSpeedOnSegments: Segments with restriction on maximum <a href="sdk-for-ios-navigate-structs-dynamicspeedinfo#sdk-for-ios-navigate-s-7heresdk16DynamicSpeedInfoV04baseC17InMetersPerSecondSdvp">`DynamicSpeedInfo.baseSpeedInMetersPerSecond`</a>.
     - carSpecifications: Detailed car specifications such as dimensions and weight.
 
   </div>
@@ -478,12 +505,20 @@ All the options to specify how a car route should be calculated.
   Swift
 
   ``` highlight
-  public init ( routeOptions : RouteOptions = RouteOptions (), textOptions : RouteTextOptions = RouteTextOptions (), avoidanceOptions : AvoidanceOptions = AvoidanceOptions (), tollOptions : TollOptions = TollOptions (), allowOptions : AllowOptions = AllowOptions (), occupantsNumber : Int32 = 1 , lastCharacterOfLicensePlate : String ? = nil , maxSpeedOnSegments : [ MaxSpeedOnSegment ] = [], carSpecifications : CarSpecifications = CarSpecifications ())
+  public init(routeOptions: RouteOptions = RouteOptions(), textOptions: RouteTextOptions = RouteTextOptions(), avoidanceOptions: AvoidanceOptions = AvoidanceOptions(), tollOptions: TollOptions = TollOptions(), allowOptions: AllowOptions = AllowOptions(), occupantsNumber: Int32 = 1, lastCharacterOfLicensePlate: String? = nil, maxSpeedOnSegments: [MaxSpeedOnSegment] = [], carSpecifications: CarSpecifications = CarSpecifications())
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-routeoptions">RouteOptions</a>
+  - <a href="sdk-for-ios-navigate-structs-routetextoptions">RouteTextOptions</a>
+  - <a href="sdk-for-ios-navigate-structs-avoidanceoptions">AvoidanceOptions</a>
+  - <a href="sdk-for-ios-navigate-structs-tolloptions">TollOptions</a>
+  - <a href="sdk-for-ios-navigate-structs-allowoptions">AllowOptions</a>
+  - <a href="sdk-for-ios-navigate-structs-maxspeedonsegment">MaxSpeedOnSegment</a>
+  - <a href="sdk-for-ios-navigate-structs-carspecifications">CarSpecifications</a>
 
   </div>
 

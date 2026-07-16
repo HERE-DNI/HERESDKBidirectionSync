@@ -27,7 +27,7 @@ A struct that provides safety camera warning information.
 
 - <div>
 
-  ` `<span id="/s:7heresdk19SafetyCameraWarningV2ids5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/id" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-safetycamerawarning#/s:7heresdk19SafetyCameraWarningV2ids5Int32Vvp" class="token"><code>id</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19SafetyCameraWarningV2ids5Int32Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-id" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-safetycamerawarning#sdk-for-ios-navigate-s-7heresdk19SafetyCameraWarningV2ids5Int32Vvp" class="token"><code>id</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ A struct that provides safety camera warning information.
 
 - <div>
 
-  ` `<span id="/s:7heresdk19SafetyCameraWarningV010distanceToC8InMetersSdvp"></span>` `<span id="//apple_ref/swift/Property/distanceToCameraInMeters" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-safetycamerawarning#/s:7heresdk19SafetyCameraWarningV010distanceToC8InMetersSdvp" class="token"><code>distanceToCameraInMeters</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19SafetyCameraWarningV010distanceToC8InMetersSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-distanceToCameraInMeters" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-safetycamerawarning#sdk-for-ios-navigate-s-7heresdk19SafetyCameraWarningV010distanceToC8InMetersSdvp" class="token"><code>distanceToCameraInMeters</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ A struct that provides safety camera warning information.
 
 - <div>
 
-  ` `<span id="/s:7heresdk19SafetyCameraWarningV27speedLimitInMetersPerSecondSdvp"></span>` `<span id="//apple_ref/swift/Property/speedLimitInMetersPerSecond" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-safetycamerawarning#/s:7heresdk19SafetyCameraWarningV27speedLimitInMetersPerSecondSdvp" class="token"><code>speedLimitInMetersPerSecond</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19SafetyCameraWarningV27speedLimitInMetersPerSecondSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-speedLimitInMetersPerSecond" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-safetycamerawarning#sdk-for-ios-navigate-s-7heresdk19SafetyCameraWarningV27speedLimitInMetersPerSecondSdvp" class="token"><code>speedLimitInMetersPerSecond</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ A struct that provides safety camera warning information.
 
 - <div>
 
-  ` `<span id="/s:7heresdk19SafetyCameraWarningV4typeAA0bC4TypeOvp"></span>` `<span id="//apple_ref/swift/Property/type" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-safetycamerawarning#/s:7heresdk19SafetyCameraWarningV4typeAA0bC4TypeOvp" class="token"><code>type</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19SafetyCameraWarningV4typeAA0bC4TypeOvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-type" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-safetycamerawarning#sdk-for-ios-navigate-s-7heresdk19SafetyCameraWarningV4typeAA0bC4TypeOvp" class="token"><code>type</code></a> 
 
   </div>
 
@@ -195,6 +195,10 @@ A struct that provides safety camera warning information.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-safetycameratype">SafetyCameraType</a>
+
   </div>
 
   </div>
@@ -203,7 +207,7 @@ A struct that provides safety camera warning information.
 
 - <div>
 
-  ` `<span id="/s:7heresdk19SafetyCameraWarningV12distanceTypeAA08DistanceF0Ovp"></span>` `<span id="//apple_ref/swift/Property/distanceType" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-safetycamerawarning#/s:7heresdk19SafetyCameraWarningV12distanceTypeAA08DistanceF0Ovp" class="token"><code>distanceType</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19SafetyCameraWarningV12distanceTypeAA08DistanceF0Ovp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-distanceType" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-safetycamerawarning#sdk-for-ios-navigate-s-7heresdk19SafetyCameraWarningV12distanceTypeAA08DistanceF0Ovp" class="token"><code>distanceType</code></a> 
 
   </div>
 
@@ -221,7 +225,7 @@ A struct that provides safety camera warning information.
 
   <div class="abstract">
 
-  The distance type of the warning (e.g.: warning for a new safety camera ahead, warning for passing a safety camera). Since the safety camera warning is given relative to a single position on the route, <a href="sdk-for-ios-navigate-enums-distancetype#/s:7heresdk12DistanceTypeO7reachedyA2CmF">`DistanceType.reached`</a> will never be given for this warning.
+  The distance type of the warning (e.g.: warning for a new safety camera ahead, warning for passing a safety camera). Since the safety camera warning is given relative to a single position on the route, <a href="sdk-for-ios-navigate-enums-distancetype#sdk-for-ios-navigate-s-7heresdk12DistanceTypeO7reachedyA2CmF">`DistanceType.reached`</a> will never be given for this warning.
 
   </div>
 
@@ -239,6 +243,10 @@ A struct that provides safety camera warning information.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-distancetype">DistanceType</a>
+
   </div>
 
   </div>
@@ -247,7 +255,7 @@ A struct that provides safety camera warning information.
 
 - <div>
 
-      init(id: distanceToCameraInMeters: speedLimitInMetersPerSecond: type: distanceType: )
+   <span id="sdk-for-ios-navigate-s-7heresdk19SafetyCameraWarningV2id010distanceToC8InMeters010speedLimithI9PerSecond4type0F4TypeACs5Int32V_S2dAA0bcO0OAA08DistanceO0Otcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-id-distanceToCameraInMeters-speedLimitInMetersPerSecond-type-distanceType" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-safetycamerawarning#sdk-for-ios-navigate-s-7heresdk19SafetyCameraWarningV2id010distanceToC8InMeters010speedLimithI9PerSecond4type0F4TypeACs5Int32V_S2dAA0bcO0OAA08DistanceO0Otcfc" class="token"><code>init(id:</code><wbr></wbr><code>distanceToCameraInMeters:</code><wbr></wbr><code>speedLimitInMetersPerSecond:</code><wbr></wbr><code>type:</code><wbr></wbr><code>distanceType:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -278,12 +286,15 @@ A struct that provides safety camera warning information.
   Swift
 
   ``` highlight
-  public init ( id : Int32 = 0 , distanceToCameraInMeters : Double , speedLimitInMetersPerSecond : Double , type : SafetyCameraType , distanceType : DistanceType )
+  public init(id: Int32 = 0, distanceToCameraInMeters: Double, speedLimitInMetersPerSecond: Double, type: SafetyCameraType, distanceType: DistanceType)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-safetycameratype">SafetyCameraType</a>
+  - <a href="sdk-for-ios-navigate-enums-distancetype">DistanceType</a>
 
   </div>
 

@@ -27,7 +27,7 @@ This protocol should be implemented in order to receive low speed zone warnings.
 
 - <div>
 
-      onLowSpeedZoneWarningUpdated(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk27LowSpeedZoneWarningDelegateP02onbcdE7UpdatedyyAA0bcdE0VF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-onLowSpeedZoneWarningUpdated-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-protocols-lowspeedzonewarningdelegate#sdk-for-ios-explore-s-7heresdk27LowSpeedZoneWarningDelegateP02onbcdE7UpdatedyyAA0bcdE0VF" class="token"><code>onLowSpeedZoneWarningUpdated(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -58,12 +58,14 @@ This protocol should be implemented in order to receive low speed zone warnings.
   Swift
 
   ``` highlight
-  func onLowSpeedZoneWarningUpdated ( _ lowSpeedZoneWarning : LowSpeedZoneWarning )
+  func onLowSpeedZoneWarningUpdated(_ lowSpeedZoneWarning: LowSpeedZoneWarning)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-lowspeedzonewarning">LowSpeedZoneWarning</a>
 
   </div>
 

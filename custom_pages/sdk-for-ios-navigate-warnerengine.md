@@ -13,7 +13,7 @@ slug: "sdk-for-ios-navigate-warnerengine"
 
 - <div>
 
-  ` `<span id="/s:7heresdk13CustomWarningV"></span>` `<span id="//apple_ref/swift/Struct/CustomWarning" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-warnerengine#/s:7heresdk13CustomWarningV" class="token"><code>CustomWarning</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13CustomWarningV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-CustomWarning" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-warnerengine#sdk-for-ios-navigate-s-7heresdk13CustomWarningV" class="token"><code>CustomWarning</code></a> 
 
   </div>
 
@@ -65,7 +65,7 @@ slug: "sdk-for-ios-navigate-warnerengine"
 
 - <div>
 
-  ` `<span id="/s:7heresdk21CustomWarningProviderP"></span>` `<span id="//apple_ref/swift/Protocol/CustomWarningProvider" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-warnerengine#/s:7heresdk21CustomWarningProviderP" class="token"><code>CustomWarningProvider</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21CustomWarningProviderP"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Protocol-CustomWarningProvider" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-warnerengine#sdk-for-ios-navigate-s-7heresdk21CustomWarningProviderP" class="token"><code>CustomWarningProvider</code></a> 
 
   </div>
 
@@ -113,7 +113,7 @@ slug: "sdk-for-ios-navigate-warnerengine"
 
 - <div>
 
-  ` `<span id="/s:7heresdk7WarningV"></span>` `<span id="//apple_ref/swift/Struct/Warning" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-warnerengine#/s:7heresdk7WarningV" class="token"><code>Warning</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk7WarningV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-Warning" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-warnerengine#sdk-for-ios-navigate-s-7heresdk7WarningV" class="token"><code>Warning</code></a> 
 
   </div>
 
@@ -161,7 +161,7 @@ slug: "sdk-for-ios-navigate-warnerengine"
 
 - <div>
 
-  ` `<span id="/s:7heresdk12WarnerEngineC"></span>` `<span id="//apple_ref/swift/Class/WarnerEngine" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-warnerengine#/s:7heresdk12WarnerEngineC" class="token"><code>WarnerEngine</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12WarnerEngineC"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Class-WarnerEngine" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-warnerengine#sdk-for-ios-navigate-s-7heresdk12WarnerEngineC" class="token"><code>WarnerEngine</code></a> 
 
   </div>
 
@@ -213,6 +213,10 @@ slug: "sdk-for-ios-navigate-warnerengine"
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-protocols-electronichorizondelegate">ElectronicHorizonDelegate</a>
+
   </div>
 
   </div>
@@ -221,7 +225,7 @@ slug: "sdk-for-ios-navigate-warnerengine"
 
 - <div>
 
-  ` `<span id="/s:7heresdk15WarningDelegateP"></span>` `<span id="//apple_ref/swift/Protocol/WarningDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-warnerengine#/s:7heresdk15WarningDelegateP" class="token"><code>WarningDelegate</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15WarningDelegateP"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Protocol-WarningDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-warnerengine#sdk-for-ios-navigate-s-7heresdk15WarningDelegateP" class="token"><code>WarningDelegate</code></a> 
 
   </div>
 
@@ -273,7 +277,7 @@ slug: "sdk-for-ios-navigate-warnerengine"
 
 - <div>
 
-  ` `<span id="/s:7heresdk14WarningOptionsV"></span>` `<span id="//apple_ref/swift/Struct/WarningOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-warnerengine#/s:7heresdk14WarningOptionsV" class="token"><code>WarningOptions</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14WarningOptionsV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-WarningOptions" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-warnerengine#sdk-for-ios-navigate-s-7heresdk14WarningOptionsV" class="token"><code>WarningOptions</code></a> 
 
   </div>
 
@@ -291,7 +295,7 @@ slug: "sdk-for-ios-navigate-warnerengine"
 
   <div class="abstract">
 
-  A struct with options to configure <a href="sdk-for-ios-navigate-classes-warnerengine#/s:7heresdk12WarnerEngineC14warningOptionsAA07WarningE0Vvp">`WarnerEngine.warningOptions`</a>
+  A struct with options to configure <a href="sdk-for-ios-navigate-classes-warnerengine#sdk-for-ios-navigate-s-7heresdk12WarnerEngineC14warningOptionsAA07WarningE0Vvp">`WarnerEngine.warningOptions`</a>
 
   **Note:** This is a beta release of this feature, so there could be a few bugs and unexpected behaviors. Related APIs may change for new releases without a deprecation process.
 
@@ -321,7 +325,7 @@ slug: "sdk-for-ios-navigate-warnerengine"
 
 - <div>
 
-  ` `<span id="/s:7heresdk16WarningsRegistryC"></span>` `<span id="//apple_ref/swift/Class/WarningsRegistry" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-warnerengine#/s:7heresdk16WarningsRegistryC" class="token"><code>WarningsRegistry</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16WarningsRegistryC"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Class-WarningsRegistry" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-warnerengine#sdk-for-ios-navigate-s-7heresdk16WarningsRegistryC" class="token"><code>WarningsRegistry</code></a> 
 
   </div>
 

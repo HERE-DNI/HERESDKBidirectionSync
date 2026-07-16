@@ -27,7 +27,7 @@ Represents download status of region in the persistent map storage.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21InstalledRegionStatusO9installedyA2CmF"></span>` `<span id="//apple_ref/swift/Element/installed" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-installedregionstatus#/s:7heresdk21InstalledRegionStatusO9installedyA2CmF" class="token"><code>installed</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk21InstalledRegionStatusO9installedyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-installed" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-installedregionstatus#sdk-for-ios-explore-s-7heresdk21InstalledRegionStatusO9installedyA2CmF" class="token"><code>installed</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Represents download status of region in the persistent map storage.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21InstalledRegionStatusO7pendingyA2CmF"></span>` `<span id="//apple_ref/swift/Element/pending" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-installedregionstatus#/s:7heresdk21InstalledRegionStatusO7pendingyA2CmF" class="token"><code>pending</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk21InstalledRegionStatusO7pendingyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-pending" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-installedregionstatus#sdk-for-ios-explore-s-7heresdk21InstalledRegionStatusO7pendingyA2CmF" class="token"><code>pending</code></a> 
 
   </div>
 

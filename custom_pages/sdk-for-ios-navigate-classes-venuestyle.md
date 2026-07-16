@@ -35,7 +35,7 @@ Represents a style of the venue. Contains the information about the geometry and
 
 - <div>
 
-  ` `<span id="/s:7heresdk10VenueStyleC11StringArraya"></span>` `<span id="//apple_ref/swift/Alias/StringArray" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-venuestyle#/s:7heresdk10VenueStyleC11StringArraya" class="token"><code>StringArray</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10VenueStyleC11StringArraya"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Alias-StringArray" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-venuestyle#sdk-for-ios-navigate-s-7heresdk10VenueStyleC11StringArraya" class="token"><code>StringArray</code></a> 
 
   </div>
 
@@ -79,7 +79,7 @@ Represents a style of the venue. Contains the information about the geometry and
 
 - <div>
 
-      getStyle(name: )
+   <span id="sdk-for-ios-navigate-s-7heresdk10VenueStyleC03getC04nameAA0b8GeometryC0CSS_tF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-getStyle-name" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-venuestyle#sdk-for-ios-navigate-s-7heresdk10VenueStyleC03getC04nameAA0b8GeometryC0CSS_tF" class="token"><code>getStyle(name:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -110,12 +110,14 @@ Represents a style of the venue. Contains the information about the geometry and
   Swift
 
   ``` highlight
-  public func getStyle ( name : String ) -> VenueGeometryStyle
+  public func getStyle(name: String) -> VenueGeometryStyle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-venuegeometrystyle">VenueGeometryStyle</a>
 
   </div>
 
@@ -154,7 +156,7 @@ Represents a style of the venue. Contains the information about the geometry and
 
 - <div>
 
-      getLabelStyle(name: )
+   <span id="sdk-for-ios-navigate-s-7heresdk10VenueStyleC08getLabelC04nameAA0beC0CSS_tF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-getLabelStyle-name" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-venuestyle#sdk-for-ios-navigate-s-7heresdk10VenueStyleC08getLabelC04nameAA0beC0CSS_tF" class="token"><code>getLabelStyle(name:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -185,12 +187,14 @@ Represents a style of the venue. Contains the information about the geometry and
   Swift
 
   ``` highlight
-  public func getLabelStyle ( name : String ) -> VenueLabelStyle
+  public func getLabelStyle(name: String) -> VenueLabelStyle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-venuelabelstyle">VenueLabelStyle</a>
 
   </div>
 

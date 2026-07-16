@@ -27,7 +27,7 @@ Represents a 2D rectangle defined by the origin and size.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11Rectangle2DV6originAA7Point2DVvp"></span>` `<span id="//apple_ref/swift/Property/origin" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-rectangle2d#/s:7heresdk11Rectangle2DV6originAA7Point2DVvp" class="token"><code>origin</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11Rectangle2DV6originAA7Point2DVvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-origin" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-rectangle2d#sdk-for-ios-explore-s-7heresdk11Rectangle2DV6originAA7Point2DVvp" class="token"><code>origin</code></a> 
 
   </div>
 
@@ -63,6 +63,10 @@ Represents a 2D rectangle defined by the origin and size.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-point2d">Point2D</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ Represents a 2D rectangle defined by the origin and size.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11Rectangle2DV4sizeAA6Size2DVvp"></span>` `<span id="//apple_ref/swift/Property/size" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-rectangle2d#/s:7heresdk11Rectangle2DV4sizeAA6Size2DVvp" class="token"><code>size</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11Rectangle2DV4sizeAA6Size2DVvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-size" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-rectangle2d#sdk-for-ios-explore-s-7heresdk11Rectangle2DV4sizeAA6Size2DVvp" class="token"><code>size</code></a> 
 
   </div>
 
@@ -107,6 +111,10 @@ Represents a 2D rectangle defined by the origin and size.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-size2d">Size2D</a>
+
   </div>
 
   </div>
@@ -115,7 +123,7 @@ Represents a 2D rectangle defined by the origin and size.
 
 - <div>
 
-      init(origin: size: )
+   <span id="sdk-for-ios-explore-s-7heresdk11Rectangle2DV6origin4sizeAcA7Point2DV_AA6Size2DVtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-origin-size" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-rectangle2d#sdk-for-ios-explore-s-7heresdk11Rectangle2DV6origin4sizeAcA7Point2DV_AA6Size2DVtcfc" class="token"><code>init(origin:</code><wbr></wbr><code>size:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -146,12 +154,15 @@ Represents a 2D rectangle defined by the origin and size.
   Swift
 
   ``` highlight
-  public init ( origin : Point2D , size : Size2D )
+  public init(origin: Point2D, size: Size2D)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-point2d">Point2D</a>
+  - <a href="sdk-for-ios-explore-structs-size2d">Size2D</a>
 
   </div>
 

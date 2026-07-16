@@ -39,7 +39,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-  ` `<span id="/s:7heresdk17PolygonDataSourceC0bC9Processora"></span>` `<span id="//apple_ref/swift/Alias/PolygonDataProcessor" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-polygondatasource#/s:7heresdk17PolygonDataSourceC0bC9Processora" class="token"><code>PolygonDataProcessor</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17PolygonDataSourceC0bC9Processora"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Alias-PolygonDataProcessor" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-polygondatasource#sdk-for-ios-explore-s-7heresdk17PolygonDataSourceC0bC9Processora" class="token"><code>PolygonDataProcessor</code></a> 
 
   </div>
 
@@ -70,12 +70,14 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public typealias PolygonDataProcessor = ( _ polygonAccessor : PolygonDataAccessor ) -> Bool
+  public typealias PolygonDataProcessor = (_ polygonAccessor: PolygonDataAccessor) -> Bool
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-polygondataaccessor">PolygonDataAccessor</a>
 
   </div>
 
@@ -114,7 +116,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      add(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk17PolygonDataSourceC3addyyAA0bC0CF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-add-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-polygondatasource#sdk-for-ios-explore-s-7heresdk17PolygonDataSourceC3addyyAA0bC0CF" class="token"><code>add(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -145,12 +147,14 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func add ( _ polygon : PolygonData )
+  public func add(_ polygon: PolygonData)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk11PolygonDataC">PolygonData</a>
 
   </div>
 
@@ -181,7 +185,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      add(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk17PolygonDataSourceC3addyySayAA0bC0CGF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-add-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-polygondatasource#sdk-for-ios-explore-s-7heresdk17PolygonDataSourceC3addyySayAA0bC0CGF" class="token"><code>add(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -212,12 +216,14 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func add ( _ polygons : [ PolygonData ])
+  public func add(_ polygons: [PolygonData])
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk11PolygonDataC">PolygonData</a>
 
   </div>
 
@@ -248,7 +254,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      removeAll()
+   <span id="sdk-for-ios-explore-s-7heresdk17PolygonDataSourceC9removeAllyyF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-removeAll" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-polygondatasource#sdk-for-ios-explore-s-7heresdk17PolygonDataSourceC9removeAllyyF" class="token"><code>removeAll()</code></a> 
 
   </div>
 
@@ -279,10 +285,8 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func removeAll ()
+  public func removeAll()
   ```
-
-  </pre>
 
   </div>
 
@@ -294,7 +298,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      forEach(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk17PolygonDataSourceC7forEachyySbAA0bC8AccessorCcF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-forEach-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-polygondatasource#sdk-for-ios-explore-s-7heresdk17PolygonDataSourceC7forEachyySbAA0bC8AccessorCcF" class="token"><code>forEach(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -327,12 +331,14 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func forEach ( _ processor : @escaping PolygonDataSource . PolygonDataProcessor )
+  public func forEach(_ processor: @escaping PolygonDataSource.PolygonDataProcessor)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-polygondatasource#sdk-for-ios-explore-s-7heresdk17PolygonDataSourceC0bC9Processora">PolygonDataProcessor</a>
 
   </div>
 
@@ -363,7 +369,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      removeIf(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk17PolygonDataSourceC8removeIfyySbAA0bC8AccessorCcF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-removeIf-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-polygondatasource#sdk-for-ios-explore-s-7heresdk17PolygonDataSourceC8removeIfyySbAA0bC8AccessorCcF" class="token"><code>removeIf(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -394,12 +400,14 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func removeIf ( _ inspector : @escaping PolygonDataSource . PolygonDataProcessor )
+  public func removeIf(_ inspector: @escaping PolygonDataSource.PolygonDataProcessor)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-polygondatasource#sdk-for-ios-explore-s-7heresdk17PolygonDataSourceC0bC9Processora">PolygonDataProcessor</a>
 
   </div>
 

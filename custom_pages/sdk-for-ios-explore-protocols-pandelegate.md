@@ -27,7 +27,7 @@ Protocol for handling pan gestures. Pan gesture occurs when a finger is moving o
 
 - <div>
 
-      onPan(state: origin: translation: velocity: )
+   <span id="sdk-for-ios-explore-s-7heresdk11PanDelegateP02onB05state6origin11translation8velocityyAA12GestureStateO_AA7Point2DVALSdtF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-onPan-state-origin-translation-velocity" class="dashAnchor"></span> <a href="sdk-for-ios-explore-protocols-pandelegate#sdk-for-ios-explore-s-7heresdk11PanDelegateP02onB05state6origin11translation8velocityyAA12GestureStateO_AA7Point2DVALSdtF" class="token"><code>onPan(state:</code><wbr></wbr><code>origin:</code><wbr></wbr><code>translation:</code><wbr></wbr><code>velocity:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -58,12 +58,15 @@ Protocol for handling pan gestures. Pan gesture occurs when a finger is moving o
   Swift
 
   ``` highlight
-  func onPan ( state : GestureState , origin : Point2D , translation : Point2D , velocity : Double )
+  func onPan(state: GestureState, origin: Point2D, translation: Point2D, velocity: Double)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-gesturestate">GestureState</a>
+  - <a href="sdk-for-ios-explore-structs-point2d">Point2D</a>
 
   </div>
 

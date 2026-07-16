@@ -35,7 +35,7 @@ Represents a location object, such as a country, a city, a point of interest (PO
 
 - <div>
 
-  ` `<span id="/s:7heresdk5PlaceC5titleSSvp"></span>` `<span id="//apple_ref/swift/Property/title" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-place#/s:7heresdk5PlaceC5titleSSvp" class="token"><code>title</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk5PlaceC5titleSSvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-title" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-place#sdk-for-ios-explore-s-7heresdk5PlaceC5titleSSvp" class="token"><code>title</code></a> 
 
   </div>
 
@@ -79,7 +79,7 @@ Represents a location object, such as a country, a city, a point of interest (PO
 
 - <div>
 
-  ` `<span id="/s:7heresdk5PlaceC2idSSvp"></span>` `<span id="//apple_ref/swift/Property/id" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-place#/s:7heresdk5PlaceC2idSSvp" class="token"><code>id</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk5PlaceC2idSSvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-id" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-place#sdk-for-ios-explore-s-7heresdk5PlaceC2idSSvp" class="token"><code>id</code></a> 
 
   </div>
 
@@ -123,7 +123,7 @@ Represents a location object, such as a country, a city, a point of interest (PO
 
 - <div>
 
-  ` `<span id="/s:7heresdk5PlaceC9placeTypeAA0bD0Ovp"></span>` `<span id="//apple_ref/swift/Property/placeType" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-place#/s:7heresdk5PlaceC9placeTypeAA0bD0Ovp" class="token"><code>placeType</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk5PlaceC9placeTypeAA0bD0Ovp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-placeType" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-place#sdk-for-ios-explore-s-7heresdk5PlaceC9placeTypeAA0bD0Ovp" class="token"><code>placeType</code></a> 
 
   </div>
 
@@ -159,6 +159,10 @@ Represents a location object, such as a country, a city, a point of interest (PO
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-placetype">PlaceType</a>
+
   </div>
 
   </div>
@@ -167,7 +171,7 @@ Represents a location object, such as a country, a city, a point of interest (PO
 
 - <div>
 
-  ` `<span id="/s:7heresdk5PlaceC8areaTypeAA04AreaD0OSgvp"></span>` `<span id="//apple_ref/swift/Property/areaType" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-place#/s:7heresdk5PlaceC8areaTypeAA04AreaD0OSgvp" class="token"><code>areaType</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk5PlaceC8areaTypeAA04AreaD0OSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-areaType" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-place#sdk-for-ios-explore-s-7heresdk5PlaceC8areaTypeAA04AreaD0OSgvp" class="token"><code>areaType</code></a> 
 
   </div>
 
@@ -185,7 +189,7 @@ Represents a location object, such as a country, a city, a point of interest (PO
 
   <div class="abstract">
 
-  The area type. It is available only when the <a href="sdk-for-ios-explore-classes-place#/s:7heresdk5PlaceC9placeTypeAA0bD0Ovp">`Place.placeType`</a> is <a href="sdk-for-ios-explore-enums-placetype#/s:7heresdk9PlaceTypeO4areayA2CmF">`PlaceType.area`</a>.
+  The area type. It is available only when the <a href="sdk-for-ios-explore-classes-place#sdk-for-ios-explore-s-7heresdk5PlaceC9placeTypeAA0bD0Ovp">`Place.placeType`</a> is <a href="sdk-for-ios-explore-enums-placetype#sdk-for-ios-explore-s-7heresdk9PlaceTypeO4areayA2CmF">`PlaceType.area`</a>.
 
   </div>
 
@@ -203,6 +207,10 @@ Represents a location object, such as a country, a city, a point of interest (PO
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-areatype">AreaType</a>
+
   </div>
 
   </div>
@@ -211,7 +219,7 @@ Represents a location object, such as a country, a city, a point of interest (PO
 
 - <div>
 
-  ` `<span id="/s:7heresdk5PlaceC7addressAA7AddressVvp"></span>` `<span id="//apple_ref/swift/Property/address" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-place#/s:7heresdk5PlaceC7addressAA7AddressVvp" class="token"><code>address</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk5PlaceC7addressAA7AddressVvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-address" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-place#sdk-for-ios-explore-s-7heresdk5PlaceC7addressAA7AddressVvp" class="token"><code>address</code></a> 
 
   </div>
 
@@ -231,7 +239,7 @@ Represents a location object, such as a country, a city, a point of interest (PO
 
   The address of the place.
 
-  Note that while `OfflineSearchEngine.suggest` and `OfflineSearchEngine.suggestByText` set all available details, `SearchEngine.suggest` and `SearchEngine.suggestByText` set only <a href="sdk-for-ios-explore-structs-address#/s:7heresdk7AddressV11addressTextSSvp">`Address.addressText`</a>. Complete address details can be obtained by searching with <a href="sdk-for-ios-explore-structs-placeidquery">`PlaceIdQuery`</a>.
+  Note that while `OfflineSearchEngine.suggest` and `OfflineSearchEngine.suggestByText` set all available details, `SearchEngine.suggest` and `SearchEngine.suggestByText` set only <a href="sdk-for-ios-explore-structs-address#sdk-for-ios-explore-s-7heresdk7AddressV11addressTextSSvp">`Address.addressText`</a>. Complete address details can be obtained by searching with <a href="sdk-for-ios-explore-structs-placeidquery">`PlaceIdQuery`</a>.
 
   </div>
 
@@ -249,6 +257,10 @@ Represents a location object, such as a country, a city, a point of interest (PO
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-address">Address</a>
+
   </div>
 
   </div>
@@ -257,7 +269,7 @@ Represents a location object, such as a country, a city, a point of interest (PO
 
 - <div>
 
-  ` `<span id="/s:7heresdk5PlaceC7detailsAA7DetailsVvp"></span>` `<span id="//apple_ref/swift/Property/details" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-place#/s:7heresdk5PlaceC7detailsAA7DetailsVvp" class="token"><code>details</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk5PlaceC7detailsAA7DetailsVvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-details" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-place#sdk-for-ios-explore-s-7heresdk5PlaceC7detailsAA7DetailsVvp" class="token"><code>details</code></a> 
 
   </div>
 
@@ -293,6 +305,10 @@ Represents a location object, such as a country, a city, a point of interest (PO
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-details">Details</a>
+
   </div>
 
   </div>
@@ -301,7 +317,7 @@ Represents a location object, such as a country, a city, a point of interest (PO
 
 - <div>
 
-  ` `<span id="/s:7heresdk5PlaceC14geoCoordinatesAA03GeoD0VSgvp"></span>` `<span id="//apple_ref/swift/Property/geoCoordinates" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-place#/s:7heresdk5PlaceC14geoCoordinatesAA03GeoD0VSgvp" class="token"><code>geoCoordinates</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk5PlaceC14geoCoordinatesAA03GeoD0VSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-geoCoordinates" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-place#sdk-for-ios-explore-s-7heresdk5PlaceC14geoCoordinatesAA03GeoD0VSgvp" class="token"><code>geoCoordinates</code></a> 
 
   </div>
 
@@ -337,6 +353,10 @@ Represents a location object, such as a country, a city, a point of interest (PO
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geocoordinates">GeoCoordinates</a>
+
   </div>
 
   </div>
@@ -345,7 +365,7 @@ Represents a location object, such as a country, a city, a point of interest (PO
 
 - <div>
 
-  ` `<span id="/s:7heresdk5PlaceC25isCoordinatesInterpolatedSbvp"></span>` `<span id="//apple_ref/swift/Property/isCoordinatesInterpolated" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-place#/s:7heresdk5PlaceC25isCoordinatesInterpolatedSbvp" class="token"><code>isCoordinatesInterpolated</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk5PlaceC25isCoordinatesInterpolatedSbvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-isCoordinatesInterpolated" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-place#sdk-for-ios-explore-s-7heresdk5PlaceC25isCoordinatesInterpolatedSbvp" class="token"><code>isCoordinatesInterpolated</code></a> 
 
   </div>
 
@@ -363,7 +383,7 @@ Represents a location object, such as a country, a city, a point of interest (PO
 
   <div class="abstract">
 
-  A property that says whether the coordinates of the house number were interpolated or not. This property is valid only for house number results retrieved using online search. When false, it means <a href="sdk-for-ios-explore-classes-place#/s:7heresdk5PlaceC14geoCoordinatesAA03GeoD0VSgvp">`Place.geoCoordinates`</a> point to an accurate position of the house. Otherwise coordinates are slightly less accurate, but are based on a highly optimized interpolation algorithm.
+  A property that says whether the coordinates of the house number were interpolated or not. This property is valid only for house number results retrieved using online search. When false, it means <a href="sdk-for-ios-explore-classes-place#sdk-for-ios-explore-s-7heresdk5PlaceC14geoCoordinatesAA03GeoD0VSgvp">`Place.geoCoordinates`</a> point to an accurate position of the house. Otherwise coordinates are slightly less accurate, but are based on a highly optimized interpolation algorithm.
 
   </div>
 
@@ -389,7 +409,7 @@ Represents a location object, such as a country, a city, a point of interest (PO
 
 - <div>
 
-  ` `<span id="/s:7heresdk5PlaceC12accessPointsSayAA14GeoCoordinatesVGvp"></span>` `<span id="//apple_ref/swift/Property/accessPoints" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-place#/s:7heresdk5PlaceC12accessPointsSayAA14GeoCoordinatesVGvp" class="token"><code>accessPoints</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk5PlaceC12accessPointsSayAA14GeoCoordinatesVGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-accessPoints" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-place#sdk-for-ios-explore-s-7heresdk5PlaceC12accessPointsSayAA14GeoCoordinatesVGvp" class="token"><code>accessPoints</code></a> 
 
   </div>
 
@@ -425,6 +445,10 @@ Represents a location object, such as a country, a city, a point of interest (PO
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geocoordinates">GeoCoordinates</a>
+
   </div>
 
   </div>
@@ -433,7 +457,7 @@ Represents a location object, such as a country, a city, a point of interest (PO
 
 - <div>
 
-  ` `<span id="/s:7heresdk5PlaceC11boundingBoxAA03GeoD0VSgvp"></span>` `<span id="//apple_ref/swift/Property/boundingBox" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-place#/s:7heresdk5PlaceC11boundingBoxAA03GeoD0VSgvp" class="token"><code>boundingBox</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk5PlaceC11boundingBoxAA03GeoD0VSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-boundingBox" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-place#sdk-for-ios-explore-s-7heresdk5PlaceC11boundingBoxAA03GeoD0VSgvp" class="token"><code>boundingBox</code></a> 
 
   </div>
 
@@ -469,6 +493,10 @@ Represents a location object, such as a country, a city, a point of interest (PO
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geobox">GeoBox</a>
+
   </div>
 
   </div>
@@ -477,7 +505,7 @@ Represents a location object, such as a country, a city, a point of interest (PO
 
 - <div>
 
-  ` `<span id="/s:7heresdk5PlaceC16distanceInMeterss5Int32VSgvp"></span>` `<span id="//apple_ref/swift/Property/distanceInMeters" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-place#/s:7heresdk5PlaceC16distanceInMeterss5Int32VSgvp" class="token"><code>distanceInMeters</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk5PlaceC16distanceInMeterss5Int32VSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-distanceInMeters" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-place#sdk-for-ios-explore-s-7heresdk5PlaceC16distanceInMeterss5Int32VSgvp" class="token"><code>distanceInMeters</code></a> 
 
   </div>
 
@@ -521,7 +549,7 @@ Represents a location object, such as a country, a city, a point of interest (PO
 
 - <div>
 
-  ` `<span id="/s:7heresdk5PlaceC13politicalViewSSSgvp"></span>` `<span id="//apple_ref/swift/Property/politicalView" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-place#/s:7heresdk5PlaceC13politicalViewSSSgvp" class="token"><code>politicalView</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk5PlaceC13politicalViewSSSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-politicalView" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-place#sdk-for-ios-explore-s-7heresdk5PlaceC13politicalViewSSSgvp" class="token"><code>politicalView</code></a> 
 
   </div>
 
@@ -565,7 +593,7 @@ Represents a location object, such as a country, a city, a point of interest (PO
 
 - <div>
 
-      serializeCompact()
+   <span id="sdk-for-ios-explore-s-7heresdk5PlaceC16serializeCompactSSyF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-serializeCompact" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-place#sdk-for-ios-explore-s-7heresdk5PlaceC16serializeCompactSSyF" class="token"><code>serializeCompact()</code></a> 
 
   </div>
 
@@ -585,23 +613,15 @@ Represents a location object, such as a country, a city, a point of interest (PO
 
   Serializes `Place` to persist or transfer. Preserves limited amount of data:
 
-  - <a href="sdk-for-ios-explore-classes-place#/s:7heresdk5PlaceC5titleSSvp">`Place.title`</a>
-
-  - <a href="sdk-for-ios-explore-classes-place#/s:7heresdk5PlaceC2idSSvp">`Place.id`</a>
-
-  - <a href="sdk-for-ios-explore-classes-place#/s:7heresdk5PlaceC14geoCoordinatesAA03GeoD0VSgvp">`Place.geoCoordinates`</a>
-
-  - <a href="sdk-for-ios-explore-classes-place#/s:7heresdk5PlaceC12accessPointsSayAA14GeoCoordinatesVGvp">`Place.accessPoints`</a>
-
-  - <a href="sdk-for-ios-explore-classes-place#/s:7heresdk5PlaceC9placeTypeAA0bD0Ovp">`Place.placeType`</a>
-
-  - <a href="sdk-for-ios-explore-classes-place#/s:7heresdk5PlaceC11boundingBoxAA03GeoD0VSgvp">`Place.boundingBox`</a>
-
-  -     Details.getPrimaryCategories(...)
-
-  - <a href="sdk-for-ios-explore-structs-address#/s:7heresdk7AddressV11addressTextSSvp">`Address.addressText`</a>
-
-  - <a href="sdk-for-ios-explore-structs-address#/s:7heresdk7AddressV11countryCodeSSvp">`Address.countryCode`</a>
+  - <a href="sdk-for-ios-explore-classes-place#sdk-for-ios-explore-s-7heresdk5PlaceC5titleSSvp">`Place.title`</a>
+  - <a href="sdk-for-ios-explore-classes-place#sdk-for-ios-explore-s-7heresdk5PlaceC2idSSvp">`Place.id`</a>
+  - <a href="sdk-for-ios-explore-classes-place#sdk-for-ios-explore-s-7heresdk5PlaceC14geoCoordinatesAA03GeoD0VSgvp">`Place.geoCoordinates`</a>
+  - <a href="sdk-for-ios-explore-classes-place#sdk-for-ios-explore-s-7heresdk5PlaceC12accessPointsSayAA14GeoCoordinatesVGvp">`Place.accessPoints`</a>
+  - <a href="sdk-for-ios-explore-classes-place#sdk-for-ios-explore-s-7heresdk5PlaceC9placeTypeAA0bD0Ovp">`Place.placeType`</a>
+  - <a href="sdk-for-ios-explore-classes-place#sdk-for-ios-explore-s-7heresdk5PlaceC11boundingBoxAA03GeoD0VSgvp">`Place.boundingBox`</a>
+  - <a href="sdk-for-ios-explore-structs-details#sdk-for-ios-explore-s-7heresdk7DetailsV20getPrimaryCategoriesSayAA13PlaceCategoryCGyF">`Details.getPrimaryCategories(...)`</a>
+  - <a href="sdk-for-ios-explore-structs-address#sdk-for-ios-explore-s-7heresdk7AddressV11addressTextSSvp">`Address.addressText`</a>
+  - <a href="sdk-for-ios-explore-structs-address#sdk-for-ios-explore-s-7heresdk7AddressV11countryCodeSSvp">`Address.countryCode`</a>
 
   </div>
 
@@ -614,10 +634,8 @@ Represents a location object, such as a country, a city, a point of interest (PO
   Swift
 
   ``` highlight
-  public func serializeCompact () -> String
+  public func serializeCompact() -> String
   ```
-
-  </pre>
 
   </div>
 
@@ -637,7 +655,7 @@ Represents a location object, such as a country, a city, a point of interest (PO
 
 - <div>
 
-      deserialize(serializedPlace: )
+   <span id="sdk-for-ios-explore-s-7heresdk5PlaceC11deserialize010serializedB0ACSS_tKFZ"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-deserialize-serializedPlace" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-place#sdk-for-ios-explore-s-7heresdk5PlaceC11deserialize010serializedB0ACSS_tKFZ" class="token"><code>deserialize(serializedPlace:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -661,7 +679,7 @@ Represents a location object, such as a country, a city, a point of interest (PO
 
   Throws
 
-  <a href="sdk-for-ios-explore-search#/s:7heresdk27PlaceSerializationExceptiona">`PlaceSerializationException`</a> Indicates what went wrong during deserialization attempt.
+  <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk27PlaceSerializationExceptiona">`PlaceSerializationException`</a> Indicates what went wrong during deserialization attempt.
 
   </div>
 
@@ -676,10 +694,8 @@ Represents a location object, such as a country, a city, a point of interest (PO
   Swift
 
   ``` highlight
-  public static func deserialize ( serializedPlace : String ) throws -> Place
+  public static func deserialize(serializedPlace: String) throws -> Place
   ```
-
-  </pre>
 
   </div>
 

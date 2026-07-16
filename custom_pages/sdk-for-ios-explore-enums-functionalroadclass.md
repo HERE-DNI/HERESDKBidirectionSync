@@ -27,7 +27,7 @@ Types of function road class.
 
 - <div>
 
-  ` `<span id="/s:7heresdk19FunctionalRoadClassO010functionalC6Class1yA2CmF"></span>` `<span id="//apple_ref/swift/Element/functionalRoadClass1" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-functionalroadclass#/s:7heresdk19FunctionalRoadClassO010functionalC6Class1yA2CmF" class="token"><code>functionalRoadClass1</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19FunctionalRoadClassO010functionalC6Class1yA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-functionalRoadClass1" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-functionalroadclass#sdk-for-ios-explore-s-7heresdk19FunctionalRoadClassO010functionalC6Class1yA2CmF" class="token"><code>functionalRoadClass1</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Types of function road class.
 
 - <div>
 
-  ` `<span id="/s:7heresdk19FunctionalRoadClassO010functionalC6Class2yA2CmF"></span>` `<span id="//apple_ref/swift/Element/functionalRoadClass2" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-functionalroadclass#/s:7heresdk19FunctionalRoadClassO010functionalC6Class2yA2CmF" class="token"><code>functionalRoadClass2</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19FunctionalRoadClassO010functionalC6Class2yA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-functionalRoadClass2" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-functionalroadclass#sdk-for-ios-explore-s-7heresdk19FunctionalRoadClassO010functionalC6Class2yA2CmF" class="token"><code>functionalRoadClass2</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Types of function road class.
 
 - <div>
 
-  ` `<span id="/s:7heresdk19FunctionalRoadClassO010functionalC6Class3yA2CmF"></span>` `<span id="//apple_ref/swift/Element/functionalRoadClass3" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-functionalroadclass#/s:7heresdk19FunctionalRoadClassO010functionalC6Class3yA2CmF" class="token"><code>functionalRoadClass3</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19FunctionalRoadClassO010functionalC6Class3yA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-functionalRoadClass3" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-functionalroadclass#sdk-for-ios-explore-s-7heresdk19FunctionalRoadClassO010functionalC6Class3yA2CmF" class="token"><code>functionalRoadClass3</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Types of function road class.
 
 - <div>
 
-  ` `<span id="/s:7heresdk19FunctionalRoadClassO010functionalC6Class4yA2CmF"></span>` `<span id="//apple_ref/swift/Element/functionalRoadClass4" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-functionalroadclass#/s:7heresdk19FunctionalRoadClassO010functionalC6Class4yA2CmF" class="token"><code>functionalRoadClass4</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19FunctionalRoadClassO010functionalC6Class4yA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-functionalRoadClass4" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-functionalroadclass#sdk-for-ios-explore-s-7heresdk19FunctionalRoadClassO010functionalC6Class4yA2CmF" class="token"><code>functionalRoadClass4</code></a> 
 
   </div>
 
@@ -203,7 +203,7 @@ Types of function road class.
 
 - <div>
 
-  ` `<span id="/s:7heresdk19FunctionalRoadClassO010functionalC6Class5yA2CmF"></span>` `<span id="//apple_ref/swift/Element/functionalRoadClass5" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-functionalroadclass#/s:7heresdk19FunctionalRoadClassO010functionalC6Class5yA2CmF" class="token"><code>functionalRoadClass5</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19FunctionalRoadClassO010functionalC6Class5yA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-functionalRoadClass5" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-functionalroadclass#sdk-for-ios-explore-s-7heresdk19FunctionalRoadClassO010functionalC6Class5yA2CmF" class="token"><code>functionalRoadClass5</code></a> 
 
   </div>
 

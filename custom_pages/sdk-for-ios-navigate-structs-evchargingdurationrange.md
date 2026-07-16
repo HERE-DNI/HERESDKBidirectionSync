@@ -27,7 +27,7 @@ Duration of the charging session when the tariff element is valid, in seconds. *
 
 - <div>
 
-  ` `<span id="/s:7heresdk23EVChargingDurationRangeV3mins5Int32VSgvp"></span>` `<span id="//apple_ref/swift/Property/min" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evchargingdurationrange#/s:7heresdk23EVChargingDurationRangeV3mins5Int32VSgvp" class="token"><code>min</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk23EVChargingDurationRangeV3mins5Int32VSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-min" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingdurationrange#sdk-for-ios-navigate-s-7heresdk23EVChargingDurationRangeV3mins5Int32VSgvp" class="token"><code>min</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Duration of the charging session when the tariff element is valid, in seconds. *
 
 - <div>
 
-  ` `<span id="/s:7heresdk23EVChargingDurationRangeV3maxs5Int32VSgvp"></span>` `<span id="//apple_ref/swift/Property/max" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evchargingdurationrange#/s:7heresdk23EVChargingDurationRangeV3maxs5Int32VSgvp" class="token"><code>max</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk23EVChargingDurationRangeV3maxs5Int32VSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-max" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingdurationrange#sdk-for-ios-navigate-s-7heresdk23EVChargingDurationRangeV3maxs5Int32VSgvp" class="token"><code>max</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Duration of the charging session when the tariff element is valid, in seconds. *
 
 - <div>
 
-      init(min: max: )
+   <span id="sdk-for-ios-navigate-s-7heresdk23EVChargingDurationRangeV3min3maxACs5Int32VSg_AHtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-min-max" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingdurationrange#sdk-for-ios-navigate-s-7heresdk23EVChargingDurationRangeV3min3maxACs5Int32VSg_AHtcfc" class="token"><code>init(min:</code><wbr></wbr><code>max:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -146,10 +146,8 @@ Duration of the charging session when the tariff element is valid, in seconds. *
   Swift
 
   ``` highlight
-  public init ( min : Int32 ? = nil , max : Int32 ? = nil )
+  public init(min: Int32? = nil, max: Int32? = nil)
   ```
-
-  </pre>
 
   </div>
 

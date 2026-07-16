@@ -13,7 +13,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk17AnimationDelegateP"></span>` `<span id="//apple_ref/swift/Protocol/AnimationDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk17AnimationDelegateP" class="token"><code>AnimationDelegate</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17AnimationDelegateP"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Protocol-AnimationDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk17AnimationDelegateP" class="token"><code>AnimationDelegate</code></a> 
 
   </div>
 
@@ -59,7 +59,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk14AnimationStateO"></span>` `<span id="//apple_ref/swift/Enum/AnimationState" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk14AnimationStateO" class="token"><code>AnimationState</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14AnimationStateO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-AnimationState" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk14AnimationStateO" class="token"><code>AnimationState</code></a> 
 
   </div>
 
@@ -105,7 +105,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk13AssetsManagerC"></span>` `<span id="//apple_ref/swift/Class/AssetsManager" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk13AssetsManagerC" class="token"><code>AssetsManager</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13AssetsManagerC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-AssetsManager" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk13AssetsManagerC" class="token"><code>AssetsManager</code></a> 
 
   </div>
 
@@ -161,7 +161,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk14DataAttributesC"></span>` `<span id="//apple_ref/swift/Class/DataAttributes" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk14DataAttributesC" class="token"><code>DataAttributes</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14DataAttributesC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-DataAttributes" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk14DataAttributesC" class="token"><code>DataAttributes</code></a> 
 
   </div>
 
@@ -209,6 +209,10 @@ slug: "sdk-for-ios-explore-maps"
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-protocols-dataattributesbase">DataAttributesBase</a>
+
   </div>
 
   </div>
@@ -217,7 +221,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk22DataAttributesAccessorC"></span>` `<span id="//apple_ref/swift/Class/DataAttributesAccessor" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk22DataAttributesAccessorC" class="token"><code>DataAttributesAccessor</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk22DataAttributesAccessorC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-DataAttributesAccessor" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk22DataAttributesAccessorC" class="token"><code>DataAttributesAccessor</code></a> 
 
   </div>
 
@@ -265,6 +269,10 @@ slug: "sdk-for-ios-explore-maps"
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-protocols-dataattributesbase">DataAttributesBase</a>
+
   </div>
 
   </div>
@@ -273,7 +281,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk21DataAttributesBuilderC"></span>` `<span id="//apple_ref/swift/Class/DataAttributesBuilder" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk21DataAttributesBuilderC" class="token"><code>DataAttributesBuilder</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk21DataAttributesBuilderC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-DataAttributesBuilder" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk21DataAttributesBuilderC" class="token"><code>DataAttributesBuilder</code></a> 
 
   </div>
 
@@ -329,7 +337,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk18DataAttributeValueC"></span>` `<span id="//apple_ref/swift/Class/DataAttributeValue" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk18DataAttributeValueC" class="token"><code>DataAttributeValue</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18DataAttributeValueC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-DataAttributeValue" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk18DataAttributeValueC" class="token"><code>DataAttributeValue</code></a> 
 
   </div>
 
@@ -385,7 +393,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk11DashPatternV"></span>` `<span id="//apple_ref/swift/Struct/DashPattern" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk11DashPatternV" class="token"><code>DashPattern</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11DashPatternV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-DashPattern" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk11DashPatternV" class="token"><code>DashPattern</code></a> 
 
   </div>
 
@@ -431,7 +439,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk17DoubleTapDelegateP"></span>` `<span id="//apple_ref/swift/Protocol/DoubleTapDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk17DoubleTapDelegateP" class="token"><code>DoubleTapDelegate</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17DoubleTapDelegateP"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Protocol-DoubleTapDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk17DoubleTapDelegateP" class="token"><code>DoubleTapDelegate</code></a> 
 
   </div>
 
@@ -477,7 +485,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk13DrawOrderTypeO"></span>` `<span id="//apple_ref/swift/Enum/DrawOrderType" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk13DrawOrderTypeO" class="token"><code>DrawOrderType</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13DrawOrderTypeO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-DrawOrderType" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk13DrawOrderTypeO" class="token"><code>DrawOrderType</code></a> 
 
   </div>
 
@@ -499,7 +507,7 @@ slug: "sdk-for-ios-explore-maps"
 
   Regardless of a draw order type map items with a higher draw order are drawn on top of map items with a lower draw order.
 
-  When having map items in a scene with the same draw order, but with different draw order types <a href="sdk-for-ios-explore-enums-drawordertype#/s:7heresdk13DrawOrderTypeO016mapSceneAdditionC9DependentyA2CmF">`DrawOrderType.mapSceneAdditionOrderDependent`</a> and <a href="sdk-for-ios-explore-enums-drawordertype#/s:7heresdk13DrawOrderTypeO016mapSceneAdditionC11IndependentyA2CmF">`DrawOrderType.mapSceneAdditionOrderIndependent`</a>, <a href="sdk-for-ios-explore-enums-drawordertype#/s:7heresdk13DrawOrderTypeO016mapSceneAdditionC9DependentyA2CmF">`DrawOrderType.mapSceneAdditionOrderDependent`</a> items will be rendered on top of <a href="sdk-for-ios-explore-enums-drawordertype#/s:7heresdk13DrawOrderTypeO016mapSceneAdditionC11IndependentyA2CmF">`DrawOrderType.mapSceneAdditionOrderIndependent`</a> ones.
+  When having map items in a scene with the same draw order, but with different draw order types <a href="sdk-for-ios-explore-enums-drawordertype#sdk-for-ios-explore-s-7heresdk13DrawOrderTypeO016mapSceneAdditionC9DependentyA2CmF">`DrawOrderType.mapSceneAdditionOrderDependent`</a> and <a href="sdk-for-ios-explore-enums-drawordertype#sdk-for-ios-explore-s-7heresdk13DrawOrderTypeO016mapSceneAdditionC11IndependentyA2CmF">`DrawOrderType.mapSceneAdditionOrderIndependent`</a>, <a href="sdk-for-ios-explore-enums-drawordertype#sdk-for-ios-explore-s-7heresdk13DrawOrderTypeO016mapSceneAdditionC9DependentyA2CmF">`DrawOrderType.mapSceneAdditionOrderDependent`</a> items will be rendered on top of <a href="sdk-for-ios-explore-enums-drawordertype#sdk-for-ios-explore-s-7heresdk13DrawOrderTypeO016mapSceneAdditionC11IndependentyA2CmF">`DrawOrderType.mapSceneAdditionOrderIndependent`</a> ones.
 
   <a href="sdk-for-ios-explore-enums-drawordertype" class="slightly-smaller">See more</a>
 
@@ -527,7 +535,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk6EasingC"></span>` `<span id="//apple_ref/swift/Class/Easing" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk6EasingC" class="token"><code>Easing</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk6EasingC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-Easing" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk6EasingC" class="token"><code>Easing</code></a> 
 
   </div>
 
@@ -581,7 +589,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk14EasingFunctionO"></span>` `<span id="//apple_ref/swift/Enum/EasingFunction" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk14EasingFunctionO" class="token"><code>EasingFunction</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14EasingFunctionO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-EasingFunction" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk14EasingFunctionO" class="token"><code>EasingFunction</code></a> 
 
   </div>
 
@@ -627,7 +635,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk22GeoCoordinatesKeyframeV"></span>` `<span id="//apple_ref/swift/Struct/GeoCoordinatesKeyframe" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk22GeoCoordinatesKeyframeV" class="token"><code>GeoCoordinatesKeyframe</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk22GeoCoordinatesKeyframeV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-GeoCoordinatesKeyframe" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk22GeoCoordinatesKeyframeV" class="token"><code>GeoCoordinatesKeyframe</code></a> 
 
   </div>
 
@@ -673,7 +681,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk22GeoOrientationKeyframeV"></span>` `<span id="//apple_ref/swift/Struct/GeoOrientationKeyframe" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk22GeoOrientationKeyframeV" class="token"><code>GeoOrientationKeyframe</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk22GeoOrientationKeyframeV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-GeoOrientationKeyframe" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk22GeoOrientationKeyframeV" class="token"><code>GeoOrientationKeyframe</code></a> 
 
   </div>
 
@@ -719,7 +727,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk12GestureStateO"></span>` `<span id="//apple_ref/swift/Enum/GestureState" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk12GestureStateO" class="token"><code>GestureState</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12GestureStateO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-GestureState" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk12GestureStateO" class="token"><code>GestureState</code></a> 
 
   </div>
 
@@ -765,7 +773,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk11GestureTypeO"></span>` `<span id="//apple_ref/swift/Enum/GestureType" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk11GestureTypeO" class="token"><code>GestureType</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11GestureTypeO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-GestureType" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk11GestureTypeO" class="token"><code>GestureType</code></a> 
 
   </div>
 
@@ -811,7 +819,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk8GesturesC"></span>` `<span id="//apple_ref/swift/Class/Gestures" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk8GesturesC" class="token"><code>Gestures</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk8GesturesC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-Gestures" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk8GesturesC" class="token"><code>Gestures</code></a> 
 
   </div>
 
@@ -865,7 +873,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk7HereMapC"></span>` `<span id="//apple_ref/swift/Class/HereMap" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk7HereMapC" class="token"><code>HereMap</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk7HereMapC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-HereMap" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk7HereMapC" class="token"><code>HereMap</code></a> 
 
   </div>
 
@@ -919,7 +927,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk12IconProviderC"></span>` `<span id="//apple_ref/swift/Class/IconProvider" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk12IconProviderC" class="token"><code>IconProvider</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12IconProviderC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-IconProvider" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk12IconProviderC" class="token"><code>IconProvider</code></a> 
 
   </div>
 
@@ -973,7 +981,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk21IconProviderAssetTypeO"></span>` `<span id="//apple_ref/swift/Enum/IconProviderAssetType" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk21IconProviderAssetTypeO" class="token"><code>IconProviderAssetType</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk21IconProviderAssetTypeO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-IconProviderAssetType" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk21IconProviderAssetTypeO" class="token"><code>IconProviderAssetType</code></a> 
 
   </div>
 
@@ -1019,7 +1027,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk20IconProviderCallbacka"></span>` `<span id="//apple_ref/swift/Alias/IconProviderCallback" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk20IconProviderCallbacka" class="token"><code>IconProviderCallback</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk20IconProviderCallbacka"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Alias-IconProviderCallback" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk20IconProviderCallbacka" class="token"><code>IconProviderCallback</code></a> 
 
   </div>
 
@@ -1050,12 +1058,17 @@ slug: "sdk-for-ios-explore-maps"
   Swift
 
   ``` highlight
-  public typealias IconProviderCallback = ( _ icon : UIImage ?, _ iconDescription : String ?, _ error : IconProviderError ?) -> Void
+  public typealias IconProviderCallback = (
+      _ icon: UIImage?,
+      _ iconDescription: String?,
+      _ error: IconProviderError?) -> Void
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-iconprovidererror">IconProviderError</a>
 
   </div>
 
@@ -1098,7 +1111,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk17IconProviderErrorO"></span>` `<span id="//apple_ref/swift/Enum/IconProviderError" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk17IconProviderErrorO" class="token"><code>IconProviderError</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17IconProviderErrorO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-IconProviderError" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk17IconProviderErrorO" class="token"><code>IconProviderError</code></a> 
 
   </div>
 
@@ -1144,7 +1157,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk11ImageFormatO"></span>` `<span id="//apple_ref/swift/Enum/ImageFormat" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk11ImageFormatO" class="token"><code>ImageFormat</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11ImageFormatO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-ImageFormat" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk11ImageFormatO" class="token"><code>ImageFormat</code></a> 
 
   </div>
 
@@ -1190,7 +1203,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk16JsonStyleFactoryC"></span>` `<span id="//apple_ref/swift/Class/JsonStyleFactory" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk16JsonStyleFactoryC" class="token"><code>JsonStyleFactory</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16JsonStyleFactoryC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-JsonStyleFactory" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk16JsonStyleFactoryC" class="token"><code>JsonStyleFactory</code></a> 
 
   </div>
 
@@ -1246,7 +1259,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk25KeyframeInterpolationModeO"></span>` `<span id="//apple_ref/swift/Enum/KeyframeInterpolationMode" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk25KeyframeInterpolationModeO" class="token"><code>KeyframeInterpolationMode</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk25KeyframeInterpolationModeO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-KeyframeInterpolationMode" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk25KeyframeInterpolationModeO" class="token"><code>KeyframeInterpolationMode</code></a> 
 
   </div>
 
@@ -1292,7 +1305,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk7LineCapO"></span>` `<span id="//apple_ref/swift/Enum/LineCap" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk7LineCapO" class="token"><code>LineCap</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk7LineCapO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-LineCap" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk7LineCapO" class="token"><code>LineCap</code></a> 
 
   </div>
 
@@ -1338,7 +1351,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk18LineTileDataSourceC"></span>` `<span id="//apple_ref/swift/Class/LineTileDataSource" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk18LineTileDataSourceC" class="token"><code>LineTileDataSource</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18LineTileDataSourceC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-LineTileDataSource" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk18LineTileDataSourceC" class="token"><code>LineTileDataSource</code></a> 
 
   </div>
 
@@ -1394,7 +1407,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk14LineTileSourceP"></span>` `<span id="//apple_ref/swift/Protocol/LineTileSource" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk14LineTileSourceP" class="token"><code>LineTileSource</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14LineTileSourceP"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Protocol-LineTileSource" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk14LineTileSourceP" class="token"><code>LineTileSource</code></a> 
 
   </div>
 
@@ -1434,6 +1447,10 @@ slug: "sdk-for-ios-explore-maps"
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-protocols-tilesource">TileSource</a>
+
   </div>
 
   </div>
@@ -1442,7 +1459,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk31LineTileSourceLoadResultHandlerP"></span>` `<span id="//apple_ref/swift/Protocol/LineTileSourceLoadResultHandler" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk31LineTileSourceLoadResultHandlerP" class="token"><code>LineTileSourceLoadResultHandler</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk31LineTileSourceLoadResultHandlerP"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Protocol-LineTileSourceLoadResultHandler" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk31LineTileSourceLoadResultHandlerP" class="token"><code>LineTileSourceLoadResultHandler</code></a> 
 
   </div>
 
@@ -1488,7 +1505,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk17LocationIndicatorC"></span>` `<span id="//apple_ref/swift/Class/LocationIndicator" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk17LocationIndicatorC" class="token"><code>LocationIndicator</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17LocationIndicatorC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-LocationIndicator" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk17LocationIndicatorC" class="token"><code>LocationIndicator</code></a> 
 
   </div>
 
@@ -1508,7 +1525,7 @@ slug: "sdk-for-ios-explore-maps"
 
   Graphical object to represent the location of the user on the map.
 
-  It is either a green dot for pedestrian style or a triangular arrow for vehicle navigation style. This style can be changed by <a href="sdk-for-ios-explore-classes-locationindicator#/s:7heresdk17LocationIndicatorC08locationC5StyleAC0cE0Ovp">`LocationIndicator.locationIndicatorStyle`</a>
+  It is either a green dot for pedestrian style or a triangular arrow for vehicle navigation style. This style can be changed by <a href="sdk-for-ios-explore-classes-locationindicator#sdk-for-ios-explore-s-7heresdk17LocationIndicatorC08locationC5StyleAC0cE0Ovp">`LocationIndicator.locationIndicatorStyle`</a>
 
   The location is made available to an instance of this class by calling
 
@@ -1520,15 +1537,7 @@ slug: "sdk-for-ios-explore-maps"
   .
   </p>
 
-  Use
-
-      LocationIndicator.enable(...)
-
-  to add this object to the map and
-      LocationIndicator.disable(...)
-
-  to remove it.
-  </p>
+  Use <a href="sdk-for-ios-explore-classes-locationindicator#sdk-for-ios-explore-s-7heresdk17LocationIndicatorC6enable3foryAA11MapViewBase_p_tF">`LocationIndicator.enable(...)`</a> to add this object to the map and <a href="sdk-for-ios-explore-classes-locationindicator#sdk-for-ios-explore-s-7heresdk17LocationIndicatorC7disableyyF">`LocationIndicator.disable(...)`</a> to remove it.
 
   Note: The LocationIndicator is always rendered at a fixed altitude near 0. Changing the MapCamera to look at geographic coordinates with an altitude that is higher can cause the following behavior: If the MapCamera angle is tilted and altitude is too high, the LocationIndicator can unexpectedly disappear from the viewport due to the new perspective.
 
@@ -1566,7 +1575,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk17LongPressDelegateP"></span>` `<span id="//apple_ref/swift/Protocol/LongPressDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk17LongPressDelegateP" class="token"><code>LongPressDelegate</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17LongPressDelegateP"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Protocol-LongPressDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk17LongPressDelegateP" class="token"><code>LongPressDelegate</code></a> 
 
   </div>
 
@@ -1612,7 +1621,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk8MapArrowC"></span>` `<span id="//apple_ref/swift/Class/MapArrow" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk8MapArrowC" class="token"><code>MapArrow</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk8MapArrowC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-MapArrow" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk8MapArrowC" class="token"><code>MapArrow</code></a> 
 
   </div>
 
@@ -1670,7 +1679,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk9MapCameraC"></span>` `<span id="//apple_ref/swift/Class/MapCamera" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk9MapCameraC" class="token"><code>MapCamera</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9MapCameraC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-MapCamera" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk9MapCameraC" class="token"><code>MapCamera</code></a> 
 
   </div>
 
@@ -1710,7 +1719,7 @@ slug: "sdk-for-ios-explore-maps"
 
   *Getting the current camera state*
 
-  The current camera state can be obtained by the <a href="sdk-for-ios-explore-classes-mapcamera#/s:7heresdk9MapCameraC5stateAC5StateVvp">`MapCamera.state`</a> call. It contains information about the camera look-at target (geo-coordinates and orientation) in geodetic space. The values are returned for the current `principal point`. This can lead to surprising or unexpected values in cases where the camera position/orientation was specified for another screen point, e.g. when using
+  The current camera state can be obtained by the <a href="sdk-for-ios-explore-classes-mapcamera#sdk-for-ios-explore-s-7heresdk9MapCameraC5stateAC5StateVvp">`MapCamera.state`</a> call. It contains information about the camera look-at target (geo-coordinates and orientation) in geodetic space. The values are returned for the current `principal point`. This can lead to surprising or unexpected values in cases where the camera position/orientation was specified for another screen point, e.g. when using
 
       MapCameraUpdateFactory.lookAt(GeoBox)
 
@@ -1777,12 +1786,7 @@ slug: "sdk-for-ios-explore-maps"
 
   All changes to the camera are encapsulated in camera updates that are created using the methods in the <a href="sdk-for-ios-explore-classes-mapcameraupdatefactory">`MapCameraUpdateFactory`</a> class.
 
-  These updates can then be applied to the <a href="sdk-for-ios-explore-classes-heremap">`HereMap`</a> using
-
-      MapCamera.applyUpdate(...)
-
-  .
-  </p>
+  These updates can then be applied to the <a href="sdk-for-ios-explore-classes-heremap">`HereMap`</a> using <a href="sdk-for-ios-explore-classes-mapcamera#sdk-for-ios-explore-s-7heresdk9MapCameraC11applyUpdateyyAA0bcE0CF">`MapCamera.applyUpdate(...)`</a>.
 
   Camera updates are queued and executed when the next frame is rendered. They are executed in the order in which they were applied.
 
@@ -1797,15 +1801,7 @@ slug: "sdk-for-ios-explore-maps"
 
   Only one camera animation for one camera component at a time is supported. Applying a new animation will cancel the active animation before the new one is started. The start position in this case is where ever the active animation happened to be at the time. Different components are camera state (`target pose` and `distance/zoom level/scale`) and camera projection (`field of view, focal length` and `principal point`).
 
-  The running animations can also be canceled using
-
-      MapCamera.cancelAnimations(...)
-
-  or individual ones using
-      MapCamera.cancelAnimation(...)
-
-  .
-  </p>
+  The running animations can also be canceled using <a href="sdk-for-ios-explore-classes-mapcamera#sdk-for-ios-explore-s-7heresdk9MapCameraC16cancelAnimationsyyF">`MapCamera.cancelAnimations(...)`</a> or individual ones using <a href="sdk-for-ios-explore-classes-mapcamera#sdk-for-ios-explore-s-7heresdk9MapCameraC15cancelAnimationyyAA0bcE0CF">`MapCamera.cancelAnimation(...)`</a>.
 
   <a href="sdk-for-ios-explore-classes-mapcamera" class="slightly-smaller">See more</a>
 
@@ -1841,7 +1837,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk18MapCameraAnimationC"></span>` `<span id="//apple_ref/swift/Class/MapCameraAnimation" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk18MapCameraAnimationC" class="token"><code>MapCameraAnimation</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18MapCameraAnimationC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-MapCameraAnimation" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk18MapCameraAnimationC" class="token"><code>MapCameraAnimation</code></a> 
 
   </div>
 
@@ -1895,7 +1891,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk25MapCameraAnimationFactoryC"></span>` `<span id="//apple_ref/swift/Class/MapCameraAnimationFactory" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk25MapCameraAnimationFactoryC" class="token"><code>MapCameraAnimationFactory</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk25MapCameraAnimationFactoryC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-MapCameraAnimationFactory" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk25MapCameraAnimationFactoryC" class="token"><code>MapCameraAnimationFactory</code></a> 
 
   </div>
 
@@ -1949,7 +1945,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk17MapCameraDelegateP"></span>` `<span id="//apple_ref/swift/Protocol/MapCameraDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk17MapCameraDelegateP" class="token"><code>MapCameraDelegate</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17MapCameraDelegateP"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Protocol-MapCameraDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk17MapCameraDelegateP" class="token"><code>MapCameraDelegate</code></a> 
 
   </div>
 
@@ -1995,7 +1991,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk22MapCameraKeyframeTrackC"></span>` `<span id="//apple_ref/swift/Class/MapCameraKeyframeTrack" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk22MapCameraKeyframeTrackC" class="token"><code>MapCameraKeyframeTrack</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk22MapCameraKeyframeTrackC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-MapCameraKeyframeTrack" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk22MapCameraKeyframeTrackC" class="token"><code>MapCameraKeyframeTrack</code></a> 
 
   </div>
 
@@ -2049,7 +2045,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk15MapCameraLimitsC"></span>` `<span id="//apple_ref/swift/Class/MapCameraLimits" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk15MapCameraLimitsC" class="token"><code>MapCameraLimits</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15MapCameraLimitsC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-MapCameraLimits" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk15MapCameraLimitsC" class="token"><code>MapCameraLimits</code></a> 
 
   </div>
 
@@ -2107,7 +2103,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk15MapCameraUpdateC"></span>` `<span id="//apple_ref/swift/Class/MapCameraUpdate" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk15MapCameraUpdateC" class="token"><code>MapCameraUpdate</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15MapCameraUpdateC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-MapCameraUpdate" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk15MapCameraUpdateC" class="token"><code>MapCameraUpdate</code></a> 
 
   </div>
 
@@ -2161,7 +2157,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk22MapCameraUpdateFactoryC"></span>` `<span id="//apple_ref/swift/Class/MapCameraUpdateFactory" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk22MapCameraUpdateFactoryC" class="token"><code>MapCameraUpdateFactory</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk22MapCameraUpdateFactoryC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-MapCameraUpdateFactory" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk22MapCameraUpdateFactoryC" class="token"><code>MapCameraUpdateFactory</code></a> 
 
   </div>
 
@@ -2184,10 +2180,17 @@ slug: "sdk-for-ios-explore-maps"
   For some factory methods you can apply an additional padding in pixels by setting a `viewRectangle` parameter based on the current size of the map view:
 
   ``` highlight
-  let leftPaddingInPixels = 5 let rightPaddingInPixels = 5 let topPaddingInPixels = 5 let bottomPaddingInPixels = 5 let horizontalPaddingInPixels = leftPaddingInPixels + rightPaddingInPixels let verticalPaddingInPixels = topPaddingInPixels + bottomPaddingInPixels let origin = Point2D ( leftPaddingInPixels , topPaddingInPixels ) let sizeInPixels = Size2D ( width : mapView . viewportSize . width - horizontalPaddingInPixels , height : mapView . viewportSize . height - verticalPaddingInPixels ) let paddedViewRectangle = Rectangle2D ( origin : origin , size : sizeInPixels )
-  ```
+  let leftPaddingInPixels = 5
+  let rightPaddingInPixels = 5
+  let topPaddingInPixels = 5
+  let bottomPaddingInPixels = 5
+  let horizontalPaddingInPixels = leftPaddingInPixels + rightPaddingInPixels
+  let verticalPaddingInPixels = topPaddingInPixels + bottomPaddingInPixels
 
-  </pre>
+  let origin = Point2D(leftPaddingInPixels, topPaddingInPixels)
+  let sizeInPixels = Size2D(width: mapView.viewportSize.width - horizontalPaddingInPixels, height: mapView.viewportSize.height - verticalPaddingInPixels)
+  let paddedViewRectangle = Rectangle2D(origin: origin, size: sizeInPixels)
+  ```
 
   The origin indicates the top-left corner of the rectangle. An origin of (0, 0) indicates also the top-left corner of the map’s viewport.
 
@@ -2225,7 +2228,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk18MapContentCategoryO"></span>` `<span id="//apple_ref/swift/Enum/MapContentCategory" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk18MapContentCategoryO" class="token"><code>MapContentCategory</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18MapContentCategoryO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-MapContentCategory" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk18MapContentCategoryO" class="token"><code>MapContentCategory</code></a> 
 
   </div>
 
@@ -2271,7 +2274,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk18MapContentSettingsC"></span>` `<span id="//apple_ref/swift/Class/MapContentSettings" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk18MapContentSettingsC" class="token"><code>MapContentSettings</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18MapContentSettingsC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-MapContentSettings" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk18MapContentSettingsC" class="token"><code>MapContentSettings</code></a> 
 
   </div>
 
@@ -2325,7 +2328,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk14MapContentTypeO"></span>` `<span id="//apple_ref/swift/Enum/MapContentType" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk14MapContentTypeO" class="token"><code>MapContentType</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14MapContentTypeO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-MapContentType" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk14MapContentTypeO" class="token"><code>MapContentType</code></a> 
 
   </div>
 
@@ -2371,7 +2374,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk10MapContextC"></span>` `<span id="//apple_ref/swift/Class/MapContext" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk10MapContextC" class="token"><code>MapContext</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10MapContextC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-MapContext" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk10MapContextC" class="token"><code>MapContext</code></a> 
 
   </div>
 
@@ -2431,7 +2434,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk8MapErrorO"></span>` `<span id="//apple_ref/swift/Enum/MapError" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk8MapErrorO" class="token"><code>MapError</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk8MapErrorO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-MapError" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk8MapErrorO" class="token"><code>MapError</code></a> 
 
   </div>
 
@@ -2477,7 +2480,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk11MapFeaturesV"></span>` `<span id="//apple_ref/swift/Struct/MapFeatures" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk11MapFeaturesV" class="token"><code>MapFeatures</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11MapFeaturesV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-MapFeatures" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk11MapFeaturesV" class="token"><code>MapFeatures</code></a> 
 
   </div>
 
@@ -2495,15 +2498,7 @@ slug: "sdk-for-ios-explore-maps"
 
   <div class="abstract">
 
-  Holds constants for map features, to be used with
-
-      MapScene.enableFeatures(...)
-
-  and
-      MapScene.disableFeatures(...)
-
-  .
-  </p>
+  Holds constants for map features, to be used with <a href="sdk-for-ios-explore-classes-mapscene#sdk-for-ios-explore-s-7heresdk8MapSceneC14enableFeaturesyySDyS2SGF">`MapScene.enableFeatures(...)`</a> and <a href="sdk-for-ios-explore-classes-mapscene#sdk-for-ios-explore-s-7heresdk8MapSceneC15disableFeaturesyySaySSGF">`MapScene.disableFeatures(...)`</a>.
 
   See <a href="sdk-for-ios-explore-structs-mapfeaturemodes">`MapFeatureModes`</a> for constants representing feature modes.
 
@@ -2533,7 +2528,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk15MapFeatureModesV"></span>` `<span id="//apple_ref/swift/Struct/MapFeatureModes" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk15MapFeatureModesV" class="token"><code>MapFeatureModes</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15MapFeatureModesV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-MapFeatureModes" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk15MapFeatureModesV" class="token"><code>MapFeatureModes</code></a> 
 
   </div>
 
@@ -2551,21 +2546,11 @@ slug: "sdk-for-ios-explore-maps"
 
   <div class="abstract">
 
-  Holds constants for map feature modes, to be used with
+  Holds constants for map feature modes, to be used with <a href="sdk-for-ios-explore-classes-mapscene#sdk-for-ios-explore-s-7heresdk8MapSceneC14enableFeaturesyySDyS2SGF">`MapScene.enableFeatures(...)`</a>.
 
-      MapScene.enableFeatures(...)
+  Use <a href="sdk-for-ios-explore-structs-mapfeaturemodes#sdk-for-ios-explore-s-7heresdk15MapFeatureModesV11defaultModeSSvpZ">`MapFeatureModes.defaultMode`</a> to enable a feature with its default mode.
 
-  .
-  </p>
-
-  Use <a href="sdk-for-ios-explore-structs-mapfeaturemodes#/s:7heresdk15MapFeatureModesV11defaultModeSSvpZ">`MapFeatureModes.defaultMode`</a> to enable a feature with its default mode.
-
-  Note: The default mode is defined by the currently loaded map scene configuration and may vary per <a href="sdk-for-ios-explore-enums-mapscheme">`MapScheme`</a>. The currently active features and modes can be inspected using
-
-      MapScene.getActiveFeatures(...)
-
-  after the scene is loaded.
-  </p>
+  Note: The default mode is defined by the currently loaded map scene configuration and may vary per <a href="sdk-for-ios-explore-enums-mapscheme">`MapScheme`</a>. The currently active features and modes can be inspected using <a href="sdk-for-ios-explore-classes-mapscene#sdk-for-ios-explore-s-7heresdk8MapSceneC17getActiveFeaturesSDyS2SGyF">`MapScene.getActiveFeatures(...)`</a> after the scene is loaded.
 
   See <a href="sdk-for-ios-explore-structs-mapfeatures">`MapFeatures`</a> for constants representing the feature names.
 
@@ -2595,7 +2580,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk15MapIdleDelegateP"></span>` `<span id="//apple_ref/swift/Protocol/MapIdleDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk15MapIdleDelegateP" class="token"><code>MapIdleDelegate</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15MapIdleDelegateP"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Protocol-MapIdleDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk15MapIdleDelegateP" class="token"><code>MapIdleDelegate</code></a> 
 
   </div>
 
@@ -2645,7 +2630,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk8MapImageC"></span>` `<span id="//apple_ref/swift/Class/MapImage" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk8MapImageC" class="token"><code>MapImage</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk8MapImageC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-MapImage" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk8MapImageC" class="token"><code>MapImage</code></a> 
 
   </div>
 
@@ -2701,7 +2686,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk15MapImageOverlayC"></span>` `<span id="//apple_ref/swift/Class/MapImageOverlay" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk15MapImageOverlayC" class="token"><code>MapImageOverlay</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15MapImageOverlayC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-MapImageOverlay" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk15MapImageOverlayC" class="token"><code>MapImageOverlay</code></a> 
 
   </div>
 
@@ -2725,15 +2710,7 @@ slug: "sdk-for-ios-explore-maps"
 
   The resulting viewport area covered by the overlay is computed out of the overlay’s view coordinate, the anchor point and the image size. The overlay subareas that fall outside of the map viewport get clipped.
 
-  To display the map overlay, it needs to be added to the scene using
-
-      MapScene.addMapImageOverlay(...)
-
-  . To stop displaying it, remove it from the scene using
-      MapScene.removeMapImageOverlay(...)
-
-  .
-  </p>
+  To display the map overlay, it needs to be added to the scene using <a href="sdk-for-ios-explore-classes-mapscene#sdk-for-ios-explore-s-7heresdk8MapSceneC03addB12ImageOverlayyyAA0beF0CF">`MapScene.addMapImageOverlay(...)`</a>. To stop displaying it, remove it from the scene using <a href="sdk-for-ios-explore-classes-mapscene#sdk-for-ios-explore-s-7heresdk8MapSceneC06removeB12ImageOverlayyyAA0beF0CF">`MapScene.removeMapImageOverlay(...)`</a>.
 
   <a href="sdk-for-ios-explore-classes-mapimageoverlay" class="slightly-smaller">See more</a>
 
@@ -2769,7 +2746,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk20MapItemKeyFrameTrackC"></span>` `<span id="//apple_ref/swift/Class/MapItemKeyFrameTrack" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk20MapItemKeyFrameTrackC" class="token"><code>MapItemKeyFrameTrack</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk20MapItemKeyFrameTrackC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-MapItemKeyFrameTrack" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk20MapItemKeyFrameTrackC" class="token"><code>MapItemKeyFrameTrack</code></a> 
 
   </div>
 
@@ -2825,7 +2802,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk21MapItemRepresentationC"></span>` `<span id="//apple_ref/swift/Class/MapItemRepresentation" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk21MapItemRepresentationC" class="token"><code>MapItemRepresentation</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk21MapItemRepresentationC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-MapItemRepresentation" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk21MapItemRepresentationC" class="token"><code>MapItemRepresentation</code></a> 
 
   </div>
 
@@ -2877,7 +2854,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk8MapLayerC"></span>` `<span id="//apple_ref/swift/Class/MapLayer" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk8MapLayerC" class="token"><code>MapLayer</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk8MapLayerC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-MapLayer" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk8MapLayerC" class="token"><code>MapLayer</code></a> 
 
   </div>
 
@@ -2931,7 +2908,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk15MapLayerBuilderC"></span>` `<span id="//apple_ref/swift/Class/MapLayerBuilder" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk15MapLayerBuilderC" class="token"><code>MapLayerBuilder</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15MapLayerBuilderC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-MapLayerBuilder" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk15MapLayerBuilderC" class="token"><code>MapLayerBuilder</code></a> 
 
   </div>
 
@@ -2976,10 +2953,20 @@ slug: "sdk-for-ios-explore-maps"
   This could be achieved with the help of the MapLayerPriorityBuilder and the MapLayerBuilder as in the following example:
 
   ``` highlight
-  let layerPriority = MapLayerPriorityBuilder () . renderedAfterLayer ( named : "water" ) // places main category after 'water' . withCategory ( "background" ) . renderedAfterLayer ( named : "water" ) // places 'background' category after 'water' and before the // layer's main category. . build (); let layer = MapLayerBuilder () . withDataSource ( named : "DataSourceName" , contentType : MapContentType . line ) . forMap ( map ) . withName ( "zone" ) . withPriority ( layerPriority ) . build ();
-  ```
+    let layerPriority = MapLayerPriorityBuilder()
+       .renderedAfterLayer(named: "water") // places main category after 'water'
+       .withCategory("background")
+       .renderedAfterLayer(named: "water") // places 'background' category after 'water' and before the
+                                           // layer's main category.
+       .build();
 
-  </pre>
+    let layer = MapLayerBuilder()
+       .withDataSource(named: "DataSourceName", contentType: MapContentType.line)
+       .forMap(map)
+       .withName("zone")
+       .withPriority(layerPriority)
+       .build();
+  ```
 
   In case no layer priority or an empty one is provided, or if a reference layer-category pair is not present in the rendering order, the layer is going to be rendered last with respect to the rendering order at the time of its creation.
 
@@ -3023,7 +3010,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk16MapLayerPriorityC"></span>` `<span id="//apple_ref/swift/Class/MapLayerPriority" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk16MapLayerPriorityC" class="token"><code>MapLayerPriority</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16MapLayerPriorityC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-MapLayerPriority" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk16MapLayerPriorityC" class="token"><code>MapLayerPriority</code></a> 
 
   </div>
 
@@ -3075,7 +3062,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk23MapLayerPriorityBuilderC"></span>` `<span id="//apple_ref/swift/Class/MapLayerPriorityBuilder" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk23MapLayerPriorityBuilderC" class="token"><code>MapLayerPriorityBuilder</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk23MapLayerPriorityBuilderC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-MapLayerPriorityBuilder" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk23MapLayerPriorityBuilderC" class="token"><code>MapLayerPriorityBuilder</code></a> 
 
   </div>
 
@@ -3143,10 +3130,24 @@ slug: "sdk-for-ios-explore-maps"
   Note that the order of calls matters and one can use a previously defined layer or category as a reference:
 
   ``` highlight
-  let zoneLayerPriority = MapLayerPriorityBuilder () . renderedAfterLayer ( named : "water" ) // places "zone" after "water" // in the rendering order . withCategory ( named : "background" ) . renderedAfterLayer ( named : "water" ) // places "zone:background" after "water" // in the rendering order and thus shifts // "zone" to be rendered later . withCategory ( named : "lines-outline" ) . renderedAfterLayer ( named : "road" ) // places "zone:lines-outline" after "road" // in the rendering order . withCategory ( named : "lines" ) . renderedAfterLayer ( named : "zone" , categoryName : "lines-outline" ) // places "zone:lines" after // "zone:lines-outline" in the rendering order . build (); zoneLayer . setPriority ( zoneLayerPriority ); // applies the priority to the zone layer // and its categories in one single operation.
-  ```
+    let zoneLayerPriority = MapLayerPriorityBuilder()
+        .renderedAfterLayer(named: "water")     // places "zone" after "water"
+                                                // in the rendering order
+        .withCategory(named: "background")
+        .renderedAfterLayer(named: "water")     // places "zone:background" after "water"
+                                                // in the rendering order and thus shifts
+                                                // "zone" to be rendered later
+        .withCategory(named: "lines-outline")
+        .renderedAfterLayer(named: "road")      // places "zone:lines-outline" after "road"
+                                                // in the rendering order
+        .withCategory(named: "lines")
+        .renderedAfterLayer(named: "zone", categoryName: "lines-outline") // places "zone:lines" after
+                                                                          // "zone:lines-outline" in the rendering order
+        .build();
 
-  </pre>
+    zoneLayer.setPriority(zoneLayerPriority);  // applies the priority to the zone layer
+                                              // and its categories in one single operation.
+  ```
 
   In case an empty MapLayerPriority without any ordering commands is built, it is assumed that the target layer is going to be rendered last.
 
@@ -3191,7 +3192,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk08MapLayerB29MeasureDependentStorageLevelsC"></span>` `<span id="//apple_ref/swift/Class/MapLayerMapMeasureDependentStorageLevels" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk08MapLayerB29MeasureDependentStorageLevelsC" class="token"><code>MapLayerMapMeasureDependentStorageLevels</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk08MapLayerB29MeasureDependentStorageLevelsC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-MapLayerMapMeasureDependentStorageLevels" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk08MapLayerB29MeasureDependentStorageLevelsC" class="token"><code>MapLayerMapMeasureDependentStorageLevels</code></a> 
 
   </div>
 
@@ -3245,7 +3246,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk23MapLayerVisibilityRangeV"></span>` `<span id="//apple_ref/swift/Struct/MapLayerVisibilityRange" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk23MapLayerVisibilityRangeV" class="token"><code>MapLayerVisibilityRange</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk23MapLayerVisibilityRangeV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-MapLayerVisibilityRange" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk23MapLayerVisibilityRangeV" class="token"><code>MapLayerVisibilityRange</code></a> 
 
   </div>
 
@@ -3263,7 +3264,7 @@ slug: "sdk-for-ios-explore-maps"
 
   <div class="abstract">
 
-  A layer’s visibility along a zoom level range. The range is half open - \<a href="sdk-for-ios-explore-classes-mapsceneloadoptionsbuilder">minimumZoomLevel, maximumZoomLevel), the given maximum value is not contained in the range.
+  A layer’s visibility along a zoom level range. The range is half open - \<a href="sdk-for-ios-explore-classes-mapscene#sdk-for-ios-explore-s-7heresdk8MapSceneC03addB13MarkerClusteryyAA0beF0CF">minimumZoomLevel, maximumZoomLevel), the given maximum value is not contained in the range.
 
   <a href="sdk-for-ios-explore-structs-maplayervisibilityrange" class="slightly-smaller">See more</a>
 
@@ -3291,7 +3292,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk16MapMarkerClusterC"></span>` `<span id="//apple_ref/swift/Class/MapMarkerCluster" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk16MapMarkerClusterC" class="token"><code>MapMarkerCluster</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16MapMarkerClusterC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-MapMarkerCluster" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk16MapMarkerClusterC" class="token"><code>MapMarkerCluster</code></a> 
 
   </div>
 
@@ -3313,12 +3314,7 @@ slug: "sdk-for-ios-explore-maps"
 
   The markers that are close to each other are replaced by a single cluster marker. Cluster groups are generated based on geographical distance between objects, not based on screen space collision. Hence it is possible, that cluster markers can overlap.
 
-  The markers can be added to a cluster or to a scene, but not to both. To display the cluster on the map, add it to the scene using
-
-      MapScene.addMapMarkerCluster(...)
-
-  . The display of a cluster is only guaranteed in case its origin is within the viewport. At the moment, this is a known limitation that mostly affects clusters which are visually large and cover a sizeable part of the viewport.
-  </p>
+  The markers can be added to a cluster or to a scene, but not to both. To display the cluster on the map, add it to the scene using [`MapScene.addMapMarkerCluster(...)`</a>. The display of a cluster is only guaranteed in case its origin is within the viewport. At the moment, this is a known limitation that mostly affects clusters which are visually large and cover a sizeable part of the viewport.
 
   Markers part of the cluster with opacity set to zero are still on the map and are considered for picking and clustering.
 
@@ -3356,7 +3352,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk15MapMeasureRangeV"></span>` `<span id="//apple_ref/swift/Struct/MapMeasureRange" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk15MapMeasureRangeV" class="token"><code>MapMeasureRange</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15MapMeasureRangeV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-MapMeasureRange" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk15MapMeasureRangeV" class="token"><code>MapMeasureRange</code></a> 
 
   </div>
 
@@ -3402,7 +3398,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk19MapObjectDescriptorC"></span>` `<span id="//apple_ref/swift/Class/MapObjectDescriptor" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk19MapObjectDescriptorC" class="token"><code>MapObjectDescriptor</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19MapObjectDescriptorC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-MapObjectDescriptor" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk19MapObjectDescriptorC" class="token"><code>MapObjectDescriptor</code></a> 
 
   </div>
 
@@ -3456,7 +3452,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk13MapProjectionO"></span>` `<span id="//apple_ref/swift/Enum/MapProjection" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk13MapProjectionO" class="token"><code>MapProjection</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13MapProjectionO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-MapProjection" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk13MapProjectionO" class="token"><code>MapProjection</code></a> 
 
   </div>
 
@@ -3502,7 +3498,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk14MapSceneLightsC"></span>` `<span id="//apple_ref/swift/Class/MapSceneLights" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk14MapSceneLightsC" class="token"><code>MapSceneLights</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14MapSceneLightsC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-MapSceneLights" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk14MapSceneLightsC" class="token"><code>MapSceneLights</code></a> 
 
   </div>
 
@@ -3556,7 +3552,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk19MapSceneLoadOptionsC"></span>` `<span id="//apple_ref/swift/Class/MapSceneLoadOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk19MapSceneLoadOptionsC" class="token"><code>MapSceneLoadOptions</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19MapSceneLoadOptionsC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-MapSceneLoadOptions" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk19MapSceneLoadOptionsC" class="token"><code>MapSceneLoadOptions</code></a> 
 
   </div>
 
@@ -3576,7 +3572,7 @@ slug: "sdk-for-ios-explore-maps"
 
   Represents the configuration options for loading a map scene. This class combines both the scene source (MapScheme or configuration file) and optional settings like features, watermark style and overriding map style.
 
-  It is left empty intentionally. Use [`MapSceneLoadOptionsBuilder`</a> to create instances of this class.
+  It is left empty intentionally. Use <a href="sdk-for-ios-explore-classes-mapsceneloadoptionsbuilder">`MapSceneLoadOptionsBuilder`</a> to create instances of this class.
 
   Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors. Related APIs may change for new releases without a deprecation process.
 
@@ -3612,7 +3608,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk26MapSceneLoadOptionsBuilderC"></span>` `<span id="//apple_ref/swift/Class/MapSceneLoadOptionsBuilder" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk26MapSceneLoadOptionsBuilderC" class="token"><code>MapSceneLoadOptionsBuilder</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk26MapSceneLoadOptionsBuilderC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-MapSceneLoadOptionsBuilder" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk26MapSceneLoadOptionsBuilderC" class="token"><code>MapSceneLoadOptionsBuilder</code></a> 
 
   </div>
 
@@ -3630,7 +3626,7 @@ slug: "sdk-for-ios-explore-maps"
 
   <div class="abstract">
 
-  Builder for creating <a href="sdk-for-ios-explore-maps#/s:7heresdk19MapSceneLoadOptionsC">`MapSceneLoadOptions`</a> instances. This builder ensures that either a MapScheme or a configuration file is set, but not both.
+  Builder for creating <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk19MapSceneLoadOptionsC">`MapSceneLoadOptions`</a> instances. This builder ensures that either a MapScheme or a configuration file is set, but not both.
 
   Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors. Related APIs may change for new releases without a deprecation process.
 
@@ -3668,7 +3664,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk9MapMarkerC"></span>` `<span id="//apple_ref/swift/Class/MapMarker" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk9MapMarkerC" class="token"><code>MapMarker</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9MapMarkerC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-MapMarker" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk9MapMarkerC" class="token"><code>MapMarker</code></a> 
 
   </div>
 
@@ -3690,26 +3686,15 @@ slug: "sdk-for-ios-explore-maps"
 
   The image to be displayed is represented by <a href="sdk-for-ios-explore-classes-mapimage">`MapImage`</a> object. For performance reasons, it is highly recommended to reuse a single instance of the image when creating multiple identical markers.
 
-  To display the map marker, it needs to be added to the scene using
-
-      MapScene.addMapMarker(...)
-
-  . To stop displaying it, remove it from the scene using
-      MapScene.removeMapMarker(...)
-
-  .
-  </p>
+  To display the map marker, it needs to be added to the scene using <a href="sdk-for-ios-explore-classes-mapscene#sdk-for-ios-explore-s-7heresdk8MapSceneC03addB6MarkeryyAA0bE0CF">`MapScene.addMapMarker(...)`</a>. To stop displaying it, remove it from the scene using <a href="sdk-for-ios-explore-classes-mapscene#sdk-for-ios-explore-s-7heresdk8MapSceneC06removeB6MarkeryyAA0bE0CF">`MapScene.removeMapMarker(...)`</a>.
 
   The display of a map marker is only guaranteed in case its origin is within the viewport. At the moment, this is a known limitation that mostly affects map markers which are visually large and cover a sizeable part of the viewport.
 
-  **Note:** Due to technical limitations using the MapMarkers API to add a very large number of markers (several thousands, especially 10000+) is not recommended. Adding this many markers will have a negative impact on the performance leading to stuttering of the app and lower frame rates. To work around this limitation the following approach can be used: Register to map camera updates using
+  **Note:** Due to technical limitations using the MapMarkers API to add a very large number of markers (several thousands, especially 10000+) is not recommended. Adding this many markers will have a negative impact on the performance leading to stuttering of the app and lower frame rates. To work around this limitation the following approach can be used: Register to map camera updates using <a href="sdk-for-ios-explore-classes-mapcamera#sdk-for-ios-explore-s-7heresdk9MapCameraC11addDelegateyyAA0bcE0_pF">`MapCamera.addDelegate(...)`</a>. Query the bounding box of the camera viewport using <a href="sdk-for-ios-explore-classes-mapcamera#sdk-for-ios-explore-s-7heresdk9MapCameraC11boundingBoxAA03GeoE0VSgvp">`MapCamera.boundingBox`</a> (it may be extended) and then use the method
 
-      MapCamera.addDelegate(...)
-
-  . Query the bounding box of the camera viewport using <a href="sdk-for-ios-explore-classes-mapcamera#/s:7heresdk9MapCameraC11boundingBoxAA03GeoE0VSgvp">`MapCamera.boundingBox`</a> (it may be extended) and then use the method
       GeoBox.contains(GeoCoordinates)
 
-  in combination with <a href="sdk-for-ios-explore-classes-mapcamera-state#/s:7heresdk9MapCameraC5StateV24distanceToTargetInMetersSdvp">`MapCamera.State.distanceToTargetInMeters`</a> to determine which MapMarkers are actually visible to the user in the current camera viewport and thus need to be added to the map.
+  in combination with <a href="sdk-for-ios-explore-classes-mapcamera-state#sdk-for-ios-explore-s-7heresdk9MapCameraC5StateV24distanceToTargetInMetersSdvp">`MapCamera.State.distanceToTargetInMeters`</a> to determine which MapMarkers are actually visible to the user in the current camera viewport and thus need to be added to the map.
   </p>
 
   <a href="sdk-for-ios-explore-classes-mapmarker" class="slightly-smaller">See more</a>
@@ -3746,7 +3731,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk11MapMarker3DC"></span>` `<span id="//apple_ref/swift/Class/MapMarker3D" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk11MapMarker3DC" class="token"><code>MapMarker3D</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11MapMarker3DC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-MapMarker3D" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk11MapMarker3DC" class="token"><code>MapMarker3D</code></a> 
 
   </div>
 
@@ -3768,7 +3753,7 @@ slug: "sdk-for-ios-explore-maps"
 
   It can have a solid color or be textured, depending on the data from <a href="sdk-for-ios-explore-classes-mapmarker3dmodel">`MapMarker3DModel`</a>.
 
-  By default, a 3D marker is drawn on top of all map content, including 3D map elements like extruded buildings or 3D landmarks. This can be changed by enabling depth check using <a href="sdk-for-ios-explore-classes-mapmarker3d#/s:7heresdk11MapMarker3DC19isDepthCheckEnabledSbvp">`MapMarker3D.isDepthCheckEnabled`</a>.
+  By default, a 3D marker is drawn on top of all map content, including 3D map elements like extruded buildings or 3D landmarks. This can be changed by enabling depth check using <a href="sdk-for-ios-explore-classes-mapmarker3d#sdk-for-ios-explore-s-7heresdk11MapMarker3DC19isDepthCheckEnabledSbvp">`MapMarker3D.isDepthCheckEnabled`</a>.
 
   The display of a 3D marker is only guaranteed in case its origin is within the viewport. At the moment, this is a known limitation that mostly affects a 3D marker that is visually large and covers a sizeable part of the viewport.
 
@@ -3778,21 +3763,21 @@ slug: "sdk-for-ios-explore-maps"
 
   The first, and most impactful is <a href="sdk-for-ios-explore-structs-rendersize-unit">`RenderSize.Unit`</a>, which specifies how the vertex coordinates of the 3D model are interpreted. Most importantly, it specifies whether the 3D model is placed in world or screen coordinate space.
 
-  <a href="sdk-for-ios-explore-structs-rendersize-unit#/s:7heresdk10RenderSizeV4UnitO6metersyA2EmF">`RenderSize.Unit.meters`</a> will make the 3D model use world coordinate space, meaning that it will change size together with the map when it is zoomed in and out.
+  <a href="sdk-for-ios-explore-structs-rendersize-unit#sdk-for-ios-explore-s-7heresdk10RenderSizeV4UnitO6metersyA2EmF">`RenderSize.Unit.meters`</a> will make the 3D model use world coordinate space, meaning that it will change size together with the map when it is zoomed in and out.
 
-  <a href="sdk-for-ios-explore-structs-rendersize-unit#/s:7heresdk10RenderSizeV4UnitO6pixelsyA2EmF">`RenderSize.Unit.pixels`</a> makes the 3D model use screen coordinate space, meaning that it will have constant size on the screen regardless of how the map zoom changes. So a simple 10 by 10 (in model space) rectangle will have a size of 10 by 10 pixels on the screen.
+  <a href="sdk-for-ios-explore-structs-rendersize-unit#sdk-for-ios-explore-s-7heresdk10RenderSizeV4UnitO6pixelsyA2EmF">`RenderSize.Unit.pixels`</a> makes the 3D model use screen coordinate space, meaning that it will have constant size on the screen regardless of how the map zoom changes. So a simple 10 by 10 (in model space) rectangle will have a size of 10 by 10 pixels on the screen.
 
-  <a href="sdk-for-ios-explore-structs-rendersize-unit#/s:7heresdk10RenderSizeV4UnitO24densityIndependentPixelsyA2EmF">`RenderSize.Unit.densityIndependentPixels`</a> is similar to pixels, but the resulting size will take into account the pixel density of the display, meaning that physical size on the screen will be approximately the same regardless of the size or resolution of the display.
+  <a href="sdk-for-ios-explore-structs-rendersize-unit#sdk-for-ios-explore-s-7heresdk10RenderSizeV4UnitO24densityIndependentPixelsyA2EmF">`RenderSize.Unit.densityIndependentPixels`</a> is similar to pixels, but the resulting size will take into account the pixel density of the display, meaning that physical size on the screen will be approximately the same regardless of the size or resolution of the display.
 
-  The second aspect that determines size of `MapMarker3D` is scale. It can be specified at construction time and can be changed later at any time using <a href="sdk-for-ios-explore-classes-mapmarker3d#/s:7heresdk11MapMarker3DC5scaleSdvp">`MapMarker3D.scale`</a>.
+  The second aspect that determines size of `MapMarker3D` is scale. It can be specified at construction time and can be changed later at any time using <a href="sdk-for-ios-explore-classes-mapmarker3d#sdk-for-ios-explore-s-7heresdk11MapMarker3DC5scaleSdvp">`MapMarker3D.scale`</a>.
 
   # Modifying at runtime
 
-  A 3D marker can be moved around a map by updating its coordinates using <a href="sdk-for-ios-explore-classes-mapmarker3d#/s:7heresdk11MapMarker3DC11coordinatesAA14GeoCoordinatesVvp">`MapMarker3D.coordinates`</a>.
+  A 3D marker can be moved around a map by updating its coordinates using <a href="sdk-for-ios-explore-classes-mapmarker3d#sdk-for-ios-explore-s-7heresdk11MapMarker3DC11coordinatesAA14GeoCoordinatesVvp">`MapMarker3D.coordinates`</a>.
 
   Altitude component of the coordinates, if set, controls 3D marker’s elevation above ground. If not set, the 3D marker is placed at ground level.
 
-  Its orientation is specified by bearing, pitch and roll and can be changed by using <a href="sdk-for-ios-explore-classes-mapmarker3d#/s:7heresdk11MapMarker3DC7bearingSdvp">`MapMarker3D.bearing`</a>, <a href="sdk-for-ios-explore-classes-mapmarker3d#/s:7heresdk11MapMarker3DC5pitchSdvp">`MapMarker3D.pitch`</a> and <a href="sdk-for-ios-explore-classes-mapmarker3d#/s:7heresdk11MapMarker3DC4rollSdvp">`MapMarker3D.roll`</a>.
+  Its orientation is specified by bearing, pitch and roll and can be changed by using <a href="sdk-for-ios-explore-classes-mapmarker3d#sdk-for-ios-explore-s-7heresdk11MapMarker3DC7bearingSdvp">`MapMarker3D.bearing`</a>, <a href="sdk-for-ios-explore-classes-mapmarker3d#sdk-for-ios-explore-s-7heresdk11MapMarker3DC5pitchSdvp">`MapMarker3D.pitch`</a> and <a href="sdk-for-ios-explore-classes-mapmarker3d#sdk-for-ios-explore-s-7heresdk11MapMarker3DC4rollSdvp">`MapMarker3D.roll`</a>.
 
   # Flat marker
 
@@ -3837,7 +3822,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk16MapMarker3DModelC"></span>` `<span id="//apple_ref/swift/Class/MapMarker3DModel" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk16MapMarker3DModelC" class="token"><code>MapMarker3DModel</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16MapMarker3DModelC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-MapMarker3DModel" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk16MapMarker3DModelC" class="token"><code>MapMarker3DModel</code></a> 
 
   </div>
 
@@ -3917,7 +3902,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk18MapMarkerAnimationC"></span>` `<span id="//apple_ref/swift/Class/MapMarkerAnimation" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk18MapMarkerAnimationC" class="token"><code>MapMarkerAnimation</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18MapMarkerAnimationC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-MapMarkerAnimation" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk18MapMarkerAnimationC" class="token"><code>MapMarkerAnimation</code></a> 
 
   </div>
 
@@ -3971,7 +3956,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk10MapMeasureV"></span>` `<span id="//apple_ref/swift/Struct/MapMeasure" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk10MapMeasureV" class="token"><code>MapMeasure</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10MapMeasureV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-MapMeasure" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk10MapMeasureV" class="token"><code>MapMeasure</code></a> 
 
   </div>
 
@@ -4017,7 +4002,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk29MapMeasureDependentRenderSizeV"></span>` `<span id="//apple_ref/swift/Struct/MapMeasureDependentRenderSize" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk29MapMeasureDependentRenderSizeV" class="token"><code>MapMeasureDependentRenderSize</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk29MapMeasureDependentRenderSizeV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-MapMeasureDependentRenderSize" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk29MapMeasureDependentRenderSizeV" class="token"><code>MapMeasureDependentRenderSize</code></a> 
 
   </div>
 
@@ -4063,7 +4048,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk10MapPolygonC"></span>` `<span id="//apple_ref/swift/Class/MapPolygon" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk10MapPolygonC" class="token"><code>MapPolygon</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10MapPolygonC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-MapPolygon" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk10MapPolygonC" class="token"><code>MapPolygon</code></a> 
 
   </div>
 
@@ -4130,7 +4115,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk11MapPolylineC"></span>` `<span id="//apple_ref/swift/Class/MapPolyline" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk11MapPolylineC" class="token"><code>MapPolyline</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11MapPolylineC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-MapPolyline" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk11MapPolylineC" class="token"><code>MapPolyline</code></a> 
 
   </div>
 
@@ -4188,7 +4173,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk20MapPolylineAnimationC"></span>` `<span id="//apple_ref/swift/Class/MapPolylineAnimation" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk20MapPolylineAnimationC" class="token"><code>MapPolylineAnimation</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk20MapPolylineAnimationC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-MapPolylineAnimation" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk20MapPolylineAnimationC" class="token"><code>MapPolylineAnimation</code></a> 
 
   </div>
 
@@ -4242,7 +4227,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk13MapPickResultC"></span>` `<span id="//apple_ref/swift/Class/MapPickResult" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk13MapPickResultC" class="token"><code>MapPickResult</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13MapPickResultC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-MapPickResult" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk13MapPickResultC" class="token"><code>MapPickResult</code></a> 
 
   </div>
 
@@ -4296,7 +4281,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk8MapSceneC"></span>` `<span id="//apple_ref/swift/Class/MapScene" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk8MapSceneC" class="token"><code>MapScene</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk8MapSceneC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-MapScene" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk8MapSceneC" class="token"><code>MapScene</code></a> 
 
   </div>
 
@@ -4333,43 +4318,13 @@ slug: "sdk-for-ios-explore-maps"
 
   ## Map features
 
-  Different map schemes offer different sets of features, for example showing traffic or 3D buildings. Some features have multiple modes of operation, but most have only one.
+  Different map schemes offer different sets of features, for example showing traffic or 3D buildings. Some features have multiple modes of operation, but most have only one. <a href="sdk-for-ios-explore-classes-mapscene#sdk-for-ios-explore-s-7heresdk8MapSceneC20getSupportedFeaturesSDySSSaySSGGyF">`MapScene.getSupportedFeatures(...)`</a> can be used to check what features and modes are supported for the current scene. Features can be enabled using <a href="sdk-for-ios-explore-classes-mapscene#sdk-for-ios-explore-s-7heresdk8MapSceneC14enableFeaturesyySDyS2SGF">`MapScene.enableFeatures(...)`</a> and disabled with <a href="sdk-for-ios-explore-classes-mapscene#sdk-for-ios-explore-s-7heresdk8MapSceneC15disableFeaturesyySaySSGF">`MapScene.disableFeatures(...)`</a>. Checking which features are currently enabled can be done using <a href="sdk-for-ios-explore-classes-mapscene#sdk-for-ios-explore-s-7heresdk8MapSceneC17getActiveFeaturesSDyS2SGyF">`MapScene.getActiveFeatures(...)`</a>. For convenience, <a href="sdk-for-ios-explore-structs-mapfeatures">`MapFeatures`</a> and <a href="sdk-for-ios-explore-structs-mapfeaturemodes">`MapFeatureModes`</a> hold constants for feature and mode names.
 
-      MapScene.getSupportedFeatures(...)
-
-  can be used to check what features and modes are supported for the current scene. Features can be enabled using
-      MapScene.enableFeatures(...)
-
-  and disabled with
-      MapScene.disableFeatures(...)
-
-  . Checking which features are currently enabled can be done using
-      MapScene.getActiveFeatures(...)
-
-  . For convenience, <a href="sdk-for-ios-explore-structs-mapfeatures">`MapFeatures`</a> and <a href="sdk-for-ios-explore-structs-mapfeaturemodes">`MapFeatureModes`</a> hold constants for feature and mode names.
-  </p>
-
-  Since version 4.15.0, map features cannot be controlled using
-
-      MapScene.setLayerVisibility(...)
-
-  , since
-      MapScene.setLayerVisibility(...)
-
-  controls only visibility of the layers which are corresponding to the features enabled either by
-      MapScene.enableFeatures(...)
-
-  or enabled by default for the scene.
-  </p>
+  Since version 4.15.0, map features cannot be controlled using <a href="sdk-for-ios-explore-classes-mapscene#sdk-for-ios-explore-s-7heresdk8MapSceneC18setLayerVisibility9layerName10visibilityySS_AA0F5StateOtF">`MapScene.setLayerVisibility(...)`</a>, since <a href="sdk-for-ios-explore-classes-mapscene#sdk-for-ios-explore-s-7heresdk8MapSceneC18setLayerVisibility9layerName10visibilityySS_AA0F5StateOtF">`MapScene.setLayerVisibility(...)`</a> controls only visibility of the layers which are corresponding to the features enabled either by <a href="sdk-for-ios-explore-classes-mapscene#sdk-for-ios-explore-s-7heresdk8MapSceneC14enableFeaturesyySDyS2SGF">`MapScene.enableFeatures(...)`</a> or enabled by default for the scene.
 
   ## Map layers
 
-  A map scheme is organized in layers, which can be controlled using
-
-      MapScene.setLayerVisibility(...)
-
-  . It’s possible to change the visibility state of any map layer as long as the name is known.
-  </p>
+  A map scheme is organized in layers, which can be controlled using <a href="sdk-for-ios-explore-classes-mapscene#sdk-for-ios-explore-s-7heresdk8MapSceneC18setLayerVisibility9layerName10visibilityySS_AA0F5StateOtF">`MapScene.setLayerVisibility(...)`</a>. It’s possible to change the visibility state of any map layer as long as the name is known.
 
   Layer visibility settings persist between scene reloading.
 
@@ -4377,14 +4332,11 @@ slug: "sdk-for-ios-explore-maps"
 
   User generated content can be visualised on the map using <a href="sdk-for-ios-explore-classes-mappolyline">`MapPolyline`</a>, <a href="sdk-for-ios-explore-classes-mappolygon">`MapPolygon`</a>, <a href="sdk-for-ios-explore-classes-mapmarker">`MapMarker`</a>, <a href="sdk-for-ios-explore-classes-mapmarkercluster">`MapMarkerCluster`</a>, <a href="sdk-for-ios-explore-classes-maparrow">`MapArrow`</a>, <a href="sdk-for-ios-explore-classes-mapmarker3d">`MapMarker3D`</a> and <a href="sdk-for-ios-explore-classes-mapimageoverlay">`MapImageOverlay`</a> (collectively referred to as “map items”). Those can be added to and removed from the scene by respective add and remove methods. The render order of the map items is according to the list above. The order of objects within the same type can be controlled using the `drawOrder` property of each object.
 
-  Be careful when adding a very large number of map items as this can have a negative impact on the performance of the app. To work around this limitation the following approach can be used: Register to map camera updates using
+  Be careful when adding a very large number of map items as this can have a negative impact on the performance of the app. To work around this limitation the following approach can be used: Register to map camera updates using <a href="sdk-for-ios-explore-classes-mapcamera#sdk-for-ios-explore-s-7heresdk9MapCameraC11addDelegateyyAA0bcE0_pF">`MapCamera.addDelegate(...)`</a>. Query the bounding box of the camera viewport using <a href="sdk-for-ios-explore-classes-mapcamera#sdk-for-ios-explore-s-7heresdk9MapCameraC11boundingBoxAA03GeoE0VSgvp">`MapCamera.boundingBox`</a> (it may be extended) and then use the method
 
-      MapCamera.addDelegate(...)
-
-  . Query the bounding box of the camera viewport using <a href="sdk-for-ios-explore-classes-mapcamera#/s:7heresdk9MapCameraC11boundingBoxAA03GeoE0VSgvp">`MapCamera.boundingBox`</a> (it may be extended) and then use the method
       GeoBox.contains(GeoCoordinates)
 
-  in combination with <a href="sdk-for-ios-explore-classes-mapcamera-state#/s:7heresdk9MapCameraC5StateV24distanceToTargetInMetersSdvp">`MapCamera.State.distanceToTargetInMeters`</a> to determine which map items are actually visible to the user in the current camera viewport and thus need to be added to the map.
+  in combination with <a href="sdk-for-ios-explore-classes-mapcamera-state#sdk-for-ios-explore-s-7heresdk9MapCameraC5StateV24distanceToTargetInMetersSdvp">`MapCamera.State.distanceToTargetInMeters`</a> to determine which map items are actually visible to the user in the current camera viewport and thus need to be added to the map.
   </p>
 
   <a href="sdk-for-ios-explore-classes-mapscene" class="slightly-smaller">See more</a>
@@ -4421,7 +4373,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk9MapSchemeO"></span>` `<span id="//apple_ref/swift/Enum/MapScheme" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk9MapSchemeO" class="token"><code>MapScheme</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9MapSchemeO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-MapScheme" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk9MapSchemeO" class="token"><code>MapScheme</code></a> 
 
   </div>
 
@@ -4467,7 +4419,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk11MapViewBaseP"></span>` `<span id="//apple_ref/swift/Protocol/MapViewBase" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk11MapViewBaseP" class="token"><code>MapViewBase</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11MapViewBaseP"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Protocol-MapViewBase" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk11MapViewBaseP" class="token"><code>MapViewBase</code></a> 
 
   </div>
 
@@ -4513,7 +4465,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/c:@M@heresdk@objc(cs)HereMapView"></span>` `<span id="//apple_ref/swift/Class/MapView" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/c:@M@heresdk@objc(cs)HereMapView" class="token"><code>MapView</code></a>` `
+   <span id="sdk-for-ios-explore-c-M-heresdk-objc-csHereMapView"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-MapView" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-c-M-heresdk-objc-csHereMapView" class="token"><code>MapView</code></a> 
 
   </div>
 
@@ -4546,12 +4498,17 @@ slug: "sdk-for-ios-explore-maps"
   Swift
 
   ``` highlight
-  @IBDesignable @objc(HereMapView) @MainActor open class MapView : UIView , MapViewBase
+  @IBDesignable
+  @objc(HereMapView)
+  @MainActor
+  open class MapView : UIView, MapViewBase
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-protocols-mapviewbase">MapViewBase</a>
 
   </div>
 
@@ -4561,7 +4518,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk24MapViewLifecycleDelegateP"></span>` `<span id="//apple_ref/swift/Protocol/MapViewLifecycleDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk24MapViewLifecycleDelegateP" class="token"><code>MapViewLifecycleDelegate</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk24MapViewLifecycleDelegateP"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Protocol-MapViewLifecycleDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk24MapViewLifecycleDelegateP" class="token"><code>MapViewLifecycleDelegate</code></a> 
 
   </div>
 
@@ -4613,7 +4570,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk14MapViewOptionsV"></span>` `<span id="//apple_ref/swift/Struct/MapViewOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk14MapViewOptionsV" class="token"><code>MapViewOptions</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14MapViewOptionsV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-MapViewOptions" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk14MapViewOptionsV" class="token"><code>MapViewOptions</code></a> 
 
   </div>
 
@@ -4659,7 +4616,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk20MaterialReflectivityV"></span>` `<span id="//apple_ref/swift/Struct/MaterialReflectivity" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk20MaterialReflectivityV" class="token"><code>MaterialReflectivity</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk20MaterialReflectivityV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-MaterialReflectivity" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk20MaterialReflectivityV" class="token"><code>MaterialReflectivity</code></a> 
 
   </div>
 
@@ -4681,7 +4638,7 @@ slug: "sdk-for-ios-explore-maps"
 
   ## Lighting OFF vs ON
 
-  By default (when no MaterialReflectivity is assigned) objects are rendered “unlit” (emissive): their texture / color appears at a constant brightness, unaffected by scene lights. Assigning a `MaterialReflectivity` instance to an object that supports it (e.g. <a href="sdk-for-ios-explore-classes-locationindicator#/s:7heresdk17LocationIndicatorC20materialReflectivityAA08MaterialE0VSgvp">`LocationIndicator.materialReflectivity`</a>) automatically enables lighting for this object and all its internal components. Clearing (setting the property to `nil`) disables lighting again and restores the unlit appearance.
+  By default (when no MaterialReflectivity is assigned) objects are rendered “unlit” (emissive): their texture / color appears at a constant brightness, unaffected by scene lights. Assigning a `MaterialReflectivity` instance to an object that supports it (e.g. <a href="sdk-for-ios-explore-classes-locationindicator#sdk-for-ios-explore-s-7heresdk17LocationIndicatorC20materialReflectivityAA08MaterialE0VSgvp">`LocationIndicator.materialReflectivity`</a>) automatically enables lighting for this object and all its internal components. Clearing (setting the property to `nil`) disables lighting again and restores the unlit appearance.
 
   ## Factors
 
@@ -4718,7 +4675,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk4MeshC"></span>` `<span id="//apple_ref/swift/Class/Mesh" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk4MeshC" class="token"><code>Mesh</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk4MeshC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-Mesh" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk4MeshC" class="token"><code>Mesh</code></a> 
 
   </div>
 
@@ -4772,7 +4729,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk11MeshBuilderC"></span>` `<span id="//apple_ref/swift/Class/MeshBuilder" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk11MeshBuilderC" class="token"><code>MeshBuilder</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11MeshBuilderC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-MeshBuilder" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk11MeshBuilderC" class="token"><code>MeshBuilder</code></a> 
 
   </div>
 
@@ -4797,10 +4754,33 @@ slug: "sdk-for-ios-explore-maps"
   **Example how to build a cube using <a href="sdk-for-ios-explore-classes-quadmeshbuilder">`QuadMeshBuilder`</a>**
 
   ``` highlight
-  let cube = MeshBuilder () . quad ( a : Point3D ( x : 0.5 , y : 0.5 , z : 0.5 ), b : Point3D ( x : - 0.5 , y : 0.5 , z : 0.5 ), c : Point3D ( x : 0.5 , y : - 0.5 , z : 0.5 ), d : Point3D ( x : - 0.5 , y : - 0.5 , z : 0.5 )) . quad ( a : Point3D ( x : - 0.5 , y : 0.5 , z : - 0.5 ), b : Point3D ( x : 0.5 , y : 0.5 , z : - 0.5 ), c : Point3D ( x : - 0.5 , y : - 0.5 , z : - 0.5 ), d : Point3D ( x : 0.5 , y : - 0.5 , z : - 0.5 )) . quad ( a : Point3D ( x : 0.5 , y : 0.5 , z : - 0.5 ), b : Point3D ( x : 0.5 , y : 0.5 , z : 0.5 ), c : Point3D ( x : 0.5 , y : - 0.5 , z : - 0.5 ), d : Point3D ( x : 0.5 , y : - 0.5 , z : 0.5 )) . quad ( a : Point3D ( x : - 0.5 , y : 0.5 , z : 0.5 ), b : Point3D ( x : - 0.5 , y : 0.5 , z : - 0.5 ), c : Point3D ( x : - 0.5 , y : - 0.5 , z : 0.5 ), d : Point3D ( x : - 0.5 , y : - 0.5 , z : - 0.5 )) . quad ( a : Point3D ( x : - 0.5 , y : 0.5 , z : 0.5 ), b : Point3D ( x : 0.5 , y : 0.5 , z : 0.5 ), c : Point3D ( x : - 0.5 , y : 0.5 , z : - 0.5 ), d : Point3D ( x : 0.5 , y : 0.5 , z : - 0.5 )) . quad ( a : Point3D ( x : 0.5 , y : - 0.5 , z : 0.5 ), b : Point3D ( x : - 0.5 , y : - 0.5 , z : 0.5 ), c : Point3D ( x : 0.5 , y : - 0.5 , z : - 0.5 ), d : Point3D ( x : - 0.5 , y : - 0.5 , z : - 0.5 )) . build ()
+  let cube = MeshBuilder()
+      .quad(a: Point3D(x: 0.5, y: 0.5, z: 0.5),
+            b: Point3D(x: -0.5, y: 0.5, z: 0.5),
+            c: Point3D(x: 0.5, y: -0.5, z: 0.5),
+            d: Point3D(x: -0.5, y: -0.5, z: 0.5))
+      .quad(a: Point3D(x: -0.5, y: 0.5, z: -0.5),
+            b: Point3D(x: 0.5, y: 0.5, z: -0.5),
+            c: Point3D(x: -0.5, y: -0.5, z: -0.5),
+            d: Point3D(x: 0.5, y: -0.5, z: -0.5))
+      .quad(a: Point3D(x: 0.5, y: 0.5, z: -0.5),
+            b: Point3D(x: 0.5, y: 0.5, z: 0.5),
+            c: Point3D(x: 0.5, y: -0.5, z: -0.5),
+            d: Point3D(x: 0.5, y: -0.5, z: 0.5))
+      .quad(a: Point3D(x: -0.5, y: 0.5, z: 0.5),
+            b: Point3D(x: -0.5, y: 0.5, z: -0.5),
+            c: Point3D(x: -0.5, y: -0.5, z: 0.5),
+            d: Point3D(x: -0.5, y: -0.5, z: -0.5))
+      .quad(a: Point3D(x: -0.5, y: 0.5, z: 0.5),
+            b: Point3D(x: 0.5, y: 0.5, z: 0.5),
+            c: Point3D(x: -0.5, y: 0.5, z: -0.5),
+            d: Point3D(x: 0.5, y: 0.5, z: -0.5))
+      .quad(a: Point3D(x: 0.5, y: -0.5, z: 0.5),
+            b: Point3D(x: -0.5, y: -0.5, z: 0.5),
+            c: Point3D(x: 0.5, y: -0.5, z: -0.5),
+            d: Point3D(x: -0.5, y: -0.5, z: -0.5))
+      .build()
   ```
-
-  </pre>
 
   <a href="sdk-for-ios-explore-classes-meshbuilder" class="slightly-smaller">See more</a>
 
@@ -4836,7 +4816,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk11PanDelegateP"></span>` `<span id="//apple_ref/swift/Protocol/PanDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk11PanDelegateP" class="token"><code>PanDelegate</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11PanDelegateP"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Protocol-PanDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk11PanDelegateP" class="token"><code>PanDelegate</code></a> 
 
   </div>
 
@@ -4882,7 +4862,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk20PickMapContentResultC"></span>` `<span id="//apple_ref/swift/Class/PickMapContentResult" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk20PickMapContentResultC" class="token"><code>PickMapContentResult</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk20PickMapContentResultC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-PickMapContentResult" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk20PickMapContentResultC" class="token"><code>PickMapContentResult</code></a> 
 
   </div>
 
@@ -4936,7 +4916,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk18PickMapItemsResultC"></span>` `<span id="//apple_ref/swift/Class/PickMapItemsResult" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk18PickMapItemsResultC" class="token"><code>PickMapItemsResult</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18PickMapItemsResultC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-PickMapItemsResult" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk18PickMapItemsResultC" class="token"><code>PickMapItemsResult</code></a> 
 
   </div>
 
@@ -4990,7 +4970,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk19PinchRotateDelegateP"></span>` `<span id="//apple_ref/swift/Protocol/PinchRotateDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk19PinchRotateDelegateP" class="token"><code>PinchRotateDelegate</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19PinchRotateDelegateP"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Protocol-PinchRotateDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk19PinchRotateDelegateP" class="token"><code>PinchRotateDelegate</code></a> 
 
   </div>
 
@@ -5036,7 +5016,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk9PointDataC"></span>` `<span id="//apple_ref/swift/Class/PointData" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk9PointDataC" class="token"><code>PointData</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9PointDataC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-PointData" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk9PointDataC" class="token"><code>PointData</code></a> 
 
   </div>
 
@@ -5090,7 +5070,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk17PointDataAccessorC"></span>` `<span id="//apple_ref/swift/Class/PointDataAccessor" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk17PointDataAccessorC" class="token"><code>PointDataAccessor</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17PointDataAccessorC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-PointDataAccessor" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk17PointDataAccessorC" class="token"><code>PointDataAccessor</code></a> 
 
   </div>
 
@@ -5146,7 +5126,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk16PointDataBuilderC"></span>` `<span id="//apple_ref/swift/Class/PointDataBuilder" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk16PointDataBuilderC" class="token"><code>PointDataBuilder</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16PointDataBuilderC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-PointDataBuilder" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk16PointDataBuilderC" class="token"><code>PointDataBuilder</code></a> 
 
   </div>
 
@@ -5164,7 +5144,7 @@ slug: "sdk-for-ios-explore-maps"
 
   <div class="abstract">
 
-  Builder of <a href="sdk-for-ios-explore-maps#/s:7heresdk9PointDataC">`PointData`</a> instances.
+  Builder of <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk9PointDataC">`PointData`</a> instances.
 
   Note: This is a beta release of this feature, so there could be a few bugs and unexpected behavior. Related APIs may change for new releases without a deprecation process.
 
@@ -5202,7 +5182,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk15PointDataSourceC"></span>` `<span id="//apple_ref/swift/Class/PointDataSource" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk15PointDataSourceC" class="token"><code>PointDataSource</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15PointDataSourceC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-PointDataSource" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk15PointDataSourceC" class="token"><code>PointDataSource</code></a> 
 
   </div>
 
@@ -5258,7 +5238,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk22PointDataSourceBuilderC"></span>` `<span id="//apple_ref/swift/Class/PointDataSourceBuilder" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk22PointDataSourceBuilderC" class="token"><code>PointDataSourceBuilder</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk22PointDataSourceBuilderC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-PointDataSourceBuilder" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk22PointDataSourceBuilderC" class="token"><code>PointDataSourceBuilder</code></a> 
 
   </div>
 
@@ -5314,7 +5294,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk19PointTileDataSourceC"></span>` `<span id="//apple_ref/swift/Class/PointTileDataSource" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk19PointTileDataSourceC" class="token"><code>PointTileDataSource</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19PointTileDataSourceC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-PointTileDataSource" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk19PointTileDataSourceC" class="token"><code>PointTileDataSource</code></a> 
 
   </div>
 
@@ -5370,7 +5350,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk15PointTileSourceP"></span>` `<span id="//apple_ref/swift/Protocol/PointTileSource" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk15PointTileSourceP" class="token"><code>PointTileSource</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15PointTileSourceP"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Protocol-PointTileSource" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk15PointTileSourceP" class="token"><code>PointTileSource</code></a> 
 
   </div>
 
@@ -5410,6 +5390,10 @@ slug: "sdk-for-ios-explore-maps"
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-protocols-tilesource">TileSource</a>
+
   </div>
 
   </div>
@@ -5418,7 +5402,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk32PointTileSourceLoadResultHandlerP"></span>` `<span id="//apple_ref/swift/Protocol/PointTileSourceLoadResultHandler" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk32PointTileSourceLoadResultHandlerP" class="token"><code>PointTileSourceLoadResultHandler</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk32PointTileSourceLoadResultHandlerP"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Protocol-PointTileSourceLoadResultHandler" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk32PointTileSourceLoadResultHandlerP" class="token"><code>PointTileSourceLoadResultHandler</code></a> 
 
   </div>
 
@@ -5464,7 +5448,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk15Point2DKeyframeV"></span>` `<span id="//apple_ref/swift/Struct/Point2DKeyframe" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk15Point2DKeyframeV" class="token"><code>Point2DKeyframe</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15Point2DKeyframeV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-Point2DKeyframe" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk15Point2DKeyframeV" class="token"><code>Point2DKeyframe</code></a> 
 
   </div>
 
@@ -5510,7 +5494,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk11PolygonDataC"></span>` `<span id="//apple_ref/swift/Class/PolygonData" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk11PolygonDataC" class="token"><code>PolygonData</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11PolygonDataC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-PolygonData" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk11PolygonDataC" class="token"><code>PolygonData</code></a> 
 
   </div>
 
@@ -5564,7 +5548,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk19PolygonDataAccessorC"></span>` `<span id="//apple_ref/swift/Class/PolygonDataAccessor" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk19PolygonDataAccessorC" class="token"><code>PolygonDataAccessor</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19PolygonDataAccessorC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-PolygonDataAccessor" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk19PolygonDataAccessorC" class="token"><code>PolygonDataAccessor</code></a> 
 
   </div>
 
@@ -5620,7 +5604,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk18PolygonDataBuilderC"></span>` `<span id="//apple_ref/swift/Class/PolygonDataBuilder" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk18PolygonDataBuilderC" class="token"><code>PolygonDataBuilder</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18PolygonDataBuilderC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-PolygonDataBuilder" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk18PolygonDataBuilderC" class="token"><code>PolygonDataBuilder</code></a> 
 
   </div>
 
@@ -5638,9 +5622,9 @@ slug: "sdk-for-ios-explore-maps"
 
   <div class="abstract">
 
-  Builder of <a href="sdk-for-ios-explore-maps#/s:7heresdk11PolygonDataC">`PolygonData`</a> instances.
+  Builder of <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk11PolygonDataC">`PolygonData`</a> instances.
 
-  The builder can create <a href="sdk-for-ios-explore-maps#/s:7heresdk11PolygonDataC">`PolygonData`</a> instances for polygons with an outer boundary and optionally one or more inner boundaries (holes).
+  The builder can create <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk11PolygonDataC">`PolygonData`</a> instances for polygons with an outer boundary and optionally one or more inner boundaries (holes).
 
   Note: This is a beta release of this feature, so there could be a few bugs and unexpected behavior. Related APIs may change for new releases without a deprecation process.
 
@@ -5678,7 +5662,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk17PolygonDataSourceC"></span>` `<span id="//apple_ref/swift/Class/PolygonDataSource" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk17PolygonDataSourceC" class="token"><code>PolygonDataSource</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17PolygonDataSourceC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-PolygonDataSource" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk17PolygonDataSourceC" class="token"><code>PolygonDataSource</code></a> 
 
   </div>
 
@@ -5736,7 +5720,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk24PolygonDataSourceBuilderC"></span>` `<span id="//apple_ref/swift/Class/PolygonDataSourceBuilder" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk24PolygonDataSourceBuilderC" class="token"><code>PolygonDataSourceBuilder</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk24PolygonDataSourceBuilderC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-PolygonDataSourceBuilder" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk24PolygonDataSourceBuilderC" class="token"><code>PolygonDataSourceBuilder</code></a> 
 
   </div>
 
@@ -5792,7 +5776,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk21PolygonTileDataSourceC"></span>` `<span id="//apple_ref/swift/Class/PolygonTileDataSource" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk21PolygonTileDataSourceC" class="token"><code>PolygonTileDataSource</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk21PolygonTileDataSourceC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-PolygonTileDataSource" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk21PolygonTileDataSourceC" class="token"><code>PolygonTileDataSource</code></a> 
 
   </div>
 
@@ -5848,7 +5832,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk17PolygonTileSourceP"></span>` `<span id="//apple_ref/swift/Protocol/PolygonTileSource" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk17PolygonTileSourceP" class="token"><code>PolygonTileSource</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17PolygonTileSourceP"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Protocol-PolygonTileSource" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk17PolygonTileSourceP" class="token"><code>PolygonTileSource</code></a> 
 
   </div>
 
@@ -5888,6 +5872,10 @@ slug: "sdk-for-ios-explore-maps"
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-protocols-tilesource">TileSource</a>
+
   </div>
 
   </div>
@@ -5896,7 +5884,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk34PolygonTileSourceLoadResultHandlerP"></span>` `<span id="//apple_ref/swift/Protocol/PolygonTileSourceLoadResultHandler" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk34PolygonTileSourceLoadResultHandlerP" class="token"><code>PolygonTileSourceLoadResultHandler</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk34PolygonTileSourceLoadResultHandlerP"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Protocol-PolygonTileSourceLoadResultHandler" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk34PolygonTileSourceLoadResultHandlerP" class="token"><code>PolygonTileSourceLoadResultHandler</code></a> 
 
   </div>
 
@@ -5942,7 +5930,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk15QuadMeshBuilderC"></span>` `<span id="//apple_ref/swift/Class/QuadMeshBuilder" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk15QuadMeshBuilderC" class="token"><code>QuadMeshBuilder</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15QuadMeshBuilderC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-QuadMeshBuilder" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk15QuadMeshBuilderC" class="token"><code>QuadMeshBuilder</code></a> 
 
   </div>
 
@@ -5980,6 +5968,10 @@ slug: "sdk-for-ios-explore-maps"
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-meshbuilder">MeshBuilder</a>
+
   </div>
 
   </div>
@@ -5988,7 +5980,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk16RasterDataSourceC"></span>` `<span id="//apple_ref/swift/Class/RasterDataSource" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk16RasterDataSourceC" class="token"><code>RasterDataSource</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16RasterDataSourceC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-RasterDataSource" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk16RasterDataSourceC" class="token"><code>RasterDataSource</code></a> 
 
   </div>
 
@@ -6009,10 +6001,16 @@ slug: "sdk-for-ios-explore-maps"
   Data source to load map layers using a raster image format (jpg, png). The example below illustrates how to create a raster data source and how to link it to a newly created map layer.
 
   ``` highlight
-  let rasterDataSource = RasterDataSource ( mapContext , rasterDataSourceConfig ) let layer = MapLayerBuilder () // The name and the type of the data source have to be provided. // In our case, the name of the raster data source is in rasterDataSourceConfig. . withDataSource ( named : rasterDataSourceConfig . name , contentType : MapContentType . rasterImage ) . forMap ( map ) . withName ( "rasterLayer" ) . build ();
-  ```
+    let rasterDataSource = RasterDataSource(mapContext, rasterDataSourceConfig)
 
-  </pre>
+    let layer = MapLayerBuilder()
+       // The name and the type of the data source have to be provided.
+       // In our case, the name of the raster data source is in rasterDataSourceConfig.
+       .withDataSource(named: rasterDataSourceConfig.name, contentType: MapContentType.rasterImage)
+       .forMap(map)
+       .withName("rasterLayer")
+       .build();
+  ```
 
   <a href="sdk-for-ios-explore-classes-rasterdatasource" class="slightly-smaller">See more</a>
 
@@ -6048,7 +6046,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk29RasterDataSourceConfigurationV"></span>` `<span id="//apple_ref/swift/Struct/RasterDataSourceConfiguration" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk29RasterDataSourceConfigurationV" class="token"><code>RasterDataSourceConfiguration</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk29RasterDataSourceConfigurationV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-RasterDataSourceConfiguration" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk29RasterDataSourceConfigurationV" class="token"><code>RasterDataSourceConfiguration</code></a> 
 
   </div>
 
@@ -6099,7 +6097,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk35RasterDataSourceConfigurationUpdateV"></span>` `<span id="//apple_ref/swift/Struct/RasterDataSourceConfigurationUpdate" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk35RasterDataSourceConfigurationUpdateV" class="token"><code>RasterDataSourceConfigurationUpdate</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk35RasterDataSourceConfigurationUpdateV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-RasterDataSourceConfigurationUpdate" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk35RasterDataSourceConfigurationUpdateV" class="token"><code>RasterDataSourceConfigurationUpdate</code></a> 
 
   </div>
 
@@ -6145,7 +6143,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk24RasterDataSourceDelegateP"></span>` `<span id="//apple_ref/swift/Protocol/RasterDataSourceDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk24RasterDataSourceDelegateP" class="token"><code>RasterDataSourceDelegate</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk24RasterDataSourceDelegateP"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Protocol-RasterDataSourceDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk24RasterDataSourceDelegateP" class="token"><code>RasterDataSourceDelegate</code></a> 
 
   </div>
 
@@ -6191,7 +6189,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk21RasterDataSourceErrorO"></span>` `<span id="//apple_ref/swift/Enum/RasterDataSourceError" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk21RasterDataSourceErrorO" class="token"><code>RasterDataSourceError</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk21RasterDataSourceErrorO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-RasterDataSourceError" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk21RasterDataSourceErrorO" class="token"><code>RasterDataSourceError</code></a> 
 
   </div>
 
@@ -6237,7 +6235,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk16RasterTileSourceP"></span>` `<span id="//apple_ref/swift/Protocol/RasterTileSource" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk16RasterTileSourceP" class="token"><code>RasterTileSource</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16RasterTileSourceP"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Protocol-RasterTileSource" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk16RasterTileSourceP" class="token"><code>RasterTileSource</code></a> 
 
   </div>
 
@@ -6275,6 +6273,10 @@ slug: "sdk-for-ios-explore-maps"
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-protocols-tilesource">TileSource</a>
+
   </div>
 
   </div>
@@ -6283,7 +6285,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk33RasterTileSourceLoadResultHandlerP"></span>` `<span id="//apple_ref/swift/Protocol/RasterTileSourceLoadResultHandler" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk33RasterTileSourceLoadResultHandlerP" class="token"><code>RasterTileSourceLoadResultHandler</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk33RasterTileSourceLoadResultHandlerP"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Protocol-RasterTileSourceLoadResultHandler" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk33RasterTileSourceLoadResultHandlerP" class="token"><code>RasterTileSourceLoadResultHandler</code></a> 
 
   </div>
 
@@ -6329,7 +6331,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk24RoadShieldIconPropertiesV"></span>` `<span id="//apple_ref/swift/Struct/RoadShieldIconProperties" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk24RoadShieldIconPropertiesV" class="token"><code>RoadShieldIconProperties</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk24RoadShieldIconPropertiesV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-RoadShieldIconProperties" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk24RoadShieldIconPropertiesV" class="token"><code>RoadShieldIconProperties</code></a> 
 
   </div>
 
@@ -6375,7 +6377,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk10RenderSizeV"></span>` `<span id="//apple_ref/swift/Struct/RenderSize" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk10RenderSizeV" class="token"><code>RenderSize</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10RenderSizeV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-RenderSize" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk10RenderSizeV" class="token"><code>RenderSize</code></a> 
 
   </div>
 
@@ -6421,7 +6423,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk14ScalarKeyframeV"></span>` `<span id="//apple_ref/swift/Struct/ScalarKeyframe" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk14ScalarKeyframeV" class="token"><code>ScalarKeyframe</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14ScalarKeyframeV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-ScalarKeyframe" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk14ScalarKeyframeV" class="token"><code>ScalarKeyframe</code></a> 
 
   </div>
 
@@ -6467,7 +6469,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/c:@M@heresdk@objc(cs)SDKMapViewInitializer"></span>` `<span id="//apple_ref/swift/Class/SDKMapViewInitializer" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/c:@M@heresdk@objc(cs)SDKMapViewInitializer" class="token"><code>SDKMapViewInitializer</code></a>` `
+   <span id="sdk-for-ios-explore-c-M-heresdk-objc-csSDKMapViewInitializer"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-SDKMapViewInitializer" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-c-M-heresdk-objc-csSDKMapViewInitializer" class="token"><code>SDKMapViewInitializer</code></a> 
 
   </div>
 
@@ -6513,7 +6515,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk13ShadowQualityO"></span>` `<span id="//apple_ref/swift/Enum/ShadowQuality" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk13ShadowQualityO" class="token"><code>ShadowQuality</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13ShadowQualityO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-ShadowQuality" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk13ShadowQualityO" class="token"><code>ShadowQuality</code></a> 
 
   </div>
 
@@ -6559,7 +6561,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk5StyleC"></span>` `<span id="//apple_ref/swift/Class/Style" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk5StyleC" class="token"><code>Style</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk5StyleC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-Style" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk5StyleC" class="token"><code>Style</code></a> 
 
   </div>
 
@@ -6615,7 +6617,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk11TapDelegateP"></span>` `<span id="//apple_ref/swift/Protocol/TapDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk11TapDelegateP" class="token"><code>TapDelegate</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11TapDelegateP"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Protocol-TapDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk11TapDelegateP" class="token"><code>TapDelegate</code></a> 
 
   </div>
 
@@ -6661,7 +6663,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk23TileGeoBoundsCalculatorC"></span>` `<span id="//apple_ref/swift/Class/TileGeoBoundsCalculator" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk23TileGeoBoundsCalculatorC" class="token"><code>TileGeoBoundsCalculator</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk23TileGeoBoundsCalculatorC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-TileGeoBoundsCalculator" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk23TileGeoBoundsCalculatorC" class="token"><code>TileGeoBoundsCalculator</code></a> 
 
   </div>
 
@@ -6717,7 +6719,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk10TileSourceP"></span>` `<span id="//apple_ref/swift/Protocol/TileSource" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk10TileSourceP" class="token"><code>TileSource</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10TileSourceP"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Protocol-TileSource" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk10TileSourceP" class="token"><code>TileSource</code></a> 
 
   </div>
 
@@ -6765,7 +6767,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk21TileSourceDataVersionV"></span>` `<span id="//apple_ref/swift/Struct/TileSourceDataVersion" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk21TileSourceDataVersionV" class="token"><code>TileSourceDataVersion</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk21TileSourceDataVersionV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-TileSourceDataVersion" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk21TileSourceDataVersionV" class="token"><code>TileSourceDataVersion</code></a> 
 
   </div>
 
@@ -6811,7 +6813,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk18TileSourceDelegateP"></span>` `<span id="//apple_ref/swift/Protocol/TileSourceDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk18TileSourceDelegateP" class="token"><code>TileSourceDelegate</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18TileSourceDelegateP"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Protocol-TileSourceDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk18TileSourceDelegateP" class="token"><code>TileSourceDelegate</code></a> 
 
   </div>
 
@@ -6857,7 +6859,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk014TileSourceLoadB13RequestHandleP"></span>` `<span id="//apple_ref/swift/Protocol/TileSourceLoadTileRequestHandle" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk014TileSourceLoadB13RequestHandleP" class="token"><code>TileSourceLoadTileRequestHandle</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk014TileSourceLoadB13RequestHandleP"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Protocol-TileSourceLoadTileRequestHandle" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk014TileSourceLoadB13RequestHandleP" class="token"><code>TileSourceLoadTileRequestHandle</code></a> 
 
   </div>
 
@@ -6903,7 +6905,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk010TileSourceB8MetadataV"></span>` `<span id="//apple_ref/swift/Struct/TileSourceTileMetadata" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk010TileSourceB8MetadataV" class="token"><code>TileSourceTileMetadata</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk010TileSourceB8MetadataV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-TileSourceTileMetadata" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk010TileSourceB8MetadataV" class="token"><code>TileSourceTileMetadata</code></a> 
 
   </div>
 
@@ -6949,7 +6951,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk7TileKeyV"></span>` `<span id="//apple_ref/swift/Struct/TileKey" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk7TileKeyV" class="token"><code>TileKey</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk7TileKeyV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-TileKey" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk7TileKeyV" class="token"><code>TileKey</code></a> 
 
   </div>
 
@@ -6995,7 +6997,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk22TileUrlProviderFactoryC"></span>` `<span id="//apple_ref/swift/Class/TileUrlProviderFactory" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk22TileUrlProviderFactoryC" class="token"><code>TileUrlProviderFactory</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk22TileUrlProviderFactoryC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-TileUrlProviderFactory" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk22TileUrlProviderFactoryC" class="token"><code>TileUrlProviderFactory</code></a> 
 
   </div>
 
@@ -7013,7 +7015,7 @@ slug: "sdk-for-ios-explore-maps"
 
   <div class="abstract">
 
-  Factory for generating a <a href="sdk-for-ios-explore-maps#/s:7heresdk21TileUrlRequestHandlera">`TileUrlRequestHandler`</a> utilized in creating a tile URL.
+  Factory for generating a <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk21TileUrlRequestHandlera">`TileUrlRequestHandler`</a> utilized in creating a tile URL.
 
   <a href="sdk-for-ios-explore-classes-tileurlproviderfactory" class="slightly-smaller">See more</a>
 
@@ -7049,7 +7051,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk21TileUrlRequestHandlera"></span>` `<span id="//apple_ref/swift/Alias/TileUrlRequestHandler" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk21TileUrlRequestHandlera" class="token"><code>TileUrlRequestHandler</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk21TileUrlRequestHandlera"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Alias-TileUrlRequestHandler" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk21TileUrlRequestHandlera" class="token"><code>TileUrlRequestHandler</code></a> 
 
   </div>
 
@@ -7082,10 +7084,8 @@ slug: "sdk-for-ios-explore-maps"
   Swift
 
   ``` highlight
-  public typealias TileUrlRequestHandler = ( _ x : Int32 , _ y : Int32 , _ level : Int32 ) -> String
+  public typealias TileUrlRequestHandler = (_ x: Int32, _ y: Int32, _ level: Int32) -> String
   ```
-
-  </pre>
 
   </div>
 
@@ -7138,7 +7138,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk12TilingSchemeO"></span>` `<span id="//apple_ref/swift/Enum/TilingScheme" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk12TilingSchemeO" class="token"><code>TilingScheme</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12TilingSchemeO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-TilingScheme" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk12TilingSchemeO" class="token"><code>TilingScheme</code></a> 
 
   </div>
 
@@ -7184,7 +7184,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk24TranslucentMapLayerGroupC"></span>` `<span id="//apple_ref/swift/Class/TranslucentMapLayerGroup" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk24TranslucentMapLayerGroupC" class="token"><code>TranslucentMapLayerGroup</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk24TranslucentMapLayerGroupC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-TranslucentMapLayerGroup" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk24TranslucentMapLayerGroupC" class="token"><code>TranslucentMapLayerGroup</code></a> 
 
   </div>
 
@@ -7202,20 +7202,47 @@ slug: "sdk-for-ios-explore-maps"
 
   <div class="abstract">
 
-  A translucent layer group that can be the target for
-
-      MapLayerPriorityBuilder.inGroup(...)
-
-  . Currently, only custom line layers can be added to a translucent layer group. Custom line layers in a translucent layer group are rendered in an offscreen translucent pass so that overlapping translucent line geometry is not alpha blended with itself. At creation, the layer group gets added to a map. The layer group gets removed from the map upon instance destruction and any layer (categories) still in the group are not rendered anymore, therefore it is recommended to keep a group alive as long as layers using the group are alive and in use.
-  </p>
+  A translucent layer group that can be the target for <a href="sdk-for-ios-explore-classes-maplayerprioritybuilder#sdk-for-ios-explore-s-7heresdk23MapLayerPriorityBuilderC7inGroupyACSSF">`MapLayerPriorityBuilder.inGroup(...)`</a>. Currently, only custom line layers can be added to a translucent layer group. Custom line layers in a translucent layer group are rendered in an offscreen translucent pass so that overlapping translucent line geometry is not alpha blended with itself. At creation, the layer group gets added to a map. The layer group gets removed from the map upon instance destruction and any layer (categories) still in the group are not rendered anymore, therefore it is recommended to keep a group alive as long as layers using the group are alive and in use.
 
   Conceptual example to place line layers into a translucent group:
 
   ``` highlight
-  // Create a translucent group with a unique name and a render priority let groupPriority = MapLayerPriorityBuilder () . renderedLast () . build () let group = TranslucentMapLayerGroup ( name : "TranslucentGroupName" , map , groupPriority ) // Create a line layer to be rendered as part of the translucent group let lineLayerPriority = MapLayerPriorityBuilder () . inGroup ( "TranslucentGroupName" ) // places the line layer into the group . renderedFirst () // to be rendered first when the group is rendered . withCategory ( "SomeCategory" ) // places the line layer category 'SomeCategory' . inGroup ( "TranslucentGroupName" ) // into the group . renderedLast () // to be rendered last when the group is rendered . build () let lineLayer = MapLayerBuilder () . withDataSource ( named : "DataSourceName" , contentType : MapContentType . line ) . forMap ( map ) . withName ( "LineLayerName" ) . withPriority ( lineLayerPriority ) . withStyle ( translucentLineStyle ) // E.g. "technique": "line" ... "color": "#FFFFFF80" . build () // Create a second line layer to be rendered as part of the translucent group let secondLineLayerPriority = MapLayerPriorityBuilder () . inGroup ( "TranslucentGroupName" ) // places the second line layer into the group . renderedBeforeLayer ( "LineLayerName" ) // to be rendered before first layer // when the group is rendered . build () let secondLineLayer = MapLayerBuilder () . withDataSource ( named : "SecondDataSourceName" , contentType : MapContentType . line ) . forMap ( map ) . withName ( "SecondLineLayerName" ) . withPriority ( secondLineLayerPriority ) . withStyle ( secondTranslucentLineStyle ) // E.g. "technique": "line" ... "color": "#FFFFFF80" . build ()
-  ```
+   // Create a translucent group with a unique name and a render priority
+   let groupPriority = MapLayerPriorityBuilder().renderedLast().build()
+   let group = TranslucentMapLayerGroup(name: "TranslucentGroupName", map, groupPriority)
 
-  </pre>
+   // Create a line layer to be rendered as part of the translucent group
+   let lineLayerPriority = MapLayerPriorityBuilder()
+       .inGroup("TranslucentGroupName") // places the line layer into the group
+       .renderedFirst()                 // to be rendered first when the group is rendered
+       .withCategory("SomeCategory")    // places the line layer category 'SomeCategory'
+       .inGroup("TranslucentGroupName") // into the group
+       .renderedLast()                  // to be rendered last when the group is rendered
+       .build()
+
+   let lineLayer = MapLayerBuilder()
+       .withDataSource(named: "DataSourceName", contentType: MapContentType.line)
+       .forMap(map)
+       .withName("LineLayerName")
+       .withPriority(lineLayerPriority)
+       .withStyle(translucentLineStyle) // E.g. "technique": "line" ... "color": "#FFFFFF80"
+       .build()
+
+   // Create a second line layer to be rendered as part of the translucent group
+   let secondLineLayerPriority = MapLayerPriorityBuilder()
+       .inGroup("TranslucentGroupName")      // places the second line layer into the group
+       .renderedBeforeLayer("LineLayerName") // to be rendered before first layer
+                                             // when the group is rendered
+       .build()
+
+   let secondLineLayer = MapLayerBuilder()
+       .withDataSource(named: "SecondDataSourceName", contentType: MapContentType.line)
+       .forMap(map)
+       .withName("SecondLineLayerName")
+       .withPriority(secondLineLayerPriority)
+       .withStyle(secondTranslucentLineStyle) // E.g. "technique": "line" ... "color": "#FFFFFF80"
+       .build()
+  ```
 
   Note: This is a beta release of this feature, so there could be a few bugs and unexpected behavior. Related APIs may change for new releases without a deprecation process.
 
@@ -7253,7 +7280,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk19TriangleMeshBuilderC"></span>` `<span id="//apple_ref/swift/Class/TriangleMeshBuilder" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk19TriangleMeshBuilderC" class="token"><code>TriangleMeshBuilder</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19TriangleMeshBuilderC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-TriangleMeshBuilder" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk19TriangleMeshBuilderC" class="token"><code>TriangleMeshBuilder</code></a> 
 
   </div>
 
@@ -7291,6 +7318,10 @@ slug: "sdk-for-ios-explore-maps"
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-meshbuilder">MeshBuilder</a>
+
   </div>
 
   </div>
@@ -7299,7 +7330,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk20TwoFingerPanDelegateP"></span>` `<span id="//apple_ref/swift/Protocol/TwoFingerPanDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk20TwoFingerPanDelegateP" class="token"><code>TwoFingerPanDelegate</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk20TwoFingerPanDelegateP"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Protocol-TwoFingerPanDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk20TwoFingerPanDelegateP" class="token"><code>TwoFingerPanDelegate</code></a> 
 
   </div>
 
@@ -7345,7 +7376,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk20TwoFingerTapDelegateP"></span>` `<span id="//apple_ref/swift/Protocol/TwoFingerTapDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk20TwoFingerTapDelegateP" class="token"><code>TwoFingerTapDelegate</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk20TwoFingerTapDelegateP"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Protocol-TwoFingerTapDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk20TwoFingerTapDelegateP" class="token"><code>TwoFingerTapDelegate</code></a> 
 
   </div>
 
@@ -7391,7 +7422,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk15VisibilityStateO"></span>` `<span id="//apple_ref/swift/Enum/VisibilityState" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk15VisibilityStateO" class="token"><code>VisibilityState</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15VisibilityStateO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-VisibilityState" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk15VisibilityStateO" class="token"><code>VisibilityState</code></a> 
 
   </div>
 
@@ -7437,7 +7468,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk32VehicleRestrictionIconPropertiesV"></span>` `<span id="//apple_ref/swift/Struct/VehicleRestrictionIconProperties" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk32VehicleRestrictionIconPropertiesV" class="token"><code>VehicleRestrictionIconProperties</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk32VehicleRestrictionIconPropertiesV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-VehicleRestrictionIconProperties" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk32VehicleRestrictionIconPropertiesV" class="token"><code>VehicleRestrictionIconProperties</code></a> 
 
   </div>
 
@@ -7483,7 +7514,7 @@ slug: "sdk-for-ios-explore-maps"
 
 - <div>
 
-  ` `<span id="/s:7heresdk14WatermarkStyleO"></span>` `<span id="//apple_ref/swift/Enum/WatermarkStyle" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maps#/s:7heresdk14WatermarkStyleO" class="token"><code>WatermarkStyle</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14WatermarkStyleO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-WatermarkStyle" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk14WatermarkStyleO" class="token"><code>WatermarkStyle</code></a> 
 
   </div>
 

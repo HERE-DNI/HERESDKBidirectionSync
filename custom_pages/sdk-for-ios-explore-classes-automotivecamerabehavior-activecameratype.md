@@ -27,7 +27,7 @@ Defines the type of camera currently handling camera updates.
 
 - <div>
 
-  ` `<span id="/s:7heresdk24AutomotiveCameraBehaviorC06ActiveC4TypeO4noneyA2EmF"></span>` `<span id="//apple_ref/swift/Element/none" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-automotivecamerabehavior-activecameratype#/s:7heresdk24AutomotiveCameraBehaviorC06ActiveC4TypeO4noneyA2EmF" class="token"><code>none</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk24AutomotiveCameraBehaviorC06ActiveC4TypeO4noneyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-none" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-automotivecamerabehavior-activecameratype#sdk-for-ios-explore-s-7heresdk24AutomotiveCameraBehaviorC06ActiveC4TypeO4noneyA2EmF" class="token"><code>none</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Defines the type of camera currently handling camera updates.
 
 - <div>
 
-  ` `<span id="/s:7heresdk24AutomotiveCameraBehaviorC06ActiveC4TypeO8trackingyA2EmF"></span>` `<span id="//apple_ref/swift/Element/tracking" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-automotivecamerabehavior-activecameratype#/s:7heresdk24AutomotiveCameraBehaviorC06ActiveC4TypeO8trackingyA2EmF" class="token"><code>tracking</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk24AutomotiveCameraBehaviorC06ActiveC4TypeO8trackingyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-tracking" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-automotivecamerabehavior-activecameratype#sdk-for-ios-explore-s-7heresdk24AutomotiveCameraBehaviorC06ActiveC4TypeO8trackingyA2EmF" class="token"><code>tracking</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Defines the type of camera currently handling camera updates.
 
 - <div>
 
-  ` `<span id="/s:7heresdk24AutomotiveCameraBehaviorC06ActiveC4TypeO4areayA2EmF"></span>` `<span id="//apple_ref/swift/Element/area" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-automotivecamerabehavior-activecameratype#/s:7heresdk24AutomotiveCameraBehaviorC06ActiveC4TypeO4areayA2EmF" class="token"><code>area</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk24AutomotiveCameraBehaviorC06ActiveC4TypeO4areayA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-area" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-automotivecamerabehavior-activecameratype#sdk-for-ios-explore-s-7heresdk24AutomotiveCameraBehaviorC06ActiveC4TypeO4areayA2EmF" class="token"><code>area</code></a> 
 
   </div>
 

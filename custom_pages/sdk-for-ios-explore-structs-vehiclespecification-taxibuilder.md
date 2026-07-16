@@ -23,6 +23,10 @@ extension VehicleSpecification.TaxiBuilder: Hashable
 
 </div>
 
+Related types:
+
+- <a href="sdk-for-ios-explore-structs-vehiclespecification">VehicleSpecification</a>
+
 </div>
 
 This class constructs a <a href="sdk-for-ios-explore-structs-vehiclespecification">`VehicleSpecification`</a> for a taxi.
@@ -35,7 +39,7 @@ This class constructs a <a href="sdk-for-ios-explore-structs-vehiclespecificatio
 
 - <div>
 
-      init()
+   <span id="sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV11TaxiBuilderCAEycfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-vehiclespecification-taxibuilder#sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV11TaxiBuilderCAEycfc" class="token"><code>init()</code></a> 
 
   </div>
 
@@ -66,10 +70,8 @@ This class constructs a <a href="sdk-for-ios-explore-structs-vehiclespecificatio
   Swift
 
   ``` highlight
-  public init ()
+  public init()
   ```
-
-  </pre>
 
   </div>
 
@@ -81,7 +83,7 @@ This class constructs a <a href="sdk-for-ios-explore-structs-vehiclespecificatio
 
 - <div>
 
-      withHeightInCentimeters(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV11TaxiBuilderC23withHeightInCentimetersyAEs5Int32VF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-withHeightInCentimeters-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-vehiclespecification-taxibuilder#sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV11TaxiBuilderC23withHeightInCentimetersyAEs5Int32VF" class="token"><code>withHeightInCentimeters(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -112,12 +114,14 @@ This class constructs a <a href="sdk-for-ios-explore-structs-vehiclespecificatio
   Swift
 
   ``` highlight
-  public func withHeightInCentimeters ( _ heightInCentimeters : Int32 ) -> VehicleSpecification . TaxiBuilder
+  public func withHeightInCentimeters(_ heightInCentimeters: Int32) -> VehicleSpecification.TaxiBuilder
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-vehiclespecification">VehicleSpecification</a>
 
   </div>
 
@@ -156,7 +160,7 @@ This class constructs a <a href="sdk-for-ios-explore-structs-vehiclespecificatio
 
 - <div>
 
-      withWidthInCentimeters(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV11TaxiBuilderC22withWidthInCentimetersyAEs5Int32VF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-withWidthInCentimeters-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-vehiclespecification-taxibuilder#sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV11TaxiBuilderC22withWidthInCentimetersyAEs5Int32VF" class="token"><code>withWidthInCentimeters(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -187,12 +191,14 @@ This class constructs a <a href="sdk-for-ios-explore-structs-vehiclespecificatio
   Swift
 
   ``` highlight
-  public func withWidthInCentimeters ( _ widthInCentimeters : Int32 ) -> VehicleSpecification . TaxiBuilder
+  public func withWidthInCentimeters(_ widthInCentimeters: Int32) -> VehicleSpecification.TaxiBuilder
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-vehiclespecification">VehicleSpecification</a>
 
   </div>
 
@@ -231,7 +237,7 @@ This class constructs a <a href="sdk-for-ios-explore-structs-vehiclespecificatio
 
 - <div>
 
-      withLengthInCentimeters(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV11TaxiBuilderC23withLengthInCentimetersyAEs5Int32VF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-withLengthInCentimeters-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-vehiclespecification-taxibuilder#sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV11TaxiBuilderC23withLengthInCentimetersyAEs5Int32VF" class="token"><code>withLengthInCentimeters(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -262,12 +268,14 @@ This class constructs a <a href="sdk-for-ios-explore-structs-vehiclespecificatio
   Swift
 
   ``` highlight
-  public func withLengthInCentimeters ( _ lengthInCentimeters : Int32 ) -> VehicleSpecification . TaxiBuilder
+  public func withLengthInCentimeters(_ lengthInCentimeters: Int32) -> VehicleSpecification.TaxiBuilder
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-vehiclespecification">VehicleSpecification</a>
 
   </div>
 
@@ -306,7 +314,7 @@ This class constructs a <a href="sdk-for-ios-explore-structs-vehiclespecificatio
 
 - <div>
 
-      withAxleCount(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV11TaxiBuilderC13withAxleCountyAEs5Int32VF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-withAxleCount-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-vehiclespecification-taxibuilder#sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV11TaxiBuilderC13withAxleCountyAEs5Int32VF" class="token"><code>withAxleCount(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -337,12 +345,14 @@ This class constructs a <a href="sdk-for-ios-explore-structs-vehiclespecificatio
   Swift
 
   ``` highlight
-  public func withAxleCount ( _ axleCount : Int32 ) -> VehicleSpecification . TaxiBuilder
+  public func withAxleCount(_ axleCount: Int32) -> VehicleSpecification.TaxiBuilder
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-vehiclespecification">VehicleSpecification</a>
 
   </div>
 
@@ -381,7 +391,7 @@ This class constructs a <a href="sdk-for-ios-explore-structs-vehiclespecificatio
 
 - <div>
 
-      withKingpinToRearAxleDistanceInCentimeters(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV11TaxiBuilderC42withKingpinToRearAxleDistanceInCentimetersyAEs5Int32VF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-withKingpinToRearAxleDistanceInCentimeters-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-vehiclespecification-taxibuilder#sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV11TaxiBuilderC42withKingpinToRearAxleDistanceInCentimetersyAEs5Int32VF" class="token"><code>withKingpinToRearAxleDistanceInCentimeters(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -412,12 +422,14 @@ This class constructs a <a href="sdk-for-ios-explore-structs-vehiclespecificatio
   Swift
 
   ``` highlight
-  public func withKingpinToRearAxleDistanceInCentimeters ( _ length : Int32 ) -> VehicleSpecification . TaxiBuilder
+  public func withKingpinToRearAxleDistanceInCentimeters(_ length: Int32) -> VehicleSpecification.TaxiBuilder
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-vehiclespecification">VehicleSpecification</a>
 
   </div>
 
@@ -456,7 +468,7 @@ This class constructs a <a href="sdk-for-ios-explore-structs-vehiclespecificatio
 
 - <div>
 
-      withTrailerCount(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV11TaxiBuilderC16withTrailerCountyAEs5Int32VF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-withTrailerCount-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-vehiclespecification-taxibuilder#sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV11TaxiBuilderC16withTrailerCountyAEs5Int32VF" class="token"><code>withTrailerCount(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -487,12 +499,14 @@ This class constructs a <a href="sdk-for-ios-explore-structs-vehiclespecificatio
   Swift
 
   ``` highlight
-  public func withTrailerCount ( _ trailerCount : Int32 ) -> VehicleSpecification . TaxiBuilder
+  public func withTrailerCount(_ trailerCount: Int32) -> VehicleSpecification.TaxiBuilder
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-vehiclespecification">VehicleSpecification</a>
 
   </div>
 
@@ -531,7 +545,7 @@ This class constructs a <a href="sdk-for-ios-explore-structs-vehiclespecificatio
 
 - <div>
 
-      withPayloadCapacityInKilograms(payloadCapacityInKilograms: )
+   <span id="sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV11TaxiBuilderC30withPayloadCapacityInKilograms07payloadhiJ0AEs5Int32V_tF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-withPayloadCapacityInKilograms-payloadCapacityInKilograms" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-vehiclespecification-taxibuilder#sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV11TaxiBuilderC30withPayloadCapacityInKilograms07payloadhiJ0AEs5Int32V_tF" class="token"><code>withPayloadCapacityInKilograms(payloadCapacityInKilograms:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -562,12 +576,14 @@ This class constructs a <a href="sdk-for-ios-explore-structs-vehiclespecificatio
   Swift
 
   ``` highlight
-  public func withPayloadCapacityInKilograms ( payloadCapacityInKilograms : Int32 ) -> VehicleSpecification . TaxiBuilder
+  public func withPayloadCapacityInKilograms(payloadCapacityInKilograms: Int32) -> VehicleSpecification.TaxiBuilder
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-vehiclespecification">VehicleSpecification</a>
 
   </div>
 
@@ -606,7 +622,7 @@ This class constructs a <a href="sdk-for-ios-explore-structs-vehiclespecificatio
 
 - <div>
 
-      withTrailerAxleCount(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV11TaxiBuilderC20withTrailerAxleCountyAEs5Int32VF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-withTrailerAxleCount-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-vehiclespecification-taxibuilder#sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV11TaxiBuilderC20withTrailerAxleCountyAEs5Int32VF" class="token"><code>withTrailerAxleCount(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -637,12 +653,14 @@ This class constructs a <a href="sdk-for-ios-explore-structs-vehiclespecificatio
   Swift
 
   ``` highlight
-  public func withTrailerAxleCount ( _ trailerAxleCount : Int32 ) -> VehicleSpecification . TaxiBuilder
+  public func withTrailerAxleCount(_ trailerAxleCount: Int32) -> VehicleSpecification.TaxiBuilder
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-vehiclespecification">VehicleSpecification</a>
 
   </div>
 
@@ -681,7 +699,7 @@ This class constructs a <a href="sdk-for-ios-explore-structs-vehiclespecificatio
 
 - <div>
 
-      withGrossWeightInKilograms(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV11TaxiBuilderC26withGrossWeightInKilogramsyAEs5Int32VF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-withGrossWeightInKilograms-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-vehiclespecification-taxibuilder#sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV11TaxiBuilderC26withGrossWeightInKilogramsyAEs5Int32VF" class="token"><code>withGrossWeightInKilograms(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -712,12 +730,14 @@ This class constructs a <a href="sdk-for-ios-explore-structs-vehiclespecificatio
   Swift
 
   ``` highlight
-  public func withGrossWeightInKilograms ( _ grossWeightInKilograms : Int32 ) -> VehicleSpecification . TaxiBuilder
+  public func withGrossWeightInKilograms(_ grossWeightInKilograms: Int32) -> VehicleSpecification.TaxiBuilder
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-vehiclespecification">VehicleSpecification</a>
 
   </div>
 
@@ -756,7 +776,7 @@ This class constructs a <a href="sdk-for-ios-explore-structs-vehiclespecificatio
 
 - <div>
 
-      withCurrentWeightInKilograms(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV11TaxiBuilderC28withCurrentWeightInKilogramsyAEs5Int32VF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-withCurrentWeightInKilograms-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-vehiclespecification-taxibuilder#sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV11TaxiBuilderC28withCurrentWeightInKilogramsyAEs5Int32VF" class="token"><code>withCurrentWeightInKilograms(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -787,12 +807,14 @@ This class constructs a <a href="sdk-for-ios-explore-structs-vehiclespecificatio
   Swift
 
   ``` highlight
-  public func withCurrentWeightInKilograms ( _ currentWeightInKilograms : Int32 ) -> VehicleSpecification . TaxiBuilder
+  public func withCurrentWeightInKilograms(_ currentWeightInKilograms: Int32) -> VehicleSpecification.TaxiBuilder
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-vehiclespecification">VehicleSpecification</a>
 
   </div>
 
@@ -831,7 +853,7 @@ This class constructs a <a href="sdk-for-ios-explore-structs-vehiclespecificatio
 
 - <div>
 
-      withEmptyWeightInKilograms(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV11TaxiBuilderC26withEmptyWeightInKilogramsyAEs5Int32VF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-withEmptyWeightInKilograms-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-vehiclespecification-taxibuilder#sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV11TaxiBuilderC26withEmptyWeightInKilogramsyAEs5Int32VF" class="token"><code>withEmptyWeightInKilograms(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -862,12 +884,14 @@ This class constructs a <a href="sdk-for-ios-explore-structs-vehiclespecificatio
   Swift
 
   ``` highlight
-  public func withEmptyWeightInKilograms ( _ emptyWeightInKilograms : Int32 ) -> VehicleSpecification . TaxiBuilder
+  public func withEmptyWeightInKilograms(_ emptyWeightInKilograms: Int32) -> VehicleSpecification.TaxiBuilder
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-vehiclespecification">VehicleSpecification</a>
 
   </div>
 
@@ -906,7 +930,7 @@ This class constructs a <a href="sdk-for-ios-explore-structs-vehiclespecificatio
 
 - <div>
 
-      withWeightPerAxleInKilograms(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV11TaxiBuilderC28withWeightPerAxleInKilogramsyAEs5Int32VF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-withWeightPerAxleInKilograms-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-vehiclespecification-taxibuilder#sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV11TaxiBuilderC28withWeightPerAxleInKilogramsyAEs5Int32VF" class="token"><code>withWeightPerAxleInKilograms(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -937,12 +961,14 @@ This class constructs a <a href="sdk-for-ios-explore-structs-vehiclespecificatio
   Swift
 
   ``` highlight
-  public func withWeightPerAxleInKilograms ( _ weightPerAxleInKilograms : Int32 ) -> VehicleSpecification . TaxiBuilder
+  public func withWeightPerAxleInKilograms(_ weightPerAxleInKilograms: Int32) -> VehicleSpecification.TaxiBuilder
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-vehiclespecification">VehicleSpecification</a>
 
   </div>
 
@@ -981,7 +1007,7 @@ This class constructs a <a href="sdk-for-ios-explore-structs-vehiclespecificatio
 
 - <div>
 
-      withIsCommercial(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV11TaxiBuilderC16withIsCommercialyAESbF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-withIsCommercial-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-vehiclespecification-taxibuilder#sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV11TaxiBuilderC16withIsCommercialyAESbF" class="token"><code>withIsCommercial(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1012,12 +1038,14 @@ This class constructs a <a href="sdk-for-ios-explore-structs-vehiclespecificatio
   Swift
 
   ``` highlight
-  public func withIsCommercial ( _ isCommercial : Bool ) -> VehicleSpecification . TaxiBuilder
+  public func withIsCommercial(_ isCommercial: Bool) -> VehicleSpecification.TaxiBuilder
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-vehiclespecification">VehicleSpecification</a>
 
   </div>
 
@@ -1056,7 +1084,7 @@ This class constructs a <a href="sdk-for-ios-explore-structs-vehiclespecificatio
 
 - <div>
 
-      withLastCharacterOfLicensePlate(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV11TaxiBuilderC31withLastCharacterOfLicensePlateyAESSF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-withLastCharacterOfLicensePlate-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-vehiclespecification-taxibuilder#sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV11TaxiBuilderC31withLastCharacterOfLicensePlateyAESSF" class="token"><code>withLastCharacterOfLicensePlate(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1087,12 +1115,14 @@ This class constructs a <a href="sdk-for-ios-explore-structs-vehiclespecificatio
   Swift
 
   ``` highlight
-  public func withLastCharacterOfLicensePlate ( _ lastCharacterOfLicensePlate : String ) -> VehicleSpecification . TaxiBuilder
+  public func withLastCharacterOfLicensePlate(_ lastCharacterOfLicensePlate: String) -> VehicleSpecification.TaxiBuilder
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-vehiclespecification">VehicleSpecification</a>
 
   </div>
 
@@ -1131,7 +1161,7 @@ This class constructs a <a href="sdk-for-ios-explore-structs-vehiclespecificatio
 
 - <div>
 
-      withEngineSizeInCubicCentimeters(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV11TaxiBuilderC32withEngineSizeInCubicCentimetersyAEs5Int32VF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-withEngineSizeInCubicCentimeters-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-vehiclespecification-taxibuilder#sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV11TaxiBuilderC32withEngineSizeInCubicCentimetersyAEs5Int32VF" class="token"><code>withEngineSizeInCubicCentimeters(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1162,12 +1192,14 @@ This class constructs a <a href="sdk-for-ios-explore-structs-vehiclespecificatio
   Swift
 
   ``` highlight
-  public func withEngineSizeInCubicCentimeters ( _ engineSizeInCubicCentimeters : Int32 ) -> VehicleSpecification . TaxiBuilder
+  public func withEngineSizeInCubicCentimeters(_ engineSizeInCubicCentimeters: Int32) -> VehicleSpecification.TaxiBuilder
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-vehiclespecification">VehicleSpecification</a>
 
   </div>
 
@@ -1206,7 +1238,7 @@ This class constructs a <a href="sdk-for-ios-explore-structs-vehiclespecificatio
 
 - <div>
 
-      withTiresCount(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV11TaxiBuilderC14withTiresCountyAEs5Int32VF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-withTiresCount-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-vehiclespecification-taxibuilder#sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV11TaxiBuilderC14withTiresCountyAEs5Int32VF" class="token"><code>withTiresCount(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1237,12 +1269,14 @@ This class constructs a <a href="sdk-for-ios-explore-structs-vehiclespecificatio
   Swift
 
   ``` highlight
-  public func withTiresCount ( _ tiresCount : Int32 ) -> VehicleSpecification . TaxiBuilder
+  public func withTiresCount(_ tiresCount: Int32) -> VehicleSpecification.TaxiBuilder
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-vehiclespecification">VehicleSpecification</a>
 
   </div>
 
@@ -1281,7 +1315,7 @@ This class constructs a <a href="sdk-for-ios-explore-structs-vehiclespecificatio
 
 - <div>
 
-      withTunnelCategory(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV11TaxiBuilderC18withTunnelCategoryyAeA0gH0OF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-withTunnelCategory-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-vehiclespecification-taxibuilder#sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV11TaxiBuilderC18withTunnelCategoryyAeA0gH0OF" class="token"><code>withTunnelCategory(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1312,12 +1346,15 @@ This class constructs a <a href="sdk-for-ios-explore-structs-vehiclespecificatio
   Swift
 
   ``` highlight
-  public func withTunnelCategory ( _ tunnelCategory : TunnelCategory ) -> VehicleSpecification . TaxiBuilder
+  public func withTunnelCategory(_ tunnelCategory: TunnelCategory) -> VehicleSpecification.TaxiBuilder
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-tunnelcategory">TunnelCategory</a>
+  - <a href="sdk-for-ios-explore-structs-vehiclespecification">VehicleSpecification</a>
 
   </div>
 
@@ -1356,7 +1393,7 @@ This class constructs a <a href="sdk-for-ios-explore-structs-vehiclespecificatio
 
 - <div>
 
-      withOccupancy(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV11TaxiBuilderC13withOccupancyyAEs5Int32VF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-withOccupancy-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-vehiclespecification-taxibuilder#sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV11TaxiBuilderC13withOccupancyyAEs5Int32VF" class="token"><code>withOccupancy(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1387,12 +1424,14 @@ This class constructs a <a href="sdk-for-ios-explore-structs-vehiclespecificatio
   Swift
 
   ``` highlight
-  public func withOccupancy ( _ occupancy : Int32 ) -> VehicleSpecification . TaxiBuilder
+  public func withOccupancy(_ occupancy: Int32) -> VehicleSpecification.TaxiBuilder
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-vehiclespecification">VehicleSpecification</a>
 
   </div>
 
@@ -1431,7 +1470,7 @@ This class constructs a <a href="sdk-for-ios-explore-structs-vehiclespecificatio
 
 - <div>
 
-      build()
+   <span id="sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV11TaxiBuilderC5buildACyF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-build" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-vehiclespecification-taxibuilder#sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV11TaxiBuilderC5buildACyF" class="token"><code>build()</code></a> 
 
   </div>
 
@@ -1449,7 +1488,7 @@ This class constructs a <a href="sdk-for-ios-explore-structs-vehiclespecificatio
 
   <div class="abstract">
 
-  Builds the <a href="sdk-for-ios-explore-structs-vehiclespecification">`VehicleSpecification`</a> object for <a href="sdk-for-ios-explore-enums-transportmode#/s:7heresdk13TransportModeO4taxiyA2CmF">`TransportMode.taxi`</a> with the specifications taken from the `VehicleSpecification.TaxiBuilder` object.
+  Builds the <a href="sdk-for-ios-explore-structs-vehiclespecification">`VehicleSpecification`</a> object for <a href="sdk-for-ios-explore-enums-transportmode#sdk-for-ios-explore-s-7heresdk13TransportModeO4taxiyA2CmF">`TransportMode.taxi`</a> with the specifications taken from the `VehicleSpecification.TaxiBuilder` object.
 
   </div>
 
@@ -1462,12 +1501,14 @@ This class constructs a <a href="sdk-for-ios-explore-structs-vehiclespecificatio
   Swift
 
   ``` highlight
-  public func build () -> VehicleSpecification
+  public func build() -> VehicleSpecification
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-vehiclespecification">VehicleSpecification</a>
 
   </div>
 

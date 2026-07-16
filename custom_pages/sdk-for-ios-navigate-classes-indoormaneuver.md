@@ -35,7 +35,7 @@ Represents a maneuver within an indoor section.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14IndoorManeuverC6actionAA0bC7ActionsOSgvp"></span>` `<span id="//apple_ref/swift/Property/action" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-indoormaneuver#/s:7heresdk14IndoorManeuverC6actionAA0bC7ActionsOSgvp" class="token"><code>action</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14IndoorManeuverC6actionAA0bC7ActionsOSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-action" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-indoormaneuver#sdk-for-ios-navigate-s-7heresdk14IndoorManeuverC6actionAA0bC7ActionsOSgvp" class="token"><code>action</code></a> 
 
   </div>
 
@@ -71,6 +71,10 @@ Represents a maneuver within an indoor section.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-indoormaneuveractions">IndoorManeuverActions</a>
+
   </div>
 
   </div>
@@ -79,7 +83,7 @@ Represents a maneuver within an indoor section.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14IndoorManeuverC10coordinateAA14GeoCoordinatesVvp"></span>` `<span id="//apple_ref/swift/Property/coordinate" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-indoormaneuver#/s:7heresdk14IndoorManeuverC10coordinateAA14GeoCoordinatesVvp" class="token"><code>coordinate</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14IndoorManeuverC10coordinateAA14GeoCoordinatesVvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-coordinate" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-indoormaneuver#sdk-for-ios-navigate-s-7heresdk14IndoorManeuverC10coordinateAA14GeoCoordinatesVvp" class="token"><code>coordinate</code></a> 
 
   </div>
 
@@ -115,6 +119,10 @@ Represents a maneuver within an indoor section.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-geocoordinates">GeoCoordinates</a>
+
   </div>
 
   </div>
@@ -123,7 +131,7 @@ Represents a maneuver within an indoor section.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14IndoorManeuverC6offsets5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/offset" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-indoormaneuver#/s:7heresdk14IndoorManeuverC6offsets5Int32Vvp" class="token"><code>offset</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14IndoorManeuverC6offsets5Int32Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-offset" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-indoormaneuver#sdk-for-ios-navigate-s-7heresdk14IndoorManeuverC6offsets5Int32Vvp" class="token"><code>offset</code></a> 
 
   </div>
 
@@ -167,7 +175,7 @@ Represents a maneuver within an indoor section.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14IndoorManeuverC12sectionIndexs5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/sectionIndex" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-indoormaneuver#/s:7heresdk14IndoorManeuverC12sectionIndexs5Int32Vvp" class="token"><code>sectionIndex</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14IndoorManeuverC12sectionIndexs5Int32Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-sectionIndex" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-indoormaneuver#sdk-for-ios-navigate-s-7heresdk14IndoorManeuverC12sectionIndexs5Int32Vvp" class="token"><code>sectionIndex</code></a> 
 
   </div>
 
@@ -211,7 +219,7 @@ Represents a maneuver within an indoor section.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14IndoorManeuverC14lengthInMetersSfvp"></span>` `<span id="//apple_ref/swift/Property/lengthInMeters" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-indoormaneuver#/s:7heresdk14IndoorManeuverC14lengthInMetersSfvp" class="token"><code>lengthInMeters</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14IndoorManeuverC14lengthInMetersSfvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-lengthInMeters" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-indoormaneuver#sdk-for-ios-navigate-s-7heresdk14IndoorManeuverC14lengthInMetersSfvp" class="token"><code>lengthInMeters</code></a> 
 
   </div>
 
@@ -255,7 +263,7 @@ Represents a maneuver within an indoor section.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14IndoorManeuverC8durationSdvp"></span>` `<span id="//apple_ref/swift/Property/duration" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-indoormaneuver#/s:7heresdk14IndoorManeuverC8durationSdvp" class="token"><code>duration</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14IndoorManeuverC8durationSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-duration" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-indoormaneuver#sdk-for-ios-navigate-s-7heresdk14IndoorManeuverC8durationSdvp" class="token"><code>duration</code></a> 
 
   </div>
 
@@ -299,7 +307,7 @@ Represents a maneuver within an indoor section.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14IndoorManeuverC11levelZIndexs5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/levelZIndex" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-indoormaneuver#/s:7heresdk14IndoorManeuverC11levelZIndexs5Int32Vvp" class="token"><code>levelZIndex</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14IndoorManeuverC11levelZIndexs5Int32Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-levelZIndex" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-indoormaneuver#sdk-for-ios-navigate-s-7heresdk14IndoorManeuverC11levelZIndexs5Int32Vvp" class="token"><code>levelZIndex</code></a> 
 
   </div>
 
@@ -343,7 +351,7 @@ Represents a maneuver within an indoor section.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14IndoorManeuverC15indoorSpaceDataAA0beF0VSgvp"></span>` `<span id="//apple_ref/swift/Property/indoorSpaceData" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-indoormaneuver#/s:7heresdk14IndoorManeuverC15indoorSpaceDataAA0beF0VSgvp" class="token"><code>indoorSpaceData</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14IndoorManeuverC15indoorSpaceDataAA0beF0VSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-indoorSpaceData" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-indoormaneuver#sdk-for-ios-navigate-s-7heresdk14IndoorManeuverC15indoorSpaceDataAA0beF0VSgvp" class="token"><code>indoorSpaceData</code></a> 
 
   </div>
 
@@ -379,6 +387,10 @@ Represents a maneuver within an indoor section.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-indoorspacedata">IndoorSpaceData</a>
+
   </div>
 
   </div>
@@ -387,7 +399,7 @@ Represents a maneuver within an indoor section.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14IndoorManeuverC21indoorLevelChangeDataAA0befG0VSgvp"></span>` `<span id="//apple_ref/swift/Property/indoorLevelChangeData" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-indoormaneuver#/s:7heresdk14IndoorManeuverC21indoorLevelChangeDataAA0befG0VSgvp" class="token"><code>indoorLevelChangeData</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14IndoorManeuverC21indoorLevelChangeDataAA0befG0VSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-indoorLevelChangeData" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-indoormaneuver#sdk-for-ios-navigate-s-7heresdk14IndoorManeuverC21indoorLevelChangeDataAA0befG0VSgvp" class="token"><code>indoorLevelChangeData</code></a> 
 
   </div>
 
@@ -422,6 +434,10 @@ Represents a maneuver within an indoor section.
   ```
 
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-indoorlevelchangedata">IndoorLevelChangeData</a>
 
   </div>
 

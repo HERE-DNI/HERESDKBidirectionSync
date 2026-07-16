@@ -17,7 +17,7 @@ public struct EVConsumptionModel : Hashable
 
 </div>
 
-Parameters specific for the electric vehicle, which are then used to calculate energy consumption on a given route. At minimum, you must provide <a href="sdk-for-ios-explore-structs-evconsumptionmodel#/s:7heresdk18EVConsumptionModelV36ascentConsumptionInWattHoursPerMeterSdvp">`EVConsumptionModel.ascentConsumptionInWattHoursPerMeter`</a>, <a href="sdk-for-ios-explore-structs-evconsumptionmodel#/s:7heresdk18EVConsumptionModelV34descentRecoveryInWattHoursPerMeterSdvp">`EVConsumptionModel.descentRecoveryInWattHoursPerMeter`</a> and a <a href="sdk-for-ios-explore-structs-evconsumptionmodel#/s:7heresdk18EVConsumptionModelV18freeFlowSpeedTableSDys5Int32VSdGvp">`EVConsumptionModel.freeFlowSpeedTable`</a>.
+Parameters specific for the electric vehicle, which are then used to calculate energy consumption on a given route. At minimum, you must provide <a href="sdk-for-ios-explore-structs-evconsumptionmodel#sdk-for-ios-explore-s-7heresdk18EVConsumptionModelV36ascentConsumptionInWattHoursPerMeterSdvp">`EVConsumptionModel.ascentConsumptionInWattHoursPerMeter`</a>, <a href="sdk-for-ios-explore-structs-evconsumptionmodel#sdk-for-ios-explore-s-7heresdk18EVConsumptionModelV34descentRecoveryInWattHoursPerMeterSdvp">`EVConsumptionModel.descentRecoveryInWattHoursPerMeter`</a> and a <a href="sdk-for-ios-explore-structs-evconsumptionmodel#sdk-for-ios-explore-s-7heresdk18EVConsumptionModelV18freeFlowSpeedTableSDys5Int32VSdGvp">`EVConsumptionModel.freeFlowSpeedTable`</a>.
 
 </div>
 
@@ -27,7 +27,7 @@ Parameters specific for the electric vehicle, which are then used to calculate e
 
 - <div>
 
-  ` `<span id="/s:7heresdk18EVConsumptionModelV36ascentConsumptionInWattHoursPerMeterSdvp"></span>` `<span id="//apple_ref/swift/Property/ascentConsumptionInWattHoursPerMeter" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-evconsumptionmodel#/s:7heresdk18EVConsumptionModelV36ascentConsumptionInWattHoursPerMeterSdvp" class="token"><code>ascentConsumptionInWattHoursPerMeter</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18EVConsumptionModelV36ascentConsumptionInWattHoursPerMeterSdvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-ascentConsumptionInWattHoursPerMeter" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-evconsumptionmodel#sdk-for-ios-explore-s-7heresdk18EVConsumptionModelV36ascentConsumptionInWattHoursPerMeterSdvp" class="token"><code>ascentConsumptionInWattHoursPerMeter</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Parameters specific for the electric vehicle, which are then used to calculate e
 
 - <div>
 
-  ` `<span id="/s:7heresdk18EVConsumptionModelV34descentRecoveryInWattHoursPerMeterSdvp"></span>` `<span id="//apple_ref/swift/Property/descentRecoveryInWattHoursPerMeter" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-evconsumptionmodel#/s:7heresdk18EVConsumptionModelV34descentRecoveryInWattHoursPerMeterSdvp" class="token"><code>descentRecoveryInWattHoursPerMeter</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18EVConsumptionModelV34descentRecoveryInWattHoursPerMeterSdvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-descentRecoveryInWattHoursPerMeter" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-evconsumptionmodel#sdk-for-ios-explore-s-7heresdk18EVConsumptionModelV34descentRecoveryInWattHoursPerMeterSdvp" class="token"><code>descentRecoveryInWattHoursPerMeter</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Parameters specific for the electric vehicle, which are then used to calculate e
 
 - <div>
 
-  ` `<span id="/s:7heresdk18EVConsumptionModelV18freeFlowSpeedTableSDys5Int32VSdGvp"></span>` `<span id="//apple_ref/swift/Property/freeFlowSpeedTable" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-evconsumptionmodel#/s:7heresdk18EVConsumptionModelV18freeFlowSpeedTableSDys5Int32VSdGvp" class="token"><code>freeFlowSpeedTable</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18EVConsumptionModelV18freeFlowSpeedTableSDys5Int32VSdGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-freeFlowSpeedTable" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-evconsumptionmodel#sdk-for-ios-explore-s-7heresdk18EVConsumptionModelV18freeFlowSpeedTableSDys5Int32VSdGvp" class="token"><code>freeFlowSpeedTable</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Parameters specific for the electric vehicle, which are then used to calculate e
 
 - <div>
 
-  ` `<span id="/s:7heresdk18EVConsumptionModelV17trafficSpeedTableSDys5Int32VSdGvp"></span>` `<span id="//apple_ref/swift/Property/trafficSpeedTable" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-evconsumptionmodel#/s:7heresdk18EVConsumptionModelV17trafficSpeedTableSDys5Int32VSdGvp" class="token"><code>trafficSpeedTable</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18EVConsumptionModelV17trafficSpeedTableSDys5Int32VSdGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-trafficSpeedTable" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-evconsumptionmodel#sdk-for-ios-explore-s-7heresdk18EVConsumptionModelV17trafficSpeedTableSDys5Int32VSdGvp" class="token"><code>trafficSpeedTable</code></a> 
 
   </div>
 
@@ -177,7 +177,7 @@ Parameters specific for the electric vehicle, which are then used to calculate e
 
   <div class="abstract">
 
-  Traffic speed table describes energy consumption when traveling under heavy traffic conditions, i.e. when the vehicle is expected to often change the travel speed. It defines a function curve specifying consumption rate at a given speed under traffic conditions on a flat stretch of road. Map keys represent traffic speed values that are non-negative integers in units of (km/h). Map values represent consumption values that are non-negative floating point values in units of (Wh/m). The function is linearly interpolated between each successive pair of data points: For values below the first list value, the first value is used. For values after the last list value, the last list value is used. If only one key/value pair is set, the consumption value is used for all possible traffic speed keys. If `EVConsumptionModel.trafficSpeedTable` is empty then only <a href="sdk-for-ios-explore-structs-evconsumptionmodel#/s:7heresdk18EVConsumptionModelV18freeFlowSpeedTableSDys5Int32VSdGvp">`EVConsumptionModel.freeFlowSpeedTable`</a> is used for calculating speed-related energy consumption.
+  Traffic speed table describes energy consumption when traveling under heavy traffic conditions, i.e. when the vehicle is expected to often change the travel speed. It defines a function curve specifying consumption rate at a given speed under traffic conditions on a flat stretch of road. Map keys represent traffic speed values that are non-negative integers in units of (km/h). Map values represent consumption values that are non-negative floating point values in units of (Wh/m). The function is linearly interpolated between each successive pair of data points: For values below the first list value, the first value is used. For values after the last list value, the last list value is used. If only one key/value pair is set, the consumption value is used for all possible traffic speed keys. If `EVConsumptionModel.trafficSpeedTable` is empty then only <a href="sdk-for-ios-explore-structs-evconsumptionmodel#sdk-for-ios-explore-s-7heresdk18EVConsumptionModelV18freeFlowSpeedTableSDys5Int32VSdGvp">`EVConsumptionModel.freeFlowSpeedTable`</a> is used for calculating speed-related energy consumption.
 
   </div>
 
@@ -203,7 +203,7 @@ Parameters specific for the electric vehicle, which are then used to calculate e
 
 - <div>
 
-  ` `<span id="/s:7heresdk18EVConsumptionModelV40auxiliaryConsumptionInWattHoursPerSecondSdvp"></span>` `<span id="//apple_ref/swift/Property/auxiliaryConsumptionInWattHoursPerSecond" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-evconsumptionmodel#/s:7heresdk18EVConsumptionModelV40auxiliaryConsumptionInWattHoursPerSecondSdvp" class="token"><code>auxiliaryConsumptionInWattHoursPerSecond</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18EVConsumptionModelV40auxiliaryConsumptionInWattHoursPerSecondSdvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-auxiliaryConsumptionInWattHoursPerSecond" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-evconsumptionmodel#sdk-for-ios-explore-s-7heresdk18EVConsumptionModelV40auxiliaryConsumptionInWattHoursPerSecondSdvp" class="token"><code>auxiliaryConsumptionInWattHoursPerSecond</code></a> 
 
   </div>
 
@@ -247,7 +247,7 @@ Parameters specific for the electric vehicle, which are then used to calculate e
 
 - <div>
 
-      init(ascentConsumptionInWattHoursPerMeter: descentRecoveryInWattHoursPerMeter: freeFlowSpeedTable: trafficSpeedTable: auxiliaryConsumptionInWattHoursPerSecond: )
+   <span id="sdk-for-ios-explore-s-7heresdk18EVConsumptionModelV36ascentConsumptionInWattHoursPerMeter015descentRecoveryfghiJ018freeFlowSpeedTable07trafficoP009auxiliaryefghI6SecondACSd_SdSDys5Int32VSdGAKSdtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-ascentConsumptionInWattHoursPerMeter-descentRecoveryInWattHoursPerMeter-freeFlowSpeedTable-trafficSpeedTable-auxiliaryConsumptionInWattHoursPerSecond" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-evconsumptionmodel#sdk-for-ios-explore-s-7heresdk18EVConsumptionModelV36ascentConsumptionInWattHoursPerMeter015descentRecoveryfghiJ018freeFlowSpeedTable07trafficoP009auxiliaryefghI6SecondACSd_SdSDys5Int32VSdGAKSdtcfc" class="token"><code>init(ascentConsumptionInWattHoursPerMeter:</code><wbr></wbr><code>descentRecoveryInWattHoursPerMeter:</code><wbr></wbr><code>freeFlowSpeedTable:</code><wbr></wbr><code>trafficSpeedTable:</code><wbr></wbr><code>auxiliaryConsumptionInWattHoursPerSecond:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -278,10 +278,8 @@ Parameters specific for the electric vehicle, which are then used to calculate e
   Swift
 
   ``` highlight
-  public init ( ascentConsumptionInWattHoursPerMeter : Double = 0.0 , descentRecoveryInWattHoursPerMeter : Double = 0.0 , freeFlowSpeedTable : [ Int32 : Double ] = [:], trafficSpeedTable : [ Int32 : Double ] = [:], auxiliaryConsumptionInWattHoursPerSecond : Double = 0.0 )
+  public init(ascentConsumptionInWattHoursPerMeter: Double = 0.0, descentRecoveryInWattHoursPerMeter: Double = 0.0, freeFlowSpeedTable: [Int32 : Double] = [:], trafficSpeedTable: [Int32 : Double] = [:], auxiliaryConsumptionInWattHoursPerSecond: Double = 0.0)
   ```
-
-  </pre>
 
   </div>
 

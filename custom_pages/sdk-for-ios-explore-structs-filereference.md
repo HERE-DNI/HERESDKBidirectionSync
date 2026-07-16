@@ -27,7 +27,7 @@ A struct that provides information for a file reference.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13FileReferenceV10hostTileIds5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/hostTileId" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-filereference#/s:7heresdk13FileReferenceV10hostTileIds5Int32Vvp" class="token"><code>hostTileId</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13FileReferenceV10hostTileIds5Int32Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-hostTileId" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-filereference#sdk-for-ios-explore-s-7heresdk13FileReferenceV10hostTileIds5Int32Vvp" class="token"><code>hostTileId</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ A struct that provides information for a file reference.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13FileReferenceV8fileNameSSvp"></span>` `<span id="//apple_ref/swift/Property/fileName" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-filereference#/s:7heresdk13FileReferenceV8fileNameSSvp" class="token"><code>fileName</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13FileReferenceV8fileNameSSvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-fileName" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-filereference#sdk-for-ios-explore-s-7heresdk13FileReferenceV8fileNameSSvp" class="token"><code>fileName</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ A struct that provides information for a file reference.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13FileReferenceV4typeAA0bC4TypeOvp"></span>` `<span id="//apple_ref/swift/Property/type" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-filereference#/s:7heresdk13FileReferenceV4typeAA0bC4TypeOvp" class="token"><code>type</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13FileReferenceV4typeAA0bC4TypeOvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-type" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-filereference#sdk-for-ios-explore-s-7heresdk13FileReferenceV4typeAA0bC4TypeOvp" class="token"><code>type</code></a> 
 
   </div>
 
@@ -151,6 +151,10 @@ A struct that provides information for a file reference.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-filereferencetype">FileReferenceType</a>
+
   </div>
 
   </div>
@@ -159,7 +163,7 @@ A struct that provides information for a file reference.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13FileReferenceV13catalogHandles5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/catalogHandle" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-filereference#/s:7heresdk13FileReferenceV13catalogHandles5Int32Vvp" class="token"><code>catalogHandle</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13FileReferenceV13catalogHandles5Int32Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-catalogHandle" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-filereference#sdk-for-ios-explore-s-7heresdk13FileReferenceV13catalogHandles5Int32Vvp" class="token"><code>catalogHandle</code></a> 
 
   </div>
 
@@ -203,7 +207,7 @@ A struct that provides information for a file reference.
 
 - <div>
 
-      init(hostTileId: fileName: type: catalogHandle: )
+   <span id="sdk-for-ios-explore-s-7heresdk13FileReferenceV10hostTileId8fileName4type13catalogHandleACs5Int32V_SSAA0bC4TypeOAItcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-hostTileId-fileName-type-catalogHandle" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-filereference#sdk-for-ios-explore-s-7heresdk13FileReferenceV10hostTileId8fileName4type13catalogHandleACs5Int32V_SSAA0bC4TypeOAItcfc" class="token"><code>init(hostTileId:</code><wbr></wbr><code>fileName:</code><wbr></wbr><code>type:</code><wbr></wbr><code>catalogHandle:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -234,12 +238,14 @@ A struct that provides information for a file reference.
   Swift
 
   ``` highlight
-  public init ( hostTileId : Int32 , fileName : String , type : FileReferenceType , catalogHandle : Int32 )
+  public init(hostTileId: Int32, fileName: String, type: FileReferenceType, catalogHandle: Int32)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-filereferencetype">FileReferenceType</a>
 
   </div>
 

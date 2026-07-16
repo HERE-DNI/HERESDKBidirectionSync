@@ -27,7 +27,7 @@ Configuration of a data provider.
 
 - <div>
 
-  ` `<span id="/s:7heresdk29RasterDataSourceConfigurationV8ProviderV03urlF0ySSs5Int32V_A2Htcvp"></span>` `<span id="//apple_ref/swift/Property/urlProvider" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-rasterdatasourceconfiguration-provider#/s:7heresdk29RasterDataSourceConfigurationV8ProviderV03urlF0ySSs5Int32V_A2Htcvp" class="token"><code>urlProvider</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk29RasterDataSourceConfigurationV8ProviderV03urlF0ySSs5Int32V_A2Htcvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-urlProvider" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-rasterdatasourceconfiguration-provider#sdk-for-ios-navigate-s-7heresdk29RasterDataSourceConfigurationV8ProviderV03urlF0ySSs5Int32V_A2Htcvp" class="token"><code>urlProvider</code></a> 
 
   </div>
 
@@ -63,6 +63,10 @@ Configuration of a data provider.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-maps#sdk-for-ios-navigate-s-7heresdk21TileUrlRequestHandlera">TileUrlRequestHandler</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ Configuration of a data provider.
 
 - <div>
 
-  ` `<span id="/s:7heresdk29RasterDataSourceConfigurationV8ProviderV12tilingSchemeAA06TilingH0Ovp"></span>` `<span id="//apple_ref/swift/Property/tilingScheme" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-rasterdatasourceconfiguration-provider#/s:7heresdk29RasterDataSourceConfigurationV8ProviderV12tilingSchemeAA06TilingH0Ovp" class="token"><code>tilingScheme</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk29RasterDataSourceConfigurationV8ProviderV12tilingSchemeAA06TilingH0Ovp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-tilingScheme" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-rasterdatasourceconfiguration-provider#sdk-for-ios-navigate-s-7heresdk29RasterDataSourceConfigurationV8ProviderV12tilingSchemeAA06TilingH0Ovp" class="token"><code>tilingScheme</code></a> 
 
   </div>
 
@@ -107,6 +111,10 @@ Configuration of a data provider.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-tilingscheme">TilingScheme</a>
+
   </div>
 
   </div>
@@ -115,7 +123,7 @@ Configuration of a data provider.
 
 - <div>
 
-  ` `<span id="/s:7heresdk29RasterDataSourceConfigurationV8ProviderV13storageLevelsSays5Int32VGvp"></span>` `<span id="//apple_ref/swift/Property/storageLevels" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-rasterdatasourceconfiguration-provider#/s:7heresdk29RasterDataSourceConfigurationV8ProviderV13storageLevelsSays5Int32VGvp" class="token"><code>storageLevels</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk29RasterDataSourceConfigurationV8ProviderV13storageLevelsSays5Int32VGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-storageLevels" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-rasterdatasourceconfiguration-provider#sdk-for-ios-navigate-s-7heresdk29RasterDataSourceConfigurationV8ProviderV13storageLevelsSays5Int32VGvp" class="token"><code>storageLevels</code></a> 
 
   </div>
 
@@ -159,7 +167,7 @@ Configuration of a data provider.
 
 - <div>
 
-  ` `<span id="/s:7heresdk29RasterDataSourceConfigurationV8ProviderV15hasAlphaChannelSbvp"></span>` `<span id="//apple_ref/swift/Property/hasAlphaChannel" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-rasterdatasourceconfiguration-provider#/s:7heresdk29RasterDataSourceConfigurationV8ProviderV15hasAlphaChannelSbvp" class="token"><code>hasAlphaChannel</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk29RasterDataSourceConfigurationV8ProviderV15hasAlphaChannelSbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-hasAlphaChannel" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-rasterdatasourceconfiguration-provider#sdk-for-ios-navigate-s-7heresdk29RasterDataSourceConfigurationV8ProviderV15hasAlphaChannelSbvp" class="token"><code>hasAlphaChannel</code></a> 
 
   </div>
 
@@ -203,7 +211,7 @@ Configuration of a data provider.
 
 - <div>
 
-  ` `<span id="/s:7heresdk29RasterDataSourceConfigurationV8ProviderV7headersSDyS2SGSgvp"></span>` `<span id="//apple_ref/swift/Property/headers" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-rasterdatasourceconfiguration-provider#/s:7heresdk29RasterDataSourceConfigurationV8ProviderV7headersSDyS2SGSgvp" class="token"><code>headers</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk29RasterDataSourceConfigurationV8ProviderV7headersSDyS2SGSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-headers" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-rasterdatasourceconfiguration-provider#sdk-for-ios-navigate-s-7heresdk29RasterDataSourceConfigurationV8ProviderV7headersSDyS2SGSgvp" class="token"><code>headers</code></a> 
 
   </div>
 
@@ -247,7 +255,7 @@ Configuration of a data provider.
 
 - <div>
 
-      init(urlProvider: tilingScheme: storageLevels: hasAlphaChannel: headers: )
+   <span id="sdk-for-ios-navigate-s-7heresdk29RasterDataSourceConfigurationV8ProviderV03urlF012tilingScheme13storageLevels15hasAlphaChannel7headersAESSs5Int32V_A2Ltc_AA06TilingI0OSayALGSbSDyS2SGSgtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-urlProvider-tilingScheme-storageLevels-hasAlphaChannel-headers" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-rasterdatasourceconfiguration-provider#sdk-for-ios-navigate-s-7heresdk29RasterDataSourceConfigurationV8ProviderV03urlF012tilingScheme13storageLevels15hasAlphaChannel7headersAESSs5Int32V_A2Ltc_AA06TilingI0OSayALGSbSDyS2SGSgtcfc" class="token"><code>init(urlProvider:</code><wbr></wbr><code>tilingScheme:</code><wbr></wbr><code>storageLevels:</code><wbr></wbr><code>hasAlphaChannel:</code><wbr></wbr><code>headers:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -278,12 +286,15 @@ Configuration of a data provider.
   Swift
 
   ``` highlight
-  public init ( urlProvider : @escaping TileUrlRequestHandler , tilingScheme : TilingScheme , storageLevels : [ Int32 ], hasAlphaChannel : Bool = false , headers : [ String : String ]? = nil )
+  public init(urlProvider: @escaping TileUrlRequestHandler, tilingScheme: TilingScheme, storageLevels: [Int32], hasAlphaChannel: Bool = false, headers: [String : String]? = nil)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-maps#sdk-for-ios-navigate-s-7heresdk21TileUrlRequestHandlera">TileUrlRequestHandler</a>
+  - <a href="sdk-for-ios-navigate-enums-tilingscheme">TilingScheme</a>
 
   </div>
 

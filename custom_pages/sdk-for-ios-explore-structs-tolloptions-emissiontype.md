@@ -27,7 +27,7 @@ Supported options of emission type
 
 - <div>
 
-  ` `<span id="/s:7heresdk11TollOptionsV12EmissionTypeO5euro1yA2EmF"></span>` `<span id="//apple_ref/swift/Element/euro1" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-tolloptions-emissiontype#/s:7heresdk11TollOptionsV12EmissionTypeO5euro1yA2EmF" class="token"><code>euro1</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11TollOptionsV12EmissionTypeO5euro1yA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-euro1" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-tolloptions-emissiontype#sdk-for-ios-explore-s-7heresdk11TollOptionsV12EmissionTypeO5euro1yA2EmF" class="token"><code>euro1</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Supported options of emission type
 
 - <div>
 
-  ` `<span id="/s:7heresdk11TollOptionsV12EmissionTypeO5euro2yA2EmF"></span>` `<span id="//apple_ref/swift/Element/euro2" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-tolloptions-emissiontype#/s:7heresdk11TollOptionsV12EmissionTypeO5euro2yA2EmF" class="token"><code>euro2</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11TollOptionsV12EmissionTypeO5euro2yA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-euro2" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-tolloptions-emissiontype#sdk-for-ios-explore-s-7heresdk11TollOptionsV12EmissionTypeO5euro2yA2EmF" class="token"><code>euro2</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Supported options of emission type
 
 - <div>
 
-  ` `<span id="/s:7heresdk11TollOptionsV12EmissionTypeO5euro3yA2EmF"></span>` `<span id="//apple_ref/swift/Element/euro3" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-tolloptions-emissiontype#/s:7heresdk11TollOptionsV12EmissionTypeO5euro3yA2EmF" class="token"><code>euro3</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11TollOptionsV12EmissionTypeO5euro3yA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-euro3" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-tolloptions-emissiontype#sdk-for-ios-explore-s-7heresdk11TollOptionsV12EmissionTypeO5euro3yA2EmF" class="token"><code>euro3</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Supported options of emission type
 
 - <div>
 
-  ` `<span id="/s:7heresdk11TollOptionsV12EmissionTypeO5euro4yA2EmF"></span>` `<span id="//apple_ref/swift/Element/euro4" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-tolloptions-emissiontype#/s:7heresdk11TollOptionsV12EmissionTypeO5euro4yA2EmF" class="token"><code>euro4</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11TollOptionsV12EmissionTypeO5euro4yA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-euro4" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-tolloptions-emissiontype#sdk-for-ios-explore-s-7heresdk11TollOptionsV12EmissionTypeO5euro4yA2EmF" class="token"><code>euro4</code></a> 
 
   </div>
 
@@ -203,7 +203,7 @@ Supported options of emission type
 
 - <div>
 
-  ` `<span id="/s:7heresdk11TollOptionsV12EmissionTypeO5euro5yA2EmF"></span>` `<span id="//apple_ref/swift/Element/euro5" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-tolloptions-emissiontype#/s:7heresdk11TollOptionsV12EmissionTypeO5euro5yA2EmF" class="token"><code>euro5</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11TollOptionsV12EmissionTypeO5euro5yA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-euro5" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-tolloptions-emissiontype#sdk-for-ios-explore-s-7heresdk11TollOptionsV12EmissionTypeO5euro5yA2EmF" class="token"><code>euro5</code></a> 
 
   </div>
 
@@ -247,7 +247,7 @@ Supported options of emission type
 
 - <div>
 
-  ` `<span id="/s:7heresdk11TollOptionsV12EmissionTypeO5euro6yA2EmF"></span>` `<span id="//apple_ref/swift/Element/euro6" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-tolloptions-emissiontype#/s:7heresdk11TollOptionsV12EmissionTypeO5euro6yA2EmF" class="token"><code>euro6</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11TollOptionsV12EmissionTypeO5euro6yA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-euro6" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-tolloptions-emissiontype#sdk-for-ios-explore-s-7heresdk11TollOptionsV12EmissionTypeO5euro6yA2EmF" class="token"><code>euro6</code></a> 
 
   </div>
 
@@ -291,7 +291,7 @@ Supported options of emission type
 
 - <div>
 
-  ` `<span id="/s:7heresdk11TollOptionsV12EmissionTypeO7euroEevyA2EmF"></span>` `<span id="//apple_ref/swift/Element/euroEev" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-tolloptions-emissiontype#/s:7heresdk11TollOptionsV12EmissionTypeO7euroEevyA2EmF" class="token"><code>euroEev</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11TollOptionsV12EmissionTypeO7euroEevyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-euroEev" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-tolloptions-emissiontype#sdk-for-ios-explore-s-7heresdk11TollOptionsV12EmissionTypeO7euroEevyA2EmF" class="token"><code>euroEev</code></a> 
 
   </div>
 

@@ -27,7 +27,7 @@ Specifies the mode of transport used for route calculalation.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13TransportModeO3caryA2CmF"></span>` `<span id="//apple_ref/swift/Element/car" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-transportmode#/s:7heresdk13TransportModeO3caryA2CmF" class="token"><code>car</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13TransportModeO3caryA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-car" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-transportmode#sdk-for-ios-navigate-s-7heresdk13TransportModeO3caryA2CmF" class="token"><code>car</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Specifies the mode of transport used for route calculalation.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13TransportModeO5truckyA2CmF"></span>` `<span id="//apple_ref/swift/Element/truck" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-transportmode#/s:7heresdk13TransportModeO5truckyA2CmF" class="token"><code>truck</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13TransportModeO5truckyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-truck" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-transportmode#sdk-for-ios-navigate-s-7heresdk13TransportModeO5truckyA2CmF" class="token"><code>truck</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Specifies the mode of transport used for route calculalation.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13TransportModeO10pedestrianyA2CmF"></span>` `<span id="//apple_ref/swift/Element/pedestrian" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-transportmode#/s:7heresdk13TransportModeO10pedestrianyA2CmF" class="token"><code>pedestrian</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13TransportModeO10pedestrianyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-pedestrian" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-transportmode#sdk-for-ios-navigate-s-7heresdk13TransportModeO10pedestrianyA2CmF" class="token"><code>pedestrian</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Specifies the mode of transport used for route calculalation.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13TransportModeO7scooteryA2CmF"></span>` `<span id="//apple_ref/swift/Element/scooter" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-transportmode#/s:7heresdk13TransportModeO7scooteryA2CmF" class="token"><code>scooter</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13TransportModeO7scooteryA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-scooter" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-transportmode#sdk-for-ios-navigate-s-7heresdk13TransportModeO7scooteryA2CmF" class="token"><code>scooter</code></a> 
 
   </div>
 
@@ -203,7 +203,7 @@ Specifies the mode of transport used for route calculalation.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13TransportModeO7bicycleyA2CmF"></span>` `<span id="//apple_ref/swift/Element/bicycle" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-transportmode#/s:7heresdk13TransportModeO7bicycleyA2CmF" class="token"><code>bicycle</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13TransportModeO7bicycleyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-bicycle" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-transportmode#sdk-for-ios-navigate-s-7heresdk13TransportModeO7bicycleyA2CmF" class="token"><code>bicycle</code></a> 
 
   </div>
 
@@ -247,7 +247,7 @@ Specifies the mode of transport used for route calculalation.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13TransportModeO13publicTransityA2CmF"></span>` `<span id="//apple_ref/swift/Element/publicTransit" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-transportmode#/s:7heresdk13TransportModeO13publicTransityA2CmF" class="token"><code>publicTransit</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13TransportModeO13publicTransityA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-publicTransit" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-transportmode#sdk-for-ios-navigate-s-7heresdk13TransportModeO13publicTransityA2CmF" class="token"><code>publicTransit</code></a> 
 
   </div>
 
@@ -291,7 +291,7 @@ Specifies the mode of transport used for route calculalation.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13TransportModeO4taxiyA2CmF"></span>` `<span id="//apple_ref/swift/Element/taxi" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-transportmode#/s:7heresdk13TransportModeO4taxiyA2CmF" class="token"><code>taxi</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13TransportModeO4taxiyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-taxi" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-transportmode#sdk-for-ios-navigate-s-7heresdk13TransportModeO4taxiyA2CmF" class="token"><code>taxi</code></a> 
 
   </div>
 
@@ -337,7 +337,7 @@ Specifies the mode of transport used for route calculalation.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13TransportModeO3busyA2CmF"></span>` `<span id="//apple_ref/swift/Element/bus" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-transportmode#/s:7heresdk13TransportModeO3busyA2CmF" class="token"><code>bus</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13TransportModeO3busyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-bus" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-transportmode#sdk-for-ios-navigate-s-7heresdk13TransportModeO3busyA2CmF" class="token"><code>bus</code></a> 
 
   </div>
 
@@ -381,7 +381,7 @@ Specifies the mode of transport used for route calculalation.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13TransportModeO10privateBusyA2CmF"></span>` `<span id="//apple_ref/swift/Element/privateBus" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-transportmode#/s:7heresdk13TransportModeO10privateBusyA2CmF" class="token"><code>privateBus</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13TransportModeO10privateBusyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-privateBus" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-transportmode#sdk-for-ios-navigate-s-7heresdk13TransportModeO10privateBusyA2CmF" class="token"><code>privateBus</code></a> 
 
   </div>
 

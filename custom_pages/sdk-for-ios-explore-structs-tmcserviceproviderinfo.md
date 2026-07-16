@@ -27,7 +27,7 @@ Represents the service prodiver info in RDS-TMC format.
 
 - <div>
 
-  ` `<span id="/s:7heresdk22TMCServiceProviderInfoV6statuss5UInt8Vvp"></span>` `<span id="//apple_ref/swift/Property/status" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-tmcserviceproviderinfo#/s:7heresdk22TMCServiceProviderInfoV6statuss5UInt8Vvp" class="token"><code>status</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk22TMCServiceProviderInfoV6statuss5UInt8Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-status" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-tmcserviceproviderinfo#sdk-for-ios-explore-s-7heresdk22TMCServiceProviderInfoV6statuss5UInt8Vvp" class="token"><code>status</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Represents the service prodiver info in RDS-TMC format.
 
 - <div>
 
-  ` `<span id="/s:7heresdk22TMCServiceProviderInfoV11countryCodes5UInt8Vvp"></span>` `<span id="//apple_ref/swift/Property/countryCode" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-tmcserviceproviderinfo#/s:7heresdk22TMCServiceProviderInfoV11countryCodes5UInt8Vvp" class="token"><code>countryCode</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk22TMCServiceProviderInfoV11countryCodes5UInt8Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-countryCode" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-tmcserviceproviderinfo#sdk-for-ios-explore-s-7heresdk22TMCServiceProviderInfoV11countryCodes5UInt8Vvp" class="token"><code>countryCode</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Represents the service prodiver info in RDS-TMC format.
 
 - <div>
 
-  ` `<span id="/s:7heresdk22TMCServiceProviderInfoV3sids5UInt8Vvp"></span>` `<span id="//apple_ref/swift/Property/sid" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-tmcserviceproviderinfo#/s:7heresdk22TMCServiceProviderInfoV3sids5UInt8Vvp" class="token"><code>sid</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk22TMCServiceProviderInfoV3sids5UInt8Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-sid" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-tmcserviceproviderinfo#sdk-for-ios-explore-s-7heresdk22TMCServiceProviderInfoV3sids5UInt8Vvp" class="token"><code>sid</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Represents the service prodiver info in RDS-TMC format.
 
 - <div>
 
-  ` `<span id="/s:7heresdk22TMCServiceProviderInfoV9ltnNumbers5UInt8Vvp"></span>` `<span id="//apple_ref/swift/Property/ltnNumber" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-tmcserviceproviderinfo#/s:7heresdk22TMCServiceProviderInfoV9ltnNumbers5UInt8Vvp" class="token"><code>ltnNumber</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk22TMCServiceProviderInfoV9ltnNumbers5UInt8Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-ltnNumber" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-tmcserviceproviderinfo#sdk-for-ios-explore-s-7heresdk22TMCServiceProviderInfoV9ltnNumbers5UInt8Vvp" class="token"><code>ltnNumber</code></a> 
 
   </div>
 
@@ -203,7 +203,7 @@ Represents the service prodiver info in RDS-TMC format.
 
 - <div>
 
-  ` `<span id="/s:7heresdk22TMCServiceProviderInfoV18encryptionTestModes5UInt8Vvp"></span>` `<span id="//apple_ref/swift/Property/encryptionTestMode" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-tmcserviceproviderinfo#/s:7heresdk22TMCServiceProviderInfoV18encryptionTestModes5UInt8Vvp" class="token"><code>encryptionTestMode</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk22TMCServiceProviderInfoV18encryptionTestModes5UInt8Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-encryptionTestMode" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-tmcserviceproviderinfo#sdk-for-ios-explore-s-7heresdk22TMCServiceProviderInfoV18encryptionTestModes5UInt8Vvp" class="token"><code>encryptionTestMode</code></a> 
 
   </div>
 
@@ -247,7 +247,7 @@ Represents the service prodiver info in RDS-TMC format.
 
 - <div>
 
-  ` `<span id="/s:7heresdk22TMCServiceProviderInfoV12encryptionIds5UInt8Vvp"></span>` `<span id="//apple_ref/swift/Property/encryptionId" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-tmcserviceproviderinfo#/s:7heresdk22TMCServiceProviderInfoV12encryptionIds5UInt8Vvp" class="token"><code>encryptionId</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk22TMCServiceProviderInfoV12encryptionIds5UInt8Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-encryptionId" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-tmcserviceproviderinfo#sdk-for-ios-explore-s-7heresdk22TMCServiceProviderInfoV12encryptionIds5UInt8Vvp" class="token"><code>encryptionId</code></a> 
 
   </div>
 
@@ -291,7 +291,7 @@ Represents the service prodiver info in RDS-TMC format.
 
 - <div>
 
-  ` `<span id="/s:7heresdk22TMCServiceProviderInfoV19ltnBeforeEncryptions5UInt8Vvp"></span>` `<span id="//apple_ref/swift/Property/ltnBeforeEncryption" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-tmcserviceproviderinfo#/s:7heresdk22TMCServiceProviderInfoV19ltnBeforeEncryptions5UInt8Vvp" class="token"><code>ltnBeforeEncryption</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk22TMCServiceProviderInfoV19ltnBeforeEncryptions5UInt8Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-ltnBeforeEncryption" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-tmcserviceproviderinfo#sdk-for-ios-explore-s-7heresdk22TMCServiceProviderInfoV19ltnBeforeEncryptions5UInt8Vvp" class="token"><code>ltnBeforeEncryption</code></a> 
 
   </div>
 
@@ -335,7 +335,7 @@ Represents the service prodiver info in RDS-TMC format.
 
 - <div>
 
-      init(status: countryCode: sid: ltnNumber: encryptionTestMode: encryptionId: ltnBeforeEncryption: )
+   <span id="sdk-for-ios-explore-s-7heresdk22TMCServiceProviderInfoV6status11countryCode3sid9ltnNumber18encryptionTestMode0K2Id0I16BeforeEncryptionACs5UInt8V_A6Ltcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-status-countryCode-sid-ltnNumber-encryptionTestMode-encryptionId-ltnBeforeEncryption" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-tmcserviceproviderinfo#sdk-for-ios-explore-s-7heresdk22TMCServiceProviderInfoV6status11countryCode3sid9ltnNumber18encryptionTestMode0K2Id0I16BeforeEncryptionACs5UInt8V_A6Ltcfc" class="token"><code>init(status:</code><wbr></wbr><code>countryCode:</code><wbr></wbr><code>sid:</code><wbr></wbr><code>ltnNumber:</code><wbr></wbr><code>encryptionTestMode:</code><wbr></wbr><code>encryptionId:</code><wbr></wbr><code>ltnBeforeEncryption:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -366,10 +366,8 @@ Represents the service prodiver info in RDS-TMC format.
   Swift
 
   ``` highlight
-  public init ( status : UInt8 , countryCode : UInt8 , sid : UInt8 , ltnNumber : UInt8 , encryptionTestMode : UInt8 , encryptionId : UInt8 , ltnBeforeEncryption : UInt8 )
+  public init(status: UInt8, countryCode: UInt8, sid: UInt8, ltnNumber: UInt8, encryptionTestMode: UInt8, encryptionId: UInt8, ltnBeforeEncryption: UInt8)
   ```
-
-  </pre>
 
   </div>
 

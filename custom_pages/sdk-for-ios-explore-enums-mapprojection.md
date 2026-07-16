@@ -27,7 +27,7 @@ The map projection used for rendering.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13MapProjectionO5globeyA2CmF"></span>` `<span id="//apple_ref/swift/Element/globe" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-mapprojection#/s:7heresdk13MapProjectionO5globeyA2CmF" class="token"><code>globe</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13MapProjectionO5globeyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-globe" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-mapprojection#sdk-for-ios-explore-s-7heresdk13MapProjectionO5globeyA2CmF" class="token"><code>globe</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ The map projection used for rendering.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13MapProjectionO11webMercatoryA2CmF"></span>` `<span id="//apple_ref/swift/Element/webMercator" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-mapprojection#/s:7heresdk13MapProjectionO11webMercatoryA2CmF" class="token"><code>webMercator</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13MapProjectionO11webMercatoryA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-webMercator" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-mapprojection#sdk-for-ios-explore-s-7heresdk13MapProjectionO11webMercatoryA2CmF" class="token"><code>webMercator</code></a> 
 
   </div>
 

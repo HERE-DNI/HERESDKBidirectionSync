@@ -35,7 +35,7 @@ This class contains colors used by <a href="sdk-for-ios-explore-classes-visualna
 
 - <div>
 
-  ` `<span id="/s:7heresdk21VisualNavigatorColorsC18maneuverArrowColorSo7UIColorCvp"></span>` `<span id="//apple_ref/swift/Property/maneuverArrowColor" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-visualnavigatorcolors#/s:7heresdk21VisualNavigatorColorsC18maneuverArrowColorSo7UIColorCvp" class="token"><code>maneuverArrowColor</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk21VisualNavigatorColorsC18maneuverArrowColorSo7UIColorCvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-maneuverArrowColor" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-visualnavigatorcolors#sdk-for-ios-explore-s-7heresdk21VisualNavigatorColorsC18maneuverArrowColorSo7UIColorCvp" class="token"><code>maneuverArrowColor</code></a> 
 
   </div>
 
@@ -79,7 +79,7 @@ This class contains colors used by <a href="sdk-for-ios-explore-classes-visualna
 
 - <div>
 
-  ` `<span id="/s:7heresdk21VisualNavigatorColorsC014trafficOnRouteD0AA07TrafficfgD0Vvp"></span>` `<span id="//apple_ref/swift/Property/trafficOnRouteColors" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-visualnavigatorcolors#/s:7heresdk21VisualNavigatorColorsC014trafficOnRouteD0AA07TrafficfgD0Vvp" class="token"><code>trafficOnRouteColors</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk21VisualNavigatorColorsC014trafficOnRouteD0AA07TrafficfgD0Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-trafficOnRouteColors" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-visualnavigatorcolors#sdk-for-ios-explore-s-7heresdk21VisualNavigatorColorsC014trafficOnRouteD0AA07TrafficfgD0Vvp" class="token"><code>trafficOnRouteColors</code></a> 
 
   </div>
 
@@ -115,6 +115,10 @@ This class contains colors used by <a href="sdk-for-ios-explore-classes-visualna
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-trafficonroutecolors">TrafficOnRouteColors</a>
+
   </div>
 
   </div>
@@ -123,7 +127,7 @@ This class contains colors used by <a href="sdk-for-ios-explore-classes-visualna
 
 - <div>
 
-      setRouteProgressColors(sectionTransportMode: routeProgressColors: )
+   <span id="sdk-for-ios-explore-s-7heresdk21VisualNavigatorColorsC016setRouteProgressD020sectionTransportMode05routegD0yAA07SectioniJ0O_AA0fgD0VtF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-setRouteProgressColors-sectionTransportMode-routeProgressColors" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-visualnavigatorcolors#sdk-for-ios-explore-s-7heresdk21VisualNavigatorColorsC016setRouteProgressD020sectionTransportMode05routegD0yAA07SectioniJ0O_AA0fgD0VtF" class="token"><code>setRouteProgressColors(sectionTransportMode:</code><wbr></wbr><code>routeProgressColors:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -154,12 +158,15 @@ This class contains colors used by <a href="sdk-for-ios-explore-classes-visualna
   Swift
 
   ``` highlight
-  public func setRouteProgressColors ( sectionTransportMode : SectionTransportMode , routeProgressColors : RouteProgressColors )
+  public func setRouteProgressColors(sectionTransportMode: SectionTransportMode, routeProgressColors: RouteProgressColors)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-sectiontransportmode">SectionTransportMode</a>
+  - <a href="sdk-for-ios-explore-structs-routeprogresscolors">RouteProgressColors</a>
 
   </div>
 
@@ -196,7 +203,7 @@ This class contains colors used by <a href="sdk-for-ios-explore-classes-visualna
 
 - <div>
 
-      getRouteProgressColors(sectionTransportMode: )
+   <span id="sdk-for-ios-explore-s-7heresdk21VisualNavigatorColorsC016getRouteProgressD020sectionTransportModeAA0fgD0VAA07SectioniJ0O_tF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-getRouteProgressColors-sectionTransportMode" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-visualnavigatorcolors#sdk-for-ios-explore-s-7heresdk21VisualNavigatorColorsC016getRouteProgressD020sectionTransportModeAA0fgD0VAA07SectioniJ0O_tF" class="token"><code>getRouteProgressColors(sectionTransportMode:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -227,12 +234,15 @@ This class contains colors used by <a href="sdk-for-ios-explore-classes-visualna
   Swift
 
   ``` highlight
-  public func getRouteProgressColors ( sectionTransportMode : SectionTransportMode ) -> RouteProgressColors
+  public func getRouteProgressColors(sectionTransportMode: SectionTransportMode) -> RouteProgressColors
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-sectiontransportmode">SectionTransportMode</a>
+  - <a href="sdk-for-ios-explore-structs-routeprogresscolors">RouteProgressColors</a>
 
   </div>
 
@@ -271,7 +281,7 @@ This class contains colors used by <a href="sdk-for-ios-explore-classes-visualna
 
 - <div>
 
-      dayColors()
+   <span id="sdk-for-ios-explore-s-7heresdk21VisualNavigatorColorsC03dayD0ACyFZ"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-dayColors" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-visualnavigatorcolors#sdk-for-ios-explore-s-7heresdk21VisualNavigatorColorsC03dayD0ACyFZ" class="token"><code>dayColors()</code></a> 
 
   </div>
 
@@ -302,10 +312,8 @@ This class contains colors used by <a href="sdk-for-ios-explore-classes-visualna
   Swift
 
   ``` highlight
-  public static func dayColors () -> VisualNavigatorColors
+  public static func dayColors() -> VisualNavigatorColors
   ```
-
-  </pre>
 
   </div>
 
@@ -325,7 +333,7 @@ This class contains colors used by <a href="sdk-for-ios-explore-classes-visualna
 
 - <div>
 
-      nightColors()
+   <span id="sdk-for-ios-explore-s-7heresdk21VisualNavigatorColorsC05nightD0ACyFZ"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-nightColors" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-visualnavigatorcolors#sdk-for-ios-explore-s-7heresdk21VisualNavigatorColorsC05nightD0ACyFZ" class="token"><code>nightColors()</code></a> 
 
   </div>
 
@@ -356,10 +364,8 @@ This class contains colors used by <a href="sdk-for-ios-explore-classes-visualna
   Swift
 
   ``` highlight
-  public static func nightColors () -> VisualNavigatorColors
+  public static func nightColors() -> VisualNavigatorColors
   ```
-
-  </pre>
 
   </div>
 

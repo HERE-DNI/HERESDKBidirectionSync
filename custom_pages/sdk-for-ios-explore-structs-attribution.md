@@ -27,7 +27,7 @@ Holds all the data on a URL address to an external resource.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11AttributionV4hrefSSSgvp"></span>` `<span id="//apple_ref/swift/Property/href" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-attribution#/s:7heresdk11AttributionV4hrefSSSgvp" class="token"><code>href</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11AttributionV4hrefSSSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-href" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-attribution#sdk-for-ios-explore-s-7heresdk11AttributionV4hrefSSSgvp" class="token"><code>href</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Holds all the data on a URL address to an external resource.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11AttributionV4textSSvp"></span>` `<span id="//apple_ref/swift/Property/text" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-attribution#/s:7heresdk11AttributionV4textSSvp" class="token"><code>text</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11AttributionV4textSSvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-text" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-attribution#sdk-for-ios-explore-s-7heresdk11AttributionV4textSSvp" class="token"><code>text</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Holds all the data on a URL address to an external resource.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11AttributionV8hrefTextSSSgvp"></span>` `<span id="//apple_ref/swift/Property/hrefText" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-attribution#/s:7heresdk11AttributionV8hrefTextSSSgvp" class="token"><code>hrefText</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11AttributionV8hrefTextSSSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-hrefText" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-attribution#sdk-for-ios-explore-s-7heresdk11AttributionV8hrefTextSSSgvp" class="token"><code>hrefText</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Holds all the data on a URL address to an external resource.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11AttributionV4typeAA0B4TypeOvp"></span>` `<span id="//apple_ref/swift/Property/type" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-attribution#/s:7heresdk11AttributionV4typeAA0B4TypeOvp" class="token"><code>type</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11AttributionV4typeAA0B4TypeOvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-type" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-attribution#sdk-for-ios-explore-s-7heresdk11AttributionV4typeAA0B4TypeOvp" class="token"><code>type</code></a> 
 
   </div>
 
@@ -194,6 +194,10 @@ Holds all the data on a URL address to an external resource.
   ```
 
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-attributiontype">AttributionType</a>
 
   </div>
 

@@ -31,7 +31,7 @@ See <a href="sdk-for-ios-navigate-structs-poipaymentdetails">`POIPaymentDetails`
 
 - <div>
 
-  ` `<span id="/s:7heresdk16POIPaymentMethodV4amexSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/amex" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-poipaymentmethod#/s:7heresdk16POIPaymentMethodV4amexSSvpZ" class="token"><code>amex</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16POIPaymentMethodV4amexSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-amex" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-poipaymentmethod#sdk-for-ios-navigate-s-7heresdk16POIPaymentMethodV4amexSSvpZ" class="token"><code>amex</code></a> 
 
   </div>
 
@@ -75,7 +75,7 @@ See <a href="sdk-for-ios-navigate-structs-poipaymentdetails">`POIPaymentDetails`
 
 - <div>
 
-  ` `<span id="/s:7heresdk16POIPaymentMethodV5ampolSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/ampol" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-poipaymentmethod#/s:7heresdk16POIPaymentMethodV5ampolSSvpZ" class="token"><code>ampol</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16POIPaymentMethodV5ampolSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-ampol" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-poipaymentmethod#sdk-for-ios-navigate-s-7heresdk16POIPaymentMethodV5ampolSSvpZ" class="token"><code>ampol</code></a> 
 
   </div>
 
@@ -119,7 +119,7 @@ See <a href="sdk-for-ios-navigate-structs-poipaymentdetails">`POIPaymentDetails`
 
 - <div>
 
-  ` `<span id="/s:7heresdk16POIPaymentMethodV10androidPaySSvpZ"></span>` `<span id="//apple_ref/swift/Variable/androidPay" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-poipaymentmethod#/s:7heresdk16POIPaymentMethodV10androidPaySSvpZ" class="token"><code>androidPay</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16POIPaymentMethodV10androidPaySSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-androidPay" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-poipaymentmethod#sdk-for-ios-navigate-s-7heresdk16POIPaymentMethodV10androidPaySSvpZ" class="token"><code>androidPay</code></a> 
 
   </div>
 
@@ -163,7 +163,7 @@ See <a href="sdk-for-ios-navigate-structs-poipaymentdetails">`POIPaymentDetails`
 
 - <div>
 
-  ` `<span id="/s:7heresdk16POIPaymentMethodV8applePaySSvpZ"></span>` `<span id="//apple_ref/swift/Variable/applePay" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-poipaymentmethod#/s:7heresdk16POIPaymentMethodV8applePaySSvpZ" class="token"><code>applePay</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16POIPaymentMethodV8applePaySSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-applePay" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-poipaymentmethod#sdk-for-ios-navigate-s-7heresdk16POIPaymentMethodV8applePaySSvpZ" class="token"><code>applePay</code></a> 
 
   </div>
 
@@ -207,7 +207,7 @@ See <a href="sdk-for-ios-navigate-structs-poipaymentdetails">`POIPaymentDetails`
 
 - <div>
 
-  ` `<span id="/s:7heresdk16POIPaymentMethodV4cashSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/cash" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-poipaymentmethod#/s:7heresdk16POIPaymentMethodV4cashSSvpZ" class="token"><code>cash</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16POIPaymentMethodV4cashSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-cash" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-poipaymentmethod#sdk-for-ios-navigate-s-7heresdk16POIPaymentMethodV4cashSSvpZ" class="token"><code>cash</code></a> 
 
   </div>
 
@@ -251,7 +251,7 @@ See <a href="sdk-for-ios-navigate-structs-poipaymentdetails">`POIPaymentDetails`
 
 - <div>
 
-  ` `<span id="/s:7heresdk16POIPaymentMethodV6chequeSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/cheque" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-poipaymentmethod#/s:7heresdk16POIPaymentMethodV6chequeSSvpZ" class="token"><code>cheque</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16POIPaymentMethodV6chequeSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-cheque" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-poipaymentmethod#sdk-for-ios-navigate-s-7heresdk16POIPaymentMethodV6chequeSSvpZ" class="token"><code>cheque</code></a> 
 
   </div>
 
@@ -295,7 +295,7 @@ See <a href="sdk-for-ios-navigate-structs-poipaymentdetails">`POIPaymentDetails`
 
 - <div>
 
-  ` `<span id="/s:7heresdk16POIPaymentMethodV9debitCardSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/debitCard" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-poipaymentmethod#/s:7heresdk16POIPaymentMethodV9debitCardSSvpZ" class="token"><code>debitCard</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16POIPaymentMethodV9debitCardSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-debitCard" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-poipaymentmethod#sdk-for-ios-navigate-s-7heresdk16POIPaymentMethodV9debitCardSSvpZ" class="token"><code>debitCard</code></a> 
 
   </div>
 
@@ -339,7 +339,7 @@ See <a href="sdk-for-ios-navigate-structs-poipaymentdetails">`POIPaymentDetails`
 
 - <div>
 
-  ` `<span id="/s:7heresdk16POIPaymentMethodV10dinersClubSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/dinersClub" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-poipaymentmethod#/s:7heresdk16POIPaymentMethodV10dinersClubSSvpZ" class="token"><code>dinersClub</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16POIPaymentMethodV10dinersClubSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-dinersClub" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-poipaymentmethod#sdk-for-ios-navigate-s-7heresdk16POIPaymentMethodV10dinersClubSSvpZ" class="token"><code>dinersClub</code></a> 
 
   </div>
 
@@ -383,7 +383,7 @@ See <a href="sdk-for-ios-navigate-structs-poipaymentdetails">`POIPaymentDetails`
 
 - <div>
 
-  ` `<span id="/s:7heresdk16POIPaymentMethodV8discoverSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/discover" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-poipaymentmethod#/s:7heresdk16POIPaymentMethodV8discoverSSvpZ" class="token"><code>discover</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16POIPaymentMethodV8discoverSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-discover" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-poipaymentmethod#sdk-for-ios-navigate-s-7heresdk16POIPaymentMethodV8discoverSSvpZ" class="token"><code>discover</code></a> 
 
   </div>
 
@@ -427,7 +427,7 @@ See <a href="sdk-for-ios-navigate-structs-poipaymentdetails">`POIPaymentDetails`
 
 - <div>
 
-  ` `<span id="/s:7heresdk16POIPaymentMethodV3dkvSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/dkv" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-poipaymentmethod#/s:7heresdk16POIPaymentMethodV3dkvSSvpZ" class="token"><code>dkv</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16POIPaymentMethodV3dkvSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-dkv" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-poipaymentmethod#sdk-for-ios-navigate-s-7heresdk16POIPaymentMethodV3dkvSSvpZ" class="token"><code>dkv</code></a> 
 
   </div>
 
@@ -471,7 +471,7 @@ See <a href="sdk-for-ios-navigate-structs-poipaymentdetails">`POIPaymentDetails`
 
 - <div>
 
-  ` `<span id="/s:7heresdk16POIPaymentMethodV9financingSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/financing" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-poipaymentmethod#/s:7heresdk16POIPaymentMethodV9financingSSvpZ" class="token"><code>financing</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16POIPaymentMethodV9financingSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-financing" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-poipaymentmethod#sdk-for-ios-navigate-s-7heresdk16POIPaymentMethodV9financingSSvpZ" class="token"><code>financing</code></a> 
 
   </div>
 
@@ -515,7 +515,7 @@ See <a href="sdk-for-ios-navigate-structs-poipaymentdetails">`POIPaymentDetails`
 
 - <div>
 
-  ` `<span id="/s:7heresdk16POIPaymentMethodV10mastercardSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/mastercard" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-poipaymentmethod#/s:7heresdk16POIPaymentMethodV10mastercardSSvpZ" class="token"><code>mastercard</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16POIPaymentMethodV10mastercardSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-mastercard" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-poipaymentmethod#sdk-for-ios-navigate-s-7heresdk16POIPaymentMethodV10mastercardSSvpZ" class="token"><code>mastercard</code></a> 
 
   </div>
 
@@ -559,7 +559,7 @@ See <a href="sdk-for-ios-navigate-structs-poipaymentdetails">`POIPaymentDetails`
 
 - <div>
 
-  ` `<span id="/s:7heresdk16POIPaymentMethodV9motorpassSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/motorpass" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-poipaymentmethod#/s:7heresdk16POIPaymentMethodV9motorpassSSvpZ" class="token"><code>motorpass</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16POIPaymentMethodV9motorpassSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-motorpass" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-poipaymentmethod#sdk-for-ios-navigate-s-7heresdk16POIPaymentMethodV9motorpassSSvpZ" class="token"><code>motorpass</code></a> 
 
   </div>
 
@@ -603,7 +603,7 @@ See <a href="sdk-for-ios-navigate-structs-poipaymentdetails">`POIPaymentDetails`
 
 - <div>
 
-  ` `<span id="/s:7heresdk16POIPaymentMethodV6paypalSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/paypal" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-poipaymentmethod#/s:7heresdk16POIPaymentMethodV6paypalSSvpZ" class="token"><code>paypal</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16POIPaymentMethodV6paypalSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-paypal" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-poipaymentmethod#sdk-for-ios-navigate-s-7heresdk16POIPaymentMethodV6paypalSSvpZ" class="token"><code>paypal</code></a> 
 
   </div>
 
@@ -647,7 +647,7 @@ See <a href="sdk-for-ios-navigate-structs-poipaymentdetails">`POIPaymentDetails`
 
 - <div>
 
-  ` `<span id="/s:7heresdk16POIPaymentMethodV5shellSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/shell" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-poipaymentmethod#/s:7heresdk16POIPaymentMethodV5shellSSvpZ" class="token"><code>shell</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16POIPaymentMethodV5shellSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-shell" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-poipaymentmethod#sdk-for-ios-navigate-s-7heresdk16POIPaymentMethodV5shellSSvpZ" class="token"><code>shell</code></a> 
 
   </div>
 
@@ -691,7 +691,7 @@ See <a href="sdk-for-ios-navigate-structs-poipaymentdetails">`POIPaymentDetails`
 
 - <div>
 
-  ` `<span id="/s:7heresdk16POIPaymentMethodV4visaSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/visa" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-poipaymentmethod#/s:7heresdk16POIPaymentMethodV4visaSSvpZ" class="token"><code>visa</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16POIPaymentMethodV4visaSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-visa" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-poipaymentmethod#sdk-for-ios-navigate-s-7heresdk16POIPaymentMethodV4visaSSvpZ" class="token"><code>visa</code></a> 
 
   </div>
 

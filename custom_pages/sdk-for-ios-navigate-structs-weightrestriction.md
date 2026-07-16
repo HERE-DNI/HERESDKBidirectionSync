@@ -27,7 +27,7 @@ Defines a weight restriction.
 
 - <div>
 
-  ` `<span id="/s:7heresdk17WeightRestrictionV16valueInKilogramss5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/valueInKilograms" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-weightrestriction#/s:7heresdk17WeightRestrictionV16valueInKilogramss5Int32Vvp" class="token"><code>valueInKilograms</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk17WeightRestrictionV16valueInKilogramss5Int32Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-valueInKilograms" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-weightrestriction#sdk-for-ios-navigate-s-7heresdk17WeightRestrictionV16valueInKilogramss5Int32Vvp" class="token"><code>valueInKilograms</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Defines a weight restriction.
 
 - <div>
 
-  ` `<span id="/s:7heresdk17WeightRestrictionV4typeAA0bC4TypeOvp"></span>` `<span id="//apple_ref/swift/Property/type" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-weightrestriction#/s:7heresdk17WeightRestrictionV4typeAA0bC4TypeOvp" class="token"><code>type</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk17WeightRestrictionV4typeAA0bC4TypeOvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-type" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-weightrestriction#sdk-for-ios-navigate-s-7heresdk17WeightRestrictionV4typeAA0bC4TypeOvp" class="token"><code>type</code></a> 
 
   </div>
 
@@ -107,6 +107,10 @@ Defines a weight restriction.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-weightrestrictiontype">WeightRestrictionType</a>
+
   </div>
 
   </div>
@@ -115,7 +119,7 @@ Defines a weight restriction.
 
 - <div>
 
-      init(valueInKilograms: type: )
+   <span id="sdk-for-ios-navigate-s-7heresdk17WeightRestrictionV16valueInKilograms4typeACs5Int32V_AA0bC4TypeOtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-valueInKilograms-type" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-weightrestriction#sdk-for-ios-navigate-s-7heresdk17WeightRestrictionV16valueInKilograms4typeACs5Int32V_AA0bC4TypeOtcfc" class="token"><code>init(valueInKilograms:</code><wbr></wbr><code>type:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -146,12 +150,14 @@ Defines a weight restriction.
   Swift
 
   ``` highlight
-  public init ( valueInKilograms : Int32 , type : WeightRestrictionType )
+  public init(valueInKilograms: Int32, type: WeightRestrictionType)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-weightrestrictiontype">WeightRestrictionType</a>
 
   </div>
 

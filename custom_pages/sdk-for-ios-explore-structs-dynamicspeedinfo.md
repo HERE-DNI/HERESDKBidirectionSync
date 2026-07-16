@@ -27,7 +27,7 @@ Provides estimated speed information.
 
 - <div>
 
-  ` `<span id="/s:7heresdk16DynamicSpeedInfoV04baseC17InMetersPerSecondSdvp"></span>` `<span id="//apple_ref/swift/Property/baseSpeedInMetersPerSecond" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-dynamicspeedinfo#/s:7heresdk16DynamicSpeedInfoV04baseC17InMetersPerSecondSdvp" class="token"><code>baseSpeedInMetersPerSecond</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16DynamicSpeedInfoV04baseC17InMetersPerSecondSdvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-baseSpeedInMetersPerSecond" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-dynamicspeedinfo#sdk-for-ios-explore-s-7heresdk16DynamicSpeedInfoV04baseC17InMetersPerSecondSdvp" class="token"><code>baseSpeedInMetersPerSecond</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Provides estimated speed information.
 
 - <div>
 
-  ` `<span id="/s:7heresdk16DynamicSpeedInfoV07trafficC17InMetersPerSecondSdvp"></span>` `<span id="//apple_ref/swift/Property/trafficSpeedInMetersPerSecond" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-dynamicspeedinfo#/s:7heresdk16DynamicSpeedInfoV07trafficC17InMetersPerSecondSdvp" class="token"><code>trafficSpeedInMetersPerSecond</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16DynamicSpeedInfoV07trafficC17InMetersPerSecondSdvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-trafficSpeedInMetersPerSecond" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-dynamicspeedinfo#sdk-for-ios-explore-s-7heresdk16DynamicSpeedInfoV07trafficC17InMetersPerSecondSdvp" class="token"><code>trafficSpeedInMetersPerSecond</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Provides estimated speed information.
 
 - <div>
 
-  ` `<span id="/s:7heresdk16DynamicSpeedInfoV17turnTimeInSecondss5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/turnTimeInSeconds" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-dynamicspeedinfo#/s:7heresdk16DynamicSpeedInfoV17turnTimeInSecondss5Int32Vvp" class="token"><code>turnTimeInSeconds</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16DynamicSpeedInfoV17turnTimeInSecondss5Int32Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-turnTimeInSeconds" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-dynamicspeedinfo#sdk-for-ios-explore-s-7heresdk16DynamicSpeedInfoV17turnTimeInSecondss5Int32Vvp" class="token"><code>turnTimeInSeconds</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Provides estimated speed information.
 
 - <div>
 
-      init(baseSpeedInMetersPerSecond: trafficSpeedInMetersPerSecond: turnTimeInSeconds: )
+   <span id="sdk-for-ios-explore-s-7heresdk16DynamicSpeedInfoV04baseC17InMetersPerSecond07trafficcfghI008turnTimeF7SecondsACSd_Sds5Int32Vtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-baseSpeedInMetersPerSecond-trafficSpeedInMetersPerSecond-turnTimeInSeconds" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-dynamicspeedinfo#sdk-for-ios-explore-s-7heresdk16DynamicSpeedInfoV04baseC17InMetersPerSecond07trafficcfghI008turnTimeF7SecondsACSd_Sds5Int32Vtcfc" class="token"><code>init(baseSpeedInMetersPerSecond:</code><wbr></wbr><code>trafficSpeedInMetersPerSecond:</code><wbr></wbr><code>turnTimeInSeconds:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -190,10 +190,8 @@ Provides estimated speed information.
   Swift
 
   ``` highlight
-  public init ( baseSpeedInMetersPerSecond : Double , trafficSpeedInMetersPerSecond : Double , turnTimeInSeconds : Int32 )
+  public init(baseSpeedInMetersPerSecond: Double, trafficSpeedInMetersPerSecond: Double, turnTimeInSeconds: Int32)
   ```
-
-  </pre>
 
   </div>
 
@@ -205,7 +203,7 @@ Provides estimated speed information.
 
 - <div>
 
-      calculateJamFactor()
+   <span id="sdk-for-ios-explore-s-7heresdk16DynamicSpeedInfoV18calculateJamFactorSdyF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-calculateJamFactor" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-dynamicspeedinfo#sdk-for-ios-explore-s-7heresdk16DynamicSpeedInfoV18calculateJamFactorSdyF" class="token"><code>calculateJamFactor()</code></a> 
 
   </div>
 
@@ -236,10 +234,8 @@ Provides estimated speed information.
   Swift
 
   ``` highlight
-  public func calculateJamFactor () -> Double
+  public func calculateJamFactor() -> Double
   ```
-
-  </pre>
 
   </div>
 

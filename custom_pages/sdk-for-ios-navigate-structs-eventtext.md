@@ -27,7 +27,7 @@ Contains all the information regarding the next text announcement.
 
 - <div>
 
-  ` `<span id="/s:7heresdk9EventTextV4typeAA0C16NotificationTypeOvp"></span>` `<span id="//apple_ref/swift/Property/type" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-eventtext#/s:7heresdk9EventTextV4typeAA0C16NotificationTypeOvp" class="token"><code>type</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9EventTextV4typeAA0C16NotificationTypeOvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-type" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-eventtext#sdk-for-ios-navigate-s-7heresdk9EventTextV4typeAA0C16NotificationTypeOvp" class="token"><code>type</code></a> 
 
   </div>
 
@@ -63,6 +63,10 @@ Contains all the information regarding the next text announcement.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-textnotificationtype">TextNotificationType</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ Contains all the information regarding the next text announcement.
 
 - <div>
 
-  ` `<span id="/s:7heresdk9EventTextV16distanceInMetersSdvp"></span>` `<span id="//apple_ref/swift/Property/distanceInMeters" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-eventtext#/s:7heresdk9EventTextV16distanceInMetersSdvp" class="token"><code>distanceInMeters</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9EventTextV16distanceInMetersSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-distanceInMeters" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-eventtext#sdk-for-ios-navigate-s-7heresdk9EventTextV16distanceInMetersSdvp" class="token"><code>distanceInMeters</code></a> 
 
   </div>
 
@@ -117,7 +121,7 @@ Contains all the information regarding the next text announcement.
 
 - <div>
 
-  ` `<span id="/s:7heresdk9EventTextV4textSSvp"></span>` `<span id="//apple_ref/swift/Property/text" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-eventtext#/s:7heresdk9EventTextV4textSSvp" class="token"><code>text</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9EventTextV4textSSvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-text" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-eventtext#sdk-for-ios-navigate-s-7heresdk9EventTextV4textSSvp" class="token"><code>text</code></a> 
 
   </div>
 
@@ -163,7 +167,7 @@ Contains all the information regarding the next text announcement.
 
 - <div>
 
-  ` `<span id="/s:7heresdk9EventTextV27maneuverNotificationDetailsAA08ManeuvereF0VSgvp"></span>` `<span id="//apple_ref/swift/Property/maneuverNotificationDetails" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-eventtext#/s:7heresdk9EventTextV27maneuverNotificationDetailsAA08ManeuvereF0VSgvp" class="token"><code>maneuverNotificationDetails</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9EventTextV27maneuverNotificationDetailsAA08ManeuvereF0VSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-maneuverNotificationDetails" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-eventtext#sdk-for-ios-navigate-s-7heresdk9EventTextV27maneuverNotificationDetailsAA08ManeuvereF0VSgvp" class="token"><code>maneuverNotificationDetails</code></a> 
 
   </div>
 
@@ -181,7 +185,7 @@ Contains all the information regarding the next text announcement.
 
   <div class="abstract">
 
-  Information about the next maneuver. Is non-`nil` only for <a href="sdk-for-ios-navigate-structs-eventtext#/s:7heresdk9EventTextV4typeAA0C16NotificationTypeOvp">`EventText.type`</a> equals to <a href="sdk-for-ios-navigate-enums-textnotificationtype#/s:7heresdk20TextNotificationTypeO8maneuveryA2CmF">`TextNotificationType.maneuver`</a>.
+  Information about the next maneuver. Is non-`nil` only for <a href="sdk-for-ios-navigate-structs-eventtext#sdk-for-ios-navigate-s-7heresdk9EventTextV4typeAA0C16NotificationTypeOvp">`EventText.type`</a> equals to <a href="sdk-for-ios-navigate-enums-textnotificationtype#sdk-for-ios-navigate-s-7heresdk20TextNotificationTypeO8maneuveryA2CmF">`TextNotificationType.maneuver`</a>.
 
   </div>
 
@@ -199,6 +203,10 @@ Contains all the information regarding the next text announcement.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-maneuvernotificationdetails">ManeuverNotificationDetails</a>
+
   </div>
 
   </div>
@@ -207,7 +215,7 @@ Contains all the information regarding the next text announcement.
 
 - <div>
 
-  ` `<span id="/s:7heresdk9EventTextV26spatialNotificationDetailsAA07SpatialeF0VSgvp"></span>` `<span id="//apple_ref/swift/Property/spatialNotificationDetails" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-eventtext#/s:7heresdk9EventTextV26spatialNotificationDetailsAA07SpatialeF0VSgvp" class="token"><code>spatialNotificationDetails</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9EventTextV26spatialNotificationDetailsAA07SpatialeF0VSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-spatialNotificationDetails" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-eventtext#sdk-for-ios-navigate-s-7heresdk9EventTextV26spatialNotificationDetailsAA07SpatialeF0VSgvp" class="token"><code>spatialNotificationDetails</code></a> 
 
   </div>
 
@@ -225,7 +233,7 @@ Contains all the information regarding the next text announcement.
 
   <div class="abstract">
 
-  Information for a spatial text notifications. When <a href="sdk-for-ios-navigate-structs-eventtextoptions#/s:7heresdk16EventTextOptionsV18enableSpatialAudioSbvp">`EventTextOptions.enableSpatialAudio`</a> is false, then this attribute will be `nil`.
+  Information for a spatial text notifications. When <a href="sdk-for-ios-navigate-structs-eventtextoptions#sdk-for-ios-navigate-s-7heresdk16EventTextOptionsV18enableSpatialAudioSbvp">`EventTextOptions.enableSpatialAudio`</a> is false, then this attribute will be `nil`.
 
   </div>
 
@@ -243,6 +251,10 @@ Contains all the information regarding the next text announcement.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-spatialnotificationdetails">SpatialNotificationDetails</a>
+
   </div>
 
   </div>
@@ -251,7 +263,7 @@ Contains all the information regarding the next text announcement.
 
 - <div>
 
-      init(type: distanceInMeters: text: maneuverNotificationDetails: spatialNotificationDetails: )
+   <span id="sdk-for-ios-navigate-s-7heresdk9EventTextV4type16distanceInMeters4text27maneuverNotificationDetails07spatialjK0AcA0cJ4TypeO_SdSSAA08ManeuverjK0VSgAA07SpatialjK0VSgtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-type-distanceInMeters-text-maneuverNotificationDetails-spatialNotificationDetails" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-eventtext#sdk-for-ios-navigate-s-7heresdk9EventTextV4type16distanceInMeters4text27maneuverNotificationDetails07spatialjK0AcA0cJ4TypeO_SdSSAA08ManeuverjK0VSgAA07SpatialjK0VSgtcfc" class="token"><code>init(type:</code><wbr></wbr><code>distanceInMeters:</code><wbr></wbr><code>text:</code><wbr></wbr><code>maneuverNotificationDetails:</code><wbr></wbr><code>spatialNotificationDetails:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -282,8 +294,8 @@ Contains all the information regarding the next text announcement.
 
     **Note:** During navigation, the text will be always empty when the <a href="sdk-for-ios-navigate-classes-maneuver">`Maneuver`</a> is taken from the <a href="sdk-for-ios-navigate-classes-navigator">`Navigator`</a> or <a href="sdk-for-ios-navigate-classes-visualnavigator">`VisualNavigator`</a> instance via the provided index. The text instruction that can be accessed from the <a href="sdk-for-ios-navigate-classes-route">`Route`</a> instance is meant as preview and it is not necessarily matching the more comprehensive maneuver information you can access during navigation. This information can be enhanced with real-time `ManeuverNotifications` texts that can be used for spoken text notifications during a trip.
 
-    - maneuverNotificationDetails: Information about the next maneuver. Is non-`nil` only for <a href="sdk-for-ios-navigate-structs-eventtext#/s:7heresdk9EventTextV4typeAA0C16NotificationTypeOvp">`EventText.type`</a> equals to <a href="sdk-for-ios-navigate-enums-textnotificationtype#/s:7heresdk20TextNotificationTypeO8maneuveryA2CmF">`TextNotificationType.maneuver`</a>.
-    - spatialNotificationDetails: Information for a spatial text notifications. When <a href="sdk-for-ios-navigate-structs-eventtextoptions#/s:7heresdk16EventTextOptionsV18enableSpatialAudioSbvp">`EventTextOptions.enableSpatialAudio`</a> is false, then this attribute will be `nil`.
+    - maneuverNotificationDetails: Information about the next maneuver. Is non-`nil` only for <a href="sdk-for-ios-navigate-structs-eventtext#sdk-for-ios-navigate-s-7heresdk9EventTextV4typeAA0C16NotificationTypeOvp">`EventText.type`</a> equals to <a href="sdk-for-ios-navigate-enums-textnotificationtype#sdk-for-ios-navigate-s-7heresdk20TextNotificationTypeO8maneuveryA2CmF">`TextNotificationType.maneuver`</a>.
+    - spatialNotificationDetails: Information for a spatial text notifications. When <a href="sdk-for-ios-navigate-structs-eventtextoptions#sdk-for-ios-navigate-s-7heresdk16EventTextOptionsV18enableSpatialAudioSbvp">`EventTextOptions.enableSpatialAudio`</a> is false, then this attribute will be `nil`.
 
   </div>
 
@@ -296,12 +308,16 @@ Contains all the information regarding the next text announcement.
   Swift
 
   ``` highlight
-  public init ( type : TextNotificationType , distanceInMeters : Double , text : String , maneuverNotificationDetails : ManeuverNotificationDetails ? = nil , spatialNotificationDetails : SpatialNotificationDetails ? = nil )
+  public init(type: TextNotificationType, distanceInMeters: Double, text: String, maneuverNotificationDetails: ManeuverNotificationDetails? = nil, spatialNotificationDetails: SpatialNotificationDetails? = nil)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-textnotificationtype">TextNotificationType</a>
+  - <a href="sdk-for-ios-navigate-structs-maneuvernotificationdetails">ManeuverNotificationDetails</a>
+  - <a href="sdk-for-ios-navigate-structs-spatialnotificationdetails">SpatialNotificationDetails</a>
 
   </div>
 

@@ -27,7 +27,7 @@ Represents the parameters used to request the traffic broadcast.
 
 - <div>
 
-  ` `<span id="/s:7heresdk17TMCServiceRequestV11countryCodes5UInt8Vvp"></span>` `<span id="//apple_ref/swift/Property/countryCode" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-tmcservicerequest#/s:7heresdk17TMCServiceRequestV11countryCodes5UInt8Vvp" class="token"><code>countryCode</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk17TMCServiceRequestV11countryCodes5UInt8Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-countryCode" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-tmcservicerequest#sdk-for-ios-navigate-s-7heresdk17TMCServiceRequestV11countryCodes5UInt8Vvp" class="token"><code>countryCode</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Represents the parameters used to request the traffic broadcast.
 
 - <div>
 
-  ` `<span id="/s:7heresdk17TMCServiceRequestV13preferredSidsSays5UInt8VGvp"></span>` `<span id="//apple_ref/swift/Property/preferredSids" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-tmcservicerequest#/s:7heresdk17TMCServiceRequestV13preferredSidsSays5UInt8VGvp" class="token"><code>preferredSids</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk17TMCServiceRequestV13preferredSidsSays5UInt8VGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-preferredSids" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-tmcservicerequest#sdk-for-ios-navigate-s-7heresdk17TMCServiceRequestV13preferredSidsSays5UInt8VGvp" class="token"><code>preferredSids</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Represents the parameters used to request the traffic broadcast.
 
 - <div>
 
-  ` `<span id="/s:7heresdk17TMCServiceRequestV13supportedLtnsSays5UInt8VGvp"></span>` `<span id="//apple_ref/swift/Property/supportedLtns" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-tmcservicerequest#/s:7heresdk17TMCServiceRequestV13supportedLtnsSays5UInt8VGvp" class="token"><code>supportedLtns</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk17TMCServiceRequestV13supportedLtnsSays5UInt8VGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-supportedLtns" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-tmcservicerequest#sdk-for-ios-navigate-s-7heresdk17TMCServiceRequestV13supportedLtnsSays5UInt8VGvp" class="token"><code>supportedLtns</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Represents the parameters used to request the traffic broadcast.
 
 - <div>
 
-      init(countryCode: preferredSids: supportedLtns: )
+   <span id="sdk-for-ios-navigate-s-7heresdk17TMCServiceRequestV11countryCode13preferredSids13supportedLtnsACs5UInt8V_SayAHGAItcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-countryCode-preferredSids-supportedLtns" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-tmcservicerequest#sdk-for-ios-navigate-s-7heresdk17TMCServiceRequestV11countryCode13preferredSids13supportedLtnsACs5UInt8V_SayAHGAItcfc" class="token"><code>init(countryCode:</code><wbr></wbr><code>preferredSids:</code><wbr></wbr><code>supportedLtns:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -190,10 +190,8 @@ Represents the parameters used to request the traffic broadcast.
   Swift
 
   ``` highlight
-  public init ( countryCode : UInt8 , preferredSids : [ UInt8 ], supportedLtns : [ UInt8 ])
+  public init(countryCode: UInt8, preferredSids: [UInt8], supportedLtns: [UInt8])
   ```
-
-  </pre>
 
   </div>
 

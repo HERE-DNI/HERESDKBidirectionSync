@@ -27,7 +27,7 @@ Result handler of a load tile request.
 
 - <div>
 
-      loaded(tileKey: data: metadata: )
+   <span id="sdk-for-ios-explore-s-7heresdk33RasterTileSourceLoadResultHandlerP6loaded7tileKey4data8metadatayAA0cJ0V_10Foundation4DataVAA0cdC8MetadataVtF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-loaded-tileKey-data-metadata" class="dashAnchor"></span> <a href="sdk-for-ios-explore-protocols-rastertilesourceloadresulthandler#sdk-for-ios-explore-s-7heresdk33RasterTileSourceLoadResultHandlerP6loaded7tileKey4data8metadatayAA0cJ0V_10Foundation4DataVAA0cdC8MetadataVtF" class="token"><code>loaded(tileKey:</code><wbr></wbr><code>data:</code><wbr></wbr><code>metadata:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -58,12 +58,15 @@ Result handler of a load tile request.
   Swift
 
   ``` highlight
-  func loaded ( tileKey : TileKey , data : Data , metadata : TileSourceTileMetadata )
+  func loaded(tileKey: TileKey, data: Data, metadata: TileSourceTileMetadata)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-tilekey">TileKey</a>
+  - <a href="sdk-for-ios-explore-structs-tilesourcetilemetadata">TileSourceTileMetadata</a>
 
   </div>
 
@@ -106,7 +109,7 @@ Result handler of a load tile request.
 
 - <div>
 
-      failed(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk33RasterTileSourceLoadResultHandlerP6failedyyAA0C3KeyVF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-failed-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-protocols-rastertilesourceloadresulthandler#sdk-for-ios-explore-s-7heresdk33RasterTileSourceLoadResultHandlerP6failedyyAA0C3KeyVF" class="token"><code>failed(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -137,12 +140,14 @@ Result handler of a load tile request.
   Swift
 
   ``` highlight
-  func failed ( _ tileKey : TileKey )
+  func failed(_ tileKey: TileKey)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-tilekey">TileKey</a>
 
   </div>
 

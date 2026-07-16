@@ -17,12 +17,7 @@ public struct FunctionalRoadClassZoomPolicyOptions
 
 </div>
 
-Configuration for mapping functional road classes to zoom levels. For correct default initialization, use
-
-    TrackingCameraBehavior.defaultFunctionalRoadClassZoomPolicyOptions(...)
-
-.
-</p>
+Configuration for mapping functional road classes to zoom levels. For correct default initialization, use <a href="sdk-for-ios-explore-classes-trackingcamerabehavior#sdk-for-ios-explore-s-7heresdk22TrackingCameraBehaviorC43defaultFunctionalRoadClassZoomPolicyOptionsAC0fghijK0VyFZ">`TrackingCameraBehavior.defaultFunctionalRoadClassZoomPolicyOptions(...)`</a>.
 
 </div>
 
@@ -32,7 +27,7 @@ Configuration for mapping functional road classes to zoom levels. For correct de
 
 - <div>
 
-  ` `<span id="/s:7heresdk22TrackingCameraBehaviorC36FunctionalRoadClassZoomPolicyOptionsV07defaultH0AA10MapMeasureVvp"></span>` `<span id="//apple_ref/swift/Property/defaultZoom" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-trackingcamerabehavior-functionalroadclasszoompolicyoptions#/s:7heresdk22TrackingCameraBehaviorC36FunctionalRoadClassZoomPolicyOptionsV07defaultH0AA10MapMeasureVvp" class="token"><code>defaultZoom</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk22TrackingCameraBehaviorC36FunctionalRoadClassZoomPolicyOptionsV07defaultH0AA10MapMeasureVvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-defaultZoom" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-trackingcamerabehavior-functionalroadclasszoompolicyoptions#sdk-for-ios-explore-s-7heresdk22TrackingCameraBehaviorC36FunctionalRoadClassZoomPolicyOptionsV07defaultH0AA10MapMeasureVvp" class="token"><code>defaultZoom</code></a> 
 
   </div>
 
@@ -50,7 +45,7 @@ Configuration for mapping functional road classes to zoom levels. For correct de
 
   <div class="abstract">
 
-  Default zoom returned when the functional road class is missing or unmapped. Defaults to a <a href="sdk-for-ios-explore-structs-mapmeasure">`MapMeasure`</a> with kind <a href="sdk-for-ios-explore-structs-mapmeasure-kind#/s:7heresdk10MapMeasureV4KindO9zoomLevelyA2EmF">`MapMeasure.Kind.zoomLevel`</a> and value 16.5.
+  Default zoom returned when the functional road class is missing or unmapped. Defaults to a <a href="sdk-for-ios-explore-structs-mapmeasure">`MapMeasure`</a> with kind <a href="sdk-for-ios-explore-structs-mapmeasure-kind#sdk-for-ios-explore-s-7heresdk10MapMeasureV4KindO9zoomLevelyA2EmF">`MapMeasure.Kind.zoomLevel`</a> and value 16.5.
 
   </div>
 
@@ -68,6 +63,10 @@ Configuration for mapping functional road classes to zoom levels. For correct de
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-mapmeasure">MapMeasure</a>
+
   </div>
 
   </div>
@@ -76,7 +75,7 @@ Configuration for mapping functional road classes to zoom levels. For correct de
 
 - <div>
 
-  ` `<span id="/s:7heresdk22TrackingCameraBehaviorC36FunctionalRoadClassZoomPolicyOptionsV010functionalfg2ToH0SDyAA0efG0OAA10MapMeasureVGvp"></span>` `<span id="//apple_ref/swift/Property/functionalRoadClassToZoom" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-trackingcamerabehavior-functionalroadclasszoompolicyoptions#/s:7heresdk22TrackingCameraBehaviorC36FunctionalRoadClassZoomPolicyOptionsV010functionalfg2ToH0SDyAA0efG0OAA10MapMeasureVGvp" class="token"><code>functionalRoadClassToZoom</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk22TrackingCameraBehaviorC36FunctionalRoadClassZoomPolicyOptionsV010functionalfg2ToH0SDyAA0efG0OAA10MapMeasureVGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-functionalRoadClassToZoom" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-trackingcamerabehavior-functionalroadclasszoompolicyoptions#sdk-for-ios-explore-s-7heresdk22TrackingCameraBehaviorC36FunctionalRoadClassZoomPolicyOptionsV010functionalfg2ToH0SDyAA0efG0OAA10MapMeasureVGvp" class="token"><code>functionalRoadClassToZoom</code></a> 
 
   </div>
 
@@ -94,12 +93,7 @@ Configuration for mapping functional road classes to zoom levels. For correct de
 
   <div class="abstract">
 
-  Maps each functional road class to the zoom that should be used for it. If
-
-      TrackingCameraBehavior.defaultFunctionalRoadClassZoomPolicyOptions(...)
-
-  is not used for `TrackingCameraBehavior.FunctionalRoadClassZoomPolicyOptions`, it will be an empty map.
-  </p>
+  Maps each functional road class to the zoom that should be used for it. If <a href="sdk-for-ios-explore-classes-trackingcamerabehavior#sdk-for-ios-explore-s-7heresdk22TrackingCameraBehaviorC43defaultFunctionalRoadClassZoomPolicyOptionsAC0fghijK0VyFZ">`TrackingCameraBehavior.defaultFunctionalRoadClassZoomPolicyOptions(...)`</a> is not used for `TrackingCameraBehavior.FunctionalRoadClassZoomPolicyOptions`, it will be an empty map.
 
   </div>
 
@@ -117,6 +111,11 @@ Configuration for mapping functional road classes to zoom levels. For correct de
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-functionalroadclass">FunctionalRoadClass</a>
+  - <a href="sdk-for-ios-explore-structs-mapmeasure">MapMeasure</a>
+
   </div>
 
   </div>
@@ -125,7 +124,7 @@ Configuration for mapping functional road classes to zoom levels. For correct de
 
 - <div>
 
-      init(defaultZoom: functionalRoadClassToZoom: )
+   <span id="sdk-for-ios-explore-s-7heresdk22TrackingCameraBehaviorC36FunctionalRoadClassZoomPolicyOptionsV07defaultH0010functionalfg2ToH0AeA10MapMeasureV_SDyAA0efG0OAIGtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-defaultZoom-functionalRoadClassToZoom" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-trackingcamerabehavior-functionalroadclasszoompolicyoptions#sdk-for-ios-explore-s-7heresdk22TrackingCameraBehaviorC36FunctionalRoadClassZoomPolicyOptionsV07defaultH0010functionalfg2ToH0AeA10MapMeasureV_SDyAA0efG0OAIGtcfc" class="token"><code>init(defaultZoom:</code><wbr></wbr><code>functionalRoadClassToZoom:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -158,12 +157,16 @@ Configuration for mapping functional road classes to zoom levels. For correct de
   Swift
 
   ``` highlight
-  public init ( defaultZoom : MapMeasure = MapMeasure ( kind : MapMeasure . Kind . zoomLevel , value : 16.5 ), functionalRoadClassToZoom : [ FunctionalRoadClass : MapMeasure ] = [:])
+  public init(defaultZoom: MapMeasure = MapMeasure(kind: MapMeasure.Kind.zoomLevel, value: 16.5), functionalRoadClassToZoom: [FunctionalRoadClass : MapMeasure] = [:])
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-trackingcamerabehavior-functionalroadclasszoompolicyoptions#sdk-for-ios-explore-s-7heresdk22TrackingCameraBehaviorC36FunctionalRoadClassZoomPolicyOptionsV07defaultH0AA10MapMeasureVvp">defaultZoom</a>
+  - <a href="sdk-for-ios-explore-structs-mapmeasure">MapMeasure</a>
+  - <a href="sdk-for-ios-explore-enums-functionalroadclass">FunctionalRoadClass</a>
 
   </div>
 

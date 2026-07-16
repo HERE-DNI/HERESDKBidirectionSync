@@ -27,7 +27,7 @@ This class is used to initialize internals of the SDK. Usually shouldn’t be us
 
 - <div>
 
-      initializeInternalsIfNecessary()
+   <span id="sdk-for-ios-navigate-c-M-heresdk-objc-csSDKInternalInitializer-iminitializeInternalsIfNecessary"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-initializeInternalsIfNecessary" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-sdkinternalinitializer#sdk-for-ios-navigate-c-M-heresdk-objc-csSDKInternalInitializer-iminitializeInternalsIfNecessary" class="token"><code>initializeInternalsIfNecessary()</code></a> 
 
   </div>
 
@@ -58,10 +58,9 @@ This class is used to initialize internals of the SDK. Usually shouldn’t be us
   Swift
 
   ``` highlight
-  @objc public func initializeInternalsIfNecessary ()
+  @objc
+  public func initializeInternalsIfNecessary()
   ```
-
-  </pre>
 
   </div>
 

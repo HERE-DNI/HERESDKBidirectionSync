@@ -27,7 +27,7 @@ A struct that provides information for a toll booth.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13TollBoothLaneV5boothAA0bC0Vvp"></span>` `<span id="//apple_ref/swift/Property/booth" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-tollboothlane#/s:7heresdk13TollBoothLaneV5boothAA0bC0Vvp" class="token"><code>booth</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13TollBoothLaneV5boothAA0bC0Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-booth" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-tollboothlane#sdk-for-ios-explore-s-7heresdk13TollBoothLaneV5boothAA0bC0Vvp" class="token"><code>booth</code></a> 
 
   </div>
 
@@ -63,6 +63,10 @@ A struct that provides information for a toll booth.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-tollbooth">TollBooth</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ A struct that provides information for a toll booth.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13TollBoothLaneV6accessAA0D6AccessVvp"></span>` `<span id="//apple_ref/swift/Property/access" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-tollboothlane#/s:7heresdk13TollBoothLaneV6accessAA0D6AccessVvp" class="token"><code>access</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13TollBoothLaneV6accessAA0D6AccessVvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-access" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-tollboothlane#sdk-for-ios-explore-s-7heresdk13TollBoothLaneV6accessAA0D6AccessVvp" class="token"><code>access</code></a> 
 
   </div>
 
@@ -107,6 +111,10 @@ A struct that provides information for a toll booth.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-laneaccess">LaneAccess</a>
+
   </div>
 
   </div>
@@ -115,7 +123,7 @@ A struct that provides information for a toll booth.
 
 - <div>
 
-      init(booth: access: )
+   <span id="sdk-for-ios-explore-s-7heresdk13TollBoothLaneV5booth6accessAcA0bC0V_AA0D6AccessVtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-booth-access" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-tollboothlane#sdk-for-ios-explore-s-7heresdk13TollBoothLaneV5booth6accessAcA0bC0V_AA0D6AccessVtcfc" class="token"><code>init(booth:</code><wbr></wbr><code>access:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -146,12 +154,15 @@ A struct that provides information for a toll booth.
   Swift
 
   ``` highlight
-  public init ( booth : TollBooth , access : LaneAccess )
+  public init(booth: TollBooth, access: LaneAccess)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-tollbooth">TollBooth</a>
+  - <a href="sdk-for-ios-explore-structs-laneaccess">LaneAccess</a>
 
   </div>
 

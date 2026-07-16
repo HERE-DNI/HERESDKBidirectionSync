@@ -10,10 +10,9 @@ slug: "sdk-for-ios-explore-structs-privatebusoptions"
 <div class="language">
 
 ``` highlight
-@available(*, deprecated, message: "Will be removed in v4.28.0. Use `RoutingOptions` class instead.") public struct PrivateBusOptions : Hashable
+@available(*, deprecated, message: "Will be removed in v4.28.0. Use `RoutingOptions` class instead.")
+public struct PrivateBusOptions : Hashable
 ```
-
-</pre>
 
 </div>
 
@@ -29,7 +28,7 @@ All the options to specify how a private bus route should be calculated.
 
 - <div>
 
-  ` `<span id="/s:7heresdk17PrivateBusOptionsV05routeD0AA05RouteD0Vvp"></span>` `<span id="//apple_ref/swift/Property/routeOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-privatebusoptions#/s:7heresdk17PrivateBusOptionsV05routeD0AA05RouteD0Vvp" class="token"><code>routeOptions</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17PrivateBusOptionsV05routeD0AA05RouteD0Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-routeOptions" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-privatebusoptions#sdk-for-ios-explore-s-7heresdk17PrivateBusOptionsV05routeD0AA05RouteD0Vvp" class="token"><code>routeOptions</code></a> 
 
   </div>
 
@@ -65,6 +64,10 @@ All the options to specify how a private bus route should be calculated.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-routeoptions">RouteOptions</a>
+
   </div>
 
   </div>
@@ -73,7 +76,7 @@ All the options to specify how a private bus route should be calculated.
 
 - <div>
 
-  ` `<span id="/s:7heresdk17PrivateBusOptionsV04textD0AA09RouteTextD0Vvp"></span>` `<span id="//apple_ref/swift/Property/textOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-privatebusoptions#/s:7heresdk17PrivateBusOptionsV04textD0AA09RouteTextD0Vvp" class="token"><code>textOptions</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17PrivateBusOptionsV04textD0AA09RouteTextD0Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-textOptions" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-privatebusoptions#sdk-for-ios-explore-s-7heresdk17PrivateBusOptionsV04textD0AA09RouteTextD0Vvp" class="token"><code>textOptions</code></a> 
 
   </div>
 
@@ -109,6 +112,10 @@ All the options to specify how a private bus route should be calculated.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-routetextoptions">RouteTextOptions</a>
+
   </div>
 
   </div>
@@ -117,7 +124,7 @@ All the options to specify how a private bus route should be calculated.
 
 - <div>
 
-  ` `<span id="/s:7heresdk17PrivateBusOptionsV09avoidanceD0AA09AvoidanceD0Vvp"></span>` `<span id="//apple_ref/swift/Property/avoidanceOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-privatebusoptions#/s:7heresdk17PrivateBusOptionsV09avoidanceD0AA09AvoidanceD0Vvp" class="token"><code>avoidanceOptions</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17PrivateBusOptionsV09avoidanceD0AA09AvoidanceD0Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-avoidanceOptions" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-privatebusoptions#sdk-for-ios-explore-s-7heresdk17PrivateBusOptionsV09avoidanceD0AA09AvoidanceD0Vvp" class="token"><code>avoidanceOptions</code></a> 
 
   </div>
 
@@ -153,6 +160,10 @@ All the options to specify how a private bus route should be calculated.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-avoidanceoptions">AvoidanceOptions</a>
+
   </div>
 
   </div>
@@ -161,7 +172,7 @@ All the options to specify how a private bus route should be calculated.
 
 - <div>
 
-  ` `<span id="/s:7heresdk17PrivateBusOptionsV04tollD0AA04TollD0Vvp"></span>` `<span id="//apple_ref/swift/Property/tollOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-privatebusoptions#/s:7heresdk17PrivateBusOptionsV04tollD0AA04TollD0Vvp" class="token"><code>tollOptions</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17PrivateBusOptionsV04tollD0AA04TollD0Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-tollOptions" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-privatebusoptions#sdk-for-ios-explore-s-7heresdk17PrivateBusOptionsV04tollD0AA04TollD0Vvp" class="token"><code>tollOptions</code></a> 
 
   </div>
 
@@ -197,6 +208,10 @@ All the options to specify how a private bus route should be calculated.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-tolloptions">TollOptions</a>
+
   </div>
 
   </div>
@@ -205,7 +220,7 @@ All the options to specify how a private bus route should be calculated.
 
 - <div>
 
-  ` `<span id="/s:7heresdk17PrivateBusOptionsV05allowD0AA05AllowD0Vvp"></span>` `<span id="//apple_ref/swift/Property/allowOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-privatebusoptions#/s:7heresdk17PrivateBusOptionsV05allowD0AA05AllowD0Vvp" class="token"><code>allowOptions</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17PrivateBusOptionsV05allowD0AA05AllowD0Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-allowOptions" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-privatebusoptions#sdk-for-ios-explore-s-7heresdk17PrivateBusOptionsV05allowD0AA05AllowD0Vvp" class="token"><code>allowOptions</code></a> 
 
   </div>
 
@@ -241,6 +256,10 @@ All the options to specify how a private bus route should be calculated.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-allowoptions">AllowOptions</a>
+
   </div>
 
   </div>
@@ -249,7 +268,7 @@ All the options to specify how a private bus route should be calculated.
 
 - <div>
 
-  ` `<span id="/s:7heresdk17PrivateBusOptionsV15occupantsNumbers5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/occupantsNumber" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-privatebusoptions#/s:7heresdk17PrivateBusOptionsV15occupantsNumbers5Int32Vvp" class="token"><code>occupantsNumber</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17PrivateBusOptionsV15occupantsNumbers5Int32Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-occupantsNumber" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-privatebusoptions#sdk-for-ios-explore-s-7heresdk17PrivateBusOptionsV15occupantsNumbers5Int32Vvp" class="token"><code>occupantsNumber</code></a> 
 
   </div>
 
@@ -269,7 +288,7 @@ All the options to specify how a private bus route should be calculated.
 
   Specifies the number of occupants in the vehicle, including driver, can affect the vehicle’s ability to use HOV/carpool restricted lanes. Shouldn’t be less than 1 or greater than 255. Defaults to 1.
 
-  **Note:** This parameter has no effect unless HOV and/or HOT lane usage is enabled via <a href="sdk-for-ios-explore-structs-privatebusoptions#/s:7heresdk17PrivateBusOptionsV05allowD0AA05AllowD0Vvp">`PrivateBusOptions.allowOptions`</a> and such lanes are available in the selected country.
+  **Note:** This parameter has no effect unless HOV and/or HOT lane usage is enabled via <a href="sdk-for-ios-explore-structs-privatebusoptions#sdk-for-ios-explore-s-7heresdk17PrivateBusOptionsV05allowD0AA05AllowD0Vvp">`PrivateBusOptions.allowOptions`</a> and such lanes are available in the selected country.
 
   </div>
 
@@ -295,7 +314,7 @@ All the options to specify how a private bus route should be calculated.
 
 - <div>
 
-  ` `<span id="/s:7heresdk17PrivateBusOptionsV27lastCharacterOfLicensePlateSSSgvp"></span>` `<span id="//apple_ref/swift/Property/lastCharacterOfLicensePlate" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-privatebusoptions#/s:7heresdk17PrivateBusOptionsV27lastCharacterOfLicensePlateSSSgvp" class="token"><code>lastCharacterOfLicensePlate</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17PrivateBusOptionsV27lastCharacterOfLicensePlateSSSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-lastCharacterOfLicensePlate" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-privatebusoptions#sdk-for-ios-explore-s-7heresdk17PrivateBusOptionsV27lastCharacterOfLicensePlateSSSgvp" class="token"><code>lastCharacterOfLicensePlate</code></a> 
 
   </div>
 
@@ -341,7 +360,7 @@ All the options to specify how a private bus route should be calculated.
 
 - <div>
 
-  ` `<span id="/s:7heresdk17PrivateBusOptionsV18maxSpeedOnSegmentsSayAA03MaxfG7SegmentVGvp"></span>` `<span id="//apple_ref/swift/Property/maxSpeedOnSegments" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-privatebusoptions#/s:7heresdk17PrivateBusOptionsV18maxSpeedOnSegmentsSayAA03MaxfG7SegmentVGvp" class="token"><code>maxSpeedOnSegments</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17PrivateBusOptionsV18maxSpeedOnSegmentsSayAA03MaxfG7SegmentVGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-maxSpeedOnSegments" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-privatebusoptions#sdk-for-ios-explore-s-7heresdk17PrivateBusOptionsV18maxSpeedOnSegmentsSayAA03MaxfG7SegmentVGvp" class="token"><code>maxSpeedOnSegments</code></a> 
 
   </div>
 
@@ -377,6 +396,10 @@ All the options to specify how a private bus route should be calculated.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-maxspeedonsegment">MaxSpeedOnSegment</a>
+
   </div>
 
   </div>
@@ -385,7 +408,7 @@ All the options to specify how a private bus route should be calculated.
 
 - <div>
 
-  ` `<span id="/s:7heresdk17PrivateBusOptionsV17busSpecificationsAA0cF0Vvp"></span>` `<span id="//apple_ref/swift/Property/busSpecifications" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-privatebusoptions#/s:7heresdk17PrivateBusOptionsV17busSpecificationsAA0cF0Vvp" class="token"><code>busSpecifications</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17PrivateBusOptionsV17busSpecificationsAA0cF0Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-busSpecifications" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-privatebusoptions#sdk-for-ios-explore-s-7heresdk17PrivateBusOptionsV17busSpecificationsAA0cF0Vvp" class="token"><code>busSpecifications</code></a> 
 
   </div>
 
@@ -407,10 +430,10 @@ All the options to specify how a private bus route should be calculated.
 
   **Note:** Some members of `bus_specifications` have limited value range.
 
-  - <a href="sdk-for-ios-explore-structs-busspecifications#/s:7heresdk17BusSpecificationsV22grossWeightInKilogramss5Int32VSgvp">`BusSpecifications.grossWeightInKilograms`</a> must not be negative.
-  - <a href="sdk-for-ios-explore-structs-busspecifications#/s:7heresdk17BusSpecificationsV19heightInCentimeterss5Int32VSgvp">`BusSpecifications.heightInCentimeters`</a> must be in the range \[0, 5000\].
-  - <a href="sdk-for-ios-explore-structs-busspecifications#/s:7heresdk17BusSpecificationsV18widthInCentimeterss5Int32VSgvp">`BusSpecifications.widthInCentimeters`</a> must be in the range \[0, 5000\].
-  - <a href="sdk-for-ios-explore-structs-busspecifications#/s:7heresdk17BusSpecificationsV19lengthInCentimeterss5Int32VSgvp">`BusSpecifications.lengthInCentimeters`</a> must be in the range \[0, 30000\]. The validation of the range is done in the method that takes `PrivateBusOptions` as parameter.
+  - <a href="sdk-for-ios-explore-structs-busspecifications#sdk-for-ios-explore-s-7heresdk17BusSpecificationsV22grossWeightInKilogramss5Int32VSgvp">`BusSpecifications.grossWeightInKilograms`</a> must not be negative.
+  - <a href="sdk-for-ios-explore-structs-busspecifications#sdk-for-ios-explore-s-7heresdk17BusSpecificationsV19heightInCentimeterss5Int32VSgvp">`BusSpecifications.heightInCentimeters`</a> must be in the range \[0, 5000\].
+  - <a href="sdk-for-ios-explore-structs-busspecifications#sdk-for-ios-explore-s-7heresdk17BusSpecificationsV18widthInCentimeterss5Int32VSgvp">`BusSpecifications.widthInCentimeters`</a> must be in the range \[0, 5000\].
+  - <a href="sdk-for-ios-explore-structs-busspecifications#sdk-for-ios-explore-s-7heresdk17BusSpecificationsV19lengthInCentimeterss5Int32VSgvp">`BusSpecifications.lengthInCentimeters`</a> must be in the range \[0, 30000\]. The validation of the range is done in the method that takes `PrivateBusOptions` as parameter.
 
   </div>
 
@@ -428,6 +451,10 @@ All the options to specify how a private bus route should be calculated.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-busspecifications">BusSpecifications</a>
+
   </div>
 
   </div>
@@ -436,7 +463,7 @@ All the options to specify how a private bus route should be calculated.
 
 - <div>
 
-      init(routeOptions: textOptions: avoidanceOptions: tollOptions: allowOptions: occupantsNumber: lastCharacterOfLicensePlate: maxSpeedOnSegments: busSpecifications: )
+   <span id="sdk-for-ios-explore-s-7heresdk17PrivateBusOptionsV05routeD004textD009avoidanceD004tollD005allowD015occupantsNumber27lastCharacterOfLicensePlate18maxSpeedOnSegments17busSpecificationsAcA05RouteD0V_AA0w4TextD0VAA09AvoidanceD0VAA04TollD0VAA05AllowD0Vs5Int32VSSSgSayAA03MaxrS7SegmentVGAA0cV0Vtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-routeOptions-textOptions-avoidanceOptions-tollOptions-allowOptions-occupantsNumber-lastCharacterOfLicensePlate-maxSpeedOnSegments-busSpecifications" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-privatebusoptions#sdk-for-ios-explore-s-7heresdk17PrivateBusOptionsV05routeD004textD009avoidanceD004tollD005allowD015occupantsNumber27lastCharacterOfLicensePlate18maxSpeedOnSegments17busSpecificationsAcA05RouteD0V_AA0w4TextD0VAA09AvoidanceD0VAA04TollD0VAA05AllowD0Vs5Int32VSSSgSayAA03MaxrS7SegmentVGAA0cV0Vtcfc" class="token"><code>init(routeOptions:</code><wbr></wbr><code>textOptions:</code><wbr></wbr><code>avoidanceOptions:</code><wbr></wbr><code>tollOptions:</code><wbr></wbr><code>allowOptions:</code><wbr></wbr><code>occupantsNumber:</code><wbr></wbr><code>lastCharacterOfLicensePlate:</code><wbr></wbr><code>maxSpeedOnSegments:</code><wbr></wbr><code>busSpecifications:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -465,7 +492,7 @@ All the options to specify how a private bus route should be calculated.
     - allowOptions: The options explicitly allowed by user for route calculations. By default no options are opt in.
     - occupantsNumber: Specifies the number of occupants in the vehicle, including driver, can affect the vehicle’s ability to use HOV/carpool restricted lanes. Shouldn’t be less than 1 or greater than 255. Defaults to 1.
 
-    **Note:** This parameter has no effect unless HOV and/or HOT lane usage is enabled via <a href="sdk-for-ios-explore-structs-privatebusoptions#/s:7heresdk17PrivateBusOptionsV05allowD0AA05AllowD0Vvp">`PrivateBusOptions.allowOptions`</a> and such lanes are available in the selected country.
+    **Note:** This parameter has no effect unless HOV and/or HOT lane usage is enabled via <a href="sdk-for-ios-explore-structs-privatebusoptions#sdk-for-ios-explore-s-7heresdk17PrivateBusOptionsV05allowD0AA05AllowD0Vvp">`PrivateBusOptions.allowOptions`</a> and such lanes are available in the selected country.
 
     - lastCharacterOfLicensePlate: Specifies the last character of a vehicle’s license plate, typically used to evaluate traffic restrictions in certain environmental or low-emission zones. In cities like Bogotá, Mexico City, or Jakarta, specific license plate digits may be restricted on certain days or in certain areas to reduce congestion and emissions. When this value is provided, the HERE SDK considers it during route calculation to avoid roads or areas where your vehicle may be restricted based on local regulations. Example usage: “7”, when the license plate of a vehicle looks like “B-ET-182487”.
 
@@ -476,10 +503,10 @@ All the options to specify how a private bus route should be calculated.
 
     **Note:** Some members of `bus_specifications` have limited value range.
 
-    - <a href="sdk-for-ios-explore-structs-busspecifications#/s:7heresdk17BusSpecificationsV22grossWeightInKilogramss5Int32VSgvp">`BusSpecifications.grossWeightInKilograms`</a> must not be negative.
-    - <a href="sdk-for-ios-explore-structs-busspecifications#/s:7heresdk17BusSpecificationsV19heightInCentimeterss5Int32VSgvp">`BusSpecifications.heightInCentimeters`</a> must be in the range \[0, 5000\].
-    - <a href="sdk-for-ios-explore-structs-busspecifications#/s:7heresdk17BusSpecificationsV18widthInCentimeterss5Int32VSgvp">`BusSpecifications.widthInCentimeters`</a> must be in the range \[0, 5000\].
-    - <a href="sdk-for-ios-explore-structs-busspecifications#/s:7heresdk17BusSpecificationsV19lengthInCentimeterss5Int32VSgvp">`BusSpecifications.lengthInCentimeters`</a> must be in the range \[0, 30000\]. The validation of the range is done in the method that takes `PrivateBusOptions` as parameter.
+    - <a href="sdk-for-ios-explore-structs-busspecifications#sdk-for-ios-explore-s-7heresdk17BusSpecificationsV22grossWeightInKilogramss5Int32VSgvp">`BusSpecifications.grossWeightInKilograms`</a> must not be negative.
+    - <a href="sdk-for-ios-explore-structs-busspecifications#sdk-for-ios-explore-s-7heresdk17BusSpecificationsV19heightInCentimeterss5Int32VSgvp">`BusSpecifications.heightInCentimeters`</a> must be in the range \[0, 5000\].
+    - <a href="sdk-for-ios-explore-structs-busspecifications#sdk-for-ios-explore-s-7heresdk17BusSpecificationsV18widthInCentimeterss5Int32VSgvp">`BusSpecifications.widthInCentimeters`</a> must be in the range \[0, 5000\].
+    - <a href="sdk-for-ios-explore-structs-busspecifications#sdk-for-ios-explore-s-7heresdk17BusSpecificationsV19lengthInCentimeterss5Int32VSgvp">`BusSpecifications.lengthInCentimeters`</a> must be in the range \[0, 30000\]. The validation of the range is done in the method that takes `PrivateBusOptions` as parameter.
 
   </div>
 
@@ -492,12 +519,20 @@ All the options to specify how a private bus route should be calculated.
   Swift
 
   ``` highlight
-  public init ( routeOptions : RouteOptions = RouteOptions (), textOptions : RouteTextOptions = RouteTextOptions (), avoidanceOptions : AvoidanceOptions = AvoidanceOptions (), tollOptions : TollOptions = TollOptions (), allowOptions : AllowOptions = AllowOptions (), occupantsNumber : Int32 = 1 , lastCharacterOfLicensePlate : String ? = nil , maxSpeedOnSegments : [ MaxSpeedOnSegment ] = [], busSpecifications : BusSpecifications = BusSpecifications ())
+  public init(routeOptions: RouteOptions = RouteOptions(), textOptions: RouteTextOptions = RouteTextOptions(), avoidanceOptions: AvoidanceOptions = AvoidanceOptions(), tollOptions: TollOptions = TollOptions(), allowOptions: AllowOptions = AllowOptions(), occupantsNumber: Int32 = 1, lastCharacterOfLicensePlate: String? = nil, maxSpeedOnSegments: [MaxSpeedOnSegment] = [], busSpecifications: BusSpecifications = BusSpecifications())
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-routeoptions">RouteOptions</a>
+  - <a href="sdk-for-ios-explore-structs-routetextoptions">RouteTextOptions</a>
+  - <a href="sdk-for-ios-explore-structs-avoidanceoptions">AvoidanceOptions</a>
+  - <a href="sdk-for-ios-explore-structs-tolloptions">TollOptions</a>
+  - <a href="sdk-for-ios-explore-structs-allowoptions">AllowOptions</a>
+  - <a href="sdk-for-ios-explore-structs-maxspeedonsegment">MaxSpeedOnSegment</a>
+  - <a href="sdk-for-ios-explore-structs-busspecifications">BusSpecifications</a>
 
   </div>
 

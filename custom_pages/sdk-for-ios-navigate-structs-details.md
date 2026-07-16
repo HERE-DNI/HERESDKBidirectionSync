@@ -27,7 +27,7 @@ Contains details of a specific place, such as contact information, opening hours
 
 - <div>
 
-  ` `<span id="/s:7heresdk7DetailsV8contactsSayAA7ContactVGvp"></span>` `<span id="//apple_ref/swift/Property/contacts" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-details#/s:7heresdk7DetailsV8contactsSayAA7ContactVGvp" class="token"><code>contacts</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk7DetailsV8contactsSayAA7ContactVGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-contacts" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-details#sdk-for-ios-navigate-s-7heresdk7DetailsV8contactsSayAA7ContactVGvp" class="token"><code>contacts</code></a> 
 
   </div>
 
@@ -65,6 +65,10 @@ Contains details of a specific place, such as contact information, opening hours
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-contact">Contact</a>
+
   </div>
 
   </div>
@@ -73,7 +77,7 @@ Contains details of a specific place, such as contact information, opening hours
 
 - <div>
 
-  ` `<span id="/s:7heresdk7DetailsV12openingHoursSayAA07OpeningD0VGvp"></span>` `<span id="//apple_ref/swift/Property/openingHours" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-details#/s:7heresdk7DetailsV12openingHoursSayAA07OpeningD0VGvp" class="token"><code>openingHours</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk7DetailsV12openingHoursSayAA07OpeningD0VGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-openingHours" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-details#sdk-for-ios-navigate-s-7heresdk7DetailsV12openingHoursSayAA07OpeningD0VGvp" class="token"><code>openingHours</code></a> 
 
   </div>
 
@@ -111,6 +115,10 @@ Contains details of a specific place, such as contact information, opening hours
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-openinghours">OpeningHours</a>
+
   </div>
 
   </div>
@@ -119,7 +127,7 @@ Contains details of a specific place, such as contact information, opening hours
 
 - <div>
 
-  ` `<span id="/s:7heresdk7DetailsV10categoriesSayAA13PlaceCategoryCGvp"></span>` `<span id="//apple_ref/swift/Property/categories" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-details#/s:7heresdk7DetailsV10categoriesSayAA13PlaceCategoryCGvp" class="token"><code>categories</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk7DetailsV10categoriesSayAA13PlaceCategoryCGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-categories" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-details#sdk-for-ios-navigate-s-7heresdk7DetailsV10categoriesSayAA13PlaceCategoryCGvp" class="token"><code>categories</code></a> 
 
   </div>
 
@@ -155,6 +163,10 @@ Contains details of a specific place, such as contact information, opening hours
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-placecategory">PlaceCategory</a>
+
   </div>
 
   </div>
@@ -163,7 +175,7 @@ Contains details of a specific place, such as contact information, opening hours
 
 - <div>
 
-  ` `<span id="/s:7heresdk7DetailsV6imagesSayAA8WebImageVGvp"></span>` `<span id="//apple_ref/swift/Property/images" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-details#/s:7heresdk7DetailsV6imagesSayAA8WebImageVGvp" class="token"><code>images</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk7DetailsV6imagesSayAA8WebImageVGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-images" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-details#sdk-for-ios-navigate-s-7heresdk7DetailsV6imagesSayAA8WebImageVGvp" class="token"><code>images</code></a> 
 
   </div>
 
@@ -201,6 +213,10 @@ Contains details of a specific place, such as contact information, opening hours
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-webimage">WebImage</a>
+
   </div>
 
   </div>
@@ -209,7 +225,7 @@ Contains details of a specific place, such as contact information, opening hours
 
 - <div>
 
-  ` `<span id="/s:7heresdk7DetailsV10editorialsSayAA12WebEditorialVGvp"></span>` `<span id="//apple_ref/swift/Property/editorials" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-details#/s:7heresdk7DetailsV10editorialsSayAA12WebEditorialVGvp" class="token"><code>editorials</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk7DetailsV10editorialsSayAA12WebEditorialVGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-editorials" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-details#sdk-for-ios-navigate-s-7heresdk7DetailsV10editorialsSayAA12WebEditorialVGvp" class="token"><code>editorials</code></a> 
 
   </div>
 
@@ -247,6 +263,10 @@ Contains details of a specific place, such as contact information, opening hours
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-webeditorial">WebEditorial</a>
+
   </div>
 
   </div>
@@ -255,7 +275,7 @@ Contains details of a specific place, such as contact information, opening hours
 
 - <div>
 
-  ` `<span id="/s:7heresdk7DetailsV7ratingsSayAA9WebRatingVGvp"></span>` `<span id="//apple_ref/swift/Property/ratings" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-details#/s:7heresdk7DetailsV7ratingsSayAA9WebRatingVGvp" class="token"><code>ratings</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk7DetailsV7ratingsSayAA9WebRatingVGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-ratings" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-details#sdk-for-ios-navigate-s-7heresdk7DetailsV7ratingsSayAA9WebRatingVGvp" class="token"><code>ratings</code></a> 
 
   </div>
 
@@ -293,6 +313,10 @@ Contains details of a specific place, such as contact information, opening hours
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-webrating">WebRating</a>
+
   </div>
 
   </div>
@@ -301,7 +325,7 @@ Contains details of a specific place, such as contact information, opening hours
 
 - <div>
 
-  ` `<span id="/s:7heresdk7DetailsV10referencesSayAA17SupplierReferenceVGvp"></span>` `<span id="//apple_ref/swift/Property/references" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-details#/s:7heresdk7DetailsV10referencesSayAA17SupplierReferenceVGvp" class="token"><code>references</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk7DetailsV10referencesSayAA17SupplierReferenceVGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-references" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-details#sdk-for-ios-navigate-s-7heresdk7DetailsV10referencesSayAA17SupplierReferenceVGvp" class="token"><code>references</code></a> 
 
   </div>
 
@@ -337,6 +361,10 @@ Contains details of a specific place, such as contact information, opening hours
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-supplierreference">SupplierReference</a>
+
   </div>
 
   </div>
@@ -345,7 +373,7 @@ Contains details of a specific place, such as contact information, opening hours
 
 - <div>
 
-  ` `<span id="/s:7heresdk7DetailsV14evChargingPoolAA010EVChargingE0VSgvp"></span>` `<span id="//apple_ref/swift/Property/evChargingPool" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-details#/s:7heresdk7DetailsV14evChargingPoolAA010EVChargingE0VSgvp" class="token"><code>evChargingPool</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk7DetailsV14evChargingPoolAA010EVChargingE0VSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-evChargingPool" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-details#sdk-for-ios-navigate-s-7heresdk7DetailsV14evChargingPoolAA010EVChargingE0VSgvp" class="token"><code>evChargingPool</code></a> 
 
   </div>
 
@@ -363,7 +391,7 @@ Contains details of a specific place, such as contact information, opening hours
 
   <div class="abstract">
 
-  EV charging pool details. It is available only for a place that is a charging pool for electric vehicles. It is fully supported for offline search, provided that <a href="sdk-for-ios-navigate-structs-layerconfiguration-feature#/s:7heresdk18LayerConfigurationV7FeatureO2evyA2EmF">`LayerConfiguration.Feature.ev`</a> is enabled in <a href="sdk-for-ios-navigate-structs-sdkoptions#/s:7heresdk10SDKOptionsV18layerConfigurationAA05LayerD0Vvp">`SDKOptions.layerConfiguration`</a>.
+  EV charging pool details. It is available only for a place that is a charging pool for electric vehicles. It is fully supported for offline search, provided that <a href="sdk-for-ios-navigate-structs-layerconfiguration-feature#sdk-for-ios-navigate-s-7heresdk18LayerConfigurationV7FeatureO2evyA2EmF">`LayerConfiguration.Feature.ev`</a> is enabled in <a href="sdk-for-ios-navigate-structs-sdkoptions#sdk-for-ios-navigate-s-7heresdk10SDKOptionsV18layerConfigurationAA05LayerD0Vvp">`SDKOptions.layerConfiguration`</a>.
 
   For online search, this feature is only available if it is explicitly enabled. To do that, call
 
@@ -391,6 +419,10 @@ Contains details of a specific place, such as contact information, opening hours
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-evchargingpool">EVChargingPool</a>
+
   </div>
 
   </div>
@@ -399,7 +431,7 @@ Contains details of a specific place, such as contact information, opening hours
 
 - <div>
 
-  ` `<span id="/s:7heresdk7DetailsV14truckAmenitiesAA05TruckD0VSgvp"></span>` `<span id="//apple_ref/swift/Property/truckAmenities" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-details#/s:7heresdk7DetailsV14truckAmenitiesAA05TruckD0VSgvp" class="token"><code>truckAmenities</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk7DetailsV14truckAmenitiesAA05TruckD0VSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-truckAmenities" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-details#sdk-for-ios-navigate-s-7heresdk7DetailsV14truckAmenitiesAA05TruckD0VSgvp" class="token"><code>truckAmenities</code></a> 
 
   </div>
 
@@ -417,9 +449,9 @@ Contains details of a specific place, such as contact information, opening hours
 
   <div class="abstract">
 
-  Additional information that is available only for places that contain truck amenities. It is fully supported for offline search, provided that <a href="sdk-for-ios-navigate-structs-layerconfiguration-feature#/s:7heresdk18LayerConfigurationV7FeatureO22truckServiceAttributesyA2EmF">`LayerConfiguration.Feature.truckServiceAttributes`</a> is enabled in <a href="sdk-for-ios-navigate-structs-sdkoptions#/s:7heresdk10SDKOptionsV18layerConfigurationAA05LayerD0Vvp">`SDKOptions.layerConfiguration`</a>.
+  Additional information that is available only for places that contain truck amenities. It is fully supported for offline search, provided that <a href="sdk-for-ios-navigate-structs-layerconfiguration-feature#sdk-for-ios-navigate-s-7heresdk18LayerConfigurationV7FeatureO22truckServiceAttributesyA2EmF">`LayerConfiguration.Feature.truckServiceAttributes`</a> is enabled in <a href="sdk-for-ios-navigate-structs-sdkoptions#sdk-for-ios-navigate-s-7heresdk10SDKOptionsV18layerConfigurationAA05LayerD0Vvp">`SDKOptions.layerConfiguration`</a>.
 
-  **Note:** Currently, for online search, this is a closed-alpha feature, so it is available only for selected customers. The field is always null for everyone that is not part of the closed-alpha group. Participants of the closed-alpha group can get access from HERE to use this feature. If the credentials are not enabled, a <a href="sdk-for-ios-navigate-enums-searcherror#/s:7heresdk11SearchErrorO9forbiddenyA2CmF">`SearchError.forbidden`</a> will be propagated.
+  **Note:** Currently, for online search, this is a closed-alpha feature, so it is available only for selected customers. The field is always null for everyone that is not part of the closed-alpha group. Participants of the closed-alpha group can get access from HERE to use this feature. If the credentials are not enabled, a <a href="sdk-for-ios-navigate-enums-searcherror#sdk-for-ios-navigate-s-7heresdk11SearchErrorO9forbiddenyA2CmF">`SearchError.forbidden`</a> will be propagated.
 
   For online search, this feature is only available if it is explicitly enabled. To do that, call
 
@@ -449,6 +481,10 @@ Contains details of a specific place, such as contact information, opening hours
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-truckamenities">TruckAmenities</a>
+
   </div>
 
   </div>
@@ -457,7 +493,7 @@ Contains details of a specific place, such as contact information, opening hours
 
 - <div>
 
-  ` `<span id="/s:7heresdk7DetailsV11fuelStationAA04FuelD0VSgvp"></span>` `<span id="//apple_ref/swift/Property/fuelStation" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-details#/s:7heresdk7DetailsV11fuelStationAA04FuelD0VSgvp" class="token"><code>fuelStation</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk7DetailsV11fuelStationAA04FuelD0VSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-fuelStation" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-details#sdk-for-ios-navigate-s-7heresdk7DetailsV11fuelStationAA04FuelD0VSgvp" class="token"><code>fuelStation</code></a> 
 
   </div>
 
@@ -475,9 +511,9 @@ Contains details of a specific place, such as contact information, opening hours
 
   <div class="abstract">
 
-  Fuel station details. It is available only if a place is a fuel station and contain fuel data. It is fully supported for offline search, provided that <a href="sdk-for-ios-navigate-structs-layerconfiguration-feature#/s:7heresdk18LayerConfigurationV7FeatureO21fuelStationAttributesyA2EmF">`LayerConfiguration.Feature.fuelStationAttributes`</a> is enabled in <a href="sdk-for-ios-navigate-structs-sdkoptions#/s:7heresdk10SDKOptionsV18layerConfigurationAA05LayerD0Vvp">`SDKOptions.layerConfiguration`</a>.
+  Fuel station details. It is available only if a place is a fuel station and contain fuel data. It is fully supported for offline search, provided that <a href="sdk-for-ios-navigate-structs-layerconfiguration-feature#sdk-for-ios-navigate-s-7heresdk18LayerConfigurationV7FeatureO21fuelStationAttributesyA2EmF">`LayerConfiguration.Feature.fuelStationAttributes`</a> is enabled in <a href="sdk-for-ios-navigate-structs-sdkoptions#sdk-for-ios-navigate-s-7heresdk10SDKOptionsV18layerConfigurationAA05LayerD0Vvp">`SDKOptions.layerConfiguration`</a>.
 
-  **Note:** Currently, for online search, this is a closed-alpha feature, so it is available only for selected customers. The field is always null for everyone that is not part of the closed-alpha group. Participants of the closed-alpha group can get access from HERE to use this feature. If the credentials are not enabled, a <a href="sdk-for-ios-navigate-enums-searcherror#/s:7heresdk11SearchErrorO9forbiddenyA2CmF">`SearchError.forbidden`</a> will be propagated.
+  **Note:** Currently, for online search, this is a closed-alpha feature, so it is available only for selected customers. The field is always null for everyone that is not part of the closed-alpha group. Participants of the closed-alpha group can get access from HERE to use this feature. If the credentials are not enabled, a <a href="sdk-for-ios-navigate-enums-searcherror#sdk-for-ios-navigate-s-7heresdk11SearchErrorO9forbiddenyA2CmF">`SearchError.forbidden`</a> will be propagated.
 
   For online search, this feature is only available if it is explicitly enabled. To do that, call
 
@@ -507,6 +543,10 @@ Contains details of a specific place, such as contact information, opening hours
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-fuelstation">FuelStation</a>
+
   </div>
 
   </div>
@@ -515,7 +555,7 @@ Contains details of a specific place, such as contact information, opening hours
 
 - <div>
 
-  ` `<span id="/s:7heresdk7DetailsV9foodTypesSayAA13PlaceFoodTypeVGvp"></span>` `<span id="//apple_ref/swift/Property/foodTypes" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-details#/s:7heresdk7DetailsV9foodTypesSayAA13PlaceFoodTypeVGvp" class="token"><code>foodTypes</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk7DetailsV9foodTypesSayAA13PlaceFoodTypeVGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-foodTypes" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-details#sdk-for-ios-navigate-s-7heresdk7DetailsV9foodTypesSayAA13PlaceFoodTypeVGvp" class="token"><code>foodTypes</code></a> 
 
   </div>
 
@@ -551,6 +591,10 @@ Contains details of a specific place, such as contact information, opening hours
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-placefoodtype">PlaceFoodType</a>
+
   </div>
 
   </div>
@@ -559,7 +603,7 @@ Contains details of a specific place, such as contact information, opening hours
 
 - <div>
 
-  ` `<span id="/s:7heresdk7DetailsV7paymentAA010POIPaymentB0VSgvp"></span>` `<span id="//apple_ref/swift/Property/payment" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-details#/s:7heresdk7DetailsV7paymentAA010POIPaymentB0VSgvp" class="token"><code>payment</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk7DetailsV7paymentAA010POIPaymentB0VSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-payment" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-details#sdk-for-ios-navigate-s-7heresdk7DetailsV7paymentAA010POIPaymentB0VSgvp" class="token"><code>payment</code></a> 
 
   </div>
 
@@ -597,6 +641,10 @@ Contains details of a specific place, such as contact information, opening hours
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-poipaymentdetails">POIPaymentDetails</a>
+
   </div>
 
   </div>
@@ -605,7 +653,7 @@ Contains details of a specific place, such as contact information, opening hours
 
 - <div>
 
-  ` `<span id="/s:7heresdk7DetailsV18evChargingLocationAA010EVChargingE0CSgvp"></span>` `<span id="//apple_ref/swift/Property/evChargingLocation" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-details#/s:7heresdk7DetailsV18evChargingLocationAA010EVChargingE0CSgvp" class="token"><code>evChargingLocation</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk7DetailsV18evChargingLocationAA010EVChargingE0CSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-evChargingLocation" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-details#sdk-for-ios-navigate-s-7heresdk7DetailsV18evChargingLocationAA010EVChargingE0CSgvp" class="token"><code>evChargingLocation</code></a> 
 
   </div>
 
@@ -641,6 +689,10 @@ Contains details of a specific place, such as contact information, opening hours
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-evcharginglocation">EVChargingLocation</a>
+
   </div>
 
   </div>
@@ -649,7 +701,7 @@ Contains details of a specific place, such as contact information, opening hours
 
 - <div>
 
-      init(contacts: openingHours: categories: images: editorials: ratings: references: evChargingPool: truckAmenities: fuelStation: foodTypes: payment: evChargingLocation: )
+   <span id="sdk-for-ios-navigate-s-7heresdk7DetailsV8contacts12openingHours10categories6images10editorials7ratings10references14evChargingPool14truckAmenities11fuelStation9foodTypes7payment0kL8LocationACSayAA7ContactVG_SayAA07OpeningE0VGSayAA13PlaceCategoryCGSayAA8WebImageVGSayAA0Z9EditorialVGSayAA0Z6RatingVGSayAA17SupplierReferenceVGAA010EVChargingM0VSgAA05TruckO0VSgAA04FuelQ0VSgSayAA0X8FoodTypeVGAA010POIPaymentB0VSgAA010EVChargingU0CSgtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-contacts-openingHours-categories-images-editorials-ratings-references-evChargingPool-truckAmenities-fuelStation-foodTypes-payment-evChargingLocation" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-details#sdk-for-ios-navigate-s-7heresdk7DetailsV8contacts12openingHours10categories6images10editorials7ratings10references14evChargingPool14truckAmenities11fuelStation9foodTypes7payment0kL8LocationACSayAA7ContactVG_SayAA07OpeningE0VGSayAA13PlaceCategoryCGSayAA8WebImageVGSayAA0Z9EditorialVGSayAA0Z6RatingVGSayAA17SupplierReferenceVGAA010EVChargingM0VSgAA05TruckO0VSgAA04FuelQ0VSgSayAA0X8FoodTypeVGAA010POIPaymentB0VSgAA010EVChargingU0CSgtcfc" class="token"><code>init(contacts:</code><wbr></wbr><code>openingHours:</code><wbr></wbr><code>categories:</code><wbr></wbr><code>images:</code><wbr></wbr><code>editorials:</code><wbr></wbr><code>ratings:</code><wbr></wbr><code>references:</code><wbr></wbr><code>evChargingPool:</code><wbr></wbr><code>truckAmenities:</code><wbr></wbr><code>fuelStation:</code><wbr></wbr><code>foodTypes:</code><wbr></wbr><code>payment:</code><wbr></wbr><code>evChargingLocation:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -693,7 +745,7 @@ Contains details of a specific place, such as contact information, opening hours
     **Note:** Not available as part of <a href="sdk-for-ios-navigate-classes-suggestion">`Suggestion`</a> results.
 
     - references: The list of supplier references to this place. The references are provided by external suppliers and are only available to users with valid contracts with said suppliers. If the user has no such contracts, the list is empty.
-    - evChargingPool: EV charging pool details. It is available only for a place that is a charging pool for electric vehicles. It is fully supported for offline search, provided that <a href="sdk-for-ios-navigate-structs-layerconfiguration-feature#/s:7heresdk18LayerConfigurationV7FeatureO2evyA2EmF">`LayerConfiguration.Feature.ev`</a> is enabled in <a href="sdk-for-ios-navigate-structs-sdkoptions#/s:7heresdk10SDKOptionsV18layerConfigurationAA05LayerD0Vvp">`SDKOptions.layerConfiguration`</a>.
+    - evChargingPool: EV charging pool details. It is available only for a place that is a charging pool for electric vehicles. It is fully supported for offline search, provided that <a href="sdk-for-ios-navigate-structs-layerconfiguration-feature#sdk-for-ios-navigate-s-7heresdk18LayerConfigurationV7FeatureO2evyA2EmF">`LayerConfiguration.Feature.ev`</a> is enabled in <a href="sdk-for-ios-navigate-structs-sdkoptions#sdk-for-ios-navigate-s-7heresdk10SDKOptionsV18layerConfigurationAA05LayerD0Vvp">`SDKOptions.layerConfiguration`</a>.
 
     For online search, this feature is only available if it is explicitly enabled. To do that, call
 
@@ -707,9 +759,9 @@ Contains details of a specific place, such as contact information, opening hours
 
     </p>
 
-    - truckAmenities: Additional information that is available only for places that contain truck amenities. It is fully supported for offline search, provided that <a href="sdk-for-ios-navigate-structs-layerconfiguration-feature#/s:7heresdk18LayerConfigurationV7FeatureO22truckServiceAttributesyA2EmF">`LayerConfiguration.Feature.truckServiceAttributes`</a> is enabled in <a href="sdk-for-ios-navigate-structs-sdkoptions#/s:7heresdk10SDKOptionsV18layerConfigurationAA05LayerD0Vvp">`SDKOptions.layerConfiguration`</a>.
+    - truckAmenities: Additional information that is available only for places that contain truck amenities. It is fully supported for offline search, provided that <a href="sdk-for-ios-navigate-structs-layerconfiguration-feature#sdk-for-ios-navigate-s-7heresdk18LayerConfigurationV7FeatureO22truckServiceAttributesyA2EmF">`LayerConfiguration.Feature.truckServiceAttributes`</a> is enabled in <a href="sdk-for-ios-navigate-structs-sdkoptions#sdk-for-ios-navigate-s-7heresdk10SDKOptionsV18layerConfigurationAA05LayerD0Vvp">`SDKOptions.layerConfiguration`</a>.
 
-    **Note:** Currently, for online search, this is a closed-alpha feature, so it is available only for selected customers. The field is always null for everyone that is not part of the closed-alpha group. Participants of the closed-alpha group can get access from HERE to use this feature. If the credentials are not enabled, a <a href="sdk-for-ios-navigate-enums-searcherror#/s:7heresdk11SearchErrorO9forbiddenyA2CmF">`SearchError.forbidden`</a> will be propagated.
+    **Note:** Currently, for online search, this is a closed-alpha feature, so it is available only for selected customers. The field is always null for everyone that is not part of the closed-alpha group. Participants of the closed-alpha group can get access from HERE to use this feature. If the credentials are not enabled, a <a href="sdk-for-ios-navigate-enums-searcherror#sdk-for-ios-navigate-s-7heresdk11SearchErrorO9forbiddenyA2CmF">`SearchError.forbidden`</a> will be propagated.
 
     For online search, this feature is only available if it is explicitly enabled. To do that, call
 
@@ -725,9 +777,9 @@ Contains details of a specific place, such as contact information, opening hours
 
     **Note:** This is a beta release of this feature, so there could be a few bugs and unexpected behaviors. Related APIs may change for new releases without a deprecation process.
 
-    - fuelStation: Fuel station details. It is available only if a place is a fuel station and contain fuel data. It is fully supported for offline search, provided that <a href="sdk-for-ios-navigate-structs-layerconfiguration-feature#/s:7heresdk18LayerConfigurationV7FeatureO21fuelStationAttributesyA2EmF">`LayerConfiguration.Feature.fuelStationAttributes`</a> is enabled in <a href="sdk-for-ios-navigate-structs-sdkoptions#/s:7heresdk10SDKOptionsV18layerConfigurationAA05LayerD0Vvp">`SDKOptions.layerConfiguration`</a>.
+    - fuelStation: Fuel station details. It is available only if a place is a fuel station and contain fuel data. It is fully supported for offline search, provided that <a href="sdk-for-ios-navigate-structs-layerconfiguration-feature#sdk-for-ios-navigate-s-7heresdk18LayerConfigurationV7FeatureO21fuelStationAttributesyA2EmF">`LayerConfiguration.Feature.fuelStationAttributes`</a> is enabled in <a href="sdk-for-ios-navigate-structs-sdkoptions#sdk-for-ios-navigate-s-7heresdk10SDKOptionsV18layerConfigurationAA05LayerD0Vvp">`SDKOptions.layerConfiguration`</a>.
 
-    **Note:** Currently, for online search, this is a closed-alpha feature, so it is available only for selected customers. The field is always null for everyone that is not part of the closed-alpha group. Participants of the closed-alpha group can get access from HERE to use this feature. If the credentials are not enabled, a <a href="sdk-for-ios-navigate-enums-searcherror#/s:7heresdk11SearchErrorO9forbiddenyA2CmF">`SearchError.forbidden`</a> will be propagated.
+    **Note:** Currently, for online search, this is a closed-alpha feature, so it is available only for selected customers. The field is always null for everyone that is not part of the closed-alpha group. Participants of the closed-alpha group can get access from HERE to use this feature. If the credentials are not enabled, a <a href="sdk-for-ios-navigate-enums-searcherror#sdk-for-ios-navigate-s-7heresdk11SearchErrorO9forbiddenyA2CmF">`SearchError.forbidden`</a> will be propagated.
 
     For online search, this feature is only available if it is explicitly enabled. To do that, call
 
@@ -761,12 +813,26 @@ Contains details of a specific place, such as contact information, opening hours
   Swift
 
   ``` highlight
-  public init ( contacts : [ Contact ], openingHours : [ OpeningHours ], categories : [ PlaceCategory ], images : [ WebImage ], editorials : [ WebEditorial ], ratings : [ WebRating ], references : [ SupplierReference ], evChargingPool : EVChargingPool ? = nil , truckAmenities : TruckAmenities ? = nil , fuelStation : FuelStation ? = nil , foodTypes : [ PlaceFoodType ] = [], payment : POIPaymentDetails ? = nil , evChargingLocation : EVChargingLocation ? = nil )
+  public init(contacts: [Contact], openingHours: [OpeningHours], categories: [PlaceCategory], images: [WebImage], editorials: [WebEditorial], ratings: [WebRating], references: [SupplierReference], evChargingPool: EVChargingPool? = nil, truckAmenities: TruckAmenities? = nil, fuelStation: FuelStation? = nil, foodTypes: [PlaceFoodType] = [], payment: POIPaymentDetails? = nil, evChargingLocation: EVChargingLocation? = nil)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-contact">Contact</a>
+  - <a href="sdk-for-ios-navigate-structs-openinghours">OpeningHours</a>
+  - <a href="sdk-for-ios-navigate-classes-placecategory">PlaceCategory</a>
+  - <a href="sdk-for-ios-navigate-structs-webimage">WebImage</a>
+  - <a href="sdk-for-ios-navigate-structs-webeditorial">WebEditorial</a>
+  - <a href="sdk-for-ios-navigate-structs-webrating">WebRating</a>
+  - <a href="sdk-for-ios-navigate-structs-supplierreference">SupplierReference</a>
+  - <a href="sdk-for-ios-navigate-structs-evchargingpool">EVChargingPool</a>
+  - <a href="sdk-for-ios-navigate-structs-truckamenities">TruckAmenities</a>
+  - <a href="sdk-for-ios-navigate-structs-fuelstation">FuelStation</a>
+  - <a href="sdk-for-ios-navigate-structs-placefoodtype">PlaceFoodType</a>
+  - <a href="sdk-for-ios-navigate-structs-poipaymentdetails">POIPaymentDetails</a>
+  - <a href="sdk-for-ios-navigate-classes-evcharginglocation">EVChargingLocation</a>
 
   </div>
 
@@ -776,7 +842,7 @@ Contains details of a specific place, such as contact information, opening hours
 
 - <div>
 
-      getPrimaryCategories()
+   <span id="sdk-for-ios-navigate-s-7heresdk7DetailsV20getPrimaryCategoriesSayAA13PlaceCategoryCGyF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-getPrimaryCategories" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-details#sdk-for-ios-navigate-s-7heresdk7DetailsV20getPrimaryCategoriesSayAA13PlaceCategoryCGyF" class="token"><code>getPrimaryCategories()</code></a> 
 
   </div>
 
@@ -807,12 +873,14 @@ Contains details of a specific place, such as contact information, opening hours
   Swift
 
   ``` highlight
-  public func getPrimaryCategories () -> [ PlaceCategory ]
+  public func getPrimaryCategories() -> [PlaceCategory]
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-placecategory">PlaceCategory</a>
 
   </div>
 

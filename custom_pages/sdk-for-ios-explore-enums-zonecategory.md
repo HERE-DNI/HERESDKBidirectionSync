@@ -27,7 +27,7 @@ Identifies categories of zones which routes avoid going through when used in <a 
 
 - <div>
 
-  ` `<span id="/s:7heresdk12ZoneCategoryO13environmentalyA2CmF"></span>` `<span id="//apple_ref/swift/Element/environmental" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-zonecategory#/s:7heresdk12ZoneCategoryO13environmentalyA2CmF" class="token"><code>environmental</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12ZoneCategoryO13environmentalyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-environmental" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-zonecategory#sdk-for-ios-explore-s-7heresdk12ZoneCategoryO13environmentalyA2CmF" class="token"><code>environmental</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Identifies categories of zones which routes avoid going through when used in <a 
 
 - <div>
 
-  ` `<span id="/s:7heresdk12ZoneCategoryO8vignetteyA2CmF"></span>` `<span id="//apple_ref/swift/Element/vignette" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-zonecategory#/s:7heresdk12ZoneCategoryO8vignetteyA2CmF" class="token"><code>vignette</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12ZoneCategoryO8vignetteyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-vignette" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-zonecategory#sdk-for-ios-explore-s-7heresdk12ZoneCategoryO8vignetteyA2CmF" class="token"><code>vignette</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Identifies categories of zones which routes avoid going through when used in <a 
 
 - <div>
 
-  ` `<span id="/s:7heresdk12ZoneCategoryO17congestionPricingyA2CmF"></span>` `<span id="//apple_ref/swift/Element/congestionPricing" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-zonecategory#/s:7heresdk12ZoneCategoryO17congestionPricingyA2CmF" class="token"><code>congestionPricing</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12ZoneCategoryO17congestionPricingyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-congestionPricing" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-zonecategory#sdk-for-ios-explore-s-7heresdk12ZoneCategoryO17congestionPricingyA2CmF" class="token"><code>congestionPricing</code></a> 
 
   </div>
 

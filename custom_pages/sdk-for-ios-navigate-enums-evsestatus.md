@@ -27,7 +27,7 @@ EVSE status
 
 - <div>
 
-  ` `<span id="/s:7heresdk10EVSEStatusO9availableyA2CmF"></span>` `<span id="//apple_ref/swift/Element/available" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-evsestatus#/s:7heresdk10EVSEStatusO9availableyA2CmF" class="token"><code>available</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10EVSEStatusO9availableyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-available" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-evsestatus#sdk-for-ios-navigate-s-7heresdk10EVSEStatusO9availableyA2CmF" class="token"><code>available</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ EVSE status
 
 - <div>
 
-  ` `<span id="/s:7heresdk10EVSEStatusO8occupiedyA2CmF"></span>` `<span id="//apple_ref/swift/Element/occupied" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-evsestatus#/s:7heresdk10EVSEStatusO8occupiedyA2CmF" class="token"><code>occupied</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10EVSEStatusO8occupiedyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-occupied" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-evsestatus#sdk-for-ios-navigate-s-7heresdk10EVSEStatusO8occupiedyA2CmF" class="token"><code>occupied</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ EVSE status
 
 - <div>
 
-  ` `<span id="/s:7heresdk10EVSEStatusO7offlineyA2CmF"></span>` `<span id="//apple_ref/swift/Element/offline" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-evsestatus#/s:7heresdk10EVSEStatusO7offlineyA2CmF" class="token"><code>offline</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10EVSEStatusO7offlineyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-offline" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-evsestatus#sdk-for-ios-navigate-s-7heresdk10EVSEStatusO7offlineyA2CmF" class="token"><code>offline</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ EVSE status
 
 - <div>
 
-  ` `<span id="/s:7heresdk10EVSEStatusO5otheryA2CmF"></span>` `<span id="//apple_ref/swift/Element/other" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-evsestatus#/s:7heresdk10EVSEStatusO5otheryA2CmF" class="token"><code>other</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10EVSEStatusO5otheryA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-other" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-evsestatus#sdk-for-ios-navigate-s-7heresdk10EVSEStatusO5otheryA2CmF" class="token"><code>other</code></a> 
 
   </div>
 
@@ -203,7 +203,7 @@ EVSE status
 
 - <div>
 
-  ` `<span id="/s:7heresdk10EVSEStatusO12outOfServiceyA2CmF"></span>` `<span id="//apple_ref/swift/Element/outOfService" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-evsestatus#/s:7heresdk10EVSEStatusO12outOfServiceyA2CmF" class="token"><code>outOfService</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10EVSEStatusO12outOfServiceyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-outOfService" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-evsestatus#sdk-for-ios-navigate-s-7heresdk10EVSEStatusO12outOfServiceyA2CmF" class="token"><code>outOfService</code></a> 
 
   </div>
 
@@ -247,7 +247,7 @@ EVSE status
 
 - <div>
 
-  ` `<span id="/s:7heresdk10EVSEStatusO8reservedyA2CmF"></span>` `<span id="//apple_ref/swift/Element/reserved" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-evsestatus#/s:7heresdk10EVSEStatusO8reservedyA2CmF" class="token"><code>reserved</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10EVSEStatusO8reservedyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-reserved" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-evsestatus#sdk-for-ios-navigate-s-7heresdk10EVSEStatusO8reservedyA2CmF" class="token"><code>reserved</code></a> 
 
   </div>
 
@@ -291,7 +291,7 @@ EVSE status
 
 - <div>
 
-  ` `<span id="/s:7heresdk10EVSEStatusO11unavailableyA2CmF"></span>` `<span id="//apple_ref/swift/Element/unavailable" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-evsestatus#/s:7heresdk10EVSEStatusO11unavailableyA2CmF" class="token"><code>unavailable</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10EVSEStatusO11unavailableyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-unavailable" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-evsestatus#sdk-for-ios-navigate-s-7heresdk10EVSEStatusO11unavailableyA2CmF" class="token"><code>unavailable</code></a> 
 
   </div>
 

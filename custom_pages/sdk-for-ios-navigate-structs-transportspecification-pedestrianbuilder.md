@@ -23,6 +23,10 @@ extension TransportSpecification.PedestrianBuilder: Hashable
 
 </div>
 
+Related types:
+
+- <a href="sdk-for-ios-navigate-structs-transportspecification">TransportSpecification</a>
+
 </div>
 
 This class constructs a <a href="sdk-for-ios-navigate-structs-transportspecification">`TransportSpecification`</a> for pedestrian.
@@ -35,7 +39,7 @@ This class constructs a <a href="sdk-for-ios-navigate-structs-transportspecifica
 
 - <div>
 
-      init()
+   <span id="sdk-for-ios-navigate-s-7heresdk22TransportSpecificationV17PedestrianBuilderCAEycfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-transportspecification-pedestrianbuilder#sdk-for-ios-navigate-s-7heresdk22TransportSpecificationV17PedestrianBuilderCAEycfc" class="token"><code>init()</code></a> 
 
   </div>
 
@@ -66,10 +70,8 @@ This class constructs a <a href="sdk-for-ios-navigate-structs-transportspecifica
   Swift
 
   ``` highlight
-  public init ()
+  public init()
   ```
-
-  </pre>
 
   </div>
 
@@ -81,7 +83,7 @@ This class constructs a <a href="sdk-for-ios-navigate-structs-transportspecifica
 
 - <div>
 
-      withPedestrianSpecification(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk22TransportSpecificationV17PedestrianBuilderC04withdC0yAeA0dC0VF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-withPedestrianSpecification-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-transportspecification-pedestrianbuilder#sdk-for-ios-navigate-s-7heresdk22TransportSpecificationV17PedestrianBuilderC04withdC0yAeA0dC0VF" class="token"><code>withPedestrianSpecification(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -112,12 +114,15 @@ This class constructs a <a href="sdk-for-ios-navigate-structs-transportspecifica
   Swift
 
   ``` highlight
-  public func withPedestrianSpecification ( _ pedestrianSpecification : PedestrianSpecification ) -> TransportSpecification . PedestrianBuilder
+  public func withPedestrianSpecification(_ pedestrianSpecification: PedestrianSpecification) -> TransportSpecification.PedestrianBuilder
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-pedestrianspecification">PedestrianSpecification</a>
+  - <a href="sdk-for-ios-navigate-structs-transportspecification">TransportSpecification</a>
 
   </div>
 
@@ -156,7 +161,7 @@ This class constructs a <a href="sdk-for-ios-navigate-structs-transportspecifica
 
 - <div>
 
-      build()
+   <span id="sdk-for-ios-navigate-s-7heresdk22TransportSpecificationV17PedestrianBuilderC5buildACyF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-build" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-transportspecification-pedestrianbuilder#sdk-for-ios-navigate-s-7heresdk22TransportSpecificationV17PedestrianBuilderC5buildACyF" class="token"><code>build()</code></a> 
 
   </div>
 
@@ -187,12 +192,14 @@ This class constructs a <a href="sdk-for-ios-navigate-structs-transportspecifica
   Swift
 
   ``` highlight
-  public func build () -> TransportSpecification
+  public func build() -> TransportSpecification
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-transportspecification">TransportSpecification</a>
 
   </div>
 

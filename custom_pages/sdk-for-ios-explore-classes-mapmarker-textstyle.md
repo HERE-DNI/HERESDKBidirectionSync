@@ -23,6 +23,10 @@ extension MapMarker.TextStyle: Hashable
 
 </div>
 
+Related types:
+
+- <a href="sdk-for-ios-explore-classes-mapmarker">MapMarker</a>
+
 </div>
 
 Styling options for the text of a <a href="sdk-for-ios-explore-classes-mapmarker">`MapMarker`</a>.
@@ -35,7 +39,7 @@ Styling options for the text of a <a href="sdk-for-ios-explore-classes-mapmarker
 
 - <div>
 
-  ` `<span id="/s:7heresdk9MapMarkerC9TextStyleC18InstantiationErrora"></span>` `<span id="//apple_ref/swift/Alias/InstantiationError" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-mapmarker-textstyle#/s:7heresdk9MapMarkerC9TextStyleC18InstantiationErrora" class="token"><code>InstantiationError</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9MapMarkerC9TextStyleC18InstantiationErrora"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Alias-InstantiationError" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapmarker-textstyle#sdk-for-ios-explore-s-7heresdk9MapMarkerC9TextStyleC18InstantiationErrora" class="token"><code>InstantiationError</code></a> 
 
   </div>
 
@@ -71,6 +75,10 @@ Styling options for the text of a <a href="sdk-for-ios-explore-classes-mapmarker
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-mapmarker-textstyle-instantiationerrorcode">InstantiationErrorCode</a>
+
   </div>
 
   </div>
@@ -79,7 +87,7 @@ Styling options for the text of a <a href="sdk-for-ios-explore-classes-mapmarker
 
 - <div>
 
-      init()
+   <span id="sdk-for-ios-explore-s-7heresdk9MapMarkerC9TextStyleCAEycfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapmarker-textstyle#sdk-for-ios-explore-s-7heresdk9MapMarkerC9TextStyleCAEycfc" class="token"><code>init()</code></a> 
 
   </div>
 
@@ -103,7 +111,7 @@ Styling options for the text of a <a href="sdk-for-ios-explore-classes-mapmarker
   - Text color: opaque white
   - Text outline size: 0 pixels
   - Text outline color: opaque black
-  - Text placement: <a href="sdk-for-ios-explore-classes-mapmarker-textstyle-placement#/s:7heresdk9MapMarkerC9TextStyleC9PlacementO6bottomyA2GmF">`MapMarker.TextStyle.Placement.bottom`</a>
+  - Text placement: <a href="sdk-for-ios-explore-classes-mapmarker-textstyle-placement#sdk-for-ios-explore-s-7heresdk9MapMarkerC9TextStyleC9PlacementO6bottomyA2GmF">`MapMarker.TextStyle.Placement.bottom`</a>
 
   Once the resulting `TextStyle` is applied to a <a href="sdk-for-ios-explore-classes-mapmarker">`MapMarker`</a>, its text will be centered over its image. The font will be 18 pixels wide, colored opaque white and will have no visible outline.
 
@@ -118,10 +126,8 @@ Styling options for the text of a <a href="sdk-for-ios-explore-classes-mapmarker
   Swift
 
   ``` highlight
-  public init ()
+  public init()
   ```
-
-  </pre>
 
   </div>
 
@@ -133,7 +139,7 @@ Styling options for the text of a <a href="sdk-for-ios-explore-classes-mapmarker
 
 - <div>
 
-      init(textSize: textColor: textOutlineSize: textOutlineColor: placements: )
+   <span id="sdk-for-ios-explore-s-7heresdk9MapMarkerC9TextStyleC8textSize0F5Color0f7OutlineG00fiH010placementsAESd_So7UIColorCSdALSayAE9PlacementOGtKcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-textSize-textColor-textOutlineSize-textOutlineColor-placements" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapmarker-textstyle#sdk-for-ios-explore-s-7heresdk9MapMarkerC9TextStyleC8textSize0F5Color0f7OutlineG00fiH010placementsAESd_So7UIColorCSdALSayAE9PlacementOGtKcfc" class="token"><code>init(textSize:</code><wbr></wbr><code>textColor:</code><wbr></wbr><code>textOutlineSize:</code><wbr></wbr><code>textOutlineColor:</code><wbr></wbr><code>placements:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -153,7 +159,7 @@ Styling options for the text of a <a href="sdk-for-ios-explore-classes-mapmarker
 
   Creates a set of styling options for the text of a <a href="sdk-for-ios-explore-classes-mapmarker">`MapMarker`</a>.
 
-  List of placements is used to specify allowed placement of text relative to the icon. When marker overlapping is allowed as set by <a href="sdk-for-ios-explore-classes-mapmarker#/s:7heresdk9MapMarkerC16isOverlapAllowedSbvp">`MapMarker.isOverlapAllowed`</a>, only first placement element is considered. Otherwise the placement value is chosen so that the text does not overlap with other <a href="sdk-for-ios-explore-classes-mapmarker">`MapMarker`</a> instances.
+  List of placements is used to specify allowed placement of text relative to the icon. When marker overlapping is allowed as set by <a href="sdk-for-ios-explore-classes-mapmarker#sdk-for-ios-explore-s-7heresdk9MapMarkerC16isOverlapAllowedSbvp">`MapMarker.isOverlapAllowed`</a>, only first placement element is considered. Otherwise the placement value is chosen so that the text does not overlap with other <a href="sdk-for-ios-explore-classes-mapmarker">`MapMarker`</a> instances.
 
   Placement values are prioritized according to the order in which they appear in the list. Lists with duplicate entries as well as empty lists are not supported.
 
@@ -161,7 +167,7 @@ Styling options for the text of a <a href="sdk-for-ios-explore-classes-mapmarker
 
   Throws
 
-  <a href="sdk-for-ios-explore-classes-mapmarker-textstyle#/s:7heresdk9MapMarkerC9TextStyleC18InstantiationErrora">`MapMarker.TextStyle.InstantiationError`</a> In case of invalid input parameters.
+  <a href="sdk-for-ios-explore-classes-mapmarker-textstyle#sdk-for-ios-explore-s-7heresdk9MapMarkerC9TextStyleC18InstantiationErrora">`MapMarker.TextStyle.InstantiationError`</a> In case of invalid input parameters.
 
   </div>
 
@@ -176,12 +182,15 @@ Styling options for the text of a <a href="sdk-for-ios-explore-classes-mapmarker
   Swift
 
   ``` highlight
-  public init ( textSize : Double , textColor : UIColor , textOutlineSize : Double , textOutlineColor : UIColor , placements : [ MapMarker . TextStyle . Placement ]) throws
+  public init(textSize: Double, textColor: UIColor, textOutlineSize: Double, textOutlineColor: UIColor, placements: [MapMarker.TextStyle.Placement]) throws
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-mapmarker">MapMarker</a>
+  - <a href="sdk-for-ios-explore-classes-mapmarker-textstyle-placement">Placement</a>
 
   </div>
 
@@ -236,7 +245,7 @@ Styling options for the text of a <a href="sdk-for-ios-explore-classes-mapmarker
 
 - <div>
 
-      init(textSize: textColor: textOutlineSize: textOutlineColor: placements: fontName: )
+   <span id="sdk-for-ios-explore-s-7heresdk9MapMarkerC9TextStyleC8textSize0F5Color0f7OutlineG00fiH010placements8fontNameAESd_So7UIColorCSdAMSayAE9PlacementOGSStKcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-textSize-textColor-textOutlineSize-textOutlineColor-placements-fontName" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapmarker-textstyle#sdk-for-ios-explore-s-7heresdk9MapMarkerC9TextStyleC8textSize0F5Color0f7OutlineG00fiH010placements8fontNameAESd_So7UIColorCSdAMSayAE9PlacementOGSStKcfc" class="token"><code>init(textSize:</code><wbr></wbr><code>textColor:</code><wbr></wbr><code>textOutlineSize:</code><wbr></wbr><code>textOutlineColor:</code><wbr></wbr><code>placements:</code><wbr></wbr><code>fontName:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -258,7 +267,7 @@ Styling options for the text of a <a href="sdk-for-ios-explore-classes-mapmarker
 
   Note: This is a beta release of this feature, so there could be a few bugs and unexpected behavior. Related APIs may change for new releases without a deprecation process.
 
-  List of placements is used to specify allowed placement of text relative to the icon. When marker overlapping is allowed as set by <a href="sdk-for-ios-explore-classes-mapmarker#/s:7heresdk9MapMarkerC16isOverlapAllowedSbvp">`MapMarker.isOverlapAllowed`</a>, only first placement element is considered. Otherwise the placement value is chosen so that the text does not overlap with other <a href="sdk-for-ios-explore-classes-mapmarker">`MapMarker`</a> instances.
+  List of placements is used to specify allowed placement of text relative to the icon. When marker overlapping is allowed as set by <a href="sdk-for-ios-explore-classes-mapmarker#sdk-for-ios-explore-s-7heresdk9MapMarkerC16isOverlapAllowedSbvp">`MapMarker.isOverlapAllowed`</a>, only first placement element is considered. Otherwise the placement value is chosen so that the text does not overlap with other <a href="sdk-for-ios-explore-classes-mapmarker">`MapMarker`</a> instances.
 
   Placement values are prioritized according to the order in which they appear in the list. Lists with duplicate entries as well as empty lists are not supported.
 
@@ -266,7 +275,7 @@ Styling options for the text of a <a href="sdk-for-ios-explore-classes-mapmarker
 
   Throws
 
-  <a href="sdk-for-ios-explore-classes-mapmarker-textstyle#/s:7heresdk9MapMarkerC9TextStyleC18InstantiationErrora">`MapMarker.TextStyle.InstantiationError`</a> In case of invalid input parameters.
+  <a href="sdk-for-ios-explore-classes-mapmarker-textstyle#sdk-for-ios-explore-s-7heresdk9MapMarkerC9TextStyleC18InstantiationErrora">`MapMarker.TextStyle.InstantiationError`</a> In case of invalid input parameters.
 
   </div>
 
@@ -281,12 +290,15 @@ Styling options for the text of a <a href="sdk-for-ios-explore-classes-mapmarker
   Swift
 
   ``` highlight
-  public init ( textSize : Double , textColor : UIColor , textOutlineSize : Double , textOutlineColor : UIColor , placements : [ MapMarker . TextStyle . Placement ], fontName : String ) throws
+  public init(textSize: Double, textColor: UIColor, textOutlineSize: Double, textOutlineColor: UIColor, placements: [MapMarker.TextStyle.Placement], fontName: String) throws
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-mapmarker">MapMarker</a>
+  - <a href="sdk-for-ios-explore-classes-mapmarker-textstyle-placement">Placement</a>
 
   </div>
 
@@ -347,7 +359,7 @@ Styling options for the text of a <a href="sdk-for-ios-explore-classes-mapmarker
 
 - <div>
 
-  ` `<span id="/s:7heresdk9MapMarkerC9TextStyleC8fontNameSSvp"></span>` `<span id="//apple_ref/swift/Property/fontName" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-mapmarker-textstyle#/s:7heresdk9MapMarkerC9TextStyleC8fontNameSSvp" class="token"><code>fontName</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9MapMarkerC9TextStyleC8fontNameSSvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-fontName" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapmarker-textstyle#sdk-for-ios-explore-s-7heresdk9MapMarkerC9TextStyleC8fontNameSSvp" class="token"><code>fontName</code></a> 
 
   </div>
 
@@ -391,7 +403,7 @@ Styling options for the text of a <a href="sdk-for-ios-explore-classes-mapmarker
 
 - <div>
 
-  ` `<span id="/s:7heresdk9MapMarkerC9TextStyleC8textSizeSdvp"></span>` `<span id="//apple_ref/swift/Property/textSize" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-mapmarker-textstyle#/s:7heresdk9MapMarkerC9TextStyleC8textSizeSdvp" class="token"><code>textSize</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9MapMarkerC9TextStyleC8textSizeSdvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-textSize" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapmarker-textstyle#sdk-for-ios-explore-s-7heresdk9MapMarkerC9TextStyleC8textSizeSdvp" class="token"><code>textSize</code></a> 
 
   </div>
 
@@ -435,7 +447,7 @@ Styling options for the text of a <a href="sdk-for-ios-explore-classes-mapmarker
 
 - <div>
 
-  ` `<span id="/s:7heresdk9MapMarkerC9TextStyleC9textColorSo7UIColorCvp"></span>` `<span id="//apple_ref/swift/Property/textColor" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-mapmarker-textstyle#/s:7heresdk9MapMarkerC9TextStyleC9textColorSo7UIColorCvp" class="token"><code>textColor</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9MapMarkerC9TextStyleC9textColorSo7UIColorCvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-textColor" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapmarker-textstyle#sdk-for-ios-explore-s-7heresdk9MapMarkerC9TextStyleC9textColorSo7UIColorCvp" class="token"><code>textColor</code></a> 
 
   </div>
 
@@ -479,7 +491,7 @@ Styling options for the text of a <a href="sdk-for-ios-explore-classes-mapmarker
 
 - <div>
 
-  ` `<span id="/s:7heresdk9MapMarkerC9TextStyleC15textOutlineSizeSdvp"></span>` `<span id="//apple_ref/swift/Property/textOutlineSize" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-mapmarker-textstyle#/s:7heresdk9MapMarkerC9TextStyleC15textOutlineSizeSdvp" class="token"><code>textOutlineSize</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9MapMarkerC9TextStyleC15textOutlineSizeSdvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-textOutlineSize" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapmarker-textstyle#sdk-for-ios-explore-s-7heresdk9MapMarkerC9TextStyleC15textOutlineSizeSdvp" class="token"><code>textOutlineSize</code></a> 
 
   </div>
 
@@ -523,7 +535,7 @@ Styling options for the text of a <a href="sdk-for-ios-explore-classes-mapmarker
 
 - <div>
 
-  ` `<span id="/s:7heresdk9MapMarkerC9TextStyleC16textOutlineColorSo7UIColorCvp"></span>` `<span id="//apple_ref/swift/Property/textOutlineColor" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-mapmarker-textstyle#/s:7heresdk9MapMarkerC9TextStyleC16textOutlineColorSo7UIColorCvp" class="token"><code>textOutlineColor</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9MapMarkerC9TextStyleC16textOutlineColorSo7UIColorCvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-textOutlineColor" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapmarker-textstyle#sdk-for-ios-explore-s-7heresdk9MapMarkerC9TextStyleC16textOutlineColorSo7UIColorCvp" class="token"><code>textOutlineColor</code></a> 
 
   </div>
 
@@ -567,7 +579,7 @@ Styling options for the text of a <a href="sdk-for-ios-explore-classes-mapmarker
 
 - <div>
 
-  ` `<span id="/s:7heresdk9MapMarkerC9TextStyleC10placementsSayAE9PlacementOGvp"></span>` `<span id="//apple_ref/swift/Property/placements" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-mapmarker-textstyle#/s:7heresdk9MapMarkerC9TextStyleC10placementsSayAE9PlacementOGvp" class="token"><code>placements</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9MapMarkerC9TextStyleC10placementsSayAE9PlacementOGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-placements" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapmarker-textstyle#sdk-for-ios-explore-s-7heresdk9MapMarkerC9TextStyleC10placementsSayAE9PlacementOGvp" class="token"><code>placements</code></a> 
 
   </div>
 
@@ -603,6 +615,11 @@ Styling options for the text of a <a href="sdk-for-ios-explore-classes-mapmarker
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-mapmarker">MapMarker</a>
+  - <a href="sdk-for-ios-explore-classes-mapmarker-textstyle-placement">Placement</a>
+
   </div>
 
   </div>
@@ -611,7 +628,7 @@ Styling options for the text of a <a href="sdk-for-ios-explore-classes-mapmarker
 
 - <div>
 
-  ` `<span id="/s:7heresdk9MapMarkerC9TextStyleC22InstantiationErrorCodeO"></span>` `<span id="//apple_ref/swift/Enum/InstantiationErrorCode" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-mapmarker-textstyle#/s:7heresdk9MapMarkerC9TextStyleC22InstantiationErrorCodeO" class="token"><code>InstantiationErrorCode</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9MapMarkerC9TextStyleC22InstantiationErrorCodeO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-InstantiationErrorCode" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapmarker-textstyle#sdk-for-ios-explore-s-7heresdk9MapMarkerC9TextStyleC22InstantiationErrorCodeO" class="token"><code>InstantiationErrorCode</code></a> 
 
   </div>
 
@@ -653,6 +670,11 @@ Styling options for the text of a <a href="sdk-for-ios-explore-classes-mapmarker
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-mapmarker">MapMarker</a>
+  - <a href="sdk-for-ios-explore-classes-mapmarker-textstyle">TextStyle</a>
+
   </div>
 
   </div>
@@ -661,7 +683,7 @@ Styling options for the text of a <a href="sdk-for-ios-explore-classes-mapmarker
 
 - <div>
 
-  ` `<span id="/s:7heresdk9MapMarkerC9TextStyleC9PlacementO"></span>` `<span id="//apple_ref/swift/Enum/Placement" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-mapmarker-textstyle#/s:7heresdk9MapMarkerC9TextStyleC9PlacementO" class="token"><code>Placement</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9MapMarkerC9TextStyleC9PlacementO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-Placement" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapmarker-textstyle#sdk-for-ios-explore-s-7heresdk9MapMarkerC9TextStyleC9PlacementO" class="token"><code>Placement</code></a> 
 
   </div>
 

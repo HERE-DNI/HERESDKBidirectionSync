@@ -27,7 +27,7 @@ Junctions traversability of some traffic incident or flow section.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14TraversabilityO4openyA2CmF"></span>` `<span id="//apple_ref/swift/Element/open" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-traversability#/s:7heresdk14TraversabilityO4openyA2CmF" class="token"><code>open</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14TraversabilityO4openyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-open" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-traversability#sdk-for-ios-explore-s-7heresdk14TraversabilityO4openyA2CmF" class="token"><code>open</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Junctions traversability of some traffic incident or flow section.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14TraversabilityO6closedyA2CmF"></span>` `<span id="//apple_ref/swift/Element/closed" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-traversability#/s:7heresdk14TraversabilityO6closedyA2CmF" class="token"><code>closed</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14TraversabilityO6closedyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-closed" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-traversability#sdk-for-ios-explore-s-7heresdk14TraversabilityO6closedyA2CmF" class="token"><code>closed</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Junctions traversability of some traffic incident or flow section.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14TraversabilityO21reversibleNotRoutableyA2CmF"></span>` `<span id="//apple_ref/swift/Element/reversibleNotRoutable" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-traversability#/s:7heresdk14TraversabilityO21reversibleNotRoutableyA2CmF" class="token"><code>reversibleNotRoutable</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14TraversabilityO21reversibleNotRoutableyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-reversibleNotRoutable" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-traversability#sdk-for-ios-explore-s-7heresdk14TraversabilityO21reversibleNotRoutableyA2CmF" class="token"><code>reversibleNotRoutable</code></a> 
 
   </div>
 

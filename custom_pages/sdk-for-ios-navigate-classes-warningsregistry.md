@@ -37,7 +37,7 @@ A class that store warning metadata for different warning types. Aggregates indi
 
 - <div>
 
-      getSafetyCameraWarning(warning: )
+   <span id="sdk-for-ios-navigate-s-7heresdk16WarningsRegistryC22getSafetyCameraWarning7warningAA0efG0VSgAA0G0V_tF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-getSafetyCameraWarning-warning" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-warningsregistry#sdk-for-ios-navigate-s-7heresdk16WarningsRegistryC22getSafetyCameraWarning7warningAA0efG0VSgAA0G0V_tF" class="token"><code>getSafetyCameraWarning(warning:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -68,12 +68,15 @@ A class that store warning metadata for different warning types. Aggregates indi
   Swift
 
   ``` highlight
-  public func getSafetyCameraWarning ( warning : Warning ) -> SafetyCameraWarning ?
+  public func getSafetyCameraWarning(warning: Warning) -> SafetyCameraWarning?
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-warning">Warning</a>
+  - <a href="sdk-for-ios-navigate-structs-safetycamerawarning">SafetyCameraWarning</a>
 
   </div>
 
@@ -120,7 +123,7 @@ A class that store warning metadata for different warning types. Aggregates indi
 
 - <div>
 
-      getTruckRestrictionWarning(warning: )
+   <span id="sdk-for-ios-navigate-s-7heresdk16WarningsRegistryC26getTruckRestrictionWarning7warningAA0efG0VSgAA0G0V_tF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-getTruckRestrictionWarning-warning" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-warningsregistry#sdk-for-ios-navigate-s-7heresdk16WarningsRegistryC26getTruckRestrictionWarning7warningAA0efG0VSgAA0G0V_tF" class="token"><code>getTruckRestrictionWarning(warning:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -151,12 +154,15 @@ A class that store warning metadata for different warning types. Aggregates indi
   Swift
 
   ``` highlight
-  public func getTruckRestrictionWarning ( warning : Warning ) -> TruckRestrictionWarning ?
+  public func getTruckRestrictionWarning(warning: Warning) -> TruckRestrictionWarning?
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-warning">Warning</a>
+  - <a href="sdk-for-ios-navigate-structs-truckrestrictionwarning">TruckRestrictionWarning</a>
 
   </div>
 
@@ -203,7 +209,7 @@ A class that store warning metadata for different warning types. Aggregates indi
 
 - <div>
 
-      getRoadSignWarning(warning: )
+   <span id="sdk-for-ios-navigate-s-7heresdk16WarningsRegistryC18getRoadSignWarning7warningAA0efG0VSgAA0G0V_tF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-getRoadSignWarning-warning" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-warningsregistry#sdk-for-ios-navigate-s-7heresdk16WarningsRegistryC18getRoadSignWarning7warningAA0efG0VSgAA0G0V_tF" class="token"><code>getRoadSignWarning(warning:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -234,12 +240,15 @@ A class that store warning metadata for different warning types. Aggregates indi
   Swift
 
   ``` highlight
-  public func getRoadSignWarning ( warning : Warning ) -> RoadSignWarning ?
+  public func getRoadSignWarning(warning: Warning) -> RoadSignWarning?
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-warning">Warning</a>
+  - <a href="sdk-for-ios-navigate-structs-roadsignwarning">RoadSignWarning</a>
 
   </div>
 
@@ -286,7 +295,7 @@ A class that store warning metadata for different warning types. Aggregates indi
 
 - <div>
 
-      getRealisticViewWarning(warning: )
+   <span id="sdk-for-ios-navigate-s-7heresdk16WarningsRegistryC23getRealisticViewWarning7warningAA0efG0VSgAA0G0V_tF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-getRealisticViewWarning-warning" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-warningsregistry#sdk-for-ios-navigate-s-7heresdk16WarningsRegistryC23getRealisticViewWarning7warningAA0efG0VSgAA0G0V_tF" class="token"><code>getRealisticViewWarning(warning:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -317,12 +326,15 @@ A class that store warning metadata for different warning types. Aggregates indi
   Swift
 
   ``` highlight
-  public func getRealisticViewWarning ( warning : Warning ) -> RealisticViewWarning ?
+  public func getRealisticViewWarning(warning: Warning) -> RealisticViewWarning?
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-warning">Warning</a>
+  - <a href="sdk-for-ios-navigate-structs-realisticviewwarning">RealisticViewWarning</a>
 
   </div>
 
@@ -369,7 +381,7 @@ A class that store warning metadata for different warning types. Aggregates indi
 
 - <div>
 
-      getEnvironmentalZoneWarning(warning: )
+   <span id="sdk-for-ios-navigate-s-7heresdk16WarningsRegistryC27getEnvironmentalZoneWarning7warningAA0efG0VSgAA0G0V_tF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-getEnvironmentalZoneWarning-warning" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-warningsregistry#sdk-for-ios-navigate-s-7heresdk16WarningsRegistryC27getEnvironmentalZoneWarning7warningAA0efG0VSgAA0G0V_tF" class="token"><code>getEnvironmentalZoneWarning(warning:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -400,12 +412,15 @@ A class that store warning metadata for different warning types. Aggregates indi
   Swift
 
   ``` highlight
-  public func getEnvironmentalZoneWarning ( warning : Warning ) -> EnvironmentalZoneWarning ?
+  public func getEnvironmentalZoneWarning(warning: Warning) -> EnvironmentalZoneWarning?
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-warning">Warning</a>
+  - <a href="sdk-for-ios-navigate-structs-environmentalzonewarning">EnvironmentalZoneWarning</a>
 
   </div>
 
@@ -452,7 +467,7 @@ A class that store warning metadata for different warning types. Aggregates indi
 
 - <div>
 
-      getSchoolZoneWarning(warning: )
+   <span id="sdk-for-ios-navigate-s-7heresdk16WarningsRegistryC20getSchoolZoneWarning7warningAA0efG0VSgAA0G0V_tF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-getSchoolZoneWarning-warning" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-warningsregistry#sdk-for-ios-navigate-s-7heresdk16WarningsRegistryC20getSchoolZoneWarning7warningAA0efG0VSgAA0G0V_tF" class="token"><code>getSchoolZoneWarning(warning:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -483,12 +498,15 @@ A class that store warning metadata for different warning types. Aggregates indi
   Swift
 
   ``` highlight
-  public func getSchoolZoneWarning ( warning : Warning ) -> SchoolZoneWarning ?
+  public func getSchoolZoneWarning(warning: Warning) -> SchoolZoneWarning?
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-warning">Warning</a>
+  - <a href="sdk-for-ios-navigate-structs-schoolzonewarning">SchoolZoneWarning</a>
 
   </div>
 
@@ -535,7 +553,7 @@ A class that store warning metadata for different warning types. Aggregates indi
 
 - <div>
 
-      getTollStopWarning(warning: )
+   <span id="sdk-for-ios-navigate-s-7heresdk16WarningsRegistryC18getTollStopWarning7warningAA0eF0VSgAA0G0V_tF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-getTollStopWarning-warning" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-warningsregistry#sdk-for-ios-navigate-s-7heresdk16WarningsRegistryC18getTollStopWarning7warningAA0eF0VSgAA0G0V_tF" class="token"><code>getTollStopWarning(warning:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -566,12 +584,15 @@ A class that store warning metadata for different warning types. Aggregates indi
   Swift
 
   ``` highlight
-  public func getTollStopWarning ( warning : Warning ) -> TollStop ?
+  public func getTollStopWarning(warning: Warning) -> TollStop?
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-warning">Warning</a>
+  - <a href="sdk-for-ios-navigate-structs-tollstop">TollStop</a>
 
   </div>
 
@@ -618,7 +639,7 @@ A class that store warning metadata for different warning types. Aggregates indi
 
 - <div>
 
-      getDangerZoneWarning(warning: )
+   <span id="sdk-for-ios-navigate-s-7heresdk16WarningsRegistryC20getDangerZoneWarning7warningAA0efG0VSgAA0G0V_tF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-getDangerZoneWarning-warning" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-warningsregistry#sdk-for-ios-navigate-s-7heresdk16WarningsRegistryC20getDangerZoneWarning7warningAA0efG0VSgAA0G0V_tF" class="token"><code>getDangerZoneWarning(warning:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -649,12 +670,15 @@ A class that store warning metadata for different warning types. Aggregates indi
   Swift
 
   ``` highlight
-  public func getDangerZoneWarning ( warning : Warning ) -> DangerZoneWarning ?
+  public func getDangerZoneWarning(warning: Warning) -> DangerZoneWarning?
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-warning">Warning</a>
+  - <a href="sdk-for-ios-navigate-structs-dangerzonewarning">DangerZoneWarning</a>
 
   </div>
 
@@ -701,7 +725,7 @@ A class that store warning metadata for different warning types. Aggregates indi
 
 - <div>
 
-      getBorderCrossingWarning(warning: )
+   <span id="sdk-for-ios-navigate-s-7heresdk16WarningsRegistryC24getBorderCrossingWarning7warningAA0efG0VSgAA0G0V_tF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-getBorderCrossingWarning-warning" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-warningsregistry#sdk-for-ios-navigate-s-7heresdk16WarningsRegistryC24getBorderCrossingWarning7warningAA0efG0VSgAA0G0V_tF" class="token"><code>getBorderCrossingWarning(warning:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -732,12 +756,15 @@ A class that store warning metadata for different warning types. Aggregates indi
   Swift
 
   ``` highlight
-  public func getBorderCrossingWarning ( warning : Warning ) -> BorderCrossingWarning ?
+  public func getBorderCrossingWarning(warning: Warning) -> BorderCrossingWarning?
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-warning">Warning</a>
+  - <a href="sdk-for-ios-navigate-structs-bordercrossingwarning">BorderCrossingWarning</a>
 
   </div>
 
@@ -784,7 +811,7 @@ A class that store warning metadata for different warning types. Aggregates indi
 
 - <div>
 
-      getRailwayCrossingWarning(warning: )
+   <span id="sdk-for-ios-navigate-s-7heresdk16WarningsRegistryC25getRailwayCrossingWarning7warningAA0efG0VSgAA0G0V_tF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-getRailwayCrossingWarning-warning" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-warningsregistry#sdk-for-ios-navigate-s-7heresdk16WarningsRegistryC25getRailwayCrossingWarning7warningAA0efG0VSgAA0G0V_tF" class="token"><code>getRailwayCrossingWarning(warning:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -815,12 +842,15 @@ A class that store warning metadata for different warning types. Aggregates indi
   Swift
 
   ``` highlight
-  public func getRailwayCrossingWarning ( warning : Warning ) -> RailwayCrossingWarning ?
+  public func getRailwayCrossingWarning(warning: Warning) -> RailwayCrossingWarning?
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-warning">Warning</a>
+  - <a href="sdk-for-ios-navigate-structs-railwaycrossingwarning">RailwayCrossingWarning</a>
 
   </div>
 
@@ -867,7 +897,7 @@ A class that store warning metadata for different warning types. Aggregates indi
 
 - <div>
 
-      getLowSpeedZoneWarning(warning: )
+   <span id="sdk-for-ios-navigate-s-7heresdk16WarningsRegistryC22getLowSpeedZoneWarning7warningAA0efgH0VSgAA0H0V_tF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-getLowSpeedZoneWarning-warning" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-warningsregistry#sdk-for-ios-navigate-s-7heresdk16WarningsRegistryC22getLowSpeedZoneWarning7warningAA0efgH0VSgAA0H0V_tF" class="token"><code>getLowSpeedZoneWarning(warning:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -898,12 +928,15 @@ A class that store warning metadata for different warning types. Aggregates indi
   Swift
 
   ``` highlight
-  public func getLowSpeedZoneWarning ( warning : Warning ) -> LowSpeedZoneWarning ?
+  public func getLowSpeedZoneWarning(warning: Warning) -> LowSpeedZoneWarning?
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-warning">Warning</a>
+  - <a href="sdk-for-ios-navigate-structs-lowspeedzonewarning">LowSpeedZoneWarning</a>
 
   </div>
 
@@ -950,7 +983,7 @@ A class that store warning metadata for different warning types. Aggregates indi
 
 - <div>
 
-      getTrafficMergeWarning(warning: )
+   <span id="sdk-for-ios-navigate-s-7heresdk16WarningsRegistryC22getTrafficMergeWarning7warningAA0efG0VSgAA0G0V_tF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-getTrafficMergeWarning-warning" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-warningsregistry#sdk-for-ios-navigate-s-7heresdk16WarningsRegistryC22getTrafficMergeWarning7warningAA0efG0VSgAA0G0V_tF" class="token"><code>getTrafficMergeWarning(warning:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -981,12 +1014,15 @@ A class that store warning metadata for different warning types. Aggregates indi
   Swift
 
   ``` highlight
-  public func getTrafficMergeWarning ( warning : Warning ) -> TrafficMergeWarning ?
+  public func getTrafficMergeWarning(warning: Warning) -> TrafficMergeWarning?
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-warning">Warning</a>
+  - <a href="sdk-for-ios-navigate-structs-trafficmergewarning">TrafficMergeWarning</a>
 
   </div>
 
@@ -1033,7 +1069,7 @@ A class that store warning metadata for different warning types. Aggregates indi
 
 - <div>
 
-      getLaneDecreaseWarning(warning: )
+   <span id="sdk-for-ios-navigate-s-7heresdk16WarningsRegistryC22getLaneDecreaseWarning7warningAA0efG0VSgAA0G0V_tF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-getLaneDecreaseWarning-warning" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-warningsregistry#sdk-for-ios-navigate-s-7heresdk16WarningsRegistryC22getLaneDecreaseWarning7warningAA0efG0VSgAA0G0V_tF" class="token"><code>getLaneDecreaseWarning(warning:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1064,12 +1100,15 @@ A class that store warning metadata for different warning types. Aggregates indi
   Swift
 
   ``` highlight
-  public func getLaneDecreaseWarning ( warning : Warning ) -> LaneDecreaseWarning ?
+  public func getLaneDecreaseWarning(warning: Warning) -> LaneDecreaseWarning?
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-warning">Warning</a>
+  - <a href="sdk-for-ios-navigate-structs-lanedecreasewarning">LaneDecreaseWarning</a>
 
   </div>
 
@@ -1118,7 +1157,7 @@ A class that store warning metadata for different warning types. Aggregates indi
 
 - <div>
 
-      getCustomWarning(warning: )
+   <span id="sdk-for-ios-navigate-s-7heresdk16WarningsRegistryC16getCustomWarning7warningAA0eF0VSgAA0F0V_tF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-getCustomWarning-warning" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-warningsregistry#sdk-for-ios-navigate-s-7heresdk16WarningsRegistryC16getCustomWarning7warningAA0eF0VSgAA0F0V_tF" class="token"><code>getCustomWarning(warning:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1156,12 +1195,15 @@ A class that store warning metadata for different warning types. Aggregates indi
   Swift
 
   ``` highlight
-  public func getCustomWarning ( warning : Warning ) -> CustomWarning ?
+  public func getCustomWarning(warning: Warning) -> CustomWarning?
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-warning">Warning</a>
+  - <a href="sdk-for-ios-navigate-structs-customwarning">CustomWarning</a>
 
   </div>
 

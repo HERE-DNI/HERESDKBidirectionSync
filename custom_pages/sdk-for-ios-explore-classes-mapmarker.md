@@ -29,28 +29,15 @@ extension MapMarker: Hashable
 
 The image to be displayed is represented by <a href="sdk-for-ios-explore-classes-mapimage">`MapImage`</a> object. For performance reasons, it is highly recommended to reuse a single instance of the image when creating multiple identical markers.
 
-To display the map marker, it needs to be added to the scene using
-
-    MapScene.addMapMarker(...)
-
-. To stop displaying it, remove it from the scene using
-
-    MapScene.removeMapMarker(...)
-
-.
-</p>
+To display the map marker, it needs to be added to the scene using <a href="sdk-for-ios-explore-classes-mapscene#sdk-for-ios-explore-s-7heresdk8MapSceneC03addB6MarkeryyAA0bE0CF">`MapScene.addMapMarker(...)`</a>. To stop displaying it, remove it from the scene using <a href="sdk-for-ios-explore-classes-mapscene#sdk-for-ios-explore-s-7heresdk8MapSceneC06removeB6MarkeryyAA0bE0CF">`MapScene.removeMapMarker(...)`</a>.
 
 The display of a map marker is only guaranteed in case its origin is within the viewport. At the moment, this is a known limitation that mostly affects map markers which are visually large and cover a sizeable part of the viewport.
 
-**Note:** Due to technical limitations using the MapMarkers API to add a very large number of markers (several thousands, especially 10000+) is not recommended. Adding this many markers will have a negative impact on the performance leading to stuttering of the app and lower frame rates. To work around this limitation the following approach can be used: Register to map camera updates using
-
-    MapCamera.addDelegate(...)
-
-. Query the bounding box of the camera viewport using <a href="sdk-for-ios-explore-classes-mapcamera#/s:7heresdk9MapCameraC11boundingBoxAA03GeoE0VSgvp">`MapCamera.boundingBox`</a> (it may be extended) and then use the method
+**Note:** Due to technical limitations using the MapMarkers API to add a very large number of markers (several thousands, especially 10000+) is not recommended. Adding this many markers will have a negative impact on the performance leading to stuttering of the app and lower frame rates. To work around this limitation the following approach can be used: Register to map camera updates using <a href="sdk-for-ios-explore-classes-mapcamera#sdk-for-ios-explore-s-7heresdk9MapCameraC11addDelegateyyAA0bcE0_pF">`MapCamera.addDelegate(...)`</a>. Query the bounding box of the camera viewport using <a href="sdk-for-ios-explore-classes-mapcamera#sdk-for-ios-explore-s-7heresdk9MapCameraC11boundingBoxAA03GeoE0VSgvp">`MapCamera.boundingBox`</a> (it may be extended) and then use the method
 
     GeoBox.contains(GeoCoordinates)
 
-in combination with <a href="sdk-for-ios-explore-classes-mapcamera-state#/s:7heresdk9MapCameraC5StateV24distanceToTargetInMetersSdvp">`MapCamera.State.distanceToTargetInMeters`</a> to determine which MapMarkers are actually visible to the user in the current camera viewport and thus need to be added to the map.
+in combination with <a href="sdk-for-ios-explore-classes-mapcamera-state#sdk-for-ios-explore-s-7heresdk9MapCameraC5StateV24distanceToTargetInMetersSdvp">`MapCamera.State.distanceToTargetInMeters`</a> to determine which MapMarkers are actually visible to the user in the current camera viewport and thus need to be added to the map.
 </p>
 
 </div>
@@ -61,7 +48,7 @@ in combination with <a href="sdk-for-ios-explore-classes-mapcamera-state#/s:7her
 
 - <div>
 
-      init(at: image: )
+   <span id="sdk-for-ios-explore-s-7heresdk9MapMarkerC2at5imageAcA14GeoCoordinatesV_AA0B5ImageCtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-at-image" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapmarker#sdk-for-ios-explore-s-7heresdk9MapMarkerC2at5imageAcA14GeoCoordinatesV_AA0B5ImageCtcfc" class="token"><code>init(at:</code><wbr></wbr><code>image:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -94,12 +81,15 @@ in combination with <a href="sdk-for-ios-explore-classes-mapcamera-state#/s:7her
   Swift
 
   ``` highlight
-  public init ( at coordinates : GeoCoordinates , image : MapImage )
+  public init(at coordinates: GeoCoordinates, image: MapImage)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geocoordinates">GeoCoordinates</a>
+  - <a href="sdk-for-ios-explore-classes-mapimage">MapImage</a>
 
   </div>
 
@@ -136,7 +126,7 @@ in combination with <a href="sdk-for-ios-explore-classes-mapcamera-state#/s:7her
 
 - <div>
 
-      init(at: image: text: )
+   <span id="sdk-for-ios-explore-s-7heresdk9MapMarkerC2at5image4textAcA14GeoCoordinatesV_AA0B5ImageCSStcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-at-image-text" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapmarker#sdk-for-ios-explore-s-7heresdk9MapMarkerC2at5image4textAcA14GeoCoordinatesV_AA0B5ImageCSStcfc" class="token"><code>init(at:</code><wbr></wbr><code>image:</code><wbr></wbr><code>text:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -169,12 +159,15 @@ in combination with <a href="sdk-for-ios-explore-classes-mapcamera-state#/s:7her
   Swift
 
   ``` highlight
-  public init ( at coordinates : GeoCoordinates , image : MapImage , text : String )
+  public init(at coordinates: GeoCoordinates, image: MapImage, text: String)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geocoordinates">GeoCoordinates</a>
+  - <a href="sdk-for-ios-explore-classes-mapimage">MapImage</a>
 
   </div>
 
@@ -217,7 +210,7 @@ in combination with <a href="sdk-for-ios-explore-classes-mapcamera-state#/s:7her
 
 - <div>
 
-      init(at: image: anchor: )
+   <span id="sdk-for-ios-explore-s-7heresdk9MapMarkerC2at5image6anchorAcA14GeoCoordinatesV_AA0B5ImageCAA8Anchor2DVtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-at-image-anchor" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapmarker#sdk-for-ios-explore-s-7heresdk9MapMarkerC2at5image6anchorAcA14GeoCoordinatesV_AA0B5ImageCAA8Anchor2DVtcfc" class="token"><code>init(at:</code><wbr></wbr><code>image:</code><wbr></wbr><code>anchor:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -250,12 +243,16 @@ in combination with <a href="sdk-for-ios-explore-classes-mapcamera-state#/s:7her
   Swift
 
   ``` highlight
-  public init ( at coordinates : GeoCoordinates , image : MapImage , anchor : Anchor2D )
+  public init(at coordinates: GeoCoordinates, image: MapImage, anchor: Anchor2D)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geocoordinates">GeoCoordinates</a>
+  - <a href="sdk-for-ios-explore-classes-mapimage">MapImage</a>
+  - <a href="sdk-for-ios-explore-structs-anchor2d">Anchor2D</a>
 
   </div>
 
@@ -298,7 +295,7 @@ in combination with <a href="sdk-for-ios-explore-classes-mapcamera-state#/s:7her
 
 - <div>
 
-  ` `<span id="/s:7heresdk9MapMarkerC11coordinatesAA14GeoCoordinatesVvp"></span>` `<span id="//apple_ref/swift/Property/coordinates" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-mapmarker#/s:7heresdk9MapMarkerC11coordinatesAA14GeoCoordinatesVvp" class="token"><code>coordinates</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9MapMarkerC11coordinatesAA14GeoCoordinatesVvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-coordinates" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapmarker#sdk-for-ios-explore-s-7heresdk9MapMarkerC11coordinatesAA14GeoCoordinatesVvp" class="token"><code>coordinates</code></a> 
 
   </div>
 
@@ -334,6 +331,10 @@ in combination with <a href="sdk-for-ios-explore-classes-mapcamera-state#/s:7her
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geocoordinates">GeoCoordinates</a>
+
   </div>
 
   </div>
@@ -342,7 +343,7 @@ in combination with <a href="sdk-for-ios-explore-classes-mapcamera-state#/s:7her
 
 - <div>
 
-  ` `<span id="/s:7heresdk9MapMarkerC8metadataAA8MetadataCSgvp"></span>` `<span id="//apple_ref/swift/Property/metadata" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-mapmarker#/s:7heresdk9MapMarkerC8metadataAA8MetadataCSgvp" class="token"><code>metadata</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9MapMarkerC8metadataAA8MetadataCSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-metadata" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapmarker#sdk-for-ios-explore-s-7heresdk9MapMarkerC8metadataAA8MetadataCSgvp" class="token"><code>metadata</code></a> 
 
   </div>
 
@@ -378,6 +379,10 @@ in combination with <a href="sdk-for-ios-explore-classes-mapcamera-state#/s:7her
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-metadata">Metadata</a>
+
   </div>
 
   </div>
@@ -386,7 +391,7 @@ in combination with <a href="sdk-for-ios-explore-classes-mapcamera-state#/s:7her
 
 - <div>
 
-  ` `<span id="/s:7heresdk9MapMarkerC16isOverlapAllowedSbvp"></span>` `<span id="//apple_ref/swift/Property/isOverlapAllowed" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-mapmarker#/s:7heresdk9MapMarkerC16isOverlapAllowedSbvp" class="token"><code>isOverlapAllowed</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9MapMarkerC16isOverlapAllowedSbvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-isOverlapAllowed" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapmarker#sdk-for-ios-explore-s-7heresdk9MapMarkerC16isOverlapAllowedSbvp" class="token"><code>isOverlapAllowed</code></a> 
 
   </div>
 
@@ -432,7 +437,7 @@ in combination with <a href="sdk-for-ios-explore-classes-mapcamera-state#/s:7her
 
 - <div>
 
-  ` `<span id="/s:7heresdk9MapMarkerC14isTextOptionalSbvp"></span>` `<span id="//apple_ref/swift/Property/isTextOptional" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-mapmarker#/s:7heresdk9MapMarkerC14isTextOptionalSbvp" class="token"><code>isTextOptional</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9MapMarkerC14isTextOptionalSbvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-isTextOptional" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapmarker#sdk-for-ios-explore-s-7heresdk9MapMarkerC14isTextOptionalSbvp" class="token"><code>isTextOptional</code></a> 
 
   </div>
 
@@ -450,7 +455,7 @@ in combination with <a href="sdk-for-ios-explore-classes-mapcamera-state#/s:7her
 
   <div class="abstract">
 
-  Determines if the marker can be displayed with icon and without text. Controls whenever `MapMarker` can be shown as icon only when <a href="sdk-for-ios-explore-classes-mapmarker#/s:7heresdk9MapMarkerC16isOverlapAllowedSbvp">`MapMarker.isOverlapAllowed`</a> is `false`, has no effect otherwise. If `false` then the `MapMarker` will not appear when icon or text are blocked by other labels. If `true`, icon will appear even if the text part is blocked by other labels.
+  Determines if the marker can be displayed with icon and without text. Controls whenever `MapMarker` can be shown as icon only when <a href="sdk-for-ios-explore-classes-mapmarker#sdk-for-ios-explore-s-7heresdk9MapMarkerC16isOverlapAllowedSbvp">`MapMarker.isOverlapAllowed`</a> is `false`, has no effect otherwise. If `false` then the `MapMarker` will not appear when icon or text are blocked by other labels. If `true`, icon will appear even if the text part is blocked by other labels.
 
   Defaults to `false`.
 
@@ -478,7 +483,7 @@ in combination with <a href="sdk-for-ios-explore-classes-mapcamera-state#/s:7her
 
 - <div>
 
-  ` `<span id="/s:7heresdk9MapMarkerC9drawOrders5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/drawOrder" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-mapmarker#/s:7heresdk9MapMarkerC9drawOrders5Int32Vvp" class="token"><code>drawOrder</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9MapMarkerC9drawOrders5Int32Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-drawOrder" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapmarker#sdk-for-ios-explore-s-7heresdk9MapMarkerC9drawOrders5Int32Vvp" class="token"><code>drawOrder</code></a> 
 
   </div>
 
@@ -524,7 +529,7 @@ in combination with <a href="sdk-for-ios-explore-classes-mapcamera-state#/s:7her
 
 - <div>
 
-  ` `<span id="/s:7heresdk9MapMarkerC5imageAA0B5ImageCvp"></span>` `<span id="//apple_ref/swift/Property/image" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-mapmarker#/s:7heresdk9MapMarkerC5imageAA0B5ImageCvp" class="token"><code>image</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9MapMarkerC5imageAA0B5ImageCvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-image" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapmarker#sdk-for-ios-explore-s-7heresdk9MapMarkerC5imageAA0B5ImageCvp" class="token"><code>image</code></a> 
 
   </div>
 
@@ -560,6 +565,10 @@ in combination with <a href="sdk-for-ios-explore-classes-mapcamera-state#/s:7her
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-mapimage">MapImage</a>
+
   </div>
 
   </div>
@@ -568,7 +577,7 @@ in combination with <a href="sdk-for-ios-explore-classes-mapcamera-state#/s:7her
 
 - <div>
 
-  ` `<span id="/s:7heresdk9MapMarkerC6anchorAA8Anchor2DVvp"></span>` `<span id="//apple_ref/swift/Property/anchor" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-mapmarker#/s:7heresdk9MapMarkerC6anchorAA8Anchor2DVvp" class="token"><code>anchor</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9MapMarkerC6anchorAA8Anchor2DVvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-anchor" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapmarker#sdk-for-ios-explore-s-7heresdk9MapMarkerC6anchorAA8Anchor2DVvp" class="token"><code>anchor</code></a> 
 
   </div>
 
@@ -604,6 +613,10 @@ in combination with <a href="sdk-for-ios-explore-classes-mapcamera-state#/s:7her
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-anchor2d">Anchor2D</a>
+
   </div>
 
   </div>
@@ -612,7 +625,7 @@ in combination with <a href="sdk-for-ios-explore-classes-mapcamera-state#/s:7her
 
 - <div>
 
-  ` `<span id="/s:7heresdk9MapMarkerC7opacitySdvp"></span>` `<span id="//apple_ref/swift/Property/opacity" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-mapmarker#/s:7heresdk9MapMarkerC7opacitySdvp" class="token"><code>opacity</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9MapMarkerC7opacitySdvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-opacity" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapmarker#sdk-for-ios-explore-s-7heresdk9MapMarkerC7opacitySdvp" class="token"><code>opacity</code></a> 
 
   </div>
 
@@ -658,7 +671,7 @@ in combination with <a href="sdk-for-ios-explore-classes-mapcamera-state#/s:7her
 
 - <div>
 
-  ` `<span id="/s:7heresdk9MapMarkerC12fadeDurationSdvp"></span>` `<span id="//apple_ref/swift/Property/fadeDuration" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-mapmarker#/s:7heresdk9MapMarkerC12fadeDurationSdvp" class="token"><code>fadeDuration</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9MapMarkerC12fadeDurationSdvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-fadeDuration" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapmarker#sdk-for-ios-explore-s-7heresdk9MapMarkerC12fadeDurationSdvp" class="token"><code>fadeDuration</code></a> 
 
   </div>
 
@@ -706,7 +719,7 @@ in combination with <a href="sdk-for-ios-explore-classes-mapcamera-state#/s:7her
 
 - <div>
 
-  ` `<span id="/s:7heresdk9MapMarkerC4textSSvp"></span>` `<span id="//apple_ref/swift/Property/text" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-mapmarker#/s:7heresdk9MapMarkerC4textSSvp" class="token"><code>text</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9MapMarkerC4textSSvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-text" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapmarker#sdk-for-ios-explore-s-7heresdk9MapMarkerC4textSSvp" class="token"><code>text</code></a> 
 
   </div>
 
@@ -750,7 +763,7 @@ in combination with <a href="sdk-for-ios-explore-classes-mapcamera-state#/s:7her
 
 - <div>
 
-  ` `<span id="/s:7heresdk9MapMarkerC9textStyleAC04TextE0Cvp"></span>` `<span id="//apple_ref/swift/Property/textStyle" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-mapmarker#/s:7heresdk9MapMarkerC9textStyleAC04TextE0Cvp" class="token"><code>textStyle</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9MapMarkerC9textStyleAC04TextE0Cvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-textStyle" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapmarker#sdk-for-ios-explore-s-7heresdk9MapMarkerC9textStyleAC04TextE0Cvp" class="token"><code>textStyle</code></a> 
 
   </div>
 
@@ -786,6 +799,10 @@ in combination with <a href="sdk-for-ios-explore-classes-mapcamera-state#/s:7her
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-mapmarker-textstyle">TextStyle</a>
+
   </div>
 
   </div>
@@ -794,7 +811,7 @@ in combination with <a href="sdk-for-ios-explore-classes-mapcamera-state#/s:7her
 
 - <div>
 
-  ` `<span id="/s:7heresdk9MapMarkerC16visibilityRangesSayAA0B12MeasureRangeVGvp"></span>` `<span id="//apple_ref/swift/Property/visibilityRanges" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-mapmarker#/s:7heresdk9MapMarkerC16visibilityRangesSayAA0B12MeasureRangeVGvp" class="token"><code>visibilityRanges</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9MapMarkerC16visibilityRangesSayAA0B12MeasureRangeVGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-visibilityRanges" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapmarker#sdk-for-ios-explore-s-7heresdk9MapMarkerC16visibilityRangesSayAA0B12MeasureRangeVGvp" class="token"><code>visibilityRanges</code></a> 
 
   </div>
 
@@ -814,7 +831,7 @@ in combination with <a href="sdk-for-ios-explore-classes-mapcamera-state#/s:7her
 
   The list of visibility ranges. The map marker is visible only inside these map measure ranges. A range is half open - \<a href="sdk-for-ios-explore-structs-mapmeasurerange">minimumZoomLevel, maximumZoomLevel), the given maximum value is not contained in the range.
 
-  When empty (the default), the map marker is visible without map measure restrictions. Only [`MapMeasureRange`</a>(s) of <a href="sdk-for-ios-explore-structs-mapmeasure-kind#/s:7heresdk10MapMeasureV4KindO9zoomLevelyA2EmF">`MapMeasure.Kind.zoomLevel`</a> type are supported. <a href="sdk-for-ios-explore-structs-mapmeasurerange">`MapMeasureRange`</a>(s) of other unsupported types will be ignored.
+  When empty (the default), the map marker is visible without map measure restrictions. Only [`MapMeasureRange`</a>(s) of <a href="sdk-for-ios-explore-structs-mapmeasure-kind#sdk-for-ios-explore-s-7heresdk10MapMeasureV4KindO9zoomLevelyA2EmF">`MapMeasure.Kind.zoomLevel`</a> type are supported. <a href="sdk-for-ios-explore-structs-mapmeasurerange">`MapMeasureRange`</a>(s) of other unsupported types will be ignored.
 
   </div>
 
@@ -832,6 +849,10 @@ in combination with <a href="sdk-for-ios-explore-classes-mapcamera-state#/s:7her
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-mapmeasurerange">MapMeasureRange</a>
+
   </div>
 
   </div>
@@ -840,7 +861,7 @@ in combination with <a href="sdk-for-ios-explore-classes-mapcamera-state#/s:7her
 
 - <div>
 
-  ` `<span id="/s:7heresdk9MapMarkerC9TextStyleC"></span>` `<span id="//apple_ref/swift/Class/TextStyle" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-mapmarker#/s:7heresdk9MapMarkerC9TextStyleC" class="token"><code>TextStyle</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9MapMarkerC9TextStyleC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-TextStyle" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapmarker#sdk-for-ios-explore-s-7heresdk9MapMarkerC9TextStyleC" class="token"><code>TextStyle</code></a> 
 
   </div>
 
@@ -886,6 +907,10 @@ in combination with <a href="sdk-for-ios-explore-classes-mapcamera-state#/s:7her
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-mapmarker">MapMarker</a>
+
   </div>
 
   </div>
@@ -894,7 +919,7 @@ in combination with <a href="sdk-for-ios-explore-classes-mapcamera-state#/s:7her
 
 - <div>
 
-      startAnimation(_: animationDelegate: )
+   <span id="sdk-for-ios-explore-s-7heresdk9MapMarkerC14startAnimation_17animationDelegateyAA0bcE0C_AA0eG0_pSgtF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-startAnimation-_-animationDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapmarker#sdk-for-ios-explore-s-7heresdk9MapMarkerC14startAnimation_17animationDelegateyAA0bcE0C_AA0eG0_pSgtF" class="token"><code>startAnimation(_:</code><wbr></wbr><code>animationDelegate:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -929,12 +954,15 @@ in combination with <a href="sdk-for-ios-explore-classes-mapcamera-state#/s:7her
   Swift
 
   ``` highlight
-  public func startAnimation ( _ animation : MapMarkerAnimation , animationDelegate : AnimationDelegate ?)
+  public func startAnimation(_ animation: MapMarkerAnimation, animationDelegate: AnimationDelegate?)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-mapmarkeranimation">MapMarkerAnimation</a>
+  - <a href="sdk-for-ios-explore-protocols-animationdelegate">AnimationDelegate</a>
 
   </div>
 
@@ -971,7 +999,7 @@ in combination with <a href="sdk-for-ios-explore-classes-mapcamera-state#/s:7her
 
 - <div>
 
-      cancelAnimation(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk9MapMarkerC15cancelAnimationyyAA0bcE0CF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-cancelAnimation-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapmarker#sdk-for-ios-explore-s-7heresdk9MapMarkerC15cancelAnimationyyAA0bcE0CF" class="token"><code>cancelAnimation(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1006,12 +1034,14 @@ in combination with <a href="sdk-for-ios-explore-classes-mapcamera-state#/s:7her
   Swift
 
   ``` highlight
-  public func cancelAnimation ( _ animation : MapMarkerAnimation )
+  public func cancelAnimation(_ animation: MapMarkerAnimation)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-mapmarkeranimation">MapMarkerAnimation</a>
 
   </div>
 

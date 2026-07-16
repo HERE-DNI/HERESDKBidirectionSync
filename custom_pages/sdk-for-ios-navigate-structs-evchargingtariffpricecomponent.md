@@ -27,7 +27,7 @@ Represents the price component of an EV charging tariff. **Note:** This is a bet
 
 - <div>
 
-  ` `<span id="/s:7heresdk30EVChargingTariffPriceComponentV9dimensionAA0bC9DimensionOvp"></span>` `<span id="//apple_ref/swift/Property/dimension" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evchargingtariffpricecomponent#/s:7heresdk30EVChargingTariffPriceComponentV9dimensionAA0bC9DimensionOvp" class="token"><code>dimension</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk30EVChargingTariffPriceComponentV9dimensionAA0bC9DimensionOvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-dimension" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingtariffpricecomponent#sdk-for-ios-navigate-s-7heresdk30EVChargingTariffPriceComponentV9dimensionAA0bC9DimensionOvp" class="token"><code>dimension</code></a> 
 
   </div>
 
@@ -63,6 +63,10 @@ Represents the price component of an EV charging tariff. **Note:** This is a bet
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-evchargingtariffdimension">EVChargingTariffDimension</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ Represents the price component of an EV charging tariff. **Note:** This is a bet
 
 - <div>
 
-  ` `<span id="/s:7heresdk30EVChargingTariffPriceComponentV5priceSdvp"></span>` `<span id="//apple_ref/swift/Property/price" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evchargingtariffpricecomponent#/s:7heresdk30EVChargingTariffPriceComponentV5priceSdvp" class="token"><code>price</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk30EVChargingTariffPriceComponentV5priceSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-price" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingtariffpricecomponent#sdk-for-ios-navigate-s-7heresdk30EVChargingTariffPriceComponentV5priceSdvp" class="token"><code>price</code></a> 
 
   </div>
 
@@ -89,7 +93,7 @@ Represents the price component of an EV charging tariff. **Note:** This is a bet
 
   <div class="abstract">
 
-  The price per unit, excluding VAT. The units are defined by the <a href="sdk-for-ios-navigate-structs-evchargingtariffpricecomponent#/s:7heresdk30EVChargingTariffPriceComponentV9dimensionAA0bC9DimensionOvp">`EVChargingTariffPriceComponent.dimension`</a>
+  The price per unit, excluding VAT. The units are defined by the <a href="sdk-for-ios-navigate-structs-evchargingtariffpricecomponent#sdk-for-ios-navigate-s-7heresdk30EVChargingTariffPriceComponentV9dimensionAA0bC9DimensionOvp">`EVChargingTariffPriceComponent.dimension`</a>
 
   </div>
 
@@ -115,7 +119,7 @@ Represents the price component of an EV charging tariff. **Note:** This is a bet
 
 - <div>
 
-  ` `<span id="/s:7heresdk30EVChargingTariffPriceComponentV3vatSdSgvp"></span>` `<span id="//apple_ref/swift/Property/vat" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evchargingtariffpricecomponent#/s:7heresdk30EVChargingTariffPriceComponentV3vatSdSgvp" class="token"><code>vat</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk30EVChargingTariffPriceComponentV3vatSdSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-vat" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingtariffpricecomponent#sdk-for-ios-navigate-s-7heresdk30EVChargingTariffPriceComponentV3vatSdSgvp" class="token"><code>vat</code></a> 
 
   </div>
 
@@ -159,7 +163,7 @@ Represents the price component of an EV charging tariff. **Note:** This is a bet
 
 - <div>
 
-  ` `<span id="/s:7heresdk30EVChargingTariffPriceComponentV4stepSdSgvp"></span>` `<span id="//apple_ref/swift/Property/step" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evchargingtariffpricecomponent#/s:7heresdk30EVChargingTariffPriceComponentV4stepSdSgvp" class="token"><code>step</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk30EVChargingTariffPriceComponentV4stepSdSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-step" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingtariffpricecomponent#sdk-for-ios-navigate-s-7heresdk30EVChargingTariffPriceComponentV4stepSdSgvp" class="token"><code>step</code></a> 
 
   </div>
 
@@ -177,7 +181,7 @@ Represents the price component of an EV charging tariff. **Note:** This is a bet
 
   <div class="abstract">
 
-  Dimension quantity used as a unit of billing. Present for all other dimensions except <a href="sdk-for-ios-navigate-enums-evchargingtariffdimension#/s:7heresdk25EVChargingTariffDimensionO4flatyA2CmF">`EVChargingTariffDimension.flat`</a>. The customer is charged price for each full or partial step of the dimension consumed. For <a href="sdk-for-ios-navigate-enums-evchargingtariffdimension#/s:7heresdk25EVChargingTariffDimensionO6energyyA2CmF">`EVChargingTariffDimension.energy`</a>, the step size unit is 1 Wh, for <a href="sdk-for-ios-navigate-enums-evchargingtariffdimension#/s:7heresdk25EVChargingTariffDimensionO4timeyA2CmF">`EVChargingTariffDimension.time`</a> and <a href="sdk-for-ios-navigate-enums-evchargingtariffdimension#/s:7heresdk25EVChargingTariffDimensionO11parkingTimeyA2CmF">`EVChargingTariffDimension.parkingTime`</a> it is 1 second. For example, if step is 300 for time, then time is billed in 5 minute steps, rounded upwards. Similarly, if step is 100 for energy, then energy is billed in 100 Wh = 0.1 kWh steps.
+  Dimension quantity used as a unit of billing. Present for all other dimensions except <a href="sdk-for-ios-navigate-enums-evchargingtariffdimension#sdk-for-ios-navigate-s-7heresdk25EVChargingTariffDimensionO4flatyA2CmF">`EVChargingTariffDimension.flat`</a>. The customer is charged price for each full or partial step of the dimension consumed. For <a href="sdk-for-ios-navigate-enums-evchargingtariffdimension#sdk-for-ios-navigate-s-7heresdk25EVChargingTariffDimensionO6energyyA2CmF">`EVChargingTariffDimension.energy`</a>, the step size unit is 1 Wh, for <a href="sdk-for-ios-navigate-enums-evchargingtariffdimension#sdk-for-ios-navigate-s-7heresdk25EVChargingTariffDimensionO4timeyA2CmF">`EVChargingTariffDimension.time`</a> and <a href="sdk-for-ios-navigate-enums-evchargingtariffdimension#sdk-for-ios-navigate-s-7heresdk25EVChargingTariffDimensionO11parkingTimeyA2CmF">`EVChargingTariffDimension.parkingTime`</a> it is 1 second. For example, if step is 300 for time, then time is billed in 5 minute steps, rounded upwards. Similarly, if step is 100 for energy, then energy is billed in 100 Wh = 0.1 kWh steps.
 
   </div>
 
@@ -203,7 +207,7 @@ Represents the price component of an EV charging tariff. **Note:** This is a bet
 
 - <div>
 
-      init(dimension: price: vat: step: )
+   <span id="sdk-for-ios-navigate-s-7heresdk30EVChargingTariffPriceComponentV9dimension5price3vat4stepAcA0bC9DimensionO_S2dSgAJtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-dimension-price-vat-step" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingtariffpricecomponent#sdk-for-ios-navigate-s-7heresdk30EVChargingTariffPriceComponentV9dimension5price3vat4stepAcA0bC9DimensionO_S2dSgAJtcfc" class="token"><code>init(dimension:</code><wbr></wbr><code>price:</code><wbr></wbr><code>vat:</code><wbr></wbr><code>step:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -234,12 +238,14 @@ Represents the price component of an EV charging tariff. **Note:** This is a bet
   Swift
 
   ``` highlight
-  public init ( dimension : EVChargingTariffDimension = EVChargingTariffDimension . flat , price : Double = 0.0 , vat : Double ? = nil , step : Double ? = nil )
+  public init(dimension: EVChargingTariffDimension = EVChargingTariffDimension.flat, price: Double = 0.0, vat: Double? = nil, step: Double? = nil)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-evchargingtariffdimension">EVChargingTariffDimension</a>
 
   </div>
 

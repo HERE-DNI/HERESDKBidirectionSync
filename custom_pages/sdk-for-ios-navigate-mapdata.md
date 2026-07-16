@@ -13,7 +13,7 @@ slug: "sdk-for-ios-navigate-mapdata"
 
 - <div>
 
-  ` `<span id="/s:7heresdk19AdministrativeRulesV"></span>` `<span id="//apple_ref/swift/Struct/AdministrativeRules" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-mapdata#/s:7heresdk19AdministrativeRulesV" class="token"><code>AdministrativeRules</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19AdministrativeRulesV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-AdministrativeRules" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-mapdata#sdk-for-ios-navigate-s-7heresdk19AdministrativeRulesV" class="token"><code>AdministrativeRules</code></a> 
 
   </div>
 
@@ -59,7 +59,7 @@ slug: "sdk-for-ios-navigate-mapdata"
 
 - <div>
 
-  ` `<span id="/s:7heresdk25AdministrativeRulesLoaderC"></span>` `<span id="//apple_ref/swift/Class/AdministrativeRulesLoader" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-mapdata#/s:7heresdk25AdministrativeRulesLoaderC" class="token"><code>AdministrativeRulesLoader</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk25AdministrativeRulesLoaderC"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Class-AdministrativeRulesLoader" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-mapdata#sdk-for-ios-navigate-s-7heresdk25AdministrativeRulesLoaderC" class="token"><code>AdministrativeRulesLoader</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ slug: "sdk-for-ios-navigate-mapdata"
 
 - <div>
 
-  ` `<span id="/s:7heresdk21AllowedTransportModesV"></span>` `<span id="//apple_ref/swift/Struct/AllowedTransportModes" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-mapdata#/s:7heresdk21AllowedTransportModesV" class="token"><code>AllowedTransportModes</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21AllowedTransportModesV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-AllowedTransportModes" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-mapdata#sdk-for-ios-navigate-s-7heresdk21AllowedTransportModesV" class="token"><code>AllowedTransportModes</code></a> 
 
   </div>
 
@@ -165,7 +165,7 @@ slug: "sdk-for-ios-navigate-mapdata"
 
 - <div>
 
-  ` `<span id="/s:7heresdk24BloodAlcoholContentLimitV"></span>` `<span id="//apple_ref/swift/Struct/BloodAlcoholContentLimit" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-mapdata#/s:7heresdk24BloodAlcoholContentLimitV" class="token"><code>BloodAlcoholContentLimit</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk24BloodAlcoholContentLimitV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-BloodAlcoholContentLimit" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-mapdata#sdk-for-ios-navigate-s-7heresdk24BloodAlcoholContentLimitV" class="token"><code>BloodAlcoholContentLimit</code></a> 
 
   </div>
 
@@ -211,7 +211,7 @@ slug: "sdk-for-ios-navigate-mapdata"
 
 - <div>
 
-  ` `<span id="/s:7heresdk12ConnectivityV"></span>` `<span id="//apple_ref/swift/Struct/Connectivity" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-mapdata#/s:7heresdk12ConnectivityV" class="token"><code>Connectivity</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12ConnectivityV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-Connectivity" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-mapdata#sdk-for-ios-navigate-s-7heresdk12ConnectivityV" class="token"><code>Connectivity</code></a> 
 
   </div>
 
@@ -259,7 +259,7 @@ slug: "sdk-for-ios-navigate-mapdata"
 
 - <div>
 
-  ` `<span id="/s:7heresdk20DirectedOCMSegmentIdV"></span>` `<span id="//apple_ref/swift/Struct/DirectedOCMSegmentId" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-mapdata#/s:7heresdk20DirectedOCMSegmentIdV" class="token"><code>DirectedOCMSegmentId</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk20DirectedOCMSegmentIdV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-DirectedOCMSegmentId" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-mapdata#sdk-for-ios-navigate-s-7heresdk20DirectedOCMSegmentIdV" class="token"><code>DirectedOCMSegmentId</code></a> 
 
   </div>
 
@@ -307,7 +307,7 @@ slug: "sdk-for-ios-navigate-mapdata"
 
 - <div>
 
-  ` `<span id="/s:7heresdk22DownloadingFileOptionsV"></span>` `<span id="//apple_ref/swift/Struct/DownloadingFileOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-mapdata#/s:7heresdk22DownloadingFileOptionsV" class="token"><code>DownloadingFileOptions</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk22DownloadingFileOptionsV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-DownloadingFileOptions" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-mapdata#sdk-for-ios-navigate-s-7heresdk22DownloadingFileOptionsV" class="token"><code>DownloadingFileOptions</code></a> 
 
   </div>
 
@@ -353,7 +353,7 @@ slug: "sdk-for-ios-navigate-mapdata"
 
 - <div>
 
-  ` `<span id="/s:7heresdk11DrivingSideO"></span>` `<span id="//apple_ref/swift/Enum/DrivingSide" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-mapdata#/s:7heresdk11DrivingSideO" class="token"><code>DrivingSide</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11DrivingSideO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-DrivingSide" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-mapdata#sdk-for-ios-navigate-s-7heresdk11DrivingSideO" class="token"><code>DrivingSide</code></a> 
 
   </div>
 
@@ -399,7 +399,7 @@ slug: "sdk-for-ios-navigate-mapdata"
 
 - <div>
 
-  ` `<span id="/s:7heresdk13FileReferenceV"></span>` `<span id="//apple_ref/swift/Struct/FileReference" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-mapdata#/s:7heresdk13FileReferenceV" class="token"><code>FileReference</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13FileReferenceV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-FileReference" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-mapdata#sdk-for-ios-navigate-s-7heresdk13FileReferenceV" class="token"><code>FileReference</code></a> 
 
   </div>
 
@@ -445,7 +445,7 @@ slug: "sdk-for-ios-navigate-mapdata"
 
 - <div>
 
-  ` `<span id="/s:7heresdk17FileReferenceTypeO"></span>` `<span id="//apple_ref/swift/Enum/FileReferenceType" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-mapdata#/s:7heresdk17FileReferenceTypeO" class="token"><code>FileReferenceType</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk17FileReferenceTypeO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-FileReferenceType" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-mapdata#sdk-for-ios-navigate-s-7heresdk17FileReferenceTypeO" class="token"><code>FileReferenceType</code></a> 
 
   </div>
 
@@ -491,7 +491,7 @@ slug: "sdk-for-ios-navigate-mapdata"
 
 - <div>
 
-  ` `<span id="/s:7heresdk21HeadlightsRequirementO"></span>` `<span id="//apple_ref/swift/Enum/HeadlightsRequirement" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-mapdata#/s:7heresdk21HeadlightsRequirementO" class="token"><code>HeadlightsRequirement</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21HeadlightsRequirementO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-HeadlightsRequirement" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-mapdata#sdk-for-ios-navigate-s-7heresdk21HeadlightsRequirementO" class="token"><code>HeadlightsRequirement</code></a> 
 
   </div>
 
@@ -537,7 +537,7 @@ slug: "sdk-for-ios-navigate-mapdata"
 
 - <div>
 
-  ` `<span id="/s:7heresdk13LaneAttributeV"></span>` `<span id="//apple_ref/swift/Struct/LaneAttribute" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-mapdata#/s:7heresdk13LaneAttributeV" class="token"><code>LaneAttribute</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13LaneAttributeV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-LaneAttribute" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-mapdata#sdk-for-ios-navigate-s-7heresdk13LaneAttributeV" class="token"><code>LaneAttribute</code></a> 
 
   </div>
 
@@ -585,7 +585,7 @@ slug: "sdk-for-ios-navigate-mapdata"
 
 - <div>
 
-  ` `<span id="/s:7heresdk23LocalRoadCharacteristicO"></span>` `<span id="//apple_ref/swift/Enum/LocalRoadCharacteristic" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-mapdata#/s:7heresdk23LocalRoadCharacteristicO" class="token"><code>LocalRoadCharacteristic</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk23LocalRoadCharacteristicO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-LocalRoadCharacteristic" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-mapdata#sdk-for-ios-navigate-s-7heresdk23LocalRoadCharacteristicO" class="token"><code>LocalRoadCharacteristic</code></a> 
 
   </div>
 
@@ -633,7 +633,7 @@ slug: "sdk-for-ios-navigate-mapdata"
 
 - <div>
 
-  ` `<span id="/s:7heresdk18MapDataLoaderErrora"></span>` `<span id="//apple_ref/swift/Alias/MapDataLoaderError" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-mapdata#/s:7heresdk18MapDataLoaderErrora" class="token"><code>MapDataLoaderError</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18MapDataLoaderErrora"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Alias-MapDataLoaderError" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-mapdata#sdk-for-ios-navigate-s-7heresdk18MapDataLoaderErrora" class="token"><code>MapDataLoaderError</code></a> 
 
   </div>
 
@@ -669,6 +669,10 @@ slug: "sdk-for-ios-navigate-mapdata"
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-mapdataloadererrorcode">MapDataLoaderErrorCode</a>
+
   </div>
 
   </div>
@@ -677,7 +681,7 @@ slug: "sdk-for-ios-navigate-mapdata"
 
 - <div>
 
-  ` `<span id="/s:7heresdk22MapDataLoaderErrorCodeO"></span>` `<span id="//apple_ref/swift/Enum/MapDataLoaderErrorCode" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-mapdata#/s:7heresdk22MapDataLoaderErrorCodeO" class="token"><code>MapDataLoaderErrorCode</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk22MapDataLoaderErrorCodeO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-MapDataLoaderErrorCode" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-mapdata#sdk-for-ios-navigate-s-7heresdk22MapDataLoaderErrorCodeO" class="token"><code>MapDataLoaderErrorCode</code></a> 
 
   </div>
 
@@ -729,7 +733,7 @@ slug: "sdk-for-ios-navigate-mapdata"
 
 - <div>
 
-  ` `<span id="/s:7heresdk12OCMSegmentIdV"></span>` `<span id="//apple_ref/swift/Struct/OCMSegmentId" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-mapdata#/s:7heresdk12OCMSegmentIdV" class="token"><code>OCMSegmentId</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12OCMSegmentIdV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-OCMSegmentId" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-mapdata#sdk-for-ios-navigate-s-7heresdk12OCMSegmentIdV" class="token"><code>OCMSegmentId</code></a> 
 
   </div>
 
@@ -777,7 +781,7 @@ slug: "sdk-for-ios-navigate-mapdata"
 
 - <div>
 
-  ` `<span id="/s:7heresdk21ParkingSideRegulationO"></span>` `<span id="//apple_ref/swift/Enum/ParkingSideRegulation" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-mapdata#/s:7heresdk21ParkingSideRegulationO" class="token"><code>ParkingSideRegulation</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21ParkingSideRegulationO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-ParkingSideRegulation" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-mapdata#sdk-for-ios-navigate-s-7heresdk21ParkingSideRegulationO" class="token"><code>ParkingSideRegulation</code></a> 
 
   </div>
 
@@ -823,7 +827,7 @@ slug: "sdk-for-ios-navigate-mapdata"
 
 - <div>
 
-  ` `<span id="/s:7heresdk18PhysicalAttributesV"></span>` `<span id="//apple_ref/swift/Struct/PhysicalAttributes" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-mapdata#/s:7heresdk18PhysicalAttributesV" class="token"><code>PhysicalAttributes</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18PhysicalAttributesV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-PhysicalAttributes" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-mapdata#sdk-for-ios-navigate-s-7heresdk18PhysicalAttributesV" class="token"><code>PhysicalAttributes</code></a> 
 
   </div>
 
@@ -873,7 +877,7 @@ slug: "sdk-for-ios-navigate-mapdata"
 
 - <div>
 
-  ` `<span id="/s:7heresdk15PreTripPlanningV"></span>` `<span id="//apple_ref/swift/Struct/PreTripPlanning" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-mapdata#/s:7heresdk15PreTripPlanningV" class="token"><code>PreTripPlanning</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15PreTripPlanningV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-PreTripPlanning" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-mapdata#sdk-for-ios-navigate-s-7heresdk15PreTripPlanningV" class="token"><code>PreTripPlanning</code></a> 
 
   </div>
 
@@ -919,7 +923,7 @@ slug: "sdk-for-ios-navigate-mapdata"
 
 - <div>
 
-  ` `<span id="/s:7heresdk15RailwayCrossingV"></span>` `<span id="//apple_ref/swift/Struct/RailwayCrossing" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-mapdata#/s:7heresdk15RailwayCrossingV" class="token"><code>RailwayCrossing</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15RailwayCrossingV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-RailwayCrossing" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-mapdata#sdk-for-ios-navigate-s-7heresdk15RailwayCrossingV" class="token"><code>RailwayCrossing</code></a> 
 
   </div>
 
@@ -937,7 +941,7 @@ slug: "sdk-for-ios-navigate-mapdata"
 
   <div class="abstract">
 
-  Identifies the presence and the location of railway corssings. Included in <a href="sdk-for-ios-navigate-classes-segmentdata">`SegmentData`</a> only if <a href="sdk-for-ios-navigate-structs-segmentdataloaderoptions#/s:7heresdk24SegmentDataLoaderOptionsV20loadRailwayCrossingsSbvp">`SegmentDataLoaderOptions.loadRailwayCrossings`</a> is set to `true`.
+  Identifies the presence and the location of railway corssings. Included in <a href="sdk-for-ios-navigate-classes-segmentdata">`SegmentData`</a> only if <a href="sdk-for-ios-navigate-structs-segmentdataloaderoptions#sdk-for-ios-navigate-s-7heresdk24SegmentDataLoaderOptionsV20loadRailwayCrossingsSbvp">`SegmentDataLoaderOptions.loadRailwayCrossings`</a> is set to `true`.
 
   <a href="sdk-for-ios-navigate-structs-railwaycrossing" class="slightly-smaller">See more</a>
 
@@ -965,7 +969,7 @@ slug: "sdk-for-ios-navigate-mapdata"
 
 - <div>
 
-  ` `<span id="/s:7heresdk19RailwayCrossingTypeO"></span>` `<span id="//apple_ref/swift/Enum/RailwayCrossingType" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-mapdata#/s:7heresdk19RailwayCrossingTypeO" class="token"><code>RailwayCrossingType</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19RailwayCrossingTypeO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-RailwayCrossingType" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-mapdata#sdk-for-ios-navigate-s-7heresdk19RailwayCrossingTypeO" class="token"><code>RailwayCrossingType</code></a> 
 
   </div>
 
@@ -1011,7 +1015,7 @@ slug: "sdk-for-ios-navigate-mapdata"
 
 - <div>
 
-  ` `<span id="/s:7heresdk11RoadDividerO"></span>` `<span id="//apple_ref/swift/Enum/RoadDivider" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-mapdata#/s:7heresdk11RoadDividerO" class="token"><code>RoadDivider</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11RoadDividerO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-RoadDivider" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-mapdata#sdk-for-ios-navigate-s-7heresdk11RoadDividerO" class="token"><code>RoadDivider</code></a> 
 
   </div>
 
@@ -1059,7 +1063,7 @@ slug: "sdk-for-ios-navigate-mapdata"
 
 - <div>
 
-  ` `<span id="/s:7heresdk10RoadUsagesV"></span>` `<span id="//apple_ref/swift/Struct/RoadUsages" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-mapdata#/s:7heresdk10RoadUsagesV" class="token"><code>RoadUsages</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10RoadUsagesV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-RoadUsages" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-mapdata#sdk-for-ios-navigate-s-7heresdk10RoadUsagesV" class="token"><code>RoadUsages</code></a> 
 
   </div>
 
@@ -1109,7 +1113,7 @@ slug: "sdk-for-ios-navigate-mapdata"
 
 - <div>
 
-  ` `<span id="/s:7heresdk21SegmentConnectivitiesV"></span>` `<span id="//apple_ref/swift/Struct/SegmentConnectivities" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-mapdata#/s:7heresdk21SegmentConnectivitiesV" class="token"><code>SegmentConnectivities</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21SegmentConnectivitiesV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-SegmentConnectivities" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-mapdata#sdk-for-ios-navigate-s-7heresdk21SegmentConnectivitiesV" class="token"><code>SegmentConnectivities</code></a> 
 
   </div>
 
@@ -1157,7 +1161,7 @@ slug: "sdk-for-ios-navigate-mapdata"
 
 - <div>
 
-  ` `<span id="/s:7heresdk11SegmentDataC"></span>` `<span id="//apple_ref/swift/Class/SegmentData" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-mapdata#/s:7heresdk11SegmentDataC" class="token"><code>SegmentData</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11SegmentDataC"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Class-SegmentData" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-mapdata#sdk-for-ios-navigate-s-7heresdk11SegmentDataC" class="token"><code>SegmentData</code></a> 
 
   </div>
 
@@ -1213,7 +1217,7 @@ slug: "sdk-for-ios-navigate-mapdata"
 
 - <div>
 
-  ` `<span id="/s:7heresdk17SegmentDataLoaderC"></span>` `<span id="//apple_ref/swift/Class/SegmentDataLoader" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-mapdata#/s:7heresdk17SegmentDataLoaderC" class="token"><code>SegmentDataLoader</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk17SegmentDataLoaderC"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Class-SegmentDataLoader" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-mapdata#sdk-for-ios-navigate-s-7heresdk17SegmentDataLoaderC" class="token"><code>SegmentDataLoader</code></a> 
 
   </div>
 
@@ -1269,7 +1273,7 @@ slug: "sdk-for-ios-navigate-mapdata"
 
 - <div>
 
-  ` `<span id="/s:7heresdk24SegmentDataLoaderOptionsV"></span>` `<span id="//apple_ref/swift/Struct/SegmentDataLoaderOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-mapdata#/s:7heresdk24SegmentDataLoaderOptionsV" class="token"><code>SegmentDataLoaderOptions</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk24SegmentDataLoaderOptionsV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-SegmentDataLoaderOptions" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-mapdata#sdk-for-ios-navigate-s-7heresdk24SegmentDataLoaderOptionsV" class="token"><code>SegmentDataLoaderOptions</code></a> 
 
   </div>
 
@@ -1287,15 +1291,7 @@ slug: "sdk-for-ios-navigate-mapdata"
 
   <div class="abstract">
 
-  Specifies which data should be loaded by the
-
-      SegmentDataLoader.loadData(...)
-
-  or
-      SegmentDataLoader.loadDirectedSegmentData(...)
-
-  function.
-  </p>
+  Specifies which data should be loaded by the <a href="sdk-for-ios-navigate-classes-segmentdataloader#sdk-for-ios-navigate-s-7heresdk17SegmentDataLoaderC04loadC07segment7optionsAA0bC0CAA12OCMSegmentIdV_AA0bcD7OptionsVtKF">`SegmentDataLoader.loadData(...)`</a> or <a href="sdk-for-ios-navigate-classes-segmentdataloader#sdk-for-ios-navigate-s-7heresdk17SegmentDataLoaderC012loadDirectedbC07segment7optionsAA0bC0CAA0F12OCMSegmentIdV_AA0bcD7OptionsVtKF">`SegmentDataLoader.loadDirectedSegmentData(...)`</a> function.
 
   **Note:** This is a beta release of this feature, so there could be a few bugs and unexpected behaviors. Related APIs may change for new releases without a deprecation process.
 
@@ -1325,7 +1321,7 @@ slug: "sdk-for-ios-navigate-mapdata"
 
 - <div>
 
-  ` `<span id="/s:7heresdk25SegmentReferenceConverterC"></span>` `<span id="//apple_ref/swift/Class/SegmentReferenceConverter" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-mapdata#/s:7heresdk25SegmentReferenceConverterC" class="token"><code>SegmentReferenceConverter</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk25SegmentReferenceConverterC"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Class-SegmentReferenceConverter" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-mapdata#sdk-for-ios-navigate-s-7heresdk25SegmentReferenceConverterC" class="token"><code>SegmentReferenceConverter</code></a> 
 
   </div>
 
@@ -1381,7 +1377,7 @@ slug: "sdk-for-ios-navigate-mapdata"
 
 - <div>
 
-  ` `<span id="/s:7heresdk15SegmentSpanDataC"></span>` `<span id="//apple_ref/swift/Class/SegmentSpanData" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-mapdata#/s:7heresdk15SegmentSpanDataC" class="token"><code>SegmentSpanData</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15SegmentSpanDataC"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Class-SegmentSpanData" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-mapdata#sdk-for-ios-navigate-s-7heresdk15SegmentSpanDataC" class="token"><code>SegmentSpanData</code></a> 
 
   </div>
 
@@ -1437,7 +1433,7 @@ slug: "sdk-for-ios-navigate-mapdata"
 
 - <div>
 
-  ` `<span id="/s:7heresdk28SegmentSpecialSpeedSituationV"></span>` `<span id="//apple_ref/swift/Struct/SegmentSpecialSpeedSituation" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-mapdata#/s:7heresdk28SegmentSpecialSpeedSituationV" class="token"><code>SegmentSpecialSpeedSituation</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk28SegmentSpecialSpeedSituationV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-SegmentSpecialSpeedSituation" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-mapdata#sdk-for-ios-navigate-s-7heresdk28SegmentSpecialSpeedSituationV" class="token"><code>SegmentSpecialSpeedSituation</code></a> 
 
   </div>
 
@@ -1485,7 +1481,7 @@ slug: "sdk-for-ios-navigate-mapdata"
 
 - <div>
 
-  ` `<span id="/s:7heresdk17SegmentSpeedLimitV"></span>` `<span id="//apple_ref/swift/Struct/SegmentSpeedLimit" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-mapdata#/s:7heresdk17SegmentSpeedLimitV" class="token"><code>SegmentSpeedLimit</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk17SegmentSpeedLimitV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-SegmentSpeedLimit" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-mapdata#sdk-for-ios-navigate-s-7heresdk17SegmentSpeedLimitV" class="token"><code>SegmentSpeedLimit</code></a> 
 
   </div>
 
@@ -1533,7 +1529,7 @@ slug: "sdk-for-ios-navigate-mapdata"
 
 - <div>
 
-  ` `<span id="/s:7heresdk16SpecialSpeedTypeO"></span>` `<span id="//apple_ref/swift/Enum/SpecialSpeedType" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-mapdata#/s:7heresdk16SpecialSpeedTypeO" class="token"><code>SpecialSpeedType</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16SpecialSpeedTypeO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-SpecialSpeedType" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-mapdata#sdk-for-ios-navigate-s-7heresdk16SpecialSpeedTypeO" class="token"><code>SpecialSpeedType</code></a> 
 
   </div>
 
@@ -1581,7 +1577,7 @@ slug: "sdk-for-ios-navigate-mapdata"
 
 - <div>
 
-  ` `<span id="/s:7heresdk8TollCostV"></span>` `<span id="//apple_ref/swift/Struct/TollCost" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-mapdata#/s:7heresdk8TollCostV" class="token"><code>TollCost</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8TollCostV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-TollCost" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-mapdata#sdk-for-ios-navigate-s-7heresdk8TollCostV" class="token"><code>TollCost</code></a> 
 
   </div>
 
@@ -1627,7 +1623,7 @@ slug: "sdk-for-ios-navigate-mapdata"
 
 - <div>
 
-  ` `<span id="/s:7heresdk9TollPointV"></span>` `<span id="//apple_ref/swift/Struct/TollPoint" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-mapdata#/s:7heresdk9TollPointV" class="token"><code>TollPoint</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9TollPointV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-TollPoint" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-mapdata#sdk-for-ios-navigate-s-7heresdk9TollPointV" class="token"><code>TollPoint</code></a> 
 
   </div>
 
@@ -1673,7 +1669,7 @@ slug: "sdk-for-ios-navigate-mapdata"
 
 - <div>
 
-  ` `<span id="/s:7heresdk13TollStructureV"></span>` `<span id="//apple_ref/swift/Struct/TollStructure" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-mapdata#/s:7heresdk13TollStructureV" class="token"><code>TollStructure</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13TollStructureV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-TollStructure" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-mapdata#sdk-for-ios-navigate-s-7heresdk13TollStructureV" class="token"><code>TollStructure</code></a> 
 
   </div>
 
@@ -1721,7 +1717,7 @@ slug: "sdk-for-ios-navigate-mapdata"
 
 - <div>
 
-  ` `<span id="/s:7heresdk21TollStructureManeuverV"></span>` `<span id="//apple_ref/swift/Struct/TollStructureManeuver" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-mapdata#/s:7heresdk21TollStructureManeuverV" class="token"><code>TollStructureManeuver</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21TollStructureManeuverV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-TollStructureManeuver" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-mapdata#sdk-for-ios-navigate-s-7heresdk21TollStructureManeuverV" class="token"><code>TollStructureManeuver</code></a> 
 
   </div>
 
@@ -1767,7 +1763,7 @@ slug: "sdk-for-ios-navigate-mapdata"
 
 - <div>
 
-  ` `<span id="/s:7heresdk17TollStructureTypeO"></span>` `<span id="//apple_ref/swift/Enum/TollStructureType" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-mapdata#/s:7heresdk17TollStructureTypeO" class="token"><code>TollStructureType</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk17TollStructureTypeO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-TollStructureType" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-mapdata#sdk-for-ios-navigate-s-7heresdk17TollStructureTypeO" class="token"><code>TollStructureType</code></a> 
 
   </div>
 
@@ -1813,7 +1809,7 @@ slug: "sdk-for-ios-navigate-mapdata"
 
 - <div>
 
-  ` `<span id="/s:7heresdk10TollSystemV"></span>` `<span id="//apple_ref/swift/Struct/TollSystem" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-mapdata#/s:7heresdk10TollSystemV" class="token"><code>TollSystem</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10TollSystemV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-TollSystem" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-mapdata#sdk-for-ios-navigate-s-7heresdk10TollSystemV" class="token"><code>TollSystem</code></a> 
 
   </div>
 
@@ -1859,7 +1855,7 @@ slug: "sdk-for-ios-navigate-mapdata"
 
 - <div>
 
-  ` `<span id="/s:7heresdk13TrafficSignalV"></span>` `<span id="//apple_ref/swift/Struct/TrafficSignal" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-mapdata#/s:7heresdk13TrafficSignalV" class="token"><code>TrafficSignal</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13TrafficSignalV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-TrafficSignal" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-mapdata#sdk-for-ios-navigate-s-7heresdk13TrafficSignalV" class="token"><code>TrafficSignal</code></a> 
 
   </div>
 
@@ -1907,7 +1903,7 @@ slug: "sdk-for-ios-navigate-mapdata"
 
 - <div>
 
-  ` `<span id="/s:7heresdk21TrafficSignalLocationO"></span>` `<span id="//apple_ref/swift/Enum/TrafficSignalLocation" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-mapdata#/s:7heresdk21TrafficSignalLocationO" class="token"><code>TrafficSignalLocation</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21TrafficSignalLocationO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-TrafficSignalLocation" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-mapdata#sdk-for-ios-navigate-s-7heresdk21TrafficSignalLocationO" class="token"><code>TrafficSignalLocation</code></a> 
 
   </div>
 
@@ -1955,7 +1951,7 @@ slug: "sdk-for-ios-navigate-mapdata"
 
 - <div>
 
-  ` `<span id="/s:7heresdk19TurnOnRedRegulationO"></span>` `<span id="//apple_ref/swift/Enum/TurnOnRedRegulation" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-mapdata#/s:7heresdk19TurnOnRedRegulationO" class="token"><code>TurnOnRedRegulation</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19TurnOnRedRegulationO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-TurnOnRedRegulation" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-mapdata#sdk-for-ios-navigate-s-7heresdk19TurnOnRedRegulationO" class="token"><code>TurnOnRedRegulation</code></a> 
 
   </div>
 

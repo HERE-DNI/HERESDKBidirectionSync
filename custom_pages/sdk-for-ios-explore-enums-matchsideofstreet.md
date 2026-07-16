@@ -17,7 +17,7 @@ public enum MatchSideOfStreet : UInt32, CaseIterable, Codable
 
 </div>
 
-Specifies how the location set by <a href="sdk-for-ios-explore-structs-waypoint#/s:7heresdk8WaypointV16sideOfStreetHintAA14GeoCoordinatesVSgvp">`Waypoint.sideOfStreetHint`</a> should be handled. This setting might affect the geometry of the resulting route.
+Specifies how the location set by <a href="sdk-for-ios-explore-structs-waypoint#sdk-for-ios-explore-s-7heresdk8WaypointV16sideOfStreetHintAA14GeoCoordinatesVSgvp">`Waypoint.sideOfStreetHint`</a> should be handled. This setting might affect the geometry of the resulting route.
 
 </div>
 
@@ -27,7 +27,7 @@ Specifies how the location set by <a href="sdk-for-ios-explore-structs-waypoint#
 
 - <div>
 
-  ` `<span id="/s:7heresdk17MatchSideOfStreetO6alwaysyA2CmF"></span>` `<span id="//apple_ref/swift/Element/always" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-matchsideofstreet#/s:7heresdk17MatchSideOfStreetO6alwaysyA2CmF" class="token"><code>always</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17MatchSideOfStreetO6alwaysyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-always" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-matchsideofstreet#sdk-for-ios-explore-s-7heresdk17MatchSideOfStreetO6alwaysyA2CmF" class="token"><code>always</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Specifies how the location set by <a href="sdk-for-ios-explore-structs-waypoint#
 
 - <div>
 
-  ` `<span id="/s:7heresdk17MatchSideOfStreetO13onlyIfDividedyA2CmF"></span>` `<span id="//apple_ref/swift/Element/onlyIfDivided" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-matchsideofstreet#/s:7heresdk17MatchSideOfStreetO13onlyIfDividedyA2CmF" class="token"><code>onlyIfDivided</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17MatchSideOfStreetO13onlyIfDividedyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-onlyIfDivided" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-matchsideofstreet#sdk-for-ios-explore-s-7heresdk17MatchSideOfStreetO13onlyIfDividedyA2CmF" class="token"><code>onlyIfDivided</code></a> 
 
   </div>
 

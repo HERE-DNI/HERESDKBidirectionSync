@@ -27,7 +27,7 @@ Available charging supply types.
 
 - <div>
 
-  ` `<span id="/s:7heresdk18ChargingSupplyTypeO8acSingleyA2CmF"></span>` `<span id="//apple_ref/swift/Element/acSingle" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-chargingsupplytype#/s:7heresdk18ChargingSupplyTypeO8acSingleyA2CmF" class="token"><code>acSingle</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18ChargingSupplyTypeO8acSingleyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-acSingle" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-chargingsupplytype#sdk-for-ios-navigate-s-7heresdk18ChargingSupplyTypeO8acSingleyA2CmF" class="token"><code>acSingle</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Available charging supply types.
 
 - <div>
 
-  ` `<span id="/s:7heresdk18ChargingSupplyTypeO7acThreeyA2CmF"></span>` `<span id="//apple_ref/swift/Element/acThree" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-chargingsupplytype#/s:7heresdk18ChargingSupplyTypeO7acThreeyA2CmF" class="token"><code>acThree</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18ChargingSupplyTypeO7acThreeyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-acThree" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-chargingsupplytype#sdk-for-ios-navigate-s-7heresdk18ChargingSupplyTypeO7acThreeyA2CmF" class="token"><code>acThree</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Available charging supply types.
 
 - <div>
 
-  ` `<span id="/s:7heresdk18ChargingSupplyTypeO2dcyA2CmF"></span>` `<span id="//apple_ref/swift/Element/dc" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-chargingsupplytype#/s:7heresdk18ChargingSupplyTypeO2dcyA2CmF" class="token"><code>dc</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18ChargingSupplyTypeO2dcyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-dc" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-chargingsupplytype#sdk-for-ios-navigate-s-7heresdk18ChargingSupplyTypeO2dcyA2CmF" class="token"><code>dc</code></a> 
 
   </div>
 

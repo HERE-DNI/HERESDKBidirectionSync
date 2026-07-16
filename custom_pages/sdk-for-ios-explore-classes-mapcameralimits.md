@@ -39,7 +39,7 @@ When setting, limits are applied on next rendering loop.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15MapCameraLimitsC7minTiltSdvpZ"></span>` `<span id="//apple_ref/swift/Variable/minTilt" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-mapcameralimits#/s:7heresdk15MapCameraLimitsC7minTiltSdvpZ" class="token"><code>minTilt</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15MapCameraLimitsC7minTiltSdvpZ"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Variable-minTilt" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapcameralimits#sdk-for-ios-explore-s-7heresdk15MapCameraLimitsC7minTiltSdvpZ" class="token"><code>minTilt</code></a> 
 
   </div>
 
@@ -83,7 +83,7 @@ When setting, limits are applied on next rendering loop.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15MapCameraLimitsC7maxTiltSdvpZ"></span>` `<span id="//apple_ref/swift/Variable/maxTilt" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-mapcameralimits#/s:7heresdk15MapCameraLimitsC7maxTiltSdvpZ" class="token"><code>maxTilt</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15MapCameraLimitsC7maxTiltSdvpZ"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Variable-maxTilt" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapcameralimits#sdk-for-ios-explore-s-7heresdk15MapCameraLimitsC7maxTiltSdvpZ" class="token"><code>maxTilt</code></a> 
 
   </div>
 
@@ -127,7 +127,7 @@ When setting, limits are applied on next rendering loop.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15MapCameraLimitsC12minZoomLevelSdvpZ"></span>` `<span id="//apple_ref/swift/Variable/minZoomLevel" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-mapcameralimits#/s:7heresdk15MapCameraLimitsC12minZoomLevelSdvpZ" class="token"><code>minZoomLevel</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15MapCameraLimitsC12minZoomLevelSdvpZ"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Variable-minZoomLevel" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapcameralimits#sdk-for-ios-explore-s-7heresdk15MapCameraLimitsC12minZoomLevelSdvpZ" class="token"><code>minZoomLevel</code></a> 
 
   </div>
 
@@ -171,7 +171,7 @@ When setting, limits are applied on next rendering loop.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15MapCameraLimitsC12maxZoomLevelSdvpZ"></span>` `<span id="//apple_ref/swift/Variable/maxZoomLevel" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-mapcameralimits#/s:7heresdk15MapCameraLimitsC12maxZoomLevelSdvpZ" class="token"><code>maxZoomLevel</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15MapCameraLimitsC12maxZoomLevelSdvpZ"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Variable-maxZoomLevel" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapcameralimits#sdk-for-ios-explore-s-7heresdk15MapCameraLimitsC12maxZoomLevelSdvpZ" class="token"><code>maxZoomLevel</code></a> 
 
   </div>
 
@@ -215,7 +215,7 @@ When setting, limits are applied on next rendering loop.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15MapCameraLimitsC9tiltRangeAA05AngleF0Vvp"></span>` `<span id="//apple_ref/swift/Property/tiltRange" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-mapcameralimits#/s:7heresdk15MapCameraLimitsC9tiltRangeAA05AngleF0Vvp" class="token"><code>tiltRange</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15MapCameraLimitsC9tiltRangeAA05AngleF0Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-tiltRange" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapcameralimits#sdk-for-ios-explore-s-7heresdk15MapCameraLimitsC9tiltRangeAA05AngleF0Vvp" class="token"><code>tiltRange</code></a> 
 
   </div>
 
@@ -233,9 +233,9 @@ When setting, limits are applied on next rendering loop.
 
   <div class="abstract">
 
-  The tilt range that can be applied to the camera. The supported values fall inside <a href="sdk-for-ios-explore-classes-mapcameralimits#/s:7heresdk15MapCameraLimitsC7minTiltSdvpZ">`code>`</a> range. Setting values outside the supported range will be ignored.
+  The tilt range that can be applied to the camera. The supported values fall inside <a href="sdk-for-ios-explore-classes-mapcameralimits#sdk-for-ios-explore-s-7heresdk15MapCameraLimitsC7minTiltSdvpZ">`code>`</a> range. Setting values outside the supported range will be ignored.
 
-  By default, a <a href="sdk-for-ios-explore-classes-mapcameralimits#/s:7heresdk15MapCameraLimitsC7minTiltSdvpZ">`code>`</a> tilt range is set during initialization.
+  By default, a <a href="sdk-for-ios-explore-classes-mapcameralimits#sdk-for-ios-explore-s-7heresdk15MapCameraLimitsC7minTiltSdvpZ">`code>`</a> tilt range is set during initialization.
 
   If the current camera tilt exceeds the new limit range, it will immediately be set to minimum or maximum, depending on which is closest.
 
@@ -255,6 +255,10 @@ When setting, limits are applied on next rendering loop.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-anglerange">AngleRange</a>
+
   </div>
 
   </div>
@@ -263,7 +267,7 @@ When setting, limits are applied on next rendering loop.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15MapCameraLimitsC12bearingRangeAA05AngleF0Vvp"></span>` `<span id="//apple_ref/swift/Property/bearingRange" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-mapcameralimits#/s:7heresdk15MapCameraLimitsC12bearingRangeAA05AngleF0Vvp" class="token"><code>bearingRange</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15MapCameraLimitsC12bearingRangeAA05AngleF0Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-bearingRange" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapcameralimits#sdk-for-ios-explore-s-7heresdk15MapCameraLimitsC12bearingRangeAA05AngleF0Vvp" class="token"><code>bearingRange</code></a> 
 
   </div>
 
@@ -301,6 +305,10 @@ When setting, limits are applied on next rendering loop.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-anglerange">AngleRange</a>
+
   </div>
 
   </div>
@@ -309,7 +317,7 @@ When setting, limits are applied on next rendering loop.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15MapCameraLimitsC9zoomRangeAA0b7MeasureF0Vvp"></span>` `<span id="//apple_ref/swift/Property/zoomRange" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-mapcameralimits#/s:7heresdk15MapCameraLimitsC9zoomRangeAA0b7MeasureF0Vvp" class="token"><code>zoomRange</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15MapCameraLimitsC9zoomRangeAA0b7MeasureF0Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-zoomRange" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapcameralimits#sdk-for-ios-explore-s-7heresdk15MapCameraLimitsC9zoomRangeAA0b7MeasureF0Vvp" class="token"><code>zoomRange</code></a> 
 
   </div>
 
@@ -327,9 +335,9 @@ When setting, limits are applied on next rendering loop.
 
   <div class="abstract">
 
-  The zoom range that can be applied to the camera. The supported values fall inside <a href="sdk-for-ios-explore-classes-mapcameralimits#/s:7heresdk15MapCameraLimitsC12minZoomLevelSdvpZ">`code>`</a> range. Values outside the supported zoom range are ignored.
+  The zoom range that can be applied to the camera. The supported values fall inside <a href="sdk-for-ios-explore-classes-mapcameralimits#sdk-for-ios-explore-s-7heresdk15MapCameraLimitsC12minZoomLevelSdvpZ">`code>`</a> range. Values outside the supported zoom range are ignored.
 
-  By default, a <a href="sdk-for-ios-explore-classes-mapcameralimits#/s:7heresdk15MapCameraLimitsC12minZoomLevelSdvpZ">`code>`</a> zoom range is set during initialization.
+  By default, a <a href="sdk-for-ios-explore-classes-mapcameralimits#sdk-for-ios-explore-s-7heresdk15MapCameraLimitsC12minZoomLevelSdvpZ">`code>`</a> zoom range is set during initialization.
 
   If the current camera zoom exceeds the limit range, it will immediately be set to minimum or maximum, depending on which is closest.
 
@@ -349,6 +357,10 @@ When setting, limits are applied on next rendering loop.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-mapmeasurerange">MapMeasureRange</a>
+
   </div>
 
   </div>
@@ -357,7 +369,7 @@ When setting, limits are applied on next rendering loop.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15MapCameraLimitsC10targetAreaAA6GeoBoxVSgvp"></span>` `<span id="//apple_ref/swift/Property/targetArea" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-mapcameralimits#/s:7heresdk15MapCameraLimitsC10targetAreaAA6GeoBoxVSgvp" class="token"><code>targetArea</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15MapCameraLimitsC10targetAreaAA6GeoBoxVSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-targetArea" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapcameralimits#sdk-for-ios-explore-s-7heresdk15MapCameraLimitsC10targetAreaAA6GeoBoxVSgvp" class="token"><code>targetArea</code></a> 
 
   </div>
 
@@ -393,6 +405,10 @@ When setting, limits are applied on next rendering loop.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geobox">GeoBox</a>
+
   </div>
 
   </div>
@@ -401,7 +417,7 @@ When setting, limits are applied on next rendering loop.
 
 - <div>
 
-      setBearingRangeAtZoom(_: bearingRange: )
+   <span id="sdk-for-ios-explore-s-7heresdk15MapCameraLimitsC21setBearingRangeAtZoom_07bearingG0yAA0B7MeasureV_AA05AngleG0VtF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-setBearingRangeAtZoom-_-bearingRange" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapcameralimits#sdk-for-ios-explore-s-7heresdk15MapCameraLimitsC21setBearingRangeAtZoom_07bearingG0yAA0B7MeasureV_AA05AngleG0VtF" class="token"><code>setBearingRangeAtZoom(_:</code><wbr></wbr><code>bearingRange:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -421,7 +437,7 @@ When setting, limits are applied on next rendering loop.
 
   Sets the bearing range within which the camera can rotate at a given zoom.
 
-  The resulting camera bearing at a zoom is an interpolated value of the ranges set for closest matching zoom values. When no bearing range is specified for <a href="sdk-for-ios-explore-classes-mapcameralimits#/s:7heresdk15MapCameraLimitsC12minZoomLevelSdvpZ">`MapCameraLimits.minZoomLevel`</a>, the bearing range set through <a href="sdk-for-ios-explore-classes-mapcameralimits#/s:7heresdk15MapCameraLimitsC12bearingRangeAA05AngleF0Vvp">`MapCameraLimits.bearingRange`</a> is used for interpolation.
+  The resulting camera bearing at a zoom is an interpolated value of the ranges set for closest matching zoom values. When no bearing range is specified for <a href="sdk-for-ios-explore-classes-mapcameralimits#sdk-for-ios-explore-s-7heresdk15MapCameraLimitsC12minZoomLevelSdvpZ">`MapCameraLimits.minZoomLevel`</a>, the bearing range set through <a href="sdk-for-ios-explore-classes-mapcameralimits#sdk-for-ios-explore-s-7heresdk15MapCameraLimitsC12bearingRangeAA05AngleF0Vvp">`MapCameraLimits.bearingRange`</a> is used for interpolation.
 
   Zoom values outside the supported zoom range are ignored. By default, the maximum bearing range for all zoom values is set during initialization.
 
@@ -436,12 +452,15 @@ When setting, limits are applied on next rendering loop.
   Swift
 
   ``` highlight
-  public func setBearingRangeAtZoom ( _ zoom : MapMeasure , bearingRange : AngleRange )
+  public func setBearingRangeAtZoom(_ zoom: MapMeasure, bearingRange: AngleRange)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-mapmeasure">MapMeasure</a>
+  - <a href="sdk-for-ios-explore-structs-anglerange">AngleRange</a>
 
   </div>
 
@@ -478,7 +497,7 @@ When setting, limits are applied on next rendering loop.
 
 - <div>
 
-      clearBearingRanges()
+   <span id="sdk-for-ios-explore-s-7heresdk15MapCameraLimitsC18clearBearingRangesyyF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-clearBearingRanges" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapcameralimits#sdk-for-ios-explore-s-7heresdk15MapCameraLimitsC18clearBearingRangesyyF" class="token"><code>clearBearingRanges()</code></a> 
 
   </div>
 
@@ -496,7 +515,7 @@ When setting, limits are applied on next rendering loop.
 
   <div class="abstract">
 
-  Clears bearing ranges for all zoom values and resets <a href="sdk-for-ios-explore-classes-mapcameralimits#/s:7heresdk15MapCameraLimitsC12bearingRangeAA05AngleF0Vvp">`MapCameraLimits.bearingRange`</a> to default.
+  Clears bearing ranges for all zoom values and resets <a href="sdk-for-ios-explore-classes-mapcameralimits#sdk-for-ios-explore-s-7heresdk15MapCameraLimitsC12bearingRangeAA05AngleF0Vvp">`MapCameraLimits.bearingRange`</a> to default.
 
   </div>
 
@@ -509,10 +528,8 @@ When setting, limits are applied on next rendering loop.
   Swift
 
   ``` highlight
-  public func clearBearingRanges ()
+  public func clearBearingRanges()
   ```
-
-  </pre>
 
   </div>
 
@@ -524,7 +541,7 @@ When setting, limits are applied on next rendering loop.
 
 - <div>
 
-      setTiltRangeAtZoom(_: tiltRange: )
+   <span id="sdk-for-ios-explore-s-7heresdk15MapCameraLimitsC18setTiltRangeAtZoom_04tiltG0yAA0B7MeasureV_AA05AngleG0VtF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-setTiltRangeAtZoom-_-tiltRange" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapcameralimits#sdk-for-ios-explore-s-7heresdk15MapCameraLimitsC18setTiltRangeAtZoom_04tiltG0yAA0B7MeasureV_AA05AngleG0VtF" class="token"><code>setTiltRangeAtZoom(_:</code><wbr></wbr><code>tiltRange:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -544,7 +561,7 @@ When setting, limits are applied on next rendering loop.
 
   Sets tilt ranges that can be set on the camera at given zoom.
 
-  The resulting camera tilt at a zoom is an interpolated value of the ranges set for closest matching zoom values. When no tilt range is specified for <a href="sdk-for-ios-explore-classes-mapcameralimits#/s:7heresdk15MapCameraLimitsC12minZoomLevelSdvpZ">`MapCameraLimits.minZoomLevel`</a>, the tilt range set through <a href="sdk-for-ios-explore-classes-mapcameralimits#/s:7heresdk15MapCameraLimitsC9tiltRangeAA05AngleF0Vvp">`MapCameraLimits.tiltRange`</a> is used for interpolation.
+  The resulting camera tilt at a zoom is an interpolated value of the ranges set for closest matching zoom values. When no tilt range is specified for <a href="sdk-for-ios-explore-classes-mapcameralimits#sdk-for-ios-explore-s-7heresdk15MapCameraLimitsC12minZoomLevelSdvpZ">`MapCameraLimits.minZoomLevel`</a>, the tilt range set through <a href="sdk-for-ios-explore-classes-mapcameralimits#sdk-for-ios-explore-s-7heresdk15MapCameraLimitsC9tiltRangeAA05AngleF0Vvp">`MapCameraLimits.tiltRange`</a> is used for interpolation.
 
   Zoom or tilt values outside the supported zoom and tilt range are ignored. By default, the maximum tilt range for all zoom values is set during initialization.
 
@@ -559,12 +576,15 @@ When setting, limits are applied on next rendering loop.
   Swift
 
   ``` highlight
-  public func setTiltRangeAtZoom ( _ zoom : MapMeasure , tiltRange : AngleRange )
+  public func setTiltRangeAtZoom(_ zoom: MapMeasure, tiltRange: AngleRange)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-mapmeasure">MapMeasure</a>
+  - <a href="sdk-for-ios-explore-structs-anglerange">AngleRange</a>
 
   </div>
 
@@ -601,7 +621,7 @@ When setting, limits are applied on next rendering loop.
 
 - <div>
 
-      clearTiltRanges()
+   <span id="sdk-for-ios-explore-s-7heresdk15MapCameraLimitsC15clearTiltRangesyyF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-clearTiltRanges" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapcameralimits#sdk-for-ios-explore-s-7heresdk15MapCameraLimitsC15clearTiltRangesyyF" class="token"><code>clearTiltRanges()</code></a> 
 
   </div>
 
@@ -619,7 +639,7 @@ When setting, limits are applied on next rendering loop.
 
   <div class="abstract">
 
-  Clears tilt ranges for all zoom values and resets <a href="sdk-for-ios-explore-classes-mapcameralimits#/s:7heresdk15MapCameraLimitsC9tiltRangeAA05AngleF0Vvp">`MapCameraLimits.tiltRange`</a> to default.
+  Clears tilt ranges for all zoom values and resets <a href="sdk-for-ios-explore-classes-mapcameralimits#sdk-for-ios-explore-s-7heresdk15MapCameraLimitsC9tiltRangeAA05AngleF0Vvp">`MapCameraLimits.tiltRange`</a> to default.
 
   </div>
 
@@ -632,10 +652,8 @@ When setting, limits are applied on next rendering loop.
   Swift
 
   ``` highlight
-  public func clearTiltRanges ()
+  public func clearTiltRanges()
   ```
-
-  </pre>
 
   </div>
 

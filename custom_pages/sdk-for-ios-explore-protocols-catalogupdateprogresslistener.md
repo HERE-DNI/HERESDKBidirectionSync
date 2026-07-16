@@ -27,7 +27,7 @@ Protocol to get notified on status updates when updating catalog, previously dow
 
 - <div>
 
-      onProgress(region: percentage: )
+   <span id="sdk-for-ios-explore-s-7heresdk29CatalogUpdateProgressListenerP02onD06region10percentageyAA8RegionIdV_s5Int32VtF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-onProgress-region-percentage" class="dashAnchor"></span> <a href="sdk-for-ios-explore-protocols-catalogupdateprogresslistener#sdk-for-ios-explore-s-7heresdk29CatalogUpdateProgressListenerP02onD06region10percentageyAA8RegionIdV_s5Int32VtF" class="token"><code>onProgress(region:</code><wbr></wbr><code>percentage:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -58,12 +58,14 @@ Protocol to get notified on status updates when updating catalog, previously dow
   Swift
 
   ``` highlight
-  func onProgress ( region : RegionId , percentage : Int32 )
+  func onProgress(region: RegionId, percentage: Int32)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-regionid">RegionId</a>
 
   </div>
 
@@ -100,7 +102,7 @@ Protocol to get notified on status updates when updating catalog, previously dow
 
 - <div>
 
-      onPause(error: )
+   <span id="sdk-for-ios-explore-s-7heresdk29CatalogUpdateProgressListenerP7onPause5erroryAA14MapLoaderErrorOSg_tF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-onPause-error" class="dashAnchor"></span> <a href="sdk-for-ios-explore-protocols-catalogupdateprogresslistener#sdk-for-ios-explore-s-7heresdk29CatalogUpdateProgressListenerP7onPause5erroryAA14MapLoaderErrorOSg_tF" class="token"><code>onPause(error:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -131,12 +133,14 @@ Protocol to get notified on status updates when updating catalog, previously dow
   Swift
 
   ``` highlight
-  func onPause ( error : MapLoaderError ?)
+  func onPause(error: MapLoaderError?)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-maploadererror">MapLoaderError</a>
 
   </div>
 
@@ -170,7 +174,7 @@ Protocol to get notified on status updates when updating catalog, previously dow
 
 - <div>
 
-      onComplete(error: )
+   <span id="sdk-for-ios-explore-s-7heresdk29CatalogUpdateProgressListenerP10onComplete5erroryAA14MapLoaderErrorOSg_tF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-onComplete-error" class="dashAnchor"></span> <a href="sdk-for-ios-explore-protocols-catalogupdateprogresslistener#sdk-for-ios-explore-s-7heresdk29CatalogUpdateProgressListenerP10onComplete5erroryAA14MapLoaderErrorOSg_tF" class="token"><code>onComplete(error:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -201,12 +205,14 @@ Protocol to get notified on status updates when updating catalog, previously dow
   Swift
 
   ``` highlight
-  func onComplete ( error : MapLoaderError ?)
+  func onComplete(error: MapLoaderError?)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-maploadererror">MapLoaderError</a>
 
   </div>
 
@@ -237,7 +243,7 @@ Protocol to get notified on status updates when updating catalog, previously dow
 
 - <div>
 
-      onResume()
+   <span id="sdk-for-ios-explore-s-7heresdk29CatalogUpdateProgressListenerP8onResumeyyF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-onResume" class="dashAnchor"></span> <a href="sdk-for-ios-explore-protocols-catalogupdateprogresslistener#sdk-for-ios-explore-s-7heresdk29CatalogUpdateProgressListenerP8onResumeyyF" class="token"><code>onResume()</code></a> 
 
   </div>
 
@@ -268,10 +274,8 @@ Protocol to get notified on status updates when updating catalog, previously dow
   Swift
 
   ``` highlight
-  func onResume ()
+  func onResume()
   ```
-
-  </pre>
 
   </div>
 

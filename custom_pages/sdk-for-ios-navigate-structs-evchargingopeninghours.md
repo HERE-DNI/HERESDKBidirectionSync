@@ -27,7 +27,7 @@ Represents the times when the EVSEs at the charging location can be accessed for
 
 - <div>
 
-  ` `<span id="/s:7heresdk22EVChargingOpeningHoursV8open24x7Sbvp"></span>` `<span id="//apple_ref/swift/Property/open24x7" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evchargingopeninghours#/s:7heresdk22EVChargingOpeningHoursV8open24x7Sbvp" class="token"><code>open24x7</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk22EVChargingOpeningHoursV8open24x7Sbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-open24x7" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingopeninghours#sdk-for-ios-navigate-s-7heresdk22EVChargingOpeningHoursV8open24x7Sbvp" class="token"><code>open24x7</code></a> 
 
   </div>
 
@@ -45,7 +45,7 @@ Represents the times when the EVSEs at the charging location can be accessed for
 
   <div class="abstract">
 
-  Indicates if the charging location is open 24 hours a day, 7 days per week. If true, <a href="sdk-for-ios-navigate-structs-evchargingopeninghours#/s:7heresdk22EVChargingOpeningHoursV15regularScheduleSayAA0bcdF0VGvp">`EVChargingOpeningHours.regularSchedule`</a> and <a href="sdk-for-ios-navigate-structs-evchargingopeninghours#/s:7heresdk22EVChargingOpeningHoursV10exceptionsSayAA0bcD9ExceptionVGvp">`EVChargingOpeningHours.exceptions`</a> will be empty.
+  Indicates if the charging location is open 24 hours a day, 7 days per week. If true, <a href="sdk-for-ios-navigate-structs-evchargingopeninghours#sdk-for-ios-navigate-s-7heresdk22EVChargingOpeningHoursV15regularScheduleSayAA0bcdF0VGvp">`EVChargingOpeningHours.regularSchedule`</a> and <a href="sdk-for-ios-navigate-structs-evchargingopeninghours#sdk-for-ios-navigate-s-7heresdk22EVChargingOpeningHoursV10exceptionsSayAA0bcD9ExceptionVGvp">`EVChargingOpeningHours.exceptions`</a> will be empty.
 
   </div>
 
@@ -71,7 +71,7 @@ Represents the times when the EVSEs at the charging location can be accessed for
 
 - <div>
 
-  ` `<span id="/s:7heresdk22EVChargingOpeningHoursV18chargingWhenClosedSbvp"></span>` `<span id="//apple_ref/swift/Property/chargingWhenClosed" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evchargingopeninghours#/s:7heresdk22EVChargingOpeningHoursV18chargingWhenClosedSbvp" class="token"><code>chargingWhenClosed</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk22EVChargingOpeningHoursV18chargingWhenClosedSbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-chargingWhenClosed" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingopeninghours#sdk-for-ios-navigate-s-7heresdk22EVChargingOpeningHoursV18chargingWhenClosedSbvp" class="token"><code>chargingWhenClosed</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Represents the times when the EVSEs at the charging location can be accessed for
 
 - <div>
 
-  ` `<span id="/s:7heresdk22EVChargingOpeningHoursV15regularScheduleSayAA0bcdF0VGvp"></span>` `<span id="//apple_ref/swift/Property/regularSchedule" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evchargingopeninghours#/s:7heresdk22EVChargingOpeningHoursV15regularScheduleSayAA0bcdF0VGvp" class="token"><code>regularSchedule</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk22EVChargingOpeningHoursV15regularScheduleSayAA0bcdF0VGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-regularSchedule" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingopeninghours#sdk-for-ios-navigate-s-7heresdk22EVChargingOpeningHoursV15regularScheduleSayAA0bcdF0VGvp" class="token"><code>regularSchedule</code></a> 
 
   </div>
 
@@ -151,6 +151,10 @@ Represents the times when the EVSEs at the charging location can be accessed for
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-evchargingopeninghoursschedule">EVChargingOpeningHoursSchedule</a>
+
   </div>
 
   </div>
@@ -159,7 +163,7 @@ Represents the times when the EVSEs at the charging location can be accessed for
 
 - <div>
 
-  ` `<span id="/s:7heresdk22EVChargingOpeningHoursV10exceptionsSayAA0bcD9ExceptionVGvp"></span>` `<span id="//apple_ref/swift/Property/exceptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evchargingopeninghours#/s:7heresdk22EVChargingOpeningHoursV10exceptionsSayAA0bcD9ExceptionVGvp" class="token"><code>exceptions</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk22EVChargingOpeningHoursV10exceptionsSayAA0bcD9ExceptionVGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-exceptions" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingopeninghours#sdk-for-ios-navigate-s-7heresdk22EVChargingOpeningHoursV10exceptionsSayAA0bcD9ExceptionVGvp" class="token"><code>exceptions</code></a> 
 
   </div>
 
@@ -195,6 +199,10 @@ Represents the times when the EVSEs at the charging location can be accessed for
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-evchargingopeninghoursexception">EVChargingOpeningHoursException</a>
+
   </div>
 
   </div>
@@ -203,7 +211,7 @@ Represents the times when the EVSEs at the charging location can be accessed for
 
 - <div>
 
-      init(open24x7: chargingWhenClosed: regularSchedule: exceptions: )
+   <span id="sdk-for-ios-navigate-s-7heresdk22EVChargingOpeningHoursV8open24x718chargingWhenClosed15regularSchedule10exceptionsACSb_SbSayAA0bcdJ0VGSayAA0bcD9ExceptionVGtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-open24x7-chargingWhenClosed-regularSchedule-exceptions" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingopeninghours#sdk-for-ios-navigate-s-7heresdk22EVChargingOpeningHoursV8open24x718chargingWhenClosed15regularSchedule10exceptionsACSb_SbSayAA0bcdJ0VGSayAA0bcD9ExceptionVGtcfc" class="token"><code>init(open24x7:</code><wbr></wbr><code>chargingWhenClosed:</code><wbr></wbr><code>regularSchedule:</code><wbr></wbr><code>exceptions:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -234,12 +242,15 @@ Represents the times when the EVSEs at the charging location can be accessed for
   Swift
 
   ``` highlight
-  public init ( open24x7 : Bool = false , chargingWhenClosed : Bool = true , regularSchedule : [ EVChargingOpeningHoursSchedule ] = [], exceptions : [ EVChargingOpeningHoursException ] = [])
+  public init(open24x7: Bool = false, chargingWhenClosed: Bool = true, regularSchedule: [EVChargingOpeningHoursSchedule] = [], exceptions: [EVChargingOpeningHoursException] = [])
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-evchargingopeninghoursschedule">EVChargingOpeningHoursSchedule</a>
+  - <a href="sdk-for-ios-navigate-structs-evchargingopeninghoursexception">EVChargingOpeningHoursException</a>
 
   </div>
 

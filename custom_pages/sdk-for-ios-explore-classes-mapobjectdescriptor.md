@@ -35,7 +35,7 @@ Interface represents descriptor of a pickable map object.
 
 - <div>
 
-      getLayerName()
+   <span id="sdk-for-ios-explore-s-7heresdk19MapObjectDescriptorC12getLayerNameSSyF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-getLayerName" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapobjectdescriptor#sdk-for-ios-explore-s-7heresdk19MapObjectDescriptorC12getLayerNameSSyF" class="token"><code>getLayerName()</code></a> 
 
   </div>
 
@@ -66,10 +66,8 @@ Interface represents descriptor of a pickable map object.
   Swift
 
   ``` highlight
-  public func getLayerName () -> String
+  public func getLayerName() -> String
   ```
-
-  </pre>
 
   </div>
 
@@ -89,7 +87,7 @@ Interface represents descriptor of a pickable map object.
 
 - <div>
 
-      getDataAttributes()
+   <span id="sdk-for-ios-explore-s-7heresdk19MapObjectDescriptorC17getDataAttributesAA0fG0CyF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-getDataAttributes" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapobjectdescriptor#sdk-for-ios-explore-s-7heresdk19MapObjectDescriptorC17getDataAttributesAA0fG0CyF" class="token"><code>getDataAttributes()</code></a> 
 
   </div>
 
@@ -120,12 +118,14 @@ Interface represents descriptor of a pickable map object.
   Swift
 
   ``` highlight
-  public func getDataAttributes () -> DataAttributes
+  public func getDataAttributes() -> DataAttributes
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-dataattributes">DataAttributes</a>
 
   </div>
 
@@ -143,7 +143,7 @@ Interface represents descriptor of a pickable map object.
 
 - <div>
 
-      getClosestPoint()
+   <span id="sdk-for-ios-explore-s-7heresdk19MapObjectDescriptorC15getClosestPointAA14GeoCoordinatesVSgyF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-getClosestPoint" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapobjectdescriptor#sdk-for-ios-explore-s-7heresdk19MapObjectDescriptorC15getClosestPointAA14GeoCoordinatesVSgyF" class="token"><code>getClosestPoint()</code></a> 
 
   </div>
 
@@ -174,12 +174,14 @@ Interface represents descriptor of a pickable map object.
   Swift
 
   ``` highlight
-  public func getClosestPoint () -> GeoCoordinates ?
+  public func getClosestPoint() -> GeoCoordinates?
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geocoordinates">GeoCoordinates</a>
 
   </div>
 

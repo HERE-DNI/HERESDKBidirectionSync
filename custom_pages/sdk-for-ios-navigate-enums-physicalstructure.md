@@ -29,7 +29,7 @@ Physical structure of a road feature that causes an access restriction, such as 
 
 - <div>
 
-  ` `<span id="/s:7heresdk17PhysicalStructureO7unknownyA2CmF"></span>` `<span id="//apple_ref/swift/Element/unknown" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-physicalstructure#/s:7heresdk17PhysicalStructureO7unknownyA2CmF" class="token"><code>unknown</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk17PhysicalStructureO7unknownyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-unknown" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-physicalstructure#sdk-for-ios-navigate-s-7heresdk17PhysicalStructureO7unknownyA2CmF" class="token"><code>unknown</code></a> 
 
   </div>
 
@@ -73,7 +73,7 @@ Physical structure of a road feature that causes an access restriction, such as 
 
 - <div>
 
-  ` `<span id="/s:7heresdk17PhysicalStructureO6bridgeyA2CmF"></span>` `<span id="//apple_ref/swift/Element/bridge" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-physicalstructure#/s:7heresdk17PhysicalStructureO6bridgeyA2CmF" class="token"><code>bridge</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk17PhysicalStructureO6bridgeyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-bridge" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-physicalstructure#sdk-for-ios-navigate-s-7heresdk17PhysicalStructureO6bridgeyA2CmF" class="token"><code>bridge</code></a> 
 
   </div>
 
@@ -117,7 +117,7 @@ Physical structure of a road feature that causes an access restriction, such as 
 
 - <div>
 
-  ` `<span id="/s:7heresdk17PhysicalStructureO6tunnelyA2CmF"></span>` `<span id="//apple_ref/swift/Element/tunnel" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-physicalstructure#/s:7heresdk17PhysicalStructureO6tunnelyA2CmF" class="token"><code>tunnel</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk17PhysicalStructureO6tunnelyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-tunnel" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-physicalstructure#sdk-for-ios-navigate-s-7heresdk17PhysicalStructureO6tunnelyA2CmF" class="token"><code>tunnel</code></a> 
 
   </div>
 
@@ -161,7 +161,7 @@ Physical structure of a road feature that causes an access restriction, such as 
 
 - <div>
 
-  ` `<span id="/s:7heresdk17PhysicalStructureO10archBridgeyA2CmF"></span>` `<span id="//apple_ref/swift/Element/archBridge" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-physicalstructure#/s:7heresdk17PhysicalStructureO10archBridgeyA2CmF" class="token"><code>archBridge</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk17PhysicalStructureO10archBridgeyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-archBridge" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-physicalstructure#sdk-for-ios-navigate-s-7heresdk17PhysicalStructureO10archBridgeyA2CmF" class="token"><code>archBridge</code></a> 
 
   </div>
 
@@ -205,7 +205,7 @@ Physical structure of a road feature that causes an access restriction, such as 
 
 - <div>
 
-  ` `<span id="/s:7heresdk17PhysicalStructureO10archTunnelyA2CmF"></span>` `<span id="//apple_ref/swift/Element/archTunnel" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-physicalstructure#/s:7heresdk17PhysicalStructureO10archTunnelyA2CmF" class="token"><code>archTunnel</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk17PhysicalStructureO10archTunnelyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-archTunnel" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-physicalstructure#sdk-for-ios-navigate-s-7heresdk17PhysicalStructureO10archTunnelyA2CmF" class="token"><code>archTunnel</code></a> 
 
   </div>
 
@@ -249,7 +249,7 @@ Physical structure of a road feature that causes an access restriction, such as 
 
 - <div>
 
-  ` `<span id="/s:7heresdk17PhysicalStructureO5otheryA2CmF"></span>` `<span id="//apple_ref/swift/Element/other" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-physicalstructure#/s:7heresdk17PhysicalStructureO5otheryA2CmF" class="token"><code>other</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk17PhysicalStructureO5otheryA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-other" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-physicalstructure#sdk-for-ios-navigate-s-7heresdk17PhysicalStructureO5otheryA2CmF" class="token"><code>other</code></a> 
 
   </div>
 

@@ -27,7 +27,7 @@ This enum defines the lane direction.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13LaneDirectionO8straightyA2CmF"></span>` `<span id="//apple_ref/swift/Element/straight" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-lanedirection#/s:7heresdk13LaneDirectionO8straightyA2CmF" class="token"><code>straight</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13LaneDirectionO8straightyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-straight" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-lanedirection#sdk-for-ios-explore-s-7heresdk13LaneDirectionO8straightyA2CmF" class="token"><code>straight</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ This enum defines the lane direction.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13LaneDirectionO10slightLeftyA2CmF"></span>` `<span id="//apple_ref/swift/Element/slightLeft" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-lanedirection#/s:7heresdk13LaneDirectionO10slightLeftyA2CmF" class="token"><code>slightLeft</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13LaneDirectionO10slightLeftyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-slightLeft" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-lanedirection#sdk-for-ios-explore-s-7heresdk13LaneDirectionO10slightLeftyA2CmF" class="token"><code>slightLeft</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ This enum defines the lane direction.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13LaneDirectionO9quiteLeftyA2CmF"></span>` `<span id="//apple_ref/swift/Element/quiteLeft" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-lanedirection#/s:7heresdk13LaneDirectionO9quiteLeftyA2CmF" class="token"><code>quiteLeft</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13LaneDirectionO9quiteLeftyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-quiteLeft" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-lanedirection#sdk-for-ios-explore-s-7heresdk13LaneDirectionO9quiteLeftyA2CmF" class="token"><code>quiteLeft</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ This enum defines the lane direction.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13LaneDirectionO8hardLeftyA2CmF"></span>` `<span id="//apple_ref/swift/Element/hardLeft" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-lanedirection#/s:7heresdk13LaneDirectionO8hardLeftyA2CmF" class="token"><code>hardLeft</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13LaneDirectionO8hardLeftyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-hardLeft" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-lanedirection#sdk-for-ios-explore-s-7heresdk13LaneDirectionO8hardLeftyA2CmF" class="token"><code>hardLeft</code></a> 
 
   </div>
 
@@ -203,7 +203,7 @@ This enum defines the lane direction.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13LaneDirectionO9uTurnLeftyA2CmF"></span>` `<span id="//apple_ref/swift/Element/uTurnLeft" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-lanedirection#/s:7heresdk13LaneDirectionO9uTurnLeftyA2CmF" class="token"><code>uTurnLeft</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13LaneDirectionO9uTurnLeftyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-uTurnLeft" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-lanedirection#sdk-for-ios-explore-s-7heresdk13LaneDirectionO9uTurnLeftyA2CmF" class="token"><code>uTurnLeft</code></a> 
 
   </div>
 
@@ -247,7 +247,7 @@ This enum defines the lane direction.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13LaneDirectionO11slightRightyA2CmF"></span>` `<span id="//apple_ref/swift/Element/slightRight" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-lanedirection#/s:7heresdk13LaneDirectionO11slightRightyA2CmF" class="token"><code>slightRight</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13LaneDirectionO11slightRightyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-slightRight" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-lanedirection#sdk-for-ios-explore-s-7heresdk13LaneDirectionO11slightRightyA2CmF" class="token"><code>slightRight</code></a> 
 
   </div>
 
@@ -291,7 +291,7 @@ This enum defines the lane direction.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13LaneDirectionO10quiteRightyA2CmF"></span>` `<span id="//apple_ref/swift/Element/quiteRight" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-lanedirection#/s:7heresdk13LaneDirectionO10quiteRightyA2CmF" class="token"><code>quiteRight</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13LaneDirectionO10quiteRightyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-quiteRight" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-lanedirection#sdk-for-ios-explore-s-7heresdk13LaneDirectionO10quiteRightyA2CmF" class="token"><code>quiteRight</code></a> 
 
   </div>
 
@@ -335,7 +335,7 @@ This enum defines the lane direction.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13LaneDirectionO9hardRightyA2CmF"></span>` `<span id="//apple_ref/swift/Element/hardRight" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-lanedirection#/s:7heresdk13LaneDirectionO9hardRightyA2CmF" class="token"><code>hardRight</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13LaneDirectionO9hardRightyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-hardRight" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-lanedirection#sdk-for-ios-explore-s-7heresdk13LaneDirectionO9hardRightyA2CmF" class="token"><code>hardRight</code></a> 
 
   </div>
 
@@ -379,7 +379,7 @@ This enum defines the lane direction.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13LaneDirectionO10uTurnRightyA2CmF"></span>` `<span id="//apple_ref/swift/Element/uTurnRight" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-lanedirection#/s:7heresdk13LaneDirectionO10uTurnRightyA2CmF" class="token"><code>uTurnRight</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13LaneDirectionO10uTurnRightyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-uTurnRight" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-lanedirection#sdk-for-ios-explore-s-7heresdk13LaneDirectionO10uTurnRightyA2CmF" class="token"><code>uTurnRight</code></a> 
 
   </div>
 
@@ -423,7 +423,7 @@ This enum defines the lane direction.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13LaneDirectionO10mergeRightyA2CmF"></span>` `<span id="//apple_ref/swift/Element/mergeRight" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-lanedirection#/s:7heresdk13LaneDirectionO10mergeRightyA2CmF" class="token"><code>mergeRight</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13LaneDirectionO10mergeRightyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-mergeRight" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-lanedirection#sdk-for-ios-explore-s-7heresdk13LaneDirectionO10mergeRightyA2CmF" class="token"><code>mergeRight</code></a> 
 
   </div>
 
@@ -467,7 +467,7 @@ This enum defines the lane direction.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13LaneDirectionO9mergeLeftyA2CmF"></span>` `<span id="//apple_ref/swift/Element/mergeLeft" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-lanedirection#/s:7heresdk13LaneDirectionO9mergeLeftyA2CmF" class="token"><code>mergeLeft</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13LaneDirectionO9mergeLeftyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-mergeLeft" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-lanedirection#sdk-for-ios-explore-s-7heresdk13LaneDirectionO9mergeLeftyA2CmF" class="token"><code>mergeLeft</code></a> 
 
   </div>
 
@@ -511,7 +511,7 @@ This enum defines the lane direction.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13LaneDirectionO10mergeLanesyA2CmF"></span>` `<span id="//apple_ref/swift/Element/mergeLanes" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-lanedirection#/s:7heresdk13LaneDirectionO10mergeLanesyA2CmF" class="token"><code>mergeLanes</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13LaneDirectionO10mergeLanesyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-mergeLanes" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-lanedirection#sdk-for-ios-explore-s-7heresdk13LaneDirectionO10mergeLanesyA2CmF" class="token"><code>mergeLanes</code></a> 
 
   </div>
 
@@ -555,7 +555,7 @@ This enum defines the lane direction.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13LaneDirectionO11secondRightyA2CmF"></span>` `<span id="//apple_ref/swift/Element/secondRight" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-lanedirection#/s:7heresdk13LaneDirectionO11secondRightyA2CmF" class="token"><code>secondRight</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13LaneDirectionO11secondRightyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-secondRight" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-lanedirection#sdk-for-ios-explore-s-7heresdk13LaneDirectionO11secondRightyA2CmF" class="token"><code>secondRight</code></a> 
 
   </div>
 
@@ -599,7 +599,7 @@ This enum defines the lane direction.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13LaneDirectionO10secondLeftyA2CmF"></span>` `<span id="//apple_ref/swift/Element/secondLeft" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-lanedirection#/s:7heresdk13LaneDirectionO10secondLeftyA2CmF" class="token"><code>secondLeft</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13LaneDirectionO10secondLeftyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-secondLeft" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-lanedirection#sdk-for-ios-explore-s-7heresdk13LaneDirectionO10secondLeftyA2CmF" class="token"><code>secondLeft</code></a> 
 
   </div>
 

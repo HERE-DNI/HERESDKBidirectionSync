@@ -27,7 +27,7 @@ Tile data version.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21TileSourceDataVersionV05majorE0s5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/majorVersion" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-tilesourcedataversion#/s:7heresdk21TileSourceDataVersionV05majorE0s5Int32Vvp" class="token"><code>majorVersion</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk21TileSourceDataVersionV05majorE0s5Int32Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-majorVersion" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-tilesourcedataversion#sdk-for-ios-explore-s-7heresdk21TileSourceDataVersionV05majorE0s5Int32Vvp" class="token"><code>majorVersion</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Tile data version.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21TileSourceDataVersionV05minorE0s5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/minorVersion" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-tilesourcedataversion#/s:7heresdk21TileSourceDataVersionV05minorE0s5Int32Vvp" class="token"><code>minorVersion</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk21TileSourceDataVersionV05minorE0s5Int32Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-minorVersion" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-tilesourcedataversion#sdk-for-ios-explore-s-7heresdk21TileSourceDataVersionV05minorE0s5Int32Vvp" class="token"><code>minorVersion</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Tile data version.
 
 - <div>
 
-      init(majorVersion: minorVersion: )
+   <span id="sdk-for-ios-explore-s-7heresdk21TileSourceDataVersionV05majorE005minorE0ACs5Int32V_AGtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-majorVersion-minorVersion" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-tilesourcedataversion#sdk-for-ios-explore-s-7heresdk21TileSourceDataVersionV05majorE005minorE0ACs5Int32V_AGtcfc" class="token"><code>init(majorVersion:</code><wbr></wbr><code>minorVersion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -146,10 +146,8 @@ Tile data version.
   Swift
 
   ``` highlight
-  public init ( majorVersion : Int32 , minorVersion : Int32 )
+  public init(majorVersion: Int32, minorVersion: Int32)
   ```
-
-  </pre>
 
   </div>
 

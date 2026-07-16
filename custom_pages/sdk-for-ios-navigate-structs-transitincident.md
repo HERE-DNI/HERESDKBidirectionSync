@@ -27,7 +27,7 @@ A transit incident describes disruptions on the transit network. Disruptions sca
 
 - <div>
 
-  ` `<span id="/s:7heresdk15TransitIncidentV7summarySSSgvp"></span>` `<span id="//apple_ref/swift/Property/summary" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-transitincident#/s:7heresdk15TransitIncidentV7summarySSSgvp" class="token"><code>summary</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15TransitIncidentV7summarySSSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-summary" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-transitincident#sdk-for-ios-navigate-s-7heresdk15TransitIncidentV7summarySSSgvp" class="token"><code>summary</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ A transit incident describes disruptions on the transit network. Disruptions sca
 
 - <div>
 
-  ` `<span id="/s:7heresdk15TransitIncidentV11descriptionSSSgvp"></span>` `<span id="//apple_ref/swift/Property/description" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-transitincident#/s:7heresdk15TransitIncidentV11descriptionSSSgvp" class="token"><code>description</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15TransitIncidentV11descriptionSSSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-description" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-transitincident#sdk-for-ios-navigate-s-7heresdk15TransitIncidentV11descriptionSSSgvp" class="token"><code>description</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ A transit incident describes disruptions on the transit network. Disruptions sca
 
 - <div>
 
-  ` `<span id="/s:7heresdk15TransitIncidentV4typeAA0bC4TypeOSgvp"></span>` `<span id="//apple_ref/swift/Property/type" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-transitincident#/s:7heresdk15TransitIncidentV4typeAA0bC4TypeOSgvp" class="token"><code>type</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15TransitIncidentV4typeAA0bC4TypeOSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-type" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-transitincident#sdk-for-ios-navigate-s-7heresdk15TransitIncidentV4typeAA0bC4TypeOSgvp" class="token"><code>type</code></a> 
 
   </div>
 
@@ -151,6 +151,10 @@ A transit incident describes disruptions on the transit network. Disruptions sca
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-transitincidenttype">TransitIncidentType</a>
+
   </div>
 
   </div>
@@ -159,7 +163,7 @@ A transit incident describes disruptions on the transit network. Disruptions sca
 
 - <div>
 
-  ` `<span id="/s:7heresdk15TransitIncidentV6effectAA0bC6EffectOSgvp"></span>` `<span id="//apple_ref/swift/Property/effect" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-transitincident#/s:7heresdk15TransitIncidentV6effectAA0bC6EffectOSgvp" class="token"><code>effect</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15TransitIncidentV6effectAA0bC6EffectOSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-effect" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-transitincident#sdk-for-ios-navigate-s-7heresdk15TransitIncidentV6effectAA0bC6EffectOSgvp" class="token"><code>effect</code></a> 
 
   </div>
 
@@ -195,6 +199,10 @@ A transit incident describes disruptions on the transit network. Disruptions sca
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-transitincidenteffect">TransitIncidentEffect</a>
+
   </div>
 
   </div>
@@ -203,7 +211,7 @@ A transit incident describes disruptions on the transit network. Disruptions sca
 
 - <div>
 
-  ` `<span id="/s:7heresdk15TransitIncidentV9validFrom10Foundation4DateVSgvp"></span>` `<span id="//apple_ref/swift/Property/validFrom" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-transitincident#/s:7heresdk15TransitIncidentV9validFrom10Foundation4DateVSgvp" class="token"><code>validFrom</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15TransitIncidentV9validFrom10Foundation4DateVSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-validFrom" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-transitincident#sdk-for-ios-navigate-s-7heresdk15TransitIncidentV9validFrom10Foundation4DateVSgvp" class="token"><code>validFrom</code></a> 
 
   </div>
 
@@ -247,7 +255,7 @@ A transit incident describes disruptions on the transit network. Disruptions sca
 
 - <div>
 
-  ` `<span id="/s:7heresdk15TransitIncidentV10validUntil10Foundation4DateVSgvp"></span>` `<span id="//apple_ref/swift/Property/validUntil" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-transitincident#/s:7heresdk15TransitIncidentV10validUntil10Foundation4DateVSgvp" class="token"><code>validUntil</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15TransitIncidentV10validUntil10Foundation4DateVSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-validUntil" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-transitincident#sdk-for-ios-navigate-s-7heresdk15TransitIncidentV10validUntil10Foundation4DateVSgvp" class="token"><code>validUntil</code></a> 
 
   </div>
 
@@ -291,7 +299,7 @@ A transit incident describes disruptions on the transit network. Disruptions sca
 
 - <div>
 
-  ` `<span id="/s:7heresdk15TransitIncidentV3urlSSSgvp"></span>` `<span id="//apple_ref/swift/Property/url" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-transitincident#/s:7heresdk15TransitIncidentV3urlSSSgvp" class="token"><code>url</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15TransitIncidentV3urlSSSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-url" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-transitincident#sdk-for-ios-navigate-s-7heresdk15TransitIncidentV3urlSSSgvp" class="token"><code>url</code></a> 
 
   </div>
 
@@ -335,7 +343,7 @@ A transit incident describes disruptions on the transit network. Disruptions sca
 
 - <div>
 
-      init(summary: description: type: effect: validFrom: validUntil: url: )
+   <span id="sdk-for-ios-navigate-s-7heresdk15TransitIncidentV7summary11description4type6effect9validFrom0H5Until3urlACSSSg_AkA0bC4TypeOSgAA0bC6EffectOSg10Foundation4DateVSgAuKtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-summary-description-type-effect-validFrom-validUntil-url" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-transitincident#sdk-for-ios-navigate-s-7heresdk15TransitIncidentV7summary11description4type6effect9validFrom0H5Until3urlACSSSg_AkA0bC4TypeOSgAA0bC6EffectOSg10Foundation4DateVSgAuKtcfc" class="token"><code>init(summary:</code><wbr></wbr><code>description:</code><wbr></wbr><code>type:</code><wbr></wbr><code>effect:</code><wbr></wbr><code>validFrom:</code><wbr></wbr><code>validUntil:</code><wbr></wbr><code>url:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -366,12 +374,15 @@ A transit incident describes disruptions on the transit network. Disruptions sca
   Swift
 
   ``` highlight
-  public init ( summary : String ? = nil , description : String ? = nil , type : TransitIncidentType ? = nil , effect : TransitIncidentEffect ? = nil , validFrom : Date ? = nil , validUntil : Date ? = nil , url : String ? = nil )
+  public init(summary: String? = nil, description: String? = nil, type: TransitIncidentType? = nil, effect: TransitIncidentEffect? = nil, validFrom: Date? = nil, validUntil: Date? = nil, url: String? = nil)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-transitincidenttype">TransitIncidentType</a>
+  - <a href="sdk-for-ios-navigate-enums-transitincidenteffect">TransitIncidentEffect</a>
 
   </div>
 

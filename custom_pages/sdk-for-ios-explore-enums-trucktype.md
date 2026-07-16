@@ -10,10 +10,9 @@ slug: "sdk-for-ios-explore-enums-trucktype"
 <div class="language">
 
 ``` highlight
-@available(*, deprecated, message: "Will be removed in v4.27.0. Use `TruckCategory` instead.") public enum TruckType : UInt32 , CaseIterable , Codable
+@available(*, deprecated, message: "Will be removed in v4.27.0. Use `TruckCategory` instead.")
+public enum TruckType : UInt32, CaseIterable, Codable
 ```
-
-</pre>
 
 </div>
 
@@ -29,7 +28,7 @@ Specifies the type of truck.
 
 - <div>
 
-  ` `<span id="/s:7heresdk9TruckTypeO8straightyA2CmF"></span>` `<span id="//apple_ref/swift/Element/straight" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-trucktype#/s:7heresdk9TruckTypeO8straightyA2CmF" class="token"><code>straight</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9TruckTypeO8straightyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-straight" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-trucktype#sdk-for-ios-explore-s-7heresdk9TruckTypeO8straightyA2CmF" class="token"><code>straight</code></a> 
 
   </div>
 
@@ -73,7 +72,7 @@ Specifies the type of truck.
 
 - <div>
 
-  ` `<span id="/s:7heresdk9TruckTypeO7tractoryA2CmF"></span>` `<span id="//apple_ref/swift/Element/tractor" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-trucktype#/s:7heresdk9TruckTypeO7tractoryA2CmF" class="token"><code>tractor</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9TruckTypeO7tractoryA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-tractor" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-trucktype#sdk-for-ios-explore-s-7heresdk9TruckTypeO7tractoryA2CmF" class="token"><code>tractor</code></a> 
 
   </div>
 

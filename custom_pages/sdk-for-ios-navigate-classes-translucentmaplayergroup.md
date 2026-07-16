@@ -25,20 +25,47 @@ extension TranslucentMapLayerGroup: Hashable
 
 </div>
 
-A translucent layer group that can be the target for
-
-    MapLayerPriorityBuilder.inGroup(...)
-
-. Currently, only custom line layers can be added to a translucent layer group. Custom line layers in a translucent layer group are rendered in an offscreen translucent pass so that overlapping translucent line geometry is not alpha blended with itself. At creation, the layer group gets added to a map. The layer group gets removed from the map upon instance destruction and any layer (categories) still in the group are not rendered anymore, therefore it is recommended to keep a group alive as long as layers using the group are alive and in use.
-</p>
+A translucent layer group that can be the target for <a href="sdk-for-ios-navigate-classes-maplayerprioritybuilder#sdk-for-ios-navigate-s-7heresdk23MapLayerPriorityBuilderC7inGroupyACSSF">`MapLayerPriorityBuilder.inGroup(...)`</a>. Currently, only custom line layers can be added to a translucent layer group. Custom line layers in a translucent layer group are rendered in an offscreen translucent pass so that overlapping translucent line geometry is not alpha blended with itself. At creation, the layer group gets added to a map. The layer group gets removed from the map upon instance destruction and any layer (categories) still in the group are not rendered anymore, therefore it is recommended to keep a group alive as long as layers using the group are alive and in use.
 
 Conceptual example to place line layers into a translucent group:
 
 ``` highlight
-// Create a translucent group with a unique name and a render priority let groupPriority = MapLayerPriorityBuilder () . renderedLast () . build () let group = TranslucentMapLayerGroup ( name : "TranslucentGroupName" , map , groupPriority ) // Create a line layer to be rendered as part of the translucent group let lineLayerPriority = MapLayerPriorityBuilder () . inGroup ( "TranslucentGroupName" ) // places the line layer into the group . renderedFirst () // to be rendered first when the group is rendered . withCategory ( "SomeCategory" ) // places the line layer category 'SomeCategory' . inGroup ( "TranslucentGroupName" ) // into the group . renderedLast () // to be rendered last when the group is rendered . build () let lineLayer = MapLayerBuilder () . withDataSource ( named : "DataSourceName" , contentType : MapContentType . line ) . forMap ( map ) . withName ( "LineLayerName" ) . withPriority ( lineLayerPriority ) . withStyle ( translucentLineStyle ) // E.g. "technique": "line" ... "color": "#FFFFFF80" . build () // Create a second line layer to be rendered as part of the translucent group let secondLineLayerPriority = MapLayerPriorityBuilder () . inGroup ( "TranslucentGroupName" ) // places the second line layer into the group . renderedBeforeLayer ( "LineLayerName" ) // to be rendered before first layer // when the group is rendered . build () let secondLineLayer = MapLayerBuilder () . withDataSource ( named : "SecondDataSourceName" , contentType : MapContentType . line ) . forMap ( map ) . withName ( "SecondLineLayerName" ) . withPriority ( secondLineLayerPriority ) . withStyle ( secondTranslucentLineStyle ) // E.g. "technique": "line" ... "color": "#FFFFFF80" . build ()
-```
+ // Create a translucent group with a unique name and a render priority
+ let groupPriority = MapLayerPriorityBuilder().renderedLast().build()
+ let group = TranslucentMapLayerGroup(name: "TranslucentGroupName", map, groupPriority)
 
-</pre>
+ // Create a line layer to be rendered as part of the translucent group
+ let lineLayerPriority = MapLayerPriorityBuilder()
+     .inGroup("TranslucentGroupName") // places the line layer into the group
+     .renderedFirst()                 // to be rendered first when the group is rendered
+     .withCategory("SomeCategory")    // places the line layer category 'SomeCategory'
+     .inGroup("TranslucentGroupName") // into the group
+     .renderedLast()                  // to be rendered last when the group is rendered
+     .build()
+
+ let lineLayer = MapLayerBuilder()
+     .withDataSource(named: "DataSourceName", contentType: MapContentType.line)
+     .forMap(map)
+     .withName("LineLayerName")
+     .withPriority(lineLayerPriority)
+     .withStyle(translucentLineStyle) // E.g. "technique": "line" ... "color": "#FFFFFF80"
+     .build()
+
+ // Create a second line layer to be rendered as part of the translucent group
+ let secondLineLayerPriority = MapLayerPriorityBuilder()
+     .inGroup("TranslucentGroupName")      // places the second line layer into the group
+     .renderedBeforeLayer("LineLayerName") // to be rendered before first layer
+                                           // when the group is rendered
+     .build()
+
+ let secondLineLayer = MapLayerBuilder()
+     .withDataSource(named: "SecondDataSourceName", contentType: MapContentType.line)
+     .forMap(map)
+     .withName("SecondLineLayerName")
+     .withPriority(secondLineLayerPriority)
+     .withStyle(secondTranslucentLineStyle) // E.g. "technique": "line" ... "color": "#FFFFFF80"
+     .build()
+```
 
 Note: This is a beta release of this feature, so there could be a few bugs and unexpected behavior. Related APIs may change for new releases without a deprecation process.
 
@@ -50,7 +77,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-  ` `<span id="/s:7heresdk24TranslucentMapLayerGroupC18InstantiationErrora"></span>` `<span id="//apple_ref/swift/Alias/InstantiationError" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-translucentmaplayergroup#/s:7heresdk24TranslucentMapLayerGroupC18InstantiationErrora" class="token"><code>InstantiationError</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk24TranslucentMapLayerGroupC18InstantiationErrora"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Alias-InstantiationError" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-translucentmaplayergroup#sdk-for-ios-navigate-s-7heresdk24TranslucentMapLayerGroupC18InstantiationErrora" class="token"><code>InstantiationError</code></a> 
 
   </div>
 
@@ -86,6 +113,10 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-translucentmaplayergroup-errordetails">ErrorDetails</a>
+
   </div>
 
   </div>
@@ -94,7 +125,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      init(name: aMap: )
+   <span id="sdk-for-ios-navigate-s-7heresdk24TranslucentMapLayerGroupC4name01aC0ACSS_AA04HereC0CtKcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-name-aMap" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-translucentmaplayergroup#sdk-for-ios-navigate-s-7heresdk24TranslucentMapLayerGroupC4name01aC0ACSS_AA04HereC0CtKcfc" class="token"><code>init(name:</code><wbr></wbr><code>aMap:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -118,7 +149,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
   Throws
 
-  <a href="sdk-for-ios-navigate-classes-translucentmaplayergroup#/s:7heresdk24TranslucentMapLayerGroupC18InstantiationErrora">`TranslucentMapLayerGroup.InstantiationError`</a> In case of invalid input parameters.
+  <a href="sdk-for-ios-navigate-classes-translucentmaplayergroup#sdk-for-ios-navigate-s-7heresdk24TranslucentMapLayerGroupC18InstantiationErrora">`TranslucentMapLayerGroup.InstantiationError`</a> In case of invalid input parameters.
 
   </div>
 
@@ -133,12 +164,14 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public init ( name : String , aMap : HereMap ) throws
+  public init(name: String, aMap: HereMap) throws
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-heremap">HereMap</a>
 
   </div>
 
@@ -175,7 +208,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      init(name: aMap: _: )
+   <span id="sdk-for-ios-navigate-s-7heresdk24TranslucentMapLayerGroupC4name01aC0_ACSS_AA04HereC0CAA0cD8PriorityCtKcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-name-aMap-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-translucentmaplayergroup#sdk-for-ios-navigate-s-7heresdk24TranslucentMapLayerGroupC4name01aC0_ACSS_AA04HereC0CAA0cD8PriorityCtKcfc" class="token"><code>init(name:</code><wbr></wbr><code>aMap:</code><wbr></wbr><code>_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -199,7 +232,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
   Throws
 
-  <a href="sdk-for-ios-navigate-classes-translucentmaplayergroup#/s:7heresdk24TranslucentMapLayerGroupC18InstantiationErrora">`TranslucentMapLayerGroup.InstantiationError`</a> In case of invalid input parameters.
+  <a href="sdk-for-ios-navigate-classes-translucentmaplayergroup#sdk-for-ios-navigate-s-7heresdk24TranslucentMapLayerGroupC18InstantiationErrora">`TranslucentMapLayerGroup.InstantiationError`</a> In case of invalid input parameters.
 
   </div>
 
@@ -214,12 +247,15 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public init ( name : String , aMap : HereMap , _ priority : MapLayerPriority ) throws
+  public init(name: String, aMap: HereMap, _ priority: MapLayerPriority) throws
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-heremap">HereMap</a>
+  - <a href="sdk-for-ios-navigate-maps#sdk-for-ios-navigate-s-7heresdk16MapLayerPriorityC">MapLayerPriority</a>
 
   </div>
 
@@ -248,12 +284,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   <tr>
   <td><code> </code><em><code>priority</code></em><code> </code></td>
   <td><div>
-  <p>The <a href="sdk-for-ios-navigate-maps#/s:7heresdk16MapLayerPriorityC"><code>MapLayerPriority</code></a> which should be applied to position the group. The <a href="sdk-for-ios-navigate-maps#/s:7heresdk16MapLayerPriorityC"><code>MapLayerPriority</code></a> must contain only one priority and this priority must have no category and no group, i.e.</p>
-  <pre><code>MapLayerPriorityBuilder.inGroup(...)</code></pre>
-  and
-  <pre><code>MapLayerPriorityBuilder.withCategory(...)</code></pre>
-  should not be used when building the <a href="sdk-for-ios-navigate-maps#/s:7heresdk16MapLayerPriorityC"><code>MapLayerPriority</code></a>. Example:
-  </p>
+  <p>The <a href="sdk-for-ios-navigate-maps#sdk-for-ios-navigate-s-7heresdk16MapLayerPriorityC"><code>MapLayerPriority</code></a> which should be applied to position the group. The <a href="sdk-for-ios-navigate-maps#sdk-for-ios-navigate-s-7heresdk16MapLayerPriorityC"><code>MapLayerPriority</code></a> must contain only one priority and this priority must have no category and no group, i.e. <a href="sdk-for-ios-navigate-classes-maplayerprioritybuilder#sdk-for-ios-navigate-s-7heresdk23MapLayerPriorityBuilderC7inGroupyACSSF"><code>MapLayerPriorityBuilder.inGroup(...)</code></a> and <a href="sdk-for-ios-navigate-classes-maplayerprioritybuilder#sdk-for-ios-navigate-s-7heresdk23MapLayerPriorityBuilderC12withCategoryyACSSF"><code>MapLayerPriorityBuilder.withCategory(...)</code></a> should not be used when building the <a href="sdk-for-ios-navigate-maps#sdk-for-ios-navigate-s-7heresdk16MapLayerPriorityC"><code>MapLayerPriority</code></a>. Example:</p>
   </div></td>
   </tr>
   </tbody>
@@ -267,7 +298,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-  ` `<span id="/s:7heresdk24TranslucentMapLayerGroupC9ErrorCodeO"></span>` `<span id="//apple_ref/swift/Enum/ErrorCode" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-translucentmaplayergroup#/s:7heresdk24TranslucentMapLayerGroupC9ErrorCodeO" class="token"><code>ErrorCode</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk24TranslucentMapLayerGroupC9ErrorCodeO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-ErrorCode" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-translucentmaplayergroup#sdk-for-ios-navigate-s-7heresdk24TranslucentMapLayerGroupC9ErrorCodeO" class="token"><code>ErrorCode</code></a> 
 
   </div>
 
@@ -313,7 +344,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-  ` `<span id="/s:7heresdk24TranslucentMapLayerGroupC12ErrorDetailsV"></span>` `<span id="//apple_ref/swift/Struct/ErrorDetails" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-translucentmaplayergroup#/s:7heresdk24TranslucentMapLayerGroupC12ErrorDetailsV" class="token"><code>ErrorDetails</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk24TranslucentMapLayerGroupC12ErrorDetailsV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-ErrorDetails" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-translucentmaplayergroup#sdk-for-ios-navigate-s-7heresdk24TranslucentMapLayerGroupC12ErrorDetailsV" class="token"><code>ErrorDetails</code></a> 
 
   </div>
 
@@ -355,6 +386,10 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-translucentmaplayergroup">TranslucentMapLayerGroup</a>
+
   </div>
 
   </div>
@@ -363,7 +398,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      setPriority(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk24TranslucentMapLayerGroupC11setPriorityyyAA0cdG0CF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-setPriority-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-translucentmaplayergroup#sdk-for-ios-navigate-s-7heresdk24TranslucentMapLayerGroupC11setPriorityyyAA0cdG0CF" class="token"><code>setPriority(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -394,12 +429,14 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func setPriority ( _ priority : MapLayerPriority )
+  public func setPriority(_ priority: MapLayerPriority)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-maps#sdk-for-ios-navigate-s-7heresdk16MapLayerPriorityC">MapLayerPriority</a>
 
   </div>
 
@@ -416,12 +453,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   <tr>
   <td><code> </code><em><code>priority</code></em><code> </code></td>
   <td><div>
-  <p>The priority to position the group. The <a href="sdk-for-ios-navigate-maps#/s:7heresdk16MapLayerPriorityC"><code>MapLayerPriority</code></a> must contain only one priority and this priority must have no category and no group, i.e.</p>
-  <pre><code>MapLayerPriorityBuilder.inGroup(...)</code></pre>
-  and
-  <pre><code>MapLayerPriorityBuilder.withCategory(...)</code></pre>
-  should not be used when building the <a href="sdk-for-ios-navigate-maps#/s:7heresdk16MapLayerPriorityC"><code>MapLayerPriority</code></a>. Example:
-  </p>
+  <p>The priority to position the group. The <a href="sdk-for-ios-navigate-maps#sdk-for-ios-navigate-s-7heresdk16MapLayerPriorityC"><code>MapLayerPriority</code></a> must contain only one priority and this priority must have no category and no group, i.e. <a href="sdk-for-ios-navigate-classes-maplayerprioritybuilder#sdk-for-ios-navigate-s-7heresdk23MapLayerPriorityBuilderC7inGroupyACSSF"><code>MapLayerPriorityBuilder.inGroup(...)</code></a> and <a href="sdk-for-ios-navigate-classes-maplayerprioritybuilder#sdk-for-ios-navigate-s-7heresdk23MapLayerPriorityBuilderC12withCategoryyACSSF"><code>MapLayerPriorityBuilder.withCategory(...)</code></a> should not be used when building the <a href="sdk-for-ios-navigate-maps#sdk-for-ios-navigate-s-7heresdk16MapLayerPriorityC"><code>MapLayerPriority</code></a>. Example:</p>
   <p>new MapLayerPriorityBuilder().renderedAfterLayer(“water”).build()</p>
   <pre><code>MapLayerPriorityBuilder().renderedAfterLayer(named: &quot;water&quot;).build()</code></pre>
   </p>

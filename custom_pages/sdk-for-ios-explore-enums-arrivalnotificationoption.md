@@ -27,7 +27,7 @@ Indicates arrival point type to announce in maneuver notification.
 
 - <div>
 
-  ` `<span id="/s:7heresdk25ArrivalNotificationOptionO4noneyA2CmF"></span>` `<span id="//apple_ref/swift/Element/none" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-arrivalnotificationoption#/s:7heresdk25ArrivalNotificationOptionO4noneyA2CmF" class="token"><code>none</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk25ArrivalNotificationOptionO4noneyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-none" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-arrivalnotificationoption#sdk-for-ios-explore-s-7heresdk25ArrivalNotificationOptionO4noneyA2CmF" class="token"><code>none</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Indicates arrival point type to announce in maneuver notification.
 
 - <div>
 
-  ` `<span id="/s:7heresdk25ArrivalNotificationOptionO15destinationOnlyyA2CmF"></span>` `<span id="//apple_ref/swift/Element/destinationOnly" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-arrivalnotificationoption#/s:7heresdk25ArrivalNotificationOptionO15destinationOnlyyA2CmF" class="token"><code>destinationOnly</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk25ArrivalNotificationOptionO15destinationOnlyyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-destinationOnly" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-arrivalnotificationoption#sdk-for-ios-explore-s-7heresdk25ArrivalNotificationOptionO15destinationOnlyyA2CmF" class="token"><code>destinationOnly</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Indicates arrival point type to announce in maneuver notification.
 
 - <div>
 
-  ` `<span id="/s:7heresdk25ArrivalNotificationOptionO12stopoverOnlyyA2CmF"></span>` `<span id="//apple_ref/swift/Element/stopoverOnly" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-arrivalnotificationoption#/s:7heresdk25ArrivalNotificationOptionO12stopoverOnlyyA2CmF" class="token"><code>stopoverOnly</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk25ArrivalNotificationOptionO12stopoverOnlyyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-stopoverOnly" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-arrivalnotificationoption#sdk-for-ios-explore-s-7heresdk25ArrivalNotificationOptionO12stopoverOnlyyA2CmF" class="token"><code>stopoverOnly</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Indicates arrival point type to announce in maneuver notification.
 
 - <div>
 
-  ` `<span id="/s:7heresdk25ArrivalNotificationOptionO4bothyA2CmF"></span>` `<span id="//apple_ref/swift/Element/both" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-arrivalnotificationoption#/s:7heresdk25ArrivalNotificationOptionO4bothyA2CmF" class="token"><code>both</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk25ArrivalNotificationOptionO4bothyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-both" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-arrivalnotificationoption#sdk-for-ios-explore-s-7heresdk25ArrivalNotificationOptionO4bothyA2CmF" class="token"><code>both</code></a> 
 
   </div>
 

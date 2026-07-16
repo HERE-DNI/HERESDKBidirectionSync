@@ -29,7 +29,7 @@ Combined set of conditions that must all be satisfied for a regulation to apply.
 
 - <div>
 
-  ` `<span id="/s:7heresdk27VehicleRestrictionConditionV19requiredRoadProfileAA0fgD0VSgvp"></span>` `<span id="//apple_ref/swift/Property/requiredRoadProfile" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-vehiclerestrictioncondition#/s:7heresdk27VehicleRestrictionConditionV19requiredRoadProfileAA0fgD0VSgvp" class="token"><code>requiredRoadProfile</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk27VehicleRestrictionConditionV19requiredRoadProfileAA0fgD0VSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-requiredRoadProfile" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-vehiclerestrictioncondition#sdk-for-ios-explore-s-7heresdk27VehicleRestrictionConditionV19requiredRoadProfileAA0fgD0VSgvp" class="token"><code>requiredRoadProfile</code></a> 
 
   </div>
 
@@ -65,6 +65,10 @@ Combined set of conditions that must all be satisfied for a regulation to apply.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-roadprofilecondition">RoadProfileCondition</a>
+
   </div>
 
   </div>
@@ -73,7 +77,7 @@ Combined set of conditions that must all be satisfied for a regulation to apply.
 
 - <div>
 
-  ` `<span id="/s:7heresdk27VehicleRestrictionConditionV015requiredWeatherD0AA0F4TypeOSgvp"></span>` `<span id="//apple_ref/swift/Property/requiredWeatherCondition" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-vehiclerestrictioncondition#/s:7heresdk27VehicleRestrictionConditionV015requiredWeatherD0AA0F4TypeOSgvp" class="token"><code>requiredWeatherCondition</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk27VehicleRestrictionConditionV015requiredWeatherD0AA0F4TypeOSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-requiredWeatherCondition" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-vehiclerestrictioncondition#sdk-for-ios-explore-s-7heresdk27VehicleRestrictionConditionV015requiredWeatherD0AA0F4TypeOSgvp" class="token"><code>requiredWeatherCondition</code></a> 
 
   </div>
 
@@ -109,6 +113,10 @@ Combined set of conditions that must all be satisfied for a regulation to apply.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-weathertype">WeatherType</a>
+
   </div>
 
   </div>
@@ -117,7 +125,7 @@ Combined set of conditions that must all be satisfied for a regulation to apply.
 
 - <div>
 
-  ` `<span id="/s:7heresdk27VehicleRestrictionConditionV13appliesDuringSayAA8TimeRuleCGvp"></span>` `<span id="//apple_ref/swift/Property/appliesDuring" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-vehiclerestrictioncondition#/s:7heresdk27VehicleRestrictionConditionV13appliesDuringSayAA8TimeRuleCGvp" class="token"><code>appliesDuring</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk27VehicleRestrictionConditionV13appliesDuringSayAA8TimeRuleCGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-appliesDuring" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-vehiclerestrictioncondition#sdk-for-ios-explore-s-7heresdk27VehicleRestrictionConditionV13appliesDuringSayAA8TimeRuleCGvp" class="token"><code>appliesDuring</code></a> 
 
   </div>
 
@@ -153,6 +161,10 @@ Combined set of conditions that must all be satisfied for a regulation to apply.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-timerule">TimeRule</a>
+
   </div>
 
   </div>
@@ -161,7 +173,7 @@ Combined set of conditions that must all be satisfied for a regulation to apply.
 
 - <div>
 
-  ` `<span id="/s:7heresdk27VehicleRestrictionConditionV08requiredB7ProfileSayAA0bfC0VGvp"></span>` `<span id="//apple_ref/swift/Property/requiredVehicleProfile" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-vehiclerestrictioncondition#/s:7heresdk27VehicleRestrictionConditionV08requiredB7ProfileSayAA0bfC0VGvp" class="token"><code>requiredVehicleProfile</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk27VehicleRestrictionConditionV08requiredB7ProfileSayAA0bfC0VGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-requiredVehicleProfile" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-vehiclerestrictioncondition#sdk-for-ios-explore-s-7heresdk27VehicleRestrictionConditionV08requiredB7ProfileSayAA0bfC0VGvp" class="token"><code>requiredVehicleProfile</code></a> 
 
   </div>
 
@@ -197,6 +209,10 @@ Combined set of conditions that must all be satisfied for a regulation to apply.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-vehicleprofilerestriction">VehicleProfileRestriction</a>
+
   </div>
 
   </div>
@@ -205,7 +221,7 @@ Combined set of conditions that must all be satisfied for a regulation to apply.
 
 - <div>
 
-      init(requiredRoadProfile: requiredWeatherCondition: appliesDuring: requiredVehicleProfile: )
+   <span id="sdk-for-ios-explore-s-7heresdk27VehicleRestrictionConditionV19requiredRoadProfile0e7WeatherD013appliesDuring0ebG0AcA0fgD0VSg_AA0H4TypeOSgSayAA8TimeRuleCGSayAA0bgC0VGtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-requiredRoadProfile-requiredWeatherCondition-appliesDuring-requiredVehicleProfile" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-vehiclerestrictioncondition#sdk-for-ios-explore-s-7heresdk27VehicleRestrictionConditionV19requiredRoadProfile0e7WeatherD013appliesDuring0ebG0AcA0fgD0VSg_AA0H4TypeOSgSayAA8TimeRuleCGSayAA0bgC0VGtcfc" class="token"><code>init(requiredRoadProfile:</code><wbr></wbr><code>requiredWeatherCondition:</code><wbr></wbr><code>appliesDuring:</code><wbr></wbr><code>requiredVehicleProfile:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -236,12 +252,17 @@ Combined set of conditions that must all be satisfied for a regulation to apply.
   Swift
 
   ``` highlight
-  public init ( requiredRoadProfile : RoadProfileCondition ? = nil , requiredWeatherCondition : WeatherType ? = nil , appliesDuring : [ TimeRule ] = [], requiredVehicleProfile : [ VehicleProfileRestriction ] = [])
+  public init(requiredRoadProfile: RoadProfileCondition? = nil, requiredWeatherCondition: WeatherType? = nil, appliesDuring: [TimeRule] = [], requiredVehicleProfile: [VehicleProfileRestriction] = [])
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-roadprofilecondition">RoadProfileCondition</a>
+  - <a href="sdk-for-ios-explore-enums-weathertype">WeatherType</a>
+  - <a href="sdk-for-ios-explore-classes-timerule">TimeRule</a>
+  - <a href="sdk-for-ios-explore-structs-vehicleprofilerestriction">VehicleProfileRestriction</a>
 
   </div>
 

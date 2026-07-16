@@ -35,7 +35,7 @@ Represents the venue info existing in a catalogs contains id and name.
 
 - <div>
 
-  ` `<span id="/s:7heresdk9VenueInfoC15venueIdentifierSSvp"></span>` `<span id="//apple_ref/swift/Property/venueIdentifier" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-venueinfo#/s:7heresdk9VenueInfoC15venueIdentifierSSvp" class="token"><code>venueIdentifier</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9VenueInfoC15venueIdentifierSSvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-venueIdentifier" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-venueinfo#sdk-for-ios-navigate-s-7heresdk9VenueInfoC15venueIdentifierSSvp" class="token"><code>venueIdentifier</code></a> 
 
   </div>
 
@@ -79,7 +79,7 @@ Represents the venue info existing in a catalogs contains id and name.
 
 - <div>
 
-  ` `<span id="/s:7heresdk9VenueInfoC9venueNameSSvp"></span>` `<span id="//apple_ref/swift/Property/venueName" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-venueinfo#/s:7heresdk9VenueInfoC9venueNameSSvp" class="token"><code>venueName</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9VenueInfoC9venueNameSSvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-venueName" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-venueinfo#sdk-for-ios-navigate-s-7heresdk9VenueInfoC9venueNameSSvp" class="token"><code>venueName</code></a> 
 
   </div>
 
@@ -123,7 +123,7 @@ Represents the venue info existing in a catalogs contains id and name.
 
 - <div>
 
-  ` `<span id="/s:7heresdk9VenueInfoC7venueIds5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/venueId" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-venueinfo#/s:7heresdk9VenueInfoC7venueIds5Int32Vvp" class="token"><code>venueId</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9VenueInfoC7venueIds5Int32Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-venueId" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-venueinfo#sdk-for-ios-navigate-s-7heresdk9VenueInfoC7venueIds5Int32Vvp" class="token"><code>venueId</code></a> 
 
   </div>
 

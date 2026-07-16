@@ -13,7 +13,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk7AddressV"></span>` `<span id="//apple_ref/swift/Struct/Address" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk7AddressV" class="token"><code>Address</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk7AddressV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-Address" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk7AddressV" class="token"><code>Address</code></a> 
 
   </div>
 
@@ -33,9 +33,9 @@ slug: "sdk-for-ios-explore-search"
 
   Information about the address of a location.
 
-  Used in <a href="sdk-for-ios-explore-classes-place#/s:7heresdk5PlaceC7addressAA7AddressVvp">`Place.address`</a>.
+  Used in <a href="sdk-for-ios-explore-classes-place#sdk-for-ios-explore-s-7heresdk5PlaceC7addressAA7AddressVvp">`Place.address`</a>.
 
-  Note that while `OfflineSearchEngine.suggest` and `OfflineSearchEngine.suggestByText` set all available details, `SearchEngine.suggest` and `SearchEngine.suggestByText` set only <a href="sdk-for-ios-explore-structs-address#/s:7heresdk7AddressV11addressTextSSvp">`Address.addressText`</a>. Complete address details can be obtained by searching with <a href="sdk-for-ios-explore-structs-placeidquery">`PlaceIdQuery`</a>.
+  Note that while `OfflineSearchEngine.suggest` and `OfflineSearchEngine.suggestByText` set all available details, `SearchEngine.suggest` and `SearchEngine.suggestByText` set only <a href="sdk-for-ios-explore-structs-address#sdk-for-ios-explore-s-7heresdk7AddressV11addressTextSSvp">`Address.addressText`</a>. Complete address details can be obtained by searching with <a href="sdk-for-ios-explore-structs-placeidquery">`PlaceIdQuery`</a>.
 
   <a href="sdk-for-ios-explore-structs-address" class="slightly-smaller">See more</a>
 
@@ -63,7 +63,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk11AddressTypeO"></span>` `<span id="//apple_ref/swift/Enum/AddressType" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk11AddressTypeO" class="token"><code>AddressType</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11AddressTypeO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-AddressType" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk11AddressTypeO" class="token"><code>AddressType</code></a> 
 
   </div>
 
@@ -109,7 +109,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk12AddressQueryV"></span>` `<span id="//apple_ref/swift/Struct/AddressQuery" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk12AddressQueryV" class="token"><code>AddressQuery</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12AddressQueryV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-AddressQuery" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk12AddressQueryV" class="token"><code>AddressQuery</code></a> 
 
   </div>
 
@@ -127,7 +127,7 @@ slug: "sdk-for-ios-explore-search"
 
   <div class="abstract">
 
-  The options to specify an address query. A <a href="sdk-for-ios-explore-structs-addressquery#/s:7heresdk12AddressQueryV5querySSvp">`AddressQuery.query`</a> can consist of parts of an address or full addresses, optionally comma separated. `AddressQuery` should only be used to search for parts of the address, excluding the POI name. For example, “Invalidenstraße 116, Berlin, Germany” is appropriate, whereas “HERE, Invalidenstraße 116, Berlin, Germany” is not. To be able to include the POI name, use <a href="sdk-for-ios-explore-structs-textquery">`TextQuery`</a> instead. <a href="sdk-for-ios-explore-structs-searchoptions#/s:7heresdk13SearchOptionsV12languageCodeAA08LanguageE0OSgvp">`SearchOptions.languageCode`</a> specifies the language of the <a href="sdk-for-ios-explore-structs-addressquery#/s:7heresdk12AddressQueryV5querySSvp">`AddressQuery.query`</a> and determines the preferred language of the results.
+  The options to specify an address query. A <a href="sdk-for-ios-explore-structs-addressquery#sdk-for-ios-explore-s-7heresdk12AddressQueryV5querySSvp">`AddressQuery.query`</a> can consist of parts of an address or full addresses, optionally comma separated. `AddressQuery` should only be used to search for parts of the address, excluding the POI name. For example, “Invalidenstraße 116, Berlin, Germany” is appropriate, whereas “HERE, Invalidenstraße 116, Berlin, Germany” is not. To be able to include the POI name, use <a href="sdk-for-ios-explore-structs-textquery">`TextQuery`</a> instead. <a href="sdk-for-ios-explore-structs-searchoptions#sdk-for-ios-explore-s-7heresdk13SearchOptionsV12languageCodeAA08LanguageE0OSgvp">`SearchOptions.languageCode`</a> specifies the language of the <a href="sdk-for-ios-explore-structs-addressquery#sdk-for-ios-explore-s-7heresdk12AddressQueryV5querySSvp">`AddressQuery.query`</a> and determines the preferred language of the results.
 
   <a href="sdk-for-ios-explore-structs-addressquery" class="slightly-smaller">See more</a>
 
@@ -155,7 +155,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk8AreaTypeO"></span>` `<span id="//apple_ref/swift/Enum/AreaType" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk8AreaTypeO" class="token"><code>AreaType</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk8AreaTypeO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-AreaType" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk8AreaTypeO" class="token"><code>AreaType</code></a> 
 
   </div>
 
@@ -201,7 +201,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk15BusinessDetailsV"></span>` `<span id="//apple_ref/swift/Struct/BusinessDetails" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk15BusinessDetailsV" class="token"><code>BusinessDetails</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15BusinessDetailsV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-BusinessDetails" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk15BusinessDetailsV" class="token"><code>BusinessDetails</code></a> 
 
   </div>
 
@@ -247,7 +247,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk13CategoryQueryV"></span>` `<span id="//apple_ref/swift/Struct/CategoryQuery" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk13CategoryQueryV" class="token"><code>CategoryQuery</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13CategoryQueryV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-CategoryQuery" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk13CategoryQueryV" class="token"><code>CategoryQuery</code></a> 
 
   </div>
 
@@ -293,7 +293,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk7ContactV"></span>` `<span id="//apple_ref/swift/Struct/Contact" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk7ContactV" class="token"><code>Contact</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk7ContactV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-Contact" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk7ContactV" class="token"><code>Contact</code></a> 
 
   </div>
 
@@ -339,7 +339,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk9DateRangeV"></span>` `<span id="//apple_ref/swift/Struct/DateRange" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk9DateRangeV" class="token"><code>DateRange</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9DateRangeV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-DateRange" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk9DateRangeV" class="token"><code>DateRange</code></a> 
 
   </div>
 
@@ -385,7 +385,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk9DayOfWeekO"></span>` `<span id="//apple_ref/swift/Enum/DayOfWeek" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk9DayOfWeekO" class="token"><code>DayOfWeek</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9DayOfWeekO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-DayOfWeek" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk9DayOfWeekO" class="token"><code>DayOfWeek</code></a> 
 
   </div>
 
@@ -431,7 +431,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk7DetailsV"></span>` `<span id="//apple_ref/swift/Struct/Details" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk7DetailsV" class="token"><code>Details</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk7DetailsV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-Details" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk7DetailsV" class="token"><code>Details</code></a> 
 
   </div>
 
@@ -477,7 +477,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk12EmailAddressV"></span>` `<span id="//apple_ref/swift/Struct/EmailAddress" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk12EmailAddressV" class="token"><code>EmailAddress</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12EmailAddressV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-EmailAddress" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk12EmailAddressV" class="token"><code>EmailAddress</code></a> 
 
   </div>
 
@@ -523,7 +523,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk24EMobilityServiceProviderV"></span>` `<span id="//apple_ref/swift/Struct/EMobilityServiceProvider" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk24EMobilityServiceProviderV" class="token"><code>EMobilityServiceProvider</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk24EMobilityServiceProviderV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-EMobilityServiceProvider" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk24EMobilityServiceProviderV" class="token"><code>EMobilityServiceProvider</code></a> 
 
   </div>
 
@@ -569,7 +569,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk9EnergyMixV"></span>` `<span id="//apple_ref/swift/Struct/EnergyMix" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk9EnergyMixV" class="token"><code>EnergyMix</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9EnergyMixV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-EnergyMix" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk9EnergyMixV" class="token"><code>EnergyMix</code></a> 
 
   </div>
 
@@ -615,7 +615,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk12EnergySourceV"></span>` `<span id="//apple_ref/swift/Struct/EnergySource" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk12EnergySourceV" class="token"><code>EnergySource</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12EnergySourceV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-EnergySource" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk12EnergySourceV" class="token"><code>EnergySource</code></a> 
 
   </div>
 
@@ -661,7 +661,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk16EnergySourceTypeO"></span>` `<span id="//apple_ref/swift/Enum/EnergySourceType" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk16EnergySourceTypeO" class="token"><code>EnergySourceType</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16EnergySourceTypeO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-EnergySourceType" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk16EnergySourceTypeO" class="token"><code>EnergySourceType</code></a> 
 
   </div>
 
@@ -707,7 +707,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk19EnvironmentalImpactV"></span>` `<span id="//apple_ref/swift/Struct/EnvironmentalImpact" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk19EnvironmentalImpactV" class="token"><code>EnvironmentalImpact</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19EnvironmentalImpactV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-EnvironmentalImpact" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk19EnvironmentalImpactV" class="token"><code>EnvironmentalImpact</code></a> 
 
   </div>
 
@@ -753,7 +753,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk27EnvironmentalImpactCategoryO"></span>` `<span id="//apple_ref/swift/Enum/EnvironmentalImpactCategory" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk27EnvironmentalImpactCategoryO" class="token"><code>EnvironmentalImpactCategory</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk27EnvironmentalImpactCategoryO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-EnvironmentalImpactCategory" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk27EnvironmentalImpactCategoryO" class="token"><code>EnvironmentalImpactCategory</code></a> 
 
   </div>
 
@@ -799,7 +799,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk25EVAccessRestrictionReasonO"></span>` `<span id="//apple_ref/swift/Enum/EVAccessRestrictionReason" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk25EVAccessRestrictionReasonO" class="token"><code>EVAccessRestrictionReason</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk25EVAccessRestrictionReasonO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-EVAccessRestrictionReason" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk25EVAccessRestrictionReasonO" class="token"><code>EVAccessRestrictionReason</code></a> 
 
   </div>
 
@@ -845,7 +845,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk12EVAccessTypeO"></span>` `<span id="//apple_ref/swift/Enum/EVAccessType" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk12EVAccessTypeO" class="token"><code>EVAccessType</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12EVAccessTypeO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-EVAccessType" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk12EVAccessTypeO" class="token"><code>EVAccessType</code></a> 
 
   </div>
 
@@ -891,7 +891,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk19EVChargingConnectorV"></span>` `<span id="//apple_ref/swift/Struct/EVChargingConnector" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk19EVChargingConnectorV" class="token"><code>EVChargingConnector</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19EVChargingConnectorV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-EVChargingConnector" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk19EVChargingConnectorV" class="token"><code>EVChargingConnector</code></a> 
 
   </div>
 
@@ -937,7 +937,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk24EVChargingConnectorGroupV"></span>` `<span id="//apple_ref/swift/Struct/EVChargingConnectorGroup" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk24EVChargingConnectorGroupV" class="token"><code>EVChargingConnectorGroup</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk24EVChargingConnectorGroupV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-EVChargingConnectorGroup" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk24EVChargingConnectorGroupV" class="token"><code>EVChargingConnectorGroup</code></a> 
 
   </div>
 
@@ -983,7 +983,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk28EVChargingConnectorReferenceV"></span>` `<span id="//apple_ref/swift/Struct/EVChargingConnectorReference" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk28EVChargingConnectorReferenceV" class="token"><code>EVChargingConnectorReference</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk28EVChargingConnectorReferenceV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-EVChargingConnectorReference" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk28EVChargingConnectorReferenceV" class="token"><code>EVChargingConnectorReference</code></a> 
 
   </div>
 
@@ -1029,7 +1029,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk23EVChargingDurationRangeV"></span>` `<span id="//apple_ref/swift/Struct/EVChargingDurationRange" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk23EVChargingDurationRangeV" class="token"><code>EVChargingDurationRange</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk23EVChargingDurationRangeV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-EVChargingDurationRange" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk23EVChargingDurationRangeV" class="token"><code>EVChargingDurationRange</code></a> 
 
   </div>
 
@@ -1075,7 +1075,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk18EVChargingLocationC"></span>` `<span id="//apple_ref/swift/Class/EVChargingLocation" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk18EVChargingLocationC" class="token"><code>EVChargingLocation</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18EVChargingLocationC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-EVChargingLocation" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk18EVChargingLocationC" class="token"><code>EVChargingLocation</code></a> 
 
   </div>
 
@@ -1143,7 +1143,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk25EVChargingLocationFeatureO"></span>` `<span id="//apple_ref/swift/Enum/EVChargingLocationFeature" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk25EVChargingLocationFeatureO" class="token"><code>EVChargingLocationFeature</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk25EVChargingLocationFeatureO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-EVChargingLocationFeature" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk25EVChargingLocationFeatureO" class="token"><code>EVChargingLocationFeature</code></a> 
 
   </div>
 
@@ -1189,7 +1189,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk22EVChargingOpeningHoursV"></span>` `<span id="//apple_ref/swift/Struct/EVChargingOpeningHours" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk22EVChargingOpeningHoursV" class="token"><code>EVChargingOpeningHours</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk22EVChargingOpeningHoursV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-EVChargingOpeningHours" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk22EVChargingOpeningHoursV" class="token"><code>EVChargingOpeningHours</code></a> 
 
   </div>
 
@@ -1235,7 +1235,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk31EVChargingOpeningHoursExceptionV"></span>` `<span id="//apple_ref/swift/Struct/EVChargingOpeningHoursException" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk31EVChargingOpeningHoursExceptionV" class="token"><code>EVChargingOpeningHoursException</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk31EVChargingOpeningHoursExceptionV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-EVChargingOpeningHoursException" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk31EVChargingOpeningHoursExceptionV" class="token"><code>EVChargingOpeningHoursException</code></a> 
 
   </div>
 
@@ -1281,7 +1281,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk30EVChargingOpeningHoursScheduleV"></span>` `<span id="//apple_ref/swift/Struct/EVChargingOpeningHoursSchedule" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk30EVChargingOpeningHoursScheduleV" class="token"><code>EVChargingOpeningHoursSchedule</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk30EVChargingOpeningHoursScheduleV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-EVChargingOpeningHoursSchedule" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk30EVChargingOpeningHoursScheduleV" class="token"><code>EVChargingOpeningHoursSchedule</code></a> 
 
   </div>
 
@@ -1327,7 +1327,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk18EVChargingOperatorV"></span>` `<span id="//apple_ref/swift/Struct/EVChargingOperator" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk18EVChargingOperatorV" class="token"><code>EVChargingOperator</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18EVChargingOperatorV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-EVChargingOperator" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk18EVChargingOperatorV" class="token"><code>EVChargingOperator</code></a> 
 
   </div>
 
@@ -1373,7 +1373,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk21EVChargingPoolDetailsV"></span>` `<span id="//apple_ref/swift/Struct/EVChargingPoolDetails" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk21EVChargingPoolDetailsV" class="token"><code>EVChargingPoolDetails</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk21EVChargingPoolDetailsV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-EVChargingPoolDetails" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk21EVChargingPoolDetailsV" class="token"><code>EVChargingPoolDetails</code></a> 
 
   </div>
 
@@ -1419,7 +1419,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk16EVChargingTariffV"></span>` `<span id="//apple_ref/swift/Struct/EVChargingTariff" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk16EVChargingTariffV" class="token"><code>EVChargingTariff</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16EVChargingTariffV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-EVChargingTariff" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk16EVChargingTariffV" class="token"><code>EVChargingTariff</code></a> 
 
   </div>
 
@@ -1465,7 +1465,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk25EVChargingTariffDimensionO"></span>` `<span id="//apple_ref/swift/Enum/EVChargingTariffDimension" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk25EVChargingTariffDimensionO" class="token"><code>EVChargingTariffDimension</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk25EVChargingTariffDimensionO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-EVChargingTariffDimension" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk25EVChargingTariffDimensionO" class="token"><code>EVChargingTariffDimension</code></a> 
 
   </div>
 
@@ -1518,7 +1518,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk23EVChargingTariffElementV"></span>` `<span id="//apple_ref/swift/Struct/EVChargingTariffElement" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk23EVChargingTariffElementV" class="token"><code>EVChargingTariffElement</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk23EVChargingTariffElementV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-EVChargingTariffElement" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk23EVChargingTariffElementV" class="token"><code>EVChargingTariffElement</code></a> 
 
   </div>
 
@@ -1564,7 +1564,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk32EVChargingTariffElementConditionV"></span>` `<span id="//apple_ref/swift/Struct/EVChargingTariffElementCondition" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk32EVChargingTariffElementConditionV" class="token"><code>EVChargingTariffElementCondition</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk32EVChargingTariffElementConditionV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-EVChargingTariffElementCondition" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk32EVChargingTariffElementConditionV" class="token"><code>EVChargingTariffElementCondition</code></a> 
 
   </div>
 
@@ -1626,7 +1626,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk30EVChargingTariffPriceComponentV"></span>` `<span id="//apple_ref/swift/Struct/EVChargingTariffPriceComponent" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk30EVChargingTariffPriceComponentV" class="token"><code>EVChargingTariffPriceComponent</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk30EVChargingTariffPriceComponentV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-EVChargingTariffPriceComponent" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk30EVChargingTariffPriceComponentV" class="token"><code>EVChargingTariffPriceComponent</code></a> 
 
   </div>
 
@@ -1672,7 +1672,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk23EVChargingTariffRequestV"></span>` `<span id="//apple_ref/swift/Struct/EVChargingTariffRequest" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk23EVChargingTariffRequestV" class="token"><code>EVChargingTariffRequest</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk23EVChargingTariffRequestV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-EVChargingTariffRequest" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk23EVChargingTariffRequestV" class="token"><code>EVChargingTariffRequest</code></a> 
 
   </div>
 
@@ -1718,7 +1718,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk20EVChargingTariffTypeO"></span>` `<span id="//apple_ref/swift/Enum/EVChargingTariffType" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk20EVChargingTariffTypeO" class="token"><code>EVChargingTariffType</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk20EVChargingTariffTypeO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-EVChargingTariffType" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk20EVChargingTariffTypeO" class="token"><code>EVChargingTariffType</code></a> 
 
   </div>
 
@@ -1764,7 +1764,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk26EVChargingTruckRestrictionV"></span>` `<span id="//apple_ref/swift/Struct/EVChargingTruckRestriction" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk26EVChargingTruckRestrictionV" class="token"><code>EVChargingTruckRestriction</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk26EVChargingTruckRestrictionV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-EVChargingTruckRestriction" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk26EVChargingTruckRestrictionV" class="token"><code>EVChargingTruckRestriction</code></a> 
 
   </div>
 
@@ -1810,7 +1810,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk25EVChargingVehicleCategoryO"></span>` `<span id="//apple_ref/swift/Enum/EVChargingVehicleCategory" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk25EVChargingVehicleCategoryO" class="token"><code>EVChargingVehicleCategory</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk25EVChargingVehicleCategoryO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-EVChargingVehicleCategory" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk25EVChargingVehicleCategoryO" class="token"><code>EVChargingVehicleCategory</code></a> 
 
   </div>
 
@@ -1856,7 +1856,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk28EVCP3SearchCompletionHandlera"></span>` `<span id="//apple_ref/swift/Alias/EVCP3SearchCompletionHandler" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk28EVCP3SearchCompletionHandlera" class="token"><code>EVCP3SearchCompletionHandler</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk28EVCP3SearchCompletionHandlera"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Alias-EVCP3SearchCompletionHandler" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk28EVCP3SearchCompletionHandlera" class="token"><code>EVCP3SearchCompletionHandler</code></a> 
 
   </div>
 
@@ -1887,12 +1887,15 @@ slug: "sdk-for-ios-explore-search"
   Swift
 
   ``` highlight
-  public typealias EVCP3SearchCompletionHandler = ( _ error : EVSearchError ?, _ chargingLocations : [ EVChargingLocation ]?) -> Void
+  public typealias EVCP3SearchCompletionHandler = (_ error: EVSearchError?, _ chargingLocations: [EVChargingLocation]?) -> Void
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-evsearcherror">EVSearchError</a>
+  - <a href="sdk-for-ios-explore-classes-evcharginglocation">EVChargingLocation</a>
 
   </div>
 
@@ -1929,7 +1932,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk4EvseV"></span>` `<span id="//apple_ref/swift/Struct/Evse" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk4EvseV" class="token"><code>Evse</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk4EvseV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-Evse" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk4EvseV" class="token"><code>Evse</code></a> 
 
   </div>
 
@@ -1975,7 +1978,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk14EVSearchEngineC"></span>` `<span id="//apple_ref/swift/Class/EVSearchEngine" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk14EVSearchEngineC" class="token"><code>EVSearchEngine</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14EVSearchEngineC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-EVSearchEngine" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk14EVSearchEngineC" class="token"><code>EVSearchEngine</code></a> 
 
   </div>
 
@@ -2023,6 +2026,10 @@ slug: "sdk-for-ios-explore-search"
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-protocols-evsearchinterface">EVSearchInterface</a>
+
   </div>
 
   </div>
@@ -2031,7 +2038,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk13EVSearchErrorO"></span>` `<span id="//apple_ref/swift/Enum/EVSearchError" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk13EVSearchErrorO" class="token"><code>EVSearchError</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13EVSearchErrorO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-EVSearchError" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk13EVSearchErrorO" class="token"><code>EVSearchError</code></a> 
 
   </div>
 
@@ -2077,7 +2084,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk17EVSearchInterfaceP"></span>` `<span id="//apple_ref/swift/Protocol/EVSearchInterface" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk17EVSearchInterfaceP" class="token"><code>EVSearchInterface</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17EVSearchInterfaceP"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Protocol-EVSearchInterface" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk17EVSearchInterfaceP" class="token"><code>EVSearchInterface</code></a> 
 
   </div>
 
@@ -2123,7 +2130,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk15EVSearchOptionsV"></span>` `<span id="//apple_ref/swift/Struct/EVSearchOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk15EVSearchOptionsV" class="token"><code>EVSearchOptions</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15EVSearchOptionsV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-EVSearchOptions" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk15EVSearchOptionsV" class="token"><code>EVSearchOptions</code></a> 
 
   </div>
 
@@ -2169,7 +2176,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk13EVSEConnectorV"></span>` `<span id="//apple_ref/swift/Struct/EVSEConnector" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk13EVSEConnectorV" class="token"><code>EVSEConnector</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13EVSEConnectorV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-EVSEConnector" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk13EVSEConnectorV" class="token"><code>EVSEConnector</code></a> 
 
   </div>
 
@@ -2215,7 +2222,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk8EVSEInfoV"></span>` `<span id="//apple_ref/swift/Struct/EVSEInfo" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk8EVSEInfoV" class="token"><code>EVSEInfo</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk8EVSEInfoV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-EVSEInfo" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk8EVSEInfoV" class="token"><code>EVSEInfo</code></a> 
 
   </div>
 
@@ -2261,7 +2268,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk10EVSEStatusO"></span>` `<span id="//apple_ref/swift/Enum/EVSEStatus" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk10EVSEStatusO" class="token"><code>EVSEStatus</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10EVSEStatusO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-EVSEStatus" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk10EVSEStatusO" class="token"><code>EVSEStatus</code></a> 
 
   </div>
 
@@ -2307,7 +2314,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk12FacilityTypeO"></span>` `<span id="//apple_ref/swift/Enum/FacilityType" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk12FacilityTypeO" class="token"><code>FacilityType</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12FacilityTypeO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-FacilityType" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk12FacilityTypeO" class="token"><code>FacilityType</code></a> 
 
   </div>
 
@@ -2353,7 +2360,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk12FuelAdditiveV"></span>` `<span id="//apple_ref/swift/Struct/FuelAdditive" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk12FuelAdditiveV" class="token"><code>FuelAdditive</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12FuelAdditiveV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-FuelAdditive" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk12FuelAdditiveV" class="token"><code>FuelAdditive</code></a> 
 
   </div>
 
@@ -2401,7 +2408,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk16FuelAdditiveTypeO"></span>` `<span id="//apple_ref/swift/Enum/FuelAdditiveType" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk16FuelAdditiveTypeO" class="token"><code>FuelAdditiveType</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16FuelAdditiveTypeO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-FuelAdditiveType" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk16FuelAdditiveTypeO" class="token"><code>FuelAdditiveType</code></a> 
 
   </div>
 
@@ -2449,7 +2456,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk11FuelStationV"></span>` `<span id="//apple_ref/swift/Struct/FuelStation" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk11FuelStationV" class="token"><code>FuelStation</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11FuelStationV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-FuelStation" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk11FuelStationV" class="token"><code>FuelStation</code></a> 
 
   </div>
 
@@ -2469,7 +2476,7 @@ slug: "sdk-for-ios-explore-search"
 
   Contains information about a specific fuel station.
 
-  Use <a href="sdk-for-ios-explore-classes-placecategory#/s:7heresdk13PlaceCategoryC40businessAndServicesPetrolGasolineStationSSvpZ">`PlaceCategory.businessAndServicesPetrolGasolineStation`</a> to find fuel stations. In the <a href="sdk-for-ios-explore-structs-details">`Details`</a> of a <a href="sdk-for-ios-explore-classes-place">`Place`</a> result you can find the associated fuel station information, if any.
+  Use <a href="sdk-for-ios-explore-classes-placecategory#sdk-for-ios-explore-s-7heresdk13PlaceCategoryC40businessAndServicesPetrolGasolineStationSSvpZ">`PlaceCategory.businessAndServicesPetrolGasolineStation`</a> to find fuel stations. In the <a href="sdk-for-ios-explore-structs-details">`Details`</a> of a <a href="sdk-for-ios-explore-classes-place">`Place`</a> result you can find the associated fuel station information, if any.
 
   **Note:** This is a beta release of this feature, so there could be a few bugs and unexpected behaviors. Related APIs may change for new releases without a deprecation process.
 
@@ -2499,7 +2506,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk8FuelTypeO"></span>` `<span id="//apple_ref/swift/Enum/FuelType" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk8FuelTypeO" class="token"><code>FuelType</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk8FuelTypeO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-FuelType" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk8FuelTypeO" class="token"><code>FuelType</code></a> 
 
   </div>
 
@@ -2547,7 +2554,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk11GenericFuelV"></span>` `<span id="//apple_ref/swift/Struct/GenericFuel" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk11GenericFuelV" class="token"><code>GenericFuel</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11GenericFuelV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-GenericFuel" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk11GenericFuelV" class="token"><code>GenericFuel</code></a> 
 
   </div>
 
@@ -2595,7 +2602,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk8GeoPlaceV"></span>` `<span id="//apple_ref/swift/Struct/GeoPlace" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk8GeoPlaceV" class="token"><code>GeoPlace</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk8GeoPlaceV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-GeoPlace" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk8GeoPlaceV" class="token"><code>GeoPlace</code></a> 
 
   </div>
 
@@ -2641,7 +2648,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk13HighlightTypeO"></span>` `<span id="//apple_ref/swift/Enum/HighlightType" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk13HighlightTypeO" class="token"><code>HighlightType</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13HighlightTypeO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-HighlightType" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk13HighlightTypeO" class="token"><code>HighlightType</code></a> 
 
   </div>
 
@@ -2687,7 +2694,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk10IndexRangeC"></span>` `<span id="//apple_ref/swift/Class/IndexRange" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk10IndexRangeC" class="token"><code>IndexRange</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10IndexRangeC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-IndexRange" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk10IndexRangeC" class="token"><code>IndexRange</code></a> 
 
   </div>
 
@@ -2741,7 +2748,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk13LandlinePhoneV"></span>` `<span id="//apple_ref/swift/Struct/LandlinePhone" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk13LandlinePhoneV" class="token"><code>LandlinePhone</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13LandlinePhoneV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-LandlinePhone" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk13LandlinePhoneV" class="token"><code>LandlinePhone</code></a> 
 
   </div>
 
@@ -2787,7 +2794,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk15LocationDetailsV"></span>` `<span id="//apple_ref/swift/Struct/LocationDetails" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk15LocationDetailsV" class="token"><code>LocationDetails</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15LocationDetailsV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-LocationDetails" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk15LocationDetailsV" class="token"><code>LocationDetails</code></a> 
 
   </div>
 
@@ -2833,7 +2840,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk11MobilePhoneV"></span>` `<span id="//apple_ref/swift/Struct/MobilePhone" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk11MobilePhoneV" class="token"><code>MobilePhone</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11MobilePhoneV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-MobilePhone" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk11MobilePhoneV" class="token"><code>MobilePhone</code></a> 
 
   </div>
 
@@ -2879,7 +2886,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk8MyPlacesC"></span>` `<span id="//apple_ref/swift/Class/MyPlaces" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk8MyPlacesC" class="token"><code>MyPlaces</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk8MyPlacesC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-MyPlaces" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk8MyPlacesC" class="token"><code>MyPlaces</code></a> 
 
   </div>
 
@@ -2933,7 +2940,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk19OfflineSearchEngineC"></span>` `<span id="//apple_ref/swift/Class/OfflineSearchEngine" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk19OfflineSearchEngineC" class="token"><code>OfflineSearchEngine</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19OfflineSearchEngineC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-OfflineSearchEngine" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk19OfflineSearchEngineC" class="token"><code>OfflineSearchEngine</code></a> 
 
   </div>
 
@@ -2961,7 +2968,7 @@ slug: "sdk-for-ios-explore-search"
   - The implementation is different and the resources are limited, so the results can differ.
   - OfflineSearchEngine sometimes doesn’t return the requested number of results.
 
-  Note: You can search only within persistent map data (downloaded via MapDownloader) or existing cached data. However, cached data may be incomplete, which can result in searches returning partial or incomplete information. Therefore, it is recommended to use persistent map data. Make sure that at least <a href="sdk-for-ios-explore-structs-layerconfiguration-feature#/s:7heresdk18LayerConfigurationV7FeatureO13offlineSearchyA2EmF">`LayerConfiguration.Feature.offlineSearch`</a> is enabled. For EV rich attributes also enable <a href="sdk-for-ios-explore-structs-layerconfiguration-feature#/s:7heresdk18LayerConfigurationV7FeatureO2evyA2EmF">`LayerConfiguration.Feature.ev`</a>, for truck rich attributes also enable <a href="sdk-for-ios-explore-structs-layerconfiguration-feature#/s:7heresdk18LayerConfigurationV7FeatureO22truckServiceAttributesyA2EmF">`LayerConfiguration.Feature.truckServiceAttributes`</a>, for fuel station rich attributes also enable <a href="sdk-for-ios-explore-structs-layerconfiguration-feature#/s:7heresdk18LayerConfigurationV7FeatureO21fuelStationAttributesyA2EmF">`LayerConfiguration.Feature.fuelStationAttributes`</a> in <a href="sdk-for-ios-explore-structs-sdkoptions#/s:7heresdk10SDKOptionsV18layerConfigurationAA05LayerD0Vvp">`SDKOptions.layerConfiguration`</a>.
+  Note: You can search only within persistent map data (downloaded via MapDownloader) or existing cached data. However, cached data may be incomplete, which can result in searches returning partial or incomplete information. Therefore, it is recommended to use persistent map data. Make sure that at least <a href="sdk-for-ios-explore-structs-layerconfiguration-feature#sdk-for-ios-explore-s-7heresdk18LayerConfigurationV7FeatureO13offlineSearchyA2EmF">`LayerConfiguration.Feature.offlineSearch`</a> is enabled. For EV rich attributes also enable <a href="sdk-for-ios-explore-structs-layerconfiguration-feature#sdk-for-ios-explore-s-7heresdk18LayerConfigurationV7FeatureO2evyA2EmF">`LayerConfiguration.Feature.ev`</a>, for truck rich attributes also enable <a href="sdk-for-ios-explore-structs-layerconfiguration-feature#sdk-for-ios-explore-s-7heresdk18LayerConfigurationV7FeatureO22truckServiceAttributesyA2EmF">`LayerConfiguration.Feature.truckServiceAttributes`</a>, for fuel station rich attributes also enable <a href="sdk-for-ios-explore-structs-layerconfiguration-feature#sdk-for-ios-explore-s-7heresdk18LayerConfigurationV7FeatureO21fuelStationAttributesyA2EmF">`LayerConfiguration.Feature.fuelStationAttributes`</a> in <a href="sdk-for-ios-explore-structs-sdkoptions#sdk-for-ios-explore-s-7heresdk10SDKOptionsV18layerConfigurationAA05LayerD0Vvp">`SDKOptions.layerConfiguration`</a>.
 
   <a href="sdk-for-ios-explore-classes-offlinesearchengine" class="slightly-smaller">See more</a>
 
@@ -2989,6 +2996,10 @@ slug: "sdk-for-ios-explore-search"
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-protocols-searchinterface">SearchInterface</a>
+
   </div>
 
   </div>
@@ -2997,7 +3008,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk18OfflineSearchIndexC"></span>` `<span id="//apple_ref/swift/Class/OfflineSearchIndex" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk18OfflineSearchIndexC" class="token"><code>OfflineSearchIndex</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18OfflineSearchIndexC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-OfflineSearchIndex" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk18OfflineSearchIndexC" class="token"><code>OfflineSearchIndex</code></a> 
 
   </div>
 
@@ -3051,7 +3062,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk26OfflineSearchIndexListenerP"></span>` `<span id="//apple_ref/swift/Protocol/OfflineSearchIndexListener" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk26OfflineSearchIndexListenerP" class="token"><code>OfflineSearchIndexListener</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk26OfflineSearchIndexListenerP"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Protocol-OfflineSearchIndexListener" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk26OfflineSearchIndexListenerP" class="token"><code>OfflineSearchIndexListener</code></a> 
 
   </div>
 
@@ -3099,7 +3110,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk12OpeningHoursV"></span>` `<span id="//apple_ref/swift/Struct/OpeningHours" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk12OpeningHoursV" class="token"><code>OpeningHours</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12OpeningHoursV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-OpeningHours" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk12OpeningHoursV" class="token"><code>OpeningHours</code></a> 
 
   </div>
 
@@ -3145,7 +3156,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk11ParkingTypeO"></span>` `<span id="//apple_ref/swift/Enum/ParkingType" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk11ParkingTypeO" class="token"><code>ParkingType</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11ParkingTypeO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-ParkingType" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk11ParkingTypeO" class="token"><code>ParkingType</code></a> 
 
   </div>
 
@@ -3191,7 +3202,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk5PlaceC"></span>` `<span id="//apple_ref/swift/Class/Place" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk5PlaceC" class="token"><code>Place</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk5PlaceC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-Place" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk5PlaceC" class="token"><code>Place</code></a> 
 
   </div>
 
@@ -3245,7 +3256,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PlaceCategoryC"></span>` `<span id="//apple_ref/swift/Class/PlaceCategory" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk13PlaceCategoryC" class="token"><code>PlaceCategory</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13PlaceCategoryC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-PlaceCategory" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk13PlaceCategoryC" class="token"><code>PlaceCategory</code></a> 
 
   </div>
 
@@ -3299,7 +3310,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk10PlaceChainV"></span>` `<span id="//apple_ref/swift/Struct/PlaceChain" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk10PlaceChainV" class="token"><code>PlaceChain</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10PlaceChainV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-PlaceChain" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk10PlaceChainV" class="token"><code>PlaceChain</code></a> 
 
   </div>
 
@@ -3345,7 +3356,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk11PlaceFilterV"></span>` `<span id="//apple_ref/swift/Struct/PlaceFilter" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk11PlaceFilterV" class="token"><code>PlaceFilter</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11PlaceFilterV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-PlaceFilter" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk11PlaceFilterV" class="token"><code>PlaceFilter</code></a> 
 
   </div>
 
@@ -3391,7 +3402,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PlaceFoodTypeV"></span>` `<span id="//apple_ref/swift/Struct/PlaceFoodType" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk13PlaceFoodTypeV" class="token"><code>PlaceFoodType</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13PlaceFoodTypeV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-PlaceFoodType" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk13PlaceFoodTypeV" class="token"><code>PlaceFoodType</code></a> 
 
   </div>
 
@@ -3437,7 +3448,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk12PlaceIdQueryV"></span>` `<span id="//apple_ref/swift/Struct/PlaceIdQuery" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk12PlaceIdQueryV" class="token"><code>PlaceIdQuery</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12PlaceIdQueryV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-PlaceIdQuery" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk12PlaceIdQueryV" class="token"><code>PlaceIdQuery</code></a> 
 
   </div>
 
@@ -3483,7 +3494,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk30PlaceIdSearchCompletionHandlera"></span>` `<span id="//apple_ref/swift/Alias/PlaceIdSearchCompletionHandler" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk30PlaceIdSearchCompletionHandlera" class="token"><code>PlaceIdSearchCompletionHandler</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk30PlaceIdSearchCompletionHandlera"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Alias-PlaceIdSearchCompletionHandler" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk30PlaceIdSearchCompletionHandlera" class="token"><code>PlaceIdSearchCompletionHandler</code></a> 
 
   </div>
 
@@ -3514,12 +3525,15 @@ slug: "sdk-for-ios-explore-search"
   Swift
 
   ``` highlight
-  public typealias PlaceIdSearchCompletionHandler = ( _ searchError : SearchError ?, _ place : Place ?) -> Void
+  public typealias PlaceIdSearchCompletionHandler = (_ searchError: SearchError?, _ place: Place?) -> Void
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-searcherror">SearchError</a>
+  - <a href="sdk-for-ios-explore-classes-place">Place</a>
 
   </div>
 
@@ -3556,7 +3570,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk38PlaceIdSearchExtendedCompletionHandlera"></span>` `<span id="//apple_ref/swift/Alias/PlaceIdSearchExtendedCompletionHandler" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk38PlaceIdSearchExtendedCompletionHandlera" class="token"><code>PlaceIdSearchExtendedCompletionHandler</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk38PlaceIdSearchExtendedCompletionHandlera"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Alias-PlaceIdSearchExtendedCompletionHandler" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk38PlaceIdSearchExtendedCompletionHandlera" class="token"><code>PlaceIdSearchExtendedCompletionHandler</code></a> 
 
   </div>
 
@@ -3587,12 +3601,16 @@ slug: "sdk-for-ios-explore-search"
   Swift
 
   ``` highlight
-  public typealias PlaceIdSearchExtendedCompletionHandler = ( _ searchError : SearchError ?, _ place : Place ?, _ responseDetails : ResponseDetails ?) -> Void
+  public typealias PlaceIdSearchExtendedCompletionHandler = (_ searchError: SearchError?, _ place: Place?, _ responseDetails: ResponseDetails?) -> Void
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-searcherror">SearchError</a>
+  - <a href="sdk-for-ios-explore-classes-place">Place</a>
+  - <a href="sdk-for-ios-explore-structs-responsedetails">ResponseDetails</a>
 
   </div>
 
@@ -3635,7 +3653,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk23PlaceSerializationErrorO"></span>` `<span id="//apple_ref/swift/Enum/PlaceSerializationError" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk23PlaceSerializationErrorO" class="token"><code>PlaceSerializationError</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk23PlaceSerializationErrorO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-PlaceSerializationError" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk23PlaceSerializationErrorO" class="token"><code>PlaceSerializationError</code></a> 
 
   </div>
 
@@ -3685,7 +3703,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk27PlaceSerializationExceptiona"></span>` `<span id="//apple_ref/swift/Alias/PlaceSerializationException" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk27PlaceSerializationExceptiona" class="token"><code>PlaceSerializationException</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk27PlaceSerializationExceptiona"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Alias-PlaceSerializationException" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk27PlaceSerializationExceptiona" class="token"><code>PlaceSerializationException</code></a> 
 
   </div>
 
@@ -3721,6 +3739,10 @@ slug: "sdk-for-ios-explore-search"
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-placeserializationerror">PlaceSerializationError</a>
+
   </div>
 
   </div>
@@ -3729,7 +3751,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk9PlaceTypeO"></span>` `<span id="//apple_ref/swift/Enum/PlaceType" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk9PlaceTypeO" class="token"><code>PlaceType</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9PlaceTypeO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-PlaceType" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk9PlaceTypeO" class="token"><code>PlaceType</code></a> 
 
   </div>
 
@@ -3775,7 +3797,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk17POIPaymentDetailsV"></span>` `<span id="//apple_ref/swift/Struct/POIPaymentDetails" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk17POIPaymentDetailsV" class="token"><code>POIPaymentDetails</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17POIPaymentDetailsV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-POIPaymentDetails" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk17POIPaymentDetailsV" class="token"><code>POIPaymentDetails</code></a> 
 
   </div>
 
@@ -3823,7 +3845,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk16POIPaymentMethodV"></span>` `<span id="//apple_ref/swift/Struct/POIPaymentMethod" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk16POIPaymentMethodV" class="token"><code>POIPaymentMethod</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16POIPaymentMethodV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-POIPaymentMethod" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk16POIPaymentMethodV" class="token"><code>POIPaymentMethod</code></a> 
 
   </div>
 
@@ -3873,7 +3895,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk15ResponseDetailsV"></span>` `<span id="//apple_ref/swift/Struct/ResponseDetails" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk15ResponseDetailsV" class="token"><code>ResponseDetails</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15ResponseDetailsV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-ResponseDetails" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk15ResponseDetailsV" class="token"><code>ResponseDetails</code></a> 
 
   </div>
 
@@ -3919,7 +3941,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk15ScheduleDetailsV"></span>` `<span id="//apple_ref/swift/Struct/ScheduleDetails" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk15ScheduleDetailsV" class="token"><code>ScheduleDetails</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15ScheduleDetailsV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-ScheduleDetails" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk15ScheduleDetailsV" class="token"><code>ScheduleDetails</code></a> 
 
   </div>
 
@@ -3965,7 +3987,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk23SearchCompletionHandlera"></span>` `<span id="//apple_ref/swift/Alias/SearchCompletionHandler" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk23SearchCompletionHandlera" class="token"><code>SearchCompletionHandler</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk23SearchCompletionHandlera"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Alias-SearchCompletionHandler" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk23SearchCompletionHandlera" class="token"><code>SearchCompletionHandler</code></a> 
 
   </div>
 
@@ -3996,12 +4018,15 @@ slug: "sdk-for-ios-explore-search"
   Swift
 
   ``` highlight
-  public typealias SearchCompletionHandler = ( _ searchError : SearchError ?, _ places : [ Place ]?) -> Void
+  public typealias SearchCompletionHandler = (_ searchError: SearchError?, _ places: [Place]?) -> Void
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-searcherror">SearchError</a>
+  - <a href="sdk-for-ios-explore-classes-place">Place</a>
 
   </div>
 
@@ -4038,7 +4063,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk31SearchExtendedCompletionHandlera"></span>` `<span id="//apple_ref/swift/Alias/SearchExtendedCompletionHandler" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk31SearchExtendedCompletionHandlera" class="token"><code>SearchExtendedCompletionHandler</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk31SearchExtendedCompletionHandlera"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Alias-SearchExtendedCompletionHandler" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk31SearchExtendedCompletionHandlera" class="token"><code>SearchExtendedCompletionHandler</code></a> 
 
   </div>
 
@@ -4069,12 +4094,16 @@ slug: "sdk-for-ios-explore-search"
   Swift
 
   ``` highlight
-  public typealias SearchExtendedCompletionHandler = ( _ searchError : SearchError ?, _ places : [ Place ]?, _ responseDetails : ResponseDetails ?) -> Void
+  public typealias SearchExtendedCompletionHandler = (_ searchError: SearchError?, _ places: [Place]?, _ responseDetails: ResponseDetails?) -> Void
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-searcherror">SearchError</a>
+  - <a href="sdk-for-ios-explore-classes-place">Place</a>
+  - <a href="sdk-for-ios-explore-structs-responsedetails">ResponseDetails</a>
 
   </div>
 
@@ -4117,7 +4146,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk12SearchEngineC"></span>` `<span id="//apple_ref/swift/Class/SearchEngine" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk12SearchEngineC" class="token"><code>SearchEngine</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12SearchEngineC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-SearchEngine" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk12SearchEngineC" class="token"><code>SearchEngine</code></a> 
 
   </div>
 
@@ -4141,7 +4170,7 @@ slug: "sdk-for-ios-explore-search"
 
   The SearchEngine API requires an online connection to execute the requests.
 
-  **Note:** All methods are provided in two flavors. One uses a <a href="sdk-for-ios-explore-search#/s:7heresdk23SearchCompletionHandlera">`SearchCompletionHandler`</a> and the other uses a <a href="sdk-for-ios-explore-search#/s:7heresdk31SearchExtendedCompletionHandlera">`SearchExtendedCompletionHandler`</a>: The later adds a <a href="sdk-for-ios-explore-structs-responsedetails">`ResponseDetails`</a> result type that provides the `requestId` of a search request and a `correlationId` to identify multiple, related queries. This may be useful for debug purposes.
+  **Note:** All methods are provided in two flavors. One uses a <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk23SearchCompletionHandlera">`SearchCompletionHandler`</a> and the other uses a <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk31SearchExtendedCompletionHandlera">`SearchExtendedCompletionHandler`</a>: The later adds a <a href="sdk-for-ios-explore-structs-responsedetails">`ResponseDetails`</a> result type that provides the `requestId` of a search request and a `correlationId` to identify multiple, related queries. This may be useful for debug purposes.
 
   <a href="sdk-for-ios-explore-classes-searchengine" class="slightly-smaller">See more</a>
 
@@ -4169,6 +4198,10 @@ slug: "sdk-for-ios-explore-search"
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-protocols-searchinterface">SearchInterface</a>
+
   </div>
 
   </div>
@@ -4177,7 +4210,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk11SearchErrorO"></span>` `<span id="//apple_ref/swift/Enum/SearchError" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk11SearchErrorO" class="token"><code>SearchError</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11SearchErrorO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-SearchError" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk11SearchErrorO" class="token"><code>SearchError</code></a> 
 
   </div>
 
@@ -4223,7 +4256,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk15SearchInterfaceP"></span>` `<span id="//apple_ref/swift/Protocol/SearchInterface" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk15SearchInterfaceP" class="token"><code>SearchInterface</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15SearchInterfaceP"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Protocol-SearchInterface" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk15SearchInterfaceP" class="token"><code>SearchInterface</code></a> 
 
   </div>
 
@@ -4269,7 +4302,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk13SearchOptionsV"></span>` `<span id="//apple_ref/swift/Struct/SearchOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk13SearchOptionsV" class="token"><code>SearchOptions</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13SearchOptionsV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-SearchOptions" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk13SearchOptionsV" class="token"><code>SearchOptions</code></a> 
 
   </div>
 
@@ -4315,7 +4348,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk15StructuredQueryV"></span>` `<span id="//apple_ref/swift/Struct/StructuredQuery" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk15StructuredQueryV" class="token"><code>StructuredQuery</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15StructuredQueryV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-StructuredQuery" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk15StructuredQueryV" class="token"><code>StructuredQuery</code></a> 
 
   </div>
 
@@ -4363,7 +4396,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk10SuggestionC"></span>` `<span id="//apple_ref/swift/Class/Suggestion" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk10SuggestionC" class="token"><code>Suggestion</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10SuggestionC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-Suggestion" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk10SuggestionC" class="token"><code>Suggestion</code></a> 
 
   </div>
 
@@ -4381,7 +4414,7 @@ slug: "sdk-for-ios-explore-search"
 
   <div class="abstract">
 
-  Suggestion is meant to provide relevant suggestions to partial queries, like “restaur”, “starbu”, “eiffel”. Represents a relevant response to user queries. Suggestions (please check <a href="sdk-for-ios-explore-enums-suggestiontype">`SuggestionType`</a>) are either: Place: <a href="sdk-for-ios-explore-enums-suggestiontype#/s:7heresdk14SuggestionTypeO5placeyA2CmF">`SuggestionType.place`</a> Query: <a href="sdk-for-ios-explore-enums-suggestiontype#/s:7heresdk14SuggestionTypeO5chainyA2CmF">`SuggestionType.chain`</a> or <a href="sdk-for-ios-explore-enums-suggestiontype#/s:7heresdk14SuggestionTypeO8categoryyA2CmF">`SuggestionType.category`</a>
+  Suggestion is meant to provide relevant suggestions to partial queries, like “restaur”, “starbu”, “eiffel”. Represents a relevant response to user queries. Suggestions (please check <a href="sdk-for-ios-explore-enums-suggestiontype">`SuggestionType`</a>) are either: Place: <a href="sdk-for-ios-explore-enums-suggestiontype#sdk-for-ios-explore-s-7heresdk14SuggestionTypeO5placeyA2CmF">`SuggestionType.place`</a> Query: <a href="sdk-for-ios-explore-enums-suggestiontype#sdk-for-ios-explore-s-7heresdk14SuggestionTypeO5chainyA2CmF">`SuggestionType.chain`</a> or <a href="sdk-for-ios-explore-enums-suggestiontype#sdk-for-ios-explore-s-7heresdk14SuggestionTypeO8categoryyA2CmF">`SuggestionType.category`</a>
 
   With “Place” you get data for a concrete place in the world. With “Query” something to follow-up, a way to perform more focused search.
 
@@ -4419,7 +4452,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk14SuggestionTypeO"></span>` `<span id="//apple_ref/swift/Enum/SuggestionType" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk14SuggestionTypeO" class="token"><code>SuggestionType</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14SuggestionTypeO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-SuggestionType" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk14SuggestionTypeO" class="token"><code>SuggestionType</code></a> 
 
   </div>
 
@@ -4465,7 +4498,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk24SuggestCompletionHandlera"></span>` `<span id="//apple_ref/swift/Alias/SuggestCompletionHandler" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk24SuggestCompletionHandlera" class="token"><code>SuggestCompletionHandler</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk24SuggestCompletionHandlera"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Alias-SuggestCompletionHandler" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk24SuggestCompletionHandlera" class="token"><code>SuggestCompletionHandler</code></a> 
 
   </div>
 
@@ -4496,12 +4529,15 @@ slug: "sdk-for-ios-explore-search"
   Swift
 
   ``` highlight
-  public typealias SuggestCompletionHandler = ( _ searchError : SearchError ?, _ suggestions : [ Suggestion ]?) -> Void
+  public typealias SuggestCompletionHandler = (_ searchError: SearchError?, _ suggestions: [Suggestion]?) -> Void
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-searcherror">SearchError</a>
+  - <a href="sdk-for-ios-explore-classes-suggestion">Suggestion</a>
 
   </div>
 
@@ -4538,7 +4574,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk32SuggestExtendedCompletionHandlera"></span>` `<span id="//apple_ref/swift/Alias/SuggestExtendedCompletionHandler" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk32SuggestExtendedCompletionHandlera" class="token"><code>SuggestExtendedCompletionHandler</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk32SuggestExtendedCompletionHandlera"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Alias-SuggestExtendedCompletionHandler" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk32SuggestExtendedCompletionHandlera" class="token"><code>SuggestExtendedCompletionHandler</code></a> 
 
   </div>
 
@@ -4569,12 +4605,16 @@ slug: "sdk-for-ios-explore-search"
   Swift
 
   ``` highlight
-  public typealias SuggestExtendedCompletionHandler = ( _ searchError : SearchError ?, _ suggestions : [ Suggestion ]?, _ responseDetails : ResponseDetails ?) -> Void
+  public typealias SuggestExtendedCompletionHandler = (_ searchError: SearchError?, _ suggestions: [Suggestion]?, _ responseDetails: ResponseDetails?) -> Void
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-searcherror">SearchError</a>
+  - <a href="sdk-for-ios-explore-classes-suggestion">Suggestion</a>
+  - <a href="sdk-for-ios-explore-structs-responsedetails">ResponseDetails</a>
 
   </div>
 
@@ -4617,7 +4657,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk17SupplierReferenceV"></span>` `<span id="//apple_ref/swift/Struct/SupplierReference" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk17SupplierReferenceV" class="token"><code>SupplierReference</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17SupplierReferenceV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-SupplierReference" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk17SupplierReferenceV" class="token"><code>SupplierReference</code></a> 
 
   </div>
 
@@ -4663,7 +4703,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk9TextQueryV"></span>` `<span id="//apple_ref/swift/Struct/TextQuery" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk9TextQueryV" class="token"><code>TextQuery</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9TextQueryV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-TextQuery" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk9TextQueryV" class="token"><code>TextQuery</code></a> 
 
   </div>
 
@@ -4709,7 +4749,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk14TimeOfDayRangeV"></span>` `<span id="//apple_ref/swift/Struct/TimeOfDayRange" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk14TimeOfDayRangeV" class="token"><code>TimeOfDayRange</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14TimeOfDayRangeV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-TimeOfDayRange" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk14TimeOfDayRangeV" class="token"><code>TimeOfDayRange</code></a> 
 
   </div>
 
@@ -4727,7 +4767,7 @@ slug: "sdk-for-ios-explore-search"
 
   <div class="abstract">
 
-  Time period when the tariff element is valid, in local time. The time period wraps around to the next day, when end time of the period <a href="sdk-for-ios-explore-structs-timeofdayrange#/s:7heresdk14TimeOfDayRangeV2toSSvp">`TimeOfDayRange.to`</a> is smaller than the beginning <a href="sdk-for-ios-explore-structs-timeofdayrange#/s:7heresdk14TimeOfDayRangeV4fromSSvp">`TimeOfDayRange.from`</a>. **Note:** This is a beta release of this feature, so there could be a few bugs and unexpected behaviors. Related APIs may change for new releases without a deprecation process.
+  Time period when the tariff element is valid, in local time. The time period wraps around to the next day, when end time of the period <a href="sdk-for-ios-explore-structs-timeofdayrange#sdk-for-ios-explore-s-7heresdk14TimeOfDayRangeV2toSSvp">`TimeOfDayRange.to`</a> is smaller than the beginning <a href="sdk-for-ios-explore-structs-timeofdayrange#sdk-for-ios-explore-s-7heresdk14TimeOfDayRangeV4fromSSvp">`TimeOfDayRange.from`</a>. **Note:** This is a beta release of this feature, so there could be a few bugs and unexpected behaviors. Related APIs may change for new releases without a deprecation process.
 
   <a href="sdk-for-ios-explore-structs-timeofdayrange" class="slightly-smaller">See more</a>
 
@@ -4755,7 +4795,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk14TruckAmenitiesV"></span>` `<span id="//apple_ref/swift/Struct/TruckAmenities" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk14TruckAmenitiesV" class="token"><code>TruckAmenities</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14TruckAmenitiesV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-TruckAmenities" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk14TruckAmenitiesV" class="token"><code>TruckAmenities</code></a> 
 
   </div>
 
@@ -4801,7 +4841,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk9TruckFuelV"></span>` `<span id="//apple_ref/swift/Struct/TruckFuel" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk9TruckFuelV" class="token"><code>TruckFuel</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9TruckFuelV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-TruckFuel" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk9TruckFuelV" class="token"><code>TruckFuel</code></a> 
 
   </div>
 
@@ -4847,7 +4887,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk10WebDetailsV"></span>` `<span id="//apple_ref/swift/Struct/WebDetails" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk10WebDetailsV" class="token"><code>WebDetails</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10WebDetailsV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-WebDetails" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk10WebDetailsV" class="token"><code>WebDetails</code></a> 
 
   </div>
 
@@ -4893,7 +4933,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk12WebEditorialV"></span>` `<span id="//apple_ref/swift/Struct/WebEditorial" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk12WebEditorialV" class="token"><code>WebEditorial</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12WebEditorialV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-WebEditorial" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk12WebEditorialV" class="token"><code>WebEditorial</code></a> 
 
   </div>
 
@@ -4939,7 +4979,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk8WebImageV"></span>` `<span id="//apple_ref/swift/Struct/WebImage" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk8WebImageV" class="token"><code>WebImage</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk8WebImageV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-WebImage" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk8WebImageV" class="token"><code>WebImage</code></a> 
 
   </div>
 
@@ -4985,7 +5025,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk9WebRatingV"></span>` `<span id="//apple_ref/swift/Struct/WebRating" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk9WebRatingV" class="token"><code>WebRating</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9WebRatingV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-WebRating" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk9WebRatingV" class="token"><code>WebRating</code></a> 
 
   </div>
 
@@ -5031,7 +5071,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk14WebsiteAddressV"></span>` `<span id="//apple_ref/swift/Struct/WebsiteAddress" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk14WebsiteAddressV" class="token"><code>WebsiteAddress</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14WebsiteAddressV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-WebsiteAddress" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk14WebsiteAddressV" class="token"><code>WebsiteAddress</code></a> 
 
   </div>
 
@@ -5077,7 +5117,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk9WebSourceV"></span>` `<span id="//apple_ref/swift/Struct/WebSource" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk9WebSourceV" class="token"><code>WebSource</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9WebSourceV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-WebSource" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk9WebSourceV" class="token"><code>WebSource</code></a> 
 
   </div>
 
@@ -5123,7 +5163,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk15W3WSearchEngineC"></span>` `<span id="//apple_ref/swift/Class/W3WSearchEngine" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk15W3WSearchEngineC" class="token"><code>W3WSearchEngine</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15W3WSearchEngineC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-W3WSearchEngine" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk15W3WSearchEngineC" class="token"><code>W3WSearchEngine</code></a> 
 
   </div>
 
@@ -5181,7 +5221,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk14W3WSearchErrorO"></span>` `<span id="//apple_ref/swift/Enum/W3WSearchError" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk14W3WSearchErrorO" class="token"><code>W3WSearchError</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14W3WSearchErrorO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-W3WSearchError" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk14W3WSearchErrorO" class="token"><code>W3WSearchError</code></a> 
 
   </div>
 
@@ -5227,7 +5267,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk9W3WSquareV"></span>` `<span id="//apple_ref/swift/Struct/W3WSquare" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk9W3WSquareV" class="token"><code>W3WSquare</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9W3WSquareV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-W3WSquare" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk9W3WSquareV" class="token"><code>W3WSquare</code></a> 
 
   </div>
 
@@ -5275,7 +5315,7 @@ slug: "sdk-for-ios-explore-search"
 
 - <div>
 
-  ` `<span id="/s:7heresdk26W3WSearchCompletionHandlera"></span>` `<span id="//apple_ref/swift/Alias/W3WSearchCompletionHandler" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-search#/s:7heresdk26W3WSearchCompletionHandlera" class="token"><code>W3WSearchCompletionHandler</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk26W3WSearchCompletionHandlera"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Alias-W3WSearchCompletionHandler" class="dashAnchor"></span> <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk26W3WSearchCompletionHandlera" class="token"><code>W3WSearchCompletionHandler</code></a> 
 
   </div>
 
@@ -5306,12 +5346,15 @@ slug: "sdk-for-ios-explore-search"
   Swift
 
   ``` highlight
-  public typealias W3WSearchCompletionHandler = ( _ searchError : W3WSearchError ?, _ square : W3WSquare ?) -> Void
+  public typealias W3WSearchCompletionHandler = (_ searchError: W3WSearchError?, _ square: W3WSquare?) -> Void
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-w3wsearcherror">W3WSearchError</a>
+  - <a href="sdk-for-ios-explore-structs-w3wsquare">W3WSquare</a>
 
   </div>
 

@@ -27,7 +27,7 @@ Road attributes, including usage and physical characteristics. Note that a road 
 
 - <div>
 
-  ` `<span id="/s:7heresdk14RoadAttributesV06isDirtB0Sbvp"></span>` `<span id="//apple_ref/swift/Property/isDirtRoad" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-roadattributes#/s:7heresdk14RoadAttributesV06isDirtB0Sbvp" class="token"><code>isDirtRoad</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14RoadAttributesV06isDirtB0Sbvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-isDirtRoad" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-roadattributes#sdk-for-ios-explore-s-7heresdk14RoadAttributesV06isDirtB0Sbvp" class="token"><code>isDirtRoad</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Road attributes, including usage and physical characteristics. Note that a road 
 
 - <div>
 
-  ` `<span id="/s:7heresdk14RoadAttributesV8isTunnelSbvp"></span>` `<span id="//apple_ref/swift/Property/isTunnel" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-roadattributes#/s:7heresdk14RoadAttributesV8isTunnelSbvp" class="token"><code>isTunnel</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14RoadAttributesV8isTunnelSbvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-isTunnel" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-roadattributes#sdk-for-ios-explore-s-7heresdk14RoadAttributesV8isTunnelSbvp" class="token"><code>isTunnel</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Road attributes, including usage and physical characteristics. Note that a road 
 
 - <div>
 
-  ` `<span id="/s:7heresdk14RoadAttributesV8isBridgeSbvp"></span>` `<span id="//apple_ref/swift/Property/isBridge" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-roadattributes#/s:7heresdk14RoadAttributesV8isBridgeSbvp" class="token"><code>isBridge</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14RoadAttributesV8isBridgeSbvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-isBridge" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-roadattributes#sdk-for-ios-explore-s-7heresdk14RoadAttributesV8isBridgeSbvp" class="token"><code>isBridge</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Road attributes, including usage and physical characteristics. Note that a road 
 
 - <div>
 
-  ` `<span id="/s:7heresdk14RoadAttributesV6isRampSbvp"></span>` `<span id="//apple_ref/swift/Property/isRamp" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-roadattributes#/s:7heresdk14RoadAttributesV6isRampSbvp" class="token"><code>isRamp</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14RoadAttributesV6isRampSbvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-isRamp" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-roadattributes#sdk-for-ios-explore-s-7heresdk14RoadAttributesV6isRampSbvp" class="token"><code>isRamp</code></a> 
 
   </div>
 
@@ -203,7 +203,7 @@ Road attributes, including usage and physical characteristics. Note that a road 
 
 - <div>
 
-  ` `<span id="/s:7heresdk14RoadAttributesV18isControlledAccessSbvp"></span>` `<span id="//apple_ref/swift/Property/isControlledAccess" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-roadattributes#/s:7heresdk14RoadAttributesV18isControlledAccessSbvp" class="token"><code>isControlledAccess</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14RoadAttributesV18isControlledAccessSbvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-isControlledAccess" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-roadattributes#sdk-for-ios-explore-s-7heresdk14RoadAttributesV18isControlledAccessSbvp" class="token"><code>isControlledAccess</code></a> 
 
   </div>
 
@@ -247,7 +247,7 @@ Road attributes, including usage and physical characteristics. Note that a road 
 
 - <div>
 
-  ` `<span id="/s:7heresdk14RoadAttributesV9isPrivateSbvp"></span>` `<span id="//apple_ref/swift/Property/isPrivate" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-roadattributes#/s:7heresdk14RoadAttributesV9isPrivateSbvp" class="token"><code>isPrivate</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14RoadAttributesV9isPrivateSbvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-isPrivate" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-roadattributes#sdk-for-ios-explore-s-7heresdk14RoadAttributesV9isPrivateSbvp" class="token"><code>isPrivate</code></a> 
 
   </div>
 
@@ -291,7 +291,7 @@ Road attributes, including usage and physical characteristics. Note that a road 
 
 - <div>
 
-  ` `<span id="/s:7heresdk14RoadAttributesV11isNoThroughSbvp"></span>` `<span id="//apple_ref/swift/Property/isNoThrough" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-roadattributes#/s:7heresdk14RoadAttributesV11isNoThroughSbvp" class="token"><code>isNoThrough</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14RoadAttributesV11isNoThroughSbvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-isNoThrough" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-roadattributes#sdk-for-ios-explore-s-7heresdk14RoadAttributesV11isNoThroughSbvp" class="token"><code>isNoThrough</code></a> 
 
   </div>
 
@@ -335,7 +335,7 @@ Road attributes, including usage and physical characteristics. Note that a road 
 
 - <div>
 
-  ` `<span id="/s:7heresdk14RoadAttributesV9isTollwaySbvp"></span>` `<span id="//apple_ref/swift/Property/isTollway" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-roadattributes#/s:7heresdk14RoadAttributesV9isTollwaySbvp" class="token"><code>isTollway</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14RoadAttributesV9isTollwaySbvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-isTollway" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-roadattributes#sdk-for-ios-explore-s-7heresdk14RoadAttributesV9isTollwaySbvp" class="token"><code>isTollway</code></a> 
 
   </div>
 
@@ -379,7 +379,7 @@ Road attributes, including usage and physical characteristics. Note that a road 
 
 - <div>
 
-  ` `<span id="/s:7heresdk14RoadAttributesV09isDividedB0Sbvp"></span>` `<span id="//apple_ref/swift/Property/isDividedRoad" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-roadattributes#/s:7heresdk14RoadAttributesV09isDividedB0Sbvp" class="token"><code>isDividedRoad</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14RoadAttributesV09isDividedB0Sbvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-isDividedRoad" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-roadattributes#sdk-for-ios-explore-s-7heresdk14RoadAttributesV09isDividedB0Sbvp" class="token"><code>isDividedRoad</code></a> 
 
   </div>
 
@@ -423,7 +423,7 @@ Road attributes, including usage and physical characteristics. Note that a road 
 
 - <div>
 
-  ` `<span id="/s:7heresdk14RoadAttributesV18isRightDrivingSideSbvp"></span>` `<span id="//apple_ref/swift/Property/isRightDrivingSide" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-roadattributes#/s:7heresdk14RoadAttributesV18isRightDrivingSideSbvp" class="token"><code>isRightDrivingSide</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14RoadAttributesV18isRightDrivingSideSbvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-isRightDrivingSide" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-roadattributes#sdk-for-ios-explore-s-7heresdk14RoadAttributesV18isRightDrivingSideSbvp" class="token"><code>isRightDrivingSide</code></a> 
 
   </div>
 
@@ -467,7 +467,7 @@ Road attributes, including usage and physical characteristics. Note that a road 
 
 - <div>
 
-  ` `<span id="/s:7heresdk14RoadAttributesV12isRoundaboutSbvp"></span>` `<span id="//apple_ref/swift/Property/isRoundabout" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-roadattributes#/s:7heresdk14RoadAttributesV12isRoundaboutSbvp" class="token"><code>isRoundabout</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14RoadAttributesV12isRoundaboutSbvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-isRoundabout" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-roadattributes#sdk-for-ios-explore-s-7heresdk14RoadAttributesV12isRoundaboutSbvp" class="token"><code>isRoundabout</code></a> 
 
   </div>
 
@@ -511,7 +511,7 @@ Road attributes, including usage and physical characteristics. Note that a road 
 
 - <div>
 
-  ` `<span id="/s:7heresdk14RoadAttributesV13isBuiltUpAreaSbvp"></span>` `<span id="//apple_ref/swift/Property/isBuiltUpArea" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-roadattributes#/s:7heresdk14RoadAttributesV13isBuiltUpAreaSbvp" class="token"><code>isBuiltUpArea</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14RoadAttributesV13isBuiltUpAreaSbvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-isBuiltUpArea" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-roadattributes#sdk-for-ios-explore-s-7heresdk14RoadAttributesV13isBuiltUpAreaSbvp" class="token"><code>isBuiltUpArea</code></a> 
 
   </div>
 
@@ -555,7 +555,7 @@ Road attributes, including usage and physical characteristics. Note that a road 
 
 - <div>
 
-      init(isDirtRoad: isTunnel: isBridge: isRamp: isControlledAccess: isPrivate: isNoThrough: isTollway: isDividedRoad: isRightDrivingSide: isRoundabout: isBuiltUpArea: )
+   <span id="sdk-for-ios-explore-s-7heresdk14RoadAttributesV06isDirtB00D6Tunnel0D6Bridge0D4Ramp0D16ControlledAccess0D7Private0D9NoThrough0D7Tollway0d7DividedB00D16RightDrivingSide0D10Roundabout0D11BuiltUpAreaACSb_S11btcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-isDirtRoad-isTunnel-isBridge-isRamp-isControlledAccess-isPrivate-isNoThrough-isTollway-isDividedRoad-isRightDrivingSide-isRoundabout-isBuiltUpArea" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-roadattributes#sdk-for-ios-explore-s-7heresdk14RoadAttributesV06isDirtB00D6Tunnel0D6Bridge0D4Ramp0D16ControlledAccess0D7Private0D9NoThrough0D7Tollway0d7DividedB00D16RightDrivingSide0D10Roundabout0D11BuiltUpAreaACSb_S11btcfc" class="token"><code>init(isDirtRoad:</code><wbr></wbr><code>isTunnel:</code><wbr></wbr><code>isBridge:</code><wbr></wbr><code>isRamp:</code><wbr></wbr><code>isControlledAccess:</code><wbr></wbr><code>isPrivate:</code><wbr></wbr><code>isNoThrough:</code><wbr></wbr><code>isTollway:</code><wbr></wbr><code>isDividedRoad:</code><wbr></wbr><code>isRightDrivingSide:</code><wbr></wbr><code>isRoundabout:</code><wbr></wbr><code>isBuiltUpArea:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -586,10 +586,8 @@ Road attributes, including usage and physical characteristics. Note that a road 
   Swift
 
   ``` highlight
-  public init ( isDirtRoad : Bool = false , isTunnel : Bool = false , isBridge : Bool = false , isRamp : Bool = false , isControlledAccess : Bool = false , isPrivate : Bool = false , isNoThrough : Bool = false , isTollway : Bool = false , isDividedRoad : Bool = false , isRightDrivingSide : Bool = false , isRoundabout : Bool = false , isBuiltUpArea : Bool = false )
+  public init(isDirtRoad: Bool = false, isTunnel: Bool = false, isBridge: Bool = false, isRamp: Bool = false, isControlledAccess: Bool = false, isPrivate: Bool = false, isNoThrough: Bool = false, isTollway: Bool = false, isDividedRoad: Bool = false, isRightDrivingSide: Bool = false, isRoundabout: Bool = false, isBuiltUpArea: Bool = false)
   ```
-
-  </pre>
 
   </div>
 

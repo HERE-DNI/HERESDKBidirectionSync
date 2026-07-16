@@ -27,7 +27,7 @@ Represents the format of the connector, whether it is a socket or a cable. **Not
 
 - <div>
 
-  ` `<span id="/s:7heresdk25EVChargingConnectorFormatO6socketyA2CmF"></span>` `<span id="//apple_ref/swift/Element/socket" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-evchargingconnectorformat#/s:7heresdk25EVChargingConnectorFormatO6socketyA2CmF" class="token"><code>socket</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk25EVChargingConnectorFormatO6socketyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-socket" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-evchargingconnectorformat#sdk-for-ios-navigate-s-7heresdk25EVChargingConnectorFormatO6socketyA2CmF" class="token"><code>socket</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Represents the format of the connector, whether it is a socket or a cable. **Not
 
 - <div>
 
-  ` `<span id="/s:7heresdk25EVChargingConnectorFormatO5cableyA2CmF"></span>` `<span id="//apple_ref/swift/Element/cable" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-evchargingconnectorformat#/s:7heresdk25EVChargingConnectorFormatO5cableyA2CmF" class="token"><code>cable</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk25EVChargingConnectorFormatO5cableyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-cable" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-evchargingconnectorformat#sdk-for-ios-navigate-s-7heresdk25EVChargingConnectorFormatO5cableyA2CmF" class="token"><code>cable</code></a> 
 
   </div>
 

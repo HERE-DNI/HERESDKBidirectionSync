@@ -27,7 +27,7 @@ The vehicle restriction representing a vehicle category and relevant restriction
 
 - <div>
 
-  ` `<span id="/s:7heresdk15TrafficIncidentC18VehicleRestrictionV18isRestrictedAlwaysSbvp"></span>` `<span id="//apple_ref/swift/Property/isRestrictedAlways" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-trafficincident-vehiclerestriction#/s:7heresdk15TrafficIncidentC18VehicleRestrictionV18isRestrictedAlwaysSbvp" class="token"><code>isRestrictedAlways</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15TrafficIncidentC18VehicleRestrictionV18isRestrictedAlwaysSbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-isRestrictedAlways" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-trafficincident-vehiclerestriction#sdk-for-ios-navigate-s-7heresdk15TrafficIncidentC18VehicleRestrictionV18isRestrictedAlwaysSbvp" class="token"><code>isRestrictedAlways</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ The vehicle restriction representing a vehicle category and relevant restriction
 
 - <div>
 
-  ` `<span id="/s:7heresdk15TrafficIncidentC18VehicleRestrictionV22isDieselFuelRestrictedSbvp"></span>` `<span id="//apple_ref/swift/Property/isDieselFuelRestricted" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-trafficincident-vehiclerestriction#/s:7heresdk15TrafficIncidentC18VehicleRestrictionV22isDieselFuelRestrictedSbvp" class="token"><code>isDieselFuelRestricted</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15TrafficIncidentC18VehicleRestrictionV22isDieselFuelRestrictedSbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-isDieselFuelRestricted" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-trafficincident-vehiclerestriction#sdk-for-ios-navigate-s-7heresdk15TrafficIncidentC18VehicleRestrictionV22isDieselFuelRestrictedSbvp" class="token"><code>isDieselFuelRestricted</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ The vehicle restriction representing a vehicle category and relevant restriction
 
 - <div>
 
-  ` `<span id="/s:7heresdk15TrafficIncidentC18VehicleRestrictionV22isPetrolFuelRestrictedSbvp"></span>` `<span id="//apple_ref/swift/Property/isPetrolFuelRestricted" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-trafficincident-vehiclerestriction#/s:7heresdk15TrafficIncidentC18VehicleRestrictionV22isPetrolFuelRestrictedSbvp" class="token"><code>isPetrolFuelRestricted</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15TrafficIncidentC18VehicleRestrictionV22isPetrolFuelRestrictedSbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-isPetrolFuelRestricted" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-trafficincident-vehiclerestriction#sdk-for-ios-navigate-s-7heresdk15TrafficIncidentC18VehicleRestrictionV22isPetrolFuelRestrictedSbvp" class="token"><code>isPetrolFuelRestricted</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ The vehicle restriction representing a vehicle category and relevant restriction
 
 - <div>
 
-  ` `<span id="/s:7heresdk15TrafficIncidentC18VehicleRestrictionV19isLpgFuelRestrictedSbvp"></span>` `<span id="//apple_ref/swift/Property/isLpgFuelRestricted" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-trafficincident-vehiclerestriction#/s:7heresdk15TrafficIncidentC18VehicleRestrictionV19isLpgFuelRestrictedSbvp" class="token"><code>isLpgFuelRestricted</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15TrafficIncidentC18VehicleRestrictionV19isLpgFuelRestrictedSbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-isLpgFuelRestricted" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-trafficincident-vehiclerestriction#sdk-for-ios-navigate-s-7heresdk15TrafficIncidentC18VehicleRestrictionV19isLpgFuelRestrictedSbvp" class="token"><code>isLpgFuelRestricted</code></a> 
 
   </div>
 
@@ -203,7 +203,7 @@ The vehicle restriction representing a vehicle category and relevant restriction
 
 - <div>
 
-  ` `<span id="/s:7heresdk15TrafficIncidentC18VehicleRestrictionV19isCaravanRestrictedSbvp"></span>` `<span id="//apple_ref/swift/Property/isCaravanRestricted" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-trafficincident-vehiclerestriction#/s:7heresdk15TrafficIncidentC18VehicleRestrictionV19isCaravanRestrictedSbvp" class="token"><code>isCaravanRestricted</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15TrafficIncidentC18VehicleRestrictionV19isCaravanRestrictedSbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-isCaravanRestricted" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-trafficincident-vehiclerestriction#sdk-for-ios-navigate-s-7heresdk15TrafficIncidentC18VehicleRestrictionV19isCaravanRestrictedSbvp" class="token"><code>isCaravanRestricted</code></a> 
 
   </div>
 
@@ -247,7 +247,7 @@ The vehicle restriction representing a vehicle category and relevant restriction
 
 - <div>
 
-  ` `<span id="/s:7heresdk15TrafficIncidentC18VehicleRestrictionV19isTrailerRestrictedSbvp"></span>` `<span id="//apple_ref/swift/Property/isTrailerRestricted" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-trafficincident-vehiclerestriction#/s:7heresdk15TrafficIncidentC18VehicleRestrictionV19isTrailerRestrictedSbvp" class="token"><code>isTrailerRestricted</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15TrafficIncidentC18VehicleRestrictionV19isTrailerRestrictedSbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-isTrailerRestricted" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-trafficincident-vehiclerestriction#sdk-for-ios-navigate-s-7heresdk15TrafficIncidentC18VehicleRestrictionV19isTrailerRestrictedSbvp" class="token"><code>isTrailerRestricted</code></a> 
 
   </div>
 
@@ -291,7 +291,7 @@ The vehicle restriction representing a vehicle category and relevant restriction
 
 - <div>
 
-  ` `<span id="/s:7heresdk15TrafficIncidentC18VehicleRestrictionV36isDrivingWithoutSnowChainsRestrictedSbvp"></span>` `<span id="//apple_ref/swift/Property/isDrivingWithoutSnowChainsRestricted" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-trafficincident-vehiclerestriction#/s:7heresdk15TrafficIncidentC18VehicleRestrictionV36isDrivingWithoutSnowChainsRestrictedSbvp" class="token"><code>isDrivingWithoutSnowChainsRestricted</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15TrafficIncidentC18VehicleRestrictionV36isDrivingWithoutSnowChainsRestrictedSbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-isDrivingWithoutSnowChainsRestricted" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-trafficincident-vehiclerestriction#sdk-for-ios-navigate-s-7heresdk15TrafficIncidentC18VehicleRestrictionV36isDrivingWithoutSnowChainsRestrictedSbvp" class="token"><code>isDrivingWithoutSnowChainsRestricted</code></a> 
 
   </div>
 
@@ -335,7 +335,7 @@ The vehicle restriction representing a vehicle category and relevant restriction
 
 - <div>
 
-  ` `<span id="/s:7heresdk15TrafficIncidentC18VehicleRestrictionV37isDrivingWithoutWinterTyresRestrictedSbvp"></span>` `<span id="//apple_ref/swift/Property/isDrivingWithoutWinterTyresRestricted" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-trafficincident-vehiclerestriction#/s:7heresdk15TrafficIncidentC18VehicleRestrictionV37isDrivingWithoutWinterTyresRestrictedSbvp" class="token"><code>isDrivingWithoutWinterTyresRestricted</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15TrafficIncidentC18VehicleRestrictionV37isDrivingWithoutWinterTyresRestrictedSbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-isDrivingWithoutWinterTyresRestricted" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-trafficincident-vehiclerestriction#sdk-for-ios-navigate-s-7heresdk15TrafficIncidentC18VehicleRestrictionV37isDrivingWithoutWinterTyresRestrictedSbvp" class="token"><code>isDrivingWithoutWinterTyresRestricted</code></a> 
 
   </div>
 
@@ -379,7 +379,7 @@ The vehicle restriction representing a vehicle category and relevant restriction
 
 - <div>
 
-  ` `<span id="/s:7heresdk15TrafficIncidentC18VehicleRestrictionV27isEvenNumberPlateRestrictedSbvp"></span>` `<span id="//apple_ref/swift/Property/isEvenNumberPlateRestricted" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-trafficincident-vehiclerestriction#/s:7heresdk15TrafficIncidentC18VehicleRestrictionV27isEvenNumberPlateRestrictedSbvp" class="token"><code>isEvenNumberPlateRestricted</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15TrafficIncidentC18VehicleRestrictionV27isEvenNumberPlateRestrictedSbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-isEvenNumberPlateRestricted" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-trafficincident-vehiclerestriction#sdk-for-ios-navigate-s-7heresdk15TrafficIncidentC18VehicleRestrictionV27isEvenNumberPlateRestrictedSbvp" class="token"><code>isEvenNumberPlateRestricted</code></a> 
 
   </div>
 
@@ -423,7 +423,7 @@ The vehicle restriction representing a vehicle category and relevant restriction
 
 - <div>
 
-  ` `<span id="/s:7heresdk15TrafficIncidentC18VehicleRestrictionV26isOddNumberPlateRestrictedSbvp"></span>` `<span id="//apple_ref/swift/Property/isOddNumberPlateRestricted" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-trafficincident-vehiclerestriction#/s:7heresdk15TrafficIncidentC18VehicleRestrictionV26isOddNumberPlateRestrictedSbvp" class="token"><code>isOddNumberPlateRestricted</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15TrafficIncidentC18VehicleRestrictionV26isOddNumberPlateRestrictedSbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-isOddNumberPlateRestricted" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-trafficincident-vehiclerestriction#sdk-for-ios-navigate-s-7heresdk15TrafficIncidentC18VehicleRestrictionV26isOddNumberPlateRestrictedSbvp" class="token"><code>isOddNumberPlateRestricted</code></a> 
 
   </div>
 
@@ -467,7 +467,7 @@ The vehicle restriction representing a vehicle category and relevant restriction
 
 - <div>
 
-  ` `<span id="/s:7heresdk15TrafficIncidentC18VehicleRestrictionV09isThroughB10RestrictedSbvp"></span>` `<span id="//apple_ref/swift/Property/isThroughTrafficRestricted" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-trafficincident-vehiclerestriction#/s:7heresdk15TrafficIncidentC18VehicleRestrictionV09isThroughB10RestrictedSbvp" class="token"><code>isThroughTrafficRestricted</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15TrafficIncidentC18VehicleRestrictionV09isThroughB10RestrictedSbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-isThroughTrafficRestricted" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-trafficincident-vehiclerestriction#sdk-for-ios-navigate-s-7heresdk15TrafficIncidentC18VehicleRestrictionV09isThroughB10RestrictedSbvp" class="token"><code>isThroughTrafficRestricted</code></a> 
 
   </div>
 
@@ -511,7 +511,7 @@ The vehicle restriction representing a vehicle category and relevant restriction
 
 - <div>
 
-  ` `<span id="/s:7heresdk15TrafficIncidentC18VehicleRestrictionV011isResidentsB10RestrictedSbvp"></span>` `<span id="//apple_ref/swift/Property/isResidentsTrafficRestricted" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-trafficincident-vehiclerestriction#/s:7heresdk15TrafficIncidentC18VehicleRestrictionV011isResidentsB10RestrictedSbvp" class="token"><code>isResidentsTrafficRestricted</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15TrafficIncidentC18VehicleRestrictionV011isResidentsB10RestrictedSbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-isResidentsTrafficRestricted" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-trafficincident-vehiclerestriction#sdk-for-ios-navigate-s-7heresdk15TrafficIncidentC18VehicleRestrictionV011isResidentsB10RestrictedSbvp" class="token"><code>isResidentsTrafficRestricted</code></a> 
 
   </div>
 
@@ -555,7 +555,7 @@ The vehicle restriction representing a vehicle category and relevant restriction
 
 - <div>
 
-  ` `<span id="/s:7heresdk15TrafficIncidentC18VehicleRestrictionV015isDestinationInC14AreaRestrictedSbvp"></span>` `<span id="//apple_ref/swift/Property/isDestinationInIncidentAreaRestricted" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-trafficincident-vehiclerestriction#/s:7heresdk15TrafficIncidentC18VehicleRestrictionV015isDestinationInC14AreaRestrictedSbvp" class="token"><code>isDestinationInIncidentAreaRestricted</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15TrafficIncidentC18VehicleRestrictionV015isDestinationInC14AreaRestrictedSbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-isDestinationInIncidentAreaRestricted" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-trafficincident-vehiclerestriction#sdk-for-ios-navigate-s-7heresdk15TrafficIncidentC18VehicleRestrictionV015isDestinationInC14AreaRestrictedSbvp" class="token"><code>isDestinationInIncidentAreaRestricted</code></a> 
 
   </div>
 
@@ -599,7 +599,7 @@ The vehicle restriction representing a vehicle category and relevant restriction
 
 - <div>
 
-  ` `<span id="/s:7heresdk15TrafficIncidentC18VehicleRestrictionV33isEuro3EmissionStandardRestrictedSbvp"></span>` `<span id="//apple_ref/swift/Property/isEuro3EmissionStandardRestricted" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-trafficincident-vehiclerestriction#/s:7heresdk15TrafficIncidentC18VehicleRestrictionV33isEuro3EmissionStandardRestrictedSbvp" class="token"><code>isEuro3EmissionStandardRestricted</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15TrafficIncidentC18VehicleRestrictionV33isEuro3EmissionStandardRestrictedSbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-isEuro3EmissionStandardRestricted" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-trafficincident-vehiclerestriction#sdk-for-ios-navigate-s-7heresdk15TrafficIncidentC18VehicleRestrictionV33isEuro3EmissionStandardRestrictedSbvp" class="token"><code>isEuro3EmissionStandardRestricted</code></a> 
 
   </div>
 
@@ -643,7 +643,7 @@ The vehicle restriction representing a vehicle category and relevant restriction
 
 - <div>
 
-  ` `<span id="/s:7heresdk15TrafficIncidentC18VehicleRestrictionV33isEuro4EmissionStandardRestrictedSbvp"></span>` `<span id="//apple_ref/swift/Property/isEuro4EmissionStandardRestricted" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-trafficincident-vehiclerestriction#/s:7heresdk15TrafficIncidentC18VehicleRestrictionV33isEuro4EmissionStandardRestrictedSbvp" class="token"><code>isEuro4EmissionStandardRestricted</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15TrafficIncidentC18VehicleRestrictionV33isEuro4EmissionStandardRestrictedSbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-isEuro4EmissionStandardRestricted" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-trafficincident-vehiclerestriction#sdk-for-ios-navigate-s-7heresdk15TrafficIncidentC18VehicleRestrictionV33isEuro4EmissionStandardRestrictedSbvp" class="token"><code>isEuro4EmissionStandardRestricted</code></a> 
 
   </div>
 
@@ -687,7 +687,7 @@ The vehicle restriction representing a vehicle category and relevant restriction
 
 - <div>
 
-  ` `<span id="/s:7heresdk15TrafficIncidentC18VehicleRestrictionV33isEuro5EmissionStandardRestrictedSbvp"></span>` `<span id="//apple_ref/swift/Property/isEuro5EmissionStandardRestricted" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-trafficincident-vehiclerestriction#/s:7heresdk15TrafficIncidentC18VehicleRestrictionV33isEuro5EmissionStandardRestrictedSbvp" class="token"><code>isEuro5EmissionStandardRestricted</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15TrafficIncidentC18VehicleRestrictionV33isEuro5EmissionStandardRestrictedSbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-isEuro5EmissionStandardRestricted" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-trafficincident-vehiclerestriction#sdk-for-ios-navigate-s-7heresdk15TrafficIncidentC18VehicleRestrictionV33isEuro5EmissionStandardRestrictedSbvp" class="token"><code>isEuro5EmissionStandardRestricted</code></a> 
 
   </div>
 
@@ -731,7 +731,7 @@ The vehicle restriction representing a vehicle category and relevant restriction
 
 - <div>
 
-  ` `<span id="/s:7heresdk15TrafficIncidentC18VehicleRestrictionV42restrictedIfGrossWeightMoreThanInKilogramss5Int32VSgvp"></span>` `<span id="//apple_ref/swift/Property/restrictedIfGrossWeightMoreThanInKilograms" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-trafficincident-vehiclerestriction#/s:7heresdk15TrafficIncidentC18VehicleRestrictionV42restrictedIfGrossWeightMoreThanInKilogramss5Int32VSgvp" class="token"><code>restrictedIfGrossWeightMoreThanInKilograms</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15TrafficIncidentC18VehicleRestrictionV42restrictedIfGrossWeightMoreThanInKilogramss5Int32VSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-restrictedIfGrossWeightMoreThanInKilograms" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-trafficincident-vehiclerestriction#sdk-for-ios-navigate-s-7heresdk15TrafficIncidentC18VehicleRestrictionV42restrictedIfGrossWeightMoreThanInKilogramss5Int32VSgvp" class="token"><code>restrictedIfGrossWeightMoreThanInKilograms</code></a> 
 
   </div>
 
@@ -775,7 +775,7 @@ The vehicle restriction representing a vehicle category and relevant restriction
 
 - <div>
 
-  ` `<span id="/s:7heresdk15TrafficIncidentC18VehicleRestrictionV42restrictedIfGrossWeightLessThanInKilogramss5Int32VSgvp"></span>` `<span id="//apple_ref/swift/Property/restrictedIfGrossWeightLessThanInKilograms" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-trafficincident-vehiclerestriction#/s:7heresdk15TrafficIncidentC18VehicleRestrictionV42restrictedIfGrossWeightLessThanInKilogramss5Int32VSgvp" class="token"><code>restrictedIfGrossWeightLessThanInKilograms</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15TrafficIncidentC18VehicleRestrictionV42restrictedIfGrossWeightLessThanInKilogramss5Int32VSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-restrictedIfGrossWeightLessThanInKilograms" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-trafficincident-vehiclerestriction#sdk-for-ios-navigate-s-7heresdk15TrafficIncidentC18VehicleRestrictionV42restrictedIfGrossWeightLessThanInKilogramss5Int32VSgvp" class="token"><code>restrictedIfGrossWeightLessThanInKilograms</code></a> 
 
   </div>
 
@@ -819,7 +819,7 @@ The vehicle restriction representing a vehicle category and relevant restriction
 
 - <div>
 
-  ` `<span id="/s:7heresdk15TrafficIncidentC18VehicleRestrictionV41restrictedIfAxleWeightMoreThanInKilogramss5Int32VSgvp"></span>` `<span id="//apple_ref/swift/Property/restrictedIfAxleWeightMoreThanInKilograms" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-trafficincident-vehiclerestriction#/s:7heresdk15TrafficIncidentC18VehicleRestrictionV41restrictedIfAxleWeightMoreThanInKilogramss5Int32VSgvp" class="token"><code>restrictedIfAxleWeightMoreThanInKilograms</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15TrafficIncidentC18VehicleRestrictionV41restrictedIfAxleWeightMoreThanInKilogramss5Int32VSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-restrictedIfAxleWeightMoreThanInKilograms" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-trafficincident-vehiclerestriction#sdk-for-ios-navigate-s-7heresdk15TrafficIncidentC18VehicleRestrictionV41restrictedIfAxleWeightMoreThanInKilogramss5Int32VSgvp" class="token"><code>restrictedIfAxleWeightMoreThanInKilograms</code></a> 
 
   </div>
 
@@ -863,7 +863,7 @@ The vehicle restriction representing a vehicle category and relevant restriction
 
 - <div>
 
-  ` `<span id="/s:7heresdk15TrafficIncidentC18VehicleRestrictionV41restrictedIfAxleWeightLessThanInKilogramss5Int32VSgvp"></span>` `<span id="//apple_ref/swift/Property/restrictedIfAxleWeightLessThanInKilograms" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-trafficincident-vehiclerestriction#/s:7heresdk15TrafficIncidentC18VehicleRestrictionV41restrictedIfAxleWeightLessThanInKilogramss5Int32VSgvp" class="token"><code>restrictedIfAxleWeightLessThanInKilograms</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15TrafficIncidentC18VehicleRestrictionV41restrictedIfAxleWeightLessThanInKilogramss5Int32VSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-restrictedIfAxleWeightLessThanInKilograms" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-trafficincident-vehiclerestriction#sdk-for-ios-navigate-s-7heresdk15TrafficIncidentC18VehicleRestrictionV41restrictedIfAxleWeightLessThanInKilogramss5Int32VSgvp" class="token"><code>restrictedIfAxleWeightLessThanInKilograms</code></a> 
 
   </div>
 
@@ -907,7 +907,7 @@ The vehicle restriction representing a vehicle category and relevant restriction
 
 - <div>
 
-  ` `<span id="/s:7heresdk15TrafficIncidentC18VehicleRestrictionV35restrictedIfLongerThanInCentimeterss5Int32VSgvp"></span>` `<span id="//apple_ref/swift/Property/restrictedIfLongerThanInCentimeters" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-trafficincident-vehiclerestriction#/s:7heresdk15TrafficIncidentC18VehicleRestrictionV35restrictedIfLongerThanInCentimeterss5Int32VSgvp" class="token"><code>restrictedIfLongerThanInCentimeters</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15TrafficIncidentC18VehicleRestrictionV35restrictedIfLongerThanInCentimeterss5Int32VSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-restrictedIfLongerThanInCentimeters" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-trafficincident-vehiclerestriction#sdk-for-ios-navigate-s-7heresdk15TrafficIncidentC18VehicleRestrictionV35restrictedIfLongerThanInCentimeterss5Int32VSgvp" class="token"><code>restrictedIfLongerThanInCentimeters</code></a> 
 
   </div>
 
@@ -951,7 +951,7 @@ The vehicle restriction representing a vehicle category and relevant restriction
 
 - <div>
 
-  ` `<span id="/s:7heresdk15TrafficIncidentC18VehicleRestrictionV36restrictedIfShorterThanInCentimeterss5Int32VSgvp"></span>` `<span id="//apple_ref/swift/Property/restrictedIfShorterThanInCentimeters" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-trafficincident-vehiclerestriction#/s:7heresdk15TrafficIncidentC18VehicleRestrictionV36restrictedIfShorterThanInCentimeterss5Int32VSgvp" class="token"><code>restrictedIfShorterThanInCentimeters</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15TrafficIncidentC18VehicleRestrictionV36restrictedIfShorterThanInCentimeterss5Int32VSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-restrictedIfShorterThanInCentimeters" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-trafficincident-vehiclerestriction#sdk-for-ios-navigate-s-7heresdk15TrafficIncidentC18VehicleRestrictionV36restrictedIfShorterThanInCentimeterss5Int32VSgvp" class="token"><code>restrictedIfShorterThanInCentimeters</code></a> 
 
   </div>
 
@@ -995,7 +995,7 @@ The vehicle restriction representing a vehicle category and relevant restriction
 
 - <div>
 
-  ` `<span id="/s:7heresdk15TrafficIncidentC18VehicleRestrictionV35restrictedIfHigherThanInCentimeterss5Int32VSgvp"></span>` `<span id="//apple_ref/swift/Property/restrictedIfHigherThanInCentimeters" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-trafficincident-vehiclerestriction#/s:7heresdk15TrafficIncidentC18VehicleRestrictionV35restrictedIfHigherThanInCentimeterss5Int32VSgvp" class="token"><code>restrictedIfHigherThanInCentimeters</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15TrafficIncidentC18VehicleRestrictionV35restrictedIfHigherThanInCentimeterss5Int32VSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-restrictedIfHigherThanInCentimeters" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-trafficincident-vehiclerestriction#sdk-for-ios-navigate-s-7heresdk15TrafficIncidentC18VehicleRestrictionV35restrictedIfHigherThanInCentimeterss5Int32VSgvp" class="token"><code>restrictedIfHigherThanInCentimeters</code></a> 
 
   </div>
 
@@ -1039,7 +1039,7 @@ The vehicle restriction representing a vehicle category and relevant restriction
 
 - <div>
 
-  ` `<span id="/s:7heresdk15TrafficIncidentC18VehicleRestrictionV34restrictedIfLowerThanInCentimeterss5Int32VSgvp"></span>` `<span id="//apple_ref/swift/Property/restrictedIfLowerThanInCentimeters" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-trafficincident-vehiclerestriction#/s:7heresdk15TrafficIncidentC18VehicleRestrictionV34restrictedIfLowerThanInCentimeterss5Int32VSgvp" class="token"><code>restrictedIfLowerThanInCentimeters</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15TrafficIncidentC18VehicleRestrictionV34restrictedIfLowerThanInCentimeterss5Int32VSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-restrictedIfLowerThanInCentimeters" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-trafficincident-vehiclerestriction#sdk-for-ios-navigate-s-7heresdk15TrafficIncidentC18VehicleRestrictionV34restrictedIfLowerThanInCentimeterss5Int32VSgvp" class="token"><code>restrictedIfLowerThanInCentimeters</code></a> 
 
   </div>
 
@@ -1083,7 +1083,7 @@ The vehicle restriction representing a vehicle category and relevant restriction
 
 - <div>
 
-  ` `<span id="/s:7heresdk15TrafficIncidentC18VehicleRestrictionV34restrictedIfWiderThanInCentimeterss5Int32VSgvp"></span>` `<span id="//apple_ref/swift/Property/restrictedIfWiderThanInCentimeters" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-trafficincident-vehiclerestriction#/s:7heresdk15TrafficIncidentC18VehicleRestrictionV34restrictedIfWiderThanInCentimeterss5Int32VSgvp" class="token"><code>restrictedIfWiderThanInCentimeters</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15TrafficIncidentC18VehicleRestrictionV34restrictedIfWiderThanInCentimeterss5Int32VSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-restrictedIfWiderThanInCentimeters" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-trafficincident-vehiclerestriction#sdk-for-ios-navigate-s-7heresdk15TrafficIncidentC18VehicleRestrictionV34restrictedIfWiderThanInCentimeterss5Int32VSgvp" class="token"><code>restrictedIfWiderThanInCentimeters</code></a> 
 
   </div>
 
@@ -1127,7 +1127,7 @@ The vehicle restriction representing a vehicle category and relevant restriction
 
 - <div>
 
-  ` `<span id="/s:7heresdk15TrafficIncidentC18VehicleRestrictionV37restrictedIfNarrowerThanInCentimeterss5Int32VSgvp"></span>` `<span id="//apple_ref/swift/Property/restrictedIfNarrowerThanInCentimeters" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-trafficincident-vehiclerestriction#/s:7heresdk15TrafficIncidentC18VehicleRestrictionV37restrictedIfNarrowerThanInCentimeterss5Int32VSgvp" class="token"><code>restrictedIfNarrowerThanInCentimeters</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15TrafficIncidentC18VehicleRestrictionV37restrictedIfNarrowerThanInCentimeterss5Int32VSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-restrictedIfNarrowerThanInCentimeters" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-trafficincident-vehiclerestriction#sdk-for-ios-navigate-s-7heresdk15TrafficIncidentC18VehicleRestrictionV37restrictedIfNarrowerThanInCentimeterss5Int32VSgvp" class="token"><code>restrictedIfNarrowerThanInCentimeters</code></a> 
 
   </div>
 
@@ -1171,7 +1171,7 @@ The vehicle restriction representing a vehicle category and relevant restriction
 
 - <div>
 
-  ` `<span id="/s:7heresdk15TrafficIncidentC18VehicleRestrictionV29restrictedIfOccupantsMoreThans5Int32VSgvp"></span>` `<span id="//apple_ref/swift/Property/restrictedIfOccupantsMoreThan" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-trafficincident-vehiclerestriction#/s:7heresdk15TrafficIncidentC18VehicleRestrictionV29restrictedIfOccupantsMoreThans5Int32VSgvp" class="token"><code>restrictedIfOccupantsMoreThan</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15TrafficIncidentC18VehicleRestrictionV29restrictedIfOccupantsMoreThans5Int32VSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-restrictedIfOccupantsMoreThan" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-trafficincident-vehiclerestriction#sdk-for-ios-navigate-s-7heresdk15TrafficIncidentC18VehicleRestrictionV29restrictedIfOccupantsMoreThans5Int32VSgvp" class="token"><code>restrictedIfOccupantsMoreThan</code></a> 
 
   </div>
 
@@ -1215,7 +1215,7 @@ The vehicle restriction representing a vehicle category and relevant restriction
 
 - <div>
 
-  ` `<span id="/s:7heresdk15TrafficIncidentC18VehicleRestrictionV30restrictedIfOccupantsFewerThans5Int32VSgvp"></span>` `<span id="//apple_ref/swift/Property/restrictedIfOccupantsFewerThan" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-trafficincident-vehiclerestriction#/s:7heresdk15TrafficIncidentC18VehicleRestrictionV30restrictedIfOccupantsFewerThans5Int32VSgvp" class="token"><code>restrictedIfOccupantsFewerThan</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15TrafficIncidentC18VehicleRestrictionV30restrictedIfOccupantsFewerThans5Int32VSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-restrictedIfOccupantsFewerThan" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-trafficincident-vehiclerestriction#sdk-for-ios-navigate-s-7heresdk15TrafficIncidentC18VehicleRestrictionV30restrictedIfOccupantsFewerThans5Int32VSgvp" class="token"><code>restrictedIfOccupantsFewerThan</code></a> 
 
   </div>
 
@@ -1259,7 +1259,7 @@ The vehicle restriction representing a vehicle category and relevant restriction
 
 - <div>
 
-      init(isRestrictedAlways: isDieselFuelRestricted: isPetrolFuelRestricted: isLpgFuelRestricted: isCaravanRestricted: isTrailerRestricted: isDrivingWithoutSnowChainsRestricted: isDrivingWithoutWinterTyresRestricted: isEvenNumberPlateRestricted: isOddNumberPlateRestricted: isThroughTrafficRestricted: isResidentsTrafficRestricted: isDestinationInIncidentAreaRestricted: isEuro3EmissionStandardRestricted: isEuro4EmissionStandardRestricted: isEuro5EmissionStandardRestricted: restrictedIfGrossWeightMoreThanInKilograms: restrictedIfGrossWeightLessThanInKilograms: restrictedIfAxleWeightMoreThanInKilograms: restrictedIfAxleWeightLessThanInKilograms: restrictedIfLongerThanInCentimeters: restrictedIfShorterThanInCentimeters: restrictedIfHigherThanInCentimeters: restrictedIfLowerThanInCentimeters: restrictedIfWiderThanInCentimeters: restrictedIfNarrowerThanInCentimeters: restrictedIfOccupantsMoreThan: restrictedIfOccupantsFewerThan: )
+   <span id="sdk-for-ios-navigate-s-7heresdk15TrafficIncidentC18VehicleRestrictionV18isRestrictedAlways0f10DieselFuelG00f6PetroljG00f3LpgjG00f7CaravanG00f7TrailerG00f24DrivingWithoutSnowChainsG00fop11WinterTyresG00f15EvenNumberPlateG00f3OddvwG00f7ThroughbG00f9ResidentsbG00f13DestinationInc4AreaG00f21Euro3EmissionStandardG00f21Euro4EmissionStandardG00f21Euro5EmissionStandardG042restrictedIfGrossWeightMoreThanInKilograms42restrictedIfGrossWeightLessThanInKilograms41restrictedIfAxleWeightMoreThanInKilograms41restrictedIfAxleWeightLessThanInKilograms35restrictedIfLongerThanInCentimeters36restrictedIfShorterThanInCentimeters35restrictedIfHigherThanInCentimeters34restrictedIfLowerThanInCentimeters34restrictedIfWiderThanInCentimeters37restrictedIfNarrowerThanInCentimeters29restrictedIfOccupantsMoreThan30restrictedIfOccupantsFewerThanAESb_S15bs5Int32VSgA8_A8_A8_A8_A8_A8_A8_A8_A8_A8_A8_tcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-isRestrictedAlways-isDieselFuelRestricted-isPetrolFuelRestricted-isLpgFuelRestricted-isCaravanRestricted-isTrailerRestricted-isDrivingWithoutSnowChainsRestricted-isDrivingWithoutWinterTyresRestricted-isEvenNumberPlateRestricted-isOddNumberPlateRestricted-isThroughTrafficRestricted-isResidentsTrafficRestricted-isDestinationInIncidentAreaRestricted-isEuro3EmissionStandardRestricted-isEuro4EmissionStandardRestricted-isEuro5EmissionStandardRestricted-restrictedIfGrossWeightMoreThanInKilograms-restrictedIfGrossWeightLessThanInKilograms-restrictedIfAxleWeightMoreThanInKilograms-restrictedIfAxleWeightLessThanInKilograms-restrictedIfLongerThanInCentimeters-restrictedIfShorterThanInCentimeters-restrictedIfHigherThanInCentimeters-restrictedIfLowerThanInCentimeters-restrictedIfWiderThanInCentimeters-restrictedIfNarrowerThanInCentimeters-restrictedIfOccupantsMoreThan-restrictedIfOccupantsFewerThan" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-trafficincident-vehiclerestriction#sdk-for-ios-navigate-s-7heresdk15TrafficIncidentC18VehicleRestrictionV18isRestrictedAlways0f10DieselFuelG00f6PetroljG00f3LpgjG00f7CaravanG00f7TrailerG00f24DrivingWithoutSnowChainsG00fop11WinterTyresG00f15EvenNumberPlateG00f3OddvwG00f7ThroughbG00f9ResidentsbG00f13DestinationInc4AreaG00f21Euro3EmissionStandardG00f21Euro4EmissionStandardG00f21Euro5EmissionStandardG042restrictedIfGrossWeightMoreThanInKilograms42restrictedIfGrossWeightLessThanInKilograms41restrictedIfAxleWeightMoreThanInKilograms41restrictedIfAxleWeightLessThanInKilograms35restrictedIfLongerThanInCentimeters36restrictedIfShorterThanInCentimeters35restrictedIfHigherThanInCentimeters34restrictedIfLowerThanInCentimeters34restrictedIfWiderThanInCentimeters37restrictedIfNarrowerThanInCentimeters29restrictedIfOccupantsMoreThan30restrictedIfOccupantsFewerThanAESb_S15bs5Int32VSgA8_A8_A8_A8_A8_A8_A8_A8_A8_A8_A8_tcfc" class="token"><code>init(isRestrictedAlways:</code><wbr></wbr><code>isDieselFuelRestricted:</code><wbr></wbr><code>isPetrolFuelRestricted:</code><wbr></wbr><code>isLpgFuelRestricted:</code><wbr></wbr><code>isCaravanRestricted:</code><wbr></wbr><code>isTrailerRestricted:</code><wbr></wbr><code>isDrivingWithoutSnowChainsRestricted:</code><wbr></wbr><code>isDrivingWithoutWinterTyresRestricted:</code><wbr></wbr><code>isEvenNumberPlateRestricted:</code><wbr></wbr><code>isOddNumberPlateRestricted:</code><wbr></wbr><code>isThroughTrafficRestricted:</code><wbr></wbr><code>isResidentsTrafficRestricted:</code><wbr></wbr><code>isDestinationInIncidentAreaRestricted:</code><wbr></wbr><code>isEuro3EmissionStandardRestricted:</code><wbr></wbr><code>isEuro4EmissionStandardRestricted:</code><wbr></wbr><code>isEuro5EmissionStandardRestricted:</code><wbr></wbr><code>restrictedIfGrossWeightMoreThanInKilograms:</code><wbr></wbr><code>restrictedIfGrossWeightLessThanInKilograms:</code><wbr></wbr><code>restrictedIfAxleWeightMoreThanInKilograms:</code><wbr></wbr><code>restrictedIfAxleWeightLessThanInKilograms:</code><wbr></wbr><code>restrictedIfLongerThanInCentimeters:</code><wbr></wbr><code>restrictedIfShorterThanInCentimeters:</code><wbr></wbr><code>restrictedIfHigherThanInCentimeters:</code><wbr></wbr><code>restrictedIfLowerThanInCentimeters:</code><wbr></wbr><code>restrictedIfWiderThanInCentimeters:</code><wbr></wbr><code>restrictedIfNarrowerThanInCentimeters:</code><wbr></wbr><code>restrictedIfOccupantsMoreThan:</code><wbr></wbr><code>restrictedIfOccupantsFewerThan:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1290,10 +1290,8 @@ The vehicle restriction representing a vehicle category and relevant restriction
   Swift
 
   ``` highlight
-  public init ( isRestrictedAlways : Bool = false , isDieselFuelRestricted : Bool = false , isPetrolFuelRestricted : Bool = false , isLpgFuelRestricted : Bool = false , isCaravanRestricted : Bool = false , isTrailerRestricted : Bool = false , isDrivingWithoutSnowChainsRestricted : Bool = false , isDrivingWithoutWinterTyresRestricted : Bool = false , isEvenNumberPlateRestricted : Bool = false , isOddNumberPlateRestricted : Bool = false , isThroughTrafficRestricted : Bool = false , isResidentsTrafficRestricted : Bool = false , isDestinationInIncidentAreaRestricted : Bool = false , isEuro3EmissionStandardRestricted : Bool = false , isEuro4EmissionStandardRestricted : Bool = false , isEuro5EmissionStandardRestricted : Bool = false , restrictedIfGrossWeightMoreThanInKilograms : Int32 ? = nil , restrictedIfGrossWeightLessThanInKilograms : Int32 ? = nil , restrictedIfAxleWeightMoreThanInKilograms : Int32 ? = nil , restrictedIfAxleWeightLessThanInKilograms : Int32 ? = nil , restrictedIfLongerThanInCentimeters : Int32 ? = nil , restrictedIfShorterThanInCentimeters : Int32 ? = nil , restrictedIfHigherThanInCentimeters : Int32 ? = nil , restrictedIfLowerThanInCentimeters : Int32 ? = nil , restrictedIfWiderThanInCentimeters : Int32 ? = nil , restrictedIfNarrowerThanInCentimeters : Int32 ? = nil , restrictedIfOccupantsMoreThan : Int32 ? = nil , restrictedIfOccupantsFewerThan : Int32 ? = nil )
+  public init(isRestrictedAlways: Bool = false, isDieselFuelRestricted: Bool = false, isPetrolFuelRestricted: Bool = false, isLpgFuelRestricted: Bool = false, isCaravanRestricted: Bool = false, isTrailerRestricted: Bool = false, isDrivingWithoutSnowChainsRestricted: Bool = false, isDrivingWithoutWinterTyresRestricted: Bool = false, isEvenNumberPlateRestricted: Bool = false, isOddNumberPlateRestricted: Bool = false, isThroughTrafficRestricted: Bool = false, isResidentsTrafficRestricted: Bool = false, isDestinationInIncidentAreaRestricted: Bool = false, isEuro3EmissionStandardRestricted: Bool = false, isEuro4EmissionStandardRestricted: Bool = false, isEuro5EmissionStandardRestricted: Bool = false, restrictedIfGrossWeightMoreThanInKilograms: Int32? = nil, restrictedIfGrossWeightLessThanInKilograms: Int32? = nil, restrictedIfAxleWeightMoreThanInKilograms: Int32? = nil, restrictedIfAxleWeightLessThanInKilograms: Int32? = nil, restrictedIfLongerThanInCentimeters: Int32? = nil, restrictedIfShorterThanInCentimeters: Int32? = nil, restrictedIfHigherThanInCentimeters: Int32? = nil, restrictedIfLowerThanInCentimeters: Int32? = nil, restrictedIfWiderThanInCentimeters: Int32? = nil, restrictedIfNarrowerThanInCentimeters: Int32? = nil, restrictedIfOccupantsMoreThan: Int32? = nil, restrictedIfOccupantsFewerThan: Int32? = nil)
   ```
-
-  </pre>
 
   </div>
 

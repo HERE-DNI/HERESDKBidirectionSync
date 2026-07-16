@@ -27,7 +27,7 @@ Encapsulates options that control the behavior of search and suggest operations.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13SearchOptionsV12languageCodeAA08LanguageE0OSgvp"></span>` `<span id="//apple_ref/swift/Property/languageCode" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-searchoptions#/s:7heresdk13SearchOptionsV12languageCodeAA08LanguageE0OSgvp" class="token"><code>languageCode</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13SearchOptionsV12languageCodeAA08LanguageE0OSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-languageCode" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-searchoptions#sdk-for-ios-navigate-s-7heresdk13SearchOptionsV12languageCodeAA08LanguageE0OSgvp" class="token"><code>languageCode</code></a> 
 
   </div>
 
@@ -63,6 +63,10 @@ Encapsulates options that control the behavior of search and suggest operations.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-languagecode">LanguageCode</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ Encapsulates options that control the behavior of search and suggest operations.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13SearchOptionsV8maxItemss5Int32VSgvp"></span>` `<span id="//apple_ref/swift/Property/maxItems" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-searchoptions#/s:7heresdk13SearchOptionsV8maxItemss5Int32VSgvp" class="token"><code>maxItems</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13SearchOptionsV8maxItemss5Int32VSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-maxItems" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-searchoptions#sdk-for-ios-navigate-s-7heresdk13SearchOptionsV8maxItemss5Int32VSgvp" class="token"><code>maxItems</code></a> 
 
   </div>
 
@@ -115,7 +119,7 @@ Encapsulates options that control the behavior of search and suggest operations.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13SearchOptionsV26highDensityEncodingEnabledSbvp"></span>` `<span id="//apple_ref/swift/Property/highDensityEncodingEnabled" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-searchoptions#/s:7heresdk13SearchOptionsV26highDensityEncodingEnabledSbvp" class="token"><code>highDensityEncodingEnabled</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13SearchOptionsV26highDensityEncodingEnabledSbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-highDensityEncodingEnabled" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-searchoptions#sdk-for-ios-navigate-s-7heresdk13SearchOptionsV26highDensityEncodingEnabledSbvp" class="token"><code>highDensityEncodingEnabled</code></a> 
 
   </div>
 
@@ -133,7 +137,7 @@ Encapsulates options that control the behavior of search and suggest operations.
 
   <div class="abstract">
 
-  Allows enabling high density encoding of relevant parameters. For now, it only affects input parameters of type <a href="sdk-for-ios-navigate-structs-geocorridor">`GeoCorridor`</a>. Only supported for search in <a href="sdk-for-ios-navigate-classes-searchengine">`SearchEngine`</a>, otherwise it is ignored. **Note:** This is a closed-alpha release of this feature, so there could be a few bugs and unexpected behaviors. Related APIs may change for new releases without a deprecation process. Only participants of the closed-alpha group can get access from HERE to use this feature, otherwise, a <a href="sdk-for-ios-navigate-enums-searcherror#/s:7heresdk11SearchErrorO9forbiddenyA2CmF">`SearchError.forbidden`</a> will be propagated in callbacks.
+  Allows enabling high density encoding of relevant parameters. For now, it only affects input parameters of type <a href="sdk-for-ios-navigate-structs-geocorridor">`GeoCorridor`</a>. Only supported for search in <a href="sdk-for-ios-navigate-classes-searchengine">`SearchEngine`</a>, otherwise it is ignored. **Note:** This is a closed-alpha release of this feature, so there could be a few bugs and unexpected behaviors. Related APIs may change for new releases without a deprecation process. Only participants of the closed-alpha group can get access from HERE to use this feature, otherwise, a <a href="sdk-for-ios-navigate-enums-searcherror#sdk-for-ios-navigate-s-7heresdk11SearchErrorO9forbiddenyA2CmF">`SearchError.forbidden`</a> will be propagated in callbacks.
 
   </div>
 
@@ -159,7 +163,7 @@ Encapsulates options that control the behavior of search and suggest operations.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13SearchOptionsV18distributedResultsSbvp"></span>` `<span id="//apple_ref/swift/Property/distributedResults" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-searchoptions#/s:7heresdk13SearchOptionsV18distributedResultsSbvp" class="token"><code>distributedResults</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13SearchOptionsV18distributedResultsSbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-distributedResults" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-searchoptions#sdk-for-ios-navigate-s-7heresdk13SearchOptionsV18distributedResultsSbvp" class="token"><code>distributedResults</code></a> 
 
   </div>
 
@@ -179,8 +183,8 @@ Encapsulates options that control the behavior of search and suggest operations.
 
   Indicates if search along the route should produce well-distributed results. It is only supported for:
 
-  - `searchByCategory` API with <a href="sdk-for-ios-navigate-structs-categoryquery-area#/s:7heresdk13CategoryQueryV4AreaV08corridorD0AA11GeoCorridorVSgvp">`CategoryQuery.Area.corridorArea`</a> set
-  - `searchByText` API with <a href="sdk-for-ios-navigate-structs-textquery-area#/s:7heresdk9TextQueryV4AreaV08corridorD0AA11GeoCorridorVSgvp">`TextQuery.Area.corridorArea`</a> set Otherwise, this value is ignored.
+  - `searchByCategory` API with <a href="sdk-for-ios-navigate-structs-categoryquery-area#sdk-for-ios-navigate-s-7heresdk13CategoryQueryV4AreaV08corridorD0AA11GeoCorridorVSgvp">`CategoryQuery.Area.corridorArea`</a> set
+  - `searchByText` API with <a href="sdk-for-ios-navigate-structs-textquery-area#sdk-for-ios-navigate-s-7heresdk9TextQueryV4AreaV08corridorD0AA11GeoCorridorVSgvp">`TextQuery.Area.corridorArea`</a> set Otherwise, this value is ignored.
 
   </div>
 
@@ -206,7 +210,7 @@ Encapsulates options that control the behavior of search and suggest operations.
 
 - <div>
 
-      init(languageCode: maxItems: highDensityEncodingEnabled: distributedResults: )
+   <span id="sdk-for-ios-navigate-s-7heresdk13SearchOptionsV12languageCode8maxItems26highDensityEncodingEnabled18distributedResultsAcA08LanguageE0OSg_s5Int32VSgS2btcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-languageCode-maxItems-highDensityEncodingEnabled-distributedResults" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-searchoptions#sdk-for-ios-navigate-s-7heresdk13SearchOptionsV12languageCode8maxItems26highDensityEncodingEnabled18distributedResultsAcA08LanguageE0OSg_s5Int32VSgS2btcfc" class="token"><code>init(languageCode:</code><wbr></wbr><code>maxItems:</code><wbr></wbr><code>highDensityEncodingEnabled:</code><wbr></wbr><code>distributedResults:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -237,12 +241,14 @@ Encapsulates options that control the behavior of search and suggest operations.
   Swift
 
   ``` highlight
-  public init ( languageCode : LanguageCode ? = nil , maxItems : Int32 ? = nil , highDensityEncodingEnabled : Bool = false , distributedResults : Bool = false )
+  public init(languageCode: LanguageCode? = nil, maxItems: Int32? = nil, highDensityEncodingEnabled: Bool = false, distributedResults: Bool = false)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-languagecode">LanguageCode</a>
 
   </div>
 

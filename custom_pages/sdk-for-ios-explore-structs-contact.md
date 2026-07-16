@@ -27,7 +27,7 @@ Represents contact information.
 
 - <div>
 
-  ` `<span id="/s:7heresdk7ContactV14landlinePhonesSayAA13LandlinePhoneVGvp"></span>` `<span id="//apple_ref/swift/Property/landlinePhones" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-contact#/s:7heresdk7ContactV14landlinePhonesSayAA13LandlinePhoneVGvp" class="token"><code>landlinePhones</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk7ContactV14landlinePhonesSayAA13LandlinePhoneVGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-landlinePhones" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-contact#sdk-for-ios-explore-s-7heresdk7ContactV14landlinePhonesSayAA13LandlinePhoneVGvp" class="token"><code>landlinePhones</code></a> 
 
   </div>
 
@@ -63,6 +63,10 @@ Represents contact information.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-landlinephone">LandlinePhone</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ Represents contact information.
 
 - <div>
 
-  ` `<span id="/s:7heresdk7ContactV12mobilePhonesSayAA11MobilePhoneVGvp"></span>` `<span id="//apple_ref/swift/Property/mobilePhones" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-contact#/s:7heresdk7ContactV12mobilePhonesSayAA11MobilePhoneVGvp" class="token"><code>mobilePhones</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk7ContactV12mobilePhonesSayAA11MobilePhoneVGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-mobilePhones" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-contact#sdk-for-ios-explore-s-7heresdk7ContactV12mobilePhonesSayAA11MobilePhoneVGvp" class="token"><code>mobilePhones</code></a> 
 
   </div>
 
@@ -107,6 +111,10 @@ Represents contact information.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-mobilephone">MobilePhone</a>
+
   </div>
 
   </div>
@@ -115,7 +123,7 @@ Represents contact information.
 
 - <div>
 
-  ` `<span id="/s:7heresdk7ContactV6emailsSayAA12EmailAddressVGvp"></span>` `<span id="//apple_ref/swift/Property/emails" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-contact#/s:7heresdk7ContactV6emailsSayAA12EmailAddressVGvp" class="token"><code>emails</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk7ContactV6emailsSayAA12EmailAddressVGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-emails" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-contact#sdk-for-ios-explore-s-7heresdk7ContactV6emailsSayAA12EmailAddressVGvp" class="token"><code>emails</code></a> 
 
   </div>
 
@@ -151,6 +159,10 @@ Represents contact information.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-emailaddress">EmailAddress</a>
+
   </div>
 
   </div>
@@ -159,7 +171,7 @@ Represents contact information.
 
 - <div>
 
-  ` `<span id="/s:7heresdk7ContactV8websitesSayAA14WebsiteAddressVGvp"></span>` `<span id="//apple_ref/swift/Property/websites" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-contact#/s:7heresdk7ContactV8websitesSayAA14WebsiteAddressVGvp" class="token"><code>websites</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk7ContactV8websitesSayAA14WebsiteAddressVGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-websites" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-contact#sdk-for-ios-explore-s-7heresdk7ContactV8websitesSayAA14WebsiteAddressVGvp" class="token"><code>websites</code></a> 
 
   </div>
 
@@ -195,6 +207,10 @@ Represents contact information.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-websiteaddress">WebsiteAddress</a>
+
   </div>
 
   </div>
@@ -203,7 +219,7 @@ Represents contact information.
 
 - <div>
 
-      init()
+   <span id="sdk-for-ios-explore-s-7heresdk7ContactVACycfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-contact#sdk-for-ios-explore-s-7heresdk7ContactVACycfc" class="token"><code>init()</code></a> 
 
   </div>
 
@@ -234,10 +250,8 @@ Represents contact information.
   Swift
 
   ``` highlight
-  public init ()
+  public init()
   ```
-
-  </pre>
 
   </div>
 
@@ -249,7 +263,7 @@ Represents contact information.
 
 - <div>
 
-      init(landlinePhones: mobilePhones: emails: websites: )
+   <span id="sdk-for-ios-explore-s-7heresdk7ContactV14landlinePhones06mobileD06emails8websitesACSayAA13LandlinePhoneVG_SayAA06MobileI0VGSayAA12EmailAddressVGSayAA07WebsiteL0VGtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-landlinePhones-mobilePhones-emails-websites" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-contact#sdk-for-ios-explore-s-7heresdk7ContactV14landlinePhones06mobileD06emails8websitesACSayAA13LandlinePhoneVG_SayAA06MobileI0VGSayAA12EmailAddressVGSayAA07WebsiteL0VGtcfc" class="token"><code>init(landlinePhones:</code><wbr></wbr><code>mobilePhones:</code><wbr></wbr><code>emails:</code><wbr></wbr><code>websites:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -280,12 +294,17 @@ Represents contact information.
   Swift
 
   ``` highlight
-  public init ( landlinePhones : [ LandlinePhone ], mobilePhones : [ MobilePhone ], emails : [ EmailAddress ], websites : [ WebsiteAddress ])
+  public init(landlinePhones: [LandlinePhone], mobilePhones: [MobilePhone], emails: [EmailAddress], websites: [WebsiteAddress])
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-landlinephone">LandlinePhone</a>
+  - <a href="sdk-for-ios-explore-structs-mobilephone">MobilePhone</a>
+  - <a href="sdk-for-ios-explore-structs-emailaddress">EmailAddress</a>
+  - <a href="sdk-for-ios-explore-structs-websiteaddress">WebsiteAddress</a>
 
   </div>
 

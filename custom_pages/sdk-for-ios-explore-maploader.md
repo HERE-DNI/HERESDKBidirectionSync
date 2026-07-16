@@ -13,7 +13,7 @@ slug: "sdk-for-ios-explore-maploader"
 
 - <div>
 
-  ` `<span id="/s:7heresdk17CatalogUpdateInfoV"></span>` `<span id="//apple_ref/swift/Struct/CatalogUpdateInfo" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maploader#/s:7heresdk17CatalogUpdateInfoV" class="token"><code>CatalogUpdateInfo</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17CatalogUpdateInfoV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-CatalogUpdateInfo" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maploader#sdk-for-ios-explore-s-7heresdk17CatalogUpdateInfoV" class="token"><code>CatalogUpdateInfo</code></a> 
 
   </div>
 
@@ -59,7 +59,7 @@ slug: "sdk-for-ios-explore-maploader"
 
 - <div>
 
-  ` `<span id="/s:7heresdk26CatalogsUpdateInfoCallbacka"></span>` `<span id="//apple_ref/swift/Alias/CatalogsUpdateInfoCallback" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maploader#/s:7heresdk26CatalogsUpdateInfoCallbacka" class="token"><code>CatalogsUpdateInfoCallback</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk26CatalogsUpdateInfoCallbacka"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Alias-CatalogsUpdateInfoCallback" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maploader#sdk-for-ios-explore-s-7heresdk26CatalogsUpdateInfoCallbacka" class="token"><code>CatalogsUpdateInfoCallback</code></a> 
 
   </div>
 
@@ -77,12 +77,7 @@ slug: "sdk-for-ios-explore-maploader"
 
   <div class="abstract">
 
-  This method will be called on the main thread when
-
-      MapUpdater.retrieveCatalogsUpdateInfo(...)
-
-  has been completed. The first parameter indicates an error in case of a failure. The second parameter contains the results. Both parameters cannot be `nil` at the same time - or not `nil` at the same time. An empty <a href="sdk-for-ios-explore-structs-catalogupdateinfo">`CatalogUpdateInfo`</a> list represent no map updates.
-  </p>
+  This method will be called on the main thread when <a href="sdk-for-ios-explore-classes-mapupdater#sdk-for-ios-explore-s-7heresdk10MapUpdaterC26retrieveCatalogsUpdateInfo8callbackAA10TaskHandle_pyAA0B11LoaderErrorOSg_SayAA07CatalogfG0VGSgtc_tF">`MapUpdater.retrieveCatalogsUpdateInfo(...)`</a> has been completed. The first parameter indicates an error in case of a failure. The second parameter contains the results. Both parameters cannot be `nil` at the same time - or not `nil` at the same time. An empty <a href="sdk-for-ios-explore-structs-catalogupdateinfo">`CatalogUpdateInfo`</a> list represent no map updates.
 
   </div>
 
@@ -95,12 +90,15 @@ slug: "sdk-for-ios-explore-maploader"
   Swift
 
   ``` highlight
-  public typealias CatalogsUpdateInfoCallback = ( _ error : MapLoaderError ?, _ catalogs : [ CatalogUpdateInfo ]?) -> Void
+  public typealias CatalogsUpdateInfoCallback = (_ error: MapLoaderError?, _ catalogs: [CatalogUpdateInfo]?) -> Void
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-maploadererror">MapLoaderError</a>
+  - <a href="sdk-for-ios-explore-structs-catalogupdateinfo">CatalogUpdateInfo</a>
 
   </div>
 
@@ -137,7 +135,7 @@ slug: "sdk-for-ios-explore-maploader"
 
 - <div>
 
-  ` `<span id="/s:7heresdk29CatalogUpdateProgressListenerP"></span>` `<span id="//apple_ref/swift/Protocol/CatalogUpdateProgressListener" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maploader#/s:7heresdk29CatalogUpdateProgressListenerP" class="token"><code>CatalogUpdateProgressListener</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk29CatalogUpdateProgressListenerP"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Protocol-CatalogUpdateProgressListener" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maploader#sdk-for-ios-explore-s-7heresdk29CatalogUpdateProgressListenerP" class="token"><code>CatalogUpdateProgressListener</code></a> 
 
   </div>
 
@@ -183,7 +181,7 @@ slug: "sdk-for-ios-explore-maploader"
 
 - <div>
 
-  ` `<span id="/s:7heresdk18CatalogUpdateStateO"></span>` `<span id="//apple_ref/swift/Enum/CatalogUpdateState" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maploader#/s:7heresdk18CatalogUpdateStateO" class="token"><code>CatalogUpdateState</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18CatalogUpdateStateO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-CatalogUpdateState" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maploader#sdk-for-ios-explore-s-7heresdk18CatalogUpdateStateO" class="token"><code>CatalogUpdateState</code></a> 
 
   </div>
 
@@ -229,7 +227,7 @@ slug: "sdk-for-ios-explore-maploader"
 
 - <div>
 
-  ` `<span id="/s:7heresdk28ClientCertificateRequestTypeO"></span>` `<span id="//apple_ref/swift/Enum/ClientCertificateRequestType" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maploader#/s:7heresdk28ClientCertificateRequestTypeO" class="token"><code>ClientCertificateRequestType</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk28ClientCertificateRequestTypeO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-ClientCertificateRequestType" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maploader#sdk-for-ios-explore-s-7heresdk28ClientCertificateRequestTypeO" class="token"><code>ClientCertificateRequestType</code></a> 
 
   </div>
 
@@ -275,7 +273,7 @@ slug: "sdk-for-ios-explore-maploader"
 
 - <div>
 
-  ` `<span id="/s:7heresdk17CompletionHandlera"></span>` `<span id="//apple_ref/swift/Alias/CompletionHandler" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maploader#/s:7heresdk17CompletionHandlera" class="token"><code>CompletionHandler</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17CompletionHandlera"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Alias-CompletionHandler" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maploader#sdk-for-ios-explore-s-7heresdk17CompletionHandlera" class="token"><code>CompletionHandler</code></a> 
 
   </div>
 
@@ -311,12 +309,15 @@ slug: "sdk-for-ios-explore-maploader"
   Swift
 
   ``` highlight
-  public typealias CompletionHandler = ( _ maploaderError : MapLoaderError ?, _ regions : [ Region ]?) -> Void
+  public typealias CompletionHandler = (_ maploaderError: MapLoaderError?, _ regions: [Region]?) -> Void
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-maploadererror">MapLoaderError</a>
+  - <a href="sdk-for-ios-explore-structs-region">Region</a>
 
   </div>
 
@@ -353,7 +354,7 @@ slug: "sdk-for-ios-explore-maploader"
 
 - <div>
 
-  ` `<span id="/s:7heresdk25ConfigureConnectionHandlea"></span>` `<span id="//apple_ref/swift/Alias/ConfigureConnectionHandle" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maploader#/s:7heresdk25ConfigureConnectionHandlea" class="token"><code>ConfigureConnectionHandle</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk25ConfigureConnectionHandlea"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Alias-ConfigureConnectionHandle" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maploader#sdk-for-ios-explore-s-7heresdk25ConfigureConnectionHandlea" class="token"><code>ConfigureConnectionHandle</code></a> 
 
   </div>
 
@@ -371,12 +372,7 @@ slug: "sdk-for-ios-explore-maploader"
 
   <div class="abstract">
 
-  This method will be called on the main thread when
-
-      ExternalMapDataSourceClient.configureRemoteConnectionAsync(...)
-
-  has been completed.
-  </p>
+  This method will be called on the main thread when <a href="sdk-for-ios-explore-classes-externalmapdatasourceclient#sdk-for-ios-explore-s-7heresdk27ExternalMapDataSourceClientC30configureRemoteConnectionAsync3url6engine11credentials8callbackAA10TaskHandle_pSS_AA15SDKNativeEngineCAA03SslF18CredentialsOptionsVSgyAA0bcdE9ErrorCodeOSgctF">`ExternalMapDataSourceClient.configureRemoteConnectionAsync(...)`</a> has been completed.
 
   </div>
 
@@ -389,12 +385,14 @@ slug: "sdk-for-ios-explore-maploader"
   Swift
 
   ``` highlight
-  public typealias ConfigureConnectionHandle = ( _ errorCode : ExternalMapDataSourceErrorCode ?) -> Void
+  public typealias ConfigureConnectionHandle = (_ errorCode: ExternalMapDataSourceErrorCode?) -> Void
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-externalmapdatasourceerrorcode">ExternalMapDataSourceErrorCode</a>
 
   </div>
 
@@ -425,7 +423,7 @@ slug: "sdk-for-ios-explore-maploader"
 
 - <div>
 
-  ` `<span id="/s:7heresdk18DataAttributesBaseP"></span>` `<span id="//apple_ref/swift/Protocol/DataAttributesBase" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maploader#/s:7heresdk18DataAttributesBaseP" class="token"><code>DataAttributesBase</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18DataAttributesBaseP"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Protocol-DataAttributesBase" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maploader#sdk-for-ios-explore-s-7heresdk18DataAttributesBaseP" class="token"><code>DataAttributesBase</code></a> 
 
   </div>
 
@@ -473,7 +471,7 @@ slug: "sdk-for-ios-explore-maploader"
 
 - <div>
 
-  ` `<span id="/s:7heresdk30DeleteRegionsCompletionHandlera"></span>` `<span id="//apple_ref/swift/Alias/DeleteRegionsCompletionHandler" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maploader#/s:7heresdk30DeleteRegionsCompletionHandlera" class="token"><code>DeleteRegionsCompletionHandler</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk30DeleteRegionsCompletionHandlera"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Alias-DeleteRegionsCompletionHandler" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maploader#sdk-for-ios-explore-s-7heresdk30DeleteRegionsCompletionHandlera" class="token"><code>DeleteRegionsCompletionHandler</code></a> 
 
   </div>
 
@@ -491,12 +489,7 @@ slug: "sdk-for-ios-explore-maploader"
 
   <div class="abstract">
 
-  A method which is called on the main thread when
-
-      MapDownloader.deleteRegions(...)
-
-  has been completed.
-  </p>
+  A method which is called on the main thread when <a href="sdk-for-ios-explore-classes-mapdownloader#sdk-for-ios-explore-s-7heresdk13MapDownloaderC13deleteRegions7regions10completionySayAA8RegionIdVG_yAA0B11LoaderErrorOSg_AISgtctF">`MapDownloader.deleteRegions(...)`</a> has been completed.
 
   </div>
 
@@ -509,12 +502,15 @@ slug: "sdk-for-ios-explore-maploader"
   Swift
 
   ``` highlight
-  public typealias DeleteRegionsCompletionHandler = ( _ maploaderError : MapLoaderError ?, _ regions : [ RegionId ]?) -> Void
+  public typealias DeleteRegionsCompletionHandler = (_ maploaderError: MapLoaderError?, _ regions: [RegionId]?) -> Void
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-maploadererror">MapLoaderError</a>
+  - <a href="sdk-for-ios-explore-structs-regionid">RegionId</a>
 
   </div>
 
@@ -551,7 +547,7 @@ slug: "sdk-for-ios-explore-maploader"
 
 - <div>
 
-  ` `<span id="/s:7heresdk29DownloadRegionsStatusListenerP"></span>` `<span id="//apple_ref/swift/Protocol/DownloadRegionsStatusListener" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maploader#/s:7heresdk29DownloadRegionsStatusListenerP" class="token"><code>DownloadRegionsStatusListener</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk29DownloadRegionsStatusListenerP"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Protocol-DownloadRegionsStatusListener" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maploader#sdk-for-ios-explore-s-7heresdk29DownloadRegionsStatusListenerP" class="token"><code>DownloadRegionsStatusListener</code></a> 
 
   </div>
 
@@ -597,7 +593,7 @@ slug: "sdk-for-ios-explore-maploader"
 
 - <div>
 
-  ` `<span id="/s:7heresdk27ExternalMapDataSourceClientC"></span>` `<span id="//apple_ref/swift/Class/ExternalMapDataSourceClient" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maploader#/s:7heresdk27ExternalMapDataSourceClientC" class="token"><code>ExternalMapDataSourceClient</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk27ExternalMapDataSourceClientC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-ExternalMapDataSourceClient" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maploader#sdk-for-ios-explore-s-7heresdk27ExternalMapDataSourceClientC" class="token"><code>ExternalMapDataSourceClient</code></a> 
 
   </div>
 
@@ -651,7 +647,7 @@ slug: "sdk-for-ios-explore-maploader"
 
 - <div>
 
-  ` `<span id="/s:7heresdk30ExternalMapDataSourceErrorCodeO"></span>` `<span id="//apple_ref/swift/Enum/ExternalMapDataSourceErrorCode" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maploader#/s:7heresdk30ExternalMapDataSourceErrorCodeO" class="token"><code>ExternalMapDataSourceErrorCode</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk30ExternalMapDataSourceErrorCodeO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-ExternalMapDataSourceErrorCode" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maploader#sdk-for-ios-explore-s-7heresdk30ExternalMapDataSourceErrorCodeO" class="token"><code>ExternalMapDataSourceErrorCode</code></a> 
 
   </div>
 
@@ -701,7 +697,7 @@ slug: "sdk-for-ios-explore-maploader"
 
 - <div>
 
-  ` `<span id="/s:7heresdk35ExternalMapDataSourceExceptionErrora"></span>` `<span id="//apple_ref/swift/Alias/ExternalMapDataSourceExceptionError" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maploader#/s:7heresdk35ExternalMapDataSourceExceptionErrora" class="token"><code>ExternalMapDataSourceExceptionError</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk35ExternalMapDataSourceExceptionErrora"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Alias-ExternalMapDataSourceExceptionError" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maploader#sdk-for-ios-explore-s-7heresdk35ExternalMapDataSourceExceptionErrora" class="token"><code>ExternalMapDataSourceExceptionError</code></a> 
 
   </div>
 
@@ -737,6 +733,10 @@ slug: "sdk-for-ios-explore-maploader"
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-externalmapdatasourceerrorcode">ExternalMapDataSourceErrorCode</a>
+
   </div>
 
   </div>
@@ -745,7 +745,7 @@ slug: "sdk-for-ios-explore-maploader"
 
 - <div>
 
-  ` `<span id="/s:7heresdk27ExternalMapDataSourceServerC"></span>` `<span id="//apple_ref/swift/Class/ExternalMapDataSourceServer" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maploader#/s:7heresdk27ExternalMapDataSourceServerC" class="token"><code>ExternalMapDataSourceServer</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk27ExternalMapDataSourceServerC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-ExternalMapDataSourceServer" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maploader#sdk-for-ios-explore-s-7heresdk27ExternalMapDataSourceServerC" class="token"><code>ExternalMapDataSourceServer</code></a> 
 
   </div>
 
@@ -799,7 +799,7 @@ slug: "sdk-for-ios-explore-maploader"
 
 - <div>
 
-  ` `<span id="/s:7heresdk16InstalledCatalogV"></span>` `<span id="//apple_ref/swift/Struct/InstalledCatalog" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maploader#/s:7heresdk16InstalledCatalogV" class="token"><code>InstalledCatalog</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16InstalledCatalogV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-InstalledCatalog" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maploader#sdk-for-ios-explore-s-7heresdk16InstalledCatalogV" class="token"><code>InstalledCatalog</code></a> 
 
   </div>
 
@@ -845,7 +845,7 @@ slug: "sdk-for-ios-explore-maploader"
 
 - <div>
 
-  ` `<span id="/s:7heresdk15InstalledRegionV"></span>` `<span id="//apple_ref/swift/Struct/InstalledRegion" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maploader#/s:7heresdk15InstalledRegionV" class="token"><code>InstalledRegion</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15InstalledRegionV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-InstalledRegion" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maploader#sdk-for-ios-explore-s-7heresdk15InstalledRegionV" class="token"><code>InstalledRegion</code></a> 
 
   </div>
 
@@ -891,7 +891,7 @@ slug: "sdk-for-ios-explore-maploader"
 
 - <div>
 
-  ` `<span id="/s:7heresdk21InstalledRegionStatusO"></span>` `<span id="//apple_ref/swift/Enum/InstalledRegionStatus" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maploader#/s:7heresdk21InstalledRegionStatusO" class="token"><code>InstalledRegionStatus</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk21InstalledRegionStatusO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-InstalledRegionStatus" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maploader#sdk-for-ios-explore-s-7heresdk21InstalledRegionStatusO" class="token"><code>InstalledRegionStatus</code></a> 
 
   </div>
 
@@ -937,7 +937,7 @@ slug: "sdk-for-ios-explore-maploader"
 
 - <div>
 
-  ` `<span id="/s:7heresdk8LineDataC"></span>` `<span id="//apple_ref/swift/Class/LineData" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maploader#/s:7heresdk8LineDataC" class="token"><code>LineData</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk8LineDataC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-LineData" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maploader#sdk-for-ios-explore-s-7heresdk8LineDataC" class="token"><code>LineData</code></a> 
 
   </div>
 
@@ -991,7 +991,7 @@ slug: "sdk-for-ios-explore-maploader"
 
 - <div>
 
-  ` `<span id="/s:7heresdk16LineDataAccessorC"></span>` `<span id="//apple_ref/swift/Class/LineDataAccessor" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maploader#/s:7heresdk16LineDataAccessorC" class="token"><code>LineDataAccessor</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16LineDataAccessorC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-LineDataAccessor" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maploader#sdk-for-ios-explore-s-7heresdk16LineDataAccessorC" class="token"><code>LineDataAccessor</code></a> 
 
   </div>
 
@@ -1047,7 +1047,7 @@ slug: "sdk-for-ios-explore-maploader"
 
 - <div>
 
-  ` `<span id="/s:7heresdk15LineDataBuilderC"></span>` `<span id="//apple_ref/swift/Class/LineDataBuilder" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maploader#/s:7heresdk15LineDataBuilderC" class="token"><code>LineDataBuilder</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15LineDataBuilderC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-LineDataBuilder" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maploader#sdk-for-ios-explore-s-7heresdk15LineDataBuilderC" class="token"><code>LineDataBuilder</code></a> 
 
   </div>
 
@@ -1065,7 +1065,7 @@ slug: "sdk-for-ios-explore-maploader"
 
   <div class="abstract">
 
-  Builder of <a href="sdk-for-ios-explore-maploader#/s:7heresdk8LineDataC">`LineData`</a> instances.
+  Builder of <a href="sdk-for-ios-explore-maploader#sdk-for-ios-explore-s-7heresdk8LineDataC">`LineData`</a> instances.
 
   Note: This is a beta release of this feature, so there could be a few bugs and unexpected behavior. Related APIs may change for new releases without a deprecation process.
 
@@ -1103,7 +1103,7 @@ slug: "sdk-for-ios-explore-maploader"
 
 - <div>
 
-  ` `<span id="/s:7heresdk14LineDataSourceC"></span>` `<span id="//apple_ref/swift/Class/LineDataSource" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maploader#/s:7heresdk14LineDataSourceC" class="token"><code>LineDataSource</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14LineDataSourceC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-LineDataSource" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maploader#sdk-for-ios-explore-s-7heresdk14LineDataSourceC" class="token"><code>LineDataSource</code></a> 
 
   </div>
 
@@ -1161,7 +1161,7 @@ slug: "sdk-for-ios-explore-maploader"
 
 - <div>
 
-  ` `<span id="/s:7heresdk21LineDataSourceBuilderC"></span>` `<span id="//apple_ref/swift/Class/LineDataSourceBuilder" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maploader#/s:7heresdk21LineDataSourceBuilderC" class="token"><code>LineDataSourceBuilder</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk21LineDataSourceBuilderC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-LineDataSourceBuilder" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maploader#sdk-for-ios-explore-s-7heresdk21LineDataSourceBuilderC" class="token"><code>LineDataSourceBuilder</code></a> 
 
   </div>
 
@@ -1217,7 +1217,7 @@ slug: "sdk-for-ios-explore-maploader"
 
 - <div>
 
-  ` `<span id="/s:7heresdk14MapLoaderErrorO"></span>` `<span id="//apple_ref/swift/Enum/MapLoaderError" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maploader#/s:7heresdk14MapLoaderErrorO" class="token"><code>MapLoaderError</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14MapLoaderErrorO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-MapLoaderError" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maploader#sdk-for-ios-explore-s-7heresdk14MapLoaderErrorO" class="token"><code>MapLoaderError</code></a> 
 
   </div>
 
@@ -1267,7 +1267,7 @@ slug: "sdk-for-ios-explore-maploader"
 
 - <div>
 
-  ` `<span id="/s:7heresdk13MapDownloaderC"></span>` `<span id="//apple_ref/swift/Class/MapDownloader" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maploader#/s:7heresdk13MapDownloaderC" class="token"><code>MapDownloader</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13MapDownloaderC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-MapDownloader" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maploader#sdk-for-ios-explore-s-7heresdk13MapDownloaderC" class="token"><code>MapDownloader</code></a> 
 
   </div>
 
@@ -1285,14 +1285,9 @@ slug: "sdk-for-ios-explore-maploader"
 
   <div class="abstract">
 
-  A class for downloading and managing map data for various regions worldwide. Downloaded map data is permanently stored on disk, enabling maps at all zoom levels, search, routing, and other features without an active data connection. Users can query available regions, download them to disk, or delete them. An instance of this class can be created using
+  A class for downloading and managing map data for various regions worldwide. Downloaded map data is permanently stored on disk, enabling maps at all zoom levels, search, routing, and other features without an active data connection. Users can query available regions, download them to disk, or delete them. An instance of this class can be created using <a href="sdk-for-ios-explore-classes-mapdownloader#sdk-for-ios-explore-s-7heresdk13MapDownloaderC15fromEngineAsyncyyAA09SDKNativeE0C_yACctFZ">`MapDownloader.fromEngineAsync(...)`</a>.
 
-      MapDownloader.fromEngineAsync(...)
-
-  .
-  </p>
-
-  The storage path for downloaded maps can be specified via <a href="sdk-for-ios-explore-structs-sdkoptions#/s:7heresdk10SDKOptionsV24persistentMapStoragePathSSvp">`SDKOptions.persistentMapStoragePath`</a>.
+  The storage path for downloaded maps can be specified via <a href="sdk-for-ios-explore-structs-sdkoptions#sdk-for-ios-explore-s-7heresdk10SDKOptionsV24persistentMapStoragePathSSvp">`SDKOptions.persistentMapStoragePath`</a>.
 
   To control the type of content included in a map download, use <a href="sdk-for-ios-explore-structs-layerconfiguration">`LayerConfiguration`</a>. Once applied, it affects both the map cache and offline maps. Satellite-based map schemes are not included in the downloaded region data.
 
@@ -1332,7 +1327,7 @@ slug: "sdk-for-ios-explore-maploader"
 
 - <div>
 
-  ` `<span id="/s:7heresdk31MapDownloaderConstructionHandlea"></span>` `<span id="//apple_ref/swift/Alias/MapDownloaderConstructionHandle" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maploader#/s:7heresdk31MapDownloaderConstructionHandlea" class="token"><code>MapDownloaderConstructionHandle</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk31MapDownloaderConstructionHandlea"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Alias-MapDownloaderConstructionHandle" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maploader#sdk-for-ios-explore-s-7heresdk31MapDownloaderConstructionHandlea" class="token"><code>MapDownloaderConstructionHandle</code></a> 
 
   </div>
 
@@ -1350,12 +1345,7 @@ slug: "sdk-for-ios-explore-maploader"
 
   <div class="abstract">
 
-  A method which is called on the main thread when
-
-      MapDownloader.fromEngineAsync(...)
-
-  has been completed. The <a href="sdk-for-ios-explore-classes-mapdownloader">`MapDownloader`</a> instance is created on a background thread to not block the calling thread.
-  </p>
+  A method which is called on the main thread when <a href="sdk-for-ios-explore-classes-mapdownloader#sdk-for-ios-explore-s-7heresdk13MapDownloaderC15fromEngineAsyncyyAA09SDKNativeE0C_yACctFZ">`MapDownloader.fromEngineAsync(...)`</a> has been completed. The <a href="sdk-for-ios-explore-classes-mapdownloader">`MapDownloader`</a> instance is created on a background thread to not block the calling thread.
 
   During construction an online connection is established to fetch configuration data for internal use. If no online connection is available, cached or default values will be used. This is only for internal reasons and has no effect on the operability of the resulting instance. When configuration data is available from the cache, construction can still take a reasonable amount of time. Applications should consider to show a loading indicator.
 
@@ -1370,12 +1360,14 @@ slug: "sdk-for-ios-explore-maploader"
   Swift
 
   ``` highlight
-  public typealias MapDownloaderConstructionHandle = ( _ mapDownloader : MapDownloader ) -> Void
+  public typealias MapDownloaderConstructionHandle = (_ mapDownloader: MapDownloader) -> Void
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-mapdownloader">MapDownloader</a>
 
   </div>
 
@@ -1406,7 +1398,7 @@ slug: "sdk-for-ios-explore-maploader"
 
 - <div>
 
-  ` `<span id="/s:7heresdk18MapLoaderExceptiona"></span>` `<span id="//apple_ref/swift/Alias/MapLoaderException" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maploader#/s:7heresdk18MapLoaderExceptiona" class="token"><code>MapLoaderException</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18MapLoaderExceptiona"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Alias-MapLoaderException" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maploader#sdk-for-ios-explore-s-7heresdk18MapLoaderExceptiona" class="token"><code>MapLoaderException</code></a> 
 
   </div>
 
@@ -1442,6 +1434,10 @@ slug: "sdk-for-ios-explore-maploader"
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-maploadererror">MapLoaderError</a>
+
   </div>
 
   </div>
@@ -1450,7 +1446,7 @@ slug: "sdk-for-ios-explore-maploader"
 
 - <div>
 
-  ` `<span id="/s:7heresdk17MapDownloaderTaskC"></span>` `<span id="//apple_ref/swift/Class/MapDownloaderTask" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maploader#/s:7heresdk17MapDownloaderTaskC" class="token"><code>MapDownloaderTask</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17MapDownloaderTaskC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-MapDownloaderTask" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maploader#sdk-for-ios-explore-s-7heresdk17MapDownloaderTaskC" class="token"><code>MapDownloaderTask</code></a> 
 
   </div>
 
@@ -1504,7 +1500,7 @@ slug: "sdk-for-ios-explore-maploader"
 
 - <div>
 
-  ` `<span id="/s:7heresdk25MapUpdateProgressListenerP"></span>` `<span id="//apple_ref/swift/Protocol/MapUpdateProgressListener" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maploader#/s:7heresdk25MapUpdateProgressListenerP" class="token"><code>MapUpdateProgressListener</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk25MapUpdateProgressListenerP"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Protocol-MapUpdateProgressListener" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maploader#sdk-for-ios-explore-s-7heresdk25MapUpdateProgressListenerP" class="token"><code>MapUpdateProgressListener</code></a> 
 
   </div>
 
@@ -1550,7 +1546,7 @@ slug: "sdk-for-ios-explore-maploader"
 
 - <div>
 
-  ` `<span id="/s:7heresdk10MapUpdaterC"></span>` `<span id="//apple_ref/swift/Class/MapUpdater" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maploader#/s:7heresdk10MapUpdaterC" class="token"><code>MapUpdater</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10MapUpdaterC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-MapUpdater" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maploader#sdk-for-ios-explore-s-7heresdk10MapUpdaterC" class="token"><code>MapUpdater</code></a> 
 
   </div>
 
@@ -1568,19 +1564,9 @@ slug: "sdk-for-ios-explore-maploader"
 
   <div class="abstract">
 
-  A class for updating regions previously downloaded using the <a href="sdk-for-ios-explore-classes-mapdownloader">`MapDownloader`</a>. First, updates for the regions are downloaded. Once the download is complete, the update process begins, installing the new content. It is recommended to regularly call
+  A class for updating regions previously downloaded using the <a href="sdk-for-ios-explore-classes-mapdownloader">`MapDownloader`</a>. First, updates for the regions are downloaded. Once the download is complete, the update process begins, installing the new content. It is recommended to regularly call <a href="sdk-for-ios-explore-classes-mapupdater#sdk-for-ios-explore-s-7heresdk10MapUpdaterC26retrieveCatalogsUpdateInfo8callbackAA10TaskHandle_pyAA0B11LoaderErrorOSg_SayAA07CatalogfG0VGSgtc_tF">`MapUpdater.retrieveCatalogsUpdateInfo(...)`</a> to check for available updates for any downloaded regions.
 
-      MapUpdater.retrieveCatalogsUpdateInfo(...)
-
-  to check for available updates for any downloaded regions.
-  </p>
-
-  If updates are available, regions can be updated asynchronously using
-
-      MapUpdater.updateCatalog(...)
-
-  . The <a href="sdk-for-ios-explore-protocols-mapupdateprogresslistener">`MapUpdateProgressListener`</a> provides update progress for each region.
-  </p>
+  If updates are available, regions can be updated asynchronously using <a href="sdk-for-ios-explore-classes-mapupdater#sdk-for-ios-explore-s-7heresdk10MapUpdaterC13updateCatalog11catalogInfo10completionAA0E10UpdateTaskCAA0eiG0V_AA0eI16ProgressListener_ptF">`MapUpdater.updateCatalog(...)`</a>. The <a href="sdk-for-ios-explore-protocols-mapupdateprogresslistener">`MapUpdateProgressListener`</a> provides update progress for each region.
 
   Incremental map updates are supported, by default: Instead of downloading an entire region, only the parts that have changed will be installed. This results in a faster update process. MapUpdater also aligns previously downloaded content with <a href="sdk-for-ios-explore-structs-layerconfiguration">`LayerConfiguration`</a> changes made via <a href="sdk-for-ios-explore-structs-sdkoptions">`SDKOptions`</a>.
 
@@ -1597,7 +1583,7 @@ slug: "sdk-for-ios-explore-maploader"
   .
   </p>
 
-  Note that a <a href="sdk-for-ios-explore-enums-maploadererror#/s:7heresdk14MapLoaderErrorO8notReadyyA2CmF">`MapLoaderError.notReady`</a> occurs when the <a href="sdk-for-ios-explore-classes-mapdownloader">`MapDownloader`</a> is used in parallel. In general, background updates are not supported explicitly, as the OS can abort background processes. In addition, the OfflineSearchEngine and the OfflineRoutingEngine cannot be used while a map update is in progress and it will be indicated by a <a href="sdk-for-ios-explore-enums-maploadererror">`MapLoaderError`</a>.
+  Note that a <a href="sdk-for-ios-explore-enums-maploadererror#sdk-for-ios-explore-s-7heresdk14MapLoaderErrorO8notReadyyA2CmF">`MapLoaderError.notReady`</a> occurs when the <a href="sdk-for-ios-explore-classes-mapdownloader">`MapDownloader`</a> is used in parallel. In general, background updates are not supported explicitly, as the OS can abort background processes. In addition, the OfflineSearchEngine and the OfflineRoutingEngine cannot be used while a map update is in progress and it will be indicated by a <a href="sdk-for-ios-explore-enums-maploadererror">`MapLoaderError`</a>.
 
   <a href="sdk-for-ios-explore-classes-mapupdater" class="slightly-smaller">See more</a>
 
@@ -1633,7 +1619,7 @@ slug: "sdk-for-ios-explore-maploader"
 
 - <div>
 
-  ` `<span id="/s:7heresdk29MapUpdaterConstructionHandlera"></span>` `<span id="//apple_ref/swift/Alias/MapUpdaterConstructionHandler" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maploader#/s:7heresdk29MapUpdaterConstructionHandlera" class="token"><code>MapUpdaterConstructionHandler</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk29MapUpdaterConstructionHandlera"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Alias-MapUpdaterConstructionHandler" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maploader#sdk-for-ios-explore-s-7heresdk29MapUpdaterConstructionHandlera" class="token"><code>MapUpdaterConstructionHandler</code></a> 
 
   </div>
 
@@ -1651,12 +1637,7 @@ slug: "sdk-for-ios-explore-maploader"
 
   <div class="abstract">
 
-  A method which is called on the main thread when
-
-      MapUpdater.fromEngineAsync(...)
-
-  has been completed. Construction requires the online configuration to be fetched, which in case of sync API, would block the calling thread. When configuration is cached, it is enough to read it from the disk, this operation still takes relatively big time.
-  </p>
+  A method which is called on the main thread when <a href="sdk-for-ios-explore-classes-mapupdater#sdk-for-ios-explore-s-7heresdk10MapUpdaterC15fromEngineAsyncyyAA09SDKNativeE0C_yACctFZ">`MapUpdater.fromEngineAsync(...)`</a> has been completed. Construction requires the online configuration to be fetched, which in case of sync API, would block the calling thread. When configuration is cached, it is enough to read it from the disk, this operation still takes relatively big time.
 
   </div>
 
@@ -1669,12 +1650,14 @@ slug: "sdk-for-ios-explore-maploader"
   Swift
 
   ``` highlight
-  public typealias MapUpdaterConstructionHandler = ( _ mapUpdater : MapUpdater ) -> Void
+  public typealias MapUpdaterConstructionHandler = (_ mapUpdater: MapUpdater) -> Void
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-mapupdater">MapUpdater</a>
 
   </div>
 
@@ -1705,7 +1688,7 @@ slug: "sdk-for-ios-explore-maploader"
 
 - <div>
 
-  ` `<span id="/s:7heresdk13MapUpdateTaskC"></span>` `<span id="//apple_ref/swift/Class/MapUpdateTask" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maploader#/s:7heresdk13MapUpdateTaskC" class="token"><code>MapUpdateTask</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13MapUpdateTaskC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-MapUpdateTask" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maploader#sdk-for-ios-explore-s-7heresdk13MapUpdateTaskC" class="token"><code>MapUpdateTask</code></a> 
 
   </div>
 
@@ -1759,7 +1742,7 @@ slug: "sdk-for-ios-explore-maploader"
 
 - <div>
 
-  ` `<span id="/s:7heresdk16MapVersionHandleC"></span>` `<span id="//apple_ref/swift/Class/MapVersionHandle" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maploader#/s:7heresdk16MapVersionHandleC" class="token"><code>MapVersionHandle</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16MapVersionHandleC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-MapVersionHandle" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maploader#sdk-for-ios-explore-s-7heresdk16MapVersionHandleC" class="token"><code>MapVersionHandle</code></a> 
 
   </div>
 
@@ -1813,7 +1796,7 @@ slug: "sdk-for-ios-explore-maploader"
 
 - <div>
 
-  ` `<span id="/s:7heresdk16NavigabilityTypeO"></span>` `<span id="//apple_ref/swift/Enum/NavigabilityType" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maploader#/s:7heresdk16NavigabilityTypeO" class="token"><code>NavigabilityType</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16NavigabilityTypeO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-NavigabilityType" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maploader#sdk-for-ios-explore-s-7heresdk16NavigabilityTypeO" class="token"><code>NavigabilityType</code></a> 
 
   </div>
 
@@ -1859,7 +1842,7 @@ slug: "sdk-for-ios-explore-maploader"
 
 - <div>
 
-  ` `<span id="/s:7heresdk25OfflineStorageSizeHandlera"></span>` `<span id="//apple_ref/swift/Alias/OfflineStorageSizeHandler" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maploader#/s:7heresdk25OfflineStorageSizeHandlera" class="token"><code>OfflineStorageSizeHandler</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk25OfflineStorageSizeHandlera"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Alias-OfflineStorageSizeHandler" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maploader#sdk-for-ios-explore-s-7heresdk25OfflineStorageSizeHandlera" class="token"><code>OfflineStorageSizeHandler</code></a> 
 
   </div>
 
@@ -1895,12 +1878,14 @@ slug: "sdk-for-ios-explore-maploader"
   Swift
 
   ``` highlight
-  public typealias OfflineStorageSizeHandler = ( _ error : MapLoaderError ?, _ size : UInt64 ?) -> Void
+  public typealias OfflineStorageSizeHandler = (_ error: MapLoaderError?, _ size: UInt64?) -> Void
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-maploadererror">MapLoaderError</a>
 
   </div>
 
@@ -1937,7 +1922,7 @@ slug: "sdk-for-ios-explore-maploader"
 
 - <div>
 
-  ` `<span id="/s:7heresdk23RepairCompletionHandlera"></span>` `<span id="//apple_ref/swift/Alias/RepairCompletionHandler" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maploader#/s:7heresdk23RepairCompletionHandlera" class="token"><code>RepairCompletionHandler</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk23RepairCompletionHandlera"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Alias-RepairCompletionHandler" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maploader#sdk-for-ios-explore-s-7heresdk23RepairCompletionHandlera" class="token"><code>RepairCompletionHandler</code></a> 
 
   </div>
 
@@ -1955,12 +1940,7 @@ slug: "sdk-for-ios-explore-maploader"
 
   <div class="abstract">
 
-  A method which is called on the main thread when
-
-      MapDownloader.repairPersistentMap(...)
-
-  has been completed. The first argument indicates an error in case of a failure. The second argument contains the results. Both arguments cannot be `nil` at the same time - or not `nil` at the same time.
-  </p>
+  A method which is called on the main thread when <a href="sdk-for-ios-explore-classes-mapdownloader#sdk-for-ios-explore-s-7heresdk13MapDownloaderC016repairPersistentB010completionyyAA0eB11RepairErrorOSgc_tF">`MapDownloader.repairPersistentMap(...)`</a> has been completed. The first argument indicates an error in case of a failure. The second argument contains the results. Both arguments cannot be `nil` at the same time - or not `nil` at the same time.
 
   </div>
 
@@ -1973,12 +1953,14 @@ slug: "sdk-for-ios-explore-maploader"
   Swift
 
   ``` highlight
-  public typealias RepairCompletionHandler = ( _ persistentMapRepairError : PersistentMapRepairError ?) -> Void
+  public typealias RepairCompletionHandler = (_ persistentMapRepairError: PersistentMapRepairError?) -> Void
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-persistentmaprepairerror">PersistentMapRepairError</a>
 
   </div>
 
@@ -2009,7 +1991,7 @@ slug: "sdk-for-ios-explore-maploader"
 
 - <div>
 
-  ` `<span id="/s:7heresdk14PemKeyCertPairV"></span>` `<span id="//apple_ref/swift/Struct/PemKeyCertPair" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maploader#/s:7heresdk14PemKeyCertPairV" class="token"><code>PemKeyCertPair</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14PemKeyCertPairV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-PemKeyCertPair" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maploader#sdk-for-ios-explore-s-7heresdk14PemKeyCertPairV" class="token"><code>PemKeyCertPair</code></a> 
 
   </div>
 
@@ -2055,7 +2037,7 @@ slug: "sdk-for-ios-explore-maploader"
 
 - <div>
 
-  ` `<span id="/s:7heresdk24PersistentMapRepairErrorO"></span>` `<span id="//apple_ref/swift/Enum/PersistentMapRepairError" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maploader#/s:7heresdk24PersistentMapRepairErrorO" class="token"><code>PersistentMapRepairError</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk24PersistentMapRepairErrorO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-PersistentMapRepairError" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maploader#sdk-for-ios-explore-s-7heresdk24PersistentMapRepairErrorO" class="token"><code>PersistentMapRepairError</code></a> 
 
   </div>
 
@@ -2101,7 +2083,7 @@ slug: "sdk-for-ios-explore-maploader"
 
 - <div>
 
-  ` `<span id="/s:7heresdk19PersistentMapStatusO"></span>` `<span id="//apple_ref/swift/Enum/PersistentMapStatus" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maploader#/s:7heresdk19PersistentMapStatusO" class="token"><code>PersistentMapStatus</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19PersistentMapStatusO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-PersistentMapStatus" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maploader#sdk-for-ios-explore-s-7heresdk19PersistentMapStatusO" class="token"><code>PersistentMapStatus</code></a> 
 
   </div>
 
@@ -2119,7 +2101,7 @@ slug: "sdk-for-ios-explore-maploader"
 
   <div class="abstract">
 
-  Specifies possible statuses of the already downloaded map regions as a whole. Note: This can be valid only for a single region in case of a <a href="sdk-for-ios-explore-enums-persistentmapstatus#/s:7heresdk19PersistentMapStatusO9corruptedyA2CmF">`PersistentMapStatus.corrupted`</a> state.
+  Specifies possible statuses of the already downloaded map regions as a whole. Note: This can be valid only for a single region in case of a <a href="sdk-for-ios-explore-enums-persistentmapstatus#sdk-for-ios-explore-s-7heresdk19PersistentMapStatusO9corruptedyA2CmF">`PersistentMapStatus.corrupted`</a> state.
 
   <a href="sdk-for-ios-explore-enums-persistentmapstatus" class="slightly-smaller">See more</a>
 
@@ -2147,7 +2129,7 @@ slug: "sdk-for-ios-explore-maploader"
 
 - <div>
 
-  ` `<span id="/s:7heresdk6RegionV"></span>` `<span id="//apple_ref/swift/Struct/Region" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maploader#/s:7heresdk6RegionV" class="token"><code>Region</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk6RegionV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-Region" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maploader#sdk-for-ios-explore-s-7heresdk6RegionV" class="token"><code>Region</code></a> 
 
   </div>
 
@@ -2193,7 +2175,7 @@ slug: "sdk-for-ios-explore-maploader"
 
 - <div>
 
-  ` `<span id="/s:7heresdk8RegionIdV"></span>` `<span id="//apple_ref/swift/Struct/RegionId" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maploader#/s:7heresdk8RegionIdV" class="token"><code>RegionId</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk8RegionIdV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-RegionId" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maploader#sdk-for-ios-explore-s-7heresdk8RegionIdV" class="token"><code>RegionId</code></a> 
 
   </div>
 
@@ -2239,7 +2221,7 @@ slug: "sdk-for-ios-explore-maploader"
 
 - <div>
 
-  ` `<span id="/s:7heresdk19ServerStartedHandlea"></span>` `<span id="//apple_ref/swift/Alias/ServerStartedHandle" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maploader#/s:7heresdk19ServerStartedHandlea" class="token"><code>ServerStartedHandle</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19ServerStartedHandlea"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Alias-ServerStartedHandle" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maploader#sdk-for-ios-explore-s-7heresdk19ServerStartedHandlea" class="token"><code>ServerStartedHandle</code></a> 
 
   </div>
 
@@ -2257,12 +2239,7 @@ slug: "sdk-for-ios-explore-maploader"
 
   <div class="abstract">
 
-  This method will be called on the main thread when
-
-      ExternalMapDataSourceServer.start(...)
-
-  has been completed.
-  </p>
+  This method will be called on the main thread when <a href="sdk-for-ios-explore-classes-externalmapdatasourceserver#sdk-for-ios-explore-s-7heresdk27ExternalMapDataSourceServerC5start3url6engine17serviceCredential8callbackySS_AA15SDKNativeEngineCAA03SslF18CredentialsOptionsVSgyAA0bcdE9ErrorCodeOSgctF">`ExternalMapDataSourceServer.start(...)`</a> has been completed.
 
   </div>
 
@@ -2275,12 +2252,14 @@ slug: "sdk-for-ios-explore-maploader"
   Swift
 
   ``` highlight
-  public typealias ServerStartedHandle = ( _ errorCode : ExternalMapDataSourceErrorCode ?) -> Void
+  public typealias ServerStartedHandle = (_ errorCode: ExternalMapDataSourceErrorCode?) -> Void
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-externalmapdatasourceerrorcode">ExternalMapDataSourceErrorCode</a>
 
   </div>
 
@@ -2311,7 +2290,7 @@ slug: "sdk-for-ios-explore-maploader"
 
 - <div>
 
-  ` `<span id="/s:7heresdk27SslClientCredentialsOptionsV"></span>` `<span id="//apple_ref/swift/Struct/SslClientCredentialsOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maploader#/s:7heresdk27SslClientCredentialsOptionsV" class="token"><code>SslClientCredentialsOptions</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk27SslClientCredentialsOptionsV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-SslClientCredentialsOptions" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maploader#sdk-for-ios-explore-s-7heresdk27SslClientCredentialsOptionsV" class="token"><code>SslClientCredentialsOptions</code></a> 
 
   </div>
 
@@ -2357,7 +2336,7 @@ slug: "sdk-for-ios-explore-maploader"
 
 - <div>
 
-  ` `<span id="/s:7heresdk27SslServerCredentialsOptionsV"></span>` `<span id="//apple_ref/swift/Struct/SslServerCredentialsOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maploader#/s:7heresdk27SslServerCredentialsOptionsV" class="token"><code>SslServerCredentialsOptions</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk27SslServerCredentialsOptionsV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-SslServerCredentialsOptions" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maploader#sdk-for-ios-explore-s-7heresdk27SslServerCredentialsOptionsV" class="token"><code>SslServerCredentialsOptions</code></a> 
 
   </div>
 
@@ -2403,7 +2382,7 @@ slug: "sdk-for-ios-explore-maploader"
 
 - <div>
 
-  ` `<span id="/s:7heresdk16UpdateStatisticsV"></span>` `<span id="//apple_ref/swift/Struct/UpdateStatistics" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-maploader#/s:7heresdk16UpdateStatisticsV" class="token"><code>UpdateStatistics</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16UpdateStatisticsV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-UpdateStatistics" class="dashAnchor"></span> <a href="sdk-for-ios-explore-maploader#sdk-for-ios-explore-s-7heresdk16UpdateStatisticsV" class="token"><code>UpdateStatistics</code></a> 
 
   </div>
 

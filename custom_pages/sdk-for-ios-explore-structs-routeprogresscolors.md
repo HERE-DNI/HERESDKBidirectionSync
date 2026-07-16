@@ -27,7 +27,7 @@ This struct contains colors for the route progress visualization.
 
 - <div>
 
-  ` `<span id="/s:7heresdk19RouteProgressColorsV5aheadSo7UIColorCvp"></span>` `<span id="//apple_ref/swift/Property/ahead" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-routeprogresscolors#/s:7heresdk19RouteProgressColorsV5aheadSo7UIColorCvp" class="token"><code>ahead</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19RouteProgressColorsV5aheadSo7UIColorCvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-ahead" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-routeprogresscolors#sdk-for-ios-explore-s-7heresdk19RouteProgressColorsV5aheadSo7UIColorCvp" class="token"><code>ahead</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ This struct contains colors for the route progress visualization.
 
 - <div>
 
-  ` `<span id="/s:7heresdk19RouteProgressColorsV6behindSo7UIColorCvp"></span>` `<span id="//apple_ref/swift/Property/behind" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-routeprogresscolors#/s:7heresdk19RouteProgressColorsV6behindSo7UIColorCvp" class="token"><code>behind</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19RouteProgressColorsV6behindSo7UIColorCvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-behind" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-routeprogresscolors#sdk-for-ios-explore-s-7heresdk19RouteProgressColorsV6behindSo7UIColorCvp" class="token"><code>behind</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ This struct contains colors for the route progress visualization.
 
 - <div>
 
-  ` `<span id="/s:7heresdk19RouteProgressColorsV7offRoadSo7UIColorCvp"></span>` `<span id="//apple_ref/swift/Property/offRoad" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-routeprogresscolors#/s:7heresdk19RouteProgressColorsV7offRoadSo7UIColorCvp" class="token"><code>offRoad</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19RouteProgressColorsV7offRoadSo7UIColorCvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-offRoad" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-routeprogresscolors#sdk-for-ios-explore-s-7heresdk19RouteProgressColorsV7offRoadSo7UIColorCvp" class="token"><code>offRoad</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ This struct contains colors for the route progress visualization.
 
 - <div>
 
-  ` `<span id="/s:7heresdk19RouteProgressColorsV12outlineAheadSo7UIColorCvp"></span>` `<span id="//apple_ref/swift/Property/outlineAhead" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-routeprogresscolors#/s:7heresdk19RouteProgressColorsV12outlineAheadSo7UIColorCvp" class="token"><code>outlineAhead</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19RouteProgressColorsV12outlineAheadSo7UIColorCvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-outlineAhead" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-routeprogresscolors#sdk-for-ios-explore-s-7heresdk19RouteProgressColorsV12outlineAheadSo7UIColorCvp" class="token"><code>outlineAhead</code></a> 
 
   </div>
 
@@ -203,7 +203,7 @@ This struct contains colors for the route progress visualization.
 
 - <div>
 
-  ` `<span id="/s:7heresdk19RouteProgressColorsV13outlineBehindSo7UIColorCvp"></span>` `<span id="//apple_ref/swift/Property/outlineBehind" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-routeprogresscolors#/s:7heresdk19RouteProgressColorsV13outlineBehindSo7UIColorCvp" class="token"><code>outlineBehind</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19RouteProgressColorsV13outlineBehindSo7UIColorCvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-outlineBehind" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-routeprogresscolors#sdk-for-ios-explore-s-7heresdk19RouteProgressColorsV13outlineBehindSo7UIColorCvp" class="token"><code>outlineBehind</code></a> 
 
   </div>
 
@@ -247,7 +247,7 @@ This struct contains colors for the route progress visualization.
 
 - <div>
 
-      init(ahead: behind: offRoad: outlineAhead: outlineBehind: )
+   <span id="sdk-for-ios-explore-s-7heresdk19RouteProgressColorsV5ahead6behind7offRoad12outlineAhead0I6BehindACSo7UIColorC_A4Jtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-ahead-behind-offRoad-outlineAhead-outlineBehind" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-routeprogresscolors#sdk-for-ios-explore-s-7heresdk19RouteProgressColorsV5ahead6behind7offRoad12outlineAhead0I6BehindACSo7UIColorC_A4Jtcfc" class="token"><code>init(ahead:</code><wbr></wbr><code>behind:</code><wbr></wbr><code>offRoad:</code><wbr></wbr><code>outlineAhead:</code><wbr></wbr><code>outlineBehind:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -278,10 +278,8 @@ This struct contains colors for the route progress visualization.
   Swift
 
   ``` highlight
-  public init ( ahead : UIColor , behind : UIColor , offRoad : UIColor = NamedColor . white , outlineAhead : UIColor , outlineBehind : UIColor )
+  public init(ahead: UIColor, behind: UIColor, offRoad: UIColor = NamedColor.white, outlineAhead: UIColor, outlineBehind: UIColor)
   ```
-
-  </pre>
 
   </div>
 

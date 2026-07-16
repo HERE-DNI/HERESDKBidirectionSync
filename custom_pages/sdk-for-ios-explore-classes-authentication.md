@@ -35,7 +35,7 @@ Use the authentication class to authenticate and retrieve a secure token that ca
 
 - <div>
 
-      authenticate(sdkNativeEngine: callback: )
+   <span id="sdk-for-ios-explore-s-7heresdk14AuthenticationC12authenticate15sdkNativeEngine8callbackyAA09SDKNativeF0C_yAA0B5ErrorOSg_AA0B4DataVSgtctFZ"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-authenticate-sdkNativeEngine-callback" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-authentication#sdk-for-ios-explore-s-7heresdk14AuthenticationC12authenticate15sdkNativeEngine8callbackyAA09SDKNativeF0C_yAA0B5ErrorOSg_AA0B4DataVSgtctFZ" class="token"><code>authenticate(sdkNativeEngine:</code><wbr></wbr><code>callback:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -66,12 +66,15 @@ Use the authentication class to authenticate and retrieve a secure token that ca
   Swift
 
   ``` highlight
-  public static func authenticate ( sdkNativeEngine : SDKNativeEngine , callback : @escaping AuthenticationCompletionHandler )
+  public static func authenticate(sdkNativeEngine: SDKNativeEngine, callback: @escaping AuthenticationCompletionHandler)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-sdknativeengine">SDKNativeEngine</a>
+  - <a href="sdk-for-ios-explore-core#sdk-for-ios-explore-s-7heresdk31AuthenticationCompletionHandlera">AuthenticationCompletionHandler</a>
 
   </div>
 
@@ -108,7 +111,7 @@ Use the authentication class to authenticate and retrieve a secure token that ca
 
 - <div>
 
-      authenticate(sdkNativeEngine: )
+   <span id="sdk-for-ios-explore-s-7heresdk14AuthenticationC12authenticate15sdkNativeEngineAA0B4DataVAA09SDKNativeF0C_tKFZ"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-authenticate-sdkNativeEngine" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-authentication#sdk-for-ios-explore-s-7heresdk14AuthenticationC12authenticate15sdkNativeEngineAA0B4DataVAA09SDKNativeF0C_tKFZ" class="token"><code>authenticate(sdkNativeEngine:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -132,7 +135,7 @@ Use the authentication class to authenticate and retrieve a secure token that ca
 
   Throws
 
-  <a href="sdk-for-ios-explore-core#/s:7heresdk23AuthenticationExceptiona">`AuthenticationException`</a> Authentication exception that describes the error.
+  <a href="sdk-for-ios-explore-core#sdk-for-ios-explore-s-7heresdk23AuthenticationExceptiona">`AuthenticationException`</a> Authentication exception that describes the error.
 
   </div>
 
@@ -147,12 +150,15 @@ Use the authentication class to authenticate and retrieve a secure token that ca
   Swift
 
   ``` highlight
-  public static func authenticate ( sdkNativeEngine : SDKNativeEngine ) throws -> AuthenticationData
+  public static func authenticate(sdkNativeEngine: SDKNativeEngine) throws -> AuthenticationData
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-sdknativeengine">SDKNativeEngine</a>
+  - <a href="sdk-for-ios-explore-structs-authenticationdata">AuthenticationData</a>
 
   </div>
 

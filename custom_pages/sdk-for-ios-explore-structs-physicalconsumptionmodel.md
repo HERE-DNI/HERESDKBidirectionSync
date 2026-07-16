@@ -27,7 +27,7 @@ Defines the physical consumption model for electric vehicles, using vehicle-spec
 
 - <div>
 
-  ` `<span id="/s:7heresdk24PhysicalConsumptionModelV20driveTrainEfficiencySdvp"></span>` `<span id="//apple_ref/swift/Property/driveTrainEfficiency" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-physicalconsumptionmodel#/s:7heresdk24PhysicalConsumptionModelV20driveTrainEfficiencySdvp" class="token"><code>driveTrainEfficiency</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk24PhysicalConsumptionModelV20driveTrainEfficiencySdvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-driveTrainEfficiency" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-physicalconsumptionmodel#sdk-for-ios-explore-s-7heresdk24PhysicalConsumptionModelV20driveTrainEfficiencySdvp" class="token"><code>driveTrainEfficiency</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Defines the physical consumption model for electric vehicles, using vehicle-spec
 
 - <div>
 
-  ` `<span id="/s:7heresdk24PhysicalConsumptionModelV22recuperationEfficiencySdvp"></span>` `<span id="//apple_ref/swift/Property/recuperationEfficiency" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-physicalconsumptionmodel#/s:7heresdk24PhysicalConsumptionModelV22recuperationEfficiencySdvp" class="token"><code>recuperationEfficiency</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk24PhysicalConsumptionModelV22recuperationEfficiencySdvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-recuperationEfficiency" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-physicalconsumptionmodel#sdk-for-ios-explore-s-7heresdk24PhysicalConsumptionModelV22recuperationEfficiencySdvp" class="token"><code>recuperationEfficiency</code></a> 
 
   </div>
 
@@ -117,7 +117,7 @@ Defines the physical consumption model for electric vehicles, using vehicle-spec
 
 - <div>
 
-  ` `<span id="/s:7heresdk24PhysicalConsumptionModelV014auxiliaryPowerC7InWattsSdvp"></span>` `<span id="//apple_ref/swift/Property/auxiliaryPowerConsumptionInWatts" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-physicalconsumptionmodel#/s:7heresdk24PhysicalConsumptionModelV014auxiliaryPowerC7InWattsSdvp" class="token"><code>auxiliaryPowerConsumptionInWatts</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk24PhysicalConsumptionModelV014auxiliaryPowerC7InWattsSdvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-auxiliaryPowerConsumptionInWatts" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-physicalconsumptionmodel#sdk-for-ios-explore-s-7heresdk24PhysicalConsumptionModelV014auxiliaryPowerC7InWattsSdvp" class="token"><code>auxiliaryPowerConsumptionInWatts</code></a> 
 
   </div>
 
@@ -163,7 +163,7 @@ Defines the physical consumption model for electric vehicles, using vehicle-spec
 
 - <div>
 
-  ` `<span id="/s:7heresdk24PhysicalConsumptionModelV25frontalAreaInSquareMetersSdvp"></span>` `<span id="//apple_ref/swift/Property/frontalAreaInSquareMeters" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-physicalconsumptionmodel#/s:7heresdk24PhysicalConsumptionModelV25frontalAreaInSquareMetersSdvp" class="token"><code>frontalAreaInSquareMeters</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk24PhysicalConsumptionModelV25frontalAreaInSquareMetersSdvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-frontalAreaInSquareMeters" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-physicalconsumptionmodel#sdk-for-ios-explore-s-7heresdk24PhysicalConsumptionModelV25frontalAreaInSquareMetersSdvp" class="token"><code>frontalAreaInSquareMeters</code></a> 
 
   </div>
 
@@ -181,7 +181,7 @@ Defines the physical consumption model for electric vehicles, using vehicle-spec
 
   <div class="abstract">
 
-  Frontal area represents the total cross section area of the vehicle as viewed from the front, specified in square meters. Physical consumption model is using this value in combination with <a href="sdk-for-ios-explore-structs-physicalconsumptionmodel#/s:7heresdk24PhysicalConsumptionModelV18airDragCoefficientSdvp">`airDragCoefficient`</a> to calculate the consumption caused by air resistance. As fallback <a href="sdk-for-ios-explore-structs-vehiclespecification#/s:7heresdk20VehicleSpecificationV18widthInCentimeterss5Int32VSgvp">`VehicleSpecification.widthInCentimeters`</a> and <a href="sdk-for-ios-explore-structs-vehiclespecification#/s:7heresdk20VehicleSpecificationV19heightInCentimeterss5Int32VSgvp">`VehicleSpecification.heightInCentimeters`</a> are used.
+  Frontal area represents the total cross section area of the vehicle as viewed from the front, specified in square meters. Physical consumption model is using this value in combination with <a href="sdk-for-ios-explore-structs-physicalconsumptionmodel#sdk-for-ios-explore-s-7heresdk24PhysicalConsumptionModelV18airDragCoefficientSdvp">`airDragCoefficient`</a> to calculate the consumption caused by air resistance. As fallback <a href="sdk-for-ios-explore-structs-vehiclespecification#sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV18widthInCentimeterss5Int32VSgvp">`VehicleSpecification.widthInCentimeters`</a> and <a href="sdk-for-ios-explore-structs-vehiclespecification#sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV19heightInCentimeterss5Int32VSgvp">`VehicleSpecification.heightInCentimeters`</a> are used.
 
   This parameter is used to provide a more accurate consumption prediction for electric vehicles.
 
@@ -211,7 +211,7 @@ Defines the physical consumption model for electric vehicles, using vehicle-spec
 
 - <div>
 
-  ` `<span id="/s:7heresdk24PhysicalConsumptionModelV28rollingResistanceCoefficientSdvp"></span>` `<span id="//apple_ref/swift/Property/rollingResistanceCoefficient" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-physicalconsumptionmodel#/s:7heresdk24PhysicalConsumptionModelV28rollingResistanceCoefficientSdvp" class="token"><code>rollingResistanceCoefficient</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk24PhysicalConsumptionModelV28rollingResistanceCoefficientSdvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-rollingResistanceCoefficient" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-physicalconsumptionmodel#sdk-for-ios-explore-s-7heresdk24PhysicalConsumptionModelV28rollingResistanceCoefficientSdvp" class="token"><code>rollingResistanceCoefficient</code></a> 
 
   </div>
 
@@ -259,7 +259,7 @@ Defines the physical consumption model for electric vehicles, using vehicle-spec
 
 - <div>
 
-  ` `<span id="/s:7heresdk24PhysicalConsumptionModelV18airDragCoefficientSdvp"></span>` `<span id="//apple_ref/swift/Property/airDragCoefficient" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-physicalconsumptionmodel#/s:7heresdk24PhysicalConsumptionModelV18airDragCoefficientSdvp" class="token"><code>airDragCoefficient</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk24PhysicalConsumptionModelV18airDragCoefficientSdvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-airDragCoefficient" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-physicalconsumptionmodel#sdk-for-ios-explore-s-7heresdk24PhysicalConsumptionModelV18airDragCoefficientSdvp" class="token"><code>airDragCoefficient</code></a> 
 
   </div>
 
@@ -307,7 +307,7 @@ Defines the physical consumption model for electric vehicles, using vehicle-spec
 
 - <div>
 
-      init(driveTrainEfficiency: recuperationEfficiency: auxiliaryPowerConsumptionInWatts: frontalAreaInSquareMeters: rollingResistanceCoefficient: airDragCoefficient: )
+   <span id="sdk-for-ios-explore-s-7heresdk24PhysicalConsumptionModelV20driveTrainEfficiency012recuperationG0014auxiliaryPowerC7InWatts011frontalAreaK12SquareMeters28rollingResistanceCoefficient07airDragS0ACSd_S5dtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-driveTrainEfficiency-recuperationEfficiency-auxiliaryPowerConsumptionInWatts-frontalAreaInSquareMeters-rollingResistanceCoefficient-airDragCoefficient" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-physicalconsumptionmodel#sdk-for-ios-explore-s-7heresdk24PhysicalConsumptionModelV20driveTrainEfficiency012recuperationG0014auxiliaryPowerC7InWatts011frontalAreaK12SquareMeters28rollingResistanceCoefficient07airDragS0ACSd_S5dtcfc" class="token"><code>init(driveTrainEfficiency:</code><wbr></wbr><code>recuperationEfficiency:</code><wbr></wbr><code>auxiliaryPowerConsumptionInWatts:</code><wbr></wbr><code>frontalAreaInSquareMeters:</code><wbr></wbr><code>rollingResistanceCoefficient:</code><wbr></wbr><code>airDragCoefficient:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -338,7 +338,7 @@ Defines the physical consumption model for electric vehicles, using vehicle-spec
 
     The provided value must be greater than or equal to 0.
 
-    - frontalAreaInSquareMeters: Frontal area represents the total cross section area of the vehicle as viewed from the front, specified in square meters. Physical consumption model is using this value in combination with <a href="sdk-for-ios-explore-structs-physicalconsumptionmodel#/s:7heresdk24PhysicalConsumptionModelV18airDragCoefficientSdvp">`airDragCoefficient`</a> to calculate the consumption caused by air resistance. As fallback <a href="sdk-for-ios-explore-structs-vehiclespecification#/s:7heresdk20VehicleSpecificationV18widthInCentimeterss5Int32VSgvp">`VehicleSpecification.widthInCentimeters`</a> and <a href="sdk-for-ios-explore-structs-vehiclespecification#/s:7heresdk20VehicleSpecificationV19heightInCentimeterss5Int32VSgvp">`VehicleSpecification.heightInCentimeters`</a> are used.
+    - frontalAreaInSquareMeters: Frontal area represents the total cross section area of the vehicle as viewed from the front, specified in square meters. Physical consumption model is using this value in combination with <a href="sdk-for-ios-explore-structs-physicalconsumptionmodel#sdk-for-ios-explore-s-7heresdk24PhysicalConsumptionModelV18airDragCoefficientSdvp">`airDragCoefficient`</a> to calculate the consumption caused by air resistance. As fallback <a href="sdk-for-ios-explore-structs-vehiclespecification#sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV18widthInCentimeterss5Int32VSgvp">`VehicleSpecification.widthInCentimeters`</a> and <a href="sdk-for-ios-explore-structs-vehiclespecification#sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV19heightInCentimeterss5Int32VSgvp">`VehicleSpecification.heightInCentimeters`</a> are used.
 
     This parameter is used to provide a more accurate consumption prediction for electric vehicles.
 
@@ -367,10 +367,8 @@ Defines the physical consumption model for electric vehicles, using vehicle-spec
   Swift
 
   ``` highlight
-  public init ( driveTrainEfficiency : Double = 0.1 , recuperationEfficiency : Double = 0.1 , auxiliaryPowerConsumptionInWatts : Double = 0.1 , frontalAreaInSquareMeters : Double = 0.5 , rollingResistanceCoefficient : Double = 0.1 , airDragCoefficient : Double = 0.1 )
+  public init(driveTrainEfficiency: Double = 0.1, recuperationEfficiency: Double = 0.1, auxiliaryPowerConsumptionInWatts: Double = 0.1, frontalAreaInSquareMeters: Double = 0.5, rollingResistanceCoefficient: Double = 0.1, airDragCoefficient: Double = 0.1)
   ```
-
-  </pre>
 
   </div>
 

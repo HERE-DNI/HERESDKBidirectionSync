@@ -19,6 +19,10 @@ extension Easing.InstantiationErrorCode : Error
 
 </div>
 
+Related types:
+
+- <a href="sdk-for-ios-explore-classes-easing">Easing</a>
+
 </div>
 
 Describes a reason for failing to create an <a href="sdk-for-ios-explore-classes-easing">`Easing`</a>.
@@ -31,7 +35,7 @@ Describes a reason for failing to create an <a href="sdk-for-ios-explore-classes
 
 - <div>
 
-  ` `<span id="/s:7heresdk6EasingC22InstantiationErrorCodeO29sampledDataPointCountTooSmallyA2EmF"></span>` `<span id="//apple_ref/swift/Element/sampledDataPointCountTooSmall" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-easing-instantiationerrorcode#/s:7heresdk6EasingC22InstantiationErrorCodeO29sampledDataPointCountTooSmallyA2EmF" class="token"><code>sampledDataPointCountTooSmall</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk6EasingC22InstantiationErrorCodeO29sampledDataPointCountTooSmallyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-sampledDataPointCountTooSmall" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-easing-instantiationerrorcode#sdk-for-ios-explore-s-7heresdk6EasingC22InstantiationErrorCodeO29sampledDataPointCountTooSmallyA2EmF" class="token"><code>sampledDataPointCountTooSmall</code></a> 
 
   </div>
 
@@ -75,7 +79,7 @@ Describes a reason for failing to create an <a href="sdk-for-ios-explore-classes
 
 - <div>
 
-  ` `<span id="/s:7heresdk6EasingC22InstantiationErrorCodeO35sampledDataPointsFirstXValueInvalidyA2EmF"></span>` `<span id="//apple_ref/swift/Element/sampledDataPointsFirstXValueInvalid" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-easing-instantiationerrorcode#/s:7heresdk6EasingC22InstantiationErrorCodeO35sampledDataPointsFirstXValueInvalidyA2EmF" class="token"><code>sampledDataPointsFirstXValueInvalid</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk6EasingC22InstantiationErrorCodeO35sampledDataPointsFirstXValueInvalidyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-sampledDataPointsFirstXValueInvalid" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-easing-instantiationerrorcode#sdk-for-ios-explore-s-7heresdk6EasingC22InstantiationErrorCodeO35sampledDataPointsFirstXValueInvalidyA2EmF" class="token"><code>sampledDataPointsFirstXValueInvalid</code></a> 
 
   </div>
 
@@ -119,7 +123,7 @@ Describes a reason for failing to create an <a href="sdk-for-ios-explore-classes
 
 - <div>
 
-  ` `<span id="/s:7heresdk6EasingC22InstantiationErrorCodeO34sampledDataPointsLastXValueInvalidyA2EmF"></span>` `<span id="//apple_ref/swift/Element/sampledDataPointsLastXValueInvalid" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-easing-instantiationerrorcode#/s:7heresdk6EasingC22InstantiationErrorCodeO34sampledDataPointsLastXValueInvalidyA2EmF" class="token"><code>sampledDataPointsLastXValueInvalid</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk6EasingC22InstantiationErrorCodeO34sampledDataPointsLastXValueInvalidyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-sampledDataPointsLastXValueInvalid" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-easing-instantiationerrorcode#sdk-for-ios-explore-s-7heresdk6EasingC22InstantiationErrorCodeO34sampledDataPointsLastXValueInvalidyA2EmF" class="token"><code>sampledDataPointsLastXValueInvalid</code></a> 
 
   </div>
 
@@ -163,7 +167,7 @@ Describes a reason for failing to create an <a href="sdk-for-ios-explore-classes
 
 - <div>
 
-  ` `<span id="/s:7heresdk6EasingC22InstantiationErrorCodeO27sampledDataXValueOutOfRangeyA2EmF"></span>` `<span id="//apple_ref/swift/Element/sampledDataXValueOutOfRange" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-easing-instantiationerrorcode#/s:7heresdk6EasingC22InstantiationErrorCodeO27sampledDataXValueOutOfRangeyA2EmF" class="token"><code>sampledDataXValueOutOfRange</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk6EasingC22InstantiationErrorCodeO27sampledDataXValueOutOfRangeyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-sampledDataXValueOutOfRange" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-easing-instantiationerrorcode#sdk-for-ios-explore-s-7heresdk6EasingC22InstantiationErrorCodeO27sampledDataXValueOutOfRangeyA2EmF" class="token"><code>sampledDataXValueOutOfRange</code></a> 
 
   </div>
 
@@ -207,7 +211,7 @@ Describes a reason for failing to create an <a href="sdk-for-ios-explore-classes
 
 - <div>
 
-  ` `<span id="/s:7heresdk6EasingC22InstantiationErrorCodeO30sampledDataXValuesNonMonotonicyA2EmF"></span>` `<span id="//apple_ref/swift/Element/sampledDataXValuesNonMonotonic" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-easing-instantiationerrorcode#/s:7heresdk6EasingC22InstantiationErrorCodeO30sampledDataXValuesNonMonotonicyA2EmF" class="token"><code>sampledDataXValuesNonMonotonic</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk6EasingC22InstantiationErrorCodeO30sampledDataXValuesNonMonotonicyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-sampledDataXValuesNonMonotonic" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-easing-instantiationerrorcode#sdk-for-ios-explore-s-7heresdk6EasingC22InstantiationErrorCodeO30sampledDataXValuesNonMonotonicyA2EmF" class="token"><code>sampledDataXValuesNonMonotonic</code></a> 
 
   </div>
 

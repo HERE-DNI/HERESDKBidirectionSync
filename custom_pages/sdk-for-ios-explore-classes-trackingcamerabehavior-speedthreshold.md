@@ -27,7 +27,7 @@ Defines a zoom level triggered when the vehicle reaches a specific speed.
 
 - <div>
 
-  ` `<span id="/s:7heresdk22TrackingCameraBehaviorC14SpeedThresholdV22speedInMetersPerSecondSdvp"></span>` `<span id="//apple_ref/swift/Property/speedInMetersPerSecond" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-trackingcamerabehavior-speedthreshold#/s:7heresdk22TrackingCameraBehaviorC14SpeedThresholdV22speedInMetersPerSecondSdvp" class="token"><code>speedInMetersPerSecond</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk22TrackingCameraBehaviorC14SpeedThresholdV22speedInMetersPerSecondSdvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-speedInMetersPerSecond" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-trackingcamerabehavior-speedthreshold#sdk-for-ios-explore-s-7heresdk22TrackingCameraBehaviorC14SpeedThresholdV22speedInMetersPerSecondSdvp" class="token"><code>speedInMetersPerSecond</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Defines a zoom level triggered when the vehicle reaches a specific speed.
 
 - <div>
 
-  ` `<span id="/s:7heresdk22TrackingCameraBehaviorC14SpeedThresholdV4zoomAA10MapMeasureVvp"></span>` `<span id="//apple_ref/swift/Property/zoom" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-trackingcamerabehavior-speedthreshold#/s:7heresdk22TrackingCameraBehaviorC14SpeedThresholdV4zoomAA10MapMeasureVvp" class="token"><code>zoom</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk22TrackingCameraBehaviorC14SpeedThresholdV4zoomAA10MapMeasureVvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-zoom" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-trackingcamerabehavior-speedthreshold#sdk-for-ios-explore-s-7heresdk22TrackingCameraBehaviorC14SpeedThresholdV4zoomAA10MapMeasureVvp" class="token"><code>zoom</code></a> 
 
   </div>
 
@@ -89,7 +89,7 @@ Defines a zoom level triggered when the vehicle reaches a specific speed.
 
   <div class="abstract">
 
-  Zoom applied once the threshold is reached. Defaults to a <a href="sdk-for-ios-explore-structs-mapmeasure">`MapMeasure`</a> with kind <a href="sdk-for-ios-explore-structs-mapmeasure-kind#/s:7heresdk10MapMeasureV4KindO9zoomLevelyA2EmF">`MapMeasure.Kind.zoomLevel`</a> and value 16.5.
+  Zoom applied once the threshold is reached. Defaults to a <a href="sdk-for-ios-explore-structs-mapmeasure">`MapMeasure`</a> with kind <a href="sdk-for-ios-explore-structs-mapmeasure-kind#sdk-for-ios-explore-s-7heresdk10MapMeasureV4KindO9zoomLevelyA2EmF">`MapMeasure.Kind.zoomLevel`</a> and value 16.5.
 
   </div>
 
@@ -107,6 +107,10 @@ Defines a zoom level triggered when the vehicle reaches a specific speed.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-mapmeasure">MapMeasure</a>
+
   </div>
 
   </div>
@@ -115,7 +119,7 @@ Defines a zoom level triggered when the vehicle reaches a specific speed.
 
 - <div>
 
-      init(speedInMetersPerSecond: zoom: )
+   <span id="sdk-for-ios-explore-s-7heresdk22TrackingCameraBehaviorC14SpeedThresholdV22speedInMetersPerSecond4zoomAESd_AA10MapMeasureVtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-speedInMetersPerSecond-zoom" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-trackingcamerabehavior-speedthreshold#sdk-for-ios-explore-s-7heresdk22TrackingCameraBehaviorC14SpeedThresholdV22speedInMetersPerSecond4zoomAESd_AA10MapMeasureVtcfc" class="token"><code>init(speedInMetersPerSecond:</code><wbr></wbr><code>zoom:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -148,12 +152,14 @@ Defines a zoom level triggered when the vehicle reaches a specific speed.
   Swift
 
   ``` highlight
-  public init ( speedInMetersPerSecond : Double = 0.0 , zoom : MapMeasure = MapMeasure ( kind : MapMeasure . Kind . zoomLevel , value : 16.5 ))
+  public init(speedInMetersPerSecond: Double = 0.0, zoom: MapMeasure = MapMeasure(kind: MapMeasure.Kind.zoomLevel, value: 16.5))
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-mapmeasure">MapMeasure</a>
 
   </div>
 

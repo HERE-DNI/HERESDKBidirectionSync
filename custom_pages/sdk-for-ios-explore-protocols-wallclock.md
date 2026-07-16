@@ -27,7 +27,7 @@ Clock used to properly retrieve time-dependent data from the map.
 
 - <div>
 
-      now()
+   <span id="sdk-for-ios-explore-s-7heresdk9WallClockP3now10Foundation4DateVyF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-now" class="dashAnchor"></span> <a href="sdk-for-ios-explore-protocols-wallclock#sdk-for-ios-explore-s-7heresdk9WallClockP3now10Foundation4DateVyF" class="token"><code>now()</code></a> 
 
   </div>
 
@@ -58,10 +58,8 @@ Clock used to properly retrieve time-dependent data from the map.
   Swift
 
   ``` highlight
-  func now () -> Date
+  func now() -> Date
   ```
-
-  </pre>
 
   </div>
 
@@ -81,7 +79,7 @@ Clock used to properly retrieve time-dependent data from the map.
 
 - <div>
 
-      getDefault()
+   <span id="sdk-for-ios-explore-s-7heresdk9WallClockP10getDefaultAaB_pyFZ"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-getDefault" class="dashAnchor"></span> <a href="sdk-for-ios-explore-protocols-wallclock#sdk-for-ios-explore-s-7heresdk9WallClockP10getDefaultAaB_pyFZ" class="token"><code>getDefault()</code></a> 
 
   </div>
 
@@ -112,10 +110,8 @@ Clock used to properly retrieve time-dependent data from the map.
   Swift
 
   ``` highlight
-  static func getDefault () -> WallClock
+  static func getDefault() -> WallClock
   ```
-
-  </pre>
 
   </div>
 

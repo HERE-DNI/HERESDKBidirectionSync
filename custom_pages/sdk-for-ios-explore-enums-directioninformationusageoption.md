@@ -27,7 +27,7 @@ Indicates the option of direction information included in the notification.
 
 - <div>
 
-  ` `<span id="/s:7heresdk31DirectionInformationUsageOptionO4noneyA2CmF"></span>` `<span id="//apple_ref/swift/Element/none" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-directioninformationusageoption#/s:7heresdk31DirectionInformationUsageOptionO4noneyA2CmF" class="token"><code>none</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk31DirectionInformationUsageOptionO4noneyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-none" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-directioninformationusageoption#sdk-for-ios-explore-s-7heresdk31DirectionInformationUsageOptionO4noneyA2CmF" class="token"><code>none</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Indicates the option of direction information included in the notification.
 
 - <div>
 
-  ` `<span id="/s:7heresdk31DirectionInformationUsageOptionO04roadC4OnlyyA2CmF"></span>` `<span id="//apple_ref/swift/Element/roadInformationOnly" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-directioninformationusageoption#/s:7heresdk31DirectionInformationUsageOptionO04roadC4OnlyyA2CmF" class="token"><code>roadInformationOnly</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk31DirectionInformationUsageOptionO04roadC4OnlyyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-roadInformationOnly" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-directioninformationusageoption#sdk-for-ios-explore-s-7heresdk31DirectionInformationUsageOptionO04roadC4OnlyyA2CmF" class="token"><code>roadInformationOnly</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Indicates the option of direction information included in the notification.
 
 - <div>
 
-  ` `<span id="/s:7heresdk31DirectionInformationUsageOptionO04roadc11AndSignpostB0yA2CmF"></span>` `<span id="//apple_ref/swift/Element/roadInformationAndSignpostDirection" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-directioninformationusageoption#/s:7heresdk31DirectionInformationUsageOptionO04roadc11AndSignpostB0yA2CmF" class="token"><code>roadInformationAndSignpostDirection</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk31DirectionInformationUsageOptionO04roadc11AndSignpostB0yA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-roadInformationAndSignpostDirection" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-directioninformationusageoption#sdk-for-ios-explore-s-7heresdk31DirectionInformationUsageOptionO04roadc11AndSignpostB0yA2CmF" class="token"><code>roadInformationAndSignpostDirection</code></a> 
 
   </div>
 

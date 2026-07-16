@@ -27,7 +27,7 @@ Holds all the fare data.
 
 - <div>
 
-  ` `<span id="/s:7heresdk4FareV4nameSSvp"></span>` `<span id="//apple_ref/swift/Property/name" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-fare#/s:7heresdk4FareV4nameSSvp" class="token"><code>name</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk4FareV4nameSSvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-name" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-fare#sdk-for-ios-explore-s-7heresdk4FareV4nameSSvp" class="token"><code>name</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Holds all the fare data.
 
 - <div>
 
-  ` `<span id="/s:7heresdk4FareV5priceAA0B5PriceVSgvp"></span>` `<span id="//apple_ref/swift/Property/price" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-fare#/s:7heresdk4FareV5priceAA0B5PriceVSgvp" class="token"><code>price</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk4FareV5priceAA0B5PriceVSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-price" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-fare#sdk-for-ios-explore-s-7heresdk4FareV5priceAA0B5PriceVSgvp" class="token"><code>price</code></a> 
 
   </div>
 
@@ -107,6 +107,10 @@ Holds all the fare data.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-fareprice">FarePrice</a>
+
   </div>
 
   </div>
@@ -115,7 +119,7 @@ Holds all the fare data.
 
 - <div>
 
-  ` `<span id="/s:7heresdk4FareV6reasonAA0B6ReasonOvp"></span>` `<span id="//apple_ref/swift/Property/reason" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-fare#/s:7heresdk4FareV6reasonAA0B6ReasonOvp" class="token"><code>reason</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk4FareV6reasonAA0B6ReasonOvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-reason" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-fare#sdk-for-ios-explore-s-7heresdk4FareV6reasonAA0B6ReasonOvp" class="token"><code>reason</code></a> 
 
   </div>
 
@@ -151,6 +155,10 @@ Holds all the fare data.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-farereason">FareReason</a>
+
   </div>
 
   </div>
@@ -159,7 +167,7 @@ Holds all the fare data.
 
 - <div>
 
-      init(name: price: reason: )
+   <span id="sdk-for-ios-explore-s-7heresdk4FareV4name5price6reasonACSS_AA0B5PriceVSgAA0B6ReasonOtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-name-price-reason" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-fare#sdk-for-ios-explore-s-7heresdk4FareV4name5price6reasonACSS_AA0B5PriceVSgAA0B6ReasonOtcfc" class="token"><code>init(name:</code><wbr></wbr><code>price:</code><wbr></wbr><code>reason:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -190,12 +198,15 @@ Holds all the fare data.
   Swift
 
   ``` highlight
-  public init ( name : String , price : FarePrice ? = nil , reason : FareReason )
+  public init(name: String, price: FarePrice? = nil, reason: FareReason)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-fareprice">FarePrice</a>
+  - <a href="sdk-for-ios-explore-enums-farereason">FareReason</a>
 
   </div>
 

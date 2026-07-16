@@ -17,7 +17,7 @@ public struct CustomPanningData : Hashable
 
 </div>
 
-This class contains all the information regarding the next angular panning element, including a new estimated audio cue duration, and a new set of initial and sweep angular angle, allowing the customization of the spatial audio trajectories for any type of notification, such as speed or merge warners, maneuvers or even roundabouts notifications. The orientation in space for <a href="sdk-for-ios-explore-structs-custompanningdata#/s:7heresdk17CustomPanningDataV23initialAzimuthInDegreesSdSgvp">`CustomPanningData.initialAzimuthInDegrees`</a> and <a href="sdk-for-ios-explore-structs-custompanningdata#/s:7heresdk17CustomPanningDataV21sweepAzimuthInDegreesSdSgvp">`CustomPanningData.sweepAzimuthInDegrees`</a> can be represented by the following angular values:
+This class contains all the information regarding the next angular panning element, including a new estimated audio cue duration, and a new set of initial and sweep angular angle, allowing the customization of the spatial audio trajectories for any type of notification, such as speed or merge warners, maneuvers or even roundabouts notifications. The orientation in space for <a href="sdk-for-ios-explore-structs-custompanningdata#sdk-for-ios-explore-s-7heresdk17CustomPanningDataV23initialAzimuthInDegreesSdSgvp">`CustomPanningData.initialAzimuthInDegrees`</a> and <a href="sdk-for-ios-explore-structs-custompanningdata#sdk-for-ios-explore-s-7heresdk17CustomPanningDataV21sweepAzimuthInDegreesSdSgvp">`CustomPanningData.sweepAzimuthInDegrees`</a> can be represented by the following angular values:
 
 | Front | Right |  Rear  | Left |
 |:-----:|:-----:|:------:|:----:|
@@ -33,7 +33,7 @@ When any of the members of `CustomPanningData` are initialized as null, the defa
 
 - <div>
 
-  ` `<span id="/s:7heresdk17CustomPanningDataV25estimatedAudioCueDurationSdSgvp"></span>` `<span id="//apple_ref/swift/Property/estimatedAudioCueDuration" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-custompanningdata#/s:7heresdk17CustomPanningDataV25estimatedAudioCueDurationSdSgvp" class="token"><code>estimatedAudioCueDuration</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17CustomPanningDataV25estimatedAudioCueDurationSdSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-estimatedAudioCueDuration" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-custompanningdata#sdk-for-ios-explore-s-7heresdk17CustomPanningDataV25estimatedAudioCueDurationSdSgvp" class="token"><code>estimatedAudioCueDuration</code></a> 
 
   </div>
 
@@ -77,7 +77,7 @@ When any of the members of `CustomPanningData` are initialized as null, the defa
 
 - <div>
 
-  ` `<span id="/s:7heresdk17CustomPanningDataV23initialAzimuthInDegreesSdSgvp"></span>` `<span id="//apple_ref/swift/Property/initialAzimuthInDegrees" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-custompanningdata#/s:7heresdk17CustomPanningDataV23initialAzimuthInDegreesSdSgvp" class="token"><code>initialAzimuthInDegrees</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17CustomPanningDataV23initialAzimuthInDegreesSdSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-initialAzimuthInDegrees" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-custompanningdata#sdk-for-ios-explore-s-7heresdk17CustomPanningDataV23initialAzimuthInDegreesSdSgvp" class="token"><code>initialAzimuthInDegrees</code></a> 
 
   </div>
 
@@ -121,7 +121,7 @@ When any of the members of `CustomPanningData` are initialized as null, the defa
 
 - <div>
 
-  ` `<span id="/s:7heresdk17CustomPanningDataV21sweepAzimuthInDegreesSdSgvp"></span>` `<span id="//apple_ref/swift/Property/sweepAzimuthInDegrees" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-custompanningdata#/s:7heresdk17CustomPanningDataV21sweepAzimuthInDegreesSdSgvp" class="token"><code>sweepAzimuthInDegrees</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17CustomPanningDataV21sweepAzimuthInDegreesSdSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-sweepAzimuthInDegrees" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-custompanningdata#sdk-for-ios-explore-s-7heresdk17CustomPanningDataV21sweepAzimuthInDegreesSdSgvp" class="token"><code>sweepAzimuthInDegrees</code></a> 
 
   </div>
 
@@ -165,7 +165,7 @@ When any of the members of `CustomPanningData` are initialized as null, the defa
 
 - <div>
 
-      init(estimatedAudioCueDuration: initialAzimuthInDegrees: sweepAzimuthInDegrees: )
+   <span id="sdk-for-ios-explore-s-7heresdk17CustomPanningDataV25estimatedAudioCueDuration23initialAzimuthInDegrees05sweepjkL0ACSdSg_A2Gtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-estimatedAudioCueDuration-initialAzimuthInDegrees-sweepAzimuthInDegrees" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-custompanningdata#sdk-for-ios-explore-s-7heresdk17CustomPanningDataV25estimatedAudioCueDuration23initialAzimuthInDegrees05sweepjkL0ACSdSg_A2Gtcfc" class="token"><code>init(estimatedAudioCueDuration:</code><wbr></wbr><code>initialAzimuthInDegrees:</code><wbr></wbr><code>sweepAzimuthInDegrees:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -196,10 +196,8 @@ When any of the members of `CustomPanningData` are initialized as null, the defa
   Swift
 
   ``` highlight
-  public init ( estimatedAudioCueDuration : TimeInterval ? = nil , initialAzimuthInDegrees : Double ? = nil , sweepAzimuthInDegrees : Double ? = nil )
+  public init(estimatedAudioCueDuration: TimeInterval? = nil, initialAzimuthInDegrees: Double? = nil, sweepAzimuthInDegrees: Double? = nil)
   ```
-
-  </pre>
 
   </div>
 

@@ -27,7 +27,7 @@ Specifies how isoline calculation is optimized.
 
 - <div>
 
-  ` `<span id="/s:7heresdk22IsolineCalculationModeO7qualityyA2CmF"></span>` `<span id="//apple_ref/swift/Element/quality" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-isolinecalculationmode#/s:7heresdk22IsolineCalculationModeO7qualityyA2CmF" class="token"><code>quality</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk22IsolineCalculationModeO7qualityyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-quality" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-isolinecalculationmode#sdk-for-ios-explore-s-7heresdk22IsolineCalculationModeO7qualityyA2CmF" class="token"><code>quality</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Specifies how isoline calculation is optimized.
 
 - <div>
 
-  ` `<span id="/s:7heresdk22IsolineCalculationModeO11performanceyA2CmF"></span>` `<span id="//apple_ref/swift/Element/performance" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-isolinecalculationmode#/s:7heresdk22IsolineCalculationModeO11performanceyA2CmF" class="token"><code>performance</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk22IsolineCalculationModeO11performanceyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-performance" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-isolinecalculationmode#sdk-for-ios-explore-s-7heresdk22IsolineCalculationModeO11performanceyA2CmF" class="token"><code>performance</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Specifies how isoline calculation is optimized.
 
 - <div>
 
-  ` `<span id="/s:7heresdk22IsolineCalculationModeO8balancedyA2CmF"></span>` `<span id="//apple_ref/swift/Element/balanced" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-isolinecalculationmode#/s:7heresdk22IsolineCalculationModeO8balancedyA2CmF" class="token"><code>balanced</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk22IsolineCalculationModeO8balancedyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-balanced" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-isolinecalculationmode#sdk-for-ios-explore-s-7heresdk22IsolineCalculationModeO8balancedyA2CmF" class="token"><code>balanced</code></a> 
 
   </div>
 

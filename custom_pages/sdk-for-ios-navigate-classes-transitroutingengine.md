@@ -35,7 +35,7 @@ Use the TransitRoutingEngine to calculate a public transit route from A to B wit
 
 - <div>
 
-      init()
+   <span id="sdk-for-ios-navigate-s-7heresdk20TransitRoutingEngineCACyKcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-transitroutingengine#sdk-for-ios-navigate-s-7heresdk20TransitRoutingEngineCACyKcfc" class="token"><code>init()</code></a> 
 
   </div>
 
@@ -59,7 +59,7 @@ Use the TransitRoutingEngine to calculate a public transit route from A to B wit
 
   Throws
 
-  <a href="sdk-for-ios-navigate-core#/s:7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
+  <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
 
   </div>
 
@@ -74,10 +74,8 @@ Use the TransitRoutingEngine to calculate a public transit route from A to B wit
   Swift
 
   ``` highlight
-  public init () throws
+  public init() throws
   ```
-
-  </pre>
 
   </div>
 
@@ -89,7 +87,7 @@ Use the TransitRoutingEngine to calculate a public transit route from A to B wit
 
 - <div>
 
-      init(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk20TransitRoutingEngineCyAcA09SDKNativeD0CKcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-transitroutingengine#sdk-for-ios-navigate-s-7heresdk20TransitRoutingEngineCyAcA09SDKNativeD0CKcfc" class="token"><code>init(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -113,7 +111,7 @@ Use the TransitRoutingEngine to calculate a public transit route from A to B wit
 
   Throws
 
-  <a href="sdk-for-ios-navigate-core#/s:7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
+  <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
 
   </div>
 
@@ -128,12 +126,14 @@ Use the TransitRoutingEngine to calculate a public transit route from A to B wit
   Swift
 
   ``` highlight
-  public init ( _ sdkEngine : SDKNativeEngine ) throws
+  public init(_ sdkEngine: SDKNativeEngine) throws
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-sdknativeengine">SDKNativeEngine</a>
 
   </div>
 
@@ -164,7 +164,7 @@ Use the TransitRoutingEngine to calculate a public transit route from A to B wit
 
 - <div>
 
-      calculateRoute(startingPoint: destination: routeOptions: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk20TransitRoutingEngineC14calculateRoute13startingPoint11destination12routeOptions10completionAA10TaskHandle_pAA0B8WaypointV_AkA0bfK0VyAA0C5ErrorOSg_SayAA0F0CGSgtctF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-calculateRoute-startingPoint-destination-routeOptions-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-transitroutingengine#sdk-for-ios-navigate-s-7heresdk20TransitRoutingEngineC14calculateRoute13startingPoint11destination12routeOptions10completionAA10TaskHandle_pAA0B8WaypointV_AkA0bfK0VyAA0C5ErrorOSg_SayAA0F0CGSgtctF" class="token"><code>calculateRoute(startingPoint:</code><wbr></wbr><code>destination:</code><wbr></wbr><code>routeOptions:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -195,12 +195,18 @@ Use the TransitRoutingEngine to calculate a public transit route from A to B wit
   Swift
 
   ``` highlight
-  @discardableResult public func calculateRoute ( startingPoint : TransitWaypoint , destination : TransitWaypoint , routeOptions : TransitRouteOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  @discardableResult
+  public func calculateRoute(startingPoint: TransitWaypoint, destination: TransitWaypoint, routeOptions: TransitRouteOptions, completion: @escaping CalculateRouteCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-transitwaypoint">TransitWaypoint</a>
+  - <a href="sdk-for-ios-navigate-structs-transitrouteoptions">TransitRouteOptions</a>
+  - <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk31CalculateRouteCompletionHandlera">CalculateRouteCompletionHandler</a>
+  - <a href="sdk-for-ios-navigate-protocols-taskhandle">TaskHandle</a>
 
   </div>
 

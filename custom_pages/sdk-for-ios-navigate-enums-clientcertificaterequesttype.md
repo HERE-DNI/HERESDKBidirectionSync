@@ -27,7 +27,7 @@ Controls the client certificate verification policy on the server.
 
 - <div>
 
-  ` `<span id="/s:7heresdk28ClientCertificateRequestTypeO04dontdbC0yA2CmF"></span>` `<span id="//apple_ref/swift/Element/dontRequestClientCertificate" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-clientcertificaterequesttype#/s:7heresdk28ClientCertificateRequestTypeO04dontdbC0yA2CmF" class="token"><code>dontRequestClientCertificate</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk28ClientCertificateRequestTypeO04dontdbC0yA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-dontRequestClientCertificate" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-clientcertificaterequesttype#sdk-for-ios-navigate-s-7heresdk28ClientCertificateRequestTypeO04dontdbC0yA2CmF" class="token"><code>dontRequestClientCertificate</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Controls the client certificate verification policy on the server.
 
 - <div>
 
-  ` `<span id="/s:7heresdk28ClientCertificateRequestTypeO20requestButDontVerifyyA2CmF"></span>` `<span id="//apple_ref/swift/Element/requestButDontVerify" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-clientcertificaterequesttype#/s:7heresdk28ClientCertificateRequestTypeO20requestButDontVerifyyA2CmF" class="token"><code>requestButDontVerify</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk28ClientCertificateRequestTypeO20requestButDontVerifyyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-requestButDontVerify" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-clientcertificaterequesttype#sdk-for-ios-navigate-s-7heresdk28ClientCertificateRequestTypeO20requestButDontVerifyyA2CmF" class="token"><code>requestButDontVerify</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Controls the client certificate verification policy on the server.
 
 - <div>
 
-  ` `<span id="/s:7heresdk28ClientCertificateRequestTypeO017requestAndRequireG6VerifyyA2CmF"></span>` `<span id="//apple_ref/swift/Element/requestAndRequireAndVerify" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-clientcertificaterequesttype#/s:7heresdk28ClientCertificateRequestTypeO017requestAndRequireG6VerifyyA2CmF" class="token"><code>requestAndRequireAndVerify</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk28ClientCertificateRequestTypeO017requestAndRequireG6VerifyyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-requestAndRequireAndVerify" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-clientcertificaterequesttype#sdk-for-ios-navigate-s-7heresdk28ClientCertificateRequestTypeO017requestAndRequireG6VerifyyA2CmF" class="token"><code>requestAndRequireAndVerify</code></a> 
 
   </div>
 

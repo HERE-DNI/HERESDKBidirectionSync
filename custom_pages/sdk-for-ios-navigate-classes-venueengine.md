@@ -35,7 +35,7 @@ VenueEngine is an add-on to the base map functionality with its own content load
 
 - <div>
 
-      init(callback: )
+   <span id="sdk-for-ios-navigate-s-7heresdk11VenueEngineC8callbackACyycSg_tKcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-callback" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-venueengine#sdk-for-ios-navigate-s-7heresdk11VenueEngineC8callbackACyycSg_tKcfc" class="token"><code>init(callback:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -59,7 +59,7 @@ VenueEngine is an add-on to the base map functionality with its own content load
 
   Throws
 
-  <a href="sdk-for-ios-navigate-core#/s:7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
+  <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
 
   </div>
 
@@ -74,12 +74,14 @@ VenueEngine is an add-on to the base map functionality with its own content load
   Swift
 
   ``` highlight
-  public init ( callback : VenueEngineInitCompletionHandler ?) throws
+  public init(callback: VenueEngineInitCompletionHandler?) throws
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-venues#sdk-for-ios-navigate-s-7heresdk32VenueEngineInitCompletionHandlera">VenueEngineInitCompletionHandler</a>
 
   </div>
 
@@ -113,7 +115,7 @@ VenueEngine is an add-on to the base map functionality with its own content load
 
 - <div>
 
-      init(_: callback: )
+   <span id="sdk-for-ios-navigate-s-7heresdk11VenueEngineC_8callbackAcA09SDKNativeC0C_yycSgtKcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-_-callback" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-venueengine#sdk-for-ios-navigate-s-7heresdk11VenueEngineC_8callbackAcA09SDKNativeC0C_yycSgtKcfc" class="token"><code>init(_:</code><wbr></wbr><code>callback:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -137,7 +139,7 @@ VenueEngine is an add-on to the base map functionality with its own content load
 
   Throws
 
-  <a href="sdk-for-ios-navigate-core#/s:7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
+  <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
 
   </div>
 
@@ -152,12 +154,15 @@ VenueEngine is an add-on to the base map functionality with its own content load
   Swift
 
   ``` highlight
-  public init ( _ sdkEngine : SDKNativeEngine , callback : VenueEngineInitCompletionHandler ?) throws
+  public init(_ sdkEngine: SDKNativeEngine, callback: VenueEngineInitCompletionHandler?) throws
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-sdknativeengine">SDKNativeEngine</a>
+  - <a href="sdk-for-ios-navigate-venues#sdk-for-ios-navigate-s-7heresdk32VenueEngineInitCompletionHandlera">VenueEngineInitCompletionHandler</a>
 
   </div>
 
@@ -197,7 +202,7 @@ VenueEngine is an add-on to the base map functionality with its own content load
 
 - <div>
 
-  ` `<span id="/s:7heresdk11VenueEngineC12venueServiceAA0bE0Cvp"></span>` `<span id="//apple_ref/swift/Property/venueService" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-venueengine#/s:7heresdk11VenueEngineC12venueServiceAA0bE0Cvp" class="token"><code>venueService</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11VenueEngineC12venueServiceAA0bE0Cvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-venueService" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-venueengine#sdk-for-ios-navigate-s-7heresdk11VenueEngineC12venueServiceAA0bE0Cvp" class="token"><code>venueService</code></a> 
 
   </div>
 
@@ -233,6 +238,10 @@ VenueEngine is an add-on to the base map functionality with its own content load
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-venueservice">VenueService</a>
+
   </div>
 
   </div>
@@ -241,7 +250,7 @@ VenueEngine is an add-on to the base map functionality with its own content load
 
 - <div>
 
-  ` `<span id="/s:7heresdk11VenueEngineC8venueMapAA0bE0Cvp"></span>` `<span id="//apple_ref/swift/Property/venueMap" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-venueengine#/s:7heresdk11VenueEngineC8venueMapAA0bE0Cvp" class="token"><code>venueMap</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11VenueEngineC8venueMapAA0bE0Cvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-venueMap" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-venueengine#sdk-for-ios-navigate-s-7heresdk11VenueEngineC8venueMapAA0bE0Cvp" class="token"><code>venueMap</code></a> 
 
   </div>
 
@@ -277,6 +286,10 @@ VenueEngine is an add-on to the base map functionality with its own content load
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-venuemap">VenueMap</a>
+
   </div>
 
   </div>
@@ -285,7 +298,7 @@ VenueEngine is an add-on to the base map functionality with its own content load
 
 - <div>
 
-      start(callback: )
+   <span id="sdk-for-ios-navigate-s-7heresdk11VenueEngineC5start8callbackyyAA19AuthenticationErrorOSg_AA0F4DataVSgtcSg_tF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-start-callback" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-venueengine#sdk-for-ios-navigate-s-7heresdk11VenueEngineC5start8callbackyyAA19AuthenticationErrorOSg_AA0F4DataVSgtcSg_tF" class="token"><code>start(callback:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -316,12 +329,14 @@ VenueEngine is an add-on to the base map functionality with its own content load
   Swift
 
   ``` highlight
-  public func start ( callback : AuthenticationCompletionHandler ?)
+  public func start(callback: AuthenticationCompletionHandler?)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk31AuthenticationCompletionHandlera">AuthenticationCompletionHandler</a>
 
   </div>
 
@@ -352,7 +367,7 @@ VenueEngine is an add-on to the base map functionality with its own content load
 
 - <div>
 
-      start(token: )
+   <span id="sdk-for-ios-navigate-s-7heresdk11VenueEngineC5start5tokenySS_tF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-start-token" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-venueengine#sdk-for-ios-navigate-s-7heresdk11VenueEngineC5start5tokenySS_tF" class="token"><code>start(token:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -383,10 +398,8 @@ VenueEngine is an add-on to the base map functionality with its own content load
   Swift
 
   ``` highlight
-  public func start ( token : String )
+  public func start(token: String)
   ```
-
-  </pre>
 
   </div>
 
@@ -419,7 +432,7 @@ VenueEngine is an add-on to the base map functionality with its own content load
 
 - <div>
 
-      destroy()
+   <span id="sdk-for-ios-navigate-s-7heresdk11VenueEngineC7destroyyyF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-destroy" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-venueengine#sdk-for-ios-navigate-s-7heresdk11VenueEngineC7destroyyyF" class="token"><code>destroy()</code></a> 
 
   </div>
 
@@ -450,10 +463,8 @@ VenueEngine is an add-on to the base map functionality with its own content load
   Swift
 
   ``` highlight
-  public func destroy ()
+  public func destroy()
   ```
-
-  </pre>
 
   </div>
 

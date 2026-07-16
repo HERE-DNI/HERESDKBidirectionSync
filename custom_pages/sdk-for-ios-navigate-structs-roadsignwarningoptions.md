@@ -27,7 +27,7 @@ A struct that provides road sign warning options. Set the options for filtering 
 
 - <div>
 
-  ` `<span id="/s:7heresdk22RoadSignWarningOptionsV11typesFilterSayAA0bC4TypeOGvp"></span>` `<span id="//apple_ref/swift/Property/typesFilter" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-roadsignwarningoptions#/s:7heresdk22RoadSignWarningOptionsV11typesFilterSayAA0bC4TypeOGvp" class="token"><code>typesFilter</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk22RoadSignWarningOptionsV11typesFilterSayAA0bC4TypeOGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-typesFilter" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-roadsignwarningoptions#sdk-for-ios-navigate-s-7heresdk22RoadSignWarningOptionsV11typesFilterSayAA0bC4TypeOGvp" class="token"><code>typesFilter</code></a> 
 
   </div>
 
@@ -63,6 +63,10 @@ A struct that provides road sign warning options. Set the options for filtering 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-roadsigntype">RoadSignType</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ A struct that provides road sign warning options. Set the options for filtering 
 
 - <div>
 
-  ` `<span id="/s:7heresdk22RoadSignWarningOptionsV16categoriesFilterSayAA0bC8CategoryOGvp"></span>` `<span id="//apple_ref/swift/Property/categoriesFilter" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-roadsignwarningoptions#/s:7heresdk22RoadSignWarningOptionsV16categoriesFilterSayAA0bC8CategoryOGvp" class="token"><code>categoriesFilter</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk22RoadSignWarningOptionsV16categoriesFilterSayAA0bC8CategoryOGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-categoriesFilter" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-roadsignwarningoptions#sdk-for-ios-navigate-s-7heresdk22RoadSignWarningOptionsV16categoriesFilterSayAA0bC8CategoryOGvp" class="token"><code>categoriesFilter</code></a> 
 
   </div>
 
@@ -107,6 +111,10 @@ A struct that provides road sign warning options. Set the options for filtering 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-roadsigncategory">RoadSignCategory</a>
+
   </div>
 
   </div>
@@ -115,7 +123,7 @@ A struct that provides road sign warning options. Set the options for filtering 
 
 - <div>
 
-  ` `<span id="/s:7heresdk22RoadSignWarningOptionsV07generalD11TypesFilterSayAA07GeneraldbC4TypeOGvp"></span>` `<span id="//apple_ref/swift/Property/generalWarningTypesFilter" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-roadsignwarningoptions#/s:7heresdk22RoadSignWarningOptionsV07generalD11TypesFilterSayAA07GeneraldbC4TypeOGvp" class="token"><code>generalWarningTypesFilter</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk22RoadSignWarningOptionsV07generalD11TypesFilterSayAA07GeneraldbC4TypeOGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-generalWarningTypesFilter" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-roadsignwarningoptions#sdk-for-ios-navigate-s-7heresdk22RoadSignWarningOptionsV07generalD11TypesFilterSayAA07GeneraldbC4TypeOGvp" class="token"><code>generalWarningTypesFilter</code></a> 
 
   </div>
 
@@ -151,6 +159,10 @@ A struct that provides road sign warning options. Set the options for filtering 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-generalwarningroadsigntype">GeneralWarningRoadSignType</a>
+
   </div>
 
   </div>
@@ -159,7 +171,7 @@ A struct that provides road sign warning options. Set the options for filtering 
 
 - <div>
 
-  ` `<span id="/s:7heresdk22RoadSignWarningOptionsV18vehicleTypesFilterSayAA0bC11VehicleTypeOGvp"></span>` `<span id="//apple_ref/swift/Property/vehicleTypesFilter" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-roadsignwarningoptions#/s:7heresdk22RoadSignWarningOptionsV18vehicleTypesFilterSayAA0bC11VehicleTypeOGvp" class="token"><code>vehicleTypesFilter</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk22RoadSignWarningOptionsV18vehicleTypesFilterSayAA0bC11VehicleTypeOGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-vehicleTypesFilter" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-roadsignwarningoptions#sdk-for-ios-navigate-s-7heresdk22RoadSignWarningOptionsV18vehicleTypesFilterSayAA0bC11VehicleTypeOGvp" class="token"><code>vehicleTypesFilter</code></a> 
 
   </div>
 
@@ -197,6 +209,10 @@ A struct that provides road sign warning options. Set the options for filtering 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-roadsignvehicletype">RoadSignVehicleType</a>
+
   </div>
 
   </div>
@@ -205,7 +221,7 @@ A struct that provides road sign warning options. Set the options for filtering 
 
 - <div>
 
-      init(typesFilter: categoriesFilter: generalWarningTypesFilter: vehicleTypesFilter: )
+   <span id="sdk-for-ios-navigate-s-7heresdk22RoadSignWarningOptionsV11typesFilter010categoriesG007generald5TypesG007vehiclejG0ACSayAA0bC4TypeOG_SayAA0bC8CategoryOGSayAA07GeneraldbcL0OGSayAA0bc7VehicleL0OGtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-typesFilter-categoriesFilter-generalWarningTypesFilter-vehicleTypesFilter" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-roadsignwarningoptions#sdk-for-ios-navigate-s-7heresdk22RoadSignWarningOptionsV11typesFilter010categoriesG007generald5TypesG007vehiclejG0ACSayAA0bC4TypeOG_SayAA0bC8CategoryOGSayAA07GeneraldbcL0OGSayAA0bc7VehicleL0OGtcfc" class="token"><code>init(typesFilter:</code><wbr></wbr><code>categoriesFilter:</code><wbr></wbr><code>generalWarningTypesFilter:</code><wbr></wbr><code>vehicleTypesFilter:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -245,12 +261,17 @@ A struct that provides road sign warning options. Set the options for filtering 
   Swift
 
   ``` highlight
-  public init ( typesFilter : [ RoadSignType ] = [], categoriesFilter : [ RoadSignCategory ] = [], generalWarningTypesFilter : [ GeneralWarningRoadSignType ] = [], vehicleTypesFilter : [ RoadSignVehicleType ] = [])
+  public init(typesFilter: [RoadSignType] = [], categoriesFilter: [RoadSignCategory] = [], generalWarningTypesFilter: [GeneralWarningRoadSignType] = [], vehicleTypesFilter: [RoadSignVehicleType] = [])
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-roadsigntype">RoadSignType</a>
+  - <a href="sdk-for-ios-navigate-enums-roadsigncategory">RoadSignCategory</a>
+  - <a href="sdk-for-ios-navigate-enums-generalwarningroadsigntype">GeneralWarningRoadSignType</a>
+  - <a href="sdk-for-ios-navigate-enums-roadsignvehicletype">RoadSignVehicleType</a>
 
   </div>
 

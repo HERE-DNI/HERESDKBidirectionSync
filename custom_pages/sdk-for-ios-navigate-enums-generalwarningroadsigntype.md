@@ -27,7 +27,7 @@ Type of a general warning that a road sign represents.
 
 - <div>
 
-  ` `<span id="/s:7heresdk26GeneralWarningRoadSignTypeO7unknownyA2CmF"></span>` `<span id="//apple_ref/swift/Element/unknown" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-generalwarningroadsigntype#/s:7heresdk26GeneralWarningRoadSignTypeO7unknownyA2CmF" class="token"><code>unknown</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk26GeneralWarningRoadSignTypeO7unknownyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-unknown" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-generalwarningroadsigntype#sdk-for-ios-navigate-s-7heresdk26GeneralWarningRoadSignTypeO7unknownyA2CmF" class="token"><code>unknown</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Type of a general warning that a road sign represents.
 
 - <div>
 
-  ` `<span id="/s:7heresdk26GeneralWarningRoadSignTypeO14objectOverhangyA2CmF"></span>` `<span id="//apple_ref/swift/Element/objectOverhang" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-generalwarningroadsigntype#/s:7heresdk26GeneralWarningRoadSignTypeO14objectOverhangyA2CmF" class="token"><code>objectOverhang</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk26GeneralWarningRoadSignTypeO14objectOverhangyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-objectOverhang" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-generalwarningroadsigntype#sdk-for-ios-navigate-s-7heresdk26GeneralWarningRoadSignTypeO14objectOverhangyA2CmF" class="token"><code>objectOverhang</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Type of a general warning that a road sign represents.
 
 - <div>
 
-  ` `<span id="/s:7heresdk26GeneralWarningRoadSignTypeO15riskOfGroundingyA2CmF"></span>` `<span id="//apple_ref/swift/Element/riskOfGrounding" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-generalwarningroadsigntype#/s:7heresdk26GeneralWarningRoadSignTypeO15riskOfGroundingyA2CmF" class="token"><code>riskOfGrounding</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk26GeneralWarningRoadSignTypeO15riskOfGroundingyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-riskOfGrounding" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-generalwarningroadsigntype#sdk-for-ios-navigate-s-7heresdk26GeneralWarningRoadSignTypeO15riskOfGroundingyA2CmF" class="token"><code>riskOfGrounding</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Type of a general warning that a road sign represents.
 
 - <div>
 
-  ` `<span id="/s:7heresdk26GeneralWarningRoadSignTypeO14animalCrossingyA2CmF"></span>` `<span id="//apple_ref/swift/Element/animalCrossing" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-generalwarningroadsigntype#/s:7heresdk26GeneralWarningRoadSignTypeO14animalCrossingyA2CmF" class="token"><code>animalCrossing</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk26GeneralWarningRoadSignTypeO14animalCrossingyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-animalCrossing" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-generalwarningroadsigntype#sdk-for-ios-navigate-s-7heresdk26GeneralWarningRoadSignTypeO14animalCrossingyA2CmF" class="token"><code>animalCrossing</code></a> 
 
   </div>
 
@@ -203,7 +203,7 @@ Type of a general warning that a road sign represents.
 
 - <div>
 
-  ` `<span id="/s:7heresdk26GeneralWarningRoadSignTypeO14accidentHazardyA2CmF"></span>` `<span id="//apple_ref/swift/Element/accidentHazard" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-generalwarningroadsigntype#/s:7heresdk26GeneralWarningRoadSignTypeO14accidentHazardyA2CmF" class="token"><code>accidentHazard</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk26GeneralWarningRoadSignTypeO14accidentHazardyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-accidentHazard" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-generalwarningroadsigntype#sdk-for-ios-navigate-s-7heresdk26GeneralWarningRoadSignTypeO14accidentHazardyA2CmF" class="token"><code>accidentHazard</code></a> 
 
   </div>
 

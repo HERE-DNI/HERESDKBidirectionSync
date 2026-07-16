@@ -27,7 +27,7 @@ Defines the style of the HERE watermark logo. The dark watermark should be used 
 
 - <div>
 
-  ` `<span id="/s:7heresdk14WatermarkStyleO4darkyA2CmF"></span>` `<span id="//apple_ref/swift/Element/dark" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-watermarkstyle#/s:7heresdk14WatermarkStyleO4darkyA2CmF" class="token"><code>dark</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14WatermarkStyleO4darkyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-dark" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-watermarkstyle#sdk-for-ios-explore-s-7heresdk14WatermarkStyleO4darkyA2CmF" class="token"><code>dark</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Defines the style of the HERE watermark logo. The dark watermark should be used 
 
 - <div>
 
-  ` `<span id="/s:7heresdk14WatermarkStyleO5lightyA2CmF"></span>` `<span id="//apple_ref/swift/Element/light" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-watermarkstyle#/s:7heresdk14WatermarkStyleO5lightyA2CmF" class="token"><code>light</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14WatermarkStyleO5lightyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-light" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-watermarkstyle#sdk-for-ios-explore-s-7heresdk14WatermarkStyleO5lightyA2CmF" class="token"><code>light</code></a> 
 
   </div>
 

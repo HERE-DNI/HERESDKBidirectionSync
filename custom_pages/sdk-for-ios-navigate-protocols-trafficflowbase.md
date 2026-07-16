@@ -30,7 +30,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-  ` `<span id="/s:7heresdk15TrafficFlowBaseP04freeC22SpeedInMetersPerSecondSdvp"></span>` `<span id="//apple_ref/swift/Property/freeFlowSpeedInMetersPerSecond" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-protocols-trafficflowbase#/s:7heresdk15TrafficFlowBaseP04freeC22SpeedInMetersPerSecondSdvp" class="token"><code>freeFlowSpeedInMetersPerSecond</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15TrafficFlowBaseP04freeC22SpeedInMetersPerSecondSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-freeFlowSpeedInMetersPerSecond" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-protocols-trafficflowbase#sdk-for-ios-navigate-s-7heresdk15TrafficFlowBaseP04freeC22SpeedInMetersPerSecondSdvp" class="token"><code>freeFlowSpeedInMetersPerSecond</code></a> 
 
   </div>
 
@@ -74,7 +74,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-  ` `<span id="/s:7heresdk15TrafficFlowBaseP9jamFactorSdvp"></span>` `<span id="//apple_ref/swift/Property/jamFactor" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-protocols-trafficflowbase#/s:7heresdk15TrafficFlowBaseP9jamFactorSdvp" class="token"><code>jamFactor</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15TrafficFlowBaseP9jamFactorSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-jamFactor" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-protocols-trafficflowbase#sdk-for-ios-navigate-s-7heresdk15TrafficFlowBaseP9jamFactorSdvp" class="token"><code>jamFactor</code></a> 
 
   </div>
 

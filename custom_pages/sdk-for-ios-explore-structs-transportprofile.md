@@ -10,10 +10,9 @@ slug: "sdk-for-ios-explore-structs-transportprofile"
 <div class="language">
 
 ``` highlight
-@available(*, deprecated, message: "Will be removed in v4.28.0. Use `TransportSpecification` instead.") public struct TransportProfile : Hashable
+@available(*, deprecated, message: "Will be removed in v4.28.0. Use `TransportSpecification` instead.")
+public struct TransportProfile : Hashable
 ```
-
-</pre>
 
 </div>
 
@@ -29,7 +28,7 @@ Contains values of transport profile. This is a BETA feature and thus there can 
 
 - <div>
 
-  ` `<span id="/s:7heresdk16TransportProfileV010pedestrianC0AA010PedestrianC0Vvp"></span>` `<span id="//apple_ref/swift/Property/pedestrianProfile" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-transportprofile#/s:7heresdk16TransportProfileV010pedestrianC0AA010PedestrianC0Vvp" class="token"><code>pedestrianProfile</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16TransportProfileV010pedestrianC0AA010PedestrianC0Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-pedestrianProfile" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-transportprofile#sdk-for-ios-explore-s-7heresdk16TransportProfileV010pedestrianC0AA010PedestrianC0Vvp" class="token"><code>pedestrianProfile</code></a> 
 
   </div>
 
@@ -65,6 +64,10 @@ Contains values of transport profile. This is a BETA feature and thus there can 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-pedestrianprofile">PedestrianProfile</a>
+
   </div>
 
   </div>
@@ -73,7 +76,7 @@ Contains values of transport profile. This is a BETA feature and thus there can 
 
 - <div>
 
-  ` `<span id="/s:7heresdk16TransportProfileV07vehicleC0AA07VehicleC0VSgvp"></span>` `<span id="//apple_ref/swift/Property/vehicleProfile" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-transportprofile#/s:7heresdk16TransportProfileV07vehicleC0AA07VehicleC0VSgvp" class="token"><code>vehicleProfile</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16TransportProfileV07vehicleC0AA07VehicleC0VSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-vehicleProfile" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-transportprofile#sdk-for-ios-explore-s-7heresdk16TransportProfileV07vehicleC0AA07VehicleC0VSgvp" class="token"><code>vehicleProfile</code></a> 
 
   </div>
 
@@ -109,6 +112,10 @@ Contains values of transport profile. This is a BETA feature and thus there can 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-vehicleprofile">VehicleProfile</a>
+
   </div>
 
   </div>
@@ -117,7 +124,7 @@ Contains values of transport profile. This is a BETA feature and thus there can 
 
 - <div>
 
-      init(pedestrianProfile: vehicleProfile: )
+   <span id="sdk-for-ios-explore-s-7heresdk16TransportProfileV010pedestrianC007vehicleC0AcA010PedestrianC0V_AA07VehicleC0VSgtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-pedestrianProfile-vehicleProfile" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-transportprofile#sdk-for-ios-explore-s-7heresdk16TransportProfileV010pedestrianC007vehicleC0AcA010PedestrianC0V_AA07VehicleC0VSgtcfc" class="token"><code>init(pedestrianProfile:</code><wbr></wbr><code>vehicleProfile:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -148,12 +155,16 @@ Contains values of transport profile. This is a BETA feature and thus there can 
   Swift
 
   ``` highlight
-  public init ( pedestrianProfile : PedestrianProfile = PedestrianProfile (), vehicleProfile : VehicleProfile ? = VehicleProfile ( vehicleType : VehicleType . car ))
+  public init(pedestrianProfile: PedestrianProfile = PedestrianProfile(), vehicleProfile: VehicleProfile? = VehicleProfile(vehicleType: VehicleType.car))
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-pedestrianprofile">PedestrianProfile</a>
+  - <a href="sdk-for-ios-explore-structs-vehicleprofile">VehicleProfile</a>
+  - <a href="sdk-for-ios-explore-enums-vehicletype">VehicleType</a>
 
   </div>
 

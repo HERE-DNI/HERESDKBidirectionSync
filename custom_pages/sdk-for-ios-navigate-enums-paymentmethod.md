@@ -27,7 +27,7 @@ Available payment methods.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PaymentMethodO7unknownyA2CmF"></span>` `<span id="//apple_ref/swift/Element/unknown" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-paymentmethod#/s:7heresdk13PaymentMethodO7unknownyA2CmF" class="token"><code>unknown</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13PaymentMethodO7unknownyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-unknown" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-paymentmethod#sdk-for-ios-navigate-s-7heresdk13PaymentMethodO7unknownyA2CmF" class="token"><code>unknown</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Available payment methods.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PaymentMethodO4cashyA2CmF"></span>` `<span id="//apple_ref/swift/Element/cash" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-paymentmethod#/s:7heresdk13PaymentMethodO4cashyA2CmF" class="token"><code>cash</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13PaymentMethodO4cashyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-cash" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-paymentmethod#sdk-for-ios-navigate-s-7heresdk13PaymentMethodO4cashyA2CmF" class="token"><code>cash</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Available payment methods.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PaymentMethodO8bankCardyA2CmF"></span>` `<span id="//apple_ref/swift/Element/bankCard" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-paymentmethod#/s:7heresdk13PaymentMethodO8bankCardyA2CmF" class="token"><code>bankCard</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13PaymentMethodO8bankCardyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-bankCard" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-paymentmethod#sdk-for-ios-navigate-s-7heresdk13PaymentMethodO8bankCardyA2CmF" class="token"><code>bankCard</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Available payment methods.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PaymentMethodO10creditCardyA2CmF"></span>` `<span id="//apple_ref/swift/Element/creditCard" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-paymentmethod#/s:7heresdk13PaymentMethodO10creditCardyA2CmF" class="token"><code>creditCard</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13PaymentMethodO10creditCardyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-creditCard" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-paymentmethod#sdk-for-ios-navigate-s-7heresdk13PaymentMethodO10creditCardyA2CmF" class="token"><code>creditCard</code></a> 
 
   </div>
 
@@ -203,7 +203,7 @@ Available payment methods.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PaymentMethodO16passSubscriptionyA2CmF"></span>` `<span id="//apple_ref/swift/Element/passSubscription" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-paymentmethod#/s:7heresdk13PaymentMethodO16passSubscriptionyA2CmF" class="token"><code>passSubscription</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13PaymentMethodO16passSubscriptionyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-passSubscription" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-paymentmethod#sdk-for-ios-navigate-s-7heresdk13PaymentMethodO16passSubscriptionyA2CmF" class="token"><code>passSubscription</code></a> 
 
   </div>
 
@@ -247,7 +247,7 @@ Available payment methods.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PaymentMethodO11transponderyA2CmF"></span>` `<span id="//apple_ref/swift/Element/transponder" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-paymentmethod#/s:7heresdk13PaymentMethodO11transponderyA2CmF" class="token"><code>transponder</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13PaymentMethodO11transponderyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-transponder" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-paymentmethod#sdk-for-ios-navigate-s-7heresdk13PaymentMethodO11transponderyA2CmF" class="token"><code>transponder</code></a> 
 
   </div>
 
@@ -291,7 +291,7 @@ Available payment methods.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PaymentMethodO9videoTollyA2CmF"></span>` `<span id="//apple_ref/swift/Element/videoToll" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-paymentmethod#/s:7heresdk13PaymentMethodO9videoTollyA2CmF" class="token"><code>videoToll</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13PaymentMethodO9videoTollyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-videoToll" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-paymentmethod#sdk-for-ios-navigate-s-7heresdk13PaymentMethodO9videoTollyA2CmF" class="token"><code>videoToll</code></a> 
 
   </div>
 
@@ -335,7 +335,7 @@ Available payment methods.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PaymentMethodO9cashExactyA2CmF"></span>` `<span id="//apple_ref/swift/Element/cashExact" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-paymentmethod#/s:7heresdk13PaymentMethodO9cashExactyA2CmF" class="token"><code>cashExact</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13PaymentMethodO9cashExactyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-cashExact" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-paymentmethod#sdk-for-ios-navigate-s-7heresdk13PaymentMethodO9cashExactyA2CmF" class="token"><code>cashExact</code></a> 
 
   </div>
 
@@ -379,7 +379,7 @@ Available payment methods.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PaymentMethodO10travelCardyA2CmF"></span>` `<span id="//apple_ref/swift/Element/travelCard" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-paymentmethod#/s:7heresdk13PaymentMethodO10travelCardyA2CmF" class="token"><code>travelCard</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13PaymentMethodO10travelCardyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-travelCard" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-paymentmethod#sdk-for-ios-navigate-s-7heresdk13PaymentMethodO10travelCardyA2CmF" class="token"><code>travelCard</code></a> 
 
   </div>
 

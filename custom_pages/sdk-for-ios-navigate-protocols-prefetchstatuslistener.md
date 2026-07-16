@@ -27,7 +27,7 @@ Protocol to get notified on status updates when prefetching map data.
 
 - <div>
 
-      onProgress(percentage: )
+   <span id="sdk-for-ios-navigate-s-7heresdk22PrefetchStatusListenerP10onProgress10percentageys5Int32V_tF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-onProgress-percentage" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-protocols-prefetchstatuslistener#sdk-for-ios-navigate-s-7heresdk22PrefetchStatusListenerP10onProgress10percentageys5Int32V_tF" class="token"><code>onProgress(percentage:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -58,10 +58,8 @@ Protocol to get notified on status updates when prefetching map data.
   Swift
 
   ``` highlight
-  func onProgress ( percentage : Int32 )
+  func onProgress(percentage: Int32)
   ```
-
-  </pre>
 
   </div>
 
@@ -94,7 +92,7 @@ Protocol to get notified on status updates when prefetching map data.
 
 - <div>
 
-      onComplete(error: )
+   <span id="sdk-for-ios-navigate-s-7heresdk22PrefetchStatusListenerP10onComplete5erroryAA14MapLoaderErrorOSg_tF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-onComplete-error" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-protocols-prefetchstatuslistener#sdk-for-ios-navigate-s-7heresdk22PrefetchStatusListenerP10onComplete5erroryAA14MapLoaderErrorOSg_tF" class="token"><code>onComplete(error:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -125,12 +123,14 @@ Protocol to get notified on status updates when prefetching map data.
   Swift
 
   ``` highlight
-  func onComplete ( error : MapLoaderError ?)
+  func onComplete(error: MapLoaderError?)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-maploadererror">MapLoaderError</a>
 
   </div>
 

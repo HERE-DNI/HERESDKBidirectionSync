@@ -27,7 +27,7 @@ Represents a region, from persistent map storage.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15InstalledRegionV8regionIdAA0cE0Vvp"></span>` `<span id="//apple_ref/swift/Property/regionId" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-installedregion#/s:7heresdk15InstalledRegionV8regionIdAA0cE0Vvp" class="token"><code>regionId</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15InstalledRegionV8regionIdAA0cE0Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-regionId" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-installedregion#sdk-for-ios-navigate-s-7heresdk15InstalledRegionV8regionIdAA0cE0Vvp" class="token"><code>regionId</code></a> 
 
   </div>
 
@@ -63,6 +63,10 @@ Represents a region, from persistent map storage.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-regionid">RegionId</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ Represents a region, from persistent map storage.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15InstalledRegionV8parentIdAA0cE0Vvp"></span>` `<span id="//apple_ref/swift/Property/parentId" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-installedregion#/s:7heresdk15InstalledRegionV8parentIdAA0cE0Vvp" class="token"><code>parentId</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15InstalledRegionV8parentIdAA0cE0Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-parentId" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-installedregion#sdk-for-ios-navigate-s-7heresdk15InstalledRegionV8parentIdAA0cE0Vvp" class="token"><code>parentId</code></a> 
 
   </div>
 
@@ -107,6 +111,10 @@ Represents a region, from persistent map storage.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-regionid">RegionId</a>
+
   </div>
 
   </div>
@@ -115,7 +123,7 @@ Represents a region, from persistent map storage.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15InstalledRegionV17sizeOnDiskInBytess5Int64Vvp"></span>` `<span id="//apple_ref/swift/Property/sizeOnDiskInBytes" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-installedregion#/s:7heresdk15InstalledRegionV17sizeOnDiskInBytess5Int64Vvp" class="token"><code>sizeOnDiskInBytes</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15InstalledRegionV17sizeOnDiskInBytess5Int64Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-sizeOnDiskInBytes" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-installedregion#sdk-for-ios-navigate-s-7heresdk15InstalledRegionV17sizeOnDiskInBytess5Int64Vvp" class="token"><code>sizeOnDiskInBytes</code></a> 
 
   </div>
 
@@ -159,7 +167,7 @@ Represents a region, from persistent map storage.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15InstalledRegionV6statusAA0bC6StatusOvp"></span>` `<span id="//apple_ref/swift/Property/status" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-installedregion#/s:7heresdk15InstalledRegionV6statusAA0bC6StatusOvp" class="token"><code>status</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15InstalledRegionV6statusAA0bC6StatusOvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-status" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-installedregion#sdk-for-ios-navigate-s-7heresdk15InstalledRegionV6statusAA0bC6StatusOvp" class="token"><code>status</code></a> 
 
   </div>
 
@@ -195,6 +203,10 @@ Represents a region, from persistent map storage.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-installedregionstatus">InstalledRegionStatus</a>
+
   </div>
 
   </div>
@@ -203,7 +215,7 @@ Represents a region, from persistent map storage.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15InstalledRegionV14lastUpdateTime10Foundation4DateVSgvp"></span>` `<span id="//apple_ref/swift/Property/lastUpdateTime" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-installedregion#/s:7heresdk15InstalledRegionV14lastUpdateTime10Foundation4DateVSgvp" class="token"><code>lastUpdateTime</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15InstalledRegionV14lastUpdateTime10Foundation4DateVSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-lastUpdateTime" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-installedregion#sdk-for-ios-navigate-s-7heresdk15InstalledRegionV14lastUpdateTime10Foundation4DateVSgvp" class="token"><code>lastUpdateTime</code></a> 
 
   </div>
 
@@ -247,7 +259,7 @@ Represents a region, from persistent map storage.
 
 - <div>
 
-      init(regionId: parentId: sizeOnDiskInBytes: status: lastUpdateTime: )
+   <span id="sdk-for-ios-navigate-s-7heresdk15InstalledRegionV8regionId06parentE017sizeOnDiskInBytes6status14lastUpdateTimeAcA0cE0V_AJs5Int64VAA0bC6StatusO10Foundation4DateVSgtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-regionId-parentId-sizeOnDiskInBytes-status-lastUpdateTime" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-installedregion#sdk-for-ios-navigate-s-7heresdk15InstalledRegionV8regionId06parentE017sizeOnDiskInBytes6status14lastUpdateTimeAcA0cE0V_AJs5Int64VAA0bC6StatusO10Foundation4DateVSgtcfc" class="token"><code>init(regionId:</code><wbr></wbr><code>parentId:</code><wbr></wbr><code>sizeOnDiskInBytes:</code><wbr></wbr><code>status:</code><wbr></wbr><code>lastUpdateTime:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -278,12 +290,15 @@ Represents a region, from persistent map storage.
   Swift
 
   ``` highlight
-  public init ( regionId : RegionId , parentId : RegionId , sizeOnDiskInBytes : Int64 , status : InstalledRegionStatus , lastUpdateTime : Date ? = nil )
+  public init(regionId: RegionId, parentId: RegionId, sizeOnDiskInBytes: Int64, status: InstalledRegionStatus, lastUpdateTime: Date? = nil)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-regionid">RegionId</a>
+  - <a href="sdk-for-ios-navigate-enums-installedregionstatus">InstalledRegionStatus</a>
 
   </div>
 

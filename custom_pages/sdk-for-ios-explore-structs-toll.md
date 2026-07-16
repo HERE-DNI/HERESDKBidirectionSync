@@ -29,7 +29,7 @@ This struct presents all the data for a toll.
 
 - <div>
 
-  ` `<span id="/s:7heresdk4TollV11countryCodeSSvp"></span>` `<span id="//apple_ref/swift/Property/countryCode" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-toll#/s:7heresdk4TollV11countryCodeSSvp" class="token"><code>countryCode</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk4TollV11countryCodeSSvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-countryCode" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-toll#sdk-for-ios-explore-s-7heresdk4TollV11countryCodeSSvp" class="token"><code>countryCode</code></a> 
 
   </div>
 
@@ -73,7 +73,7 @@ This struct presents all the data for a toll.
 
 - <div>
 
-  ` `<span id="/s:7heresdk4TollV11tollSystemsSaySSGvp"></span>` `<span id="//apple_ref/swift/Property/tollSystems" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-toll#/s:7heresdk4TollV11tollSystemsSaySSGvp" class="token"><code>tollSystems</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk4TollV11tollSystemsSaySSGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-tollSystems" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-toll#sdk-for-ios-explore-s-7heresdk4TollV11tollSystemsSaySSGvp" class="token"><code>tollSystems</code></a> 
 
   </div>
 
@@ -117,7 +117,7 @@ This struct presents all the data for a toll.
 
 - <div>
 
-  ` `<span id="/s:7heresdk4TollV5faresSayAA0B4FareVGvp"></span>` `<span id="//apple_ref/swift/Property/fares" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-toll#/s:7heresdk4TollV5faresSayAA0B4FareVGvp" class="token"><code>fares</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk4TollV5faresSayAA0B4FareVGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-fares" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-toll#sdk-for-ios-explore-s-7heresdk4TollV5faresSayAA0B4FareVGvp" class="token"><code>fares</code></a> 
 
   </div>
 
@@ -153,6 +153,10 @@ This struct presents all the data for a toll.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-tollfare">TollFare</a>
+
   </div>
 
   </div>
@@ -161,7 +165,7 @@ This struct presents all the data for a toll.
 
 - <div>
 
-      init(countryCode: tollSystems: fares: )
+   <span id="sdk-for-ios-explore-s-7heresdk4TollV11countryCode11tollSystems5faresACSS_SaySSGSayAA0B4FareVGtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-countryCode-tollSystems-fares" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-toll#sdk-for-ios-explore-s-7heresdk4TollV11countryCode11tollSystems5faresACSS_SaySSGSayAA0B4FareVGtcfc" class="token"><code>init(countryCode:</code><wbr></wbr><code>tollSystems:</code><wbr></wbr><code>fares:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -192,12 +196,14 @@ This struct presents all the data for a toll.
   Swift
 
   ``` highlight
-  public init ( countryCode : String , tollSystems : [ String ], fares : [ TollFare ])
+  public init(countryCode: String, tollSystems: [String], fares: [TollFare])
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-tollfare">TollFare</a>
 
   </div>
 

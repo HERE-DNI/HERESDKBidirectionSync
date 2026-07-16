@@ -35,7 +35,7 @@ Single track from the <a href="sdk-for-ios-navigate-classes-gpxdocument">`GPXDoc
 
 - <div>
 
-  ` `<span id="/s:7heresdk8GPXTrackC4nameSSvp"></span>` `<span id="//apple_ref/swift/Property/name" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-gpxtrack#/s:7heresdk8GPXTrackC4nameSSvp" class="token"><code>name</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8GPXTrackC4nameSSvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-name" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-gpxtrack#sdk-for-ios-navigate-s-7heresdk8GPXTrackC4nameSSvp" class="token"><code>name</code></a> 
 
   </div>
 
@@ -79,7 +79,7 @@ Single track from the <a href="sdk-for-ios-navigate-classes-gpxdocument">`GPXDoc
 
 - <div>
 
-  ` `<span id="/s:7heresdk8GPXTrackC11descriptionSSvp"></span>` `<span id="//apple_ref/swift/Property/description" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-gpxtrack#/s:7heresdk8GPXTrackC11descriptionSSvp" class="token"><code>description</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8GPXTrackC11descriptionSSvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-description" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-gpxtrack#sdk-for-ios-navigate-s-7heresdk8GPXTrackC11descriptionSSvp" class="token"><code>description</code></a> 
 
   </div>
 
@@ -123,7 +123,7 @@ Single track from the <a href="sdk-for-ios-navigate-classes-gpxdocument">`GPXDoc
 
 - <div>
 
-      getLocations()
+   <span id="sdk-for-ios-navigate-s-7heresdk8GPXTrackC12getLocationsSayAA8LocationVGyF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-getLocations" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-gpxtrack#sdk-for-ios-navigate-s-7heresdk8GPXTrackC12getLocationsSayAA8LocationVGyF" class="token"><code>getLocations()</code></a> 
 
   </div>
 
@@ -154,12 +154,14 @@ Single track from the <a href="sdk-for-ios-navigate-classes-gpxdocument">`GPXDoc
   Swift
 
   ``` highlight
-  public func getLocations () -> [ Location ]
+  public func getLocations() -> [Location]
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-location">Location</a>
 
   </div>
 

@@ -49,7 +49,7 @@ A charging location includes a collection of one or more EV supply equipment (EV
 
 - <div>
 
-  ` `<span id="/s:7heresdk18EVChargingLocationC2idSSvp"></span>` `<span id="//apple_ref/swift/Property/id" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-evcharginglocation#/s:7heresdk18EVChargingLocationC2idSSvp" class="token"><code>id</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18EVChargingLocationC2idSSvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-id" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-evcharginglocation#sdk-for-ios-navigate-s-7heresdk18EVChargingLocationC2idSSvp" class="token"><code>id</code></a> 
 
   </div>
 
@@ -93,7 +93,7 @@ A charging location includes a collection of one or more EV supply equipment (EV
 
 - <div>
 
-  ` `<span id="/s:7heresdk18EVChargingLocationC4nameSSSgvp"></span>` `<span id="//apple_ref/swift/Property/name" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-evcharginglocation#/s:7heresdk18EVChargingLocationC4nameSSSgvp" class="token"><code>name</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18EVChargingLocationC4nameSSSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-name" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-evcharginglocation#sdk-for-ios-navigate-s-7heresdk18EVChargingLocationC4nameSSSgvp" class="token"><code>name</code></a> 
 
   </div>
 
@@ -137,7 +137,7 @@ A charging location includes a collection of one or more EV supply equipment (EV
 
 - <div>
 
-  ` `<span id="/s:7heresdk18EVChargingLocationC5cpoIDSSSgvp"></span>` `<span id="//apple_ref/swift/Property/cpoID" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-evcharginglocation#/s:7heresdk18EVChargingLocationC5cpoIDSSSgvp" class="token"><code>cpoID</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18EVChargingLocationC5cpoIDSSSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-cpoID" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-evcharginglocation#sdk-for-ios-navigate-s-7heresdk18EVChargingLocationC5cpoIDSSSgvp" class="token"><code>cpoID</code></a> 
 
   </div>
 
@@ -181,7 +181,7 @@ A charging location includes a collection of one or more EV supply equipment (EV
 
 - <div>
 
-  ` `<span id="/s:7heresdk18EVChargingLocationC18evChargingOperatorAA0bF0VSgvp"></span>` `<span id="//apple_ref/swift/Property/evChargingOperator" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-evcharginglocation#/s:7heresdk18EVChargingLocationC18evChargingOperatorAA0bF0VSgvp" class="token"><code>evChargingOperator</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18EVChargingLocationC18evChargingOperatorAA0bF0VSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-evChargingOperator" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-evcharginglocation#sdk-for-ios-navigate-s-7heresdk18EVChargingLocationC18evChargingOperatorAA0bF0VSgvp" class="token"><code>evChargingOperator</code></a> 
 
   </div>
 
@@ -217,6 +217,10 @@ A charging location includes a collection of one or more EV supply equipment (EV
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-evchargingoperator">EVChargingOperator</a>
+
   </div>
 
   </div>
@@ -225,7 +229,7 @@ A charging location includes a collection of one or more EV supply equipment (EV
 
 - <div>
 
-  ` `<span id="/s:7heresdk18EVChargingLocationC21evChargingSubOperatorAA0bG0VSgvp"></span>` `<span id="//apple_ref/swift/Property/evChargingSubOperator" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-evcharginglocation#/s:7heresdk18EVChargingLocationC21evChargingSubOperatorAA0bG0VSgvp" class="token"><code>evChargingSubOperator</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18EVChargingLocationC21evChargingSubOperatorAA0bG0VSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-evChargingSubOperator" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-evcharginglocation#sdk-for-ios-navigate-s-7heresdk18EVChargingLocationC21evChargingSubOperatorAA0bG0VSgvp" class="token"><code>evChargingSubOperator</code></a> 
 
   </div>
 
@@ -261,6 +265,10 @@ A charging location includes a collection of one or more EV supply equipment (EV
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-evchargingoperator">EVChargingOperator</a>
+
   </div>
 
   </div>
@@ -269,7 +277,7 @@ A charging location includes a collection of one or more EV supply equipment (EV
 
 - <div>
 
-  ` `<span id="/s:7heresdk18EVChargingLocationC25eMobilityServiceProvidersSayAA0B8OperatorVGvp"></span>` `<span id="//apple_ref/swift/Property/eMobilityServiceProviders" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-evcharginglocation#/s:7heresdk18EVChargingLocationC25eMobilityServiceProvidersSayAA0B8OperatorVGvp" class="token"><code>eMobilityServiceProviders</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18EVChargingLocationC25eMobilityServiceProvidersSayAA0B8OperatorVGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-eMobilityServiceProviders" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-evcharginglocation#sdk-for-ios-navigate-s-7heresdk18EVChargingLocationC25eMobilityServiceProvidersSayAA0B8OperatorVGvp" class="token"><code>eMobilityServiceProviders</code></a> 
 
   </div>
 
@@ -305,6 +313,10 @@ A charging location includes a collection of one or more EV supply equipment (EV
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-evchargingoperator">EVChargingOperator</a>
+
   </div>
 
   </div>
@@ -313,7 +325,7 @@ A charging location includes a collection of one or more EV supply equipment (EV
 
 - <div>
 
-  ` `<span id="/s:7heresdk18EVChargingLocationC13facilityTypesSayAA12FacilityTypeOGvp"></span>` `<span id="//apple_ref/swift/Property/facilityTypes" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-evcharginglocation#/s:7heresdk18EVChargingLocationC13facilityTypesSayAA12FacilityTypeOGvp" class="token"><code>facilityTypes</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18EVChargingLocationC13facilityTypesSayAA12FacilityTypeOGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-facilityTypes" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-evcharginglocation#sdk-for-ios-navigate-s-7heresdk18EVChargingLocationC13facilityTypesSayAA12FacilityTypeOGvp" class="token"><code>facilityTypes</code></a> 
 
   </div>
 
@@ -349,6 +361,10 @@ A charging location includes a collection of one or more EV supply equipment (EV
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-facilitytype">FacilityType</a>
+
   </div>
 
   </div>
@@ -357,7 +373,7 @@ A charging location includes a collection of one or more EV supply equipment (EV
 
 - <div>
 
-  ` `<span id="/s:7heresdk18EVChargingLocationC11parkingTypeAA07ParkingE0OSgvp"></span>` `<span id="//apple_ref/swift/Property/parkingType" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-evcharginglocation#/s:7heresdk18EVChargingLocationC11parkingTypeAA07ParkingE0OSgvp" class="token"><code>parkingType</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18EVChargingLocationC11parkingTypeAA07ParkingE0OSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-parkingType" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-evcharginglocation#sdk-for-ios-navigate-s-7heresdk18EVChargingLocationC11parkingTypeAA07ParkingE0OSgvp" class="token"><code>parkingType</code></a> 
 
   </div>
 
@@ -393,6 +409,10 @@ A charging location includes a collection of one or more EV supply equipment (EV
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-parkingtype">ParkingType</a>
+
   </div>
 
   </div>
@@ -401,7 +421,7 @@ A charging location includes a collection of one or more EV supply equipment (EV
 
 - <div>
 
-  ` `<span id="/s:7heresdk18EVChargingLocationC9energyMixAA06EnergyE0VSgvp"></span>` `<span id="//apple_ref/swift/Property/energyMix" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-evcharginglocation#/s:7heresdk18EVChargingLocationC9energyMixAA06EnergyE0VSgvp" class="token"><code>energyMix</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18EVChargingLocationC9energyMixAA06EnergyE0VSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-energyMix" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-evcharginglocation#sdk-for-ios-navigate-s-7heresdk18EVChargingLocationC9energyMixAA06EnergyE0VSgvp" class="token"><code>energyMix</code></a> 
 
   </div>
 
@@ -437,6 +457,10 @@ A charging location includes a collection of one or more EV supply equipment (EV
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-energymix">EnergyMix</a>
+
   </div>
 
   </div>
@@ -445,7 +469,7 @@ A charging location includes a collection of one or more EV supply equipment (EV
 
 - <div>
 
-  ` `<span id="/s:7heresdk18EVChargingLocationC5evsesSayAA8EVSEInfoVGvp"></span>` `<span id="//apple_ref/swift/Property/evses" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-evcharginglocation#/s:7heresdk18EVChargingLocationC5evsesSayAA8EVSEInfoVGvp" class="token"><code>evses</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18EVChargingLocationC5evsesSayAA8EVSEInfoVGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-evses" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-evcharginglocation#sdk-for-ios-navigate-s-7heresdk18EVChargingLocationC5evsesSayAA8EVSEInfoVGvp" class="token"><code>evses</code></a> 
 
   </div>
 
@@ -481,6 +505,10 @@ A charging location includes a collection of one or more EV supply equipment (EV
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-evseinfo">EVSEInfo</a>
+
   </div>
 
   </div>
@@ -489,7 +517,7 @@ A charging location includes a collection of one or more EV supply equipment (EV
 
 - <div>
 
-  ` `<span id="/s:7heresdk18EVChargingLocationC7tariffsSayAA0B6TariffVGvp"></span>` `<span id="//apple_ref/swift/Property/tariffs" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-evcharginglocation#/s:7heresdk18EVChargingLocationC7tariffsSayAA0B6TariffVGvp" class="token"><code>tariffs</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18EVChargingLocationC7tariffsSayAA0B6TariffVGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-tariffs" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-evcharginglocation#sdk-for-ios-navigate-s-7heresdk18EVChargingLocationC7tariffsSayAA0B6TariffVGvp" class="token"><code>tariffs</code></a> 
 
   </div>
 
@@ -529,6 +557,10 @@ A charging location includes a collection of one or more EV supply equipment (EV
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-evchargingtariff">EVChargingTariff</a>
+
   </div>
 
   </div>
@@ -537,7 +569,7 @@ A charging location includes a collection of one or more EV supply equipment (EV
 
 - <div>
 
-  ` `<span id="/s:7heresdk18EVChargingLocationC15connectorGroupsSayAA0B14ConnectorGroupVGvp"></span>` `<span id="//apple_ref/swift/Property/connectorGroups" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-evcharginglocation#/s:7heresdk18EVChargingLocationC15connectorGroupsSayAA0B14ConnectorGroupVGvp" class="token"><code>connectorGroups</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18EVChargingLocationC15connectorGroupsSayAA0B14ConnectorGroupVGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-connectorGroups" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-evcharginglocation#sdk-for-ios-navigate-s-7heresdk18EVChargingLocationC15connectorGroupsSayAA0B14ConnectorGroupVGvp" class="token"><code>connectorGroups</code></a> 
 
   </div>
 
@@ -573,6 +605,10 @@ A charging location includes a collection of one or more EV supply equipment (EV
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-evchargingconnectorgroup">EVChargingConnectorGroup</a>
+
   </div>
 
   </div>
@@ -581,7 +617,7 @@ A charging location includes a collection of one or more EV supply equipment (EV
 
 - <div>
 
-  ` `<span id="/s:7heresdk18EVChargingLocationC17supportedVehiclesSayAA0B15VehicleCategoryOGvp"></span>` `<span id="//apple_ref/swift/Property/supportedVehicles" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-evcharginglocation#/s:7heresdk18EVChargingLocationC17supportedVehiclesSayAA0B15VehicleCategoryOGvp" class="token"><code>supportedVehicles</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18EVChargingLocationC17supportedVehiclesSayAA0B15VehicleCategoryOGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-supportedVehicles" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-evcharginglocation#sdk-for-ios-navigate-s-7heresdk18EVChargingLocationC17supportedVehiclesSayAA0B15VehicleCategoryOGvp" class="token"><code>supportedVehicles</code></a> 
 
   </div>
 
@@ -617,6 +653,10 @@ A charging location includes a collection of one or more EV supply equipment (EV
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-evchargingvehiclecategory">EVChargingVehicleCategory</a>
+
   </div>
 
   </div>
@@ -625,7 +665,7 @@ A charging location includes a collection of one or more EV supply equipment (EV
 
 - <div>
 
-  ` `<span id="/s:7heresdk18EVChargingLocationC17truckRestrictionsAA0B16TruckRestrictionVSgvp"></span>` `<span id="//apple_ref/swift/Property/truckRestrictions" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-evcharginglocation#/s:7heresdk18EVChargingLocationC17truckRestrictionsAA0B16TruckRestrictionVSgvp" class="token"><code>truckRestrictions</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18EVChargingLocationC17truckRestrictionsAA0B16TruckRestrictionVSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-truckRestrictions" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-evcharginglocation#sdk-for-ios-navigate-s-7heresdk18EVChargingLocationC17truckRestrictionsAA0B16TruckRestrictionVSgvp" class="token"><code>truckRestrictions</code></a> 
 
   </div>
 
@@ -661,6 +701,10 @@ A charging location includes a collection of one or more EV supply equipment (EV
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-evchargingtruckrestriction">EVChargingTruckRestriction</a>
+
   </div>
 
   </div>
@@ -669,7 +713,7 @@ A charging location includes a collection of one or more EV supply equipment (EV
 
 - <div>
 
-  ` `<span id="/s:7heresdk18EVChargingLocationC12openingHoursAA0b7OpeningE0VSgvp"></span>` `<span id="//apple_ref/swift/Property/openingHours" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-evcharginglocation#/s:7heresdk18EVChargingLocationC12openingHoursAA0b7OpeningE0VSgvp" class="token"><code>openingHours</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18EVChargingLocationC12openingHoursAA0b7OpeningE0VSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-openingHours" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-evcharginglocation#sdk-for-ios-navigate-s-7heresdk18EVChargingLocationC12openingHoursAA0b7OpeningE0VSgvp" class="token"><code>openingHours</code></a> 
 
   </div>
 
@@ -705,6 +749,10 @@ A charging location includes a collection of one or more EV supply equipment (EV
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-evchargingopeninghours">EVChargingOpeningHours</a>
+
   </div>
 
   </div>
@@ -713,7 +761,7 @@ A charging location includes a collection of one or more EV supply equipment (EV
 
 - <div>
 
-  ` `<span id="/s:7heresdk18EVChargingLocationC12restrictionsSayAA25EVAccessRestrictionReasonOGvp"></span>` `<span id="//apple_ref/swift/Property/restrictions" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-evcharginglocation#/s:7heresdk18EVChargingLocationC12restrictionsSayAA25EVAccessRestrictionReasonOGvp" class="token"><code>restrictions</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18EVChargingLocationC12restrictionsSayAA25EVAccessRestrictionReasonOGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-restrictions" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-evcharginglocation#sdk-for-ios-navigate-s-7heresdk18EVChargingLocationC12restrictionsSayAA25EVAccessRestrictionReasonOGvp" class="token"><code>restrictions</code></a> 
 
   </div>
 
@@ -749,6 +797,10 @@ A charging location includes a collection of one or more EV supply equipment (EV
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-evaccessrestrictionreason">EVAccessRestrictionReason</a>
+
   </div>
 
   </div>
@@ -757,7 +809,7 @@ A charging location includes a collection of one or more EV supply equipment (EV
 
 - <div>
 
-  ` `<span id="/s:7heresdk18EVChargingLocationC18supportPhoneNumberSSSgvp"></span>` `<span id="//apple_ref/swift/Property/supportPhoneNumber" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-evcharginglocation#/s:7heresdk18EVChargingLocationC18supportPhoneNumberSSSgvp" class="token"><code>supportPhoneNumber</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18EVChargingLocationC18supportPhoneNumberSSSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-supportPhoneNumber" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-evcharginglocation#sdk-for-ios-navigate-s-7heresdk18EVChargingLocationC18supportPhoneNumberSSSgvp" class="token"><code>supportPhoneNumber</code></a> 
 
   </div>
 
@@ -801,7 +853,7 @@ A charging location includes a collection of one or more EV supply equipment (EV
 
 - <div>
 
-  ` `<span id="/s:7heresdk18EVChargingLocationC8timeZoneSSSgvp"></span>` `<span id="//apple_ref/swift/Property/timeZone" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-evcharginglocation#/s:7heresdk18EVChargingLocationC8timeZoneSSSgvp" class="token"><code>timeZone</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18EVChargingLocationC8timeZoneSSSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-timeZone" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-evcharginglocation#sdk-for-ios-navigate-s-7heresdk18EVChargingLocationC8timeZoneSSSgvp" class="token"><code>timeZone</code></a> 
 
   </div>
 

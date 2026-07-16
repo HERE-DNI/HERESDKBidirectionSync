@@ -35,7 +35,7 @@ An animation that can be applied to a <a href="sdk-for-ios-navigate-classes-mapc
 
 - <div>
 
-  ` `<span id="/s:7heresdk18MapCameraAnimationC18InstantiationErrora"></span>` `<span id="//apple_ref/swift/Alias/InstantiationError" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapcameraanimation#/s:7heresdk18MapCameraAnimationC18InstantiationErrora" class="token"><code>InstantiationError</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18MapCameraAnimationC18InstantiationErrora"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Alias-InstantiationError" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapcameraanimation#sdk-for-ios-navigate-s-7heresdk18MapCameraAnimationC18InstantiationErrora" class="token"><code>InstantiationError</code></a> 
 
   </div>
 
@@ -71,6 +71,10 @@ An animation that can be applied to a <a href="sdk-for-ios-navigate-classes-mapc
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mapcameraanimation-instantiationerrorcode">InstantiationErrorCode</a>
+
   </div>
 
   </div>
@@ -79,7 +83,7 @@ An animation that can be applied to a <a href="sdk-for-ios-navigate-classes-mapc
 
 - <div>
 
-  ` `<span id="/s:7heresdk18MapCameraAnimationC22InstantiationErrorCodeO"></span>` `<span id="//apple_ref/swift/Enum/InstantiationErrorCode" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapcameraanimation#/s:7heresdk18MapCameraAnimationC22InstantiationErrorCodeO" class="token"><code>InstantiationErrorCode</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18MapCameraAnimationC22InstantiationErrorCodeO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-InstantiationErrorCode" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapcameraanimation#sdk-for-ios-navigate-s-7heresdk18MapCameraAnimationC22InstantiationErrorCodeO" class="token"><code>InstantiationErrorCode</code></a> 
 
   </div>
 
@@ -120,6 +124,10 @@ An animation that can be applied to a <a href="sdk-for-ios-navigate-classes-mapc
   ```
 
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mapcameraanimation">MapCameraAnimation</a>
 
   </div>
 

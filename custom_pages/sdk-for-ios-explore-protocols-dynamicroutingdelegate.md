@@ -27,7 +27,7 @@ This protocol should be implemented in order to receive notifications about the 
 
 - <div>
 
-      onBetterRouteFound(newRoute: etaDifferenceInSeconds: distanceDifferenceInMeters: )
+   <span id="sdk-for-ios-explore-s-7heresdk22DynamicRoutingDelegateP18onBetterRouteFound03newG022etaDifferenceInSeconds08distancekL6MetersyAA0G0C_s5Int32VAKtF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-onBetterRouteFound-newRoute-etaDifferenceInSeconds-distanceDifferenceInMeters" class="dashAnchor"></span> <a href="sdk-for-ios-explore-protocols-dynamicroutingdelegate#sdk-for-ios-explore-s-7heresdk22DynamicRoutingDelegateP18onBetterRouteFound03newG022etaDifferenceInSeconds08distancekL6MetersyAA0G0C_s5Int32VAKtF" class="token"><code>onBetterRouteFound(newRoute:</code><wbr></wbr><code>etaDifferenceInSeconds:</code><wbr></wbr><code>distanceDifferenceInMeters:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -58,12 +58,14 @@ This protocol should be implemented in order to receive notifications about the 
   Swift
 
   ``` highlight
-  func onBetterRouteFound ( newRoute : Route , etaDifferenceInSeconds : Int32 , distanceDifferenceInMeters : Int32 )
+  func onBetterRouteFound(newRoute: Route, etaDifferenceInSeconds: Int32, distanceDifferenceInMeters: Int32)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-route">Route</a>
 
   </div>
 
@@ -106,7 +108,7 @@ This protocol should be implemented in order to receive notifications about the 
 
 - <div>
 
-      onRoutingError(routingError: )
+   <span id="sdk-for-ios-explore-s-7heresdk22DynamicRoutingDelegateP02onC5Error07routingF0yAA0cF0O_tF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-onRoutingError-routingError" class="dashAnchor"></span> <a href="sdk-for-ios-explore-protocols-dynamicroutingdelegate#sdk-for-ios-explore-s-7heresdk22DynamicRoutingDelegateP02onC5Error07routingF0yAA0cF0O_tF" class="token"><code>onRoutingError(routingError:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -137,12 +139,14 @@ This protocol should be implemented in order to receive notifications about the 
   Swift
 
   ``` highlight
-  func onRoutingError ( routingError : RoutingError )
+  func onRoutingError(routingError: RoutingError)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-routingerror">RoutingError</a>
 
   </div>
 

@@ -29,7 +29,7 @@ This protocol should be implemented to receive notifications about the current l
 
 - <div>
 
-      onMatchedLocationUpdated(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk23MatchedLocationListenerP02onbC7UpdatedyyAA0bC0VF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-onMatchedLocationUpdated-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-protocols-matchedlocationlistener#sdk-for-ios-explore-s-7heresdk23MatchedLocationListenerP02onbC7UpdatedyyAA0bC0VF" class="token"><code>onMatchedLocationUpdated(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -60,12 +60,14 @@ This protocol should be implemented to receive notifications about the current l
   Swift
 
   ``` highlight
-  func onMatchedLocationUpdated ( _ matchedLocation : MatchedLocation )
+  func onMatchedLocationUpdated(_ matchedLocation: MatchedLocation)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-matchedlocation">MatchedLocation</a>
 
   </div>
 

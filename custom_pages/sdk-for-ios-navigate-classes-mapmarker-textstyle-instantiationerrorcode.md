@@ -19,6 +19,11 @@ extension MapMarker.TextStyle.InstantiationErrorCode : Error
 
 </div>
 
+Related types:
+
+- <a href="sdk-for-ios-navigate-classes-mapmarker">MapMarker</a>
+- <a href="sdk-for-ios-navigate-classes-mapmarker-textstyle">TextStyle</a>
+
 </div>
 
 Describes a reason for failing to create a <a href="sdk-for-ios-navigate-classes-mapmarker-textstyle">`MapMarker.TextStyle`</a>.
@@ -31,7 +36,7 @@ Describes a reason for failing to create a <a href="sdk-for-ios-navigate-classes
 
 - <div>
 
-  ` `<span id="/s:7heresdk9MapMarkerC9TextStyleC22InstantiationErrorCodeO011nonPositiveD4SizeyA2GmF"></span>` `<span id="//apple_ref/swift/Element/nonPositiveTextSize" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapmarker-textstyle-instantiationerrorcode#/s:7heresdk9MapMarkerC9TextStyleC22InstantiationErrorCodeO011nonPositiveD4SizeyA2GmF" class="token"><code>nonPositiveTextSize</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9MapMarkerC9TextStyleC22InstantiationErrorCodeO011nonPositiveD4SizeyA2GmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-nonPositiveTextSize" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapmarker-textstyle-instantiationerrorcode#sdk-for-ios-navigate-s-7heresdk9MapMarkerC9TextStyleC22InstantiationErrorCodeO011nonPositiveD4SizeyA2GmF" class="token"><code>nonPositiveTextSize</code></a> 
 
   </div>
 
@@ -75,7 +80,7 @@ Describes a reason for failing to create a <a href="sdk-for-ios-navigate-classes
 
 - <div>
 
-  ` `<span id="/s:7heresdk9MapMarkerC9TextStyleC22InstantiationErrorCodeO08negativeD11OutlineSizeyA2GmF"></span>` `<span id="//apple_ref/swift/Element/negativeTextOutlineSize" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapmarker-textstyle-instantiationerrorcode#/s:7heresdk9MapMarkerC9TextStyleC22InstantiationErrorCodeO08negativeD11OutlineSizeyA2GmF" class="token"><code>negativeTextOutlineSize</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9MapMarkerC9TextStyleC22InstantiationErrorCodeO08negativeD11OutlineSizeyA2GmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-negativeTextOutlineSize" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapmarker-textstyle-instantiationerrorcode#sdk-for-ios-navigate-s-7heresdk9MapMarkerC9TextStyleC22InstantiationErrorCodeO08negativeD11OutlineSizeyA2GmF" class="token"><code>negativeTextOutlineSize</code></a> 
 
   </div>
 
@@ -119,7 +124,7 @@ Describes a reason for failing to create a <a href="sdk-for-ios-navigate-classes
 
 - <div>
 
-  ` `<span id="/s:7heresdk9MapMarkerC9TextStyleC22InstantiationErrorCodeO05emptyD13PlacementListyA2GmF"></span>` `<span id="//apple_ref/swift/Element/emptyTextPlacementList" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapmarker-textstyle-instantiationerrorcode#/s:7heresdk9MapMarkerC9TextStyleC22InstantiationErrorCodeO05emptyD13PlacementListyA2GmF" class="token"><code>emptyTextPlacementList</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9MapMarkerC9TextStyleC22InstantiationErrorCodeO05emptyD13PlacementListyA2GmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-emptyTextPlacementList" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapmarker-textstyle-instantiationerrorcode#sdk-for-ios-navigate-s-7heresdk9MapMarkerC9TextStyleC22InstantiationErrorCodeO05emptyD13PlacementListyA2GmF" class="token"><code>emptyTextPlacementList</code></a> 
 
   </div>
 
@@ -163,7 +168,7 @@ Describes a reason for failing to create a <a href="sdk-for-ios-navigate-classes
 
 - <div>
 
-  ` `<span id="/s:7heresdk9MapMarkerC9TextStyleC22InstantiationErrorCodeO09duplicateD15PlacementValuesyA2GmF"></span>` `<span id="//apple_ref/swift/Element/duplicateTextPlacementValues" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapmarker-textstyle-instantiationerrorcode#/s:7heresdk9MapMarkerC9TextStyleC22InstantiationErrorCodeO09duplicateD15PlacementValuesyA2GmF" class="token"><code>duplicateTextPlacementValues</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9MapMarkerC9TextStyleC22InstantiationErrorCodeO09duplicateD15PlacementValuesyA2GmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-duplicateTextPlacementValues" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapmarker-textstyle-instantiationerrorcode#sdk-for-ios-navigate-s-7heresdk9MapMarkerC9TextStyleC22InstantiationErrorCodeO09duplicateD15PlacementValuesyA2GmF" class="token"><code>duplicateTextPlacementValues</code></a> 
 
   </div>
 

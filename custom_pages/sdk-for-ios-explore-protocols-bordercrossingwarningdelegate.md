@@ -17,7 +17,7 @@ public protocol BorderCrossingWarningDelegate : AnyObject
 
 </div>
 
-This protocol should be implemented in order to receive border crossing warnings for country and state borders. **Note:** The border crossing warner is a point warner, which means that for a border crossing there will *always* be 2 warnings emitted, with the \[BorderCrossingWarning.distance_type\] set to <a href="sdk-for-ios-explore-enums-distancetype#/s:7heresdk12DistanceTypeO5aheadyA2CmF">`DistanceType.ahead`</a> and <a href="sdk-for-ios-explore-enums-distancetype#/s:7heresdk12DistanceTypeO6passedyA2CmF">`DistanceType.passed`</a> which is given when the location of the border crossing is reached. A <a href="sdk-for-ios-explore-structs-bordercrossingwarning">`BorderCrossingWarning`</a> will not be given until the previous warning of that type has been passed. For example, a route with <a href="sdk-for-ios-explore-structs-bordercrossingwarning">`BorderCrossingWarning`</a> 120 meters and <a href="sdk-for-ios-explore-structs-bordercrossingwarning">`BorderCrossingWarning`</a> 160 meters ahead, the first \[BorderCrossingWarning.distance_to_border_crossing_in_meters\] is 120 meters and the next \[BorderCrossingWarning.distance_to_border_crossing_in_meters\] is then 40 meters, since that is the distance between the first and second warnings.
+This protocol should be implemented in order to receive border crossing warnings for country and state borders. **Note:** The border crossing warner is a point warner, which means that for a border crossing there will *always* be 2 warnings emitted, with the \[BorderCrossingWarning.distance_type\] set to <a href="sdk-for-ios-explore-enums-distancetype#sdk-for-ios-explore-s-7heresdk12DistanceTypeO5aheadyA2CmF">`DistanceType.ahead`</a> and <a href="sdk-for-ios-explore-enums-distancetype#sdk-for-ios-explore-s-7heresdk12DistanceTypeO6passedyA2CmF">`DistanceType.passed`</a> which is given when the location of the border crossing is reached. A <a href="sdk-for-ios-explore-structs-bordercrossingwarning">`BorderCrossingWarning`</a> will not be given until the previous warning of that type has been passed. For example, a route with <a href="sdk-for-ios-explore-structs-bordercrossingwarning">`BorderCrossingWarning`</a> 120 meters and <a href="sdk-for-ios-explore-structs-bordercrossingwarning">`BorderCrossingWarning`</a> 160 meters ahead, the first \[BorderCrossingWarning.distance_to_border_crossing_in_meters\] is 120 meters and the next \[BorderCrossingWarning.distance_to_border_crossing_in_meters\] is then 40 meters, since that is the distance between the first and second warnings.
 
 </div>
 
@@ -27,7 +27,7 @@ This protocol should be implemented in order to receive border crossing warnings
 
 - <div>
 
-      onBorderCrossingWarningUpdated(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk29BorderCrossingWarningDelegateP02onbcD7UpdatedyyAA0bcD0VF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-onBorderCrossingWarningUpdated-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-protocols-bordercrossingwarningdelegate#sdk-for-ios-explore-s-7heresdk29BorderCrossingWarningDelegateP02onbcD7UpdatedyyAA0bcD0VF" class="token"><code>onBorderCrossingWarningUpdated(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -58,12 +58,14 @@ This protocol should be implemented in order to receive border crossing warnings
   Swift
 
   ``` highlight
-  func onBorderCrossingWarningUpdated ( _ borderCrossingWarning : BorderCrossingWarning )
+  func onBorderCrossingWarningUpdated(_ borderCrossingWarning: BorderCrossingWarning)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-bordercrossingwarning">BorderCrossingWarning</a>
 
   </div>
 

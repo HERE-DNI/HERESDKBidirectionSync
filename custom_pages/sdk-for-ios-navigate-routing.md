@@ -13,7 +13,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk16AccessAttributesO"></span>` `<span id="//apple_ref/swift/Enum/AccessAttributes" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk16AccessAttributesO" class="token"><code>AccessAttributes</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16AccessAttributesO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-AccessAttributes" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk16AccessAttributesO" class="token"><code>AccessAttributes</code></a> 
 
   </div>
 
@@ -59,7 +59,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk6AgencyV"></span>` `<span id="//apple_ref/swift/Struct/Agency" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk6AgencyV" class="token"><code>Agency</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk6AgencyV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-Agency" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk6AgencyV" class="token"><code>Agency</code></a> 
 
   </div>
 
@@ -105,7 +105,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk12AllowOptionsV"></span>` `<span id="//apple_ref/swift/Struct/AllowOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk12AllowOptionsV" class="token"><code>AllowOptions</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12AllowOptionsV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-AllowOptions" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk12AllowOptionsV" class="token"><code>AllowOptions</code></a> 
 
   </div>
 
@@ -151,7 +151,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk11AttributionV"></span>` `<span id="//apple_ref/swift/Struct/Attribution" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk11AttributionV" class="token"><code>Attribution</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11AttributionV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-Attribution" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk11AttributionV" class="token"><code>Attribution</code></a> 
 
   </div>
 
@@ -197,7 +197,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk15AttributionTypeO"></span>` `<span id="//apple_ref/swift/Enum/AttributionType" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk15AttributionTypeO" class="token"><code>AttributionType</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15AttributionTypeO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-AttributionType" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk15AttributionTypeO" class="token"><code>AttributionType</code></a> 
 
   </div>
 
@@ -243,7 +243,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk16AvoidanceOptionsV"></span>` `<span id="//apple_ref/swift/Struct/AvoidanceOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk16AvoidanceOptionsV" class="token"><code>AvoidanceOptions</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16AvoidanceOptionsV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-AvoidanceOptions" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk16AvoidanceOptionsV" class="token"><code>AvoidanceOptions</code></a> 
 
   </div>
 
@@ -289,7 +289,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk27AvoidBoundingBoxAreaOptionsV"></span>` `<span id="//apple_ref/swift/Struct/AvoidBoundingBoxAreaOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk27AvoidBoundingBoxAreaOptionsV" class="token"><code>AvoidBoundingBoxAreaOptions</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk27AvoidBoundingBoxAreaOptionsV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-AvoidBoundingBoxAreaOptions" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk27AvoidBoundingBoxAreaOptionsV" class="token"><code>AvoidBoundingBoxAreaOptions</code></a> 
 
   </div>
 
@@ -335,7 +335,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk24AvoidCorridorAreaOptionsV"></span>` `<span id="//apple_ref/swift/Struct/AvoidCorridorAreaOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk24AvoidCorridorAreaOptionsV" class="token"><code>AvoidCorridorAreaOptions</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk24AvoidCorridorAreaOptionsV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-AvoidCorridorAreaOptions" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk24AvoidCorridorAreaOptionsV" class="token"><code>AvoidCorridorAreaOptions</code></a> 
 
   </div>
 
@@ -381,7 +381,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk23AvoidPolygonAreaOptionsV"></span>` `<span id="//apple_ref/swift/Struct/AvoidPolygonAreaOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk23AvoidPolygonAreaOptionsV" class="token"><code>AvoidPolygonAreaOptions</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk23AvoidPolygonAreaOptionsV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-AvoidPolygonAreaOptions" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk23AvoidPolygonAreaOptionsV" class="token"><code>AvoidPolygonAreaOptions</code></a> 
 
   </div>
 
@@ -427,7 +427,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk21BatterySpecificationsV"></span>` `<span id="//apple_ref/swift/Struct/BatterySpecifications" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk21BatterySpecificationsV" class="token"><code>BatterySpecifications</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21BatterySpecificationsV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-BatterySpecifications" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk21BatterySpecificationsV" class="token"><code>BatterySpecifications</code></a> 
 
   </div>
 
@@ -473,7 +473,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk14BicycleOptionsV"></span>` `<span id="//apple_ref/swift/Struct/BicycleOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk14BicycleOptionsV" class="token"><code>BicycleOptions</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14BicycleOptionsV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-BicycleOptions" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk14BicycleOptionsV" class="token"><code>BicycleOptions</code></a> 
 
   </div>
 
@@ -506,10 +506,9 @@ slug: "sdk-for-ios-navigate-routing"
   Swift
 
   ``` highlight
-  @available(*, deprecated, message: "Will be removed in v4.28.0. Use `RoutingOptions` class instead.") public struct BicycleOptions : Hashable
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use `RoutingOptions` class instead.")
+  public struct BicycleOptions : Hashable
   ```
-
-  </pre>
 
   </div>
 
@@ -521,7 +520,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk10BusOptionsV"></span>` `<span id="//apple_ref/swift/Struct/BusOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk10BusOptionsV" class="token"><code>BusOptions</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10BusOptionsV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-BusOptions" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk10BusOptionsV" class="token"><code>BusOptions</code></a> 
 
   </div>
 
@@ -554,10 +553,9 @@ slug: "sdk-for-ios-navigate-routing"
   Swift
 
   ``` highlight
-  @available(*, deprecated, message: "Will be removed in v4.28.0. Use `RoutingOptions` class instead.") public struct BusOptions : Hashable
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use `RoutingOptions` class instead.")
+  public struct BusOptions : Hashable
   ```
-
-  </pre>
 
   </div>
 
@@ -569,7 +567,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk10CarOptionsV"></span>` `<span id="//apple_ref/swift/Struct/CarOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk10CarOptionsV" class="token"><code>CarOptions</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10CarOptionsV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-CarOptions" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk10CarOptionsV" class="token"><code>CarOptions</code></a> 
 
   </div>
 
@@ -602,10 +600,9 @@ slug: "sdk-for-ios-navigate-routing"
   Swift
 
   ``` highlight
-  @available(*, deprecated, message: "Will be removed in v4.28.0. Use `RoutingOptions` class instead.") public struct CarOptions : Hashable
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use `RoutingOptions` class instead.")
+  public struct CarOptions : Hashable
   ```
-
-  </pre>
 
   </div>
 
@@ -617,7 +614,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk37CalculateIndoorRouteCompletionHandlera"></span>` `<span id="//apple_ref/swift/Alias/CalculateIndoorRouteCompletionHandler" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk37CalculateIndoorRouteCompletionHandlera" class="token"><code>CalculateIndoorRouteCompletionHandler</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk37CalculateIndoorRouteCompletionHandlera"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Alias-CalculateIndoorRouteCompletionHandler" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk37CalculateIndoorRouteCompletionHandlera" class="token"><code>CalculateIndoorRouteCompletionHandler</code></a> 
 
   </div>
 
@@ -648,12 +645,15 @@ slug: "sdk-for-ios-navigate-routing"
   Swift
 
   ``` highlight
-  public typealias CalculateIndoorRouteCompletionHandler = ( _ indoorRoutingError : IndoorRoutingError ?, _ routeList : [ Route ]?) -> Void
+  public typealias CalculateIndoorRouteCompletionHandler = (_ indoorRoutingError: IndoorRoutingError?, _ routeList: [Route]?) -> Void
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-indoorroutingerror">IndoorRoutingError</a>
+  - <a href="sdk-for-ios-navigate-classes-route">Route</a>
 
   </div>
 
@@ -690,7 +690,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk33CalculateIsolineCompletionHandlera"></span>` `<span id="//apple_ref/swift/Alias/CalculateIsolineCompletionHandler" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk33CalculateIsolineCompletionHandlera" class="token"><code>CalculateIsolineCompletionHandler</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk33CalculateIsolineCompletionHandlera"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Alias-CalculateIsolineCompletionHandler" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk33CalculateIsolineCompletionHandlera" class="token"><code>CalculateIsolineCompletionHandler</code></a> 
 
   </div>
 
@@ -721,12 +721,15 @@ slug: "sdk-for-ios-navigate-routing"
   Swift
 
   ``` highlight
-  public typealias CalculateIsolineCompletionHandler = ( _ routingError : RoutingError ?, _ isolines : [ Isoline ]?) -> Void
+  public typealias CalculateIsolineCompletionHandler = (_ routingError: RoutingError?, _ isolines: [Isoline]?) -> Void
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-routingerror">RoutingError</a>
+  - <a href="sdk-for-ios-navigate-classes-isoline">Isoline</a>
 
   </div>
 
@@ -763,7 +766,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk31CalculateRouteCompletionHandlera"></span>` `<span id="//apple_ref/swift/Alias/CalculateRouteCompletionHandler" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk31CalculateRouteCompletionHandlera" class="token"><code>CalculateRouteCompletionHandler</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk31CalculateRouteCompletionHandlera"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Alias-CalculateRouteCompletionHandler" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk31CalculateRouteCompletionHandlera" class="token"><code>CalculateRouteCompletionHandler</code></a> 
 
   </div>
 
@@ -794,12 +797,15 @@ slug: "sdk-for-ios-navigate-routing"
   Swift
 
   ``` highlight
-  public typealias CalculateRouteCompletionHandler = ( _ routingError : RoutingError ?, _ routeList : [ Route ]?) -> Void
+  public typealias CalculateRouteCompletionHandler = (_ routingError: RoutingError?, _ routeList: [Route]?) -> Void
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-routingerror">RoutingError</a>
+  - <a href="sdk-for-ios-navigate-classes-route">Route</a>
 
   </div>
 
@@ -836,7 +842,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk40CalculateTrafficOnRouteCompletionHandlera"></span>` `<span id="//apple_ref/swift/Alias/CalculateTrafficOnRouteCompletionHandler" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk40CalculateTrafficOnRouteCompletionHandlera" class="token"><code>CalculateTrafficOnRouteCompletionHandler</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk40CalculateTrafficOnRouteCompletionHandlera"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Alias-CalculateTrafficOnRouteCompletionHandler" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk40CalculateTrafficOnRouteCompletionHandlera" class="token"><code>CalculateTrafficOnRouteCompletionHandler</code></a> 
 
   </div>
 
@@ -867,12 +873,15 @@ slug: "sdk-for-ios-navigate-routing"
   Swift
 
   ``` highlight
-  public typealias CalculateTrafficOnRouteCompletionHandler = ( _ routingError : RoutingError ?, _ trafficOnRoute : TrafficOnRoute ?) -> Void
+  public typealias CalculateTrafficOnRouteCompletionHandler = (_ routingError: RoutingError?, _ trafficOnRoute: TrafficOnRoute?) -> Void
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-routingerror">RoutingError</a>
+  - <a href="sdk-for-ios-navigate-structs-trafficonroute">TrafficOnRoute</a>
 
   </div>
 
@@ -909,7 +918,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk21ChargingActionDetailsV"></span>` `<span id="//apple_ref/swift/Struct/ChargingActionDetails" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk21ChargingActionDetailsV" class="token"><code>ChargingActionDetails</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21ChargingActionDetailsV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-ChargingActionDetails" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk21ChargingActionDetailsV" class="token"><code>ChargingActionDetails</code></a> 
 
   </div>
 
@@ -955,7 +964,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk27ChargingConnectorAttributesV"></span>` `<span id="//apple_ref/swift/Struct/ChargingConnectorAttributes" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk27ChargingConnectorAttributesV" class="token"><code>ChargingConnectorAttributes</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk27ChargingConnectorAttributesV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-ChargingConnectorAttributes" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk27ChargingConnectorAttributesV" class="token"><code>ChargingConnectorAttributes</code></a> 
 
   </div>
 
@@ -1001,7 +1010,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk21ChargingConnectorTypeO"></span>` `<span id="//apple_ref/swift/Enum/ChargingConnectorType" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk21ChargingConnectorTypeO" class="token"><code>ChargingConnectorType</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21ChargingConnectorTypeO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-ChargingConnectorType" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk21ChargingConnectorTypeO" class="token"><code>ChargingConnectorType</code></a> 
 
   </div>
 
@@ -1047,7 +1056,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk15ChargingStationV"></span>` `<span id="//apple_ref/swift/Struct/ChargingStation" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk15ChargingStationV" class="token"><code>ChargingStation</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15ChargingStationV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-ChargingStation" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk15ChargingStationV" class="token"><code>ChargingStation</code></a> 
 
   </div>
 
@@ -1093,7 +1102,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk12ChargingStopV"></span>` `<span id="//apple_ref/swift/Struct/ChargingStop" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk12ChargingStopV" class="token"><code>ChargingStop</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12ChargingStopV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-ChargingStop" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk12ChargingStopV" class="token"><code>ChargingStop</code></a> 
 
   </div>
 
@@ -1139,7 +1148,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk18ChargingSupplyTypeO"></span>` `<span id="//apple_ref/swift/Enum/ChargingSupplyType" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk18ChargingSupplyTypeO" class="token"><code>ChargingSupplyType</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18ChargingSupplyTypeO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-ChargingSupplyType" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk18ChargingSupplyTypeO" class="token"><code>ChargingSupplyType</code></a> 
 
   </div>
 
@@ -1185,7 +1194,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk16DynamicSpeedInfoV"></span>` `<span id="//apple_ref/swift/Struct/DynamicSpeedInfo" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk16DynamicSpeedInfoV" class="token"><code>DynamicSpeedInfo</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16DynamicSpeedInfoV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-DynamicSpeedInfo" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk16DynamicSpeedInfoV" class="token"><code>DynamicSpeedInfo</code></a> 
 
   </div>
 
@@ -1231,7 +1240,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk22ElectricVehicleOptionsV"></span>` `<span id="//apple_ref/swift/Struct/ElectricVehicleOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk22ElectricVehicleOptionsV" class="token"><code>ElectricVehicleOptions</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk22ElectricVehicleOptionsV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-ElectricVehicleOptions" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk22ElectricVehicleOptionsV" class="token"><code>ElectricVehicleOptions</code></a> 
 
   </div>
 
@@ -1277,7 +1286,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk25EmpiricalConsumptionModelV"></span>` `<span id="//apple_ref/swift/Struct/EmpiricalConsumptionModel" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk25EmpiricalConsumptionModelV" class="token"><code>EmpiricalConsumptionModel</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk25EmpiricalConsumptionModelV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-EmpiricalConsumptionModel" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk25EmpiricalConsumptionModelV" class="token"><code>EmpiricalConsumptionModel</code></a> 
 
   </div>
 
@@ -1299,7 +1308,7 @@ slug: "sdk-for-ios-navigate-routing"
 
   It estimates the electrical energy required to traverse a route by combining empirically derived vehicle parameters with route characteristics such as distance, elevation changes, and driving speed. Rather than relying on a full physical simulation, this model uses observed consumption behavior to produce realistic and efficient energy estimates suitable for routing, range prediction, and navigation use cases.
 
-  Parameters specific to the electric vehicle are used to calculate energy consumption on a given route. At minimum, you must provide <a href="sdk-for-ios-navigate-structs-empiricalconsumptionmodel#/s:7heresdk25EmpiricalConsumptionModelV06ascentC19InWattHoursPerMeterSdvp">`EmpiricalConsumptionModel.ascentConsumptionInWattHoursPerMeter`</a>, <a href="sdk-for-ios-navigate-structs-empiricalconsumptionmodel#/s:7heresdk25EmpiricalConsumptionModelV34descentRecoveryInWattHoursPerMeterSdvp">`EmpiricalConsumptionModel.descentRecoveryInWattHoursPerMeter`</a> and a <a href="sdk-for-ios-navigate-structs-empiricalconsumptionmodel#/s:7heresdk25EmpiricalConsumptionModelV18freeFlowSpeedTableSDys5Int32VSdGvp">`EmpiricalConsumptionModel.freeFlowSpeedTable`</a>. **Note:** This is a beta release of this feature, so there could be a few bugs and unexpected behaviors. Related APIs may change for new releases without a deprecation process.
+  Parameters specific to the electric vehicle are used to calculate energy consumption on a given route. At minimum, you must provide <a href="sdk-for-ios-navigate-structs-empiricalconsumptionmodel#sdk-for-ios-navigate-s-7heresdk25EmpiricalConsumptionModelV06ascentC19InWattHoursPerMeterSdvp">`EmpiricalConsumptionModel.ascentConsumptionInWattHoursPerMeter`</a>, <a href="sdk-for-ios-navigate-structs-empiricalconsumptionmodel#sdk-for-ios-navigate-s-7heresdk25EmpiricalConsumptionModelV34descentRecoveryInWattHoursPerMeterSdvp">`EmpiricalConsumptionModel.descentRecoveryInWattHoursPerMeter`</a> and a <a href="sdk-for-ios-navigate-structs-empiricalconsumptionmodel#sdk-for-ios-navigate-s-7heresdk25EmpiricalConsumptionModelV18freeFlowSpeedTableSDys5Int32VSdGvp">`EmpiricalConsumptionModel.freeFlowSpeedTable`</a>. **Note:** This is a beta release of this feature, so there could be a few bugs and unexpected behaviors. Related APIs may change for new releases without a deprecation process.
 
   <a href="sdk-for-ios-navigate-structs-empiricalconsumptionmodel" class="slightly-smaller">See more</a>
 
@@ -1327,7 +1336,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk12EVCarOptionsV"></span>` `<span id="//apple_ref/swift/Struct/EVCarOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk12EVCarOptionsV" class="token"><code>EVCarOptions</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12EVCarOptionsV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-EVCarOptions" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk12EVCarOptionsV" class="token"><code>EVCarOptions</code></a> 
 
   </div>
 
@@ -1346,7 +1355,7 @@ slug: "sdk-for-ios-navigate-routing"
   <div class="abstract">
 
   All the options to specify how a route for an electric car should be calculated. At minimum, a valid <a href="sdk-for-ios-navigate-structs-evconsumptionmodel">`EVConsumptionModel`</a> must be set or the route calculation will fail.\
-  Note: <a href="sdk-for-ios-navigate-structs-evcaroptions#/s:7heresdk12EVCarOptionsV18ensureReachabilitySbvp">`EVCarOptions.ensureReachability`</a> must be `true` to make sure that all stopovers are reachable. For this, charging stations may be added to the route. If <a href="sdk-for-ios-navigate-structs-evcaroptions#/s:7heresdk12EVCarOptionsV18ensureReachabilitySbvp">`EVCarOptions.ensureReachability`</a> is true, you need to specify the required route options and battery specifications that include the current charge level of the battery (<a href="sdk-for-ios-navigate-structs-batteryspecifications#/s:7heresdk21BatterySpecificationsV28initialChargeInKilowattHoursSdvp">`BatterySpecifications.initialChargeInKilowattHours`</a>). See the parameter description below for more details.
+  Note: <a href="sdk-for-ios-navigate-structs-evcaroptions#sdk-for-ios-navigate-s-7heresdk12EVCarOptionsV18ensureReachabilitySbvp">`EVCarOptions.ensureReachability`</a> must be `true` to make sure that all stopovers are reachable. For this, charging stations may be added to the route. If <a href="sdk-for-ios-navigate-structs-evcaroptions#sdk-for-ios-navigate-s-7heresdk12EVCarOptionsV18ensureReachabilitySbvp">`EVCarOptions.ensureReachability`</a> is true, you need to specify the required route options and battery specifications that include the current charge level of the battery (<a href="sdk-for-ios-navigate-structs-batteryspecifications#sdk-for-ios-navigate-s-7heresdk21BatterySpecificationsV28initialChargeInKilowattHoursSdvp">`BatterySpecifications.initialChargeInKilowattHours`</a>). See the parameter description below for more details.
 
   <a href="sdk-for-ios-navigate-structs-evcaroptions" class="slightly-smaller">See more</a>
 
@@ -1361,10 +1370,9 @@ slug: "sdk-for-ios-navigate-routing"
   Swift
 
   ``` highlight
-  @available(*, deprecated, message: "Will be removed in v4.28.0. Use `RoutingOptions` class instead.") public struct EVCarOptions : Hashable
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use `RoutingOptions` class instead.")
+  public struct EVCarOptions : Hashable
   ```
-
-  </pre>
 
   </div>
 
@@ -1376,7 +1384,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk14EVChargingPoolV"></span>` `<span id="//apple_ref/swift/Struct/EVChargingPool" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk14EVChargingPoolV" class="token"><code>EVChargingPool</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14EVChargingPoolV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-EVChargingPool" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk14EVChargingPoolV" class="token"><code>EVChargingPool</code></a> 
 
   </div>
 
@@ -1396,9 +1404,9 @@ slug: "sdk-for-ios-navigate-routing"
 
   A charging pool for electric vehicles is an area equipped with one or more charging stations.
 
-  Use <a href="sdk-for-ios-navigate-classes-placecategory#/s:7heresdk13PlaceCategoryC36businessAndServicesEvChargingStationSSvpZ">`PlaceCategory.businessAndServicesEvChargingStation`</a> to find stations. In the <a href="sdk-for-ios-navigate-structs-details">`Details`</a> of a <a href="sdk-for-ios-navigate-classes-place">`Place`</a> result you can find the list of found pools containing stations, if any.
+  Use <a href="sdk-for-ios-navigate-classes-placecategory#sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC36businessAndServicesEvChargingStationSSvpZ">`PlaceCategory.businessAndServicesEvChargingStation`</a> to find stations. In the <a href="sdk-for-ios-navigate-structs-details">`Details`</a> of a <a href="sdk-for-ios-navigate-classes-place">`Place`</a> result you can find the list of found pools containing stations, if any.
 
-  For offline EV rich attributes, also enable <a href="sdk-for-ios-navigate-structs-layerconfiguration-feature#/s:7heresdk18LayerConfigurationV7FeatureO2evyA2EmF">`LayerConfiguration.Feature.ev`</a> in <a href="sdk-for-ios-navigate-structs-sdkoptions#/s:7heresdk10SDKOptionsV18layerConfigurationAA05LayerD0Vvp">`SDKOptions.layerConfiguration`</a>.
+  For offline EV rich attributes, also enable <a href="sdk-for-ios-navigate-structs-layerconfiguration-feature#sdk-for-ios-navigate-s-7heresdk18LayerConfigurationV7FeatureO2evyA2EmF">`LayerConfiguration.Feature.ev`</a> in <a href="sdk-for-ios-navigate-structs-sdkoptions#sdk-for-ios-navigate-s-7heresdk10SDKOptionsV18layerConfigurationAA05LayerD0Vvp">`SDKOptions.layerConfiguration`</a>.
 
   <a href="sdk-for-ios-navigate-structs-evchargingpool" class="slightly-smaller">See more</a>
 
@@ -1426,7 +1434,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk17EVChargingStationV"></span>` `<span id="//apple_ref/swift/Struct/EVChargingStation" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk17EVChargingStationV" class="token"><code>EVChargingStation</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk17EVChargingStationV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-EVChargingStation" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk17EVChargingStationV" class="token"><code>EVChargingStation</code></a> 
 
   </div>
 
@@ -1446,9 +1454,9 @@ slug: "sdk-for-ios-navigate-routing"
 
   Group of connectors for electric vehicles (EVs), defined by a common charging connector type and maximum power level.
 
-  Use <a href="sdk-for-ios-navigate-classes-placecategory#/s:7heresdk13PlaceCategoryC36businessAndServicesEvChargingStationSSvpZ">`PlaceCategory.businessAndServicesEvChargingStation`</a> to find stations. In the <a href="sdk-for-ios-navigate-structs-details">`Details`</a> of a <a href="sdk-for-ios-navigate-classes-place">`Place`</a> result you can find the list of found pools containing stations, if any.
+  Use <a href="sdk-for-ios-navigate-classes-placecategory#sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC36businessAndServicesEvChargingStationSSvpZ">`PlaceCategory.businessAndServicesEvChargingStation`</a> to find stations. In the <a href="sdk-for-ios-navigate-structs-details">`Details`</a> of a <a href="sdk-for-ios-navigate-classes-place">`Place`</a> result you can find the list of found pools containing stations, if any.
 
-  For offline EV rich attributes, enable <a href="sdk-for-ios-navigate-structs-layerconfiguration-feature#/s:7heresdk18LayerConfigurationV7FeatureO2evyA2EmF">`LayerConfiguration.Feature.ev`</a> in <a href="sdk-for-ios-navigate-structs-sdkoptions#/s:7heresdk10SDKOptionsV18layerConfigurationAA05LayerD0Vvp">`SDKOptions.layerConfiguration`</a>.
+  For offline EV rich attributes, enable <a href="sdk-for-ios-navigate-structs-layerconfiguration-feature#sdk-for-ios-navigate-s-7heresdk18LayerConfigurationV7FeatureO2evyA2EmF">`LayerConfiguration.Feature.ev`</a> in <a href="sdk-for-ios-navigate-structs-sdkoptions#sdk-for-ios-navigate-s-7heresdk10SDKOptionsV18layerConfigurationAA05LayerD0Vvp">`SDKOptions.layerConfiguration`</a>.
 
   <a href="sdk-for-ios-navigate-structs-evchargingstation" class="slightly-smaller">See more</a>
 
@@ -1476,7 +1484,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk18EVConsumptionModelV"></span>` `<span id="//apple_ref/swift/Struct/EVConsumptionModel" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk18EVConsumptionModelV" class="token"><code>EVConsumptionModel</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18EVConsumptionModelV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-EVConsumptionModel" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk18EVConsumptionModelV" class="token"><code>EVConsumptionModel</code></a> 
 
   </div>
 
@@ -1494,7 +1502,7 @@ slug: "sdk-for-ios-navigate-routing"
 
   <div class="abstract">
 
-  Parameters specific for the electric vehicle, which are then used to calculate energy consumption on a given route. At minimum, you must provide <a href="sdk-for-ios-navigate-structs-evconsumptionmodel#/s:7heresdk18EVConsumptionModelV36ascentConsumptionInWattHoursPerMeterSdvp">`EVConsumptionModel.ascentConsumptionInWattHoursPerMeter`</a>, <a href="sdk-for-ios-navigate-structs-evconsumptionmodel#/s:7heresdk18EVConsumptionModelV34descentRecoveryInWattHoursPerMeterSdvp">`EVConsumptionModel.descentRecoveryInWattHoursPerMeter`</a> and a <a href="sdk-for-ios-navigate-structs-evconsumptionmodel#/s:7heresdk18EVConsumptionModelV18freeFlowSpeedTableSDys5Int32VSdGvp">`EVConsumptionModel.freeFlowSpeedTable`</a>.
+  Parameters specific for the electric vehicle, which are then used to calculate energy consumption on a given route. At minimum, you must provide <a href="sdk-for-ios-navigate-structs-evconsumptionmodel#sdk-for-ios-navigate-s-7heresdk18EVConsumptionModelV36ascentConsumptionInWattHoursPerMeterSdvp">`EVConsumptionModel.ascentConsumptionInWattHoursPerMeter`</a>, <a href="sdk-for-ios-navigate-structs-evconsumptionmodel#sdk-for-ios-navigate-s-7heresdk18EVConsumptionModelV34descentRecoveryInWattHoursPerMeterSdvp">`EVConsumptionModel.descentRecoveryInWattHoursPerMeter`</a> and a <a href="sdk-for-ios-navigate-structs-evconsumptionmodel#sdk-for-ios-navigate-s-7heresdk18EVConsumptionModelV18freeFlowSpeedTableSDys5Int32VSdGvp">`EVConsumptionModel.freeFlowSpeedTable`</a>.
 
   <a href="sdk-for-ios-navigate-structs-evconsumptionmodel" class="slightly-smaller">See more</a>
 
@@ -1522,7 +1530,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk36EVMobilityServiceProviderPreferencesV"></span>` `<span id="//apple_ref/swift/Struct/EVMobilityServiceProviderPreferences" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk36EVMobilityServiceProviderPreferencesV" class="token"><code>EVMobilityServiceProviderPreferences</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk36EVMobilityServiceProviderPreferencesV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-EVMobilityServiceProviderPreferences" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk36EVMobilityServiceProviderPreferencesV" class="token"><code>EVMobilityServiceProviderPreferences</code></a> 
 
   </div>
 
@@ -1568,7 +1576,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk14EVTruckOptionsV"></span>` `<span id="//apple_ref/swift/Struct/EVTruckOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk14EVTruckOptionsV" class="token"><code>EVTruckOptions</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14EVTruckOptionsV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-EVTruckOptions" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk14EVTruckOptionsV" class="token"><code>EVTruckOptions</code></a> 
 
   </div>
 
@@ -1601,10 +1609,9 @@ slug: "sdk-for-ios-navigate-routing"
   Swift
 
   ``` highlight
-  @available(*, deprecated, message: "Will be removed in v4.28.0. Use `RoutingOptions` class instead.") public struct EVTruckOptions : Hashable
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use `RoutingOptions` class instead.")
+  public struct EVTruckOptions : Hashable
   ```
-
-  </pre>
 
   </div>
 
@@ -1616,7 +1623,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk4FareV"></span>` `<span id="//apple_ref/swift/Struct/Fare" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk4FareV" class="token"><code>Fare</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk4FareV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-Fare" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk4FareV" class="token"><code>Fare</code></a> 
 
   </div>
 
@@ -1662,7 +1669,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk22FarePassValidityPeriodV"></span>` `<span id="//apple_ref/swift/Struct/FarePassValidityPeriod" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk22FarePassValidityPeriodV" class="token"><code>FarePassValidityPeriod</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk22FarePassValidityPeriodV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-FarePassValidityPeriod" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk22FarePassValidityPeriodV" class="token"><code>FarePassValidityPeriod</code></a> 
 
   </div>
 
@@ -1708,7 +1715,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk26FarePassValidityPeriodTypeO"></span>` `<span id="//apple_ref/swift/Enum/FarePassValidityPeriodType" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk26FarePassValidityPeriodTypeO" class="token"><code>FarePassValidityPeriodType</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk26FarePassValidityPeriodTypeO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-FarePassValidityPeriodType" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk26FarePassValidityPeriodTypeO" class="token"><code>FarePassValidityPeriodType</code></a> 
 
   </div>
 
@@ -1754,7 +1761,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk9FarePriceV"></span>` `<span id="//apple_ref/swift/Struct/FarePrice" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk9FarePriceV" class="token"><code>FarePrice</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9FarePriceV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-FarePrice" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk9FarePriceV" class="token"><code>FarePrice</code></a> 
 
   </div>
 
@@ -1800,7 +1807,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk13FarePriceTypeO"></span>` `<span id="//apple_ref/swift/Enum/FarePriceType" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk13FarePriceTypeO" class="token"><code>FarePriceType</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13FarePriceTypeO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-FarePriceType" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk13FarePriceTypeO" class="token"><code>FarePriceType</code></a> 
 
   </div>
 
@@ -1846,7 +1853,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk10FareReasonO"></span>` `<span id="//apple_ref/swift/Enum/FareReason" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk10FareReasonO" class="token"><code>FareReason</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10FareReasonO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-FareReason" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk10FareReasonO" class="token"><code>FareReason</code></a> 
 
   </div>
 
@@ -1892,7 +1899,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk19FunctionalRoadClassO"></span>` `<span id="//apple_ref/swift/Enum/FunctionalRoadClass" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk19FunctionalRoadClassO" class="token"><code>FunctionalRoadClass</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19FunctionalRoadClassO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-FunctionalRoadClass" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk19FunctionalRoadClassO" class="token"><code>FunctionalRoadClass</code></a> 
 
   </div>
 
@@ -1938,7 +1945,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk17HazardousMaterialO"></span>` `<span id="//apple_ref/swift/Enum/HazardousMaterial" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk17HazardousMaterialO" class="token"><code>HazardousMaterial</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk17HazardousMaterialO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-HazardousMaterial" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk17HazardousMaterialO" class="token"><code>HazardousMaterial</code></a> 
 
   </div>
 
@@ -1984,7 +1991,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk22IndoorAvoidanceOptionsV"></span>` `<span id="//apple_ref/swift/Struct/IndoorAvoidanceOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk22IndoorAvoidanceOptionsV" class="token"><code>IndoorAvoidanceOptions</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk22IndoorAvoidanceOptionsV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-IndoorAvoidanceOptions" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk22IndoorAvoidanceOptionsV" class="token"><code>IndoorAvoidanceOptions</code></a> 
 
   </div>
 
@@ -2030,7 +2037,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk14IndoorManeuverC"></span>` `<span id="//apple_ref/swift/Class/IndoorManeuver" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk14IndoorManeuverC" class="token"><code>IndoorManeuver</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14IndoorManeuverC"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Class-IndoorManeuver" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk14IndoorManeuverC" class="token"><code>IndoorManeuver</code></a> 
 
   </div>
 
@@ -2084,7 +2091,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk18IndoorRouteOptionsV"></span>` `<span id="//apple_ref/swift/Struct/IndoorRouteOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk18IndoorRouteOptionsV" class="token"><code>IndoorRouteOptions</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18IndoorRouteOptionsV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-IndoorRouteOptions" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk18IndoorRouteOptionsV" class="token"><code>IndoorRouteOptions</code></a> 
 
   </div>
 
@@ -2130,7 +2137,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk16IndoorRouteStyleC"></span>` `<span id="//apple_ref/swift/Class/IndoorRouteStyle" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk16IndoorRouteStyleC" class="token"><code>IndoorRouteStyle</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16IndoorRouteStyleC"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Class-IndoorRouteStyle" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk16IndoorRouteStyleC" class="token"><code>IndoorRouteStyle</code></a> 
 
   </div>
 
@@ -2184,7 +2191,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk23IndoorRoutingControllerC"></span>` `<span id="//apple_ref/swift/Class/IndoorRoutingController" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk23IndoorRoutingControllerC" class="token"><code>IndoorRoutingController</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk23IndoorRoutingControllerC"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Class-IndoorRoutingController" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk23IndoorRoutingControllerC" class="token"><code>IndoorRoutingController</code></a> 
 
   </div>
 
@@ -2239,7 +2246,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk19IndoorRoutingEngineC"></span>` `<span id="//apple_ref/swift/Class/IndoorRoutingEngine" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk19IndoorRoutingEngineC" class="token"><code>IndoorRoutingEngine</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19IndoorRoutingEngineC"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Class-IndoorRoutingEngine" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk19IndoorRoutingEngineC" class="token"><code>IndoorRoutingEngine</code></a> 
 
   </div>
 
@@ -2295,7 +2302,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk18IndoorRoutingErrorO"></span>` `<span id="//apple_ref/swift/Enum/IndoorRoutingError" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk18IndoorRoutingErrorO" class="token"><code>IndoorRoutingError</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18IndoorRoutingErrorO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-IndoorRoutingError" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk18IndoorRoutingErrorO" class="token"><code>IndoorRoutingError</code></a> 
 
   </div>
 
@@ -2341,7 +2348,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk14IndoorWaypointC"></span>` `<span id="//apple_ref/swift/Class/IndoorWaypoint" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk14IndoorWaypointC" class="token"><code>IndoorWaypoint</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14IndoorWaypointC"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Class-IndoorWaypoint" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk14IndoorWaypointC" class="token"><code>IndoorWaypoint</code></a> 
 
   </div>
 
@@ -2395,7 +2402,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk7IsolineC"></span>` `<span id="//apple_ref/swift/Class/Isoline" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk7IsolineC" class="token"><code>Isoline</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk7IsolineC"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Class-Isoline" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk7IsolineC" class="token"><code>Isoline</code></a> 
 
   </div>
 
@@ -2413,7 +2420,7 @@ slug: "sdk-for-ios-navigate-routing"
 
   <div class="abstract">
 
-  Represents an isoline polygon around a center point. Any possible route between the center and any point on the edges of the polygon can be travelled within the given range restriction. The edges of the polygon are not guaranteed to be on the road as all reachable road endpoints are smoothened to fit into one polygon shape. This process can be influenced by setting <a href="sdk-for-ios-navigate-structs-isolineoptions-calculation#/s:7heresdk14IsolineOptionsV11CalculationV9maxPointss5Int32VSgvp">`IsolineOptions.Calculation.maxPoints`</a>.
+  Represents an isoline polygon around a center point. Any possible route between the center and any point on the edges of the polygon can be travelled within the given range restriction. The edges of the polygon are not guaranteed to be on the road as all reachable road endpoints are smoothened to fit into one polygon shape. This process can be influenced by setting <a href="sdk-for-ios-navigate-structs-isolineoptions-calculation#sdk-for-ios-navigate-s-7heresdk14IsolineOptionsV11CalculationV9maxPointss5Int32VSgvp">`IsolineOptions.Calculation.maxPoints`</a>.
 
   <a href="sdk-for-ios-navigate-classes-isoline" class="slightly-smaller">See more</a>
 
@@ -2449,7 +2456,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk22IsolineCalculationModeO"></span>` `<span id="//apple_ref/swift/Enum/IsolineCalculationMode" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk22IsolineCalculationModeO" class="token"><code>IsolineCalculationMode</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk22IsolineCalculationModeO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-IsolineCalculationMode" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk22IsolineCalculationModeO" class="token"><code>IsolineCalculationMode</code></a> 
 
   </div>
 
@@ -2495,7 +2502,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk14IsolineOptionsV"></span>` `<span id="//apple_ref/swift/Struct/IsolineOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk14IsolineOptionsV" class="token"><code>IsolineOptions</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14IsolineOptionsV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-IsolineOptions" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk14IsolineOptionsV" class="token"><code>IsolineOptions</code></a> 
 
   </div>
 
@@ -2541,7 +2548,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk16IsolineRangeTypeO"></span>` `<span id="//apple_ref/swift/Enum/IsolineRangeType" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk16IsolineRangeTypeO" class="token"><code>IsolineRangeType</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16IsolineRangeTypeO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-IsolineRangeType" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk16IsolineRangeTypeO" class="token"><code>IsolineRangeType</code></a> 
 
   </div>
 
@@ -2587,7 +2594,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk20IsolineRoutingEngineC"></span>` `<span id="//apple_ref/swift/Class/IsolineRoutingEngine" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk20IsolineRoutingEngineC" class="token"><code>IsolineRoutingEngine</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk20IsolineRoutingEngineC"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Class-IsolineRoutingEngine" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk20IsolineRoutingEngineC" class="token"><code>IsolineRoutingEngine</code></a> 
 
   </div>
 
@@ -2641,7 +2648,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk23LocalizedTextPreferenceO"></span>` `<span id="//apple_ref/swift/Enum/LocalizedTextPreference" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk23LocalizedTextPreferenceO" class="token"><code>LocalizedTextPreference</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk23LocalizedTextPreferenceO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-LocalizedTextPreference" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk23LocalizedTextPreferenceO" class="token"><code>LocalizedTextPreference</code></a> 
 
   </div>
 
@@ -2687,7 +2694,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk8ManeuverC"></span>` `<span id="//apple_ref/swift/Class/Maneuver" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk8ManeuverC" class="token"><code>Maneuver</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8ManeuverC"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Class-Maneuver" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk8ManeuverC" class="token"><code>Maneuver</code></a> 
 
   </div>
 
@@ -2705,7 +2712,7 @@ slug: "sdk-for-ios-navigate-routing"
 
   <div class="abstract">
 
-  This class provides all the information for a maneuver. The directional information (e.g. road names, road numbers and signpost direction) is stored in <a href="sdk-for-ios-navigate-classes-maneuver#/s:7heresdk8ManeuverC9roadTextsAA04RoadD0Vvp">`Maneuver.roadTexts`</a> and <a href="sdk-for-ios-navigate-classes-maneuver#/s:7heresdk8ManeuverC13nextRoadTextsAA0dE0Vvp">`Maneuver.nextRoadTexts`</a> attributes. As for the motorway exit information, it can be obtained from <a href="sdk-for-ios-navigate-classes-maneuver#/s:7heresdk8ManeuverC13exitSignTextsAA09LocalizedE0Vvp">`Maneuver.exitSignTexts`</a> attribute.
+  This class provides all the information for a maneuver. The directional information (e.g. road names, road numbers and signpost direction) is stored in <a href="sdk-for-ios-navigate-classes-maneuver#sdk-for-ios-navigate-s-7heresdk8ManeuverC9roadTextsAA04RoadD0Vvp">`Maneuver.roadTexts`</a> and <a href="sdk-for-ios-navigate-classes-maneuver#sdk-for-ios-navigate-s-7heresdk8ManeuverC13nextRoadTextsAA0dE0Vvp">`Maneuver.nextRoadTexts`</a> attributes. As for the motorway exit information, it can be obtained from <a href="sdk-for-ios-navigate-classes-maneuver#sdk-for-ios-navigate-s-7heresdk8ManeuverC13exitSignTextsAA09LocalizedE0Vvp">`Maneuver.exitSignTexts`</a> attribute.
 
   <a href="sdk-for-ios-navigate-classes-maneuver" class="slightly-smaller">See more</a>
 
@@ -2741,7 +2748,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk14ManeuverActionO"></span>` `<span id="//apple_ref/swift/Enum/ManeuverAction" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk14ManeuverActionO" class="token"><code>ManeuverAction</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14ManeuverActionO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-ManeuverAction" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk14ManeuverActionO" class="token"><code>ManeuverAction</code></a> 
 
   </div>
 
@@ -2787,7 +2794,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk11MapDataSizeV"></span>` `<span id="//apple_ref/swift/Struct/MapDataSize" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk11MapDataSizeV" class="token"><code>MapDataSize</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11MapDataSizeV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-MapDataSize" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk11MapDataSizeV" class="token"><code>MapDataSize</code></a> 
 
   </div>
 
@@ -2833,7 +2840,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk19MapDataSizeListenerP"></span>` `<span id="//apple_ref/swift/Protocol/MapDataSizeListener" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk19MapDataSizeListenerP" class="token"><code>MapDataSizeListener</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19MapDataSizeListenerP"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Protocol-MapDataSizeListener" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk19MapDataSizeListenerP" class="token"><code>MapDataSizeListener</code></a> 
 
   </div>
 
@@ -2879,7 +2886,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk21MapMatchedCoordinatesV"></span>` `<span id="//apple_ref/swift/Struct/MapMatchedCoordinates" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk21MapMatchedCoordinatesV" class="token"><code>MapMatchedCoordinates</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21MapMatchedCoordinatesV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-MapMatchedCoordinates" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk21MapMatchedCoordinatesV" class="token"><code>MapMatchedCoordinates</code></a> 
 
   </div>
 
@@ -2925,7 +2932,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk17MatchSideOfStreetO"></span>` `<span id="//apple_ref/swift/Enum/MatchSideOfStreet" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk17MatchSideOfStreetO" class="token"><code>MatchSideOfStreet</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk17MatchSideOfStreetO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-MatchSideOfStreet" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk17MatchSideOfStreetO" class="token"><code>MatchSideOfStreet</code></a> 
 
   </div>
 
@@ -2943,7 +2950,7 @@ slug: "sdk-for-ios-navigate-routing"
 
   <div class="abstract">
 
-  Specifies how the location set by <a href="sdk-for-ios-navigate-structs-waypoint#/s:7heresdk8WaypointV16sideOfStreetHintAA14GeoCoordinatesVSgvp">`Waypoint.sideOfStreetHint`</a> should be handled. This setting might affect the geometry of the resulting route.
+  Specifies how the location set by <a href="sdk-for-ios-navigate-structs-waypoint#sdk-for-ios-navigate-s-7heresdk8WaypointV16sideOfStreetHintAA14GeoCoordinatesVSgvp">`Waypoint.sideOfStreetHint`</a> should be handled. This setting might affect the geometry of the resulting route.
 
   <a href="sdk-for-ios-navigate-enums-matchsideofstreet" class="slightly-smaller">See more</a>
 
@@ -2971,7 +2978,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk18MaxAxleGroupWeightV"></span>` `<span id="//apple_ref/swift/Struct/MaxAxleGroupWeight" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk18MaxAxleGroupWeightV" class="token"><code>MaxAxleGroupWeight</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18MaxAxleGroupWeightV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-MaxAxleGroupWeight" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk18MaxAxleGroupWeightV" class="token"><code>MaxAxleGroupWeight</code></a> 
 
   </div>
 
@@ -3017,7 +3024,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk17MaxSpeedOnSegmentV"></span>` `<span id="//apple_ref/swift/Struct/MaxSpeedOnSegment" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk17MaxSpeedOnSegmentV" class="token"><code>MaxSpeedOnSegment</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk17MaxSpeedOnSegmentV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-MaxSpeedOnSegment" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk17MaxSpeedOnSegmentV" class="token"><code>MaxSpeedOnSegment</code></a> 
 
   </div>
 
@@ -3065,7 +3072,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk14NoticeSeverityO"></span>` `<span id="//apple_ref/swift/Enum/NoticeSeverity" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk14NoticeSeverityO" class="token"><code>NoticeSeverity</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14NoticeSeverityO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-NoticeSeverity" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk14NoticeSeverityO" class="token"><code>NoticeSeverity</code></a> 
 
   </div>
 
@@ -3111,7 +3118,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk20OfflineRoutingEngineC"></span>` `<span id="//apple_ref/swift/Class/OfflineRoutingEngine" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk20OfflineRoutingEngineC" class="token"><code>OfflineRoutingEngine</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk20OfflineRoutingEngineC"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Class-OfflineRoutingEngine" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk20OfflineRoutingEngineC" class="token"><code>OfflineRoutingEngine</code></a> 
 
   </div>
 
@@ -3131,7 +3138,7 @@ slug: "sdk-for-ios-navigate-routing"
 
   Use this class to calculate a route offline from A to B with a number of waypoints in between.
 
-  Route calculation is done asynchronously, and requires map data that is available offline. This can be temporarily cached map data or downloaded offline map data stored in the persisted storage via <a href="sdk-for-ios-navigate-classes-mapdownloader">`MapDownloader`</a>. Note that when using the cache there is a risk of missing data and this may reduce the overall quality of the route or can result in a <a href="sdk-for-ios-navigate-enums-routingerror#/s:7heresdk12RoutingErrorO12noRouteFoundyA2CmF">`RoutingError.noRouteFound`</a> error.
+  Route calculation is done asynchronously, and requires map data that is available offline. This can be temporarily cached map data or downloaded offline map data stored in the persisted storage via <a href="sdk-for-ios-navigate-classes-mapdownloader">`MapDownloader`</a>. Note that when using the cache there is a risk of missing data and this may reduce the overall quality of the route or can result in a <a href="sdk-for-ios-navigate-enums-routingerror#sdk-for-ios-navigate-s-7heresdk12RoutingErrorO12noRouteFoundyA2CmF">`RoutingError.noRouteFound`</a> error.
 
   The resulting route contains various information such as the polyline, route length in meters, estimated time to traverse along the route and maneuver data, but it does not contain traffic information.
 
@@ -3141,7 +3148,7 @@ slug: "sdk-for-ios-navigate-routing"
 
   For offline bus routing, enable “OFFLINE_BUS_ROUTING” as feature configuration. For more details, please look at <a href="sdk-for-ios-navigate-structs-sdkoptions">`SDKOptions`</a>. If this feature is not enabled, the engine may not be able to find bus routes.
 
-  **Note:** EV routing is available when calculating a route using the <a href="sdk-for-ios-navigate-structs-routingoptions">`RoutingOptions`</a>, by setting the <a href="sdk-for-ios-navigate-structs-routingoptions#/s:7heresdk14RoutingOptionsV02evC0AA015ElectricVehicleC0VSgvp">`RoutingOptions.evOptions`</a>.
+  **Note:** EV routing is available when calculating a route using the <a href="sdk-for-ios-navigate-structs-routingoptions">`RoutingOptions`</a>, by setting the <a href="sdk-for-ios-navigate-structs-routingoptions#sdk-for-ios-navigate-s-7heresdk14RoutingOptionsV02evC0AA015ElectricVehicleC0VSgvp">`RoutingOptions.evOptions`</a>.
 
   **Note:** Traffic related information is completely excluded. No historic traffic patterns are taking into consideration for the ETA. Currently blocked or closed roads or roads with traffic incident are not considered offline, i.e. the road may pass through such road. Only seasonal road closures are considered based on the departure time, if given. Traffic information is only considered for online route calculation with the <a href="sdk-for-ios-navigate-classes-routingengine">`RoutingEngine`</a>.
 
@@ -3173,6 +3180,10 @@ slug: "sdk-for-ios-navigate-routing"
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-protocols-routingprotocol">RoutingProtocol</a>
+
   </div>
 
   </div>
@@ -3181,7 +3192,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk27OfflineRoutingEngineOptionsV"></span>` `<span id="//apple_ref/swift/Struct/OfflineRoutingEngineOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk27OfflineRoutingEngineOptionsV" class="token"><code>OfflineRoutingEngineOptions</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk27OfflineRoutingEngineOptionsV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-OfflineRoutingEngineOptions" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk27OfflineRoutingEngineOptionsV" class="token"><code>OfflineRoutingEngineOptions</code></a> 
 
   </div>
 
@@ -3227,7 +3238,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk16OptimizationModeO"></span>` `<span id="//apple_ref/swift/Enum/OptimizationMode" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk16OptimizationModeO" class="token"><code>OptimizationMode</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16OptimizationModeO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-OptimizationMode" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk16OptimizationModeO" class="token"><code>OptimizationMode</code></a> 
 
   </div>
 
@@ -3273,7 +3284,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk19PassThroughWaypointV"></span>` `<span id="//apple_ref/swift/Struct/PassThroughWaypoint" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk19PassThroughWaypointV" class="token"><code>PassThroughWaypoint</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19PassThroughWaypointV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-PassThroughWaypoint" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk19PassThroughWaypointV" class="token"><code>PassThroughWaypoint</code></a> 
 
   </div>
 
@@ -3291,7 +3302,7 @@ slug: "sdk-for-ios-navigate-routing"
 
   <div class="abstract">
 
-  This structure provides all the information for a passthrough waypoint. The location information and offset of the waypoint are stored in <a href="sdk-for-ios-navigate-structs-passthroughwaypoint#/s:7heresdk19PassThroughWaypointV5placeAA10RoutePlaceVvp">`PassThroughWaypoint.place`</a> and <a href="sdk-for-ios-navigate-structs-passthroughwaypoint#/s:7heresdk19PassThroughWaypointV6offsets5Int32VSgvp">`PassThroughWaypoint.offset`</a> respectively.
+  This structure provides all the information for a passthrough waypoint. The location information and offset of the waypoint are stored in <a href="sdk-for-ios-navigate-structs-passthroughwaypoint#sdk-for-ios-navigate-s-7heresdk19PassThroughWaypointV5placeAA10RoutePlaceVvp">`PassThroughWaypoint.place`</a> and <a href="sdk-for-ios-navigate-structs-passthroughwaypoint#sdk-for-ios-navigate-s-7heresdk19PassThroughWaypointV6offsets5Int32VSgvp">`PassThroughWaypoint.offset`</a> respectively.
 
   <a href="sdk-for-ios-navigate-structs-passthroughwaypoint" class="slightly-smaller">See more</a>
 
@@ -3319,7 +3330,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PaymentMethodO"></span>` `<span id="//apple_ref/swift/Enum/PaymentMethod" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk13PaymentMethodO" class="token"><code>PaymentMethod</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13PaymentMethodO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-PaymentMethod" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk13PaymentMethodO" class="token"><code>PaymentMethod</code></a> 
 
   </div>
 
@@ -3365,7 +3376,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk17PedestrianOptionsV"></span>` `<span id="//apple_ref/swift/Struct/PedestrianOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk17PedestrianOptionsV" class="token"><code>PedestrianOptions</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk17PedestrianOptionsV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-PedestrianOptions" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk17PedestrianOptionsV" class="token"><code>PedestrianOptions</code></a> 
 
   </div>
 
@@ -3398,10 +3409,9 @@ slug: "sdk-for-ios-navigate-routing"
   Swift
 
   ``` highlight
-  @available(*, deprecated, message: "Will be removed in v4.28.0. Use `RoutingOptions` class instead.") public struct PedestrianOptions : Hashable
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use `RoutingOptions` class instead.")
+  public struct PedestrianOptions : Hashable
   ```
-
-  </pre>
 
   </div>
 
@@ -3413,7 +3423,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk24PhysicalConsumptionModelV"></span>` `<span id="//apple_ref/swift/Struct/PhysicalConsumptionModel" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk24PhysicalConsumptionModelV" class="token"><code>PhysicalConsumptionModel</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk24PhysicalConsumptionModelV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-PhysicalConsumptionModel" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk24PhysicalConsumptionModelV" class="token"><code>PhysicalConsumptionModel</code></a> 
 
   </div>
 
@@ -3459,7 +3469,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk17PolygonPrefetcherC"></span>` `<span id="//apple_ref/swift/Class/PolygonPrefetcher" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk17PolygonPrefetcherC" class="token"><code>PolygonPrefetcher</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk17PolygonPrefetcherC"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Class-PolygonPrefetcher" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk17PolygonPrefetcherC" class="token"><code>PolygonPrefetcher</code></a> 
 
   </div>
 
@@ -3513,7 +3523,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk10PostActionV"></span>` `<span id="//apple_ref/swift/Struct/PostAction" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk10PostActionV" class="token"><code>PostAction</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10PostActionV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-PostAction" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk10PostActionV" class="token"><code>PostAction</code></a> 
 
   </div>
 
@@ -3559,7 +3569,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk18PostActionDelegateP"></span>` `<span id="//apple_ref/swift/Protocol/PostActionDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk18PostActionDelegateP" class="token"><code>PostActionDelegate</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18PostActionDelegateP"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Protocol-PostActionDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk18PostActionDelegateP" class="token"><code>PostActionDelegate</code></a> 
 
   </div>
 
@@ -3605,7 +3615,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk14PostActionTypeO"></span>` `<span id="//apple_ref/swift/Enum/PostActionType" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk14PostActionTypeO" class="token"><code>PostActionType</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14PostActionTypeO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-PostActionType" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk14PostActionTypeO" class="token"><code>PostActionType</code></a> 
 
   </div>
 
@@ -3651,7 +3661,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk9PreActionV"></span>` `<span id="//apple_ref/swift/Struct/PreAction" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk9PreActionV" class="token"><code>PreAction</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9PreActionV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-PreAction" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk9PreActionV" class="token"><code>PreAction</code></a> 
 
   </div>
 
@@ -3697,7 +3707,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PreActionTypeO"></span>` `<span id="//apple_ref/swift/Enum/PreActionType" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk13PreActionTypeO" class="token"><code>PreActionType</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13PreActionTypeO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-PreActionType" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk13PreActionTypeO" class="token"><code>PreActionType</code></a> 
 
   </div>
 
@@ -3743,7 +3753,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk22PrefetchStatusListenerP"></span>` `<span id="//apple_ref/swift/Protocol/PrefetchStatusListener" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk22PrefetchStatusListenerP" class="token"><code>PrefetchStatusListener</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk22PrefetchStatusListenerP"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Protocol-PrefetchStatusListener" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk22PrefetchStatusListenerP" class="token"><code>PrefetchStatusListener</code></a> 
 
   </div>
 
@@ -3789,7 +3799,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk17PrivateBusOptionsV"></span>` `<span id="//apple_ref/swift/Struct/PrivateBusOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk17PrivateBusOptionsV" class="token"><code>PrivateBusOptions</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk17PrivateBusOptionsV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-PrivateBusOptions" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk17PrivateBusOptionsV" class="token"><code>PrivateBusOptions</code></a> 
 
   </div>
 
@@ -3822,10 +3832,9 @@ slug: "sdk-for-ios-navigate-routing"
   Swift
 
   ``` highlight
-  @available(*, deprecated, message: "Will be removed in v4.28.0. Use `RoutingOptions` class instead.") public struct PrivateBusOptions : Hashable
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use `RoutingOptions` class instead.")
+  public struct PrivateBusOptions : Hashable
   ```
-
-  </pre>
 
   </div>
 
@@ -3837,7 +3846,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk19RefreshRouteOptionsC"></span>` `<span id="//apple_ref/swift/Class/RefreshRouteOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk19RefreshRouteOptionsC" class="token"><code>RefreshRouteOptions</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19RefreshRouteOptionsC"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Class-RefreshRouteOptions" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk19RefreshRouteOptionsC" class="token"><code>RefreshRouteOptions</code></a> 
 
   </div>
 
@@ -3855,7 +3864,7 @@ slug: "sdk-for-ios-navigate-routing"
 
   <div class="abstract">
 
-  The options to specify how to refresh an already calculated route identified by a <a href="sdk-for-ios-navigate-structs-routehandle">`RouteHandle`</a>. All the options that may result in a new route shape are ignored as no new route is calculated. Instead, only the data that accompanies a route, such as traffic information, can be refreshed. Therefore, the following route options are ignored: <a href="sdk-for-ios-navigate-structs-routeoptions#/s:7heresdk12RouteOptionsV12alternativess5Int32Vvp">`RouteOptions.alternatives`</a>, <a href="sdk-for-ios-navigate-structs-routeoptions#/s:7heresdk12RouteOptionsV11arrivalTime10Foundation4DateVSgvp">`RouteOptions.arrivalTime`</a>, and <a href="sdk-for-ios-navigate-structs-routeoptions#/s:7heresdk12RouteOptionsV16optimizationModeAA012OptimizationE0Ovp">`RouteOptions.optimizationMode`</a>. If new <a href="sdk-for-ios-navigate-structs-avoidanceoptions">`AvoidanceOptions`</a> are specified, they are ignored as well and instead new <a href="sdk-for-ios-navigate-structs-sectionnotice">`SectionNotice`</a>‘s are generated that indicate where the requested <a href="sdk-for-ios-navigate-structs-avoidanceoptions">`AvoidanceOptions`</a> are violated. Note that when <a href="sdk-for-ios-navigate-structs-evcaroptions#/s:7heresdk12EVCarOptionsV18ensureReachabilitySbvp">`EVCarOptions.ensureReachability`</a> is set to true, the route refresh request will fail as this option is incompatible with a fixed route shape. If any of the ignored options are important, consider calculating a new route instead.
+  The options to specify how to refresh an already calculated route identified by a <a href="sdk-for-ios-navigate-structs-routehandle">`RouteHandle`</a>. All the options that may result in a new route shape are ignored as no new route is calculated. Instead, only the data that accompanies a route, such as traffic information, can be refreshed. Therefore, the following route options are ignored: <a href="sdk-for-ios-navigate-structs-routeoptions#sdk-for-ios-navigate-s-7heresdk12RouteOptionsV12alternativess5Int32Vvp">`RouteOptions.alternatives`</a>, <a href="sdk-for-ios-navigate-structs-routeoptions#sdk-for-ios-navigate-s-7heresdk12RouteOptionsV11arrivalTime10Foundation4DateVSgvp">`RouteOptions.arrivalTime`</a>, and <a href="sdk-for-ios-navigate-structs-routeoptions#sdk-for-ios-navigate-s-7heresdk12RouteOptionsV16optimizationModeAA012OptimizationE0Ovp">`RouteOptions.optimizationMode`</a>. If new <a href="sdk-for-ios-navigate-structs-avoidanceoptions">`AvoidanceOptions`</a> are specified, they are ignored as well and instead new <a href="sdk-for-ios-navigate-structs-sectionnotice">`SectionNotice`</a>‘s are generated that indicate where the requested <a href="sdk-for-ios-navigate-structs-avoidanceoptions">`AvoidanceOptions`</a> are violated. Note that when <a href="sdk-for-ios-navigate-structs-evcaroptions#sdk-for-ios-navigate-s-7heresdk12EVCarOptionsV18ensureReachabilitySbvp">`EVCarOptions.ensureReachability`</a> is set to true, the route refresh request will fail as this option is incompatible with a fixed route shape. If any of the ignored options are important, consider calculating a new route instead.
 
   **Note:** This is a beta release of this feature, so there could be a few bugs and unexpected behaviors. Related APIs may change for new releases without a deprecation process.
 
@@ -3872,10 +3881,9 @@ slug: "sdk-for-ios-navigate-routing"
   Swift
 
   ``` highlight
-  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `RoutingOptions` class instead.") public class RefreshRouteOptions
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `RoutingOptions` class instead.")
+  public class RefreshRouteOptions
   ```
-
-  </pre>
 
   ``` highlight
   extension RefreshRouteOptions: NativeBase
@@ -3895,7 +3903,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk14RoadAttributesV"></span>` `<span id="//apple_ref/swift/Struct/RoadAttributes" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk14RoadAttributesV" class="token"><code>RoadAttributes</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14RoadAttributesV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-RoadAttributes" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk14RoadAttributesV" class="token"><code>RoadAttributes</code></a> 
 
   </div>
 
@@ -3941,7 +3949,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk22RoadAttributesDelegateP"></span>` `<span id="//apple_ref/swift/Protocol/RoadAttributesDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk22RoadAttributesDelegateP" class="token"><code>RoadAttributesDelegate</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk22RoadAttributesDelegateP"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Protocol-RoadAttributesDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk22RoadAttributesDelegateP" class="token"><code>RoadAttributesDelegate</code></a> 
 
   </div>
 
@@ -3987,7 +3995,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoadFeaturesO"></span>` `<span id="//apple_ref/swift/Enum/RoadFeatures" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk12RoadFeaturesO" class="token"><code>RoadFeatures</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12RoadFeaturesO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-RoadFeatures" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk12RoadFeaturesO" class="token"><code>RoadFeatures</code></a> 
 
   </div>
 
@@ -4033,7 +4041,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk9RoadTextsV"></span>` `<span id="//apple_ref/swift/Struct/RoadTexts" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk9RoadTextsV" class="token"><code>RoadTexts</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9RoadTextsV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-RoadTexts" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk9RoadTextsV" class="token"><code>RoadTexts</code></a> 
 
   </div>
 
@@ -4079,7 +4087,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk5RouteC"></span>` `<span id="//apple_ref/swift/Class/Route" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk5RouteC" class="token"><code>Route</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk5RouteC"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Class-Route" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk5RouteC" class="token"><code>Route</code></a> 
 
   </div>
 
@@ -4135,7 +4143,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk11RouteHandleV"></span>` `<span id="//apple_ref/swift/Struct/RouteHandle" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk11RouteHandleV" class="token"><code>RouteHandle</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11RouteHandleV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-RouteHandle" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk11RouteHandleV" class="token"><code>RouteHandle</code></a> 
 
   </div>
 
@@ -4153,7 +4161,7 @@ slug: "sdk-for-ios-navigate-routing"
 
   <div class="abstract">
 
-  Provides an opaque handle to the calculated <a href="sdk-for-ios-navigate-classes-route">`Route`</a>. A handle encodes the calculated route. The route can be decoded from a handle at a later point in time as long as the service uses the same map data which was used during encoding. Note that the <a href="sdk-for-ios-navigate-classes-route#/s:7heresdk5RouteC11routeHandleAA0bD0VSgvp">`Route.routeHandle`</a> is provided only if <a href="sdk-for-ios-navigate-structs-routeoptions#/s:7heresdk12RouteOptionsV06enableB6HandleSbvp">`RouteOptions.enableRouteHandle`</a> is set before route calculation. A `RouteHandle` generated by the online <a href="sdk-for-ios-navigate-classes-routingengine">`RoutingEngine`</a> is not compatible with the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`OfflineRoutingEngine`</a>. Similarly, a `RouteHandle` from the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`OfflineRoutingEngine`</a> cannot be used with the online <a href="sdk-for-ios-navigate-classes-routingengine">`RoutingEngine`</a>. Using an incompatible `RouteHandle` results in a <a href="sdk-for-ios-navigate-enums-routingerror">`RoutingError`</a>.
+  Provides an opaque handle to the calculated <a href="sdk-for-ios-navigate-classes-route">`Route`</a>. A handle encodes the calculated route. The route can be decoded from a handle at a later point in time as long as the service uses the same map data which was used during encoding. Note that the <a href="sdk-for-ios-navigate-classes-route#sdk-for-ios-navigate-s-7heresdk5RouteC11routeHandleAA0bD0VSgvp">`Route.routeHandle`</a> is provided only if <a href="sdk-for-ios-navigate-structs-routeoptions#sdk-for-ios-navigate-s-7heresdk12RouteOptionsV06enableB6HandleSbvp">`RouteOptions.enableRouteHandle`</a> is set before route calculation. A `RouteHandle` generated by the online <a href="sdk-for-ios-navigate-classes-routingengine">`RoutingEngine`</a> is not compatible with the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`OfflineRoutingEngine`</a>. Similarly, a `RouteHandle` from the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`OfflineRoutingEngine`</a> cannot be used with the online <a href="sdk-for-ios-navigate-classes-routingengine">`RoutingEngine`</a>. Using an incompatible `RouteHandle` results in a <a href="sdk-for-ios-navigate-enums-routingerror">`RoutingError`</a>.
 
   <a href="sdk-for-ios-navigate-structs-routehandle" class="slightly-smaller">See more</a>
 
@@ -4181,7 +4189,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk10RouteLabelV"></span>` `<span id="//apple_ref/swift/Struct/RouteLabel" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk10RouteLabelV" class="token"><code>RouteLabel</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10RouteLabelV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-RouteLabel" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk10RouteLabelV" class="token"><code>RouteLabel</code></a> 
 
   </div>
 
@@ -4199,7 +4207,7 @@ slug: "sdk-for-ios-navigate-routing"
 
   <div class="abstract">
 
-  The main street name or road number for a route. A route can contain more than one such street name or route number. To include route labels in the route response, enable it using <a href="sdk-for-ios-navigate-structs-routeoptions#/s:7heresdk12RouteOptionsV06enableB6LabelsSbvp">`RouteOptions.enableRouteLabels`</a>.
+  The main street name or road number for a route. A route can contain more than one such street name or route number. To include route labels in the route response, enable it using <a href="sdk-for-ios-navigate-structs-routeoptions#sdk-for-ios-navigate-s-7heresdk12RouteOptionsV06enableB6LabelsSbvp">`RouteOptions.enableRouteLabels`</a>.
 
   <a href="sdk-for-ios-navigate-structs-routelabel" class="slightly-smaller">See more</a>
 
@@ -4227,7 +4235,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk14RouteLabelTypeO"></span>` `<span id="//apple_ref/swift/Enum/RouteLabelType" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk14RouteLabelTypeO" class="token"><code>RouteLabelType</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14RouteLabelTypeO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-RouteLabelType" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk14RouteLabelTypeO" class="token"><code>RouteLabelType</code></a> 
 
   </div>
 
@@ -4273,7 +4281,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk11RouteOffsetV"></span>` `<span id="//apple_ref/swift/Struct/RouteOffset" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk11RouteOffsetV" class="token"><code>RouteOffset</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11RouteOffsetV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-RouteOffset" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk11RouteOffsetV" class="token"><code>RouteOffset</code></a> 
 
   </div>
 
@@ -4291,7 +4299,7 @@ slug: "sdk-for-ios-navigate-routing"
 
   <div class="abstract">
 
-  Represents a specific location along the route. A `RouteOffset` is a location on the route defined by the section index and the distance in meters from the start of that section to the specified location on the route. An offset in meters indicates the distance that needs to be traveled to reach a specific location along the route, such as a railway crossing. For the latter case, the location of a railway crossing can be retrieved from <a href="sdk-for-ios-navigate-structs-routerailwaycrossing#/s:7heresdk20RouteRailwayCrossingV11coordinatesAA14GeoCoordinatesVvp">`RouteRailwayCrossing.coordinates`</a>.
+  Represents a specific location along the route. A `RouteOffset` is a location on the route defined by the section index and the distance in meters from the start of that section to the specified location on the route. An offset in meters indicates the distance that needs to be traveled to reach a specific location along the route, such as a railway crossing. For the latter case, the location of a railway crossing can be retrieved from <a href="sdk-for-ios-navigate-structs-routerailwaycrossing#sdk-for-ios-navigate-s-7heresdk20RouteRailwayCrossingV11coordinatesAA14GeoCoordinatesVvp">`RouteRailwayCrossing.coordinates`</a>.
 
   <a href="sdk-for-ios-navigate-structs-routeoffset" class="slightly-smaller">See more</a>
 
@@ -4319,7 +4327,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RouteOptionsV"></span>` `<span id="//apple_ref/swift/Struct/RouteOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk12RouteOptionsV" class="token"><code>RouteOptions</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12RouteOptionsV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-RouteOptions" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk12RouteOptionsV" class="token"><code>RouteOptions</code></a> 
 
   </div>
 
@@ -4365,7 +4373,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk10RoutePlaceV"></span>` `<span id="//apple_ref/swift/Struct/RoutePlace" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk10RoutePlaceV" class="token"><code>RoutePlace</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10RoutePlaceV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-RoutePlace" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk10RoutePlaceV" class="token"><code>RoutePlace</code></a> 
 
   </div>
 
@@ -4411,7 +4419,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk19RoutePlaceDirectionO"></span>` `<span id="//apple_ref/swift/Enum/RoutePlaceDirection" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk19RoutePlaceDirectionO" class="token"><code>RoutePlaceDirection</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19RoutePlaceDirectionO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-RoutePlaceDirection" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk19RoutePlaceDirectionO" class="token"><code>RoutePlaceDirection</code></a> 
 
   </div>
 
@@ -4457,7 +4465,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk14RoutePlaceTypeO"></span>` `<span id="//apple_ref/swift/Enum/RoutePlaceType" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk14RoutePlaceTypeO" class="token"><code>RoutePlaceType</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14RoutePlaceTypeO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-RoutePlaceType" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk14RoutePlaceTypeO" class="token"><code>RoutePlaceType</code></a> 
 
   </div>
 
@@ -4503,7 +4511,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk15RoutePrefetcherC"></span>` `<span id="//apple_ref/swift/Class/RoutePrefetcher" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk15RoutePrefetcherC" class="token"><code>RoutePrefetcher</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15RoutePrefetcherC"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Class-RoutePrefetcher" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk15RoutePrefetcherC" class="token"><code>RoutePrefetcher</code></a> 
 
   </div>
 
@@ -4557,7 +4565,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk20RouteRailwayCrossingV"></span>` `<span id="//apple_ref/swift/Struct/RouteRailwayCrossing" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk20RouteRailwayCrossingV" class="token"><code>RouteRailwayCrossing</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk20RouteRailwayCrossingV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-RouteRailwayCrossing" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk20RouteRailwayCrossingV" class="token"><code>RouteRailwayCrossing</code></a> 
 
   </div>
 
@@ -4603,7 +4611,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk24RouteRailwayCrossingTypeO"></span>` `<span id="//apple_ref/swift/Enum/RouteRailwayCrossingType" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk24RouteRailwayCrossingTypeO" class="token"><code>RouteRailwayCrossingType</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk24RouteRailwayCrossingTypeO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-RouteRailwayCrossingType" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk24RouteRailwayCrossingTypeO" class="token"><code>RouteRailwayCrossingType</code></a> 
 
   </div>
 
@@ -4649,7 +4657,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk9RouteStopV"></span>` `<span id="//apple_ref/swift/Struct/RouteStop" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk9RouteStopV" class="token"><code>RouteStop</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9RouteStopV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-RouteStop" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk9RouteStopV" class="token"><code>RouteStop</code></a> 
 
   </div>
 
@@ -4695,7 +4703,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk16RouteTextOptionsV"></span>` `<span id="//apple_ref/swift/Struct/RouteTextOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk16RouteTextOptionsV" class="token"><code>RouteTextOptions</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16RouteTextOptionsV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-RouteTextOptions" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk16RouteTextOptionsV" class="token"><code>RouteTextOptions</code></a> 
 
   </div>
 
@@ -4741,7 +4749,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk25RoutingConnectionSettingsV"></span>` `<span id="//apple_ref/swift/Struct/RoutingConnectionSettings" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk25RoutingConnectionSettingsV" class="token"><code>RoutingConnectionSettings</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk25RoutingConnectionSettingsV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-RoutingConnectionSettings" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk25RoutingConnectionSettingsV" class="token"><code>RoutingConnectionSettings</code></a> 
 
   </div>
 
@@ -4789,7 +4797,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk13RoutingEngineC"></span>` `<span id="//apple_ref/swift/Class/RoutingEngine" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk13RoutingEngineC" class="token"><code>RoutingEngine</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13RoutingEngineC"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Class-RoutingEngine" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk13RoutingEngineC" class="token"><code>RoutingEngine</code></a> 
 
   </div>
 
@@ -4844,6 +4852,10 @@ slug: "sdk-for-ios-navigate-routing"
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-protocols-routingprotocol">RoutingProtocol</a>
+
   </div>
 
   </div>
@@ -4852,7 +4864,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoutingErrorO"></span>` `<span id="//apple_ref/swift/Enum/RoutingError" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk12RoutingErrorO" class="token"><code>RoutingError</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12RoutingErrorO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-RoutingError" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk12RoutingErrorO" class="token"><code>RoutingError</code></a> 
 
   </div>
 
@@ -4898,7 +4910,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk14RoutingOptionsV"></span>` `<span id="//apple_ref/swift/Struct/RoutingOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk14RoutingOptionsV" class="token"><code>RoutingOptions</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14RoutingOptionsV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-RoutingOptions" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk14RoutingOptionsV" class="token"><code>RoutingOptions</code></a> 
 
   </div>
 
@@ -4923,11 +4935,11 @@ slug: "sdk-for-ios-navigate-routing"
   \*\* Electric vehicle specific requirements \*\* Electric vehicle consumption are estimated when at least one consumption model is defined. Currently two models are supported:
 
   - PhysicalConsumptionModel Aside from the values in PhysicalConsumptionModel additionally these values needs to be defined:
-    - <a href="sdk-for-ios-navigate-structs-vehiclespecification#/s:7heresdk20VehicleSpecificationV24currentWeightInKilogramss5Int32VSgvp">`VehicleSpecification.currentWeightInKilograms`</a> from <a href="sdk-for-ios-navigate-structs-transportspecification#/s:7heresdk22TransportSpecificationV07vehicleC0AA07VehicleC0VSgvp">`TransportSpecification.vehicleSpecification`</a> from <a href="sdk-for-ios-navigate-structs-routingoptions#/s:7heresdk14RoutingOptionsV22transportSpecificationAA09TransportE0Vvp">`RoutingOptions.transportSpecification`</a>
-    - Additionally <a href="sdk-for-ios-navigate-structs-waypoint#/s:7heresdk8WaypointV30currentWeightChangeInKilogramss5Int32VSgvp">`Waypoint.currentWeightChangeInKilograms`</a> can be defined.
+    - <a href="sdk-for-ios-navigate-structs-vehiclespecification#sdk-for-ios-navigate-s-7heresdk20VehicleSpecificationV24currentWeightInKilogramss5Int32VSgvp">`VehicleSpecification.currentWeightInKilograms`</a> from <a href="sdk-for-ios-navigate-structs-transportspecification#sdk-for-ios-navigate-s-7heresdk22TransportSpecificationV07vehicleC0AA07VehicleC0VSgvp">`TransportSpecification.vehicleSpecification`</a> from <a href="sdk-for-ios-navigate-structs-routingoptions#sdk-for-ios-navigate-s-7heresdk14RoutingOptionsV22transportSpecificationAA09TransportE0Vvp">`RoutingOptions.transportSpecification`</a>
+    - Additionally <a href="sdk-for-ios-navigate-structs-waypoint#sdk-for-ios-navigate-s-7heresdk8WaypointV30currentWeightChangeInKilogramss5Int32VSgvp">`Waypoint.currentWeightChangeInKilograms`</a> can be defined.
   - EmpiricalConsumptionModel
 
-  By setting <a href="sdk-for-ios-navigate-structs-electricvehicleoptions#/s:7heresdk22ElectricVehicleOptionsV18ensureReachabilitySbvp">`ElectricVehicleOptions.ensureReachability`</a> the <a href="sdk-for-ios-navigate-classes-routingengine">`RoutingEngine`</a> inserts additional charging stations to reach the waypoints. This feature requires setting the <a href="sdk-for-ios-navigate-structs-batteryspecifications">`BatterySpecifications`</a>. By default a vehicle might not reach the waypoint, when the initial charge is not enough to reach all waypoints. See the parameter description below for more details.
+  By setting <a href="sdk-for-ios-navigate-structs-electricvehicleoptions#sdk-for-ios-navigate-s-7heresdk22ElectricVehicleOptionsV18ensureReachabilitySbvp">`ElectricVehicleOptions.ensureReachability`</a> the <a href="sdk-for-ios-navigate-classes-routingengine">`RoutingEngine`</a> inserts additional charging stations to reach the waypoints. This feature requires setting the <a href="sdk-for-ios-navigate-structs-batteryspecifications">`BatterySpecifications`</a>. By default a vehicle might not reach the waypoint, when the initial charge is not enough to reach all waypoints. See the parameter description below for more details.
 
   <a href="sdk-for-ios-navigate-structs-routingoptions" class="slightly-smaller">See more</a>
 
@@ -4955,7 +4967,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk15RoutingProtocolP"></span>` `<span id="//apple_ref/swift/Protocol/RoutingProtocol" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk15RoutingProtocolP" class="token"><code>RoutingProtocol</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15RoutingProtocolP"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Protocol-RoutingProtocol" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk15RoutingProtocolP" class="token"><code>RoutingProtocol</code></a> 
 
   </div>
 
@@ -5001,7 +5013,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk14ScooterOptionsV"></span>` `<span id="//apple_ref/swift/Struct/ScooterOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk14ScooterOptionsV" class="token"><code>ScooterOptions</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14ScooterOptionsV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-ScooterOptions" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk14ScooterOptionsV" class="token"><code>ScooterOptions</code></a> 
 
   </div>
 
@@ -5034,10 +5046,9 @@ slug: "sdk-for-ios-navigate-routing"
   Swift
 
   ``` highlight
-  @available(*, deprecated, message: "Will be removed in v4.28.0. Use `RoutingOptions` class instead.") public struct ScooterOptions : Hashable
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use `RoutingOptions` class instead.")
+  public struct ScooterOptions : Hashable
   ```
-
-  </pre>
 
   </div>
 
@@ -5049,7 +5060,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk7SectionC"></span>` `<span id="//apple_ref/swift/Class/Section" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk7SectionC" class="token"><code>Section</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk7SectionC"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Class-Section" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk7SectionC" class="token"><code>Section</code></a> 
 
   </div>
 
@@ -5105,7 +5116,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk13SectionNoticeV"></span>` `<span id="//apple_ref/swift/Struct/SectionNotice" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk13SectionNoticeV" class="token"><code>SectionNotice</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13SectionNoticeV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-SectionNotice" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk13SectionNoticeV" class="token"><code>SectionNotice</code></a> 
 
   </div>
 
@@ -5151,7 +5162,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk17SectionNoticeCodeO"></span>` `<span id="//apple_ref/swift/Enum/SectionNoticeCode" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk17SectionNoticeCodeO" class="token"><code>SectionNoticeCode</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk17SectionNoticeCodeO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-SectionNoticeCode" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk17SectionNoticeCodeO" class="token"><code>SectionNoticeCode</code></a> 
 
   </div>
 
@@ -5199,7 +5210,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk20SectionTransportModeO"></span>` `<span id="//apple_ref/swift/Enum/SectionTransportMode" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk20SectionTransportModeO" class="token"><code>SectionTransportMode</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk20SectionTransportModeO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-SectionTransportMode" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk20SectionTransportModeO" class="token"><code>SectionTransportMode</code></a> 
 
   </div>
 
@@ -5245,7 +5256,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk16SegmentReferenceV"></span>` `<span id="//apple_ref/swift/Struct/SegmentReference" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk16SegmentReferenceV" class="token"><code>SegmentReference</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16SegmentReferenceV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-SegmentReference" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk16SegmentReferenceV" class="token"><code>SegmentReference</code></a> 
 
   </div>
 
@@ -5293,7 +5304,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk17SideOfDestinationO"></span>` `<span id="//apple_ref/swift/Enum/SideOfDestination" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk17SideOfDestinationO" class="token"><code>SideOfDestination</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk17SideOfDestinationO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-SideOfDestination" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk17SideOfDestinationO" class="token"><code>SideOfDestination</code></a> 
 
   </div>
 
@@ -5339,7 +5350,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk8SignpostV"></span>` `<span id="//apple_ref/swift/Struct/Signpost" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk8SignpostV" class="token"><code>Signpost</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8SignpostV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-Signpost" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk8SignpostV" class="token"><code>Signpost</code></a> 
 
   </div>
 
@@ -5385,7 +5396,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk13SignpostLabelV"></span>` `<span id="//apple_ref/swift/Struct/SignpostLabel" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk13SignpostLabelV" class="token"><code>SignpostLabel</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13SignpostLabelV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-SignpostLabel" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk13SignpostLabelV" class="token"><code>SignpostLabel</code></a> 
 
   </div>
 
@@ -5431,7 +5442,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk16StreetAttributesO"></span>` `<span id="//apple_ref/swift/Enum/StreetAttributes" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk16StreetAttributesO" class="token"><code>StreetAttributes</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16StreetAttributesO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-StreetAttributes" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk16StreetAttributesO" class="token"><code>StreetAttributes</code></a> 
 
   </div>
 
@@ -5477,7 +5488,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk4SpanC"></span>` `<span id="//apple_ref/swift/Class/Span" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk4SpanC" class="token"><code>Span</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk4SpanC"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Class-Span" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk4SpanC" class="token"><code>Span</code></a> 
 
   </div>
 
@@ -5531,7 +5542,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk11TaxiOptionsV"></span>` `<span id="//apple_ref/swift/Struct/TaxiOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk11TaxiOptionsV" class="token"><code>TaxiOptions</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11TaxiOptionsV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-TaxiOptions" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk11TaxiOptionsV" class="token"><code>TaxiOptions</code></a> 
 
   </div>
 
@@ -5549,9 +5560,9 @@ slug: "sdk-for-ios-navigate-routing"
 
   <div class="abstract">
 
-  All the options to specify how a taxi route should be calculated. See, <a href="sdk-for-ios-navigate-enums-transportmode#/s:7heresdk13TransportModeO4taxiyA2CmF">`TransportMode.taxi`</a>.
+  All the options to specify how a taxi route should be calculated. See, <a href="sdk-for-ios-navigate-enums-transportmode#sdk-for-ios-navigate-s-7heresdk13TransportModeO4taxiyA2CmF">`TransportMode.taxi`</a>.
 
-  **Note:** Specify the optional <a href="sdk-for-ios-navigate-structs-waypoint#/s:7heresdk8WaypointV16sideOfStreetHintAA14GeoCoordinatesVSgvp">`Waypoint.sideOfStreetHint`</a> to indicate at which side of the street a passenger wants to leave the taxi.
+  **Note:** Specify the optional <a href="sdk-for-ios-navigate-structs-waypoint#sdk-for-ios-navigate-s-7heresdk8WaypointV16sideOfStreetHintAA14GeoCoordinatesVSgvp">`Waypoint.sideOfStreetHint`</a> to indicate at which side of the street a passenger wants to leave the taxi.
 
   <a href="sdk-for-ios-navigate-structs-taxioptions" class="slightly-smaller">See more</a>
 
@@ -5566,10 +5577,9 @@ slug: "sdk-for-ios-navigate-routing"
   Swift
 
   ``` highlight
-  @available(*, deprecated, message: "Will be removed in v4.28.0. Use `RoutingOptions` class instead.") public struct TaxiOptions : Hashable
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use `RoutingOptions` class instead.")
+  public struct TaxiOptions : Hashable
   ```
-
-  </pre>
 
   </div>
 
@@ -5581,7 +5591,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk16TextUsageOptionsV"></span>` `<span id="//apple_ref/swift/Struct/TextUsageOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk16TextUsageOptionsV" class="token"><code>TextUsageOptions</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16TextUsageOptionsV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-TextUsageOptions" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk16TextUsageOptionsV" class="token"><code>TextUsageOptions</code></a> 
 
   </div>
 
@@ -5627,7 +5637,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk4TollV"></span>` `<span id="//apple_ref/swift/Struct/Toll" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk4TollV" class="token"><code>Toll</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk4TollV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-Toll" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk4TollV" class="token"><code>Toll</code></a> 
 
   </div>
 
@@ -5675,7 +5685,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk8TollFareV"></span>` `<span id="//apple_ref/swift/Struct/TollFare" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk8TollFareV" class="token"><code>TollFare</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8TollFareV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-TollFare" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk8TollFareV" class="token"><code>TollFare</code></a> 
 
   </div>
 
@@ -5723,7 +5733,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk12TollFarePassV"></span>` `<span id="//apple_ref/swift/Struct/TollFarePass" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk12TollFarePassV" class="token"><code>TollFarePass</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12TollFarePassV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-TollFarePass" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk12TollFarePassV" class="token"><code>TollFarePass</code></a> 
 
   </div>
 
@@ -5769,7 +5779,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk11TollOptionsV"></span>` `<span id="//apple_ref/swift/Struct/TollOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk11TollOptionsV" class="token"><code>TollOptions</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11TollOptionsV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-TollOptions" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk11TollOptionsV" class="token"><code>TollOptions</code></a> 
 
   </div>
 
@@ -5815,7 +5825,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk14TrafficOnRouteV"></span>` `<span id="//apple_ref/swift/Struct/TrafficOnRoute" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk14TrafficOnRouteV" class="token"><code>TrafficOnRoute</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14TrafficOnRouteV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-TrafficOnRoute" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk14TrafficOnRouteV" class="token"><code>TrafficOnRoute</code></a> 
 
   </div>
 
@@ -5861,7 +5871,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk13TrafficOnSpanV"></span>` `<span id="//apple_ref/swift/Struct/TrafficOnSpan" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk13TrafficOnSpanV" class="token"><code>TrafficOnSpan</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13TrafficOnSpanV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-TrafficOnSpan" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk13TrafficOnSpanV" class="token"><code>TrafficOnSpan</code></a> 
 
   </div>
 
@@ -5907,7 +5917,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk16TrafficOnSectionV"></span>` `<span id="//apple_ref/swift/Struct/TrafficOnSection" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk16TrafficOnSectionV" class="token"><code>TrafficOnSection</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16TrafficOnSectionV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-TrafficOnSection" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk16TrafficOnSectionV" class="token"><code>TrafficOnSection</code></a> 
 
   </div>
 
@@ -5953,7 +5963,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk16TransitDepartureV"></span>` `<span id="//apple_ref/swift/Struct/TransitDeparture" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk16TransitDepartureV" class="token"><code>TransitDeparture</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16TransitDepartureV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-TransitDeparture" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk16TransitDepartureV" class="token"><code>TransitDeparture</code></a> 
 
   </div>
 
@@ -5999,7 +6009,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk22TransitDepartureStatusO"></span>` `<span id="//apple_ref/swift/Enum/TransitDepartureStatus" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk22TransitDepartureStatusO" class="token"><code>TransitDepartureStatus</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk22TransitDepartureStatusO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-TransitDepartureStatus" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk22TransitDepartureStatusO" class="token"><code>TransitDepartureStatus</code></a> 
 
   </div>
 
@@ -6045,7 +6055,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk15TransitIncidentV"></span>` `<span id="//apple_ref/swift/Struct/TransitIncident" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk15TransitIncidentV" class="token"><code>TransitIncident</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15TransitIncidentV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-TransitIncident" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk15TransitIncidentV" class="token"><code>TransitIncident</code></a> 
 
   </div>
 
@@ -6091,7 +6101,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk21TransitIncidentEffectO"></span>` `<span id="//apple_ref/swift/Enum/TransitIncidentEffect" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk21TransitIncidentEffectO" class="token"><code>TransitIncidentEffect</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21TransitIncidentEffectO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-TransitIncidentEffect" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk21TransitIncidentEffectO" class="token"><code>TransitIncidentEffect</code></a> 
 
   </div>
 
@@ -6137,7 +6147,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk19TransitIncidentTypeO"></span>` `<span id="//apple_ref/swift/Enum/TransitIncidentType" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk19TransitIncidentTypeO" class="token"><code>TransitIncidentType</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19TransitIncidentTypeO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-TransitIncidentType" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk19TransitIncidentTypeO" class="token"><code>TransitIncidentType</code></a> 
 
   </div>
 
@@ -6183,7 +6193,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk11TransitModeO"></span>` `<span id="//apple_ref/swift/Enum/TransitMode" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk11TransitModeO" class="token"><code>TransitMode</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11TransitModeO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-TransitMode" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk11TransitModeO" class="token"><code>TransitMode</code></a> 
 
   </div>
 
@@ -6229,7 +6239,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk17TransitModeFilterO"></span>` `<span id="//apple_ref/swift/Enum/TransitModeFilter" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk17TransitModeFilterO" class="token"><code>TransitModeFilter</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk17TransitModeFilterO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-TransitModeFilter" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk17TransitModeFilterO" class="token"><code>TransitModeFilter</code></a> 
 
   </div>
 
@@ -6275,7 +6285,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk23TrafficOptimizationModeO"></span>` `<span id="//apple_ref/swift/Enum/TrafficOptimizationMode" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk23TrafficOptimizationModeO" class="token"><code>TrafficOptimizationMode</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk23TrafficOptimizationModeO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-TrafficOptimizationMode" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk23TrafficOptimizationModeO" class="token"><code>TrafficOptimizationMode</code></a> 
 
   </div>
 
@@ -6321,7 +6331,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk19TransitRouteOptionsV"></span>` `<span id="//apple_ref/swift/Struct/TransitRouteOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk19TransitRouteOptionsV" class="token"><code>TransitRouteOptions</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19TransitRouteOptionsV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-TransitRouteOptions" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk19TransitRouteOptionsV" class="token"><code>TransitRouteOptions</code></a> 
 
   </div>
 
@@ -6367,7 +6377,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk20TransitRoutingEngineC"></span>` `<span id="//apple_ref/swift/Class/TransitRoutingEngine" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk20TransitRoutingEngineC" class="token"><code>TransitRoutingEngine</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk20TransitRoutingEngineC"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Class-TransitRoutingEngine" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk20TransitRoutingEngineC" class="token"><code>TransitRoutingEngine</code></a> 
 
   </div>
 
@@ -6421,7 +6431,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk21TransitSectionDetailsV"></span>` `<span id="//apple_ref/swift/Struct/TransitSectionDetails" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk21TransitSectionDetailsV" class="token"><code>TransitSectionDetails</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21TransitSectionDetailsV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-TransitSectionDetails" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk21TransitSectionDetailsV" class="token"><code>TransitSectionDetails</code></a> 
 
   </div>
 
@@ -6467,7 +6477,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk11TransitStopV"></span>` `<span id="//apple_ref/swift/Struct/TransitStop" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk11TransitStopV" class="token"><code>TransitStop</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11TransitStopV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-TransitStop" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk11TransitStopV" class="token"><code>TransitStop</code></a> 
 
   </div>
 
@@ -6513,7 +6523,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk16TransitTransportV"></span>` `<span id="//apple_ref/swift/Struct/TransitTransport" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk16TransitTransportV" class="token"><code>TransitTransport</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16TransitTransportV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-TransitTransport" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk16TransitTransportV" class="token"><code>TransitTransport</code></a> 
 
   </div>
 
@@ -6559,7 +6569,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk15TransitWaypointV"></span>` `<span id="//apple_ref/swift/Struct/TransitWaypoint" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk15TransitWaypointV" class="token"><code>TransitWaypoint</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15TransitWaypointV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-TransitWaypoint" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk15TransitWaypointV" class="token"><code>TransitWaypoint</code></a> 
 
   </div>
 
@@ -6605,7 +6615,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk15TravelDirectionO"></span>` `<span id="//apple_ref/swift/Enum/TravelDirection" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk15TravelDirectionO" class="token"><code>TravelDirection</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15TravelDirectionO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-TravelDirection" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk15TravelDirectionO" class="token"><code>TravelDirection</code></a> 
 
   </div>
 
@@ -6651,7 +6661,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk12TruckOptionsV"></span>` `<span id="//apple_ref/swift/Struct/TruckOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk12TruckOptionsV" class="token"><code>TruckOptions</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12TruckOptionsV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-TruckOptions" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk12TruckOptionsV" class="token"><code>TruckOptions</code></a> 
 
   </div>
 
@@ -6684,10 +6694,9 @@ slug: "sdk-for-ios-navigate-routing"
   Swift
 
   ``` highlight
-  @available(*, deprecated, message: "Will be removed in v4.28.0. Use `RoutingOptions` class instead.") public struct TruckOptions : Hashable
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use `RoutingOptions` class instead.")
+  public struct TruckOptions : Hashable
   ```
-
-  </pre>
 
   </div>
 
@@ -6699,7 +6708,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk19TruckSpecificationsV"></span>` `<span id="//apple_ref/swift/Struct/TruckSpecifications" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk19TruckSpecificationsV" class="token"><code>TruckSpecifications</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19TruckSpecificationsV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-TruckSpecifications" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk19TruckSpecificationsV" class="token"><code>TruckSpecifications</code></a> 
 
   </div>
 
@@ -6732,10 +6741,9 @@ slug: "sdk-for-ios-navigate-routing"
   Swift
 
   ``` highlight
-  @available(*, deprecated, message: "Will be removed in v4.28.0. Use `TransportSpecification` instead.") public struct TruckSpecifications : Hashable
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use `TransportSpecification` instead.")
+  public struct TruckSpecifications : Hashable
   ```
-
-  </pre>
 
   </div>
 
@@ -6747,7 +6755,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk9TruckTypeO"></span>` `<span id="//apple_ref/swift/Enum/TruckType" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk9TruckTypeO" class="token"><code>TruckType</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9TruckTypeO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-TruckType" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk9TruckTypeO" class="token"><code>TruckType</code></a> 
 
   </div>
 
@@ -6780,10 +6788,9 @@ slug: "sdk-for-ios-navigate-routing"
   Swift
 
   ``` highlight
-  @available(*, deprecated, message: "Will be removed in v4.27.0. Use `TruckCategory` instead.") public enum TruckType : UInt32 , CaseIterable , Codable
+  @available(*, deprecated, message: "Will be removed in v4.27.0. Use `TruckCategory` instead.")
+  public enum TruckType : UInt32, CaseIterable, Codable
   ```
-
-  </pre>
 
   </div>
 
@@ -6795,7 +6802,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk14TunnelCategoryO"></span>` `<span id="//apple_ref/swift/Enum/TunnelCategory" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk14TunnelCategoryO" class="token"><code>TunnelCategory</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14TunnelCategoryO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-TunnelCategory" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk14TunnelCategoryO" class="token"><code>TunnelCategory</code></a> 
 
   </div>
 
@@ -6843,7 +6850,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk27VehicleRestrictionMaxWeightV"></span>` `<span id="//apple_ref/swift/Struct/VehicleRestrictionMaxWeight" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk27VehicleRestrictionMaxWeightV" class="token"><code>VehicleRestrictionMaxWeight</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk27VehicleRestrictionMaxWeightV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-VehicleRestrictionMaxWeight" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk27VehicleRestrictionMaxWeightV" class="token"><code>VehicleRestrictionMaxWeight</code></a> 
 
   </div>
 
@@ -6889,7 +6896,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk31VehicleRestrictionMaxWeightTypeO"></span>` `<span id="//apple_ref/swift/Enum/VehicleRestrictionMaxWeightType" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk31VehicleRestrictionMaxWeightTypeO" class="token"><code>VehicleRestrictionMaxWeightType</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk31VehicleRestrictionMaxWeightTypeO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-VehicleRestrictionMaxWeightType" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk31VehicleRestrictionMaxWeightTypeO" class="token"><code>VehicleRestrictionMaxWeightType</code></a> 
 
   </div>
 
@@ -6907,7 +6914,7 @@ slug: "sdk-for-ios-navigate-routing"
 
   <div class="abstract">
 
-  This enum represents the specific type of the maximum permitted weight restriction. **NOTES:** A restriction of type <a href="sdk-for-ios-navigate-enums-vehiclerestrictionmaxweighttype#/s:7heresdk31VehicleRestrictionMaxWeightTypeO7unknownyA2CmF">`VehicleRestrictionMaxWeightType.unknown`</a> may change to <a href="sdk-for-ios-navigate-enums-vehiclerestrictionmaxweighttype#/s:7heresdk31VehicleRestrictionMaxWeightTypeO5grossyA2CmF">`VehicleRestrictionMaxWeightType.gross`</a>, <a href="sdk-for-ios-navigate-enums-vehiclerestrictionmaxweighttype#/s:7heresdk31VehicleRestrictionMaxWeightTypeO7currentyA2CmF">`VehicleRestrictionMaxWeightType.current`</a> or <a href="sdk-for-ios-navigate-enums-vehiclerestrictionmaxweighttype#/s:7heresdk31VehicleRestrictionMaxWeightTypeO5emptyyA2CmF">`VehicleRestrictionMaxWeightType.empty`</a> when data becomes available in future. A restriction of type <a href="sdk-for-ios-navigate-enums-vehiclerestrictionmaxweighttype#/s:7heresdk31VehicleRestrictionMaxWeightTypeO5grossyA2CmF">`VehicleRestrictionMaxWeightType.gross`</a>, <a href="sdk-for-ios-navigate-enums-vehiclerestrictionmaxweighttype#/s:7heresdk31VehicleRestrictionMaxWeightTypeO7currentyA2CmF">`VehicleRestrictionMaxWeightType.current`</a> or <a href="sdk-for-ios-navigate-enums-vehiclerestrictionmaxweighttype#/s:7heresdk31VehicleRestrictionMaxWeightTypeO5emptyyA2CmF">`VehicleRestrictionMaxWeightType.empty`</a> may also change to a different type if actual regulation changes.
+  This enum represents the specific type of the maximum permitted weight restriction. **NOTES:** A restriction of type <a href="sdk-for-ios-navigate-enums-vehiclerestrictionmaxweighttype#sdk-for-ios-navigate-s-7heresdk31VehicleRestrictionMaxWeightTypeO7unknownyA2CmF">`VehicleRestrictionMaxWeightType.unknown`</a> may change to <a href="sdk-for-ios-navigate-enums-vehiclerestrictionmaxweighttype#sdk-for-ios-navigate-s-7heresdk31VehicleRestrictionMaxWeightTypeO5grossyA2CmF">`VehicleRestrictionMaxWeightType.gross`</a>, <a href="sdk-for-ios-navigate-enums-vehiclerestrictionmaxweighttype#sdk-for-ios-navigate-s-7heresdk31VehicleRestrictionMaxWeightTypeO7currentyA2CmF">`VehicleRestrictionMaxWeightType.current`</a> or <a href="sdk-for-ios-navigate-enums-vehiclerestrictionmaxweighttype#sdk-for-ios-navigate-s-7heresdk31VehicleRestrictionMaxWeightTypeO5emptyyA2CmF">`VehicleRestrictionMaxWeightType.empty`</a> when data becomes available in future. A restriction of type <a href="sdk-for-ios-navigate-enums-vehiclerestrictionmaxweighttype#sdk-for-ios-navigate-s-7heresdk31VehicleRestrictionMaxWeightTypeO5grossyA2CmF">`VehicleRestrictionMaxWeightType.gross`</a>, <a href="sdk-for-ios-navigate-enums-vehiclerestrictionmaxweighttype#sdk-for-ios-navigate-s-7heresdk31VehicleRestrictionMaxWeightTypeO7currentyA2CmF">`VehicleRestrictionMaxWeightType.current`</a> or <a href="sdk-for-ios-navigate-enums-vehiclerestrictionmaxweighttype#sdk-for-ios-navigate-s-7heresdk31VehicleRestrictionMaxWeightTypeO5emptyyA2CmF">`VehicleRestrictionMaxWeightType.empty`</a> may also change to a different type if actual regulation changes.
 
   <a href="sdk-for-ios-navigate-enums-vehiclerestrictionmaxweighttype" class="slightly-smaller">See more</a>
 
@@ -6935,7 +6942,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk20VehicleSpecificationV"></span>` `<span id="//apple_ref/swift/Struct/VehicleSpecification" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk20VehicleSpecificationV" class="token"><code>VehicleSpecification</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk20VehicleSpecificationV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-VehicleSpecification" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk20VehicleSpecificationV" class="token"><code>VehicleSpecification</code></a> 
 
   </div>
 
@@ -6981,7 +6988,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk19ViolatedRestrictionV"></span>` `<span id="//apple_ref/swift/Struct/ViolatedRestriction" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk19ViolatedRestrictionV" class="token"><code>ViolatedRestriction</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19ViolatedRestrictionV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-ViolatedRestriction" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk19ViolatedRestrictionV" class="token"><code>ViolatedRestriction</code></a> 
 
   </div>
 
@@ -7027,7 +7034,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk14WalkAttributesO"></span>` `<span id="//apple_ref/swift/Enum/WalkAttributes" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk14WalkAttributesO" class="token"><code>WalkAttributes</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14WalkAttributesO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-WalkAttributes" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk14WalkAttributesO" class="token"><code>WalkAttributes</code></a> 
 
   </div>
 
@@ -7073,7 +7080,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk8WaypointV"></span>` `<span id="//apple_ref/swift/Struct/Waypoint" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk8WaypointV" class="token"><code>Waypoint</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8WaypointV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-Waypoint" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk8WaypointV" class="token"><code>Waypoint</code></a> 
 
   </div>
 
@@ -7119,7 +7126,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk12WaypointTypeO"></span>` `<span id="//apple_ref/swift/Enum/WaypointType" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk12WaypointTypeO" class="token"><code>WaypointType</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12WaypointTypeO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-WaypointType" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk12WaypointTypeO" class="token"><code>WaypointType</code></a> 
 
   </div>
 
@@ -7165,7 +7172,7 @@ slug: "sdk-for-ios-navigate-routing"
 
 - <div>
 
-  ` `<span id="/s:7heresdk12ZoneCategoryO"></span>` `<span id="//apple_ref/swift/Enum/ZoneCategory" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-routing#/s:7heresdk12ZoneCategoryO" class="token"><code>ZoneCategory</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12ZoneCategoryO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-ZoneCategory" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk12ZoneCategoryO" class="token"><code>ZoneCategory</code></a> 
 
   </div>
 

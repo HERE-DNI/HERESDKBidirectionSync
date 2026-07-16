@@ -27,7 +27,7 @@ Represents the information needed to help the users to reach their off-road dest
 
 - <div>
 
-  ` `<span id="/s:7heresdk15OffRoadProgressV25remainingDistanceInMeterss5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/remainingDistanceInMeters" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-offroadprogress#/s:7heresdk15OffRoadProgressV25remainingDistanceInMeterss5Int32Vvp" class="token"><code>remainingDistanceInMeters</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15OffRoadProgressV25remainingDistanceInMeterss5Int32Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-remainingDistanceInMeters" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-offroadprogress#sdk-for-ios-explore-s-7heresdk15OffRoadProgressV25remainingDistanceInMeterss5Int32Vvp" class="token"><code>remainingDistanceInMeters</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Represents the information needed to help the users to reach their off-road dest
 
 - <div>
 
-  ` `<span id="/s:7heresdk15OffRoadProgressV16bearingInDegreesSdvp"></span>` `<span id="//apple_ref/swift/Property/bearingInDegrees" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-offroadprogress#/s:7heresdk15OffRoadProgressV16bearingInDegreesSdvp" class="token"><code>bearingInDegrees</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15OffRoadProgressV16bearingInDegreesSdvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-bearingInDegrees" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-offroadprogress#sdk-for-ios-explore-s-7heresdk15OffRoadProgressV16bearingInDegreesSdvp" class="token"><code>bearingInDegrees</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Represents the information needed to help the users to reach their off-road dest
 
 - <div>
 
-      init(remainingDistanceInMeters: bearingInDegrees: )
+   <span id="sdk-for-ios-explore-s-7heresdk15OffRoadProgressV25remainingDistanceInMeters07bearingG7DegreesACs5Int32V_Sdtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-remainingDistanceInMeters-bearingInDegrees" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-offroadprogress#sdk-for-ios-explore-s-7heresdk15OffRoadProgressV25remainingDistanceInMeters07bearingG7DegreesACs5Int32V_Sdtcfc" class="token"><code>init(remainingDistanceInMeters:</code><wbr></wbr><code>bearingInDegrees:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -146,10 +146,8 @@ Represents the information needed to help the users to reach their off-road dest
   Swift
 
   ``` highlight
-  public init ( remainingDistanceInMeters : Int32 = 0 , bearingInDegrees : Double = 0.0 )
+  public init(remainingDistanceInMeters: Int32 = 0, bearingInDegrees: Double = 0.0)
   ```
-
-  </pre>
 
   </div>
 

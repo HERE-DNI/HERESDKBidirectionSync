@@ -29,7 +29,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      getAttributeNames()
+   <span id="sdk-for-ios-explore-s-7heresdk18DataAttributesBaseP17getAttributeNamesSaySSGyF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-getAttributeNames" class="dashAnchor"></span> <a href="sdk-for-ios-explore-protocols-dataattributesbase#sdk-for-ios-explore-s-7heresdk18DataAttributesBaseP17getAttributeNamesSaySSGyF" class="token"><code>getAttributeNames()</code></a> 
 
   </div>
 
@@ -60,10 +60,8 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  func getAttributeNames () -> [ String ]
+  func getAttributeNames() -> [String]
   ```
-
-  </pre>
 
   </div>
 
@@ -83,7 +81,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      getValueType(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk18DataAttributesBaseP12getValueTypeyAA0b9AttributeF0C0fG0OSgSSF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-getValueType-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-protocols-dataattributesbase#sdk-for-ios-explore-s-7heresdk18DataAttributesBaseP12getValueTypeyAA0b9AttributeF0C0fG0OSgSSF" class="token"><code>getValueType(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -114,12 +112,14 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  func getValueType ( _ name : String ) -> DataAttributeValue . ValueType ?
+  func getValueType(_ name: String) -> DataAttributeValue.ValueType?
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-dataattributevalue">DataAttributeValue</a>
 
   </div>
 
@@ -158,7 +158,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      getAsString(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk18DataAttributesBaseP11getAsStringySSSgSSF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-getAsString-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-protocols-dataattributesbase#sdk-for-ios-explore-s-7heresdk18DataAttributesBaseP11getAsStringySSSgSSF" class="token"><code>getAsString(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -189,10 +189,8 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  func getAsString ( _ name : String ) -> String ?
+  func getAsString(_ name: String) -> String?
   ```
-
-  </pre>
 
   </div>
 
@@ -233,7 +231,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      getString(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk18DataAttributesBaseP9getStringySSSgSSF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-getString-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-protocols-dataattributesbase#sdk-for-ios-explore-s-7heresdk18DataAttributesBaseP9getStringySSSgSSF" class="token"><code>getString(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -264,10 +262,8 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  func getString ( _ name : String ) -> String ?
+  func getString(_ name: String) -> String?
   ```
-
-  </pre>
 
   </div>
 
@@ -308,7 +304,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      getInt64(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk18DataAttributesBaseP8getInt64ys0F0VSgSSF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-getInt64-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-protocols-dataattributesbase#sdk-for-ios-explore-s-7heresdk18DataAttributesBaseP8getInt64ys0F0VSgSSF" class="token"><code>getInt64(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -339,10 +335,8 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  func getInt64 ( _ name : String ) -> Int64 ?
+  func getInt64(_ name: String) -> Int64?
   ```
-
-  </pre>
 
   </div>
 
@@ -383,7 +377,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      getFloat(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk18DataAttributesBaseP8getFloatySfSgSSF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-getFloat-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-protocols-dataattributesbase#sdk-for-ios-explore-s-7heresdk18DataAttributesBaseP8getFloatySfSgSSF" class="token"><code>getFloat(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -414,10 +408,8 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  func getFloat ( _ name : String ) -> Float ?
+  func getFloat(_ name: String) -> Float?
   ```
-
-  </pre>
 
   </div>
 
@@ -458,7 +450,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      getDouble(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk18DataAttributesBaseP9getDoubleySdSgSSF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-getDouble-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-protocols-dataattributesbase#sdk-for-ios-explore-s-7heresdk18DataAttributesBaseP9getDoubleySdSgSSF" class="token"><code>getDouble(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -489,10 +481,8 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  func getDouble ( _ name : String ) -> Double ?
+  func getDouble(_ name: String) -> Double?
   ```
-
-  </pre>
 
   </div>
 
@@ -533,7 +523,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      getBoolean(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk18DataAttributesBaseP10getBooleanySbSgSSF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-getBoolean-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-protocols-dataattributesbase#sdk-for-ios-explore-s-7heresdk18DataAttributesBaseP10getBooleanySbSgSSF" class="token"><code>getBoolean(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -564,10 +554,8 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  func getBoolean ( _ name : String ) -> Bool ?
+  func getBoolean(_ name: String) -> Bool?
   ```
-
-  </pre>
 
   </div>
 
@@ -608,7 +596,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      getValue(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk18DataAttributesBaseP8getValueyAA0b9AttributeF0CSgSSF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-getValue-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-protocols-dataattributesbase#sdk-for-ios-explore-s-7heresdk18DataAttributesBaseP8getValueyAA0b9AttributeF0CSgSSF" class="token"><code>getValue(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -639,12 +627,14 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  func getValue ( _ name : String ) -> DataAttributeValue ?
+  func getValue(_ name: String) -> DataAttributeValue?
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-dataattributevalue">DataAttributeValue</a>
 
   </div>
 

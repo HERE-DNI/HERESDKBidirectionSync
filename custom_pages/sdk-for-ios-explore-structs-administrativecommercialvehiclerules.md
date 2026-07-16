@@ -29,7 +29,7 @@ Commercial vehicle regulations for an administrative region (country or state). 
 
 - <div>
 
-  ` `<span id="/s:7heresdk36AdministrativeCommercialVehicleRulesV2idAA14AdminContextIdVvp"></span>` `<span id="//apple_ref/swift/Property/id" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-administrativecommercialvehiclerules#/s:7heresdk36AdministrativeCommercialVehicleRulesV2idAA14AdminContextIdVvp" class="token"><code>id</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk36AdministrativeCommercialVehicleRulesV2idAA14AdminContextIdVvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-id" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-administrativecommercialvehiclerules#sdk-for-ios-explore-s-7heresdk36AdministrativeCommercialVehicleRulesV2idAA14AdminContextIdVvp" class="token"><code>id</code></a> 
 
   </div>
 
@@ -65,6 +65,10 @@ Commercial vehicle regulations for an administrative region (country or state). 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-admincontextid">AdminContextId</a>
+
   </div>
 
   </div>
@@ -73,7 +77,7 @@ Commercial vehicle regulations for an administrative region (country or state). 
 
 - <div>
 
-  ` `<span id="/s:7heresdk36AdministrativeCommercialVehicleRulesV17accessRegulationsSayAA0D14SpecificAccessVGvp"></span>` `<span id="//apple_ref/swift/Property/accessRegulations" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-administrativecommercialvehiclerules#/s:7heresdk36AdministrativeCommercialVehicleRulesV17accessRegulationsSayAA0D14SpecificAccessVGvp" class="token"><code>accessRegulations</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk36AdministrativeCommercialVehicleRulesV17accessRegulationsSayAA0D14SpecificAccessVGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-accessRegulations" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-administrativecommercialvehiclerules#sdk-for-ios-explore-s-7heresdk36AdministrativeCommercialVehicleRulesV17accessRegulationsSayAA0D14SpecificAccessVGvp" class="token"><code>accessRegulations</code></a> 
 
   </div>
 
@@ -109,6 +113,10 @@ Commercial vehicle regulations for an administrative region (country or state). 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-vehiclespecificaccess">VehicleSpecificAccess</a>
+
   </div>
 
   </div>
@@ -117,7 +125,7 @@ Commercial vehicle regulations for an administrative region (country or state). 
 
 - <div>
 
-  ` `<span id="/s:7heresdk36AdministrativeCommercialVehicleRulesV21speedLimitRegulationsSayAA0d13SpecificSpeedG0VGvp"></span>` `<span id="//apple_ref/swift/Property/speedLimitRegulations" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-administrativecommercialvehiclerules#/s:7heresdk36AdministrativeCommercialVehicleRulesV21speedLimitRegulationsSayAA0d13SpecificSpeedG0VGvp" class="token"><code>speedLimitRegulations</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk36AdministrativeCommercialVehicleRulesV21speedLimitRegulationsSayAA0d13SpecificSpeedG0VGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-speedLimitRegulations" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-administrativecommercialvehiclerules#sdk-for-ios-explore-s-7heresdk36AdministrativeCommercialVehicleRulesV21speedLimitRegulationsSayAA0d13SpecificSpeedG0VGvp" class="token"><code>speedLimitRegulations</code></a> 
 
   </div>
 
@@ -153,6 +161,10 @@ Commercial vehicle regulations for an administrative region (country or state). 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-vehiclespecificspeedlimit">VehicleSpecificSpeedLimit</a>
+
   </div>
 
   </div>
@@ -161,7 +173,7 @@ Commercial vehicle regulations for an administrative region (country or state). 
 
 - <div>
 
-  ` `<span id="/s:7heresdk36AdministrativeCommercialVehicleRulesV19driveRestRegulationAA05DrivegH0Vvp"></span>` `<span id="//apple_ref/swift/Property/driveRestRegulation" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-administrativecommercialvehiclerules#/s:7heresdk36AdministrativeCommercialVehicleRulesV19driveRestRegulationAA05DrivegH0Vvp" class="token"><code>driveRestRegulation</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk36AdministrativeCommercialVehicleRulesV19driveRestRegulationAA05DrivegH0Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-driveRestRegulation" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-administrativecommercialvehiclerules#sdk-for-ios-explore-s-7heresdk36AdministrativeCommercialVehicleRulesV19driveRestRegulationAA05DrivegH0Vvp" class="token"><code>driveRestRegulation</code></a> 
 
   </div>
 
@@ -197,6 +209,10 @@ Commercial vehicle regulations for an administrative region (country or state). 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-driverestregulation">DriveRestRegulation</a>
+
   </div>
 
   </div>
@@ -205,7 +221,7 @@ Commercial vehicle regulations for an administrative region (country or state). 
 
 - <div>
 
-      init(id: accessRegulations: speedLimitRegulations: driveRestRegulation: )
+   <span id="sdk-for-ios-explore-s-7heresdk36AdministrativeCommercialVehicleRulesV2id17accessRegulations010speedLimitH019driveRestRegulationAcA14AdminContextIdV_SayAA0D14SpecificAccessVGSayAA0dq5SpeedJ0VGAA05DrivelM0Vtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-id-accessRegulations-speedLimitRegulations-driveRestRegulation" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-administrativecommercialvehiclerules#sdk-for-ios-explore-s-7heresdk36AdministrativeCommercialVehicleRulesV2id17accessRegulations010speedLimitH019driveRestRegulationAcA14AdminContextIdV_SayAA0D14SpecificAccessVGSayAA0dq5SpeedJ0VGAA05DrivelM0Vtcfc" class="token"><code>init(id:</code><wbr></wbr><code>accessRegulations:</code><wbr></wbr><code>speedLimitRegulations:</code><wbr></wbr><code>driveRestRegulation:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -236,12 +252,17 @@ Commercial vehicle regulations for an administrative region (country or state). 
   Swift
 
   ``` highlight
-  public init ( id : AdminContextId , accessRegulations : [ VehicleSpecificAccess ] = [], speedLimitRegulations : [ VehicleSpecificSpeedLimit ] = [], driveRestRegulation : DriveRestRegulation = DriveRestRegulation ())
+  public init(id: AdminContextId, accessRegulations: [VehicleSpecificAccess] = [], speedLimitRegulations: [VehicleSpecificSpeedLimit] = [], driveRestRegulation: DriveRestRegulation = DriveRestRegulation())
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-admincontextid">AdminContextId</a>
+  - <a href="sdk-for-ios-explore-structs-vehiclespecificaccess">VehicleSpecificAccess</a>
+  - <a href="sdk-for-ios-explore-structs-vehiclespecificspeedlimit">VehicleSpecificSpeedLimit</a>
+  - <a href="sdk-for-ios-explore-structs-driverestregulation">DriveRestRegulation</a>
 
   </div>
 

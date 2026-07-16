@@ -27,7 +27,7 @@ Truck restrictions warning options.
 
 - <div>
 
-  ` `<span id="/s:7heresdk31TruckRestrictionsWarningOptionsV030filterOutInactiveTimeDependentC0Sbvp"></span>` `<span id="//apple_ref/swift/Property/filterOutInactiveTimeDependentRestrictions" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-truckrestrictionswarningoptions#/s:7heresdk31TruckRestrictionsWarningOptionsV030filterOutInactiveTimeDependentC0Sbvp" class="token"><code>filterOutInactiveTimeDependentRestrictions</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk31TruckRestrictionsWarningOptionsV030filterOutInactiveTimeDependentC0Sbvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-filterOutInactiveTimeDependentRestrictions" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-truckrestrictionswarningoptions#sdk-for-ios-explore-s-7heresdk31TruckRestrictionsWarningOptionsV030filterOutInactiveTimeDependentC0Sbvp" class="token"><code>filterOutInactiveTimeDependentRestrictions</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Truck restrictions warning options.
 
 - <div>
 
-      init(filterOutInactiveTimeDependentRestrictions: )
+   <span id="sdk-for-ios-explore-s-7heresdk31TruckRestrictionsWarningOptionsV030filterOutInactiveTimeDependentC0ACSb_tcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-filterOutInactiveTimeDependentRestrictions" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-truckrestrictionswarningoptions#sdk-for-ios-explore-s-7heresdk31TruckRestrictionsWarningOptionsV030filterOutInactiveTimeDependentC0ACSb_tcfc" class="token"><code>init(filterOutInactiveTimeDependentRestrictions:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -102,10 +102,8 @@ Truck restrictions warning options.
   Swift
 
   ``` highlight
-  public init ( filterOutInactiveTimeDependentRestrictions : Bool = false )
+  public init(filterOutInactiveTimeDependentRestrictions: Bool = false)
   ```
-
-  </pre>
 
   </div>
 

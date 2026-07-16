@@ -27,7 +27,7 @@ Realistic view warning options. Set the options for filtering the realistic view
 
 - <div>
 
-  ` `<span id="/s:7heresdk27RealisticViewWarningOptionsV11aspectRatioAA06AspectG0Ovp"></span>` `<span id="//apple_ref/swift/Property/aspectRatio" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-realisticviewwarningoptions#/s:7heresdk27RealisticViewWarningOptionsV11aspectRatioAA06AspectG0Ovp" class="token"><code>aspectRatio</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk27RealisticViewWarningOptionsV11aspectRatioAA06AspectG0Ovp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-aspectRatio" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-realisticviewwarningoptions#sdk-for-ios-explore-s-7heresdk27RealisticViewWarningOptionsV11aspectRatioAA06AspectG0Ovp" class="token"><code>aspectRatio</code></a> 
 
   </div>
 
@@ -45,7 +45,7 @@ Realistic view warning options. Set the options for filtering the realistic view
 
   <div class="abstract">
 
-  The aspect ratio of the images which will be given in the realistic view warning. This option is applicable only to the <a href="sdk-for-ios-explore-structs-realisticviewwarning#/s:7heresdk20RealisticViewWarningV09realisticC11VectorImageAA0bcfG0VSgvp">`RealisticViewWarning.realisticViewVectorImage`</a>. For <a href="sdk-for-ios-explore-structs-realisticviewwarning#/s:7heresdk20RealisticViewWarningV09realisticC11RasterImageAA0bcfG0VSgvp">`RealisticViewWarning.realisticViewRasterImage`</a> the aspect ratio is always portrait.
+  The aspect ratio of the images which will be given in the realistic view warning. This option is applicable only to the <a href="sdk-for-ios-explore-structs-realisticviewwarning#sdk-for-ios-explore-s-7heresdk20RealisticViewWarningV09realisticC11VectorImageAA0bcfG0VSgvp">`RealisticViewWarning.realisticViewVectorImage`</a>. For <a href="sdk-for-ios-explore-structs-realisticviewwarning#sdk-for-ios-explore-s-7heresdk20RealisticViewWarningV09realisticC11RasterImageAA0bcfG0VSgvp">`RealisticViewWarning.realisticViewRasterImage`</a> the aspect ratio is always portrait.
 
   </div>
 
@@ -63,6 +63,10 @@ Realistic view warning options. Set the options for filtering the realistic view
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-aspectratio">AspectRatio</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ Realistic view warning options. Set the options for filtering the realistic view
 
 - <div>
 
-  ` `<span id="/s:7heresdk27RealisticViewWarningOptionsV9darkThemeSbvp"></span>` `<span id="//apple_ref/swift/Property/darkTheme" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-realisticviewwarningoptions#/s:7heresdk27RealisticViewWarningOptionsV9darkThemeSbvp" class="token"><code>darkTheme</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk27RealisticViewWarningOptionsV9darkThemeSbvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-darkTheme" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-realisticviewwarningoptions#sdk-for-ios-explore-s-7heresdk27RealisticViewWarningOptionsV9darkThemeSbvp" class="token"><code>darkTheme</code></a> 
 
   </div>
 
@@ -89,7 +93,7 @@ Realistic view warning options. Set the options for filtering the realistic view
 
   <div class="abstract">
 
-  Specifies whether the images included in the realistic view warning will be optimized for the light or dark color scheme. This option is applicable only to the <a href="sdk-for-ios-explore-structs-realisticviewwarning#/s:7heresdk20RealisticViewWarningV09realisticC11VectorImageAA0bcfG0VSgvp">`RealisticViewWarning.realisticViewVectorImage`</a>. For <a href="sdk-for-ios-explore-structs-realisticviewwarning#/s:7heresdk20RealisticViewWarningV09realisticC11RasterImageAA0bcfG0VSgvp">`RealisticViewWarning.realisticViewRasterImage`</a> the dark theme is always `false`.
+  Specifies whether the images included in the realistic view warning will be optimized for the light or dark color scheme. This option is applicable only to the <a href="sdk-for-ios-explore-structs-realisticviewwarning#sdk-for-ios-explore-s-7heresdk20RealisticViewWarningV09realisticC11VectorImageAA0bcfG0VSgvp">`RealisticViewWarning.realisticViewVectorImage`</a>. For <a href="sdk-for-ios-explore-structs-realisticviewwarning#sdk-for-ios-explore-s-7heresdk20RealisticViewWarningV09realisticC11RasterImageAA0bcfG0VSgvp">`RealisticViewWarning.realisticViewRasterImage`</a> the dark theme is always `false`.
 
   </div>
 
@@ -115,7 +119,7 @@ Realistic view warning options. Set the options for filtering the realistic view
 
 - <div>
 
-      init(aspectRatio: darkTheme: )
+   <span id="sdk-for-ios-explore-s-7heresdk27RealisticViewWarningOptionsV11aspectRatio9darkThemeAcA06AspectG0O_Sbtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-aspectRatio-darkTheme" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-realisticviewwarningoptions#sdk-for-ios-explore-s-7heresdk27RealisticViewWarningOptionsV11aspectRatio9darkThemeAcA06AspectG0O_Sbtcfc" class="token"><code>init(aspectRatio:</code><wbr></wbr><code>darkTheme:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -146,12 +150,14 @@ Realistic view warning options. Set the options for filtering the realistic view
   Swift
 
   ``` highlight
-  public init ( aspectRatio : AspectRatio = AspectRatio . aspectRatio3X4 , darkTheme : Bool = false )
+  public init(aspectRatio: AspectRatio = AspectRatio.aspectRatio3X4, darkTheme: Bool = false)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-aspectratio">AspectRatio</a>
 
   </div>
 

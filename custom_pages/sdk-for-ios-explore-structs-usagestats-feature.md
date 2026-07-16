@@ -27,7 +27,7 @@ Represents the feature enum associated with the gathered usage stats.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10UsageStatsV7FeatureO17detailedRenderingyA2EmF"></span>` `<span id="//apple_ref/swift/Element/detailedRendering" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-usagestats-feature#/s:7heresdk10UsageStatsV7FeatureO17detailedRenderingyA2EmF" class="token"><code>detailedRendering</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10UsageStatsV7FeatureO17detailedRenderingyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-detailedRendering" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-usagestats-feature#sdk-for-ios-explore-s-7heresdk10UsageStatsV7FeatureO17detailedRenderingyA2EmF" class="token"><code>detailedRendering</code></a> 
 
   </div>
 
@@ -45,7 +45,7 @@ Represents the feature enum associated with the gathered usage stats.
 
   <div class="abstract">
 
-  Represents network traffic statistics for online usage corresponding to the <a href="sdk-for-ios-explore-structs-layerconfiguration-feature#/s:7heresdk18LayerConfigurationV7FeatureO15detailRenderingyA2EmF">`LayerConfiguration.Feature.detailRendering`</a> layer configuration. Counted when data for the corresponding layer is requested by the application by performing one of the following actions:
+  Represents network traffic statistics for online usage corresponding to the <a href="sdk-for-ios-explore-structs-layerconfiguration-feature#sdk-for-ios-explore-s-7heresdk18LayerConfigurationV7FeatureO15detailRenderingyA2EmF">`LayerConfiguration.Feature.detailRendering`</a> layer configuration. Counted when data for the corresponding layer is requested by the application by performing one of the following actions:
 
   - Pan the map view to areas that have not been cached, prefetched or installed before.
 
@@ -81,7 +81,7 @@ Represents the feature enum associated with the gathered usage stats.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10UsageStatsV7FeatureO11evRenderingyA2EmF"></span>` `<span id="//apple_ref/swift/Element/evRendering" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-usagestats-feature#/s:7heresdk10UsageStatsV7FeatureO11evRenderingyA2EmF" class="token"><code>evRendering</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10UsageStatsV7FeatureO11evRenderingyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-evRendering" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-usagestats-feature#sdk-for-ios-explore-s-7heresdk10UsageStatsV7FeatureO11evRenderingyA2EmF" class="token"><code>evRendering</code></a> 
 
   </div>
 
@@ -99,7 +99,7 @@ Represents the feature enum associated with the gathered usage stats.
 
   <div class="abstract">
 
-  Represents network traffic statistics for online usage corresponding to the “ev_charging_station_rendering_premium” layer group, enabled with <a href="sdk-for-ios-explore-structs-layerconfiguration-feature#/s:7heresdk18LayerConfigurationV7FeatureO2evyA2EmF">`LayerConfiguration.Feature.ev`</a>. Note, that <a href="sdk-for-ios-explore-structs-layerconfiguration-feature#/s:7heresdk18LayerConfigurationV7FeatureO2evyA2EmF">`LayerConfiguration.Feature.ev`</a> also enables “ev_charging_station_search_premium” layer group, which is represented with \[UsageStats.Feature.EV_SEARCH\]. Counted when data for the corresponding layer is requested by the application by performing one of the following actions:
+  Represents network traffic statistics for online usage corresponding to the “ev_charging_station_rendering_premium” layer group, enabled with <a href="sdk-for-ios-explore-structs-layerconfiguration-feature#sdk-for-ios-explore-s-7heresdk18LayerConfigurationV7FeatureO2evyA2EmF">`LayerConfiguration.Feature.ev`</a>. Note, that <a href="sdk-for-ios-explore-structs-layerconfiguration-feature#sdk-for-ios-explore-s-7heresdk18LayerConfigurationV7FeatureO2evyA2EmF">`LayerConfiguration.Feature.ev`</a> also enables “ev_charging_station_search_premium” layer group, which is represented with \[UsageStats.Feature.EV_SEARCH\]. Counted when data for the corresponding layer is requested by the application by performing one of the following actions:
 
   - Pan the map view to areas that have not been cached, prefetched or installed before.
   - Use <a href="sdk-for-ios-explore-classes-mapdownloader">`MapDownloader`</a> to download and install a <a href="sdk-for-ios-explore-structs-region">`Region`</a>.
@@ -129,7 +129,7 @@ Represents the feature enum associated with the gathered usage stats.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10UsageStatsV7FeatureO8evSearchyA2EmF"></span>` `<span id="//apple_ref/swift/Element/evSearch" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-usagestats-feature#/s:7heresdk10UsageStatsV7FeatureO8evSearchyA2EmF" class="token"><code>evSearch</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10UsageStatsV7FeatureO8evSearchyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-evSearch" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-usagestats-feature#sdk-for-ios-explore-s-7heresdk10UsageStatsV7FeatureO8evSearchyA2EmF" class="token"><code>evSearch</code></a> 
 
   </div>
 
@@ -147,7 +147,7 @@ Represents the feature enum associated with the gathered usage stats.
 
   <div class="abstract">
 
-  Represents network traffic statistics for online usage corresponding to the “ev_charging_station_search_premium” layer group, enabled with <a href="sdk-for-ios-explore-structs-layerconfiguration-feature#/s:7heresdk18LayerConfigurationV7FeatureO2evyA2EmF">`LayerConfiguration.Feature.ev`</a>. Note, that <a href="sdk-for-ios-explore-structs-layerconfiguration-feature#/s:7heresdk18LayerConfigurationV7FeatureO2evyA2EmF">`LayerConfiguration.Feature.ev`</a> also enables “ev_charging_station_rendering_premium” layer group, which is represented with \[UsageStats.Feature.EV_RENDERING\]. Counted when data for the corresponding layer is requested by the application by performing one of the following actions:
+  Represents network traffic statistics for online usage corresponding to the “ev_charging_station_search_premium” layer group, enabled with <a href="sdk-for-ios-explore-structs-layerconfiguration-feature#sdk-for-ios-explore-s-7heresdk18LayerConfigurationV7FeatureO2evyA2EmF">`LayerConfiguration.Feature.ev`</a>. Note, that <a href="sdk-for-ios-explore-structs-layerconfiguration-feature#sdk-for-ios-explore-s-7heresdk18LayerConfigurationV7FeatureO2evyA2EmF">`LayerConfiguration.Feature.ev`</a> also enables “ev_charging_station_rendering_premium” layer group, which is represented with \[UsageStats.Feature.EV_RENDERING\]. Counted when data for the corresponding layer is requested by the application by performing one of the following actions:
 
   - Pan the map view to areas that have not been cached, prefetched or installed before.
   - Use <a href="sdk-for-ios-explore-classes-mapdownloader">`MapDownloader`</a> to download and install a <a href="sdk-for-ios-explore-structs-region">`Region`</a>.
@@ -177,7 +177,7 @@ Represents the feature enum associated with the gathered usage stats.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10UsageStatsV7FeatureO10navigationyA2EmF"></span>` `<span id="//apple_ref/swift/Element/navigation" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-usagestats-feature#/s:7heresdk10UsageStatsV7FeatureO10navigationyA2EmF" class="token"><code>navigation</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10UsageStatsV7FeatureO10navigationyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-navigation" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-usagestats-feature#sdk-for-ios-explore-s-7heresdk10UsageStatsV7FeatureO10navigationyA2EmF" class="token"><code>navigation</code></a> 
 
   </div>
 
@@ -197,14 +197,14 @@ Represents the feature enum associated with the gathered usage stats.
 
   Represents network traffic statistics for online usage corresponding to the “adas”, “ehorizon”, “interop”, “isa” OCM layers. In addition, it is also tracking the following layer configurations:
 
-  - <a href="sdk-for-ios-explore-structs-layerconfiguration-feature#/s:7heresdk18LayerConfigurationV7FeatureO10navigationyA2EmF">`LayerConfiguration.Feature.navigation`</a>
-  - <a href="sdk-for-ios-explore-structs-layerconfiguration-feature#/s:7heresdk18LayerConfigurationV7FeatureO15junctionView3x4yA2EmF">`LayerConfiguration.Feature.junctionView3x4`</a>
-  - <a href="sdk-for-ios-explore-structs-layerconfiguration-feature#/s:7heresdk18LayerConfigurationV7FeatureO16junctionView16x9yA2EmF">`LayerConfiguration.Feature.junctionView16x9`</a>
-  - <a href="sdk-for-ios-explore-structs-layerconfiguration-feature#/s:7heresdk18LayerConfigurationV7FeatureO15junctionSign3x4yA2EmF">`LayerConfiguration.Feature.junctionSign3x4`</a>
-  - <a href="sdk-for-ios-explore-structs-layerconfiguration-feature#/s:7heresdk18LayerConfigurationV7FeatureO15junctionSign3x5yA2EmF">`LayerConfiguration.Feature.junctionSign3x5`</a>
-  - <a href="sdk-for-ios-explore-structs-layerconfiguration-feature#/s:7heresdk18LayerConfigurationV7FeatureO15junctionSign4x3yA2EmF">`LayerConfiguration.Feature.junctionSign4x3`</a>
-  - <a href="sdk-for-ios-explore-structs-layerconfiguration-feature#/s:7heresdk18LayerConfigurationV7FeatureO15junctionSign5x3yA2EmF">`LayerConfiguration.Feature.junctionSign5x3`</a>
-  - <a href="sdk-for-ios-explore-structs-layerconfiguration-feature#/s:7heresdk18LayerConfigurationV7FeatureO16junctionSign16x9yA2EmF">`LayerConfiguration.Feature.junctionSign16x9`</a> Counted when data for the corresponding layer is requested by the application by performing one of the following actions:
+  - <a href="sdk-for-ios-explore-structs-layerconfiguration-feature#sdk-for-ios-explore-s-7heresdk18LayerConfigurationV7FeatureO10navigationyA2EmF">`LayerConfiguration.Feature.navigation`</a>
+  - <a href="sdk-for-ios-explore-structs-layerconfiguration-feature#sdk-for-ios-explore-s-7heresdk18LayerConfigurationV7FeatureO15junctionView3x4yA2EmF">`LayerConfiguration.Feature.junctionView3x4`</a>
+  - <a href="sdk-for-ios-explore-structs-layerconfiguration-feature#sdk-for-ios-explore-s-7heresdk18LayerConfigurationV7FeatureO16junctionView16x9yA2EmF">`LayerConfiguration.Feature.junctionView16x9`</a>
+  - <a href="sdk-for-ios-explore-structs-layerconfiguration-feature#sdk-for-ios-explore-s-7heresdk18LayerConfigurationV7FeatureO15junctionSign3x4yA2EmF">`LayerConfiguration.Feature.junctionSign3x4`</a>
+  - <a href="sdk-for-ios-explore-structs-layerconfiguration-feature#sdk-for-ios-explore-s-7heresdk18LayerConfigurationV7FeatureO15junctionSign3x5yA2EmF">`LayerConfiguration.Feature.junctionSign3x5`</a>
+  - <a href="sdk-for-ios-explore-structs-layerconfiguration-feature#sdk-for-ios-explore-s-7heresdk18LayerConfigurationV7FeatureO15junctionSign4x3yA2EmF">`LayerConfiguration.Feature.junctionSign4x3`</a>
+  - <a href="sdk-for-ios-explore-structs-layerconfiguration-feature#sdk-for-ios-explore-s-7heresdk18LayerConfigurationV7FeatureO15junctionSign5x3yA2EmF">`LayerConfiguration.Feature.junctionSign5x3`</a>
+  - <a href="sdk-for-ios-explore-structs-layerconfiguration-feature#sdk-for-ios-explore-s-7heresdk18LayerConfigurationV7FeatureO16junctionSign16x9yA2EmF">`LayerConfiguration.Feature.junctionSign16x9`</a> Counted when data for the corresponding layer is requested by the application by performing one of the following actions:
   - Pan the map view to areas that have not been cached, prefetched or installed before.
   - Use <a href="sdk-for-ios-explore-classes-mapdownloader">`MapDownloader`</a> to download and install a <a href="sdk-for-ios-explore-structs-region">`Region`</a>.
   - Prefetch map data into the map cache with the <a href="sdk-for-ios-explore-classes-routeprefetcher">`RoutePrefetcher`</a> for areas that have not been cached, prefetched or installed before.
@@ -234,7 +234,7 @@ Represents the feature enum associated with the gathered usage stats.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10UsageStatsV7FeatureO6placesyA2EmF"></span>` `<span id="//apple_ref/swift/Element/places" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-usagestats-feature#/s:7heresdk10UsageStatsV7FeatureO6placesyA2EmF" class="token"><code>places</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10UsageStatsV7FeatureO6placesyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-places" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-usagestats-feature#sdk-for-ios-explore-s-7heresdk10UsageStatsV7FeatureO6placesyA2EmF" class="token"><code>places</code></a> 
 
   </div>
 
@@ -252,7 +252,7 @@ Represents the feature enum associated with the gathered usage stats.
 
   <div class="abstract">
 
-  Represents network traffic statistics for places search. This is legacy statistic which is now replaced by <a href="sdk-for-ios-explore-structs-usagestats-feature#/s:7heresdk10UsageStatsV7FeatureO12searchOnlineyA2EmF">`UsageStats.Feature.searchOnline`</a>.
+  Represents network traffic statistics for places search. This is legacy statistic which is now replaced by <a href="sdk-for-ios-explore-structs-usagestats-feature#sdk-for-ios-explore-s-7heresdk10UsageStatsV7FeatureO12searchOnlineyA2EmF">`UsageStats.Feature.searchOnline`</a>.
 
   </div>
 
@@ -278,7 +278,7 @@ Represents the feature enum associated with the gathered usage stats.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10UsageStatsV7FeatureO10rdsTrafficyA2EmF"></span>` `<span id="//apple_ref/swift/Element/rdsTraffic" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-usagestats-feature#/s:7heresdk10UsageStatsV7FeatureO10rdsTrafficyA2EmF" class="token"><code>rdsTraffic</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10UsageStatsV7FeatureO10rdsTrafficyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-rdsTraffic" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-usagestats-feature#sdk-for-ios-explore-s-7heresdk10UsageStatsV7FeatureO10rdsTrafficyA2EmF" class="token"><code>rdsTraffic</code></a> 
 
   </div>
 
@@ -296,7 +296,7 @@ Represents the feature enum associated with the gathered usage stats.
 
   <div class="abstract">
 
-  Represents network traffic statistics for online usage corresponding to the <a href="sdk-for-ios-explore-structs-layerconfiguration-feature#/s:7heresdk18LayerConfigurationV7FeatureO10rdsTrafficyA2EmF">`LayerConfiguration.Feature.rdsTraffic`</a> layer configuration. Counted when data for the corresponding layer is requested by the application by performing one of the following actions:
+  Represents network traffic statistics for online usage corresponding to the <a href="sdk-for-ios-explore-structs-layerconfiguration-feature#sdk-for-ios-explore-s-7heresdk18LayerConfigurationV7FeatureO10rdsTrafficyA2EmF">`LayerConfiguration.Feature.rdsTraffic`</a> layer configuration. Counted when data for the corresponding layer is requested by the application by performing one of the following actions:
 
   - Pan the map view to areas that have not been cached, prefetched or installed before.
 
@@ -332,7 +332,7 @@ Represents the feature enum associated with the gathered usage stats.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10UsageStatsV7FeatureO9renderingyA2EmF"></span>` `<span id="//apple_ref/swift/Element/rendering" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-usagestats-feature#/s:7heresdk10UsageStatsV7FeatureO9renderingyA2EmF" class="token"><code>rendering</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10UsageStatsV7FeatureO9renderingyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-rendering" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-usagestats-feature#sdk-for-ios-explore-s-7heresdk10UsageStatsV7FeatureO9renderingyA2EmF" class="token"><code>rendering</code></a> 
 
   </div>
 
@@ -350,7 +350,7 @@ Represents the feature enum associated with the gathered usage stats.
 
   <div class="abstract">
 
-  Represents network traffic statistics for online usage corresponding to the <a href="sdk-for-ios-explore-structs-layerconfiguration-feature#/s:7heresdk18LayerConfigurationV7FeatureO9renderingyA2EmF">`LayerConfiguration.Feature.rendering`</a> layer configuration. Counted when data for the corresponding layer is requested by the application by performing one of the following actions:
+  Represents network traffic statistics for online usage corresponding to the <a href="sdk-for-ios-explore-structs-layerconfiguration-feature#sdk-for-ios-explore-s-7heresdk18LayerConfigurationV7FeatureO9renderingyA2EmF">`LayerConfiguration.Feature.rendering`</a> layer configuration. Counted when data for the corresponding layer is requested by the application by performing one of the following actions:
 
   - Pan the map view to areas that have not been cached, prefetched or installed before.
 
@@ -386,7 +386,7 @@ Represents the feature enum associated with the gathered usage stats.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10UsageStatsV7FeatureO6routeryA2EmF"></span>` `<span id="//apple_ref/swift/Element/router" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-usagestats-feature#/s:7heresdk10UsageStatsV7FeatureO6routeryA2EmF" class="token"><code>router</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10UsageStatsV7FeatureO6routeryA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-router" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-usagestats-feature#sdk-for-ios-explore-s-7heresdk10UsageStatsV7FeatureO6routeryA2EmF" class="token"><code>router</code></a> 
 
   </div>
 
@@ -452,7 +452,7 @@ Represents the feature enum associated with the gathered usage stats.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10UsageStatsV7FeatureO7routingyA2EmF"></span>` `<span id="//apple_ref/swift/Element/routing" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-usagestats-feature#/s:7heresdk10UsageStatsV7FeatureO7routingyA2EmF" class="token"><code>routing</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10UsageStatsV7FeatureO7routingyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-routing" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-usagestats-feature#sdk-for-ios-explore-s-7heresdk10UsageStatsV7FeatureO7routingyA2EmF" class="token"><code>routing</code></a> 
 
   </div>
 
@@ -472,9 +472,9 @@ Represents the feature enum associated with the gathered usage stats.
 
   Represents network traffic statistics for online usage corresponding to the following layer configurations:
 
-  - <a href="sdk-for-ios-explore-structs-layerconfiguration-feature#/s:7heresdk18LayerConfigurationV7FeatureO14offlineRoutingyA2EmF">`LayerConfiguration.Feature.offlineRouting`</a>
+  - <a href="sdk-for-ios-explore-structs-layerconfiguration-feature#sdk-for-ios-explore-s-7heresdk18LayerConfigurationV7FeatureO14offlineRoutingyA2EmF">`LayerConfiguration.Feature.offlineRouting`</a>
 
-  - <a href="sdk-for-ios-explore-structs-layerconfiguration-feature#/s:7heresdk18LayerConfigurationV7FeatureO17offlineBusRoutingyA2EmF">`LayerConfiguration.Feature.offlineBusRouting`</a> Counted when data for the corresponding layer is requested by the application by performing one of the following actions:
+  - <a href="sdk-for-ios-explore-structs-layerconfiguration-feature#sdk-for-ios-explore-s-7heresdk18LayerConfigurationV7FeatureO17offlineBusRoutingyA2EmF">`LayerConfiguration.Feature.offlineBusRouting`</a> Counted when data for the corresponding layer is requested by the application by performing one of the following actions:
 
   - Pan the map view to areas that have not been cached, prefetched or installed before.
 
@@ -510,7 +510,7 @@ Represents the feature enum associated with the gathered usage stats.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10UsageStatsV7FeatureO10satellitesyA2EmF"></span>` `<span id="//apple_ref/swift/Element/satellites" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-usagestats-feature#/s:7heresdk10UsageStatsV7FeatureO10satellitesyA2EmF" class="token"><code>satellites</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10UsageStatsV7FeatureO10satellitesyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-satellites" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-usagestats-feature#sdk-for-ios-explore-s-7heresdk10UsageStatsV7FeatureO10satellitesyA2EmF" class="token"><code>satellites</code></a> 
 
   </div>
 
@@ -554,7 +554,7 @@ Represents the feature enum associated with the gathered usage stats.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10UsageStatsV7FeatureO6searchyA2EmF"></span>` `<span id="//apple_ref/swift/Element/search" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-usagestats-feature#/s:7heresdk10UsageStatsV7FeatureO6searchyA2EmF" class="token"><code>search</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10UsageStatsV7FeatureO6searchyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-search" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-usagestats-feature#sdk-for-ios-explore-s-7heresdk10UsageStatsV7FeatureO6searchyA2EmF" class="token"><code>search</code></a> 
 
   </div>
 
@@ -602,7 +602,7 @@ Represents the feature enum associated with the gathered usage stats.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10UsageStatsV7FeatureO12searchOnlineyA2EmF"></span>` `<span id="//apple_ref/swift/Element/searchOnline" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-usagestats-feature#/s:7heresdk10UsageStatsV7FeatureO12searchOnlineyA2EmF" class="token"><code>searchOnline</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10UsageStatsV7FeatureO12searchOnlineyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-searchOnline" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-usagestats-feature#sdk-for-ios-explore-s-7heresdk10UsageStatsV7FeatureO12searchOnlineyA2EmF" class="token"><code>searchOnline</code></a> 
 
   </div>
 
@@ -650,7 +650,7 @@ Represents the feature enum associated with the gathered usage stats.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10UsageStatsV7FeatureO7transityA2EmF"></span>` `<span id="//apple_ref/swift/Element/transit" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-usagestats-feature#/s:7heresdk10UsageStatsV7FeatureO7transityA2EmF" class="token"><code>transit</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10UsageStatsV7FeatureO7transityA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-transit" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-usagestats-feature#sdk-for-ios-explore-s-7heresdk10UsageStatsV7FeatureO7transityA2EmF" class="token"><code>transit</code></a> 
 
   </div>
 
@@ -698,7 +698,7 @@ Represents the feature enum associated with the gathered usage stats.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10UsageStatsV7FeatureO20transitRoutingEngineyA2EmF"></span>` `<span id="//apple_ref/swift/Element/transitRoutingEngine" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-usagestats-feature#/s:7heresdk10UsageStatsV7FeatureO20transitRoutingEngineyA2EmF" class="token"><code>transitRoutingEngine</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10UsageStatsV7FeatureO20transitRoutingEngineyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-transitRoutingEngine" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-usagestats-feature#sdk-for-ios-explore-s-7heresdk10UsageStatsV7FeatureO20transitRoutingEngineyA2EmF" class="token"><code>transitRoutingEngine</code></a> 
 
   </div>
 
@@ -742,7 +742,7 @@ Represents the feature enum associated with the gathered usage stats.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10UsageStatsV7FeatureO7trafficyA2EmF"></span>` `<span id="//apple_ref/swift/Element/traffic" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-usagestats-feature#/s:7heresdk10UsageStatsV7FeatureO7trafficyA2EmF" class="token"><code>traffic</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10UsageStatsV7FeatureO7trafficyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-traffic" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-usagestats-feature#sdk-for-ios-explore-s-7heresdk10UsageStatsV7FeatureO7trafficyA2EmF" class="token"><code>traffic</code></a> 
 
   </div>
 
@@ -786,7 +786,7 @@ Represents the feature enum associated with the gathered usage stats.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10UsageStatsV7FeatureO18trafficVectorTilesyA2EmF"></span>` `<span id="//apple_ref/swift/Element/trafficVectorTiles" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-usagestats-feature#/s:7heresdk10UsageStatsV7FeatureO18trafficVectorTilesyA2EmF" class="token"><code>trafficVectorTiles</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10UsageStatsV7FeatureO18trafficVectorTilesyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-trafficVectorTiles" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-usagestats-feature#sdk-for-ios-explore-s-7heresdk10UsageStatsV7FeatureO18trafficVectorTilesyA2EmF" class="token"><code>trafficVectorTiles</code></a> 
 
   </div>
 
@@ -830,7 +830,7 @@ Represents the feature enum associated with the gathered usage stats.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10UsageStatsV7FeatureO5truckyA2EmF"></span>` `<span id="//apple_ref/swift/Element/truck" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-usagestats-feature#/s:7heresdk10UsageStatsV7FeatureO5truckyA2EmF" class="token"><code>truck</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10UsageStatsV7FeatureO5truckyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-truck" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-usagestats-feature#sdk-for-ios-explore-s-7heresdk10UsageStatsV7FeatureO5truckyA2EmF" class="token"><code>truck</code></a> 
 
   </div>
 
@@ -848,7 +848,7 @@ Represents the feature enum associated with the gathered usage stats.
 
   <div class="abstract">
 
-  Represents network traffic statistics for online usage corresponding to the <a href="sdk-for-ios-explore-structs-layerconfiguration-feature#/s:7heresdk18LayerConfigurationV7FeatureO5truckyA2EmF">`LayerConfiguration.Feature.truck`</a> layer configuration. Counted when data for the corresponding layer is requested by the application by performing one of the following actions:
+  Represents network traffic statistics for online usage corresponding to the <a href="sdk-for-ios-explore-structs-layerconfiguration-feature#sdk-for-ios-explore-s-7heresdk18LayerConfigurationV7FeatureO5truckyA2EmF">`LayerConfiguration.Feature.truck`</a> layer configuration. Counted when data for the corresponding layer is requested by the application by performing one of the following actions:
 
   - Pan the map view to areas that have not been cached, prefetched or installed before.
 
@@ -884,7 +884,7 @@ Represents the feature enum associated with the gathered usage stats.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10UsageStatsV7FeatureO11vectorTilesyA2EmF"></span>` `<span id="//apple_ref/swift/Element/vectorTiles" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-usagestats-feature#/s:7heresdk10UsageStatsV7FeatureO11vectorTilesyA2EmF" class="token"><code>vectorTiles</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10UsageStatsV7FeatureO11vectorTilesyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-vectorTiles" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-usagestats-feature#sdk-for-ios-explore-s-7heresdk10UsageStatsV7FeatureO11vectorTilesyA2EmF" class="token"><code>vectorTiles</code></a> 
 
   </div>
 
@@ -928,7 +928,7 @@ Represents the feature enum associated with the gathered usage stats.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10UsageStatsV7FeatureO5otheryA2EmF"></span>` `<span id="//apple_ref/swift/Element/other" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-usagestats-feature#/s:7heresdk10UsageStatsV7FeatureO5otheryA2EmF" class="token"><code>other</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10UsageStatsV7FeatureO5otheryA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-other" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-usagestats-feature#sdk-for-ios-explore-s-7heresdk10UsageStatsV7FeatureO5otheryA2EmF" class="token"><code>other</code></a> 
 
   </div>
 
@@ -976,7 +976,7 @@ Represents the feature enum associated with the gathered usage stats.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10UsageStatsV7FeatureO11positioningyA2EmF"></span>` `<span id="//apple_ref/swift/Element/positioning" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-usagestats-feature#/s:7heresdk10UsageStatsV7FeatureO11positioningyA2EmF" class="token"><code>positioning</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10UsageStatsV7FeatureO11positioningyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-positioning" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-usagestats-feature#sdk-for-ios-explore-s-7heresdk10UsageStatsV7FeatureO11positioningyA2EmF" class="token"><code>positioning</code></a> 
 
   </div>
 

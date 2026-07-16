@@ -27,7 +27,7 @@ Indicates the official directional identifier assigned to this road. The directi
 
 - <div>
 
-  ` `<span id="/s:7heresdk17CardinalDirectionO5northyA2CmF"></span>` `<span id="//apple_ref/swift/Element/north" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-cardinaldirection#/s:7heresdk17CardinalDirectionO5northyA2CmF" class="token"><code>north</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17CardinalDirectionO5northyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-north" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-cardinaldirection#sdk-for-ios-explore-s-7heresdk17CardinalDirectionO5northyA2CmF" class="token"><code>north</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Indicates the official directional identifier assigned to this road. The directi
 
 - <div>
 
-  ` `<span id="/s:7heresdk17CardinalDirectionO5southyA2CmF"></span>` `<span id="//apple_ref/swift/Element/south" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-cardinaldirection#/s:7heresdk17CardinalDirectionO5southyA2CmF" class="token"><code>south</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17CardinalDirectionO5southyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-south" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-cardinaldirection#sdk-for-ios-explore-s-7heresdk17CardinalDirectionO5southyA2CmF" class="token"><code>south</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Indicates the official directional identifier assigned to this road. The directi
 
 - <div>
 
-  ` `<span id="/s:7heresdk17CardinalDirectionO4eastyA2CmF"></span>` `<span id="//apple_ref/swift/Element/east" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-cardinaldirection#/s:7heresdk17CardinalDirectionO4eastyA2CmF" class="token"><code>east</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17CardinalDirectionO4eastyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-east" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-cardinaldirection#sdk-for-ios-explore-s-7heresdk17CardinalDirectionO4eastyA2CmF" class="token"><code>east</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Indicates the official directional identifier assigned to this road. The directi
 
 - <div>
 
-  ` `<span id="/s:7heresdk17CardinalDirectionO4westyA2CmF"></span>` `<span id="//apple_ref/swift/Element/west" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-cardinaldirection#/s:7heresdk17CardinalDirectionO4westyA2CmF" class="token"><code>west</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17CardinalDirectionO4westyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-west" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-cardinaldirection#sdk-for-ios-explore-s-7heresdk17CardinalDirectionO4westyA2CmF" class="token"><code>west</code></a> 
 
   </div>
 

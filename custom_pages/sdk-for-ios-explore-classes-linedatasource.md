@@ -39,7 +39,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-  ` `<span id="/s:7heresdk14LineDataSourceC0bC9Processora"></span>` `<span id="//apple_ref/swift/Alias/LineDataProcessor" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-linedatasource#/s:7heresdk14LineDataSourceC0bC9Processora" class="token"><code>LineDataProcessor</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14LineDataSourceC0bC9Processora"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Alias-LineDataProcessor" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-linedatasource#sdk-for-ios-explore-s-7heresdk14LineDataSourceC0bC9Processora" class="token"><code>LineDataProcessor</code></a> 
 
   </div>
 
@@ -70,12 +70,14 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public typealias LineDataProcessor = ( _ lineAccessor : LineDataAccessor ) -> Bool
+  public typealias LineDataProcessor = (_ lineAccessor: LineDataAccessor) -> Bool
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-linedataaccessor">LineDataAccessor</a>
 
   </div>
 
@@ -114,7 +116,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      add(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk14LineDataSourceC3addyyAA0bC0CF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-add-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-linedatasource#sdk-for-ios-explore-s-7heresdk14LineDataSourceC3addyyAA0bC0CF" class="token"><code>add(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -145,12 +147,14 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func add ( _ line : LineData )
+  public func add(_ line: LineData)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-maploader#sdk-for-ios-explore-s-7heresdk8LineDataC">LineData</a>
 
   </div>
 
@@ -181,7 +185,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      add(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk14LineDataSourceC3addyySayAA0bC0CGF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-add-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-linedatasource#sdk-for-ios-explore-s-7heresdk14LineDataSourceC3addyySayAA0bC0CGF" class="token"><code>add(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -212,12 +216,14 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func add ( _ lines : [ LineData ])
+  public func add(_ lines: [LineData])
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-maploader#sdk-for-ios-explore-s-7heresdk8LineDataC">LineData</a>
 
   </div>
 
@@ -248,7 +254,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      removeAll()
+   <span id="sdk-for-ios-explore-s-7heresdk14LineDataSourceC9removeAllyyF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-removeAll" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-linedatasource#sdk-for-ios-explore-s-7heresdk14LineDataSourceC9removeAllyyF" class="token"><code>removeAll()</code></a> 
 
   </div>
 
@@ -279,10 +285,8 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func removeAll ()
+  public func removeAll()
   ```
-
-  </pre>
 
   </div>
 
@@ -294,7 +298,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      forEach(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk14LineDataSourceC7forEachyySbAA0bC8AccessorCcF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-forEach-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-linedatasource#sdk-for-ios-explore-s-7heresdk14LineDataSourceC7forEachyySbAA0bC8AccessorCcF" class="token"><code>forEach(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -325,12 +329,14 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func forEach ( _ processor : @escaping LineDataSource . LineDataProcessor )
+  public func forEach(_ processor: @escaping LineDataSource.LineDataProcessor)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-linedatasource#sdk-for-ios-explore-s-7heresdk14LineDataSourceC0bC9Processora">LineDataProcessor</a>
 
   </div>
 
@@ -361,7 +367,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      removeIf(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk14LineDataSourceC8removeIfyySbAA0bC8AccessorCcF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-removeIf-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-linedatasource#sdk-for-ios-explore-s-7heresdk14LineDataSourceC8removeIfyySbAA0bC8AccessorCcF" class="token"><code>removeIf(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -392,12 +398,14 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func removeIf ( _ inspector : @escaping LineDataSource . LineDataProcessor )
+  public func removeIf(_ inspector: @escaping LineDataSource.LineDataProcessor)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-linedatasource#sdk-for-ios-explore-s-7heresdk14LineDataSourceC0bC9Processora">LineDataProcessor</a>
 
   </div>
 

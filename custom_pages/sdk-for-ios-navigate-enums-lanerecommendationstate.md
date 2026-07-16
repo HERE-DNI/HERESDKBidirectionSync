@@ -27,7 +27,7 @@ Indicates whether this lane leads to the next maneuvers or not. The next maneuve
 
 - <div>
 
-  ` `<span id="/s:7heresdk23LaneRecommendationStateO14notRecommendedyA2CmF"></span>` `<span id="//apple_ref/swift/Element/notRecommended" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-lanerecommendationstate#/s:7heresdk23LaneRecommendationStateO14notRecommendedyA2CmF" class="token"><code>notRecommended</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk23LaneRecommendationStateO14notRecommendedyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-notRecommended" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-lanerecommendationstate#sdk-for-ios-navigate-s-7heresdk23LaneRecommendationStateO14notRecommendedyA2CmF" class="token"><code>notRecommended</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Indicates whether this lane leads to the next maneuvers or not. The next maneuve
 
 - <div>
 
-  ` `<span id="/s:7heresdk23LaneRecommendationStateO11recommendedyA2CmF"></span>` `<span id="//apple_ref/swift/Element/recommended" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-lanerecommendationstate#/s:7heresdk23LaneRecommendationStateO11recommendedyA2CmF" class="token"><code>recommended</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk23LaneRecommendationStateO11recommendedyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-recommended" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-lanerecommendationstate#sdk-for-ios-navigate-s-7heresdk23LaneRecommendationStateO11recommendedyA2CmF" class="token"><code>recommended</code></a> 
 
   </div>
 
@@ -89,7 +89,7 @@ Indicates whether this lane leads to the next maneuvers or not. The next maneuve
 
   <div class="abstract">
 
-  Only possible when <a href="sdk-for-ios-navigate-structs-maneuverviewlaneassistance#/s:7heresdk26ManeuverViewLaneAssistanceV012lanesForNexthB0SayAA0D0VGvp">`ManeuverViewLaneAssistance.lanesForNextNextManeuver`</a> is not empty. If <a href="sdk-for-ios-navigate-structs-maneuverviewlaneassistance#/s:7heresdk26ManeuverViewLaneAssistanceV012lanesForNexthB0SayAA0D0VGvp">`ManeuverViewLaneAssistance.lanesForNextNextManeuver`</a> is not empty, then this lane will lead the user only to the next maneuver, but not to the maneuver after the next maneuver.
+  Only possible when <a href="sdk-for-ios-navigate-structs-maneuverviewlaneassistance#sdk-for-ios-navigate-s-7heresdk26ManeuverViewLaneAssistanceV012lanesForNexthB0SayAA0D0VGvp">`ManeuverViewLaneAssistance.lanesForNextNextManeuver`</a> is not empty. If <a href="sdk-for-ios-navigate-structs-maneuverviewlaneassistance#sdk-for-ios-navigate-s-7heresdk26ManeuverViewLaneAssistanceV012lanesForNexthB0SayAA0D0VGvp">`ManeuverViewLaneAssistance.lanesForNextNextManeuver`</a> is not empty, then this lane will lead the user only to the next maneuver, but not to the maneuver after the next maneuver.
 
   </div>
 
@@ -115,7 +115,7 @@ Indicates whether this lane leads to the next maneuvers or not. The next maneuve
 
 - <div>
 
-  ` `<span id="/s:7heresdk23LaneRecommendationStateO17highlyRecommendedyA2CmF"></span>` `<span id="//apple_ref/swift/Element/highlyRecommended" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-lanerecommendationstate#/s:7heresdk23LaneRecommendationStateO17highlyRecommendedyA2CmF" class="token"><code>highlyRecommended</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk23LaneRecommendationStateO17highlyRecommendedyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-highlyRecommended" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-lanerecommendationstate#sdk-for-ios-navigate-s-7heresdk23LaneRecommendationStateO17highlyRecommendedyA2CmF" class="token"><code>highlyRecommended</code></a> 
 
   </div>
 
@@ -133,7 +133,7 @@ Indicates whether this lane leads to the next maneuvers or not. The next maneuve
 
   <div class="abstract">
 
-  This lane will lead the user to the next maneuver. If <a href="sdk-for-ios-navigate-structs-maneuverviewlaneassistance#/s:7heresdk26ManeuverViewLaneAssistanceV012lanesForNexthB0SayAA0D0VGvp">`ManeuverViewLaneAssistance.lanesForNextNextManeuver`</a> is not empty, then this lane will lead the user to the next maneuver *and* to the maneuver after the next maneuver.
+  This lane will lead the user to the next maneuver. If <a href="sdk-for-ios-navigate-structs-maneuverviewlaneassistance#sdk-for-ios-navigate-s-7heresdk26ManeuverViewLaneAssistanceV012lanesForNexthB0SayAA0D0VGvp">`ManeuverViewLaneAssistance.lanesForNextNextManeuver`</a> is not empty, then this lane will lead the user to the next maneuver *and* to the maneuver after the next maneuver.
 
   </div>
 

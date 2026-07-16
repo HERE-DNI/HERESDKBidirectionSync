@@ -27,7 +27,7 @@ Types of street attributes.
 
 - <div>
 
-  ` `<span id="/s:7heresdk16StreetAttributesO16rightDrivingSideyA2CmF"></span>` `<span id="//apple_ref/swift/Element/rightDrivingSide" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-streetattributes#/s:7heresdk16StreetAttributesO16rightDrivingSideyA2CmF" class="token"><code>rightDrivingSide</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16StreetAttributesO16rightDrivingSideyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-rightDrivingSide" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-streetattributes#sdk-for-ios-explore-s-7heresdk16StreetAttributesO16rightDrivingSideyA2CmF" class="token"><code>rightDrivingSide</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Types of street attributes.
 
 - <div>
 
-  ` `<span id="/s:7heresdk16StreetAttributesO8dirtRoadyA2CmF"></span>` `<span id="//apple_ref/swift/Element/dirtRoad" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-streetattributes#/s:7heresdk16StreetAttributesO8dirtRoadyA2CmF" class="token"><code>dirtRoad</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16StreetAttributesO8dirtRoadyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-dirtRoad" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-streetattributes#sdk-for-ios-explore-s-7heresdk16StreetAttributesO8dirtRoadyA2CmF" class="token"><code>dirtRoad</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Types of street attributes.
 
 - <div>
 
-  ` `<span id="/s:7heresdk16StreetAttributesO6tunnelyA2CmF"></span>` `<span id="//apple_ref/swift/Element/tunnel" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-streetattributes#/s:7heresdk16StreetAttributesO6tunnelyA2CmF" class="token"><code>tunnel</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16StreetAttributesO6tunnelyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-tunnel" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-streetattributes#sdk-for-ios-explore-s-7heresdk16StreetAttributesO6tunnelyA2CmF" class="token"><code>tunnel</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Types of street attributes.
 
 - <div>
 
-  ` `<span id="/s:7heresdk16StreetAttributesO6bridgeyA2CmF"></span>` `<span id="//apple_ref/swift/Element/bridge" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-streetattributes#/s:7heresdk16StreetAttributesO6bridgeyA2CmF" class="token"><code>bridge</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16StreetAttributesO6bridgeyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-bridge" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-streetattributes#sdk-for-ios-explore-s-7heresdk16StreetAttributesO6bridgeyA2CmF" class="token"><code>bridge</code></a> 
 
   </div>
 
@@ -203,7 +203,7 @@ Types of street attributes.
 
 - <div>
 
-  ` `<span id="/s:7heresdk16StreetAttributesO4rampyA2CmF"></span>` `<span id="//apple_ref/swift/Element/ramp" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-streetattributes#/s:7heresdk16StreetAttributesO4rampyA2CmF" class="token"><code>ramp</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16StreetAttributesO4rampyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-ramp" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-streetattributes#sdk-for-ios-explore-s-7heresdk16StreetAttributesO4rampyA2CmF" class="token"><code>ramp</code></a> 
 
   </div>
 
@@ -247,7 +247,7 @@ Types of street attributes.
 
 - <div>
 
-  ` `<span id="/s:7heresdk16StreetAttributesO10roundaboutyA2CmF"></span>` `<span id="//apple_ref/swift/Element/roundabout" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-streetattributes#/s:7heresdk16StreetAttributesO10roundaboutyA2CmF" class="token"><code>roundabout</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16StreetAttributesO10roundaboutyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-roundabout" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-streetattributes#sdk-for-ios-explore-s-7heresdk16StreetAttributesO10roundaboutyA2CmF" class="token"><code>roundabout</code></a> 
 
   </div>
 
@@ -291,7 +291,7 @@ Types of street attributes.
 
 - <div>
 
-  ` `<span id="/s:7heresdk16StreetAttributesO17underConstructionyA2CmF"></span>` `<span id="//apple_ref/swift/Element/underConstruction" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-streetattributes#/s:7heresdk16StreetAttributesO17underConstructionyA2CmF" class="token"><code>underConstruction</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16StreetAttributesO17underConstructionyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-underConstruction" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-streetattributes#sdk-for-ios-explore-s-7heresdk16StreetAttributesO17underConstructionyA2CmF" class="token"><code>underConstruction</code></a> 
 
   </div>
 
@@ -335,7 +335,7 @@ Types of street attributes.
 
 - <div>
 
-  ` `<span id="/s:7heresdk16StreetAttributesO11dividedRoadyA2CmF"></span>` `<span id="//apple_ref/swift/Element/dividedRoad" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-streetattributes#/s:7heresdk16StreetAttributesO11dividedRoadyA2CmF" class="token"><code>dividedRoad</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16StreetAttributesO11dividedRoadyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-dividedRoad" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-streetattributes#sdk-for-ios-explore-s-7heresdk16StreetAttributesO11dividedRoadyA2CmF" class="token"><code>dividedRoad</code></a> 
 
   </div>
 
@@ -379,7 +379,7 @@ Types of street attributes.
 
 - <div>
 
-  ` `<span id="/s:7heresdk16StreetAttributesO8motorwayyA2CmF"></span>` `<span id="//apple_ref/swift/Element/motorway" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-streetattributes#/s:7heresdk16StreetAttributesO8motorwayyA2CmF" class="token"><code>motorway</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16StreetAttributesO8motorwayyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-motorway" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-streetattributes#sdk-for-ios-explore-s-7heresdk16StreetAttributesO8motorwayyA2CmF" class="token"><code>motorway</code></a> 
 
   </div>
 
@@ -423,7 +423,7 @@ Types of street attributes.
 
 - <div>
 
-  ` `<span id="/s:7heresdk16StreetAttributesO11privateRoadyA2CmF"></span>` `<span id="//apple_ref/swift/Element/privateRoad" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-streetattributes#/s:7heresdk16StreetAttributesO11privateRoadyA2CmF" class="token"><code>privateRoad</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16StreetAttributesO11privateRoadyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-privateRoad" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-streetattributes#sdk-for-ios-explore-s-7heresdk16StreetAttributesO11privateRoadyA2CmF" class="token"><code>privateRoad</code></a> 
 
   </div>
 
@@ -467,7 +467,7 @@ Types of street attributes.
 
 - <div>
 
-  ` `<span id="/s:7heresdk16StreetAttributesO11builtUpAreayA2CmF"></span>` `<span id="//apple_ref/swift/Element/builtUpArea" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-streetattributes#/s:7heresdk16StreetAttributesO11builtUpAreayA2CmF" class="token"><code>builtUpArea</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16StreetAttributesO11builtUpAreayA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-builtUpArea" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-streetattributes#sdk-for-ios-explore-s-7heresdk16StreetAttributesO11builtUpAreayA2CmF" class="token"><code>builtUpArea</code></a> 
 
   </div>
 
@@ -511,7 +511,7 @@ Types of street attributes.
 
 - <div>
 
-  ` `<span id="/s:7heresdk16StreetAttributesO23controlledAccessHighwayyA2CmF"></span>` `<span id="//apple_ref/swift/Element/controlledAccessHighway" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-streetattributes#/s:7heresdk16StreetAttributesO23controlledAccessHighwayyA2CmF" class="token"><code>controlledAccessHighway</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16StreetAttributesO23controlledAccessHighwayyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-controlledAccessHighway" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-streetattributes#sdk-for-ios-explore-s-7heresdk16StreetAttributesO23controlledAccessHighwayyA2CmF" class="token"><code>controlledAccessHighway</code></a> 
 
   </div>
 

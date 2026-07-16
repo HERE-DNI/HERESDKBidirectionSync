@@ -17,16 +17,16 @@ public enum Feature : UInt32, CaseIterable, Codable
 
 </div>
 
-Defines a list of possible map data features that can be enabled / disabled. See <a href="sdk-for-ios-navigate-structs-sdkoptions#/s:7heresdk10SDKOptionsV18layerConfigurationAA05LayerD0Vvp">`SDKOptions.layerConfiguration`</a>
+Defines a list of possible map data features that can be enabled / disabled. See <a href="sdk-for-ios-navigate-structs-sdkoptions#sdk-for-ios-navigate-s-7heresdk10SDKOptionsV18layerConfigurationAA05LayerD0Vvp">`SDKOptions.layerConfiguration`</a>
 
 Following features are enabled by default:
 
-- <a href="sdk-for-ios-navigate-structs-layerconfiguration-feature#/s:7heresdk18LayerConfigurationV7FeatureO15detailRenderingyA2EmF">`LayerConfiguration.Feature.detailRendering`</a>
-- <a href="sdk-for-ios-navigate-structs-layerconfiguration-feature#/s:7heresdk18LayerConfigurationV7FeatureO11landmarks3dyA2EmF">`LayerConfiguration.Feature.landmarks3d`</a>
-- <a href="sdk-for-ios-navigate-structs-layerconfiguration-feature#/s:7heresdk18LayerConfigurationV7FeatureO10navigationyA2EmF">`LayerConfiguration.Feature.navigation`</a>
-- <a href="sdk-for-ios-navigate-structs-layerconfiguration-feature#/s:7heresdk18LayerConfigurationV7FeatureO13offlineSearchyA2EmF">`LayerConfiguration.Feature.offlineSearch`</a>
-- <a href="sdk-for-ios-navigate-structs-layerconfiguration-feature#/s:7heresdk18LayerConfigurationV7FeatureO14offlineRoutingyA2EmF">`LayerConfiguration.Feature.offlineRouting`</a>
-- <a href="sdk-for-ios-navigate-structs-layerconfiguration-feature#/s:7heresdk18LayerConfigurationV7FeatureO9renderingyA2EmF">`LayerConfiguration.Feature.rendering`</a>
+- <a href="sdk-for-ios-navigate-structs-layerconfiguration-feature#sdk-for-ios-navigate-s-7heresdk18LayerConfigurationV7FeatureO15detailRenderingyA2EmF">`LayerConfiguration.Feature.detailRendering`</a>
+- <a href="sdk-for-ios-navigate-structs-layerconfiguration-feature#sdk-for-ios-navigate-s-7heresdk18LayerConfigurationV7FeatureO11landmarks3dyA2EmF">`LayerConfiguration.Feature.landmarks3d`</a>
+- <a href="sdk-for-ios-navigate-structs-layerconfiguration-feature#sdk-for-ios-navigate-s-7heresdk18LayerConfigurationV7FeatureO10navigationyA2EmF">`LayerConfiguration.Feature.navigation`</a>
+- <a href="sdk-for-ios-navigate-structs-layerconfiguration-feature#sdk-for-ios-navigate-s-7heresdk18LayerConfigurationV7FeatureO13offlineSearchyA2EmF">`LayerConfiguration.Feature.offlineSearch`</a>
+- <a href="sdk-for-ios-navigate-structs-layerconfiguration-feature#sdk-for-ios-navigate-s-7heresdk18LayerConfigurationV7FeatureO14offlineRoutingyA2EmF">`LayerConfiguration.Feature.offlineRouting`</a>
+- <a href="sdk-for-ios-navigate-structs-layerconfiguration-feature#sdk-for-ios-navigate-s-7heresdk18LayerConfigurationV7FeatureO9renderingyA2EmF">`LayerConfiguration.Feature.rendering`</a>
 
 All other features are disabled, by default.
 
@@ -34,13 +34,13 @@ Each feature enables a set of OCM layer groups to be downloaded by `sdk.maploade
 
 Following features are enabled by default for implicit prefetch:
 
-- <a href="sdk-for-ios-navigate-structs-layerconfiguration-feature#/s:7heresdk18LayerConfigurationV7FeatureO10navigationyA2EmF">`LayerConfiguration.Feature.navigation`</a>
+- <a href="sdk-for-ios-navigate-structs-layerconfiguration-feature#sdk-for-ios-navigate-s-7heresdk18LayerConfigurationV7FeatureO10navigationyA2EmF">`LayerConfiguration.Feature.navigation`</a>
 
 Implicit prefetch downloads map content for implicit prefetch features within a view port currently showed by MapView. Explicit prefetching is done using `sdk.prefetcher.RoutePrefetcher` and `sdk.prefetcher.PolygonPrefetcher`.
 
-Feature might have more than one layer group predefined to enable full experience. For example, <a href="sdk-for-ios-navigate-structs-layerconfiguration-feature#/s:7heresdk18LayerConfigurationV7FeatureO10navigationyA2EmF">`LayerConfiguration.Feature.navigation`</a> requires routing attributes, visual-friendly street names, maneuvers data and ability to interconnect those data sets.
+Feature might have more than one layer group predefined to enable full experience. For example, <a href="sdk-for-ios-navigate-structs-layerconfiguration-feature#sdk-for-ios-navigate-s-7heresdk18LayerConfigurationV7FeatureO10navigationyA2EmF">`LayerConfiguration.Feature.navigation`</a> requires routing attributes, visual-friendly street names, maneuvers data and ability to interconnect those data sets.
 
-The same map data is useful for different features, for example <a href="sdk-for-ios-navigate-structs-layerconfiguration-feature#/s:7heresdk18LayerConfigurationV7FeatureO9renderingyA2EmF">`LayerConfiguration.Feature.rendering`</a> uses Places data to present it on the MapView, while <a href="sdk-for-ios-navigate-structs-layerconfiguration-feature#/s:7heresdk18LayerConfigurationV7FeatureO13offlineSearchyA2EmF">`LayerConfiguration.Feature.offlineSearch`</a> uses the same data to enable discoverability by name or category. Hence, features might have overlapping sets of enabled layer groups.
+The same map data is useful for different features, for example <a href="sdk-for-ios-navigate-structs-layerconfiguration-feature#sdk-for-ios-navigate-s-7heresdk18LayerConfigurationV7FeatureO9renderingyA2EmF">`LayerConfiguration.Feature.rendering`</a> uses Places data to present it on the MapView, while <a href="sdk-for-ios-navigate-structs-layerconfiguration-feature#sdk-for-ios-navigate-s-7heresdk18LayerConfigurationV7FeatureO13offlineSearchyA2EmF">`LayerConfiguration.Feature.offlineSearch`</a> uses the same data to enable discoverability by name or category. Hence, features might have overlapping sets of enabled layer groups.
 
 </div>
 
@@ -50,7 +50,7 @@ The same map data is useful for different features, for example <a href="sdk-for
 
 - <div>
 
-  ` `<span id="/s:7heresdk18LayerConfigurationV7FeatureO15detailRenderingyA2EmF"></span>` `<span id="//apple_ref/swift/Element/detailRendering" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-layerconfiguration-feature#/s:7heresdk18LayerConfigurationV7FeatureO15detailRenderingyA2EmF" class="token"><code>detailRendering</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18LayerConfigurationV7FeatureO15detailRenderingyA2EmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-detailRendering" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-layerconfiguration-feature#sdk-for-ios-navigate-s-7heresdk18LayerConfigurationV7FeatureO15detailRenderingyA2EmF" class="token"><code>detailRendering</code></a> 
 
   </div>
 
@@ -98,7 +98,7 @@ The same map data is useful for different features, for example <a href="sdk-for
 
 - <div>
 
-  ` `<span id="/s:7heresdk18LayerConfigurationV7FeatureO10navigationyA2EmF"></span>` `<span id="//apple_ref/swift/Element/navigation" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-layerconfiguration-feature#/s:7heresdk18LayerConfigurationV7FeatureO10navigationyA2EmF" class="token"><code>navigation</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18LayerConfigurationV7FeatureO10navigationyA2EmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-navigation" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-layerconfiguration-feature#sdk-for-ios-navigate-s-7heresdk18LayerConfigurationV7FeatureO10navigationyA2EmF" class="token"><code>navigation</code></a> 
 
   </div>
 
@@ -149,7 +149,7 @@ The same map data is useful for different features, for example <a href="sdk-for
 
 - <div>
 
-  ` `<span id="/s:7heresdk18LayerConfigurationV7FeatureO13offlineSearchyA2EmF"></span>` `<span id="//apple_ref/swift/Element/offlineSearch" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-layerconfiguration-feature#/s:7heresdk18LayerConfigurationV7FeatureO13offlineSearchyA2EmF" class="token"><code>offlineSearch</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18LayerConfigurationV7FeatureO13offlineSearchyA2EmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-offlineSearch" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-layerconfiguration-feature#sdk-for-ios-navigate-s-7heresdk18LayerConfigurationV7FeatureO13offlineSearchyA2EmF" class="token"><code>offlineSearch</code></a> 
 
   </div>
 
@@ -199,7 +199,7 @@ The same map data is useful for different features, for example <a href="sdk-for
 
 - <div>
 
-  ` `<span id="/s:7heresdk18LayerConfigurationV7FeatureO19offlineSearchGlobalyA2EmF"></span>` `<span id="//apple_ref/swift/Element/offlineSearchGlobal" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-layerconfiguration-feature#/s:7heresdk18LayerConfigurationV7FeatureO19offlineSearchGlobalyA2EmF" class="token"><code>offlineSearchGlobal</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18LayerConfigurationV7FeatureO19offlineSearchGlobalyA2EmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-offlineSearchGlobal" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-layerconfiguration-feature#sdk-for-ios-navigate-s-7heresdk18LayerConfigurationV7FeatureO19offlineSearchGlobalyA2EmF" class="token"><code>offlineSearchGlobal</code></a> 
 
   </div>
 
@@ -221,27 +221,27 @@ The same map data is useful for different features, for example <a href="sdk-for
 
   Enables the HERE SDK to use the enhanced offline search algorithm for downloaded map regions when:
 
-  - `OFFLINE_SEARCH_GLOBAL` is included in <a href="sdk-for-ios-navigate-structs-layerconfiguration#/s:7heresdk18LayerConfigurationV15enabledFeaturesSayAC7FeatureOGvp">`LayerConfiguration.enabledFeatures`</a> and
+  - `OFFLINE_SEARCH_GLOBAL` is included in <a href="sdk-for-ios-navigate-structs-layerconfiguration#sdk-for-ios-navigate-s-7heresdk18LayerConfigurationV15enabledFeaturesSayAC7FeatureOGvp">`LayerConfiguration.enabledFeatures`</a> and
   - downloaded map regions contain the required OCM layer groups listed below.
 
   Also enables the enhanced offline search algorithm for implicitly prefetched map content when:
 
-  - `OFFLINE_SEARCH_GLOBAL` is included in <a href="sdk-for-ios-navigate-structs-layerconfiguration#/s:7heresdk18LayerConfigurationV28implicitlyPrefetchedFeaturesSayAC7FeatureOGvp">`LayerConfiguration.implicitlyPrefetchedFeatures`</a> and
+  - `OFFLINE_SEARCH_GLOBAL` is included in <a href="sdk-for-ios-navigate-structs-layerconfiguration#sdk-for-ios-navigate-s-7heresdk18LayerConfigurationV28implicitlyPrefetchedFeaturesSayAC7FeatureOGvp">`LayerConfiguration.implicitlyPrefetchedFeatures`</a> and
   - downloaded map regions (if present) contain the required OCM layer groups.
 
   Both options can be enabled together. However, if enabling the feature for implicitly prefetched content, it is recommended to also enable it for downloaded map regions to ensure consistent search behavior.
 
   **Important**: After enabling this feature, make sure to update the cached offline maps. If the cached maps are not updated, the algorithm will either:
 
-  1.  Fall back to the stable offline search if `OFFLINE_SEARCH` is still included in <a href="sdk-for-ios-navigate-structs-layerconfiguration#/s:7heresdk18LayerConfigurationV15enabledFeaturesSayAC7FeatureOGvp">`LayerConfiguration.enabledFeatures`</a>, or
+  1.  Fall back to the stable offline search if `OFFLINE_SEARCH` is still included in <a href="sdk-for-ios-navigate-structs-layerconfiguration#sdk-for-ios-navigate-s-7heresdk18LayerConfigurationV15enabledFeaturesSayAC7FeatureOGvp">`LayerConfiguration.enabledFeatures`</a>, or
   2.  Produce a `LAYERS_NOT_DOWNLOADED` error if the necessary layers are missing.
 
   To prevent excessive map size growth, it is recommended to enable only one of `OFFLINE_SEARCH_GLOBAL` or `OFFLINE_SEARCH` at a time.
 
   Enabling this feature increases storage requirements:
 
-  - Downloaded map region size by ~11–16% when enabled via <a href="sdk-for-ios-navigate-structs-layerconfiguration#/s:7heresdk18LayerConfigurationV15enabledFeaturesSayAC7FeatureOGvp">`LayerConfiguration.enabledFeatures`</a>.
-  - Map cache size by ~40–140% when enabled via <a href="sdk-for-ios-navigate-structs-layerconfiguration#/s:7heresdk18LayerConfigurationV28implicitlyPrefetchedFeaturesSayAC7FeatureOGvp">`LayerConfiguration.implicitlyPrefetchedFeatures`</a> (upper bound occurs for long routes, e.g., Paris → Rome).
+  - Downloaded map region size by ~11–16% when enabled via <a href="sdk-for-ios-navigate-structs-layerconfiguration#sdk-for-ios-navigate-s-7heresdk18LayerConfigurationV15enabledFeaturesSayAC7FeatureOGvp">`LayerConfiguration.enabledFeatures`</a>.
+  - Map cache size by ~40–140% when enabled via <a href="sdk-for-ios-navigate-structs-layerconfiguration#sdk-for-ios-navigate-s-7heresdk18LayerConfigurationV28implicitlyPrefetchedFeaturesSayAC7FeatureOGvp">`LayerConfiguration.implicitlyPrefetchedFeatures`</a> (upper bound occurs for long routes, e.g., Paris → Rome).
 
   Feature enables following OCM layer groups:
 
@@ -274,7 +274,7 @@ The same map data is useful for different features, for example <a href="sdk-for
 
 - <div>
 
-  ` `<span id="/s:7heresdk18LayerConfigurationV7FeatureO14offlineRoutingyA2EmF"></span>` `<span id="//apple_ref/swift/Element/offlineRouting" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-layerconfiguration-feature#/s:7heresdk18LayerConfigurationV7FeatureO14offlineRoutingyA2EmF" class="token"><code>offlineRouting</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18LayerConfigurationV7FeatureO14offlineRoutingyA2EmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-offlineRouting" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-layerconfiguration-feature#sdk-for-ios-navigate-s-7heresdk18LayerConfigurationV7FeatureO14offlineRoutingyA2EmF" class="token"><code>offlineRouting</code></a> 
 
   </div>
 
@@ -326,7 +326,7 @@ The same map data is useful for different features, for example <a href="sdk-for
 
 - <div>
 
-  ` `<span id="/s:7heresdk18LayerConfigurationV7FeatureO9renderingyA2EmF"></span>` `<span id="//apple_ref/swift/Element/rendering" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-layerconfiguration-feature#/s:7heresdk18LayerConfigurationV7FeatureO9renderingyA2EmF" class="token"><code>rendering</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18LayerConfigurationV7FeatureO9renderingyA2EmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-rendering" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-layerconfiguration-feature#sdk-for-ios-navigate-s-7heresdk18LayerConfigurationV7FeatureO9renderingyA2EmF" class="token"><code>rendering</code></a> 
 
   </div>
 
@@ -374,7 +374,7 @@ The same map data is useful for different features, for example <a href="sdk-for
 
 - <div>
 
-  ` `<span id="/s:7heresdk18LayerConfigurationV7FeatureO5truckyA2EmF"></span>` `<span id="//apple_ref/swift/Element/truck" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-layerconfiguration-feature#/s:7heresdk18LayerConfigurationV7FeatureO5truckyA2EmF" class="token"><code>truck</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18LayerConfigurationV7FeatureO5truckyA2EmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-truck" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-layerconfiguration-feature#sdk-for-ios-navigate-s-7heresdk18LayerConfigurationV7FeatureO5truckyA2EmF" class="token"><code>truck</code></a> 
 
   </div>
 
@@ -424,7 +424,7 @@ The same map data is useful for different features, for example <a href="sdk-for
 
 - <div>
 
-  ` `<span id="/s:7heresdk18LayerConfigurationV7FeatureO11landmarks3dyA2EmF"></span>` `<span id="//apple_ref/swift/Element/landmarks3d" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-layerconfiguration-feature#/s:7heresdk18LayerConfigurationV7FeatureO11landmarks3dyA2EmF" class="token"><code>landmarks3d</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18LayerConfigurationV7FeatureO11landmarks3dyA2EmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-landmarks3d" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-layerconfiguration-feature#sdk-for-ios-navigate-s-7heresdk18LayerConfigurationV7FeatureO11landmarks3dyA2EmF" class="token"><code>landmarks3d</code></a> 
 
   </div>
 
@@ -472,7 +472,7 @@ The same map data is useful for different features, for example <a href="sdk-for
 
 - <div>
 
-  ` `<span id="/s:7heresdk18LayerConfigurationV7FeatureO2evyA2EmF"></span>` `<span id="//apple_ref/swift/Element/ev" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-layerconfiguration-feature#/s:7heresdk18LayerConfigurationV7FeatureO2evyA2EmF" class="token"><code>ev</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18LayerConfigurationV7FeatureO2evyA2EmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-ev" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-layerconfiguration-feature#sdk-for-ios-navigate-s-7heresdk18LayerConfigurationV7FeatureO2evyA2EmF" class="token"><code>ev</code></a> 
 
   </div>
 
@@ -521,7 +521,7 @@ The same map data is useful for different features, for example <a href="sdk-for
 
 - <div>
 
-  ` `<span id="/s:7heresdk18LayerConfigurationV7FeatureO22truckServiceAttributesyA2EmF"></span>` `<span id="//apple_ref/swift/Element/truckServiceAttributes" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-layerconfiguration-feature#/s:7heresdk18LayerConfigurationV7FeatureO22truckServiceAttributesyA2EmF" class="token"><code>truckServiceAttributes</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18LayerConfigurationV7FeatureO22truckServiceAttributesyA2EmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-truckServiceAttributes" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-layerconfiguration-feature#sdk-for-ios-navigate-s-7heresdk18LayerConfigurationV7FeatureO22truckServiceAttributesyA2EmF" class="token"><code>truckServiceAttributes</code></a> 
 
   </div>
 
@@ -567,7 +567,7 @@ The same map data is useful for different features, for example <a href="sdk-for
 
 - <div>
 
-  ` `<span id="/s:7heresdk18LayerConfigurationV7FeatureO21fuelStationAttributesyA2EmF"></span>` `<span id="//apple_ref/swift/Element/fuelStationAttributes" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-layerconfiguration-feature#/s:7heresdk18LayerConfigurationV7FeatureO21fuelStationAttributesyA2EmF" class="token"><code>fuelStationAttributes</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18LayerConfigurationV7FeatureO21fuelStationAttributesyA2EmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-fuelStationAttributes" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-layerconfiguration-feature#sdk-for-ios-navigate-s-7heresdk18LayerConfigurationV7FeatureO21fuelStationAttributesyA2EmF" class="token"><code>fuelStationAttributes</code></a> 
 
   </div>
 
@@ -615,7 +615,7 @@ The same map data is useful for different features, for example <a href="sdk-for
 
 - <div>
 
-  ` `<span id="/s:7heresdk18LayerConfigurationV7FeatureO17offlineBusRoutingyA2EmF"></span>` `<span id="//apple_ref/swift/Element/offlineBusRouting" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-layerconfiguration-feature#/s:7heresdk18LayerConfigurationV7FeatureO17offlineBusRoutingyA2EmF" class="token"><code>offlineBusRouting</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18LayerConfigurationV7FeatureO17offlineBusRoutingyA2EmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-offlineBusRouting" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-layerconfiguration-feature#sdk-for-ios-navigate-s-7heresdk18LayerConfigurationV7FeatureO17offlineBusRoutingyA2EmF" class="token"><code>offlineBusRouting</code></a> 
 
   </div>
 
@@ -663,7 +663,7 @@ The same map data is useful for different features, for example <a href="sdk-for
 
 - <div>
 
-  ` `<span id="/s:7heresdk18LayerConfigurationV7FeatureO15junctionView3x4yA2EmF"></span>` `<span id="//apple_ref/swift/Element/junctionView3x4" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-layerconfiguration-feature#/s:7heresdk18LayerConfigurationV7FeatureO15junctionView3x4yA2EmF" class="token"><code>junctionView3x4</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18LayerConfigurationV7FeatureO15junctionView3x4yA2EmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-junctionView3x4" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-layerconfiguration-feature#sdk-for-ios-navigate-s-7heresdk18LayerConfigurationV7FeatureO15junctionView3x4yA2EmF" class="token"><code>junctionView3x4</code></a> 
 
   </div>
 
@@ -713,7 +713,7 @@ The same map data is useful for different features, for example <a href="sdk-for
 
 - <div>
 
-  ` `<span id="/s:7heresdk18LayerConfigurationV7FeatureO16junctionView16x9yA2EmF"></span>` `<span id="//apple_ref/swift/Element/junctionView16x9" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-layerconfiguration-feature#/s:7heresdk18LayerConfigurationV7FeatureO16junctionView16x9yA2EmF" class="token"><code>junctionView16x9</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18LayerConfigurationV7FeatureO16junctionView16x9yA2EmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-junctionView16x9" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-layerconfiguration-feature#sdk-for-ios-navigate-s-7heresdk18LayerConfigurationV7FeatureO16junctionView16x9yA2EmF" class="token"><code>junctionView16x9</code></a> 
 
   </div>
 
@@ -763,7 +763,7 @@ The same map data is useful for different features, for example <a href="sdk-for
 
 - <div>
 
-  ` `<span id="/s:7heresdk18LayerConfigurationV7FeatureO15junctionSign3x4yA2EmF"></span>` `<span id="//apple_ref/swift/Element/junctionSign3x4" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-layerconfiguration-feature#/s:7heresdk18LayerConfigurationV7FeatureO15junctionSign3x4yA2EmF" class="token"><code>junctionSign3x4</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18LayerConfigurationV7FeatureO15junctionSign3x4yA2EmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-junctionSign3x4" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-layerconfiguration-feature#sdk-for-ios-navigate-s-7heresdk18LayerConfigurationV7FeatureO15junctionSign3x4yA2EmF" class="token"><code>junctionSign3x4</code></a> 
 
   </div>
 
@@ -811,7 +811,7 @@ The same map data is useful for different features, for example <a href="sdk-for
 
 - <div>
 
-  ` `<span id="/s:7heresdk18LayerConfigurationV7FeatureO15junctionSign3x5yA2EmF"></span>` `<span id="//apple_ref/swift/Element/junctionSign3x5" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-layerconfiguration-feature#/s:7heresdk18LayerConfigurationV7FeatureO15junctionSign3x5yA2EmF" class="token"><code>junctionSign3x5</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18LayerConfigurationV7FeatureO15junctionSign3x5yA2EmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-junctionSign3x5" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-layerconfiguration-feature#sdk-for-ios-navigate-s-7heresdk18LayerConfigurationV7FeatureO15junctionSign3x5yA2EmF" class="token"><code>junctionSign3x5</code></a> 
 
   </div>
 
@@ -859,7 +859,7 @@ The same map data is useful for different features, for example <a href="sdk-for
 
 - <div>
 
-  ` `<span id="/s:7heresdk18LayerConfigurationV7FeatureO15junctionSign4x3yA2EmF"></span>` `<span id="//apple_ref/swift/Element/junctionSign4x3" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-layerconfiguration-feature#/s:7heresdk18LayerConfigurationV7FeatureO15junctionSign4x3yA2EmF" class="token"><code>junctionSign4x3</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18LayerConfigurationV7FeatureO15junctionSign4x3yA2EmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-junctionSign4x3" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-layerconfiguration-feature#sdk-for-ios-navigate-s-7heresdk18LayerConfigurationV7FeatureO15junctionSign4x3yA2EmF" class="token"><code>junctionSign4x3</code></a> 
 
   </div>
 
@@ -907,7 +907,7 @@ The same map data is useful for different features, for example <a href="sdk-for
 
 - <div>
 
-  ` `<span id="/s:7heresdk18LayerConfigurationV7FeatureO15junctionSign5x3yA2EmF"></span>` `<span id="//apple_ref/swift/Element/junctionSign5x3" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-layerconfiguration-feature#/s:7heresdk18LayerConfigurationV7FeatureO15junctionSign5x3yA2EmF" class="token"><code>junctionSign5x3</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18LayerConfigurationV7FeatureO15junctionSign5x3yA2EmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-junctionSign5x3" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-layerconfiguration-feature#sdk-for-ios-navigate-s-7heresdk18LayerConfigurationV7FeatureO15junctionSign5x3yA2EmF" class="token"><code>junctionSign5x3</code></a> 
 
   </div>
 
@@ -953,7 +953,7 @@ The same map data is useful for different features, for example <a href="sdk-for
 
 - <div>
 
-  ` `<span id="/s:7heresdk18LayerConfigurationV7FeatureO16junctionSign16x9yA2EmF"></span>` `<span id="//apple_ref/swift/Element/junctionSign16x9" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-layerconfiguration-feature#/s:7heresdk18LayerConfigurationV7FeatureO16junctionSign16x9yA2EmF" class="token"><code>junctionSign16x9</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18LayerConfigurationV7FeatureO16junctionSign16x9yA2EmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-junctionSign16x9" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-layerconfiguration-feature#sdk-for-ios-navigate-s-7heresdk18LayerConfigurationV7FeatureO16junctionSign16x9yA2EmF" class="token"><code>junctionSign16x9</code></a> 
 
   </div>
 
@@ -1001,7 +1001,7 @@ The same map data is useful for different features, for example <a href="sdk-for
 
 - <div>
 
-  ` `<span id="/s:7heresdk18LayerConfigurationV7FeatureO7terrainyA2EmF"></span>` `<span id="//apple_ref/swift/Element/terrain" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-layerconfiguration-feature#/s:7heresdk18LayerConfigurationV7FeatureO7terrainyA2EmF" class="token"><code>terrain</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18LayerConfigurationV7FeatureO7terrainyA2EmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-terrain" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-layerconfiguration-feature#sdk-for-ios-navigate-s-7heresdk18LayerConfigurationV7FeatureO7terrainyA2EmF" class="token"><code>terrain</code></a> 
 
   </div>
 
@@ -1049,7 +1049,7 @@ The same map data is useful for different features, for example <a href="sdk-for
 
 - <div>
 
-  ` `<span id="/s:7heresdk18LayerConfigurationV7FeatureO15detailedTerrainyA2EmF"></span>` `<span id="//apple_ref/swift/Element/detailedTerrain" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-layerconfiguration-feature#/s:7heresdk18LayerConfigurationV7FeatureO15detailedTerrainyA2EmF" class="token"><code>detailedTerrain</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18LayerConfigurationV7FeatureO15detailedTerrainyA2EmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-detailedTerrain" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-layerconfiguration-feature#sdk-for-ios-navigate-s-7heresdk18LayerConfigurationV7FeatureO15detailedTerrainyA2EmF" class="token"><code>detailedTerrain</code></a> 
 
   </div>
 
@@ -1095,7 +1095,7 @@ The same map data is useful for different features, for example <a href="sdk-for
 
 - <div>
 
-  ` `<span id="/s:7heresdk18LayerConfigurationV7FeatureO4adasyA2EmF"></span>` `<span id="//apple_ref/swift/Element/adas" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-layerconfiguration-feature#/s:7heresdk18LayerConfigurationV7FeatureO4adasyA2EmF" class="token"><code>adas</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18LayerConfigurationV7FeatureO4adasyA2EmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-adas" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-layerconfiguration-feature#sdk-for-ios-navigate-s-7heresdk18LayerConfigurationV7FeatureO4adasyA2EmF" class="token"><code>adas</code></a> 
 
   </div>
 
@@ -1141,7 +1141,7 @@ The same map data is useful for different features, for example <a href="sdk-for
 
 - <div>
 
-  ` `<span id="/s:7heresdk18LayerConfigurationV7FeatureO8ehorizonyA2EmF"></span>` `<span id="//apple_ref/swift/Element/ehorizon" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-layerconfiguration-feature#/s:7heresdk18LayerConfigurationV7FeatureO8ehorizonyA2EmF" class="token"><code>ehorizon</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18LayerConfigurationV7FeatureO8ehorizonyA2EmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-ehorizon" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-layerconfiguration-feature#sdk-for-ios-navigate-s-7heresdk18LayerConfigurationV7FeatureO8ehorizonyA2EmF" class="token"><code>ehorizon</code></a> 
 
   </div>
 
@@ -1187,7 +1187,7 @@ The same map data is useful for different features, for example <a href="sdk-for
 
 - <div>
 
-  ` `<span id="/s:7heresdk18LayerConfigurationV7FeatureO10rdsTrafficyA2EmF"></span>` `<span id="//apple_ref/swift/Element/rdsTraffic" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-layerconfiguration-feature#/s:7heresdk18LayerConfigurationV7FeatureO10rdsTrafficyA2EmF" class="token"><code>rdsTraffic</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18LayerConfigurationV7FeatureO10rdsTrafficyA2EmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-rdsTraffic" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-layerconfiguration-feature#sdk-for-ios-navigate-s-7heresdk18LayerConfigurationV7FeatureO10rdsTrafficyA2EmF" class="token"><code>rdsTraffic</code></a> 
 
   </div>
 

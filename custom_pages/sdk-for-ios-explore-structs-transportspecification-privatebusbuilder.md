@@ -23,6 +23,10 @@ extension TransportSpecification.PrivateBusBuilder: Hashable
 
 </div>
 
+Related types:
+
+- <a href="sdk-for-ios-explore-structs-transportspecification">TransportSpecification</a>
+
 </div>
 
 This class constructs a <a href="sdk-for-ios-explore-structs-transportspecification">`TransportSpecification`</a> for a private bus.
@@ -35,7 +39,7 @@ This class constructs a <a href="sdk-for-ios-explore-structs-transportspecificat
 
 - <div>
 
-      init()
+   <span id="sdk-for-ios-explore-s-7heresdk22TransportSpecificationV17PrivateBusBuilderCAEycfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-transportspecification-privatebusbuilder#sdk-for-ios-explore-s-7heresdk22TransportSpecificationV17PrivateBusBuilderCAEycfc" class="token"><code>init()</code></a> 
 
   </div>
 
@@ -66,10 +70,8 @@ This class constructs a <a href="sdk-for-ios-explore-structs-transportspecificat
   Swift
 
   ``` highlight
-  public init ()
+  public init()
   ```
-
-  </pre>
 
   </div>
 
@@ -81,7 +83,7 @@ This class constructs a <a href="sdk-for-ios-explore-structs-transportspecificat
 
 - <div>
 
-      withVehicleSpecification(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk22TransportSpecificationV17PrivateBusBuilderC011withVehicleC0yAeA0hC0VF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-withVehicleSpecification-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-transportspecification-privatebusbuilder#sdk-for-ios-explore-s-7heresdk22TransportSpecificationV17PrivateBusBuilderC011withVehicleC0yAeA0hC0VF" class="token"><code>withVehicleSpecification(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -112,12 +114,15 @@ This class constructs a <a href="sdk-for-ios-explore-structs-transportspecificat
   Swift
 
   ``` highlight
-  public func withVehicleSpecification ( _ vehicleSpecification : VehicleSpecification ) -> TransportSpecification . PrivateBusBuilder
+  public func withVehicleSpecification(_ vehicleSpecification: VehicleSpecification) -> TransportSpecification.PrivateBusBuilder
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-vehiclespecification">VehicleSpecification</a>
+  - <a href="sdk-for-ios-explore-structs-transportspecification">TransportSpecification</a>
 
   </div>
 
@@ -156,7 +161,7 @@ This class constructs a <a href="sdk-for-ios-explore-structs-transportspecificat
 
 - <div>
 
-      build()
+   <span id="sdk-for-ios-explore-s-7heresdk22TransportSpecificationV17PrivateBusBuilderC5buildACyF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-build" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-transportspecification-privatebusbuilder#sdk-for-ios-explore-s-7heresdk22TransportSpecificationV17PrivateBusBuilderC5buildACyF" class="token"><code>build()</code></a> 
 
   </div>
 
@@ -187,12 +192,14 @@ This class constructs a <a href="sdk-for-ios-explore-structs-transportspecificat
   Swift
 
   ``` highlight
-  public func build () -> TransportSpecification
+  public func build() -> TransportSpecification
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-transportspecification">TransportSpecification</a>
 
   </div>
 

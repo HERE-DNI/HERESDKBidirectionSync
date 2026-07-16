@@ -17,12 +17,7 @@ public enum ElectronicHorizonDataLoaderErrorCode : UInt32, CaseIterable, Codable
 
 </div>
 
-Represents error codes that describe the result of the
-
-    ElectronicHorizonDataLoader.getSegment(...)
-
-method.
-</p>
+Represents error codes that describe the result of the <a href="sdk-for-ios-navigate-classes-electronichorizondataloader#sdk-for-ios-navigate-s-7heresdk27ElectronicHorizonDataLoaderC10getSegment9segmentIdAA0bcdE6ResultVAA018DirectedOCMSegmentI0V_tF">`ElectronicHorizonDataLoader.getSegment(...)`</a> method.
 
 **Note:** This is a beta release of this feature, so there could be a few bugs and unexpected behaviors. Related APIs may change for new releases without a deprecation process.
 
@@ -36,7 +31,7 @@ Offline availability: This property is available online and offline.
 
 - <div>
 
-  ` `<span id="/s:7heresdk36ElectronicHorizonDataLoaderErrorCodeO16segmentNotCachedyA2CmF"></span>` `<span id="//apple_ref/swift/Element/segmentNotCached" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-electronichorizondataloadererrorcode#/s:7heresdk36ElectronicHorizonDataLoaderErrorCodeO16segmentNotCachedyA2CmF" class="token"><code>segmentNotCached</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk36ElectronicHorizonDataLoaderErrorCodeO16segmentNotCachedyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-segmentNotCached" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-electronichorizondataloadererrorcode#sdk-for-ios-navigate-s-7heresdk36ElectronicHorizonDataLoaderErrorCodeO16segmentNotCachedyA2CmF" class="token"><code>segmentNotCached</code></a> 
 
   </div>
 
@@ -80,7 +75,7 @@ Offline availability: This property is available online and offline.
 
 - <div>
 
-  ` `<span id="/s:7heresdk36ElectronicHorizonDataLoaderErrorCodeO15segmentNotReadyyA2CmF"></span>` `<span id="//apple_ref/swift/Element/segmentNotReady" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-electronichorizondataloadererrorcode#/s:7heresdk36ElectronicHorizonDataLoaderErrorCodeO15segmentNotReadyyA2CmF" class="token"><code>segmentNotReady</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk36ElectronicHorizonDataLoaderErrorCodeO15segmentNotReadyyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-segmentNotReady" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-electronichorizondataloadererrorcode#sdk-for-ios-navigate-s-7heresdk36ElectronicHorizonDataLoaderErrorCodeO15segmentNotReadyyA2CmF" class="token"><code>segmentNotReady</code></a> 
 
   </div>
 

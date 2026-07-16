@@ -19,6 +19,10 @@ extension MapPolylineAnimation.InstantiationErrorCode : Error
 
 </div>
 
+Related types:
+
+- <a href="sdk-for-ios-explore-classes-mappolylineanimation">MapPolylineAnimation</a>
+
 </div>
 
 Describes a reason for failing to create a <a href="sdk-for-ios-explore-classes-mappolylineanimation">`MapPolylineAnimation`</a>.
@@ -31,7 +35,7 @@ Describes a reason for failing to create a <a href="sdk-for-ios-explore-classes-
 
 - <div>
 
-  ` `<span id="/s:7heresdk20MapPolylineAnimationC22InstantiationErrorCodeO17incompatibleTrackyA2EmF"></span>` `<span id="//apple_ref/swift/Element/incompatibleTrack" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-mappolylineanimation-instantiationerrorcode#/s:7heresdk20MapPolylineAnimationC22InstantiationErrorCodeO17incompatibleTrackyA2EmF" class="token"><code>incompatibleTrack</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk20MapPolylineAnimationC22InstantiationErrorCodeO17incompatibleTrackyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-incompatibleTrack" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mappolylineanimation-instantiationerrorcode#sdk-for-ios-explore-s-7heresdk20MapPolylineAnimationC22InstantiationErrorCodeO17incompatibleTrackyA2EmF" class="token"><code>incompatibleTrack</code></a> 
 
   </div>
 

@@ -27,7 +27,7 @@ SDKOptions provide an alternative way to set or update the HERE SDK credentials 
 
 - <div>
 
-  ` `<span id="/s:7heresdk10SDKOptionsV5scopeSSvp"></span>` `<span id="//apple_ref/swift/Property/scope" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-sdkoptions#/s:7heresdk10SDKOptionsV5scopeSSvp" class="token"><code>scope</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10SDKOptionsV5scopeSSvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-scope" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-sdkoptions#sdk-for-ios-navigate-s-7heresdk10SDKOptionsV5scopeSSvp" class="token"><code>scope</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ SDKOptions provide an alternative way to set or update the HERE SDK credentials 
 
 - <div>
 
-  ` `<span id="/s:7heresdk10SDKOptionsV9cachePathSSvp"></span>` `<span id="//apple_ref/swift/Property/cachePath" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-sdkoptions#/s:7heresdk10SDKOptionsV9cachePathSSvp" class="token"><code>cachePath</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10SDKOptionsV9cachePathSSvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-cachePath" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-sdkoptions#sdk-for-ios-navigate-s-7heresdk10SDKOptionsV9cachePathSSvp" class="token"><code>cachePath</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ SDKOptions provide an alternative way to set or update the HERE SDK credentials 
 
 - <div>
 
-  ` `<span id="/s:7heresdk10SDKOptionsV16cacheSizeInBytess5Int64Vvp"></span>` `<span id="//apple_ref/swift/Property/cacheSizeInBytes" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-sdkoptions#/s:7heresdk10SDKOptionsV16cacheSizeInBytess5Int64Vvp" class="token"><code>cacheSizeInBytes</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10SDKOptionsV16cacheSizeInBytess5Int64Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-cacheSizeInBytes" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-sdkoptions#sdk-for-ios-navigate-s-7heresdk10SDKOptionsV16cacheSizeInBytess5Int64Vvp" class="token"><code>cacheSizeInBytes</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ SDKOptions provide an alternative way to set or update the HERE SDK credentials 
 
 - <div>
 
-  ` `<span id="/s:7heresdk10SDKOptionsV8dataPathSSvp"></span>` `<span id="//apple_ref/swift/Property/dataPath" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-sdkoptions#/s:7heresdk10SDKOptionsV8dataPathSSvp" class="token"><code>dataPath</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10SDKOptionsV8dataPathSSvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-dataPath" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-sdkoptions#sdk-for-ios-navigate-s-7heresdk10SDKOptionsV8dataPathSSvp" class="token"><code>dataPath</code></a> 
 
   </div>
 
@@ -179,11 +179,11 @@ SDKOptions provide an alternative way to set or update the HERE SDK credentials 
 
   Path used for storing application internal data, such as the offline search index and other essential data required for proper functionality.
 
-  **Note:** For common use cases, prefer <a href="sdk-for-ios-navigate-structs-sdkoptions#/s:7heresdk10SDKOptionsV24persistentMapStoragePathSSvp">`SDKOptions.persistentMapStoragePath`</a>, or keep the default paths. Use `dataPath` only as a fallback if <a href="sdk-for-ios-navigate-structs-sdkoptions#/s:7heresdk10SDKOptionsV24persistentMapStoragePathSSvp">`SDKOptions.persistentMapStoragePath`</a> is not writable, for example, when you have an agreement with HERE to flash data at factory time.
+  **Note:** For common use cases, prefer <a href="sdk-for-ios-navigate-structs-sdkoptions#sdk-for-ios-navigate-s-7heresdk10SDKOptionsV24persistentMapStoragePathSSvp">`SDKOptions.persistentMapStoragePath`</a>, or keep the default paths. Use `dataPath` only as a fallback if <a href="sdk-for-ios-navigate-structs-sdkoptions#sdk-for-ios-navigate-s-7heresdk10SDKOptionsV24persistentMapStoragePathSSvp">`SDKOptions.persistentMapStoragePath`</a> is not writable, for example, when you have an agreement with HERE to flash data at factory time.
 
-  By default, this returns an empty string. In this case, the same path as <a href="sdk-for-ios-navigate-structs-sdkoptions#/s:7heresdk10SDKOptionsV24persistentMapStoragePathSSvp">`SDKOptions.persistentMapStoragePath`</a> will be used. If an absolute path is set, it will be used instead. If a relative path is set then directory `Application Library directory` is used as parent path. Application must have read/write permissions to the given desired path. It is recommended that the application has exclusive access to this path. Avoid using shared or public directories such as `Download` or `Documents`. Using such directories may cause certain HERE SDK features to behave with limitations. For example, index creation for offline search may fail or not function as expected. It is recommended not to use the application cache paths like `<Application_Home>/Library/Caches` , since operating system manages data in this location and data can be deleted if the device is low on storage space, which will result in application malfunction. The path can be on internal or external storage. The internal storage is recommended due to the file I/O speed. Note: If the <a href="sdk-for-ios-navigate-structs-sdkoptions#/s:7heresdk10SDKOptionsV24persistentMapStoragePathSSvp">`SDKOptions.persistentMapStoragePath`</a> is writable, `dataPath` can be left empty. If the <a href="sdk-for-ios-navigate-structs-sdkoptions#/s:7heresdk10SDKOptionsV24persistentMapStoragePathSSvp">`SDKOptions.persistentMapStoragePath`</a> is not writable, `dataPath` must be set and also be writable. Note that `dataPath` is used to store essential HERE SDK data.
+  By default, this returns an empty string. In this case, the same path as <a href="sdk-for-ios-navigate-structs-sdkoptions#sdk-for-ios-navigate-s-7heresdk10SDKOptionsV24persistentMapStoragePathSSvp">`SDKOptions.persistentMapStoragePath`</a> will be used. If an absolute path is set, it will be used instead. If a relative path is set then directory `Application Library directory` is used as parent path. Application must have read/write permissions to the given desired path. It is recommended that the application has exclusive access to this path. Avoid using shared or public directories such as `Download` or `Documents`. Using such directories may cause certain HERE SDK features to behave with limitations. For example, index creation for offline search may fail or not function as expected. It is recommended not to use the application cache paths like `<Application_Home>/Library/Caches` , since operating system manages data in this location and data can be deleted if the device is low on storage space, which will result in application malfunction. The path can be on internal or external storage. The internal storage is recommended due to the file I/O speed. Note: If the <a href="sdk-for-ios-navigate-structs-sdkoptions#sdk-for-ios-navigate-s-7heresdk10SDKOptionsV24persistentMapStoragePathSSvp">`SDKOptions.persistentMapStoragePath`</a> is writable, `dataPath` can be left empty. If the <a href="sdk-for-ios-navigate-structs-sdkoptions#sdk-for-ios-navigate-s-7heresdk10SDKOptionsV24persistentMapStoragePathSSvp">`SDKOptions.persistentMapStoragePath`</a> is not writable, `dataPath` must be set and also be writable. Note that `dataPath` is used to store essential HERE SDK data.
 
-  **Important:** There is no automatic migration of stored data between the <a href="sdk-for-ios-navigate-structs-sdkoptions#/s:7heresdk10SDKOptionsV24persistentMapStoragePathSSvp">`SDKOptions.persistentMapStoragePath`</a> and the `dataPath`. For ease of management, it’s recommended to set the persistence path as writable and ignore `dataPath`. If `dataPath` is set differently from the <a href="sdk-for-ios-navigate-structs-sdkoptions#/s:7heresdk10SDKOptionsV24persistentMapStoragePathSSvp">`SDKOptions.persistentMapStoragePath`</a>, some data that would typically be saved in the <a href="sdk-for-ios-navigate-structs-sdkoptions#/s:7heresdk10SDKOptionsV24persistentMapStoragePathSSvp">`SDKOptions.persistentMapStoragePath`</a> will now be saved to `dataPath`. If `dataPath` is set and later unset, any data stored there will remain inaccessible and will not be migrated back.
+  **Important:** There is no automatic migration of stored data between the <a href="sdk-for-ios-navigate-structs-sdkoptions#sdk-for-ios-navigate-s-7heresdk10SDKOptionsV24persistentMapStoragePathSSvp">`SDKOptions.persistentMapStoragePath`</a> and the `dataPath`. For ease of management, it’s recommended to set the persistence path as writable and ignore `dataPath`. If `dataPath` is set differently from the <a href="sdk-for-ios-navigate-structs-sdkoptions#sdk-for-ios-navigate-s-7heresdk10SDKOptionsV24persistentMapStoragePathSSvp">`SDKOptions.persistentMapStoragePath`</a>, some data that would typically be saved in the <a href="sdk-for-ios-navigate-structs-sdkoptions#sdk-for-ios-navigate-s-7heresdk10SDKOptionsV24persistentMapStoragePathSSvp">`SDKOptions.persistentMapStoragePath`</a> will now be saved to `dataPath`. If `dataPath` is set and later unset, any data stored there will remain inaccessible and will not be migrated back.
 
   </div>
 
@@ -209,7 +209,7 @@ SDKOptions provide an alternative way to set or update the HERE SDK credentials 
 
 - <div>
 
-  ` `<span id="/s:7heresdk10SDKOptionsV24persistentMapStoragePathSSvp"></span>` `<span id="//apple_ref/swift/Property/persistentMapStoragePath" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-sdkoptions#/s:7heresdk10SDKOptionsV24persistentMapStoragePathSSvp" class="token"><code>persistentMapStoragePath</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10SDKOptionsV24persistentMapStoragePathSSvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-persistentMapStoragePath" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-sdkoptions#sdk-for-ios-navigate-s-7heresdk10SDKOptionsV24persistentMapStoragePathSSvp" class="token"><code>persistentMapStoragePath</code></a> 
 
   </div>
 
@@ -227,9 +227,9 @@ SDKOptions provide an alternative way to set or update the HERE SDK credentials 
 
   <div class="abstract">
 
-  Path to store persistent map data. This should be the a path to the desired location for which the application has read/write permissions. The path can be on internal or external storage. By default, this returns an empty string. Setting a new string, will overwrite the internally used default paths: `Application Library directory` . If an absolute path is set, it will be used instead. If a relative path is set then directory `Application Library directory` is used as parent path. **Note**: Offline maps stored at `<persistent_map_storage_path>/v1/<access_key_id>/ocm-map/`, where `<access_key_id>` is taken from <a href="sdk-for-ios-navigate-structs-sdkoptions#/s:7heresdk10SDKOptionsV18authenticationModeAA014AuthenticationD0Cvp">`SDKOptions.authenticationMode`</a>. When `SDKOptions` initialized with `AuthenticationMode.withToken` or `AuthenticationMode.withExternal`, then `<access_key_id>` left empty.
+  Path to store persistent map data. This should be the a path to the desired location for which the application has read/write permissions. The path can be on internal or external storage. By default, this returns an empty string. Setting a new string, will overwrite the internally used default paths: `Application Library directory` . If an absolute path is set, it will be used instead. If a relative path is set then directory `Application Library directory` is used as parent path. **Note**: Offline maps stored at `<persistent_map_storage_path>/v1/<access_key_id>/ocm-map/`, where `<access_key_id>` is taken from <a href="sdk-for-ios-navigate-structs-sdkoptions#sdk-for-ios-navigate-s-7heresdk10SDKOptionsV18authenticationModeAA014AuthenticationD0Cvp">`SDKOptions.authenticationMode`</a>. When `SDKOptions` initialized with `AuthenticationMode.withToken` or `AuthenticationMode.withExternal`, then `<access_key_id>` left empty.
 
-  Note: If the persistent map storage location has the read only permission, then the <a href="sdk-for-ios-navigate-structs-sdkoptions#/s:7heresdk10SDKOptionsV8dataPathSSvp">`SDKOptions.dataPath`</a> must be configured.
+  Note: If the persistent map storage location has the read only permission, then the <a href="sdk-for-ios-navigate-structs-sdkoptions#sdk-for-ios-navigate-s-7heresdk10SDKOptionsV8dataPathSSvp">`SDKOptions.dataPath`</a> must be configured.
 
   </div>
 
@@ -255,7 +255,7 @@ SDKOptions provide an alternative way to set or update the HERE SDK credentials 
 
 - <div>
 
-  ` `<span id="/s:7heresdk10SDKOptionsV13politicalViewSSvp"></span>` `<span id="//apple_ref/swift/Property/politicalView" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-sdkoptions#/s:7heresdk10SDKOptionsV13politicalViewSSvp" class="token"><code>politicalView</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10SDKOptionsV13politicalViewSSvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-politicalView" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-sdkoptions#sdk-for-ios-navigate-s-7heresdk10SDKOptionsV13politicalViewSSvp" class="token"><code>politicalView</code></a> 
 
   </div>
 
@@ -303,7 +303,7 @@ SDKOptions provide an alternative way to set or update the HERE SDK credentials 
 
 - <div>
 
-  ` `<span id="/s:7heresdk10SDKOptionsV11offlineModeSbvp"></span>` `<span id="//apple_ref/swift/Property/offlineMode" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-sdkoptions#/s:7heresdk10SDKOptionsV11offlineModeSbvp" class="token"><code>offlineMode</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10SDKOptionsV11offlineModeSbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-offlineMode" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-sdkoptions#sdk-for-ios-navigate-s-7heresdk10SDKOptionsV11offlineModeSbvp" class="token"><code>offlineMode</code></a> 
 
   </div>
 
@@ -321,7 +321,7 @@ SDKOptions provide an alternative way to set or update the HERE SDK credentials 
 
   <div class="abstract">
 
-  Sets offline mode for the HERE SDK. Defaults to `false`. When enabled, this prevents the HERE SDK from initiating any online connection from starting. The mode can be disabled or enabled again at any time via <a href="sdk-for-ios-navigate-classes-sdknativeengine#/s:7heresdk15SDKNativeEngineC13isOfflineModeSbvp">`SDKNativeEngine.isOfflineMode`</a>.
+  Sets offline mode for the HERE SDK. Defaults to `false`. When enabled, this prevents the HERE SDK from initiating any online connection from starting. The mode can be disabled or enabled again at any time via <a href="sdk-for-ios-navigate-classes-sdknativeengine#sdk-for-ios-navigate-s-7heresdk15SDKNativeEngineC13isOfflineModeSbvp">`SDKNativeEngine.isOfflineMode`</a>.
 
   </div>
 
@@ -347,7 +347,7 @@ SDKOptions provide an alternative way to set or update the HERE SDK credentials 
 
 - <div>
 
-  ` `<span id="/s:7heresdk10SDKOptionsV18layerConfigurationAA05LayerD0Vvp"></span>` `<span id="//apple_ref/swift/Property/layerConfiguration" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-sdkoptions#/s:7heresdk10SDKOptionsV18layerConfigurationAA05LayerD0Vvp" class="token"><code>layerConfiguration</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10SDKOptionsV18layerConfigurationAA05LayerD0Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-layerConfiguration" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-sdkoptions#sdk-for-ios-navigate-s-7heresdk10SDKOptionsV18layerConfigurationAA05LayerD0Vvp" class="token"><code>layerConfiguration</code></a> 
 
   </div>
 
@@ -391,6 +391,10 @@ SDKOptions provide an alternative way to set or update the HERE SDK credentials 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-layerconfiguration">LayerConfiguration</a>
+
   </div>
 
   </div>
@@ -399,7 +403,7 @@ SDKOptions provide an alternative way to set or update the HERE SDK credentials 
 
 - <div>
 
-  ` `<span id="/s:7heresdk10SDKOptionsV21catalogConfigurationsSayAA20CatalogConfigurationVGvp"></span>` `<span id="//apple_ref/swift/Property/catalogConfigurations" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-sdkoptions#/s:7heresdk10SDKOptionsV21catalogConfigurationsSayAA20CatalogConfigurationVGvp" class="token"><code>catalogConfigurations</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10SDKOptionsV21catalogConfigurationsSayAA20CatalogConfigurationVGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-catalogConfigurations" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-sdkoptions#sdk-for-ios-navigate-s-7heresdk10SDKOptionsV21catalogConfigurationsSayAA20CatalogConfigurationVGvp" class="token"><code>catalogConfigurations</code></a> 
 
   </div>
 
@@ -437,6 +441,10 @@ SDKOptions provide an alternative way to set or update the HERE SDK credentials 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-catalogconfiguration">CatalogConfiguration</a>
+
   </div>
 
   </div>
@@ -445,7 +453,7 @@ SDKOptions provide an alternative way to set or update the HERE SDK credentials 
 
 - <div>
 
-  ` `<span id="/s:7heresdk10SDKOptionsV23autoUpdateOfOnlineCacheSbvp"></span>` `<span id="//apple_ref/swift/Property/autoUpdateOfOnlineCache" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-sdkoptions#/s:7heresdk10SDKOptionsV23autoUpdateOfOnlineCacheSbvp" class="token"><code>autoUpdateOfOnlineCache</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10SDKOptionsV23autoUpdateOfOnlineCacheSbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-autoUpdateOfOnlineCache" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-sdkoptions#sdk-for-ios-navigate-s-7heresdk10SDKOptionsV23autoUpdateOfOnlineCacheSbvp" class="token"><code>autoUpdateOfOnlineCache</code></a> 
 
   </div>
 
@@ -501,7 +509,7 @@ SDKOptions provide an alternative way to set or update the HERE SDK credentials 
 
 - <div>
 
-  ` `<span id="/s:7heresdk10SDKOptionsV19customEngineOptionsSDyAA0D7BaseURLOAA0dE0VGvp"></span>` `<span id="//apple_ref/swift/Property/customEngineOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-sdkoptions#/s:7heresdk10SDKOptionsV19customEngineOptionsSDyAA0D7BaseURLOAA0dE0VGvp" class="token"><code>customEngineOptions</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10SDKOptionsV19customEngineOptionsSDyAA0D7BaseURLOAA0dE0VGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-customEngineOptions" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-sdkoptions#sdk-for-ios-navigate-s-7heresdk10SDKOptionsV19customEngineOptionsSDyAA0D7BaseURLOAA0dE0VGvp" class="token"><code>customEngineOptions</code></a> 
 
   </div>
 
@@ -540,6 +548,11 @@ SDKOptions provide an alternative way to set or update the HERE SDK credentials 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-enginebaseurl">EngineBaseURL</a>
+  - <a href="sdk-for-ios-navigate-structs-engineoptions">EngineOptions</a>
+
   </div>
 
   </div>
@@ -548,7 +561,7 @@ SDKOptions provide an alternative way to set or update the HERE SDK credentials 
 
 - <div>
 
-  ` `<span id="/s:7heresdk10SDKOptionsV18authenticationModeAA014AuthenticationD0Cvp"></span>` `<span id="//apple_ref/swift/Property/authenticationMode" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-sdkoptions#/s:7heresdk10SDKOptionsV18authenticationModeAA014AuthenticationD0Cvp" class="token"><code>authenticationMode</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10SDKOptionsV18authenticationModeAA014AuthenticationD0Cvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-authenticationMode" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-sdkoptions#sdk-for-ios-navigate-s-7heresdk10SDKOptionsV18authenticationModeAA014AuthenticationD0Cvp" class="token"><code>authenticationMode</code></a> 
 
   </div>
 
@@ -584,6 +597,10 @@ SDKOptions provide an alternative way to set or update the HERE SDK credentials 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-authenticationmode">AuthenticationMode</a>
+
   </div>
 
   </div>
@@ -592,7 +609,7 @@ SDKOptions provide an alternative way to set or update the HERE SDK credentials 
 
 - <div>
 
-  ` `<span id="/s:7heresdk10SDKOptionsV15networkSettingsAA07NetworkD0Vvp"></span>` `<span id="//apple_ref/swift/Property/networkSettings" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-sdkoptions#/s:7heresdk10SDKOptionsV15networkSettingsAA07NetworkD0Vvp" class="token"><code>networkSettings</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10SDKOptionsV15networkSettingsAA07NetworkD0Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-networkSettings" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-sdkoptions#sdk-for-ios-navigate-s-7heresdk10SDKOptionsV15networkSettingsAA07NetworkD0Vvp" class="token"><code>networkSettings</code></a> 
 
   </div>
 
@@ -628,6 +645,10 @@ SDKOptions provide an alternative way to set or update the HERE SDK credentials 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-networksettings">NetworkSettings</a>
+
   </div>
 
   </div>
@@ -636,7 +657,7 @@ SDKOptions provide an alternative way to set or update the HERE SDK credentials 
 
 - <div>
 
-  ` `<span id="/s:7heresdk10SDKOptionsV13lowMemoryModeSbvp"></span>` `<span id="//apple_ref/swift/Property/lowMemoryMode" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-sdkoptions#/s:7heresdk10SDKOptionsV13lowMemoryModeSbvp" class="token"><code>lowMemoryMode</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10SDKOptionsV13lowMemoryModeSbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-lowMemoryMode" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-sdkoptions#sdk-for-ios-navigate-s-7heresdk10SDKOptionsV13lowMemoryModeSbvp" class="token"><code>lowMemoryMode</code></a> 
 
   </div>
 
@@ -654,12 +675,7 @@ SDKOptions provide an alternative way to set or update the HERE SDK credentials 
 
   <div class="abstract">
 
-  If an application runs in a memory-constrained environment, enable this option to reduce the HERE SDK’s memory footprint. When set to `true` configures internal memory caches to consume less memory. Reduction in cache sizes also reduces performance of the HERE SDK. In order to release memory occupied by internal caches see
-
-      SDKNativeEngine.purgeMemoryCaches(...)
-
-  .
-  </p>
+  If an application runs in a memory-constrained environment, enable this option to reduce the HERE SDK’s memory footprint. When set to `true` configures internal memory caches to consume less memory. Reduction in cache sizes also reduces performance of the HERE SDK. In order to release memory occupied by internal caches see <a href="sdk-for-ios-navigate-classes-sdknativeengine#sdk-for-ios-navigate-s-7heresdk15SDKNativeEngineC17purgeMemoryCaches8strategyyAC05PurgeE8StrategyO_tF">`SDKNativeEngine.purgeMemoryCaches(...)`</a>.
 
   </div>
 
@@ -685,7 +701,7 @@ SDKOptions provide an alternative way to set or update the HERE SDK credentials 
 
 - <div>
 
-  ` `<span id="/s:7heresdk10SDKOptionsV10billingTagSSSgvp"></span>` `<span id="//apple_ref/swift/Property/billingTag" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-sdkoptions#/s:7heresdk10SDKOptionsV10billingTagSSSgvp" class="token"><code>billingTag</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10SDKOptionsV10billingTagSSSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-billingTag" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-sdkoptions#sdk-for-ios-navigate-s-7heresdk10SDKOptionsV10billingTagSSSgvp" class="token"><code>billingTag</code></a> 
 
   </div>
 
@@ -735,7 +751,7 @@ SDKOptions provide an alternative way to set or update the HERE SDK credentials 
 
 - <div>
 
-  ` `<span id="/s:7heresdk10SDKOptionsV13customOptionsAA8MetadataCSgvp"></span>` `<span id="//apple_ref/swift/Property/customOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-sdkoptions#/s:7heresdk10SDKOptionsV13customOptionsAA8MetadataCSgvp" class="token"><code>customOptions</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10SDKOptionsV13customOptionsAA8MetadataCSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-customOptions" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-sdkoptions#sdk-for-ios-navigate-s-7heresdk10SDKOptionsV13customOptionsAA8MetadataCSgvp" class="token"><code>customOptions</code></a> 
 
   </div>
 
@@ -773,6 +789,10 @@ SDKOptions provide an alternative way to set or update the HERE SDK credentials 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-metadata">Metadata</a>
+
   </div>
 
   </div>
@@ -781,7 +801,7 @@ SDKOptions provide an alternative way to set or update the HERE SDK credentials 
 
 - <div>
 
-      init(authenticationMode: )
+   <span id="sdk-for-ios-navigate-s-7heresdk10SDKOptionsV18authenticationModeAcA014AuthenticationD0C_tcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-authenticationMode" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-sdkoptions#sdk-for-ios-navigate-s-7heresdk10SDKOptionsV18authenticationModeAcA014AuthenticationD0C_tcfc" class="token"><code>init(authenticationMode:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -812,12 +832,14 @@ SDKOptions provide an alternative way to set or update the HERE SDK credentials 
   Swift
 
   ``` highlight
-  public init ( authenticationMode : AuthenticationMode )
+  public init(authenticationMode: AuthenticationMode)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-authenticationmode">AuthenticationMode</a>
 
   </div>
 

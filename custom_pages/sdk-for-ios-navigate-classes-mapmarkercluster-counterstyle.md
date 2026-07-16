@@ -27,7 +27,7 @@ Styling options for a marker cluster which is represented by the marker count as
 
 - <div>
 
-  ` `<span id="/s:7heresdk16MapMarkerClusterC12CounterStyleV9textColorSo7UIColorCvp"></span>` `<span id="//apple_ref/swift/Property/textColor" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapmarkercluster-counterstyle#/s:7heresdk16MapMarkerClusterC12CounterStyleV9textColorSo7UIColorCvp" class="token"><code>textColor</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16MapMarkerClusterC12CounterStyleV9textColorSo7UIColorCvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-textColor" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapmarkercluster-counterstyle#sdk-for-ios-navigate-s-7heresdk16MapMarkerClusterC12CounterStyleV9textColorSo7UIColorCvp" class="token"><code>textColor</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Styling options for a marker cluster which is represented by the marker count as
 
 - <div>
 
-  ` `<span id="/s:7heresdk16MapMarkerClusterC12CounterStyleV8fontSizeSdvp"></span>` `<span id="//apple_ref/swift/Property/fontSize" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapmarkercluster-counterstyle#/s:7heresdk16MapMarkerClusterC12CounterStyleV8fontSizeSdvp" class="token"><code>fontSize</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16MapMarkerClusterC12CounterStyleV8fontSizeSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-fontSize" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapmarkercluster-counterstyle#sdk-for-ios-navigate-s-7heresdk16MapMarkerClusterC12CounterStyleV8fontSizeSdvp" class="token"><code>fontSize</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Styling options for a marker cluster which is represented by the marker count as
 
 - <div>
 
-  ` `<span id="/s:7heresdk16MapMarkerClusterC12CounterStyleV10textAnchorAA8Anchor2DVvp"></span>` `<span id="//apple_ref/swift/Property/textAnchor" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapmarkercluster-counterstyle#/s:7heresdk16MapMarkerClusterC12CounterStyleV10textAnchorAA8Anchor2DVvp" class="token"><code>textAnchor</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16MapMarkerClusterC12CounterStyleV10textAnchorAA8Anchor2DVvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-textAnchor" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapmarkercluster-counterstyle#sdk-for-ios-navigate-s-7heresdk16MapMarkerClusterC12CounterStyleV10textAnchorAA8Anchor2DVvp" class="token"><code>textAnchor</code></a> 
 
   </div>
 
@@ -151,6 +151,10 @@ Styling options for a marker cluster which is represented by the marker count as
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-anchor2d">Anchor2D</a>
+
   </div>
 
   </div>
@@ -159,7 +163,7 @@ Styling options for a marker cluster which is represented by the marker count as
 
 - <div>
 
-  ` `<span id="/s:7heresdk16MapMarkerClusterC12CounterStyleV14maxCountNumbers5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/maxCountNumber" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapmarkercluster-counterstyle#/s:7heresdk16MapMarkerClusterC12CounterStyleV14maxCountNumbers5Int32Vvp" class="token"><code>maxCountNumber</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16MapMarkerClusterC12CounterStyleV14maxCountNumbers5Int32Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-maxCountNumber" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapmarkercluster-counterstyle#sdk-for-ios-navigate-s-7heresdk16MapMarkerClusterC12CounterStyleV14maxCountNumbers5Int32Vvp" class="token"><code>maxCountNumber</code></a> 
 
   </div>
 
@@ -177,7 +181,7 @@ Styling options for a marker cluster which is represented by the marker count as
 
   <div class="abstract">
 
-  Maximal number of markers represented as exact number. Values smaller than 2 will be clamped to 2. Default value is 99. When this value is changed, it is recommended to adapt <a href="sdk-for-ios-navigate-classes-mapmarkercluster-counterstyle#/s:7heresdk16MapMarkerClusterC12CounterStyleV12aboveMaxTextSSvp">`MapMarkerCluster.CounterStyle.aboveMaxText`</a> accordingly.
+  Maximal number of markers represented as exact number. Values smaller than 2 will be clamped to 2. Default value is 99. When this value is changed, it is recommended to adapt <a href="sdk-for-ios-navigate-classes-mapmarkercluster-counterstyle#sdk-for-ios-navigate-s-7heresdk16MapMarkerClusterC12CounterStyleV12aboveMaxTextSSvp">`MapMarkerCluster.CounterStyle.aboveMaxText`</a> accordingly.
 
   </div>
 
@@ -203,7 +207,7 @@ Styling options for a marker cluster which is represented by the marker count as
 
 - <div>
 
-  ` `<span id="/s:7heresdk16MapMarkerClusterC12CounterStyleV12aboveMaxTextSSvp"></span>` `<span id="//apple_ref/swift/Property/aboveMaxText" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapmarkercluster-counterstyle#/s:7heresdk16MapMarkerClusterC12CounterStyleV12aboveMaxTextSSvp" class="token"><code>aboveMaxText</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16MapMarkerClusterC12CounterStyleV12aboveMaxTextSSvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-aboveMaxText" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapmarkercluster-counterstyle#sdk-for-ios-navigate-s-7heresdk16MapMarkerClusterC12CounterStyleV12aboveMaxTextSSvp" class="token"><code>aboveMaxText</code></a> 
 
   </div>
 
@@ -221,7 +225,7 @@ Styling options for a marker cluster which is represented by the marker count as
 
   <div class="abstract">
 
-  String to display if there are more markers clustered than <a href="sdk-for-ios-navigate-classes-mapmarkercluster-counterstyle#/s:7heresdk16MapMarkerClusterC12CounterStyleV14maxCountNumbers5Int32Vvp">`MapMarkerCluster.CounterStyle.maxCountNumber`</a>. Default value is “+99”.
+  String to display if there are more markers clustered than <a href="sdk-for-ios-navigate-classes-mapmarkercluster-counterstyle#sdk-for-ios-navigate-s-7heresdk16MapMarkerClusterC12CounterStyleV14maxCountNumbers5Int32Vvp">`MapMarkerCluster.CounterStyle.maxCountNumber`</a>. Default value is “+99”.
 
   </div>
 
@@ -247,7 +251,7 @@ Styling options for a marker cluster which is represented by the marker count as
 
 - <div>
 
-      init(textColor: fontSize: textAnchor: maxCountNumber: aboveMaxText: )
+   <span id="sdk-for-ios-navigate-s-7heresdk16MapMarkerClusterC12CounterStyleV9textColor8fontSize0G6Anchor14maxCountNumber12aboveMaxTextAESo7UIColorC_SdAA8Anchor2DVs5Int32VSStcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-textColor-fontSize-textAnchor-maxCountNumber-aboveMaxText" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapmarkercluster-counterstyle#sdk-for-ios-navigate-s-7heresdk16MapMarkerClusterC12CounterStyleV9textColor8fontSize0G6Anchor14maxCountNumber12aboveMaxTextAESo7UIColorC_SdAA8Anchor2DVs5Int32VSStcfc" class="token"><code>init(textColor:</code><wbr></wbr><code>fontSize:</code><wbr></wbr><code>textAnchor:</code><wbr></wbr><code>maxCountNumber:</code><wbr></wbr><code>aboveMaxText:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -278,12 +282,14 @@ Styling options for a marker cluster which is represented by the marker count as
   Swift
 
   ``` highlight
-  public init ( textColor : UIColor = NamedColor . white , fontSize : Double = 20.0 , textAnchor : Anchor2D = Anchor2D (), maxCountNumber : Int32 = 99 , aboveMaxText : String = "+99" )
+  public init(textColor: UIColor = NamedColor.white, fontSize: Double = 20.0, textAnchor: Anchor2D = Anchor2D(), maxCountNumber: Int32 = 99, aboveMaxText: String = "+99")
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-anchor2d">Anchor2D</a>
 
   </div>
 

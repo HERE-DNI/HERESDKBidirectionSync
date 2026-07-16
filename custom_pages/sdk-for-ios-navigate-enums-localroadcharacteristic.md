@@ -29,7 +29,7 @@ Specifies the local road characteristics: frontage, parking lot road, poi access
 
 - <div>
 
-  ` `<span id="/s:7heresdk23LocalRoadCharacteristicO8frontageyA2CmF"></span>` `<span id="//apple_ref/swift/Element/frontage" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-localroadcharacteristic#/s:7heresdk23LocalRoadCharacteristicO8frontageyA2CmF" class="token"><code>frontage</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk23LocalRoadCharacteristicO8frontageyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-frontage" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-localroadcharacteristic#sdk-for-ios-navigate-s-7heresdk23LocalRoadCharacteristicO8frontageyA2CmF" class="token"><code>frontage</code></a> 
 
   </div>
 
@@ -73,7 +73,7 @@ Specifies the local road characteristics: frontage, parking lot road, poi access
 
 - <div>
 
-  ` `<span id="/s:7heresdk23LocalRoadCharacteristicO010parkingLotC0yA2CmF"></span>` `<span id="//apple_ref/swift/Element/parkingLotRoad" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-localroadcharacteristic#/s:7heresdk23LocalRoadCharacteristicO010parkingLotC0yA2CmF" class="token"><code>parkingLotRoad</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk23LocalRoadCharacteristicO010parkingLotC0yA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-parkingLotRoad" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-localroadcharacteristic#sdk-for-ios-navigate-s-7heresdk23LocalRoadCharacteristicO010parkingLotC0yA2CmF" class="token"><code>parkingLotRoad</code></a> 
 
   </div>
 
@@ -117,7 +117,7 @@ Specifies the local road characteristics: frontage, parking lot road, poi access
 
 - <div>
 
-  ` `<span id="/s:7heresdk23LocalRoadCharacteristicO9poiAccessyA2CmF"></span>` `<span id="//apple_ref/swift/Element/poiAccess" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-localroadcharacteristic#/s:7heresdk23LocalRoadCharacteristicO9poiAccessyA2CmF" class="token"><code>poiAccess</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk23LocalRoadCharacteristicO9poiAccessyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-poiAccess" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-localroadcharacteristic#sdk-for-ios-navigate-s-7heresdk23LocalRoadCharacteristicO9poiAccessyA2CmF" class="token"><code>poiAccess</code></a> 
 
   </div>
 

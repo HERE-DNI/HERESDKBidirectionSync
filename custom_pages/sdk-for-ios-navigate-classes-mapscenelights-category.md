@@ -31,7 +31,7 @@ Category primarily serves as an identifier type for managing the lights.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14MapSceneLightsC8CategoryO4mainyA2EmF"></span>` `<span id="//apple_ref/swift/Element/main" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapscenelights-category#/s:7heresdk14MapSceneLightsC8CategoryO4mainyA2EmF" class="token"><code>main</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14MapSceneLightsC8CategoryO4mainyA2EmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-main" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapscenelights-category#sdk-for-ios-navigate-s-7heresdk14MapSceneLightsC8CategoryO4mainyA2EmF" class="token"><code>main</code></a> 
 
   </div>
 
@@ -75,7 +75,7 @@ Category primarily serves as an identifier type for managing the lights.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14MapSceneLightsC8CategoryO4backyA2EmF"></span>` `<span id="//apple_ref/swift/Element/back" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapscenelights-category#/s:7heresdk14MapSceneLightsC8CategoryO4backyA2EmF" class="token"><code>back</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14MapSceneLightsC8CategoryO4backyA2EmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-back" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapscenelights-category#sdk-for-ios-navigate-s-7heresdk14MapSceneLightsC8CategoryO4backyA2EmF" class="token"><code>back</code></a> 
 
   </div>
 
@@ -119,7 +119,7 @@ Category primarily serves as an identifier type for managing the lights.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14MapSceneLightsC8CategoryO3rimyA2EmF"></span>` `<span id="//apple_ref/swift/Element/rim" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapscenelights-category#/s:7heresdk14MapSceneLightsC8CategoryO3rimyA2EmF" class="token"><code>rim</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14MapSceneLightsC8CategoryO3rimyA2EmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-rim" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapscenelights-category#sdk-for-ios-navigate-s-7heresdk14MapSceneLightsC8CategoryO3rimyA2EmF" class="token"><code>rim</code></a> 
 
   </div>
 

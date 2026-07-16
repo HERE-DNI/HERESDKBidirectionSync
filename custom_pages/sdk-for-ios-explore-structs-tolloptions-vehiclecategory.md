@@ -27,7 +27,7 @@ Supported options of vehicle category for toll calculation.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11TollOptionsV15VehicleCategoryO7minibusyA2EmF"></span>` `<span id="//apple_ref/swift/Element/minibus" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-tolloptions-vehiclecategory#/s:7heresdk11TollOptionsV15VehicleCategoryO7minibusyA2EmF" class="token"><code>minibus</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11TollOptionsV15VehicleCategoryO7minibusyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-minibus" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-tolloptions-vehiclecategory#sdk-for-ios-explore-s-7heresdk11TollOptionsV15VehicleCategoryO7minibusyA2EmF" class="token"><code>minibus</code></a> 
 
   </div>
 

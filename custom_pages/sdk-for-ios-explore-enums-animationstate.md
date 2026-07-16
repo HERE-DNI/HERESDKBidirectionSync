@@ -27,7 +27,7 @@ Describes the possible states of an animation.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14AnimationStateO7startedyA2CmF"></span>` `<span id="//apple_ref/swift/Element/started" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-animationstate#/s:7heresdk14AnimationStateO7startedyA2CmF" class="token"><code>started</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14AnimationStateO7startedyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-started" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-animationstate#sdk-for-ios-explore-s-7heresdk14AnimationStateO7startedyA2CmF" class="token"><code>started</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Describes the possible states of an animation.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14AnimationStateO9completedyA2CmF"></span>` `<span id="//apple_ref/swift/Element/completed" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-animationstate#/s:7heresdk14AnimationStateO9completedyA2CmF" class="token"><code>completed</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14AnimationStateO9completedyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-completed" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-animationstate#sdk-for-ios-explore-s-7heresdk14AnimationStateO9completedyA2CmF" class="token"><code>completed</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Describes the possible states of an animation.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14AnimationStateO9cancelledyA2CmF"></span>` `<span id="//apple_ref/swift/Element/cancelled" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-animationstate#/s:7heresdk14AnimationStateO9cancelledyA2CmF" class="token"><code>cancelled</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14AnimationStateO9cancelledyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-cancelled" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-animationstate#sdk-for-ios-explore-s-7heresdk14AnimationStateO9cancelledyA2CmF" class="token"><code>cancelled</code></a> 
 
   </div>
 

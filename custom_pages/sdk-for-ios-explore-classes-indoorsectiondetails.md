@@ -35,7 +35,7 @@ Provides additional details for an indoor <a href="sdk-for-ios-explore-classes-s
 
 - <div>
 
-  ` `<span id="/s:7heresdk20IndoorSectionDetailsC15indoorManeuversSayAA0B8ManeuverCGvp"></span>` `<span id="//apple_ref/swift/Property/indoorManeuvers" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-indoorsectiondetails#/s:7heresdk20IndoorSectionDetailsC15indoorManeuversSayAA0B8ManeuverCGvp" class="token"><code>indoorManeuvers</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk20IndoorSectionDetailsC15indoorManeuversSayAA0B8ManeuverCGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-indoorManeuvers" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-indoorsectiondetails#sdk-for-ios-explore-s-7heresdk20IndoorSectionDetailsC15indoorManeuversSayAA0B8ManeuverCGvp" class="token"><code>indoorManeuvers</code></a> 
 
   </div>
 
@@ -66,12 +66,14 @@ Provides additional details for an indoor <a href="sdk-for-ios-explore-classes-s
   Swift
 
   ``` highlight
-  public private(set) lazy var indoorManeuvers : [ IndoorManeuver ] { get set }
+  public private(set) lazy var indoorManeuvers: [IndoorManeuver] { get set }
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-indoormaneuver">IndoorManeuver</a>
 
   </div>
 
@@ -81,7 +83,7 @@ Provides additional details for an indoor <a href="sdk-for-ios-explore-classes-s
 
 - <div>
 
-  ` `<span id="/s:7heresdk20IndoorSectionDetailsC14departurePlaceAA0b5RouteF0Vvp"></span>` `<span id="//apple_ref/swift/Property/departurePlace" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-indoorsectiondetails#/s:7heresdk20IndoorSectionDetailsC14departurePlaceAA0b5RouteF0Vvp" class="token"><code>departurePlace</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk20IndoorSectionDetailsC14departurePlaceAA0b5RouteF0Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-departurePlace" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-indoorsectiondetails#sdk-for-ios-explore-s-7heresdk20IndoorSectionDetailsC14departurePlaceAA0b5RouteF0Vvp" class="token"><code>departurePlace</code></a> 
 
   </div>
 
@@ -117,6 +119,10 @@ Provides additional details for an indoor <a href="sdk-for-ios-explore-classes-s
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-indoorrouteplace">IndoorRoutePlace</a>
+
   </div>
 
   </div>
@@ -125,7 +131,7 @@ Provides additional details for an indoor <a href="sdk-for-ios-explore-classes-s
 
 - <div>
 
-  ` `<span id="/s:7heresdk20IndoorSectionDetailsC12arrivalPlaceAA0b5RouteF0Vvp"></span>` `<span id="//apple_ref/swift/Property/arrivalPlace" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-indoorsectiondetails#/s:7heresdk20IndoorSectionDetailsC12arrivalPlaceAA0b5RouteF0Vvp" class="token"><code>arrivalPlace</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk20IndoorSectionDetailsC12arrivalPlaceAA0b5RouteF0Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-arrivalPlace" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-indoorsectiondetails#sdk-for-ios-explore-s-7heresdk20IndoorSectionDetailsC12arrivalPlaceAA0b5RouteF0Vvp" class="token"><code>arrivalPlace</code></a> 
 
   </div>
 
@@ -160,6 +166,10 @@ Provides additional details for an indoor <a href="sdk-for-ios-explore-classes-s
   ```
 
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-indoorrouteplace">IndoorRoutePlace</a>
 
   </div>
 

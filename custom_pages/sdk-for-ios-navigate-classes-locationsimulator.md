@@ -45,7 +45,7 @@ Notifications will stop after the entire route has been traveled.
 
 - <div>
 
-      init(route: options: )
+   <span id="sdk-for-ios-navigate-s-7heresdk17LocationSimulatorC5route7optionsAcA5RouteC_AA0bC7OptionsVtKcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-route-options" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-locationsimulator#sdk-for-ios-navigate-s-7heresdk17LocationSimulatorC5route7optionsAcA5RouteC_AA0bC7OptionsVtKcfc" class="token"><code>init(route:</code><wbr></wbr><code>options:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -69,7 +69,7 @@ Notifications will stop after the entire route has been traveled.
 
   Throws
 
-  <a href="sdk-for-ios-navigate-core#/s:7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
+  <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
 
   </div>
 
@@ -84,12 +84,15 @@ Notifications will stop after the entire route has been traveled.
   Swift
 
   ``` highlight
-  public init ( route : Route , options : LocationSimulatorOptions ) throws
+  public init(route: Route, options: LocationSimulatorOptions) throws
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-route">Route</a>
+  - <a href="sdk-for-ios-navigate-structs-locationsimulatoroptions">LocationSimulatorOptions</a>
 
   </div>
 
@@ -126,7 +129,7 @@ Notifications will stop after the entire route has been traveled.
 
 - <div>
 
-      init(gpxTrack: options: )
+   <span id="sdk-for-ios-navigate-s-7heresdk17LocationSimulatorC8gpxTrack7optionsAcA8GPXTrackC_AA0bC7OptionsVtKcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-gpxTrack-options" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-locationsimulator#sdk-for-ios-navigate-s-7heresdk17LocationSimulatorC8gpxTrack7optionsAcA8GPXTrackC_AA0bC7OptionsVtKcfc" class="token"><code>init(gpxTrack:</code><wbr></wbr><code>options:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -150,7 +153,7 @@ Notifications will stop after the entire route has been traveled.
 
   Throws
 
-  <a href="sdk-for-ios-navigate-core#/s:7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
+  <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
 
   </div>
 
@@ -165,12 +168,15 @@ Notifications will stop after the entire route has been traveled.
   Swift
 
   ``` highlight
-  public init ( gpxTrack : GPXTrack , options : LocationSimulatorOptions ) throws
+  public init(gpxTrack: GPXTrack, options: LocationSimulatorOptions) throws
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-gpxtrack">GPXTrack</a>
+  - <a href="sdk-for-ios-navigate-structs-locationsimulatoroptions">LocationSimulatorOptions</a>
 
   </div>
 
@@ -207,7 +213,7 @@ Notifications will stop after the entire route has been traveled.
 
 - <div>
 
-  ` `<span id="/s:7heresdk17LocationSimulatorC8delegateAA0B8Delegate_pSgvp"></span>` `<span id="//apple_ref/swift/Property/delegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-locationsimulator#/s:7heresdk17LocationSimulatorC8delegateAA0B8Delegate_pSgvp" class="token"><code>delegate</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk17LocationSimulatorC8delegateAA0B8Delegate_pSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-delegate" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-locationsimulator#sdk-for-ios-navigate-s-7heresdk17LocationSimulatorC8delegateAA0B8Delegate_pSgvp" class="token"><code>delegate</code></a> 
 
   </div>
 
@@ -243,6 +249,10 @@ Notifications will stop after the entire route has been traveled.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-protocols-locationdelegate">LocationDelegate</a>
+
   </div>
 
   </div>
@@ -251,7 +261,7 @@ Notifications will stop after the entire route has been traveled.
 
 - <div>
 
-      start()
+   <span id="sdk-for-ios-navigate-s-7heresdk17LocationSimulatorC5startyyF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-start" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-locationsimulator#sdk-for-ios-navigate-s-7heresdk17LocationSimulatorC5startyyF" class="token"><code>start()</code></a> 
 
   </div>
 
@@ -282,10 +292,8 @@ Notifications will stop after the entire route has been traveled.
   Swift
 
   ``` highlight
-  public func start ()
+  public func start()
   ```
-
-  </pre>
 
   </div>
 
@@ -297,7 +305,7 @@ Notifications will stop after the entire route has been traveled.
 
 - <div>
 
-      stop()
+   <span id="sdk-for-ios-navigate-s-7heresdk17LocationSimulatorC4stopyyF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-stop" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-locationsimulator#sdk-for-ios-navigate-s-7heresdk17LocationSimulatorC4stopyyF" class="token"><code>stop()</code></a> 
 
   </div>
 
@@ -328,10 +336,8 @@ Notifications will stop after the entire route has been traveled.
   Swift
 
   ``` highlight
-  public func stop ()
+  public func stop()
   ```
-
-  </pre>
 
   </div>
 
@@ -343,7 +349,7 @@ Notifications will stop after the entire route has been traveled.
 
 - <div>
 
-      pause()
+   <span id="sdk-for-ios-navigate-s-7heresdk17LocationSimulatorC5pauseyyF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-pause" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-locationsimulator#sdk-for-ios-navigate-s-7heresdk17LocationSimulatorC5pauseyyF" class="token"><code>pause()</code></a> 
 
   </div>
 
@@ -374,10 +380,8 @@ Notifications will stop after the entire route has been traveled.
   Swift
 
   ``` highlight
-  public func pause ()
+  public func pause()
   ```
-
-  </pre>
 
   </div>
 
@@ -389,7 +393,7 @@ Notifications will stop after the entire route has been traveled.
 
 - <div>
 
-      resume()
+   <span id="sdk-for-ios-navigate-s-7heresdk17LocationSimulatorC6resumeyyF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-resume" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-locationsimulator#sdk-for-ios-navigate-s-7heresdk17LocationSimulatorC6resumeyyF" class="token"><code>resume()</code></a> 
 
   </div>
 
@@ -420,10 +424,8 @@ Notifications will stop after the entire route has been traveled.
   Swift
 
   ``` highlight
-  public func resume ()
+  public func resume()
   ```
-
-  </pre>
 
   </div>
 

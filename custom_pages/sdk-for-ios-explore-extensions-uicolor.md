@@ -25,7 +25,7 @@ extension UIColor
 
 - <div>
 
-      init(r: g: b: a: )
+   <span id="sdk-for-ios-explore-s-So7UIColorC7heresdkE1r1g1b1aAB14CoreFoundation7CGFloatV_A3Jtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-r-g-b-a" class="dashAnchor"></span> <a href="sdk-for-ios-explore-extensions-uicolor#sdk-for-ios-explore-s-So7UIColorC7heresdkE1r1g1b1aAB14CoreFoundation7CGFloatV_A3Jtcfc" class="token"><code>init(r:</code><wbr></wbr><code>g:</code><wbr></wbr><code>b:</code><wbr></wbr><code>a:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -56,10 +56,8 @@ extension UIColor
   Swift
 
   ``` highlight
-  public convenience init ( r red : CGFloat , g green : CGFloat , b blue : CGFloat , a alpha : CGFloat )
+  public convenience init(r red: CGFloat, g green: CGFloat, b blue: CGFloat, a alpha: CGFloat)
   ```
-
-  </pre>
 
   </div>
 

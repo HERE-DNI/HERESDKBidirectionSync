@@ -27,7 +27,7 @@ Provides the protocol for the online and offline routing engines.
 
 - <div>
 
-      calculateRoute(with: options: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk15RoutingProtocolP14calculateRoute4with7options10completionAA10TaskHandle_pSayAA8WaypointVG_AA0B7OptionsVyAA0B5ErrorOSg_SayAA0E0CGSgtctF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-calculateRoute-with-options-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-protocols-routingprotocol#sdk-for-ios-navigate-s-7heresdk15RoutingProtocolP14calculateRoute4with7options10completionAA10TaskHandle_pSayAA8WaypointVG_AA0B7OptionsVyAA0B5ErrorOSg_SayAA0E0CGSgtctF" class="token"><code>calculateRoute(with:</code><wbr></wbr><code>options:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -58,12 +58,18 @@ Provides the protocol for the online and offline routing engines.
   Swift
 
   ``` highlight
-  @discardableResult func calculateRoute ( with waypoints : [ Waypoint ], options : RoutingOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  @discardableResult
+  func calculateRoute(with waypoints: [Waypoint], options: RoutingOptions, completion: @escaping CalculateRouteCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-waypoint">Waypoint</a>
+  - <a href="sdk-for-ios-navigate-structs-routingoptions">RoutingOptions</a>
+  - <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk31CalculateRouteCompletionHandlera">CalculateRouteCompletionHandler</a>
+  - <a href="sdk-for-ios-navigate-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -114,7 +120,7 @@ Provides the protocol for the online and offline routing engines.
 
 - <div>
 
-      calculateRoute(with: carOptions: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk15RoutingProtocolP14calculateRoute4with10carOptions10completionAA10TaskHandle_pSayAA8WaypointVG_AA03CarH0VyAA0B5ErrorOSg_SayAA0E0CGSgtctF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-calculateRoute-with-carOptions-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-protocols-routingprotocol#sdk-for-ios-navigate-s-7heresdk15RoutingProtocolP14calculateRoute4with10carOptions10completionAA10TaskHandle_pSayAA8WaypointVG_AA03CarH0VyAA0B5ErrorOSg_SayAA0E0CGSgtctF" class="token"><code>calculateRoute(with:</code><wbr></wbr><code>carOptions:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -145,12 +151,19 @@ Provides the protocol for the online and offline routing engines.
   Swift
 
   ``` highlight
-  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `calculate_route(﹚` methods with RoutingOptions parameter instead.") @discardableResult func calculateRoute ( with waypoints : [ Waypoint ], carOptions : CarOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `calculate_route(﹚` methods with RoutingOptions parameter instead.")
+  @discardableResult
+  func calculateRoute(with waypoints: [Waypoint], carOptions: CarOptions, completion: @escaping CalculateRouteCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-waypoint">Waypoint</a>
+  - <a href="sdk-for-ios-navigate-structs-caroptions">CarOptions</a>
+  - <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk31CalculateRouteCompletionHandlera">CalculateRouteCompletionHandler</a>
+  - <a href="sdk-for-ios-navigate-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -201,7 +214,7 @@ Provides the protocol for the online and offline routing engines.
 
 - <div>
 
-      calculateRoute(with: pedestrianOptions: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk15RoutingProtocolP14calculateRoute4with17pedestrianOptions10completionAA10TaskHandle_pSayAA8WaypointVG_AA010PedestrianH0VyAA0B5ErrorOSg_SayAA0E0CGSgtctF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-calculateRoute-with-pedestrianOptions-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-protocols-routingprotocol#sdk-for-ios-navigate-s-7heresdk15RoutingProtocolP14calculateRoute4with17pedestrianOptions10completionAA10TaskHandle_pSayAA8WaypointVG_AA010PedestrianH0VyAA0B5ErrorOSg_SayAA0E0CGSgtctF" class="token"><code>calculateRoute(with:</code><wbr></wbr><code>pedestrianOptions:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -232,12 +245,19 @@ Provides the protocol for the online and offline routing engines.
   Swift
 
   ``` highlight
-  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `calculate_route(﹚` methods with RoutingOptions parameter instead.") @discardableResult func calculateRoute ( with waypoints : [ Waypoint ], pedestrianOptions : PedestrianOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `calculate_route(﹚` methods with RoutingOptions parameter instead.")
+  @discardableResult
+  func calculateRoute(with waypoints: [Waypoint], pedestrianOptions: PedestrianOptions, completion: @escaping CalculateRouteCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-waypoint">Waypoint</a>
+  - <a href="sdk-for-ios-navigate-structs-pedestrianoptions">PedestrianOptions</a>
+  - <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk31CalculateRouteCompletionHandlera">CalculateRouteCompletionHandler</a>
+  - <a href="sdk-for-ios-navigate-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -260,7 +280,7 @@ Provides the protocol for the online and offline routing engines.
   <tr>
   <td><code> </code><em><code>pedestrianOptions</code></em><code> </code></td>
   <td><div>
-  <p>Options specific for pedestrian route calculation, along with common route options. Note that <a href="sdk-for-ios-navigate-enums-optimizationmode#/s:7heresdk16OptimizationModeO8shortestyA2CmF"><code>OptimizationMode.shortest</code></a> is is not supported for pedestrians and converted to <a href="sdk-for-ios-navigate-enums-optimizationmode#/s:7heresdk16OptimizationModeO7fastestyA2CmF"><code>OptimizationMode.fastest</code></a> automatically.</p>
+  <p>Options specific for pedestrian route calculation, along with common route options. Note that <a href="sdk-for-ios-navigate-enums-optimizationmode#sdk-for-ios-navigate-s-7heresdk16OptimizationModeO8shortestyA2CmF"><code>OptimizationMode.shortest</code></a> is is not supported for pedestrians and converted to <a href="sdk-for-ios-navigate-enums-optimizationmode#sdk-for-ios-navigate-s-7heresdk16OptimizationModeO7fastestyA2CmF"><code>OptimizationMode.fastest</code></a> automatically.</p>
   </div></td>
   </tr>
   <tr>
@@ -288,7 +308,7 @@ Provides the protocol for the online and offline routing engines.
 
 - <div>
 
-      calculateRoute(with: truckOptions: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk15RoutingProtocolP14calculateRoute4with12truckOptions10completionAA10TaskHandle_pSayAA8WaypointVG_AA05TruckH0VyAA0B5ErrorOSg_SayAA0E0CGSgtctF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-calculateRoute-with-truckOptions-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-protocols-routingprotocol#sdk-for-ios-navigate-s-7heresdk15RoutingProtocolP14calculateRoute4with12truckOptions10completionAA10TaskHandle_pSayAA8WaypointVG_AA05TruckH0VyAA0B5ErrorOSg_SayAA0E0CGSgtctF" class="token"><code>calculateRoute(with:</code><wbr></wbr><code>truckOptions:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -319,12 +339,19 @@ Provides the protocol for the online and offline routing engines.
   Swift
 
   ``` highlight
-  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `calculate_route(﹚` methods with RoutingOptions parameter instead.") @discardableResult func calculateRoute ( with waypoints : [ Waypoint ], truckOptions : TruckOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `calculate_route(﹚` methods with RoutingOptions parameter instead.")
+  @discardableResult
+  func calculateRoute(with waypoints: [Waypoint], truckOptions: TruckOptions, completion: @escaping CalculateRouteCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-waypoint">Waypoint</a>
+  - <a href="sdk-for-ios-navigate-structs-truckoptions">TruckOptions</a>
+  - <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk31CalculateRouteCompletionHandlera">CalculateRouteCompletionHandler</a>
+  - <a href="sdk-for-ios-navigate-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -375,7 +402,7 @@ Provides the protocol for the online and offline routing engines.
 
 - <div>
 
-      calculateRoute(with: scooterOptions: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk15RoutingProtocolP14calculateRoute4with14scooterOptions10completionAA10TaskHandle_pSayAA8WaypointVG_AA07ScooterH0VyAA0B5ErrorOSg_SayAA0E0CGSgtctF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-calculateRoute-with-scooterOptions-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-protocols-routingprotocol#sdk-for-ios-navigate-s-7heresdk15RoutingProtocolP14calculateRoute4with14scooterOptions10completionAA10TaskHandle_pSayAA8WaypointVG_AA07ScooterH0VyAA0B5ErrorOSg_SayAA0E0CGSgtctF" class="token"><code>calculateRoute(with:</code><wbr></wbr><code>scooterOptions:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -406,12 +433,19 @@ Provides the protocol for the online and offline routing engines.
   Swift
 
   ``` highlight
-  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `calculate_route(﹚` methods with RoutingOptions parameter instead.") @discardableResult func calculateRoute ( with waypoints : [ Waypoint ], scooterOptions : ScooterOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `calculate_route(﹚` methods with RoutingOptions parameter instead.")
+  @discardableResult
+  func calculateRoute(with waypoints: [Waypoint], scooterOptions: ScooterOptions, completion: @escaping CalculateRouteCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-waypoint">Waypoint</a>
+  - <a href="sdk-for-ios-navigate-structs-scooteroptions">ScooterOptions</a>
+  - <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk31CalculateRouteCompletionHandlera">CalculateRouteCompletionHandler</a>
+  - <a href="sdk-for-ios-navigate-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -434,7 +468,7 @@ Provides the protocol for the online and offline routing engines.
   <tr>
   <td><code> </code><em><code>scooterOptions</code></em><code> </code></td>
   <td><div>
-  <p>Options specific for scooter route calculation, along with common route options. Note that <a href="sdk-for-ios-navigate-enums-optimizationmode#/s:7heresdk16OptimizationModeO8shortestyA2CmF"><code>OptimizationMode.shortest</code></a> is is not supported for scooters and converted to <a href="sdk-for-ios-navigate-enums-optimizationmode#/s:7heresdk16OptimizationModeO7fastestyA2CmF"><code>OptimizationMode.fastest</code></a> automatically.</p>
+  <p>Options specific for scooter route calculation, along with common route options. Note that <a href="sdk-for-ios-navigate-enums-optimizationmode#sdk-for-ios-navigate-s-7heresdk16OptimizationModeO8shortestyA2CmF"><code>OptimizationMode.shortest</code></a> is is not supported for scooters and converted to <a href="sdk-for-ios-navigate-enums-optimizationmode#sdk-for-ios-navigate-s-7heresdk16OptimizationModeO7fastestyA2CmF"><code>OptimizationMode.fastest</code></a> automatically.</p>
   </div></td>
   </tr>
   <tr>
@@ -462,7 +496,7 @@ Provides the protocol for the online and offline routing engines.
 
 - <div>
 
-      calculateRoute(with: bicycleOptions: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk15RoutingProtocolP14calculateRoute4with14bicycleOptions10completionAA10TaskHandle_pSayAA8WaypointVG_AA07BicycleH0VyAA0B5ErrorOSg_SayAA0E0CGSgtctF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-calculateRoute-with-bicycleOptions-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-protocols-routingprotocol#sdk-for-ios-navigate-s-7heresdk15RoutingProtocolP14calculateRoute4with14bicycleOptions10completionAA10TaskHandle_pSayAA8WaypointVG_AA07BicycleH0VyAA0B5ErrorOSg_SayAA0E0CGSgtctF" class="token"><code>calculateRoute(with:</code><wbr></wbr><code>bicycleOptions:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -493,12 +527,19 @@ Provides the protocol for the online and offline routing engines.
   Swift
 
   ``` highlight
-  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `calculate_route(﹚` methods with RoutingOptions parameter instead.") @discardableResult func calculateRoute ( with waypoints : [ Waypoint ], bicycleOptions : BicycleOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `calculate_route(﹚` methods with RoutingOptions parameter instead.")
+  @discardableResult
+  func calculateRoute(with waypoints: [Waypoint], bicycleOptions: BicycleOptions, completion: @escaping CalculateRouteCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-waypoint">Waypoint</a>
+  - <a href="sdk-for-ios-navigate-structs-bicycleoptions">BicycleOptions</a>
+  - <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk31CalculateRouteCompletionHandlera">CalculateRouteCompletionHandler</a>
+  - <a href="sdk-for-ios-navigate-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -521,7 +562,7 @@ Provides the protocol for the online and offline routing engines.
   <tr>
   <td><code> </code><em><code>bicycleOptions</code></em><code> </code></td>
   <td><div>
-  <p>Options specific for bicycle route calculation, along with common route options. Note that <a href="sdk-for-ios-navigate-enums-optimizationmode#/s:7heresdk16OptimizationModeO8shortestyA2CmF"><code>OptimizationMode.shortest</code></a> is is not supported for bicycles and converted to <a href="sdk-for-ios-navigate-enums-optimizationmode#/s:7heresdk16OptimizationModeO7fastestyA2CmF"><code>OptimizationMode.fastest</code></a> automatically.</p>
+  <p>Options specific for bicycle route calculation, along with common route options. Note that <a href="sdk-for-ios-navigate-enums-optimizationmode#sdk-for-ios-navigate-s-7heresdk16OptimizationModeO8shortestyA2CmF"><code>OptimizationMode.shortest</code></a> is is not supported for bicycles and converted to <a href="sdk-for-ios-navigate-enums-optimizationmode#sdk-for-ios-navigate-s-7heresdk16OptimizationModeO7fastestyA2CmF"><code>OptimizationMode.fastest</code></a> automatically.</p>
   </div></td>
   </tr>
   <tr>
@@ -549,7 +590,7 @@ Provides the protocol for the online and offline routing engines.
 
 - <div>
 
-      calculateRoute(with: taxiOptions: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk15RoutingProtocolP14calculateRoute4with11taxiOptions10completionAA10TaskHandle_pSayAA8WaypointVG_AA04TaxiH0VyAA0B5ErrorOSg_SayAA0E0CGSgtctF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-calculateRoute-with-taxiOptions-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-protocols-routingprotocol#sdk-for-ios-navigate-s-7heresdk15RoutingProtocolP14calculateRoute4with11taxiOptions10completionAA10TaskHandle_pSayAA8WaypointVG_AA04TaxiH0VyAA0B5ErrorOSg_SayAA0E0CGSgtctF" class="token"><code>calculateRoute(with:</code><wbr></wbr><code>taxiOptions:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -580,12 +621,19 @@ Provides the protocol for the online and offline routing engines.
   Swift
 
   ``` highlight
-  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `calculate_route(﹚` methods with RoutingOptions parameter instead.") @discardableResult func calculateRoute ( with waypoints : [ Waypoint ], taxiOptions : TaxiOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `calculate_route(﹚` methods with RoutingOptions parameter instead.")
+  @discardableResult
+  func calculateRoute(with waypoints: [Waypoint], taxiOptions: TaxiOptions, completion: @escaping CalculateRouteCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-waypoint">Waypoint</a>
+  - <a href="sdk-for-ios-navigate-structs-taxioptions">TaxiOptions</a>
+  - <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk31CalculateRouteCompletionHandlera">CalculateRouteCompletionHandler</a>
+  - <a href="sdk-for-ios-navigate-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -608,7 +656,7 @@ Provides the protocol for the online and offline routing engines.
   <tr>
   <td><code> </code><em><code>taxiOptions</code></em><code> </code></td>
   <td><div>
-  <p>Options specific for taxi route calculation, along with common route options. Note that <a href="sdk-for-ios-navigate-enums-optimizationmode#/s:7heresdk16OptimizationModeO8shortestyA2CmF"><code>OptimizationMode.shortest</code></a> is is not supported for taxis and converted to <a href="sdk-for-ios-navigate-enums-optimizationmode#/s:7heresdk16OptimizationModeO7fastestyA2CmF"><code>OptimizationMode.fastest</code></a> automatically.</p>
+  <p>Options specific for taxi route calculation, along with common route options. Note that <a href="sdk-for-ios-navigate-enums-optimizationmode#sdk-for-ios-navigate-s-7heresdk16OptimizationModeO8shortestyA2CmF"><code>OptimizationMode.shortest</code></a> is is not supported for taxis and converted to <a href="sdk-for-ios-navigate-enums-optimizationmode#sdk-for-ios-navigate-s-7heresdk16OptimizationModeO7fastestyA2CmF"><code>OptimizationMode.fastest</code></a> automatically.</p>
   </div></td>
   </tr>
   <tr>
@@ -636,7 +684,7 @@ Provides the protocol for the online and offline routing engines.
 
 - <div>
 
-      calculateRoute(with: evCarOptions: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk15RoutingProtocolP14calculateRoute4with12evCarOptions10completionAA10TaskHandle_pSayAA8WaypointVG_AA05EVCarI0VyAA0B5ErrorOSg_SayAA0E0CGSgtctF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-calculateRoute-with-evCarOptions-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-protocols-routingprotocol#sdk-for-ios-navigate-s-7heresdk15RoutingProtocolP14calculateRoute4with12evCarOptions10completionAA10TaskHandle_pSayAA8WaypointVG_AA05EVCarI0VyAA0B5ErrorOSg_SayAA0E0CGSgtctF" class="token"><code>calculateRoute(with:</code><wbr></wbr><code>evCarOptions:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -667,12 +715,19 @@ Provides the protocol for the online and offline routing engines.
   Swift
 
   ``` highlight
-  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `calculate_route(﹚` methods with RoutingOptions parameter instead.") @discardableResult func calculateRoute ( with waypoints : [ Waypoint ], evCarOptions : EVCarOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `calculate_route(﹚` methods with RoutingOptions parameter instead.")
+  @discardableResult
+  func calculateRoute(with waypoints: [Waypoint], evCarOptions: EVCarOptions, completion: @escaping CalculateRouteCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-waypoint">Waypoint</a>
+  - <a href="sdk-for-ios-navigate-structs-evcaroptions">EVCarOptions</a>
+  - <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk31CalculateRouteCompletionHandlera">CalculateRouteCompletionHandler</a>
+  - <a href="sdk-for-ios-navigate-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -723,7 +778,7 @@ Provides the protocol for the online and offline routing engines.
 
 - <div>
 
-      calculateRoute(with: evTruckOptions: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk15RoutingProtocolP14calculateRoute4with14evTruckOptions10completionAA10TaskHandle_pSayAA8WaypointVG_AA07EVTruckI0VyAA0B5ErrorOSg_SayAA0E0CGSgtctF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-calculateRoute-with-evTruckOptions-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-protocols-routingprotocol#sdk-for-ios-navigate-s-7heresdk15RoutingProtocolP14calculateRoute4with14evTruckOptions10completionAA10TaskHandle_pSayAA8WaypointVG_AA07EVTruckI0VyAA0B5ErrorOSg_SayAA0E0CGSgtctF" class="token"><code>calculateRoute(with:</code><wbr></wbr><code>evTruckOptions:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -754,12 +809,19 @@ Provides the protocol for the online and offline routing engines.
   Swift
 
   ``` highlight
-  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `calculate_route(﹚` methods with RoutingOptions parameter instead.") @discardableResult func calculateRoute ( with waypoints : [ Waypoint ], evTruckOptions : EVTruckOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `calculate_route(﹚` methods with RoutingOptions parameter instead.")
+  @discardableResult
+  func calculateRoute(with waypoints: [Waypoint], evTruckOptions: EVTruckOptions, completion: @escaping CalculateRouteCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-waypoint">Waypoint</a>
+  - <a href="sdk-for-ios-navigate-structs-evtruckoptions">EVTruckOptions</a>
+  - <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk31CalculateRouteCompletionHandlera">CalculateRouteCompletionHandler</a>
+  - <a href="sdk-for-ios-navigate-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -810,7 +872,7 @@ Provides the protocol for the online and offline routing engines.
 
 - <div>
 
-      calculateRoute(with: busOptions: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk15RoutingProtocolP14calculateRoute4with10busOptions10completionAA10TaskHandle_pSayAA8WaypointVG_AA03BusH0VyAA0B5ErrorOSg_SayAA0E0CGSgtctF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-calculateRoute-with-busOptions-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-protocols-routingprotocol#sdk-for-ios-navigate-s-7heresdk15RoutingProtocolP14calculateRoute4with10busOptions10completionAA10TaskHandle_pSayAA8WaypointVG_AA03BusH0VyAA0B5ErrorOSg_SayAA0E0CGSgtctF" class="token"><code>calculateRoute(with:</code><wbr></wbr><code>busOptions:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -841,12 +903,19 @@ Provides the protocol for the online and offline routing engines.
   Swift
 
   ``` highlight
-  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `calculate_route(﹚` methods with RoutingOptions parameter instead.") @discardableResult func calculateRoute ( with waypoints : [ Waypoint ], busOptions : BusOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `calculate_route(﹚` methods with RoutingOptions parameter instead.")
+  @discardableResult
+  func calculateRoute(with waypoints: [Waypoint], busOptions: BusOptions, completion: @escaping CalculateRouteCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-waypoint">Waypoint</a>
+  - <a href="sdk-for-ios-navigate-structs-busoptions">BusOptions</a>
+  - <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk31CalculateRouteCompletionHandlera">CalculateRouteCompletionHandler</a>
+  - <a href="sdk-for-ios-navigate-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -897,7 +966,7 @@ Provides the protocol for the online and offline routing engines.
 
 - <div>
 
-      calculateRoute(with: privateBusOptions: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk15RoutingProtocolP14calculateRoute4with17privateBusOptions10completionAA10TaskHandle_pSayAA8WaypointVG_AA07PrivatehI0VyAA0B5ErrorOSg_SayAA0E0CGSgtctF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-calculateRoute-with-privateBusOptions-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-protocols-routingprotocol#sdk-for-ios-navigate-s-7heresdk15RoutingProtocolP14calculateRoute4with17privateBusOptions10completionAA10TaskHandle_pSayAA8WaypointVG_AA07PrivatehI0VyAA0B5ErrorOSg_SayAA0E0CGSgtctF" class="token"><code>calculateRoute(with:</code><wbr></wbr><code>privateBusOptions:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -928,12 +997,19 @@ Provides the protocol for the online and offline routing engines.
   Swift
 
   ``` highlight
-  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `calculate_route(﹚` methods with RoutingOptions parameter instead.") @discardableResult func calculateRoute ( with waypoints : [ Waypoint ], privateBusOptions : PrivateBusOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `calculate_route(﹚` methods with RoutingOptions parameter instead.")
+  @discardableResult
+  func calculateRoute(with waypoints: [Waypoint], privateBusOptions: PrivateBusOptions, completion: @escaping CalculateRouteCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-waypoint">Waypoint</a>
+  - <a href="sdk-for-ios-navigate-structs-privatebusoptions">PrivateBusOptions</a>
+  - <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk31CalculateRouteCompletionHandlera">CalculateRouteCompletionHandler</a>
+  - <a href="sdk-for-ios-navigate-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -984,7 +1060,7 @@ Provides the protocol for the online and offline routing engines.
 
 - <div>
 
-      returnToRoute(_: startingPoint: lastTraveledSectionIndex: traveledDistanceOnLastSectionInMeters: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk15RoutingProtocolP13returnToRoute_13startingPoint24lastTraveledSectionIndex022traveledDistanceOnLastK8InMeters10completionAA10TaskHandle_pAA0F0C_AA8WaypointVs5Int32VAOyAA0B5ErrorOSg_SayAKGSgtctF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-returnToRoute-_-startingPoint-lastTraveledSectionIndex-traveledDistanceOnLastSectionInMeters-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-protocols-routingprotocol#sdk-for-ios-navigate-s-7heresdk15RoutingProtocolP13returnToRoute_13startingPoint24lastTraveledSectionIndex022traveledDistanceOnLastK8InMeters10completionAA10TaskHandle_pAA0F0C_AA8WaypointVs5Int32VAOyAA0B5ErrorOSg_SayAKGSgtctF" class="token"><code>returnToRoute(_:</code><wbr></wbr><code>startingPoint:</code><wbr></wbr><code>lastTraveledSectionIndex:</code><wbr></wbr><code>traveledDistanceOnLastSectionInMeters:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1004,7 +1080,7 @@ Provides the protocol for the online and offline routing engines.
 
   Asynchronously calculates a new route that leads back to the original route. The part of the original route which was already traveled by the user is ignored.
 
-  **Note:** Stopover waypoints are guaranteed to be visited. Pass-through waypoints will be ignored. Additionally, the following route options are ignored: <a href="sdk-for-ios-navigate-structs-routeoptions#/s:7heresdk12RouteOptionsV12alternativess5Int32Vvp">`RouteOptions.alternatives`</a>, <a href="sdk-for-ios-navigate-structs-routeoptions#/s:7heresdk12RouteOptionsV11arrivalTime10Foundation4DateVSgvp">`RouteOptions.arrivalTime`</a>, and <a href="sdk-for-ios-navigate-structs-routeoptions#/s:7heresdk12RouteOptionsV16optimizationModeAA012OptimizationE0Ovp">`RouteOptions.optimizationMode`</a>. Most route options are only applied to the newly calculated part back to the route.
+  **Note:** Stopover waypoints are guaranteed to be visited. Pass-through waypoints will be ignored. Additionally, the following route options are ignored: <a href="sdk-for-ios-navigate-structs-routeoptions#sdk-for-ios-navigate-s-7heresdk12RouteOptionsV12alternativess5Int32Vvp">`RouteOptions.alternatives`</a>, <a href="sdk-for-ios-navigate-structs-routeoptions#sdk-for-ios-navigate-s-7heresdk12RouteOptionsV11arrivalTime10Foundation4DateVSgvp">`RouteOptions.arrivalTime`</a>, and <a href="sdk-for-ios-navigate-structs-routeoptions#sdk-for-ios-navigate-s-7heresdk12RouteOptionsV16optimizationModeAA012OptimizationE0Ovp">`RouteOptions.optimizationMode`</a>. Most route options are only applied to the newly calculated part back to the route.
 
   An application may use this method to submit a new starting point for a previously calculated route. This method tries to avoid a costly route re-calculation as much as possible. In case returning to the route without re-calculation is not possible, a new route is calculated, while trying to salvage the previous route as much as possible. However, a completely new route containing no part of the previous route is possible, too.
 
@@ -1014,7 +1090,7 @@ Provides the protocol for the online and offline routing engines.
 
   - Or alternatively, wait at least 10 seconds after getting the first deviation event.
   - On top, the user experience can be improved by checking if the vehicle has moved at least 50 meters since calling this method for the last time.
-  - Optionally, it may make sense to verify if the vehicle was ever following the route by checking if <a href="sdk-for-ios-navigate-structs-routedeviation#/s:7heresdk14RouteDeviationV014lastLocationOnB0AA09NavigableE0VSgvp">`RouteDeviation.lastLocationOnRoute`</a> is set.
+  - Optionally, it may make sense to verify if the vehicle was ever following the route by checking if <a href="sdk-for-ios-navigate-structs-routedeviation#sdk-for-ios-navigate-s-7heresdk14RouteDeviationV014lastLocationOnB0AA09NavigableE0VSgvp">`RouteDeviation.lastLocationOnRoute`</a> is set.
 
   Note that deviation events are sent each time a deviation is detected, i.e. for each new location update, regardless if the location has changed or not. More information can be found in the Developer Guide in the “Handle route deviations” section.
 
@@ -1029,12 +1105,18 @@ Provides the protocol for the online and offline routing engines.
   Swift
 
   ``` highlight
-  @discardableResult func returnToRoute ( _ route : Route , startingPoint : Waypoint , lastTraveledSectionIndex : Int32 , traveledDistanceOnLastSectionInMeters : Int32 , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  @discardableResult
+  func returnToRoute(_ route: Route, startingPoint: Waypoint, lastTraveledSectionIndex: Int32, traveledDistanceOnLastSectionInMeters: Int32, completion: @escaping CalculateRouteCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-route">Route</a>
+  - <a href="sdk-for-ios-navigate-structs-waypoint">Waypoint</a>
+  - <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk31CalculateRouteCompletionHandlera">CalculateRouteCompletionHandler</a>
+  - <a href="sdk-for-ios-navigate-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -1057,7 +1139,7 @@ Provides the protocol for the online and offline routing engines.
   <tr>
   <td><code> </code><em><code>startingPoint</code></em><code> </code></td>
   <td><div>
-  <p>The current location, for example, provided by a <a href="sdk-for-ios-navigate-structs-routedeviation"><code>RouteDeviation</code></a> event. The waypoint needs to be of type <a href="sdk-for-ios-navigate-enums-waypointtype#/s:7heresdk12WaypointTypeO8stopoveryA2CmF"><code>WaypointType.stopover</code></a>. Otherwise, an <a href="sdk-for-ios-navigate-enums-routingerror#/s:7heresdk12RoutingErrorO16invalidParameteryA2CmF"><code>RoutingError.invalidParameter</code></a> error is generated.</p>
+  <p>The current location, for example, provided by a <a href="sdk-for-ios-navigate-structs-routedeviation"><code>RouteDeviation</code></a> event. The waypoint needs to be of type <a href="sdk-for-ios-navigate-enums-waypointtype#sdk-for-ios-navigate-s-7heresdk12WaypointTypeO8stopoveryA2CmF"><code>WaypointType.stopover</code></a>. Otherwise, an <a href="sdk-for-ios-navigate-enums-routingerror#sdk-for-ios-navigate-s-7heresdk12RoutingErrorO16invalidParameteryA2CmF"><code>RoutingError.invalidParameter</code></a> error is generated.</p>
   </div></td>
   </tr>
   <tr>

@@ -35,7 +35,7 @@ Interface for managing a map layer. A map layer can be created by using the <a h
 
 - <div>
 
-      setEnabled(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk8MapLayerC10setEnabledyySbF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-setEnabled-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-maplayer#sdk-for-ios-navigate-s-7heresdk8MapLayerC10setEnabledyySbF" class="token"><code>setEnabled(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -66,10 +66,8 @@ Interface for managing a map layer. A map layer can be created by using the <a h
   Swift
 
   ``` highlight
-  public func setEnabled ( _ enable : Bool )
+  public func setEnabled(_ enable: Bool)
   ```
-
-  </pre>
 
   </div>
 
@@ -102,7 +100,7 @@ Interface for managing a map layer. A map layer can be created by using the <a h
 
 - <div>
 
-      setStyle(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk8MapLayerC8setStyleyyAA0E0CF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-setStyle-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-maplayer#sdk-for-ios-navigate-s-7heresdk8MapLayerC8setStyleyyAA0E0CF" class="token"><code>setStyle(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -133,12 +131,14 @@ Interface for managing a map layer. A map layer can be created by using the <a h
   Swift
 
   ``` highlight
-  public func setStyle ( _ style : Style )
+  public func setStyle(_ style: Style)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-style">Style</a>
 
   </div>
 
@@ -169,7 +169,7 @@ Interface for managing a map layer. A map layer can be created by using the <a h
 
 - <div>
 
-      setPriority(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk8MapLayerC11setPriorityyyAA0bcE0CF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-setPriority-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-maplayer#sdk-for-ios-navigate-s-7heresdk8MapLayerC11setPriorityyyAA0bcE0CF" class="token"><code>setPriority(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -200,12 +200,14 @@ Interface for managing a map layer. A map layer can be created by using the <a h
   Swift
 
   ``` highlight
-  public func setPriority ( _ priority : MapLayerPriority )
+  public func setPriority(_ priority: MapLayerPriority)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-maps#sdk-for-ios-navigate-s-7heresdk16MapLayerPriorityC">MapLayerPriority</a>
 
   </div>
 

@@ -27,7 +27,7 @@ Authentication data
 
 - <div>
 
-  ` `<span id="/s:7heresdk13ProxySettingsV11CredentialsV8userNameSSvp"></span>` `<span id="//apple_ref/swift/Property/userName" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-proxysettings-credentials#/s:7heresdk13ProxySettingsV11CredentialsV8userNameSSvp" class="token"><code>userName</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13ProxySettingsV11CredentialsV8userNameSSvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-userName" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-proxysettings-credentials#sdk-for-ios-navigate-s-7heresdk13ProxySettingsV11CredentialsV8userNameSSvp" class="token"><code>userName</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Authentication data
 
 - <div>
 
-  ` `<span id="/s:7heresdk13ProxySettingsV11CredentialsV8passwordSSvp"></span>` `<span id="//apple_ref/swift/Property/password" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-proxysettings-credentials#/s:7heresdk13ProxySettingsV11CredentialsV8passwordSSvp" class="token"><code>password</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13ProxySettingsV11CredentialsV8passwordSSvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-password" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-proxysettings-credentials#sdk-for-ios-navigate-s-7heresdk13ProxySettingsV11CredentialsV8passwordSSvp" class="token"><code>password</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Authentication data
 
 - <div>
 
-      init(userName: password: )
+   <span id="sdk-for-ios-navigate-s-7heresdk13ProxySettingsV11CredentialsV8userName8passwordAESS_SStcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-userName-password" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-proxysettings-credentials#sdk-for-ios-navigate-s-7heresdk13ProxySettingsV11CredentialsV8userName8passwordAESS_SStcfc" class="token"><code>init(userName:</code><wbr></wbr><code>password:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -146,10 +146,8 @@ Authentication data
   Swift
 
   ``` highlight
-  public init ( userName : String , password : String )
+  public init(userName: String, password: String)
   ```
-
-  </pre>
 
   </div>
 

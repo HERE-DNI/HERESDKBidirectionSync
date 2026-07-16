@@ -27,7 +27,7 @@ Configuration of a local data cache.
 
 - <div>
 
-  ` `<span id="/s:7heresdk29RasterDataSourceConfigurationV5CacheV4pathSSvp"></span>` `<span id="//apple_ref/swift/Property/path" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-rasterdatasourceconfiguration-cache#/s:7heresdk29RasterDataSourceConfigurationV5CacheV4pathSSvp" class="token"><code>path</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk29RasterDataSourceConfigurationV5CacheV4pathSSvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-path" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-rasterdatasourceconfiguration-cache#sdk-for-ios-navigate-s-7heresdk29RasterDataSourceConfigurationV5CacheV4pathSSvp" class="token"><code>path</code></a> 
 
   </div>
 
@@ -45,7 +45,7 @@ Configuration of a local data cache.
 
   <div class="abstract">
 
-  The path to the directory to use for the cache. By default, the map gets initialized with a data path which can be fetched from <a href="sdk-for-ios-navigate-structs-sdkoptions#/s:7heresdk10SDKOptionsV9cachePathSSvp">`SDKOptions.cachePath`</a>. The cache will be relative to this path, unless an absolute path is provided. The cache can be stored in an internal/external storage as long as the app has read/write permissions. Empty string means the data path will be used for caching. If the provided path, either as absolute path or as relative path is invalid, then caching will be disabled. There is no contraint regarding the existence of the path. If the path does not exist but is valid, it will be created.
+  The path to the directory to use for the cache. By default, the map gets initialized with a data path which can be fetched from <a href="sdk-for-ios-navigate-structs-sdkoptions#sdk-for-ios-navigate-s-7heresdk10SDKOptionsV9cachePathSSvp">`SDKOptions.cachePath`</a>. The cache will be relative to this path, unless an absolute path is provided. The cache can be stored in an internal/external storage as long as the app has read/write permissions. Empty string means the data path will be used for caching. If the provided path, either as absolute path or as relative path is invalid, then caching will be disabled. There is no contraint regarding the existence of the path. If the path does not exist but is valid, it will be created.
 
   </div>
 
@@ -71,7 +71,7 @@ Configuration of a local data cache.
 
 - <div>
 
-  ` `<span id="/s:7heresdk29RasterDataSourceConfigurationV5CacheV8diskSizes5Int64Vvp"></span>` `<span id="//apple_ref/swift/Property/diskSize" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-rasterdatasourceconfiguration-cache#/s:7heresdk29RasterDataSourceConfigurationV5CacheV8diskSizes5Int64Vvp" class="token"><code>diskSize</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk29RasterDataSourceConfigurationV5CacheV8diskSizes5Int64Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-diskSize" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-rasterdatasourceconfiguration-cache#sdk-for-ios-navigate-s-7heresdk29RasterDataSourceConfigurationV5CacheV8diskSizes5Int64Vvp" class="token"><code>diskSize</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Configuration of a local data cache.
 
 - <div>
 
-      init(path: diskSize: )
+   <span id="sdk-for-ios-navigate-s-7heresdk29RasterDataSourceConfigurationV5CacheV4path8diskSizeAESS_s5Int64Vtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-path-diskSize" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-rasterdatasourceconfiguration-cache#sdk-for-ios-navigate-s-7heresdk29RasterDataSourceConfigurationV5CacheV4path8diskSizeAESS_s5Int64Vtcfc" class="token"><code>init(path:</code><wbr></wbr><code>diskSize:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -146,10 +146,8 @@ Configuration of a local data cache.
   Swift
 
   ``` highlight
-  public init ( path : String , diskSize : Int64 = 33554432 )
+  public init(path: String, diskSize: Int64 = 33554432)
   ```
-
-  </pre>
 
   </div>
 

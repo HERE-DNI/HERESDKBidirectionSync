@@ -17,21 +17,11 @@ public struct MapFeatureModes
 
 </div>
 
-Holds constants for map feature modes, to be used with
+Holds constants for map feature modes, to be used with <a href="sdk-for-ios-navigate-classes-mapscene#sdk-for-ios-navigate-s-7heresdk8MapSceneC14enableFeaturesyySDyS2SGF">`MapScene.enableFeatures(...)`</a>.
 
-    MapScene.enableFeatures(...)
+Use <a href="sdk-for-ios-navigate-structs-mapfeaturemodes#sdk-for-ios-navigate-s-7heresdk15MapFeatureModesV11defaultModeSSvpZ">`MapFeatureModes.defaultMode`</a> to enable a feature with its default mode.
 
-.
-</p>
-
-Use <a href="sdk-for-ios-navigate-structs-mapfeaturemodes#/s:7heresdk15MapFeatureModesV11defaultModeSSvpZ">`MapFeatureModes.defaultMode`</a> to enable a feature with its default mode.
-
-Note: The default mode is defined by the currently loaded map scene configuration and may vary per <a href="sdk-for-ios-navigate-enums-mapscheme">`MapScheme`</a>. The currently active features and modes can be inspected using
-
-    MapScene.getActiveFeatures(...)
-
-after the scene is loaded.
-</p>
+Note: The default mode is defined by the currently loaded map scene configuration and may vary per <a href="sdk-for-ios-navigate-enums-mapscheme">`MapScheme`</a>. The currently active features and modes can be inspected using <a href="sdk-for-ios-navigate-classes-mapscene#sdk-for-ios-navigate-s-7heresdk8MapSceneC17getActiveFeaturesSDyS2SGyF">`MapScene.getActiveFeatures(...)`</a> after the scene is loaded.
 
 See <a href="sdk-for-ios-navigate-structs-mapfeatures">`MapFeatures`</a> for constants representing the feature names.
 
@@ -43,7 +33,7 @@ See <a href="sdk-for-ios-navigate-structs-mapfeatures">`MapFeatures`</a> for con
 
 - <div>
 
-  ` `<span id="/s:7heresdk15MapFeatureModesV11defaultModeSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/defaultMode" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-mapfeaturemodes#/s:7heresdk15MapFeatureModesV11defaultModeSSvpZ" class="token"><code>defaultMode</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15MapFeatureModesV11defaultModeSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-defaultMode" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-mapfeaturemodes#sdk-for-ios-navigate-s-7heresdk15MapFeatureModesV11defaultModeSSvpZ" class="token"><code>defaultMode</code></a> 
 
   </div>
 
@@ -87,7 +77,7 @@ See <a href="sdk-for-ios-navigate-structs-mapfeatures">`MapFeatures`</a> for con
 
 - <div>
 
-  ` `<span id="/s:7heresdk15MapFeatureModesV21buildingFootprintsAllSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/buildingFootprintsAll" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-mapfeaturemodes#/s:7heresdk15MapFeatureModesV21buildingFootprintsAllSSvpZ" class="token"><code>buildingFootprintsAll</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15MapFeatureModesV21buildingFootprintsAllSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-buildingFootprintsAll" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-mapfeaturemodes#sdk-for-ios-navigate-s-7heresdk15MapFeatureModesV21buildingFootprintsAllSSvpZ" class="token"><code>buildingFootprintsAll</code></a> 
 
   </div>
 
@@ -131,7 +121,7 @@ See <a href="sdk-for-ios-navigate-structs-mapfeatures">`MapFeatures`</a> for con
 
 - <div>
 
-  ` `<span id="/s:7heresdk15MapFeatureModesV18congestionZonesAllSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/congestionZonesAll" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-mapfeaturemodes#/s:7heresdk15MapFeatureModesV18congestionZonesAllSSvpZ" class="token"><code>congestionZonesAll</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15MapFeatureModesV18congestionZonesAllSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-congestionZonesAll" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-mapfeaturemodes#sdk-for-ios-navigate-s-7heresdk15MapFeatureModesV18congestionZonesAllSSvpZ" class="token"><code>congestionZonesAll</code></a> 
 
   </div>
 
@@ -175,7 +165,7 @@ See <a href="sdk-for-ios-navigate-structs-mapfeatures">`MapFeatures`</a> for con
 
 - <div>
 
-  ` `<span id="/s:7heresdk15MapFeatureModesV20extrudedBuildingsAllSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/extrudedBuildingsAll" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-mapfeaturemodes#/s:7heresdk15MapFeatureModesV20extrudedBuildingsAllSSvpZ" class="token"><code>extrudedBuildingsAll</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15MapFeatureModesV20extrudedBuildingsAllSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-extrudedBuildingsAll" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-mapfeaturemodes#sdk-for-ios-navigate-s-7heresdk15MapFeatureModesV20extrudedBuildingsAllSSvpZ" class="token"><code>extrudedBuildingsAll</code></a> 
 
   </div>
 
@@ -219,7 +209,7 @@ See <a href="sdk-for-ios-navigate-structs-mapfeatures">`MapFeatures`</a> for con
 
 - <div>
 
-  ` `<span id="/s:7heresdk15MapFeatureModesV21environmentalZonesAllSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/environmentalZonesAll" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-mapfeaturemodes#/s:7heresdk15MapFeatureModesV21environmentalZonesAllSSvpZ" class="token"><code>environmentalZonesAll</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15MapFeatureModesV21environmentalZonesAllSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-environmentalZonesAll" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-mapfeaturemodes#sdk-for-ios-navigate-s-7heresdk15MapFeatureModesV21environmentalZonesAllSSvpZ" class="token"><code>environmentalZonesAll</code></a> 
 
   </div>
 
@@ -263,7 +253,7 @@ See <a href="sdk-for-ios-navigate-structs-mapfeatures">`MapFeatures`</a> for con
 
 - <div>
 
-  ` `<span id="/s:7heresdk15MapFeatureModesV16lowSpeedZonesAllSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/lowSpeedZonesAll" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-mapfeaturemodes#/s:7heresdk15MapFeatureModesV16lowSpeedZonesAllSSvpZ" class="token"><code>lowSpeedZonesAll</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15MapFeatureModesV16lowSpeedZonesAllSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-lowSpeedZonesAll" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-mapfeaturemodes#sdk-for-ios-navigate-s-7heresdk15MapFeatureModesV16lowSpeedZonesAllSSvpZ" class="token"><code>lowSpeedZonesAll</code></a> 
 
   </div>
 
@@ -307,7 +297,7 @@ See <a href="sdk-for-ios-navigate-structs-mapfeatures">`MapFeatures`</a> for con
 
 - <div>
 
-  ` `<span id="/s:7heresdk15MapFeatureModesV027trafficFlowJapanWithoutFreeF0SSvpZ"></span>` `<span id="//apple_ref/swift/Variable/trafficFlowJapanWithoutFreeFlow" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-mapfeaturemodes#/s:7heresdk15MapFeatureModesV027trafficFlowJapanWithoutFreeF0SSvpZ" class="token"><code>trafficFlowJapanWithoutFreeFlow</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15MapFeatureModesV027trafficFlowJapanWithoutFreeF0SSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-trafficFlowJapanWithoutFreeFlow" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-mapfeaturemodes#sdk-for-ios-navigate-s-7heresdk15MapFeatureModesV027trafficFlowJapanWithoutFreeF0SSvpZ" class="token"><code>trafficFlowJapanWithoutFreeFlow</code></a> 
 
   </div>
 
@@ -329,9 +319,9 @@ See <a href="sdk-for-ios-navigate-structs-mapfeatures">`MapFeatures`</a> for con
 
   Traffic flow shows green lines depending on the region.
 
-  In Japan green lines will not be shown, as if the <a href="sdk-for-ios-navigate-structs-mapfeaturemodes#/s:7heresdk15MapFeatureModesV022trafficFlowWithoutFreeF0SSvpZ">`MapFeatureModes.trafficFlowWithoutFreeFlow`</a> were used.
+  In Japan green lines will not be shown, as if the <a href="sdk-for-ios-navigate-structs-mapfeaturemodes#sdk-for-ios-navigate-s-7heresdk15MapFeatureModesV022trafficFlowWithoutFreeF0SSvpZ">`MapFeatureModes.trafficFlowWithoutFreeFlow`</a> were used.
 
-  In rest of the world, green lines will be shown, as if the <a href="sdk-for-ios-navigate-structs-mapfeaturemodes#/s:7heresdk15MapFeatureModesV019trafficFlowWithFreeF0SSvpZ">`MapFeatureModes.trafficFlowWithFreeFlow`</a> were used.
+  In rest of the world, green lines will be shown, as if the <a href="sdk-for-ios-navigate-structs-mapfeaturemodes#sdk-for-ios-navigate-s-7heresdk15MapFeatureModesV019trafficFlowWithFreeF0SSvpZ">`MapFeatureModes.trafficFlowWithFreeFlow`</a> were used.
 
   </div>
 
@@ -357,7 +347,7 @@ See <a href="sdk-for-ios-navigate-structs-mapfeatures">`MapFeatures`</a> for con
 
 - <div>
 
-  ` `<span id="/s:7heresdk15MapFeatureModesV019trafficFlowWithFreeF0SSvpZ"></span>` `<span id="//apple_ref/swift/Variable/trafficFlowWithFreeFlow" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-mapfeaturemodes#/s:7heresdk15MapFeatureModesV019trafficFlowWithFreeF0SSvpZ" class="token"><code>trafficFlowWithFreeFlow</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15MapFeatureModesV019trafficFlowWithFreeF0SSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-trafficFlowWithFreeFlow" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-mapfeaturemodes#sdk-for-ios-navigate-s-7heresdk15MapFeatureModesV019trafficFlowWithFreeF0SSvpZ" class="token"><code>trafficFlowWithFreeFlow</code></a> 
 
   </div>
 
@@ -401,7 +391,7 @@ See <a href="sdk-for-ios-navigate-structs-mapfeatures">`MapFeatures`</a> for con
 
 - <div>
 
-  ` `<span id="/s:7heresdk15MapFeatureModesV022trafficFlowWithoutFreeF0SSvpZ"></span>` `<span id="//apple_ref/swift/Variable/trafficFlowWithoutFreeFlow" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-mapfeaturemodes#/s:7heresdk15MapFeatureModesV022trafficFlowWithoutFreeF0SSvpZ" class="token"><code>trafficFlowWithoutFreeFlow</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15MapFeatureModesV022trafficFlowWithoutFreeF0SSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-trafficFlowWithoutFreeFlow" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-mapfeaturemodes#sdk-for-ios-navigate-s-7heresdk15MapFeatureModesV022trafficFlowWithoutFreeF0SSvpZ" class="token"><code>trafficFlowWithoutFreeFlow</code></a> 
 
   </div>
 
@@ -445,7 +435,7 @@ See <a href="sdk-for-ios-navigate-structs-mapfeatures">`MapFeatures`</a> for con
 
 - <div>
 
-  ` `<span id="/s:7heresdk15MapFeatureModesV19trafficIncidentsAllSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/trafficIncidentsAll" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-mapfeaturemodes#/s:7heresdk15MapFeatureModesV19trafficIncidentsAllSSvpZ" class="token"><code>trafficIncidentsAll</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15MapFeatureModesV19trafficIncidentsAllSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-trafficIncidentsAll" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-mapfeaturemodes#sdk-for-ios-navigate-s-7heresdk15MapFeatureModesV19trafficIncidentsAllSSvpZ" class="token"><code>trafficIncidentsAll</code></a> 
 
   </div>
 
@@ -489,7 +479,7 @@ See <a href="sdk-for-ios-navigate-structs-mapfeatures">`MapFeatures`</a> for con
 
 - <div>
 
-  ` `<span id="/s:7heresdk15MapFeatureModesV16trafficLightsAllSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/trafficLightsAll" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-mapfeaturemodes#/s:7heresdk15MapFeatureModesV16trafficLightsAllSSvpZ" class="token"><code>trafficLightsAll</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15MapFeatureModesV16trafficLightsAllSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-trafficLightsAll" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-mapfeaturemodes#sdk-for-ios-navigate-s-7heresdk15MapFeatureModesV16trafficLightsAllSSvpZ" class="token"><code>trafficLightsAll</code></a> 
 
   </div>
 
@@ -533,7 +523,7 @@ See <a href="sdk-for-ios-navigate-structs-mapfeatures">`MapFeatures`</a> for con
 
 - <div>
 
-  ` `<span id="/s:7heresdk15MapFeatureModesV17landmarksTexturedSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/landmarksTextured" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-mapfeaturemodes#/s:7heresdk15MapFeatureModesV17landmarksTexturedSSvpZ" class="token"><code>landmarksTextured</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15MapFeatureModesV17landmarksTexturedSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-landmarksTextured" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-mapfeaturemodes#sdk-for-ios-navigate-s-7heresdk15MapFeatureModesV17landmarksTexturedSSvpZ" class="token"><code>landmarksTextured</code></a> 
 
   </div>
 
@@ -577,7 +567,7 @@ See <a href="sdk-for-ios-navigate-structs-mapfeatures">`MapFeatures`</a> for con
 
 - <div>
 
-  ` `<span id="/s:7heresdk15MapFeatureModesV18landmarksGrayscaleSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/landmarksGrayscale" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-mapfeaturemodes#/s:7heresdk15MapFeatureModesV18landmarksGrayscaleSSvpZ" class="token"><code>landmarksGrayscale</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15MapFeatureModesV18landmarksGrayscaleSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-landmarksGrayscale" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-mapfeaturemodes#sdk-for-ios-navigate-s-7heresdk15MapFeatureModesV18landmarksGrayscaleSSvpZ" class="token"><code>landmarksGrayscale</code></a> 
 
   </div>
 
@@ -621,7 +611,7 @@ See <a href="sdk-for-ios-navigate-structs-mapfeatures">`MapFeatures`</a> for con
 
 - <div>
 
-  ` `<span id="/s:7heresdk15MapFeatureModesV20landmarksTexturelessSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/landmarksTextureless" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-mapfeaturemodes#/s:7heresdk15MapFeatureModesV20landmarksTexturelessSSvpZ" class="token"><code>landmarksTextureless</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15MapFeatureModesV20landmarksTexturelessSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-landmarksTextureless" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-mapfeaturemodes#sdk-for-ios-navigate-s-7heresdk15MapFeatureModesV20landmarksTexturelessSSvpZ" class="token"><code>landmarksTextureless</code></a> 
 
   </div>
 
@@ -665,7 +655,7 @@ See <a href="sdk-for-ios-navigate-structs-mapfeatures">`MapFeatures`</a> for con
 
 - <div>
 
-  ` `<span id="/s:7heresdk15MapFeatureModesV36vehicleRestrictionsActiveAndInactiveSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/vehicleRestrictionsActiveAndInactive" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-mapfeaturemodes#/s:7heresdk15MapFeatureModesV36vehicleRestrictionsActiveAndInactiveSSvpZ" class="token"><code>vehicleRestrictionsActiveAndInactive</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15MapFeatureModesV36vehicleRestrictionsActiveAndInactiveSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-vehicleRestrictionsActiveAndInactive" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-mapfeaturemodes#sdk-for-ios-navigate-s-7heresdk15MapFeatureModesV36vehicleRestrictionsActiveAndInactiveSSvpZ" class="token"><code>vehicleRestrictionsActiveAndInactive</code></a> 
 
   </div>
 
@@ -709,7 +699,7 @@ See <a href="sdk-for-ios-navigate-structs-mapfeatures">`MapFeatures`</a> for con
 
 - <div>
 
-  ` `<span id="/s:7heresdk15MapFeatureModesV50vehicleRestrictionsActiveAndInactiveDifferentiatedSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/vehicleRestrictionsActiveAndInactiveDifferentiated" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-mapfeaturemodes#/s:7heresdk15MapFeatureModesV50vehicleRestrictionsActiveAndInactiveDifferentiatedSSvpZ" class="token"><code>vehicleRestrictionsActiveAndInactiveDifferentiated</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15MapFeatureModesV50vehicleRestrictionsActiveAndInactiveDifferentiatedSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-vehicleRestrictionsActiveAndInactiveDifferentiated" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-mapfeaturemodes#sdk-for-ios-navigate-s-7heresdk15MapFeatureModesV50vehicleRestrictionsActiveAndInactiveDifferentiatedSSvpZ" class="token"><code>vehicleRestrictionsActiveAndInactiveDifferentiated</code></a> 
 
   </div>
 
@@ -753,7 +743,7 @@ See <a href="sdk-for-ios-navigate-structs-mapfeatures">`MapFeatures`</a> for con
 
 - <div>
 
-  ` `<span id="/s:7heresdk15MapFeatureModesV25vehicleRestrictionsActiveSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/vehicleRestrictionsActive" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-mapfeaturemodes#/s:7heresdk15MapFeatureModesV25vehicleRestrictionsActiveSSvpZ" class="token"><code>vehicleRestrictionsActive</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15MapFeatureModesV25vehicleRestrictionsActiveSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-vehicleRestrictionsActive" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-mapfeaturemodes#sdk-for-ios-navigate-s-7heresdk15MapFeatureModesV25vehicleRestrictionsActiveSSvpZ" class="token"><code>vehicleRestrictionsActive</code></a> 
 
   </div>
 
@@ -797,7 +787,7 @@ See <a href="sdk-for-ios-navigate-structs-mapfeatures">`MapFeatures`</a> for con
 
 - <div>
 
-  ` `<span id="/s:7heresdk15MapFeatureModesV16safetyCamerasAllSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/safetyCamerasAll" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-mapfeaturemodes#/s:7heresdk15MapFeatureModesV16safetyCamerasAllSSvpZ" class="token"><code>safetyCamerasAll</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15MapFeatureModesV16safetyCamerasAllSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-safetyCamerasAll" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-mapfeaturemodes#sdk-for-ios-navigate-s-7heresdk15MapFeatureModesV16safetyCamerasAllSSvpZ" class="token"><code>safetyCamerasAll</code></a> 
 
   </div>
 
@@ -841,7 +831,7 @@ See <a href="sdk-for-ios-navigate-structs-mapfeatures">`MapFeatures`</a> for con
 
 - <div>
 
-  ` `<span id="/s:7heresdk15MapFeatureModesV16terrainHillshadeSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/terrainHillshade" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-mapfeaturemodes#/s:7heresdk15MapFeatureModesV16terrainHillshadeSSvpZ" class="token"><code>terrainHillshade</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15MapFeatureModesV16terrainHillshadeSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-terrainHillshade" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-mapfeaturemodes#sdk-for-ios-navigate-s-7heresdk15MapFeatureModesV16terrainHillshadeSSvpZ" class="token"><code>terrainHillshade</code></a> 
 
   </div>
 
@@ -887,7 +877,7 @@ See <a href="sdk-for-ios-navigate-structs-mapfeatures">`MapFeatures`</a> for con
 
 - <div>
 
-  ` `<span id="/s:7heresdk15MapFeatureModesV9terrain3dSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/terrain3d" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-mapfeaturemodes#/s:7heresdk15MapFeatureModesV9terrain3dSSvpZ" class="token"><code>terrain3d</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15MapFeatureModesV9terrain3dSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-terrain3d" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-mapfeaturemodes#sdk-for-ios-navigate-s-7heresdk15MapFeatureModesV9terrain3dSSvpZ" class="token"><code>terrain3d</code></a> 
 
   </div>
 
@@ -933,7 +923,7 @@ See <a href="sdk-for-ios-navigate-structs-mapfeatures">`MapFeatures`</a> for con
 
 - <div>
 
-  ` `<span id="/s:7heresdk15MapFeatureModesV16publicTransitAllSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/publicTransitAll" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-mapfeaturemodes#/s:7heresdk15MapFeatureModesV16publicTransitAllSSvpZ" class="token"><code>publicTransitAll</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15MapFeatureModesV16publicTransitAllSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-publicTransitAll" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-mapfeaturemodes#sdk-for-ios-navigate-s-7heresdk15MapFeatureModesV16publicTransitAllSSvpZ" class="token"><code>publicTransitAll</code></a> 
 
   </div>
 
@@ -979,7 +969,7 @@ See <a href="sdk-for-ios-navigate-structs-mapfeatures">`MapFeatures`</a> for con
 
 - <div>
 
-  ` `<span id="/s:7heresdk15MapFeatureModesV17publicTransitAsiaSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/publicTransitAsia" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-mapfeaturemodes#/s:7heresdk15MapFeatureModesV17publicTransitAsiaSSvpZ" class="token"><code>publicTransitAsia</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15MapFeatureModesV17publicTransitAsiaSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-publicTransitAsia" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-mapfeaturemodes#sdk-for-ios-navigate-s-7heresdk15MapFeatureModesV17publicTransitAsiaSSvpZ" class="token"><code>publicTransitAsia</code></a> 
 
   </div>
 
@@ -1025,7 +1015,7 @@ See <a href="sdk-for-ios-navigate-structs-mapfeatures">`MapFeatures`</a> for con
 
 - <div>
 
-  ` `<span id="/s:7heresdk15MapFeatureModesV25roadExitLabelsNumbersOnlySSvpZ"></span>` `<span id="//apple_ref/swift/Variable/roadExitLabelsNumbersOnly" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-mapfeaturemodes#/s:7heresdk15MapFeatureModesV25roadExitLabelsNumbersOnlySSvpZ" class="token"><code>roadExitLabelsNumbersOnly</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15MapFeatureModesV25roadExitLabelsNumbersOnlySSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-roadExitLabelsNumbersOnly" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-mapfeaturemodes#sdk-for-ios-navigate-s-7heresdk15MapFeatureModesV25roadExitLabelsNumbersOnlySSvpZ" class="token"><code>roadExitLabelsNumbersOnly</code></a> 
 
   </div>
 
@@ -1069,7 +1059,7 @@ See <a href="sdk-for-ios-navigate-structs-mapfeatures">`MapFeatures`</a> for con
 
 - <div>
 
-  ` `<span id="/s:7heresdk15MapFeatureModesV17roadExitLabelsAllSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/roadExitLabelsAll" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-mapfeaturemodes#/s:7heresdk15MapFeatureModesV17roadExitLabelsAllSSvpZ" class="token"><code>roadExitLabelsAll</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15MapFeatureModesV17roadExitLabelsAllSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-roadExitLabelsAll" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-mapfeaturemodes#sdk-for-ios-navigate-s-7heresdk15MapFeatureModesV17roadExitLabelsAllSSvpZ" class="token"><code>roadExitLabelsAll</code></a> 
 
   </div>
 
@@ -1113,7 +1103,7 @@ See <a href="sdk-for-ios-navigate-structs-mapfeatures">`MapFeatures`</a> for con
 
 - <div>
 
-  ` `<span id="/s:7heresdk15MapFeatureModesV10shadowsAllSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/shadowsAll" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-mapfeaturemodes#/s:7heresdk15MapFeatureModesV10shadowsAllSSvpZ" class="token"><code>shadowsAll</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15MapFeatureModesV10shadowsAllSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-shadowsAll" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-mapfeaturemodes#sdk-for-ios-navigate-s-7heresdk15MapFeatureModesV10shadowsAllSSvpZ" class="token"><code>shadowsAll</code></a> 
 
   </div>
 
@@ -1159,7 +1149,7 @@ See <a href="sdk-for-ios-navigate-structs-mapfeatures">`MapFeatures`</a> for con
 
 - <div>
 
-  ` `<span id="/s:7heresdk15MapFeatureModesV19ambientOcclusionAllSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/ambientOcclusionAll" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-mapfeaturemodes#/s:7heresdk15MapFeatureModesV19ambientOcclusionAllSSvpZ" class="token"><code>ambientOcclusionAll</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15MapFeatureModesV19ambientOcclusionAllSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-ambientOcclusionAll" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-mapfeaturemodes#sdk-for-ios-navigate-s-7heresdk15MapFeatureModesV19ambientOcclusionAllSSvpZ" class="token"><code>ambientOcclusionAll</code></a> 
 
   </div>
 
@@ -1205,7 +1195,7 @@ See <a href="sdk-for-ios-navigate-structs-mapfeatures">`MapFeatures`</a> for con
 
 - <div>
 
-  ` `<span id="/s:7heresdk15MapFeatureModesV11contoursAllSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/contoursAll" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-mapfeaturemodes#/s:7heresdk15MapFeatureModesV11contoursAllSSvpZ" class="token"><code>contoursAll</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15MapFeatureModesV11contoursAllSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-contoursAll" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-mapfeaturemodes#sdk-for-ios-navigate-s-7heresdk15MapFeatureModesV11contoursAllSSvpZ" class="token"><code>contoursAll</code></a> 
 
   </div>
 
@@ -1249,7 +1239,7 @@ See <a href="sdk-for-ios-navigate-structs-mapfeatures">`MapFeatures`</a> for con
 
 - <div>
 
-  ` `<span id="/s:7heresdk15MapFeatureModesV22truckPreferredRoadsAllSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/truckPreferredRoadsAll" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-mapfeaturemodes#/s:7heresdk15MapFeatureModesV22truckPreferredRoadsAllSSvpZ" class="token"><code>truckPreferredRoadsAll</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15MapFeatureModesV22truckPreferredRoadsAllSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-truckPreferredRoadsAll" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-mapfeaturemodes#sdk-for-ios-navigate-s-7heresdk15MapFeatureModesV22truckPreferredRoadsAllSSvpZ" class="token"><code>truckPreferredRoadsAll</code></a> 
 
   </div>
 

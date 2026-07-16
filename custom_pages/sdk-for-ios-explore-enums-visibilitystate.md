@@ -27,7 +27,7 @@ Represents the visibility state of an SDK map view’s object.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15VisibilityStateO7visibleyA2CmF"></span>` `<span id="//apple_ref/swift/Element/visible" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-visibilitystate#/s:7heresdk15VisibilityStateO7visibleyA2CmF" class="token"><code>visible</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15VisibilityStateO7visibleyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-visible" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-visibilitystate#sdk-for-ios-explore-s-7heresdk15VisibilityStateO7visibleyA2CmF" class="token"><code>visible</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Represents the visibility state of an SDK map view’s object.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15VisibilityStateO6hiddenyA2CmF"></span>` `<span id="//apple_ref/swift/Element/hidden" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-visibilitystate#/s:7heresdk15VisibilityStateO6hiddenyA2CmF" class="token"><code>hidden</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15VisibilityStateO6hiddenyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-hidden" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-visibilitystate#sdk-for-ios-explore-s-7heresdk15VisibilityStateO6hiddenyA2CmF" class="token"><code>hidden</code></a> 
 
   </div>
 

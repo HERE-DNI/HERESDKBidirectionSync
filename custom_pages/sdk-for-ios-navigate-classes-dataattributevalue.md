@@ -37,7 +37,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      init(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk18DataAttributeValueCyACSScfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-dataattributevalue#sdk-for-ios-navigate-s-7heresdk18DataAttributeValueCyACSScfc" class="token"><code>init(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -68,10 +68,8 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public init ( _ value : String )
+  public init(_ value: String)
   ```
-
-  </pre>
 
   </div>
 
@@ -104,7 +102,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      init(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk18DataAttributeValueCyACs5Int64Vcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-dataattributevalue#sdk-for-ios-navigate-s-7heresdk18DataAttributeValueCyACs5Int64Vcfc" class="token"><code>init(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -135,10 +133,8 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public init ( _ value : Int64 )
+  public init(_ value: Int64)
   ```
-
-  </pre>
 
   </div>
 
@@ -171,7 +167,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      init(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk18DataAttributeValueCyACSfcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-dataattributevalue#sdk-for-ios-navigate-s-7heresdk18DataAttributeValueCyACSfcfc" class="token"><code>init(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -202,10 +198,8 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public init ( _ value : Float )
+  public init(_ value: Float)
   ```
-
-  </pre>
 
   </div>
 
@@ -238,7 +232,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      init(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk18DataAttributeValueCyACSdcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-dataattributevalue#sdk-for-ios-navigate-s-7heresdk18DataAttributeValueCyACSdcfc" class="token"><code>init(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -269,10 +263,8 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public init ( _ value : Double )
+  public init(_ value: Double)
   ```
-
-  </pre>
 
   </div>
 
@@ -305,7 +297,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      init(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk18DataAttributeValueCyACSbcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-dataattributevalue#sdk-for-ios-navigate-s-7heresdk18DataAttributeValueCyACSbcfc" class="token"><code>init(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -336,10 +328,8 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public init ( _ value : Bool )
+  public init(_ value: Bool)
   ```
-
-  </pre>
 
   </div>
 
@@ -372,7 +362,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      init(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk18DataAttributeValueCyACSo7UIColorCcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-dataattributevalue#sdk-for-ios-navigate-s-7heresdk18DataAttributeValueCyACSo7UIColorCcfc" class="token"><code>init(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -403,10 +393,8 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public init ( _ value : UIColor )
+  public init(_ value: UIColor)
   ```
-
-  </pre>
 
   </div>
 
@@ -439,7 +427,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      init(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk18DataAttributeValueCyACSayACGcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-dataattributevalue#sdk-for-ios-navigate-s-7heresdk18DataAttributeValueCyACSayACGcfc" class="token"><code>init(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -470,10 +458,8 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public init ( _ value : [ DataAttributeValue ])
+  public init(_ value: [DataAttributeValue])
   ```
-
-  </pre>
 
   </div>
 
@@ -506,7 +492,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-  ` `<span id="/s:7heresdk18DataAttributeValueC0D4TypeO"></span>` `<span id="//apple_ref/swift/Enum/ValueType" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-dataattributevalue#/s:7heresdk18DataAttributeValueC0D4TypeO" class="token"><code>ValueType</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18DataAttributeValueC0D4TypeO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-ValueType" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-dataattributevalue#sdk-for-ios-navigate-s-7heresdk18DataAttributeValueC0D4TypeO" class="token"><code>ValueType</code></a> 
 
   </div>
 
@@ -552,7 +538,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      getType()
+   <span id="sdk-for-ios-navigate-s-7heresdk18DataAttributeValueC7getTypeAC0dF0OyF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-getType" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-dataattributevalue#sdk-for-ios-navigate-s-7heresdk18DataAttributeValueC7getTypeAC0dF0OyF" class="token"><code>getType()</code></a> 
 
   </div>
 
@@ -583,12 +569,14 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func getType () -> DataAttributeValue . ValueType
+  public func getType() -> DataAttributeValue.ValueType
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-dataattributevalue-valuetype">ValueType</a>
 
   </div>
 
@@ -606,7 +594,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      getString()
+   <span id="sdk-for-ios-navigate-s-7heresdk18DataAttributeValueC9getStringSSSgyF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-getString" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-dataattributevalue#sdk-for-ios-navigate-s-7heresdk18DataAttributeValueC9getStringSSSgyF" class="token"><code>getString()</code></a> 
 
   </div>
 
@@ -637,10 +625,8 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func getString () -> String ?
+  public func getString() -> String?
   ```
-
-  </pre>
 
   </div>
 
@@ -660,7 +646,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      getInt64()
+   <span id="sdk-for-ios-navigate-s-7heresdk18DataAttributeValueC8getInt64s0F0VSgyF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-getInt64" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-dataattributevalue#sdk-for-ios-navigate-s-7heresdk18DataAttributeValueC8getInt64s0F0VSgyF" class="token"><code>getInt64()</code></a> 
 
   </div>
 
@@ -691,10 +677,8 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func getInt64 () -> Int64 ?
+  public func getInt64() -> Int64?
   ```
-
-  </pre>
 
   </div>
 
@@ -714,7 +698,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      getFloat()
+   <span id="sdk-for-ios-navigate-s-7heresdk18DataAttributeValueC8getFloatSfSgyF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-getFloat" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-dataattributevalue#sdk-for-ios-navigate-s-7heresdk18DataAttributeValueC8getFloatSfSgyF" class="token"><code>getFloat()</code></a> 
 
   </div>
 
@@ -745,10 +729,8 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func getFloat () -> Float ?
+  public func getFloat() -> Float?
   ```
-
-  </pre>
 
   </div>
 
@@ -768,7 +750,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      getDouble()
+   <span id="sdk-for-ios-navigate-s-7heresdk18DataAttributeValueC9getDoubleSdSgyF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-getDouble" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-dataattributevalue#sdk-for-ios-navigate-s-7heresdk18DataAttributeValueC9getDoubleSdSgyF" class="token"><code>getDouble()</code></a> 
 
   </div>
 
@@ -799,10 +781,8 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func getDouble () -> Double ?
+  public func getDouble() -> Double?
   ```
-
-  </pre>
 
   </div>
 
@@ -822,7 +802,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      getBoolean()
+   <span id="sdk-for-ios-navigate-s-7heresdk18DataAttributeValueC10getBooleanSbSgyF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-getBoolean" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-dataattributevalue#sdk-for-ios-navigate-s-7heresdk18DataAttributeValueC10getBooleanSbSgyF" class="token"><code>getBoolean()</code></a> 
 
   </div>
 
@@ -853,10 +833,8 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func getBoolean () -> Bool ?
+  public func getBoolean() -> Bool?
   ```
-
-  </pre>
 
   </div>
 
@@ -876,7 +854,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      getColor()
+   <span id="sdk-for-ios-navigate-s-7heresdk18DataAttributeValueC8getColorSo7UIColorCSgyF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-getColor" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-dataattributevalue#sdk-for-ios-navigate-s-7heresdk18DataAttributeValueC8getColorSo7UIColorCSgyF" class="token"><code>getColor()</code></a> 
 
   </div>
 
@@ -907,10 +885,8 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func getColor () -> UIColor ?
+  public func getColor() -> UIColor?
   ```
-
-  </pre>
 
   </div>
 
@@ -930,7 +906,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      getArray()
+   <span id="sdk-for-ios-navigate-s-7heresdk18DataAttributeValueC8getArraySayACGSgyF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-getArray" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-dataattributevalue#sdk-for-ios-navigate-s-7heresdk18DataAttributeValueC8getArraySayACGSgyF" class="token"><code>getArray()</code></a> 
 
   </div>
 
@@ -961,10 +937,8 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func getArray () -> [ DataAttributeValue ]?
+  public func getArray() -> [DataAttributeValue]?
   ```
-
-  </pre>
 
   </div>
 
@@ -984,7 +958,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      getAsString()
+   <span id="sdk-for-ios-navigate-s-7heresdk18DataAttributeValueC11getAsStringSSyF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-getAsString" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-dataattributevalue#sdk-for-ios-navigate-s-7heresdk18DataAttributeValueC11getAsStringSSyF" class="token"><code>getAsString()</code></a> 
 
   </div>
 
@@ -1015,10 +989,8 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func getAsString () -> String
+  public func getAsString() -> String
   ```
-
-  </pre>
 
   </div>
 

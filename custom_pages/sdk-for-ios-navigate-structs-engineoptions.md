@@ -27,7 +27,7 @@ Specifies several options specific to different engines. Note: This is a beta re
 
 - <div>
 
-  ` `<span id="/s:7heresdk13EngineOptionsV13customBaseUrlSSSgvp"></span>` `<span id="//apple_ref/swift/Property/customBaseUrl" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-engineoptions#/s:7heresdk13EngineOptionsV13customBaseUrlSSSgvp" class="token"><code>customBaseUrl</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13EngineOptionsV13customBaseUrlSSSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-customBaseUrl" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-engineoptions#sdk-for-ios-navigate-s-7heresdk13EngineOptionsV13customBaseUrlSSSgvp" class="token"><code>customBaseUrl</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Specifies several options specific to different engines. Note: This is a beta re
 
 - <div>
 
-  ` `<span id="/s:7heresdk13EngineOptionsV24customAuthenticationModeAA0eF0CSgvp"></span>` `<span id="//apple_ref/swift/Property/customAuthenticationMode" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-engineoptions#/s:7heresdk13EngineOptionsV24customAuthenticationModeAA0eF0CSgvp" class="token"><code>customAuthenticationMode</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13EngineOptionsV24customAuthenticationModeAA0eF0CSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-customAuthenticationMode" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-engineoptions#sdk-for-ios-navigate-s-7heresdk13EngineOptionsV24customAuthenticationModeAA0eF0CSgvp" class="token"><code>customAuthenticationMode</code></a> 
 
   </div>
 
@@ -107,6 +107,10 @@ Specifies several options specific to different engines. Note: This is a beta re
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-authenticationmode">AuthenticationMode</a>
+
   </div>
 
   </div>
@@ -115,7 +119,7 @@ Specifies several options specific to different engines. Note: This is a beta re
 
 - <div>
 
-      init(customBaseUrl: customAuthenticationMode: )
+   <span id="sdk-for-ios-navigate-s-7heresdk13EngineOptionsV13customBaseUrl0D18AuthenticationModeACSSSg_AA0gH0CSgtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-customBaseUrl-customAuthenticationMode" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-engineoptions#sdk-for-ios-navigate-s-7heresdk13EngineOptionsV13customBaseUrl0D18AuthenticationModeACSSSg_AA0gH0CSgtcfc" class="token"><code>init(customBaseUrl:</code><wbr></wbr><code>customAuthenticationMode:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -146,12 +150,14 @@ Specifies several options specific to different engines. Note: This is a beta re
   Swift
 
   ``` highlight
-  public init ( customBaseUrl : String ? = nil , customAuthenticationMode : AuthenticationMode ? = nil )
+  public init(customBaseUrl: String? = nil, customAuthenticationMode: AuthenticationMode? = nil)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-authenticationmode">AuthenticationMode</a>
 
   </div>
 

@@ -27,7 +27,7 @@ Available directions.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13VenueTopologyC0C14DirectionalityO9undefinedyA2EmF"></span>` `<span id="//apple_ref/swift/Element/undefined" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuetopology-topologydirectionality#/s:7heresdk13VenueTopologyC0C14DirectionalityO9undefinedyA2EmF" class="token"><code>undefined</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13VenueTopologyC0C14DirectionalityO9undefinedyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-undefined" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuetopology-topologydirectionality#sdk-for-ios-explore-s-7heresdk13VenueTopologyC0C14DirectionalityO9undefinedyA2EmF" class="token"><code>undefined</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Available directions.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13VenueTopologyC0C14DirectionalityO9fromStartyA2EmF"></span>` `<span id="//apple_ref/swift/Element/fromStart" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuetopology-topologydirectionality#/s:7heresdk13VenueTopologyC0C14DirectionalityO9fromStartyA2EmF" class="token"><code>fromStart</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13VenueTopologyC0C14DirectionalityO9fromStartyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-fromStart" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuetopology-topologydirectionality#sdk-for-ios-explore-s-7heresdk13VenueTopologyC0C14DirectionalityO9fromStartyA2EmF" class="token"><code>fromStart</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Available directions.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13VenueTopologyC0C14DirectionalityO7toStartyA2EmF"></span>` `<span id="//apple_ref/swift/Element/toStart" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuetopology-topologydirectionality#/s:7heresdk13VenueTopologyC0C14DirectionalityO7toStartyA2EmF" class="token"><code>toStart</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13VenueTopologyC0C14DirectionalityO7toStartyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-toStart" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuetopology-topologydirectionality#sdk-for-ios-explore-s-7heresdk13VenueTopologyC0C14DirectionalityO7toStartyA2EmF" class="token"><code>toStart</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Available directions.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13VenueTopologyC0C14DirectionalityO13bidirectionalyA2EmF"></span>` `<span id="//apple_ref/swift/Element/bidirectional" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuetopology-topologydirectionality#/s:7heresdk13VenueTopologyC0C14DirectionalityO13bidirectionalyA2EmF" class="token"><code>bidirectional</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13VenueTopologyC0C14DirectionalityO13bidirectionalyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-bidirectional" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuetopology-topologydirectionality#sdk-for-ios-explore-s-7heresdk13VenueTopologyC0C14DirectionalityO13bidirectionalyA2EmF" class="token"><code>bidirectional</code></a> 
 
   </div>
 

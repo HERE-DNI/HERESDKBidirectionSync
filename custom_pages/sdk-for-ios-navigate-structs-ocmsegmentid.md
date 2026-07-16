@@ -29,7 +29,7 @@ OCM Segment ID of particular matched <a href="sdk-for-ios-navigate-structs-segme
 
 - <div>
 
-  ` `<span id="/s:7heresdk12OCMSegmentIdV013tilePartitionC0s5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/tilePartitionId" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-ocmsegmentid#/s:7heresdk12OCMSegmentIdV013tilePartitionC0s5Int32Vvp" class="token"><code>tilePartitionId</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12OCMSegmentIdV013tilePartitionC0s5Int32Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-tilePartitionId" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-ocmsegmentid#sdk-for-ios-navigate-s-7heresdk12OCMSegmentIdV013tilePartitionC0s5Int32Vvp" class="token"><code>tilePartitionId</code></a> 
 
   </div>
 
@@ -73,7 +73,7 @@ OCM Segment ID of particular matched <a href="sdk-for-ios-navigate-structs-segme
 
 - <div>
 
-  ` `<span id="/s:7heresdk12OCMSegmentIdV05localC0s5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/localId" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-ocmsegmentid#/s:7heresdk12OCMSegmentIdV05localC0s5Int32Vvp" class="token"><code>localId</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12OCMSegmentIdV05localC0s5Int32Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-localId" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-ocmsegmentid#sdk-for-ios-navigate-s-7heresdk12OCMSegmentIdV05localC0s5Int32Vvp" class="token"><code>localId</code></a> 
 
   </div>
 
@@ -117,7 +117,7 @@ OCM Segment ID of particular matched <a href="sdk-for-ios-navigate-structs-segme
 
 - <div>
 
-      init(tilePartitionId: localId: )
+   <span id="sdk-for-ios-navigate-s-7heresdk12OCMSegmentIdV013tilePartitionC005localC0ACs5Int32V_AGtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-tilePartitionId-localId" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-ocmsegmentid#sdk-for-ios-navigate-s-7heresdk12OCMSegmentIdV013tilePartitionC005localC0ACs5Int32V_AGtcfc" class="token"><code>init(tilePartitionId:</code><wbr></wbr><code>localId:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -148,10 +148,8 @@ OCM Segment ID of particular matched <a href="sdk-for-ios-navigate-structs-segme
   Swift
 
   ``` highlight
-  public init ( tilePartitionId : Int32 = 0 , localId : Int32 = 0 )
+  public init(tilePartitionId: Int32 = 0, localId: Int32 = 0)
   ```
-
-  </pre>
 
   </div>
 

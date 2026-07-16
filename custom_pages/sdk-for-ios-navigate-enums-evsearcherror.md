@@ -27,7 +27,7 @@ Specifies possible errors that <a href="sdk-for-ios-navigate-classes-evsearcheng
 
 - <div>
 
-  ` `<span id="/s:7heresdk13EVSearchErrorO8emptyIdsyA2CmF"></span>` `<span id="//apple_ref/swift/Element/emptyIds" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-evsearcherror#/s:7heresdk13EVSearchErrorO8emptyIdsyA2CmF" class="token"><code>emptyIds</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13EVSearchErrorO8emptyIdsyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-emptyIds" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-evsearcherror#sdk-for-ios-navigate-s-7heresdk13EVSearchErrorO8emptyIdsyA2CmF" class="token"><code>emptyIds</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Specifies possible errors that <a href="sdk-for-ios-navigate-classes-evsearcheng
 
 - <div>
 
-  ` `<span id="/s:7heresdk13EVSearchErrorO9invalidIdyA2CmF"></span>` `<span id="//apple_ref/swift/Element/invalidId" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-evsearcherror#/s:7heresdk13EVSearchErrorO9invalidIdyA2CmF" class="token"><code>invalidId</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13EVSearchErrorO9invalidIdyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-invalidId" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-evsearcherror#sdk-for-ios-navigate-s-7heresdk13EVSearchErrorO9invalidIdyA2CmF" class="token"><code>invalidId</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Specifies possible errors that <a href="sdk-for-ios-navigate-classes-evsearcheng
 
 - <div>
 
-  ` `<span id="/s:7heresdk13EVSearchErrorO10badRequestyA2CmF"></span>` `<span id="//apple_ref/swift/Element/badRequest" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-evsearcherror#/s:7heresdk13EVSearchErrorO10badRequestyA2CmF" class="token"><code>badRequest</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13EVSearchErrorO10badRequestyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-badRequest" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-evsearcherror#sdk-for-ios-navigate-s-7heresdk13EVSearchErrorO10badRequestyA2CmF" class="token"><code>badRequest</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Specifies possible errors that <a href="sdk-for-ios-navigate-classes-evsearcheng
 
 - <div>
 
-  ` `<span id="/s:7heresdk13EVSearchErrorO07parsingC0yA2CmF"></span>` `<span id="//apple_ref/swift/Element/parsingError" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-evsearcherror#/s:7heresdk13EVSearchErrorO07parsingC0yA2CmF" class="token"><code>parsingError</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13EVSearchErrorO07parsingC0yA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-parsingError" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-evsearcherror#sdk-for-ios-navigate-s-7heresdk13EVSearchErrorO07parsingC0yA2CmF" class="token"><code>parsingError</code></a> 
 
   </div>
 
@@ -203,7 +203,7 @@ Specifies possible errors that <a href="sdk-for-ios-navigate-classes-evsearcheng
 
 - <div>
 
-  ` `<span id="/s:7heresdk13EVSearchErrorO08internalC0yA2CmF"></span>` `<span id="//apple_ref/swift/Element/internalError" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-evsearcherror#/s:7heresdk13EVSearchErrorO08internalC0yA2CmF" class="token"><code>internalError</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13EVSearchErrorO08internalC0yA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-internalError" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-evsearcherror#sdk-for-ios-navigate-s-7heresdk13EVSearchErrorO08internalC0yA2CmF" class="token"><code>internalError</code></a> 
 
   </div>
 
@@ -247,7 +247,7 @@ Specifies possible errors that <a href="sdk-for-ios-navigate-classes-evsearcheng
 
 - <div>
 
-  ` `<span id="/s:7heresdk13EVSearchErrorO17serverUnreachableyA2CmF"></span>` `<span id="//apple_ref/swift/Element/serverUnreachable" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-evsearcherror#/s:7heresdk13EVSearchErrorO17serverUnreachableyA2CmF" class="token"><code>serverUnreachable</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13EVSearchErrorO17serverUnreachableyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-serverUnreachable" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-evsearcherror#sdk-for-ios-navigate-s-7heresdk13EVSearchErrorO17serverUnreachableyA2CmF" class="token"><code>serverUnreachable</code></a> 
 
   </div>
 
@@ -291,7 +291,7 @@ Specifies possible errors that <a href="sdk-for-ios-navigate-classes-evsearcheng
 
 - <div>
 
-  ` `<span id="/s:7heresdk13EVSearchErrorO04httpC0yA2CmF"></span>` `<span id="//apple_ref/swift/Element/httpError" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-evsearcherror#/s:7heresdk13EVSearchErrorO04httpC0yA2CmF" class="token"><code>httpError</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13EVSearchErrorO04httpC0yA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-httpError" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-evsearcherror#sdk-for-ios-navigate-s-7heresdk13EVSearchErrorO04httpC0yA2CmF" class="token"><code>httpError</code></a> 
 
   </div>
 
@@ -335,7 +335,7 @@ Specifies possible errors that <a href="sdk-for-ios-navigate-classes-evsearcheng
 
 - <div>
 
-  ` `<span id="/s:7heresdk13EVSearchErrorO20authenticationFailedyA2CmF"></span>` `<span id="//apple_ref/swift/Element/authenticationFailed" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-evsearcherror#/s:7heresdk13EVSearchErrorO20authenticationFailedyA2CmF" class="token"><code>authenticationFailed</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13EVSearchErrorO20authenticationFailedyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-authenticationFailed" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-evsearcherror#sdk-for-ios-navigate-s-7heresdk13EVSearchErrorO20authenticationFailedyA2CmF" class="token"><code>authenticationFailed</code></a> 
 
   </div>
 
@@ -379,7 +379,7 @@ Specifies possible errors that <a href="sdk-for-ios-navigate-classes-evsearcheng
 
 - <div>
 
-  ` `<span id="/s:7heresdk13EVSearchErrorO18exceededUsageLimityA2CmF"></span>` `<span id="//apple_ref/swift/Element/exceededUsageLimit" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-evsearcherror#/s:7heresdk13EVSearchErrorO18exceededUsageLimityA2CmF" class="token"><code>exceededUsageLimit</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13EVSearchErrorO18exceededUsageLimityA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-exceededUsageLimit" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-evsearcherror#sdk-for-ios-navigate-s-7heresdk13EVSearchErrorO18exceededUsageLimityA2CmF" class="token"><code>exceededUsageLimit</code></a> 
 
   </div>
 
@@ -423,7 +423,7 @@ Specifies possible errors that <a href="sdk-for-ios-navigate-classes-evsearcheng
 
 - <div>
 
-  ` `<span id="/s:7heresdk13EVSearchErrorO8timedOutyA2CmF"></span>` `<span id="//apple_ref/swift/Element/timedOut" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-evsearcherror#/s:7heresdk13EVSearchErrorO8timedOutyA2CmF" class="token"><code>timedOut</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13EVSearchErrorO8timedOutyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-timedOut" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-evsearcherror#sdk-for-ios-navigate-s-7heresdk13EVSearchErrorO8timedOutyA2CmF" class="token"><code>timedOut</code></a> 
 
   </div>
 
@@ -467,7 +467,7 @@ Specifies possible errors that <a href="sdk-for-ios-navigate-classes-evsearcheng
 
 - <div>
 
-  ` `<span id="/s:7heresdk13EVSearchErrorO7offlineyA2CmF"></span>` `<span id="//apple_ref/swift/Element/offline" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-evsearcherror#/s:7heresdk13EVSearchErrorO7offlineyA2CmF" class="token"><code>offline</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13EVSearchErrorO7offlineyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-offline" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-evsearcherror#sdk-for-ios-navigate-s-7heresdk13EVSearchErrorO7offlineyA2CmF" class="token"><code>offline</code></a> 
 
   </div>
 
@@ -511,7 +511,7 @@ Specifies possible errors that <a href="sdk-for-ios-navigate-classes-evsearcheng
 
 - <div>
 
-  ` `<span id="/s:7heresdk13EVSearchErrorO18operationCancelledyA2CmF"></span>` `<span id="//apple_ref/swift/Element/operationCancelled" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-evsearcherror#/s:7heresdk13EVSearchErrorO18operationCancelledyA2CmF" class="token"><code>operationCancelled</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13EVSearchErrorO18operationCancelledyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-operationCancelled" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-evsearcherror#sdk-for-ios-navigate-s-7heresdk13EVSearchErrorO18operationCancelledyA2CmF" class="token"><code>operationCancelled</code></a> 
 
   </div>
 
@@ -555,7 +555,7 @@ Specifies possible errors that <a href="sdk-for-ios-navigate-classes-evsearcheng
 
 - <div>
 
-  ` `<span id="/s:7heresdk13EVSearchErrorO25proxyAuthenticationFailedyA2CmF"></span>` `<span id="//apple_ref/swift/Element/proxyAuthenticationFailed" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-evsearcherror#/s:7heresdk13EVSearchErrorO25proxyAuthenticationFailedyA2CmF" class="token"><code>proxyAuthenticationFailed</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13EVSearchErrorO25proxyAuthenticationFailedyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-proxyAuthenticationFailed" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-evsearcherror#sdk-for-ios-navigate-s-7heresdk13EVSearchErrorO25proxyAuthenticationFailedyA2CmF" class="token"><code>proxyAuthenticationFailed</code></a> 
 
   </div>
 
@@ -599,7 +599,7 @@ Specifies possible errors that <a href="sdk-for-ios-navigate-classes-evsearcheng
 
 - <div>
 
-  ` `<span id="/s:7heresdk13EVSearchErrorO22proxyServerUnreachableyA2CmF"></span>` `<span id="//apple_ref/swift/Element/proxyServerUnreachable" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-evsearcherror#/s:7heresdk13EVSearchErrorO22proxyServerUnreachableyA2CmF" class="token"><code>proxyServerUnreachable</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13EVSearchErrorO22proxyServerUnreachableyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-proxyServerUnreachable" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-evsearcherror#sdk-for-ios-navigate-s-7heresdk13EVSearchErrorO22proxyServerUnreachableyA2CmF" class="token"><code>proxyServerUnreachable</code></a> 
 
   </div>
 
@@ -643,7 +643,7 @@ Specifies possible errors that <a href="sdk-for-ios-navigate-classes-evsearcheng
 
 - <div>
 
-  ` `<span id="/s:7heresdk13EVSearchErrorO14noResultsFoundyA2CmF"></span>` `<span id="//apple_ref/swift/Element/noResultsFound" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-evsearcherror#/s:7heresdk13EVSearchErrorO14noResultsFoundyA2CmF" class="token"><code>noResultsFound</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13EVSearchErrorO14noResultsFoundyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-noResultsFound" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-evsearcherror#sdk-for-ios-navigate-s-7heresdk13EVSearchErrorO14noResultsFoundyA2CmF" class="token"><code>noResultsFound</code></a> 
 
   </div>
 
@@ -687,7 +687,7 @@ Specifies possible errors that <a href="sdk-for-ios-navigate-classes-evsearcheng
 
 - <div>
 
-  ` `<span id="/s:7heresdk13EVSearchErrorO15operationFailedyA2CmF"></span>` `<span id="//apple_ref/swift/Element/operationFailed" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-evsearcherror#/s:7heresdk13EVSearchErrorO15operationFailedyA2CmF" class="token"><code>operationFailed</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13EVSearchErrorO15operationFailedyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-operationFailed" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-evsearcherror#sdk-for-ios-navigate-s-7heresdk13EVSearchErrorO15operationFailedyA2CmF" class="token"><code>operationFailed</code></a> 
 
   </div>
 

@@ -27,7 +27,7 @@ Supported types of proxy connection.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13ProxySettingsV0B4TypeO4httpyA2EmF"></span>` `<span id="//apple_ref/swift/Element/http" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-proxysettings-proxytype#/s:7heresdk13ProxySettingsV0B4TypeO4httpyA2EmF" class="token"><code>http</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13ProxySettingsV0B4TypeO4httpyA2EmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-http" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-proxysettings-proxytype#sdk-for-ios-navigate-s-7heresdk13ProxySettingsV0B4TypeO4httpyA2EmF" class="token"><code>http</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Supported types of proxy connection.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13ProxySettingsV0B4TypeO5httpsyA2EmF"></span>` `<span id="//apple_ref/swift/Element/https" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-proxysettings-proxytype#/s:7heresdk13ProxySettingsV0B4TypeO5httpsyA2EmF" class="token"><code>https</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13ProxySettingsV0B4TypeO5httpsyA2EmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-https" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-proxysettings-proxytype#sdk-for-ios-navigate-s-7heresdk13ProxySettingsV0B4TypeO5httpsyA2EmF" class="token"><code>https</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Supported types of proxy connection.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13ProxySettingsV0B4TypeO6socks5yA2EmF"></span>` `<span id="//apple_ref/swift/Element/socks5" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-proxysettings-proxytype#/s:7heresdk13ProxySettingsV0B4TypeO6socks5yA2EmF" class="token"><code>socks5</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13ProxySettingsV0B4TypeO6socks5yA2EmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-socks5" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-proxysettings-proxytype#sdk-for-ios-navigate-s-7heresdk13ProxySettingsV0B4TypeO6socks5yA2EmF" class="token"><code>socks5</code></a> 
 
   </div>
 

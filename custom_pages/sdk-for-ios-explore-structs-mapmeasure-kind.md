@@ -27,7 +27,7 @@ Kinds of measures.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10MapMeasureV4KindO16distanceInMetersyA2EmF"></span>` `<span id="//apple_ref/swift/Element/distanceInMeters" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-mapmeasure-kind#/s:7heresdk10MapMeasureV4KindO16distanceInMetersyA2EmF" class="token"><code>distanceInMeters</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10MapMeasureV4KindO16distanceInMetersyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-distanceInMeters" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-mapmeasure-kind#sdk-for-ios-explore-s-7heresdk10MapMeasureV4KindO16distanceInMetersyA2EmF" class="token"><code>distanceInMeters</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Kinds of measures.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10MapMeasureV4KindO9zoomLevelyA2EmF"></span>` `<span id="//apple_ref/swift/Element/zoomLevel" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-mapmeasure-kind#/s:7heresdk10MapMeasureV4KindO9zoomLevelyA2EmF" class="token"><code>zoomLevel</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10MapMeasureV4KindO9zoomLevelyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-zoomLevel" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-mapmeasure-kind#sdk-for-ios-explore-s-7heresdk10MapMeasureV4KindO9zoomLevelyA2EmF" class="token"><code>zoomLevel</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Kinds of measures.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10MapMeasureV4KindO5scaleyA2EmF"></span>` `<span id="//apple_ref/swift/Element/scale" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-mapmeasure-kind#/s:7heresdk10MapMeasureV4KindO5scaleyA2EmF" class="token"><code>scale</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10MapMeasureV4KindO5scaleyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-scale" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-mapmeasure-kind#sdk-for-ios-explore-s-7heresdk10MapMeasureV4KindO5scaleyA2EmF" class="token"><code>scale</code></a> 
 
   </div>
 

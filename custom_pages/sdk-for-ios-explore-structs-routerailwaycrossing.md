@@ -27,7 +27,7 @@ Contains information about railway crossing.
 
 - <div>
 
-  ` `<span id="/s:7heresdk20RouteRailwayCrossingV4typeAA0bcD4TypeOvp"></span>` `<span id="//apple_ref/swift/Property/type" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-routerailwaycrossing#/s:7heresdk20RouteRailwayCrossingV4typeAA0bcD4TypeOvp" class="token"><code>type</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk20RouteRailwayCrossingV4typeAA0bcD4TypeOvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-type" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-routerailwaycrossing#sdk-for-ios-explore-s-7heresdk20RouteRailwayCrossingV4typeAA0bcD4TypeOvp" class="token"><code>type</code></a> 
 
   </div>
 
@@ -63,6 +63,10 @@ Contains information about railway crossing.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-routerailwaycrossingtype">RouteRailwayCrossingType</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ Contains information about railway crossing.
 
 - <div>
 
-  ` `<span id="/s:7heresdk20RouteRailwayCrossingV11coordinatesAA14GeoCoordinatesVvp"></span>` `<span id="//apple_ref/swift/Property/coordinates" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-routerailwaycrossing#/s:7heresdk20RouteRailwayCrossingV11coordinatesAA14GeoCoordinatesVvp" class="token"><code>coordinates</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk20RouteRailwayCrossingV11coordinatesAA14GeoCoordinatesVvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-coordinates" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-routerailwaycrossing#sdk-for-ios-explore-s-7heresdk20RouteRailwayCrossingV11coordinatesAA14GeoCoordinatesVvp" class="token"><code>coordinates</code></a> 
 
   </div>
 
@@ -107,6 +111,10 @@ Contains information about railway crossing.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geocoordinates">GeoCoordinates</a>
+
   </div>
 
   </div>
@@ -115,7 +123,7 @@ Contains information about railway crossing.
 
 - <div>
 
-  ` `<span id="/s:7heresdk20RouteRailwayCrossingV11routeOffsetAA0bF0Vvp"></span>` `<span id="//apple_ref/swift/Property/routeOffset" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-routerailwaycrossing#/s:7heresdk20RouteRailwayCrossingV11routeOffsetAA0bF0Vvp" class="token"><code>routeOffset</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk20RouteRailwayCrossingV11routeOffsetAA0bF0Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-routeOffset" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-routerailwaycrossing#sdk-for-ios-explore-s-7heresdk20RouteRailwayCrossingV11routeOffsetAA0bF0Vvp" class="token"><code>routeOffset</code></a> 
 
   </div>
 
@@ -151,6 +159,10 @@ Contains information about railway crossing.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-routeoffset">RouteOffset</a>
+
   </div>
 
   </div>
@@ -159,7 +171,7 @@ Contains information about railway crossing.
 
 - <div>
 
-      init(type: coordinates: routeOffset: )
+   <span id="sdk-for-ios-explore-s-7heresdk20RouteRailwayCrossingV4type11coordinates11routeOffsetAcA0bcD4TypeO_AA14GeoCoordinatesVAA0bH0Vtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-type-coordinates-routeOffset" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-routerailwaycrossing#sdk-for-ios-explore-s-7heresdk20RouteRailwayCrossingV4type11coordinates11routeOffsetAcA0bcD4TypeO_AA14GeoCoordinatesVAA0bH0Vtcfc" class="token"><code>init(type:</code><wbr></wbr><code>coordinates:</code><wbr></wbr><code>routeOffset:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -190,12 +202,16 @@ Contains information about railway crossing.
   Swift
 
   ``` highlight
-  public init ( type : RouteRailwayCrossingType , coordinates : GeoCoordinates , routeOffset : RouteOffset )
+  public init(type: RouteRailwayCrossingType, coordinates: GeoCoordinates, routeOffset: RouteOffset)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-routerailwaycrossingtype">RouteRailwayCrossingType</a>
+  - <a href="sdk-for-ios-explore-structs-geocoordinates">GeoCoordinates</a>
+  - <a href="sdk-for-ios-explore-structs-routeoffset">RouteOffset</a>
 
   </div>
 

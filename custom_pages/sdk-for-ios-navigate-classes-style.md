@@ -37,7 +37,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      update(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk5StyleC6updateyyACF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-update-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-style#sdk-for-ios-navigate-s-7heresdk5StyleC6updateyyACF" class="token"><code>update(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -68,10 +68,8 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func update ( _ style : Style )
+  public func update(_ style: Style)
   ```
-
-  </pre>
 
   </div>
 

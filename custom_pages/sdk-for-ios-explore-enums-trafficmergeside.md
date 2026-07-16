@@ -27,7 +27,7 @@ The side from where the merging traffic is joining with the current highway.
 
 - <div>
 
-  ` `<span id="/s:7heresdk16TrafficMergeSideO7unknownyA2CmF"></span>` `<span id="//apple_ref/swift/Element/unknown" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-trafficmergeside#/s:7heresdk16TrafficMergeSideO7unknownyA2CmF" class="token"><code>unknown</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16TrafficMergeSideO7unknownyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-unknown" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-trafficmergeside#sdk-for-ios-explore-s-7heresdk16TrafficMergeSideO7unknownyA2CmF" class="token"><code>unknown</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ The side from where the merging traffic is joining with the current highway.
 
 - <div>
 
-  ` `<span id="/s:7heresdk16TrafficMergeSideO4leftyA2CmF"></span>` `<span id="//apple_ref/swift/Element/left" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-trafficmergeside#/s:7heresdk16TrafficMergeSideO4leftyA2CmF" class="token"><code>left</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16TrafficMergeSideO4leftyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-left" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-trafficmergeside#sdk-for-ios-explore-s-7heresdk16TrafficMergeSideO4leftyA2CmF" class="token"><code>left</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ The side from where the merging traffic is joining with the current highway.
 
 - <div>
 
-  ` `<span id="/s:7heresdk16TrafficMergeSideO5rightyA2CmF"></span>` `<span id="//apple_ref/swift/Element/right" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-trafficmergeside#/s:7heresdk16TrafficMergeSideO5rightyA2CmF" class="token"><code>right</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16TrafficMergeSideO5rightyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-right" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-trafficmergeside#sdk-for-ios-explore-s-7heresdk16TrafficMergeSideO5rightyA2CmF" class="token"><code>right</code></a> 
 
   </div>
 

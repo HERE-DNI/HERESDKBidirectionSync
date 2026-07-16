@@ -23,6 +23,10 @@ extension SpeedBasedCameraBehavior: Hashable
 
 </div>
 
+Related types:
+
+- <a href="sdk-for-ios-navigate-protocols-camerabehavior">CameraBehavior</a>
+
 </div>
 
 Use this class to follow the current location of the user, zooming in and out and changing camera tilt according to the current speed.
@@ -35,7 +39,7 @@ Use this class to follow the current location of the user, zooming in and out an
 
 - <div>
 
-      init()
+   <span id="sdk-for-ios-navigate-s-7heresdk24SpeedBasedCameraBehaviorCACycfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-speedbasedcamerabehavior#sdk-for-ios-navigate-s-7heresdk24SpeedBasedCameraBehaviorCACycfc" class="token"><code>init()</code></a> 
 
   </div>
 
@@ -66,10 +70,8 @@ Use this class to follow the current location of the user, zooming in and out an
   Swift
 
   ``` highlight
-  public init ()
+  public init()
   ```
-
-  </pre>
 
   </div>
 
@@ -81,7 +83,7 @@ Use this class to follow the current location of the user, zooming in and out an
 
 - <div>
 
-  ` `<span id="/s:7heresdk24SpeedBasedCameraBehaviorC24normalizedPrincipalPointAA8Anchor2DVvp"></span>` `<span id="//apple_ref/swift/Property/normalizedPrincipalPoint" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-speedbasedcamerabehavior#/s:7heresdk24SpeedBasedCameraBehaviorC24normalizedPrincipalPointAA8Anchor2DVvp" class="token"><code>normalizedPrincipalPoint</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk24SpeedBasedCameraBehaviorC24normalizedPrincipalPointAA8Anchor2DVvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-normalizedPrincipalPoint" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-speedbasedcamerabehavior#sdk-for-ios-navigate-s-7heresdk24SpeedBasedCameraBehaviorC24normalizedPrincipalPointAA8Anchor2DVvp" class="token"><code>normalizedPrincipalPoint</code></a> 
 
   </div>
 
@@ -117,6 +119,10 @@ Use this class to follow the current location of the user, zooming in and out an
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-anchor2d">Anchor2D</a>
+
   </div>
 
   </div>
@@ -125,7 +131,7 @@ Use this class to follow the current location of the user, zooming in and out an
 
 - <div>
 
-  ` `<span id="/s:7heresdk24SpeedBasedCameraBehaviorC12ProfileValueV"></span>` `<span id="//apple_ref/swift/Struct/ProfileValue" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-speedbasedcamerabehavior#/s:7heresdk24SpeedBasedCameraBehaviorC12ProfileValueV" class="token"><code>ProfileValue</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk24SpeedBasedCameraBehaviorC12ProfileValueV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-ProfileValue" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-speedbasedcamerabehavior#sdk-for-ios-navigate-s-7heresdk24SpeedBasedCameraBehaviorC12ProfileValueV" class="token"><code>ProfileValue</code></a> 
 
   </div>
 
@@ -171,7 +177,7 @@ Use this class to follow the current location of the user, zooming in and out an
 
 - <div>
 
-      setProfile(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk24SpeedBasedCameraBehaviorC10setProfileyySayAC0G5ValueVGF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-setProfile-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-speedbasedcamerabehavior#sdk-for-ios-navigate-s-7heresdk24SpeedBasedCameraBehaviorC10setProfileyySayAC0G5ValueVGF" class="token"><code>setProfile(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -207,12 +213,14 @@ Use this class to follow the current location of the user, zooming in and out an
   Swift
 
   ``` highlight
-  public func setProfile ( _ profile : [ SpeedBasedCameraBehavior . ProfileValue ])
+  public func setProfile(_ profile: [SpeedBasedCameraBehavior.ProfileValue])
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-speedbasedcamerabehavior-profilevalue">ProfileValue</a>
 
   </div>
 
@@ -243,7 +251,7 @@ Use this class to follow the current location of the user, zooming in and out an
 
 - <div>
 
-      getProfile()
+   <span id="sdk-for-ios-navigate-s-7heresdk24SpeedBasedCameraBehaviorC10getProfileSayAC0G5ValueVGyF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-getProfile" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-speedbasedcamerabehavior#sdk-for-ios-navigate-s-7heresdk24SpeedBasedCameraBehaviorC10getProfileSayAC0G5ValueVGyF" class="token"><code>getProfile()</code></a> 
 
   </div>
 
@@ -274,12 +282,14 @@ Use this class to follow the current location of the user, zooming in and out an
   Swift
 
   ``` highlight
-  public func getProfile () -> [ SpeedBasedCameraBehavior . ProfileValue ]
+  public func getProfile() -> [SpeedBasedCameraBehavior.ProfileValue]
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-speedbasedcamerabehavior-profilevalue">ProfileValue</a>
 
   </div>
 
@@ -297,7 +307,7 @@ Use this class to follow the current location of the user, zooming in and out an
 
 - <div>
 
-      default3DProfile()
+   <span id="sdk-for-ios-navigate-s-7heresdk24SpeedBasedCameraBehaviorC16default3DProfileSayAC12ProfileValueVGyFZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-default3DProfile" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-speedbasedcamerabehavior#sdk-for-ios-navigate-s-7heresdk24SpeedBasedCameraBehaviorC16default3DProfileSayAC12ProfileValueVGyFZ" class="token"><code>default3DProfile()</code></a> 
 
   </div>
 
@@ -326,12 +336,14 @@ Use this class to follow the current location of the user, zooming in and out an
   Swift
 
   ``` highlight
-  public static func default3DProfile () -> [ SpeedBasedCameraBehavior . ProfileValue ]
+  public static func default3DProfile() -> [SpeedBasedCameraBehavior.ProfileValue]
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-speedbasedcamerabehavior-profilevalue">ProfileValue</a>
 
   </div>
 
@@ -349,7 +361,7 @@ Use this class to follow the current location of the user, zooming in and out an
 
 - <div>
 
-      default2DProfile()
+   <span id="sdk-for-ios-navigate-s-7heresdk24SpeedBasedCameraBehaviorC16default2DProfileSayAC12ProfileValueVGyFZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-default2DProfile" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-speedbasedcamerabehavior#sdk-for-ios-navigate-s-7heresdk24SpeedBasedCameraBehaviorC16default2DProfileSayAC12ProfileValueVGyFZ" class="token"><code>default2DProfile()</code></a> 
 
   </div>
 
@@ -378,12 +390,14 @@ Use this class to follow the current location of the user, zooming in and out an
   Swift
 
   ``` highlight
-  public static func default2DProfile () -> [ SpeedBasedCameraBehavior . ProfileValue ]
+  public static func default2DProfile() -> [SpeedBasedCameraBehavior.ProfileValue]
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-speedbasedcamerabehavior-profilevalue">ProfileValue</a>
 
   </div>
 

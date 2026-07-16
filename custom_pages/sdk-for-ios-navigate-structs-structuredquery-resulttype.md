@@ -27,7 +27,7 @@ Specifies expected result type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15StructuredQueryV10ResultTypeO7countryyA2EmF"></span>` `<span id="//apple_ref/swift/Element/country" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-structuredquery-resulttype#/s:7heresdk15StructuredQueryV10ResultTypeO7countryyA2EmF" class="token"><code>country</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15StructuredQueryV10ResultTypeO7countryyA2EmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-country" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-structuredquery-resulttype#sdk-for-ios-navigate-s-7heresdk15StructuredQueryV10ResultTypeO7countryyA2EmF" class="token"><code>country</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Specifies expected result type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15StructuredQueryV10ResultTypeO4cityyA2EmF"></span>` `<span id="//apple_ref/swift/Element/city" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-structuredquery-resulttype#/s:7heresdk15StructuredQueryV10ResultTypeO4cityyA2EmF" class="token"><code>city</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15StructuredQueryV10ResultTypeO4cityyA2EmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-city" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-structuredquery-resulttype#sdk-for-ios-navigate-s-7heresdk15StructuredQueryV10ResultTypeO4cityyA2EmF" class="token"><code>city</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Specifies expected result type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15StructuredQueryV10ResultTypeO10postalCodeyA2EmF"></span>` `<span id="//apple_ref/swift/Element/postalCode" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-structuredquery-resulttype#/s:7heresdk15StructuredQueryV10ResultTypeO10postalCodeyA2EmF" class="token"><code>postalCode</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15StructuredQueryV10ResultTypeO10postalCodeyA2EmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-postalCode" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-structuredquery-resulttype#sdk-for-ios-navigate-s-7heresdk15StructuredQueryV10ResultTypeO10postalCodeyA2EmF" class="token"><code>postalCode</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Specifies expected result type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15StructuredQueryV10ResultTypeO8districtyA2EmF"></span>` `<span id="//apple_ref/swift/Element/district" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-structuredquery-resulttype#/s:7heresdk15StructuredQueryV10ResultTypeO8districtyA2EmF" class="token"><code>district</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15StructuredQueryV10ResultTypeO8districtyA2EmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-district" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-structuredquery-resulttype#sdk-for-ios-navigate-s-7heresdk15StructuredQueryV10ResultTypeO8districtyA2EmF" class="token"><code>district</code></a> 
 
   </div>
 
@@ -203,7 +203,7 @@ Specifies expected result type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15StructuredQueryV10ResultTypeO6streetyA2EmF"></span>` `<span id="//apple_ref/swift/Element/street" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-structuredquery-resulttype#/s:7heresdk15StructuredQueryV10ResultTypeO6streetyA2EmF" class="token"><code>street</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15StructuredQueryV10ResultTypeO6streetyA2EmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-street" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-structuredquery-resulttype#sdk-for-ios-navigate-s-7heresdk15StructuredQueryV10ResultTypeO6streetyA2EmF" class="token"><code>street</code></a> 
 
   </div>
 

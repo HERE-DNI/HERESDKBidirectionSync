@@ -31,7 +31,7 @@ Lane Divider Marker indicates the lane separator on the right side of the specif
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LaneMarkingsV19centerDividerMarkerAA0eF0OSgvp"></span>` `<span id="//apple_ref/swift/Property/centerDividerMarker" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-lanemarkings#/s:7heresdk12LaneMarkingsV19centerDividerMarkerAA0eF0OSgvp" class="token"><code>centerDividerMarker</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LaneMarkingsV19centerDividerMarkerAA0eF0OSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-centerDividerMarker" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-lanemarkings#sdk-for-ios-explore-s-7heresdk12LaneMarkingsV19centerDividerMarkerAA0eF0OSgvp" class="token"><code>centerDividerMarker</code></a> 
 
   </div>
 
@@ -67,6 +67,10 @@ Lane Divider Marker indicates the lane separator on the right side of the specif
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-dividermarker">DividerMarker</a>
+
   </div>
 
   </div>
@@ -75,7 +79,7 @@ Lane Divider Marker indicates the lane separator on the right side of the specif
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LaneMarkingsV17laneDividerMarkerAA0eF0OSgvp"></span>` `<span id="//apple_ref/swift/Property/laneDividerMarker" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-lanemarkings#/s:7heresdk12LaneMarkingsV17laneDividerMarkerAA0eF0OSgvp" class="token"><code>laneDividerMarker</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LaneMarkingsV17laneDividerMarkerAA0eF0OSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-laneDividerMarker" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-lanemarkings#sdk-for-ios-explore-s-7heresdk12LaneMarkingsV17laneDividerMarkerAA0eF0OSgvp" class="token"><code>laneDividerMarker</code></a> 
 
   </div>
 
@@ -111,6 +115,10 @@ Lane Divider Marker indicates the lane separator on the right side of the specif
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-dividermarker">DividerMarker</a>
+
   </div>
 
   </div>
@@ -119,7 +127,7 @@ Lane Divider Marker indicates the lane separator on the right side of the specif
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LaneMarkingsV10directionsSayAA0B9DirectionOGvp"></span>` `<span id="//apple_ref/swift/Property/directions" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-lanemarkings#/s:7heresdk12LaneMarkingsV10directionsSayAA0B9DirectionOGvp" class="token"><code>directions</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LaneMarkingsV10directionsSayAA0B9DirectionOGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-directions" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-lanemarkings#sdk-for-ios-explore-s-7heresdk12LaneMarkingsV10directionsSayAA0B9DirectionOGvp" class="token"><code>directions</code></a> 
 
   </div>
 
@@ -155,6 +163,10 @@ Lane Divider Marker indicates the lane separator on the right side of the specif
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-lanedirection">LaneDirection</a>
+
   </div>
 
   </div>
@@ -163,7 +175,7 @@ Lane Divider Marker indicates the lane separator on the right side of the specif
 
 - <div>
 
-      init(centerDividerMarker: laneDividerMarker: directions: )
+   <span id="sdk-for-ios-explore-s-7heresdk12LaneMarkingsV19centerDividerMarker04laneeF010directionsAcA0eF0OSg_AISayAA0B9DirectionOGtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-centerDividerMarker-laneDividerMarker-directions" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-lanemarkings#sdk-for-ios-explore-s-7heresdk12LaneMarkingsV19centerDividerMarker04laneeF010directionsAcA0eF0OSg_AISayAA0B9DirectionOGtcfc" class="token"><code>init(centerDividerMarker:</code><wbr></wbr><code>laneDividerMarker:</code><wbr></wbr><code>directions:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -194,12 +206,15 @@ Lane Divider Marker indicates the lane separator on the right side of the specif
   Swift
 
   ``` highlight
-  public init ( centerDividerMarker : DividerMarker ? = nil , laneDividerMarker : DividerMarker ? = nil , directions : [ LaneDirection ] = [])
+  public init(centerDividerMarker: DividerMarker? = nil, laneDividerMarker: DividerMarker? = nil, directions: [LaneDirection] = [])
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-dividermarker">DividerMarker</a>
+  - <a href="sdk-for-ios-explore-enums-lanedirection">LaneDirection</a>
 
   </div>
 

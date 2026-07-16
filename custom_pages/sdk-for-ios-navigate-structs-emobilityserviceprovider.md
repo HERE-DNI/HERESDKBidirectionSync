@@ -27,7 +27,7 @@ eMSP (e-Mobility Service Provider) for which the EV station operator has EV roam
 
 - <div>
 
-  ` `<span id="/s:7heresdk24EMobilityServiceProviderV4nameSSSgvp"></span>` `<span id="//apple_ref/swift/Property/name" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-emobilityserviceprovider#/s:7heresdk24EMobilityServiceProviderV4nameSSSgvp" class="token"><code>name</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk24EMobilityServiceProviderV4nameSSSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-name" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-emobilityserviceprovider#sdk-for-ios-navigate-s-7heresdk24EMobilityServiceProviderV4nameSSSgvp" class="token"><code>name</code></a> 
 
   </div>
 
@@ -45,7 +45,7 @@ eMSP (e-Mobility Service Provider) for which the EV station operator has EV roam
 
   <div class="abstract">
 
-  The name of the e-Mobility Service Provider. It may change but the respective <a href="sdk-for-ios-navigate-structs-emobilityserviceprovider#/s:7heresdk24EMobilityServiceProviderV9partnerIdSSSgvp">`partnerId`</a> will remain stable.
+  The name of the e-Mobility Service Provider. It may change but the respective <a href="sdk-for-ios-navigate-structs-emobilityserviceprovider#sdk-for-ios-navigate-s-7heresdk24EMobilityServiceProviderV9partnerIdSSSgvp">`partnerId`</a> will remain stable.
 
   </div>
 
@@ -71,7 +71,7 @@ eMSP (e-Mobility Service Provider) for which the EV station operator has EV roam
 
 - <div>
 
-  ` `<span id="/s:7heresdk24EMobilityServiceProviderV9partnerIdSSSgvp"></span>` `<span id="//apple_ref/swift/Property/partnerId" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-emobilityserviceprovider#/s:7heresdk24EMobilityServiceProviderV9partnerIdSSSgvp" class="token"><code>partnerId</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk24EMobilityServiceProviderV9partnerIdSSSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-partnerId" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-emobilityserviceprovider#sdk-for-ios-navigate-s-7heresdk24EMobilityServiceProviderV9partnerIdSSSgvp" class="token"><code>partnerId</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ eMSP (e-Mobility Service Provider) for which the EV station operator has EV roam
 
 - <div>
 
-      init(name: partnerId: )
+   <span id="sdk-for-ios-navigate-s-7heresdk24EMobilityServiceProviderV4name9partnerIdACSSSg_AFtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-name-partnerId" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-emobilityserviceprovider#sdk-for-ios-navigate-s-7heresdk24EMobilityServiceProviderV4name9partnerIdACSSSg_AFtcfc" class="token"><code>init(name:</code><wbr></wbr><code>partnerId:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -146,10 +146,8 @@ eMSP (e-Mobility Service Provider) for which the EV station operator has EV roam
   Swift
 
   ``` highlight
-  public init ( name : String ? = nil , partnerId : String ? = nil )
+  public init(name: String? = nil, partnerId: String? = nil)
   ```
-
-  </pre>
 
   </div>
 

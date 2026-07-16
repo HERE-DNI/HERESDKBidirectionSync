@@ -29,7 +29,7 @@ Represents a single electronic horizon path.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21ElectronicHorizonPathV06parentD5Indexs5Int32VSgvp"></span>` `<span id="//apple_ref/swift/Property/parentPathIndex" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-electronichorizonpath#/s:7heresdk21ElectronicHorizonPathV06parentD5Indexs5Int32VSgvp" class="token"><code>parentPathIndex</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21ElectronicHorizonPathV06parentD5Indexs5Int32VSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-parentPathIndex" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-electronichorizonpath#sdk-for-ios-navigate-s-7heresdk21ElectronicHorizonPathV06parentD5Indexs5Int32VSgvp" class="token"><code>parentPathIndex</code></a> 
 
   </div>
 
@@ -73,7 +73,7 @@ Represents a single electronic horizon path.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21ElectronicHorizonPathV18parentSegmentIndexs5Int32VSgvp"></span>` `<span id="//apple_ref/swift/Property/parentSegmentIndex" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-electronichorizonpath#/s:7heresdk21ElectronicHorizonPathV18parentSegmentIndexs5Int32VSgvp" class="token"><code>parentSegmentIndex</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21ElectronicHorizonPathV18parentSegmentIndexs5Int32VSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-parentSegmentIndex" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-electronichorizonpath#sdk-for-ios-navigate-s-7heresdk21ElectronicHorizonPathV18parentSegmentIndexs5Int32VSgvp" class="token"><code>parentSegmentIndex</code></a> 
 
   </div>
 
@@ -117,7 +117,7 @@ Represents a single electronic horizon path.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21ElectronicHorizonPathV8segmentsSayAA0bC7SegmentVGvp"></span>` `<span id="//apple_ref/swift/Property/segments" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-electronichorizonpath#/s:7heresdk21ElectronicHorizonPathV8segmentsSayAA0bC7SegmentVGvp" class="token"><code>segments</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21ElectronicHorizonPathV8segmentsSayAA0bC7SegmentVGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-segments" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-electronichorizonpath#sdk-for-ios-navigate-s-7heresdk21ElectronicHorizonPathV8segmentsSayAA0bC7SegmentVGvp" class="token"><code>segments</code></a> 
 
   </div>
 
@@ -153,6 +153,10 @@ Represents a single electronic horizon path.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-electronichorizonsegment">ElectronicHorizonSegment</a>
+
   </div>
 
   </div>
@@ -161,7 +165,7 @@ Represents a single electronic horizon path.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21ElectronicHorizonPathV11probabilitySdvp"></span>` `<span id="//apple_ref/swift/Property/probability" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-electronichorizonpath#/s:7heresdk21ElectronicHorizonPathV11probabilitySdvp" class="token"><code>probability</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21ElectronicHorizonPathV11probabilitySdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-probability" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-electronichorizonpath#sdk-for-ios-navigate-s-7heresdk21ElectronicHorizonPathV11probabilitySdvp" class="token"><code>probability</code></a> 
 
   </div>
 
@@ -205,7 +209,7 @@ Represents a single electronic horizon path.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21ElectronicHorizonPathV5levels5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/level" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-electronichorizonpath#/s:7heresdk21ElectronicHorizonPathV5levels5Int32Vvp" class="token"><code>level</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21ElectronicHorizonPathV5levels5Int32Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-level" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-electronichorizonpath#sdk-for-ios-navigate-s-7heresdk21ElectronicHorizonPathV5levels5Int32Vvp" class="token"><code>level</code></a> 
 
   </div>
 
@@ -249,7 +253,7 @@ Represents a single electronic horizon path.
 
 - <div>
 
-      init(parentPathIndex: parentSegmentIndex: segments: probability: level: )
+   <span id="sdk-for-ios-navigate-s-7heresdk21ElectronicHorizonPathV06parentD5Index0e7SegmentF08segments11probability5levelACs5Int32VSg_AKSayAA0bcG0VGSdAJtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-parentPathIndex-parentSegmentIndex-segments-probability-level" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-electronichorizonpath#sdk-for-ios-navigate-s-7heresdk21ElectronicHorizonPathV06parentD5Index0e7SegmentF08segments11probability5levelACs5Int32VSg_AKSayAA0bcG0VGSdAJtcfc" class="token"><code>init(parentPathIndex:</code><wbr></wbr><code>parentSegmentIndex:</code><wbr></wbr><code>segments:</code><wbr></wbr><code>probability:</code><wbr></wbr><code>level:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -282,12 +286,14 @@ Represents a single electronic horizon path.
   Swift
 
   ``` highlight
-  public init ( parentPathIndex : Int32 ? = nil , parentSegmentIndex : Int32 ? = nil , segments : [ ElectronicHorizonSegment ], probability : Double , level : Int32 )
+  public init(parentPathIndex: Int32? = nil, parentSegmentIndex: Int32? = nil, segments: [ElectronicHorizonSegment], probability: Double, level: Int32)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-electronichorizonsegment">ElectronicHorizonSegment</a>
 
   </div>
 

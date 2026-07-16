@@ -23,22 +23,13 @@ extension VisualNavigator: Hashable
 
 </div>
 
+Related types:
+
+- <a href="sdk-for-ios-explore-protocols-navigatorprotocol">NavigatorProtocol</a>
+
 </div>
 
-This class provides all functionality of <a href="sdk-for-ios-explore-protocols-navigatorprotocol">`NavigatorProtocol`</a>. In addition, it provides advanced rendering capabilities for a smooth navigation experience. This includes interpolation of location updates along a route during turn-by-turn navigation and during tracking mode. By default, suitable map view settings are automatically applied. For example, a predefined current location marker is rendered. Similar to <a href="sdk-for-ios-explore-classes-navigator">`Navigator`</a>, this class continuously reacts to new locations provided from a location source and acts as a <a href="sdk-for-ios-explore-protocols-locationdelegate">`LocationDelegate`</a>. Note that the VisualNavigator takes control of the MapView’s (maximum) frame rate when rendering, i.e., between
-
-    VisualNavigator.startRendering(...)
-
-and
-
-    VisualNavigator.stopRendering(...)
-
-calls. It overwrites the MapView’s frame rate when some camera behavior is set using the <a href="sdk-for-ios-explore-classes-visualnavigator#/s:7heresdk15VisualNavigatorC17guidanceFrameRates5Int32Vvp">`VisualNavigator.guidanceFrameRate`</a>. When no camera behavior is preset, the original MapView’s frame rate (the value prior to the
-
-    VisualNavigator.startRendering(...)
-
-call) will be used. While the VisualNavigator is rendering, direct changes in the MapView’s frame rate can lead to unexpected behavior and therefore should be avoided.
-</p>
+This class provides all functionality of <a href="sdk-for-ios-explore-protocols-navigatorprotocol">`NavigatorProtocol`</a>. In addition, it provides advanced rendering capabilities for a smooth navigation experience. This includes interpolation of location updates along a route during turn-by-turn navigation and during tracking mode. By default, suitable map view settings are automatically applied. For example, a predefined current location marker is rendered. Similar to <a href="sdk-for-ios-explore-classes-navigator">`Navigator`</a>, this class continuously reacts to new locations provided from a location source and acts as a <a href="sdk-for-ios-explore-protocols-locationdelegate">`LocationDelegate`</a>. Note that the VisualNavigator takes control of the MapView’s (maximum) frame rate when rendering, i.e., between <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC14startRendering7mapViewyAA03MapG4Base_p_tF">`VisualNavigator.startRendering(...)`</a> and <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC13stopRenderingyyF">`VisualNavigator.stopRendering(...)`</a> calls. It overwrites the MapView’s frame rate when some camera behavior is set using the <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC17guidanceFrameRates5Int32Vvp">`VisualNavigator.guidanceFrameRate`</a>. When no camera behavior is preset, the original MapView’s frame rate (the value prior to the <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC14startRendering7mapViewyAA03MapG4Base_p_tF">`VisualNavigator.startRendering(...)`</a> call) will be used. While the VisualNavigator is rendering, direct changes in the MapView’s frame rate can lead to unexpected behavior and therefore should be avoided.
 
 </div>
 
@@ -48,7 +39,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
 - <div>
 
-      init()
+   <span id="sdk-for-ios-explore-s-7heresdk15VisualNavigatorCACyKcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorCACyKcfc" class="token"><code>init()</code></a> 
 
   </div>
 
@@ -72,7 +63,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
   Throws
 
-  <a href="sdk-for-ios-explore-core#/s:7heresdk18InstantiationErrora">`InstantiationError`</a> <a href="sdk-for-ios-explore-core#/s:7heresdk18InstantiationErrora">`InstantiationError`</a> when operation fails.
+  <a href="sdk-for-ios-explore-core#sdk-for-ios-explore-s-7heresdk18InstantiationErrora">`InstantiationError`</a> <a href="sdk-for-ios-explore-core#sdk-for-ios-explore-s-7heresdk18InstantiationErrora">`InstantiationError`</a> when operation fails.
 
   </div>
 
@@ -87,10 +78,8 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
   Swift
 
   ``` highlight
-  public init () throws
+  public init() throws
   ```
-
-  </pre>
 
   </div>
 
@@ -102,7 +91,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
 - <div>
 
-      init(sdkEngine: )
+   <span id="sdk-for-ios-explore-s-7heresdk15VisualNavigatorC9sdkEngineAcA09SDKNativeE0C_tKcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-sdkEngine" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC9sdkEngineAcA09SDKNativeE0C_tKcfc" class="token"><code>init(sdkEngine:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -126,7 +115,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
   Throws
 
-  <a href="sdk-for-ios-explore-core#/s:7heresdk18InstantiationErrora">`InstantiationError`</a> <a href="sdk-for-ios-explore-core#/s:7heresdk18InstantiationErrora">`InstantiationError`</a> when operation fails.
+  <a href="sdk-for-ios-explore-core#sdk-for-ios-explore-s-7heresdk18InstantiationErrora">`InstantiationError`</a> <a href="sdk-for-ios-explore-core#sdk-for-ios-explore-s-7heresdk18InstantiationErrora">`InstantiationError`</a> when operation fails.
 
   </div>
 
@@ -141,12 +130,14 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
   Swift
 
   ``` highlight
-  public init ( sdkEngine : SDKNativeEngine ) throws
+  public init(sdkEngine: SDKNativeEngine) throws
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-sdknativeengine">SDKNativeEngine</a>
 
   </div>
 
@@ -177,7 +168,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
 - <div>
 
-      init(navigator: )
+   <span id="sdk-for-ios-explore-s-7heresdk15VisualNavigatorC9navigatorAcA0C8Protocol_p_tKcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-navigator" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC9navigatorAcA0C8Protocol_p_tKcfc" class="token"><code>init(navigator:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -205,7 +196,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
   Throws
 
-  <a href="sdk-for-ios-explore-core#/s:7heresdk18InstantiationErrora">`InstantiationError`</a> <a href="sdk-for-ios-explore-core#/s:7heresdk18InstantiationErrora">`InstantiationError`</a> when operation fails.
+  <a href="sdk-for-ios-explore-core#sdk-for-ios-explore-s-7heresdk18InstantiationErrora">`InstantiationError`</a> <a href="sdk-for-ios-explore-core#sdk-for-ios-explore-s-7heresdk18InstantiationErrora">`InstantiationError`</a> when operation fails.
 
   </div>
 
@@ -220,12 +211,14 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
   Swift
 
   ``` highlight
-  public init ( navigator : NavigatorProtocol ) throws
+  public init(navigator: NavigatorProtocol) throws
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-protocols-navigatorprotocol">NavigatorProtocol</a>
 
   </div>
 
@@ -256,7 +249,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
 - <div>
 
-      init(sdkEngine: navigator: )
+   <span id="sdk-for-ios-explore-s-7heresdk15VisualNavigatorC9sdkEngine9navigatorAcA09SDKNativeE0C_AA0C8Protocol_ptKcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-sdkEngine-navigator" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC9sdkEngine9navigatorAcA09SDKNativeE0C_AA0C8Protocol_ptKcfc" class="token"><code>init(sdkEngine:</code><wbr></wbr><code>navigator:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -282,7 +275,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
   Throws
 
-  <a href="sdk-for-ios-explore-core#/s:7heresdk18InstantiationErrora">`InstantiationError`</a> <a href="sdk-for-ios-explore-core#/s:7heresdk18InstantiationErrora">`InstantiationError`</a> when operation fails.
+  <a href="sdk-for-ios-explore-core#sdk-for-ios-explore-s-7heresdk18InstantiationErrora">`InstantiationError`</a> <a href="sdk-for-ios-explore-core#sdk-for-ios-explore-s-7heresdk18InstantiationErrora">`InstantiationError`</a> when operation fails.
 
   </div>
 
@@ -297,12 +290,15 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
   Swift
 
   ``` highlight
-  public init ( sdkEngine : SDKNativeEngine , navigator : NavigatorProtocol ) throws
+  public init(sdkEngine: SDKNativeEngine, navigator: NavigatorProtocol) throws
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-sdknativeengine">SDKNativeEngine</a>
+  - <a href="sdk-for-ios-explore-protocols-navigatorprotocol">NavigatorProtocol</a>
 
   </div>
 
@@ -339,7 +335,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
 - <div>
 
-  ` `<span id="/s:7heresdk15VisualNavigatorC5routeAA5RouteCSgvp"></span>` `<span id="//apple_ref/swift/Property/route" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-visualnavigator#/s:7heresdk15VisualNavigatorC5routeAA5RouteCSgvp" class="token"><code>route</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15VisualNavigatorC5routeAA5RouteCSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-route" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC5routeAA5RouteCSgvp" class="token"><code>route</code></a> 
 
   </div>
 
@@ -375,6 +371,10 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-route">Route</a>
+
   </div>
 
   </div>
@@ -383,7 +383,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
 - <div>
 
-  ` `<span id="/s:7heresdk15VisualNavigatorC24trackingTransportProfileAA0eF0VSgvp"></span>` `<span id="//apple_ref/swift/Property/trackingTransportProfile" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-visualnavigator#/s:7heresdk15VisualNavigatorC24trackingTransportProfileAA0eF0VSgvp" class="token"><code>trackingTransportProfile</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15VisualNavigatorC24trackingTransportProfileAA0eF0VSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-trackingTransportProfile" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC24trackingTransportProfileAA0eF0VSgvp" class="token"><code>trackingTransportProfile</code></a> 
 
   </div>
 
@@ -401,7 +401,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
   <div class="abstract">
 
-  Properly setting the transport profile optimizes the navigation experience, and improves resource consumption. For example, a <a href="sdk-for-ios-explore-structs-transportprofile">`TransportProfile`</a> can be defined with a <a href="sdk-for-ios-explore-structs-vehicleprofile">`VehicleProfile`</a>. A vehicle profile can have several parameters such as <a href="sdk-for-ios-explore-enums-vehicletype">`VehicleType`</a> to set the source of information describing the vehicle. The default is a <a href="sdk-for-ios-explore-enums-vehicletype#/s:7heresdk11VehicleTypeO3caryA2CmF">`VehicleType.car`</a> profile.
+  Properly setting the transport profile optimizes the navigation experience, and improves resource consumption. For example, a <a href="sdk-for-ios-explore-structs-transportprofile">`TransportProfile`</a> can be defined with a <a href="sdk-for-ios-explore-structs-vehicleprofile">`VehicleProfile`</a>. A vehicle profile can have several parameters such as <a href="sdk-for-ios-explore-enums-vehicletype">`VehicleType`</a> to set the source of information describing the vehicle. The default is a <a href="sdk-for-ios-explore-enums-vehicletype#sdk-for-ios-explore-s-7heresdk11VehicleTypeO3caryA2CmF">`VehicleType.car`</a> profile.
 
   Currently used members of <a href="sdk-for-ios-explore-structs-transportprofile">`TransportProfile`</a>
 
@@ -423,12 +423,15 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
   Swift
 
   ``` highlight
-  @available(*, deprecated, message: "Will be removed in v4.28.0. Use `NavigatorInterface.trackingTransportSpecification` instead.") public var trackingTransportProfile : TransportProfile ? { get set }
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use `NavigatorInterface.trackingTransportSpecification` instead.")
+  public var trackingTransportProfile: TransportProfile? { get set }
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-transportprofile">TransportProfile</a>
 
   </div>
 
@@ -438,7 +441,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
 - <div>
 
-  ` `<span id="/s:7heresdk15VisualNavigatorC30trackingTransportSpecificationAA0eF0VSgvp"></span>` `<span id="//apple_ref/swift/Property/trackingTransportSpecification" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-visualnavigator#/s:7heresdk15VisualNavigatorC30trackingTransportSpecificationAA0eF0VSgvp" class="token"><code>trackingTransportSpecification</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15VisualNavigatorC30trackingTransportSpecificationAA0eF0VSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-trackingTransportSpecification" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC30trackingTransportSpecificationAA0eF0VSgvp" class="token"><code>trackingTransportSpecification</code></a> 
 
   </div>
 
@@ -456,16 +459,16 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
   <div class="abstract">
 
-  Defines the transport specification for the <a href="sdk-for-ios-explore-classes-navigator">`Navigator`</a>, when no route is present. Properly setting the transport specification optimizes the navigation experience, and improves resource consumption. An <a href="sdk-for-ios-explore-structs-transportspecification">`TransportSpecification`</a> must have the <a href="sdk-for-ios-explore-structs-transportspecification#/s:7heresdk22TransportSpecificationV13transportModeAA0bE0Ovp">`TransportSpecification.transportMode`</a> set. A transport specification can have several parameters defined such as <a href="sdk-for-ios-explore-structs-vehiclespecification#/s:7heresdk20VehicleSpecificationV19lengthInCentimeterss5Int32VSgvp">`VehicleSpecification.lengthInCentimeters`</a> defined in <a href="sdk-for-ios-explore-structs-transportspecification#/s:7heresdk22TransportSpecificationV07vehicleC0AA07VehicleC0VSgvp">`TransportSpecification.vehicleSpecification`</a> to set the source of information describing the vehicle. By default the <a href="sdk-for-ios-explore-structs-transportspecification">`TransportSpecification`</a> will have the transport mode set to <a href="sdk-for-ios-explore-enums-transportmode#/s:7heresdk13TransportModeO3caryA2CmF">`TransportMode.car`</a>.
+  Defines the transport specification for the <a href="sdk-for-ios-explore-classes-navigator">`Navigator`</a>, when no route is present. Properly setting the transport specification optimizes the navigation experience, and improves resource consumption. An <a href="sdk-for-ios-explore-structs-transportspecification">`TransportSpecification`</a> must have the <a href="sdk-for-ios-explore-structs-transportspecification#sdk-for-ios-explore-s-7heresdk22TransportSpecificationV13transportModeAA0bE0Ovp">`TransportSpecification.transportMode`</a> set. A transport specification can have several parameters defined such as <a href="sdk-for-ios-explore-structs-vehiclespecification#sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV19lengthInCentimeterss5Int32VSgvp">`VehicleSpecification.lengthInCentimeters`</a> defined in <a href="sdk-for-ios-explore-structs-transportspecification#sdk-for-ios-explore-s-7heresdk22TransportSpecificationV07vehicleC0AA07VehicleC0VSgvp">`TransportSpecification.vehicleSpecification`</a> to set the source of information describing the vehicle. By default the <a href="sdk-for-ios-explore-structs-transportspecification">`TransportSpecification`</a> will have the transport mode set to <a href="sdk-for-ios-explore-enums-transportmode#sdk-for-ios-explore-s-7heresdk13TransportModeO3caryA2CmF">`TransportMode.car`</a>.
 
   Currently used members of <a href="sdk-for-ios-explore-structs-transportspecification">`TransportSpecification`</a>
 
-  - <a href="sdk-for-ios-explore-structs-transportspecification#/s:7heresdk22TransportSpecificationV13transportModeAA0bE0Ovp">`TransportSpecification.transportMode`</a>: Sets the transport mode.
-  - From <a href="sdk-for-ios-explore-structs-transportspecification#/s:7heresdk22TransportSpecificationV07vehicleC0AA07VehicleC0VSgvp">`TransportSpecification.vehicleSpecification`</a>:
-    - <a href="sdk-for-ios-explore-structs-vehiclespecification#/s:7heresdk20VehicleSpecificationV22grossWeightInKilogramss5Int32VSgvp">`VehicleSpecification.grossWeightInKilograms`</a>: Required for truck related speed information.
-    - <a href="sdk-for-ios-explore-structs-vehiclespecification#/s:7heresdk20VehicleSpecificationV19heightInCentimeterss5Int32VSgvp">`VehicleSpecification.heightInCentimeters`</a>: Required for truck related speed information.
-    - <a href="sdk-for-ios-explore-structs-vehiclespecification#/s:7heresdk20VehicleSpecificationV18widthInCentimeterss5Int32VSgvp">`VehicleSpecification.widthInCentimeters`</a>: Additional truck definition for more specific truck speed information.
-    - <a href="sdk-for-ios-explore-structs-vehiclespecification#/s:7heresdk20VehicleSpecificationV19lengthInCentimeterss5Int32VSgvp">`VehicleSpecification.lengthInCentimeters`</a>: Additional truck definition for more specific truck speed information.
+  - <a href="sdk-for-ios-explore-structs-transportspecification#sdk-for-ios-explore-s-7heresdk22TransportSpecificationV13transportModeAA0bE0Ovp">`TransportSpecification.transportMode`</a>: Sets the transport mode.
+  - From <a href="sdk-for-ios-explore-structs-transportspecification#sdk-for-ios-explore-s-7heresdk22TransportSpecificationV07vehicleC0AA07VehicleC0VSgvp">`TransportSpecification.vehicleSpecification`</a>:
+    - <a href="sdk-for-ios-explore-structs-vehiclespecification#sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV22grossWeightInKilogramss5Int32VSgvp">`VehicleSpecification.grossWeightInKilograms`</a>: Required for truck related speed information.
+    - <a href="sdk-for-ios-explore-structs-vehiclespecification#sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV19heightInCentimeterss5Int32VSgvp">`VehicleSpecification.heightInCentimeters`</a>: Required for truck related speed information.
+    - <a href="sdk-for-ios-explore-structs-vehiclespecification#sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV18widthInCentimeterss5Int32VSgvp">`VehicleSpecification.widthInCentimeters`</a>: Additional truck definition for more specific truck speed information.
+    - <a href="sdk-for-ios-explore-structs-vehiclespecification#sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV19lengthInCentimeterss5Int32VSgvp">`VehicleSpecification.lengthInCentimeters`</a>: Additional truck definition for more specific truck speed information.
 
   </div>
 
@@ -483,6 +486,10 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-transportspecification">TransportSpecification</a>
+
   </div>
 
   </div>
@@ -491,7 +498,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
 - <div>
 
-  ` `<span id="/s:7heresdk15VisualNavigatorC25navigableLocationDelegateAA09NavigableeF0_pSgvp"></span>` `<span id="//apple_ref/swift/Property/navigableLocationDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-visualnavigator#/s:7heresdk15VisualNavigatorC25navigableLocationDelegateAA09NavigableeF0_pSgvp" class="token"><code>navigableLocationDelegate</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15VisualNavigatorC25navigableLocationDelegateAA09NavigableeF0_pSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-navigableLocationDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC25navigableLocationDelegateAA09NavigableeF0_pSgvp" class="token"><code>navigableLocationDelegate</code></a> 
 
   </div>
 
@@ -527,6 +534,10 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-protocols-navigablelocationdelegate">NavigableLocationDelegate</a>
+
   </div>
 
   </div>
@@ -535,7 +546,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
 - <div>
 
-  ` `<span id="/s:7heresdk15VisualNavigatorC21routeProgressDelegateAA05RouteeF0_pSgvp"></span>` `<span id="//apple_ref/swift/Property/routeProgressDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-visualnavigator#/s:7heresdk15VisualNavigatorC21routeProgressDelegateAA05RouteeF0_pSgvp" class="token"><code>routeProgressDelegate</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15VisualNavigatorC21routeProgressDelegateAA05RouteeF0_pSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-routeProgressDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC21routeProgressDelegateAA05RouteeF0_pSgvp" class="token"><code>routeProgressDelegate</code></a> 
 
   </div>
 
@@ -571,6 +582,10 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-protocols-routeprogressdelegate">RouteProgressDelegate</a>
+
   </div>
 
   </div>
@@ -579,7 +594,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
 - <div>
 
-  ` `<span id="/s:7heresdk15VisualNavigatorC22routeDeviationDelegateAA05RouteeF0_pSgvp"></span>` `<span id="//apple_ref/swift/Property/routeDeviationDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-visualnavigator#/s:7heresdk15VisualNavigatorC22routeDeviationDelegateAA05RouteeF0_pSgvp" class="token"><code>routeDeviationDelegate</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15VisualNavigatorC22routeDeviationDelegateAA05RouteeF0_pSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-routeDeviationDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC22routeDeviationDelegateAA05RouteeF0_pSgvp" class="token"><code>routeDeviationDelegate</code></a> 
 
   </div>
 
@@ -615,6 +630,10 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-protocols-routedeviationdelegate">RouteDeviationDelegate</a>
+
   </div>
 
   </div>
@@ -623,7 +642,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
 - <div>
 
-  ` `<span id="/s:7heresdk15VisualNavigatorC17eventTextDelegateAA05EventeF0_pSgvp"></span>` `<span id="//apple_ref/swift/Property/eventTextDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-visualnavigator#/s:7heresdk15VisualNavigatorC17eventTextDelegateAA05EventeF0_pSgvp" class="token"><code>eventTextDelegate</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15VisualNavigatorC17eventTextDelegateAA05EventeF0_pSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-eventTextDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC17eventTextDelegateAA05EventeF0_pSgvp" class="token"><code>eventTextDelegate</code></a> 
 
   </div>
 
@@ -659,6 +678,10 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-protocols-eventtextdelegate">EventTextDelegate</a>
+
   </div>
 
   </div>
@@ -667,7 +690,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
 - <div>
 
-  ` `<span id="/s:7heresdk15VisualNavigatorC23milestoneStatusDelegateAA09MilestoneeF0_pSgvp"></span>` `<span id="//apple_ref/swift/Property/milestoneStatusDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-visualnavigator#/s:7heresdk15VisualNavigatorC23milestoneStatusDelegateAA09MilestoneeF0_pSgvp" class="token"><code>milestoneStatusDelegate</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15VisualNavigatorC23milestoneStatusDelegateAA09MilestoneeF0_pSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-milestoneStatusDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC23milestoneStatusDelegateAA09MilestoneeF0_pSgvp" class="token"><code>milestoneStatusDelegate</code></a> 
 
   </div>
 
@@ -685,7 +708,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
   <div class="abstract">
 
-  Object to receive notifications about the arrival at each <a href="sdk-for-ios-explore-structs-milestone">`Milestone`</a> or missing it. It informs on all waypoints (passed or missed) that are of type <a href="sdk-for-ios-explore-enums-milestonetype#/s:7heresdk13MilestoneTypeO8stopoveryA2CmF">`MilestoneType.stopover`</a> but excludes the starting waypoint. Waypoints of type <a href="sdk-for-ios-explore-enums-milestonetype#/s:7heresdk13MilestoneTypeO11passthroughyA2CmF">`MilestoneType.passthrough`</a> are excluded, by default, but can be included via <a href="sdk-for-ios-explore-classes-visualnavigator#/s:7heresdk15VisualNavigatorC37isPassthroughWaypointsHandlingEnabledSbvp">`isPassthroughWaypointsHandlingEnabled`</a>. Milestone status notifications only occurs if a route has been set. Setting `nil` value to the delegate will unset the delegate. It returns `nil` when no delegate is set by an user.
+  Object to receive notifications about the arrival at each <a href="sdk-for-ios-explore-structs-milestone">`Milestone`</a> or missing it. It informs on all waypoints (passed or missed) that are of type <a href="sdk-for-ios-explore-enums-milestonetype#sdk-for-ios-explore-s-7heresdk13MilestoneTypeO8stopoveryA2CmF">`MilestoneType.stopover`</a> but excludes the starting waypoint. Waypoints of type <a href="sdk-for-ios-explore-enums-milestonetype#sdk-for-ios-explore-s-7heresdk13MilestoneTypeO11passthroughyA2CmF">`MilestoneType.passthrough`</a> are excluded, by default, but can be included via <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC37isPassthroughWaypointsHandlingEnabledSbvp">`isPassthroughWaypointsHandlingEnabled`</a>. Milestone status notifications only occurs if a route has been set. Setting `nil` value to the delegate will unset the delegate. It returns `nil` when no delegate is set by an user.
 
   </div>
 
@@ -703,6 +726,10 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-protocols-milestonestatusdelegate">MilestoneStatusDelegate</a>
+
   </div>
 
   </div>
@@ -711,7 +738,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
 - <div>
 
-  ` `<span id="/s:7heresdk15VisualNavigatorC26destinationReachedDelegateAA011DestinationeF0_pSgvp"></span>` `<span id="//apple_ref/swift/Property/destinationReachedDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-visualnavigator#/s:7heresdk15VisualNavigatorC26destinationReachedDelegateAA011DestinationeF0_pSgvp" class="token"><code>destinationReachedDelegate</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15VisualNavigatorC26destinationReachedDelegateAA011DestinationeF0_pSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-destinationReachedDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC26destinationReachedDelegateAA011DestinationeF0_pSgvp" class="token"><code>destinationReachedDelegate</code></a> 
 
   </div>
 
@@ -747,6 +774,10 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-protocols-destinationreacheddelegate">DestinationReachedDelegate</a>
+
   </div>
 
   </div>
@@ -755,7 +786,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
 - <div>
 
-  ` `<span id="/s:7heresdk15VisualNavigatorC20speedWarningDelegateAA05SpeedeF0_pSgvp"></span>` `<span id="//apple_ref/swift/Property/speedWarningDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-visualnavigator#/s:7heresdk15VisualNavigatorC20speedWarningDelegateAA05SpeedeF0_pSgvp" class="token"><code>speedWarningDelegate</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15VisualNavigatorC20speedWarningDelegateAA05SpeedeF0_pSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-speedWarningDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC20speedWarningDelegateAA05SpeedeF0_pSgvp" class="token"><code>speedWarningDelegate</code></a> 
 
   </div>
 
@@ -791,6 +822,10 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-protocols-speedwarningdelegate">SpeedWarningDelegate</a>
+
   </div>
 
   </div>
@@ -799,7 +834,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
 - <div>
 
-  ` `<span id="/s:7heresdk15VisualNavigatorC34maneuverViewLaneAssistanceDelegateAA08ManeuverefgH0_pSgvp"></span>` `<span id="//apple_ref/swift/Property/maneuverViewLaneAssistanceDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-visualnavigator#/s:7heresdk15VisualNavigatorC34maneuverViewLaneAssistanceDelegateAA08ManeuverefgH0_pSgvp" class="token"><code>maneuverViewLaneAssistanceDelegate</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15VisualNavigatorC34maneuverViewLaneAssistanceDelegateAA08ManeuverefgH0_pSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-maneuverViewLaneAssistanceDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC34maneuverViewLaneAssistanceDelegateAA08ManeuverefgH0_pSgvp" class="token"><code>maneuverViewLaneAssistanceDelegate</code></a> 
 
   </div>
 
@@ -835,6 +870,10 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-protocols-maneuverviewlaneassistancedelegate">ManeuverViewLaneAssistanceDelegate</a>
+
   </div>
 
   </div>
@@ -843,7 +882,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
 - <div>
 
-  ` `<span id="/s:7heresdk15VisualNavigatorC42currentSituationLaneAssistanceViewDelegateAA07CurrentefghI0_pSgvp"></span>` `<span id="//apple_ref/swift/Property/currentSituationLaneAssistanceViewDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-visualnavigator#/s:7heresdk15VisualNavigatorC42currentSituationLaneAssistanceViewDelegateAA07CurrentefghI0_pSgvp" class="token"><code>currentSituationLaneAssistanceViewDelegate</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15VisualNavigatorC42currentSituationLaneAssistanceViewDelegateAA07CurrentefghI0_pSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-currentSituationLaneAssistanceViewDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC42currentSituationLaneAssistanceViewDelegateAA07CurrentefghI0_pSgvp" class="token"><code>currentSituationLaneAssistanceViewDelegate</code></a> 
 
   </div>
 
@@ -879,6 +918,10 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-protocols-currentsituationlaneassistanceviewdelegate">CurrentSituationLaneAssistanceViewDelegate</a>
+
   </div>
 
   </div>
@@ -887,7 +930,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
 - <div>
 
-  ` `<span id="/s:7heresdk15VisualNavigatorC40environmentalZoneWarningListenerDelegateAA013EnvironmentalefH0_pSgvp"></span>` `<span id="//apple_ref/swift/Property/environmentalZoneWarningListenerDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-visualnavigator#/s:7heresdk15VisualNavigatorC40environmentalZoneWarningListenerDelegateAA013EnvironmentalefH0_pSgvp" class="token"><code>environmentalZoneWarningListenerDelegate</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15VisualNavigatorC40environmentalZoneWarningListenerDelegateAA013EnvironmentalefH0_pSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-environmentalZoneWarningListenerDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC40environmentalZoneWarningListenerDelegateAA013EnvironmentalefH0_pSgvp" class="token"><code>environmentalZoneWarningListenerDelegate</code></a> 
 
   </div>
 
@@ -923,6 +966,10 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-protocols-environmentalzonewarningdelegate">EnvironmentalZoneWarningDelegate</a>
+
   </div>
 
   </div>
@@ -931,7 +978,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
 - <div>
 
-  ` `<span id="/s:7heresdk15VisualNavigatorC34junctionViewLaneAssistanceDelegateAA08JunctionefgH0_pSgvp"></span>` `<span id="//apple_ref/swift/Property/junctionViewLaneAssistanceDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-visualnavigator#/s:7heresdk15VisualNavigatorC34junctionViewLaneAssistanceDelegateAA08JunctionefgH0_pSgvp" class="token"><code>junctionViewLaneAssistanceDelegate</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15VisualNavigatorC34junctionViewLaneAssistanceDelegateAA08JunctionefgH0_pSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-junctionViewLaneAssistanceDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC34junctionViewLaneAssistanceDelegateAA08JunctionefgH0_pSgvp" class="token"><code>junctionViewLaneAssistanceDelegate</code></a> 
 
   </div>
 
@@ -967,6 +1014,10 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-protocols-junctionviewlaneassistancedelegate">JunctionViewLaneAssistanceDelegate</a>
+
   </div>
 
   </div>
@@ -975,7 +1026,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
 - <div>
 
-  ` `<span id="/s:7heresdk15VisualNavigatorC27safetyCameraWarningDelegateAA06SafetyefG0_pSgvp"></span>` `<span id="//apple_ref/swift/Property/safetyCameraWarningDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-visualnavigator#/s:7heresdk15VisualNavigatorC27safetyCameraWarningDelegateAA06SafetyefG0_pSgvp" class="token"><code>safetyCameraWarningDelegate</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15VisualNavigatorC27safetyCameraWarningDelegateAA06SafetyefG0_pSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-safetyCameraWarningDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC27safetyCameraWarningDelegateAA06SafetyefG0_pSgvp" class="token"><code>safetyCameraWarningDelegate</code></a> 
 
   </div>
 
@@ -1011,6 +1062,10 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-protocols-safetycamerawarningdelegate">SafetyCameraWarningDelegate</a>
+
   </div>
 
   </div>
@@ -1019,7 +1074,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
 - <div>
 
-  ` `<span id="/s:7heresdk15VisualNavigatorC26safetyCameraWarningOptionsAA06SafetyefG0Vvp"></span>` `<span id="//apple_ref/swift/Property/safetyCameraWarningOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-visualnavigator#/s:7heresdk15VisualNavigatorC26safetyCameraWarningOptionsAA06SafetyefG0Vvp" class="token"><code>safetyCameraWarningOptions</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15VisualNavigatorC26safetyCameraWarningOptionsAA06SafetyefG0Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-safetyCameraWarningOptions" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC26safetyCameraWarningOptionsAA06SafetyefG0Vvp" class="token"><code>safetyCameraWarningOptions</code></a> 
 
   </div>
 
@@ -1055,6 +1110,10 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-safetycamerawarningoptions">SafetyCameraWarningOptions</a>
+
   </div>
 
   </div>
@@ -1063,7 +1122,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
 - <div>
 
-  ` `<span id="/s:7heresdk15VisualNavigatorC33dangerZoneWarningListenerDelegateAA06DangerefH0_pSgvp"></span>` `<span id="//apple_ref/swift/Property/dangerZoneWarningListenerDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-visualnavigator#/s:7heresdk15VisualNavigatorC33dangerZoneWarningListenerDelegateAA06DangerefH0_pSgvp" class="token"><code>dangerZoneWarningListenerDelegate</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15VisualNavigatorC33dangerZoneWarningListenerDelegateAA06DangerefH0_pSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-dangerZoneWarningListenerDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC33dangerZoneWarningListenerDelegateAA06DangerefH0_pSgvp" class="token"><code>dangerZoneWarningListenerDelegate</code></a> 
 
   </div>
 
@@ -1099,6 +1158,10 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-protocols-dangerzonewarningdelegate">DangerZoneWarningDelegate</a>
+
   </div>
 
   </div>
@@ -1107,7 +1170,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
 - <div>
 
-  ` `<span id="/s:7heresdk15VisualNavigatorC32truckRestrictionsWarningDelegateAA05TruckefG0_pSgvp"></span>` `<span id="//apple_ref/swift/Property/truckRestrictionsWarningDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-visualnavigator#/s:7heresdk15VisualNavigatorC32truckRestrictionsWarningDelegateAA05TruckefG0_pSgvp" class="token"><code>truckRestrictionsWarningDelegate</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15VisualNavigatorC32truckRestrictionsWarningDelegateAA05TruckefG0_pSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-truckRestrictionsWarningDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC32truckRestrictionsWarningDelegateAA05TruckefG0_pSgvp" class="token"><code>truckRestrictionsWarningDelegate</code></a> 
 
   </div>
 
@@ -1143,6 +1206,10 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-protocols-truckrestrictionswarningdelegate">TruckRestrictionsWarningDelegate</a>
+
   </div>
 
   </div>
@@ -1151,7 +1218,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
 - <div>
 
-  ` `<span id="/s:7heresdk15VisualNavigatorC12warnerEngineAA06WarnerE0Cvp"></span>` `<span id="//apple_ref/swift/Property/warnerEngine" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-visualnavigator#/s:7heresdk15VisualNavigatorC12warnerEngineAA06WarnerE0Cvp" class="token"><code>warnerEngine</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15VisualNavigatorC12warnerEngineAA06WarnerE0Cvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-warnerEngine" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC12warnerEngineAA06WarnerE0Cvp" class="token"><code>warnerEngine</code></a> 
 
   </div>
 
@@ -1187,6 +1254,10 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-warnerengine">WarnerEngine</a>
+
   </div>
 
   </div>
@@ -1195,7 +1266,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
 - <div>
 
-  ` `<span id="/s:7heresdk15VisualNavigatorC31truckRestrictionsWarningOptionsAA05TruckefG0Vvp"></span>` `<span id="//apple_ref/swift/Property/truckRestrictionsWarningOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-visualnavigator#/s:7heresdk15VisualNavigatorC31truckRestrictionsWarningOptionsAA05TruckefG0Vvp" class="token"><code>truckRestrictionsWarningOptions</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15VisualNavigatorC31truckRestrictionsWarningOptionsAA05TruckefG0Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-truckRestrictionsWarningOptions" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC31truckRestrictionsWarningOptionsAA05TruckefG0Vvp" class="token"><code>truckRestrictionsWarningOptions</code></a> 
 
   </div>
 
@@ -1231,6 +1302,10 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-truckrestrictionswarningoptions">TruckRestrictionsWarningOptions</a>
+
   </div>
 
   </div>
@@ -1239,7 +1314,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
 - <div>
 
-  ` `<span id="/s:7heresdk15VisualNavigatorC18postActionDelegateAA04PosteF0_pSgvp"></span>` `<span id="//apple_ref/swift/Property/postActionDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-visualnavigator#/s:7heresdk15VisualNavigatorC18postActionDelegateAA04PosteF0_pSgvp" class="token"><code>postActionDelegate</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15VisualNavigatorC18postActionDelegateAA04PosteF0_pSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-postActionDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC18postActionDelegateAA04PosteF0_pSgvp" class="token"><code>postActionDelegate</code></a> 
 
   </div>
 
@@ -1275,6 +1350,10 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-protocols-postactiondelegate">PostActionDelegate</a>
+
   </div>
 
   </div>
@@ -1283,7 +1362,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
 - <div>
 
-  ` `<span id="/s:7heresdk15VisualNavigatorC18speedLimitDelegateAA05SpeedeF0_pSgvp"></span>` `<span id="//apple_ref/swift/Property/speedLimitDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-visualnavigator#/s:7heresdk15VisualNavigatorC18speedLimitDelegateAA05SpeedeF0_pSgvp" class="token"><code>speedLimitDelegate</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15VisualNavigatorC18speedLimitDelegateAA05SpeedeF0_pSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-speedLimitDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC18speedLimitDelegateAA05SpeedeF0_pSgvp" class="token"><code>speedLimitDelegate</code></a> 
 
   </div>
 
@@ -1319,6 +1398,10 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-protocols-speedlimitdelegate">SpeedLimitDelegate</a>
+
   </div>
 
   </div>
@@ -1327,7 +1410,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
 - <div>
 
-  ` `<span id="/s:7heresdk15VisualNavigatorC17roadTextsDelegateAA04RoadeF0_pSgvp"></span>` `<span id="//apple_ref/swift/Property/roadTextsDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-visualnavigator#/s:7heresdk15VisualNavigatorC17roadTextsDelegateAA04RoadeF0_pSgvp" class="token"><code>roadTextsDelegate</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15VisualNavigatorC17roadTextsDelegateAA04RoadeF0_pSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-roadTextsDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC17roadTextsDelegateAA04RoadeF0_pSgvp" class="token"><code>roadTextsDelegate</code></a> 
 
   </div>
 
@@ -1363,6 +1446,10 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-protocols-roadtextsdelegate">RoadTextsDelegate</a>
+
   </div>
 
   </div>
@@ -1371,7 +1458,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
 - <div>
 
-  ` `<span id="/s:7heresdk15VisualNavigatorC22roadAttributesDelegateAA04RoadeF0_pSgvp"></span>` `<span id="//apple_ref/swift/Property/roadAttributesDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-visualnavigator#/s:7heresdk15VisualNavigatorC22roadAttributesDelegateAA04RoadeF0_pSgvp" class="token"><code>roadAttributesDelegate</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15VisualNavigatorC22roadAttributesDelegateAA04RoadeF0_pSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-roadAttributesDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC22roadAttributesDelegateAA04RoadeF0_pSgvp" class="token"><code>roadAttributesDelegate</code></a> 
 
   </div>
 
@@ -1407,6 +1494,10 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-protocols-roadattributesdelegate">RoadAttributesDelegate</a>
+
   </div>
 
   </div>
@@ -1415,7 +1506,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
 - <div>
 
-  ` `<span id="/s:7heresdk15VisualNavigatorC23roadSignWarningDelegateAA04RoadefG0_pSgvp"></span>` `<span id="//apple_ref/swift/Property/roadSignWarningDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-visualnavigator#/s:7heresdk15VisualNavigatorC23roadSignWarningDelegateAA04RoadefG0_pSgvp" class="token"><code>roadSignWarningDelegate</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15VisualNavigatorC23roadSignWarningDelegateAA04RoadefG0_pSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-roadSignWarningDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC23roadSignWarningDelegateAA04RoadefG0_pSgvp" class="token"><code>roadSignWarningDelegate</code></a> 
 
   </div>
 
@@ -1451,6 +1542,10 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-protocols-roadsignwarningdelegate">RoadSignWarningDelegate</a>
+
   </div>
 
   </div>
@@ -1459,7 +1554,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
 - <div>
 
-  ` `<span id="/s:7heresdk15VisualNavigatorC22roadSignWarningOptionsAA04RoadefG0Vvp"></span>` `<span id="//apple_ref/swift/Property/roadSignWarningOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-visualnavigator#/s:7heresdk15VisualNavigatorC22roadSignWarningOptionsAA04RoadefG0Vvp" class="token"><code>roadSignWarningOptions</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15VisualNavigatorC22roadSignWarningOptionsAA04RoadefG0Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-roadSignWarningOptions" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC22roadSignWarningOptionsAA04RoadefG0Vvp" class="token"><code>roadSignWarningOptions</code></a> 
 
   </div>
 
@@ -1495,6 +1590,10 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-roadsignwarningoptions">RoadSignWarningOptions</a>
+
   </div>
 
   </div>
@@ -1503,7 +1602,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
 - <div>
 
-  ` `<span id="/s:7heresdk15VisualNavigatorC25schoolZoneWarningDelegateAA06SchoolefG0_pSgvp"></span>` `<span id="//apple_ref/swift/Property/schoolZoneWarningDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-visualnavigator#/s:7heresdk15VisualNavigatorC25schoolZoneWarningDelegateAA06SchoolefG0_pSgvp" class="token"><code>schoolZoneWarningDelegate</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15VisualNavigatorC25schoolZoneWarningDelegateAA06SchoolefG0_pSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-schoolZoneWarningDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC25schoolZoneWarningDelegateAA06SchoolefG0_pSgvp" class="token"><code>schoolZoneWarningDelegate</code></a> 
 
   </div>
 
@@ -1539,6 +1638,10 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-protocols-schoolzonewarningdelegate">SchoolZoneWarningDelegate</a>
+
   </div>
 
   </div>
@@ -1547,7 +1650,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
 - <div>
 
-  ` `<span id="/s:7heresdk15VisualNavigatorC24schoolZoneWarningOptionsAA06SchoolefG0Vvp"></span>` `<span id="//apple_ref/swift/Property/schoolZoneWarningOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-visualnavigator#/s:7heresdk15VisualNavigatorC24schoolZoneWarningOptionsAA06SchoolefG0Vvp" class="token"><code>schoolZoneWarningOptions</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15VisualNavigatorC24schoolZoneWarningOptionsAA06SchoolefG0Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-schoolZoneWarningOptions" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC24schoolZoneWarningOptionsAA06SchoolefG0Vvp" class="token"><code>schoolZoneWarningOptions</code></a> 
 
   </div>
 
@@ -1583,6 +1686,10 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-schoolzonewarningoptions">SchoolZoneWarningOptions</a>
+
   </div>
 
   </div>
@@ -1591,7 +1698,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
 - <div>
 
-  ` `<span id="/s:7heresdk15VisualNavigatorC28realisticViewWarningDelegateAA09RealisticefG0_pSgvp"></span>` `<span id="//apple_ref/swift/Property/realisticViewWarningDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-visualnavigator#/s:7heresdk15VisualNavigatorC28realisticViewWarningDelegateAA09RealisticefG0_pSgvp" class="token"><code>realisticViewWarningDelegate</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15VisualNavigatorC28realisticViewWarningDelegateAA09RealisticefG0_pSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-realisticViewWarningDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC28realisticViewWarningDelegateAA09RealisticefG0_pSgvp" class="token"><code>realisticViewWarningDelegate</code></a> 
 
   </div>
 
@@ -1627,6 +1734,10 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-protocols-realisticviewwarningdelegate">RealisticViewWarningDelegate</a>
+
   </div>
 
   </div>
@@ -1635,7 +1746,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
 - <div>
 
-  ` `<span id="/s:7heresdk15VisualNavigatorC27realisticViewWarningOptionsAA09RealisticefG0Vvp"></span>` `<span id="//apple_ref/swift/Property/realisticViewWarningOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-visualnavigator#/s:7heresdk15VisualNavigatorC27realisticViewWarningOptionsAA09RealisticefG0Vvp" class="token"><code>realisticViewWarningOptions</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15VisualNavigatorC27realisticViewWarningOptionsAA09RealisticefG0Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-realisticViewWarningOptions" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC27realisticViewWarningOptionsAA09RealisticefG0Vvp" class="token"><code>realisticViewWarningOptions</code></a> 
 
   </div>
 
@@ -1673,6 +1784,10 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-realisticviewwarningoptions">RealisticViewWarningOptions</a>
+
   </div>
 
   </div>
@@ -1681,7 +1796,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
 - <div>
 
-  ` `<span id="/s:7heresdk15VisualNavigatorC29borderCrossingWarningDelegateAA06BorderefG0_pSgvp"></span>` `<span id="//apple_ref/swift/Property/borderCrossingWarningDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-visualnavigator#/s:7heresdk15VisualNavigatorC29borderCrossingWarningDelegateAA06BorderefG0_pSgvp" class="token"><code>borderCrossingWarningDelegate</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15VisualNavigatorC29borderCrossingWarningDelegateAA06BorderefG0_pSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-borderCrossingWarningDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC29borderCrossingWarningDelegateAA06BorderefG0_pSgvp" class="token"><code>borderCrossingWarningDelegate</code></a> 
 
   </div>
 
@@ -1717,6 +1832,10 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-protocols-bordercrossingwarningdelegate">BorderCrossingWarningDelegate</a>
+
   </div>
 
   </div>
@@ -1725,7 +1844,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
 - <div>
 
-  ` `<span id="/s:7heresdk15VisualNavigatorC28borderCrossingWarningOptionsAA06BorderefG0Vvp"></span>` `<span id="//apple_ref/swift/Property/borderCrossingWarningOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-visualnavigator#/s:7heresdk15VisualNavigatorC28borderCrossingWarningOptionsAA06BorderefG0Vvp" class="token"><code>borderCrossingWarningOptions</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15VisualNavigatorC28borderCrossingWarningOptionsAA06BorderefG0Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-borderCrossingWarningOptions" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC28borderCrossingWarningOptionsAA06BorderefG0Vvp" class="token"><code>borderCrossingWarningOptions</code></a> 
 
   </div>
 
@@ -1761,6 +1880,10 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-bordercrossingwarningoptions">BorderCrossingWarningOptions</a>
+
   </div>
 
   </div>
@@ -1769,7 +1892,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
 - <div>
 
-  ` `<span id="/s:7heresdk15VisualNavigatorC23tollStopWarningDelegateAA04TollefG0_pSgvp"></span>` `<span id="//apple_ref/swift/Property/tollStopWarningDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-visualnavigator#/s:7heresdk15VisualNavigatorC23tollStopWarningDelegateAA04TollefG0_pSgvp" class="token"><code>tollStopWarningDelegate</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15VisualNavigatorC23tollStopWarningDelegateAA04TollefG0_pSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-tollStopWarningDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC23tollStopWarningDelegateAA04TollefG0_pSgvp" class="token"><code>tollStopWarningDelegate</code></a> 
 
   </div>
 
@@ -1805,6 +1928,10 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-protocols-tollstopwarningdelegate">TollStopWarningDelegate</a>
+
   </div>
 
   </div>
@@ -1813,7 +1940,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
 - <div>
 
-  ` `<span id="/s:7heresdk15VisualNavigatorC30railwayCrossingWarningDelegateAA07RailwayefG0_pSgvp"></span>` `<span id="//apple_ref/swift/Property/railwayCrossingWarningDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-visualnavigator#/s:7heresdk15VisualNavigatorC30railwayCrossingWarningDelegateAA07RailwayefG0_pSgvp" class="token"><code>railwayCrossingWarningDelegate</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15VisualNavigatorC30railwayCrossingWarningDelegateAA07RailwayefG0_pSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-railwayCrossingWarningDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC30railwayCrossingWarningDelegateAA07RailwayefG0_pSgvp" class="token"><code>railwayCrossingWarningDelegate</code></a> 
 
   </div>
 
@@ -1849,6 +1976,10 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-protocols-railwaycrossingwarningdelegate">RailwayCrossingWarningDelegate</a>
+
   </div>
 
   </div>
@@ -1857,7 +1988,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
 - <div>
 
-  ` `<span id="/s:7heresdk15VisualNavigatorC27lowSpeedZoneWarningDelegateAA03LowefgH0_pSgvp"></span>` `<span id="//apple_ref/swift/Property/lowSpeedZoneWarningDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-visualnavigator#/s:7heresdk15VisualNavigatorC27lowSpeedZoneWarningDelegateAA03LowefgH0_pSgvp" class="token"><code>lowSpeedZoneWarningDelegate</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15VisualNavigatorC27lowSpeedZoneWarningDelegateAA03LowefgH0_pSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-lowSpeedZoneWarningDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC27lowSpeedZoneWarningDelegateAA03LowefgH0_pSgvp" class="token"><code>lowSpeedZoneWarningDelegate</code></a> 
 
   </div>
 
@@ -1893,6 +2024,10 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-protocols-lowspeedzonewarningdelegate">LowSpeedZoneWarningDelegate</a>
+
   </div>
 
   </div>
@@ -1901,7 +2036,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
 - <div>
 
-  ` `<span id="/s:7heresdk15VisualNavigatorC27trafficMergeWarningDelegateAA07TrafficefG0_pSgvp"></span>` `<span id="//apple_ref/swift/Property/trafficMergeWarningDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-visualnavigator#/s:7heresdk15VisualNavigatorC27trafficMergeWarningDelegateAA07TrafficefG0_pSgvp" class="token"><code>trafficMergeWarningDelegate</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15VisualNavigatorC27trafficMergeWarningDelegateAA07TrafficefG0_pSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-trafficMergeWarningDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC27trafficMergeWarningDelegateAA07TrafficefG0_pSgvp" class="token"><code>trafficMergeWarningDelegate</code></a> 
 
   </div>
 
@@ -1937,6 +2072,10 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-protocols-trafficmergewarningdelegate">TrafficMergeWarningDelegate</a>
+
   </div>
 
   </div>
@@ -1945,7 +2084,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
 - <div>
 
-  ` `<span id="/s:7heresdk15VisualNavigatorC26trafficMergeWarningOptionsAA07TrafficefG0Vvp"></span>` `<span id="//apple_ref/swift/Property/trafficMergeWarningOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-visualnavigator#/s:7heresdk15VisualNavigatorC26trafficMergeWarningOptionsAA07TrafficefG0Vvp" class="token"><code>trafficMergeWarningOptions</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15VisualNavigatorC26trafficMergeWarningOptionsAA07TrafficefG0Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-trafficMergeWarningOptions" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC26trafficMergeWarningOptionsAA07TrafficefG0Vvp" class="token"><code>trafficMergeWarningOptions</code></a> 
 
   </div>
 
@@ -1981,6 +2120,10 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-trafficmergewarningoptions">TrafficMergeWarningOptions</a>
+
   </div>
 
   </div>
@@ -1989,7 +2132,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
 - <div>
 
-  ` `<span id="/s:7heresdk15VisualNavigatorC33offRoadDestinationReachedDelegateAA03OffefgH0_pSgvp"></span>` `<span id="//apple_ref/swift/Property/offRoadDestinationReachedDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-visualnavigator#/s:7heresdk15VisualNavigatorC33offRoadDestinationReachedDelegateAA03OffefgH0_pSgvp" class="token"><code>offRoadDestinationReachedDelegate</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15VisualNavigatorC33offRoadDestinationReachedDelegateAA03OffefgH0_pSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-offRoadDestinationReachedDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC33offRoadDestinationReachedDelegateAA03OffefgH0_pSgvp" class="token"><code>offRoadDestinationReachedDelegate</code></a> 
 
   </div>
 
@@ -2025,6 +2168,10 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-protocols-offroaddestinationreacheddelegate">OffRoadDestinationReachedDelegate</a>
+
   </div>
 
   </div>
@@ -2033,7 +2180,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
 - <div>
 
-  ` `<span id="/s:7heresdk15VisualNavigatorC23offRoadProgressDelegateAA03OffefG0_pSgvp"></span>` `<span id="//apple_ref/swift/Property/offRoadProgressDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-visualnavigator#/s:7heresdk15VisualNavigatorC23offRoadProgressDelegateAA03OffefG0_pSgvp" class="token"><code>offRoadProgressDelegate</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15VisualNavigatorC23offRoadProgressDelegateAA03OffefG0_pSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-offRoadProgressDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC23offRoadProgressDelegateAA03OffefG0_pSgvp" class="token"><code>offRoadProgressDelegate</code></a> 
 
   </div>
 
@@ -2069,6 +2216,10 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-protocols-offroadprogressdelegate">OffRoadProgressDelegate</a>
+
   </div>
 
   </div>
@@ -2077,7 +2228,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
 - <div>
 
-  ` `<span id="/s:7heresdk15VisualNavigatorC27maneuverNotificationOptionsAA08ManeuvereF0Vvp"></span>` `<span id="//apple_ref/swift/Property/maneuverNotificationOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-visualnavigator#/s:7heresdk15VisualNavigatorC27maneuverNotificationOptionsAA08ManeuvereF0Vvp" class="token"><code>maneuverNotificationOptions</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15VisualNavigatorC27maneuverNotificationOptionsAA08ManeuvereF0Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-maneuverNotificationOptions" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC27maneuverNotificationOptionsAA08ManeuvereF0Vvp" class="token"><code>maneuverNotificationOptions</code></a> 
 
   </div>
 
@@ -2113,6 +2264,10 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-maneuvernotificationoptions">ManeuverNotificationOptions</a>
+
   </div>
 
   </div>
@@ -2121,7 +2276,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
 - <div>
 
-  ` `<span id="/s:7heresdk15VisualNavigatorC16eventTextOptionsAA05EventeF0Vvp"></span>` `<span id="//apple_ref/swift/Property/eventTextOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-visualnavigator#/s:7heresdk15VisualNavigatorC16eventTextOptionsAA05EventeF0Vvp" class="token"><code>eventTextOptions</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15VisualNavigatorC16eventTextOptionsAA05EventeF0Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-eventTextOptions" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC16eventTextOptionsAA05EventeF0Vvp" class="token"><code>eventTextOptions</code></a> 
 
   </div>
 
@@ -2157,6 +2312,10 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-eventtextoptions">EventTextOptions</a>
+
   </div>
 
   </div>
@@ -2165,7 +2324,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
 - <div>
 
-  ` `<span id="/s:7heresdk15VisualNavigatorC19speedWarningOptionsAA05SpeedeF0Vvp"></span>` `<span id="//apple_ref/swift/Property/speedWarningOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-visualnavigator#/s:7heresdk15VisualNavigatorC19speedWarningOptionsAA05SpeedeF0Vvp" class="token"><code>speedWarningOptions</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15VisualNavigatorC19speedWarningOptionsAA05SpeedeF0Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-speedWarningOptions" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC19speedWarningOptionsAA05SpeedeF0Vvp" class="token"><code>speedWarningOptions</code></a> 
 
   </div>
 
@@ -2201,6 +2360,10 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-speedwarningoptions">SpeedWarningOptions</a>
+
   </div>
 
   </div>
@@ -2209,7 +2372,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
 - <div>
 
-  ` `<span id="/s:7heresdk15VisualNavigatorC27isEnableTunnelExtrapolationSbvp"></span>` `<span id="//apple_ref/swift/Property/isEnableTunnelExtrapolation" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-visualnavigator#/s:7heresdk15VisualNavigatorC27isEnableTunnelExtrapolationSbvp" class="token"><code>isEnableTunnelExtrapolation</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15VisualNavigatorC27isEnableTunnelExtrapolationSbvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-isEnableTunnelExtrapolation" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC27isEnableTunnelExtrapolationSbvp" class="token"><code>isEnableTunnelExtrapolation</code></a> 
 
   </div>
 
@@ -2253,7 +2416,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
 - <div>
 
-  ` `<span id="/s:7heresdk15VisualNavigatorC37isPassthroughWaypointsHandlingEnabledSbvp"></span>` `<span id="//apple_ref/swift/Property/isPassthroughWaypointsHandlingEnabled" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-visualnavigator#/s:7heresdk15VisualNavigatorC37isPassthroughWaypointsHandlingEnabledSbvp" class="token"><code>isPassthroughWaypointsHandlingEnabled</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15VisualNavigatorC37isPassthroughWaypointsHandlingEnabledSbvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-isPassthroughWaypointsHandlingEnabled" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC37isPassthroughWaypointsHandlingEnabledSbvp" class="token"><code>isPassthroughWaypointsHandlingEnabled</code></a> 
 
   </div>
 
@@ -2297,7 +2460,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
 - <div>
 
-  ` `<span id="/s:7heresdk15VisualNavigatorC14trafficOnRouteAA07TrafficeF0VSgvp"></span>` `<span id="//apple_ref/swift/Property/trafficOnRoute" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-visualnavigator#/s:7heresdk15VisualNavigatorC14trafficOnRouteAA07TrafficeF0VSgvp" class="token"><code>trafficOnRoute</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15VisualNavigatorC14trafficOnRouteAA07TrafficeF0VSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-trafficOnRoute" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC14trafficOnRouteAA07TrafficeF0VSgvp" class="token"><code>trafficOnRoute</code></a> 
 
   </div>
 
@@ -2333,6 +2496,10 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-trafficonroute">TrafficOnRoute</a>
+
   </div>
 
   </div>
@@ -2341,7 +2508,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
 - <div>
 
-  ` `<span id="/s:7heresdk15VisualNavigatorC15locationManagerAA08LocationE0Cvp"></span>` `<span id="//apple_ref/swift/Property/locationManager" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-visualnavigator#/s:7heresdk15VisualNavigatorC15locationManagerAA08LocationE0Cvp" class="token"><code>locationManager</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15VisualNavigatorC15locationManagerAA08LocationE0Cvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-locationManager" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC15locationManagerAA08LocationE0Cvp" class="token"><code>locationManager</code></a> 
 
   </div>
 
@@ -2377,6 +2544,10 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-locationmanager">LocationManager</a>
+
   </div>
 
   </div>
@@ -2385,7 +2556,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
 - <div>
 
-  ` `<span id="/s:7heresdk15VisualNavigatorC14cameraBehaviorAA06CameraE0_pSgvp"></span>` `<span id="//apple_ref/swift/Property/cameraBehavior" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-visualnavigator#/s:7heresdk15VisualNavigatorC14cameraBehaviorAA06CameraE0_pSgvp" class="token"><code>cameraBehavior</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15VisualNavigatorC14cameraBehaviorAA06CameraE0_pSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-cameraBehavior" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC14cameraBehaviorAA06CameraE0_pSgvp" class="token"><code>cameraBehavior</code></a> 
 
   </div>
 
@@ -2421,6 +2592,10 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-protocols-camerabehavior">CameraBehavior</a>
+
   </div>
 
   </div>
@@ -2429,7 +2604,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
 - <div>
 
-  ` `<span id="/s:7heresdk15VisualNavigatorC14isRouteVisibleSbvp"></span>` `<span id="//apple_ref/swift/Property/isRouteVisible" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-visualnavigator#/s:7heresdk15VisualNavigatorC14isRouteVisibleSbvp" class="token"><code>isRouteVisible</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15VisualNavigatorC14isRouteVisibleSbvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-isRouteVisible" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC14isRouteVisibleSbvp" class="token"><code>isRouteVisible</code></a> 
 
   </div>
 
@@ -2473,7 +2648,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
 - <div>
 
-  ` `<span id="/s:7heresdk15VisualNavigatorC22isRouteProgressVisibleSbvp"></span>` `<span id="//apple_ref/swift/Property/isRouteProgressVisible" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-visualnavigator#/s:7heresdk15VisualNavigatorC22isRouteProgressVisibleSbvp" class="token"><code>isRouteProgressVisible</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15VisualNavigatorC22isRouteProgressVisibleSbvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-isRouteProgressVisible" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC22isRouteProgressVisibleSbvp" class="token"><code>isRouteProgressVisible</code></a> 
 
   </div>
 
@@ -2517,7 +2692,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
 - <div>
 
-  ` `<span id="/s:7heresdk15VisualNavigatorC23isManeuverArrowsVisibleSbvp"></span>` `<span id="//apple_ref/swift/Property/isManeuverArrowsVisible" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-visualnavigator#/s:7heresdk15VisualNavigatorC23isManeuverArrowsVisibleSbvp" class="token"><code>isManeuverArrowsVisible</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15VisualNavigatorC23isManeuverArrowsVisibleSbvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-isManeuverArrowsVisible" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC23isManeuverArrowsVisibleSbvp" class="token"><code>isManeuverArrowsVisible</code></a> 
 
   </div>
 
@@ -2561,7 +2736,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
 - <div>
 
-  ` `<span id="/s:7heresdk15VisualNavigatorC27isOffRoadDestinationVisibleSbvp"></span>` `<span id="//apple_ref/swift/Property/isOffRoadDestinationVisible" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-visualnavigator#/s:7heresdk15VisualNavigatorC27isOffRoadDestinationVisibleSbvp" class="token"><code>isOffRoadDestinationVisible</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15VisualNavigatorC27isOffRoadDestinationVisibleSbvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-isOffRoadDestinationVisible" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC27isOffRoadDestinationVisibleSbvp" class="token"><code>isOffRoadDestinationVisible</code></a> 
 
   </div>
 
@@ -2605,7 +2780,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
 - <div>
 
-  ` `<span id="/s:7heresdk15VisualNavigatorC23isTrafficOnRouteVisibleSbvp"></span>` `<span id="//apple_ref/swift/Property/isTrafficOnRouteVisible" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-visualnavigator#/s:7heresdk15VisualNavigatorC23isTrafficOnRouteVisibleSbvp" class="token"><code>isTrafficOnRouteVisible</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15VisualNavigatorC23isTrafficOnRouteVisibleSbvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-isTrafficOnRouteVisible" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC23isTrafficOnRouteVisibleSbvp" class="token"><code>isTrafficOnRouteVisible</code></a> 
 
   </div>
 
@@ -2623,7 +2798,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
   <div class="abstract">
 
-  A boolean which defines whether to perform rendering of traffic conditions on the route when <a href="sdk-for-ios-explore-classes-route">`Route`</a> visualization is enabled during visual navigation. When enabled the route’s <a href="sdk-for-ios-explore-classes-mappolyline">`MapPolyline`</a> will be enhanced with visualization of the traffic conditions. Colors used for this visualization are defined in <a href="sdk-for-ios-explore-classes-visualnavigatorcolors#/s:7heresdk21VisualNavigatorColorsC014trafficOnRouteD0AA07TrafficfgD0Vvp">`VisualNavigatorColors.trafficOnRouteColors`</a>. The presented traffic information is either set by the user via <a href="sdk-for-ios-explore-classes-visualnavigator#/s:7heresdk15VisualNavigatorC14trafficOnRouteAA07TrafficeF0VSgvp">`trafficOnRoute`</a> or is generated from historical traffic data stored in the map. **Note:** `VisualNavigator` does not perform automatic traffic data updates. The updated traffic information is available through the \[sdk.routing.RoutingEngine.calculate_traffic_on_route\] interface. The returned <a href="sdk-for-ios-explore-structs-trafficonroute">`TrafficOnRoute`</a> could then be used to update \[sdk.navigation.NavigatorInterface.traffic_on_route\] to refresh the traffic on route visualization. Defaults to `false`.
+  A boolean which defines whether to perform rendering of traffic conditions on the route when <a href="sdk-for-ios-explore-classes-route">`Route`</a> visualization is enabled during visual navigation. When enabled the route’s <a href="sdk-for-ios-explore-classes-mappolyline">`MapPolyline`</a> will be enhanced with visualization of the traffic conditions. Colors used for this visualization are defined in <a href="sdk-for-ios-explore-classes-visualnavigatorcolors#sdk-for-ios-explore-s-7heresdk21VisualNavigatorColorsC014trafficOnRouteD0AA07TrafficfgD0Vvp">`VisualNavigatorColors.trafficOnRouteColors`</a>. The presented traffic information is either set by the user via <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC14trafficOnRouteAA07TrafficeF0VSgvp">`trafficOnRoute`</a> or is generated from historical traffic data stored in the map. **Note:** `VisualNavigator` does not perform automatic traffic data updates. The updated traffic information is available through the \[sdk.routing.RoutingEngine.calculate_traffic_on_route\] interface. The returned <a href="sdk-for-ios-explore-structs-trafficonroute">`TrafficOnRoute`</a> could then be used to update \[sdk.navigation.NavigatorInterface.traffic_on_route\] to refresh the traffic on route visualization. Defaults to `false`.
 
   </div>
 
@@ -2649,7 +2824,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
 - <div>
 
-  ` `<span id="/s:7heresdk15VisualNavigatorC23customLocationIndicatorAA0eF0CSgvp"></span>` `<span id="//apple_ref/swift/Property/customLocationIndicator" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-visualnavigator#/s:7heresdk15VisualNavigatorC23customLocationIndicatorAA0eF0CSgvp" class="token"><code>customLocationIndicator</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15VisualNavigatorC23customLocationIndicatorAA0eF0CSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-customLocationIndicator" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC23customLocationIndicatorAA0eF0CSgvp" class="token"><code>customLocationIndicator</code></a> 
 
   </div>
 
@@ -2685,6 +2860,10 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-locationindicator">LocationIndicator</a>
+
   </div>
 
   </div>
@@ -2693,7 +2872,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
 - <div>
 
-  ` `<span id="/s:7heresdk15VisualNavigatorC28interpolatedLocationDelegateAA012InterpolatedeF0_pSgvp"></span>` `<span id="//apple_ref/swift/Property/interpolatedLocationDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-visualnavigator#/s:7heresdk15VisualNavigatorC28interpolatedLocationDelegateAA012InterpolatedeF0_pSgvp" class="token"><code>interpolatedLocationDelegate</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15VisualNavigatorC28interpolatedLocationDelegateAA012InterpolatedeF0_pSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-interpolatedLocationDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC28interpolatedLocationDelegateAA012InterpolatedeF0_pSgvp" class="token"><code>interpolatedLocationDelegate</code></a> 
 
   </div>
 
@@ -2729,6 +2908,10 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-protocols-interpolatedlocationdelegate">InterpolatedLocationDelegate</a>
+
   </div>
 
   </div>
@@ -2737,7 +2920,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
 - <div>
 
-  ` `<span id="/s:7heresdk15VisualNavigatorC11isRenderingSbvp"></span>` `<span id="//apple_ref/swift/Property/isRendering" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-visualnavigator#/s:7heresdk15VisualNavigatorC11isRenderingSbvp" class="token"><code>isRendering</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15VisualNavigatorC11isRenderingSbvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-isRendering" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC11isRenderingSbvp" class="token"><code>isRendering</code></a> 
 
   </div>
 
@@ -2781,7 +2964,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
 - <div>
 
-  ` `<span id="/s:7heresdk15VisualNavigatorC6colorsAA0bC6ColorsCvp"></span>` `<span id="//apple_ref/swift/Property/colors" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-visualnavigator#/s:7heresdk15VisualNavigatorC6colorsAA0bC6ColorsCvp" class="token"><code>colors</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15VisualNavigatorC6colorsAA0bC6ColorsCvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-colors" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC6colorsAA0bC6ColorsCvp" class="token"><code>colors</code></a> 
 
   </div>
 
@@ -2817,6 +3000,10 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-visualnavigatorcolors">VisualNavigatorColors</a>
+
   </div>
 
   </div>
@@ -2825,7 +3012,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
 - <div>
 
-  ` `<span id="/s:7heresdk15VisualNavigatorC21measureDependentWidthSDyAA10MapMeasureVSdGvp"></span>` `<span id="//apple_ref/swift/Property/measureDependentWidth" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-visualnavigator#/s:7heresdk15VisualNavigatorC21measureDependentWidthSDyAA10MapMeasureVSdGvp" class="token"><code>measureDependentWidth</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15VisualNavigatorC21measureDependentWidthSDyAA10MapMeasureVSdGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-measureDependentWidth" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC21measureDependentWidthSDyAA10MapMeasureVSdGvp" class="token"><code>measureDependentWidth</code></a> 
 
   </div>
 
@@ -2843,7 +3030,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
   <div class="abstract">
 
-  The `measureDependentWidth` that defines the route and maneuver arrows width. It is a dictionary that has keys that are <a href="sdk-for-ios-explore-structs-mapmeasure">`MapMeasure`</a>s and values that are width in pixels at this <a href="sdk-for-ios-explore-structs-mapmeasure">`MapMeasure`</a>s. This route and maneuver arrows width is multiplied by a pixel_scale `pixelScale` before being rendered. The maneuver arrow width is additionally multiplied by a factor configurable with <a href="sdk-for-ios-explore-classes-visualnavigator#/s:7heresdk15VisualNavigatorC24maneuverArrowWidthFactorSdvp">`VisualNavigator.maneuverArrowWidthFactor`</a>; which by default equals one. The function defined by a dictionary is linearly interpolated between each successive pair of data points. For keys below the lowest <a href="sdk-for-ios-explore-structs-mapmeasure">`MapMeasure`</a>, its corresponding value width is used. For keys above the highest <a href="sdk-for-ios-explore-structs-mapmeasure">`MapMeasure`</a>, its corresponding value width is used. Only <a href="sdk-for-ios-explore-structs-mapmeasure">`MapMeasure`</a> of \[sdk.mapview.MapMeasure.Kind.ZOOM_LEVEL\] type are supported. <a href="sdk-for-ios-explore-structs-mapmeasure">`MapMeasure`</a> of other unsupported types will be ignored. `measureDependentWidth` with a single entry is equivalent to use of the constant width value of this single entry for all <a href="sdk-for-ios-explore-structs-mapmeasure">`MapMeasure`</a>s. Empty `measureDependentWidth` is ignored and existing dictionary of width is maintained. The width values should be positive. Dictionary entries with width values less than or equal to 0 are ignored. If route and maneuver arrows were not configured with this property, then `measureDependentWidth` contains predefined values chosen to be optimal for different route classes.
+  The `measureDependentWidth` that defines the route and maneuver arrows width. It is a dictionary that has keys that are <a href="sdk-for-ios-explore-structs-mapmeasure">`MapMeasure`</a>s and values that are width in pixels at this <a href="sdk-for-ios-explore-structs-mapmeasure">`MapMeasure`</a>s. This route and maneuver arrows width is multiplied by a pixel_scale `pixelScale` before being rendered. The maneuver arrow width is additionally multiplied by a factor configurable with <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC24maneuverArrowWidthFactorSdvp">`VisualNavigator.maneuverArrowWidthFactor`</a>; which by default equals one. The function defined by a dictionary is linearly interpolated between each successive pair of data points. For keys below the lowest <a href="sdk-for-ios-explore-structs-mapmeasure">`MapMeasure`</a>, its corresponding value width is used. For keys above the highest <a href="sdk-for-ios-explore-structs-mapmeasure">`MapMeasure`</a>, its corresponding value width is used. Only <a href="sdk-for-ios-explore-structs-mapmeasure">`MapMeasure`</a> of \[sdk.mapview.MapMeasure.Kind.ZOOM_LEVEL\] type are supported. <a href="sdk-for-ios-explore-structs-mapmeasure">`MapMeasure`</a> of other unsupported types will be ignored. `measureDependentWidth` with a single entry is equivalent to use of the constant width value of this single entry for all <a href="sdk-for-ios-explore-structs-mapmeasure">`MapMeasure`</a>s. Empty `measureDependentWidth` is ignored and existing dictionary of width is maintained. The width values should be positive. Dictionary entries with width values less than or equal to 0 are ignored. If route and maneuver arrows were not configured with this property, then `measureDependentWidth` contains predefined values chosen to be optimal for different route classes.
 
   Note: This is a beta release of this feature, so there could be a few bugs and unexpected behavior. Related APIs may change for new releases without a deprecation process.
 
@@ -2863,6 +3050,10 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-mapmeasure">MapMeasure</a>
+
   </div>
 
   </div>
@@ -2871,7 +3062,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
 - <div>
 
-  ` `<span id="/s:7heresdk15VisualNavigatorC24maneuverArrowWidthFactorSdvp"></span>` `<span id="//apple_ref/swift/Property/maneuverArrowWidthFactor" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-visualnavigator#/s:7heresdk15VisualNavigatorC24maneuverArrowWidthFactorSdvp" class="token"><code>maneuverArrowWidthFactor</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15VisualNavigatorC24maneuverArrowWidthFactorSdvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-maneuverArrowWidthFactor" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC24maneuverArrowWidthFactorSdvp" class="token"><code>maneuverArrowWidthFactor</code></a> 
 
   </div>
 
@@ -2889,7 +3080,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
   <div class="abstract">
 
-  A factor of <a href="sdk-for-ios-explore-classes-visualnavigator#/s:7heresdk15VisualNavigatorC21measureDependentWidthSDyAA10MapMeasureVSdGvp">`VisualNavigator.measureDependentWidth`</a> defining the width of the maneuver arrow. The factor should be positive. A value less than or equal to 0 is ignored. By default it is set to one.
+  A factor of <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC21measureDependentWidthSDyAA10MapMeasureVSdGvp">`VisualNavigator.measureDependentWidth`</a> defining the width of the maneuver arrow. The factor should be positive. A value less than or equal to 0 is ignored. By default it is set to one.
 
   </div>
 
@@ -2915,7 +3106,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
 - <div>
 
-  ` `<span id="/s:7heresdk15VisualNavigatorC22isExtrapolationEnabledSbvp"></span>` `<span id="//apple_ref/swift/Property/isExtrapolationEnabled" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-visualnavigator#/s:7heresdk15VisualNavigatorC22isExtrapolationEnabledSbvp" class="token"><code>isExtrapolationEnabled</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15VisualNavigatorC22isExtrapolationEnabledSbvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-isExtrapolationEnabled" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC22isExtrapolationEnabledSbvp" class="token"><code>isExtrapolationEnabled</code></a> 
 
   </div>
 
@@ -2959,7 +3150,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
 - <div>
 
-  ` `<span id="/s:7heresdk15VisualNavigatorC16debugGpxFilePathSSSgvp"></span>` `<span id="//apple_ref/swift/Property/debugGpxFilePath" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-visualnavigator#/s:7heresdk15VisualNavigatorC16debugGpxFilePathSSSgvp" class="token"><code>debugGpxFilePath</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15VisualNavigatorC16debugGpxFilePathSSSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-debugGpxFilePath" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC16debugGpxFilePathSSSgvp" class="token"><code>debugGpxFilePath</code></a> 
 
   </div>
 
@@ -3003,7 +3194,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
 - <div>
 
-  ` `<span id="/s:7heresdk15VisualNavigatorC18isDebugModeEnabledSbvp"></span>` `<span id="//apple_ref/swift/Property/isDebugModeEnabled" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-visualnavigator#/s:7heresdk15VisualNavigatorC18isDebugModeEnabledSbvp" class="token"><code>isDebugModeEnabled</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15VisualNavigatorC18isDebugModeEnabledSbvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-isDebugModeEnabled" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC18isDebugModeEnabledSbvp" class="token"><code>isDebugModeEnabled</code></a> 
 
   </div>
 
@@ -3081,7 +3272,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
 - <div>
 
-  ` `<span id="/s:7heresdk15VisualNavigatorC28isLocationAccuracyVisualizedSbvp"></span>` `<span id="//apple_ref/swift/Property/isLocationAccuracyVisualized" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-visualnavigator#/s:7heresdk15VisualNavigatorC28isLocationAccuracyVisualizedSbvp" class="token"><code>isLocationAccuracyVisualized</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15VisualNavigatorC28isLocationAccuracyVisualizedSbvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-isLocationAccuracyVisualized" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC28isLocationAccuracyVisualizedSbvp" class="token"><code>isLocationAccuracyVisualized</code></a> 
 
   </div>
 
@@ -3099,7 +3290,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
   <div class="abstract">
 
-  Controls if the halo accuracy visualization of the default <a href="sdk-for-ios-explore-classes-locationindicator">`LocationIndicator`</a> is rendered or not. Does not affect halo accuracy indicator of the <a href="sdk-for-ios-explore-classes-visualnavigator#/s:7heresdk15VisualNavigatorC23customLocationIndicatorAA0eF0CSgvp">`VisualNavigator.customLocationIndicator`</a>. If <a href="sdk-for-ios-explore-classes-visualnavigator#/s:7heresdk15VisualNavigatorC23customLocationIndicatorAA0eF0CSgvp">`VisualNavigator.customLocationIndicator`</a> is set, then its halo accuracy indicator can be controlled using <a href="sdk-for-ios-explore-classes-locationindicator#/s:7heresdk17LocationIndicatorC20isAccuracyVisualizedSbvp">`LocationIndicator.isAccuracyVisualized`</a>.
+  Controls if the halo accuracy visualization of the default <a href="sdk-for-ios-explore-classes-locationindicator">`LocationIndicator`</a> is rendered or not. Does not affect halo accuracy indicator of the <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC23customLocationIndicatorAA0eF0CSgvp">`VisualNavigator.customLocationIndicator`</a>. If <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC23customLocationIndicatorAA0eF0CSgvp">`VisualNavigator.customLocationIndicator`</a> is set, then its halo accuracy indicator can be controlled using <a href="sdk-for-ios-explore-classes-locationindicator#sdk-for-ios-explore-s-7heresdk17LocationIndicatorC20isAccuracyVisualizedSbvp">`LocationIndicator.isAccuracyVisualized`</a>.
 
   </div>
 
@@ -3125,7 +3316,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
 - <div>
 
-  ` `<span id="/s:7heresdk15VisualNavigatorC25isDynamicFrameRateEnabledSbvp"></span>` `<span id="//apple_ref/swift/Property/isDynamicFrameRateEnabled" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-visualnavigator#/s:7heresdk15VisualNavigatorC25isDynamicFrameRateEnabledSbvp" class="token"><code>isDynamicFrameRateEnabled</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15VisualNavigatorC25isDynamicFrameRateEnabledSbvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-isDynamicFrameRateEnabled" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC25isDynamicFrameRateEnabledSbvp" class="token"><code>isDynamicFrameRateEnabled</code></a> 
 
   </div>
 
@@ -3169,7 +3360,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
 - <div>
 
-  ` `<span id="/s:7heresdk15VisualNavigatorC17guidanceFrameRates5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/guidanceFrameRate" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-visualnavigator#/s:7heresdk15VisualNavigatorC17guidanceFrameRates5Int32Vvp" class="token"><code>guidanceFrameRate</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15VisualNavigatorC17guidanceFrameRates5Int32Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-guidanceFrameRate" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC17guidanceFrameRates5Int32Vvp" class="token"><code>guidanceFrameRate</code></a> 
 
   </div>
 
@@ -3213,7 +3404,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
 - <div>
 
-  ` `<span id="/s:7heresdk15VisualNavigatorC14routeDrawOrders5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/routeDrawOrder" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-visualnavigator#/s:7heresdk15VisualNavigatorC14routeDrawOrders5Int32Vvp" class="token"><code>routeDrawOrder</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15VisualNavigatorC14routeDrawOrders5Int32Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-routeDrawOrder" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC14routeDrawOrders5Int32Vvp" class="token"><code>routeDrawOrder</code></a> 
 
   </div>
 
@@ -3231,7 +3422,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
   <div class="abstract">
 
-  The draw order of the polylines representing the route. The draw order of the polylines representing the route. For more details see <a href="sdk-for-ios-explore-classes-mappolyline#/s:7heresdk11MapPolylineC9drawOrders5Int32Vvp">`MapPolyline.drawOrder`</a>. The default is 0.
+  The draw order of the polylines representing the route. The draw order of the polylines representing the route. For more details see <a href="sdk-for-ios-explore-classes-mappolyline#sdk-for-ios-explore-s-7heresdk11MapPolylineC9drawOrders5Int32Vvp">`MapPolyline.drawOrder`</a>. The default is 0.
 
   </div>
 
@@ -3257,7 +3448,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
 - <div>
 
-  ` `<span id="/s:7heresdk15VisualNavigatorC18routeDrawOrderTypeAA0efG0Ovp"></span>` `<span id="//apple_ref/swift/Property/routeDrawOrderType" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-visualnavigator#/s:7heresdk15VisualNavigatorC18routeDrawOrderTypeAA0efG0Ovp" class="token"><code>routeDrawOrderType</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15VisualNavigatorC18routeDrawOrderTypeAA0efG0Ovp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-routeDrawOrderType" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC18routeDrawOrderTypeAA0efG0Ovp" class="token"><code>routeDrawOrderType</code></a> 
 
   </div>
 
@@ -3275,7 +3466,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
   <div class="abstract">
 
-  The draw order type of the polylines representing the route. The draw order type of the polylines representing the route. For more details see <a href="sdk-for-ios-explore-classes-mappolyline#/s:7heresdk11MapPolylineC13drawOrderTypeAA04DraweF0Ovp">`MapPolyline.drawOrderType`</a>. The default is <a href="sdk-for-ios-explore-enums-drawordertype#/s:7heresdk13DrawOrderTypeO016mapSceneAdditionC9DependentyA2CmF">`DrawOrderType.mapSceneAdditionOrderDependent`</a>.
+  The draw order type of the polylines representing the route. The draw order type of the polylines representing the route. For more details see <a href="sdk-for-ios-explore-classes-mappolyline#sdk-for-ios-explore-s-7heresdk11MapPolylineC13drawOrderTypeAA04DraweF0Ovp">`MapPolyline.drawOrderType`</a>. The default is <a href="sdk-for-ios-explore-enums-drawordertype#sdk-for-ios-explore-s-7heresdk13DrawOrderTypeO016mapSceneAdditionC9DependentyA2CmF">`DrawOrderType.mapSceneAdditionOrderDependent`</a>.
 
   </div>
 
@@ -3293,6 +3484,10 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-drawordertype">DrawOrderType</a>
+
   </div>
 
   </div>
@@ -3301,7 +3496,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
 - <div>
 
-      getManeuver(index: )
+   <span id="sdk-for-ios-explore-s-7heresdk15VisualNavigatorC11getManeuver5indexAA0E0CSgs5Int32V_tF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-getManeuver-index" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC11getManeuver5indexAA0E0CSgs5Int32V_tF" class="token"><code>getManeuver(index:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -3332,12 +3527,14 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
   Swift
 
   ``` highlight
-  public func getManeuver ( index : Int32 ) -> Maneuver ?
+  public func getManeuver(index: Int32) -> Maneuver?
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-maneuver">Maneuver</a>
 
   </div>
 
@@ -3376,7 +3573,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
 - <div>
 
-      getManeuverNotificationTimingOptions(transportMode: timingProfile: )
+   <span id="sdk-for-ios-explore-s-7heresdk15VisualNavigatorC36getManeuverNotificationTimingOptions13transportMode13timingProfileAA0efgH0VAA09TransportJ0O_AA0gL0OtF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-getManeuverNotificationTimingOptions-transportMode-timingProfile" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC36getManeuverNotificationTimingOptions13transportMode13timingProfileAA0efgH0VAA09TransportJ0O_AA0gL0OtF" class="token"><code>getManeuverNotificationTimingOptions(transportMode:</code><wbr></wbr><code>timingProfile:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -3407,12 +3604,16 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
   Swift
 
   ``` highlight
-  public func getManeuverNotificationTimingOptions ( transportMode : TransportMode , timingProfile : TimingProfile ) -> ManeuverNotificationTimingOptions
+  public func getManeuverNotificationTimingOptions(transportMode: TransportMode, timingProfile: TimingProfile) -> ManeuverNotificationTimingOptions
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-transportmode">TransportMode</a>
+  - <a href="sdk-for-ios-explore-enums-timingprofile">TimingProfile</a>
+  - <a href="sdk-for-ios-explore-structs-maneuvernotificationtimingoptions">ManeuverNotificationTimingOptions</a>
 
   </div>
 
@@ -3457,7 +3658,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
 - <div>
 
-      setManeuverNotificationTimingOptions(transportMode: timingProfile: options: )
+   <span id="sdk-for-ios-explore-s-7heresdk15VisualNavigatorC36setManeuverNotificationTimingOptions13transportMode13timingProfile7optionsSbAA09TransportJ0O_AA0gL0OAA0efgH0VtF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-setManeuverNotificationTimingOptions-transportMode-timingProfile-options" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC36setManeuverNotificationTimingOptions13transportMode13timingProfile7optionsSbAA09TransportJ0O_AA0gL0OAA0efgH0VtF" class="token"><code>setManeuverNotificationTimingOptions(transportMode:</code><wbr></wbr><code>timingProfile:</code><wbr></wbr><code>options:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -3488,12 +3689,17 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
   Swift
 
   ``` highlight
-  @discardableResult public func setManeuverNotificationTimingOptions ( transportMode : TransportMode , timingProfile : TimingProfile , options : ManeuverNotificationTimingOptions ) -> Bool
+  @discardableResult
+  public func setManeuverNotificationTimingOptions(transportMode: TransportMode, timingProfile: TimingProfile, options: ManeuverNotificationTimingOptions) -> Bool
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-transportmode">TransportMode</a>
+  - <a href="sdk-for-ios-explore-enums-timingprofile">TimingProfile</a>
+  - <a href="sdk-for-ios-explore-structs-maneuvernotificationtimingoptions">ManeuverNotificationTimingOptions</a>
 
   </div>
 
@@ -3544,7 +3750,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
 - <div>
 
-      getWarningNotificationDistances(warningType: )
+   <span id="sdk-for-ios-explore-s-7heresdk15VisualNavigatorC31getWarningNotificationDistances11warningTypeAA0efG0VAA0eI0O_tF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-getWarningNotificationDistances-warningType" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC31getWarningNotificationDistances11warningTypeAA0efG0VAA0eI0O_tF" class="token"><code>getWarningNotificationDistances(warningType:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -3575,12 +3781,15 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
   Swift
 
   ``` highlight
-  public func getWarningNotificationDistances ( warningType : WarningType ) -> WarningNotificationDistances
+  public func getWarningNotificationDistances(warningType: WarningType) -> WarningNotificationDistances
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-warningtype">WarningType</a>
+  - <a href="sdk-for-ios-explore-structs-warningnotificationdistances">WarningNotificationDistances</a>
 
   </div>
 
@@ -3619,7 +3828,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
 - <div>
 
-      setWarningNotificationDistances(warningType: warningNotificationDistances: )
+   <span id="sdk-for-ios-explore-s-7heresdk15VisualNavigatorC31setWarningNotificationDistances11warningType0hfG0SbAA0eI0O_AA0efG0VtF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-setWarningNotificationDistances-warningType-warningNotificationDistances" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC31setWarningNotificationDistances11warningType0hfG0SbAA0eI0O_AA0efG0VtF" class="token"><code>setWarningNotificationDistances(warningType:</code><wbr></wbr><code>warningNotificationDistances:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -3650,12 +3859,16 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
   Swift
 
   ``` highlight
-  @discardableResult public func setWarningNotificationDistances ( warningType : WarningType , warningNotificationDistances : WarningNotificationDistances ) -> Bool
+  @discardableResult
+  public func setWarningNotificationDistances(warningType: WarningType, warningNotificationDistances: WarningNotificationDistances) -> Bool
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-warningtype">WarningType</a>
+  - <a href="sdk-for-ios-explore-structs-warningnotificationdistances">WarningNotificationDistances</a>
 
   </div>
 
@@ -3700,7 +3913,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
 - <div>
 
-      repeatLastManeuverNotification()
+   <span id="sdk-for-ios-explore-s-7heresdk15VisualNavigatorC30repeatLastManeuverNotificationyyF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-repeatLastManeuverNotification" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC30repeatLastManeuverNotificationyyF" class="token"><code>repeatLastManeuverNotification()</code></a> 
 
   </div>
 
@@ -3731,10 +3944,8 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
   Swift
 
   ``` highlight
-  public func repeatLastManeuverNotification ()
+  public func repeatLastManeuverNotification()
   ```
-
-  </pre>
 
   </div>
 
@@ -3746,7 +3957,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
 - <div>
 
-      calculateRemainingDistanceInMeters(coordinates: )
+   <span id="sdk-for-ios-explore-s-7heresdk15VisualNavigatorC34calculateRemainingDistanceInMeters11coordinatess5Int32VSgAA14GeoCoordinatesV_tF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-calculateRemainingDistanceInMeters-coordinates" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC34calculateRemainingDistanceInMeters11coordinatess5Int32VSgAA14GeoCoordinatesV_tF" class="token"><code>calculateRemainingDistanceInMeters(coordinates:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -3777,12 +3988,14 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
   Swift
 
   ``` highlight
-  public func calculateRemainingDistanceInMeters ( coordinates : GeoCoordinates ) -> Int32 ?
+  public func calculateRemainingDistanceInMeters(coordinates: GeoCoordinates) -> Int32?
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geocoordinates">GeoCoordinates</a>
 
   </div>
 
@@ -3821,7 +4034,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
 - <div>
 
-      setCustomOption(key: value: )
+   <span id="sdk-for-ios-explore-s-7heresdk15VisualNavigatorC15setCustomOption3key5valueySS_SStF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-setCustomOption-key-value" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC15setCustomOption3key5valueySS_SStF" class="token"><code>setCustomOption(key:</code><wbr></wbr><code>value:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -3852,10 +4065,8 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
   Swift
 
   ``` highlight
-  public func setCustomOption ( key : String , value : String )
+  public func setCustomOption(key: String, value: String)
   ```
-
-  </pre>
 
   </div>
 
@@ -3894,7 +4105,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
 - <div>
 
-      onLocationUpdated(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk15VisualNavigatorC17onLocationUpdatedyyAA0E0VF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-onLocationUpdated-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC17onLocationUpdatedyyAA0E0VF" class="token"><code>onLocationUpdated(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -3912,7 +4123,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
   <div class="abstract">
 
-  Called each time a new location is available. In a navigation context while using the <a href="sdk-for-ios-explore-classes-navigator">`Navigator`</a> or `VisualNavigator`, it’s required to set the <a href="sdk-for-ios-explore-structs-location#/s:7heresdk8LocationV4time10Foundation4DateVSgvp">`Location.time`</a> parameter for each <a href="sdk-for-ios-explore-structs-location">`Location`</a> object so that the HERE SDK can map-match the locations properly. If the <a href="sdk-for-ios-explore-structs-location#/s:7heresdk8LocationV4time10Foundation4DateVSgvp">`Location.time`</a> parameter is missing, the location will be ignored. For navigation, it is also recommended to provide the `bearing` and `speed` parameters for each <a href="sdk-for-ios-explore-structs-location">`Location`</a> object. Invoked on the main thread.
+  Called each time a new location is available. In a navigation context while using the <a href="sdk-for-ios-explore-classes-navigator">`Navigator`</a> or `VisualNavigator`, it’s required to set the <a href="sdk-for-ios-explore-structs-location#sdk-for-ios-explore-s-7heresdk8LocationV4time10Foundation4DateVSgvp">`Location.time`</a> parameter for each <a href="sdk-for-ios-explore-structs-location">`Location`</a> object so that the HERE SDK can map-match the locations properly. If the <a href="sdk-for-ios-explore-structs-location#sdk-for-ios-explore-s-7heresdk8LocationV4time10Foundation4DateVSgvp">`Location.time`</a> parameter is missing, the location will be ignored. For navigation, it is also recommended to provide the `bearing` and `speed` parameters for each <a href="sdk-for-ios-explore-structs-location">`Location`</a> object. Invoked on the main thread.
 
   </div>
 
@@ -3925,12 +4136,14 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
   Swift
 
   ``` highlight
-  public func onLocationUpdated ( _ location : Location )
+  public func onLocationUpdated(_ location: Location)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-location">Location</a>
 
   </div>
 
@@ -3961,7 +4174,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
 - <div>
 
-      availableLanguagesForManeuverNotifications()
+   <span id="sdk-for-ios-explore-s-7heresdk15VisualNavigatorC42availableLanguagesForManeuverNotificationsSayAA12LanguageCodeOGyFZ"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-availableLanguagesForManeuverNotifications" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC42availableLanguagesForManeuverNotificationsSayAA12LanguageCodeOGyFZ" class="token"><code>availableLanguagesForManeuverNotifications()</code></a> 
 
   </div>
 
@@ -3992,12 +4205,14 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
   Swift
 
   ``` highlight
-  public static func availableLanguagesForManeuverNotifications () -> [ LanguageCode ]
+  public static func availableLanguagesForManeuverNotifications() -> [LanguageCode]
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-languagecode">LanguageCode</a>
 
   </div>
 
@@ -4015,7 +4230,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
 - <div>
 
-      startRendering(mapView: )
+   <span id="sdk-for-ios-explore-s-7heresdk15VisualNavigatorC14startRendering7mapViewyAA03MapG4Base_p_tF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-startRendering-mapView" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC14startRendering7mapViewyAA03MapG4Base_p_tF" class="token"><code>startRendering(mapView:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -4033,7 +4248,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
   <div class="abstract">
 
-  Starts visual navigation rendering. A preconfigured current location marker is shown as soon as a location is received. The marker is chosen according to the transport mode specified in the route. If no route is present, the marker is chosen based on the <a href="sdk-for-ios-explore-classes-visualnavigator#/s:7heresdk15VisualNavigatorC30trackingTransportSpecificationAA0eF0VSgvp">`trackingTransportSpecification`</a> property. Calling startRendering(\_) changes the <a href="sdk-for-ios-explore-classes-mapcamera#/s:7heresdk9MapCameraC14principalPointAA7Point2DVvp">`MapCamera.principalPoint`</a> property so that the current position indicator is equal to the value from \[sdk.navigation.CameraBehavior.normalized_principal_point\], in which by default places the principal point slightly at the bottom of the mapview. It is restored to its original value when stopRendering() is called. **Note:** When rendering is started again for a new map view instance, rendering is automatically stopped on the previous map view instance. Also note that the `frameRate` can be lowered to reduce CPU usage, to adjust for tradeoffs between rendering smoothness versus battery consumption.
+  Starts visual navigation rendering. A preconfigured current location marker is shown as soon as a location is received. The marker is chosen according to the transport mode specified in the route. If no route is present, the marker is chosen based on the <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC30trackingTransportSpecificationAA0eF0VSgvp">`trackingTransportSpecification`</a> property. Calling startRendering(\_) changes the <a href="sdk-for-ios-explore-classes-mapcamera#sdk-for-ios-explore-s-7heresdk9MapCameraC14principalPointAA7Point2DVvp">`MapCamera.principalPoint`</a> property so that the current position indicator is equal to the value from \[sdk.navigation.CameraBehavior.normalized_principal_point\], in which by default places the principal point slightly at the bottom of the mapview. It is restored to its original value when stopRendering() is called. **Note:** When rendering is started again for a new map view instance, rendering is automatically stopped on the previous map view instance. Also note that the `frameRate` can be lowered to reduce CPU usage, to adjust for tradeoffs between rendering smoothness versus battery consumption.
 
   </div>
 
@@ -4046,12 +4261,14 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
   Swift
 
   ``` highlight
-  public func startRendering ( mapView : MapViewBase )
+  public func startRendering(mapView: MapViewBase)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-protocols-mapviewbase">MapViewBase</a>
 
   </div>
 
@@ -4082,7 +4299,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
 - <div>
 
-      stopRendering()
+   <span id="sdk-for-ios-explore-s-7heresdk15VisualNavigatorC13stopRenderingyyF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-stopRendering" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC13stopRenderingyyF" class="token"><code>stopRendering()</code></a> 
 
   </div>
 
@@ -4113,10 +4330,8 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
   Swift
 
   ``` highlight
-  public func stopRendering ()
+  public func stopRendering()
   ```
-
-  </pre>
 
   </div>
 
@@ -4128,7 +4343,7 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
 
 - <div>
 
-      defaultRouteManeuverArrowMeasureDependentWidths()
+   <span id="sdk-for-ios-explore-s-7heresdk15VisualNavigatorC47defaultRouteManeuverArrowMeasureDependentWidthsSDyAA03MapH0VSdGyFZ"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-defaultRouteManeuverArrowMeasureDependentWidths" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-visualnavigator#sdk-for-ios-explore-s-7heresdk15VisualNavigatorC47defaultRouteManeuverArrowMeasureDependentWidthsSDyAA03MapH0VSdGyFZ" class="token"><code>defaultRouteManeuverArrowMeasureDependentWidths()</code></a> 
 
   </div>
 
@@ -4159,12 +4374,14 @@ call) will be used. While the VisualNavigator is rendering, direct changes in th
   Swift
 
   ``` highlight
-  public static func defaultRouteManeuverArrowMeasureDependentWidths () -> [ MapMeasure : Double ]
+  public static func defaultRouteManeuverArrowMeasureDependentWidths() -> [MapMeasure : Double]
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-mapmeasure">MapMeasure</a>
 
   </div>
 

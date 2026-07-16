@@ -27,7 +27,7 @@ The type of road which is merging onto the current road.
 
 - <div>
 
-  ` `<span id="/s:7heresdk20TrafficMergeRoadTypeO013limitedAccessD0yA2CmF"></span>` `<span id="//apple_ref/swift/Element/limitedAccessRoad" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-trafficmergeroadtype#/s:7heresdk20TrafficMergeRoadTypeO013limitedAccessD0yA2CmF" class="token"><code>limitedAccessRoad</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk20TrafficMergeRoadTypeO013limitedAccessD0yA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-limitedAccessRoad" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-trafficmergeroadtype#sdk-for-ios-explore-s-7heresdk20TrafficMergeRoadTypeO013limitedAccessD0yA2CmF" class="token"><code>limitedAccessRoad</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ The type of road which is merging onto the current road.
 
 - <div>
 
-  ` `<span id="/s:7heresdk20TrafficMergeRoadTypeO8sliproadyA2CmF"></span>` `<span id="//apple_ref/swift/Element/sliproad" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-trafficmergeroadtype#/s:7heresdk20TrafficMergeRoadTypeO8sliproadyA2CmF" class="token"><code>sliproad</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk20TrafficMergeRoadTypeO8sliproadyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-sliproad" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-trafficmergeroadtype#sdk-for-ios-explore-s-7heresdk20TrafficMergeRoadTypeO8sliproadyA2CmF" class="token"><code>sliproad</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ The type of road which is merging onto the current road.
 
 - <div>
 
-  ` `<span id="/s:7heresdk20TrafficMergeRoadTypeO7highwayyA2CmF"></span>` `<span id="//apple_ref/swift/Element/highway" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-trafficmergeroadtype#/s:7heresdk20TrafficMergeRoadTypeO7highwayyA2CmF" class="token"><code>highway</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk20TrafficMergeRoadTypeO7highwayyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-highway" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-trafficmergeroadtype#sdk-for-ios-explore-s-7heresdk20TrafficMergeRoadTypeO7highwayyA2CmF" class="token"><code>highway</code></a> 
 
   </div>
 

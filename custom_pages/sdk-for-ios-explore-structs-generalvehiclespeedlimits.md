@@ -27,7 +27,7 @@ Contains the speed limits for vehicles in a country / state.
 
 - <div>
 
-  ` `<span id="/s:7heresdk25GeneralVehicleSpeedLimitsV03maxD25HighwaysInMetersPerSecondSdSgvp"></span>` `<span id="//apple_ref/swift/Property/maxSpeedHighwaysInMetersPerSecond" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-generalvehiclespeedlimits#/s:7heresdk25GeneralVehicleSpeedLimitsV03maxD25HighwaysInMetersPerSecondSdSgvp" class="token"><code>maxSpeedHighwaysInMetersPerSecond</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk25GeneralVehicleSpeedLimitsV03maxD25HighwaysInMetersPerSecondSdSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-maxSpeedHighwaysInMetersPerSecond" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-generalvehiclespeedlimits#sdk-for-ios-explore-s-7heresdk25GeneralVehicleSpeedLimitsV03maxD25HighwaysInMetersPerSecondSdSgvp" class="token"><code>maxSpeedHighwaysInMetersPerSecond</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Contains the speed limits for vehicles in a country / state.
 
 - <div>
 
-  ` `<span id="/s:7heresdk25GeneralVehicleSpeedLimitsV03maxD22RuralInMetersPerSecondSdSgvp"></span>` `<span id="//apple_ref/swift/Property/maxSpeedRuralInMetersPerSecond" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-generalvehiclespeedlimits#/s:7heresdk25GeneralVehicleSpeedLimitsV03maxD22RuralInMetersPerSecondSdSgvp" class="token"><code>maxSpeedRuralInMetersPerSecond</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk25GeneralVehicleSpeedLimitsV03maxD22RuralInMetersPerSecondSdSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-maxSpeedRuralInMetersPerSecond" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-generalvehiclespeedlimits#sdk-for-ios-explore-s-7heresdk25GeneralVehicleSpeedLimitsV03maxD22RuralInMetersPerSecondSdSgvp" class="token"><code>maxSpeedRuralInMetersPerSecond</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Contains the speed limits for vehicles in a country / state.
 
 - <div>
 
-  ` `<span id="/s:7heresdk25GeneralVehicleSpeedLimitsV03maxD22UrbanInMetersPerSecondSdSgvp"></span>` `<span id="//apple_ref/swift/Property/maxSpeedUrbanInMetersPerSecond" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-generalvehiclespeedlimits#/s:7heresdk25GeneralVehicleSpeedLimitsV03maxD22UrbanInMetersPerSecondSdSgvp" class="token"><code>maxSpeedUrbanInMetersPerSecond</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk25GeneralVehicleSpeedLimitsV03maxD22UrbanInMetersPerSecondSdSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-maxSpeedUrbanInMetersPerSecond" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-generalvehiclespeedlimits#sdk-for-ios-explore-s-7heresdk25GeneralVehicleSpeedLimitsV03maxD22UrbanInMetersPerSecondSdSgvp" class="token"><code>maxSpeedUrbanInMetersPerSecond</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Contains the speed limits for vehicles in a country / state.
 
 - <div>
 
-  ` `<span id="/s:7heresdk25GeneralVehicleSpeedLimitsV03maxD24RainingInMetersPerSecondSdSgvp"></span>` `<span id="//apple_ref/swift/Property/maxSpeedRainingInMetersPerSecond" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-generalvehiclespeedlimits#/s:7heresdk25GeneralVehicleSpeedLimitsV03maxD24RainingInMetersPerSecondSdSgvp" class="token"><code>maxSpeedRainingInMetersPerSecond</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk25GeneralVehicleSpeedLimitsV03maxD24RainingInMetersPerSecondSdSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-maxSpeedRainingInMetersPerSecond" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-generalvehiclespeedlimits#sdk-for-ios-explore-s-7heresdk25GeneralVehicleSpeedLimitsV03maxD24RainingInMetersPerSecondSdSgvp" class="token"><code>maxSpeedRainingInMetersPerSecond</code></a> 
 
   </div>
 
@@ -203,7 +203,7 @@ Contains the speed limits for vehicles in a country / state.
 
 - <div>
 
-  ` `<span id="/s:7heresdk25GeneralVehicleSpeedLimitsV03maxD24SnowingInMetersPerSecondSdSgvp"></span>` `<span id="//apple_ref/swift/Property/maxSpeedSnowingInMetersPerSecond" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-generalvehiclespeedlimits#/s:7heresdk25GeneralVehicleSpeedLimitsV03maxD24SnowingInMetersPerSecondSdSgvp" class="token"><code>maxSpeedSnowingInMetersPerSecond</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk25GeneralVehicleSpeedLimitsV03maxD24SnowingInMetersPerSecondSdSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-maxSpeedSnowingInMetersPerSecond" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-generalvehiclespeedlimits#sdk-for-ios-explore-s-7heresdk25GeneralVehicleSpeedLimitsV03maxD24SnowingInMetersPerSecondSdSgvp" class="token"><code>maxSpeedSnowingInMetersPerSecond</code></a> 
 
   </div>
 
@@ -247,7 +247,7 @@ Contains the speed limits for vehicles in a country / state.
 
 - <div>
 
-  ` `<span id="/s:7heresdk25GeneralVehicleSpeedLimitsV03maxD22NightInMetersPerSecondSdSgvp"></span>` `<span id="//apple_ref/swift/Property/maxSpeedNightInMetersPerSecond" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-generalvehiclespeedlimits#/s:7heresdk25GeneralVehicleSpeedLimitsV03maxD22NightInMetersPerSecondSdSgvp" class="token"><code>maxSpeedNightInMetersPerSecond</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk25GeneralVehicleSpeedLimitsV03maxD22NightInMetersPerSecondSdSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-maxSpeedNightInMetersPerSecond" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-generalvehiclespeedlimits#sdk-for-ios-explore-s-7heresdk25GeneralVehicleSpeedLimitsV03maxD22NightInMetersPerSecondSdSgvp" class="token"><code>maxSpeedNightInMetersPerSecond</code></a> 
 
   </div>
 
@@ -291,7 +291,7 @@ Contains the speed limits for vehicles in a country / state.
 
 - <div>
 
-  ` `<span id="/s:7heresdk25GeneralVehicleSpeedLimitsV03minD25HighwaysInMetersPerSecondSdSgvp"></span>` `<span id="//apple_ref/swift/Property/minSpeedHighwaysInMetersPerSecond" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-generalvehiclespeedlimits#/s:7heresdk25GeneralVehicleSpeedLimitsV03minD25HighwaysInMetersPerSecondSdSgvp" class="token"><code>minSpeedHighwaysInMetersPerSecond</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk25GeneralVehicleSpeedLimitsV03minD25HighwaysInMetersPerSecondSdSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-minSpeedHighwaysInMetersPerSecond" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-generalvehiclespeedlimits#sdk-for-ios-explore-s-7heresdk25GeneralVehicleSpeedLimitsV03minD25HighwaysInMetersPerSecondSdSgvp" class="token"><code>minSpeedHighwaysInMetersPerSecond</code></a> 
 
   </div>
 
@@ -335,7 +335,7 @@ Contains the speed limits for vehicles in a country / state.
 
 - <div>
 
-      init(maxSpeedHighwaysInMetersPerSecond: maxSpeedRuralInMetersPerSecond: maxSpeedUrbanInMetersPerSecond: maxSpeedRainingInMetersPerSecond: maxSpeedSnowingInMetersPerSecond: maxSpeedNightInMetersPerSecond: minSpeedHighwaysInMetersPerSecond: )
+   <span id="sdk-for-ios-explore-s-7heresdk25GeneralVehicleSpeedLimitsV03maxD25HighwaysInMetersPerSecond0fd5RuralhijK00fd5UrbanhijK00fd7RaininghijK00fd7SnowinghijK00fd5NighthijK003mindghijK0ACSdSg_A6Ktcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-maxSpeedHighwaysInMetersPerSecond-maxSpeedRuralInMetersPerSecond-maxSpeedUrbanInMetersPerSecond-maxSpeedRainingInMetersPerSecond-maxSpeedSnowingInMetersPerSecond-maxSpeedNightInMetersPerSecond-minSpeedHighwaysInMetersPerSecond" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-generalvehiclespeedlimits#sdk-for-ios-explore-s-7heresdk25GeneralVehicleSpeedLimitsV03maxD25HighwaysInMetersPerSecond0fd5RuralhijK00fd5UrbanhijK00fd7RaininghijK00fd7SnowinghijK00fd5NighthijK003mindghijK0ACSdSg_A6Ktcfc" class="token"><code>init(maxSpeedHighwaysInMetersPerSecond:</code><wbr></wbr><code>maxSpeedRuralInMetersPerSecond:</code><wbr></wbr><code>maxSpeedUrbanInMetersPerSecond:</code><wbr></wbr><code>maxSpeedRainingInMetersPerSecond:</code><wbr></wbr><code>maxSpeedSnowingInMetersPerSecond:</code><wbr></wbr><code>maxSpeedNightInMetersPerSecond:</code><wbr></wbr><code>minSpeedHighwaysInMetersPerSecond:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -366,10 +366,8 @@ Contains the speed limits for vehicles in a country / state.
   Swift
 
   ``` highlight
-  public init ( maxSpeedHighwaysInMetersPerSecond : Double ? = nil , maxSpeedRuralInMetersPerSecond : Double ? = nil , maxSpeedUrbanInMetersPerSecond : Double ? = nil , maxSpeedRainingInMetersPerSecond : Double ? = nil , maxSpeedSnowingInMetersPerSecond : Double ? = nil , maxSpeedNightInMetersPerSecond : Double ? = nil , minSpeedHighwaysInMetersPerSecond : Double ? = nil )
+  public init(maxSpeedHighwaysInMetersPerSecond: Double? = nil, maxSpeedRuralInMetersPerSecond: Double? = nil, maxSpeedUrbanInMetersPerSecond: Double? = nil, maxSpeedRainingInMetersPerSecond: Double? = nil, maxSpeedSnowingInMetersPerSecond: Double? = nil, maxSpeedNightInMetersPerSecond: Double? = nil, minSpeedHighwaysInMetersPerSecond: Double? = nil)
   ```
-
-  </pre>
 
   </div>
 

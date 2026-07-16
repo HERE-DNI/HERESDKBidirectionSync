@@ -27,7 +27,7 @@ Defines a dimension restriction.
 
 - <div>
 
-  ` `<span id="/s:7heresdk20DimensionRestrictionV18valueInCentimeterss5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/valueInCentimeters" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-dimensionrestriction#/s:7heresdk20DimensionRestrictionV18valueInCentimeterss5Int32Vvp" class="token"><code>valueInCentimeters</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk20DimensionRestrictionV18valueInCentimeterss5Int32Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-valueInCentimeters" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-dimensionrestriction#sdk-for-ios-explore-s-7heresdk20DimensionRestrictionV18valueInCentimeterss5Int32Vvp" class="token"><code>valueInCentimeters</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Defines a dimension restriction.
 
 - <div>
 
-  ` `<span id="/s:7heresdk20DimensionRestrictionV4typeAA0bC4TypeOvp"></span>` `<span id="//apple_ref/swift/Property/type" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-dimensionrestriction#/s:7heresdk20DimensionRestrictionV4typeAA0bC4TypeOvp" class="token"><code>type</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk20DimensionRestrictionV4typeAA0bC4TypeOvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-type" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-dimensionrestriction#sdk-for-ios-explore-s-7heresdk20DimensionRestrictionV4typeAA0bC4TypeOvp" class="token"><code>type</code></a> 
 
   </div>
 
@@ -107,6 +107,10 @@ Defines a dimension restriction.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-dimensionrestrictiontype">DimensionRestrictionType</a>
+
   </div>
 
   </div>
@@ -115,7 +119,7 @@ Defines a dimension restriction.
 
 - <div>
 
-      init(valueInCentimeters: type: )
+   <span id="sdk-for-ios-explore-s-7heresdk20DimensionRestrictionV18valueInCentimeters4typeACs5Int32V_AA0bC4TypeOtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-valueInCentimeters-type" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-dimensionrestriction#sdk-for-ios-explore-s-7heresdk20DimensionRestrictionV18valueInCentimeters4typeACs5Int32V_AA0bC4TypeOtcfc" class="token"><code>init(valueInCentimeters:</code><wbr></wbr><code>type:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -146,12 +150,14 @@ Defines a dimension restriction.
   Swift
 
   ``` highlight
-  public init ( valueInCentimeters : Int32 , type : DimensionRestrictionType )
+  public init(valueInCentimeters: Int32, type: DimensionRestrictionType)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-dimensionrestrictiontype">DimensionRestrictionType</a>
 
   </div>
 

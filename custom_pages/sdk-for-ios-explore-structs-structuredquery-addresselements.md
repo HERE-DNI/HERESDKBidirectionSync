@@ -27,7 +27,7 @@ Defines query address elements which will be used to build address hierarchy dur
 
 - <div>
 
-  ` `<span id="/s:7heresdk15StructuredQueryV15AddressElementsV7countrySSSgvp"></span>` `<span id="//apple_ref/swift/Property/country" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-structuredquery-addresselements#/s:7heresdk15StructuredQueryV15AddressElementsV7countrySSSgvp" class="token"><code>country</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15StructuredQueryV15AddressElementsV7countrySSSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-country" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-structuredquery-addresselements#sdk-for-ios-explore-s-7heresdk15StructuredQueryV15AddressElementsV7countrySSSgvp" class="token"><code>country</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Defines query address elements which will be used to build address hierarchy dur
 
 - <div>
 
-  ` `<span id="/s:7heresdk15StructuredQueryV15AddressElementsV4citySSSgvp"></span>` `<span id="//apple_ref/swift/Property/city" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-structuredquery-addresselements#/s:7heresdk15StructuredQueryV15AddressElementsV4citySSSgvp" class="token"><code>city</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15StructuredQueryV15AddressElementsV4citySSSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-city" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-structuredquery-addresselements#sdk-for-ios-explore-s-7heresdk15StructuredQueryV15AddressElementsV4citySSSgvp" class="token"><code>city</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Defines query address elements which will be used to build address hierarchy dur
 
 - <div>
 
-  ` `<span id="/s:7heresdk15StructuredQueryV15AddressElementsV10postalCodeSSSgvp"></span>` `<span id="//apple_ref/swift/Property/postalCode" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-structuredquery-addresselements#/s:7heresdk15StructuredQueryV15AddressElementsV10postalCodeSSSgvp" class="token"><code>postalCode</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15StructuredQueryV15AddressElementsV10postalCodeSSSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-postalCode" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-structuredquery-addresselements#sdk-for-ios-explore-s-7heresdk15StructuredQueryV15AddressElementsV10postalCodeSSSgvp" class="token"><code>postalCode</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Defines query address elements which will be used to build address hierarchy dur
 
 - <div>
 
-  ` `<span id="/s:7heresdk15StructuredQueryV15AddressElementsV8districtSSSgvp"></span>` `<span id="//apple_ref/swift/Property/district" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-structuredquery-addresselements#/s:7heresdk15StructuredQueryV15AddressElementsV8districtSSSgvp" class="token"><code>district</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15StructuredQueryV15AddressElementsV8districtSSSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-district" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-structuredquery-addresselements#sdk-for-ios-explore-s-7heresdk15StructuredQueryV15AddressElementsV8districtSSSgvp" class="token"><code>district</code></a> 
 
   </div>
 
@@ -203,7 +203,7 @@ Defines query address elements which will be used to build address hierarchy dur
 
 - <div>
 
-      init(country: city: postalCode: district: )
+   <span id="sdk-for-ios-explore-s-7heresdk15StructuredQueryV15AddressElementsV7country4city10postalCode8districtAESSSg_A3Jtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-country-city-postalCode-district" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-structuredquery-addresselements#sdk-for-ios-explore-s-7heresdk15StructuredQueryV15AddressElementsV7country4city10postalCode8districtAESSSg_A3Jtcfc" class="token"><code>init(country:</code><wbr></wbr><code>city:</code><wbr></wbr><code>postalCode:</code><wbr></wbr><code>district:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -234,10 +234,8 @@ Defines query address elements which will be used to build address hierarchy dur
   Swift
 
   ``` highlight
-  public init ( country : String ? = nil , city : String ? = nil , postalCode : String ? = nil , district : String ? = nil )
+  public init(country: String? = nil, city: String? = nil, postalCode: String? = nil, district: String? = nil)
   ```
-
-  </pre>
 
   </div>
 

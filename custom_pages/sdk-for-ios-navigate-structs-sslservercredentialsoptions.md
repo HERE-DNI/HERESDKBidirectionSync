@@ -27,7 +27,7 @@ The structure below exactly match the corresponding gRPC SslServerCredentialsOpt
 
 - <div>
 
-  ` `<span id="/s:7heresdk27SslServerCredentialsOptionsV12pemRootCertsSSvp"></span>` `<span id="//apple_ref/swift/Property/pemRootCerts" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-sslservercredentialsoptions#/s:7heresdk27SslServerCredentialsOptionsV12pemRootCertsSSvp" class="token"><code>pemRootCerts</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk27SslServerCredentialsOptionsV12pemRootCertsSSvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-pemRootCerts" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-sslservercredentialsoptions#sdk-for-ios-navigate-s-7heresdk27SslServerCredentialsOptionsV12pemRootCertsSSvp" class="token"><code>pemRootCerts</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ The structure below exactly match the corresponding gRPC SslServerCredentialsOpt
 
 - <div>
 
-  ` `<span id="/s:7heresdk27SslServerCredentialsOptionsV15pemKeyCertPairsSayAA03PemgH4PairVGvp"></span>` `<span id="//apple_ref/swift/Property/pemKeyCertPairs" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-sslservercredentialsoptions#/s:7heresdk27SslServerCredentialsOptionsV15pemKeyCertPairsSayAA03PemgH4PairVGvp" class="token"><code>pemKeyCertPairs</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk27SslServerCredentialsOptionsV15pemKeyCertPairsSayAA03PemgH4PairVGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-pemKeyCertPairs" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-sslservercredentialsoptions#sdk-for-ios-navigate-s-7heresdk27SslServerCredentialsOptionsV15pemKeyCertPairsSayAA03PemgH4PairVGvp" class="token"><code>pemKeyCertPairs</code></a> 
 
   </div>
 
@@ -107,6 +107,10 @@ The structure below exactly match the corresponding gRPC SslServerCredentialsOpt
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-pemkeycertpair">PemKeyCertPair</a>
+
   </div>
 
   </div>
@@ -115,7 +119,7 @@ The structure below exactly match the corresponding gRPC SslServerCredentialsOpt
 
 - <div>
 
-  ` `<span id="/s:7heresdk27SslServerCredentialsOptionsV24clientCertificateRequestAA06ClientgH4TypeOvp"></span>` `<span id="//apple_ref/swift/Property/clientCertificateRequest" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-sslservercredentialsoptions#/s:7heresdk27SslServerCredentialsOptionsV24clientCertificateRequestAA06ClientgH4TypeOvp" class="token"><code>clientCertificateRequest</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk27SslServerCredentialsOptionsV24clientCertificateRequestAA06ClientgH4TypeOvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-clientCertificateRequest" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-sslservercredentialsoptions#sdk-for-ios-navigate-s-7heresdk27SslServerCredentialsOptionsV24clientCertificateRequestAA06ClientgH4TypeOvp" class="token"><code>clientCertificateRequest</code></a> 
 
   </div>
 
@@ -151,6 +155,10 @@ The structure below exactly match the corresponding gRPC SslServerCredentialsOpt
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-clientcertificaterequesttype">ClientCertificateRequestType</a>
+
   </div>
 
   </div>
@@ -159,7 +167,7 @@ The structure below exactly match the corresponding gRPC SslServerCredentialsOpt
 
 - <div>
 
-      init(pemRootCerts: pemKeyCertPairs: clientCertificateRequest: )
+   <span id="sdk-for-ios-navigate-s-7heresdk27SslServerCredentialsOptionsV12pemRootCerts0F12KeyCertPairs24clientCertificateRequestACSS_SayAA03PemiJ4PairVGAA06ClientmN4TypeOtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-pemRootCerts-pemKeyCertPairs-clientCertificateRequest" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-sslservercredentialsoptions#sdk-for-ios-navigate-s-7heresdk27SslServerCredentialsOptionsV12pemRootCerts0F12KeyCertPairs24clientCertificateRequestACSS_SayAA03PemiJ4PairVGAA06ClientmN4TypeOtcfc" class="token"><code>init(pemRootCerts:</code><wbr></wbr><code>pemKeyCertPairs:</code><wbr></wbr><code>clientCertificateRequest:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -190,12 +198,15 @@ The structure below exactly match the corresponding gRPC SslServerCredentialsOpt
   Swift
 
   ``` highlight
-  public init ( pemRootCerts : String , pemKeyCertPairs : [ PemKeyCertPair ], clientCertificateRequest : ClientCertificateRequestType )
+  public init(pemRootCerts: String, pemKeyCertPairs: [PemKeyCertPair], clientCertificateRequest: ClientCertificateRequestType)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-pemkeycertpair">PemKeyCertPair</a>
+  - <a href="sdk-for-ios-navigate-enums-clientcertificaterequesttype">ClientCertificateRequestType</a>
 
   </div>
 

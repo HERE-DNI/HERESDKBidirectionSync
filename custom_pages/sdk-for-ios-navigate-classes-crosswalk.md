@@ -35,7 +35,7 @@ Represents crosswalk’s inside the <a href="sdk-for-ios-navigate-classes-venuel
 
 - <div>
 
-  ` `<span id="/s:7heresdk9CrosswalkC19classificationStyleAC014ClassificationD0Ovp"></span>` `<span id="//apple_ref/swift/Property/classificationStyle" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-crosswalk#/s:7heresdk9CrosswalkC19classificationStyleAC014ClassificationD0Ovp" class="token"><code>classificationStyle</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9CrosswalkC19classificationStyleAC014ClassificationD0Ovp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-classificationStyle" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-crosswalk#sdk-for-ios-navigate-s-7heresdk9CrosswalkC19classificationStyleAC014ClassificationD0Ovp" class="token"><code>classificationStyle</code></a> 
 
   </div>
 
@@ -71,6 +71,10 @@ Represents crosswalk’s inside the <a href="sdk-for-ios-navigate-classes-venuel
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-crosswalk-classificationstyle">ClassificationStyle</a>
+
   </div>
 
   </div>
@@ -79,7 +83,7 @@ Represents crosswalk’s inside the <a href="sdk-for-ios-navigate-classes-venuel
 
 - <div>
 
-  ` `<span id="/s:7heresdk9CrosswalkC10identifierSSvp"></span>` `<span id="//apple_ref/swift/Property/identifier" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-crosswalk#/s:7heresdk9CrosswalkC10identifierSSvp" class="token"><code>identifier</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9CrosswalkC10identifierSSvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-identifier" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-crosswalk#sdk-for-ios-navigate-s-7heresdk9CrosswalkC10identifierSSvp" class="token"><code>identifier</code></a> 
 
   </div>
 
@@ -123,7 +127,7 @@ Represents crosswalk’s inside the <a href="sdk-for-ios-navigate-classes-venuel
 
 - <div>
 
-  ` `<span id="/s:7heresdk9CrosswalkC5levelAA10VenueLevelCvp"></span>` `<span id="//apple_ref/swift/Property/level" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-crosswalk#/s:7heresdk9CrosswalkC5levelAA10VenueLevelCvp" class="token"><code>level</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9CrosswalkC5levelAA10VenueLevelCvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-level" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-crosswalk#sdk-for-ios-navigate-s-7heresdk9CrosswalkC5levelAA10VenueLevelCvp" class="token"><code>level</code></a> 
 
   </div>
 
@@ -159,6 +163,10 @@ Represents crosswalk’s inside the <a href="sdk-for-ios-navigate-classes-venuel
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-venuelevel">VenueLevel</a>
+
   </div>
 
   </div>
@@ -167,7 +175,7 @@ Represents crosswalk’s inside the <a href="sdk-for-ios-navigate-classes-venuel
 
 - <div>
 
-  ` `<span id="/s:7heresdk9CrosswalkC19ClassificationStyleO"></span>` `<span id="//apple_ref/swift/Enum/ClassificationStyle" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-crosswalk#/s:7heresdk9CrosswalkC19ClassificationStyleO" class="token"><code>ClassificationStyle</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9CrosswalkC19ClassificationStyleO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-ClassificationStyle" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-crosswalk#sdk-for-ios-navigate-s-7heresdk9CrosswalkC19ClassificationStyleO" class="token"><code>ClassificationStyle</code></a> 
 
   </div>
 

@@ -29,7 +29,7 @@ Hazardous material type as defined in the enum applicable for those that carry t
 
 - <div>
 
-  ` `<span id="/s:7heresdk21HazardousMaterialTypeO7unknownyA2CmF"></span>` `<span id="//apple_ref/swift/Element/unknown" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-hazardousmaterialtype#/s:7heresdk21HazardousMaterialTypeO7unknownyA2CmF" class="token"><code>unknown</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21HazardousMaterialTypeO7unknownyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-unknown" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-hazardousmaterialtype#sdk-for-ios-navigate-s-7heresdk21HazardousMaterialTypeO7unknownyA2CmF" class="token"><code>unknown</code></a> 
 
   </div>
 
@@ -73,7 +73,7 @@ Hazardous material type as defined in the enum applicable for those that carry t
 
 - <div>
 
-  ` `<span id="/s:7heresdk21HazardousMaterialTypeO10explosivesyA2CmF"></span>` `<span id="//apple_ref/swift/Element/explosives" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-hazardousmaterialtype#/s:7heresdk21HazardousMaterialTypeO10explosivesyA2CmF" class="token"><code>explosives</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21HazardousMaterialTypeO10explosivesyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-explosives" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-hazardousmaterialtype#sdk-for-ios-navigate-s-7heresdk21HazardousMaterialTypeO10explosivesyA2CmF" class="token"><code>explosives</code></a> 
 
   </div>
 
@@ -117,7 +117,7 @@ Hazardous material type as defined in the enum applicable for those that carry t
 
 - <div>
 
-  ` `<span id="/s:7heresdk21HazardousMaterialTypeO3gasyA2CmF"></span>` `<span id="//apple_ref/swift/Element/gas" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-hazardousmaterialtype#/s:7heresdk21HazardousMaterialTypeO3gasyA2CmF" class="token"><code>gas</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21HazardousMaterialTypeO3gasyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-gas" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-hazardousmaterialtype#sdk-for-ios-navigate-s-7heresdk21HazardousMaterialTypeO3gasyA2CmF" class="token"><code>gas</code></a> 
 
   </div>
 
@@ -161,7 +161,7 @@ Hazardous material type as defined in the enum applicable for those that carry t
 
 - <div>
 
-  ` `<span id="/s:7heresdk21HazardousMaterialTypeO9flammableyA2CmF"></span>` `<span id="//apple_ref/swift/Element/flammable" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-hazardousmaterialtype#/s:7heresdk21HazardousMaterialTypeO9flammableyA2CmF" class="token"><code>flammable</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21HazardousMaterialTypeO9flammableyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-flammable" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-hazardousmaterialtype#sdk-for-ios-navigate-s-7heresdk21HazardousMaterialTypeO9flammableyA2CmF" class="token"><code>flammable</code></a> 
 
   </div>
 
@@ -205,7 +205,7 @@ Hazardous material type as defined in the enum applicable for those that carry t
 
 - <div>
 
-  ` `<span id="/s:7heresdk21HazardousMaterialTypeO25flammableSolidCombustibleyA2CmF"></span>` `<span id="//apple_ref/swift/Element/flammableSolidCombustible" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-hazardousmaterialtype#/s:7heresdk21HazardousMaterialTypeO25flammableSolidCombustibleyA2CmF" class="token"><code>flammableSolidCombustible</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21HazardousMaterialTypeO25flammableSolidCombustibleyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-flammableSolidCombustible" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-hazardousmaterialtype#sdk-for-ios-navigate-s-7heresdk21HazardousMaterialTypeO25flammableSolidCombustibleyA2CmF" class="token"><code>flammableSolidCombustible</code></a> 
 
   </div>
 
@@ -249,7 +249,7 @@ Hazardous material type as defined in the enum applicable for those that carry t
 
 - <div>
 
-  ` `<span id="/s:7heresdk21HazardousMaterialTypeO11combustibleyA2CmF"></span>` `<span id="//apple_ref/swift/Element/combustible" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-hazardousmaterialtype#/s:7heresdk21HazardousMaterialTypeO11combustibleyA2CmF" class="token"><code>combustible</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21HazardousMaterialTypeO11combustibleyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-combustible" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-hazardousmaterialtype#sdk-for-ios-navigate-s-7heresdk21HazardousMaterialTypeO11combustibleyA2CmF" class="token"><code>combustible</code></a> 
 
   </div>
 
@@ -293,7 +293,7 @@ Hazardous material type as defined in the enum applicable for those that carry t
 
 - <div>
 
-  ` `<span id="/s:7heresdk21HazardousMaterialTypeO7organicyA2CmF"></span>` `<span id="//apple_ref/swift/Element/organic" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-hazardousmaterialtype#/s:7heresdk21HazardousMaterialTypeO7organicyA2CmF" class="token"><code>organic</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21HazardousMaterialTypeO7organicyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-organic" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-hazardousmaterialtype#sdk-for-ios-navigate-s-7heresdk21HazardousMaterialTypeO7organicyA2CmF" class="token"><code>organic</code></a> 
 
   </div>
 
@@ -337,7 +337,7 @@ Hazardous material type as defined in the enum applicable for those that carry t
 
 - <div>
 
-  ` `<span id="/s:7heresdk21HazardousMaterialTypeO6poisonyA2CmF"></span>` `<span id="//apple_ref/swift/Element/poison" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-hazardousmaterialtype#/s:7heresdk21HazardousMaterialTypeO6poisonyA2CmF" class="token"><code>poison</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21HazardousMaterialTypeO6poisonyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-poison" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-hazardousmaterialtype#sdk-for-ios-navigate-s-7heresdk21HazardousMaterialTypeO6poisonyA2CmF" class="token"><code>poison</code></a> 
 
   </div>
 
@@ -381,7 +381,7 @@ Hazardous material type as defined in the enum applicable for those that carry t
 
 - <div>
 
-  ` `<span id="/s:7heresdk21HazardousMaterialTypeO11radioactiveyA2CmF"></span>` `<span id="//apple_ref/swift/Element/radioactive" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-hazardousmaterialtype#/s:7heresdk21HazardousMaterialTypeO11radioactiveyA2CmF" class="token"><code>radioactive</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21HazardousMaterialTypeO11radioactiveyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-radioactive" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-hazardousmaterialtype#sdk-for-ios-navigate-s-7heresdk21HazardousMaterialTypeO11radioactiveyA2CmF" class="token"><code>radioactive</code></a> 
 
   </div>
 
@@ -425,7 +425,7 @@ Hazardous material type as defined in the enum applicable for those that carry t
 
 - <div>
 
-  ` `<span id="/s:7heresdk21HazardousMaterialTypeO9corrosiveyA2CmF"></span>` `<span id="//apple_ref/swift/Element/corrosive" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-hazardousmaterialtype#/s:7heresdk21HazardousMaterialTypeO9corrosiveyA2CmF" class="token"><code>corrosive</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21HazardousMaterialTypeO9corrosiveyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-corrosive" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-hazardousmaterialtype#sdk-for-ios-navigate-s-7heresdk21HazardousMaterialTypeO9corrosiveyA2CmF" class="token"><code>corrosive</code></a> 
 
   </div>
 
@@ -469,7 +469,7 @@ Hazardous material type as defined in the enum applicable for those that carry t
 
 - <div>
 
-  ` `<span id="/s:7heresdk21HazardousMaterialTypeO5otheryA2CmF"></span>` `<span id="//apple_ref/swift/Element/other" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-hazardousmaterialtype#/s:7heresdk21HazardousMaterialTypeO5otheryA2CmF" class="token"><code>other</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21HazardousMaterialTypeO5otheryA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-other" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-hazardousmaterialtype#sdk-for-ios-navigate-s-7heresdk21HazardousMaterialTypeO5otheryA2CmF" class="token"><code>other</code></a> 
 
   </div>
 
@@ -513,7 +513,7 @@ Hazardous material type as defined in the enum applicable for those that carry t
 
 - <div>
 
-  ` `<span id="/s:7heresdk21HazardousMaterialTypeO03anybC0yA2CmF"></span>` `<span id="//apple_ref/swift/Element/anyHazardousMaterial" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-hazardousmaterialtype#/s:7heresdk21HazardousMaterialTypeO03anybC0yA2CmF" class="token"><code>anyHazardousMaterial</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21HazardousMaterialTypeO03anybC0yA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-anyHazardousMaterial" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-hazardousmaterialtype#sdk-for-ios-navigate-s-7heresdk21HazardousMaterialTypeO03anybC0yA2CmF" class="token"><code>anyHazardousMaterial</code></a> 
 
   </div>
 
@@ -557,7 +557,7 @@ Hazardous material type as defined in the enum applicable for those that carry t
 
 - <div>
 
-  ` `<span id="/s:7heresdk21HazardousMaterialTypeO19poisonousInhalationyA2CmF"></span>` `<span id="//apple_ref/swift/Element/poisonousInhalation" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-hazardousmaterialtype#/s:7heresdk21HazardousMaterialTypeO19poisonousInhalationyA2CmF" class="token"><code>poisonousInhalation</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21HazardousMaterialTypeO19poisonousInhalationyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-poisonousInhalation" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-hazardousmaterialtype#sdk-for-ios-navigate-s-7heresdk21HazardousMaterialTypeO19poisonousInhalationyA2CmF" class="token"><code>poisonousInhalation</code></a> 
 
   </div>
 
@@ -601,7 +601,7 @@ Hazardous material type as defined in the enum applicable for those that carry t
 
 - <div>
 
-  ` `<span id="/s:7heresdk21HazardousMaterialTypeO14harmfulToWateryA2CmF"></span>` `<span id="//apple_ref/swift/Element/harmfulToWater" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-hazardousmaterialtype#/s:7heresdk21HazardousMaterialTypeO14harmfulToWateryA2CmF" class="token"><code>harmfulToWater</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21HazardousMaterialTypeO14harmfulToWateryA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-harmfulToWater" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-hazardousmaterialtype#sdk-for-ios-navigate-s-7heresdk21HazardousMaterialTypeO14harmfulToWateryA2CmF" class="token"><code>harmfulToWater</code></a> 
 
   </div>
 
@@ -645,7 +645,7 @@ Hazardous material type as defined in the enum applicable for those that carry t
 
 - <div>
 
-  ` `<span id="/s:7heresdk21HazardousMaterialTypeO21explosiveAndFlammableyA2CmF"></span>` `<span id="//apple_ref/swift/Element/explosiveAndFlammable" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-hazardousmaterialtype#/s:7heresdk21HazardousMaterialTypeO21explosiveAndFlammableyA2CmF" class="token"><code>explosiveAndFlammable</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21HazardousMaterialTypeO21explosiveAndFlammableyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-explosiveAndFlammable" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-hazardousmaterialtype#sdk-for-ios-navigate-s-7heresdk21HazardousMaterialTypeO21explosiveAndFlammableyA2CmF" class="token"><code>explosiveAndFlammable</code></a> 
 
   </div>
 
@@ -689,7 +689,7 @@ Hazardous material type as defined in the enum applicable for those that carry t
 
 - <div>
 
-  ` `<span id="/s:7heresdk21HazardousMaterialTypeO1byA2CmF"></span>` `<span id="//apple_ref/swift/Element/b" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-hazardousmaterialtype#/s:7heresdk21HazardousMaterialTypeO1byA2CmF" class="token"><code>b</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21HazardousMaterialTypeO1byA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-b" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-hazardousmaterialtype#sdk-for-ios-navigate-s-7heresdk21HazardousMaterialTypeO1byA2CmF" class="token"><code>b</code></a> 
 
   </div>
 
@@ -733,7 +733,7 @@ Hazardous material type as defined in the enum applicable for those that carry t
 
 - <div>
 
-  ` `<span id="/s:7heresdk21HazardousMaterialTypeO6b1000cyA2CmF"></span>` `<span id="//apple_ref/swift/Element/b1000c" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-hazardousmaterialtype#/s:7heresdk21HazardousMaterialTypeO6b1000cyA2CmF" class="token"><code>b1000c</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21HazardousMaterialTypeO6b1000cyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-b1000c" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-hazardousmaterialtype#sdk-for-ios-navigate-s-7heresdk21HazardousMaterialTypeO6b1000cyA2CmF" class="token"><code>b1000c</code></a> 
 
   </div>
 
@@ -777,7 +777,7 @@ Hazardous material type as defined in the enum applicable for those that carry t
 
 - <div>
 
-  ` `<span id="/s:7heresdk21HazardousMaterialTypeO2bDyA2CmF"></span>` `<span id="//apple_ref/swift/Element/bD" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-hazardousmaterialtype#/s:7heresdk21HazardousMaterialTypeO2bDyA2CmF" class="token"><code>bD</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21HazardousMaterialTypeO2bDyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-bD" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-hazardousmaterialtype#sdk-for-ios-navigate-s-7heresdk21HazardousMaterialTypeO2bDyA2CmF" class="token"><code>bD</code></a> 
 
   </div>
 
@@ -821,7 +821,7 @@ Hazardous material type as defined in the enum applicable for those that carry t
 
 - <div>
 
-  ` `<span id="/s:7heresdk21HazardousMaterialTypeO2bEyA2CmF"></span>` `<span id="//apple_ref/swift/Element/bE" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-hazardousmaterialtype#/s:7heresdk21HazardousMaterialTypeO2bEyA2CmF" class="token"><code>bE</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21HazardousMaterialTypeO2bEyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-bE" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-hazardousmaterialtype#sdk-for-ios-navigate-s-7heresdk21HazardousMaterialTypeO2bEyA2CmF" class="token"><code>bE</code></a> 
 
   </div>
 
@@ -865,7 +865,7 @@ Hazardous material type as defined in the enum applicable for those that carry t
 
 - <div>
 
-  ` `<span id="/s:7heresdk21HazardousMaterialTypeO1cyA2CmF"></span>` `<span id="//apple_ref/swift/Element/c" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-hazardousmaterialtype#/s:7heresdk21HazardousMaterialTypeO1cyA2CmF" class="token"><code>c</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21HazardousMaterialTypeO1cyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-c" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-hazardousmaterialtype#sdk-for-ios-navigate-s-7heresdk21HazardousMaterialTypeO1cyA2CmF" class="token"><code>c</code></a> 
 
   </div>
 
@@ -909,7 +909,7 @@ Hazardous material type as defined in the enum applicable for those that carry t
 
 - <div>
 
-  ` `<span id="/s:7heresdk21HazardousMaterialTypeO6c5000dyA2CmF"></span>` `<span id="//apple_ref/swift/Element/c5000d" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-hazardousmaterialtype#/s:7heresdk21HazardousMaterialTypeO6c5000dyA2CmF" class="token"><code>c5000d</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21HazardousMaterialTypeO6c5000dyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-c5000d" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-hazardousmaterialtype#sdk-for-ios-navigate-s-7heresdk21HazardousMaterialTypeO6c5000dyA2CmF" class="token"><code>c5000d</code></a> 
 
   </div>
 
@@ -953,7 +953,7 @@ Hazardous material type as defined in the enum applicable for those that carry t
 
 - <div>
 
-  ` `<span id="/s:7heresdk21HazardousMaterialTypeO2cDyA2CmF"></span>` `<span id="//apple_ref/swift/Element/cD" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-hazardousmaterialtype#/s:7heresdk21HazardousMaterialTypeO2cDyA2CmF" class="token"><code>cD</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21HazardousMaterialTypeO2cDyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-cD" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-hazardousmaterialtype#sdk-for-ios-navigate-s-7heresdk21HazardousMaterialTypeO2cDyA2CmF" class="token"><code>cD</code></a> 
 
   </div>
 
@@ -997,7 +997,7 @@ Hazardous material type as defined in the enum applicable for those that carry t
 
 - <div>
 
-  ` `<span id="/s:7heresdk21HazardousMaterialTypeO2cEyA2CmF"></span>` `<span id="//apple_ref/swift/Element/cE" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-hazardousmaterialtype#/s:7heresdk21HazardousMaterialTypeO2cEyA2CmF" class="token"><code>cE</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21HazardousMaterialTypeO2cEyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-cE" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-hazardousmaterialtype#sdk-for-ios-navigate-s-7heresdk21HazardousMaterialTypeO2cEyA2CmF" class="token"><code>cE</code></a> 
 
   </div>
 
@@ -1041,7 +1041,7 @@ Hazardous material type as defined in the enum applicable for those that carry t
 
 - <div>
 
-  ` `<span id="/s:7heresdk21HazardousMaterialTypeO1dyA2CmF"></span>` `<span id="//apple_ref/swift/Element/d" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-hazardousmaterialtype#/s:7heresdk21HazardousMaterialTypeO1dyA2CmF" class="token"><code>d</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21HazardousMaterialTypeO1dyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-d" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-hazardousmaterialtype#sdk-for-ios-navigate-s-7heresdk21HazardousMaterialTypeO1dyA2CmF" class="token"><code>d</code></a> 
 
   </div>
 
@@ -1085,7 +1085,7 @@ Hazardous material type as defined in the enum applicable for those that carry t
 
 - <div>
 
-  ` `<span id="/s:7heresdk21HazardousMaterialTypeO2dEyA2CmF"></span>` `<span id="//apple_ref/swift/Element/dE" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-hazardousmaterialtype#/s:7heresdk21HazardousMaterialTypeO2dEyA2CmF" class="token"><code>dE</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21HazardousMaterialTypeO2dEyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-dE" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-hazardousmaterialtype#sdk-for-ios-navigate-s-7heresdk21HazardousMaterialTypeO2dEyA2CmF" class="token"><code>dE</code></a> 
 
   </div>
 
@@ -1129,7 +1129,7 @@ Hazardous material type as defined in the enum applicable for those that carry t
 
 - <div>
 
-  ` `<span id="/s:7heresdk21HazardousMaterialTypeO1eyA2CmF"></span>` `<span id="//apple_ref/swift/Element/e" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-hazardousmaterialtype#/s:7heresdk21HazardousMaterialTypeO1eyA2CmF" class="token"><code>e</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21HazardousMaterialTypeO1eyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-e" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-hazardousmaterialtype#sdk-for-ios-navigate-s-7heresdk21HazardousMaterialTypeO1eyA2CmF" class="token"><code>e</code></a> 
 
   </div>
 

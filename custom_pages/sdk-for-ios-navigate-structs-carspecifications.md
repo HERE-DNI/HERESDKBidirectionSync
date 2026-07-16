@@ -10,10 +10,9 @@ slug: "sdk-for-ios-navigate-structs-carspecifications"
 <div class="language">
 
 ``` highlight
-@available(*, deprecated, message: "Will be removed in v4.28.0. Use `TransportSpecification` instead.") public struct CarSpecifications : Hashable
+@available(*, deprecated, message: "Will be removed in v4.28.0. Use `TransportSpecification` instead.")
+public struct CarSpecifications : Hashable
 ```
-
-</pre>
 
 </div>
 
@@ -29,7 +28,7 @@ Car specifications contain vehicle related attributes. Examples: Dimensions, wei
 
 - <div>
 
-  ` `<span id="/s:7heresdk17CarSpecificationsV22grossWeightInKilogramss5Int32VSgvp"></span>` `<span id="//apple_ref/swift/Property/grossWeightInKilograms" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-carspecifications#/s:7heresdk17CarSpecificationsV22grossWeightInKilogramss5Int32VSgvp" class="token"><code>grossWeightInKilograms</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk17CarSpecificationsV22grossWeightInKilogramss5Int32VSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-grossWeightInKilograms" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-carspecifications#sdk-for-ios-navigate-s-7heresdk17CarSpecificationsV22grossWeightInKilogramss5Int32VSgvp" class="token"><code>grossWeightInKilograms</code></a> 
 
   </div>
 
@@ -73,7 +72,7 @@ Car specifications contain vehicle related attributes. Examples: Dimensions, wei
 
 - <div>
 
-  ` `<span id="/s:7heresdk17CarSpecificationsV19heightInCentimeterss5Int32VSgvp"></span>` `<span id="//apple_ref/swift/Property/heightInCentimeters" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-carspecifications#/s:7heresdk17CarSpecificationsV19heightInCentimeterss5Int32VSgvp" class="token"><code>heightInCentimeters</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk17CarSpecificationsV19heightInCentimeterss5Int32VSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-heightInCentimeters" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-carspecifications#sdk-for-ios-navigate-s-7heresdk17CarSpecificationsV19heightInCentimeterss5Int32VSgvp" class="token"><code>heightInCentimeters</code></a> 
 
   </div>
 
@@ -117,7 +116,7 @@ Car specifications contain vehicle related attributes. Examples: Dimensions, wei
 
 - <div>
 
-  ` `<span id="/s:7heresdk17CarSpecificationsV18widthInCentimeterss5Int32VSgvp"></span>` `<span id="//apple_ref/swift/Property/widthInCentimeters" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-carspecifications#/s:7heresdk17CarSpecificationsV18widthInCentimeterss5Int32VSgvp" class="token"><code>widthInCentimeters</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk17CarSpecificationsV18widthInCentimeterss5Int32VSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-widthInCentimeters" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-carspecifications#sdk-for-ios-navigate-s-7heresdk17CarSpecificationsV18widthInCentimeterss5Int32VSgvp" class="token"><code>widthInCentimeters</code></a> 
 
   </div>
 
@@ -161,7 +160,7 @@ Car specifications contain vehicle related attributes. Examples: Dimensions, wei
 
 - <div>
 
-  ` `<span id="/s:7heresdk17CarSpecificationsV19lengthInCentimeterss5Int32VSgvp"></span>` `<span id="//apple_ref/swift/Property/lengthInCentimeters" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-carspecifications#/s:7heresdk17CarSpecificationsV19lengthInCentimeterss5Int32VSgvp" class="token"><code>lengthInCentimeters</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk17CarSpecificationsV19lengthInCentimeterss5Int32VSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-lengthInCentimeters" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-carspecifications#sdk-for-ios-navigate-s-7heresdk17CarSpecificationsV19lengthInCentimeterss5Int32VSgvp" class="token"><code>lengthInCentimeters</code></a> 
 
   </div>
 
@@ -205,7 +204,7 @@ Car specifications contain vehicle related attributes. Examples: Dimensions, wei
 
 - <div>
 
-  ` `<span id="/s:7heresdk17CarSpecificationsV9axleCounts5Int32VSgvp"></span>` `<span id="//apple_ref/swift/Property/axleCount" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-carspecifications#/s:7heresdk17CarSpecificationsV9axleCounts5Int32VSgvp" class="token"><code>axleCount</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk17CarSpecificationsV9axleCounts5Int32VSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-axleCount" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-carspecifications#sdk-for-ios-navigate-s-7heresdk17CarSpecificationsV9axleCounts5Int32VSgvp" class="token"><code>axleCount</code></a> 
 
   </div>
 
@@ -223,7 +222,7 @@ Car specifications contain vehicle related attributes. Examples: Dimensions, wei
 
   <div class="abstract">
 
-  Defines total number of axles in the vehicle. The provided value must be greater than or equal to 2. By default, it is not set. Route calculation: When not set, possible axle count restrictions will not be taken into consideration. When specifying <a href="sdk-for-ios-navigate-structs-carspecifications#/s:7heresdk17CarSpecificationsV16trailerAxleCounts5Int32VSgvp">`CarSpecifications.trailerAxleCount`</a>, then `CarSpecifications.axleCount` is required and must be greater than <a href="sdk-for-ios-navigate-structs-carspecifications#/s:7heresdk17CarSpecificationsV16trailerAxleCounts5Int32VSgvp">`CarSpecifications.trailerAxleCount`</a>.
+  Defines total number of axles in the vehicle. The provided value must be greater than or equal to 2. By default, it is not set. Route calculation: When not set, possible axle count restrictions will not be taken into consideration. When specifying <a href="sdk-for-ios-navigate-structs-carspecifications#sdk-for-ios-navigate-s-7heresdk17CarSpecificationsV16trailerAxleCounts5Int32VSgvp">`CarSpecifications.trailerAxleCount`</a>, then `CarSpecifications.axleCount` is required and must be greater than <a href="sdk-for-ios-navigate-structs-carspecifications#sdk-for-ios-navigate-s-7heresdk17CarSpecificationsV16trailerAxleCounts5Int32VSgvp">`CarSpecifications.trailerAxleCount`</a>.
 
   </div>
 
@@ -249,7 +248,7 @@ Car specifications contain vehicle related attributes. Examples: Dimensions, wei
 
 - <div>
 
-  ` `<span id="/s:7heresdk17CarSpecificationsV12trailerCounts5Int32VSgvp"></span>` `<span id="//apple_ref/swift/Property/trailerCount" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-carspecifications#/s:7heresdk17CarSpecificationsV12trailerCounts5Int32VSgvp" class="token"><code>trailerCount</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk17CarSpecificationsV12trailerCounts5Int32VSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-trailerCount" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-carspecifications#sdk-for-ios-navigate-s-7heresdk17CarSpecificationsV12trailerCounts5Int32VSgvp" class="token"><code>trailerCount</code></a> 
 
   </div>
 
@@ -267,7 +266,7 @@ Car specifications contain vehicle related attributes. Examples: Dimensions, wei
 
   <div class="abstract">
 
-  Defines number of trailers attached to the vehicle. The provided value must be in the range \[0, 1\]. By default, it is not set. When specifying <a href="sdk-for-ios-navigate-structs-carspecifications#/s:7heresdk17CarSpecificationsV16trailerAxleCounts5Int32VSgvp">`CarSpecifications.trailerAxleCount`</a>, then `CarSpecifications.trailerCount` is required and must be greater than 0.
+  Defines number of trailers attached to the vehicle. The provided value must be in the range \[0, 1\]. By default, it is not set. When specifying <a href="sdk-for-ios-navigate-structs-carspecifications#sdk-for-ios-navigate-s-7heresdk17CarSpecificationsV16trailerAxleCounts5Int32VSgvp">`CarSpecifications.trailerAxleCount`</a>, then `CarSpecifications.trailerCount` is required and must be greater than 0.
 
   </div>
 
@@ -293,7 +292,7 @@ Car specifications contain vehicle related attributes. Examples: Dimensions, wei
 
 - <div>
 
-  ` `<span id="/s:7heresdk17CarSpecificationsV16trailerAxleCounts5Int32VSgvp"></span>` `<span id="//apple_ref/swift/Property/trailerAxleCount" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-carspecifications#/s:7heresdk17CarSpecificationsV16trailerAxleCounts5Int32VSgvp" class="token"><code>trailerAxleCount</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk17CarSpecificationsV16trailerAxleCounts5Int32VSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-trailerAxleCount" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-carspecifications#sdk-for-ios-navigate-s-7heresdk17CarSpecificationsV16trailerAxleCounts5Int32VSgvp" class="token"><code>trailerAxleCount</code></a> 
 
   </div>
 
@@ -311,7 +310,7 @@ Car specifications contain vehicle related attributes. Examples: Dimensions, wei
 
   <div class="abstract">
 
-  Defines total number of axles across all the trailers attached to the vehicle. This number is included in <a href="sdk-for-ios-navigate-structs-carspecifications#/s:7heresdk17CarSpecificationsV9axleCounts5Int32VSgvp">`CarSpecifications.axleCount`</a>, hence `CarSpecifications.trailerAxleCount` must be less than <a href="sdk-for-ios-navigate-structs-carspecifications#/s:7heresdk17CarSpecificationsV9axleCounts5Int32VSgvp">`CarSpecifications.axleCount`</a> and greater than or equal to 1. <a href="sdk-for-ios-navigate-structs-carspecifications#/s:7heresdk17CarSpecificationsV9axleCounts5Int32VSgvp">`CarSpecifications.axleCount`</a> and <a href="sdk-for-ios-navigate-structs-carspecifications#/s:7heresdk17CarSpecificationsV12trailerCounts5Int32VSgvp">`CarSpecifications.trailerCount`</a> are required to specify `CarSpecifications.trailerAxleCount`. By default, it is not set.
+  Defines total number of axles across all the trailers attached to the vehicle. This number is included in <a href="sdk-for-ios-navigate-structs-carspecifications#sdk-for-ios-navigate-s-7heresdk17CarSpecificationsV9axleCounts5Int32VSgvp">`CarSpecifications.axleCount`</a>, hence `CarSpecifications.trailerAxleCount` must be less than <a href="sdk-for-ios-navigate-structs-carspecifications#sdk-for-ios-navigate-s-7heresdk17CarSpecificationsV9axleCounts5Int32VSgvp">`CarSpecifications.axleCount`</a> and greater than or equal to 1. <a href="sdk-for-ios-navigate-structs-carspecifications#sdk-for-ios-navigate-s-7heresdk17CarSpecificationsV9axleCounts5Int32VSgvp">`CarSpecifications.axleCount`</a> and <a href="sdk-for-ios-navigate-structs-carspecifications#sdk-for-ios-navigate-s-7heresdk17CarSpecificationsV12trailerCounts5Int32VSgvp">`CarSpecifications.trailerCount`</a> are required to specify `CarSpecifications.trailerAxleCount`. By default, it is not set.
 
   </div>
 
@@ -337,7 +336,7 @@ Car specifications contain vehicle related attributes. Examples: Dimensions, wei
 
 - <div>
 
-      init(grossWeightInKilograms: heightInCentimeters: widthInCentimeters: lengthInCentimeters: axleCount: trailerCount: trailerAxleCount: )
+   <span id="sdk-for-ios-navigate-s-7heresdk17CarSpecificationsV22grossWeightInKilograms06heightF11Centimeters05widthfI006lengthfI09axleCount07trailerM00n4AxleM0ACs5Int32VSg_A6Mtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-grossWeightInKilograms-heightInCentimeters-widthInCentimeters-lengthInCentimeters-axleCount-trailerCount-trailerAxleCount" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-carspecifications#sdk-for-ios-navigate-s-7heresdk17CarSpecificationsV22grossWeightInKilograms06heightF11Centimeters05widthfI006lengthfI09axleCount07trailerM00n4AxleM0ACs5Int32VSg_A6Mtcfc" class="token"><code>init(grossWeightInKilograms:</code><wbr></wbr><code>heightInCentimeters:</code><wbr></wbr><code>widthInCentimeters:</code><wbr></wbr><code>lengthInCentimeters:</code><wbr></wbr><code>axleCount:</code><wbr></wbr><code>trailerCount:</code><wbr></wbr><code>trailerAxleCount:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -368,10 +367,8 @@ Car specifications contain vehicle related attributes. Examples: Dimensions, wei
   Swift
 
   ``` highlight
-  public init ( grossWeightInKilograms : Int32 ? = nil , heightInCentimeters : Int32 ? = nil , widthInCentimeters : Int32 ? = nil , lengthInCentimeters : Int32 ? = nil , axleCount : Int32 ? = nil , trailerCount : Int32 ? = nil , trailerAxleCount : Int32 ? = nil )
+  public init(grossWeightInKilograms: Int32? = nil, heightInCentimeters: Int32? = nil, widthInCentimeters: Int32? = nil, lengthInCentimeters: Int32? = nil, axleCount: Int32? = nil, trailerCount: Int32? = nil, trailerAxleCount: Int32? = nil)
   ```
-
-  </pre>
 
   </div>
 

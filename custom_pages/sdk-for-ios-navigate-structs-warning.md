@@ -29,7 +29,7 @@ A struct which represents a warning.
 
 - <div>
 
-  ` `<span id="/s:7heresdk7WarningV2ids5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/id" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-warning#/s:7heresdk7WarningV2ids5Int32Vvp" class="token"><code>id</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk7WarningV2ids5Int32Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-id" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-warning#sdk-for-ios-navigate-s-7heresdk7WarningV2ids5Int32Vvp" class="token"><code>id</code></a> 
 
   </div>
 
@@ -47,7 +47,7 @@ A struct which represents a warning.
 
   <div class="abstract">
 
-  Identifier of the warning. The ID is unique only within its specific <a href="sdk-for-ios-navigate-structs-warning#/s:7heresdk7WarningV11warningTypeAA0bD0Ovp">`warningType`</a> and can be used to retrieve additional information from a corresponding registry.
+  Identifier of the warning. The ID is unique only within its specific <a href="sdk-for-ios-navigate-structs-warning#sdk-for-ios-navigate-s-7heresdk7WarningV11warningTypeAA0bD0Ovp">`warningType`</a> and can be used to retrieve additional information from a corresponding registry.
 
   </div>
 
@@ -73,7 +73,7 @@ A struct which represents a warning.
 
 - <div>
 
-  ` `<span id="/s:7heresdk7WarningV12distanceTypeAA08DistanceD0Ovp"></span>` `<span id="//apple_ref/swift/Property/distanceType" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-warning#/s:7heresdk7WarningV12distanceTypeAA08DistanceD0Ovp" class="token"><code>distanceType</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk7WarningV12distanceTypeAA08DistanceD0Ovp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-distanceType" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-warning#sdk-for-ios-navigate-s-7heresdk7WarningV12distanceTypeAA08DistanceD0Ovp" class="token"><code>distanceType</code></a> 
 
   </div>
 
@@ -109,6 +109,10 @@ A struct which represents a warning.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-distancetype">DistanceType</a>
+
   </div>
 
   </div>
@@ -117,7 +121,7 @@ A struct which represents a warning.
 
 - <div>
 
-  ` `<span id="/s:7heresdk7WarningV11warningTypeAA0bD0Ovp"></span>` `<span id="//apple_ref/swift/Property/warningType" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-warning#/s:7heresdk7WarningV11warningTypeAA0bD0Ovp" class="token"><code>warningType</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk7WarningV11warningTypeAA0bD0Ovp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-warningType" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-warning#sdk-for-ios-navigate-s-7heresdk7WarningV11warningTypeAA0bD0Ovp" class="token"><code>warningType</code></a> 
 
   </div>
 
@@ -153,6 +157,10 @@ A struct which represents a warning.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-warningtype">WarningType</a>
+
   </div>
 
   </div>
@@ -161,7 +169,7 @@ A struct which represents a warning.
 
 - <div>
 
-  ` `<span id="/s:7heresdk7WarningV06customB4Types5Int32VSgvp"></span>` `<span id="//apple_ref/swift/Property/customWarningType" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-warning#/s:7heresdk7WarningV06customB4Types5Int32VSgvp" class="token"><code>customWarningType</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk7WarningV06customB4Types5Int32VSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-customWarningType" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-warning#sdk-for-ios-navigate-s-7heresdk7WarningV06customB4Types5Int32VSgvp" class="token"><code>customWarningType</code></a> 
 
   </div>
 
@@ -207,7 +215,7 @@ A struct which represents a warning.
 
 - <div>
 
-      init(id: distanceType: warningType: customWarningType: )
+   <span id="sdk-for-ios-navigate-s-7heresdk7WarningV2id12distanceType07warningE006custombE0ACs5Int32V_AA08DistanceE0OAA0bE0OAISgtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-id-distanceType-warningType-customWarningType" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-warning#sdk-for-ios-navigate-s-7heresdk7WarningV2id12distanceType07warningE006custombE0ACs5Int32V_AA08DistanceE0OAA0bE0OAISgtcfc" class="token"><code>init(id:</code><wbr></wbr><code>distanceType:</code><wbr></wbr><code>warningType:</code><wbr></wbr><code>customWarningType:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -229,7 +237,7 @@ A struct which represents a warning.
 
   - Parameters
 
-    - id: Identifier of the warning. The ID is unique only within its specific <a href="sdk-for-ios-navigate-structs-warning#/s:7heresdk7WarningV11warningTypeAA0bD0Ovp">`warningType`</a> and can be used to retrieve additional information from a corresponding registry.
+    - id: Identifier of the warning. The ID is unique only within its specific <a href="sdk-for-ios-navigate-structs-warning#sdk-for-ios-navigate-s-7heresdk7WarningV11warningTypeAA0bD0Ovp">`warningType`</a> and can be used to retrieve additional information from a corresponding registry.
     - distanceType: The type of distance measurement used for this warning.
     - warningType: The specific type of the warning.
     - customWarningType: Identifier of the custom warning type.
@@ -247,12 +255,15 @@ A struct which represents a warning.
   Swift
 
   ``` highlight
-  public init ( id : Int32 , distanceType : DistanceType , warningType : WarningType , customWarningType : Int32 ? = nil )
+  public init(id: Int32, distanceType: DistanceType, warningType: WarningType, customWarningType: Int32? = nil)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-distancetype">DistanceType</a>
+  - <a href="sdk-for-ios-navigate-enums-warningtype">WarningType</a>
 
   </div>
 

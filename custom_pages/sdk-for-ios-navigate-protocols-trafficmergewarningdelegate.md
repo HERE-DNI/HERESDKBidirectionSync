@@ -27,7 +27,7 @@ This protocol should be implemented in order to receive traffic merge warnings. 
 
 - <div>
 
-      onTrafficMergeWarningUpdated(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk27TrafficMergeWarningDelegateP02onbcD7UpdatedyyAA0bcD0VF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-onTrafficMergeWarningUpdated-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-protocols-trafficmergewarningdelegate#sdk-for-ios-navigate-s-7heresdk27TrafficMergeWarningDelegateP02onbcD7UpdatedyyAA0bcD0VF" class="token"><code>onTrafficMergeWarningUpdated(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -58,12 +58,14 @@ This protocol should be implemented in order to receive traffic merge warnings. 
   Swift
 
   ``` highlight
-  func onTrafficMergeWarningUpdated ( _ trafficMergeWarning : TrafficMergeWarning )
+  func onTrafficMergeWarningUpdated(_ trafficMergeWarning: TrafficMergeWarning)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-trafficmergewarning">TrafficMergeWarning</a>
 
   </div>
 

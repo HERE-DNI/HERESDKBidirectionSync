@@ -19,7 +19,7 @@ public protocol RealisticViewWarningDelegate : AnyObject
 
 This protocol should be implemented in order to receive realistic view warnings.
 
-A <a href="sdk-for-ios-navigate-structs-realisticviewwarning">`RealisticViewWarning`</a> will not be given until the previous warning of that type has been passed. For example, a route with <a href="sdk-for-ios-navigate-structs-realisticviewwarning">`RealisticViewWarning`</a> 120 meters and <a href="sdk-for-ios-navigate-structs-realisticviewwarning">`RealisticViewWarning`</a> 160 meters ahead, the first <a href="sdk-for-ios-navigate-structs-realisticviewwarning#/s:7heresdk20RealisticViewWarningV010distanceTobC8InMetersSdvp">`RealisticViewWarning.distanceToRealisticViewInMeters`</a> is 120 meters and the next <a href="sdk-for-ios-navigate-structs-realisticviewwarning#/s:7heresdk20RealisticViewWarningV010distanceTobC8InMetersSdvp">`RealisticViewWarning.distanceToRealisticViewInMeters`</a> is then 40 meters, since that is the distance between the first and second warnings.
+A <a href="sdk-for-ios-navigate-structs-realisticviewwarning">`RealisticViewWarning`</a> will not be given until the previous warning of that type has been passed. For example, a route with <a href="sdk-for-ios-navigate-structs-realisticviewwarning">`RealisticViewWarning`</a> 120 meters and <a href="sdk-for-ios-navigate-structs-realisticviewwarning">`RealisticViewWarning`</a> 160 meters ahead, the first <a href="sdk-for-ios-navigate-structs-realisticviewwarning#sdk-for-ios-navigate-s-7heresdk20RealisticViewWarningV010distanceTobC8InMetersSdvp">`RealisticViewWarning.distanceToRealisticViewInMeters`</a> is 120 meters and the next <a href="sdk-for-ios-navigate-structs-realisticviewwarning#sdk-for-ios-navigate-s-7heresdk20RealisticViewWarningV010distanceTobC8InMetersSdvp">`RealisticViewWarning.distanceToRealisticViewInMeters`</a> is then 40 meters, since that is the distance between the first and second warnings.
 
 </div>
 
@@ -29,7 +29,7 @@ A <a href="sdk-for-ios-navigate-structs-realisticviewwarning">`RealisticViewWarn
 
 - <div>
 
-      onRealisticViewWarningUpdated(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk28RealisticViewWarningDelegateP02onbcD7UpdatedyyAA0bcD0VF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-onRealisticViewWarningUpdated-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-protocols-realisticviewwarningdelegate#sdk-for-ios-navigate-s-7heresdk28RealisticViewWarningDelegateP02onbcD7UpdatedyyAA0bcD0VF" class="token"><code>onRealisticViewWarningUpdated(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -60,12 +60,14 @@ A <a href="sdk-for-ios-navigate-structs-realisticviewwarning">`RealisticViewWarn
   Swift
 
   ``` highlight
-  func onRealisticViewWarningUpdated ( _ realisticViewWarning : RealisticViewWarning )
+  func onRealisticViewWarningUpdated(_ realisticViewWarning: RealisticViewWarning)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-realisticviewwarning">RealisticViewWarning</a>
 
   </div>
 

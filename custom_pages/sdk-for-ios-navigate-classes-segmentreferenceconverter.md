@@ -37,7 +37,7 @@ A SegmentReferenceConverter provides possibility to convert mapmatched instances
 
 - <div>
 
-      init(sdkEngine: )
+   <span id="sdk-for-ios-navigate-s-7heresdk25SegmentReferenceConverterC9sdkEngineAcA09SDKNativeF0C_tKcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-sdkEngine" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-segmentreferenceconverter#sdk-for-ios-navigate-s-7heresdk25SegmentReferenceConverterC9sdkEngineAcA09SDKNativeF0C_tKcfc" class="token"><code>init(sdkEngine:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -61,7 +61,7 @@ A SegmentReferenceConverter provides possibility to convert mapmatched instances
 
   Throws
 
-  <a href="sdk-for-ios-navigate-core#/s:7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
+  <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
 
   </div>
 
@@ -76,12 +76,14 @@ A SegmentReferenceConverter provides possibility to convert mapmatched instances
   Swift
 
   ``` highlight
-  public init ( sdkEngine : SDKNativeEngine ) throws
+  public init(sdkEngine: SDKNativeEngine) throws
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-sdknativeengine">SDKNativeEngine</a>
 
   </div>
 
@@ -112,7 +114,7 @@ A SegmentReferenceConverter provides possibility to convert mapmatched instances
 
 - <div>
 
-      getOCMSegmentId(segmentReference: )
+   <span id="sdk-for-ios-navigate-s-7heresdk25SegmentReferenceConverterC15getOCMSegmentId07segmentC0AA08DirectedfG0VSgAA0bC0V_tF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-getOCMSegmentId-segmentReference" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-segmentreferenceconverter#sdk-for-ios-navigate-s-7heresdk25SegmentReferenceConverterC15getOCMSegmentId07segmentC0AA08DirectedfG0VSgAA0bC0V_tF" class="token"><code>getOCMSegmentId(segmentReference:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -143,12 +145,15 @@ A SegmentReferenceConverter provides possibility to convert mapmatched instances
   Swift
 
   ``` highlight
-  public func getOCMSegmentId ( segmentReference : SegmentReference ) -> DirectedOCMSegmentId ?
+  public func getOCMSegmentId(segmentReference: SegmentReference) -> DirectedOCMSegmentId?
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-segmentreference">SegmentReference</a>
+  - <a href="sdk-for-ios-navigate-structs-directedocmsegmentid">DirectedOCMSegmentId</a>
 
   </div>
 

@@ -27,7 +27,7 @@ A struct that provides information of a toll stop. **Note:** This is a beta rele
 
 - <div>
 
-  ` `<span id="/s:7heresdk9TollBoothV21tollCollectionMethodsSayAA0bE6MethodOGvp"></span>` `<span id="//apple_ref/swift/Property/tollCollectionMethods" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-tollbooth#/s:7heresdk9TollBoothV21tollCollectionMethodsSayAA0bE6MethodOGvp" class="token"><code>tollCollectionMethods</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9TollBoothV21tollCollectionMethodsSayAA0bE6MethodOGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-tollCollectionMethods" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-tollbooth#sdk-for-ios-explore-s-7heresdk9TollBoothV21tollCollectionMethodsSayAA0bE6MethodOGvp" class="token"><code>tollCollectionMethods</code></a> 
 
   </div>
 
@@ -63,6 +63,10 @@ A struct that provides information of a toll stop. **Note:** This is a beta rele
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-tollcollectionmethod">TollCollectionMethod</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ A struct that provides information of a toll stop. **Note:** This is a beta rele
 
 - <div>
 
-  ` `<span id="/s:7heresdk9TollBoothV14paymentMethodsSayAA13PaymentMethodOGvp"></span>` `<span id="//apple_ref/swift/Property/paymentMethods" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-tollbooth#/s:7heresdk9TollBoothV14paymentMethodsSayAA13PaymentMethodOGvp" class="token"><code>paymentMethods</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9TollBoothV14paymentMethodsSayAA13PaymentMethodOGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-paymentMethods" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-tollbooth#sdk-for-ios-explore-s-7heresdk9TollBoothV14paymentMethodsSayAA13PaymentMethodOGvp" class="token"><code>paymentMethods</code></a> 
 
   </div>
 
@@ -107,6 +111,10 @@ A struct that provides information of a toll stop. **Note:** This is a beta rele
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-paymentmethod">PaymentMethod</a>
+
   </div>
 
   </div>
@@ -115,7 +123,7 @@ A struct that provides information of a toll stop. **Note:** This is a beta rele
 
 - <div>
 
-      init(tollCollectionMethods: paymentMethods: )
+   <span id="sdk-for-ios-explore-s-7heresdk9TollBoothV21tollCollectionMethods07paymentF0ACSayAA0bE6MethodOG_SayAA07PaymentH0OGtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-tollCollectionMethods-paymentMethods" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-tollbooth#sdk-for-ios-explore-s-7heresdk9TollBoothV21tollCollectionMethods07paymentF0ACSayAA0bE6MethodOG_SayAA07PaymentH0OGtcfc" class="token"><code>init(tollCollectionMethods:</code><wbr></wbr><code>paymentMethods:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -146,12 +154,15 @@ A struct that provides information of a toll stop. **Note:** This is a beta rele
   Swift
 
   ``` highlight
-  public init ( tollCollectionMethods : [ TollCollectionMethod ], paymentMethods : [ PaymentMethod ])
+  public init(tollCollectionMethods: [TollCollectionMethod], paymentMethods: [PaymentMethod])
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-tollcollectionmethod">TollCollectionMethod</a>
+  - <a href="sdk-for-ios-explore-enums-paymentmethod">PaymentMethod</a>
 
   </div>
 

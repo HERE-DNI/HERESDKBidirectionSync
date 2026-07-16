@@ -29,7 +29,7 @@ This protocol should be implemented in order to receive notifications when a spe
 
 - <div>
 
-      onSpeedWarningStatusChanged(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk20SpeedWarningDelegateP02onbC13StatusChangedyyAA0bcF0OF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-onSpeedWarningStatusChanged-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-protocols-speedwarningdelegate#sdk-for-ios-explore-s-7heresdk20SpeedWarningDelegateP02onbC13StatusChangedyyAA0bcF0OF" class="token"><code>onSpeedWarningStatusChanged(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -60,12 +60,14 @@ This protocol should be implemented in order to receive notifications when a spe
   Swift
 
   ``` highlight
-  func onSpeedWarningStatusChanged ( _ status : SpeedWarningStatus )
+  func onSpeedWarningStatusChanged(_ status: SpeedWarningStatus)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-speedwarningstatus">SpeedWarningStatus</a>
 
   </div>
 

@@ -35,7 +35,7 @@ Represents an angle independent of the unit of measurement.
 
 - <div>
 
-  ` `<span id="/s:7heresdk5AngleC7degreesSdvp"></span>` `<span id="//apple_ref/swift/Property/degrees" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-angle#/s:7heresdk5AngleC7degreesSdvp" class="token"><code>degrees</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk5AngleC7degreesSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-degrees" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-angle#sdk-for-ios-navigate-s-7heresdk5AngleC7degreesSdvp" class="token"><code>degrees</code></a> 
 
   </div>
 
@@ -79,7 +79,7 @@ Represents an angle independent of the unit of measurement.
 
 - <div>
 
-  ` `<span id="/s:7heresdk5AngleC7radiansSdvp"></span>` `<span id="//apple_ref/swift/Property/radians" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-angle#/s:7heresdk5AngleC7radiansSdvp" class="token"><code>radians</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk5AngleC7radiansSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-radians" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-angle#sdk-for-ios-navigate-s-7heresdk5AngleC7radiansSdvp" class="token"><code>radians</code></a> 
 
   </div>
 
@@ -123,7 +123,7 @@ Represents an angle independent of the unit of measurement.
 
 - <div>
 
-      fromDegrees(angle: )
+   <span id="sdk-for-ios-navigate-s-7heresdk5AngleC11fromDegrees5angleACSd_tFZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-fromDegrees-angle" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-angle#sdk-for-ios-navigate-s-7heresdk5AngleC11fromDegrees5angleACSd_tFZ" class="token"><code>fromDegrees(angle:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -154,10 +154,8 @@ Represents an angle independent of the unit of measurement.
   Swift
 
   ``` highlight
-  public static func fromDegrees ( angle : Double ) -> Angle
+  public static func fromDegrees(angle: Double) -> Angle
   ```
-
-  </pre>
 
   </div>
 
@@ -198,7 +196,7 @@ Represents an angle independent of the unit of measurement.
 
 - <div>
 
-      fromRadians(angle: )
+   <span id="sdk-for-ios-navigate-s-7heresdk5AngleC11fromRadians5angleACSd_tFZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-fromRadians-angle" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-angle#sdk-for-ios-navigate-s-7heresdk5AngleC11fromRadians5angleACSd_tFZ" class="token"><code>fromRadians(angle:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -229,10 +227,8 @@ Represents an angle independent of the unit of measurement.
   Swift
 
   ``` highlight
-  public static func fromRadians ( angle : Double ) -> Angle
+  public static func fromRadians(angle: Double) -> Angle
   ```
-
-  </pre>
 
   </div>
 

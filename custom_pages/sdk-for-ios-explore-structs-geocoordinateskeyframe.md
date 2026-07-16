@@ -27,7 +27,7 @@ A GeoCoordinatesKeyframe consists of a GeoCoordinates and an animation duration.
 
 - <div>
 
-  ` `<span id="/s:7heresdk22GeoCoordinatesKeyframeV5valueAA0bC0Vvp"></span>` `<span id="//apple_ref/swift/Property/value" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-geocoordinateskeyframe#/s:7heresdk22GeoCoordinatesKeyframeV5valueAA0bC0Vvp" class="token"><code>value</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk22GeoCoordinatesKeyframeV5valueAA0bC0Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-value" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-geocoordinateskeyframe#sdk-for-ios-explore-s-7heresdk22GeoCoordinatesKeyframeV5valueAA0bC0Vvp" class="token"><code>value</code></a> 
 
   </div>
 
@@ -63,6 +63,10 @@ A GeoCoordinatesKeyframe consists of a GeoCoordinates and an animation duration.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geocoordinates">GeoCoordinates</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ A GeoCoordinatesKeyframe consists of a GeoCoordinates and an animation duration.
 
 - <div>
 
-  ` `<span id="/s:7heresdk22GeoCoordinatesKeyframeV8durationSdvp"></span>` `<span id="//apple_ref/swift/Property/duration" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-geocoordinateskeyframe#/s:7heresdk22GeoCoordinatesKeyframeV8durationSdvp" class="token"><code>duration</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk22GeoCoordinatesKeyframeV8durationSdvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-duration" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-geocoordinateskeyframe#sdk-for-ios-explore-s-7heresdk22GeoCoordinatesKeyframeV8durationSdvp" class="token"><code>duration</code></a> 
 
   </div>
 
@@ -115,7 +119,7 @@ A GeoCoordinatesKeyframe consists of a GeoCoordinates and an animation duration.
 
 - <div>
 
-      init(value: duration: )
+   <span id="sdk-for-ios-explore-s-7heresdk22GeoCoordinatesKeyframeV5value8durationAcA0bC0V_Sdtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-value-duration" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-geocoordinateskeyframe#sdk-for-ios-explore-s-7heresdk22GeoCoordinatesKeyframeV5value8durationAcA0bC0V_Sdtcfc" class="token"><code>init(value:</code><wbr></wbr><code>duration:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -146,12 +150,14 @@ A GeoCoordinatesKeyframe consists of a GeoCoordinates and an animation duration.
   Swift
 
   ``` highlight
-  public init ( value : GeoCoordinates , duration : TimeInterval )
+  public init(value: GeoCoordinates, duration: TimeInterval)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geocoordinates">GeoCoordinates</a>
 
   </div>
 

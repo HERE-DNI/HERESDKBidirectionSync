@@ -27,7 +27,7 @@ Represents geographical coordinates in 3D space.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14GeoCoordinatesV8latitudeSdvp"></span>` `<span id="//apple_ref/swift/Property/latitude" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-geocoordinates#/s:7heresdk14GeoCoordinatesV8latitudeSdvp" class="token"><code>latitude</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14GeoCoordinatesV8latitudeSdvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-latitude" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-geocoordinates#sdk-for-ios-explore-s-7heresdk14GeoCoordinatesV8latitudeSdvp" class="token"><code>latitude</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Represents geographical coordinates in 3D space.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14GeoCoordinatesV9longitudeSdvp"></span>` `<span id="//apple_ref/swift/Property/longitude" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-geocoordinates#/s:7heresdk14GeoCoordinatesV9longitudeSdvp" class="token"><code>longitude</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14GeoCoordinatesV9longitudeSdvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-longitude" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-geocoordinates#sdk-for-ios-explore-s-7heresdk14GeoCoordinatesV9longitudeSdvp" class="token"><code>longitude</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Represents geographical coordinates in 3D space.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14GeoCoordinatesV8altitudeSdSgvp"></span>` `<span id="//apple_ref/swift/Property/altitude" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-geocoordinates#/s:7heresdk14GeoCoordinatesV8altitudeSdSgvp" class="token"><code>altitude</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14GeoCoordinatesV8altitudeSdSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-altitude" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-geocoordinates#sdk-for-ios-explore-s-7heresdk14GeoCoordinatesV8altitudeSdSgvp" class="token"><code>altitude</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Represents geographical coordinates in 3D space.
 
 - <div>
 
-      init(latitude: longitude: altitude: )
+   <span id="sdk-for-ios-explore-s-7heresdk14GeoCoordinatesV8latitude9longitude8altitudeACSd_S2dtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-latitude-longitude-altitude" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-geocoordinates#sdk-for-ios-explore-s-7heresdk14GeoCoordinatesV8latitude9longitude8altitudeACSd_S2dtcfc" class="token"><code>init(latitude:</code><wbr></wbr><code>longitude:</code><wbr></wbr><code>altitude:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -190,10 +190,8 @@ Represents geographical coordinates in 3D space.
   Swift
 
   ``` highlight
-  public init ( latitude : Double , longitude : Double , altitude : Double )
+  public init(latitude: Double, longitude: Double, altitude: Double)
   ```
-
-  </pre>
 
   </div>
 
@@ -238,7 +236,7 @@ Represents geographical coordinates in 3D space.
 
 - <div>
 
-      init(latitude: longitude: )
+   <span id="sdk-for-ios-explore-s-7heresdk14GeoCoordinatesV8latitude9longitudeACSd_Sdtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-latitude-longitude" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-geocoordinates#sdk-for-ios-explore-s-7heresdk14GeoCoordinatesV8latitude9longitudeACSd_Sdtcfc" class="token"><code>init(latitude:</code><wbr></wbr><code>longitude:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -269,10 +267,8 @@ Represents geographical coordinates in 3D space.
   Swift
 
   ``` highlight
-  public init ( latitude : Double , longitude : Double )
+  public init(latitude: Double, longitude: Double)
   ```
-
-  </pre>
 
   </div>
 
@@ -311,7 +307,7 @@ Represents geographical coordinates in 3D space.
 
 - <div>
 
-      distance(to: )
+   <span id="sdk-for-ios-explore-s-7heresdk14GeoCoordinatesV8distance2toSdAC_tF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-distance-to" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-geocoordinates#sdk-for-ios-explore-s-7heresdk14GeoCoordinatesV8distance2toSdAC_tF" class="token"><code>distance(to:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -342,10 +338,8 @@ Represents geographical coordinates in 3D space.
   Swift
 
   ``` highlight
-  public func distance ( to point : GeoCoordinates ) -> Double
+  public func distance(to point: GeoCoordinates) -> Double
   ```
-
-  </pre>
 
   </div>
 
@@ -386,7 +380,7 @@ Represents geographical coordinates in 3D space.
 
 - <div>
 
-      interpolate(toward: by: )
+   <span id="sdk-for-ios-explore-s-7heresdk14GeoCoordinatesV11interpolate6toward2byA2C_SdtF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-interpolate-toward-by" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-geocoordinates#sdk-for-ios-explore-s-7heresdk14GeoCoordinatesV11interpolate6toward2byA2C_SdtF" class="token"><code>interpolate(toward:</code><wbr></wbr><code>by:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -421,10 +415,8 @@ Represents geographical coordinates in 3D space.
   Swift
 
   ``` highlight
-  public func interpolate ( toward towardCoords : GeoCoordinates , by factor : Double ) -> GeoCoordinates
+  public func interpolate(toward towardCoords: GeoCoordinates, by factor: Double) -> GeoCoordinates
   ```
-
-  </pre>
 
   </div>
 
@@ -471,7 +463,7 @@ Represents geographical coordinates in 3D space.
 
 - <div>
 
-      fromString(input: )
+   <span id="sdk-for-ios-explore-s-7heresdk14GeoCoordinatesV10fromString5inputACSgSS_tFZ"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-fromString-input" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-geocoordinates#sdk-for-ios-explore-s-7heresdk14GeoCoordinatesV10fromString5inputACSgSS_tFZ" class="token"><code>fromString(input:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -502,10 +494,8 @@ Represents geographical coordinates in 3D space.
   Swift
 
   ``` highlight
-  public static func fromString ( input : String ) -> GeoCoordinates ?
+  public static func fromString(input: String) -> GeoCoordinates?
   ```
-
-  </pre>
 
   </div>
 
@@ -546,7 +536,7 @@ Represents geographical coordinates in 3D space.
 
 - <div>
 
-      ==(_: _: )
+   <span id="sdk-for-ios-explore-s-7heresdk14GeoCoordinatesV2eeoiySbAC_ACtFZ"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-_-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-geocoordinates#sdk-for-ios-explore-s-7heresdk14GeoCoordinatesV2eeoiySbAC_ACtFZ" class="token"><code>==(_:</code><wbr></wbr><code>_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -577,10 +567,8 @@ Represents geographical coordinates in 3D space.
   Swift
 
   ``` highlight
-  static func == ( lhs : GeoCoordinates , rhs : GeoCoordinates ) -> Bool
+  static func == (lhs: GeoCoordinates, rhs: GeoCoordinates) -> Bool
   ```
-
-  </pre>
 
   </div>
 

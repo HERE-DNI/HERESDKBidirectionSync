@@ -27,7 +27,7 @@ Identifier of the place as provided by the supplier
 
 - <div>
 
-  ` `<span id="/s:7heresdk17SupplierReferenceV8supplierSSvp"></span>` `<span id="//apple_ref/swift/Property/supplier" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-supplierreference#/s:7heresdk17SupplierReferenceV8supplierSSvp" class="token"><code>supplier</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17SupplierReferenceV8supplierSSvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-supplier" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-supplierreference#sdk-for-ios-explore-s-7heresdk17SupplierReferenceV8supplierSSvp" class="token"><code>supplier</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Identifier of the place as provided by the supplier
 
 - <div>
 
-  ` `<span id="/s:7heresdk17SupplierReferenceV2idSSvp"></span>` `<span id="//apple_ref/swift/Property/id" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-supplierreference#/s:7heresdk17SupplierReferenceV2idSSvp" class="token"><code>id</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17SupplierReferenceV2idSSvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-id" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-supplierreference#sdk-for-ios-explore-s-7heresdk17SupplierReferenceV2idSSvp" class="token"><code>id</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Identifier of the place as provided by the supplier
 
 - <div>
 
-      init(supplier: id: )
+   <span id="sdk-for-ios-explore-s-7heresdk17SupplierReferenceV8supplier2idACSS_SStcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-supplier-id" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-supplierreference#sdk-for-ios-explore-s-7heresdk17SupplierReferenceV8supplier2idACSS_SStcfc" class="token"><code>init(supplier:</code><wbr></wbr><code>id:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -146,10 +146,8 @@ Identifier of the place as provided by the supplier
   Swift
 
   ``` highlight
-  public init ( supplier : String , id : String )
+  public init(supplier: String, id: String)
   ```
-
-  </pre>
 
   </div>
 
@@ -161,7 +159,7 @@ Identifier of the place as provided by the supplier
 
 - <div>
 
-      init()
+   <span id="sdk-for-ios-explore-s-7heresdk17SupplierReferenceVACycfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-supplierreference#sdk-for-ios-explore-s-7heresdk17SupplierReferenceVACycfc" class="token"><code>init()</code></a> 
 
   </div>
 
@@ -192,10 +190,8 @@ Identifier of the place as provided by the supplier
   Swift
 
   ``` highlight
-  public init ()
+  public init()
   ```
-
-  </pre>
 
   </div>
 

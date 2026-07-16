@@ -27,7 +27,7 @@ Represents the payment support functionality on EVSE for ad-hoc customers (witho
 
 - <div>
 
-  ` `<span id="/s:7heresdk18EVSEPaymentSupportO8chipCardyA2CmF"></span>` `<span id="//apple_ref/swift/Element/chipCard" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-evsepaymentsupport#/s:7heresdk18EVSEPaymentSupportO8chipCardyA2CmF" class="token"><code>chipCard</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18EVSEPaymentSupportO8chipCardyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-chipCard" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-evsepaymentsupport#sdk-for-ios-explore-s-7heresdk18EVSEPaymentSupportO8chipCardyA2CmF" class="token"><code>chipCard</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Represents the payment support functionality on EVSE for ad-hoc customers (witho
 
 - <div>
 
-  ` `<span id="/s:7heresdk18EVSEPaymentSupportO15contactlessCardyA2CmF"></span>` `<span id="//apple_ref/swift/Element/contactlessCard" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-evsepaymentsupport#/s:7heresdk18EVSEPaymentSupportO15contactlessCardyA2CmF" class="token"><code>contactlessCard</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18EVSEPaymentSupportO15contactlessCardyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-contactlessCard" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-evsepaymentsupport#sdk-for-ios-explore-s-7heresdk18EVSEPaymentSupportO15contactlessCardyA2CmF" class="token"><code>contactlessCard</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Represents the payment support functionality on EVSE for ad-hoc customers (witho
 
 - <div>
 
-  ` `<span id="/s:7heresdk18EVSEPaymentSupportO10creditCardyA2CmF"></span>` `<span id="//apple_ref/swift/Element/creditCard" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-evsepaymentsupport#/s:7heresdk18EVSEPaymentSupportO10creditCardyA2CmF" class="token"><code>creditCard</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18EVSEPaymentSupportO10creditCardyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-creditCard" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-evsepaymentsupport#sdk-for-ios-explore-s-7heresdk18EVSEPaymentSupportO10creditCardyA2CmF" class="token"><code>creditCard</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Represents the payment support functionality on EVSE for ad-hoc customers (witho
 
 - <div>
 
-  ` `<span id="/s:7heresdk18EVSEPaymentSupportO9debitCardyA2CmF"></span>` `<span id="//apple_ref/swift/Element/debitCard" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-evsepaymentsupport#/s:7heresdk18EVSEPaymentSupportO9debitCardyA2CmF" class="token"><code>debitCard</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18EVSEPaymentSupportO9debitCardyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-debitCard" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-evsepaymentsupport#sdk-for-ios-explore-s-7heresdk18EVSEPaymentSupportO9debitCardyA2CmF" class="token"><code>debitCard</code></a> 
 
   </div>
 
@@ -203,7 +203,7 @@ Represents the payment support functionality on EVSE for ad-hoc customers (witho
 
 - <div>
 
-  ` `<span id="/s:7heresdk18EVSEPaymentSupportO11pedTerminalyA2CmF"></span>` `<span id="//apple_ref/swift/Element/pedTerminal" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-evsepaymentsupport#/s:7heresdk18EVSEPaymentSupportO11pedTerminalyA2CmF" class="token"><code>pedTerminal</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18EVSEPaymentSupportO11pedTerminalyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-pedTerminal" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-evsepaymentsupport#sdk-for-ios-explore-s-7heresdk18EVSEPaymentSupportO11pedTerminalyA2CmF" class="token"><code>pedTerminal</code></a> 
 
   </div>
 
@@ -247,7 +247,7 @@ Represents the payment support functionality on EVSE for ad-hoc customers (witho
 
 - <div>
 
-  ` `<span id="/s:7heresdk18EVSEPaymentSupportO10rfidReaderyA2CmF"></span>` `<span id="//apple_ref/swift/Element/rfidReader" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-evsepaymentsupport#/s:7heresdk18EVSEPaymentSupportO10rfidReaderyA2CmF" class="token"><code>rfidReader</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18EVSEPaymentSupportO10rfidReaderyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-rfidReader" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-evsepaymentsupport#sdk-for-ios-explore-s-7heresdk18EVSEPaymentSupportO10rfidReaderyA2CmF" class="token"><code>rfidReader</code></a> 
 
   </div>
 
@@ -291,7 +291,7 @@ Represents the payment support functionality on EVSE for ad-hoc customers (witho
 
 - <div>
 
-  ` `<span id="/s:7heresdk18EVSEPaymentSupportO22authByCarPlugAndChargeyA2CmF"></span>` `<span id="//apple_ref/swift/Element/authByCarPlugAndCharge" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-evsepaymentsupport#/s:7heresdk18EVSEPaymentSupportO22authByCarPlugAndChargeyA2CmF" class="token"><code>authByCarPlugAndCharge</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18EVSEPaymentSupportO22authByCarPlugAndChargeyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-authByCarPlugAndCharge" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-evsepaymentsupport#sdk-for-ios-explore-s-7heresdk18EVSEPaymentSupportO22authByCarPlugAndChargeyA2CmF" class="token"><code>authByCarPlugAndCharge</code></a> 
 
   </div>
 
@@ -335,7 +335,7 @@ Represents the payment support functionality on EVSE for ad-hoc customers (witho
 
 - <div>
 
-  ` `<span id="/s:7heresdk18EVSEPaymentSupportO19authByCarAutochargeyA2CmF"></span>` `<span id="//apple_ref/swift/Element/authByCarAutocharge" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-evsepaymentsupport#/s:7heresdk18EVSEPaymentSupportO19authByCarAutochargeyA2CmF" class="token"><code>authByCarAutocharge</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18EVSEPaymentSupportO19authByCarAutochargeyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-authByCarAutocharge" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-evsepaymentsupport#sdk-for-ios-explore-s-7heresdk18EVSEPaymentSupportO19authByCarAutochargeyA2CmF" class="token"><code>authByCarAutocharge</code></a> 
 
   </div>
 
@@ -379,7 +379,7 @@ Represents the payment support functionality on EVSE for ad-hoc customers (witho
 
 - <div>
 
-  ` `<span id="/s:7heresdk18EVSEPaymentSupportO14onlineApplePayyA2CmF"></span>` `<span id="//apple_ref/swift/Element/onlineApplePay" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-evsepaymentsupport#/s:7heresdk18EVSEPaymentSupportO14onlineApplePayyA2CmF" class="token"><code>onlineApplePay</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18EVSEPaymentSupportO14onlineApplePayyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-onlineApplePay" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-evsepaymentsupport#sdk-for-ios-explore-s-7heresdk18EVSEPaymentSupportO14onlineApplePayyA2CmF" class="token"><code>onlineApplePay</code></a> 
 
   </div>
 
@@ -423,7 +423,7 @@ Represents the payment support functionality on EVSE for ad-hoc customers (witho
 
 - <div>
 
-  ` `<span id="/s:7heresdk18EVSEPaymentSupportO12onlinePaypalyA2CmF"></span>` `<span id="//apple_ref/swift/Element/onlinePaypal" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-evsepaymentsupport#/s:7heresdk18EVSEPaymentSupportO12onlinePaypalyA2CmF" class="token"><code>onlinePaypal</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18EVSEPaymentSupportO12onlinePaypalyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-onlinePaypal" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-evsepaymentsupport#sdk-for-ios-explore-s-7heresdk18EVSEPaymentSupportO12onlinePaypalyA2CmF" class="token"><code>onlinePaypal</code></a> 
 
   </div>
 
@@ -467,7 +467,7 @@ Represents the payment support functionality on EVSE for ad-hoc customers (witho
 
 - <div>
 
-  ` `<span id="/s:7heresdk18EVSEPaymentSupportO16onlineCreditCardyA2CmF"></span>` `<span id="//apple_ref/swift/Element/onlineCreditCard" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-evsepaymentsupport#/s:7heresdk18EVSEPaymentSupportO16onlineCreditCardyA2CmF" class="token"><code>onlineCreditCard</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18EVSEPaymentSupportO16onlineCreditCardyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-onlineCreditCard" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-evsepaymentsupport#sdk-for-ios-explore-s-7heresdk18EVSEPaymentSupportO16onlineCreditCardyA2CmF" class="token"><code>onlineCreditCard</code></a> 
 
   </div>
 
@@ -511,7 +511,7 @@ Represents the payment support functionality on EVSE for ad-hoc customers (witho
 
 - <div>
 
-  ` `<span id="/s:7heresdk18EVSEPaymentSupportO15onlineGooglePayyA2CmF"></span>` `<span id="//apple_ref/swift/Element/onlineGooglePay" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-evsepaymentsupport#/s:7heresdk18EVSEPaymentSupportO15onlineGooglePayyA2CmF" class="token"><code>onlineGooglePay</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18EVSEPaymentSupportO15onlineGooglePayyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-onlineGooglePay" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-evsepaymentsupport#sdk-for-ios-explore-s-7heresdk18EVSEPaymentSupportO15onlineGooglePayyA2CmF" class="token"><code>onlineGooglePay</code></a> 
 
   </div>
 
@@ -555,7 +555,7 @@ Represents the payment support functionality on EVSE for ad-hoc customers (witho
 
 - <div>
 
-  ` `<span id="/s:7heresdk18EVSEPaymentSupportO17onlineBankPaymentyA2CmF"></span>` `<span id="//apple_ref/swift/Element/onlineBankPayment" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-evsepaymentsupport#/s:7heresdk18EVSEPaymentSupportO17onlineBankPaymentyA2CmF" class="token"><code>onlineBankPayment</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18EVSEPaymentSupportO17onlineBankPaymentyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-onlineBankPayment" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-evsepaymentsupport#sdk-for-ios-explore-s-7heresdk18EVSEPaymentSupportO17onlineBankPaymentyA2CmF" class="token"><code>onlineBankPayment</code></a> 
 
   </div>
 
@@ -599,7 +599,7 @@ Represents the payment support functionality on EVSE for ad-hoc customers (witho
 
 - <div>
 
-  ` `<span id="/s:7heresdk18EVSEPaymentSupportO14terminalQrCodeyA2CmF"></span>` `<span id="//apple_ref/swift/Element/terminalQrCode" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-evsepaymentsupport#/s:7heresdk18EVSEPaymentSupportO14terminalQrCodeyA2CmF" class="token"><code>terminalQrCode</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18EVSEPaymentSupportO14terminalQrCodeyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-terminalQrCode" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-evsepaymentsupport#sdk-for-ios-explore-s-7heresdk18EVSEPaymentSupportO14terminalQrCodeyA2CmF" class="token"><code>terminalQrCode</code></a> 
 
   </div>
 
@@ -643,7 +643,7 @@ Represents the payment support functionality on EVSE for ad-hoc customers (witho
 
 - <div>
 
-  ` `<span id="/s:7heresdk18EVSEPaymentSupportO11terminalSmsyA2CmF"></span>` `<span id="//apple_ref/swift/Element/terminalSms" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-evsepaymentsupport#/s:7heresdk18EVSEPaymentSupportO11terminalSmsyA2CmF" class="token"><code>terminalSms</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18EVSEPaymentSupportO11terminalSmsyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-terminalSms" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-evsepaymentsupport#sdk-for-ios-explore-s-7heresdk18EVSEPaymentSupportO11terminalSmsyA2CmF" class="token"><code>terminalSms</code></a> 
 
   </div>
 
@@ -687,7 +687,7 @@ Represents the payment support functionality on EVSE for ad-hoc customers (witho
 
 - <div>
 
-  ` `<span id="/s:7heresdk18EVSEPaymentSupportO11operatorAppyA2CmF"></span>` `<span id="//apple_ref/swift/Element/operatorApp" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-evsepaymentsupport#/s:7heresdk18EVSEPaymentSupportO11operatorAppyA2CmF" class="token"><code>operatorApp</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18EVSEPaymentSupportO11operatorAppyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-operatorApp" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-evsepaymentsupport#sdk-for-ios-explore-s-7heresdk18EVSEPaymentSupportO11operatorAppyA2CmF" class="token"><code>operatorApp</code></a> 
 
   </div>
 
@@ -731,7 +731,7 @@ Represents the payment support functionality on EVSE for ad-hoc customers (witho
 
 - <div>
 
-  ` `<span id="/s:7heresdk18EVSEPaymentSupportO13mobilePaymentyA2CmF"></span>` `<span id="//apple_ref/swift/Element/mobilePayment" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-evsepaymentsupport#/s:7heresdk18EVSEPaymentSupportO13mobilePaymentyA2CmF" class="token"><code>mobilePayment</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18EVSEPaymentSupportO13mobilePaymentyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-mobilePayment" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-evsepaymentsupport#sdk-for-ios-explore-s-7heresdk18EVSEPaymentSupportO13mobilePaymentyA2CmF" class="token"><code>mobilePayment</code></a> 
 
   </div>
 
@@ -749,7 +749,7 @@ Represents the payment support functionality on EVSE for ad-hoc customers (witho
 
   <div class="abstract">
 
-  Used with <a href="sdk-for-ios-explore-enums-evsepaymentsupport#/s:7heresdk18EVSEPaymentSupportO11operatorAppyA2CmF">`EVSEPaymentSupport.operatorApp`</a>, <a href="sdk-for-ios-explore-enums-evsepaymentsupport#/s:7heresdk18EVSEPaymentSupportO14onlineApplePayyA2CmF">`EVSEPaymentSupport.onlineApplePay`</a>, <a href="sdk-for-ios-explore-enums-evsepaymentsupport#/s:7heresdk18EVSEPaymentSupportO12onlinePaypalyA2CmF">`EVSEPaymentSupport.onlinePaypal`</a>, <a href="sdk-for-ios-explore-enums-evsepaymentsupport#/s:7heresdk18EVSEPaymentSupportO16onlineCreditCardyA2CmF">`EVSEPaymentSupport.onlineCreditCard`</a>, <a href="sdk-for-ios-explore-enums-evsepaymentsupport#/s:7heresdk18EVSEPaymentSupportO15onlineGooglePayyA2CmF">`EVSEPaymentSupport.onlineGooglePay`</a>, <a href="sdk-for-ios-explore-enums-evsepaymentsupport#/s:7heresdk18EVSEPaymentSupportO17onlineBankPaymentyA2CmF">`EVSEPaymentSupport.onlineBankPayment`</a>, <a href="sdk-for-ios-explore-enums-evsepaymentsupport#/s:7heresdk18EVSEPaymentSupportO11terminalSmsyA2CmF">`EVSEPaymentSupport.terminalSms`</a>, <a href="sdk-for-ios-explore-enums-evsepaymentsupport#/s:7heresdk18EVSEPaymentSupportO14terminalQrCodeyA2CmF">`EVSEPaymentSupport.terminalQrCode`</a>, and <a href="sdk-for-ios-explore-enums-evsepaymentsupport#/s:7heresdk18EVSEPaymentSupportO15contactlessCardyA2CmF">`EVSEPaymentSupport.contactlessCard`</a>. Whenever one or more of those payment types is specified, `EVSEPaymentSupport.mobilePayment` is also specified.
+  Used with <a href="sdk-for-ios-explore-enums-evsepaymentsupport#sdk-for-ios-explore-s-7heresdk18EVSEPaymentSupportO11operatorAppyA2CmF">`EVSEPaymentSupport.operatorApp`</a>, <a href="sdk-for-ios-explore-enums-evsepaymentsupport#sdk-for-ios-explore-s-7heresdk18EVSEPaymentSupportO14onlineApplePayyA2CmF">`EVSEPaymentSupport.onlineApplePay`</a>, <a href="sdk-for-ios-explore-enums-evsepaymentsupport#sdk-for-ios-explore-s-7heresdk18EVSEPaymentSupportO12onlinePaypalyA2CmF">`EVSEPaymentSupport.onlinePaypal`</a>, <a href="sdk-for-ios-explore-enums-evsepaymentsupport#sdk-for-ios-explore-s-7heresdk18EVSEPaymentSupportO16onlineCreditCardyA2CmF">`EVSEPaymentSupport.onlineCreditCard`</a>, <a href="sdk-for-ios-explore-enums-evsepaymentsupport#sdk-for-ios-explore-s-7heresdk18EVSEPaymentSupportO15onlineGooglePayyA2CmF">`EVSEPaymentSupport.onlineGooglePay`</a>, <a href="sdk-for-ios-explore-enums-evsepaymentsupport#sdk-for-ios-explore-s-7heresdk18EVSEPaymentSupportO17onlineBankPaymentyA2CmF">`EVSEPaymentSupport.onlineBankPayment`</a>, <a href="sdk-for-ios-explore-enums-evsepaymentsupport#sdk-for-ios-explore-s-7heresdk18EVSEPaymentSupportO11terminalSmsyA2CmF">`EVSEPaymentSupport.terminalSms`</a>, <a href="sdk-for-ios-explore-enums-evsepaymentsupport#sdk-for-ios-explore-s-7heresdk18EVSEPaymentSupportO14terminalQrCodeyA2CmF">`EVSEPaymentSupport.terminalQrCode`</a>, and <a href="sdk-for-ios-explore-enums-evsepaymentsupport#sdk-for-ios-explore-s-7heresdk18EVSEPaymentSupportO15contactlessCardyA2CmF">`EVSEPaymentSupport.contactlessCard`</a>. Whenever one or more of those payment types is specified, `EVSEPaymentSupport.mobilePayment` is also specified.
 
   </div>
 

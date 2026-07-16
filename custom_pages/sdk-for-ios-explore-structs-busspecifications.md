@@ -10,10 +10,9 @@ slug: "sdk-for-ios-explore-structs-busspecifications"
 <div class="language">
 
 ``` highlight
-@available(*, deprecated, message: "Will be removed in v4.28.0. Use `TransportSpecification` instead.") public struct BusSpecifications : Hashable
+@available(*, deprecated, message: "Will be removed in v4.28.0. Use `TransportSpecification` instead.")
+public struct BusSpecifications : Hashable
 ```
-
-</pre>
 
 </div>
 
@@ -29,7 +28,7 @@ Bus specifications contain vehicle related attributes. Examples: height, weight,
 
 - <div>
 
-  ` `<span id="/s:7heresdk17BusSpecificationsV22grossWeightInKilogramss5Int32VSgvp"></span>` `<span id="//apple_ref/swift/Property/grossWeightInKilograms" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-busspecifications#/s:7heresdk17BusSpecificationsV22grossWeightInKilogramss5Int32VSgvp" class="token"><code>grossWeightInKilograms</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17BusSpecificationsV22grossWeightInKilogramss5Int32VSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-grossWeightInKilograms" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-busspecifications#sdk-for-ios-explore-s-7heresdk17BusSpecificationsV22grossWeightInKilogramss5Int32VSgvp" class="token"><code>grossWeightInKilograms</code></a> 
 
   </div>
 
@@ -73,7 +72,7 @@ Bus specifications contain vehicle related attributes. Examples: height, weight,
 
 - <div>
 
-  ` `<span id="/s:7heresdk17BusSpecificationsV19heightInCentimeterss5Int32VSgvp"></span>` `<span id="//apple_ref/swift/Property/heightInCentimeters" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-busspecifications#/s:7heresdk17BusSpecificationsV19heightInCentimeterss5Int32VSgvp" class="token"><code>heightInCentimeters</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17BusSpecificationsV19heightInCentimeterss5Int32VSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-heightInCentimeters" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-busspecifications#sdk-for-ios-explore-s-7heresdk17BusSpecificationsV19heightInCentimeterss5Int32VSgvp" class="token"><code>heightInCentimeters</code></a> 
 
   </div>
 
@@ -117,7 +116,7 @@ Bus specifications contain vehicle related attributes. Examples: height, weight,
 
 - <div>
 
-  ` `<span id="/s:7heresdk17BusSpecificationsV18widthInCentimeterss5Int32VSgvp"></span>` `<span id="//apple_ref/swift/Property/widthInCentimeters" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-busspecifications#/s:7heresdk17BusSpecificationsV18widthInCentimeterss5Int32VSgvp" class="token"><code>widthInCentimeters</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17BusSpecificationsV18widthInCentimeterss5Int32VSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-widthInCentimeters" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-busspecifications#sdk-for-ios-explore-s-7heresdk17BusSpecificationsV18widthInCentimeterss5Int32VSgvp" class="token"><code>widthInCentimeters</code></a> 
 
   </div>
 
@@ -161,7 +160,7 @@ Bus specifications contain vehicle related attributes. Examples: height, weight,
 
 - <div>
 
-  ` `<span id="/s:7heresdk17BusSpecificationsV19lengthInCentimeterss5Int32VSgvp"></span>` `<span id="//apple_ref/swift/Property/lengthInCentimeters" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-busspecifications#/s:7heresdk17BusSpecificationsV19lengthInCentimeterss5Int32VSgvp" class="token"><code>lengthInCentimeters</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17BusSpecificationsV19lengthInCentimeterss5Int32VSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-lengthInCentimeters" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-busspecifications#sdk-for-ios-explore-s-7heresdk17BusSpecificationsV19lengthInCentimeterss5Int32VSgvp" class="token"><code>lengthInCentimeters</code></a> 
 
   </div>
 
@@ -205,7 +204,7 @@ Bus specifications contain vehicle related attributes. Examples: height, weight,
 
 - <div>
 
-      init(grossWeightInKilograms: heightInCentimeters: widthInCentimeters: lengthInCentimeters: )
+   <span id="sdk-for-ios-explore-s-7heresdk17BusSpecificationsV22grossWeightInKilograms06heightF11Centimeters05widthfI006lengthfI0ACs5Int32VSg_A3Jtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-grossWeightInKilograms-heightInCentimeters-widthInCentimeters-lengthInCentimeters" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-busspecifications#sdk-for-ios-explore-s-7heresdk17BusSpecificationsV22grossWeightInKilograms06heightF11Centimeters05widthfI006lengthfI0ACs5Int32VSg_A3Jtcfc" class="token"><code>init(grossWeightInKilograms:</code><wbr></wbr><code>heightInCentimeters:</code><wbr></wbr><code>widthInCentimeters:</code><wbr></wbr><code>lengthInCentimeters:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -236,10 +235,8 @@ Bus specifications contain vehicle related attributes. Examples: height, weight,
   Swift
 
   ``` highlight
-  public init ( grossWeightInKilograms : Int32 ? = nil , heightInCentimeters : Int32 ? = nil , widthInCentimeters : Int32 ? = nil , lengthInCentimeters : Int32 ? = nil )
+  public init(grossWeightInKilograms: Int32? = nil, heightInCentimeters: Int32? = nil, widthInCentimeters: Int32? = nil, lengthInCentimeters: Int32? = nil)
   ```
-
-  </pre>
 
   </div>
 

@@ -27,7 +27,7 @@ Indicates the divider between the lanes.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13DividerMarkerO14longDashedLineyA2CmF"></span>` `<span id="//apple_ref/swift/Element/longDashedLine" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-dividermarker#/s:7heresdk13DividerMarkerO14longDashedLineyA2CmF" class="token"><code>longDashedLine</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13DividerMarkerO14longDashedLineyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-longDashedLine" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-dividermarker#sdk-for-ios-navigate-s-7heresdk13DividerMarkerO14longDashedLineyA2CmF" class="token"><code>longDashedLine</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Indicates the divider between the lanes.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13DividerMarkerO15doubleSolidLineyA2CmF"></span>` `<span id="//apple_ref/swift/Element/doubleSolidLine" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-dividermarker#/s:7heresdk13DividerMarkerO15doubleSolidLineyA2CmF" class="token"><code>doubleSolidLine</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13DividerMarkerO15doubleSolidLineyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-doubleSolidLine" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-dividermarker#sdk-for-ios-navigate-s-7heresdk13DividerMarkerO15doubleSolidLineyA2CmF" class="token"><code>doubleSolidLine</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Indicates the divider between the lanes.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13DividerMarkerO15singleSolidLineyA2CmF"></span>` `<span id="//apple_ref/swift/Element/singleSolidLine" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-dividermarker#/s:7heresdk13DividerMarkerO15singleSolidLineyA2CmF" class="token"><code>singleSolidLine</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13DividerMarkerO15singleSolidLineyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-singleSolidLine" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-dividermarker#sdk-for-ios-navigate-s-7heresdk13DividerMarkerO15singleSolidLineyA2CmF" class="token"><code>singleSolidLine</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Indicates the divider between the lanes.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13DividerMarkerO21innerSolidOuterDashedyA2CmF"></span>` `<span id="//apple_ref/swift/Element/innerSolidOuterDashed" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-dividermarker#/s:7heresdk13DividerMarkerO21innerSolidOuterDashedyA2CmF" class="token"><code>innerSolidOuterDashed</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13DividerMarkerO21innerSolidOuterDashedyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-innerSolidOuterDashed" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-dividermarker#sdk-for-ios-navigate-s-7heresdk13DividerMarkerO21innerSolidOuterDashedyA2CmF" class="token"><code>innerSolidOuterDashed</code></a> 
 
   </div>
 
@@ -203,7 +203,7 @@ Indicates the divider between the lanes.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13DividerMarkerO21innerDashedOuterSolidyA2CmF"></span>` `<span id="//apple_ref/swift/Element/innerDashedOuterSolid" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-dividermarker#/s:7heresdk13DividerMarkerO21innerDashedOuterSolidyA2CmF" class="token"><code>innerDashedOuterSolid</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13DividerMarkerO21innerDashedOuterSolidyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-innerDashedOuterSolid" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-dividermarker#sdk-for-ios-navigate-s-7heresdk13DividerMarkerO21innerDashedOuterSolidyA2CmF" class="token"><code>innerDashedOuterSolid</code></a> 
 
   </div>
 
@@ -247,7 +247,7 @@ Indicates the divider between the lanes.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13DividerMarkerO11shortDashedyA2CmF"></span>` `<span id="//apple_ref/swift/Element/shortDashed" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-dividermarker#/s:7heresdk13DividerMarkerO11shortDashedyA2CmF" class="token"><code>shortDashed</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13DividerMarkerO11shortDashedyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-shortDashed" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-dividermarker#sdk-for-ios-navigate-s-7heresdk13DividerMarkerO11shortDashedyA2CmF" class="token"><code>shortDashed</code></a> 
 
   </div>
 
@@ -291,7 +291,7 @@ Indicates the divider between the lanes.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13DividerMarkerO17shadedAreaMarkingyA2CmF"></span>` `<span id="//apple_ref/swift/Element/shadedAreaMarking" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-dividermarker#/s:7heresdk13DividerMarkerO17shadedAreaMarkingyA2CmF" class="token"><code>shadedAreaMarking</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13DividerMarkerO17shadedAreaMarkingyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-shadedAreaMarking" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-dividermarker#sdk-for-ios-navigate-s-7heresdk13DividerMarkerO17shadedAreaMarkingyA2CmF" class="token"><code>shadedAreaMarking</code></a> 
 
   </div>
 
@@ -335,7 +335,7 @@ Indicates the divider between the lanes.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13DividerMarkerO12dashedBlocksyA2CmF"></span>` `<span id="//apple_ref/swift/Element/dashedBlocks" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-dividermarker#/s:7heresdk13DividerMarkerO12dashedBlocksyA2CmF" class="token"><code>dashedBlocks</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13DividerMarkerO12dashedBlocksyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-dashedBlocks" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-dividermarker#sdk-for-ios-navigate-s-7heresdk13DividerMarkerO12dashedBlocksyA2CmF" class="token"><code>dashedBlocks</code></a> 
 
   </div>
 
@@ -379,7 +379,7 @@ Indicates the divider between the lanes.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13DividerMarkerO08physicalB5SmallyA2CmF"></span>` `<span id="//apple_ref/swift/Element/physicalDividerSmall" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-dividermarker#/s:7heresdk13DividerMarkerO08physicalB5SmallyA2CmF" class="token"><code>physicalDividerSmall</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13DividerMarkerO08physicalB5SmallyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-physicalDividerSmall" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-dividermarker#sdk-for-ios-navigate-s-7heresdk13DividerMarkerO08physicalB5SmallyA2CmF" class="token"><code>physicalDividerSmall</code></a> 
 
   </div>
 
@@ -423,7 +423,7 @@ Indicates the divider between the lanes.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13DividerMarkerO12doubleDashedyA2CmF"></span>` `<span id="//apple_ref/swift/Element/doubleDashed" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-dividermarker#/s:7heresdk13DividerMarkerO12doubleDashedyA2CmF" class="token"><code>doubleDashed</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13DividerMarkerO12doubleDashedyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-doubleDashed" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-dividermarker#sdk-for-ios-navigate-s-7heresdk13DividerMarkerO12doubleDashedyA2CmF" class="token"><code>doubleDashed</code></a> 
 
   </div>
 
@@ -467,7 +467,7 @@ Indicates the divider between the lanes.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13DividerMarkerO02noB0yA2CmF"></span>` `<span id="//apple_ref/swift/Element/noDivider" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-dividermarker#/s:7heresdk13DividerMarkerO02noB0yA2CmF" class="token"><code>noDivider</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13DividerMarkerO02noB0yA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-noDivider" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-dividermarker#sdk-for-ios-navigate-s-7heresdk13DividerMarkerO02noB0yA2CmF" class="token"><code>noDivider</code></a> 
 
   </div>
 
@@ -511,7 +511,7 @@ Indicates the divider between the lanes.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13DividerMarkerO13crossingAlertyA2CmF"></span>` `<span id="//apple_ref/swift/Element/crossingAlert" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-dividermarker#/s:7heresdk13DividerMarkerO13crossingAlertyA2CmF" class="token"><code>crossingAlert</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13DividerMarkerO13crossingAlertyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-crossingAlert" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-dividermarker#sdk-for-ios-navigate-s-7heresdk13DividerMarkerO13crossingAlertyA2CmF" class="token"><code>crossingAlert</code></a> 
 
   </div>
 
@@ -555,7 +555,7 @@ Indicates the divider between the lanes.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13DividerMarkerO14centerTurnLaneyA2CmF"></span>` `<span id="//apple_ref/swift/Element/centerTurnLane" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-dividermarker#/s:7heresdk13DividerMarkerO14centerTurnLaneyA2CmF" class="token"><code>centerTurnLane</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13DividerMarkerO14centerTurnLaneyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-centerTurnLane" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-dividermarker#sdk-for-ios-navigate-s-7heresdk13DividerMarkerO14centerTurnLaneyA2CmF" class="token"><code>centerTurnLane</code></a> 
 
   </div>
 
@@ -599,7 +599,7 @@ Indicates the divider between the lanes.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13DividerMarkerO02noC0yA2CmF"></span>` `<span id="//apple_ref/swift/Element/noMarker" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-dividermarker#/s:7heresdk13DividerMarkerO02noC0yA2CmF" class="token"><code>noMarker</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13DividerMarkerO02noC0yA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-noMarker" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-dividermarker#sdk-for-ios-navigate-s-7heresdk13DividerMarkerO02noC0yA2CmF" class="token"><code>noMarker</code></a> 
 
   </div>
 

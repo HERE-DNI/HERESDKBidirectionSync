@@ -35,7 +35,7 @@ Represents a style of the <a href="sdk-for-ios-navigate-classes-venuegeometry">`
 
 - <div>
 
-      init(mainColor: outlineColor: outlineWidth: )
+   <span id="sdk-for-ios-navigate-s-7heresdk18VenueGeometryStyleC9mainColor07outlineF00G5WidthACSo7UIColorC_AHSftcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-mainColor-outlineColor-outlineWidth" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-venuegeometrystyle#sdk-for-ios-navigate-s-7heresdk18VenueGeometryStyleC9mainColor07outlineF00G5WidthACSo7UIColorC_AHSftcfc" class="token"><code>init(mainColor:</code><wbr></wbr><code>outlineColor:</code><wbr></wbr><code>outlineWidth:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -66,10 +66,8 @@ Represents a style of the <a href="sdk-for-ios-navigate-classes-venuegeometry">`
   Swift
 
   ``` highlight
-  public init ( mainColor : UIColor , outlineColor : UIColor , outlineWidth : Float )
+  public init(mainColor: UIColor, outlineColor: UIColor, outlineWidth: Float)
   ```
-
-  </pre>
 
   </div>
 
@@ -114,7 +112,7 @@ Represents a style of the <a href="sdk-for-ios-navigate-classes-venuegeometry">`
 
 - <div>
 
-  ` `<span id="/s:7heresdk18VenueGeometryStyleC9mainColorSo7UIColorCvp"></span>` `<span id="//apple_ref/swift/Property/mainColor" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-venuegeometrystyle#/s:7heresdk18VenueGeometryStyleC9mainColorSo7UIColorCvp" class="token"><code>mainColor</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18VenueGeometryStyleC9mainColorSo7UIColorCvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-mainColor" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-venuegeometrystyle#sdk-for-ios-navigate-s-7heresdk18VenueGeometryStyleC9mainColorSo7UIColorCvp" class="token"><code>mainColor</code></a> 
 
   </div>
 
@@ -158,7 +156,7 @@ Represents a style of the <a href="sdk-for-ios-navigate-classes-venuegeometry">`
 
 - <div>
 
-  ` `<span id="/s:7heresdk18VenueGeometryStyleC12outlineColorSo7UIColorCvp"></span>` `<span id="//apple_ref/swift/Property/outlineColor" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-venuegeometrystyle#/s:7heresdk18VenueGeometryStyleC12outlineColorSo7UIColorCvp" class="token"><code>outlineColor</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18VenueGeometryStyleC12outlineColorSo7UIColorCvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-outlineColor" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-venuegeometrystyle#sdk-for-ios-navigate-s-7heresdk18VenueGeometryStyleC12outlineColorSo7UIColorCvp" class="token"><code>outlineColor</code></a> 
 
   </div>
 
@@ -202,7 +200,7 @@ Represents a style of the <a href="sdk-for-ios-navigate-classes-venuegeometry">`
 
 - <div>
 
-  ` `<span id="/s:7heresdk18VenueGeometryStyleC12outlineWidthSfvp"></span>` `<span id="//apple_ref/swift/Property/outlineWidth" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-venuegeometrystyle#/s:7heresdk18VenueGeometryStyleC12outlineWidthSfvp" class="token"><code>outlineWidth</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18VenueGeometryStyleC12outlineWidthSfvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-outlineWidth" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-venuegeometrystyle#sdk-for-ios-navigate-s-7heresdk18VenueGeometryStyleC12outlineWidthSfvp" class="token"><code>outlineWidth</code></a> 
 
   </div>
 
@@ -246,7 +244,7 @@ Represents a style of the <a href="sdk-for-ios-navigate-classes-venuegeometry">`
 
 - <div>
 
-  ` `<span id="/s:7heresdk18VenueGeometryStyleC05labelD4NameSSSgvp"></span>` `<span id="//apple_ref/swift/Property/labelStyleName" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-venuegeometrystyle#/s:7heresdk18VenueGeometryStyleC05labelD4NameSSSgvp" class="token"><code>labelStyleName</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18VenueGeometryStyleC05labelD4NameSSSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-labelStyleName" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-venuegeometrystyle#sdk-for-ios-navigate-s-7heresdk18VenueGeometryStyleC05labelD4NameSSSgvp" class="token"><code>labelStyleName</code></a> 
 
   </div>
 

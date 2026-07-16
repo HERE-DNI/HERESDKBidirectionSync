@@ -37,7 +37,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      init(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk23TileGeoBoundsCalculatorCyAcA12TilingSchemeOcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-tilegeoboundscalculator#sdk-for-ios-navigate-s-7heresdk23TileGeoBoundsCalculatorCyAcA12TilingSchemeOcfc" class="token"><code>init(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -68,12 +68,14 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public init ( _ tilingScheme : TilingScheme )
+  public init(_ tilingScheme: TilingScheme)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-tilingscheme">TilingScheme</a>
 
   </div>
 
@@ -104,7 +106,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      boundsOf(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk23TileGeoBoundsCalculatorC8boundsOfyAA0C3BoxVAA0B3KeyVF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-boundsOf-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-tilegeoboundscalculator#sdk-for-ios-navigate-s-7heresdk23TileGeoBoundsCalculatorC8boundsOfyAA0C3BoxVAA0B3KeyVF" class="token"><code>boundsOf(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -135,12 +137,15 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func boundsOf ( _ tileKey : TileKey ) -> GeoBox
+  public func boundsOf(_ tileKey: TileKey) -> GeoBox
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-tilekey">TileKey</a>
+  - <a href="sdk-for-ios-navigate-structs-geobox">GeoBox</a>
 
   </div>
 

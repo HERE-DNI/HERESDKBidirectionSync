@@ -27,7 +27,7 @@ Represents the RDS encryption key. Fields allocation information is described in
 
 - <div>
 
-  ` `<span id="/s:7heresdk16RDSEncryptionKeyV12encryptionIds5UInt8Vvp"></span>` `<span id="//apple_ref/swift/Property/encryptionId" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-rdsencryptionkey#/s:7heresdk16RDSEncryptionKeyV12encryptionIds5UInt8Vvp" class="token"><code>encryptionId</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16RDSEncryptionKeyV12encryptionIds5UInt8Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-encryptionId" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-rdsencryptionkey#sdk-for-ios-navigate-s-7heresdk16RDSEncryptionKeyV12encryptionIds5UInt8Vvp" class="token"><code>encryptionId</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Represents the RDS encryption key. Fields allocation information is described in
 
 - <div>
 
-  ` `<span id="/s:7heresdk16RDSEncryptionKeyV11rotateRights5UInt8Vvp"></span>` `<span id="//apple_ref/swift/Property/rotateRight" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-rdsencryptionkey#/s:7heresdk16RDSEncryptionKeyV11rotateRights5UInt8Vvp" class="token"><code>rotateRight</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16RDSEncryptionKeyV11rotateRights5UInt8Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-rotateRight" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-rdsencryptionkey#sdk-for-ios-navigate-s-7heresdk16RDSEncryptionKeyV11rotateRights5UInt8Vvp" class="token"><code>rotateRight</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Represents the RDS encryption key. Fields allocation information is described in
 
 - <div>
 
-  ` `<span id="/s:7heresdk16RDSEncryptionKeyV8startBits5UInt8Vvp"></span>` `<span id="//apple_ref/swift/Property/startBit" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-rdsencryptionkey#/s:7heresdk16RDSEncryptionKeyV8startBits5UInt8Vvp" class="token"><code>startBit</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16RDSEncryptionKeyV8startBits5UInt8Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-startBit" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-rdsencryptionkey#sdk-for-ios-navigate-s-7heresdk16RDSEncryptionKeyV8startBits5UInt8Vvp" class="token"><code>startBit</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Represents the RDS encryption key. Fields allocation information is described in
 
 - <div>
 
-  ` `<span id="/s:7heresdk16RDSEncryptionKeyV8xorValues5UInt8Vvp"></span>` `<span id="//apple_ref/swift/Property/xorValue" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-rdsencryptionkey#/s:7heresdk16RDSEncryptionKeyV8xorValues5UInt8Vvp" class="token"><code>xorValue</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16RDSEncryptionKeyV8xorValues5UInt8Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-xorValue" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-rdsencryptionkey#sdk-for-ios-navigate-s-7heresdk16RDSEncryptionKeyV8xorValues5UInt8Vvp" class="token"><code>xorValue</code></a> 
 
   </div>
 
@@ -203,7 +203,7 @@ Represents the RDS encryption key. Fields allocation information is described in
 
 - <div>
 
-      init(encryptionId: rotateRight: startBit: xorValue: )
+   <span id="sdk-for-ios-navigate-s-7heresdk16RDSEncryptionKeyV12encryptionId11rotateRight8startBit8xorValueACs5UInt8V_A3Itcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-encryptionId-rotateRight-startBit-xorValue" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-rdsencryptionkey#sdk-for-ios-navigate-s-7heresdk16RDSEncryptionKeyV12encryptionId11rotateRight8startBit8xorValueACs5UInt8V_A3Itcfc" class="token"><code>init(encryptionId:</code><wbr></wbr><code>rotateRight:</code><wbr></wbr><code>startBit:</code><wbr></wbr><code>xorValue:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -234,10 +234,8 @@ Represents the RDS encryption key. Fields allocation information is described in
   Swift
 
   ``` highlight
-  public init ( encryptionId : UInt8 , rotateRight : UInt8 , startBit : UInt8 , xorValue : UInt8 )
+  public init(encryptionId: UInt8, rotateRight: UInt8, startBit: UInt8, xorValue: UInt8)
   ```
-
-  </pre>
 
   </div>
 

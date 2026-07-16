@@ -15,7 +15,7 @@ The following functions are available globally.
 
 - <div>
 
-      makeIOSPlatformThreading()
+   <span id="sdk-for-ios-explore-s-7heresdk24makeIOSPlatformThreadingAA08PlatformD0_pyF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Function-makeIOSPlatformThreading" class="dashAnchor"></span> <a href="sdk-for-ios-explore-other-functions#sdk-for-ios-explore-s-7heresdk24makeIOSPlatformThreadingAA08PlatformD0_pyF" class="token"><code>makeIOSPlatformThreading()</code></a> 
 
   </div>
 
@@ -46,12 +46,14 @@ The following functions are available globally.
   Swift
 
   ``` highlight
-  public func makeIOSPlatformThreading () -> PlatformThreading
+  public func makeIOSPlatformThreading() -> PlatformThreading
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-protocols-platformthreading">PlatformThreading</a>
 
   </div>
 
@@ -69,7 +71,7 @@ The following functions are available globally.
 
 - <div>
 
-      synchronized(_: closure: )
+   <span id="sdk-for-ios-explore-s-7heresdk12synchronized_7closurexyp_xyXEtlF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Function-synchronized-_-closure" class="dashAnchor"></span> <a href="sdk-for-ios-explore-other-functions#sdk-for-ios-explore-s-7heresdk12synchronized_7closurexyp_xyXEtlF" class="token"><code>synchronized(_:</code><wbr></wbr><code>closure:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -100,10 +102,8 @@ The following functions are available globally.
   Swift
 
   ``` highlight
-  public func synchronized < Result > ( _ lock : Any , closure : () -> Result ) -> Result
+  public func synchronized<Result>(_ lock: Any, closure: () -> Result) -> Result
   ```
-
-  </pre>
 
   </div>
 

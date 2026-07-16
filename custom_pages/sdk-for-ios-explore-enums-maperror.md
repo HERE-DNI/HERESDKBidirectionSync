@@ -27,7 +27,7 @@ Represents various errors that could occur from map related operations.
 
 - <div>
 
-  ` `<span id="/s:7heresdk8MapErrorO19operationInProgressyA2CmF"></span>` `<span id="//apple_ref/swift/Element/operationInProgress" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-maperror#/s:7heresdk8MapErrorO19operationInProgressyA2CmF" class="token"><code>operationInProgress</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk8MapErrorO19operationInProgressyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-operationInProgress" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-maperror#sdk-for-ios-explore-s-7heresdk8MapErrorO19operationInProgressyA2CmF" class="token"><code>operationInProgress</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Represents various errors that could occur from map related operations.
 
 - <div>
 
-  ` `<span id="/s:7heresdk8MapErrorO12invalidSceneyA2CmF"></span>` `<span id="//apple_ref/swift/Element/invalidScene" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-maperror#/s:7heresdk8MapErrorO12invalidSceneyA2CmF" class="token"><code>invalidScene</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk8MapErrorO12invalidSceneyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-invalidScene" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-maperror#sdk-for-ios-explore-s-7heresdk8MapErrorO12invalidSceneyA2CmF" class="token"><code>invalidScene</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Represents various errors that could occur from map related operations.
 
 - <div>
 
-  ` `<span id="/s:7heresdk8MapErrorO12invalidStateyA2CmF"></span>` `<span id="//apple_ref/swift/Element/invalidState" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-maperror#/s:7heresdk8MapErrorO12invalidStateyA2CmF" class="token"><code>invalidState</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk8MapErrorO12invalidStateyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-invalidState" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-maperror#sdk-for-ios-explore-s-7heresdk8MapErrorO12invalidStateyA2CmF" class="token"><code>invalidState</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Represents various errors that could occur from map related operations.
 
 - <div>
 
-  ` `<span id="/s:7heresdk8MapErrorO19invalidRenderTargetyA2CmF"></span>` `<span id="//apple_ref/swift/Element/invalidRenderTarget" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-maperror#/s:7heresdk8MapErrorO19invalidRenderTargetyA2CmF" class="token"><code>invalidRenderTarget</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk8MapErrorO19invalidRenderTargetyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-invalidRenderTarget" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-maperror#sdk-for-ios-explore-s-7heresdk8MapErrorO19invalidRenderTargetyA2CmF" class="token"><code>invalidRenderTarget</code></a> 
 
   </div>
 

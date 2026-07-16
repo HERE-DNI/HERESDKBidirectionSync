@@ -27,7 +27,7 @@ Specifies possible errors that may result after a map repair operation has been 
 
 - <div>
 
-  ` `<span id="/s:7heresdk24PersistentMapRepairErrorO17partiallyRestoredyA2CmF"></span>` `<span id="//apple_ref/swift/Element/partiallyRestored" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-persistentmaprepairerror#/s:7heresdk24PersistentMapRepairErrorO17partiallyRestoredyA2CmF" class="token"><code>partiallyRestored</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk24PersistentMapRepairErrorO17partiallyRestoredyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-partiallyRestored" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-persistentmaprepairerror#sdk-for-ios-navigate-s-7heresdk24PersistentMapRepairErrorO17partiallyRestoredyA2CmF" class="token"><code>partiallyRestored</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Specifies possible errors that may result after a map repair operation has been 
 
 - <div>
 
-  ` `<span id="/s:7heresdk24PersistentMapRepairErrorO11invalidPathyA2CmF"></span>` `<span id="//apple_ref/swift/Element/invalidPath" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-persistentmaprepairerror#/s:7heresdk24PersistentMapRepairErrorO11invalidPathyA2CmF" class="token"><code>invalidPath</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk24PersistentMapRepairErrorO11invalidPathyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-invalidPath" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-persistentmaprepairerror#sdk-for-ios-navigate-s-7heresdk24PersistentMapRepairErrorO11invalidPathyA2CmF" class="token"><code>invalidPath</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Specifies possible errors that may result after a map repair operation has been 
 
 - <div>
 
-  ` `<span id="/s:7heresdk24PersistentMapRepairErrorO8brokenDbyA2CmF"></span>` `<span id="//apple_ref/swift/Element/brokenDb" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-persistentmaprepairerror#/s:7heresdk24PersistentMapRepairErrorO8brokenDbyA2CmF" class="token"><code>brokenDb</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk24PersistentMapRepairErrorO8brokenDbyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-brokenDb" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-persistentmaprepairerror#sdk-for-ios-navigate-s-7heresdk24PersistentMapRepairErrorO8brokenDbyA2CmF" class="token"><code>brokenDb</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Specifies possible errors that may result after a map repair operation has been 
 
 - <div>
 
-  ` `<span id="/s:7heresdk24PersistentMapRepairErrorO16noOfflineVersionyA2CmF"></span>` `<span id="//apple_ref/swift/Element/noOfflineVersion" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-persistentmaprepairerror#/s:7heresdk24PersistentMapRepairErrorO16noOfflineVersionyA2CmF" class="token"><code>noOfflineVersion</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk24PersistentMapRepairErrorO16noOfflineVersionyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-noOfflineVersion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-persistentmaprepairerror#sdk-for-ios-navigate-s-7heresdk24PersistentMapRepairErrorO16noOfflineVersionyA2CmF" class="token"><code>noOfflineVersion</code></a> 
 
   </div>
 
@@ -203,7 +203,7 @@ Specifies possible errors that may result after a map repair operation has been 
 
 - <div>
 
-  ` `<span id="/s:7heresdk24PersistentMapRepairErrorO9noJournalyA2CmF"></span>` `<span id="//apple_ref/swift/Element/noJournal" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-persistentmaprepairerror#/s:7heresdk24PersistentMapRepairErrorO9noJournalyA2CmF" class="token"><code>noJournal</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk24PersistentMapRepairErrorO9noJournalyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-noJournal" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-persistentmaprepairerror#sdk-for-ios-navigate-s-7heresdk24PersistentMapRepairErrorO9noJournalyA2CmF" class="token"><code>noJournal</code></a> 
 
   </div>
 
@@ -247,7 +247,7 @@ Specifies possible errors that may result after a map repair operation has been 
 
 - <div>
 
-  ` `<span id="/s:7heresdk24PersistentMapRepairErrorO12brokenUpdateyA2CmF"></span>` `<span id="//apple_ref/swift/Element/brokenUpdate" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-persistentmaprepairerror#/s:7heresdk24PersistentMapRepairErrorO12brokenUpdateyA2CmF" class="token"><code>brokenUpdate</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk24PersistentMapRepairErrorO12brokenUpdateyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-brokenUpdate" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-persistentmaprepairerror#sdk-for-ios-navigate-s-7heresdk24PersistentMapRepairErrorO12brokenUpdateyA2CmF" class="token"><code>brokenUpdate</code></a> 
 
   </div>
 
@@ -291,7 +291,7 @@ Specifies possible errors that may result after a map repair operation has been 
 
 - <div>
 
-  ` `<span id="/s:7heresdk24PersistentMapRepairErrorO21operationAfterDisposeyA2CmF"></span>` `<span id="//apple_ref/swift/Element/operationAfterDispose" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-persistentmaprepairerror#/s:7heresdk24PersistentMapRepairErrorO21operationAfterDisposeyA2CmF" class="token"><code>operationAfterDispose</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk24PersistentMapRepairErrorO21operationAfterDisposeyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-operationAfterDispose" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-persistentmaprepairerror#sdk-for-ios-navigate-s-7heresdk24PersistentMapRepairErrorO21operationAfterDisposeyA2CmF" class="token"><code>operationAfterDispose</code></a> 
 
   </div>
 
@@ -335,7 +335,7 @@ Specifies possible errors that may result after a map repair operation has been 
 
 - <div>
 
-  ` `<span id="/s:7heresdk24PersistentMapRepairErrorO7unknownyA2CmF"></span>` `<span id="//apple_ref/swift/Element/unknown" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-persistentmaprepairerror#/s:7heresdk24PersistentMapRepairErrorO7unknownyA2CmF" class="token"><code>unknown</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk24PersistentMapRepairErrorO7unknownyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-unknown" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-persistentmaprepairerror#sdk-for-ios-navigate-s-7heresdk24PersistentMapRepairErrorO7unknownyA2CmF" class="token"><code>unknown</code></a> 
 
   </div>
 

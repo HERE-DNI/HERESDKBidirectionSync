@@ -27,7 +27,7 @@ Impact of a traffic incident.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21TrafficIncidentImpactO8criticalyA2CmF"></span>` `<span id="//apple_ref/swift/Element/critical" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-trafficincidentimpact#/s:7heresdk21TrafficIncidentImpactO8criticalyA2CmF" class="token"><code>critical</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk21TrafficIncidentImpactO8criticalyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-critical" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-trafficincidentimpact#sdk-for-ios-explore-s-7heresdk21TrafficIncidentImpactO8criticalyA2CmF" class="token"><code>critical</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Impact of a traffic incident.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21TrafficIncidentImpactO5majoryA2CmF"></span>` `<span id="//apple_ref/swift/Element/major" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-trafficincidentimpact#/s:7heresdk21TrafficIncidentImpactO5majoryA2CmF" class="token"><code>major</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk21TrafficIncidentImpactO5majoryA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-major" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-trafficincidentimpact#sdk-for-ios-explore-s-7heresdk21TrafficIncidentImpactO5majoryA2CmF" class="token"><code>major</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Impact of a traffic incident.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21TrafficIncidentImpactO5minoryA2CmF"></span>` `<span id="//apple_ref/swift/Element/minor" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-trafficincidentimpact#/s:7heresdk21TrafficIncidentImpactO5minoryA2CmF" class="token"><code>minor</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk21TrafficIncidentImpactO5minoryA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-minor" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-trafficincidentimpact#sdk-for-ios-explore-s-7heresdk21TrafficIncidentImpactO5minoryA2CmF" class="token"><code>minor</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Impact of a traffic incident.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21TrafficIncidentImpactO3lowyA2CmF"></span>` `<span id="//apple_ref/swift/Element/low" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-trafficincidentimpact#/s:7heresdk21TrafficIncidentImpactO3lowyA2CmF" class="token"><code>low</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk21TrafficIncidentImpactO3lowyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-low" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-trafficincidentimpact#sdk-for-ios-explore-s-7heresdk21TrafficIncidentImpactO3lowyA2CmF" class="token"><code>low</code></a> 
 
   </div>
 
@@ -203,7 +203,7 @@ Impact of a traffic incident.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21TrafficIncidentImpactO7unknownyA2CmF"></span>` `<span id="//apple_ref/swift/Element/unknown" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-trafficincidentimpact#/s:7heresdk21TrafficIncidentImpactO7unknownyA2CmF" class="token"><code>unknown</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk21TrafficIncidentImpactO7unknownyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-unknown" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-trafficincidentimpact#sdk-for-ios-explore-s-7heresdk21TrafficIncidentImpactO7unknownyA2CmF" class="token"><code>unknown</code></a> 
 
   </div>
 

@@ -27,7 +27,7 @@ This protocol should be implemented in order to receive notifications when text 
 
 - <div>
 
-      onEventTextUpdated(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk17EventTextDelegateP02onbC7UpdatedyyAA0bC0VF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-onEventTextUpdated-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-protocols-eventtextdelegate#sdk-for-ios-navigate-s-7heresdk17EventTextDelegateP02onbC7UpdatedyyAA0bC0VF" class="token"><code>onEventTextUpdated(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -58,12 +58,14 @@ This protocol should be implemented in order to receive notifications when text 
   Swift
 
   ``` highlight
-  func onEventTextUpdated ( _ eventText : EventText )
+  func onEventTextUpdated(_ eventText: EventText)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-eventtext">EventText</a>
 
   </div>
 

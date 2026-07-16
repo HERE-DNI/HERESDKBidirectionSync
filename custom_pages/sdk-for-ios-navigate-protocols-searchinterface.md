@@ -27,7 +27,7 @@ Provides the protocol for the online and offline search engines.
 
 - <div>
 
-      searchByText(_: options: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk15SearchInterfaceP12searchByText_7options10completionAA10TaskHandle_pAA0F5QueryV_AA0B7OptionsVyAA0B5ErrorOSg_SayAA5PlaceCGSgtctF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-searchByText-_-options-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-protocols-searchinterface#sdk-for-ios-navigate-s-7heresdk15SearchInterfaceP12searchByText_7options10completionAA10TaskHandle_pAA0F5QueryV_AA0B7OptionsVyAA0B5ErrorOSg_SayAA5PlaceCGSgtctF" class="token"><code>searchByText(_:</code><wbr></wbr><code>options:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -58,12 +58,18 @@ Provides the protocol for the online and offline search engines.
   Swift
 
   ``` highlight
-  @discardableResult func searchByText ( _ query : TextQuery , options : SearchOptions , completion : @escaping SearchCompletionHandler ) -> TaskHandle
+  @discardableResult
+  func searchByText(_ query: TextQuery, options: SearchOptions, completion: @escaping SearchCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-textquery">TextQuery</a>
+  - <a href="sdk-for-ios-navigate-structs-searchoptions">SearchOptions</a>
+  - <a href="sdk-for-ios-navigate-search#sdk-for-ios-navigate-s-7heresdk23SearchCompletionHandlera">SearchCompletionHandler</a>
+  - <a href="sdk-for-ios-navigate-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -114,7 +120,7 @@ Provides the protocol for the online and offline search engines.
 
 - <div>
 
-      searchByAddress(_: options: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk15SearchInterfaceP15searchByAddress_7options10completionAA10TaskHandle_pAA0F5QueryV_AA0B7OptionsVyAA0B5ErrorOSg_SayAA5PlaceCGSgtctF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-searchByAddress-_-options-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-protocols-searchinterface#sdk-for-ios-navigate-s-7heresdk15SearchInterfaceP15searchByAddress_7options10completionAA10TaskHandle_pAA0F5QueryV_AA0B7OptionsVyAA0B5ErrorOSg_SayAA5PlaceCGSgtctF" class="token"><code>searchByAddress(_:</code><wbr></wbr><code>options:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -145,12 +151,18 @@ Provides the protocol for the online and offline search engines.
   Swift
 
   ``` highlight
-  @discardableResult func searchByAddress ( _ query : AddressQuery , options : SearchOptions , completion : @escaping SearchCompletionHandler ) -> TaskHandle
+  @discardableResult
+  func searchByAddress(_ query: AddressQuery, options: SearchOptions, completion: @escaping SearchCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-addressquery">AddressQuery</a>
+  - <a href="sdk-for-ios-navigate-structs-searchoptions">SearchOptions</a>
+  - <a href="sdk-for-ios-navigate-search#sdk-for-ios-navigate-s-7heresdk23SearchCompletionHandlera">SearchCompletionHandler</a>
+  - <a href="sdk-for-ios-navigate-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -201,7 +213,7 @@ Provides the protocol for the online and offline search engines.
 
 - <div>
 
-      searchByCategory(_: options: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk15SearchInterfaceP16searchByCategory_7options10completionAA10TaskHandle_pAA0F5QueryV_AA0B7OptionsVyAA0B5ErrorOSg_SayAA5PlaceCGSgtctF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-searchByCategory-_-options-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-protocols-searchinterface#sdk-for-ios-navigate-s-7heresdk15SearchInterfaceP16searchByCategory_7options10completionAA10TaskHandle_pAA0F5QueryV_AA0B7OptionsVyAA0B5ErrorOSg_SayAA5PlaceCGSgtctF" class="token"><code>searchByCategory(_:</code><wbr></wbr><code>options:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -237,12 +249,18 @@ Provides the protocol for the online and offline search engines.
   Swift
 
   ``` highlight
-  @discardableResult func searchByCategory ( _ query : CategoryQuery , options : SearchOptions , completion : @escaping SearchCompletionHandler ) -> TaskHandle
+  @discardableResult
+  func searchByCategory(_ query: CategoryQuery, options: SearchOptions, completion: @escaping SearchCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-categoryquery">CategoryQuery</a>
+  - <a href="sdk-for-ios-navigate-structs-searchoptions">SearchOptions</a>
+  - <a href="sdk-for-ios-navigate-search#sdk-for-ios-navigate-s-7heresdk23SearchCompletionHandlera">SearchCompletionHandler</a>
+  - <a href="sdk-for-ios-navigate-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -293,7 +311,7 @@ Provides the protocol for the online and offline search engines.
 
 - <div>
 
-      searchByCoordinates(_: options: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk15SearchInterfaceP19searchByCoordinates_7options10completionAA10TaskHandle_pAA03GeoF0V_AA0B7OptionsVyAA0B5ErrorOSg_SayAA5PlaceCGSgtctF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-searchByCoordinates-_-options-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-protocols-searchinterface#sdk-for-ios-navigate-s-7heresdk15SearchInterfaceP19searchByCoordinates_7options10completionAA10TaskHandle_pAA03GeoF0V_AA0B7OptionsVyAA0B5ErrorOSg_SayAA5PlaceCGSgtctF" class="token"><code>searchByCoordinates(_:</code><wbr></wbr><code>options:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -324,12 +342,18 @@ Provides the protocol for the online and offline search engines.
   Swift
 
   ``` highlight
-  @discardableResult func searchByCoordinates ( _ coordinates : GeoCoordinates , options : SearchOptions , completion : @escaping SearchCompletionHandler ) -> TaskHandle
+  @discardableResult
+  func searchByCoordinates(_ coordinates: GeoCoordinates, options: SearchOptions, completion: @escaping SearchCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-geocoordinates">GeoCoordinates</a>
+  - <a href="sdk-for-ios-navigate-structs-searchoptions">SearchOptions</a>
+  - <a href="sdk-for-ios-navigate-search#sdk-for-ios-navigate-s-7heresdk23SearchCompletionHandlera">SearchCompletionHandler</a>
+  - <a href="sdk-for-ios-navigate-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -380,7 +404,7 @@ Provides the protocol for the online and offline search engines.
 
 - <div>
 
-      searchByPlaceId(_: languageCode: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk15SearchInterfaceP15searchByPlaceId_12languageCode10completionAA10TaskHandle_pAA0fG5QueryV_AA08LanguageI0OSgyAA0B5ErrorOSg_AA0F0CSgtctF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-searchByPlaceId-_-languageCode-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-protocols-searchinterface#sdk-for-ios-navigate-s-7heresdk15SearchInterfaceP15searchByPlaceId_12languageCode10completionAA10TaskHandle_pAA0fG5QueryV_AA08LanguageI0OSgyAA0B5ErrorOSg_AA0F0CSgtctF" class="token"><code>searchByPlaceId(_:</code><wbr></wbr><code>languageCode:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -411,12 +435,18 @@ Provides the protocol for the online and offline search engines.
   Swift
 
   ``` highlight
-  @discardableResult func searchByPlaceId ( _ query : PlaceIdQuery , languageCode : LanguageCode ?, completion : @escaping PlaceIdSearchCompletionHandler ) -> TaskHandle
+  @discardableResult
+  func searchByPlaceId(_ query: PlaceIdQuery, languageCode: LanguageCode?, completion: @escaping PlaceIdSearchCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-placeidquery">PlaceIdQuery</a>
+  - <a href="sdk-for-ios-navigate-enums-languagecode">LanguageCode</a>
+  - <a href="sdk-for-ios-navigate-search#sdk-for-ios-navigate-s-7heresdk30PlaceIdSearchCompletionHandlera">PlaceIdSearchCompletionHandler</a>
+  - <a href="sdk-for-ios-navigate-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -467,7 +497,7 @@ Provides the protocol for the online and offline search engines.
 
 - <div>
 
-      searchByPickedPlace(_: languageCode: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk15SearchInterfaceP19searchByPickedPlace_12languageCode10completionAA10TaskHandle_pAA0fG0V_AA08LanguageI0OSgyAA0B5ErrorOSg_AA0G0CSgtctF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-searchByPickedPlace-_-languageCode-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-protocols-searchinterface#sdk-for-ios-navigate-s-7heresdk15SearchInterfaceP19searchByPickedPlace_12languageCode10completionAA10TaskHandle_pAA0fG0V_AA08LanguageI0OSgyAA0B5ErrorOSg_AA0G0CSgtctF" class="token"><code>searchByPickedPlace(_:</code><wbr></wbr><code>languageCode:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -485,7 +515,7 @@ Provides the protocol for the online and offline search engines.
 
   <div class="abstract">
 
-  Performs an asynchronous search for a <a href="sdk-for-ios-navigate-classes-place">`Place`</a> based on the content found in <a href="sdk-for-ios-navigate-structs-pickedplace">`PickedPlace`</a>. If <a href="sdk-for-ios-navigate-structs-pickedplace">`PickedPlace`</a> data is obtained from the offline map, it may happen that the newer version that is used by the online service represented by <a href="sdk-for-ios-navigate-classes-searchengine">`SearchEngine`</a> no longer contains the related POI. In that case, <a href="sdk-for-ios-navigate-enums-searcherror#/s:7heresdk11SearchErrorO14noResultsFoundyA2CmF">`SearchError.noResultsFound`</a> error is reported. When that happens, you may try to obtain the POI from the offline map by calling `OfflineSearchEngine.searchByPickedPlace`, only available for the Navigate license.
+  Performs an asynchronous search for a <a href="sdk-for-ios-navigate-classes-place">`Place`</a> based on the content found in <a href="sdk-for-ios-navigate-structs-pickedplace">`PickedPlace`</a>. If <a href="sdk-for-ios-navigate-structs-pickedplace">`PickedPlace`</a> data is obtained from the offline map, it may happen that the newer version that is used by the online service represented by <a href="sdk-for-ios-navigate-classes-searchengine">`SearchEngine`</a> no longer contains the related POI. In that case, <a href="sdk-for-ios-navigate-enums-searcherror#sdk-for-ios-navigate-s-7heresdk11SearchErrorO14noResultsFoundyA2CmF">`SearchError.noResultsFound`</a> error is reported. When that happens, you may try to obtain the POI from the offline map by calling `OfflineSearchEngine.searchByPickedPlace`, only available for the Navigate license.
 
   </div>
 
@@ -498,12 +528,18 @@ Provides the protocol for the online and offline search engines.
   Swift
 
   ``` highlight
-  @discardableResult func searchByPickedPlace ( _ pickedPlace : PickedPlace , languageCode : LanguageCode ?, completion : @escaping PlaceIdSearchCompletionHandler ) -> TaskHandle
+  @discardableResult
+  func searchByPickedPlace(_ pickedPlace: PickedPlace, languageCode: LanguageCode?, completion: @escaping PlaceIdSearchCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-pickedplace">PickedPlace</a>
+  - <a href="sdk-for-ios-navigate-enums-languagecode">LanguageCode</a>
+  - <a href="sdk-for-ios-navigate-search#sdk-for-ios-navigate-s-7heresdk30PlaceIdSearchCompletionHandlera">PlaceIdSearchCompletionHandler</a>
+  - <a href="sdk-for-ios-navigate-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -554,7 +590,7 @@ Provides the protocol for the online and offline search engines.
 
 - <div>
 
-      suggestByText(_: options: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk15SearchInterfaceP13suggestByText_7options10completionAA10TaskHandle_pAA0F5QueryV_AA0B7OptionsVyAA0B5ErrorOSg_SayAA10SuggestionCGSgtctF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-suggestByText-_-options-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-protocols-searchinterface#sdk-for-ios-navigate-s-7heresdk15SearchInterfaceP13suggestByText_7options10completionAA10TaskHandle_pAA0F5QueryV_AA0B7OptionsVyAA0B5ErrorOSg_SayAA10SuggestionCGSgtctF" class="token"><code>suggestByText(_:</code><wbr></wbr><code>options:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -587,12 +623,18 @@ Provides the protocol for the online and offline search engines.
   Swift
 
   ``` highlight
-  @discardableResult func suggestByText ( _ query : TextQuery , options : SearchOptions , completion : @escaping SuggestCompletionHandler ) -> TaskHandle
+  @discardableResult
+  func suggestByText(_ query: TextQuery, options: SearchOptions, completion: @escaping SuggestCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-textquery">TextQuery</a>
+  - <a href="sdk-for-ios-navigate-structs-searchoptions">SearchOptions</a>
+  - <a href="sdk-for-ios-navigate-search#sdk-for-ios-navigate-s-7heresdk24SuggestCompletionHandlera">SuggestCompletionHandler</a>
+  - <a href="sdk-for-ios-navigate-protocols-taskhandle">TaskHandle</a>
 
   </div>
 

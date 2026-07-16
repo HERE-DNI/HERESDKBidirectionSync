@@ -31,7 +31,7 @@ Road Usages of the segment.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10RoadUsagesV6isRampSbvp"></span>` `<span id="//apple_ref/swift/Property/isRamp" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-roadusages#/s:7heresdk10RoadUsagesV6isRampSbvp" class="token"><code>isRamp</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10RoadUsagesV6isRampSbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-isRamp" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-roadusages#sdk-for-ios-navigate-s-7heresdk10RoadUsagesV6isRampSbvp" class="token"><code>isRamp</code></a> 
 
   </div>
 
@@ -75,7 +75,7 @@ Road Usages of the segment.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10RoadUsagesV18isControlledAccessSbvp"></span>` `<span id="//apple_ref/swift/Property/isControlledAccess" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-roadusages#/s:7heresdk10RoadUsagesV18isControlledAccessSbvp" class="token"><code>isControlledAccess</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10RoadUsagesV18isControlledAccessSbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-isControlledAccess" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-roadusages#sdk-for-ios-navigate-s-7heresdk10RoadUsagesV18isControlledAccessSbvp" class="token"><code>isControlledAccess</code></a> 
 
   </div>
 
@@ -119,7 +119,7 @@ Road Usages of the segment.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10RoadUsagesV9isTollwaySbvp"></span>` `<span id="//apple_ref/swift/Property/isTollway" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-roadusages#/s:7heresdk10RoadUsagesV9isTollwaySbvp" class="token"><code>isTollway</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10RoadUsagesV9isTollwaySbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-isTollway" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-roadusages#sdk-for-ios-navigate-s-7heresdk10RoadUsagesV9isTollwaySbvp" class="token"><code>isTollway</code></a> 
 
   </div>
 
@@ -163,7 +163,7 @@ Road Usages of the segment.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10RoadUsagesV010isPriorityB0Sbvp"></span>` `<span id="//apple_ref/swift/Property/isPriorityRoad" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-roadusages#/s:7heresdk10RoadUsagesV010isPriorityB0Sbvp" class="token"><code>isPriorityRoad</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10RoadUsagesV010isPriorityB0Sbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-isPriorityRoad" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-roadusages#sdk-for-ios-navigate-s-7heresdk10RoadUsagesV010isPriorityB0Sbvp" class="token"><code>isPriorityRoad</code></a> 
 
   </div>
 
@@ -207,7 +207,7 @@ Road Usages of the segment.
 
 - <div>
 
-      init(isRamp: isControlledAccess: isTollway: isPriorityRoad: )
+   <span id="sdk-for-ios-navigate-s-7heresdk10RoadUsagesV6isRamp0D16ControlledAccess0D7Tollway0d8PriorityB0ACSb_S3btcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-isRamp-isControlledAccess-isTollway-isPriorityRoad" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-roadusages#sdk-for-ios-navigate-s-7heresdk10RoadUsagesV6isRamp0D16ControlledAccess0D7Tollway0d8PriorityB0ACSb_S3btcfc" class="token"><code>init(isRamp:</code><wbr></wbr><code>isControlledAccess:</code><wbr></wbr><code>isTollway:</code><wbr></wbr><code>isPriorityRoad:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -238,10 +238,8 @@ Road Usages of the segment.
   Swift
 
   ``` highlight
-  public init ( isRamp : Bool = false , isControlledAccess : Bool = false , isTollway : Bool = false , isPriorityRoad : Bool = false )
+  public init(isRamp: Bool = false, isControlledAccess: Bool = false, isTollway: Bool = false, isPriorityRoad: Bool = false)
   ```
-
-  </pre>
 
   </div>
 

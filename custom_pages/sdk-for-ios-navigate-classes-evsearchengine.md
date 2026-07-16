@@ -23,6 +23,10 @@ extension EVSearchEngine: Hashable
 
 </div>
 
+Related types:
+
+- <a href="sdk-for-ios-navigate-protocols-evsearchinterface">EVSearchInterface</a>
+
 </div>
 
 The `EVSearchEngine` API provides detailed information about charging locations. It requires an online connection to execute the requests. A licence is required to use this API. Details can be found in <a href="https://www.here.com/docs/bundle/ev-charge-points-api-v3-developer-guide/page/topics/quick-start-platform.html">HERE EV Charge Points API v3 - Developer Guide</a>.
@@ -37,7 +41,7 @@ The `EVSearchEngine` API provides detailed information about charging locations.
 
 - <div>
 
-      init()
+   <span id="sdk-for-ios-navigate-s-7heresdk14EVSearchEngineCACyKcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-evsearchengine#sdk-for-ios-navigate-s-7heresdk14EVSearchEngineCACyKcfc" class="token"><code>init()</code></a> 
 
   </div>
 
@@ -61,7 +65,7 @@ The `EVSearchEngine` API provides detailed information about charging locations.
 
   Throws
 
-  <a href="sdk-for-ios-navigate-core#/s:7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
+  <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
 
   </div>
 
@@ -76,10 +80,8 @@ The `EVSearchEngine` API provides detailed information about charging locations.
   Swift
 
   ``` highlight
-  public init () throws
+  public init() throws
   ```
-
-  </pre>
 
   </div>
 
@@ -91,7 +93,7 @@ The `EVSearchEngine` API provides detailed information about charging locations.
 
 - <div>
 
-      init(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk14EVSearchEngineCyAcA09SDKNativeC0CKcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-evsearchengine#sdk-for-ios-navigate-s-7heresdk14EVSearchEngineCyAcA09SDKNativeC0CKcfc" class="token"><code>init(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -115,7 +117,7 @@ The `EVSearchEngine` API provides detailed information about charging locations.
 
   Throws
 
-  <a href="sdk-for-ios-navigate-core#/s:7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
+  <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
 
   </div>
 
@@ -130,12 +132,14 @@ The `EVSearchEngine` API provides detailed information about charging locations.
   Swift
 
   ``` highlight
-  public init ( _ sdkEngine : SDKNativeEngine ) throws
+  public init(_ sdkEngine: SDKNativeEngine) throws
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-sdknativeengine">SDKNativeEngine</a>
 
   </div>
 
@@ -166,7 +170,7 @@ The `EVSearchEngine` API provides detailed information about charging locations.
 
 - <div>
 
-      search(ids: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk14EVSearchEngineC6search3ids10completionAA10TaskHandle_pSaySSG_yAA0B5ErrorOSg_SayAA18EVChargingLocationCGSgtctF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-search-ids-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-evsearchengine#sdk-for-ios-navigate-s-7heresdk14EVSearchEngineC6search3ids10completionAA10TaskHandle_pSaySSG_yAA0B5ErrorOSg_SayAA18EVChargingLocationCGSgtctF" class="token"><code>search(ids:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -197,12 +201,16 @@ The `EVSearchEngine` API provides detailed information about charging locations.
   Swift
 
   ``` highlight
-  @discardableResult public func search ( ids : [ String ], completion : @escaping EVCP3SearchCompletionHandler ) -> TaskHandle
+  @discardableResult
+  public func search(ids: [String], completion: @escaping EVCP3SearchCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-search#sdk-for-ios-navigate-s-7heresdk28EVCP3SearchCompletionHandlera">EVCP3SearchCompletionHandler</a>
+  - <a href="sdk-for-ios-navigate-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -247,7 +255,7 @@ The `EVSearchEngine` API provides detailed information about charging locations.
 
 - <div>
 
-      setOptions(options: )
+   <span id="sdk-for-ios-navigate-s-7heresdk14EVSearchEngineC10setOptions7optionsyAA0bE0V_tF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-setOptions-options" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-evsearchengine#sdk-for-ios-navigate-s-7heresdk14EVSearchEngineC10setOptions7optionsyAA0bE0V_tF" class="token"><code>setOptions(options:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -278,12 +286,14 @@ The `EVSearchEngine` API provides detailed information about charging locations.
   Swift
 
   ``` highlight
-  public func setOptions ( options : EVSearchOptions )
+  public func setOptions(options: EVSearchOptions)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-evsearchoptions">EVSearchOptions</a>
 
   </div>
 

@@ -27,7 +27,7 @@ This protocol should be implemented in order to receive textual attributes of th
 
 - <div>
 
-      onRoadTextsUpdated(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk17RoadTextsDelegateP02onbC7UpdatedyyAA0bC0VF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-onRoadTextsUpdated-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-protocols-roadtextsdelegate#sdk-for-ios-navigate-s-7heresdk17RoadTextsDelegateP02onbC7UpdatedyyAA0bC0VF" class="token"><code>onRoadTextsUpdated(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -58,12 +58,14 @@ This protocol should be implemented in order to receive textual attributes of th
   Swift
 
   ``` highlight
-  func onRoadTextsUpdated ( _ roadTexts : RoadTexts )
+  func onRoadTextsUpdated(_ roadTexts: RoadTexts)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-roadtexts">RoadTexts</a>
 
   </div>
 

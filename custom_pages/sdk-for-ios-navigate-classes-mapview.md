@@ -10,12 +10,17 @@ slug: "sdk-for-ios-navigate-classes-mapview"
 <div class="language">
 
 ``` highlight
-@IBDesignable @objc(HereMapView) @MainActor open class MapView : UIView , MapViewBase
+@IBDesignable
+@objc(HereMapView)
+@MainActor
+open class MapView : UIView, MapViewBase
 ```
 
-</pre>
-
 </div>
+
+Related types:
+
+- <a href="sdk-for-ios-navigate-protocols-mapviewbase">MapViewBase</a>
 
 </div>
 
@@ -29,7 +34,7 @@ A view that displays a map. Note: Before using this class, <a href="sdk-for-ios-
 
 - <div>
 
-  ` `<span id="/s:7heresdk7MapViewC22TakeScreenshotCallbacka"></span>` `<span id="//apple_ref/swift/Alias/TakeScreenshotCallback" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapview#/s:7heresdk7MapViewC22TakeScreenshotCallbacka" class="token"><code>TakeScreenshotCallback</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk7MapViewC22TakeScreenshotCallbacka"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Alias-TakeScreenshotCallback" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapview#sdk-for-ios-navigate-s-7heresdk7MapViewC22TakeScreenshotCallbacka" class="token"><code>TakeScreenshotCallback</code></a> 
 
   </div>
 
@@ -68,10 +73,8 @@ A view that displays a map. Note: Before using this class, <a href="sdk-for-ios-
   Swift
 
   ``` highlight
-  public typealias TakeScreenshotCallback = ( UIImage ?) -> Void
+  public typealias TakeScreenshotCallback = (UIImage?) -> Void
   ```
-
-  </pre>
 
   </div>
 
@@ -83,7 +86,7 @@ A view that displays a map. Note: Before using this class, <a href="sdk-for-ios-
 
 - <div>
 
-  ` `<span id="/s:7heresdk7MapViewC0C3PinC"></span>` `<span id="//apple_ref/swift/Class/ViewPin" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapview#/s:7heresdk7MapViewC0C3PinC" class="token"><code>ViewPin</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk7MapViewC0C3PinC"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Class-ViewPin" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapview#sdk-for-ios-navigate-s-7heresdk7MapViewC0C3PinC" class="token"><code>ViewPin</code></a> 
 
   </div>
 
@@ -131,7 +134,7 @@ A view that displays a map. Note: Before using this class, <a href="sdk-for-ios-
 
 - <div>
 
-  ` `<span id="/s:7heresdk7MapViewC6cameraAA0B6CameraCvp"></span>` `<span id="//apple_ref/swift/Property/camera" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapview#/s:7heresdk7MapViewC6cameraAA0B6CameraCvp" class="token"><code>camera</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk7MapViewC6cameraAA0B6CameraCvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-camera" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapview#sdk-for-ios-navigate-s-7heresdk7MapViewC6cameraAA0B6CameraCvp" class="token"><code>camera</code></a> 
 
   </div>
 
@@ -168,6 +171,10 @@ A view that displays a map. Note: Before using this class, <a href="sdk-for-ios-
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mapcamera">MapCamera</a>
+
   </div>
 
   </div>
@@ -176,7 +183,7 @@ A view that displays a map. Note: Before using this class, <a href="sdk-for-ios-
 
 - <div>
 
-  ` `<span id="/s:7heresdk7MapViewC8gesturesAA8GesturesCvp"></span>` `<span id="//apple_ref/swift/Property/gestures" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapview#/s:7heresdk7MapViewC8gesturesAA8GesturesCvp" class="token"><code>gestures</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk7MapViewC8gesturesAA8GesturesCvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-gestures" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapview#sdk-for-ios-navigate-s-7heresdk7MapViewC8gesturesAA8GesturesCvp" class="token"><code>gestures</code></a> 
 
   </div>
 
@@ -213,6 +220,10 @@ A view that displays a map. Note: Before using this class, <a href="sdk-for-ios-
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-gestures">Gestures</a>
+
   </div>
 
   </div>
@@ -221,7 +232,7 @@ A view that displays a map. Note: Before using this class, <a href="sdk-for-ios-
 
 - <div>
 
-  ` `<span id="/s:7heresdk11MapViewBaseP8mapSceneAA0bF0Cvp"></span>` `<span id="//apple_ref/swift/Property/mapScene" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapview#/s:7heresdk11MapViewBaseP8mapSceneAA0bF0Cvp" class="token"><code>mapScene</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11MapViewBaseP8mapSceneAA0bF0Cvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-mapScene" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapview#sdk-for-ios-navigate-s-7heresdk11MapViewBaseP8mapSceneAA0bF0Cvp" class="token"><code>mapScene</code></a> 
 
   </div>
 
@@ -256,6 +267,10 @@ A view that displays a map. Note: Before using this class, <a href="sdk-for-ios-
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mapscene">MapScene</a>
+
   </div>
 
   </div>
@@ -264,7 +279,7 @@ A view that displays a map. Note: Before using this class, <a href="sdk-for-ios-
 
 - <div>
 
-  ` `<span id="/s:7heresdk11MapViewBaseP10mapContextAA0bF0Cvp"></span>` `<span id="//apple_ref/swift/Property/mapContext" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapview#/s:7heresdk11MapViewBaseP10mapContextAA0bF0Cvp" class="token"><code>mapContext</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11MapViewBaseP10mapContextAA0bF0Cvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-mapContext" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapview#sdk-for-ios-navigate-s-7heresdk11MapViewBaseP10mapContextAA0bF0Cvp" class="token"><code>mapContext</code></a> 
 
   </div>
 
@@ -299,6 +314,10 @@ A view that displays a map. Note: Before using this class, <a href="sdk-for-ios-
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mapcontext">MapContext</a>
+
   </div>
 
   </div>
@@ -307,7 +326,7 @@ A view that displays a map. Note: Before using this class, <a href="sdk-for-ios-
 
 - <div>
 
-  ` `<span id="/s:7heresdk11MapViewBaseP04hereB0AA04HereB0Cvp"></span>` `<span id="//apple_ref/swift/Property/hereMap" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapview#/s:7heresdk11MapViewBaseP04hereB0AA04HereB0Cvp" class="token"><code>hereMap</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11MapViewBaseP04hereB0AA04HereB0Cvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-hereMap" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapview#sdk-for-ios-navigate-s-7heresdk11MapViewBaseP04hereB0AA04HereB0Cvp" class="token"><code>hereMap</code></a> 
 
   </div>
 
@@ -342,6 +361,10 @@ A view that displays a map. Note: Before using this class, <a href="sdk-for-ios-
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-heremap">HereMap</a>
+
   </div>
 
   </div>
@@ -350,7 +373,7 @@ A view that displays a map. Note: Before using this class, <a href="sdk-for-ios-
 
 - <div>
 
-  ` `<span id="/s:7heresdk7MapViewC9frameRates5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/frameRate" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapview#/s:7heresdk7MapViewC9frameRates5Int32Vvp" class="token"><code>frameRate</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk7MapViewC9frameRates5Int32Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-frameRate" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapview#sdk-for-ios-navigate-s-7heresdk7MapViewC9frameRates5Int32Vvp" class="token"><code>frameRate</code></a> 
 
   </div>
 
@@ -395,7 +418,7 @@ A view that displays a map. Note: Before using this class, <a href="sdk-for-ios-
 
 - <div>
 
-  ` `<span id="/s:7heresdk7MapViewC12viewportSizeAA6Size2DVvp"></span>` `<span id="//apple_ref/swift/Property/viewportSize" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapview#/s:7heresdk7MapViewC12viewportSizeAA6Size2DVvp" class="token"><code>viewportSize</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk7MapViewC12viewportSizeAA6Size2DVvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-viewportSize" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapview#sdk-for-ios-navigate-s-7heresdk7MapViewC12viewportSizeAA6Size2DVvp" class="token"><code>viewportSize</code></a> 
 
   </div>
 
@@ -432,6 +455,10 @@ A view that displays a map. Note: Before using this class, <a href="sdk-for-ios-
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-size2d">Size2D</a>
+
   </div>
 
   </div>
@@ -440,7 +467,7 @@ A view that displays a map. Note: Before using this class, <a href="sdk-for-ios-
 
 - <div>
 
-  ` `<span id="/s:7heresdk7MapViewC15primaryLanguageAA0E4CodeOSgvpZ"></span>` `<span id="//apple_ref/swift/Variable/primaryLanguage" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapview#/s:7heresdk7MapViewC15primaryLanguageAA0E4CodeOSgvpZ" class="token"><code>primaryLanguage</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk7MapViewC15primaryLanguageAA0E4CodeOSgvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-primaryLanguage" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapview#sdk-for-ios-navigate-s-7heresdk7MapViewC15primaryLanguageAA0E4CodeOSgvpZ" class="token"><code>primaryLanguage</code></a> 
 
   </div>
 
@@ -477,6 +504,10 @@ A view that displays a map. Note: Before using this class, <a href="sdk-for-ios-
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-languagecode">LanguageCode</a>
+
   </div>
 
   </div>
@@ -485,7 +516,7 @@ A view that displays a map. Note: Before using this class, <a href="sdk-for-ios-
 
 - <div>
 
-  ` `<span id="/s:7heresdk7MapViewC17secondaryLanguageAA0E4CodeOSgvpZ"></span>` `<span id="//apple_ref/swift/Variable/secondaryLanguage" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapview#/s:7heresdk7MapViewC17secondaryLanguageAA0E4CodeOSgvpZ" class="token"><code>secondaryLanguage</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk7MapViewC17secondaryLanguageAA0E4CodeOSgvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-secondaryLanguage" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapview#sdk-for-ios-navigate-s-7heresdk7MapViewC17secondaryLanguageAA0E4CodeOSgvpZ" class="token"><code>secondaryLanguage</code></a> 
 
   </div>
 
@@ -522,6 +553,10 @@ A view that displays a map. Note: Before using this class, <a href="sdk-for-ios-
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-languagecode">LanguageCode</a>
+
   </div>
 
   </div>
@@ -530,7 +565,7 @@ A view that displays a map. Note: Before using this class, <a href="sdk-for-ios-
 
 - <div>
 
-  ` `<span id="/s:7heresdk7MapViewC13shadowQualityAA06ShadowE0OvpZ"></span>` `<span id="//apple_ref/swift/Variable/shadowQuality" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapview#/s:7heresdk7MapViewC13shadowQualityAA06ShadowE0OvpZ" class="token"><code>shadowQuality</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk7MapViewC13shadowQualityAA06ShadowE0OvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-shadowQuality" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapview#sdk-for-ios-navigate-s-7heresdk7MapViewC13shadowQualityAA06ShadowE0OvpZ" class="token"><code>shadowQuality</code></a> 
 
   </div>
 
@@ -567,6 +602,10 @@ A view that displays a map. Note: Before using this class, <a href="sdk-for-ios-
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-shadowquality">ShadowQuality</a>
+
   </div>
 
   </div>
@@ -575,7 +614,7 @@ A view that displays a map. Note: Before using this class, <a href="sdk-for-ios-
 
 - <div>
 
-      pause()
+   <span id="sdk-for-ios-navigate-s-7heresdk7MapViewC5pauseyyF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-pause" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapview#sdk-for-ios-navigate-s-7heresdk7MapViewC5pauseyyF" class="token"><code>pause()</code></a> 
 
   </div>
 
@@ -616,10 +655,9 @@ A view that displays a map. Note: Before using this class, <a href="sdk-for-ios-
   Swift
 
   ``` highlight
-  @MainActor public func pause ()
+  @MainActor
+  public func pause()
   ```
-
-  </pre>
 
   </div>
 
@@ -631,7 +669,7 @@ A view that displays a map. Note: Before using this class, <a href="sdk-for-ios-
 
 - <div>
 
-      resume()
+   <span id="sdk-for-ios-navigate-s-7heresdk7MapViewC6resumeyyF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-resume" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapview#sdk-for-ios-navigate-s-7heresdk7MapViewC6resumeyyF" class="token"><code>resume()</code></a> 
 
   </div>
 
@@ -672,10 +710,9 @@ A view that displays a map. Note: Before using this class, <a href="sdk-for-ios-
   Swift
 
   ``` highlight
-  @MainActor public func resume ()
+  @MainActor
+  public func resume()
   ```
-
-  </pre>
 
   </div>
 
@@ -687,7 +724,7 @@ A view that displays a map. Note: Before using this class, <a href="sdk-for-ios-
 
 - <div>
 
-      init()
+   <span id="sdk-for-ios-navigate-c-M-heresdk-objc-csHereMapView-iminit"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapview#sdk-for-ios-navigate-c-M-heresdk-objc-csHereMapView-iminit" class="token"><code>init()</code></a> 
 
   </div>
 
@@ -718,10 +755,9 @@ A view that displays a map. Note: Before using this class, <a href="sdk-for-ios-
   Swift
 
   ``` highlight
-  @MainActor public convenience init ()
+  @MainActor
+  public convenience init()
   ```
-
-  </pre>
 
   </div>
 
@@ -733,7 +769,7 @@ A view that displays a map. Note: Before using this class, <a href="sdk-for-ios-
 
 - <div>
 
-      init(frame: )
+   <span id="sdk-for-ios-navigate-c-M-heresdk-objc-csHereMapView-iminitWithFrame"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-frame" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapview#sdk-for-ios-navigate-c-M-heresdk-objc-csHereMapView-iminitWithFrame" class="token"><code>init(frame:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -764,10 +800,9 @@ A view that displays a map. Note: Before using this class, <a href="sdk-for-ios-
   Swift
 
   ``` highlight
-  @MainActor override public convenience init ( frame : CGRect )
+  @MainActor
+  override public convenience init(frame: CGRect)
   ```
-
-  </pre>
 
   </div>
 
@@ -779,7 +814,7 @@ A view that displays a map. Note: Before using this class, <a href="sdk-for-ios-
 
 - <div>
 
-      init(options: )
+   <span id="sdk-for-ios-navigate-s-7heresdk7MapViewC7optionsAcA0bC7OptionsV_tcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-options" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapview#sdk-for-ios-navigate-s-7heresdk7MapViewC7optionsAcA0bC7OptionsV_tcfc" class="token"><code>init(options:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -810,12 +845,15 @@ A view that displays a map. Note: Before using this class, <a href="sdk-for-ios-
   Swift
 
   ``` highlight
-  @MainActor public convenience init ( options : MapViewOptions )
+  @MainActor
+  public convenience init(options: MapViewOptions)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-mapviewoptions">MapViewOptions</a>
 
   </div>
 
@@ -846,7 +884,7 @@ A view that displays a map. Note: Before using this class, <a href="sdk-for-ios-
 
 - <div>
 
-      init(frame: options: )
+   <span id="sdk-for-ios-navigate-s-7heresdk7MapViewC5frame7optionsACSo6CGRectV_AA0bC7OptionsVtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-frame-options" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapview#sdk-for-ios-navigate-s-7heresdk7MapViewC5frame7optionsACSo6CGRectV_AA0bC7OptionsVtcfc" class="token"><code>init(frame:</code><wbr></wbr><code>options:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -877,12 +915,15 @@ A view that displays a map. Note: Before using this class, <a href="sdk-for-ios-
   Swift
 
   ``` highlight
-  @MainActor public convenience init ( frame : CGRect , options : MapViewOptions )
+  @MainActor
+  public convenience init(frame: CGRect, options: MapViewOptions)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-mapviewoptions">MapViewOptions</a>
 
   </div>
 
@@ -919,7 +960,7 @@ A view that displays a map. Note: Before using this class, <a href="sdk-for-ios-
 
 - <div>
 
-      init(frame: withSdkEngine: options: )
+   <span id="sdk-for-ios-navigate-s-7heresdk7MapViewC5frame13withSdkEngine7optionsACSo6CGRectV_AA09SDKNativeG0CAA0bC7OptionsVtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-frame-withSdkEngine-options" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapview#sdk-for-ios-navigate-s-7heresdk7MapViewC5frame13withSdkEngine7optionsACSo6CGRectV_AA09SDKNativeG0CAA0bC7OptionsVtcfc" class="token"><code>init(frame:</code><wbr></wbr><code>withSdkEngine:</code><wbr></wbr><code>options:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -950,12 +991,16 @@ A view that displays a map. Note: Before using this class, <a href="sdk-for-ios-
   Swift
 
   ``` highlight
-  @MainActor public convenience init ( frame : CGRect , withSdkEngine sdkEngine : SDKNativeEngine , options : MapViewOptions )
+  @MainActor
+  public convenience init(frame: CGRect, withSdkEngine sdkEngine: SDKNativeEngine, options: MapViewOptions)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-sdknativeengine">SDKNativeEngine</a>
+  - <a href="sdk-for-ios-navigate-structs-mapviewoptions">MapViewOptions</a>
 
   </div>
 
@@ -998,7 +1043,7 @@ A view that displays a map. Note: Before using this class, <a href="sdk-for-ios-
 
 - <div>
 
-      init(frame: withSdkEngine: )
+   <span id="sdk-for-ios-navigate-s-7heresdk7MapViewC5frame13withSdkEngineACSo6CGRectV_AA09SDKNativeG0Ctcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-frame-withSdkEngine" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapview#sdk-for-ios-navigate-s-7heresdk7MapViewC5frame13withSdkEngineACSo6CGRectV_AA09SDKNativeG0Ctcfc" class="token"><code>init(frame:</code><wbr></wbr><code>withSdkEngine:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1029,12 +1074,15 @@ A view that displays a map. Note: Before using this class, <a href="sdk-for-ios-
   Swift
 
   ``` highlight
-  @MainActor public convenience init ( frame : CGRect , withSdkEngine sdkEngine : SDKNativeEngine )
+  @MainActor
+  public convenience init(frame: CGRect, withSdkEngine sdkEngine: SDKNativeEngine)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-sdknativeengine">SDKNativeEngine</a>
 
   </div>
 
@@ -1044,7 +1092,7 @@ A view that displays a map. Note: Before using this class, <a href="sdk-for-ios-
 
 - <div>
 
-      init(frame: withSdkEngine: withOptions: )
+   <span id="sdk-for-ios-navigate-s-7heresdk7MapViewC5frame13withSdkEngine0E7OptionsACSo6CGRectV_AA09SDKNativeG0CAA0bcH0VSgtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-frame-withSdkEngine-withOptions" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapview#sdk-for-ios-navigate-s-7heresdk7MapViewC5frame13withSdkEngine0E7OptionsACSo6CGRectV_AA09SDKNativeG0CAA0bcH0VSgtcfc" class="token"><code>init(frame:</code><wbr></wbr><code>withSdkEngine:</code><wbr></wbr><code>withOptions:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1075,12 +1123,16 @@ A view that displays a map. Note: Before using this class, <a href="sdk-for-ios-
   Swift
 
   ``` highlight
-  @MainActor public init ( frame : CGRect , withSdkEngine sdkEngine : SDKNativeEngine , withOptions options : MapViewOptions ?)
+  @MainActor
+  public init(frame: CGRect, withSdkEngine sdkEngine: SDKNativeEngine, withOptions options: MapViewOptions?)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-sdknativeengine">SDKNativeEngine</a>
+  - <a href="sdk-for-ios-navigate-structs-mapviewoptions">MapViewOptions</a>
 
   </div>
 
@@ -1123,7 +1175,7 @@ A view that displays a map. Note: Before using this class, <a href="sdk-for-ios-
 
 - <div>
 
-      init(coder: )
+   <span id="sdk-for-ios-navigate-c-M-heresdk-objc-csHereMapView-iminitWithCoder"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-coder" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapview#sdk-for-ios-navigate-c-M-heresdk-objc-csHereMapView-iminitWithCoder" class="token"><code>init(coder:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1154,10 +1206,9 @@ A view that displays a map. Note: Before using this class, <a href="sdk-for-ios-
   Swift
 
   ``` highlight
-  @MainActor public required init ?( coder aDecoder : NSCoder )
+  @MainActor
+  public required init?(coder aDecoder: NSCoder)
   ```
-
-  </pre>
 
   </div>
 
@@ -1169,7 +1220,7 @@ A view that displays a map. Note: Before using this class, <a href="sdk-for-ios-
 
 - <div>
 
-  ` `<span id="/s:7heresdk7MapViewC7isValidSbvp"></span>` `<span id="//apple_ref/swift/Property/isValid" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapview#/s:7heresdk7MapViewC7isValidSbvp" class="token"><code>isValid</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk7MapViewC7isValidSbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-isValid" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapview#sdk-for-ios-navigate-s-7heresdk7MapViewC7isValidSbvp" class="token"><code>isValid</code></a> 
 
   </div>
 
@@ -1214,7 +1265,7 @@ A view that displays a map. Note: Before using this class, <a href="sdk-for-ios-
 
 - <div>
 
-      geoToViewCoordinates(geoCoordinates: )
+   <span id="sdk-for-ios-navigate-s-7heresdk7MapViewC05geoToC11Coordinates0dF0AA7Point2DVSgAA03GeoF0V_tF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-geoToViewCoordinates-geoCoordinates" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapview#sdk-for-ios-navigate-s-7heresdk7MapViewC05geoToC11Coordinates0dF0AA7Point2DVSgAA03GeoF0V_tF" class="token"><code>geoToViewCoordinates(geoCoordinates:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1251,12 +1302,16 @@ A view that displays a map. Note: Before using this class, <a href="sdk-for-ios-
   Swift
 
   ``` highlight
-  @MainActor public func geoToViewCoordinates ( geoCoordinates : GeoCoordinates ) -> Point2D ?
+  @MainActor
+  public func geoToViewCoordinates(geoCoordinates: GeoCoordinates) -> Point2D?
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-geocoordinates">GeoCoordinates</a>
+  - <a href="sdk-for-ios-navigate-structs-point2d">Point2D</a>
 
   </div>
 
@@ -1295,7 +1350,7 @@ A view that displays a map. Note: Before using this class, <a href="sdk-for-ios-
 
 - <div>
 
-      viewToGeoCoordinates(viewCoordinates: )
+   <span id="sdk-for-ios-navigate-s-7heresdk7MapViewC20viewToGeoCoordinates0dG0AA0fG0VSgAA7Point2DV_tF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-viewToGeoCoordinates-viewCoordinates" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapview#sdk-for-ios-navigate-s-7heresdk7MapViewC20viewToGeoCoordinates0dG0AA0fG0VSgAA7Point2DV_tF" class="token"><code>viewToGeoCoordinates(viewCoordinates:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1334,12 +1389,16 @@ A view that displays a map. Note: Before using this class, <a href="sdk-for-ios-
   Swift
 
   ``` highlight
-  @MainActor public func viewToGeoCoordinates ( viewCoordinates : Point2D ) -> GeoCoordinates ?
+  @MainActor
+  public func viewToGeoCoordinates(viewCoordinates: Point2D) -> GeoCoordinates?
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-point2d">Point2D</a>
+  - <a href="sdk-for-ios-navigate-structs-geocoordinates">GeoCoordinates</a>
 
   </div>
 
@@ -1378,7 +1437,7 @@ A view that displays a map. Note: Before using this class, <a href="sdk-for-ios-
 
 - <div>
 
-      pick(filter: inside: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk7MapViewC4pick6filter6inside10completionyAA0B5SceneC0B10PickFilterCSg_AA11Rectangle2DVyAA0bI6ResultCSgctF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-pick-filter-inside-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapview#sdk-for-ios-navigate-s-7heresdk7MapViewC4pick6filter6inside10completionyAA0B5SceneC0B10PickFilterCSg_AA11Rectangle2DVyAA0bI6ResultCSgctF" class="token"><code>pick(filter:</code><wbr></wbr><code>inside:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1409,12 +1468,17 @@ A view that displays a map. Note: Before using this class, <a href="sdk-for-ios-
   Swift
 
   ``` highlight
-  @MainActor public func pick ( filter : MapScene . MapPickFilter ?, inside viewArea : Rectangle2D , completion callback : @escaping ( MapPickResult ?) -> Void )
+  @MainActor
+  public func pick(filter: MapScene.MapPickFilter?, inside viewArea: Rectangle2D, completion callback: @escaping (MapPickResult?) -> Void)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mapscene">MapScene</a>
+  - <a href="sdk-for-ios-navigate-structs-rectangle2d">Rectangle2D</a>
+  - <a href="sdk-for-ios-navigate-classes-mappickresult">MapPickResult</a>
 
   </div>
 
@@ -1457,7 +1521,7 @@ A view that displays a map. Note: Before using this class, <a href="sdk-for-ios-
 
 - <div>
 
-      takeScreenshot(callback: )
+   <span id="sdk-for-ios-navigate-s-7heresdk7MapViewC14takeScreenshot8callbackyySo7UIImageCSgc_tF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-takeScreenshot-callback" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapview#sdk-for-ios-navigate-s-7heresdk7MapViewC14takeScreenshot8callbackyySo7UIImageCSgc_tF" class="token"><code>takeScreenshot(callback:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1488,12 +1552,15 @@ A view that displays a map. Note: Before using this class, <a href="sdk-for-ios-
   Swift
 
   ``` highlight
-  @MainActor public func takeScreenshot ( callback : @escaping TakeScreenshotCallback )
+  @MainActor
+  public func takeScreenshot(callback: @escaping TakeScreenshotCallback)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mapview#sdk-for-ios-navigate-s-7heresdk7MapViewC22TakeScreenshotCallbacka">TakeScreenshotCallback</a>
 
   </div>
 
@@ -1524,7 +1591,7 @@ A view that displays a map. Note: Before using this class, <a href="sdk-for-ios-
 
 - <div>
 
-      addLifecycleDelegate(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk7MapViewC20addLifecycleDelegateyyAA0bceF0_pF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-addLifecycleDelegate-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapview#sdk-for-ios-navigate-s-7heresdk7MapViewC20addLifecycleDelegateyyAA0bceF0_pF" class="token"><code>addLifecycleDelegate(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1555,12 +1622,15 @@ A view that displays a map. Note: Before using this class, <a href="sdk-for-ios-
   Swift
 
   ``` highlight
-  @MainActor public func addLifecycleDelegate ( _ lifecycleListener : MapViewLifecycleDelegate )
+  @MainActor
+  public func addLifecycleDelegate(_ lifecycleListener: MapViewLifecycleDelegate)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-protocols-mapviewlifecycledelegate">MapViewLifecycleDelegate</a>
 
   </div>
 
@@ -1591,7 +1661,7 @@ A view that displays a map. Note: Before using this class, <a href="sdk-for-ios-
 
 - <div>
 
-      removeLifecycleDelegate(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk7MapViewC23removeLifecycleDelegateyyAA0bceF0_pF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-removeLifecycleDelegate-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapview#sdk-for-ios-navigate-s-7heresdk7MapViewC23removeLifecycleDelegateyyAA0bceF0_pF" class="token"><code>removeLifecycleDelegate(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1622,12 +1692,15 @@ A view that displays a map. Note: Before using this class, <a href="sdk-for-ios-
   Swift
 
   ``` highlight
-  @MainActor public func removeLifecycleDelegate ( _ lifecycleListener : MapViewLifecycleDelegate )
+  @MainActor
+  public func removeLifecycleDelegate(_ lifecycleListener: MapViewLifecycleDelegate)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-protocols-mapviewlifecycledelegate">MapViewLifecycleDelegate</a>
 
   </div>
 
@@ -1658,7 +1731,7 @@ A view that displays a map. Note: Before using this class, <a href="sdk-for-ios-
 
 - <div>
 
-      reinit()
+   <span id="sdk-for-ios-navigate-s-7heresdk7MapViewC6reinityyF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-reinit" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapview#sdk-for-ios-navigate-s-7heresdk7MapViewC6reinityyF" class="token"><code>reinit()</code></a> 
 
   </div>
 
@@ -1676,15 +1749,15 @@ A view that displays a map. Note: Before using this class, <a href="sdk-for-ios-
 
   <div class="abstract">
 
-  Reinitializes the map renderer. Does nothing if <a href="sdk-for-ios-navigate-classes-mapview#/s:7heresdk7MapViewC7isValidSbvp">`isValid`</a> is `true` or <a href="sdk-for-ios-navigate-classes-sdknativeengine#/s:7heresdk15SDKNativeEngineC14sharedInstanceACSgvpZ">`SDKNativeEngine.sharedInstance`</a> is `nil`.
+  Reinitializes the map renderer. Does nothing if <a href="sdk-for-ios-navigate-classes-mapview#sdk-for-ios-navigate-s-7heresdk7MapViewC7isValidSbvp">`isValid`</a> is `true` or <a href="sdk-for-ios-navigate-classes-sdknativeengine#sdk-for-ios-navigate-s-7heresdk15SDKNativeEngineC14sharedInstanceACSgvpZ">`SDKNativeEngine.sharedInstance`</a> is `nil`.
 
   This can be used after `MapView` gets invalidated as a result of destroying the shared <a href="sdk-for-ios-navigate-classes-sdknativeengine">`SDKNativeEngine`</a> and setting a new shared <a href="sdk-for-ios-navigate-classes-sdknativeengine">`SDKNativeEngine`</a>.
 
-  After this call finishes successfully, <a href="sdk-for-ios-navigate-classes-mapview#/s:7heresdk7MapViewC7isValidSbvp">`isValid`</a> becomes `true`.
+  After this call finishes successfully, <a href="sdk-for-ios-navigate-classes-mapview#sdk-for-ios-navigate-s-7heresdk7MapViewC7isValidSbvp">`isValid`</a> becomes `true`.
 
   Map state is not preserved. The caller must load a scene, set camera, re-add all the delegates and all the map items, etc.
 
-  Any previously stored instances of <a href="sdk-for-ios-navigate-classes-mapview#/s:7heresdk7MapViewC6cameraAA0B6CameraCvp">`MapView.camera`</a>, <a href="sdk-for-ios-navigate-classes-mapview#/s:7heresdk11MapViewBaseP8mapSceneAA0bF0Cvp">`MapView.mapScene`</a>, <a href="sdk-for-ios-navigate-classes-mapview#/s:7heresdk11MapViewBaseP10mapContextAA0bF0Cvp">`MapView.mapContext`</a>, <a href="sdk-for-ios-navigate-classes-mapview#/s:7heresdk7MapViewC8gesturesAA8GesturesCvp">`MapView.gestures`</a> and <a href="sdk-for-ios-navigate-classes-mapview#/s:7heresdk11MapViewBaseP04hereB0AA04HereB0Cvp">`MapView.hereMap`</a> remain invalid.
+  Any previously stored instances of <a href="sdk-for-ios-navigate-classes-mapview#sdk-for-ios-navigate-s-7heresdk7MapViewC6cameraAA0B6CameraCvp">`MapView.camera`</a>, <a href="sdk-for-ios-navigate-classes-mapview#sdk-for-ios-navigate-s-7heresdk11MapViewBaseP8mapSceneAA0bF0Cvp">`MapView.mapScene`</a>, <a href="sdk-for-ios-navigate-classes-mapview#sdk-for-ios-navigate-s-7heresdk11MapViewBaseP10mapContextAA0bF0Cvp">`MapView.mapContext`</a>, <a href="sdk-for-ios-navigate-classes-mapview#sdk-for-ios-navigate-s-7heresdk7MapViewC8gesturesAA8GesturesCvp">`MapView.gestures`</a> and <a href="sdk-for-ios-navigate-classes-mapview#sdk-for-ios-navigate-s-7heresdk11MapViewBaseP04hereB0AA04HereB0Cvp">`MapView.hereMap`</a> remain invalid.
 
   </div>
 
@@ -1697,10 +1770,9 @@ A view that displays a map. Note: Before using this class, <a href="sdk-for-ios-
   Swift
 
   ``` highlight
-  @MainActor public func reinit ()
+  @MainActor
+  public func reinit()
   ```
-
-  </pre>
 
   </div>
 
@@ -1712,7 +1784,7 @@ A view that displays a map. Note: Before using this class, <a href="sdk-for-ios-
 
 - <div>
 
-      setWatermarkLocation(anchor: offset: )
+   <span id="sdk-for-ios-navigate-s-7heresdk7MapViewC20setWatermarkLocation6anchor6offsetyAA8Anchor2DV_AA7Point2DVtF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-setWatermarkLocation-anchor-offset" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapview#sdk-for-ios-navigate-s-7heresdk7MapViewC20setWatermarkLocation6anchor6offsetyAA8Anchor2DV_AA7Point2DVtF" class="token"><code>setWatermarkLocation(anchor:</code><wbr></wbr><code>offset:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1745,12 +1817,16 @@ A view that displays a map. Note: Before using this class, <a href="sdk-for-ios-
   Swift
 
   ``` highlight
-  @MainActor public func setWatermarkLocation ( anchor : Anchor2D , offset : Point2D )
+  @MainActor
+  public func setWatermarkLocation(anchor: Anchor2D, offset: Point2D)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-anchor2d">Anchor2D</a>
+  - <a href="sdk-for-ios-navigate-structs-point2d">Point2D</a>
 
   </div>
 
@@ -1787,7 +1863,7 @@ A view that displays a map. Note: Before using this class, <a href="sdk-for-ios-
 
 - <div>
 
-  ` `<span id="/s:7heresdk7MapViewC10pixelScaleSdvp"></span>` `<span id="//apple_ref/swift/Property/pixelScale" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapview#/s:7heresdk7MapViewC10pixelScaleSdvp" class="token"><code>pixelScale</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk7MapViewC10pixelScaleSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-pixelScale" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapview#sdk-for-ios-navigate-s-7heresdk7MapViewC10pixelScaleSdvp" class="token"><code>pixelScale</code></a> 
 
   </div>
 
@@ -1838,7 +1914,7 @@ A view that displays a map. Note: Before using this class, <a href="sdk-for-ios-
 
 - <div>
 
-  ` `<span id="/s:7heresdk7MapViewC13watermarkSizeAA6Size2DVvp"></span>` `<span id="//apple_ref/swift/Property/watermarkSize" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapview#/s:7heresdk7MapViewC13watermarkSizeAA6Size2DVvp" class="token"><code>watermarkSize</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk7MapViewC13watermarkSizeAA6Size2DVvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-watermarkSize" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapview#sdk-for-ios-navigate-s-7heresdk7MapViewC13watermarkSizeAA6Size2DVvp" class="token"><code>watermarkSize</code></a> 
 
   </div>
 
@@ -1875,6 +1951,10 @@ A view that displays a map. Note: Before using this class, <a href="sdk-for-ios-
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-size2d">Size2D</a>
+
   </div>
 
   </div>
@@ -1883,7 +1963,7 @@ A view that displays a map. Note: Before using this class, <a href="sdk-for-ios-
 
 - <div>
 
-      pinView(_: to: )
+   <span id="sdk-for-ios-navigate-s-7heresdk7MapViewC03pinC0_2toAC0C3PinCSgSo6UIViewC_AA14GeoCoordinatesVtF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-pinView-_-to" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapview#sdk-for-ios-navigate-s-7heresdk7MapViewC03pinC0_2toAC0C3PinCSgSo6UIViewC_AA14GeoCoordinatesVtF" class="token"><code>pinView(_:</code><wbr></wbr><code>to:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1918,12 +1998,16 @@ A view that displays a map. Note: Before using this class, <a href="sdk-for-ios-
   Swift
 
   ``` highlight
-  @MainActor public func pinView ( _ view : UIView , to coordinates : GeoCoordinates ) -> ViewPin ?
+  @MainActor
+  public func pinView(_ view: UIView, to coordinates: GeoCoordinates) -> ViewPin?
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-geocoordinates">GeoCoordinates</a>
+  - <a href="sdk-for-ios-navigate-classes-mapview-viewpin">ViewPin</a>
 
   </div>
 
@@ -1968,7 +2052,7 @@ A view that displays a map. Note: Before using this class, <a href="sdk-for-ios-
 
 - <div>
 
-      unpinView(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk7MapViewC05unpinC0yySo6UIViewCF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-unpinView-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapview#sdk-for-ios-navigate-s-7heresdk7MapViewC05unpinC0yySo6UIViewCF" class="token"><code>unpinView(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1999,10 +2083,9 @@ A view that displays a map. Note: Before using this class, <a href="sdk-for-ios-
   Swift
 
   ``` highlight
-  @MainActor public func unpinView ( _ view : UIView )
+  @MainActor
+  public func unpinView(_ view: UIView)
   ```
-
-  </pre>
 
   </div>
 
@@ -2035,7 +2118,7 @@ A view that displays a map. Note: Before using this class, <a href="sdk-for-ios-
 
 - <div>
 
-  ` `<span id="/s:7heresdk7MapViewC8viewPinsSayAC0C3PinCGvp"></span>` `<span id="//apple_ref/swift/Property/viewPins" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapview#/s:7heresdk7MapViewC8viewPinsSayAC0C3PinCGvp" class="token"><code>viewPins</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk7MapViewC8viewPinsSayAC0C3PinCGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-viewPins" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapview#sdk-for-ios-navigate-s-7heresdk7MapViewC8viewPinsSayAC0C3PinCGvp" class="token"><code>viewPins</code></a> 
 
   </div>
 
@@ -2072,6 +2155,10 @@ A view that displays a map. Note: Before using this class, <a href="sdk-for-ios-
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mapview-viewpin">ViewPin</a>
+
   </div>
 
   </div>
@@ -2080,7 +2167,7 @@ A view that displays a map. Note: Before using this class, <a href="sdk-for-ios-
 
 - <div>
 
-      handleLowMemory()
+   <span id="sdk-for-ios-navigate-s-7heresdk7MapViewC15handleLowMemoryyyF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-handleLowMemory" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapview#sdk-for-ios-navigate-s-7heresdk7MapViewC15handleLowMemoryyyF" class="token"><code>handleLowMemory()</code></a> 
 
   </div>
 
@@ -2118,10 +2205,9 @@ A view that displays a map. Note: Before using this class, <a href="sdk-for-ios-
   Swift
 
   ``` highlight
-  @MainActor public func handleLowMemory ()
+  @MainActor
+  public func handleLowMemory()
   ```
-
-  </pre>
 
   </div>
 

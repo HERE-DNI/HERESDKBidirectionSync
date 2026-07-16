@@ -27,7 +27,7 @@ Charge Point Operator (CPO) ID uses the Electric Vehicle Supply Equipment ID (EV
 
 - <div>
 
-  ` `<span id="/s:7heresdk4EvseV2idSSSgvp"></span>` `<span id="//apple_ref/swift/Property/id" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-evse#/s:7heresdk4EvseV2idSSSgvp" class="token"><code>id</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk4EvseV2idSSSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-id" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-evse#sdk-for-ios-explore-s-7heresdk4EvseV2idSSSgvp" class="token"><code>id</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Charge Point Operator (CPO) ID uses the Electric Vehicle Supply Equipment ID (EV
 
 - <div>
 
-  ` `<span id="/s:7heresdk4EvseV5cpoIdSSSgvp"></span>` `<span id="//apple_ref/swift/Property/cpoId" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-evse#/s:7heresdk4EvseV5cpoIdSSSgvp" class="token"><code>cpoId</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk4EvseV5cpoIdSSSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-cpoId" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-evse#sdk-for-ios-explore-s-7heresdk4EvseV5cpoIdSSSgvp" class="token"><code>cpoId</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Charge Point Operator (CPO) ID uses the Electric Vehicle Supply Equipment ID (EV
 
 - <div>
 
-  ` `<span id="/s:7heresdk4EvseV03cpoB6Emi3IdSSSgvp"></span>` `<span id="//apple_ref/swift/Property/cpoEvseEmi3Id" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-evse#/s:7heresdk4EvseV03cpoB6Emi3IdSSSgvp" class="token"><code>cpoEvseEmi3Id</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk4EvseV03cpoB6Emi3IdSSSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-cpoEvseEmi3Id" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-evse#sdk-for-ios-explore-s-7heresdk4EvseV03cpoB6Emi3IdSSSgvp" class="token"><code>cpoEvseEmi3Id</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Charge Point Operator (CPO) ID uses the Electric Vehicle Supply Equipment ID (EV
 
 - <div>
 
-  ` `<span id="/s:7heresdk4EvseV6statusAA10EVSEStatusOSgvp"></span>` `<span id="//apple_ref/swift/Property/status" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-evse#/s:7heresdk4EvseV6statusAA10EVSEStatusOSgvp" class="token"><code>status</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk4EvseV6statusAA10EVSEStatusOSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-status" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-evse#sdk-for-ios-explore-s-7heresdk4EvseV6statusAA10EVSEStatusOSgvp" class="token"><code>status</code></a> 
 
   </div>
 
@@ -195,6 +195,10 @@ Charge Point Operator (CPO) ID uses the Electric Vehicle Supply Equipment ID (EV
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-evsestatus">EVSEStatus</a>
+
   </div>
 
   </div>
@@ -203,7 +207,7 @@ Charge Point Operator (CPO) ID uses the Electric Vehicle Supply Equipment ID (EV
 
 - <div>
 
-  ` `<span id="/s:7heresdk4EvseV11lastUpdated10Foundation4DateVSgvp"></span>` `<span id="//apple_ref/swift/Property/lastUpdated" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-evse#/s:7heresdk4EvseV11lastUpdated10Foundation4DateVSgvp" class="token"><code>lastUpdated</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk4EvseV11lastUpdated10Foundation4DateVSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-lastUpdated" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-evse#sdk-for-ios-explore-s-7heresdk4EvseV11lastUpdated10Foundation4DateVSgvp" class="token"><code>lastUpdated</code></a> 
 
   </div>
 
@@ -247,7 +251,7 @@ Charge Point Operator (CPO) ID uses the Electric Vehicle Supply Equipment ID (EV
 
 - <div>
 
-  ` `<span id="/s:7heresdk4EvseV10connectorsSayAA13EVSEConnectorVGvp"></span>` `<span id="//apple_ref/swift/Property/connectors" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-evse#/s:7heresdk4EvseV10connectorsSayAA13EVSEConnectorVGvp" class="token"><code>connectors</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk4EvseV10connectorsSayAA13EVSEConnectorVGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-connectors" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-evse#sdk-for-ios-explore-s-7heresdk4EvseV10connectorsSayAA13EVSEConnectorVGvp" class="token"><code>connectors</code></a> 
 
   </div>
 
@@ -283,6 +287,10 @@ Charge Point Operator (CPO) ID uses the Electric Vehicle Supply Equipment ID (EV
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-evseconnector">EVSEConnector</a>
+
   </div>
 
   </div>
@@ -291,7 +299,7 @@ Charge Point Operator (CPO) ID uses the Electric Vehicle Supply Equipment ID (EV
 
 - <div>
 
-      init(id: cpoId: cpoEvseEmi3Id: status: lastUpdated: connectors: )
+   <span id="sdk-for-ios-explore-s-7heresdk4EvseV2id5cpoId0db4Emi3E06status11lastUpdated10connectorsACSSSg_A2jA10EVSEStatusOSg10Foundation4DateVSgSayAA13EVSEConnectorVGtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-id-cpoId-cpoEvseEmi3Id-status-lastUpdated-connectors" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-evse#sdk-for-ios-explore-s-7heresdk4EvseV2id5cpoId0db4Emi3E06status11lastUpdated10connectorsACSSSg_A2jA10EVSEStatusOSg10Foundation4DateVSgSayAA13EVSEConnectorVGtcfc" class="token"><code>init(id:</code><wbr></wbr><code>cpoId:</code><wbr></wbr><code>cpoEvseEmi3Id:</code><wbr></wbr><code>status:</code><wbr></wbr><code>lastUpdated:</code><wbr></wbr><code>connectors:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -322,12 +330,15 @@ Charge Point Operator (CPO) ID uses the Electric Vehicle Supply Equipment ID (EV
   Swift
 
   ``` highlight
-  public init ( id : String ? = nil , cpoId : String ? = nil , cpoEvseEmi3Id : String ? = nil , status : EVSEStatus ? = nil , lastUpdated : Date ? = nil , connectors : [ EVSEConnector ] = [])
+  public init(id: String? = nil, cpoId: String? = nil, cpoEvseEmi3Id: String? = nil, status: EVSEStatus? = nil, lastUpdated: Date? = nil, connectors: [EVSEConnector] = [])
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-evsestatus">EVSEStatus</a>
+  - <a href="sdk-for-ios-explore-structs-evseconnector">EVSEConnector</a>
 
   </div>
 

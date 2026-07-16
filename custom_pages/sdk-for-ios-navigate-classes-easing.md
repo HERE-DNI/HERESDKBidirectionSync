@@ -35,7 +35,7 @@ Animation easing representing an easing function to be used during animations.
 
 - <div>
 
-  ` `<span id="/s:7heresdk6EasingC18InstantiationErrora"></span>` `<span id="//apple_ref/swift/Alias/InstantiationError" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-easing#/s:7heresdk6EasingC18InstantiationErrora" class="token"><code>InstantiationError</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk6EasingC18InstantiationErrora"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Alias-InstantiationError" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-easing#sdk-for-ios-navigate-s-7heresdk6EasingC18InstantiationErrora" class="token"><code>InstantiationError</code></a> 
 
   </div>
 
@@ -71,6 +71,10 @@ Animation easing representing an easing function to be used during animations.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-easing-instantiationerrorcode">InstantiationErrorCode</a>
+
   </div>
 
   </div>
@@ -79,7 +83,7 @@ Animation easing representing an easing function to be used during animations.
 
 - <div>
 
-      init(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk6EasingCyAcA0B8FunctionOcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-easing#sdk-for-ios-navigate-s-7heresdk6EasingCyAcA0B8FunctionOcfc" class="token"><code>init(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -110,12 +114,14 @@ Animation easing representing an easing function to be used during animations.
   Swift
 
   ``` highlight
-  public init ( _ easingFunction : EasingFunction )
+  public init(_ easingFunction: EasingFunction)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-easingfunction">EasingFunction</a>
 
   </div>
 
@@ -146,7 +152,7 @@ Animation easing representing an easing function to be used during animations.
 
 - <div>
 
-      init(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk6EasingCyACSayAA7Point2DVGKcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-easing#sdk-for-ios-navigate-s-7heresdk6EasingCyACSayAA7Point2DVGKcfc" class="token"><code>init(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -170,7 +176,7 @@ Animation easing representing an easing function to be used during animations.
 
   Throws
 
-  <a href="sdk-for-ios-navigate-classes-easing#/s:7heresdk6EasingC18InstantiationErrora">`Easing.InstantiationError`</a> Instantiation error in case of invalid input parameters.
+  <a href="sdk-for-ios-navigate-classes-easing#sdk-for-ios-navigate-s-7heresdk6EasingC18InstantiationErrora">`Easing.InstantiationError`</a> Instantiation error in case of invalid input parameters.
 
   </div>
 
@@ -185,12 +191,14 @@ Animation easing representing an easing function to be used during animations.
   Swift
 
   ``` highlight
-  public init ( _ points : [ Point2D ]) throws
+  public init(_ points: [Point2D]) throws
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-point2d">Point2D</a>
 
   </div>
 
@@ -221,7 +229,7 @@ Animation easing representing an easing function to be used during animations.
 
 - <div>
 
-  ` `<span id="/s:7heresdk6EasingC22InstantiationErrorCodeO"></span>` `<span id="//apple_ref/swift/Enum/InstantiationErrorCode" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-easing#/s:7heresdk6EasingC22InstantiationErrorCodeO" class="token"><code>InstantiationErrorCode</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk6EasingC22InstantiationErrorCodeO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-InstantiationErrorCode" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-easing#sdk-for-ios-navigate-s-7heresdk6EasingC22InstantiationErrorCodeO" class="token"><code>InstantiationErrorCode</code></a> 
 
   </div>
 
@@ -262,6 +270,10 @@ Animation easing representing an easing function to be used during animations.
   ```
 
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-easing">Easing</a>
 
   </div>
 

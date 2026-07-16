@@ -13,7 +13,7 @@ slug: "sdk-for-ios-explore-venues"
 
 - <div>
 
-  ` `<span id="/s:7heresdk9CrosswalkC"></span>` `<span id="//apple_ref/swift/Class/Crosswalk" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-venues#/s:7heresdk9CrosswalkC" class="token"><code>Crosswalk</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9CrosswalkC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-Crosswalk" class="dashAnchor"></span> <a href="sdk-for-ios-explore-venues#sdk-for-ios-explore-s-7heresdk9CrosswalkC" class="token"><code>Crosswalk</code></a> 
 
   </div>
 
@@ -67,7 +67,7 @@ slug: "sdk-for-ios-explore-venues"
 
 - <div>
 
-  ` `<span id="/s:7heresdk8PropertyC"></span>` `<span id="//apple_ref/swift/Class/Property" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-venues#/s:7heresdk8PropertyC" class="token"><code>Property</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk8PropertyC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-Property" class="dashAnchor"></span> <a href="sdk-for-ios-explore-venues#sdk-for-ios-explore-s-7heresdk8PropertyC" class="token"><code>Property</code></a> 
 
   </div>
 
@@ -121,7 +121,7 @@ slug: "sdk-for-ios-explore-venues"
 
 - <div>
 
-  ` `<span id="/s:7heresdk5VenueC"></span>` `<span id="//apple_ref/swift/Class/Venue" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-venues#/s:7heresdk5VenueC" class="token"><code>Venue</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk5VenueC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-Venue" class="dashAnchor"></span> <a href="sdk-for-ios-explore-venues#sdk-for-ios-explore-s-7heresdk5VenueC" class="token"><code>Venue</code></a> 
 
   </div>
 
@@ -183,7 +183,7 @@ slug: "sdk-for-ios-explore-venues"
 
 - <div>
 
-  ` `<span id="/s:7heresdk13VenueDelegateP"></span>` `<span id="//apple_ref/swift/Protocol/VenueDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-venues#/s:7heresdk13VenueDelegateP" class="token"><code>VenueDelegate</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13VenueDelegateP"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Protocol-VenueDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-explore-venues#sdk-for-ios-explore-s-7heresdk13VenueDelegateP" class="token"><code>VenueDelegate</code></a> 
 
   </div>
 
@@ -229,7 +229,7 @@ slug: "sdk-for-ios-explore-venues"
 
 - <div>
 
-  ` `<span id="/s:7heresdk12VenueDrawingC"></span>` `<span id="//apple_ref/swift/Class/VenueDrawing" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-venues#/s:7heresdk12VenueDrawingC" class="token"><code>VenueDrawing</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12VenueDrawingC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-VenueDrawing" class="dashAnchor"></span> <a href="sdk-for-ios-explore-venues#sdk-for-ios-explore-s-7heresdk12VenueDrawingC" class="token"><code>VenueDrawing</code></a> 
 
   </div>
 
@@ -283,7 +283,7 @@ slug: "sdk-for-ios-explore-venues"
 
 - <div>
 
-  ` `<span id="/s:7heresdk29VenueDrawingSelectionDelegateP"></span>` `<span id="//apple_ref/swift/Protocol/VenueDrawingSelectionDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-venues#/s:7heresdk29VenueDrawingSelectionDelegateP" class="token"><code>VenueDrawingSelectionDelegate</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk29VenueDrawingSelectionDelegateP"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Protocol-VenueDrawingSelectionDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-explore-venues#sdk-for-ios-explore-s-7heresdk29VenueDrawingSelectionDelegateP" class="token"><code>VenueDrawingSelectionDelegate</code></a> 
 
   </div>
 
@@ -329,7 +329,7 @@ slug: "sdk-for-ios-explore-venues"
 
 - <div>
 
-  ` `<span id="/s:7heresdk11VenueEngineC"></span>` `<span id="//apple_ref/swift/Class/VenueEngine" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-venues#/s:7heresdk11VenueEngineC" class="token"><code>VenueEngine</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11VenueEngineC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-VenueEngine" class="dashAnchor"></span> <a href="sdk-for-ios-explore-venues#sdk-for-ios-explore-s-7heresdk11VenueEngineC" class="token"><code>VenueEngine</code></a> 
 
   </div>
 
@@ -383,7 +383,7 @@ slug: "sdk-for-ios-explore-venues"
 
 - <div>
 
-  ` `<span id="/s:7heresdk32VenueEngineInitCompletionHandlera"></span>` `<span id="//apple_ref/swift/Alias/VenueEngineInitCompletionHandler" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-venues#/s:7heresdk32VenueEngineInitCompletionHandlera" class="token"><code>VenueEngineInitCompletionHandler</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk32VenueEngineInitCompletionHandlera"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Alias-VenueEngineInitCompletionHandler" class="dashAnchor"></span> <a href="sdk-for-ios-explore-venues#sdk-for-ios-explore-s-7heresdk32VenueEngineInitCompletionHandlera" class="token"><code>VenueEngineInitCompletionHandler</code></a> 
 
   </div>
 
@@ -417,8 +417,6 @@ slug: "sdk-for-ios-explore-venues"
   public typealias VenueEngineInitCompletionHandler = () -> Void
   ```
 
-  </pre>
-
   </div>
 
   </div>
@@ -429,7 +427,7 @@ slug: "sdk-for-ios-explore-venues"
 
 - <div>
 
-  ` `<span id="/s:7heresdk10VenueErrora"></span>` `<span id="//apple_ref/swift/Alias/VenueError" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-venues#/s:7heresdk10VenueErrora" class="token"><code>VenueError</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10VenueErrora"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Alias-VenueError" class="dashAnchor"></span> <a href="sdk-for-ios-explore-venues#sdk-for-ios-explore-s-7heresdk10VenueErrora" class="token"><code>VenueError</code></a> 
 
   </div>
 
@@ -465,6 +463,10 @@ slug: "sdk-for-ios-explore-venues"
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-venueerrorcode">VenueErrorCode</a>
+
   </div>
 
   </div>
@@ -473,7 +475,7 @@ slug: "sdk-for-ios-explore-venues"
 
 - <div>
 
-  ` `<span id="/s:7heresdk14VenueErrorCodeO"></span>` `<span id="//apple_ref/swift/Enum/VenueErrorCode" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-venues#/s:7heresdk14VenueErrorCodeO" class="token"><code>VenueErrorCode</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14VenueErrorCodeO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-VenueErrorCode" class="dashAnchor"></span> <a href="sdk-for-ios-explore-venues#sdk-for-ios-explore-s-7heresdk14VenueErrorCodeO" class="token"><code>VenueErrorCode</code></a> 
 
   </div>
 
@@ -523,7 +525,7 @@ slug: "sdk-for-ios-explore-venues"
 
 - <div>
 
-  ` `<span id="/s:7heresdk13VenueGeometryC"></span>` `<span id="//apple_ref/swift/Class/VenueGeometry" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-venues#/s:7heresdk13VenueGeometryC" class="token"><code>VenueGeometry</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13VenueGeometryC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-VenueGeometry" class="dashAnchor"></span> <a href="sdk-for-ios-explore-venues#sdk-for-ios-explore-s-7heresdk13VenueGeometryC" class="token"><code>VenueGeometry</code></a> 
 
   </div>
 
@@ -577,7 +579,7 @@ slug: "sdk-for-ios-explore-venues"
 
 - <div>
 
-  ` `<span id="/s:7heresdk23VenueGeometryFilterTypeO"></span>` `<span id="//apple_ref/swift/Enum/VenueGeometryFilterType" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-venues#/s:7heresdk23VenueGeometryFilterTypeO" class="token"><code>VenueGeometryFilterType</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk23VenueGeometryFilterTypeO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-VenueGeometryFilterType" class="dashAnchor"></span> <a href="sdk-for-ios-explore-venues#sdk-for-ios-explore-s-7heresdk23VenueGeometryFilterTypeO" class="token"><code>VenueGeometryFilterType</code></a> 
 
   </div>
 
@@ -623,7 +625,7 @@ slug: "sdk-for-ios-explore-venues"
 
 - <div>
 
-  ` `<span id="/s:7heresdk18VenueGeometryStyleC"></span>` `<span id="//apple_ref/swift/Class/VenueGeometryStyle" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-venues#/s:7heresdk18VenueGeometryStyleC" class="token"><code>VenueGeometryStyle</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18VenueGeometryStyleC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-VenueGeometryStyle" class="dashAnchor"></span> <a href="sdk-for-ios-explore-venues#sdk-for-ios-explore-s-7heresdk18VenueGeometryStyleC" class="token"><code>VenueGeometryStyle</code></a> 
 
   </div>
 
@@ -677,7 +679,7 @@ slug: "sdk-for-ios-explore-venues"
 
 - <div>
 
-  ` `<span id="/s:7heresdk9VenueInfoC"></span>` `<span id="//apple_ref/swift/Class/VenueInfo" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-venues#/s:7heresdk9VenueInfoC" class="token"><code>VenueInfo</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9VenueInfoC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-VenueInfo" class="dashAnchor"></span> <a href="sdk-for-ios-explore-venues#sdk-for-ios-explore-s-7heresdk9VenueInfoC" class="token"><code>VenueInfo</code></a> 
 
   </div>
 
@@ -731,7 +733,7 @@ slug: "sdk-for-ios-explore-venues"
 
 - <div>
 
-  ` `<span id="/s:7heresdk17VenueInfoDataLista"></span>` `<span id="//apple_ref/swift/Alias/VenueInfoDataList" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-venues#/s:7heresdk17VenueInfoDataLista" class="token"><code>VenueInfoDataList</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17VenueInfoDataLista"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Alias-VenueInfoDataList" class="dashAnchor"></span> <a href="sdk-for-ios-explore-venues#sdk-for-ios-explore-s-7heresdk17VenueInfoDataLista" class="token"><code>VenueInfoDataList</code></a> 
 
   </div>
 
@@ -767,6 +769,10 @@ slug: "sdk-for-ios-explore-venues"
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-venueinfo">VenueInfo</a>
+
   </div>
 
   </div>
@@ -775,7 +781,7 @@ slug: "sdk-for-ios-explore-venues"
 
 - <div>
 
-  ` `<span id="/s:7heresdk29VenueInfoListListenerDelegateP"></span>` `<span id="//apple_ref/swift/Protocol/VenueInfoListListenerDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-venues#/s:7heresdk29VenueInfoListListenerDelegateP" class="token"><code>VenueInfoListListenerDelegate</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk29VenueInfoListListenerDelegateP"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Protocol-VenueInfoListListenerDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-explore-venues#sdk-for-ios-explore-s-7heresdk29VenueInfoListListenerDelegateP" class="token"><code>VenueInfoListListenerDelegate</code></a> 
 
   </div>
 
@@ -821,7 +827,7 @@ slug: "sdk-for-ios-explore-venues"
 
 - <div>
 
-  ` `<span id="/s:7heresdk15VenueLabelStyleC"></span>` `<span id="//apple_ref/swift/Class/VenueLabelStyle" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-venues#/s:7heresdk15VenueLabelStyleC" class="token"><code>VenueLabelStyle</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15VenueLabelStyleC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-VenueLabelStyle" class="dashAnchor"></span> <a href="sdk-for-ios-explore-venues#sdk-for-ios-explore-s-7heresdk15VenueLabelStyleC" class="token"><code>VenueLabelStyle</code></a> 
 
   </div>
 
@@ -875,7 +881,7 @@ slug: "sdk-for-ios-explore-venues"
 
 - <div>
 
-  ` `<span id="/s:7heresdk10VenueLevelC"></span>` `<span id="//apple_ref/swift/Class/VenueLevel" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-venues#/s:7heresdk10VenueLevelC" class="token"><code>VenueLevel</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10VenueLevelC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-VenueLevel" class="dashAnchor"></span> <a href="sdk-for-ios-explore-venues#sdk-for-ios-explore-s-7heresdk10VenueLevelC" class="token"><code>VenueLevel</code></a> 
 
   </div>
 
@@ -929,7 +935,7 @@ slug: "sdk-for-ios-explore-venues"
 
 - <div>
 
-  ` `<span id="/s:7heresdk27VenueLevelSelectionDelegateP"></span>` `<span id="//apple_ref/swift/Protocol/VenueLevelSelectionDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-venues#/s:7heresdk27VenueLevelSelectionDelegateP" class="token"><code>VenueLevelSelectionDelegate</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk27VenueLevelSelectionDelegateP"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Protocol-VenueLevelSelectionDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-explore-venues#sdk-for-ios-explore-s-7heresdk27VenueLevelSelectionDelegateP" class="token"><code>VenueLevelSelectionDelegate</code></a> 
 
   </div>
 
@@ -975,7 +981,7 @@ slug: "sdk-for-ios-explore-venues"
 
 - <div>
 
-  ` `<span id="/s:7heresdk22VenueLifecycleDelegateP"></span>` `<span id="//apple_ref/swift/Protocol/VenueLifecycleDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-venues#/s:7heresdk22VenueLifecycleDelegateP" class="token"><code>VenueLifecycleDelegate</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk22VenueLifecycleDelegateP"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Protocol-VenueLifecycleDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-explore-venues#sdk-for-ios-explore-s-7heresdk22VenueLifecycleDelegateP" class="token"><code>VenueLifecycleDelegate</code></a> 
 
   </div>
 
@@ -1021,7 +1027,7 @@ slug: "sdk-for-ios-explore-venues"
 
 - <div>
 
-  ` `<span id="/s:7heresdk21VenueLoadErrorHandlera"></span>` `<span id="//apple_ref/swift/Alias/VenueLoadErrorHandler" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-venues#/s:7heresdk21VenueLoadErrorHandlera" class="token"><code>VenueLoadErrorHandler</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk21VenueLoadErrorHandlera"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Alias-VenueLoadErrorHandler" class="dashAnchor"></span> <a href="sdk-for-ios-explore-venues#sdk-for-ios-explore-s-7heresdk21VenueLoadErrorHandlera" class="token"><code>VenueLoadErrorHandler</code></a> 
 
   </div>
 
@@ -1057,12 +1063,14 @@ slug: "sdk-for-ios-explore-venues"
   Swift
 
   ``` highlight
-  public typealias VenueLoadErrorHandler = ( _ error : VenueErrorCode ?) -> Void
+  public typealias VenueLoadErrorHandler = (_ error: VenueErrorCode?) -> Void
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-venueerrorcode">VenueErrorCode</a>
 
   </div>
 
@@ -1093,7 +1101,7 @@ slug: "sdk-for-ios-explore-venues"
 
 - <div>
 
-  ` `<span id="/s:7heresdk8VenueMapC"></span>` `<span id="//apple_ref/swift/Class/VenueMap" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-venues#/s:7heresdk8VenueMapC" class="token"><code>VenueMap</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk8VenueMapC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-VenueMap" class="dashAnchor"></span> <a href="sdk-for-ios-explore-venues#sdk-for-ios-explore-s-7heresdk8VenueMapC" class="token"><code>VenueMap</code></a> 
 
   </div>
 
@@ -1147,7 +1155,7 @@ slug: "sdk-for-ios-explore-venues"
 
 - <div>
 
-  ` `<span id="/s:7heresdk16VenueMapDelegateP"></span>` `<span id="//apple_ref/swift/Protocol/VenueMapDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-venues#/s:7heresdk16VenueMapDelegateP" class="token"><code>VenueMapDelegate</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16VenueMapDelegateP"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Protocol-VenueMapDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-explore-venues#sdk-for-ios-explore-s-7heresdk16VenueMapDelegateP" class="token"><code>VenueMapDelegate</code></a> 
 
   </div>
 
@@ -1193,7 +1201,7 @@ slug: "sdk-for-ios-explore-venues"
 
 - <div>
 
-  ` `<span id="/s:7heresdk25VenueMapLifecycleDelegateP"></span>` `<span id="//apple_ref/swift/Protocol/VenueMapLifecycleDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-venues#/s:7heresdk25VenueMapLifecycleDelegateP" class="token"><code>VenueMapLifecycleDelegate</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk25VenueMapLifecycleDelegateP"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Protocol-VenueMapLifecycleDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-explore-venues#sdk-for-ios-explore-s-7heresdk25VenueMapLifecycleDelegateP" class="token"><code>VenueMapLifecycleDelegate</code></a> 
 
   </div>
 
@@ -1239,7 +1247,7 @@ slug: "sdk-for-ios-explore-venues"
 
 - <div>
 
-  ` `<span id="/s:7heresdk10VenueModelC"></span>` `<span id="//apple_ref/swift/Class/VenueModel" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-venues#/s:7heresdk10VenueModelC" class="token"><code>VenueModel</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10VenueModelC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-VenueModel" class="dashAnchor"></span> <a href="sdk-for-ios-explore-venues#sdk-for-ios-explore-s-7heresdk10VenueModelC" class="token"><code>VenueModel</code></a> 
 
   </div>
 
@@ -1293,7 +1301,7 @@ slug: "sdk-for-ios-explore-venues"
 
 - <div>
 
-  ` `<span id="/s:7heresdk22VenueSelectionDelegateP"></span>` `<span id="//apple_ref/swift/Protocol/VenueSelectionDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-venues#/s:7heresdk22VenueSelectionDelegateP" class="token"><code>VenueSelectionDelegate</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk22VenueSelectionDelegateP"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Protocol-VenueSelectionDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-explore-venues#sdk-for-ios-explore-s-7heresdk22VenueSelectionDelegateP" class="token"><code>VenueSelectionDelegate</code></a> 
 
   </div>
 
@@ -1339,7 +1347,7 @@ slug: "sdk-for-ios-explore-venues"
 
 - <div>
 
-  ` `<span id="/s:7heresdk12VenueServiceC"></span>` `<span id="//apple_ref/swift/Class/VenueService" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-venues#/s:7heresdk12VenueServiceC" class="token"><code>VenueService</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12VenueServiceC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-VenueService" class="dashAnchor"></span> <a href="sdk-for-ios-explore-venues#sdk-for-ios-explore-s-7heresdk12VenueServiceC" class="token"><code>VenueService</code></a> 
 
   </div>
 
@@ -1397,7 +1405,7 @@ slug: "sdk-for-ios-explore-venues"
 
 - <div>
 
-  ` `<span id="/s:7heresdk20VenueServiceDelegateP"></span>` `<span id="//apple_ref/swift/Protocol/VenueServiceDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-venues#/s:7heresdk20VenueServiceDelegateP" class="token"><code>VenueServiceDelegate</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk20VenueServiceDelegateP"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Protocol-VenueServiceDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-explore-venues#sdk-for-ios-explore-s-7heresdk20VenueServiceDelegateP" class="token"><code>VenueServiceDelegate</code></a> 
 
   </div>
 
@@ -1443,7 +1451,7 @@ slug: "sdk-for-ios-explore-venues"
 
 - <div>
 
-  ` `<span id="/s:7heresdk22VenueServiceInitStatusO"></span>` `<span id="//apple_ref/swift/Enum/VenueServiceInitStatus" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-venues#/s:7heresdk22VenueServiceInitStatusO" class="token"><code>VenueServiceInitStatus</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk22VenueServiceInitStatusO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-VenueServiceInitStatus" class="dashAnchor"></span> <a href="sdk-for-ios-explore-venues#sdk-for-ios-explore-s-7heresdk22VenueServiceInitStatusO" class="token"><code>VenueServiceInitStatus</code></a> 
 
   </div>
 
@@ -1489,7 +1497,7 @@ slug: "sdk-for-ios-explore-venues"
 
 - <div>
 
-  ` `<span id="/s:7heresdk10VenueStyleC"></span>` `<span id="//apple_ref/swift/Class/VenueStyle" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-venues#/s:7heresdk10VenueStyleC" class="token"><code>VenueStyle</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10VenueStyleC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-VenueStyle" class="dashAnchor"></span> <a href="sdk-for-ios-explore-venues#sdk-for-ios-explore-s-7heresdk10VenueStyleC" class="token"><code>VenueStyle</code></a> 
 
   </div>
 
@@ -1543,7 +1551,7 @@ slug: "sdk-for-ios-explore-venues"
 
 - <div>
 
-  ` `<span id="/s:7heresdk13VenueTopologyC"></span>` `<span id="//apple_ref/swift/Class/VenueTopology" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-venues#/s:7heresdk13VenueTopologyC" class="token"><code>VenueTopology</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13VenueTopologyC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-VenueTopology" class="dashAnchor"></span> <a href="sdk-for-ios-explore-venues#sdk-for-ios-explore-s-7heresdk13VenueTopologyC" class="token"><code>VenueTopology</code></a> 
 
   </div>
 
@@ -1597,7 +1605,7 @@ slug: "sdk-for-ios-explore-venues"
 
 - <div>
 
-  ` `<span id="/s:7heresdk18VenueTransportModeO"></span>` `<span id="//apple_ref/swift/Enum/VenueTransportMode" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-venues#/s:7heresdk18VenueTransportModeO" class="token"><code>VenueTransportMode</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18VenueTransportModeO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-VenueTransportMode" class="dashAnchor"></span> <a href="sdk-for-ios-explore-venues#sdk-for-ios-explore-s-7heresdk18VenueTransportModeO" class="token"><code>VenueTransportMode</code></a> 
 
   </div>
 

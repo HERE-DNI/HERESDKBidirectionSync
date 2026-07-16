@@ -10,10 +10,9 @@ slug: "sdk-for-ios-explore-structs-scooteroptions"
 <div class="language">
 
 ``` highlight
-@available(*, deprecated, message: "Will be removed in v4.28.0. Use `RoutingOptions` class instead.") public struct ScooterOptions : Hashable
+@available(*, deprecated, message: "Will be removed in v4.28.0. Use `RoutingOptions` class instead.")
+public struct ScooterOptions : Hashable
 ```
-
-</pre>
 
 </div>
 
@@ -29,7 +28,7 @@ All the options to specify how a scooter route should be calculated.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14ScooterOptionsV05routeC0AA05RouteC0Vvp"></span>` `<span id="//apple_ref/swift/Property/routeOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-scooteroptions#/s:7heresdk14ScooterOptionsV05routeC0AA05RouteC0Vvp" class="token"><code>routeOptions</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14ScooterOptionsV05routeC0AA05RouteC0Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-routeOptions" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-scooteroptions#sdk-for-ios-explore-s-7heresdk14ScooterOptionsV05routeC0AA05RouteC0Vvp" class="token"><code>routeOptions</code></a> 
 
   </div>
 
@@ -65,6 +64,10 @@ All the options to specify how a scooter route should be calculated.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-routeoptions">RouteOptions</a>
+
   </div>
 
   </div>
@@ -73,7 +76,7 @@ All the options to specify how a scooter route should be calculated.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14ScooterOptionsV04textC0AA09RouteTextC0Vvp"></span>` `<span id="//apple_ref/swift/Property/textOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-scooteroptions#/s:7heresdk14ScooterOptionsV04textC0AA09RouteTextC0Vvp" class="token"><code>textOptions</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14ScooterOptionsV04textC0AA09RouteTextC0Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-textOptions" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-scooteroptions#sdk-for-ios-explore-s-7heresdk14ScooterOptionsV04textC0AA09RouteTextC0Vvp" class="token"><code>textOptions</code></a> 
 
   </div>
 
@@ -109,6 +112,10 @@ All the options to specify how a scooter route should be calculated.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-routetextoptions">RouteTextOptions</a>
+
   </div>
 
   </div>
@@ -117,7 +124,7 @@ All the options to specify how a scooter route should be calculated.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14ScooterOptionsV09avoidanceC0AA09AvoidanceC0Vvp"></span>` `<span id="//apple_ref/swift/Property/avoidanceOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-scooteroptions#/s:7heresdk14ScooterOptionsV09avoidanceC0AA09AvoidanceC0Vvp" class="token"><code>avoidanceOptions</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14ScooterOptionsV09avoidanceC0AA09AvoidanceC0Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-avoidanceOptions" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-scooteroptions#sdk-for-ios-explore-s-7heresdk14ScooterOptionsV09avoidanceC0AA09AvoidanceC0Vvp" class="token"><code>avoidanceOptions</code></a> 
 
   </div>
 
@@ -153,6 +160,10 @@ All the options to specify how a scooter route should be calculated.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-avoidanceoptions">AvoidanceOptions</a>
+
   </div>
 
   </div>
@@ -161,7 +172,7 @@ All the options to specify how a scooter route should be calculated.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14ScooterOptionsV04tollC0AA04TollC0Vvp"></span>` `<span id="//apple_ref/swift/Property/tollOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-scooteroptions#/s:7heresdk14ScooterOptionsV04tollC0AA04TollC0Vvp" class="token"><code>tollOptions</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14ScooterOptionsV04tollC0AA04TollC0Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-tollOptions" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-scooteroptions#sdk-for-ios-explore-s-7heresdk14ScooterOptionsV04tollC0AA04TollC0Vvp" class="token"><code>tollOptions</code></a> 
 
   </div>
 
@@ -197,6 +208,10 @@ All the options to specify how a scooter route should be calculated.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-tolloptions">TollOptions</a>
+
   </div>
 
   </div>
@@ -205,7 +220,7 @@ All the options to specify how a scooter route should be calculated.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14ScooterOptionsV15occupantsNumbers5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/occupantsNumber" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-scooteroptions#/s:7heresdk14ScooterOptionsV15occupantsNumbers5Int32Vvp" class="token"><code>occupantsNumber</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14ScooterOptionsV15occupantsNumbers5Int32Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-occupantsNumber" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-scooteroptions#sdk-for-ios-explore-s-7heresdk14ScooterOptionsV15occupantsNumbers5Int32Vvp" class="token"><code>occupantsNumber</code></a> 
 
   </div>
 
@@ -249,7 +264,7 @@ All the options to specify how a scooter route should be calculated.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14ScooterOptionsV27lastCharacterOfLicensePlateSSSgvp"></span>` `<span id="//apple_ref/swift/Property/lastCharacterOfLicensePlate" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-scooteroptions#/s:7heresdk14ScooterOptionsV27lastCharacterOfLicensePlateSSSgvp" class="token"><code>lastCharacterOfLicensePlate</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14ScooterOptionsV27lastCharacterOfLicensePlateSSSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-lastCharacterOfLicensePlate" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-scooteroptions#sdk-for-ios-explore-s-7heresdk14ScooterOptionsV27lastCharacterOfLicensePlateSSSgvp" class="token"><code>lastCharacterOfLicensePlate</code></a> 
 
   </div>
 
@@ -295,7 +310,7 @@ All the options to specify how a scooter route should be calculated.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14ScooterOptionsV18maxSpeedOnSegmentsSayAA03MaxeF7SegmentVGvp"></span>` `<span id="//apple_ref/swift/Property/maxSpeedOnSegments" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-scooteroptions#/s:7heresdk14ScooterOptionsV18maxSpeedOnSegmentsSayAA03MaxeF7SegmentVGvp" class="token"><code>maxSpeedOnSegments</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14ScooterOptionsV18maxSpeedOnSegmentsSayAA03MaxeF7SegmentVGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-maxSpeedOnSegments" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-scooteroptions#sdk-for-ios-explore-s-7heresdk14ScooterOptionsV18maxSpeedOnSegmentsSayAA03MaxeF7SegmentVGvp" class="token"><code>maxSpeedOnSegments</code></a> 
 
   </div>
 
@@ -313,7 +328,7 @@ All the options to specify how a scooter route should be calculated.
 
   <div class="abstract">
 
-  Segments with restriction on maximum <a href="sdk-for-ios-explore-structs-dynamicspeedinfo#/s:7heresdk16DynamicSpeedInfoV04baseC17InMetersPerSecondSdvp">`DynamicSpeedInfo.baseSpeedInMetersPerSecond`</a>.
+  Segments with restriction on maximum <a href="sdk-for-ios-explore-structs-dynamicspeedinfo#sdk-for-ios-explore-s-7heresdk16DynamicSpeedInfoV04baseC17InMetersPerSecondSdvp">`DynamicSpeedInfo.baseSpeedInMetersPerSecond`</a>.
 
   </div>
 
@@ -331,6 +346,10 @@ All the options to specify how a scooter route should be calculated.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-maxspeedonsegment">MaxSpeedOnSegment</a>
+
   </div>
 
   </div>
@@ -339,7 +358,7 @@ All the options to specify how a scooter route should be calculated.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14ScooterOptionsV12allowHighwaySbvp"></span>` `<span id="//apple_ref/swift/Property/allowHighway" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-scooteroptions#/s:7heresdk14ScooterOptionsV12allowHighwaySbvp" class="token"><code>allowHighway</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14ScooterOptionsV12allowHighwaySbvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-allowHighway" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-scooteroptions#sdk-for-ios-explore-s-7heresdk14ScooterOptionsV12allowHighwaySbvp" class="token"><code>allowHighway</code></a> 
 
   </div>
 
@@ -357,7 +376,7 @@ All the options to specify how a scooter route should be calculated.
 
   <div class="abstract">
 
-  Specifies whether scooter is allowed on highway or not. `True` means scooter is allowed to use highways and `false` means otherwise. By default it is set to `false`. Note that there is a similar parameter in <a href="sdk-for-ios-explore-structs-avoidanceoptions">`AvoidanceOptions`</a>, to disallow highway usage, see <a href="sdk-for-ios-explore-enums-roadfeatures#/s:7heresdk12RoadFeaturesO23controlledAccessHighwayyA2CmF">`RoadFeatures.controlledAccessHighway`</a>. As the avoidance options takes precedence, if this parameter is also used, then scooters are not allowed to use highways even if `allowHighway` is set to `true`. However, if no alternative route is possible, the calculated route may use highways. In such a case, a <a href="sdk-for-ios-explore-structs-sectionnotice">`SectionNotice`</a> will be provided in the related <a href="sdk-for-ios-explore-classes-section">`Section`</a> to indicate that the highway usage restriction is violated on this route. A few examples:
+  Specifies whether scooter is allowed on highway or not. `True` means scooter is allowed to use highways and `false` means otherwise. By default it is set to `false`. Note that there is a similar parameter in <a href="sdk-for-ios-explore-structs-avoidanceoptions">`AvoidanceOptions`</a>, to disallow highway usage, see <a href="sdk-for-ios-explore-enums-roadfeatures#sdk-for-ios-explore-s-7heresdk12RoadFeaturesO23controlledAccessHighwayyA2CmF">`RoadFeatures.controlledAccessHighway`</a>. As the avoidance options takes precedence, if this parameter is also used, then scooters are not allowed to use highways even if `allowHighway` is set to `true`. However, if no alternative route is possible, the calculated route may use highways. In such a case, a <a href="sdk-for-ios-explore-structs-sectionnotice">`SectionNotice`</a> will be provided in the related <a href="sdk-for-ios-explore-classes-section">`Section`</a> to indicate that the highway usage restriction is violated on this route. A few examples:
 
   1 - If no avoidance option is set, and `allowHighway = false`, when no route is found without highway usage, a notice is received.
 
@@ -391,7 +410,7 @@ All the options to specify how a scooter route should be calculated.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14ScooterOptionsV28engineSizeInCubicCentimeterss5Int32VSgvp"></span>` `<span id="//apple_ref/swift/Property/engineSizeInCubicCentimeters" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-scooteroptions#/s:7heresdk14ScooterOptionsV28engineSizeInCubicCentimeterss5Int32VSgvp" class="token"><code>engineSizeInCubicCentimeters</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14ScooterOptionsV28engineSizeInCubicCentimeterss5Int32VSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-engineSizeInCubicCentimeters" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-scooteroptions#sdk-for-ios-explore-s-7heresdk14ScooterOptionsV28engineSizeInCubicCentimeterss5Int32VSgvp" class="token"><code>engineSizeInCubicCentimeters</code></a> 
 
   </div>
 
@@ -437,7 +456,7 @@ All the options to specify how a scooter route should be calculated.
 
 - <div>
 
-      init(routeOptions: textOptions: avoidanceOptions: tollOptions: occupantsNumber: lastCharacterOfLicensePlate: maxSpeedOnSegments: allowHighway: engineSizeInCubicCentimeters: )
+   <span id="sdk-for-ios-explore-s-7heresdk14ScooterOptionsV05routeC004textC009avoidanceC004tollC015occupantsNumber27lastCharacterOfLicensePlate18maxSpeedOnSegments12allowHighway28engineSizeInCubicCentimetersAcA05RouteC0V_AA0z4TextC0VAA09AvoidanceC0VAA04TollC0Vs5Int32VSSSgSayAA03MaxpQ7SegmentVGSbAVSgtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-routeOptions-textOptions-avoidanceOptions-tollOptions-occupantsNumber-lastCharacterOfLicensePlate-maxSpeedOnSegments-allowHighway-engineSizeInCubicCentimeters" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-scooteroptions#sdk-for-ios-explore-s-7heresdk14ScooterOptionsV05routeC004textC009avoidanceC004tollC015occupantsNumber27lastCharacterOfLicensePlate18maxSpeedOnSegments12allowHighway28engineSizeInCubicCentimetersAcA05RouteC0V_AA0z4TextC0VAA09AvoidanceC0VAA04TollC0Vs5Int32VSSSgSayAA03MaxpQ7SegmentVGSbAVSgtcfc" class="token"><code>init(routeOptions:</code><wbr></wbr><code>textOptions:</code><wbr></wbr><code>avoidanceOptions:</code><wbr></wbr><code>tollOptions:</code><wbr></wbr><code>occupantsNumber:</code><wbr></wbr><code>lastCharacterOfLicensePlate:</code><wbr></wbr><code>maxSpeedOnSegments:</code><wbr></wbr><code>allowHighway:</code><wbr></wbr><code>engineSizeInCubicCentimeters:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -468,8 +487,8 @@ All the options to specify how a scooter route should be calculated.
 
     If this value is not set, such license plate-based restrictions are ignored, and routing is performed without considering them.
 
-    - maxSpeedOnSegments: Segments with restriction on maximum <a href="sdk-for-ios-explore-structs-dynamicspeedinfo#/s:7heresdk16DynamicSpeedInfoV04baseC17InMetersPerSecondSdvp">`DynamicSpeedInfo.baseSpeedInMetersPerSecond`</a>.
-    - allowHighway: Specifies whether scooter is allowed on highway or not. `True` means scooter is allowed to use highways and `false` means otherwise. By default it is set to `false`. Note that there is a similar parameter in <a href="sdk-for-ios-explore-structs-avoidanceoptions">`AvoidanceOptions`</a>, to disallow highway usage, see <a href="sdk-for-ios-explore-enums-roadfeatures#/s:7heresdk12RoadFeaturesO23controlledAccessHighwayyA2CmF">`RoadFeatures.controlledAccessHighway`</a>. As the avoidance options takes precedence, if this parameter is also used, then scooters are not allowed to use highways even if <a href="sdk-for-ios-explore-structs-scooteroptions#/s:7heresdk14ScooterOptionsV12allowHighwaySbvp">`allowHighway`</a> is set to `true`. However, if no alternative route is possible, the calculated route may use highways. In such a case, a <a href="sdk-for-ios-explore-structs-sectionnotice">`SectionNotice`</a> will be provided in the related <a href="sdk-for-ios-explore-classes-section">`Section`</a> to indicate that the highway usage restriction is violated on this route. A few examples:
+    - maxSpeedOnSegments: Segments with restriction on maximum <a href="sdk-for-ios-explore-structs-dynamicspeedinfo#sdk-for-ios-explore-s-7heresdk16DynamicSpeedInfoV04baseC17InMetersPerSecondSdvp">`DynamicSpeedInfo.baseSpeedInMetersPerSecond`</a>.
+    - allowHighway: Specifies whether scooter is allowed on highway or not. `True` means scooter is allowed to use highways and `false` means otherwise. By default it is set to `false`. Note that there is a similar parameter in <a href="sdk-for-ios-explore-structs-avoidanceoptions">`AvoidanceOptions`</a>, to disallow highway usage, see <a href="sdk-for-ios-explore-enums-roadfeatures#sdk-for-ios-explore-s-7heresdk12RoadFeaturesO23controlledAccessHighwayyA2CmF">`RoadFeatures.controlledAccessHighway`</a>. As the avoidance options takes precedence, if this parameter is also used, then scooters are not allowed to use highways even if <a href="sdk-for-ios-explore-structs-scooteroptions#sdk-for-ios-explore-s-7heresdk14ScooterOptionsV12allowHighwaySbvp">`allowHighway`</a> is set to `true`. However, if no alternative route is possible, the calculated route may use highways. In such a case, a <a href="sdk-for-ios-explore-structs-sectionnotice">`SectionNotice`</a> will be provided in the related <a href="sdk-for-ios-explore-classes-section">`Section`</a> to indicate that the highway usage restriction is violated on this route. A few examples:
 
     1 - If no avoidance option is set, and `allowHighway = false`, when no route is found without highway usage, a notice is received.
 
@@ -494,12 +513,18 @@ All the options to specify how a scooter route should be calculated.
   Swift
 
   ``` highlight
-  public init ( routeOptions : RouteOptions = RouteOptions (), textOptions : RouteTextOptions = RouteTextOptions (), avoidanceOptions : AvoidanceOptions = AvoidanceOptions (), tollOptions : TollOptions = TollOptions (), occupantsNumber : Int32 = 1 , lastCharacterOfLicensePlate : String ? = nil , maxSpeedOnSegments : [ MaxSpeedOnSegment ] = [], allowHighway : Bool = false , engineSizeInCubicCentimeters : Int32 ? = nil )
+  public init(routeOptions: RouteOptions = RouteOptions(), textOptions: RouteTextOptions = RouteTextOptions(), avoidanceOptions: AvoidanceOptions = AvoidanceOptions(), tollOptions: TollOptions = TollOptions(), occupantsNumber: Int32 = 1, lastCharacterOfLicensePlate: String? = nil, maxSpeedOnSegments: [MaxSpeedOnSegment] = [], allowHighway: Bool = false, engineSizeInCubicCentimeters: Int32? = nil)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-routeoptions">RouteOptions</a>
+  - <a href="sdk-for-ios-explore-structs-routetextoptions">RouteTextOptions</a>
+  - <a href="sdk-for-ios-explore-structs-avoidanceoptions">AvoidanceOptions</a>
+  - <a href="sdk-for-ios-explore-structs-tolloptions">TollOptions</a>
+  - <a href="sdk-for-ios-explore-structs-maxspeedonsegment">MaxSpeedOnSegment</a>
 
   </div>
 

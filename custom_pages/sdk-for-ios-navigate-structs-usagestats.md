@@ -29,7 +29,7 @@ A class that gathers statistics of the HERE SDK network usage for uploaded and d
 
 - <div>
 
-  ` `<span id="/s:7heresdk10UsageStatsV07networkC0SayAC07NetworkC0VGvp"></span>` `<span id="//apple_ref/swift/Property/networkStats" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-usagestats#/s:7heresdk10UsageStatsV07networkC0SayAC07NetworkC0VGvp" class="token"><code>networkStats</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10UsageStatsV07networkC0SayAC07NetworkC0VGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-networkStats" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-usagestats#sdk-for-ios-navigate-s-7heresdk10UsageStatsV07networkC0SayAC07NetworkC0VGvp" class="token"><code>networkStats</code></a> 
 
   </div>
 
@@ -65,6 +65,10 @@ A class that gathers statistics of the HERE SDK network usage for uploaded and d
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-usagestats-networkstats">NetworkStats</a>
+
   </div>
 
   </div>
@@ -73,7 +77,7 @@ A class that gathers statistics of the HERE SDK network usage for uploaded and d
 
 - <div>
 
-  ` `<span id="/s:7heresdk10UsageStatsV7featureAC7FeatureOvp"></span>` `<span id="//apple_ref/swift/Property/feature" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-usagestats#/s:7heresdk10UsageStatsV7featureAC7FeatureOvp" class="token"><code>feature</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10UsageStatsV7featureAC7FeatureOvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-feature" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-usagestats#sdk-for-ios-navigate-s-7heresdk10UsageStatsV7featureAC7FeatureOvp" class="token"><code>feature</code></a> 
 
   </div>
 
@@ -109,6 +113,10 @@ A class that gathers statistics of the HERE SDK network usage for uploaded and d
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-usagestats-feature">Feature</a>
+
   </div>
 
   </div>
@@ -117,7 +125,7 @@ A class that gathers statistics of the HERE SDK network usage for uploaded and d
 
 - <div>
 
-      init(networkStats: feature: )
+   <span id="sdk-for-ios-navigate-s-7heresdk10UsageStatsV07networkC07featureACSayAC07NetworkC0VG_AC7FeatureOtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-networkStats-feature" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-usagestats#sdk-for-ios-navigate-s-7heresdk10UsageStatsV07networkC07featureACSayAC07NetworkC0VG_AC7FeatureOtcfc" class="token"><code>init(networkStats:</code><wbr></wbr><code>feature:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -148,12 +156,15 @@ A class that gathers statistics of the HERE SDK network usage for uploaded and d
   Swift
 
   ``` highlight
-  public init ( networkStats : [ UsageStats . NetworkStats ], feature : UsageStats . Feature )
+  public init(networkStats: [UsageStats.NetworkStats], feature: UsageStats.Feature)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-usagestats-networkstats">NetworkStats</a>
+  - <a href="sdk-for-ios-navigate-structs-usagestats-feature">Feature</a>
 
   </div>
 
@@ -163,7 +174,7 @@ A class that gathers statistics of the HERE SDK network usage for uploaded and d
 
 - <div>
 
-  ` `<span id="/s:7heresdk10UsageStatsV7FeatureO"></span>` `<span id="//apple_ref/swift/Enum/Feature" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-usagestats#/s:7heresdk10UsageStatsV7FeatureO" class="token"><code>Feature</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10UsageStatsV7FeatureO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-Feature" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-usagestats#sdk-for-ios-navigate-s-7heresdk10UsageStatsV7FeatureO" class="token"><code>Feature</code></a> 
 
   </div>
 
@@ -209,7 +220,7 @@ A class that gathers statistics of the HERE SDK network usage for uploaded and d
 
 - <div>
 
-  ` `<span id="/s:7heresdk10UsageStatsV07NetworkC0V"></span>` `<span id="//apple_ref/swift/Struct/NetworkStats" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-usagestats#/s:7heresdk10UsageStatsV07NetworkC0V" class="token"><code>NetworkStats</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10UsageStatsV07NetworkC0V"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-NetworkStats" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-usagestats#sdk-for-ios-navigate-s-7heresdk10UsageStatsV07NetworkC0V" class="token"><code>NetworkStats</code></a> 
 
   </div>
 

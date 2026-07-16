@@ -27,7 +27,7 @@ An integer range \[min, max\] with inclusive minimum and maximum value.
 
 - <div>
 
-  ` `<span id="/s:7heresdk12IntegerRangeV3mins5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/min" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-integerrange#/s:7heresdk12IntegerRangeV3mins5Int32Vvp" class="token"><code>min</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12IntegerRangeV3mins5Int32Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-min" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-integerrange#sdk-for-ios-navigate-s-7heresdk12IntegerRangeV3mins5Int32Vvp" class="token"><code>min</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ An integer range \[min, max\] with inclusive minimum and maximum value.
 
 - <div>
 
-  ` `<span id="/s:7heresdk12IntegerRangeV3maxs5Int32VSgvp"></span>` `<span id="//apple_ref/swift/Property/max" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-integerrange#/s:7heresdk12IntegerRangeV3maxs5Int32VSgvp" class="token"><code>max</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12IntegerRangeV3maxs5Int32VSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-max" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-integerrange#sdk-for-ios-navigate-s-7heresdk12IntegerRangeV3maxs5Int32VSgvp" class="token"><code>max</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ An integer range \[min, max\] with inclusive minimum and maximum value.
 
 - <div>
 
-      init(min: max: )
+   <span id="sdk-for-ios-navigate-s-7heresdk12IntegerRangeV3min3maxACs5Int32V_AGSgtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-min-max" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-integerrange#sdk-for-ios-navigate-s-7heresdk12IntegerRangeV3min3maxACs5Int32V_AGSgtcfc" class="token"><code>init(min:</code><wbr></wbr><code>max:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -146,10 +146,8 @@ An integer range \[min, max\] with inclusive minimum and maximum value.
   Swift
 
   ``` highlight
-  public init ( min : Int32 , max : Int32 ? = nil )
+  public init(min: Int32, max: Int32? = nil)
   ```
-
-  </pre>
 
   </div>
 

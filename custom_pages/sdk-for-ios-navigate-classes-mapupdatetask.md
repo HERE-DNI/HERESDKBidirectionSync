@@ -35,7 +35,7 @@ A class to control the map update process.
 
 - <div>
 
-      cancel()
+   <span id="sdk-for-ios-navigate-s-7heresdk13MapUpdateTaskC6cancelyyF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-cancel" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapupdatetask#sdk-for-ios-navigate-s-7heresdk13MapUpdateTaskC6cancelyyF" class="token"><code>cancel()</code></a> 
 
   </div>
 
@@ -57,7 +57,7 @@ A class to control the map update process.
 
       onComplete(...)
 
-  . <a href="sdk-for-ios-navigate-enums-maploadererror#/s:7heresdk14MapLoaderErrorO18operationCancelledyA2CmF">`MapLoaderError.operationCancelled`</a> will be reported for a successful cancel operation.
+  . <a href="sdk-for-ios-navigate-enums-maploadererror#sdk-for-ios-navigate-s-7heresdk14MapLoaderErrorO18operationCancelledyA2CmF">`MapLoaderError.operationCancelled`</a> will be reported for a successful cancel operation.
   </p>
 
   </div>
@@ -71,10 +71,8 @@ A class to control the map update process.
   Swift
 
   ``` highlight
-  public func cancel ()
+  public func cancel()
   ```
-
-  </pre>
 
   </div>
 
@@ -86,7 +84,7 @@ A class to control the map update process.
 
 - <div>
 
-      pause()
+   <span id="sdk-for-ios-navigate-s-7heresdk13MapUpdateTaskC5pauseyyF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-pause" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapupdatetask#sdk-for-ios-navigate-s-7heresdk13MapUpdateTaskC5pauseyyF" class="token"><code>pause()</code></a> 
 
   </div>
 
@@ -122,10 +120,8 @@ A class to control the map update process.
   Swift
 
   ``` highlight
-  public func pause ()
+  public func pause()
   ```
-
-  </pre>
 
   </div>
 
@@ -137,7 +133,7 @@ A class to control the map update process.
 
 - <div>
 
-      resume()
+   <span id="sdk-for-ios-navigate-s-7heresdk13MapUpdateTaskC6resumeyyF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-resume" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapupdatetask#sdk-for-ios-navigate-s-7heresdk13MapUpdateTaskC6resumeyyF" class="token"><code>resume()</code></a> 
 
   </div>
 
@@ -168,10 +164,8 @@ A class to control the map update process.
   Swift
 
   ``` highlight
-  public func resume ()
+  public func resume()
   ```
-
-  </pre>
 
   </div>
 

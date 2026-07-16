@@ -10,17 +10,16 @@ slug: "sdk-for-ios-explore-structs-evcaroptions"
 <div class="language">
 
 ``` highlight
-@available(*, deprecated, message: "Will be removed in v4.28.0. Use `RoutingOptions` class instead.") public struct EVCarOptions : Hashable
+@available(*, deprecated, message: "Will be removed in v4.28.0. Use `RoutingOptions` class instead.")
+public struct EVCarOptions : Hashable
 ```
-
-</pre>
 
 </div>
 
 </div>
 
 All the options to specify how a route for an electric car should be calculated. At minimum, a valid <a href="sdk-for-ios-explore-structs-evconsumptionmodel">`EVConsumptionModel`</a> must be set or the route calculation will fail.\
-Note: <a href="sdk-for-ios-explore-structs-evcaroptions#/s:7heresdk12EVCarOptionsV18ensureReachabilitySbvp">`EVCarOptions.ensureReachability`</a> must be `true` to make sure that all stopovers are reachable. For this, charging stations may be added to the route. If <a href="sdk-for-ios-explore-structs-evcaroptions#/s:7heresdk12EVCarOptionsV18ensureReachabilitySbvp">`EVCarOptions.ensureReachability`</a> is true, you need to specify the required route options and battery specifications that include the current charge level of the battery (<a href="sdk-for-ios-explore-structs-batteryspecifications#/s:7heresdk21BatterySpecificationsV28initialChargeInKilowattHoursSdvp">`BatterySpecifications.initialChargeInKilowattHours`</a>). See the parameter description below for more details.
+Note: <a href="sdk-for-ios-explore-structs-evcaroptions#sdk-for-ios-explore-s-7heresdk12EVCarOptionsV18ensureReachabilitySbvp">`EVCarOptions.ensureReachability`</a> must be `true` to make sure that all stopovers are reachable. For this, charging stations may be added to the route. If <a href="sdk-for-ios-explore-structs-evcaroptions#sdk-for-ios-explore-s-7heresdk12EVCarOptionsV18ensureReachabilitySbvp">`EVCarOptions.ensureReachability`</a> is true, you need to specify the required route options and battery specifications that include the current charge level of the battery (<a href="sdk-for-ios-explore-structs-batteryspecifications#sdk-for-ios-explore-s-7heresdk21BatterySpecificationsV28initialChargeInKilowattHoursSdvp">`BatterySpecifications.initialChargeInKilowattHours`</a>). See the parameter description below for more details.
 
 </div>
 
@@ -30,7 +29,7 @@ Note: <a href="sdk-for-ios-explore-structs-evcaroptions#/s:7heresdk12EVCarOption
 
 - <div>
 
-  ` `<span id="/s:7heresdk12EVCarOptionsV05routeC0AA05RouteC0Vvp"></span>` `<span id="//apple_ref/swift/Property/routeOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-evcaroptions#/s:7heresdk12EVCarOptionsV05routeC0AA05RouteC0Vvp" class="token"><code>routeOptions</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12EVCarOptionsV05routeC0AA05RouteC0Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-routeOptions" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-evcaroptions#sdk-for-ios-explore-s-7heresdk12EVCarOptionsV05routeC0AA05RouteC0Vvp" class="token"><code>routeOptions</code></a> 
 
   </div>
 
@@ -66,6 +65,10 @@ Note: <a href="sdk-for-ios-explore-structs-evcaroptions#/s:7heresdk12EVCarOption
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-routeoptions">RouteOptions</a>
+
   </div>
 
   </div>
@@ -74,7 +77,7 @@ Note: <a href="sdk-for-ios-explore-structs-evcaroptions#/s:7heresdk12EVCarOption
 
 - <div>
 
-  ` `<span id="/s:7heresdk12EVCarOptionsV04textC0AA09RouteTextC0Vvp"></span>` `<span id="//apple_ref/swift/Property/textOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-evcaroptions#/s:7heresdk12EVCarOptionsV04textC0AA09RouteTextC0Vvp" class="token"><code>textOptions</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12EVCarOptionsV04textC0AA09RouteTextC0Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-textOptions" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-evcaroptions#sdk-for-ios-explore-s-7heresdk12EVCarOptionsV04textC0AA09RouteTextC0Vvp" class="token"><code>textOptions</code></a> 
 
   </div>
 
@@ -110,6 +113,10 @@ Note: <a href="sdk-for-ios-explore-structs-evcaroptions#/s:7heresdk12EVCarOption
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-routetextoptions">RouteTextOptions</a>
+
   </div>
 
   </div>
@@ -118,7 +125,7 @@ Note: <a href="sdk-for-ios-explore-structs-evcaroptions#/s:7heresdk12EVCarOption
 
 - <div>
 
-  ` `<span id="/s:7heresdk12EVCarOptionsV09avoidanceC0AA09AvoidanceC0Vvp"></span>` `<span id="//apple_ref/swift/Property/avoidanceOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-evcaroptions#/s:7heresdk12EVCarOptionsV09avoidanceC0AA09AvoidanceC0Vvp" class="token"><code>avoidanceOptions</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12EVCarOptionsV09avoidanceC0AA09AvoidanceC0Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-avoidanceOptions" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-evcaroptions#sdk-for-ios-explore-s-7heresdk12EVCarOptionsV09avoidanceC0AA09AvoidanceC0Vvp" class="token"><code>avoidanceOptions</code></a> 
 
   </div>
 
@@ -154,6 +161,10 @@ Note: <a href="sdk-for-ios-explore-structs-evcaroptions#/s:7heresdk12EVCarOption
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-avoidanceoptions">AvoidanceOptions</a>
+
   </div>
 
   </div>
@@ -162,7 +173,7 @@ Note: <a href="sdk-for-ios-explore-structs-evcaroptions#/s:7heresdk12EVCarOption
 
 - <div>
 
-  ` `<span id="/s:7heresdk12EVCarOptionsV04tollC0AA04TollC0Vvp"></span>` `<span id="//apple_ref/swift/Property/tollOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-evcaroptions#/s:7heresdk12EVCarOptionsV04tollC0AA04TollC0Vvp" class="token"><code>tollOptions</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12EVCarOptionsV04tollC0AA04TollC0Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-tollOptions" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-evcaroptions#sdk-for-ios-explore-s-7heresdk12EVCarOptionsV04tollC0AA04TollC0Vvp" class="token"><code>tollOptions</code></a> 
 
   </div>
 
@@ -198,6 +209,10 @@ Note: <a href="sdk-for-ios-explore-structs-evcaroptions#/s:7heresdk12EVCarOption
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-tolloptions">TollOptions</a>
+
   </div>
 
   </div>
@@ -206,7 +221,7 @@ Note: <a href="sdk-for-ios-explore-structs-evcaroptions#/s:7heresdk12EVCarOption
 
 - <div>
 
-  ` `<span id="/s:7heresdk12EVCarOptionsV05allowC0AA05AllowC0Vvp"></span>` `<span id="//apple_ref/swift/Property/allowOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-evcaroptions#/s:7heresdk12EVCarOptionsV05allowC0AA05AllowC0Vvp" class="token"><code>allowOptions</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12EVCarOptionsV05allowC0AA05AllowC0Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-allowOptions" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-evcaroptions#sdk-for-ios-explore-s-7heresdk12EVCarOptionsV05allowC0AA05AllowC0Vvp" class="token"><code>allowOptions</code></a> 
 
   </div>
 
@@ -242,6 +257,10 @@ Note: <a href="sdk-for-ios-explore-structs-evcaroptions#/s:7heresdk12EVCarOption
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-allowoptions">AllowOptions</a>
+
   </div>
 
   </div>
@@ -250,7 +269,7 @@ Note: <a href="sdk-for-ios-explore-structs-evcaroptions#/s:7heresdk12EVCarOption
 
 - <div>
 
-  ` `<span id="/s:7heresdk12EVCarOptionsV15occupantsNumbers5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/occupantsNumber" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-evcaroptions#/s:7heresdk12EVCarOptionsV15occupantsNumbers5Int32Vvp" class="token"><code>occupantsNumber</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12EVCarOptionsV15occupantsNumbers5Int32Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-occupantsNumber" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-evcaroptions#sdk-for-ios-explore-s-7heresdk12EVCarOptionsV15occupantsNumbers5Int32Vvp" class="token"><code>occupantsNumber</code></a> 
 
   </div>
 
@@ -270,7 +289,7 @@ Note: <a href="sdk-for-ios-explore-structs-evcaroptions#/s:7heresdk12EVCarOption
 
   Specifies the number of occupants in the vehicle, including driver, can affect the vehicle’s ability to use HOV/carpool restricted lanes. Shouldn’t be less than 1 or greater than 255. Defaults to 1.
 
-  **Note:** This parameter has no effect unless HOV and/or HOT lane usage is enabled via <a href="sdk-for-ios-explore-structs-evcaroptions#/s:7heresdk12EVCarOptionsV05allowC0AA05AllowC0Vvp">`EVCarOptions.allowOptions`</a> and such lanes are available in the selected country.
+  **Note:** This parameter has no effect unless HOV and/or HOT lane usage is enabled via <a href="sdk-for-ios-explore-structs-evcaroptions#sdk-for-ios-explore-s-7heresdk12EVCarOptionsV05allowC0AA05AllowC0Vvp">`EVCarOptions.allowOptions`</a> and such lanes are available in the selected country.
 
   </div>
 
@@ -296,7 +315,7 @@ Note: <a href="sdk-for-ios-explore-structs-evcaroptions#/s:7heresdk12EVCarOption
 
 - <div>
 
-  ` `<span id="/s:7heresdk12EVCarOptionsV27lastCharacterOfLicensePlateSSSgvp"></span>` `<span id="//apple_ref/swift/Property/lastCharacterOfLicensePlate" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-evcaroptions#/s:7heresdk12EVCarOptionsV27lastCharacterOfLicensePlateSSSgvp" class="token"><code>lastCharacterOfLicensePlate</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12EVCarOptionsV27lastCharacterOfLicensePlateSSSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-lastCharacterOfLicensePlate" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-evcaroptions#sdk-for-ios-explore-s-7heresdk12EVCarOptionsV27lastCharacterOfLicensePlateSSSgvp" class="token"><code>lastCharacterOfLicensePlate</code></a> 
 
   </div>
 
@@ -342,7 +361,7 @@ Note: <a href="sdk-for-ios-explore-structs-evcaroptions#/s:7heresdk12EVCarOption
 
 - <div>
 
-  ` `<span id="/s:7heresdk12EVCarOptionsV18maxSpeedOnSegmentsSayAA03MaxeF7SegmentVGvp"></span>` `<span id="//apple_ref/swift/Property/maxSpeedOnSegments" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-evcaroptions#/s:7heresdk12EVCarOptionsV18maxSpeedOnSegmentsSayAA03MaxeF7SegmentVGvp" class="token"><code>maxSpeedOnSegments</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12EVCarOptionsV18maxSpeedOnSegmentsSayAA03MaxeF7SegmentVGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-maxSpeedOnSegments" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-evcaroptions#sdk-for-ios-explore-s-7heresdk12EVCarOptionsV18maxSpeedOnSegmentsSayAA03MaxeF7SegmentVGvp" class="token"><code>maxSpeedOnSegments</code></a> 
 
   </div>
 
@@ -360,7 +379,7 @@ Note: <a href="sdk-for-ios-explore-structs-evcaroptions#/s:7heresdk12EVCarOption
 
   <div class="abstract">
 
-  Segments with restriction on maximum <a href="sdk-for-ios-explore-structs-dynamicspeedinfo#/s:7heresdk16DynamicSpeedInfoV04baseC17InMetersPerSecondSdvp">`DynamicSpeedInfo.baseSpeedInMetersPerSecond`</a>.
+  Segments with restriction on maximum <a href="sdk-for-ios-explore-structs-dynamicspeedinfo#sdk-for-ios-explore-s-7heresdk16DynamicSpeedInfoV04baseC17InMetersPerSecondSdvp">`DynamicSpeedInfo.baseSpeedInMetersPerSecond`</a>.
 
   </div>
 
@@ -378,6 +397,10 @@ Note: <a href="sdk-for-ios-explore-structs-evcaroptions#/s:7heresdk12EVCarOption
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-maxspeedonsegment">MaxSpeedOnSegment</a>
+
   </div>
 
   </div>
@@ -386,7 +409,7 @@ Note: <a href="sdk-for-ios-explore-structs-evcaroptions#/s:7heresdk12EVCarOption
 
 - <div>
 
-  ` `<span id="/s:7heresdk12EVCarOptionsV18ensureReachabilitySbvp"></span>` `<span id="//apple_ref/swift/Property/ensureReachability" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-evcaroptions#/s:7heresdk12EVCarOptionsV18ensureReachabilitySbvp" class="token"><code>ensureReachability</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12EVCarOptionsV18ensureReachabilitySbvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-ensureReachability" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-evcaroptions#sdk-for-ios-explore-s-7heresdk12EVCarOptionsV18ensureReachabilitySbvp" class="token"><code>ensureReachability</code></a> 
 
   </div>
 
@@ -404,7 +427,7 @@ Note: <a href="sdk-for-ios-explore-structs-evcaroptions#/s:7heresdk12EVCarOption
 
   <div class="abstract">
 
-  Ensure that the vehicle does not run out of energy along the way. Requires valid <a href="sdk-for-ios-explore-structs-evcaroptions#/s:7heresdk12EVCarOptionsV21batterySpecificationsAA07BatteryE0Vvp">`EVCarOptions.batterySpecifications`</a>. It also requires that <a href="sdk-for-ios-explore-structs-routeoptions#/s:7heresdk12RouteOptionsV16optimizationModeAA012OptimizationE0Ovp">`RouteOptions.optimizationMode`</a> = <a href="sdk-for-ios-explore-enums-optimizationmode#/s:7heresdk16OptimizationModeO7fastestyA2CmF">`OptimizationMode.fastest`</a>, <a href="sdk-for-ios-explore-structs-routeoptions#/s:7heresdk12RouteOptionsV25speedCapInMetersPerSecondSdSgvp">`RouteOptions.speedCapInMetersPerSecond`</a> is not set, and <a href="sdk-for-ios-explore-structs-avoidanceoptions">`AvoidanceOptions`</a> is empty. Otherwise, this object is considered invalid. Setting this flag enables calculation of a route optimized for electric vehicles. Charging stations may be added along the route to ensure that the vehicle does not run out of energy along the way. It is especially useful for longer routes, because after all, charging stations are much less common than petrol stations. **Note** An \[sdk.routing.RoutingError.INVALID_PARAMETER\] is generated when the \[sdk.routing.EVCarOptions.ensure_reachability\] is set to `true` in case \[sdk.routing.RoutingEngine.import_route\] is called. Defaults to `false`.
+  Ensure that the vehicle does not run out of energy along the way. Requires valid <a href="sdk-for-ios-explore-structs-evcaroptions#sdk-for-ios-explore-s-7heresdk12EVCarOptionsV21batterySpecificationsAA07BatteryE0Vvp">`EVCarOptions.batterySpecifications`</a>. It also requires that <a href="sdk-for-ios-explore-structs-routeoptions#sdk-for-ios-explore-s-7heresdk12RouteOptionsV16optimizationModeAA012OptimizationE0Ovp">`RouteOptions.optimizationMode`</a> = <a href="sdk-for-ios-explore-enums-optimizationmode#sdk-for-ios-explore-s-7heresdk16OptimizationModeO7fastestyA2CmF">`OptimizationMode.fastest`</a>, <a href="sdk-for-ios-explore-structs-routeoptions#sdk-for-ios-explore-s-7heresdk12RouteOptionsV25speedCapInMetersPerSecondSdSgvp">`RouteOptions.speedCapInMetersPerSecond`</a> is not set, and <a href="sdk-for-ios-explore-structs-avoidanceoptions">`AvoidanceOptions`</a> is empty. Otherwise, this object is considered invalid. Setting this flag enables calculation of a route optimized for electric vehicles. Charging stations may be added along the route to ensure that the vehicle does not run out of energy along the way. It is especially useful for longer routes, because after all, charging stations are much less common than petrol stations. **Note** An \[sdk.routing.RoutingError.INVALID_PARAMETER\] is generated when the \[sdk.routing.EVCarOptions.ensure_reachability\] is set to `true` in case \[sdk.routing.RoutingEngine.import_route\] is called. Defaults to `false`.
 
   </div>
 
@@ -430,7 +453,7 @@ Note: <a href="sdk-for-ios-explore-structs-evcaroptions#/s:7heresdk12EVCarOption
 
 - <div>
 
-  ` `<span id="/s:7heresdk12EVCarOptionsV16consumptionModelAA013EVConsumptionE0Vvp"></span>` `<span id="//apple_ref/swift/Property/consumptionModel" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-evcaroptions#/s:7heresdk12EVCarOptionsV16consumptionModelAA013EVConsumptionE0Vvp" class="token"><code>consumptionModel</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12EVCarOptionsV16consumptionModelAA013EVConsumptionE0Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-consumptionModel" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-evcaroptions#sdk-for-ios-explore-s-7heresdk12EVCarOptionsV16consumptionModelAA013EVConsumptionE0Vvp" class="token"><code>consumptionModel</code></a> 
 
   </div>
 
@@ -466,6 +489,10 @@ Note: <a href="sdk-for-ios-explore-structs-evcaroptions#/s:7heresdk12EVCarOption
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-evconsumptionmodel">EVConsumptionModel</a>
+
   </div>
 
   </div>
@@ -474,7 +501,7 @@ Note: <a href="sdk-for-ios-explore-structs-evcaroptions#/s:7heresdk12EVCarOption
 
 - <div>
 
-  ` `<span id="/s:7heresdk12EVCarOptionsV21batterySpecificationsAA07BatteryE0Vvp"></span>` `<span id="//apple_ref/swift/Property/batterySpecifications" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-evcaroptions#/s:7heresdk12EVCarOptionsV21batterySpecificationsAA07BatteryE0Vvp" class="token"><code>batterySpecifications</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12EVCarOptionsV21batterySpecificationsAA07BatteryE0Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-batterySpecifications" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-evcaroptions#sdk-for-ios-explore-s-7heresdk12EVCarOptionsV21batterySpecificationsAA07BatteryE0Vvp" class="token"><code>batterySpecifications</code></a> 
 
   </div>
 
@@ -510,6 +537,10 @@ Note: <a href="sdk-for-ios-explore-structs-evcaroptions#/s:7heresdk12EVCarOption
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-batteryspecifications">BatterySpecifications</a>
+
   </div>
 
   </div>
@@ -518,7 +549,7 @@ Note: <a href="sdk-for-ios-explore-structs-evcaroptions#/s:7heresdk12EVCarOption
 
 - <div>
 
-  ` `<span id="/s:7heresdk12EVCarOptionsV17carSpecificationsAA03CarE0Vvp"></span>` `<span id="//apple_ref/swift/Property/carSpecifications" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-evcaroptions#/s:7heresdk12EVCarOptionsV17carSpecificationsAA03CarE0Vvp" class="token"><code>carSpecifications</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12EVCarOptionsV17carSpecificationsAA03CarE0Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-carSpecifications" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-evcaroptions#sdk-for-ios-explore-s-7heresdk12EVCarOptionsV17carSpecificationsAA03CarE0Vvp" class="token"><code>carSpecifications</code></a> 
 
   </div>
 
@@ -554,6 +585,10 @@ Note: <a href="sdk-for-ios-explore-structs-evcaroptions#/s:7heresdk12EVCarOption
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-carspecifications">CarSpecifications</a>
+
   </div>
 
   </div>
@@ -562,7 +597,7 @@ Note: <a href="sdk-for-ios-explore-structs-evcaroptions#/s:7heresdk12EVCarOption
 
 - <div>
 
-  ` `<span id="/s:7heresdk12EVCarOptionsV36evMobilityServiceProviderPreferencesAA010EVMobilityfgH0Vvp"></span>` `<span id="//apple_ref/swift/Property/evMobilityServiceProviderPreferences" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-evcaroptions#/s:7heresdk12EVCarOptionsV36evMobilityServiceProviderPreferencesAA010EVMobilityfgH0Vvp" class="token"><code>evMobilityServiceProviderPreferences</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12EVCarOptionsV36evMobilityServiceProviderPreferencesAA010EVMobilityfgH0Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-evMobilityServiceProviderPreferences" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-evcaroptions#sdk-for-ios-explore-s-7heresdk12EVCarOptionsV36evMobilityServiceProviderPreferencesAA010EVMobilityfgH0Vvp" class="token"><code>evMobilityServiceProviderPreferences</code></a> 
 
   </div>
 
@@ -598,6 +633,10 @@ Note: <a href="sdk-for-ios-explore-structs-evcaroptions#/s:7heresdk12EVCarOption
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-evmobilityserviceproviderpreferences">EVMobilityServiceProviderPreferences</a>
+
   </div>
 
   </div>
@@ -606,7 +645,7 @@ Note: <a href="sdk-for-ios-explore-structs-evcaroptions#/s:7heresdk12EVCarOption
 
 - <div>
 
-      init(routeOptions: textOptions: avoidanceOptions: tollOptions: allowOptions: occupantsNumber: lastCharacterOfLicensePlate: maxSpeedOnSegments: ensureReachability: consumptionModel: batterySpecifications: carSpecifications: evMobilityServiceProviderPreferences: )
+   <span id="sdk-for-ios-explore-s-7heresdk12EVCarOptionsV05routeC004textC009avoidanceC004tollC005allowC015occupantsNumber27lastCharacterOfLicensePlate18maxSpeedOnSegments18ensureReachability16consumptionModel21batterySpecifications03carY036evMobilityServiceProviderPreferencesAcA05RouteC0V_AA09RouteTextC0VAA09AvoidanceC0VAA04TollC0VAA05AllowC0Vs5Int32VSSSgSayAA03MaxqR7SegmentVGSbAA013EVConsumptionW0VAA07BatteryY0VAA03CarY0VAA36EVMobilityServiceProviderPreferencesVtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-routeOptions-textOptions-avoidanceOptions-tollOptions-allowOptions-occupantsNumber-lastCharacterOfLicensePlate-maxSpeedOnSegments-ensureReachability-consumptionModel-batterySpecifications-carSpecifications-evMobilityServiceProviderPreferences" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-evcaroptions#sdk-for-ios-explore-s-7heresdk12EVCarOptionsV05routeC004textC009avoidanceC004tollC005allowC015occupantsNumber27lastCharacterOfLicensePlate18maxSpeedOnSegments18ensureReachability16consumptionModel21batterySpecifications03carY036evMobilityServiceProviderPreferencesAcA05RouteC0V_AA09RouteTextC0VAA09AvoidanceC0VAA04TollC0VAA05AllowC0Vs5Int32VSSSgSayAA03MaxqR7SegmentVGSbAA013EVConsumptionW0VAA07BatteryY0VAA03CarY0VAA36EVMobilityServiceProviderPreferencesVtcfc" class="token"><code>init(routeOptions:</code><wbr></wbr><code>textOptions:</code><wbr></wbr><code>avoidanceOptions:</code><wbr></wbr><code>tollOptions:</code><wbr></wbr><code>allowOptions:</code><wbr></wbr><code>occupantsNumber:</code><wbr></wbr><code>lastCharacterOfLicensePlate:</code><wbr></wbr><code>maxSpeedOnSegments:</code><wbr></wbr><code>ensureReachability:</code><wbr></wbr><code>consumptionModel:</code><wbr></wbr><code>batterySpecifications:</code><wbr></wbr><code>carSpecifications:</code><wbr></wbr><code>evMobilityServiceProviderPreferences:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -635,14 +674,14 @@ Note: <a href="sdk-for-ios-explore-structs-evcaroptions#/s:7heresdk12EVCarOption
     - allowOptions: The options explicitly allowed by user for route calculations. By default no options are opt in.
     - occupantsNumber: Specifies the number of occupants in the vehicle, including driver, can affect the vehicle’s ability to use HOV/carpool restricted lanes. Shouldn’t be less than 1 or greater than 255. Defaults to 1.
 
-    **Note:** This parameter has no effect unless HOV and/or HOT lane usage is enabled via <a href="sdk-for-ios-explore-structs-evcaroptions#/s:7heresdk12EVCarOptionsV05allowC0AA05AllowC0Vvp">`EVCarOptions.allowOptions`</a> and such lanes are available in the selected country.
+    **Note:** This parameter has no effect unless HOV and/or HOT lane usage is enabled via <a href="sdk-for-ios-explore-structs-evcaroptions#sdk-for-ios-explore-s-7heresdk12EVCarOptionsV05allowC0AA05AllowC0Vvp">`EVCarOptions.allowOptions`</a> and such lanes are available in the selected country.
 
     - lastCharacterOfLicensePlate: Specifies the last character of a vehicle’s license plate, typically used to evaluate traffic restrictions in certain environmental or low-emission zones. In cities like Bogotá, Mexico City, or Jakarta, specific license plate digits may be restricted on certain days or in certain areas to reduce congestion and emissions. When this value is provided, the HERE SDK considers it during route calculation to avoid roads or areas where your vehicle may be restricted based on local regulations. Example usage: “7”, when the license plate of a vehicle looks like “B-ET-182487”.
 
     If this value is not set, such license plate-based restrictions are ignored, and routing is performed without considering them.
 
-    - maxSpeedOnSegments: Segments with restriction on maximum <a href="sdk-for-ios-explore-structs-dynamicspeedinfo#/s:7heresdk16DynamicSpeedInfoV04baseC17InMetersPerSecondSdvp">`DynamicSpeedInfo.baseSpeedInMetersPerSecond`</a>.
-    - ensureReachability: Ensure that the vehicle does not run out of energy along the way. Requires valid <a href="sdk-for-ios-explore-structs-evcaroptions#/s:7heresdk12EVCarOptionsV21batterySpecificationsAA07BatteryE0Vvp">`EVCarOptions.batterySpecifications`</a>. It also requires that <a href="sdk-for-ios-explore-structs-routeoptions#/s:7heresdk12RouteOptionsV16optimizationModeAA012OptimizationE0Ovp">`RouteOptions.optimizationMode`</a> = <a href="sdk-for-ios-explore-enums-optimizationmode#/s:7heresdk16OptimizationModeO7fastestyA2CmF">`OptimizationMode.fastest`</a>, <a href="sdk-for-ios-explore-structs-routeoptions#/s:7heresdk12RouteOptionsV25speedCapInMetersPerSecondSdSgvp">`RouteOptions.speedCapInMetersPerSecond`</a> is not set, and <a href="sdk-for-ios-explore-structs-avoidanceoptions">`AvoidanceOptions`</a> is empty. Otherwise, this object is considered invalid. Setting this flag enables calculation of a route optimized for electric vehicles. Charging stations may be added along the route to ensure that the vehicle does not run out of energy along the way. It is especially useful for longer routes, because after all, charging stations are much less common than petrol stations. **Note** An \[sdk.routing.RoutingError.INVALID_PARAMETER\] is generated when the \[sdk.routing.EVCarOptions.ensure_reachability\] is set to `true` in case \[sdk.routing.RoutingEngine.import_route\] is called. Defaults to `false`.
+    - maxSpeedOnSegments: Segments with restriction on maximum <a href="sdk-for-ios-explore-structs-dynamicspeedinfo#sdk-for-ios-explore-s-7heresdk16DynamicSpeedInfoV04baseC17InMetersPerSecondSdvp">`DynamicSpeedInfo.baseSpeedInMetersPerSecond`</a>.
+    - ensureReachability: Ensure that the vehicle does not run out of energy along the way. Requires valid <a href="sdk-for-ios-explore-structs-evcaroptions#sdk-for-ios-explore-s-7heresdk12EVCarOptionsV21batterySpecificationsAA07BatteryE0Vvp">`EVCarOptions.batterySpecifications`</a>. It also requires that <a href="sdk-for-ios-explore-structs-routeoptions#sdk-for-ios-explore-s-7heresdk12RouteOptionsV16optimizationModeAA012OptimizationE0Ovp">`RouteOptions.optimizationMode`</a> = <a href="sdk-for-ios-explore-enums-optimizationmode#sdk-for-ios-explore-s-7heresdk16OptimizationModeO7fastestyA2CmF">`OptimizationMode.fastest`</a>, <a href="sdk-for-ios-explore-structs-routeoptions#sdk-for-ios-explore-s-7heresdk12RouteOptionsV25speedCapInMetersPerSecondSdSgvp">`RouteOptions.speedCapInMetersPerSecond`</a> is not set, and <a href="sdk-for-ios-explore-structs-avoidanceoptions">`AvoidanceOptions`</a> is empty. Otherwise, this object is considered invalid. Setting this flag enables calculation of a route optimized for electric vehicles. Charging stations may be added along the route to ensure that the vehicle does not run out of energy along the way. It is especially useful for longer routes, because after all, charging stations are much less common than petrol stations. **Note** An \[sdk.routing.RoutingError.INVALID_PARAMETER\] is generated when the \[sdk.routing.EVCarOptions.ensure_reachability\] is set to `true` in case \[sdk.routing.RoutingEngine.import_route\] is called. Defaults to `false`.
     - consumptionModel: Vehicle specific parameters, which are then used to calculate energy consumption for the vehicle on a given route.
     - batterySpecifications: Parameters that describe the electric vehicle’s battery.
     - carSpecifications: Detailed car specifications such as dimensions and weight.
@@ -659,12 +698,23 @@ Note: <a href="sdk-for-ios-explore-structs-evcaroptions#/s:7heresdk12EVCarOption
   Swift
 
   ``` highlight
-  public init ( routeOptions : RouteOptions = RouteOptions (), textOptions : RouteTextOptions = RouteTextOptions (), avoidanceOptions : AvoidanceOptions = AvoidanceOptions (), tollOptions : TollOptions = TollOptions (), allowOptions : AllowOptions = AllowOptions (), occupantsNumber : Int32 = 1 , lastCharacterOfLicensePlate : String ? = nil , maxSpeedOnSegments : [ MaxSpeedOnSegment ] = [], ensureReachability : Bool = false , consumptionModel : EVConsumptionModel = EVConsumptionModel (), batterySpecifications : BatterySpecifications = BatterySpecifications (), carSpecifications : CarSpecifications = CarSpecifications (), evMobilityServiceProviderPreferences : EVMobilityServiceProviderPreferences = EVMobilityServiceProviderPreferences ())
+  public init(routeOptions: RouteOptions = RouteOptions(), textOptions: RouteTextOptions = RouteTextOptions(), avoidanceOptions: AvoidanceOptions = AvoidanceOptions(), tollOptions: TollOptions = TollOptions(), allowOptions: AllowOptions = AllowOptions(), occupantsNumber: Int32 = 1, lastCharacterOfLicensePlate: String? = nil, maxSpeedOnSegments: [MaxSpeedOnSegment] = [], ensureReachability: Bool = false, consumptionModel: EVConsumptionModel = EVConsumptionModel(), batterySpecifications: BatterySpecifications = BatterySpecifications(), carSpecifications: CarSpecifications = CarSpecifications(), evMobilityServiceProviderPreferences: EVMobilityServiceProviderPreferences = EVMobilityServiceProviderPreferences())
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-routeoptions">RouteOptions</a>
+  - <a href="sdk-for-ios-explore-structs-routetextoptions">RouteTextOptions</a>
+  - <a href="sdk-for-ios-explore-structs-avoidanceoptions">AvoidanceOptions</a>
+  - <a href="sdk-for-ios-explore-structs-tolloptions">TollOptions</a>
+  - <a href="sdk-for-ios-explore-structs-allowoptions">AllowOptions</a>
+  - <a href="sdk-for-ios-explore-structs-maxspeedonsegment">MaxSpeedOnSegment</a>
+  - <a href="sdk-for-ios-explore-structs-evconsumptionmodel">EVConsumptionModel</a>
+  - <a href="sdk-for-ios-explore-structs-batteryspecifications">BatterySpecifications</a>
+  - <a href="sdk-for-ios-explore-structs-carspecifications">CarSpecifications</a>
+  - <a href="sdk-for-ios-explore-structs-evmobilityserviceproviderpreferences">EVMobilityServiceProviderPreferences</a>
 
   </div>
 

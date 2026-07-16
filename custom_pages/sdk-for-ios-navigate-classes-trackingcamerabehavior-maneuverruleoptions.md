@@ -27,7 +27,7 @@ Defines a set of configurations specific to a <a href="sdk-for-ios-navigate-clas
 
 - <div>
 
-  ` `<span id="/s:7heresdk22TrackingCameraBehaviorC19ManeuverRuleOptionsV9zoomRangeAC0e4ZoomI0Vvp"></span>` `<span id="//apple_ref/swift/Property/zoomRange" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-trackingcamerabehavior-maneuverruleoptions#/s:7heresdk22TrackingCameraBehaviorC19ManeuverRuleOptionsV9zoomRangeAC0e4ZoomI0Vvp" class="token"><code>zoomRange</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk22TrackingCameraBehaviorC19ManeuverRuleOptionsV9zoomRangeAC0e4ZoomI0Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-zoomRange" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-trackingcamerabehavior-maneuverruleoptions#sdk-for-ios-navigate-s-7heresdk22TrackingCameraBehaviorC19ManeuverRuleOptionsV9zoomRangeAC0e4ZoomI0Vvp" class="token"><code>zoomRange</code></a> 
 
   </div>
 
@@ -63,6 +63,11 @@ Defines a set of configurations specific to a <a href="sdk-for-ios-navigate-clas
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-trackingcamerabehavior">TrackingCameraBehavior</a>
+  - <a href="sdk-for-ios-navigate-classes-trackingcamerabehavior-maneuverzoomrange">ManeuverZoomRange</a>
+
   </div>
 
   </div>
@@ -71,7 +76,7 @@ Defines a set of configurations specific to a <a href="sdk-for-ios-navigate-clas
 
 - <div>
 
-  ` `<span id="/s:7heresdk22TrackingCameraBehaviorC19ManeuverRuleOptionsV08earlyPreE27ActivationThresholdInMetersSdvp"></span>` `<span id="//apple_ref/swift/Property/earlyPreManeuverActivationThresholdInMeters" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-trackingcamerabehavior-maneuverruleoptions#/s:7heresdk22TrackingCameraBehaviorC19ManeuverRuleOptionsV08earlyPreE27ActivationThresholdInMetersSdvp" class="token"><code>earlyPreManeuverActivationThresholdInMeters</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk22TrackingCameraBehaviorC19ManeuverRuleOptionsV08earlyPreE27ActivationThresholdInMetersSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-earlyPreManeuverActivationThresholdInMeters" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-trackingcamerabehavior-maneuverruleoptions#sdk-for-ios-navigate-s-7heresdk22TrackingCameraBehaviorC19ManeuverRuleOptionsV08earlyPreE27ActivationThresholdInMetersSdvp" class="token"><code>earlyPreManeuverActivationThresholdInMeters</code></a> 
 
   </div>
 
@@ -89,7 +94,7 @@ Defines a set of configurations specific to a <a href="sdk-for-ios-navigate-clas
 
   <div class="abstract">
 
-  Distance in meters for early activation. If the current position enters this threshold of the upcoming maneuver while still within <a href="sdk-for-ios-navigate-classes-trackingcamerabehavior-maneuverruleoptions#/s:7heresdk22TrackingCameraBehaviorC19ManeuverRuleOptionsV04postE27ActivationThresholdInMetersSdvp">`TrackingCameraBehavior.ManeuverRuleOptions.postManeuverActivationThresholdInMeters`</a> of the previous maneuver, the camera behaves as though it were already in the upcoming maneuver’s pre-activation zone. Must be non-negative. Defaults to 0.0.
+  Distance in meters for early activation. If the current position enters this threshold of the upcoming maneuver while still within <a href="sdk-for-ios-navigate-classes-trackingcamerabehavior-maneuverruleoptions#sdk-for-ios-navigate-s-7heresdk22TrackingCameraBehaviorC19ManeuverRuleOptionsV04postE27ActivationThresholdInMetersSdvp">`TrackingCameraBehavior.ManeuverRuleOptions.postManeuverActivationThresholdInMeters`</a> of the previous maneuver, the camera behaves as though it were already in the upcoming maneuver’s pre-activation zone. Must be non-negative. Defaults to 0.0.
 
   </div>
 
@@ -115,7 +120,7 @@ Defines a set of configurations specific to a <a href="sdk-for-ios-navigate-clas
 
 - <div>
 
-  ` `<span id="/s:7heresdk22TrackingCameraBehaviorC19ManeuverRuleOptionsV03preE27ActivationThresholdInMetersSdvp"></span>` `<span id="//apple_ref/swift/Property/preManeuverActivationThresholdInMeters" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-trackingcamerabehavior-maneuverruleoptions#/s:7heresdk22TrackingCameraBehaviorC19ManeuverRuleOptionsV03preE27ActivationThresholdInMetersSdvp" class="token"><code>preManeuverActivationThresholdInMeters</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk22TrackingCameraBehaviorC19ManeuverRuleOptionsV03preE27ActivationThresholdInMetersSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-preManeuverActivationThresholdInMeters" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-trackingcamerabehavior-maneuverruleoptions#sdk-for-ios-navigate-s-7heresdk22TrackingCameraBehaviorC19ManeuverRuleOptionsV03preE27ActivationThresholdInMetersSdvp" class="token"><code>preManeuverActivationThresholdInMeters</code></a> 
 
   </div>
 
@@ -159,7 +164,7 @@ Defines a set of configurations specific to a <a href="sdk-for-ios-navigate-clas
 
 - <div>
 
-  ` `<span id="/s:7heresdk22TrackingCameraBehaviorC19ManeuverRuleOptionsV04postE27ActivationThresholdInMetersSdvp"></span>` `<span id="//apple_ref/swift/Property/postManeuverActivationThresholdInMeters" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-trackingcamerabehavior-maneuverruleoptions#/s:7heresdk22TrackingCameraBehaviorC19ManeuverRuleOptionsV04postE27ActivationThresholdInMetersSdvp" class="token"><code>postManeuverActivationThresholdInMeters</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk22TrackingCameraBehaviorC19ManeuverRuleOptionsV04postE27ActivationThresholdInMetersSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-postManeuverActivationThresholdInMeters" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-trackingcamerabehavior-maneuverruleoptions#sdk-for-ios-navigate-s-7heresdk22TrackingCameraBehaviorC19ManeuverRuleOptionsV04postE27ActivationThresholdInMetersSdvp" class="token"><code>postManeuverActivationThresholdInMeters</code></a> 
 
   </div>
 
@@ -203,7 +208,7 @@ Defines a set of configurations specific to a <a href="sdk-for-ios-navigate-clas
 
 - <div>
 
-      init(zoomRange: earlyPreManeuverActivationThresholdInMeters: preManeuverActivationThresholdInMeters: postManeuverActivationThresholdInMeters: )
+   <span id="sdk-for-ios-navigate-s-7heresdk22TrackingCameraBehaviorC19ManeuverRuleOptionsV9zoomRange08earlyPreE27ActivationThresholdInMeters03preelmnO004postelmnO0AeC0e4ZoomI0V_S3dtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-zoomRange-earlyPreManeuverActivationThresholdInMeters-preManeuverActivationThresholdInMeters-postManeuverActivationThresholdInMeters" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-trackingcamerabehavior-maneuverruleoptions#sdk-for-ios-navigate-s-7heresdk22TrackingCameraBehaviorC19ManeuverRuleOptionsV9zoomRange08earlyPreE27ActivationThresholdInMeters03preelmnO004postelmnO0AeC0e4ZoomI0V_S3dtcfc" class="token"><code>init(zoomRange:</code><wbr></wbr><code>earlyPreManeuverActivationThresholdInMeters:</code><wbr></wbr><code>preManeuverActivationThresholdInMeters:</code><wbr></wbr><code>postManeuverActivationThresholdInMeters:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -236,12 +241,15 @@ Defines a set of configurations specific to a <a href="sdk-for-ios-navigate-clas
   Swift
 
   ``` highlight
-  public init ( zoomRange : TrackingCameraBehavior . ManeuverZoomRange = TrackingCameraBehavior . ManeuverZoomRange (), earlyPreManeuverActivationThresholdInMeters : Double = 0.0 , preManeuverActivationThresholdInMeters : Double = 0.0 , postManeuverActivationThresholdInMeters : Double = 0.0 )
+  public init(zoomRange: TrackingCameraBehavior.ManeuverZoomRange = TrackingCameraBehavior.ManeuverZoomRange(), earlyPreManeuverActivationThresholdInMeters: Double = 0.0, preManeuverActivationThresholdInMeters: Double = 0.0, postManeuverActivationThresholdInMeters: Double = 0.0)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-trackingcamerabehavior">TrackingCameraBehavior</a>
+  - <a href="sdk-for-ios-navigate-classes-trackingcamerabehavior-maneuverzoomrange">ManeuverZoomRange</a>
 
   </div>
 

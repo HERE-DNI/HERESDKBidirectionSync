@@ -27,7 +27,7 @@ Indicates the desired location accuracy, however the actual accuracy is not guar
 
 - <div>
 
-  ` `<span id="/s:7heresdk16LocationAccuracyO13bestAvailableyA2CmF"></span>` `<span id="//apple_ref/swift/Element/bestAvailable" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-locationaccuracy#/s:7heresdk16LocationAccuracyO13bestAvailableyA2CmF" class="token"><code>bestAvailable</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16LocationAccuracyO13bestAvailableyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-bestAvailable" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-locationaccuracy#sdk-for-ios-explore-s-7heresdk16LocationAccuracyO13bestAvailableyA2CmF" class="token"><code>bestAvailable</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Indicates the desired location accuracy, however the actual accuracy is not guar
 
 - <div>
 
-  ` `<span id="/s:7heresdk16LocationAccuracyO18subMeterNavigationyA2CmF"></span>` `<span id="//apple_ref/swift/Element/subMeterNavigation" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-locationaccuracy#/s:7heresdk16LocationAccuracyO18subMeterNavigationyA2CmF" class="token"><code>subMeterNavigation</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16LocationAccuracyO18subMeterNavigationyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-subMeterNavigation" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-locationaccuracy#sdk-for-ios-explore-s-7heresdk16LocationAccuracyO18subMeterNavigationyA2CmF" class="token"><code>subMeterNavigation</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Indicates the desired location accuracy, however the actual accuracy is not guar
 
 - <div>
 
-  ` `<span id="/s:7heresdk16LocationAccuracyO10navigationyA2CmF"></span>` `<span id="//apple_ref/swift/Element/navigation" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-locationaccuracy#/s:7heresdk16LocationAccuracyO10navigationyA2CmF" class="token"><code>navigation</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16LocationAccuracyO10navigationyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-navigation" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-locationaccuracy#sdk-for-ios-explore-s-7heresdk16LocationAccuracyO10navigationyA2CmF" class="token"><code>navigation</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Indicates the desired location accuracy, however the actual accuracy is not guar
 
 - <div>
 
-  ` `<span id="/s:7heresdk16LocationAccuracyO12tensOfMetersyA2CmF"></span>` `<span id="//apple_ref/swift/Element/tensOfMeters" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-locationaccuracy#/s:7heresdk16LocationAccuracyO12tensOfMetersyA2CmF" class="token"><code>tensOfMeters</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16LocationAccuracyO12tensOfMetersyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-tensOfMeters" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-locationaccuracy#sdk-for-ios-explore-s-7heresdk16LocationAccuracyO12tensOfMetersyA2CmF" class="token"><code>tensOfMeters</code></a> 
 
   </div>
 
@@ -203,7 +203,7 @@ Indicates the desired location accuracy, however the actual accuracy is not guar
 
 - <div>
 
-  ` `<span id="/s:7heresdk16LocationAccuracyO16hundredsOfMetersyA2CmF"></span>` `<span id="//apple_ref/swift/Element/hundredsOfMeters" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-locationaccuracy#/s:7heresdk16LocationAccuracyO16hundredsOfMetersyA2CmF" class="token"><code>hundredsOfMeters</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16LocationAccuracyO16hundredsOfMetersyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-hundredsOfMeters" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-locationaccuracy#sdk-for-ios-explore-s-7heresdk16LocationAccuracyO16hundredsOfMetersyA2CmF" class="token"><code>hundredsOfMeters</code></a> 
 
   </div>
 
@@ -247,7 +247,7 @@ Indicates the desired location accuracy, however the actual accuracy is not guar
 
 - <div>
 
-  ` `<span id="/s:7heresdk16LocationAccuracyO10kilometersyA2CmF"></span>` `<span id="//apple_ref/swift/Element/kilometers" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-locationaccuracy#/s:7heresdk16LocationAccuracyO10kilometersyA2CmF" class="token"><code>kilometers</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16LocationAccuracyO10kilometersyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-kilometers" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-locationaccuracy#sdk-for-ios-explore-s-7heresdk16LocationAccuracyO10kilometersyA2CmF" class="token"><code>kilometers</code></a> 
 
   </div>
 

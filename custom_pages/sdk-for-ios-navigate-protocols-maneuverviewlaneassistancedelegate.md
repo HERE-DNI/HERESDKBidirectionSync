@@ -27,7 +27,7 @@ This protocol should be implemented in order to receive notifications on <a href
 
 - <div>
 
-      onLaneAssistanceUpdated(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk34ManeuverViewLaneAssistanceDelegateP02ondE7UpdatedyyAA0bcdE0VF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-onLaneAssistanceUpdated-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-protocols-maneuverviewlaneassistancedelegate#sdk-for-ios-navigate-s-7heresdk34ManeuverViewLaneAssistanceDelegateP02ondE7UpdatedyyAA0bcdE0VF" class="token"><code>onLaneAssistanceUpdated(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -58,12 +58,14 @@ This protocol should be implemented in order to receive notifications on <a href
   Swift
 
   ``` highlight
-  func onLaneAssistanceUpdated ( _ laneAssistance : ManeuverViewLaneAssistance )
+  func onLaneAssistanceUpdated(_ laneAssistance: ManeuverViewLaneAssistance)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-maneuverviewlaneassistance">ManeuverViewLaneAssistance</a>
 
   </div>
 

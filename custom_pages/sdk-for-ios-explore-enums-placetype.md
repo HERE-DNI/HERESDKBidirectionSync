@@ -27,7 +27,7 @@ Specifies place type of Place result from a search query.
 
 - <div>
 
-  ` `<span id="/s:7heresdk9PlaceTypeO3poiyA2CmF"></span>` `<span id="//apple_ref/swift/Element/poi" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-placetype#/s:7heresdk9PlaceTypeO3poiyA2CmF" class="token"><code>poi</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9PlaceTypeO3poiyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-poi" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-placetype#sdk-for-ios-explore-s-7heresdk9PlaceTypeO3poiyA2CmF" class="token"><code>poi</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Specifies place type of Place result from a search query.
 
 - <div>
 
-  ` `<span id="/s:7heresdk9PlaceTypeO7addressyA2CmF"></span>` `<span id="//apple_ref/swift/Element/address" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-placetype#/s:7heresdk9PlaceTypeO7addressyA2CmF" class="token"><code>address</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9PlaceTypeO7addressyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-address" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-placetype#sdk-for-ios-explore-s-7heresdk9PlaceTypeO7addressyA2CmF" class="token"><code>address</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Specifies place type of Place result from a search query.
 
 - <div>
 
-  ` `<span id="/s:7heresdk9PlaceTypeO4areayA2CmF"></span>` `<span id="//apple_ref/swift/Element/area" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-placetype#/s:7heresdk9PlaceTypeO4areayA2CmF" class="token"><code>area</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9PlaceTypeO4areayA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-area" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-placetype#sdk-for-ios-explore-s-7heresdk9PlaceTypeO4areayA2CmF" class="token"><code>area</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Specifies place type of Place result from a search query.
 
 - <div>
 
-  ` `<span id="/s:7heresdk9PlaceTypeO6streetyA2CmF"></span>` `<span id="//apple_ref/swift/Element/street" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-placetype#/s:7heresdk9PlaceTypeO6streetyA2CmF" class="token"><code>street</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9PlaceTypeO6streetyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-street" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-placetype#sdk-for-ios-explore-s-7heresdk9PlaceTypeO6streetyA2CmF" class="token"><code>street</code></a> 
 
   </div>
 
@@ -203,7 +203,7 @@ Specifies place type of Place result from a search query.
 
 - <div>
 
-  ` `<span id="/s:7heresdk9PlaceTypeO12intersectionyA2CmF"></span>` `<span id="//apple_ref/swift/Element/intersection" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-placetype#/s:7heresdk9PlaceTypeO12intersectionyA2CmF" class="token"><code>intersection</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9PlaceTypeO12intersectionyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-intersection" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-placetype#sdk-for-ios-explore-s-7heresdk9PlaceTypeO12intersectionyA2CmF" class="token"><code>intersection</code></a> 
 
   </div>
 
@@ -247,7 +247,7 @@ Specifies place type of Place result from a search query.
 
 - <div>
 
-  ` `<span id="/s:7heresdk9PlaceTypeO7unknownyA2CmF"></span>` `<span id="//apple_ref/swift/Element/unknown" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-placetype#/s:7heresdk9PlaceTypeO7unknownyA2CmF" class="token"><code>unknown</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9PlaceTypeO7unknownyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-unknown" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-placetype#sdk-for-ios-explore-s-7heresdk9PlaceTypeO7unknownyA2CmF" class="token"><code>unknown</code></a> 
 
   </div>
 

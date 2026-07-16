@@ -27,7 +27,7 @@ Options to specify how the location simulator will behave.
 
 - <div>
 
-  ` `<span id="/s:7heresdk24LocationSimulatorOptionsV11speedFactorSdvp"></span>` `<span id="//apple_ref/swift/Property/speedFactor" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-locationsimulatoroptions#/s:7heresdk24LocationSimulatorOptionsV11speedFactorSdvp" class="token"><code>speedFactor</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk24LocationSimulatorOptionsV11speedFactorSdvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-speedFactor" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-locationsimulatoroptions#sdk-for-ios-explore-s-7heresdk24LocationSimulatorOptionsV11speedFactorSdvp" class="token"><code>speedFactor</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Options to specify how the location simulator will behave.
 
 - <div>
 
-  ` `<span id="/s:7heresdk24LocationSimulatorOptionsV20notificationIntervalSdvp"></span>` `<span id="//apple_ref/swift/Property/notificationInterval" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-locationsimulatoroptions#/s:7heresdk24LocationSimulatorOptionsV20notificationIntervalSdvp" class="token"><code>notificationInterval</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk24LocationSimulatorOptionsV20notificationIntervalSdvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-notificationInterval" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-locationsimulatoroptions#sdk-for-ios-explore-s-7heresdk24LocationSimulatorOptionsV20notificationIntervalSdvp" class="token"><code>notificationInterval</code></a> 
 
   </div>
 
@@ -117,7 +117,7 @@ Options to specify how the location simulator will behave.
 
 - <div>
 
-      init(speedFactor: notificationInterval: )
+   <span id="sdk-for-ios-explore-s-7heresdk24LocationSimulatorOptionsV11speedFactor20notificationIntervalACSd_Sdtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-speedFactor-notificationInterval" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-locationsimulatoroptions#sdk-for-ios-explore-s-7heresdk24LocationSimulatorOptionsV11speedFactor20notificationIntervalACSd_Sdtcfc" class="token"><code>init(speedFactor:</code><wbr></wbr><code>notificationInterval:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -155,10 +155,8 @@ Options to specify how the location simulator will behave.
   Swift
 
   ``` highlight
-  public init ( speedFactor : Double = 1.0 , notificationInterval : TimeInterval = 1000 * 0.001 )
+  public init(speedFactor: Double = 1.0, notificationInterval: TimeInterval = 1000 * 0.001)
   ```
-
-  </pre>
 
   </div>
 

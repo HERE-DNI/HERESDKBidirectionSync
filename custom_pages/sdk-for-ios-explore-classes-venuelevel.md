@@ -35,7 +35,7 @@ Represents one level of a building or a complex of buildings inside the <a href=
 
 - <div>
 
-  ` `<span id="/s:7heresdk10VenueLevelC11StringArraya"></span>` `<span id="//apple_ref/swift/Alias/StringArray" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuelevel#/s:7heresdk10VenueLevelC11StringArraya" class="token"><code>StringArray</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10VenueLevelC11StringArraya"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Alias-StringArray" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuelevel#sdk-for-ios-explore-s-7heresdk10VenueLevelC11StringArraya" class="token"><code>StringArray</code></a> 
 
   </div>
 
@@ -79,7 +79,7 @@ Represents one level of a building or a complex of buildings inside the <a href=
 
 - <div>
 
-  ` `<span id="/s:7heresdk10VenueLevelC13GeometryArraya"></span>` `<span id="//apple_ref/swift/Alias/GeometryArray" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuelevel#/s:7heresdk10VenueLevelC13GeometryArraya" class="token"><code>GeometryArray</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10VenueLevelC13GeometryArraya"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Alias-GeometryArray" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuelevel#sdk-for-ios-explore-s-7heresdk10VenueLevelC13GeometryArraya" class="token"><code>GeometryArray</code></a> 
 
   </div>
 
@@ -115,6 +115,10 @@ Represents one level of a building or a complex of buildings inside the <a href=
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-venuegeometry">VenueGeometry</a>
+
   </div>
 
   </div>
@@ -123,7 +127,7 @@ Represents one level of a building or a complex of buildings inside the <a href=
 
 - <div>
 
-  ` `<span id="/s:7heresdk10VenueLevelC19StringToPropertyMapa"></span>` `<span id="//apple_ref/swift/Alias/StringToPropertyMap" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuelevel#/s:7heresdk10VenueLevelC19StringToPropertyMapa" class="token"><code>StringToPropertyMap</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10VenueLevelC19StringToPropertyMapa"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Alias-StringToPropertyMap" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuelevel#sdk-for-ios-explore-s-7heresdk10VenueLevelC19StringToPropertyMapa" class="token"><code>StringToPropertyMap</code></a> 
 
   </div>
 
@@ -159,6 +163,10 @@ Represents one level of a building or a complex of buildings inside the <a href=
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-property">Property</a>
+
   </div>
 
   </div>
@@ -167,7 +175,7 @@ Represents one level of a building or a complex of buildings inside the <a href=
 
 - <div>
 
-  ` `<span id="/s:7heresdk10VenueLevelC24StringToGeometryArrayMapa"></span>` `<span id="//apple_ref/swift/Alias/StringToGeometryArrayMap" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuelevel#/s:7heresdk10VenueLevelC24StringToGeometryArrayMapa" class="token"><code>StringToGeometryArrayMap</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10VenueLevelC24StringToGeometryArrayMapa"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Alias-StringToGeometryArrayMap" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuelevel#sdk-for-ios-explore-s-7heresdk10VenueLevelC24StringToGeometryArrayMapa" class="token"><code>StringToGeometryArrayMap</code></a> 
 
   </div>
 
@@ -203,6 +211,10 @@ Represents one level of a building or a complex of buildings inside the <a href=
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-venuelevel#sdk-for-ios-explore-s-7heresdk10VenueLevelC13GeometryArraya">GeometryArray</a>
+
   </div>
 
   </div>
@@ -211,7 +223,7 @@ Represents one level of a building or a complex of buildings inside the <a href=
 
 - <div>
 
-  ` `<span id="/s:7heresdk10VenueLevelC13TopologyArraya"></span>` `<span id="//apple_ref/swift/Alias/TopologyArray" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuelevel#/s:7heresdk10VenueLevelC13TopologyArraya" class="token"><code>TopologyArray</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10VenueLevelC13TopologyArraya"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Alias-TopologyArray" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuelevel#sdk-for-ios-explore-s-7heresdk10VenueLevelC13TopologyArraya" class="token"><code>TopologyArray</code></a> 
 
   </div>
 
@@ -247,6 +259,10 @@ Represents one level of a building or a complex of buildings inside the <a href=
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-venuetopology">VenueTopology</a>
+
   </div>
 
   </div>
@@ -255,7 +271,7 @@ Represents one level of a building or a complex of buildings inside the <a href=
 
 - <div>
 
-  ` `<span id="/s:7heresdk10VenueLevelC14CrosswalkArraya"></span>` `<span id="//apple_ref/swift/Alias/CrosswalkArray" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuelevel#/s:7heresdk10VenueLevelC14CrosswalkArraya" class="token"><code>CrosswalkArray</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10VenueLevelC14CrosswalkArraya"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Alias-CrosswalkArray" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuelevel#sdk-for-ios-explore-s-7heresdk10VenueLevelC14CrosswalkArraya" class="token"><code>CrosswalkArray</code></a> 
 
   </div>
 
@@ -291,6 +307,10 @@ Represents one level of a building or a complex of buildings inside the <a href=
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-crosswalk">Crosswalk</a>
+
   </div>
 
   </div>
@@ -299,7 +319,7 @@ Represents one level of a building or a complex of buildings inside the <a href=
 
 - <div>
 
-  ` `<span id="/s:7heresdk10VenueLevelC10identifierSSvp"></span>` `<span id="//apple_ref/swift/Property/identifier" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuelevel#/s:7heresdk10VenueLevelC10identifierSSvp" class="token"><code>identifier</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10VenueLevelC10identifierSSvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-identifier" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuelevel#sdk-for-ios-explore-s-7heresdk10VenueLevelC10identifierSSvp" class="token"><code>identifier</code></a> 
 
   </div>
 
@@ -343,7 +363,7 @@ Represents one level of a building or a complex of buildings inside the <a href=
 
 - <div>
 
-  ` `<span id="/s:7heresdk10VenueLevelC6zIndexs5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/zIndex" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuelevel#/s:7heresdk10VenueLevelC6zIndexs5Int32Vvp" class="token"><code>zIndex</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10VenueLevelC6zIndexs5Int32Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-zIndex" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuelevel#sdk-for-ios-explore-s-7heresdk10VenueLevelC6zIndexs5Int32Vvp" class="token"><code>zIndex</code></a> 
 
   </div>
 
@@ -387,7 +407,7 @@ Represents one level of a building or a complex of buildings inside the <a href=
 
 - <div>
 
-  ` `<span id="/s:7heresdk10VenueLevelC10propertiesSDySSAA8PropertyCGvp"></span>` `<span id="//apple_ref/swift/Property/properties" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuelevel#/s:7heresdk10VenueLevelC10propertiesSDySSAA8PropertyCGvp" class="token"><code>properties</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10VenueLevelC10propertiesSDySSAA8PropertyCGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-properties" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuelevel#sdk-for-ios-explore-s-7heresdk10VenueLevelC10propertiesSDySSAA8PropertyCGvp" class="token"><code>properties</code></a> 
 
   </div>
 
@@ -423,6 +443,10 @@ Represents one level of a building or a complex of buildings inside the <a href=
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-venuelevel#sdk-for-ios-explore-s-7heresdk10VenueLevelC19StringToPropertyMapa">StringToPropertyMap</a>
+
   </div>
 
   </div>
@@ -431,7 +455,7 @@ Represents one level of a building or a complex of buildings inside the <a href=
 
 - <div>
 
-  ` `<span id="/s:7heresdk10VenueLevelC4nameSSvp"></span>` `<span id="//apple_ref/swift/Property/name" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuelevel#/s:7heresdk10VenueLevelC4nameSSvp" class="token"><code>name</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10VenueLevelC4nameSSvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-name" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuelevel#sdk-for-ios-explore-s-7heresdk10VenueLevelC4nameSSvp" class="token"><code>name</code></a> 
 
   </div>
 
@@ -475,7 +499,7 @@ Represents one level of a building or a complex of buildings inside the <a href=
 
 - <div>
 
-  ` `<span id="/s:7heresdk10VenueLevelC9shortNameSSvp"></span>` `<span id="//apple_ref/swift/Property/shortName" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuelevel#/s:7heresdk10VenueLevelC9shortNameSSvp" class="token"><code>shortName</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10VenueLevelC9shortNameSSvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-shortName" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuelevel#sdk-for-ios-explore-s-7heresdk10VenueLevelC9shortNameSSvp" class="token"><code>shortName</code></a> 
 
   </div>
 
@@ -519,7 +543,7 @@ Represents one level of a building or a complex of buildings inside the <a href=
 
 - <div>
 
-  ` `<span id="/s:7heresdk10VenueLevelC08isIsMainC0Sbvp"></span>` `<span id="//apple_ref/swift/Property/isIsMainLevel" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuelevel#/s:7heresdk10VenueLevelC08isIsMainC0Sbvp" class="token"><code>isIsMainLevel</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10VenueLevelC08isIsMainC0Sbvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-isIsMainLevel" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuelevel#sdk-for-ios-explore-s-7heresdk10VenueLevelC08isIsMainC0Sbvp" class="token"><code>isIsMainLevel</code></a> 
 
   </div>
 
@@ -563,7 +587,7 @@ Represents one level of a building or a complex of buildings inside the <a href=
 
 - <div>
 
-  ` `<span id="/s:7heresdk10VenueLevelC7drawingAA0B7DrawingCvp"></span>` `<span id="//apple_ref/swift/Property/drawing" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuelevel#/s:7heresdk10VenueLevelC7drawingAA0B7DrawingCvp" class="token"><code>drawing</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10VenueLevelC7drawingAA0B7DrawingCvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-drawing" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuelevel#sdk-for-ios-explore-s-7heresdk10VenueLevelC7drawingAA0B7DrawingCvp" class="token"><code>drawing</code></a> 
 
   </div>
 
@@ -599,6 +623,10 @@ Represents one level of a building or a complex of buildings inside the <a href=
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-venuedrawing">VenueDrawing</a>
+
   </div>
 
   </div>
@@ -607,7 +635,7 @@ Represents one level of a building or a complex of buildings inside the <a href=
 
 - <div>
 
-  ` `<span id="/s:7heresdk10VenueLevelC10geometriesSayAA0B8GeometryCGvp"></span>` `<span id="//apple_ref/swift/Property/geometries" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuelevel#/s:7heresdk10VenueLevelC10geometriesSayAA0B8GeometryCGvp" class="token"><code>geometries</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10VenueLevelC10geometriesSayAA0B8GeometryCGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-geometries" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuelevel#sdk-for-ios-explore-s-7heresdk10VenueLevelC10geometriesSayAA0B8GeometryCGvp" class="token"><code>geometries</code></a> 
 
   </div>
 
@@ -643,6 +671,10 @@ Represents one level of a building or a complex of buildings inside the <a href=
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-venuelevel#sdk-for-ios-explore-s-7heresdk10VenueLevelC13GeometryArraya">GeometryArray</a>
+
   </div>
 
   </div>
@@ -651,7 +683,7 @@ Represents one level of a building or a complex of buildings inside the <a href=
 
 - <div>
 
-  ` `<span id="/s:7heresdk10VenueLevelC9drawingIDSSvp"></span>` `<span id="//apple_ref/swift/Property/drawingID" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuelevel#/s:7heresdk10VenueLevelC9drawingIDSSvp" class="token"><code>drawingID</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10VenueLevelC9drawingIDSSvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-drawingID" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuelevel#sdk-for-ios-explore-s-7heresdk10VenueLevelC9drawingIDSSvp" class="token"><code>drawingID</code></a> 
 
   </div>
 
@@ -695,7 +727,7 @@ Represents one level of a building or a complex of buildings inside the <a href=
 
 - <div>
 
-  ` `<span id="/s:7heresdk10VenueLevelC6centerAA14GeoCoordinatesVvp"></span>` `<span id="//apple_ref/swift/Property/center" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuelevel#/s:7heresdk10VenueLevelC6centerAA14GeoCoordinatesVvp" class="token"><code>center</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10VenueLevelC6centerAA14GeoCoordinatesVvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-center" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuelevel#sdk-for-ios-explore-s-7heresdk10VenueLevelC6centerAA14GeoCoordinatesVvp" class="token"><code>center</code></a> 
 
   </div>
 
@@ -731,6 +763,10 @@ Represents one level of a building or a complex of buildings inside the <a href=
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geocoordinates">GeoCoordinates</a>
+
   </div>
 
   </div>
@@ -739,7 +775,7 @@ Represents one level of a building or a complex of buildings inside the <a href=
 
 - <div>
 
-  ` `<span id="/s:7heresdk10VenueLevelC11boundingBoxAA03GeoE0Vvp"></span>` `<span id="//apple_ref/swift/Property/boundingBox" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuelevel#/s:7heresdk10VenueLevelC11boundingBoxAA03GeoE0Vvp" class="token"><code>boundingBox</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10VenueLevelC11boundingBoxAA03GeoE0Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-boundingBox" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuelevel#sdk-for-ios-explore-s-7heresdk10VenueLevelC11boundingBoxAA03GeoE0Vvp" class="token"><code>boundingBox</code></a> 
 
   </div>
 
@@ -775,6 +811,10 @@ Represents one level of a building or a complex of buildings inside the <a href=
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geobox">GeoBox</a>
+
   </div>
 
   </div>
@@ -783,7 +823,7 @@ Represents one level of a building or a complex of buildings inside the <a href=
 
 - <div>
 
-  ` `<span id="/s:7heresdk10VenueLevelC16geometriesByNameSayAA0B8GeometryCGvp"></span>` `<span id="//apple_ref/swift/Property/geometriesByName" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuelevel#/s:7heresdk10VenueLevelC16geometriesByNameSayAA0B8GeometryCGvp" class="token"><code>geometriesByName</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10VenueLevelC16geometriesByNameSayAA0B8GeometryCGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-geometriesByName" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuelevel#sdk-for-ios-explore-s-7heresdk10VenueLevelC16geometriesByNameSayAA0B8GeometryCGvp" class="token"><code>geometriesByName</code></a> 
 
   </div>
 
@@ -819,6 +859,10 @@ Represents one level of a building or a complex of buildings inside the <a href=
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-venuelevel#sdk-for-ios-explore-s-7heresdk10VenueLevelC13GeometryArraya">GeometryArray</a>
+
   </div>
 
   </div>
@@ -827,7 +871,7 @@ Represents one level of a building or a complex of buildings inside the <a href=
 
 - <div>
 
-  ` `<span id="/s:7heresdk10VenueLevelC21geometriesByIconNamesSDySSSayAA0B8GeometryCGGvp"></span>` `<span id="//apple_ref/swift/Property/geometriesByIconNames" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuelevel#/s:7heresdk10VenueLevelC21geometriesByIconNamesSDySSSayAA0B8GeometryCGGvp" class="token"><code>geometriesByIconNames</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10VenueLevelC21geometriesByIconNamesSDySSSayAA0B8GeometryCGGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-geometriesByIconNames" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuelevel#sdk-for-ios-explore-s-7heresdk10VenueLevelC21geometriesByIconNamesSDySSSayAA0B8GeometryCGGvp" class="token"><code>geometriesByIconNames</code></a> 
 
   </div>
 
@@ -863,6 +907,10 @@ Represents one level of a building or a complex of buildings inside the <a href=
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-venuelevel#sdk-for-ios-explore-s-7heresdk10VenueLevelC24StringToGeometryArrayMapa">StringToGeometryArrayMap</a>
+
   </div>
 
   </div>
@@ -871,7 +919,7 @@ Represents one level of a building or a complex of buildings inside the <a href=
 
 - <div>
 
-  ` `<span id="/s:7heresdk10VenueLevelC10topologiesSayAA0B8TopologyCGvp"></span>` `<span id="//apple_ref/swift/Property/topologies" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuelevel#/s:7heresdk10VenueLevelC10topologiesSayAA0B8TopologyCGvp" class="token"><code>topologies</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10VenueLevelC10topologiesSayAA0B8TopologyCGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-topologies" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuelevel#sdk-for-ios-explore-s-7heresdk10VenueLevelC10topologiesSayAA0B8TopologyCGvp" class="token"><code>topologies</code></a> 
 
   </div>
 
@@ -907,6 +955,10 @@ Represents one level of a building or a complex of buildings inside the <a href=
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-venuelevel#sdk-for-ios-explore-s-7heresdk10VenueLevelC13TopologyArraya">TopologyArray</a>
+
   </div>
 
   </div>
@@ -915,7 +967,7 @@ Represents one level of a building or a complex of buildings inside the <a href=
 
 - <div>
 
-  ` `<span id="/s:7heresdk10VenueLevelC10crosswalksSayAA9CrosswalkCGvp"></span>` `<span id="//apple_ref/swift/Property/crosswalks" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuelevel#/s:7heresdk10VenueLevelC10crosswalksSayAA9CrosswalkCGvp" class="token"><code>crosswalks</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10VenueLevelC10crosswalksSayAA9CrosswalkCGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-crosswalks" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuelevel#sdk-for-ios-explore-s-7heresdk10VenueLevelC10crosswalksSayAA9CrosswalkCGvp" class="token"><code>crosswalks</code></a> 
 
   </div>
 
@@ -951,6 +1003,10 @@ Represents one level of a building or a complex of buildings inside the <a href=
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-venuelevel#sdk-for-ios-explore-s-7heresdk10VenueLevelC14CrosswalkArraya">CrosswalkArray</a>
+
   </div>
 
   </div>
@@ -959,7 +1015,7 @@ Represents one level of a building or a complex of buildings inside the <a href=
 
 - <div>
 
-      getGeometryByCoordinates(coordinates: )
+   <span id="sdk-for-ios-explore-s-7heresdk10VenueLevelC24getGeometryByCoordinates11coordinatesAA0bE0CSgAA03GeoG0V_tF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-getGeometryByCoordinates-coordinates" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuelevel#sdk-for-ios-explore-s-7heresdk10VenueLevelC24getGeometryByCoordinates11coordinatesAA0bE0CSgAA03GeoG0V_tF" class="token"><code>getGeometryByCoordinates(coordinates:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -990,12 +1046,15 @@ Represents one level of a building or a complex of buildings inside the <a href=
   Swift
 
   ``` highlight
-  public func getGeometryByCoordinates ( coordinates : GeoCoordinates ) -> VenueGeometry ?
+  public func getGeometryByCoordinates(coordinates: GeoCoordinates) -> VenueGeometry?
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geocoordinates">GeoCoordinates</a>
+  - <a href="sdk-for-ios-explore-classes-venuegeometry">VenueGeometry</a>
 
   </div>
 
@@ -1034,7 +1093,7 @@ Represents one level of a building or a complex of buildings inside the <a href=
 
 - <div>
 
-      getGeometriesByCoordinates(coordinates: )
+   <span id="sdk-for-ios-explore-s-7heresdk10VenueLevelC26getGeometriesByCoordinates11coordinatesSayAA0B8GeometryCGAA03GeoG0V_tF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-getGeometriesByCoordinates-coordinates" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuelevel#sdk-for-ios-explore-s-7heresdk10VenueLevelC26getGeometriesByCoordinates11coordinatesSayAA0B8GeometryCGAA03GeoG0V_tF" class="token"><code>getGeometriesByCoordinates(coordinates:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1065,12 +1124,15 @@ Represents one level of a building or a complex of buildings inside the <a href=
   Swift
 
   ``` highlight
-  public func getGeometriesByCoordinates ( coordinates : GeoCoordinates ) -> VenueLevel . GeometryArray
+  public func getGeometriesByCoordinates(coordinates: GeoCoordinates) -> VenueLevel.GeometryArray
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geocoordinates">GeoCoordinates</a>
+  - <a href="sdk-for-ios-explore-classes-venuelevel#sdk-for-ios-explore-s-7heresdk10VenueLevelC13GeometryArraya">GeometryArray</a>
 
   </div>
 
@@ -1109,7 +1171,7 @@ Represents one level of a building or a complex of buildings inside the <a href=
 
 - <div>
 
-      getGeometryById(geometryId: )
+   <span id="sdk-for-ios-explore-s-7heresdk10VenueLevelC15getGeometryById08geometryG0AA0bE0CSgSS_tF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-getGeometryById-geometryId" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuelevel#sdk-for-ios-explore-s-7heresdk10VenueLevelC15getGeometryById08geometryG0AA0bE0CSgSS_tF" class="token"><code>getGeometryById(geometryId:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1140,12 +1202,14 @@ Represents one level of a building or a complex of buildings inside the <a href=
   Swift
 
   ``` highlight
-  public func getGeometryById ( geometryId : String ) -> VenueGeometry ?
+  public func getGeometryById(geometryId: String) -> VenueGeometry?
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-venuegeometry">VenueGeometry</a>
 
   </div>
 
@@ -1184,7 +1248,7 @@ Represents one level of a building or a complex of buildings inside the <a href=
 
 - <div>
 
-      getGeometryByAddress(geometryAddress: )
+   <span id="sdk-for-ios-explore-s-7heresdk10VenueLevelC20getGeometryByAddress08geometryG0AA0bE0CSgSS_tF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-getGeometryByAddress-geometryAddress" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuelevel#sdk-for-ios-explore-s-7heresdk10VenueLevelC20getGeometryByAddress08geometryG0AA0bE0CSgSS_tF" class="token"><code>getGeometryByAddress(geometryAddress:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1215,12 +1279,14 @@ Represents one level of a building or a complex of buildings inside the <a href=
   Swift
 
   ``` highlight
-  public func getGeometryByAddress ( geometryAddress : String ) -> VenueGeometry ?
+  public func getGeometryByAddress(geometryAddress: String) -> VenueGeometry?
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-venuegeometry">VenueGeometry</a>
 
   </div>
 
@@ -1259,7 +1325,7 @@ Represents one level of a building or a complex of buildings inside the <a href=
 
 - <div>
 
-      filterGeometry(filter: filterType: )
+   <span id="sdk-for-ios-explore-s-7heresdk10VenueLevelC14filterGeometry0D00D4TypeSayAA0bE0CGSS_AA0be6FilterF0OtF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-filterGeometry-filter-filterType" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuelevel#sdk-for-ios-explore-s-7heresdk10VenueLevelC14filterGeometry0D00D4TypeSayAA0bE0CGSS_AA0be6FilterF0OtF" class="token"><code>filterGeometry(filter:</code><wbr></wbr><code>filterType:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1290,12 +1356,15 @@ Represents one level of a building or a complex of buildings inside the <a href=
   Swift
 
   ``` highlight
-  public func filterGeometry ( filter : String , filterType : VenueGeometryFilterType ) -> VenueLevel . GeometryArray
+  public func filterGeometry(filter: String, filterType: VenueGeometryFilterType) -> VenueLevel.GeometryArray
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-venuegeometryfiltertype">VenueGeometryFilterType</a>
+  - <a href="sdk-for-ios-explore-classes-venuelevel#sdk-for-ios-explore-s-7heresdk10VenueLevelC13GeometryArraya">GeometryArray</a>
 
   </div>
 
@@ -1340,7 +1409,7 @@ Represents one level of a building or a complex of buildings inside the <a href=
 
 - <div>
 
-      getTopologyByCoordinates(coordinates: )
+   <span id="sdk-for-ios-explore-s-7heresdk10VenueLevelC24getTopologyByCoordinates11coordinatesAA0bE0CSgAA03GeoG0V_tF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-getTopologyByCoordinates-coordinates" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuelevel#sdk-for-ios-explore-s-7heresdk10VenueLevelC24getTopologyByCoordinates11coordinatesAA0bE0CSgAA03GeoG0V_tF" class="token"><code>getTopologyByCoordinates(coordinates:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1371,12 +1440,15 @@ Represents one level of a building or a complex of buildings inside the <a href=
   Swift
 
   ``` highlight
-  public func getTopologyByCoordinates ( coordinates : GeoCoordinates ) -> VenueTopology ?
+  public func getTopologyByCoordinates(coordinates: GeoCoordinates) -> VenueTopology?
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geocoordinates">GeoCoordinates</a>
+  - <a href="sdk-for-ios-explore-classes-venuetopology">VenueTopology</a>
 
   </div>
 
@@ -1415,7 +1487,7 @@ Represents one level of a building or a complex of buildings inside the <a href=
 
 - <div>
 
-      getCrosswalkByCoordinates(coordinates: )
+   <span id="sdk-for-ios-explore-s-7heresdk10VenueLevelC25getCrosswalkByCoordinates11coordinatesAA0E0CSgAA03GeoG0V_tF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-getCrosswalkByCoordinates-coordinates" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuelevel#sdk-for-ios-explore-s-7heresdk10VenueLevelC25getCrosswalkByCoordinates11coordinatesAA0E0CSgAA03GeoG0V_tF" class="token"><code>getCrosswalkByCoordinates(coordinates:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1446,12 +1518,15 @@ Represents one level of a building or a complex of buildings inside the <a href=
   Swift
 
   ``` highlight
-  public func getCrosswalkByCoordinates ( coordinates : GeoCoordinates ) -> Crosswalk ?
+  public func getCrosswalkByCoordinates(coordinates: GeoCoordinates) -> Crosswalk?
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geocoordinates">GeoCoordinates</a>
+  - <a href="sdk-for-ios-explore-classes-crosswalk">Crosswalk</a>
 
   </div>
 

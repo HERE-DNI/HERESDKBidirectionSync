@@ -35,7 +35,7 @@ Provides means to populate personal places data source. Also acts as a owner of 
 
 - <div>
 
-      init()
+   <span id="sdk-for-ios-explore-s-7heresdk8MyPlacesCACycfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-myplaces#sdk-for-ios-explore-s-7heresdk8MyPlacesCACycfc" class="token"><code>init()</code></a> 
 
   </div>
 
@@ -66,10 +66,8 @@ Provides means to populate personal places data source. Also acts as a owner of 
   Swift
 
   ``` highlight
-  public init ()
+  public init()
   ```
-
-  </pre>
 
   </div>
 
@@ -81,7 +79,7 @@ Provides means to populate personal places data source. Also acts as a owner of 
 
 - <div>
 
-  ` `<span id="/s:7heresdk8MyPlacesC6placesSayAA8GeoPlaceVGvp"></span>` `<span id="//apple_ref/swift/Property/places" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-myplaces#/s:7heresdk8MyPlacesC6placesSayAA8GeoPlaceVGvp" class="token"><code>places</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk8MyPlacesC6placesSayAA8GeoPlaceVGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-places" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-myplaces#sdk-for-ios-explore-s-7heresdk8MyPlacesC6placesSayAA8GeoPlaceVGvp" class="token"><code>places</code></a> 
 
   </div>
 
@@ -117,6 +115,10 @@ Provides means to populate personal places data source. Also acts as a owner of 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geoplace">GeoPlace</a>
+
   </div>
 
   </div>
@@ -125,7 +127,7 @@ Provides means to populate personal places data source. Also acts as a owner of 
 
 - <div>
 
-      addPlace(place: callback: )
+   <span id="sdk-for-ios-explore-s-7heresdk8MyPlacesC8addPlace5place8callbackAA10TaskHandle_pAA03GeoE0V_yAA0H7OutcomeOctF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-addPlace-place-callback" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-myplaces#sdk-for-ios-explore-s-7heresdk8MyPlacesC8addPlace5place8callbackAA10TaskHandle_pAA03GeoE0V_yAA0H7OutcomeOctF" class="token"><code>addPlace(place:</code><wbr></wbr><code>callback:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -156,12 +158,16 @@ Provides means to populate personal places data source. Also acts as a owner of 
   Swift
 
   ``` highlight
-  public func addPlace ( place : GeoPlace , callback : @escaping TaskCompletionHandler ) -> TaskHandle
+  public func addPlace(place: GeoPlace, callback: @escaping TaskCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geoplace">GeoPlace</a>
+  - <a href="sdk-for-ios-explore-core#sdk-for-ios-explore-s-7heresdk21TaskCompletionHandlera">TaskCompletionHandler</a>
+  - <a href="sdk-for-ios-explore-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -206,7 +212,7 @@ Provides means to populate personal places data source. Also acts as a owner of 
 
 - <div>
 
-      addPlaces(places: callback: )
+   <span id="sdk-for-ios-explore-s-7heresdk8MyPlacesC03addC06places8callbackAA10TaskHandle_pSayAA8GeoPlaceVG_yAA0G7OutcomeOctF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-addPlaces-places-callback" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-myplaces#sdk-for-ios-explore-s-7heresdk8MyPlacesC03addC06places8callbackAA10TaskHandle_pSayAA8GeoPlaceVG_yAA0G7OutcomeOctF" class="token"><code>addPlaces(places:</code><wbr></wbr><code>callback:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -237,12 +243,16 @@ Provides means to populate personal places data source. Also acts as a owner of 
   Swift
 
   ``` highlight
-  public func addPlaces ( places : [ GeoPlace ], callback : @escaping TaskCompletionHandler ) -> TaskHandle
+  public func addPlaces(places: [GeoPlace], callback: @escaping TaskCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geoplace">GeoPlace</a>
+  - <a href="sdk-for-ios-explore-core#sdk-for-ios-explore-s-7heresdk21TaskCompletionHandlera">TaskCompletionHandler</a>
+  - <a href="sdk-for-ios-explore-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -287,7 +297,7 @@ Provides means to populate personal places data source. Also acts as a owner of 
 
 - <div>
 
-      removePlace(placeId: callback: )
+   <span id="sdk-for-ios-explore-s-7heresdk8MyPlacesC11removePlace7placeId8callbackAA10TaskHandle_pSS_yAA0I7OutcomeOctF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-removePlace-placeId-callback" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-myplaces#sdk-for-ios-explore-s-7heresdk8MyPlacesC11removePlace7placeId8callbackAA10TaskHandle_pSS_yAA0I7OutcomeOctF" class="token"><code>removePlace(placeId:</code><wbr></wbr><code>callback:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -318,12 +328,15 @@ Provides means to populate personal places data source. Also acts as a owner of 
   Swift
 
   ``` highlight
-  public func removePlace ( placeId : String , callback : @escaping TaskCompletionHandler ) -> TaskHandle
+  public func removePlace(placeId: String, callback: @escaping TaskCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-core#sdk-for-ios-explore-s-7heresdk21TaskCompletionHandlera">TaskCompletionHandler</a>
+  - <a href="sdk-for-ios-explore-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -368,7 +381,7 @@ Provides means to populate personal places data source. Also acts as a owner of 
 
 - <div>
 
-      removePlaces(placeIds: callback: )
+   <span id="sdk-for-ios-explore-s-7heresdk8MyPlacesC06removeC08placeIds8callbackAA10TaskHandle_pSaySSG_yAA0H7OutcomeOctF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-removePlaces-placeIds-callback" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-myplaces#sdk-for-ios-explore-s-7heresdk8MyPlacesC06removeC08placeIds8callbackAA10TaskHandle_pSaySSG_yAA0H7OutcomeOctF" class="token"><code>removePlaces(placeIds:</code><wbr></wbr><code>callback:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -399,12 +412,15 @@ Provides means to populate personal places data source. Also acts as a owner of 
   Swift
 
   ``` highlight
-  public func removePlaces ( placeIds : [ String ], callback : @escaping TaskCompletionHandler ) -> TaskHandle
+  public func removePlaces(placeIds: [String], callback: @escaping TaskCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-core#sdk-for-ios-explore-s-7heresdk21TaskCompletionHandlera">TaskCompletionHandler</a>
+  - <a href="sdk-for-ios-explore-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -449,7 +465,7 @@ Provides means to populate personal places data source. Also acts as a owner of 
 
 - <div>
 
-      removeAll(callback: )
+   <span id="sdk-for-ios-explore-s-7heresdk8MyPlacesC9removeAll8callbackAA10TaskHandle_pyAA0G7OutcomeOc_tF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-removeAll-callback" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-myplaces#sdk-for-ios-explore-s-7heresdk8MyPlacesC9removeAll8callbackAA10TaskHandle_pyAA0G7OutcomeOc_tF" class="token"><code>removeAll(callback:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -480,12 +496,15 @@ Provides means to populate personal places data source. Also acts as a owner of 
   Swift
 
   ``` highlight
-  public func removeAll ( callback : @escaping TaskCompletionHandler ) -> TaskHandle
+  public func removeAll(callback: @escaping TaskCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-core#sdk-for-ios-explore-s-7heresdk21TaskCompletionHandlera">TaskCompletionHandler</a>
+  - <a href="sdk-for-ios-explore-protocols-taskhandle">TaskHandle</a>
 
   </div>
 

@@ -23,6 +23,10 @@ extension MapScene.MapPickFilter: Hashable
 
 </div>
 
+Related types:
+
+- <a href="sdk-for-ios-navigate-classes-mapscene">MapScene</a>
+
 </div>
 
 Filter for the map content to be picked.
@@ -35,7 +39,7 @@ Filter for the map content to be picked.
 
 - <div>
 
-      init(filter: )
+   <span id="sdk-for-ios-navigate-s-7heresdk8MapSceneC0B10PickFilterC6filterAESayAE11ContentTypeOG_tcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-filter" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapscene-mappickfilter#sdk-for-ios-navigate-s-7heresdk8MapSceneC0B10PickFilterC6filterAESayAE11ContentTypeOG_tcfc" class="token"><code>init(filter:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -66,12 +70,15 @@ Filter for the map content to be picked.
   Swift
 
   ``` highlight
-  public init ( filter : [ MapScene . MapPickFilter . ContentType ])
+  public init(filter: [MapScene.MapPickFilter.ContentType])
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mapscene">MapScene</a>
+  - <a href="sdk-for-ios-navigate-classes-mapscene-mappickfilter-contenttype">ContentType</a>
 
   </div>
 
@@ -102,7 +109,7 @@ Filter for the map content to be picked.
 
 - <div>
 
-  ` `<span id="/s:7heresdk8MapSceneC0B10PickFilterC11ContentTypeO"></span>` `<span id="//apple_ref/swift/Enum/ContentType" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapscene-mappickfilter#/s:7heresdk8MapSceneC0B10PickFilterC11ContentTypeO" class="token"><code>ContentType</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8MapSceneC0B10PickFilterC11ContentTypeO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-ContentType" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapscene-mappickfilter#sdk-for-ios-navigate-s-7heresdk8MapSceneC0B10PickFilterC11ContentTypeO" class="token"><code>ContentType</code></a> 
 
   </div>
 

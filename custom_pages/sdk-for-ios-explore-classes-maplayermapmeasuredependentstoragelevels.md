@@ -35,7 +35,7 @@ Provides a mapping between a MapLayer map measure to datasource storage level.
 
 - <div>
 
-      withStorageLevelOffset(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk08MapLayerB29MeasureDependentStorageLevelsC04withF11LevelOffsetyACs5Int32VFZ"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-withStorageLevelOffset-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-maplayermapmeasuredependentstoragelevels#sdk-for-ios-explore-s-7heresdk08MapLayerB29MeasureDependentStorageLevelsC04withF11LevelOffsetyACs5Int32VFZ" class="token"><code>withStorageLevelOffset(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -66,10 +66,8 @@ Provides a mapping between a MapLayer map measure to datasource storage level.
   Swift
 
   ``` highlight
-  public static func withStorageLevelOffset ( _ offset : Int32 ) -> MapLayerMapMeasureDependentStorageLevels
+  public static func withStorageLevelOffset(_ offset: Int32) -> MapLayerMapMeasureDependentStorageLevels
   ```
-
-  </pre>
 
   </div>
 

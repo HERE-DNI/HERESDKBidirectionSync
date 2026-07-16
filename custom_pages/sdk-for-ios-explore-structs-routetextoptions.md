@@ -27,7 +27,7 @@ Specify how textual output should be provided.
 
 - <div>
 
-  ` `<span id="/s:7heresdk16RouteTextOptionsV8languageAA12LanguageCodeOvp"></span>` `<span id="//apple_ref/swift/Property/language" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-routetextoptions#/s:7heresdk16RouteTextOptionsV8languageAA12LanguageCodeOvp" class="token"><code>language</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16RouteTextOptionsV8languageAA12LanguageCodeOvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-language" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-routetextoptions#sdk-for-ios-explore-s-7heresdk16RouteTextOptionsV8languageAA12LanguageCodeOvp" class="token"><code>language</code></a> 
 
   </div>
 
@@ -63,6 +63,10 @@ Specify how textual output should be provided.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-languagecode">LanguageCode</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ Specify how textual output should be provided.
 
 - <div>
 
-  ` `<span id="/s:7heresdk16RouteTextOptionsV10unitSystemAA04UnitF0Ovp"></span>` `<span id="//apple_ref/swift/Property/unitSystem" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-routetextoptions#/s:7heresdk16RouteTextOptionsV10unitSystemAA04UnitF0Ovp" class="token"><code>unitSystem</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16RouteTextOptionsV10unitSystemAA04UnitF0Ovp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-unitSystem" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-routetextoptions#sdk-for-ios-explore-s-7heresdk16RouteTextOptionsV10unitSystemAA04UnitF0Ovp" class="token"><code>unitSystem</code></a> 
 
   </div>
 
@@ -107,6 +111,10 @@ Specify how textual output should be provided.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-unitsystem">UnitSystem</a>
+
   </div>
 
   </div>
@@ -115,7 +123,7 @@ Specify how textual output should be provided.
 
 - <div>
 
-  ` `<span id="/s:7heresdk16RouteTextOptionsV09textUsageD0AA0cfD0Vvp"></span>` `<span id="//apple_ref/swift/Property/textUsageOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-routetextoptions#/s:7heresdk16RouteTextOptionsV09textUsageD0AA0cfD0Vvp" class="token"><code>textUsageOptions</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16RouteTextOptionsV09textUsageD0AA0cfD0Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-textUsageOptions" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-routetextoptions#sdk-for-ios-explore-s-7heresdk16RouteTextOptionsV09textUsageD0AA0cfD0Vvp" class="token"><code>textUsageOptions</code></a> 
 
   </div>
 
@@ -133,7 +141,7 @@ Specify how textual output should be provided.
 
   <div class="abstract">
 
-  An option whether street name, road number and sign post direction should be used when generating notification. Defaults to each attribute as <a href="sdk-for-ios-explore-enums-localizedtextpreference#/s:7heresdk23LocalizedTextPreferenceO9useAlwaysyA2CmF">`LocalizedTextPreference.useAlways`</a>.
+  An option whether street name, road number and sign post direction should be used when generating notification. Defaults to each attribute as <a href="sdk-for-ios-explore-enums-localizedtextpreference#sdk-for-ios-explore-s-7heresdk23LocalizedTextPreferenceO9useAlwaysyA2CmF">`LocalizedTextPreference.useAlways`</a>.
 
   </div>
 
@@ -151,6 +159,10 @@ Specify how textual output should be provided.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-textusageoptions">TextUsageOptions</a>
+
   </div>
 
   </div>
@@ -159,7 +171,7 @@ Specify how textual output should be provided.
 
 - <div>
 
-      init(language: unitSystem: textUsageOptions: )
+   <span id="sdk-for-ios-explore-s-7heresdk16RouteTextOptionsV8language10unitSystem09textUsageD0AcA12LanguageCodeO_AA04UnitG0OAA0ciD0Vtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-language-unitSystem-textUsageOptions" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-routetextoptions#sdk-for-ios-explore-s-7heresdk16RouteTextOptionsV8language10unitSystem09textUsageD0AcA12LanguageCodeO_AA04UnitG0OAA0ciD0Vtcfc" class="token"><code>init(language:</code><wbr></wbr><code>unitSystem:</code><wbr></wbr><code>textUsageOptions:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -190,12 +202,16 @@ Specify how textual output should be provided.
   Swift
 
   ``` highlight
-  public init ( language : LanguageCode = LanguageCode . enUs , unitSystem : UnitSystem = UnitSystem . metric , textUsageOptions : TextUsageOptions = TextUsageOptions ())
+  public init(language: LanguageCode = LanguageCode.enUs, unitSystem: UnitSystem = UnitSystem.metric, textUsageOptions: TextUsageOptions = TextUsageOptions())
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-languagecode">LanguageCode</a>
+  - <a href="sdk-for-ios-explore-enums-unitsystem">UnitSystem</a>
+  - <a href="sdk-for-ios-explore-structs-textusageoptions">TextUsageOptions</a>
 
   </div>
 

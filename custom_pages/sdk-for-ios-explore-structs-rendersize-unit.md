@@ -27,7 +27,7 @@ Defines different units in which the size is described.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10RenderSizeV4UnitO6pixelsyA2EmF"></span>` `<span id="//apple_ref/swift/Element/pixels" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-rendersize-unit#/s:7heresdk10RenderSizeV4UnitO6pixelsyA2EmF" class="token"><code>pixels</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10RenderSizeV4UnitO6pixelsyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-pixels" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-rendersize-unit#sdk-for-ios-explore-s-7heresdk10RenderSizeV4UnitO6pixelsyA2EmF" class="token"><code>pixels</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Defines different units in which the size is described.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10RenderSizeV4UnitO24densityIndependentPixelsyA2EmF"></span>` `<span id="//apple_ref/swift/Element/densityIndependentPixels" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-rendersize-unit#/s:7heresdk10RenderSizeV4UnitO24densityIndependentPixelsyA2EmF" class="token"><code>densityIndependentPixels</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10RenderSizeV4UnitO24densityIndependentPixelsyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-densityIndependentPixels" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-rendersize-unit#sdk-for-ios-explore-s-7heresdk10RenderSizeV4UnitO24densityIndependentPixelsyA2EmF" class="token"><code>densityIndependentPixels</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Defines different units in which the size is described.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10RenderSizeV4UnitO6metersyA2EmF"></span>` `<span id="//apple_ref/swift/Element/meters" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-rendersize-unit#/s:7heresdk10RenderSizeV4UnitO6metersyA2EmF" class="token"><code>meters</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10RenderSizeV4UnitO6metersyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-meters" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-rendersize-unit#sdk-for-ios-explore-s-7heresdk10RenderSizeV4UnitO6metersyA2EmF" class="token"><code>meters</code></a> 
 
   </div>
 

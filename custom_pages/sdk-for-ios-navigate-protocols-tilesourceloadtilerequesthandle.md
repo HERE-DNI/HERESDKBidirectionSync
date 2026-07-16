@@ -27,7 +27,7 @@ Handle of a load request.
 
 - <div>
 
-      cancel()
+   <span id="sdk-for-ios-navigate-s-7heresdk014TileSourceLoadB13RequestHandleP6cancelyyF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-cancel" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-protocols-tilesourceloadtilerequesthandle#sdk-for-ios-navigate-s-7heresdk014TileSourceLoadB13RequestHandleP6cancelyyF" class="token"><code>cancel()</code></a> 
 
   </div>
 
@@ -58,10 +58,8 @@ Handle of a load request.
   Swift
 
   ``` highlight
-  func cancel ()
+  func cancel()
   ```
-
-  </pre>
 
   </div>
 

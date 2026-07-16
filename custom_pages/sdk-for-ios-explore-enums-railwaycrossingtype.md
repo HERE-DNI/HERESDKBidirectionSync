@@ -27,7 +27,7 @@ Type of railway crossing.
 
 - <div>
 
-  ` `<span id="/s:7heresdk19RailwayCrossingTypeO7unknownyA2CmF"></span>` `<span id="//apple_ref/swift/Element/unknown" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-railwaycrossingtype#/s:7heresdk19RailwayCrossingTypeO7unknownyA2CmF" class="token"><code>unknown</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19RailwayCrossingTypeO7unknownyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-unknown" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-railwaycrossingtype#sdk-for-ios-explore-s-7heresdk19RailwayCrossingTypeO7unknownyA2CmF" class="token"><code>unknown</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Type of railway crossing.
 
 - <div>
 
-  ` `<span id="/s:7heresdk19RailwayCrossingTypeO9protectedyA2CmF"></span>` `<span id="//apple_ref/swift/Element/protected" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-railwaycrossingtype#/s:7heresdk19RailwayCrossingTypeO9protectedyA2CmF" class="token"><code>protected</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19RailwayCrossingTypeO9protectedyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-protected" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-railwaycrossingtype#sdk-for-ios-explore-s-7heresdk19RailwayCrossingTypeO9protectedyA2CmF" class="token"><code>protected</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Type of railway crossing.
 
 - <div>
 
-  ` `<span id="/s:7heresdk19RailwayCrossingTypeO11unprotectedyA2CmF"></span>` `<span id="//apple_ref/swift/Element/unprotected" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-railwaycrossingtype#/s:7heresdk19RailwayCrossingTypeO11unprotectedyA2CmF" class="token"><code>unprotected</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19RailwayCrossingTypeO11unprotectedyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-unprotected" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-railwaycrossingtype#sdk-for-ios-explore-s-7heresdk19RailwayCrossingTypeO11unprotectedyA2CmF" class="token"><code>unprotected</code></a> 
 
   </div>
 

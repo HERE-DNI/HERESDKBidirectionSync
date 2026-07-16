@@ -27,7 +27,7 @@ This struct holds the transit departure or arrival information.
 
 - <div>
 
-  ` `<span id="/s:7heresdk16TransitDepartureV5placeAA10RoutePlaceVvp"></span>` `<span id="//apple_ref/swift/Property/place" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-transitdeparture#/s:7heresdk16TransitDepartureV5placeAA10RoutePlaceVvp" class="token"><code>place</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16TransitDepartureV5placeAA10RoutePlaceVvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-place" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-transitdeparture#sdk-for-ios-navigate-s-7heresdk16TransitDepartureV5placeAA10RoutePlaceVvp" class="token"><code>place</code></a> 
 
   </div>
 
@@ -63,6 +63,10 @@ This struct holds the transit departure or arrival information.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-routeplace">RoutePlace</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ This struct holds the transit departure or arrival information.
 
 - <div>
 
-  ` `<span id="/s:7heresdk16TransitDepartureV4time10Foundation4DateVSgvp"></span>` `<span id="//apple_ref/swift/Property/time" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-transitdeparture#/s:7heresdk16TransitDepartureV4time10Foundation4DateVSgvp" class="token"><code>time</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16TransitDepartureV4time10Foundation4DateVSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-time" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-transitdeparture#sdk-for-ios-navigate-s-7heresdk16TransitDepartureV4time10Foundation4DateVSgvp" class="token"><code>time</code></a> 
 
   </div>
 
@@ -115,7 +119,7 @@ This struct holds the transit departure or arrival information.
 
 - <div>
 
-  ` `<span id="/s:7heresdk16TransitDepartureV5delays5Int32VSgvp"></span>` `<span id="//apple_ref/swift/Property/delay" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-transitdeparture#/s:7heresdk16TransitDepartureV5delays5Int32VSgvp" class="token"><code>delay</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16TransitDepartureV5delays5Int32VSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-delay" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-transitdeparture#sdk-for-ios-navigate-s-7heresdk16TransitDepartureV5delays5Int32VSgvp" class="token"><code>delay</code></a> 
 
   </div>
 
@@ -159,7 +163,7 @@ This struct holds the transit departure or arrival information.
 
 - <div>
 
-  ` `<span id="/s:7heresdk16TransitDepartureV6statusAA0bC6StatusOSgvp"></span>` `<span id="//apple_ref/swift/Property/status" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-transitdeparture#/s:7heresdk16TransitDepartureV6statusAA0bC6StatusOSgvp" class="token"><code>status</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16TransitDepartureV6statusAA0bC6StatusOSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-status" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-transitdeparture#sdk-for-ios-navigate-s-7heresdk16TransitDepartureV6statusAA0bC6StatusOSgvp" class="token"><code>status</code></a> 
 
   </div>
 
@@ -195,6 +199,10 @@ This struct holds the transit departure or arrival information.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-transitdeparturestatus">TransitDepartureStatus</a>
+
   </div>
 
   </div>
@@ -203,7 +211,7 @@ This struct holds the transit departure or arrival information.
 
 - <div>
 
-      init(place: time: delay: status: )
+   <span id="sdk-for-ios-navigate-s-7heresdk16TransitDepartureV5place4time5delay6statusAcA10RoutePlaceV_10Foundation4DateVSgs5Int32VSgAA0bC6StatusOSgtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-place-time-delay-status" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-transitdeparture#sdk-for-ios-navigate-s-7heresdk16TransitDepartureV5place4time5delay6statusAcA10RoutePlaceV_10Foundation4DateVSgs5Int32VSgAA0bC6StatusOSgtcfc" class="token"><code>init(place:</code><wbr></wbr><code>time:</code><wbr></wbr><code>delay:</code><wbr></wbr><code>status:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -234,12 +242,15 @@ This struct holds the transit departure or arrival information.
   Swift
 
   ``` highlight
-  public init ( place : RoutePlace , time : Date ? = nil , delay : Int32 ? = nil , status : TransitDepartureStatus ? = nil )
+  public init(place: RoutePlace, time: Date? = nil, delay: Int32? = nil, status: TransitDepartureStatus? = nil)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-routeplace">RoutePlace</a>
+  - <a href="sdk-for-ios-navigate-enums-transitdeparturestatus">TransitDepartureStatus</a>
 
   </div>
 

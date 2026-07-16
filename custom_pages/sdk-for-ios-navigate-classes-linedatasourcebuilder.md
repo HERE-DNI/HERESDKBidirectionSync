@@ -37,7 +37,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      init(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk21LineDataSourceBuilderCyAcA10MapContextCcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-linedatasourcebuilder#sdk-for-ios-navigate-s-7heresdk21LineDataSourceBuilderCyAcA10MapContextCcfc" class="token"><code>init(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -68,12 +68,14 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public init ( _ context : MapContext )
+  public init(_ context: MapContext)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mapcontext">MapContext</a>
 
   </div>
 
@@ -104,7 +106,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      withName(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk21LineDataSourceBuilderC8withNameyACSSF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-withName-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-linedatasourcebuilder#sdk-for-ios-navigate-s-7heresdk21LineDataSourceBuilderC8withNameyACSSF" class="token"><code>withName(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -135,10 +137,8 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func withName ( _ dataSourceName : String ) -> LineDataSourceBuilder
+  public func withName(_ dataSourceName: String) -> LineDataSourceBuilder
   ```
-
-  </pre>
 
   </div>
 
@@ -179,7 +179,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      withPolyline(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk21LineDataSourceBuilderC12withPolylineyAcA0bC0CF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-withPolyline-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-linedatasourcebuilder#sdk-for-ios-navigate-s-7heresdk21LineDataSourceBuilderC12withPolylineyAcA0bC0CF" class="token"><code>withPolyline(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -210,12 +210,14 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func withPolyline ( _ polyline : LineData ) -> LineDataSourceBuilder
+  public func withPolyline(_ polyline: LineData) -> LineDataSourceBuilder
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-maploader#sdk-for-ios-navigate-s-7heresdk8LineDataC">LineData</a>
 
   </div>
 
@@ -254,7 +256,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      withPolylines(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk21LineDataSourceBuilderC13withPolylinesyACSayAA0bC0CGF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-withPolylines-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-linedatasourcebuilder#sdk-for-ios-navigate-s-7heresdk21LineDataSourceBuilderC13withPolylinesyACSayAA0bC0CGF" class="token"><code>withPolylines(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -285,12 +287,14 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func withPolylines ( _ polylines : [ LineData ]) -> LineDataSourceBuilder
+  public func withPolylines(_ polylines: [LineData]) -> LineDataSourceBuilder
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-maploader#sdk-for-ios-navigate-s-7heresdk8LineDataC">LineData</a>
 
   </div>
 
@@ -329,7 +333,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      build()
+   <span id="sdk-for-ios-navigate-s-7heresdk21LineDataSourceBuilderC5buildAA0bcD0CyF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-build" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-linedatasourcebuilder#sdk-for-ios-navigate-s-7heresdk21LineDataSourceBuilderC5buildAA0bcD0CyF" class="token"><code>build()</code></a> 
 
   </div>
 
@@ -360,12 +364,14 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func build () -> LineDataSource
+  public func build() -> LineDataSource
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-linedatasource">LineDataSource</a>
 
   </div>
 

@@ -27,7 +27,7 @@ Defines the types of actions for indoor maneuvers.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21IndoorManeuverActionsO6departyA2CmF"></span>` `<span id="//apple_ref/swift/Element/depart" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-indoormaneuveractions#/s:7heresdk21IndoorManeuverActionsO6departyA2CmF" class="token"><code>depart</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21IndoorManeuverActionsO6departyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-depart" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-indoormaneuveractions#sdk-for-ios-navigate-s-7heresdk21IndoorManeuverActionsO6departyA2CmF" class="token"><code>depart</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Defines the types of actions for indoor maneuvers.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21IndoorManeuverActionsO6arriveyA2CmF"></span>` `<span id="//apple_ref/swift/Element/arrive" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-indoormaneuveractions#/s:7heresdk21IndoorManeuverActionsO6arriveyA2CmF" class="token"><code>arrive</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21IndoorManeuverActionsO6arriveyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-arrive" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-indoormaneuveractions#sdk-for-ios-navigate-s-7heresdk21IndoorManeuverActionsO6arriveyA2CmF" class="token"><code>arrive</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Defines the types of actions for indoor maneuvers.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21IndoorManeuverActionsO9leftUTurnyA2CmF"></span>` `<span id="//apple_ref/swift/Element/leftUTurn" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-indoormaneuveractions#/s:7heresdk21IndoorManeuverActionsO9leftUTurnyA2CmF" class="token"><code>leftUTurn</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21IndoorManeuverActionsO9leftUTurnyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-leftUTurn" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-indoormaneuveractions#sdk-for-ios-navigate-s-7heresdk21IndoorManeuverActionsO9leftUTurnyA2CmF" class="token"><code>leftUTurn</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Defines the types of actions for indoor maneuvers.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21IndoorManeuverActionsO13sharpLeftTurnyA2CmF"></span>` `<span id="//apple_ref/swift/Element/sharpLeftTurn" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-indoormaneuveractions#/s:7heresdk21IndoorManeuverActionsO13sharpLeftTurnyA2CmF" class="token"><code>sharpLeftTurn</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21IndoorManeuverActionsO13sharpLeftTurnyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-sharpLeftTurn" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-indoormaneuveractions#sdk-for-ios-navigate-s-7heresdk21IndoorManeuverActionsO13sharpLeftTurnyA2CmF" class="token"><code>sharpLeftTurn</code></a> 
 
   </div>
 
@@ -203,7 +203,7 @@ Defines the types of actions for indoor maneuvers.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21IndoorManeuverActionsO8leftTurnyA2CmF"></span>` `<span id="//apple_ref/swift/Element/leftTurn" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-indoormaneuveractions#/s:7heresdk21IndoorManeuverActionsO8leftTurnyA2CmF" class="token"><code>leftTurn</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21IndoorManeuverActionsO8leftTurnyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-leftTurn" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-indoormaneuveractions#sdk-for-ios-navigate-s-7heresdk21IndoorManeuverActionsO8leftTurnyA2CmF" class="token"><code>leftTurn</code></a> 
 
   </div>
 
@@ -247,7 +247,7 @@ Defines the types of actions for indoor maneuvers.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21IndoorManeuverActionsO14slightLeftTurnyA2CmF"></span>` `<span id="//apple_ref/swift/Element/slightLeftTurn" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-indoormaneuveractions#/s:7heresdk21IndoorManeuverActionsO14slightLeftTurnyA2CmF" class="token"><code>slightLeftTurn</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21IndoorManeuverActionsO14slightLeftTurnyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-slightLeftTurn" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-indoormaneuveractions#sdk-for-ios-navigate-s-7heresdk21IndoorManeuverActionsO14slightLeftTurnyA2CmF" class="token"><code>slightLeftTurn</code></a> 
 
   </div>
 
@@ -291,7 +291,7 @@ Defines the types of actions for indoor maneuvers.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21IndoorManeuverActionsO15slightRightTurnyA2CmF"></span>` `<span id="//apple_ref/swift/Element/slightRightTurn" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-indoormaneuveractions#/s:7heresdk21IndoorManeuverActionsO15slightRightTurnyA2CmF" class="token"><code>slightRightTurn</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21IndoorManeuverActionsO15slightRightTurnyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-slightRightTurn" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-indoormaneuveractions#sdk-for-ios-navigate-s-7heresdk21IndoorManeuverActionsO15slightRightTurnyA2CmF" class="token"><code>slightRightTurn</code></a> 
 
   </div>
 
@@ -335,7 +335,7 @@ Defines the types of actions for indoor maneuvers.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21IndoorManeuverActionsO10continueOnyA2CmF"></span>` `<span id="//apple_ref/swift/Element/continueOn" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-indoormaneuveractions#/s:7heresdk21IndoorManeuverActionsO10continueOnyA2CmF" class="token"><code>continueOn</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21IndoorManeuverActionsO10continueOnyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-continueOn" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-indoormaneuveractions#sdk-for-ios-navigate-s-7heresdk21IndoorManeuverActionsO10continueOnyA2CmF" class="token"><code>continueOn</code></a> 
 
   </div>
 
@@ -379,7 +379,7 @@ Defines the types of actions for indoor maneuvers.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21IndoorManeuverActionsO9rightTurnyA2CmF"></span>` `<span id="//apple_ref/swift/Element/rightTurn" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-indoormaneuveractions#/s:7heresdk21IndoorManeuverActionsO9rightTurnyA2CmF" class="token"><code>rightTurn</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21IndoorManeuverActionsO9rightTurnyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-rightTurn" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-indoormaneuveractions#sdk-for-ios-navigate-s-7heresdk21IndoorManeuverActionsO9rightTurnyA2CmF" class="token"><code>rightTurn</code></a> 
 
   </div>
 
@@ -423,7 +423,7 @@ Defines the types of actions for indoor maneuvers.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21IndoorManeuverActionsO14sharpRightTurnyA2CmF"></span>` `<span id="//apple_ref/swift/Element/sharpRightTurn" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-indoormaneuveractions#/s:7heresdk21IndoorManeuverActionsO14sharpRightTurnyA2CmF" class="token"><code>sharpRightTurn</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21IndoorManeuverActionsO14sharpRightTurnyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-sharpRightTurn" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-indoormaneuveractions#sdk-for-ios-navigate-s-7heresdk21IndoorManeuverActionsO14sharpRightTurnyA2CmF" class="token"><code>sharpRightTurn</code></a> 
 
   </div>
 
@@ -467,7 +467,7 @@ Defines the types of actions for indoor maneuvers.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21IndoorManeuverActionsO10rightUTurnyA2CmF"></span>` `<span id="//apple_ref/swift/Element/rightUTurn" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-indoormaneuveractions#/s:7heresdk21IndoorManeuverActionsO10rightUTurnyA2CmF" class="token"><code>rightUTurn</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21IndoorManeuverActionsO10rightUTurnyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-rightUTurn" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-indoormaneuveractions#sdk-for-ios-navigate-s-7heresdk21IndoorManeuverActionsO10rightUTurnyA2CmF" class="token"><code>rightUTurn</code></a> 
 
   </div>
 
@@ -511,7 +511,7 @@ Defines the types of actions for indoor maneuvers.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21IndoorManeuverActionsO8leftExityA2CmF"></span>` `<span id="//apple_ref/swift/Element/leftExit" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-indoormaneuveractions#/s:7heresdk21IndoorManeuverActionsO8leftExityA2CmF" class="token"><code>leftExit</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21IndoorManeuverActionsO8leftExityA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-leftExit" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-indoormaneuveractions#sdk-for-ios-navigate-s-7heresdk21IndoorManeuverActionsO8leftExityA2CmF" class="token"><code>leftExit</code></a> 
 
   </div>
 
@@ -555,7 +555,7 @@ Defines the types of actions for indoor maneuvers.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21IndoorManeuverActionsO9rightExityA2CmF"></span>` `<span id="//apple_ref/swift/Element/rightExit" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-indoormaneuveractions#/s:7heresdk21IndoorManeuverActionsO9rightExityA2CmF" class="token"><code>rightExit</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21IndoorManeuverActionsO9rightExityA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-rightExit" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-indoormaneuveractions#sdk-for-ios-navigate-s-7heresdk21IndoorManeuverActionsO9rightExityA2CmF" class="token"><code>rightExit</code></a> 
 
   </div>
 
@@ -599,7 +599,7 @@ Defines the types of actions for indoor maneuvers.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21IndoorManeuverActionsO17levelChangeActionyA2CmF"></span>` `<span id="//apple_ref/swift/Element/levelChangeAction" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-indoormaneuveractions#/s:7heresdk21IndoorManeuverActionsO17levelChangeActionyA2CmF" class="token"><code>levelChangeAction</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21IndoorManeuverActionsO17levelChangeActionyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-levelChangeAction" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-indoormaneuveractions#sdk-for-ios-navigate-s-7heresdk21IndoorManeuverActionsO17levelChangeActionyA2CmF" class="token"><code>levelChangeAction</code></a> 
 
   </div>
 
@@ -643,7 +643,7 @@ Defines the types of actions for indoor maneuvers.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21IndoorManeuverActionsO11enterActionyA2CmF"></span>` `<span id="//apple_ref/swift/Element/enterAction" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-indoormaneuveractions#/s:7heresdk21IndoorManeuverActionsO11enterActionyA2CmF" class="token"><code>enterAction</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21IndoorManeuverActionsO11enterActionyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-enterAction" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-indoormaneuveractions#sdk-for-ios-navigate-s-7heresdk21IndoorManeuverActionsO11enterActionyA2CmF" class="token"><code>enterAction</code></a> 
 
   </div>
 
@@ -687,7 +687,7 @@ Defines the types of actions for indoor maneuvers.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21IndoorManeuverActionsO11leaveActionyA2CmF"></span>` `<span id="//apple_ref/swift/Element/leaveAction" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-indoormaneuveractions#/s:7heresdk21IndoorManeuverActionsO11leaveActionyA2CmF" class="token"><code>leaveAction</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21IndoorManeuverActionsO11leaveActionyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-leaveAction" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-indoormaneuveractions#sdk-for-ios-navigate-s-7heresdk21IndoorManeuverActionsO11leaveActionyA2CmF" class="token"><code>leaveAction</code></a> 
 
   </div>
 

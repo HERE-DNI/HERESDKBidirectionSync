@@ -23,6 +23,10 @@ extension LocationManager: Hashable
 
 </div>
 
+Related types:
+
+- <a href="sdk-for-ios-explore-protocols-locationdelegate">LocationDelegate</a>
+
 </div>
 
 LocationManager listens to position updates and provides the map-matched location using the LocationManagerListener.
@@ -37,7 +41,7 @@ LocationManager listens to position updates and provides the map-matched locatio
 
 - <div>
 
-      init(sdkEngine: )
+   <span id="sdk-for-ios-explore-s-7heresdk15LocationManagerC9sdkEngineAcA09SDKNativeE0C_tKcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-sdkEngine" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-locationmanager#sdk-for-ios-explore-s-7heresdk15LocationManagerC9sdkEngineAcA09SDKNativeE0C_tKcfc" class="token"><code>init(sdkEngine:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -61,7 +65,7 @@ LocationManager listens to position updates and provides the map-matched locatio
 
   Throws
 
-  <a href="sdk-for-ios-explore-core#/s:7heresdk18InstantiationErrora">`InstantiationError`</a> Instantiation error.
+  <a href="sdk-for-ios-explore-core#sdk-for-ios-explore-s-7heresdk18InstantiationErrora">`InstantiationError`</a> Instantiation error.
 
   </div>
 
@@ -76,12 +80,14 @@ LocationManager listens to position updates and provides the map-matched locatio
   Swift
 
   ``` highlight
-  public init ( sdkEngine : SDKNativeEngine ) throws
+  public init(sdkEngine: SDKNativeEngine) throws
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-sdknativeengine">SDKNativeEngine</a>
 
   </div>
 
@@ -112,7 +118,7 @@ LocationManager listens to position updates and provides the map-matched locatio
 
 - <div>
 
-      onLocationUpdated(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk15LocationManagerC02onB7UpdatedyyAA0B0VF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-onLocationUpdated-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-locationmanager#sdk-for-ios-explore-s-7heresdk15LocationManagerC02onB7UpdatedyyAA0B0VF" class="token"><code>onLocationUpdated(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -130,7 +136,7 @@ LocationManager listens to position updates and provides the map-matched locatio
 
   <div class="abstract">
 
-  Called each time a new location is available. In a navigation context while using the <a href="sdk-for-ios-explore-classes-navigator">`Navigator`</a> or <a href="sdk-for-ios-explore-classes-visualnavigator">`VisualNavigator`</a>, it’s required to set the <a href="sdk-for-ios-explore-structs-location#/s:7heresdk8LocationV4time10Foundation4DateVSgvp">`Location.time`</a> parameter for each <a href="sdk-for-ios-explore-structs-location">`Location`</a> object so that the HERE SDK can map-match the locations properly. If the <a href="sdk-for-ios-explore-structs-location#/s:7heresdk8LocationV4time10Foundation4DateVSgvp">`Location.time`</a> parameter is missing, the location will be ignored. For navigation, it is also recommended to provide the `bearing` and `speed` parameters for each <a href="sdk-for-ios-explore-structs-location">`Location`</a> object. Invoked on the main thread.
+  Called each time a new location is available. In a navigation context while using the <a href="sdk-for-ios-explore-classes-navigator">`Navigator`</a> or <a href="sdk-for-ios-explore-classes-visualnavigator">`VisualNavigator`</a>, it’s required to set the <a href="sdk-for-ios-explore-structs-location#sdk-for-ios-explore-s-7heresdk8LocationV4time10Foundation4DateVSgvp">`Location.time`</a> parameter for each <a href="sdk-for-ios-explore-structs-location">`Location`</a> object so that the HERE SDK can map-match the locations properly. If the <a href="sdk-for-ios-explore-structs-location#sdk-for-ios-explore-s-7heresdk8LocationV4time10Foundation4DateVSgvp">`Location.time`</a> parameter is missing, the location will be ignored. For navigation, it is also recommended to provide the `bearing` and `speed` parameters for each <a href="sdk-for-ios-explore-structs-location">`Location`</a> object. Invoked on the main thread.
 
   </div>
 
@@ -143,12 +149,14 @@ LocationManager listens to position updates and provides the map-matched locatio
   Swift
 
   ``` highlight
-  public func onLocationUpdated ( _ location : Location )
+  public func onLocationUpdated(_ location: Location)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-location">Location</a>
 
   </div>
 
@@ -179,7 +187,7 @@ LocationManager listens to position updates and provides the map-matched locatio
 
 - <div>
 
-      setMapMatcher(mapMatcher: )
+   <span id="sdk-for-ios-explore-s-7heresdk15LocationManagerC13setMapMatcher03mapF0yAA0eF0CSg_tF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-setMapMatcher-mapMatcher" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-locationmanager#sdk-for-ios-explore-s-7heresdk15LocationManagerC13setMapMatcher03mapF0yAA0eF0CSg_tF" class="token"><code>setMapMatcher(mapMatcher:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -212,12 +220,14 @@ LocationManager listens to position updates and provides the map-matched locatio
   Swift
 
   ``` highlight
-  public func setMapMatcher ( mapMatcher : MapMatcher ?)
+  public func setMapMatcher(mapMatcher: MapMatcher?)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-mapmatcher">MapMatcher</a>
 
   </div>
 
@@ -248,7 +258,7 @@ LocationManager listens to position updates and provides the map-matched locatio
 
 - <div>
 
-      takeMapMatcher()
+   <span id="sdk-for-ios-explore-s-7heresdk15LocationManagerC14takeMapMatcherAA0eF0CSgyF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-takeMapMatcher" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-locationmanager#sdk-for-ios-explore-s-7heresdk15LocationManagerC14takeMapMatcherAA0eF0CSgyF" class="token"><code>takeMapMatcher()</code></a> 
 
   </div>
 
@@ -279,12 +289,14 @@ LocationManager listens to position updates and provides the map-matched locatio
   Swift
 
   ``` highlight
-  public func takeMapMatcher () -> MapMatcher ?
+  public func takeMapMatcher() -> MapMatcher?
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-mapmatcher">MapMatcher</a>
 
   </div>
 
@@ -302,7 +314,7 @@ LocationManager listens to position updates and provides the map-matched locatio
 
 - <div>
 
-      MatchedLocationDelegate(matchedLocationListener: )
+   <span id="sdk-for-ios-explore-s-7heresdk15LocationManagerC07MatchedB8Delegate07matchedB8ListeneryAA0dbG0_p_tF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-MatchedLocationDelegate-matchedLocationListener" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-locationmanager#sdk-for-ios-explore-s-7heresdk15LocationManagerC07MatchedB8Delegate07matchedB8ListeneryAA0dbG0_p_tF" class="token"><code>MatchedLocationDelegate(matchedLocationListener:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -333,12 +345,14 @@ LocationManager listens to position updates and provides the map-matched locatio
   Swift
 
   ``` highlight
-  public func MatchedLocationDelegate ( matchedLocationListener : MatchedLocationListener )
+  public func MatchedLocationDelegate(matchedLocationListener: MatchedLocationListener)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-protocols-matchedlocationlistener">MatchedLocationListener</a>
 
   </div>
 
@@ -369,7 +383,7 @@ LocationManager listens to position updates and provides the map-matched locatio
 
 - <div>
 
-      removeMatchedLocationListener(matchedLocationListener: )
+   <span id="sdk-for-ios-explore-s-7heresdk15LocationManagerC013removeMatchedB8Listener07matchedbF0yAA0ebF0_p_tF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-removeMatchedLocationListener-matchedLocationListener" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-locationmanager#sdk-for-ios-explore-s-7heresdk15LocationManagerC013removeMatchedB8Listener07matchedbF0yAA0ebF0_p_tF" class="token"><code>removeMatchedLocationListener(matchedLocationListener:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -400,12 +414,14 @@ LocationManager listens to position updates and provides the map-matched locatio
   Swift
 
   ``` highlight
-  public func removeMatchedLocationListener ( matchedLocationListener : MatchedLocationListener )
+  public func removeMatchedLocationListener(matchedLocationListener: MatchedLocationListener)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-protocols-matchedlocationlistener">MatchedLocationListener</a>
 
   </div>
 

@@ -27,7 +27,7 @@ Represents the status of data that was loaded by <a href="sdk-for-ios-explore-cl
 
 - <div>
 
-  ` `<span id="/s:7heresdk33ElectronicHorizonDataLoadedStatusO03notE0yA2CmF"></span>` `<span id="//apple_ref/swift/Element/notLoaded" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-electronichorizondataloadedstatus#/s:7heresdk33ElectronicHorizonDataLoadedStatusO03notE0yA2CmF" class="token"><code>notLoaded</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk33ElectronicHorizonDataLoadedStatusO03notE0yA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-notLoaded" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-electronichorizondataloadedstatus#sdk-for-ios-explore-s-7heresdk33ElectronicHorizonDataLoadedStatusO03notE0yA2CmF" class="token"><code>notLoaded</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Represents the status of data that was loaded by <a href="sdk-for-ios-explore-cl
 
 - <div>
 
-  ` `<span id="/s:7heresdk33ElectronicHorizonDataLoadedStatusO09partiallyE0yA2CmF"></span>` `<span id="//apple_ref/swift/Element/partiallyLoaded" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-electronichorizondataloadedstatus#/s:7heresdk33ElectronicHorizonDataLoadedStatusO09partiallyE0yA2CmF" class="token"><code>partiallyLoaded</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk33ElectronicHorizonDataLoadedStatusO09partiallyE0yA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-partiallyLoaded" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-electronichorizondataloadedstatus#sdk-for-ios-explore-s-7heresdk33ElectronicHorizonDataLoadedStatusO09partiallyE0yA2CmF" class="token"><code>partiallyLoaded</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Represents the status of data that was loaded by <a href="sdk-for-ios-explore-cl
 
 - <div>
 
-  ` `<span id="/s:7heresdk33ElectronicHorizonDataLoadedStatusO05fullyE0yA2CmF"></span>` `<span id="//apple_ref/swift/Element/fullyLoaded" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-electronichorizondataloadedstatus#/s:7heresdk33ElectronicHorizonDataLoadedStatusO05fullyE0yA2CmF" class="token"><code>fullyLoaded</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk33ElectronicHorizonDataLoadedStatusO05fullyE0yA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-fullyLoaded" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-electronichorizondataloadedstatus#sdk-for-ios-explore-s-7heresdk33ElectronicHorizonDataLoadedStatusO05fullyE0yA2CmF" class="token"><code>fullyLoaded</code></a> 
 
   </div>
 

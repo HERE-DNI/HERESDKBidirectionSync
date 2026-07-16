@@ -27,7 +27,7 @@ Indicates the option of localized text usage.
 
 - <div>
 
-  ` `<span id="/s:7heresdk23LocalizedTextPreferenceO8useNeveryA2CmF"></span>` `<span id="//apple_ref/swift/Element/useNever" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-localizedtextpreference#/s:7heresdk23LocalizedTextPreferenceO8useNeveryA2CmF" class="token"><code>useNever</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk23LocalizedTextPreferenceO8useNeveryA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-useNever" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-localizedtextpreference#sdk-for-ios-navigate-s-7heresdk23LocalizedTextPreferenceO8useNeveryA2CmF" class="token"><code>useNever</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Indicates the option of localized text usage.
 
 - <div>
 
-  ` `<span id="/s:7heresdk23LocalizedTextPreferenceO9useAlwaysyA2CmF"></span>` `<span id="//apple_ref/swift/Element/useAlways" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-localizedtextpreference#/s:7heresdk23LocalizedTextPreferenceO9useAlwaysyA2CmF" class="token"><code>useAlways</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk23LocalizedTextPreferenceO9useAlwaysyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-useAlways" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-localizedtextpreference#sdk-for-ios-navigate-s-7heresdk23LocalizedTextPreferenceO9useAlwaysyA2CmF" class="token"><code>useAlways</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Indicates the option of localized text usage.
 
 - <div>
 
-  ` `<span id="/s:7heresdk23LocalizedTextPreferenceO25useIfLanguageIsCompatibleyA2CmF"></span>` `<span id="//apple_ref/swift/Element/useIfLanguageIsCompatible" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-localizedtextpreference#/s:7heresdk23LocalizedTextPreferenceO25useIfLanguageIsCompatibleyA2CmF" class="token"><code>useIfLanguageIsCompatible</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk23LocalizedTextPreferenceO25useIfLanguageIsCompatibleyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-useIfLanguageIsCompatible" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-localizedtextpreference#sdk-for-ios-navigate-s-7heresdk23LocalizedTextPreferenceO25useIfLanguageIsCompatibleyA2CmF" class="token"><code>useIfLanguageIsCompatible</code></a> 
 
   </div>
 

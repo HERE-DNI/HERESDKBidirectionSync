@@ -27,7 +27,7 @@ Determines the cap (line ending) style.
 
 - <div>
 
-  ` `<span id="/s:7heresdk7LineCapO5roundyA2CmF"></span>` `<span id="//apple_ref/swift/Element/round" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-linecap#/s:7heresdk7LineCapO5roundyA2CmF" class="token"><code>round</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk7LineCapO5roundyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-round" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-linecap#sdk-for-ios-explore-s-7heresdk7LineCapO5roundyA2CmF" class="token"><code>round</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Determines the cap (line ending) style.
 
 - <div>
 
-  ` `<span id="/s:7heresdk7LineCapO6squareyA2CmF"></span>` `<span id="//apple_ref/swift/Element/square" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-linecap#/s:7heresdk7LineCapO6squareyA2CmF" class="token"><code>square</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk7LineCapO6squareyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-square" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-linecap#sdk-for-ios-explore-s-7heresdk7LineCapO6squareyA2CmF" class="token"><code>square</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Determines the cap (line ending) style.
 
 - <div>
 
-  ` `<span id="/s:7heresdk7LineCapO4buttyA2CmF"></span>` `<span id="//apple_ref/swift/Element/butt" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-linecap#/s:7heresdk7LineCapO4buttyA2CmF" class="token"><code>butt</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk7LineCapO4buttyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-butt" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-linecap#sdk-for-ios-explore-s-7heresdk7LineCapO4buttyA2CmF" class="token"><code>butt</code></a> 
 
   </div>
 

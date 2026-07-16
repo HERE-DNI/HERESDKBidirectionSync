@@ -27,7 +27,7 @@ public enum DistanceType : UInt32, CaseIterable, Codable
 
 - <div>
 
-  ` `<span id="/s:7heresdk12DistanceTypeO5aheadyA2CmF"></span>` `<span id="//apple_ref/swift/Element/ahead" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-distancetype#/s:7heresdk12DistanceTypeO5aheadyA2CmF" class="token"><code>ahead</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12DistanceTypeO5aheadyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-ahead" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-distancetype#sdk-for-ios-explore-s-7heresdk12DistanceTypeO5aheadyA2CmF" class="token"><code>ahead</code></a> 
 
   </div>
 
@@ -45,7 +45,7 @@ public enum DistanceType : UInt32, CaseIterable, Codable
 
   <div class="abstract">
 
-  The warning is given for the first time for a new warner data ahead. In case the distance to the warner data is 0, then a warning with distance type <a href="sdk-for-ios-explore-enums-distancetype#/s:7heresdk12DistanceTypeO7reachedyA2CmF">`DistanceType.reached`</a> will also be given at the same moment.
+  The warning is given for the first time for a new warner data ahead. In case the distance to the warner data is 0, then a warning with distance type <a href="sdk-for-ios-explore-enums-distancetype#sdk-for-ios-explore-s-7heresdk12DistanceTypeO7reachedyA2CmF">`DistanceType.reached`</a> will also be given at the same moment.
 
   </div>
 
@@ -71,7 +71,7 @@ public enum DistanceType : UInt32, CaseIterable, Codable
 
 - <div>
 
-  ` `<span id="/s:7heresdk12DistanceTypeO6passedyA2CmF"></span>` `<span id="//apple_ref/swift/Element/passed" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-distancetype#/s:7heresdk12DistanceTypeO6passedyA2CmF" class="token"><code>passed</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12DistanceTypeO6passedyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-passed" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-distancetype#sdk-for-ios-explore-s-7heresdk12DistanceTypeO6passedyA2CmF" class="token"><code>passed</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ public enum DistanceType : UInt32, CaseIterable, Codable
 
 - <div>
 
-  ` `<span id="/s:7heresdk12DistanceTypeO7reachedyA2CmF"></span>` `<span id="//apple_ref/swift/Element/reached" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-distancetype#/s:7heresdk12DistanceTypeO7reachedyA2CmF" class="token"><code>reached</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12DistanceTypeO7reachedyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-reached" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-distancetype#sdk-for-ios-explore-s-7heresdk12DistanceTypeO7reachedyA2CmF" class="token"><code>reached</code></a> 
 
   </div>
 
@@ -133,7 +133,7 @@ public enum DistanceType : UInt32, CaseIterable, Codable
 
   <div class="abstract">
 
-  The warning is given when a warner data was reached. In case the distance to the warner data is 0 when the warning with distance type <a href="sdk-for-ios-explore-enums-distancetype#/s:7heresdk12DistanceTypeO5aheadyA2CmF">`DistanceType.ahead`</a> is given, then a warning with distance type `DistanceType.reached` will be given at the same moment.
+  The warning is given when a warner data was reached. In case the distance to the warner data is 0 when the warning with distance type <a href="sdk-for-ios-explore-enums-distancetype#sdk-for-ios-explore-s-7heresdk12DistanceTypeO5aheadyA2CmF">`DistanceType.ahead`</a> is given, then a warning with distance type `DistanceType.reached` will be given at the same moment.
 
   </div>
 

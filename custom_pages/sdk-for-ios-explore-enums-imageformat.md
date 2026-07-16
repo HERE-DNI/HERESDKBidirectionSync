@@ -27,7 +27,7 @@ Image format.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11ImageFormatO3pngyA2CmF"></span>` `<span id="//apple_ref/swift/Element/png" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-imageformat#/s:7heresdk11ImageFormatO3pngyA2CmF" class="token"><code>png</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11ImageFormatO3pngyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-png" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-imageformat#sdk-for-ios-explore-s-7heresdk11ImageFormatO3pngyA2CmF" class="token"><code>png</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Image format.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11ImageFormatO3svgyA2CmF"></span>` `<span id="//apple_ref/swift/Element/svg" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-imageformat#/s:7heresdk11ImageFormatO3svgyA2CmF" class="token"><code>svg</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11ImageFormatO3svgyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-svg" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-imageformat#sdk-for-ios-explore-s-7heresdk11ImageFormatO3svgyA2CmF" class="token"><code>svg</code></a> 
 
   </div>
 

@@ -41,14 +41,9 @@ When a better route is found, it is recommended to follow these steps to set the
 
     callback.
 
-For both `DynamicRoutingEngine` and <a href="sdk-for-ios-navigate-classes-routingengine">`RoutingEngine`</a>, the resulting routes are optimized based on speed flow changes such as traffic jams, street closures or road accidents. To get the best result, it is recommended to not specify the <a href="sdk-for-ios-navigate-structs-routeoptions#/s:7heresdk12RouteOptionsV13departureTime10Foundation4DateVSgvp">`RouteOptions.departureTime`</a> as then the current time is used by default.
+For both `DynamicRoutingEngine` and <a href="sdk-for-ios-navigate-classes-routingengine">`RoutingEngine`</a>, the resulting routes are optimized based on speed flow changes such as traffic jams, street closures or road accidents. To get the best result, it is recommended to not specify the <a href="sdk-for-ios-navigate-structs-routeoptions#sdk-for-ios-navigate-s-7heresdk12RouteOptionsV13departureTime10Foundation4DateVSgvp">`RouteOptions.departureTime`</a> as then the current time is used by default.
 
-The poll interval is defined by <a href="sdk-for-ios-navigate-structs-dynamicroutingengineoptions#/s:7heresdk27DynamicRoutingEngineOptionsV12pollIntervalSdvp">`DynamicRoutingEngineOptions.pollInterval`</a> and triggered by
-
-    DynamicRoutingEngine.updateCurrentLocation(...)
-
-.
-</p>
+The poll interval is defined by <a href="sdk-for-ios-navigate-structs-dynamicroutingengineoptions#sdk-for-ios-navigate-s-7heresdk27DynamicRoutingEngineOptionsV12pollIntervalSdvp">`DynamicRoutingEngineOptions.pollInterval`</a> and triggered by <a href="sdk-for-ios-navigate-classes-dynamicroutingengine#sdk-for-ios-navigate-s-7heresdk20DynamicRoutingEngineC21updateCurrentLocation010mapMatchedG012sectionIndexyAA03MapiG0V_s5Int32VtF">`DynamicRoutingEngine.updateCurrentLocation(...)`</a>.
 
 </div>
 
@@ -58,7 +53,7 @@ The poll interval is defined by <a href="sdk-for-ios-navigate-structs-dynamicrou
 
 - <div>
 
-  ` `<span id="/s:7heresdk20DynamicRoutingEngineC14StartExceptiona"></span>` `<span id="//apple_ref/swift/Alias/StartException" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-dynamicroutingengine#/s:7heresdk20DynamicRoutingEngineC14StartExceptiona" class="token"><code>StartException</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk20DynamicRoutingEngineC14StartExceptiona"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Alias-StartException" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-dynamicroutingengine#sdk-for-ios-navigate-s-7heresdk20DynamicRoutingEngineC14StartExceptiona" class="token"><code>StartException</code></a> 
 
   </div>
 
@@ -94,6 +89,10 @@ The poll interval is defined by <a href="sdk-for-ios-navigate-structs-dynamicrou
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-dynamicroutingengine-starterror">StartError</a>
+
   </div>
 
   </div>
@@ -102,7 +101,7 @@ The poll interval is defined by <a href="sdk-for-ios-navigate-structs-dynamicrou
 
 - <div>
 
-      init(options: )
+   <span id="sdk-for-ios-navigate-s-7heresdk20DynamicRoutingEngineC7optionsAcA0bcD7OptionsVSg_tKcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-options" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-dynamicroutingengine#sdk-for-ios-navigate-s-7heresdk20DynamicRoutingEngineC7optionsAcA0bcD7OptionsVSg_tKcfc" class="token"><code>init(options:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -126,7 +125,7 @@ The poll interval is defined by <a href="sdk-for-ios-navigate-structs-dynamicrou
 
   Throws
 
-  <a href="sdk-for-ios-navigate-core#/s:7heresdk18InstantiationErrora">`InstantiationError`</a> when the engine was not initialized properly.
+  <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk18InstantiationErrora">`InstantiationError`</a> when the engine was not initialized properly.
 
   </div>
 
@@ -141,12 +140,14 @@ The poll interval is defined by <a href="sdk-for-ios-navigate-structs-dynamicrou
   Swift
 
   ``` highlight
-  public init ( options : DynamicRoutingEngineOptions ?) throws
+  public init(options: DynamicRoutingEngineOptions?) throws
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-dynamicroutingengineoptions">DynamicRoutingEngineOptions</a>
 
   </div>
 
@@ -177,7 +178,7 @@ The poll interval is defined by <a href="sdk-for-ios-navigate-structs-dynamicrou
 
 - <div>
 
-      init(_: options: )
+   <span id="sdk-for-ios-navigate-s-7heresdk20DynamicRoutingEngineC_7optionsAcA09SDKNativeD0C_AA0bcD7OptionsVSgtKcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-_-options" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-dynamicroutingengine#sdk-for-ios-navigate-s-7heresdk20DynamicRoutingEngineC_7optionsAcA09SDKNativeD0C_AA0bcD7OptionsVSgtKcfc" class="token"><code>init(_:</code><wbr></wbr><code>options:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -201,7 +202,7 @@ The poll interval is defined by <a href="sdk-for-ios-navigate-structs-dynamicrou
 
   Throws
 
-  <a href="sdk-for-ios-navigate-core#/s:7heresdk18InstantiationErrora">`InstantiationError`</a> when the engine was not initialized properly.
+  <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk18InstantiationErrora">`InstantiationError`</a> when the engine was not initialized properly.
 
   </div>
 
@@ -216,12 +217,15 @@ The poll interval is defined by <a href="sdk-for-ios-navigate-structs-dynamicrou
   Swift
 
   ``` highlight
-  public init ( _ sdkEngine : SDKNativeEngine , options : DynamicRoutingEngineOptions ?) throws
+  public init(_ sdkEngine: SDKNativeEngine, options: DynamicRoutingEngineOptions?) throws
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-sdknativeengine">SDKNativeEngine</a>
+  - <a href="sdk-for-ios-navigate-structs-dynamicroutingengineoptions">DynamicRoutingEngineOptions</a>
 
   </div>
 
@@ -258,7 +262,7 @@ The poll interval is defined by <a href="sdk-for-ios-navigate-structs-dynamicrou
 
 - <div>
 
-  ` `<span id="/s:7heresdk20DynamicRoutingEngineC10StartErrorO"></span>` `<span id="//apple_ref/swift/Enum/StartError" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-dynamicroutingengine#/s:7heresdk20DynamicRoutingEngineC10StartErrorO" class="token"><code>StartError</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk20DynamicRoutingEngineC10StartErrorO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-StartError" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-dynamicroutingengine#sdk-for-ios-navigate-s-7heresdk20DynamicRoutingEngineC10StartErrorO" class="token"><code>StartError</code></a> 
 
   </div>
 
@@ -300,6 +304,10 @@ The poll interval is defined by <a href="sdk-for-ios-navigate-structs-dynamicrou
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-dynamicroutingengine">DynamicRoutingEngine</a>
+
   </div>
 
   </div>
@@ -308,7 +316,7 @@ The poll interval is defined by <a href="sdk-for-ios-navigate-structs-dynamicrou
 
 - <div>
 
-      start(route: delegate: )
+   <span id="sdk-for-ios-navigate-s-7heresdk20DynamicRoutingEngineC5start5route8delegateyAA5RouteC_AA0bC8Delegate_ptKF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-start-route-delegate" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-dynamicroutingengine#sdk-for-ios-navigate-s-7heresdk20DynamicRoutingEngineC5start5route8delegateyAA5RouteC_AA0bC8Delegate_ptKF" class="token"><code>start(route:</code><wbr></wbr><code>delegate:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -334,7 +342,7 @@ The poll interval is defined by <a href="sdk-for-ios-navigate-structs-dynamicrou
 
   Throws
 
-  <a href="sdk-for-ios-navigate-classes-dynamicroutingengine#/s:7heresdk20DynamicRoutingEngineC14StartExceptiona">`DynamicRoutingEngine.StartException`</a> when the passed parameter are invalid.
+  <a href="sdk-for-ios-navigate-classes-dynamicroutingengine#sdk-for-ios-navigate-s-7heresdk20DynamicRoutingEngineC14StartExceptiona">`DynamicRoutingEngine.StartException`</a> when the passed parameter are invalid.
 
   </div>
 
@@ -349,12 +357,15 @@ The poll interval is defined by <a href="sdk-for-ios-navigate-structs-dynamicrou
   Swift
 
   ``` highlight
-  public func start ( route : Route , delegate : DynamicRoutingDelegate ) throws
+  public func start(route: Route, delegate: DynamicRoutingDelegate) throws
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-route">Route</a>
+  - <a href="sdk-for-ios-navigate-protocols-dynamicroutingdelegate">DynamicRoutingDelegate</a>
 
   </div>
 
@@ -371,7 +382,7 @@ The poll interval is defined by <a href="sdk-for-ios-navigate-structs-dynamicrou
   <tr>
   <td><code> </code><em><code>route</code></em><code> </code></td>
   <td><div>
-  <p>The route to be refreshed. The route must contain a <a href="sdk-for-ios-navigate-structs-routehandle"><code>RouteHandle</code></a>, therefore the route must have been requested with <a href="sdk-for-ios-navigate-structs-routeoptions#/s:7heresdk12RouteOptionsV06enableB6HandleSbvp"><code>RouteOptions.enableRouteHandle</code></a> set to <code>true</code>. The information to calculate new routes will be extracted from the provided route parameter. If more information from the original waypoints is important besides their location, consider to use one of the overloaded methods instead.</p>
+  <p>The route to be refreshed. The route must contain a <a href="sdk-for-ios-navigate-structs-routehandle"><code>RouteHandle</code></a>, therefore the route must have been requested with <a href="sdk-for-ios-navigate-structs-routeoptions#sdk-for-ios-navigate-s-7heresdk12RouteOptionsV06enableB6HandleSbvp"><code>RouteOptions.enableRouteHandle</code></a> set to <code>true</code>. The information to calculate new routes will be extracted from the provided route parameter. If more information from the original waypoints is important besides their location, consider to use one of the overloaded methods instead.</p>
   </div></td>
   </tr>
   <tr>
@@ -391,7 +402,7 @@ The poll interval is defined by <a href="sdk-for-ios-navigate-structs-dynamicrou
 
 - <div>
 
-      start(routeHandle: waypoints: refreshRouteOptions: delegate: )
+   <span id="sdk-for-ios-navigate-s-7heresdk20DynamicRoutingEngineC5start11routeHandle9waypoints19refreshRouteOptions8delegateyAA0jG0V_SayAA8WaypointVGAA07RefreshjK0CAA0bC8Delegate_ptKF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-start-routeHandle-waypoints-refreshRouteOptions-delegate" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-dynamicroutingengine#sdk-for-ios-navigate-s-7heresdk20DynamicRoutingEngineC5start11routeHandle9waypoints19refreshRouteOptions8delegateyAA0jG0V_SayAA8WaypointVGAA07RefreshjK0CAA0bC8Delegate_ptKF" class="token"><code>start(routeHandle:</code><wbr></wbr><code>waypoints:</code><wbr></wbr><code>refreshRouteOptions:</code><wbr></wbr><code>delegate:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -417,7 +428,7 @@ The poll interval is defined by <a href="sdk-for-ios-navigate-structs-dynamicrou
 
   Throws
 
-  <a href="sdk-for-ios-navigate-classes-dynamicroutingengine#/s:7heresdk20DynamicRoutingEngineC14StartExceptiona">`DynamicRoutingEngine.StartException`</a> when the passed parameter are invalid.
+  <a href="sdk-for-ios-navigate-classes-dynamicroutingengine#sdk-for-ios-navigate-s-7heresdk20DynamicRoutingEngineC14StartExceptiona">`DynamicRoutingEngine.StartException`</a> when the passed parameter are invalid.
 
   </div>
 
@@ -432,12 +443,18 @@ The poll interval is defined by <a href="sdk-for-ios-navigate-structs-dynamicrou
   Swift
 
   ``` highlight
-  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `start(﹚` method with RoutingOptions parameter instead.") public func start ( routeHandle : RouteHandle , waypoints : [ Waypoint ], refreshRouteOptions : RefreshRouteOptions , delegate : DynamicRoutingDelegate ) throws
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `start(﹚` method with RoutingOptions parameter instead.")
+  public func start(routeHandle: RouteHandle, waypoints: [Waypoint], refreshRouteOptions: RefreshRouteOptions, delegate: DynamicRoutingDelegate) throws
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-routehandle">RouteHandle</a>
+  - <a href="sdk-for-ios-navigate-structs-waypoint">Waypoint</a>
+  - <a href="sdk-for-ios-navigate-classes-refreshrouteoptions">RefreshRouteOptions</a>
+  - <a href="sdk-for-ios-navigate-protocols-dynamicroutingdelegate">DynamicRoutingDelegate</a>
 
   </div>
 
@@ -486,7 +503,7 @@ The poll interval is defined by <a href="sdk-for-ios-navigate-structs-dynamicrou
 
 - <div>
 
-      start(routeHandle: waypoints: routingOptions: delegate: )
+   <span id="sdk-for-ios-navigate-s-7heresdk20DynamicRoutingEngineC5start11routeHandle9waypoints14routingOptions8delegateyAA05RouteG0V_SayAA8WaypointVGAA0cJ0VAA0bC8Delegate_ptKF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-start-routeHandle-waypoints-routingOptions-delegate" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-dynamicroutingengine#sdk-for-ios-navigate-s-7heresdk20DynamicRoutingEngineC5start11routeHandle9waypoints14routingOptions8delegateyAA05RouteG0V_SayAA8WaypointVGAA0cJ0VAA0bC8Delegate_ptKF" class="token"><code>start(routeHandle:</code><wbr></wbr><code>waypoints:</code><wbr></wbr><code>routingOptions:</code><wbr></wbr><code>delegate:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -512,7 +529,7 @@ The poll interval is defined by <a href="sdk-for-ios-navigate-structs-dynamicrou
 
   Throws
 
-  <a href="sdk-for-ios-navigate-classes-dynamicroutingengine#/s:7heresdk20DynamicRoutingEngineC14StartExceptiona">`DynamicRoutingEngine.StartException`</a> when the passed parameter are invalid.
+  <a href="sdk-for-ios-navigate-classes-dynamicroutingengine#sdk-for-ios-navigate-s-7heresdk20DynamicRoutingEngineC14StartExceptiona">`DynamicRoutingEngine.StartException`</a> when the passed parameter are invalid.
 
   </div>
 
@@ -527,12 +544,17 @@ The poll interval is defined by <a href="sdk-for-ios-navigate-structs-dynamicrou
   Swift
 
   ``` highlight
-  public func start ( routeHandle : RouteHandle , waypoints : [ Waypoint ], routingOptions : RoutingOptions , delegate : DynamicRoutingDelegate ) throws
+  public func start(routeHandle: RouteHandle, waypoints: [Waypoint], routingOptions: RoutingOptions, delegate: DynamicRoutingDelegate) throws
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-routehandle">RouteHandle</a>
+  - <a href="sdk-for-ios-navigate-structs-waypoint">Waypoint</a>
+  - <a href="sdk-for-ios-navigate-structs-routingoptions">RoutingOptions</a>
+  - <a href="sdk-for-ios-navigate-protocols-dynamicroutingdelegate">DynamicRoutingDelegate</a>
 
   </div>
 
@@ -581,7 +603,7 @@ The poll interval is defined by <a href="sdk-for-ios-navigate-structs-dynamicrou
 
 - <div>
 
-      stop()
+   <span id="sdk-for-ios-navigate-s-7heresdk20DynamicRoutingEngineC4stopyyF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-stop" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-dynamicroutingengine#sdk-for-ios-navigate-s-7heresdk20DynamicRoutingEngineC4stopyyF" class="token"><code>stop()</code></a> 
 
   </div>
 
@@ -614,10 +636,8 @@ The poll interval is defined by <a href="sdk-for-ios-navigate-structs-dynamicrou
   Swift
 
   ``` highlight
-  public func stop ()
+  public func stop()
   ```
-
-  </pre>
 
   </div>
 
@@ -629,7 +649,7 @@ The poll interval is defined by <a href="sdk-for-ios-navigate-structs-dynamicrou
 
 - <div>
 
-      updateCurrentLocation(mapMatchedLocation: sectionIndex: )
+   <span id="sdk-for-ios-navigate-s-7heresdk20DynamicRoutingEngineC21updateCurrentLocation010mapMatchedG012sectionIndexyAA03MapiG0V_s5Int32VtF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-updateCurrentLocation-mapMatchedLocation-sectionIndex" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-dynamicroutingengine#sdk-for-ios-navigate-s-7heresdk20DynamicRoutingEngineC21updateCurrentLocation010mapMatchedG012sectionIndexyAA03MapiG0V_s5Int32VtF" class="token"><code>updateCurrentLocation(mapMatchedLocation:</code><wbr></wbr><code>sectionIndex:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -647,7 +667,7 @@ The poll interval is defined by <a href="sdk-for-ios-navigate-structs-dynamicrou
 
   <div class="abstract">
 
-  Updates the current location. This location will be used as new starting point when the next <a href="sdk-for-ios-navigate-structs-dynamicroutingengineoptions#/s:7heresdk27DynamicRoutingEngineOptionsV12pollIntervalSdvp">`DynamicRoutingEngineOptions.pollInterval`</a> is reached and a new route is requested. If an immediate route update is needed, consider to use the RoutingEngine instead. All subsequently calculated routes used for the ETA calculation will start from this location. The location needs to lie on the route or a <a href="sdk-for-ios-navigate-enums-routingerror">`RoutingError`</a> will be issued.
+  Updates the current location. This location will be used as new starting point when the next <a href="sdk-for-ios-navigate-structs-dynamicroutingengineoptions#sdk-for-ios-navigate-s-7heresdk27DynamicRoutingEngineOptionsV12pollIntervalSdvp">`DynamicRoutingEngineOptions.pollInterval`</a> is reached and a new route is requested. If an immediate route update is needed, consider to use the RoutingEngine instead. All subsequently calculated routes used for the ETA calculation will start from this location. The location needs to lie on the route or a <a href="sdk-for-ios-navigate-enums-routingerror">`RoutingError`</a> will be issued.
 
   </div>
 
@@ -660,12 +680,14 @@ The poll interval is defined by <a href="sdk-for-ios-navigate-structs-dynamicrou
   Swift
 
   ``` highlight
-  public func updateCurrentLocation ( mapMatchedLocation : MapMatchedLocation , sectionIndex : Int32 )
+  public func updateCurrentLocation(mapMatchedLocation: MapMatchedLocation, sectionIndex: Int32)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-mapmatchedlocation">MapMatchedLocation</a>
 
   </div>
 
@@ -682,13 +704,13 @@ The poll interval is defined by <a href="sdk-for-ios-navigate-structs-dynamicrou
   <tr>
   <td><code> </code><em><code>mapMatchedLocation</code></em><code> </code></td>
   <td><div>
-  <p>The last known location. It is recommended to use a <a href="sdk-for-ios-navigate-structs-navigablelocation#/s:7heresdk17NavigableLocationV010mapMatchedC0AA03MapeC0VSgvp"><code>NavigableLocation.mapMatchedLocation</code></a> as the driver is expected to be on a road.</p>
+  <p>The last known location. It is recommended to use a <a href="sdk-for-ios-navigate-structs-navigablelocation#sdk-for-ios-navigate-s-7heresdk17NavigableLocationV010mapMatchedC0AA03MapeC0VSgvp"><code>NavigableLocation.mapMatchedLocation</code></a> as the driver is expected to be on a road.</p>
   </div></td>
   </tr>
   <tr>
   <td><code> </code><em><code>sectionIndex</code></em><code> </code></td>
   <td><div>
-  <p>The current section from <a href="sdk-for-ios-navigate-structs-routeprogress#/s:7heresdk13RouteProgressV12sectionIndexs5Int32Vvp"><code>RouteProgress.sectionIndex</code></a>.</p>
+  <p>The current section from <a href="sdk-for-ios-navigate-structs-routeprogress#sdk-for-ios-navigate-s-7heresdk13RouteProgressV12sectionIndexs5Int32Vvp"><code>RouteProgress.sectionIndex</code></a>.</p>
   </div></td>
   </tr>
   </tbody>

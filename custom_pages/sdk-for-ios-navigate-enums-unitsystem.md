@@ -27,7 +27,7 @@ Represents the available unit systems(imperial/metric).
 
 - <div>
 
-  ` `<span id="/s:7heresdk10UnitSystemO6metricyA2CmF"></span>` `<span id="//apple_ref/swift/Element/metric" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-unitsystem#/s:7heresdk10UnitSystemO6metricyA2CmF" class="token"><code>metric</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10UnitSystemO6metricyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-metric" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-unitsystem#sdk-for-ios-navigate-s-7heresdk10UnitSystemO6metricyA2CmF" class="token"><code>metric</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Represents the available unit systems(imperial/metric).
 
 - <div>
 
-  ` `<span id="/s:7heresdk10UnitSystemO10imperialUkyA2CmF"></span>` `<span id="//apple_ref/swift/Element/imperialUk" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-unitsystem#/s:7heresdk10UnitSystemO10imperialUkyA2CmF" class="token"><code>imperialUk</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10UnitSystemO10imperialUkyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-imperialUk" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-unitsystem#sdk-for-ios-navigate-s-7heresdk10UnitSystemO10imperialUkyA2CmF" class="token"><code>imperialUk</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Represents the available unit systems(imperial/metric).
 
 - <div>
 
-  ` `<span id="/s:7heresdk10UnitSystemO10imperialUsyA2CmF"></span>` `<span id="//apple_ref/swift/Element/imperialUs" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-unitsystem#/s:7heresdk10UnitSystemO10imperialUsyA2CmF" class="token"><code>imperialUs</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10UnitSystemO10imperialUsyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-imperialUs" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-unitsystem#sdk-for-ios-navigate-s-7heresdk10UnitSystemO10imperialUsyA2CmF" class="token"><code>imperialUs</code></a> 
 
   </div>
 

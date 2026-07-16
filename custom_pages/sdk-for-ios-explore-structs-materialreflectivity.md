@@ -21,7 +21,7 @@ Material reflectivity properties are used to enable per‑pixel lighting for sup
 
 ## Lighting OFF vs ON
 
-By default (when no MaterialReflectivity is assigned) objects are rendered “unlit” (emissive): their texture / color appears at a constant brightness, unaffected by scene lights. Assigning a `MaterialReflectivity` instance to an object that supports it (e.g. <a href="sdk-for-ios-explore-classes-locationindicator#/s:7heresdk17LocationIndicatorC20materialReflectivityAA08MaterialE0VSgvp">`LocationIndicator.materialReflectivity`</a>) automatically enables lighting for this object and all its internal components. Clearing (setting the property to `nil`) disables lighting again and restores the unlit appearance.
+By default (when no MaterialReflectivity is assigned) objects are rendered “unlit” (emissive): their texture / color appears at a constant brightness, unaffected by scene lights. Assigning a `MaterialReflectivity` instance to an object that supports it (e.g. <a href="sdk-for-ios-explore-classes-locationindicator#sdk-for-ios-explore-s-7heresdk17LocationIndicatorC20materialReflectivityAA08MaterialE0VSgvp">`LocationIndicator.materialReflectivity`</a>) automatically enables lighting for this object and all its internal components. Clearing (setting the property to `nil`) disables lighting again and restores the unlit appearance.
 
 ## Factors
 
@@ -40,7 +40,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-  ` `<span id="/s:7heresdk20MaterialReflectivityV13ambientFactorSdvp"></span>` `<span id="//apple_ref/swift/Property/ambientFactor" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-materialreflectivity#/s:7heresdk20MaterialReflectivityV13ambientFactorSdvp" class="token"><code>ambientFactor</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk20MaterialReflectivityV13ambientFactorSdvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-ambientFactor" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-materialreflectivity#sdk-for-ios-explore-s-7heresdk20MaterialReflectivityV13ambientFactorSdvp" class="token"><code>ambientFactor</code></a> 
 
   </div>
 
@@ -84,7 +84,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-  ` `<span id="/s:7heresdk20MaterialReflectivityV13diffuseFactorSdvp"></span>` `<span id="//apple_ref/swift/Property/diffuseFactor" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-materialreflectivity#/s:7heresdk20MaterialReflectivityV13diffuseFactorSdvp" class="token"><code>diffuseFactor</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk20MaterialReflectivityV13diffuseFactorSdvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-diffuseFactor" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-materialreflectivity#sdk-for-ios-explore-s-7heresdk20MaterialReflectivityV13diffuseFactorSdvp" class="token"><code>diffuseFactor</code></a> 
 
   </div>
 
@@ -128,7 +128,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      init(ambientFactor: diffuseFactor: )
+   <span id="sdk-for-ios-explore-s-7heresdk20MaterialReflectivityV13ambientFactor07diffuseE0ACSd_Sdtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-ambientFactor-diffuseFactor" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-materialreflectivity#sdk-for-ios-explore-s-7heresdk20MaterialReflectivityV13ambientFactor07diffuseE0ACSd_Sdtcfc" class="token"><code>init(ambientFactor:</code><wbr></wbr><code>diffuseFactor:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -159,10 +159,8 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public init ( ambientFactor : Double = 0.0 , diffuseFactor : Double = 1.0 )
+  public init(ambientFactor: Double = 0.0, diffuseFactor: Double = 1.0)
   ```
-
-  </pre>
 
   </div>
 

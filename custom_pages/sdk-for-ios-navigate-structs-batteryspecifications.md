@@ -27,7 +27,7 @@ Parameters related to the electric vehicle’s battery.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21BatterySpecificationsV28totalCapacityInKilowattHoursSdvp"></span>` `<span id="//apple_ref/swift/Property/totalCapacityInKilowattHours" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-batteryspecifications#/s:7heresdk21BatterySpecificationsV28totalCapacityInKilowattHoursSdvp" class="token"><code>totalCapacityInKilowattHours</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21BatterySpecificationsV28totalCapacityInKilowattHoursSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-totalCapacityInKilowattHours" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-batteryspecifications#sdk-for-ios-navigate-s-7heresdk21BatterySpecificationsV28totalCapacityInKilowattHoursSdvp" class="token"><code>totalCapacityInKilowattHours</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Parameters related to the electric vehicle’s battery.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21BatterySpecificationsV28initialChargeInKilowattHoursSdvp"></span>` `<span id="//apple_ref/swift/Property/initialChargeInKilowattHours" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-batteryspecifications#/s:7heresdk21BatterySpecificationsV28initialChargeInKilowattHoursSdvp" class="token"><code>initialChargeInKilowattHours</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21BatterySpecificationsV28initialChargeInKilowattHoursSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-initialChargeInKilowattHours" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-batteryspecifications#sdk-for-ios-navigate-s-7heresdk21BatterySpecificationsV28initialChargeInKilowattHoursSdvp" class="token"><code>initialChargeInKilowattHours</code></a> 
 
   </div>
 
@@ -89,7 +89,7 @@ Parameters related to the electric vehicle’s battery.
 
   <div class="abstract">
 
-  Charge level of the vehicle’s battery at the start of the route (in kWh). It must be non-negative and less than or equal to the value of <a href="sdk-for-ios-navigate-structs-batteryspecifications#/s:7heresdk21BatterySpecificationsV28totalCapacityInKilowattHoursSdvp">`BatterySpecifications.totalCapacityInKilowattHours`</a>, otherwise the `BatterySpecifications` instance is considered invalid. Defaults to 0. **Note:** For a user-planned <a href="sdk-for-ios-navigate-structs-chargingstop">`ChargingStop`</a>, this parameter is also required. If not set greater than 0, the route calculation will fail as an an invalid parameter error.
+  Charge level of the vehicle’s battery at the start of the route (in kWh). It must be non-negative and less than or equal to the value of <a href="sdk-for-ios-navigate-structs-batteryspecifications#sdk-for-ios-navigate-s-7heresdk21BatterySpecificationsV28totalCapacityInKilowattHoursSdvp">`BatterySpecifications.totalCapacityInKilowattHours`</a>, otherwise the `BatterySpecifications` instance is considered invalid. Defaults to 0. **Note:** For a user-planned <a href="sdk-for-ios-navigate-structs-chargingstop">`ChargingStop`</a>, this parameter is also required. If not set greater than 0, the route calculation will fail as an an invalid parameter error.
 
   </div>
 
@@ -115,7 +115,7 @@ Parameters related to the electric vehicle’s battery.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21BatterySpecificationsV27targetChargeInKilowattHoursSdvp"></span>` `<span id="//apple_ref/swift/Property/targetChargeInKilowattHours" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-batteryspecifications#/s:7heresdk21BatterySpecificationsV27targetChargeInKilowattHoursSdvp" class="token"><code>targetChargeInKilowattHours</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21BatterySpecificationsV27targetChargeInKilowattHoursSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-targetChargeInKilowattHours" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-batteryspecifications#sdk-for-ios-navigate-s-7heresdk21BatterySpecificationsV27targetChargeInKilowattHoursSdvp" class="token"><code>targetChargeInKilowattHours</code></a> 
 
   </div>
 
@@ -133,7 +133,7 @@ Parameters related to the electric vehicle’s battery.
 
   <div class="abstract">
 
-  Maximum charge to which the battery should be charged at a charging station (in kWh). It must be positive and less than or equal to the value of <a href="sdk-for-ios-navigate-structs-batteryspecifications#/s:7heresdk21BatterySpecificationsV28totalCapacityInKilowattHoursSdvp">`BatterySpecifications.totalCapacityInKilowattHours`</a>, otherwise the `BatterySpecifications` instance is considered invalid. Defaults to 0.
+  Maximum charge to which the battery should be charged at a charging station (in kWh). It must be positive and less than or equal to the value of <a href="sdk-for-ios-navigate-structs-batteryspecifications#sdk-for-ios-navigate-s-7heresdk21BatterySpecificationsV28totalCapacityInKilowattHoursSdvp">`BatterySpecifications.totalCapacityInKilowattHours`</a>, otherwise the `BatterySpecifications` instance is considered invalid. Defaults to 0.
 
   </div>
 
@@ -159,7 +159,7 @@ Parameters related to the electric vehicle’s battery.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21BatterySpecificationsV13chargingCurveSDyS2dGvp"></span>` `<span id="//apple_ref/swift/Property/chargingCurve" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-batteryspecifications#/s:7heresdk21BatterySpecificationsV13chargingCurveSDyS2dGvp" class="token"><code>chargingCurve</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21BatterySpecificationsV13chargingCurveSDyS2dGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-chargingCurve" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-batteryspecifications#sdk-for-ios-navigate-s-7heresdk21BatterySpecificationsV13chargingCurveSDyS2dGvp" class="token"><code>chargingCurve</code></a> 
 
   </div>
 
@@ -177,7 +177,7 @@ Parameters related to the electric vehicle’s battery.
 
   <div class="abstract">
 
-  Function curve describing the maximum battery charging rate (in kW) at a given charge level (in kWh). Map keys represent charge levels that are non-negative floating point values in units of (kWh). Map values represent charging rate values that are positive floating point values in units of (kW). Given charge levels must cover the entire range of \<a href="sdk-for-ios-navigate-structs-batteryspecifications#/s:7heresdk21BatterySpecificationsV27targetChargeInKilowattHoursSdvp">0, [`BatterySpecifications.targetChargeInKilowattHours`</a>\], otherwise the `BatterySpecifications` instance is considered invalid. The charging curve is considered piecewise constant instead of being interpolated. Defaults to an empty container. **Note:** For a user-planned <a href="sdk-for-ios-navigate-structs-chargingstop">`ChargingStop`</a>, this parameter is also required. If one or more values are not set, the route calculation will fail as an invalid parameter error.
+  Function curve describing the maximum battery charging rate (in kW) at a given charge level (in kWh). Map keys represent charge levels that are non-negative floating point values in units of (kWh). Map values represent charging rate values that are positive floating point values in units of (kW). Given charge levels must cover the entire range of \<a href="sdk-for-ios-navigate-structs-batteryspecifications#sdk-for-ios-navigate-s-7heresdk21BatterySpecificationsV27targetChargeInKilowattHoursSdvp">0, [`BatterySpecifications.targetChargeInKilowattHours`</a>\], otherwise the `BatterySpecifications` instance is considered invalid. The charging curve is considered piecewise constant instead of being interpolated. Defaults to an empty container. **Note:** For a user-planned <a href="sdk-for-ios-navigate-structs-chargingstop">`ChargingStop`</a>, this parameter is also required. If one or more values are not set, the route calculation will fail as an invalid parameter error.
 
   </div>
 
@@ -203,7 +203,7 @@ Parameters related to the electric vehicle’s battery.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21BatterySpecificationsV14connectorTypesSayAA21ChargingConnectorTypeOGvp"></span>` `<span id="//apple_ref/swift/Property/connectorTypes" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-batteryspecifications#/s:7heresdk21BatterySpecificationsV14connectorTypesSayAA21ChargingConnectorTypeOGvp" class="token"><code>connectorTypes</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21BatterySpecificationsV14connectorTypesSayAA21ChargingConnectorTypeOGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-connectorTypes" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-batteryspecifications#sdk-for-ios-navigate-s-7heresdk21BatterySpecificationsV14connectorTypesSayAA21ChargingConnectorTypeOGvp" class="token"><code>connectorTypes</code></a> 
 
   </div>
 
@@ -239,6 +239,10 @@ Parameters related to the electric vehicle’s battery.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-chargingconnectortype">ChargingConnectorType</a>
+
   </div>
 
   </div>
@@ -247,7 +251,7 @@ Parameters related to the electric vehicle’s battery.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21BatterySpecificationsV41minChargeAtChargingStationInKilowattHoursSdvp"></span>` `<span id="//apple_ref/swift/Property/minChargeAtChargingStationInKilowattHours" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-batteryspecifications#/s:7heresdk21BatterySpecificationsV41minChargeAtChargingStationInKilowattHoursSdvp" class="token"><code>minChargeAtChargingStationInKilowattHours</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21BatterySpecificationsV41minChargeAtChargingStationInKilowattHoursSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-minChargeAtChargingStationInKilowattHours" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-batteryspecifications#sdk-for-ios-navigate-s-7heresdk21BatterySpecificationsV41minChargeAtChargingStationInKilowattHoursSdvp" class="token"><code>minChargeAtChargingStationInKilowattHours</code></a> 
 
   </div>
 
@@ -265,7 +269,7 @@ Parameters related to the electric vehicle’s battery.
 
   <div class="abstract">
 
-  Minimum charge when arriving at a charging station in kWh. It must be non-negative and less than the value of <a href="sdk-for-ios-navigate-structs-batteryspecifications#/s:7heresdk21BatterySpecificationsV27targetChargeInKilowattHoursSdvp">`BatterySpecifications.targetChargeInKilowattHours`</a>, otherwise the `BatterySpecifications` instance is considered invalid. Defaults to 0.
+  Minimum charge when arriving at a charging station in kWh. It must be non-negative and less than the value of <a href="sdk-for-ios-navigate-structs-batteryspecifications#sdk-for-ios-navigate-s-7heresdk21BatterySpecificationsV27targetChargeInKilowattHoursSdvp">`BatterySpecifications.targetChargeInKilowattHours`</a>, otherwise the `BatterySpecifications` instance is considered invalid. Defaults to 0.
 
   </div>
 
@@ -291,7 +295,7 @@ Parameters related to the electric vehicle’s battery.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21BatterySpecificationsV46minChargeAtFirstChargingStationInKilowattHoursSdSgvp"></span>` `<span id="//apple_ref/swift/Property/minChargeAtFirstChargingStationInKilowattHours" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-batteryspecifications#/s:7heresdk21BatterySpecificationsV46minChargeAtFirstChargingStationInKilowattHoursSdSgvp" class="token"><code>minChargeAtFirstChargingStationInKilowattHours</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21BatterySpecificationsV46minChargeAtFirstChargingStationInKilowattHoursSdSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-minChargeAtFirstChargingStationInKilowattHours" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-batteryspecifications#sdk-for-ios-navigate-s-7heresdk21BatterySpecificationsV46minChargeAtFirstChargingStationInKilowattHoursSdSgvp" class="token"><code>minChargeAtFirstChargingStationInKilowattHours</code></a> 
 
   </div>
 
@@ -309,7 +313,7 @@ Parameters related to the electric vehicle’s battery.
 
   <div class="abstract">
 
-  Minimum charge when arriving at first charging station in kWh. This overrides <a href="sdk-for-ios-navigate-structs-batteryspecifications#/s:7heresdk21BatterySpecificationsV41minChargeAtChargingStationInKilowattHoursSdvp">`BatterySpecifications.minChargeAtChargingStationInKilowattHours`</a> for the first charging station. If not specified, <a href="sdk-for-ios-navigate-structs-batteryspecifications#/s:7heresdk21BatterySpecificationsV41minChargeAtChargingStationInKilowattHoursSdvp">`BatterySpecifications.minChargeAtChargingStationInKilowattHours`</a> will be used for all charging stations, including the first one. Defaults to `nil`. When initialized, it must be non-negative and less than the value of <a href="sdk-for-ios-navigate-structs-batteryspecifications#/s:7heresdk21BatterySpecificationsV27targetChargeInKilowattHoursSdvp">`BatterySpecifications.targetChargeInKilowattHours`</a>, otherwise the `BatterySpecifications` instance is considered invalid. This is usually used when the current charge is too low to reach a charging station within `minChargeAtChargingStation` limits.
+  Minimum charge when arriving at first charging station in kWh. This overrides <a href="sdk-for-ios-navigate-structs-batteryspecifications#sdk-for-ios-navigate-s-7heresdk21BatterySpecificationsV41minChargeAtChargingStationInKilowattHoursSdvp">`BatterySpecifications.minChargeAtChargingStationInKilowattHours`</a> for the first charging station. If not specified, <a href="sdk-for-ios-navigate-structs-batteryspecifications#sdk-for-ios-navigate-s-7heresdk21BatterySpecificationsV41minChargeAtChargingStationInKilowattHoursSdvp">`BatterySpecifications.minChargeAtChargingStationInKilowattHours`</a> will be used for all charging stations, including the first one. Defaults to `nil`. When initialized, it must be non-negative and less than the value of <a href="sdk-for-ios-navigate-structs-batteryspecifications#sdk-for-ios-navigate-s-7heresdk21BatterySpecificationsV27targetChargeInKilowattHoursSdvp">`BatterySpecifications.targetChargeInKilowattHours`</a>, otherwise the `BatterySpecifications` instance is considered invalid. This is usually used when the current charge is too low to reach a charging station within `minChargeAtChargingStation` limits.
 
   </div>
 
@@ -335,7 +339,7 @@ Parameters related to the electric vehicle’s battery.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21BatterySpecificationsV37minChargeAtDestinationInKilowattHoursSdvp"></span>` `<span id="//apple_ref/swift/Property/minChargeAtDestinationInKilowattHours" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-batteryspecifications#/s:7heresdk21BatterySpecificationsV37minChargeAtDestinationInKilowattHoursSdvp" class="token"><code>minChargeAtDestinationInKilowattHours</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21BatterySpecificationsV37minChargeAtDestinationInKilowattHoursSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-minChargeAtDestinationInKilowattHours" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-batteryspecifications#sdk-for-ios-navigate-s-7heresdk21BatterySpecificationsV37minChargeAtDestinationInKilowattHoursSdvp" class="token"><code>minChargeAtDestinationInKilowattHours</code></a> 
 
   </div>
 
@@ -353,7 +357,7 @@ Parameters related to the electric vehicle’s battery.
 
   <div class="abstract">
 
-  Minimum charge at the final route destination in kWh. It must be non-negative and less than the value of <a href="sdk-for-ios-navigate-structs-batteryspecifications#/s:7heresdk21BatterySpecificationsV27targetChargeInKilowattHoursSdvp">`BatterySpecifications.targetChargeInKilowattHours`</a>, otherwise the `BatterySpecifications` instance is considered invalid. Defaults to 0.
+  Minimum charge at the final route destination in kWh. It must be non-negative and less than the value of <a href="sdk-for-ios-navigate-structs-batteryspecifications#sdk-for-ios-navigate-s-7heresdk21BatterySpecificationsV27targetChargeInKilowattHoursSdvp">`BatterySpecifications.targetChargeInKilowattHours`</a>, otherwise the `BatterySpecifications` instance is considered invalid. Defaults to 0.
 
   </div>
 
@@ -379,7 +383,7 @@ Parameters related to the electric vehicle’s battery.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21BatterySpecificationsV25maxChargingVoltageInVoltsSdSgvp"></span>` `<span id="//apple_ref/swift/Property/maxChargingVoltageInVolts" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-batteryspecifications#/s:7heresdk21BatterySpecificationsV25maxChargingVoltageInVoltsSdSgvp" class="token"><code>maxChargingVoltageInVolts</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21BatterySpecificationsV25maxChargingVoltageInVoltsSdSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-maxChargingVoltageInVolts" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-batteryspecifications#sdk-for-ios-navigate-s-7heresdk21BatterySpecificationsV25maxChargingVoltageInVoltsSdSgvp" class="token"><code>maxChargingVoltageInVolts</code></a> 
 
   </div>
 
@@ -423,7 +427,7 @@ Parameters related to the electric vehicle’s battery.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21BatterySpecificationsV27maxChargingCurrentInAmperesSdSgvp"></span>` `<span id="//apple_ref/swift/Property/maxChargingCurrentInAmperes" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-batteryspecifications#/s:7heresdk21BatterySpecificationsV27maxChargingCurrentInAmperesSdSgvp" class="token"><code>maxChargingCurrentInAmperes</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21BatterySpecificationsV27maxChargingCurrentInAmperesSdSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-maxChargingCurrentInAmperes" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-batteryspecifications#sdk-for-ios-navigate-s-7heresdk21BatterySpecificationsV27maxChargingCurrentInAmperesSdSgvp" class="token"><code>maxChargingCurrentInAmperes</code></a> 
 
   </div>
 
@@ -467,7 +471,7 @@ Parameters related to the electric vehicle’s battery.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21BatterySpecificationsV21chargingSetupDurationSdvp"></span>` `<span id="//apple_ref/swift/Property/chargingSetupDuration" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-batteryspecifications#/s:7heresdk21BatterySpecificationsV21chargingSetupDurationSdvp" class="token"><code>chargingSetupDuration</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21BatterySpecificationsV21chargingSetupDurationSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-chargingSetupDuration" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-batteryspecifications#sdk-for-ios-navigate-s-7heresdk21BatterySpecificationsV21chargingSetupDurationSdvp" class="token"><code>chargingSetupDuration</code></a> 
 
   </div>
 
@@ -511,7 +515,7 @@ Parameters related to the electric vehicle’s battery.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21BatterySpecificationsV31maxPowerAtLowVoltageInKilowattsSdSgvp"></span>` `<span id="//apple_ref/swift/Property/maxPowerAtLowVoltageInKilowatts" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-batteryspecifications#/s:7heresdk21BatterySpecificationsV31maxPowerAtLowVoltageInKilowattsSdSgvp" class="token"><code>maxPowerAtLowVoltageInKilowatts</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21BatterySpecificationsV31maxPowerAtLowVoltageInKilowattsSdSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-maxPowerAtLowVoltageInKilowatts" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-batteryspecifications#sdk-for-ios-navigate-s-7heresdk21BatterySpecificationsV31maxPowerAtLowVoltageInKilowattsSdSgvp" class="token"><code>maxPowerAtLowVoltageInKilowatts</code></a> 
 
   </div>
 
@@ -532,7 +536,7 @@ Parameters related to the electric vehicle’s battery.
   The maximum power in kilowatts at which a vehicle can charge under given these conditions:
 
   - The charging station connector’s maximum supply voltage is less than 800 V.
-  - <a href="sdk-for-ios-navigate-structs-batteryspecifications#/s:7heresdk21BatterySpecificationsV25maxChargingVoltageInVoltsSdSgvp">`BatterySpecifications.maxChargingVoltageInVolts`</a> is greater than or equal to 800 V. The provided value must be greater than or equal to 0. By default, it is not set. **Note:** The feature is not supported by the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`OfflineRoutingEngine`</a>.
+  - <a href="sdk-for-ios-navigate-structs-batteryspecifications#sdk-for-ios-navigate-s-7heresdk21BatterySpecificationsV25maxChargingVoltageInVoltsSdSgvp">`BatterySpecifications.maxChargingVoltageInVolts`</a> is greater than or equal to 800 V. The provided value must be greater than or equal to 0. By default, it is not set. **Note:** The feature is not supported by the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`OfflineRoutingEngine`</a>.
 
   </div>
 
@@ -558,7 +562,7 @@ Parameters related to the electric vehicle’s battery.
 
 - <div>
 
-      init(totalCapacityInKilowattHours: initialChargeInKilowattHours: targetChargeInKilowattHours: chargingCurve: connectorTypes: minChargeAtChargingStationInKilowattHours: minChargeAtFirstChargingStationInKilowattHours: minChargeAtDestinationInKilowattHours: maxChargingVoltageInVolts: maxChargingCurrentInAmperes: chargingSetupDuration: maxPowerAtLowVoltageInKilowatts: )
+   <span id="sdk-for-ios-navigate-s-7heresdk21BatterySpecificationsV28totalCapacityInKilowattHours013initialChargefgH006targetjfgH013chargingCurve14connectorTypes03minj17AtChargingStationfgH00pjq5FirstrsfgH00pjq11DestinationfgH003maxr7VoltageF5Volts0vr7CurrentF7Amperes0L13SetupDuration0v5Powerq3LowwF9KilowattsACSd_S2dSDyS2dGSayAA0R13ConnectorTypeOGS2dSgSdA2TSdATtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-totalCapacityInKilowattHours-initialChargeInKilowattHours-targetChargeInKilowattHours-chargingCurve-connectorTypes-minChargeAtChargingStationInKilowattHours-minChargeAtFirstChargingStationInKilowattHours-minChargeAtDestinationInKilowattHours-maxChargingVoltageInVolts-maxChargingCurrentInAmperes-chargingSetupDuration-maxPowerAtLowVoltageInKilowatts" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-batteryspecifications#sdk-for-ios-navigate-s-7heresdk21BatterySpecificationsV28totalCapacityInKilowattHours013initialChargefgH006targetjfgH013chargingCurve14connectorTypes03minj17AtChargingStationfgH00pjq5FirstrsfgH00pjq11DestinationfgH003maxr7VoltageF5Volts0vr7CurrentF7Amperes0L13SetupDuration0v5Powerq3LowwF9KilowattsACSd_S2dSDyS2dGSayAA0R13ConnectorTypeOGS2dSgSdA2TSdATtcfc" class="token"><code>init(totalCapacityInKilowattHours:</code><wbr></wbr><code>initialChargeInKilowattHours:</code><wbr></wbr><code>targetChargeInKilowattHours:</code><wbr></wbr><code>chargingCurve:</code><wbr></wbr><code>connectorTypes:</code><wbr></wbr><code>minChargeAtChargingStationInKilowattHours:</code><wbr></wbr><code>minChargeAtFirstChargingStationInKilowattHours:</code><wbr></wbr><code>minChargeAtDestinationInKilowattHours:</code><wbr></wbr><code>maxChargingVoltageInVolts:</code><wbr></wbr><code>maxChargingCurrentInAmperes:</code><wbr></wbr><code>chargingSetupDuration:</code><wbr></wbr><code>maxPowerAtLowVoltageInKilowatts:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -589,12 +593,14 @@ Parameters related to the electric vehicle’s battery.
   Swift
 
   ``` highlight
-  public init ( totalCapacityInKilowattHours : Double = 0.0 , initialChargeInKilowattHours : Double = 0.0 , targetChargeInKilowattHours : Double = 0.0 , chargingCurve : [ Double : Double ] = [:], connectorTypes : [ ChargingConnectorType ] = [], minChargeAtChargingStationInKilowattHours : Double = 0.0 , minChargeAtFirstChargingStationInKilowattHours : Double ? = nil , minChargeAtDestinationInKilowattHours : Double = 0.0 , maxChargingVoltageInVolts : Double ? = nil , maxChargingCurrentInAmperes : Double ? = nil , chargingSetupDuration : TimeInterval = 0 , maxPowerAtLowVoltageInKilowatts : Double ? = nil )
+  public init(totalCapacityInKilowattHours: Double = 0.0, initialChargeInKilowattHours: Double = 0.0, targetChargeInKilowattHours: Double = 0.0, chargingCurve: [Double : Double] = [:], connectorTypes: [ChargingConnectorType] = [], minChargeAtChargingStationInKilowattHours: Double = 0.0, minChargeAtFirstChargingStationInKilowattHours: Double? = nil, minChargeAtDestinationInKilowattHours: Double = 0.0, maxChargingVoltageInVolts: Double? = nil, maxChargingCurrentInAmperes: Double? = nil, chargingSetupDuration: TimeInterval = 0, maxPowerAtLowVoltageInKilowatts: Double? = nil)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-chargingconnectortype">ChargingConnectorType</a>
 
   </div>
 

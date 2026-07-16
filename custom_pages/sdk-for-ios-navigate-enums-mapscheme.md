@@ -27,7 +27,7 @@ Represents the preconfigured map schemes bundled with the SDK.
 
 - <div>
 
-  ` `<span id="/s:7heresdk9MapSchemeO9normalDayyA2CmF"></span>` `<span id="//apple_ref/swift/Element/normalDay" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-mapscheme#/s:7heresdk9MapSchemeO9normalDayyA2CmF" class="token"><code>normalDay</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9MapSchemeO9normalDayyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-normalDay" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-mapscheme#sdk-for-ios-navigate-s-7heresdk9MapSchemeO9normalDayyA2CmF" class="token"><code>normalDay</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Represents the preconfigured map schemes bundled with the SDK.
 
 - <div>
 
-  ` `<span id="/s:7heresdk9MapSchemeO11normalNightyA2CmF"></span>` `<span id="//apple_ref/swift/Element/normalNight" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-mapscheme#/s:7heresdk9MapSchemeO11normalNightyA2CmF" class="token"><code>normalNight</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9MapSchemeO11normalNightyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-normalNight" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-mapscheme#sdk-for-ios-navigate-s-7heresdk9MapSchemeO11normalNightyA2CmF" class="token"><code>normalNight</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Represents the preconfigured map schemes bundled with the SDK.
 
 - <div>
 
-  ` `<span id="/s:7heresdk9MapSchemeO9satelliteyA2CmF"></span>` `<span id="//apple_ref/swift/Element/satellite" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-mapscheme#/s:7heresdk9MapSchemeO9satelliteyA2CmF" class="token"><code>satellite</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9MapSchemeO9satelliteyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-satellite" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-mapscheme#sdk-for-ios-navigate-s-7heresdk9MapSchemeO9satelliteyA2CmF" class="token"><code>satellite</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Represents the preconfigured map schemes bundled with the SDK.
 
 - <div>
 
-  ` `<span id="/s:7heresdk9MapSchemeO9hybridDayyA2CmF"></span>` `<span id="//apple_ref/swift/Element/hybridDay" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-mapscheme#/s:7heresdk9MapSchemeO9hybridDayyA2CmF" class="token"><code>hybridDay</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9MapSchemeO9hybridDayyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-hybridDay" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-mapscheme#sdk-for-ios-navigate-s-7heresdk9MapSchemeO9hybridDayyA2CmF" class="token"><code>hybridDay</code></a> 
 
   </div>
 
@@ -203,7 +203,7 @@ Represents the preconfigured map schemes bundled with the SDK.
 
 - <div>
 
-  ` `<span id="/s:7heresdk9MapSchemeO11hybridNightyA2CmF"></span>` `<span id="//apple_ref/swift/Element/hybridNight" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-mapscheme#/s:7heresdk9MapSchemeO11hybridNightyA2CmF" class="token"><code>hybridNight</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9MapSchemeO11hybridNightyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-hybridNight" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-mapscheme#sdk-for-ios-navigate-s-7heresdk9MapSchemeO11hybridNightyA2CmF" class="token"><code>hybridNight</code></a> 
 
   </div>
 
@@ -247,7 +247,7 @@ Represents the preconfigured map schemes bundled with the SDK.
 
 - <div>
 
-  ` `<span id="/s:7heresdk9MapSchemeO7liteDayyA2CmF"></span>` `<span id="//apple_ref/swift/Element/liteDay" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-mapscheme#/s:7heresdk9MapSchemeO7liteDayyA2CmF" class="token"><code>liteDay</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9MapSchemeO7liteDayyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-liteDay" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-mapscheme#sdk-for-ios-navigate-s-7heresdk9MapSchemeO7liteDayyA2CmF" class="token"><code>liteDay</code></a> 
 
   </div>
 
@@ -265,7 +265,7 @@ Represents the preconfigured map schemes bundled with the SDK.
 
   <div class="abstract">
 
-  The day version of lite scheme is a simplified version of the <a href="sdk-for-ios-navigate-enums-mapscheme#/s:7heresdk9MapSchemeO9normalDayyA2CmF">`MapScheme.normalDay`</a>, featuring fewer map elements and a more limited color palette.
+  The day version of lite scheme is a simplified version of the <a href="sdk-for-ios-navigate-enums-mapscheme#sdk-for-ios-navigate-s-7heresdk9MapSchemeO9normalDayyA2CmF">`MapScheme.normalDay`</a>, featuring fewer map elements and a more limited color palette.
 
   </div>
 
@@ -291,7 +291,7 @@ Represents the preconfigured map schemes bundled with the SDK.
 
 - <div>
 
-  ` `<span id="/s:7heresdk9MapSchemeO9liteNightyA2CmF"></span>` `<span id="//apple_ref/swift/Element/liteNight" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-mapscheme#/s:7heresdk9MapSchemeO9liteNightyA2CmF" class="token"><code>liteNight</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9MapSchemeO9liteNightyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-liteNight" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-mapscheme#sdk-for-ios-navigate-s-7heresdk9MapSchemeO9liteNightyA2CmF" class="token"><code>liteNight</code></a> 
 
   </div>
 
@@ -309,7 +309,7 @@ Represents the preconfigured map schemes bundled with the SDK.
 
   <div class="abstract">
 
-  The night version of lite scheme is a simplified version of the <a href="sdk-for-ios-navigate-enums-mapscheme#/s:7heresdk9MapSchemeO11normalNightyA2CmF">`MapScheme.normalNight`</a>, featuring fewer map elements and a more limited color palette.
+  The night version of lite scheme is a simplified version of the <a href="sdk-for-ios-navigate-enums-mapscheme#sdk-for-ios-navigate-s-7heresdk9MapSchemeO11normalNightyA2CmF">`MapScheme.normalNight`</a>, featuring fewer map elements and a more limited color palette.
 
   </div>
 
@@ -335,7 +335,7 @@ Represents the preconfigured map schemes bundled with the SDK.
 
 - <div>
 
-  ` `<span id="/s:7heresdk9MapSchemeO13liteHybridDayyA2CmF"></span>` `<span id="//apple_ref/swift/Element/liteHybridDay" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-mapscheme#/s:7heresdk9MapSchemeO13liteHybridDayyA2CmF" class="token"><code>liteHybridDay</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9MapSchemeO13liteHybridDayyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-liteHybridDay" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-mapscheme#sdk-for-ios-navigate-s-7heresdk9MapSchemeO13liteHybridDayyA2CmF" class="token"><code>liteHybridDay</code></a> 
 
   </div>
 
@@ -353,7 +353,7 @@ Represents the preconfigured map schemes bundled with the SDK.
 
   <div class="abstract">
 
-  The day version of lite hybrid scheme is a simplified version of the <a href="sdk-for-ios-navigate-enums-mapscheme#/s:7heresdk9MapSchemeO9hybridDayyA2CmF">`MapScheme.hybridDay`</a>, featuring fewer map elements and a more limited color palette.
+  The day version of lite hybrid scheme is a simplified version of the <a href="sdk-for-ios-navigate-enums-mapscheme#sdk-for-ios-navigate-s-7heresdk9MapSchemeO9hybridDayyA2CmF">`MapScheme.hybridDay`</a>, featuring fewer map elements and a more limited color palette.
 
   </div>
 
@@ -379,7 +379,7 @@ Represents the preconfigured map schemes bundled with the SDK.
 
 - <div>
 
-  ` `<span id="/s:7heresdk9MapSchemeO15liteHybridNightyA2CmF"></span>` `<span id="//apple_ref/swift/Element/liteHybridNight" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-mapscheme#/s:7heresdk9MapSchemeO15liteHybridNightyA2CmF" class="token"><code>liteHybridNight</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9MapSchemeO15liteHybridNightyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-liteHybridNight" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-mapscheme#sdk-for-ios-navigate-s-7heresdk9MapSchemeO15liteHybridNightyA2CmF" class="token"><code>liteHybridNight</code></a> 
 
   </div>
 
@@ -397,7 +397,7 @@ Represents the preconfigured map schemes bundled with the SDK.
 
   <div class="abstract">
 
-  The night version of lite hybrid scheme is a simplified version of the <a href="sdk-for-ios-navigate-enums-mapscheme#/s:7heresdk9MapSchemeO11hybridNightyA2CmF">`MapScheme.hybridNight`</a>, featuring fewer map elements and a more limited color palette.
+  The night version of lite hybrid scheme is a simplified version of the <a href="sdk-for-ios-navigate-enums-mapscheme#sdk-for-ios-navigate-s-7heresdk9MapSchemeO11hybridNightyA2CmF">`MapScheme.hybridNight`</a>, featuring fewer map elements and a more limited color palette.
 
   </div>
 
@@ -423,7 +423,7 @@ Represents the preconfigured map schemes bundled with the SDK.
 
 - <div>
 
-  ` `<span id="/s:7heresdk9MapSchemeO12logisticsDayyA2CmF"></span>` `<span id="//apple_ref/swift/Element/logisticsDay" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-mapscheme#/s:7heresdk9MapSchemeO12logisticsDayyA2CmF" class="token"><code>logisticsDay</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9MapSchemeO12logisticsDayyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-logisticsDay" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-mapscheme#sdk-for-ios-navigate-s-7heresdk9MapSchemeO12logisticsDayyA2CmF" class="token"><code>logisticsDay</code></a> 
 
   </div>
 
@@ -467,7 +467,7 @@ Represents the preconfigured map schemes bundled with the SDK.
 
 - <div>
 
-  ` `<span id="/s:7heresdk9MapSchemeO14logisticsNightyA2CmF"></span>` `<span id="//apple_ref/swift/Element/logisticsNight" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-mapscheme#/s:7heresdk9MapSchemeO14logisticsNightyA2CmF" class="token"><code>logisticsNight</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9MapSchemeO14logisticsNightyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-logisticsNight" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-mapscheme#sdk-for-ios-navigate-s-7heresdk9MapSchemeO14logisticsNightyA2CmF" class="token"><code>logisticsNight</code></a> 
 
   </div>
 
@@ -511,7 +511,7 @@ Represents the preconfigured map schemes bundled with the SDK.
 
 - <div>
 
-  ` `<span id="/s:7heresdk9MapSchemeO18logisticsHybridDayyA2CmF"></span>` `<span id="//apple_ref/swift/Element/logisticsHybridDay" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-mapscheme#/s:7heresdk9MapSchemeO18logisticsHybridDayyA2CmF" class="token"><code>logisticsHybridDay</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9MapSchemeO18logisticsHybridDayyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-logisticsHybridDay" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-mapscheme#sdk-for-ios-navigate-s-7heresdk9MapSchemeO18logisticsHybridDayyA2CmF" class="token"><code>logisticsHybridDay</code></a> 
 
   </div>
 
@@ -555,7 +555,7 @@ Represents the preconfigured map schemes bundled with the SDK.
 
 - <div>
 
-  ` `<span id="/s:7heresdk9MapSchemeO20logisticsHybridNightyA2CmF"></span>` `<span id="//apple_ref/swift/Element/logisticsHybridNight" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-mapscheme#/s:7heresdk9MapSchemeO20logisticsHybridNightyA2CmF" class="token"><code>logisticsHybridNight</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9MapSchemeO20logisticsHybridNightyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-logisticsHybridNight" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-mapscheme#sdk-for-ios-navigate-s-7heresdk9MapSchemeO20logisticsHybridNightyA2CmF" class="token"><code>logisticsHybridNight</code></a> 
 
   </div>
 
@@ -599,7 +599,7 @@ Represents the preconfigured map schemes bundled with the SDK.
 
 - <div>
 
-  ` `<span id="/s:7heresdk9MapSchemeO14roadNetworkDayyA2CmF"></span>` `<span id="//apple_ref/swift/Element/roadNetworkDay" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-mapscheme#/s:7heresdk9MapSchemeO14roadNetworkDayyA2CmF" class="token"><code>roadNetworkDay</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9MapSchemeO14roadNetworkDayyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-roadNetworkDay" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-mapscheme#sdk-for-ios-navigate-s-7heresdk9MapSchemeO14roadNetworkDayyA2CmF" class="token"><code>roadNetworkDay</code></a> 
 
   </div>
 
@@ -643,7 +643,7 @@ Represents the preconfigured map schemes bundled with the SDK.
 
 - <div>
 
-  ` `<span id="/s:7heresdk9MapSchemeO16roadNetworkNightyA2CmF"></span>` `<span id="//apple_ref/swift/Element/roadNetworkNight" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-mapscheme#/s:7heresdk9MapSchemeO16roadNetworkNightyA2CmF" class="token"><code>roadNetworkNight</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9MapSchemeO16roadNetworkNightyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-roadNetworkNight" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-mapscheme#sdk-for-ios-navigate-s-7heresdk9MapSchemeO16roadNetworkNightyA2CmF" class="token"><code>roadNetworkNight</code></a> 
 
   </div>
 
@@ -687,7 +687,7 @@ Represents the preconfigured map schemes bundled with the SDK.
 
 - <div>
 
-  ` `<span id="/s:7heresdk9MapSchemeO7topoDayyA2CmF"></span>` `<span id="//apple_ref/swift/Element/topoDay" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-mapscheme#/s:7heresdk9MapSchemeO7topoDayyA2CmF" class="token"><code>topoDay</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9MapSchemeO7topoDayyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-topoDay" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-mapscheme#sdk-for-ios-navigate-s-7heresdk9MapSchemeO7topoDayyA2CmF" class="token"><code>topoDay</code></a> 
 
   </div>
 
@@ -731,7 +731,7 @@ Represents the preconfigured map schemes bundled with the SDK.
 
 - <div>
 
-  ` `<span id="/s:7heresdk9MapSchemeO9topoNightyA2CmF"></span>` `<span id="//apple_ref/swift/Element/topoNight" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-mapscheme#/s:7heresdk9MapSchemeO9topoNightyA2CmF" class="token"><code>topoNight</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9MapSchemeO9topoNightyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-topoNight" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-mapscheme#sdk-for-ios-navigate-s-7heresdk9MapSchemeO9topoNightyA2CmF" class="token"><code>topoNight</code></a> 
 
   </div>
 

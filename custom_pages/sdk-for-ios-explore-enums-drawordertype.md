@@ -21,7 +21,7 @@ Specifies the type of map item draw order. Map item rendering behavior is chosen
 
 Regardless of a draw order type map items with a higher draw order are drawn on top of map items with a lower draw order.
 
-When having map items in a scene with the same draw order, but with different draw order types <a href="sdk-for-ios-explore-enums-drawordertype#/s:7heresdk13DrawOrderTypeO016mapSceneAdditionC9DependentyA2CmF">`DrawOrderType.mapSceneAdditionOrderDependent`</a> and <a href="sdk-for-ios-explore-enums-drawordertype#/s:7heresdk13DrawOrderTypeO016mapSceneAdditionC11IndependentyA2CmF">`DrawOrderType.mapSceneAdditionOrderIndependent`</a>, <a href="sdk-for-ios-explore-enums-drawordertype#/s:7heresdk13DrawOrderTypeO016mapSceneAdditionC9DependentyA2CmF">`DrawOrderType.mapSceneAdditionOrderDependent`</a> items will be rendered on top of <a href="sdk-for-ios-explore-enums-drawordertype#/s:7heresdk13DrawOrderTypeO016mapSceneAdditionC11IndependentyA2CmF">`DrawOrderType.mapSceneAdditionOrderIndependent`</a> ones.
+When having map items in a scene with the same draw order, but with different draw order types <a href="sdk-for-ios-explore-enums-drawordertype#sdk-for-ios-explore-s-7heresdk13DrawOrderTypeO016mapSceneAdditionC9DependentyA2CmF">`DrawOrderType.mapSceneAdditionOrderDependent`</a> and <a href="sdk-for-ios-explore-enums-drawordertype#sdk-for-ios-explore-s-7heresdk13DrawOrderTypeO016mapSceneAdditionC11IndependentyA2CmF">`DrawOrderType.mapSceneAdditionOrderIndependent`</a>, <a href="sdk-for-ios-explore-enums-drawordertype#sdk-for-ios-explore-s-7heresdk13DrawOrderTypeO016mapSceneAdditionC9DependentyA2CmF">`DrawOrderType.mapSceneAdditionOrderDependent`</a> items will be rendered on top of <a href="sdk-for-ios-explore-enums-drawordertype#sdk-for-ios-explore-s-7heresdk13DrawOrderTypeO016mapSceneAdditionC11IndependentyA2CmF">`DrawOrderType.mapSceneAdditionOrderIndependent`</a> ones.
 
 </div>
 
@@ -31,7 +31,7 @@ When having map items in a scene with the same draw order, but with different dr
 
 - <div>
 
-  ` `<span id="/s:7heresdk13DrawOrderTypeO016mapSceneAdditionC9DependentyA2CmF"></span>` `<span id="//apple_ref/swift/Element/mapSceneAdditionOrderDependent" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-drawordertype#/s:7heresdk13DrawOrderTypeO016mapSceneAdditionC9DependentyA2CmF" class="token"><code>mapSceneAdditionOrderDependent</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13DrawOrderTypeO016mapSceneAdditionC9DependentyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-mapSceneAdditionOrderDependent" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-drawordertype#sdk-for-ios-explore-s-7heresdk13DrawOrderTypeO016mapSceneAdditionC9DependentyA2CmF" class="token"><code>mapSceneAdditionOrderDependent</code></a> 
 
   </div>
 
@@ -77,7 +77,7 @@ When having map items in a scene with the same draw order, but with different dr
 
 - <div>
 
-  ` `<span id="/s:7heresdk13DrawOrderTypeO016mapSceneAdditionC11IndependentyA2CmF"></span>` `<span id="//apple_ref/swift/Element/mapSceneAdditionOrderIndependent" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-drawordertype#/s:7heresdk13DrawOrderTypeO016mapSceneAdditionC11IndependentyA2CmF" class="token"><code>mapSceneAdditionOrderIndependent</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13DrawOrderTypeO016mapSceneAdditionC11IndependentyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-mapSceneAdditionOrderIndependent" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-drawordertype#sdk-for-ios-explore-s-7heresdk13DrawOrderTypeO016mapSceneAdditionC11IndependentyA2CmF" class="token"><code>mapSceneAdditionOrderIndependent</code></a> 
 
   </div>
 

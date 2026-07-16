@@ -27,7 +27,7 @@ Specifies possible errors that may result from the calculation of a indoor route
 
 - <div>
 
-  ` `<span id="/s:7heresdk18IndoorRoutingErrorO02noD0yA2CmF"></span>` `<span id="//apple_ref/swift/Element/noError" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-indoorroutingerror#/s:7heresdk18IndoorRoutingErrorO02noD0yA2CmF" class="token"><code>noError</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18IndoorRoutingErrorO02noD0yA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-noError" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-indoorroutingerror#sdk-for-ios-navigate-s-7heresdk18IndoorRoutingErrorO02noD0yA2CmF" class="token"><code>noError</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Specifies possible errors that may result from the calculation of a indoor route
 
 - <div>
 
-  ` `<span id="/s:7heresdk18IndoorRoutingErrorO9noNetworkyA2CmF"></span>` `<span id="//apple_ref/swift/Element/noNetwork" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-indoorroutingerror#/s:7heresdk18IndoorRoutingErrorO9noNetworkyA2CmF" class="token"><code>noNetwork</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18IndoorRoutingErrorO9noNetworkyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-noNetwork" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-indoorroutingerror#sdk-for-ios-navigate-s-7heresdk18IndoorRoutingErrorO9noNetworkyA2CmF" class="token"><code>noNetwork</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Specifies possible errors that may result from the calculation of a indoor route
 
 - <div>
 
-  ` `<span id="/s:7heresdk18IndoorRoutingErrorO12noRouteFoundyA2CmF"></span>` `<span id="//apple_ref/swift/Element/noRouteFound" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-indoorroutingerror#/s:7heresdk18IndoorRoutingErrorO12noRouteFoundyA2CmF" class="token"><code>noRouteFound</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18IndoorRoutingErrorO12noRouteFoundyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-noRouteFound" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-indoorroutingerror#sdk-for-ios-navigate-s-7heresdk18IndoorRoutingErrorO12noRouteFoundyA2CmF" class="token"><code>noRouteFound</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Specifies possible errors that may result from the calculation of a indoor route
 
 - <div>
 
-  ` `<span id="/s:7heresdk18IndoorRoutingErrorO19couldNotMatchOriginyA2CmF"></span>` `<span id="//apple_ref/swift/Element/couldNotMatchOrigin" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-indoorroutingerror#/s:7heresdk18IndoorRoutingErrorO19couldNotMatchOriginyA2CmF" class="token"><code>couldNotMatchOrigin</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18IndoorRoutingErrorO19couldNotMatchOriginyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-couldNotMatchOrigin" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-indoorroutingerror#sdk-for-ios-navigate-s-7heresdk18IndoorRoutingErrorO19couldNotMatchOriginyA2CmF" class="token"><code>couldNotMatchOrigin</code></a> 
 
   </div>
 
@@ -203,7 +203,7 @@ Specifies possible errors that may result from the calculation of a indoor route
 
 - <div>
 
-  ` `<span id="/s:7heresdk18IndoorRoutingErrorO24couldNotMatchDestinationyA2CmF"></span>` `<span id="//apple_ref/swift/Element/couldNotMatchDestination" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-indoorroutingerror#/s:7heresdk18IndoorRoutingErrorO24couldNotMatchDestinationyA2CmF" class="token"><code>couldNotMatchDestination</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18IndoorRoutingErrorO24couldNotMatchDestinationyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-couldNotMatchDestination" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-indoorroutingerror#sdk-for-ios-navigate-s-7heresdk18IndoorRoutingErrorO24couldNotMatchDestinationyA2CmF" class="token"><code>couldNotMatchDestination</code></a> 
 
   </div>
 
@@ -247,7 +247,7 @@ Specifies possible errors that may result from the calculation of a indoor route
 
 - <div>
 
-  ` `<span id="/s:7heresdk18IndoorRoutingErrorO11mapNotFoundyA2CmF"></span>` `<span id="//apple_ref/swift/Element/mapNotFound" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-indoorroutingerror#/s:7heresdk18IndoorRoutingErrorO11mapNotFoundyA2CmF" class="token"><code>mapNotFound</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18IndoorRoutingErrorO11mapNotFoundyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-mapNotFound" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-indoorroutingerror#sdk-for-ios-navigate-s-7heresdk18IndoorRoutingErrorO11mapNotFoundyA2CmF" class="token"><code>mapNotFound</code></a> 
 
   </div>
 
@@ -291,7 +291,7 @@ Specifies possible errors that may result from the calculation of a indoor route
 
 - <div>
 
-  ` `<span id="/s:7heresdk18IndoorRoutingErrorO07parsingD0yA2CmF"></span>` `<span id="//apple_ref/swift/Element/parsingError" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-indoorroutingerror#/s:7heresdk18IndoorRoutingErrorO07parsingD0yA2CmF" class="token"><code>parsingError</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18IndoorRoutingErrorO07parsingD0yA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-parsingError" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-indoorroutingerror#sdk-for-ios-navigate-s-7heresdk18IndoorRoutingErrorO07parsingD0yA2CmF" class="token"><code>parsingError</code></a> 
 
   </div>
 
@@ -335,7 +335,7 @@ Specifies possible errors that may result from the calculation of a indoor route
 
 - <div>
 
-  ` `<span id="/s:7heresdk18IndoorRoutingErrorO07unknownD0yA2CmF"></span>` `<span id="//apple_ref/swift/Element/unknownError" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-indoorroutingerror#/s:7heresdk18IndoorRoutingErrorO07unknownD0yA2CmF" class="token"><code>unknownError</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18IndoorRoutingErrorO07unknownD0yA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-unknownError" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-indoorroutingerror#sdk-for-ios-navigate-s-7heresdk18IndoorRoutingErrorO07unknownD0yA2CmF" class="token"><code>unknownError</code></a> 
 
   </div>
 
@@ -379,7 +379,7 @@ Specifies possible errors that may result from the calculation of a indoor route
 
 - <div>
 
-  ` `<span id="/s:7heresdk18IndoorRoutingErrorO10badRequestyA2CmF"></span>` `<span id="//apple_ref/swift/Element/badRequest" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-indoorroutingerror#/s:7heresdk18IndoorRoutingErrorO10badRequestyA2CmF" class="token"><code>badRequest</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18IndoorRoutingErrorO10badRequestyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-badRequest" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-indoorroutingerror#sdk-for-ios-navigate-s-7heresdk18IndoorRoutingErrorO10badRequestyA2CmF" class="token"><code>badRequest</code></a> 
 
   </div>
 
@@ -423,7 +423,7 @@ Specifies possible errors that may result from the calculation of a indoor route
 
 - <div>
 
-  ` `<span id="/s:7heresdk18IndoorRoutingErrorO18unauthorizedAccessyA2CmF"></span>` `<span id="//apple_ref/swift/Element/unauthorizedAccess" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-indoorroutingerror#/s:7heresdk18IndoorRoutingErrorO18unauthorizedAccessyA2CmF" class="token"><code>unauthorizedAccess</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18IndoorRoutingErrorO18unauthorizedAccessyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-unauthorizedAccess" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-indoorroutingerror#sdk-for-ios-navigate-s-7heresdk18IndoorRoutingErrorO18unauthorizedAccessyA2CmF" class="token"><code>unauthorizedAccess</code></a> 
 
   </div>
 
@@ -467,7 +467,7 @@ Specifies possible errors that may result from the calculation of a indoor route
 
 - <div>
 
-  ` `<span id="/s:7heresdk18IndoorRoutingErrorO9forbiddenyA2CmF"></span>` `<span id="//apple_ref/swift/Element/forbidden" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-indoorroutingerror#/s:7heresdk18IndoorRoutingErrorO9forbiddenyA2CmF" class="token"><code>forbidden</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18IndoorRoutingErrorO9forbiddenyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-forbidden" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-indoorroutingerror#sdk-for-ios-navigate-s-7heresdk18IndoorRoutingErrorO9forbiddenyA2CmF" class="token"><code>forbidden</code></a> 
 
   </div>
 
@@ -511,7 +511,7 @@ Specifies possible errors that may result from the calculation of a indoor route
 
 - <div>
 
-  ` `<span id="/s:7heresdk18IndoorRoutingErrorO8notFoundyA2CmF"></span>` `<span id="//apple_ref/swift/Element/notFound" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-indoorroutingerror#/s:7heresdk18IndoorRoutingErrorO8notFoundyA2CmF" class="token"><code>notFound</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18IndoorRoutingErrorO8notFoundyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-notFound" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-indoorroutingerror#sdk-for-ios-navigate-s-7heresdk18IndoorRoutingErrorO8notFoundyA2CmF" class="token"><code>notFound</code></a> 
 
   </div>
 
@@ -555,7 +555,7 @@ Specifies possible errors that may result from the calculation of a indoor route
 
 - <div>
 
-  ` `<span id="/s:7heresdk18IndoorRoutingErrorO15tooManyRequestsyA2CmF"></span>` `<span id="//apple_ref/swift/Element/tooManyRequests" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-indoorroutingerror#/s:7heresdk18IndoorRoutingErrorO15tooManyRequestsyA2CmF" class="token"><code>tooManyRequests</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18IndoorRoutingErrorO15tooManyRequestsyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-tooManyRequests" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-indoorroutingerror#sdk-for-ios-navigate-s-7heresdk18IndoorRoutingErrorO15tooManyRequestsyA2CmF" class="token"><code>tooManyRequests</code></a> 
 
   </div>
 
@@ -599,7 +599,7 @@ Specifies possible errors that may result from the calculation of a indoor route
 
 - <div>
 
-  ` `<span id="/s:7heresdk18IndoorRoutingErrorO014internalServerD0yA2CmF"></span>` `<span id="//apple_ref/swift/Element/internalServerError" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-indoorroutingerror#/s:7heresdk18IndoorRoutingErrorO014internalServerD0yA2CmF" class="token"><code>internalServerError</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18IndoorRoutingErrorO014internalServerD0yA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-internalServerError" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-indoorroutingerror#sdk-for-ios-navigate-s-7heresdk18IndoorRoutingErrorO014internalServerD0yA2CmF" class="token"><code>internalServerError</code></a> 
 
   </div>
 
@@ -643,7 +643,7 @@ Specifies possible errors that may result from the calculation of a indoor route
 
 - <div>
 
-  ` `<span id="/s:7heresdk18IndoorRoutingErrorO10badGatewayyA2CmF"></span>` `<span id="//apple_ref/swift/Element/badGateway" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-indoorroutingerror#/s:7heresdk18IndoorRoutingErrorO10badGatewayyA2CmF" class="token"><code>badGateway</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18IndoorRoutingErrorO10badGatewayyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-badGateway" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-indoorroutingerror#sdk-for-ios-navigate-s-7heresdk18IndoorRoutingErrorO10badGatewayyA2CmF" class="token"><code>badGateway</code></a> 
 
   </div>
 
@@ -687,7 +687,7 @@ Specifies possible errors that may result from the calculation of a indoor route
 
 - <div>
 
-  ` `<span id="/s:7heresdk18IndoorRoutingErrorO18serviceUnavailableyA2CmF"></span>` `<span id="//apple_ref/swift/Element/serviceUnavailable" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-indoorroutingerror#/s:7heresdk18IndoorRoutingErrorO18serviceUnavailableyA2CmF" class="token"><code>serviceUnavailable</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18IndoorRoutingErrorO18serviceUnavailableyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-serviceUnavailable" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-indoorroutingerror#sdk-for-ios-navigate-s-7heresdk18IndoorRoutingErrorO18serviceUnavailableyA2CmF" class="token"><code>serviceUnavailable</code></a> 
 
   </div>
 

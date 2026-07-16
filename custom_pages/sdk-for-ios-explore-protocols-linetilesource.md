@@ -15,6 +15,10 @@ public protocol LineTileSource : TileSource
 
 </div>
 
+Related types:
+
+- <a href="sdk-for-ios-explore-protocols-tilesource">TileSource</a>
+
 </div>
 
 A source of geodetic line tiles. Lines provided by an implementation must be clipped to the boundaries of the requested tile. The implementations must be thread-safe.
@@ -29,7 +33,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-  ` `<span id="/s:7heresdk14LineTileSourceP12tilingSchemeAA06TilingF0Ovp"></span>` `<span id="//apple_ref/swift/Property/tilingScheme" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-protocols-linetilesource#/s:7heresdk14LineTileSourceP12tilingSchemeAA06TilingF0Ovp" class="token"><code>tilingScheme</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14LineTileSourceP12tilingSchemeAA06TilingF0Ovp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-tilingScheme" class="dashAnchor"></span> <a href="sdk-for-ios-explore-protocols-linetilesource#sdk-for-ios-explore-s-7heresdk14LineTileSourceP12tilingSchemeAA06TilingF0Ovp" class="token"><code>tilingScheme</code></a> 
 
   </div>
 
@@ -65,6 +69,10 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-tilingscheme">TilingScheme</a>
+
   </div>
 
   </div>
@@ -73,7 +81,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-  ` `<span id="/s:7heresdk14LineTileSourceP13storageLevelsSays5Int32VGvp"></span>` `<span id="//apple_ref/swift/Property/storageLevels" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-protocols-linetilesource#/s:7heresdk14LineTileSourceP13storageLevelsSays5Int32VGvp" class="token"><code>storageLevels</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14LineTileSourceP13storageLevelsSays5Int32VGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-storageLevels" class="dashAnchor"></span> <a href="sdk-for-ios-explore-protocols-linetilesource#sdk-for-ios-explore-s-7heresdk14LineTileSourceP13storageLevelsSays5Int32VGvp" class="token"><code>storageLevels</code></a> 
 
   </div>
 
@@ -117,7 +125,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      getDataVersion(tileKey: )
+   <span id="sdk-for-ios-explore-s-7heresdk14LineTileSourceP14getDataVersion7tileKeyAA0cdfG0VAA0cI0V_tF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-getDataVersion-tileKey" class="dashAnchor"></span> <a href="sdk-for-ios-explore-protocols-linetilesource#sdk-for-ios-explore-s-7heresdk14LineTileSourceP14getDataVersion7tileKeyAA0cdfG0VAA0cI0V_tF" class="token"><code>getDataVersion(tileKey:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -148,12 +156,15 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  func getDataVersion ( tileKey : TileKey ) -> TileSourceDataVersion
+  func getDataVersion(tileKey: TileKey) -> TileSourceDataVersion
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-tilekey">TileKey</a>
+  - <a href="sdk-for-ios-explore-structs-tilesourcedataversion">TileSourceDataVersion</a>
 
   </div>
 
@@ -192,7 +203,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      addDelegate(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk14LineTileSourceP11addDelegateyyAA0cdF0_pF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-addDelegate-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-protocols-linetilesource#sdk-for-ios-explore-s-7heresdk14LineTileSourceP11addDelegateyyAA0cdF0_pF" class="token"><code>addDelegate(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -223,12 +234,14 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  func addDelegate ( _ delegate : TileSourceDelegate )
+  func addDelegate(_ delegate: TileSourceDelegate)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-protocols-tilesourcedelegate">TileSourceDelegate</a>
 
   </div>
 
@@ -259,7 +272,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      removeDelegate(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk14LineTileSourceP14removeDelegateyyAA0cdF0_pF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-removeDelegate-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-protocols-linetilesource#sdk-for-ios-explore-s-7heresdk14LineTileSourceP14removeDelegateyyAA0cdF0_pF" class="token"><code>removeDelegate(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -290,12 +303,14 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  func removeDelegate ( _ delegate : TileSourceDelegate )
+  func removeDelegate(_ delegate: TileSourceDelegate)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-protocols-tilesourcedelegate">TileSourceDelegate</a>
 
   </div>
 
@@ -326,7 +341,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      loadTile(tileKey: completionHandler: )
+   <span id="sdk-for-ios-explore-s-7heresdk14LineTileSourceP04loadC07tileKey17completionHandlerAA0cd4LoadC13RequestHandle_pSgAA0cG0V_AA0bcdj6ResultI0_ptF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-loadTile-tileKey-completionHandler" class="dashAnchor"></span> <a href="sdk-for-ios-explore-protocols-linetilesource#sdk-for-ios-explore-s-7heresdk14LineTileSourceP04loadC07tileKey17completionHandlerAA0cd4LoadC13RequestHandle_pSgAA0cG0V_AA0bcdj6ResultI0_ptF" class="token"><code>loadTile(tileKey:</code><wbr></wbr><code>completionHandler:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -357,12 +372,16 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  func loadTile ( tileKey : TileKey , completionHandler : LineTileSourceLoadResultHandler ) -> TileSourceLoadTileRequestHandle ?
+  func loadTile(tileKey: TileKey, completionHandler: LineTileSourceLoadResultHandler) -> TileSourceLoadTileRequestHandle?
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-tilekey">TileKey</a>
+  - <a href="sdk-for-ios-explore-protocols-linetilesourceloadresulthandler">LineTileSourceLoadResultHandler</a>
+  - <a href="sdk-for-ios-explore-protocols-tilesourceloadtilerequesthandle">TileSourceLoadTileRequestHandle</a>
 
   </div>
 

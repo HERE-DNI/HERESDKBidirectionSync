@@ -27,7 +27,7 @@ The protocol for delegates for the <a href="sdk-for-ios-explore-classes-venue">`
 
 - <div>
 
-      onSelectedVenueChanged(deselectedVenue: selectedVenue: )
+   <span id="sdk-for-ios-explore-s-7heresdk22VenueSelectionDelegateP010onSelectedB7Changed010deselectedB008selectedB0yAA0B0CSg_AItF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-onSelectedVenueChanged-deselectedVenue-selectedVenue" class="dashAnchor"></span> <a href="sdk-for-ios-explore-protocols-venueselectiondelegate#sdk-for-ios-explore-s-7heresdk22VenueSelectionDelegateP010onSelectedB7Changed010deselectedB008selectedB0yAA0B0CSg_AItF" class="token"><code>onSelectedVenueChanged(deselectedVenue:</code><wbr></wbr><code>selectedVenue:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -58,12 +58,14 @@ The protocol for delegates for the <a href="sdk-for-ios-explore-classes-venue">`
   Swift
 
   ``` highlight
-  func onSelectedVenueChanged ( deselectedVenue : Venue ?, selectedVenue : Venue ?)
+  func onSelectedVenueChanged(deselectedVenue: Venue?, selectedVenue: Venue?)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-venue">Venue</a>
 
   </div>
 

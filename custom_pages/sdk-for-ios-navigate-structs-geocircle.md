@@ -27,7 +27,7 @@ Represents a circle area in 2D space.
 
 - <div>
 
-  ` `<span id="/s:7heresdk9GeoCircleV6centerAA0B11CoordinatesVvp"></span>` `<span id="//apple_ref/swift/Property/center" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-geocircle#/s:7heresdk9GeoCircleV6centerAA0B11CoordinatesVvp" class="token"><code>center</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9GeoCircleV6centerAA0B11CoordinatesVvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-center" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-geocircle#sdk-for-ios-navigate-s-7heresdk9GeoCircleV6centerAA0B11CoordinatesVvp" class="token"><code>center</code></a> 
 
   </div>
 
@@ -63,6 +63,10 @@ Represents a circle area in 2D space.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-geocoordinates">GeoCoordinates</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ Represents a circle area in 2D space.
 
 - <div>
 
-  ` `<span id="/s:7heresdk9GeoCircleV14radiusInMetersSdvp"></span>` `<span id="//apple_ref/swift/Property/radiusInMeters" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-geocircle#/s:7heresdk9GeoCircleV14radiusInMetersSdvp" class="token"><code>radiusInMeters</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9GeoCircleV14radiusInMetersSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-radiusInMeters" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-geocircle#sdk-for-ios-navigate-s-7heresdk9GeoCircleV14radiusInMetersSdvp" class="token"><code>radiusInMeters</code></a> 
 
   </div>
 
@@ -115,7 +119,7 @@ Represents a circle area in 2D space.
 
 - <div>
 
-      init(center: radiusInMeters: )
+   <span id="sdk-for-ios-navigate-s-7heresdk9GeoCircleV6center14radiusInMetersAcA0B11CoordinatesV_Sdtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-center-radiusInMeters" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-geocircle#sdk-for-ios-navigate-s-7heresdk9GeoCircleV6center14radiusInMetersAcA0B11CoordinatesV_Sdtcfc" class="token"><code>init(center:</code><wbr></wbr><code>radiusInMeters:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -146,12 +150,14 @@ Represents a circle area in 2D space.
   Swift
 
   ``` highlight
-  public init ( center : GeoCoordinates , radiusInMeters : Double )
+  public init(center: GeoCoordinates, radiusInMeters: Double)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-geocoordinates">GeoCoordinates</a>
 
   </div>
 

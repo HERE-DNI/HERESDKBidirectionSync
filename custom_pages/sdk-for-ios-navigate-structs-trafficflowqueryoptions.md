@@ -27,7 +27,7 @@ The options to specify how traffic flow data should be queried.
 
 - <div>
 
-  ` `<span id="/s:7heresdk23TrafficFlowQueryOptionsV12minJamFactorSdSgvp"></span>` `<span id="//apple_ref/swift/Property/minJamFactor" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-trafficflowqueryoptions#/s:7heresdk23TrafficFlowQueryOptionsV12minJamFactorSdSgvp" class="token"><code>minJamFactor</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk23TrafficFlowQueryOptionsV12minJamFactorSdSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-minJamFactor" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-trafficflowqueryoptions#sdk-for-ios-navigate-s-7heresdk23TrafficFlowQueryOptionsV12minJamFactorSdSgvp" class="token"><code>minJamFactor</code></a> 
 
   </div>
 
@@ -45,7 +45,7 @@ The options to specify how traffic flow data should be queried.
 
   <div class="abstract">
 
-  Min jam factor value. The jam factor is a value for the amount of traffic on the roadway. The value is between 0.0 and 10.0 (inclusive). This will be used with <a href="sdk-for-ios-navigate-structs-trafficflowqueryoptions#/s:7heresdk23TrafficFlowQueryOptionsV12maxJamFactorSdSgvp">`TrafficFlowQueryOptions.maxJamFactor`</a> to filter queried flow. If the value is `nil`, then filtering by the min jam factor is not applied.
+  Min jam factor value. The jam factor is a value for the amount of traffic on the roadway. The value is between 0.0 and 10.0 (inclusive). This will be used with <a href="sdk-for-ios-navigate-structs-trafficflowqueryoptions#sdk-for-ios-navigate-s-7heresdk23TrafficFlowQueryOptionsV12maxJamFactorSdSgvp">`TrafficFlowQueryOptions.maxJamFactor`</a> to filter queried flow. If the value is `nil`, then filtering by the min jam factor is not applied.
 
   </div>
 
@@ -71,7 +71,7 @@ The options to specify how traffic flow data should be queried.
 
 - <div>
 
-  ` `<span id="/s:7heresdk23TrafficFlowQueryOptionsV12maxJamFactorSdSgvp"></span>` `<span id="//apple_ref/swift/Property/maxJamFactor" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-trafficflowqueryoptions#/s:7heresdk23TrafficFlowQueryOptionsV12maxJamFactorSdSgvp" class="token"><code>maxJamFactor</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk23TrafficFlowQueryOptionsV12maxJamFactorSdSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-maxJamFactor" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-trafficflowqueryoptions#sdk-for-ios-navigate-s-7heresdk23TrafficFlowQueryOptionsV12maxJamFactorSdSgvp" class="token"><code>maxJamFactor</code></a> 
 
   </div>
 
@@ -89,7 +89,7 @@ The options to specify how traffic flow data should be queried.
 
   <div class="abstract">
 
-  Max jam factor value. The jam factor is a value for the amount of traffic on the roadway. The value is between 0.0 and 10.0 (inclusive). This will be used with <a href="sdk-for-ios-navigate-structs-trafficflowqueryoptions#/s:7heresdk23TrafficFlowQueryOptionsV12minJamFactorSdSgvp">`TrafficFlowQueryOptions.minJamFactor`</a> to filter queried flow. If the value is null filtering by the max jam factor is not applied.
+  Max jam factor value. The jam factor is a value for the amount of traffic on the roadway. The value is between 0.0 and 10.0 (inclusive). This will be used with <a href="sdk-for-ios-navigate-structs-trafficflowqueryoptions#sdk-for-ios-navigate-s-7heresdk23TrafficFlowQueryOptionsV12minJamFactorSdSgvp">`TrafficFlowQueryOptions.minJamFactor`</a> to filter queried flow. If the value is null filtering by the max jam factor is not applied.
 
   </div>
 
@@ -115,7 +115,7 @@ The options to specify how traffic flow data should be queried.
 
 - <div>
 
-      init(minJamFactor: maxJamFactor: )
+   <span id="sdk-for-ios-navigate-s-7heresdk23TrafficFlowQueryOptionsV12minJamFactor03maxgH0ACSdSg_AFtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-minJamFactor-maxJamFactor" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-trafficflowqueryoptions#sdk-for-ios-navigate-s-7heresdk23TrafficFlowQueryOptionsV12minJamFactor03maxgH0ACSdSg_AFtcfc" class="token"><code>init(minJamFactor:</code><wbr></wbr><code>maxJamFactor:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -148,10 +148,8 @@ The options to specify how traffic flow data should be queried.
   Swift
 
   ``` highlight
-  public init ( minJamFactor : Double ? = nil , maxJamFactor : Double ? = nil )
+  public init(minJamFactor: Double? = nil, maxJamFactor: Double? = nil)
   ```
-
-  </pre>
 
   </div>
 

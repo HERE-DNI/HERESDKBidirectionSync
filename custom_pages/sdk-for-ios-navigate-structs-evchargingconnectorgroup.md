@@ -27,7 +27,7 @@ Represents the connector group at the charging location. **Note:** This is a bet
 
 - <div>
 
-  ` `<span id="/s:7heresdk24EVChargingConnectorGroupV13connectorTypeSSvp"></span>` `<span id="//apple_ref/swift/Property/connectorType" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evchargingconnectorgroup#/s:7heresdk24EVChargingConnectorGroupV13connectorTypeSSvp" class="token"><code>connectorType</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk24EVChargingConnectorGroupV13connectorTypeSSvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-connectorType" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingconnectorgroup#sdk-for-ios-navigate-s-7heresdk24EVChargingConnectorGroupV13connectorTypeSSvp" class="token"><code>connectorType</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Represents the connector group at the charging location. **Note:** This is a bet
 
 - <div>
 
-  ` `<span id="/s:7heresdk24EVChargingConnectorGroupV15maxPowerInWattss5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/maxPowerInWatts" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evchargingconnectorgroup#/s:7heresdk24EVChargingConnectorGroupV15maxPowerInWattss5Int32Vvp" class="token"><code>maxPowerInWatts</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk24EVChargingConnectorGroupV15maxPowerInWattss5Int32Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-maxPowerInWatts" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingconnectorgroup#sdk-for-ios-navigate-s-7heresdk24EVChargingConnectorGroupV15maxPowerInWattss5Int32Vvp" class="token"><code>maxPowerInWatts</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Represents the connector group at the charging location. **Note:** This is a bet
 
 - <div>
 
-  ` `<span id="/s:7heresdk24EVChargingConnectorGroupV10connectorsSayAA0bC9ReferenceVGvp"></span>` `<span id="//apple_ref/swift/Property/connectors" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evchargingconnectorgroup#/s:7heresdk24EVChargingConnectorGroupV10connectorsSayAA0bC9ReferenceVGvp" class="token"><code>connectors</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk24EVChargingConnectorGroupV10connectorsSayAA0bC9ReferenceVGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-connectors" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingconnectorgroup#sdk-for-ios-navigate-s-7heresdk24EVChargingConnectorGroupV10connectorsSayAA0bC9ReferenceVGvp" class="token"><code>connectors</code></a> 
 
   </div>
 
@@ -151,6 +151,10 @@ Represents the connector group at the charging location. **Note:** This is a bet
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-evchargingconnectorreference">EVChargingConnectorReference</a>
+
   </div>
 
   </div>
@@ -159,7 +163,7 @@ Represents the connector group at the charging location. **Note:** This is a bet
 
 - <div>
 
-  ` `<span id="/s:7heresdk24EVChargingConnectorGroupV14connectorCounts5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/connectorCount" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evchargingconnectorgroup#/s:7heresdk24EVChargingConnectorGroupV14connectorCounts5Int32Vvp" class="token"><code>connectorCount</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk24EVChargingConnectorGroupV14connectorCounts5Int32Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-connectorCount" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingconnectorgroup#sdk-for-ios-navigate-s-7heresdk24EVChargingConnectorGroupV14connectorCounts5Int32Vvp" class="token"><code>connectorCount</code></a> 
 
   </div>
 
@@ -203,7 +207,7 @@ Represents the connector group at the charging location. **Note:** This is a bet
 
 - <div>
 
-  ` `<span id="/s:7heresdk24EVChargingConnectorGroupV09availableC5Counts5Int32VSgvp"></span>` `<span id="//apple_ref/swift/Property/availableConnectorCount" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evchargingconnectorgroup#/s:7heresdk24EVChargingConnectorGroupV09availableC5Counts5Int32VSgvp" class="token"><code>availableConnectorCount</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk24EVChargingConnectorGroupV09availableC5Counts5Int32VSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-availableConnectorCount" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingconnectorgroup#sdk-for-ios-navigate-s-7heresdk24EVChargingConnectorGroupV09availableC5Counts5Int32VSgvp" class="token"><code>availableConnectorCount</code></a> 
 
   </div>
 
@@ -247,7 +251,7 @@ Represents the connector group at the charging location. **Note:** This is a bet
 
 - <div>
 
-  ` `<span id="/s:7heresdk24EVChargingConnectorGroupV13tariffIndexesSays5Int32VGvp"></span>` `<span id="//apple_ref/swift/Property/tariffIndexes" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evchargingconnectorgroup#/s:7heresdk24EVChargingConnectorGroupV13tariffIndexesSays5Int32VGvp" class="token"><code>tariffIndexes</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk24EVChargingConnectorGroupV13tariffIndexesSays5Int32VGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-tariffIndexes" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingconnectorgroup#sdk-for-ios-navigate-s-7heresdk24EVChargingConnectorGroupV13tariffIndexesSays5Int32VGvp" class="token"><code>tariffIndexes</code></a> 
 
   </div>
 
@@ -291,7 +295,7 @@ Represents the connector group at the charging location. **Note:** This is a bet
 
 - <div>
 
-      init(connectorType: maxPowerInWatts: connectors: connectorCount: availableConnectorCount: tariffIndexes: )
+   <span id="sdk-for-ios-navigate-s-7heresdk24EVChargingConnectorGroupV13connectorType15maxPowerInWatts10connectors0E5Count09availablecL013tariffIndexesACSS_s5Int32VSayAA0bC9ReferenceVGA2KSgSayAKGtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-connectorType-maxPowerInWatts-connectors-connectorCount-availableConnectorCount-tariffIndexes" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingconnectorgroup#sdk-for-ios-navigate-s-7heresdk24EVChargingConnectorGroupV13connectorType15maxPowerInWatts10connectors0E5Count09availablecL013tariffIndexesACSS_s5Int32VSayAA0bC9ReferenceVGA2KSgSayAKGtcfc" class="token"><code>init(connectorType:</code><wbr></wbr><code>maxPowerInWatts:</code><wbr></wbr><code>connectors:</code><wbr></wbr><code>connectorCount:</code><wbr></wbr><code>availableConnectorCount:</code><wbr></wbr><code>tariffIndexes:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -322,12 +326,14 @@ Represents the connector group at the charging location. **Note:** This is a bet
   Swift
 
   ``` highlight
-  public init ( connectorType : String = "" , maxPowerInWatts : Int32 = 1 , connectors : [ EVChargingConnectorReference ] = [], connectorCount : Int32 = 1 , availableConnectorCount : Int32 ? = nil , tariffIndexes : [ Int32 ] = [])
+  public init(connectorType: String = "", maxPowerInWatts: Int32 = 1, connectors: [EVChargingConnectorReference] = [], connectorCount: Int32 = 1, availableConnectorCount: Int32? = nil, tariffIndexes: [Int32] = [])
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-evchargingconnectorreference">EVChargingConnectorReference</a>
 
   </div>
 

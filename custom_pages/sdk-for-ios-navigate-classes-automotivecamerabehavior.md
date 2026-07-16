@@ -23,6 +23,10 @@ extension AutomotiveCameraBehavior: Hashable
 
 </div>
 
+Related types:
+
+- <a href="sdk-for-ios-navigate-protocols-camerabehavior">CameraBehavior</a>
+
 </div>
 
 Provides a high-level camera controller for automotive navigation that manages both tracking and area camera behaviors. This class acts as a facade, delegating camera operations to either a <a href="sdk-for-ios-navigate-classes-trackingcamerabehavior">`TrackingCameraBehavior`</a> for following the vehicle during navigation or an <a href="sdk-for-ios-navigate-classes-areacamerabehavior">`AreaCameraBehavior`</a> for showing overview areas such as points of interest or route previews.
@@ -41,7 +45,7 @@ Note: This is a **beta** release of this feature, so there could be a few bugs a
 
 - <div>
 
-      init()
+   <span id="sdk-for-ios-navigate-s-7heresdk24AutomotiveCameraBehaviorCACycfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-automotivecamerabehavior#sdk-for-ios-navigate-s-7heresdk24AutomotiveCameraBehaviorCACycfc" class="token"><code>init()</code></a> 
 
   </div>
 
@@ -72,10 +76,8 @@ Note: This is a **beta** release of this feature, so there could be a few bugs a
   Swift
 
   ``` highlight
-  public init ()
+  public init()
   ```
-
-  </pre>
 
   </div>
 
@@ -87,7 +89,7 @@ Note: This is a **beta** release of this feature, so there could be a few bugs a
 
 - <div>
 
-      init(configJson: )
+   <span id="sdk-for-ios-navigate-s-7heresdk24AutomotiveCameraBehaviorC10configJsonACSS_tKcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-configJson" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-automotivecamerabehavior#sdk-for-ios-navigate-s-7heresdk24AutomotiveCameraBehaviorC10configJsonACSS_tKcfc" class="token"><code>init(configJson:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -111,7 +113,7 @@ Note: This is a **beta** release of this feature, so there could be a few bugs a
 
   Throws
 
-  <a href="sdk-for-ios-navigate-core#/s:7heresdk18InstantiationErrora">`InstantiationError`</a> <a href="sdk-for-ios-navigate-core#/s:7heresdk18InstantiationErrora">`InstantiationError`</a> when the JSON is malformed or contains invalid values.
+  <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk18InstantiationErrora">`InstantiationError`</a> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk18InstantiationErrora">`InstantiationError`</a> when the JSON is malformed or contains invalid values.
 
   </div>
 
@@ -126,10 +128,8 @@ Note: This is a **beta** release of this feature, so there could be a few bugs a
   Swift
 
   ``` highlight
-  public init ( configJson : String ) throws
+  public init(configJson: String) throws
   ```
-
-  </pre>
 
   </div>
 
@@ -162,7 +162,7 @@ Note: This is a **beta** release of this feature, so there could be a few bugs a
 
 - <div>
 
-  ` `<span id="/s:7heresdk24AutomotiveCameraBehaviorC24normalizedPrincipalPointAA8Anchor2DVvp"></span>` `<span id="//apple_ref/swift/Property/normalizedPrincipalPoint" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-automotivecamerabehavior#/s:7heresdk24AutomotiveCameraBehaviorC24normalizedPrincipalPointAA8Anchor2DVvp" class="token"><code>normalizedPrincipalPoint</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk24AutomotiveCameraBehaviorC24normalizedPrincipalPointAA8Anchor2DVvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-normalizedPrincipalPoint" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-automotivecamerabehavior#sdk-for-ios-navigate-s-7heresdk24AutomotiveCameraBehaviorC24normalizedPrincipalPointAA8Anchor2DVvp" class="token"><code>normalizedPrincipalPoint</code></a> 
 
   </div>
 
@@ -198,6 +198,10 @@ Note: This is a **beta** release of this feature, so there could be a few bugs a
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-anchor2d">Anchor2D</a>
+
   </div>
 
   </div>
@@ -206,7 +210,7 @@ Note: This is a **beta** release of this feature, so there could be a few bugs a
 
 - <div>
 
-  ` `<span id="/s:7heresdk24AutomotiveCameraBehaviorC26isManeuverDetectionEnabledSbvp"></span>` `<span id="//apple_ref/swift/Property/isManeuverDetectionEnabled" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-automotivecamerabehavior#/s:7heresdk24AutomotiveCameraBehaviorC26isManeuverDetectionEnabledSbvp" class="token"><code>isManeuverDetectionEnabled</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk24AutomotiveCameraBehaviorC26isManeuverDetectionEnabledSbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-isManeuverDetectionEnabled" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-automotivecamerabehavior#sdk-for-ios-navigate-s-7heresdk24AutomotiveCameraBehaviorC26isManeuverDetectionEnabledSbvp" class="token"><code>isManeuverDetectionEnabled</code></a> 
 
   </div>
 
@@ -252,7 +256,7 @@ Note: This is a **beta** release of this feature, so there could be a few bugs a
 
 - <div>
 
-  ` `<span id="/s:7heresdk24AutomotiveCameraBehaviorC13viewRectangleAA11Rectangle2DVSgvp"></span>` `<span id="//apple_ref/swift/Property/viewRectangle" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-automotivecamerabehavior#/s:7heresdk24AutomotiveCameraBehaviorC13viewRectangleAA11Rectangle2DVSgvp" class="token"><code>viewRectangle</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk24AutomotiveCameraBehaviorC13viewRectangleAA11Rectangle2DVSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-viewRectangle" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-automotivecamerabehavior#sdk-for-ios-navigate-s-7heresdk24AutomotiveCameraBehaviorC13viewRectangleAA11Rectangle2DVSgvp" class="token"><code>viewRectangle</code></a> 
 
   </div>
 
@@ -288,6 +292,10 @@ Note: This is a **beta** release of this feature, so there could be a few bugs a
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-rectangle2d">Rectangle2D</a>
+
   </div>
 
   </div>
@@ -296,7 +304,7 @@ Note: This is a **beta** release of this feature, so there could be a few bugs a
 
 - <div>
 
-  ` `<span id="/s:7heresdk24AutomotiveCameraBehaviorC06activeC4TypeAC06ActivecF0Ovp"></span>` `<span id="//apple_ref/swift/Property/activeCameraType" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-automotivecamerabehavior#/s:7heresdk24AutomotiveCameraBehaviorC06activeC4TypeAC06ActivecF0Ovp" class="token"><code>activeCameraType</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk24AutomotiveCameraBehaviorC06activeC4TypeAC06ActivecF0Ovp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-activeCameraType" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-automotivecamerabehavior#sdk-for-ios-navigate-s-7heresdk24AutomotiveCameraBehaviorC06activeC4TypeAC06ActivecF0Ovp" class="token"><code>activeCameraType</code></a> 
 
   </div>
 
@@ -314,7 +322,7 @@ Note: This is a **beta** release of this feature, so there could be a few bugs a
 
   <div class="abstract">
 
-  The active camera type. Defines which camera behavior is currently active: <a href="sdk-for-ios-navigate-classes-automotivecamerabehavior-activecameratype#/s:7heresdk24AutomotiveCameraBehaviorC06ActiveC4TypeO4noneyA2EmF">`AutomotiveCameraBehavior.ActiveCameraType.none`</a> (free navigation), <a href="sdk-for-ios-navigate-classes-automotivecamerabehavior-activecameratype#/s:7heresdk24AutomotiveCameraBehaviorC06ActiveC4TypeO8trackingyA2EmF">`AutomotiveCameraBehavior.ActiveCameraType.tracking`</a>, or <a href="sdk-for-ios-navigate-classes-automotivecamerabehavior-activecameratype#/s:7heresdk24AutomotiveCameraBehaviorC06ActiveC4TypeO4areayA2EmF">`AutomotiveCameraBehavior.ActiveCameraType.area`</a>.
+  The active camera type. Defines which camera behavior is currently active: <a href="sdk-for-ios-navigate-classes-automotivecamerabehavior-activecameratype#sdk-for-ios-navigate-s-7heresdk24AutomotiveCameraBehaviorC06ActiveC4TypeO4noneyA2EmF">`AutomotiveCameraBehavior.ActiveCameraType.none`</a> (free navigation), <a href="sdk-for-ios-navigate-classes-automotivecamerabehavior-activecameratype#sdk-for-ios-navigate-s-7heresdk24AutomotiveCameraBehaviorC06ActiveC4TypeO8trackingyA2EmF">`AutomotiveCameraBehavior.ActiveCameraType.tracking`</a>, or <a href="sdk-for-ios-navigate-classes-automotivecamerabehavior-activecameratype#sdk-for-ios-navigate-s-7heresdk24AutomotiveCameraBehaviorC06ActiveC4TypeO4areayA2EmF">`AutomotiveCameraBehavior.ActiveCameraType.area`</a>.
 
   </div>
 
@@ -332,6 +340,10 @@ Note: This is a **beta** release of this feature, so there could be a few bugs a
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-automotivecamerabehavior-activecameratype">ActiveCameraType</a>
+
   </div>
 
   </div>
@@ -340,7 +352,7 @@ Note: This is a **beta** release of this feature, so there could be a few bugs a
 
 - <div>
 
-  ` `<span id="/s:7heresdk24AutomotiveCameraBehaviorC15orientationModeAC011OrientationF0Ovp"></span>` `<span id="//apple_ref/swift/Property/orientationMode" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-automotivecamerabehavior#/s:7heresdk24AutomotiveCameraBehaviorC15orientationModeAC011OrientationF0Ovp" class="token"><code>orientationMode</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk24AutomotiveCameraBehaviorC15orientationModeAC011OrientationF0Ovp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-orientationMode" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-automotivecamerabehavior#sdk-for-ios-navigate-s-7heresdk24AutomotiveCameraBehaviorC15orientationModeAC011OrientationF0Ovp" class="token"><code>orientationMode</code></a> 
 
   </div>
 
@@ -358,7 +370,7 @@ Note: This is a **beta** release of this feature, so there could be a few bugs a
 
   <div class="abstract">
 
-  The current orientation mode of the camera. Defines the camera’s viewing angle and orientation for tracking mode. In <a href="sdk-for-ios-navigate-classes-automotivecamerabehavior-orientationmode#/s:7heresdk24AutomotiveCameraBehaviorC15OrientationModeO6mode2dyA2EmF">`AutomotiveCameraBehavior.OrientationMode.mode2d`</a>, the camera looks straight down and rotates with the vehicle heading. In <a href="sdk-for-ios-navigate-classes-automotivecamerabehavior-orientationmode#/s:7heresdk24AutomotiveCameraBehaviorC15OrientationModeO6mode3dyA2EmF">`AutomotiveCameraBehavior.OrientationMode.mode3d`</a>, the camera is tilted for a perspective view. In <a href="sdk-for-ios-navigate-classes-automotivecamerabehavior-orientationmode#/s:7heresdk24AutomotiveCameraBehaviorC15OrientationModeO11modeNorthUpyA2EmF">`AutomotiveCameraBehavior.OrientationMode.modeNorthUp`</a>, the camera maintains north-up orientation regardless of vehicle heading.
+  The current orientation mode of the camera. Defines the camera’s viewing angle and orientation for tracking mode. In <a href="sdk-for-ios-navigate-classes-automotivecamerabehavior-orientationmode#sdk-for-ios-navigate-s-7heresdk24AutomotiveCameraBehaviorC15OrientationModeO6mode2dyA2EmF">`AutomotiveCameraBehavior.OrientationMode.mode2d`</a>, the camera looks straight down and rotates with the vehicle heading. In <a href="sdk-for-ios-navigate-classes-automotivecamerabehavior-orientationmode#sdk-for-ios-navigate-s-7heresdk24AutomotiveCameraBehaviorC15OrientationModeO6mode3dyA2EmF">`AutomotiveCameraBehavior.OrientationMode.mode3d`</a>, the camera is tilted for a perspective view. In <a href="sdk-for-ios-navigate-classes-automotivecamerabehavior-orientationmode#sdk-for-ios-navigate-s-7heresdk24AutomotiveCameraBehaviorC15OrientationModeO11modeNorthUpyA2EmF">`AutomotiveCameraBehavior.OrientationMode.modeNorthUp`</a>, the camera maintains north-up orientation regardless of vehicle heading.
 
   Changes to this property take effect immediately on the tracking camera and are preserved when switching between tracking and area modes.
 
@@ -378,6 +390,10 @@ Note: This is a **beta** release of this feature, so there could be a few bugs a
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-automotivecamerabehavior-orientationmode">OrientationMode</a>
+
   </div>
 
   </div>
@@ -386,7 +402,7 @@ Note: This is a **beta** release of this feature, so there could be a few bugs a
 
 - <div>
 
-  ` `<span id="/s:7heresdk24AutomotiveCameraBehaviorC15OrientationModeO"></span>` `<span id="//apple_ref/swift/Enum/OrientationMode" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-automotivecamerabehavior#/s:7heresdk24AutomotiveCameraBehaviorC15OrientationModeO" class="token"><code>OrientationMode</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk24AutomotiveCameraBehaviorC15OrientationModeO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-OrientationMode" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-automotivecamerabehavior#sdk-for-ios-navigate-s-7heresdk24AutomotiveCameraBehaviorC15OrientationModeO" class="token"><code>OrientationMode</code></a> 
 
   </div>
 
@@ -432,7 +448,7 @@ Note: This is a **beta** release of this feature, so there could be a few bugs a
 
 - <div>
 
-  ` `<span id="/s:7heresdk24AutomotiveCameraBehaviorC06ActiveC4TypeO"></span>` `<span id="//apple_ref/swift/Enum/ActiveCameraType" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-automotivecamerabehavior#/s:7heresdk24AutomotiveCameraBehaviorC06ActiveC4TypeO" class="token"><code>ActiveCameraType</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk24AutomotiveCameraBehaviorC06ActiveC4TypeO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-ActiveCameraType" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-automotivecamerabehavior#sdk-for-ios-navigate-s-7heresdk24AutomotiveCameraBehaviorC06ActiveC4TypeO" class="token"><code>ActiveCameraType</code></a> 
 
   </div>
 
@@ -478,7 +494,7 @@ Note: This is a **beta** release of this feature, so there could be a few bugs a
 
 - <div>
 
-      setAreaCameraBehaviorVisiblePoints(points: includeCurrentPosition: )
+   <span id="sdk-for-ios-navigate-s-7heresdk24AutomotiveCameraBehaviorC07setAreacD13VisiblePoints6points22includeCurrentPositionySayAA14GeoCoordinatesVG_SbtF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-setAreaCameraBehaviorVisiblePoints-points-includeCurrentPosition" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-automotivecamerabehavior#sdk-for-ios-navigate-s-7heresdk24AutomotiveCameraBehaviorC07setAreacD13VisiblePoints6points22includeCurrentPositionySayAA14GeoCoordinatesVG_SbtF" class="token"><code>setAreaCameraBehaviorVisiblePoints(points:</code><wbr></wbr><code>includeCurrentPosition:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -498,14 +514,9 @@ Note: This is a **beta** release of this feature, so there could be a few bugs a
 
   Configures the Area camera to frame the specified points. The camera calculates the optimal zoom level and center position to display all provided coordinates within the viewport. Use this for showing a single point of interest or multiple points such as safety cameras.
 
-  This function does not change <a href="sdk-for-ios-navigate-classes-automotivecamerabehavior#/s:7heresdk24AutomotiveCameraBehaviorC06activeC4TypeAC06ActivecF0Ovp">`AutomotiveCameraBehavior.activeCameraType`</a>. To display the configured area view, set <a href="sdk-for-ios-navigate-classes-automotivecamerabehavior#/s:7heresdk24AutomotiveCameraBehaviorC06activeC4TypeAC06ActivecF0Ovp">`AutomotiveCameraBehavior.activeCameraType`</a> to <a href="sdk-for-ios-navigate-classes-automotivecamerabehavior-activecameratype#/s:7heresdk24AutomotiveCameraBehaviorC06ActiveC4TypeO4areayA2EmF">`AutomotiveCameraBehavior.ActiveCameraType.area`</a>.
+  This function does not change <a href="sdk-for-ios-navigate-classes-automotivecamerabehavior#sdk-for-ios-navigate-s-7heresdk24AutomotiveCameraBehaviorC06activeC4TypeAC06ActivecF0Ovp">`AutomotiveCameraBehavior.activeCameraType`</a>. To display the configured area view, set <a href="sdk-for-ios-navigate-classes-automotivecamerabehavior#sdk-for-ios-navigate-s-7heresdk24AutomotiveCameraBehaviorC06activeC4TypeAC06ActivecF0Ovp">`AutomotiveCameraBehavior.activeCameraType`</a> to <a href="sdk-for-ios-navigate-classes-automotivecamerabehavior-activecameratype#sdk-for-ios-navigate-s-7heresdk24AutomotiveCameraBehaviorC06ActiveC4TypeO4areayA2EmF">`AutomotiveCameraBehavior.ActiveCameraType.area`</a>.
 
-  Calling this function overrides any previously set geographic bounding box configured via
-
-      AutomotiveCameraBehavior.setAreaCameraBehaviorGeobox(...)
-
-  .
-  </p>
+  Calling this function overrides any previously set geographic bounding box configured via <a href="sdk-for-ios-navigate-classes-automotivecamerabehavior#sdk-for-ios-navigate-s-7heresdk24AutomotiveCameraBehaviorC07setAreacD6Geobox6geoboxyAA6GeoBoxV_tF">`AutomotiveCameraBehavior.setAreaCameraBehaviorGeobox(...)`</a>.
 
   </div>
 
@@ -518,12 +529,14 @@ Note: This is a **beta** release of this feature, so there could be a few bugs a
   Swift
 
   ``` highlight
-  public func setAreaCameraBehaviorVisiblePoints ( points : [ GeoCoordinates ], includeCurrentPosition : Bool )
+  public func setAreaCameraBehaviorVisiblePoints(points: [GeoCoordinates], includeCurrentPosition: Bool)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-geocoordinates">GeoCoordinates</a>
 
   </div>
 
@@ -560,7 +573,7 @@ Note: This is a **beta** release of this feature, so there could be a few bugs a
 
 - <div>
 
-      setAreaCameraBehaviorGeobox(geobox: )
+   <span id="sdk-for-ios-navigate-s-7heresdk24AutomotiveCameraBehaviorC07setAreacD6Geobox6geoboxyAA6GeoBoxV_tF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-setAreaCameraBehaviorGeobox-geobox" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-automotivecamerabehavior#sdk-for-ios-navigate-s-7heresdk24AutomotiveCameraBehaviorC07setAreacD6Geobox6geoboxyAA6GeoBoxV_tF" class="token"><code>setAreaCameraBehaviorGeobox(geobox:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -580,14 +593,9 @@ Note: This is a **beta** release of this feature, so there could be a few bugs a
 
   Configures the Area camera to frame the specified geographic bounding box. The camera automatically calculates the appropriate zoom level and center position to ensure the entire area is visible within the viewport.
 
-  This function does not change <a href="sdk-for-ios-navigate-classes-automotivecamerabehavior#/s:7heresdk24AutomotiveCameraBehaviorC06activeC4TypeAC06ActivecF0Ovp">`AutomotiveCameraBehavior.activeCameraType`</a>. To display the configured area view, set <a href="sdk-for-ios-navigate-classes-automotivecamerabehavior#/s:7heresdk24AutomotiveCameraBehaviorC06activeC4TypeAC06ActivecF0Ovp">`AutomotiveCameraBehavior.activeCameraType`</a> to <a href="sdk-for-ios-navigate-classes-automotivecamerabehavior-activecameratype#/s:7heresdk24AutomotiveCameraBehaviorC06ActiveC4TypeO4areayA2EmF">`AutomotiveCameraBehavior.ActiveCameraType.area`</a>.
+  This function does not change <a href="sdk-for-ios-navigate-classes-automotivecamerabehavior#sdk-for-ios-navigate-s-7heresdk24AutomotiveCameraBehaviorC06activeC4TypeAC06ActivecF0Ovp">`AutomotiveCameraBehavior.activeCameraType`</a>. To display the configured area view, set <a href="sdk-for-ios-navigate-classes-automotivecamerabehavior#sdk-for-ios-navigate-s-7heresdk24AutomotiveCameraBehaviorC06activeC4TypeAC06ActivecF0Ovp">`AutomotiveCameraBehavior.activeCameraType`</a> to <a href="sdk-for-ios-navigate-classes-automotivecamerabehavior-activecameratype#sdk-for-ios-navigate-s-7heresdk24AutomotiveCameraBehaviorC06ActiveC4TypeO4areayA2EmF">`AutomotiveCameraBehavior.ActiveCameraType.area`</a>.
 
-  Calling this function overrides any previously set visible points configured via
-
-      AutomotiveCameraBehavior.setAreaCameraBehaviorVisiblePoints(...)
-
-  .
-  </p>
+  Calling this function overrides any previously set visible points configured via <a href="sdk-for-ios-navigate-classes-automotivecamerabehavior#sdk-for-ios-navigate-s-7heresdk24AutomotiveCameraBehaviorC07setAreacD13VisiblePoints6points22includeCurrentPositionySayAA14GeoCoordinatesVG_SbtF">`AutomotiveCameraBehavior.setAreaCameraBehaviorVisiblePoints(...)`</a>.
 
   </div>
 
@@ -600,12 +608,14 @@ Note: This is a **beta** release of this feature, so there could be a few bugs a
   Swift
 
   ``` highlight
-  public func setAreaCameraBehaviorGeobox ( geobox : GeoBox )
+  public func setAreaCameraBehaviorGeobox(geobox: GeoBox)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-geobox">GeoBox</a>
 
   </div>
 

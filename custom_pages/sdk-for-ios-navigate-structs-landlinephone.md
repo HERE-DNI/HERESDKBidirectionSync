@@ -27,7 +27,7 @@ Represents data related to specific landline phone number.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13LandlinePhoneV11phoneNumberSSvp"></span>` `<span id="//apple_ref/swift/Property/phoneNumber" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-landlinephone#/s:7heresdk13LandlinePhoneV11phoneNumberSSvp" class="token"><code>phoneNumber</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13LandlinePhoneV11phoneNumberSSvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-phoneNumber" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-landlinephone#sdk-for-ios-navigate-s-7heresdk13LandlinePhoneV11phoneNumberSSvp" class="token"><code>phoneNumber</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Represents data related to specific landline phone number.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13LandlinePhoneV10categoriesSayAA13PlaceCategoryCGvp"></span>` `<span id="//apple_ref/swift/Property/categories" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-landlinephone#/s:7heresdk13LandlinePhoneV10categoriesSayAA13PlaceCategoryCGvp" class="token"><code>categories</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13LandlinePhoneV10categoriesSayAA13PlaceCategoryCGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-categories" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-landlinephone#sdk-for-ios-navigate-s-7heresdk13LandlinePhoneV10categoriesSayAA13PlaceCategoryCGvp" class="token"><code>categories</code></a> 
 
   </div>
 
@@ -89,7 +89,7 @@ Represents data related to specific landline phone number.
 
   <div class="abstract">
 
-  Categories associated with phone number. Note: In case `LandlinePhone.categories` are not empty, then <a href="sdk-for-ios-navigate-structs-landlinephone#/s:7heresdk13LandlinePhoneV11phoneNumberSSvp">`LandlinePhone.phoneNumber`</a> should be used according to given categories. Otherwise, <a href="sdk-for-ios-navigate-structs-landlinephone#/s:7heresdk13LandlinePhoneV11phoneNumberSSvp">`LandlinePhone.phoneNumber`</a> is meant for general use.
+  Categories associated with phone number. Note: In case `LandlinePhone.categories` are not empty, then <a href="sdk-for-ios-navigate-structs-landlinephone#sdk-for-ios-navigate-s-7heresdk13LandlinePhoneV11phoneNumberSSvp">`LandlinePhone.phoneNumber`</a> should be used according to given categories. Otherwise, <a href="sdk-for-ios-navigate-structs-landlinephone#sdk-for-ios-navigate-s-7heresdk13LandlinePhoneV11phoneNumberSSvp">`LandlinePhone.phoneNumber`</a> is meant for general use.
 
   </div>
 
@@ -107,6 +107,10 @@ Represents data related to specific landline phone number.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-placecategory">PlaceCategory</a>
+
   </div>
 
   </div>
@@ -115,7 +119,7 @@ Represents data related to specific landline phone number.
 
 - <div>
 
-      init()
+   <span id="sdk-for-ios-navigate-s-7heresdk13LandlinePhoneVACycfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-landlinephone#sdk-for-ios-navigate-s-7heresdk13LandlinePhoneVACycfc" class="token"><code>init()</code></a> 
 
   </div>
 
@@ -146,10 +150,8 @@ Represents data related to specific landline phone number.
   Swift
 
   ``` highlight
-  public init ()
+  public init()
   ```
-
-  </pre>
 
   </div>
 
@@ -161,7 +163,7 @@ Represents data related to specific landline phone number.
 
 - <div>
 
-      init(phoneNumber: categories: )
+   <span id="sdk-for-ios-navigate-s-7heresdk13LandlinePhoneV11phoneNumber10categoriesACSS_SayAA13PlaceCategoryCGtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-phoneNumber-categories" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-landlinephone#sdk-for-ios-navigate-s-7heresdk13LandlinePhoneV11phoneNumber10categoriesACSS_SayAA13PlaceCategoryCGtcfc" class="token"><code>init(phoneNumber:</code><wbr></wbr><code>categories:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -192,12 +194,14 @@ Represents data related to specific landline phone number.
   Swift
 
   ``` highlight
-  public init ( phoneNumber : String , categories : [ PlaceCategory ])
+  public init(phoneNumber: String, categories: [PlaceCategory])
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-placecategory">PlaceCategory</a>
 
   </div>
 

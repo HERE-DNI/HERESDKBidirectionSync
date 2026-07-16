@@ -27,7 +27,7 @@ Different types of text notifications.
 
 - <div>
 
-  ` `<span id="/s:7heresdk20TextNotificationTypeO8maneuveryA2CmF"></span>` `<span id="//apple_ref/swift/Element/maneuver" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-textnotificationtype#/s:7heresdk20TextNotificationTypeO8maneuveryA2CmF" class="token"><code>maneuver</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk20TextNotificationTypeO8maneuveryA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-maneuver" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-textnotificationtype#sdk-for-ios-navigate-s-7heresdk20TextNotificationTypeO8maneuveryA2CmF" class="token"><code>maneuver</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Different types of text notifications.
 
 - <div>
 
-  ` `<span id="/s:7heresdk20TextNotificationTypeO19safetyCameraWarningyA2CmF"></span>` `<span id="//apple_ref/swift/Element/safetyCameraWarning" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-textnotificationtype#/s:7heresdk20TextNotificationTypeO19safetyCameraWarningyA2CmF" class="token"><code>safetyCameraWarning</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk20TextNotificationTypeO19safetyCameraWarningyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-safetyCameraWarning" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-textnotificationtype#sdk-for-ios-navigate-s-7heresdk20TextNotificationTypeO19safetyCameraWarningyA2CmF" class="token"><code>safetyCameraWarning</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Different types of text notifications.
 
 - <div>
 
-  ` `<span id="/s:7heresdk20TextNotificationTypeO19trafficMergeWarningyA2CmF"></span>` `<span id="//apple_ref/swift/Element/trafficMergeWarning" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-textnotificationtype#/s:7heresdk20TextNotificationTypeO19trafficMergeWarningyA2CmF" class="token"><code>trafficMergeWarning</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk20TextNotificationTypeO19trafficMergeWarningyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-trafficMergeWarning" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-textnotificationtype#sdk-for-ios-navigate-s-7heresdk20TextNotificationTypeO19trafficMergeWarningyA2CmF" class="token"><code>trafficMergeWarning</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Different types of text notifications.
 
 - <div>
 
-  ` `<span id="/s:7heresdk20TextNotificationTypeO19laneDecreaseWarningyA2CmF"></span>` `<span id="//apple_ref/swift/Element/laneDecreaseWarning" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-textnotificationtype#/s:7heresdk20TextNotificationTypeO19laneDecreaseWarningyA2CmF" class="token"><code>laneDecreaseWarning</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk20TextNotificationTypeO19laneDecreaseWarningyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-laneDecreaseWarning" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-textnotificationtype#sdk-for-ios-navigate-s-7heresdk20TextNotificationTypeO19laneDecreaseWarningyA2CmF" class="token"><code>laneDecreaseWarning</code></a> 
 
   </div>
 

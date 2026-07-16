@@ -27,7 +27,7 @@ This class specifies the visual appearance of a cluster marker.
 
 - <div>
 
-  ` `<span id="/s:7heresdk16MapMarkerClusterC10ImageStyleV5imageAA0bE0Cvp"></span>` `<span id="//apple_ref/swift/Property/image" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapmarkercluster-imagestyle#/s:7heresdk16MapMarkerClusterC10ImageStyleV5imageAA0bE0Cvp" class="token"><code>image</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16MapMarkerClusterC10ImageStyleV5imageAA0bE0Cvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-image" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapmarkercluster-imagestyle#sdk-for-ios-navigate-s-7heresdk16MapMarkerClusterC10ImageStyleV5imageAA0bE0Cvp" class="token"><code>image</code></a> 
 
   </div>
 
@@ -63,6 +63,10 @@ This class specifies the visual appearance of a cluster marker.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mapimage">MapImage</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ This class specifies the visual appearance of a cluster marker.
 
 - <div>
 
-  ` `<span id="/s:7heresdk16MapMarkerClusterC10ImageStyleV6anchorAA8Anchor2DVvp"></span>` `<span id="//apple_ref/swift/Property/anchor" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapmarkercluster-imagestyle#/s:7heresdk16MapMarkerClusterC10ImageStyleV6anchorAA8Anchor2DVvp" class="token"><code>anchor</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16MapMarkerClusterC10ImageStyleV6anchorAA8Anchor2DVvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-anchor" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapmarkercluster-imagestyle#sdk-for-ios-navigate-s-7heresdk16MapMarkerClusterC10ImageStyleV6anchorAA8Anchor2DVvp" class="token"><code>anchor</code></a> 
 
   </div>
 
@@ -107,6 +111,10 @@ This class specifies the visual appearance of a cluster marker.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-anchor2d">Anchor2D</a>
+
   </div>
 
   </div>
@@ -115,7 +123,7 @@ This class specifies the visual appearance of a cluster marker.
 
 - <div>
 
-      init(image: anchor: )
+   <span id="sdk-for-ios-navigate-s-7heresdk16MapMarkerClusterC10ImageStyleV5image6anchorAeA0bE0C_AA8Anchor2DVtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-image-anchor" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapmarkercluster-imagestyle#sdk-for-ios-navigate-s-7heresdk16MapMarkerClusterC10ImageStyleV5image6anchorAeA0bE0C_AA8Anchor2DVtcfc" class="token"><code>init(image:</code><wbr></wbr><code>anchor:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -148,12 +156,15 @@ This class specifies the visual appearance of a cluster marker.
   Swift
 
   ``` highlight
-  public init ( image : MapImage , anchor : Anchor2D )
+  public init(image: MapImage, anchor: Anchor2D)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mapimage">MapImage</a>
+  - <a href="sdk-for-ios-navigate-structs-anchor2d">Anchor2D</a>
 
   </div>
 
@@ -190,7 +201,7 @@ This class specifies the visual appearance of a cluster marker.
 
 - <div>
 
-      init(image: )
+   <span id="sdk-for-ios-navigate-s-7heresdk16MapMarkerClusterC10ImageStyleV5imageAeA0bE0C_tcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-image" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapmarkercluster-imagestyle#sdk-for-ios-navigate-s-7heresdk16MapMarkerClusterC10ImageStyleV5imageAeA0bE0C_tcfc" class="token"><code>init(image:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -221,12 +232,14 @@ This class specifies the visual appearance of a cluster marker.
   Swift
 
   ``` highlight
-  public init ( image : MapImage )
+  public init(image: MapImage)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mapimage">MapImage</a>
 
   </div>
 

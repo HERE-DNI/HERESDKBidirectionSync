@@ -23,6 +23,10 @@ extension TrafficFlow: Hashable
 
 </div>
 
+Related types:
+
+- <a href="sdk-for-ios-navigate-protocols-trafficflowbase">TrafficFlowBase</a>
+
 </div>
 
 This class provides details about traffic flow along a <a href="sdk-for-ios-navigate-structs-geocorridor">`GeoCorridor`</a>, inside a <a href="sdk-for-ios-navigate-structs-geocircle">`GeoCircle`</a> or a <a href="sdk-for-ios-navigate-structs-geobox">`GeoBox`</a>, that represents particular path of the road network.\
@@ -39,7 +43,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-  ` `<span id="/s:7heresdk11TrafficFlowC04freeC22SpeedInMetersPerSecondSdvp"></span>` `<span id="//apple_ref/swift/Property/freeFlowSpeedInMetersPerSecond" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-trafficflow#/s:7heresdk11TrafficFlowC04freeC22SpeedInMetersPerSecondSdvp" class="token"><code>freeFlowSpeedInMetersPerSecond</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11TrafficFlowC04freeC22SpeedInMetersPerSecondSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-freeFlowSpeedInMetersPerSecond" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-trafficflow#sdk-for-ios-navigate-s-7heresdk11TrafficFlowC04freeC22SpeedInMetersPerSecondSdvp" class="token"><code>freeFlowSpeedInMetersPerSecond</code></a> 
 
   </div>
 
@@ -83,7 +87,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-  ` `<span id="/s:7heresdk11TrafficFlowC9jamFactorSdvp"></span>` `<span id="//apple_ref/swift/Property/jamFactor" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-trafficflow#/s:7heresdk11TrafficFlowC9jamFactorSdvp" class="token"><code>jamFactor</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11TrafficFlowC9jamFactorSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-jamFactor" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-trafficflow#sdk-for-ios-navigate-s-7heresdk11TrafficFlowC9jamFactorSdvp" class="token"><code>jamFactor</code></a> 
 
   </div>
 
@@ -127,7 +131,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-  ` `<span id="/s:7heresdk11TrafficFlowC8locationAA0B8LocationVvp"></span>` `<span id="//apple_ref/swift/Property/location" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-trafficflow#/s:7heresdk11TrafficFlowC8locationAA0B8LocationVvp" class="token"><code>location</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11TrafficFlowC8locationAA0B8LocationVvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-location" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-trafficflow#sdk-for-ios-navigate-s-7heresdk11TrafficFlowC8locationAA0B8LocationVvp" class="token"><code>location</code></a> 
 
   </div>
 
@@ -163,6 +167,10 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-trafficlocation">TrafficLocation</a>
+
   </div>
 
   </div>
@@ -171,7 +179,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-  ` `<span id="/s:7heresdk11TrafficFlowC22speedInMetersPerSecondSdSgvp"></span>` `<span id="//apple_ref/swift/Property/speedInMetersPerSecond" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-trafficflow#/s:7heresdk11TrafficFlowC22speedInMetersPerSecondSdSgvp" class="token"><code>speedInMetersPerSecond</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11TrafficFlowC22speedInMetersPerSecondSdSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-speedInMetersPerSecond" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-trafficflow#sdk-for-ios-navigate-s-7heresdk11TrafficFlowC22speedInMetersPerSecondSdSgvp" class="token"><code>speedInMetersPerSecond</code></a> 
 
   </div>
 
@@ -215,7 +223,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-  ` `<span id="/s:7heresdk11TrafficFlowC30speedUncappedInMetersPerSecondSdSgvp"></span>` `<span id="//apple_ref/swift/Property/speedUncappedInMetersPerSecond" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-trafficflow#/s:7heresdk11TrafficFlowC30speedUncappedInMetersPerSecondSdSgvp" class="token"><code>speedUncappedInMetersPerSecond</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11TrafficFlowC30speedUncappedInMetersPerSecondSdSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-speedUncappedInMetersPerSecond" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-trafficflow#sdk-for-ios-navigate-s-7heresdk11TrafficFlowC30speedUncappedInMetersPerSecondSdSgvp" class="token"><code>speedUncappedInMetersPerSecond</code></a> 
 
   </div>
 
@@ -259,7 +267,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-  ` `<span id="/s:7heresdk11TrafficFlowC11jamTendencys5Int16VSgvp"></span>` `<span id="//apple_ref/swift/Property/jamTendency" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-trafficflow#/s:7heresdk11TrafficFlowC11jamTendencys5Int16VSgvp" class="token"><code>jamTendency</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11TrafficFlowC11jamTendencys5Int16VSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-jamTendency" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-trafficflow#sdk-for-ios-navigate-s-7heresdk11TrafficFlowC11jamTendencys5Int16VSgvp" class="token"><code>jamTendency</code></a> 
 
   </div>
 
@@ -309,7 +317,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-  ` `<span id="/s:7heresdk11TrafficFlowC10confidenceSdSgvp"></span>` `<span id="//apple_ref/swift/Property/confidence" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-trafficflow#/s:7heresdk11TrafficFlowC10confidenceSdSgvp" class="token"><code>confidence</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11TrafficFlowC10confidenceSdSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-confidence" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-trafficflow#sdk-for-ios-navigate-s-7heresdk11TrafficFlowC10confidenceSdSgvp" class="token"><code>confidence</code></a> 
 
   </div>
 
@@ -359,7 +367,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-  ` `<span id="/s:7heresdk11TrafficFlowC14traversabilityAA14TraversabilityOSgvp"></span>` `<span id="//apple_ref/swift/Property/traversability" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-trafficflow#/s:7heresdk11TrafficFlowC14traversabilityAA14TraversabilityOSgvp" class="token"><code>traversability</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11TrafficFlowC14traversabilityAA14TraversabilityOSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-traversability" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-trafficflow#sdk-for-ios-navigate-s-7heresdk11TrafficFlowC14traversabilityAA14TraversabilityOSgvp" class="token"><code>traversability</code></a> 
 
   </div>
 
@@ -395,6 +403,10 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-traversability">Traversability</a>
+
   </div>
 
   </div>
@@ -403,7 +415,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-  ` `<span id="/s:7heresdk11TrafficFlowC23junctionsTraversabilityAA09JunctionsE0OSgvp"></span>` `<span id="//apple_ref/swift/Property/junctionsTraversability" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-trafficflow#/s:7heresdk11TrafficFlowC23junctionsTraversabilityAA09JunctionsE0OSgvp" class="token"><code>junctionsTraversability</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11TrafficFlowC23junctionsTraversabilityAA09JunctionsE0OSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-junctionsTraversability" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-trafficflow#sdk-for-ios-navigate-s-7heresdk11TrafficFlowC23junctionsTraversabilityAA09JunctionsE0OSgvp" class="token"><code>junctionsTraversability</code></a> 
 
   </div>
 
@@ -438,6 +450,10 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   ```
 
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-junctionstraversability">JunctionsTraversability</a>
 
   </div>
 

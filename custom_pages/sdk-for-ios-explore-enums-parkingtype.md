@@ -27,7 +27,7 @@ Represents parking type available at the location. **Note:** This is a beta rele
 
 - <div>
 
-  ` `<span id="/s:7heresdk11ParkingTypeO13alongMotorwayyA2CmF"></span>` `<span id="//apple_ref/swift/Element/alongMotorway" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-parkingtype#/s:7heresdk11ParkingTypeO13alongMotorwayyA2CmF" class="token"><code>alongMotorway</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11ParkingTypeO13alongMotorwayyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-alongMotorway" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-parkingtype#sdk-for-ios-explore-s-7heresdk11ParkingTypeO13alongMotorwayyA2CmF" class="token"><code>alongMotorway</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Represents parking type available at the location. **Note:** This is a beta rele
 
 - <div>
 
-  ` `<span id="/s:7heresdk11ParkingTypeO13parkingGarageyA2CmF"></span>` `<span id="//apple_ref/swift/Element/parkingGarage" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-parkingtype#/s:7heresdk11ParkingTypeO13parkingGarageyA2CmF" class="token"><code>parkingGarage</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11ParkingTypeO13parkingGarageyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-parkingGarage" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-parkingtype#sdk-for-ios-explore-s-7heresdk11ParkingTypeO13parkingGarageyA2CmF" class="token"><code>parkingGarage</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Represents parking type available at the location. **Note:** This is a beta rele
 
 - <div>
 
-  ` `<span id="/s:7heresdk11ParkingTypeO10parkingLotyA2CmF"></span>` `<span id="//apple_ref/swift/Element/parkingLot" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-parkingtype#/s:7heresdk11ParkingTypeO10parkingLotyA2CmF" class="token"><code>parkingLot</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11ParkingTypeO10parkingLotyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-parkingLot" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-parkingtype#sdk-for-ios-explore-s-7heresdk11ParkingTypeO10parkingLotyA2CmF" class="token"><code>parkingLot</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Represents parking type available at the location. **Note:** This is a beta rele
 
 - <div>
 
-  ` `<span id="/s:7heresdk11ParkingTypeO10onDrivewayyA2CmF"></span>` `<span id="//apple_ref/swift/Element/onDriveway" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-parkingtype#/s:7heresdk11ParkingTypeO10onDrivewayyA2CmF" class="token"><code>onDriveway</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11ParkingTypeO10onDrivewayyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-onDriveway" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-parkingtype#sdk-for-ios-explore-s-7heresdk11ParkingTypeO10onDrivewayyA2CmF" class="token"><code>onDriveway</code></a> 
 
   </div>
 
@@ -203,7 +203,7 @@ Represents parking type available at the location. **Note:** This is a beta rele
 
 - <div>
 
-  ` `<span id="/s:7heresdk11ParkingTypeO8onStreetyA2CmF"></span>` `<span id="//apple_ref/swift/Element/onStreet" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-parkingtype#/s:7heresdk11ParkingTypeO8onStreetyA2CmF" class="token"><code>onStreet</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11ParkingTypeO8onStreetyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-onStreet" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-parkingtype#sdk-for-ios-explore-s-7heresdk11ParkingTypeO8onStreetyA2CmF" class="token"><code>onStreet</code></a> 
 
   </div>
 
@@ -247,7 +247,7 @@ Represents parking type available at the location. **Note:** This is a beta rele
 
 - <div>
 
-  ` `<span id="/s:7heresdk11ParkingTypeO17undergroundGarageyA2CmF"></span>` `<span id="//apple_ref/swift/Element/undergroundGarage" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-parkingtype#/s:7heresdk11ParkingTypeO17undergroundGarageyA2CmF" class="token"><code>undergroundGarage</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11ParkingTypeO17undergroundGarageyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-undergroundGarage" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-parkingtype#sdk-for-ios-explore-s-7heresdk11ParkingTypeO17undergroundGarageyA2CmF" class="token"><code>undergroundGarage</code></a> 
 
   </div>
 

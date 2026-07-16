@@ -29,7 +29,7 @@ Contains information about one of the squares in the what3words geocode system.
 
 - <div>
 
-  ` `<span id="/s:7heresdk9W3WSquareV6squareAA6GeoBoxVvp"></span>` `<span id="//apple_ref/swift/Property/square" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-w3wsquare#/s:7heresdk9W3WSquareV6squareAA6GeoBoxVvp" class="token"><code>square</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9W3WSquareV6squareAA6GeoBoxVvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-square" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-w3wsquare#sdk-for-ios-explore-s-7heresdk9W3WSquareV6squareAA6GeoBoxVvp" class="token"><code>square</code></a> 
 
   </div>
 
@@ -65,6 +65,10 @@ Contains information about one of the squares in the what3words geocode system.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geobox">GeoBox</a>
+
   </div>
 
   </div>
@@ -73,7 +77,7 @@ Contains information about one of the squares in the what3words geocode system.
 
 - <div>
 
-  ` `<span id="/s:7heresdk9W3WSquareV11coordinatesAA14GeoCoordinatesVvp"></span>` `<span id="//apple_ref/swift/Property/coordinates" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-w3wsquare#/s:7heresdk9W3WSquareV11coordinatesAA14GeoCoordinatesVvp" class="token"><code>coordinates</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9W3WSquareV11coordinatesAA14GeoCoordinatesVvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-coordinates" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-w3wsquare#sdk-for-ios-explore-s-7heresdk9W3WSquareV11coordinatesAA14GeoCoordinatesVvp" class="token"><code>coordinates</code></a> 
 
   </div>
 
@@ -109,6 +113,10 @@ Contains information about one of the squares in the what3words geocode system.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geocoordinates">GeoCoordinates</a>
+
   </div>
 
   </div>
@@ -117,7 +125,7 @@ Contains information about one of the squares in the what3words geocode system.
 
 - <div>
 
-  ` `<span id="/s:7heresdk9W3WSquareV5wordsSSvp"></span>` `<span id="//apple_ref/swift/Property/words" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-w3wsquare#/s:7heresdk9W3WSquareV5wordsSSvp" class="token"><code>words</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9W3WSquareV5wordsSSvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-words" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-w3wsquare#sdk-for-ios-explore-s-7heresdk9W3WSquareV5wordsSSvp" class="token"><code>words</code></a> 
 
   </div>
 
@@ -161,7 +169,7 @@ Contains information about one of the squares in the what3words geocode system.
 
 - <div>
 
-  ` `<span id="/s:7heresdk9W3WSquareV12languageCodeSSvp"></span>` `<span id="//apple_ref/swift/Property/languageCode" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-w3wsquare#/s:7heresdk9W3WSquareV12languageCodeSSvp" class="token"><code>languageCode</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9W3WSquareV12languageCodeSSvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-languageCode" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-w3wsquare#sdk-for-ios-explore-s-7heresdk9W3WSquareV12languageCodeSSvp" class="token"><code>languageCode</code></a> 
 
   </div>
 
@@ -205,7 +213,7 @@ Contains information about one of the squares in the what3words geocode system.
 
 - <div>
 
-  ` `<span id="/s:7heresdk9W3WSquareV11countryCodeSSSgvp"></span>` `<span id="//apple_ref/swift/Property/countryCode" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-w3wsquare#/s:7heresdk9W3WSquareV11countryCodeSSSgvp" class="token"><code>countryCode</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9W3WSquareV11countryCodeSSSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-countryCode" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-w3wsquare#sdk-for-ios-explore-s-7heresdk9W3WSquareV11countryCodeSSSgvp" class="token"><code>countryCode</code></a> 
 
   </div>
 
@@ -249,7 +257,7 @@ Contains information about one of the squares in the what3words geocode system.
 
 - <div>
 
-      init(square: coordinates: words: languageCode: countryCode: )
+   <span id="sdk-for-ios-explore-s-7heresdk9W3WSquareV6square11coordinates5words12languageCode07countryH0AcA6GeoBoxV_AA0J11CoordinatesVS3SSgtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-square-coordinates-words-languageCode-countryCode" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-w3wsquare#sdk-for-ios-explore-s-7heresdk9W3WSquareV6square11coordinates5words12languageCode07countryH0AcA6GeoBoxV_AA0J11CoordinatesVS3SSgtcfc" class="token"><code>init(square:</code><wbr></wbr><code>coordinates:</code><wbr></wbr><code>words:</code><wbr></wbr><code>languageCode:</code><wbr></wbr><code>countryCode:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -280,12 +288,15 @@ Contains information about one of the squares in the what3words geocode system.
   Swift
 
   ``` highlight
-  public init ( square : GeoBox , coordinates : GeoCoordinates , words : String , languageCode : String , countryCode : String ? = nil )
+  public init(square: GeoBox, coordinates: GeoCoordinates, words: String, languageCode: String, countryCode: String? = nil)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geobox">GeoBox</a>
+  - <a href="sdk-for-ios-explore-structs-geocoordinates">GeoCoordinates</a>
 
   </div>
 

@@ -40,7 +40,7 @@ Typical use case is to perform input preparation step before invoking computatio
 
 - <div>
 
-      init()
+   <span id="sdk-for-ios-explore-s-7heresdk18PolylineSimplifierCACyKcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-polylinesimplifier#sdk-for-ios-explore-s-7heresdk18PolylineSimplifierCACyKcfc" class="token"><code>init()</code></a> 
 
   </div>
 
@@ -64,7 +64,7 @@ Typical use case is to perform input preparation step before invoking computatio
 
   Throws
 
-  <a href="sdk-for-ios-explore-core#/s:7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
+  <a href="sdk-for-ios-explore-core#sdk-for-ios-explore-s-7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
 
   </div>
 
@@ -79,10 +79,8 @@ Typical use case is to perform input preparation step before invoking computatio
   Swift
 
   ``` highlight
-  public init () throws
+  public init() throws
   ```
-
-  </pre>
 
   </div>
 
@@ -94,7 +92,7 @@ Typical use case is to perform input preparation step before invoking computatio
 
 - <div>
 
-  ` `<span id="/s:7heresdk18PolylineSimplifierC7OptionsV"></span>` `<span id="//apple_ref/swift/Struct/Options" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-polylinesimplifier#/s:7heresdk18PolylineSimplifierC7OptionsV" class="token"><code>Options</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18PolylineSimplifierC7OptionsV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-Options" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-polylinesimplifier#sdk-for-ios-explore-s-7heresdk18PolylineSimplifierC7OptionsV" class="token"><code>Options</code></a> 
 
   </div>
 
@@ -112,12 +110,7 @@ Typical use case is to perform input preparation step before invoking computatio
 
   <div class="abstract">
 
-  Controls the strategy of
-
-      PolylineSimplifier.simplify(...)
-
-  when reducing a size of polyline.
-  </p>
+  Controls the strategy of <a href="sdk-for-ios-explore-classes-polylinesimplifier#sdk-for-ios-explore-s-7heresdk18PolylineSimplifierC8simplify8polyline24simplificationParameters10completionAA10TaskHandle_pSayAA14GeoCoordinatesVG_AC7OptionsVyAA0B19SimplificationErrorOSg_AKSgtctF">`PolylineSimplifier.simplify(...)`</a> when reducing a size of polyline.
 
   <a href="sdk-for-ios-explore-classes-polylinesimplifier-options" class="slightly-smaller">See more</a>
 
@@ -145,7 +138,7 @@ Typical use case is to perform input preparation step before invoking computatio
 
 - <div>
 
-      simplify(polyline: simplificationParameters: completion: )
+   <span id="sdk-for-ios-explore-s-7heresdk18PolylineSimplifierC8simplify8polyline24simplificationParameters10completionAA10TaskHandle_pSayAA14GeoCoordinatesVG_AC7OptionsVyAA0B19SimplificationErrorOSg_AKSgtctF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-simplify-polyline-simplificationParameters-completion" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-polylinesimplifier#sdk-for-ios-explore-s-7heresdk18PolylineSimplifierC8simplify8polyline24simplificationParameters10completionAA10TaskHandle_pSayAA14GeoCoordinatesVG_AC7OptionsVyAA0B19SimplificationErrorOSg_AKSgtctF" class="token"><code>simplify(polyline:</code><wbr></wbr><code>simplificationParameters:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -176,12 +169,17 @@ Typical use case is to perform input preparation step before invoking computatio
   Swift
 
   ``` highlight
-  public func simplify ( polyline : [ GeoCoordinates ], simplificationParameters : PolylineSimplifier . Options , completion : @escaping PolylineSimplificationCompletionHandler ) -> TaskHandle
+  public func simplify(polyline: [GeoCoordinates], simplificationParameters: PolylineSimplifier.Options, completion: @escaping PolylineSimplificationCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geocoordinates">GeoCoordinates</a>
+  - <a href="sdk-for-ios-explore-classes-polylinesimplifier-options">Options</a>
+  - <a href="sdk-for-ios-explore-core#sdk-for-ios-explore-s-7heresdk39PolylineSimplificationCompletionHandlera">PolylineSimplificationCompletionHandler</a>
+  - <a href="sdk-for-ios-explore-protocols-taskhandle">TaskHandle</a>
 
   </div>
 

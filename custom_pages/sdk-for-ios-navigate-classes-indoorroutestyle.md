@@ -35,7 +35,7 @@ Represents a style of the indoor route. Contains information about route colors 
 
 - <div>
 
-      init()
+   <span id="sdk-for-ios-navigate-s-7heresdk16IndoorRouteStyleCACycfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-indoorroutestyle#sdk-for-ios-navigate-s-7heresdk16IndoorRouteStyleCACycfc" class="token"><code>init()</code></a> 
 
   </div>
 
@@ -66,10 +66,8 @@ Represents a style of the indoor route. Contains information about route colors 
   Swift
 
   ``` highlight
-  public init ()
+  public init()
   ```
-
-  </pre>
 
   </div>
 
@@ -81,7 +79,7 @@ Represents a style of the indoor route. Contains information about route colors 
 
 - <div>
 
-  ` `<span id="/s:7heresdk16IndoorRouteStyleC19indoorPolylineWidthSdvp"></span>` `<span id="//apple_ref/swift/Property/indoorPolylineWidth" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-indoorroutestyle#/s:7heresdk16IndoorRouteStyleC19indoorPolylineWidthSdvp" class="token"><code>indoorPolylineWidth</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16IndoorRouteStyleC19indoorPolylineWidthSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-indoorPolylineWidth" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-indoorroutestyle#sdk-for-ios-navigate-s-7heresdk16IndoorRouteStyleC19indoorPolylineWidthSdvp" class="token"><code>indoorPolylineWidth</code></a> 
 
   </div>
 
@@ -125,7 +123,7 @@ Represents a style of the indoor route. Contains information about route colors 
 
 - <div>
 
-  ` `<span id="/s:7heresdk16IndoorRouteStyleC19indoorPolylineColorSo7UIColorCvp"></span>` `<span id="//apple_ref/swift/Property/indoorPolylineColor" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-indoorroutestyle#/s:7heresdk16IndoorRouteStyleC19indoorPolylineColorSo7UIColorCvp" class="token"><code>indoorPolylineColor</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16IndoorRouteStyleC19indoorPolylineColorSo7UIColorCvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-indoorPolylineColor" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-indoorroutestyle#sdk-for-ios-navigate-s-7heresdk16IndoorRouteStyleC19indoorPolylineColorSo7UIColorCvp" class="token"><code>indoorPolylineColor</code></a> 
 
   </div>
 
@@ -169,7 +167,7 @@ Represents a style of the indoor route. Contains information about route colors 
 
 - <div>
 
-  ` `<span id="/s:7heresdk16IndoorRouteStyleC11startMarkerAA03MapF0CSgvp"></span>` `<span id="//apple_ref/swift/Property/startMarker" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-indoorroutestyle#/s:7heresdk16IndoorRouteStyleC11startMarkerAA03MapF0CSgvp" class="token"><code>startMarker</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16IndoorRouteStyleC11startMarkerAA03MapF0CSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-startMarker" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-indoorroutestyle#sdk-for-ios-navigate-s-7heresdk16IndoorRouteStyleC11startMarkerAA03MapF0CSgvp" class="token"><code>startMarker</code></a> 
 
   </div>
 
@@ -205,6 +203,10 @@ Represents a style of the indoor route. Contains information about route colors 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mapmarker">MapMarker</a>
+
   </div>
 
   </div>
@@ -213,7 +215,7 @@ Represents a style of the indoor route. Contains information about route colors 
 
 - <div>
 
-  ` `<span id="/s:7heresdk16IndoorRouteStyleC17destinationMarkerAA03MapF0CSgvp"></span>` `<span id="//apple_ref/swift/Property/destinationMarker" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-indoorroutestyle#/s:7heresdk16IndoorRouteStyleC17destinationMarkerAA03MapF0CSgvp" class="token"><code>destinationMarker</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16IndoorRouteStyleC17destinationMarkerAA03MapF0CSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-destinationMarker" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-indoorroutestyle#sdk-for-ios-navigate-s-7heresdk16IndoorRouteStyleC17destinationMarkerAA03MapF0CSgvp" class="token"><code>destinationMarker</code></a> 
 
   </div>
 
@@ -249,6 +251,10 @@ Represents a style of the indoor route. Contains information about route colors 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mapmarker">MapMarker</a>
+
   </div>
 
   </div>
@@ -257,7 +263,7 @@ Represents a style of the indoor route. Contains information about route colors 
 
 - <div>
 
-  ` `<span id="/s:7heresdk16IndoorRouteStyleC10walkMarkerAA03MapF0CSgvp"></span>` `<span id="//apple_ref/swift/Property/walkMarker" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-indoorroutestyle#/s:7heresdk16IndoorRouteStyleC10walkMarkerAA03MapF0CSgvp" class="token"><code>walkMarker</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16IndoorRouteStyleC10walkMarkerAA03MapF0CSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-walkMarker" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-indoorroutestyle#sdk-for-ios-navigate-s-7heresdk16IndoorRouteStyleC10walkMarkerAA03MapF0CSgvp" class="token"><code>walkMarker</code></a> 
 
   </div>
 
@@ -293,6 +299,10 @@ Represents a style of the indoor route. Contains information about route colors 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mapmarker">MapMarker</a>
+
   </div>
 
   </div>
@@ -301,7 +311,7 @@ Represents a style of the indoor route. Contains information about route colors 
 
 - <div>
 
-  ` `<span id="/s:7heresdk16IndoorRouteStyleC11driveMarkerAA03MapF0CSgvp"></span>` `<span id="//apple_ref/swift/Property/driveMarker" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-indoorroutestyle#/s:7heresdk16IndoorRouteStyleC11driveMarkerAA03MapF0CSgvp" class="token"><code>driveMarker</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16IndoorRouteStyleC11driveMarkerAA03MapF0CSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-driveMarker" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-indoorroutestyle#sdk-for-ios-navigate-s-7heresdk16IndoorRouteStyleC11driveMarkerAA03MapF0CSgvp" class="token"><code>driveMarker</code></a> 
 
   </div>
 
@@ -337,6 +347,10 @@ Represents a style of the indoor route. Contains information about route colors 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mapmarker">MapMarker</a>
+
   </div>
 
   </div>
@@ -345,7 +359,7 @@ Represents a style of the indoor route. Contains information about route colors 
 
 - <div>
 
-      getIndoorMarkerFor(feature: deltaZ: )
+   <span id="sdk-for-ios-navigate-s-7heresdk16IndoorRouteStyleC03getB9MarkerFor7feature6deltaZAA03MapF0CSgAA0B19LevelChangeFeaturesO_s5Int32VtF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-getIndoorMarkerFor-feature-deltaZ" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-indoorroutestyle#sdk-for-ios-navigate-s-7heresdk16IndoorRouteStyleC03getB9MarkerFor7feature6deltaZAA03MapF0CSgAA0B19LevelChangeFeaturesO_s5Int32VtF" class="token"><code>getIndoorMarkerFor(feature:</code><wbr></wbr><code>deltaZ:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -376,12 +390,15 @@ Represents a style of the indoor route. Contains information about route colors 
   Swift
 
   ``` highlight
-  public func getIndoorMarkerFor ( feature : IndoorLevelChangeFeatures , deltaZ : Int32 ) -> MapMarker ?
+  public func getIndoorMarkerFor(feature: IndoorLevelChangeFeatures, deltaZ: Int32) -> MapMarker?
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-indoorlevelchangefeatures">IndoorLevelChangeFeatures</a>
+  - <a href="sdk-for-ios-navigate-classes-mapmarker">MapMarker</a>
 
   </div>
 
@@ -426,7 +443,7 @@ Represents a style of the indoor route. Contains information about route colors 
 
 - <div>
 
-      setIndoorMarkersFor(feature: upMarker: downMarker: exitMarker: )
+   <span id="sdk-for-ios-navigate-s-7heresdk16IndoorRouteStyleC03setB10MarkersFor7feature8upMarker04downJ004exitJ0yAA0B19LevelChangeFeaturesO_AA03MapJ0CSgA2MtF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-setIndoorMarkersFor-feature-upMarker-downMarker-exitMarker" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-indoorroutestyle#sdk-for-ios-navigate-s-7heresdk16IndoorRouteStyleC03setB10MarkersFor7feature8upMarker04downJ004exitJ0yAA0B19LevelChangeFeaturesO_AA03MapJ0CSgA2MtF" class="token"><code>setIndoorMarkersFor(feature:</code><wbr></wbr><code>upMarker:</code><wbr></wbr><code>downMarker:</code><wbr></wbr><code>exitMarker:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -457,12 +474,15 @@ Represents a style of the indoor route. Contains information about route colors 
   Swift
 
   ``` highlight
-  public func setIndoorMarkersFor ( feature : IndoorLevelChangeFeatures , upMarker : MapMarker ?, downMarker : MapMarker ?, exitMarker : MapMarker ?)
+  public func setIndoorMarkersFor(feature: IndoorLevelChangeFeatures, upMarker: MapMarker?, downMarker: MapMarker?, exitMarker: MapMarker?)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-indoorlevelchangefeatures">IndoorLevelChangeFeatures</a>
+  - <a href="sdk-for-ios-navigate-classes-mapmarker">MapMarker</a>
 
   </div>
 

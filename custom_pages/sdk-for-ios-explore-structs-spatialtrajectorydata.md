@@ -27,7 +27,7 @@ This struct provides all the information regarding an angular panning element, i
 
 - <div>
 
-  ` `<span id="/s:7heresdk21SpatialTrajectoryDataV16azimuthInDegreesSdvp"></span>` `<span id="//apple_ref/swift/Property/azimuthInDegrees" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-spatialtrajectorydata#/s:7heresdk21SpatialTrajectoryDataV16azimuthInDegreesSdvp" class="token"><code>azimuthInDegrees</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk21SpatialTrajectoryDataV16azimuthInDegreesSdvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-azimuthInDegrees" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-spatialtrajectorydata#sdk-for-ios-explore-s-7heresdk21SpatialTrajectoryDataV16azimuthInDegreesSdvp" class="token"><code>azimuthInDegrees</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ This struct provides all the information regarding an angular panning element, i
 
 - <div>
 
-  ` `<span id="/s:7heresdk21SpatialTrajectoryDataV09completedbC0Sbvp"></span>` `<span id="//apple_ref/swift/Property/completedSpatialTrajectory" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-spatialtrajectorydata#/s:7heresdk21SpatialTrajectoryDataV09completedbC0Sbvp" class="token"><code>completedSpatialTrajectory</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk21SpatialTrajectoryDataV09completedbC0Sbvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-completedSpatialTrajectory" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-spatialtrajectorydata#sdk-for-ios-explore-s-7heresdk21SpatialTrajectoryDataV09completedbC0Sbvp" class="token"><code>completedSpatialTrajectory</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ This struct provides all the information regarding an angular panning element, i
 
 - <div>
 
-      init(azimuthInDegrees: completedSpatialTrajectory: )
+   <span id="sdk-for-ios-explore-s-7heresdk21SpatialTrajectoryDataV16azimuthInDegrees09completedbC0ACSd_Sbtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-azimuthInDegrees-completedSpatialTrajectory" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-spatialtrajectorydata#sdk-for-ios-explore-s-7heresdk21SpatialTrajectoryDataV16azimuthInDegrees09completedbC0ACSd_Sbtcfc" class="token"><code>init(azimuthInDegrees:</code><wbr></wbr><code>completedSpatialTrajectory:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -146,10 +146,8 @@ This struct provides all the information regarding an angular panning element, i
   Swift
 
   ``` highlight
-  public init ( azimuthInDegrees : Double , completedSpatialTrajectory : Bool )
+  public init(azimuthInDegrees: Double, completedSpatialTrajectory: Bool)
   ```
-
-  </pre>
 
   </div>
 

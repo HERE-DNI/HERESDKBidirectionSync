@@ -27,7 +27,7 @@ Encapsulates properties for generating vehicle restriction icons using <a href="
 
 - <div>
 
-  ` `<span id="/s:7heresdk32VehicleRestrictionIconPropertiesV11restrictionAA0bC0Vvp"></span>` `<span id="//apple_ref/swift/Property/restriction" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-vehiclerestrictioniconproperties#/s:7heresdk32VehicleRestrictionIconPropertiesV11restrictionAA0bC0Vvp" class="token"><code>restriction</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk32VehicleRestrictionIconPropertiesV11restrictionAA0bC0Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-restriction" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-vehiclerestrictioniconproperties#sdk-for-ios-navigate-s-7heresdk32VehicleRestrictionIconPropertiesV11restrictionAA0bC0Vvp" class="token"><code>restriction</code></a> 
 
   </div>
 
@@ -63,6 +63,10 @@ Encapsulates properties for generating vehicle restriction icons using <a href="
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-vehiclerestriction">VehicleRestriction</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ Encapsulates properties for generating vehicle restriction icons using <a href="
 
 - <div>
 
-  ` `<span id="/s:7heresdk32VehicleRestrictionIconPropertiesV11countryCodeAA07CountryG0OSgvp"></span>` `<span id="//apple_ref/swift/Property/countryCode" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-vehiclerestrictioniconproperties#/s:7heresdk32VehicleRestrictionIconPropertiesV11countryCodeAA07CountryG0OSgvp" class="token"><code>countryCode</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk32VehicleRestrictionIconPropertiesV11countryCodeAA07CountryG0OSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-countryCode" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-vehiclerestrictioniconproperties#sdk-for-ios-navigate-s-7heresdk32VehicleRestrictionIconPropertiesV11countryCodeAA07CountryG0OSgvp" class="token"><code>countryCode</code></a> 
 
   </div>
 
@@ -107,6 +111,10 @@ Encapsulates properties for generating vehicle restriction icons using <a href="
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-countrycode">CountryCode</a>
+
   </div>
 
   </div>
@@ -115,7 +123,7 @@ Encapsulates properties for generating vehicle restriction icons using <a href="
 
 - <div>
 
-      init(restriction: countryCode: )
+   <span id="sdk-for-ios-navigate-s-7heresdk32VehicleRestrictionIconPropertiesV11restriction11countryCodeAcA0bC0V_AA07CountryH0OSgtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-restriction-countryCode" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-vehiclerestrictioniconproperties#sdk-for-ios-navigate-s-7heresdk32VehicleRestrictionIconPropertiesV11restriction11countryCodeAcA0bC0V_AA07CountryH0OSgtcfc" class="token"><code>init(restriction:</code><wbr></wbr><code>countryCode:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -146,12 +154,15 @@ Encapsulates properties for generating vehicle restriction icons using <a href="
   Swift
 
   ``` highlight
-  public init ( restriction : VehicleRestriction , countryCode : CountryCode ? = nil )
+  public init(restriction: VehicleRestriction, countryCode: CountryCode? = nil)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-vehiclerestriction">VehicleRestriction</a>
+  - <a href="sdk-for-ios-navigate-enums-countrycode">CountryCode</a>
 
   </div>
 

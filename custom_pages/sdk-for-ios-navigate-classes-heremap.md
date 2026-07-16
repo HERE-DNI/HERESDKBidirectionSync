@@ -35,7 +35,7 @@ The representation of a dynamic and interactive geographic map. The map manages 
 
 - <div>
 
-  ` `<span id="/s:7heresdk7HereMapC5styleAA5StyleCvp"></span>` `<span id="//apple_ref/swift/Property/style" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-heremap#/s:7heresdk7HereMapC5styleAA5StyleCvp" class="token"><code>style</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk7HereMapC5styleAA5StyleCvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-style" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-heremap#sdk-for-ios-navigate-s-7heresdk7HereMapC5styleAA5StyleCvp" class="token"><code>style</code></a> 
 
   </div>
 
@@ -53,20 +53,11 @@ The representation of a dynamic and interactive geographic map. The map manages 
 
   <div class="abstract">
 
-  The style that the map uses to customize the visual appearance of rendered features. Changes made to the map style using
+  The style that the map uses to customize the visual appearance of rendered features. Changes made to the map style using <a href="sdk-for-ios-navigate-classes-style#sdk-for-ios-navigate-s-7heresdk5StyleC6updateyyACF">`Style.update(...)`</a> are lost when new scene is loaded using
 
-      Style.update(...)
-
-  are lost when new scene is loaded using
       MapScene.loadScene(MapScheme, MapScene.LoadSceneCompletionHandler?)
 
-  and its variants as well as when map features are enabled or disabled using
-      MapScene.enableFeatures(...)
-
-  and
-      MapScene.disableFeatures(...)
-
-  .
+  and its variants as well as when map features are enabled or disabled using <a href="sdk-for-ios-navigate-classes-mapscene#sdk-for-ios-navigate-s-7heresdk8MapSceneC14enableFeaturesyySDyS2SGF">`MapScene.enableFeatures(...)`</a> and <a href="sdk-for-ios-navigate-classes-mapscene#sdk-for-ios-navigate-s-7heresdk8MapSceneC15disableFeaturesyySaySSGF">`MapScene.disableFeatures(...)`</a>.
   </p>
 
   Note: This is a beta release of this feature, so there could be a few bugs and unexpected behavior. Related APIs may change for new releases without a deprecation process.
@@ -87,6 +78,10 @@ The representation of a dynamic and interactive geographic map. The map manages 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-style">Style</a>
+
   </div>
 
   </div>
@@ -95,7 +90,7 @@ The representation of a dynamic and interactive geographic map. The map manages 
 
 - <div>
 
-      addMapIdleDelegate(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk7HereMapC03addC12IdleDelegateyyAA0ceF0_pF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-addMapIdleDelegate-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-heremap#sdk-for-ios-navigate-s-7heresdk7HereMapC03addC12IdleDelegateyyAA0ceF0_pF" class="token"><code>addMapIdleDelegate(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -117,12 +112,7 @@ The representation of a dynamic and interactive geographic map. The map manages 
 
   The first notification received is always the state at the time of registration.
 
-  The new delegate is appended to the set of `HereMap` idle delegates as a strong reference. The caller is responsible for releasing the strong reference by calling
-
-      HereMap.removeMapIdleDelegate(...)
-
-  .
-  </p>
+  The new delegate is appended to the set of `HereMap` idle delegates as a strong reference. The caller is responsible for releasing the strong reference by calling <a href="sdk-for-ios-navigate-classes-heremap#sdk-for-ios-navigate-s-7heresdk7HereMapC06removeC12IdleDelegateyyAA0ceF0_pF">`HereMap.removeMapIdleDelegate(...)`</a>.
 
   </div>
 
@@ -135,12 +125,14 @@ The representation of a dynamic and interactive geographic map. The map manages 
   Swift
 
   ``` highlight
-  public func addMapIdleDelegate ( _ delegate : MapIdleDelegate )
+  public func addMapIdleDelegate(_ delegate: MapIdleDelegate)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-protocols-mapidledelegate">MapIdleDelegate</a>
 
   </div>
 
@@ -171,7 +163,7 @@ The representation of a dynamic and interactive geographic map. The map manages 
 
 - <div>
 
-      removeMapIdleDelegate(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk7HereMapC06removeC12IdleDelegateyyAA0ceF0_pF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-removeMapIdleDelegate-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-heremap#sdk-for-ios-navigate-s-7heresdk7HereMapC06removeC12IdleDelegateyyAA0ceF0_pF" class="token"><code>removeMapIdleDelegate(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -202,12 +194,14 @@ The representation of a dynamic and interactive geographic map. The map manages 
   Swift
 
   ``` highlight
-  public func removeMapIdleDelegate ( _ delegate : MapIdleDelegate )
+  public func removeMapIdleDelegate(_ delegate: MapIdleDelegate)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-protocols-mapidledelegate">MapIdleDelegate</a>
 
   </div>
 

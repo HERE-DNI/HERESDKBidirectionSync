@@ -29,7 +29,7 @@ A struct that provides lane decrease warning options. Set the options for config
 
 - <div>
 
-  ` `<span id="/s:7heresdk26LaneDecreaseWarningOptionsV22enableTextNotificationSbvp"></span>` `<span id="//apple_ref/swift/Property/enableTextNotification" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-lanedecreasewarningoptions#/s:7heresdk26LaneDecreaseWarningOptionsV22enableTextNotificationSbvp" class="token"><code>enableTextNotification</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk26LaneDecreaseWarningOptionsV22enableTextNotificationSbvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-enableTextNotification" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-lanedecreasewarningoptions#sdk-for-ios-explore-s-7heresdk26LaneDecreaseWarningOptionsV22enableTextNotificationSbvp" class="token"><code>enableTextNotification</code></a> 
 
   </div>
 
@@ -73,7 +73,7 @@ A struct that provides lane decrease warning options. Set the options for config
 
 - <div>
 
-      init(enableTextNotification: )
+   <span id="sdk-for-ios-explore-s-7heresdk26LaneDecreaseWarningOptionsV22enableTextNotificationACSb_tcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-enableTextNotification" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-lanedecreasewarningoptions#sdk-for-ios-explore-s-7heresdk26LaneDecreaseWarningOptionsV22enableTextNotificationACSb_tcfc" class="token"><code>init(enableTextNotification:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -104,10 +104,8 @@ A struct that provides lane decrease warning options. Set the options for config
   Swift
 
   ``` highlight
-  public init ( enableTextNotification : Bool = true )
+  public init(enableTextNotification: Bool = true)
   ```
-
-  </pre>
 
   </div>
 

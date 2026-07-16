@@ -27,7 +27,7 @@ Optional features enum
 
 - <div>
 
-  ` `<span id="/s:7heresdk12VenueServiceC0B15OptionalFeatureO18roadSurfaceMarkingyA2EmF"></span>` `<span id="//apple_ref/swift/Element/roadSurfaceMarking" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venueservice-venueoptionalfeature#/s:7heresdk12VenueServiceC0B15OptionalFeatureO18roadSurfaceMarkingyA2EmF" class="token"><code>roadSurfaceMarking</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12VenueServiceC0B15OptionalFeatureO18roadSurfaceMarkingyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-roadSurfaceMarking" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venueservice-venueoptionalfeature#sdk-for-ios-explore-s-7heresdk12VenueServiceC0B15OptionalFeatureO18roadSurfaceMarkingyA2EmF" class="token"><code>roadSurfaceMarking</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Optional features enum
 
 - <div>
 
-  ` `<span id="/s:7heresdk12VenueServiceC0B15OptionalFeatureO9crosswalkyA2EmF"></span>` `<span id="//apple_ref/swift/Element/crosswalk" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venueservice-venueoptionalfeature#/s:7heresdk12VenueServiceC0B15OptionalFeatureO9crosswalkyA2EmF" class="token"><code>crosswalk</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12VenueServiceC0B15OptionalFeatureO9crosswalkyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-crosswalk" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venueservice-venueoptionalfeature#sdk-for-ios-explore-s-7heresdk12VenueServiceC0B15OptionalFeatureO9crosswalkyA2EmF" class="token"><code>crosswalk</code></a> 
 
   </div>
 

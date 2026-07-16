@@ -37,7 +37,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      create(context: name: tileSource: )
+   <span id="sdk-for-ios-explore-s-7heresdk21PolygonTileDataSourceC6create7context4name04tileE0AcA10MapContextC_SSAA0bcE0_ptFZ"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-create-context-name-tileSource" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-polygontiledatasource#sdk-for-ios-explore-s-7heresdk21PolygonTileDataSourceC6create7context4name04tileE0AcA10MapContextC_SSAA0bcE0_ptFZ" class="token"><code>create(context:</code><wbr></wbr><code>name:</code><wbr></wbr><code>tileSource:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -68,12 +68,15 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public static func create ( context : MapContext , name : String , tileSource : PolygonTileSource ) -> PolygonTileDataSource
+  public static func create(context: MapContext, name: String, tileSource: PolygonTileSource) -> PolygonTileDataSource
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-mapcontext">MapContext</a>
+  - <a href="sdk-for-ios-explore-protocols-polygontilesource">PolygonTileSource</a>
 
   </div>
 

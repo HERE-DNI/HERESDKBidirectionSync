@@ -27,7 +27,7 @@ Technology or provider of the location.
 
 - <div>
 
-  ` `<span id="/s:7heresdk18LocationTechnologyO8cellularyA2CmF"></span>` `<span id="//apple_ref/swift/Element/cellular" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-locationtechnology#/s:7heresdk18LocationTechnologyO8cellularyA2CmF" class="token"><code>cellular</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18LocationTechnologyO8cellularyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-cellular" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-locationtechnology#sdk-for-ios-navigate-s-7heresdk18LocationTechnologyO8cellularyA2CmF" class="token"><code>cellular</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Technology or provider of the location.
 
 - <div>
 
-  ` `<span id="/s:7heresdk18LocationTechnologyO4gnssyA2CmF"></span>` `<span id="//apple_ref/swift/Element/gnss" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-locationtechnology#/s:7heresdk18LocationTechnologyO4gnssyA2CmF" class="token"><code>gnss</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18LocationTechnologyO4gnssyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-gnss" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-locationtechnology#sdk-for-ios-navigate-s-7heresdk18LocationTechnologyO4gnssyA2CmF" class="token"><code>gnss</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Technology or provider of the location.
 
 - <div>
 
-  ` `<span id="/s:7heresdk18LocationTechnologyO6hdGnssyA2CmF"></span>` `<span id="//apple_ref/swift/Element/hdGnss" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-locationtechnology#/s:7heresdk18LocationTechnologyO6hdGnssyA2CmF" class="token"><code>hdGnss</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18LocationTechnologyO6hdGnssyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-hdGnss" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-locationtechnology#sdk-for-ios-navigate-s-7heresdk18LocationTechnologyO6hdGnssyA2CmF" class="token"><code>hdGnss</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Technology or provider of the location.
 
 - <div>
 
-  ` `<span id="/s:7heresdk18LocationTechnologyO4wifiyA2CmF"></span>` `<span id="//apple_ref/swift/Element/wifi" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-locationtechnology#/s:7heresdk18LocationTechnologyO4wifiyA2CmF" class="token"><code>wifi</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18LocationTechnologyO4wifiyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-wifi" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-locationtechnology#sdk-for-ios-navigate-s-7heresdk18LocationTechnologyO4wifiyA2CmF" class="token"><code>wifi</code></a> 
 
   </div>
 
@@ -203,7 +203,7 @@ Technology or provider of the location.
 
 - <div>
 
-  ` `<span id="/s:7heresdk18LocationTechnologyO13deadReckoningyA2CmF"></span>` `<span id="//apple_ref/swift/Element/deadReckoning" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-locationtechnology#/s:7heresdk18LocationTechnologyO13deadReckoningyA2CmF" class="token"><code>deadReckoning</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18LocationTechnologyO13deadReckoningyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-deadReckoning" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-locationtechnology#sdk-for-ios-navigate-s-7heresdk18LocationTechnologyO13deadReckoningyA2CmF" class="token"><code>deadReckoning</code></a> 
 
   </div>
 

@@ -27,7 +27,7 @@ The options to specify a user-planned charging stop. **Note:** In order to speci
 
 - <div>
 
-  ` `<span id="/s:7heresdk12ChargingStopV16powerInKilowattsSdvp"></span>` `<span id="//apple_ref/swift/Property/powerInKilowatts" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-chargingstop#/s:7heresdk12ChargingStopV16powerInKilowattsSdvp" class="token"><code>powerInKilowatts</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12ChargingStopV16powerInKilowattsSdvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-powerInKilowatts" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-chargingstop#sdk-for-ios-explore-s-7heresdk12ChargingStopV16powerInKilowattsSdvp" class="token"><code>powerInKilowatts</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ The options to specify a user-planned charging stop. **Note:** In order to speci
 
 - <div>
 
-  ` `<span id="/s:7heresdk12ChargingStopV16currentInAmperesSdvp"></span>` `<span id="//apple_ref/swift/Property/currentInAmperes" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-chargingstop#/s:7heresdk12ChargingStopV16currentInAmperesSdvp" class="token"><code>currentInAmperes</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12ChargingStopV16currentInAmperesSdvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-currentInAmperes" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-chargingstop#sdk-for-ios-explore-s-7heresdk12ChargingStopV16currentInAmperesSdvp" class="token"><code>currentInAmperes</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ The options to specify a user-planned charging stop. **Note:** In order to speci
 
 - <div>
 
-  ` `<span id="/s:7heresdk12ChargingStopV14voltageInVoltsSdvp"></span>` `<span id="//apple_ref/swift/Property/voltageInVolts" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-chargingstop#/s:7heresdk12ChargingStopV14voltageInVoltsSdvp" class="token"><code>voltageInVolts</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12ChargingStopV14voltageInVoltsSdvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-voltageInVolts" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-chargingstop#sdk-for-ios-explore-s-7heresdk12ChargingStopV14voltageInVoltsSdvp" class="token"><code>voltageInVolts</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ The options to specify a user-planned charging stop. **Note:** In order to speci
 
 - <div>
 
-  ` `<span id="/s:7heresdk12ChargingStopV10supplyTypeAA0b6SupplyE0OSgvp"></span>` `<span id="//apple_ref/swift/Property/supplyType" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-chargingstop#/s:7heresdk12ChargingStopV10supplyTypeAA0b6SupplyE0OSgvp" class="token"><code>supplyType</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12ChargingStopV10supplyTypeAA0b6SupplyE0OSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-supplyType" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-chargingstop#sdk-for-ios-explore-s-7heresdk12ChargingStopV10supplyTypeAA0b6SupplyE0OSgvp" class="token"><code>supplyType</code></a> 
 
   </div>
 
@@ -195,6 +195,10 @@ The options to specify a user-planned charging stop. **Note:** In order to speci
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-chargingsupplytype">ChargingSupplyType</a>
+
   </div>
 
   </div>
@@ -203,7 +207,7 @@ The options to specify a user-planned charging stop. **Note:** In order to speci
 
 - <div>
 
-  ` `<span id="/s:7heresdk12ChargingStopV11minDurationSdSgvp"></span>` `<span id="//apple_ref/swift/Property/minDuration" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-chargingstop#/s:7heresdk12ChargingStopV11minDurationSdSgvp" class="token"><code>minDuration</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12ChargingStopV11minDurationSdSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-minDuration" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-chargingstop#sdk-for-ios-explore-s-7heresdk12ChargingStopV11minDurationSdSgvp" class="token"><code>minDuration</code></a> 
 
   </div>
 
@@ -221,7 +225,7 @@ The options to specify a user-planned charging stop. **Note:** In order to speci
 
   <div class="abstract">
 
-  The minimum duration the user expects to charge at the station, including <a href="sdk-for-ios-explore-structs-batteryspecifications#/s:7heresdk21BatterySpecificationsV21chargingSetupDurationSdvp">`BatterySpecifications.chargingSetupDuration`</a>. **Note:** At least one of `min_duration` and `max_duration` is required for a user-planned charging stop. For most use cases, providing at least `min_duration` is recommended.
+  The minimum duration the user expects to charge at the station, including <a href="sdk-for-ios-explore-structs-batteryspecifications#sdk-for-ios-explore-s-7heresdk21BatterySpecificationsV21chargingSetupDurationSdvp">`BatterySpecifications.chargingSetupDuration`</a>. **Note:** At least one of `min_duration` and `max_duration` is required for a user-planned charging stop. For most use cases, providing at least `min_duration` is recommended.
 
   </div>
 
@@ -247,7 +251,7 @@ The options to specify a user-planned charging stop. **Note:** In order to speci
 
 - <div>
 
-  ` `<span id="/s:7heresdk12ChargingStopV11maxDurationSdSgvp"></span>` `<span id="//apple_ref/swift/Property/maxDuration" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-chargingstop#/s:7heresdk12ChargingStopV11maxDurationSdSgvp" class="token"><code>maxDuration</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12ChargingStopV11maxDurationSdSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-maxDuration" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-chargingstop#sdk-for-ios-explore-s-7heresdk12ChargingStopV11maxDurationSdSgvp" class="token"><code>maxDuration</code></a> 
 
   </div>
 
@@ -265,7 +269,7 @@ The options to specify a user-planned charging stop. **Note:** In order to speci
 
   <div class="abstract">
 
-  The maximum duration the user plans to charge at the station, including <a href="sdk-for-ios-explore-structs-batteryspecifications#/s:7heresdk21BatterySpecificationsV21chargingSetupDurationSdvp">`BatterySpecifications.chargingSetupDuration`</a>. **Note:** At least one of `min_duration` and `max_duration` is required for a user-planned charging stop. For most use cases, providing at least `min_duration` is recommended.
+  The maximum duration the user plans to charge at the station, including <a href="sdk-for-ios-explore-structs-batteryspecifications#sdk-for-ios-explore-s-7heresdk21BatterySpecificationsV21chargingSetupDurationSdvp">`BatterySpecifications.chargingSetupDuration`</a>. **Note:** At least one of `min_duration` and `max_duration` is required for a user-planned charging stop. For most use cases, providing at least `min_duration` is recommended.
 
   </div>
 
@@ -291,7 +295,7 @@ The options to specify a user-planned charging stop. **Note:** In order to speci
 
 - <div>
 
-      init(powerInKilowatts: currentInAmperes: voltageInVolts: supplyType: minDuration: maxDuration: )
+   <span id="sdk-for-ios-explore-s-7heresdk12ChargingStopV16powerInKilowatts07currentE7Amperes07voltageE5Volts10supplyType11minDuration03maxN0ACSd_S2dAA0b6SupplyL0OSgSdSgAMtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-powerInKilowatts-currentInAmperes-voltageInVolts-supplyType-minDuration-maxDuration" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-chargingstop#sdk-for-ios-explore-s-7heresdk12ChargingStopV16powerInKilowatts07currentE7Amperes07voltageE5Volts10supplyType11minDuration03maxN0ACSd_S2dAA0b6SupplyL0OSgSdSgAMtcfc" class="token"><code>init(powerInKilowatts:</code><wbr></wbr><code>currentInAmperes:</code><wbr></wbr><code>voltageInVolts:</code><wbr></wbr><code>supplyType:</code><wbr></wbr><code>minDuration:</code><wbr></wbr><code>maxDuration:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -322,12 +326,14 @@ The options to specify a user-planned charging stop. **Note:** In order to speci
   Swift
 
   ``` highlight
-  public init ( powerInKilowatts : Double = 0.0 , currentInAmperes : Double = 0.0 , voltageInVolts : Double = 0.0 , supplyType : ChargingSupplyType ? = nil , minDuration : TimeInterval ? = nil , maxDuration : TimeInterval ? = nil )
+  public init(powerInKilowatts: Double = 0.0, currentInAmperes: Double = 0.0, voltageInVolts: Double = 0.0, supplyType: ChargingSupplyType? = nil, minDuration: TimeInterval? = nil, maxDuration: TimeInterval? = nil)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-chargingsupplytype">ChargingSupplyType</a>
 
   </div>
 

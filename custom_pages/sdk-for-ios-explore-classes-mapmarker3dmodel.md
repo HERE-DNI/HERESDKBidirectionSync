@@ -61,7 +61,7 @@ A 3D mesh can be specified programatically using <a href="sdk-for-ios-explore-cl
 
 - <div>
 
-  ` `<span id="/s:7heresdk16MapMarker3DModelC18InstantiationErrora"></span>` `<span id="//apple_ref/swift/Alias/InstantiationError" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-mapmarker3dmodel#/s:7heresdk16MapMarker3DModelC18InstantiationErrora" class="token"><code>InstantiationError</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16MapMarker3DModelC18InstantiationErrora"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Alias-InstantiationError" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapmarker3dmodel#sdk-for-ios-explore-s-7heresdk16MapMarker3DModelC18InstantiationErrora" class="token"><code>InstantiationError</code></a> 
 
   </div>
 
@@ -97,6 +97,10 @@ A 3D mesh can be specified programatically using <a href="sdk-for-ios-explore-cl
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-mapmarker3dmodel-instantiationerrorcode">InstantiationErrorCode</a>
+
   </div>
 
   </div>
@@ -105,7 +109,7 @@ A 3D mesh can be specified programatically using <a href="sdk-for-ios-explore-cl
 
 - <div>
 
-      init(geometryFilePath: textureFilePath: color: )
+   <span id="sdk-for-ios-explore-s-7heresdk16MapMarker3DModelC16geometryFilePath07texturefG05colorACSS_SSSo7UIColorCtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-geometryFilePath-textureFilePath-color" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapmarker3dmodel#sdk-for-ios-explore-s-7heresdk16MapMarker3DModelC16geometryFilePath07texturefG05colorACSS_SSSo7UIColorCtcfc" class="token"><code>init(geometryFilePath:</code><wbr></wbr><code>textureFilePath:</code><wbr></wbr><code>color:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -136,10 +140,8 @@ A 3D mesh can be specified programatically using <a href="sdk-for-ios-explore-cl
   Swift
 
   ``` highlight
-  public init ( geometryFilePath : String , textureFilePath : String , color : UIColor )
+  public init(geometryFilePath: String, textureFilePath: String, color: UIColor)
   ```
-
-  </pre>
 
   </div>
 
@@ -184,7 +186,7 @@ A 3D mesh can be specified programatically using <a href="sdk-for-ios-explore-cl
 
 - <div>
 
-      init(mesh: textureFilePath: color: )
+   <span id="sdk-for-ios-explore-s-7heresdk16MapMarker3DModelC4mesh15textureFilePath5colorAcA4MeshC_SSSo7UIColorCtKcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-mesh-textureFilePath-color" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapmarker3dmodel#sdk-for-ios-explore-s-7heresdk16MapMarker3DModelC4mesh15textureFilePath5colorAcA4MeshC_SSSo7UIColorCtKcfc" class="token"><code>init(mesh:</code><wbr></wbr><code>textureFilePath:</code><wbr></wbr><code>color:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -208,7 +210,7 @@ A 3D mesh can be specified programatically using <a href="sdk-for-ios-explore-cl
 
   Throws
 
-  <a href="sdk-for-ios-explore-classes-mapmarker3dmodel#/s:7heresdk16MapMarker3DModelC18InstantiationErrora">`MapMarker3DModel.InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
+  <a href="sdk-for-ios-explore-classes-mapmarker3dmodel#sdk-for-ios-explore-s-7heresdk16MapMarker3DModelC18InstantiationErrora">`MapMarker3DModel.InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
 
   </div>
 
@@ -223,12 +225,14 @@ A 3D mesh can be specified programatically using <a href="sdk-for-ios-explore-cl
   Swift
 
   ``` highlight
-  public init ( mesh : Mesh , textureFilePath : String , color : UIColor ) throws
+  public init(mesh: Mesh, textureFilePath: String, color: UIColor) throws
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk4MeshC">Mesh</a>
 
   </div>
 
@@ -271,7 +275,7 @@ A 3D mesh can be specified programatically using <a href="sdk-for-ios-explore-cl
 
 - <div>
 
-      init(geometryFilePath: textureFilePath: )
+   <span id="sdk-for-ios-explore-s-7heresdk16MapMarker3DModelC16geometryFilePath07texturefG0ACSS_SStcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-geometryFilePath-textureFilePath" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapmarker3dmodel#sdk-for-ios-explore-s-7heresdk16MapMarker3DModelC16geometryFilePath07texturefG0ACSS_SStcfc" class="token"><code>init(geometryFilePath:</code><wbr></wbr><code>textureFilePath:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -302,10 +306,8 @@ A 3D mesh can be specified programatically using <a href="sdk-for-ios-explore-cl
   Swift
 
   ``` highlight
-  public init ( geometryFilePath : String , textureFilePath : String )
+  public init(geometryFilePath: String, textureFilePath: String)
   ```
-
-  </pre>
 
   </div>
 
@@ -344,7 +346,7 @@ A 3D mesh can be specified programatically using <a href="sdk-for-ios-explore-cl
 
 - <div>
 
-      init(mesh: textureFilePath: )
+   <span id="sdk-for-ios-explore-s-7heresdk16MapMarker3DModelC4mesh15textureFilePathAcA4MeshC_SStKcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-mesh-textureFilePath" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapmarker3dmodel#sdk-for-ios-explore-s-7heresdk16MapMarker3DModelC4mesh15textureFilePathAcA4MeshC_SStKcfc" class="token"><code>init(mesh:</code><wbr></wbr><code>textureFilePath:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -368,7 +370,7 @@ A 3D mesh can be specified programatically using <a href="sdk-for-ios-explore-cl
 
   Throws
 
-  <a href="sdk-for-ios-explore-classes-mapmarker3dmodel#/s:7heresdk16MapMarker3DModelC18InstantiationErrora">`MapMarker3DModel.InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
+  <a href="sdk-for-ios-explore-classes-mapmarker3dmodel#sdk-for-ios-explore-s-7heresdk16MapMarker3DModelC18InstantiationErrora">`MapMarker3DModel.InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
 
   </div>
 
@@ -383,12 +385,14 @@ A 3D mesh can be specified programatically using <a href="sdk-for-ios-explore-cl
   Swift
 
   ``` highlight
-  public init ( mesh : Mesh , textureFilePath : String ) throws
+  public init(mesh: Mesh, textureFilePath: String) throws
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk4MeshC">Mesh</a>
 
   </div>
 
@@ -425,7 +429,7 @@ A 3D mesh can be specified programatically using <a href="sdk-for-ios-explore-cl
 
 - <div>
 
-      init(geometryFilePath: )
+   <span id="sdk-for-ios-explore-s-7heresdk16MapMarker3DModelC16geometryFilePathACSS_tcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-geometryFilePath" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapmarker3dmodel#sdk-for-ios-explore-s-7heresdk16MapMarker3DModelC16geometryFilePathACSS_tcfc" class="token"><code>init(geometryFilePath:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -456,10 +460,8 @@ A 3D mesh can be specified programatically using <a href="sdk-for-ios-explore-cl
   Swift
 
   ``` highlight
-  public init ( geometryFilePath : String )
+  public init(geometryFilePath: String)
   ```
-
-  </pre>
 
   </div>
 
@@ -492,7 +494,7 @@ A 3D mesh can be specified programatically using <a href="sdk-for-ios-explore-cl
 
 - <div>
 
-      init(mesh: )
+   <span id="sdk-for-ios-explore-s-7heresdk16MapMarker3DModelC4meshAcA4MeshC_tcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-mesh" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapmarker3dmodel#sdk-for-ios-explore-s-7heresdk16MapMarker3DModelC4meshAcA4MeshC_tcfc" class="token"><code>init(mesh:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -523,12 +525,14 @@ A 3D mesh can be specified programatically using <a href="sdk-for-ios-explore-cl
   Swift
 
   ``` highlight
-  public init ( mesh : Mesh )
+  public init(mesh: Mesh)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk4MeshC">Mesh</a>
 
   </div>
 
@@ -559,7 +563,7 @@ A 3D mesh can be specified programatically using <a href="sdk-for-ios-explore-cl
 
 - <div>
 
-  ` `<span id="/s:7heresdk16MapMarker3DModelC22InstantiationErrorCodeO"></span>` `<span id="//apple_ref/swift/Enum/InstantiationErrorCode" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-mapmarker3dmodel#/s:7heresdk16MapMarker3DModelC22InstantiationErrorCodeO" class="token"><code>InstantiationErrorCode</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16MapMarker3DModelC22InstantiationErrorCodeO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-InstantiationErrorCode" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapmarker3dmodel#sdk-for-ios-explore-s-7heresdk16MapMarker3DModelC22InstantiationErrorCodeO" class="token"><code>InstantiationErrorCode</code></a> 
 
   </div>
 
@@ -600,6 +604,10 @@ A 3D mesh can be specified programatically using <a href="sdk-for-ios-explore-cl
   ```
 
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-mapmarker3dmodel">MapMarker3DModel</a>
 
   </div>
 

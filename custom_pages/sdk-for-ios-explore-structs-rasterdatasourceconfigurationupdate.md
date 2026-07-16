@@ -27,7 +27,7 @@ Configuration update for a RasterDataSource.
 
 - <div>
 
-  ` `<span id="/s:7heresdk35RasterDataSourceConfigurationUpdateV15providerHeadersSDyS2SGSgvp"></span>` `<span id="//apple_ref/swift/Property/providerHeaders" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-rasterdatasourceconfigurationupdate#/s:7heresdk35RasterDataSourceConfigurationUpdateV15providerHeadersSDyS2SGSgvp" class="token"><code>providerHeaders</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk35RasterDataSourceConfigurationUpdateV15providerHeadersSDyS2SGSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-providerHeaders" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-rasterdatasourceconfigurationupdate#sdk-for-ios-explore-s-7heresdk35RasterDataSourceConfigurationUpdateV15providerHeadersSDyS2SGSgvp" class="token"><code>providerHeaders</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Configuration update for a RasterDataSource.
 
 - <div>
 
-  ` `<span id="/s:7heresdk35RasterDataSourceConfigurationUpdateV013ignoreExpiredC0SbSgvp"></span>` `<span id="//apple_ref/swift/Property/ignoreExpiredData" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-rasterdatasourceconfigurationupdate#/s:7heresdk35RasterDataSourceConfigurationUpdateV013ignoreExpiredC0SbSgvp" class="token"><code>ignoreExpiredData</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk35RasterDataSourceConfigurationUpdateV013ignoreExpiredC0SbSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-ignoreExpiredData" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-rasterdatasourceconfigurationupdate#sdk-for-ios-explore-s-7heresdk35RasterDataSourceConfigurationUpdateV013ignoreExpiredC0SbSgvp" class="token"><code>ignoreExpiredData</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Configuration update for a RasterDataSource.
 
 - <div>
 
-  ` `<span id="/s:7heresdk35RasterDataSourceConfigurationUpdateV13cacheDiskSizes5Int64VSgvp"></span>` `<span id="//apple_ref/swift/Property/cacheDiskSize" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-rasterdatasourceconfigurationupdate#/s:7heresdk35RasterDataSourceConfigurationUpdateV13cacheDiskSizes5Int64VSgvp" class="token"><code>cacheDiskSize</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk35RasterDataSourceConfigurationUpdateV13cacheDiskSizes5Int64VSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-cacheDiskSize" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-rasterdatasourceconfigurationupdate#sdk-for-ios-explore-s-7heresdk35RasterDataSourceConfigurationUpdateV13cacheDiskSizes5Int64VSgvp" class="token"><code>cacheDiskSize</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Configuration update for a RasterDataSource.
 
 - <div>
 
-      init(providerHeaders: ignoreExpiredData: cacheDiskSize: )
+   <span id="sdk-for-ios-explore-s-7heresdk35RasterDataSourceConfigurationUpdateV15providerHeaders013ignoreExpiredC013cacheDiskSizeACSDyS2SGSg_SbSgs5Int64VSgtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-providerHeaders-ignoreExpiredData-cacheDiskSize" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-rasterdatasourceconfigurationupdate#sdk-for-ios-explore-s-7heresdk35RasterDataSourceConfigurationUpdateV15providerHeaders013ignoreExpiredC013cacheDiskSizeACSDyS2SGSg_SbSgs5Int64VSgtcfc" class="token"><code>init(providerHeaders:</code><wbr></wbr><code>ignoreExpiredData:</code><wbr></wbr><code>cacheDiskSize:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -190,10 +190,8 @@ Configuration update for a RasterDataSource.
   Swift
 
   ``` highlight
-  public init ( providerHeaders : [ String : String ]? = nil , ignoreExpiredData : Bool ? = nil , cacheDiskSize : Int64 ? = nil )
+  public init(providerHeaders: [String : String]? = nil, ignoreExpiredData: Bool? = nil, cacheDiskSize: Int64? = nil)
   ```
-
-  </pre>
 
   </div>
 

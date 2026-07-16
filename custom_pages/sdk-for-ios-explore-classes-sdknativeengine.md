@@ -49,7 +49,7 @@ You can initialize the HERE SDK in two ways:
 
 - <div>
 
-      init(options: )
+   <span id="sdk-for-ios-explore-s-7heresdk15SDKNativeEngineC7optionsAcA10SDKOptionsV_tKcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-options" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-sdknativeengine#sdk-for-ios-explore-s-7heresdk15SDKNativeEngineC7optionsAcA10SDKOptionsV_tKcfc" class="token"><code>init(options:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -73,7 +73,7 @@ You can initialize the HERE SDK in two ways:
 
   Throws
 
-  <a href="sdk-for-ios-explore-core#/s:7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
+  <a href="sdk-for-ios-explore-core#sdk-for-ios-explore-s-7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
 
   </div>
 
@@ -88,12 +88,14 @@ You can initialize the HERE SDK in two ways:
   Swift
 
   ``` highlight
-  public init ( options : SDKOptions ) throws
+  public init(options: SDKOptions) throws
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-sdkoptions">SDKOptions</a>
 
   </div>
 
@@ -124,7 +126,7 @@ You can initialize the HERE SDK in two ways:
 
 - <div>
 
-  ` `<span id="/s:7heresdk15SDKNativeEngineC7optionsAA10SDKOptionsVvp"></span>` `<span id="//apple_ref/swift/Property/options" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-sdknativeengine#/s:7heresdk15SDKNativeEngineC7optionsAA10SDKOptionsVvp" class="token"><code>options</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15SDKNativeEngineC7optionsAA10SDKOptionsVvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-options" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-sdknativeengine#sdk-for-ios-explore-s-7heresdk15SDKNativeEngineC7optionsAA10SDKOptionsVvp" class="token"><code>options</code></a> 
 
   </div>
 
@@ -160,6 +162,10 @@ You can initialize the HERE SDK in two ways:
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-sdkoptions">SDKOptions</a>
+
   </div>
 
   </div>
@@ -168,7 +174,7 @@ You can initialize the HERE SDK in two ways:
 
 - <div>
 
-  ` `<span id="/s:7heresdk15SDKNativeEngineC14sharedInstanceACSgvpZ"></span>` `<span id="//apple_ref/swift/Variable/sharedInstance" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-sdknativeengine#/s:7heresdk15SDKNativeEngineC14sharedInstanceACSgvpZ" class="token"><code>sharedInstance</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15SDKNativeEngineC14sharedInstanceACSgvpZ"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Variable-sharedInstance" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-sdknativeengine#sdk-for-ios-explore-s-7heresdk15SDKNativeEngineC14sharedInstanceACSgvpZ" class="token"><code>sharedInstance</code></a> 
 
   </div>
 
@@ -212,7 +218,7 @@ You can initialize the HERE SDK in two ways:
 
 - <div>
 
-  ` `<span id="/s:7heresdk15SDKNativeEngineC13isOfflineModeSbvp"></span>` `<span id="//apple_ref/swift/Property/isOfflineMode" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-sdknativeengine#/s:7heresdk15SDKNativeEngineC13isOfflineModeSbvp" class="token"><code>isOfflineMode</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15SDKNativeEngineC13isOfflineModeSbvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-isOfflineMode" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-sdknativeengine#sdk-for-ios-explore-s-7heresdk15SDKNativeEngineC13isOfflineModeSbvp" class="token"><code>isOfflineMode</code></a> 
 
   </div>
 
@@ -230,7 +236,7 @@ You can initialize the HERE SDK in two ways:
 
   <div class="abstract">
 
-  The offline mode. Sets offline mode for the HERE SDK to offline or online. Defaults to false, which means the HERE SDK uses an online connection. When enabled, this prevents the HERE SDK from initiating any online connection except for provided pass through features if set. See <a href="sdk-for-ios-explore-classes-sdknativeengine#/s:7heresdk15SDKNativeEngineC19passThroughFeaturesShyAA04PassE7FeatureOGSgvp">`SDKNativeEngine.passThroughFeatures`</a>. Note that the flag does not cancel pending requests. The mode can be enabled or disabled at any time. In order to fully operate offline, the mode needs to be enabled via <a href="sdk-for-ios-explore-structs-sdkoptions#/s:7heresdk10SDKOptionsV11offlineModeSbvp">`SDKOptions.offlineMode`</a>. Initialization of the HERE SDK itself does not require an internet connection. Returns `true` if the HERE SDK uses offline connection mode, otherwise returns `false`.
+  The offline mode. Sets offline mode for the HERE SDK to offline or online. Defaults to false, which means the HERE SDK uses an online connection. When enabled, this prevents the HERE SDK from initiating any online connection except for provided pass through features if set. See <a href="sdk-for-ios-explore-classes-sdknativeengine#sdk-for-ios-explore-s-7heresdk15SDKNativeEngineC19passThroughFeaturesShyAA04PassE7FeatureOGSgvp">`SDKNativeEngine.passThroughFeatures`</a>. Note that the flag does not cancel pending requests. The mode can be enabled or disabled at any time. In order to fully operate offline, the mode needs to be enabled via <a href="sdk-for-ios-explore-structs-sdkoptions#sdk-for-ios-explore-s-7heresdk10SDKOptionsV11offlineModeSbvp">`SDKOptions.offlineMode`</a>. Initialization of the HERE SDK itself does not require an internet connection. Returns `true` if the HERE SDK uses offline connection mode, otherwise returns `false`.
 
   Note: This is a **beta** release of this feature, so there could be a few bugs and unexpected behaviors. Related APIs may change for new releases without a deprecation process.
 
@@ -258,7 +264,7 @@ You can initialize the HERE SDK in two ways:
 
 - <div>
 
-  ` `<span id="/s:7heresdk15SDKNativeEngineC19passThroughFeaturesShyAA04PassE7FeatureOGSgvp"></span>` `<span id="//apple_ref/swift/Property/passThroughFeatures" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-sdknativeengine#/s:7heresdk15SDKNativeEngineC19passThroughFeaturesShyAA04PassE7FeatureOGSgvp" class="token"><code>passThroughFeatures</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15SDKNativeEngineC19passThroughFeaturesShyAA04PassE7FeatureOGSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-passThroughFeatures" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-sdknativeengine#sdk-for-ios-explore-s-7heresdk15SDKNativeEngineC19passThroughFeaturesShyAA04PassE7FeatureOGSgvp" class="token"><code>passThroughFeatures</code></a> 
 
   </div>
 
@@ -296,6 +302,10 @@ You can initialize the HERE SDK in two ways:
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-passthroughfeature">PassThroughFeature</a>
+
   </div>
 
   </div>
@@ -304,7 +314,7 @@ You can initialize the HERE SDK in two ways:
 
 - <div>
 
-  ` `<span id="/s:7heresdk15SDKNativeEngineC15parameterConfigAA22ParameterConfigurationVvpZ"></span>` `<span id="//apple_ref/swift/Variable/parameterConfig" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-sdknativeengine#/s:7heresdk15SDKNativeEngineC15parameterConfigAA22ParameterConfigurationVvpZ" class="token"><code>parameterConfig</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15SDKNativeEngineC15parameterConfigAA22ParameterConfigurationVvpZ"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Variable-parameterConfig" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-sdknativeengine#sdk-for-ios-explore-s-7heresdk15SDKNativeEngineC15parameterConfigAA22ParameterConfigurationVvpZ" class="token"><code>parameterConfig</code></a> 
 
   </div>
 
@@ -340,6 +350,10 @@ You can initialize the HERE SDK in two ways:
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-parameterconfiguration">ParameterConfiguration</a>
+
   </div>
 
   </div>
@@ -348,7 +362,7 @@ You can initialize the HERE SDK in two ways:
 
 - <div>
 
-  ` `<span id="/s:7heresdk15SDKNativeEngineC13proxySettingsAA05ProxyE0VSgvp"></span>` `<span id="//apple_ref/swift/Property/proxySettings" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-sdknativeengine#/s:7heresdk15SDKNativeEngineC13proxySettingsAA05ProxyE0VSgvp" class="token"><code>proxySettings</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15SDKNativeEngineC13proxySettingsAA05ProxyE0VSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-proxySettings" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-sdknativeengine#sdk-for-ios-explore-s-7heresdk15SDKNativeEngineC13proxySettingsAA05ProxyE0VSgvp" class="token"><code>proxySettings</code></a> 
 
   </div>
 
@@ -366,7 +380,7 @@ You can initialize the HERE SDK in two ways:
 
   <div class="abstract">
 
-  Proxy settings of this SDK engine that will be used by HERE SDK network for all requests. Defaults to (`nil`), which indicates proxy is not enabled. When setting proxy settings, they will immediately be applied and all the pending and fresh requests will use these settings. Pass (`nil`) to indicate that proxy should be disabled. If proxy is necessary from the start then it’s recommended to use <a href="sdk-for-ios-explore-structs-networksettings#/s:7heresdk15NetworkSettingsV05proxyC0AA05ProxyC0VSgvp">`NetworkSettings.proxySettings`</a> in <a href="sdk-for-ios-explore-structs-sdkoptions#/s:7heresdk10SDKOptionsV15networkSettingsAA07NetworkD0Vvp">`SDKOptions.networkSettings`</a>.
+  Proxy settings of this SDK engine that will be used by HERE SDK network for all requests. Defaults to (`nil`), which indicates proxy is not enabled. When setting proxy settings, they will immediately be applied and all the pending and fresh requests will use these settings. Pass (`nil`) to indicate that proxy should be disabled. If proxy is necessary from the start then it’s recommended to use <a href="sdk-for-ios-explore-structs-networksettings#sdk-for-ios-explore-s-7heresdk15NetworkSettingsV05proxyC0AA05ProxyC0VSgvp">`NetworkSettings.proxySettings`</a> in <a href="sdk-for-ios-explore-structs-sdkoptions#sdk-for-ios-explore-s-7heresdk10SDKOptionsV15networkSettingsAA07NetworkD0Vvp">`SDKOptions.networkSettings`</a>.
 
   **Note:** This is a beta release of this feature, so there could be a few bugs and unexpected behaviors. Related APIs may change for new releases without a deprecation process.
 
@@ -386,6 +400,10 @@ You can initialize the HERE SDK in two ways:
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-proxysettings">ProxySettings</a>
+
   </div>
 
   </div>
@@ -394,7 +412,7 @@ You can initialize the HERE SDK in two ways:
 
 - <div>
 
-  ` `<span id="/s:7heresdk15SDKNativeEngineC13sdkUsageStatsSayAA0eF0VGvp"></span>` `<span id="//apple_ref/swift/Property/sdkUsageStats" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-sdknativeengine#/s:7heresdk15SDKNativeEngineC13sdkUsageStatsSayAA0eF0VGvp" class="token"><code>sdkUsageStats</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15SDKNativeEngineC13sdkUsageStatsSayAA0eF0VGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-sdkUsageStats" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-sdknativeengine#sdk-for-ios-explore-s-7heresdk15SDKNativeEngineC13sdkUsageStatsSayAA0eF0VGvp" class="token"><code>sdkUsageStats</code></a> 
 
   </div>
 
@@ -432,6 +450,10 @@ You can initialize the HERE SDK in two ways:
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-usagestats">UsageStats</a>
+
   </div>
 
   </div>
@@ -440,7 +462,7 @@ You can initialize the HERE SDK in two ways:
 
 - <div>
 
-  ` `<span id="/s:7heresdk15SDKNativeEngineC19PurgeMemoryStrategyO"></span>` `<span id="//apple_ref/swift/Enum/PurgeMemoryStrategy" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-sdknativeengine#/s:7heresdk15SDKNativeEngineC19PurgeMemoryStrategyO" class="token"><code>PurgeMemoryStrategy</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15SDKNativeEngineC19PurgeMemoryStrategyO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-PurgeMemoryStrategy" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-sdknativeengine#sdk-for-ios-explore-s-7heresdk15SDKNativeEngineC19PurgeMemoryStrategyO" class="token"><code>PurgeMemoryStrategy</code></a> 
 
   </div>
 
@@ -486,7 +508,7 @@ You can initialize the HERE SDK in two ways:
 
 - <div>
 
-      setAccessKeySecret(accessKeySecret: )
+   <span id="sdk-for-ios-explore-s-7heresdk15SDKNativeEngineC18setAccessKeySecret06accessfG0ySS_tF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-setAccessKeySecret-accessKeySecret" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-sdknativeengine#sdk-for-ios-explore-s-7heresdk15SDKNativeEngineC18setAccessKeySecret06accessfG0ySS_tF" class="token"><code>setAccessKeySecret(accessKeySecret:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -519,10 +541,8 @@ You can initialize the HERE SDK in two ways:
   Swift
 
   ``` highlight
-  public func setAccessKeySecret ( accessKeySecret : String )
+  public func setAccessKeySecret(accessKeySecret: String)
   ```
-
-  </pre>
 
   </div>
 
@@ -555,7 +575,7 @@ You can initialize the HERE SDK in two ways:
 
 - <div>
 
-      setAccessScope(scope: )
+   <span id="sdk-for-ios-explore-s-7heresdk15SDKNativeEngineC14setAccessScope5scopeySS_tF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-setAccessScope-scope" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-sdknativeengine#sdk-for-ios-explore-s-7heresdk15SDKNativeEngineC14setAccessScope5scopeySS_tF" class="token"><code>setAccessScope(scope:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -588,10 +608,8 @@ You can initialize the HERE SDK in two ways:
   Swift
 
   ``` highlight
-  public func setAccessScope ( scope : String )
+  public func setAccessScope(scope: String)
   ```
-
-  </pre>
 
   </div>
 
@@ -624,7 +642,7 @@ You can initialize the HERE SDK in two ways:
 
 - <div>
 
-      enableUsageStats(enabled: )
+   <span id="sdk-for-ios-explore-s-7heresdk15SDKNativeEngineC16enableUsageStats7enabledySb_tF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-enableUsageStats-enabled" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-sdknativeengine#sdk-for-ios-explore-s-7heresdk15SDKNativeEngineC16enableUsageStats7enabledySb_tF" class="token"><code>enableUsageStats(enabled:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -662,10 +680,8 @@ You can initialize the HERE SDK in two ways:
   Swift
 
   ``` highlight
-  public func enableUsageStats ( enabled : Bool )
+  public func enableUsageStats(enabled: Bool)
   ```
-
-  </pre>
 
   </div>
 
@@ -698,7 +714,7 @@ You can initialize the HERE SDK in two ways:
 
 - <div>
 
-      makeSharedInstance(options: )
+   <span id="sdk-for-ios-explore-s-7heresdk15SDKNativeEngineC18makeSharedInstance7optionsyAA10SDKOptionsV_tKFZ"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-makeSharedInstance-options" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-sdknativeengine#sdk-for-ios-explore-s-7heresdk15SDKNativeEngineC18makeSharedInstance7optionsyAA10SDKOptionsV_tKFZ" class="token"><code>makeSharedInstance(options:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -716,13 +732,13 @@ You can initialize the HERE SDK in two ways:
 
   <div class="abstract">
 
-  Makes a new instance of SDKNativeEngine using supplied options and stores it as shared instance see <a href="sdk-for-ios-explore-classes-sdknativeengine#/s:7heresdk15SDKNativeEngineC14sharedInstanceACSgvpZ">`SDKNativeEngine.sharedInstance`</a>. If there was previously shared instance then it’s destroyed before new instance is created.
+  Makes a new instance of SDKNativeEngine using supplied options and stores it as shared instance see <a href="sdk-for-ios-explore-classes-sdknativeengine#sdk-for-ios-explore-s-7heresdk15SDKNativeEngineC14sharedInstanceACSgvpZ">`SDKNativeEngine.sharedInstance`</a>. If there was previously shared instance then it’s destroyed before new instance is created.
 
   <div class="aside aside-throws">
 
   Throws
 
-  <a href="sdk-for-ios-explore-core#/s:7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
+  <a href="sdk-for-ios-explore-core#sdk-for-ios-explore-s-7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
 
   </div>
 
@@ -737,12 +753,14 @@ You can initialize the HERE SDK in two ways:
   Swift
 
   ``` highlight
-  public static func makeSharedInstance ( options : SDKOptions ) throws
+  public static func makeSharedInstance(options: SDKOptions) throws
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-sdkoptions">SDKOptions</a>
 
   </div>
 
@@ -773,7 +791,7 @@ You can initialize the HERE SDK in two ways:
 
 - <div>
 
-      clearPersistentUsageStats()
+   <span id="sdk-for-ios-explore-s-7heresdk15SDKNativeEngineC25clearPersistentUsageStatsyyF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-clearPersistentUsageStats" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-sdknativeengine#sdk-for-ios-explore-s-7heresdk15SDKNativeEngineC25clearPersistentUsageStatsyyF" class="token"><code>clearPersistentUsageStats()</code></a> 
 
   </div>
 
@@ -804,10 +822,8 @@ You can initialize the HERE SDK in two ways:
   Swift
 
   ``` highlight
-  public func clearPersistentUsageStats ()
+  public func clearPersistentUsageStats()
   ```
-
-  </pre>
 
   </div>
 
@@ -819,7 +835,7 @@ You can initialize the HERE SDK in two ways:
 
 - <div>
 
-      clearUsageStatsCache()
+   <span id="sdk-for-ios-explore-s-7heresdk15SDKNativeEngineC20clearUsageStatsCacheyyF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-clearUsageStatsCache" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-sdknativeengine#sdk-for-ios-explore-s-7heresdk15SDKNativeEngineC20clearUsageStatsCacheyyF" class="token"><code>clearUsageStatsCache()</code></a> 
 
   </div>
 
@@ -850,10 +866,8 @@ You can initialize the HERE SDK in two ways:
   Swift
 
   ``` highlight
-  public func clearUsageStatsCache ()
+  public func clearUsageStatsCache()
   ```
-
-  </pre>
 
   </div>
 
@@ -865,7 +879,7 @@ You can initialize the HERE SDK in two ways:
 
 - <div>
 
-      purgeMemoryCaches(strategy: )
+   <span id="sdk-for-ios-explore-s-7heresdk15SDKNativeEngineC17purgeMemoryCaches8strategyyAC05PurgeE8StrategyO_tF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-purgeMemoryCaches-strategy" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-sdknativeengine#sdk-for-ios-explore-s-7heresdk15SDKNativeEngineC17purgeMemoryCaches8strategyyAC05PurgeE8StrategyO_tF" class="token"><code>purgeMemoryCaches(strategy:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -896,12 +910,14 @@ You can initialize the HERE SDK in two ways:
   Swift
 
   ``` highlight
-  public func purgeMemoryCaches ( strategy : SDKNativeEngine . PurgeMemoryStrategy )
+  public func purgeMemoryCaches(strategy: SDKNativeEngine.PurgeMemoryStrategy)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-sdknativeengine-purgememorystrategy">PurgeMemoryStrategy</a>
 
   </div>
 
@@ -932,7 +948,7 @@ You can initialize the HERE SDK in two ways:
 
 - <div>
 
-      getDeviceId(completion: )
+   <span id="sdk-for-ios-explore-s-7heresdk15SDKNativeEngineC11getDeviceId10completionyySSc_tF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-getDeviceId-completion" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-sdknativeengine#sdk-for-ios-explore-s-7heresdk15SDKNativeEngineC11getDeviceId10completionyySSc_tF" class="token"><code>getDeviceId(completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -963,12 +979,14 @@ You can initialize the HERE SDK in two ways:
   Swift
 
   ``` highlight
-  public func getDeviceId ( completion : @escaping DeviceIdHandle )
+  public func getDeviceId(completion: @escaping DeviceIdHandle)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-core#sdk-for-ios-explore-s-7heresdk14DeviceIdHandlea">DeviceIdHandle</a>
 
   </div>
 

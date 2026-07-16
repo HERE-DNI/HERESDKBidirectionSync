@@ -15,7 +15,7 @@ The following protocols are available globally.
 
 - <div>
 
-  ` `<span id="/s:7heresdk23MatchedLocationListenerP"></span>` `<span id="//apple_ref/swift/Protocol/MatchedLocationListener" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-other-protocols#/s:7heresdk23MatchedLocationListenerP" class="token"><code>MatchedLocationListener</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk23MatchedLocationListenerP"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Protocol-MatchedLocationListener" class="dashAnchor"></span> <a href="sdk-for-ios-explore-other-protocols#sdk-for-ios-explore-s-7heresdk23MatchedLocationListenerP" class="token"><code>MatchedLocationListener</code></a> 
 
   </div>
 

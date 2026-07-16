@@ -27,7 +27,7 @@ Contains place details such as contacts, opening hours and some electro vehicle 
 
 - <div>
 
-  ` `<span id="/s:7heresdk15BusinessDetailsV8contactsSayAA7ContactVGvp"></span>` `<span id="//apple_ref/swift/Property/contacts" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-businessdetails#/s:7heresdk15BusinessDetailsV8contactsSayAA7ContactVGvp" class="token"><code>contacts</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15BusinessDetailsV8contactsSayAA7ContactVGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-contacts" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-businessdetails#sdk-for-ios-navigate-s-7heresdk15BusinessDetailsV8contactsSayAA7ContactVGvp" class="token"><code>contacts</code></a> 
 
   </div>
 
@@ -63,6 +63,10 @@ Contains place details such as contacts, opening hours and some electro vehicle 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-contact">Contact</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ Contains place details such as contacts, opening hours and some electro vehicle 
 
 - <div>
 
-  ` `<span id="/s:7heresdk15BusinessDetailsV12openingHoursSayAA07OpeningE0VGvp"></span>` `<span id="//apple_ref/swift/Property/openingHours" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-businessdetails#/s:7heresdk15BusinessDetailsV12openingHoursSayAA07OpeningE0VGvp" class="token"><code>openingHours</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15BusinessDetailsV12openingHoursSayAA07OpeningE0VGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-openingHours" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-businessdetails#sdk-for-ios-navigate-s-7heresdk15BusinessDetailsV12openingHoursSayAA07OpeningE0VGvp" class="token"><code>openingHours</code></a> 
 
   </div>
 
@@ -107,6 +111,10 @@ Contains place details such as contacts, opening hours and some electro vehicle 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-openinghours">OpeningHours</a>
+
   </div>
 
   </div>
@@ -115,7 +123,7 @@ Contains place details such as contacts, opening hours and some electro vehicle 
 
 - <div>
 
-  ` `<span id="/s:7heresdk15BusinessDetailsV14evChargingPoolAA010EVChargingF0VSgvp"></span>` `<span id="//apple_ref/swift/Property/evChargingPool" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-businessdetails#/s:7heresdk15BusinessDetailsV14evChargingPoolAA010EVChargingF0VSgvp" class="token"><code>evChargingPool</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15BusinessDetailsV14evChargingPoolAA010EVChargingF0VSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-evChargingPool" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-businessdetails#sdk-for-ios-navigate-s-7heresdk15BusinessDetailsV14evChargingPoolAA010EVChargingF0VSgvp" class="token"><code>evChargingPool</code></a> 
 
   </div>
 
@@ -151,6 +159,10 @@ Contains place details such as contacts, opening hours and some electro vehicle 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-evchargingpool">EVChargingPool</a>
+
   </div>
 
   </div>
@@ -159,7 +171,7 @@ Contains place details such as contacts, opening hours and some electro vehicle 
 
 - <div>
 
-      init(contacts: openingHours: evChargingPool: )
+   <span id="sdk-for-ios-navigate-s-7heresdk15BusinessDetailsV8contacts12openingHours14evChargingPoolACSayAA7ContactVG_SayAA07OpeningF0VGAA010EVChargingI0VSgtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-contacts-openingHours-evChargingPool" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-businessdetails#sdk-for-ios-navigate-s-7heresdk15BusinessDetailsV8contacts12openingHours14evChargingPoolACSayAA7ContactVG_SayAA07OpeningF0VGAA010EVChargingI0VSgtcfc" class="token"><code>init(contacts:</code><wbr></wbr><code>openingHours:</code><wbr></wbr><code>evChargingPool:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -190,12 +202,16 @@ Contains place details such as contacts, opening hours and some electro vehicle 
   Swift
 
   ``` highlight
-  public init ( contacts : [ Contact ] = [], openingHours : [ OpeningHours ] = [], evChargingPool : EVChargingPool ? = nil )
+  public init(contacts: [Contact] = [], openingHours: [OpeningHours] = [], evChargingPool: EVChargingPool? = nil)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-contact">Contact</a>
+  - <a href="sdk-for-ios-navigate-structs-openinghours">OpeningHours</a>
+  - <a href="sdk-for-ios-navigate-structs-evchargingpool">EVChargingPool</a>
 
   </div>
 

@@ -27,7 +27,7 @@ Contains all the relevant information on the current location.
 
 - <div>
 
-  ` `<span id="/s:7heresdk17NavigableLocationV08originalC0AA0C0Vvp"></span>` `<span id="//apple_ref/swift/Property/originalLocation" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-navigablelocation#/s:7heresdk17NavigableLocationV08originalC0AA0C0Vvp" class="token"><code>originalLocation</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk17NavigableLocationV08originalC0AA0C0Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-originalLocation" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-navigablelocation#sdk-for-ios-navigate-s-7heresdk17NavigableLocationV08originalC0AA0C0Vvp" class="token"><code>originalLocation</code></a> 
 
   </div>
 
@@ -63,6 +63,10 @@ Contains all the relevant information on the current location.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-location">Location</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ Contains all the relevant information on the current location.
 
 - <div>
 
-  ` `<span id="/s:7heresdk17NavigableLocationV010mapMatchedC0AA03MapeC0VSgvp"></span>` `<span id="//apple_ref/swift/Property/mapMatchedLocation" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-navigablelocation#/s:7heresdk17NavigableLocationV010mapMatchedC0AA03MapeC0VSgvp" class="token"><code>mapMatchedLocation</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk17NavigableLocationV010mapMatchedC0AA03MapeC0VSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-mapMatchedLocation" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-navigablelocation#sdk-for-ios-navigate-s-7heresdk17NavigableLocationV010mapMatchedC0AA03MapeC0VSgvp" class="token"><code>mapMatchedLocation</code></a> 
 
   </div>
 
@@ -89,7 +93,7 @@ Contains all the relevant information on the current location.
 
   <div class="abstract">
 
-  The map-matched location on a road. It is calculated from the passed in <a href="sdk-for-ios-navigate-structs-navigablelocation#/s:7heresdk17NavigableLocationV08originalC0AA0C0Vvp">`NavigableLocation.originalLocation`</a>.
+  The map-matched location on a road. It is calculated from the passed in <a href="sdk-for-ios-navigate-structs-navigablelocation#sdk-for-ios-navigate-s-7heresdk17NavigableLocationV08originalC0AA0C0Vvp">`NavigableLocation.originalLocation`</a>.
 
   </div>
 
@@ -107,6 +111,10 @@ Contains all the relevant information on the current location.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-mapmatchedlocation">MapMatchedLocation</a>
+
   </div>
 
   </div>
@@ -115,7 +123,7 @@ Contains all the relevant information on the current location.
 
 - <div>
 
-      init(originalLocation: mapMatchedLocation: )
+   <span id="sdk-for-ios-navigate-s-7heresdk17NavigableLocationV08originalC0010mapMatchedC0AcA0C0V_AA03MapfC0VSgtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-originalLocation-mapMatchedLocation" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-navigablelocation#sdk-for-ios-navigate-s-7heresdk17NavigableLocationV08originalC0010mapMatchedC0AcA0C0V_AA03MapfC0VSgtcfc" class="token"><code>init(originalLocation:</code><wbr></wbr><code>mapMatchedLocation:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -146,12 +154,15 @@ Contains all the relevant information on the current location.
   Swift
 
   ``` highlight
-  public init ( originalLocation : Location , mapMatchedLocation : MapMatchedLocation ? = nil )
+  public init(originalLocation: Location, mapMatchedLocation: MapMatchedLocation? = nil)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-location">Location</a>
+  - <a href="sdk-for-ios-navigate-structs-mapmatchedlocation">MapMatchedLocation</a>
 
   </div>
 

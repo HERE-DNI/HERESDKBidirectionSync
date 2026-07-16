@@ -31,7 +31,7 @@ The warner might also warn about gates/checkpoints for vignette, border checkpoi
 
 - <div>
 
-      onTollStopWarning(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk23TollStopWarningDelegateP02onbcD0yyAA0bC0VF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-onTollStopWarning-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-protocols-tollstopwarningdelegate#sdk-for-ios-explore-s-7heresdk23TollStopWarningDelegateP02onbcD0yyAA0bC0VF" class="token"><code>onTollStopWarning(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -62,12 +62,14 @@ The warner might also warn about gates/checkpoints for vignette, border checkpoi
   Swift
 
   ``` highlight
-  func onTollStopWarning ( _ tollStop : TollStop )
+  func onTollStopWarning(_ tollStop: TollStop)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-tollstop">TollStop</a>
 
   </div>
 

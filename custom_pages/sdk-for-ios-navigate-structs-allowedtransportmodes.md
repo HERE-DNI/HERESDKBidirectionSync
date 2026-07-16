@@ -31,7 +31,7 @@ Specifies which transport modes are allowed in a particular direction.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21AllowedTransportModesV07bicycleB0Sbvp"></span>` `<span id="//apple_ref/swift/Property/bicycleAllowed" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-allowedtransportmodes#/s:7heresdk21AllowedTransportModesV07bicycleB0Sbvp" class="token"><code>bicycleAllowed</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21AllowedTransportModesV07bicycleB0Sbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-bicycleAllowed" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-allowedtransportmodes#sdk-for-ios-navigate-s-7heresdk21AllowedTransportModesV07bicycleB0Sbvp" class="token"><code>bicycleAllowed</code></a> 
 
   </div>
 
@@ -75,7 +75,7 @@ Specifies which transport modes are allowed in a particular direction.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21AllowedTransportModesV03busB0Sbvp"></span>` `<span id="//apple_ref/swift/Property/busAllowed" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-allowedtransportmodes#/s:7heresdk21AllowedTransportModesV03busB0Sbvp" class="token"><code>busAllowed</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21AllowedTransportModesV03busB0Sbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-busAllowed" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-allowedtransportmodes#sdk-for-ios-navigate-s-7heresdk21AllowedTransportModesV03busB0Sbvp" class="token"><code>busAllowed</code></a> 
 
   </div>
 
@@ -119,7 +119,7 @@ Specifies which transport modes are allowed in a particular direction.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21AllowedTransportModesV03carB0Sbvp"></span>` `<span id="//apple_ref/swift/Property/carAllowed" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-allowedtransportmodes#/s:7heresdk21AllowedTransportModesV03carB0Sbvp" class="token"><code>carAllowed</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21AllowedTransportModesV03carB0Sbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-carAllowed" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-allowedtransportmodes#sdk-for-ios-navigate-s-7heresdk21AllowedTransportModesV03carB0Sbvp" class="token"><code>carAllowed</code></a> 
 
   </div>
 
@@ -163,7 +163,7 @@ Specifies which transport modes are allowed in a particular direction.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21AllowedTransportModesV010pedestrianB0Sbvp"></span>` `<span id="//apple_ref/swift/Property/pedestrianAllowed" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-allowedtransportmodes#/s:7heresdk21AllowedTransportModesV010pedestrianB0Sbvp" class="token"><code>pedestrianAllowed</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21AllowedTransportModesV010pedestrianB0Sbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-pedestrianAllowed" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-allowedtransportmodes#sdk-for-ios-navigate-s-7heresdk21AllowedTransportModesV010pedestrianB0Sbvp" class="token"><code>pedestrianAllowed</code></a> 
 
   </div>
 
@@ -207,7 +207,7 @@ Specifies which transport modes are allowed in a particular direction.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21AllowedTransportModesV07scooterB0Sbvp"></span>` `<span id="//apple_ref/swift/Property/scooterAllowed" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-allowedtransportmodes#/s:7heresdk21AllowedTransportModesV07scooterB0Sbvp" class="token"><code>scooterAllowed</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21AllowedTransportModesV07scooterB0Sbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-scooterAllowed" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-allowedtransportmodes#sdk-for-ios-navigate-s-7heresdk21AllowedTransportModesV07scooterB0Sbvp" class="token"><code>scooterAllowed</code></a> 
 
   </div>
 
@@ -251,7 +251,7 @@ Specifies which transport modes are allowed in a particular direction.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21AllowedTransportModesV04taxiB0Sbvp"></span>` `<span id="//apple_ref/swift/Property/taxiAllowed" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-allowedtransportmodes#/s:7heresdk21AllowedTransportModesV04taxiB0Sbvp" class="token"><code>taxiAllowed</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21AllowedTransportModesV04taxiB0Sbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-taxiAllowed" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-allowedtransportmodes#sdk-for-ios-navigate-s-7heresdk21AllowedTransportModesV04taxiB0Sbvp" class="token"><code>taxiAllowed</code></a> 
 
   </div>
 
@@ -295,7 +295,7 @@ Specifies which transport modes are allowed in a particular direction.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21AllowedTransportModesV05truckB0Sbvp"></span>` `<span id="//apple_ref/swift/Property/truckAllowed" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-allowedtransportmodes#/s:7heresdk21AllowedTransportModesV05truckB0Sbvp" class="token"><code>truckAllowed</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21AllowedTransportModesV05truckB0Sbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-truckAllowed" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-allowedtransportmodes#sdk-for-ios-navigate-s-7heresdk21AllowedTransportModesV05truckB0Sbvp" class="token"><code>truckAllowed</code></a> 
 
   </div>
 
@@ -339,7 +339,7 @@ Specifies which transport modes are allowed in a particular direction.
 
 - <div>
 
-      init(bicycleAllowed: busAllowed: carAllowed: pedestrianAllowed: scooterAllowed: taxiAllowed: truckAllowed: )
+   <span id="sdk-for-ios-navigate-s-7heresdk21AllowedTransportModesV07bicycleB003busB003carB0010pedestrianB007scooterB004taxiB005truckB0ACSb_S6btcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-bicycleAllowed-busAllowed-carAllowed-pedestrianAllowed-scooterAllowed-taxiAllowed-truckAllowed" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-allowedtransportmodes#sdk-for-ios-navigate-s-7heresdk21AllowedTransportModesV07bicycleB003busB003carB0010pedestrianB007scooterB004taxiB005truckB0ACSb_S6btcfc" class="token"><code>init(bicycleAllowed:</code><wbr></wbr><code>busAllowed:</code><wbr></wbr><code>carAllowed:</code><wbr></wbr><code>pedestrianAllowed:</code><wbr></wbr><code>scooterAllowed:</code><wbr></wbr><code>taxiAllowed:</code><wbr></wbr><code>truckAllowed:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -370,10 +370,8 @@ Specifies which transport modes are allowed in a particular direction.
   Swift
 
   ``` highlight
-  public init ( bicycleAllowed : Bool = false , busAllowed : Bool = false , carAllowed : Bool = false , pedestrianAllowed : Bool = false , scooterAllowed : Bool = false , taxiAllowed : Bool = false , truckAllowed : Bool = false )
+  public init(bicycleAllowed: Bool = false, busAllowed: Bool = false, carAllowed: Bool = false, pedestrianAllowed: Bool = false, scooterAllowed: Bool = false, taxiAllowed: Bool = false, truckAllowed: Bool = false)
   ```
-
-  </pre>
 
   </div>
 

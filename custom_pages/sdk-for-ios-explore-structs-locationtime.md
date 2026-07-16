@@ -27,7 +27,7 @@ This struct presents all the time data tied to a location, like an arrival or de
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LocationTimeV05localC010Foundation4DateVvp"></span>` `<span id="//apple_ref/swift/Property/localTime" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-locationtime#/s:7heresdk12LocationTimeV05localC010Foundation4DateVvp" class="token"><code>localTime</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LocationTimeV05localC010Foundation4DateVvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-localTime" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-locationtime#sdk-for-ios-explore-s-7heresdk12LocationTimeV05localC010Foundation4DateVvp" class="token"><code>localTime</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ This struct presents all the time data tied to a location, like an arrival or de
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LocationTimeV03utcC010Foundation4DateVvp"></span>` `<span id="//apple_ref/swift/Property/utcTime" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-locationtime#/s:7heresdk12LocationTimeV03utcC010Foundation4DateVvp" class="token"><code>utcTime</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LocationTimeV03utcC010Foundation4DateVvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-utcTime" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-locationtime#sdk-for-ios-explore-s-7heresdk12LocationTimeV03utcC010Foundation4DateVvp" class="token"><code>utcTime</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ This struct presents all the time data tied to a location, like an arrival or de
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LocationTimeV9utcOffsetSdvp"></span>` `<span id="//apple_ref/swift/Property/utcOffset" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-locationtime#/s:7heresdk12LocationTimeV9utcOffsetSdvp" class="token"><code>utcOffset</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LocationTimeV9utcOffsetSdvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-utcOffset" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-locationtime#sdk-for-ios-explore-s-7heresdk12LocationTimeV9utcOffsetSdvp" class="token"><code>utcOffset</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ This struct presents all the time data tied to a location, like an arrival or de
 
 - <div>
 
-      init(localTime: utcTime: utcOffset: )
+   <span id="sdk-for-ios-explore-s-7heresdk12LocationTimeV05localC003utcC00E6OffsetAC10Foundation4DateV_AISdtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-localTime-utcTime-utcOffset" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-locationtime#sdk-for-ios-explore-s-7heresdk12LocationTimeV05localC003utcC00E6OffsetAC10Foundation4DateV_AISdtcfc" class="token"><code>init(localTime:</code><wbr></wbr><code>utcTime:</code><wbr></wbr><code>utcOffset:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -190,10 +190,8 @@ This struct presents all the time data tied to a location, like an arrival or de
   Swift
 
   ``` highlight
-  public init ( localTime : Date , utcTime : Date , utcOffset : TimeInterval )
+  public init(localTime: Date, utcTime: Date, utcOffset: TimeInterval)
   ```
-
-  </pre>
 
   </div>
 

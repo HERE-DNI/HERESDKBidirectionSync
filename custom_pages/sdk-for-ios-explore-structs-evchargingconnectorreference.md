@@ -27,7 +27,7 @@ Represents a pairing of an EVSE and its connector(s) that belong to a group. **N
 
 - <div>
 
-  ` `<span id="/s:7heresdk28EVChargingConnectorReferenceV7evseUIDSSvp"></span>` `<span id="//apple_ref/swift/Property/evseUID" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-evchargingconnectorreference#/s:7heresdk28EVChargingConnectorReferenceV7evseUIDSSvp" class="token"><code>evseUID</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk28EVChargingConnectorReferenceV7evseUIDSSvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-evseUID" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-evchargingconnectorreference#sdk-for-ios-explore-s-7heresdk28EVChargingConnectorReferenceV7evseUIDSSvp" class="token"><code>evseUID</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Represents a pairing of an EVSE and its connector(s) that belong to a group. **N
 
 - <div>
 
-  ` `<span id="/s:7heresdk28EVChargingConnectorReferenceV12connectorIDsSaySSGvp"></span>` `<span id="//apple_ref/swift/Property/connectorIDs" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-evchargingconnectorreference#/s:7heresdk28EVChargingConnectorReferenceV12connectorIDsSaySSGvp" class="token"><code>connectorIDs</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk28EVChargingConnectorReferenceV12connectorIDsSaySSGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-connectorIDs" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-evchargingconnectorreference#sdk-for-ios-explore-s-7heresdk28EVChargingConnectorReferenceV12connectorIDsSaySSGvp" class="token"><code>connectorIDs</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Represents a pairing of an EVSE and its connector(s) that belong to a group. **N
 
 - <div>
 
-      init(evseUID: connectorIDs: )
+   <span id="sdk-for-ios-explore-s-7heresdk28EVChargingConnectorReferenceV7evseUID12connectorIDsACSS_SaySSGtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-evseUID-connectorIDs" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-evchargingconnectorreference#sdk-for-ios-explore-s-7heresdk28EVChargingConnectorReferenceV7evseUID12connectorIDsACSS_SaySSGtcfc" class="token"><code>init(evseUID:</code><wbr></wbr><code>connectorIDs:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -146,10 +146,8 @@ Represents a pairing of an EVSE and its connector(s) that belong to a group. **N
   Swift
 
   ``` highlight
-  public init ( evseUID : String = "" , connectorIDs : [ String ] = [])
+  public init(evseUID: String = "", connectorIDs: [String] = [])
   ```
-
-  </pre>
 
   </div>
 

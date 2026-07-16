@@ -35,7 +35,7 @@ Represents a drawing inside the <a href="sdk-for-ios-explore-classes-venuemodel"
 
 - <div>
 
-  ` `<span id="/s:7heresdk12VenueDrawingC13GeometryArraya"></span>` `<span id="//apple_ref/swift/Alias/GeometryArray" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuedrawing#/s:7heresdk12VenueDrawingC13GeometryArraya" class="token"><code>GeometryArray</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12VenueDrawingC13GeometryArraya"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Alias-GeometryArray" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuedrawing#sdk-for-ios-explore-s-7heresdk12VenueDrawingC13GeometryArraya" class="token"><code>GeometryArray</code></a> 
 
   </div>
 
@@ -71,6 +71,10 @@ Represents a drawing inside the <a href="sdk-for-ios-explore-classes-venuemodel"
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-venuegeometry">VenueGeometry</a>
+
   </div>
 
   </div>
@@ -79,7 +83,7 @@ Represents a drawing inside the <a href="sdk-for-ios-explore-classes-venuemodel"
 
 - <div>
 
-  ` `<span id="/s:7heresdk12VenueDrawingC19StringToPropertyMapa"></span>` `<span id="//apple_ref/swift/Alias/StringToPropertyMap" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuedrawing#/s:7heresdk12VenueDrawingC19StringToPropertyMapa" class="token"><code>StringToPropertyMap</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12VenueDrawingC19StringToPropertyMapa"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Alias-StringToPropertyMap" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuedrawing#sdk-for-ios-explore-s-7heresdk12VenueDrawingC19StringToPropertyMapa" class="token"><code>StringToPropertyMap</code></a> 
 
   </div>
 
@@ -115,6 +119,10 @@ Represents a drawing inside the <a href="sdk-for-ios-explore-classes-venuemodel"
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-property">Property</a>
+
   </div>
 
   </div>
@@ -123,7 +131,7 @@ Represents a drawing inside the <a href="sdk-for-ios-explore-classes-venuemodel"
 
 - <div>
 
-  ` `<span id="/s:7heresdk12VenueDrawingC10LevelArraya"></span>` `<span id="//apple_ref/swift/Alias/LevelArray" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuedrawing#/s:7heresdk12VenueDrawingC10LevelArraya" class="token"><code>LevelArray</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12VenueDrawingC10LevelArraya"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Alias-LevelArray" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuedrawing#sdk-for-ios-explore-s-7heresdk12VenueDrawingC10LevelArraya" class="token"><code>LevelArray</code></a> 
 
   </div>
 
@@ -159,6 +167,10 @@ Represents a drawing inside the <a href="sdk-for-ios-explore-classes-venuemodel"
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-venuelevel">VenueLevel</a>
+
   </div>
 
   </div>
@@ -167,7 +179,7 @@ Represents a drawing inside the <a href="sdk-for-ios-explore-classes-venuemodel"
 
 - <div>
 
-  ` `<span id="/s:7heresdk12VenueDrawingC24StringToGeometryArrayMapa"></span>` `<span id="//apple_ref/swift/Alias/StringToGeometryArrayMap" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuedrawing#/s:7heresdk12VenueDrawingC24StringToGeometryArrayMapa" class="token"><code>StringToGeometryArrayMap</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12VenueDrawingC24StringToGeometryArrayMapa"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Alias-StringToGeometryArrayMap" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuedrawing#sdk-for-ios-explore-s-7heresdk12VenueDrawingC24StringToGeometryArrayMapa" class="token"><code>StringToGeometryArrayMap</code></a> 
 
   </div>
 
@@ -203,6 +215,10 @@ Represents a drawing inside the <a href="sdk-for-ios-explore-classes-venuemodel"
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-venuedrawing#sdk-for-ios-explore-s-7heresdk12VenueDrawingC13GeometryArraya">GeometryArray</a>
+
   </div>
 
   </div>
@@ -211,7 +227,7 @@ Represents a drawing inside the <a href="sdk-for-ios-explore-classes-venuemodel"
 
 - <div>
 
-  ` `<span id="/s:7heresdk12VenueDrawingC11DoubleArraya"></span>` `<span id="//apple_ref/swift/Alias/DoubleArray" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuedrawing#/s:7heresdk12VenueDrawingC11DoubleArraya" class="token"><code>DoubleArray</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12VenueDrawingC11DoubleArraya"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Alias-DoubleArray" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuedrawing#sdk-for-ios-explore-s-7heresdk12VenueDrawingC11DoubleArraya" class="token"><code>DoubleArray</code></a> 
 
   </div>
 
@@ -255,7 +271,7 @@ Represents a drawing inside the <a href="sdk-for-ios-explore-classes-venuemodel"
 
 - <div>
 
-  ` `<span id="/s:7heresdk12VenueDrawingC13TopologyArraya"></span>` `<span id="//apple_ref/swift/Alias/TopologyArray" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuedrawing#/s:7heresdk12VenueDrawingC13TopologyArraya" class="token"><code>TopologyArray</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12VenueDrawingC13TopologyArraya"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Alias-TopologyArray" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuedrawing#sdk-for-ios-explore-s-7heresdk12VenueDrawingC13TopologyArraya" class="token"><code>TopologyArray</code></a> 
 
   </div>
 
@@ -291,6 +307,10 @@ Represents a drawing inside the <a href="sdk-for-ios-explore-classes-venuemodel"
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-venuetopology">VenueTopology</a>
+
   </div>
 
   </div>
@@ -299,7 +319,7 @@ Represents a drawing inside the <a href="sdk-for-ios-explore-classes-venuemodel"
 
 - <div>
 
-  ` `<span id="/s:7heresdk12VenueDrawingC10identifierSSvp"></span>` `<span id="//apple_ref/swift/Property/identifier" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuedrawing#/s:7heresdk12VenueDrawingC10identifierSSvp" class="token"><code>identifier</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12VenueDrawingC10identifierSSvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-identifier" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuedrawing#sdk-for-ios-explore-s-7heresdk12VenueDrawingC10identifierSSvp" class="token"><code>identifier</code></a> 
 
   </div>
 
@@ -343,7 +363,7 @@ Represents a drawing inside the <a href="sdk-for-ios-explore-classes-venuemodel"
 
 - <div>
 
-  ` `<span id="/s:7heresdk12VenueDrawingC8isIsRootSbvp"></span>` `<span id="//apple_ref/swift/Property/isIsRoot" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuedrawing#/s:7heresdk12VenueDrawingC8isIsRootSbvp" class="token"><code>isIsRoot</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12VenueDrawingC8isIsRootSbvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-isIsRoot" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuedrawing#sdk-for-ios-explore-s-7heresdk12VenueDrawingC8isIsRootSbvp" class="token"><code>isIsRoot</code></a> 
 
   </div>
 
@@ -387,7 +407,7 @@ Represents a drawing inside the <a href="sdk-for-ios-explore-classes-venuemodel"
 
 - <div>
 
-  ` `<span id="/s:7heresdk12VenueDrawingC10venueModelAA0bE0Cvp"></span>` `<span id="//apple_ref/swift/Property/venueModel" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuedrawing#/s:7heresdk12VenueDrawingC10venueModelAA0bE0Cvp" class="token"><code>venueModel</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12VenueDrawingC10venueModelAA0bE0Cvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-venueModel" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuedrawing#sdk-for-ios-explore-s-7heresdk12VenueDrawingC10venueModelAA0bE0Cvp" class="token"><code>venueModel</code></a> 
 
   </div>
 
@@ -423,6 +443,10 @@ Represents a drawing inside the <a href="sdk-for-ios-explore-classes-venuemodel"
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-venuemodel">VenueModel</a>
+
   </div>
 
   </div>
@@ -431,7 +455,7 @@ Represents a drawing inside the <a href="sdk-for-ios-explore-classes-venuemodel"
 
 - <div>
 
-  ` `<span id="/s:7heresdk12VenueDrawingC6levelsSayAA0B5LevelCGvp"></span>` `<span id="//apple_ref/swift/Property/levels" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuedrawing#/s:7heresdk12VenueDrawingC6levelsSayAA0B5LevelCGvp" class="token"><code>levels</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12VenueDrawingC6levelsSayAA0B5LevelCGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-levels" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuedrawing#sdk-for-ios-explore-s-7heresdk12VenueDrawingC6levelsSayAA0B5LevelCGvp" class="token"><code>levels</code></a> 
 
   </div>
 
@@ -467,6 +491,10 @@ Represents a drawing inside the <a href="sdk-for-ios-explore-classes-venuemodel"
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-venuedrawing#sdk-for-ios-explore-s-7heresdk12VenueDrawingC10LevelArraya">LevelArray</a>
+
   </div>
 
   </div>
@@ -475,7 +503,7 @@ Represents a drawing inside the <a href="sdk-for-ios-explore-classes-venuemodel"
 
 - <div>
 
-  ` `<span id="/s:7heresdk12VenueDrawingC6centerAA14GeoCoordinatesVvp"></span>` `<span id="//apple_ref/swift/Property/center" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuedrawing#/s:7heresdk12VenueDrawingC6centerAA14GeoCoordinatesVvp" class="token"><code>center</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12VenueDrawingC6centerAA14GeoCoordinatesVvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-center" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuedrawing#sdk-for-ios-explore-s-7heresdk12VenueDrawingC6centerAA14GeoCoordinatesVvp" class="token"><code>center</code></a> 
 
   </div>
 
@@ -511,6 +539,10 @@ Represents a drawing inside the <a href="sdk-for-ios-explore-classes-venuemodel"
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geocoordinates">GeoCoordinates</a>
+
   </div>
 
   </div>
@@ -519,7 +551,7 @@ Represents a drawing inside the <a href="sdk-for-ios-explore-classes-venuemodel"
 
 - <div>
 
-  ` `<span id="/s:7heresdk12VenueDrawingC11boundingBoxAA03GeoE0Vvp"></span>` `<span id="//apple_ref/swift/Property/boundingBox" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuedrawing#/s:7heresdk12VenueDrawingC11boundingBoxAA03GeoE0Vvp" class="token"><code>boundingBox</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12VenueDrawingC11boundingBoxAA03GeoE0Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-boundingBox" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuedrawing#sdk-for-ios-explore-s-7heresdk12VenueDrawingC11boundingBoxAA03GeoE0Vvp" class="token"><code>boundingBox</code></a> 
 
   </div>
 
@@ -555,6 +587,10 @@ Represents a drawing inside the <a href="sdk-for-ios-explore-classes-venuemodel"
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geobox">GeoBox</a>
+
   </div>
 
   </div>
@@ -563,7 +599,7 @@ Represents a drawing inside the <a href="sdk-for-ios-explore-classes-venuemodel"
 
 - <div>
 
-  ` `<span id="/s:7heresdk12VenueDrawingC10propertiesSDySSAA8PropertyCGvp"></span>` `<span id="//apple_ref/swift/Property/properties" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuedrawing#/s:7heresdk12VenueDrawingC10propertiesSDySSAA8PropertyCGvp" class="token"><code>properties</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12VenueDrawingC10propertiesSDySSAA8PropertyCGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-properties" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuedrawing#sdk-for-ios-explore-s-7heresdk12VenueDrawingC10propertiesSDySSAA8PropertyCGvp" class="token"><code>properties</code></a> 
 
   </div>
 
@@ -599,6 +635,10 @@ Represents a drawing inside the <a href="sdk-for-ios-explore-classes-venuemodel"
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-venuedrawing#sdk-for-ios-explore-s-7heresdk12VenueDrawingC19StringToPropertyMapa">StringToPropertyMap</a>
+
   </div>
 
   </div>
@@ -607,7 +647,7 @@ Represents a drawing inside the <a href="sdk-for-ios-explore-classes-venuemodel"
 
 - <div>
 
-  ` `<span id="/s:7heresdk12VenueDrawingC16geometriesByNameSayAA0B8GeometryCGvp"></span>` `<span id="//apple_ref/swift/Property/geometriesByName" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuedrawing#/s:7heresdk12VenueDrawingC16geometriesByNameSayAA0B8GeometryCGvp" class="token"><code>geometriesByName</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12VenueDrawingC16geometriesByNameSayAA0B8GeometryCGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-geometriesByName" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuedrawing#sdk-for-ios-explore-s-7heresdk12VenueDrawingC16geometriesByNameSayAA0B8GeometryCGvp" class="token"><code>geometriesByName</code></a> 
 
   </div>
 
@@ -643,6 +683,10 @@ Represents a drawing inside the <a href="sdk-for-ios-explore-classes-venuemodel"
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-venuedrawing#sdk-for-ios-explore-s-7heresdk12VenueDrawingC13GeometryArraya">GeometryArray</a>
+
   </div>
 
   </div>
@@ -651,7 +695,7 @@ Represents a drawing inside the <a href="sdk-for-ios-explore-classes-venuemodel"
 
 - <div>
 
-  ` `<span id="/s:7heresdk12VenueDrawingC21geometriesByIconNamesSDySSSayAA0B8GeometryCGGvp"></span>` `<span id="//apple_ref/swift/Property/geometriesByIconNames" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuedrawing#/s:7heresdk12VenueDrawingC21geometriesByIconNamesSDySSSayAA0B8GeometryCGGvp" class="token"><code>geometriesByIconNames</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12VenueDrawingC21geometriesByIconNamesSDySSSayAA0B8GeometryCGGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-geometriesByIconNames" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuedrawing#sdk-for-ios-explore-s-7heresdk12VenueDrawingC21geometriesByIconNamesSDySSSayAA0B8GeometryCGGvp" class="token"><code>geometriesByIconNames</code></a> 
 
   </div>
 
@@ -687,6 +731,10 @@ Represents a drawing inside the <a href="sdk-for-ios-explore-classes-venuemodel"
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-venuedrawing#sdk-for-ios-explore-s-7heresdk12VenueDrawingC24StringToGeometryArrayMapa">StringToGeometryArrayMap</a>
+
   </div>
 
   </div>
@@ -695,7 +743,7 @@ Represents a drawing inside the <a href="sdk-for-ios-explore-classes-venuemodel"
 
 - <div>
 
-  ` `<span id="/s:7heresdk12VenueDrawingC10topologiesSayAA0B8TopologyCGvp"></span>` `<span id="//apple_ref/swift/Property/topologies" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuedrawing#/s:7heresdk12VenueDrawingC10topologiesSayAA0B8TopologyCGvp" class="token"><code>topologies</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12VenueDrawingC10topologiesSayAA0B8TopologyCGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-topologies" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuedrawing#sdk-for-ios-explore-s-7heresdk12VenueDrawingC10topologiesSayAA0B8TopologyCGvp" class="token"><code>topologies</code></a> 
 
   </div>
 
@@ -731,6 +779,10 @@ Represents a drawing inside the <a href="sdk-for-ios-explore-classes-venuemodel"
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-venuedrawing#sdk-for-ios-explore-s-7heresdk12VenueDrawingC13TopologyArraya">TopologyArray</a>
+
   </div>
 
   </div>
@@ -739,7 +791,7 @@ Represents a drawing inside the <a href="sdk-for-ios-explore-classes-venuemodel"
 
 - <div>
 
-      getGeometryById(geometryId: )
+   <span id="sdk-for-ios-explore-s-7heresdk12VenueDrawingC15getGeometryById08geometryG0AA0bE0CSgSS_tF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-getGeometryById-geometryId" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuedrawing#sdk-for-ios-explore-s-7heresdk12VenueDrawingC15getGeometryById08geometryG0AA0bE0CSgSS_tF" class="token"><code>getGeometryById(geometryId:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -770,12 +822,14 @@ Represents a drawing inside the <a href="sdk-for-ios-explore-classes-venuemodel"
   Swift
 
   ``` highlight
-  public func getGeometryById ( geometryId : String ) -> VenueGeometry ?
+  public func getGeometryById(geometryId: String) -> VenueGeometry?
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-venuegeometry">VenueGeometry</a>
 
   </div>
 
@@ -814,7 +868,7 @@ Represents a drawing inside the <a href="sdk-for-ios-explore-classes-venuemodel"
 
 - <div>
 
-      getGeometryByAddress(geometryAddress: )
+   <span id="sdk-for-ios-explore-s-7heresdk12VenueDrawingC20getGeometryByAddress08geometryG0AA0bE0CSgSS_tF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-getGeometryByAddress-geometryAddress" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuedrawing#sdk-for-ios-explore-s-7heresdk12VenueDrawingC20getGeometryByAddress08geometryG0AA0bE0CSgSS_tF" class="token"><code>getGeometryByAddress(geometryAddress:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -845,12 +899,14 @@ Represents a drawing inside the <a href="sdk-for-ios-explore-classes-venuemodel"
   Swift
 
   ``` highlight
-  public func getGeometryByAddress ( geometryAddress : String ) -> VenueGeometry ?
+  public func getGeometryByAddress(geometryAddress: String) -> VenueGeometry?
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-venuegeometry">VenueGeometry</a>
 
   </div>
 
@@ -889,7 +945,7 @@ Represents a drawing inside the <a href="sdk-for-ios-explore-classes-venuemodel"
 
 - <div>
 
-      filterGeometry(filter: filterType: )
+   <span id="sdk-for-ios-explore-s-7heresdk12VenueDrawingC14filterGeometry0D00D4TypeSayAA0bE0CGSS_AA0be6FilterF0OtF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-filterGeometry-filter-filterType" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuedrawing#sdk-for-ios-explore-s-7heresdk12VenueDrawingC14filterGeometry0D00D4TypeSayAA0bE0CGSS_AA0be6FilterF0OtF" class="token"><code>filterGeometry(filter:</code><wbr></wbr><code>filterType:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -920,12 +976,15 @@ Represents a drawing inside the <a href="sdk-for-ios-explore-classes-venuemodel"
   Swift
 
   ``` highlight
-  public func filterGeometry ( filter : String , filterType : VenueGeometryFilterType ) -> VenueDrawing . GeometryArray
+  public func filterGeometry(filter: String, filterType: VenueGeometryFilterType) -> VenueDrawing.GeometryArray
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-venuegeometryfiltertype">VenueGeometryFilterType</a>
+  - <a href="sdk-for-ios-explore-classes-venuedrawing#sdk-for-ios-explore-s-7heresdk12VenueDrawingC13GeometryArraya">GeometryArray</a>
 
   </div>
 

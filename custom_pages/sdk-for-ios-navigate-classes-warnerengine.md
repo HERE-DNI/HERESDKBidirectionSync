@@ -23,6 +23,10 @@ extension WarnerEngine: Hashable
 
 </div>
 
+Related types:
+
+- <a href="sdk-for-ios-navigate-protocols-electronichorizondelegate">ElectronicHorizonDelegate</a>
+
 </div>
 
 Provides the core functionality for generating and managing navigation warnings.
@@ -41,7 +45,7 @@ The engine monitors enabled warning types and notifies registered listeners when
 
 - <div>
 
-      init(enabledWarnings: )
+   <span id="sdk-for-ios-navigate-s-7heresdk12WarnerEngineC15enabledWarningsACSayAA11WarningTypeOG_tKcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-enabledWarnings" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-warnerengine#sdk-for-ios-navigate-s-7heresdk12WarnerEngineC15enabledWarningsACSayAA11WarningTypeOG_tKcfc" class="token"><code>init(enabledWarnings:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -65,7 +69,7 @@ The engine monitors enabled warning types and notifies registered listeners when
 
   Throws
 
-  <a href="sdk-for-ios-navigate-core#/s:7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
+  <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
 
   </div>
 
@@ -80,12 +84,14 @@ The engine monitors enabled warning types and notifies registered listeners when
   Swift
 
   ``` highlight
-  public init ( enabledWarnings : [ WarningType ]) throws
+  public init(enabledWarnings: [WarningType]) throws
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-warningtype">WarningType</a>
 
   </div>
 
@@ -116,7 +122,7 @@ The engine monitors enabled warning types and notifies registered listeners when
 
 - <div>
 
-      init(sdkEngine: enabledWarnings: )
+   <span id="sdk-for-ios-navigate-s-7heresdk12WarnerEngineC03sdkC015enabledWarningsAcA09SDKNativeC0C_SayAA11WarningTypeOGtKcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-sdkEngine-enabledWarnings" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-warnerengine#sdk-for-ios-navigate-s-7heresdk12WarnerEngineC03sdkC015enabledWarningsAcA09SDKNativeC0C_SayAA11WarningTypeOGtKcfc" class="token"><code>init(sdkEngine:</code><wbr></wbr><code>enabledWarnings:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -140,7 +146,7 @@ The engine monitors enabled warning types and notifies registered listeners when
 
   Throws
 
-  <a href="sdk-for-ios-navigate-core#/s:7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
+  <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
 
   </div>
 
@@ -155,12 +161,15 @@ The engine monitors enabled warning types and notifies registered listeners when
   Swift
 
   ``` highlight
-  public init ( sdkEngine : SDKNativeEngine , enabledWarnings : [ WarningType ]) throws
+  public init(sdkEngine: SDKNativeEngine, enabledWarnings: [WarningType]) throws
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-sdknativeengine">SDKNativeEngine</a>
+  - <a href="sdk-for-ios-navigate-enums-warningtype">WarningType</a>
 
   </div>
 
@@ -197,7 +206,7 @@ The engine monitors enabled warning types and notifies registered listeners when
 
 - <div>
 
-      init(sdkEngine: wallClock: enabledWarnings: )
+   <span id="sdk-for-ios-navigate-s-7heresdk12WarnerEngineC03sdkC09wallClock15enabledWarningsAcA09SDKNativeC0C_AA04WallF0_pSayAA11WarningTypeOGtKcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-sdkEngine-wallClock-enabledWarnings" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-warnerengine#sdk-for-ios-navigate-s-7heresdk12WarnerEngineC03sdkC09wallClock15enabledWarningsAcA09SDKNativeC0C_AA04WallF0_pSayAA11WarningTypeOGtKcfc" class="token"><code>init(sdkEngine:</code><wbr></wbr><code>wallClock:</code><wbr></wbr><code>enabledWarnings:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -221,7 +230,7 @@ The engine monitors enabled warning types and notifies registered listeners when
 
   Throws
 
-  <a href="sdk-for-ios-navigate-core#/s:7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
+  <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
 
   </div>
 
@@ -236,12 +245,16 @@ The engine monitors enabled warning types and notifies registered listeners when
   Swift
 
   ``` highlight
-  public init ( sdkEngine : SDKNativeEngine , wallClock : WallClock , enabledWarnings : [ WarningType ]) throws
+  public init(sdkEngine: SDKNativeEngine, wallClock: WallClock, enabledWarnings: [WarningType]) throws
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-sdknativeengine">SDKNativeEngine</a>
+  - <a href="sdk-for-ios-navigate-protocols-wallclock">WallClock</a>
+  - <a href="sdk-for-ios-navigate-enums-warningtype">WarningType</a>
 
   </div>
 
@@ -284,7 +297,7 @@ The engine monitors enabled warning types and notifies registered listeners when
 
 - <div>
 
-  ` `<span id="/s:7heresdk12WarnerEngineC14warningOptionsAA07WarningE0Vvp"></span>` `<span id="//apple_ref/swift/Property/warningOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-warnerengine#/s:7heresdk12WarnerEngineC14warningOptionsAA07WarningE0Vvp" class="token"><code>warningOptions</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12WarnerEngineC14warningOptionsAA07WarningE0Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-warningOptions" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-warnerengine#sdk-for-ios-navigate-s-7heresdk12WarnerEngineC14warningOptionsAA07WarningE0Vvp" class="token"><code>warningOptions</code></a> 
 
   </div>
 
@@ -320,6 +333,10 @@ The engine monitors enabled warning types and notifies registered listeners when
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-warningoptions">WarningOptions</a>
+
   </div>
 
   </div>
@@ -328,7 +345,7 @@ The engine monitors enabled warning types and notifies registered listeners when
 
 - <div>
 
-  ` `<span id="/s:7heresdk12WarnerEngineC13timingProfileAA06TimingE0Ovp"></span>` `<span id="//apple_ref/swift/Property/timingProfile" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-warnerengine#/s:7heresdk12WarnerEngineC13timingProfileAA06TimingE0Ovp" class="token"><code>timingProfile</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12WarnerEngineC13timingProfileAA06TimingE0Ovp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-timingProfile" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-warnerengine#sdk-for-ios-navigate-s-7heresdk12WarnerEngineC13timingProfileAA06TimingE0Ovp" class="token"><code>timingProfile</code></a> 
 
   </div>
 
@@ -348,9 +365,9 @@ The engine monitors enabled warning types and notifies registered listeners when
 
   The timing profile that defines when navigation warnings should be triggered. Configures the base notification thresholds used for delivering navigation warnings. The effective thresholds depend on the selected <a href="sdk-for-ios-navigate-enums-timingprofile">`TimingProfile`</a> and may adjust automatically according to the current speed limit:
 
-  - For <a href="sdk-for-ios-navigate-enums-timingprofile#/s:7heresdk13TimingProfileO9fastSpeedyA2CmF">`TimingProfile.fastSpeed`</a>, thresholds apply when the current speed limit is above 100 km/h (62 mph).
-  - For <a href="sdk-for-ios-navigate-enums-timingprofile#/s:7heresdk13TimingProfileO12regularSpeedyA2CmF">`TimingProfile.regularSpeed`</a>, thresholds apply when the current speed limit is above 60 km/h (37 mph).
-  - For <a href="sdk-for-ios-navigate-enums-timingprofile#/s:7heresdk13TimingProfileO9slowSpeedyA2CmF">`TimingProfile.slowSpeed`</a>, thresholds apply when the current speed limit is 60 km/h (37 mph) or below.
+  - For <a href="sdk-for-ios-navigate-enums-timingprofile#sdk-for-ios-navigate-s-7heresdk13TimingProfileO9fastSpeedyA2CmF">`TimingProfile.fastSpeed`</a>, thresholds apply when the current speed limit is above 100 km/h (62 mph).
+  - For <a href="sdk-for-ios-navigate-enums-timingprofile#sdk-for-ios-navigate-s-7heresdk13TimingProfileO12regularSpeedyA2CmF">`TimingProfile.regularSpeed`</a>, thresholds apply when the current speed limit is above 60 km/h (37 mph).
+  - For <a href="sdk-for-ios-navigate-enums-timingprofile#sdk-for-ios-navigate-s-7heresdk13TimingProfileO9slowSpeedyA2CmF">`TimingProfile.slowSpeed`</a>, thresholds apply when the current speed limit is 60 km/h (37 mph) or below.
 
   **Note:** Custom threshold values can be set, but these timing-profile rules will still apply.
 
@@ -370,6 +387,10 @@ The engine monitors enabled warning types and notifies registered listeners when
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-timingprofile">TimingProfile</a>
+
   </div>
 
   </div>
@@ -378,7 +399,7 @@ The engine monitors enabled warning types and notifies registered listeners when
 
 - <div>
 
-      onElectronicHorizonUpdated(errorCode: update: )
+   <span id="sdk-for-ios-navigate-s-7heresdk12WarnerEngineC26onElectronicHorizonUpdated9errorCode6updateyAA0ef5ErrorI0OSg_AA0eF6UpdateVSgtF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-onElectronicHorizonUpdated-errorCode-update" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-warnerengine#sdk-for-ios-navigate-s-7heresdk12WarnerEngineC26onElectronicHorizonUpdated9errorCode6updateyAA0ef5ErrorI0OSg_AA0eF6UpdateVSgtF" class="token"><code>onElectronicHorizonUpdated(errorCode:</code><wbr></wbr><code>update:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -414,12 +435,15 @@ The engine monitors enabled warning types and notifies registered listeners when
   Swift
 
   ``` highlight
-  public func onElectronicHorizonUpdated ( errorCode : ElectronicHorizonErrorCode ?, update : ElectronicHorizonUpdate ?)
+  public func onElectronicHorizonUpdated(errorCode: ElectronicHorizonErrorCode?, update: ElectronicHorizonUpdate?)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-electronichorizonerrorcode">ElectronicHorizonErrorCode</a>
+  - <a href="sdk-for-ios-navigate-structs-electronichorizonupdate">ElectronicHorizonUpdate</a>
 
   </div>
 
@@ -456,7 +480,7 @@ The engine monitors enabled warning types and notifies registered listeners when
 
 - <div>
 
-      addEnabledWarnings(warningTypes: )
+   <span id="sdk-for-ios-navigate-s-7heresdk12WarnerEngineC18addEnabledWarnings12warningTypesySayAA11WarningTypeOG_tF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-addEnabledWarnings-warningTypes" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-warnerengine#sdk-for-ios-navigate-s-7heresdk12WarnerEngineC18addEnabledWarnings12warningTypesySayAA11WarningTypeOG_tF" class="token"><code>addEnabledWarnings(warningTypes:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -494,12 +518,14 @@ The engine monitors enabled warning types and notifies registered listeners when
   Swift
 
   ``` highlight
-  public func addEnabledWarnings ( warningTypes : [ WarningType ])
+  public func addEnabledWarnings(warningTypes: [WarningType])
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-warningtype">WarningType</a>
 
   </div>
 
@@ -530,7 +556,7 @@ The engine monitors enabled warning types and notifies registered listeners when
 
 - <div>
 
-      removeEnabledWarnings(warningTypes: )
+   <span id="sdk-for-ios-navigate-s-7heresdk12WarnerEngineC21removeEnabledWarnings12warningTypesySayAA11WarningTypeOG_tF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-removeEnabledWarnings-warningTypes" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-warnerengine#sdk-for-ios-navigate-s-7heresdk12WarnerEngineC21removeEnabledWarnings12warningTypesySayAA11WarningTypeOG_tF" class="token"><code>removeEnabledWarnings(warningTypes:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -568,12 +594,14 @@ The engine monitors enabled warning types and notifies registered listeners when
   Swift
 
   ``` highlight
-  public func removeEnabledWarnings ( warningTypes : [ WarningType ])
+  public func removeEnabledWarnings(warningTypes: [WarningType])
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-warningtype">WarningType</a>
 
   </div>
 
@@ -604,7 +632,7 @@ The engine monitors enabled warning types and notifies registered listeners when
 
 - <div>
 
-      setEnabledWarnings(warningTypes: )
+   <span id="sdk-for-ios-navigate-s-7heresdk12WarnerEngineC18setEnabledWarnings12warningTypesySayAA11WarningTypeOG_tF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-setEnabledWarnings-warningTypes" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-warnerengine#sdk-for-ios-navigate-s-7heresdk12WarnerEngineC18setEnabledWarnings12warningTypesySayAA11WarningTypeOG_tF" class="token"><code>setEnabledWarnings(warningTypes:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -642,12 +670,14 @@ The engine monitors enabled warning types and notifies registered listeners when
   Swift
 
   ``` highlight
-  public func setEnabledWarnings ( warningTypes : [ WarningType ])
+  public func setEnabledWarnings(warningTypes: [WarningType])
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-warningtype">WarningType</a>
 
   </div>
 
@@ -678,7 +708,7 @@ The engine monitors enabled warning types and notifies registered listeners when
 
 - <div>
 
-      getEnabledWarnings()
+   <span id="sdk-for-ios-navigate-s-7heresdk12WarnerEngineC18getEnabledWarningsSayAA11WarningTypeOGyF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-getEnabledWarnings" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-warnerengine#sdk-for-ios-navigate-s-7heresdk12WarnerEngineC18getEnabledWarningsSayAA11WarningTypeOGyF" class="token"><code>getEnabledWarnings()</code></a> 
 
   </div>
 
@@ -709,12 +739,14 @@ The engine monitors enabled warning types and notifies registered listeners when
   Swift
 
   ``` highlight
-  public func getEnabledWarnings () -> [ WarningType ]
+  public func getEnabledWarnings() -> [WarningType]
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-warningtype">WarningType</a>
 
   </div>
 
@@ -732,7 +764,7 @@ The engine monitors enabled warning types and notifies registered listeners when
 
 - <div>
 
-      addWarningDelegate(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk12WarnerEngineC18addWarningDelegateyyAA0eF0_pF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-addWarningDelegate-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-warnerengine#sdk-for-ios-navigate-s-7heresdk12WarnerEngineC18addWarningDelegateyyAA0eF0_pF" class="token"><code>addWarningDelegate(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -763,12 +795,14 @@ The engine monitors enabled warning types and notifies registered listeners when
   Swift
 
   ``` highlight
-  public func addWarningDelegate ( _ warningListener : WarningDelegate )
+  public func addWarningDelegate(_ warningListener: WarningDelegate)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-protocols-warningdelegate">WarningDelegate</a>
 
   </div>
 
@@ -799,7 +833,7 @@ The engine monitors enabled warning types and notifies registered listeners when
 
 - <div>
 
-      removeWarningDelegate(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk12WarnerEngineC21removeWarningDelegateyyAA0eF0_pF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-removeWarningDelegate-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-warnerengine#sdk-for-ios-navigate-s-7heresdk12WarnerEngineC21removeWarningDelegateyyAA0eF0_pF" class="token"><code>removeWarningDelegate(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -830,12 +864,14 @@ The engine monitors enabled warning types and notifies registered listeners when
   Swift
 
   ``` highlight
-  public func removeWarningDelegate ( _ warningListener : WarningDelegate )
+  public func removeWarningDelegate(_ warningListener: WarningDelegate)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-protocols-warningdelegate">WarningDelegate</a>
 
   </div>
 
@@ -866,7 +902,7 @@ The engine monitors enabled warning types and notifies registered listeners when
 
 - <div>
 
-      getWarningsRegistry()
+   <span id="sdk-for-ios-navigate-s-7heresdk12WarnerEngineC19getWarningsRegistryAA0eF0CyF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-getWarningsRegistry" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-warnerengine#sdk-for-ios-navigate-s-7heresdk12WarnerEngineC19getWarningsRegistryAA0eF0CyF" class="token"><code>getWarningsRegistry()</code></a> 
 
   </div>
 
@@ -897,12 +933,14 @@ The engine monitors enabled warning types and notifies registered listeners when
   Swift
 
   ``` highlight
-  public func getWarningsRegistry () -> WarningsRegistry
+  public func getWarningsRegistry() -> WarningsRegistry
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-warningsregistry">WarningsRegistry</a>
 
   </div>
 
@@ -920,7 +958,7 @@ The engine monitors enabled warning types and notifies registered listeners when
 
 - <div>
 
-      getWarningNotificationDistances(warningType: )
+   <span id="sdk-for-ios-navigate-s-7heresdk12WarnerEngineC31getWarningNotificationDistances11warningTypeAA0efG0VAA0eI0O_tF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-getWarningNotificationDistances-warningType" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-warnerengine#sdk-for-ios-navigate-s-7heresdk12WarnerEngineC31getWarningNotificationDistances11warningTypeAA0efG0VAA0eI0O_tF" class="token"><code>getWarningNotificationDistances(warningType:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -940,12 +978,7 @@ The engine monitors enabled warning types and notifies registered listeners when
 
   Returns the warning notification distances for the requested warning type.
 
-  **Note**: <a href="sdk-for-ios-navigate-enums-warningtype#/s:7heresdk11WarningTypeO6customyA2CmF">`WarningType.custom`</a> is not a valid value for this method. Use
-
-      WarnerEngine.getCustomWarningNotificationDistances(...)
-
-  to retrieve distances for a specific custom warning type.
-  </p>
+  **Note**: <a href="sdk-for-ios-navigate-enums-warningtype#sdk-for-ios-navigate-s-7heresdk11WarningTypeO6customyA2CmF">`WarningType.custom`</a> is not a valid value for this method. Use <a href="sdk-for-ios-navigate-classes-warnerengine#sdk-for-ios-navigate-s-7heresdk12WarnerEngineC37getCustomWarningNotificationDistances06customF4TypeAA0fgH0Vs5Int32V_tF">`WarnerEngine.getCustomWarningNotificationDistances(...)`</a> to retrieve distances for a specific custom warning type.
 
   </div>
 
@@ -958,12 +991,15 @@ The engine monitors enabled warning types and notifies registered listeners when
   Swift
 
   ``` highlight
-  public func getWarningNotificationDistances ( warningType : WarningType ) -> WarningNotificationDistances
+  public func getWarningNotificationDistances(warningType: WarningType) -> WarningNotificationDistances
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-warningtype">WarningType</a>
+  - <a href="sdk-for-ios-navigate-structs-warningnotificationdistances">WarningNotificationDistances</a>
 
   </div>
 
@@ -980,7 +1016,7 @@ The engine monitors enabled warning types and notifies registered listeners when
   <tr>
   <td><code> </code><em><code>warningType</code></em><code> </code></td>
   <td><div>
-  <p>The warning type for which the notification distances will be returned. Must not be <a href="sdk-for-ios-navigate-enums-warningtype#/s:7heresdk11WarningTypeO6customyA2CmF"><code>WarningType.custom</code></a>.</p>
+  <p>The warning type for which the notification distances will be returned. Must not be <a href="sdk-for-ios-navigate-enums-warningtype#sdk-for-ios-navigate-s-7heresdk11WarningTypeO6customyA2CmF"><code>WarningType.custom</code></a>.</p>
   </div></td>
   </tr>
   </tbody>
@@ -999,7 +1035,7 @@ The engine monitors enabled warning types and notifies registered listeners when
   . If
       WarnerEngine.getWarningNotificationDistances(...).warningType
 
-  is <a href="sdk-for-ios-navigate-enums-warningtype#/s:7heresdk11WarningTypeO6customyA2CmF">`WarningType.custom`</a>, a default <a href="sdk-for-ios-navigate-structs-warningnotificationdistances">`WarningNotificationDistances`</a> value is returned.
+  is <a href="sdk-for-ios-navigate-enums-warningtype#sdk-for-ios-navigate-s-7heresdk11WarningTypeO6customyA2CmF">`WarningType.custom`</a>, a default <a href="sdk-for-ios-navigate-structs-warningnotificationdistances">`WarningNotificationDistances`</a> value is returned.
   </p>
 
   </div>
@@ -1010,7 +1046,7 @@ The engine monitors enabled warning types and notifies registered listeners when
 
 - <div>
 
-      setWarningNotificationDistances(warningType: warningNotificationDistances: )
+   <span id="sdk-for-ios-navigate-s-7heresdk12WarnerEngineC31setWarningNotificationDistances11warningType0hfG0SbAA0eI0O_AA0efG0VtF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-setWarningNotificationDistances-warningType-warningNotificationDistances" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-warnerengine#sdk-for-ios-navigate-s-7heresdk12WarnerEngineC31setWarningNotificationDistances11warningType0hfG0SbAA0eI0O_AA0efG0VtF" class="token"><code>setWarningNotificationDistances(warningType:</code><wbr></wbr><code>warningNotificationDistances:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1030,12 +1066,7 @@ The engine monitors enabled warning types and notifies registered listeners when
 
   Sets the warning notification distances for the specified warning type.
 
-  **Note**: <a href="sdk-for-ios-navigate-enums-warningtype#/s:7heresdk11WarningTypeO6customyA2CmF">`WarningType.custom`</a> is not a valid value for this method. Use
-
-      WarnerEngine.setCustomWarningNotificationDistances(...)
-
-  to configure distances for a specific custom warning type.
-  </p>
+  **Note**: <a href="sdk-for-ios-navigate-enums-warningtype#sdk-for-ios-navigate-s-7heresdk11WarningTypeO6customyA2CmF">`WarningType.custom`</a> is not a valid value for this method. Use <a href="sdk-for-ios-navigate-classes-warnerengine#sdk-for-ios-navigate-s-7heresdk12WarnerEngineC37setCustomWarningNotificationDistances06customF4Type07warninggH0Sbs5Int32V_AA0fgH0VtF">`WarnerEngine.setCustomWarningNotificationDistances(...)`</a> to configure distances for a specific custom warning type.
 
   </div>
 
@@ -1048,12 +1079,15 @@ The engine monitors enabled warning types and notifies registered listeners when
   Swift
 
   ``` highlight
-  public func setWarningNotificationDistances ( warningType : WarningType , warningNotificationDistances : WarningNotificationDistances ) -> Bool
+  public func setWarningNotificationDistances(warningType: WarningType, warningNotificationDistances: WarningNotificationDistances) -> Bool
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-warningtype">WarningType</a>
+  - <a href="sdk-for-ios-navigate-structs-warningnotificationdistances">WarningNotificationDistances</a>
 
   </div>
 
@@ -1070,7 +1104,7 @@ The engine monitors enabled warning types and notifies registered listeners when
   <tr>
   <td><code> </code><em><code>warningType</code></em><code> </code></td>
   <td><div>
-  <p>The warning type for which the warning notification distances will be set. Must not be <a href="sdk-for-ios-navigate-enums-warningtype#/s:7heresdk11WarningTypeO6customyA2CmF"><code>WarningType.custom</code></a>.</p>
+  <p>The warning type for which the warning notification distances will be set. Must not be <a href="sdk-for-ios-navigate-enums-warningtype#sdk-for-ios-navigate-s-7heresdk11WarningTypeO6customyA2CmF"><code>WarningType.custom</code></a>.</p>
   </div></td>
   </tr>
   <tr>
@@ -1092,7 +1126,7 @@ The engine monitors enabled warning types and notifies registered listeners when
 
       WarnerEngine.setWarningNotificationDistances(...).warningType
 
-  is <a href="sdk-for-ios-navigate-enums-warningtype#/s:7heresdk11WarningTypeO6customyA2CmF">`WarningType.custom`</a> or the options could not be applied.
+  is <a href="sdk-for-ios-navigate-enums-warningtype#sdk-for-ios-navigate-s-7heresdk11WarningTypeO6customyA2CmF">`WarningType.custom`</a> or the options could not be applied.
   </p>
 
   </div>
@@ -1103,7 +1137,7 @@ The engine monitors enabled warning types and notifies registered listeners when
 
 - <div>
 
-      getCustomWarningNotificationDistances(customWarningType: )
+   <span id="sdk-for-ios-navigate-s-7heresdk12WarnerEngineC37getCustomWarningNotificationDistances06customF4TypeAA0fgH0Vs5Int32V_tF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-getCustomWarningNotificationDistances-customWarningType" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-warnerengine#sdk-for-ios-navigate-s-7heresdk12WarnerEngineC37getCustomWarningNotificationDistances06customF4TypeAA0fgH0Vs5Int32V_tF" class="token"><code>getCustomWarningNotificationDistances(customWarningType:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1123,14 +1157,11 @@ The engine monitors enabled warning types and notifies registered listeners when
 
   Returns the warning notification distances for the specified custom warning type.
 
-  Unlike
+  Unlike <a href="sdk-for-ios-navigate-classes-warnerengine#sdk-for-ios-navigate-s-7heresdk12WarnerEngineC31getWarningNotificationDistances11warningTypeAA0efG0VAA0eI0O_tF">`WarnerEngine.getWarningNotificationDistances(...)`</a>, which operates on a <a href="sdk-for-ios-navigate-enums-warningtype">`WarningType`</a>, this method targets a specific custom warning category identified by
 
-      WarnerEngine.getWarningNotificationDistances(...)
-
-  , which operates on a <a href="sdk-for-ios-navigate-enums-warningtype">`WarningType`</a>, this method targets a specific custom warning category identified by
       WarnerEngine.getCustomWarningNotificationDistances(...).customWarningType
 
-  , as defined in <a href="sdk-for-ios-navigate-structs-customwarning#/s:7heresdk13CustomWarningV06customC4Types5Int32Vvp">`CustomWarning.customWarningType`</a> and <a href="sdk-for-ios-navigate-structs-warning#/s:7heresdk7WarningV06customB4Types5Int32VSgvp">`Warning.customWarningType`</a>.
+  , as defined in <a href="sdk-for-ios-navigate-structs-customwarning#sdk-for-ios-navigate-s-7heresdk13CustomWarningV06customC4Types5Int32Vvp">`CustomWarning.customWarningType`</a> and <a href="sdk-for-ios-navigate-structs-warning#sdk-for-ios-navigate-s-7heresdk7WarningV06customB4Types5Int32VSgvp">`Warning.customWarningType`</a>.
   </p>
 
   </div>
@@ -1144,12 +1175,14 @@ The engine monitors enabled warning types and notifies registered listeners when
   Swift
 
   ``` highlight
-  public func getCustomWarningNotificationDistances ( customWarningType : Int32 ) -> WarningNotificationDistances
+  public func getCustomWarningNotificationDistances(customWarningType: Int32) -> WarningNotificationDistances
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-warningnotificationdistances">WarningNotificationDistances</a>
 
   </div>
 
@@ -1195,7 +1228,7 @@ The engine monitors enabled warning types and notifies registered listeners when
 
 - <div>
 
-      setCustomWarningNotificationDistances(customWarningType: warningNotificationDistances: )
+   <span id="sdk-for-ios-navigate-s-7heresdk12WarnerEngineC37setCustomWarningNotificationDistances06customF4Type07warninggH0Sbs5Int32V_AA0fgH0VtF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-setCustomWarningNotificationDistances-customWarningType-warningNotificationDistances" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-warnerengine#sdk-for-ios-navigate-s-7heresdk12WarnerEngineC37setCustomWarningNotificationDistances06customF4Type07warninggH0Sbs5Int32V_AA0fgH0VtF" class="token"><code>setCustomWarningNotificationDistances(customWarningType:</code><wbr></wbr><code>warningNotificationDistances:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1215,14 +1248,11 @@ The engine monitors enabled warning types and notifies registered listeners when
 
   Sets the warning notification distances for the specified custom warning type.
 
-  Unlike
+  Unlike <a href="sdk-for-ios-navigate-classes-warnerengine#sdk-for-ios-navigate-s-7heresdk12WarnerEngineC31setWarningNotificationDistances11warningType0hfG0SbAA0eI0O_AA0efG0VtF">`WarnerEngine.setWarningNotificationDistances(...)`</a>, which applies settings to a <a href="sdk-for-ios-navigate-enums-warningtype">`WarningType`</a>, this method allows configuring notification distances independently for each custom warning category identified by
 
-      WarnerEngine.setWarningNotificationDistances(...)
-
-  , which applies settings to a <a href="sdk-for-ios-navigate-enums-warningtype">`WarningType`</a>, this method allows configuring notification distances independently for each custom warning category identified by
       WarnerEngine.setCustomWarningNotificationDistances(...).customWarningType
 
-  , as defined in <a href="sdk-for-ios-navigate-structs-customwarning#/s:7heresdk13CustomWarningV06customC4Types5Int32Vvp">`CustomWarning.customWarningType`</a> and <a href="sdk-for-ios-navigate-structs-warning#/s:7heresdk7WarningV06customB4Types5Int32VSgvp">`Warning.customWarningType`</a>.
+  , as defined in <a href="sdk-for-ios-navigate-structs-customwarning#sdk-for-ios-navigate-s-7heresdk13CustomWarningV06customC4Types5Int32Vvp">`CustomWarning.customWarningType`</a> and <a href="sdk-for-ios-navigate-structs-warning#sdk-for-ios-navigate-s-7heresdk7WarningV06customB4Types5Int32VSgvp">`Warning.customWarningType`</a>.
   </p>
 
   </div>
@@ -1236,12 +1266,14 @@ The engine monitors enabled warning types and notifies registered listeners when
   Swift
 
   ``` highlight
-  public func setCustomWarningNotificationDistances ( customWarningType : Int32 , warningNotificationDistances : WarningNotificationDistances ) -> Bool
+  public func setCustomWarningNotificationDistances(customWarningType: Int32, warningNotificationDistances: WarningNotificationDistances) -> Bool
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-warningnotificationdistances">WarningNotificationDistances</a>
 
   </div>
 
@@ -1291,7 +1323,7 @@ The engine monitors enabled warning types and notifies registered listeners when
 
 - <div>
 
-      finalizeGivenWarnings()
+   <span id="sdk-for-ios-navigate-s-7heresdk12WarnerEngineC21finalizeGivenWarningsyyF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-finalizeGivenWarnings" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-warnerengine#sdk-for-ios-navigate-s-7heresdk12WarnerEngineC21finalizeGivenWarningsyyF" class="token"><code>finalizeGivenWarnings()</code></a> 
 
   </div>
 
@@ -1334,10 +1366,8 @@ The engine monitors enabled warning types and notifies registered listeners when
   Swift
 
   ``` highlight
-  public func finalizeGivenWarnings ()
+  public func finalizeGivenWarnings()
   ```
-
-  </pre>
 
   </div>
 
@@ -1349,7 +1379,7 @@ The engine monitors enabled warning types and notifies registered listeners when
 
 - <div>
 
-      addCustomWarningProvider(customWarningProvider: segmentDataLoaderOptions: )
+   <span id="sdk-for-ios-navigate-s-7heresdk12WarnerEngineC24addCustomWarningProvider06customfG024segmentDataLoaderOptionsyAA0efG0_p_AA07SegmentjkL0VtF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-addCustomWarningProvider-customWarningProvider-segmentDataLoaderOptions" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-warnerengine#sdk-for-ios-navigate-s-7heresdk12WarnerEngineC24addCustomWarningProvider06customfG024segmentDataLoaderOptionsyAA0efG0_p_AA07SegmentjkL0VtF" class="token"><code>addCustomWarningProvider(customWarningProvider:</code><wbr></wbr><code>segmentDataLoaderOptions:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1382,12 +1412,15 @@ The engine monitors enabled warning types and notifies registered listeners when
   Swift
 
   ``` highlight
-  public func addCustomWarningProvider ( customWarningProvider : CustomWarningProvider , segmentDataLoaderOptions : SegmentDataLoaderOptions )
+  public func addCustomWarningProvider(customWarningProvider: CustomWarningProvider, segmentDataLoaderOptions: SegmentDataLoaderOptions)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-protocols-customwarningprovider">CustomWarningProvider</a>
+  - <a href="sdk-for-ios-navigate-structs-segmentdataloaderoptions">SegmentDataLoaderOptions</a>
 
   </div>
 
@@ -1424,7 +1457,7 @@ The engine monitors enabled warning types and notifies registered listeners when
 
 - <div>
 
-      removeCustomWarningProvider(customWarningProvider: )
+   <span id="sdk-for-ios-navigate-s-7heresdk12WarnerEngineC27removeCustomWarningProvider06customfG0yAA0efG0_p_tF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-removeCustomWarningProvider-customWarningProvider" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-warnerengine#sdk-for-ios-navigate-s-7heresdk12WarnerEngineC27removeCustomWarningProvider06customfG0yAA0efG0_p_tF" class="token"><code>removeCustomWarningProvider(customWarningProvider:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1457,12 +1490,14 @@ The engine monitors enabled warning types and notifies registered listeners when
   Swift
 
   ``` highlight
-  public func removeCustomWarningProvider ( customWarningProvider : CustomWarningProvider )
+  public func removeCustomWarningProvider(customWarningProvider: CustomWarningProvider)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-protocols-customwarningprovider">CustomWarningProvider</a>
 
   </div>
 
@@ -1494,7 +1529,7 @@ The engine monitors enabled warning types and notifies registered listeners when
 
 - <div>
 
-      clearCustomWarningProviders()
+   <span id="sdk-for-ios-navigate-s-7heresdk12WarnerEngineC27clearCustomWarningProvidersyyF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-clearCustomWarningProviders" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-warnerengine#sdk-for-ios-navigate-s-7heresdk12WarnerEngineC27clearCustomWarningProvidersyyF" class="token"><code>clearCustomWarningProviders()</code></a> 
 
   </div>
 
@@ -1529,10 +1564,8 @@ The engine monitors enabled warning types and notifies registered listeners when
   Swift
 
   ``` highlight
-  public func clearCustomWarningProviders ()
+  public func clearCustomWarningProviders()
   ```
-
-  </pre>
 
   </div>
 

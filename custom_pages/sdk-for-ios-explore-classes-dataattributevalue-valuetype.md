@@ -27,7 +27,7 @@ Supported types of the data attribute values.
 
 - <div>
 
-  ` `<span id="/s:7heresdk18DataAttributeValueC0D4TypeO6stringyA2EmF"></span>` `<span id="//apple_ref/swift/Element/string" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-dataattributevalue-valuetype#/s:7heresdk18DataAttributeValueC0D4TypeO6stringyA2EmF" class="token"><code>string</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18DataAttributeValueC0D4TypeO6stringyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-string" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-dataattributevalue-valuetype#sdk-for-ios-explore-s-7heresdk18DataAttributeValueC0D4TypeO6stringyA2EmF" class="token"><code>string</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Supported types of the data attribute values.
 
 - <div>
 
-  ` `<span id="/s:7heresdk18DataAttributeValueC0D4TypeO5int64yA2EmF"></span>` `<span id="//apple_ref/swift/Element/int64" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-dataattributevalue-valuetype#/s:7heresdk18DataAttributeValueC0D4TypeO5int64yA2EmF" class="token"><code>int64</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18DataAttributeValueC0D4TypeO5int64yA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-int64" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-dataattributevalue-valuetype#sdk-for-ios-explore-s-7heresdk18DataAttributeValueC0D4TypeO5int64yA2EmF" class="token"><code>int64</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Supported types of the data attribute values.
 
 - <div>
 
-  ` `<span id="/s:7heresdk18DataAttributeValueC0D4TypeO5floatyA2EmF"></span>` `<span id="//apple_ref/swift/Element/float" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-dataattributevalue-valuetype#/s:7heresdk18DataAttributeValueC0D4TypeO5floatyA2EmF" class="token"><code>float</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18DataAttributeValueC0D4TypeO5floatyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-float" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-dataattributevalue-valuetype#sdk-for-ios-explore-s-7heresdk18DataAttributeValueC0D4TypeO5floatyA2EmF" class="token"><code>float</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Supported types of the data attribute values.
 
 - <div>
 
-  ` `<span id="/s:7heresdk18DataAttributeValueC0D4TypeO6doubleyA2EmF"></span>` `<span id="//apple_ref/swift/Element/double" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-dataattributevalue-valuetype#/s:7heresdk18DataAttributeValueC0D4TypeO6doubleyA2EmF" class="token"><code>double</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18DataAttributeValueC0D4TypeO6doubleyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-double" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-dataattributevalue-valuetype#sdk-for-ios-explore-s-7heresdk18DataAttributeValueC0D4TypeO6doubleyA2EmF" class="token"><code>double</code></a> 
 
   </div>
 
@@ -203,7 +203,7 @@ Supported types of the data attribute values.
 
 - <div>
 
-  ` `<span id="/s:7heresdk18DataAttributeValueC0D4TypeO7booleanyA2EmF"></span>` `<span id="//apple_ref/swift/Element/boolean" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-dataattributevalue-valuetype#/s:7heresdk18DataAttributeValueC0D4TypeO7booleanyA2EmF" class="token"><code>boolean</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18DataAttributeValueC0D4TypeO7booleanyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-boolean" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-dataattributevalue-valuetype#sdk-for-ios-explore-s-7heresdk18DataAttributeValueC0D4TypeO7booleanyA2EmF" class="token"><code>boolean</code></a> 
 
   </div>
 
@@ -247,7 +247,7 @@ Supported types of the data attribute values.
 
 - <div>
 
-  ` `<span id="/s:7heresdk18DataAttributeValueC0D4TypeO5coloryA2EmF"></span>` `<span id="//apple_ref/swift/Element/color" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-dataattributevalue-valuetype#/s:7heresdk18DataAttributeValueC0D4TypeO5coloryA2EmF" class="token"><code>color</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18DataAttributeValueC0D4TypeO5coloryA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-color" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-dataattributevalue-valuetype#sdk-for-ios-explore-s-7heresdk18DataAttributeValueC0D4TypeO5coloryA2EmF" class="token"><code>color</code></a> 
 
   </div>
 
@@ -291,7 +291,7 @@ Supported types of the data attribute values.
 
 - <div>
 
-  ` `<span id="/s:7heresdk18DataAttributeValueC0D4TypeO5arrayyA2EmF"></span>` `<span id="//apple_ref/swift/Element/array" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-dataattributevalue-valuetype#/s:7heresdk18DataAttributeValueC0D4TypeO5arrayyA2EmF" class="token"><code>array</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18DataAttributeValueC0D4TypeO5arrayyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-array" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-dataattributevalue-valuetype#sdk-for-ios-explore-s-7heresdk18DataAttributeValueC0D4TypeO5arrayyA2EmF" class="token"><code>array</code></a> 
 
   </div>
 

@@ -35,7 +35,7 @@ Represents a category of place with different levels of granularity. This class 
 
 - <div>
 
-      init(id: )
+   <span id="sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC2idACSS_tcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-id" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-placecategory#sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC2idACSS_tcfc" class="token"><code>init(id:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -66,10 +66,8 @@ Represents a category of place with different levels of granularity. This class 
   Swift
 
   ``` highlight
-  public init ( id : String )
+  public init(id: String)
   ```
-
-  </pre>
 
   </div>
 
@@ -92,7 +90,7 @@ Represents a category of place with different levels of granularity. This class 
   <ol>
   <li>Level 1 represents high level groupings, such as “Eat and drink”. Their IDs take the form “xxx”, for example “100”.</li>
   <li>Level 2 represents logical sub-groups or domains, such as “Eat and Drink / Restaurant”. Their IDs take the form “xxx-xxxx”, for example “100-1000”.</li>
-  <li>Level 3 provides the greatest level of granularity about place categorization, such as “Eat and Drink / Restaurant / Casual Dining”. Their IDs take the form “xxx-xxxx-xxxx”, for example “100-1000-0001”. The category ID can be provided as one of the predefined values, such as <a href="sdk-for-ios-navigate-classes-placecategory#/s:7heresdk13PlaceCategoryC21eatAndDrinkRestaurantSSvpZ"><code>PlaceCategory.eatAndDrinkRestaurant</code></a> or as a literal string that matches one of the category IDs defined by the HERE Search service. Only level 1 and 2 category IDs are predefined. The complete list of supported category IDs, including level 3, can be found online: <a href="https://www.here.com/docs/bundle/geocoding-and-search-api-v7-api-reference/page/index.html">https://www.here.com/docs/bundle/geocoding-and-search-api-v7-api-reference/page/index.html</a>.</li>
+  <li>Level 3 provides the greatest level of granularity about place categorization, such as “Eat and Drink / Restaurant / Casual Dining”. Their IDs take the form “xxx-xxxx-xxxx”, for example “100-1000-0001”. The category ID can be provided as one of the predefined values, such as <a href="sdk-for-ios-navigate-classes-placecategory#sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC21eatAndDrinkRestaurantSSvpZ"><code>PlaceCategory.eatAndDrinkRestaurant</code></a> or as a literal string that matches one of the category IDs defined by the HERE Search service. Only level 1 and 2 category IDs are predefined. The complete list of supported category IDs, including level 3, can be found online: <a href="https://www.here.com/docs/bundle/geocoding-and-search-api-v7-api-reference/page/index.html">https://www.here.com/docs/bundle/geocoding-and-search-api-v7-api-reference/page/index.html</a>.</li>
   </ol>
   </p>
   </div></td>
@@ -108,7 +106,7 @@ Represents a category of place with different levels of granularity. This class 
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PlaceCategoryC11eatAndDrinkSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/eatAndDrink" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-placecategory#/s:7heresdk13PlaceCategoryC11eatAndDrinkSSvpZ" class="token"><code>eatAndDrink</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC11eatAndDrinkSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-eatAndDrink" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-placecategory#sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC11eatAndDrinkSSvpZ" class="token"><code>eatAndDrink</code></a> 
 
   </div>
 
@@ -152,7 +150,7 @@ Represents a category of place with different levels of granularity. This class 
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PlaceCategoryC21eatAndDrinkRestaurantSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/eatAndDrinkRestaurant" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-placecategory#/s:7heresdk13PlaceCategoryC21eatAndDrinkRestaurantSSvpZ" class="token"><code>eatAndDrinkRestaurant</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC21eatAndDrinkRestaurantSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-eatAndDrinkRestaurant" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-placecategory#sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC21eatAndDrinkRestaurantSSvpZ" class="token"><code>eatAndDrinkRestaurant</code></a> 
 
   </div>
 
@@ -196,7 +194,7 @@ Represents a category of place with different levels of granularity. This class 
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PlaceCategoryC20eatAndDrinkCoffeeTeaSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/eatAndDrinkCoffeeTea" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-placecategory#/s:7heresdk13PlaceCategoryC20eatAndDrinkCoffeeTeaSSvpZ" class="token"><code>eatAndDrinkCoffeeTea</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC20eatAndDrinkCoffeeTeaSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-eatAndDrinkCoffeeTea" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-placecategory#sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC20eatAndDrinkCoffeeTeaSSvpZ" class="token"><code>eatAndDrinkCoffeeTea</code></a> 
 
   </div>
 
@@ -240,7 +238,7 @@ Represents a category of place with different levels of granularity. This class 
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PlaceCategoryC21goingOutEntertainmentSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/goingOutEntertainment" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-placecategory#/s:7heresdk13PlaceCategoryC21goingOutEntertainmentSSvpZ" class="token"><code>goingOutEntertainment</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC21goingOutEntertainmentSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-goingOutEntertainment" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-placecategory#sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC21goingOutEntertainmentSSvpZ" class="token"><code>goingOutEntertainment</code></a> 
 
   </div>
 
@@ -284,7 +282,7 @@ Represents a category of place with different levels of granularity. This class 
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PlaceCategoryC17goingOutNightlifeSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/goingOutNightlife" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-placecategory#/s:7heresdk13PlaceCategoryC17goingOutNightlifeSSvpZ" class="token"><code>goingOutNightlife</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC17goingOutNightlifeSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-goingOutNightlife" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-placecategory#sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC17goingOutNightlifeSSvpZ" class="token"><code>goingOutNightlife</code></a> 
 
   </div>
 
@@ -328,7 +326,7 @@ Represents a category of place with different levels of granularity. This class 
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PlaceCategoryC14goingOutCinemaSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/goingOutCinema" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-placecategory#/s:7heresdk13PlaceCategoryC14goingOutCinemaSSvpZ" class="token"><code>goingOutCinema</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC14goingOutCinemaSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-goingOutCinema" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-placecategory#sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC14goingOutCinemaSSvpZ" class="token"><code>goingOutCinema</code></a> 
 
   </div>
 
@@ -372,7 +370,7 @@ Represents a category of place with different levels of granularity. This class 
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PlaceCategoryC27goingOutTheatreMusicCultureSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/goingOutTheatreMusicCulture" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-placecategory#/s:7heresdk13PlaceCategoryC27goingOutTheatreMusicCultureSSvpZ" class="token"><code>goingOutTheatreMusicCulture</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC27goingOutTheatreMusicCultureSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-goingOutTheatreMusicCulture" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-placecategory#sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC27goingOutTheatreMusicCultureSSvpZ" class="token"><code>goingOutTheatreMusicCulture</code></a> 
 
   </div>
 
@@ -416,7 +414,7 @@ Represents a category of place with different levels of granularity. This class 
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PlaceCategoryC30goingOutGamblingLotteryBettingSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/goingOutGamblingLotteryBetting" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-placecategory#/s:7heresdk13PlaceCategoryC30goingOutGamblingLotteryBettingSSvpZ" class="token"><code>goingOutGamblingLotteryBetting</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC30goingOutGamblingLotteryBettingSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-goingOutGamblingLotteryBetting" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-placecategory#sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC30goingOutGamblingLotteryBettingSSvpZ" class="token"><code>goingOutGamblingLotteryBetting</code></a> 
 
   </div>
 
@@ -460,7 +458,7 @@ Represents a category of place with different levels of granularity. This class 
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PlaceCategoryC16sightsAndMuseumsSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/sightsAndMuseums" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-placecategory#/s:7heresdk13PlaceCategoryC16sightsAndMuseumsSSvpZ" class="token"><code>sightsAndMuseums</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC16sightsAndMuseumsSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-sightsAndMuseums" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-placecategory#sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC16sightsAndMuseumsSSvpZ" class="token"><code>sightsAndMuseums</code></a> 
 
   </div>
 
@@ -504,7 +502,7 @@ Represents a category of place with different levels of granularity. This class 
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PlaceCategoryC24sightsLandmarkAttractionSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/sightsLandmarkAttraction" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-placecategory#/s:7heresdk13PlaceCategoryC24sightsLandmarkAttractionSSvpZ" class="token"><code>sightsLandmarkAttraction</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC24sightsLandmarkAttractionSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-sightsLandmarkAttraction" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-placecategory#sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC24sightsLandmarkAttractionSSvpZ" class="token"><code>sightsLandmarkAttraction</code></a> 
 
   </div>
 
@@ -548,7 +546,7 @@ Represents a category of place with different levels of granularity. This class 
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PlaceCategoryC12sightsMuseumSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/sightsMuseum" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-placecategory#/s:7heresdk13PlaceCategoryC12sightsMuseumSSvpZ" class="token"><code>sightsMuseum</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC12sightsMuseumSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-sightsMuseum" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-placecategory#sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC12sightsMuseumSSvpZ" class="token"><code>sightsMuseum</code></a> 
 
   </div>
 
@@ -592,7 +590,7 @@ Represents a category of place with different levels of granularity. This class 
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PlaceCategoryC015sightsReligiousB0SSvpZ"></span>` `<span id="//apple_ref/swift/Variable/sightsReligiousPlace" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-placecategory#/s:7heresdk13PlaceCategoryC015sightsReligiousB0SSvpZ" class="token"><code>sightsReligiousPlace</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC015sightsReligiousB0SSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-sightsReligiousPlace" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-placecategory#sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC015sightsReligiousB0SSvpZ" class="token"><code>sightsReligiousPlace</code></a> 
 
   </div>
 
@@ -636,7 +634,7 @@ Represents a category of place with different levels of granularity. This class 
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PlaceCategoryC22naturalAndGeographicalSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/naturalAndGeographical" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-placecategory#/s:7heresdk13PlaceCategoryC22naturalAndGeographicalSSvpZ" class="token"><code>naturalAndGeographical</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC22naturalAndGeographicalSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-naturalAndGeographical" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-placecategory#sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC22naturalAndGeographicalSSvpZ" class="token"><code>naturalAndGeographical</code></a> 
 
   </div>
 
@@ -680,7 +678,7 @@ Represents a category of place with different levels of granularity. This class 
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PlaceCategoryC33naturalAndGeographicalBodyOfWaterSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/naturalAndGeographicalBodyOfWater" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-placecategory#/s:7heresdk13PlaceCategoryC33naturalAndGeographicalBodyOfWaterSSvpZ" class="token"><code>naturalAndGeographicalBodyOfWater</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC33naturalAndGeographicalBodyOfWaterSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-naturalAndGeographicalBodyOfWater" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-placecategory#sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC33naturalAndGeographicalBodyOfWaterSSvpZ" class="token"><code>naturalAndGeographicalBodyOfWater</code></a> 
 
   </div>
 
@@ -724,7 +722,7 @@ Represents a category of place with different levels of granularity. This class 
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PlaceCategoryC36naturalAndGeographicalMountainOrHillSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/naturalAndGeographicalMountainOrHill" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-placecategory#/s:7heresdk13PlaceCategoryC36naturalAndGeographicalMountainOrHillSSvpZ" class="token"><code>naturalAndGeographicalMountainOrHill</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC36naturalAndGeographicalMountainOrHillSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-naturalAndGeographicalMountainOrHill" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-placecategory#sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC36naturalAndGeographicalMountainOrHillSSvpZ" class="token"><code>naturalAndGeographicalMountainOrHill</code></a> 
 
   </div>
 
@@ -768,7 +766,7 @@ Represents a category of place with different levels of granularity. This class 
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PlaceCategoryC37naturalAndGeographicalUnderseaFeatureSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/naturalAndGeographicalUnderseaFeature" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-placecategory#/s:7heresdk13PlaceCategoryC37naturalAndGeographicalUnderseaFeatureSSvpZ" class="token"><code>naturalAndGeographicalUnderseaFeature</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC37naturalAndGeographicalUnderseaFeatureSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-naturalAndGeographicalUnderseaFeature" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-placecategory#sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC37naturalAndGeographicalUnderseaFeatureSSvpZ" class="token"><code>naturalAndGeographicalUnderseaFeature</code></a> 
 
   </div>
 
@@ -812,7 +810,7 @@ Represents a category of place with different levels of granularity. This class 
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PlaceCategoryC49naturalAndGeographicalForestHealthOtherVegetationSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/naturalAndGeographicalForestHealthOtherVegetation" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-placecategory#/s:7heresdk13PlaceCategoryC49naturalAndGeographicalForestHealthOtherVegetationSSvpZ" class="token"><code>naturalAndGeographicalForestHealthOtherVegetation</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC49naturalAndGeographicalForestHealthOtherVegetationSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-naturalAndGeographicalForestHealthOtherVegetation" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-placecategory#sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC49naturalAndGeographicalForestHealthOtherVegetationSSvpZ" class="token"><code>naturalAndGeographicalForestHealthOtherVegetation</code></a> 
 
   </div>
 
@@ -856,7 +854,7 @@ Represents a category of place with different levels of granularity. This class 
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PlaceCategoryC27naturalAndGeographicalOtherSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/naturalAndGeographicalOther" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-placecategory#/s:7heresdk13PlaceCategoryC27naturalAndGeographicalOtherSSvpZ" class="token"><code>naturalAndGeographicalOther</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC27naturalAndGeographicalOtherSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-naturalAndGeographicalOther" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-placecategory#sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC27naturalAndGeographicalOtherSSvpZ" class="token"><code>naturalAndGeographicalOther</code></a> 
 
   </div>
 
@@ -900,7 +898,7 @@ Represents a category of place with different levels of granularity. This class 
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PlaceCategoryC9transportSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/transport" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-placecategory#/s:7heresdk13PlaceCategoryC9transportSSvpZ" class="token"><code>transport</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC9transportSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-transport" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-placecategory#sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC9transportSSvpZ" class="token"><code>transport</code></a> 
 
   </div>
 
@@ -944,7 +942,7 @@ Represents a category of place with different levels of granularity. This class 
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PlaceCategoryC16transportAirportSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/transportAirport" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-placecategory#/s:7heresdk13PlaceCategoryC16transportAirportSSvpZ" class="token"><code>transportAirport</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC16transportAirportSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-transportAirport" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-placecategory#sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC16transportAirportSSvpZ" class="token"><code>transportAirport</code></a> 
 
   </div>
 
@@ -988,7 +986,7 @@ Represents a category of place with different levels of granularity. This class 
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PlaceCategoryC15transportPublicSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/transportPublic" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-placecategory#/s:7heresdk13PlaceCategoryC15transportPublicSSvpZ" class="token"><code>transportPublic</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC15transportPublicSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-transportPublic" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-placecategory#sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC15transportPublicSSvpZ" class="token"><code>transportPublic</code></a> 
 
   </div>
 
@@ -1032,7 +1030,7 @@ Represents a category of place with different levels of granularity. This class 
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PlaceCategoryC14transportCargoSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/transportCargo" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-placecategory#/s:7heresdk13PlaceCategoryC14transportCargoSSvpZ" class="token"><code>transportCargo</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC14transportCargoSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-transportCargo" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-placecategory#sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC14transportCargoSSvpZ" class="token"><code>transportCargo</code></a> 
 
   </div>
 
@@ -1076,7 +1074,7 @@ Represents a category of place with different levels of granularity. This class 
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PlaceCategoryC17transportRestAreaSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/transportRestArea" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-placecategory#/s:7heresdk13PlaceCategoryC17transportRestAreaSSvpZ" class="token"><code>transportRestArea</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC17transportRestAreaSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-transportRestArea" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-placecategory#sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC17transportRestAreaSSvpZ" class="token"><code>transportRestArea</code></a> 
 
   </div>
 
@@ -1120,7 +1118,7 @@ Represents a category of place with different levels of granularity. This class 
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PlaceCategoryC13accommodationSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/accommodation" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-placecategory#/s:7heresdk13PlaceCategoryC13accommodationSSvpZ" class="token"><code>accommodation</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC13accommodationSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-accommodation" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-placecategory#sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC13accommodationSSvpZ" class="token"><code>accommodation</code></a> 
 
   </div>
 
@@ -1164,7 +1162,7 @@ Represents a category of place with different levels of granularity. This class 
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PlaceCategoryC23accommodationHotelMotelSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/accommodationHotelMotel" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-placecategory#/s:7heresdk13PlaceCategoryC23accommodationHotelMotelSSvpZ" class="token"><code>accommodationHotelMotel</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC23accommodationHotelMotelSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-accommodationHotelMotel" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-placecategory#sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC23accommodationHotelMotelSSvpZ" class="token"><code>accommodationHotelMotel</code></a> 
 
   </div>
 
@@ -1208,7 +1206,7 @@ Represents a category of place with different levels of granularity. This class 
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PlaceCategoryC20accommodationLodgingSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/accommodationLodging" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-placecategory#/s:7heresdk13PlaceCategoryC20accommodationLodgingSSvpZ" class="token"><code>accommodationLodging</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC20accommodationLodgingSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-accommodationLodging" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-placecategory#sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC20accommodationLodgingSSvpZ" class="token"><code>accommodationLodging</code></a> 
 
   </div>
 
@@ -1252,7 +1250,7 @@ Represents a category of place with different levels of granularity. This class 
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PlaceCategoryC17leisureAndOutdoorSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/leisureAndOutdoor" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-placecategory#/s:7heresdk13PlaceCategoryC17leisureAndOutdoorSSvpZ" class="token"><code>leisureAndOutdoor</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC17leisureAndOutdoorSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-leisureAndOutdoor" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-placecategory#sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC17leisureAndOutdoorSSvpZ" class="token"><code>leisureAndOutdoor</code></a> 
 
   </div>
 
@@ -1296,7 +1294,7 @@ Represents a category of place with different levels of granularity. This class 
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PlaceCategoryC24leisureOutdoorRecreationSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/leisureOutdoorRecreation" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-placecategory#/s:7heresdk13PlaceCategoryC24leisureOutdoorRecreationSSvpZ" class="token"><code>leisureOutdoorRecreation</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC24leisureOutdoorRecreationSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-leisureOutdoorRecreation" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-placecategory#sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC24leisureOutdoorRecreationSSvpZ" class="token"><code>leisureOutdoorRecreation</code></a> 
 
   </div>
 
@@ -1340,7 +1338,7 @@ Represents a category of place with different levels of granularity. This class 
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PlaceCategoryC12leisureOtherSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/leisureOther" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-placecategory#/s:7heresdk13PlaceCategoryC12leisureOtherSSvpZ" class="token"><code>leisureOther</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC12leisureOtherSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-leisureOther" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-placecategory#sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC12leisureOtherSSvpZ" class="token"><code>leisureOther</code></a> 
 
   </div>
 
@@ -1384,7 +1382,7 @@ Represents a category of place with different levels of granularity. This class 
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PlaceCategoryC8shoppingSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/shopping" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-placecategory#/s:7heresdk13PlaceCategoryC8shoppingSSvpZ" class="token"><code>shopping</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC8shoppingSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-shopping" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-placecategory#sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC8shoppingSSvpZ" class="token"><code>shopping</code></a> 
 
   </div>
 
@@ -1428,7 +1426,7 @@ Represents a category of place with different levels of granularity. This class 
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PlaceCategoryC24shoppingConvenienceStoreSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/shoppingConvenienceStore" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-placecategory#/s:7heresdk13PlaceCategoryC24shoppingConvenienceStoreSSvpZ" class="token"><code>shoppingConvenienceStore</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC24shoppingConvenienceStoreSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-shoppingConvenienceStore" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-placecategory#sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC24shoppingConvenienceStoreSSvpZ" class="token"><code>shoppingConvenienceStore</code></a> 
 
   </div>
 
@@ -1472,7 +1470,7 @@ Represents a category of place with different levels of granularity. This class 
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PlaceCategoryC19shoppingMallComplexSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/shoppingMallComplex" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-placecategory#/s:7heresdk13PlaceCategoryC19shoppingMallComplexSSvpZ" class="token"><code>shoppingMallComplex</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC19shoppingMallComplexSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-shoppingMallComplex" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-placecategory#sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC19shoppingMallComplexSSvpZ" class="token"><code>shoppingMallComplex</code></a> 
 
   </div>
 
@@ -1516,7 +1514,7 @@ Represents a category of place with different levels of granularity. This class 
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PlaceCategoryC23shoppingDepartmentStoreSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/shoppingDepartmentStore" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-placecategory#/s:7heresdk13PlaceCategoryC23shoppingDepartmentStoreSSvpZ" class="token"><code>shoppingDepartmentStore</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC23shoppingDepartmentStoreSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-shoppingDepartmentStore" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-placecategory#sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC23shoppingDepartmentStoreSSvpZ" class="token"><code>shoppingDepartmentStore</code></a> 
 
   </div>
 
@@ -1560,7 +1558,7 @@ Represents a category of place with different levels of granularity. This class 
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PlaceCategoryC20shoppingFoodAndDrinkSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/shoppingFoodAndDrink" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-placecategory#/s:7heresdk13PlaceCategoryC20shoppingFoodAndDrinkSSvpZ" class="token"><code>shoppingFoodAndDrink</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC20shoppingFoodAndDrinkSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-shoppingFoodAndDrink" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-placecategory#sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC20shoppingFoodAndDrinkSSvpZ" class="token"><code>shoppingFoodAndDrink</code></a> 
 
   </div>
 
@@ -1604,7 +1602,7 @@ Represents a category of place with different levels of granularity. This class 
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PlaceCategoryC25shoppingDrugstorePharmacySSvpZ"></span>` `<span id="//apple_ref/swift/Variable/shoppingDrugstorePharmacy" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-placecategory#/s:7heresdk13PlaceCategoryC25shoppingDrugstorePharmacySSvpZ" class="token"><code>shoppingDrugstorePharmacy</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC25shoppingDrugstorePharmacySSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-shoppingDrugstorePharmacy" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-placecategory#sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC25shoppingDrugstorePharmacySSvpZ" class="token"><code>shoppingDrugstorePharmacy</code></a> 
 
   </div>
 
@@ -1648,7 +1646,7 @@ Represents a category of place with different levels of granularity. This class 
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PlaceCategoryC19shoppingElectronicsSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/shoppingElectronics" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-placecategory#/s:7heresdk13PlaceCategoryC19shoppingElectronicsSSvpZ" class="token"><code>shoppingElectronics</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC19shoppingElectronicsSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-shoppingElectronics" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-placecategory#sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC19shoppingElectronicsSSvpZ" class="token"><code>shoppingElectronics</code></a> 
 
   </div>
 
@@ -1692,7 +1690,7 @@ Represents a category of place with different levels of granularity. This class 
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PlaceCategoryC27shoppingHardwareHouseGardenSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/shoppingHardwareHouseGarden" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-placecategory#/s:7heresdk13PlaceCategoryC27shoppingHardwareHouseGardenSSvpZ" class="token"><code>shoppingHardwareHouseGarden</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC27shoppingHardwareHouseGardenSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-shoppingHardwareHouseGarden" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-placecategory#sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC27shoppingHardwareHouseGardenSSvpZ" class="token"><code>shoppingHardwareHouseGarden</code></a> 
 
   </div>
 
@@ -1736,7 +1734,7 @@ Represents a category of place with different levels of granularity. This class 
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PlaceCategoryC17shoppingBookstoreSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/shoppingBookstore" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-placecategory#/s:7heresdk13PlaceCategoryC17shoppingBookstoreSSvpZ" class="token"><code>shoppingBookstore</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC17shoppingBookstoreSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-shoppingBookstore" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-placecategory#sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC17shoppingBookstoreSSvpZ" class="token"><code>shoppingBookstore</code></a> 
 
   </div>
 
@@ -1780,7 +1778,7 @@ Represents a category of place with different levels of granularity. This class 
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PlaceCategoryC29shoppingClothingAndAccesoriesSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/shoppingClothingAndAccesories" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-placecategory#/s:7heresdk13PlaceCategoryC29shoppingClothingAndAccesoriesSSvpZ" class="token"><code>shoppingClothingAndAccesories</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC29shoppingClothingAndAccesoriesSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-shoppingClothingAndAccesories" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-placecategory#sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC29shoppingClothingAndAccesoriesSSvpZ" class="token"><code>shoppingClothingAndAccesories</code></a> 
 
   </div>
 
@@ -1824,7 +1822,7 @@ Represents a category of place with different levels of granularity. This class 
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PlaceCategoryC21shoppingConsumerGoodsSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/shoppingConsumerGoods" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-placecategory#/s:7heresdk13PlaceCategoryC21shoppingConsumerGoodsSSvpZ" class="token"><code>shoppingConsumerGoods</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC21shoppingConsumerGoodsSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-shoppingConsumerGoods" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-placecategory#sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC21shoppingConsumerGoodsSSvpZ" class="token"><code>shoppingConsumerGoods</code></a> 
 
   </div>
 
@@ -1868,7 +1866,7 @@ Represents a category of place with different levels of granularity. This class 
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PlaceCategoryC21shoppingHairAndBeautySSvpZ"></span>` `<span id="//apple_ref/swift/Variable/shoppingHairAndBeauty" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-placecategory#/s:7heresdk13PlaceCategoryC21shoppingHairAndBeautySSvpZ" class="token"><code>shoppingHairAndBeauty</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC21shoppingHairAndBeautySSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-shoppingHairAndBeauty" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-placecategory#sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC21shoppingHairAndBeautySSvpZ" class="token"><code>shoppingHairAndBeauty</code></a> 
 
   </div>
 
@@ -1912,7 +1910,7 @@ Represents a category of place with different levels of granularity. This class 
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PlaceCategoryC19businessAndServicesSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/businessAndServices" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-placecategory#/s:7heresdk13PlaceCategoryC19businessAndServicesSSvpZ" class="token"><code>businessAndServices</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC19businessAndServicesSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-businessAndServices" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-placecategory#sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC19businessAndServicesSSvpZ" class="token"><code>businessAndServices</code></a> 
 
   </div>
 
@@ -1956,7 +1954,7 @@ Represents a category of place with different levels of granularity. This class 
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PlaceCategoryC26businessAndServicesBankingSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/businessAndServicesBanking" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-placecategory#/s:7heresdk13PlaceCategoryC26businessAndServicesBankingSSvpZ" class="token"><code>businessAndServicesBanking</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC26businessAndServicesBankingSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-businessAndServicesBanking" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-placecategory#sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC26businessAndServicesBankingSSvpZ" class="token"><code>businessAndServicesBanking</code></a> 
 
   </div>
 
@@ -2000,7 +1998,7 @@ Represents a category of place with different levels of granularity. This class 
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PlaceCategoryC22businessAndServicesAtmSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/businessAndServicesAtm" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-placecategory#/s:7heresdk13PlaceCategoryC22businessAndServicesAtmSSvpZ" class="token"><code>businessAndServicesAtm</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC22businessAndServicesAtmSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-businessAndServicesAtm" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-placecategory#sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC22businessAndServicesAtmSSvpZ" class="token"><code>businessAndServicesAtm</code></a> 
 
   </div>
 
@@ -2044,7 +2042,7 @@ Represents a category of place with different levels of granularity. This class 
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PlaceCategoryC28businessAndServicesMoneyCashSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/businessAndServicesMoneyCash" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-placecategory#/s:7heresdk13PlaceCategoryC28businessAndServicesMoneyCashSSvpZ" class="token"><code>businessAndServicesMoneyCash</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC28businessAndServicesMoneyCashSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-businessAndServicesMoneyCash" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-placecategory#sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC28businessAndServicesMoneyCashSSvpZ" class="token"><code>businessAndServicesMoneyCash</code></a> 
 
   </div>
 
@@ -2088,7 +2086,7 @@ Represents a category of place with different levels of granularity. This class 
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PlaceCategoryC37businessAndServicesCommunicationMediaSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/businessAndServicesCommunicationMedia" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-placecategory#/s:7heresdk13PlaceCategoryC37businessAndServicesCommunicationMediaSSvpZ" class="token"><code>businessAndServicesCommunicationMedia</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC37businessAndServicesCommunicationMediaSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-businessAndServicesCommunicationMedia" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-placecategory#sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC37businessAndServicesCommunicationMediaSSvpZ" class="token"><code>businessAndServicesCommunicationMedia</code></a> 
 
   </div>
 
@@ -2132,7 +2130,7 @@ Represents a category of place with different levels of granularity. This class 
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PlaceCategoryC29businessAndCommercialServicesSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/businessAndCommercialServices" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-placecategory#/s:7heresdk13PlaceCategoryC29businessAndCommercialServicesSSvpZ" class="token"><code>businessAndCommercialServices</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC29businessAndCommercialServicesSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-businessAndCommercialServices" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-placecategory#sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC29businessAndCommercialServicesSSvpZ" class="token"><code>businessAndCommercialServices</code></a> 
 
   </div>
 
@@ -2176,7 +2174,7 @@ Represents a category of place with different levels of granularity. This class 
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PlaceCategoryC27businessAndServicesIndustrySSvpZ"></span>` `<span id="//apple_ref/swift/Variable/businessAndServicesIndustry" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-placecategory#/s:7heresdk13PlaceCategoryC27businessAndServicesIndustrySSvpZ" class="token"><code>businessAndServicesIndustry</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC27businessAndServicesIndustrySSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-businessAndServicesIndustry" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-placecategory#sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC27businessAndServicesIndustrySSvpZ" class="token"><code>businessAndServicesIndustry</code></a> 
 
   </div>
 
@@ -2220,7 +2218,7 @@ Represents a category of place with different levels of granularity. This class 
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PlaceCategoryC38businessAndServicesPoliceFireEmergencySSvpZ"></span>` `<span id="//apple_ref/swift/Variable/businessAndServicesPoliceFireEmergency" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-placecategory#/s:7heresdk13PlaceCategoryC38businessAndServicesPoliceFireEmergencySSvpZ" class="token"><code>businessAndServicesPoliceFireEmergency</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC38businessAndServicesPoliceFireEmergencySSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-businessAndServicesPoliceFireEmergency" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-placecategory#sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC38businessAndServicesPoliceFireEmergencySSvpZ" class="token"><code>businessAndServicesPoliceFireEmergency</code></a> 
 
   </div>
 
@@ -2264,7 +2262,7 @@ Represents a category of place with different levels of granularity. This class 
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PlaceCategoryC27businessAndConsumerServicesSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/businessAndConsumerServices" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-placecategory#/s:7heresdk13PlaceCategoryC27businessAndConsumerServicesSSvpZ" class="token"><code>businessAndConsumerServices</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC27businessAndConsumerServicesSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-businessAndConsumerServices" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-placecategory#sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC27businessAndConsumerServicesSSvpZ" class="token"><code>businessAndConsumerServices</code></a> 
 
   </div>
 
@@ -2308,7 +2306,7 @@ Represents a category of place with different levels of granularity. This class 
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PlaceCategoryC29businessAndServicesPostOfficeSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/businessAndServicesPostOffice" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-placecategory#/s:7heresdk13PlaceCategoryC29businessAndServicesPostOfficeSSvpZ" class="token"><code>businessAndServicesPostOffice</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC29businessAndServicesPostOfficeSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-businessAndServicesPostOffice" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-placecategory#sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC29businessAndServicesPostOfficeSSvpZ" class="token"><code>businessAndServicesPostOffice</code></a> 
 
   </div>
 
@@ -2352,7 +2350,7 @@ Represents a category of place with different levels of granularity. This class 
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PlaceCategoryC37businessAndServicesTouristInformationSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/businessAndServicesTouristInformation" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-placecategory#/s:7heresdk13PlaceCategoryC37businessAndServicesTouristInformationSSvpZ" class="token"><code>businessAndServicesTouristInformation</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC37businessAndServicesTouristInformationSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-businessAndServicesTouristInformation" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-placecategory#sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC37businessAndServicesTouristInformationSSvpZ" class="token"><code>businessAndServicesTouristInformation</code></a> 
 
   </div>
 
@@ -2396,7 +2394,7 @@ Represents a category of place with different levels of granularity. This class 
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PlaceCategoryC33businessAndServicesFuelingStationSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/businessAndServicesFuelingStation" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-placecategory#/s:7heresdk13PlaceCategoryC33businessAndServicesFuelingStationSSvpZ" class="token"><code>businessAndServicesFuelingStation</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC33businessAndServicesFuelingStationSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-businessAndServicesFuelingStation" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-placecategory#sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC33businessAndServicesFuelingStationSSvpZ" class="token"><code>businessAndServicesFuelingStation</code></a> 
 
   </div>
 
@@ -2440,7 +2438,7 @@ Represents a category of place with different levels of granularity. This class 
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PlaceCategoryC40businessAndServicesPetrolGasolineStationSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/businessAndServicesPetrolGasolineStation" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-placecategory#/s:7heresdk13PlaceCategoryC40businessAndServicesPetrolGasolineStationSSvpZ" class="token"><code>businessAndServicesPetrolGasolineStation</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC40businessAndServicesPetrolGasolineStationSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-businessAndServicesPetrolGasolineStation" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-placecategory#sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC40businessAndServicesPetrolGasolineStationSSvpZ" class="token"><code>businessAndServicesPetrolGasolineStation</code></a> 
 
   </div>
 
@@ -2484,7 +2482,7 @@ Represents a category of place with different levels of granularity. This class 
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PlaceCategoryC36businessAndServicesEvChargingStationSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/businessAndServicesEvChargingStation" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-placecategory#/s:7heresdk13PlaceCategoryC36businessAndServicesEvChargingStationSSvpZ" class="token"><code>businessAndServicesEvChargingStation</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC36businessAndServicesEvChargingStationSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-businessAndServicesEvChargingStation" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-placecategory#sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC36businessAndServicesEvChargingStationSSvpZ" class="token"><code>businessAndServicesEvChargingStation</code></a> 
 
   </div>
 
@@ -2528,7 +2526,7 @@ Represents a category of place with different levels of granularity. This class 
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PlaceCategoryC33businessAndServicesCarDealerSalesSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/businessAndServicesCarDealerSales" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-placecategory#/s:7heresdk13PlaceCategoryC33businessAndServicesCarDealerSalesSSvpZ" class="token"><code>businessAndServicesCarDealerSales</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC33businessAndServicesCarDealerSalesSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-businessAndServicesCarDealerSales" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-placecategory#sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC33businessAndServicesCarDealerSalesSSvpZ" class="token"><code>businessAndServicesCarDealerSales</code></a> 
 
   </div>
 
@@ -2572,7 +2570,7 @@ Represents a category of place with different levels of granularity. This class 
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PlaceCategoryC028businessAndServicesCarRepairF0SSvpZ"></span>` `<span id="//apple_ref/swift/Variable/businessAndServicesCarRepairServices" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-placecategory#/s:7heresdk13PlaceCategoryC028businessAndServicesCarRepairF0SSvpZ" class="token"><code>businessAndServicesCarRepairServices</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC028businessAndServicesCarRepairF0SSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-businessAndServicesCarRepairServices" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-placecategory#sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC028businessAndServicesCarRepairF0SSvpZ" class="token"><code>businessAndServicesCarRepairServices</code></a> 
 
   </div>
 
@@ -2616,7 +2614,7 @@ Represents a category of place with different levels of granularity. This class 
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PlaceCategoryC28businessAndServicesCarRentalSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/businessAndServicesCarRental" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-placecategory#/s:7heresdk13PlaceCategoryC28businessAndServicesCarRentalSSvpZ" class="token"><code>businessAndServicesCarRental</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC28businessAndServicesCarRentalSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-businessAndServicesCarRental" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-placecategory#sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC28businessAndServicesCarRentalSSvpZ" class="token"><code>businessAndServicesCarRental</code></a> 
 
   </div>
 
@@ -2660,7 +2658,7 @@ Represents a category of place with different levels of granularity. This class 
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PlaceCategoryC34businessAndServicesTruckSemiDealerSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/businessAndServicesTruckSemiDealer" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-placecategory#/s:7heresdk13PlaceCategoryC34businessAndServicesTruckSemiDealerSSvpZ" class="token"><code>businessAndServicesTruckSemiDealer</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC34businessAndServicesTruckSemiDealerSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-businessAndServicesTruckSemiDealer" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-placecategory#sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC34businessAndServicesTruckSemiDealerSSvpZ" class="token"><code>businessAndServicesTruckSemiDealer</code></a> 
 
   </div>
 
@@ -2704,7 +2702,7 @@ Represents a category of place with different levels of granularity. This class 
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PlaceCategoryC10facilitiesSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/facilities" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-placecategory#/s:7heresdk13PlaceCategoryC10facilitiesSSvpZ" class="token"><code>facilities</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC10facilitiesSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-facilities" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-placecategory#sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC10facilitiesSSvpZ" class="token"><code>facilities</code></a> 
 
   </div>
 
@@ -2748,7 +2746,7 @@ Represents a category of place with different levels of granularity. This class 
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PlaceCategoryC28facilitiesHospitalHealthcareSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/facilitiesHospitalHealthcare" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-placecategory#/s:7heresdk13PlaceCategoryC28facilitiesHospitalHealthcareSSvpZ" class="token"><code>facilitiesHospitalHealthcare</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC28facilitiesHospitalHealthcareSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-facilitiesHospitalHealthcare" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-placecategory#sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC28facilitiesHospitalHealthcareSSvpZ" class="token"><code>facilitiesHospitalHealthcare</code></a> 
 
   </div>
 
@@ -2792,7 +2790,7 @@ Represents a category of place with different levels of granularity. This class 
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PlaceCategoryC30facilitiesGovernmentCommunittySSvpZ"></span>` `<span id="//apple_ref/swift/Variable/facilitiesGovernmentCommunitty" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-placecategory#/s:7heresdk13PlaceCategoryC30facilitiesGovernmentCommunittySSvpZ" class="token"><code>facilitiesGovernmentCommunitty</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC30facilitiesGovernmentCommunittySSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-facilitiesGovernmentCommunitty" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-placecategory#sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC30facilitiesGovernmentCommunittySSvpZ" class="token"><code>facilitiesGovernmentCommunitty</code></a> 
 
   </div>
 
@@ -2836,7 +2834,7 @@ Represents a category of place with different levels of granularity. This class 
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PlaceCategoryC19facilitiesEducationSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/facilitiesEducation" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-placecategory#/s:7heresdk13PlaceCategoryC19facilitiesEducationSSvpZ" class="token"><code>facilitiesEducation</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC19facilitiesEducationSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-facilitiesEducation" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-placecategory#sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC19facilitiesEducationSSvpZ" class="token"><code>facilitiesEducation</code></a> 
 
   </div>
 
@@ -2880,7 +2878,7 @@ Represents a category of place with different levels of granularity. This class 
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PlaceCategoryC16facilitiesSchoolSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/facilitiesSchool" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-placecategory#/s:7heresdk13PlaceCategoryC16facilitiesSchoolSSvpZ" class="token"><code>facilitiesSchool</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC16facilitiesSchoolSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-facilitiesSchool" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-placecategory#sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC16facilitiesSchoolSSvpZ" class="token"><code>facilitiesSchool</code></a> 
 
   </div>
 
@@ -2924,7 +2922,7 @@ Represents a category of place with different levels of granularity. This class 
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PlaceCategoryC17facilitiesLibrarySSvpZ"></span>` `<span id="//apple_ref/swift/Variable/facilitiesLibrary" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-placecategory#/s:7heresdk13PlaceCategoryC17facilitiesLibrarySSvpZ" class="token"><code>facilitiesLibrary</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC17facilitiesLibrarySSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-facilitiesLibrary" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-placecategory#sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC17facilitiesLibrarySSvpZ" class="token"><code>facilitiesLibrary</code></a> 
 
   </div>
 
@@ -2968,7 +2966,7 @@ Represents a category of place with different levels of granularity. This class 
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PlaceCategoryC21facilitiesEventSpacesSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/facilitiesEventSpaces" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-placecategory#/s:7heresdk13PlaceCategoryC21facilitiesEventSpacesSSvpZ" class="token"><code>facilitiesEventSpaces</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC21facilitiesEventSpacesSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-facilitiesEventSpaces" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-placecategory#sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC21facilitiesEventSpacesSSvpZ" class="token"><code>facilitiesEventSpaces</code></a> 
 
   </div>
 
@@ -3012,7 +3010,7 @@ Represents a category of place with different levels of granularity. This class 
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PlaceCategoryC17facilitiesParkingSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/facilitiesParking" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-placecategory#/s:7heresdk13PlaceCategoryC17facilitiesParkingSSvpZ" class="token"><code>facilitiesParking</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC17facilitiesParkingSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-facilitiesParking" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-placecategory#sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC17facilitiesParkingSSvpZ" class="token"><code>facilitiesParking</code></a> 
 
   </div>
 
@@ -3056,7 +3054,7 @@ Represents a category of place with different levels of granularity. This class 
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PlaceCategoryC21facilitiesVenueSportsSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/facilitiesVenueSports" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-placecategory#/s:7heresdk13PlaceCategoryC21facilitiesVenueSportsSSvpZ" class="token"><code>facilitiesVenueSports</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC21facilitiesVenueSportsSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-facilitiesVenueSports" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-placecategory#sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC21facilitiesVenueSportsSSvpZ" class="token"><code>facilitiesVenueSports</code></a> 
 
   </div>
 
@@ -3100,7 +3098,7 @@ Represents a category of place with different levels of granularity. This class 
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PlaceCategoryC15facilitiesOtherSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/facilitiesOther" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-placecategory#/s:7heresdk13PlaceCategoryC15facilitiesOtherSSvpZ" class="token"><code>facilitiesOther</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC15facilitiesOtherSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-facilitiesOther" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-placecategory#sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC15facilitiesOtherSSvpZ" class="token"><code>facilitiesOther</code></a> 
 
   </div>
 
@@ -3144,7 +3142,7 @@ Represents a category of place with different levels of granularity. This class 
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PlaceCategoryC17areasAndBuildingsSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/areasAndBuildings" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-placecategory#/s:7heresdk13PlaceCategoryC17areasAndBuildingsSSvpZ" class="token"><code>areasAndBuildings</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC17areasAndBuildingsSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-areasAndBuildings" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-placecategory#sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC17areasAndBuildingsSSvpZ" class="token"><code>areasAndBuildings</code></a> 
 
   </div>
 
@@ -3188,7 +3186,7 @@ Represents a category of place with different levels of granularity. This class 
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PlaceCategoryC31areasAndBuildingsOutdoorComplexSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/areasAndBuildingsOutdoorComplex" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-placecategory#/s:7heresdk13PlaceCategoryC31areasAndBuildingsOutdoorComplexSSvpZ" class="token"><code>areasAndBuildingsOutdoorComplex</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC31areasAndBuildingsOutdoorComplexSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-areasAndBuildingsOutdoorComplex" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-placecategory#sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC31areasAndBuildingsOutdoorComplexSSvpZ" class="token"><code>areasAndBuildingsOutdoorComplex</code></a> 
 
   </div>
 
@@ -3232,7 +3230,7 @@ Represents a category of place with different levels of granularity. This class 
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PlaceCategoryC33areasAndBuildingsResidentalOfficeSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/areasAndBuildingsResidentalOffice" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-placecategory#/s:7heresdk13PlaceCategoryC33areasAndBuildingsResidentalOfficeSSvpZ" class="token"><code>areasAndBuildingsResidentalOffice</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC33areasAndBuildingsResidentalOfficeSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-areasAndBuildingsResidentalOffice" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-placecategory#sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC33areasAndBuildingsResidentalOfficeSSvpZ" class="token"><code>areasAndBuildingsResidentalOffice</code></a> 
 
   </div>
 
@@ -3276,7 +3274,7 @@ Represents a category of place with different levels of granularity. This class 
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PlaceCategoryC2idSSvp"></span>` `<span id="//apple_ref/swift/Property/id" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-placecategory#/s:7heresdk13PlaceCategoryC2idSSvp" class="token"><code>id</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC2idSSvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-id" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-placecategory#sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC2idSSvp" class="token"><code>id</code></a> 
 
   </div>
 
@@ -3320,7 +3318,7 @@ Represents a category of place with different levels of granularity. This class 
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PlaceCategoryC4nameSSSgvp"></span>` `<span id="//apple_ref/swift/Property/name" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-placecategory#/s:7heresdk13PlaceCategoryC4nameSSSgvp" class="token"><code>name</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC4nameSSSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-name" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-placecategory#sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC4nameSSSgvp" class="token"><code>name</code></a> 
 
   </div>
 

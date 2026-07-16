@@ -27,7 +27,7 @@ A single profile value which indicates the speed range in which it applies to it
 
 - <div>
 
-  ` `<span id="/s:7heresdk24SpeedBasedCameraBehaviorC12ProfileValueV19fromMetersPerSecondSdvp"></span>` `<span id="//apple_ref/swift/Property/fromMetersPerSecond" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-speedbasedcamerabehavior-profilevalue#/s:7heresdk24SpeedBasedCameraBehaviorC12ProfileValueV19fromMetersPerSecondSdvp" class="token"><code>fromMetersPerSecond</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk24SpeedBasedCameraBehaviorC12ProfileValueV19fromMetersPerSecondSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-fromMetersPerSecond" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-speedbasedcamerabehavior-profilevalue#sdk-for-ios-navigate-s-7heresdk24SpeedBasedCameraBehaviorC12ProfileValueV19fromMetersPerSecondSdvp" class="token"><code>fromMetersPerSecond</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ A single profile value which indicates the speed range in which it applies to it
 
 - <div>
 
-  ` `<span id="/s:7heresdk24SpeedBasedCameraBehaviorC12ProfileValueV17toMetersPerSecondSdvp"></span>` `<span id="//apple_ref/swift/Property/toMetersPerSecond" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-speedbasedcamerabehavior-profilevalue#/s:7heresdk24SpeedBasedCameraBehaviorC12ProfileValueV17toMetersPerSecondSdvp" class="token"><code>toMetersPerSecond</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk24SpeedBasedCameraBehaviorC12ProfileValueV17toMetersPerSecondSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-toMetersPerSecond" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-speedbasedcamerabehavior-profilevalue#sdk-for-ios-navigate-s-7heresdk24SpeedBasedCameraBehaviorC12ProfileValueV17toMetersPerSecondSdvp" class="token"><code>toMetersPerSecond</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ A single profile value which indicates the speed range in which it applies to it
 
 - <div>
 
-  ` `<span id="/s:7heresdk24SpeedBasedCameraBehaviorC12ProfileValueV4zoomAA10MapMeasureVvp"></span>` `<span id="//apple_ref/swift/Property/zoom" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-speedbasedcamerabehavior-profilevalue#/s:7heresdk24SpeedBasedCameraBehaviorC12ProfileValueV4zoomAA10MapMeasureVvp" class="token"><code>zoom</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk24SpeedBasedCameraBehaviorC12ProfileValueV4zoomAA10MapMeasureVvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-zoom" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-speedbasedcamerabehavior-profilevalue#sdk-for-ios-navigate-s-7heresdk24SpeedBasedCameraBehaviorC12ProfileValueV4zoomAA10MapMeasureVvp" class="token"><code>zoom</code></a> 
 
   </div>
 
@@ -133,7 +133,7 @@ A single profile value which indicates the speed range in which it applies to it
 
   <div class="abstract">
 
-  Zoom configuration. Note: <a href="sdk-for-ios-navigate-structs-mapmeasure-kind#/s:7heresdk10MapMeasureV4KindO5scaleyA2EmF">`MapMeasure.Kind.scale`</a> is not supported.
+  Zoom configuration. Note: <a href="sdk-for-ios-navigate-structs-mapmeasure-kind#sdk-for-ios-navigate-s-7heresdk10MapMeasureV4KindO5scaleyA2EmF">`MapMeasure.Kind.scale`</a> is not supported.
 
   </div>
 
@@ -151,6 +151,10 @@ A single profile value which indicates the speed range in which it applies to it
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-mapmeasure">MapMeasure</a>
+
   </div>
 
   </div>
@@ -159,7 +163,7 @@ A single profile value which indicates the speed range in which it applies to it
 
 - <div>
 
-  ` `<span id="/s:7heresdk24SpeedBasedCameraBehaviorC12ProfileValueV13tiltInDegreesSdvp"></span>` `<span id="//apple_ref/swift/Property/tiltInDegrees" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-speedbasedcamerabehavior-profilevalue#/s:7heresdk24SpeedBasedCameraBehaviorC12ProfileValueV13tiltInDegreesSdvp" class="token"><code>tiltInDegrees</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk24SpeedBasedCameraBehaviorC12ProfileValueV13tiltInDegreesSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-tiltInDegrees" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-speedbasedcamerabehavior-profilevalue#sdk-for-ios-navigate-s-7heresdk24SpeedBasedCameraBehaviorC12ProfileValueV13tiltInDegreesSdvp" class="token"><code>tiltInDegrees</code></a> 
 
   </div>
 
@@ -203,7 +207,7 @@ A single profile value which indicates the speed range in which it applies to it
 
 - <div>
 
-      init(fromMetersPerSecond: toMetersPerSecond: zoom: tiltInDegrees: )
+   <span id="sdk-for-ios-navigate-s-7heresdk24SpeedBasedCameraBehaviorC12ProfileValueV19fromMetersPerSecond02toijK04zoom13tiltInDegreesAESd_SdAA10MapMeasureVSdtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-fromMetersPerSecond-toMetersPerSecond-zoom-tiltInDegrees" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-speedbasedcamerabehavior-profilevalue#sdk-for-ios-navigate-s-7heresdk24SpeedBasedCameraBehaviorC12ProfileValueV19fromMetersPerSecond02toijK04zoom13tiltInDegreesAESd_SdAA10MapMeasureVSdtcfc" class="token"><code>init(fromMetersPerSecond:</code><wbr></wbr><code>toMetersPerSecond:</code><wbr></wbr><code>zoom:</code><wbr></wbr><code>tiltInDegrees:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -234,12 +238,14 @@ A single profile value which indicates the speed range in which it applies to it
   Swift
 
   ``` highlight
-  public init ( fromMetersPerSecond : Double , toMetersPerSecond : Double , zoom : MapMeasure , tiltInDegrees : Double )
+  public init(fromMetersPerSecond: Double, toMetersPerSecond: Double, zoom: MapMeasure, tiltInDegrees: Double)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-mapmeasure">MapMeasure</a>
 
   </div>
 

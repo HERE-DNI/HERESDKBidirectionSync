@@ -27,7 +27,7 @@ Defines how the geometry will be presented.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13VenueGeometryC10LookupTypeO4noneyA2EmF"></span>` `<span id="//apple_ref/swift/Element/none" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuegeometry-lookuptype#/s:7heresdk13VenueGeometryC10LookupTypeO4noneyA2EmF" class="token"><code>none</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13VenueGeometryC10LookupTypeO4noneyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-none" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuegeometry-lookuptype#sdk-for-ios-explore-s-7heresdk13VenueGeometryC10LookupTypeO4noneyA2EmF" class="token"><code>none</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Defines how the geometry will be presented.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13VenueGeometryC10LookupTypeO4textyA2EmF"></span>` `<span id="//apple_ref/swift/Element/text" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuegeometry-lookuptype#/s:7heresdk13VenueGeometryC10LookupTypeO4textyA2EmF" class="token"><code>text</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13VenueGeometryC10LookupTypeO4textyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-text" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuegeometry-lookuptype#sdk-for-ios-explore-s-7heresdk13VenueGeometryC10LookupTypeO4textyA2EmF" class="token"><code>text</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Defines how the geometry will be presented.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13VenueGeometryC10LookupTypeO4iconyA2EmF"></span>` `<span id="//apple_ref/swift/Element/icon" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuegeometry-lookuptype#/s:7heresdk13VenueGeometryC10LookupTypeO4iconyA2EmF" class="token"><code>icon</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13VenueGeometryC10LookupTypeO4iconyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-icon" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuegeometry-lookuptype#sdk-for-ios-explore-s-7heresdk13VenueGeometryC10LookupTypeO4iconyA2EmF" class="token"><code>icon</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Defines how the geometry will be presented.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13VenueGeometryC10LookupTypeO5imageyA2EmF"></span>` `<span id="//apple_ref/swift/Element/image" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuegeometry-lookuptype#/s:7heresdk13VenueGeometryC10LookupTypeO5imageyA2EmF" class="token"><code>image</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13VenueGeometryC10LookupTypeO5imageyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-image" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuegeometry-lookuptype#sdk-for-ios-explore-s-7heresdk13VenueGeometryC10LookupTypeO5imageyA2EmF" class="token"><code>image</code></a> 
 
   </div>
 

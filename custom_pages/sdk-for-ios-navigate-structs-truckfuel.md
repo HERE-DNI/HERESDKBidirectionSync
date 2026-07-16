@@ -27,7 +27,7 @@ Contains truck fuel type info of fuel station. Note: This is a BETA feature and 
 
 - <div>
 
-  ` `<span id="/s:7heresdk9TruckFuelV4typeAA0bC4TypeOvp"></span>` `<span id="//apple_ref/swift/Property/type" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-truckfuel#/s:7heresdk9TruckFuelV4typeAA0bC4TypeOvp" class="token"><code>type</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9TruckFuelV4typeAA0bC4TypeOvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-type" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-truckfuel#sdk-for-ios-navigate-s-7heresdk9TruckFuelV4typeAA0bC4TypeOvp" class="token"><code>type</code></a> 
 
   </div>
 
@@ -63,6 +63,10 @@ Contains truck fuel type info of fuel station. Note: This is a BETA feature and 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-truckfueltype">TruckFuelType</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ Contains truck fuel type info of fuel station. Note: This is a BETA feature and 
 
 - <div>
 
-  ` `<span id="/s:7heresdk9TruckFuelV07maximumB5ClassAA0bE0OSgvp"></span>` `<span id="//apple_ref/swift/Property/maximumTruckClass" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-truckfuel#/s:7heresdk9TruckFuelV07maximumB5ClassAA0bE0OSgvp" class="token"><code>maximumTruckClass</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9TruckFuelV07maximumB5ClassAA0bE0OSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-maximumTruckClass" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-truckfuel#sdk-for-ios-navigate-s-7heresdk9TruckFuelV07maximumB5ClassAA0bE0OSgvp" class="token"><code>maximumTruckClass</code></a> 
 
   </div>
 
@@ -107,6 +111,10 @@ Contains truck fuel type info of fuel station. Note: This is a BETA feature and 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-truckclass">TruckClass</a>
+
   </div>
 
   </div>
@@ -115,7 +123,7 @@ Contains truck fuel type info of fuel station. Note: This is a BETA feature and 
 
 - <div>
 
-      init(type: maximumTruckClass: )
+   <span id="sdk-for-ios-navigate-s-7heresdk9TruckFuelV4type07maximumB5ClassAcA0bC4TypeO_AA0bF0OSgtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-type-maximumTruckClass" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-truckfuel#sdk-for-ios-navigate-s-7heresdk9TruckFuelV4type07maximumB5ClassAcA0bC4TypeO_AA0bF0OSgtcfc" class="token"><code>init(type:</code><wbr></wbr><code>maximumTruckClass:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -146,12 +154,15 @@ Contains truck fuel type info of fuel station. Note: This is a BETA feature and 
   Swift
 
   ``` highlight
-  public init ( type : TruckFuelType , maximumTruckClass : TruckClass ? = nil )
+  public init(type: TruckFuelType, maximumTruckClass: TruckClass? = nil)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-truckfueltype">TruckFuelType</a>
+  - <a href="sdk-for-ios-navigate-enums-truckclass">TruckClass</a>
 
   </div>
 

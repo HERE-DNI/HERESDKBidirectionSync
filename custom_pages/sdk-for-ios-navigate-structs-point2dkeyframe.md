@@ -27,7 +27,7 @@ A Point2D keyframe. A keyframe consists of a value and an animation duration.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15Point2DKeyframeV5valueAA0B1DVvp"></span>` `<span id="//apple_ref/swift/Property/value" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-point2dkeyframe#/s:7heresdk15Point2DKeyframeV5valueAA0B1DVvp" class="token"><code>value</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15Point2DKeyframeV5valueAA0B1DVvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-value" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-point2dkeyframe#sdk-for-ios-navigate-s-7heresdk15Point2DKeyframeV5valueAA0B1DVvp" class="token"><code>value</code></a> 
 
   </div>
 
@@ -63,6 +63,10 @@ A Point2D keyframe. A keyframe consists of a value and an animation duration.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-point2d">Point2D</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ A Point2D keyframe. A keyframe consists of a value and an animation duration.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15Point2DKeyframeV8durationSdvp"></span>` `<span id="//apple_ref/swift/Property/duration" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-point2dkeyframe#/s:7heresdk15Point2DKeyframeV8durationSdvp" class="token"><code>duration</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15Point2DKeyframeV8durationSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-duration" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-point2dkeyframe#sdk-for-ios-navigate-s-7heresdk15Point2DKeyframeV8durationSdvp" class="token"><code>duration</code></a> 
 
   </div>
 
@@ -115,7 +119,7 @@ A Point2D keyframe. A keyframe consists of a value and an animation duration.
 
 - <div>
 
-      init(value: duration: )
+   <span id="sdk-for-ios-navigate-s-7heresdk15Point2DKeyframeV5value8durationAcA0B1DV_Sdtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-value-duration" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-point2dkeyframe#sdk-for-ios-navigate-s-7heresdk15Point2DKeyframeV5value8durationAcA0B1DV_Sdtcfc" class="token"><code>init(value:</code><wbr></wbr><code>duration:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -146,12 +150,14 @@ A Point2D keyframe. A keyframe consists of a value and an animation duration.
   Swift
 
   ``` highlight
-  public init ( value : Point2D , duration : TimeInterval )
+  public init(value: Point2D, duration: TimeInterval)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-point2d">Point2D</a>
 
   </div>
 

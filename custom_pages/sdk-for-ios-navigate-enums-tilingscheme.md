@@ -27,7 +27,7 @@ List of available data tiling schemes. X axis has the origin at -180 longitude a
 
 - <div>
 
-  ` `<span id="/s:7heresdk12TilingSchemeO20halfQuadTreeIdentityyA2CmF"></span>` `<span id="//apple_ref/swift/Element/halfQuadTreeIdentity" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-tilingscheme#/s:7heresdk12TilingSchemeO20halfQuadTreeIdentityyA2CmF" class="token"><code>halfQuadTreeIdentity</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12TilingSchemeO20halfQuadTreeIdentityyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-halfQuadTreeIdentity" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-tilingscheme#sdk-for-ios-navigate-s-7heresdk12TilingSchemeO20halfQuadTreeIdentityyA2CmF" class="token"><code>halfQuadTreeIdentity</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ List of available data tiling schemes. X axis has the origin at -180 longitude a
 
 - <div>
 
-  ` `<span id="/s:7heresdk12TilingSchemeO20halfQuadTreeMercatoryA2CmF"></span>` `<span id="//apple_ref/swift/Element/halfQuadTreeMercator" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-tilingscheme#/s:7heresdk12TilingSchemeO20halfQuadTreeMercatoryA2CmF" class="token"><code>halfQuadTreeMercator</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12TilingSchemeO20halfQuadTreeMercatoryA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-halfQuadTreeMercator" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-tilingscheme#sdk-for-ios-navigate-s-7heresdk12TilingSchemeO20halfQuadTreeMercatoryA2CmF" class="token"><code>halfQuadTreeMercator</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ List of available data tiling schemes. X axis has the origin at -180 longitude a
 
 - <div>
 
-  ` `<span id="/s:7heresdk12TilingSchemeO27halfQuadTreeEquirectangularyA2CmF"></span>` `<span id="//apple_ref/swift/Element/halfQuadTreeEquirectangular" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-tilingscheme#/s:7heresdk12TilingSchemeO27halfQuadTreeEquirectangularyA2CmF" class="token"><code>halfQuadTreeEquirectangular</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12TilingSchemeO27halfQuadTreeEquirectangularyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-halfQuadTreeEquirectangular" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-tilingscheme#sdk-for-ios-navigate-s-7heresdk12TilingSchemeO27halfQuadTreeEquirectangularyA2CmF" class="token"><code>halfQuadTreeEquirectangular</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ List of available data tiling schemes. X axis has the origin at -180 longitude a
 
 - <div>
 
-  ` `<span id="/s:7heresdk12TilingSchemeO16quadTreeIdentityyA2CmF"></span>` `<span id="//apple_ref/swift/Element/quadTreeIdentity" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-tilingscheme#/s:7heresdk12TilingSchemeO16quadTreeIdentityyA2CmF" class="token"><code>quadTreeIdentity</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12TilingSchemeO16quadTreeIdentityyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-quadTreeIdentity" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-tilingscheme#sdk-for-ios-navigate-s-7heresdk12TilingSchemeO16quadTreeIdentityyA2CmF" class="token"><code>quadTreeIdentity</code></a> 
 
   </div>
 
@@ -203,7 +203,7 @@ List of available data tiling schemes. X axis has the origin at -180 longitude a
 
 - <div>
 
-  ` `<span id="/s:7heresdk12TilingSchemeO16quadTreeMercatoryA2CmF"></span>` `<span id="//apple_ref/swift/Element/quadTreeMercator" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-tilingscheme#/s:7heresdk12TilingSchemeO16quadTreeMercatoryA2CmF" class="token"><code>quadTreeMercator</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12TilingSchemeO16quadTreeMercatoryA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-quadTreeMercator" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-tilingscheme#sdk-for-ios-navigate-s-7heresdk12TilingSchemeO16quadTreeMercatoryA2CmF" class="token"><code>quadTreeMercator</code></a> 
 
   </div>
 
@@ -247,7 +247,7 @@ List of available data tiling schemes. X axis has the origin at -180 longitude a
 
 - <div>
 
-  ` `<span id="/s:7heresdk12TilingSchemeO23quadTreeEquirectangularyA2CmF"></span>` `<span id="//apple_ref/swift/Element/quadTreeEquirectangular" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-tilingscheme#/s:7heresdk12TilingSchemeO23quadTreeEquirectangularyA2CmF" class="token"><code>quadTreeEquirectangular</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12TilingSchemeO23quadTreeEquirectangularyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-quadTreeEquirectangular" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-tilingscheme#sdk-for-ios-navigate-s-7heresdk12TilingSchemeO23quadTreeEquirectangularyA2CmF" class="token"><code>quadTreeEquirectangular</code></a> 
 
   </div>
 

@@ -17,7 +17,7 @@ public enum RestrictedVehicleCategory : UInt32, CaseIterable, Codable
 
 </div>
 
-The vehicle categories that can be restricted. Note, a vehicle can belong to several categories (e.g. a passenger motor car belongs to <a href="sdk-for-ios-explore-classes-trafficincident-restrictedvehiclecategory#/s:7heresdk15TrafficIncidentC25RestrictedVehicleCategoryO3caryA2EmF">`TrafficIncident.RestrictedVehicleCategory.car`</a>, <a href="sdk-for-ios-explore-classes-trafficincident-restrictedvehiclecategory#/s:7heresdk15TrafficIncidentC25RestrictedVehicleCategoryO05motorE0yA2EmF">`TrafficIncident.RestrictedVehicleCategory.motorVehicle`</a>, and <a href="sdk-for-ios-explore-classes-trafficincident-restrictedvehiclecategory#/s:7heresdk15TrafficIncidentC25RestrictedVehicleCategoryO3allyA2EmF">`TrafficIncident.RestrictedVehicleCategory.all`</a>). A vehicle is restricted if it belongs to the category presented in the map <a href="sdk-for-ios-explore-classes-trafficincident#/s:7heresdk15TrafficIncidentC19vehicleRestrictionsSDyAC25RestrictedVehicleCategoryOAC0G11RestrictionVGvp">`TrafficIncident.vehicleRestrictions`</a> and at least one of the vehicle properties is under the matching <a href="sdk-for-ios-explore-classes-trafficincident-vehiclerestriction">`TrafficIncident.VehicleRestriction`</a>.
+The vehicle categories that can be restricted. Note, a vehicle can belong to several categories (e.g. a passenger motor car belongs to <a href="sdk-for-ios-explore-classes-trafficincident-restrictedvehiclecategory#sdk-for-ios-explore-s-7heresdk15TrafficIncidentC25RestrictedVehicleCategoryO3caryA2EmF">`TrafficIncident.RestrictedVehicleCategory.car`</a>, <a href="sdk-for-ios-explore-classes-trafficincident-restrictedvehiclecategory#sdk-for-ios-explore-s-7heresdk15TrafficIncidentC25RestrictedVehicleCategoryO05motorE0yA2EmF">`TrafficIncident.RestrictedVehicleCategory.motorVehicle`</a>, and <a href="sdk-for-ios-explore-classes-trafficincident-restrictedvehiclecategory#sdk-for-ios-explore-s-7heresdk15TrafficIncidentC25RestrictedVehicleCategoryO3allyA2EmF">`TrafficIncident.RestrictedVehicleCategory.all`</a>). A vehicle is restricted if it belongs to the category presented in the map <a href="sdk-for-ios-explore-classes-trafficincident#sdk-for-ios-explore-s-7heresdk15TrafficIncidentC19vehicleRestrictionsSDyAC25RestrictedVehicleCategoryOAC0G11RestrictionVGvp">`TrafficIncident.vehicleRestrictions`</a> and at least one of the vehicle properties is under the matching <a href="sdk-for-ios-explore-classes-trafficincident-vehiclerestriction">`TrafficIncident.VehicleRestriction`</a>.
 
 </div>
 
@@ -27,7 +27,7 @@ The vehicle categories that can be restricted. Note, a vehicle can belong to sev
 
 - <div>
 
-  ` `<span id="/s:7heresdk15TrafficIncidentC25RestrictedVehicleCategoryO3busyA2EmF"></span>` `<span id="//apple_ref/swift/Element/bus" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-trafficincident-restrictedvehiclecategory#/s:7heresdk15TrafficIncidentC25RestrictedVehicleCategoryO3busyA2EmF" class="token"><code>bus</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15TrafficIncidentC25RestrictedVehicleCategoryO3busyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-bus" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-trafficincident-restrictedvehiclecategory#sdk-for-ios-explore-s-7heresdk15TrafficIncidentC25RestrictedVehicleCategoryO3busyA2EmF" class="token"><code>bus</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ The vehicle categories that can be restricted. Note, a vehicle can belong to sev
 
 - <div>
 
-  ` `<span id="/s:7heresdk15TrafficIncidentC25RestrictedVehicleCategoryO3caryA2EmF"></span>` `<span id="//apple_ref/swift/Element/car" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-trafficincident-restrictedvehiclecategory#/s:7heresdk15TrafficIncidentC25RestrictedVehicleCategoryO3caryA2EmF" class="token"><code>car</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15TrafficIncidentC25RestrictedVehicleCategoryO3caryA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-car" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-trafficincident-restrictedvehiclecategory#sdk-for-ios-explore-s-7heresdk15TrafficIncidentC25RestrictedVehicleCategoryO3caryA2EmF" class="token"><code>car</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ The vehicle categories that can be restricted. Note, a vehicle can belong to sev
 
 - <div>
 
-  ` `<span id="/s:7heresdk15TrafficIncidentC25RestrictedVehicleCategoryO010heavyGoodsE0yA2EmF"></span>` `<span id="//apple_ref/swift/Element/heavyGoodsVehicle" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-trafficincident-restrictedvehiclecategory#/s:7heresdk15TrafficIncidentC25RestrictedVehicleCategoryO010heavyGoodsE0yA2EmF" class="token"><code>heavyGoodsVehicle</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15TrafficIncidentC25RestrictedVehicleCategoryO010heavyGoodsE0yA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-heavyGoodsVehicle" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-trafficincident-restrictedvehiclecategory#sdk-for-ios-explore-s-7heresdk15TrafficIncidentC25RestrictedVehicleCategoryO010heavyGoodsE0yA2EmF" class="token"><code>heavyGoodsVehicle</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ The vehicle categories that can be restricted. Note, a vehicle can belong to sev
 
 - <div>
 
-  ` `<span id="/s:7heresdk15TrafficIncidentC25RestrictedVehicleCategoryO5truckyA2EmF"></span>` `<span id="//apple_ref/swift/Element/truck" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-trafficincident-restrictedvehiclecategory#/s:7heresdk15TrafficIncidentC25RestrictedVehicleCategoryO5truckyA2EmF" class="token"><code>truck</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15TrafficIncidentC25RestrictedVehicleCategoryO5truckyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-truck" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-trafficincident-restrictedvehiclecategory#sdk-for-ios-explore-s-7heresdk15TrafficIncidentC25RestrictedVehicleCategoryO5truckyA2EmF" class="token"><code>truck</code></a> 
 
   </div>
 
@@ -203,7 +203,7 @@ The vehicle categories that can be restricted. Note, a vehicle can belong to sev
 
 - <div>
 
-  ` `<span id="/s:7heresdk15TrafficIncidentC25RestrictedVehicleCategoryO10motorcycleyA2EmF"></span>` `<span id="//apple_ref/swift/Element/motorcycle" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-trafficincident-restrictedvehiclecategory#/s:7heresdk15TrafficIncidentC25RestrictedVehicleCategoryO10motorcycleyA2EmF" class="token"><code>motorcycle</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15TrafficIncidentC25RestrictedVehicleCategoryO10motorcycleyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-motorcycle" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-trafficincident-restrictedvehiclecategory#sdk-for-ios-explore-s-7heresdk15TrafficIncidentC25RestrictedVehicleCategoryO10motorcycleyA2EmF" class="token"><code>motorcycle</code></a> 
 
   </div>
 
@@ -247,7 +247,7 @@ The vehicle categories that can be restricted. Note, a vehicle can belong to sev
 
 - <div>
 
-  ` `<span id="/s:7heresdk15TrafficIncidentC25RestrictedVehicleCategoryO05motorE0yA2EmF"></span>` `<span id="//apple_ref/swift/Element/motorVehicle" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-trafficincident-restrictedvehiclecategory#/s:7heresdk15TrafficIncidentC25RestrictedVehicleCategoryO05motorE0yA2EmF" class="token"><code>motorVehicle</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15TrafficIncidentC25RestrictedVehicleCategoryO05motorE0yA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-motorVehicle" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-trafficincident-restrictedvehiclecategory#sdk-for-ios-explore-s-7heresdk15TrafficIncidentC25RestrictedVehicleCategoryO05motorE0yA2EmF" class="token"><code>motorVehicle</code></a> 
 
   </div>
 
@@ -291,7 +291,7 @@ The vehicle categories that can be restricted. Note, a vehicle can belong to sev
 
 - <div>
 
-  ` `<span id="/s:7heresdk15TrafficIncidentC25RestrictedVehicleCategoryO4taxiyA2EmF"></span>` `<span id="//apple_ref/swift/Element/taxi" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-trafficincident-restrictedvehiclecategory#/s:7heresdk15TrafficIncidentC25RestrictedVehicleCategoryO4taxiyA2EmF" class="token"><code>taxi</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15TrafficIncidentC25RestrictedVehicleCategoryO4taxiyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-taxi" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-trafficincident-restrictedvehiclecategory#sdk-for-ios-explore-s-7heresdk15TrafficIncidentC25RestrictedVehicleCategoryO4taxiyA2EmF" class="token"><code>taxi</code></a> 
 
   </div>
 
@@ -335,7 +335,7 @@ The vehicle categories that can be restricted. Note, a vehicle can belong to sev
 
 - <div>
 
-  ` `<span id="/s:7heresdk15TrafficIncidentC25RestrictedVehicleCategoryO5trainyA2EmF"></span>` `<span id="//apple_ref/swift/Element/train" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-trafficincident-restrictedvehiclecategory#/s:7heresdk15TrafficIncidentC25RestrictedVehicleCategoryO5trainyA2EmF" class="token"><code>train</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15TrafficIncidentC25RestrictedVehicleCategoryO5trainyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-train" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-trafficincident-restrictedvehiclecategory#sdk-for-ios-explore-s-7heresdk15TrafficIncidentC25RestrictedVehicleCategoryO5trainyA2EmF" class="token"><code>train</code></a> 
 
   </div>
 
@@ -379,7 +379,7 @@ The vehicle categories that can be restricted. Note, a vehicle can belong to sev
 
 - <div>
 
-  ` `<span id="/s:7heresdk15TrafficIncidentC25RestrictedVehicleCategoryO28transportingAbnormalSizeLoadyA2EmF"></span>` `<span id="//apple_ref/swift/Element/transportingAbnormalSizeLoad" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-trafficincident-restrictedvehiclecategory#/s:7heresdk15TrafficIncidentC25RestrictedVehicleCategoryO28transportingAbnormalSizeLoadyA2EmF" class="token"><code>transportingAbnormalSizeLoad</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15TrafficIncidentC25RestrictedVehicleCategoryO28transportingAbnormalSizeLoadyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-transportingAbnormalSizeLoad" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-trafficincident-restrictedvehiclecategory#sdk-for-ios-explore-s-7heresdk15TrafficIncidentC25RestrictedVehicleCategoryO28transportingAbnormalSizeLoadyA2EmF" class="token"><code>transportingAbnormalSizeLoad</code></a> 
 
   </div>
 
@@ -423,7 +423,7 @@ The vehicle categories that can be restricted. Note, a vehicle can belong to sev
 
 - <div>
 
-  ` `<span id="/s:7heresdk15TrafficIncidentC25RestrictedVehicleCategoryO26transportingHazardousGoodsyA2EmF"></span>` `<span id="//apple_ref/swift/Element/transportingHazardousGoods" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-trafficincident-restrictedvehiclecategory#/s:7heresdk15TrafficIncidentC25RestrictedVehicleCategoryO26transportingHazardousGoodsyA2EmF" class="token"><code>transportingHazardousGoods</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15TrafficIncidentC25RestrictedVehicleCategoryO26transportingHazardousGoodsyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-transportingHazardousGoods" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-trafficincident-restrictedvehiclecategory#sdk-for-ios-explore-s-7heresdk15TrafficIncidentC25RestrictedVehicleCategoryO26transportingHazardousGoodsyA2EmF" class="token"><code>transportingHazardousGoods</code></a> 
 
   </div>
 
@@ -467,7 +467,7 @@ The vehicle categories that can be restricted. Note, a vehicle can belong to sev
 
 - <div>
 
-  ` `<span id="/s:7heresdk15TrafficIncidentC25RestrictedVehicleCategoryO18vehicleWithTraileryA2EmF"></span>` `<span id="//apple_ref/swift/Element/vehicleWithTrailer" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-trafficincident-restrictedvehiclecategory#/s:7heresdk15TrafficIncidentC25RestrictedVehicleCategoryO18vehicleWithTraileryA2EmF" class="token"><code>vehicleWithTrailer</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15TrafficIncidentC25RestrictedVehicleCategoryO18vehicleWithTraileryA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-vehicleWithTrailer" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-trafficincident-restrictedvehiclecategory#sdk-for-ios-explore-s-7heresdk15TrafficIncidentC25RestrictedVehicleCategoryO18vehicleWithTraileryA2EmF" class="token"><code>vehicleWithTrailer</code></a> 
 
   </div>
 
@@ -511,7 +511,7 @@ The vehicle categories that can be restricted. Note, a vehicle can belong to sev
 
 - <div>
 
-  ` `<span id="/s:7heresdk15TrafficIncidentC25RestrictedVehicleCategoryO5otheryA2EmF"></span>` `<span id="//apple_ref/swift/Element/other" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-trafficincident-restrictedvehiclecategory#/s:7heresdk15TrafficIncidentC25RestrictedVehicleCategoryO5otheryA2EmF" class="token"><code>other</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15TrafficIncidentC25RestrictedVehicleCategoryO5otheryA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-other" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-trafficincident-restrictedvehiclecategory#sdk-for-ios-explore-s-7heresdk15TrafficIncidentC25RestrictedVehicleCategoryO5otheryA2EmF" class="token"><code>other</code></a> 
 
   </div>
 
@@ -555,7 +555,7 @@ The vehicle categories that can be restricted. Note, a vehicle can belong to sev
 
 - <div>
 
-  ` `<span id="/s:7heresdk15TrafficIncidentC25RestrictedVehicleCategoryO3allyA2EmF"></span>` `<span id="//apple_ref/swift/Element/all" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-trafficincident-restrictedvehiclecategory#/s:7heresdk15TrafficIncidentC25RestrictedVehicleCategoryO3allyA2EmF" class="token"><code>all</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15TrafficIncidentC25RestrictedVehicleCategoryO3allyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-all" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-trafficincident-restrictedvehiclecategory#sdk-for-ios-explore-s-7heresdk15TrafficIncidentC25RestrictedVehicleCategoryO3allyA2EmF" class="token"><code>all</code></a> 
 
   </div>
 

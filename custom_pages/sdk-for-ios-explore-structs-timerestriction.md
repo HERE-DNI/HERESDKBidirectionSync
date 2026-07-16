@@ -29,7 +29,7 @@ Represents restriction based on time.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15TimeRestrictionV8categoryAC8CategoryOvp"></span>` `<span id="//apple_ref/swift/Property/category" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-timerestriction#/s:7heresdk15TimeRestrictionV8categoryAC8CategoryOvp" class="token"><code>category</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15TimeRestrictionV8categoryAC8CategoryOvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-category" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-timerestriction#sdk-for-ios-explore-s-7heresdk15TimeRestrictionV8categoryAC8CategoryOvp" class="token"><code>category</code></a> 
 
   </div>
 
@@ -65,6 +65,10 @@ Represents restriction based on time.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-timerestriction-category">Category</a>
+
   </div>
 
   </div>
@@ -73,7 +77,7 @@ Represents restriction based on time.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15TimeRestrictionV13applicabilitySayAA13TransportTypeOGvp"></span>` `<span id="//apple_ref/swift/Property/applicability" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-timerestriction#/s:7heresdk15TimeRestrictionV13applicabilitySayAA13TransportTypeOGvp" class="token"><code>applicability</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15TimeRestrictionV13applicabilitySayAA13TransportTypeOGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-applicability" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-timerestriction#sdk-for-ios-explore-s-7heresdk15TimeRestrictionV13applicabilitySayAA13TransportTypeOGvp" class="token"><code>applicability</code></a> 
 
   </div>
 
@@ -109,6 +113,10 @@ Represents restriction based on time.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-transporttype">TransportType</a>
+
   </div>
 
   </div>
@@ -117,7 +125,7 @@ Represents restriction based on time.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15TimeRestrictionV8timeRuleAA0bE0CSgvp"></span>` `<span id="//apple_ref/swift/Property/timeRule" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-timerestriction#/s:7heresdk15TimeRestrictionV8timeRuleAA0bE0CSgvp" class="token"><code>timeRule</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15TimeRestrictionV8timeRuleAA0bE0CSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-timeRule" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-timerestriction#sdk-for-ios-explore-s-7heresdk15TimeRestrictionV8timeRuleAA0bE0CSgvp" class="token"><code>timeRule</code></a> 
 
   </div>
 
@@ -153,6 +161,10 @@ Represents restriction based on time.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-timerule">TimeRule</a>
+
   </div>
 
   </div>
@@ -161,7 +173,7 @@ Represents restriction based on time.
 
 - <div>
 
-      init(category: applicability: timeRule: )
+   <span id="sdk-for-ios-explore-s-7heresdk15TimeRestrictionV8category13applicability8timeRuleA2C8CategoryO_SayAA13TransportTypeOGAA0bG0CSgtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-category-applicability-timeRule" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-timerestriction#sdk-for-ios-explore-s-7heresdk15TimeRestrictionV8category13applicability8timeRuleA2C8CategoryO_SayAA13TransportTypeOGAA0bG0CSgtcfc" class="token"><code>init(category:</code><wbr></wbr><code>applicability:</code><wbr></wbr><code>timeRule:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -192,12 +204,16 @@ Represents restriction based on time.
   Swift
 
   ``` highlight
-  public init ( category : TimeRestriction . Category = TimeRestriction . Category . prohibited , applicability : [ TransportType ] = [], timeRule : TimeRule ? = nil )
+  public init(category: TimeRestriction.Category = TimeRestriction.Category.prohibited, applicability: [TransportType] = [], timeRule: TimeRule? = nil)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-timerestriction-category">Category</a>
+  - <a href="sdk-for-ios-explore-enums-transporttype">TransportType</a>
+  - <a href="sdk-for-ios-explore-classes-timerule">TimeRule</a>
 
   </div>
 
@@ -207,7 +223,7 @@ Represents restriction based on time.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15TimeRestrictionV8CategoryO"></span>` `<span id="//apple_ref/swift/Enum/Category" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-timerestriction#/s:7heresdk15TimeRestrictionV8CategoryO" class="token"><code>Category</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15TimeRestrictionV8CategoryO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-Category" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-timerestriction#sdk-for-ios-explore-s-7heresdk15TimeRestrictionV8CategoryO" class="token"><code>Category</code></a> 
 
   </div>
 

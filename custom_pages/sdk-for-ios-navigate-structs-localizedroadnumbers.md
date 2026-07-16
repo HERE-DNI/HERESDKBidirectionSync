@@ -27,7 +27,7 @@ The list of multiple names or titles for the same entity, possibly in different 
 
 - <div>
 
-  ` `<span id="/s:7heresdk20LocalizedRoadNumbersV5itemsSayAA0bC6NumberVGvp"></span>` `<span id="//apple_ref/swift/Property/items" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-localizedroadnumbers#/s:7heresdk20LocalizedRoadNumbersV5itemsSayAA0bC6NumberVGvp" class="token"><code>items</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk20LocalizedRoadNumbersV5itemsSayAA0bC6NumberVGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-items" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-localizedroadnumbers#sdk-for-ios-navigate-s-7heresdk20LocalizedRoadNumbersV5itemsSayAA0bC6NumberVGvp" class="token"><code>items</code></a> 
 
   </div>
 
@@ -63,6 +63,10 @@ The list of multiple names or titles for the same entity, possibly in different 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-localizedroadnumber">LocalizedRoadNumber</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ The list of multiple names or titles for the same entity, possibly in different 
 
 - <div>
 
-      init()
+   <span id="sdk-for-ios-navigate-s-7heresdk20LocalizedRoadNumbersVACycfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-localizedroadnumbers#sdk-for-ios-navigate-s-7heresdk20LocalizedRoadNumbersVACycfc" class="token"><code>init()</code></a> 
 
   </div>
 
@@ -102,10 +106,8 @@ The list of multiple names or titles for the same entity, possibly in different 
   Swift
 
   ``` highlight
-  public init ()
+  public init()
   ```
-
-  </pre>
 
   </div>
 
@@ -117,7 +119,7 @@ The list of multiple names or titles for the same entity, possibly in different 
 
 - <div>
 
-      preferredValue(for: )
+   <span id="sdk-for-ios-navigate-s-7heresdk20LocalizedRoadNumbersV14preferredValue3forSSSgSay10Foundation6LocaleVG_tF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-preferredValue-for" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-localizedroadnumbers#sdk-for-ios-navigate-s-7heresdk20LocalizedRoadNumbersV14preferredValue3forSSSgSay10Foundation6LocaleVG_tF" class="token"><code>preferredValue(for:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -148,10 +150,8 @@ The list of multiple names or titles for the same entity, possibly in different 
   Swift
 
   ``` highlight
-  public func preferredValue ( for locales : [ Locale ]) -> String ?
+  public func preferredValue(for locales: [Locale]) -> String?
   ```
-
-  </pre>
 
   </div>
 
@@ -192,7 +192,7 @@ The list of multiple names or titles for the same entity, possibly in different 
 
 - <div>
 
-      defaultValue()
+   <span id="sdk-for-ios-navigate-s-7heresdk20LocalizedRoadNumbersV12defaultValueSSSgyF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-defaultValue" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-localizedroadnumbers#sdk-for-ios-navigate-s-7heresdk20LocalizedRoadNumbersV12defaultValueSSSgyF" class="token"><code>defaultValue()</code></a> 
 
   </div>
 
@@ -223,10 +223,8 @@ The list of multiple names or titles for the same entity, possibly in different 
   Swift
 
   ``` highlight
-  public func defaultValue () -> String ?
+  public func defaultValue() -> String?
   ```
-
-  </pre>
 
   </div>
 

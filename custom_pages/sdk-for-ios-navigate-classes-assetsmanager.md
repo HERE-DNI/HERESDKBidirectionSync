@@ -37,7 +37,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      init(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk13AssetsManagerCyAcA10MapContextCcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-assetsmanager#sdk-for-ios-navigate-s-7heresdk13AssetsManagerCyAcA10MapContextCcfc" class="token"><code>init(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -68,12 +68,14 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public init ( _ context : MapContext )
+  public init(_ context: MapContext)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mapcontext">MapContext</a>
 
   </div>
 
@@ -104,7 +106,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      registerFont(fontName: fontPath: )
+   <span id="sdk-for-ios-navigate-s-7heresdk13AssetsManagerC12registerFont8fontName0F4PathySS_SStF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-registerFont-fontName-fontPath" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-assetsmanager#sdk-for-ios-navigate-s-7heresdk13AssetsManagerC12registerFont8fontName0F4PathySS_SStF" class="token"><code>registerFont(fontName:</code><wbr></wbr><code>fontPath:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -140,10 +142,8 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func registerFont ( fontName : String , fontPath : String )
+  public func registerFont(fontName: String, fontPath: String)
   ```
-
-  </pre>
 
   </div>
 
@@ -182,7 +182,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      registerFontWithFallback(fontName: fontPath: fallbackFontFilePaths: )
+   <span id="sdk-for-ios-navigate-s-7heresdk13AssetsManagerC24registerFontWithFallback8fontName0H4Path08fallbackE9FilePathsySS_SSSaySSGtF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-registerFontWithFallback-fontName-fontPath-fallbackFontFilePaths" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-assetsmanager#sdk-for-ios-navigate-s-7heresdk13AssetsManagerC24registerFontWithFallback8fontName0H4Path08fallbackE9FilePathsySS_SSSaySSGtF" class="token"><code>registerFontWithFallback(fontName:</code><wbr></wbr><code>fontPath:</code><wbr></wbr><code>fallbackFontFilePaths:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -218,10 +218,8 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func registerFontWithFallback ( fontName : String , fontPath : String , fallbackFontFilePaths : [ String ])
+  public func registerFontWithFallback(fontName: String, fontPath: String, fallbackFontFilePaths: [String])
   ```
-
-  </pre>
 
   </div>
 

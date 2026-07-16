@@ -19,6 +19,10 @@ extension MapContentSettings.TrafficRefreshPeriodErrorCode : Error
 
 </div>
 
+Related types:
+
+- <a href="sdk-for-ios-navigate-classes-mapcontentsettings">MapContentSettings</a>
+
 </div>
 
 Traffic refresh period error code
@@ -31,7 +35,7 @@ Traffic refresh period error code
 
 - <div>
 
-  ` `<span id="/s:7heresdk18MapContentSettingsC29TrafficRefreshPeriodErrorCodeO08internalH0yA2EmF"></span>` `<span id="//apple_ref/swift/Element/internalError" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapcontentsettings-trafficrefreshperioderrorcode#/s:7heresdk18MapContentSettingsC29TrafficRefreshPeriodErrorCodeO08internalH0yA2EmF" class="token"><code>internalError</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18MapContentSettingsC29TrafficRefreshPeriodErrorCodeO08internalH0yA2EmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-internalError" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapcontentsettings-trafficrefreshperioderrorcode#sdk-for-ios-navigate-s-7heresdk18MapContentSettingsC29TrafficRefreshPeriodErrorCodeO08internalH0yA2EmF" class="token"><code>internalError</code></a> 
 
   </div>
 
@@ -75,7 +79,7 @@ Traffic refresh period error code
 
 - <div>
 
-  ` `<span id="/s:7heresdk18MapContentSettingsC29TrafficRefreshPeriodErrorCodeO24valueOutsideAllowedRangeyA2EmF"></span>` `<span id="//apple_ref/swift/Element/valueOutsideAllowedRange" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapcontentsettings-trafficrefreshperioderrorcode#/s:7heresdk18MapContentSettingsC29TrafficRefreshPeriodErrorCodeO24valueOutsideAllowedRangeyA2EmF" class="token"><code>valueOutsideAllowedRange</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18MapContentSettingsC29TrafficRefreshPeriodErrorCodeO24valueOutsideAllowedRangeyA2EmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-valueOutsideAllowedRange" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapcontentsettings-trafficrefreshperioderrorcode#sdk-for-ios-navigate-s-7heresdk18MapContentSettingsC29TrafficRefreshPeriodErrorCodeO24valueOutsideAllowedRangeyA2EmF" class="token"><code>valueOutsideAllowedRange</code></a> 
 
   </div>
 

@@ -17,12 +17,7 @@ public protocol ElectronicHorizonDataLoaderStatusDelegate : AnyObject
 
 </div>
 
-Provides a delegate for status updates from the
-
-    ElectronicHorizonDataLoader.loadData(...)
-
-method. The listener receives the current state for different levels of the paths as <a href="sdk-for-ios-explore-enums-electronichorizondataloadedstatus">`ElectronicHorizonDataLoadedStatus`</a>.
-</p>
+Provides a delegate for status updates from the <a href="sdk-for-ios-explore-classes-electronichorizondataloader#sdk-for-ios-explore-s-7heresdk27ElectronicHorizonDataLoaderC04loadD0010electronicC6UpdateyAA0bcH0V_tF">`ElectronicHorizonDataLoader.loadData(...)`</a> method. The listener receives the current state for different levels of the paths as <a href="sdk-for-ios-explore-enums-electronichorizondataloadedstatus">`ElectronicHorizonDataLoadedStatus`</a>.
 
 Note: This is a **beta** release of this feature, so there could be a few bugs and unexpected behaviors. Related APIs may change for new releases without a deprecation process.
 
@@ -36,7 +31,7 @@ Offline availability: This property is available online and offline.
 
 - <div>
 
-      onElectronicHorizonDataLoaderStatusUpdated(electronicHorizonDataLoaderStatuses: )
+   <span id="sdk-for-ios-explore-s-7heresdk41ElectronicHorizonDataLoaderStatusDelegateP02onbcdeF7Updated010electroniccdE8StatusesySDys5Int32VAA0bcd6LoadedF0OG_tF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-onElectronicHorizonDataLoaderStatusUpdated-electronicHorizonDataLoaderStatuses" class="dashAnchor"></span> <a href="sdk-for-ios-explore-protocols-electronichorizondataloaderstatusdelegate#sdk-for-ios-explore-s-7heresdk41ElectronicHorizonDataLoaderStatusDelegateP02onbcdeF7Updated010electroniccdE8StatusesySDys5Int32VAA0bcd6LoadedF0OG_tF" class="token"><code>onElectronicHorizonDataLoaderStatusUpdated(electronicHorizonDataLoaderStatuses:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -67,12 +62,14 @@ Offline availability: This property is available online and offline.
   Swift
 
   ``` highlight
-  func onElectronicHorizonDataLoaderStatusUpdated ( electronicHorizonDataLoaderStatuses : [ Int32 : ElectronicHorizonDataLoadedStatus ])
+  func onElectronicHorizonDataLoaderStatusUpdated(electronicHorizonDataLoaderStatuses: [Int32 : ElectronicHorizonDataLoadedStatus])
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-electronichorizondataloadedstatus">ElectronicHorizonDataLoadedStatus</a>
 
   </div>
 

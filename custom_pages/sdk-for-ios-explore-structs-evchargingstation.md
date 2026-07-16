@@ -19,9 +19,9 @@ public struct EVChargingStation : Hashable
 
 Group of connectors for electric vehicles (EVs), defined by a common charging connector type and maximum power level.
 
-Use <a href="sdk-for-ios-explore-classes-placecategory#/s:7heresdk13PlaceCategoryC36businessAndServicesEvChargingStationSSvpZ">`PlaceCategory.businessAndServicesEvChargingStation`</a> to find stations. In the <a href="sdk-for-ios-explore-structs-details">`Details`</a> of a <a href="sdk-for-ios-explore-classes-place">`Place`</a> result you can find the list of found pools containing stations, if any.
+Use <a href="sdk-for-ios-explore-classes-placecategory#sdk-for-ios-explore-s-7heresdk13PlaceCategoryC36businessAndServicesEvChargingStationSSvpZ">`PlaceCategory.businessAndServicesEvChargingStation`</a> to find stations. In the <a href="sdk-for-ios-explore-structs-details">`Details`</a> of a <a href="sdk-for-ios-explore-classes-place">`Place`</a> result you can find the list of found pools containing stations, if any.
 
-For offline EV rich attributes, enable <a href="sdk-for-ios-explore-structs-layerconfiguration-feature#/s:7heresdk18LayerConfigurationV7FeatureO2evyA2EmF">`LayerConfiguration.Feature.ev`</a> in <a href="sdk-for-ios-explore-structs-sdkoptions#/s:7heresdk10SDKOptionsV18layerConfigurationAA05LayerD0Vvp">`SDKOptions.layerConfiguration`</a>.
+For offline EV rich attributes, enable <a href="sdk-for-ios-explore-structs-layerconfiguration-feature#sdk-for-ios-explore-s-7heresdk18LayerConfigurationV7FeatureO2evyA2EmF">`LayerConfiguration.Feature.ev`</a> in <a href="sdk-for-ios-explore-structs-sdkoptions#sdk-for-ios-explore-s-7heresdk10SDKOptionsV18layerConfigurationAA05LayerD0Vvp">`SDKOptions.layerConfiguration`</a>.
 
 </div>
 
@@ -31,7 +31,7 @@ For offline EV rich attributes, enable <a href="sdk-for-ios-explore-structs-laye
 
 - <div>
 
-  ` `<span id="/s:7heresdk17EVChargingStationV12supplierNameSSSgvp"></span>` `<span id="//apple_ref/swift/Property/supplierName" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-evchargingstation#/s:7heresdk17EVChargingStationV12supplierNameSSSgvp" class="token"><code>supplierName</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17EVChargingStationV12supplierNameSSSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-supplierName" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-evchargingstation#sdk-for-ios-explore-s-7heresdk17EVChargingStationV12supplierNameSSSgvp" class="token"><code>supplierName</code></a> 
 
   </div>
 
@@ -75,7 +75,7 @@ For offline EV rich attributes, enable <a href="sdk-for-ios-explore-structs-laye
 
 - <div>
 
-  ` `<span id="/s:7heresdk17EVChargingStationV17connectorTypeNameSSSgvp"></span>` `<span id="//apple_ref/swift/Property/connectorTypeName" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-evchargingstation#/s:7heresdk17EVChargingStationV17connectorTypeNameSSSgvp" class="token"><code>connectorTypeName</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17EVChargingStationV17connectorTypeNameSSSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-connectorTypeName" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-evchargingstation#sdk-for-ios-explore-s-7heresdk17EVChargingStationV17connectorTypeNameSSSgvp" class="token"><code>connectorTypeName</code></a> 
 
   </div>
 
@@ -119,7 +119,7 @@ For offline EV rich attributes, enable <a href="sdk-for-ios-explore-structs-laye
 
 - <div>
 
-  ` `<span id="/s:7heresdk17EVChargingStationV15connectorTypeIdSSSgvp"></span>` `<span id="//apple_ref/swift/Property/connectorTypeId" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-evchargingstation#/s:7heresdk17EVChargingStationV15connectorTypeIdSSSgvp" class="token"><code>connectorTypeId</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17EVChargingStationV15connectorTypeIdSSSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-connectorTypeId" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-evchargingstation#sdk-for-ios-explore-s-7heresdk17EVChargingStationV15connectorTypeIdSSSgvp" class="token"><code>connectorTypeId</code></a> 
 
   </div>
 
@@ -163,7 +163,7 @@ For offline EV rich attributes, enable <a href="sdk-for-ios-explore-structs-laye
 
 - <div>
 
-  ` `<span id="/s:7heresdk17EVChargingStationV17powerFeedTypeNameSSSgvp"></span>` `<span id="//apple_ref/swift/Property/powerFeedTypeName" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-evchargingstation#/s:7heresdk17EVChargingStationV17powerFeedTypeNameSSSgvp" class="token"><code>powerFeedTypeName</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17EVChargingStationV17powerFeedTypeNameSSSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-powerFeedTypeName" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-evchargingstation#sdk-for-ios-explore-s-7heresdk17EVChargingStationV17powerFeedTypeNameSSSgvp" class="token"><code>powerFeedTypeName</code></a> 
 
   </div>
 
@@ -207,7 +207,7 @@ For offline EV rich attributes, enable <a href="sdk-for-ios-explore-structs-laye
 
 - <div>
 
-  ` `<span id="/s:7heresdk17EVChargingStationV15powerFeedTypeIdSSSgvp"></span>` `<span id="//apple_ref/swift/Property/powerFeedTypeId" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-evchargingstation#/s:7heresdk17EVChargingStationV15powerFeedTypeIdSSSgvp" class="token"><code>powerFeedTypeId</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17EVChargingStationV15powerFeedTypeIdSSSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-powerFeedTypeId" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-evchargingstation#sdk-for-ios-explore-s-7heresdk17EVChargingStationV15powerFeedTypeIdSSSgvp" class="token"><code>powerFeedTypeId</code></a> 
 
   </div>
 
@@ -251,7 +251,7 @@ For offline EV rich attributes, enable <a href="sdk-for-ios-explore-structs-laye
 
 - <div>
 
-  ` `<span id="/s:7heresdk17EVChargingStationV19maxPowerInKilowattsSdSgvp"></span>` `<span id="//apple_ref/swift/Property/maxPowerInKilowatts" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-evchargingstation#/s:7heresdk17EVChargingStationV19maxPowerInKilowattsSdSgvp" class="token"><code>maxPowerInKilowatts</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17EVChargingStationV19maxPowerInKilowattsSdSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-maxPowerInKilowatts" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-evchargingstation#sdk-for-ios-explore-s-7heresdk17EVChargingStationV19maxPowerInKilowattsSdSgvp" class="token"><code>maxPowerInKilowatts</code></a> 
 
   </div>
 
@@ -295,7 +295,7 @@ For offline EV rich attributes, enable <a href="sdk-for-ios-explore-structs-laye
 
 - <div>
 
-  ` `<span id="/s:7heresdk17EVChargingStationV14connectorCounts5Int32VSgvp"></span>` `<span id="//apple_ref/swift/Property/connectorCount" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-evchargingstation#/s:7heresdk17EVChargingStationV14connectorCounts5Int32VSgvp" class="token"><code>connectorCount</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17EVChargingStationV14connectorCounts5Int32VSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-connectorCount" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-evchargingstation#sdk-for-ios-explore-s-7heresdk17EVChargingStationV14connectorCounts5Int32VSgvp" class="token"><code>connectorCount</code></a> 
 
   </div>
 
@@ -339,7 +339,7 @@ For offline EV rich attributes, enable <a href="sdk-for-ios-explore-structs-laye
 
 - <div>
 
-  ` `<span id="/s:7heresdk17EVChargingStationV23availableConnectorCounts5Int32VSgvp"></span>` `<span id="//apple_ref/swift/Property/availableConnectorCount" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-evchargingstation#/s:7heresdk17EVChargingStationV23availableConnectorCounts5Int32VSgvp" class="token"><code>availableConnectorCount</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17EVChargingStationV23availableConnectorCounts5Int32VSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-availableConnectorCount" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-evchargingstation#sdk-for-ios-explore-s-7heresdk17EVChargingStationV23availableConnectorCounts5Int32VSgvp" class="token"><code>availableConnectorCount</code></a> 
 
   </div>
 
@@ -383,7 +383,7 @@ For offline EV rich attributes, enable <a href="sdk-for-ios-explore-structs-laye
 
 - <div>
 
-  ` `<span id="/s:7heresdk17EVChargingStationV22occupiedConnectorCounts5Int32VSgvp"></span>` `<span id="//apple_ref/swift/Property/occupiedConnectorCount" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-evchargingstation#/s:7heresdk17EVChargingStationV22occupiedConnectorCounts5Int32VSgvp" class="token"><code>occupiedConnectorCount</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17EVChargingStationV22occupiedConnectorCounts5Int32VSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-occupiedConnectorCount" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-evchargingstation#sdk-for-ios-explore-s-7heresdk17EVChargingStationV22occupiedConnectorCounts5Int32VSgvp" class="token"><code>occupiedConnectorCount</code></a> 
 
   </div>
 
@@ -427,7 +427,7 @@ For offline EV rich attributes, enable <a href="sdk-for-ios-explore-structs-laye
 
 - <div>
 
-  ` `<span id="/s:7heresdk17EVChargingStationV26outOfServiceConnectorCounts5Int32VSgvp"></span>` `<span id="//apple_ref/swift/Property/outOfServiceConnectorCount" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-evchargingstation#/s:7heresdk17EVChargingStationV26outOfServiceConnectorCounts5Int32VSgvp" class="token"><code>outOfServiceConnectorCount</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17EVChargingStationV26outOfServiceConnectorCounts5Int32VSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-outOfServiceConnectorCount" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-evchargingstation#sdk-for-ios-explore-s-7heresdk17EVChargingStationV26outOfServiceConnectorCounts5Int32VSgvp" class="token"><code>outOfServiceConnectorCount</code></a> 
 
   </div>
 
@@ -471,7 +471,7 @@ For offline EV rich attributes, enable <a href="sdk-for-ios-explore-structs-laye
 
 - <div>
 
-  ` `<span id="/s:7heresdk17EVChargingStationV22reservedConnectorCounts5Int32VSgvp"></span>` `<span id="//apple_ref/swift/Property/reservedConnectorCount" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-evchargingstation#/s:7heresdk17EVChargingStationV22reservedConnectorCounts5Int32VSgvp" class="token"><code>reservedConnectorCount</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17EVChargingStationV22reservedConnectorCounts5Int32VSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-reservedConnectorCount" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-evchargingstation#sdk-for-ios-explore-s-7heresdk17EVChargingStationV22reservedConnectorCounts5Int32VSgvp" class="token"><code>reservedConnectorCount</code></a> 
 
   </div>
 
@@ -515,7 +515,7 @@ For offline EV rich attributes, enable <a href="sdk-for-ios-explore-structs-laye
 
 - <div>
 
-  ` `<span id="/s:7heresdk17EVChargingStationV11lastUpdated10Foundation4DateVSgvp"></span>` `<span id="//apple_ref/swift/Property/lastUpdated" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-evchargingstation#/s:7heresdk17EVChargingStationV11lastUpdated10Foundation4DateVSgvp" class="token"><code>lastUpdated</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17EVChargingStationV11lastUpdated10Foundation4DateVSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-lastUpdated" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-evchargingstation#sdk-for-ios-explore-s-7heresdk17EVChargingStationV11lastUpdated10Foundation4DateVSgvp" class="token"><code>lastUpdated</code></a> 
 
   </div>
 
@@ -559,7 +559,7 @@ For offline EV rich attributes, enable <a href="sdk-for-ios-explore-structs-laye
 
 - <div>
 
-  ` `<span id="/s:7heresdk17EVChargingStationV12chargingModeSSSgvp"></span>` `<span id="//apple_ref/swift/Property/chargingMode" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-evchargingstation#/s:7heresdk17EVChargingStationV12chargingModeSSSgvp" class="token"><code>chargingMode</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17EVChargingStationV12chargingModeSSSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-chargingMode" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-evchargingstation#sdk-for-ios-explore-s-7heresdk17EVChargingStationV12chargingModeSSSgvp" class="token"><code>chargingMode</code></a> 
 
   </div>
 
@@ -603,7 +603,7 @@ For offline EV rich attributes, enable <a href="sdk-for-ios-explore-structs-laye
 
 - <div>
 
-  ` `<span id="/s:7heresdk17EVChargingStationV19voltageRangeInVoltsSSSgvp"></span>` `<span id="//apple_ref/swift/Property/voltageRangeInVolts" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-evchargingstation#/s:7heresdk17EVChargingStationV19voltageRangeInVoltsSSSgvp" class="token"><code>voltageRangeInVolts</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17EVChargingStationV19voltageRangeInVoltsSSSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-voltageRangeInVolts" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-evchargingstation#sdk-for-ios-explore-s-7heresdk17EVChargingStationV19voltageRangeInVoltsSSSgvp" class="token"><code>voltageRangeInVolts</code></a> 
 
   </div>
 
@@ -647,7 +647,7 @@ For offline EV rich attributes, enable <a href="sdk-for-ios-explore-structs-laye
 
 - <div>
 
-  ` `<span id="/s:7heresdk17EVChargingStationV21currentRangeInAmperesSSSgvp"></span>` `<span id="//apple_ref/swift/Property/currentRangeInAmperes" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-evchargingstation#/s:7heresdk17EVChargingStationV21currentRangeInAmperesSSSgvp" class="token"><code>currentRangeInAmperes</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17EVChargingStationV21currentRangeInAmperesSSSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-currentRangeInAmperes" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-evchargingstation#sdk-for-ios-explore-s-7heresdk17EVChargingStationV21currentRangeInAmperesSSSgvp" class="token"><code>currentRangeInAmperes</code></a> 
 
   </div>
 
@@ -691,7 +691,7 @@ For offline EV rich attributes, enable <a href="sdk-for-ios-explore-structs-laye
 
 - <div>
 
-  ` `<span id="/s:7heresdk17EVChargingStationV10phaseCounts5Int32VSgvp"></span>` `<span id="//apple_ref/swift/Property/phaseCount" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-evchargingstation#/s:7heresdk17EVChargingStationV10phaseCounts5Int32VSgvp" class="token"><code>phaseCount</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17EVChargingStationV10phaseCounts5Int32VSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-phaseCount" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-evchargingstation#sdk-for-ios-explore-s-7heresdk17EVChargingStationV10phaseCounts5Int32VSgvp" class="token"><code>phaseCount</code></a> 
 
   </div>
 
@@ -735,7 +735,7 @@ For offline EV rich attributes, enable <a href="sdk-for-ios-explore-structs-laye
 
 - <div>
 
-  ` `<span id="/s:7heresdk17EVChargingStationV13hasFixedCableSbSgvp"></span>` `<span id="//apple_ref/swift/Property/hasFixedCable" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-evchargingstation#/s:7heresdk17EVChargingStationV13hasFixedCableSbSgvp" class="token"><code>hasFixedCable</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17EVChargingStationV13hasFixedCableSbSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-hasFixedCable" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-evchargingstation#sdk-for-ios-explore-s-7heresdk17EVChargingStationV13hasFixedCableSbSgvp" class="token"><code>hasFixedCable</code></a> 
 
   </div>
 
@@ -779,7 +779,7 @@ For offline EV rich attributes, enable <a href="sdk-for-ios-explore-structs-laye
 
 - <div>
 
-  ` `<span id="/s:7heresdk17EVChargingStationV17physicalReferenceSSSgvp"></span>` `<span id="//apple_ref/swift/Property/physicalReference" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-evchargingstation#/s:7heresdk17EVChargingStationV17physicalReferenceSSSgvp" class="token"><code>physicalReference</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17EVChargingStationV17physicalReferenceSSSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-physicalReference" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-evchargingstation#sdk-for-ios-explore-s-7heresdk17EVChargingStationV17physicalReferenceSSSgvp" class="token"><code>physicalReference</code></a> 
 
   </div>
 
@@ -823,7 +823,7 @@ For offline EV rich attributes, enable <a href="sdk-for-ios-explore-structs-laye
 
 - <div>
 
-      init(supplierName: connectorTypeName: connectorTypeId: powerFeedTypeName: powerFeedTypeId: maxPowerInKilowatts: connectorCount: availableConnectorCount: occupiedConnectorCount: outOfServiceConnectorCount: reservedConnectorCount: lastUpdated: chargingMode: voltageRangeInVolts: currentRangeInAmperes: phaseCount: hasFixedCable: physicalReference: )
+   <span id="sdk-for-ios-explore-s-7heresdk17EVChargingStationV12supplierName013connectorTypeE00fG2Id09powerFeedgE00ijgH019maxPowerInKilowatts0F5Count018availableConnectorO008occupiedqO0012outOfServiceqO008reservedqO011lastUpdated12chargingMode012voltageRangeM5Volts012currentRangeM7Amperes05phaseO013hasFixedCable17physicalReferenceACSSSg_A4VSdSgs5Int32VSgA4Z10Foundation4DateVSgA3vZSbSgAVtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-supplierName-connectorTypeName-connectorTypeId-powerFeedTypeName-powerFeedTypeId-maxPowerInKilowatts-connectorCount-availableConnectorCount-occupiedConnectorCount-outOfServiceConnectorCount-reservedConnectorCount-lastUpdated-chargingMode-voltageRangeInVolts-currentRangeInAmperes-phaseCount-hasFixedCable-physicalReference" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-evchargingstation#sdk-for-ios-explore-s-7heresdk17EVChargingStationV12supplierName013connectorTypeE00fG2Id09powerFeedgE00ijgH019maxPowerInKilowatts0F5Count018availableConnectorO008occupiedqO0012outOfServiceqO008reservedqO011lastUpdated12chargingMode012voltageRangeM5Volts012currentRangeM7Amperes05phaseO013hasFixedCable17physicalReferenceACSSSg_A4VSdSgs5Int32VSgA4Z10Foundation4DateVSgA3vZSbSgAVtcfc" class="token"><code>init(supplierName:</code><wbr></wbr><code>connectorTypeName:</code><wbr></wbr><code>connectorTypeId:</code><wbr></wbr><code>powerFeedTypeName:</code><wbr></wbr><code>powerFeedTypeId:</code><wbr></wbr><code>maxPowerInKilowatts:</code><wbr></wbr><code>connectorCount:</code><wbr></wbr><code>availableConnectorCount:</code><wbr></wbr><code>occupiedConnectorCount:</code><wbr></wbr><code>outOfServiceConnectorCount:</code><wbr></wbr><code>reservedConnectorCount:</code><wbr></wbr><code>lastUpdated:</code><wbr></wbr><code>chargingMode:</code><wbr></wbr><code>voltageRangeInVolts:</code><wbr></wbr><code>currentRangeInAmperes:</code><wbr></wbr><code>phaseCount:</code><wbr></wbr><code>hasFixedCable:</code><wbr></wbr><code>physicalReference:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -854,10 +854,8 @@ For offline EV rich attributes, enable <a href="sdk-for-ios-explore-structs-laye
   Swift
 
   ``` highlight
-  public init ( supplierName : String ? = nil , connectorTypeName : String ? = nil , connectorTypeId : String ? = nil , powerFeedTypeName : String ? = nil , powerFeedTypeId : String ? = nil , maxPowerInKilowatts : Double ? = nil , connectorCount : Int32 ? = nil , availableConnectorCount : Int32 ? = nil , occupiedConnectorCount : Int32 ? = nil , outOfServiceConnectorCount : Int32 ? = nil , reservedConnectorCount : Int32 ? = nil , lastUpdated : Date ? = nil , chargingMode : String ? = nil , voltageRangeInVolts : String ? = nil , currentRangeInAmperes : String ? = nil , phaseCount : Int32 ? = nil , hasFixedCable : Bool ? = nil , physicalReference : String ? = nil )
+  public init(supplierName: String? = nil, connectorTypeName: String? = nil, connectorTypeId: String? = nil, powerFeedTypeName: String? = nil, powerFeedTypeId: String? = nil, maxPowerInKilowatts: Double? = nil, connectorCount: Int32? = nil, availableConnectorCount: Int32? = nil, occupiedConnectorCount: Int32? = nil, outOfServiceConnectorCount: Int32? = nil, reservedConnectorCount: Int32? = nil, lastUpdated: Date? = nil, chargingMode: String? = nil, voltageRangeInVolts: String? = nil, currentRangeInAmperes: String? = nil, phaseCount: Int32? = nil, hasFixedCable: Bool? = nil, physicalReference: String? = nil)
   ```
-
-  </pre>
 
   </div>
 

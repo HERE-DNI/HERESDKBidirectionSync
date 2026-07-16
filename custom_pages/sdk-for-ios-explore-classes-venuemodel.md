@@ -35,7 +35,7 @@ Represents a building or a complex of buildings, like airports or universities.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10VenueModelC13GeometryArraya"></span>` `<span id="//apple_ref/swift/Alias/GeometryArray" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuemodel#/s:7heresdk10VenueModelC13GeometryArraya" class="token"><code>GeometryArray</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10VenueModelC13GeometryArraya"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Alias-GeometryArray" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuemodel#sdk-for-ios-explore-s-7heresdk10VenueModelC13GeometryArraya" class="token"><code>GeometryArray</code></a> 
 
   </div>
 
@@ -71,6 +71,10 @@ Represents a building or a complex of buildings, like airports or universities.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-venuegeometry">VenueGeometry</a>
+
   </div>
 
   </div>
@@ -79,7 +83,7 @@ Represents a building or a complex of buildings, like airports or universities.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10VenueModelC19StringToPropertyMapa"></span>` `<span id="//apple_ref/swift/Alias/StringToPropertyMap" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuemodel#/s:7heresdk10VenueModelC19StringToPropertyMapa" class="token"><code>StringToPropertyMap</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10VenueModelC19StringToPropertyMapa"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Alias-StringToPropertyMap" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuemodel#sdk-for-ios-explore-s-7heresdk10VenueModelC19StringToPropertyMapa" class="token"><code>StringToPropertyMap</code></a> 
 
   </div>
 
@@ -115,6 +119,10 @@ Represents a building or a complex of buildings, like airports or universities.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-property">Property</a>
+
   </div>
 
   </div>
@@ -123,7 +131,7 @@ Represents a building or a complex of buildings, like airports or universities.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10VenueModelC24StringToGeometryArrayMapa"></span>` `<span id="//apple_ref/swift/Alias/StringToGeometryArrayMap" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuemodel#/s:7heresdk10VenueModelC24StringToGeometryArrayMapa" class="token"><code>StringToGeometryArrayMap</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10VenueModelC24StringToGeometryArrayMapa"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Alias-StringToGeometryArrayMap" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuemodel#sdk-for-ios-explore-s-7heresdk10VenueModelC24StringToGeometryArrayMapa" class="token"><code>StringToGeometryArrayMap</code></a> 
 
   </div>
 
@@ -159,6 +167,10 @@ Represents a building or a complex of buildings, like airports or universities.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-venuemodel#sdk-for-ios-explore-s-7heresdk10VenueModelC13GeometryArraya">GeometryArray</a>
+
   </div>
 
   </div>
@@ -167,7 +179,7 @@ Represents a building or a complex of buildings, like airports or universities.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10VenueModelC08StringToD8ArrayMapa"></span>` `<span id="//apple_ref/swift/Alias/StringToStringArrayMap" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuemodel#/s:7heresdk10VenueModelC08StringToD8ArrayMapa" class="token"><code>StringToStringArrayMap</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10VenueModelC08StringToD8ArrayMapa"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Alias-StringToStringArrayMap" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuemodel#sdk-for-ios-explore-s-7heresdk10VenueModelC08StringToD8ArrayMapa" class="token"><code>StringToStringArrayMap</code></a> 
 
   </div>
 
@@ -203,6 +215,10 @@ Represents a building or a complex of buildings, like airports or universities.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-venuemodel#sdk-for-ios-explore-s-7heresdk10VenueModelC11StringArraya">StringArray</a>
+
   </div>
 
   </div>
@@ -211,7 +227,7 @@ Represents a building or a complex of buildings, like airports or universities.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10VenueModelC11StringArraya"></span>` `<span id="//apple_ref/swift/Alias/StringArray" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuemodel#/s:7heresdk10VenueModelC11StringArraya" class="token"><code>StringArray</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10VenueModelC11StringArraya"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Alias-StringArray" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuemodel#sdk-for-ios-explore-s-7heresdk10VenueModelC11StringArraya" class="token"><code>StringArray</code></a> 
 
   </div>
 
@@ -255,7 +271,7 @@ Represents a building or a complex of buildings, like airports or universities.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10VenueModelC12DrawingArraya"></span>` `<span id="//apple_ref/swift/Alias/DrawingArray" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuemodel#/s:7heresdk10VenueModelC12DrawingArraya" class="token"><code>DrawingArray</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10VenueModelC12DrawingArraya"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Alias-DrawingArray" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuemodel#sdk-for-ios-explore-s-7heresdk10VenueModelC12DrawingArraya" class="token"><code>DrawingArray</code></a> 
 
   </div>
 
@@ -291,6 +307,10 @@ Represents a building or a complex of buildings, like airports or universities.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-venuedrawing">VenueDrawing</a>
+
   </div>
 
   </div>
@@ -299,7 +319,7 @@ Represents a building or a complex of buildings, like airports or universities.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10VenueModelC13TopologyArraya"></span>` `<span id="//apple_ref/swift/Alias/TopologyArray" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuemodel#/s:7heresdk10VenueModelC13TopologyArraya" class="token"><code>TopologyArray</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10VenueModelC13TopologyArraya"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Alias-TopologyArray" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuemodel#sdk-for-ios-explore-s-7heresdk10VenueModelC13TopologyArraya" class="token"><code>TopologyArray</code></a> 
 
   </div>
 
@@ -335,6 +355,10 @@ Represents a building or a complex of buildings, like airports or universities.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-venuetopology">VenueTopology</a>
+
   </div>
 
   </div>
@@ -343,7 +367,7 @@ Represents a building or a complex of buildings, like airports or universities.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10VenueModelC2ids5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/id" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuemodel#/s:7heresdk10VenueModelC2ids5Int32Vvp" class="token"><code>id</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10VenueModelC2ids5Int32Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-id" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuemodel#sdk-for-ios-explore-s-7heresdk10VenueModelC2ids5Int32Vvp" class="token"><code>id</code></a> 
 
   </div>
 
@@ -387,7 +411,7 @@ Represents a building or a complex of buildings, like airports or universities.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10VenueModelC10identifierSSvp"></span>` `<span id="//apple_ref/swift/Property/identifier" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuemodel#/s:7heresdk10VenueModelC10identifierSSvp" class="token"><code>identifier</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10VenueModelC10identifierSSvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-identifier" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuemodel#sdk-for-ios-explore-s-7heresdk10VenueModelC10identifierSSvp" class="token"><code>identifier</code></a> 
 
   </div>
 
@@ -405,7 +429,7 @@ Represents a building or a complex of buildings, like airports or universities.
 
   <div class="abstract">
 
-  The <a href="sdk-for-ios-explore-classes-venuemodel#/s:7heresdk10VenueModelC2ids5Int32Vvp">`id`</a> of the venue model.
+  The <a href="sdk-for-ios-explore-classes-venuemodel#sdk-for-ios-explore-s-7heresdk10VenueModelC2ids5Int32Vvp">`id`</a> of the venue model.
 
   </div>
 
@@ -431,7 +455,7 @@ Represents a building or a complex of buildings, like airports or universities.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10VenueModelC6centerAA14GeoCoordinatesVvp"></span>` `<span id="//apple_ref/swift/Property/center" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuemodel#/s:7heresdk10VenueModelC6centerAA14GeoCoordinatesVvp" class="token"><code>center</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10VenueModelC6centerAA14GeoCoordinatesVvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-center" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuemodel#sdk-for-ios-explore-s-7heresdk10VenueModelC6centerAA14GeoCoordinatesVvp" class="token"><code>center</code></a> 
 
   </div>
 
@@ -467,6 +491,10 @@ Represents a building or a complex of buildings, like airports or universities.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geocoordinates">GeoCoordinates</a>
+
   </div>
 
   </div>
@@ -475,7 +503,7 @@ Represents a building or a complex of buildings, like airports or universities.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10VenueModelC11boundingBoxAA03GeoE0Vvp"></span>` `<span id="//apple_ref/swift/Property/boundingBox" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuemodel#/s:7heresdk10VenueModelC11boundingBoxAA03GeoE0Vvp" class="token"><code>boundingBox</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10VenueModelC11boundingBoxAA03GeoE0Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-boundingBox" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuemodel#sdk-for-ios-explore-s-7heresdk10VenueModelC11boundingBoxAA03GeoE0Vvp" class="token"><code>boundingBox</code></a> 
 
   </div>
 
@@ -511,6 +539,10 @@ Represents a building or a complex of buildings, like airports or universities.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geobox">GeoBox</a>
+
   </div>
 
   </div>
@@ -519,7 +551,7 @@ Represents a building or a complex of buildings, like airports or universities.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10VenueModelC8drawingsSayAA0B7DrawingCGvp"></span>` `<span id="//apple_ref/swift/Property/drawings" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuemodel#/s:7heresdk10VenueModelC8drawingsSayAA0B7DrawingCGvp" class="token"><code>drawings</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10VenueModelC8drawingsSayAA0B7DrawingCGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-drawings" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuemodel#sdk-for-ios-explore-s-7heresdk10VenueModelC8drawingsSayAA0B7DrawingCGvp" class="token"><code>drawings</code></a> 
 
   </div>
 
@@ -555,6 +587,10 @@ Represents a building or a complex of buildings, like airports or universities.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-venuemodel#sdk-for-ios-explore-s-7heresdk10VenueModelC12DrawingArraya">DrawingArray</a>
+
   </div>
 
   </div>
@@ -563,7 +599,7 @@ Represents a building or a complex of buildings, like airports or universities.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10VenueModelC10propertiesSDySSAA8PropertyCGvp"></span>` `<span id="//apple_ref/swift/Property/properties" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuemodel#/s:7heresdk10VenueModelC10propertiesSDySSAA8PropertyCGvp" class="token"><code>properties</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10VenueModelC10propertiesSDySSAA8PropertyCGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-properties" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuemodel#sdk-for-ios-explore-s-7heresdk10VenueModelC10propertiesSDySSAA8PropertyCGvp" class="token"><code>properties</code></a> 
 
   </div>
 
@@ -599,6 +635,10 @@ Represents a building or a complex of buildings, like airports or universities.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-venuemodel#sdk-for-ios-explore-s-7heresdk10VenueModelC19StringToPropertyMapa">StringToPropertyMap</a>
+
   </div>
 
   </div>
@@ -607,7 +647,7 @@ Represents a building or a complex of buildings, like airports or universities.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10VenueModelC8languageSSvp"></span>` `<span id="//apple_ref/swift/Property/language" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuemodel#/s:7heresdk10VenueModelC8languageSSvp" class="token"><code>language</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10VenueModelC8languageSSvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-language" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuemodel#sdk-for-ios-explore-s-7heresdk10VenueModelC8languageSSvp" class="token"><code>language</code></a> 
 
   </div>
 
@@ -651,7 +691,7 @@ Represents a building or a complex of buildings, like airports or universities.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10VenueModelC16geometriesByNameSayAA0B8GeometryCGvp"></span>` `<span id="//apple_ref/swift/Property/geometriesByName" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuemodel#/s:7heresdk10VenueModelC16geometriesByNameSayAA0B8GeometryCGvp" class="token"><code>geometriesByName</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10VenueModelC16geometriesByNameSayAA0B8GeometryCGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-geometriesByName" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuemodel#sdk-for-ios-explore-s-7heresdk10VenueModelC16geometriesByNameSayAA0B8GeometryCGvp" class="token"><code>geometriesByName</code></a> 
 
   </div>
 
@@ -687,6 +727,10 @@ Represents a building or a complex of buildings, like airports or universities.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-venuemodel#sdk-for-ios-explore-s-7heresdk10VenueModelC13GeometryArraya">GeometryArray</a>
+
   </div>
 
   </div>
@@ -695,7 +739,7 @@ Represents a building or a complex of buildings, like airports or universities.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10VenueModelC21geometriesByIconNamesSDySSSayAA0B8GeometryCGGvp"></span>` `<span id="//apple_ref/swift/Property/geometriesByIconNames" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuemodel#/s:7heresdk10VenueModelC21geometriesByIconNamesSDySSSayAA0B8GeometryCGGvp" class="token"><code>geometriesByIconNames</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10VenueModelC21geometriesByIconNamesSDySSSayAA0B8GeometryCGGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-geometriesByIconNames" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuemodel#sdk-for-ios-explore-s-7heresdk10VenueModelC21geometriesByIconNamesSDySSSayAA0B8GeometryCGGvp" class="token"><code>geometriesByIconNames</code></a> 
 
   </div>
 
@@ -731,6 +775,10 @@ Represents a building or a complex of buildings, like airports or universities.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-venuemodel#sdk-for-ios-explore-s-7heresdk10VenueModelC24StringToGeometryArrayMapa">StringToGeometryArrayMap</a>
+
   </div>
 
   </div>
@@ -739,7 +787,7 @@ Represents a building or a complex of buildings, like airports or universities.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10VenueModelC10topologiesSayAA0B8TopologyCGvp"></span>` `<span id="//apple_ref/swift/Property/topologies" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuemodel#/s:7heresdk10VenueModelC10topologiesSayAA0B8TopologyCGvp" class="token"><code>topologies</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10VenueModelC10topologiesSayAA0B8TopologyCGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-topologies" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuemodel#sdk-for-ios-explore-s-7heresdk10VenueModelC10topologiesSayAA0B8TopologyCGvp" class="token"><code>topologies</code></a> 
 
   </div>
 
@@ -775,6 +823,10 @@ Represents a building or a complex of buildings, like airports or universities.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-venuemodel#sdk-for-ios-explore-s-7heresdk10VenueModelC13TopologyArraya">TopologyArray</a>
+
   </div>
 
   </div>
@@ -783,7 +835,7 @@ Represents a building or a complex of buildings, like airports or universities.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10VenueModelC10geometriesSayAA0B8GeometryCGvp"></span>` `<span id="//apple_ref/swift/Property/geometries" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuemodel#/s:7heresdk10VenueModelC10geometriesSayAA0B8GeometryCGvp" class="token"><code>geometries</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10VenueModelC10geometriesSayAA0B8GeometryCGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-geometries" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuemodel#sdk-for-ios-explore-s-7heresdk10VenueModelC10geometriesSayAA0B8GeometryCGvp" class="token"><code>geometries</code></a> 
 
   </div>
 
@@ -819,6 +871,10 @@ Represents a building or a complex of buildings, like airports or universities.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-venuemodel#sdk-for-ios-explore-s-7heresdk10VenueModelC13GeometryArraya">GeometryArray</a>
+
   </div>
 
   </div>
@@ -827,7 +883,7 @@ Represents a building or a complex of buildings, like airports or universities.
 
 - <div>
 
-      getDrawing(drawingId: )
+   <span id="sdk-for-ios-explore-s-7heresdk10VenueModelC10getDrawing9drawingIdAA0bE0Cs5Int32V_tF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-getDrawing-drawingId" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuemodel#sdk-for-ios-explore-s-7heresdk10VenueModelC10getDrawing9drawingIdAA0bE0Cs5Int32V_tF" class="token"><code>getDrawing(drawingId:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -858,12 +914,14 @@ Represents a building or a complex of buildings, like airports or universities.
   Swift
 
   ``` highlight
-  public func getDrawing ( drawingId : Int32 ) -> VenueDrawing
+  public func getDrawing(drawingId: Int32) -> VenueDrawing
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-venuedrawing">VenueDrawing</a>
 
   </div>
 
@@ -902,7 +960,7 @@ Represents a building or a complex of buildings, like airports or universities.
 
 - <div>
 
-      getDrawing(drawingId: )
+   <span id="sdk-for-ios-explore-s-7heresdk10VenueModelC10getDrawing9drawingIdAA0bE0CSS_tF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-getDrawing-drawingId" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuemodel#sdk-for-ios-explore-s-7heresdk10VenueModelC10getDrawing9drawingIdAA0bE0CSS_tF" class="token"><code>getDrawing(drawingId:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -933,12 +991,14 @@ Represents a building or a complex of buildings, like airports or universities.
   Swift
 
   ``` highlight
-  public func getDrawing ( drawingId : String ) -> VenueDrawing
+  public func getDrawing(drawingId: String) -> VenueDrawing
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-venuedrawing">VenueDrawing</a>
 
   </div>
 
@@ -977,7 +1037,7 @@ Represents a building or a complex of buildings, like airports or universities.
 
 - <div>
 
-      filterGeometry(filter: filterType: )
+   <span id="sdk-for-ios-explore-s-7heresdk10VenueModelC14filterGeometry0D00D4TypeSayAA0bE0CGSS_AA0be6FilterF0OtF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-filterGeometry-filter-filterType" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuemodel#sdk-for-ios-explore-s-7heresdk10VenueModelC14filterGeometry0D00D4TypeSayAA0bE0CGSS_AA0be6FilterF0OtF" class="token"><code>filterGeometry(filter:</code><wbr></wbr><code>filterType:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1008,12 +1068,15 @@ Represents a building or a complex of buildings, like airports or universities.
   Swift
 
   ``` highlight
-  public func filterGeometry ( filter : String , filterType : VenueGeometryFilterType ) -> VenueModel . GeometryArray
+  public func filterGeometry(filter: String, filterType: VenueGeometryFilterType) -> VenueModel.GeometryArray
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-venuegeometryfiltertype">VenueGeometryFilterType</a>
+  - <a href="sdk-for-ios-explore-classes-venuemodel#sdk-for-ios-explore-s-7heresdk10VenueModelC13GeometryArraya">GeometryArray</a>
 
   </div>
 

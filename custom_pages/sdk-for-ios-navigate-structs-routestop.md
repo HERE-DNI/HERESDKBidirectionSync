@@ -27,7 +27,7 @@ Route stop that should be used together with import route functionality. It spec
 
 - <div>
 
-  ` `<span id="/s:7heresdk9RouteStopV13locationIndexs5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/locationIndex" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-routestop#/s:7heresdk9RouteStopV13locationIndexs5Int32Vvp" class="token"><code>locationIndex</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9RouteStopV13locationIndexs5Int32Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-locationIndex" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-routestop#sdk-for-ios-navigate-s-7heresdk9RouteStopV13locationIndexs5Int32Vvp" class="token"><code>locationIndex</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Route stop that should be used together with import route functionality. It spec
 
 - <div>
 
-  ` `<span id="/s:7heresdk9RouteStopV12stopDurationSdvp"></span>` `<span id="//apple_ref/swift/Property/stopDuration" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-routestop#/s:7heresdk9RouteStopV12stopDurationSdvp" class="token"><code>stopDuration</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9RouteStopV12stopDurationSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-stopDuration" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-routestop#sdk-for-ios-navigate-s-7heresdk9RouteStopV12stopDurationSdvp" class="token"><code>stopDuration</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Route stop that should be used together with import route functionality. It spec
 
 - <div>
 
-      init(locationIndex: stopDuration: )
+   <span id="sdk-for-ios-navigate-s-7heresdk9RouteStopV13locationIndex12stopDurationACs5Int32V_Sdtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-locationIndex-stopDuration" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-routestop#sdk-for-ios-navigate-s-7heresdk9RouteStopV13locationIndex12stopDurationACs5Int32V_Sdtcfc" class="token"><code>init(locationIndex:</code><wbr></wbr><code>stopDuration:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -146,10 +146,8 @@ Route stop that should be used together with import route functionality. It spec
   Swift
 
   ``` highlight
-  public init ( locationIndex : Int32 , stopDuration : TimeInterval = 0 )
+  public init(locationIndex: Int32, stopDuration: TimeInterval = 0)
   ```
-
-  </pre>
 
   </div>
 

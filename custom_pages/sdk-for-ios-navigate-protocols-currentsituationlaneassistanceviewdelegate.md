@@ -38,7 +38,7 @@ This event is supported both with a route during turn-by-turn navigation and wit
 
 - <div>
 
-      onCurrentSituationLaneAssistanceViewUpdate(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk42CurrentSituationLaneAssistanceViewDelegateP02onbcdeF6UpdateyyAA0bcdeF0VF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-onCurrentSituationLaneAssistanceViewUpdate-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-protocols-currentsituationlaneassistanceviewdelegate#sdk-for-ios-navigate-s-7heresdk42CurrentSituationLaneAssistanceViewDelegateP02onbcdeF6UpdateyyAA0bcdeF0VF" class="token"><code>onCurrentSituationLaneAssistanceViewUpdate(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -69,12 +69,14 @@ This event is supported both with a route during turn-by-turn navigation and wit
   Swift
 
   ``` highlight
-  func onCurrentSituationLaneAssistanceViewUpdate ( _ lanes : CurrentSituationLaneAssistanceView )
+  func onCurrentSituationLaneAssistanceViewUpdate(_ lanes: CurrentSituationLaneAssistanceView)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-currentsituationlaneassistanceview">CurrentSituationLaneAssistanceView</a>
 
   </div>
 

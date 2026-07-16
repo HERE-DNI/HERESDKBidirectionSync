@@ -27,7 +27,7 @@ The options to specify polygon shape which routes must not cross.
 
 - <div>
 
-  ` `<span id="/s:7heresdk23AvoidPolygonAreaOptionsV05avoidcD0AA03GeoC0Vvp"></span>` `<span id="//apple_ref/swift/Property/avoidPolygonArea" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-avoidpolygonareaoptions#/s:7heresdk23AvoidPolygonAreaOptionsV05avoidcD0AA03GeoC0Vvp" class="token"><code>avoidPolygonArea</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk23AvoidPolygonAreaOptionsV05avoidcD0AA03GeoC0Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-avoidPolygonArea" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-avoidpolygonareaoptions#sdk-for-ios-navigate-s-7heresdk23AvoidPolygonAreaOptionsV05avoidcD0AA03GeoC0Vvp" class="token"><code>avoidPolygonArea</code></a> 
 
   </div>
 
@@ -45,7 +45,7 @@ The options to specify polygon shape which routes must not cross.
 
   <div class="abstract">
 
-  Area of polygon shape which routes must not cross. Strictly enforced. Violations are reported as <a href="sdk-for-ios-navigate-enums-sectionnoticecode#/s:7heresdk17SectionNoticeCodeO19violatedBlockedRoadyA2CmF">`SectionNoticeCode.violatedBlockedRoad`</a>. **Note:** This avoidance option is not supported for <a href="sdk-for-ios-navigate-structs-isolineoptions">`IsolineOptions`</a>. If it is defined for isoline calculation then an \[sdk.routing.RoutingError.INVALID_PARAMETER\] error is generated.
+  Area of polygon shape which routes must not cross. Strictly enforced. Violations are reported as <a href="sdk-for-ios-navigate-enums-sectionnoticecode#sdk-for-ios-navigate-s-7heresdk17SectionNoticeCodeO19violatedBlockedRoadyA2CmF">`SectionNoticeCode.violatedBlockedRoad`</a>. **Note:** This avoidance option is not supported for <a href="sdk-for-ios-navigate-structs-isolineoptions">`IsolineOptions`</a>. If it is defined for isoline calculation then an \[sdk.routing.RoutingError.INVALID_PARAMETER\] error is generated.
 
   </div>
 
@@ -63,6 +63,10 @@ The options to specify polygon shape which routes must not cross.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-geopolygon">GeoPolygon</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ The options to specify polygon shape which routes must not cross.
 
 - <div>
 
-  ` `<span id="/s:7heresdk23AvoidPolygonAreaOptionsV25boundingBoxExceptionAreasSayAA03GeoG0VGvp"></span>` `<span id="//apple_ref/swift/Property/boundingBoxExceptionAreas" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-avoidpolygonareaoptions#/s:7heresdk23AvoidPolygonAreaOptionsV25boundingBoxExceptionAreasSayAA03GeoG0VGvp" class="token"><code>boundingBoxExceptionAreas</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk23AvoidPolygonAreaOptionsV25boundingBoxExceptionAreasSayAA03GeoG0VGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-boundingBoxExceptionAreas" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-avoidpolygonareaoptions#sdk-for-ios-navigate-s-7heresdk23AvoidPolygonAreaOptionsV25boundingBoxExceptionAreasSayAA03GeoG0VGvp" class="token"><code>boundingBoxExceptionAreas</code></a> 
 
   </div>
 
@@ -107,6 +111,10 @@ The options to specify polygon shape which routes must not cross.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-geobox">GeoBox</a>
+
   </div>
 
   </div>
@@ -115,7 +123,7 @@ The options to specify polygon shape which routes must not cross.
 
 - <div>
 
-  ` `<span id="/s:7heresdk23AvoidPolygonAreaOptionsV21polygonExceptionAreasSayAA03GeoC0VGvp"></span>` `<span id="//apple_ref/swift/Property/polygonExceptionAreas" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-avoidpolygonareaoptions#/s:7heresdk23AvoidPolygonAreaOptionsV21polygonExceptionAreasSayAA03GeoC0VGvp" class="token"><code>polygonExceptionAreas</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk23AvoidPolygonAreaOptionsV21polygonExceptionAreasSayAA03GeoC0VGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-polygonExceptionAreas" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-avoidpolygonareaoptions#sdk-for-ios-navigate-s-7heresdk23AvoidPolygonAreaOptionsV21polygonExceptionAreasSayAA03GeoC0VGvp" class="token"><code>polygonExceptionAreas</code></a> 
 
   </div>
 
@@ -151,6 +159,10 @@ The options to specify polygon shape which routes must not cross.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-geopolygon">GeoPolygon</a>
+
   </div>
 
   </div>
@@ -159,7 +171,7 @@ The options to specify polygon shape which routes must not cross.
 
 - <div>
 
-  ` `<span id="/s:7heresdk23AvoidPolygonAreaOptionsV22corridorExceptionAreasSayAA11GeoCorridorVGvp"></span>` `<span id="//apple_ref/swift/Property/corridorExceptionAreas" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-avoidpolygonareaoptions#/s:7heresdk23AvoidPolygonAreaOptionsV22corridorExceptionAreasSayAA11GeoCorridorVGvp" class="token"><code>corridorExceptionAreas</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk23AvoidPolygonAreaOptionsV22corridorExceptionAreasSayAA11GeoCorridorVGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-corridorExceptionAreas" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-avoidpolygonareaoptions#sdk-for-ios-navigate-s-7heresdk23AvoidPolygonAreaOptionsV22corridorExceptionAreasSayAA11GeoCorridorVGvp" class="token"><code>corridorExceptionAreas</code></a> 
 
   </div>
 
@@ -195,6 +207,10 @@ The options to specify polygon shape which routes must not cross.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-geocorridor">GeoCorridor</a>
+
   </div>
 
   </div>
@@ -203,7 +219,7 @@ The options to specify polygon shape which routes must not cross.
 
 - <div>
 
-      init(avoidPolygonArea: boundingBoxExceptionAreas: polygonExceptionAreas: corridorExceptionAreas: )
+   <span id="sdk-for-ios-navigate-s-7heresdk23AvoidPolygonAreaOptionsV05avoidcD025boundingBoxExceptionAreas07polygoniJ008corridoriJ0AcA03GeoC0V_SayAA0mH0VGSayAIGSayAA0M8CorridorVGtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-avoidPolygonArea-boundingBoxExceptionAreas-polygonExceptionAreas-corridorExceptionAreas" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-avoidpolygonareaoptions#sdk-for-ios-navigate-s-7heresdk23AvoidPolygonAreaOptionsV05avoidcD025boundingBoxExceptionAreas07polygoniJ008corridoriJ0AcA03GeoC0V_SayAA0mH0VGSayAIGSayAA0M8CorridorVGtcfc" class="token"><code>init(avoidPolygonArea:</code><wbr></wbr><code>boundingBoxExceptionAreas:</code><wbr></wbr><code>polygonExceptionAreas:</code><wbr></wbr><code>corridorExceptionAreas:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -234,12 +250,16 @@ The options to specify polygon shape which routes must not cross.
   Swift
 
   ``` highlight
-  public init ( avoidPolygonArea : GeoPolygon , boundingBoxExceptionAreas : [ GeoBox ] = [], polygonExceptionAreas : [ GeoPolygon ] = [], corridorExceptionAreas : [ GeoCorridor ] = [])
+  public init(avoidPolygonArea: GeoPolygon, boundingBoxExceptionAreas: [GeoBox] = [], polygonExceptionAreas: [GeoPolygon] = [], corridorExceptionAreas: [GeoCorridor] = [])
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-geopolygon">GeoPolygon</a>
+  - <a href="sdk-for-ios-navigate-structs-geobox">GeoBox</a>
+  - <a href="sdk-for-ios-navigate-structs-geocorridor">GeoCorridor</a>
 
   </div>
 

@@ -27,7 +27,7 @@ Protocol to get notified on status updates when downloading map regions.
 
 - <div>
 
-      onDownloadRegionsComplete(error: regions: )
+   <span id="sdk-for-ios-navigate-s-7heresdk29DownloadRegionsStatusListenerP02onbC8Complete5error7regionsyAA14MapLoaderErrorOSg_SayAA8RegionIdVGSgtF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-onDownloadRegionsComplete-error-regions" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-protocols-downloadregionsstatuslistener#sdk-for-ios-navigate-s-7heresdk29DownloadRegionsStatusListenerP02onbC8Complete5error7regionsyAA14MapLoaderErrorOSg_SayAA8RegionIdVGSgtF" class="token"><code>onDownloadRegionsComplete(error:</code><wbr></wbr><code>regions:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -45,12 +45,7 @@ Protocol to get notified on status updates when downloading map regions.
 
   <div class="abstract">
 
-  Called after the download for all requested regions has been completed with success or failure. In this callback, failure represents non-retryable error (eg. authentication failure because of invalid credentials and similars). Temporary failures (eg. network errors) are notified through
-
-      onPause(...)
-
-  and downloads will be in paused state so they can be resumed later. Invoked on the main thread.
-  </p>
+  Called after the download for all requested regions has been completed with success or failure. In this callback, failure represents non-retryable error (eg. authentication failure because of invalid credentials and similars). Temporary failures (eg. network errors) are notified through <a href="sdk-for-ios-navigate-protocols-downloadregionsstatuslistener#sdk-for-ios-navigate-s-7heresdk29DownloadRegionsStatusListenerP7onPause5erroryAA14MapLoaderErrorOSg_tF">`onPause(...)`</a> and downloads will be in paused state so they can be resumed later. Invoked on the main thread.
 
   </div>
 
@@ -63,12 +58,15 @@ Protocol to get notified on status updates when downloading map regions.
   Swift
 
   ``` highlight
-  func onDownloadRegionsComplete ( error : MapLoaderError ?, regions : [ RegionId ]?)
+  func onDownloadRegionsComplete(error: MapLoaderError?, regions: [RegionId]?)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-maploadererror">MapLoaderError</a>
+  - <a href="sdk-for-ios-navigate-structs-regionid">RegionId</a>
 
   </div>
 
@@ -105,7 +103,7 @@ Protocol to get notified on status updates when downloading map regions.
 
 - <div>
 
-      onProgress(region: percentage: )
+   <span id="sdk-for-ios-navigate-s-7heresdk29DownloadRegionsStatusListenerP10onProgress6region10percentageyAA8RegionIdV_s5Int32VtF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-onProgress-region-percentage" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-protocols-downloadregionsstatuslistener#sdk-for-ios-navigate-s-7heresdk29DownloadRegionsStatusListenerP10onProgress6region10percentageyAA8RegionIdV_s5Int32VtF" class="token"><code>onProgress(region:</code><wbr></wbr><code>percentage:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -136,12 +134,14 @@ Protocol to get notified on status updates when downloading map regions.
   Swift
 
   ``` highlight
-  func onProgress ( region : RegionId , percentage : Int32 )
+  func onProgress(region: RegionId, percentage: Int32)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-regionid">RegionId</a>
 
   </div>
 
@@ -178,7 +178,7 @@ Protocol to get notified on status updates when downloading map regions.
 
 - <div>
 
-      onPause(error: )
+   <span id="sdk-for-ios-navigate-s-7heresdk29DownloadRegionsStatusListenerP7onPause5erroryAA14MapLoaderErrorOSg_tF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-onPause-error" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-protocols-downloadregionsstatuslistener#sdk-for-ios-navigate-s-7heresdk29DownloadRegionsStatusListenerP7onPause5erroryAA14MapLoaderErrorOSg_tF" class="token"><code>onPause(error:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -209,12 +209,14 @@ Protocol to get notified on status updates when downloading map regions.
   Swift
 
   ``` highlight
-  func onPause ( error : MapLoaderError ?)
+  func onPause(error: MapLoaderError?)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-maploadererror">MapLoaderError</a>
 
   </div>
 
@@ -245,7 +247,7 @@ Protocol to get notified on status updates when downloading map regions.
 
 - <div>
 
-      onResume()
+   <span id="sdk-for-ios-navigate-s-7heresdk29DownloadRegionsStatusListenerP8onResumeyyF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-onResume" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-protocols-downloadregionsstatuslistener#sdk-for-ios-navigate-s-7heresdk29DownloadRegionsStatusListenerP8onResumeyyF" class="token"><code>onResume()</code></a> 
 
   </div>
 
@@ -276,10 +278,8 @@ Protocol to get notified on status updates when downloading map regions.
   Swift
 
   ``` highlight
-  func onResume ()
+  func onResume()
   ```
-
-  </pre>
 
   </div>
 

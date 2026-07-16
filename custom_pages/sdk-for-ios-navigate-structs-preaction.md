@@ -27,7 +27,7 @@ An action that must be done prior to the section, i.e. boarding a ferry.
 
 - <div>
 
-  ` `<span id="/s:7heresdk9PreActionV6actionAA0bC4TypeOvp"></span>` `<span id="//apple_ref/swift/Property/action" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-preaction#/s:7heresdk9PreActionV6actionAA0bC4TypeOvp" class="token"><code>action</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9PreActionV6actionAA0bC4TypeOvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-action" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-preaction#sdk-for-ios-navigate-s-7heresdk9PreActionV6actionAA0bC4TypeOvp" class="token"><code>action</code></a> 
 
   </div>
 
@@ -45,7 +45,7 @@ An action that must be done prior to the section, i.e. boarding a ferry.
 
   <div class="abstract">
 
-  Type of this action. Defaults to <a href="sdk-for-ios-navigate-enums-preactiontype#/s:7heresdk13PreActionTypeO5boardyA2CmF">`PreActionType.board`</a>.
+  Type of this action. Defaults to <a href="sdk-for-ios-navigate-enums-preactiontype#sdk-for-ios-navigate-s-7heresdk13PreActionTypeO5boardyA2CmF">`PreActionType.board`</a>.
 
   </div>
 
@@ -63,6 +63,10 @@ An action that must be done prior to the section, i.e. boarding a ferry.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-preactiontype">PreActionType</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ An action that must be done prior to the section, i.e. boarding a ferry.
 
 - <div>
 
-  ` `<span id="/s:7heresdk9PreActionV8durationSdvp"></span>` `<span id="//apple_ref/swift/Property/duration" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-preaction#/s:7heresdk9PreActionV8durationSdvp" class="token"><code>duration</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9PreActionV8durationSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-duration" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-preaction#sdk-for-ios-navigate-s-7heresdk9PreActionV8durationSdvp" class="token"><code>duration</code></a> 
 
   </div>
 
@@ -115,7 +119,7 @@ An action that must be done prior to the section, i.e. boarding a ferry.
 
 - <div>
 
-      init(action: duration: )
+   <span id="sdk-for-ios-navigate-s-7heresdk9PreActionV6action8durationAcA0bC4TypeO_Sdtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-action-duration" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-preaction#sdk-for-ios-navigate-s-7heresdk9PreActionV6action8durationAcA0bC4TypeO_Sdtcfc" class="token"><code>init(action:</code><wbr></wbr><code>duration:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -146,12 +150,14 @@ An action that must be done prior to the section, i.e. boarding a ferry.
   Swift
 
   ``` highlight
-  public init ( action : PreActionType = PreActionType . board , duration : TimeInterval = 0 )
+  public init(action: PreActionType = PreActionType.board, duration: TimeInterval = 0)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-preactiontype">PreActionType</a>
 
   </div>
 

@@ -27,7 +27,7 @@ Tile metadata.
 
 - <div>
 
-  ` `<span id="/s:7heresdk010TileSourceB8MetadataV11dataVersionAA0bc4DataF0Vvp"></span>` `<span id="//apple_ref/swift/Property/dataVersion" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-tilesourcetilemetadata#/s:7heresdk010TileSourceB8MetadataV11dataVersionAA0bc4DataF0Vvp" class="token"><code>dataVersion</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk010TileSourceB8MetadataV11dataVersionAA0bc4DataF0Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-dataVersion" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-tilesourcetilemetadata#sdk-for-ios-explore-s-7heresdk010TileSourceB8MetadataV11dataVersionAA0bc4DataF0Vvp" class="token"><code>dataVersion</code></a> 
 
   </div>
 
@@ -63,6 +63,10 @@ Tile metadata.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-tilesourcedataversion">TileSourceDataVersion</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ Tile metadata.
 
 - <div>
 
-  ` `<span id="/s:7heresdk010TileSourceB8MetadataV19dataExpiryTimestamp10Foundation4DateVvp"></span>` `<span id="//apple_ref/swift/Property/dataExpiryTimestamp" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-tilesourcetilemetadata#/s:7heresdk010TileSourceB8MetadataV19dataExpiryTimestamp10Foundation4DateVvp" class="token"><code>dataExpiryTimestamp</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk010TileSourceB8MetadataV19dataExpiryTimestamp10Foundation4DateVvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-dataExpiryTimestamp" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-tilesourcetilemetadata#sdk-for-ios-explore-s-7heresdk010TileSourceB8MetadataV19dataExpiryTimestamp10Foundation4DateVvp" class="token"><code>dataExpiryTimestamp</code></a> 
 
   </div>
 
@@ -115,7 +119,7 @@ Tile metadata.
 
 - <div>
 
-      init(dataVersion: dataExpiryTimestamp: )
+   <span id="sdk-for-ios-explore-s-7heresdk010TileSourceB8MetadataV11dataVersion0E15ExpiryTimestampAcA0bc4DataF0V_10Foundation4DateVtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-dataVersion-dataExpiryTimestamp" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-tilesourcetilemetadata#sdk-for-ios-explore-s-7heresdk010TileSourceB8MetadataV11dataVersion0E15ExpiryTimestampAcA0bc4DataF0V_10Foundation4DateVtcfc" class="token"><code>init(dataVersion:</code><wbr></wbr><code>dataExpiryTimestamp:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -146,12 +150,14 @@ Tile metadata.
   Swift
 
   ``` highlight
-  public init ( dataVersion : TileSourceDataVersion , dataExpiryTimestamp : Date )
+  public init(dataVersion: TileSourceDataVersion, dataExpiryTimestamp: Date)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-tilesourcedataversion">TileSourceDataVersion</a>
 
   </div>
 

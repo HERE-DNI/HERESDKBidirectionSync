@@ -27,7 +27,7 @@ These options define the parameters of the electric vehicle. **Note:** This is a
 
 - <div>
 
-  ` `<span id="/s:7heresdk22ElectricVehicleOptionsV18ensureReachabilitySbvp"></span>` `<span id="//apple_ref/swift/Property/ensureReachability" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-electricvehicleoptions#/s:7heresdk22ElectricVehicleOptionsV18ensureReachabilitySbvp" class="token"><code>ensureReachability</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk22ElectricVehicleOptionsV18ensureReachabilitySbvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-ensureReachability" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-electricvehicleoptions#sdk-for-ios-explore-s-7heresdk22ElectricVehicleOptionsV18ensureReachabilitySbvp" class="token"><code>ensureReachability</code></a> 
 
   </div>
 
@@ -45,9 +45,9 @@ These options define the parameters of the electric vehicle. **Note:** This is a
 
   <div class="abstract">
 
-  Ensure that the vehicle does not run out of energy along the way. Requires valid `battery_specifications`. It also requires that <a href="sdk-for-ios-explore-structs-routeoptions#/s:7heresdk12RouteOptionsV16optimizationModeAA012OptimizationE0Ovp">`RouteOptions.optimizationMode`</a> = <a href="sdk-for-ios-explore-enums-optimizationmode#/s:7heresdk16OptimizationModeO7fastestyA2CmF">`OptimizationMode.fastest`</a>, <a href="sdk-for-ios-explore-structs-routeoptions#/s:7heresdk12RouteOptionsV25speedCapInMetersPerSecondSdSgvp">`RouteOptions.speedCapInMetersPerSecond`</a> is not set, and <a href="sdk-for-ios-explore-structs-avoidanceoptions">`AvoidanceOptions`</a> is empty. Otherwise, this object is considered invalid. Setting this flag enables calculation of a route optimized for electric vehicles. Charging stations may be added along the route to ensure that the vehicle does not run out of energy along the way. It is especially useful for longer routes, because after all, charging stations are much less common than petrol stations.
+  Ensure that the vehicle does not run out of energy along the way. Requires valid `battery_specifications`. It also requires that <a href="sdk-for-ios-explore-structs-routeoptions#sdk-for-ios-explore-s-7heresdk12RouteOptionsV16optimizationModeAA012OptimizationE0Ovp">`RouteOptions.optimizationMode`</a> = <a href="sdk-for-ios-explore-enums-optimizationmode#sdk-for-ios-explore-s-7heresdk16OptimizationModeO7fastestyA2CmF">`OptimizationMode.fastest`</a>, <a href="sdk-for-ios-explore-structs-routeoptions#sdk-for-ios-explore-s-7heresdk12RouteOptionsV25speedCapInMetersPerSecondSdSgvp">`RouteOptions.speedCapInMetersPerSecond`</a> is not set, and <a href="sdk-for-ios-explore-structs-avoidanceoptions">`AvoidanceOptions`</a> is empty. Otherwise, this object is considered invalid. Setting this flag enables calculation of a route optimized for electric vehicles. Charging stations may be added along the route to ensure that the vehicle does not run out of energy along the way. It is especially useful for longer routes, because after all, charging stations are much less common than petrol stations.
 
-  **Note** An <a href="sdk-for-ios-explore-enums-routingerror#/s:7heresdk12RoutingErrorO16invalidParameteryA2CmF">`RoutingError.invalidParameter`</a> is generated when this option is set to `true` in case `sdk.routing.RoutingEngine.import_route` is called. Defaults to `false`.
+  **Note** An <a href="sdk-for-ios-explore-enums-routingerror#sdk-for-ios-explore-s-7heresdk12RoutingErrorO16invalidParameteryA2CmF">`RoutingError.invalidParameter`</a> is generated when this option is set to `true` in case `sdk.routing.RoutingEngine.import_route` is called. Defaults to `false`.
 
   **Note** Not supported for offline routing.
 
@@ -77,7 +77,7 @@ These options define the parameters of the electric vehicle. **Note:** This is a
 
 - <div>
 
-  ` `<span id="/s:7heresdk22ElectricVehicleOptionsV36evMobilityServiceProviderPreferencesAA010EVMobilityghI0Vvp"></span>` `<span id="//apple_ref/swift/Property/evMobilityServiceProviderPreferences" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-electricvehicleoptions#/s:7heresdk22ElectricVehicleOptionsV36evMobilityServiceProviderPreferencesAA010EVMobilityghI0Vvp" class="token"><code>evMobilityServiceProviderPreferences</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk22ElectricVehicleOptionsV36evMobilityServiceProviderPreferencesAA010EVMobilityghI0Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-evMobilityServiceProviderPreferences" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-electricvehicleoptions#sdk-for-ios-explore-s-7heresdk22ElectricVehicleOptionsV36evMobilityServiceProviderPreferencesAA010EVMobilityghI0Vvp" class="token"><code>evMobilityServiceProviderPreferences</code></a> 
 
   </div>
 
@@ -113,6 +113,10 @@ These options define the parameters of the electric vehicle. **Note:** This is a
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-evmobilityserviceproviderpreferences">EVMobilityServiceProviderPreferences</a>
+
   </div>
 
   </div>
@@ -121,7 +125,7 @@ These options define the parameters of the electric vehicle. **Note:** This is a
 
 - <div>
 
-  ` `<span id="/s:7heresdk22ElectricVehicleOptionsV25empiricalConsumptionModelAA09EmpiricalfG0VSgvp"></span>` `<span id="//apple_ref/swift/Property/empiricalConsumptionModel" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-electricvehicleoptions#/s:7heresdk22ElectricVehicleOptionsV25empiricalConsumptionModelAA09EmpiricalfG0VSgvp" class="token"><code>empiricalConsumptionModel</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk22ElectricVehicleOptionsV25empiricalConsumptionModelAA09EmpiricalfG0VSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-empiricalConsumptionModel" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-electricvehicleoptions#sdk-for-ios-explore-s-7heresdk22ElectricVehicleOptionsV25empiricalConsumptionModelAA09EmpiricalfG0VSgvp" class="token"><code>empiricalConsumptionModel</code></a> 
 
   </div>
 
@@ -157,6 +161,10 @@ These options define the parameters of the electric vehicle. **Note:** This is a
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-empiricalconsumptionmodel">EmpiricalConsumptionModel</a>
+
   </div>
 
   </div>
@@ -165,7 +173,7 @@ These options define the parameters of the electric vehicle. **Note:** This is a
 
 - <div>
 
-  ` `<span id="/s:7heresdk22ElectricVehicleOptionsV24physicalConsumptionModelAA08PhysicalfG0VSgvp"></span>` `<span id="//apple_ref/swift/Property/physicalConsumptionModel" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-electricvehicleoptions#/s:7heresdk22ElectricVehicleOptionsV24physicalConsumptionModelAA08PhysicalfG0VSgvp" class="token"><code>physicalConsumptionModel</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk22ElectricVehicleOptionsV24physicalConsumptionModelAA08PhysicalfG0VSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-physicalConsumptionModel" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-electricvehicleoptions#sdk-for-ios-explore-s-7heresdk22ElectricVehicleOptionsV24physicalConsumptionModelAA08PhysicalfG0VSgvp" class="token"><code>physicalConsumptionModel</code></a> 
 
   </div>
 
@@ -201,6 +209,10 @@ These options define the parameters of the electric vehicle. **Note:** This is a
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-physicalconsumptionmodel">PhysicalConsumptionModel</a>
+
   </div>
 
   </div>
@@ -209,7 +221,7 @@ These options define the parameters of the electric vehicle. **Note:** This is a
 
 - <div>
 
-  ` `<span id="/s:7heresdk22ElectricVehicleOptionsV21batterySpecificationsAA07BatteryF0VSgvp"></span>` `<span id="//apple_ref/swift/Property/batterySpecifications" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-electricvehicleoptions#/s:7heresdk22ElectricVehicleOptionsV21batterySpecificationsAA07BatteryF0VSgvp" class="token"><code>batterySpecifications</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk22ElectricVehicleOptionsV21batterySpecificationsAA07BatteryF0VSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-batterySpecifications" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-electricvehicleoptions#sdk-for-ios-explore-s-7heresdk22ElectricVehicleOptionsV21batterySpecificationsAA07BatteryF0VSgvp" class="token"><code>batterySpecifications</code></a> 
 
   </div>
 
@@ -245,6 +257,10 @@ These options define the parameters of the electric vehicle. **Note:** This is a
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-batteryspecifications">BatterySpecifications</a>
+
   </div>
 
   </div>
@@ -253,7 +269,7 @@ These options define the parameters of the electric vehicle. **Note:** This is a
 
 - <div>
 
-      init(ensureReachability: evMobilityServiceProviderPreferences: empiricalConsumptionModel: physicalConsumptionModel: batterySpecifications: )
+   <span id="sdk-for-ios-explore-s-7heresdk22ElectricVehicleOptionsV18ensureReachability36evMobilityServiceProviderPreferences25empiricalConsumptionModel08physicalmN021batterySpecificationsACSb_AA010EVMobilityijK0VAA09EmpiricalmN0VSgAA08PhysicalmN0VSgAA07BatteryQ0VSgtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-ensureReachability-evMobilityServiceProviderPreferences-empiricalConsumptionModel-physicalConsumptionModel-batterySpecifications" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-electricvehicleoptions#sdk-for-ios-explore-s-7heresdk22ElectricVehicleOptionsV18ensureReachability36evMobilityServiceProviderPreferences25empiricalConsumptionModel08physicalmN021batterySpecificationsACSb_AA010EVMobilityijK0VAA09EmpiricalmN0VSgAA08PhysicalmN0VSgAA07BatteryQ0VSgtcfc" class="token"><code>init(ensureReachability:</code><wbr></wbr><code>evMobilityServiceProviderPreferences:</code><wbr></wbr><code>empiricalConsumptionModel:</code><wbr></wbr><code>physicalConsumptionModel:</code><wbr></wbr><code>batterySpecifications:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -275,9 +291,9 @@ These options define the parameters of the electric vehicle. **Note:** This is a
 
   - Parameters
 
-    - ensureReachability: Ensure that the vehicle does not run out of energy along the way. Requires valid `battery_specifications`. It also requires that <a href="sdk-for-ios-explore-structs-routeoptions#/s:7heresdk12RouteOptionsV16optimizationModeAA012OptimizationE0Ovp">`RouteOptions.optimizationMode`</a> = <a href="sdk-for-ios-explore-enums-optimizationmode#/s:7heresdk16OptimizationModeO7fastestyA2CmF">`OptimizationMode.fastest`</a>, <a href="sdk-for-ios-explore-structs-routeoptions#/s:7heresdk12RouteOptionsV25speedCapInMetersPerSecondSdSgvp">`RouteOptions.speedCapInMetersPerSecond`</a> is not set, and <a href="sdk-for-ios-explore-structs-avoidanceoptions">`AvoidanceOptions`</a> is empty. Otherwise, this object is considered invalid. Setting this flag enables calculation of a route optimized for electric vehicles. Charging stations may be added along the route to ensure that the vehicle does not run out of energy along the way. It is especially useful for longer routes, because after all, charging stations are much less common than petrol stations.
+    - ensureReachability: Ensure that the vehicle does not run out of energy along the way. Requires valid `battery_specifications`. It also requires that <a href="sdk-for-ios-explore-structs-routeoptions#sdk-for-ios-explore-s-7heresdk12RouteOptionsV16optimizationModeAA012OptimizationE0Ovp">`RouteOptions.optimizationMode`</a> = <a href="sdk-for-ios-explore-enums-optimizationmode#sdk-for-ios-explore-s-7heresdk16OptimizationModeO7fastestyA2CmF">`OptimizationMode.fastest`</a>, <a href="sdk-for-ios-explore-structs-routeoptions#sdk-for-ios-explore-s-7heresdk12RouteOptionsV25speedCapInMetersPerSecondSdSgvp">`RouteOptions.speedCapInMetersPerSecond`</a> is not set, and <a href="sdk-for-ios-explore-structs-avoidanceoptions">`AvoidanceOptions`</a> is empty. Otherwise, this object is considered invalid. Setting this flag enables calculation of a route optimized for electric vehicles. Charging stations may be added along the route to ensure that the vehicle does not run out of energy along the way. It is especially useful for longer routes, because after all, charging stations are much less common than petrol stations.
 
-    **Note** An <a href="sdk-for-ios-explore-enums-routingerror#/s:7heresdk12RoutingErrorO16invalidParameteryA2CmF">`RoutingError.invalidParameter`</a> is generated when this option is set to `true` in case `sdk.routing.RoutingEngine.import_route` is called. Defaults to `false`.
+    **Note** An <a href="sdk-for-ios-explore-enums-routingerror#sdk-for-ios-explore-s-7heresdk12RoutingErrorO16invalidParameteryA2CmF">`RoutingError.invalidParameter`</a> is generated when this option is set to `true` in case `sdk.routing.RoutingEngine.import_route` is called. Defaults to `false`.
 
     **Note** Not supported for offline routing.
 
@@ -299,12 +315,17 @@ These options define the parameters of the electric vehicle. **Note:** This is a
   Swift
 
   ``` highlight
-  public init ( ensureReachability : Bool = false , evMobilityServiceProviderPreferences : EVMobilityServiceProviderPreferences = EVMobilityServiceProviderPreferences (), empiricalConsumptionModel : EmpiricalConsumptionModel ? = nil , physicalConsumptionModel : PhysicalConsumptionModel ? = nil , batterySpecifications : BatterySpecifications ? = nil )
+  public init(ensureReachability: Bool = false, evMobilityServiceProviderPreferences: EVMobilityServiceProviderPreferences = EVMobilityServiceProviderPreferences(), empiricalConsumptionModel: EmpiricalConsumptionModel? = nil, physicalConsumptionModel: PhysicalConsumptionModel? = nil, batterySpecifications: BatterySpecifications? = nil)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-evmobilityserviceproviderpreferences">EVMobilityServiceProviderPreferences</a>
+  - <a href="sdk-for-ios-explore-structs-empiricalconsumptionmodel">EmpiricalConsumptionModel</a>
+  - <a href="sdk-for-ios-explore-structs-physicalconsumptionmodel">PhysicalConsumptionModel</a>
+  - <a href="sdk-for-ios-explore-structs-batteryspecifications">BatterySpecifications</a>
 
   </div>
 

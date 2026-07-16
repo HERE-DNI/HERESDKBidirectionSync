@@ -27,7 +27,7 @@ The options to specify a query by categories.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13CategoryQueryV10categoriesSayAA05PlaceB0CGvp"></span>` `<span id="//apple_ref/swift/Property/categories" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-categoryquery#/s:7heresdk13CategoryQueryV10categoriesSayAA05PlaceB0CGvp" class="token"><code>categories</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13CategoryQueryV10categoriesSayAA05PlaceB0CGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-categories" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-categoryquery#sdk-for-ios-explore-s-7heresdk13CategoryQueryV10categoriesSayAA05PlaceB0CGvp" class="token"><code>categories</code></a> 
 
   </div>
 
@@ -45,7 +45,7 @@ The options to specify a query by categories.
 
   <div class="abstract">
 
-  List of categories to be included. A place can be assigned multiple categories. If any of them is in `CategoryQuery.categories`, but none are in <a href="sdk-for-ios-explore-structs-categoryquery#/s:7heresdk13CategoryQueryV17excludeCategoriesSayAA05PlaceB0CGvp">`CategoryQuery.excludeCategories`</a>, that place will be included in the response.
+  List of categories to be included. A place can be assigned multiple categories. If any of them is in `CategoryQuery.categories`, but none are in <a href="sdk-for-ios-explore-structs-categoryquery#sdk-for-ios-explore-s-7heresdk13CategoryQueryV17excludeCategoriesSayAA05PlaceB0CGvp">`CategoryQuery.excludeCategories`</a>, that place will be included in the response.
 
   </div>
 
@@ -63,6 +63,10 @@ The options to specify a query by categories.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-placecategory">PlaceCategory</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ The options to specify a query by categories.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13CategoryQueryV17excludeCategoriesSayAA05PlaceB0CGvp"></span>` `<span id="//apple_ref/swift/Property/excludeCategories" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-categoryquery#/s:7heresdk13CategoryQueryV17excludeCategoriesSayAA05PlaceB0CGvp" class="token"><code>excludeCategories</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13CategoryQueryV17excludeCategoriesSayAA05PlaceB0CGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-excludeCategories" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-categoryquery#sdk-for-ios-explore-s-7heresdk13CategoryQueryV17excludeCategoriesSayAA05PlaceB0CGvp" class="token"><code>excludeCategories</code></a> 
 
   </div>
 
@@ -89,7 +93,7 @@ The options to specify a query by categories.
 
   <div class="abstract">
 
-  List of categories and subcategories to be excluded. A place can be assigned multiple categories. If any of them is in `CategoryQuery.excludeCategories`, that place will not be included in the response, regardless of whether any of its assigned categories have been included in <a href="sdk-for-ios-explore-structs-categoryquery#/s:7heresdk13CategoryQueryV10categoriesSayAA05PlaceB0CGvp">`CategoryQuery.categories`</a>. In short, an exclusion will always win over an inclusion. This is especially useful for excluding specific subcategories from the main category.
+  List of categories and subcategories to be excluded. A place can be assigned multiple categories. If any of them is in `CategoryQuery.excludeCategories`, that place will not be included in the response, regardless of whether any of its assigned categories have been included in <a href="sdk-for-ios-explore-structs-categoryquery#sdk-for-ios-explore-s-7heresdk13CategoryQueryV10categoriesSayAA05PlaceB0CGvp">`CategoryQuery.categories`</a>. In short, an exclusion will always win over an inclusion. This is especially useful for excluding specific subcategories from the main category.
 
   </div>
 
@@ -107,6 +111,10 @@ The options to specify a query by categories.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-placecategory">PlaceCategory</a>
+
   </div>
 
   </div>
@@ -115,7 +123,7 @@ The options to specify a query by categories.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13CategoryQueryV13includeChainsSayAA10PlaceChainVGvp"></span>` `<span id="//apple_ref/swift/Property/includeChains" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-categoryquery#/s:7heresdk13CategoryQueryV13includeChainsSayAA10PlaceChainVGvp" class="token"><code>includeChains</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13CategoryQueryV13includeChainsSayAA10PlaceChainVGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-includeChains" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-categoryquery#sdk-for-ios-explore-s-7heresdk13CategoryQueryV13includeChainsSayAA10PlaceChainVGvp" class="token"><code>includeChains</code></a> 
 
   </div>
 
@@ -133,7 +141,7 @@ The options to specify a query by categories.
 
   <div class="abstract">
 
-  List of chains to be included. A place can be assigned multiple chains. If any of them is in `CategoryQuery.includeChains`, but none are in <a href="sdk-for-ios-explore-structs-categoryquery#/s:7heresdk13CategoryQueryV13excludeChainsSayAA10PlaceChainVGvp">`CategoryQuery.excludeChains`</a>, that place will be included in the response.
+  List of chains to be included. A place can be assigned multiple chains. If any of them is in `CategoryQuery.includeChains`, but none are in <a href="sdk-for-ios-explore-structs-categoryquery#sdk-for-ios-explore-s-7heresdk13CategoryQueryV13excludeChainsSayAA10PlaceChainVGvp">`CategoryQuery.excludeChains`</a>, that place will be included in the response.
 
   </div>
 
@@ -151,6 +159,10 @@ The options to specify a query by categories.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-placechain">PlaceChain</a>
+
   </div>
 
   </div>
@@ -159,7 +171,7 @@ The options to specify a query by categories.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13CategoryQueryV13excludeChainsSayAA10PlaceChainVGvp"></span>` `<span id="//apple_ref/swift/Property/excludeChains" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-categoryquery#/s:7heresdk13CategoryQueryV13excludeChainsSayAA10PlaceChainVGvp" class="token"><code>excludeChains</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13CategoryQueryV13excludeChainsSayAA10PlaceChainVGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-excludeChains" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-categoryquery#sdk-for-ios-explore-s-7heresdk13CategoryQueryV13excludeChainsSayAA10PlaceChainVGvp" class="token"><code>excludeChains</code></a> 
 
   </div>
 
@@ -177,7 +189,7 @@ The options to specify a query by categories.
 
   <div class="abstract">
 
-  List of chains to be excluded. A place can be assigned multiple chains. If any of them is in `CategoryQuery.excludeChains`, that place will not be included in the response, regardless of whether any of its assigned chains have been included in <a href="sdk-for-ios-explore-structs-categoryquery#/s:7heresdk13CategoryQueryV13includeChainsSayAA10PlaceChainVGvp">`CategoryQuery.includeChains`</a>. In short, an exclusion will always win over an inclusion.
+  List of chains to be excluded. A place can be assigned multiple chains. If any of them is in `CategoryQuery.excludeChains`, that place will not be included in the response, regardless of whether any of its assigned chains have been included in <a href="sdk-for-ios-explore-structs-categoryquery#sdk-for-ios-explore-s-7heresdk13CategoryQueryV13includeChainsSayAA10PlaceChainVGvp">`CategoryQuery.includeChains`</a>. In short, an exclusion will always win over an inclusion.
 
   </div>
 
@@ -195,6 +207,10 @@ The options to specify a query by categories.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-placechain">PlaceChain</a>
+
   </div>
 
   </div>
@@ -203,7 +219,7 @@ The options to specify a query by categories.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13CategoryQueryV16includeFoodTypesSayAA05PlaceE4TypeVGvp"></span>` `<span id="//apple_ref/swift/Property/includeFoodTypes" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-categoryquery#/s:7heresdk13CategoryQueryV16includeFoodTypesSayAA05PlaceE4TypeVGvp" class="token"><code>includeFoodTypes</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13CategoryQueryV16includeFoodTypesSayAA05PlaceE4TypeVGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-includeFoodTypes" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-categoryquery#sdk-for-ios-explore-s-7heresdk13CategoryQueryV16includeFoodTypesSayAA05PlaceE4TypeVGvp" class="token"><code>includeFoodTypes</code></a> 
 
   </div>
 
@@ -221,7 +237,7 @@ The options to specify a query by categories.
 
   <div class="abstract">
 
-  List of food types to be included. A place can be assigned multiple food types. If any of them is in `CategoryQuery.includeFoodTypes`, but none are in <a href="sdk-for-ios-explore-structs-categoryquery#/s:7heresdk13CategoryQueryV16excludeFoodTypesSayAA05PlaceE4TypeVGvp">`CategoryQuery.excludeFoodTypes`</a>, that place will be included in the response.
+  List of food types to be included. A place can be assigned multiple food types. If any of them is in `CategoryQuery.includeFoodTypes`, but none are in <a href="sdk-for-ios-explore-structs-categoryquery#sdk-for-ios-explore-s-7heresdk13CategoryQueryV16excludeFoodTypesSayAA05PlaceE4TypeVGvp">`CategoryQuery.excludeFoodTypes`</a>, that place will be included in the response.
 
   </div>
 
@@ -239,6 +255,10 @@ The options to specify a query by categories.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-placefoodtype">PlaceFoodType</a>
+
   </div>
 
   </div>
@@ -247,7 +267,7 @@ The options to specify a query by categories.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13CategoryQueryV16excludeFoodTypesSayAA05PlaceE4TypeVGvp"></span>` `<span id="//apple_ref/swift/Property/excludeFoodTypes" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-categoryquery#/s:7heresdk13CategoryQueryV16excludeFoodTypesSayAA05PlaceE4TypeVGvp" class="token"><code>excludeFoodTypes</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13CategoryQueryV16excludeFoodTypesSayAA05PlaceE4TypeVGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-excludeFoodTypes" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-categoryquery#sdk-for-ios-explore-s-7heresdk13CategoryQueryV16excludeFoodTypesSayAA05PlaceE4TypeVGvp" class="token"><code>excludeFoodTypes</code></a> 
 
   </div>
 
@@ -265,7 +285,7 @@ The options to specify a query by categories.
 
   <div class="abstract">
 
-  List of food types to be excluded. A place can be assigned multiple food types. If any of them is in `CategoryQuery.excludeFoodTypes`, that place will not be included in the response, regardless of whether any of its assigned food types have been included in <a href="sdk-for-ios-explore-structs-categoryquery#/s:7heresdk13CategoryQueryV16includeFoodTypesSayAA05PlaceE4TypeVGvp">`CategoryQuery.includeFoodTypes`</a>. In short, an exclusion will always win over an inclusion.
+  List of food types to be excluded. A place can be assigned multiple food types. If any of them is in `CategoryQuery.excludeFoodTypes`, that place will not be included in the response, regardless of whether any of its assigned food types have been included in <a href="sdk-for-ios-explore-structs-categoryquery#sdk-for-ios-explore-s-7heresdk13CategoryQueryV16includeFoodTypesSayAA05PlaceE4TypeVGvp">`CategoryQuery.includeFoodTypes`</a>. In short, an exclusion will always win over an inclusion.
 
   </div>
 
@@ -283,6 +303,10 @@ The options to specify a query by categories.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-placefoodtype">PlaceFoodType</a>
+
   </div>
 
   </div>
@@ -291,7 +315,7 @@ The options to specify a query by categories.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13CategoryQueryV6filterSSSgvp"></span>` `<span id="//apple_ref/swift/Property/filter" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-categoryquery#/s:7heresdk13CategoryQueryV6filterSSSgvp" class="token"><code>filter</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13CategoryQueryV6filterSSSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-filter" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-categoryquery#sdk-for-ios-explore-s-7heresdk13CategoryQueryV6filterSSSgvp" class="token"><code>filter</code></a> 
 
   </div>
 
@@ -335,7 +359,7 @@ The options to specify a query by categories.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13CategoryQueryV11placeFilterAA05PlaceE0Vvp"></span>` `<span id="//apple_ref/swift/Property/placeFilter" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-categoryquery#/s:7heresdk13CategoryQueryV11placeFilterAA05PlaceE0Vvp" class="token"><code>placeFilter</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13CategoryQueryV11placeFilterAA05PlaceE0Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-placeFilter" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-categoryquery#sdk-for-ios-explore-s-7heresdk13CategoryQueryV11placeFilterAA05PlaceE0Vvp" class="token"><code>placeFilter</code></a> 
 
   </div>
 
@@ -371,6 +395,10 @@ The options to specify a query by categories.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-placefilter">PlaceFilter</a>
+
   </div>
 
   </div>
@@ -379,7 +407,7 @@ The options to specify a query by categories.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13CategoryQueryV4areaAC4AreaVvp"></span>` `<span id="//apple_ref/swift/Property/area" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-categoryquery#/s:7heresdk13CategoryQueryV4areaAC4AreaVvp" class="token"><code>area</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13CategoryQueryV4areaAC4AreaVvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-area" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-categoryquery#sdk-for-ios-explore-s-7heresdk13CategoryQueryV4areaAC4AreaVvp" class="token"><code>area</code></a> 
 
   </div>
 
@@ -415,6 +443,10 @@ The options to specify a query by categories.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-categoryquery-area">Area</a>
+
   </div>
 
   </div>
@@ -423,7 +455,7 @@ The options to specify a query by categories.
 
 - <div>
 
-      init(_: area: )
+   <span id="sdk-for-ios-explore-s-7heresdk13CategoryQueryV_4areaAcA05PlaceB0C_AC4AreaVtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-_-area" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-categoryquery#sdk-for-ios-explore-s-7heresdk13CategoryQueryV_4areaAcA05PlaceB0C_AC4AreaVtcfc" class="token"><code>init(_:</code><wbr></wbr><code>area:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -454,12 +486,15 @@ The options to specify a query by categories.
   Swift
 
   ``` highlight
-  public init ( _ category : PlaceCategory , area : CategoryQuery . Area )
+  public init(_ category: PlaceCategory, area: CategoryQuery.Area)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-placecategory">PlaceCategory</a>
+  - <a href="sdk-for-ios-explore-structs-categoryquery-area">Area</a>
 
   </div>
 
@@ -496,7 +531,7 @@ The options to specify a query by categories.
 
 - <div>
 
-      init(_: area: )
+   <span id="sdk-for-ios-explore-s-7heresdk13CategoryQueryV_4areaACSayAA05PlaceB0CG_AC4AreaVtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-_-area" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-categoryquery#sdk-for-ios-explore-s-7heresdk13CategoryQueryV_4areaACSayAA05PlaceB0CG_AC4AreaVtcfc" class="token"><code>init(_:</code><wbr></wbr><code>area:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -527,12 +562,15 @@ The options to specify a query by categories.
   Swift
 
   ``` highlight
-  public init ( _ categories : [ PlaceCategory ], area : CategoryQuery . Area )
+  public init(_ categories: [PlaceCategory], area: CategoryQuery.Area)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-placecategory">PlaceCategory</a>
+  - <a href="sdk-for-ios-explore-structs-categoryquery-area">Area</a>
 
   </div>
 
@@ -569,7 +607,7 @@ The options to specify a query by categories.
 
 - <div>
 
-      init(_: filter: area: )
+   <span id="sdk-for-ios-explore-s-7heresdk13CategoryQueryV_6filter4areaAcA05PlaceB0C_SSAC4AreaVtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-_-filter-area" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-categoryquery#sdk-for-ios-explore-s-7heresdk13CategoryQueryV_6filter4areaAcA05PlaceB0C_SSAC4AreaVtcfc" class="token"><code>init(_:</code><wbr></wbr><code>filter:</code><wbr></wbr><code>area:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -600,12 +638,15 @@ The options to specify a query by categories.
   Swift
 
   ``` highlight
-  public init ( _ category : PlaceCategory , filter : String , area : CategoryQuery . Area )
+  public init(_ category: PlaceCategory, filter: String, area: CategoryQuery.Area)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-placecategory">PlaceCategory</a>
+  - <a href="sdk-for-ios-explore-structs-categoryquery-area">Area</a>
 
   </div>
 
@@ -648,7 +689,7 @@ The options to specify a query by categories.
 
 - <div>
 
-      init(_: filter: area: )
+   <span id="sdk-for-ios-explore-s-7heresdk13CategoryQueryV_6filter4areaACSayAA05PlaceB0CG_SSAC4AreaVtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-_-filter-area" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-categoryquery#sdk-for-ios-explore-s-7heresdk13CategoryQueryV_6filter4areaACSayAA05PlaceB0CG_SSAC4AreaVtcfc" class="token"><code>init(_:</code><wbr></wbr><code>filter:</code><wbr></wbr><code>area:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -679,12 +720,15 @@ The options to specify a query by categories.
   Swift
 
   ``` highlight
-  public init ( _ categories : [ PlaceCategory ], filter : String , area : CategoryQuery . Area )
+  public init(_ categories: [PlaceCategory], filter: String, area: CategoryQuery.Area)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-placecategory">PlaceCategory</a>
+  - <a href="sdk-for-ios-explore-structs-categoryquery-area">Area</a>
 
   </div>
 
@@ -727,7 +771,7 @@ The options to specify a query by categories.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13CategoryQueryV4AreaV"></span>` `<span id="//apple_ref/swift/Struct/Area" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-categoryquery#/s:7heresdk13CategoryQueryV4AreaV" class="token"><code>Area</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13CategoryQueryV4AreaV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-Area" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-categoryquery#sdk-for-ios-explore-s-7heresdk13CategoryQueryV4AreaV" class="token"><code>Area</code></a> 
 
   </div>
 

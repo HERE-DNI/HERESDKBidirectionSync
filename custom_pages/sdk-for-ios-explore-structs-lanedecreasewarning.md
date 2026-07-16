@@ -31,7 +31,7 @@ Lane decrease warnings are generated when the road ahead has fewer lanes than th
 
 - <div>
 
-  ` `<span id="/s:7heresdk19LaneDecreaseWarningV2ids5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/id" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-lanedecreasewarning#/s:7heresdk19LaneDecreaseWarningV2ids5Int32Vvp" class="token"><code>id</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19LaneDecreaseWarningV2ids5Int32Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-id" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-lanedecreasewarning#sdk-for-ios-explore-s-7heresdk19LaneDecreaseWarningV2ids5Int32Vvp" class="token"><code>id</code></a> 
 
   </div>
 
@@ -75,7 +75,7 @@ Lane decrease warnings are generated when the road ahead has fewer lanes than th
 
 - <div>
 
-  ` `<span id="/s:7heresdk19LaneDecreaseWarningV08previousB6Numbers5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/previousLaneNumber" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-lanedecreasewarning#/s:7heresdk19LaneDecreaseWarningV08previousB6Numbers5Int32Vvp" class="token"><code>previousLaneNumber</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19LaneDecreaseWarningV08previousB6Numbers5Int32Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-previousLaneNumber" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-lanedecreasewarning#sdk-for-ios-explore-s-7heresdk19LaneDecreaseWarningV08previousB6Numbers5Int32Vvp" class="token"><code>previousLaneNumber</code></a> 
 
   </div>
 
@@ -119,7 +119,7 @@ Lane decrease warnings are generated when the road ahead has fewer lanes than th
 
 - <div>
 
-  ` `<span id="/s:7heresdk19LaneDecreaseWarningV03newB6Numbers5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/newLaneNumber" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-lanedecreasewarning#/s:7heresdk19LaneDecreaseWarningV03newB6Numbers5Int32Vvp" class="token"><code>newLaneNumber</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19LaneDecreaseWarningV03newB6Numbers5Int32Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-newLaneNumber" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-lanedecreasewarning#sdk-for-ios-explore-s-7heresdk19LaneDecreaseWarningV03newB6Numbers5Int32Vvp" class="token"><code>newLaneNumber</code></a> 
 
   </div>
 
@@ -163,7 +163,7 @@ Lane decrease warnings are generated when the road ahead has fewer lanes than th
 
 - <div>
 
-  ` `<span id="/s:7heresdk19LaneDecreaseWarningV22lanesDecreasedFromLefts5Int32VSgvp"></span>` `<span id="//apple_ref/swift/Property/lanesDecreasedFromLeft" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-lanedecreasewarning#/s:7heresdk19LaneDecreaseWarningV22lanesDecreasedFromLefts5Int32VSgvp" class="token"><code>lanesDecreasedFromLeft</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19LaneDecreaseWarningV22lanesDecreasedFromLefts5Int32VSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-lanesDecreasedFromLeft" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-lanedecreasewarning#sdk-for-ios-explore-s-7heresdk19LaneDecreaseWarningV22lanesDecreasedFromLefts5Int32VSgvp" class="token"><code>lanesDecreasedFromLeft</code></a> 
 
   </div>
 
@@ -207,7 +207,7 @@ Lane decrease warnings are generated when the road ahead has fewer lanes than th
 
 - <div>
 
-  ` `<span id="/s:7heresdk19LaneDecreaseWarningV23lanesDecreasedFromRights5Int32VSgvp"></span>` `<span id="//apple_ref/swift/Property/lanesDecreasedFromRight" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-lanedecreasewarning#/s:7heresdk19LaneDecreaseWarningV23lanesDecreasedFromRights5Int32VSgvp" class="token"><code>lanesDecreasedFromRight</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19LaneDecreaseWarningV23lanesDecreasedFromRights5Int32VSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-lanesDecreasedFromRight" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-lanedecreasewarning#sdk-for-ios-explore-s-7heresdk19LaneDecreaseWarningV23lanesDecreasedFromRights5Int32VSgvp" class="token"><code>lanesDecreasedFromRight</code></a> 
 
   </div>
 
@@ -251,7 +251,7 @@ Lane decrease warnings are generated when the road ahead has fewer lanes than th
 
 - <div>
 
-  ` `<span id="/s:7heresdk19LaneDecreaseWarningV16distanceInMetersSdvp"></span>` `<span id="//apple_ref/swift/Property/distanceInMeters" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-lanedecreasewarning#/s:7heresdk19LaneDecreaseWarningV16distanceInMetersSdvp" class="token"><code>distanceInMeters</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19LaneDecreaseWarningV16distanceInMetersSdvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-distanceInMeters" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-lanedecreasewarning#sdk-for-ios-explore-s-7heresdk19LaneDecreaseWarningV16distanceInMetersSdvp" class="token"><code>distanceInMeters</code></a> 
 
   </div>
 
@@ -295,7 +295,7 @@ Lane decrease warnings are generated when the road ahead has fewer lanes than th
 
 - <div>
 
-  ` `<span id="/s:7heresdk19LaneDecreaseWarningV12distanceTypeAA08DistanceF0Ovp"></span>` `<span id="//apple_ref/swift/Property/distanceType" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-lanedecreasewarning#/s:7heresdk19LaneDecreaseWarningV12distanceTypeAA08DistanceF0Ovp" class="token"><code>distanceType</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19LaneDecreaseWarningV12distanceTypeAA08DistanceF0Ovp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-distanceType" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-lanedecreasewarning#sdk-for-ios-explore-s-7heresdk19LaneDecreaseWarningV12distanceTypeAA08DistanceF0Ovp" class="token"><code>distanceType</code></a> 
 
   </div>
 
@@ -313,7 +313,7 @@ Lane decrease warnings are generated when the road ahead has fewer lanes than th
 
   <div class="abstract">
 
-  Indicates if the specified event is ahead of the vehicle or has just passed by. If it is ahead, then <a href="sdk-for-ios-explore-structs-lanedecreasewarning#/s:7heresdk19LaneDecreaseWarningV16distanceInMetersSdvp">`LaneDecreaseWarning.distanceInMeters`</a> is greater than 0.
+  Indicates if the specified event is ahead of the vehicle or has just passed by. If it is ahead, then <a href="sdk-for-ios-explore-structs-lanedecreasewarning#sdk-for-ios-explore-s-7heresdk19LaneDecreaseWarningV16distanceInMetersSdvp">`LaneDecreaseWarning.distanceInMeters`</a> is greater than 0.
 
   </div>
 
@@ -331,6 +331,10 @@ Lane decrease warnings are generated when the road ahead has fewer lanes than th
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-distancetype">DistanceType</a>
+
   </div>
 
   </div>
@@ -339,7 +343,7 @@ Lane decrease warnings are generated when the road ahead has fewer lanes than th
 
 - <div>
 
-      init(id: previousLaneNumber: newLaneNumber: lanesDecreasedFromLeft: lanesDecreasedFromRight: distanceInMeters: distanceType: )
+   <span id="sdk-for-ios-explore-s-7heresdk19LaneDecreaseWarningV2id08previousB6Number03newbG022lanesDecreasedFromLeft0ijK5Right16distanceInMeters0N4TypeACs5Int32V_A3LSgAMSdAA08DistanceQ0Otcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-id-previousLaneNumber-newLaneNumber-lanesDecreasedFromLeft-lanesDecreasedFromRight-distanceInMeters-distanceType" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-lanedecreasewarning#sdk-for-ios-explore-s-7heresdk19LaneDecreaseWarningV2id08previousB6Number03newbG022lanesDecreasedFromLeft0ijK5Right16distanceInMeters0N4TypeACs5Int32V_A3LSgAMSdAA08DistanceQ0Otcfc" class="token"><code>init(id:</code><wbr></wbr><code>previousLaneNumber:</code><wbr></wbr><code>newLaneNumber:</code><wbr></wbr><code>lanesDecreasedFromLeft:</code><wbr></wbr><code>lanesDecreasedFromRight:</code><wbr></wbr><code>distanceInMeters:</code><wbr></wbr><code>distanceType:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -370,12 +374,14 @@ Lane decrease warnings are generated when the road ahead has fewer lanes than th
   Swift
 
   ``` highlight
-  public init ( id : Int32 = 0 , previousLaneNumber : Int32 = 0 , newLaneNumber : Int32 = 0 , lanesDecreasedFromLeft : Int32 ? = nil , lanesDecreasedFromRight : Int32 ? = nil , distanceInMeters : Double , distanceType : DistanceType )
+  public init(id: Int32 = 0, previousLaneNumber: Int32 = 0, newLaneNumber: Int32 = 0, lanesDecreasedFromLeft: Int32? = nil, lanesDecreasedFromRight: Int32? = nil, distanceInMeters: Double, distanceType: DistanceType)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-distancetype">DistanceType</a>
 
   </div>
 

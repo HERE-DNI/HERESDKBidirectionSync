@@ -23,11 +23,15 @@ extension OfflineRoutingEngine: Hashable
 
 </div>
 
+Related types:
+
+- <a href="sdk-for-ios-explore-protocols-routingprotocol">RoutingProtocol</a>
+
 </div>
 
 Use this class to calculate a route offline from A to B with a number of waypoints in between.
 
-Route calculation is done asynchronously, and requires map data that is available offline. This can be temporarily cached map data or downloaded offline map data stored in the persisted storage via <a href="sdk-for-ios-explore-classes-mapdownloader">`MapDownloader`</a>. Note that when using the cache there is a risk of missing data and this may reduce the overall quality of the route or can result in a <a href="sdk-for-ios-explore-enums-routingerror#/s:7heresdk12RoutingErrorO12noRouteFoundyA2CmF">`RoutingError.noRouteFound`</a> error.
+Route calculation is done asynchronously, and requires map data that is available offline. This can be temporarily cached map data or downloaded offline map data stored in the persisted storage via <a href="sdk-for-ios-explore-classes-mapdownloader">`MapDownloader`</a>. Note that when using the cache there is a risk of missing data and this may reduce the overall quality of the route or can result in a <a href="sdk-for-ios-explore-enums-routingerror#sdk-for-ios-explore-s-7heresdk12RoutingErrorO12noRouteFoundyA2CmF">`RoutingError.noRouteFound`</a> error.
 
 The resulting route contains various information such as the polyline, route length in meters, estimated time to traverse along the route and maneuver data, but it does not contain traffic information.
 
@@ -37,7 +41,7 @@ As an alternative to this engine, consider to use the <a href="sdk-for-ios-explo
 
 For offline bus routing, enable “OFFLINE_BUS_ROUTING” as feature configuration. For more details, please look at <a href="sdk-for-ios-explore-structs-sdkoptions">`SDKOptions`</a>. If this feature is not enabled, the engine may not be able to find bus routes.
 
-**Note:** EV routing is available when calculating a route using the <a href="sdk-for-ios-explore-structs-routingoptions">`RoutingOptions`</a>, by setting the <a href="sdk-for-ios-explore-structs-routingoptions#/s:7heresdk14RoutingOptionsV02evC0AA015ElectricVehicleC0VSgvp">`RoutingOptions.evOptions`</a>.
+**Note:** EV routing is available when calculating a route using the <a href="sdk-for-ios-explore-structs-routingoptions">`RoutingOptions`</a>, by setting the <a href="sdk-for-ios-explore-structs-routingoptions#sdk-for-ios-explore-s-7heresdk14RoutingOptionsV02evC0AA015ElectricVehicleC0VSgvp">`RoutingOptions.evOptions`</a>.
 
 **Note:** Traffic related information is completely excluded. No historic traffic patterns are taking into consideration for the ETA. Currently blocked or closed roads or roads with traffic incident are not considered offline, i.e. the road may pass through such road. Only seasonal road closures are considered based on the departure time, if given. Traffic information is only considered for online route calculation with the <a href="sdk-for-ios-explore-classes-routingengine">`RoutingEngine`</a>.
 
@@ -51,7 +55,7 @@ For offline bus routing, enable “OFFLINE_BUS_ROUTING” as feature configurati
 
 - <div>
 
-      init()
+   <span id="sdk-for-ios-explore-s-7heresdk20OfflineRoutingEngineCACyKcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-offlineroutingengine#sdk-for-ios-explore-s-7heresdk20OfflineRoutingEngineCACyKcfc" class="token"><code>init()</code></a> 
 
   </div>
 
@@ -75,7 +79,7 @@ For offline bus routing, enable “OFFLINE_BUS_ROUTING” as feature configurati
 
   Throws
 
-  <a href="sdk-for-ios-explore-core#/s:7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
+  <a href="sdk-for-ios-explore-core#sdk-for-ios-explore-s-7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
 
   </div>
 
@@ -90,10 +94,8 @@ For offline bus routing, enable “OFFLINE_BUS_ROUTING” as feature configurati
   Swift
 
   ``` highlight
-  public init () throws
+  public init() throws
   ```
-
-  </pre>
 
   </div>
 
@@ -105,7 +107,7 @@ For offline bus routing, enable “OFFLINE_BUS_ROUTING” as feature configurati
 
 - <div>
 
-      init(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk20OfflineRoutingEngineCyAcA09SDKNativeD0CKcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-offlineroutingengine#sdk-for-ios-explore-s-7heresdk20OfflineRoutingEngineCyAcA09SDKNativeD0CKcfc" class="token"><code>init(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -129,7 +131,7 @@ For offline bus routing, enable “OFFLINE_BUS_ROUTING” as feature configurati
 
   Throws
 
-  <a href="sdk-for-ios-explore-core#/s:7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
+  <a href="sdk-for-ios-explore-core#sdk-for-ios-explore-s-7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
 
   </div>
 
@@ -144,12 +146,14 @@ For offline bus routing, enable “OFFLINE_BUS_ROUTING” as feature configurati
   Swift
 
   ``` highlight
-  public init ( _ sdkEngine : SDKNativeEngine ) throws
+  public init(_ sdkEngine: SDKNativeEngine) throws
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-sdknativeengine">SDKNativeEngine</a>
 
   </div>
 
@@ -180,7 +184,7 @@ For offline bus routing, enable “OFFLINE_BUS_ROUTING” as feature configurati
 
 - <div>
 
-      init(_: options: )
+   <span id="sdk-for-ios-explore-s-7heresdk20OfflineRoutingEngineC_7optionsAcA09SDKNativeD0C_AA0bcD7OptionsVtKcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-_-options" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-offlineroutingengine#sdk-for-ios-explore-s-7heresdk20OfflineRoutingEngineC_7optionsAcA09SDKNativeD0C_AA0bcD7OptionsVtKcfc" class="token"><code>init(_:</code><wbr></wbr><code>options:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -204,7 +208,7 @@ For offline bus routing, enable “OFFLINE_BUS_ROUTING” as feature configurati
 
   Throws
 
-  <a href="sdk-for-ios-explore-core#/s:7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
+  <a href="sdk-for-ios-explore-core#sdk-for-ios-explore-s-7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
 
   </div>
 
@@ -219,12 +223,15 @@ For offline bus routing, enable “OFFLINE_BUS_ROUTING” as feature configurati
   Swift
 
   ``` highlight
-  public init ( _ sdkEngine : SDKNativeEngine , options : OfflineRoutingEngineOptions ) throws
+  public init(_ sdkEngine: SDKNativeEngine, options: OfflineRoutingEngineOptions) throws
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-sdknativeengine">SDKNativeEngine</a>
+  - <a href="sdk-for-ios-explore-structs-offlineroutingengineoptions">OfflineRoutingEngineOptions</a>
 
   </div>
 
@@ -261,7 +268,7 @@ For offline bus routing, enable “OFFLINE_BUS_ROUTING” as feature configurati
 
 - <div>
 
-  ` `<span id="/s:7heresdk20OfflineRoutingEngineC19trafficDataProviderAA07TrafficfG0CSgvp"></span>` `<span id="//apple_ref/swift/Property/trafficDataProvider" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-offlineroutingengine#/s:7heresdk20OfflineRoutingEngineC19trafficDataProviderAA07TrafficfG0CSgvp" class="token"><code>trafficDataProvider</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk20OfflineRoutingEngineC19trafficDataProviderAA07TrafficfG0CSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-trafficDataProvider" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-offlineroutingengine#sdk-for-ios-explore-s-7heresdk20OfflineRoutingEngineC19trafficDataProviderAA07TrafficfG0CSgvp" class="token"><code>trafficDataProvider</code></a> 
 
   </div>
 
@@ -297,6 +304,10 @@ For offline bus routing, enable “OFFLINE_BUS_ROUTING” as feature configurati
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-traffic#sdk-for-ios-explore-s-7heresdk19TrafficDataProviderC">TrafficDataProvider</a>
+
   </div>
 
   </div>
@@ -305,7 +316,7 @@ For offline bus routing, enable “OFFLINE_BUS_ROUTING” as feature configurati
 
 - <div>
 
-      calculateRoute(with: options: completion: )
+   <span id="sdk-for-ios-explore-s-7heresdk20OfflineRoutingEngineC14calculateRoute4with7options10completionAA10TaskHandle_pSayAA8WaypointVG_AA0C7OptionsVyAA0C5ErrorOSg_SayAA0F0CGSgtctF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-calculateRoute-with-options-completion" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-offlineroutingengine#sdk-for-ios-explore-s-7heresdk20OfflineRoutingEngineC14calculateRoute4with7options10completionAA10TaskHandle_pSayAA8WaypointVG_AA0C7OptionsVyAA0C5ErrorOSg_SayAA0F0CGSgtctF" class="token"><code>calculateRoute(with:</code><wbr></wbr><code>options:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -336,12 +347,18 @@ For offline bus routing, enable “OFFLINE_BUS_ROUTING” as feature configurati
   Swift
 
   ``` highlight
-  @discardableResult public func calculateRoute ( with waypoints : [ Waypoint ], options : RoutingOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  @discardableResult
+  public func calculateRoute(with waypoints: [Waypoint], options: RoutingOptions, completion: @escaping CalculateRouteCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-waypoint">Waypoint</a>
+  - <a href="sdk-for-ios-explore-structs-routingoptions">RoutingOptions</a>
+  - <a href="sdk-for-ios-explore-routing#sdk-for-ios-explore-s-7heresdk31CalculateRouteCompletionHandlera">CalculateRouteCompletionHandler</a>
+  - <a href="sdk-for-ios-explore-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -392,7 +409,7 @@ For offline bus routing, enable “OFFLINE_BUS_ROUTING” as feature configurati
 
 - <div>
 
-      calculateRoute(with: carOptions: completion: )
+   <span id="sdk-for-ios-explore-s-7heresdk20OfflineRoutingEngineC14calculateRoute4with10carOptions10completionAA10TaskHandle_pSayAA8WaypointVG_AA03CarI0VyAA0C5ErrorOSg_SayAA0F0CGSgtctF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-calculateRoute-with-carOptions-completion" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-offlineroutingengine#sdk-for-ios-explore-s-7heresdk20OfflineRoutingEngineC14calculateRoute4with10carOptions10completionAA10TaskHandle_pSayAA8WaypointVG_AA03CarI0VyAA0C5ErrorOSg_SayAA0F0CGSgtctF" class="token"><code>calculateRoute(with:</code><wbr></wbr><code>carOptions:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -423,12 +440,19 @@ For offline bus routing, enable “OFFLINE_BUS_ROUTING” as feature configurati
   Swift
 
   ``` highlight
-  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `calculate_route(﹚` methods with RoutingOptions parameter instead.") @discardableResult public func calculateRoute ( with waypoints : [ Waypoint ], carOptions : CarOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `calculate_route(﹚` methods with RoutingOptions parameter instead.")
+  @discardableResult
+  public func calculateRoute(with waypoints: [Waypoint], carOptions: CarOptions, completion: @escaping CalculateRouteCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-waypoint">Waypoint</a>
+  - <a href="sdk-for-ios-explore-structs-caroptions">CarOptions</a>
+  - <a href="sdk-for-ios-explore-routing#sdk-for-ios-explore-s-7heresdk31CalculateRouteCompletionHandlera">CalculateRouteCompletionHandler</a>
+  - <a href="sdk-for-ios-explore-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -479,7 +503,7 @@ For offline bus routing, enable “OFFLINE_BUS_ROUTING” as feature configurati
 
 - <div>
 
-      calculateRoute(with: pedestrianOptions: completion: )
+   <span id="sdk-for-ios-explore-s-7heresdk20OfflineRoutingEngineC14calculateRoute4with17pedestrianOptions10completionAA10TaskHandle_pSayAA8WaypointVG_AA010PedestrianI0VyAA0C5ErrorOSg_SayAA0F0CGSgtctF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-calculateRoute-with-pedestrianOptions-completion" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-offlineroutingengine#sdk-for-ios-explore-s-7heresdk20OfflineRoutingEngineC14calculateRoute4with17pedestrianOptions10completionAA10TaskHandle_pSayAA8WaypointVG_AA010PedestrianI0VyAA0C5ErrorOSg_SayAA0F0CGSgtctF" class="token"><code>calculateRoute(with:</code><wbr></wbr><code>pedestrianOptions:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -510,12 +534,19 @@ For offline bus routing, enable “OFFLINE_BUS_ROUTING” as feature configurati
   Swift
 
   ``` highlight
-  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `calculate_route(﹚` methods with RoutingOptions parameter instead.") @discardableResult public func calculateRoute ( with waypoints : [ Waypoint ], pedestrianOptions : PedestrianOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `calculate_route(﹚` methods with RoutingOptions parameter instead.")
+  @discardableResult
+  public func calculateRoute(with waypoints: [Waypoint], pedestrianOptions: PedestrianOptions, completion: @escaping CalculateRouteCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-waypoint">Waypoint</a>
+  - <a href="sdk-for-ios-explore-structs-pedestrianoptions">PedestrianOptions</a>
+  - <a href="sdk-for-ios-explore-routing#sdk-for-ios-explore-s-7heresdk31CalculateRouteCompletionHandlera">CalculateRouteCompletionHandler</a>
+  - <a href="sdk-for-ios-explore-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -538,7 +569,7 @@ For offline bus routing, enable “OFFLINE_BUS_ROUTING” as feature configurati
   <tr>
   <td><code> </code><em><code>pedestrianOptions</code></em><code> </code></td>
   <td><div>
-  <p>Options specific for pedestrian route calculation, along with common route options. Note that <a href="sdk-for-ios-explore-enums-optimizationmode#/s:7heresdk16OptimizationModeO8shortestyA2CmF"><code>OptimizationMode.shortest</code></a> is is not supported for pedestrians and converted to <a href="sdk-for-ios-explore-enums-optimizationmode#/s:7heresdk16OptimizationModeO7fastestyA2CmF"><code>OptimizationMode.fastest</code></a> automatically.</p>
+  <p>Options specific for pedestrian route calculation, along with common route options. Note that <a href="sdk-for-ios-explore-enums-optimizationmode#sdk-for-ios-explore-s-7heresdk16OptimizationModeO8shortestyA2CmF"><code>OptimizationMode.shortest</code></a> is is not supported for pedestrians and converted to <a href="sdk-for-ios-explore-enums-optimizationmode#sdk-for-ios-explore-s-7heresdk16OptimizationModeO7fastestyA2CmF"><code>OptimizationMode.fastest</code></a> automatically.</p>
   </div></td>
   </tr>
   <tr>
@@ -566,7 +597,7 @@ For offline bus routing, enable “OFFLINE_BUS_ROUTING” as feature configurati
 
 - <div>
 
-      calculateRoute(with: truckOptions: completion: )
+   <span id="sdk-for-ios-explore-s-7heresdk20OfflineRoutingEngineC14calculateRoute4with12truckOptions10completionAA10TaskHandle_pSayAA8WaypointVG_AA05TruckI0VyAA0C5ErrorOSg_SayAA0F0CGSgtctF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-calculateRoute-with-truckOptions-completion" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-offlineroutingengine#sdk-for-ios-explore-s-7heresdk20OfflineRoutingEngineC14calculateRoute4with12truckOptions10completionAA10TaskHandle_pSayAA8WaypointVG_AA05TruckI0VyAA0C5ErrorOSg_SayAA0F0CGSgtctF" class="token"><code>calculateRoute(with:</code><wbr></wbr><code>truckOptions:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -597,12 +628,19 @@ For offline bus routing, enable “OFFLINE_BUS_ROUTING” as feature configurati
   Swift
 
   ``` highlight
-  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `calculate_route(﹚` methods with RoutingOptions parameter instead.") @discardableResult public func calculateRoute ( with waypoints : [ Waypoint ], truckOptions : TruckOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `calculate_route(﹚` methods with RoutingOptions parameter instead.")
+  @discardableResult
+  public func calculateRoute(with waypoints: [Waypoint], truckOptions: TruckOptions, completion: @escaping CalculateRouteCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-waypoint">Waypoint</a>
+  - <a href="sdk-for-ios-explore-structs-truckoptions">TruckOptions</a>
+  - <a href="sdk-for-ios-explore-routing#sdk-for-ios-explore-s-7heresdk31CalculateRouteCompletionHandlera">CalculateRouteCompletionHandler</a>
+  - <a href="sdk-for-ios-explore-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -653,7 +691,7 @@ For offline bus routing, enable “OFFLINE_BUS_ROUTING” as feature configurati
 
 - <div>
 
-      calculateRoute(with: scooterOptions: completion: )
+   <span id="sdk-for-ios-explore-s-7heresdk20OfflineRoutingEngineC14calculateRoute4with14scooterOptions10completionAA10TaskHandle_pSayAA8WaypointVG_AA07ScooterI0VyAA0C5ErrorOSg_SayAA0F0CGSgtctF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-calculateRoute-with-scooterOptions-completion" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-offlineroutingengine#sdk-for-ios-explore-s-7heresdk20OfflineRoutingEngineC14calculateRoute4with14scooterOptions10completionAA10TaskHandle_pSayAA8WaypointVG_AA07ScooterI0VyAA0C5ErrorOSg_SayAA0F0CGSgtctF" class="token"><code>calculateRoute(with:</code><wbr></wbr><code>scooterOptions:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -684,12 +722,19 @@ For offline bus routing, enable “OFFLINE_BUS_ROUTING” as feature configurati
   Swift
 
   ``` highlight
-  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `calculate_route(﹚` methods with RoutingOptions parameter instead.") @discardableResult public func calculateRoute ( with waypoints : [ Waypoint ], scooterOptions : ScooterOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `calculate_route(﹚` methods with RoutingOptions parameter instead.")
+  @discardableResult
+  public func calculateRoute(with waypoints: [Waypoint], scooterOptions: ScooterOptions, completion: @escaping CalculateRouteCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-waypoint">Waypoint</a>
+  - <a href="sdk-for-ios-explore-structs-scooteroptions">ScooterOptions</a>
+  - <a href="sdk-for-ios-explore-routing#sdk-for-ios-explore-s-7heresdk31CalculateRouteCompletionHandlera">CalculateRouteCompletionHandler</a>
+  - <a href="sdk-for-ios-explore-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -712,7 +757,7 @@ For offline bus routing, enable “OFFLINE_BUS_ROUTING” as feature configurati
   <tr>
   <td><code> </code><em><code>scooterOptions</code></em><code> </code></td>
   <td><div>
-  <p>Options specific for scooter route calculation, along with common route options. Note that <a href="sdk-for-ios-explore-enums-optimizationmode#/s:7heresdk16OptimizationModeO8shortestyA2CmF"><code>OptimizationMode.shortest</code></a> is is not supported for scooters and converted to <a href="sdk-for-ios-explore-enums-optimizationmode#/s:7heresdk16OptimizationModeO7fastestyA2CmF"><code>OptimizationMode.fastest</code></a> automatically.</p>
+  <p>Options specific for scooter route calculation, along with common route options. Note that <a href="sdk-for-ios-explore-enums-optimizationmode#sdk-for-ios-explore-s-7heresdk16OptimizationModeO8shortestyA2CmF"><code>OptimizationMode.shortest</code></a> is is not supported for scooters and converted to <a href="sdk-for-ios-explore-enums-optimizationmode#sdk-for-ios-explore-s-7heresdk16OptimizationModeO7fastestyA2CmF"><code>OptimizationMode.fastest</code></a> automatically.</p>
   </div></td>
   </tr>
   <tr>
@@ -740,7 +785,7 @@ For offline bus routing, enable “OFFLINE_BUS_ROUTING” as feature configurati
 
 - <div>
 
-      calculateRoute(with: bicycleOptions: completion: )
+   <span id="sdk-for-ios-explore-s-7heresdk20OfflineRoutingEngineC14calculateRoute4with14bicycleOptions10completionAA10TaskHandle_pSayAA8WaypointVG_AA07BicycleI0VyAA0C5ErrorOSg_SayAA0F0CGSgtctF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-calculateRoute-with-bicycleOptions-completion" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-offlineroutingengine#sdk-for-ios-explore-s-7heresdk20OfflineRoutingEngineC14calculateRoute4with14bicycleOptions10completionAA10TaskHandle_pSayAA8WaypointVG_AA07BicycleI0VyAA0C5ErrorOSg_SayAA0F0CGSgtctF" class="token"><code>calculateRoute(with:</code><wbr></wbr><code>bicycleOptions:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -771,12 +816,19 @@ For offline bus routing, enable “OFFLINE_BUS_ROUTING” as feature configurati
   Swift
 
   ``` highlight
-  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `calculate_route(﹚` methods with RoutingOptions parameter instead.") @discardableResult public func calculateRoute ( with waypoints : [ Waypoint ], bicycleOptions : BicycleOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `calculate_route(﹚` methods with RoutingOptions parameter instead.")
+  @discardableResult
+  public func calculateRoute(with waypoints: [Waypoint], bicycleOptions: BicycleOptions, completion: @escaping CalculateRouteCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-waypoint">Waypoint</a>
+  - <a href="sdk-for-ios-explore-structs-bicycleoptions">BicycleOptions</a>
+  - <a href="sdk-for-ios-explore-routing#sdk-for-ios-explore-s-7heresdk31CalculateRouteCompletionHandlera">CalculateRouteCompletionHandler</a>
+  - <a href="sdk-for-ios-explore-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -799,7 +851,7 @@ For offline bus routing, enable “OFFLINE_BUS_ROUTING” as feature configurati
   <tr>
   <td><code> </code><em><code>bicycleOptions</code></em><code> </code></td>
   <td><div>
-  <p>Options specific for bicycle route calculation, along with common route options. Note that <a href="sdk-for-ios-explore-enums-optimizationmode#/s:7heresdk16OptimizationModeO8shortestyA2CmF"><code>OptimizationMode.shortest</code></a> is is not supported for bicycles and converted to <a href="sdk-for-ios-explore-enums-optimizationmode#/s:7heresdk16OptimizationModeO7fastestyA2CmF"><code>OptimizationMode.fastest</code></a> automatically.</p>
+  <p>Options specific for bicycle route calculation, along with common route options. Note that <a href="sdk-for-ios-explore-enums-optimizationmode#sdk-for-ios-explore-s-7heresdk16OptimizationModeO8shortestyA2CmF"><code>OptimizationMode.shortest</code></a> is is not supported for bicycles and converted to <a href="sdk-for-ios-explore-enums-optimizationmode#sdk-for-ios-explore-s-7heresdk16OptimizationModeO7fastestyA2CmF"><code>OptimizationMode.fastest</code></a> automatically.</p>
   </div></td>
   </tr>
   <tr>
@@ -827,7 +879,7 @@ For offline bus routing, enable “OFFLINE_BUS_ROUTING” as feature configurati
 
 - <div>
 
-      calculateRoute(with: taxiOptions: completion: )
+   <span id="sdk-for-ios-explore-s-7heresdk20OfflineRoutingEngineC14calculateRoute4with11taxiOptions10completionAA10TaskHandle_pSayAA8WaypointVG_AA04TaxiI0VyAA0C5ErrorOSg_SayAA0F0CGSgtctF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-calculateRoute-with-taxiOptions-completion" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-offlineroutingengine#sdk-for-ios-explore-s-7heresdk20OfflineRoutingEngineC14calculateRoute4with11taxiOptions10completionAA10TaskHandle_pSayAA8WaypointVG_AA04TaxiI0VyAA0C5ErrorOSg_SayAA0F0CGSgtctF" class="token"><code>calculateRoute(with:</code><wbr></wbr><code>taxiOptions:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -858,12 +910,19 @@ For offline bus routing, enable “OFFLINE_BUS_ROUTING” as feature configurati
   Swift
 
   ``` highlight
-  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `calculate_route(﹚` methods with RoutingOptions parameter instead.") @discardableResult public func calculateRoute ( with waypoints : [ Waypoint ], taxiOptions : TaxiOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `calculate_route(﹚` methods with RoutingOptions parameter instead.")
+  @discardableResult
+  public func calculateRoute(with waypoints: [Waypoint], taxiOptions: TaxiOptions, completion: @escaping CalculateRouteCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-waypoint">Waypoint</a>
+  - <a href="sdk-for-ios-explore-structs-taxioptions">TaxiOptions</a>
+  - <a href="sdk-for-ios-explore-routing#sdk-for-ios-explore-s-7heresdk31CalculateRouteCompletionHandlera">CalculateRouteCompletionHandler</a>
+  - <a href="sdk-for-ios-explore-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -886,7 +945,7 @@ For offline bus routing, enable “OFFLINE_BUS_ROUTING” as feature configurati
   <tr>
   <td><code> </code><em><code>taxiOptions</code></em><code> </code></td>
   <td><div>
-  <p>Options specific for taxi route calculation, along with common route options. Note that <a href="sdk-for-ios-explore-enums-optimizationmode#/s:7heresdk16OptimizationModeO8shortestyA2CmF"><code>OptimizationMode.shortest</code></a> is is not supported for taxis and converted to <a href="sdk-for-ios-explore-enums-optimizationmode#/s:7heresdk16OptimizationModeO7fastestyA2CmF"><code>OptimizationMode.fastest</code></a> automatically.</p>
+  <p>Options specific for taxi route calculation, along with common route options. Note that <a href="sdk-for-ios-explore-enums-optimizationmode#sdk-for-ios-explore-s-7heresdk16OptimizationModeO8shortestyA2CmF"><code>OptimizationMode.shortest</code></a> is is not supported for taxis and converted to <a href="sdk-for-ios-explore-enums-optimizationmode#sdk-for-ios-explore-s-7heresdk16OptimizationModeO7fastestyA2CmF"><code>OptimizationMode.fastest</code></a> automatically.</p>
   </div></td>
   </tr>
   <tr>
@@ -914,7 +973,7 @@ For offline bus routing, enable “OFFLINE_BUS_ROUTING” as feature configurati
 
 - <div>
 
-      calculateRoute(with: evCarOptions: completion: )
+   <span id="sdk-for-ios-explore-s-7heresdk20OfflineRoutingEngineC14calculateRoute4with12evCarOptions10completionAA10TaskHandle_pSayAA8WaypointVG_AA05EVCarJ0VyAA0C5ErrorOSg_SayAA0F0CGSgtctF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-calculateRoute-with-evCarOptions-completion" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-offlineroutingengine#sdk-for-ios-explore-s-7heresdk20OfflineRoutingEngineC14calculateRoute4with12evCarOptions10completionAA10TaskHandle_pSayAA8WaypointVG_AA05EVCarJ0VyAA0C5ErrorOSg_SayAA0F0CGSgtctF" class="token"><code>calculateRoute(with:</code><wbr></wbr><code>evCarOptions:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -945,12 +1004,19 @@ For offline bus routing, enable “OFFLINE_BUS_ROUTING” as feature configurati
   Swift
 
   ``` highlight
-  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `calculate_route(﹚` methods with RoutingOptions parameter instead.") @discardableResult public func calculateRoute ( with waypoints : [ Waypoint ], evCarOptions : EVCarOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `calculate_route(﹚` methods with RoutingOptions parameter instead.")
+  @discardableResult
+  public func calculateRoute(with waypoints: [Waypoint], evCarOptions: EVCarOptions, completion: @escaping CalculateRouteCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-waypoint">Waypoint</a>
+  - <a href="sdk-for-ios-explore-structs-evcaroptions">EVCarOptions</a>
+  - <a href="sdk-for-ios-explore-routing#sdk-for-ios-explore-s-7heresdk31CalculateRouteCompletionHandlera">CalculateRouteCompletionHandler</a>
+  - <a href="sdk-for-ios-explore-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -1001,7 +1067,7 @@ For offline bus routing, enable “OFFLINE_BUS_ROUTING” as feature configurati
 
 - <div>
 
-      calculateRoute(with: evTruckOptions: completion: )
+   <span id="sdk-for-ios-explore-s-7heresdk20OfflineRoutingEngineC14calculateRoute4with14evTruckOptions10completionAA10TaskHandle_pSayAA8WaypointVG_AA07EVTruckJ0VyAA0C5ErrorOSg_SayAA0F0CGSgtctF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-calculateRoute-with-evTruckOptions-completion" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-offlineroutingengine#sdk-for-ios-explore-s-7heresdk20OfflineRoutingEngineC14calculateRoute4with14evTruckOptions10completionAA10TaskHandle_pSayAA8WaypointVG_AA07EVTruckJ0VyAA0C5ErrorOSg_SayAA0F0CGSgtctF" class="token"><code>calculateRoute(with:</code><wbr></wbr><code>evTruckOptions:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1032,12 +1098,19 @@ For offline bus routing, enable “OFFLINE_BUS_ROUTING” as feature configurati
   Swift
 
   ``` highlight
-  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `calculate_route(﹚` methods with RoutingOptions parameter instead.") @discardableResult public func calculateRoute ( with waypoints : [ Waypoint ], evTruckOptions : EVTruckOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `calculate_route(﹚` methods with RoutingOptions parameter instead.")
+  @discardableResult
+  public func calculateRoute(with waypoints: [Waypoint], evTruckOptions: EVTruckOptions, completion: @escaping CalculateRouteCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-waypoint">Waypoint</a>
+  - <a href="sdk-for-ios-explore-structs-evtruckoptions">EVTruckOptions</a>
+  - <a href="sdk-for-ios-explore-routing#sdk-for-ios-explore-s-7heresdk31CalculateRouteCompletionHandlera">CalculateRouteCompletionHandler</a>
+  - <a href="sdk-for-ios-explore-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -1088,7 +1161,7 @@ For offline bus routing, enable “OFFLINE_BUS_ROUTING” as feature configurati
 
 - <div>
 
-      calculateRoute(with: busOptions: completion: )
+   <span id="sdk-for-ios-explore-s-7heresdk20OfflineRoutingEngineC14calculateRoute4with10busOptions10completionAA10TaskHandle_pSayAA8WaypointVG_AA03BusI0VyAA0C5ErrorOSg_SayAA0F0CGSgtctF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-calculateRoute-with-busOptions-completion" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-offlineroutingengine#sdk-for-ios-explore-s-7heresdk20OfflineRoutingEngineC14calculateRoute4with10busOptions10completionAA10TaskHandle_pSayAA8WaypointVG_AA03BusI0VyAA0C5ErrorOSg_SayAA0F0CGSgtctF" class="token"><code>calculateRoute(with:</code><wbr></wbr><code>busOptions:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1119,12 +1192,19 @@ For offline bus routing, enable “OFFLINE_BUS_ROUTING” as feature configurati
   Swift
 
   ``` highlight
-  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `calculate_route(﹚` methods with RoutingOptions parameter instead.") @discardableResult public func calculateRoute ( with waypoints : [ Waypoint ], busOptions : BusOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `calculate_route(﹚` methods with RoutingOptions parameter instead.")
+  @discardableResult
+  public func calculateRoute(with waypoints: [Waypoint], busOptions: BusOptions, completion: @escaping CalculateRouteCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-waypoint">Waypoint</a>
+  - <a href="sdk-for-ios-explore-structs-busoptions">BusOptions</a>
+  - <a href="sdk-for-ios-explore-routing#sdk-for-ios-explore-s-7heresdk31CalculateRouteCompletionHandlera">CalculateRouteCompletionHandler</a>
+  - <a href="sdk-for-ios-explore-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -1175,7 +1255,7 @@ For offline bus routing, enable “OFFLINE_BUS_ROUTING” as feature configurati
 
 - <div>
 
-      calculateRoute(with: privateBusOptions: completion: )
+   <span id="sdk-for-ios-explore-s-7heresdk20OfflineRoutingEngineC14calculateRoute4with17privateBusOptions10completionAA10TaskHandle_pSayAA8WaypointVG_AA07PrivateiJ0VyAA0C5ErrorOSg_SayAA0F0CGSgtctF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-calculateRoute-with-privateBusOptions-completion" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-offlineroutingengine#sdk-for-ios-explore-s-7heresdk20OfflineRoutingEngineC14calculateRoute4with17privateBusOptions10completionAA10TaskHandle_pSayAA8WaypointVG_AA07PrivateiJ0VyAA0C5ErrorOSg_SayAA0F0CGSgtctF" class="token"><code>calculateRoute(with:</code><wbr></wbr><code>privateBusOptions:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1206,12 +1286,19 @@ For offline bus routing, enable “OFFLINE_BUS_ROUTING” as feature configurati
   Swift
 
   ``` highlight
-  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `calculate_route(﹚` methods with RoutingOptions parameter instead.") @discardableResult public func calculateRoute ( with waypoints : [ Waypoint ], privateBusOptions : PrivateBusOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `calculate_route(﹚` methods with RoutingOptions parameter instead.")
+  @discardableResult
+  public func calculateRoute(with waypoints: [Waypoint], privateBusOptions: PrivateBusOptions, completion: @escaping CalculateRouteCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-waypoint">Waypoint</a>
+  - <a href="sdk-for-ios-explore-structs-privatebusoptions">PrivateBusOptions</a>
+  - <a href="sdk-for-ios-explore-routing#sdk-for-ios-explore-s-7heresdk31CalculateRouteCompletionHandlera">CalculateRouteCompletionHandler</a>
+  - <a href="sdk-for-ios-explore-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -1262,7 +1349,7 @@ For offline bus routing, enable “OFFLINE_BUS_ROUTING” as feature configurati
 
 - <div>
 
-      returnToRoute(_: startingPoint: lastTraveledSectionIndex: traveledDistanceOnLastSectionInMeters: completion: )
+   <span id="sdk-for-ios-explore-s-7heresdk20OfflineRoutingEngineC13returnToRoute_13startingPoint24lastTraveledSectionIndex022traveledDistanceOnLastL8InMeters10completionAA10TaskHandle_pAA0G0C_AA8WaypointVs5Int32VAOyAA0C5ErrorOSg_SayAKGSgtctF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-returnToRoute-_-startingPoint-lastTraveledSectionIndex-traveledDistanceOnLastSectionInMeters-completion" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-offlineroutingengine#sdk-for-ios-explore-s-7heresdk20OfflineRoutingEngineC13returnToRoute_13startingPoint24lastTraveledSectionIndex022traveledDistanceOnLastL8InMeters10completionAA10TaskHandle_pAA0G0C_AA8WaypointVs5Int32VAOyAA0C5ErrorOSg_SayAKGSgtctF" class="token"><code>returnToRoute(_:</code><wbr></wbr><code>startingPoint:</code><wbr></wbr><code>lastTraveledSectionIndex:</code><wbr></wbr><code>traveledDistanceOnLastSectionInMeters:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1282,7 +1369,7 @@ For offline bus routing, enable “OFFLINE_BUS_ROUTING” as feature configurati
 
   Asynchronously calculates a new route that leads back to the original route. The part of the original route which was already traveled by the user is ignored.
 
-  **Note:** Stopover waypoints are guaranteed to be visited. Pass-through waypoints will be ignored. Additionally, the following route options are ignored: <a href="sdk-for-ios-explore-structs-routeoptions#/s:7heresdk12RouteOptionsV12alternativess5Int32Vvp">`RouteOptions.alternatives`</a>, <a href="sdk-for-ios-explore-structs-routeoptions#/s:7heresdk12RouteOptionsV11arrivalTime10Foundation4DateVSgvp">`RouteOptions.arrivalTime`</a>, and <a href="sdk-for-ios-explore-structs-routeoptions#/s:7heresdk12RouteOptionsV16optimizationModeAA012OptimizationE0Ovp">`RouteOptions.optimizationMode`</a>. Most route options are only applied to the newly calculated part back to the route.
+  **Note:** Stopover waypoints are guaranteed to be visited. Pass-through waypoints will be ignored. Additionally, the following route options are ignored: <a href="sdk-for-ios-explore-structs-routeoptions#sdk-for-ios-explore-s-7heresdk12RouteOptionsV12alternativess5Int32Vvp">`RouteOptions.alternatives`</a>, <a href="sdk-for-ios-explore-structs-routeoptions#sdk-for-ios-explore-s-7heresdk12RouteOptionsV11arrivalTime10Foundation4DateVSgvp">`RouteOptions.arrivalTime`</a>, and <a href="sdk-for-ios-explore-structs-routeoptions#sdk-for-ios-explore-s-7heresdk12RouteOptionsV16optimizationModeAA012OptimizationE0Ovp">`RouteOptions.optimizationMode`</a>. Most route options are only applied to the newly calculated part back to the route.
 
   An application may use this method to submit a new starting point for a previously calculated route. This method tries to avoid a costly route re-calculation as much as possible. In case returning to the route without re-calculation is not possible, a new route is calculated, while trying to salvage the previous route as much as possible. However, a completely new route containing no part of the previous route is possible, too.
 
@@ -1292,7 +1379,7 @@ For offline bus routing, enable “OFFLINE_BUS_ROUTING” as feature configurati
 
   - Or alternatively, wait at least 10 seconds after getting the first deviation event.
   - On top, the user experience can be improved by checking if the vehicle has moved at least 50 meters since calling this method for the last time.
-  - Optionally, it may make sense to verify if the vehicle was ever following the route by checking if <a href="sdk-for-ios-explore-structs-routedeviation#/s:7heresdk14RouteDeviationV014lastLocationOnB0AA09NavigableE0VSgvp">`RouteDeviation.lastLocationOnRoute`</a> is set.
+  - Optionally, it may make sense to verify if the vehicle was ever following the route by checking if <a href="sdk-for-ios-explore-structs-routedeviation#sdk-for-ios-explore-s-7heresdk14RouteDeviationV014lastLocationOnB0AA09NavigableE0VSgvp">`RouteDeviation.lastLocationOnRoute`</a> is set.
 
   Note that deviation events are sent each time a deviation is detected, i.e. for each new location update, regardless if the location has changed or not. More information can be found in the Developer Guide in the “Handle route deviations” section.
 
@@ -1307,12 +1394,18 @@ For offline bus routing, enable “OFFLINE_BUS_ROUTING” as feature configurati
   Swift
 
   ``` highlight
-  @discardableResult public func returnToRoute ( _ route : Route , startingPoint : Waypoint , lastTraveledSectionIndex : Int32 , traveledDistanceOnLastSectionInMeters : Int32 , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  @discardableResult
+  public func returnToRoute(_ route: Route, startingPoint: Waypoint, lastTraveledSectionIndex: Int32, traveledDistanceOnLastSectionInMeters: Int32, completion: @escaping CalculateRouteCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-route">Route</a>
+  - <a href="sdk-for-ios-explore-structs-waypoint">Waypoint</a>
+  - <a href="sdk-for-ios-explore-routing#sdk-for-ios-explore-s-7heresdk31CalculateRouteCompletionHandlera">CalculateRouteCompletionHandler</a>
+  - <a href="sdk-for-ios-explore-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -1335,7 +1428,7 @@ For offline bus routing, enable “OFFLINE_BUS_ROUTING” as feature configurati
   <tr>
   <td><code> </code><em><code>startingPoint</code></em><code> </code></td>
   <td><div>
-  <p>The current location, for example, provided by a <a href="sdk-for-ios-explore-structs-routedeviation"><code>RouteDeviation</code></a> event. The waypoint needs to be of type <a href="sdk-for-ios-explore-enums-waypointtype#/s:7heresdk12WaypointTypeO8stopoveryA2CmF"><code>WaypointType.stopover</code></a>. Otherwise, an <a href="sdk-for-ios-explore-enums-routingerror#/s:7heresdk12RoutingErrorO16invalidParameteryA2CmF"><code>RoutingError.invalidParameter</code></a> error is generated.</p>
+  <p>The current location, for example, provided by a <a href="sdk-for-ios-explore-structs-routedeviation"><code>RouteDeviation</code></a> event. The waypoint needs to be of type <a href="sdk-for-ios-explore-enums-waypointtype#sdk-for-ios-explore-s-7heresdk12WaypointTypeO8stopoveryA2CmF"><code>WaypointType.stopover</code></a>. Otherwise, an <a href="sdk-for-ios-explore-enums-routingerror#sdk-for-ios-explore-s-7heresdk12RoutingErrorO16invalidParameteryA2CmF"><code>RoutingError.invalidParameter</code></a> error is generated.</p>
   </div></td>
   </tr>
   <tr>
@@ -1375,7 +1468,7 @@ For offline bus routing, enable “OFFLINE_BUS_ROUTING” as feature configurati
 
 - <div>
 
-      refreshRoute(refreshRouteParameters: routingOptions: completion: )
+   <span id="sdk-for-ios-explore-s-7heresdk20OfflineRoutingEngineC12refreshRoute0eF10Parameters14routingOptions10completionAA10TaskHandle_pAA07RefreshfG0V_AA0cI0VyAA0C5ErrorOSg_SayAA0F0CGSgtctF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-refreshRoute-refreshRouteParameters-routingOptions-completion" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-offlineroutingengine#sdk-for-ios-explore-s-7heresdk20OfflineRoutingEngineC12refreshRoute0eF10Parameters14routingOptions10completionAA10TaskHandle_pAA07RefreshfG0V_AA0cI0VyAA0C5ErrorOSg_SayAA0F0CGSgtctF" class="token"><code>refreshRoute(refreshRouteParameters:</code><wbr></wbr><code>routingOptions:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1406,12 +1499,18 @@ For offline bus routing, enable “OFFLINE_BUS_ROUTING” as feature configurati
   Swift
 
   ``` highlight
-  @discardableResult public func refreshRoute ( refreshRouteParameters : RefreshRouteParameters , routingOptions : RoutingOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  @discardableResult
+  public func refreshRoute(refreshRouteParameters: RefreshRouteParameters, routingOptions: RoutingOptions, completion: @escaping CalculateRouteCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-refreshrouteparameters">RefreshRouteParameters</a>
+  - <a href="sdk-for-ios-explore-structs-routingoptions">RoutingOptions</a>
+  - <a href="sdk-for-ios-explore-routing#sdk-for-ios-explore-s-7heresdk31CalculateRouteCompletionHandlera">CalculateRouteCompletionHandler</a>
+  - <a href="sdk-for-ios-explore-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -1462,7 +1561,7 @@ For offline bus routing, enable “OFFLINE_BUS_ROUTING” as feature configurati
 
 - <div>
 
-      importRoute(routeHandle: refreshRouteOptions: completion: )
+   <span id="sdk-for-ios-explore-s-7heresdk20OfflineRoutingEngineC11importRoute11routeHandle07refreshF7Options10completionAA04TaskH0_pAA0fH0V_AA07RefreshfJ0CyAA0C5ErrorOSg_SayAA0F0CGSgtctF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-importRoute-routeHandle-refreshRouteOptions-completion" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-offlineroutingengine#sdk-for-ios-explore-s-7heresdk20OfflineRoutingEngineC11importRoute11routeHandle07refreshF7Options10completionAA04TaskH0_pAA0fH0V_AA07RefreshfJ0CyAA0C5ErrorOSg_SayAA0F0CGSgtctF" class="token"><code>importRoute(routeHandle:</code><wbr></wbr><code>refreshRouteOptions:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1495,12 +1594,19 @@ For offline bus routing, enable “OFFLINE_BUS_ROUTING” as feature configurati
   Swift
 
   ``` highlight
-  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `import_route(﹚` method with RoutingOptions parameter instead.") @discardableResult public func importRoute ( routeHandle : RouteHandle , refreshRouteOptions : RefreshRouteOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `import_route(﹚` method with RoutingOptions parameter instead.")
+  @discardableResult
+  public func importRoute(routeHandle: RouteHandle, refreshRouteOptions: RefreshRouteOptions, completion: @escaping CalculateRouteCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-routehandle">RouteHandle</a>
+  - <a href="sdk-for-ios-explore-classes-refreshrouteoptions">RefreshRouteOptions</a>
+  - <a href="sdk-for-ios-explore-routing#sdk-for-ios-explore-s-7heresdk31CalculateRouteCompletionHandlera">CalculateRouteCompletionHandler</a>
+  - <a href="sdk-for-ios-explore-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -1551,7 +1657,7 @@ For offline bus routing, enable “OFFLINE_BUS_ROUTING” as feature configurati
 
 - <div>
 
-      importRoute(routeHandle: options: completion: )
+   <span id="sdk-for-ios-explore-s-7heresdk20OfflineRoutingEngineC11importRoute11routeHandle7options10completionAA04TaskH0_pAA0fH0V_AA0C7OptionsVyAA0C5ErrorOSg_SayAA0F0CGSgtctF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-importRoute-routeHandle-options-completion" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-offlineroutingengine#sdk-for-ios-explore-s-7heresdk20OfflineRoutingEngineC11importRoute11routeHandle7options10completionAA04TaskH0_pAA0fH0V_AA0C7OptionsVyAA0C5ErrorOSg_SayAA0F0CGSgtctF" class="token"><code>importRoute(routeHandle:</code><wbr></wbr><code>options:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1584,12 +1690,18 @@ For offline bus routing, enable “OFFLINE_BUS_ROUTING” as feature configurati
   Swift
 
   ``` highlight
-  @discardableResult public func importRoute ( routeHandle : RouteHandle , options : RoutingOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  @discardableResult
+  public func importRoute(routeHandle: RouteHandle, options: RoutingOptions, completion: @escaping CalculateRouteCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-routehandle">RouteHandle</a>
+  - <a href="sdk-for-ios-explore-structs-routingoptions">RoutingOptions</a>
+  - <a href="sdk-for-ios-explore-routing#sdk-for-ios-explore-s-7heresdk31CalculateRouteCompletionHandlera">CalculateRouteCompletionHandler</a>
+  - <a href="sdk-for-ios-explore-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -1640,7 +1752,7 @@ For offline bus routing, enable “OFFLINE_BUS_ROUTING” as feature configurati
 
 - <div>
 
-      setInternalOption(key: value: )
+   <span id="sdk-for-ios-explore-s-7heresdk20OfflineRoutingEngineC17setInternalOption3key5valueySS_SStF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-setInternalOption-key-value" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-offlineroutingengine#sdk-for-ios-explore-s-7heresdk20OfflineRoutingEngineC17setInternalOption3key5valueySS_SStF" class="token"><code>setInternalOption(key:</code><wbr></wbr><code>value:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1671,10 +1783,8 @@ For offline bus routing, enable “OFFLINE_BUS_ROUTING” as feature configurati
   Swift
 
   ``` highlight
-  public func setInternalOption ( key : String , value : String )
+  public func setInternalOption(key: String, value: String)
   ```
-
-  </pre>
 
   </div>
 

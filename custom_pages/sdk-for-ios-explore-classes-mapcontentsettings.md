@@ -35,7 +35,7 @@ Provides settings regarding map data which are applied globally to all map views
 
 - <div>
 
-  ` `<span id="/s:7heresdk18MapContentSettingsC25TrafficRefreshPeriodErrora"></span>` `<span id="//apple_ref/swift/Alias/TrafficRefreshPeriodError" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-mapcontentsettings#/s:7heresdk18MapContentSettingsC25TrafficRefreshPeriodErrora" class="token"><code>TrafficRefreshPeriodError</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18MapContentSettingsC25TrafficRefreshPeriodErrora"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Alias-TrafficRefreshPeriodError" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapcontentsettings#sdk-for-ios-explore-s-7heresdk18MapContentSettingsC25TrafficRefreshPeriodErrora" class="token"><code>TrafficRefreshPeriodError</code></a> 
 
   </div>
 
@@ -71,6 +71,10 @@ Provides settings regarding map data which are applied globally to all map views
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-mapcontentsettings-trafficrefreshperioderrorcode">TrafficRefreshPeriodErrorCode</a>
+
   </div>
 
   </div>
@@ -79,7 +83,7 @@ Provides settings regarding map data which are applied globally to all map views
 
 - <div>
 
-  ` `<span id="/s:7heresdk18MapContentSettingsC29TrafficRefreshPeriodErrorCodeO"></span>` `<span id="//apple_ref/swift/Enum/TrafficRefreshPeriodErrorCode" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-mapcontentsettings#/s:7heresdk18MapContentSettingsC29TrafficRefreshPeriodErrorCodeO" class="token"><code>TrafficRefreshPeriodErrorCode</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18MapContentSettingsC29TrafficRefreshPeriodErrorCodeO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-TrafficRefreshPeriodErrorCode" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapcontentsettings#sdk-for-ios-explore-s-7heresdk18MapContentSettingsC29TrafficRefreshPeriodErrorCodeO" class="token"><code>TrafficRefreshPeriodErrorCode</code></a> 
 
   </div>
 
@@ -121,6 +125,10 @@ Provides settings regarding map data which are applied globally to all map views
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-mapcontentsettings">MapContentSettings</a>
+
   </div>
 
   </div>
@@ -129,7 +137,7 @@ Provides settings regarding map data which are applied globally to all map views
 
 - <div>
 
-      configureVehicleRestrictionFilter(transportMode: truckSpecifications: hazardousMaterials: tunnelCategory: )
+   <span id="sdk-for-ios-explore-s-7heresdk18MapContentSettingsC33configureVehicleRestrictionFilter13transportMode19truckSpecifications18hazardousMaterials14tunnelCategoryyAA09TransportJ0O_AA05TruckL0VSayAA17HazardousMaterialOGSgAA06TunnelP0OSgtFZ"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-configureVehicleRestrictionFilter-transportMode-truckSpecifications-hazardousMaterials-tunnelCategory" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapcontentsettings#sdk-for-ios-explore-s-7heresdk18MapContentSettingsC33configureVehicleRestrictionFilter13transportMode19truckSpecifications18hazardousMaterials14tunnelCategoryyAA09TransportJ0O_AA05TruckL0VSayAA17HazardousMaterialOGSgAA06TunnelP0OSgtFZ" class="token"><code>configureVehicleRestrictionFilter(transportMode:</code><wbr></wbr><code>truckSpecifications:</code><wbr></wbr><code>hazardousMaterials:</code><wbr></wbr><code>tunnelCategory:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -147,7 +155,7 @@ Provides settings regarding map data which are applied globally to all map views
 
   <div class="abstract">
 
-  Configure a filter for <a href="sdk-for-ios-explore-structs-mapfeatures#/s:7heresdk11MapFeaturesV19vehicleRestrictionsSSvpZ">`MapFeatures.vehicleRestrictions`</a> to show only the restrictions matching the specified criteria when the feature is enabled.
+  Configure a filter for <a href="sdk-for-ios-explore-structs-mapfeatures#sdk-for-ios-explore-s-7heresdk11MapFeaturesV19vehicleRestrictionsSSvpZ">`MapFeatures.vehicleRestrictions`</a> to show only the restrictions matching the specified criteria when the feature is enabled.
 
   # Filtering rules for truck specifications
 
@@ -177,7 +185,7 @@ Provides settings regarding map data which are applied globally to all map views
 
         MapContentSettings.configureVehicleRestrictionFilter(TransportMode, TruckSpecifications, [HazardousMaterial]?, TunnelCategory?).hazardousMaterials
 
-    contains <a href="sdk-for-ios-explore-enums-hazardousmaterial#/s:7heresdk17HazardousMaterialO6poisonyA2CmF">`HazardousMaterial.poison`</a> and <a href="sdk-for-ios-explore-enums-hazardousmaterial#/s:7heresdk17HazardousMaterialO3gasyA2CmF">`HazardousMaterial.gas`</a>, then only material restrictions for poison and gas will be displayed.
+    contains <a href="sdk-for-ios-explore-enums-hazardousmaterial#sdk-for-ios-explore-s-7heresdk17HazardousMaterialO6poisonyA2CmF">`HazardousMaterial.poison`</a> and <a href="sdk-for-ios-explore-enums-hazardousmaterial#sdk-for-ios-explore-s-7heresdk17HazardousMaterialO3gasyA2CmF">`HazardousMaterial.gas`</a>, then only material restrictions for poison and gas will be displayed.
 
   - If the
 
@@ -203,7 +211,7 @@ Provides settings regarding map data which are applied globally to all map views
 
   # Filtering rules for tunnel category
 
-  Tunnel categories are labeled and rated based on the level of restriction they provide. The lowest level of restriction is <a href="sdk-for-ios-explore-enums-tunnelcategory#/s:7heresdk14TunnelCategoryO1byA2CmF">`TunnelCategory.b`</a>, the highest and most restrictive one is <a href="sdk-for-ios-explore-enums-tunnelcategory#/s:7heresdk14TunnelCategoryO1eyA2CmF">`TunnelCategory.e`</a>.
+  Tunnel categories are labeled and rated based on the level of restriction they provide. The lowest level of restriction is <a href="sdk-for-ios-explore-enums-tunnelcategory#sdk-for-ios-explore-s-7heresdk14TunnelCategoryO1byA2CmF">`TunnelCategory.b`</a>, the highest and most restrictive one is <a href="sdk-for-ios-explore-enums-tunnelcategory#sdk-for-ios-explore-s-7heresdk14TunnelCategoryO1eyA2CmF">`TunnelCategory.e`</a>.
 
   Specifying tunnel category means that:
 
@@ -230,7 +238,7 @@ Provides settings regarding map data which are applied globally to all map views
 
       MapContentSettings.configureVehicleRestrictionFilter(TransportMode, TruckSpecifications, [HazardousMaterial]?, TunnelCategory?).tunnelCategory
 
-  is set to <a href="sdk-for-ios-explore-enums-tunnelcategory#/s:7heresdk14TunnelCategoryO1dyA2CmF">`TunnelCategory.d`</a>, then restrictions for tunnel category <a href="sdk-for-ios-explore-enums-tunnelcategory#/s:7heresdk14TunnelCategoryO1eyA2CmF">`TunnelCategory.e`</a> and <a href="sdk-for-ios-explore-enums-tunnelcategory#/s:7heresdk14TunnelCategoryO1dyA2CmF">`TunnelCategory.d`</a> will be displayed, but not the categories <a href="sdk-for-ios-explore-enums-tunnelcategory#/s:7heresdk14TunnelCategoryO1byA2CmF">`TunnelCategory.b`</a> and <a href="sdk-for-ios-explore-enums-tunnelcategory#/s:7heresdk14TunnelCategoryO1cyA2CmF">`TunnelCategory.c`</a>.
+  is set to <a href="sdk-for-ios-explore-enums-tunnelcategory#sdk-for-ios-explore-s-7heresdk14TunnelCategoryO1dyA2CmF">`TunnelCategory.d`</a>, then restrictions for tunnel category <a href="sdk-for-ios-explore-enums-tunnelcategory#sdk-for-ios-explore-s-7heresdk14TunnelCategoryO1eyA2CmF">`TunnelCategory.e`</a> and <a href="sdk-for-ios-explore-enums-tunnelcategory#sdk-for-ios-explore-s-7heresdk14TunnelCategoryO1dyA2CmF">`TunnelCategory.d`</a> will be displayed, but not the categories <a href="sdk-for-ios-explore-enums-tunnelcategory#sdk-for-ios-explore-s-7heresdk14TunnelCategoryO1byA2CmF">`TunnelCategory.b`</a> and <a href="sdk-for-ios-explore-enums-tunnelcategory#sdk-for-ios-explore-s-7heresdk14TunnelCategoryO1cyA2CmF">`TunnelCategory.c`</a>.
   </p>
 
   </div>
@@ -244,12 +252,18 @@ Provides settings regarding map data which are applied globally to all map views
   Swift
 
   ``` highlight
-  @available(*, deprecated, message: "Will be removed in v4.28.0, use `MapContentSettings.configureVehicleRestrictionFilter(TransportSpecification﹚` instead.") public static func configureVehicleRestrictionFilter ( transportMode : TransportMode , truckSpecifications : TruckSpecifications , hazardousMaterials : [ HazardousMaterial ]?, tunnelCategory : TunnelCategory ?)
+  @available(*, deprecated, message: "Will be removed in v4.28.0, use `MapContentSettings.configureVehicleRestrictionFilter(TransportSpecification﹚` instead.")
+  public static func configureVehicleRestrictionFilter(transportMode: TransportMode, truckSpecifications: TruckSpecifications, hazardousMaterials: [HazardousMaterial]?, tunnelCategory: TunnelCategory?)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-transportmode">TransportMode</a>
+  - <a href="sdk-for-ios-explore-structs-truckspecifications">TruckSpecifications</a>
+  - <a href="sdk-for-ios-explore-enums-hazardousmaterial">HazardousMaterial</a>
+  - <a href="sdk-for-ios-explore-enums-tunnelcategory">TunnelCategory</a>
 
   </div>
 
@@ -298,7 +312,7 @@ Provides settings regarding map data which are applied globally to all map views
 
 - <div>
 
-      configureVehicleRestrictionFilter(transportSpecs: )
+   <span id="sdk-for-ios-explore-s-7heresdk18MapContentSettingsC33configureVehicleRestrictionFilter14transportSpecsyAA22TransportSpecificationV_tFZ"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-configureVehicleRestrictionFilter-transportSpecs" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapcontentsettings#sdk-for-ios-explore-s-7heresdk18MapContentSettingsC33configureVehicleRestrictionFilter14transportSpecsyAA22TransportSpecificationV_tFZ" class="token"><code>configureVehicleRestrictionFilter(transportSpecs:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -316,7 +330,7 @@ Provides settings regarding map data which are applied globally to all map views
 
   <div class="abstract">
 
-  Configures a filter for <a href="sdk-for-ios-explore-structs-mapfeatures#/s:7heresdk11MapFeaturesV19vehicleRestrictionsSSvpZ">`MapFeatures.vehicleRestrictions`</a> to show only the restrictions matching the transport specifications when the feature is enabled.
+  Configures a filter for <a href="sdk-for-ios-explore-structs-mapfeatures#sdk-for-ios-explore-s-7heresdk11MapFeaturesV19vehicleRestrictionsSSvpZ">`MapFeatures.vehicleRestrictions`</a> to show only the restrictions matching the transport specifications when the feature is enabled.
 
   This method provides a unified way to configure vehicle restriction filters using a single <a href="sdk-for-ios-explore-structs-transportspecification">`TransportSpecification`</a> parameter. This allows you to use the same transport configuration for both routing and map rendering, ensuring consistency between route calculation and the restrictions displayed on the map.
 
@@ -355,14 +369,14 @@ Provides settings regarding map data which are applied globally to all map views
 
   Examples:
 
-  - If the hazardous materials list contains <a href="sdk-for-ios-explore-enums-hazardousmaterial#/s:7heresdk17HazardousMaterialO6poisonyA2CmF">`HazardousMaterial.poison`</a> and <a href="sdk-for-ios-explore-enums-hazardousmaterial#/s:7heresdk17HazardousMaterialO3gasyA2CmF">`HazardousMaterial.gas`</a>, then only material restrictions for poison and gas will be displayed.
+  - If the hazardous materials list contains <a href="sdk-for-ios-explore-enums-hazardousmaterial#sdk-for-ios-explore-s-7heresdk17HazardousMaterialO6poisonyA2CmF">`HazardousMaterial.poison`</a> and <a href="sdk-for-ios-explore-enums-hazardousmaterial#sdk-for-ios-explore-s-7heresdk17HazardousMaterialO3gasyA2CmF">`HazardousMaterial.gas`</a>, then only material restrictions for poison and gas will be displayed.
   - If the hazardous materials list is empty, then no material restrictions will be shown.
   - If the hazardous materials list is not supplied at all (is `nil`), then no material restrictions will be shown.
   - If the hazardous materials list contains at least one hazardous material of any type and tunnel category is `nil`, then only corresponding material restrictions will be displayed together with all available tunnel categories.
 
   # Filtering rules for tunnel category
 
-  Tunnel categories are labeled and rated based on the level of restriction they provide. The lowest level of restriction is <a href="sdk-for-ios-explore-enums-tunnelcategory#/s:7heresdk14TunnelCategoryO1byA2CmF">`TunnelCategory.b`</a>, the highest and most restrictive one is <a href="sdk-for-ios-explore-enums-tunnelcategory#/s:7heresdk14TunnelCategoryO1eyA2CmF">`TunnelCategory.e`</a>.
+  Tunnel categories are labeled and rated based on the level of restriction they provide. The lowest level of restriction is <a href="sdk-for-ios-explore-enums-tunnelcategory#sdk-for-ios-explore-s-7heresdk14TunnelCategoryO1byA2CmF">`TunnelCategory.b`</a>, the highest and most restrictive one is <a href="sdk-for-ios-explore-enums-tunnelcategory#sdk-for-ios-explore-s-7heresdk14TunnelCategoryO1eyA2CmF">`TunnelCategory.e`</a>.
 
   The tunnel category is specified within the <a href="sdk-for-ios-explore-structs-vehiclespecification">`VehicleSpecification`</a> contained in the
 
@@ -383,7 +397,7 @@ Provides settings regarding map data which are applied globally to all map views
   - If at least one hazardous material is specified but no tunnel category is provided, the SDK enables and displays **all tunnel category restrictions** to ensure that no relevant restrictions are omitted.
   - If both hazardous materials and a tunnel category are specified, the SDK **strictly follows the given tunnel category parameter** and displays only the applicable restrictions.
 
-  Example: If tunnel category is set to <a href="sdk-for-ios-explore-enums-tunnelcategory#/s:7heresdk14TunnelCategoryO1dyA2CmF">`TunnelCategory.d`</a>, then restrictions for tunnel category <a href="sdk-for-ios-explore-enums-tunnelcategory#/s:7heresdk14TunnelCategoryO1eyA2CmF">`TunnelCategory.e`</a> and <a href="sdk-for-ios-explore-enums-tunnelcategory#/s:7heresdk14TunnelCategoryO1dyA2CmF">`TunnelCategory.d`</a> will be displayed, but not the categories <a href="sdk-for-ios-explore-enums-tunnelcategory#/s:7heresdk14TunnelCategoryO1byA2CmF">`TunnelCategory.b`</a> and <a href="sdk-for-ios-explore-enums-tunnelcategory#/s:7heresdk14TunnelCategoryO1cyA2CmF">`TunnelCategory.c`</a>.
+  Example: If tunnel category is set to <a href="sdk-for-ios-explore-enums-tunnelcategory#sdk-for-ios-explore-s-7heresdk14TunnelCategoryO1dyA2CmF">`TunnelCategory.d`</a>, then restrictions for tunnel category <a href="sdk-for-ios-explore-enums-tunnelcategory#sdk-for-ios-explore-s-7heresdk14TunnelCategoryO1eyA2CmF">`TunnelCategory.e`</a> and <a href="sdk-for-ios-explore-enums-tunnelcategory#sdk-for-ios-explore-s-7heresdk14TunnelCategoryO1dyA2CmF">`TunnelCategory.d`</a> will be displayed, but not the categories <a href="sdk-for-ios-explore-enums-tunnelcategory#sdk-for-ios-explore-s-7heresdk14TunnelCategoryO1byA2CmF">`TunnelCategory.b`</a> and <a href="sdk-for-ios-explore-enums-tunnelcategory#sdk-for-ios-explore-s-7heresdk14TunnelCategoryO1cyA2CmF">`TunnelCategory.c`</a>.
 
   </div>
 
@@ -396,12 +410,14 @@ Provides settings regarding map data which are applied globally to all map views
   Swift
 
   ``` highlight
-  public static func configureVehicleRestrictionFilter ( transportSpecs : TransportSpecification )
+  public static func configureVehicleRestrictionFilter(transportSpecs: TransportSpecification)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-transportspecification">TransportSpecification</a>
 
   </div>
 
@@ -432,7 +448,7 @@ Provides settings regarding map data which are applied globally to all map views
 
 - <div>
 
-      resetVehicleRestrictionFilter()
+   <span id="sdk-for-ios-explore-s-7heresdk18MapContentSettingsC29resetVehicleRestrictionFilteryyFZ"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-resetVehicleRestrictionFilter" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapcontentsettings#sdk-for-ios-explore-s-7heresdk18MapContentSettingsC29resetVehicleRestrictionFilteryyFZ" class="token"><code>resetVehicleRestrictionFilter()</code></a> 
 
   </div>
 
@@ -450,15 +466,7 @@ Provides settings regarding map data which are applied globally to all map views
 
   <div class="abstract">
 
-  Removes all filters regarding vehicle restrictions so that all restrictions will be displayed, when the display of vehicle restrictions is enabled by enabling feature using
-
-      MapScene.enableFeatures(...)
-
-  with <a href="sdk-for-ios-explore-structs-mapfeatures#/s:7heresdk11MapFeaturesV19vehicleRestrictionsSSvpZ">`MapFeatures.vehicleRestrictions`</a> and setting layer visibility using
-      MapScene.setLayerVisibility(...)
-
-  .
-  </p>
+  Removes all filters regarding vehicle restrictions so that all restrictions will be displayed, when the display of vehicle restrictions is enabled by enabling feature using <a href="sdk-for-ios-explore-classes-mapscene#sdk-for-ios-explore-s-7heresdk8MapSceneC14enableFeaturesyySDyS2SGF">`MapScene.enableFeatures(...)`</a> with <a href="sdk-for-ios-explore-structs-mapfeatures#sdk-for-ios-explore-s-7heresdk11MapFeaturesV19vehicleRestrictionsSSvpZ">`MapFeatures.vehicleRestrictions`</a> and setting layer visibility using <a href="sdk-for-ios-explore-classes-mapscene#sdk-for-ios-explore-s-7heresdk8MapSceneC18setLayerVisibility9layerName10visibilityySS_AA0F5StateOtF">`MapScene.setLayerVisibility(...)`</a>.
 
   </div>
 
@@ -471,10 +479,8 @@ Provides settings regarding map data which are applied globally to all map views
   Swift
 
   ``` highlight
-  public static func resetVehicleRestrictionFilter ()
+  public static func resetVehicleRestrictionFilter()
   ```
-
-  </pre>
 
   </div>
 
@@ -486,7 +492,7 @@ Provides settings regarding map data which are applied globally to all map views
 
 - <div>
 
-      setPoiCategoriesVisibility(categoryIds: visibility: )
+   <span id="sdk-for-ios-explore-s-7heresdk18MapContentSettingsC26setPoiCategoriesVisibility11categoryIds10visibilityySaySSG_AA0H5StateOtFZ"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-setPoiCategoriesVisibility-categoryIds-visibility" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapcontentsettings#sdk-for-ios-explore-s-7heresdk18MapContentSettingsC26setPoiCategoriesVisibility11categoryIds10visibilityySaySSG_AA0H5StateOtFZ" class="token"><code>setPoiCategoriesVisibility(categoryIds:</code><wbr></wbr><code>visibility:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -521,12 +527,14 @@ Provides settings regarding map data which are applied globally to all map views
   Swift
 
   ``` highlight
-  public static func setPoiCategoriesVisibility ( categoryIds : [ String ], visibility : VisibilityState )
+  public static func setPoiCategoriesVisibility(categoryIds: [String], visibility: VisibilityState)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-visibilitystate">VisibilityState</a>
 
   </div>
 
@@ -563,7 +571,7 @@ Provides settings regarding map data which are applied globally to all map views
 
 - <div>
 
-      resetPoiCategoriesVisibility()
+   <span id="sdk-for-ios-explore-s-7heresdk18MapContentSettingsC28resetPoiCategoriesVisibilityyyFZ"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-resetPoiCategoriesVisibility" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapcontentsettings#sdk-for-ios-explore-s-7heresdk18MapContentSettingsC28resetPoiCategoriesVisibilityyyFZ" class="token"><code>resetPoiCategoriesVisibility()</code></a> 
 
   </div>
 
@@ -594,10 +602,8 @@ Provides settings regarding map data which are applied globally to all map views
   Swift
 
   ``` highlight
-  public static func resetPoiCategoriesVisibility ()
+  public static func resetPoiCategoriesVisibility()
   ```
-
-  </pre>
 
   </div>
 
@@ -609,7 +615,7 @@ Provides settings regarding map data which are applied globally to all map views
 
 - <div>
 
-      filterTrafficIncidents(trafficIncidents: )
+   <span id="sdk-for-ios-explore-s-7heresdk18MapContentSettingsC22filterTrafficIncidents07trafficG0ySayAA0F12IncidentTypeOG_tFZ"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-filterTrafficIncidents-trafficIncidents" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapcontentsettings#sdk-for-ios-explore-s-7heresdk18MapContentSettingsC22filterTrafficIncidents07trafficG0ySayAA0F12IncidentTypeOG_tFZ" class="token"><code>filterTrafficIncidents(trafficIncidents:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -627,12 +633,7 @@ Provides settings regarding map data which are applied globally to all map views
 
   <div class="abstract">
 
-  Filters the displayed traffic incidents so that only the ones applicable to the specified criteria are shown when general display of traffic incidents is enabled. The display of traffic incidents can be enabled using
-
-      MapScene.enableFeatures(...)
-
-  with <a href="sdk-for-ios-explore-structs-mapfeatures#/s:7heresdk11MapFeaturesV16trafficIncidentsSSvpZ">`MapFeatures.trafficIncidents`</a>.
-  </p>
+  Filters the displayed traffic incidents so that only the ones applicable to the specified criteria are shown when general display of traffic incidents is enabled. The display of traffic incidents can be enabled using <a href="sdk-for-ios-explore-classes-mapscene#sdk-for-ios-explore-s-7heresdk8MapSceneC14enableFeaturesyySDyS2SGF">`MapScene.enableFeatures(...)`</a> with <a href="sdk-for-ios-explore-structs-mapfeatures#sdk-for-ios-explore-s-7heresdk11MapFeaturesV16trafficIncidentsSSvpZ">`MapFeatures.trafficIncidents`</a>.
 
   </div>
 
@@ -645,12 +646,14 @@ Provides settings regarding map data which are applied globally to all map views
   Swift
 
   ``` highlight
-  public static func filterTrafficIncidents ( trafficIncidents : [ TrafficIncidentType ])
+  public static func filterTrafficIncidents(trafficIncidents: [TrafficIncidentType])
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-trafficincidenttype">TrafficIncidentType</a>
 
   </div>
 
@@ -669,7 +672,7 @@ Provides settings regarding map data which are applied globally to all map views
   <td><div>
   <p>The traffic incidents to filter for, so that only applicable incidents are displayed. When the list is empty, then all traffic incidents will be displayed. If the</p>
   <pre><code>MapContentSettings.filterTrafficIncidents(...).trafficIncidents</code></pre>
-  contains <a href="sdk-for-ios-explore-enums-trafficincidenttype#/s:7heresdk19TrafficIncidentTypeO7unknownyA2CmF"><code>TrafficIncidentType.unknown</code></a>, then the traffic filter will be applied ignoring this element.
+  contains <a href="sdk-for-ios-explore-enums-trafficincidenttype#sdk-for-ios-explore-s-7heresdk19TrafficIncidentTypeO7unknownyA2CmF"><code>TrafficIncidentType.unknown</code></a>, then the traffic filter will be applied ignoring this element.
   </p>
   </div></td>
   </tr>
@@ -684,7 +687,7 @@ Provides settings regarding map data which are applied globally to all map views
 
 - <div>
 
-      resetTrafficIncidentFilter()
+   <span id="sdk-for-ios-explore-s-7heresdk18MapContentSettingsC26resetTrafficIncidentFilteryyFZ"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-resetTrafficIncidentFilter" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapcontentsettings#sdk-for-ios-explore-s-7heresdk18MapContentSettingsC26resetTrafficIncidentFilteryyFZ" class="token"><code>resetTrafficIncidentFilter()</code></a> 
 
   </div>
 
@@ -702,12 +705,7 @@ Provides settings regarding map data which are applied globally to all map views
 
   <div class="abstract">
 
-  Removes all filters regarding Traffic Incidents so that all incidents will be displayed, when the display of Traffic Incidents is enabled using
-
-      MapScene.enableFeatures(...)
-
-  with <a href="sdk-for-ios-explore-structs-mapfeatures#/s:7heresdk11MapFeaturesV16trafficIncidentsSSvpZ">`MapFeatures.trafficIncidents`</a>.
-  </p>
+  Removes all filters regarding Traffic Incidents so that all incidents will be displayed, when the display of Traffic Incidents is enabled using <a href="sdk-for-ios-explore-classes-mapscene#sdk-for-ios-explore-s-7heresdk8MapSceneC14enableFeaturesyySDyS2SGF">`MapScene.enableFeatures(...)`</a> with <a href="sdk-for-ios-explore-structs-mapfeatures#sdk-for-ios-explore-s-7heresdk11MapFeaturesV16trafficIncidentsSSvpZ">`MapFeatures.trafficIncidents`</a>.
 
   </div>
 
@@ -720,10 +718,8 @@ Provides settings regarding map data which are applied globally to all map views
   Swift
 
   ``` highlight
-  public static func resetTrafficIncidentFilter ()
+  public static func resetTrafficIncidentFilter()
   ```
-
-  </pre>
 
   </div>
 
@@ -735,7 +731,7 @@ Provides settings regarding map data which are applied globally to all map views
 
 - <div>
 
-      setTrafficRefreshPeriod(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk18MapContentSettingsC23setTrafficRefreshPeriodyySdKFZ"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-setTrafficRefreshPeriod-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapcontentsettings#sdk-for-ios-explore-s-7heresdk18MapContentSettingsC23setTrafficRefreshPeriodyySdKFZ" class="token"><code>setTrafficRefreshPeriod(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -753,13 +749,13 @@ Provides settings regarding map data which are applied globally to all map views
 
   <div class="abstract">
 
-  Sets the traffic data refresh period for both <a href="sdk-for-ios-explore-structs-mapfeatures#/s:7heresdk11MapFeaturesV11trafficFlowSSvpZ">`MapFeatures.trafficFlow`</a> and <a href="sdk-for-ios-explore-structs-mapfeatures#/s:7heresdk11MapFeaturesV16trafficIncidentsSSvpZ">`MapFeatures.trafficIncidents`</a>. By default, the traffic information validity time and the refresh period is derived from the refresh period of HERE’s traffic server. The period set by this function will override the server’s default setting for upcoming traffic data requests. Defaults to 60 seconds.
+  Sets the traffic data refresh period for both <a href="sdk-for-ios-explore-structs-mapfeatures#sdk-for-ios-explore-s-7heresdk11MapFeaturesV11trafficFlowSSvpZ">`MapFeatures.trafficFlow`</a> and <a href="sdk-for-ios-explore-structs-mapfeatures#sdk-for-ios-explore-s-7heresdk11MapFeaturesV16trafficIncidentsSSvpZ">`MapFeatures.trafficIncidents`</a>. By default, the traffic information validity time and the refresh period is derived from the refresh period of HERE’s traffic server. The period set by this function will override the server’s default setting for upcoming traffic data requests. Defaults to 60 seconds.
 
   <div class="aside aside-throws">
 
   Throws
 
-  <a href="sdk-for-ios-explore-classes-mapcontentsettings#/s:7heresdk18MapContentSettingsC25TrafficRefreshPeriodErrora">`MapContentSettings.TrafficRefreshPeriodError`</a> <a href="sdk-for-ios-explore-classes-mapcontentsettings#/s:7heresdk18MapContentSettingsC25TrafficRefreshPeriodErrora">`MapContentSettings.TrafficRefreshPeriodError`</a> indicates what went wrong.
+  <a href="sdk-for-ios-explore-classes-mapcontentsettings#sdk-for-ios-explore-s-7heresdk18MapContentSettingsC25TrafficRefreshPeriodErrora">`MapContentSettings.TrafficRefreshPeriodError`</a> <a href="sdk-for-ios-explore-classes-mapcontentsettings#sdk-for-ios-explore-s-7heresdk18MapContentSettingsC25TrafficRefreshPeriodErrora">`MapContentSettings.TrafficRefreshPeriodError`</a> indicates what went wrong.
 
   </div>
 
@@ -774,10 +770,8 @@ Provides settings regarding map data which are applied globally to all map views
   Swift
 
   ``` highlight
-  public static func setTrafficRefreshPeriod ( _ value : TimeInterval ) throws
+  public static func setTrafficRefreshPeriod(_ value: TimeInterval) throws
   ```
-
-  </pre>
 
   </div>
 
@@ -810,7 +804,7 @@ Provides settings regarding map data which are applied globally to all map views
 
 - <div>
 
-      resetTrafficRefreshPeriod()
+   <span id="sdk-for-ios-explore-s-7heresdk18MapContentSettingsC25resetTrafficRefreshPeriodyyFZ"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-resetTrafficRefreshPeriod" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapcontentsettings#sdk-for-ios-explore-s-7heresdk18MapContentSettingsC25resetTrafficRefreshPeriodyyFZ" class="token"><code>resetTrafficRefreshPeriod()</code></a> 
 
   </div>
 
@@ -841,10 +835,8 @@ Provides settings regarding map data which are applied globally to all map views
   Swift
 
   ``` highlight
-  public static func resetTrafficRefreshPeriod ()
+  public static func resetTrafficRefreshPeriod()
   ```
-
-  </pre>
 
   </div>
 

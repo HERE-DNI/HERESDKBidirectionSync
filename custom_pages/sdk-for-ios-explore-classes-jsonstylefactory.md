@@ -37,7 +37,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-  ` `<span id="/s:7heresdk16JsonStyleFactoryC18InstantiationErrora"></span>` `<span id="//apple_ref/swift/Alias/InstantiationError" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-jsonstylefactory#/s:7heresdk16JsonStyleFactoryC18InstantiationErrora" class="token"><code>InstantiationError</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16JsonStyleFactoryC18InstantiationErrora"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Alias-InstantiationError" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-jsonstylefactory#sdk-for-ios-explore-s-7heresdk16JsonStyleFactoryC18InstantiationErrora" class="token"><code>InstantiationError</code></a> 
 
   </div>
 
@@ -73,6 +73,10 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-jsonstylefactory-instantiationerrordetails">InstantiationErrorDetails</a>
+
   </div>
 
   </div>
@@ -81,7 +85,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-  ` `<span id="/s:7heresdk16JsonStyleFactoryC22InstantiationErrorCodeO"></span>` `<span id="//apple_ref/swift/Enum/InstantiationErrorCode" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-jsonstylefactory#/s:7heresdk16JsonStyleFactoryC22InstantiationErrorCodeO" class="token"><code>InstantiationErrorCode</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16JsonStyleFactoryC22InstantiationErrorCodeO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-InstantiationErrorCode" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-jsonstylefactory#sdk-for-ios-explore-s-7heresdk16JsonStyleFactoryC22InstantiationErrorCodeO" class="token"><code>InstantiationErrorCode</code></a> 
 
   </div>
 
@@ -127,7 +131,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-  ` `<span id="/s:7heresdk16JsonStyleFactoryC25InstantiationErrorDetailsV"></span>` `<span id="//apple_ref/swift/Struct/InstantiationErrorDetails" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-jsonstylefactory#/s:7heresdk16JsonStyleFactoryC25InstantiationErrorDetailsV" class="token"><code>InstantiationErrorDetails</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16JsonStyleFactoryC25InstantiationErrorDetailsV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-InstantiationErrorDetails" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-jsonstylefactory#sdk-for-ios-explore-s-7heresdk16JsonStyleFactoryC25InstantiationErrorDetailsV" class="token"><code>InstantiationErrorDetails</code></a> 
 
   </div>
 
@@ -169,6 +173,10 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-jsonstylefactory">JsonStyleFactory</a>
+
   </div>
 
   </div>
@@ -177,7 +185,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      createFromString(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk16JsonStyleFactoryC16createFromStringyAA0C0CSSKFZ"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-createFromString-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-jsonstylefactory#sdk-for-ios-explore-s-7heresdk16JsonStyleFactoryC16createFromStringyAA0C0CSSKFZ" class="token"><code>createFromString(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -201,7 +209,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
   Throws
 
-  <a href="sdk-for-ios-explore-classes-jsonstylefactory#/s:7heresdk16JsonStyleFactoryC18InstantiationErrora">`JsonStyleFactory.InstantiationError`</a> Indicates failure to create <a href="sdk-for-ios-explore-classes-style">`Style`</a> from JSON string.
+  <a href="sdk-for-ios-explore-classes-jsonstylefactory#sdk-for-ios-explore-s-7heresdk16JsonStyleFactoryC18InstantiationErrora">`JsonStyleFactory.InstantiationError`</a> Indicates failure to create <a href="sdk-for-ios-explore-classes-style">`Style`</a> from JSON string.
 
   </div>
 
@@ -216,12 +224,14 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public static func createFromString ( _ styleString : String ) throws -> Style
+  public static func createFromString(_ styleString: String) throws -> Style
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-style">Style</a>
 
   </div>
 

@@ -35,7 +35,7 @@ Holds information to which part of the text, input query was matched. The first 
 
 - <div>
 
-  ` `<span id="/s:7heresdk10IndexRangeC5starts5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/start" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-indexrange#/s:7heresdk10IndexRangeC5starts5Int32Vvp" class="token"><code>start</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10IndexRangeC5starts5Int32Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-start" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-indexrange#sdk-for-ios-explore-s-7heresdk10IndexRangeC5starts5Int32Vvp" class="token"><code>start</code></a> 
 
   </div>
 
@@ -79,7 +79,7 @@ Holds information to which part of the text, input query was matched. The first 
 
 - <div>
 
-  ` `<span id="/s:7heresdk10IndexRangeC3ends5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/end" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-indexrange#/s:7heresdk10IndexRangeC3ends5Int32Vvp" class="token"><code>end</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10IndexRangeC3ends5Int32Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-end" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-indexrange#sdk-for-ios-explore-s-7heresdk10IndexRangeC3ends5Int32Vvp" class="token"><code>end</code></a> 
 
   </div>
 

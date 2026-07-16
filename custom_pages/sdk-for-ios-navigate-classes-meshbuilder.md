@@ -32,10 +32,33 @@ Note: Normals cannot be set as they are not necessary when using the `MeshBuilde
 **Example how to build a cube using <a href="sdk-for-ios-navigate-classes-quadmeshbuilder">`QuadMeshBuilder`</a>**
 
 ``` highlight
-let cube = MeshBuilder () . quad ( a : Point3D ( x : 0.5 , y : 0.5 , z : 0.5 ), b : Point3D ( x : - 0.5 , y : 0.5 , z : 0.5 ), c : Point3D ( x : 0.5 , y : - 0.5 , z : 0.5 ), d : Point3D ( x : - 0.5 , y : - 0.5 , z : 0.5 )) . quad ( a : Point3D ( x : - 0.5 , y : 0.5 , z : - 0.5 ), b : Point3D ( x : 0.5 , y : 0.5 , z : - 0.5 ), c : Point3D ( x : - 0.5 , y : - 0.5 , z : - 0.5 ), d : Point3D ( x : 0.5 , y : - 0.5 , z : - 0.5 )) . quad ( a : Point3D ( x : 0.5 , y : 0.5 , z : - 0.5 ), b : Point3D ( x : 0.5 , y : 0.5 , z : 0.5 ), c : Point3D ( x : 0.5 , y : - 0.5 , z : - 0.5 ), d : Point3D ( x : 0.5 , y : - 0.5 , z : 0.5 )) . quad ( a : Point3D ( x : - 0.5 , y : 0.5 , z : 0.5 ), b : Point3D ( x : - 0.5 , y : 0.5 , z : - 0.5 ), c : Point3D ( x : - 0.5 , y : - 0.5 , z : 0.5 ), d : Point3D ( x : - 0.5 , y : - 0.5 , z : - 0.5 )) . quad ( a : Point3D ( x : - 0.5 , y : 0.5 , z : 0.5 ), b : Point3D ( x : 0.5 , y : 0.5 , z : 0.5 ), c : Point3D ( x : - 0.5 , y : 0.5 , z : - 0.5 ), d : Point3D ( x : 0.5 , y : 0.5 , z : - 0.5 )) . quad ( a : Point3D ( x : 0.5 , y : - 0.5 , z : 0.5 ), b : Point3D ( x : - 0.5 , y : - 0.5 , z : 0.5 ), c : Point3D ( x : 0.5 , y : - 0.5 , z : - 0.5 ), d : Point3D ( x : - 0.5 , y : - 0.5 , z : - 0.5 )) . build ()
+let cube = MeshBuilder()
+    .quad(a: Point3D(x: 0.5, y: 0.5, z: 0.5),
+          b: Point3D(x: -0.5, y: 0.5, z: 0.5),
+          c: Point3D(x: 0.5, y: -0.5, z: 0.5),
+          d: Point3D(x: -0.5, y: -0.5, z: 0.5))
+    .quad(a: Point3D(x: -0.5, y: 0.5, z: -0.5),
+          b: Point3D(x: 0.5, y: 0.5, z: -0.5),
+          c: Point3D(x: -0.5, y: -0.5, z: -0.5),
+          d: Point3D(x: 0.5, y: -0.5, z: -0.5))
+    .quad(a: Point3D(x: 0.5, y: 0.5, z: -0.5),
+          b: Point3D(x: 0.5, y: 0.5, z: 0.5),
+          c: Point3D(x: 0.5, y: -0.5, z: -0.5),
+          d: Point3D(x: 0.5, y: -0.5, z: 0.5))
+    .quad(a: Point3D(x: -0.5, y: 0.5, z: 0.5),
+          b: Point3D(x: -0.5, y: 0.5, z: -0.5),
+          c: Point3D(x: -0.5, y: -0.5, z: 0.5),
+          d: Point3D(x: -0.5, y: -0.5, z: -0.5))
+    .quad(a: Point3D(x: -0.5, y: 0.5, z: 0.5),
+          b: Point3D(x: 0.5, y: 0.5, z: 0.5),
+          c: Point3D(x: -0.5, y: 0.5, z: -0.5),
+          d: Point3D(x: 0.5, y: 0.5, z: -0.5))
+    .quad(a: Point3D(x: 0.5, y: -0.5, z: 0.5),
+          b: Point3D(x: -0.5, y: -0.5, z: 0.5),
+          c: Point3D(x: 0.5, y: -0.5, z: -0.5),
+          d: Point3D(x: -0.5, y: -0.5, z: -0.5))
+    .build()
 ```
-
-</pre>
 
 </div>
 
@@ -45,7 +68,7 @@ let cube = MeshBuilder () . quad ( a : Point3D ( x : 0.5 , y : 0.5 , z : 0.5 ), 
 
 - <div>
 
-      init()
+   <span id="sdk-for-ios-navigate-s-7heresdk11MeshBuilderCACycfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-meshbuilder#sdk-for-ios-navigate-s-7heresdk11MeshBuilderCACycfc" class="token"><code>init()</code></a> 
 
   </div>
 
@@ -76,10 +99,8 @@ let cube = MeshBuilder () . quad ( a : Point3D ( x : 0.5 , y : 0.5 , z : 0.5 ), 
   Swift
 
   ``` highlight
-  public init ()
+  public init()
   ```
-
-  </pre>
 
   </div>
 
@@ -91,7 +112,7 @@ let cube = MeshBuilder () . quad ( a : Point3D ( x : 0.5 , y : 0.5 , z : 0.5 ), 
 
 - <div>
 
-      triangle(a: b: c: )
+   <span id="sdk-for-ios-navigate-s-7heresdk11MeshBuilderC8triangle1a1b1cAA08TrianglebC0CAA7Point3DV_A2KtF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-triangle-a-b-c" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-meshbuilder#sdk-for-ios-navigate-s-7heresdk11MeshBuilderC8triangle1a1b1cAA08TrianglebC0CAA7Point3DV_A2KtF" class="token"><code>triangle(a:</code><wbr></wbr><code>b:</code><wbr></wbr><code>c:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -124,12 +145,15 @@ let cube = MeshBuilder () . quad ( a : Point3D ( x : 0.5 , y : 0.5 , z : 0.5 ), 
   Swift
 
   ``` highlight
-  public func triangle ( a : Point3D , b : Point3D , c : Point3D ) -> TriangleMeshBuilder
+  public func triangle(a: Point3D, b: Point3D, c: Point3D) -> TriangleMeshBuilder
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-point3d">Point3D</a>
+  - <a href="sdk-for-ios-navigate-classes-trianglemeshbuilder">TriangleMeshBuilder</a>
 
   </div>
 
@@ -180,7 +204,7 @@ let cube = MeshBuilder () . quad ( a : Point3D ( x : 0.5 , y : 0.5 , z : 0.5 ), 
 
 - <div>
 
-      quad(a: b: c: d: )
+   <span id="sdk-for-ios-navigate-s-7heresdk11MeshBuilderC4quad1a1b1c1dAA04QuadbC0CAA7Point3DV_A3LtF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-quad-a-b-c-d" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-meshbuilder#sdk-for-ios-navigate-s-7heresdk11MeshBuilderC4quad1a1b1c1dAA04QuadbC0CAA7Point3DV_A3LtF" class="token"><code>quad(a:</code><wbr></wbr><code>b:</code><wbr></wbr><code>c:</code><wbr></wbr><code>d:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -213,12 +237,15 @@ let cube = MeshBuilder () . quad ( a : Point3D ( x : 0.5 , y : 0.5 , z : 0.5 ), 
   Swift
 
   ``` highlight
-  public func quad ( a : Point3D , b : Point3D , c : Point3D , d : Point3D ) -> QuadMeshBuilder
+  public func quad(a: Point3D, b: Point3D, c: Point3D, d: Point3D) -> QuadMeshBuilder
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-point3d">Point3D</a>
+  - <a href="sdk-for-ios-navigate-classes-quadmeshbuilder">QuadMeshBuilder</a>
 
   </div>
 
@@ -275,7 +302,7 @@ let cube = MeshBuilder () . quad ( a : Point3D ( x : 0.5 , y : 0.5 , z : 0.5 ), 
 
 - <div>
 
-      build()
+   <span id="sdk-for-ios-navigate-s-7heresdk11MeshBuilderC5buildAA0B0CSgyF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-build" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-meshbuilder#sdk-for-ios-navigate-s-7heresdk11MeshBuilderC5buildAA0B0CSgyF" class="token"><code>build()</code></a> 
 
   </div>
 
@@ -304,12 +331,14 @@ let cube = MeshBuilder () . quad ( a : Point3D ( x : 0.5 , y : 0.5 , z : 0.5 ), 
   Swift
 
   ``` highlight
-  public func build () -> Mesh ?
+  public func build() -> Mesh?
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-maps#sdk-for-ios-navigate-s-7heresdk4MeshC">Mesh</a>
 
   </div>
 

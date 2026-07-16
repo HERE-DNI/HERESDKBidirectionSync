@@ -27,7 +27,7 @@ Electric vehicle charging pool details.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21EVChargingPoolDetailsV16evChargingOnSiteSbSgvp"></span>` `<span id="//apple_ref/swift/Property/evChargingOnSite" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-evchargingpooldetails#/s:7heresdk21EVChargingPoolDetailsV16evChargingOnSiteSbSgvp" class="token"><code>evChargingOnSite</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk21EVChargingPoolDetailsV16evChargingOnSiteSbSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-evChargingOnSite" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-evchargingpooldetails#sdk-for-ios-explore-s-7heresdk21EVChargingPoolDetailsV16evChargingOnSiteSbSgvp" class="token"><code>evChargingOnSite</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Electric vehicle charging pool details.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21EVChargingPoolDetailsV9evNetworkSSSgvp"></span>` `<span id="//apple_ref/swift/Property/evNetwork" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-evchargingpooldetails#/s:7heresdk21EVChargingPoolDetailsV9evNetworkSSSgvp" class="token"><code>evNetwork</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk21EVChargingPoolDetailsV9evNetworkSSSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-evNetwork" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-evchargingpooldetails#sdk-for-ios-explore-s-7heresdk21EVChargingPoolDetailsV9evNetworkSSSgvp" class="token"><code>evNetwork</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Electric vehicle charging pool details.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21EVChargingPoolDetailsV16ownerInformationSSSgvp"></span>` `<span id="//apple_ref/swift/Property/ownerInformation" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-evchargingpooldetails#/s:7heresdk21EVChargingPoolDetailsV16ownerInformationSSSgvp" class="token"><code>ownerInformation</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk21EVChargingPoolDetailsV16ownerInformationSSSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-ownerInformation" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-evchargingpooldetails#sdk-for-ios-explore-s-7heresdk21EVChargingPoolDetailsV16ownerInformationSSSgvp" class="token"><code>ownerInformation</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Electric vehicle charging pool details.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21EVChargingPoolDetailsV10reservableSbSgvp"></span>` `<span id="//apple_ref/swift/Property/reservable" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-evchargingpooldetails#/s:7heresdk21EVChargingPoolDetailsV10reservableSbSgvp" class="token"><code>reservable</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk21EVChargingPoolDetailsV10reservableSbSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-reservable" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-evchargingpooldetails#sdk-for-ios-explore-s-7heresdk21EVChargingPoolDetailsV10reservableSbSgvp" class="token"><code>reservable</code></a> 
 
   </div>
 
@@ -203,7 +203,7 @@ Electric vehicle charging pool details.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21EVChargingPoolDetailsV21totalNumberOfStationss6UInt32VSgvp"></span>` `<span id="//apple_ref/swift/Property/totalNumberOfStations" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-evchargingpooldetails#/s:7heresdk21EVChargingPoolDetailsV21totalNumberOfStationss6UInt32VSgvp" class="token"><code>totalNumberOfStations</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk21EVChargingPoolDetailsV21totalNumberOfStationss6UInt32VSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-totalNumberOfStations" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-evchargingpooldetails#sdk-for-ios-explore-s-7heresdk21EVChargingPoolDetailsV21totalNumberOfStationss6UInt32VSgvp" class="token"><code>totalNumberOfStations</code></a> 
 
   </div>
 
@@ -247,7 +247,7 @@ Electric vehicle charging pool details.
 
 - <div>
 
-      init(evChargingOnSite: evNetwork: ownerInformation: reservable: totalNumberOfStations: )
+   <span id="sdk-for-ios-explore-s-7heresdk21EVChargingPoolDetailsV16evChargingOnSite0E7Network16ownerInformation10reservable21totalNumberOfStationsACSbSg_SSSgAjIs6UInt32VSgtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-evChargingOnSite-evNetwork-ownerInformation-reservable-totalNumberOfStations" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-evchargingpooldetails#sdk-for-ios-explore-s-7heresdk21EVChargingPoolDetailsV16evChargingOnSite0E7Network16ownerInformation10reservable21totalNumberOfStationsACSbSg_SSSgAjIs6UInt32VSgtcfc" class="token"><code>init(evChargingOnSite:</code><wbr></wbr><code>evNetwork:</code><wbr></wbr><code>ownerInformation:</code><wbr></wbr><code>reservable:</code><wbr></wbr><code>totalNumberOfStations:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -265,7 +265,7 @@ Electric vehicle charging pool details.
 
   <div class="abstract">
 
-  Creates a new instance. For offline EV rich attributes, also enable <a href="sdk-for-ios-explore-structs-layerconfiguration-feature#/s:7heresdk18LayerConfigurationV7FeatureO2evyA2EmF">`LayerConfiguration.Feature.ev`</a> in <a href="sdk-for-ios-explore-structs-sdkoptions#/s:7heresdk10SDKOptionsV18layerConfigurationAA05LayerD0Vvp">`SDKOptions.layerConfiguration`</a>.
+  Creates a new instance. For offline EV rich attributes, also enable <a href="sdk-for-ios-explore-structs-layerconfiguration-feature#sdk-for-ios-explore-s-7heresdk18LayerConfigurationV7FeatureO2evyA2EmF">`LayerConfiguration.Feature.ev`</a> in <a href="sdk-for-ios-explore-structs-sdkoptions#sdk-for-ios-explore-s-7heresdk10SDKOptionsV18layerConfigurationAA05LayerD0Vvp">`SDKOptions.layerConfiguration`</a>.
 
   </div>
 
@@ -278,10 +278,8 @@ Electric vehicle charging pool details.
   Swift
 
   ``` highlight
-  public init ( evChargingOnSite : Bool ? = nil , evNetwork : String ? = nil , ownerInformation : String ? = nil , reservable : Bool ? = nil , totalNumberOfStations : UInt32 ? = nil )
+  public init(evChargingOnSite: Bool? = nil, evNetwork: String? = nil, ownerInformation: String? = nil, reservable: Bool? = nil, totalNumberOfStations: UInt32? = nil)
   ```
-
-  </pre>
 
   </div>
 

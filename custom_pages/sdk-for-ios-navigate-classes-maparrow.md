@@ -39,7 +39,7 @@ Altitude component of <a href="sdk-for-ios-navigate-structs-geopolyline">`GeoPol
 
 - <div>
 
-      init(geometry: widthInPixels: color: )
+   <span id="sdk-for-ios-navigate-s-7heresdk8MapArrowC8geometry13widthInPixels5colorAcA11GeoPolylineV_SdSo7UIColorCtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-geometry-widthInPixels-color" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-maparrow#sdk-for-ios-navigate-s-7heresdk8MapArrowC8geometry13widthInPixels5colorAcA11GeoPolylineV_SdSo7UIColorCtcfc" class="token"><code>init(geometry:</code><wbr></wbr><code>widthInPixels:</code><wbr></wbr><code>color:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -72,12 +72,14 @@ Altitude component of <a href="sdk-for-ios-navigate-structs-geopolyline">`GeoPol
   Swift
 
   ``` highlight
-  public init ( geometry : GeoPolyline , widthInPixels : Double , color : UIColor )
+  public init(geometry: GeoPolyline, widthInPixels: Double, color: UIColor)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-geopolyline">GeoPolyline</a>
 
   </div>
 
@@ -120,7 +122,7 @@ Altitude component of <a href="sdk-for-ios-navigate-structs-geopolyline">`GeoPol
 
 - <div>
 
-  ` `<span id="/s:7heresdk8MapArrowC25measureDependentTailWidthSDyAA0B7MeasureVSdGvp"></span>` `<span id="//apple_ref/swift/Property/measureDependentTailWidth" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-maparrow#/s:7heresdk8MapArrowC25measureDependentTailWidthSDyAA0B7MeasureVSdGvp" class="token"><code>measureDependentTailWidth</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8MapArrowC25measureDependentTailWidthSDyAA0B7MeasureVSdGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-measureDependentTailWidth" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-maparrow#sdk-for-ios-navigate-s-7heresdk8MapArrowC25measureDependentTailWidthSDyAA0B7MeasureVSdGvp" class="token"><code>measureDependentTailWidth</code></a> 
 
   </div>
 
@@ -140,7 +142,7 @@ Altitude component of <a href="sdk-for-ios-navigate-structs-geopolyline">`GeoPol
 
   The width of the arrow tail in pixels, where the key is a <a href="sdk-for-ios-navigate-structs-mapmeasure">`MapMeasure`</a> and the value is a tail width in pixels at this <a href="sdk-for-ios-navigate-structs-mapmeasure">`MapMeasure`</a>. The width values are linearly interpolated between nearest dictionary entries. Width values for <a href="sdk-for-ios-navigate-structs-mapmeasure">`MapMeasure`</a> outside the dictionary entries are kept constant, using the value of the largest/smallest key.
 
-  Only <a href="sdk-for-ios-navigate-structs-mapmeasure">`MapMeasure`</a> of <a href="sdk-for-ios-navigate-structs-mapmeasure-kind#/s:7heresdk10MapMeasureV4KindO9zoomLevelyA2EmF">`MapMeasure.Kind.zoomLevel`</a> type is supported. Other <a href="sdk-for-ios-navigate-structs-mapmeasure">`MapMeasure`</a> types are unsupported and hence, will be ignored.
+  Only <a href="sdk-for-ios-navigate-structs-mapmeasure">`MapMeasure`</a> of <a href="sdk-for-ios-navigate-structs-mapmeasure-kind#sdk-for-ios-navigate-s-7heresdk10MapMeasureV4KindO9zoomLevelyA2EmF">`MapMeasure.Kind.zoomLevel`</a> type is supported. Other <a href="sdk-for-ios-navigate-structs-mapmeasure">`MapMeasure`</a> types are unsupported and hence, will be ignored.
 
   `measureDependentTailWidth` with a single entry is equivalent to the use of the `widthInPixels` value in the constructor, so a constant width setting, independent of camera.
 
@@ -166,6 +168,10 @@ Altitude component of <a href="sdk-for-ios-navigate-structs-geopolyline">`GeoPol
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-mapmeasure">MapMeasure</a>
+
   </div>
 
   </div>
@@ -174,7 +180,7 @@ Altitude component of <a href="sdk-for-ios-navigate-structs-geopolyline">`GeoPol
 
 - <div>
 
-  ` `<span id="/s:7heresdk8MapArrowC16visibilityRangesSayAA0B12MeasureRangeVGvp"></span>` `<span id="//apple_ref/swift/Property/visibilityRanges" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-maparrow#/s:7heresdk8MapArrowC16visibilityRangesSayAA0B12MeasureRangeVGvp" class="token"><code>visibilityRanges</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8MapArrowC16visibilityRangesSayAA0B12MeasureRangeVGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-visibilityRanges" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-maparrow#sdk-for-ios-navigate-s-7heresdk8MapArrowC16visibilityRangesSayAA0B12MeasureRangeVGvp" class="token"><code>visibilityRanges</code></a> 
 
   </div>
 
@@ -194,7 +200,7 @@ Altitude component of <a href="sdk-for-ios-navigate-structs-geopolyline">`GeoPol
 
   The list of visibility ranges, in which the map arrow is visible. A range is half-open - \<a href="sdk-for-ios-navigate-structs-mapmeasurerange">minimumZoomLevel, maximumZoomLevel), the given maximum value is not contained in the range.
 
-  When empty (the default), the map arrows are visible without map measure restrictions. Only [`MapMeasureRange`</a>(s) of <a href="sdk-for-ios-navigate-structs-mapmeasure-kind#/s:7heresdk10MapMeasureV4KindO9zoomLevelyA2EmF">`MapMeasure.Kind.zoomLevel`</a> type are supported. <a href="sdk-for-ios-navigate-structs-mapmeasurerange">`MapMeasureRange`</a>(s) of other unsupported types will be ignored.}
+  When empty (the default), the map arrows are visible without map measure restrictions. Only [`MapMeasureRange`</a>(s) of <a href="sdk-for-ios-navigate-structs-mapmeasure-kind#sdk-for-ios-navigate-s-7heresdk10MapMeasureV4KindO9zoomLevelyA2EmF">`MapMeasure.Kind.zoomLevel`</a> type are supported. <a href="sdk-for-ios-navigate-structs-mapmeasurerange">`MapMeasureRange`</a>(s) of other unsupported types will be ignored.}
 
   </div>
 
@@ -211,6 +217,10 @@ Altitude component of <a href="sdk-for-ios-navigate-structs-geopolyline">`GeoPol
   ```
 
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-mapmeasurerange">MapMeasureRange</a>
 
   </div>
 

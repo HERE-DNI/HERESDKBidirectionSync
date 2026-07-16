@@ -25,7 +25,7 @@ extension LineDataBuilder: Hashable
 
 </div>
 
-Builder of <a href="sdk-for-ios-explore-maploader#/s:7heresdk8LineDataC">`LineData`</a> instances.
+Builder of <a href="sdk-for-ios-explore-maploader#sdk-for-ios-explore-s-7heresdk8LineDataC">`LineData`</a> instances.
 
 Note: This is a beta release of this feature, so there could be a few bugs and unexpected behavior. Related APIs may change for new releases without a deprecation process.
 
@@ -37,7 +37,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      init()
+   <span id="sdk-for-ios-explore-s-7heresdk15LineDataBuilderCACycfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-linedatabuilder#sdk-for-ios-explore-s-7heresdk15LineDataBuilderCACycfc" class="token"><code>init()</code></a> 
 
   </div>
 
@@ -68,10 +68,8 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public init ()
+  public init()
   ```
-
-  </pre>
 
   </div>
 
@@ -83,7 +81,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      withGeometry(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk15LineDataBuilderC12withGeometryyAcA11GeoPolylineVF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-withGeometry-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-linedatabuilder#sdk-for-ios-explore-s-7heresdk15LineDataBuilderC12withGeometryyAcA11GeoPolylineVF" class="token"><code>withGeometry(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -114,12 +112,14 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func withGeometry ( _ geometry : GeoPolyline ) -> LineDataBuilder
+  public func withGeometry(_ geometry: GeoPolyline) -> LineDataBuilder
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geopolyline">GeoPolyline</a>
 
   </div>
 
@@ -158,7 +158,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      withAttributes(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk15LineDataBuilderC14withAttributesyAcA0cF0CF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-withAttributes-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-linedatabuilder#sdk-for-ios-explore-s-7heresdk15LineDataBuilderC14withAttributesyAcA0cF0CF" class="token"><code>withAttributes(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -189,12 +189,14 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func withAttributes ( _ attributes : DataAttributes ) -> LineDataBuilder
+  public func withAttributes(_ attributes: DataAttributes) -> LineDataBuilder
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-dataattributes">DataAttributes</a>
 
   </div>
 
@@ -233,7 +235,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      build()
+   <span id="sdk-for-ios-explore-s-7heresdk15LineDataBuilderC5buildAA0bC0CyF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-build" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-linedatabuilder#sdk-for-ios-explore-s-7heresdk15LineDataBuilderC5buildAA0bC0CyF" class="token"><code>build()</code></a> 
 
   </div>
 
@@ -251,7 +253,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
   <div class="abstract">
 
-  Builds an instance of <a href="sdk-for-ios-explore-maploader#/s:7heresdk8LineDataC">`LineData`</a> and resets the builder instance.
+  Builds an instance of <a href="sdk-for-ios-explore-maploader#sdk-for-ios-explore-s-7heresdk8LineDataC">`LineData`</a> and resets the builder instance.
 
   </div>
 
@@ -264,12 +266,14 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func build () -> LineData
+  public func build() -> LineData
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-maploader#sdk-for-ios-explore-s-7heresdk8LineDataC">LineData</a>
 
   </div>
 
@@ -277,7 +281,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
   #### Return Value
 
-  Instance of <a href="sdk-for-ios-explore-maploader#/s:7heresdk8LineDataC">`LineData`</a> created with the configured parameters.
+  Instance of <a href="sdk-for-ios-explore-maploader#sdk-for-ios-explore-s-7heresdk8LineDataC">`LineData`</a> created with the configured parameters.
 
   </div>
 

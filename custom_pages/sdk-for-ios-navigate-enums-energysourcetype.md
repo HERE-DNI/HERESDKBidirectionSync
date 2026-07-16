@@ -27,7 +27,7 @@ Represents energy source type. EnergySource contains this representing the type 
 
 - <div>
 
-  ` `<span id="/s:7heresdk16EnergySourceTypeO7nuclearyA2CmF"></span>` `<span id="//apple_ref/swift/Element/nuclear" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-energysourcetype#/s:7heresdk16EnergySourceTypeO7nuclearyA2CmF" class="token"><code>nuclear</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16EnergySourceTypeO7nuclearyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-nuclear" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-energysourcetype#sdk-for-ios-navigate-s-7heresdk16EnergySourceTypeO7nuclearyA2CmF" class="token"><code>nuclear</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Represents energy source type. EnergySource contains this representing the type 
 
 - <div>
 
-  ` `<span id="/s:7heresdk16EnergySourceTypeO13generalFossilyA2CmF"></span>` `<span id="//apple_ref/swift/Element/generalFossil" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-energysourcetype#/s:7heresdk16EnergySourceTypeO13generalFossilyA2CmF" class="token"><code>generalFossil</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16EnergySourceTypeO13generalFossilyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-generalFossil" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-energysourcetype#sdk-for-ios-navigate-s-7heresdk16EnergySourceTypeO13generalFossilyA2CmF" class="token"><code>generalFossil</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Represents energy source type. EnergySource contains this representing the type 
 
 - <div>
 
-  ` `<span id="/s:7heresdk16EnergySourceTypeO4coalyA2CmF"></span>` `<span id="//apple_ref/swift/Element/coal" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-energysourcetype#/s:7heresdk16EnergySourceTypeO4coalyA2CmF" class="token"><code>coal</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16EnergySourceTypeO4coalyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-coal" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-energysourcetype#sdk-for-ios-navigate-s-7heresdk16EnergySourceTypeO4coalyA2CmF" class="token"><code>coal</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Represents energy source type. EnergySource contains this representing the type 
 
 - <div>
 
-  ` `<span id="/s:7heresdk16EnergySourceTypeO3gasyA2CmF"></span>` `<span id="//apple_ref/swift/Element/gas" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-energysourcetype#/s:7heresdk16EnergySourceTypeO3gasyA2CmF" class="token"><code>gas</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16EnergySourceTypeO3gasyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-gas" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-energysourcetype#sdk-for-ios-navigate-s-7heresdk16EnergySourceTypeO3gasyA2CmF" class="token"><code>gas</code></a> 
 
   </div>
 
@@ -203,7 +203,7 @@ Represents energy source type. EnergySource contains this representing the type 
 
 - <div>
 
-  ` `<span id="/s:7heresdk16EnergySourceTypeO12generalGreenyA2CmF"></span>` `<span id="//apple_ref/swift/Element/generalGreen" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-energysourcetype#/s:7heresdk16EnergySourceTypeO12generalGreenyA2CmF" class="token"><code>generalGreen</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16EnergySourceTypeO12generalGreenyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-generalGreen" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-energysourcetype#sdk-for-ios-navigate-s-7heresdk16EnergySourceTypeO12generalGreenyA2CmF" class="token"><code>generalGreen</code></a> 
 
   </div>
 
@@ -247,7 +247,7 @@ Represents energy source type. EnergySource contains this representing the type 
 
 - <div>
 
-  ` `<span id="/s:7heresdk16EnergySourceTypeO5solaryA2CmF"></span>` `<span id="//apple_ref/swift/Element/solar" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-energysourcetype#/s:7heresdk16EnergySourceTypeO5solaryA2CmF" class="token"><code>solar</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16EnergySourceTypeO5solaryA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-solar" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-energysourcetype#sdk-for-ios-navigate-s-7heresdk16EnergySourceTypeO5solaryA2CmF" class="token"><code>solar</code></a> 
 
   </div>
 
@@ -291,7 +291,7 @@ Represents energy source type. EnergySource contains this representing the type 
 
 - <div>
 
-  ` `<span id="/s:7heresdk16EnergySourceTypeO4windyA2CmF"></span>` `<span id="//apple_ref/swift/Element/wind" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-energysourcetype#/s:7heresdk16EnergySourceTypeO4windyA2CmF" class="token"><code>wind</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16EnergySourceTypeO4windyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-wind" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-energysourcetype#sdk-for-ios-navigate-s-7heresdk16EnergySourceTypeO4windyA2CmF" class="token"><code>wind</code></a> 
 
   </div>
 
@@ -335,7 +335,7 @@ Represents energy source type. EnergySource contains this representing the type 
 
 - <div>
 
-  ` `<span id="/s:7heresdk16EnergySourceTypeO5wateryA2CmF"></span>` `<span id="//apple_ref/swift/Element/water" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-energysourcetype#/s:7heresdk16EnergySourceTypeO5wateryA2CmF" class="token"><code>water</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16EnergySourceTypeO5wateryA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-water" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-energysourcetype#sdk-for-ios-navigate-s-7heresdk16EnergySourceTypeO5wateryA2CmF" class="token"><code>water</code></a> 
 
   </div>
 

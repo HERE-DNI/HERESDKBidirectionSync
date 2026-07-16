@@ -29,7 +29,7 @@ Contains fuel additive information for generic fuel type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk12FuelAdditiveV4typeAA0bC4TypeOvp"></span>` `<span id="//apple_ref/swift/Property/type" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-fueladditive#/s:7heresdk12FuelAdditiveV4typeAA0bC4TypeOvp" class="token"><code>type</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12FuelAdditiveV4typeAA0bC4TypeOvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-type" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-fueladditive#sdk-for-ios-navigate-s-7heresdk12FuelAdditiveV4typeAA0bC4TypeOvp" class="token"><code>type</code></a> 
 
   </div>
 
@@ -65,6 +65,10 @@ Contains fuel additive information for generic fuel type.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-fueladditivetype">FuelAdditiveType</a>
+
   </div>
 
   </div>
@@ -73,7 +77,7 @@ Contains fuel additive information for generic fuel type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk12FuelAdditiveV15availableInCansSbSgvp"></span>` `<span id="//apple_ref/swift/Property/availableInCans" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-fueladditive#/s:7heresdk12FuelAdditiveV15availableInCansSbSgvp" class="token"><code>availableInCans</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12FuelAdditiveV15availableInCansSbSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-availableInCans" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-fueladditive#sdk-for-ios-navigate-s-7heresdk12FuelAdditiveV15availableInCansSbSgvp" class="token"><code>availableInCans</code></a> 
 
   </div>
 
@@ -117,7 +121,7 @@ Contains fuel additive information for generic fuel type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk12FuelAdditiveV15availableAtPumpSbSgvp"></span>` `<span id="//apple_ref/swift/Property/availableAtPump" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-fueladditive#/s:7heresdk12FuelAdditiveV15availableAtPumpSbSgvp" class="token"><code>availableAtPump</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12FuelAdditiveV15availableAtPumpSbSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-availableAtPump" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-fueladditive#sdk-for-ios-navigate-s-7heresdk12FuelAdditiveV15availableAtPumpSbSgvp" class="token"><code>availableAtPump</code></a> 
 
   </div>
 
@@ -161,7 +165,7 @@ Contains fuel additive information for generic fuel type.
 
 - <div>
 
-      init(type: availableInCans: availableAtPump: )
+   <span id="sdk-for-ios-navigate-s-7heresdk12FuelAdditiveV4type15availableInCans0E6AtPumpAcA0bC4TypeO_SbSgAItcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-type-availableInCans-availableAtPump" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-fueladditive#sdk-for-ios-navigate-s-7heresdk12FuelAdditiveV4type15availableInCans0E6AtPumpAcA0bC4TypeO_SbSgAItcfc" class="token"><code>init(type:</code><wbr></wbr><code>availableInCans:</code><wbr></wbr><code>availableAtPump:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -192,12 +196,14 @@ Contains fuel additive information for generic fuel type.
   Swift
 
   ``` highlight
-  public init ( type : FuelAdditiveType = FuelAdditiveType . aus32 , availableInCans : Bool ? = nil , availableAtPump : Bool ? = nil )
+  public init(type: FuelAdditiveType = FuelAdditiveType.aus32, availableInCans: Bool? = nil, availableAtPump: Bool? = nil)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-fueladditivetype">FuelAdditiveType</a>
 
   </div>
 

@@ -17,7 +17,7 @@ public enum GeoPolylineDirection : UInt32, CaseIterable, Codable
 
 </div>
 
-Defines if a function on a <a href="sdk-for-ios-explore-structs-geopolyline">`GeoPolyline`</a> computes the operation starting from the beginning or from the end of <a href="sdk-for-ios-explore-structs-geopolyline#/s:7heresdk11GeoPolylineV8verticesSayAA0B11CoordinatesVGvp">`GeoPolyline.vertices`</a>.
+Defines if a function on a <a href="sdk-for-ios-explore-structs-geopolyline">`GeoPolyline`</a> computes the operation starting from the beginning or from the end of <a href="sdk-for-ios-explore-structs-geopolyline#sdk-for-ios-explore-s-7heresdk11GeoPolylineV8verticesSayAA0B11CoordinatesVGvp">`GeoPolyline.vertices`</a>.
 
 </div>
 
@@ -27,7 +27,7 @@ Defines if a function on a <a href="sdk-for-ios-explore-structs-geopolyline">`Ge
 
 - <div>
 
-  ` `<span id="/s:7heresdk20GeoPolylineDirectionO13fromBeginningyA2CmF"></span>` `<span id="//apple_ref/swift/Element/fromBeginning" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-geopolylinedirection#/s:7heresdk20GeoPolylineDirectionO13fromBeginningyA2CmF" class="token"><code>fromBeginning</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk20GeoPolylineDirectionO13fromBeginningyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-fromBeginning" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-geopolylinedirection#sdk-for-ios-explore-s-7heresdk20GeoPolylineDirectionO13fromBeginningyA2CmF" class="token"><code>fromBeginning</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Defines if a function on a <a href="sdk-for-ios-explore-structs-geopolyline">`Ge
 
 - <div>
 
-  ` `<span id="/s:7heresdk20GeoPolylineDirectionO7fromEndyA2CmF"></span>` `<span id="//apple_ref/swift/Element/fromEnd" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-geopolylinedirection#/s:7heresdk20GeoPolylineDirectionO7fromEndyA2CmF" class="token"><code>fromEnd</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk20GeoPolylineDirectionO7fromEndyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-fromEnd" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-geopolylinedirection#sdk-for-ios-explore-s-7heresdk20GeoPolylineDirectionO7fromEndyA2CmF" class="token"><code>fromEnd</code></a> 
 
   </div>
 

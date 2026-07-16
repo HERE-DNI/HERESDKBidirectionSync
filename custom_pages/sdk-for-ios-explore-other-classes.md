@@ -15,7 +15,7 @@ The following classes are available globally.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15LocationManagerC"></span>` `<span id="//apple_ref/swift/Class/LocationManager" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-other-classes#/s:7heresdk15LocationManagerC" class="token"><code>LocationManager</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15LocationManagerC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-LocationManager" class="dashAnchor"></span> <a href="sdk-for-ios-explore-other-classes#sdk-for-ios-explore-s-7heresdk15LocationManagerC" class="token"><code>LocationManager</code></a> 
 
   </div>
 
@@ -63,6 +63,10 @@ The following classes are available globally.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-protocols-locationdelegate">LocationDelegate</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ The following classes are available globally.
 
 - <div>
 
-  ` `<span id="/s:7heresdk20IndoorSectionDetailsC"></span>` `<span id="//apple_ref/swift/Class/IndoorSectionDetails" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-other-classes#/s:7heresdk20IndoorSectionDetailsC" class="token"><code>IndoorSectionDetails</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk20IndoorSectionDetailsC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-IndoorSectionDetails" class="dashAnchor"></span> <a href="sdk-for-ios-explore-other-classes#sdk-for-ios-explore-s-7heresdk20IndoorSectionDetailsC" class="token"><code>IndoorSectionDetails</code></a> 
 
   </div>
 

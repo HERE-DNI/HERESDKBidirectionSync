@@ -17,7 +17,7 @@ public enum VehicleRestrictionMaxWeightType : UInt32, CaseIterable, Codable
 
 </div>
 
-This enum represents the specific type of the maximum permitted weight restriction. **NOTES:** A restriction of type <a href="sdk-for-ios-navigate-enums-vehiclerestrictionmaxweighttype#/s:7heresdk31VehicleRestrictionMaxWeightTypeO7unknownyA2CmF">`VehicleRestrictionMaxWeightType.unknown`</a> may change to <a href="sdk-for-ios-navigate-enums-vehiclerestrictionmaxweighttype#/s:7heresdk31VehicleRestrictionMaxWeightTypeO5grossyA2CmF">`VehicleRestrictionMaxWeightType.gross`</a>, <a href="sdk-for-ios-navigate-enums-vehiclerestrictionmaxweighttype#/s:7heresdk31VehicleRestrictionMaxWeightTypeO7currentyA2CmF">`VehicleRestrictionMaxWeightType.current`</a> or <a href="sdk-for-ios-navigate-enums-vehiclerestrictionmaxweighttype#/s:7heresdk31VehicleRestrictionMaxWeightTypeO5emptyyA2CmF">`VehicleRestrictionMaxWeightType.empty`</a> when data becomes available in future. A restriction of type <a href="sdk-for-ios-navigate-enums-vehiclerestrictionmaxweighttype#/s:7heresdk31VehicleRestrictionMaxWeightTypeO5grossyA2CmF">`VehicleRestrictionMaxWeightType.gross`</a>, <a href="sdk-for-ios-navigate-enums-vehiclerestrictionmaxweighttype#/s:7heresdk31VehicleRestrictionMaxWeightTypeO7currentyA2CmF">`VehicleRestrictionMaxWeightType.current`</a> or <a href="sdk-for-ios-navigate-enums-vehiclerestrictionmaxweighttype#/s:7heresdk31VehicleRestrictionMaxWeightTypeO5emptyyA2CmF">`VehicleRestrictionMaxWeightType.empty`</a> may also change to a different type if actual regulation changes.
+This enum represents the specific type of the maximum permitted weight restriction. **NOTES:** A restriction of type <a href="sdk-for-ios-navigate-enums-vehiclerestrictionmaxweighttype#sdk-for-ios-navigate-s-7heresdk31VehicleRestrictionMaxWeightTypeO7unknownyA2CmF">`VehicleRestrictionMaxWeightType.unknown`</a> may change to <a href="sdk-for-ios-navigate-enums-vehiclerestrictionmaxweighttype#sdk-for-ios-navigate-s-7heresdk31VehicleRestrictionMaxWeightTypeO5grossyA2CmF">`VehicleRestrictionMaxWeightType.gross`</a>, <a href="sdk-for-ios-navigate-enums-vehiclerestrictionmaxweighttype#sdk-for-ios-navigate-s-7heresdk31VehicleRestrictionMaxWeightTypeO7currentyA2CmF">`VehicleRestrictionMaxWeightType.current`</a> or <a href="sdk-for-ios-navigate-enums-vehiclerestrictionmaxweighttype#sdk-for-ios-navigate-s-7heresdk31VehicleRestrictionMaxWeightTypeO5emptyyA2CmF">`VehicleRestrictionMaxWeightType.empty`</a> when data becomes available in future. A restriction of type <a href="sdk-for-ios-navigate-enums-vehiclerestrictionmaxweighttype#sdk-for-ios-navigate-s-7heresdk31VehicleRestrictionMaxWeightTypeO5grossyA2CmF">`VehicleRestrictionMaxWeightType.gross`</a>, <a href="sdk-for-ios-navigate-enums-vehiclerestrictionmaxweighttype#sdk-for-ios-navigate-s-7heresdk31VehicleRestrictionMaxWeightTypeO7currentyA2CmF">`VehicleRestrictionMaxWeightType.current`</a> or <a href="sdk-for-ios-navigate-enums-vehiclerestrictionmaxweighttype#sdk-for-ios-navigate-s-7heresdk31VehicleRestrictionMaxWeightTypeO5emptyyA2CmF">`VehicleRestrictionMaxWeightType.empty`</a> may also change to a different type if actual regulation changes.
 
 </div>
 
@@ -27,7 +27,7 @@ This enum represents the specific type of the maximum permitted weight restricti
 
 - <div>
 
-  ` `<span id="/s:7heresdk31VehicleRestrictionMaxWeightTypeO7unknownyA2CmF"></span>` `<span id="//apple_ref/swift/Element/unknown" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-vehiclerestrictionmaxweighttype#/s:7heresdk31VehicleRestrictionMaxWeightTypeO7unknownyA2CmF" class="token"><code>unknown</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk31VehicleRestrictionMaxWeightTypeO7unknownyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-unknown" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-vehiclerestrictionmaxweighttype#sdk-for-ios-navigate-s-7heresdk31VehicleRestrictionMaxWeightTypeO7unknownyA2CmF" class="token"><code>unknown</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ This enum represents the specific type of the maximum permitted weight restricti
 
 - <div>
 
-  ` `<span id="/s:7heresdk31VehicleRestrictionMaxWeightTypeO5grossyA2CmF"></span>` `<span id="//apple_ref/swift/Element/gross" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-vehiclerestrictionmaxweighttype#/s:7heresdk31VehicleRestrictionMaxWeightTypeO5grossyA2CmF" class="token"><code>gross</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk31VehicleRestrictionMaxWeightTypeO5grossyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-gross" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-vehiclerestrictionmaxweighttype#sdk-for-ios-navigate-s-7heresdk31VehicleRestrictionMaxWeightTypeO5grossyA2CmF" class="token"><code>gross</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ This enum represents the specific type of the maximum permitted weight restricti
 
 - <div>
 
-  ` `<span id="/s:7heresdk31VehicleRestrictionMaxWeightTypeO7currentyA2CmF"></span>` `<span id="//apple_ref/swift/Element/current" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-vehiclerestrictionmaxweighttype#/s:7heresdk31VehicleRestrictionMaxWeightTypeO7currentyA2CmF" class="token"><code>current</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk31VehicleRestrictionMaxWeightTypeO7currentyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-current" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-vehiclerestrictionmaxweighttype#sdk-for-ios-navigate-s-7heresdk31VehicleRestrictionMaxWeightTypeO7currentyA2CmF" class="token"><code>current</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ This enum represents the specific type of the maximum permitted weight restricti
 
 - <div>
 
-  ` `<span id="/s:7heresdk31VehicleRestrictionMaxWeightTypeO5emptyyA2CmF"></span>` `<span id="//apple_ref/swift/Element/empty" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-vehiclerestrictionmaxweighttype#/s:7heresdk31VehicleRestrictionMaxWeightTypeO5emptyyA2CmF" class="token"><code>empty</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk31VehicleRestrictionMaxWeightTypeO5emptyyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-empty" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-vehiclerestrictionmaxweighttype#sdk-for-ios-navigate-s-7heresdk31VehicleRestrictionMaxWeightTypeO5emptyyA2CmF" class="token"><code>empty</code></a> 
 
   </div>
 

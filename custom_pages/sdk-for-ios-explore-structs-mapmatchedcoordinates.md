@@ -27,7 +27,7 @@ Information about the user defined coordinates and where they match to the map.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21MapMatchedCoordinatesV08originalD0AA03GeoD0Vvp"></span>` `<span id="//apple_ref/swift/Property/originalCoordinates" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-mapmatchedcoordinates#/s:7heresdk21MapMatchedCoordinatesV08originalD0AA03GeoD0Vvp" class="token"><code>originalCoordinates</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk21MapMatchedCoordinatesV08originalD0AA03GeoD0Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-originalCoordinates" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-mapmatchedcoordinates#sdk-for-ios-explore-s-7heresdk21MapMatchedCoordinatesV08originalD0AA03GeoD0Vvp" class="token"><code>originalCoordinates</code></a> 
 
   </div>
 
@@ -63,6 +63,10 @@ Information about the user defined coordinates and where they match to the map.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geocoordinates">GeoCoordinates</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ Information about the user defined coordinates and where they match to the map.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21MapMatchedCoordinatesV07matchedD0AA03GeoD0Vvp"></span>` `<span id="//apple_ref/swift/Property/matchedCoordinates" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-mapmatchedcoordinates#/s:7heresdk21MapMatchedCoordinatesV07matchedD0AA03GeoD0Vvp" class="token"><code>matchedCoordinates</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk21MapMatchedCoordinatesV07matchedD0AA03GeoD0Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-matchedCoordinates" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-mapmatchedcoordinates#sdk-for-ios-explore-s-7heresdk21MapMatchedCoordinatesV07matchedD0AA03GeoD0Vvp" class="token"><code>matchedCoordinates</code></a> 
 
   </div>
 
@@ -107,6 +111,10 @@ Information about the user defined coordinates and where they match to the map.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geocoordinates">GeoCoordinates</a>
+
   </div>
 
   </div>
@@ -115,7 +123,7 @@ Information about the user defined coordinates and where they match to the map.
 
 - <div>
 
-      init(originalCoordinates: matchedCoordinates: )
+   <span id="sdk-for-ios-explore-s-7heresdk21MapMatchedCoordinatesV08originalD007matchedD0AcA03GeoD0V_AGtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-originalCoordinates-matchedCoordinates" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-mapmatchedcoordinates#sdk-for-ios-explore-s-7heresdk21MapMatchedCoordinatesV08originalD007matchedD0AcA03GeoD0V_AGtcfc" class="token"><code>init(originalCoordinates:</code><wbr></wbr><code>matchedCoordinates:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -146,12 +154,14 @@ Information about the user defined coordinates and where they match to the map.
   Swift
 
   ``` highlight
-  public init ( originalCoordinates : GeoCoordinates , matchedCoordinates : GeoCoordinates )
+  public init(originalCoordinates: GeoCoordinates, matchedCoordinates: GeoCoordinates)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geocoordinates">GeoCoordinates</a>
 
   </div>
 

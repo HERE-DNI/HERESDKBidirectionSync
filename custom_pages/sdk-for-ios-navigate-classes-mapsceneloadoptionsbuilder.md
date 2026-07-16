@@ -25,7 +25,7 @@ extension MapSceneLoadOptionsBuilder: Hashable
 
 </div>
 
-Builder for creating <a href="sdk-for-ios-navigate-maps#/s:7heresdk19MapSceneLoadOptionsC">`MapSceneLoadOptions`</a> instances. This builder ensures that either a MapScheme or a configuration file is set, but not both.
+Builder for creating <a href="sdk-for-ios-navigate-maps#sdk-for-ios-navigate-s-7heresdk19MapSceneLoadOptionsC">`MapSceneLoadOptions`</a> instances. This builder ensures that either a MapScheme or a configuration file is set, but not both.
 
 Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors. Related APIs may change for new releases without a deprecation process.
 
@@ -37,7 +37,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-  ` `<span id="/s:7heresdk26MapSceneLoadOptionsBuilderC18InstantiationErrora"></span>` `<span id="//apple_ref/swift/Alias/InstantiationError" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapsceneloadoptionsbuilder#/s:7heresdk26MapSceneLoadOptionsBuilderC18InstantiationErrora" class="token"><code>InstantiationError</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk26MapSceneLoadOptionsBuilderC18InstantiationErrora"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Alias-InstantiationError" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapsceneloadoptionsbuilder#sdk-for-ios-navigate-s-7heresdk26MapSceneLoadOptionsBuilderC18InstantiationErrora" class="token"><code>InstantiationError</code></a> 
 
   </div>
 
@@ -55,7 +55,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
   <div class="abstract">
 
-  Thrown when failing to build a <a href="sdk-for-ios-navigate-maps#/s:7heresdk19MapSceneLoadOptionsC">`MapSceneLoadOptions`</a>.
+  Thrown when failing to build a <a href="sdk-for-ios-navigate-maps#sdk-for-ios-navigate-s-7heresdk19MapSceneLoadOptionsC">`MapSceneLoadOptions`</a>.
 
   </div>
 
@@ -73,6 +73,10 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mapsceneloadoptionsbuilder-instantiationerrordetails">InstantiationErrorDetails</a>
+
   </div>
 
   </div>
@@ -81,7 +85,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      init()
+   <span id="sdk-for-ios-navigate-s-7heresdk26MapSceneLoadOptionsBuilderCACycfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapsceneloadoptionsbuilder#sdk-for-ios-navigate-s-7heresdk26MapSceneLoadOptionsBuilderCACycfc" class="token"><code>init()</code></a> 
 
   </div>
 
@@ -112,10 +116,8 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public init ()
+  public init()
   ```
-
-  </pre>
 
   </div>
 
@@ -127,7 +129,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-  ` `<span id="/s:7heresdk26MapSceneLoadOptionsBuilderC22InstantiationErrorCodeO"></span>` `<span id="//apple_ref/swift/Enum/InstantiationErrorCode" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapsceneloadoptionsbuilder#/s:7heresdk26MapSceneLoadOptionsBuilderC22InstantiationErrorCodeO" class="token"><code>InstantiationErrorCode</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk26MapSceneLoadOptionsBuilderC22InstantiationErrorCodeO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-InstantiationErrorCode" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapsceneloadoptionsbuilder#sdk-for-ios-navigate-s-7heresdk26MapSceneLoadOptionsBuilderC22InstantiationErrorCodeO" class="token"><code>InstantiationErrorCode</code></a> 
 
   </div>
 
@@ -145,7 +147,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
   <div class="abstract">
 
-  Describes a reason for failing to build a <a href="sdk-for-ios-navigate-maps#/s:7heresdk19MapSceneLoadOptionsC">`MapSceneLoadOptions`</a>.
+  Describes a reason for failing to build a <a href="sdk-for-ios-navigate-maps#sdk-for-ios-navigate-s-7heresdk19MapSceneLoadOptionsC">`MapSceneLoadOptions`</a>.
 
   <a href="sdk-for-ios-navigate-classes-mapsceneloadoptionsbuilder-instantiationerrorcode" class="slightly-smaller">See more</a>
 
@@ -173,7 +175,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-  ` `<span id="/s:7heresdk26MapSceneLoadOptionsBuilderC25InstantiationErrorDetailsV"></span>` `<span id="//apple_ref/swift/Struct/InstantiationErrorDetails" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapsceneloadoptionsbuilder#/s:7heresdk26MapSceneLoadOptionsBuilderC25InstantiationErrorDetailsV" class="token"><code>InstantiationErrorDetails</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk26MapSceneLoadOptionsBuilderC25InstantiationErrorDetailsV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-InstantiationErrorDetails" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapsceneloadoptionsbuilder#sdk-for-ios-navigate-s-7heresdk26MapSceneLoadOptionsBuilderC25InstantiationErrorDetailsV" class="token"><code>InstantiationErrorDetails</code></a> 
 
   </div>
 
@@ -191,7 +193,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
   <div class="abstract">
 
-  Describes the reason for failing to build a <a href="sdk-for-ios-navigate-maps#/s:7heresdk19MapSceneLoadOptionsC">`MapSceneLoadOptions`</a>.
+  Describes the reason for failing to build a <a href="sdk-for-ios-navigate-maps#sdk-for-ios-navigate-s-7heresdk19MapSceneLoadOptionsC">`MapSceneLoadOptions`</a>.
 
   <a href="sdk-for-ios-navigate-classes-mapsceneloadoptionsbuilder-instantiationerrordetails" class="slightly-smaller">See more</a>
 
@@ -215,6 +217,10 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mapsceneloadoptionsbuilder">MapSceneLoadOptionsBuilder</a>
+
   </div>
 
   </div>
@@ -223,7 +229,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      withMapScheme(mapScheme: )
+   <span id="sdk-for-ios-navigate-s-7heresdk26MapSceneLoadOptionsBuilderC04withB6Scheme03mapH0AcA0bH0O_tF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-withMapScheme-mapScheme" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapsceneloadoptionsbuilder#sdk-for-ios-navigate-s-7heresdk26MapSceneLoadOptionsBuilderC04withB6Scheme03mapH0AcA0bH0O_tF" class="token"><code>withMapScheme(mapScheme:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -241,12 +247,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
   <div class="abstract">
 
-  Sets the map scheme to load. Any configuration file set through
-
-      MapSceneLoadOptionsBuilder.withConfigurationFile(...)
-
-  will be discarded.
-  </p>
+  Sets the map scheme to load. Any configuration file set through <a href="sdk-for-ios-navigate-classes-mapsceneloadoptionsbuilder#sdk-for-ios-navigate-s-7heresdk26MapSceneLoadOptionsBuilderC21withConfigurationFile013configurationI0ACSS_tF">`MapSceneLoadOptionsBuilder.withConfigurationFile(...)`</a> will be discarded.
 
   </div>
 
@@ -259,12 +260,14 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func withMapScheme ( mapScheme : MapScheme ) -> MapSceneLoadOptionsBuilder
+  public func withMapScheme(mapScheme: MapScheme) -> MapSceneLoadOptionsBuilder
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-mapscheme">MapScheme</a>
 
   </div>
 
@@ -303,7 +306,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      withConfigurationFile(configurationFile: )
+   <span id="sdk-for-ios-navigate-s-7heresdk26MapSceneLoadOptionsBuilderC21withConfigurationFile013configurationI0ACSS_tF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-withConfigurationFile-configurationFile" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapsceneloadoptionsbuilder#sdk-for-ios-navigate-s-7heresdk26MapSceneLoadOptionsBuilderC21withConfigurationFile013configurationI0ACSS_tF" class="token"><code>withConfigurationFile(configurationFile:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -321,12 +324,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
   <div class="abstract">
 
-  Sets the configuration file path to load. Any map scheme set through
-
-      MapSceneLoadOptionsBuilder.withMapScheme(...)
-
-  will be discarded.
-  </p>
+  Sets the configuration file path to load. Any map scheme set through <a href="sdk-for-ios-navigate-classes-mapsceneloadoptionsbuilder#sdk-for-ios-navigate-s-7heresdk26MapSceneLoadOptionsBuilderC04withB6Scheme03mapH0AcA0bH0O_tF">`MapSceneLoadOptionsBuilder.withMapScheme(...)`</a> will be discarded.
 
   </div>
 
@@ -339,10 +337,8 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func withConfigurationFile ( configurationFile : String ) -> MapSceneLoadOptionsBuilder
+  public func withConfigurationFile(configurationFile: String) -> MapSceneLoadOptionsBuilder
   ```
-
-  </pre>
 
   </div>
 
@@ -383,7 +379,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      withEnabledFeatures(enabledFeatures: )
+   <span id="sdk-for-ios-navigate-s-7heresdk26MapSceneLoadOptionsBuilderC19withEnabledFeatures07enabledI0ACSDyS2SG_tF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-withEnabledFeatures-enabledFeatures" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapsceneloadoptionsbuilder#sdk-for-ios-navigate-s-7heresdk26MapSceneLoadOptionsBuilderC19withEnabledFeatures07enabledI0ACSDyS2SG_tF" class="token"><code>withEnabledFeatures(enabledFeatures:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -414,10 +410,8 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func withEnabledFeatures ( enabledFeatures : [ String : String ]) -> MapSceneLoadOptionsBuilder
+  public func withEnabledFeatures(enabledFeatures: [String : String]) -> MapSceneLoadOptionsBuilder
   ```
-
-  </pre>
 
   </div>
 
@@ -458,7 +452,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      withDisabledFeatures(disabledFeatures: )
+   <span id="sdk-for-ios-navigate-s-7heresdk26MapSceneLoadOptionsBuilderC20withDisabledFeatures08disabledI0ACSaySSG_tF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-withDisabledFeatures-disabledFeatures" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapsceneloadoptionsbuilder#sdk-for-ios-navigate-s-7heresdk26MapSceneLoadOptionsBuilderC20withDisabledFeatures08disabledI0ACSaySSG_tF" class="token"><code>withDisabledFeatures(disabledFeatures:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -489,10 +483,8 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func withDisabledFeatures ( disabledFeatures : [ String ]) -> MapSceneLoadOptionsBuilder
+  public func withDisabledFeatures(disabledFeatures: [String]) -> MapSceneLoadOptionsBuilder
   ```
-
-  </pre>
 
   </div>
 
@@ -533,7 +525,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      withWatermarkStyle(watermarkStyle: )
+   <span id="sdk-for-ios-navigate-s-7heresdk26MapSceneLoadOptionsBuilderC18withWatermarkStyle09watermarkI0AcA0hI0O_tF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-withWatermarkStyle-watermarkStyle" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapsceneloadoptionsbuilder#sdk-for-ios-navigate-s-7heresdk26MapSceneLoadOptionsBuilderC18withWatermarkStyle09watermarkI0AcA0hI0O_tF" class="token"><code>withWatermarkStyle(watermarkStyle:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -564,12 +556,14 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func withWatermarkStyle ( watermarkStyle : WatermarkStyle ) -> MapSceneLoadOptionsBuilder
+  public func withWatermarkStyle(watermarkStyle: WatermarkStyle) -> MapSceneLoadOptionsBuilder
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-watermarkstyle">WatermarkStyle</a>
 
   </div>
 
@@ -608,7 +602,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      withOverridingMapStyle(overridingMapStyle: )
+   <span id="sdk-for-ios-navigate-s-7heresdk26MapSceneLoadOptionsBuilderC014withOverridingB5Style010overridingbI0AcA0I0C_tF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-withOverridingMapStyle-overridingMapStyle" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapsceneloadoptionsbuilder#sdk-for-ios-navigate-s-7heresdk26MapSceneLoadOptionsBuilderC014withOverridingB5Style010overridingbI0AcA0I0C_tF" class="token"><code>withOverridingMapStyle(overridingMapStyle:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -639,12 +633,14 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func withOverridingMapStyle ( overridingMapStyle : Style ) -> MapSceneLoadOptionsBuilder
+  public func withOverridingMapStyle(overridingMapStyle: Style) -> MapSceneLoadOptionsBuilder
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-style">Style</a>
 
   </div>
 
@@ -683,7 +679,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      build()
+   <span id="sdk-for-ios-navigate-s-7heresdk26MapSceneLoadOptionsBuilderC5buildAA0bcdE0CyKF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-build" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapsceneloadoptionsbuilder#sdk-for-ios-navigate-s-7heresdk26MapSceneLoadOptionsBuilderC5buildAA0bcdE0CyKF" class="token"><code>build()</code></a> 
 
   </div>
 
@@ -701,13 +697,13 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
   <div class="abstract">
 
-  Builds the <a href="sdk-for-ios-navigate-maps#/s:7heresdk19MapSceneLoadOptionsC">`MapSceneLoadOptions`</a> instance.
+  Builds the <a href="sdk-for-ios-navigate-maps#sdk-for-ios-navigate-s-7heresdk19MapSceneLoadOptionsC">`MapSceneLoadOptions`</a> instance.
 
   <div class="aside aside-throws">
 
   Throws
 
-  <a href="sdk-for-ios-navigate-classes-mapsceneloadoptionsbuilder#/s:7heresdk26MapSceneLoadOptionsBuilderC18InstantiationErrora">`MapSceneLoadOptionsBuilder.InstantiationError`</a> Indicates an instantiation issue.
+  <a href="sdk-for-ios-navigate-classes-mapsceneloadoptionsbuilder#sdk-for-ios-navigate-s-7heresdk26MapSceneLoadOptionsBuilderC18InstantiationErrora">`MapSceneLoadOptionsBuilder.InstantiationError`</a> Indicates an instantiation issue.
 
   </div>
 
@@ -722,12 +718,14 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func build () throws -> MapSceneLoadOptions
+  public func build() throws -> MapSceneLoadOptions
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-maps#sdk-for-ios-navigate-s-7heresdk19MapSceneLoadOptionsC">MapSceneLoadOptions</a>
 
   </div>
 

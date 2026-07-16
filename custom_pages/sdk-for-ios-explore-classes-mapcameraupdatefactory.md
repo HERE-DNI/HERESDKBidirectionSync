@@ -30,10 +30,17 @@ Factory for creating MapCameraUpdate to change map’s camera.
 For some factory methods you can apply an additional padding in pixels by setting a `viewRectangle` parameter based on the current size of the map view:
 
 ``` highlight
-let leftPaddingInPixels = 5 let rightPaddingInPixels = 5 let topPaddingInPixels = 5 let bottomPaddingInPixels = 5 let horizontalPaddingInPixels = leftPaddingInPixels + rightPaddingInPixels let verticalPaddingInPixels = topPaddingInPixels + bottomPaddingInPixels let origin = Point2D ( leftPaddingInPixels , topPaddingInPixels ) let sizeInPixels = Size2D ( width : mapView . viewportSize . width - horizontalPaddingInPixels , height : mapView . viewportSize . height - verticalPaddingInPixels ) let paddedViewRectangle = Rectangle2D ( origin : origin , size : sizeInPixels )
-```
+let leftPaddingInPixels = 5
+let rightPaddingInPixels = 5
+let topPaddingInPixels = 5
+let bottomPaddingInPixels = 5
+let horizontalPaddingInPixels = leftPaddingInPixels + rightPaddingInPixels
+let verticalPaddingInPixels = topPaddingInPixels + bottomPaddingInPixels
 
-</pre>
+let origin = Point2D(leftPaddingInPixels, topPaddingInPixels)
+let sizeInPixels = Size2D(width: mapView.viewportSize.width - horizontalPaddingInPixels, height: mapView.viewportSize.height - verticalPaddingInPixels)
+let paddedViewRectangle = Rectangle2D(origin: origin, size: sizeInPixels)
+```
 
 The origin indicates the top-left corner of the rectangle. An origin of (0, 0) indicates also the top-left corner of the map’s viewport.
 
@@ -45,7 +52,7 @@ The origin indicates the top-left corner of the rectangle. An origin of (0, 0) i
 
 - <div>
 
-      lookAt(point: )
+   <span id="sdk-for-ios-explore-s-7heresdk22MapCameraUpdateFactoryC6lookAt5pointAA0bcD0CAA014GeoCoordinatesD0V_tFZ"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-lookAt-point" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapcameraupdatefactory#sdk-for-ios-explore-s-7heresdk22MapCameraUpdateFactoryC6lookAt5pointAA0bcD0CAA014GeoCoordinatesD0V_tFZ" class="token"><code>lookAt(point:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -80,12 +87,15 @@ The origin indicates the top-left corner of the rectangle. An origin of (0, 0) i
   Swift
 
   ``` highlight
-  public static func lookAt ( point target : GeoCoordinatesUpdate ) -> MapCameraUpdate
+  public static func lookAt(point target: GeoCoordinatesUpdate) -> MapCameraUpdate
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geocoordinatesupdate">GeoCoordinatesUpdate</a>
+  - <a href="sdk-for-ios-explore-classes-mapcameraupdate">MapCameraUpdate</a>
 
   </div>
 
@@ -124,7 +134,7 @@ The origin indicates the top-left corner of the rectangle. An origin of (0, 0) i
 
 - <div>
 
-      lookAt(point: orientation: )
+   <span id="sdk-for-ios-explore-s-7heresdk22MapCameraUpdateFactoryC6lookAt5point11orientationAA0bcD0CAA014GeoCoordinatesD0V_AA0j11OrientationD0VtFZ"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-lookAt-point-orientation" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapcameraupdatefactory#sdk-for-ios-explore-s-7heresdk22MapCameraUpdateFactoryC6lookAt5point11orientationAA0bcD0CAA014GeoCoordinatesD0V_AA0j11OrientationD0VtFZ" class="token"><code>lookAt(point:</code><wbr></wbr><code>orientation:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -157,12 +167,16 @@ The origin indicates the top-left corner of the rectangle. An origin of (0, 0) i
   Swift
 
   ``` highlight
-  public static func lookAt ( point target : GeoCoordinatesUpdate , orientation : GeoOrientationUpdate ) -> MapCameraUpdate
+  public static func lookAt(point target: GeoCoordinatesUpdate, orientation: GeoOrientationUpdate) -> MapCameraUpdate
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geocoordinatesupdate">GeoCoordinatesUpdate</a>
+  - <a href="sdk-for-ios-explore-structs-geoorientationupdate">GeoOrientationUpdate</a>
+  - <a href="sdk-for-ios-explore-classes-mapcameraupdate">MapCameraUpdate</a>
 
   </div>
 
@@ -207,7 +221,7 @@ The origin indicates the top-left corner of the rectangle. An origin of (0, 0) i
 
 - <div>
 
-      lookAt(point: measure: )
+   <span id="sdk-for-ios-explore-s-7heresdk22MapCameraUpdateFactoryC6lookAt5point7measureAA0bcD0CAA014GeoCoordinatesD0V_AA0B7MeasureVtFZ"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-lookAt-point-measure" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapcameraupdatefactory#sdk-for-ios-explore-s-7heresdk22MapCameraUpdateFactoryC6lookAt5point7measureAA0bcD0CAA014GeoCoordinatesD0V_AA0B7MeasureVtFZ" class="token"><code>lookAt(point:</code><wbr></wbr><code>measure:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -240,12 +254,16 @@ The origin indicates the top-left corner of the rectangle. An origin of (0, 0) i
   Swift
 
   ``` highlight
-  public static func lookAt ( point target : GeoCoordinatesUpdate , measure : MapMeasure ) -> MapCameraUpdate
+  public static func lookAt(point target: GeoCoordinatesUpdate, measure: MapMeasure) -> MapCameraUpdate
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geocoordinatesupdate">GeoCoordinatesUpdate</a>
+  - <a href="sdk-for-ios-explore-structs-mapmeasure">MapMeasure</a>
+  - <a href="sdk-for-ios-explore-classes-mapcameraupdate">MapCameraUpdate</a>
 
   </div>
 
@@ -290,7 +308,7 @@ The origin indicates the top-left corner of the rectangle. An origin of (0, 0) i
 
 - <div>
 
-      lookAt(point: orientation: measure: )
+   <span id="sdk-for-ios-explore-s-7heresdk22MapCameraUpdateFactoryC6lookAt5point11orientation7measureAA0bcD0CAA014GeoCoordinatesD0V_AA0k11OrientationD0VAA0B7MeasureVtFZ"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-lookAt-point-orientation-measure" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapcameraupdatefactory#sdk-for-ios-explore-s-7heresdk22MapCameraUpdateFactoryC6lookAt5point11orientation7measureAA0bcD0CAA014GeoCoordinatesD0V_AA0k11OrientationD0VAA0B7MeasureVtFZ" class="token"><code>lookAt(point:</code><wbr></wbr><code>orientation:</code><wbr></wbr><code>measure:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -323,12 +341,17 @@ The origin indicates the top-left corner of the rectangle. An origin of (0, 0) i
   Swift
 
   ``` highlight
-  public static func lookAt ( point target : GeoCoordinatesUpdate , orientation : GeoOrientationUpdate , measure : MapMeasure ) -> MapCameraUpdate
+  public static func lookAt(point target: GeoCoordinatesUpdate, orientation: GeoOrientationUpdate, measure: MapMeasure) -> MapCameraUpdate
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geocoordinatesupdate">GeoCoordinatesUpdate</a>
+  - <a href="sdk-for-ios-explore-structs-geoorientationupdate">GeoOrientationUpdate</a>
+  - <a href="sdk-for-ios-explore-structs-mapmeasure">MapMeasure</a>
+  - <a href="sdk-for-ios-explore-classes-mapcameraupdate">MapCameraUpdate</a>
 
   </div>
 
@@ -379,7 +402,7 @@ The origin indicates the top-left corner of the rectangle. An origin of (0, 0) i
 
 - <div>
 
-      lookToMatch(point: viewPoint: orientation: measure: )
+   <span id="sdk-for-ios-explore-s-7heresdk22MapCameraUpdateFactoryC11lookToMatch5point9viewPoint11orientation7measureAA0bcD0CAA14GeoCoordinatesV_AA7Point2DVAA0n11OrientationD0VAA0B7MeasureVtFZ"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-lookToMatch-point-viewPoint-orientation-measure" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapcameraupdatefactory#sdk-for-ios-explore-s-7heresdk22MapCameraUpdateFactoryC11lookToMatch5point9viewPoint11orientation7measureAA0bcD0CAA14GeoCoordinatesV_AA7Point2DVAA0n11OrientationD0VAA0B7MeasureVtFZ" class="token"><code>lookToMatch(point:</code><wbr></wbr><code>viewPoint:</code><wbr></wbr><code>orientation:</code><wbr></wbr><code>measure:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -414,12 +437,18 @@ The origin indicates the top-left corner of the rectangle. An origin of (0, 0) i
   Swift
 
   ``` highlight
-  public static func lookToMatch ( point geoPoint : GeoCoordinates , viewPoint : Point2D , orientation : GeoOrientationUpdate , measure : MapMeasure ) -> MapCameraUpdate
+  public static func lookToMatch(point geoPoint: GeoCoordinates, viewPoint: Point2D, orientation: GeoOrientationUpdate, measure: MapMeasure) -> MapCameraUpdate
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geocoordinates">GeoCoordinates</a>
+  - <a href="sdk-for-ios-explore-structs-point2d">Point2D</a>
+  - <a href="sdk-for-ios-explore-structs-geoorientationupdate">GeoOrientationUpdate</a>
+  - <a href="sdk-for-ios-explore-structs-mapmeasure">MapMeasure</a>
+  - <a href="sdk-for-ios-explore-classes-mapcameraupdate">MapCameraUpdate</a>
 
   </div>
 
@@ -476,7 +505,7 @@ The origin indicates the top-left corner of the rectangle. An origin of (0, 0) i
 
 - <div>
 
-      lookToMatch(point: viewPoint: )
+   <span id="sdk-for-ios-explore-s-7heresdk22MapCameraUpdateFactoryC11lookToMatch5point9viewPointAA0bcD0CAA14GeoCoordinatesV_AA7Point2DVtFZ"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-lookToMatch-point-viewPoint" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapcameraupdatefactory#sdk-for-ios-explore-s-7heresdk22MapCameraUpdateFactoryC11lookToMatch5point9viewPointAA0bcD0CAA14GeoCoordinatesV_AA7Point2DVtFZ" class="token"><code>lookToMatch(point:</code><wbr></wbr><code>viewPoint:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -509,12 +538,16 @@ The origin indicates the top-left corner of the rectangle. An origin of (0, 0) i
   Swift
 
   ``` highlight
-  public static func lookToMatch ( point geoPoint : GeoCoordinates , viewPoint : Point2D ) -> MapCameraUpdate
+  public static func lookToMatch(point geoPoint: GeoCoordinates, viewPoint: Point2D) -> MapCameraUpdate
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geocoordinates">GeoCoordinates</a>
+  - <a href="sdk-for-ios-explore-structs-point2d">Point2D</a>
+  - <a href="sdk-for-ios-explore-classes-mapcameraupdate">MapCameraUpdate</a>
 
   </div>
 
@@ -559,7 +592,7 @@ The origin indicates the top-left corner of the rectangle. An origin of (0, 0) i
 
 - <div>
 
-      lookAt(_: viewRectangle: orientation: measureLimit: )
+   <span id="sdk-for-ios-explore-s-7heresdk22MapCameraUpdateFactoryC6lookAt_13viewRectangle11orientation12measureLimitAA0bcD0CSayAA14GeoCoordinatesVG_AA11Rectangle2DVAA0m11OrientationD0VAA0B7MeasureVtFZ"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-lookAt-_-viewRectangle-orientation-measureLimit" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapcameraupdatefactory#sdk-for-ios-explore-s-7heresdk22MapCameraUpdateFactoryC6lookAt_13viewRectangle11orientation12measureLimitAA0bcD0CSayAA14GeoCoordinatesVG_AA11Rectangle2DVAA0m11OrientationD0VAA0B7MeasureVtFZ" class="token"><code>lookAt(_:</code><wbr></wbr><code>viewRectangle:</code><wbr></wbr><code>orientation:</code><wbr></wbr><code>measureLimit:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -619,12 +652,18 @@ The origin indicates the top-left corner of the rectangle. An origin of (0, 0) i
   Swift
 
   ``` highlight
-  public static func lookAt ( _ points : [ GeoCoordinates ], viewRectangle : Rectangle2D , orientation : GeoOrientationUpdate , measureLimit : MapMeasure ) -> MapCameraUpdate
+  public static func lookAt(_ points: [GeoCoordinates], viewRectangle: Rectangle2D, orientation: GeoOrientationUpdate, measureLimit: MapMeasure) -> MapCameraUpdate
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geocoordinates">GeoCoordinates</a>
+  - <a href="sdk-for-ios-explore-structs-rectangle2d">Rectangle2D</a>
+  - <a href="sdk-for-ios-explore-structs-geoorientationupdate">GeoOrientationUpdate</a>
+  - <a href="sdk-for-ios-explore-structs-mapmeasure">MapMeasure</a>
+  - <a href="sdk-for-ios-explore-classes-mapcameraupdate">MapCameraUpdate</a>
 
   </div>
 
@@ -687,7 +726,7 @@ The origin indicates the top-left corner of the rectangle. An origin of (0, 0) i
 
 - <div>
 
-      lookAt(_: orientation: points: viewRectangle: minMeasure: maxMeasure: )
+   <span id="sdk-for-ios-explore-s-7heresdk22MapCameraUpdateFactoryC6lookAt_11orientation6points13viewRectangle10minMeasure03maxM0AA0bcD0CAA014GeoCoordinatesD0V_AA0o11OrientationD0VSayAA0oP0VGAA11Rectangle2DVAA0bM0VAVtFZ"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-lookAt-_-orientation-points-viewRectangle-minMeasure-maxMeasure" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapcameraupdatefactory#sdk-for-ios-explore-s-7heresdk22MapCameraUpdateFactoryC6lookAt_11orientation6points13viewRectangle10minMeasure03maxM0AA0bcD0CAA014GeoCoordinatesD0V_AA0o11OrientationD0VSayAA0oP0VGAA11Rectangle2DVAA0bM0VAVtFZ" class="token"><code>lookAt(_:</code><wbr></wbr><code>orientation:</code><wbr></wbr><code>points:</code><wbr></wbr><code>viewRectangle:</code><wbr></wbr><code>minMeasure:</code><wbr></wbr><code>maxMeasure:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -744,12 +783,19 @@ The origin indicates the top-left corner of the rectangle. An origin of (0, 0) i
   Swift
 
   ``` highlight
-  public static func lookAt ( _ target : GeoCoordinatesUpdate , orientation : GeoOrientationUpdate , points : [ GeoCoordinates ], viewRectangle : Rectangle2D , minMeasure : MapMeasure , maxMeasure : MapMeasure ) -> MapCameraUpdate
+  public static func lookAt(_ target: GeoCoordinatesUpdate, orientation: GeoOrientationUpdate, points: [GeoCoordinates], viewRectangle: Rectangle2D, minMeasure: MapMeasure, maxMeasure: MapMeasure) -> MapCameraUpdate
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geocoordinatesupdate">GeoCoordinatesUpdate</a>
+  - <a href="sdk-for-ios-explore-structs-geoorientationupdate">GeoOrientationUpdate</a>
+  - <a href="sdk-for-ios-explore-structs-geocoordinates">GeoCoordinates</a>
+  - <a href="sdk-for-ios-explore-structs-rectangle2d">Rectangle2D</a>
+  - <a href="sdk-for-ios-explore-structs-mapmeasure">MapMeasure</a>
+  - <a href="sdk-for-ios-explore-classes-mapcameraupdate">MapCameraUpdate</a>
 
   </div>
 
@@ -830,7 +876,7 @@ The origin indicates the top-left corner of the rectangle. An origin of (0, 0) i
 
 - <div>
 
-      lookAt(area: orientation: viewRectangle: )
+   <span id="sdk-for-ios-explore-s-7heresdk22MapCameraUpdateFactoryC6lookAt4area11orientation13viewRectangleAA0bcD0CAA6GeoBoxV_AA0l11OrientationD0VAA11Rectangle2DVtFZ"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-lookAt-area-orientation-viewRectangle" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapcameraupdatefactory#sdk-for-ios-explore-s-7heresdk22MapCameraUpdateFactoryC6lookAt4area11orientation13viewRectangleAA0bcD0CAA6GeoBoxV_AA0l11OrientationD0VAA11Rectangle2DVtFZ" class="token"><code>lookAt(area:</code><wbr></wbr><code>orientation:</code><wbr></wbr><code>viewRectangle:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -887,12 +933,17 @@ The origin indicates the top-left corner of the rectangle. An origin of (0, 0) i
   Swift
 
   ``` highlight
-  public static func lookAt ( area target : GeoBox , orientation : GeoOrientationUpdate , viewRectangle : Rectangle2D ) -> MapCameraUpdate
+  public static func lookAt(area target: GeoBox, orientation: GeoOrientationUpdate, viewRectangle: Rectangle2D) -> MapCameraUpdate
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geobox">GeoBox</a>
+  - <a href="sdk-for-ios-explore-structs-geoorientationupdate">GeoOrientationUpdate</a>
+  - <a href="sdk-for-ios-explore-structs-rectangle2d">Rectangle2D</a>
+  - <a href="sdk-for-ios-explore-classes-mapcameraupdate">MapCameraUpdate</a>
 
   </div>
 
@@ -943,7 +994,7 @@ The origin indicates the top-left corner of the rectangle. An origin of (0, 0) i
 
 - <div>
 
-      lookAt(area: viewRectangle: )
+   <span id="sdk-for-ios-explore-s-7heresdk22MapCameraUpdateFactoryC6lookAt4area13viewRectangleAA0bcD0CAA6GeoBoxV_AA11Rectangle2DVtFZ"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-lookAt-area-viewRectangle" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapcameraupdatefactory#sdk-for-ios-explore-s-7heresdk22MapCameraUpdateFactoryC6lookAt4area13viewRectangleAA0bcD0CAA6GeoBoxV_AA11Rectangle2DVtFZ" class="token"><code>lookAt(area:</code><wbr></wbr><code>viewRectangle:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -993,12 +1044,16 @@ The origin indicates the top-left corner of the rectangle. An origin of (0, 0) i
   Swift
 
   ``` highlight
-  public static func lookAt ( area target : GeoBox , viewRectangle : Rectangle2D ) -> MapCameraUpdate
+  public static func lookAt(area target: GeoBox, viewRectangle: Rectangle2D) -> MapCameraUpdate
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geobox">GeoBox</a>
+  - <a href="sdk-for-ios-explore-structs-rectangle2d">Rectangle2D</a>
+  - <a href="sdk-for-ios-explore-classes-mapcameraupdate">MapCameraUpdate</a>
 
   </div>
 
@@ -1043,7 +1098,7 @@ The origin indicates the top-left corner of the rectangle. An origin of (0, 0) i
 
 - <div>
 
-      lookAt(area: )
+   <span id="sdk-for-ios-explore-s-7heresdk22MapCameraUpdateFactoryC6lookAt4areaAA0bcD0CAA6GeoBoxV_tFZ"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-lookAt-area" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapcameraupdatefactory#sdk-for-ios-explore-s-7heresdk22MapCameraUpdateFactoryC6lookAt4areaAA0bcD0CAA6GeoBoxV_tFZ" class="token"><code>lookAt(area:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1078,12 +1133,15 @@ The origin indicates the top-left corner of the rectangle. An origin of (0, 0) i
   Swift
 
   ``` highlight
-  public static func lookAt ( area target : GeoBox ) -> MapCameraUpdate
+  public static func lookAt(area target: GeoBox) -> MapCameraUpdate
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geobox">GeoBox</a>
+  - <a href="sdk-for-ios-explore-classes-mapcameraupdate">MapCameraUpdate</a>
 
   </div>
 
@@ -1122,7 +1180,7 @@ The origin indicates the top-left corner of the rectangle. An origin of (0, 0) i
 
 - <div>
 
-      panBy(xOffset: yOffset: )
+   <span id="sdk-for-ios-explore-s-7heresdk22MapCameraUpdateFactoryC5panBy7xOffset01yH0AA0bcD0CSd_SdtFZ"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-panBy-xOffset-yOffset" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapcameraupdatefactory#sdk-for-ios-explore-s-7heresdk22MapCameraUpdateFactoryC5panBy7xOffset01yH0AA0bcD0CSd_SdtFZ" class="token"><code>panBy(xOffset:</code><wbr></wbr><code>yOffset:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1153,12 +1211,14 @@ The origin indicates the top-left corner of the rectangle. An origin of (0, 0) i
   Swift
 
   ``` highlight
-  public static func panBy ( xOffset : Double , yOffset : Double ) -> MapCameraUpdate
+  public static func panBy(xOffset: Double, yOffset: Double) -> MapCameraUpdate
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-mapcameraupdate">MapCameraUpdate</a>
 
   </div>
 
@@ -1203,7 +1263,7 @@ The origin indicates the top-left corner of the rectangle. An origin of (0, 0) i
 
 - <div>
 
-      orbitBy(_: around: )
+   <span id="sdk-for-ios-explore-s-7heresdk22MapCameraUpdateFactoryC7orbitBy_6aroundAA0bcD0CAA014GeoOrientationD0V_AA7Point2DVtFZ"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-orbitBy-_-around" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapcameraupdatefactory#sdk-for-ios-explore-s-7heresdk22MapCameraUpdateFactoryC7orbitBy_6aroundAA0bcD0CAA014GeoOrientationD0V_AA7Point2DVtFZ" class="token"><code>orbitBy(_:</code><wbr></wbr><code>around:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1236,12 +1296,16 @@ The origin indicates the top-left corner of the rectangle. An origin of (0, 0) i
   Swift
 
   ``` highlight
-  public static func orbitBy ( _ delta : GeoOrientationUpdate , around origin : Point2D ) -> MapCameraUpdate
+  public static func orbitBy(_ delta: GeoOrientationUpdate, around origin: Point2D) -> MapCameraUpdate
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geoorientationupdate">GeoOrientationUpdate</a>
+  - <a href="sdk-for-ios-explore-structs-point2d">Point2D</a>
+  - <a href="sdk-for-ios-explore-classes-mapcameraupdate">MapCameraUpdate</a>
 
   </div>
 
@@ -1286,7 +1350,7 @@ The origin indicates the top-left corner of the rectangle. An origin of (0, 0) i
 
 - <div>
 
-      rotateBy(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk22MapCameraUpdateFactoryC8rotateByyAA0bcD0CAA014GeoOrientationD0VFZ"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-rotateBy-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapcameraupdatefactory#sdk-for-ios-explore-s-7heresdk22MapCameraUpdateFactoryC8rotateByyAA0bcD0CAA014GeoOrientationD0VFZ" class="token"><code>rotateBy(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1317,12 +1381,15 @@ The origin indicates the top-left corner of the rectangle. An origin of (0, 0) i
   Swift
 
   ``` highlight
-  public static func rotateBy ( _ delta : GeoOrientationUpdate ) -> MapCameraUpdate
+  public static func rotateBy(_ delta: GeoOrientationUpdate) -> MapCameraUpdate
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geoorientationupdate">GeoOrientationUpdate</a>
+  - <a href="sdk-for-ios-explore-classes-mapcameraupdate">MapCameraUpdate</a>
 
   </div>
 
@@ -1361,7 +1428,7 @@ The origin indicates the top-left corner of the rectangle. An origin of (0, 0) i
 
 - <div>
 
-      zoomBy(_: around: )
+   <span id="sdk-for-ios-explore-s-7heresdk22MapCameraUpdateFactoryC6zoomBy_6aroundAA0bcD0CSd_AA7Point2DVtFZ"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-zoomBy-_-around" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapcameraupdatefactory#sdk-for-ios-explore-s-7heresdk22MapCameraUpdateFactoryC6zoomBy_6aroundAA0bcD0CSd_AA7Point2DVtFZ" class="token"><code>zoomBy(_:</code><wbr></wbr><code>around:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1398,12 +1465,15 @@ The origin indicates the top-left corner of the rectangle. An origin of (0, 0) i
   Swift
 
   ``` highlight
-  public static func zoomBy ( _ factor : Double , around origin : Point2D ) -> MapCameraUpdate
+  public static func zoomBy(_ factor: Double, around origin: Point2D) -> MapCameraUpdate
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-point2d">Point2D</a>
+  - <a href="sdk-for-ios-explore-classes-mapcameraupdate">MapCameraUpdate</a>
 
   </div>
 
@@ -1448,7 +1518,7 @@ The origin indicates the top-left corner of the rectangle. An origin of (0, 0) i
 
 - <div>
 
-      zoomTo(zoomLevel: )
+   <span id="sdk-for-ios-explore-s-7heresdk22MapCameraUpdateFactoryC6zoomTo0F5LevelAA0bcD0CSd_tFZ"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-zoomTo-zoomLevel" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapcameraupdatefactory#sdk-for-ios-explore-s-7heresdk22MapCameraUpdateFactoryC6zoomTo0F5LevelAA0bcD0CSd_tFZ" class="token"><code>zoomTo(zoomLevel:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1481,12 +1551,14 @@ The origin indicates the top-left corner of the rectangle. An origin of (0, 0) i
   Swift
 
   ``` highlight
-  public static func zoomTo ( zoomLevel : Double ) -> MapCameraUpdate
+  public static func zoomTo(zoomLevel: Double) -> MapCameraUpdate
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-mapcameraupdate">MapCameraUpdate</a>
 
   </div>
 
@@ -1525,7 +1597,7 @@ The origin indicates the top-left corner of the rectangle. An origin of (0, 0) i
 
 - <div>
 
-      setPrincipalPoint(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk22MapCameraUpdateFactoryC17setPrincipalPointyAA0bcD0CAA7Point2DVFZ"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-setPrincipalPoint-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapcameraupdatefactory#sdk-for-ios-explore-s-7heresdk22MapCameraUpdateFactoryC17setPrincipalPointyAA0bcD0CAA7Point2DVFZ" class="token"><code>setPrincipalPoint(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1556,12 +1628,15 @@ The origin indicates the top-left corner of the rectangle. An origin of (0, 0) i
   Swift
 
   ``` highlight
-  public static func setPrincipalPoint ( _ principalPoint : Point2D ) -> MapCameraUpdate
+  public static func setPrincipalPoint(_ principalPoint: Point2D) -> MapCameraUpdate
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-point2d">Point2D</a>
+  - <a href="sdk-for-ios-explore-classes-mapcameraupdate">MapCameraUpdate</a>
 
   </div>
 
@@ -1600,7 +1675,7 @@ The origin indicates the top-left corner of the rectangle. An origin of (0, 0) i
 
 - <div>
 
-      setNormalizedPrincipalPoint(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk22MapCameraUpdateFactoryC27setNormalizedPrincipalPointyAA0bcD0CAA8Anchor2DVFZ"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-setNormalizedPrincipalPoint-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapcameraupdatefactory#sdk-for-ios-explore-s-7heresdk22MapCameraUpdateFactoryC27setNormalizedPrincipalPointyAA0bcD0CAA8Anchor2DVFZ" class="token"><code>setNormalizedPrincipalPoint(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1633,12 +1708,15 @@ The origin indicates the top-left corner of the rectangle. An origin of (0, 0) i
   Swift
 
   ``` highlight
-  public static func setNormalizedPrincipalPoint ( _ principalPoint : Anchor2D ) -> MapCameraUpdate
+  public static func setNormalizedPrincipalPoint(_ principalPoint: Anchor2D) -> MapCameraUpdate
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-anchor2d">Anchor2D</a>
+  - <a href="sdk-for-ios-explore-classes-mapcameraupdate">MapCameraUpdate</a>
 
   </div>
 
@@ -1677,7 +1755,7 @@ The origin indicates the top-left corner of the rectangle. An origin of (0, 0) i
 
 - <div>
 
-      setVerticalFieldOfView(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk22MapCameraUpdateFactoryC22setVerticalFieldOfViewyAA0bcD0CSdFZ"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-setVerticalFieldOfView-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapcameraupdatefactory#sdk-for-ios-explore-s-7heresdk22MapCameraUpdateFactoryC22setVerticalFieldOfViewyAA0bcD0CSdFZ" class="token"><code>setVerticalFieldOfView(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1712,12 +1790,14 @@ The origin indicates the top-left corner of the rectangle. An origin of (0, 0) i
   Swift
 
   ``` highlight
-  public static func setVerticalFieldOfView ( _ verticalFieldOfView : Double ) -> MapCameraUpdate
+  public static func setVerticalFieldOfView(_ verticalFieldOfView: Double) -> MapCameraUpdate
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-mapcameraupdate">MapCameraUpdate</a>
 
   </div>
 
@@ -1756,7 +1836,7 @@ The origin indicates the top-left corner of the rectangle. An origin of (0, 0) i
 
 - <div>
 
-      compositeUpdate(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk22MapCameraUpdateFactoryC09compositeD0yAA0bcD0CSayAFGKFZ"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-compositeUpdate-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapcameraupdatefactory#sdk-for-ios-explore-s-7heresdk22MapCameraUpdateFactoryC09compositeD0yAA0bcD0CSayAFGKFZ" class="token"><code>compositeUpdate(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1782,7 +1862,7 @@ The origin indicates the top-left corner of the rectangle. An origin of (0, 0) i
 
   Throws
 
-  <a href="sdk-for-ios-explore-classes-mapcameraupdate#/s:7heresdk15MapCameraUpdateC18InstantiationErrora">`MapCameraUpdate.InstantiationError`</a> Indicates an instantiation issue.
+  <a href="sdk-for-ios-explore-classes-mapcameraupdate#sdk-for-ios-explore-s-7heresdk15MapCameraUpdateC18InstantiationErrora">`MapCameraUpdate.InstantiationError`</a> Indicates an instantiation issue.
 
   </div>
 
@@ -1797,12 +1877,14 @@ The origin indicates the top-left corner of the rectangle. An origin of (0, 0) i
   Swift
 
   ``` highlight
-  public static func compositeUpdate ( _ mapCameraUpdates : [ MapCameraUpdate ]) throws -> MapCameraUpdate
+  public static func compositeUpdate(_ mapCameraUpdates: [MapCameraUpdate]) throws -> MapCameraUpdate
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-mapcameraupdate">MapCameraUpdate</a>
 
   </div>
 

@@ -29,7 +29,7 @@ Available payment methods.
 
 - <div>
 
-  ` `<span id="/s:7heresdk20TollCollectionMethodO8fixedFeeyA2CmF"></span>` `<span id="//apple_ref/swift/Element/fixedFee" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-tollcollectionmethod#/s:7heresdk20TollCollectionMethodO8fixedFeeyA2CmF" class="token"><code>fixedFee</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk20TollCollectionMethodO8fixedFeeyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-fixedFee" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-tollcollectionmethod#sdk-for-ios-explore-s-7heresdk20TollCollectionMethodO8fixedFeeyA2CmF" class="token"><code>fixedFee</code></a> 
 
   </div>
 
@@ -73,7 +73,7 @@ Available payment methods.
 
 - <div>
 
-  ` `<span id="/s:7heresdk20TollCollectionMethodO12obtainTicketyA2CmF"></span>` `<span id="//apple_ref/swift/Element/obtainTicket" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-tollcollectionmethod#/s:7heresdk20TollCollectionMethodO12obtainTicketyA2CmF" class="token"><code>obtainTicket</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk20TollCollectionMethodO12obtainTicketyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-obtainTicket" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-tollcollectionmethod#sdk-for-ios-explore-s-7heresdk20TollCollectionMethodO12obtainTicketyA2CmF" class="token"><code>obtainTicket</code></a> 
 
   </div>
 
@@ -117,7 +117,7 @@ Available payment methods.
 
 - <div>
 
-  ` `<span id="/s:7heresdk20TollCollectionMethodO12payPerTicketyA2CmF"></span>` `<span id="//apple_ref/swift/Element/payPerTicket" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-tollcollectionmethod#/s:7heresdk20TollCollectionMethodO12payPerTicketyA2CmF" class="token"><code>payPerTicket</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk20TollCollectionMethodO12payPerTicketyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-payPerTicket" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-tollcollectionmethod#sdk-for-ios-explore-s-7heresdk20TollCollectionMethodO12payPerTicketyA2CmF" class="token"><code>payPerTicket</code></a> 
 
   </div>
 
@@ -161,7 +161,7 @@ Available payment methods.
 
 - <div>
 
-  ` `<span id="/s:7heresdk20TollCollectionMethodO10electronicyA2CmF"></span>` `<span id="//apple_ref/swift/Element/electronic" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-tollcollectionmethod#/s:7heresdk20TollCollectionMethodO10electronicyA2CmF" class="token"><code>electronic</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk20TollCollectionMethodO10electronicyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-electronic" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-tollcollectionmethod#sdk-for-ios-explore-s-7heresdk20TollCollectionMethodO10electronicyA2CmF" class="token"><code>electronic</code></a> 
 
   </div>
 

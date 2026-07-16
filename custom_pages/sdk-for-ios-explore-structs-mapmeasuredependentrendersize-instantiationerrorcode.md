@@ -19,6 +19,10 @@ extension MapMeasureDependentRenderSize.InstantiationErrorCode : Error
 
 </div>
 
+Related types:
+
+- <a href="sdk-for-ios-explore-structs-mapmeasuredependentrendersize">MapMeasureDependentRenderSize</a>
+
 </div>
 
 Describes a reason for failing to create a <a href="sdk-for-ios-explore-structs-mapmeasuredependentrendersize">`MapMeasureDependentRenderSize`</a>.
@@ -31,7 +35,7 @@ Describes a reason for failing to create a <a href="sdk-for-ios-explore-structs-
 
 - <div>
 
-  ` `<span id="/s:7heresdk29MapMeasureDependentRenderSizeV22InstantiationErrorCodeO10emptySizesyA2EmF"></span>` `<span id="//apple_ref/swift/Element/emptySizes" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-mapmeasuredependentrendersize-instantiationerrorcode#/s:7heresdk29MapMeasureDependentRenderSizeV22InstantiationErrorCodeO10emptySizesyA2EmF" class="token"><code>emptySizes</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk29MapMeasureDependentRenderSizeV22InstantiationErrorCodeO10emptySizesyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-emptySizes" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-mapmeasuredependentrendersize-instantiationerrorcode#sdk-for-ios-explore-s-7heresdk29MapMeasureDependentRenderSizeV22InstantiationErrorCodeO10emptySizesyA2EmF" class="token"><code>emptySizes</code></a> 
 
   </div>
 
@@ -49,7 +53,7 @@ Describes a reason for failing to create a <a href="sdk-for-ios-explore-structs-
 
   <div class="abstract">
 
-  <a href="sdk-for-ios-explore-structs-mapmeasuredependentrendersize#/s:7heresdk29MapMeasureDependentRenderSizeV5sizesSDyS2dGvp">`sizes`</a> dictionary is empty
+  <a href="sdk-for-ios-explore-structs-mapmeasuredependentrendersize#sdk-for-ios-explore-s-7heresdk29MapMeasureDependentRenderSizeV5sizesSDyS2dGvp">`sizes`</a> dictionary is empty
 
   </div>
 
@@ -75,7 +79,7 @@ Describes a reason for failing to create a <a href="sdk-for-ios-explore-structs-
 
 - <div>
 
-  ` `<span id="/s:7heresdk29MapMeasureDependentRenderSizeV22InstantiationErrorCodeO08negativebC0yA2EmF"></span>` `<span id="//apple_ref/swift/Element/negativeMapMeasure" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-mapmeasuredependentrendersize-instantiationerrorcode#/s:7heresdk29MapMeasureDependentRenderSizeV22InstantiationErrorCodeO08negativebC0yA2EmF" class="token"><code>negativeMapMeasure</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk29MapMeasureDependentRenderSizeV22InstantiationErrorCodeO08negativebC0yA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-negativeMapMeasure" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-mapmeasuredependentrendersize-instantiationerrorcode#sdk-for-ios-explore-s-7heresdk29MapMeasureDependentRenderSizeV22InstantiationErrorCodeO08negativebC0yA2EmF" class="token"><code>negativeMapMeasure</code></a> 
 
   </div>
 
@@ -93,7 +97,7 @@ Describes a reason for failing to create a <a href="sdk-for-ios-explore-structs-
 
   <div class="abstract">
 
-  Negative map measure in <a href="sdk-for-ios-explore-structs-mapmeasuredependentrendersize#/s:7heresdk29MapMeasureDependentRenderSizeV5sizesSDyS2dGvp">`sizes`</a> dictionary
+  Negative map measure in <a href="sdk-for-ios-explore-structs-mapmeasuredependentrendersize#sdk-for-ios-explore-s-7heresdk29MapMeasureDependentRenderSizeV5sizesSDyS2dGvp">`sizes`</a> dictionary
 
   </div>
 
@@ -119,7 +123,7 @@ Describes a reason for failing to create a <a href="sdk-for-ios-explore-structs-
 
 - <div>
 
-  ` `<span id="/s:7heresdk29MapMeasureDependentRenderSizeV22InstantiationErrorCodeO08negativeF0yA2EmF"></span>` `<span id="//apple_ref/swift/Element/negativeSize" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-mapmeasuredependentrendersize-instantiationerrorcode#/s:7heresdk29MapMeasureDependentRenderSizeV22InstantiationErrorCodeO08negativeF0yA2EmF" class="token"><code>negativeSize</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk29MapMeasureDependentRenderSizeV22InstantiationErrorCodeO08negativeF0yA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-negativeSize" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-mapmeasuredependentrendersize-instantiationerrorcode#sdk-for-ios-explore-s-7heresdk29MapMeasureDependentRenderSizeV22InstantiationErrorCodeO08negativeF0yA2EmF" class="token"><code>negativeSize</code></a> 
 
   </div>
 
@@ -137,7 +141,7 @@ Describes a reason for failing to create a <a href="sdk-for-ios-explore-structs-
 
   <div class="abstract">
 
-  Negative size in in <a href="sdk-for-ios-explore-structs-mapmeasuredependentrendersize#/s:7heresdk29MapMeasureDependentRenderSizeV5sizesSDyS2dGvp">`sizes`</a> dictionary
+  Negative size in in <a href="sdk-for-ios-explore-structs-mapmeasuredependentrendersize#sdk-for-ios-explore-s-7heresdk29MapMeasureDependentRenderSizeV5sizesSDyS2dGvp">`sizes`</a> dictionary
 
   </div>
 

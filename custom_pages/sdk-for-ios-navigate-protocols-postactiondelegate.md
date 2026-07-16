@@ -27,7 +27,7 @@ This protocol should be implemented in order to receive post action notification
 
 - <div>
 
-      onPostActions(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk18PostActionDelegateP02onB7ActionsyySayAA0bC0VGF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-onPostActions-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-protocols-postactiondelegate#sdk-for-ios-navigate-s-7heresdk18PostActionDelegateP02onB7ActionsyySayAA0bC0VGF" class="token"><code>onPostActions(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -58,12 +58,14 @@ This protocol should be implemented in order to receive post action notification
   Swift
 
   ``` highlight
-  func onPostActions ( _ postActions : [ PostAction ])
+  func onPostActions(_ postActions: [PostAction])
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-postaction">PostAction</a>
 
   </div>
 

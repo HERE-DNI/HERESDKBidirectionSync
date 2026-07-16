@@ -27,7 +27,7 @@ Parameters related to HERE Places cuisine system.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PlaceFoodTypeV2idSSvp"></span>` `<span id="//apple_ref/swift/Property/id" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-placefoodtype#/s:7heresdk13PlaceFoodTypeV2idSSvp" class="token"><code>id</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13PlaceFoodTypeV2idSSvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-id" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-placefoodtype#sdk-for-ios-explore-s-7heresdk13PlaceFoodTypeV2idSSvp" class="token"><code>id</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Parameters related to HERE Places cuisine system.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PlaceFoodTypeV4nameSSSgvp"></span>` `<span id="//apple_ref/swift/Property/name" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-placefoodtype#/s:7heresdk13PlaceFoodTypeV4nameSSSgvp" class="token"><code>name</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13PlaceFoodTypeV4nameSSSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-name" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-placefoodtype#sdk-for-ios-explore-s-7heresdk13PlaceFoodTypeV4nameSSSgvp" class="token"><code>name</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Parameters related to HERE Places cuisine system.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PlaceFoodTypeV7primarySbvp"></span>` `<span id="//apple_ref/swift/Property/primary" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-placefoodtype#/s:7heresdk13PlaceFoodTypeV7primarySbvp" class="token"><code>primary</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13PlaceFoodTypeV7primarySbvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-primary" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-placefoodtype#sdk-for-ios-explore-s-7heresdk13PlaceFoodTypeV7primarySbvp" class="token"><code>primary</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Parameters related to HERE Places cuisine system.
 
 - <div>
 
-      init(id: name: primary: )
+   <span id="sdk-for-ios-explore-s-7heresdk13PlaceFoodTypeV2id4name7primaryACSS_SSSgSbtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-id-name-primary" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-placefoodtype#sdk-for-ios-explore-s-7heresdk13PlaceFoodTypeV2id4name7primaryACSS_SSSgSbtcfc" class="token"><code>init(id:</code><wbr></wbr><code>name:</code><wbr></wbr><code>primary:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -190,10 +190,8 @@ Parameters related to HERE Places cuisine system.
   Swift
 
   ``` highlight
-  public init ( id : String , name : String ? = nil , primary : Bool = false )
+  public init(id: String, name: String? = nil, primary: Bool = false)
   ```
-
-  </pre>
 
   </div>
 

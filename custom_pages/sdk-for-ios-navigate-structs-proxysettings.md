@@ -27,7 +27,7 @@ Proxy configuration for the HERE SDK network that is applied per request. **Note
 
 - <div>
 
-  ` `<span id="/s:7heresdk13ProxySettingsV4typeAC0B4TypeOvp"></span>` `<span id="//apple_ref/swift/Property/type" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-proxysettings#/s:7heresdk13ProxySettingsV4typeAC0B4TypeOvp" class="token"><code>type</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13ProxySettingsV4typeAC0B4TypeOvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-type" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-proxysettings#sdk-for-ios-navigate-s-7heresdk13ProxySettingsV4typeAC0B4TypeOvp" class="token"><code>type</code></a> 
 
   </div>
 
@@ -63,6 +63,10 @@ Proxy configuration for the HERE SDK network that is applied per request. **Note
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-proxysettings-proxytype">ProxyType</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ Proxy configuration for the HERE SDK network that is applied per request. **Note
 
 - <div>
 
-  ` `<span id="/s:7heresdk13ProxySettingsV9ipAddress7Network9IPAddress_pvp"></span>` `<span id="//apple_ref/swift/Property/ipAddress" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-proxysettings#/s:7heresdk13ProxySettingsV9ipAddress7Network9IPAddress_pvp" class="token"><code>ipAddress</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13ProxySettingsV9ipAddress7Network9IPAddress_pvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-ipAddress" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-proxysettings#sdk-for-ios-navigate-s-7heresdk13ProxySettingsV9ipAddress7Network9IPAddress_pvp" class="token"><code>ipAddress</code></a> 
 
   </div>
 
@@ -115,7 +119,7 @@ Proxy configuration for the HERE SDK network that is applied per request. **Note
 
 - <div>
 
-  ` `<span id="/s:7heresdk13ProxySettingsV4ports6UInt16Vvp"></span>` `<span id="//apple_ref/swift/Property/port" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-proxysettings#/s:7heresdk13ProxySettingsV4ports6UInt16Vvp" class="token"><code>port</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13ProxySettingsV4ports6UInt16Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-port" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-proxysettings#sdk-for-ios-navigate-s-7heresdk13ProxySettingsV4ports6UInt16Vvp" class="token"><code>port</code></a> 
 
   </div>
 
@@ -159,7 +163,7 @@ Proxy configuration for the HERE SDK network that is applied per request. **Note
 
 - <div>
 
-  ` `<span id="/s:7heresdk13ProxySettingsV11credentialsAC11CredentialsVSgvp"></span>` `<span id="//apple_ref/swift/Property/credentials" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-proxysettings#/s:7heresdk13ProxySettingsV11credentialsAC11CredentialsVSgvp" class="token"><code>credentials</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13ProxySettingsV11credentialsAC11CredentialsVSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-credentials" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-proxysettings#sdk-for-ios-navigate-s-7heresdk13ProxySettingsV11credentialsAC11CredentialsVSgvp" class="token"><code>credentials</code></a> 
 
   </div>
 
@@ -195,6 +199,10 @@ Proxy configuration for the HERE SDK network that is applied per request. **Note
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-proxysettings-credentials">Credentials</a>
+
   </div>
 
   </div>
@@ -203,7 +211,7 @@ Proxy configuration for the HERE SDK network that is applied per request. **Note
 
 - <div>
 
-      init(type: ipAddress: port: credentials: )
+   <span id="sdk-for-ios-navigate-s-7heresdk13ProxySettingsV4type9ipAddress4port11credentialsA2C0B4TypeO_7Network9IPAddress_ps6UInt16VAC11CredentialsVSgtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-type-ipAddress-port-credentials" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-proxysettings#sdk-for-ios-navigate-s-7heresdk13ProxySettingsV4type9ipAddress4port11credentialsA2C0B4TypeO_7Network9IPAddress_ps6UInt16VAC11CredentialsVSgtcfc" class="token"><code>init(type:</code><wbr></wbr><code>ipAddress:</code><wbr></wbr><code>port:</code><wbr></wbr><code>credentials:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -234,12 +242,15 @@ Proxy configuration for the HERE SDK network that is applied per request. **Note
   Swift
 
   ``` highlight
-  public init ( type : ProxySettings . ProxyType , ipAddress : IPAddress , port : UInt16 , credentials : ProxySettings . Credentials ? = nil )
+  public init(type: ProxySettings.ProxyType, ipAddress: IPAddress, port: UInt16, credentials: ProxySettings.Credentials? = nil)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-proxysettings-proxytype">ProxyType</a>
+  - <a href="sdk-for-ios-navigate-structs-proxysettings-credentials">Credentials</a>
 
   </div>
 
@@ -249,7 +260,7 @@ Proxy configuration for the HERE SDK network that is applied per request. **Note
 
 - <div>
 
-  ` `<span id="/s:7heresdk13ProxySettingsV0B4TypeO"></span>` `<span id="//apple_ref/swift/Enum/ProxyType" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-proxysettings#/s:7heresdk13ProxySettingsV0B4TypeO" class="token"><code>ProxyType</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13ProxySettingsV0B4TypeO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-ProxyType" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-proxysettings#sdk-for-ios-navigate-s-7heresdk13ProxySettingsV0B4TypeO" class="token"><code>ProxyType</code></a> 
 
   </div>
 
@@ -295,7 +306,7 @@ Proxy configuration for the HERE SDK network that is applied per request. **Note
 
 - <div>
 
-  ` `<span id="/s:7heresdk13ProxySettingsV11CredentialsV"></span>` `<span id="//apple_ref/swift/Struct/Credentials" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-proxysettings#/s:7heresdk13ProxySettingsV11CredentialsV" class="token"><code>Credentials</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13ProxySettingsV11CredentialsV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-Credentials" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-proxysettings#sdk-for-ios-navigate-s-7heresdk13ProxySettingsV11CredentialsV" class="token"><code>Credentials</code></a> 
 
   </div>
 
@@ -341,7 +352,7 @@ Proxy configuration for the HERE SDK network that is applied per request. **Note
 
 - <div>
 
-      ==(_: _: )
+   <span id="sdk-for-ios-navigate-s-7heresdk13ProxySettingsV2eeoiySbAC_ACtFZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-_-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-proxysettings#sdk-for-ios-navigate-s-7heresdk13ProxySettingsV2eeoiySbAC_ACtFZ" class="token"><code>==(_:</code><wbr></wbr><code>_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -374,10 +385,8 @@ Proxy configuration for the HERE SDK network that is applied per request. **Note
   Swift
 
   ``` highlight
-  static func == ( lhs : ProxySettings , rhs : ProxySettings ) -> Bool
+  static func == (lhs: ProxySettings, rhs: ProxySettings) -> Bool
   ```
-
-  </pre>
 
   </div>
 
@@ -416,7 +425,7 @@ Proxy configuration for the HERE SDK network that is applied per request. **Note
 
 - <div>
 
-      hash(into: )
+   <span id="sdk-for-ios-navigate-s-7heresdk13ProxySettingsV4hash4intoys6HasherVz_tF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-hash-into" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-proxysettings#sdk-for-ios-navigate-s-7heresdk13ProxySettingsV4hash4intoys6HasherVz_tF" class="token"><code>hash(into:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -447,10 +456,8 @@ Proxy configuration for the HERE SDK network that is applied per request. **Note
   Swift
 
   ``` highlight
-  func hash ( into hasher : inout Hasher )
+  func hash(into hasher: inout Hasher)
   ```
-
-  </pre>
 
   </div>
 

@@ -35,7 +35,7 @@ An animation that can be applied to the <a href="sdk-for-ios-navigate-classes-ma
 
 - <div>
 
-  ` `<span id="/s:7heresdk18MapMarkerAnimationC18InstantiationErrora"></span>` `<span id="//apple_ref/swift/Alias/InstantiationError" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapmarkeranimation#/s:7heresdk18MapMarkerAnimationC18InstantiationErrora" class="token"><code>InstantiationError</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18MapMarkerAnimationC18InstantiationErrora"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Alias-InstantiationError" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapmarkeranimation#sdk-for-ios-navigate-s-7heresdk18MapMarkerAnimationC18InstantiationErrora" class="token"><code>InstantiationError</code></a> 
 
   </div>
 
@@ -71,6 +71,10 @@ An animation that can be applied to the <a href="sdk-for-ios-navigate-classes-ma
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mapmarkeranimation-instantiationerrorcode">InstantiationErrorCode</a>
+
   </div>
 
   </div>
@@ -79,7 +83,7 @@ An animation that can be applied to the <a href="sdk-for-ios-navigate-classes-ma
 
 - <div>
 
-      init(track: )
+   <span id="sdk-for-ios-navigate-s-7heresdk18MapMarkerAnimationC5trackAcA0B17ItemKeyFrameTrackC_tKcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-track" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapmarkeranimation#sdk-for-ios-navigate-s-7heresdk18MapMarkerAnimationC5trackAcA0B17ItemKeyFrameTrackC_tKcfc" class="token"><code>init(track:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -101,18 +105,13 @@ An animation that can be applied to the <a href="sdk-for-ios-navigate-classes-ma
 
   Supports tracks created with <a href="sdk-for-ios-navigate-classes-mapitemkeyframetrack">`MapItemKeyFrameTrack`</a> ‘moveTo\*’ methods.
 
-  For starting the animation see
-
-      MapMarker.startAnimation(...)
-
-  .
-  </p>
+  For starting the animation see <a href="sdk-for-ios-navigate-classes-mapmarker#sdk-for-ios-navigate-s-7heresdk9MapMarkerC14startAnimation_17animationDelegateyAA0bcE0C_AA0eG0_pSgtF">`MapMarker.startAnimation(...)`</a>.
 
   <div class="aside aside-throws">
 
   Throws
 
-  <a href="sdk-for-ios-navigate-classes-mapmarkeranimation#/s:7heresdk18MapMarkerAnimationC18InstantiationErrora">`MapMarkerAnimation.InstantiationError`</a> If the specified keyframe track cannot be used to create animation of a <a href="sdk-for-ios-navigate-classes-mapmarker">`MapMarker`</a>.
+  <a href="sdk-for-ios-navigate-classes-mapmarkeranimation#sdk-for-ios-navigate-s-7heresdk18MapMarkerAnimationC18InstantiationErrora">`MapMarkerAnimation.InstantiationError`</a> If the specified keyframe track cannot be used to create animation of a <a href="sdk-for-ios-navigate-classes-mapmarker">`MapMarker`</a>.
 
   </div>
 
@@ -127,12 +126,14 @@ An animation that can be applied to the <a href="sdk-for-ios-navigate-classes-ma
   Swift
 
   ``` highlight
-  public init ( track : MapItemKeyFrameTrack ) throws
+  public init(track: MapItemKeyFrameTrack) throws
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mapitemkeyframetrack">MapItemKeyFrameTrack</a>
 
   </div>
 
@@ -163,7 +164,7 @@ An animation that can be applied to the <a href="sdk-for-ios-navigate-classes-ma
 
 - <div>
 
-  ` `<span id="/s:7heresdk18MapMarkerAnimationC22InstantiationErrorCodeO"></span>` `<span id="//apple_ref/swift/Enum/InstantiationErrorCode" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapmarkeranimation#/s:7heresdk18MapMarkerAnimationC22InstantiationErrorCodeO" class="token"><code>InstantiationErrorCode</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18MapMarkerAnimationC22InstantiationErrorCodeO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-InstantiationErrorCode" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapmarkeranimation#sdk-for-ios-navigate-s-7heresdk18MapMarkerAnimationC22InstantiationErrorCodeO" class="token"><code>InstantiationErrorCode</code></a> 
 
   </div>
 
@@ -204,6 +205,10 @@ An animation that can be applied to the <a href="sdk-for-ios-navigate-classes-ma
   ```
 
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mapmarkeranimation">MapMarkerAnimation</a>
 
   </div>
 

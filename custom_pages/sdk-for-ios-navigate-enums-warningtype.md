@@ -27,7 +27,7 @@ Identifies the warning type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11WarningTypeO6customyA2CmF"></span>` `<span id="//apple_ref/swift/Element/custom" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-warningtype#/s:7heresdk11WarningTypeO6customyA2CmF" class="token"><code>custom</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11WarningTypeO6customyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-custom" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-warningtype#sdk-for-ios-navigate-s-7heresdk11WarningTypeO6customyA2CmF" class="token"><code>custom</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Identifies the warning type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11WarningTypeO12safetyCamerayA2CmF"></span>` `<span id="//apple_ref/swift/Element/safetyCamera" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-warningtype#/s:7heresdk11WarningTypeO12safetyCamerayA2CmF" class="token"><code>safetyCamera</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11WarningTypeO12safetyCamerayA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-safetyCamera" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-warningtype#sdk-for-ios-navigate-s-7heresdk11WarningTypeO12safetyCamerayA2CmF" class="token"><code>safetyCamera</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Identifies the warning type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11WarningTypeO16truckRestrictionyA2CmF"></span>` `<span id="//apple_ref/swift/Element/truckRestriction" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-warningtype#/s:7heresdk11WarningTypeO16truckRestrictionyA2CmF" class="token"><code>truckRestriction</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11WarningTypeO16truckRestrictionyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-truckRestriction" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-warningtype#sdk-for-ios-navigate-s-7heresdk11WarningTypeO16truckRestrictionyA2CmF" class="token"><code>truckRestriction</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Identifies the warning type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11WarningTypeO8roadSignyA2CmF"></span>` `<span id="//apple_ref/swift/Element/roadSign" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-warningtype#/s:7heresdk11WarningTypeO8roadSignyA2CmF" class="token"><code>roadSign</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11WarningTypeO8roadSignyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-roadSign" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-warningtype#sdk-for-ios-navigate-s-7heresdk11WarningTypeO8roadSignyA2CmF" class="token"><code>roadSign</code></a> 
 
   </div>
 
@@ -203,7 +203,7 @@ Identifies the warning type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11WarningTypeO13realisticViewyA2CmF"></span>` `<span id="//apple_ref/swift/Element/realisticView" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-warningtype#/s:7heresdk11WarningTypeO13realisticViewyA2CmF" class="token"><code>realisticView</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11WarningTypeO13realisticViewyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-realisticView" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-warningtype#sdk-for-ios-navigate-s-7heresdk11WarningTypeO13realisticViewyA2CmF" class="token"><code>realisticView</code></a> 
 
   </div>
 
@@ -247,7 +247,7 @@ Identifies the warning type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11WarningTypeO17environmentalZoneyA2CmF"></span>` `<span id="//apple_ref/swift/Element/environmentalZone" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-warningtype#/s:7heresdk11WarningTypeO17environmentalZoneyA2CmF" class="token"><code>environmentalZone</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11WarningTypeO17environmentalZoneyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-environmentalZone" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-warningtype#sdk-for-ios-navigate-s-7heresdk11WarningTypeO17environmentalZoneyA2CmF" class="token"><code>environmentalZone</code></a> 
 
   </div>
 
@@ -291,7 +291,7 @@ Identifies the warning type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11WarningTypeO10schoolZoneyA2CmF"></span>` `<span id="//apple_ref/swift/Element/schoolZone" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-warningtype#/s:7heresdk11WarningTypeO10schoolZoneyA2CmF" class="token"><code>schoolZone</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11WarningTypeO10schoolZoneyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-schoolZone" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-warningtype#sdk-for-ios-navigate-s-7heresdk11WarningTypeO10schoolZoneyA2CmF" class="token"><code>schoolZone</code></a> 
 
   </div>
 
@@ -335,7 +335,7 @@ Identifies the warning type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11WarningTypeO8tollStopyA2CmF"></span>` `<span id="//apple_ref/swift/Element/tollStop" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-warningtype#/s:7heresdk11WarningTypeO8tollStopyA2CmF" class="token"><code>tollStop</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11WarningTypeO8tollStopyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-tollStop" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-warningtype#sdk-for-ios-navigate-s-7heresdk11WarningTypeO8tollStopyA2CmF" class="token"><code>tollStop</code></a> 
 
   </div>
 
@@ -379,7 +379,7 @@ Identifies the warning type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11WarningTypeO10dangerZoneyA2CmF"></span>` `<span id="//apple_ref/swift/Element/dangerZone" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-warningtype#/s:7heresdk11WarningTypeO10dangerZoneyA2CmF" class="token"><code>dangerZone</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11WarningTypeO10dangerZoneyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-dangerZone" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-warningtype#sdk-for-ios-navigate-s-7heresdk11WarningTypeO10dangerZoneyA2CmF" class="token"><code>dangerZone</code></a> 
 
   </div>
 
@@ -423,7 +423,7 @@ Identifies the warning type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11WarningTypeO14borderCrossingyA2CmF"></span>` `<span id="//apple_ref/swift/Element/borderCrossing" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-warningtype#/s:7heresdk11WarningTypeO14borderCrossingyA2CmF" class="token"><code>borderCrossing</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11WarningTypeO14borderCrossingyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-borderCrossing" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-warningtype#sdk-for-ios-navigate-s-7heresdk11WarningTypeO14borderCrossingyA2CmF" class="token"><code>borderCrossing</code></a> 
 
   </div>
 
@@ -467,7 +467,7 @@ Identifies the warning type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11WarningTypeO15railwayCrossingyA2CmF"></span>` `<span id="//apple_ref/swift/Element/railwayCrossing" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-warningtype#/s:7heresdk11WarningTypeO15railwayCrossingyA2CmF" class="token"><code>railwayCrossing</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11WarningTypeO15railwayCrossingyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-railwayCrossing" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-warningtype#sdk-for-ios-navigate-s-7heresdk11WarningTypeO15railwayCrossingyA2CmF" class="token"><code>railwayCrossing</code></a> 
 
   </div>
 
@@ -511,7 +511,7 @@ Identifies the warning type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11WarningTypeO12lowSpeedZoneyA2CmF"></span>` `<span id="//apple_ref/swift/Element/lowSpeedZone" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-warningtype#/s:7heresdk11WarningTypeO12lowSpeedZoneyA2CmF" class="token"><code>lowSpeedZone</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11WarningTypeO12lowSpeedZoneyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-lowSpeedZone" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-warningtype#sdk-for-ios-navigate-s-7heresdk11WarningTypeO12lowSpeedZoneyA2CmF" class="token"><code>lowSpeedZone</code></a> 
 
   </div>
 
@@ -555,7 +555,7 @@ Identifies the warning type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11WarningTypeO12trafficMergeyA2CmF"></span>` `<span id="//apple_ref/swift/Element/trafficMerge" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-warningtype#/s:7heresdk11WarningTypeO12trafficMergeyA2CmF" class="token"><code>trafficMerge</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11WarningTypeO12trafficMergeyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-trafficMerge" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-warningtype#sdk-for-ios-navigate-s-7heresdk11WarningTypeO12trafficMergeyA2CmF" class="token"><code>trafficMerge</code></a> 
 
   </div>
 
@@ -599,7 +599,7 @@ Identifies the warning type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11WarningTypeO12laneDecreaseyA2CmF"></span>` `<span id="//apple_ref/swift/Element/laneDecrease" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-warningtype#/s:7heresdk11WarningTypeO12laneDecreaseyA2CmF" class="token"><code>laneDecrease</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11WarningTypeO12laneDecreaseyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-laneDecrease" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-warningtype#sdk-for-ios-navigate-s-7heresdk11WarningTypeO12laneDecreaseyA2CmF" class="token"><code>laneDecrease</code></a> 
 
   </div>
 

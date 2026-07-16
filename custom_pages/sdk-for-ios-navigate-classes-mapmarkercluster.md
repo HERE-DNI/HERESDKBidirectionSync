@@ -29,12 +29,7 @@ Groups map markers and enables their clustering to reduce visual clutter when th
 
 The markers that are close to each other are replaced by a single cluster marker. Cluster groups are generated based on geographical distance between objects, not based on screen space collision. Hence it is possible, that cluster markers can overlap.
 
-The markers can be added to a cluster or to a scene, but not to both. To display the cluster on the map, add it to the scene using
-
-    MapScene.addMapMarkerCluster(...)
-
-. The display of a cluster is only guaranteed in case its origin is within the viewport. At the moment, this is a known limitation that mostly affects clusters which are visually large and cover a sizeable part of the viewport.
-</p>
+The markers can be added to a cluster or to a scene, but not to both. To display the cluster on the map, add it to the scene using <a href="sdk-for-ios-navigate-classes-mapscene#sdk-for-ios-navigate-s-7heresdk8MapSceneC03addB13MarkerClusteryyAA0beF0CF">`MapScene.addMapMarkerCluster(...)`</a>. The display of a cluster is only guaranteed in case its origin is within the viewport. At the moment, this is a known limitation that mostly affects clusters which are visually large and cover a sizeable part of the viewport.
 
 Markers part of the cluster with opacity set to zero are still on the map and are considered for picking and clustering.
 
@@ -46,7 +41,7 @@ Markers part of the cluster with opacity set to zero are still on the map and ar
 
 - <div>
 
-      init(imageStyle: )
+   <span id="sdk-for-ios-navigate-s-7heresdk16MapMarkerClusterC10imageStyleA2C05ImageF0V_tcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-imageStyle" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapmarkercluster#sdk-for-ios-navigate-s-7heresdk16MapMarkerClusterC10imageStyleA2C05ImageF0V_tcfc" class="token"><code>init(imageStyle:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -79,12 +74,14 @@ Markers part of the cluster with opacity set to zero are still on the map and ar
   Swift
 
   ``` highlight
-  public init ( imageStyle : MapMarkerCluster . ImageStyle )
+  public init(imageStyle: MapMarkerCluster.ImageStyle)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mapmarkercluster-imagestyle">ImageStyle</a>
 
   </div>
 
@@ -115,7 +112,7 @@ Markers part of the cluster with opacity set to zero are still on the map and ar
 
 - <div>
 
-      init(imageStyle: counterStyle: )
+   <span id="sdk-for-ios-navigate-s-7heresdk16MapMarkerClusterC10imageStyle07counterF0A2C05ImageF0V_AC07CounterF0Vtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-imageStyle-counterStyle" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapmarkercluster#sdk-for-ios-navigate-s-7heresdk16MapMarkerClusterC10imageStyle07counterF0A2C05ImageF0V_AC07CounterF0Vtcfc" class="token"><code>init(imageStyle:</code><wbr></wbr><code>counterStyle:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -148,12 +145,15 @@ Markers part of the cluster with opacity set to zero are still on the map and ar
   Swift
 
   ``` highlight
-  public init ( imageStyle : MapMarkerCluster . ImageStyle , counterStyle : MapMarkerCluster . CounterStyle )
+  public init(imageStyle: MapMarkerCluster.ImageStyle, counterStyle: MapMarkerCluster.CounterStyle)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mapmarkercluster-imagestyle">ImageStyle</a>
+  - <a href="sdk-for-ios-navigate-classes-mapmarkercluster-counterstyle">CounterStyle</a>
 
   </div>
 
@@ -190,7 +190,7 @@ Markers part of the cluster with opacity set to zero are still on the map and ar
 
 - <div>
 
-  ` `<span id="/s:7heresdk16MapMarkerClusterC7markersSayAA0bC0CGvp"></span>` `<span id="//apple_ref/swift/Property/markers" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapmarkercluster#/s:7heresdk16MapMarkerClusterC7markersSayAA0bC0CGvp" class="token"><code>markers</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16MapMarkerClusterC7markersSayAA0bC0CGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-markers" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapmarkercluster#sdk-for-ios-navigate-s-7heresdk16MapMarkerClusterC7markersSayAA0bC0CGvp" class="token"><code>markers</code></a> 
 
   </div>
 
@@ -226,6 +226,10 @@ Markers part of the cluster with opacity set to zero are still on the map and ar
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mapmarker">MapMarker</a>
+
   </div>
 
   </div>
@@ -234,7 +238,7 @@ Markers part of the cluster with opacity set to zero are still on the map and ar
 
 - <div>
 
-  ` `<span id="/s:7heresdk16MapMarkerClusterC7opacitySdvp"></span>` `<span id="//apple_ref/swift/Property/opacity" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapmarkercluster#/s:7heresdk16MapMarkerClusterC7opacitySdvp" class="token"><code>opacity</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16MapMarkerClusterC7opacitySdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-opacity" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapmarkercluster#sdk-for-ios-navigate-s-7heresdk16MapMarkerClusterC7opacitySdvp" class="token"><code>opacity</code></a> 
 
   </div>
 
@@ -282,7 +286,7 @@ Markers part of the cluster with opacity set to zero are still on the map and ar
 
 - <div>
 
-  ` `<span id="/s:7heresdk16MapMarkerClusterC8GroupingV"></span>` `<span id="//apple_ref/swift/Struct/Grouping" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapmarkercluster#/s:7heresdk16MapMarkerClusterC8GroupingV" class="token"><code>Grouping</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16MapMarkerClusterC8GroupingV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-Grouping" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapmarkercluster#sdk-for-ios-navigate-s-7heresdk16MapMarkerClusterC8GroupingV" class="token"><code>Grouping</code></a> 
 
   </div>
 
@@ -330,7 +334,7 @@ Markers part of the cluster with opacity set to zero are still on the map and ar
 
 - <div>
 
-  ` `<span id="/s:7heresdk16MapMarkerClusterC10ImageStyleV"></span>` `<span id="//apple_ref/swift/Struct/ImageStyle" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapmarkercluster#/s:7heresdk16MapMarkerClusterC10ImageStyleV" class="token"><code>ImageStyle</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16MapMarkerClusterC10ImageStyleV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-ImageStyle" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapmarkercluster#sdk-for-ios-navigate-s-7heresdk16MapMarkerClusterC10ImageStyleV" class="token"><code>ImageStyle</code></a> 
 
   </div>
 
@@ -376,7 +380,7 @@ Markers part of the cluster with opacity set to zero are still on the map and ar
 
 - <div>
 
-  ` `<span id="/s:7heresdk16MapMarkerClusterC12CounterStyleV"></span>` `<span id="//apple_ref/swift/Struct/CounterStyle" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapmarkercluster#/s:7heresdk16MapMarkerClusterC12CounterStyleV" class="token"><code>CounterStyle</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16MapMarkerClusterC12CounterStyleV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-CounterStyle" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapmarkercluster#sdk-for-ios-navigate-s-7heresdk16MapMarkerClusterC12CounterStyleV" class="token"><code>CounterStyle</code></a> 
 
   </div>
 
@@ -422,7 +426,7 @@ Markers part of the cluster with opacity set to zero are still on the map and ar
 
 - <div>
 
-      addMapMarker(marker: )
+   <span id="sdk-for-ios-navigate-s-7heresdk16MapMarkerClusterC03addbC06markeryAA0bC0C_tF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-addMapMarker-marker" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapmarkercluster#sdk-for-ios-navigate-s-7heresdk16MapMarkerClusterC03addbC06markeryAA0bC0C_tF" class="token"><code>addMapMarker(marker:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -453,12 +457,14 @@ Markers part of the cluster with opacity set to zero are still on the map and ar
   Swift
 
   ``` highlight
-  public func addMapMarker ( marker : MapMarker )
+  public func addMapMarker(marker: MapMarker)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mapmarker">MapMarker</a>
 
   </div>
 
@@ -489,7 +495,7 @@ Markers part of the cluster with opacity set to zero are still on the map and ar
 
 - <div>
 
-      addMapMarkers(markers: )
+   <span id="sdk-for-ios-navigate-s-7heresdk16MapMarkerClusterC03addB7Markers7markersySayAA0bC0CG_tF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-addMapMarkers-markers" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapmarkercluster#sdk-for-ios-navigate-s-7heresdk16MapMarkerClusterC03addB7Markers7markersySayAA0bC0CG_tF" class="token"><code>addMapMarkers(markers:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -522,12 +528,14 @@ Markers part of the cluster with opacity set to zero are still on the map and ar
   Swift
 
   ``` highlight
-  public func addMapMarkers ( markers : [ MapMarker ])
+  public func addMapMarkers(markers: [MapMarker])
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mapmarker">MapMarker</a>
 
   </div>
 
@@ -558,7 +566,7 @@ Markers part of the cluster with opacity set to zero are still on the map and ar
 
 - <div>
 
-      removeMapMarker(marker: )
+   <span id="sdk-for-ios-navigate-s-7heresdk16MapMarkerClusterC06removebC06markeryAA0bC0C_tF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-removeMapMarker-marker" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapmarkercluster#sdk-for-ios-navigate-s-7heresdk16MapMarkerClusterC06removebC06markeryAA0bC0C_tF" class="token"><code>removeMapMarker(marker:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -591,12 +599,14 @@ Markers part of the cluster with opacity set to zero are still on the map and ar
   Swift
 
   ``` highlight
-  public func removeMapMarker ( marker : MapMarker )
+  public func removeMapMarker(marker: MapMarker)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mapmarker">MapMarker</a>
 
   </div>
 
@@ -627,7 +637,7 @@ Markers part of the cluster with opacity set to zero are still on the map and ar
 
 - <div>
 
-      removeMapMarkers(markers: )
+   <span id="sdk-for-ios-navigate-s-7heresdk16MapMarkerClusterC06removeB7Markers7markersySayAA0bC0CG_tF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-removeMapMarkers-markers" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapmarkercluster#sdk-for-ios-navigate-s-7heresdk16MapMarkerClusterC06removeB7Markers7markersySayAA0bC0CG_tF" class="token"><code>removeMapMarkers(markers:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -660,12 +670,14 @@ Markers part of the cluster with opacity set to zero are still on the map and ar
   Swift
 
   ``` highlight
-  public func removeMapMarkers ( markers : [ MapMarker ])
+  public func removeMapMarkers(markers: [MapMarker])
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mapmarker">MapMarker</a>
 
   </div>
 
@@ -696,7 +708,7 @@ Markers part of the cluster with opacity set to zero are still on the map and ar
 
 - <div>
 
-      removeAllMapMarkers()
+   <span id="sdk-for-ios-navigate-s-7heresdk16MapMarkerClusterC09removeAllB7MarkersyyF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-removeAllMapMarkers" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapmarkercluster#sdk-for-ios-navigate-s-7heresdk16MapMarkerClusterC09removeAllB7MarkersyyF" class="token"><code>removeAllMapMarkers()</code></a> 
 
   </div>
 
@@ -727,10 +739,8 @@ Markers part of the cluster with opacity set to zero are still on the map and ar
   Swift
 
   ``` highlight
-  public func removeAllMapMarkers ()
+  public func removeAllMapMarkers()
   ```
-
-  </pre>
 
   </div>
 

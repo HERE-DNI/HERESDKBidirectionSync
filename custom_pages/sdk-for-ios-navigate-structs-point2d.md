@@ -27,7 +27,7 @@ Represents a point in 2D space. When this point is used to indicate coordinates 
 
 - <div>
 
-  ` `<span id="/s:7heresdk7Point2DV1xSdvp"></span>` `<span id="//apple_ref/swift/Property/x" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-point2d#/s:7heresdk7Point2DV1xSdvp" class="token"><code>x</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk7Point2DV1xSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-x" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-point2d#sdk-for-ios-navigate-s-7heresdk7Point2DV1xSdvp" class="token"><code>x</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Represents a point in 2D space. When this point is used to indicate coordinates 
 
 - <div>
 
-  ` `<span id="/s:7heresdk7Point2DV1ySdvp"></span>` `<span id="//apple_ref/swift/Property/y" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-point2d#/s:7heresdk7Point2DV1ySdvp" class="token"><code>y</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk7Point2DV1ySdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-y" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-point2d#sdk-for-ios-navigate-s-7heresdk7Point2DV1ySdvp" class="token"><code>y</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Represents a point in 2D space. When this point is used to indicate coordinates 
 
 - <div>
 
-      init(x: y: )
+   <span id="sdk-for-ios-navigate-s-7heresdk7Point2DV1x1yACSd_Sdtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-x-y" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-point2d#sdk-for-ios-navigate-s-7heresdk7Point2DV1x1yACSd_Sdtcfc" class="token"><code>init(x:</code><wbr></wbr><code>y:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -146,10 +146,8 @@ Represents a point in 2D space. When this point is used to indicate coordinates 
   Swift
 
   ``` highlight
-  public init ( x : Double = 0.0 , y : Double = 0.0 )
+  public init(x: Double = 0.0, y: Double = 0.0)
   ```
-
-  </pre>
 
   </div>
 

@@ -27,7 +27,7 @@ Represents the rules regarding alcohol in blood content limit in a country or st
 
 - <div>
 
-  ` `<span id="/s:7heresdk24BloodAlcoholContentLimitV012noviceDriverE17InPartsPerMillions5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/noviceDriverLimitInPartsPerMillion" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-bloodalcoholcontentlimit#/s:7heresdk24BloodAlcoholContentLimitV012noviceDriverE17InPartsPerMillions5Int32Vvp" class="token"><code>noviceDriverLimitInPartsPerMillion</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk24BloodAlcoholContentLimitV012noviceDriverE17InPartsPerMillions5Int32Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-noviceDriverLimitInPartsPerMillion" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-bloodalcoholcontentlimit#sdk-for-ios-explore-s-7heresdk24BloodAlcoholContentLimitV012noviceDriverE17InPartsPerMillions5Int32Vvp" class="token"><code>noviceDriverLimitInPartsPerMillion</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Represents the rules regarding alcohol in blood content limit in a country or st
 
 - <div>
 
-  ` `<span id="/s:7heresdk24BloodAlcoholContentLimitV014standardDriverE17InPartsPerMillions5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/standardDriverLimitInPartsPerMillion" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-bloodalcoholcontentlimit#/s:7heresdk24BloodAlcoholContentLimitV014standardDriverE17InPartsPerMillions5Int32Vvp" class="token"><code>standardDriverLimitInPartsPerMillion</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk24BloodAlcoholContentLimitV014standardDriverE17InPartsPerMillions5Int32Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-standardDriverLimitInPartsPerMillion" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-bloodalcoholcontentlimit#sdk-for-ios-explore-s-7heresdk24BloodAlcoholContentLimitV014standardDriverE17InPartsPerMillions5Int32Vvp" class="token"><code>standardDriverLimitInPartsPerMillion</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Represents the rules regarding alcohol in blood content limit in a country or st
 
 - <div>
 
-  ` `<span id="/s:7heresdk24BloodAlcoholContentLimitV016commercialDriverE17InPartsPerMillions5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/commercialDriverLimitInPartsPerMillion" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-bloodalcoholcontentlimit#/s:7heresdk24BloodAlcoholContentLimitV016commercialDriverE17InPartsPerMillions5Int32Vvp" class="token"><code>commercialDriverLimitInPartsPerMillion</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk24BloodAlcoholContentLimitV016commercialDriverE17InPartsPerMillions5Int32Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-commercialDriverLimitInPartsPerMillion" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-bloodalcoholcontentlimit#sdk-for-ios-explore-s-7heresdk24BloodAlcoholContentLimitV016commercialDriverE17InPartsPerMillions5Int32Vvp" class="token"><code>commercialDriverLimitInPartsPerMillion</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Represents the rules regarding alcohol in blood content limit in a country or st
 
 - <div>
 
-      init(noviceDriverLimitInPartsPerMillion: standardDriverLimitInPartsPerMillion: commercialDriverLimitInPartsPerMillion: )
+   <span id="sdk-for-ios-explore-s-7heresdk24BloodAlcoholContentLimitV012noviceDriverE17InPartsPerMillion08standardgehijK0010commercialgehijK0ACs5Int32V_A2Htcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-noviceDriverLimitInPartsPerMillion-standardDriverLimitInPartsPerMillion-commercialDriverLimitInPartsPerMillion" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-bloodalcoholcontentlimit#sdk-for-ios-explore-s-7heresdk24BloodAlcoholContentLimitV012noviceDriverE17InPartsPerMillion08standardgehijK0010commercialgehijK0ACs5Int32V_A2Htcfc" class="token"><code>init(noviceDriverLimitInPartsPerMillion:</code><wbr></wbr><code>standardDriverLimitInPartsPerMillion:</code><wbr></wbr><code>commercialDriverLimitInPartsPerMillion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -190,10 +190,8 @@ Represents the rules regarding alcohol in blood content limit in a country or st
   Swift
 
   ``` highlight
-  public init ( noviceDriverLimitInPartsPerMillion : Int32 = 0 , standardDriverLimitInPartsPerMillion : Int32 = 0 , commercialDriverLimitInPartsPerMillion : Int32 = 0 )
+  public init(noviceDriverLimitInPartsPerMillion: Int32 = 0, standardDriverLimitInPartsPerMillion: Int32 = 0, commercialDriverLimitInPartsPerMillion: Int32 = 0)
   ```
-
-  </pre>
 
   </div>
 

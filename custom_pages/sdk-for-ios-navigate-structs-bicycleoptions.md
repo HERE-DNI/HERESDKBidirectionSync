@@ -10,10 +10,9 @@ slug: "sdk-for-ios-navigate-structs-bicycleoptions"
 <div class="language">
 
 ``` highlight
-@available(*, deprecated, message: "Will be removed in v4.28.0. Use `RoutingOptions` class instead.") public struct BicycleOptions : Hashable
+@available(*, deprecated, message: "Will be removed in v4.28.0. Use `RoutingOptions` class instead.")
+public struct BicycleOptions : Hashable
 ```
-
-</pre>
 
 </div>
 
@@ -29,7 +28,7 @@ All the options to specify how a bicycle route should be calculated.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14BicycleOptionsV05routeC0AA05RouteC0Vvp"></span>` `<span id="//apple_ref/swift/Property/routeOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-bicycleoptions#/s:7heresdk14BicycleOptionsV05routeC0AA05RouteC0Vvp" class="token"><code>routeOptions</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14BicycleOptionsV05routeC0AA05RouteC0Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-routeOptions" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-bicycleoptions#sdk-for-ios-navigate-s-7heresdk14BicycleOptionsV05routeC0AA05RouteC0Vvp" class="token"><code>routeOptions</code></a> 
 
   </div>
 
@@ -65,6 +64,10 @@ All the options to specify how a bicycle route should be calculated.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-routeoptions">RouteOptions</a>
+
   </div>
 
   </div>
@@ -73,7 +76,7 @@ All the options to specify how a bicycle route should be calculated.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14BicycleOptionsV04textC0AA09RouteTextC0Vvp"></span>` `<span id="//apple_ref/swift/Property/textOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-bicycleoptions#/s:7heresdk14BicycleOptionsV04textC0AA09RouteTextC0Vvp" class="token"><code>textOptions</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14BicycleOptionsV04textC0AA09RouteTextC0Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-textOptions" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-bicycleoptions#sdk-for-ios-navigate-s-7heresdk14BicycleOptionsV04textC0AA09RouteTextC0Vvp" class="token"><code>textOptions</code></a> 
 
   </div>
 
@@ -109,6 +112,10 @@ All the options to specify how a bicycle route should be calculated.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-routetextoptions">RouteTextOptions</a>
+
   </div>
 
   </div>
@@ -117,7 +124,7 @@ All the options to specify how a bicycle route should be calculated.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14BicycleOptionsV09avoidanceC0AA09AvoidanceC0Vvp"></span>` `<span id="//apple_ref/swift/Property/avoidanceOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-bicycleoptions#/s:7heresdk14BicycleOptionsV09avoidanceC0AA09AvoidanceC0Vvp" class="token"><code>avoidanceOptions</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14BicycleOptionsV09avoidanceC0AA09AvoidanceC0Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-avoidanceOptions" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-bicycleoptions#sdk-for-ios-navigate-s-7heresdk14BicycleOptionsV09avoidanceC0AA09AvoidanceC0Vvp" class="token"><code>avoidanceOptions</code></a> 
 
   </div>
 
@@ -153,6 +160,10 @@ All the options to specify how a bicycle route should be calculated.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-avoidanceoptions">AvoidanceOptions</a>
+
   </div>
 
   </div>
@@ -161,7 +172,7 @@ All the options to specify how a bicycle route should be calculated.
 
 - <div>
 
-      init(routeOptions: textOptions: avoidanceOptions: )
+   <span id="sdk-for-ios-navigate-s-7heresdk14BicycleOptionsV05routeC004textC009avoidanceC0AcA05RouteC0V_AA0g4TextC0VAA09AvoidanceC0Vtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-routeOptions-textOptions-avoidanceOptions" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-bicycleoptions#sdk-for-ios-navigate-s-7heresdk14BicycleOptionsV05routeC004textC009avoidanceC0AcA05RouteC0V_AA0g4TextC0VAA09AvoidanceC0Vtcfc" class="token"><code>init(routeOptions:</code><wbr></wbr><code>textOptions:</code><wbr></wbr><code>avoidanceOptions:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -192,12 +203,16 @@ All the options to specify how a bicycle route should be calculated.
   Swift
 
   ``` highlight
-  public init ( routeOptions : RouteOptions = RouteOptions (), textOptions : RouteTextOptions = RouteTextOptions (), avoidanceOptions : AvoidanceOptions = AvoidanceOptions ())
+  public init(routeOptions: RouteOptions = RouteOptions(), textOptions: RouteTextOptions = RouteTextOptions(), avoidanceOptions: AvoidanceOptions = AvoidanceOptions())
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-routeoptions">RouteOptions</a>
+  - <a href="sdk-for-ios-navigate-structs-routetextoptions">RouteTextOptions</a>
+  - <a href="sdk-for-ios-navigate-structs-avoidanceoptions">AvoidanceOptions</a>
 
   </div>
 

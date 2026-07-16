@@ -27,7 +27,7 @@ Category of a traffic incident.
 
 - <div>
 
-  ` `<span id="/s:7heresdk19TrafficIncidentTypeO8accidentyA2CmF"></span>` `<span id="//apple_ref/swift/Element/accident" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-trafficincidenttype#/s:7heresdk19TrafficIncidentTypeO8accidentyA2CmF" class="token"><code>accident</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19TrafficIncidentTypeO8accidentyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-accident" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-trafficincidenttype#sdk-for-ios-navigate-s-7heresdk19TrafficIncidentTypeO8accidentyA2CmF" class="token"><code>accident</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Category of a traffic incident.
 
 - <div>
 
-  ` `<span id="/s:7heresdk19TrafficIncidentTypeO10congestionyA2CmF"></span>` `<span id="//apple_ref/swift/Element/congestion" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-trafficincidenttype#/s:7heresdk19TrafficIncidentTypeO10congestionyA2CmF" class="token"><code>congestion</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19TrafficIncidentTypeO10congestionyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-congestion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-trafficincidenttype#sdk-for-ios-navigate-s-7heresdk19TrafficIncidentTypeO10congestionyA2CmF" class="token"><code>congestion</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Category of a traffic incident.
 
 - <div>
 
-  ` `<span id="/s:7heresdk19TrafficIncidentTypeO12constructionyA2CmF"></span>` `<span id="//apple_ref/swift/Element/construction" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-trafficincidenttype#/s:7heresdk19TrafficIncidentTypeO12constructionyA2CmF" class="token"><code>construction</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19TrafficIncidentTypeO12constructionyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-construction" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-trafficincidenttype#sdk-for-ios-navigate-s-7heresdk19TrafficIncidentTypeO12constructionyA2CmF" class="token"><code>construction</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Category of a traffic incident.
 
 - <div>
 
-  ` `<span id="/s:7heresdk19TrafficIncidentTypeO15disabledVehicleyA2CmF"></span>` `<span id="//apple_ref/swift/Element/disabledVehicle" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-trafficincidenttype#/s:7heresdk19TrafficIncidentTypeO15disabledVehicleyA2CmF" class="token"><code>disabledVehicle</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19TrafficIncidentTypeO15disabledVehicleyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-disabledVehicle" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-trafficincidenttype#sdk-for-ios-navigate-s-7heresdk19TrafficIncidentTypeO15disabledVehicleyA2CmF" class="token"><code>disabledVehicle</code></a> 
 
   </div>
 
@@ -203,7 +203,7 @@ Category of a traffic incident.
 
 - <div>
 
-  ` `<span id="/s:7heresdk19TrafficIncidentTypeO11massTransityA2CmF"></span>` `<span id="//apple_ref/swift/Element/massTransit" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-trafficincidenttype#/s:7heresdk19TrafficIncidentTypeO11massTransityA2CmF" class="token"><code>massTransit</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19TrafficIncidentTypeO11massTransityA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-massTransit" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-trafficincidenttype#sdk-for-ios-navigate-s-7heresdk19TrafficIncidentTypeO11massTransityA2CmF" class="token"><code>massTransit</code></a> 
 
   </div>
 
@@ -247,7 +247,7 @@ Category of a traffic incident.
 
 - <div>
 
-  ` `<span id="/s:7heresdk19TrafficIncidentTypeO12plannedEventyA2CmF"></span>` `<span id="//apple_ref/swift/Element/plannedEvent" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-trafficincidenttype#/s:7heresdk19TrafficIncidentTypeO12plannedEventyA2CmF" class="token"><code>plannedEvent</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19TrafficIncidentTypeO12plannedEventyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-plannedEvent" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-trafficincidenttype#sdk-for-ios-navigate-s-7heresdk19TrafficIncidentTypeO12plannedEventyA2CmF" class="token"><code>plannedEvent</code></a> 
 
   </div>
 
@@ -291,7 +291,7 @@ Category of a traffic incident.
 
 - <div>
 
-  ` `<span id="/s:7heresdk19TrafficIncidentTypeO10roadHazardyA2CmF"></span>` `<span id="//apple_ref/swift/Element/roadHazard" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-trafficincidenttype#/s:7heresdk19TrafficIncidentTypeO10roadHazardyA2CmF" class="token"><code>roadHazard</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19TrafficIncidentTypeO10roadHazardyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-roadHazard" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-trafficincidenttype#sdk-for-ios-navigate-s-7heresdk19TrafficIncidentTypeO10roadHazardyA2CmF" class="token"><code>roadHazard</code></a> 
 
   </div>
 
@@ -335,7 +335,7 @@ Category of a traffic incident.
 
 - <div>
 
-  ` `<span id="/s:7heresdk19TrafficIncidentTypeO7weatheryA2CmF"></span>` `<span id="//apple_ref/swift/Element/weather" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-trafficincidenttype#/s:7heresdk19TrafficIncidentTypeO7weatheryA2CmF" class="token"><code>weather</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19TrafficIncidentTypeO7weatheryA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-weather" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-trafficincidenttype#sdk-for-ios-navigate-s-7heresdk19TrafficIncidentTypeO7weatheryA2CmF" class="token"><code>weather</code></a> 
 
   </div>
 
@@ -379,7 +379,7 @@ Category of a traffic incident.
 
 - <div>
 
-  ` `<span id="/s:7heresdk19TrafficIncidentTypeO11roadClosureyA2CmF"></span>` `<span id="//apple_ref/swift/Element/roadClosure" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-trafficincidenttype#/s:7heresdk19TrafficIncidentTypeO11roadClosureyA2CmF" class="token"><code>roadClosure</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19TrafficIncidentTypeO11roadClosureyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-roadClosure" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-trafficincidenttype#sdk-for-ios-navigate-s-7heresdk19TrafficIncidentTypeO11roadClosureyA2CmF" class="token"><code>roadClosure</code></a> 
 
   </div>
 
@@ -423,7 +423,7 @@ Category of a traffic incident.
 
 - <div>
 
-  ` `<span id="/s:7heresdk19TrafficIncidentTypeO15laneRestrictionyA2CmF"></span>` `<span id="//apple_ref/swift/Element/laneRestriction" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-trafficincidenttype#/s:7heresdk19TrafficIncidentTypeO15laneRestrictionyA2CmF" class="token"><code>laneRestriction</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19TrafficIncidentTypeO15laneRestrictionyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-laneRestriction" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-trafficincidenttype#sdk-for-ios-navigate-s-7heresdk19TrafficIncidentTypeO15laneRestrictionyA2CmF" class="token"><code>laneRestriction</code></a> 
 
   </div>
 
@@ -467,7 +467,7 @@ Category of a traffic incident.
 
 - <div>
 
-  ` `<span id="/s:7heresdk19TrafficIncidentTypeO5otheryA2CmF"></span>` `<span id="//apple_ref/swift/Element/other" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-trafficincidenttype#/s:7heresdk19TrafficIncidentTypeO5otheryA2CmF" class="token"><code>other</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19TrafficIncidentTypeO5otheryA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-other" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-trafficincidenttype#sdk-for-ios-navigate-s-7heresdk19TrafficIncidentTypeO5otheryA2CmF" class="token"><code>other</code></a> 
 
   </div>
 
@@ -511,7 +511,7 @@ Category of a traffic incident.
 
 - <div>
 
-  ` `<span id="/s:7heresdk19TrafficIncidentTypeO7unknownyA2CmF"></span>` `<span id="//apple_ref/swift/Element/unknown" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-trafficincidenttype#/s:7heresdk19TrafficIncidentTypeO7unknownyA2CmF" class="token"><code>unknown</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19TrafficIncidentTypeO7unknownyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-unknown" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-trafficincidenttype#sdk-for-ios-navigate-s-7heresdk19TrafficIncidentTypeO7unknownyA2CmF" class="token"><code>unknown</code></a> 
 
   </div>
 

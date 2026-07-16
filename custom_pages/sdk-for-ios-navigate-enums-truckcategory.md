@@ -27,7 +27,7 @@ Specifies the truck category. **Note:** This is a **beta release** of this featu
 
 - <div>
 
-  ` `<span id="/s:7heresdk13TruckCategoryO8straightyA2CmF"></span>` `<span id="//apple_ref/swift/Element/straight" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-truckcategory#/s:7heresdk13TruckCategoryO8straightyA2CmF" class="token"><code>straight</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13TruckCategoryO8straightyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-straight" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-truckcategory#sdk-for-ios-navigate-s-7heresdk13TruckCategoryO8straightyA2CmF" class="token"><code>straight</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Specifies the truck category. **Note:** This is a **beta release** of this featu
 
 - <div>
 
-  ` `<span id="/s:7heresdk13TruckCategoryO7tractoryA2CmF"></span>` `<span id="//apple_ref/swift/Element/tractor" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-truckcategory#/s:7heresdk13TruckCategoryO7tractoryA2CmF" class="token"><code>tractor</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13TruckCategoryO7tractoryA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-tractor" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-truckcategory#sdk-for-ios-navigate-s-7heresdk13TruckCategoryO7tractoryA2CmF" class="token"><code>tractor</code></a> 
 
   </div>
 

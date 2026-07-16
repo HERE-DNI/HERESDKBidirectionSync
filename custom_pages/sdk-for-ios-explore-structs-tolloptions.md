@@ -27,7 +27,7 @@ The option to specify how the tolls should be calculated. **Note** Not used for 
 
 - <div>
 
-  ` `<span id="/s:7heresdk11TollOptionsV12transpondersSaySSGvp"></span>` `<span id="//apple_ref/swift/Property/transponders" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-tolloptions#/s:7heresdk11TollOptionsV12transpondersSaySSGvp" class="token"><code>transponders</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11TollOptionsV12transpondersSaySSGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-transponders" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-tolloptions#sdk-for-ios-explore-s-7heresdk11TollOptionsV12transpondersSaySSGvp" class="token"><code>transponders</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ The option to specify how the tolls should be calculated. **Note** Not used for 
 
 - <div>
 
-  ` `<span id="/s:7heresdk11TollOptionsV15vehicleCategoryAC07VehicleE0OSgvp"></span>` `<span id="//apple_ref/swift/Property/vehicleCategory" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-tolloptions#/s:7heresdk11TollOptionsV15vehicleCategoryAC07VehicleE0OSgvp" class="token"><code>vehicleCategory</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11TollOptionsV15vehicleCategoryAC07VehicleE0OSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-vehicleCategory" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-tolloptions#sdk-for-ios-explore-s-7heresdk11TollOptionsV15vehicleCategoryAC07VehicleE0OSgvp" class="token"><code>vehicleCategory</code></a> 
 
   </div>
 
@@ -107,6 +107,10 @@ The option to specify how the tolls should be calculated. **Note** Not used for 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-tolloptions-vehiclecategory">VehicleCategory</a>
+
   </div>
 
   </div>
@@ -115,7 +119,7 @@ The option to specify how the tolls should be calculated. **Note** Not used for 
 
 - <div>
 
-  ` `<span id="/s:7heresdk11TollOptionsV12emissionTypeAC08EmissionE0OSgvp"></span>` `<span id="//apple_ref/swift/Property/emissionType" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-tolloptions#/s:7heresdk11TollOptionsV12emissionTypeAC08EmissionE0OSgvp" class="token"><code>emissionType</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11TollOptionsV12emissionTypeAC08EmissionE0OSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-emissionType" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-tolloptions#sdk-for-ios-explore-s-7heresdk11TollOptionsV12emissionTypeAC08EmissionE0OSgvp" class="token"><code>emissionType</code></a> 
 
   </div>
 
@@ -151,6 +155,10 @@ The option to specify how the tolls should be calculated. **Note** Not used for 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-tolloptions-emissiontype">EmissionType</a>
+
   </div>
 
   </div>
@@ -159,7 +167,7 @@ The option to specify how the tolls should be calculated. **Note** Not used for 
 
 - <div>
 
-  ` `<span id="/s:7heresdk11TollOptionsV8co2Classs5Int32VSgvp"></span>` `<span id="//apple_ref/swift/Property/co2Class" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-tolloptions#/s:7heresdk11TollOptionsV8co2Classs5Int32VSgvp" class="token"><code>co2Class</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11TollOptionsV8co2Classs5Int32VSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-co2Class" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-tolloptions#sdk-for-ios-explore-s-7heresdk11TollOptionsV8co2Classs5Int32VSgvp" class="token"><code>co2Class</code></a> 
 
   </div>
 
@@ -177,7 +185,7 @@ The option to specify how the tolls should be calculated. **Note** Not used for 
 
   <div class="abstract">
 
-  Defines the CO2 class of the vehicle as defined by the toll operator. CO2 class is used with <a href="sdk-for-ios-explore-structs-tolloptions#/s:7heresdk11TollOptionsV12emissionTypeAC08EmissionE0OSgvp">`emissionType`</a>. Allowed values for CO2 class are 1, 2, 3, 4, or 5, where a lower value generally indicates lower CO2 emissions.
+  Defines the CO2 class of the vehicle as defined by the toll operator. CO2 class is used with <a href="sdk-for-ios-explore-structs-tolloptions#sdk-for-ios-explore-s-7heresdk11TollOptionsV12emissionTypeAC08EmissionE0OSgvp">`emissionType`</a>. Allowed values for CO2 class are 1, 2, 3, 4, or 5, where a lower value generally indicates lower CO2 emissions.
 
   </div>
 
@@ -203,7 +211,7 @@ The option to specify how the tolls should be calculated. **Note** Not used for 
 
 - <div>
 
-      init(transponders: vehicleCategory: emissionType: co2Class: )
+   <span id="sdk-for-ios-explore-s-7heresdk11TollOptionsV12transponders15vehicleCategory12emissionType8co2ClassACSaySSG_AC07VehicleF0OSgAC08EmissionH0OSgs5Int32VSgtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-transponders-vehicleCategory-emissionType-co2Class" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-tolloptions#sdk-for-ios-explore-s-7heresdk11TollOptionsV12transponders15vehicleCategory12emissionType8co2ClassACSaySSG_AC07VehicleF0OSgAC08EmissionH0OSgs5Int32VSgtcfc" class="token"><code>init(transponders:</code><wbr></wbr><code>vehicleCategory:</code><wbr></wbr><code>emissionType:</code><wbr></wbr><code>co2Class:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -234,12 +242,15 @@ The option to specify how the tolls should be calculated. **Note** Not used for 
   Swift
 
   ``` highlight
-  public init ( transponders : [ String ] = [], vehicleCategory : TollOptions . VehicleCategory ? = nil , emissionType : TollOptions . EmissionType ? = nil , co2Class : Int32 ? = nil )
+  public init(transponders: [String] = [], vehicleCategory: TollOptions.VehicleCategory? = nil, emissionType: TollOptions.EmissionType? = nil, co2Class: Int32? = nil)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-tolloptions-vehiclecategory">VehicleCategory</a>
+  - <a href="sdk-for-ios-explore-structs-tolloptions-emissiontype">EmissionType</a>
 
   </div>
 
@@ -249,7 +260,7 @@ The option to specify how the tolls should be calculated. **Note** Not used for 
 
 - <div>
 
-  ` `<span id="/s:7heresdk11TollOptionsV15VehicleCategoryO"></span>` `<span id="//apple_ref/swift/Enum/VehicleCategory" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-tolloptions#/s:7heresdk11TollOptionsV15VehicleCategoryO" class="token"><code>VehicleCategory</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11TollOptionsV15VehicleCategoryO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-VehicleCategory" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-tolloptions#sdk-for-ios-explore-s-7heresdk11TollOptionsV15VehicleCategoryO" class="token"><code>VehicleCategory</code></a> 
 
   </div>
 
@@ -295,7 +306,7 @@ The option to specify how the tolls should be calculated. **Note** Not used for 
 
 - <div>
 
-  ` `<span id="/s:7heresdk11TollOptionsV12EmissionTypeO"></span>` `<span id="//apple_ref/swift/Enum/EmissionType" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-tolloptions#/s:7heresdk11TollOptionsV12EmissionTypeO" class="token"><code>EmissionType</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11TollOptionsV12EmissionTypeO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-EmissionType" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-tolloptions#sdk-for-ios-explore-s-7heresdk11TollOptionsV12EmissionTypeO" class="token"><code>EmissionType</code></a> 
 
   </div>
 

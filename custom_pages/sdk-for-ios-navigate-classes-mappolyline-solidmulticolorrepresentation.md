@@ -15,13 +15,18 @@ public class SolidMultiColorRepresentation : MapPolyline.Representation
 
 </div>
 
+Related types:
+
+- <a href="sdk-for-ios-navigate-classes-mappolyline">MapPolyline</a>
+- <a href="sdk-for-ios-navigate-classes-mappolyline-representation">Representation</a>
+
 </div>
 
 Representation allows map polyline to be colored in multiple specified color segments.
 
 Color segment is defined by color stops. Color stop is specified as a polyline length ratio (0.0 - start of the polyline, 1.0 - end of the polyline). Color stop represents a color change starting at that exact point up until either the next color stop (if one exists) or the end of the polyline.
 
-Progress color <a href="sdk-for-ios-navigate-classes-mappolyline#/s:7heresdk11MapPolylineC13progressColorSo7UIColorCvp">`MapPolyline.progressColor`</a> overrides any of the multiple color.
+Progress color <a href="sdk-for-ios-navigate-classes-mappolyline#sdk-for-ios-navigate-s-7heresdk11MapPolylineC13progressColorSo7UIColorCvp">`MapPolyline.progressColor`</a> overrides any of the multiple color.
 
 Examples: The following configuration will color map polyline as follows:
 
@@ -39,7 +44,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      init(lineWidth: capShape: colorStops: colorIndices: colors: gradientLength: )
+   <span id="sdk-for-ios-navigate-s-7heresdk11MapPolylineC29SolidMultiColorRepresentationC9lineWidth8capShape10colorStops0L7Indices6colors14gradientLengthAeA0B26MeasureDependentRenderSizeV_AA7LineCapOSaySdGSays6UInt32VGSaySo7UIColorCGSdtKcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-lineWidth-capShape-colorStops-colorIndices-colors-gradientLength" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mappolyline-solidmulticolorrepresentation#sdk-for-ios-navigate-s-7heresdk11MapPolylineC29SolidMultiColorRepresentationC9lineWidth8capShape10colorStops0L7Indices6colors14gradientLengthAeA0B26MeasureDependentRenderSizeV_AA7LineCapOSaySdGSays6UInt32VGSaySo7UIColorCGSdtKcfc" class="token"><code>init(lineWidth:</code><wbr></wbr><code>capShape:</code><wbr></wbr><code>colorStops:</code><wbr></wbr><code>colorIndices:</code><wbr></wbr><code>colors:</code><wbr></wbr><code>gradientLength:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -61,7 +66,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
   Color segment is defined by color stops. Color stop is specified as a polyline length ratio (0.0 - start of the polyline, 1.0 - end of the polyline). Color stop represents a color change starting at that exact point up until either the next color stop (if one exists) or the end of the polyline.
 
-  Progress color <a href="sdk-for-ios-navigate-classes-mappolyline#/s:7heresdk11MapPolylineC13progressColorSo7UIColorCvp">`MapPolyline.progressColor`</a> overrides any of the multiple color.
+  Progress color <a href="sdk-for-ios-navigate-classes-mappolyline#sdk-for-ios-navigate-s-7heresdk11MapPolylineC13progressColorSo7UIColorCvp">`MapPolyline.progressColor`</a> overrides any of the multiple color.
 
   At map measures smaller than smallest map measure in the `lineWidth` line width is constant and equal to the width given for the smallest map measure in the `lineWidth`.
 
@@ -69,9 +74,9 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
   At map measures between two nearest given map measures line width is linearly interpolated between width values given for these map measures.
 
-  For <a href="sdk-for-ios-navigate-structs-mapmeasure-kind">`MapMeasure.Kind`</a> only <a href="sdk-for-ios-navigate-structs-mapmeasure-kind#/s:7heresdk10MapMeasureV4KindO9zoomLevelyA2EmF">`MapMeasure.Kind.zoomLevel`</a> is supported.
+  For <a href="sdk-for-ios-navigate-structs-mapmeasure-kind">`MapMeasure.Kind`</a> only <a href="sdk-for-ios-navigate-structs-mapmeasure-kind#sdk-for-ios-navigate-s-7heresdk10MapMeasureV4KindO9zoomLevelyA2EmF">`MapMeasure.Kind.zoomLevel`</a> is supported.
 
-  For <a href="sdk-for-ios-navigate-structs-rendersize-unit">`RenderSize.Unit`</a> only <a href="sdk-for-ios-navigate-structs-rendersize-unit#/s:7heresdk10RenderSizeV4UnitO6pixelsyA2EmF">`RenderSize.Unit.pixels`</a> is supported.
+  For <a href="sdk-for-ios-navigate-structs-rendersize-unit">`RenderSize.Unit`</a> only <a href="sdk-for-ios-navigate-structs-rendersize-unit#sdk-for-ios-navigate-s-7heresdk10RenderSizeV4UnitO6pixelsyA2EmF">`RenderSize.Unit.pixels`</a> is supported.
 
   `lineWidth` must not be 0 (`lineWidth.sizes` with all values set to 0.0).
 
@@ -81,7 +86,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
   Throws
 
-  <a href="sdk-for-ios-navigate-classes-mappolyline-representation#/s:7heresdk11MapPolylineC14RepresentationC18InstantiationErrora">`MapPolyline.Representation.InstantiationError`</a> In case of invalid input parameters.
+  <a href="sdk-for-ios-navigate-classes-mappolyline-representation#sdk-for-ios-navigate-s-7heresdk11MapPolylineC14RepresentationC18InstantiationErrora">`MapPolyline.Representation.InstantiationError`</a> In case of invalid input parameters.
 
   </div>
 
@@ -96,12 +101,15 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public init ( lineWidth : MapMeasureDependentRenderSize , capShape : LineCap , colorStops : [ Double ], colorIndices : [ UInt32 ], colors : [ UIColor ], gradientLength : Double ) throws
+  public init(lineWidth: MapMeasureDependentRenderSize, capShape: LineCap, colorStops: [Double], colorIndices: [UInt32], colors: [UIColor], gradientLength: Double) throws
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-mapmeasuredependentrendersize">MapMeasureDependentRenderSize</a>
+  - <a href="sdk-for-ios-navigate-enums-linecap">LineCap</a>
 
   </div>
 
@@ -162,7 +170,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      init(lineWidth: outlineWidth: outlineColor: capShape: colorStops: colorIndices: colors: gradientLength: )
+   <span id="sdk-for-ios-navigate-s-7heresdk11MapPolylineC29SolidMultiColorRepresentationC9lineWidth07outlineI00jF08capShape10colorStops0M7Indices6colors14gradientLengthAeA0B26MeasureDependentRenderSizeV_AOSo7UIColorCAA7LineCapOSaySdGSays6UInt32VGSayAQGSdtKcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-lineWidth-outlineWidth-outlineColor-capShape-colorStops-colorIndices-colors-gradientLength" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mappolyline-solidmulticolorrepresentation#sdk-for-ios-navigate-s-7heresdk11MapPolylineC29SolidMultiColorRepresentationC9lineWidth07outlineI00jF08capShape10colorStops0M7Indices6colors14gradientLengthAeA0B26MeasureDependentRenderSizeV_AOSo7UIColorCAA7LineCapOSaySdGSays6UInt32VGSayAQGSdtKcfc" class="token"><code>init(lineWidth:</code><wbr></wbr><code>outlineWidth:</code><wbr></wbr><code>outlineColor:</code><wbr></wbr><code>capShape:</code><wbr></wbr><code>colorStops:</code><wbr></wbr><code>colorIndices:</code><wbr></wbr><code>colors:</code><wbr></wbr><code>gradientLength:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -184,7 +192,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
   Color segment is defined by color stops. Color stop is specified as a polyline length ratio (0.0 - start of the polyline, 1.0 - end of the polyline). Color stop represents a color change starting at that exact point up until either the next color stop (if one exists) or the end of the polyline.
 
-  Progress color <a href="sdk-for-ios-navigate-classes-mappolyline#/s:7heresdk11MapPolylineC13progressColorSo7UIColorCvp">`MapPolyline.progressColor`</a> overrides any of the multiple color.
+  Progress color <a href="sdk-for-ios-navigate-classes-mappolyline#sdk-for-ios-navigate-s-7heresdk11MapPolylineC13progressColorSo7UIColorCvp">`MapPolyline.progressColor`</a> overrides any of the multiple color.
 
   The total width of the polyline is `line width + 2 * outline width`.
 
@@ -194,9 +202,9 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
   At map measures between two nearest given map measure is linearly interpolated between width values given for these map measures.
 
-  For <a href="sdk-for-ios-navigate-structs-mapmeasure-kind">`MapMeasure.Kind`</a> only <a href="sdk-for-ios-navigate-structs-mapmeasure-kind#/s:7heresdk10MapMeasureV4KindO9zoomLevelyA2EmF">`MapMeasure.Kind.zoomLevel`</a> is supported.
+  For <a href="sdk-for-ios-navigate-structs-mapmeasure-kind">`MapMeasure.Kind`</a> only <a href="sdk-for-ios-navigate-structs-mapmeasure-kind#sdk-for-ios-navigate-s-7heresdk10MapMeasureV4KindO9zoomLevelyA2EmF">`MapMeasure.Kind.zoomLevel`</a> is supported.
 
-  For <a href="sdk-for-ios-navigate-structs-rendersize-unit">`RenderSize.Unit`</a> only <a href="sdk-for-ios-navigate-structs-rendersize-unit#/s:7heresdk10RenderSizeV4UnitO6pixelsyA2EmF">`RenderSize.Unit.pixels`</a> is supported.
+  For <a href="sdk-for-ios-navigate-structs-rendersize-unit">`RenderSize.Unit`</a> only <a href="sdk-for-ios-navigate-structs-rendersize-unit#sdk-for-ios-navigate-s-7heresdk10RenderSizeV4UnitO6pixelsyA2EmF">`RenderSize.Unit.pixels`</a> is supported.
 
   `lineWidth` must not be 0 (`lineWidth.sizes` with all values set to 0.0).
 
@@ -206,7 +214,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
   Throws
 
-  <a href="sdk-for-ios-navigate-classes-mappolyline-representation#/s:7heresdk11MapPolylineC14RepresentationC18InstantiationErrora">`MapPolyline.Representation.InstantiationError`</a> In case of invalid input parameters.
+  <a href="sdk-for-ios-navigate-classes-mappolyline-representation#sdk-for-ios-navigate-s-7heresdk11MapPolylineC14RepresentationC18InstantiationErrora">`MapPolyline.Representation.InstantiationError`</a> In case of invalid input parameters.
 
   </div>
 
@@ -221,12 +229,15 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public init ( lineWidth : MapMeasureDependentRenderSize , outlineWidth : MapMeasureDependentRenderSize , outlineColor : UIColor , capShape : LineCap , colorStops : [ Double ], colorIndices : [ UInt32 ], colors : [ UIColor ], gradientLength : Double ) throws
+  public init(lineWidth: MapMeasureDependentRenderSize, outlineWidth: MapMeasureDependentRenderSize, outlineColor: UIColor, capShape: LineCap, colorStops: [Double], colorIndices: [UInt32], colors: [UIColor], gradientLength: Double) throws
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-mapmeasuredependentrendersize">MapMeasureDependentRenderSize</a>
+  - <a href="sdk-for-ios-navigate-enums-linecap">LineCap</a>
 
   </div>
 
@@ -299,7 +310,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      setMultiColors(colorStops: colorIndices: colors: )
+   <span id="sdk-for-ios-navigate-s-7heresdk11MapPolylineC29SolidMultiColorRepresentationC03setE6Colors10colorStops0J7Indices6colorsSbSaySdG_Says6UInt32VGSaySo7UIColorCGtF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-setMultiColors-colorStops-colorIndices-colors" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mappolyline-solidmulticolorrepresentation#sdk-for-ios-navigate-s-7heresdk11MapPolylineC29SolidMultiColorRepresentationC03setE6Colors10colorStops0J7Indices6colorsSbSaySdG_Says6UInt32VGSaySo7UIColorCGtF" class="token"><code>setMultiColors(colorStops:</code><wbr></wbr><code>colorIndices:</code><wbr></wbr><code>colors:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -332,10 +343,8 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func setMultiColors ( colorStops : [ Double ], colorIndices : [ UInt32 ], colors : [ UIColor ]) -> Bool
+  public func setMultiColors(colorStops: [Double], colorIndices: [UInt32], colors: [UIColor]) -> Bool
   ```
-
-  </pre>
 
   </div>
 
@@ -388,7 +397,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      setMultiColorGradientLength(length: )
+   <span id="sdk-for-ios-navigate-s-7heresdk11MapPolylineC29SolidMultiColorRepresentationC03seteF14GradientLength6lengthSbSd_tF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-setMultiColorGradientLength-length" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mappolyline-solidmulticolorrepresentation#sdk-for-ios-navigate-s-7heresdk11MapPolylineC29SolidMultiColorRepresentationC03seteF14GradientLength6lengthSbSd_tF" class="token"><code>setMultiColorGradientLength(length:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -427,10 +436,8 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func setMultiColorGradientLength ( length : Double ) -> Bool
+  public func setMultiColorGradientLength(length: Double) -> Bool
   ```
-
-  </pre>
 
   </div>
 

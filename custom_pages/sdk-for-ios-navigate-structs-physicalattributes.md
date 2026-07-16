@@ -31,7 +31,7 @@ Physical attributes of the segment.
 
 - <div>
 
-  ` `<span id="/s:7heresdk18PhysicalAttributesV10isDirtRoadSbvp"></span>` `<span id="//apple_ref/swift/Property/isDirtRoad" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-physicalattributes#/s:7heresdk18PhysicalAttributesV10isDirtRoadSbvp" class="token"><code>isDirtRoad</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18PhysicalAttributesV10isDirtRoadSbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-isDirtRoad" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-physicalattributes#sdk-for-ios-navigate-s-7heresdk18PhysicalAttributesV10isDirtRoadSbvp" class="token"><code>isDirtRoad</code></a> 
 
   </div>
 
@@ -75,7 +75,7 @@ Physical attributes of the segment.
 
 - <div>
 
-  ` `<span id="/s:7heresdk18PhysicalAttributesV8isTunnelSbvp"></span>` `<span id="//apple_ref/swift/Property/isTunnel" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-physicalattributes#/s:7heresdk18PhysicalAttributesV8isTunnelSbvp" class="token"><code>isTunnel</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18PhysicalAttributesV8isTunnelSbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-isTunnel" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-physicalattributes#sdk-for-ios-navigate-s-7heresdk18PhysicalAttributesV8isTunnelSbvp" class="token"><code>isTunnel</code></a> 
 
   </div>
 
@@ -119,7 +119,7 @@ Physical attributes of the segment.
 
 - <div>
 
-  ` `<span id="/s:7heresdk18PhysicalAttributesV8isBridgeSbvp"></span>` `<span id="//apple_ref/swift/Property/isBridge" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-physicalattributes#/s:7heresdk18PhysicalAttributesV8isBridgeSbvp" class="token"><code>isBridge</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18PhysicalAttributesV8isBridgeSbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-isBridge" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-physicalattributes#sdk-for-ios-navigate-s-7heresdk18PhysicalAttributesV8isBridgeSbvp" class="token"><code>isBridge</code></a> 
 
   </div>
 
@@ -163,7 +163,7 @@ Physical attributes of the segment.
 
 - <div>
 
-  ` `<span id="/s:7heresdk18PhysicalAttributesV9isPrivateSbvp"></span>` `<span id="//apple_ref/swift/Property/isPrivate" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-physicalattributes#/s:7heresdk18PhysicalAttributesV9isPrivateSbvp" class="token"><code>isPrivate</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18PhysicalAttributesV9isPrivateSbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-isPrivate" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-physicalattributes#sdk-for-ios-navigate-s-7heresdk18PhysicalAttributesV9isPrivateSbvp" class="token"><code>isPrivate</code></a> 
 
   </div>
 
@@ -207,7 +207,7 @@ Physical attributes of the segment.
 
 - <div>
 
-  ` `<span id="/s:7heresdk18PhysicalAttributesV12isRoundaboutSbvp"></span>` `<span id="//apple_ref/swift/Property/isRoundabout" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-physicalattributes#/s:7heresdk18PhysicalAttributesV12isRoundaboutSbvp" class="token"><code>isRoundabout</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18PhysicalAttributesV12isRoundaboutSbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-isRoundabout" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-physicalattributes#sdk-for-ios-navigate-s-7heresdk18PhysicalAttributesV12isRoundaboutSbvp" class="token"><code>isRoundabout</code></a> 
 
   </div>
 
@@ -251,7 +251,7 @@ Physical attributes of the segment.
 
 - <div>
 
-  ` `<span id="/s:7heresdk18PhysicalAttributesV19isMultiplyDigitizedSbvp"></span>` `<span id="//apple_ref/swift/Property/isMultiplyDigitized" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-physicalattributes#/s:7heresdk18PhysicalAttributesV19isMultiplyDigitizedSbvp" class="token"><code>isMultiplyDigitized</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18PhysicalAttributesV19isMultiplyDigitizedSbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-isMultiplyDigitized" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-physicalattributes#sdk-for-ios-navigate-s-7heresdk18PhysicalAttributesV19isMultiplyDigitizedSbvp" class="token"><code>isMultiplyDigitized</code></a> 
 
   </div>
 
@@ -295,7 +295,7 @@ Physical attributes of the segment.
 
 - <div>
 
-  ` `<span id="/s:7heresdk18PhysicalAttributesV7dividerAA11RoadDividerOSgvp"></span>` `<span id="//apple_ref/swift/Property/divider" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-physicalattributes#/s:7heresdk18PhysicalAttributesV7dividerAA11RoadDividerOSgvp" class="token"><code>divider</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18PhysicalAttributesV7dividerAA11RoadDividerOSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-divider" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-physicalattributes#sdk-for-ios-navigate-s-7heresdk18PhysicalAttributesV7dividerAA11RoadDividerOSgvp" class="token"><code>divider</code></a> 
 
   </div>
 
@@ -331,6 +331,10 @@ Physical attributes of the segment.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-roaddivider">RoadDivider</a>
+
   </div>
 
   </div>
@@ -339,7 +343,7 @@ Physical attributes of the segment.
 
 - <div>
 
-  ` `<span id="/s:7heresdk18PhysicalAttributesV11isBoatFerrySbvp"></span>` `<span id="//apple_ref/swift/Property/isBoatFerry" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-physicalattributes#/s:7heresdk18PhysicalAttributesV11isBoatFerrySbvp" class="token"><code>isBoatFerry</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18PhysicalAttributesV11isBoatFerrySbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-isBoatFerry" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-physicalattributes#sdk-for-ios-navigate-s-7heresdk18PhysicalAttributesV11isBoatFerrySbvp" class="token"><code>isBoatFerry</code></a> 
 
   </div>
 
@@ -383,7 +387,7 @@ Physical attributes of the segment.
 
 - <div>
 
-  ` `<span id="/s:7heresdk18PhysicalAttributesV11isRailFerrySbvp"></span>` `<span id="//apple_ref/swift/Property/isRailFerry" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-physicalattributes#/s:7heresdk18PhysicalAttributesV11isRailFerrySbvp" class="token"><code>isRailFerry</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18PhysicalAttributesV11isRailFerrySbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-isRailFerry" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-physicalattributes#sdk-for-ios-navigate-s-7heresdk18PhysicalAttributesV11isRailFerrySbvp" class="token"><code>isRailFerry</code></a> 
 
   </div>
 
@@ -427,7 +431,7 @@ Physical attributes of the segment.
 
 - <div>
 
-      init(isDirtRoad: isTunnel: isBridge: isPrivate: isRoundabout: isMultiplyDigitized: divider: isBoatFerry: isRailFerry: )
+   <span id="sdk-for-ios-navigate-s-7heresdk18PhysicalAttributesV10isDirtRoad0D6Tunnel0D6Bridge0D7Private0D10Roundabout0D17MultiplyDigitized7divider0D9BoatFerry0d4RailO0ACSb_S5bAA0F7DividerOSgS2btcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-isDirtRoad-isTunnel-isBridge-isPrivate-isRoundabout-isMultiplyDigitized-divider-isBoatFerry-isRailFerry" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-physicalattributes#sdk-for-ios-navigate-s-7heresdk18PhysicalAttributesV10isDirtRoad0D6Tunnel0D6Bridge0D7Private0D10Roundabout0D17MultiplyDigitized7divider0D9BoatFerry0d4RailO0ACSb_S5bAA0F7DividerOSgS2btcfc" class="token"><code>init(isDirtRoad:</code><wbr></wbr><code>isTunnel:</code><wbr></wbr><code>isBridge:</code><wbr></wbr><code>isPrivate:</code><wbr></wbr><code>isRoundabout:</code><wbr></wbr><code>isMultiplyDigitized:</code><wbr></wbr><code>divider:</code><wbr></wbr><code>isBoatFerry:</code><wbr></wbr><code>isRailFerry:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -458,12 +462,14 @@ Physical attributes of the segment.
   Swift
 
   ``` highlight
-  public init ( isDirtRoad : Bool = false , isTunnel : Bool = false , isBridge : Bool = false , isPrivate : Bool = false , isRoundabout : Bool = false , isMultiplyDigitized : Bool = false , divider : RoadDivider ? = nil , isBoatFerry : Bool = false , isRailFerry : Bool = false )
+  public init(isDirtRoad: Bool = false, isTunnel: Bool = false, isBridge: Bool = false, isPrivate: Bool = false, isRoundabout: Bool = false, isMultiplyDigitized: Bool = false, divider: RoadDivider? = nil, isBoatFerry: Bool = false, isRailFerry: Bool = false)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-roaddivider">RoadDivider</a>
 
   </div>
 

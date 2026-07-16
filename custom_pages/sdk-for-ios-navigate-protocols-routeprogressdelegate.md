@@ -27,7 +27,7 @@ This protocol should be implemented in order to receive notifications about the 
 
 - <div>
 
-      onRouteProgressUpdated(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk21RouteProgressDelegateP02onbC7UpdatedyyAA0bC0VF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-onRouteProgressUpdated-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-protocols-routeprogressdelegate#sdk-for-ios-navigate-s-7heresdk21RouteProgressDelegateP02onbC7UpdatedyyAA0bC0VF" class="token"><code>onRouteProgressUpdated(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -58,12 +58,14 @@ This protocol should be implemented in order to receive notifications about the 
   Swift
 
   ``` highlight
-  func onRouteProgressUpdated ( _ routeProgress : RouteProgress )
+  func onRouteProgressUpdated(_ routeProgress: RouteProgress)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-routeprogress">RouteProgress</a>
 
   </div>
 

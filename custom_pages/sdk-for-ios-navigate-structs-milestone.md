@@ -29,7 +29,7 @@ Note that this can include additional waypoints added during route calculation t
 
 - <div>
 
-  ` `<span id="/s:7heresdk9MilestoneV12sectionIndexs5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/sectionIndex" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-milestone#/s:7heresdk9MilestoneV12sectionIndexs5Int32Vvp" class="token"><code>sectionIndex</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9MilestoneV12sectionIndexs5Int32Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-sectionIndex" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-milestone#sdk-for-ios-navigate-s-7heresdk9MilestoneV12sectionIndexs5Int32Vvp" class="token"><code>sectionIndex</code></a> 
 
   </div>
 
@@ -73,7 +73,7 @@ Note that this can include additional waypoints added during route calculation t
 
 - <div>
 
-  ` `<span id="/s:7heresdk9MilestoneV13waypointIndexs5Int32VSgvp"></span>` `<span id="//apple_ref/swift/Property/waypointIndex" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-milestone#/s:7heresdk9MilestoneV13waypointIndexs5Int32VSgvp" class="token"><code>waypointIndex</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9MilestoneV13waypointIndexs5Int32VSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-waypointIndex" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-milestone#sdk-for-ios-navigate-s-7heresdk9MilestoneV13waypointIndexs5Int32VSgvp" class="token"><code>waypointIndex</code></a> 
 
   </div>
 
@@ -117,7 +117,7 @@ Note that this can include additional waypoints added during route calculation t
 
 - <div>
 
-  ` `<span id="/s:7heresdk9MilestoneV19originalCoordinatesAA03GeoD0VSgvp"></span>` `<span id="//apple_ref/swift/Property/originalCoordinates" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-milestone#/s:7heresdk9MilestoneV19originalCoordinatesAA03GeoD0VSgvp" class="token"><code>originalCoordinates</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9MilestoneV19originalCoordinatesAA03GeoD0VSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-originalCoordinates" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-milestone#sdk-for-ios-navigate-s-7heresdk9MilestoneV19originalCoordinatesAA03GeoD0VSgvp" class="token"><code>originalCoordinates</code></a> 
 
   </div>
 
@@ -153,6 +153,10 @@ Note that this can include additional waypoints added during route calculation t
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-geocoordinates">GeoCoordinates</a>
+
   </div>
 
   </div>
@@ -161,7 +165,7 @@ Note that this can include additional waypoints added during route calculation t
 
 - <div>
 
-  ` `<span id="/s:7heresdk9MilestoneV21mapMatchedCoordinatesAA03GeoE0Vvp"></span>` `<span id="//apple_ref/swift/Property/mapMatchedCoordinates" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-milestone#/s:7heresdk9MilestoneV21mapMatchedCoordinatesAA03GeoE0Vvp" class="token"><code>mapMatchedCoordinates</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9MilestoneV21mapMatchedCoordinatesAA03GeoE0Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-mapMatchedCoordinates" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-milestone#sdk-for-ios-navigate-s-7heresdk9MilestoneV21mapMatchedCoordinatesAA03GeoE0Vvp" class="token"><code>mapMatchedCoordinates</code></a> 
 
   </div>
 
@@ -197,6 +201,10 @@ Note that this can include additional waypoints added during route calculation t
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-geocoordinates">GeoCoordinates</a>
+
   </div>
 
   </div>
@@ -205,7 +213,7 @@ Note that this can include additional waypoints added during route calculation t
 
 - <div>
 
-  ` `<span id="/s:7heresdk9MilestoneV4typeAA0B4TypeOvp"></span>` `<span id="//apple_ref/swift/Property/type" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-milestone#/s:7heresdk9MilestoneV4typeAA0B4TypeOvp" class="token"><code>type</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9MilestoneV4typeAA0B4TypeOvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-type" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-milestone#sdk-for-ios-navigate-s-7heresdk9MilestoneV4typeAA0B4TypeOvp" class="token"><code>type</code></a> 
 
   </div>
 
@@ -241,6 +249,10 @@ Note that this can include additional waypoints added during route calculation t
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-milestonetype">MilestoneType</a>
+
   </div>
 
   </div>
@@ -249,7 +261,7 @@ Note that this can include additional waypoints added during route calculation t
 
 - <div>
 
-      init(sectionIndex: waypointIndex: originalCoordinates: mapMatchedCoordinates: type: )
+   <span id="sdk-for-ios-navigate-s-7heresdk9MilestoneV12sectionIndex08waypointD019originalCoordinates010mapMatchedG04typeACs5Int32V_AJSgAA03GeoG0VSgAmA0B4TypeOtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-sectionIndex-waypointIndex-originalCoordinates-mapMatchedCoordinates-type" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-milestone#sdk-for-ios-navigate-s-7heresdk9MilestoneV12sectionIndex08waypointD019originalCoordinates010mapMatchedG04typeACs5Int32V_AJSgAA03GeoG0VSgAmA0B4TypeOtcfc" class="token"><code>init(sectionIndex:</code><wbr></wbr><code>waypointIndex:</code><wbr></wbr><code>originalCoordinates:</code><wbr></wbr><code>mapMatchedCoordinates:</code><wbr></wbr><code>type:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -280,12 +292,15 @@ Note that this can include additional waypoints added during route calculation t
   Swift
 
   ``` highlight
-  public init ( sectionIndex : Int32 , waypointIndex : Int32 ? = nil , originalCoordinates : GeoCoordinates ? = nil , mapMatchedCoordinates : GeoCoordinates , type : MilestoneType = MilestoneType . stopover )
+  public init(sectionIndex: Int32, waypointIndex: Int32? = nil, originalCoordinates: GeoCoordinates? = nil, mapMatchedCoordinates: GeoCoordinates, type: MilestoneType = MilestoneType.stopover)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-geocoordinates">GeoCoordinates</a>
+  - <a href="sdk-for-ios-navigate-enums-milestonetype">MilestoneType</a>
 
   </div>
 

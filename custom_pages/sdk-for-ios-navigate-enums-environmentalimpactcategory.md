@@ -27,7 +27,7 @@ Represents environmental impacts category of the environmental impact for energy
 
 - <div>
 
-  ` `<span id="/s:7heresdk27EnvironmentalImpactCategoryO12nuclearWasteyA2CmF"></span>` `<span id="//apple_ref/swift/Element/nuclearWaste" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-environmentalimpactcategory#/s:7heresdk27EnvironmentalImpactCategoryO12nuclearWasteyA2CmF" class="token"><code>nuclearWaste</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk27EnvironmentalImpactCategoryO12nuclearWasteyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-nuclearWaste" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-environmentalimpactcategory#sdk-for-ios-navigate-s-7heresdk27EnvironmentalImpactCategoryO12nuclearWasteyA2CmF" class="token"><code>nuclearWaste</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Represents environmental impacts category of the environmental impact for energy
 
 - <div>
 
-  ` `<span id="/s:7heresdk27EnvironmentalImpactCategoryO13carbonDioxideyA2CmF"></span>` `<span id="//apple_ref/swift/Element/carbonDioxide" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-environmentalimpactcategory#/s:7heresdk27EnvironmentalImpactCategoryO13carbonDioxideyA2CmF" class="token"><code>carbonDioxide</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk27EnvironmentalImpactCategoryO13carbonDioxideyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-carbonDioxide" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-environmentalimpactcategory#sdk-for-ios-navigate-s-7heresdk27EnvironmentalImpactCategoryO13carbonDioxideyA2CmF" class="token"><code>carbonDioxide</code></a> 
 
   </div>
 

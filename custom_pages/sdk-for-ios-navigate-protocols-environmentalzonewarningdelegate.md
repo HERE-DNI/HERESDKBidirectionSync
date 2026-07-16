@@ -27,7 +27,7 @@ This protocol should be implemented in order to receive notifications about the 
 
 - <div>
 
-      onEnvironmentalZoneWarningsUpdated(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk32EnvironmentalZoneWarningDelegateP02onbC15WarningsUpdatedyySayAA0bcD0VGF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-onEnvironmentalZoneWarningsUpdated-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-protocols-environmentalzonewarningdelegate#sdk-for-ios-navigate-s-7heresdk32EnvironmentalZoneWarningDelegateP02onbC15WarningsUpdatedyySayAA0bcD0VGF" class="token"><code>onEnvironmentalZoneWarningsUpdated(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -58,12 +58,14 @@ This protocol should be implemented in order to receive notifications about the 
   Swift
 
   ``` highlight
-  func onEnvironmentalZoneWarningsUpdated ( _ environmentalZonesWarning : [ EnvironmentalZoneWarning ])
+  func onEnvironmentalZoneWarningsUpdated(_ environmentalZonesWarning: [EnvironmentalZoneWarning])
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-environmentalzonewarning">EnvironmentalZoneWarning</a>
 
   </div>
 

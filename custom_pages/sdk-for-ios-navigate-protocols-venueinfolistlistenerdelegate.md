@@ -27,7 +27,7 @@ The protocol for delegates for the list of <a href="sdk-for-ios-navigate-classes
 
 - <div>
 
-      onVenueInfoListLoad(venueInfoList: )
+   <span id="sdk-for-ios-navigate-s-7heresdk29VenueInfoListListenerDelegateP02onbcD4Load05venuecD0ySayAA0bC0CG_tF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-onVenueInfoListLoad-venueInfoList" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-protocols-venueinfolistlistenerdelegate#sdk-for-ios-navigate-s-7heresdk29VenueInfoListListenerDelegateP02onbcD4Load05venuecD0ySayAA0bC0CG_tF" class="token"><code>onVenueInfoListLoad(venueInfoList:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -58,12 +58,14 @@ The protocol for delegates for the list of <a href="sdk-for-ios-navigate-classes
   Swift
 
   ``` highlight
-  func onVenueInfoListLoad ( venueInfoList : VenueInfoDataList )
+  func onVenueInfoListLoad(venueInfoList: VenueInfoDataList)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-venues#sdk-for-ios-navigate-s-7heresdk17VenueInfoDataLista">VenueInfoDataList</a>
 
   </div>
 

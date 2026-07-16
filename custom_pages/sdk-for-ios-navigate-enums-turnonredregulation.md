@@ -27,7 +27,7 @@ The regulations for turning on the red color of the traffic light.
 
 - <div>
 
-  ` `<span id="/s:7heresdk19TurnOnRedRegulationO19allowedUnlessPostedyA2CmF"></span>` `<span id="//apple_ref/swift/Element/allowedUnlessPosted" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-turnonredregulation#/s:7heresdk19TurnOnRedRegulationO19allowedUnlessPostedyA2CmF" class="token"><code>allowedUnlessPosted</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19TurnOnRedRegulationO19allowedUnlessPostedyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-allowedUnlessPosted" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-turnonredregulation#sdk-for-ios-navigate-s-7heresdk19TurnOnRedRegulationO19allowedUnlessPostedyA2CmF" class="token"><code>allowedUnlessPosted</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ The regulations for turning on the red color of the traffic light.
 
 - <div>
 
-  ` `<span id="/s:7heresdk19TurnOnRedRegulationO22prohibitedUnlessPostedyA2CmF"></span>` `<span id="//apple_ref/swift/Element/prohibitedUnlessPosted" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-turnonredregulation#/s:7heresdk19TurnOnRedRegulationO22prohibitedUnlessPostedyA2CmF" class="token"><code>prohibitedUnlessPosted</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19TurnOnRedRegulationO22prohibitedUnlessPostedyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-prohibitedUnlessPosted" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-turnonredregulation#sdk-for-ios-navigate-s-7heresdk19TurnOnRedRegulationO22prohibitedUnlessPostedyA2CmF" class="token"><code>prohibitedUnlessPosted</code></a> 
 
   </div>
 

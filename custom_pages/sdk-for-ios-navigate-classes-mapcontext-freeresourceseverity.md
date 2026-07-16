@@ -27,7 +27,7 @@ The severity of a free resource request.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10MapContextC20FreeResourceSeverityO8moderateyA2EmF"></span>` `<span id="//apple_ref/swift/Element/moderate" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapcontext-freeresourceseverity#/s:7heresdk10MapContextC20FreeResourceSeverityO8moderateyA2EmF" class="token"><code>moderate</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10MapContextC20FreeResourceSeverityO8moderateyA2EmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-moderate" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapcontext-freeresourceseverity#sdk-for-ios-navigate-s-7heresdk10MapContextC20FreeResourceSeverityO8moderateyA2EmF" class="token"><code>moderate</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ The severity of a free resource request.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10MapContextC20FreeResourceSeverityO8criticalyA2EmF"></span>` `<span id="//apple_ref/swift/Element/critical" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapcontext-freeresourceseverity#/s:7heresdk10MapContextC20FreeResourceSeverityO8criticalyA2EmF" class="token"><code>critical</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10MapContextC20FreeResourceSeverityO8criticalyA2EmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-critical" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapcontext-freeresourceseverity#sdk-for-ios-navigate-s-7heresdk10MapContextC20FreeResourceSeverityO8criticalyA2EmF" class="token"><code>critical</code></a> 
 
   </div>
 

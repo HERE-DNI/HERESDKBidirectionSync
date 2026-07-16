@@ -31,7 +31,7 @@ By default, incidents are localized based on their geographical location. You ca
 
 The resulting traffic data contains information on incident types such as congestion, construction for road works, road hazard, road closure, weather updates for road condition, lane restriction and others.
 
-Traffic data is fetched online to get the most precise and freshest data available. In offline mode, live traffic data can be fetched using the traffic pass-through features. See <a href="sdk-for-ios-explore-classes-sdknativeengine#/s:7heresdk15SDKNativeEngineC19passThroughFeaturesShyAA04PassE7FeatureOGSgvp">`SDKNativeEngine.passThroughFeatures`</a>
+Traffic data is fetched online to get the most precise and freshest data available. In offline mode, live traffic data can be fetched using the traffic pass-through features. See <a href="sdk-for-ios-explore-classes-sdknativeengine#sdk-for-ios-explore-s-7heresdk15SDKNativeEngineC19passThroughFeaturesShyAA04PassE7FeatureOGSgvp">`SDKNativeEngine.passThroughFeatures`</a>
 
 </div>
 
@@ -41,7 +41,7 @@ Traffic data is fetched online to get the most precise and freshest data availab
 
 - <div>
 
-      init()
+   <span id="sdk-for-ios-explore-s-7heresdk13TrafficEngineCACyKcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-trafficengine#sdk-for-ios-explore-s-7heresdk13TrafficEngineCACyKcfc" class="token"><code>init()</code></a> 
 
   </div>
 
@@ -65,7 +65,7 @@ Traffic data is fetched online to get the most precise and freshest data availab
 
   Throws
 
-  <a href="sdk-for-ios-explore-core#/s:7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
+  <a href="sdk-for-ios-explore-core#sdk-for-ios-explore-s-7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
 
   </div>
 
@@ -80,10 +80,8 @@ Traffic data is fetched online to get the most precise and freshest data availab
   Swift
 
   ``` highlight
-  public init () throws
+  public init() throws
   ```
-
-  </pre>
 
   </div>
 
@@ -95,7 +93,7 @@ Traffic data is fetched online to get the most precise and freshest data availab
 
 - <div>
 
-      init(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk13TrafficEngineCyAcA09SDKNativeC0CKcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-trafficengine#sdk-for-ios-explore-s-7heresdk13TrafficEngineCyAcA09SDKNativeC0CKcfc" class="token"><code>init(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -119,7 +117,7 @@ Traffic data is fetched online to get the most precise and freshest data availab
 
   Throws
 
-  <a href="sdk-for-ios-explore-core#/s:7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
+  <a href="sdk-for-ios-explore-core#sdk-for-ios-explore-s-7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
 
   </div>
 
@@ -134,12 +132,14 @@ Traffic data is fetched online to get the most precise and freshest data availab
   Swift
 
   ``` highlight
-  public init ( _ sdkEngine : SDKNativeEngine ) throws
+  public init(_ sdkEngine: SDKNativeEngine) throws
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-sdknativeengine">SDKNativeEngine</a>
 
   </div>
 
@@ -170,7 +170,7 @@ Traffic data is fetched online to get the most precise and freshest data availab
 
 - <div>
 
-      queryForIncidents(inside: queryOptions: completion: )
+   <span id="sdk-for-ios-explore-s-7heresdk13TrafficEngineC17queryForIncidents6inside0D7Options10completionAA10TaskHandle_pAA6GeoBoxV_AA0bf5QueryH0VyAA0bN5ErrorOSg_SayAA0B8IncidentCGSgtctF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-queryForIncidents-inside-queryOptions-completion" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-trafficengine#sdk-for-ios-explore-s-7heresdk13TrafficEngineC17queryForIncidents6inside0D7Options10completionAA10TaskHandle_pAA6GeoBoxV_AA0bf5QueryH0VyAA0bN5ErrorOSg_SayAA0B8IncidentCGSgtctF" class="token"><code>queryForIncidents(inside:</code><wbr></wbr><code>queryOptions:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -201,12 +201,18 @@ Traffic data is fetched online to get the most precise and freshest data availab
   Swift
 
   ``` highlight
-  @discardableResult public func queryForIncidents ( inside boxArea : GeoBox , queryOptions : TrafficIncidentsQueryOptions , completion : @escaping TrafficIncidentsQueryCompletionHandler ) -> TaskHandle
+  @discardableResult
+  public func queryForIncidents(inside boxArea: GeoBox, queryOptions: TrafficIncidentsQueryOptions, completion: @escaping TrafficIncidentsQueryCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geobox">GeoBox</a>
+  - <a href="sdk-for-ios-explore-structs-trafficincidentsqueryoptions">TrafficIncidentsQueryOptions</a>
+  - <a href="sdk-for-ios-explore-traffic#sdk-for-ios-explore-s-7heresdk38TrafficIncidentsQueryCompletionHandlera">TrafficIncidentsQueryCompletionHandler</a>
+  - <a href="sdk-for-ios-explore-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -257,7 +263,7 @@ Traffic data is fetched online to get the most precise and freshest data availab
 
 - <div>
 
-      queryForIncidents(inside: queryOptions: completion: )
+   <span id="sdk-for-ios-explore-s-7heresdk13TrafficEngineC17queryForIncidents6inside0D7Options10completionAA10TaskHandle_pAA9GeoCircleV_AA0bf5QueryH0VyAA0bN5ErrorOSg_SayAA0B8IncidentCGSgtctF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-queryForIncidents-inside-queryOptions-completion" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-trafficengine#sdk-for-ios-explore-s-7heresdk13TrafficEngineC17queryForIncidents6inside0D7Options10completionAA10TaskHandle_pAA9GeoCircleV_AA0bf5QueryH0VyAA0bN5ErrorOSg_SayAA0B8IncidentCGSgtctF" class="token"><code>queryForIncidents(inside:</code><wbr></wbr><code>queryOptions:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -288,12 +294,18 @@ Traffic data is fetched online to get the most precise and freshest data availab
   Swift
 
   ``` highlight
-  @discardableResult public func queryForIncidents ( inside circleArea : GeoCircle , queryOptions : TrafficIncidentsQueryOptions , completion : @escaping TrafficIncidentsQueryCompletionHandler ) -> TaskHandle
+  @discardableResult
+  public func queryForIncidents(inside circleArea: GeoCircle, queryOptions: TrafficIncidentsQueryOptions, completion: @escaping TrafficIncidentsQueryCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geocircle">GeoCircle</a>
+  - <a href="sdk-for-ios-explore-structs-trafficincidentsqueryoptions">TrafficIncidentsQueryOptions</a>
+  - <a href="sdk-for-ios-explore-traffic#sdk-for-ios-explore-s-7heresdk38TrafficIncidentsQueryCompletionHandlera">TrafficIncidentsQueryCompletionHandler</a>
+  - <a href="sdk-for-ios-explore-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -344,7 +356,7 @@ Traffic data is fetched online to get the most precise and freshest data availab
 
 - <div>
 
-      queryForIncidents(inside: queryOptions: completion: )
+   <span id="sdk-for-ios-explore-s-7heresdk13TrafficEngineC17queryForIncidents6inside0D7Options10completionAA10TaskHandle_pAA11GeoCorridorV_AA0bf5QueryH0VyAA0bN5ErrorOSg_SayAA0B8IncidentCGSgtctF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-queryForIncidents-inside-queryOptions-completion" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-trafficengine#sdk-for-ios-explore-s-7heresdk13TrafficEngineC17queryForIncidents6inside0D7Options10completionAA10TaskHandle_pAA11GeoCorridorV_AA0bf5QueryH0VyAA0bN5ErrorOSg_SayAA0B8IncidentCGSgtctF" class="token"><code>queryForIncidents(inside:</code><wbr></wbr><code>queryOptions:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -375,12 +387,18 @@ Traffic data is fetched online to get the most precise and freshest data availab
   Swift
 
   ``` highlight
-  @discardableResult public func queryForIncidents ( inside corridorArea : GeoCorridor , queryOptions : TrafficIncidentsQueryOptions , completion : @escaping TrafficIncidentsQueryCompletionHandler ) -> TaskHandle
+  @discardableResult
+  public func queryForIncidents(inside corridorArea: GeoCorridor, queryOptions: TrafficIncidentsQueryOptions, completion: @escaping TrafficIncidentsQueryCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geocorridor">GeoCorridor</a>
+  - <a href="sdk-for-ios-explore-structs-trafficincidentsqueryoptions">TrafficIncidentsQueryOptions</a>
+  - <a href="sdk-for-ios-explore-traffic#sdk-for-ios-explore-s-7heresdk38TrafficIncidentsQueryCompletionHandlera">TrafficIncidentsQueryCompletionHandler</a>
+  - <a href="sdk-for-ios-explore-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -431,7 +449,7 @@ Traffic data is fetched online to get the most precise and freshest data availab
 
 - <div>
 
-      lookupIncident(with: lookupOptions: completion: )
+   <span id="sdk-for-ios-explore-s-7heresdk13TrafficEngineC14lookupIncident4with0D7Options10completionAA10TaskHandle_pSS_AA0be6LookupG0VyAA0B10QueryErrorOSg_AA0bE0CSgtctF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-lookupIncident-with-lookupOptions-completion" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-trafficengine#sdk-for-ios-explore-s-7heresdk13TrafficEngineC14lookupIncident4with0D7Options10completionAA10TaskHandle_pSS_AA0be6LookupG0VyAA0B10QueryErrorOSg_AA0bE0CSgtctF" class="token"><code>lookupIncident(with:</code><wbr></wbr><code>lookupOptions:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -449,7 +467,7 @@ Traffic data is fetched online to get the most precise and freshest data availab
 
   <div class="abstract">
 
-  Asynchronously queries for traffic incident by the original id. See <a href="sdk-for-ios-explore-classes-trafficincident#/s:7heresdk15TrafficIncidentC10originalIdSSvp">`TrafficIncident.originalId`</a> for more information.
+  Asynchronously queries for traffic incident by the original id. See <a href="sdk-for-ios-explore-classes-trafficincident#sdk-for-ios-explore-s-7heresdk15TrafficIncidentC10originalIdSSvp">`TrafficIncident.originalId`</a> for more information.
 
   </div>
 
@@ -462,12 +480,17 @@ Traffic data is fetched online to get the most precise and freshest data availab
   Swift
 
   ``` highlight
-  @discardableResult public func lookupIncident ( with originalId : String , lookupOptions : TrafficIncidentLookupOptions , completion : @escaping TrafficIncidentCompletionHandler ) -> TaskHandle
+  @discardableResult
+  public func lookupIncident(with originalId: String, lookupOptions: TrafficIncidentLookupOptions, completion: @escaping TrafficIncidentCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-trafficincidentlookupoptions">TrafficIncidentLookupOptions</a>
+  - <a href="sdk-for-ios-explore-traffic#sdk-for-ios-explore-s-7heresdk32TrafficIncidentCompletionHandlera">TrafficIncidentCompletionHandler</a>
+  - <a href="sdk-for-ios-explore-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -518,7 +541,7 @@ Traffic data is fetched online to get the most precise and freshest data availab
 
 - <div>
 
-      queryForFlow(inside: queryOptions: completion: )
+   <span id="sdk-for-ios-explore-s-7heresdk13TrafficEngineC12queryForFlow6inside0D7Options10completionAA10TaskHandle_pAA6GeoBoxV_AA0bf5QueryH0VyAA0bN5ErrorOSg_SayAA0bF0CGSgtctF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-queryForFlow-inside-queryOptions-completion" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-trafficengine#sdk-for-ios-explore-s-7heresdk13TrafficEngineC12queryForFlow6inside0D7Options10completionAA10TaskHandle_pAA6GeoBoxV_AA0bf5QueryH0VyAA0bN5ErrorOSg_SayAA0bF0CGSgtctF" class="token"><code>queryForFlow(inside:</code><wbr></wbr><code>queryOptions:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -551,12 +574,18 @@ Traffic data is fetched online to get the most precise and freshest data availab
   Swift
 
   ``` highlight
-  @discardableResult public func queryForFlow ( inside boxArea : GeoBox , queryOptions : TrafficFlowQueryOptions , completion : @escaping TrafficFlowQueryCompletionHandler ) -> TaskHandle
+  @discardableResult
+  public func queryForFlow(inside boxArea: GeoBox, queryOptions: TrafficFlowQueryOptions, completion: @escaping TrafficFlowQueryCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geobox">GeoBox</a>
+  - <a href="sdk-for-ios-explore-structs-trafficflowqueryoptions">TrafficFlowQueryOptions</a>
+  - <a href="sdk-for-ios-explore-traffic#sdk-for-ios-explore-s-7heresdk33TrafficFlowQueryCompletionHandlera">TrafficFlowQueryCompletionHandler</a>
+  - <a href="sdk-for-ios-explore-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -607,7 +636,7 @@ Traffic data is fetched online to get the most precise and freshest data availab
 
 - <div>
 
-      queryForFlow(inside: queryOptions: completion: )
+   <span id="sdk-for-ios-explore-s-7heresdk13TrafficEngineC12queryForFlow6inside0D7Options10completionAA10TaskHandle_pAA9GeoCircleV_AA0bf5QueryH0VyAA0bN5ErrorOSg_SayAA0bF0CGSgtctF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-queryForFlow-inside-queryOptions-completion" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-trafficengine#sdk-for-ios-explore-s-7heresdk13TrafficEngineC12queryForFlow6inside0D7Options10completionAA10TaskHandle_pAA9GeoCircleV_AA0bf5QueryH0VyAA0bN5ErrorOSg_SayAA0bF0CGSgtctF" class="token"><code>queryForFlow(inside:</code><wbr></wbr><code>queryOptions:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -640,12 +669,18 @@ Traffic data is fetched online to get the most precise and freshest data availab
   Swift
 
   ``` highlight
-  @discardableResult public func queryForFlow ( inside circleArea : GeoCircle , queryOptions : TrafficFlowQueryOptions , completion : @escaping TrafficFlowQueryCompletionHandler ) -> TaskHandle
+  @discardableResult
+  public func queryForFlow(inside circleArea: GeoCircle, queryOptions: TrafficFlowQueryOptions, completion: @escaping TrafficFlowQueryCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geocircle">GeoCircle</a>
+  - <a href="sdk-for-ios-explore-structs-trafficflowqueryoptions">TrafficFlowQueryOptions</a>
+  - <a href="sdk-for-ios-explore-traffic#sdk-for-ios-explore-s-7heresdk33TrafficFlowQueryCompletionHandlera">TrafficFlowQueryCompletionHandler</a>
+  - <a href="sdk-for-ios-explore-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -696,7 +731,7 @@ Traffic data is fetched online to get the most precise and freshest data availab
 
 - <div>
 
-      queryForFlow(inside: queryOptions: completion: )
+   <span id="sdk-for-ios-explore-s-7heresdk13TrafficEngineC12queryForFlow6inside0D7Options10completionAA10TaskHandle_pAA11GeoCorridorV_AA0bf5QueryH0VyAA0bN5ErrorOSg_SayAA0bF0CGSgtctF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-queryForFlow-inside-queryOptions-completion" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-trafficengine#sdk-for-ios-explore-s-7heresdk13TrafficEngineC12queryForFlow6inside0D7Options10completionAA10TaskHandle_pAA11GeoCorridorV_AA0bf5QueryH0VyAA0bN5ErrorOSg_SayAA0bF0CGSgtctF" class="token"><code>queryForFlow(inside:</code><wbr></wbr><code>queryOptions:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -729,12 +764,18 @@ Traffic data is fetched online to get the most precise and freshest data availab
   Swift
 
   ``` highlight
-  @discardableResult public func queryForFlow ( inside corridorArea : GeoCorridor , queryOptions : TrafficFlowQueryOptions , completion : @escaping TrafficFlowQueryCompletionHandler ) -> TaskHandle
+  @discardableResult
+  public func queryForFlow(inside corridorArea: GeoCorridor, queryOptions: TrafficFlowQueryOptions, completion: @escaping TrafficFlowQueryCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geocorridor">GeoCorridor</a>
+  - <a href="sdk-for-ios-explore-structs-trafficflowqueryoptions">TrafficFlowQueryOptions</a>
+  - <a href="sdk-for-ios-explore-traffic#sdk-for-ios-explore-s-7heresdk33TrafficFlowQueryCompletionHandlera">TrafficFlowQueryCompletionHandler</a>
+  - <a href="sdk-for-ios-explore-protocols-taskhandle">TaskHandle</a>
 
   </div>
 

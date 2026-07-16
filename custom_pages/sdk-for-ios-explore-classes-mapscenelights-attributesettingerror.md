@@ -27,7 +27,7 @@ Error enum indicating reasons for failure when setting light attributes.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14MapSceneLightsC21AttributeSettingErrorO02noD0yA2EmF"></span>` `<span id="//apple_ref/swift/Element/noLights" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-mapscenelights-attributesettingerror#/s:7heresdk14MapSceneLightsC21AttributeSettingErrorO02noD0yA2EmF" class="token"><code>noLights</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14MapSceneLightsC21AttributeSettingErrorO02noD0yA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-noLights" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapscenelights-attributesettingerror#sdk-for-ios-explore-s-7heresdk14MapSceneLightsC21AttributeSettingErrorO02noD0yA2EmF" class="token"><code>noLights</code></a> 
 
   </div>
 

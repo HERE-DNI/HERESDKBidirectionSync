@@ -19,6 +19,10 @@ extension DynamicRoutingEngine.StartError : Error
 
 </div>
 
+Related types:
+
+- <a href="sdk-for-ios-explore-classes-dynamicroutingengine">DynamicRoutingEngine</a>
+
 </div>
 
 Start error
@@ -31,7 +35,7 @@ Start error
 
 - <div>
 
-  ` `<span id="/s:7heresdk20DynamicRoutingEngineC10StartErrorO08internalF0yA2EmF"></span>` `<span id="//apple_ref/swift/Element/internalError" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-dynamicroutingengine-starterror#/s:7heresdk20DynamicRoutingEngineC10StartErrorO08internalF0yA2EmF" class="token"><code>internalError</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk20DynamicRoutingEngineC10StartErrorO08internalF0yA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-internalError" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-dynamicroutingengine-starterror#sdk-for-ios-explore-s-7heresdk20DynamicRoutingEngineC10StartErrorO08internalF0yA2EmF" class="token"><code>internalError</code></a> 
 
   </div>
 
@@ -75,7 +79,7 @@ Start error
 
 - <div>
 
-  ` `<span id="/s:7heresdk20DynamicRoutingEngineC10StartErrorO12missingRouteyA2EmF"></span>` `<span id="//apple_ref/swift/Element/missingRoute" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-dynamicroutingengine-starterror#/s:7heresdk20DynamicRoutingEngineC10StartErrorO12missingRouteyA2EmF" class="token"><code>missingRoute</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk20DynamicRoutingEngineC10StartErrorO12missingRouteyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-missingRoute" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-dynamicroutingengine-starterror#sdk-for-ios-explore-s-7heresdk20DynamicRoutingEngineC10StartErrorO12missingRouteyA2EmF" class="token"><code>missingRoute</code></a> 
 
   </div>
 
@@ -119,7 +123,7 @@ Start error
 
 - <div>
 
-  ` `<span id="/s:7heresdk20DynamicRoutingEngineC10StartErrorO18missingRouteHandleyA2EmF"></span>` `<span id="//apple_ref/swift/Element/missingRouteHandle" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-dynamicroutingengine-starterror#/s:7heresdk20DynamicRoutingEngineC10StartErrorO18missingRouteHandleyA2EmF" class="token"><code>missingRouteHandle</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk20DynamicRoutingEngineC10StartErrorO18missingRouteHandleyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-missingRouteHandle" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-dynamicroutingengine-starterror#sdk-for-ios-explore-s-7heresdk20DynamicRoutingEngineC10StartErrorO18missingRouteHandleyA2EmF" class="token"><code>missingRouteHandle</code></a> 
 
   </div>
 
@@ -137,7 +141,7 @@ Start error
 
   <div class="abstract">
 
-  The passed route has no route handle. <a href="sdk-for-ios-explore-structs-routeoptions#/s:7heresdk12RouteOptionsV06enableB6HandleSbvp">`RouteOptions.enableRouteHandle`</a> needs to be set to true on the initial route calculation.
+  The passed route has no route handle. <a href="sdk-for-ios-explore-structs-routeoptions#sdk-for-ios-explore-s-7heresdk12RouteOptionsV06enableB6HandleSbvp">`RouteOptions.enableRouteHandle`</a> needs to be set to true on the initial route calculation.
 
   </div>
 
@@ -163,7 +167,7 @@ Start error
 
 - <div>
 
-  ` `<span id="/s:7heresdk20DynamicRoutingEngineC10StartErrorO15missingListeneryA2EmF"></span>` `<span id="//apple_ref/swift/Element/missingListener" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-dynamicroutingengine-starterror#/s:7heresdk20DynamicRoutingEngineC10StartErrorO15missingListeneryA2EmF" class="token"><code>missingListener</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk20DynamicRoutingEngineC10StartErrorO15missingListeneryA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-missingListener" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-dynamicroutingengine-starterror#sdk-for-ios-explore-s-7heresdk20DynamicRoutingEngineC10StartErrorO15missingListeneryA2EmF" class="token"><code>missingListener</code></a> 
 
   </div>
 
@@ -207,7 +211,7 @@ Start error
 
 - <div>
 
-  ` `<span id="/s:7heresdk20DynamicRoutingEngineC10StartErrorO15tooFewWaypointsyA2EmF"></span>` `<span id="//apple_ref/swift/Element/tooFewWaypoints" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-dynamicroutingengine-starterror#/s:7heresdk20DynamicRoutingEngineC10StartErrorO15tooFewWaypointsyA2EmF" class="token"><code>tooFewWaypoints</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk20DynamicRoutingEngineC10StartErrorO15tooFewWaypointsyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-tooFewWaypoints" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-dynamicroutingengine-starterror#sdk-for-ios-explore-s-7heresdk20DynamicRoutingEngineC10StartErrorO15tooFewWaypointsyA2EmF" class="token"><code>tooFewWaypoints</code></a> 
 
   </div>
 
@@ -251,7 +255,7 @@ Start error
 
 - <div>
 
-  ` `<span id="/s:7heresdk20DynamicRoutingEngineC10StartErrorO26invalidRefreshRouteOptionsyA2EmF"></span>` `<span id="//apple_ref/swift/Element/invalidRefreshRouteOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-dynamicroutingengine-starterror#/s:7heresdk20DynamicRoutingEngineC10StartErrorO26invalidRefreshRouteOptionsyA2EmF" class="token"><code>invalidRefreshRouteOptions</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk20DynamicRoutingEngineC10StartErrorO26invalidRefreshRouteOptionsyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-invalidRefreshRouteOptions" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-dynamicroutingengine-starterror#sdk-for-ios-explore-s-7heresdk20DynamicRoutingEngineC10StartErrorO26invalidRefreshRouteOptionsyA2EmF" class="token"><code>invalidRefreshRouteOptions</code></a> 
 
   </div>
 

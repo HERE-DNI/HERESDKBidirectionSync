@@ -27,7 +27,7 @@ The options to specify how incidents should be queried.
 
 - <div>
 
-  ` `<span id="/s:7heresdk28TrafficIncidentsQueryOptionsV10typeFilterSayAA0B12IncidentTypeOGvp"></span>` `<span id="//apple_ref/swift/Property/typeFilter" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-trafficincidentsqueryoptions#/s:7heresdk28TrafficIncidentsQueryOptionsV10typeFilterSayAA0B12IncidentTypeOGvp" class="token"><code>typeFilter</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk28TrafficIncidentsQueryOptionsV10typeFilterSayAA0B12IncidentTypeOGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-typeFilter" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-trafficincidentsqueryoptions#sdk-for-ios-navigate-s-7heresdk28TrafficIncidentsQueryOptionsV10typeFilterSayAA0B12IncidentTypeOGvp" class="token"><code>typeFilter</code></a> 
 
   </div>
 
@@ -63,6 +63,10 @@ The options to specify how incidents should be queried.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-trafficincidenttype">TrafficIncidentType</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ The options to specify how incidents should be queried.
 
 - <div>
 
-  ` `<span id="/s:7heresdk28TrafficIncidentsQueryOptionsV12impactFilterSayAA0B14IncidentImpactOGvp"></span>` `<span id="//apple_ref/swift/Property/impactFilter" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-trafficincidentsqueryoptions#/s:7heresdk28TrafficIncidentsQueryOptionsV12impactFilterSayAA0B14IncidentImpactOGvp" class="token"><code>impactFilter</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk28TrafficIncidentsQueryOptionsV12impactFilterSayAA0B14IncidentImpactOGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-impactFilter" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-trafficincidentsqueryoptions#sdk-for-ios-navigate-s-7heresdk28TrafficIncidentsQueryOptionsV12impactFilterSayAA0B14IncidentImpactOGvp" class="token"><code>impactFilter</code></a> 
 
   </div>
 
@@ -107,6 +111,10 @@ The options to specify how incidents should be queried.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-trafficincidentimpact">TrafficIncidentImpact</a>
+
   </div>
 
   </div>
@@ -115,7 +123,7 @@ The options to specify how incidents should be queried.
 
 - <div>
 
-  ` `<span id="/s:7heresdk28TrafficIncidentsQueryOptionsV17earliestStartTime10Foundation4DateVSgvp"></span>` `<span id="//apple_ref/swift/Property/earliestStartTime" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-trafficincidentsqueryoptions#/s:7heresdk28TrafficIncidentsQueryOptionsV17earliestStartTime10Foundation4DateVSgvp" class="token"><code>earliestStartTime</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk28TrafficIncidentsQueryOptionsV17earliestStartTime10Foundation4DateVSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-earliestStartTime" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-trafficincidentsqueryoptions#sdk-for-ios-navigate-s-7heresdk28TrafficIncidentsQueryOptionsV17earliestStartTime10Foundation4DateVSgvp" class="token"><code>earliestStartTime</code></a> 
 
   </div>
 
@@ -159,7 +167,7 @@ The options to specify how incidents should be queried.
 
 - <div>
 
-  ` `<span id="/s:7heresdk28TrafficIncidentsQueryOptionsV13latestEndTime10Foundation4DateVSgvp"></span>` `<span id="//apple_ref/swift/Property/latestEndTime" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-trafficincidentsqueryoptions#/s:7heresdk28TrafficIncidentsQueryOptionsV13latestEndTime10Foundation4DateVSgvp" class="token"><code>latestEndTime</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk28TrafficIncidentsQueryOptionsV13latestEndTime10Foundation4DateVSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-latestEndTime" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-trafficincidentsqueryoptions#sdk-for-ios-navigate-s-7heresdk28TrafficIncidentsQueryOptionsV13latestEndTime10Foundation4DateVSgvp" class="token"><code>latestEndTime</code></a> 
 
   </div>
 
@@ -203,7 +211,7 @@ The options to specify how incidents should be queried.
 
 - <div>
 
-  ` `<span id="/s:7heresdk28TrafficIncidentsQueryOptionsV12languageCodeAA08LanguageG0OSgvp"></span>` `<span id="//apple_ref/swift/Property/languageCode" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-trafficincidentsqueryoptions#/s:7heresdk28TrafficIncidentsQueryOptionsV12languageCodeAA08LanguageG0OSgvp" class="token"><code>languageCode</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk28TrafficIncidentsQueryOptionsV12languageCodeAA08LanguageG0OSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-languageCode" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-trafficincidentsqueryoptions#sdk-for-ios-navigate-s-7heresdk28TrafficIncidentsQueryOptionsV12languageCodeAA08LanguageG0OSgvp" class="token"><code>languageCode</code></a> 
 
   </div>
 
@@ -221,7 +229,7 @@ The options to specify how incidents should be queried.
 
   <div class="abstract">
 
-  The language code of the query. It’s the expected language of fields `description` and <a href="sdk-for-ios-navigate-classes-trafficincident#/s:7heresdk15TrafficIncidentC7summaryAA13LocalizedTextVvp">`TrafficIncident.summary`</a> in the relevant response. However, the language code doesn’t impact on <a href="sdk-for-ios-navigate-structs-trafficlocation#/s:7heresdk15TrafficLocationV11descriptionSSvp">`TrafficLocation.description`</a>. If the language code is null or not supported then response fields are expected in the original language of the country that the incident belongs to.
+  The language code of the query. It’s the expected language of fields `description` and <a href="sdk-for-ios-navigate-classes-trafficincident#sdk-for-ios-navigate-s-7heresdk15TrafficIncidentC7summaryAA13LocalizedTextVvp">`TrafficIncident.summary`</a> in the relevant response. However, the language code doesn’t impact on <a href="sdk-for-ios-navigate-structs-trafficlocation#sdk-for-ios-navigate-s-7heresdk15TrafficLocationV11descriptionSSvp">`TrafficLocation.description`</a>. If the language code is null or not supported then response fields are expected in the original language of the country that the incident belongs to.
 
   </div>
 
@@ -239,6 +247,10 @@ The options to specify how incidents should be queried.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-languagecode">LanguageCode</a>
+
   </div>
 
   </div>
@@ -247,7 +259,7 @@ The options to specify how incidents should be queried.
 
 - <div>
 
-      init(typeFilter: impactFilter: earliestStartTime: latestEndTime: languageCode: )
+   <span id="sdk-for-ios-navigate-s-7heresdk28TrafficIncidentsQueryOptionsV10typeFilter06impactG017earliestStartTime09latestEndK012languageCodeACSayAA0B12IncidentTypeOG_SayAA0bP6ImpactOG10Foundation4DateVSgArA08LanguageO0OSgtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-typeFilter-impactFilter-earliestStartTime-latestEndTime-languageCode" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-trafficincidentsqueryoptions#sdk-for-ios-navigate-s-7heresdk28TrafficIncidentsQueryOptionsV10typeFilter06impactG017earliestStartTime09latestEndK012languageCodeACSayAA0B12IncidentTypeOG_SayAA0bP6ImpactOG10Foundation4DateVSgArA08LanguageO0OSgtcfc" class="token"><code>init(typeFilter:</code><wbr></wbr><code>impactFilter:</code><wbr></wbr><code>earliestStartTime:</code><wbr></wbr><code>latestEndTime:</code><wbr></wbr><code>languageCode:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -278,12 +290,16 @@ The options to specify how incidents should be queried.
   Swift
 
   ``` highlight
-  public init ( typeFilter : [ TrafficIncidentType ] = [], impactFilter : [ TrafficIncidentImpact ] = [], earliestStartTime : Date ? = nil , latestEndTime : Date ? = nil , languageCode : LanguageCode ? = nil )
+  public init(typeFilter: [TrafficIncidentType] = [], impactFilter: [TrafficIncidentImpact] = [], earliestStartTime: Date? = nil, latestEndTime: Date? = nil, languageCode: LanguageCode? = nil)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-trafficincidenttype">TrafficIncidentType</a>
+  - <a href="sdk-for-ios-navigate-enums-trafficincidentimpact">TrafficIncidentImpact</a>
+  - <a href="sdk-for-ios-navigate-enums-languagecode">LanguageCode</a>
 
   </div>
 

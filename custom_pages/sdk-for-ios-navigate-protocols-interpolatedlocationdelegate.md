@@ -17,16 +17,7 @@ public protocol InterpolatedLocationDelegate : AnyObject
 
 </div>
 
-This protocol should be implemented in order to receive interpolated locations. The interpolated locations are only provided between
-
-    VisualNavigator.startRendering(...)
-
-and
-
-    VisualNavigator.stopRendering(...)
-
-calls and the application is not running in the background.
-</p>
+This protocol should be implemented in order to receive interpolated locations. The interpolated locations are only provided between <a href="sdk-for-ios-navigate-classes-visualnavigator#sdk-for-ios-navigate-s-7heresdk15VisualNavigatorC14startRendering7mapViewyAA03MapG4Base_p_tF">`VisualNavigator.startRendering(...)`</a> and <a href="sdk-for-ios-navigate-classes-visualnavigator#sdk-for-ios-navigate-s-7heresdk15VisualNavigatorC13stopRenderingyyF">`VisualNavigator.stopRendering(...)`</a> calls and the application is not running in the background.
 
 </div>
 
@@ -36,7 +27,7 @@ calls and the application is not running in the background.
 
 - <div>
 
-      onInterpolatedLocationUpdated(location: )
+   <span id="sdk-for-ios-navigate-s-7heresdk28InterpolatedLocationDelegateP02onbC7Updated8locationyAA0C0V_tF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-onInterpolatedLocationUpdated-location" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-protocols-interpolatedlocationdelegate#sdk-for-ios-navigate-s-7heresdk28InterpolatedLocationDelegateP02onbC7Updated8locationyAA0C0V_tF" class="token"><code>onInterpolatedLocationUpdated(location:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -54,15 +45,7 @@ calls and the application is not running in the background.
 
   <div class="abstract">
 
-  Called whenever a new interpolated location is calculated, usually several times per second. The interpolated locations are only provided between
-
-      VisualNavigator.startRendering(...)
-
-  and
-      VisualNavigator.stopRendering(...)
-
-  calls and the application is not running in the background.
-  </p>
+  Called whenever a new interpolated location is calculated, usually several times per second. The interpolated locations are only provided between <a href="sdk-for-ios-navigate-classes-visualnavigator#sdk-for-ios-navigate-s-7heresdk15VisualNavigatorC14startRendering7mapViewyAA03MapG4Base_p_tF">`VisualNavigator.startRendering(...)`</a> and <a href="sdk-for-ios-navigate-classes-visualnavigator#sdk-for-ios-navigate-s-7heresdk15VisualNavigatorC13stopRenderingyyF">`VisualNavigator.stopRendering(...)`</a> calls and the application is not running in the background.
 
   </div>
 
@@ -75,12 +58,14 @@ calls and the application is not running in the background.
   Swift
 
   ``` highlight
-  func onInterpolatedLocationUpdated ( location : Location )
+  func onInterpolatedLocationUpdated(location: Location)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-location">Location</a>
 
   </div>
 

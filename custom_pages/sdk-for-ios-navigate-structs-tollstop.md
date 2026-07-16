@@ -27,7 +27,7 @@ A struct that provides information for a toll stop with multiple toll booths.
 
 - <div>
 
-  ` `<span id="/s:7heresdk8TollStopV2ids5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/id" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-tollstop#/s:7heresdk8TollStopV2ids5Int32Vvp" class="token"><code>id</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8TollStopV2ids5Int32Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-id" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-tollstop#sdk-for-ios-navigate-s-7heresdk8TollStopV2ids5Int32Vvp" class="token"><code>id</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ A struct that provides information for a toll stop with multiple toll booths.
 
 - <div>
 
-  ` `<span id="/s:7heresdk8TollStopV12distanceTypeAA08DistanceE0Ovp"></span>` `<span id="//apple_ref/swift/Property/distanceType" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-tollstop#/s:7heresdk8TollStopV12distanceTypeAA08DistanceE0Ovp" class="token"><code>distanceType</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8TollStopV12distanceTypeAA08DistanceE0Ovp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-distanceType" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-tollstop#sdk-for-ios-navigate-s-7heresdk8TollStopV12distanceTypeAA08DistanceE0Ovp" class="token"><code>distanceType</code></a> 
 
   </div>
 
@@ -107,6 +107,10 @@ A struct that provides information for a toll stop with multiple toll booths.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-distancetype">DistanceType</a>
+
   </div>
 
   </div>
@@ -115,7 +119,7 @@ A struct that provides information for a toll stop with multiple toll booths.
 
 - <div>
 
-  ` `<span id="/s:7heresdk8TollStopV010distanceTobC8InMetersSdvp"></span>` `<span id="//apple_ref/swift/Property/distanceToTollStopInMeters" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-tollstop#/s:7heresdk8TollStopV010distanceTobC8InMetersSdvp" class="token"><code>distanceToTollStopInMeters</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8TollStopV010distanceTobC8InMetersSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-distanceToTollStopInMeters" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-tollstop#sdk-for-ios-navigate-s-7heresdk8TollStopV010distanceTobC8InMetersSdvp" class="token"><code>distanceToTollStopInMeters</code></a> 
 
   </div>
 
@@ -159,7 +163,7 @@ A struct that provides information for a toll stop with multiple toll booths.
 
 - <div>
 
-  ` `<span id="/s:7heresdk8TollStopV5lanesSayAA0B9BoothLaneVGvp"></span>` `<span id="//apple_ref/swift/Property/lanes" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-tollstop#/s:7heresdk8TollStopV5lanesSayAA0B9BoothLaneVGvp" class="token"><code>lanes</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8TollStopV5lanesSayAA0B9BoothLaneVGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-lanes" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-tollstop#sdk-for-ios-navigate-s-7heresdk8TollStopV5lanesSayAA0B9BoothLaneVGvp" class="token"><code>lanes</code></a> 
 
   </div>
 
@@ -197,6 +201,10 @@ A struct that provides information for a toll stop with multiple toll booths.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-tollboothlane">TollBoothLane</a>
+
   </div>
 
   </div>
@@ -205,7 +213,7 @@ A struct that provides information for a toll stop with multiple toll booths.
 
 - <div>
 
-      init(id: distanceType: distanceToTollStopInMeters: lanes: )
+   <span id="sdk-for-ios-navigate-s-7heresdk8TollStopV2id12distanceType0e2TobC8InMeters5lanesACs5Int32V_AA08DistanceF0OSdSayAA0B9BoothLaneVGtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-id-distanceType-distanceToTollStopInMeters-lanes" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-tollstop#sdk-for-ios-navigate-s-7heresdk8TollStopV2id12distanceType0e2TobC8InMeters5lanesACs5Int32V_AA08DistanceF0OSdSayAA0B9BoothLaneVGtcfc" class="token"><code>init(id:</code><wbr></wbr><code>distanceType:</code><wbr></wbr><code>distanceToTollStopInMeters:</code><wbr></wbr><code>lanes:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -245,12 +253,15 @@ A struct that provides information for a toll stop with multiple toll booths.
   Swift
 
   ``` highlight
-  public init ( id : Int32 = 0 , distanceType : DistanceType , distanceToTollStopInMeters : Double , lanes : [ TollBoothLane ])
+  public init(id: Int32 = 0, distanceType: DistanceType, distanceToTollStopInMeters: Double, lanes: [TollBoothLane])
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-distancetype">DistanceType</a>
+  - <a href="sdk-for-ios-navigate-structs-tollboothlane">TollBoothLane</a>
 
   </div>
 

@@ -27,7 +27,7 @@ Represents details on the energy supplied at the charging location. **Note:** Th
 
 - <div>
 
-  ` `<span id="/s:7heresdk9EnergyMixV07isGreenB0Sbvp"></span>` `<span id="//apple_ref/swift/Property/isGreenEnergy" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-energymix#/s:7heresdk9EnergyMixV07isGreenB0Sbvp" class="token"><code>isGreenEnergy</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9EnergyMixV07isGreenB0Sbvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-isGreenEnergy" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-energymix#sdk-for-ios-explore-s-7heresdk9EnergyMixV07isGreenB0Sbvp" class="token"><code>isGreenEnergy</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Represents details on the energy supplied at the charging location. **Note:** Th
 
 - <div>
 
-  ` `<span id="/s:7heresdk9EnergyMixV13energySourcesSayAA0B6SourceVGvp"></span>` `<span id="//apple_ref/swift/Property/energySources" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-energymix#/s:7heresdk9EnergyMixV13energySourcesSayAA0B6SourceVGvp" class="token"><code>energySources</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9EnergyMixV13energySourcesSayAA0B6SourceVGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-energySources" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-energymix#sdk-for-ios-explore-s-7heresdk9EnergyMixV13energySourcesSayAA0B6SourceVGvp" class="token"><code>energySources</code></a> 
 
   </div>
 
@@ -107,6 +107,10 @@ Represents details on the energy supplied at the charging location. **Note:** Th
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-energysource">EnergySource</a>
+
   </div>
 
   </div>
@@ -115,7 +119,7 @@ Represents details on the energy supplied at the charging location. **Note:** Th
 
 - <div>
 
-  ` `<span id="/s:7heresdk9EnergyMixV8supplierSSSgvp"></span>` `<span id="//apple_ref/swift/Property/supplier" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-energymix#/s:7heresdk9EnergyMixV8supplierSSSgvp" class="token"><code>supplier</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9EnergyMixV8supplierSSSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-supplier" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-energymix#sdk-for-ios-explore-s-7heresdk9EnergyMixV8supplierSSSgvp" class="token"><code>supplier</code></a> 
 
   </div>
 
@@ -159,7 +163,7 @@ Represents details on the energy supplied at the charging location. **Note:** Th
 
 - <div>
 
-  ` `<span id="/s:7heresdk9EnergyMixV13energyProductSSSgvp"></span>` `<span id="//apple_ref/swift/Property/energyProduct" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-energymix#/s:7heresdk9EnergyMixV13energyProductSSSgvp" class="token"><code>energyProduct</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9EnergyMixV13energyProductSSSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-energyProduct" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-energymix#sdk-for-ios-explore-s-7heresdk9EnergyMixV13energyProductSSSgvp" class="token"><code>energyProduct</code></a> 
 
   </div>
 
@@ -203,7 +207,7 @@ Represents details on the energy supplied at the charging location. **Note:** Th
 
 - <div>
 
-  ` `<span id="/s:7heresdk9EnergyMixV20environmentalImpactsSayAA19EnvironmentalImpactVGvp"></span>` `<span id="//apple_ref/swift/Property/environmentalImpacts" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-energymix#/s:7heresdk9EnergyMixV20environmentalImpactsSayAA19EnvironmentalImpactVGvp" class="token"><code>environmentalImpacts</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9EnergyMixV20environmentalImpactsSayAA19EnvironmentalImpactVGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-environmentalImpacts" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-energymix#sdk-for-ios-explore-s-7heresdk9EnergyMixV20environmentalImpactsSayAA19EnvironmentalImpactVGvp" class="token"><code>environmentalImpacts</code></a> 
 
   </div>
 
@@ -239,6 +243,10 @@ Represents details on the energy supplied at the charging location. **Note:** Th
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-environmentalimpact">EnvironmentalImpact</a>
+
   </div>
 
   </div>
@@ -247,7 +255,7 @@ Represents details on the energy supplied at the charging location. **Note:** Th
 
 - <div>
 
-      init(isGreenEnergy: energySources: supplier: energyProduct: environmentalImpacts: )
+   <span id="sdk-for-ios-explore-s-7heresdk9EnergyMixV07isGreenB013energySources8supplier0F7Product20environmentalImpactsACSb_SayAA0B6SourceVGSSSgALSayAA19EnvironmentalImpactVGtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-isGreenEnergy-energySources-supplier-energyProduct-environmentalImpacts" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-energymix#sdk-for-ios-explore-s-7heresdk9EnergyMixV07isGreenB013energySources8supplier0F7Product20environmentalImpactsACSb_SayAA0B6SourceVGSSSgALSayAA19EnvironmentalImpactVGtcfc" class="token"><code>init(isGreenEnergy:</code><wbr></wbr><code>energySources:</code><wbr></wbr><code>supplier:</code><wbr></wbr><code>energyProduct:</code><wbr></wbr><code>environmentalImpacts:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -278,12 +286,15 @@ Represents details on the energy supplied at the charging location. **Note:** Th
   Swift
 
   ``` highlight
-  public init ( isGreenEnergy : Bool = false , energySources : [ EnergySource ] = [], supplier : String ? = nil , energyProduct : String ? = nil , environmentalImpacts : [ EnvironmentalImpact ] = [])
+  public init(isGreenEnergy: Bool = false, energySources: [EnergySource] = [], supplier: String? = nil, energyProduct: String? = nil, environmentalImpacts: [EnvironmentalImpact] = [])
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-energysource">EnergySource</a>
+  - <a href="sdk-for-ios-explore-structs-environmentalimpact">EnvironmentalImpact</a>
 
   </div>
 

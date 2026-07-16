@@ -27,7 +27,7 @@ Represents the size of a 2D structure.
 
 - <div>
 
-  ` `<span id="/s:7heresdk6Size2DV5widthSdvp"></span>` `<span id="//apple_ref/swift/Property/width" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-size2d#/s:7heresdk6Size2DV5widthSdvp" class="token"><code>width</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk6Size2DV5widthSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-width" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-size2d#sdk-for-ios-navigate-s-7heresdk6Size2DV5widthSdvp" class="token"><code>width</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Represents the size of a 2D structure.
 
 - <div>
 
-  ` `<span id="/s:7heresdk6Size2DV6heightSdvp"></span>` `<span id="//apple_ref/swift/Property/height" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-size2d#/s:7heresdk6Size2DV6heightSdvp" class="token"><code>height</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk6Size2DV6heightSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-height" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-size2d#sdk-for-ios-navigate-s-7heresdk6Size2DV6heightSdvp" class="token"><code>height</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Represents the size of a 2D structure.
 
 - <div>
 
-      init(width: height: )
+   <span id="sdk-for-ios-navigate-s-7heresdk6Size2DV5width6heightACSd_Sdtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-width-height" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-size2d#sdk-for-ios-navigate-s-7heresdk6Size2DV5width6heightACSd_Sdtcfc" class="token"><code>init(width:</code><wbr></wbr><code>height:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -146,10 +146,8 @@ Represents the size of a 2D structure.
   Swift
 
   ``` highlight
-  public init ( width : Double = 0.0 , height : Double = 0.0 )
+  public init(width: Double = 0.0, height: Double = 0.0)
   ```
-
-  </pre>
 
   </div>
 

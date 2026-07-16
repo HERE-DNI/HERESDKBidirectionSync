@@ -27,7 +27,7 @@ Carries the result of picking a Carto POI (point of interest) object.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11PickedPlaceV4nameSSvp"></span>` `<span id="//apple_ref/swift/Property/name" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-pickedplace#/s:7heresdk11PickedPlaceV4nameSSvp" class="token"><code>name</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11PickedPlaceV4nameSSvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-name" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-pickedplace#sdk-for-ios-navigate-s-7heresdk11PickedPlaceV4nameSSvp" class="token"><code>name</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Carries the result of picking a Carto POI (point of interest) object.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11PickedPlaceV11coordinatesAA14GeoCoordinatesVvp"></span>` `<span id="//apple_ref/swift/Property/coordinates" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-pickedplace#/s:7heresdk11PickedPlaceV11coordinatesAA14GeoCoordinatesVvp" class="token"><code>coordinates</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11PickedPlaceV11coordinatesAA14GeoCoordinatesVvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-coordinates" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-pickedplace#sdk-for-ios-navigate-s-7heresdk11PickedPlaceV11coordinatesAA14GeoCoordinatesVvp" class="token"><code>coordinates</code></a> 
 
   </div>
 
@@ -107,6 +107,10 @@ Carries the result of picking a Carto POI (point of interest) object.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-geocoordinates">GeoCoordinates</a>
+
   </div>
 
   </div>
@@ -115,7 +119,7 @@ Carries the result of picking a Carto POI (point of interest) object.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11PickedPlaceV15placeCategoryIdSSvp"></span>` `<span id="//apple_ref/swift/Property/placeCategoryId" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-pickedplace#/s:7heresdk11PickedPlaceV15placeCategoryIdSSvp" class="token"><code>placeCategoryId</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11PickedPlaceV15placeCategoryIdSSvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-placeCategoryId" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-pickedplace#sdk-for-ios-navigate-s-7heresdk11PickedPlaceV15placeCategoryIdSSvp" class="token"><code>placeCategoryId</code></a> 
 
   </div>
 
@@ -133,7 +137,7 @@ Carries the result of picking a Carto POI (point of interest) object.
 
   <div class="abstract">
 
-  The place category ID of the POI. This is the same String value as <a href="sdk-for-ios-navigate-classes-placecategory#/s:7heresdk13PlaceCategoryC2idSSvp">`PlaceCategory.id`</a> that can be obtained from the <a href="sdk-for-ios-navigate-classes-searchengine">`SearchEngine`</a> and the <a href="sdk-for-ios-navigate-classes-offlinesearchengine">`OfflineSearchEngine`</a>. Note that not all editions include the <a href="sdk-for-ios-navigate-classes-offlinesearchengine">`OfflineSearchEngine`</a>.
+  The place category ID of the POI. This is the same String value as <a href="sdk-for-ios-navigate-classes-placecategory#sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC2idSSvp">`PlaceCategory.id`</a> that can be obtained from the <a href="sdk-for-ios-navigate-classes-searchengine">`SearchEngine`</a> and the <a href="sdk-for-ios-navigate-classes-offlinesearchengine">`OfflineSearchEngine`</a>. Note that not all editions include the <a href="sdk-for-ios-navigate-classes-offlinesearchengine">`OfflineSearchEngine`</a>.
 
   </div>
 
@@ -159,7 +163,7 @@ Carries the result of picking a Carto POI (point of interest) object.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11PickedPlaceV15offlineSearchIdSSvp"></span>` `<span id="//apple_ref/swift/Property/offlineSearchId" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-pickedplace#/s:7heresdk11PickedPlaceV15offlineSearchIdSSvp" class="token"><code>offlineSearchId</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11PickedPlaceV15offlineSearchIdSSvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-offlineSearchId" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-pickedplace#sdk-for-ios-navigate-s-7heresdk11PickedPlaceV15offlineSearchIdSSvp" class="token"><code>offlineSearchId</code></a> 
 
   </div>
 
@@ -203,7 +207,7 @@ Carries the result of picking a Carto POI (point of interest) object.
 
 - <div>
 
-      init(name: coordinates: placeCategoryId: offlineSearchId: )
+   <span id="sdk-for-ios-navigate-s-7heresdk11PickedPlaceV4name11coordinates15placeCategoryId013offlineSearchH0ACSS_AA14GeoCoordinatesVS2Stcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-name-coordinates-placeCategoryId-offlineSearchId" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-pickedplace#sdk-for-ios-navigate-s-7heresdk11PickedPlaceV4name11coordinates15placeCategoryId013offlineSearchH0ACSS_AA14GeoCoordinatesVS2Stcfc" class="token"><code>init(name:</code><wbr></wbr><code>coordinates:</code><wbr></wbr><code>placeCategoryId:</code><wbr></wbr><code>offlineSearchId:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -234,12 +238,14 @@ Carries the result of picking a Carto POI (point of interest) object.
   Swift
 
   ``` highlight
-  public init ( name : String , coordinates : GeoCoordinates , placeCategoryId : String , offlineSearchId : String = "" )
+  public init(name: String, coordinates: GeoCoordinates, placeCategoryId: String, offlineSearchId: String = "")
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-geocoordinates">GeoCoordinates</a>
 
   </div>
 

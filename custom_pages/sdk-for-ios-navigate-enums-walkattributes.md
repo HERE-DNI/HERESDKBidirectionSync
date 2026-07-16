@@ -27,7 +27,7 @@ Types of walk attributes.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14WalkAttributesO6stairsyA2CmF"></span>` `<span id="//apple_ref/swift/Element/stairs" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-walkattributes#/s:7heresdk14WalkAttributesO6stairsyA2CmF" class="token"><code>stairs</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14WalkAttributesO6stairsyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-stairs" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-walkattributes#sdk-for-ios-navigate-s-7heresdk14WalkAttributesO6stairsyA2CmF" class="token"><code>stairs</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Types of walk attributes.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14WalkAttributesO4parkyA2CmF"></span>` `<span id="//apple_ref/swift/Element/park" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-walkattributes#/s:7heresdk14WalkAttributesO4parkyA2CmF" class="token"><code>park</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14WalkAttributesO4parkyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-park" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-walkattributes#sdk-for-ios-navigate-s-7heresdk14WalkAttributesO4parkyA2CmF" class="token"><code>park</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Types of walk attributes.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14WalkAttributesO6indooryA2CmF"></span>` `<span id="//apple_ref/swift/Element/indoor" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-walkattributes#/s:7heresdk14WalkAttributesO6indooryA2CmF" class="token"><code>indoor</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14WalkAttributesO6indooryA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-indoor" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-walkattributes#sdk-for-ios-navigate-s-7heresdk14WalkAttributesO6indooryA2CmF" class="token"><code>indoor</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Types of walk attributes.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14WalkAttributesO4openyA2CmF"></span>` `<span id="//apple_ref/swift/Element/open" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-walkattributes#/s:7heresdk14WalkAttributesO4openyA2CmF" class="token"><code>open</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14WalkAttributesO4openyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-open" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-walkattributes#sdk-for-ios-navigate-s-7heresdk14WalkAttributesO4openyA2CmF" class="token"><code>open</code></a> 
 
   </div>
 
@@ -203,7 +203,7 @@ Types of walk attributes.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14WalkAttributesO9noThroughyA2CmF"></span>` `<span id="//apple_ref/swift/Element/noThrough" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-walkattributes#/s:7heresdk14WalkAttributesO9noThroughyA2CmF" class="token"><code>noThrough</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14WalkAttributesO9noThroughyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-noThrough" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-walkattributes#sdk-for-ios-navigate-s-7heresdk14WalkAttributesO9noThroughyA2CmF" class="token"><code>noThrough</code></a> 
 
   </div>
 
@@ -247,7 +247,7 @@ Types of walk attributes.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14WalkAttributesO8tollRoadyA2CmF"></span>` `<span id="//apple_ref/swift/Element/tollRoad" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-walkattributes#/s:7heresdk14WalkAttributesO8tollRoadyA2CmF" class="token"><code>tollRoad</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14WalkAttributesO8tollRoadyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-tollRoad" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-walkattributes#sdk-for-ios-navigate-s-7heresdk14WalkAttributesO8tollRoadyA2CmF" class="token"><code>tollRoad</code></a> 
 
   </div>
 

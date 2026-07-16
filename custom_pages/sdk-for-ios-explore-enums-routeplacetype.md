@@ -27,7 +27,7 @@ Identifies the route place type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14RoutePlaceTypeO5placeyA2CmF"></span>` `<span id="//apple_ref/swift/Element/place" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-routeplacetype#/s:7heresdk14RoutePlaceTypeO5placeyA2CmF" class="token"><code>place</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14RoutePlaceTypeO5placeyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-place" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-routeplacetype#sdk-for-ios-explore-s-7heresdk14RoutePlaceTypeO5placeyA2CmF" class="token"><code>place</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Identifies the route place type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14RoutePlaceTypeO15chargingStationyA2CmF"></span>` `<span id="//apple_ref/swift/Element/chargingStation" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-routeplacetype#/s:7heresdk14RoutePlaceTypeO15chargingStationyA2CmF" class="token"><code>chargingStation</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14RoutePlaceTypeO15chargingStationyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-chargingStation" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-routeplacetype#sdk-for-ios-explore-s-7heresdk14RoutePlaceTypeO15chargingStationyA2CmF" class="token"><code>chargingStation</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Identifies the route place type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14RoutePlaceTypeO6indooryA2CmF"></span>` `<span id="//apple_ref/swift/Element/indoor" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-routeplacetype#/s:7heresdk14RoutePlaceTypeO6indooryA2CmF" class="token"><code>indoor</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14RoutePlaceTypeO6indooryA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-indoor" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-routeplacetype#sdk-for-ios-explore-s-7heresdk14RoutePlaceTypeO6indooryA2CmF" class="token"><code>indoor</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Identifies the route place type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14RoutePlaceTypeO7stationyA2CmF"></span>` `<span id="//apple_ref/swift/Element/station" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-routeplacetype#/s:7heresdk14RoutePlaceTypeO7stationyA2CmF" class="token"><code>station</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14RoutePlaceTypeO7stationyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-station" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-routeplacetype#sdk-for-ios-explore-s-7heresdk14RoutePlaceTypeO7stationyA2CmF" class="token"><code>station</code></a> 
 
   </div>
 
@@ -203,7 +203,7 @@ Identifies the route place type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14RoutePlaceTypeO11accessPointyA2CmF"></span>` `<span id="//apple_ref/swift/Element/accessPoint" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-routeplacetype#/s:7heresdk14RoutePlaceTypeO11accessPointyA2CmF" class="token"><code>accessPoint</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14RoutePlaceTypeO11accessPointyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-accessPoint" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-routeplacetype#sdk-for-ios-explore-s-7heresdk14RoutePlaceTypeO11accessPointyA2CmF" class="token"><code>accessPoint</code></a> 
 
   </div>
 

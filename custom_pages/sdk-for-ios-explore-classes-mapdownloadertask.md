@@ -35,7 +35,7 @@ A class to control map download process.
 
 - <div>
 
-      cancel()
+   <span id="sdk-for-ios-explore-s-7heresdk17MapDownloaderTaskC6cancelyyF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-cancel" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapdownloadertask#sdk-for-ios-explore-s-7heresdk17MapDownloaderTaskC6cancelyyF" class="token"><code>cancel()</code></a> 
 
   </div>
 
@@ -57,7 +57,7 @@ A class to control map download process.
 
       onDownloadRegionsComplete(...)
 
-  . <a href="sdk-for-ios-explore-enums-maploadererror#/s:7heresdk14MapLoaderErrorO18operationCancelledyA2CmF">`MapLoaderError.operationCancelled`</a> will be reported for successful cancel.
+  . <a href="sdk-for-ios-explore-enums-maploadererror#sdk-for-ios-explore-s-7heresdk14MapLoaderErrorO18operationCancelledyA2CmF">`MapLoaderError.operationCancelled`</a> will be reported for successful cancel.
   </p>
 
   </div>
@@ -71,10 +71,8 @@ A class to control map download process.
   Swift
 
   ``` highlight
-  public func cancel ()
+  public func cancel()
   ```
-
-  </pre>
 
   </div>
 
@@ -86,7 +84,7 @@ A class to control map download process.
 
 - <div>
 
-      pause()
+   <span id="sdk-for-ios-explore-s-7heresdk17MapDownloaderTaskC5pauseyyF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-pause" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapdownloadertask#sdk-for-ios-explore-s-7heresdk17MapDownloaderTaskC5pauseyyF" class="token"><code>pause()</code></a> 
 
   </div>
 
@@ -122,10 +120,8 @@ A class to control map download process.
   Swift
 
   ``` highlight
-  public func pause ()
+  public func pause()
   ```
-
-  </pre>
 
   </div>
 
@@ -137,7 +133,7 @@ A class to control map download process.
 
 - <div>
 
-      resume()
+   <span id="sdk-for-ios-explore-s-7heresdk17MapDownloaderTaskC6resumeyyF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-resume" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapdownloadertask#sdk-for-ios-explore-s-7heresdk17MapDownloaderTaskC6resumeyyF" class="token"><code>resume()</code></a> 
 
   </div>
 
@@ -173,10 +169,8 @@ A class to control map download process.
   Swift
 
   ``` highlight
-  public func resume ()
+  public func resume()
   ```
-
-  </pre>
 
   </div>
 

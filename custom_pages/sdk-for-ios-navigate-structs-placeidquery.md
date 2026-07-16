@@ -27,7 +27,7 @@ The options to specify a Place id query.
 
 - <div>
 
-  ` `<span id="/s:7heresdk12PlaceIdQueryV2idSSvp"></span>` `<span id="//apple_ref/swift/Property/id" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-placeidquery#/s:7heresdk12PlaceIdQueryV2idSSvp" class="token"><code>id</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12PlaceIdQueryV2idSSvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-id" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-placeidquery#sdk-for-ios-navigate-s-7heresdk12PlaceIdQueryV2idSSvp" class="token"><code>id</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ The options to specify a Place id query.
 
 - <div>
 
-      init(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk12PlaceIdQueryVyACSScfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-placeidquery#sdk-for-ios-navigate-s-7heresdk12PlaceIdQueryVyACSScfc" class="token"><code>init(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -102,10 +102,8 @@ The options to specify a Place id query.
   Swift
 
   ``` highlight
-  public init ( _ id : String )
+  public init(_ id: String)
   ```
-
-  </pre>
 
   </div>
 

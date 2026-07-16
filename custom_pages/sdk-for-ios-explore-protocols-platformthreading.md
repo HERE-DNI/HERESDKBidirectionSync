@@ -27,7 +27,7 @@ Protocol for task activities on the main thread.
 
 - <div>
 
-      runOnMainThread(runnable: )
+   <span id="sdk-for-ios-explore-s-7heresdk17PlatformThreadingP15runOnMainThread8runnableAA10TaskHandle_pAA8Runnable_p_tF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-runOnMainThread-runnable" class="dashAnchor"></span> <a href="sdk-for-ios-explore-protocols-platformthreading#sdk-for-ios-explore-s-7heresdk17PlatformThreadingP15runOnMainThread8runnableAA10TaskHandle_pAA8Runnable_p_tF" class="token"><code>runOnMainThread(runnable:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -58,12 +58,15 @@ Protocol for task activities on the main thread.
   Swift
 
   ``` highlight
-  func runOnMainThread ( runnable : Runnable ) -> TaskHandle
+  func runOnMainThread(runnable: Runnable) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-protocols-runnable">Runnable</a>
+  - <a href="sdk-for-ios-explore-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -102,7 +105,7 @@ Protocol for task activities on the main thread.
 
 - <div>
 
-      postToMainThread(runnable: delayMs: )
+   <span id="sdk-for-ios-explore-s-7heresdk17PlatformThreadingP16postToMainThread8runnable7delayMsAA10TaskHandle_pAA8Runnable_p_s6UInt64VtF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-postToMainThread-runnable-delayMs" class="dashAnchor"></span> <a href="sdk-for-ios-explore-protocols-platformthreading#sdk-for-ios-explore-s-7heresdk17PlatformThreadingP16postToMainThread8runnable7delayMsAA10TaskHandle_pAA8Runnable_p_s6UInt64VtF" class="token"><code>postToMainThread(runnable:</code><wbr></wbr><code>delayMs:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -133,12 +136,15 @@ Protocol for task activities on the main thread.
   Swift
 
   ``` highlight
-  func postToMainThread ( runnable : Runnable , delayMs : UInt64 ) -> TaskHandle
+  func postToMainThread(runnable: Runnable, delayMs: UInt64) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-protocols-runnable">Runnable</a>
+  - <a href="sdk-for-ios-explore-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -183,7 +189,7 @@ Protocol for task activities on the main thread.
 
 - <div>
 
-      postToMainThread(runnable: )
+   <span id="sdk-for-ios-explore-s-7heresdk17PlatformThreadingP16postToMainThread8runnableAA10TaskHandle_pAA8Runnable_p_tF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-postToMainThread-runnable" class="dashAnchor"></span> <a href="sdk-for-ios-explore-protocols-platformthreading#sdk-for-ios-explore-s-7heresdk17PlatformThreadingP16postToMainThread8runnableAA10TaskHandle_pAA8Runnable_p_tF" class="token"><code>postToMainThread(runnable:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -214,12 +220,15 @@ Protocol for task activities on the main thread.
   Swift
 
   ``` highlight
-  func postToMainThread ( runnable : Runnable ) -> TaskHandle
+  func postToMainThread(runnable: Runnable) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-protocols-runnable">Runnable</a>
+  - <a href="sdk-for-ios-explore-protocols-taskhandle">TaskHandle</a>
 
   </div>
 

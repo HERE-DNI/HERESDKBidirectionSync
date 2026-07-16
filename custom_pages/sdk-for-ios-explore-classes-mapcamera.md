@@ -47,7 +47,7 @@ The camera supports the look-at target with orientation on the ground way of set
 
 *Getting the current camera state*
 
-The current camera state can be obtained by the <a href="sdk-for-ios-explore-classes-mapcamera#/s:7heresdk9MapCameraC5stateAC5StateVvp">`MapCamera.state`</a> call. It contains information about the camera look-at target (geo-coordinates and orientation) in geodetic space. The values are returned for the current `principal point`. This can lead to surprising or unexpected values in cases where the camera position/orientation was specified for another screen point, e.g. when using
+The current camera state can be obtained by the <a href="sdk-for-ios-explore-classes-mapcamera#sdk-for-ios-explore-s-7heresdk9MapCameraC5stateAC5StateVvp">`MapCamera.state`</a> call. It contains information about the camera look-at target (geo-coordinates and orientation) in geodetic space. The values are returned for the current `principal point`. This can lead to surprising or unexpected values in cases where the camera position/orientation was specified for another screen point, e.g. when using
 
     MapCameraUpdateFactory.lookAt(GeoBox)
 
@@ -114,12 +114,7 @@ The camera `orientation` is composed of two parts:
 
 All changes to the camera are encapsulated in camera updates that are created using the methods in the <a href="sdk-for-ios-explore-classes-mapcameraupdatefactory">`MapCameraUpdateFactory`</a> class.
 
-These updates can then be applied to the <a href="sdk-for-ios-explore-classes-heremap">`HereMap`</a> using
-
-    MapCamera.applyUpdate(...)
-
-.
-</p>
+These updates can then be applied to the <a href="sdk-for-ios-explore-classes-heremap">`HereMap`</a> using <a href="sdk-for-ios-explore-classes-mapcamera#sdk-for-ios-explore-s-7heresdk9MapCameraC11applyUpdateyyAA0bcE0CF">`MapCamera.applyUpdate(...)`</a>.
 
 Camera updates are queued and executed when the next frame is rendered. They are executed in the order in which they were applied.
 
@@ -134,16 +129,7 @@ Camera updates can be animated by first creating a camera animation using the me
 
 Only one camera animation for one camera component at a time is supported. Applying a new animation will cancel the active animation before the new one is started. The start position in this case is where ever the active animation happened to be at the time. Different components are camera state (`target pose` and `distance/zoom level/scale`) and camera projection (`field of view, focal length` and `principal point`).
 
-The running animations can also be canceled using
-
-    MapCamera.cancelAnimations(...)
-
-or individual ones using
-
-    MapCamera.cancelAnimation(...)
-
-.
-</p>
+The running animations can also be canceled using <a href="sdk-for-ios-explore-classes-mapcamera#sdk-for-ios-explore-s-7heresdk9MapCameraC16cancelAnimationsyyF">`MapCamera.cancelAnimations(...)`</a> or individual ones using <a href="sdk-for-ios-explore-classes-mapcamera#sdk-for-ios-explore-s-7heresdk9MapCameraC15cancelAnimationyyAA0bcE0CF">`MapCamera.cancelAnimation(...)`</a>.
 
 </div>
 
@@ -153,7 +139,7 @@ or individual ones using
 
 - <div>
 
-  ` `<span id="/s:7heresdk9MapCameraC03DryC13UpdateHandlera"></span>` `<span id="//apple_ref/swift/Alias/DryCameraUpdateHandler" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-mapcamera#/s:7heresdk9MapCameraC03DryC13UpdateHandlera" class="token"><code>DryCameraUpdateHandler</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9MapCameraC03DryC13UpdateHandlera"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Alias-DryCameraUpdateHandler" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapcamera#sdk-for-ios-explore-s-7heresdk9MapCameraC03DryC13UpdateHandlera" class="token"><code>DryCameraUpdateHandler</code></a> 
 
   </div>
 
@@ -186,12 +172,14 @@ or individual ones using
   Swift
 
   ``` highlight
-  public typealias DryCameraUpdateHandler = ( _ cameraState : MapCamera . State ?) -> Void
+  public typealias DryCameraUpdateHandler = (_ cameraState: MapCamera.State?) -> Void
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-mapcamera-state">State</a>
 
   </div>
 
@@ -222,7 +210,7 @@ or individual ones using
 
 - <div>
 
-  ` `<span id="/s:7heresdk9MapCameraC5stateAC5StateVvp"></span>` `<span id="//apple_ref/swift/Property/state" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-mapcamera#/s:7heresdk9MapCameraC5stateAC5StateVvp" class="token"><code>state</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9MapCameraC5stateAC5StateVvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-state" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapcamera#sdk-for-ios-explore-s-7heresdk9MapCameraC5stateAC5StateVvp" class="token"><code>state</code></a> 
 
   </div>
 
@@ -258,6 +246,10 @@ or individual ones using
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-mapcamera-state">State</a>
+
   </div>
 
   </div>
@@ -266,7 +258,7 @@ or individual ones using
 
 - <div>
 
-  ` `<span id="/s:7heresdk9MapCameraC14principalPointAA7Point2DVvp"></span>` `<span id="//apple_ref/swift/Property/principalPoint" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-mapcamera#/s:7heresdk9MapCameraC14principalPointAA7Point2DVvp" class="token"><code>principalPoint</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9MapCameraC14principalPointAA7Point2DVvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-principalPoint" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapcamera#sdk-for-ios-explore-s-7heresdk9MapCameraC14principalPointAA7Point2DVvp" class="token"><code>principalPoint</code></a> 
 
   </div>
 
@@ -306,6 +298,10 @@ or individual ones using
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-point2d">Point2D</a>
+
   </div>
 
   </div>
@@ -314,7 +310,7 @@ or individual ones using
 
 - <div>
 
-  ` `<span id="/s:7heresdk9MapCameraC11boundingBoxAA03GeoE0VSgvp"></span>` `<span id="//apple_ref/swift/Property/boundingBox" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-mapcamera#/s:7heresdk9MapCameraC11boundingBoxAA03GeoE0VSgvp" class="token"><code>boundingBox</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9MapCameraC11boundingBoxAA03GeoE0VSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-boundingBox" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapcamera#sdk-for-ios-explore-s-7heresdk9MapCameraC11boundingBoxAA03GeoE0VSgvp" class="token"><code>boundingBox</code></a> 
 
   </div>
 
@@ -352,6 +348,10 @@ or individual ones using
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geobox">GeoBox</a>
+
   </div>
 
   </div>
@@ -360,7 +360,7 @@ or individual ones using
 
 - <div>
 
-  ` `<span id="/s:7heresdk9MapCameraC6limitsAA0bC6LimitsCvp"></span>` `<span id="//apple_ref/swift/Property/limits" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-mapcamera#/s:7heresdk9MapCameraC6limitsAA0bC6LimitsCvp" class="token"><code>limits</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9MapCameraC6limitsAA0bC6LimitsCvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-limits" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapcamera#sdk-for-ios-explore-s-7heresdk9MapCameraC6limitsAA0bC6LimitsCvp" class="token"><code>limits</code></a> 
 
   </div>
 
@@ -396,6 +396,10 @@ or individual ones using
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-mapcameralimits">MapCameraLimits</a>
+
   </div>
 
   </div>
@@ -404,7 +408,7 @@ or individual ones using
 
 - <div>
 
-  ` `<span id="/s:7heresdk9MapCameraC5StateV"></span>` `<span id="//apple_ref/swift/Struct/State" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-mapcamera#/s:7heresdk9MapCameraC5StateV" class="token"><code>State</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9MapCameraC5StateV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-State" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapcamera#sdk-for-ios-explore-s-7heresdk9MapCameraC5StateV" class="token"><code>State</code></a> 
 
   </div>
 
@@ -450,7 +454,7 @@ or individual ones using
 
 - <div>
 
-  ` `<span id="/s:7heresdk9MapCameraC21FarPlaneConfigurationV"></span>` `<span id="//apple_ref/swift/Struct/FarPlaneConfiguration" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-mapcamera#/s:7heresdk9MapCameraC21FarPlaneConfigurationV" class="token"><code>FarPlaneConfiguration</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9MapCameraC21FarPlaneConfigurationV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-FarPlaneConfiguration" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapcamera#sdk-for-ios-explore-s-7heresdk9MapCameraC21FarPlaneConfigurationV" class="token"><code>FarPlaneConfiguration</code></a> 
 
   </div>
 
@@ -498,7 +502,7 @@ or individual ones using
 
 - <div>
 
-      setFarPlaneConfiguration(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk9MapCameraC24setFarPlaneConfigurationyySDySdAC0efG0VGF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-setFarPlaneConfiguration-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapcamera#sdk-for-ios-explore-s-7heresdk9MapCameraC24setFarPlaneConfigurationyySDySdAC0efG0VGF" class="token"><code>setFarPlaneConfiguration(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -535,12 +539,14 @@ or individual ones using
   Swift
 
   ``` highlight
-  public func setFarPlaneConfiguration ( _ configs : [ Double : MapCamera . FarPlaneConfiguration ])
+  public func setFarPlaneConfiguration(_ configs: [Double : MapCamera.FarPlaneConfiguration])
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-mapcamera-farplaneconfiguration">FarPlaneConfiguration</a>
 
   </div>
 
@@ -571,7 +577,7 @@ or individual ones using
 
 - <div>
 
-      addDelegate(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk9MapCameraC11addDelegateyyAA0bcE0_pF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-addDelegate-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapcamera#sdk-for-ios-explore-s-7heresdk9MapCameraC11addDelegateyyAA0bcE0_pF" class="token"><code>addDelegate(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -604,12 +610,14 @@ or individual ones using
   Swift
 
   ``` highlight
-  public func addDelegate ( _ delegate : MapCameraDelegate )
+  public func addDelegate(_ delegate: MapCameraDelegate)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-protocols-mapcameradelegate">MapCameraDelegate</a>
 
   </div>
 
@@ -640,7 +648,7 @@ or individual ones using
 
 - <div>
 
-      removeDelegate(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk9MapCameraC14removeDelegateyyAA0bcE0_pF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-removeDelegate-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapcamera#sdk-for-ios-explore-s-7heresdk9MapCameraC14removeDelegateyyAA0bcE0_pF" class="token"><code>removeDelegate(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -673,12 +681,14 @@ or individual ones using
   Swift
 
   ``` highlight
-  public func removeDelegate ( _ delegate : MapCameraDelegate )
+  public func removeDelegate(_ delegate: MapCameraDelegate)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-protocols-mapcameradelegate">MapCameraDelegate</a>
 
   </div>
 
@@ -709,7 +719,7 @@ or individual ones using
 
 - <div>
 
-      removeDelegates()
+   <span id="sdk-for-ios-explore-s-7heresdk9MapCameraC15removeDelegatesyyF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-removeDelegates" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapcamera#sdk-for-ios-explore-s-7heresdk9MapCameraC15removeDelegatesyyF" class="token"><code>removeDelegates()</code></a> 
 
   </div>
 
@@ -740,10 +750,8 @@ or individual ones using
   Swift
 
   ``` highlight
-  public func removeDelegates ()
+  public func removeDelegates()
   ```
-
-  </pre>
 
   </div>
 
@@ -755,7 +763,7 @@ or individual ones using
 
 - <div>
 
-      applyUpdate(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk9MapCameraC11applyUpdateyyAA0bcE0CF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-applyUpdate-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapcamera#sdk-for-ios-explore-s-7heresdk9MapCameraC11applyUpdateyyAA0bcE0CF" class="token"><code>applyUpdate(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -788,12 +796,14 @@ or individual ones using
   Swift
 
   ``` highlight
-  public func applyUpdate ( _ cameraUpdate : MapCameraUpdate )
+  public func applyUpdate(_ cameraUpdate: MapCameraUpdate)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-mapcameraupdate">MapCameraUpdate</a>
 
   </div>
 
@@ -824,7 +834,7 @@ or individual ones using
 
 - <div>
 
-      dryApplyUpdate(_: completion: )
+   <span id="sdk-for-ios-explore-s-7heresdk9MapCameraC14dryApplyUpdate_10completionyAA0bcF0C_yAC5StateVSgctF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-dryApplyUpdate-_-completion" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapcamera#sdk-for-ios-explore-s-7heresdk9MapCameraC14dryApplyUpdate_10completionyAA0bcF0C_yAC5StateVSgctF" class="token"><code>dryApplyUpdate(_:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -857,12 +867,15 @@ or individual ones using
   Swift
 
   ``` highlight
-  public func dryApplyUpdate ( _ cameraUpdate : MapCameraUpdate , completion : @escaping MapCamera . DryCameraUpdateHandler )
+  public func dryApplyUpdate(_ cameraUpdate: MapCameraUpdate, completion: @escaping MapCamera.DryCameraUpdateHandler)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-mapcameraupdate">MapCameraUpdate</a>
+  - <a href="sdk-for-ios-explore-classes-mapcamera#sdk-for-ios-explore-s-7heresdk9MapCameraC03DryC13UpdateHandlera">DryCameraUpdateHandler</a>
 
   </div>
 
@@ -899,7 +912,7 @@ or individual ones using
 
 - <div>
 
-      startAnimation(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk9MapCameraC14startAnimationyyAA0bcE0CF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-startAnimation-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapcamera#sdk-for-ios-explore-s-7heresdk9MapCameraC14startAnimationyyAA0bcE0CF" class="token"><code>startAnimation(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -932,12 +945,14 @@ or individual ones using
   Swift
 
   ``` highlight
-  public func startAnimation ( _ cameraAnimation : MapCameraAnimation )
+  public func startAnimation(_ cameraAnimation: MapCameraAnimation)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-mapcameraanimation">MapCameraAnimation</a>
 
   </div>
 
@@ -968,7 +983,7 @@ or individual ones using
 
 - <div>
 
-      startAnimation(_: animationDelegate: )
+   <span id="sdk-for-ios-explore-s-7heresdk9MapCameraC14startAnimation_17animationDelegateyAA0bcE0C_AA0eG0_ptF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-startAnimation-_-animationDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapcamera#sdk-for-ios-explore-s-7heresdk9MapCameraC14startAnimation_17animationDelegateyAA0bcE0C_AA0eG0_ptF" class="token"><code>startAnimation(_:</code><wbr></wbr><code>animationDelegate:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1001,12 +1016,15 @@ or individual ones using
   Swift
 
   ``` highlight
-  public func startAnimation ( _ cameraAnimation : MapCameraAnimation , animationDelegate : AnimationDelegate )
+  public func startAnimation(_ cameraAnimation: MapCameraAnimation, animationDelegate: AnimationDelegate)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-mapcameraanimation">MapCameraAnimation</a>
+  - <a href="sdk-for-ios-explore-protocols-animationdelegate">AnimationDelegate</a>
 
   </div>
 
@@ -1043,7 +1061,7 @@ or individual ones using
 
 - <div>
 
-      cancelAnimation(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk9MapCameraC15cancelAnimationyyAA0bcE0CF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-cancelAnimation-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapcamera#sdk-for-ios-explore-s-7heresdk9MapCameraC15cancelAnimationyyAA0bcE0CF" class="token"><code>cancelAnimation(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1076,12 +1094,14 @@ or individual ones using
   Swift
 
   ``` highlight
-  public func cancelAnimation ( _ cameraAnimation : MapCameraAnimation )
+  public func cancelAnimation(_ cameraAnimation: MapCameraAnimation)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-mapcameraanimation">MapCameraAnimation</a>
 
   </div>
 
@@ -1112,7 +1132,7 @@ or individual ones using
 
 - <div>
 
-      cancelAnimations()
+   <span id="sdk-for-ios-explore-s-7heresdk9MapCameraC16cancelAnimationsyyF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-cancelAnimations" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapcamera#sdk-for-ios-explore-s-7heresdk9MapCameraC16cancelAnimationsyyF" class="token"><code>cancelAnimations()</code></a> 
 
   </div>
 
@@ -1145,10 +1165,8 @@ or individual ones using
   Swift
 
   ``` highlight
-  public func cancelAnimations ()
+  public func cancelAnimations()
   ```
-
-  </pre>
 
   </div>
 
@@ -1160,7 +1178,7 @@ or individual ones using
 
 - <div>
 
-      orbitBy(_: around: )
+   <span id="sdk-for-ios-explore-s-7heresdk9MapCameraC7orbitBy_6aroundyAA20GeoOrientationUpdateV_AA7Point2DVtF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-orbitBy-_-around" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapcamera#sdk-for-ios-explore-s-7heresdk9MapCameraC7orbitBy_6aroundyAA20GeoOrientationUpdateV_AA7Point2DVtF" class="token"><code>orbitBy(_:</code><wbr></wbr><code>around:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1191,12 +1209,15 @@ or individual ones using
   Swift
 
   ``` highlight
-  public func orbitBy ( _ delta : GeoOrientationUpdate , around origin : Point2D )
+  public func orbitBy(_ delta: GeoOrientationUpdate, around origin: Point2D)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geoorientationupdate">GeoOrientationUpdate</a>
+  - <a href="sdk-for-ios-explore-structs-point2d">Point2D</a>
 
   </div>
 
@@ -1233,7 +1254,7 @@ or individual ones using
 
 - <div>
 
-      zoomBy(_: around: )
+   <span id="sdk-for-ios-explore-s-7heresdk9MapCameraC6zoomBy_6aroundySd_AA7Point2DVtF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-zoomBy-_-around" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapcamera#sdk-for-ios-explore-s-7heresdk9MapCameraC6zoomBy_6aroundySd_AA7Point2DVtF" class="token"><code>zoomBy(_:</code><wbr></wbr><code>around:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1253,11 +1274,11 @@ or individual ones using
 
   Zooms in or out by a specified factor.
 
-  This effectively changes the distance from the camera to the <a href="sdk-for-ios-explore-classes-mapcamera-state#/s:7heresdk9MapCameraC5StateV17targetCoordinatesAA03GeoF0Vvp">`MapCamera.State.targetCoordinates`</a> by the specified factor, which changes <a href="sdk-for-ios-explore-classes-mapcamera-state#/s:7heresdk9MapCameraC5StateV9zoomLevelSdvp">`MapCamera.State.zoomLevel`</a> as well.
+  This effectively changes the distance from the camera to the <a href="sdk-for-ios-explore-classes-mapcamera-state#sdk-for-ios-explore-s-7heresdk9MapCameraC5StateV17targetCoordinatesAA03GeoF0Vvp">`MapCamera.State.targetCoordinates`</a> by the specified factor, which changes <a href="sdk-for-ios-explore-classes-mapcamera-state#sdk-for-ios-explore-s-7heresdk9MapCameraC5StateV9zoomLevelSdvp">`MapCamera.State.zoomLevel`</a> as well.
 
   Values above 1.0 will zoom in and values below will zoom out.
 
-  The relation with <a href="sdk-for-ios-explore-classes-mapcamera-state#/s:7heresdk9MapCameraC5StateV24distanceToTargetInMetersSdvp">`MapCamera.State.distanceToTargetInMeters`</a> is inversely linear, meaning that zooming by 4 will decrease distance to target by 4 while zooming by 0.5 will increase distance to target by 2.
+  The relation with <a href="sdk-for-ios-explore-classes-mapcamera-state#sdk-for-ios-explore-s-7heresdk9MapCameraC5StateV24distanceToTargetInMetersSdvp">`MapCamera.State.distanceToTargetInMeters`</a> is inversely linear, meaning that zooming by 4 will decrease distance to target by 4 while zooming by 0.5 will increase distance to target by 2.
 
   The relation with zoom level is logarithmic. Meaning that zooming by a factor of 4 will increase zoom level by 2 (because log2(4) == 2). So to zoom in by X zoom levels, the zoom factor needs to be 2^X. To zoom out by X zoom levels, zoom factor needs to be 1/(2^X).
 
@@ -1274,12 +1295,14 @@ or individual ones using
   Swift
 
   ``` highlight
-  public func zoomBy ( _ factor : Double , around origin : Point2D )
+  public func zoomBy(_ factor: Double, around origin: Point2D)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-point2d">Point2D</a>
 
   </div>
 
@@ -1316,7 +1339,7 @@ or individual ones using
 
 - <div>
 
-      zoomTo(zoomLevel: )
+   <span id="sdk-for-ios-explore-s-7heresdk9MapCameraC6zoomTo0D5LevelySd_tF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-zoomTo-zoomLevel" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapcamera#sdk-for-ios-explore-s-7heresdk9MapCameraC6zoomTo0D5LevelySd_tF" class="token"><code>zoomTo(zoomLevel:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1349,10 +1372,8 @@ or individual ones using
   Swift
 
   ``` highlight
-  public func zoomTo ( zoomLevel : Double )
+  public func zoomTo(zoomLevel: Double)
   ```
-
-  </pre>
 
   </div>
 
@@ -1385,7 +1406,7 @@ or individual ones using
 
 - <div>
 
-      lookAt(point: )
+   <span id="sdk-for-ios-explore-s-7heresdk9MapCameraC6lookAt5pointyAA14GeoCoordinatesV_tF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-lookAt-point" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapcamera#sdk-for-ios-explore-s-7heresdk9MapCameraC6lookAt5pointyAA14GeoCoordinatesV_tF" class="token"><code>lookAt(point:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1418,12 +1439,14 @@ or individual ones using
   Swift
 
   ``` highlight
-  public func lookAt ( point target : GeoCoordinates )
+  public func lookAt(point target: GeoCoordinates)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geocoordinates">GeoCoordinates</a>
 
   </div>
 
@@ -1454,7 +1477,7 @@ or individual ones using
 
 - <div>
 
-      lookAt(point: zoom: )
+   <span id="sdk-for-ios-explore-s-7heresdk9MapCameraC6lookAt5point4zoomyAA14GeoCoordinatesV_AA0B7MeasureVtF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-lookAt-point-zoom" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapcamera#sdk-for-ios-explore-s-7heresdk9MapCameraC6lookAt5point4zoomyAA14GeoCoordinatesV_AA0B7MeasureVtF" class="token"><code>lookAt(point:</code><wbr></wbr><code>zoom:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1487,12 +1510,15 @@ or individual ones using
   Swift
 
   ``` highlight
-  public func lookAt ( point target : GeoCoordinates , zoom : MapMeasure )
+  public func lookAt(point target: GeoCoordinates, zoom: MapMeasure)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geocoordinates">GeoCoordinates</a>
+  - <a href="sdk-for-ios-explore-structs-mapmeasure">MapMeasure</a>
 
   </div>
 
@@ -1529,7 +1555,7 @@ or individual ones using
 
 - <div>
 
-      lookAt(point: orientation: zoom: )
+   <span id="sdk-for-ios-explore-s-7heresdk9MapCameraC6lookAt5point11orientation4zoomyAA14GeoCoordinatesV_AA0I17OrientationUpdateVAA0B7MeasureVtF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-lookAt-point-orientation-zoom" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapcamera#sdk-for-ios-explore-s-7heresdk9MapCameraC6lookAt5point11orientation4zoomyAA14GeoCoordinatesV_AA0I17OrientationUpdateVAA0B7MeasureVtF" class="token"><code>lookAt(point:</code><wbr></wbr><code>orientation:</code><wbr></wbr><code>zoom:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1564,12 +1590,16 @@ or individual ones using
   Swift
 
   ``` highlight
-  public func lookAt ( point target : GeoCoordinates , orientation : GeoOrientationUpdate , zoom : MapMeasure )
+  public func lookAt(point target: GeoCoordinates, orientation: GeoOrientationUpdate, zoom: MapMeasure)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geocoordinates">GeoCoordinates</a>
+  - <a href="sdk-for-ios-explore-structs-geoorientationupdate">GeoOrientationUpdate</a>
+  - <a href="sdk-for-ios-explore-structs-mapmeasure">MapMeasure</a>
 
   </div>
 
@@ -1612,7 +1642,7 @@ or individual ones using
 
 - <div>
 
-      lookAt(area: orientation: )
+   <span id="sdk-for-ios-explore-s-7heresdk9MapCameraC6lookAt4area11orientationyAA6GeoBoxV_AA0H17OrientationUpdateVtF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-lookAt-area-orientation" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapcamera#sdk-for-ios-explore-s-7heresdk9MapCameraC6lookAt4area11orientationyAA6GeoBoxV_AA0H17OrientationUpdateVtF" class="token"><code>lookAt(area:</code><wbr></wbr><code>orientation:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1647,12 +1677,15 @@ or individual ones using
   Swift
 
   ``` highlight
-  public func lookAt ( area target : GeoBox , orientation : GeoOrientationUpdate )
+  public func lookAt(area target: GeoBox, orientation: GeoOrientationUpdate)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geobox">GeoBox</a>
+  - <a href="sdk-for-ios-explore-structs-geoorientationupdate">GeoOrientationUpdate</a>
 
   </div>
 
@@ -1689,7 +1722,7 @@ or individual ones using
 
 - <div>
 
-      lookAt(area: orientation: viewRectangle: )
+   <span id="sdk-for-ios-explore-s-7heresdk9MapCameraC6lookAt4area11orientation13viewRectangleyAA6GeoBoxV_AA0J17OrientationUpdateVAA11Rectangle2DVtF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-lookAt-area-orientation-viewRectangle" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapcamera#sdk-for-ios-explore-s-7heresdk9MapCameraC6lookAt4area11orientation13viewRectangleyAA6GeoBoxV_AA0J17OrientationUpdateVAA11Rectangle2DVtF" class="token"><code>lookAt(area:</code><wbr></wbr><code>orientation:</code><wbr></wbr><code>viewRectangle:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1724,12 +1757,16 @@ or individual ones using
   Swift
 
   ``` highlight
-  public func lookAt ( area target : GeoBox , orientation : GeoOrientationUpdate , viewRectangle : Rectangle2D )
+  public func lookAt(area target: GeoBox, orientation: GeoOrientationUpdate, viewRectangle: Rectangle2D)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geobox">GeoBox</a>
+  - <a href="sdk-for-ios-explore-structs-geoorientationupdate">GeoOrientationUpdate</a>
+  - <a href="sdk-for-ios-explore-structs-rectangle2d">Rectangle2D</a>
 
   </div>
 
@@ -1772,7 +1809,7 @@ or individual ones using
 
 - <div>
 
-      setDistanceToTarget(distanceInMeters: )
+   <span id="sdk-for-ios-explore-s-7heresdk9MapCameraC19setDistanceToTarget16distanceInMetersySd_tF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-setDistanceToTarget-distanceInMeters" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapcamera#sdk-for-ios-explore-s-7heresdk9MapCameraC19setDistanceToTarget16distanceInMetersySd_tF" class="token"><code>setDistanceToTarget(distanceInMeters:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1805,10 +1842,8 @@ or individual ones using
   Swift
 
   ``` highlight
-  public func setDistanceToTarget ( distanceInMeters : Double )
+  public func setDistanceToTarget(distanceInMeters: Double)
   ```
-
-  </pre>
 
   </div>
 
@@ -1841,7 +1876,7 @@ or individual ones using
 
 - <div>
 
-      setOrientationAtTarget(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk9MapCameraC22setOrientationAtTargetyyAA03GeoE6UpdateVF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-setOrientationAtTarget-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapcamera#sdk-for-ios-explore-s-7heresdk9MapCameraC22setOrientationAtTargetyyAA03GeoE6UpdateVF" class="token"><code>setOrientationAtTarget(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1872,12 +1907,14 @@ or individual ones using
   Swift
 
   ``` highlight
-  public func setOrientationAtTarget ( _ orientation : GeoOrientationUpdate )
+  public func setOrientationAtTarget(_ orientation: GeoOrientationUpdate)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geoorientationupdate">GeoOrientationUpdate</a>
 
   </div>
 

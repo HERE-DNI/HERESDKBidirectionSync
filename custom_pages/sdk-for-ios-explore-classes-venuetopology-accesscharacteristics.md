@@ -23,6 +23,10 @@ extension VenueTopology.AccessCharacteristics: Hashable
 
 </div>
 
+Related types:
+
+- <a href="sdk-for-ios-explore-classes-venuetopology">VenueTopology</a>
+
 </div>
 
 Represents the access characreisticas of a topology. Access characteristics is a combination of <a href="sdk-for-ios-explore-enums-venuetransportmode">`VenueTransportMode`</a> which is suppoted on this topology and the <a href="sdk-for-ios-explore-classes-venuetopology-topologydirectionality">`VenueTopology.TopologyDirectionality`</a> towards which it is allowed.
@@ -35,7 +39,7 @@ Represents the access characreisticas of a topology. Access characteristics is a
 
 - <div>
 
-  ` `<span id="/s:7heresdk13VenueTopologyC21AccessCharacteristicsC4modeAA0B13TransportModeOvp"></span>` `<span id="//apple_ref/swift/Property/mode" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuetopology-accesscharacteristics#/s:7heresdk13VenueTopologyC21AccessCharacteristicsC4modeAA0B13TransportModeOvp" class="token"><code>mode</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13VenueTopologyC21AccessCharacteristicsC4modeAA0B13TransportModeOvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-mode" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuetopology-accesscharacteristics#sdk-for-ios-explore-s-7heresdk13VenueTopologyC21AccessCharacteristicsC4modeAA0B13TransportModeOvp" class="token"><code>mode</code></a> 
 
   </div>
 
@@ -71,6 +75,10 @@ Represents the access characreisticas of a topology. Access characteristics is a
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-venuetransportmode">VenueTransportMode</a>
+
   </div>
 
   </div>
@@ -79,7 +87,7 @@ Represents the access characreisticas of a topology. Access characteristics is a
 
 - <div>
 
-  ` `<span id="/s:7heresdk13VenueTopologyC21AccessCharacteristicsC9directionAC0C14DirectionalityOvp"></span>` `<span id="//apple_ref/swift/Property/direction" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuetopology-accesscharacteristics#/s:7heresdk13VenueTopologyC21AccessCharacteristicsC9directionAC0C14DirectionalityOvp" class="token"><code>direction</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13VenueTopologyC21AccessCharacteristicsC9directionAC0C14DirectionalityOvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-direction" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuetopology-accesscharacteristics#sdk-for-ios-explore-s-7heresdk13VenueTopologyC21AccessCharacteristicsC9directionAC0C14DirectionalityOvp" class="token"><code>direction</code></a> 
 
   </div>
 
@@ -114,6 +122,11 @@ Represents the access characreisticas of a topology. Access characteristics is a
   ```
 
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-venuetopology">VenueTopology</a>
+  - <a href="sdk-for-ios-explore-classes-venuetopology-topologydirectionality">TopologyDirectionality</a>
 
   </div>
 

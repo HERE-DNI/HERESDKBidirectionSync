@@ -29,7 +29,7 @@ Physical and cargo profile of a vehicle that triggers a regulation.
 
 - <div>
 
-  ` `<span id="/s:7heresdk25VehicleProfileRestrictionV09requestedB4TypeAA0bF9ConditionOSgvp"></span>` `<span id="//apple_ref/swift/Property/requestedVehicleType" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-vehicleprofilerestriction#/s:7heresdk25VehicleProfileRestrictionV09requestedB4TypeAA0bF9ConditionOSgvp" class="token"><code>requestedVehicleType</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk25VehicleProfileRestrictionV09requestedB4TypeAA0bF9ConditionOSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-requestedVehicleType" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-vehicleprofilerestriction#sdk-for-ios-navigate-s-7heresdk25VehicleProfileRestrictionV09requestedB4TypeAA0bF9ConditionOSgvp" class="token"><code>requestedVehicleType</code></a> 
 
   </div>
 
@@ -65,6 +65,10 @@ Physical and cargo profile of a vehicle that triggers a regulation.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-vehicletypecondition">VehicleTypeCondition</a>
+
   </div>
 
   </div>
@@ -73,7 +77,7 @@ Physical and cargo profile of a vehicle that triggers a regulation.
 
 - <div>
 
-  ` `<span id="/s:7heresdk25VehicleProfileRestrictionV25requiredWeightInKilogramsAA12IntegerRangeVvp"></span>` `<span id="//apple_ref/swift/Property/requiredWeightInKilograms" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-vehicleprofilerestriction#/s:7heresdk25VehicleProfileRestrictionV25requiredWeightInKilogramsAA12IntegerRangeVvp" class="token"><code>requiredWeightInKilograms</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk25VehicleProfileRestrictionV25requiredWeightInKilogramsAA12IntegerRangeVvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-requiredWeightInKilograms" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-vehicleprofilerestriction#sdk-for-ios-navigate-s-7heresdk25VehicleProfileRestrictionV25requiredWeightInKilogramsAA12IntegerRangeVvp" class="token"><code>requiredWeightInKilograms</code></a> 
 
   </div>
 
@@ -109,6 +113,10 @@ Physical and cargo profile of a vehicle that triggers a regulation.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-integerrange">IntegerRange</a>
+
   </div>
 
   </div>
@@ -117,7 +125,7 @@ Physical and cargo profile of a vehicle that triggers a regulation.
 
 - <div>
 
-  ` `<span id="/s:7heresdk25VehicleProfileRestrictionV30requiredGrossWeightInKilogramsAA12IntegerRangeVvp"></span>` `<span id="//apple_ref/swift/Property/requiredGrossWeightInKilograms" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-vehicleprofilerestriction#/s:7heresdk25VehicleProfileRestrictionV30requiredGrossWeightInKilogramsAA12IntegerRangeVvp" class="token"><code>requiredGrossWeightInKilograms</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk25VehicleProfileRestrictionV30requiredGrossWeightInKilogramsAA12IntegerRangeVvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-requiredGrossWeightInKilograms" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-vehicleprofilerestriction#sdk-for-ios-navigate-s-7heresdk25VehicleProfileRestrictionV30requiredGrossWeightInKilogramsAA12IntegerRangeVvp" class="token"><code>requiredGrossWeightInKilograms</code></a> 
 
   </div>
 
@@ -153,6 +161,10 @@ Physical and cargo profile of a vehicle that triggers a regulation.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-integerrange">IntegerRange</a>
+
   </div>
 
   </div>
@@ -161,7 +173,7 @@ Physical and cargo profile of a vehicle that triggers a regulation.
 
 - <div>
 
-  ` `<span id="/s:7heresdk25VehicleProfileRestrictionV24requiredAmountOfTrailersAA12IntegerRangeVvp"></span>` `<span id="//apple_ref/swift/Property/requiredAmountOfTrailers" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-vehicleprofilerestriction#/s:7heresdk25VehicleProfileRestrictionV24requiredAmountOfTrailersAA12IntegerRangeVvp" class="token"><code>requiredAmountOfTrailers</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk25VehicleProfileRestrictionV24requiredAmountOfTrailersAA12IntegerRangeVvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-requiredAmountOfTrailers" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-vehicleprofilerestriction#sdk-for-ios-navigate-s-7heresdk25VehicleProfileRestrictionV24requiredAmountOfTrailersAA12IntegerRangeVvp" class="token"><code>requiredAmountOfTrailers</code></a> 
 
   </div>
 
@@ -197,6 +209,10 @@ Physical and cargo profile of a vehicle that triggers a regulation.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-integerrange">IntegerRange</a>
+
   </div>
 
   </div>
@@ -205,7 +221,7 @@ Physical and cargo profile of a vehicle that triggers a regulation.
 
 - <div>
 
-  ` `<span id="/s:7heresdk25VehicleProfileRestrictionV17hazardousMaterialAA09HazardousF4TypeOvp"></span>` `<span id="//apple_ref/swift/Property/hazardousMaterial" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-vehicleprofilerestriction#/s:7heresdk25VehicleProfileRestrictionV17hazardousMaterialAA09HazardousF4TypeOvp" class="token"><code>hazardousMaterial</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk25VehicleProfileRestrictionV17hazardousMaterialAA09HazardousF4TypeOvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-hazardousMaterial" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-vehicleprofilerestriction#sdk-for-ios-navigate-s-7heresdk25VehicleProfileRestrictionV17hazardousMaterialAA09HazardousF4TypeOvp" class="token"><code>hazardousMaterial</code></a> 
 
   </div>
 
@@ -241,6 +257,10 @@ Physical and cargo profile of a vehicle that triggers a regulation.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-hazardousmaterialtype">HazardousMaterialType</a>
+
   </div>
 
   </div>
@@ -249,7 +269,7 @@ Physical and cargo profile of a vehicle that triggers a regulation.
 
 - <div>
 
-      init(requestedVehicleType: requiredWeightInKilograms: requiredGrossWeightInKilograms: requiredAmountOfTrailers: hazardousMaterial: )
+   <span id="sdk-for-ios-navigate-s-7heresdk25VehicleProfileRestrictionV09requestedB4Type25requiredWeightInKilograms0g5GrosshiJ00G16AmountOfTrailers17hazardousMaterialAcA0bF9ConditionOSg_AA12IntegerRangeVA2mA09HazardouspF0Otcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-requestedVehicleType-requiredWeightInKilograms-requiredGrossWeightInKilograms-requiredAmountOfTrailers-hazardousMaterial" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-vehicleprofilerestriction#sdk-for-ios-navigate-s-7heresdk25VehicleProfileRestrictionV09requestedB4Type25requiredWeightInKilograms0g5GrosshiJ00G16AmountOfTrailers17hazardousMaterialAcA0bF9ConditionOSg_AA12IntegerRangeVA2mA09HazardouspF0Otcfc" class="token"><code>init(requestedVehicleType:</code><wbr></wbr><code>requiredWeightInKilograms:</code><wbr></wbr><code>requiredGrossWeightInKilograms:</code><wbr></wbr><code>requiredAmountOfTrailers:</code><wbr></wbr><code>hazardousMaterial:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -280,12 +300,16 @@ Physical and cargo profile of a vehicle that triggers a regulation.
   Swift
 
   ``` highlight
-  public init ( requestedVehicleType : VehicleTypeCondition ? = nil , requiredWeightInKilograms : IntegerRange , requiredGrossWeightInKilograms : IntegerRange , requiredAmountOfTrailers : IntegerRange , hazardousMaterial : HazardousMaterialType )
+  public init(requestedVehicleType: VehicleTypeCondition? = nil, requiredWeightInKilograms: IntegerRange, requiredGrossWeightInKilograms: IntegerRange, requiredAmountOfTrailers: IntegerRange, hazardousMaterial: HazardousMaterialType)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-vehicletypecondition">VehicleTypeCondition</a>
+  - <a href="sdk-for-ios-navigate-structs-integerrange">IntegerRange</a>
+  - <a href="sdk-for-ios-navigate-enums-hazardousmaterialtype">HazardousMaterialType</a>
 
   </div>
 

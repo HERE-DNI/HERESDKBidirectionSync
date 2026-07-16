@@ -27,7 +27,7 @@ Provides network statistics in bytes per method.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10UsageStatsV07NetworkC0V9sentBytess6UInt64Vvp"></span>` `<span id="//apple_ref/swift/Property/sentBytes" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-usagestats-networkstats#/s:7heresdk10UsageStatsV07NetworkC0V9sentBytess6UInt64Vvp" class="token"><code>sentBytes</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10UsageStatsV07NetworkC0V9sentBytess6UInt64Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-sentBytes" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-usagestats-networkstats#sdk-for-ios-explore-s-7heresdk10UsageStatsV07NetworkC0V9sentBytess6UInt64Vvp" class="token"><code>sentBytes</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Provides network statistics in bytes per method.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10UsageStatsV07NetworkC0V13receivedBytess6UInt64Vvp"></span>` `<span id="//apple_ref/swift/Property/receivedBytes" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-usagestats-networkstats#/s:7heresdk10UsageStatsV07NetworkC0V13receivedBytess6UInt64Vvp" class="token"><code>receivedBytes</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10UsageStatsV07NetworkC0V13receivedBytess6UInt64Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-receivedBytes" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-usagestats-networkstats#sdk-for-ios-explore-s-7heresdk10UsageStatsV07NetworkC0V13receivedBytess6UInt64Vvp" class="token"><code>receivedBytes</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Provides network statistics in bytes per method.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10UsageStatsV07NetworkC0V10methodCallSSvp"></span>` `<span id="//apple_ref/swift/Property/methodCall" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-usagestats-networkstats#/s:7heresdk10UsageStatsV07NetworkC0V10methodCallSSvp" class="token"><code>methodCall</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10UsageStatsV07NetworkC0V10methodCallSSvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-methodCall" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-usagestats-networkstats#sdk-for-ios-explore-s-7heresdk10UsageStatsV07NetworkC0V10methodCallSSvp" class="token"><code>methodCall</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Provides network statistics in bytes per method.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10UsageStatsV07NetworkC0V14requestCounters6UInt32Vvp"></span>` `<span id="//apple_ref/swift/Property/requestCounter" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-usagestats-networkstats#/s:7heresdk10UsageStatsV07NetworkC0V14requestCounters6UInt32Vvp" class="token"><code>requestCounter</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10UsageStatsV07NetworkC0V14requestCounters6UInt32Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-requestCounter" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-usagestats-networkstats#sdk-for-ios-explore-s-7heresdk10UsageStatsV07NetworkC0V14requestCounters6UInt32Vvp" class="token"><code>requestCounter</code></a> 
 
   </div>
 
@@ -203,7 +203,7 @@ Provides network statistics in bytes per method.
 
 - <div>
 
-      init(sentBytes: receivedBytes: methodCall: requestCounter: )
+   <span id="sdk-for-ios-explore-s-7heresdk10UsageStatsV07NetworkC0V9sentBytes08receivedF010methodCall14requestCounterAEs6UInt64V_AKSSs6UInt32Vtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-sentBytes-receivedBytes-methodCall-requestCounter" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-usagestats-networkstats#sdk-for-ios-explore-s-7heresdk10UsageStatsV07NetworkC0V9sentBytes08receivedF010methodCall14requestCounterAEs6UInt64V_AKSSs6UInt32Vtcfc" class="token"><code>init(sentBytes:</code><wbr></wbr><code>receivedBytes:</code><wbr></wbr><code>methodCall:</code><wbr></wbr><code>requestCounter:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -234,10 +234,8 @@ Provides network statistics in bytes per method.
   Swift
 
   ``` highlight
-  public init ( sentBytes : UInt64 , receivedBytes : UInt64 , methodCall : String , requestCounter : UInt32 )
+  public init(sentBytes: UInt64, receivedBytes: UInt64, methodCall: String, requestCounter: UInt32)
   ```
-
-  </pre>
 
   </div>
 

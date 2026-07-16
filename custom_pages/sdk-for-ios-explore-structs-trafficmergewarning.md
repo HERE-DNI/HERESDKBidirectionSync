@@ -27,7 +27,7 @@ A struct that provides warning for merging traffic. The main field describing th
 
 - <div>
 
-  ` `<span id="/s:7heresdk19TrafficMergeWarningV2ids5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/id" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-trafficmergewarning#/s:7heresdk19TrafficMergeWarningV2ids5Int32Vvp" class="token"><code>id</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19TrafficMergeWarningV2ids5Int32Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-id" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-trafficmergewarning#sdk-for-ios-explore-s-7heresdk19TrafficMergeWarningV2ids5Int32Vvp" class="token"><code>id</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ A struct that provides warning for merging traffic. The main field describing th
 
 - <div>
 
-  ` `<span id="/s:7heresdk19TrafficMergeWarningV010distanceTobC8InMetersSdvp"></span>` `<span id="//apple_ref/swift/Property/distanceToTrafficMergeInMeters" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-trafficmergewarning#/s:7heresdk19TrafficMergeWarningV010distanceTobC8InMetersSdvp" class="token"><code>distanceToTrafficMergeInMeters</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19TrafficMergeWarningV010distanceTobC8InMetersSdvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-distanceToTrafficMergeInMeters" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-trafficmergewarning#sdk-for-ios-explore-s-7heresdk19TrafficMergeWarningV010distanceTobC8InMetersSdvp" class="token"><code>distanceToTrafficMergeInMeters</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ A struct that provides warning for merging traffic. The main field describing th
 
 - <div>
 
-  ` `<span id="/s:7heresdk19TrafficMergeWarningV8roadTypeAA0bc4RoadF0Ovp"></span>` `<span id="//apple_ref/swift/Property/roadType" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-trafficmergewarning#/s:7heresdk19TrafficMergeWarningV8roadTypeAA0bc4RoadF0Ovp" class="token"><code>roadType</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19TrafficMergeWarningV8roadTypeAA0bc4RoadF0Ovp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-roadType" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-trafficmergewarning#sdk-for-ios-explore-s-7heresdk19TrafficMergeWarningV8roadTypeAA0bc4RoadF0Ovp" class="token"><code>roadType</code></a> 
 
   </div>
 
@@ -151,6 +151,10 @@ A struct that provides warning for merging traffic. The main field describing th
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-trafficmergeroadtype">TrafficMergeRoadType</a>
+
   </div>
 
   </div>
@@ -159,7 +163,7 @@ A struct that provides warning for merging traffic. The main field describing th
 
 - <div>
 
-  ` `<span id="/s:7heresdk19TrafficMergeWarningV4sideAA0bC4SideOvp"></span>` `<span id="//apple_ref/swift/Property/side" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-trafficmergewarning#/s:7heresdk19TrafficMergeWarningV4sideAA0bC4SideOvp" class="token"><code>side</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19TrafficMergeWarningV4sideAA0bC4SideOvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-side" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-trafficmergewarning#sdk-for-ios-explore-s-7heresdk19TrafficMergeWarningV4sideAA0bC4SideOvp" class="token"><code>side</code></a> 
 
   </div>
 
@@ -195,6 +199,10 @@ A struct that provides warning for merging traffic. The main field describing th
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-trafficmergeside">TrafficMergeSide</a>
+
   </div>
 
   </div>
@@ -203,7 +211,7 @@ A struct that provides warning for merging traffic. The main field describing th
 
 - <div>
 
-  ` `<span id="/s:7heresdk19TrafficMergeWarningV9laneCounts5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/laneCount" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-trafficmergewarning#/s:7heresdk19TrafficMergeWarningV9laneCounts5Int32Vvp" class="token"><code>laneCount</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19TrafficMergeWarningV9laneCounts5Int32Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-laneCount" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-trafficmergewarning#sdk-for-ios-explore-s-7heresdk19TrafficMergeWarningV9laneCounts5Int32Vvp" class="token"><code>laneCount</code></a> 
 
   </div>
 
@@ -247,7 +255,7 @@ A struct that provides warning for merging traffic. The main field describing th
 
 - <div>
 
-  ` `<span id="/s:7heresdk19TrafficMergeWarningV12distanceTypeAA08DistanceF0Ovp"></span>` `<span id="//apple_ref/swift/Property/distanceType" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-trafficmergewarning#/s:7heresdk19TrafficMergeWarningV12distanceTypeAA08DistanceF0Ovp" class="token"><code>distanceType</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19TrafficMergeWarningV12distanceTypeAA08DistanceF0Ovp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-distanceType" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-trafficmergewarning#sdk-for-ios-explore-s-7heresdk19TrafficMergeWarningV12distanceTypeAA08DistanceF0Ovp" class="token"><code>distanceType</code></a> 
 
   </div>
 
@@ -283,6 +291,10 @@ A struct that provides warning for merging traffic. The main field describing th
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-distancetype">DistanceType</a>
+
   </div>
 
   </div>
@@ -291,7 +303,7 @@ A struct that provides warning for merging traffic. The main field describing th
 
 - <div>
 
-      init(id: distanceToTrafficMergeInMeters: roadType: side: laneCount: distanceType: )
+   <span id="sdk-for-ios-explore-s-7heresdk19TrafficMergeWarningV2id010distanceTobC8InMeters8roadType4side9laneCount0fK0ACs5Int32V_SdAA0bc4RoadK0OAA0bC4SideOAkA08DistanceK0Otcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-id-distanceToTrafficMergeInMeters-roadType-side-laneCount-distanceType" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-trafficmergewarning#sdk-for-ios-explore-s-7heresdk19TrafficMergeWarningV2id010distanceTobC8InMeters8roadType4side9laneCount0fK0ACs5Int32V_SdAA0bc4RoadK0OAA0bC4SideOAkA08DistanceK0Otcfc" class="token"><code>init(id:</code><wbr></wbr><code>distanceToTrafficMergeInMeters:</code><wbr></wbr><code>roadType:</code><wbr></wbr><code>side:</code><wbr></wbr><code>laneCount:</code><wbr></wbr><code>distanceType:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -322,12 +334,16 @@ A struct that provides warning for merging traffic. The main field describing th
   Swift
 
   ``` highlight
-  public init ( id : Int32 = 0 , distanceToTrafficMergeInMeters : Double , roadType : TrafficMergeRoadType = TrafficMergeRoadType . sliproad , side : TrafficMergeSide = TrafficMergeSide . right , laneCount : Int32 = 1 , distanceType : DistanceType )
+  public init(id: Int32 = 0, distanceToTrafficMergeInMeters: Double, roadType: TrafficMergeRoadType = TrafficMergeRoadType.sliproad, side: TrafficMergeSide = TrafficMergeSide.right, laneCount: Int32 = 1, distanceType: DistanceType)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-trafficmergeroadtype">TrafficMergeRoadType</a>
+  - <a href="sdk-for-ios-explore-enums-trafficmergeside">TrafficMergeSide</a>
+  - <a href="sdk-for-ios-explore-enums-distancetype">DistanceType</a>
 
   </div>
 

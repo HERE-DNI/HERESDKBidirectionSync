@@ -27,7 +27,7 @@ Filter types for the <a href="sdk-for-ios-explore-classes-venuegeometry">`VenueG
 
 - <div>
 
-  ` `<span id="/s:7heresdk23VenueGeometryFilterTypeO4nameyA2CmF"></span>` `<span id="//apple_ref/swift/Element/name" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-venuegeometryfiltertype#/s:7heresdk23VenueGeometryFilterTypeO4nameyA2CmF" class="token"><code>name</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk23VenueGeometryFilterTypeO4nameyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-name" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-venuegeometryfiltertype#sdk-for-ios-explore-s-7heresdk23VenueGeometryFilterTypeO4nameyA2CmF" class="token"><code>name</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Filter types for the <a href="sdk-for-ios-explore-classes-venuegeometry">`VenueG
 
 - <div>
 
-  ` `<span id="/s:7heresdk23VenueGeometryFilterTypeO7addressyA2CmF"></span>` `<span id="//apple_ref/swift/Element/address" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-venuegeometryfiltertype#/s:7heresdk23VenueGeometryFilterTypeO7addressyA2CmF" class="token"><code>address</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk23VenueGeometryFilterTypeO7addressyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-address" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-venuegeometryfiltertype#sdk-for-ios-explore-s-7heresdk23VenueGeometryFilterTypeO7addressyA2CmF" class="token"><code>address</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Filter types for the <a href="sdk-for-ios-explore-classes-venuegeometry">`VenueG
 
 - <div>
 
-  ` `<span id="/s:7heresdk23VenueGeometryFilterTypeO13nameOrAddressyA2CmF"></span>` `<span id="//apple_ref/swift/Element/nameOrAddress" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-venuegeometryfiltertype#/s:7heresdk23VenueGeometryFilterTypeO13nameOrAddressyA2CmF" class="token"><code>nameOrAddress</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk23VenueGeometryFilterTypeO13nameOrAddressyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-nameOrAddress" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-venuegeometryfiltertype#sdk-for-ios-explore-s-7heresdk23VenueGeometryFilterTypeO13nameOrAddressyA2CmF" class="token"><code>nameOrAddress</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Filter types for the <a href="sdk-for-ios-explore-classes-venuegeometry">`VenueG
 
 - <div>
 
-  ` `<span id="/s:7heresdk23VenueGeometryFilterTypeO8iconNameyA2CmF"></span>` `<span id="//apple_ref/swift/Element/iconName" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-venuegeometryfiltertype#/s:7heresdk23VenueGeometryFilterTypeO8iconNameyA2CmF" class="token"><code>iconName</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk23VenueGeometryFilterTypeO8iconNameyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-iconName" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-venuegeometryfiltertype#sdk-for-ios-explore-s-7heresdk23VenueGeometryFilterTypeO8iconNameyA2CmF" class="token"><code>iconName</code></a> 
 
   </div>
 

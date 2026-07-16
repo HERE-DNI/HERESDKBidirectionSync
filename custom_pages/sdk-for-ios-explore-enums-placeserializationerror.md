@@ -31,7 +31,7 @@ Represents and error, which occurs during place serialization and deserializatio
 
 - <div>
 
-  ` `<span id="/s:7heresdk23PlaceSerializationErrorO7unknownyA2CmF"></span>` `<span id="//apple_ref/swift/Element/unknown" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-placeserializationerror#/s:7heresdk23PlaceSerializationErrorO7unknownyA2CmF" class="token"><code>unknown</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk23PlaceSerializationErrorO7unknownyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-unknown" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-placeserializationerror#sdk-for-ios-explore-s-7heresdk23PlaceSerializationErrorO7unknownyA2CmF" class="token"><code>unknown</code></a> 
 
   </div>
 

@@ -27,7 +27,7 @@ Type of a border crossing given in a <a href="sdk-for-ios-navigate-structs-borde
 
 - <div>
 
-  ` `<span id="/s:7heresdk18BorderCrossingTypeO7countryyA2CmF"></span>` `<span id="//apple_ref/swift/Element/country" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-bordercrossingtype#/s:7heresdk18BorderCrossingTypeO7countryyA2CmF" class="token"><code>country</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18BorderCrossingTypeO7countryyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-country" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-bordercrossingtype#sdk-for-ios-navigate-s-7heresdk18BorderCrossingTypeO7countryyA2CmF" class="token"><code>country</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Type of a border crossing given in a <a href="sdk-for-ios-navigate-structs-borde
 
 - <div>
 
-  ` `<span id="/s:7heresdk18BorderCrossingTypeO5stateyA2CmF"></span>` `<span id="//apple_ref/swift/Element/state" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-bordercrossingtype#/s:7heresdk18BorderCrossingTypeO5stateyA2CmF" class="token"><code>state</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18BorderCrossingTypeO5stateyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-state" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-bordercrossingtype#sdk-for-ios-navigate-s-7heresdk18BorderCrossingTypeO5stateyA2CmF" class="token"><code>state</code></a> 
 
   </div>
 

@@ -27,7 +27,7 @@ Represents geographical coordinates in 3D space. Unlike <a href="sdk-for-ios-nav
 
 - <div>
 
-  ` `<span id="/s:7heresdk20GeoCoordinatesUpdateV8latitudeSdSgvp"></span>` `<span id="//apple_ref/swift/Property/latitude" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-geocoordinatesupdate#/s:7heresdk20GeoCoordinatesUpdateV8latitudeSdSgvp" class="token"><code>latitude</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk20GeoCoordinatesUpdateV8latitudeSdSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-latitude" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-geocoordinatesupdate#sdk-for-ios-navigate-s-7heresdk20GeoCoordinatesUpdateV8latitudeSdSgvp" class="token"><code>latitude</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Represents geographical coordinates in 3D space. Unlike <a href="sdk-for-ios-nav
 
 - <div>
 
-  ` `<span id="/s:7heresdk20GeoCoordinatesUpdateV9longitudeSdSgvp"></span>` `<span id="//apple_ref/swift/Property/longitude" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-geocoordinatesupdate#/s:7heresdk20GeoCoordinatesUpdateV9longitudeSdSgvp" class="token"><code>longitude</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk20GeoCoordinatesUpdateV9longitudeSdSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-longitude" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-geocoordinatesupdate#sdk-for-ios-navigate-s-7heresdk20GeoCoordinatesUpdateV9longitudeSdSgvp" class="token"><code>longitude</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Represents geographical coordinates in 3D space. Unlike <a href="sdk-for-ios-nav
 
 - <div>
 
-  ` `<span id="/s:7heresdk20GeoCoordinatesUpdateV8altitudeSdSgvp"></span>` `<span id="//apple_ref/swift/Property/altitude" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-geocoordinatesupdate#/s:7heresdk20GeoCoordinatesUpdateV8altitudeSdSgvp" class="token"><code>altitude</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk20GeoCoordinatesUpdateV8altitudeSdSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-altitude" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-geocoordinatesupdate#sdk-for-ios-navigate-s-7heresdk20GeoCoordinatesUpdateV8altitudeSdSgvp" class="token"><code>altitude</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Represents geographical coordinates in 3D space. Unlike <a href="sdk-for-ios-nav
 
 - <div>
 
-      init(latitude: longitude: )
+   <span id="sdk-for-ios-navigate-s-7heresdk20GeoCoordinatesUpdateV8latitude9longitudeACSdSg_AFtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-latitude-longitude" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-geocoordinatesupdate#sdk-for-ios-navigate-s-7heresdk20GeoCoordinatesUpdateV8latitude9longitudeACSdSg_AFtcfc" class="token"><code>init(latitude:</code><wbr></wbr><code>longitude:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -190,10 +190,8 @@ Represents geographical coordinates in 3D space. Unlike <a href="sdk-for-ios-nav
   Swift
 
   ``` highlight
-  public init ( latitude : Double ?, longitude : Double ?)
+  public init(latitude: Double?, longitude: Double?)
   ```
-
-  </pre>
 
   </div>
 
@@ -232,7 +230,7 @@ Represents geographical coordinates in 3D space. Unlike <a href="sdk-for-ios-nav
 
 - <div>
 
-      init(latitude: longitude: altitude: )
+   <span id="sdk-for-ios-navigate-s-7heresdk20GeoCoordinatesUpdateV8latitude9longitude8altitudeACSdSg_A2Gtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-latitude-longitude-altitude" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-geocoordinatesupdate#sdk-for-ios-navigate-s-7heresdk20GeoCoordinatesUpdateV8latitude9longitude8altitudeACSdSg_A2Gtcfc" class="token"><code>init(latitude:</code><wbr></wbr><code>longitude:</code><wbr></wbr><code>altitude:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -263,10 +261,8 @@ Represents geographical coordinates in 3D space. Unlike <a href="sdk-for-ios-nav
   Swift
 
   ``` highlight
-  public init ( latitude : Double ?, longitude : Double ?, altitude : Double ?)
+  public init(latitude: Double?, longitude: Double?, altitude: Double?)
   ```
-
-  </pre>
 
   </div>
 
@@ -311,7 +307,7 @@ Represents geographical coordinates in 3D space. Unlike <a href="sdk-for-ios-nav
 
 - <div>
 
-      init(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk20GeoCoordinatesUpdateVyAcA0bC0Vcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-geocoordinatesupdate#sdk-for-ios-navigate-s-7heresdk20GeoCoordinatesUpdateVyAcA0bC0Vcfc" class="token"><code>init(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -342,12 +338,14 @@ Represents geographical coordinates in 3D space. Unlike <a href="sdk-for-ios-nav
   Swift
 
   ``` highlight
-  public init ( _ coordinates : GeoCoordinates )
+  public init(_ coordinates: GeoCoordinates)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-geocoordinates">GeoCoordinates</a>
 
   </div>
 

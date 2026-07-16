@@ -27,7 +27,7 @@ Distances for emitting warnings according to the timing profile.
 
 - <div>
 
-  ` `<span id="/s:7heresdk28WarningNotificationDistancesV25slowSpeedDistanceInMeterss5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/slowSpeedDistanceInMeters" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-warningnotificationdistances#/s:7heresdk28WarningNotificationDistancesV25slowSpeedDistanceInMeterss5Int32Vvp" class="token"><code>slowSpeedDistanceInMeters</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk28WarningNotificationDistancesV25slowSpeedDistanceInMeterss5Int32Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-slowSpeedDistanceInMeters" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-warningnotificationdistances#sdk-for-ios-navigate-s-7heresdk28WarningNotificationDistancesV25slowSpeedDistanceInMeterss5Int32Vvp" class="token"><code>slowSpeedDistanceInMeters</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Distances for emitting warnings according to the timing profile.
 
 - <div>
 
-  ` `<span id="/s:7heresdk28WarningNotificationDistancesV28regularSpeedDistanceInMeterss5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/regularSpeedDistanceInMeters" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-warningnotificationdistances#/s:7heresdk28WarningNotificationDistancesV28regularSpeedDistanceInMeterss5Int32Vvp" class="token"><code>regularSpeedDistanceInMeters</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk28WarningNotificationDistancesV28regularSpeedDistanceInMeterss5Int32Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-regularSpeedDistanceInMeters" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-warningnotificationdistances#sdk-for-ios-navigate-s-7heresdk28WarningNotificationDistancesV28regularSpeedDistanceInMeterss5Int32Vvp" class="token"><code>regularSpeedDistanceInMeters</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Distances for emitting warnings according to the timing profile.
 
 - <div>
 
-  ` `<span id="/s:7heresdk28WarningNotificationDistancesV25fastSpeedDistanceInMeterss5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/fastSpeedDistanceInMeters" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-warningnotificationdistances#/s:7heresdk28WarningNotificationDistancesV25fastSpeedDistanceInMeterss5Int32Vvp" class="token"><code>fastSpeedDistanceInMeters</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk28WarningNotificationDistancesV25fastSpeedDistanceInMeterss5Int32Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-fastSpeedDistanceInMeters" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-warningnotificationdistances#sdk-for-ios-navigate-s-7heresdk28WarningNotificationDistancesV25fastSpeedDistanceInMeterss5Int32Vvp" class="token"><code>fastSpeedDistanceInMeters</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Distances for emitting warnings according to the timing profile.
 
 - <div>
 
-      init(slowSpeedDistanceInMeters: regularSpeedDistanceInMeters: fastSpeedDistanceInMeters: )
+   <span id="sdk-for-ios-navigate-s-7heresdk28WarningNotificationDistancesV25slowSpeedDistanceInMeters07regularfghI004fastfghI0ACs5Int32V_A2Htcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-slowSpeedDistanceInMeters-regularSpeedDistanceInMeters-fastSpeedDistanceInMeters" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-warningnotificationdistances#sdk-for-ios-navigate-s-7heresdk28WarningNotificationDistancesV25slowSpeedDistanceInMeters07regularfghI004fastfghI0ACs5Int32V_A2Htcfc" class="token"><code>init(slowSpeedDistanceInMeters:</code><wbr></wbr><code>regularSpeedDistanceInMeters:</code><wbr></wbr><code>fastSpeedDistanceInMeters:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -190,10 +190,8 @@ Distances for emitting warnings according to the timing profile.
   Swift
 
   ``` highlight
-  public init ( slowSpeedDistanceInMeters : Int32 = 500 , regularSpeedDistanceInMeters : Int32 = 750 , fastSpeedDistanceInMeters : Int32 = 1500 )
+  public init(slowSpeedDistanceInMeters: Int32 = 500, regularSpeedDistanceInMeters: Int32 = 750, fastSpeedDistanceInMeters: Int32 = 1500)
   ```
-
-  </pre>
 
   </div>
 

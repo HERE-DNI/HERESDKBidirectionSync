@@ -27,7 +27,7 @@ Provides the protocol for the <a href="sdk-for-ios-navigate-classes-evsearchengi
 
 - <div>
 
-      search(ids: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk17EVSearchInterfaceP6search3ids10completionAA10TaskHandle_pSaySSG_yAA0B5ErrorOSg_SayAA18EVChargingLocationCGSgtctF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-search-ids-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-protocols-evsearchinterface#sdk-for-ios-navigate-s-7heresdk17EVSearchInterfaceP6search3ids10completionAA10TaskHandle_pSaySSG_yAA0B5ErrorOSg_SayAA18EVChargingLocationCGSgtctF" class="token"><code>search(ids:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -58,12 +58,16 @@ Provides the protocol for the <a href="sdk-for-ios-navigate-classes-evsearchengi
   Swift
 
   ``` highlight
-  @discardableResult func search ( ids : [ String ], completion : @escaping EVCP3SearchCompletionHandler ) -> TaskHandle
+  @discardableResult
+  func search(ids: [String], completion: @escaping EVCP3SearchCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-search#sdk-for-ios-navigate-s-7heresdk28EVCP3SearchCompletionHandlera">EVCP3SearchCompletionHandler</a>
+  - <a href="sdk-for-ios-navigate-protocols-taskhandle">TaskHandle</a>
 
   </div>
 

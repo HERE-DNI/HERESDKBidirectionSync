@@ -29,7 +29,7 @@ OCM Segment ID with travel direction of segment.
 
 - <div>
 
-  ` `<span id="/s:7heresdk20DirectedOCMSegmentIdV2idAA0cD0Vvp"></span>` `<span id="//apple_ref/swift/Property/id" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-directedocmsegmentid#/s:7heresdk20DirectedOCMSegmentIdV2idAA0cD0Vvp" class="token"><code>id</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk20DirectedOCMSegmentIdV2idAA0cD0Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-id" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-directedocmsegmentid#sdk-for-ios-explore-s-7heresdk20DirectedOCMSegmentIdV2idAA0cD0Vvp" class="token"><code>id</code></a> 
 
   </div>
 
@@ -65,6 +65,10 @@ OCM Segment ID with travel direction of segment.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-ocmsegmentid">OCMSegmentId</a>
+
   </div>
 
   </div>
@@ -73,7 +77,7 @@ OCM Segment ID with travel direction of segment.
 
 - <div>
 
-  ` `<span id="/s:7heresdk20DirectedOCMSegmentIdV15travelDirectionAA06TravelF0Ovp"></span>` `<span id="//apple_ref/swift/Property/travelDirection" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-directedocmsegmentid#/s:7heresdk20DirectedOCMSegmentIdV15travelDirectionAA06TravelF0Ovp" class="token"><code>travelDirection</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk20DirectedOCMSegmentIdV15travelDirectionAA06TravelF0Ovp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-travelDirection" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-directedocmsegmentid#sdk-for-ios-explore-s-7heresdk20DirectedOCMSegmentIdV15travelDirectionAA06TravelF0Ovp" class="token"><code>travelDirection</code></a> 
 
   </div>
 
@@ -109,6 +113,10 @@ OCM Segment ID with travel direction of segment.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-traveldirection">TravelDirection</a>
+
   </div>
 
   </div>
@@ -117,7 +125,7 @@ OCM Segment ID with travel direction of segment.
 
 - <div>
 
-      init(id: travelDirection: )
+   <span id="sdk-for-ios-explore-s-7heresdk20DirectedOCMSegmentIdV2id15travelDirectionAcA0cD0V_AA06TravelG0Otcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-id-travelDirection" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-directedocmsegmentid#sdk-for-ios-explore-s-7heresdk20DirectedOCMSegmentIdV2id15travelDirectionAcA0cD0V_AA06TravelG0Otcfc" class="token"><code>init(id:</code><wbr></wbr><code>travelDirection:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -148,12 +156,15 @@ OCM Segment ID with travel direction of segment.
   Swift
 
   ``` highlight
-  public init ( id : OCMSegmentId , travelDirection : TravelDirection = TravelDirection . bidirectional )
+  public init(id: OCMSegmentId, travelDirection: TravelDirection = TravelDirection.bidirectional)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-ocmsegmentid">OCMSegmentId</a>
+  - <a href="sdk-for-ios-explore-enums-traveldirection">TravelDirection</a>
 
   </div>
 

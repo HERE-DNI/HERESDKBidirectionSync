@@ -27,7 +27,7 @@ Represents the space data for an indoor maneuver.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15IndoorSpaceDataV13spaceCategorySSvp"></span>` `<span id="//apple_ref/swift/Property/spaceCategory" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-indoorspacedata#/s:7heresdk15IndoorSpaceDataV13spaceCategorySSvp" class="token"><code>spaceCategory</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15IndoorSpaceDataV13spaceCategorySSvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-spaceCategory" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-indoorspacedata#sdk-for-ios-navigate-s-7heresdk15IndoorSpaceDataV13spaceCategorySSvp" class="token"><code>spaceCategory</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Represents the space data for an indoor maneuver.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15IndoorSpaceDataV9spaceTypeSSvp"></span>` `<span id="//apple_ref/swift/Property/spaceType" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-indoorspacedata#/s:7heresdk15IndoorSpaceDataV9spaceTypeSSvp" class="token"><code>spaceType</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15IndoorSpaceDataV9spaceTypeSSvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-spaceType" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-indoorspacedata#sdk-for-ios-navigate-s-7heresdk15IndoorSpaceDataV9spaceTypeSSvp" class="token"><code>spaceType</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Represents the space data for an indoor maneuver.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15IndoorSpaceDataV4nameSSSgvp"></span>` `<span id="//apple_ref/swift/Property/name" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-indoorspacedata#/s:7heresdk15IndoorSpaceDataV4nameSSSgvp" class="token"><code>name</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15IndoorSpaceDataV4nameSSSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-name" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-indoorspacedata#sdk-for-ios-navigate-s-7heresdk15IndoorSpaceDataV4nameSSSgvp" class="token"><code>name</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Represents the space data for an indoor maneuver.
 
 - <div>
 
-      init(spaceCategory: spaceType: name: )
+   <span id="sdk-for-ios-navigate-s-7heresdk15IndoorSpaceDataV13spaceCategory0E4Type4nameACSS_S2SSgtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-spaceCategory-spaceType-name" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-indoorspacedata#sdk-for-ios-navigate-s-7heresdk15IndoorSpaceDataV13spaceCategory0E4Type4nameACSS_S2SSgtcfc" class="token"><code>init(spaceCategory:</code><wbr></wbr><code>spaceType:</code><wbr></wbr><code>name:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -190,10 +190,8 @@ Represents the space data for an indoor maneuver.
   Swift
 
   ``` highlight
-  public init ( spaceCategory : String , spaceType : String , name : String ? = nil )
+  public init(spaceCategory: String, spaceType: String, name: String? = nil)
   ```
-
-  </pre>
 
   </div>
 

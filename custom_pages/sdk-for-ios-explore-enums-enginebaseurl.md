@@ -27,7 +27,7 @@ Lists the available HERE SDK endpoints that can be customized with a custom back
 
 - <div>
 
-  ` `<span id="/s:7heresdk13EngineBaseURLO06searchB0yA2CmF"></span>` `<span id="//apple_ref/swift/Element/searchEngine" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-enginebaseurl#/s:7heresdk13EngineBaseURLO06searchB0yA2CmF" class="token"><code>searchEngine</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13EngineBaseURLO06searchB0yA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-searchEngine" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-enginebaseurl#sdk-for-ios-explore-s-7heresdk13EngineBaseURLO06searchB0yA2CmF" class="token"><code>searchEngine</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Lists the available HERE SDK endpoints that can be customized with a custom back
 
 - <div>
 
-  ` `<span id="/s:7heresdk13EngineBaseURLO07routingB0yA2CmF"></span>` `<span id="//apple_ref/swift/Element/routingEngine" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-enginebaseurl#/s:7heresdk13EngineBaseURLO07routingB0yA2CmF" class="token"><code>routingEngine</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13EngineBaseURLO07routingB0yA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-routingEngine" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-enginebaseurl#sdk-for-ios-explore-s-7heresdk13EngineBaseURLO07routingB0yA2CmF" class="token"><code>routingEngine</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Lists the available HERE SDK endpoints that can be customized with a custom back
 
 - <div>
 
-  ` `<span id="/s:7heresdk13EngineBaseURLO14authenticationyA2CmF"></span>` `<span id="//apple_ref/swift/Element/authentication" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-enginebaseurl#/s:7heresdk13EngineBaseURLO14authenticationyA2CmF" class="token"><code>authentication</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13EngineBaseURLO14authenticationyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-authentication" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-enginebaseurl#sdk-for-ios-explore-s-7heresdk13EngineBaseURLO14authenticationyA2CmF" class="token"><code>authentication</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Lists the available HERE SDK endpoints that can be customized with a custom back
 
 - <div>
 
-  ` `<span id="/s:7heresdk13EngineBaseURLO7dsProxyyA2CmF"></span>` `<span id="//apple_ref/swift/Element/dsProxy" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-enginebaseurl#/s:7heresdk13EngineBaseURLO7dsProxyyA2CmF" class="token"><code>dsProxy</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13EngineBaseURLO7dsProxyyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-dsProxy" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-enginebaseurl#sdk-for-ios-explore-s-7heresdk13EngineBaseURLO7dsProxyyA2CmF" class="token"><code>dsProxy</code></a> 
 
   </div>
 
@@ -203,7 +203,7 @@ Lists the available HERE SDK endpoints that can be customized with a custom back
 
 - <div>
 
-  ` `<span id="/s:7heresdk13EngineBaseURLO11trafficDatayA2CmF"></span>` `<span id="//apple_ref/swift/Element/trafficData" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-enginebaseurl#/s:7heresdk13EngineBaseURLO11trafficDatayA2CmF" class="token"><code>trafficData</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13EngineBaseURLO11trafficDatayA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-trafficData" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-enginebaseurl#sdk-for-ios-explore-s-7heresdk13EngineBaseURLO11trafficDatayA2CmF" class="token"><code>trafficData</code></a> 
 
   </div>
 
@@ -221,7 +221,7 @@ Lists the available HERE SDK endpoints that can be customized with a custom back
 
   <div class="abstract">
 
-  Indicates a `Traffic Data` endpoint. Note that the provided string value will replace the base URL. This is only relevant for TrafficEngine. For traffic incident and flow presented in the map view, please use <a href="sdk-for-ios-explore-enums-enginebaseurl#/s:7heresdk13EngineBaseURLO24trafficVectorTileServiceyA2CmF">`EngineBaseURL.trafficVectorTileService`</a>.
+  Indicates a `Traffic Data` endpoint. Note that the provided string value will replace the base URL. This is only relevant for TrafficEngine. For traffic incident and flow presented in the map view, please use <a href="sdk-for-ios-explore-enums-enginebaseurl#sdk-for-ios-explore-s-7heresdk13EngineBaseURLO24trafficVectorTileServiceyA2CmF">`EngineBaseURL.trafficVectorTileService`</a>.
 
   </div>
 
@@ -247,7 +247,7 @@ Lists the available HERE SDK endpoints that can be customized with a custom back
 
 - <div>
 
-  ` `<span id="/s:7heresdk13EngineBaseURLO24trafficVectorTileServiceyA2CmF"></span>` `<span id="//apple_ref/swift/Element/trafficVectorTileService" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-enginebaseurl#/s:7heresdk13EngineBaseURLO24trafficVectorTileServiceyA2CmF" class="token"><code>trafficVectorTileService</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13EngineBaseURLO24trafficVectorTileServiceyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-trafficVectorTileService" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-enginebaseurl#sdk-for-ios-explore-s-7heresdk13EngineBaseURLO24trafficVectorTileServiceyA2CmF" class="token"><code>trafficVectorTileService</code></a> 
 
   </div>
 
@@ -265,7 +265,7 @@ Lists the available HERE SDK endpoints that can be customized with a custom back
 
   <div class="abstract">
 
-  Indicates a `Traffic Vector Tile API` endpoint. Note that the provided string value will replace the base URL. This is only relevant for traffic presented in the map view. For the TrafficEngine, please use <a href="sdk-for-ios-explore-enums-enginebaseurl#/s:7heresdk13EngineBaseURLO11trafficDatayA2CmF">`EngineBaseURL.trafficData`</a>.
+  Indicates a `Traffic Vector Tile API` endpoint. Note that the provided string value will replace the base URL. This is only relevant for traffic presented in the map view. For the TrafficEngine, please use <a href="sdk-for-ios-explore-enums-enginebaseurl#sdk-for-ios-explore-s-7heresdk13EngineBaseURLO11trafficDatayA2CmF">`EngineBaseURL.trafficData`</a>.
 
   The service needs to comply with <https://www.here.com/docs/bundle/traffic-vector-tile-api-v2-api-reference/page/index.html> The endpoint name for this engine is “v2/traffictiles”. A valid base string value could look like “<a href="http://www.my-company.com">www.my-company.com</a>”. The resulting URL looks like this: “<https://www.my-company.com/v2/traffictiles/%7Blayer%7D/mc/%7Bz%7D/%7Bx%7D/%7By%7D/omv>”, with concrete tile IDs in {x}, {y}, {z} and {layers} in (flow, incidents). You need to ensure that the provided base URL supports all required endpoints.
 
@@ -293,7 +293,7 @@ Lists the available HERE SDK endpoints that can be customized with a custom back
 
 - <div>
 
-  ` `<span id="/s:7heresdk13EngineBaseURLO17rasterTileServiceyA2CmF"></span>` `<span id="//apple_ref/swift/Element/rasterTileService" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-enginebaseurl#/s:7heresdk13EngineBaseURLO17rasterTileServiceyA2CmF" class="token"><code>rasterTileService</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13EngineBaseURLO17rasterTileServiceyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-rasterTileService" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-enginebaseurl#sdk-for-ios-explore-s-7heresdk13EngineBaseURLO17rasterTileServiceyA2CmF" class="token"><code>rasterTileService</code></a> 
 
   </div>
 
@@ -337,7 +337,7 @@ Lists the available HERE SDK endpoints that can be customized with a custom back
 
 - <div>
 
-  ` `<span id="/s:7heresdk13EngineBaseURLO014isolineRoutingB0yA2CmF"></span>` `<span id="//apple_ref/swift/Element/isolineRoutingEngine" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-enginebaseurl#/s:7heresdk13EngineBaseURLO014isolineRoutingB0yA2CmF" class="token"><code>isolineRoutingEngine</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13EngineBaseURLO014isolineRoutingB0yA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-isolineRoutingEngine" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-enginebaseurl#sdk-for-ios-explore-s-7heresdk13EngineBaseURLO014isolineRoutingB0yA2CmF" class="token"><code>isolineRoutingEngine</code></a> 
 
   </div>
 

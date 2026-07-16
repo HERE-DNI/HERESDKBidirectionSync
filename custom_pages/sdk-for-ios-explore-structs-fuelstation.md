@@ -19,7 +19,7 @@ public struct FuelStation : Hashable
 
 Contains information about a specific fuel station.
 
-Use <a href="sdk-for-ios-explore-classes-placecategory#/s:7heresdk13PlaceCategoryC40businessAndServicesPetrolGasolineStationSSvpZ">`PlaceCategory.businessAndServicesPetrolGasolineStation`</a> to find fuel stations. In the <a href="sdk-for-ios-explore-structs-details">`Details`</a> of a <a href="sdk-for-ios-explore-classes-place">`Place`</a> result you can find the associated fuel station information, if any.
+Use <a href="sdk-for-ios-explore-classes-placecategory#sdk-for-ios-explore-s-7heresdk13PlaceCategoryC40businessAndServicesPetrolGasolineStationSSvpZ">`PlaceCategory.businessAndServicesPetrolGasolineStation`</a> to find fuel stations. In the <a href="sdk-for-ios-explore-structs-details">`Details`</a> of a <a href="sdk-for-ios-explore-classes-place">`Place`</a> result you can find the associated fuel station information, if any.
 
 **Note:** This is a beta release of this feature, so there could be a few bugs and unexpected behaviors. Related APIs may change for new releases without a deprecation process.
 
@@ -31,7 +31,7 @@ Use <a href="sdk-for-ios-explore-classes-placecategory#/s:7heresdk13PlaceCategor
 
 - <div>
 
-  ` `<span id="/s:7heresdk11FuelStationV5fuelsSayAA07GenericB0VGvp"></span>` `<span id="//apple_ref/swift/Property/fuels" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-fuelstation#/s:7heresdk11FuelStationV5fuelsSayAA07GenericB0VGvp" class="token"><code>fuels</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11FuelStationV5fuelsSayAA07GenericB0VGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-fuels" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-fuelstation#sdk-for-ios-explore-s-7heresdk11FuelStationV5fuelsSayAA07GenericB0VGvp" class="token"><code>fuels</code></a> 
 
   </div>
 
@@ -67,6 +67,10 @@ Use <a href="sdk-for-ios-explore-classes-placecategory#/s:7heresdk13PlaceCategor
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-genericfuel">GenericFuel</a>
+
   </div>
 
   </div>
@@ -75,7 +79,7 @@ Use <a href="sdk-for-ios-explore-classes-placecategory#/s:7heresdk13PlaceCategor
 
 - <div>
 
-  ` `<span id="/s:7heresdk11FuelStationV10truckFuelsSayAA05TruckB0VGvp"></span>` `<span id="//apple_ref/swift/Property/truckFuels" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-fuelstation#/s:7heresdk11FuelStationV10truckFuelsSayAA05TruckB0VGvp" class="token"><code>truckFuels</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11FuelStationV10truckFuelsSayAA05TruckB0VGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-truckFuels" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-fuelstation#sdk-for-ios-explore-s-7heresdk11FuelStationV10truckFuelsSayAA05TruckB0VGvp" class="token"><code>truckFuels</code></a> 
 
   </div>
 
@@ -111,6 +115,10 @@ Use <a href="sdk-for-ios-explore-classes-placecategory#/s:7heresdk13PlaceCategor
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-truckfuel">TruckFuel</a>
+
   </div>
 
   </div>
@@ -119,7 +127,7 @@ Use <a href="sdk-for-ios-explore-classes-placecategory#/s:7heresdk13PlaceCategor
 
 - <div>
 
-  ` `<span id="/s:7heresdk11FuelStationV12payAtThePumpSbSgvp"></span>` `<span id="//apple_ref/swift/Property/payAtThePump" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-fuelstation#/s:7heresdk11FuelStationV12payAtThePumpSbSgvp" class="token"><code>payAtThePump</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11FuelStationV12payAtThePumpSbSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-payAtThePump" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-fuelstation#sdk-for-ios-explore-s-7heresdk11FuelStationV12payAtThePumpSbSgvp" class="token"><code>payAtThePump</code></a> 
 
   </div>
 
@@ -163,7 +171,7 @@ Use <a href="sdk-for-ios-explore-classes-placecategory#/s:7heresdk13PlaceCategor
 
 - <div>
 
-  ` `<span id="/s:7heresdk11FuelStationV15highVolumePumpsSbSgvp"></span>` `<span id="//apple_ref/swift/Property/highVolumePumps" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-fuelstation#/s:7heresdk11FuelStationV15highVolumePumpsSbSgvp" class="token"><code>highVolumePumps</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11FuelStationV15highVolumePumpsSbSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-highVolumePumps" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-fuelstation#sdk-for-ios-explore-s-7heresdk11FuelStationV15highVolumePumpsSbSgvp" class="token"><code>highVolumePumps</code></a> 
 
   </div>
 
@@ -207,7 +215,7 @@ Use <a href="sdk-for-ios-explore-classes-placecategory#/s:7heresdk13PlaceCategor
 
 - <div>
 
-      init(fuels: truckFuels: payAtThePump: highVolumePumps: )
+   <span id="sdk-for-ios-explore-s-7heresdk11FuelStationV5fuels10truckFuels12payAtThePump15highVolumePumpsACSayAA07GenericB0VG_SayAA05TruckB0VGSbSgANtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-fuels-truckFuels-payAtThePump-highVolumePumps" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-fuelstation#sdk-for-ios-explore-s-7heresdk11FuelStationV5fuels10truckFuels12payAtThePump15highVolumePumpsACSayAA07GenericB0VG_SayAA05TruckB0VGSbSgANtcfc" class="token"><code>init(fuels:</code><wbr></wbr><code>truckFuels:</code><wbr></wbr><code>payAtThePump:</code><wbr></wbr><code>highVolumePumps:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -238,12 +246,15 @@ Use <a href="sdk-for-ios-explore-classes-placecategory#/s:7heresdk13PlaceCategor
   Swift
 
   ``` highlight
-  public init ( fuels : [ GenericFuel ] = [], truckFuels : [ TruckFuel ] = [], payAtThePump : Bool ? = nil , highVolumePumps : Bool ? = nil )
+  public init(fuels: [GenericFuel] = [], truckFuels: [TruckFuel] = [], payAtThePump: Bool? = nil, highVolumePumps: Bool? = nil)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-genericfuel">GenericFuel</a>
+  - <a href="sdk-for-ios-explore-structs-truckfuel">TruckFuel</a>
 
   </div>
 

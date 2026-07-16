@@ -27,7 +27,7 @@ Identify possible type of route railway crossing.
 
 - <div>
 
-  ` `<span id="/s:7heresdk24RouteRailwayCrossingTypeO7unknownyA2CmF"></span>` `<span id="//apple_ref/swift/Element/unknown" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-routerailwaycrossingtype#/s:7heresdk24RouteRailwayCrossingTypeO7unknownyA2CmF" class="token"><code>unknown</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk24RouteRailwayCrossingTypeO7unknownyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-unknown" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-routerailwaycrossingtype#sdk-for-ios-explore-s-7heresdk24RouteRailwayCrossingTypeO7unknownyA2CmF" class="token"><code>unknown</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Identify possible type of route railway crossing.
 
 - <div>
 
-  ` `<span id="/s:7heresdk24RouteRailwayCrossingTypeO20protectedWithBarrieryA2CmF"></span>` `<span id="//apple_ref/swift/Element/protectedWithBarrier" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-routerailwaycrossingtype#/s:7heresdk24RouteRailwayCrossingTypeO20protectedWithBarrieryA2CmF" class="token"><code>protectedWithBarrier</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk24RouteRailwayCrossingTypeO20protectedWithBarrieryA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-protectedWithBarrier" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-routerailwaycrossingtype#sdk-for-ios-explore-s-7heresdk24RouteRailwayCrossingTypeO20protectedWithBarrieryA2CmF" class="token"><code>protectedWithBarrier</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Identify possible type of route railway crossing.
 
 - <div>
 
-  ` `<span id="/s:7heresdk24RouteRailwayCrossingTypeO22unprotectedWithBarrieryA2CmF"></span>` `<span id="//apple_ref/swift/Element/unprotectedWithBarrier" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-routerailwaycrossingtype#/s:7heresdk24RouteRailwayCrossingTypeO22unprotectedWithBarrieryA2CmF" class="token"><code>unprotectedWithBarrier</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk24RouteRailwayCrossingTypeO22unprotectedWithBarrieryA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-unprotectedWithBarrier" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-routerailwaycrossingtype#sdk-for-ios-explore-s-7heresdk24RouteRailwayCrossingTypeO22unprotectedWithBarrieryA2CmF" class="token"><code>unprotectedWithBarrier</code></a> 
 
   </div>
 

@@ -27,7 +27,7 @@ Specifies possible errors that may result from a search query.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11SearchErrorO20authenticationFailedyA2CmF"></span>` `<span id="//apple_ref/swift/Element/authenticationFailed" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-searcherror#/s:7heresdk11SearchErrorO20authenticationFailedyA2CmF" class="token"><code>authenticationFailed</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11SearchErrorO20authenticationFailedyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-authenticationFailed" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-searcherror#sdk-for-ios-navigate-s-7heresdk11SearchErrorO20authenticationFailedyA2CmF" class="token"><code>authenticationFailed</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Specifies possible errors that may result from a search query.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11SearchErrorO18maxItemsOutOfRangeyA2CmF"></span>` `<span id="//apple_ref/swift/Element/maxItemsOutOfRange" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-searcherror#/s:7heresdk11SearchErrorO18maxItemsOutOfRangeyA2CmF" class="token"><code>maxItemsOutOfRange</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11SearchErrorO18maxItemsOutOfRangeyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-maxItemsOutOfRange" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-searcherror#sdk-for-ios-navigate-s-7heresdk11SearchErrorO18maxItemsOutOfRangeyA2CmF" class="token"><code>maxItemsOutOfRange</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Specifies possible errors that may result from a search query.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11SearchErrorO07parsingC0yA2CmF"></span>` `<span id="//apple_ref/swift/Element/parsingError" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-searcherror#/s:7heresdk11SearchErrorO07parsingC0yA2CmF" class="token"><code>parsingError</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11SearchErrorO07parsingC0yA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-parsingError" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-searcherror#sdk-for-ios-navigate-s-7heresdk11SearchErrorO07parsingC0yA2CmF" class="token"><code>parsingError</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Specifies possible errors that may result from a search query.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11SearchErrorO14noResultsFoundyA2CmF"></span>` `<span id="//apple_ref/swift/Element/noResultsFound" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-searcherror#/s:7heresdk11SearchErrorO14noResultsFoundyA2CmF" class="token"><code>noResultsFound</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11SearchErrorO14noResultsFoundyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-noResultsFound" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-searcherror#sdk-for-ios-navigate-s-7heresdk11SearchErrorO14noResultsFoundyA2CmF" class="token"><code>noResultsFound</code></a> 
 
   </div>
 
@@ -203,7 +203,7 @@ Specifies possible errors that may result from a search query.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11SearchErrorO04httpC0yA2CmF"></span>` `<span id="//apple_ref/swift/Element/httpError" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-searcherror#/s:7heresdk11SearchErrorO04httpC0yA2CmF" class="token"><code>httpError</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11SearchErrorO04httpC0yA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-httpError" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-searcherror#sdk-for-ios-navigate-s-7heresdk11SearchErrorO04httpC0yA2CmF" class="token"><code>httpError</code></a> 
 
   </div>
 
@@ -247,7 +247,7 @@ Specifies possible errors that may result from a search query.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11SearchErrorO17serverUnreachableyA2CmF"></span>` `<span id="//apple_ref/swift/Element/serverUnreachable" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-searcherror#/s:7heresdk11SearchErrorO17serverUnreachableyA2CmF" class="token"><code>serverUnreachable</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11SearchErrorO17serverUnreachableyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-serverUnreachable" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-searcherror#sdk-for-ios-navigate-s-7heresdk11SearchErrorO17serverUnreachableyA2CmF" class="token"><code>serverUnreachable</code></a> 
 
   </div>
 
@@ -291,7 +291,7 @@ Specifies possible errors that may result from a search query.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11SearchErrorO9forbiddenyA2CmF"></span>` `<span id="//apple_ref/swift/Element/forbidden" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-searcherror#/s:7heresdk11SearchErrorO9forbiddenyA2CmF" class="token"><code>forbidden</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11SearchErrorO9forbiddenyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-forbidden" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-searcherror#sdk-for-ios-navigate-s-7heresdk11SearchErrorO9forbiddenyA2CmF" class="token"><code>forbidden</code></a> 
 
   </div>
 
@@ -335,7 +335,7 @@ Specifies possible errors that may result from a search query.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11SearchErrorO18exceededUsageLimityA2CmF"></span>` `<span id="//apple_ref/swift/Element/exceededUsageLimit" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-searcherror#/s:7heresdk11SearchErrorO18exceededUsageLimityA2CmF" class="token"><code>exceededUsageLimit</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11SearchErrorO18exceededUsageLimityA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-exceededUsageLimit" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-searcherror#sdk-for-ios-navigate-s-7heresdk11SearchErrorO18exceededUsageLimityA2CmF" class="token"><code>exceededUsageLimit</code></a> 
 
   </div>
 
@@ -379,7 +379,7 @@ Specifies possible errors that may result from a search query.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11SearchErrorO15operationFailedyA2CmF"></span>` `<span id="//apple_ref/swift/Element/operationFailed" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-searcherror#/s:7heresdk11SearchErrorO15operationFailedyA2CmF" class="token"><code>operationFailed</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11SearchErrorO15operationFailedyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-operationFailed" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-searcherror#sdk-for-ios-navigate-s-7heresdk11SearchErrorO15operationFailedyA2CmF" class="token"><code>operationFailed</code></a> 
 
   </div>
 
@@ -423,7 +423,7 @@ Specifies possible errors that may result from a search query.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11SearchErrorO18operationCancelledyA2CmF"></span>` `<span id="//apple_ref/swift/Element/operationCancelled" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-searcherror#/s:7heresdk11SearchErrorO18operationCancelledyA2CmF" class="token"><code>operationCancelled</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11SearchErrorO18operationCancelledyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-operationCancelled" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-searcherror#sdk-for-ios-navigate-s-7heresdk11SearchErrorO18operationCancelledyA2CmF" class="token"><code>operationCancelled</code></a> 
 
   </div>
 
@@ -467,7 +467,7 @@ Specifies possible errors that may result from a search query.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11SearchErrorO8timedOutyA2CmF"></span>` `<span id="//apple_ref/swift/Element/timedOut" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-searcherror#/s:7heresdk11SearchErrorO8timedOutyA2CmF" class="token"><code>timedOut</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11SearchErrorO8timedOutyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-timedOut" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-searcherror#sdk-for-ios-navigate-s-7heresdk11SearchErrorO8timedOutyA2CmF" class="token"><code>timedOut</code></a> 
 
   </div>
 
@@ -511,7 +511,7 @@ Specifies possible errors that may result from a search query.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11SearchErrorO7offlineyA2CmF"></span>` `<span id="//apple_ref/swift/Element/offline" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-searcherror#/s:7heresdk11SearchErrorO7offlineyA2CmF" class="token"><code>offline</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11SearchErrorO7offlineyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-offline" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-searcherror#sdk-for-ios-navigate-s-7heresdk11SearchErrorO7offlineyA2CmF" class="token"><code>offline</code></a> 
 
   </div>
 
@@ -555,7 +555,7 @@ Specifies possible errors that may result from a search query.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11SearchErrorO12queryTooLongyA2CmF"></span>` `<span id="//apple_ref/swift/Element/queryTooLong" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-searcherror#/s:7heresdk11SearchErrorO12queryTooLongyA2CmF" class="token"><code>queryTooLong</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11SearchErrorO12queryTooLongyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-queryTooLong" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-searcherror#sdk-for-ios-navigate-s-7heresdk11SearchErrorO12queryTooLongyA2CmF" class="token"><code>queryTooLong</code></a> 
 
   </div>
 
@@ -599,7 +599,7 @@ Specifies possible errors that may result from a search query.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11SearchErrorO13filterTooLongyA2CmF"></span>` `<span id="//apple_ref/swift/Element/filterTooLong" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-searcherror#/s:7heresdk11SearchErrorO13filterTooLongyA2CmF" class="token"><code>filterTooLong</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11SearchErrorO13filterTooLongyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-filterTooLong" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-searcherror#sdk-for-ios-navigate-s-7heresdk11SearchErrorO13filterTooLongyA2CmF" class="token"><code>filterTooLong</code></a> 
 
   </div>
 
@@ -643,7 +643,7 @@ Specifies possible errors that may result from a search query.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11SearchErrorO25proxyAuthenticationFailedyA2CmF"></span>` `<span id="//apple_ref/swift/Element/proxyAuthenticationFailed" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-searcherror#/s:7heresdk11SearchErrorO25proxyAuthenticationFailedyA2CmF" class="token"><code>proxyAuthenticationFailed</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11SearchErrorO25proxyAuthenticationFailedyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-proxyAuthenticationFailed" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-searcherror#sdk-for-ios-navigate-s-7heresdk11SearchErrorO25proxyAuthenticationFailedyA2CmF" class="token"><code>proxyAuthenticationFailed</code></a> 
 
   </div>
 
@@ -687,7 +687,7 @@ Specifies possible errors that may result from a search query.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11SearchErrorO22proxyServerUnreachableyA2CmF"></span>` `<span id="//apple_ref/swift/Element/proxyServerUnreachable" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-searcherror#/s:7heresdk11SearchErrorO22proxyServerUnreachableyA2CmF" class="token"><code>proxyServerUnreachable</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11SearchErrorO22proxyServerUnreachableyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-proxyServerUnreachable" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-searcherror#sdk-for-ios-navigate-s-7heresdk11SearchErrorO22proxyServerUnreachableyA2CmF" class="token"><code>proxyServerUnreachable</code></a> 
 
   </div>
 
@@ -731,7 +731,7 @@ Specifies possible errors that may result from a search query.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11SearchErrorO10queryEmptyyA2CmF"></span>` `<span id="//apple_ref/swift/Element/queryEmpty" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-searcherror#/s:7heresdk11SearchErrorO10queryEmptyyA2CmF" class="token"><code>queryEmpty</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11SearchErrorO10queryEmptyyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-queryEmpty" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-searcherror#sdk-for-ios-navigate-s-7heresdk11SearchErrorO10queryEmptyyA2CmF" class="token"><code>queryEmpty</code></a> 
 
   </div>
 
@@ -775,7 +775,7 @@ Specifies possible errors that may result from a search query.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11SearchErrorO11invalidAreayA2CmF"></span>` `<span id="//apple_ref/swift/Element/invalidArea" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-searcherror#/s:7heresdk11SearchErrorO11invalidAreayA2CmF" class="token"><code>invalidArea</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11SearchErrorO11invalidAreayA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-invalidArea" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-searcherror#sdk-for-ios-navigate-s-7heresdk11SearchErrorO11invalidAreayA2CmF" class="token"><code>invalidArea</code></a> 
 
   </div>
 
@@ -819,7 +819,7 @@ Specifies possible errors that may result from a search query.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11SearchErrorO11filterEmptyyA2CmF"></span>` `<span id="//apple_ref/swift/Element/filterEmpty" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-searcherror#/s:7heresdk11SearchErrorO11filterEmptyyA2CmF" class="token"><code>filterEmpty</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11SearchErrorO11filterEmptyyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-filterEmpty" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-searcherror#sdk-for-ios-navigate-s-7heresdk11SearchErrorO11filterEmptyyA2CmF" class="token"><code>filterEmpty</code></a> 
 
   </div>
 
@@ -863,7 +863,7 @@ Specifies possible errors that may result from a search query.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11SearchErrorO23invalidCorridorPolylineyA2CmF"></span>` `<span id="//apple_ref/swift/Element/invalidCorridorPolyline" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-searcherror#/s:7heresdk11SearchErrorO23invalidCorridorPolylineyA2CmF" class="token"><code>invalidCorridorPolyline</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11SearchErrorO23invalidCorridorPolylineyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-invalidCorridorPolyline" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-searcherror#sdk-for-ios-navigate-s-7heresdk11SearchErrorO23invalidCorridorPolylineyA2CmF" class="token"><code>invalidCorridorPolyline</code></a> 
 
   </div>
 
@@ -907,7 +907,7 @@ Specifies possible errors that may result from a search query.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11SearchErrorO10invalidUrlyA2CmF"></span>` `<span id="//apple_ref/swift/Element/invalidUrl" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-searcherror#/s:7heresdk11SearchErrorO10invalidUrlyA2CmF" class="token"><code>invalidUrl</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11SearchErrorO10invalidUrlyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-invalidUrl" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-searcherror#sdk-for-ios-navigate-s-7heresdk11SearchErrorO10invalidUrlyA2CmF" class="token"><code>invalidUrl</code></a> 
 
   </div>
 
@@ -951,7 +951,7 @@ Specifies possible errors that may result from a search query.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11SearchErrorO25invalidCustomOptionFormatyA2CmF"></span>` `<span id="//apple_ref/swift/Element/invalidCustomOptionFormat" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-searcherror#/s:7heresdk11SearchErrorO25invalidCustomOptionFormatyA2CmF" class="token"><code>invalidCustomOptionFormat</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11SearchErrorO25invalidCustomOptionFormatyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-invalidCustomOptionFormat" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-searcherror#sdk-for-ios-navigate-s-7heresdk11SearchErrorO25invalidCustomOptionFormatyA2CmF" class="token"><code>invalidCustomOptionFormat</code></a> 
 
   </div>
 
@@ -995,7 +995,7 @@ Specifies possible errors that may result from a search query.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11SearchErrorO17invalidTruckClassyA2CmF"></span>` `<span id="//apple_ref/swift/Element/invalidTruckClass" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-searcherror#/s:7heresdk11SearchErrorO17invalidTruckClassyA2CmF" class="token"><code>invalidTruckClass</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11SearchErrorO17invalidTruckClassyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-invalidTruckClass" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-searcherror#sdk-for-ios-navigate-s-7heresdk11SearchErrorO17invalidTruckClassyA2CmF" class="token"><code>invalidTruckClass</code></a> 
 
   </div>
 
@@ -1039,7 +1039,7 @@ Specifies possible errors that may result from a search query.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11SearchErrorO10badRequestyA2CmF"></span>` `<span id="//apple_ref/swift/Element/badRequest" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-searcherror#/s:7heresdk11SearchErrorO10badRequestyA2CmF" class="token"><code>badRequest</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11SearchErrorO10badRequestyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-badRequest" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-searcherror#sdk-for-ios-navigate-s-7heresdk11SearchErrorO10badRequestyA2CmF" class="token"><code>badRequest</code></a> 
 
   </div>
 
@@ -1083,7 +1083,7 @@ Specifies possible errors that may result from a search query.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11SearchErrorO11mapNotReadyyA2CmF"></span>` `<span id="//apple_ref/swift/Element/mapNotReady" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-searcherror#/s:7heresdk11SearchErrorO11mapNotReadyyA2CmF" class="token"><code>mapNotReady</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11SearchErrorO11mapNotReadyyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-mapNotReady" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-searcherror#sdk-for-ios-navigate-s-7heresdk11SearchErrorO11mapNotReadyyA2CmF" class="token"><code>mapNotReady</code></a> 
 
   </div>
 
@@ -1129,7 +1129,7 @@ Specifies possible errors that may result from a search query.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11SearchErrorO19layersNotDownloadedyA2CmF"></span>` `<span id="//apple_ref/swift/Element/layersNotDownloaded" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-searcherror#/s:7heresdk11SearchErrorO19layersNotDownloadedyA2CmF" class="token"><code>layersNotDownloaded</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11SearchErrorO19layersNotDownloadedyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-layersNotDownloaded" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-searcherror#sdk-for-ios-navigate-s-7heresdk11SearchErrorO19layersNotDownloadedyA2CmF" class="token"><code>layersNotDownloaded</code></a> 
 
   </div>
 
@@ -1147,7 +1147,7 @@ Specifies possible errors that may result from a search query.
 
   <div class="abstract">
 
-  Downloaded regions missing <a href="sdk-for-ios-navigate-structs-layerconfiguration-feature#/s:7heresdk18LayerConfigurationV7FeatureO19offlineSearchGlobalyA2EmF">`LayerConfiguration.Feature.offlineSearchGlobal`</a> feature. Update or redownload regions with enabled feature.
+  Downloaded regions missing <a href="sdk-for-ios-navigate-structs-layerconfiguration-feature#sdk-for-ios-navigate-s-7heresdk18LayerConfigurationV7FeatureO19offlineSearchGlobalyA2EmF">`LayerConfiguration.Feature.offlineSearchGlobal`</a> feature. Update or redownload regions with enabled feature.
 
   Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors. Related APIs may change for new releases without a deprecation process.
 

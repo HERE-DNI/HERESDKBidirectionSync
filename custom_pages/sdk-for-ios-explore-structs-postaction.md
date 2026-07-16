@@ -27,7 +27,7 @@ An action that must be done after arrival, i.e. completing a section in the rout
 
 - <div>
 
-  ` `<span id="/s:7heresdk10PostActionV6actionAA0bC4TypeOvp"></span>` `<span id="//apple_ref/swift/Property/action" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-postaction#/s:7heresdk10PostActionV6actionAA0bC4TypeOvp" class="token"><code>action</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10PostActionV6actionAA0bC4TypeOvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-action" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-postaction#sdk-for-ios-explore-s-7heresdk10PostActionV6actionAA0bC4TypeOvp" class="token"><code>action</code></a> 
 
   </div>
 
@@ -45,7 +45,7 @@ An action that must be done after arrival, i.e. completing a section in the rout
 
   <div class="abstract">
 
-  Type of this action. Defaults to <a href="sdk-for-ios-explore-enums-postactiontype#/s:7heresdk14PostActionTypeO13chargingSetupyA2CmF">`PostActionType.chargingSetup`</a>.
+  Type of this action. Defaults to <a href="sdk-for-ios-explore-enums-postactiontype#sdk-for-ios-explore-s-7heresdk14PostActionTypeO13chargingSetupyA2CmF">`PostActionType.chargingSetup`</a>.
 
   </div>
 
@@ -63,6 +63,10 @@ An action that must be done after arrival, i.e. completing a section in the rout
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-postactiontype">PostActionType</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ An action that must be done after arrival, i.e. completing a section in the rout
 
 - <div>
 
-  ` `<span id="/s:7heresdk10PostActionV8durationSdvp"></span>` `<span id="//apple_ref/swift/Property/duration" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-postaction#/s:7heresdk10PostActionV8durationSdvp" class="token"><code>duration</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10PostActionV8durationSdvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-duration" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-postaction#sdk-for-ios-explore-s-7heresdk10PostActionV8durationSdvp" class="token"><code>duration</code></a> 
 
   </div>
 
@@ -115,7 +119,7 @@ An action that must be done after arrival, i.e. completing a section in the rout
 
 - <div>
 
-  ` `<span id="/s:7heresdk10PostActionV15chargingDetailsAA08ChargingcE0VSgvp"></span>` `<span id="//apple_ref/swift/Property/chargingDetails" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-postaction#/s:7heresdk10PostActionV15chargingDetailsAA08ChargingcE0VSgvp" class="token"><code>chargingDetails</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10PostActionV15chargingDetailsAA08ChargingcE0VSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-chargingDetails" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-postaction#sdk-for-ios-explore-s-7heresdk10PostActionV15chargingDetailsAA08ChargingcE0VSgvp" class="token"><code>chargingDetails</code></a> 
 
   </div>
 
@@ -151,6 +155,10 @@ An action that must be done after arrival, i.e. completing a section in the rout
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-chargingactiondetails">ChargingActionDetails</a>
+
   </div>
 
   </div>
@@ -159,7 +167,7 @@ An action that must be done after arrival, i.e. completing a section in the rout
 
 - <div>
 
-      init(action: duration: chargingDetails: )
+   <span id="sdk-for-ios-explore-s-7heresdk10PostActionV6action8duration15chargingDetailsAcA0bC4TypeO_SdAA08ChargingcG0VSgtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-action-duration-chargingDetails" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-postaction#sdk-for-ios-explore-s-7heresdk10PostActionV6action8duration15chargingDetailsAcA0bC4TypeO_SdAA08ChargingcG0VSgtcfc" class="token"><code>init(action:</code><wbr></wbr><code>duration:</code><wbr></wbr><code>chargingDetails:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -190,12 +198,15 @@ An action that must be done after arrival, i.e. completing a section in the rout
   Swift
 
   ``` highlight
-  public init ( action : PostActionType = PostActionType . chargingSetup , duration : TimeInterval = 0 , chargingDetails : ChargingActionDetails ? = nil )
+  public init(action: PostActionType = PostActionType.chargingSetup, duration: TimeInterval = 0, chargingDetails: ChargingActionDetails? = nil)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-postactiontype">PostActionType</a>
+  - <a href="sdk-for-ios-explore-structs-chargingactiondetails">ChargingActionDetails</a>
 
   </div>
 

@@ -35,7 +35,7 @@ Factory for creating MapCameraAnimation objects to change map’s camera over ti
 
 - <div>
 
-      createAnimation(from: duration: easing: )
+   <span id="sdk-for-ios-navigate-s-7heresdk25MapCameraAnimationFactoryC06createD04from8duration6easingAA0bcD0CAA0bC6UpdateC_SdAA6EasingCtFZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-createAnimation-from-duration-easing" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapcameraanimationfactory#sdk-for-ios-navigate-s-7heresdk25MapCameraAnimationFactoryC06createD04from8duration6easingAA0bcD0CAA0bC6UpdateC_SdAA6EasingCtFZ" class="token"><code>createAnimation(from:</code><wbr></wbr><code>duration:</code><wbr></wbr><code>easing:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -57,10 +57,7 @@ Factory for creating MapCameraAnimation objects to change map’s camera over ti
 
       MapCameraAnimationFactory.createAnimation(MapCameraUpdate, TimeInterval, Easing).cameraUpdate
 
-  . <a href="sdk-for-ios-navigate-classes-mapcameraanimation">`MapCameraAnimation`</a> instances created from
-      MapCameraUpdateFactory.compositeUpdate(...)
-
-  instances are not supported. An <a href="sdk-for-ios-navigate-protocols-animationdelegate">`AnimationDelegate`</a> will receive an <a href="sdk-for-ios-navigate-enums-animationstate#/s:7heresdk14AnimationStateO9cancelledyA2CmF">`AnimationState.cancelled`</a> signal when trying to apply such animations.
+  . <a href="sdk-for-ios-navigate-classes-mapcameraanimation">`MapCameraAnimation`</a> instances created from <a href="sdk-for-ios-navigate-classes-mapcameraupdatefactory#sdk-for-ios-navigate-s-7heresdk22MapCameraUpdateFactoryC09compositeD0yAA0bcD0CSayAFGKFZ">`MapCameraUpdateFactory.compositeUpdate(...)`</a> instances are not supported. An <a href="sdk-for-ios-navigate-protocols-animationdelegate">`AnimationDelegate`</a> will receive an <a href="sdk-for-ios-navigate-enums-animationstate#sdk-for-ios-navigate-s-7heresdk14AnimationStateO9cancelledyA2CmF">`AnimationState.cancelled`</a> signal when trying to apply such animations.
   </p>
 
   </div>
@@ -74,12 +71,16 @@ Factory for creating MapCameraAnimation objects to change map’s camera over ti
   Swift
 
   ``` highlight
-  public static func createAnimation ( from cameraUpdate : MapCameraUpdate , duration : TimeInterval , easing : Easing ) -> MapCameraAnimation
+  public static func createAnimation(from cameraUpdate: MapCameraUpdate, duration: TimeInterval, easing: Easing) -> MapCameraAnimation
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mapcameraupdate">MapCameraUpdate</a>
+  - <a href="sdk-for-ios-navigate-classes-easing">Easing</a>
+  - <a href="sdk-for-ios-navigate-classes-mapcameraanimation">MapCameraAnimation</a>
 
   </div>
 
@@ -130,7 +131,7 @@ Factory for creating MapCameraAnimation objects to change map’s camera over ti
 
 - <div>
 
-      createAnimation(track: )
+   <span id="sdk-for-ios-navigate-s-7heresdk25MapCameraAnimationFactoryC06createD05trackAA0bcD0CAA0bC13KeyframeTrackC_tFZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-createAnimation-track" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapcameraanimationfactory#sdk-for-ios-navigate-s-7heresdk25MapCameraAnimationFactoryC06createD05trackAA0bcD0CAA0bC13KeyframeTrackC_tFZ" class="token"><code>createAnimation(track:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -166,12 +167,15 @@ Factory for creating MapCameraAnimation objects to change map’s camera over ti
   Swift
 
   ``` highlight
-  public static func createAnimation ( track : MapCameraKeyframeTrack ) -> MapCameraAnimation
+  public static func createAnimation(track: MapCameraKeyframeTrack) -> MapCameraAnimation
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mapcamerakeyframetrack">MapCameraKeyframeTrack</a>
+  - <a href="sdk-for-ios-navigate-classes-mapcameraanimation">MapCameraAnimation</a>
 
   </div>
 
@@ -210,7 +214,7 @@ Factory for creating MapCameraAnimation objects to change map’s camera over ti
 
 - <div>
 
-      createAnimation(tracks: )
+   <span id="sdk-for-ios-navigate-s-7heresdk25MapCameraAnimationFactoryC06createD06tracksAA0bcD0CSayAA0bC13KeyframeTrackCG_tKFZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-createAnimation-tracks" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapcameraanimationfactory#sdk-for-ios-navigate-s-7heresdk25MapCameraAnimationFactoryC06createD06tracksAA0bcD0CSayAA0bC13KeyframeTrackCG_tKFZ" class="token"><code>createAnimation(tracks:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -247,7 +251,7 @@ Factory for creating MapCameraAnimation objects to change map’s camera over ti
 
   Throws
 
-  <a href="sdk-for-ios-navigate-classes-mapcameraanimation#/s:7heresdk18MapCameraAnimationC18InstantiationErrora">`MapCameraAnimation.InstantiationError`</a> Indicates an instantiation issue.
+  <a href="sdk-for-ios-navigate-classes-mapcameraanimation#sdk-for-ios-navigate-s-7heresdk18MapCameraAnimationC18InstantiationErrora">`MapCameraAnimation.InstantiationError`</a> Indicates an instantiation issue.
 
   </div>
 
@@ -262,12 +266,15 @@ Factory for creating MapCameraAnimation objects to change map’s camera over ti
   Swift
 
   ``` highlight
-  public static func createAnimation ( tracks : [ MapCameraKeyframeTrack ]) throws -> MapCameraAnimation
+  public static func createAnimation(tracks: [MapCameraKeyframeTrack]) throws -> MapCameraAnimation
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mapcamerakeyframetrack">MapCameraKeyframeTrack</a>
+  - <a href="sdk-for-ios-navigate-classes-mapcameraanimation">MapCameraAnimation</a>
 
   </div>
 
@@ -306,7 +313,7 @@ Factory for creating MapCameraAnimation objects to change map’s camera over ti
 
 - <div>
 
-      flyTo(target: bowFactor: duration: )
+   <span id="sdk-for-ios-navigate-s-7heresdk25MapCameraAnimationFactoryC5flyTo6target9bowFactor8durationAA0bcD0CAA20GeoCoordinatesUpdateV_S2dtFZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-flyTo-target-bowFactor-duration" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapcameraanimationfactory#sdk-for-ios-navigate-s-7heresdk25MapCameraAnimationFactoryC5flyTo6target9bowFactor8durationAA0bcD0CAA20GeoCoordinatesUpdateV_S2dtFZ" class="token"><code>flyTo(target:</code><wbr></wbr><code>bowFactor:</code><wbr></wbr><code>duration:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -341,12 +348,15 @@ Factory for creating MapCameraAnimation objects to change map’s camera over ti
   Swift
 
   ``` highlight
-  public static func flyTo ( target : GeoCoordinatesUpdate , bowFactor : Double , duration : TimeInterval ) -> MapCameraAnimation
+  public static func flyTo(target: GeoCoordinatesUpdate, bowFactor: Double, duration: TimeInterval) -> MapCameraAnimation
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-geocoordinatesupdate">GeoCoordinatesUpdate</a>
+  - <a href="sdk-for-ios-navigate-classes-mapcameraanimation">MapCameraAnimation</a>
 
   </div>
 
@@ -397,7 +407,7 @@ Factory for creating MapCameraAnimation objects to change map’s camera over ti
 
 - <div>
 
-      flyTo(target: orientation: bowFactor: duration: )
+   <span id="sdk-for-ios-navigate-s-7heresdk25MapCameraAnimationFactoryC5flyTo6target11orientation9bowFactor8durationAA0bcD0CAA20GeoCoordinatesUpdateV_AA0m11OrientationO0VS2dtFZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-flyTo-target-orientation-bowFactor-duration" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapcameraanimationfactory#sdk-for-ios-navigate-s-7heresdk25MapCameraAnimationFactoryC5flyTo6target11orientation9bowFactor8durationAA0bcD0CAA20GeoCoordinatesUpdateV_AA0m11OrientationO0VS2dtFZ" class="token"><code>flyTo(target:</code><wbr></wbr><code>orientation:</code><wbr></wbr><code>bowFactor:</code><wbr></wbr><code>duration:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -432,12 +442,16 @@ Factory for creating MapCameraAnimation objects to change map’s camera over ti
   Swift
 
   ``` highlight
-  public static func flyTo ( target : GeoCoordinatesUpdate , orientation : GeoOrientationUpdate , bowFactor : Double , duration : TimeInterval ) -> MapCameraAnimation
+  public static func flyTo(target: GeoCoordinatesUpdate, orientation: GeoOrientationUpdate, bowFactor: Double, duration: TimeInterval) -> MapCameraAnimation
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-geocoordinatesupdate">GeoCoordinatesUpdate</a>
+  - <a href="sdk-for-ios-navigate-structs-geoorientationupdate">GeoOrientationUpdate</a>
+  - <a href="sdk-for-ios-navigate-classes-mapcameraanimation">MapCameraAnimation</a>
 
   </div>
 
@@ -494,7 +508,7 @@ Factory for creating MapCameraAnimation objects to change map’s camera over ti
 
 - <div>
 
-      flyTo(target: zoom: bowFactor: duration: )
+   <span id="sdk-for-ios-navigate-s-7heresdk25MapCameraAnimationFactoryC5flyTo6target4zoom9bowFactor8durationAA0bcD0CAA20GeoCoordinatesUpdateV_AA0B7MeasureVS2dtFZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-flyTo-target-zoom-bowFactor-duration" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapcameraanimationfactory#sdk-for-ios-navigate-s-7heresdk25MapCameraAnimationFactoryC5flyTo6target4zoom9bowFactor8durationAA0bcD0CAA20GeoCoordinatesUpdateV_AA0B7MeasureVS2dtFZ" class="token"><code>flyTo(target:</code><wbr></wbr><code>zoom:</code><wbr></wbr><code>bowFactor:</code><wbr></wbr><code>duration:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -529,12 +543,16 @@ Factory for creating MapCameraAnimation objects to change map’s camera over ti
   Swift
 
   ``` highlight
-  public static func flyTo ( target : GeoCoordinatesUpdate , zoom : MapMeasure , bowFactor : Double , duration : TimeInterval ) -> MapCameraAnimation
+  public static func flyTo(target: GeoCoordinatesUpdate, zoom: MapMeasure, bowFactor: Double, duration: TimeInterval) -> MapCameraAnimation
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-geocoordinatesupdate">GeoCoordinatesUpdate</a>
+  - <a href="sdk-for-ios-navigate-structs-mapmeasure">MapMeasure</a>
+  - <a href="sdk-for-ios-navigate-classes-mapcameraanimation">MapCameraAnimation</a>
 
   </div>
 
@@ -591,7 +609,7 @@ Factory for creating MapCameraAnimation objects to change map’s camera over ti
 
 - <div>
 
-      flyTo(target: orientation: zoom: bowFactor: duration: )
+   <span id="sdk-for-ios-navigate-s-7heresdk25MapCameraAnimationFactoryC5flyTo6target11orientation4zoom9bowFactor8durationAA0bcD0CAA20GeoCoordinatesUpdateV_AA0n11OrientationP0VAA0B7MeasureVS2dtFZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-flyTo-target-orientation-zoom-bowFactor-duration" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapcameraanimationfactory#sdk-for-ios-navigate-s-7heresdk25MapCameraAnimationFactoryC5flyTo6target11orientation4zoom9bowFactor8durationAA0bcD0CAA20GeoCoordinatesUpdateV_AA0n11OrientationP0VAA0B7MeasureVS2dtFZ" class="token"><code>flyTo(target:</code><wbr></wbr><code>orientation:</code><wbr></wbr><code>zoom:</code><wbr></wbr><code>bowFactor:</code><wbr></wbr><code>duration:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -626,12 +644,17 @@ Factory for creating MapCameraAnimation objects to change map’s camera over ti
   Swift
 
   ``` highlight
-  public static func flyTo ( target : GeoCoordinatesUpdate , orientation : GeoOrientationUpdate , zoom : MapMeasure , bowFactor : Double , duration : TimeInterval ) -> MapCameraAnimation
+  public static func flyTo(target: GeoCoordinatesUpdate, orientation: GeoOrientationUpdate, zoom: MapMeasure, bowFactor: Double, duration: TimeInterval) -> MapCameraAnimation
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-geocoordinatesupdate">GeoCoordinatesUpdate</a>
+  - <a href="sdk-for-ios-navigate-structs-geoorientationupdate">GeoOrientationUpdate</a>
+  - <a href="sdk-for-ios-navigate-structs-mapmeasure">MapMeasure</a>
+  - <a href="sdk-for-ios-navigate-classes-mapcameraanimation">MapCameraAnimation</a>
 
   </div>
 

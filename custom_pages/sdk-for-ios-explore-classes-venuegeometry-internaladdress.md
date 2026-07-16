@@ -23,6 +23,10 @@ extension VenueGeometry.InternalAddress: Hashable
 
 </div>
 
+Related types:
+
+- <a href="sdk-for-ios-explore-classes-venuegeometry">VenueGeometry</a>
+
 </div>
 
 Represents an internal addresses of the geometry inside the venue. The internal address can be a number of a seat in a stadium, or a name of a classroom in a university. One internal address can be shared between few geometries. For example, if a store in a shopping mall is located on few floors, few different geometries will represent it. But each of them will have the same internal address.
@@ -35,7 +39,7 @@ Represents an internal addresses of the geometry inside the venue. The internal 
 
 - <div>
 
-  ` `<span id="/s:7heresdk13VenueGeometryC15InternalAddressC3keySSvp"></span>` `<span id="//apple_ref/swift/Property/key" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuegeometry-internaladdress#/s:7heresdk13VenueGeometryC15InternalAddressC3keySSvp" class="token"><code>key</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13VenueGeometryC15InternalAddressC3keySSvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-key" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuegeometry-internaladdress#sdk-for-ios-explore-s-7heresdk13VenueGeometryC15InternalAddressC3keySSvp" class="token"><code>key</code></a> 
 
   </div>
 
@@ -79,7 +83,7 @@ Represents an internal addresses of the geometry inside the venue. The internal 
 
 - <div>
 
-  ` `<span id="/s:7heresdk13VenueGeometryC15InternalAddressC7addressSSvp"></span>` `<span id="//apple_ref/swift/Property/address" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuegeometry-internaladdress#/s:7heresdk13VenueGeometryC15InternalAddressC7addressSSvp" class="token"><code>address</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13VenueGeometryC15InternalAddressC7addressSSvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-address" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuegeometry-internaladdress#sdk-for-ios-explore-s-7heresdk13VenueGeometryC15InternalAddressC7addressSSvp" class="token"><code>address</code></a> 
 
   </div>
 

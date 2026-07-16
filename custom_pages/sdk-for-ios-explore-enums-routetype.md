@@ -27,7 +27,7 @@ Indicates the level of significance of a route in a range from 1 to 6. A value o
 
 - <div>
 
-  ` `<span id="/s:7heresdk9RouteTypeO11typeUnknownyA2CmF"></span>` `<span id="//apple_ref/swift/Element/typeUnknown" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-routetype#/s:7heresdk9RouteTypeO11typeUnknownyA2CmF" class="token"><code>typeUnknown</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9RouteTypeO11typeUnknownyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-typeUnknown" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-routetype#sdk-for-ios-explore-s-7heresdk9RouteTypeO11typeUnknownyA2CmF" class="token"><code>typeUnknown</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Indicates the level of significance of a route in a range from 1 to 6. A value o
 
 - <div>
 
-  ` `<span id="/s:7heresdk9RouteTypeO10level1RoadyA2CmF"></span>` `<span id="//apple_ref/swift/Element/level1Road" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-routetype#/s:7heresdk9RouteTypeO10level1RoadyA2CmF" class="token"><code>level1Road</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9RouteTypeO10level1RoadyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-level1Road" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-routetype#sdk-for-ios-explore-s-7heresdk9RouteTypeO10level1RoadyA2CmF" class="token"><code>level1Road</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Indicates the level of significance of a route in a range from 1 to 6. A value o
 
 - <div>
 
-  ` `<span id="/s:7heresdk9RouteTypeO10level2RoadyA2CmF"></span>` `<span id="//apple_ref/swift/Element/level2Road" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-routetype#/s:7heresdk9RouteTypeO10level2RoadyA2CmF" class="token"><code>level2Road</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9RouteTypeO10level2RoadyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-level2Road" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-routetype#sdk-for-ios-explore-s-7heresdk9RouteTypeO10level2RoadyA2CmF" class="token"><code>level2Road</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Indicates the level of significance of a route in a range from 1 to 6. A value o
 
 - <div>
 
-  ` `<span id="/s:7heresdk9RouteTypeO10level3RoadyA2CmF"></span>` `<span id="//apple_ref/swift/Element/level3Road" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-routetype#/s:7heresdk9RouteTypeO10level3RoadyA2CmF" class="token"><code>level3Road</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9RouteTypeO10level3RoadyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-level3Road" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-routetype#sdk-for-ios-explore-s-7heresdk9RouteTypeO10level3RoadyA2CmF" class="token"><code>level3Road</code></a> 
 
   </div>
 
@@ -203,7 +203,7 @@ Indicates the level of significance of a route in a range from 1 to 6. A value o
 
 - <div>
 
-  ` `<span id="/s:7heresdk9RouteTypeO10level4RoadyA2CmF"></span>` `<span id="//apple_ref/swift/Element/level4Road" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-routetype#/s:7heresdk9RouteTypeO10level4RoadyA2CmF" class="token"><code>level4Road</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9RouteTypeO10level4RoadyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-level4Road" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-routetype#sdk-for-ios-explore-s-7heresdk9RouteTypeO10level4RoadyA2CmF" class="token"><code>level4Road</code></a> 
 
   </div>
 
@@ -247,7 +247,7 @@ Indicates the level of significance of a route in a range from 1 to 6. A value o
 
 - <div>
 
-  ` `<span id="/s:7heresdk9RouteTypeO10level5RoadyA2CmF"></span>` `<span id="//apple_ref/swift/Element/level5Road" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-routetype#/s:7heresdk9RouteTypeO10level5RoadyA2CmF" class="token"><code>level5Road</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9RouteTypeO10level5RoadyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-level5Road" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-routetype#sdk-for-ios-explore-s-7heresdk9RouteTypeO10level5RoadyA2CmF" class="token"><code>level5Road</code></a> 
 
   </div>
 
@@ -291,7 +291,7 @@ Indicates the level of significance of a route in a range from 1 to 6. A value o
 
 - <div>
 
-  ` `<span id="/s:7heresdk9RouteTypeO10level6RoadyA2CmF"></span>` `<span id="//apple_ref/swift/Element/level6Road" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-routetype#/s:7heresdk9RouteTypeO10level6RoadyA2CmF" class="token"><code>level6Road</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9RouteTypeO10level6RoadyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-level6Road" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-routetype#sdk-for-ios-explore-s-7heresdk9RouteTypeO10level6RoadyA2CmF" class="token"><code>level6Road</code></a> 
 
   </div>
 

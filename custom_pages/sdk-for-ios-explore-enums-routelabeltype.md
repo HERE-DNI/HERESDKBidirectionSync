@@ -27,7 +27,7 @@ Identifies the type of the route label.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14RouteLabelTypeO10streetNameyA2CmF"></span>` `<span id="//apple_ref/swift/Element/streetName" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-routelabeltype#/s:7heresdk14RouteLabelTypeO10streetNameyA2CmF" class="token"><code>streetName</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14RouteLabelTypeO10streetNameyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-streetName" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-routelabeltype#sdk-for-ios-explore-s-7heresdk14RouteLabelTypeO10streetNameyA2CmF" class="token"><code>streetName</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Identifies the type of the route label.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14RouteLabelTypeO11routeNumberyA2CmF"></span>` `<span id="//apple_ref/swift/Element/routeNumber" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-routelabeltype#/s:7heresdk14RouteLabelTypeO11routeNumberyA2CmF" class="token"><code>routeNumber</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14RouteLabelTypeO11routeNumberyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-routeNumber" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-routelabeltype#sdk-for-ios-explore-s-7heresdk14RouteLabelTypeO11routeNumberyA2CmF" class="token"><code>routeNumber</code></a> 
 
   </div>
 

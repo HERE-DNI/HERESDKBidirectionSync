@@ -29,7 +29,7 @@ A struct describing the set of changes in horizon segments between two consecuti
 
 - <div>
 
-  ` `<span id="/s:7heresdk31ElectronicHorizonSegmentChangesV5addedSayAA0bcD0VGvp"></span>` `<span id="//apple_ref/swift/Property/added" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-electronichorizonsegmentchanges#/s:7heresdk31ElectronicHorizonSegmentChangesV5addedSayAA0bcD0VGvp" class="token"><code>added</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk31ElectronicHorizonSegmentChangesV5addedSayAA0bcD0VGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-added" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-electronichorizonsegmentchanges#sdk-for-ios-navigate-s-7heresdk31ElectronicHorizonSegmentChangesV5addedSayAA0bcD0VGvp" class="token"><code>added</code></a> 
 
   </div>
 
@@ -65,6 +65,10 @@ A struct describing the set of changes in horizon segments between two consecuti
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-electronichorizonsegment">ElectronicHorizonSegment</a>
+
   </div>
 
   </div>
@@ -73,7 +77,7 @@ A struct describing the set of changes in horizon segments between two consecuti
 
 - <div>
 
-  ` `<span id="/s:7heresdk31ElectronicHorizonSegmentChangesV10removedIdsSayAA0bcD2IdVGvp"></span>` `<span id="//apple_ref/swift/Property/removedIds" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-electronichorizonsegmentchanges#/s:7heresdk31ElectronicHorizonSegmentChangesV10removedIdsSayAA0bcD2IdVGvp" class="token"><code>removedIds</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk31ElectronicHorizonSegmentChangesV10removedIdsSayAA0bcD2IdVGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-removedIds" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-electronichorizonsegmentchanges#sdk-for-ios-navigate-s-7heresdk31ElectronicHorizonSegmentChangesV10removedIdsSayAA0bcD2IdVGvp" class="token"><code>removedIds</code></a> 
 
   </div>
 
@@ -109,6 +113,10 @@ A struct describing the set of changes in horizon segments between two consecuti
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-electronichorizonsegmentid">ElectronicHorizonSegmentId</a>
+
   </div>
 
   </div>
@@ -117,7 +125,7 @@ A struct describing the set of changes in horizon segments between two consecuti
 
 - <div>
 
-      init(added: removedIds: )
+   <span id="sdk-for-ios-navigate-s-7heresdk31ElectronicHorizonSegmentChangesV5added10removedIdsACSayAA0bcD0VG_SayAA0bcD2IdVGtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-added-removedIds" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-electronichorizonsegmentchanges#sdk-for-ios-navigate-s-7heresdk31ElectronicHorizonSegmentChangesV5added10removedIdsACSayAA0bcD0VG_SayAA0bcD2IdVGtcfc" class="token"><code>init(added:</code><wbr></wbr><code>removedIds:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -150,12 +158,15 @@ A struct describing the set of changes in horizon segments between two consecuti
   Swift
 
   ``` highlight
-  public init ( added : [ ElectronicHorizonSegment ] = [], removedIds : [ ElectronicHorizonSegmentId ] = [])
+  public init(added: [ElectronicHorizonSegment] = [], removedIds: [ElectronicHorizonSegmentId] = [])
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-electronichorizonsegment">ElectronicHorizonSegment</a>
+  - <a href="sdk-for-ios-navigate-structs-electronichorizonsegmentid">ElectronicHorizonSegmentId</a>
 
   </div>
 

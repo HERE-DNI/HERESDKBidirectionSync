@@ -35,7 +35,7 @@ extension ExternalMapDataSourceServer: Hashable
 
 - <div>
 
-      init()
+   <span id="sdk-for-ios-navigate-s-7heresdk27ExternalMapDataSourceServerCACyKcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-externalmapdatasourceserver#sdk-for-ios-navigate-s-7heresdk27ExternalMapDataSourceServerCACyKcfc" class="token"><code>init()</code></a> 
 
   </div>
 
@@ -59,7 +59,7 @@ extension ExternalMapDataSourceServer: Hashable
 
   Throws
 
-  <a href="sdk-for-ios-navigate-core#/s:7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
+  <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
 
   </div>
 
@@ -74,10 +74,8 @@ extension ExternalMapDataSourceServer: Hashable
   Swift
 
   ``` highlight
-  public init () throws
+  public init() throws
   ```
-
-  </pre>
 
   </div>
 
@@ -89,7 +87,7 @@ extension ExternalMapDataSourceServer: Hashable
 
 - <div>
 
-      start(url: engine: serviceCredential: callback: )
+   <span id="sdk-for-ios-navigate-s-7heresdk27ExternalMapDataSourceServerC5start3url6engine17serviceCredential8callbackySS_AA15SDKNativeEngineCAA03SslF18CredentialsOptionsVSgyAA0bcdE9ErrorCodeOSgctF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-start-url-engine-serviceCredential-callback" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-externalmapdatasourceserver#sdk-for-ios-navigate-s-7heresdk27ExternalMapDataSourceServerC5start3url6engine17serviceCredential8callbackySS_AA15SDKNativeEngineCAA03SslF18CredentialsOptionsVSgyAA0bcdE9ErrorCodeOSgctF" class="token"><code>start(url:</code><wbr></wbr><code>engine:</code><wbr></wbr><code>serviceCredential:</code><wbr></wbr><code>callback:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -107,12 +105,7 @@ extension ExternalMapDataSourceServer: Hashable
 
   <div class="abstract">
 
-  Exposes map data source as GRPC service on given url for <a href="sdk-for-ios-navigate-classes-sdknativeengine">`SDKNativeEngine`</a>. The exposed service can be consumed with the help of
-
-      ExternalMapDataSourceClient.configureRemoteConnectionAsync(...)
-
-  . It is a non-blocking function, and the result will be returned via a callback. <a href="sdk-for-ios-navigate-maploader#/s:7heresdk19ServerStartedHandlea">`ServerStartedHandle`</a>.
-  </p>
+  Exposes map data source as GRPC service on given url for <a href="sdk-for-ios-navigate-classes-sdknativeengine">`SDKNativeEngine`</a>. The exposed service can be consumed with the help of <a href="sdk-for-ios-navigate-classes-externalmapdatasourceclient#sdk-for-ios-navigate-s-7heresdk27ExternalMapDataSourceClientC30configureRemoteConnectionAsync3url6engine11credentials8callbackAA10TaskHandle_pSS_AA15SDKNativeEngineCAA03SslF18CredentialsOptionsVSgyAA0bcdE9ErrorCodeOSgctF">`ExternalMapDataSourceClient.configureRemoteConnectionAsync(...)`</a>. It is a non-blocking function, and the result will be returned via a callback. <a href="sdk-for-ios-navigate-maploader#sdk-for-ios-navigate-s-7heresdk19ServerStartedHandlea">`ServerStartedHandle`</a>.
 
   Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors. Related APIs may change for new releases without a deprecation process.
 
@@ -127,12 +120,16 @@ extension ExternalMapDataSourceServer: Hashable
   Swift
 
   ``` highlight
-  public func start ( url : String , engine : SDKNativeEngine , serviceCredential : SslServerCredentialsOptions ?, callback : @escaping ServerStartedHandle )
+  public func start(url: String, engine: SDKNativeEngine, serviceCredential: SslServerCredentialsOptions?, callback: @escaping ServerStartedHandle)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-sdknativeengine">SDKNativeEngine</a>
+  - <a href="sdk-for-ios-navigate-structs-sslservercredentialsoptions">SslServerCredentialsOptions</a>
+  - <a href="sdk-for-ios-navigate-maploader#sdk-for-ios-navigate-s-7heresdk19ServerStartedHandlea">ServerStartedHandle</a>
 
   </div>
 
@@ -181,7 +178,7 @@ extension ExternalMapDataSourceServer: Hashable
 
 - <div>
 
-      stop()
+   <span id="sdk-for-ios-navigate-s-7heresdk27ExternalMapDataSourceServerC4stopyyKF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-stop" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-externalmapdatasourceserver#sdk-for-ios-navigate-s-7heresdk27ExternalMapDataSourceServerC4stopyyKF" class="token"><code>stop()</code></a> 
 
   </div>
 
@@ -199,12 +196,7 @@ extension ExternalMapDataSourceServer: Hashable
 
   <div class="abstract">
 
-  Stops the exposed map data source GRPC service started using
-
-      ExternalMapDataSourceServer.start(...)
-
-  .
-  </p>
+  Stops the exposed map data source GRPC service started using <a href="sdk-for-ios-navigate-classes-externalmapdatasourceserver#sdk-for-ios-navigate-s-7heresdk27ExternalMapDataSourceServerC5start3url6engine17serviceCredential8callbackySS_AA15SDKNativeEngineCAA03SslF18CredentialsOptionsVSgyAA0bcdE9ErrorCodeOSgctF">`ExternalMapDataSourceServer.start(...)`</a>.
 
   Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors. Related APIs may change for new releases without a deprecation process.
 
@@ -212,7 +204,7 @@ extension ExternalMapDataSourceServer: Hashable
 
   Throws
 
-  <a href="sdk-for-ios-navigate-maploader#/s:7heresdk35ExternalMapDataSourceExceptionErrora">`ExternalMapDataSourceExceptionError`</a> Indicates what went wrong when trying to stop exposed external map data source service.
+  <a href="sdk-for-ios-navigate-maploader#sdk-for-ios-navigate-s-7heresdk35ExternalMapDataSourceExceptionErrora">`ExternalMapDataSourceExceptionError`</a> Indicates what went wrong when trying to stop exposed external map data source service.
 
   </div>
 
@@ -227,10 +219,8 @@ extension ExternalMapDataSourceServer: Hashable
   Swift
 
   ``` highlight
-  public func stop () throws
+  public func stop() throws
   ```
-
-  </pre>
 
   </div>
 

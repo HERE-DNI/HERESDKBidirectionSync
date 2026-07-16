@@ -29,7 +29,7 @@ Defines possible fuel additives that a fuel could contain.
 
 - <div>
 
-  ` `<span id="/s:7heresdk16FuelAdditiveTypeO5aus32yA2CmF"></span>` `<span id="//apple_ref/swift/Element/aus32" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-fueladditivetype#/s:7heresdk16FuelAdditiveTypeO5aus32yA2CmF" class="token"><code>aus32</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16FuelAdditiveTypeO5aus32yA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-aus32" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-fueladditivetype#sdk-for-ios-navigate-s-7heresdk16FuelAdditiveTypeO5aus32yA2CmF" class="token"><code>aus32</code></a> 
 
   </div>
 

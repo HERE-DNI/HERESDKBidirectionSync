@@ -23,6 +23,11 @@ extension PickMapContentResult.TrafficIncidentResult: Hashable
 
 </div>
 
+Related types:
+
+- <a href="sdk-for-ios-navigate-protocols-trafficincidentbase">TrafficIncidentBase</a>
+- <a href="sdk-for-ios-navigate-classes-pickmapcontentresult">PickMapContentResult</a>
+
 </div>
 
 Carries the result of picking a Carto traffic incident object. Description of incident is currently not present in our map data, so `description` always returns an empty string.
@@ -35,7 +40,7 @@ Carries the result of picking a Carto traffic incident object. Description of in
 
 - <div>
 
-  ` `<span id="/s:7heresdk20PickMapContentResultC015TrafficIncidentE0C6impactAA0fG6ImpactOvp"></span>` `<span id="//apple_ref/swift/Property/impact" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-pickmapcontentresult-trafficincidentresult#/s:7heresdk20PickMapContentResultC015TrafficIncidentE0C6impactAA0fG6ImpactOvp" class="token"><code>impact</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk20PickMapContentResultC015TrafficIncidentE0C6impactAA0fG6ImpactOvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-impact" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-pickmapcontentresult-trafficincidentresult#sdk-for-ios-navigate-s-7heresdk20PickMapContentResultC015TrafficIncidentE0C6impactAA0fG6ImpactOvp" class="token"><code>impact</code></a> 
 
   </div>
 
@@ -53,7 +58,7 @@ Carries the result of picking a Carto traffic incident object. Description of in
 
   <div class="abstract">
 
-  The impact of the incident. The value is <a href="sdk-for-ios-navigate-enums-trafficincidentimpact#/s:7heresdk21TrafficIncidentImpactO7unknownyA2CmF">`TrafficIncidentImpact.unknown`</a> if it hasn’t been provided by the traffic incidents supplier.
+  The impact of the incident. The value is <a href="sdk-for-ios-navigate-enums-trafficincidentimpact#sdk-for-ios-navigate-s-7heresdk21TrafficIncidentImpactO7unknownyA2CmF">`TrafficIncidentImpact.unknown`</a> if it hasn’t been provided by the traffic incidents supplier.
 
   </div>
 
@@ -71,6 +76,10 @@ Carries the result of picking a Carto traffic incident object. Description of in
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-trafficincidentimpact">TrafficIncidentImpact</a>
+
   </div>
 
   </div>
@@ -79,7 +88,7 @@ Carries the result of picking a Carto traffic incident object. Description of in
 
 - <div>
 
-  ` `<span id="/s:7heresdk20PickMapContentResultC015TrafficIncidentE0C4typeAA0fG4TypeOvp"></span>` `<span id="//apple_ref/swift/Property/type" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-pickmapcontentresult-trafficincidentresult#/s:7heresdk20PickMapContentResultC015TrafficIncidentE0C4typeAA0fG4TypeOvp" class="token"><code>type</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk20PickMapContentResultC015TrafficIncidentE0C4typeAA0fG4TypeOvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-type" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-pickmapcontentresult-trafficincidentresult#sdk-for-ios-navigate-s-7heresdk20PickMapContentResultC015TrafficIncidentE0C4typeAA0fG4TypeOvp" class="token"><code>type</code></a> 
 
   </div>
 
@@ -97,7 +106,7 @@ Carries the result of picking a Carto traffic incident object. Description of in
 
   <div class="abstract">
 
-  The category of the incident. The value is <a href="sdk-for-ios-navigate-enums-trafficincidenttype#/s:7heresdk19TrafficIncidentTypeO7unknownyA2CmF">`TrafficIncidentType.unknown`</a> if it hasn’t been provided by the traffic incidents supplier.
+  The category of the incident. The value is <a href="sdk-for-ios-navigate-enums-trafficincidenttype#sdk-for-ios-navigate-s-7heresdk19TrafficIncidentTypeO7unknownyA2CmF">`TrafficIncidentType.unknown`</a> if it hasn’t been provided by the traffic incidents supplier.
 
   </div>
 
@@ -115,6 +124,10 @@ Carries the result of picking a Carto traffic incident object. Description of in
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-trafficincidenttype">TrafficIncidentType</a>
+
   </div>
 
   </div>
@@ -123,7 +136,7 @@ Carries the result of picking a Carto traffic incident object. Description of in
 
 - <div>
 
-  ` `<span id="/s:7heresdk20PickMapContentResultC015TrafficIncidentE0C11descriptionAA13LocalizedTextVvp"></span>` `<span id="//apple_ref/swift/Property/description" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-pickmapcontentresult-trafficincidentresult#/s:7heresdk20PickMapContentResultC015TrafficIncidentE0C11descriptionAA13LocalizedTextVvp" class="token"><code>description</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk20PickMapContentResultC015TrafficIncidentE0C11descriptionAA13LocalizedTextVvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-description" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-pickmapcontentresult-trafficincidentresult#sdk-for-ios-navigate-s-7heresdk20PickMapContentResultC015TrafficIncidentE0C11descriptionAA13LocalizedTextVvp" class="token"><code>description</code></a> 
 
   </div>
 
@@ -159,6 +172,10 @@ Carries the result of picking a Carto traffic incident object. Description of in
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-localizedtext">LocalizedText</a>
+
   </div>
 
   </div>
@@ -167,7 +184,7 @@ Carries the result of picking a Carto traffic incident object. Description of in
 
 - <div>
 
-  ` `<span id="/s:7heresdk20PickMapContentResultC015TrafficIncidentE0C9startTime10Foundation4DateVSgvp"></span>` `<span id="//apple_ref/swift/Property/startTime" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-pickmapcontentresult-trafficincidentresult#/s:7heresdk20PickMapContentResultC015TrafficIncidentE0C9startTime10Foundation4DateVSgvp" class="token"><code>startTime</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk20PickMapContentResultC015TrafficIncidentE0C9startTime10Foundation4DateVSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-startTime" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-pickmapcontentresult-trafficincidentresult#sdk-for-ios-navigate-s-7heresdk20PickMapContentResultC015TrafficIncidentE0C9startTime10Foundation4DateVSgvp" class="token"><code>startTime</code></a> 
 
   </div>
 
@@ -211,7 +228,7 @@ Carries the result of picking a Carto traffic incident object. Description of in
 
 - <div>
 
-  ` `<span id="/s:7heresdk20PickMapContentResultC015TrafficIncidentE0C7endTime10Foundation4DateVSgvp"></span>` `<span id="//apple_ref/swift/Property/endTime" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-pickmapcontentresult-trafficincidentresult#/s:7heresdk20PickMapContentResultC015TrafficIncidentE0C7endTime10Foundation4DateVSgvp" class="token"><code>endTime</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk20PickMapContentResultC015TrafficIncidentE0C7endTime10Foundation4DateVSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-endTime" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-pickmapcontentresult-trafficincidentresult#sdk-for-ios-navigate-s-7heresdk20PickMapContentResultC015TrafficIncidentE0C7endTime10Foundation4DateVSgvp" class="token"><code>endTime</code></a> 
 
   </div>
 
@@ -255,7 +272,7 @@ Carries the result of picking a Carto traffic incident object. Description of in
 
 - <div>
 
-  ` `<span id="/s:7heresdk20PickMapContentResultC015TrafficIncidentE0C10originalIdSSvp"></span>` `<span id="//apple_ref/swift/Property/originalId" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-pickmapcontentresult-trafficincidentresult#/s:7heresdk20PickMapContentResultC015TrafficIncidentE0C10originalIdSSvp" class="token"><code>originalId</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk20PickMapContentResultC015TrafficIncidentE0C10originalIdSSvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-originalId" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-pickmapcontentresult-trafficincidentresult#sdk-for-ios-navigate-s-7heresdk20PickMapContentResultC015TrafficIncidentE0C10originalIdSSvp" class="token"><code>originalId</code></a> 
 
   </div>
 
@@ -299,7 +316,7 @@ Carries the result of picking a Carto traffic incident object. Description of in
 
 - <div>
 
-  ` `<span id="/s:7heresdk20PickMapContentResultC015TrafficIncidentE0C11coordinatesAA14GeoCoordinatesVvp"></span>` `<span id="//apple_ref/swift/Property/coordinates" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-pickmapcontentresult-trafficincidentresult#/s:7heresdk20PickMapContentResultC015TrafficIncidentE0C11coordinatesAA14GeoCoordinatesVvp" class="token"><code>coordinates</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk20PickMapContentResultC015TrafficIncidentE0C11coordinatesAA14GeoCoordinatesVvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-coordinates" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-pickmapcontentresult-trafficincidentresult#sdk-for-ios-navigate-s-7heresdk20PickMapContentResultC015TrafficIncidentE0C11coordinatesAA14GeoCoordinatesVvp" class="token"><code>coordinates</code></a> 
 
   </div>
 
@@ -334,6 +351,10 @@ Carries the result of picking a Carto traffic incident object. Description of in
   ```
 
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-geocoordinates">GeoCoordinates</a>
 
   </div>
 

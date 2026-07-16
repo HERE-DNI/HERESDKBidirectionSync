@@ -35,7 +35,7 @@ Connects a map with venues. When the `VenueMap` is started, venues can be seen o
 
 - <div>
 
-  ` `<span id="/s:7heresdk8VenueMapC0B8InfoLista"></span>` `<span id="//apple_ref/swift/Alias/VenueInfoList" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-venuemap#/s:7heresdk8VenueMapC0B8InfoLista" class="token"><code>VenueInfoList</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8VenueMapC0B8InfoLista"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Alias-VenueInfoList" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-venuemap#sdk-for-ios-navigate-s-7heresdk8VenueMapC0B8InfoLista" class="token"><code>VenueInfoList</code></a> 
 
   </div>
 
@@ -71,6 +71,10 @@ Connects a map with venues. When the `VenueMap` is started, venues can be seen o
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-venueinfo">VenueInfo</a>
+
   </div>
 
   </div>
@@ -79,7 +83,7 @@ Connects a map with venues. When the `VenueMap` is started, venues can be seen o
 
 - <div>
 
-  ` `<span id="/s:7heresdk8VenueMapC12venueServiceAA0bE0Cvp"></span>` `<span id="//apple_ref/swift/Property/venueService" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-venuemap#/s:7heresdk8VenueMapC12venueServiceAA0bE0Cvp" class="token"><code>venueService</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8VenueMapC12venueServiceAA0bE0Cvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-venueService" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-venuemap#sdk-for-ios-navigate-s-7heresdk8VenueMapC12venueServiceAA0bE0Cvp" class="token"><code>venueService</code></a> 
 
   </div>
 
@@ -115,6 +119,10 @@ Connects a map with venues. When the `VenueMap` is started, venues can be seen o
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-venueservice">VenueService</a>
+
   </div>
 
   </div>
@@ -123,7 +131,7 @@ Connects a map with venues. When the `VenueMap` is started, venues can be seen o
 
 - <div>
 
-  ` `<span id="/s:7heresdk8VenueMapC08selectedB0AA0B0CSgvp"></span>` `<span id="//apple_ref/swift/Property/selectedVenue" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-venuemap#/s:7heresdk8VenueMapC08selectedB0AA0B0CSgvp" class="token"><code>selectedVenue</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8VenueMapC08selectedB0AA0B0CSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-selectedVenue" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-venuemap#sdk-for-ios-navigate-s-7heresdk8VenueMapC08selectedB0AA0B0CSgvp" class="token"><code>selectedVenue</code></a> 
 
   </div>
 
@@ -159,6 +167,10 @@ Connects a map with venues. When the `VenueMap` is started, venues can be seen o
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-venue">Venue</a>
+
   </div>
 
   </div>
@@ -167,7 +179,7 @@ Connects a map with venues. When the `VenueMap` is started, venues can be seen o
 
 - <div>
 
-      addVenueAsync(venueId: )
+   <span id="sdk-for-ios-navigate-s-7heresdk8VenueMapC03addB5Async7venueIdys5Int32V_tF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-addVenueAsync-venueId" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-venuemap#sdk-for-ios-navigate-s-7heresdk8VenueMapC03addB5Async7venueIdys5Int32V_tF" class="token"><code>addVenueAsync(venueId:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -198,10 +210,8 @@ Connects a map with venues. When the `VenueMap` is started, venues can be seen o
   Swift
 
   ``` highlight
-  public func addVenueAsync ( venueId : Int32 )
+  public func addVenueAsync(venueId: Int32)
   ```
-
-  </pre>
 
   </div>
 
@@ -234,7 +244,7 @@ Connects a map with venues. When the `VenueMap` is started, venues can be seen o
 
 - <div>
 
-      addVenueAsync(venueIdentifier: )
+   <span id="sdk-for-ios-navigate-s-7heresdk8VenueMapC03addB5Async15venueIdentifierySS_tF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-addVenueAsync-venueIdentifier" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-venuemap#sdk-for-ios-navigate-s-7heresdk8VenueMapC03addB5Async15venueIdentifierySS_tF" class="token"><code>addVenueAsync(venueIdentifier:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -265,10 +275,8 @@ Connects a map with venues. When the `VenueMap` is started, venues can be seen o
   Swift
 
   ``` highlight
-  public func addVenueAsync ( venueIdentifier : String )
+  public func addVenueAsync(venueIdentifier: String)
   ```
-
-  </pre>
 
   </div>
 
@@ -301,7 +309,7 @@ Connects a map with venues. When the `VenueMap` is started, venues can be seen o
 
 - <div>
 
-      addVenueAsync(venueId: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk8VenueMapC03addB5Async7venueId10completionys5Int32V_yAA0B9ErrorCodeOSgctF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-addVenueAsync-venueId-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-venuemap#sdk-for-ios-navigate-s-7heresdk8VenueMapC03addB5Async7venueId10completionys5Int32V_yAA0B9ErrorCodeOSgctF" class="token"><code>addVenueAsync(venueId:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -332,12 +340,14 @@ Connects a map with venues. When the `VenueMap` is started, venues can be seen o
   Swift
 
   ``` highlight
-  public func addVenueAsync ( venueId : Int32 , completion : @escaping VenueLoadErrorHandler )
+  public func addVenueAsync(venueId: Int32, completion: @escaping VenueLoadErrorHandler)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-venues#sdk-for-ios-navigate-s-7heresdk21VenueLoadErrorHandlera">VenueLoadErrorHandler</a>
 
   </div>
 
@@ -374,7 +384,7 @@ Connects a map with venues. When the `VenueMap` is started, venues can be seen o
 
 - <div>
 
-      addVenueAsync(venueIdentifier: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk8VenueMapC03addB5Async15venueIdentifier10completionySS_yAA0B9ErrorCodeOSgctF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-addVenueAsync-venueIdentifier-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-venuemap#sdk-for-ios-navigate-s-7heresdk8VenueMapC03addB5Async15venueIdentifier10completionySS_yAA0B9ErrorCodeOSgctF" class="token"><code>addVenueAsync(venueIdentifier:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -405,12 +415,14 @@ Connects a map with venues. When the `VenueMap` is started, venues can be seen o
   Swift
 
   ``` highlight
-  public func addVenueAsync ( venueIdentifier : String , completion : @escaping VenueLoadErrorHandler )
+  public func addVenueAsync(venueIdentifier: String, completion: @escaping VenueLoadErrorHandler)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-venues#sdk-for-ios-navigate-s-7heresdk21VenueLoadErrorHandlera">VenueLoadErrorHandler</a>
 
   </div>
 
@@ -447,7 +459,7 @@ Connects a map with venues. When the `VenueMap` is started, venues can be seen o
 
 - <div>
 
-      removeVenue(venue: )
+   <span id="sdk-for-ios-navigate-s-7heresdk8VenueMapC06removeB05venueyAA0B0C_tF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-removeVenue-venue" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-venuemap#sdk-for-ios-navigate-s-7heresdk8VenueMapC06removeB05venueyAA0B0C_tF" class="token"><code>removeVenue(venue:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -478,12 +490,14 @@ Connects a map with venues. When the `VenueMap` is started, venues can be seen o
   Swift
 
   ``` highlight
-  public func removeVenue ( venue : Venue )
+  public func removeVenue(venue: Venue)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-venue">Venue</a>
 
   </div>
 
@@ -514,7 +528,7 @@ Connects a map with venues. When the `VenueMap` is started, venues can be seen o
 
 - <div>
 
-      selectVenueAsync(venueId: )
+   <span id="sdk-for-ios-navigate-s-7heresdk8VenueMapC06selectB5Async7venueIdys5Int32V_tF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-selectVenueAsync-venueId" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-venuemap#sdk-for-ios-navigate-s-7heresdk8VenueMapC06selectB5Async7venueIdys5Int32V_tF" class="token"><code>selectVenueAsync(venueId:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -545,10 +559,8 @@ Connects a map with venues. When the `VenueMap` is started, venues can be seen o
   Swift
 
   ``` highlight
-  public func selectVenueAsync ( venueId : Int32 )
+  public func selectVenueAsync(venueId: Int32)
   ```
-
-  </pre>
 
   </div>
 
@@ -581,7 +593,7 @@ Connects a map with venues. When the `VenueMap` is started, venues can be seen o
 
 - <div>
 
-      selectVenueAsync(venueIdentifier: )
+   <span id="sdk-for-ios-navigate-s-7heresdk8VenueMapC06selectB5Async15venueIdentifierySS_tF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-selectVenueAsync-venueIdentifier" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-venuemap#sdk-for-ios-navigate-s-7heresdk8VenueMapC06selectB5Async15venueIdentifierySS_tF" class="token"><code>selectVenueAsync(venueIdentifier:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -612,10 +624,8 @@ Connects a map with venues. When the `VenueMap` is started, venues can be seen o
   Swift
 
   ``` highlight
-  public func selectVenueAsync ( venueIdentifier : String )
+  public func selectVenueAsync(venueIdentifier: String)
   ```
-
-  </pre>
 
   </div>
 
@@ -648,7 +658,7 @@ Connects a map with venues. When the `VenueMap` is started, venues can be seen o
 
 - <div>
 
-      selectVenueAsync(venueId: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk8VenueMapC06selectB5Async7venueId10completionys5Int32V_yAA0B9ErrorCodeOSgctF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-selectVenueAsync-venueId-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-venuemap#sdk-for-ios-navigate-s-7heresdk8VenueMapC06selectB5Async7venueId10completionys5Int32V_yAA0B9ErrorCodeOSgctF" class="token"><code>selectVenueAsync(venueId:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -679,12 +689,14 @@ Connects a map with venues. When the `VenueMap` is started, venues can be seen o
   Swift
 
   ``` highlight
-  public func selectVenueAsync ( venueId : Int32 , completion : @escaping VenueLoadErrorHandler )
+  public func selectVenueAsync(venueId: Int32, completion: @escaping VenueLoadErrorHandler)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-venues#sdk-for-ios-navigate-s-7heresdk21VenueLoadErrorHandlera">VenueLoadErrorHandler</a>
 
   </div>
 
@@ -721,7 +733,7 @@ Connects a map with venues. When the `VenueMap` is started, venues can be seen o
 
 - <div>
 
-      selectVenueAsync(venueIdentifier: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk8VenueMapC06selectB5Async15venueIdentifier10completionySS_yAA0B9ErrorCodeOSgctF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-selectVenueAsync-venueIdentifier-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-venuemap#sdk-for-ios-navigate-s-7heresdk8VenueMapC06selectB5Async15venueIdentifier10completionySS_yAA0B9ErrorCodeOSgctF" class="token"><code>selectVenueAsync(venueIdentifier:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -752,12 +764,14 @@ Connects a map with venues. When the `VenueMap` is started, venues can be seen o
   Swift
 
   ``` highlight
-  public func selectVenueAsync ( venueIdentifier : String , completion : @escaping VenueLoadErrorHandler )
+  public func selectVenueAsync(venueIdentifier: String, completion: @escaping VenueLoadErrorHandler)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-venues#sdk-for-ios-navigate-s-7heresdk21VenueLoadErrorHandlera">VenueLoadErrorHandler</a>
 
   </div>
 
@@ -794,7 +808,7 @@ Connects a map with venues. When the `VenueMap` is started, venues can be seen o
 
 - <div>
 
-      cancelVenueSelection()
+   <span id="sdk-for-ios-navigate-s-7heresdk8VenueMapC06cancelB9SelectionSbyF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-cancelVenueSelection" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-venuemap#sdk-for-ios-navigate-s-7heresdk8VenueMapC06cancelB9SelectionSbyF" class="token"><code>cancelVenueSelection()</code></a> 
 
   </div>
 
@@ -825,10 +839,8 @@ Connects a map with venues. When the `VenueMap` is started, venues can be seen o
   Swift
 
   ``` highlight
-  public func cancelVenueSelection () -> Bool
+  public func cancelVenueSelection() -> Bool
   ```
-
-  </pre>
 
   </div>
 
@@ -848,7 +860,7 @@ Connects a map with venues. When the `VenueMap` is started, venues can be seen o
 
 - <div>
 
-      getVenue(position: )
+   <span id="sdk-for-ios-navigate-s-7heresdk8VenueMapC03getB08positionAA0B0CSgAA14GeoCoordinatesV_tF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-getVenue-position" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-venuemap#sdk-for-ios-navigate-s-7heresdk8VenueMapC03getB08positionAA0B0CSgAA14GeoCoordinatesV_tF" class="token"><code>getVenue(position:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -879,12 +891,15 @@ Connects a map with venues. When the `VenueMap` is started, venues can be seen o
   Swift
 
   ``` highlight
-  public func getVenue ( position : GeoCoordinates ) -> Venue ?
+  public func getVenue(position: GeoCoordinates) -> Venue?
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-geocoordinates">GeoCoordinates</a>
+  - <a href="sdk-for-ios-navigate-classes-venue">Venue</a>
 
   </div>
 
@@ -923,7 +938,7 @@ Connects a map with venues. When the `VenueMap` is started, venues can be seen o
 
 - <div>
 
-      getGeometry(position: )
+   <span id="sdk-for-ios-navigate-s-7heresdk8VenueMapC11getGeometry8positionAA0bE0CSgAA14GeoCoordinatesV_tF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-getGeometry-position" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-venuemap#sdk-for-ios-navigate-s-7heresdk8VenueMapC11getGeometry8positionAA0bE0CSgAA14GeoCoordinatesV_tF" class="token"><code>getGeometry(position:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -954,12 +969,15 @@ Connects a map with venues. When the `VenueMap` is started, venues can be seen o
   Swift
 
   ``` highlight
-  public func getGeometry ( position : GeoCoordinates ) -> VenueGeometry ?
+  public func getGeometry(position: GeoCoordinates) -> VenueGeometry?
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-geocoordinates">GeoCoordinates</a>
+  - <a href="sdk-for-ios-navigate-classes-venuegeometry">VenueGeometry</a>
 
   </div>
 
@@ -998,7 +1016,7 @@ Connects a map with venues. When the `VenueMap` is started, venues can be seen o
 
 - <div>
 
-      addVenueLifecycleDelegate(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk8VenueMapC03addB17LifecycleDelegateyyAA0beF0_pF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-addVenueLifecycleDelegate-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-venuemap#sdk-for-ios-navigate-s-7heresdk8VenueMapC03addB17LifecycleDelegateyyAA0beF0_pF" class="token"><code>addVenueLifecycleDelegate(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1029,12 +1047,14 @@ Connects a map with venues. When the `VenueMap` is started, venues can be seen o
   Swift
 
   ``` highlight
-  public func addVenueLifecycleDelegate ( _ delegate : VenueLifecycleDelegate )
+  public func addVenueLifecycleDelegate(_ delegate: VenueLifecycleDelegate)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-protocols-venuelifecycledelegate">VenueLifecycleDelegate</a>
 
   </div>
 
@@ -1065,7 +1085,7 @@ Connects a map with venues. When the `VenueMap` is started, venues can be seen o
 
 - <div>
 
-      removeVenueLifecycleDelegate(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk8VenueMapC06removeB17LifecycleDelegateyyAA0beF0_pF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-removeVenueLifecycleDelegate-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-venuemap#sdk-for-ios-navigate-s-7heresdk8VenueMapC06removeB17LifecycleDelegateyyAA0beF0_pF" class="token"><code>removeVenueLifecycleDelegate(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1096,12 +1116,14 @@ Connects a map with venues. When the `VenueMap` is started, venues can be seen o
   Swift
 
   ``` highlight
-  public func removeVenueLifecycleDelegate ( _ delegate : VenueLifecycleDelegate )
+  public func removeVenueLifecycleDelegate(_ delegate: VenueLifecycleDelegate)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-protocols-venuelifecycledelegate">VenueLifecycleDelegate</a>
 
   </div>
 
@@ -1132,7 +1154,7 @@ Connects a map with venues. When the `VenueMap` is started, venues can be seen o
 
 - <div>
 
-      addVenueMapLifecycleDelegate(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk8VenueMapC03addbC17LifecycleDelegateyyAA0bceF0_pF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-addVenueMapLifecycleDelegate-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-venuemap#sdk-for-ios-navigate-s-7heresdk8VenueMapC03addbC17LifecycleDelegateyyAA0bceF0_pF" class="token"><code>addVenueMapLifecycleDelegate(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1163,12 +1185,14 @@ Connects a map with venues. When the `VenueMap` is started, venues can be seen o
   Swift
 
   ``` highlight
-  public func addVenueMapLifecycleDelegate ( _ delegate : VenueMapLifecycleDelegate )
+  public func addVenueMapLifecycleDelegate(_ delegate: VenueMapLifecycleDelegate)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-protocols-venuemaplifecycledelegate">VenueMapLifecycleDelegate</a>
 
   </div>
 
@@ -1199,7 +1223,7 @@ Connects a map with venues. When the `VenueMap` is started, venues can be seen o
 
 - <div>
 
-      removeVenueMapLifecycleDelegate(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk8VenueMapC06removebC17LifecycleDelegateyyAA0bceF0_pF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-removeVenueMapLifecycleDelegate-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-venuemap#sdk-for-ios-navigate-s-7heresdk8VenueMapC06removebC17LifecycleDelegateyyAA0bceF0_pF" class="token"><code>removeVenueMapLifecycleDelegate(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1230,12 +1254,14 @@ Connects a map with venues. When the `VenueMap` is started, venues can be seen o
   Swift
 
   ``` highlight
-  public func removeVenueMapLifecycleDelegate ( _ delegate : VenueMapLifecycleDelegate )
+  public func removeVenueMapLifecycleDelegate(_ delegate: VenueMapLifecycleDelegate)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-protocols-venuemaplifecycledelegate">VenueMapLifecycleDelegate</a>
 
   </div>
 
@@ -1266,7 +1292,7 @@ Connects a map with venues. When the `VenueMap` is started, venues can be seen o
 
 - <div>
 
-      addVenueSelectionDelegate(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk8VenueMapC03addB17SelectionDelegateyyAA0beF0_pF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-addVenueSelectionDelegate-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-venuemap#sdk-for-ios-navigate-s-7heresdk8VenueMapC03addB17SelectionDelegateyyAA0beF0_pF" class="token"><code>addVenueSelectionDelegate(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1297,12 +1323,14 @@ Connects a map with venues. When the `VenueMap` is started, venues can be seen o
   Swift
 
   ``` highlight
-  public func addVenueSelectionDelegate ( _ delegate : VenueSelectionDelegate )
+  public func addVenueSelectionDelegate(_ delegate: VenueSelectionDelegate)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-protocols-venueselectiondelegate">VenueSelectionDelegate</a>
 
   </div>
 
@@ -1333,7 +1361,7 @@ Connects a map with venues. When the `VenueMap` is started, venues can be seen o
 
 - <div>
 
-      removeVenueSelectionDelegate(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk8VenueMapC06removeB17SelectionDelegateyyAA0beF0_pF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-removeVenueSelectionDelegate-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-venuemap#sdk-for-ios-navigate-s-7heresdk8VenueMapC06removeB17SelectionDelegateyyAA0beF0_pF" class="token"><code>removeVenueSelectionDelegate(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1364,12 +1392,14 @@ Connects a map with venues. When the `VenueMap` is started, venues can be seen o
   Swift
 
   ``` highlight
-  public func removeVenueSelectionDelegate ( _ delegate : VenueSelectionDelegate )
+  public func removeVenueSelectionDelegate(_ delegate: VenueSelectionDelegate)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-protocols-venueselectiondelegate">VenueSelectionDelegate</a>
 
   </div>
 
@@ -1400,7 +1430,7 @@ Connects a map with venues. When the `VenueMap` is started, venues can be seen o
 
 - <div>
 
-      addDrawingSelectionDelegate(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk8VenueMapC27addDrawingSelectionDelegateyyAA0befG0_pF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-addDrawingSelectionDelegate-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-venuemap#sdk-for-ios-navigate-s-7heresdk8VenueMapC27addDrawingSelectionDelegateyyAA0befG0_pF" class="token"><code>addDrawingSelectionDelegate(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1431,12 +1461,14 @@ Connects a map with venues. When the `VenueMap` is started, venues can be seen o
   Swift
 
   ``` highlight
-  public func addDrawingSelectionDelegate ( _ delegate : VenueDrawingSelectionDelegate )
+  public func addDrawingSelectionDelegate(_ delegate: VenueDrawingSelectionDelegate)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-protocols-venuedrawingselectiondelegate">VenueDrawingSelectionDelegate</a>
 
   </div>
 
@@ -1467,7 +1499,7 @@ Connects a map with venues. When the `VenueMap` is started, venues can be seen o
 
 - <div>
 
-      removeDrawingSelectionDelegate(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk8VenueMapC30removeDrawingSelectionDelegateyyAA0befG0_pF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-removeDrawingSelectionDelegate-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-venuemap#sdk-for-ios-navigate-s-7heresdk8VenueMapC30removeDrawingSelectionDelegateyyAA0befG0_pF" class="token"><code>removeDrawingSelectionDelegate(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1498,12 +1530,14 @@ Connects a map with venues. When the `VenueMap` is started, venues can be seen o
   Swift
 
   ``` highlight
-  public func removeDrawingSelectionDelegate ( _ delegate : VenueDrawingSelectionDelegate )
+  public func removeDrawingSelectionDelegate(_ delegate: VenueDrawingSelectionDelegate)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-protocols-venuedrawingselectiondelegate">VenueDrawingSelectionDelegate</a>
 
   </div>
 
@@ -1534,7 +1568,7 @@ Connects a map with venues. When the `VenueMap` is started, venues can be seen o
 
 - <div>
 
-      addLevelSelectionDelegate(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk8VenueMapC25addLevelSelectionDelegateyyAA0befG0_pF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-addLevelSelectionDelegate-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-venuemap#sdk-for-ios-navigate-s-7heresdk8VenueMapC25addLevelSelectionDelegateyyAA0befG0_pF" class="token"><code>addLevelSelectionDelegate(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1565,12 +1599,14 @@ Connects a map with venues. When the `VenueMap` is started, venues can be seen o
   Swift
 
   ``` highlight
-  public func addLevelSelectionDelegate ( _ delegate : VenueLevelSelectionDelegate )
+  public func addLevelSelectionDelegate(_ delegate: VenueLevelSelectionDelegate)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-protocols-venuelevelselectiondelegate">VenueLevelSelectionDelegate</a>
 
   </div>
 
@@ -1601,7 +1637,7 @@ Connects a map with venues. When the `VenueMap` is started, venues can be seen o
 
 - <div>
 
-      removeLevelSelectionDelegate(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk8VenueMapC28removeLevelSelectionDelegateyyAA0befG0_pF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-removeLevelSelectionDelegate-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-venuemap#sdk-for-ios-navigate-s-7heresdk8VenueMapC28removeLevelSelectionDelegateyyAA0befG0_pF" class="token"><code>removeLevelSelectionDelegate(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1632,12 +1668,14 @@ Connects a map with venues. When the `VenueMap` is started, venues can be seen o
   Swift
 
   ``` highlight
-  public func removeLevelSelectionDelegate ( _ delegate : VenueLevelSelectionDelegate )
+  public func removeLevelSelectionDelegate(_ delegate: VenueLevelSelectionDelegate)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-protocols-venuelevelselectiondelegate">VenueLevelSelectionDelegate</a>
 
   </div>
 
@@ -1668,7 +1706,7 @@ Connects a map with venues. When the `VenueMap` is started, venues can be seen o
 
 - <div>
 
-      addVenueInfoListDelegate(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk8VenueMapC03addB16InfoListDelegateyyAA0bef8ListenerG0_pF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-addVenueInfoListDelegate-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-venuemap#sdk-for-ios-navigate-s-7heresdk8VenueMapC03addB16InfoListDelegateyyAA0bef8ListenerG0_pF" class="token"><code>addVenueInfoListDelegate(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1699,12 +1737,14 @@ Connects a map with venues. When the `VenueMap` is started, venues can be seen o
   Swift
 
   ``` highlight
-  public func addVenueInfoListDelegate ( _ delegate : VenueInfoListListenerDelegate )
+  public func addVenueInfoListDelegate(_ delegate: VenueInfoListListenerDelegate)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-protocols-venueinfolistlistenerdelegate">VenueInfoListListenerDelegate</a>
 
   </div>
 
@@ -1735,7 +1775,7 @@ Connects a map with venues. When the `VenueMap` is started, venues can be seen o
 
 - <div>
 
-      removeVenueInfoListDelegate(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk8VenueMapC06removeB16InfoListDelegateyyAA0bef8ListenerG0_pF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-removeVenueInfoListDelegate-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-venuemap#sdk-for-ios-navigate-s-7heresdk8VenueMapC06removeB16InfoListDelegateyyAA0bef8ListenerG0_pF" class="token"><code>removeVenueInfoListDelegate(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1766,12 +1806,14 @@ Connects a map with venues. When the `VenueMap` is started, venues can be seen o
   Swift
 
   ``` highlight
-  public func removeVenueInfoListDelegate ( _ delegate : VenueInfoListListenerDelegate )
+  public func removeVenueInfoListDelegate(_ delegate: VenueInfoListListenerDelegate)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-protocols-venueinfolistlistenerdelegate">VenueInfoListListenerDelegate</a>
 
   </div>
 
@@ -1802,7 +1844,7 @@ Connects a map with venues. When the `VenueMap` is started, venues can be seen o
 
 - <div>
 
-      getVenueInfoList()
+   <span id="sdk-for-ios-navigate-s-7heresdk8VenueMapC03getB8InfoListSayAA0bE0CGyF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-getVenueInfoList" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-venuemap#sdk-for-ios-navigate-s-7heresdk8VenueMapC03getB8InfoListSayAA0bE0CGyF" class="token"><code>getVenueInfoList()</code></a> 
 
   </div>
 
@@ -1833,12 +1875,14 @@ Connects a map with venues. When the `VenueMap` is started, venues can be seen o
   Swift
 
   ``` highlight
-  public func getVenueInfoList () -> VenueMap . VenueInfoList
+  public func getVenueInfoList() -> VenueMap.VenueInfoList
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-venuemap#sdk-for-ios-navigate-s-7heresdk8VenueMapC0B8InfoLista">VenueInfoList</a>
 
   </div>
 
@@ -1856,7 +1900,7 @@ Connects a map with venues. When the `VenueMap` is started, venues can be seen o
 
 - <div>
 
-      getVenueInfoList(completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk8VenueMapC03getB8InfoList10completionSayAA0bE0CGyAA0B9ErrorCodeOSgc_tF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-getVenueInfoList-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-venuemap#sdk-for-ios-navigate-s-7heresdk8VenueMapC03getB8InfoList10completionSayAA0bE0CGyAA0B9ErrorCodeOSgc_tF" class="token"><code>getVenueInfoList(completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1887,12 +1931,15 @@ Connects a map with venues. When the `VenueMap` is started, venues can be seen o
   Swift
 
   ``` highlight
-  public func getVenueInfoList ( completion : @escaping VenueLoadErrorHandler ) -> VenueMap . VenueInfoList
+  public func getVenueInfoList(completion: @escaping VenueLoadErrorHandler) -> VenueMap.VenueInfoList
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-venues#sdk-for-ios-navigate-s-7heresdk21VenueLoadErrorHandlera">VenueLoadErrorHandler</a>
+  - <a href="sdk-for-ios-navigate-classes-venuemap#sdk-for-ios-navigate-s-7heresdk8VenueMapC0B8InfoLista">VenueInfoList</a>
 
   </div>
 
@@ -1931,7 +1978,7 @@ Connects a map with venues. When the `VenueMap` is started, venues can be seen o
 
 - <div>
 
-      getVenueInfoListAsync()
+   <span id="sdk-for-ios-navigate-s-7heresdk8VenueMapC03getB13InfoListAsyncyyF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-getVenueInfoListAsync" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-venuemap#sdk-for-ios-navigate-s-7heresdk8VenueMapC03getB13InfoListAsyncyyF" class="token"><code>getVenueInfoListAsync()</code></a> 
 
   </div>
 
@@ -1962,10 +2009,8 @@ Connects a map with venues. When the `VenueMap` is started, venues can be seen o
   Swift
 
   ``` highlight
-  public func getVenueInfoListAsync ()
+  public func getVenueInfoListAsync()
   ```
-
-  </pre>
 
   </div>
 
@@ -1977,7 +2022,7 @@ Connects a map with venues. When the `VenueMap` is started, venues can be seen o
 
 - <div>
 
-      getVenueInfoListAsync(completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk8VenueMapC03getB13InfoListAsync10completionyyAA0B9ErrorCodeOSgc_tF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-getVenueInfoListAsync-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-venuemap#sdk-for-ios-navigate-s-7heresdk8VenueMapC03getB13InfoListAsync10completionyyAA0B9ErrorCodeOSgc_tF" class="token"><code>getVenueInfoListAsync(completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -2008,12 +2053,14 @@ Connects a map with venues. When the `VenueMap` is started, venues can be seen o
   Swift
 
   ``` highlight
-  public func getVenueInfoListAsync ( completion : @escaping VenueLoadErrorHandler )
+  public func getVenueInfoListAsync(completion: @escaping VenueLoadErrorHandler)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-venues#sdk-for-ios-navigate-s-7heresdk21VenueLoadErrorHandlera">VenueLoadErrorHandler</a>
 
   </div>
 
@@ -2044,7 +2091,7 @@ Connects a map with venues. When the `VenueMap` is started, venues can be seen o
 
 - <div>
 
-      getTopology(position: )
+   <span id="sdk-for-ios-navigate-s-7heresdk8VenueMapC11getTopology8positionAA0bE0CSgAA14GeoCoordinatesV_tF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-getTopology-position" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-venuemap#sdk-for-ios-navigate-s-7heresdk8VenueMapC11getTopology8positionAA0bE0CSgAA14GeoCoordinatesV_tF" class="token"><code>getTopology(position:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -2075,12 +2122,15 @@ Connects a map with venues. When the `VenueMap` is started, venues can be seen o
   Swift
 
   ``` highlight
-  public func getTopology ( position : GeoCoordinates ) -> VenueTopology ?
+  public func getTopology(position: GeoCoordinates) -> VenueTopology?
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-geocoordinates">GeoCoordinates</a>
+  - <a href="sdk-for-ios-navigate-classes-venuetopology">VenueTopology</a>
 
   </div>
 
@@ -2119,7 +2169,7 @@ Connects a map with venues. When the `VenueMap` is started, venues can be seen o
 
 - <div>
 
-      getCrosswalk(position: )
+   <span id="sdk-for-ios-navigate-s-7heresdk8VenueMapC12getCrosswalk8positionAA0E0CSgAA14GeoCoordinatesV_tF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-getCrosswalk-position" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-venuemap#sdk-for-ios-navigate-s-7heresdk8VenueMapC12getCrosswalk8positionAA0E0CSgAA14GeoCoordinatesV_tF" class="token"><code>getCrosswalk(position:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -2150,12 +2200,15 @@ Connects a map with venues. When the `VenueMap` is started, venues can be seen o
   Swift
 
   ``` highlight
-  public func getCrosswalk ( position : GeoCoordinates ) -> Crosswalk ?
+  public func getCrosswalk(position: GeoCoordinates) -> Crosswalk?
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-geocoordinates">GeoCoordinates</a>
+  - <a href="sdk-for-ios-navigate-classes-crosswalk">Crosswalk</a>
 
   </div>
 

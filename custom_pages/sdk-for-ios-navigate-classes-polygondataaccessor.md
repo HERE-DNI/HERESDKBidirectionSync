@@ -37,7 +37,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      getGeometry()
+   <span id="sdk-for-ios-navigate-s-7heresdk19PolygonDataAccessorC11getGeometryAA03GeoB0VyF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-getGeometry" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-polygondataaccessor#sdk-for-ios-navigate-s-7heresdk19PolygonDataAccessorC11getGeometryAA03GeoB0VyF" class="token"><code>getGeometry()</code></a> 
 
   </div>
 
@@ -68,12 +68,14 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func getGeometry () -> GeoPolygon
+  public func getGeometry() -> GeoPolygon
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-geopolygon">GeoPolygon</a>
 
   </div>
 
@@ -91,7 +93,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      getAttributes()
+   <span id="sdk-for-ios-navigate-s-7heresdk19PolygonDataAccessorC13getAttributesAA0cfD0CyF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-getAttributes" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-polygondataaccessor#sdk-for-ios-navigate-s-7heresdk19PolygonDataAccessorC13getAttributesAA0cfD0CyF" class="token"><code>getAttributes()</code></a> 
 
   </div>
 
@@ -122,12 +124,14 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func getAttributes () -> DataAttributesAccessor
+  public func getAttributes() -> DataAttributesAccessor
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-dataattributesaccessor">DataAttributesAccessor</a>
 
   </div>
 
@@ -145,7 +149,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      setGeometry(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk19PolygonDataAccessorC11setGeometryyyAA03GeoB0VF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-setGeometry-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-polygondataaccessor#sdk-for-ios-navigate-s-7heresdk19PolygonDataAccessorC11setGeometryyyAA03GeoB0VF" class="token"><code>setGeometry(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -180,12 +184,14 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func setGeometry ( _ geometry : GeoPolygon )
+  public func setGeometry(_ geometry: GeoPolygon)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-geopolygon">GeoPolygon</a>
 
   </div>
 
@@ -216,7 +222,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      setAttributes(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk19PolygonDataAccessorC13setAttributesyyAA0cF0CF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-setAttributes-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-polygondataaccessor#sdk-for-ios-navigate-s-7heresdk19PolygonDataAccessorC13setAttributesyyAA0cF0CF" class="token"><code>setAttributes(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -247,12 +253,14 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func setAttributes ( _ attributes : DataAttributes )
+  public func setAttributes(_ attributes: DataAttributes)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-dataattributes">DataAttributes</a>
 
   </div>
 

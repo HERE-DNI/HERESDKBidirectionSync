@@ -29,7 +29,7 @@ A struct that defines tolling configuration for a lane. It describes which types
 
 - <div>
 
-  ` `<span id="/s:7heresdk13TollStructureV14structureTypesSayAA0bC4TypeOGvp"></span>` `<span id="//apple_ref/swift/Property/structureTypes" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-tollstructure#/s:7heresdk13TollStructureV14structureTypesSayAA0bC4TypeOGvp" class="token"><code>structureTypes</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13TollStructureV14structureTypesSayAA0bC4TypeOGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-structureTypes" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-tollstructure#sdk-for-ios-explore-s-7heresdk13TollStructureV14structureTypesSayAA0bC4TypeOGvp" class="token"><code>structureTypes</code></a> 
 
   </div>
 
@@ -65,6 +65,10 @@ A struct that defines tolling configuration for a lane. It describes which types
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-tollstructuretype">TollStructureType</a>
+
   </div>
 
   </div>
@@ -73,7 +77,7 @@ A struct that defines tolling configuration for a lane. It describes which types
 
 - <div>
 
-  ` `<span id="/s:7heresdk13TollStructureV14paymentMethodsSayAA13PaymentMethodOGvp"></span>` `<span id="//apple_ref/swift/Property/paymentMethods" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-tollstructure#/s:7heresdk13TollStructureV14paymentMethodsSayAA13PaymentMethodOGvp" class="token"><code>paymentMethods</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13TollStructureV14paymentMethodsSayAA13PaymentMethodOGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-paymentMethods" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-tollstructure#sdk-for-ios-explore-s-7heresdk13TollStructureV14paymentMethodsSayAA13PaymentMethodOGvp" class="token"><code>paymentMethods</code></a> 
 
   </div>
 
@@ -109,6 +113,10 @@ A struct that defines tolling configuration for a lane. It describes which types
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-paymentmethod">PaymentMethod</a>
+
   </div>
 
   </div>
@@ -117,7 +125,7 @@ A struct that defines tolling configuration for a lane. It describes which types
 
 - <div>
 
-      init(structureTypes: paymentMethods: )
+   <span id="sdk-for-ios-explore-s-7heresdk13TollStructureV14structureTypes14paymentMethodsACSayAA0bC4TypeOG_SayAA13PaymentMethodOGtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-structureTypes-paymentMethods" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-tollstructure#sdk-for-ios-explore-s-7heresdk13TollStructureV14structureTypes14paymentMethodsACSayAA0bC4TypeOG_SayAA13PaymentMethodOGtcfc" class="token"><code>init(structureTypes:</code><wbr></wbr><code>paymentMethods:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -148,12 +156,15 @@ A struct that defines tolling configuration for a lane. It describes which types
   Swift
 
   ``` highlight
-  public init ( structureTypes : [ TollStructureType ], paymentMethods : [ PaymentMethod ])
+  public init(structureTypes: [TollStructureType], paymentMethods: [PaymentMethod])
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-tollstructuretype">TollStructureType</a>
+  - <a href="sdk-for-ios-explore-enums-paymentmethod">PaymentMethod</a>
 
   </div>
 

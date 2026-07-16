@@ -17,7 +17,7 @@ public struct Calculation
 
 </div>
 
-Specifies isoline parameters. Setting at least one limit to <a href="sdk-for-ios-explore-structs-isolineoptions-calculation#/s:7heresdk14IsolineOptionsV11CalculationV11rangeValuesSays5Int32VGvp">`IsolineOptions.Calculation.rangeValues`</a> is mandatory or the calculation will fail.
+Specifies isoline parameters. Setting at least one limit to <a href="sdk-for-ios-explore-structs-isolineoptions-calculation#sdk-for-ios-explore-s-7heresdk14IsolineOptionsV11CalculationV11rangeValuesSays5Int32VGvp">`IsolineOptions.Calculation.rangeValues`</a> is mandatory or the calculation will fail.
 
 </div>
 
@@ -27,7 +27,7 @@ Specifies isoline parameters. Setting at least one limit to <a href="sdk-for-ios
 
 - <div>
 
-  ` `<span id="/s:7heresdk14IsolineOptionsV11CalculationV9rangeTypeAA0b5RangeF0Ovp"></span>` `<span id="//apple_ref/swift/Property/rangeType" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-isolineoptions-calculation#/s:7heresdk14IsolineOptionsV11CalculationV9rangeTypeAA0b5RangeF0Ovp" class="token"><code>rangeType</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14IsolineOptionsV11CalculationV9rangeTypeAA0b5RangeF0Ovp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-rangeType" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-isolineoptions-calculation#sdk-for-ios-explore-s-7heresdk14IsolineOptionsV11CalculationV9rangeTypeAA0b5RangeF0Ovp" class="token"><code>rangeType</code></a> 
 
   </div>
 
@@ -63,6 +63,10 @@ Specifies isoline parameters. Setting at least one limit to <a href="sdk-for-ios
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-isolinerangetype">IsolineRangeType</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ Specifies isoline parameters. Setting at least one limit to <a href="sdk-for-ios
 
 - <div>
 
-  ` `<span id="/s:7heresdk14IsolineOptionsV11CalculationV11rangeValuesSays5Int32VGvp"></span>` `<span id="//apple_ref/swift/Property/rangeValues" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-isolineoptions-calculation#/s:7heresdk14IsolineOptionsV11CalculationV11rangeValuesSays5Int32VGvp" class="token"><code>rangeValues</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14IsolineOptionsV11CalculationV11rangeValuesSays5Int32VGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-rangeValues" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-isolineoptions-calculation#sdk-for-ios-explore-s-7heresdk14IsolineOptionsV11CalculationV11rangeValuesSays5Int32VGvp" class="token"><code>rangeValues</code></a> 
 
   </div>
 
@@ -115,7 +119,7 @@ Specifies isoline parameters. Setting at least one limit to <a href="sdk-for-ios
 
 - <div>
 
-  ` `<span id="/s:7heresdk14IsolineOptionsV11CalculationV07isolineD4ModeAA0bdF0Ovp"></span>` `<span id="//apple_ref/swift/Property/isolineCalculationMode" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-isolineoptions-calculation#/s:7heresdk14IsolineOptionsV11CalculationV07isolineD4ModeAA0bdF0Ovp" class="token"><code>isolineCalculationMode</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14IsolineOptionsV11CalculationV07isolineD4ModeAA0bdF0Ovp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-isolineCalculationMode" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-isolineoptions-calculation#sdk-for-ios-explore-s-7heresdk14IsolineOptionsV11CalculationV07isolineD4ModeAA0bdF0Ovp" class="token"><code>isolineCalculationMode</code></a> 
 
   </div>
 
@@ -133,7 +137,7 @@ Specifies isoline parameters. Setting at least one limit to <a href="sdk-for-ios
 
   <div class="abstract">
 
-  Specifies how isoline calculation is optimized. The default waypoint type is <a href="sdk-for-ios-explore-enums-isolinecalculationmode#/s:7heresdk22IsolineCalculationModeO8balancedyA2CmF">`IsolineCalculationMode.balanced`</a>.
+  Specifies how isoline calculation is optimized. The default waypoint type is <a href="sdk-for-ios-explore-enums-isolinecalculationmode#sdk-for-ios-explore-s-7heresdk22IsolineCalculationModeO8balancedyA2CmF">`IsolineCalculationMode.balanced`</a>.
 
   </div>
 
@@ -151,6 +155,10 @@ Specifies isoline parameters. Setting at least one limit to <a href="sdk-for-ios
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-isolinecalculationmode">IsolineCalculationMode</a>
+
   </div>
 
   </div>
@@ -159,7 +167,7 @@ Specifies isoline parameters. Setting at least one limit to <a href="sdk-for-ios
 
 - <div>
 
-  ` `<span id="/s:7heresdk14IsolineOptionsV11CalculationV9maxPointss5Int32VSgvp"></span>` `<span id="//apple_ref/swift/Property/maxPoints" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-isolineoptions-calculation#/s:7heresdk14IsolineOptionsV11CalculationV9maxPointss5Int32VSgvp" class="token"><code>maxPoints</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14IsolineOptionsV11CalculationV9maxPointss5Int32VSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-maxPoints" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-isolineoptions-calculation#sdk-for-ios-explore-s-7heresdk14IsolineOptionsV11CalculationV9maxPointss5Int32VSgvp" class="token"><code>maxPoints</code></a> 
 
   </div>
 
@@ -203,7 +211,7 @@ Specifies isoline parameters. Setting at least one limit to <a href="sdk-for-ios
 
 - <div>
 
-  ` `<span id="/s:7heresdk14IsolineOptionsV11CalculationV16isolineDirectionAA010RoutePlaceF0Ovp"></span>` `<span id="//apple_ref/swift/Property/isolineDirection" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-isolineoptions-calculation#/s:7heresdk14IsolineOptionsV11CalculationV16isolineDirectionAA010RoutePlaceF0Ovp" class="token"><code>isolineDirection</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14IsolineOptionsV11CalculationV16isolineDirectionAA010RoutePlaceF0Ovp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-isolineDirection" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-isolineoptions-calculation#sdk-for-ios-explore-s-7heresdk14IsolineOptionsV11CalculationV16isolineDirectionAA010RoutePlaceF0Ovp" class="token"><code>isolineDirection</code></a> 
 
   </div>
 
@@ -221,7 +229,7 @@ Specifies isoline parameters. Setting at least one limit to <a href="sdk-for-ios
 
   <div class="abstract">
 
-  Specifies if calculations will be from or to a specific point. The default isoline direction is <a href="sdk-for-ios-explore-enums-routeplacedirection#/s:7heresdk19RoutePlaceDirectionO9departureyA2CmF">`RoutePlaceDirection.departure`</a>.
+  Specifies if calculations will be from or to a specific point. The default isoline direction is <a href="sdk-for-ios-explore-enums-routeplacedirection#sdk-for-ios-explore-s-7heresdk19RoutePlaceDirectionO9departureyA2CmF">`RoutePlaceDirection.departure`</a>.
 
   </div>
 
@@ -239,6 +247,10 @@ Specifies isoline parameters. Setting at least one limit to <a href="sdk-for-ios
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-routeplacedirection">RoutePlaceDirection</a>
+
   </div>
 
   </div>
@@ -247,7 +259,7 @@ Specifies isoline parameters. Setting at least one limit to <a href="sdk-for-ios
 
 - <div>
 
-      init(rangeType: rangeValues: )
+   <span id="sdk-for-ios-explore-s-7heresdk14IsolineOptionsV11CalculationV9rangeType0E6ValuesAeA0b5RangeF0O_Says5Int32VGtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-rangeType-rangeValues" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-isolineoptions-calculation#sdk-for-ios-explore-s-7heresdk14IsolineOptionsV11CalculationV9rangeType0E6ValuesAeA0b5RangeF0O_Says5Int32VGtcfc" class="token"><code>init(rangeType:</code><wbr></wbr><code>rangeValues:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -276,12 +288,14 @@ Specifies isoline parameters. Setting at least one limit to <a href="sdk-for-ios
   Swift
 
   ``` highlight
-  public init ( rangeType : IsolineRangeType , rangeValues : [ Int32 ])
+  public init(rangeType: IsolineRangeType, rangeValues: [Int32])
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-isolinerangetype">IsolineRangeType</a>
 
   </div>
 
@@ -318,7 +332,7 @@ Specifies isoline parameters. Setting at least one limit to <a href="sdk-for-ios
 
 - <div>
 
-      init(rangeType: rangeValues: isolineDirection: )
+   <span id="sdk-for-ios-explore-s-7heresdk14IsolineOptionsV11CalculationV9rangeType0E6Values16isolineDirectionAeA0b5RangeF0O_Says5Int32VGAA010RoutePlaceI0Otcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-rangeType-rangeValues-isolineDirection" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-isolineoptions-calculation#sdk-for-ios-explore-s-7heresdk14IsolineOptionsV11CalculationV9rangeType0E6Values16isolineDirectionAeA0b5RangeF0O_Says5Int32VGAA010RoutePlaceI0Otcfc" class="token"><code>init(rangeType:</code><wbr></wbr><code>rangeValues:</code><wbr></wbr><code>isolineDirection:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -347,12 +361,15 @@ Specifies isoline parameters. Setting at least one limit to <a href="sdk-for-ios
   Swift
 
   ``` highlight
-  public init ( rangeType : IsolineRangeType , rangeValues : [ Int32 ], isolineDirection : RoutePlaceDirection )
+  public init(rangeType: IsolineRangeType, rangeValues: [Int32], isolineDirection: RoutePlaceDirection)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-isolinerangetype">IsolineRangeType</a>
+  - <a href="sdk-for-ios-explore-enums-routeplacedirection">RoutePlaceDirection</a>
 
   </div>
 
@@ -395,7 +412,7 @@ Specifies isoline parameters. Setting at least one limit to <a href="sdk-for-ios
 
 - <div>
 
-      init(rangeType: rangeValues: isolineCalculationMode: )
+   <span id="sdk-for-ios-explore-s-7heresdk14IsolineOptionsV11CalculationV9rangeType0E6Values07isolineD4ModeAeA0b5RangeF0O_Says5Int32VGAA0bdI0Otcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-rangeType-rangeValues-isolineCalculationMode" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-isolineoptions-calculation#sdk-for-ios-explore-s-7heresdk14IsolineOptionsV11CalculationV9rangeType0E6Values07isolineD4ModeAeA0b5RangeF0O_Says5Int32VGAA0bdI0Otcfc" class="token"><code>init(rangeType:</code><wbr></wbr><code>rangeValues:</code><wbr></wbr><code>isolineCalculationMode:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -424,12 +441,15 @@ Specifies isoline parameters. Setting at least one limit to <a href="sdk-for-ios
   Swift
 
   ``` highlight
-  public init ( rangeType : IsolineRangeType , rangeValues : [ Int32 ], isolineCalculationMode : IsolineCalculationMode )
+  public init(rangeType: IsolineRangeType, rangeValues: [Int32], isolineCalculationMode: IsolineCalculationMode)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-isolinerangetype">IsolineRangeType</a>
+  - <a href="sdk-for-ios-explore-enums-isolinecalculationmode">IsolineCalculationMode</a>
 
   </div>
 
@@ -472,7 +492,7 @@ Specifies isoline parameters. Setting at least one limit to <a href="sdk-for-ios
 
 - <div>
 
-      init(rangeType: rangeValues: isolineCalculationMode: maxPoints: isolineDirection: )
+   <span id="sdk-for-ios-explore-s-7heresdk14IsolineOptionsV11CalculationV9rangeType0E6Values07isolineD4Mode9maxPoints0H9DirectionAeA0b5RangeF0O_Says5Int32VGAA0bdI0OANSgAA010RoutePlaceL0Otcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-rangeType-rangeValues-isolineCalculationMode-maxPoints-isolineDirection" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-isolineoptions-calculation#sdk-for-ios-explore-s-7heresdk14IsolineOptionsV11CalculationV9rangeType0E6Values07isolineD4Mode9maxPoints0H9DirectionAeA0b5RangeF0O_Says5Int32VGAA0bdI0OANSgAA010RoutePlaceL0Otcfc" class="token"><code>init(rangeType:</code><wbr></wbr><code>rangeValues:</code><wbr></wbr><code>isolineCalculationMode:</code><wbr></wbr><code>maxPoints:</code><wbr></wbr><code>isolineDirection:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -501,12 +521,16 @@ Specifies isoline parameters. Setting at least one limit to <a href="sdk-for-ios
   Swift
 
   ``` highlight
-  public init ( rangeType : IsolineRangeType , rangeValues : [ Int32 ], isolineCalculationMode : IsolineCalculationMode , maxPoints : Int32 ?, isolineDirection : RoutePlaceDirection )
+  public init(rangeType: IsolineRangeType, rangeValues: [Int32], isolineCalculationMode: IsolineCalculationMode, maxPoints: Int32?, isolineDirection: RoutePlaceDirection)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-isolinerangetype">IsolineRangeType</a>
+  - <a href="sdk-for-ios-explore-enums-isolinecalculationmode">IsolineCalculationMode</a>
+  - <a href="sdk-for-ios-explore-enums-routeplacedirection">RoutePlaceDirection</a>
 
   </div>
 

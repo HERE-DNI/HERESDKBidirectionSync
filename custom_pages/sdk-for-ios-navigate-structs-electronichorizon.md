@@ -31,7 +31,7 @@ Represents a snapshot of the horizon estimation at the moment the update was gen
 
 - <div>
 
-  ` `<span id="/s:7heresdk17ElectronicHorizonV5pathsSayAA0bC4PathVGvp"></span>` `<span id="//apple_ref/swift/Property/paths" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-electronichorizon#/s:7heresdk17ElectronicHorizonV5pathsSayAA0bC4PathVGvp" class="token"><code>paths</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk17ElectronicHorizonV5pathsSayAA0bC4PathVGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-paths" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-electronichorizon#sdk-for-ios-navigate-s-7heresdk17ElectronicHorizonV5pathsSayAA0bC4PathVGvp" class="token"><code>paths</code></a> 
 
   </div>
 
@@ -67,6 +67,10 @@ Represents a snapshot of the horizon estimation at the moment the update was gen
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-electronichorizonpath">ElectronicHorizonPath</a>
+
   </div>
 
   </div>
@@ -75,7 +79,7 @@ Represents a snapshot of the horizon estimation at the moment the update was gen
 
 - <div>
 
-      init(paths: )
+   <span id="sdk-for-ios-navigate-s-7heresdk17ElectronicHorizonV5pathsACSayAA0bC4PathVG_tcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-paths" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-electronichorizon#sdk-for-ios-navigate-s-7heresdk17ElectronicHorizonV5pathsACSayAA0bC4PathVG_tcfc" class="token"><code>init(paths:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -108,12 +112,14 @@ Represents a snapshot of the horizon estimation at the moment the update was gen
   Swift
 
   ``` highlight
-  public init ( paths : [ ElectronicHorizonPath ] = [])
+  public init(paths: [ElectronicHorizonPath] = [])
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-electronichorizonpath">ElectronicHorizonPath</a>
 
   </div>
 
@@ -123,7 +129,7 @@ Represents a snapshot of the horizon estimation at the moment the update was gen
 
 - <div>
 
-      mostPreferredPath()
+   <span id="sdk-for-ios-navigate-s-7heresdk17ElectronicHorizonV17mostPreferredPathAA0bcF0VSgyF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-mostPreferredPath" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-electronichorizon#sdk-for-ios-navigate-s-7heresdk17ElectronicHorizonV17mostPreferredPathAA0bcF0VSgyF" class="token"><code>mostPreferredPath()</code></a> 
 
   </div>
 
@@ -154,12 +160,14 @@ Represents a snapshot of the horizon estimation at the moment the update was gen
   Swift
 
   ``` highlight
-  public func mostPreferredPath () -> ElectronicHorizonPath ?
+  public func mostPreferredPath() -> ElectronicHorizonPath?
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-electronichorizonpath">ElectronicHorizonPath</a>
 
   </div>
 

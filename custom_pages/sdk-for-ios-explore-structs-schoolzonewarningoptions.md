@@ -27,7 +27,7 @@ School zone warning options. Set the options for configuring of school zone noti
 
 - <div>
 
-  ` `<span id="/s:7heresdk24SchoolZoneWarningOptionsV38filterOutInactiveTimeDependentWarningsSbvp"></span>` `<span id="//apple_ref/swift/Property/filterOutInactiveTimeDependentWarnings" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-schoolzonewarningoptions#/s:7heresdk24SchoolZoneWarningOptionsV38filterOutInactiveTimeDependentWarningsSbvp" class="token"><code>filterOutInactiveTimeDependentWarnings</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk24SchoolZoneWarningOptionsV38filterOutInactiveTimeDependentWarningsSbvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-filterOutInactiveTimeDependentWarnings" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-schoolzonewarningoptions#sdk-for-ios-explore-s-7heresdk24SchoolZoneWarningOptionsV38filterOutInactiveTimeDependentWarningsSbvp" class="token"><code>filterOutInactiveTimeDependentWarnings</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ School zone warning options. Set the options for configuring of school zone noti
 
 - <div>
 
-  ` `<span id="/s:7heresdk24SchoolZoneWarningOptionsV23warningDistanceInMeterss5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/warningDistanceInMeters" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-schoolzonewarningoptions#/s:7heresdk24SchoolZoneWarningOptionsV23warningDistanceInMeterss5Int32Vvp" class="token"><code>warningDistanceInMeters</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk24SchoolZoneWarningOptionsV23warningDistanceInMeterss5Int32Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-warningDistanceInMeters" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-schoolzonewarningoptions#sdk-for-ios-explore-s-7heresdk24SchoolZoneWarningOptionsV23warningDistanceInMeterss5Int32Vvp" class="token"><code>warningDistanceInMeters</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ School zone warning options. Set the options for configuring of school zone noti
 
 - <div>
 
-      init(filterOutInactiveTimeDependentWarnings: warningDistanceInMeters: )
+   <span id="sdk-for-ios-explore-s-7heresdk24SchoolZoneWarningOptionsV38filterOutInactiveTimeDependentWarnings23warningDistanceInMetersACSb_s5Int32Vtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-filterOutInactiveTimeDependentWarnings-warningDistanceInMeters" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-schoolzonewarningoptions#sdk-for-ios-explore-s-7heresdk24SchoolZoneWarningOptionsV38filterOutInactiveTimeDependentWarnings23warningDistanceInMetersACSb_s5Int32Vtcfc" class="token"><code>init(filterOutInactiveTimeDependentWarnings:</code><wbr></wbr><code>warningDistanceInMeters:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -146,10 +146,8 @@ School zone warning options. Set the options for configuring of school zone noti
   Swift
 
   ``` highlight
-  public init ( filterOutInactiveTimeDependentWarnings : Bool = false , warningDistanceInMeters : Int32 = 100 )
+  public init(filterOutInactiveTimeDependentWarnings: Bool = false, warningDistanceInMeters: Int32 = 100)
   ```
-
-  </pre>
 
   </div>
 

@@ -27,7 +27,7 @@ A struct to represent the toll point attributes of a segment.
 
 - <div>
 
-  ` `<span id="/s:7heresdk9TollPointV14offsetInMeterss5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/offsetInMeters" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-tollpoint#/s:7heresdk9TollPointV14offsetInMeterss5Int32Vvp" class="token"><code>offsetInMeters</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9TollPointV14offsetInMeterss5Int32Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-offsetInMeters" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-tollpoint#sdk-for-ios-navigate-s-7heresdk9TollPointV14offsetInMeterss5Int32Vvp" class="token"><code>offsetInMeters</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ A struct to represent the toll point attributes of a segment.
 
 - <div>
 
-  ` `<span id="/s:7heresdk9TollPointV18structureManeuversSayAA0B17StructureManeuverVGvp"></span>` `<span id="//apple_ref/swift/Property/structureManeuvers" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-tollpoint#/s:7heresdk9TollPointV18structureManeuversSayAA0B17StructureManeuverVGvp" class="token"><code>structureManeuvers</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9TollPointV18structureManeuversSayAA0B17StructureManeuverVGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-structureManeuvers" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-tollpoint#sdk-for-ios-navigate-s-7heresdk9TollPointV18structureManeuversSayAA0B17StructureManeuverVGvp" class="token"><code>structureManeuvers</code></a> 
 
   </div>
 
@@ -107,6 +107,10 @@ A struct to represent the toll point attributes of a segment.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-tollstructuremaneuver">TollStructureManeuver</a>
+
   </div>
 
   </div>
@@ -115,7 +119,7 @@ A struct to represent the toll point attributes of a segment.
 
 - <div>
 
-      init(offsetInMeters: structureManeuvers: )
+   <span id="sdk-for-ios-navigate-s-7heresdk9TollPointV14offsetInMeters18structureManeuversACs5Int32V_SayAA0B17StructureManeuverVGtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-offsetInMeters-structureManeuvers" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-tollpoint#sdk-for-ios-navigate-s-7heresdk9TollPointV14offsetInMeters18structureManeuversACs5Int32V_SayAA0B17StructureManeuverVGtcfc" class="token"><code>init(offsetInMeters:</code><wbr></wbr><code>structureManeuvers:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -146,12 +150,14 @@ A struct to represent the toll point attributes of a segment.
   Swift
 
   ``` highlight
-  public init ( offsetInMeters : Int32 , structureManeuvers : [ TollStructureManeuver ])
+  public init(offsetInMeters: Int32, structureManeuvers: [TollStructureManeuver])
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-tollstructuremaneuver">TollStructureManeuver</a>
 
   </div>
 

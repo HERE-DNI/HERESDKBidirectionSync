@@ -29,7 +29,7 @@ A catalog is a storage-representation to store map data on the HERE platform. Th
 
 - <div>
 
-  ` `<span id="/s:7heresdk17CatalogIdentifierV3hrnSSvp"></span>` `<span id="//apple_ref/swift/Property/hrn" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-catalogidentifier#/s:7heresdk17CatalogIdentifierV3hrnSSvp" class="token"><code>hrn</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17CatalogIdentifierV3hrnSSvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-hrn" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-catalogidentifier#sdk-for-ios-explore-s-7heresdk17CatalogIdentifierV3hrnSSvp" class="token"><code>hrn</code></a> 
 
   </div>
 
@@ -47,12 +47,7 @@ A catalog is a storage-representation to store map data on the HERE platform. Th
 
   <div class="abstract">
 
-  A HERE Resource Name (HRN) for this catalog. This is a unique string returned by the HERE platform when you add a new catalog to your project. For information about catalog creation process refer to <a href="https://www.here.com/docs/bundle/data-api-developer-guide/page/rest/creating-a-catalog.html">the Data API</a> By default, this field points to a default catalog on HERE platform, which contains data for the whole world excluding the region of Japan. Use
-
-      CatalogConfiguration.getDefault(...)
-
-  to get the default HRN value for use with the HERE platform.
-  </p>
+  A HERE Resource Name (HRN) for this catalog. This is a unique string returned by the HERE platform when you add a new catalog to your project. For information about catalog creation process refer to <a href="https://www.here.com/docs/bundle/data-api-developer-guide/page/rest/creating-a-catalog.html">the Data API</a> By default, this field points to a default catalog on HERE platform, which contains data for the whole world excluding the region of Japan. Use <a href="sdk-for-ios-explore-structs-catalogconfiguration#sdk-for-ios-explore-s-7heresdk20CatalogConfigurationV10getDefault11catalogTypeAcA0bG0O_tFZ">`CatalogConfiguration.getDefault(...)`</a> to get the default HRN value for use with the HERE platform.
 
   </div>
 
@@ -78,7 +73,7 @@ A catalog is a storage-representation to store map data on the HERE platform. Th
 
 - <div>
 
-  ` `<span id="/s:7heresdk17CatalogIdentifierV7versions5Int64VSgvp"></span>` `<span id="//apple_ref/swift/Property/version" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-catalogidentifier#/s:7heresdk17CatalogIdentifierV7versions5Int64VSgvp" class="token"><code>version</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17CatalogIdentifierV7versions5Int64VSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-version" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-catalogidentifier#sdk-for-ios-explore-s-7heresdk17CatalogIdentifierV7versions5Int64VSgvp" class="token"><code>version</code></a> 
 
   </div>
 
@@ -98,23 +93,9 @@ A catalog is a storage-representation to store map data on the HERE platform. Th
 
   A version number for a catalog. When accessing a catalog, this version must be specified. Set `nil` to automatically get the latest version for a catalog. The field defaults to `nil`. Since the data inside a catalog can be updated, each published modification needs to correlate to a specific version number. Note: when `CatalogIdentifier` created with <a href="sdk-for-ios-explore-structs-desiredcatalog">`DesiredCatalog`</a> then:
 
-  - numerical `-1` corresponds to
-
-        CatalogVersionHint.latest(...)
-
-    with `ignoreCachedData` set to `true`;
-
-  - `nil` corresponds to
-
-        CatalogVersionHint.latest(...)
-
-    with `ignoreCachedData` set to `false`;
-
-  - other numerical values correspond to `version` passed to
-
-        CatalogVersionHint.specific(...)
-
-    .
+  - numerical `-1` corresponds to <a href="sdk-for-ios-explore-classes-catalogversionhint#sdk-for-ios-explore-s-7heresdk18CatalogVersionHintC6latest16ignoreCachedDataACSb_tFZ">`CatalogVersionHint.latest(...)`</a> with `ignoreCachedData` set to `true`;
+  - `nil` corresponds to <a href="sdk-for-ios-explore-classes-catalogversionhint#sdk-for-ios-explore-s-7heresdk18CatalogVersionHintC6latest16ignoreCachedDataACSb_tFZ">`CatalogVersionHint.latest(...)`</a> with `ignoreCachedData` set to `false`;
+  - other numerical values correspond to `version` passed to <a href="sdk-for-ios-explore-classes-catalogversionhint#sdk-for-ios-explore-s-7heresdk18CatalogVersionHintC8specific7versionACs5Int64V_tFZ">`CatalogVersionHint.specific(...)`</a>.
 
   </div>
 
@@ -140,7 +121,7 @@ A catalog is a storage-representation to store map data on the HERE platform. Th
 
 - <div>
 
-      init(hrn: version: )
+   <span id="sdk-for-ios-explore-s-7heresdk17CatalogIdentifierV3hrn7versionACSS_s5Int64VSgtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-hrn-version" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-catalogidentifier#sdk-for-ios-explore-s-7heresdk17CatalogIdentifierV3hrn7versionACSS_s5Int64VSgtcfc" class="token"><code>init(hrn:</code><wbr></wbr><code>version:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -171,10 +152,8 @@ A catalog is a storage-representation to store map data on the HERE platform. Th
   Swift
 
   ``` highlight
-  public init ( hrn : String = "hrn:here:data::olp-here:ocm" , version : Int64 ? = nil )
+  public init(hrn: String = "hrn:here:data::olp-here:ocm", version: Int64? = nil)
   ```
-
-  </pre>
 
   </div>
 

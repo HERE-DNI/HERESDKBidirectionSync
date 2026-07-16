@@ -27,7 +27,7 @@ The location information.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10RoutePlaceV4typeAA0bC4TypeOvp"></span>` `<span id="//apple_ref/swift/Property/type" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-routeplace#/s:7heresdk10RoutePlaceV4typeAA0bC4TypeOvp" class="token"><code>type</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10RoutePlaceV4typeAA0bC4TypeOvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-type" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-routeplace#sdk-for-ios-navigate-s-7heresdk10RoutePlaceV4typeAA0bC4TypeOvp" class="token"><code>type</code></a> 
 
   </div>
 
@@ -63,6 +63,10 @@ The location information.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-routeplacetype">RoutePlaceType</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ The location information.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10RoutePlaceV13waypointIndexs5Int32VSgvp"></span>` `<span id="//apple_ref/swift/Property/waypointIndex" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-routeplace#/s:7heresdk10RoutePlaceV13waypointIndexs5Int32VSgvp" class="token"><code>waypointIndex</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10RoutePlaceV13waypointIndexs5Int32VSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-waypointIndex" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-routeplace#sdk-for-ios-navigate-s-7heresdk10RoutePlaceV13waypointIndexs5Int32VSgvp" class="token"><code>waypointIndex</code></a> 
 
   </div>
 
@@ -115,7 +119,7 @@ The location information.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10RoutePlaceV19originalCoordinatesAA03GeoE0VSgvp"></span>` `<span id="//apple_ref/swift/Property/originalCoordinates" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-routeplace#/s:7heresdk10RoutePlaceV19originalCoordinatesAA03GeoE0VSgvp" class="token"><code>originalCoordinates</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10RoutePlaceV19originalCoordinatesAA03GeoE0VSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-originalCoordinates" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-routeplace#sdk-for-ios-navigate-s-7heresdk10RoutePlaceV19originalCoordinatesAA03GeoE0VSgvp" class="token"><code>originalCoordinates</code></a> 
 
   </div>
 
@@ -151,6 +155,10 @@ The location information.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-geocoordinates">GeoCoordinates</a>
+
   </div>
 
   </div>
@@ -159,7 +167,7 @@ The location information.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10RoutePlaceV21mapMatchedCoordinatesAA03GeoF0Vvp"></span>` `<span id="//apple_ref/swift/Property/mapMatchedCoordinates" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-routeplace#/s:7heresdk10RoutePlaceV21mapMatchedCoordinatesAA03GeoF0Vvp" class="token"><code>mapMatchedCoordinates</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10RoutePlaceV21mapMatchedCoordinatesAA03GeoF0Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-mapMatchedCoordinates" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-routeplace#sdk-for-ios-navigate-s-7heresdk10RoutePlaceV21mapMatchedCoordinatesAA03GeoF0Vvp" class="token"><code>mapMatchedCoordinates</code></a> 
 
   </div>
 
@@ -195,6 +203,10 @@ The location information.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-geocoordinates">GeoCoordinates</a>
+
   </div>
 
   </div>
@@ -203,7 +215,7 @@ The location information.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10RoutePlaceV18displayCoordinatesAA03GeoE0VSgvp"></span>` `<span id="//apple_ref/swift/Property/displayCoordinates" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-routeplace#/s:7heresdk10RoutePlaceV18displayCoordinatesAA03GeoE0VSgvp" class="token"><code>displayCoordinates</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10RoutePlaceV18displayCoordinatesAA03GeoE0VSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-displayCoordinates" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-routeplace#sdk-for-ios-navigate-s-7heresdk10RoutePlaceV18displayCoordinatesAA03GeoE0VSgvp" class="token"><code>displayCoordinates</code></a> 
 
   </div>
 
@@ -239,6 +251,10 @@ The location information.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-geocoordinates">GeoCoordinates</a>
+
   </div>
 
   </div>
@@ -247,7 +263,7 @@ The location information.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10RoutePlaceV21chargeInKilowattHoursSdSgvp"></span>` `<span id="//apple_ref/swift/Property/chargeInKilowattHours" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-routeplace#/s:7heresdk10RoutePlaceV21chargeInKilowattHoursSdSgvp" class="token"><code>chargeInKilowattHours</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10RoutePlaceV21chargeInKilowattHoursSdSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-chargeInKilowattHours" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-routeplace#sdk-for-ios-navigate-s-7heresdk10RoutePlaceV21chargeInKilowattHoursSdSgvp" class="token"><code>chargeInKilowattHours</code></a> 
 
   </div>
 
@@ -265,7 +281,7 @@ The location information.
 
   <div class="abstract">
 
-  Estimated battery charge in kWh for electric vehicles when leaving this place. Available only if the route was calculated with <a href="sdk-for-ios-navigate-structs-electricvehicleoptions#/s:7heresdk22ElectricVehicleOptionsV18ensureReachabilitySbvp">`ElectricVehicleOptions.ensureReachability`</a> = `true`.
+  Estimated battery charge in kWh for electric vehicles when leaving this place. Available only if the route was calculated with <a href="sdk-for-ios-navigate-structs-electricvehicleoptions#sdk-for-ios-navigate-s-7heresdk22ElectricVehicleOptionsV18ensureReachabilitySbvp">`ElectricVehicleOptions.ensureReachability`</a> = `true`.
 
   </div>
 
@@ -291,7 +307,7 @@ The location information.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10RoutePlaceV15chargingStationAA08ChargingE0VSgvp"></span>` `<span id="//apple_ref/swift/Property/chargingStation" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-routeplace#/s:7heresdk10RoutePlaceV15chargingStationAA08ChargingE0VSgvp" class="token"><code>chargingStation</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10RoutePlaceV15chargingStationAA08ChargingE0VSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-chargingStation" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-routeplace#sdk-for-ios-navigate-s-7heresdk10RoutePlaceV15chargingStationAA08ChargingE0VSgvp" class="token"><code>chargingStation</code></a> 
 
   </div>
 
@@ -327,6 +343,10 @@ The location information.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-chargingstation">ChargingStation</a>
+
   </div>
 
   </div>
@@ -335,7 +355,7 @@ The location information.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10RoutePlaceV4nameSSSgvp"></span>` `<span id="//apple_ref/swift/Property/name" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-routeplace#/s:7heresdk10RoutePlaceV4nameSSSgvp" class="token"><code>name</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10RoutePlaceV4nameSSSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-name" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-routeplace#sdk-for-ios-navigate-s-7heresdk10RoutePlaceV4nameSSSgvp" class="token"><code>name</code></a> 
 
   </div>
 
@@ -379,7 +399,7 @@ The location information.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10RoutePlaceV2idSSSgvp"></span>` `<span id="//apple_ref/swift/Property/id" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-routeplace#/s:7heresdk10RoutePlaceV2idSSSgvp" class="token"><code>id</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10RoutePlaceV2idSSSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-id" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-routeplace#sdk-for-ios-navigate-s-7heresdk10RoutePlaceV2idSSSgvp" class="token"><code>id</code></a> 
 
   </div>
 
@@ -423,7 +443,7 @@ The location information.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10RoutePlaceV8platformSSSgvp"></span>` `<span id="//apple_ref/swift/Property/platform" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-routeplace#/s:7heresdk10RoutePlaceV8platformSSSgvp" class="token"><code>platform</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10RoutePlaceV8platformSSSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-platform" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-routeplace#sdk-for-ios-navigate-s-7heresdk10RoutePlaceV8platformSSSgvp" class="token"><code>platform</code></a> 
 
   </div>
 
@@ -467,7 +487,7 @@ The location information.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10RoutePlaceV17sideOfDestinationAA04SideeF0OSgvp"></span>` `<span id="//apple_ref/swift/Property/sideOfDestination" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-routeplace#/s:7heresdk10RoutePlaceV17sideOfDestinationAA04SideeF0OSgvp" class="token"><code>sideOfDestination</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10RoutePlaceV17sideOfDestinationAA04SideeF0OSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-sideOfDestination" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-routeplace#sdk-for-ios-navigate-s-7heresdk10RoutePlaceV17sideOfDestinationAA04SideeF0OSgvp" class="token"><code>sideOfDestination</code></a> 
 
   </div>
 
@@ -485,7 +505,7 @@ The location information.
 
   <div class="abstract">
 
-  Side of destination: left, right or undefined. `nil` for transit sections and for origin points. `UNDEFINED` if <a href="sdk-for-ios-navigate-structs-routeplace#/s:7heresdk10RoutePlaceV19originalCoordinatesAA03GeoE0VSgvp">`originalCoordinates`</a> are not identified or too close to the road.
+  Side of destination: left, right or undefined. `nil` for transit sections and for origin points. `UNDEFINED` if <a href="sdk-for-ios-navigate-structs-routeplace#sdk-for-ios-navigate-s-7heresdk10RoutePlaceV19originalCoordinatesAA03GeoE0VSgvp">`originalCoordinates`</a> are not identified or too close to the road.
 
   </div>
 
@@ -503,6 +523,10 @@ The location information.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-sideofdestination">SideOfDestination</a>
+
   </div>
 
   </div>
@@ -511,7 +535,7 @@ The location information.
 
 - <div>
 
-      isOffRoad()
+   <span id="sdk-for-ios-navigate-s-7heresdk10RoutePlaceV9isOffRoadSbyF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-isOffRoad" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-routeplace#sdk-for-ios-navigate-s-7heresdk10RoutePlaceV9isOffRoadSbyF" class="token"><code>isOffRoad()</code></a> 
 
   </div>
 
@@ -542,10 +566,8 @@ The location information.
   Swift
 
   ``` highlight
-  public func isOffRoad () -> Bool
+  public func isOffRoad() -> Bool
   ```
-
-  </pre>
 
   </div>
 

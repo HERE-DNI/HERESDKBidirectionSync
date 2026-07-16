@@ -27,7 +27,7 @@ This class provides all the information for a spatial text notification, includi
 
 - <div>
 
-  ` `<span id="/s:7heresdk26SpatialNotificationDetailsV23initialAzimuthInDegreesSdvp"></span>` `<span id="//apple_ref/swift/Property/initialAzimuthInDegrees" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-spatialnotificationdetails#/s:7heresdk26SpatialNotificationDetailsV23initialAzimuthInDegreesSdvp" class="token"><code>initialAzimuthInDegrees</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk26SpatialNotificationDetailsV23initialAzimuthInDegreesSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-initialAzimuthInDegrees" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-spatialnotificationdetails#sdk-for-ios-navigate-s-7heresdk26SpatialNotificationDetailsV23initialAzimuthInDegreesSdvp" class="token"><code>initialAzimuthInDegrees</code></a> 
 
   </div>
 
@@ -75,7 +75,7 @@ This class provides all the information for a spatial text notification, includi
 
 - <div>
 
-  ` `<span id="/s:7heresdk26SpatialNotificationDetailsV15audioCuePanningAA0b5AudiofG0Cvp"></span>` `<span id="//apple_ref/swift/Property/audioCuePanning" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-spatialnotificationdetails#/s:7heresdk26SpatialNotificationDetailsV15audioCuePanningAA0b5AudiofG0Cvp" class="token"><code>audioCuePanning</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk26SpatialNotificationDetailsV15audioCuePanningAA0b5AudiofG0Cvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-audioCuePanning" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-spatialnotificationdetails#sdk-for-ios-navigate-s-7heresdk26SpatialNotificationDetailsV15audioCuePanningAA0b5AudiofG0Cvp" class="token"><code>audioCuePanning</code></a> 
 
   </div>
 
@@ -111,6 +111,10 @@ This class provides all the information for a spatial text notification, includi
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-spatialaudiocuepanning">SpatialAudioCuePanning</a>
+
   </div>
 
   </div>
@@ -119,7 +123,7 @@ This class provides all the information for a spatial text notification, includi
 
 - <div>
 
-  ` `<span id="/s:7heresdk26SpatialNotificationDetailsV25estimatedAudioCueDurationSdvp"></span>` `<span id="//apple_ref/swift/Property/estimatedAudioCueDuration" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-spatialnotificationdetails#/s:7heresdk26SpatialNotificationDetailsV25estimatedAudioCueDurationSdvp" class="token"><code>estimatedAudioCueDuration</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk26SpatialNotificationDetailsV25estimatedAudioCueDurationSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-estimatedAudioCueDuration" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-spatialnotificationdetails#sdk-for-ios-navigate-s-7heresdk26SpatialNotificationDetailsV25estimatedAudioCueDurationSdvp" class="token"><code>estimatedAudioCueDuration</code></a> 
 
   </div>
 
@@ -163,7 +167,7 @@ This class provides all the information for a spatial text notification, includi
 
 - <div>
 
-      init(initialAzimuthInDegrees: audioCuePanning: estimatedAudioCueDuration: )
+   <span id="sdk-for-ios-navigate-s-7heresdk26SpatialNotificationDetailsV23initialAzimuthInDegrees15audioCuePanning014estimatedAudioJ8DurationACSd_AA0bmjK0CSdtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-initialAzimuthInDegrees-audioCuePanning-estimatedAudioCueDuration" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-spatialnotificationdetails#sdk-for-ios-navigate-s-7heresdk26SpatialNotificationDetailsV23initialAzimuthInDegrees15audioCuePanning014estimatedAudioJ8DurationACSd_AA0bmjK0CSdtcfc" class="token"><code>init(initialAzimuthInDegrees:</code><wbr></wbr><code>audioCuePanning:</code><wbr></wbr><code>estimatedAudioCueDuration:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -185,7 +189,7 @@ This class provides all the information for a spatial text notification, includi
 
   - Parameters
 
-    - initialAzimuthInDegrees: Initial desired angular position of the upcoming audio cue. For example, for a maneuver such as “Turn right on” (`ManeuverAction.RightTurn`) we want to create a spatial audio arc trajectory from the front to the right, mimicking the maneuver geometry. In this case, it is good practice to start the trajectory from an initial azimuth that is located slightly on the opposite direction of the maneuver (e.g. slightly starting from “front-left”) and terminate the trajectory fully on the right side. The initial azimuth angle of such a trajectory would be, for example, -5.0 (slightly front-left). This azimuth value is needed to set the position of the audio renderer before starting to play the audio cue to avoid unwanted audio “jumps”. The orientation in space for <a href="sdk-for-ios-navigate-structs-spatialnotificationdetails#/s:7heresdk26SpatialNotificationDetailsV23initialAzimuthInDegreesSdvp">`SpatialNotificationDetails.initialAzimuthInDegrees`</a> can be represented by the following angular values:
+    - initialAzimuthInDegrees: Initial desired angular position of the upcoming audio cue. For example, for a maneuver such as “Turn right on” (`ManeuverAction.RightTurn`) we want to create a spatial audio arc trajectory from the front to the right, mimicking the maneuver geometry. In this case, it is good practice to start the trajectory from an initial azimuth that is located slightly on the opposite direction of the maneuver (e.g. slightly starting from “front-left”) and terminate the trajectory fully on the right side. The initial azimuth angle of such a trajectory would be, for example, -5.0 (slightly front-left). This azimuth value is needed to set the position of the audio renderer before starting to play the audio cue to avoid unwanted audio “jumps”. The orientation in space for <a href="sdk-for-ios-navigate-structs-spatialnotificationdetails#sdk-for-ios-navigate-s-7heresdk26SpatialNotificationDetailsV23initialAzimuthInDegreesSdvp">`SpatialNotificationDetails.initialAzimuthInDegrees`</a> can be represented by the following angular values:
 
     \| Front \| Right \| Rear \| Left \| \|:—-:\|:—-:\|:—-:\|:—-:\| \| 0° \| +90° \| +- 180 \| -90° \|
 
@@ -203,12 +207,14 @@ This class provides all the information for a spatial text notification, includi
   Swift
 
   ``` highlight
-  public init ( initialAzimuthInDegrees : Double , audioCuePanning : SpatialAudioCuePanning , estimatedAudioCueDuration : TimeInterval )
+  public init(initialAzimuthInDegrees: Double, audioCuePanning: SpatialAudioCuePanning, estimatedAudioCueDuration: TimeInterval)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-spatialaudiocuepanning">SpatialAudioCuePanning</a>
 
   </div>
 

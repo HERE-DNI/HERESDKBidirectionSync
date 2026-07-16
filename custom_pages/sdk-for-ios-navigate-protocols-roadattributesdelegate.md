@@ -27,7 +27,7 @@ This protocol should be implemented in order to receive attributes of the curren
 
 - <div>
 
-      onRoadAttributesUpdated(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk22RoadAttributesDelegateP02onbC7UpdatedyyAA0bC0VF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-onRoadAttributesUpdated-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-protocols-roadattributesdelegate#sdk-for-ios-navigate-s-7heresdk22RoadAttributesDelegateP02onbC7UpdatedyyAA0bC0VF" class="token"><code>onRoadAttributesUpdated(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -58,12 +58,14 @@ This protocol should be implemented in order to receive attributes of the curren
   Swift
 
   ``` highlight
-  func onRoadAttributesUpdated ( _ roadAttributes : RoadAttributes )
+  func onRoadAttributesUpdated(_ roadAttributes: RoadAttributes)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-roadattributes">RoadAttributes</a>
 
   </div>
 

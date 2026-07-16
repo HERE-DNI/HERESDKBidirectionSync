@@ -31,16 +31,7 @@ The image to be displayed is represented by a <a href="sdk-for-ios-navigate-clas
 
 The resulting viewport area covered by the overlay is computed out of the overlay’s view coordinate, the anchor point and the image size. The overlay subareas that fall outside of the map viewport get clipped.
 
-To display the map overlay, it needs to be added to the scene using
-
-    MapScene.addMapImageOverlay(...)
-
-. To stop displaying it, remove it from the scene using
-
-    MapScene.removeMapImageOverlay(...)
-
-.
-</p>
+To display the map overlay, it needs to be added to the scene using <a href="sdk-for-ios-navigate-classes-mapscene#sdk-for-ios-navigate-s-7heresdk8MapSceneC03addB12ImageOverlayyyAA0beF0CF">`MapScene.addMapImageOverlay(...)`</a>. To stop displaying it, remove it from the scene using <a href="sdk-for-ios-navigate-classes-mapscene#sdk-for-ios-navigate-s-7heresdk8MapSceneC06removeB12ImageOverlayyyAA0beF0CF">`MapScene.removeMapImageOverlay(...)`</a>.
 
 </div>
 
@@ -50,7 +41,7 @@ To display the map overlay, it needs to be added to the scene using
 
 - <div>
 
-      init(at: image: )
+   <span id="sdk-for-ios-navigate-s-7heresdk15MapImageOverlayC2at5imageAcA7Point2DV_AA0bC0Ctcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-at-image" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapimageoverlay#sdk-for-ios-navigate-s-7heresdk15MapImageOverlayC2at5imageAcA7Point2DV_AA0bC0Ctcfc" class="token"><code>init(at:</code><wbr></wbr><code>image:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -81,12 +72,15 @@ To display the map overlay, it needs to be added to the scene using
   Swift
 
   ``` highlight
-  public init ( at viewCoordinates : Point2D , image : MapImage )
+  public init(at viewCoordinates: Point2D, image: MapImage)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-point2d">Point2D</a>
+  - <a href="sdk-for-ios-navigate-classes-mapimage">MapImage</a>
 
   </div>
 
@@ -123,7 +117,7 @@ To display the map overlay, it needs to be added to the scene using
 
 - <div>
 
-      init(at: image: anchor: )
+   <span id="sdk-for-ios-navigate-s-7heresdk15MapImageOverlayC2at5image6anchorAcA7Point2DV_AA0bC0CAA8Anchor2DVtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-at-image-anchor" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapimageoverlay#sdk-for-ios-navigate-s-7heresdk15MapImageOverlayC2at5image6anchorAcA7Point2DV_AA0bC0CAA8Anchor2DVtcfc" class="token"><code>init(at:</code><wbr></wbr><code>image:</code><wbr></wbr><code>anchor:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -158,12 +152,16 @@ To display the map overlay, it needs to be added to the scene using
   Swift
 
   ``` highlight
-  public init ( at viewCoordinates : Point2D , image : MapImage , anchor : Anchor2D )
+  public init(at viewCoordinates: Point2D, image: MapImage, anchor: Anchor2D)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-point2d">Point2D</a>
+  - <a href="sdk-for-ios-navigate-classes-mapimage">MapImage</a>
+  - <a href="sdk-for-ios-navigate-structs-anchor2d">Anchor2D</a>
 
   </div>
 
@@ -206,7 +204,7 @@ To display the map overlay, it needs to be added to the scene using
 
 - <div>
 
-  ` `<span id="/s:7heresdk15MapImageOverlayC15viewCoordinatesAA7Point2DVvp"></span>` `<span id="//apple_ref/swift/Property/viewCoordinates" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapimageoverlay#/s:7heresdk15MapImageOverlayC15viewCoordinatesAA7Point2DVvp" class="token"><code>viewCoordinates</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15MapImageOverlayC15viewCoordinatesAA7Point2DVvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-viewCoordinates" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapimageoverlay#sdk-for-ios-navigate-s-7heresdk15MapImageOverlayC15viewCoordinatesAA7Point2DVvp" class="token"><code>viewCoordinates</code></a> 
 
   </div>
 
@@ -242,6 +240,10 @@ To display the map overlay, it needs to be added to the scene using
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-point2d">Point2D</a>
+
   </div>
 
   </div>
@@ -250,7 +252,7 @@ To display the map overlay, it needs to be added to the scene using
 
 - <div>
 
-  ` `<span id="/s:7heresdk15MapImageOverlayC9drawOrders5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/drawOrder" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapimageoverlay#/s:7heresdk15MapImageOverlayC9drawOrders5Int32Vvp" class="token"><code>drawOrder</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15MapImageOverlayC9drawOrders5Int32Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-drawOrder" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapimageoverlay#sdk-for-ios-navigate-s-7heresdk15MapImageOverlayC9drawOrders5Int32Vvp" class="token"><code>drawOrder</code></a> 
 
   </div>
 
@@ -298,7 +300,7 @@ To display the map overlay, it needs to be added to the scene using
 
 - <div>
 
-  ` `<span id="/s:7heresdk15MapImageOverlayC5imageAA0bC0Cvp"></span>` `<span id="//apple_ref/swift/Property/image" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapimageoverlay#/s:7heresdk15MapImageOverlayC5imageAA0bC0Cvp" class="token"><code>image</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15MapImageOverlayC5imageAA0bC0Cvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-image" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapimageoverlay#sdk-for-ios-navigate-s-7heresdk15MapImageOverlayC5imageAA0bC0Cvp" class="token"><code>image</code></a> 
 
   </div>
 
@@ -334,6 +336,10 @@ To display the map overlay, it needs to be added to the scene using
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mapimage">MapImage</a>
+
   </div>
 
   </div>
@@ -342,7 +348,7 @@ To display the map overlay, it needs to be added to the scene using
 
 - <div>
 
-  ` `<span id="/s:7heresdk15MapImageOverlayC6anchorAA8Anchor2DVvp"></span>` `<span id="//apple_ref/swift/Property/anchor" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapimageoverlay#/s:7heresdk15MapImageOverlayC6anchorAA8Anchor2DVvp" class="token"><code>anchor</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15MapImageOverlayC6anchorAA8Anchor2DVvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-anchor" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapimageoverlay#sdk-for-ios-navigate-s-7heresdk15MapImageOverlayC6anchorAA8Anchor2DVvp" class="token"><code>anchor</code></a> 
 
   </div>
 
@@ -379,6 +385,10 @@ To display the map overlay, it needs to be added to the scene using
   ```
 
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-anchor2d">Anchor2D</a>
 
   </div>
 

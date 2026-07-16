@@ -27,7 +27,7 @@ This protocol should be implemented in order to receive notifications from this 
 
 - <div>
 
-      onOffRoadDestinationReached()
+   <span id="sdk-for-ios-navigate-s-7heresdk33OffRoadDestinationReachedDelegateP02onbcdE0yyF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-onOffRoadDestinationReached" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-protocols-offroaddestinationreacheddelegate#sdk-for-ios-navigate-s-7heresdk33OffRoadDestinationReachedDelegateP02onbcdE0yyF" class="token"><code>onOffRoadDestinationReached()</code></a> 
 
   </div>
 
@@ -58,10 +58,8 @@ This protocol should be implemented in order to receive notifications from this 
   Swift
 
   ``` highlight
-  func onOffRoadDestinationReached ()
+  func onOffRoadDestinationReached()
   ```
-
-  </pre>
 
   </div>
 

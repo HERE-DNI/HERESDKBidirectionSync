@@ -27,7 +27,7 @@ The filter options to specify a place. Consists of fuel, truck and EV options.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11PlaceFilterV9fuelTypesSayAA8FuelTypeOGvp"></span>` `<span id="//apple_ref/swift/Property/fuelTypes" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-placefilter#/s:7heresdk11PlaceFilterV9fuelTypesSayAA8FuelTypeOGvp" class="token"><code>fuelTypes</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11PlaceFilterV9fuelTypesSayAA8FuelTypeOGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-fuelTypes" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-placefilter#sdk-for-ios-navigate-s-7heresdk11PlaceFilterV9fuelTypesSayAA8FuelTypeOGvp" class="token"><code>fuelTypes</code></a> 
 
   </div>
 
@@ -65,6 +65,10 @@ The filter options to specify a place. Consists of fuel, truck and EV options.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-fueltype">FuelType</a>
+
   </div>
 
   </div>
@@ -73,7 +77,7 @@ The filter options to specify a place. Consists of fuel, truck and EV options.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11PlaceFilterV14truckFuelTypesSayAA05TruckE4TypeOGvp"></span>` `<span id="//apple_ref/swift/Property/truckFuelTypes" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-placefilter#/s:7heresdk11PlaceFilterV14truckFuelTypesSayAA05TruckE4TypeOGvp" class="token"><code>truckFuelTypes</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11PlaceFilterV14truckFuelTypesSayAA05TruckE4TypeOGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-truckFuelTypes" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-placefilter#sdk-for-ios-navigate-s-7heresdk11PlaceFilterV14truckFuelTypesSayAA05TruckE4TypeOGvp" class="token"><code>truckFuelTypes</code></a> 
 
   </div>
 
@@ -111,6 +115,10 @@ The filter options to specify a place. Consists of fuel, truck and EV options.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-truckfueltype">TruckFuelType</a>
+
   </div>
 
   </div>
@@ -119,7 +127,7 @@ The filter options to specify a place. Consists of fuel, truck and EV options.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11PlaceFilterV10truckClassAA05TruckE0OSgvp"></span>` `<span id="//apple_ref/swift/Property/truckClass" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-placefilter#/s:7heresdk11PlaceFilterV10truckClassAA05TruckE0OSgvp" class="token"><code>truckClass</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11PlaceFilterV10truckClassAA05TruckE0OSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-truckClass" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-placefilter#sdk-for-ios-navigate-s-7heresdk11PlaceFilterV10truckClassAA05TruckE0OSgvp" class="token"><code>truckClass</code></a> 
 
   </div>
 
@@ -137,7 +145,7 @@ The filter options to specify a place. Consists of fuel, truck and EV options.
 
   <div class="abstract">
 
-  Should be used to find only the <a href="sdk-for-ios-navigate-structs-fuelstation">`FuelStation`</a> search results with minimum supported <a href="sdk-for-ios-navigate-enums-truckclass">`TruckClass`</a>. This filter is only available to use with the <a href="sdk-for-ios-navigate-classes-searchengine">`SearchEngine`</a>. The <a href="sdk-for-ios-navigate-classes-offlinesearchengine">`OfflineSearchEngine`</a> (only available for the Navigate license) does not apply this filter. <a href="sdk-for-ios-navigate-enums-truckclass#/s:7heresdk10TruckClassO05lightC0yA2CmF">`TruckClass.lightClass`</a> is not accepted in the filter. Otherwise will result in <a href="sdk-for-ios-navigate-enums-searcherror#/s:7heresdk11SearchErrorO17invalidTruckClassyA2CmF">`SearchError.invalidTruckClass`</a>.
+  Should be used to find only the <a href="sdk-for-ios-navigate-structs-fuelstation">`FuelStation`</a> search results with minimum supported <a href="sdk-for-ios-navigate-enums-truckclass">`TruckClass`</a>. This filter is only available to use with the <a href="sdk-for-ios-navigate-classes-searchengine">`SearchEngine`</a>. The <a href="sdk-for-ios-navigate-classes-offlinesearchengine">`OfflineSearchEngine`</a> (only available for the Navigate license) does not apply this filter. <a href="sdk-for-ios-navigate-enums-truckclass#sdk-for-ios-navigate-s-7heresdk10TruckClassO05lightC0yA2CmF">`TruckClass.lightClass`</a> is not accepted in the filter. Otherwise will result in <a href="sdk-for-ios-navigate-enums-searcherror#sdk-for-ios-navigate-s-7heresdk11SearchErrorO17invalidTruckClassyA2CmF">`SearchError.invalidTruckClass`</a>.
 
   **Note:** This is a beta release of this feature, so there could be a few bugs and unexpected behaviors. Related APIs may change for new releases without a deprecation process.
 
@@ -157,6 +165,10 @@ The filter options to specify a place. Consists of fuel, truck and EV options.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-truckclass">TruckClass</a>
+
   </div>
 
   </div>
@@ -165,7 +177,7 @@ The filter options to specify a place. Consists of fuel, truck and EV options.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11PlaceFilterV2evAC2EvVvp"></span>` `<span id="//apple_ref/swift/Property/ev" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-placefilter#/s:7heresdk11PlaceFilterV2evAC2EvVvp" class="token"><code>ev</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11PlaceFilterV2evAC2EvVvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-ev" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-placefilter#sdk-for-ios-navigate-s-7heresdk11PlaceFilterV2evAC2EvVvp" class="token"><code>ev</code></a> 
 
   </div>
 
@@ -201,6 +213,10 @@ The filter options to specify a place. Consists of fuel, truck and EV options.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-placefilter-ev">Ev</a>
+
   </div>
 
   </div>
@@ -209,7 +225,7 @@ The filter options to specify a place. Consists of fuel, truck and EV options.
 
 - <div>
 
-      init(fuelTypes: truckFuelTypes: truckClass: ev: )
+   <span id="sdk-for-ios-navigate-s-7heresdk11PlaceFilterV9fuelTypes09truckFuelE00F5Class2evACSayAA0G4TypeOG_SayAA05TruckgJ0OGAA0kH0OSgAC2EvVtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-fuelTypes-truckFuelTypes-truckClass-ev" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-placefilter#sdk-for-ios-navigate-s-7heresdk11PlaceFilterV9fuelTypes09truckFuelE00F5Class2evACSayAA0G4TypeOG_SayAA05TruckgJ0OGAA0kH0OSgAC2EvVtcfc" class="token"><code>init(fuelTypes:</code><wbr></wbr><code>truckFuelTypes:</code><wbr></wbr><code>truckClass:</code><wbr></wbr><code>ev:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -239,7 +255,7 @@ The filter options to specify a place. Consists of fuel, truck and EV options.
 
     **Note:** This is a beta release of this feature, so there could be a few bugs and unexpected behaviors. Related APIs may change for new releases without a deprecation process.
 
-    - truckClass: Should be used to find only the <a href="sdk-for-ios-navigate-structs-fuelstation">`FuelStation`</a> search results with minimum supported <a href="sdk-for-ios-navigate-enums-truckclass">`TruckClass`</a>. This filter is only available to use with the <a href="sdk-for-ios-navigate-classes-searchengine">`SearchEngine`</a>. The <a href="sdk-for-ios-navigate-classes-offlinesearchengine">`OfflineSearchEngine`</a> (only available for the Navigate license) does not apply this filter. <a href="sdk-for-ios-navigate-enums-truckclass#/s:7heresdk10TruckClassO05lightC0yA2CmF">`TruckClass.lightClass`</a> is not accepted in the filter. Otherwise will result in <a href="sdk-for-ios-navigate-enums-searcherror#/s:7heresdk11SearchErrorO17invalidTruckClassyA2CmF">`SearchError.invalidTruckClass`</a>.
+    - truckClass: Should be used to find only the <a href="sdk-for-ios-navigate-structs-fuelstation">`FuelStation`</a> search results with minimum supported <a href="sdk-for-ios-navigate-enums-truckclass">`TruckClass`</a>. This filter is only available to use with the <a href="sdk-for-ios-navigate-classes-searchengine">`SearchEngine`</a>. The <a href="sdk-for-ios-navigate-classes-offlinesearchengine">`OfflineSearchEngine`</a> (only available for the Navigate license) does not apply this filter. <a href="sdk-for-ios-navigate-enums-truckclass#sdk-for-ios-navigate-s-7heresdk10TruckClassO05lightC0yA2CmF">`TruckClass.lightClass`</a> is not accepted in the filter. Otherwise will result in <a href="sdk-for-ios-navigate-enums-searcherror#sdk-for-ios-navigate-s-7heresdk11SearchErrorO17invalidTruckClassyA2CmF">`SearchError.invalidTruckClass`</a>.
 
     **Note:** This is a beta release of this feature, so there could be a few bugs and unexpected behaviors. Related APIs may change for new releases without a deprecation process.
 
@@ -256,12 +272,17 @@ The filter options to specify a place. Consists of fuel, truck and EV options.
   Swift
 
   ``` highlight
-  public init ( fuelTypes : [ FuelType ] = [], truckFuelTypes : [ TruckFuelType ] = [], truckClass : TruckClass ? = nil , ev : PlaceFilter . Ev = PlaceFilter . Ev ())
+  public init(fuelTypes: [FuelType] = [], truckFuelTypes: [TruckFuelType] = [], truckClass: TruckClass? = nil, ev: PlaceFilter.Ev = PlaceFilter.Ev())
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-fueltype">FuelType</a>
+  - <a href="sdk-for-ios-navigate-enums-truckfueltype">TruckFuelType</a>
+  - <a href="sdk-for-ios-navigate-enums-truckclass">TruckClass</a>
+  - <a href="sdk-for-ios-navigate-structs-placefilter-ev">Ev</a>
 
   </div>
 
@@ -271,7 +292,7 @@ The filter options to specify a place. Consists of fuel, truck and EV options.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11PlaceFilterV2EvV"></span>` `<span id="//apple_ref/swift/Struct/Ev" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-placefilter#/s:7heresdk11PlaceFilterV2EvV" class="token"><code>Ev</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11PlaceFilterV2EvV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-Ev" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-placefilter#sdk-for-ios-navigate-s-7heresdk11PlaceFilterV2EvV" class="token"><code>Ev</code></a> 
 
   </div>
 

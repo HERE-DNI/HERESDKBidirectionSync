@@ -27,7 +27,7 @@ Delegate for RasterDataSource events.
 
 - <div>
 
-      onRasterDataSourceReady()
+   <span id="sdk-for-ios-navigate-s-7heresdk24RasterDataSourceDelegateP02onbcD5ReadyyyF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-onRasterDataSourceReady" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-protocols-rasterdatasourcedelegate#sdk-for-ios-navigate-s-7heresdk24RasterDataSourceDelegateP02onbcD5ReadyyyF" class="token"><code>onRasterDataSourceReady()</code></a> 
 
   </div>
 
@@ -58,10 +58,8 @@ Delegate for RasterDataSource events.
   Swift
 
   ``` highlight
-  func onRasterDataSourceReady ()
+  func onRasterDataSourceReady()
   ```
-
-  </pre>
 
   </div>
 
@@ -73,7 +71,7 @@ Delegate for RasterDataSource events.
 
 - <div>
 
-      onRasterDataSourceError(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk24RasterDataSourceDelegateP02onbcD5ErroryyAA0bcdG0OF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-onRasterDataSourceError-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-protocols-rasterdatasourcedelegate#sdk-for-ios-navigate-s-7heresdk24RasterDataSourceDelegateP02onbcD5ErroryyAA0bcdG0OF" class="token"><code>onRasterDataSourceError(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -104,12 +102,14 @@ Delegate for RasterDataSource events.
   Swift
 
   ``` highlight
-  func onRasterDataSourceError ( _ dataSourceError : RasterDataSourceError )
+  func onRasterDataSourceError(_ dataSourceError: RasterDataSourceError)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-rasterdatasourceerror">RasterDataSourceError</a>
 
   </div>
 

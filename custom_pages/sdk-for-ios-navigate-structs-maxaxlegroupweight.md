@@ -27,7 +27,7 @@ public struct MaxAxleGroupWeight : Hashable
 
 - <div>
 
-  ` `<span id="/s:7heresdk18MaxAxleGroupWeightV03maxE11InKilogramss5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/maxWeightInKilograms" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-maxaxlegroupweight#/s:7heresdk18MaxAxleGroupWeightV03maxE11InKilogramss5Int32Vvp" class="token"><code>maxWeightInKilograms</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18MaxAxleGroupWeightV03maxE11InKilogramss5Int32Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-maxWeightInKilograms" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-maxaxlegroupweight#sdk-for-ios-navigate-s-7heresdk18MaxAxleGroupWeightV03maxE11InKilogramss5Int32Vvp" class="token"><code>maxWeightInKilograms</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ public struct MaxAxleGroupWeight : Hashable
 
 - <div>
 
-  ` `<span id="/s:7heresdk18MaxAxleGroupWeightV04axleD4TypeSSvp"></span>` `<span id="//apple_ref/swift/Property/axleGroupType" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-maxaxlegroupweight#/s:7heresdk18MaxAxleGroupWeightV04axleD4TypeSSvp" class="token"><code>axleGroupType</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18MaxAxleGroupWeightV04axleD4TypeSSvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-axleGroupType" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-maxaxlegroupweight#sdk-for-ios-navigate-s-7heresdk18MaxAxleGroupWeightV04axleD4TypeSSvp" class="token"><code>axleGroupType</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ public struct MaxAxleGroupWeight : Hashable
 
 - <div>
 
-      init(maxWeightInKilograms: axleGroupType: )
+   <span id="sdk-for-ios-navigate-s-7heresdk18MaxAxleGroupWeightV03maxE11InKilograms04axleD4TypeACs5Int32V_SStcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-maxWeightInKilograms-axleGroupType" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-maxaxlegroupweight#sdk-for-ios-navigate-s-7heresdk18MaxAxleGroupWeightV03maxE11InKilograms04axleD4TypeACs5Int32V_SStcfc" class="token"><code>init(maxWeightInKilograms:</code><wbr></wbr><code>axleGroupType:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -146,10 +146,8 @@ public struct MaxAxleGroupWeight : Hashable
   Swift
 
   ``` highlight
-  public init ( maxWeightInKilograms : Int32 , axleGroupType : String )
+  public init(maxWeightInKilograms: Int32, axleGroupType: String)
   ```
-
-  </pre>
 
   </div>
 

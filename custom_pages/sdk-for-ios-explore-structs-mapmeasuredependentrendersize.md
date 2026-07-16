@@ -27,7 +27,7 @@ Represents a render size, described as map measure dependent values.
 
 - <div>
 
-  ` `<span id="/s:7heresdk29MapMeasureDependentRenderSizeV11measureKindAA0bC0V0H0Ovp"></span>` `<span id="//apple_ref/swift/Property/measureKind" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-mapmeasuredependentrendersize#/s:7heresdk29MapMeasureDependentRenderSizeV11measureKindAA0bC0V0H0Ovp" class="token"><code>measureKind</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk29MapMeasureDependentRenderSizeV11measureKindAA0bC0V0H0Ovp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-measureKind" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-mapmeasuredependentrendersize#sdk-for-ios-explore-s-7heresdk29MapMeasureDependentRenderSizeV11measureKindAA0bC0V0H0Ovp" class="token"><code>measureKind</code></a> 
 
   </div>
 
@@ -45,7 +45,7 @@ Represents a render size, described as map measure dependent values.
 
   <div class="abstract">
 
-  The unit used for the key in <a href="sdk-for-ios-explore-structs-mapmeasuredependentrendersize#/s:7heresdk29MapMeasureDependentRenderSizeV5sizesSDyS2dGvp">`MapMeasureDependentRenderSize.sizes`</a>.
+  The unit used for the key in <a href="sdk-for-ios-explore-structs-mapmeasuredependentrendersize#sdk-for-ios-explore-s-7heresdk29MapMeasureDependentRenderSizeV5sizesSDyS2dGvp">`MapMeasureDependentRenderSize.sizes`</a>.
 
   </div>
 
@@ -63,6 +63,10 @@ Represents a render size, described as map measure dependent values.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-mapmeasure">MapMeasure</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ Represents a render size, described as map measure dependent values.
 
 - <div>
 
-  ` `<span id="/s:7heresdk29MapMeasureDependentRenderSizeV8sizeUnitAA0eF0V0H0Ovp"></span>` `<span id="//apple_ref/swift/Property/sizeUnit" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-mapmeasuredependentrendersize#/s:7heresdk29MapMeasureDependentRenderSizeV8sizeUnitAA0eF0V0H0Ovp" class="token"><code>sizeUnit</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk29MapMeasureDependentRenderSizeV8sizeUnitAA0eF0V0H0Ovp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-sizeUnit" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-mapmeasuredependentrendersize#sdk-for-ios-explore-s-7heresdk29MapMeasureDependentRenderSizeV8sizeUnitAA0eF0V0H0Ovp" class="token"><code>sizeUnit</code></a> 
 
   </div>
 
@@ -89,7 +93,7 @@ Represents a render size, described as map measure dependent values.
 
   <div class="abstract">
 
-  The unit used for the value in <a href="sdk-for-ios-explore-structs-mapmeasuredependentrendersize#/s:7heresdk29MapMeasureDependentRenderSizeV5sizesSDyS2dGvp">`MapMeasureDependentRenderSize.sizes`</a>.
+  The unit used for the value in <a href="sdk-for-ios-explore-structs-mapmeasuredependentrendersize#sdk-for-ios-explore-s-7heresdk29MapMeasureDependentRenderSizeV5sizesSDyS2dGvp">`MapMeasureDependentRenderSize.sizes`</a>.
 
   </div>
 
@@ -107,6 +111,10 @@ Represents a render size, described as map measure dependent values.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-rendersize">RenderSize</a>
+
   </div>
 
   </div>
@@ -115,7 +123,7 @@ Represents a render size, described as map measure dependent values.
 
 - <div>
 
-  ` `<span id="/s:7heresdk29MapMeasureDependentRenderSizeV5sizesSDyS2dGvp"></span>` `<span id="//apple_ref/swift/Property/sizes" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-mapmeasuredependentrendersize#/s:7heresdk29MapMeasureDependentRenderSizeV5sizesSDyS2dGvp" class="token"><code>sizes</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk29MapMeasureDependentRenderSizeV5sizesSDyS2dGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-sizes" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-mapmeasuredependentrendersize#sdk-for-ios-explore-s-7heresdk29MapMeasureDependentRenderSizeV5sizesSDyS2dGvp" class="token"><code>sizes</code></a> 
 
   </div>
 
@@ -135,7 +143,7 @@ Represents a render size, described as map measure dependent values.
 
   The dictionary describing the size (value) per map measure (key).
 
-  Units of keys and values are defined in <a href="sdk-for-ios-explore-structs-mapmeasuredependentrendersize#/s:7heresdk29MapMeasureDependentRenderSizeV11measureKindAA0bC0V0H0Ovp">`MapMeasureDependentRenderSize.measureKind`</a> and <a href="sdk-for-ios-explore-structs-mapmeasuredependentrendersize#/s:7heresdk29MapMeasureDependentRenderSizeV8sizeUnitAA0eF0V0H0Ovp">`MapMeasureDependentRenderSize.sizeUnit`</a>.
+  Units of keys and values are defined in <a href="sdk-for-ios-explore-structs-mapmeasuredependentrendersize#sdk-for-ios-explore-s-7heresdk29MapMeasureDependentRenderSizeV11measureKindAA0bC0V0H0Ovp">`MapMeasureDependentRenderSize.measureKind`</a> and <a href="sdk-for-ios-explore-structs-mapmeasuredependentrendersize#sdk-for-ios-explore-s-7heresdk29MapMeasureDependentRenderSizeV8sizeUnitAA0eF0V0H0Ovp">`MapMeasureDependentRenderSize.sizeUnit`</a>.
 
   `sizes` with a single entry indicates using a fixed size value across all map measures.
 
@@ -163,7 +171,7 @@ Represents a render size, described as map measure dependent values.
 
 - <div>
 
-      init(measureKind: sizeUnit: sizes: )
+   <span id="sdk-for-ios-explore-s-7heresdk29MapMeasureDependentRenderSizeV11measureKind8sizeUnit5sizesAcA0bC0V0H0O_AA0eF0V0J0OSDyS2dGtKcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-measureKind-sizeUnit-sizes" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-mapmeasuredependentrendersize#sdk-for-ios-explore-s-7heresdk29MapMeasureDependentRenderSizeV11measureKind8sizeUnit5sizesAcA0bC0V0H0O_AA0eF0V0J0OSDyS2dGtKcfc" class="token"><code>init(measureKind:</code><wbr></wbr><code>sizeUnit:</code><wbr></wbr><code>sizes:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -183,13 +191,13 @@ Represents a render size, described as map measure dependent values.
 
   Constructs a `MapMeasureDependentRenderSize` from given parameters.
 
-  Supplying <a href="sdk-for-ios-explore-structs-mapmeasuredependentrendersize#/s:7heresdk29MapMeasureDependentRenderSizeV5sizesSDyS2dGvp">`sizes`</a> map with a single entry indicates using a fixed size value across all map measures.
+  Supplying <a href="sdk-for-ios-explore-structs-mapmeasuredependentrendersize#sdk-for-ios-explore-s-7heresdk29MapMeasureDependentRenderSizeV5sizesSDyS2dGvp">`sizes`</a> map with a single entry indicates using a fixed size value across all map measures.
 
   <div class="aside aside-throws">
 
   Throws
 
-  <a href="sdk-for-ios-explore-structs-mapmeasuredependentrendersize#/s:7heresdk29MapMeasureDependentRenderSizeV18InstantiationErrora">`MapMeasureDependentRenderSize.InstantiationError`</a> Instantiation error if <a href="sdk-for-ios-explore-structs-mapmeasuredependentrendersize#/s:7heresdk29MapMeasureDependentRenderSizeV5sizesSDyS2dGvp">`sizes`</a> map is empty or contains negative keys or values.
+  <a href="sdk-for-ios-explore-structs-mapmeasuredependentrendersize#sdk-for-ios-explore-s-7heresdk29MapMeasureDependentRenderSizeV18InstantiationErrora">`MapMeasureDependentRenderSize.InstantiationError`</a> Instantiation error if <a href="sdk-for-ios-explore-structs-mapmeasuredependentrendersize#sdk-for-ios-explore-s-7heresdk29MapMeasureDependentRenderSizeV5sizesSDyS2dGvp">`sizes`</a> map is empty or contains negative keys or values.
 
   </div>
 
@@ -204,12 +212,15 @@ Represents a render size, described as map measure dependent values.
   Swift
 
   ``` highlight
-  public init ( measureKind : MapMeasure . Kind , sizeUnit : RenderSize . Unit , sizes : [ Double : Double ]) throws
+  public init(measureKind: MapMeasure.Kind, sizeUnit: RenderSize.Unit, sizes: [Double : Double]) throws
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-mapmeasure">MapMeasure</a>
+  - <a href="sdk-for-ios-explore-structs-rendersize">RenderSize</a>
 
   </div>
 
@@ -226,13 +237,13 @@ Represents a render size, described as map measure dependent values.
   <tr>
   <td><code> </code><em><code>measureKind</code></em><code> </code></td>
   <td><div>
-  <p>The unit used for the key in <a href="sdk-for-ios-explore-structs-mapmeasuredependentrendersize#/s:7heresdk29MapMeasureDependentRenderSizeV5sizesSDyS2dGvp"><code>sizes</code></a>.</p>
+  <p>The unit used for the key in <a href="sdk-for-ios-explore-structs-mapmeasuredependentrendersize#sdk-for-ios-explore-s-7heresdk29MapMeasureDependentRenderSizeV5sizesSDyS2dGvp"><code>sizes</code></a>.</p>
   </div></td>
   </tr>
   <tr>
   <td><code> </code><em><code>sizeUnit</code></em><code> </code></td>
   <td><div>
-  <p>The unit used for the value in <a href="sdk-for-ios-explore-structs-mapmeasuredependentrendersize#/s:7heresdk29MapMeasureDependentRenderSizeV5sizesSDyS2dGvp"><code>sizes</code></a>.</p>
+  <p>The unit used for the value in <a href="sdk-for-ios-explore-structs-mapmeasuredependentrendersize#sdk-for-ios-explore-s-7heresdk29MapMeasureDependentRenderSizeV5sizesSDyS2dGvp"><code>sizes</code></a>.</p>
   </div></td>
   </tr>
   <tr>
@@ -252,7 +263,7 @@ Represents a render size, described as map measure dependent values.
 
 - <div>
 
-      init(sizeUnit: size: )
+   <span id="sdk-for-ios-explore-s-7heresdk29MapMeasureDependentRenderSizeV8sizeUnit0G0AcA0eF0V0H0O_SdtKcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-sizeUnit-size" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-mapmeasuredependentrendersize#sdk-for-ios-explore-s-7heresdk29MapMeasureDependentRenderSizeV8sizeUnit0G0AcA0eF0V0H0O_SdtKcfc" class="token"><code>init(sizeUnit:</code><wbr></wbr><code>size:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -272,13 +283,13 @@ Represents a render size, described as map measure dependent values.
 
   Constructs a `MapMeasureDependentRenderSize` from single size value which is constant across all map measures.
 
-  The given `size` value is stored in <a href="sdk-for-ios-explore-structs-mapmeasuredependentrendersize#/s:7heresdk29MapMeasureDependentRenderSizeV5sizesSDyS2dGvp">`MapMeasureDependentRenderSize.sizes`</a> map at key 0 and <a href="sdk-for-ios-explore-structs-mapmeasuredependentrendersize#/s:7heresdk29MapMeasureDependentRenderSizeV11measureKindAA0bC0V0H0Ovp">`MapMeasureDependentRenderSize.measureKind`</a> is set to <a href="sdk-for-ios-explore-structs-mapmeasure-kind#/s:7heresdk10MapMeasureV4KindO9zoomLevelyA2EmF">`MapMeasure.Kind.zoomLevel`</a>.
+  The given `size` value is stored in <a href="sdk-for-ios-explore-structs-mapmeasuredependentrendersize#sdk-for-ios-explore-s-7heresdk29MapMeasureDependentRenderSizeV5sizesSDyS2dGvp">`MapMeasureDependentRenderSize.sizes`</a> map at key 0 and <a href="sdk-for-ios-explore-structs-mapmeasuredependentrendersize#sdk-for-ios-explore-s-7heresdk29MapMeasureDependentRenderSizeV11measureKindAA0bC0V0H0Ovp">`MapMeasureDependentRenderSize.measureKind`</a> is set to <a href="sdk-for-ios-explore-structs-mapmeasure-kind#sdk-for-ios-explore-s-7heresdk10MapMeasureV4KindO9zoomLevelyA2EmF">`MapMeasure.Kind.zoomLevel`</a>.
 
   <div class="aside aside-throws">
 
   Throws
 
-  <a href="sdk-for-ios-explore-structs-mapmeasuredependentrendersize#/s:7heresdk29MapMeasureDependentRenderSizeV18InstantiationErrora">`MapMeasureDependentRenderSize.InstantiationError`</a> Instantiation error if `size` is negative.
+  <a href="sdk-for-ios-explore-structs-mapmeasuredependentrendersize#sdk-for-ios-explore-s-7heresdk29MapMeasureDependentRenderSizeV18InstantiationErrora">`MapMeasureDependentRenderSize.InstantiationError`</a> Instantiation error if `size` is negative.
 
   </div>
 
@@ -293,12 +304,14 @@ Represents a render size, described as map measure dependent values.
   Swift
 
   ``` highlight
-  public init ( sizeUnit : RenderSize . Unit , size : Double ) throws
+  public init(sizeUnit: RenderSize.Unit, size: Double) throws
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-rendersize">RenderSize</a>
 
   </div>
 
@@ -335,7 +348,7 @@ Represents a render size, described as map measure dependent values.
 
 - <div>
 
-  ` `<span id="/s:7heresdk29MapMeasureDependentRenderSizeV22InstantiationErrorCodeO"></span>` `<span id="//apple_ref/swift/Enum/InstantiationErrorCode" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-mapmeasuredependentrendersize#/s:7heresdk29MapMeasureDependentRenderSizeV22InstantiationErrorCodeO" class="token"><code>InstantiationErrorCode</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk29MapMeasureDependentRenderSizeV22InstantiationErrorCodeO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-InstantiationErrorCode" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-mapmeasuredependentrendersize#sdk-for-ios-explore-s-7heresdk29MapMeasureDependentRenderSizeV22InstantiationErrorCodeO" class="token"><code>InstantiationErrorCode</code></a> 
 
   </div>
 
@@ -377,6 +390,10 @@ Represents a render size, described as map measure dependent values.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-mapmeasuredependentrendersize">MapMeasureDependentRenderSize</a>
+
   </div>
 
   </div>
@@ -385,7 +402,7 @@ Represents a render size, described as map measure dependent values.
 
 - <div>
 
-  ` `<span id="/s:7heresdk29MapMeasureDependentRenderSizeV18InstantiationErrora"></span>` `<span id="//apple_ref/swift/Alias/InstantiationError" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-mapmeasuredependentrendersize#/s:7heresdk29MapMeasureDependentRenderSizeV18InstantiationErrora" class="token"><code>InstantiationError</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk29MapMeasureDependentRenderSizeV18InstantiationErrora"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Alias-InstantiationError" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-mapmeasuredependentrendersize#sdk-for-ios-explore-s-7heresdk29MapMeasureDependentRenderSizeV18InstantiationErrora" class="token"><code>InstantiationError</code></a> 
 
   </div>
 
@@ -420,6 +437,10 @@ Represents a render size, described as map measure dependent values.
   ```
 
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-mapmeasuredependentrendersize-instantiationerrorcode">InstantiationErrorCode</a>
 
   </div>
 

@@ -19,12 +19,7 @@ public struct SpeedLimit : Hashable
 
 Represents the speed limit of the current road. Speed limits that are described as conditional can be time-dependent. For time-dependent speed limits, the HERE SDK internally reads the current device time and notifies only on speed limits that are currently active.
 
-It is recommended to use
-
-    SpeedLimit.effectiveSpeedLimitInMetersPerSecond(...)
-
-when an application does not offer dedicated speed limit indicators for other cases, such as weather-dependent speed limits.
-</p>
+It is recommended to use <a href="sdk-for-ios-explore-structs-speedlimit#sdk-for-ios-explore-s-7heresdk10SpeedLimitV09effectivebC17InMetersPerSecondSdSgyF">`SpeedLimit.effectiveSpeedLimitInMetersPerSecond(...)`</a> when an application does not offer dedicated speed limit indicators for other cases, such as weather-dependent speed limits.
 
 </div>
 
@@ -34,7 +29,7 @@ when an application does not offer dedicated speed limit indicators for other ca
 
 - <div>
 
-  ` `<span id="/s:7heresdk10SpeedLimitV05speedC17InMetersPerSecondSdSgvp"></span>` `<span id="//apple_ref/swift/Property/speedLimitInMetersPerSecond" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-speedlimit#/s:7heresdk10SpeedLimitV05speedC17InMetersPerSecondSdSgvp" class="token"><code>speedLimitInMetersPerSecond</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10SpeedLimitV05speedC17InMetersPerSecondSdSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-speedLimitInMetersPerSecond" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-speedlimit#sdk-for-ios-explore-s-7heresdk10SpeedLimitV05speedC17InMetersPerSecondSdSgvp" class="token"><code>speedLimitInMetersPerSecond</code></a> 
 
   </div>
 
@@ -80,7 +75,7 @@ when an application does not offer dedicated speed limit indicators for other ca
 
 - <div>
 
-  ` `<span id="/s:7heresdk10SpeedLimitV08advisorybC17InMetersPerSecondSdSgvp"></span>` `<span id="//apple_ref/swift/Property/advisorySpeedLimitInMetersPerSecond" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-speedlimit#/s:7heresdk10SpeedLimitV08advisorybC17InMetersPerSecondSdSgvp" class="token"><code>advisorySpeedLimitInMetersPerSecond</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10SpeedLimitV08advisorybC17InMetersPerSecondSdSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-advisorySpeedLimitInMetersPerSecond" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-speedlimit#sdk-for-ios-explore-s-7heresdk10SpeedLimitV08advisorybC17InMetersPerSecondSdSgvp" class="token"><code>advisorySpeedLimitInMetersPerSecond</code></a> 
 
   </div>
 
@@ -129,7 +124,7 @@ when an application does not offer dedicated speed limit indicators for other ca
 
 - <div>
 
-  ` `<span id="/s:7heresdk10SpeedLimitV04snowbC17InMetersPerSecondSdSgvp"></span>` `<span id="//apple_ref/swift/Property/snowSpeedLimitInMetersPerSecond" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-speedlimit#/s:7heresdk10SpeedLimitV04snowbC17InMetersPerSecondSdSgvp" class="token"><code>snowSpeedLimitInMetersPerSecond</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10SpeedLimitV04snowbC17InMetersPerSecondSdSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-snowSpeedLimitInMetersPerSecond" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-speedlimit#sdk-for-ios-explore-s-7heresdk10SpeedLimitV04snowbC17InMetersPerSecondSdSgvp" class="token"><code>snowSpeedLimitInMetersPerSecond</code></a> 
 
   </div>
 
@@ -175,7 +170,7 @@ when an application does not offer dedicated speed limit indicators for other ca
 
 - <div>
 
-  ` `<span id="/s:7heresdk10SpeedLimitV04rainbC17InMetersPerSecondSdSgvp"></span>` `<span id="//apple_ref/swift/Property/rainSpeedLimitInMetersPerSecond" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-speedlimit#/s:7heresdk10SpeedLimitV04rainbC17InMetersPerSecondSdSgvp" class="token"><code>rainSpeedLimitInMetersPerSecond</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10SpeedLimitV04rainbC17InMetersPerSecondSdSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-rainSpeedLimitInMetersPerSecond" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-speedlimit#sdk-for-ios-explore-s-7heresdk10SpeedLimitV04rainbC17InMetersPerSecondSdSgvp" class="token"><code>rainSpeedLimitInMetersPerSecond</code></a> 
 
   </div>
 
@@ -221,7 +216,7 @@ when an application does not offer dedicated speed limit indicators for other ca
 
 - <div>
 
-  ` `<span id="/s:7heresdk10SpeedLimitV03fogbC17InMetersPerSecondSdSgvp"></span>` `<span id="//apple_ref/swift/Property/fogSpeedLimitInMetersPerSecond" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-speedlimit#/s:7heresdk10SpeedLimitV03fogbC17InMetersPerSecondSdSgvp" class="token"><code>fogSpeedLimitInMetersPerSecond</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10SpeedLimitV03fogbC17InMetersPerSecondSdSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-fogSpeedLimitInMetersPerSecond" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-speedlimit#sdk-for-ios-explore-s-7heresdk10SpeedLimitV03fogbC17InMetersPerSecondSdSgvp" class="token"><code>fogSpeedLimitInMetersPerSecond</code></a> 
 
   </div>
 
@@ -267,7 +262,7 @@ when an application does not offer dedicated speed limit indicators for other ca
 
 - <div>
 
-  ` `<span id="/s:7heresdk10SpeedLimitV014optimalWeatherbC17InMetersPerSecondSdSgvp"></span>` `<span id="//apple_ref/swift/Property/optimalWeatherSpeedLimitInMetersPerSecond" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-speedlimit#/s:7heresdk10SpeedLimitV014optimalWeatherbC17InMetersPerSecondSdSgvp" class="token"><code>optimalWeatherSpeedLimitInMetersPerSecond</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10SpeedLimitV014optimalWeatherbC17InMetersPerSecondSdSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-optimalWeatherSpeedLimitInMetersPerSecond" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-speedlimit#sdk-for-ios-explore-s-7heresdk10SpeedLimitV014optimalWeatherbC17InMetersPerSecondSdSgvp" class="token"><code>optimalWeatherSpeedLimitInMetersPerSecond</code></a> 
 
   </div>
 
@@ -315,7 +310,7 @@ when an application does not offer dedicated speed limit indicators for other ca
 
 - <div>
 
-  ` `<span id="/s:7heresdk10SpeedLimitV010schoolZonebC17InMetersPerSecondSdSgvp"></span>` `<span id="//apple_ref/swift/Property/schoolZoneSpeedLimitInMetersPerSecond" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-speedlimit#/s:7heresdk10SpeedLimitV010schoolZonebC17InMetersPerSecondSdSgvp" class="token"><code>schoolZoneSpeedLimitInMetersPerSecond</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10SpeedLimitV010schoolZonebC17InMetersPerSecondSdSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-schoolZoneSpeedLimitInMetersPerSecond" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-speedlimit#sdk-for-ios-explore-s-7heresdk10SpeedLimitV010schoolZonebC17InMetersPerSecondSdSgvp" class="token"><code>schoolZoneSpeedLimitInMetersPerSecond</code></a> 
 
   </div>
 
@@ -361,7 +356,7 @@ when an application does not offer dedicated speed limit indicators for other ca
 
 - <div>
 
-  ` `<span id="/s:7heresdk10SpeedLimitV013timeDependentbC17InMetersPerSecondSdSgvp"></span>` `<span id="//apple_ref/swift/Property/timeDependentSpeedLimitInMetersPerSecond" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-speedlimit#/s:7heresdk10SpeedLimitV013timeDependentbC17InMetersPerSecondSdSgvp" class="token"><code>timeDependentSpeedLimitInMetersPerSecond</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10SpeedLimitV013timeDependentbC17InMetersPerSecondSdSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-timeDependentSpeedLimitInMetersPerSecond" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-speedlimit#sdk-for-ios-explore-s-7heresdk10SpeedLimitV013timeDependentbC17InMetersPerSecondSdSgvp" class="token"><code>timeDependentSpeedLimitInMetersPerSecond</code></a> 
 
   </div>
 
@@ -405,7 +400,7 @@ when an application does not offer dedicated speed limit indicators for other ca
 
 - <div>
 
-      init(speedLimitInMetersPerSecond: advisorySpeedLimitInMetersPerSecond: snowSpeedLimitInMetersPerSecond: rainSpeedLimitInMetersPerSecond: fogSpeedLimitInMetersPerSecond: optimalWeatherSpeedLimitInMetersPerSecond: schoolZoneSpeedLimitInMetersPerSecond: timeDependentSpeedLimitInMetersPerSecond: )
+   <span id="sdk-for-ios-explore-s-7heresdk10SpeedLimitV05speedC17InMetersPerSecond08advisorybcefgH004snowbcefgH004rainbcefgH003fogbcefgH0014optimalWeatherbcefgH0010schoolZonebcefgH0013timeDependentbcefgH0ACSdSg_A7Ltcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-speedLimitInMetersPerSecond-advisorySpeedLimitInMetersPerSecond-snowSpeedLimitInMetersPerSecond-rainSpeedLimitInMetersPerSecond-fogSpeedLimitInMetersPerSecond-optimalWeatherSpeedLimitInMetersPerSecond-schoolZoneSpeedLimitInMetersPerSecond-timeDependentSpeedLimitInMetersPerSecond" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-speedlimit#sdk-for-ios-explore-s-7heresdk10SpeedLimitV05speedC17InMetersPerSecond08advisorybcefgH004snowbcefgH004rainbcefgH003fogbcefgH0014optimalWeatherbcefgH0010schoolZonebcefgH0013timeDependentbcefgH0ACSdSg_A7Ltcfc" class="token"><code>init(speedLimitInMetersPerSecond:</code><wbr></wbr><code>advisorySpeedLimitInMetersPerSecond:</code><wbr></wbr><code>snowSpeedLimitInMetersPerSecond:</code><wbr></wbr><code>rainSpeedLimitInMetersPerSecond:</code><wbr></wbr><code>fogSpeedLimitInMetersPerSecond:</code><wbr></wbr><code>optimalWeatherSpeedLimitInMetersPerSecond:</code><wbr></wbr><code>schoolZoneSpeedLimitInMetersPerSecond:</code><wbr></wbr><code>timeDependentSpeedLimitInMetersPerSecond:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -472,10 +467,8 @@ when an application does not offer dedicated speed limit indicators for other ca
   Swift
 
   ``` highlight
-  public init ( speedLimitInMetersPerSecond : Double ? = nil , advisorySpeedLimitInMetersPerSecond : Double ? = nil , snowSpeedLimitInMetersPerSecond : Double ? = nil , rainSpeedLimitInMetersPerSecond : Double ? = nil , fogSpeedLimitInMetersPerSecond : Double ? = nil , optimalWeatherSpeedLimitInMetersPerSecond : Double ? = nil , schoolZoneSpeedLimitInMetersPerSecond : Double ? = nil , timeDependentSpeedLimitInMetersPerSecond : Double ? = nil )
+  public init(speedLimitInMetersPerSecond: Double? = nil, advisorySpeedLimitInMetersPerSecond: Double? = nil, snowSpeedLimitInMetersPerSecond: Double? = nil, rainSpeedLimitInMetersPerSecond: Double? = nil, fogSpeedLimitInMetersPerSecond: Double? = nil, optimalWeatherSpeedLimitInMetersPerSecond: Double? = nil, schoolZoneSpeedLimitInMetersPerSecond: Double? = nil, timeDependentSpeedLimitInMetersPerSecond: Double? = nil)
   ```
-
-  </pre>
 
   </div>
 
@@ -487,7 +480,7 @@ when an application does not offer dedicated speed limit indicators for other ca
 
 - <div>
 
-      effectiveSpeedLimitInMetersPerSecond()
+   <span id="sdk-for-ios-explore-s-7heresdk10SpeedLimitV09effectivebC17InMetersPerSecondSdSgyF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-effectiveSpeedLimitInMetersPerSecond" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-speedlimit#sdk-for-ios-explore-s-7heresdk10SpeedLimitV09effectivebC17InMetersPerSecondSdSgyF" class="token"><code>effectiveSpeedLimitInMetersPerSecond()</code></a> 
 
   </div>
 
@@ -505,7 +498,7 @@ when an application does not offer dedicated speed limit indicators for other ca
 
   <div class="abstract">
 
-  Returns the effective (lowest) speed limit between <a href="sdk-for-ios-explore-structs-speedlimit#/s:7heresdk10SpeedLimitV05speedC17InMetersPerSecondSdSgvp">`SpeedLimit.speedLimitInMetersPerSecond`</a>, <a href="sdk-for-ios-explore-structs-speedlimit#/s:7heresdk10SpeedLimitV010schoolZonebC17InMetersPerSecondSdSgvp">`SpeedLimit.schoolZoneSpeedLimitInMetersPerSecond`</a>, <a href="sdk-for-ios-explore-structs-speedlimit#/s:7heresdk10SpeedLimitV013timeDependentbC17InMetersPerSecondSdSgvp">`SpeedLimit.timeDependentSpeedLimitInMetersPerSecond`</a> and <a href="sdk-for-ios-explore-structs-speedlimit#/s:7heresdk10SpeedLimitV014optimalWeatherbC17InMetersPerSecondSdSgvp">`SpeedLimit.optimalWeatherSpeedLimitInMetersPerSecond`</a>.
+  Returns the effective (lowest) speed limit between <a href="sdk-for-ios-explore-structs-speedlimit#sdk-for-ios-explore-s-7heresdk10SpeedLimitV05speedC17InMetersPerSecondSdSgvp">`SpeedLimit.speedLimitInMetersPerSecond`</a>, <a href="sdk-for-ios-explore-structs-speedlimit#sdk-for-ios-explore-s-7heresdk10SpeedLimitV010schoolZonebC17InMetersPerSecondSdSgvp">`SpeedLimit.schoolZoneSpeedLimitInMetersPerSecond`</a>, <a href="sdk-for-ios-explore-structs-speedlimit#sdk-for-ios-explore-s-7heresdk10SpeedLimitV013timeDependentbC17InMetersPerSecondSdSgvp">`SpeedLimit.timeDependentSpeedLimitInMetersPerSecond`</a> and <a href="sdk-for-ios-explore-structs-speedlimit#sdk-for-ios-explore-s-7heresdk10SpeedLimitV014optimalWeatherbC17InMetersPerSecondSdSgvp">`SpeedLimit.optimalWeatherSpeedLimitInMetersPerSecond`</a>.
 
   </div>
 
@@ -518,10 +511,8 @@ when an application does not offer dedicated speed limit indicators for other ca
   Swift
 
   ``` highlight
-  public func effectiveSpeedLimitInMetersPerSecond () -> Double ?
+  public func effectiveSpeedLimitInMetersPerSecond() -> Double?
   ```
-
-  </pre>
 
   </div>
 
@@ -531,7 +522,7 @@ when an application does not offer dedicated speed limit indicators for other ca
 
   #### Return Value
 
-  Returns the lowest value between: <a href="sdk-for-ios-explore-structs-speedlimit#/s:7heresdk10SpeedLimitV05speedC17InMetersPerSecondSdSgvp">`SpeedLimit.speedLimitInMetersPerSecond`</a>, <a href="sdk-for-ios-explore-structs-speedlimit#/s:7heresdk10SpeedLimitV010schoolZonebC17InMetersPerSecondSdSgvp">`SpeedLimit.schoolZoneSpeedLimitInMetersPerSecond`</a>, <a href="sdk-for-ios-explore-structs-speedlimit#/s:7heresdk10SpeedLimitV013timeDependentbC17InMetersPerSecondSdSgvp">`SpeedLimit.timeDependentSpeedLimitInMetersPerSecond`</a> and <a href="sdk-for-ios-explore-structs-speedlimit#/s:7heresdk10SpeedLimitV014optimalWeatherbC17InMetersPerSecondSdSgvp">`SpeedLimit.optimalWeatherSpeedLimitInMetersPerSecond`</a>.
+  Returns the lowest value between: <a href="sdk-for-ios-explore-structs-speedlimit#sdk-for-ios-explore-s-7heresdk10SpeedLimitV05speedC17InMetersPerSecondSdSgvp">`SpeedLimit.speedLimitInMetersPerSecond`</a>, <a href="sdk-for-ios-explore-structs-speedlimit#sdk-for-ios-explore-s-7heresdk10SpeedLimitV010schoolZonebC17InMetersPerSecondSdSgvp">`SpeedLimit.schoolZoneSpeedLimitInMetersPerSecond`</a>, <a href="sdk-for-ios-explore-structs-speedlimit#sdk-for-ios-explore-s-7heresdk10SpeedLimitV013timeDependentbC17InMetersPerSecondSdSgvp">`SpeedLimit.timeDependentSpeedLimitInMetersPerSecond`</a> and <a href="sdk-for-ios-explore-structs-speedlimit#sdk-for-ios-explore-s-7heresdk10SpeedLimitV014optimalWeatherbC17InMetersPerSecondSdSgvp">`SpeedLimit.optimalWeatherSpeedLimitInMetersPerSecond`</a>.
 
   </div>
 

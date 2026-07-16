@@ -27,7 +27,7 @@ Represents a set of administrative rules for a country or a state.
 
 - <div>
 
-  ` `<span id="/s:7heresdk19AdministrativeRulesV11countryCodeAA07CountryE0Ovp"></span>` `<span id="//apple_ref/swift/Property/countryCode" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-administrativerules#/s:7heresdk19AdministrativeRulesV11countryCodeAA07CountryE0Ovp" class="token"><code>countryCode</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19AdministrativeRulesV11countryCodeAA07CountryE0Ovp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-countryCode" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-administrativerules#sdk-for-ios-navigate-s-7heresdk19AdministrativeRulesV11countryCodeAA07CountryE0Ovp" class="token"><code>countryCode</code></a> 
 
   </div>
 
@@ -63,6 +63,10 @@ Represents a set of administrative rules for a country or a state.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-countrycode">CountryCode</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ Represents a set of administrative rules for a country or a state.
 
 - <div>
 
-  ` `<span id="/s:7heresdk19AdministrativeRulesV9stateCodeSSSgvp"></span>` `<span id="//apple_ref/swift/Property/stateCode" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-administrativerules#/s:7heresdk19AdministrativeRulesV9stateCodeSSSgvp" class="token"><code>stateCode</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19AdministrativeRulesV9stateCodeSSSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-stateCode" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-administrativerules#sdk-for-ios-navigate-s-7heresdk19AdministrativeRulesV9stateCodeSSSgvp" class="token"><code>stateCode</code></a> 
 
   </div>
 
@@ -115,7 +119,7 @@ Represents a set of administrative rules for a country or a state.
 
 - <div>
 
-  ` `<span id="/s:7heresdk19AdministrativeRulesV14adminContextIdAA05AdmineF0Vvp"></span>` `<span id="//apple_ref/swift/Property/adminContextId" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-administrativerules#/s:7heresdk19AdministrativeRulesV14adminContextIdAA05AdmineF0Vvp" class="token"><code>adminContextId</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19AdministrativeRulesV14adminContextIdAA05AdmineF0Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-adminContextId" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-administrativerules#sdk-for-ios-navigate-s-7heresdk19AdministrativeRulesV14adminContextIdAA05AdmineF0Vvp" class="token"><code>adminContextId</code></a> 
 
   </div>
 
@@ -151,6 +155,10 @@ Represents a set of administrative rules for a country or a state.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-admincontextid">AdminContextId</a>
+
   </div>
 
   </div>
@@ -159,7 +167,7 @@ Represents a set of administrative rules for a country or a state.
 
 - <div>
 
-  ` `<span id="/s:7heresdk19AdministrativeRulesV21parentAdminContextIdsSayAA0eF2IdVGvp"></span>` `<span id="//apple_ref/swift/Property/parentAdminContextIds" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-administrativerules#/s:7heresdk19AdministrativeRulesV21parentAdminContextIdsSayAA0eF2IdVGvp" class="token"><code>parentAdminContextIds</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19AdministrativeRulesV21parentAdminContextIdsSayAA0eF2IdVGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-parentAdminContextIds" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-administrativerules#sdk-for-ios-navigate-s-7heresdk19AdministrativeRulesV21parentAdminContextIdsSayAA0eF2IdVGvp" class="token"><code>parentAdminContextIds</code></a> 
 
   </div>
 
@@ -195,6 +203,10 @@ Represents a set of administrative rules for a country or a state.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-admincontextid">AdminContextId</a>
+
   </div>
 
   </div>
@@ -203,7 +215,7 @@ Represents a set of administrative rules for a country or a state.
 
 - <div>
 
-  ` `<span id="/s:7heresdk19AdministrativeRulesV11drivingSideAA07DrivingE0OSgvp"></span>` `<span id="//apple_ref/swift/Property/drivingSide" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-administrativerules#/s:7heresdk19AdministrativeRulesV11drivingSideAA07DrivingE0OSgvp" class="token"><code>drivingSide</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19AdministrativeRulesV11drivingSideAA07DrivingE0OSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-drivingSide" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-administrativerules#sdk-for-ios-navigate-s-7heresdk19AdministrativeRulesV11drivingSideAA07DrivingE0OSgvp" class="token"><code>drivingSide</code></a> 
 
   </div>
 
@@ -239,6 +251,10 @@ Represents a set of administrative rules for a country or a state.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-drivingside">DrivingSide</a>
+
   </div>
 
   </div>
@@ -247,7 +263,7 @@ Represents a set of administrative rules for a country or a state.
 
 - <div>
 
-  ` `<span id="/s:7heresdk19AdministrativeRulesV10unitSystemAA04UnitE0OSgvp"></span>` `<span id="//apple_ref/swift/Property/unitSystem" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-administrativerules#/s:7heresdk19AdministrativeRulesV10unitSystemAA04UnitE0OSgvp" class="token"><code>unitSystem</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19AdministrativeRulesV10unitSystemAA04UnitE0OSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-unitSystem" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-administrativerules#sdk-for-ios-navigate-s-7heresdk19AdministrativeRulesV10unitSystemAA04UnitE0OSgvp" class="token"><code>unitSystem</code></a> 
 
   </div>
 
@@ -283,6 +299,10 @@ Represents a set of administrative rules for a country or a state.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-unitsystem">UnitSystem</a>
+
   </div>
 
   </div>
@@ -291,7 +311,7 @@ Represents a set of administrative rules for a country or a state.
 
 - <div>
 
-  ` `<span id="/s:7heresdk19AdministrativeRulesV11speedLimitsAA019GeneralVehicleSpeedE0Vvp"></span>` `<span id="//apple_ref/swift/Property/speedLimits" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-administrativerules#/s:7heresdk19AdministrativeRulesV11speedLimitsAA019GeneralVehicleSpeedE0Vvp" class="token"><code>speedLimits</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19AdministrativeRulesV11speedLimitsAA019GeneralVehicleSpeedE0Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-speedLimits" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-administrativerules#sdk-for-ios-navigate-s-7heresdk19AdministrativeRulesV11speedLimitsAA019GeneralVehicleSpeedE0Vvp" class="token"><code>speedLimits</code></a> 
 
   </div>
 
@@ -327,6 +347,10 @@ Represents a set of administrative rules for a country or a state.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-generalvehiclespeedlimits">GeneralVehicleSpeedLimits</a>
+
   </div>
 
   </div>
@@ -335,7 +359,7 @@ Represents a set of administrative rules for a country or a state.
 
 - <div>
 
-  ` `<span id="/s:7heresdk19AdministrativeRulesV24timeZoneOffsetsInMinutesSaySdGvp"></span>` `<span id="//apple_ref/swift/Property/timeZoneOffsetsInMinutes" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-administrativerules#/s:7heresdk19AdministrativeRulesV24timeZoneOffsetsInMinutesSaySdGvp" class="token"><code>timeZoneOffsetsInMinutes</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19AdministrativeRulesV24timeZoneOffsetsInMinutesSaySdGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-timeZoneOffsetsInMinutes" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-administrativerules#sdk-for-ios-navigate-s-7heresdk19AdministrativeRulesV24timeZoneOffsetsInMinutesSaySdGvp" class="token"><code>timeZoneOffsetsInMinutes</code></a> 
 
   </div>
 
@@ -379,7 +403,7 @@ Represents a set of administrative rules for a country or a state.
 
 - <div>
 
-  ` `<span id="/s:7heresdk19AdministrativeRulesV20daylightSavingPeriodAA8TimeRuleCSgvp"></span>` `<span id="//apple_ref/swift/Property/daylightSavingPeriod" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-administrativerules#/s:7heresdk19AdministrativeRulesV20daylightSavingPeriodAA8TimeRuleCSgvp" class="token"><code>daylightSavingPeriod</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19AdministrativeRulesV20daylightSavingPeriodAA8TimeRuleCSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-daylightSavingPeriod" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-administrativerules#sdk-for-ios-navigate-s-7heresdk19AdministrativeRulesV20daylightSavingPeriodAA8TimeRuleCSgvp" class="token"><code>daylightSavingPeriod</code></a> 
 
   </div>
 
@@ -415,6 +439,10 @@ Represents a set of administrative rules for a country or a state.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-timerule">TimeRule</a>
+
   </div>
 
   </div>
@@ -423,7 +451,7 @@ Represents a set of administrative rules for a country or a state.
 
 - <div>
 
-  ` `<span id="/s:7heresdk19AdministrativeRulesV17isUturnRestrictedSbvp"></span>` `<span id="//apple_ref/swift/Property/isUturnRestricted" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-administrativerules#/s:7heresdk19AdministrativeRulesV17isUturnRestrictedSbvp" class="token"><code>isUturnRestricted</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19AdministrativeRulesV17isUturnRestrictedSbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-isUturnRestricted" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-administrativerules#sdk-for-ios-navigate-s-7heresdk19AdministrativeRulesV17isUturnRestrictedSbvp" class="token"><code>isUturnRestricted</code></a> 
 
   </div>
 
@@ -467,7 +495,7 @@ Represents a set of administrative rules for a country or a state.
 
 - <div>
 
-  ` `<span id="/s:7heresdk19AdministrativeRulesV22headlightsRequirementsSayAA21HeadlightsRequirementOGvp"></span>` `<span id="//apple_ref/swift/Property/headlightsRequirements" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-administrativerules#/s:7heresdk19AdministrativeRulesV22headlightsRequirementsSayAA21HeadlightsRequirementOGvp" class="token"><code>headlightsRequirements</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19AdministrativeRulesV22headlightsRequirementsSayAA21HeadlightsRequirementOGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-headlightsRequirements" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-administrativerules#sdk-for-ios-navigate-s-7heresdk19AdministrativeRulesV22headlightsRequirementsSayAA21HeadlightsRequirementOGvp" class="token"><code>headlightsRequirements</code></a> 
 
   </div>
 
@@ -503,6 +531,10 @@ Represents a set of administrative rules for a country or a state.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-headlightsrequirement">HeadlightsRequirement</a>
+
   </div>
 
   </div>
@@ -511,7 +543,7 @@ Represents a set of administrative rules for a country or a state.
 
 - <div>
 
-  ` `<span id="/s:7heresdk19AdministrativeRulesV14isTollRequiredSbvp"></span>` `<span id="//apple_ref/swift/Property/isTollRequired" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-administrativerules#/s:7heresdk19AdministrativeRulesV14isTollRequiredSbvp" class="token"><code>isTollRequired</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19AdministrativeRulesV14isTollRequiredSbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-isTollRequired" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-administrativerules#sdk-for-ios-navigate-s-7heresdk19AdministrativeRulesV14isTollRequiredSbvp" class="token"><code>isTollRequired</code></a> 
 
   </div>
 
@@ -555,7 +587,7 @@ Represents a set of administrative rules for a country or a state.
 
 - <div>
 
-  ` `<span id="/s:7heresdk19AdministrativeRulesV21isTollStickerRequiredSbvp"></span>` `<span id="//apple_ref/swift/Property/isTollStickerRequired" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-administrativerules#/s:7heresdk19AdministrativeRulesV21isTollStickerRequiredSbvp" class="token"><code>isTollStickerRequired</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19AdministrativeRulesV21isTollStickerRequiredSbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-isTollStickerRequired" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-administrativerules#sdk-for-ios-navigate-s-7heresdk19AdministrativeRulesV21isTollStickerRequiredSbvp" class="token"><code>isTollStickerRequired</code></a> 
 
   </div>
 
@@ -599,7 +631,7 @@ Represents a set of administrative rules for a country or a state.
 
 - <div>
 
-  ` `<span id="/s:7heresdk19AdministrativeRulesV20turnOnRedRegulationsSayAA04TurneF10RegulationOGvp"></span>` `<span id="//apple_ref/swift/Property/turnOnRedRegulations" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-administrativerules#/s:7heresdk19AdministrativeRulesV20turnOnRedRegulationsSayAA04TurneF10RegulationOGvp" class="token"><code>turnOnRedRegulations</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19AdministrativeRulesV20turnOnRedRegulationsSayAA04TurneF10RegulationOGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-turnOnRedRegulations" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-administrativerules#sdk-for-ios-navigate-s-7heresdk19AdministrativeRulesV20turnOnRedRegulationsSayAA04TurneF10RegulationOGvp" class="token"><code>turnOnRedRegulations</code></a> 
 
   </div>
 
@@ -635,6 +667,10 @@ Represents a set of administrative rules for a country or a state.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-turnonredregulation">TurnOnRedRegulation</a>
+
   </div>
 
   </div>
@@ -643,7 +679,7 @@ Represents a set of administrative rules for a country or a state.
 
 - <div>
 
-  ` `<span id="/s:7heresdk19AdministrativeRulesV22parkingSideRegulationsSayAA07ParkingE10RegulationOGvp"></span>` `<span id="//apple_ref/swift/Property/parkingSideRegulations" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-administrativerules#/s:7heresdk19AdministrativeRulesV22parkingSideRegulationsSayAA07ParkingE10RegulationOGvp" class="token"><code>parkingSideRegulations</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19AdministrativeRulesV22parkingSideRegulationsSayAA07ParkingE10RegulationOGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-parkingSideRegulations" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-administrativerules#sdk-for-ios-navigate-s-7heresdk19AdministrativeRulesV22parkingSideRegulationsSayAA07ParkingE10RegulationOGvp" class="token"><code>parkingSideRegulations</code></a> 
 
   </div>
 
@@ -679,6 +715,10 @@ Represents a set of administrative rules for a country or a state.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-parkingsideregulation">ParkingSideRegulation</a>
+
   </div>
 
   </div>
@@ -687,7 +727,7 @@ Represents a set of administrative rules for a country or a state.
 
 - <div>
 
-  ` `<span id="/s:7heresdk19AdministrativeRulesV25isCleanAirStickerRequiredSbvp"></span>` `<span id="//apple_ref/swift/Property/isCleanAirStickerRequired" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-administrativerules#/s:7heresdk19AdministrativeRulesV25isCleanAirStickerRequiredSbvp" class="token"><code>isCleanAirStickerRequired</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19AdministrativeRulesV25isCleanAirStickerRequiredSbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-isCleanAirStickerRequired" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-administrativerules#sdk-for-ios-navigate-s-7heresdk19AdministrativeRulesV25isCleanAirStickerRequiredSbvp" class="token"><code>isCleanAirStickerRequired</code></a> 
 
   </div>
 
@@ -731,7 +771,7 @@ Represents a set of administrative rules for a country or a state.
 
 - <div>
 
-  ` `<span id="/s:7heresdk19AdministrativeRulesV24bloodAlcoholContentLimitAA05BloodefG0Vvp"></span>` `<span id="//apple_ref/swift/Property/bloodAlcoholContentLimit" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-administrativerules#/s:7heresdk19AdministrativeRulesV24bloodAlcoholContentLimitAA05BloodefG0Vvp" class="token"><code>bloodAlcoholContentLimit</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19AdministrativeRulesV24bloodAlcoholContentLimitAA05BloodefG0Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-bloodAlcoholContentLimit" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-administrativerules#sdk-for-ios-navigate-s-7heresdk19AdministrativeRulesV24bloodAlcoholContentLimitAA05BloodefG0Vvp" class="token"><code>bloodAlcoholContentLimit</code></a> 
 
   </div>
 
@@ -767,6 +807,10 @@ Represents a set of administrative rules for a country or a state.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-bloodalcoholcontentlimit">BloodAlcoholContentLimit</a>
+
   </div>
 
   </div>
@@ -775,7 +819,7 @@ Represents a set of administrative rules for a country or a state.
 
 - <div>
 
-  ` `<span id="/s:7heresdk19AdministrativeRulesV11tollSystemsSayAA10TollSystemVGvp"></span>` `<span id="//apple_ref/swift/Property/tollSystems" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-administrativerules#/s:7heresdk19AdministrativeRulesV11tollSystemsSayAA10TollSystemVGvp" class="token"><code>tollSystems</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19AdministrativeRulesV11tollSystemsSayAA10TollSystemVGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-tollSystems" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-administrativerules#sdk-for-ios-navigate-s-7heresdk19AdministrativeRulesV11tollSystemsSayAA10TollSystemVGvp" class="token"><code>tollSystems</code></a> 
 
   </div>
 
@@ -811,6 +855,10 @@ Represents a set of administrative rules for a country or a state.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-tollsystem">TollSystem</a>
+
   </div>
 
   </div>
@@ -819,7 +867,7 @@ Represents a set of administrative rules for a country or a state.
 
 - <div>
 
-  ` `<span id="/s:7heresdk19AdministrativeRulesV15preTripPlanningAA03PreeF0Vvp"></span>` `<span id="//apple_ref/swift/Property/preTripPlanning" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-administrativerules#/s:7heresdk19AdministrativeRulesV15preTripPlanningAA03PreeF0Vvp" class="token"><code>preTripPlanning</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19AdministrativeRulesV15preTripPlanningAA03PreeF0Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-preTripPlanning" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-administrativerules#sdk-for-ios-navigate-s-7heresdk19AdministrativeRulesV15preTripPlanningAA03PreeF0Vvp" class="token"><code>preTripPlanning</code></a> 
 
   </div>
 
@@ -855,6 +903,10 @@ Represents a set of administrative rules for a country or a state.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-pretripplanning">PreTripPlanning</a>
+
   </div>
 
   </div>
@@ -863,7 +915,7 @@ Represents a set of administrative rules for a country or a state.
 
 - <div>
 
-      init(countryCode: stateCode: adminContextId: parentAdminContextIds: drivingSide: unitSystem: speedLimits: timeZoneOffsetsInMinutes: daylightSavingPeriod: isUturnRestricted: headlightsRequirements: isTollRequired: isTollStickerRequired: turnOnRedRegulations: parkingSideRegulations: isCleanAirStickerRequired: bloodAlcoholContentLimit: tollSystems: preTripPlanning: )
+   <span id="sdk-for-ios-navigate-s-7heresdk19AdministrativeRulesV11countryCode05stateE014adminContextId011parentAdminH3Ids11drivingSide10unitSystem11speedLimits24timeZoneOffsetsInMinutes20daylightSavingPeriod17isUturnRestricted22headlightsRequirements14isTollRequired21isTollStickerRequired20turnOnRedRegulations07parkingN11Regulations25isCleanAirStickerRequired24bloodAlcoholContentLimit11tollSystems15preTripPlanningAcA07CountryE0O_SSSgAA0khI0VSayA_GAA07DrivingN0OSgAA04UnitP0OSgAA019GeneralVehicleSpeedR0VSaySdGAA8TimeRuleCSgSbSayAA21HeadlightsRequirementOGS2bSayAA19TurnOnRedRegulationOGSayAA07ParkingN10RegulationOGSbAA24BloodAlcoholContentLimitVSayAA04TollP0VGAA15PreTripPlanningVtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-countryCode-stateCode-adminContextId-parentAdminContextIds-drivingSide-unitSystem-speedLimits-timeZoneOffsetsInMinutes-daylightSavingPeriod-isUturnRestricted-headlightsRequirements-isTollRequired-isTollStickerRequired-turnOnRedRegulations-parkingSideRegulations-isCleanAirStickerRequired-bloodAlcoholContentLimit-tollSystems-preTripPlanning" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-administrativerules#sdk-for-ios-navigate-s-7heresdk19AdministrativeRulesV11countryCode05stateE014adminContextId011parentAdminH3Ids11drivingSide10unitSystem11speedLimits24timeZoneOffsetsInMinutes20daylightSavingPeriod17isUturnRestricted22headlightsRequirements14isTollRequired21isTollStickerRequired20turnOnRedRegulations07parkingN11Regulations25isCleanAirStickerRequired24bloodAlcoholContentLimit11tollSystems15preTripPlanningAcA07CountryE0O_SSSgAA0khI0VSayA_GAA07DrivingN0OSgAA04UnitP0OSgAA019GeneralVehicleSpeedR0VSaySdGAA8TimeRuleCSgSbSayAA21HeadlightsRequirementOGS2bSayAA19TurnOnRedRegulationOGSayAA07ParkingN10RegulationOGSbAA24BloodAlcoholContentLimitVSayAA04TollP0VGAA15PreTripPlanningVtcfc" class="token"><code>init(countryCode:</code><wbr></wbr><code>stateCode:</code><wbr></wbr><code>adminContextId:</code><wbr></wbr><code>parentAdminContextIds:</code><wbr></wbr><code>drivingSide:</code><wbr></wbr><code>unitSystem:</code><wbr></wbr><code>speedLimits:</code><wbr></wbr><code>timeZoneOffsetsInMinutes:</code><wbr></wbr><code>daylightSavingPeriod:</code><wbr></wbr><code>isUturnRestricted:</code><wbr></wbr><code>headlightsRequirements:</code><wbr></wbr><code>isTollRequired:</code><wbr></wbr><code>isTollStickerRequired:</code><wbr></wbr><code>turnOnRedRegulations:</code><wbr></wbr><code>parkingSideRegulations:</code><wbr></wbr><code>isCleanAirStickerRequired:</code><wbr></wbr><code>bloodAlcoholContentLimit:</code><wbr></wbr><code>tollSystems:</code><wbr></wbr><code>preTripPlanning:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -894,12 +946,25 @@ Represents a set of administrative rules for a country or a state.
   Swift
 
   ``` highlight
-  public init ( countryCode : CountryCode = CountryCode . abw , stateCode : String ? = nil , adminContextId : AdminContextId , parentAdminContextIds : [ AdminContextId ] = [], drivingSide : DrivingSide ? = nil , unitSystem : UnitSystem ? = nil , speedLimits : GeneralVehicleSpeedLimits = GeneralVehicleSpeedLimits (), timeZoneOffsetsInMinutes : [ TimeInterval ] = [], daylightSavingPeriod : TimeRule ? = nil , isUturnRestricted : Bool = false , headlightsRequirements : [ HeadlightsRequirement ] = [], isTollRequired : Bool = false , isTollStickerRequired : Bool = false , turnOnRedRegulations : [ TurnOnRedRegulation ] = [], parkingSideRegulations : [ ParkingSideRegulation ] = [], isCleanAirStickerRequired : Bool = false , bloodAlcoholContentLimit : BloodAlcoholContentLimit = BloodAlcoholContentLimit (), tollSystems : [ TollSystem ] = [], preTripPlanning : PreTripPlanning = PreTripPlanning ())
+  public init(countryCode: CountryCode = CountryCode.abw, stateCode: String? = nil, adminContextId: AdminContextId, parentAdminContextIds: [AdminContextId] = [], drivingSide: DrivingSide? = nil, unitSystem: UnitSystem? = nil, speedLimits: GeneralVehicleSpeedLimits = GeneralVehicleSpeedLimits(), timeZoneOffsetsInMinutes: [TimeInterval] = [], daylightSavingPeriod: TimeRule? = nil, isUturnRestricted: Bool = false, headlightsRequirements: [HeadlightsRequirement] = [], isTollRequired: Bool = false, isTollStickerRequired: Bool = false, turnOnRedRegulations: [TurnOnRedRegulation] = [], parkingSideRegulations: [ParkingSideRegulation] = [], isCleanAirStickerRequired: Bool = false, bloodAlcoholContentLimit: BloodAlcoholContentLimit = BloodAlcoholContentLimit(), tollSystems: [TollSystem] = [], preTripPlanning: PreTripPlanning = PreTripPlanning())
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-countrycode">CountryCode</a>
+  - <a href="sdk-for-ios-navigate-structs-admincontextid">AdminContextId</a>
+  - <a href="sdk-for-ios-navigate-enums-drivingside">DrivingSide</a>
+  - <a href="sdk-for-ios-navigate-enums-unitsystem">UnitSystem</a>
+  - <a href="sdk-for-ios-navigate-structs-generalvehiclespeedlimits">GeneralVehicleSpeedLimits</a>
+  - <a href="sdk-for-ios-navigate-classes-timerule">TimeRule</a>
+  - <a href="sdk-for-ios-navigate-enums-headlightsrequirement">HeadlightsRequirement</a>
+  - <a href="sdk-for-ios-navigate-enums-turnonredregulation">TurnOnRedRegulation</a>
+  - <a href="sdk-for-ios-navigate-enums-parkingsideregulation">ParkingSideRegulation</a>
+  - <a href="sdk-for-ios-navigate-structs-bloodalcoholcontentlimit">BloodAlcoholContentLimit</a>
+  - <a href="sdk-for-ios-navigate-structs-tollsystem">TollSystem</a>
+  - <a href="sdk-for-ios-navigate-structs-pretripplanning">PreTripPlanning</a>
 
   </div>
 

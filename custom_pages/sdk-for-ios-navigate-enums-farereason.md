@@ -27,7 +27,7 @@ Reason for the cost.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10FareReasonO4rideyA2CmF"></span>` `<span id="//apple_ref/swift/Element/ride" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-farereason#/s:7heresdk10FareReasonO4rideyA2CmF" class="token"><code>ride</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10FareReasonO4rideyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-ride" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-farereason#sdk-for-ios-navigate-s-7heresdk10FareReasonO4rideyA2CmF" class="token"><code>ride</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Reason for the cost.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10FareReasonO7parkingyA2CmF"></span>` `<span id="//apple_ref/swift/Element/parking" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-farereason#/s:7heresdk10FareReasonO7parkingyA2CmF" class="token"><code>parking</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10FareReasonO7parkingyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-parking" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-farereason#sdk-for-ios-navigate-s-7heresdk10FareReasonO7parkingyA2CmF" class="token"><code>parking</code></a> 
 
   </div>
 

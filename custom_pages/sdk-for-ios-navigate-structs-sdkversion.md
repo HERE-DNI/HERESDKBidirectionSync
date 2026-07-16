@@ -27,7 +27,7 @@ The `SDKVersion` represents version information for an SDK product. It encapsula
 
 - <div>
 
-  ` `<span id="/s:7heresdk10SDKVersionV14productVariantSSvp"></span>` `<span id="//apple_ref/swift/Property/productVariant" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-sdkversion#/s:7heresdk10SDKVersionV14productVariantSSvp" class="token"><code>productVariant</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10SDKVersionV14productVariantSSvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-productVariant" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-sdkversion#sdk-for-ios-navigate-s-7heresdk10SDKVersionV14productVariantSSvp" class="token"><code>productVariant</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ The `SDKVersion` represents version information for an SDK product. It encapsula
 
 - <div>
 
-  ` `<span id="/s:7heresdk10SDKVersionV11versionNameSSvp"></span>` `<span id="//apple_ref/swift/Property/versionName" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-sdkversion#/s:7heresdk10SDKVersionV11versionNameSSvp" class="token"><code>versionName</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10SDKVersionV11versionNameSSvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-versionName" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-sdkversion#sdk-for-ios-navigate-s-7heresdk10SDKVersionV11versionNameSSvp" class="token"><code>versionName</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ The `SDKVersion` represents version information for an SDK product. It encapsula
 
 - <div>
 
-  ` `<span id="/s:7heresdk10SDKVersionV17versionGenerations5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/versionGeneration" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-sdkversion#/s:7heresdk10SDKVersionV17versionGenerations5Int32Vvp" class="token"><code>versionGeneration</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10SDKVersionV17versionGenerations5Int32Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-versionGeneration" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-sdkversion#sdk-for-ios-navigate-s-7heresdk10SDKVersionV17versionGenerations5Int32Vvp" class="token"><code>versionGeneration</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ The `SDKVersion` represents version information for an SDK product. It encapsula
 
 - <div>
 
-  ` `<span id="/s:7heresdk10SDKVersionV12versionMajors5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/versionMajor" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-sdkversion#/s:7heresdk10SDKVersionV12versionMajors5Int32Vvp" class="token"><code>versionMajor</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10SDKVersionV12versionMajors5Int32Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-versionMajor" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-sdkversion#sdk-for-ios-navigate-s-7heresdk10SDKVersionV12versionMajors5Int32Vvp" class="token"><code>versionMajor</code></a> 
 
   </div>
 
@@ -203,7 +203,7 @@ The `SDKVersion` represents version information for an SDK product. It encapsula
 
 - <div>
 
-  ` `<span id="/s:7heresdk10SDKVersionV12versionMinors5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/versionMinor" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-sdkversion#/s:7heresdk10SDKVersionV12versionMinors5Int32Vvp" class="token"><code>versionMinor</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10SDKVersionV12versionMinors5Int32Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-versionMinor" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-sdkversion#sdk-for-ios-navigate-s-7heresdk10SDKVersionV12versionMinors5Int32Vvp" class="token"><code>versionMinor</code></a> 
 
   </div>
 
@@ -247,7 +247,7 @@ The `SDKVersion` represents version information for an SDK product. It encapsula
 
 - <div>
 
-  ` `<span id="/s:7heresdk10SDKVersionV12versionPatchs5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/versionPatch" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-sdkversion#/s:7heresdk10SDKVersionV12versionPatchs5Int32Vvp" class="token"><code>versionPatch</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10SDKVersionV12versionPatchs5Int32Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-versionPatch" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-sdkversion#sdk-for-ios-navigate-s-7heresdk10SDKVersionV12versionPatchs5Int32Vvp" class="token"><code>versionPatch</code></a> 
 
   </div>
 
@@ -291,7 +291,7 @@ The `SDKVersion` represents version information for an SDK product. It encapsula
 
 - <div>
 
-  ` `<span id="/s:7heresdk10SDKVersionV12versionBuilds5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/versionBuild" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-sdkversion#/s:7heresdk10SDKVersionV12versionBuilds5Int32Vvp" class="token"><code>versionBuild</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10SDKVersionV12versionBuilds5Int32Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-versionBuild" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-sdkversion#sdk-for-ios-navigate-s-7heresdk10SDKVersionV12versionBuilds5Int32Vvp" class="token"><code>versionBuild</code></a> 
 
   </div>
 
@@ -335,7 +335,7 @@ The `SDKVersion` represents version information for an SDK product. It encapsula
 
 - <div>
 
-  ` `<span id="/s:7heresdk10SDKVersionV10versionTagSSvp"></span>` `<span id="//apple_ref/swift/Property/versionTag" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-sdkversion#/s:7heresdk10SDKVersionV10versionTagSSvp" class="token"><code>versionTag</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10SDKVersionV10versionTagSSvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-versionTag" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-sdkversion#sdk-for-ios-navigate-s-7heresdk10SDKVersionV10versionTagSSvp" class="token"><code>versionTag</code></a> 
 
   </div>
 
@@ -379,7 +379,7 @@ The `SDKVersion` represents version information for an SDK product. It encapsula
 
 - <div>
 
-  ` `<span id="/s:7heresdk10SDKVersionV13backendConfigSSvp"></span>` `<span id="//apple_ref/swift/Property/backendConfig" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-sdkversion#/s:7heresdk10SDKVersionV13backendConfigSSvp" class="token"><code>backendConfig</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10SDKVersionV13backendConfigSSvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-backendConfig" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-sdkversion#sdk-for-ios-navigate-s-7heresdk10SDKVersionV13backendConfigSSvp" class="token"><code>backendConfig</code></a> 
 
   </div>
 
@@ -423,7 +423,7 @@ The `SDKVersion` represents version information for an SDK product. It encapsula
 
 - <div>
 
-      init(productVariant: versionName: versionGeneration: versionMajor: versionMinor: versionPatch: versionBuild: versionTag: backendConfig: )
+   <span id="sdk-for-ios-navigate-s-7heresdk10SDKVersionV14productVariant11versionName0E10Generation0E5Major0E5Minor0E5Patch0E5Build0E3Tag13backendConfigACSS_SSs5Int32VA4NS2Stcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-productVariant-versionName-versionGeneration-versionMajor-versionMinor-versionPatch-versionBuild-versionTag-backendConfig" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-sdkversion#sdk-for-ios-navigate-s-7heresdk10SDKVersionV14productVariant11versionName0E10Generation0E5Major0E5Minor0E5Patch0E5Build0E3Tag13backendConfigACSS_SSs5Int32VA4NS2Stcfc" class="token"><code>init(productVariant:</code><wbr></wbr><code>versionName:</code><wbr></wbr><code>versionGeneration:</code><wbr></wbr><code>versionMajor:</code><wbr></wbr><code>versionMinor:</code><wbr></wbr><code>versionPatch:</code><wbr></wbr><code>versionBuild:</code><wbr></wbr><code>versionTag:</code><wbr></wbr><code>backendConfig:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -454,10 +454,8 @@ The `SDKVersion` represents version information for an SDK product. It encapsula
   Swift
 
   ``` highlight
-  public init ( productVariant : String , versionName : String , versionGeneration : Int32 , versionMajor : Int32 , versionMinor : Int32 , versionPatch : Int32 , versionBuild : Int32 , versionTag : String , backendConfig : String )
+  public init(productVariant: String, versionName: String, versionGeneration: Int32, versionMajor: Int32, versionMinor: Int32, versionPatch: Int32, versionBuild: Int32, versionTag: String, backendConfig: String)
   ```
-
-  </pre>
 
   </div>
 

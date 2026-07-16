@@ -35,7 +35,7 @@ This class provides functionality to enable/disable console logs as well as sett
 
 - <div>
 
-  ` `<span id="/s:7heresdk10LogControlC16InvalidPathErrora"></span>` `<span id="//apple_ref/swift/Alias/InvalidPathError" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-logcontrol#/s:7heresdk10LogControlC16InvalidPathErrora" class="token"><code>InvalidPathError</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10LogControlC16InvalidPathErrora"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Alias-InvalidPathError" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-logcontrol#sdk-for-ios-explore-s-7heresdk10LogControlC16InvalidPathErrora" class="token"><code>InvalidPathError</code></a> 
 
   </div>
 
@@ -79,7 +79,7 @@ This class provides functionality to enable/disable console logs as well as sett
 
 - <div>
 
-      enableLoggingToConsole(level: )
+   <span id="sdk-for-ios-explore-s-7heresdk10LogControlC22enableLoggingToConsole5levelyAA0B5LevelO_tFZ"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-enableLoggingToConsole-level" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-logcontrol#sdk-for-ios-explore-s-7heresdk10LogControlC22enableLoggingToConsole5levelyAA0B5LevelO_tFZ" class="token"><code>enableLoggingToConsole(level:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -97,7 +97,7 @@ This class provides functionality to enable/disable console logs as well as sett
 
   <div class="abstract">
 
-  Enables SDK logging messages to console that can be viewed using macOS Console app. Enabled by default with <a href="sdk-for-ios-explore-enums-loglevel#/s:7heresdk8LogLevelO03logC4InfoyA2CmF">`LogLevel.logLevelInfo`</a>.
+  Enables SDK logging messages to console that can be viewed using macOS Console app. Enabled by default with <a href="sdk-for-ios-explore-enums-loglevel#sdk-for-ios-explore-s-7heresdk8LogLevelO03logC4InfoyA2CmF">`LogLevel.logLevelInfo`</a>.
 
   </div>
 
@@ -110,12 +110,14 @@ This class provides functionality to enable/disable console logs as well as sett
   Swift
 
   ``` highlight
-  public static func enableLoggingToConsole ( level : LogLevel )
+  public static func enableLoggingToConsole(level: LogLevel)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-loglevel">LogLevel</a>
 
   </div>
 
@@ -146,7 +148,7 @@ This class provides functionality to enable/disable console logs as well as sett
 
 - <div>
 
-      disableLoggingToConsole()
+   <span id="sdk-for-ios-explore-s-7heresdk10LogControlC23disableLoggingToConsoleyyFZ"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-disableLoggingToConsole" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-logcontrol#sdk-for-ios-explore-s-7heresdk10LogControlC23disableLoggingToConsoleyyFZ" class="token"><code>disableLoggingToConsole()</code></a> 
 
   </div>
 
@@ -164,7 +166,7 @@ This class provides functionality to enable/disable console logs as well as sett
 
   <div class="abstract">
 
-  Disables SDK logging messages to console. Enabled by default with <a href="sdk-for-ios-explore-enums-loglevel#/s:7heresdk8LogLevelO03logC4InfoyA2CmF">`LogLevel.logLevelInfo`</a>.
+  Disables SDK logging messages to console. Enabled by default with <a href="sdk-for-ios-explore-enums-loglevel#sdk-for-ios-explore-s-7heresdk8LogLevelO03logC4InfoyA2CmF">`LogLevel.logLevelInfo`</a>.
 
   </div>
 
@@ -177,10 +179,8 @@ This class provides functionality to enable/disable console logs as well as sett
   Swift
 
   ``` highlight
-  public static func disableLoggingToConsole ()
+  public static func disableLoggingToConsole()
   ```
-
-  </pre>
 
   </div>
 
@@ -192,7 +192,7 @@ This class provides functionality to enable/disable console logs as well as sett
 
 - <div>
 
-      setAppender(level: appender: )
+   <span id="sdk-for-ios-explore-s-7heresdk10LogControlC11setAppender5level8appenderyAA0B5LevelO_AA0bE0_ptFZ"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-setAppender-level-appender" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-logcontrol#sdk-for-ios-explore-s-7heresdk10LogControlC11setAppender5level8appenderyAA0B5LevelO_AA0bE0_ptFZ" class="token"><code>setAppender(level:</code><wbr></wbr><code>appender:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -210,12 +210,7 @@ This class provides functionality to enable/disable console logs as well as sett
 
   <div class="abstract">
 
-  Sets a custom log appender to receive log messages from the SDK. This overwrites a previous custom log appender set by user. Note, that setting the custom appender does not disable logging to the console made by SDK, in order to do that use
-
-      LogControl.disableLoggingToConsole(...)
-
-  API.
-  </p>
+  Sets a custom log appender to receive log messages from the SDK. This overwrites a previous custom log appender set by user. Note, that setting the custom appender does not disable logging to the console made by SDK, in order to do that use <a href="sdk-for-ios-explore-classes-logcontrol#sdk-for-ios-explore-s-7heresdk10LogControlC23disableLoggingToConsoleyyFZ">`LogControl.disableLoggingToConsole(...)`</a> API.
 
   </div>
 
@@ -228,12 +223,15 @@ This class provides functionality to enable/disable console logs as well as sett
   Swift
 
   ``` highlight
-  public static func setAppender ( level : LogLevel , appender : LogAppender )
+  public static func setAppender(level: LogLevel, appender: LogAppender)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-loglevel">LogLevel</a>
+  - <a href="sdk-for-ios-explore-protocols-logappender">LogAppender</a>
 
   </div>
 
@@ -270,7 +268,7 @@ This class provides functionality to enable/disable console logs as well as sett
 
 - <div>
 
-      setAppender(level: path: )
+   <span id="sdk-for-ios-explore-s-7heresdk10LogControlC11setAppender5level4pathyAA0B5LevelO_SStKFZ"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-setAppender-level-path" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-logcontrol#sdk-for-ios-explore-s-7heresdk10LogControlC11setAppender5level4pathyAA0B5LevelO_SStKFZ" class="token"><code>setAppender(level:</code><wbr></wbr><code>path:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -288,18 +286,13 @@ This class provides functionality to enable/disable console logs as well as sett
 
   <div class="abstract">
 
-  Sets a custom log appender that will write SDK log messages to a file. This overwrites a previous custom log appender set by user. Note, that setting the custom appender does not disable logging to the console made by SDK, in order to do that use
-
-      LogControl.disableLoggingToConsole(...)
-
-  API.
-  </p>
+  Sets a custom log appender that will write SDK log messages to a file. This overwrites a previous custom log appender set by user. Note, that setting the custom appender does not disable logging to the console made by SDK, in order to do that use <a href="sdk-for-ios-explore-classes-logcontrol#sdk-for-ios-explore-s-7heresdk10LogControlC23disableLoggingToConsoleyyFZ">`LogControl.disableLoggingToConsole(...)`</a> API.
 
   <div class="aside aside-throws">
 
   Throws
 
-  <a href="sdk-for-ios-explore-classes-logcontrol#/s:7heresdk10LogControlC16InvalidPathErrora">`LogControl.InvalidPathError`</a> <a href="sdk-for-ios-explore-classes-logcontrol#/s:7heresdk10LogControlC16InvalidPathErrora">`LogControl.InvalidPathError`</a> Indicates that the file path is invalid or not writeable.
+  <a href="sdk-for-ios-explore-classes-logcontrol#sdk-for-ios-explore-s-7heresdk10LogControlC16InvalidPathErrora">`LogControl.InvalidPathError`</a> <a href="sdk-for-ios-explore-classes-logcontrol#sdk-for-ios-explore-s-7heresdk10LogControlC16InvalidPathErrora">`LogControl.InvalidPathError`</a> Indicates that the file path is invalid or not writeable.
 
   </div>
 
@@ -314,12 +307,14 @@ This class provides functionality to enable/disable console logs as well as sett
   Swift
 
   ``` highlight
-  public static func setAppender ( level : LogLevel , path : String ) throws
+  public static func setAppender(level: LogLevel, path: String) throws
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-loglevel">LogLevel</a>
 
   </div>
 
@@ -356,7 +351,7 @@ This class provides functionality to enable/disable console logs as well as sett
 
 - <div>
 
-      removeAppender()
+   <span id="sdk-for-ios-explore-s-7heresdk10LogControlC14removeAppenderyyFZ"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-removeAppender" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-logcontrol#sdk-for-ios-explore-s-7heresdk10LogControlC14removeAppenderyyFZ" class="token"><code>removeAppender()</code></a> 
 
   </div>
 
@@ -387,10 +382,8 @@ This class provides functionality to enable/disable console logs as well as sett
   Swift
 
   ``` highlight
-  public static func removeAppender ()
+  public static func removeAppender()
   ```
-
-  </pre>
 
   </div>
 

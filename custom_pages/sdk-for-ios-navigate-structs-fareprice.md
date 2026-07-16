@@ -27,7 +27,7 @@ Price of a fare.
 
 - <div>
 
-  ` `<span id="/s:7heresdk9FarePriceV4typeAA0bC4TypeOvp"></span>` `<span id="//apple_ref/swift/Property/type" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-fareprice#/s:7heresdk9FarePriceV4typeAA0bC4TypeOvp" class="token"><code>type</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9FarePriceV4typeAA0bC4TypeOvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-type" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-fareprice#sdk-for-ios-navigate-s-7heresdk9FarePriceV4typeAA0bC4TypeOvp" class="token"><code>type</code></a> 
 
   </div>
 
@@ -45,7 +45,7 @@ Price of a fare.
 
   <div class="abstract">
 
-  Type of price represented by this object. Defaults to <a href="sdk-for-ios-navigate-enums-farepricetype#/s:7heresdk13FarePriceTypeO5valueyA2CmF">`FarePriceType.value`</a>.
+  Type of price represented by this object. Defaults to <a href="sdk-for-ios-navigate-enums-farepricetype#sdk-for-ios-navigate-s-7heresdk13FarePriceTypeO5valueyA2CmF">`FarePriceType.value`</a>.
 
   </div>
 
@@ -63,6 +63,10 @@ Price of a fare.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-farepricetype">FarePriceType</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ Price of a fare.
 
 - <div>
 
-  ` `<span id="/s:7heresdk9FarePriceV9estimatedSbvp"></span>` `<span id="//apple_ref/swift/Property/estimated" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-fareprice#/s:7heresdk9FarePriceV9estimatedSbvp" class="token"><code>estimated</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9FarePriceV9estimatedSbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-estimated" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-fareprice#sdk-for-ios-navigate-s-7heresdk9FarePriceV9estimatedSbvp" class="token"><code>estimated</code></a> 
 
   </div>
 
@@ -115,7 +119,7 @@ Price of a fare.
 
 - <div>
 
-  ` `<span id="/s:7heresdk9FarePriceV8currencySSvp"></span>` `<span id="//apple_ref/swift/Property/currency" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-fareprice#/s:7heresdk9FarePriceV8currencySSvp" class="token"><code>currency</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9FarePriceV8currencySSvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-currency" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-fareprice#sdk-for-ios-navigate-s-7heresdk9FarePriceV8currencySSvp" class="token"><code>currency</code></a> 
 
   </div>
 
@@ -159,7 +163,7 @@ Price of a fare.
 
 - <div>
 
-  ` `<span id="/s:7heresdk9FarePriceV7minimumSdvp"></span>` `<span id="//apple_ref/swift/Property/minimum" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-fareprice#/s:7heresdk9FarePriceV7minimumSdvp" class="token"><code>minimum</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9FarePriceV7minimumSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-minimum" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-fareprice#sdk-for-ios-navigate-s-7heresdk9FarePriceV7minimumSdvp" class="token"><code>minimum</code></a> 
 
   </div>
 
@@ -177,7 +181,7 @@ Price of a fare.
 
   <div class="abstract">
 
-  Minimum price when the price is of <a href="sdk-for-ios-navigate-enums-farepricetype#/s:7heresdk13FarePriceTypeO5rangeyA2CmF">`FarePriceType.range`</a> type. Otherwise, it is equal to <a href="sdk-for-ios-navigate-structs-fareprice#/s:7heresdk9FarePriceV7maximumSdvp">`FarePrice.maximum`</a>. Defaults to 0.
+  Minimum price when the price is of <a href="sdk-for-ios-navigate-enums-farepricetype#sdk-for-ios-navigate-s-7heresdk13FarePriceTypeO5rangeyA2CmF">`FarePriceType.range`</a> type. Otherwise, it is equal to <a href="sdk-for-ios-navigate-structs-fareprice#sdk-for-ios-navigate-s-7heresdk9FarePriceV7maximumSdvp">`FarePrice.maximum`</a>. Defaults to 0.
 
   </div>
 
@@ -203,7 +207,7 @@ Price of a fare.
 
 - <div>
 
-  ` `<span id="/s:7heresdk9FarePriceV7maximumSdvp"></span>` `<span id="//apple_ref/swift/Property/maximum" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-fareprice#/s:7heresdk9FarePriceV7maximumSdvp" class="token"><code>maximum</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9FarePriceV7maximumSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-maximum" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-fareprice#sdk-for-ios-navigate-s-7heresdk9FarePriceV7maximumSdvp" class="token"><code>maximum</code></a> 
 
   </div>
 
@@ -221,7 +225,7 @@ Price of a fare.
 
   <div class="abstract">
 
-  Maximum price when the price is of <a href="sdk-for-ios-navigate-enums-farepricetype#/s:7heresdk13FarePriceTypeO5rangeyA2CmF">`FarePriceType.range`</a> type. Otherwise, it is equal to <a href="sdk-for-ios-navigate-structs-fareprice#/s:7heresdk9FarePriceV7minimumSdvp">`FarePrice.minimum`</a>. Defaults to 0.
+  Maximum price when the price is of <a href="sdk-for-ios-navigate-enums-farepricetype#sdk-for-ios-navigate-s-7heresdk13FarePriceTypeO5rangeyA2CmF">`FarePriceType.range`</a> type. Otherwise, it is equal to <a href="sdk-for-ios-navigate-structs-fareprice#sdk-for-ios-navigate-s-7heresdk9FarePriceV7minimumSdvp">`FarePrice.minimum`</a>. Defaults to 0.
 
   </div>
 
@@ -247,7 +251,7 @@ Price of a fare.
 
 - <div>
 
-  ` `<span id="/s:7heresdk9FarePriceV14validityPeriodSdSgvp"></span>` `<span id="//apple_ref/swift/Property/validityPeriod" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-fareprice#/s:7heresdk9FarePriceV14validityPeriodSdSgvp" class="token"><code>validityPeriod</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9FarePriceV14validityPeriodSdSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-validityPeriod" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-fareprice#sdk-for-ios-navigate-s-7heresdk9FarePriceV14validityPeriodSdSgvp" class="token"><code>validityPeriod</code></a> 
 
   </div>
 
@@ -301,7 +305,7 @@ Price of a fare.
 
 - <div>
 
-      init(type: estimated: currency: minimum: maximum: validityPeriod: )
+   <span id="sdk-for-ios-navigate-s-7heresdk9FarePriceV4type9estimated8currency7minimum7maximum14validityPeriodAcA0bC4TypeO_SbSSS3dSgtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-type-estimated-currency-minimum-maximum-validityPeriod" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-fareprice#sdk-for-ios-navigate-s-7heresdk9FarePriceV4type9estimated8currency7minimum7maximum14validityPeriodAcA0bC4TypeO_SbSSS3dSgtcfc" class="token"><code>init(type:</code><wbr></wbr><code>estimated:</code><wbr></wbr><code>currency:</code><wbr></wbr><code>minimum:</code><wbr></wbr><code>maximum:</code><wbr></wbr><code>validityPeriod:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -323,11 +327,11 @@ Price of a fare.
 
   - Parameters
 
-    - type: Type of price represented by this object. Defaults to <a href="sdk-for-ios-navigate-enums-farepricetype#/s:7heresdk13FarePriceTypeO5valueyA2CmF">`FarePriceType.value`</a>.
+    - type: Type of price represented by this object. Defaults to <a href="sdk-for-ios-navigate-enums-farepricetype#sdk-for-ios-navigate-s-7heresdk13FarePriceTypeO5valueyA2CmF">`FarePriceType.value`</a>.
     - estimated: `True` when the fare price is estimated based on best guess and the actual price may differ. Defaults to `false`.
     - currency: Local currency of the price compliant to ISO 4217. For example, “GBP” for the British pound sterling. Defaults to “EUR” string.
-    - minimum: Minimum price when the price is of <a href="sdk-for-ios-navigate-enums-farepricetype#/s:7heresdk13FarePriceTypeO5rangeyA2CmF">`FarePriceType.range`</a> type. Otherwise, it is equal to <a href="sdk-for-ios-navigate-structs-fareprice#/s:7heresdk9FarePriceV7maximumSdvp">`FarePrice.maximum`</a>. Defaults to 0.
-    - maximum: Maximum price when the price is of <a href="sdk-for-ios-navigate-enums-farepricetype#/s:7heresdk13FarePriceTypeO5rangeyA2CmF">`FarePriceType.range`</a> type. Otherwise, it is equal to <a href="sdk-for-ios-navigate-structs-fareprice#/s:7heresdk9FarePriceV7minimumSdvp">`FarePrice.minimum`</a>. Defaults to 0.
+    - minimum: Minimum price when the price is of <a href="sdk-for-ios-navigate-enums-farepricetype#sdk-for-ios-navigate-s-7heresdk13FarePriceTypeO5rangeyA2CmF">`FarePriceType.range`</a> type. Otherwise, it is equal to <a href="sdk-for-ios-navigate-structs-fareprice#sdk-for-ios-navigate-s-7heresdk9FarePriceV7maximumSdvp">`FarePrice.maximum`</a>. Defaults to 0.
+    - maximum: Maximum price when the price is of <a href="sdk-for-ios-navigate-enums-farepricetype#sdk-for-ios-navigate-s-7heresdk13FarePriceTypeO5rangeyA2CmF">`FarePriceType.range`</a> type. Otherwise, it is equal to <a href="sdk-for-ios-navigate-structs-fareprice#sdk-for-ios-navigate-s-7heresdk9FarePriceV7minimumSdvp">`FarePrice.minimum`</a>. Defaults to 0.
     - validityPeriod: When set, the price is paid for a specific duration.
 
     **Examples**:
@@ -351,12 +355,14 @@ Price of a fare.
   Swift
 
   ``` highlight
-  public init ( type : FarePriceType = FarePriceType . value , estimated : Bool = false , currency : String = "EUR" , minimum : Double = 0.0 , maximum : Double = 0.0 , validityPeriod : TimeInterval ? = nil )
+  public init(type: FarePriceType = FarePriceType.value, estimated: Bool = false, currency: String = "EUR", minimum: Double = 0.0, maximum: Double = 0.0, validityPeriod: TimeInterval? = nil)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-farepricetype">FarePriceType</a>
 
   </div>
 

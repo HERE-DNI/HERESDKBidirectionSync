@@ -27,7 +27,7 @@ Protocol for handling two finger tap gestures. Two finger tap gesture occurs aft
 
 - <div>
 
-      onTwoFingerTap(origin: )
+   <span id="sdk-for-ios-navigate-s-7heresdk20TwoFingerTapDelegateP02onbcD06originyAA7Point2DV_tF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-onTwoFingerTap-origin" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-protocols-twofingertapdelegate#sdk-for-ios-navigate-s-7heresdk20TwoFingerTapDelegateP02onbcD06originyAA7Point2DV_tF" class="token"><code>onTwoFingerTap(origin:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -58,12 +58,14 @@ Protocol for handling two finger tap gestures. Two finger tap gesture occurs aft
   Swift
 
   ``` highlight
-  func onTwoFingerTap ( origin : Point2D )
+  func onTwoFingerTap(origin: Point2D)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-point2d">Point2D</a>
 
   </div>
 

@@ -23,9 +23,13 @@ extension TrafficIncidentOnRoute: Hashable
 
 </div>
 
+Related types:
+
+- <a href="sdk-for-ios-navigate-protocols-trafficincidentbase">TrafficIncidentBase</a>
+
 </div>
 
-Traffic incidents on a route. Use <a href="sdk-for-ios-navigate-classes-section#/s:7heresdk7SectionC16trafficIncidentsSayAA22TrafficIncidentOnRouteCGvp">`Section.trafficIncidents`</a> to get a list of incidents on a route section. Use <a href="sdk-for-ios-navigate-classes-span#/s:7heresdk4SpanC22trafficIncidentIndexesSays5Int32VGvp">`Span.trafficIncidentIndexes`</a> to associate incidents with spans. Each incident takes at least the whole geometry of matching spans. Also, an incident can take some place out of the built route.
+Traffic incidents on a route. Use <a href="sdk-for-ios-navigate-classes-section#sdk-for-ios-navigate-s-7heresdk7SectionC16trafficIncidentsSayAA22TrafficIncidentOnRouteCGvp">`Section.trafficIncidents`</a> to get a list of incidents on a route section. Use <a href="sdk-for-ios-navigate-classes-span#sdk-for-ios-navigate-s-7heresdk4SpanC22trafficIncidentIndexesSays5Int32VGvp">`Span.trafficIncidentIndexes`</a> to associate incidents with spans. Each incident takes at least the whole geometry of matching spans. Also, an incident can take some place out of the built route.
 
 </div>
 
@@ -35,7 +39,7 @@ Traffic incidents on a route. Use <a href="sdk-for-ios-navigate-classes-section#
 
 - <div>
 
-  ` `<span id="/s:7heresdk22TrafficIncidentOnRouteC6impactAA0bC6ImpactOvp"></span>` `<span id="//apple_ref/swift/Property/impact" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-trafficincidentonroute#/s:7heresdk22TrafficIncidentOnRouteC6impactAA0bC6ImpactOvp" class="token"><code>impact</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk22TrafficIncidentOnRouteC6impactAA0bC6ImpactOvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-impact" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-trafficincidentonroute#sdk-for-ios-navigate-s-7heresdk22TrafficIncidentOnRouteC6impactAA0bC6ImpactOvp" class="token"><code>impact</code></a> 
 
   </div>
 
@@ -53,7 +57,7 @@ Traffic incidents on a route. Use <a href="sdk-for-ios-navigate-classes-section#
 
   <div class="abstract">
 
-  The impact of the incident. The value is <a href="sdk-for-ios-navigate-enums-trafficincidentimpact#/s:7heresdk21TrafficIncidentImpactO7unknownyA2CmF">`TrafficIncidentImpact.unknown`</a> if it hasn’t been provided by the traffic incidents supplier.
+  The impact of the incident. The value is <a href="sdk-for-ios-navigate-enums-trafficincidentimpact#sdk-for-ios-navigate-s-7heresdk21TrafficIncidentImpactO7unknownyA2CmF">`TrafficIncidentImpact.unknown`</a> if it hasn’t been provided by the traffic incidents supplier.
 
   </div>
 
@@ -71,6 +75,10 @@ Traffic incidents on a route. Use <a href="sdk-for-ios-navigate-classes-section#
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-trafficincidentimpact">TrafficIncidentImpact</a>
+
   </div>
 
   </div>
@@ -79,7 +87,7 @@ Traffic incidents on a route. Use <a href="sdk-for-ios-navigate-classes-section#
 
 - <div>
 
-  ` `<span id="/s:7heresdk22TrafficIncidentOnRouteC4typeAA0bC4TypeOvp"></span>` `<span id="//apple_ref/swift/Property/type" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-trafficincidentonroute#/s:7heresdk22TrafficIncidentOnRouteC4typeAA0bC4TypeOvp" class="token"><code>type</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk22TrafficIncidentOnRouteC4typeAA0bC4TypeOvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-type" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-trafficincidentonroute#sdk-for-ios-navigate-s-7heresdk22TrafficIncidentOnRouteC4typeAA0bC4TypeOvp" class="token"><code>type</code></a> 
 
   </div>
 
@@ -97,7 +105,7 @@ Traffic incidents on a route. Use <a href="sdk-for-ios-navigate-classes-section#
 
   <div class="abstract">
 
-  The category of the incident. The value is <a href="sdk-for-ios-navigate-enums-trafficincidenttype#/s:7heresdk19TrafficIncidentTypeO7unknownyA2CmF">`TrafficIncidentType.unknown`</a> if it hasn’t been provided by the traffic incidents supplier.
+  The category of the incident. The value is <a href="sdk-for-ios-navigate-enums-trafficincidenttype#sdk-for-ios-navigate-s-7heresdk19TrafficIncidentTypeO7unknownyA2CmF">`TrafficIncidentType.unknown`</a> if it hasn’t been provided by the traffic incidents supplier.
 
   </div>
 
@@ -115,6 +123,10 @@ Traffic incidents on a route. Use <a href="sdk-for-ios-navigate-classes-section#
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-trafficincidenttype">TrafficIncidentType</a>
+
   </div>
 
   </div>
@@ -123,7 +135,7 @@ Traffic incidents on a route. Use <a href="sdk-for-ios-navigate-classes-section#
 
 - <div>
 
-  ` `<span id="/s:7heresdk22TrafficIncidentOnRouteC11descriptionAA13LocalizedTextVvp"></span>` `<span id="//apple_ref/swift/Property/description" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-trafficincidentonroute#/s:7heresdk22TrafficIncidentOnRouteC11descriptionAA13LocalizedTextVvp" class="token"><code>description</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk22TrafficIncidentOnRouteC11descriptionAA13LocalizedTextVvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-description" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-trafficincidentonroute#sdk-for-ios-navigate-s-7heresdk22TrafficIncidentOnRouteC11descriptionAA13LocalizedTextVvp" class="token"><code>description</code></a> 
 
   </div>
 
@@ -159,6 +171,10 @@ Traffic incidents on a route. Use <a href="sdk-for-ios-navigate-classes-section#
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-localizedtext">LocalizedText</a>
+
   </div>
 
   </div>
@@ -167,7 +183,7 @@ Traffic incidents on a route. Use <a href="sdk-for-ios-navigate-classes-section#
 
 - <div>
 
-  ` `<span id="/s:7heresdk22TrafficIncidentOnRouteC9startTime10Foundation4DateVSgvp"></span>` `<span id="//apple_ref/swift/Property/startTime" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-trafficincidentonroute#/s:7heresdk22TrafficIncidentOnRouteC9startTime10Foundation4DateVSgvp" class="token"><code>startTime</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk22TrafficIncidentOnRouteC9startTime10Foundation4DateVSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-startTime" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-trafficincidentonroute#sdk-for-ios-navigate-s-7heresdk22TrafficIncidentOnRouteC9startTime10Foundation4DateVSgvp" class="token"><code>startTime</code></a> 
 
   </div>
 
@@ -211,7 +227,7 @@ Traffic incidents on a route. Use <a href="sdk-for-ios-navigate-classes-section#
 
 - <div>
 
-  ` `<span id="/s:7heresdk22TrafficIncidentOnRouteC7endTime10Foundation4DateVSgvp"></span>` `<span id="//apple_ref/swift/Property/endTime" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-trafficincidentonroute#/s:7heresdk22TrafficIncidentOnRouteC7endTime10Foundation4DateVSgvp" class="token"><code>endTime</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk22TrafficIncidentOnRouteC7endTime10Foundation4DateVSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-endTime" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-trafficincidentonroute#sdk-for-ios-navigate-s-7heresdk22TrafficIncidentOnRouteC7endTime10Foundation4DateVSgvp" class="token"><code>endTime</code></a> 
 
   </div>
 
@@ -255,7 +271,7 @@ Traffic incidents on a route. Use <a href="sdk-for-ios-navigate-classes-section#
 
 - <div>
 
-  ` `<span id="/s:7heresdk22TrafficIncidentOnRouteC2idSSSgvp"></span>` `<span id="//apple_ref/swift/Property/id" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-trafficincidentonroute#/s:7heresdk22TrafficIncidentOnRouteC2idSSSgvp" class="token"><code>id</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk22TrafficIncidentOnRouteC2idSSSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-id" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-trafficincidentonroute#sdk-for-ios-navigate-s-7heresdk22TrafficIncidentOnRouteC2idSSSgvp" class="token"><code>id</code></a> 
 
   </div>
 
@@ -273,7 +289,7 @@ Traffic incidents on a route. Use <a href="sdk-for-ios-navigate-classes-section#
 
   <div class="abstract">
 
-  The unique current identifier for a traffic incident. The identifier can be changed by the backend due to some events, e.g. changing of <a href="sdk-for-ios-navigate-classes-trafficincidentonroute#/s:7heresdk22TrafficIncidentOnRouteC7endTime10Foundation4DateVSgvp">`endTime`</a>. This field will be empty for `OfflineRouting`.
+  The unique current identifier for a traffic incident. The identifier can be changed by the backend due to some events, e.g. changing of <a href="sdk-for-ios-navigate-classes-trafficincidentonroute#sdk-for-ios-navigate-s-7heresdk22TrafficIncidentOnRouteC7endTime10Foundation4DateVSgvp">`endTime`</a>. This field will be empty for `OfflineRouting`.
 
   </div>
 

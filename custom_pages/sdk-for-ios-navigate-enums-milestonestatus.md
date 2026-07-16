@@ -27,7 +27,7 @@ This enum represents the status of the <a href="sdk-for-ios-navigate-structs-mil
 
 - <div>
 
-  ` `<span id="/s:7heresdk15MilestoneStatusO7reachedyA2CmF"></span>` `<span id="//apple_ref/swift/Element/reached" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-milestonestatus#/s:7heresdk15MilestoneStatusO7reachedyA2CmF" class="token"><code>reached</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15MilestoneStatusO7reachedyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-reached" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-milestonestatus#sdk-for-ios-navigate-s-7heresdk15MilestoneStatusO7reachedyA2CmF" class="token"><code>reached</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ This enum represents the status of the <a href="sdk-for-ios-navigate-structs-mil
 
 - <div>
 
-  ` `<span id="/s:7heresdk15MilestoneStatusO6missedyA2CmF"></span>` `<span id="//apple_ref/swift/Element/missed" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-milestonestatus#/s:7heresdk15MilestoneStatusO6missedyA2CmF" class="token"><code>missed</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15MilestoneStatusO6missedyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-missed" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-milestonestatus#sdk-for-ios-navigate-s-7heresdk15MilestoneStatusO6missedyA2CmF" class="token"><code>missed</code></a> 
 
   </div>
 

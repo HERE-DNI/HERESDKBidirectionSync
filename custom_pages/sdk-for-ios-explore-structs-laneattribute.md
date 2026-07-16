@@ -29,7 +29,7 @@ A struct that describes attributes assigned to a specific section of a lane. It 
 
 - <div>
 
-  ` `<span id="/s:7heresdk13LaneAttributeV19startOffsetInMeterss5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/startOffsetInMeters" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-laneattribute#/s:7heresdk13LaneAttributeV19startOffsetInMeterss5Int32Vvp" class="token"><code>startOffsetInMeters</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13LaneAttributeV19startOffsetInMeterss5Int32Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-startOffsetInMeters" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-laneattribute#sdk-for-ios-explore-s-7heresdk13LaneAttributeV19startOffsetInMeterss5Int32Vvp" class="token"><code>startOffsetInMeters</code></a> 
 
   </div>
 
@@ -73,7 +73,7 @@ A struct that describes attributes assigned to a specific section of a lane. It 
 
 - <div>
 
-  ` `<span id="/s:7heresdk13LaneAttributeV8markingsAA0B8MarkingsVvp"></span>` `<span id="//apple_ref/swift/Property/markings" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-laneattribute#/s:7heresdk13LaneAttributeV8markingsAA0B8MarkingsVvp" class="token"><code>markings</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13LaneAttributeV8markingsAA0B8MarkingsVvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-markings" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-laneattribute#sdk-for-ios-explore-s-7heresdk13LaneAttributeV8markingsAA0B8MarkingsVvp" class="token"><code>markings</code></a> 
 
   </div>
 
@@ -109,6 +109,10 @@ A struct that describes attributes assigned to a specific section of a lane. It 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-lanemarkings">LaneMarkings</a>
+
   </div>
 
   </div>
@@ -117,7 +121,7 @@ A struct that describes attributes assigned to a specific section of a lane. It 
 
 - <div>
 
-  ` `<span id="/s:7heresdk13LaneAttributeV6accessAA0B6AccessVvp"></span>` `<span id="//apple_ref/swift/Property/access" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-laneattribute#/s:7heresdk13LaneAttributeV6accessAA0B6AccessVvp" class="token"><code>access</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13LaneAttributeV6accessAA0B6AccessVvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-access" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-laneattribute#sdk-for-ios-explore-s-7heresdk13LaneAttributeV6accessAA0B6AccessVvp" class="token"><code>access</code></a> 
 
   </div>
 
@@ -153,6 +157,10 @@ A struct that describes attributes assigned to a specific section of a lane. It 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-laneaccess">LaneAccess</a>
+
   </div>
 
   </div>
@@ -161,7 +169,7 @@ A struct that describes attributes assigned to a specific section of a lane. It 
 
 - <div>
 
-  ` `<span id="/s:7heresdk13LaneAttributeV14tollStructuresSayAA13TollStructureVGvp"></span>` `<span id="//apple_ref/swift/Property/tollStructures" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-laneattribute#/s:7heresdk13LaneAttributeV14tollStructuresSayAA13TollStructureVGvp" class="token"><code>tollStructures</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13LaneAttributeV14tollStructuresSayAA13TollStructureVGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-tollStructures" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-laneattribute#sdk-for-ios-explore-s-7heresdk13LaneAttributeV14tollStructuresSayAA13TollStructureVGvp" class="token"><code>tollStructures</code></a> 
 
   </div>
 
@@ -197,6 +205,10 @@ A struct that describes attributes assigned to a specific section of a lane. It 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-tollstructure">TollStructure</a>
+
   </div>
 
   </div>
@@ -205,7 +217,7 @@ A struct that describes attributes assigned to a specific section of a lane. It 
 
 - <div>
 
-  ` `<span id="/s:7heresdk13LaneAttributeV4typeAA0B4TypeVSgvp"></span>` `<span id="//apple_ref/swift/Property/type" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-laneattribute#/s:7heresdk13LaneAttributeV4typeAA0B4TypeVSgvp" class="token"><code>type</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13LaneAttributeV4typeAA0B4TypeVSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-type" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-laneattribute#sdk-for-ios-explore-s-7heresdk13LaneAttributeV4typeAA0B4TypeVSgvp" class="token"><code>type</code></a> 
 
   </div>
 
@@ -241,6 +253,10 @@ A struct that describes attributes assigned to a specific section of a lane. It 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-lanetype">LaneType</a>
+
   </div>
 
   </div>
@@ -249,7 +265,7 @@ A struct that describes attributes assigned to a specific section of a lane. It 
 
 - <div>
 
-      init(startOffsetInMeters: markings: access: tollStructures: type: )
+   <span id="sdk-for-ios-explore-s-7heresdk13LaneAttributeV19startOffsetInMeters8markings6access14tollStructures4typeACs5Int32V_AA0B8MarkingsVAA0B6AccessVSayAA13TollStructureVGAA0B4TypeVSgtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-startOffsetInMeters-markings-access-tollStructures-type" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-laneattribute#sdk-for-ios-explore-s-7heresdk13LaneAttributeV19startOffsetInMeters8markings6access14tollStructures4typeACs5Int32V_AA0B8MarkingsVAA0B6AccessVSayAA13TollStructureVGAA0B4TypeVSgtcfc" class="token"><code>init(startOffsetInMeters:</code><wbr></wbr><code>markings:</code><wbr></wbr><code>access:</code><wbr></wbr><code>tollStructures:</code><wbr></wbr><code>type:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -280,12 +296,17 @@ A struct that describes attributes assigned to a specific section of a lane. It 
   Swift
 
   ``` highlight
-  public init ( startOffsetInMeters : Int32 , markings : LaneMarkings , access : LaneAccess , tollStructures : [ TollStructure ], type : LaneType ? = nil )
+  public init(startOffsetInMeters: Int32, markings: LaneMarkings, access: LaneAccess, tollStructures: [TollStructure], type: LaneType? = nil)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-lanemarkings">LaneMarkings</a>
+  - <a href="sdk-for-ios-explore-structs-laneaccess">LaneAccess</a>
+  - <a href="sdk-for-ios-explore-structs-tollstructure">TollStructure</a>
+  - <a href="sdk-for-ios-explore-structs-lanetype">LaneType</a>
 
   </div>
 

@@ -27,7 +27,7 @@ EVSE connector.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13EVSEConnectorV2idSSSgvp"></span>` `<span id="//apple_ref/swift/Property/id" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-evseconnector#/s:7heresdk13EVSEConnectorV2idSSSgvp" class="token"><code>id</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13EVSEConnectorV2idSSSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-id" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-evseconnector#sdk-for-ios-explore-s-7heresdk13EVSEConnectorV2idSSSgvp" class="token"><code>id</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ EVSE connector.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13EVSEConnectorV5cpoIdSSSgvp"></span>` `<span id="//apple_ref/swift/Property/cpoId" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-evseconnector#/s:7heresdk13EVSEConnectorV5cpoIdSSSgvp" class="token"><code>cpoId</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13EVSEConnectorV5cpoIdSSSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-cpoId" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-evseconnector#sdk-for-ios-explore-s-7heresdk13EVSEConnectorV5cpoIdSSSgvp" class="token"><code>cpoId</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ EVSE connector.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13EVSEConnectorV6typeIdSSSgvp"></span>` `<span id="//apple_ref/swift/Property/typeId" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-evseconnector#/s:7heresdk13EVSEConnectorV6typeIdSSSgvp" class="token"><code>typeId</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13EVSEConnectorV6typeIdSSSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-typeId" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-evseconnector#sdk-for-ios-explore-s-7heresdk13EVSEConnectorV6typeIdSSSgvp" class="token"><code>typeId</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ EVSE connector.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13EVSEConnectorV19maxPowerInKilowattsSdSgvp"></span>` `<span id="//apple_ref/swift/Property/maxPowerInKilowatts" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-evseconnector#/s:7heresdk13EVSEConnectorV19maxPowerInKilowattsSdSgvp" class="token"><code>maxPowerInKilowatts</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13EVSEConnectorV19maxPowerInKilowattsSdSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-maxPowerInKilowatts" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-evseconnector#sdk-for-ios-explore-s-7heresdk13EVSEConnectorV19maxPowerInKilowattsSdSgvp" class="token"><code>maxPowerInKilowatts</code></a> 
 
   </div>
 
@@ -203,7 +203,7 @@ EVSE connector.
 
 - <div>
 
-      init(id: cpoId: typeId: maxPowerInKilowatts: )
+   <span id="sdk-for-ios-explore-s-7heresdk13EVSEConnectorV2id5cpoId04typeE019maxPowerInKilowattsACSSSg_A2HSdSgtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-id-cpoId-typeId-maxPowerInKilowatts" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-evseconnector#sdk-for-ios-explore-s-7heresdk13EVSEConnectorV2id5cpoId04typeE019maxPowerInKilowattsACSSSg_A2HSdSgtcfc" class="token"><code>init(id:</code><wbr></wbr><code>cpoId:</code><wbr></wbr><code>typeId:</code><wbr></wbr><code>maxPowerInKilowatts:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -234,10 +234,8 @@ EVSE connector.
   Swift
 
   ``` highlight
-  public init ( id : String ? = nil , cpoId : String ? = nil , typeId : String ? = nil , maxPowerInKilowatts : Double ? = nil )
+  public init(id: String? = nil, cpoId: String? = nil, typeId: String? = nil, maxPowerInKilowatts: Double? = nil)
   ```
-
-  </pre>
 
   </div>
 

@@ -17,7 +17,7 @@ public struct RouteOffset
 
 </div>
 
-Represents a specific location along the route. A `RouteOffset` is a location on the route defined by the section index and the distance in meters from the start of that section to the specified location on the route. An offset in meters indicates the distance that needs to be traveled to reach a specific location along the route, such as a railway crossing. For the latter case, the location of a railway crossing can be retrieved from <a href="sdk-for-ios-explore-structs-routerailwaycrossing#/s:7heresdk20RouteRailwayCrossingV11coordinatesAA14GeoCoordinatesVvp">`RouteRailwayCrossing.coordinates`</a>.
+Represents a specific location along the route. A `RouteOffset` is a location on the route defined by the section index and the distance in meters from the start of that section to the specified location on the route. An offset in meters indicates the distance that needs to be traveled to reach a specific location along the route, such as a railway crossing. For the latter case, the location of a railway crossing can be retrieved from <a href="sdk-for-ios-explore-structs-routerailwaycrossing#sdk-for-ios-explore-s-7heresdk20RouteRailwayCrossingV11coordinatesAA14GeoCoordinatesVvp">`RouteRailwayCrossing.coordinates`</a>.
 
 </div>
 
@@ -27,7 +27,7 @@ Represents a specific location along the route. A `RouteOffset` is a location on
 
 - <div>
 
-  ` `<span id="/s:7heresdk11RouteOffsetV12sectionIndexs5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/sectionIndex" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-routeoffset#/s:7heresdk11RouteOffsetV12sectionIndexs5Int32Vvp" class="token"><code>sectionIndex</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11RouteOffsetV12sectionIndexs5Int32Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-sectionIndex" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-routeoffset#sdk-for-ios-explore-s-7heresdk11RouteOffsetV12sectionIndexs5Int32Vvp" class="token"><code>sectionIndex</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Represents a specific location along the route. A `RouteOffset` is a location on
 
 - <div>
 
-  ` `<span id="/s:7heresdk11RouteOffsetV14offsetInMetersSdvp"></span>` `<span id="//apple_ref/swift/Property/offsetInMeters" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-routeoffset#/s:7heresdk11RouteOffsetV14offsetInMetersSdvp" class="token"><code>offsetInMeters</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11RouteOffsetV14offsetInMetersSdvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-offsetInMeters" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-routeoffset#sdk-for-ios-explore-s-7heresdk11RouteOffsetV14offsetInMetersSdvp" class="token"><code>offsetInMeters</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Represents a specific location along the route. A `RouteOffset` is a location on
 
 - <div>
 
-      init(sectionIndex: offsetInMeters: )
+   <span id="sdk-for-ios-explore-s-7heresdk11RouteOffsetV12sectionIndex14offsetInMetersACs5Int32V_Sdtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-sectionIndex-offsetInMeters" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-routeoffset#sdk-for-ios-explore-s-7heresdk11RouteOffsetV12sectionIndex14offsetInMetersACs5Int32V_Sdtcfc" class="token"><code>init(sectionIndex:</code><wbr></wbr><code>offsetInMeters:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -146,10 +146,8 @@ Represents a specific location along the route. A `RouteOffset` is a location on
   Swift
 
   ``` highlight
-  public init ( sectionIndex : Int32 , offsetInMeters : Double )
+  public init(sectionIndex: Int32, offsetInMeters: Double)
   ```
-
-  </pre>
 
   </div>
 

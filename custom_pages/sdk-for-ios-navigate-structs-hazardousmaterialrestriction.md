@@ -29,7 +29,7 @@ Represents restriction on transport of hazardous materials. A generic restrictio
 
 - <div>
 
-  ` `<span id="/s:7heresdk28HazardousMaterialRestrictionV09hazardousC0AA0bC0OSgvp"></span>` `<span id="//apple_ref/swift/Property/hazardousMaterial" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-hazardousmaterialrestriction#/s:7heresdk28HazardousMaterialRestrictionV09hazardousC0AA0bC0OSgvp" class="token"><code>hazardousMaterial</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk28HazardousMaterialRestrictionV09hazardousC0AA0bC0OSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-hazardousMaterial" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-hazardousmaterialrestriction#sdk-for-ios-navigate-s-7heresdk28HazardousMaterialRestrictionV09hazardousC0AA0bC0OSgvp" class="token"><code>hazardousMaterial</code></a> 
 
   </div>
 
@@ -65,6 +65,10 @@ Represents restriction on transport of hazardous materials. A generic restrictio
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-hazardousmaterial">HazardousMaterial</a>
+
   </div>
 
   </div>
@@ -73,7 +77,7 @@ Represents restriction on transport of hazardous materials. A generic restrictio
 
 - <div>
 
-  ` `<span id="/s:7heresdk28HazardousMaterialRestrictionV14tunnelCategoryAA06TunnelF0OSgvp"></span>` `<span id="//apple_ref/swift/Property/tunnelCategory" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-hazardousmaterialrestriction#/s:7heresdk28HazardousMaterialRestrictionV14tunnelCategoryAA06TunnelF0OSgvp" class="token"><code>tunnelCategory</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk28HazardousMaterialRestrictionV14tunnelCategoryAA06TunnelF0OSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-tunnelCategory" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-hazardousmaterialrestriction#sdk-for-ios-navigate-s-7heresdk28HazardousMaterialRestrictionV14tunnelCategoryAA06TunnelF0OSgvp" class="token"><code>tunnelCategory</code></a> 
 
   </div>
 
@@ -109,6 +113,10 @@ Represents restriction on transport of hazardous materials. A generic restrictio
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-tunnelcategory">TunnelCategory</a>
+
   </div>
 
   </div>
@@ -117,7 +125,7 @@ Represents restriction on transport of hazardous materials. A generic restrictio
 
 - <div>
 
-      init(hazardousMaterial: )
+   <span id="sdk-for-ios-navigate-s-7heresdk28HazardousMaterialRestrictionV09hazardousC0AcA0bC0OSg_tcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-hazardousMaterial" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-hazardousmaterialrestriction#sdk-for-ios-navigate-s-7heresdk28HazardousMaterialRestrictionV09hazardousC0AcA0bC0OSg_tcfc" class="token"><code>init(hazardousMaterial:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -148,12 +156,14 @@ Represents restriction on transport of hazardous materials. A generic restrictio
   Swift
 
   ``` highlight
-  public init ( hazardousMaterial : HazardousMaterial ?)
+  public init(hazardousMaterial: HazardousMaterial?)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-hazardousmaterial">HazardousMaterial</a>
 
   </div>
 
@@ -163,7 +173,7 @@ Represents restriction on transport of hazardous materials. A generic restrictio
 
 - <div>
 
-      init(tunnelCategory: )
+   <span id="sdk-for-ios-navigate-s-7heresdk28HazardousMaterialRestrictionV14tunnelCategoryAcA06TunnelF0OSg_tcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-tunnelCategory" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-hazardousmaterialrestriction#sdk-for-ios-navigate-s-7heresdk28HazardousMaterialRestrictionV14tunnelCategoryAcA06TunnelF0OSg_tcfc" class="token"><code>init(tunnelCategory:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -194,12 +204,14 @@ Represents restriction on transport of hazardous materials. A generic restrictio
   Swift
 
   ``` highlight
-  public init ( tunnelCategory : TunnelCategory ?)
+  public init(tunnelCategory: TunnelCategory?)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-tunnelcategory">TunnelCategory</a>
 
   </div>
 

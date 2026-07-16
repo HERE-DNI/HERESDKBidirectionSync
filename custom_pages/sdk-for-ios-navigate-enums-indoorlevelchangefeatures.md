@@ -27,7 +27,7 @@ Indoor route features.
 
 - <div>
 
-  ` `<span id="/s:7heresdk25IndoorLevelChangeFeaturesO9connectoryA2CmF"></span>` `<span id="//apple_ref/swift/Element/connector" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-indoorlevelchangefeatures#/s:7heresdk25IndoorLevelChangeFeaturesO9connectoryA2CmF" class="token"><code>connector</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk25IndoorLevelChangeFeaturesO9connectoryA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-connector" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-indoorlevelchangefeatures#sdk-for-ios-navigate-s-7heresdk25IndoorLevelChangeFeaturesO9connectoryA2CmF" class="token"><code>connector</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Indoor route features.
 
 - <div>
 
-  ` `<span id="/s:7heresdk25IndoorLevelChangeFeaturesO8elevatoryA2CmF"></span>` `<span id="//apple_ref/swift/Element/elevator" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-indoorlevelchangefeatures#/s:7heresdk25IndoorLevelChangeFeaturesO8elevatoryA2CmF" class="token"><code>elevator</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk25IndoorLevelChangeFeaturesO8elevatoryA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-elevator" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-indoorlevelchangefeatures#sdk-for-ios-navigate-s-7heresdk25IndoorLevelChangeFeaturesO8elevatoryA2CmF" class="token"><code>elevator</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Indoor route features.
 
 - <div>
 
-  ` `<span id="/s:7heresdk25IndoorLevelChangeFeaturesO9escalatoryA2CmF"></span>` `<span id="//apple_ref/swift/Element/escalator" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-indoorlevelchangefeatures#/s:7heresdk25IndoorLevelChangeFeaturesO9escalatoryA2CmF" class="token"><code>escalator</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk25IndoorLevelChangeFeaturesO9escalatoryA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-escalator" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-indoorlevelchangefeatures#sdk-for-ios-navigate-s-7heresdk25IndoorLevelChangeFeaturesO9escalatoryA2CmF" class="token"><code>escalator</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Indoor route features.
 
 - <div>
 
-  ` `<span id="/s:7heresdk25IndoorLevelChangeFeaturesO4rampyA2CmF"></span>` `<span id="//apple_ref/swift/Element/ramp" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-indoorlevelchangefeatures#/s:7heresdk25IndoorLevelChangeFeaturesO4rampyA2CmF" class="token"><code>ramp</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk25IndoorLevelChangeFeaturesO4rampyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-ramp" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-indoorlevelchangefeatures#sdk-for-ios-navigate-s-7heresdk25IndoorLevelChangeFeaturesO4rampyA2CmF" class="token"><code>ramp</code></a> 
 
   </div>
 
@@ -203,7 +203,7 @@ Indoor route features.
 
 - <div>
 
-  ` `<span id="/s:7heresdk25IndoorLevelChangeFeaturesO6stairsyA2CmF"></span>` `<span id="//apple_ref/swift/Element/stairs" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-indoorlevelchangefeatures#/s:7heresdk25IndoorLevelChangeFeaturesO6stairsyA2CmF" class="token"><code>stairs</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk25IndoorLevelChangeFeaturesO6stairsyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-stairs" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-indoorlevelchangefeatures#sdk-for-ios-navigate-s-7heresdk25IndoorLevelChangeFeaturesO6stairsyA2CmF" class="token"><code>stairs</code></a> 
 
   </div>
 
@@ -247,7 +247,7 @@ Indoor route features.
 
 - <div>
 
-  ` `<span id="/s:7heresdk25IndoorLevelChangeFeaturesO14pedestrianRampyA2CmF"></span>` `<span id="//apple_ref/swift/Element/pedestrianRamp" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-indoorlevelchangefeatures#/s:7heresdk25IndoorLevelChangeFeaturesO14pedestrianRampyA2CmF" class="token"><code>pedestrianRamp</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk25IndoorLevelChangeFeaturesO14pedestrianRampyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-pedestrianRamp" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-indoorlevelchangefeatures#sdk-for-ios-navigate-s-7heresdk25IndoorLevelChangeFeaturesO14pedestrianRampyA2CmF" class="token"><code>pedestrianRamp</code></a> 
 
   </div>
 
@@ -291,7 +291,7 @@ Indoor route features.
 
 - <div>
 
-  ` `<span id="/s:7heresdk25IndoorLevelChangeFeaturesO7carLiftyA2CmF"></span>` `<span id="//apple_ref/swift/Element/carLift" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-indoorlevelchangefeatures#/s:7heresdk25IndoorLevelChangeFeaturesO7carLiftyA2CmF" class="token"><code>carLift</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk25IndoorLevelChangeFeaturesO7carLiftyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-carLift" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-indoorlevelchangefeatures#sdk-for-ios-navigate-s-7heresdk25IndoorLevelChangeFeaturesO7carLiftyA2CmF" class="token"><code>carLift</code></a> 
 
   </div>
 
@@ -335,7 +335,7 @@ Indoor route features.
 
 - <div>
 
-  ` `<span id="/s:7heresdk25IndoorLevelChangeFeaturesO9driveRampyA2CmF"></span>` `<span id="//apple_ref/swift/Element/driveRamp" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-indoorlevelchangefeatures#/s:7heresdk25IndoorLevelChangeFeaturesO9driveRampyA2CmF" class="token"><code>driveRamp</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk25IndoorLevelChangeFeaturesO9driveRampyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-driveRamp" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-indoorlevelchangefeatures#sdk-for-ios-navigate-s-7heresdk25IndoorLevelChangeFeaturesO9driveRampyA2CmF" class="token"><code>driveRamp</code></a> 
 
   </div>
 
@@ -379,7 +379,7 @@ Indoor route features.
 
 - <div>
 
-  ` `<span id="/s:7heresdk25IndoorLevelChangeFeaturesO12elevatorBankyA2CmF"></span>` `<span id="//apple_ref/swift/Element/elevatorBank" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-indoorlevelchangefeatures#/s:7heresdk25IndoorLevelChangeFeaturesO12elevatorBankyA2CmF" class="token"><code>elevatorBank</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk25IndoorLevelChangeFeaturesO12elevatorBankyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-elevatorBank" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-indoorlevelchangefeatures#sdk-for-ios-navigate-s-7heresdk25IndoorLevelChangeFeaturesO12elevatorBankyA2CmF" class="token"><code>elevatorBank</code></a> 
 
   </div>
 

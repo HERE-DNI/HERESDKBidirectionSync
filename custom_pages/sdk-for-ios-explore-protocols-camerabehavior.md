@@ -27,7 +27,7 @@ Protocol used to change implement different camera behaviors.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14CameraBehaviorP24normalizedPrincipalPointAA8Anchor2DVvp"></span>` `<span id="//apple_ref/swift/Property/normalizedPrincipalPoint" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-protocols-camerabehavior#/s:7heresdk14CameraBehaviorP24normalizedPrincipalPointAA8Anchor2DVvp" class="token"><code>normalizedPrincipalPoint</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14CameraBehaviorP24normalizedPrincipalPointAA8Anchor2DVvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-normalizedPrincipalPoint" class="dashAnchor"></span> <a href="sdk-for-ios-explore-protocols-camerabehavior#sdk-for-ios-explore-s-7heresdk14CameraBehaviorP24normalizedPrincipalPointAA8Anchor2DVvp" class="token"><code>normalizedPrincipalPoint</code></a> 
 
   </div>
 
@@ -62,6 +62,10 @@ Protocol used to change implement different camera behaviors.
   ```
 
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-anchor2d">Anchor2D</a>
 
   </div>
 

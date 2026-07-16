@@ -13,7 +13,7 @@ slug: "sdk-for-ios-explore-traffic"
 
 - <div>
 
-  ` `<span id="/s:7heresdk19TrafficDataProviderC"></span>` `<span id="//apple_ref/swift/Class/TrafficDataProvider" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-traffic#/s:7heresdk19TrafficDataProviderC" class="token"><code>TrafficDataProvider</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19TrafficDataProviderC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-TrafficDataProvider" class="dashAnchor"></span> <a href="sdk-for-ios-explore-traffic#sdk-for-ios-explore-s-7heresdk19TrafficDataProviderC" class="token"><code>TrafficDataProvider</code></a> 
 
   </div>
 
@@ -69,7 +69,7 @@ slug: "sdk-for-ios-explore-traffic"
 
 - <div>
 
-  ` `<span id="/s:7heresdk13TrafficEngineC"></span>` `<span id="//apple_ref/swift/Class/TrafficEngine" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-traffic#/s:7heresdk13TrafficEngineC" class="token"><code>TrafficEngine</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13TrafficEngineC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-TrafficEngine" class="dashAnchor"></span> <a href="sdk-for-ios-explore-traffic#sdk-for-ios-explore-s-7heresdk13TrafficEngineC" class="token"><code>TrafficEngine</code></a> 
 
   </div>
 
@@ -93,7 +93,7 @@ slug: "sdk-for-ios-explore-traffic"
 
   The resulting traffic data contains information on incident types such as congestion, construction for road works, road hazard, road closure, weather updates for road condition, lane restriction and others.
 
-  Traffic data is fetched online to get the most precise and freshest data available. In offline mode, live traffic data can be fetched using the traffic pass-through features. See <a href="sdk-for-ios-explore-classes-sdknativeengine#/s:7heresdk15SDKNativeEngineC19passThroughFeaturesShyAA04PassE7FeatureOGSgvp">`SDKNativeEngine.passThroughFeatures`</a>
+  Traffic data is fetched online to get the most precise and freshest data available. In offline mode, live traffic data can be fetched using the traffic pass-through features. See <a href="sdk-for-ios-explore-classes-sdknativeengine#sdk-for-ios-explore-s-7heresdk15SDKNativeEngineC19passThroughFeaturesShyAA04PassE7FeatureOGSgvp">`SDKNativeEngine.passThroughFeatures`</a>
 
   <a href="sdk-for-ios-explore-classes-trafficengine" class="slightly-smaller">See more</a>
 
@@ -129,7 +129,7 @@ slug: "sdk-for-ios-explore-traffic"
 
 - <div>
 
-  ` `<span id="/s:7heresdk11TrafficFlowC"></span>` `<span id="//apple_ref/swift/Class/TrafficFlow" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-traffic#/s:7heresdk11TrafficFlowC" class="token"><code>TrafficFlow</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11TrafficFlowC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-TrafficFlow" class="dashAnchor"></span> <a href="sdk-for-ios-explore-traffic#sdk-for-ios-explore-s-7heresdk11TrafficFlowC" class="token"><code>TrafficFlow</code></a> 
 
   </div>
 
@@ -179,6 +179,10 @@ slug: "sdk-for-ios-explore-traffic"
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-protocols-trafficflowbase">TrafficFlowBase</a>
+
   </div>
 
   </div>
@@ -187,7 +191,7 @@ slug: "sdk-for-ios-explore-traffic"
 
 - <div>
 
-  ` `<span id="/s:7heresdk15TrafficFlowBaseP"></span>` `<span id="//apple_ref/swift/Protocol/TrafficFlowBase" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-traffic#/s:7heresdk15TrafficFlowBaseP" class="token"><code>TrafficFlowBase</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15TrafficFlowBaseP"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Protocol-TrafficFlowBase" class="dashAnchor"></span> <a href="sdk-for-ios-explore-traffic#sdk-for-ios-explore-s-7heresdk15TrafficFlowBaseP" class="token"><code>TrafficFlowBase</code></a> 
 
   </div>
 
@@ -236,7 +240,7 @@ slug: "sdk-for-ios-explore-traffic"
 
 - <div>
 
-  ` `<span id="/s:7heresdk23TrafficFlowQueryOptionsV"></span>` `<span id="//apple_ref/swift/Struct/TrafficFlowQueryOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-traffic#/s:7heresdk23TrafficFlowQueryOptionsV" class="token"><code>TrafficFlowQueryOptions</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk23TrafficFlowQueryOptionsV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-TrafficFlowQueryOptions" class="dashAnchor"></span> <a href="sdk-for-ios-explore-traffic#sdk-for-ios-explore-s-7heresdk23TrafficFlowQueryOptionsV" class="token"><code>TrafficFlowQueryOptions</code></a> 
 
   </div>
 
@@ -282,7 +286,7 @@ slug: "sdk-for-ios-explore-traffic"
 
 - <div>
 
-  ` `<span id="/s:7heresdk33TrafficFlowQueryCompletionHandlera"></span>` `<span id="//apple_ref/swift/Alias/TrafficFlowQueryCompletionHandler" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-traffic#/s:7heresdk33TrafficFlowQueryCompletionHandlera" class="token"><code>TrafficFlowQueryCompletionHandler</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk33TrafficFlowQueryCompletionHandlera"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Alias-TrafficFlowQueryCompletionHandler" class="dashAnchor"></span> <a href="sdk-for-ios-explore-traffic#sdk-for-ios-explore-s-7heresdk33TrafficFlowQueryCompletionHandlera" class="token"><code>TrafficFlowQueryCompletionHandler</code></a> 
 
   </div>
 
@@ -324,12 +328,15 @@ slug: "sdk-for-ios-explore-traffic"
   Swift
 
   ``` highlight
-  public typealias TrafficFlowQueryCompletionHandler = ( _ queryError : TrafficQueryError ?, _ result : [ TrafficFlow ]?) -> Void
+  public typealias TrafficFlowQueryCompletionHandler = (_ queryError: TrafficQueryError?, _ result: [TrafficFlow]?) -> Void
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-trafficqueryerror">TrafficQueryError</a>
+  - <a href="sdk-for-ios-explore-classes-trafficflow">TrafficFlow</a>
 
   </div>
 
@@ -366,7 +373,7 @@ slug: "sdk-for-ios-explore-traffic"
 
 - <div>
 
-  ` `<span id="/s:7heresdk15TrafficIncidentC"></span>` `<span id="//apple_ref/swift/Class/TrafficIncident" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-traffic#/s:7heresdk15TrafficIncidentC" class="token"><code>TrafficIncident</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15TrafficIncidentC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-TrafficIncident" class="dashAnchor"></span> <a href="sdk-for-ios-explore-traffic#sdk-for-ios-explore-s-7heresdk15TrafficIncidentC" class="token"><code>TrafficIncident</code></a> 
 
   </div>
 
@@ -412,6 +419,10 @@ slug: "sdk-for-ios-explore-traffic"
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-protocols-trafficincidentbase">TrafficIncidentBase</a>
+
   </div>
 
   </div>
@@ -420,7 +431,7 @@ slug: "sdk-for-ios-explore-traffic"
 
 - <div>
 
-  ` `<span id="/s:7heresdk19TrafficIncidentBaseP"></span>` `<span id="//apple_ref/swift/Protocol/TrafficIncidentBase" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-traffic#/s:7heresdk19TrafficIncidentBaseP" class="token"><code>TrafficIncidentBase</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19TrafficIncidentBaseP"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Protocol-TrafficIncidentBase" class="dashAnchor"></span> <a href="sdk-for-ios-explore-traffic#sdk-for-ios-explore-s-7heresdk19TrafficIncidentBaseP" class="token"><code>TrafficIncidentBase</code></a> 
 
   </div>
 
@@ -466,7 +477,7 @@ slug: "sdk-for-ios-explore-traffic"
 
 - <div>
 
-  ` `<span id="/s:7heresdk32TrafficIncidentCompletionHandlera"></span>` `<span id="//apple_ref/swift/Alias/TrafficIncidentCompletionHandler" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-traffic#/s:7heresdk32TrafficIncidentCompletionHandlera" class="token"><code>TrafficIncidentCompletionHandler</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk32TrafficIncidentCompletionHandlera"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Alias-TrafficIncidentCompletionHandler" class="dashAnchor"></span> <a href="sdk-for-ios-explore-traffic#sdk-for-ios-explore-s-7heresdk32TrafficIncidentCompletionHandlera" class="token"><code>TrafficIncidentCompletionHandler</code></a> 
 
   </div>
 
@@ -484,12 +495,7 @@ slug: "sdk-for-ios-explore-traffic"
 
   <div class="abstract">
 
-  Callback passed to
-
-      TrafficEngine.lookupIncident(...)
-
-  . The method will be called on the main thread when a search call has been completed. The first argument is the error in the case of the failure. It is `nil` for an operation that succeeds. The second argument is the incident in the case of the success. It is `nil` in case of an error.
-  </p>
+  Callback passed to <a href="sdk-for-ios-explore-classes-trafficengine#sdk-for-ios-explore-s-7heresdk13TrafficEngineC14lookupIncident4with0D7Options10completionAA10TaskHandle_pSS_AA0be6LookupG0VyAA0B10QueryErrorOSg_AA0bE0CSgtctF">`TrafficEngine.lookupIncident(...)`</a>. The method will be called on the main thread when a search call has been completed. The first argument is the error in the case of the failure. It is `nil` for an operation that succeeds. The second argument is the incident in the case of the success. It is `nil` in case of an error.
 
   </div>
 
@@ -502,12 +508,15 @@ slug: "sdk-for-ios-explore-traffic"
   Swift
 
   ``` highlight
-  public typealias TrafficIncidentCompletionHandler = ( _ queryError : TrafficQueryError ?, _ result : TrafficIncident ?) -> Void
+  public typealias TrafficIncidentCompletionHandler = (_ queryError: TrafficQueryError?, _ result: TrafficIncident?) -> Void
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-trafficqueryerror">TrafficQueryError</a>
+  - <a href="sdk-for-ios-explore-classes-trafficincident">TrafficIncident</a>
 
   </div>
 
@@ -544,7 +553,7 @@ slug: "sdk-for-ios-explore-traffic"
 
 - <div>
 
-  ` `<span id="/s:7heresdk21TrafficIncidentImpactO"></span>` `<span id="//apple_ref/swift/Enum/TrafficIncidentImpact" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-traffic#/s:7heresdk21TrafficIncidentImpactO" class="token"><code>TrafficIncidentImpact</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk21TrafficIncidentImpactO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-TrafficIncidentImpact" class="dashAnchor"></span> <a href="sdk-for-ios-explore-traffic#sdk-for-ios-explore-s-7heresdk21TrafficIncidentImpactO" class="token"><code>TrafficIncidentImpact</code></a> 
 
   </div>
 
@@ -590,7 +599,7 @@ slug: "sdk-for-ios-explore-traffic"
 
 - <div>
 
-  ` `<span id="/s:7heresdk28TrafficIncidentLookupOptionsV"></span>` `<span id="//apple_ref/swift/Struct/TrafficIncidentLookupOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-traffic#/s:7heresdk28TrafficIncidentLookupOptionsV" class="token"><code>TrafficIncidentLookupOptions</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk28TrafficIncidentLookupOptionsV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-TrafficIncidentLookupOptions" class="dashAnchor"></span> <a href="sdk-for-ios-explore-traffic#sdk-for-ios-explore-s-7heresdk28TrafficIncidentLookupOptionsV" class="token"><code>TrafficIncidentLookupOptions</code></a> 
 
   </div>
 
@@ -636,7 +645,7 @@ slug: "sdk-for-ios-explore-traffic"
 
 - <div>
 
-  ` `<span id="/s:7heresdk22TrafficIncidentOnRouteC"></span>` `<span id="//apple_ref/swift/Class/TrafficIncidentOnRoute" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-traffic#/s:7heresdk22TrafficIncidentOnRouteC" class="token"><code>TrafficIncidentOnRoute</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk22TrafficIncidentOnRouteC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-TrafficIncidentOnRoute" class="dashAnchor"></span> <a href="sdk-for-ios-explore-traffic#sdk-for-ios-explore-s-7heresdk22TrafficIncidentOnRouteC" class="token"><code>TrafficIncidentOnRoute</code></a> 
 
   </div>
 
@@ -654,7 +663,7 @@ slug: "sdk-for-ios-explore-traffic"
 
   <div class="abstract">
 
-  Traffic incidents on a route. Use <a href="sdk-for-ios-explore-classes-section#/s:7heresdk7SectionC16trafficIncidentsSayAA22TrafficIncidentOnRouteCGvp">`Section.trafficIncidents`</a> to get a list of incidents on a route section. Use <a href="sdk-for-ios-explore-classes-span#/s:7heresdk4SpanC22trafficIncidentIndexesSays5Int32VGvp">`Span.trafficIncidentIndexes`</a> to associate incidents with spans. Each incident takes at least the whole geometry of matching spans. Also, an incident can take some place out of the built route.
+  Traffic incidents on a route. Use <a href="sdk-for-ios-explore-classes-section#sdk-for-ios-explore-s-7heresdk7SectionC16trafficIncidentsSayAA22TrafficIncidentOnRouteCGvp">`Section.trafficIncidents`</a> to get a list of incidents on a route section. Use <a href="sdk-for-ios-explore-classes-span#sdk-for-ios-explore-s-7heresdk4SpanC22trafficIncidentIndexesSays5Int32VGvp">`Span.trafficIncidentIndexes`</a> to associate incidents with spans. Each incident takes at least the whole geometry of matching spans. Also, an incident can take some place out of the built route.
 
   <a href="sdk-for-ios-explore-classes-trafficincidentonroute" class="slightly-smaller">See more</a>
 
@@ -682,6 +691,10 @@ slug: "sdk-for-ios-explore-traffic"
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-protocols-trafficincidentbase">TrafficIncidentBase</a>
+
   </div>
 
   </div>
@@ -690,7 +703,7 @@ slug: "sdk-for-ios-explore-traffic"
 
 - <div>
 
-  ` `<span id="/s:7heresdk19TrafficIncidentTypeO"></span>` `<span id="//apple_ref/swift/Enum/TrafficIncidentType" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-traffic#/s:7heresdk19TrafficIncidentTypeO" class="token"><code>TrafficIncidentType</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19TrafficIncidentTypeO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-TrafficIncidentType" class="dashAnchor"></span> <a href="sdk-for-ios-explore-traffic#sdk-for-ios-explore-s-7heresdk19TrafficIncidentTypeO" class="token"><code>TrafficIncidentType</code></a> 
 
   </div>
 
@@ -736,7 +749,7 @@ slug: "sdk-for-ios-explore-traffic"
 
 - <div>
 
-  ` `<span id="/s:7heresdk38TrafficIncidentsQueryCompletionHandlera"></span>` `<span id="//apple_ref/swift/Alias/TrafficIncidentsQueryCompletionHandler" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-traffic#/s:7heresdk38TrafficIncidentsQueryCompletionHandlera" class="token"><code>TrafficIncidentsQueryCompletionHandler</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk38TrafficIncidentsQueryCompletionHandlera"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Alias-TrafficIncidentsQueryCompletionHandler" class="dashAnchor"></span> <a href="sdk-for-ios-explore-traffic#sdk-for-ios-explore-s-7heresdk38TrafficIncidentsQueryCompletionHandlera" class="token"><code>TrafficIncidentsQueryCompletionHandler</code></a> 
 
   </div>
 
@@ -772,12 +785,15 @@ slug: "sdk-for-ios-explore-traffic"
   Swift
 
   ``` highlight
-  public typealias TrafficIncidentsQueryCompletionHandler = ( _ queryError : TrafficQueryError ?, _ result : [ TrafficIncident ]?) -> Void
+  public typealias TrafficIncidentsQueryCompletionHandler = (_ queryError: TrafficQueryError?, _ result: [TrafficIncident]?) -> Void
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-trafficqueryerror">TrafficQueryError</a>
+  - <a href="sdk-for-ios-explore-classes-trafficincident">TrafficIncident</a>
 
   </div>
 
@@ -814,7 +830,7 @@ slug: "sdk-for-ios-explore-traffic"
 
 - <div>
 
-  ` `<span id="/s:7heresdk28TrafficIncidentsQueryOptionsV"></span>` `<span id="//apple_ref/swift/Struct/TrafficIncidentsQueryOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-traffic#/s:7heresdk28TrafficIncidentsQueryOptionsV" class="token"><code>TrafficIncidentsQueryOptions</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk28TrafficIncidentsQueryOptionsV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-TrafficIncidentsQueryOptions" class="dashAnchor"></span> <a href="sdk-for-ios-explore-traffic#sdk-for-ios-explore-s-7heresdk28TrafficIncidentsQueryOptionsV" class="token"><code>TrafficIncidentsQueryOptions</code></a> 
 
   </div>
 
@@ -860,7 +876,7 @@ slug: "sdk-for-ios-explore-traffic"
 
 - <div>
 
-  ` `<span id="/s:7heresdk15TrafficLocationV"></span>` `<span id="//apple_ref/swift/Struct/TrafficLocation" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-traffic#/s:7heresdk15TrafficLocationV" class="token"><code>TrafficLocation</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15TrafficLocationV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-TrafficLocation" class="dashAnchor"></span> <a href="sdk-for-ios-explore-traffic#sdk-for-ios-explore-s-7heresdk15TrafficLocationV" class="token"><code>TrafficLocation</code></a> 
 
   </div>
 
@@ -906,7 +922,7 @@ slug: "sdk-for-ios-explore-traffic"
 
 - <div>
 
-  ` `<span id="/s:7heresdk17TrafficQueryErrorO"></span>` `<span id="//apple_ref/swift/Enum/TrafficQueryError" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-traffic#/s:7heresdk17TrafficQueryErrorO" class="token"><code>TrafficQueryError</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17TrafficQueryErrorO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-TrafficQueryError" class="dashAnchor"></span> <a href="sdk-for-ios-explore-traffic#sdk-for-ios-explore-s-7heresdk17TrafficQueryErrorO" class="token"><code>TrafficQueryError</code></a> 
 
   </div>
 
@@ -954,7 +970,7 @@ slug: "sdk-for-ios-explore-traffic"
 
 - <div>
 
-  ` `<span id="/s:7heresdk14TraversabilityO"></span>` `<span id="//apple_ref/swift/Enum/Traversability" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-traffic#/s:7heresdk14TraversabilityO" class="token"><code>Traversability</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14TraversabilityO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-Traversability" class="dashAnchor"></span> <a href="sdk-for-ios-explore-traffic#sdk-for-ios-explore-s-7heresdk14TraversabilityO" class="token"><code>Traversability</code></a> 
 
   </div>
 

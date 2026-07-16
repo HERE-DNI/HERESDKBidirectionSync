@@ -15,6 +15,10 @@ public class QuadMeshBuilder : MeshBuilder
 
 </div>
 
+Related types:
+
+- <a href="sdk-for-ios-navigate-classes-meshbuilder">MeshBuilder</a>
+
 </div>
 
 Builder for a single quad.
@@ -27,7 +31,7 @@ Builder for a single quad.
 
 - <div>
 
-      withTextureCoordinates(a: b: c: d: )
+   <span id="sdk-for-ios-navigate-s-7heresdk15QuadMeshBuilderC22withTextureCoordinates1a1b1c1dAA0cD0CAA8Anchor2DV_A3LtF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-withTextureCoordinates-a-b-c-d" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-quadmeshbuilder#sdk-for-ios-navigate-s-7heresdk15QuadMeshBuilderC22withTextureCoordinates1a1b1c1dAA0cD0CAA8Anchor2DV_A3LtF" class="token"><code>withTextureCoordinates(a:</code><wbr></wbr><code>b:</code><wbr></wbr><code>c:</code><wbr></wbr><code>d:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -58,12 +62,15 @@ Builder for a single quad.
   Swift
 
   ``` highlight
-  public func withTextureCoordinates ( a : Anchor2D , b : Anchor2D , c : Anchor2D , d : Anchor2D ) -> MeshBuilder
+  public func withTextureCoordinates(a: Anchor2D, b: Anchor2D, c: Anchor2D, d: Anchor2D) -> MeshBuilder
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-anchor2d">Anchor2D</a>
+  - <a href="sdk-for-ios-navigate-classes-meshbuilder">MeshBuilder</a>
 
   </div>
 
@@ -80,33 +87,25 @@ Builder for a single quad.
   <tr>
   <td><code> </code><em><code>a</code></em><code> </code></td>
   <td><div>
-  <p>Texture coordinate for vertex a. See</p>
-  <pre><code>MeshBuilder.quad(...)</code></pre>
-  </p>
+  <p>Texture coordinate for vertex a. See <a href="sdk-for-ios-navigate-classes-meshbuilder#sdk-for-ios-navigate-s-7heresdk11MeshBuilderC4quad1a1b1c1dAA04QuadbC0CAA7Point3DV_A3LtF"><code>MeshBuilder.quad(...)</code></a></p>
   </div></td>
   </tr>
   <tr>
   <td><code> </code><em><code>b</code></em><code> </code></td>
   <td><div>
-  <p>Texture coordinate for vertex b. See</p>
-  <pre><code>MeshBuilder.quad(...)</code></pre>
-  </p>
+  <p>Texture coordinate for vertex b. See <a href="sdk-for-ios-navigate-classes-meshbuilder#sdk-for-ios-navigate-s-7heresdk11MeshBuilderC4quad1a1b1c1dAA04QuadbC0CAA7Point3DV_A3LtF"><code>MeshBuilder.quad(...)</code></a></p>
   </div></td>
   </tr>
   <tr>
   <td><code> </code><em><code>c</code></em><code> </code></td>
   <td><div>
-  <p>Texture coordinate for vertex c. See</p>
-  <pre><code>MeshBuilder.quad(...)</code></pre>
-  </p>
+  <p>Texture coordinate for vertex c. See <a href="sdk-for-ios-navigate-classes-meshbuilder#sdk-for-ios-navigate-s-7heresdk11MeshBuilderC4quad1a1b1c1dAA04QuadbC0CAA7Point3DV_A3LtF"><code>MeshBuilder.quad(...)</code></a></p>
   </div></td>
   </tr>
   <tr>
   <td><code> </code><em><code>d</code></em><code> </code></td>
   <td><div>
-  <p>Texture coordinate for vertex d. See</p>
-  <pre><code>MeshBuilder.quad(...)</code></pre>
-  </p>
+  <p>Texture coordinate for vertex d. See <a href="sdk-for-ios-navigate-classes-meshbuilder#sdk-for-ios-navigate-s-7heresdk11MeshBuilderC4quad1a1b1c1dAA04QuadbC0CAA7Point3DV_A3LtF"><code>MeshBuilder.quad(...)</code></a></p>
   </div></td>
   </tr>
   </tbody>

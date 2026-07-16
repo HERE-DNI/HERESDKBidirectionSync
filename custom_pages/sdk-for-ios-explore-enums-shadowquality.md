@@ -27,7 +27,7 @@ The shadow quality. Controls the quality of the shadow cascade (i.e. the size of
 
 - <div>
 
-  ` `<span id="/s:7heresdk13ShadowQualityO7veryLowyA2CmF"></span>` `<span id="//apple_ref/swift/Element/veryLow" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-shadowquality#/s:7heresdk13ShadowQualityO7veryLowyA2CmF" class="token"><code>veryLow</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13ShadowQualityO7veryLowyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-veryLow" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-shadowquality#sdk-for-ios-explore-s-7heresdk13ShadowQualityO7veryLowyA2CmF" class="token"><code>veryLow</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ The shadow quality. Controls the quality of the shadow cascade (i.e. the size of
 
 - <div>
 
-  ` `<span id="/s:7heresdk13ShadowQualityO3lowyA2CmF"></span>` `<span id="//apple_ref/swift/Element/low" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-shadowquality#/s:7heresdk13ShadowQualityO3lowyA2CmF" class="token"><code>low</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13ShadowQualityO3lowyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-low" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-shadowquality#sdk-for-ios-explore-s-7heresdk13ShadowQualityO3lowyA2CmF" class="token"><code>low</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ The shadow quality. Controls the quality of the shadow cascade (i.e. the size of
 
 - <div>
 
-  ` `<span id="/s:7heresdk13ShadowQualityO6mediumyA2CmF"></span>` `<span id="//apple_ref/swift/Element/medium" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-shadowquality#/s:7heresdk13ShadowQualityO6mediumyA2CmF" class="token"><code>medium</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13ShadowQualityO6mediumyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-medium" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-shadowquality#sdk-for-ios-explore-s-7heresdk13ShadowQualityO6mediumyA2CmF" class="token"><code>medium</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ The shadow quality. Controls the quality of the shadow cascade (i.e. the size of
 
 - <div>
 
-  ` `<span id="/s:7heresdk13ShadowQualityO4highyA2CmF"></span>` `<span id="//apple_ref/swift/Element/high" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-shadowquality#/s:7heresdk13ShadowQualityO4highyA2CmF" class="token"><code>high</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13ShadowQualityO4highyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-high" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-shadowquality#sdk-for-ios-explore-s-7heresdk13ShadowQualityO4highyA2CmF" class="token"><code>high</code></a> 
 
   </div>
 
@@ -203,7 +203,7 @@ The shadow quality. Controls the quality of the shadow cascade (i.e. the size of
 
 - <div>
 
-  ` `<span id="/s:7heresdk13ShadowQualityO8veryHighyA2CmF"></span>` `<span id="//apple_ref/swift/Element/veryHigh" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-shadowquality#/s:7heresdk13ShadowQualityO8veryHighyA2CmF" class="token"><code>veryHigh</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13ShadowQualityO8veryHighyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-veryHigh" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-shadowquality#sdk-for-ios-explore-s-7heresdk13ShadowQualityO8veryHighyA2CmF" class="token"><code>veryHigh</code></a> 
 
   </div>
 

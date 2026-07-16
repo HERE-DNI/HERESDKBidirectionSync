@@ -27,7 +27,7 @@ Contains geographical info about location
 
 - <div>
 
-  ` `<span id="/s:7heresdk15LocationDetailsV11coordinatesAA14GeoCoordinatesVvp"></span>` `<span id="//apple_ref/swift/Property/coordinates" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-locationdetails#/s:7heresdk15LocationDetailsV11coordinatesAA14GeoCoordinatesVvp" class="token"><code>coordinates</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15LocationDetailsV11coordinatesAA14GeoCoordinatesVvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-coordinates" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-locationdetails#sdk-for-ios-explore-s-7heresdk15LocationDetailsV11coordinatesAA14GeoCoordinatesVvp" class="token"><code>coordinates</code></a> 
 
   </div>
 
@@ -63,6 +63,10 @@ Contains geographical info about location
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geocoordinates">GeoCoordinates</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ Contains geographical info about location
 
 - <div>
 
-  ` `<span id="/s:7heresdk15LocationDetailsV23coordinatesInterpolatedSbvp"></span>` `<span id="//apple_ref/swift/Property/coordinatesInterpolated" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-locationdetails#/s:7heresdk15LocationDetailsV23coordinatesInterpolatedSbvp" class="token"><code>coordinatesInterpolated</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15LocationDetailsV23coordinatesInterpolatedSbvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-coordinatesInterpolated" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-locationdetails#sdk-for-ios-explore-s-7heresdk15LocationDetailsV23coordinatesInterpolatedSbvp" class="token"><code>coordinatesInterpolated</code></a> 
 
   </div>
 
@@ -115,7 +119,7 @@ Contains geographical info about location
 
 - <div>
 
-  ` `<span id="/s:7heresdk15LocationDetailsV12accessPointsSayAA14GeoCoordinatesVGvp"></span>` `<span id="//apple_ref/swift/Property/accessPoints" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-locationdetails#/s:7heresdk15LocationDetailsV12accessPointsSayAA14GeoCoordinatesVGvp" class="token"><code>accessPoints</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15LocationDetailsV12accessPointsSayAA14GeoCoordinatesVGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-accessPoints" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-locationdetails#sdk-for-ios-explore-s-7heresdk15LocationDetailsV12accessPointsSayAA14GeoCoordinatesVGvp" class="token"><code>accessPoints</code></a> 
 
   </div>
 
@@ -151,6 +155,10 @@ Contains geographical info about location
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geocoordinates">GeoCoordinates</a>
+
   </div>
 
   </div>
@@ -159,7 +167,7 @@ Contains geographical info about location
 
 - <div>
 
-  ` `<span id="/s:7heresdk15LocationDetailsV11boundingBoxAA03GeoE0VSgvp"></span>` `<span id="//apple_ref/swift/Property/boundingBox" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-locationdetails#/s:7heresdk15LocationDetailsV11boundingBoxAA03GeoE0VSgvp" class="token"><code>boundingBox</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15LocationDetailsV11boundingBoxAA03GeoE0VSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-boundingBox" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-locationdetails#sdk-for-ios-explore-s-7heresdk15LocationDetailsV11boundingBoxAA03GeoE0VSgvp" class="token"><code>boundingBox</code></a> 
 
   </div>
 
@@ -195,6 +203,10 @@ Contains geographical info about location
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geobox">GeoBox</a>
+
   </div>
 
   </div>
@@ -203,7 +215,7 @@ Contains geographical info about location
 
 - <div>
 
-      init(coordinates: coordinatesInterpolated: accessPoints: boundingBox: )
+   <span id="sdk-for-ios-explore-s-7heresdk15LocationDetailsV11coordinates0D12Interpolated12accessPoints11boundingBoxAcA14GeoCoordinatesV_SbSayAIGAA0jI0VSgtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-coordinates-coordinatesInterpolated-accessPoints-boundingBox" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-locationdetails#sdk-for-ios-explore-s-7heresdk15LocationDetailsV11coordinates0D12Interpolated12accessPoints11boundingBoxAcA14GeoCoordinatesV_SbSayAIGAA0jI0VSgtcfc" class="token"><code>init(coordinates:</code><wbr></wbr><code>coordinatesInterpolated:</code><wbr></wbr><code>accessPoints:</code><wbr></wbr><code>boundingBox:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -234,12 +246,15 @@ Contains geographical info about location
   Swift
 
   ``` highlight
-  public init ( coordinates : GeoCoordinates , coordinatesInterpolated : Bool = false , accessPoints : [ GeoCoordinates ] = [], boundingBox : GeoBox ? = nil )
+  public init(coordinates: GeoCoordinates, coordinatesInterpolated: Bool = false, accessPoints: [GeoCoordinates] = [], boundingBox: GeoBox? = nil)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geocoordinates">GeoCoordinates</a>
+  - <a href="sdk-for-ios-explore-structs-geobox">GeoBox</a>
 
   </div>
 

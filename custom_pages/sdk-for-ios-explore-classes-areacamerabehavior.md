@@ -23,6 +23,10 @@ extension AreaCameraBehavior: Hashable
 
 </div>
 
+Related types:
+
+- <a href="sdk-for-ios-explore-protocols-camerabehavior">CameraBehavior</a>
+
 </div>
 
 Use this class to show an overview of geo points. By default, the orientation of the camera will be perpendicular to the Earth’s surface (ie. looking towards the center of the Earth), while bearing will be towards north.
@@ -37,7 +41,7 @@ Note: This is a beta feature; there maybe bugs and unexpected behavior. Related 
 
 - <div>
 
-      init()
+   <span id="sdk-for-ios-explore-s-7heresdk18AreaCameraBehaviorCACycfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-areacamerabehavior#sdk-for-ios-explore-s-7heresdk18AreaCameraBehaviorCACycfc" class="token"><code>init()</code></a> 
 
   </div>
 
@@ -68,10 +72,8 @@ Note: This is a beta feature; there maybe bugs and unexpected behavior. Related 
   Swift
 
   ``` highlight
-  public init ()
+  public init()
   ```
-
-  </pre>
 
   </div>
 
@@ -83,7 +85,7 @@ Note: This is a beta feature; there maybe bugs and unexpected behavior. Related 
 
 - <div>
 
-  ` `<span id="/s:7heresdk18AreaCameraBehaviorC24normalizedPrincipalPointAA8Anchor2DVvp"></span>` `<span id="//apple_ref/swift/Property/normalizedPrincipalPoint" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-areacamerabehavior#/s:7heresdk18AreaCameraBehaviorC24normalizedPrincipalPointAA8Anchor2DVvp" class="token"><code>normalizedPrincipalPoint</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18AreaCameraBehaviorC24normalizedPrincipalPointAA8Anchor2DVvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-normalizedPrincipalPoint" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-areacamerabehavior#sdk-for-ios-explore-s-7heresdk18AreaCameraBehaviorC24normalizedPrincipalPointAA8Anchor2DVvp" class="token"><code>normalizedPrincipalPoint</code></a> 
 
   </div>
 
@@ -119,6 +121,10 @@ Note: This is a beta feature; there maybe bugs and unexpected behavior. Related 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-anchor2d">Anchor2D</a>
+
   </div>
 
   </div>
@@ -127,7 +133,7 @@ Note: This is a beta feature; there maybe bugs and unexpected behavior. Related 
 
 - <div>
 
-  ` `<span id="/s:7heresdk18AreaCameraBehaviorC13viewRectangleAA11Rectangle2DVSgvp"></span>` `<span id="//apple_ref/swift/Property/viewRectangle" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-areacamerabehavior#/s:7heresdk18AreaCameraBehaviorC13viewRectangleAA11Rectangle2DVSgvp" class="token"><code>viewRectangle</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18AreaCameraBehaviorC13viewRectangleAA11Rectangle2DVSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-viewRectangle" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-areacamerabehavior#sdk-for-ios-explore-s-7heresdk18AreaCameraBehaviorC13viewRectangleAA11Rectangle2DVSgvp" class="token"><code>viewRectangle</code></a> 
 
   </div>
 
@@ -163,6 +169,10 @@ Note: This is a beta feature; there maybe bugs and unexpected behavior. Related 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-rectangle2d">Rectangle2D</a>
+
   </div>
 
   </div>
@@ -171,7 +181,7 @@ Note: This is a beta feature; there maybe bugs and unexpected behavior. Related 
 
 - <div>
 
-  ` `<span id="/s:7heresdk18AreaCameraBehaviorC23cameraAnimationDurationSdvp"></span>` `<span id="//apple_ref/swift/Property/cameraAnimationDuration" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-areacamerabehavior#/s:7heresdk18AreaCameraBehaviorC23cameraAnimationDurationSdvp" class="token"><code>cameraAnimationDuration</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18AreaCameraBehaviorC23cameraAnimationDurationSdvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-cameraAnimationDuration" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-areacamerabehavior#sdk-for-ios-explore-s-7heresdk18AreaCameraBehaviorC23cameraAnimationDurationSdvp" class="token"><code>cameraAnimationDuration</code></a> 
 
   </div>
 
@@ -215,7 +225,7 @@ Note: This is a beta feature; there maybe bugs and unexpected behavior. Related 
 
 - <div>
 
-  ` `<span id="/s:7heresdk18AreaCameraBehaviorC31principalPointAnimationDurationSdvp"></span>` `<span id="//apple_ref/swift/Property/principalPointAnimationDuration" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-areacamerabehavior#/s:7heresdk18AreaCameraBehaviorC31principalPointAnimationDurationSdvp" class="token"><code>principalPointAnimationDuration</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18AreaCameraBehaviorC31principalPointAnimationDurationSdvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-principalPointAnimationDuration" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-areacamerabehavior#sdk-for-ios-explore-s-7heresdk18AreaCameraBehaviorC31principalPointAnimationDurationSdvp" class="token"><code>principalPointAnimationDuration</code></a> 
 
   </div>
 
@@ -259,7 +269,7 @@ Note: This is a beta feature; there maybe bugs and unexpected behavior. Related 
 
 - <div>
 
-  ` `<span id="/s:7heresdk18AreaCameraBehaviorC7maxZoomAA10MapMeasureVvp"></span>` `<span id="//apple_ref/swift/Property/maxZoom" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-areacamerabehavior#/s:7heresdk18AreaCameraBehaviorC7maxZoomAA10MapMeasureVvp" class="token"><code>maxZoom</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18AreaCameraBehaviorC7maxZoomAA10MapMeasureVvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-maxZoom" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-areacamerabehavior#sdk-for-ios-explore-s-7heresdk18AreaCameraBehaviorC7maxZoomAA10MapMeasureVvp" class="token"><code>maxZoom</code></a> 
 
   </div>
 
@@ -277,7 +287,7 @@ Note: This is a beta feature; there maybe bugs and unexpected behavior. Related 
 
   <div class="abstract">
 
-  Maximal allowed zoom. Defines maximal zoom level to be applied to enclose geodetic bounding box. Defaults to a <a href="sdk-for-ios-explore-structs-mapmeasure">`MapMeasure`</a> with kind <a href="sdk-for-ios-explore-structs-mapmeasure-kind#/s:7heresdk10MapMeasureV4KindO9zoomLevelyA2EmF">`MapMeasure.Kind.zoomLevel`</a> and value 20.0. Note: <a href="sdk-for-ios-explore-structs-mapmeasure-kind#/s:7heresdk10MapMeasureV4KindO5scaleyA2EmF">`MapMeasure.Kind.scale`</a> is not supported.
+  Maximal allowed zoom. Defines maximal zoom level to be applied to enclose geodetic bounding box. Defaults to a <a href="sdk-for-ios-explore-structs-mapmeasure">`MapMeasure`</a> with kind <a href="sdk-for-ios-explore-structs-mapmeasure-kind#sdk-for-ios-explore-s-7heresdk10MapMeasureV4KindO9zoomLevelyA2EmF">`MapMeasure.Kind.zoomLevel`</a> and value 20.0. Note: <a href="sdk-for-ios-explore-structs-mapmeasure-kind#sdk-for-ios-explore-s-7heresdk10MapMeasureV4KindO5scaleyA2EmF">`MapMeasure.Kind.scale`</a> is not supported.
 
   </div>
 
@@ -295,6 +305,10 @@ Note: This is a beta feature; there maybe bugs and unexpected behavior. Related 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-mapmeasure">MapMeasure</a>
+
   </div>
 
   </div>
@@ -303,7 +317,7 @@ Note: This is a beta feature; there maybe bugs and unexpected behavior. Related 
 
 - <div>
 
-  ` `<span id="/s:7heresdk18AreaCameraBehaviorC22cameraBearingInDegreesSdvp"></span>` `<span id="//apple_ref/swift/Property/cameraBearingInDegrees" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-areacamerabehavior#/s:7heresdk18AreaCameraBehaviorC22cameraBearingInDegreesSdvp" class="token"><code>cameraBearingInDegrees</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18AreaCameraBehaviorC22cameraBearingInDegreesSdvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-cameraBearingInDegrees" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-areacamerabehavior#sdk-for-ios-explore-s-7heresdk18AreaCameraBehaviorC22cameraBearingInDegreesSdvp" class="token"><code>cameraBearingInDegrees</code></a> 
 
   </div>
 
@@ -347,7 +361,7 @@ Note: This is a beta feature; there maybe bugs and unexpected behavior. Related 
 
 - <div>
 
-  ` `<span id="/s:7heresdk18AreaCameraBehaviorC19cameraTiltInDegreesSdvp"></span>` `<span id="//apple_ref/swift/Property/cameraTiltInDegrees" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-areacamerabehavior#/s:7heresdk18AreaCameraBehaviorC19cameraTiltInDegreesSdvp" class="token"><code>cameraTiltInDegrees</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18AreaCameraBehaviorC19cameraTiltInDegreesSdvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-cameraTiltInDegrees" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-areacamerabehavior#sdk-for-ios-explore-s-7heresdk18AreaCameraBehaviorC19cameraTiltInDegreesSdvp" class="token"><code>cameraTiltInDegrees</code></a> 
 
   </div>
 
@@ -391,7 +405,7 @@ Note: This is a beta feature; there maybe bugs and unexpected behavior. Related 
 
 - <div>
 
-  ` `<span id="/s:7heresdk18AreaCameraBehaviorC25isCurrentPositionIncludedSbvp"></span>` `<span id="//apple_ref/swift/Property/isCurrentPositionIncluded" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-areacamerabehavior#/s:7heresdk18AreaCameraBehaviorC25isCurrentPositionIncludedSbvp" class="token"><code>isCurrentPositionIncluded</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18AreaCameraBehaviorC25isCurrentPositionIncludedSbvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-isCurrentPositionIncluded" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-areacamerabehavior#sdk-for-ios-explore-s-7heresdk18AreaCameraBehaviorC25isCurrentPositionIncludedSbvp" class="token"><code>isCurrentPositionIncluded</code></a> 
 
   </div>
 
@@ -435,7 +449,7 @@ Note: This is a beta feature; there maybe bugs and unexpected behavior. Related 
 
 - <div>
 
-      setVisiblePoints(visiblePoints: )
+   <span id="sdk-for-ios-explore-s-7heresdk18AreaCameraBehaviorC16setVisiblePoints07visibleG0ySayAA14GeoCoordinatesVG_tF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-setVisiblePoints-visiblePoints" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-areacamerabehavior#sdk-for-ios-explore-s-7heresdk18AreaCameraBehaviorC16setVisiblePoints07visibleG0ySayAA14GeoCoordinatesVG_tF" class="token"><code>setVisiblePoints(visiblePoints:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -466,12 +480,14 @@ Note: This is a beta feature; there maybe bugs and unexpected behavior. Related 
   Swift
 
   ``` highlight
-  public func setVisiblePoints ( visiblePoints : [ GeoCoordinates ])
+  public func setVisiblePoints(visiblePoints: [GeoCoordinates])
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geocoordinates">GeoCoordinates</a>
 
   </div>
 
@@ -502,7 +518,7 @@ Note: This is a beta feature; there maybe bugs and unexpected behavior. Related 
 
 - <div>
 
-      getVisiblePoints()
+   <span id="sdk-for-ios-explore-s-7heresdk18AreaCameraBehaviorC16getVisiblePointsSayAA14GeoCoordinatesVGyF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-getVisiblePoints" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-areacamerabehavior#sdk-for-ios-explore-s-7heresdk18AreaCameraBehaviorC16getVisiblePointsSayAA14GeoCoordinatesVGyF" class="token"><code>getVisiblePoints()</code></a> 
 
   </div>
 
@@ -533,12 +549,14 @@ Note: This is a beta feature; there maybe bugs and unexpected behavior. Related 
   Swift
 
   ``` highlight
-  public func getVisiblePoints () -> [ GeoCoordinates ]
+  public func getVisiblePoints() -> [GeoCoordinates]
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geocoordinates">GeoCoordinates</a>
 
   </div>
 

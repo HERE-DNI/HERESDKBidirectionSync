@@ -27,7 +27,7 @@ Type of the map content to be picked.
 
 - <div>
 
-  ` `<span id="/s:7heresdk8MapSceneC0B10PickFilterC11ContentTypeO8mapItemsyA2GmF"></span>` `<span id="//apple_ref/swift/Element/mapItems" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-mapscene-mappickfilter-contenttype#/s:7heresdk8MapSceneC0B10PickFilterC11ContentTypeO8mapItemsyA2GmF" class="token"><code>mapItems</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk8MapSceneC0B10PickFilterC11ContentTypeO8mapItemsyA2GmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-mapItems" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapscene-mappickfilter-contenttype#sdk-for-ios-explore-s-7heresdk8MapSceneC0B10PickFilterC11ContentTypeO8mapItemsyA2GmF" class="token"><code>mapItems</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Type of the map content to be picked.
 
 - <div>
 
-  ` `<span id="/s:7heresdk8MapSceneC0B10PickFilterC11ContentTypeO03mapF0yA2GmF"></span>` `<span id="//apple_ref/swift/Element/mapContent" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-mapscene-mappickfilter-contenttype#/s:7heresdk8MapSceneC0B10PickFilterC11ContentTypeO03mapF0yA2GmF" class="token"><code>mapContent</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk8MapSceneC0B10PickFilterC11ContentTypeO03mapF0yA2GmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-mapContent" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapscene-mappickfilter-contenttype#sdk-for-ios-explore-s-7heresdk8MapSceneC0B10PickFilterC11ContentTypeO03mapF0yA2GmF" class="token"><code>mapContent</code></a> 
 
   </div>
 
@@ -92,18 +92,8 @@ Type of the map content to be picked.
   Pickable map content currently consists of:
 
   - Embedded carto POI markers that by default are available on the map.
-
-  - Traffic incidents that are visible when they are enabled using
-
-        MapScene.enableFeatures(...)
-
-    with <a href="sdk-for-ios-explore-structs-mapfeatures#/s:7heresdk11MapFeaturesV16trafficIncidentsSSvpZ">`MapFeatures.trafficIncidents`</a>.
-
-  - Vehicle restrictions are only available for the Navigate license. Vehicle restrictions are enabled using
-
-        MapScene.enableFeatures(...)
-
-    with `MapFeatures.VEHICLE_RESTRICTIONS`. Please note that the vehicle restriction line marking the affected street is pickable and not the restriction icon itself. Only visible POIs, traffic incidents and vehicle restrictions lines can be picked, i.e. only those categories that are not hidden and those that are not covered by any custom marker.
+  - Traffic incidents that are visible when they are enabled using <a href="sdk-for-ios-explore-classes-mapscene#sdk-for-ios-explore-s-7heresdk8MapSceneC14enableFeaturesyySDyS2SGF">`MapScene.enableFeatures(...)`</a> with <a href="sdk-for-ios-explore-structs-mapfeatures#sdk-for-ios-explore-s-7heresdk11MapFeaturesV16trafficIncidentsSSvpZ">`MapFeatures.trafficIncidents`</a>.
+  - Vehicle restrictions are only available for the Navigate license. Vehicle restrictions are enabled using <a href="sdk-for-ios-explore-classes-mapscene#sdk-for-ios-explore-s-7heresdk8MapSceneC14enableFeaturesyySDyS2SGF">`MapScene.enableFeatures(...)`</a> with `MapFeatures.VEHICLE_RESTRICTIONS`. Please note that the vehicle restriction line marking the affected street is pickable and not the restriction icon itself. Only visible POIs, traffic incidents and vehicle restrictions lines can be picked, i.e. only those categories that are not hidden and those that are not covered by any custom marker.
 
   </div>
 
@@ -129,7 +119,7 @@ Type of the map content to be picked.
 
 - <div>
 
-  ` `<span id="/s:7heresdk8MapSceneC0B10PickFilterC11ContentTypeO15customLayerDatayA2GmF"></span>` `<span id="//apple_ref/swift/Element/customLayerData" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-mapscene-mappickfilter-contenttype#/s:7heresdk8MapSceneC0B10PickFilterC11ContentTypeO15customLayerDatayA2GmF" class="token"><code>customLayerData</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk8MapSceneC0B10PickFilterC11ContentTypeO15customLayerDatayA2GmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-customLayerData" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapscene-mappickfilter-contenttype#sdk-for-ios-explore-s-7heresdk8MapSceneC0B10PickFilterC11ContentTypeO15customLayerDatayA2GmF" class="token"><code>customLayerData</code></a> 
 
   </div>
 

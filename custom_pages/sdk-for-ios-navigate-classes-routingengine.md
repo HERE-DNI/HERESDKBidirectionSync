@@ -23,6 +23,10 @@ extension RoutingEngine: Hashable
 
 </div>
 
+Related types:
+
+- <a href="sdk-for-ios-navigate-protocols-routingprotocol">RoutingProtocol</a>
+
 </div>
 
 Use the RoutingEngine to calculate a route from A to B with a number of waypoints in between.
@@ -44,7 +48,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
 
 - <div>
 
-      init()
+   <span id="sdk-for-ios-navigate-s-7heresdk13RoutingEngineCACyKcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-routingengine#sdk-for-ios-navigate-s-7heresdk13RoutingEngineCACyKcfc" class="token"><code>init()</code></a> 
 
   </div>
 
@@ -68,7 +72,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
 
   Throws
 
-  <a href="sdk-for-ios-navigate-core#/s:7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
+  <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
 
   </div>
 
@@ -83,10 +87,8 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
   Swift
 
   ``` highlight
-  public init () throws
+  public init() throws
   ```
-
-  </pre>
 
   </div>
 
@@ -98,7 +100,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
 
 - <div>
 
-      init(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk13RoutingEngineCyAcA09SDKNativeC0CKcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-routingengine#sdk-for-ios-navigate-s-7heresdk13RoutingEngineCyAcA09SDKNativeC0CKcfc" class="token"><code>init(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -122,7 +124,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
 
   Throws
 
-  <a href="sdk-for-ios-navigate-core#/s:7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
+  <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
 
   </div>
 
@@ -137,12 +139,14 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
   Swift
 
   ``` highlight
-  public init ( _ sdkEngine : SDKNativeEngine ) throws
+  public init(_ sdkEngine: SDKNativeEngine) throws
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-sdknativeengine">SDKNativeEngine</a>
 
   </div>
 
@@ -173,7 +177,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
 
 - <div>
 
-      init(connectionSettings: )
+   <span id="sdk-for-ios-navigate-s-7heresdk13RoutingEngineC18connectionSettingsAcA0b10ConnectionE0V_tKcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-connectionSettings" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-routingengine#sdk-for-ios-navigate-s-7heresdk13RoutingEngineC18connectionSettingsAcA0b10ConnectionE0V_tKcfc" class="token"><code>init(connectionSettings:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -197,7 +201,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
 
   Throws
 
-  <a href="sdk-for-ios-navigate-core#/s:7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
+  <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
 
   </div>
 
@@ -212,12 +216,14 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
   Swift
 
   ``` highlight
-  public init ( connectionSettings : RoutingConnectionSettings ) throws
+  public init(connectionSettings: RoutingConnectionSettings) throws
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-routingconnectionsettings">RoutingConnectionSettings</a>
 
   </div>
 
@@ -248,7 +254,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
 
 - <div>
 
-      init(_: connectionSettings: )
+   <span id="sdk-for-ios-navigate-s-7heresdk13RoutingEngineC_18connectionSettingsAcA09SDKNativeC0C_AA0b10ConnectionE0VtKcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-_-connectionSettings" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-routingengine#sdk-for-ios-navigate-s-7heresdk13RoutingEngineC_18connectionSettingsAcA09SDKNativeC0C_AA0b10ConnectionE0VtKcfc" class="token"><code>init(_:</code><wbr></wbr><code>connectionSettings:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -272,7 +278,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
 
   Throws
 
-  <a href="sdk-for-ios-navigate-core#/s:7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
+  <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
 
   </div>
 
@@ -287,12 +293,15 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
   Swift
 
   ``` highlight
-  public init ( _ sdkEngine : SDKNativeEngine , connectionSettings : RoutingConnectionSettings ) throws
+  public init(_ sdkEngine: SDKNativeEngine, connectionSettings: RoutingConnectionSettings) throws
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-sdknativeengine">SDKNativeEngine</a>
+  - <a href="sdk-for-ios-navigate-structs-routingconnectionsettings">RoutingConnectionSettings</a>
 
   </div>
 
@@ -329,7 +338,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
 
 - <div>
 
-      calculateRoute(with: options: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk13RoutingEngineC14calculateRoute4with7options10completionAA10TaskHandle_pSayAA8WaypointVG_AA0B7OptionsVyAA0B5ErrorOSg_SayAA0E0CGSgtctF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-calculateRoute-with-options-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-routingengine#sdk-for-ios-navigate-s-7heresdk13RoutingEngineC14calculateRoute4with7options10completionAA10TaskHandle_pSayAA8WaypointVG_AA0B7OptionsVyAA0B5ErrorOSg_SayAA0E0CGSgtctF" class="token"><code>calculateRoute(with:</code><wbr></wbr><code>options:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -360,12 +369,18 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
   Swift
 
   ``` highlight
-  @discardableResult public func calculateRoute ( with waypoints : [ Waypoint ], options : RoutingOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  @discardableResult
+  public func calculateRoute(with waypoints: [Waypoint], options: RoutingOptions, completion: @escaping CalculateRouteCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-waypoint">Waypoint</a>
+  - <a href="sdk-for-ios-navigate-structs-routingoptions">RoutingOptions</a>
+  - <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk31CalculateRouteCompletionHandlera">CalculateRouteCompletionHandler</a>
+  - <a href="sdk-for-ios-navigate-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -416,7 +431,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
 
 - <div>
 
-      calculateRoute(with: carOptions: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk13RoutingEngineC14calculateRoute4with10carOptions10completionAA10TaskHandle_pSayAA8WaypointVG_AA03CarH0VyAA0B5ErrorOSg_SayAA0E0CGSgtctF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-calculateRoute-with-carOptions-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-routingengine#sdk-for-ios-navigate-s-7heresdk13RoutingEngineC14calculateRoute4with10carOptions10completionAA10TaskHandle_pSayAA8WaypointVG_AA03CarH0VyAA0B5ErrorOSg_SayAA0E0CGSgtctF" class="token"><code>calculateRoute(with:</code><wbr></wbr><code>carOptions:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -447,12 +462,19 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
   Swift
 
   ``` highlight
-  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `calculate_route(﹚` methods with RoutingOptions parameter instead.") @discardableResult public func calculateRoute ( with waypoints : [ Waypoint ], carOptions : CarOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `calculate_route(﹚` methods with RoutingOptions parameter instead.")
+  @discardableResult
+  public func calculateRoute(with waypoints: [Waypoint], carOptions: CarOptions, completion: @escaping CalculateRouteCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-waypoint">Waypoint</a>
+  - <a href="sdk-for-ios-navigate-structs-caroptions">CarOptions</a>
+  - <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk31CalculateRouteCompletionHandlera">CalculateRouteCompletionHandler</a>
+  - <a href="sdk-for-ios-navigate-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -503,7 +525,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
 
 - <div>
 
-      calculateRoute(with: pedestrianOptions: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk13RoutingEngineC14calculateRoute4with17pedestrianOptions10completionAA10TaskHandle_pSayAA8WaypointVG_AA010PedestrianH0VyAA0B5ErrorOSg_SayAA0E0CGSgtctF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-calculateRoute-with-pedestrianOptions-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-routingengine#sdk-for-ios-navigate-s-7heresdk13RoutingEngineC14calculateRoute4with17pedestrianOptions10completionAA10TaskHandle_pSayAA8WaypointVG_AA010PedestrianH0VyAA0B5ErrorOSg_SayAA0E0CGSgtctF" class="token"><code>calculateRoute(with:</code><wbr></wbr><code>pedestrianOptions:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -534,12 +556,19 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
   Swift
 
   ``` highlight
-  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `calculate_route(﹚` methods with RoutingOptions parameter instead.") @discardableResult public func calculateRoute ( with waypoints : [ Waypoint ], pedestrianOptions : PedestrianOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `calculate_route(﹚` methods with RoutingOptions parameter instead.")
+  @discardableResult
+  public func calculateRoute(with waypoints: [Waypoint], pedestrianOptions: PedestrianOptions, completion: @escaping CalculateRouteCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-waypoint">Waypoint</a>
+  - <a href="sdk-for-ios-navigate-structs-pedestrianoptions">PedestrianOptions</a>
+  - <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk31CalculateRouteCompletionHandlera">CalculateRouteCompletionHandler</a>
+  - <a href="sdk-for-ios-navigate-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -562,7 +591,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
   <tr>
   <td><code> </code><em><code>pedestrianOptions</code></em><code> </code></td>
   <td><div>
-  <p>Options specific for pedestrian route calculation, along with common route options. Note that <a href="sdk-for-ios-navigate-enums-optimizationmode#/s:7heresdk16OptimizationModeO8shortestyA2CmF"><code>OptimizationMode.shortest</code></a> is is not supported for pedestrians and converted to <a href="sdk-for-ios-navigate-enums-optimizationmode#/s:7heresdk16OptimizationModeO7fastestyA2CmF"><code>OptimizationMode.fastest</code></a> automatically.</p>
+  <p>Options specific for pedestrian route calculation, along with common route options. Note that <a href="sdk-for-ios-navigate-enums-optimizationmode#sdk-for-ios-navigate-s-7heresdk16OptimizationModeO8shortestyA2CmF"><code>OptimizationMode.shortest</code></a> is is not supported for pedestrians and converted to <a href="sdk-for-ios-navigate-enums-optimizationmode#sdk-for-ios-navigate-s-7heresdk16OptimizationModeO7fastestyA2CmF"><code>OptimizationMode.fastest</code></a> automatically.</p>
   </div></td>
   </tr>
   <tr>
@@ -590,7 +619,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
 
 - <div>
 
-      calculateRoute(with: truckOptions: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk13RoutingEngineC14calculateRoute4with12truckOptions10completionAA10TaskHandle_pSayAA8WaypointVG_AA05TruckH0VyAA0B5ErrorOSg_SayAA0E0CGSgtctF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-calculateRoute-with-truckOptions-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-routingengine#sdk-for-ios-navigate-s-7heresdk13RoutingEngineC14calculateRoute4with12truckOptions10completionAA10TaskHandle_pSayAA8WaypointVG_AA05TruckH0VyAA0B5ErrorOSg_SayAA0E0CGSgtctF" class="token"><code>calculateRoute(with:</code><wbr></wbr><code>truckOptions:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -621,12 +650,19 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
   Swift
 
   ``` highlight
-  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `calculate_route(﹚` methods with RoutingOptions parameter instead.") @discardableResult public func calculateRoute ( with waypoints : [ Waypoint ], truckOptions : TruckOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `calculate_route(﹚` methods with RoutingOptions parameter instead.")
+  @discardableResult
+  public func calculateRoute(with waypoints: [Waypoint], truckOptions: TruckOptions, completion: @escaping CalculateRouteCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-waypoint">Waypoint</a>
+  - <a href="sdk-for-ios-navigate-structs-truckoptions">TruckOptions</a>
+  - <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk31CalculateRouteCompletionHandlera">CalculateRouteCompletionHandler</a>
+  - <a href="sdk-for-ios-navigate-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -677,7 +713,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
 
 - <div>
 
-      calculateRoute(with: scooterOptions: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk13RoutingEngineC14calculateRoute4with14scooterOptions10completionAA10TaskHandle_pSayAA8WaypointVG_AA07ScooterH0VyAA0B5ErrorOSg_SayAA0E0CGSgtctF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-calculateRoute-with-scooterOptions-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-routingengine#sdk-for-ios-navigate-s-7heresdk13RoutingEngineC14calculateRoute4with14scooterOptions10completionAA10TaskHandle_pSayAA8WaypointVG_AA07ScooterH0VyAA0B5ErrorOSg_SayAA0E0CGSgtctF" class="token"><code>calculateRoute(with:</code><wbr></wbr><code>scooterOptions:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -708,12 +744,19 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
   Swift
 
   ``` highlight
-  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `calculate_route(﹚` methods with RoutingOptions parameter instead.") @discardableResult public func calculateRoute ( with waypoints : [ Waypoint ], scooterOptions : ScooterOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `calculate_route(﹚` methods with RoutingOptions parameter instead.")
+  @discardableResult
+  public func calculateRoute(with waypoints: [Waypoint], scooterOptions: ScooterOptions, completion: @escaping CalculateRouteCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-waypoint">Waypoint</a>
+  - <a href="sdk-for-ios-navigate-structs-scooteroptions">ScooterOptions</a>
+  - <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk31CalculateRouteCompletionHandlera">CalculateRouteCompletionHandler</a>
+  - <a href="sdk-for-ios-navigate-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -736,7 +779,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
   <tr>
   <td><code> </code><em><code>scooterOptions</code></em><code> </code></td>
   <td><div>
-  <p>Options specific for scooter route calculation, along with common route options. Note that <a href="sdk-for-ios-navigate-enums-optimizationmode#/s:7heresdk16OptimizationModeO8shortestyA2CmF"><code>OptimizationMode.shortest</code></a> is is not supported for scooters and converted to <a href="sdk-for-ios-navigate-enums-optimizationmode#/s:7heresdk16OptimizationModeO7fastestyA2CmF"><code>OptimizationMode.fastest</code></a> automatically.</p>
+  <p>Options specific for scooter route calculation, along with common route options. Note that <a href="sdk-for-ios-navigate-enums-optimizationmode#sdk-for-ios-navigate-s-7heresdk16OptimizationModeO8shortestyA2CmF"><code>OptimizationMode.shortest</code></a> is is not supported for scooters and converted to <a href="sdk-for-ios-navigate-enums-optimizationmode#sdk-for-ios-navigate-s-7heresdk16OptimizationModeO7fastestyA2CmF"><code>OptimizationMode.fastest</code></a> automatically.</p>
   </div></td>
   </tr>
   <tr>
@@ -764,7 +807,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
 
 - <div>
 
-      calculateRoute(with: bicycleOptions: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk13RoutingEngineC14calculateRoute4with14bicycleOptions10completionAA10TaskHandle_pSayAA8WaypointVG_AA07BicycleH0VyAA0B5ErrorOSg_SayAA0E0CGSgtctF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-calculateRoute-with-bicycleOptions-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-routingengine#sdk-for-ios-navigate-s-7heresdk13RoutingEngineC14calculateRoute4with14bicycleOptions10completionAA10TaskHandle_pSayAA8WaypointVG_AA07BicycleH0VyAA0B5ErrorOSg_SayAA0E0CGSgtctF" class="token"><code>calculateRoute(with:</code><wbr></wbr><code>bicycleOptions:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -795,12 +838,19 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
   Swift
 
   ``` highlight
-  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `calculate_route(﹚` methods with RoutingOptions parameter instead.") @discardableResult public func calculateRoute ( with waypoints : [ Waypoint ], bicycleOptions : BicycleOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `calculate_route(﹚` methods with RoutingOptions parameter instead.")
+  @discardableResult
+  public func calculateRoute(with waypoints: [Waypoint], bicycleOptions: BicycleOptions, completion: @escaping CalculateRouteCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-waypoint">Waypoint</a>
+  - <a href="sdk-for-ios-navigate-structs-bicycleoptions">BicycleOptions</a>
+  - <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk31CalculateRouteCompletionHandlera">CalculateRouteCompletionHandler</a>
+  - <a href="sdk-for-ios-navigate-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -823,7 +873,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
   <tr>
   <td><code> </code><em><code>bicycleOptions</code></em><code> </code></td>
   <td><div>
-  <p>Options specific for bicycle route calculation, along with common route options. Note that <a href="sdk-for-ios-navigate-enums-optimizationmode#/s:7heresdk16OptimizationModeO8shortestyA2CmF"><code>OptimizationMode.shortest</code></a> is is not supported for bicycles and converted to <a href="sdk-for-ios-navigate-enums-optimizationmode#/s:7heresdk16OptimizationModeO7fastestyA2CmF"><code>OptimizationMode.fastest</code></a> automatically.</p>
+  <p>Options specific for bicycle route calculation, along with common route options. Note that <a href="sdk-for-ios-navigate-enums-optimizationmode#sdk-for-ios-navigate-s-7heresdk16OptimizationModeO8shortestyA2CmF"><code>OptimizationMode.shortest</code></a> is is not supported for bicycles and converted to <a href="sdk-for-ios-navigate-enums-optimizationmode#sdk-for-ios-navigate-s-7heresdk16OptimizationModeO7fastestyA2CmF"><code>OptimizationMode.fastest</code></a> automatically.</p>
   </div></td>
   </tr>
   <tr>
@@ -851,7 +901,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
 
 - <div>
 
-      calculateRoute(with: taxiOptions: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk13RoutingEngineC14calculateRoute4with11taxiOptions10completionAA10TaskHandle_pSayAA8WaypointVG_AA04TaxiH0VyAA0B5ErrorOSg_SayAA0E0CGSgtctF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-calculateRoute-with-taxiOptions-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-routingengine#sdk-for-ios-navigate-s-7heresdk13RoutingEngineC14calculateRoute4with11taxiOptions10completionAA10TaskHandle_pSayAA8WaypointVG_AA04TaxiH0VyAA0B5ErrorOSg_SayAA0E0CGSgtctF" class="token"><code>calculateRoute(with:</code><wbr></wbr><code>taxiOptions:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -882,12 +932,19 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
   Swift
 
   ``` highlight
-  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `calculate_route(﹚` methods with RoutingOptions parameter instead.") @discardableResult public func calculateRoute ( with waypoints : [ Waypoint ], taxiOptions : TaxiOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `calculate_route(﹚` methods with RoutingOptions parameter instead.")
+  @discardableResult
+  public func calculateRoute(with waypoints: [Waypoint], taxiOptions: TaxiOptions, completion: @escaping CalculateRouteCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-waypoint">Waypoint</a>
+  - <a href="sdk-for-ios-navigate-structs-taxioptions">TaxiOptions</a>
+  - <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk31CalculateRouteCompletionHandlera">CalculateRouteCompletionHandler</a>
+  - <a href="sdk-for-ios-navigate-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -910,7 +967,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
   <tr>
   <td><code> </code><em><code>taxiOptions</code></em><code> </code></td>
   <td><div>
-  <p>Options specific for taxi route calculation, along with common route options. Note that <a href="sdk-for-ios-navigate-enums-optimizationmode#/s:7heresdk16OptimizationModeO8shortestyA2CmF"><code>OptimizationMode.shortest</code></a> is is not supported for taxis and converted to <a href="sdk-for-ios-navigate-enums-optimizationmode#/s:7heresdk16OptimizationModeO7fastestyA2CmF"><code>OptimizationMode.fastest</code></a> automatically.</p>
+  <p>Options specific for taxi route calculation, along with common route options. Note that <a href="sdk-for-ios-navigate-enums-optimizationmode#sdk-for-ios-navigate-s-7heresdk16OptimizationModeO8shortestyA2CmF"><code>OptimizationMode.shortest</code></a> is is not supported for taxis and converted to <a href="sdk-for-ios-navigate-enums-optimizationmode#sdk-for-ios-navigate-s-7heresdk16OptimizationModeO7fastestyA2CmF"><code>OptimizationMode.fastest</code></a> automatically.</p>
   </div></td>
   </tr>
   <tr>
@@ -938,7 +995,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
 
 - <div>
 
-      calculateRoute(with: evCarOptions: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk13RoutingEngineC14calculateRoute4with12evCarOptions10completionAA10TaskHandle_pSayAA8WaypointVG_AA05EVCarI0VyAA0B5ErrorOSg_SayAA0E0CGSgtctF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-calculateRoute-with-evCarOptions-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-routingengine#sdk-for-ios-navigate-s-7heresdk13RoutingEngineC14calculateRoute4with12evCarOptions10completionAA10TaskHandle_pSayAA8WaypointVG_AA05EVCarI0VyAA0B5ErrorOSg_SayAA0E0CGSgtctF" class="token"><code>calculateRoute(with:</code><wbr></wbr><code>evCarOptions:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -969,12 +1026,19 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
   Swift
 
   ``` highlight
-  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `calculate_route(﹚` methods with RoutingOptions parameter instead.") @discardableResult public func calculateRoute ( with waypoints : [ Waypoint ], evCarOptions : EVCarOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `calculate_route(﹚` methods with RoutingOptions parameter instead.")
+  @discardableResult
+  public func calculateRoute(with waypoints: [Waypoint], evCarOptions: EVCarOptions, completion: @escaping CalculateRouteCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-waypoint">Waypoint</a>
+  - <a href="sdk-for-ios-navigate-structs-evcaroptions">EVCarOptions</a>
+  - <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk31CalculateRouteCompletionHandlera">CalculateRouteCompletionHandler</a>
+  - <a href="sdk-for-ios-navigate-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -1025,7 +1089,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
 
 - <div>
 
-      calculateRoute(with: evTruckOptions: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk13RoutingEngineC14calculateRoute4with14evTruckOptions10completionAA10TaskHandle_pSayAA8WaypointVG_AA07EVTruckI0VyAA0B5ErrorOSg_SayAA0E0CGSgtctF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-calculateRoute-with-evTruckOptions-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-routingengine#sdk-for-ios-navigate-s-7heresdk13RoutingEngineC14calculateRoute4with14evTruckOptions10completionAA10TaskHandle_pSayAA8WaypointVG_AA07EVTruckI0VyAA0B5ErrorOSg_SayAA0E0CGSgtctF" class="token"><code>calculateRoute(with:</code><wbr></wbr><code>evTruckOptions:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1056,12 +1120,19 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
   Swift
 
   ``` highlight
-  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `calculate_route(﹚` methods with RoutingOptions parameter instead.") @discardableResult public func calculateRoute ( with waypoints : [ Waypoint ], evTruckOptions : EVTruckOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `calculate_route(﹚` methods with RoutingOptions parameter instead.")
+  @discardableResult
+  public func calculateRoute(with waypoints: [Waypoint], evTruckOptions: EVTruckOptions, completion: @escaping CalculateRouteCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-waypoint">Waypoint</a>
+  - <a href="sdk-for-ios-navigate-structs-evtruckoptions">EVTruckOptions</a>
+  - <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk31CalculateRouteCompletionHandlera">CalculateRouteCompletionHandler</a>
+  - <a href="sdk-for-ios-navigate-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -1112,7 +1183,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
 
 - <div>
 
-      calculateRoute(with: busOptions: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk13RoutingEngineC14calculateRoute4with10busOptions10completionAA10TaskHandle_pSayAA8WaypointVG_AA03BusH0VyAA0B5ErrorOSg_SayAA0E0CGSgtctF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-calculateRoute-with-busOptions-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-routingengine#sdk-for-ios-navigate-s-7heresdk13RoutingEngineC14calculateRoute4with10busOptions10completionAA10TaskHandle_pSayAA8WaypointVG_AA03BusH0VyAA0B5ErrorOSg_SayAA0E0CGSgtctF" class="token"><code>calculateRoute(with:</code><wbr></wbr><code>busOptions:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1143,12 +1214,19 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
   Swift
 
   ``` highlight
-  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `calculate_route(﹚` methods with RoutingOptions parameter instead.") @discardableResult public func calculateRoute ( with waypoints : [ Waypoint ], busOptions : BusOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `calculate_route(﹚` methods with RoutingOptions parameter instead.")
+  @discardableResult
+  public func calculateRoute(with waypoints: [Waypoint], busOptions: BusOptions, completion: @escaping CalculateRouteCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-waypoint">Waypoint</a>
+  - <a href="sdk-for-ios-navigate-structs-busoptions">BusOptions</a>
+  - <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk31CalculateRouteCompletionHandlera">CalculateRouteCompletionHandler</a>
+  - <a href="sdk-for-ios-navigate-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -1199,7 +1277,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
 
 - <div>
 
-      calculateRoute(with: privateBusOptions: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk13RoutingEngineC14calculateRoute4with17privateBusOptions10completionAA10TaskHandle_pSayAA8WaypointVG_AA07PrivatehI0VyAA0B5ErrorOSg_SayAA0E0CGSgtctF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-calculateRoute-with-privateBusOptions-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-routingengine#sdk-for-ios-navigate-s-7heresdk13RoutingEngineC14calculateRoute4with17privateBusOptions10completionAA10TaskHandle_pSayAA8WaypointVG_AA07PrivatehI0VyAA0B5ErrorOSg_SayAA0E0CGSgtctF" class="token"><code>calculateRoute(with:</code><wbr></wbr><code>privateBusOptions:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1230,12 +1308,19 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
   Swift
 
   ``` highlight
-  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `calculate_route(﹚` methods with RoutingOptions parameter instead.") @discardableResult public func calculateRoute ( with waypoints : [ Waypoint ], privateBusOptions : PrivateBusOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `calculate_route(﹚` methods with RoutingOptions parameter instead.")
+  @discardableResult
+  public func calculateRoute(with waypoints: [Waypoint], privateBusOptions: PrivateBusOptions, completion: @escaping CalculateRouteCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-waypoint">Waypoint</a>
+  - <a href="sdk-for-ios-navigate-structs-privatebusoptions">PrivateBusOptions</a>
+  - <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk31CalculateRouteCompletionHandlera">CalculateRouteCompletionHandler</a>
+  - <a href="sdk-for-ios-navigate-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -1286,7 +1371,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
 
 - <div>
 
-      returnToRoute(_: startingPoint: lastTraveledSectionIndex: traveledDistanceOnLastSectionInMeters: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk13RoutingEngineC13returnToRoute_13startingPoint24lastTraveledSectionIndex022traveledDistanceOnLastK8InMeters10completionAA10TaskHandle_pAA0F0C_AA8WaypointVs5Int32VAOyAA0B5ErrorOSg_SayAKGSgtctF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-returnToRoute-_-startingPoint-lastTraveledSectionIndex-traveledDistanceOnLastSectionInMeters-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-routingengine#sdk-for-ios-navigate-s-7heresdk13RoutingEngineC13returnToRoute_13startingPoint24lastTraveledSectionIndex022traveledDistanceOnLastK8InMeters10completionAA10TaskHandle_pAA0F0C_AA8WaypointVs5Int32VAOyAA0B5ErrorOSg_SayAKGSgtctF" class="token"><code>returnToRoute(_:</code><wbr></wbr><code>startingPoint:</code><wbr></wbr><code>lastTraveledSectionIndex:</code><wbr></wbr><code>traveledDistanceOnLastSectionInMeters:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1306,7 +1391,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
 
   Asynchronously calculates a new route that leads back to the original route. The part of the original route which was already traveled by the user is ignored.
 
-  **Note:** Stopover waypoints are guaranteed to be visited. Pass-through waypoints will be ignored. Additionally, the following route options are ignored: <a href="sdk-for-ios-navigate-structs-routeoptions#/s:7heresdk12RouteOptionsV12alternativess5Int32Vvp">`RouteOptions.alternatives`</a>, <a href="sdk-for-ios-navigate-structs-routeoptions#/s:7heresdk12RouteOptionsV11arrivalTime10Foundation4DateVSgvp">`RouteOptions.arrivalTime`</a>, and <a href="sdk-for-ios-navigate-structs-routeoptions#/s:7heresdk12RouteOptionsV16optimizationModeAA012OptimizationE0Ovp">`RouteOptions.optimizationMode`</a>. Most route options are only applied to the newly calculated part back to the route.
+  **Note:** Stopover waypoints are guaranteed to be visited. Pass-through waypoints will be ignored. Additionally, the following route options are ignored: <a href="sdk-for-ios-navigate-structs-routeoptions#sdk-for-ios-navigate-s-7heresdk12RouteOptionsV12alternativess5Int32Vvp">`RouteOptions.alternatives`</a>, <a href="sdk-for-ios-navigate-structs-routeoptions#sdk-for-ios-navigate-s-7heresdk12RouteOptionsV11arrivalTime10Foundation4DateVSgvp">`RouteOptions.arrivalTime`</a>, and <a href="sdk-for-ios-navigate-structs-routeoptions#sdk-for-ios-navigate-s-7heresdk12RouteOptionsV16optimizationModeAA012OptimizationE0Ovp">`RouteOptions.optimizationMode`</a>. Most route options are only applied to the newly calculated part back to the route.
 
   An application may use this method to submit a new starting point for a previously calculated route. This method tries to avoid a costly route re-calculation as much as possible. In case returning to the route without re-calculation is not possible, a new route is calculated, while trying to salvage the previous route as much as possible. However, a completely new route containing no part of the previous route is possible, too.
 
@@ -1316,7 +1401,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
 
   - Or alternatively, wait at least 10 seconds after getting the first deviation event.
   - On top, the user experience can be improved by checking if the vehicle has moved at least 50 meters since calling this method for the last time.
-  - Optionally, it may make sense to verify if the vehicle was ever following the route by checking if <a href="sdk-for-ios-navigate-structs-routedeviation#/s:7heresdk14RouteDeviationV014lastLocationOnB0AA09NavigableE0VSgvp">`RouteDeviation.lastLocationOnRoute`</a> is set.
+  - Optionally, it may make sense to verify if the vehicle was ever following the route by checking if <a href="sdk-for-ios-navigate-structs-routedeviation#sdk-for-ios-navigate-s-7heresdk14RouteDeviationV014lastLocationOnB0AA09NavigableE0VSgvp">`RouteDeviation.lastLocationOnRoute`</a> is set.
 
   Note that deviation events are sent each time a deviation is detected, i.e. for each new location update, regardless if the location has changed or not. More information can be found in the Developer Guide in the “Handle route deviations” section.
 
@@ -1331,12 +1416,18 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
   Swift
 
   ``` highlight
-  @discardableResult public func returnToRoute ( _ route : Route , startingPoint : Waypoint , lastTraveledSectionIndex : Int32 , traveledDistanceOnLastSectionInMeters : Int32 , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  @discardableResult
+  public func returnToRoute(_ route: Route, startingPoint: Waypoint, lastTraveledSectionIndex: Int32, traveledDistanceOnLastSectionInMeters: Int32, completion: @escaping CalculateRouteCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-route">Route</a>
+  - <a href="sdk-for-ios-navigate-structs-waypoint">Waypoint</a>
+  - <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk31CalculateRouteCompletionHandlera">CalculateRouteCompletionHandler</a>
+  - <a href="sdk-for-ios-navigate-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -1359,7 +1450,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
   <tr>
   <td><code> </code><em><code>startingPoint</code></em><code> </code></td>
   <td><div>
-  <p>The current location, for example, provided by a <a href="sdk-for-ios-navigate-structs-routedeviation"><code>RouteDeviation</code></a> event. The waypoint needs to be of type <a href="sdk-for-ios-navigate-enums-waypointtype#/s:7heresdk12WaypointTypeO8stopoveryA2CmF"><code>WaypointType.stopover</code></a>. Otherwise, an <a href="sdk-for-ios-navigate-enums-routingerror#/s:7heresdk12RoutingErrorO16invalidParameteryA2CmF"><code>RoutingError.invalidParameter</code></a> error is generated.</p>
+  <p>The current location, for example, provided by a <a href="sdk-for-ios-navigate-structs-routedeviation"><code>RouteDeviation</code></a> event. The waypoint needs to be of type <a href="sdk-for-ios-navigate-enums-waypointtype#sdk-for-ios-navigate-s-7heresdk12WaypointTypeO8stopoveryA2CmF"><code>WaypointType.stopover</code></a>. Otherwise, an <a href="sdk-for-ios-navigate-enums-routingerror#sdk-for-ios-navigate-s-7heresdk12RoutingErrorO16invalidParameteryA2CmF"><code>RoutingError.invalidParameter</code></a> error is generated.</p>
   </div></td>
   </tr>
   <tr>
@@ -1399,7 +1490,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
 
 - <div>
 
-      refreshRoute(routeHandle: startingPoint: refreshRouteOptions: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk13RoutingEngineC12refreshRoute11routeHandle13startingPoint0dE7Options10completionAA04TaskG0_pAA0eG0V_AA8WaypointVAA07RefresheJ0CyAA0B5ErrorOSg_SayAA0E0CGSgtctF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-refreshRoute-routeHandle-startingPoint-refreshRouteOptions-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-routingengine#sdk-for-ios-navigate-s-7heresdk13RoutingEngineC12refreshRoute11routeHandle13startingPoint0dE7Options10completionAA04TaskG0_pAA0eG0V_AA8WaypointVAA07RefresheJ0CyAA0B5ErrorOSg_SayAA0E0CGSgtctF" class="token"><code>refreshRoute(routeHandle:</code><wbr></wbr><code>startingPoint:</code><wbr></wbr><code>refreshRouteOptions:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1437,12 +1528,20 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
   Swift
 
   ``` highlight
-  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `refresh_route(﹚` methods with RoutingOptions parameter instead.") @discardableResult public func refreshRoute ( routeHandle : RouteHandle , startingPoint : Waypoint , refreshRouteOptions : RefreshRouteOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `refresh_route(﹚` methods with RoutingOptions parameter instead.")
+  @discardableResult
+  public func refreshRoute(routeHandle: RouteHandle, startingPoint: Waypoint, refreshRouteOptions: RefreshRouteOptions, completion: @escaping CalculateRouteCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-routehandle">RouteHandle</a>
+  - <a href="sdk-for-ios-navigate-structs-waypoint">Waypoint</a>
+  - <a href="sdk-for-ios-navigate-classes-refreshrouteoptions">RefreshRouteOptions</a>
+  - <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk31CalculateRouteCompletionHandlera">CalculateRouteCompletionHandler</a>
+  - <a href="sdk-for-ios-navigate-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -1465,7 +1564,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
   <tr>
   <td><code> </code><em><code>startingPoint</code></em><code> </code></td>
   <td><div>
-  <p>Updates the starting point of the route. It should be of type <a href="sdk-for-ios-navigate-enums-waypointtype#/s:7heresdk12WaypointTypeO8stopoveryA2CmF"><code>WaypointType.stopover</code></a>. Otherwise, an <a href="sdk-for-ios-navigate-enums-routingerror#/s:7heresdk12RoutingErrorO16invalidParameteryA2CmF"><code>RoutingError.invalidParameter</code></a> error is generated. Moreover, it should be very close to the original route specified with the <a href="sdk-for-ios-navigate-structs-routehandle"><code>RouteHandle</code></a>. Since the new starting point is expected to be along the original route, the original route geometry is used to reach the remaining waypoints. The new route will not include the <a href="sdk-for-ios-navigate-structs-waypoint"><code>Waypoint</code></a> items that lie behind the new starting point (i.e. the path that was already travelled). Plus, <a href="sdk-for-ios-navigate-classes-route#/s:7heresdk5RouteC14lengthInMeterss5Int32Vvp"><code>Route.lengthInMeters</code></a> and <a href="sdk-for-ios-navigate-classes-route#/s:7heresdk5RouteC8durationSdvp"><code>Route.duration</code></a> values are from the new starting point to the destination. If the new waypoint is too far off the original route, the route refresh may fail and an <a href="sdk-for-ios-navigate-enums-routingerror#/s:7heresdk12RoutingErrorO19couldNotMatchOriginyA2CmF"><code>RoutingError.couldNotMatchOrigin</code></a> error is triggered. In that case, an application may decide to calculate a new route from scratch.</p>
+  <p>Updates the starting point of the route. It should be of type <a href="sdk-for-ios-navigate-enums-waypointtype#sdk-for-ios-navigate-s-7heresdk12WaypointTypeO8stopoveryA2CmF"><code>WaypointType.stopover</code></a>. Otherwise, an <a href="sdk-for-ios-navigate-enums-routingerror#sdk-for-ios-navigate-s-7heresdk12RoutingErrorO16invalidParameteryA2CmF"><code>RoutingError.invalidParameter</code></a> error is generated. Moreover, it should be very close to the original route specified with the <a href="sdk-for-ios-navigate-structs-routehandle"><code>RouteHandle</code></a>. Since the new starting point is expected to be along the original route, the original route geometry is used to reach the remaining waypoints. The new route will not include the <a href="sdk-for-ios-navigate-structs-waypoint"><code>Waypoint</code></a> items that lie behind the new starting point (i.e. the path that was already travelled). Plus, <a href="sdk-for-ios-navigate-classes-route#sdk-for-ios-navigate-s-7heresdk5RouteC14lengthInMeterss5Int32Vvp"><code>Route.lengthInMeters</code></a> and <a href="sdk-for-ios-navigate-classes-route#sdk-for-ios-navigate-s-7heresdk5RouteC8durationSdvp"><code>Route.duration</code></a> values are from the new starting point to the destination. If the new waypoint is too far off the original route, the route refresh may fail and an <a href="sdk-for-ios-navigate-enums-routingerror#sdk-for-ios-navigate-s-7heresdk12RoutingErrorO19couldNotMatchOriginyA2CmF"><code>RoutingError.couldNotMatchOrigin</code></a> error is triggered. In that case, an application may decide to calculate a new route from scratch.</p>
   </div></td>
   </tr>
   <tr>
@@ -1499,7 +1598,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
 
 - <div>
 
-      refreshRoute(routeHandle: startingPoint: lastTraveledSectionIndex: traveledDistanceOnLastSectionInMeters: refreshRouteOptions: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk13RoutingEngineC12refreshRoute11routeHandle13startingPoint24lastTraveledSectionIndex022traveledDistanceOnLastL8InMeters0dE7Options10completionAA04TaskG0_pAA0eG0V_AA8WaypointVSgs5Int32VSgAsA07RefresheT0CyAA0B5ErrorOSg_SayAA0E0CGSgtctF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-refreshRoute-routeHandle-startingPoint-lastTraveledSectionIndex-traveledDistanceOnLastSectionInMeters-refreshRouteOptions-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-routingengine#sdk-for-ios-navigate-s-7heresdk13RoutingEngineC12refreshRoute11routeHandle13startingPoint24lastTraveledSectionIndex022traveledDistanceOnLastL8InMeters0dE7Options10completionAA04TaskG0_pAA0eG0V_AA8WaypointVSgs5Int32VSgAsA07RefresheT0CyAA0B5ErrorOSg_SayAA0E0CGSgtctF" class="token"><code>refreshRoute(routeHandle:</code><wbr></wbr><code>startingPoint:</code><wbr></wbr><code>lastTraveledSectionIndex:</code><wbr></wbr><code>traveledDistanceOnLastSectionInMeters:</code><wbr></wbr><code>refreshRouteOptions:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1537,12 +1636,20 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
   Swift
 
   ``` highlight
-  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `refresh_route(﹚` methods with RoutingOptions parameter instead.") @discardableResult public func refreshRoute ( routeHandle : RouteHandle , startingPoint : Waypoint ?, lastTraveledSectionIndex : Int32 ?, traveledDistanceOnLastSectionInMeters : Int32 ?, refreshRouteOptions : RefreshRouteOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `refresh_route(﹚` methods with RoutingOptions parameter instead.")
+  @discardableResult
+  public func refreshRoute(routeHandle: RouteHandle, startingPoint: Waypoint?, lastTraveledSectionIndex: Int32?, traveledDistanceOnLastSectionInMeters: Int32?, refreshRouteOptions: RefreshRouteOptions, completion: @escaping CalculateRouteCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-routehandle">RouteHandle</a>
+  - <a href="sdk-for-ios-navigate-structs-waypoint">Waypoint</a>
+  - <a href="sdk-for-ios-navigate-classes-refreshrouteoptions">RefreshRouteOptions</a>
+  - <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk31CalculateRouteCompletionHandlera">CalculateRouteCompletionHandler</a>
+  - <a href="sdk-for-ios-navigate-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -1565,7 +1672,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
   <tr>
   <td><code> </code><em><code>startingPoint</code></em><code> </code></td>
   <td><div>
-  <p>Updates the starting point of the route. It should be of type <a href="sdk-for-ios-navigate-enums-waypointtype#/s:7heresdk12WaypointTypeO8stopoveryA2CmF"><code>WaypointType.stopover</code></a>. Otherwise, an <a href="sdk-for-ios-navigate-enums-routingerror#/s:7heresdk12RoutingErrorO16invalidParameteryA2CmF"><code>RoutingError.invalidParameter</code></a> error is generated. Moreover, it should be very close to the original route specified with the <a href="sdk-for-ios-navigate-structs-routehandle"><code>RouteHandle</code></a>. Since the new starting point is expected to be along the original route, the original route geometry is used to reach the remaining waypoints. The new route will not include the <a href="sdk-for-ios-navigate-structs-waypoint"><code>Waypoint</code></a> items that lie behind the new starting point (i.e. the path that was already travelled). Plus, <a href="sdk-for-ios-navigate-classes-route#/s:7heresdk5RouteC14lengthInMeterss5Int32Vvp"><code>Route.lengthInMeters</code></a> and <a href="sdk-for-ios-navigate-classes-route#/s:7heresdk5RouteC8durationSdvp"><code>Route.duration</code></a> values are from the new starting point to the destination. If the new waypoint is too far off the original route, the route refresh may fail and an <a href="sdk-for-ios-navigate-enums-routingerror#/s:7heresdk12RoutingErrorO19couldNotMatchOriginyA2CmF"><code>RoutingError.couldNotMatchOrigin</code></a> error is triggered. In that case, an application may decide to calculate a new route from scratch.</p>
+  <p>Updates the starting point of the route. It should be of type <a href="sdk-for-ios-navigate-enums-waypointtype#sdk-for-ios-navigate-s-7heresdk12WaypointTypeO8stopoveryA2CmF"><code>WaypointType.stopover</code></a>. Otherwise, an <a href="sdk-for-ios-navigate-enums-routingerror#sdk-for-ios-navigate-s-7heresdk12RoutingErrorO16invalidParameteryA2CmF"><code>RoutingError.invalidParameter</code></a> error is generated. Moreover, it should be very close to the original route specified with the <a href="sdk-for-ios-navigate-structs-routehandle"><code>RouteHandle</code></a>. Since the new starting point is expected to be along the original route, the original route geometry is used to reach the remaining waypoints. The new route will not include the <a href="sdk-for-ios-navigate-structs-waypoint"><code>Waypoint</code></a> items that lie behind the new starting point (i.e. the path that was already travelled). Plus, <a href="sdk-for-ios-navigate-classes-route#sdk-for-ios-navigate-s-7heresdk5RouteC14lengthInMeterss5Int32Vvp"><code>Route.lengthInMeters</code></a> and <a href="sdk-for-ios-navigate-classes-route#sdk-for-ios-navigate-s-7heresdk5RouteC8durationSdvp"><code>Route.duration</code></a> values are from the new starting point to the destination. If the new waypoint is too far off the original route, the route refresh may fail and an <a href="sdk-for-ios-navigate-enums-routingerror#sdk-for-ios-navigate-s-7heresdk12RoutingErrorO19couldNotMatchOriginyA2CmF"><code>RoutingError.couldNotMatchOrigin</code></a> error is triggered. In that case, an application may decide to calculate a new route from scratch.</p>
   </div></td>
   </tr>
   <tr>
@@ -1611,7 +1718,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
 
 - <div>
 
-      refreshRoute(routeHandle: startingPoint: lastTraveledSectionIndex: traveledDistanceOnLastSectionInMeters: options: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk13RoutingEngineC12refreshRoute11routeHandle13startingPoint24lastTraveledSectionIndex022traveledDistanceOnLastL8InMeters7options10completionAA04TaskG0_pAA0eG0V_AA8WaypointVSgs5Int32VSgAsA0B7OptionsVyAA0B5ErrorOSg_SayAA0E0CGSgtctF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-refreshRoute-routeHandle-startingPoint-lastTraveledSectionIndex-traveledDistanceOnLastSectionInMeters-options-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-routingengine#sdk-for-ios-navigate-s-7heresdk13RoutingEngineC12refreshRoute11routeHandle13startingPoint24lastTraveledSectionIndex022traveledDistanceOnLastL8InMeters7options10completionAA04TaskG0_pAA0eG0V_AA8WaypointVSgs5Int32VSgAsA0B7OptionsVyAA0B5ErrorOSg_SayAA0E0CGSgtctF" class="token"><code>refreshRoute(routeHandle:</code><wbr></wbr><code>startingPoint:</code><wbr></wbr><code>lastTraveledSectionIndex:</code><wbr></wbr><code>traveledDistanceOnLastSectionInMeters:</code><wbr></wbr><code>options:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1649,12 +1756,20 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
   Swift
 
   ``` highlight
-  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `refresh_route(﹚` methods with RefreshRouteParameters parameter instead.") @discardableResult public func refreshRoute ( routeHandle : RouteHandle , startingPoint : Waypoint ?, lastTraveledSectionIndex : Int32 ?, traveledDistanceOnLastSectionInMeters : Int32 ?, options : RoutingOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `refresh_route(﹚` methods with RefreshRouteParameters parameter instead.")
+  @discardableResult
+  public func refreshRoute(routeHandle: RouteHandle, startingPoint: Waypoint?, lastTraveledSectionIndex: Int32?, traveledDistanceOnLastSectionInMeters: Int32?, options: RoutingOptions, completion: @escaping CalculateRouteCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-routehandle">RouteHandle</a>
+  - <a href="sdk-for-ios-navigate-structs-waypoint">Waypoint</a>
+  - <a href="sdk-for-ios-navigate-structs-routingoptions">RoutingOptions</a>
+  - <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk31CalculateRouteCompletionHandlera">CalculateRouteCompletionHandler</a>
+  - <a href="sdk-for-ios-navigate-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -1677,7 +1792,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
   <tr>
   <td><code> </code><em><code>startingPoint</code></em><code> </code></td>
   <td><div>
-  <p>Updates the starting point of the route. It should be of type <a href="sdk-for-ios-navigate-enums-waypointtype#/s:7heresdk12WaypointTypeO8stopoveryA2CmF"><code>WaypointType.stopover</code></a>. Otherwise, an <a href="sdk-for-ios-navigate-enums-routingerror#/s:7heresdk12RoutingErrorO16invalidParameteryA2CmF"><code>RoutingError.invalidParameter</code></a> error is generated. Moreover, it should be very close to the original route specified with the <a href="sdk-for-ios-navigate-structs-routehandle"><code>RouteHandle</code></a>. Since the new starting point is expected to be along the original route, the original route geometry is used to reach the remaining waypoints. The new route will not include the <a href="sdk-for-ios-navigate-structs-waypoint"><code>Waypoint</code></a> items that lie behind the new starting point (i.e. the path that was already traveled). Plus, <a href="sdk-for-ios-navigate-classes-route#/s:7heresdk5RouteC14lengthInMeterss5Int32Vvp"><code>Route.lengthInMeters</code></a> and <a href="sdk-for-ios-navigate-classes-route#/s:7heresdk5RouteC8durationSdvp"><code>Route.duration</code></a> values are from the new starting point to the destination. If the new waypoint is too far off the original route, the route refresh may fail and an <a href="sdk-for-ios-navigate-enums-routingerror#/s:7heresdk12RoutingErrorO19couldNotMatchOriginyA2CmF"><code>RoutingError.couldNotMatchOrigin</code></a> error is triggered. In that case, an application may decide to calculate a new route from scratch.</p>
+  <p>Updates the starting point of the route. It should be of type <a href="sdk-for-ios-navigate-enums-waypointtype#sdk-for-ios-navigate-s-7heresdk12WaypointTypeO8stopoveryA2CmF"><code>WaypointType.stopover</code></a>. Otherwise, an <a href="sdk-for-ios-navigate-enums-routingerror#sdk-for-ios-navigate-s-7heresdk12RoutingErrorO16invalidParameteryA2CmF"><code>RoutingError.invalidParameter</code></a> error is generated. Moreover, it should be very close to the original route specified with the <a href="sdk-for-ios-navigate-structs-routehandle"><code>RouteHandle</code></a>. Since the new starting point is expected to be along the original route, the original route geometry is used to reach the remaining waypoints. The new route will not include the <a href="sdk-for-ios-navigate-structs-waypoint"><code>Waypoint</code></a> items that lie behind the new starting point (i.e. the path that was already traveled). Plus, <a href="sdk-for-ios-navigate-classes-route#sdk-for-ios-navigate-s-7heresdk5RouteC14lengthInMeterss5Int32Vvp"><code>Route.lengthInMeters</code></a> and <a href="sdk-for-ios-navigate-classes-route#sdk-for-ios-navigate-s-7heresdk5RouteC8durationSdvp"><code>Route.duration</code></a> values are from the new starting point to the destination. If the new waypoint is too far off the original route, the route refresh may fail and an <a href="sdk-for-ios-navigate-enums-routingerror#sdk-for-ios-navigate-s-7heresdk12RoutingErrorO19couldNotMatchOriginyA2CmF"><code>RoutingError.couldNotMatchOrigin</code></a> error is triggered. In that case, an application may decide to calculate a new route from scratch.</p>
   </div></td>
   </tr>
   <tr>
@@ -1723,7 +1838,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
 
 - <div>
 
-      refreshRoute(routeHandle: startingPoint: options: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk13RoutingEngineC12refreshRoute11routeHandle13startingPoint7options10completionAA04TaskG0_pAA0eG0V_AA8WaypointVAA0B7OptionsVyAA0B5ErrorOSg_SayAA0E0CGSgtctF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-refreshRoute-routeHandle-startingPoint-options-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-routingengine#sdk-for-ios-navigate-s-7heresdk13RoutingEngineC12refreshRoute11routeHandle13startingPoint7options10completionAA04TaskG0_pAA0eG0V_AA8WaypointVAA0B7OptionsVyAA0B5ErrorOSg_SayAA0E0CGSgtctF" class="token"><code>refreshRoute(routeHandle:</code><wbr></wbr><code>startingPoint:</code><wbr></wbr><code>options:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1761,12 +1876,20 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
   Swift
 
   ``` highlight
-  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `refresh_route(﹚` methods with RefreshRouteParameters parameter instead.") @discardableResult public func refreshRoute ( routeHandle : RouteHandle , startingPoint : Waypoint , options : RoutingOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `refresh_route(﹚` methods with RefreshRouteParameters parameter instead.")
+  @discardableResult
+  public func refreshRoute(routeHandle: RouteHandle, startingPoint: Waypoint, options: RoutingOptions, completion: @escaping CalculateRouteCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-routehandle">RouteHandle</a>
+  - <a href="sdk-for-ios-navigate-structs-waypoint">Waypoint</a>
+  - <a href="sdk-for-ios-navigate-structs-routingoptions">RoutingOptions</a>
+  - <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk31CalculateRouteCompletionHandlera">CalculateRouteCompletionHandler</a>
+  - <a href="sdk-for-ios-navigate-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -1789,7 +1912,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
   <tr>
   <td><code> </code><em><code>startingPoint</code></em><code> </code></td>
   <td><div>
-  <p>Updates the starting point of the route. It should be of type <a href="sdk-for-ios-navigate-enums-waypointtype#/s:7heresdk12WaypointTypeO8stopoveryA2CmF"><code>WaypointType.stopover</code></a>. Otherwise, an <a href="sdk-for-ios-navigate-enums-routingerror#/s:7heresdk12RoutingErrorO16invalidParameteryA2CmF"><code>RoutingError.invalidParameter</code></a> error is generated. Moreover, it should be very close to the original route specified with the <a href="sdk-for-ios-navigate-structs-routehandle"><code>RouteHandle</code></a>. Since the new starting point is expected to be along the original route, the original route geometry is used to reach the remaining waypoints. The new route will not include the <a href="sdk-for-ios-navigate-structs-waypoint"><code>Waypoint</code></a> items that lie behind the new starting point (i.e. the path that was already traveled). Plus, <a href="sdk-for-ios-navigate-classes-route#/s:7heresdk5RouteC14lengthInMeterss5Int32Vvp"><code>Route.lengthInMeters</code></a> and <a href="sdk-for-ios-navigate-classes-route#/s:7heresdk5RouteC8durationSdvp"><code>Route.duration</code></a> values are from the new starting point to the destination. If the new waypoint is too far off the original route, the route refresh may fail and an <a href="sdk-for-ios-navigate-enums-routingerror#/s:7heresdk12RoutingErrorO19couldNotMatchOriginyA2CmF"><code>RoutingError.couldNotMatchOrigin</code></a> error is triggered. In that case, an application may decide to calculate a new route from scratch.</p>
+  <p>Updates the starting point of the route. It should be of type <a href="sdk-for-ios-navigate-enums-waypointtype#sdk-for-ios-navigate-s-7heresdk12WaypointTypeO8stopoveryA2CmF"><code>WaypointType.stopover</code></a>. Otherwise, an <a href="sdk-for-ios-navigate-enums-routingerror#sdk-for-ios-navigate-s-7heresdk12RoutingErrorO16invalidParameteryA2CmF"><code>RoutingError.invalidParameter</code></a> error is generated. Moreover, it should be very close to the original route specified with the <a href="sdk-for-ios-navigate-structs-routehandle"><code>RouteHandle</code></a>. Since the new starting point is expected to be along the original route, the original route geometry is used to reach the remaining waypoints. The new route will not include the <a href="sdk-for-ios-navigate-structs-waypoint"><code>Waypoint</code></a> items that lie behind the new starting point (i.e. the path that was already traveled). Plus, <a href="sdk-for-ios-navigate-classes-route#sdk-for-ios-navigate-s-7heresdk5RouteC14lengthInMeterss5Int32Vvp"><code>Route.lengthInMeters</code></a> and <a href="sdk-for-ios-navigate-classes-route#sdk-for-ios-navigate-s-7heresdk5RouteC8durationSdvp"><code>Route.duration</code></a> values are from the new starting point to the destination. If the new waypoint is too far off the original route, the route refresh may fail and an <a href="sdk-for-ios-navigate-enums-routingerror#sdk-for-ios-navigate-s-7heresdk12RoutingErrorO19couldNotMatchOriginyA2CmF"><code>RoutingError.couldNotMatchOrigin</code></a> error is triggered. In that case, an application may decide to calculate a new route from scratch.</p>
   </div></td>
   </tr>
   <tr>
@@ -1823,7 +1946,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
 
 - <div>
 
-      refreshRoute(refreshRouteParameters: routingOptions: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk13RoutingEngineC12refreshRoute0dE10Parameters14routingOptions10completionAA10TaskHandle_pAA07RefresheF0V_AA0bH0VyAA0B5ErrorOSg_SayAA0E0CGSgtctF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-refreshRoute-refreshRouteParameters-routingOptions-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-routingengine#sdk-for-ios-navigate-s-7heresdk13RoutingEngineC12refreshRoute0dE10Parameters14routingOptions10completionAA10TaskHandle_pAA07RefresheF0V_AA0bH0VyAA0B5ErrorOSg_SayAA0E0CGSgtctF" class="token"><code>refreshRoute(refreshRouteParameters:</code><wbr></wbr><code>routingOptions:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1854,12 +1977,18 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
   Swift
 
   ``` highlight
-  @discardableResult public func refreshRoute ( refreshRouteParameters : RefreshRouteParameters , routingOptions : RoutingOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  @discardableResult
+  public func refreshRoute(refreshRouteParameters: RefreshRouteParameters, routingOptions: RoutingOptions, completion: @escaping CalculateRouteCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-refreshrouteparameters">RefreshRouteParameters</a>
+  - <a href="sdk-for-ios-navigate-structs-routingoptions">RoutingOptions</a>
+  - <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk31CalculateRouteCompletionHandlera">CalculateRouteCompletionHandler</a>
+  - <a href="sdk-for-ios-navigate-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -1910,7 +2039,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
 
 - <div>
 
-      importRoute(routeHandle: refreshRouteOptions: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk13RoutingEngineC11importRoute11routeHandle07refreshE7Options10completionAA04TaskG0_pAA0eG0V_AA07RefresheI0CyAA0B5ErrorOSg_SayAA0E0CGSgtctF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-importRoute-routeHandle-refreshRouteOptions-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-routingengine#sdk-for-ios-navigate-s-7heresdk13RoutingEngineC11importRoute11routeHandle07refreshE7Options10completionAA04TaskG0_pAA0eG0V_AA07RefresheI0CyAA0B5ErrorOSg_SayAA0E0CGSgtctF" class="token"><code>importRoute(routeHandle:</code><wbr></wbr><code>refreshRouteOptions:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1943,12 +2072,19 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
   Swift
 
   ``` highlight
-  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `import_route(﹚` methods with RoutingOptions parameter instead.") @discardableResult public func importRoute ( routeHandle : RouteHandle , refreshRouteOptions : RefreshRouteOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `import_route(﹚` methods with RoutingOptions parameter instead.")
+  @discardableResult
+  public func importRoute(routeHandle: RouteHandle, refreshRouteOptions: RefreshRouteOptions, completion: @escaping CalculateRouteCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-routehandle">RouteHandle</a>
+  - <a href="sdk-for-ios-navigate-classes-refreshrouteoptions">RefreshRouteOptions</a>
+  - <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk31CalculateRouteCompletionHandlera">CalculateRouteCompletionHandler</a>
+  - <a href="sdk-for-ios-navigate-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -1999,7 +2135,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
 
 - <div>
 
-      importRoute(with: carOptions: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk13RoutingEngineC11importRoute4with10carOptions10completionAA10TaskHandle_pSayAA8LocationVG_AA03CarH0VyAA0B5ErrorOSg_SayAA0E0CGSgtctF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-importRoute-with-carOptions-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-routingengine#sdk-for-ios-navigate-s-7heresdk13RoutingEngineC11importRoute4with10carOptions10completionAA10TaskHandle_pSayAA8LocationVG_AA03CarH0VyAA0B5ErrorOSg_SayAA0E0CGSgtctF" class="token"><code>importRoute(with:</code><wbr></wbr><code>carOptions:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -2019,7 +2155,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
 
   Asynchronously creates a car route from a sequence of geographic coordinates very close to each other. The route shape will be kept as close as possible to the one provided. For best results please use 1Hz GPS data, or geographic coordinates that have a spacing of a few meters one from the other. For example, such a list of geographic coordinates can be extracted from a GPX trace or a route object from a 3rd party library. Very sparse data may be rejected by the service with an error.
 
-  **Note:** Any restrictions applied to a transport type or provided options will be discarded and reported as violations in <a href="sdk-for-ios-navigate-classes-section#/s:7heresdk7SectionC14sectionNoticesSayAA0B6NoticeVGvp">`Section.sectionNotices`</a> .
+  **Note:** Any restrictions applied to a transport type or provided options will be discarded and reported as violations in <a href="sdk-for-ios-navigate-classes-section#sdk-for-ios-navigate-s-7heresdk7SectionC14sectionNoticesSayAA0B6NoticeVGvp">`Section.sectionNotices`</a> .
 
   </div>
 
@@ -2032,12 +2168,19 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
   Swift
 
   ``` highlight
-  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `import_route(﹚` methods with RoutingOptions parameter instead.") @discardableResult public func importRoute ( with locations : [ Location ], carOptions : CarOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `import_route(﹚` methods with RoutingOptions parameter instead.")
+  @discardableResult
+  public func importRoute(with locations: [Location], carOptions: CarOptions, completion: @escaping CalculateRouteCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-location">Location</a>
+  - <a href="sdk-for-ios-navigate-structs-caroptions">CarOptions</a>
+  - <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk31CalculateRouteCompletionHandlera">CalculateRouteCompletionHandler</a>
+  - <a href="sdk-for-ios-navigate-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -2054,7 +2197,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
   <tr>
   <td><code> </code><em><code>locations</code></em><code> </code></td>
   <td><div>
-  <p>The list of locations used to calculate the route. Note that only the <a href="sdk-for-ios-navigate-structs-location#/s:7heresdk8LocationV11coordinatesAA14GeoCoordinatesVvp"><code>Location.coordinates</code></a> of a location are used to import the route.</p>
+  <p>The list of locations used to calculate the route. Note that only the <a href="sdk-for-ios-navigate-structs-location#sdk-for-ios-navigate-s-7heresdk8LocationV11coordinatesAA14GeoCoordinatesVvp"><code>Location.coordinates</code></a> of a location are used to import the route.</p>
   </div></td>
   </tr>
   <tr>
@@ -2088,7 +2231,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
 
 - <div>
 
-      importRoute(with: routeStops: pedestrianOptions: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk13RoutingEngineC11importRoute4with10routeStops17pedestrianOptions10completionAA10TaskHandle_pSayAA8LocationVG_SayAA0E4StopVGAA010PedestrianJ0VyAA0B5ErrorOSg_SayAA0E0CGSgtctF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-importRoute-with-routeStops-pedestrianOptions-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-routingengine#sdk-for-ios-navigate-s-7heresdk13RoutingEngineC11importRoute4with10routeStops17pedestrianOptions10completionAA10TaskHandle_pSayAA8LocationVG_SayAA0E4StopVGAA010PedestrianJ0VyAA0B5ErrorOSg_SayAA0E0CGSgtctF" class="token"><code>importRoute(with:</code><wbr></wbr><code>routeStops:</code><wbr></wbr><code>pedestrianOptions:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -2108,7 +2251,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
 
   Asynchronously creates a pedestrian route from a sequence of geographic coordinates very close to each other. The route shape will be kept as close as possible to the one provided. For best results please use 1Hz GPS data, or geographic coordinates that have a spacing of a few meters one from the other. For example, such a list of geographic coordinates can be extracted from a GPX trace or a route object from a 3rd party library. Very sparse data may be rejected by the service with an error.
 
-  **Note:** Any restrictions applied to a transport type or provided options will be discarded and reported as violations in <a href="sdk-for-ios-navigate-classes-section#/s:7heresdk7SectionC14sectionNoticesSayAA0B6NoticeVGvp">`Section.sectionNotices`</a> .
+  **Note:** Any restrictions applied to a transport type or provided options will be discarded and reported as violations in <a href="sdk-for-ios-navigate-classes-section#sdk-for-ios-navigate-s-7heresdk7SectionC14sectionNoticesSayAA0B6NoticeVGvp">`Section.sectionNotices`</a> .
 
   </div>
 
@@ -2121,12 +2264,20 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
   Swift
 
   ``` highlight
-  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `import_route(﹚` methods with RoutingOptions parameter instead.") @discardableResult public func importRoute ( with locations : [ Location ], routeStops : [ RouteStop ], pedestrianOptions : PedestrianOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `import_route(﹚` methods with RoutingOptions parameter instead.")
+  @discardableResult
+  public func importRoute(with locations: [Location], routeStops: [RouteStop], pedestrianOptions: PedestrianOptions, completion: @escaping CalculateRouteCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-location">Location</a>
+  - <a href="sdk-for-ios-navigate-structs-routestop">RouteStop</a>
+  - <a href="sdk-for-ios-navigate-structs-pedestrianoptions">PedestrianOptions</a>
+  - <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk31CalculateRouteCompletionHandlera">CalculateRouteCompletionHandler</a>
+  - <a href="sdk-for-ios-navigate-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -2143,7 +2294,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
   <tr>
   <td><code> </code><em><code>locations</code></em><code> </code></td>
   <td><div>
-  <p>The list of locations used to calculate the route. Note that only the <a href="sdk-for-ios-navigate-structs-location#/s:7heresdk8LocationV11coordinatesAA14GeoCoordinatesVvp"><code>Location.coordinates</code></a> of a location are used to import the route.</p>
+  <p>The list of locations used to calculate the route. Note that only the <a href="sdk-for-ios-navigate-structs-location#sdk-for-ios-navigate-s-7heresdk8LocationV11coordinatesAA14GeoCoordinatesVvp"><code>Location.coordinates</code></a> of a location are used to import the route.</p>
   </div></td>
   </tr>
   <tr>
@@ -2155,7 +2306,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
   <tr>
   <td><code> </code><em><code>pedestrianOptions</code></em><code> </code></td>
   <td><div>
-  <p>Options specific for pedestrian route calculation, along with common route options. Note that <a href="sdk-for-ios-navigate-enums-optimizationmode#/s:7heresdk16OptimizationModeO8shortestyA2CmF"><code>OptimizationMode.shortest</code></a> is not supported for pedestrians and converted to <a href="sdk-for-ios-navigate-enums-optimizationmode#/s:7heresdk16OptimizationModeO7fastestyA2CmF"><code>OptimizationMode.fastest</code></a> automatically.</p>
+  <p>Options specific for pedestrian route calculation, along with common route options. Note that <a href="sdk-for-ios-navigate-enums-optimizationmode#sdk-for-ios-navigate-s-7heresdk16OptimizationModeO8shortestyA2CmF"><code>OptimizationMode.shortest</code></a> is not supported for pedestrians and converted to <a href="sdk-for-ios-navigate-enums-optimizationmode#sdk-for-ios-navigate-s-7heresdk16OptimizationModeO7fastestyA2CmF"><code>OptimizationMode.fastest</code></a> automatically.</p>
   </div></td>
   </tr>
   <tr>
@@ -2183,7 +2334,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
 
 - <div>
 
-      importRoute(with: routeStops: bicycleOptions: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk13RoutingEngineC11importRoute4with10routeStops14bicycleOptions10completionAA10TaskHandle_pSayAA8LocationVG_SayAA0E4StopVGAA07BicycleJ0VyAA0B5ErrorOSg_SayAA0E0CGSgtctF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-importRoute-with-routeStops-bicycleOptions-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-routingengine#sdk-for-ios-navigate-s-7heresdk13RoutingEngineC11importRoute4with10routeStops14bicycleOptions10completionAA10TaskHandle_pSayAA8LocationVG_SayAA0E4StopVGAA07BicycleJ0VyAA0B5ErrorOSg_SayAA0E0CGSgtctF" class="token"><code>importRoute(with:</code><wbr></wbr><code>routeStops:</code><wbr></wbr><code>bicycleOptions:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -2203,7 +2354,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
 
   Asynchronously creates a bicycle route from a sequence of geographic coordinates very close to each other. The route shape will be kept as close as possible to the one provided. For best results please use 1Hz GPS data, or geographic coordinates that have a spacing of a few meters one from the other. For example, such a list of geographic coordinates can be extracted from a GPX trace or a route object from a 3rd party library. Very sparse data may be rejected by the service with an error.
 
-  **Note:** Any restrictions applied to a transport type or provided options will be discarded and reported as violations in <a href="sdk-for-ios-navigate-classes-section#/s:7heresdk7SectionC14sectionNoticesSayAA0B6NoticeVGvp">`Section.sectionNotices`</a> .
+  **Note:** Any restrictions applied to a transport type or provided options will be discarded and reported as violations in <a href="sdk-for-ios-navigate-classes-section#sdk-for-ios-navigate-s-7heresdk7SectionC14sectionNoticesSayAA0B6NoticeVGvp">`Section.sectionNotices`</a> .
 
   </div>
 
@@ -2216,12 +2367,20 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
   Swift
 
   ``` highlight
-  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `import_route(﹚` methods with RoutingOptions parameter instead.") @discardableResult public func importRoute ( with locations : [ Location ], routeStops : [ RouteStop ], bicycleOptions : BicycleOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `import_route(﹚` methods with RoutingOptions parameter instead.")
+  @discardableResult
+  public func importRoute(with locations: [Location], routeStops: [RouteStop], bicycleOptions: BicycleOptions, completion: @escaping CalculateRouteCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-location">Location</a>
+  - <a href="sdk-for-ios-navigate-structs-routestop">RouteStop</a>
+  - <a href="sdk-for-ios-navigate-structs-bicycleoptions">BicycleOptions</a>
+  - <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk31CalculateRouteCompletionHandlera">CalculateRouteCompletionHandler</a>
+  - <a href="sdk-for-ios-navigate-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -2238,7 +2397,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
   <tr>
   <td><code> </code><em><code>locations</code></em><code> </code></td>
   <td><div>
-  <p>The list of locations used to calculate the route. Note that only the <a href="sdk-for-ios-navigate-structs-location#/s:7heresdk8LocationV11coordinatesAA14GeoCoordinatesVvp"><code>Location.coordinates</code></a> of a location are used to import the route.</p>
+  <p>The list of locations used to calculate the route. Note that only the <a href="sdk-for-ios-navigate-structs-location#sdk-for-ios-navigate-s-7heresdk8LocationV11coordinatesAA14GeoCoordinatesVvp"><code>Location.coordinates</code></a> of a location are used to import the route.</p>
   </div></td>
   </tr>
   <tr>
@@ -2278,7 +2437,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
 
 - <div>
 
-      importRoute(with: routeStops: scooterOptions: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk13RoutingEngineC11importRoute4with10routeStops14scooterOptions10completionAA10TaskHandle_pSayAA8LocationVG_SayAA0E4StopVGAA07ScooterJ0VyAA0B5ErrorOSg_SayAA0E0CGSgtctF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-importRoute-with-routeStops-scooterOptions-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-routingengine#sdk-for-ios-navigate-s-7heresdk13RoutingEngineC11importRoute4with10routeStops14scooterOptions10completionAA10TaskHandle_pSayAA8LocationVG_SayAA0E4StopVGAA07ScooterJ0VyAA0B5ErrorOSg_SayAA0E0CGSgtctF" class="token"><code>importRoute(with:</code><wbr></wbr><code>routeStops:</code><wbr></wbr><code>scooterOptions:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -2298,7 +2457,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
 
   Asynchronously creates a scooter route from a sequence of geographic coordinates very close to each other. The route shape will be kept as close as possible to the one provided. For best results please use 1Hz GPS data, or geographic coordinates that have a spacing of a few meters one from the other. For example, such a list of geographic coordinates can be extracted from a GPX trace or a route object from a 3rd party library. Very sparse data may be rejected by the service with an error.
 
-  **Note:** Any restrictions applied to a transport type or provided options will be discarded and reported as violations in <a href="sdk-for-ios-navigate-classes-section#/s:7heresdk7SectionC14sectionNoticesSayAA0B6NoticeVGvp">`Section.sectionNotices`</a> .
+  **Note:** Any restrictions applied to a transport type or provided options will be discarded and reported as violations in <a href="sdk-for-ios-navigate-classes-section#sdk-for-ios-navigate-s-7heresdk7SectionC14sectionNoticesSayAA0B6NoticeVGvp">`Section.sectionNotices`</a> .
 
   </div>
 
@@ -2311,12 +2470,20 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
   Swift
 
   ``` highlight
-  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `import_route(﹚` methods with RoutingOptions parameter instead.") @discardableResult public func importRoute ( with locations : [ Location ], routeStops : [ RouteStop ], scooterOptions : ScooterOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `import_route(﹚` methods with RoutingOptions parameter instead.")
+  @discardableResult
+  public func importRoute(with locations: [Location], routeStops: [RouteStop], scooterOptions: ScooterOptions, completion: @escaping CalculateRouteCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-location">Location</a>
+  - <a href="sdk-for-ios-navigate-structs-routestop">RouteStop</a>
+  - <a href="sdk-for-ios-navigate-structs-scooteroptions">ScooterOptions</a>
+  - <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk31CalculateRouteCompletionHandlera">CalculateRouteCompletionHandler</a>
+  - <a href="sdk-for-ios-navigate-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -2333,7 +2500,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
   <tr>
   <td><code> </code><em><code>locations</code></em><code> </code></td>
   <td><div>
-  <p>The list of locations used to calculate the route. Note that only the <a href="sdk-for-ios-navigate-structs-location#/s:7heresdk8LocationV11coordinatesAA14GeoCoordinatesVvp"><code>Location.coordinates</code></a> of a location are used to import the route.</p>
+  <p>The list of locations used to calculate the route. Note that only the <a href="sdk-for-ios-navigate-structs-location#sdk-for-ios-navigate-s-7heresdk8LocationV11coordinatesAA14GeoCoordinatesVvp"><code>Location.coordinates</code></a> of a location are used to import the route.</p>
   </div></td>
   </tr>
   <tr>
@@ -2345,7 +2512,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
   <tr>
   <td><code> </code><em><code>scooterOptions</code></em><code> </code></td>
   <td><div>
-  <p>Options specific for scooter route calculation, along with common route options. Note that <a href="sdk-for-ios-navigate-enums-optimizationmode#/s:7heresdk16OptimizationModeO8shortestyA2CmF"><code>OptimizationMode.shortest</code></a> is not supported for scooters and converted to <a href="sdk-for-ios-navigate-enums-optimizationmode#/s:7heresdk16OptimizationModeO7fastestyA2CmF"><code>OptimizationMode.fastest</code></a> automatically.</p>
+  <p>Options specific for scooter route calculation, along with common route options. Note that <a href="sdk-for-ios-navigate-enums-optimizationmode#sdk-for-ios-navigate-s-7heresdk16OptimizationModeO8shortestyA2CmF"><code>OptimizationMode.shortest</code></a> is not supported for scooters and converted to <a href="sdk-for-ios-navigate-enums-optimizationmode#sdk-for-ios-navigate-s-7heresdk16OptimizationModeO7fastestyA2CmF"><code>OptimizationMode.fastest</code></a> automatically.</p>
   </div></td>
   </tr>
   <tr>
@@ -2373,7 +2540,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
 
 - <div>
 
-      importRoute(with: pedestrianOptions: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk13RoutingEngineC11importRoute4with17pedestrianOptions10completionAA10TaskHandle_pSayAA8LocationVG_AA010PedestrianH0VyAA0B5ErrorOSg_SayAA0E0CGSgtctF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-importRoute-with-pedestrianOptions-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-routingengine#sdk-for-ios-navigate-s-7heresdk13RoutingEngineC11importRoute4with17pedestrianOptions10completionAA10TaskHandle_pSayAA8LocationVG_AA010PedestrianH0VyAA0B5ErrorOSg_SayAA0E0CGSgtctF" class="token"><code>importRoute(with:</code><wbr></wbr><code>pedestrianOptions:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -2393,7 +2560,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
 
   Asynchronously creates a pedestrian route from a sequence of geographic coordinates very close to each other. The route shape will be kept as close as possible to the one provided. For best results please use 1Hz GPS data, or geographic coordinates that have a spacing of a few meters one from the other. For example, such a list of geographic coordinates can be extracted from a GPX trace or a route object from a 3rd party library. Very sparse data may be rejected by the service with an error.
 
-  **Note:** Any restrictions applied to a transport type or provided options will be discarded and reported as violations in <a href="sdk-for-ios-navigate-classes-section#/s:7heresdk7SectionC14sectionNoticesSayAA0B6NoticeVGvp">`Section.sectionNotices`</a> .
+  **Note:** Any restrictions applied to a transport type or provided options will be discarded and reported as violations in <a href="sdk-for-ios-navigate-classes-section#sdk-for-ios-navigate-s-7heresdk7SectionC14sectionNoticesSayAA0B6NoticeVGvp">`Section.sectionNotices`</a> .
 
   </div>
 
@@ -2406,12 +2573,19 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
   Swift
 
   ``` highlight
-  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `import_route(﹚` methods with RoutingOptions parameter instead.") @discardableResult public func importRoute ( with locations : [ Location ], pedestrianOptions : PedestrianOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `import_route(﹚` methods with RoutingOptions parameter instead.")
+  @discardableResult
+  public func importRoute(with locations: [Location], pedestrianOptions: PedestrianOptions, completion: @escaping CalculateRouteCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-location">Location</a>
+  - <a href="sdk-for-ios-navigate-structs-pedestrianoptions">PedestrianOptions</a>
+  - <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk31CalculateRouteCompletionHandlera">CalculateRouteCompletionHandler</a>
+  - <a href="sdk-for-ios-navigate-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -2428,13 +2602,13 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
   <tr>
   <td><code> </code><em><code>locations</code></em><code> </code></td>
   <td><div>
-  <p>The list of locations used to calculate the route. Note that only the <a href="sdk-for-ios-navigate-structs-location#/s:7heresdk8LocationV11coordinatesAA14GeoCoordinatesVvp"><code>Location.coordinates</code></a> of a location are used to import the route.</p>
+  <p>The list of locations used to calculate the route. Note that only the <a href="sdk-for-ios-navigate-structs-location#sdk-for-ios-navigate-s-7heresdk8LocationV11coordinatesAA14GeoCoordinatesVvp"><code>Location.coordinates</code></a> of a location are used to import the route.</p>
   </div></td>
   </tr>
   <tr>
   <td><code> </code><em><code>pedestrianOptions</code></em><code> </code></td>
   <td><div>
-  <p>Options specific for pedestrian route calculation, along with common route options. Note that <a href="sdk-for-ios-navigate-enums-optimizationmode#/s:7heresdk16OptimizationModeO8shortestyA2CmF"><code>OptimizationMode.shortest</code></a> is not supported for pedestrians and converted to <a href="sdk-for-ios-navigate-enums-optimizationmode#/s:7heresdk16OptimizationModeO7fastestyA2CmF"><code>OptimizationMode.fastest</code></a> automatically.</p>
+  <p>Options specific for pedestrian route calculation, along with common route options. Note that <a href="sdk-for-ios-navigate-enums-optimizationmode#sdk-for-ios-navigate-s-7heresdk16OptimizationModeO8shortestyA2CmF"><code>OptimizationMode.shortest</code></a> is not supported for pedestrians and converted to <a href="sdk-for-ios-navigate-enums-optimizationmode#sdk-for-ios-navigate-s-7heresdk16OptimizationModeO7fastestyA2CmF"><code>OptimizationMode.fastest</code></a> automatically.</p>
   </div></td>
   </tr>
   <tr>
@@ -2462,7 +2636,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
 
 - <div>
 
-      importRoute(with: bicycleOptions: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk13RoutingEngineC11importRoute4with14bicycleOptions10completionAA10TaskHandle_pSayAA8LocationVG_AA07BicycleH0VyAA0B5ErrorOSg_SayAA0E0CGSgtctF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-importRoute-with-bicycleOptions-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-routingengine#sdk-for-ios-navigate-s-7heresdk13RoutingEngineC11importRoute4with14bicycleOptions10completionAA10TaskHandle_pSayAA8LocationVG_AA07BicycleH0VyAA0B5ErrorOSg_SayAA0E0CGSgtctF" class="token"><code>importRoute(with:</code><wbr></wbr><code>bicycleOptions:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -2482,7 +2656,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
 
   Asynchronously creates a bicycle route from a sequence of geographic coordinates very close to each other. The route shape will be kept as close as possible to the one provided. For best results please use 1Hz GPS data, or geographic coordinates that have a spacing of a few meters one from the other. For example, such a list of geographic coordinates can be extracted from a GPX trace or a route object from a 3rd party library. Very sparse data may be rejected by the service with an error.
 
-  **Note:** Any restrictions applied to a transport type or provided options will be discarded and reported as violations in <a href="sdk-for-ios-navigate-classes-section#/s:7heresdk7SectionC14sectionNoticesSayAA0B6NoticeVGvp">`Section.sectionNotices`</a> .
+  **Note:** Any restrictions applied to a transport type or provided options will be discarded and reported as violations in <a href="sdk-for-ios-navigate-classes-section#sdk-for-ios-navigate-s-7heresdk7SectionC14sectionNoticesSayAA0B6NoticeVGvp">`Section.sectionNotices`</a> .
 
   </div>
 
@@ -2495,12 +2669,19 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
   Swift
 
   ``` highlight
-  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `import_route(﹚` methods with RoutingOptions parameter instead.") @discardableResult public func importRoute ( with locations : [ Location ], bicycleOptions : BicycleOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `import_route(﹚` methods with RoutingOptions parameter instead.")
+  @discardableResult
+  public func importRoute(with locations: [Location], bicycleOptions: BicycleOptions, completion: @escaping CalculateRouteCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-location">Location</a>
+  - <a href="sdk-for-ios-navigate-structs-bicycleoptions">BicycleOptions</a>
+  - <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk31CalculateRouteCompletionHandlera">CalculateRouteCompletionHandler</a>
+  - <a href="sdk-for-ios-navigate-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -2517,7 +2698,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
   <tr>
   <td><code> </code><em><code>locations</code></em><code> </code></td>
   <td><div>
-  <p>The list of locations used to calculate the route. Note that only the <a href="sdk-for-ios-navigate-structs-location#/s:7heresdk8LocationV11coordinatesAA14GeoCoordinatesVvp"><code>Location.coordinates</code></a> of a location are used to import the route.</p>
+  <p>The list of locations used to calculate the route. Note that only the <a href="sdk-for-ios-navigate-structs-location#sdk-for-ios-navigate-s-7heresdk8LocationV11coordinatesAA14GeoCoordinatesVvp"><code>Location.coordinates</code></a> of a location are used to import the route.</p>
   </div></td>
   </tr>
   <tr>
@@ -2551,7 +2732,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
 
 - <div>
 
-      importRoute(with: scooterOptions: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk13RoutingEngineC11importRoute4with14scooterOptions10completionAA10TaskHandle_pSayAA8LocationVG_AA07ScooterH0VyAA0B5ErrorOSg_SayAA0E0CGSgtctF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-importRoute-with-scooterOptions-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-routingengine#sdk-for-ios-navigate-s-7heresdk13RoutingEngineC11importRoute4with14scooterOptions10completionAA10TaskHandle_pSayAA8LocationVG_AA07ScooterH0VyAA0B5ErrorOSg_SayAA0E0CGSgtctF" class="token"><code>importRoute(with:</code><wbr></wbr><code>scooterOptions:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -2571,7 +2752,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
 
   Asynchronously creates a scooter route from a sequence of geographic coordinates very close to each other. The route shape will be kept as close as possible to the one provided. For best results please use 1Hz GPS data, or geographic coordinates that have a spacing of a few meters one from the other. For example, such a list of geographic coordinates can be extracted from a GPX trace or a route object from a 3rd party library. Very sparse data may be rejected by the service with an error.
 
-  **Note:** Any restrictions applied to a transport type or provided options will be discarded and reported as violations in <a href="sdk-for-ios-navigate-classes-section#/s:7heresdk7SectionC14sectionNoticesSayAA0B6NoticeVGvp">`Section.sectionNotices`</a> .
+  **Note:** Any restrictions applied to a transport type or provided options will be discarded and reported as violations in <a href="sdk-for-ios-navigate-classes-section#sdk-for-ios-navigate-s-7heresdk7SectionC14sectionNoticesSayAA0B6NoticeVGvp">`Section.sectionNotices`</a> .
 
   </div>
 
@@ -2584,12 +2765,19 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
   Swift
 
   ``` highlight
-  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `import_route(﹚` methods with RoutingOptions parameter instead.") @discardableResult public func importRoute ( with locations : [ Location ], scooterOptions : ScooterOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `import_route(﹚` methods with RoutingOptions parameter instead.")
+  @discardableResult
+  public func importRoute(with locations: [Location], scooterOptions: ScooterOptions, completion: @escaping CalculateRouteCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-location">Location</a>
+  - <a href="sdk-for-ios-navigate-structs-scooteroptions">ScooterOptions</a>
+  - <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk31CalculateRouteCompletionHandlera">CalculateRouteCompletionHandler</a>
+  - <a href="sdk-for-ios-navigate-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -2606,13 +2794,13 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
   <tr>
   <td><code> </code><em><code>locations</code></em><code> </code></td>
   <td><div>
-  <p>The list of locations used to calculate the route. Note that only the <a href="sdk-for-ios-navigate-structs-location#/s:7heresdk8LocationV11coordinatesAA14GeoCoordinatesVvp"><code>Location.coordinates</code></a> of a location are used to import the route.</p>
+  <p>The list of locations used to calculate the route. Note that only the <a href="sdk-for-ios-navigate-structs-location#sdk-for-ios-navigate-s-7heresdk8LocationV11coordinatesAA14GeoCoordinatesVvp"><code>Location.coordinates</code></a> of a location are used to import the route.</p>
   </div></td>
   </tr>
   <tr>
   <td><code> </code><em><code>scooterOptions</code></em><code> </code></td>
   <td><div>
-  <p>Options specific for scooter route calculation, along with common route options. Note that <a href="sdk-for-ios-navigate-enums-optimizationmode#/s:7heresdk16OptimizationModeO8shortestyA2CmF"><code>OptimizationMode.shortest</code></a> is not supported for scooters and converted to <a href="sdk-for-ios-navigate-enums-optimizationmode#/s:7heresdk16OptimizationModeO7fastestyA2CmF"><code>OptimizationMode.fastest</code></a> automatically.</p>
+  <p>Options specific for scooter route calculation, along with common route options. Note that <a href="sdk-for-ios-navigate-enums-optimizationmode#sdk-for-ios-navigate-s-7heresdk16OptimizationModeO8shortestyA2CmF"><code>OptimizationMode.shortest</code></a> is not supported for scooters and converted to <a href="sdk-for-ios-navigate-enums-optimizationmode#sdk-for-ios-navigate-s-7heresdk16OptimizationModeO7fastestyA2CmF"><code>OptimizationMode.fastest</code></a> automatically.</p>
   </div></td>
   </tr>
   <tr>
@@ -2640,7 +2828,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
 
 - <div>
 
-      importRoute(with: truckOptions: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk13RoutingEngineC11importRoute4with12truckOptions10completionAA10TaskHandle_pSayAA8LocationVG_AA05TruckH0VyAA0B5ErrorOSg_SayAA0E0CGSgtctF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-importRoute-with-truckOptions-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-routingengine#sdk-for-ios-navigate-s-7heresdk13RoutingEngineC11importRoute4with12truckOptions10completionAA10TaskHandle_pSayAA8LocationVG_AA05TruckH0VyAA0B5ErrorOSg_SayAA0E0CGSgtctF" class="token"><code>importRoute(with:</code><wbr></wbr><code>truckOptions:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -2660,7 +2848,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
 
   Asynchronously creates a truck route from a sequence of geographic coordinates very close to each other. The route shape will be kept as close as possible to the one provided. For best results please use 1Hz GPS data, or geographic coordinates that have a spacing of a few meters one from the other. For example, such a list of geographic coordinates can be extracted from a GPX trace or a route object from a 3rd party library. Very sparse data may be rejected by the service with an error.
 
-  **Note:** Any restrictions applied to a transport type or provided options will be discarded and reported as violations in <a href="sdk-for-ios-navigate-classes-section#/s:7heresdk7SectionC14sectionNoticesSayAA0B6NoticeVGvp">`Section.sectionNotices`</a> .
+  **Note:** Any restrictions applied to a transport type or provided options will be discarded and reported as violations in <a href="sdk-for-ios-navigate-classes-section#sdk-for-ios-navigate-s-7heresdk7SectionC14sectionNoticesSayAA0B6NoticeVGvp">`Section.sectionNotices`</a> .
 
   </div>
 
@@ -2673,12 +2861,19 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
   Swift
 
   ``` highlight
-  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `import_route(﹚` methods with RoutingOptions parameter instead.") @discardableResult public func importRoute ( with locations : [ Location ], truckOptions : TruckOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `import_route(﹚` methods with RoutingOptions parameter instead.")
+  @discardableResult
+  public func importRoute(with locations: [Location], truckOptions: TruckOptions, completion: @escaping CalculateRouteCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-location">Location</a>
+  - <a href="sdk-for-ios-navigate-structs-truckoptions">TruckOptions</a>
+  - <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk31CalculateRouteCompletionHandlera">CalculateRouteCompletionHandler</a>
+  - <a href="sdk-for-ios-navigate-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -2695,7 +2890,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
   <tr>
   <td><code> </code><em><code>locations</code></em><code> </code></td>
   <td><div>
-  <p>The list of locations used to calculate the route. Note that only the <a href="sdk-for-ios-navigate-structs-location#/s:7heresdk8LocationV11coordinatesAA14GeoCoordinatesVvp"><code>Location.coordinates</code></a> of a location are used to import the route.</p>
+  <p>The list of locations used to calculate the route. Note that only the <a href="sdk-for-ios-navigate-structs-location#sdk-for-ios-navigate-s-7heresdk8LocationV11coordinatesAA14GeoCoordinatesVvp"><code>Location.coordinates</code></a> of a location are used to import the route.</p>
   </div></td>
   </tr>
   <tr>
@@ -2729,7 +2924,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
 
 - <div>
 
-      importRoute(with: taxiOptions: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk13RoutingEngineC11importRoute4with11taxiOptions10completionAA10TaskHandle_pSayAA8LocationVG_AA04TaxiH0VyAA0B5ErrorOSg_SayAA0E0CGSgtctF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-importRoute-with-taxiOptions-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-routingengine#sdk-for-ios-navigate-s-7heresdk13RoutingEngineC11importRoute4with11taxiOptions10completionAA10TaskHandle_pSayAA8LocationVG_AA04TaxiH0VyAA0B5ErrorOSg_SayAA0E0CGSgtctF" class="token"><code>importRoute(with:</code><wbr></wbr><code>taxiOptions:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -2749,7 +2944,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
 
   Asynchronously creates a taxi route from a sequence of geographic coordinates very close to each other. The route shape will be kept as close as possible to the one provided. For best results please use 1Hz GPS data, or geographic coordinates that have a spacing of a few meters one from the other. For example, such a list of geographic coordinates can be extracted from a GPX trace or a route object from a 3rd party library. Very sparse data may be rejected by the service with an error.
 
-  **Note:** Any restrictions applied to a transport type or provided options will be discarded and reported as violations in <a href="sdk-for-ios-navigate-classes-section#/s:7heresdk7SectionC14sectionNoticesSayAA0B6NoticeVGvp">`Section.sectionNotices`</a> .
+  **Note:** Any restrictions applied to a transport type or provided options will be discarded and reported as violations in <a href="sdk-for-ios-navigate-classes-section#sdk-for-ios-navigate-s-7heresdk7SectionC14sectionNoticesSayAA0B6NoticeVGvp">`Section.sectionNotices`</a> .
 
   </div>
 
@@ -2762,12 +2957,19 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
   Swift
 
   ``` highlight
-  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `import_route(﹚` methods with RoutingOptions parameter instead.") @discardableResult public func importRoute ( with locations : [ Location ], taxiOptions : TaxiOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `import_route(﹚` methods with RoutingOptions parameter instead.")
+  @discardableResult
+  public func importRoute(with locations: [Location], taxiOptions: TaxiOptions, completion: @escaping CalculateRouteCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-location">Location</a>
+  - <a href="sdk-for-ios-navigate-structs-taxioptions">TaxiOptions</a>
+  - <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk31CalculateRouteCompletionHandlera">CalculateRouteCompletionHandler</a>
+  - <a href="sdk-for-ios-navigate-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -2784,13 +2986,13 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
   <tr>
   <td><code> </code><em><code>locations</code></em><code> </code></td>
   <td><div>
-  <p>The list of locations used to calculate the route. Note that only the <a href="sdk-for-ios-navigate-structs-location#/s:7heresdk8LocationV11coordinatesAA14GeoCoordinatesVvp"><code>Location.coordinates</code></a> of a location are used to import the route.</p>
+  <p>The list of locations used to calculate the route. Note that only the <a href="sdk-for-ios-navigate-structs-location#sdk-for-ios-navigate-s-7heresdk8LocationV11coordinatesAA14GeoCoordinatesVvp"><code>Location.coordinates</code></a> of a location are used to import the route.</p>
   </div></td>
   </tr>
   <tr>
   <td><code> </code><em><code>taxiOptions</code></em><code> </code></td>
   <td><div>
-  <p>Options specific for taxi route calculation, along with common route options. Note that <a href="sdk-for-ios-navigate-enums-optimizationmode#/s:7heresdk16OptimizationModeO8shortestyA2CmF"><code>OptimizationMode.shortest</code></a> is not supported for taxis and converted to <a href="sdk-for-ios-navigate-enums-optimizationmode#/s:7heresdk16OptimizationModeO7fastestyA2CmF"><code>OptimizationMode.fastest</code></a> automatically.</p>
+  <p>Options specific for taxi route calculation, along with common route options. Note that <a href="sdk-for-ios-navigate-enums-optimizationmode#sdk-for-ios-navigate-s-7heresdk16OptimizationModeO8shortestyA2CmF"><code>OptimizationMode.shortest</code></a> is not supported for taxis and converted to <a href="sdk-for-ios-navigate-enums-optimizationmode#sdk-for-ios-navigate-s-7heresdk16OptimizationModeO7fastestyA2CmF"><code>OptimizationMode.fastest</code></a> automatically.</p>
   </div></td>
   </tr>
   <tr>
@@ -2818,7 +3020,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
 
 - <div>
 
-      importRoute(with: busOptions: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk13RoutingEngineC11importRoute4with10busOptions10completionAA10TaskHandle_pSayAA8LocationVG_AA03BusH0VyAA0B5ErrorOSg_SayAA0E0CGSgtctF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-importRoute-with-busOptions-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-routingengine#sdk-for-ios-navigate-s-7heresdk13RoutingEngineC11importRoute4with10busOptions10completionAA10TaskHandle_pSayAA8LocationVG_AA03BusH0VyAA0B5ErrorOSg_SayAA0E0CGSgtctF" class="token"><code>importRoute(with:</code><wbr></wbr><code>busOptions:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -2838,7 +3040,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
 
   Asynchronously creates a bus route from a sequence of geographic coordinates very close to each other. The route shape will be kept as close as possible to the one provided. For best results please use 1Hz GPS data, or geographic coordinates that have a spacing of a few meters one from the other. For example, such a list of geographic coordinates can be extracted from a GPX trace or a route object from a 3rd party library. Very sparse data may be rejected by the service with an error.
 
-  **Note:** Any restrictions applied to a transport type or provided options will be discarded and reported as violations in <a href="sdk-for-ios-navigate-classes-section#/s:7heresdk7SectionC14sectionNoticesSayAA0B6NoticeVGvp">`Section.sectionNotices`</a> .
+  **Note:** Any restrictions applied to a transport type or provided options will be discarded and reported as violations in <a href="sdk-for-ios-navigate-classes-section#sdk-for-ios-navigate-s-7heresdk7SectionC14sectionNoticesSayAA0B6NoticeVGvp">`Section.sectionNotices`</a> .
 
   </div>
 
@@ -2851,12 +3053,19 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
   Swift
 
   ``` highlight
-  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `import_route(﹚` methods with RoutingOptions parameter instead.") @discardableResult public func importRoute ( with locations : [ Location ], busOptions : BusOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `import_route(﹚` methods with RoutingOptions parameter instead.")
+  @discardableResult
+  public func importRoute(with locations: [Location], busOptions: BusOptions, completion: @escaping CalculateRouteCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-location">Location</a>
+  - <a href="sdk-for-ios-navigate-structs-busoptions">BusOptions</a>
+  - <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk31CalculateRouteCompletionHandlera">CalculateRouteCompletionHandler</a>
+  - <a href="sdk-for-ios-navigate-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -2873,7 +3082,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
   <tr>
   <td><code> </code><em><code>locations</code></em><code> </code></td>
   <td><div>
-  <p>The list of locations used to calculate the route. Note that only the <a href="sdk-for-ios-navigate-structs-location#/s:7heresdk8LocationV11coordinatesAA14GeoCoordinatesVvp"><code>Location.coordinates</code></a> of a location are used to import the route.</p>
+  <p>The list of locations used to calculate the route. Note that only the <a href="sdk-for-ios-navigate-structs-location#sdk-for-ios-navigate-s-7heresdk8LocationV11coordinatesAA14GeoCoordinatesVvp"><code>Location.coordinates</code></a> of a location are used to import the route.</p>
   </div></td>
   </tr>
   <tr>
@@ -2907,7 +3116,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
 
 - <div>
 
-      importRoute(with: privateBusOptions: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk13RoutingEngineC11importRoute4with17privateBusOptions10completionAA10TaskHandle_pSayAA8LocationVG_AA07PrivatehI0VyAA0B5ErrorOSg_SayAA0E0CGSgtctF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-importRoute-with-privateBusOptions-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-routingengine#sdk-for-ios-navigate-s-7heresdk13RoutingEngineC11importRoute4with17privateBusOptions10completionAA10TaskHandle_pSayAA8LocationVG_AA07PrivatehI0VyAA0B5ErrorOSg_SayAA0E0CGSgtctF" class="token"><code>importRoute(with:</code><wbr></wbr><code>privateBusOptions:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -2927,7 +3136,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
 
   Asynchronously creates a private bus route from a sequence of geographic coordinates very close to each other. The route shape will be kept as close as possible to the one provided. For best results please use 1Hz GPS data, or anyway geographic coordinates that have a spacing of a few meters one from the other. For example, such a list of geographic coordinates can be extracted from a GPX trace or a route object from a 3rd party library. Very sparse data may be rejected by the service with an error.
 
-  **Note:** Any restrictions applied to a transport type or provided options will be discarded and reported as violations in <a href="sdk-for-ios-navigate-classes-section#/s:7heresdk7SectionC14sectionNoticesSayAA0B6NoticeVGvp">`Section.sectionNotices`</a> .
+  **Note:** Any restrictions applied to a transport type or provided options will be discarded and reported as violations in <a href="sdk-for-ios-navigate-classes-section#sdk-for-ios-navigate-s-7heresdk7SectionC14sectionNoticesSayAA0B6NoticeVGvp">`Section.sectionNotices`</a> .
 
   </div>
 
@@ -2940,12 +3149,19 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
   Swift
 
   ``` highlight
-  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `import_route(﹚` methods with RoutingOptions parameter instead.") @discardableResult public func importRoute ( with locations : [ Location ], privateBusOptions : PrivateBusOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `import_route(﹚` methods with RoutingOptions parameter instead.")
+  @discardableResult
+  public func importRoute(with locations: [Location], privateBusOptions: PrivateBusOptions, completion: @escaping CalculateRouteCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-location">Location</a>
+  - <a href="sdk-for-ios-navigate-structs-privatebusoptions">PrivateBusOptions</a>
+  - <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk31CalculateRouteCompletionHandlera">CalculateRouteCompletionHandler</a>
+  - <a href="sdk-for-ios-navigate-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -2962,7 +3178,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
   <tr>
   <td><code> </code><em><code>locations</code></em><code> </code></td>
   <td><div>
-  <p>The list of locations used to calculate the route. Note that only the <a href="sdk-for-ios-navigate-structs-location#/s:7heresdk8LocationV11coordinatesAA14GeoCoordinatesVvp"><code>Location.coordinates</code></a> of a location are used to import the route.</p>
+  <p>The list of locations used to calculate the route. Note that only the <a href="sdk-for-ios-navigate-structs-location#sdk-for-ios-navigate-s-7heresdk8LocationV11coordinatesAA14GeoCoordinatesVvp"><code>Location.coordinates</code></a> of a location are used to import the route.</p>
   </div></td>
   </tr>
   <tr>
@@ -2996,7 +3212,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
 
 - <div>
 
-      importRoute(with: evCarOptions: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk13RoutingEngineC11importRoute4with12evCarOptions10completionAA10TaskHandle_pSayAA8LocationVG_AA05EVCarI0VyAA0B5ErrorOSg_SayAA0E0CGSgtctF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-importRoute-with-evCarOptions-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-routingengine#sdk-for-ios-navigate-s-7heresdk13RoutingEngineC11importRoute4with12evCarOptions10completionAA10TaskHandle_pSayAA8LocationVG_AA05EVCarI0VyAA0B5ErrorOSg_SayAA0E0CGSgtctF" class="token"><code>importRoute(with:</code><wbr></wbr><code>evCarOptions:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -3016,7 +3232,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
 
   Asynchronously creates an electric car route from a sequence of geographic coordinates very close to each other. The route shape will be kept as close as possible to the one provided. For best results please use 1Hz GPS data, or geographic coordinates that have a spacing of a few meters one from the other. For example, such a list of geographic coordinates can be extracted from a GPX trace or a route object from a 3rd party library. Very sparse data may be rejected by the service with an error.
 
-  **Note:** Any restrictions applied to a transport type or provided options will be discarded and reported as violations in <a href="sdk-for-ios-navigate-classes-section#/s:7heresdk7SectionC14sectionNoticesSayAA0B6NoticeVGvp">`Section.sectionNotices`</a> .
+  **Note:** Any restrictions applied to a transport type or provided options will be discarded and reported as violations in <a href="sdk-for-ios-navigate-classes-section#sdk-for-ios-navigate-s-7heresdk7SectionC14sectionNoticesSayAA0B6NoticeVGvp">`Section.sectionNotices`</a> .
 
   </div>
 
@@ -3029,12 +3245,19 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
   Swift
 
   ``` highlight
-  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `import_route(﹚` methods with RoutingOptions parameter instead.") @discardableResult public func importRoute ( with locations : [ Location ], evCarOptions : EVCarOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `import_route(﹚` methods with RoutingOptions parameter instead.")
+  @discardableResult
+  public func importRoute(with locations: [Location], evCarOptions: EVCarOptions, completion: @escaping CalculateRouteCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-location">Location</a>
+  - <a href="sdk-for-ios-navigate-structs-evcaroptions">EVCarOptions</a>
+  - <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk31CalculateRouteCompletionHandlera">CalculateRouteCompletionHandler</a>
+  - <a href="sdk-for-ios-navigate-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -3051,7 +3274,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
   <tr>
   <td><code> </code><em><code>locations</code></em><code> </code></td>
   <td><div>
-  <p>The list of locations used to calculate the route. Note that only the <a href="sdk-for-ios-navigate-structs-location#/s:7heresdk8LocationV11coordinatesAA14GeoCoordinatesVvp"><code>Location.coordinates</code></a> of a location are used to import the route.</p>
+  <p>The list of locations used to calculate the route. Note that only the <a href="sdk-for-ios-navigate-structs-location#sdk-for-ios-navigate-s-7heresdk8LocationV11coordinatesAA14GeoCoordinatesVvp"><code>Location.coordinates</code></a> of a location are used to import the route.</p>
   </div></td>
   </tr>
   <tr>
@@ -3085,7 +3308,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
 
 - <div>
 
-      importRoute(with: evTruckOptions: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk13RoutingEngineC11importRoute4with14evTruckOptions10completionAA10TaskHandle_pSayAA8LocationVG_AA07EVTruckI0VyAA0B5ErrorOSg_SayAA0E0CGSgtctF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-importRoute-with-evTruckOptions-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-routingengine#sdk-for-ios-navigate-s-7heresdk13RoutingEngineC11importRoute4with14evTruckOptions10completionAA10TaskHandle_pSayAA8LocationVG_AA07EVTruckI0VyAA0B5ErrorOSg_SayAA0E0CGSgtctF" class="token"><code>importRoute(with:</code><wbr></wbr><code>evTruckOptions:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -3105,7 +3328,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
 
   Asynchronously creates an electric truck route from a sequence of geographic coordinates very close to each other. The route shape will be kept as close as possible to the one provided. For best results please use 1Hz GPS data, or geographic coordinates that have a spacing of a few meters one from the other. For example, such a list of geographic coordinates can be extracted from a GPX trace or a route object from a 3rd party library. Very sparse data may be rejected by the service with an error.
 
-  **Note:** Any restrictions applied to a transport type or provided options will be discarded and reported as violations in <a href="sdk-for-ios-navigate-classes-section#/s:7heresdk7SectionC14sectionNoticesSayAA0B6NoticeVGvp">`Section.sectionNotices`</a> .
+  **Note:** Any restrictions applied to a transport type or provided options will be discarded and reported as violations in <a href="sdk-for-ios-navigate-classes-section#sdk-for-ios-navigate-s-7heresdk7SectionC14sectionNoticesSayAA0B6NoticeVGvp">`Section.sectionNotices`</a> .
 
   </div>
 
@@ -3118,12 +3341,19 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
   Swift
 
   ``` highlight
-  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `import_route(﹚` methods with RoutingOptions parameter instead.") @discardableResult public func importRoute ( with locations : [ Location ], evTruckOptions : EVTruckOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `import_route(﹚` methods with RoutingOptions parameter instead.")
+  @discardableResult
+  public func importRoute(with locations: [Location], evTruckOptions: EVTruckOptions, completion: @escaping CalculateRouteCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-location">Location</a>
+  - <a href="sdk-for-ios-navigate-structs-evtruckoptions">EVTruckOptions</a>
+  - <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk31CalculateRouteCompletionHandlera">CalculateRouteCompletionHandler</a>
+  - <a href="sdk-for-ios-navigate-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -3140,7 +3370,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
   <tr>
   <td><code> </code><em><code>locations</code></em><code> </code></td>
   <td><div>
-  <p>The list of locations used to calculate the route. Note that only the <a href="sdk-for-ios-navigate-structs-location#/s:7heresdk8LocationV11coordinatesAA14GeoCoordinatesVvp"><code>Location.coordinates</code></a> of a location are used to import the route.</p>
+  <p>The list of locations used to calculate the route. Note that only the <a href="sdk-for-ios-navigate-structs-location#sdk-for-ios-navigate-s-7heresdk8LocationV11coordinatesAA14GeoCoordinatesVvp"><code>Location.coordinates</code></a> of a location are used to import the route.</p>
   </div></td>
   </tr>
   <tr>
@@ -3174,7 +3404,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
 
 - <div>
 
-      importRoute(with: routeStops: carOptions: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk13RoutingEngineC11importRoute4with10routeStops10carOptions10completionAA10TaskHandle_pSayAA8LocationVG_SayAA0E4StopVGAA03CarJ0VyAA0B5ErrorOSg_SayAA0E0CGSgtctF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-importRoute-with-routeStops-carOptions-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-routingengine#sdk-for-ios-navigate-s-7heresdk13RoutingEngineC11importRoute4with10routeStops10carOptions10completionAA10TaskHandle_pSayAA8LocationVG_SayAA0E4StopVGAA03CarJ0VyAA0B5ErrorOSg_SayAA0E0CGSgtctF" class="token"><code>importRoute(with:</code><wbr></wbr><code>routeStops:</code><wbr></wbr><code>carOptions:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -3194,7 +3424,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
 
   Asynchronously creates a car route from a sequence of geographic coordinates very close to each other. The route shape will be kept as close as possible to the one provided. For best results please use 1Hz GPS data, or geographic coordinates that have a spacing of a few meters one from the other. For example, such a list of geographic coordinates can be extracted from a GPX trace or a route object from a 3rd party library. Very sparse data may be rejected by the service with an error.
 
-  **Note:** Any restrictions applied to a transport type or provided options will be discarded and reported as violations in <a href="sdk-for-ios-navigate-classes-section#/s:7heresdk7SectionC14sectionNoticesSayAA0B6NoticeVGvp">`Section.sectionNotices`</a> .
+  **Note:** Any restrictions applied to a transport type or provided options will be discarded and reported as violations in <a href="sdk-for-ios-navigate-classes-section#sdk-for-ios-navigate-s-7heresdk7SectionC14sectionNoticesSayAA0B6NoticeVGvp">`Section.sectionNotices`</a> .
 
   </div>
 
@@ -3207,12 +3437,20 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
   Swift
 
   ``` highlight
-  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `import_route(﹚` methods with RoutingOptions parameter instead.") @discardableResult public func importRoute ( with locations : [ Location ], routeStops : [ RouteStop ], carOptions : CarOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `import_route(﹚` methods with RoutingOptions parameter instead.")
+  @discardableResult
+  public func importRoute(with locations: [Location], routeStops: [RouteStop], carOptions: CarOptions, completion: @escaping CalculateRouteCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-location">Location</a>
+  - <a href="sdk-for-ios-navigate-structs-routestop">RouteStop</a>
+  - <a href="sdk-for-ios-navigate-structs-caroptions">CarOptions</a>
+  - <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk31CalculateRouteCompletionHandlera">CalculateRouteCompletionHandler</a>
+  - <a href="sdk-for-ios-navigate-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -3229,7 +3467,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
   <tr>
   <td><code> </code><em><code>locations</code></em><code> </code></td>
   <td><div>
-  <p>The list of locations used to calculate the route. Note that only the <a href="sdk-for-ios-navigate-structs-location#/s:7heresdk8LocationV11coordinatesAA14GeoCoordinatesVvp"><code>Location.coordinates</code></a> of a location are used to import the route.</p>
+  <p>The list of locations used to calculate the route. Note that only the <a href="sdk-for-ios-navigate-structs-location#sdk-for-ios-navigate-s-7heresdk8LocationV11coordinatesAA14GeoCoordinatesVvp"><code>Location.coordinates</code></a> of a location are used to import the route.</p>
   </div></td>
   </tr>
   <tr>
@@ -3269,7 +3507,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
 
 - <div>
 
-      importRoute(with: routeStops: truckOptions: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk13RoutingEngineC11importRoute4with10routeStops12truckOptions10completionAA10TaskHandle_pSayAA8LocationVG_SayAA0E4StopVGAA05TruckJ0VyAA0B5ErrorOSg_SayAA0E0CGSgtctF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-importRoute-with-routeStops-truckOptions-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-routingengine#sdk-for-ios-navigate-s-7heresdk13RoutingEngineC11importRoute4with10routeStops12truckOptions10completionAA10TaskHandle_pSayAA8LocationVG_SayAA0E4StopVGAA05TruckJ0VyAA0B5ErrorOSg_SayAA0E0CGSgtctF" class="token"><code>importRoute(with:</code><wbr></wbr><code>routeStops:</code><wbr></wbr><code>truckOptions:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -3289,7 +3527,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
 
   Asynchronously creates a truck route from a sequence of geographic coordinates very close to each other. The route shape will be kept as close as possible to the one provided. For best results please use 1Hz GPS data, or geographic coordinates that have a spacing of a few meters one from the other. For example, such a list of geographic coordinates can be extracted from a GPX trace or a route object from a 3rd party library. Very sparse data may be rejected by the service with an error.
 
-  **Note:** Any restrictions applied to a transport type or provided options will be discarded and reported as violations in <a href="sdk-for-ios-navigate-classes-section#/s:7heresdk7SectionC14sectionNoticesSayAA0B6NoticeVGvp">`Section.sectionNotices`</a> .
+  **Note:** Any restrictions applied to a transport type or provided options will be discarded and reported as violations in <a href="sdk-for-ios-navigate-classes-section#sdk-for-ios-navigate-s-7heresdk7SectionC14sectionNoticesSayAA0B6NoticeVGvp">`Section.sectionNotices`</a> .
 
   </div>
 
@@ -3302,12 +3540,20 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
   Swift
 
   ``` highlight
-  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `import_route(﹚` methods with RoutingOptions parameter instead.") @discardableResult public func importRoute ( with locations : [ Location ], routeStops : [ RouteStop ], truckOptions : TruckOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `import_route(﹚` methods with RoutingOptions parameter instead.")
+  @discardableResult
+  public func importRoute(with locations: [Location], routeStops: [RouteStop], truckOptions: TruckOptions, completion: @escaping CalculateRouteCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-location">Location</a>
+  - <a href="sdk-for-ios-navigate-structs-routestop">RouteStop</a>
+  - <a href="sdk-for-ios-navigate-structs-truckoptions">TruckOptions</a>
+  - <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk31CalculateRouteCompletionHandlera">CalculateRouteCompletionHandler</a>
+  - <a href="sdk-for-ios-navigate-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -3324,7 +3570,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
   <tr>
   <td><code> </code><em><code>locations</code></em><code> </code></td>
   <td><div>
-  <p>The list of locations used to calculate the route. Note that only the <a href="sdk-for-ios-navigate-structs-location#/s:7heresdk8LocationV11coordinatesAA14GeoCoordinatesVvp"><code>Location.coordinates</code></a> of a location are used to import the route.</p>
+  <p>The list of locations used to calculate the route. Note that only the <a href="sdk-for-ios-navigate-structs-location#sdk-for-ios-navigate-s-7heresdk8LocationV11coordinatesAA14GeoCoordinatesVvp"><code>Location.coordinates</code></a> of a location are used to import the route.</p>
   </div></td>
   </tr>
   <tr>
@@ -3364,7 +3610,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
 
 - <div>
 
-      importRoute(with: routeStops: taxiOptions: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk13RoutingEngineC11importRoute4with10routeStops11taxiOptions10completionAA10TaskHandle_pSayAA8LocationVG_SayAA0E4StopVGAA04TaxiJ0VyAA0B5ErrorOSg_SayAA0E0CGSgtctF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-importRoute-with-routeStops-taxiOptions-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-routingengine#sdk-for-ios-navigate-s-7heresdk13RoutingEngineC11importRoute4with10routeStops11taxiOptions10completionAA10TaskHandle_pSayAA8LocationVG_SayAA0E4StopVGAA04TaxiJ0VyAA0B5ErrorOSg_SayAA0E0CGSgtctF" class="token"><code>importRoute(with:</code><wbr></wbr><code>routeStops:</code><wbr></wbr><code>taxiOptions:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -3384,7 +3630,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
 
   Asynchronously creates a taxi route from a sequence of geographic coordinates very close to each other. The route shape will be kept as close as possible to the one provided. For best results please use 1Hz GPS data, or geographic coordinates that have a spacing of a few meters one from the other. For example, such a list of geographic coordinates can be extracted from a GPX trace or a route object from a 3rd party library. Very sparse data may be rejected by the service with an error.
 
-  **Note:** Any restrictions applied to a transport type or provided options will be discarded and reported as violations in <a href="sdk-for-ios-navigate-classes-section#/s:7heresdk7SectionC14sectionNoticesSayAA0B6NoticeVGvp">`Section.sectionNotices`</a> .
+  **Note:** Any restrictions applied to a transport type or provided options will be discarded and reported as violations in <a href="sdk-for-ios-navigate-classes-section#sdk-for-ios-navigate-s-7heresdk7SectionC14sectionNoticesSayAA0B6NoticeVGvp">`Section.sectionNotices`</a> .
 
   </div>
 
@@ -3397,12 +3643,20 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
   Swift
 
   ``` highlight
-  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `import_route(﹚` methods with RoutingOptions parameter instead.") @discardableResult public func importRoute ( with locations : [ Location ], routeStops : [ RouteStop ], taxiOptions : TaxiOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `import_route(﹚` methods with RoutingOptions parameter instead.")
+  @discardableResult
+  public func importRoute(with locations: [Location], routeStops: [RouteStop], taxiOptions: TaxiOptions, completion: @escaping CalculateRouteCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-location">Location</a>
+  - <a href="sdk-for-ios-navigate-structs-routestop">RouteStop</a>
+  - <a href="sdk-for-ios-navigate-structs-taxioptions">TaxiOptions</a>
+  - <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk31CalculateRouteCompletionHandlera">CalculateRouteCompletionHandler</a>
+  - <a href="sdk-for-ios-navigate-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -3419,7 +3673,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
   <tr>
   <td><code> </code><em><code>locations</code></em><code> </code></td>
   <td><div>
-  <p>The list of locations used to calculate the route. Note that only the <a href="sdk-for-ios-navigate-structs-location#/s:7heresdk8LocationV11coordinatesAA14GeoCoordinatesVvp"><code>Location.coordinates</code></a> of a location are used to import the route.</p>
+  <p>The list of locations used to calculate the route. Note that only the <a href="sdk-for-ios-navigate-structs-location#sdk-for-ios-navigate-s-7heresdk8LocationV11coordinatesAA14GeoCoordinatesVvp"><code>Location.coordinates</code></a> of a location are used to import the route.</p>
   </div></td>
   </tr>
   <tr>
@@ -3431,7 +3685,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
   <tr>
   <td><code> </code><em><code>taxiOptions</code></em><code> </code></td>
   <td><div>
-  <p>Options specific for taxi route calculation, along with common route options. Note that <a href="sdk-for-ios-navigate-enums-optimizationmode#/s:7heresdk16OptimizationModeO8shortestyA2CmF"><code>OptimizationMode.shortest</code></a> is not supported for taxis and converted to <a href="sdk-for-ios-navigate-enums-optimizationmode#/s:7heresdk16OptimizationModeO7fastestyA2CmF"><code>OptimizationMode.fastest</code></a> automatically.</p>
+  <p>Options specific for taxi route calculation, along with common route options. Note that <a href="sdk-for-ios-navigate-enums-optimizationmode#sdk-for-ios-navigate-s-7heresdk16OptimizationModeO8shortestyA2CmF"><code>OptimizationMode.shortest</code></a> is not supported for taxis and converted to <a href="sdk-for-ios-navigate-enums-optimizationmode#sdk-for-ios-navigate-s-7heresdk16OptimizationModeO7fastestyA2CmF"><code>OptimizationMode.fastest</code></a> automatically.</p>
   </div></td>
   </tr>
   <tr>
@@ -3459,7 +3713,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
 
 - <div>
 
-      importRoute(with: routeStops: busOptions: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk13RoutingEngineC11importRoute4with10routeStops10busOptions10completionAA10TaskHandle_pSayAA8LocationVG_SayAA0E4StopVGAA03BusJ0VyAA0B5ErrorOSg_SayAA0E0CGSgtctF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-importRoute-with-routeStops-busOptions-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-routingengine#sdk-for-ios-navigate-s-7heresdk13RoutingEngineC11importRoute4with10routeStops10busOptions10completionAA10TaskHandle_pSayAA8LocationVG_SayAA0E4StopVGAA03BusJ0VyAA0B5ErrorOSg_SayAA0E0CGSgtctF" class="token"><code>importRoute(with:</code><wbr></wbr><code>routeStops:</code><wbr></wbr><code>busOptions:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -3479,7 +3733,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
 
   Asynchronously creates a bus route from a sequence of geographic coordinates very close to each other. The route shape will be kept as close as possible to the one provided. For best results please use 1Hz GPS data, or geographic coordinates that have a spacing of a few meters one from the other. For example, such a list of geographic coordinates can be extracted from a GPX trace or a route object from a 3rd party library. Very sparse data may be rejected by the service with an error.
 
-  **Note:** Any restrictions applied to a transport type or provided options will be discarded and reported as violations in <a href="sdk-for-ios-navigate-classes-section#/s:7heresdk7SectionC14sectionNoticesSayAA0B6NoticeVGvp">`Section.sectionNotices`</a> .
+  **Note:** Any restrictions applied to a transport type or provided options will be discarded and reported as violations in <a href="sdk-for-ios-navigate-classes-section#sdk-for-ios-navigate-s-7heresdk7SectionC14sectionNoticesSayAA0B6NoticeVGvp">`Section.sectionNotices`</a> .
 
   </div>
 
@@ -3492,12 +3746,20 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
   Swift
 
   ``` highlight
-  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `import_route(﹚` methods with RoutingOptions parameter instead.") @discardableResult public func importRoute ( with locations : [ Location ], routeStops : [ RouteStop ], busOptions : BusOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `import_route(﹚` methods with RoutingOptions parameter instead.")
+  @discardableResult
+  public func importRoute(with locations: [Location], routeStops: [RouteStop], busOptions: BusOptions, completion: @escaping CalculateRouteCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-location">Location</a>
+  - <a href="sdk-for-ios-navigate-structs-routestop">RouteStop</a>
+  - <a href="sdk-for-ios-navigate-structs-busoptions">BusOptions</a>
+  - <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk31CalculateRouteCompletionHandlera">CalculateRouteCompletionHandler</a>
+  - <a href="sdk-for-ios-navigate-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -3514,7 +3776,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
   <tr>
   <td><code> </code><em><code>locations</code></em><code> </code></td>
   <td><div>
-  <p>The list of locations used to calculate the route. Note that only the <a href="sdk-for-ios-navigate-structs-location#/s:7heresdk8LocationV11coordinatesAA14GeoCoordinatesVvp"><code>Location.coordinates</code></a> of a location are used to import the route.</p>
+  <p>The list of locations used to calculate the route. Note that only the <a href="sdk-for-ios-navigate-structs-location#sdk-for-ios-navigate-s-7heresdk8LocationV11coordinatesAA14GeoCoordinatesVvp"><code>Location.coordinates</code></a> of a location are used to import the route.</p>
   </div></td>
   </tr>
   <tr>
@@ -3554,7 +3816,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
 
 - <div>
 
-      importRoute(with: routeStops: privateBusOptions: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk13RoutingEngineC11importRoute4with10routeStops17privateBusOptions10completionAA10TaskHandle_pSayAA8LocationVG_SayAA0E4StopVGAA07PrivatejK0VyAA0B5ErrorOSg_SayAA0E0CGSgtctF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-importRoute-with-routeStops-privateBusOptions-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-routingengine#sdk-for-ios-navigate-s-7heresdk13RoutingEngineC11importRoute4with10routeStops17privateBusOptions10completionAA10TaskHandle_pSayAA8LocationVG_SayAA0E4StopVGAA07PrivatejK0VyAA0B5ErrorOSg_SayAA0E0CGSgtctF" class="token"><code>importRoute(with:</code><wbr></wbr><code>routeStops:</code><wbr></wbr><code>privateBusOptions:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -3574,7 +3836,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
 
   Asynchronously creates a private bus route from a sequence of geographic coordinates very close to each other. The route shape will be kept as close as possible to the one provided. For best results please use 1Hz GPS data, or anyway geographic coordinates that have a spacing of a few meters one from the other. For example, such a list of geographic coordinates can be extracted from a GPX trace or a route object from a 3rd party library. Very sparse data may be rejected by the service with an error.
 
-  **Note:** Any restrictions applied to a transport type or provided options will be discarded and reported as violations in <a href="sdk-for-ios-navigate-classes-section#/s:7heresdk7SectionC14sectionNoticesSayAA0B6NoticeVGvp">`Section.sectionNotices`</a> .
+  **Note:** Any restrictions applied to a transport type or provided options will be discarded and reported as violations in <a href="sdk-for-ios-navigate-classes-section#sdk-for-ios-navigate-s-7heresdk7SectionC14sectionNoticesSayAA0B6NoticeVGvp">`Section.sectionNotices`</a> .
 
   </div>
 
@@ -3587,12 +3849,20 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
   Swift
 
   ``` highlight
-  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `import_route(﹚` methods with RoutingOptions parameter instead.") @discardableResult public func importRoute ( with locations : [ Location ], routeStops : [ RouteStop ], privateBusOptions : PrivateBusOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `import_route(﹚` methods with RoutingOptions parameter instead.")
+  @discardableResult
+  public func importRoute(with locations: [Location], routeStops: [RouteStop], privateBusOptions: PrivateBusOptions, completion: @escaping CalculateRouteCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-location">Location</a>
+  - <a href="sdk-for-ios-navigate-structs-routestop">RouteStop</a>
+  - <a href="sdk-for-ios-navigate-structs-privatebusoptions">PrivateBusOptions</a>
+  - <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk31CalculateRouteCompletionHandlera">CalculateRouteCompletionHandler</a>
+  - <a href="sdk-for-ios-navigate-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -3609,7 +3879,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
   <tr>
   <td><code> </code><em><code>locations</code></em><code> </code></td>
   <td><div>
-  <p>The list of locations used to calculate the route. Note that only the <a href="sdk-for-ios-navigate-structs-location#/s:7heresdk8LocationV11coordinatesAA14GeoCoordinatesVvp"><code>Location.coordinates</code></a> of a location are used to import the route.</p>
+  <p>The list of locations used to calculate the route. Note that only the <a href="sdk-for-ios-navigate-structs-location#sdk-for-ios-navigate-s-7heresdk8LocationV11coordinatesAA14GeoCoordinatesVvp"><code>Location.coordinates</code></a> of a location are used to import the route.</p>
   </div></td>
   </tr>
   <tr>
@@ -3649,7 +3919,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
 
 - <div>
 
-      importRoute(with: routeStops: evCarOptions: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk13RoutingEngineC11importRoute4with10routeStops12evCarOptions10completionAA10TaskHandle_pSayAA8LocationVG_SayAA0E4StopVGAA05EVCarK0VyAA0B5ErrorOSg_SayAA0E0CGSgtctF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-importRoute-with-routeStops-evCarOptions-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-routingengine#sdk-for-ios-navigate-s-7heresdk13RoutingEngineC11importRoute4with10routeStops12evCarOptions10completionAA10TaskHandle_pSayAA8LocationVG_SayAA0E4StopVGAA05EVCarK0VyAA0B5ErrorOSg_SayAA0E0CGSgtctF" class="token"><code>importRoute(with:</code><wbr></wbr><code>routeStops:</code><wbr></wbr><code>evCarOptions:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -3669,7 +3939,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
 
   Asynchronously creates an electric car route from a sequence of geographic coordinates very close to each other. The route shape will be kept as close as possible to the one provided. For best results please use 1Hz GPS data, or geographic coordinates that have a spacing of a few meters one from the other. For example, such a list of geographic coordinates can be extracted from a GPX trace or a route object from a 3rd party library. Very sparse data may be rejected by the service with an error.
 
-  **Note:** Any restrictions applied to a transport type or provided options will be discarded and reported as violations in <a href="sdk-for-ios-navigate-classes-section#/s:7heresdk7SectionC14sectionNoticesSayAA0B6NoticeVGvp">`Section.sectionNotices`</a> .
+  **Note:** Any restrictions applied to a transport type or provided options will be discarded and reported as violations in <a href="sdk-for-ios-navigate-classes-section#sdk-for-ios-navigate-s-7heresdk7SectionC14sectionNoticesSayAA0B6NoticeVGvp">`Section.sectionNotices`</a> .
 
   </div>
 
@@ -3682,12 +3952,20 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
   Swift
 
   ``` highlight
-  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `import_route(﹚` methods with RoutingOptions parameter instead.") @discardableResult public func importRoute ( with locations : [ Location ], routeStops : [ RouteStop ], evCarOptions : EVCarOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `import_route(﹚` methods with RoutingOptions parameter instead.")
+  @discardableResult
+  public func importRoute(with locations: [Location], routeStops: [RouteStop], evCarOptions: EVCarOptions, completion: @escaping CalculateRouteCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-location">Location</a>
+  - <a href="sdk-for-ios-navigate-structs-routestop">RouteStop</a>
+  - <a href="sdk-for-ios-navigate-structs-evcaroptions">EVCarOptions</a>
+  - <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk31CalculateRouteCompletionHandlera">CalculateRouteCompletionHandler</a>
+  - <a href="sdk-for-ios-navigate-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -3704,7 +3982,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
   <tr>
   <td><code> </code><em><code>locations</code></em><code> </code></td>
   <td><div>
-  <p>The list of locations used to calculate the route. Note that only the <a href="sdk-for-ios-navigate-structs-location#/s:7heresdk8LocationV11coordinatesAA14GeoCoordinatesVvp"><code>Location.coordinates</code></a> of a location are used to import the route.</p>
+  <p>The list of locations used to calculate the route. Note that only the <a href="sdk-for-ios-navigate-structs-location#sdk-for-ios-navigate-s-7heresdk8LocationV11coordinatesAA14GeoCoordinatesVvp"><code>Location.coordinates</code></a> of a location are used to import the route.</p>
   </div></td>
   </tr>
   <tr>
@@ -3744,7 +4022,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
 
 - <div>
 
-      importRoute(with: routeStops: evTruckOptions: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk13RoutingEngineC11importRoute4with10routeStops14evTruckOptions10completionAA10TaskHandle_pSayAA8LocationVG_SayAA0E4StopVGAA07EVTruckK0VyAA0B5ErrorOSg_SayAA0E0CGSgtctF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-importRoute-with-routeStops-evTruckOptions-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-routingengine#sdk-for-ios-navigate-s-7heresdk13RoutingEngineC11importRoute4with10routeStops14evTruckOptions10completionAA10TaskHandle_pSayAA8LocationVG_SayAA0E4StopVGAA07EVTruckK0VyAA0B5ErrorOSg_SayAA0E0CGSgtctF" class="token"><code>importRoute(with:</code><wbr></wbr><code>routeStops:</code><wbr></wbr><code>evTruckOptions:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -3764,7 +4042,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
 
   Asynchronously creates an electric truck route from a sequence of geographic coordinates very close to each other. The route shape will be kept as close as possible to the one provided. For best results please use 1Hz GPS data, or geographic coordinates that have a spacing of a few meters one from the other. For example, such a list of geographic coordinates can be extracted from a GPX trace or a route object from a 3rd party library. Very sparse data may be rejected by the service with an error.
 
-  **Note:** Any restrictions applied to a transport type or provided options will be discarded and reported as violations in <a href="sdk-for-ios-navigate-classes-section#/s:7heresdk7SectionC14sectionNoticesSayAA0B6NoticeVGvp">`Section.sectionNotices`</a> .
+  **Note:** Any restrictions applied to a transport type or provided options will be discarded and reported as violations in <a href="sdk-for-ios-navigate-classes-section#sdk-for-ios-navigate-s-7heresdk7SectionC14sectionNoticesSayAA0B6NoticeVGvp">`Section.sectionNotices`</a> .
 
   </div>
 
@@ -3777,12 +4055,20 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
   Swift
 
   ``` highlight
-  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `import_route(﹚` methods with RoutingOptions parameter instead.") @discardableResult public func importRoute ( with locations : [ Location ], routeStops : [ RouteStop ], evTruckOptions : EVTruckOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `import_route(﹚` methods with RoutingOptions parameter instead.")
+  @discardableResult
+  public func importRoute(with locations: [Location], routeStops: [RouteStop], evTruckOptions: EVTruckOptions, completion: @escaping CalculateRouteCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-location">Location</a>
+  - <a href="sdk-for-ios-navigate-structs-routestop">RouteStop</a>
+  - <a href="sdk-for-ios-navigate-structs-evtruckoptions">EVTruckOptions</a>
+  - <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk31CalculateRouteCompletionHandlera">CalculateRouteCompletionHandler</a>
+  - <a href="sdk-for-ios-navigate-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -3799,7 +4085,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
   <tr>
   <td><code> </code><em><code>locations</code></em><code> </code></td>
   <td><div>
-  <p>The list of locations used to calculate the route. Note that only the <a href="sdk-for-ios-navigate-structs-location#/s:7heresdk8LocationV11coordinatesAA14GeoCoordinatesVvp"><code>Location.coordinates</code></a> of a location are used to import the route.</p>
+  <p>The list of locations used to calculate the route. Note that only the <a href="sdk-for-ios-navigate-structs-location#sdk-for-ios-navigate-s-7heresdk8LocationV11coordinatesAA14GeoCoordinatesVvp"><code>Location.coordinates</code></a> of a location are used to import the route.</p>
   </div></td>
   </tr>
   <tr>
@@ -3839,7 +4125,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
 
 - <div>
 
-      importRoute(with: options: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk13RoutingEngineC11importRoute4with7options10completionAA10TaskHandle_pSayAA8LocationVG_AA0B7OptionsVyAA0B5ErrorOSg_SayAA0E0CGSgtctF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-importRoute-with-options-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-routingengine#sdk-for-ios-navigate-s-7heresdk13RoutingEngineC11importRoute4with7options10completionAA10TaskHandle_pSayAA8LocationVG_AA0B7OptionsVyAA0B5ErrorOSg_SayAA0E0CGSgtctF" class="token"><code>importRoute(with:</code><wbr></wbr><code>options:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -3859,7 +4145,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
 
   Asynchronously creates a route from a sequence of geographic coordinates very close to each other. The route shape will be kept as close as possible to the one provided. For best results please use 1Hz GPS data, or geographic coordinates that have a spacing of a few meters one from the other. For example, such a list of geographic coordinates can be extracted from a GPX trace or a route object from a 3rd party library. Very sparse data may be rejected by the service with an error.
 
-  **Note:** Any restrictions applied to a transport type or provided options will be discarded and reported as violations in <a href="sdk-for-ios-navigate-classes-section#/s:7heresdk7SectionC14sectionNoticesSayAA0B6NoticeVGvp">`Section.sectionNotices`</a>.
+  **Note:** Any restrictions applied to a transport type or provided options will be discarded and reported as violations in <a href="sdk-for-ios-navigate-classes-section#sdk-for-ios-navigate-s-7heresdk7SectionC14sectionNoticesSayAA0B6NoticeVGvp">`Section.sectionNotices`</a>.
 
   </div>
 
@@ -3872,12 +4158,18 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
   Swift
 
   ``` highlight
-  @discardableResult public func importRoute ( with locations : [ Location ], options : RoutingOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  @discardableResult
+  public func importRoute(with locations: [Location], options: RoutingOptions, completion: @escaping CalculateRouteCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-location">Location</a>
+  - <a href="sdk-for-ios-navigate-structs-routingoptions">RoutingOptions</a>
+  - <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk31CalculateRouteCompletionHandlera">CalculateRouteCompletionHandler</a>
+  - <a href="sdk-for-ios-navigate-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -3894,7 +4186,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
   <tr>
   <td><code> </code><em><code>locations</code></em><code> </code></td>
   <td><div>
-  <p>The list of locations used to calculate the route. Note that only the <a href="sdk-for-ios-navigate-structs-location#/s:7heresdk8LocationV11coordinatesAA14GeoCoordinatesVvp"><code>Location.coordinates</code></a> of a location are used to import the route.</p>
+  <p>The list of locations used to calculate the route. Note that only the <a href="sdk-for-ios-navigate-structs-location#sdk-for-ios-navigate-s-7heresdk8LocationV11coordinatesAA14GeoCoordinatesVvp"><code>Location.coordinates</code></a> of a location are used to import the route.</p>
   </div></td>
   </tr>
   <tr>
@@ -3928,7 +4220,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
 
 - <div>
 
-      importRoute(with: routeStops: options: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk13RoutingEngineC11importRoute4with10routeStops7options10completionAA10TaskHandle_pSayAA8LocationVG_SayAA0E4StopVGAA0B7OptionsVyAA0B5ErrorOSg_SayAA0E0CGSgtctF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-importRoute-with-routeStops-options-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-routingengine#sdk-for-ios-navigate-s-7heresdk13RoutingEngineC11importRoute4with10routeStops7options10completionAA10TaskHandle_pSayAA8LocationVG_SayAA0E4StopVGAA0B7OptionsVyAA0B5ErrorOSg_SayAA0E0CGSgtctF" class="token"><code>importRoute(with:</code><wbr></wbr><code>routeStops:</code><wbr></wbr><code>options:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -3948,7 +4240,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
 
   Asynchronously creates a route from a sequence of geographic coordinates very close to each other. The route shape will be kept as close as possible to the one provided. For best results please use 1Hz GPS data, or geographic coordinates that have a spacing of a few meters one from the other. For example, such a list of geographic coordinates can be extracted from a GPX trace or a route object from a 3rd party library. Very sparse data may be rejected by the service with an error.
 
-  **Note:** Any restrictions applied to a transport type or provided options will be discarded and reported as violations in <a href="sdk-for-ios-navigate-classes-section#/s:7heresdk7SectionC14sectionNoticesSayAA0B6NoticeVGvp">`Section.sectionNotices`</a> .
+  **Note:** Any restrictions applied to a transport type or provided options will be discarded and reported as violations in <a href="sdk-for-ios-navigate-classes-section#sdk-for-ios-navigate-s-7heresdk7SectionC14sectionNoticesSayAA0B6NoticeVGvp">`Section.sectionNotices`</a> .
 
   </div>
 
@@ -3961,12 +4253,19 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
   Swift
 
   ``` highlight
-  @discardableResult public func importRoute ( with locations : [ Location ], routeStops : [ RouteStop ], options : RoutingOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  @discardableResult
+  public func importRoute(with locations: [Location], routeStops: [RouteStop], options: RoutingOptions, completion: @escaping CalculateRouteCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-location">Location</a>
+  - <a href="sdk-for-ios-navigate-structs-routestop">RouteStop</a>
+  - <a href="sdk-for-ios-navigate-structs-routingoptions">RoutingOptions</a>
+  - <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk31CalculateRouteCompletionHandlera">CalculateRouteCompletionHandler</a>
+  - <a href="sdk-for-ios-navigate-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -3983,7 +4282,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
   <tr>
   <td><code> </code><em><code>locations</code></em><code> </code></td>
   <td><div>
-  <p>The list of locations used to calculate the route. Note that only the <a href="sdk-for-ios-navigate-structs-location#/s:7heresdk8LocationV11coordinatesAA14GeoCoordinatesVvp"><code>Location.coordinates</code></a> of a location are used to import the route.</p>
+  <p>The list of locations used to calculate the route. Note that only the <a href="sdk-for-ios-navigate-structs-location#sdk-for-ios-navigate-s-7heresdk8LocationV11coordinatesAA14GeoCoordinatesVvp"><code>Location.coordinates</code></a> of a location are used to import the route.</p>
   </div></td>
   </tr>
   <tr>
@@ -4023,7 +4322,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
 
 - <div>
 
-      importRoute(routeHandle: options: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk13RoutingEngineC11importRoute11routeHandle7options10completionAA04TaskG0_pAA0eG0V_AA0B7OptionsVyAA0B5ErrorOSg_SayAA0E0CGSgtctF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-importRoute-routeHandle-options-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-routingengine#sdk-for-ios-navigate-s-7heresdk13RoutingEngineC11importRoute11routeHandle7options10completionAA04TaskG0_pAA0eG0V_AA0B7OptionsVyAA0B5ErrorOSg_SayAA0E0CGSgtctF" class="token"><code>importRoute(routeHandle:</code><wbr></wbr><code>options:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -4056,12 +4355,18 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
   Swift
 
   ``` highlight
-  @discardableResult public func importRoute ( routeHandle : RouteHandle , options : RoutingOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  @discardableResult
+  public func importRoute(routeHandle: RouteHandle, options: RoutingOptions, completion: @escaping CalculateRouteCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-routehandle">RouteHandle</a>
+  - <a href="sdk-for-ios-navigate-structs-routingoptions">RoutingOptions</a>
+  - <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk31CalculateRouteCompletionHandlera">CalculateRouteCompletionHandler</a>
+  - <a href="sdk-for-ios-navigate-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -4112,7 +4417,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
 
 - <div>
 
-      calculateTrafficOnRoute(route: lastTraveledSectionIndex: traveledDistanceOnLastSectionInMeters: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk13RoutingEngineC23calculateTrafficOnRoute5route24lastTraveledSectionIndex016traveledDistancef4LastK8InMeters10completionAA10TaskHandle_pAA0G0C_s5Int32VAMyAA0B5ErrorOSg_AA0efG0VSgtctF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-calculateTrafficOnRoute-route-lastTraveledSectionIndex-traveledDistanceOnLastSectionInMeters-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-routingengine#sdk-for-ios-navigate-s-7heresdk13RoutingEngineC23calculateTrafficOnRoute5route24lastTraveledSectionIndex016traveledDistancef4LastK8InMeters10completionAA10TaskHandle_pAA0G0C_s5Int32VAMyAA0B5ErrorOSg_AA0efG0VSgtctF" class="token"><code>calculateTrafficOnRoute(route:</code><wbr></wbr><code>lastTraveledSectionIndex:</code><wbr></wbr><code>traveledDistanceOnLastSectionInMeters:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -4145,12 +4450,16 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
   Swift
 
   ``` highlight
-  public func calculateTrafficOnRoute ( route : Route , lastTraveledSectionIndex : Int32 , traveledDistanceOnLastSectionInMeters : Int32 , completion : @escaping CalculateTrafficOnRouteCompletionHandler ) -> TaskHandle
+  public func calculateTrafficOnRoute(route: Route, lastTraveledSectionIndex: Int32, traveledDistanceOnLastSectionInMeters: Int32, completion: @escaping CalculateTrafficOnRouteCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-route">Route</a>
+  - <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk40CalculateTrafficOnRouteCompletionHandlera">CalculateTrafficOnRouteCompletionHandler</a>
+  - <a href="sdk-for-ios-navigate-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -4207,7 +4516,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
 
 - <div>
 
-      calculateTrafficOnRoute(route: lastTraveledSectionIndex: traveledDistanceOnLastSectionInMeters: currentChargeInKilowattHours: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk13RoutingEngineC23calculateTrafficOnRoute5route24lastTraveledSectionIndex016traveledDistancef4LastK8InMeters013currentChargeP13KilowattHours10completionAA10TaskHandle_pAA0G0C_s5Int32VANSdyAA0B5ErrorOSg_AA0efG0VSgtctF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-calculateTrafficOnRoute-route-lastTraveledSectionIndex-traveledDistanceOnLastSectionInMeters-currentChargeInKilowattHours-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-routingengine#sdk-for-ios-navigate-s-7heresdk13RoutingEngineC23calculateTrafficOnRoute5route24lastTraveledSectionIndex016traveledDistancef4LastK8InMeters013currentChargeP13KilowattHours10completionAA10TaskHandle_pAA0G0C_s5Int32VANSdyAA0B5ErrorOSg_AA0efG0VSgtctF" class="token"><code>calculateTrafficOnRoute(route:</code><wbr></wbr><code>lastTraveledSectionIndex:</code><wbr></wbr><code>traveledDistanceOnLastSectionInMeters:</code><wbr></wbr><code>currentChargeInKilowattHours:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -4225,7 +4534,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
 
   <div class="abstract">
 
-  Asynchronously calculates the traffic along an EV car route starting from the index of the last traveled route section and an offset in meters from the last visited position on the section. The field <a href="sdk-for-ios-navigate-structs-trafficonspan#/s:7heresdk13TrafficOnSpanV26consumptionInKilowattHoursSdSgvp">`TrafficOnSpan.consumptionInKilowattHours`</a> will contain the power consumption in kilowatt-hours (kWh) necessary to traverse the span, and <a href="sdk-for-ios-navigate-structs-routeplace#/s:7heresdk10RoutePlaceV21chargeInKilowattHoursSdSgvp">`RoutePlace.chargeInKilowattHours`</a>, inside <a href="sdk-for-ios-navigate-structs-trafficonsection#/s:7heresdk16TrafficOnSectionV14departurePlaceAA05RouteF0Vvp">`TrafficOnSection.departurePlace`</a> and <a href="sdk-for-ios-navigate-structs-trafficonsection#/s:7heresdk16TrafficOnSectionV12arrivalPlaceAA05RouteF0Vvp">`TrafficOnSection.arrivalPlace`</a>, the estimated battery charge in kilowatt-hours (kWh) when leaving/arriving to a section. **Note:** Only EV cars are supported.
+  Asynchronously calculates the traffic along an EV car route starting from the index of the last traveled route section and an offset in meters from the last visited position on the section. The field <a href="sdk-for-ios-navigate-structs-trafficonspan#sdk-for-ios-navigate-s-7heresdk13TrafficOnSpanV26consumptionInKilowattHoursSdSgvp">`TrafficOnSpan.consumptionInKilowattHours`</a> will contain the power consumption in kilowatt-hours (kWh) necessary to traverse the span, and <a href="sdk-for-ios-navigate-structs-routeplace#sdk-for-ios-navigate-s-7heresdk10RoutePlaceV21chargeInKilowattHoursSdSgvp">`RoutePlace.chargeInKilowattHours`</a>, inside <a href="sdk-for-ios-navigate-structs-trafficonsection#sdk-for-ios-navigate-s-7heresdk16TrafficOnSectionV14departurePlaceAA05RouteF0Vvp">`TrafficOnSection.departurePlace`</a> and <a href="sdk-for-ios-navigate-structs-trafficonsection#sdk-for-ios-navigate-s-7heresdk16TrafficOnSectionV12arrivalPlaceAA05RouteF0Vvp">`TrafficOnSection.arrivalPlace`</a>, the estimated battery charge in kilowatt-hours (kWh) when leaving/arriving to a section. **Note:** Only EV cars are supported.
 
   </div>
 
@@ -4238,12 +4547,16 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
   Swift
 
   ``` highlight
-  public func calculateTrafficOnRoute ( route : Route , lastTraveledSectionIndex : Int32 , traveledDistanceOnLastSectionInMeters : Int32 , currentChargeInKilowattHours : Double , completion : @escaping CalculateTrafficOnRouteCompletionHandler ) -> TaskHandle
+  public func calculateTrafficOnRoute(route: Route, lastTraveledSectionIndex: Int32, traveledDistanceOnLastSectionInMeters: Int32, currentChargeInKilowattHours: Double, completion: @escaping CalculateTrafficOnRouteCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-route">Route</a>
+  - <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk40CalculateTrafficOnRouteCompletionHandlera">CalculateTrafficOnRouteCompletionHandler</a>
+  - <a href="sdk-for-ios-navigate-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -4278,7 +4591,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
   <tr>
   <td><code> </code><em><code>currentChargeInKilowattHours</code></em><code> </code></td>
   <td><div>
-  <p>Charge level of the vehicle’s battery at the current location (in kWh). It must be non-negative and less than or equal to the value of <a href="sdk-for-ios-navigate-structs-batteryspecifications#/s:7heresdk21BatterySpecificationsV28totalCapacityInKilowattHoursSdvp"><code>BatterySpecifications.totalCapacityInKilowattHours</code></a>, otherwise the <a href="sdk-for-ios-navigate-structs-batteryspecifications"><code>BatterySpecifications</code></a> instance is considered invalid. Sets <a href="sdk-for-ios-navigate-structs-batteryspecifications#/s:7heresdk21BatterySpecificationsV28initialChargeInKilowattHoursSdvp"><code>BatterySpecifications.initialChargeInKilowattHours</code></a> to the given value.</p>
+  <p>Charge level of the vehicle’s battery at the current location (in kWh). It must be non-negative and less than or equal to the value of <a href="sdk-for-ios-navigate-structs-batteryspecifications#sdk-for-ios-navigate-s-7heresdk21BatterySpecificationsV28totalCapacityInKilowattHoursSdvp"><code>BatterySpecifications.totalCapacityInKilowattHours</code></a>, otherwise the <a href="sdk-for-ios-navigate-structs-batteryspecifications"><code>BatterySpecifications</code></a> instance is considered invalid. Sets <a href="sdk-for-ios-navigate-structs-batteryspecifications#sdk-for-ios-navigate-s-7heresdk21BatterySpecificationsV28initialChargeInKilowattHoursSdvp"><code>BatterySpecifications.initialChargeInKilowattHours</code></a> to the given value.</p>
   </div></td>
   </tr>
   <tr>
@@ -4306,7 +4619,7 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
 
 - <div>
 
-      setCustomOption(name: value: )
+   <span id="sdk-for-ios-navigate-s-7heresdk13RoutingEngineC15setCustomOption4name5valueAA0B5ErrorOSgSS_SSSgtF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-setCustomOption-name-value" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-routingengine#sdk-for-ios-navigate-s-7heresdk13RoutingEngineC15setCustomOption4name5valueAA0B5ErrorOSgSS_SSSgtF" class="token"><code>setCustomOption(name:</code><wbr></wbr><code>value:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -4337,12 +4650,14 @@ method) or use the <a href="sdk-for-ios-navigate-classes-offlineroutingengine">`
   Swift
 
   ``` highlight
-  public func setCustomOption ( name : String , value : String ?) -> RoutingError ?
+  public func setCustomOption(name: String, value: String?) -> RoutingError?
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-routingerror">RoutingError</a>
 
   </div>
 

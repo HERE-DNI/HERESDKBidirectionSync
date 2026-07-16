@@ -27,7 +27,7 @@ This protocol should be implemented in order to receive notifications from this 
 
 - <div>
 
-      onMilestoneStatusUpdated(milestone: status: )
+   <span id="sdk-for-ios-navigate-s-7heresdk23MilestoneStatusDelegateP02onbC7Updated9milestone6statusyAA0B0V_AA0bC0OtF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-onMilestoneStatusUpdated-milestone-status" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-protocols-milestonestatusdelegate#sdk-for-ios-navigate-s-7heresdk23MilestoneStatusDelegateP02onbC7Updated9milestone6statusyAA0B0V_AA0bC0OtF" class="token"><code>onMilestoneStatusUpdated(milestone:</code><wbr></wbr><code>status:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -58,12 +58,15 @@ This protocol should be implemented in order to receive notifications from this 
   Swift
 
   ``` highlight
-  func onMilestoneStatusUpdated ( milestone : Milestone , status : MilestoneStatus )
+  func onMilestoneStatusUpdated(milestone: Milestone, status: MilestoneStatus)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-milestone">Milestone</a>
+  - <a href="sdk-for-ios-navigate-enums-milestonestatus">MilestoneStatus</a>
 
   </div>
 

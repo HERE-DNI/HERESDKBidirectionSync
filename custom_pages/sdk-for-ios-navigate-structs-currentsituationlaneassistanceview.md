@@ -27,7 +27,7 @@ A struct that provides current situation lane assistance view information for th
 
 - <div>
 
-  ` `<span id="/s:7heresdk34CurrentSituationLaneAssistanceViewV5lanesSayAA0bcdF0VGvp"></span>` `<span id="//apple_ref/swift/Property/lanes" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-currentsituationlaneassistanceview#/s:7heresdk34CurrentSituationLaneAssistanceViewV5lanesSayAA0bcdF0VGvp" class="token"><code>lanes</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk34CurrentSituationLaneAssistanceViewV5lanesSayAA0bcdF0VGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-lanes" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-currentsituationlaneassistanceview#sdk-for-ios-navigate-s-7heresdk34CurrentSituationLaneAssistanceViewV5lanesSayAA0bcdF0VGvp" class="token"><code>lanes</code></a> 
 
   </div>
 
@@ -67,6 +67,10 @@ A struct that provides current situation lane assistance view information for th
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-currentsituationlaneview">CurrentSituationLaneView</a>
+
   </div>
 
   </div>
@@ -75,7 +79,7 @@ A struct that provides current situation lane assistance view information for th
 
 - <div>
 
-      init(lanes: )
+   <span id="sdk-for-ios-navigate-s-7heresdk34CurrentSituationLaneAssistanceViewV5lanesACSayAA0bcdF0VG_tcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-lanes" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-currentsituationlaneassistanceview#sdk-for-ios-navigate-s-7heresdk34CurrentSituationLaneAssistanceViewV5lanesACSayAA0bcdF0VG_tcfc" class="token"><code>init(lanes:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -114,12 +118,14 @@ A struct that provides current situation lane assistance view information for th
   Swift
 
   ``` highlight
-  public init ( lanes : [ CurrentSituationLaneView ] = [])
+  public init(lanes: [CurrentSituationLaneView] = [])
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-currentsituationlaneview">CurrentSituationLaneView</a>
 
   </div>
 

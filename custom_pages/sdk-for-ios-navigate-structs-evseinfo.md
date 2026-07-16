@@ -27,7 +27,7 @@ Represents an EVSE at the charging point. **Note:** This is a beta release of th
 
 - <div>
 
-  ` `<span id="/s:7heresdk8EVSEInfoV3uidSSvp"></span>` `<span id="//apple_ref/swift/Property/uid" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evseinfo#/s:7heresdk8EVSEInfoV3uidSSvp" class="token"><code>uid</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8EVSEInfoV3uidSSvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-uid" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evseinfo#sdk-for-ios-navigate-s-7heresdk8EVSEInfoV3uidSSvp" class="token"><code>uid</code></a> 
 
   </div>
 
@@ -45,7 +45,7 @@ Represents an EVSE at the charging point. **Note:** This is a beta release of th
 
   <div class="abstract">
 
-  Uniquely identifies the EVSE within the CPOs platform (and suboperator platforms). For example a database ID or the actual “EVSE ID”. This field can never be changed, modified or renamed. This is the ‘technical’ identification of the EVSE, not to be used as ‘human readable’ identification, use the field <a href="sdk-for-ios-navigate-structs-evseinfo#/s:7heresdk8EVSEInfoV2idSSSgvp">`EVSEInfo.id`</a> for that.
+  Uniquely identifies the EVSE within the CPOs platform (and suboperator platforms). For example a database ID or the actual “EVSE ID”. This field can never be changed, modified or renamed. This is the ‘technical’ identification of the EVSE, not to be used as ‘human readable’ identification, use the field <a href="sdk-for-ios-navigate-structs-evseinfo#sdk-for-ios-navigate-s-7heresdk8EVSEInfoV2idSSSgvp">`EVSEInfo.id`</a> for that.
 
   </div>
 
@@ -71,7 +71,7 @@ Represents an EVSE at the charging point. **Note:** This is a beta release of th
 
 - <div>
 
-  ` `<span id="/s:7heresdk8EVSEInfoV2idSSSgvp"></span>` `<span id="//apple_ref/swift/Property/id" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evseinfo#/s:7heresdk8EVSEInfoV2idSSSgvp" class="token"><code>id</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8EVSEInfoV2idSSSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-id" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evseinfo#sdk-for-ios-navigate-s-7heresdk8EVSEInfoV2idSSSgvp" class="token"><code>id</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Represents an EVSE at the charging point. **Note:** This is a beta release of th
 
 - <div>
 
-  ` `<span id="/s:7heresdk8EVSEInfoV6evseIDSSSgvp"></span>` `<span id="//apple_ref/swift/Property/evseID" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evseinfo#/s:7heresdk8EVSEInfoV6evseIDSSSgvp" class="token"><code>evseID</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8EVSEInfoV6evseIDSSSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-evseID" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evseinfo#sdk-for-ios-navigate-s-7heresdk8EVSEInfoV6evseIDSSSgvp" class="token"><code>evseID</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Represents an EVSE at the charging point. **Note:** This is a beta release of th
 
 - <div>
 
-  ` `<span id="/s:7heresdk8EVSEInfoV6statusAA9EVSEStateOvp"></span>` `<span id="//apple_ref/swift/Property/status" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evseinfo#/s:7heresdk8EVSEInfoV6statusAA9EVSEStateOvp" class="token"><code>status</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8EVSEInfoV6statusAA9EVSEStateOvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-status" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evseinfo#sdk-for-ios-navigate-s-7heresdk8EVSEInfoV6statusAA9EVSEStateOvp" class="token"><code>status</code></a> 
 
   </div>
 
@@ -195,6 +195,10 @@ Represents an EVSE at the charging point. **Note:** This is a beta release of th
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-evsestate">EVSEState</a>
+
   </div>
 
   </div>
@@ -203,7 +207,7 @@ Represents an EVSE at the charging point. **Note:** This is a beta release of th
 
 - <div>
 
-  ` `<span id="/s:7heresdk8EVSEInfoV11lastUpdated10Foundation4DateVvp"></span>` `<span id="//apple_ref/swift/Property/lastUpdated" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evseinfo#/s:7heresdk8EVSEInfoV11lastUpdated10Foundation4DateVvp" class="token"><code>lastUpdated</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8EVSEInfoV11lastUpdated10Foundation4DateVvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-lastUpdated" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evseinfo#sdk-for-ios-navigate-s-7heresdk8EVSEInfoV11lastUpdated10Foundation4DateVvp" class="token"><code>lastUpdated</code></a> 
 
   </div>
 
@@ -247,7 +251,7 @@ Represents an EVSE at the charging point. **Note:** This is a beta release of th
 
 - <div>
 
-  ` `<span id="/s:7heresdk8EVSEInfoV10connectorsSayAA19EVChargingConnectorVGvp"></span>` `<span id="//apple_ref/swift/Property/connectors" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evseinfo#/s:7heresdk8EVSEInfoV10connectorsSayAA19EVChargingConnectorVGvp" class="token"><code>connectors</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8EVSEInfoV10connectorsSayAA19EVChargingConnectorVGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-connectors" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evseinfo#sdk-for-ios-navigate-s-7heresdk8EVSEInfoV10connectorsSayAA19EVChargingConnectorVGvp" class="token"><code>connectors</code></a> 
 
   </div>
 
@@ -283,6 +287,10 @@ Represents an EVSE at the charging point. **Note:** This is a beta release of th
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-evchargingconnector">EVChargingConnector</a>
+
   </div>
 
   </div>
@@ -291,7 +299,7 @@ Represents an EVSE at the charging point. **Note:** This is a beta release of th
 
 - <div>
 
-  ` `<span id="/s:7heresdk8EVSEInfoV12capabilitiesSayAA14EVSECapabilityOGvp"></span>` `<span id="//apple_ref/swift/Property/capabilities" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evseinfo#/s:7heresdk8EVSEInfoV12capabilitiesSayAA14EVSECapabilityOGvp" class="token"><code>capabilities</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8EVSEInfoV12capabilitiesSayAA14EVSECapabilityOGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-capabilities" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evseinfo#sdk-for-ios-navigate-s-7heresdk8EVSEInfoV12capabilitiesSayAA14EVSECapabilityOGvp" class="token"><code>capabilities</code></a> 
 
   </div>
 
@@ -327,6 +335,10 @@ Represents an EVSE at the charging point. **Note:** This is a beta release of th
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-evsecapability">EVSECapability</a>
+
   </div>
 
   </div>
@@ -335,7 +347,7 @@ Represents an EVSE at the charging point. **Note:** This is a beta release of th
 
 - <div>
 
-  ` `<span id="/s:7heresdk8EVSEInfoV10floorLevelSSSgvp"></span>` `<span id="//apple_ref/swift/Property/floorLevel" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evseinfo#/s:7heresdk8EVSEInfoV10floorLevelSSSgvp" class="token"><code>floorLevel</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8EVSEInfoV10floorLevelSSSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-floorLevel" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evseinfo#sdk-for-ios-navigate-s-7heresdk8EVSEInfoV10floorLevelSSSgvp" class="token"><code>floorLevel</code></a> 
 
   </div>
 
@@ -379,7 +391,7 @@ Represents an EVSE at the charging point. **Note:** This is a beta release of th
 
 - <div>
 
-  ` `<span id="/s:7heresdk8EVSEInfoV17physicalReferenceSSSgvp"></span>` `<span id="//apple_ref/swift/Property/physicalReference" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evseinfo#/s:7heresdk8EVSEInfoV17physicalReferenceSSSgvp" class="token"><code>physicalReference</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8EVSEInfoV17physicalReferenceSSSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-physicalReference" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evseinfo#sdk-for-ios-navigate-s-7heresdk8EVSEInfoV17physicalReferenceSSSgvp" class="token"><code>physicalReference</code></a> 
 
   </div>
 
@@ -423,7 +435,7 @@ Represents an EVSE at the charging point. **Note:** This is a beta release of th
 
 - <div>
 
-  ` `<span id="/s:7heresdk8EVSEInfoV11coordinatesAA14GeoCoordinatesVSgvp"></span>` `<span id="//apple_ref/swift/Property/coordinates" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evseinfo#/s:7heresdk8EVSEInfoV11coordinatesAA14GeoCoordinatesVSgvp" class="token"><code>coordinates</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8EVSEInfoV11coordinatesAA14GeoCoordinatesVSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-coordinates" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evseinfo#sdk-for-ios-navigate-s-7heresdk8EVSEInfoV11coordinatesAA14GeoCoordinatesVSgvp" class="token"><code>coordinates</code></a> 
 
   </div>
 
@@ -459,6 +471,10 @@ Represents an EVSE at the charging point. **Note:** This is a beta release of th
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-geocoordinates">GeoCoordinates</a>
+
   </div>
 
   </div>
@@ -467,7 +483,7 @@ Represents an EVSE at the charging point. **Note:** This is a beta release of th
 
 - <div>
 
-  ` `<span id="/s:7heresdk8EVSEInfoV15paymentSupportsSayAA18EVSEPaymentSupportOGvp"></span>` `<span id="//apple_ref/swift/Property/paymentSupports" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evseinfo#/s:7heresdk8EVSEInfoV15paymentSupportsSayAA18EVSEPaymentSupportOGvp" class="token"><code>paymentSupports</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8EVSEInfoV15paymentSupportsSayAA18EVSEPaymentSupportOGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-paymentSupports" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evseinfo#sdk-for-ios-navigate-s-7heresdk8EVSEInfoV15paymentSupportsSayAA18EVSEPaymentSupportOGvp" class="token"><code>paymentSupports</code></a> 
 
   </div>
 
@@ -503,6 +519,10 @@ Represents an EVSE at the charging point. **Note:** This is a beta release of th
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-evsepaymentsupport">EVSEPaymentSupport</a>
+
   </div>
 
   </div>
@@ -511,7 +531,7 @@ Represents an EVSE at the charging point. **Note:** This is a beta release of th
 
 - <div>
 
-      init(uid: id: evseID: status: lastUpdated: connectors: capabilities: floorLevel: physicalReference: coordinates: paymentSupports: )
+   <span id="sdk-for-ios-navigate-s-7heresdk8EVSEInfoV3uid2id6evseID6status11lastUpdated10connectors12capabilities10floorLevel17physicalReference11coordinates15paymentSupportsACSS_SSSgAoA9EVSEStateO10Foundation4DateVSayAA19EVChargingConnectorVGSayAA14EVSECapabilityOGA2oA14GeoCoordinatesVSgSayAA18EVSEPaymentSupportOGtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-uid-id-evseID-status-lastUpdated-connectors-capabilities-floorLevel-physicalReference-coordinates-paymentSupports" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evseinfo#sdk-for-ios-navigate-s-7heresdk8EVSEInfoV3uid2id6evseID6status11lastUpdated10connectors12capabilities10floorLevel17physicalReference11coordinates15paymentSupportsACSS_SSSgAoA9EVSEStateO10Foundation4DateVSayAA19EVChargingConnectorVGSayAA14EVSECapabilityOGA2oA14GeoCoordinatesVSgSayAA18EVSEPaymentSupportOGtcfc" class="token"><code>init(uid:</code><wbr></wbr><code>id:</code><wbr></wbr><code>evseID:</code><wbr></wbr><code>status:</code><wbr></wbr><code>lastUpdated:</code><wbr></wbr><code>connectors:</code><wbr></wbr><code>capabilities:</code><wbr></wbr><code>floorLevel:</code><wbr></wbr><code>physicalReference:</code><wbr></wbr><code>coordinates:</code><wbr></wbr><code>paymentSupports:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -542,12 +562,18 @@ Represents an EVSE at the charging point. **Note:** This is a beta release of th
   Swift
 
   ``` highlight
-  public init ( uid : String = "" , id : String ? = nil , evseID : String ? = nil , status : EVSEState = EVSEState . unknown , lastUpdated : Date = Date ( timeIntervalSince1970 : 0 ), connectors : [ EVChargingConnector ] = [], capabilities : [ EVSECapability ] = [], floorLevel : String ? = nil , physicalReference : String ? = nil , coordinates : GeoCoordinates ? = nil , paymentSupports : [ EVSEPaymentSupport ] = [])
+  public init(uid: String = "", id: String? = nil, evseID: String? = nil, status: EVSEState = EVSEState.unknown, lastUpdated: Date = Date(timeIntervalSince1970: 0), connectors: [EVChargingConnector] = [], capabilities: [EVSECapability] = [], floorLevel: String? = nil, physicalReference: String? = nil, coordinates: GeoCoordinates? = nil, paymentSupports: [EVSEPaymentSupport] = [])
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-evsestate">EVSEState</a>
+  - <a href="sdk-for-ios-navigate-structs-evchargingconnector">EVChargingConnector</a>
+  - <a href="sdk-for-ios-navigate-enums-evsecapability">EVSECapability</a>
+  - <a href="sdk-for-ios-navigate-structs-geocoordinates">GeoCoordinates</a>
+  - <a href="sdk-for-ios-navigate-enums-evsepaymentsupport">EVSEPaymentSupport</a>
 
   </div>
 

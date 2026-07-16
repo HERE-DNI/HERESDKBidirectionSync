@@ -29,7 +29,7 @@ It contains a list of map markers grouped on map view under single icon of marke
 
 - <div>
 
-  ` `<span id="/s:7heresdk16MapMarkerClusterC8GroupingV7markersSayAA0bC0CGvp"></span>` `<span id="//apple_ref/swift/Property/markers" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapmarkercluster-grouping#/s:7heresdk16MapMarkerClusterC8GroupingV7markersSayAA0bC0CGvp" class="token"><code>markers</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16MapMarkerClusterC8GroupingV7markersSayAA0bC0CGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-markers" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapmarkercluster-grouping#sdk-for-ios-navigate-s-7heresdk16MapMarkerClusterC8GroupingV7markersSayAA0bC0CGvp" class="token"><code>markers</code></a> 
 
   </div>
 
@@ -65,6 +65,10 @@ It contains a list of map markers grouped on map view under single icon of marke
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mapmarker">MapMarker</a>
+
   </div>
 
   </div>
@@ -73,7 +77,7 @@ It contains a list of map markers grouped on map view under single icon of marke
 
 - <div>
 
-  ` `<span id="/s:7heresdk16MapMarkerClusterC8GroupingV6parentACvp"></span>` `<span id="//apple_ref/swift/Property/parent" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapmarkercluster-grouping#/s:7heresdk16MapMarkerClusterC8GroupingV6parentACvp" class="token"><code>parent</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16MapMarkerClusterC8GroupingV6parentACvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-parent" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapmarkercluster-grouping#sdk-for-ios-navigate-s-7heresdk16MapMarkerClusterC8GroupingV6parentACvp" class="token"><code>parent</code></a> 
 
   </div>
 
@@ -91,7 +95,7 @@ It contains a list of map markers grouped on map view under single icon of marke
 
   <div class="abstract">
 
-  Map marker cluster that entries in <a href="sdk-for-ios-navigate-classes-mapmarkercluster-grouping#/s:7heresdk16MapMarkerClusterC8GroupingV7markersSayAA0bC0CGvp">`MapMarkerCluster.Grouping.markers`</a> belong to.
+  Map marker cluster that entries in <a href="sdk-for-ios-navigate-classes-mapmarkercluster-grouping#sdk-for-ios-navigate-s-7heresdk16MapMarkerClusterC8GroupingV7markersSayAA0bC0CGvp">`MapMarkerCluster.Grouping.markers`</a> belong to.
 
   </div>
 
@@ -109,6 +113,10 @@ It contains a list of map markers grouped on map view under single icon of marke
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mapmarkercluster">MapMarkerCluster</a>
+
   </div>
 
   </div>
@@ -117,7 +125,7 @@ It contains a list of map markers grouped on map view under single icon of marke
 
 - <div>
 
-      init(markers: parent: )
+   <span id="sdk-for-ios-navigate-s-7heresdk16MapMarkerClusterC8GroupingV7markers6parentAESayAA0bC0CG_ACtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-markers-parent" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapmarkercluster-grouping#sdk-for-ios-navigate-s-7heresdk16MapMarkerClusterC8GroupingV7markers6parentAESayAA0bC0CG_ACtcfc" class="token"><code>init(markers:</code><wbr></wbr><code>parent:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -148,12 +156,15 @@ It contains a list of map markers grouped on map view under single icon of marke
   Swift
 
   ``` highlight
-  public init ( markers : [ MapMarker ], parent : MapMarkerCluster )
+  public init(markers: [MapMarker], parent: MapMarkerCluster)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mapmarker">MapMarker</a>
+  - <a href="sdk-for-ios-navigate-classes-mapmarkercluster">MapMarkerCluster</a>
 
   </div>
 

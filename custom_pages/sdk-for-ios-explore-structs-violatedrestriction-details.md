@@ -27,7 +27,7 @@ Optional restriction details, contains additional information depending on the s
 
 - <div>
 
-  ` `<span id="/s:7heresdk19ViolatedRestrictionV7DetailsV27maxWeightPerAxleInKilogramss5Int32VSgvp"></span>` `<span id="//apple_ref/swift/Property/maxWeightPerAxleInKilograms" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-violatedrestriction-details#/s:7heresdk19ViolatedRestrictionV7DetailsV27maxWeightPerAxleInKilogramss5Int32VSgvp" class="token"><code>maxWeightPerAxleInKilograms</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19ViolatedRestrictionV7DetailsV27maxWeightPerAxleInKilogramss5Int32VSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-maxWeightPerAxleInKilograms" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-violatedrestriction-details#sdk-for-ios-explore-s-7heresdk19ViolatedRestrictionV7DetailsV27maxWeightPerAxleInKilogramss5Int32VSgvp" class="token"><code>maxWeightPerAxleInKilograms</code></a> 
 
   </div>
 
@@ -45,7 +45,7 @@ Optional restriction details, contains additional information depending on the s
 
   <div class="abstract">
 
-  Max permitted weight per axle during the trip, in kilograms. This property will be set if the <a href="sdk-for-ios-explore-structs-vehiclespecification#/s:7heresdk20VehicleSpecificationV24weightPerAxleInKilogramss5Int32VSgvp">`VehicleSpecification.weightPerAxleInKilograms`</a> exceeds this value.
+  Max permitted weight per axle during the trip, in kilograms. This property will be set if the <a href="sdk-for-ios-explore-structs-vehiclespecification#sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV24weightPerAxleInKilogramss5Int32VSgvp">`VehicleSpecification.weightPerAxleInKilograms`</a> exceeds this value.
 
   </div>
 
@@ -71,7 +71,7 @@ Optional restriction details, contains additional information depending on the s
 
 - <div>
 
-  ` `<span id="/s:7heresdk19ViolatedRestrictionV7DetailsV32maxWeightPerAxleGroupInKilogramsAA03MaxhiF0VSgvp"></span>` `<span id="//apple_ref/swift/Property/maxWeightPerAxleGroupInKilograms" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-violatedrestriction-details#/s:7heresdk19ViolatedRestrictionV7DetailsV32maxWeightPerAxleGroupInKilogramsAA03MaxhiF0VSgvp" class="token"><code>maxWeightPerAxleGroupInKilograms</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19ViolatedRestrictionV7DetailsV32maxWeightPerAxleGroupInKilogramsAA03MaxhiF0VSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-maxWeightPerAxleGroupInKilograms" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-violatedrestriction-details#sdk-for-ios-explore-s-7heresdk19ViolatedRestrictionV7DetailsV32maxWeightPerAxleGroupInKilogramsAA03MaxhiF0VSgvp" class="token"><code>maxWeightPerAxleGroupInKilograms</code></a> 
 
   </div>
 
@@ -89,7 +89,7 @@ Optional restriction details, contains additional information depending on the s
 
   <div class="abstract">
 
-  Max permitted weight per axle group during the trip, in kilograms. This property will be set if the <a href="sdk-for-ios-explore-structs-vehiclespecification#/s:7heresdk20VehicleSpecificationV18weightPerAxleGroupAA06WeightefG0VSgvp">`VehicleSpecification.weightPerAxleGroup`</a> exceeds this value.
+  Max permitted weight per axle group during the trip, in kilograms. This property will be set if the <a href="sdk-for-ios-explore-structs-vehiclespecification#sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV18weightPerAxleGroupAA06WeightefG0VSgvp">`VehicleSpecification.weightPerAxleGroup`</a> exceeds this value.
 
   </div>
 
@@ -107,6 +107,10 @@ Optional restriction details, contains additional information depending on the s
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-maxaxlegroupweight">MaxAxleGroupWeight</a>
+
   </div>
 
   </div>
@@ -115,7 +119,7 @@ Optional restriction details, contains additional information depending on the s
 
 - <div>
 
-  ` `<span id="/s:7heresdk19ViolatedRestrictionV7DetailsV22maxHeightInCentimeterss5Int32VSgvp"></span>` `<span id="//apple_ref/swift/Property/maxHeightInCentimeters" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-violatedrestriction-details#/s:7heresdk19ViolatedRestrictionV7DetailsV22maxHeightInCentimeterss5Int32VSgvp" class="token"><code>maxHeightInCentimeters</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19ViolatedRestrictionV7DetailsV22maxHeightInCentimeterss5Int32VSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-maxHeightInCentimeters" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-violatedrestriction-details#sdk-for-ios-explore-s-7heresdk19ViolatedRestrictionV7DetailsV22maxHeightInCentimeterss5Int32VSgvp" class="token"><code>maxHeightInCentimeters</code></a> 
 
   </div>
 
@@ -133,7 +137,7 @@ Optional restriction details, contains additional information depending on the s
 
   <div class="abstract">
 
-  Max permitted height during the trip, in centimeters. This property will be set if the <a href="sdk-for-ios-explore-structs-vehiclespecification#/s:7heresdk20VehicleSpecificationV19heightInCentimeterss5Int32VSgvp">`VehicleSpecification.heightInCentimeters`</a> exceeds this value.
+  Max permitted height during the trip, in centimeters. This property will be set if the <a href="sdk-for-ios-explore-structs-vehiclespecification#sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV19heightInCentimeterss5Int32VSgvp">`VehicleSpecification.heightInCentimeters`</a> exceeds this value.
 
   </div>
 
@@ -159,7 +163,7 @@ Optional restriction details, contains additional information depending on the s
 
 - <div>
 
-  ` `<span id="/s:7heresdk19ViolatedRestrictionV7DetailsV21maxWidthInCentimeterss5Int32VSgvp"></span>` `<span id="//apple_ref/swift/Property/maxWidthInCentimeters" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-violatedrestriction-details#/s:7heresdk19ViolatedRestrictionV7DetailsV21maxWidthInCentimeterss5Int32VSgvp" class="token"><code>maxWidthInCentimeters</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19ViolatedRestrictionV7DetailsV21maxWidthInCentimeterss5Int32VSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-maxWidthInCentimeters" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-violatedrestriction-details#sdk-for-ios-explore-s-7heresdk19ViolatedRestrictionV7DetailsV21maxWidthInCentimeterss5Int32VSgvp" class="token"><code>maxWidthInCentimeters</code></a> 
 
   </div>
 
@@ -177,7 +181,7 @@ Optional restriction details, contains additional information depending on the s
 
   <div class="abstract">
 
-  Max permitted width during the trip, in centimeters. This property will be set if the <a href="sdk-for-ios-explore-structs-vehiclespecification#/s:7heresdk20VehicleSpecificationV18widthInCentimeterss5Int32VSgvp">`VehicleSpecification.widthInCentimeters`</a> exceeds this value.
+  Max permitted width during the trip, in centimeters. This property will be set if the <a href="sdk-for-ios-explore-structs-vehiclespecification#sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV18widthInCentimeterss5Int32VSgvp">`VehicleSpecification.widthInCentimeters`</a> exceeds this value.
 
   </div>
 
@@ -203,7 +207,7 @@ Optional restriction details, contains additional information depending on the s
 
 - <div>
 
-  ` `<span id="/s:7heresdk19ViolatedRestrictionV7DetailsV22maxLengthInCentimeterss5Int32VSgvp"></span>` `<span id="//apple_ref/swift/Property/maxLengthInCentimeters" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-violatedrestriction-details#/s:7heresdk19ViolatedRestrictionV7DetailsV22maxLengthInCentimeterss5Int32VSgvp" class="token"><code>maxLengthInCentimeters</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19ViolatedRestrictionV7DetailsV22maxLengthInCentimeterss5Int32VSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-maxLengthInCentimeters" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-violatedrestriction-details#sdk-for-ios-explore-s-7heresdk19ViolatedRestrictionV7DetailsV22maxLengthInCentimeterss5Int32VSgvp" class="token"><code>maxLengthInCentimeters</code></a> 
 
   </div>
 
@@ -221,7 +225,7 @@ Optional restriction details, contains additional information depending on the s
 
   <div class="abstract">
 
-  Max permitted length during the trip, in centimeters. This property will be set if the <a href="sdk-for-ios-explore-structs-vehiclespecification#/s:7heresdk20VehicleSpecificationV19lengthInCentimeterss5Int32VSgvp">`VehicleSpecification.lengthInCentimeters`</a> exceeds this value.
+  Max permitted length during the trip, in centimeters. This property will be set if the <a href="sdk-for-ios-explore-structs-vehiclespecification#sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV19lengthInCentimeterss5Int32VSgvp">`VehicleSpecification.lengthInCentimeters`</a> exceeds this value.
 
   </div>
 
@@ -247,7 +251,7 @@ Optional restriction details, contains additional information depending on the s
 
 - <div>
 
-  ` `<span id="/s:7heresdk19ViolatedRestrictionV7DetailsV18forbiddenAxleCountAA12IntegerRangeVSgvp"></span>` `<span id="//apple_ref/swift/Property/forbiddenAxleCount" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-violatedrestriction-details#/s:7heresdk19ViolatedRestrictionV7DetailsV18forbiddenAxleCountAA12IntegerRangeVSgvp" class="token"><code>forbiddenAxleCount</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19ViolatedRestrictionV7DetailsV18forbiddenAxleCountAA12IntegerRangeVSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-forbiddenAxleCount" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-violatedrestriction-details#sdk-for-ios-explore-s-7heresdk19ViolatedRestrictionV7DetailsV18forbiddenAxleCountAA12IntegerRangeVSgvp" class="token"><code>forbiddenAxleCount</code></a> 
 
   </div>
 
@@ -265,7 +269,7 @@ Optional restriction details, contains additional information depending on the s
 
   <div class="abstract">
 
-  The restriction to trucks with axles number within specified range during the trip. This property will be set if the <a href="sdk-for-ios-explore-structs-vehiclespecification#/s:7heresdk20VehicleSpecificationV9axleCounts5Int32VSgvp">`VehicleSpecification.axleCount`</a> is within this range.
+  The restriction to trucks with axles number within specified range during the trip. This property will be set if the <a href="sdk-for-ios-explore-structs-vehiclespecification#sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV9axleCounts5Int32VSgvp">`VehicleSpecification.axleCount`</a> is within this range.
 
   </div>
 
@@ -283,6 +287,10 @@ Optional restriction details, contains additional information depending on the s
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-integerrange">IntegerRange</a>
+
   </div>
 
   </div>
@@ -291,7 +299,7 @@ Optional restriction details, contains additional information depending on the s
 
 - <div>
 
-  ` `<span id="/s:7heresdk19ViolatedRestrictionV7DetailsV21forbiddenTrailerCountAA12IntegerRangeVSgvp"></span>` `<span id="//apple_ref/swift/Property/forbiddenTrailerCount" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-violatedrestriction-details#/s:7heresdk19ViolatedRestrictionV7DetailsV21forbiddenTrailerCountAA12IntegerRangeVSgvp" class="token"><code>forbiddenTrailerCount</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19ViolatedRestrictionV7DetailsV21forbiddenTrailerCountAA12IntegerRangeVSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-forbiddenTrailerCount" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-violatedrestriction-details#sdk-for-ios-explore-s-7heresdk19ViolatedRestrictionV7DetailsV21forbiddenTrailerCountAA12IntegerRangeVSgvp" class="token"><code>forbiddenTrailerCount</code></a> 
 
   </div>
 
@@ -309,7 +317,7 @@ Optional restriction details, contains additional information depending on the s
 
   <div class="abstract">
 
-  Constrains the restriction to trucks with number of trailer within specified range during the trip. This property will be set if the <a href="sdk-for-ios-explore-structs-vehiclespecification#/s:7heresdk20VehicleSpecificationV12trailerCounts5Int32VSgvp">`VehicleSpecification.trailerCount`</a> is within this range.
+  Constrains the restriction to trucks with number of trailer within specified range during the trip. This property will be set if the <a href="sdk-for-ios-explore-structs-vehiclespecification#sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV12trailerCounts5Int32VSgvp">`VehicleSpecification.trailerCount`</a> is within this range.
 
   </div>
 
@@ -327,6 +335,10 @@ Optional restriction details, contains additional information depending on the s
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-integerrange">IntegerRange</a>
+
   </div>
 
   </div>
@@ -335,7 +347,7 @@ Optional restriction details, contains additional information depending on the s
 
 - <div>
 
-  ` `<span id="/s:7heresdk19ViolatedRestrictionV7DetailsV23forbiddenHazardousGoodsSayAA0F8MaterialOGvp"></span>` `<span id="//apple_ref/swift/Property/forbiddenHazardousGoods" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-violatedrestriction-details#/s:7heresdk19ViolatedRestrictionV7DetailsV23forbiddenHazardousGoodsSayAA0F8MaterialOGvp" class="token"><code>forbiddenHazardousGoods</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19ViolatedRestrictionV7DetailsV23forbiddenHazardousGoodsSayAA0F8MaterialOGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-forbiddenHazardousGoods" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-violatedrestriction-details#sdk-for-ios-explore-s-7heresdk19ViolatedRestrictionV7DetailsV23forbiddenHazardousGoodsSayAA0F8MaterialOGvp" class="token"><code>forbiddenHazardousGoods</code></a> 
 
   </div>
 
@@ -353,7 +365,7 @@ Optional restriction details, contains additional information depending on the s
 
   <div class="abstract">
 
-  There are two lists for our trip: Hazardous goods restrictions applied during the trip, and the list used for the route calculation provided using <a href="sdk-for-ios-explore-structs-vehiclespecification#/s:7heresdk20VehicleSpecificationV18hazardousMaterialsSayAA17HazardousMaterialOGvp">`VehicleSpecification.hazardousMaterials`</a> from <a href="sdk-for-ios-explore-structs-transportspecification#/s:7heresdk22TransportSpecificationV07vehicleC0AA07VehicleC0VSgvp">`TransportSpecification.vehicleSpecification`</a> from <a href="sdk-for-ios-explore-structs-routingoptions#/s:7heresdk14RoutingOptionsV22transportSpecificationAA09TransportE0Vvp">`RoutingOptions.transportSpecification`</a>. This property is the intersection of the two lists.
+  There are two lists for our trip: Hazardous goods restrictions applied during the trip, and the list used for the route calculation provided using <a href="sdk-for-ios-explore-structs-vehiclespecification#sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV18hazardousMaterialsSayAA17HazardousMaterialOGvp">`VehicleSpecification.hazardousMaterials`</a> from <a href="sdk-for-ios-explore-structs-transportspecification#sdk-for-ios-explore-s-7heresdk22TransportSpecificationV07vehicleC0AA07VehicleC0VSgvp">`TransportSpecification.vehicleSpecification`</a> from <a href="sdk-for-ios-explore-structs-routingoptions#sdk-for-ios-explore-s-7heresdk14RoutingOptionsV22transportSpecificationAA09TransportE0Vvp">`RoutingOptions.transportSpecification`</a>. This property is the intersection of the two lists.
 
   **Note** <a href="sdk-for-ios-explore-structs-roadsignwarning">`RoadSignWarning`</a> events and `RouteViolations` are only given for violations that are indicated on a road sign. Additional legal restrictions might apply when transporting hazardous materials.
 
@@ -373,6 +385,10 @@ Optional restriction details, contains additional information depending on the s
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-hazardousmaterial">HazardousMaterial</a>
+
   </div>
 
   </div>
@@ -381,7 +397,7 @@ Optional restriction details, contains additional information depending on the s
 
 - <div>
 
-  ` `<span id="/s:7heresdk19ViolatedRestrictionV7DetailsV17maxTunnelCategoryAA0fG0OSgvp"></span>` `<span id="//apple_ref/swift/Property/maxTunnelCategory" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-violatedrestriction-details#/s:7heresdk19ViolatedRestrictionV7DetailsV17maxTunnelCategoryAA0fG0OSgvp" class="token"><code>maxTunnelCategory</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19ViolatedRestrictionV7DetailsV17maxTunnelCategoryAA0fG0OSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-maxTunnelCategory" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-violatedrestriction-details#sdk-for-ios-explore-s-7heresdk19ViolatedRestrictionV7DetailsV17maxTunnelCategoryAA0fG0OSgvp" class="token"><code>maxTunnelCategory</code></a> 
 
   </div>
 
@@ -399,7 +415,7 @@ Optional restriction details, contains additional information depending on the s
 
   <div class="abstract">
 
-  Tunnel category to restrict transport of specific goods during the trip. This property will be set if the <a href="sdk-for-ios-explore-structs-vehiclespecification#/s:7heresdk20VehicleSpecificationV14tunnelCategoryAA06TunnelE0OSgvp">`VehicleSpecification.tunnelCategory`</a> from <a href="sdk-for-ios-explore-structs-transportspecification#/s:7heresdk22TransportSpecificationV07vehicleC0AA07VehicleC0VSgvp">`TransportSpecification.vehicleSpecification`</a> from <a href="sdk-for-ios-explore-structs-routingoptions#/s:7heresdk14RoutingOptionsV22transportSpecificationAA09TransportE0Vvp">`RoutingOptions.transportSpecification`</a> exceeds this value.
+  Tunnel category to restrict transport of specific goods during the trip. This property will be set if the <a href="sdk-for-ios-explore-structs-vehiclespecification#sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV14tunnelCategoryAA06TunnelE0OSgvp">`VehicleSpecification.tunnelCategory`</a> from <a href="sdk-for-ios-explore-structs-transportspecification#sdk-for-ios-explore-s-7heresdk22TransportSpecificationV07vehicleC0AA07VehicleC0VSgvp">`TransportSpecification.vehicleSpecification`</a> from <a href="sdk-for-ios-explore-structs-routingoptions#sdk-for-ios-explore-s-7heresdk14RoutingOptionsV22transportSpecificationAA09TransportE0Vvp">`RoutingOptions.transportSpecification`</a> exceeds this value.
 
   </div>
 
@@ -417,6 +433,10 @@ Optional restriction details, contains additional information depending on the s
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-tunnelcategory">TunnelCategory</a>
+
   </div>
 
   </div>
@@ -425,7 +445,7 @@ Optional restriction details, contains additional information depending on the s
 
 - <div>
 
-  ` `<span id="/s:7heresdk19ViolatedRestrictionV7DetailsV18forbiddenTruckTypeAA0fG0OSgvp"></span>` `<span id="//apple_ref/swift/Property/forbiddenTruckType" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-violatedrestriction-details#/s:7heresdk19ViolatedRestrictionV7DetailsV18forbiddenTruckTypeAA0fG0OSgvp" class="token"><code>forbiddenTruckType</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19ViolatedRestrictionV7DetailsV18forbiddenTruckTypeAA0fG0OSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-forbiddenTruckType" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-violatedrestriction-details#sdk-for-ios-explore-s-7heresdk19ViolatedRestrictionV7DetailsV18forbiddenTruckTypeAA0fG0OSgvp" class="token"><code>forbiddenTruckType</code></a> 
 
   </div>
 
@@ -456,12 +476,15 @@ Optional restriction details, contains additional information depending on the s
   Swift
 
   ``` highlight
-  @available(*, deprecated, message: "Will be removed in v4.27.0. Use `forbidden_truck_category` instead.") public var forbiddenTruckType : TruckType ?
+  @available(*, deprecated, message: "Will be removed in v4.27.0. Use `forbidden_truck_category` instead.")
+  public var forbiddenTruckType: TruckType?
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-trucktype">TruckType</a>
 
   </div>
 
@@ -471,7 +494,7 @@ Optional restriction details, contains additional information depending on the s
 
 - <div>
 
-  ` `<span id="/s:7heresdk19ViolatedRestrictionV7DetailsV22forbiddenTruckCategoryAA0fG0OSgvp"></span>` `<span id="//apple_ref/swift/Property/forbiddenTruckCategory" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-violatedrestriction-details#/s:7heresdk19ViolatedRestrictionV7DetailsV22forbiddenTruckCategoryAA0fG0OSgvp" class="token"><code>forbiddenTruckCategory</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19ViolatedRestrictionV7DetailsV22forbiddenTruckCategoryAA0fG0OSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-forbiddenTruckCategory" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-violatedrestriction-details#sdk-for-ios-explore-s-7heresdk19ViolatedRestrictionV7DetailsV22forbiddenTruckCategoryAA0fG0OSgvp" class="token"><code>forbiddenTruckCategory</code></a> 
 
   </div>
 
@@ -507,6 +530,10 @@ Optional restriction details, contains additional information depending on the s
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-truckcategory">TruckCategory</a>
+
   </div>
 
   </div>
@@ -515,7 +542,7 @@ Optional restriction details, contains additional information depending on the s
 
 - <div>
 
-  ` `<span id="/s:7heresdk19ViolatedRestrictionV7DetailsV23forbiddenTruckRoadTypesSayAA0fG4TypeOGvp"></span>` `<span id="//apple_ref/swift/Property/forbiddenTruckRoadTypes" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-violatedrestriction-details#/s:7heresdk19ViolatedRestrictionV7DetailsV23forbiddenTruckRoadTypesSayAA0fG4TypeOGvp" class="token"><code>forbiddenTruckRoadTypes</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19ViolatedRestrictionV7DetailsV23forbiddenTruckRoadTypesSayAA0fG4TypeOGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-forbiddenTruckRoadTypes" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-violatedrestriction-details#sdk-for-ios-explore-s-7heresdk19ViolatedRestrictionV7DetailsV23forbiddenTruckRoadTypesSayAA0fG4TypeOGvp" class="token"><code>forbiddenTruckRoadTypes</code></a> 
 
   </div>
 
@@ -551,6 +578,10 @@ Optional restriction details, contains additional information depending on the s
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-truckroadtype">TruckRoadType</a>
+
   </div>
 
   </div>
@@ -559,7 +590,7 @@ Optional restriction details, contains additional information depending on the s
 
 - <div>
 
-  ` `<span id="/s:7heresdk19ViolatedRestrictionV7DetailsV20routingZoneReferenceSSSgvp"></span>` `<span id="//apple_ref/swift/Property/routingZoneReference" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-violatedrestriction-details#/s:7heresdk19ViolatedRestrictionV7DetailsV20routingZoneReferenceSSSgvp" class="token"><code>routingZoneReference</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19ViolatedRestrictionV7DetailsV20routingZoneReferenceSSSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-routingZoneReference" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-violatedrestriction-details#sdk-for-ios-explore-s-7heresdk19ViolatedRestrictionV7DetailsV20routingZoneReferenceSSSgvp" class="token"><code>routingZoneReference</code></a> 
 
   </div>
 
@@ -577,7 +608,7 @@ Optional restriction details, contains additional information depending on the s
 
   <div class="abstract">
 
-  Contains the restricted routing zone reference This property will be set if the <a href="sdk-for-ios-explore-structs-avoidanceoptions#/s:7heresdk16AvoidanceOptionsV14zoneCategoriesSayAA12ZoneCategoryOGvp">`AvoidanceOptions.zoneCategories`</a> is not empty
+  Contains the restricted routing zone reference This property will be set if the <a href="sdk-for-ios-explore-structs-avoidanceoptions#sdk-for-ios-explore-s-7heresdk16AvoidanceOptionsV14zoneCategoriesSayAA12ZoneCategoryOGvp">`AvoidanceOptions.zoneCategories`</a> is not empty
 
   </div>
 
@@ -603,7 +634,7 @@ Optional restriction details, contains additional information depending on the s
 
 - <div>
 
-  ` `<span id="/s:7heresdk19ViolatedRestrictionV7DetailsV29maxPayloadCapacityInKilogramss5Int32VSgvp"></span>` `<span id="//apple_ref/swift/Property/maxPayloadCapacityInKilograms" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-violatedrestriction-details#/s:7heresdk19ViolatedRestrictionV7DetailsV29maxPayloadCapacityInKilogramss5Int32VSgvp" class="token"><code>maxPayloadCapacityInKilograms</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19ViolatedRestrictionV7DetailsV29maxPayloadCapacityInKilogramss5Int32VSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-maxPayloadCapacityInKilograms" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-violatedrestriction-details#sdk-for-ios-explore-s-7heresdk19ViolatedRestrictionV7DetailsV29maxPayloadCapacityInKilogramss5Int32VSgvp" class="token"><code>maxPayloadCapacityInKilograms</code></a> 
 
   </div>
 
@@ -621,7 +652,7 @@ Optional restriction details, contains additional information depending on the s
 
   <div class="abstract">
 
-  Max permitted payload capacity during the trip, in kilograms. This property will be set if the <a href="sdk-for-ios-explore-structs-vehiclespecification#/s:7heresdk20VehicleSpecificationV26payloadCapacityInKilogramss5Int32VSgvp">`VehicleSpecification.payloadCapacityInKilograms`</a> exceeds this value.
+  Max permitted payload capacity during the trip, in kilograms. This property will be set if the <a href="sdk-for-ios-explore-structs-vehiclespecification#sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV26payloadCapacityInKilogramss5Int32VSgvp">`VehicleSpecification.payloadCapacityInKilograms`</a> exceeds this value.
 
   </div>
 
@@ -647,7 +678,7 @@ Optional restriction details, contains additional information depending on the s
 
 - <div>
 
-  ` `<span id="/s:7heresdk19ViolatedRestrictionV7DetailsV8timeRuleAA04TimeF0CSgvp"></span>` `<span id="//apple_ref/swift/Property/timeRule" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-violatedrestriction-details#/s:7heresdk19ViolatedRestrictionV7DetailsV8timeRuleAA04TimeF0CSgvp" class="token"><code>timeRule</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19ViolatedRestrictionV7DetailsV8timeRuleAA04TimeF0CSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-timeRule" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-violatedrestriction-details#sdk-for-ios-explore-s-7heresdk19ViolatedRestrictionV7DetailsV8timeRuleAA04TimeF0CSgvp" class="token"><code>timeRule</code></a> 
 
   </div>
 
@@ -683,6 +714,10 @@ Optional restriction details, contains additional information depending on the s
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-timerule">TimeRule</a>
+
   </div>
 
   </div>
@@ -691,7 +726,7 @@ Optional restriction details, contains additional information depending on the s
 
 - <div>
 
-  ` `<span id="/s:7heresdk19ViolatedRestrictionV7DetailsV9maxWeightAA07Vehiclec3MaxF0VSgvp"></span>` `<span id="//apple_ref/swift/Property/maxWeight" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-violatedrestriction-details#/s:7heresdk19ViolatedRestrictionV7DetailsV9maxWeightAA07Vehiclec3MaxF0VSgvp" class="token"><code>maxWeight</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19ViolatedRestrictionV7DetailsV9maxWeightAA07Vehiclec3MaxF0VSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-maxWeight" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-violatedrestriction-details#sdk-for-ios-explore-s-7heresdk19ViolatedRestrictionV7DetailsV9maxWeightAA07Vehiclec3MaxF0VSgvp" class="token"><code>maxWeight</code></a> 
 
   </div>
 
@@ -709,7 +744,7 @@ Optional restriction details, contains additional information depending on the s
 
   <div class="abstract">
 
-  Max permitted weight during the trip, in kilograms, along with the specific type of maximum permitted weight restriction. This property will be set if the <a href="sdk-for-ios-explore-structs-vehiclespecification#/s:7heresdk20VehicleSpecificationV22grossWeightInKilogramss5Int32VSgvp">`VehicleSpecification.grossWeightInKilograms`</a> parameter used for route calculation exceeds this value.
+  Max permitted weight during the trip, in kilograms, along with the specific type of maximum permitted weight restriction. This property will be set if the <a href="sdk-for-ios-explore-structs-vehiclespecification#sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV22grossWeightInKilogramss5Int32VSgvp">`VehicleSpecification.grossWeightInKilograms`</a> parameter used for route calculation exceeds this value.
 
   </div>
 
@@ -727,6 +762,10 @@ Optional restriction details, contains additional information depending on the s
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-vehiclerestrictionmaxweight">VehicleRestrictionMaxWeight</a>
+
   </div>
 
   </div>
@@ -735,7 +774,7 @@ Optional restriction details, contains additional information depending on the s
 
 - <div>
 
-  ` `<span id="/s:7heresdk19ViolatedRestrictionV7DetailsV16maxNumberOfTiress5Int32VSgvp"></span>` `<span id="//apple_ref/swift/Property/maxNumberOfTires" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-violatedrestriction-details#/s:7heresdk19ViolatedRestrictionV7DetailsV16maxNumberOfTiress5Int32VSgvp" class="token"><code>maxNumberOfTires</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19ViolatedRestrictionV7DetailsV16maxNumberOfTiress5Int32VSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-maxNumberOfTires" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-violatedrestriction-details#sdk-for-ios-explore-s-7heresdk19ViolatedRestrictionV7DetailsV16maxNumberOfTiress5Int32VSgvp" class="token"><code>maxNumberOfTires</code></a> 
 
   </div>
 
@@ -753,7 +792,7 @@ Optional restriction details, contains additional information depending on the s
 
   <div class="abstract">
 
-  Contains the maximum permitted number of tires. This property will be set if the <a href="sdk-for-ios-explore-structs-vehiclespecification#/s:7heresdk20VehicleSpecificationV10tiresCounts5Int32VSgvp">`VehicleSpecification.tiresCount`</a> exceeds the specified value.
+  Contains the maximum permitted number of tires. This property will be set if the <a href="sdk-for-ios-explore-structs-vehiclespecification#sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV10tiresCounts5Int32VSgvp">`VehicleSpecification.tiresCount`</a> exceeds the specified value.
 
   </div>
 
@@ -779,7 +818,7 @@ Optional restriction details, contains additional information depending on the s
 
 - <div>
 
-  ` `<span id="/s:7heresdk19ViolatedRestrictionV7DetailsV41maxKingpinToRearAxleDistanceInCentimeterss5Int32VSgvp"></span>` `<span id="//apple_ref/swift/Property/maxKingpinToRearAxleDistanceInCentimeters" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-violatedrestriction-details#/s:7heresdk19ViolatedRestrictionV7DetailsV41maxKingpinToRearAxleDistanceInCentimeterss5Int32VSgvp" class="token"><code>maxKingpinToRearAxleDistanceInCentimeters</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19ViolatedRestrictionV7DetailsV41maxKingpinToRearAxleDistanceInCentimeterss5Int32VSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-maxKingpinToRearAxleDistanceInCentimeters" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-violatedrestriction-details#sdk-for-ios-explore-s-7heresdk19ViolatedRestrictionV7DetailsV41maxKingpinToRearAxleDistanceInCentimeterss5Int32VSgvp" class="token"><code>maxKingpinToRearAxleDistanceInCentimeters</code></a> 
 
   </div>
 
@@ -797,7 +836,7 @@ Optional restriction details, contains additional information depending on the s
 
   <div class="abstract">
 
-  Contains the maximum permitted distance from kingpin to the rear axle in centimeters. This property will be set if the <a href="sdk-for-ios-explore-structs-vehiclespecification#/s:7heresdk20VehicleSpecificationV38kingpinToRearAxleDistanceInCentimeterss5Int32VSgvp">`VehicleSpecification.kingpinToRearAxleDistanceInCentimeters`</a> exceeds the specified value.
+  Contains the maximum permitted distance from kingpin to the rear axle in centimeters. This property will be set if the <a href="sdk-for-ios-explore-structs-vehiclespecification#sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV38kingpinToRearAxleDistanceInCentimeterss5Int32VSgvp">`VehicleSpecification.kingpinToRearAxleDistanceInCentimeters`</a> exceeds the specified value.
 
   </div>
 
@@ -823,7 +862,7 @@ Optional restriction details, contains additional information depending on the s
 
 - <div>
 
-      init(maxWeightPerAxleInKilograms: maxWeightPerAxleGroupInKilograms: maxHeightInCentimeters: maxWidthInCentimeters: maxLengthInCentimeters: forbiddenAxleCount: forbiddenTrailerCount: forbiddenHazardousGoods: maxTunnelCategory: forbiddenTruckCategory: forbiddenTruckRoadTypes: routingZoneReference: maxPayloadCapacityInKilograms: timeRule: maxWeight: maxNumberOfTires: maxKingpinToRearAxleDistanceInCentimeters: )
+   <span id="sdk-for-ios-explore-s-7heresdk19ViolatedRestrictionV7DetailsV27maxWeightPerAxleInKilograms0efgh5GroupiJ00e6HeightI11Centimeters0e5WidthiM00e6LengthiM009forbiddenH5Count0p7TrailerQ00P14HazardousGoods0E14TunnelCategory0p5TruckV00pW9RoadTypes20routingZoneReference0e15PayloadCapacityiJ08timeRule0eF00E13NumberOfTires0e13KingpinToRearh8DistanceiM0AEs5Int32VSg_AA03MaxhkF0VSgA3yA12IntegerRangeVSgA3_SayAA0S8MaterialOGAA0uV0OSgAA0wV0OSgSayAA0wX4TypeOGSSSgAyA8TimeRuleCSgAA07Vehiclec3MaxF0VSgA2Ytcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-maxWeightPerAxleInKilograms-maxWeightPerAxleGroupInKilograms-maxHeightInCentimeters-maxWidthInCentimeters-maxLengthInCentimeters-forbiddenAxleCount-forbiddenTrailerCount-forbiddenHazardousGoods-maxTunnelCategory-forbiddenTruckCategory-forbiddenTruckRoadTypes-routingZoneReference-maxPayloadCapacityInKilograms-timeRule-maxWeight-maxNumberOfTires-maxKingpinToRearAxleDistanceInCentimeters" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-violatedrestriction-details#sdk-for-ios-explore-s-7heresdk19ViolatedRestrictionV7DetailsV27maxWeightPerAxleInKilograms0efgh5GroupiJ00e6HeightI11Centimeters0e5WidthiM00e6LengthiM009forbiddenH5Count0p7TrailerQ00P14HazardousGoods0E14TunnelCategory0p5TruckV00pW9RoadTypes20routingZoneReference0e15PayloadCapacityiJ08timeRule0eF00E13NumberOfTires0e13KingpinToRearh8DistanceiM0AEs5Int32VSg_AA03MaxhkF0VSgA3yA12IntegerRangeVSgA3_SayAA0S8MaterialOGAA0uV0OSgAA0wV0OSgSayAA0wX4TypeOGSSSgAyA8TimeRuleCSgAA07Vehiclec3MaxF0VSgA2Ytcfc" class="token"><code>init(maxWeightPerAxleInKilograms:</code><wbr></wbr><code>maxWeightPerAxleGroupInKilograms:</code><wbr></wbr><code>maxHeightInCentimeters:</code><wbr></wbr><code>maxWidthInCentimeters:</code><wbr></wbr><code>maxLengthInCentimeters:</code><wbr></wbr><code>forbiddenAxleCount:</code><wbr></wbr><code>forbiddenTrailerCount:</code><wbr></wbr><code>forbiddenHazardousGoods:</code><wbr></wbr><code>maxTunnelCategory:</code><wbr></wbr><code>forbiddenTruckCategory:</code><wbr></wbr><code>forbiddenTruckRoadTypes:</code><wbr></wbr><code>routingZoneReference:</code><wbr></wbr><code>maxPayloadCapacityInKilograms:</code><wbr></wbr><code>timeRule:</code><wbr></wbr><code>maxWeight:</code><wbr></wbr><code>maxNumberOfTires:</code><wbr></wbr><code>maxKingpinToRearAxleDistanceInCentimeters:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -845,26 +884,26 @@ Optional restriction details, contains additional information depending on the s
 
   - Parameters
 
-    - maxWeightPerAxleInKilograms: Max permitted weight per axle during the trip, in kilograms. This property will be set if the <a href="sdk-for-ios-explore-structs-vehiclespecification#/s:7heresdk20VehicleSpecificationV24weightPerAxleInKilogramss5Int32VSgvp">`VehicleSpecification.weightPerAxleInKilograms`</a> exceeds this value.
-    - maxWeightPerAxleGroupInKilograms: Max permitted weight per axle group during the trip, in kilograms. This property will be set if the <a href="sdk-for-ios-explore-structs-vehiclespecification#/s:7heresdk20VehicleSpecificationV18weightPerAxleGroupAA06WeightefG0VSgvp">`VehicleSpecification.weightPerAxleGroup`</a> exceeds this value.
-    - maxHeightInCentimeters: Max permitted height during the trip, in centimeters. This property will be set if the <a href="sdk-for-ios-explore-structs-vehiclespecification#/s:7heresdk20VehicleSpecificationV19heightInCentimeterss5Int32VSgvp">`VehicleSpecification.heightInCentimeters`</a> exceeds this value.
-    - maxWidthInCentimeters: Max permitted width during the trip, in centimeters. This property will be set if the <a href="sdk-for-ios-explore-structs-vehiclespecification#/s:7heresdk20VehicleSpecificationV18widthInCentimeterss5Int32VSgvp">`VehicleSpecification.widthInCentimeters`</a> exceeds this value.
-    - maxLengthInCentimeters: Max permitted length during the trip, in centimeters. This property will be set if the <a href="sdk-for-ios-explore-structs-vehiclespecification#/s:7heresdk20VehicleSpecificationV19lengthInCentimeterss5Int32VSgvp">`VehicleSpecification.lengthInCentimeters`</a> exceeds this value.
-    - forbiddenAxleCount: The restriction to trucks with axles number within specified range during the trip. This property will be set if the <a href="sdk-for-ios-explore-structs-vehiclespecification#/s:7heresdk20VehicleSpecificationV9axleCounts5Int32VSgvp">`VehicleSpecification.axleCount`</a> is within this range.
-    - forbiddenTrailerCount: Constrains the restriction to trucks with number of trailer within specified range during the trip. This property will be set if the <a href="sdk-for-ios-explore-structs-vehiclespecification#/s:7heresdk20VehicleSpecificationV12trailerCounts5Int32VSgvp">`VehicleSpecification.trailerCount`</a> is within this range.
-    - forbiddenHazardousGoods: There are two lists for our trip: Hazardous goods restrictions applied during the trip, and the list used for the route calculation provided using <a href="sdk-for-ios-explore-structs-vehiclespecification#/s:7heresdk20VehicleSpecificationV18hazardousMaterialsSayAA17HazardousMaterialOGvp">`VehicleSpecification.hazardousMaterials`</a> from <a href="sdk-for-ios-explore-structs-transportspecification#/s:7heresdk22TransportSpecificationV07vehicleC0AA07VehicleC0VSgvp">`TransportSpecification.vehicleSpecification`</a> from <a href="sdk-for-ios-explore-structs-routingoptions#/s:7heresdk14RoutingOptionsV22transportSpecificationAA09TransportE0Vvp">`RoutingOptions.transportSpecification`</a>. This property is the intersection of the two lists.
+    - maxWeightPerAxleInKilograms: Max permitted weight per axle during the trip, in kilograms. This property will be set if the <a href="sdk-for-ios-explore-structs-vehiclespecification#sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV24weightPerAxleInKilogramss5Int32VSgvp">`VehicleSpecification.weightPerAxleInKilograms`</a> exceeds this value.
+    - maxWeightPerAxleGroupInKilograms: Max permitted weight per axle group during the trip, in kilograms. This property will be set if the <a href="sdk-for-ios-explore-structs-vehiclespecification#sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV18weightPerAxleGroupAA06WeightefG0VSgvp">`VehicleSpecification.weightPerAxleGroup`</a> exceeds this value.
+    - maxHeightInCentimeters: Max permitted height during the trip, in centimeters. This property will be set if the <a href="sdk-for-ios-explore-structs-vehiclespecification#sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV19heightInCentimeterss5Int32VSgvp">`VehicleSpecification.heightInCentimeters`</a> exceeds this value.
+    - maxWidthInCentimeters: Max permitted width during the trip, in centimeters. This property will be set if the <a href="sdk-for-ios-explore-structs-vehiclespecification#sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV18widthInCentimeterss5Int32VSgvp">`VehicleSpecification.widthInCentimeters`</a> exceeds this value.
+    - maxLengthInCentimeters: Max permitted length during the trip, in centimeters. This property will be set if the <a href="sdk-for-ios-explore-structs-vehiclespecification#sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV19lengthInCentimeterss5Int32VSgvp">`VehicleSpecification.lengthInCentimeters`</a> exceeds this value.
+    - forbiddenAxleCount: The restriction to trucks with axles number within specified range during the trip. This property will be set if the <a href="sdk-for-ios-explore-structs-vehiclespecification#sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV9axleCounts5Int32VSgvp">`VehicleSpecification.axleCount`</a> is within this range.
+    - forbiddenTrailerCount: Constrains the restriction to trucks with number of trailer within specified range during the trip. This property will be set if the <a href="sdk-for-ios-explore-structs-vehiclespecification#sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV12trailerCounts5Int32VSgvp">`VehicleSpecification.trailerCount`</a> is within this range.
+    - forbiddenHazardousGoods: There are two lists for our trip: Hazardous goods restrictions applied during the trip, and the list used for the route calculation provided using <a href="sdk-for-ios-explore-structs-vehiclespecification#sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV18hazardousMaterialsSayAA17HazardousMaterialOGvp">`VehicleSpecification.hazardousMaterials`</a> from <a href="sdk-for-ios-explore-structs-transportspecification#sdk-for-ios-explore-s-7heresdk22TransportSpecificationV07vehicleC0AA07VehicleC0VSgvp">`TransportSpecification.vehicleSpecification`</a> from <a href="sdk-for-ios-explore-structs-routingoptions#sdk-for-ios-explore-s-7heresdk14RoutingOptionsV22transportSpecificationAA09TransportE0Vvp">`RoutingOptions.transportSpecification`</a>. This property is the intersection of the two lists.
 
     **Note** <a href="sdk-for-ios-explore-structs-roadsignwarning">`RoadSignWarning`</a> events and `RouteViolations` are only given for violations that are indicated on a road sign. Additional legal restrictions might apply when transporting hazardous materials.
 
-    - maxTunnelCategory: Tunnel category to restrict transport of specific goods during the trip. This property will be set if the <a href="sdk-for-ios-explore-structs-vehiclespecification#/s:7heresdk20VehicleSpecificationV14tunnelCategoryAA06TunnelE0OSgvp">`VehicleSpecification.tunnelCategory`</a> from <a href="sdk-for-ios-explore-structs-transportspecification#/s:7heresdk22TransportSpecificationV07vehicleC0AA07VehicleC0VSgvp">`TransportSpecification.vehicleSpecification`</a> from <a href="sdk-for-ios-explore-structs-routingoptions#/s:7heresdk14RoutingOptionsV22transportSpecificationAA09TransportE0Vvp">`RoutingOptions.transportSpecification`</a> exceeds this value.
+    - maxTunnelCategory: Tunnel category to restrict transport of specific goods during the trip. This property will be set if the <a href="sdk-for-ios-explore-structs-vehiclespecification#sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV14tunnelCategoryAA06TunnelE0OSgvp">`VehicleSpecification.tunnelCategory`</a> from <a href="sdk-for-ios-explore-structs-transportspecification#sdk-for-ios-explore-s-7heresdk22TransportSpecificationV07vehicleC0AA07VehicleC0VSgvp">`TransportSpecification.vehicleSpecification`</a> from <a href="sdk-for-ios-explore-structs-routingoptions#sdk-for-ios-explore-s-7heresdk14RoutingOptionsV22transportSpecificationAA09TransportE0Vvp">`RoutingOptions.transportSpecification`</a> exceeds this value.
     - forbiddenTruckCategory: This property will be set if a restriction applies to the value of <a href="sdk-for-ios-explore-enums-truckcategory">`TruckCategory`</a> parameter used for route calculation.
     - forbiddenTruckRoadTypes: Contains violated restrictions for truck road types.
-    - routingZoneReference: Contains the restricted routing zone reference This property will be set if the <a href="sdk-for-ios-explore-structs-avoidanceoptions#/s:7heresdk16AvoidanceOptionsV14zoneCategoriesSayAA12ZoneCategoryOGvp">`AvoidanceOptions.zoneCategories`</a> is not empty
-    - maxPayloadCapacityInKilograms: Max permitted payload capacity during the trip, in kilograms. This property will be set if the <a href="sdk-for-ios-explore-structs-vehiclespecification#/s:7heresdk20VehicleSpecificationV26payloadCapacityInKilogramss5Int32VSgvp">`VehicleSpecification.payloadCapacityInKilograms`</a> exceeds this value.
+    - routingZoneReference: Contains the restricted routing zone reference This property will be set if the <a href="sdk-for-ios-explore-structs-avoidanceoptions#sdk-for-ios-explore-s-7heresdk16AvoidanceOptionsV14zoneCategoriesSayAA12ZoneCategoryOGvp">`AvoidanceOptions.zoneCategories`</a> is not empty
+    - maxPayloadCapacityInKilograms: Max permitted payload capacity during the trip, in kilograms. This property will be set if the <a href="sdk-for-ios-explore-structs-vehiclespecification#sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV26payloadCapacityInKilogramss5Int32VSgvp">`VehicleSpecification.payloadCapacityInKilograms`</a> exceeds this value.
     - timeRule: Time intervals during which restrictions are enforced.
-    - maxWeight: Max permitted weight during the trip, in kilograms, along with the specific type of maximum permitted weight restriction. This property will be set if the <a href="sdk-for-ios-explore-structs-vehiclespecification#/s:7heresdk20VehicleSpecificationV22grossWeightInKilogramss5Int32VSgvp">`VehicleSpecification.grossWeightInKilograms`</a> parameter used for route calculation exceeds this value.
-    - maxNumberOfTires: Contains the maximum permitted number of tires. This property will be set if the <a href="sdk-for-ios-explore-structs-vehiclespecification#/s:7heresdk20VehicleSpecificationV10tiresCounts5Int32VSgvp">`VehicleSpecification.tiresCount`</a> exceeds the specified value.
-    - maxKingpinToRearAxleDistanceInCentimeters: Contains the maximum permitted distance from kingpin to the rear axle in centimeters. This property will be set if the <a href="sdk-for-ios-explore-structs-vehiclespecification#/s:7heresdk20VehicleSpecificationV38kingpinToRearAxleDistanceInCentimeterss5Int32VSgvp">`VehicleSpecification.kingpinToRearAxleDistanceInCentimeters`</a> exceeds the specified value.
+    - maxWeight: Max permitted weight during the trip, in kilograms, along with the specific type of maximum permitted weight restriction. This property will be set if the <a href="sdk-for-ios-explore-structs-vehiclespecification#sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV22grossWeightInKilogramss5Int32VSgvp">`VehicleSpecification.grossWeightInKilograms`</a> parameter used for route calculation exceeds this value.
+    - maxNumberOfTires: Contains the maximum permitted number of tires. This property will be set if the <a href="sdk-for-ios-explore-structs-vehiclespecification#sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV10tiresCounts5Int32VSgvp">`VehicleSpecification.tiresCount`</a> exceeds the specified value.
+    - maxKingpinToRearAxleDistanceInCentimeters: Contains the maximum permitted distance from kingpin to the rear axle in centimeters. This property will be set if the <a href="sdk-for-ios-explore-structs-vehiclespecification#sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV38kingpinToRearAxleDistanceInCentimeterss5Int32VSgvp">`VehicleSpecification.kingpinToRearAxleDistanceInCentimeters`</a> exceeds the specified value.
 
   </div>
 
@@ -877,12 +916,21 @@ Optional restriction details, contains additional information depending on the s
   Swift
 
   ``` highlight
-  public init ( maxWeightPerAxleInKilograms : Int32 ? = nil , maxWeightPerAxleGroupInKilograms : MaxAxleGroupWeight ? = nil , maxHeightInCentimeters : Int32 ? = nil , maxWidthInCentimeters : Int32 ? = nil , maxLengthInCentimeters : Int32 ? = nil , forbiddenAxleCount : IntegerRange ? = nil , forbiddenTrailerCount : IntegerRange ? = nil , forbiddenHazardousGoods : [ HazardousMaterial ] = [], maxTunnelCategory : TunnelCategory ? = nil , forbiddenTruckCategory : TruckCategory ? = nil , forbiddenTruckRoadTypes : [ TruckRoadType ] = [], routingZoneReference : String ? = nil , maxPayloadCapacityInKilograms : Int32 ? = nil , timeRule : TimeRule ? = nil , maxWeight : VehicleRestrictionMaxWeight ? = nil , maxNumberOfTires : Int32 ? = nil , maxKingpinToRearAxleDistanceInCentimeters : Int32 ? = nil )
+  public init(maxWeightPerAxleInKilograms: Int32? = nil, maxWeightPerAxleGroupInKilograms: MaxAxleGroupWeight? = nil, maxHeightInCentimeters: Int32? = nil, maxWidthInCentimeters: Int32? = nil, maxLengthInCentimeters: Int32? = nil, forbiddenAxleCount: IntegerRange? = nil, forbiddenTrailerCount: IntegerRange? = nil, forbiddenHazardousGoods: [HazardousMaterial] = [], maxTunnelCategory: TunnelCategory? = nil, forbiddenTruckCategory: TruckCategory? = nil, forbiddenTruckRoadTypes: [TruckRoadType] = [], routingZoneReference: String? = nil, maxPayloadCapacityInKilograms: Int32? = nil, timeRule: TimeRule? = nil, maxWeight: VehicleRestrictionMaxWeight? = nil, maxNumberOfTires: Int32? = nil, maxKingpinToRearAxleDistanceInCentimeters: Int32? = nil)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-maxaxlegroupweight">MaxAxleGroupWeight</a>
+  - <a href="sdk-for-ios-explore-structs-integerrange">IntegerRange</a>
+  - <a href="sdk-for-ios-explore-enums-hazardousmaterial">HazardousMaterial</a>
+  - <a href="sdk-for-ios-explore-enums-tunnelcategory">TunnelCategory</a>
+  - <a href="sdk-for-ios-explore-enums-truckcategory">TruckCategory</a>
+  - <a href="sdk-for-ios-explore-enums-truckroadtype">TruckRoadType</a>
+  - <a href="sdk-for-ios-explore-classes-timerule">TimeRule</a>
+  - <a href="sdk-for-ios-explore-structs-vehiclerestrictionmaxweight">VehicleRestrictionMaxWeight</a>
 
   </div>
 
@@ -892,7 +940,7 @@ Optional restriction details, contains additional information depending on the s
 
 - <div>
 
-      init(maxWeightPerAxleInKilograms: maxWeightPerAxleGroupInKilograms: maxHeightInCentimeters: maxWidthInCentimeters: maxLengthInCentimeters: forbiddenAxleCount: forbiddenTrailerCount: forbiddenHazardousGoods: maxTunnelCategory: forbiddenTruckType: forbiddenTruckCategory: forbiddenTruckRoadTypes: routingZoneReference: maxPayloadCapacityInKilograms: timeRule: maxWeight: maxNumberOfTires: maxKingpinToRearAxleDistanceInCentimeters: )
+   <span id="sdk-for-ios-explore-s-7heresdk19ViolatedRestrictionV7DetailsV27maxWeightPerAxleInKilograms0efgh5GroupiJ00e6HeightI11Centimeters0e5WidthiM00e6LengthiM009forbiddenH5Count0p7TrailerQ00P14HazardousGoods0E14TunnelCategory0P9TruckType0pwV00pW9RoadTypes20routingZoneReference0e15PayloadCapacityiJ08timeRule0eF00E13NumberOfTires0e13KingpinToRearh8DistanceiM0AEs5Int32VSg_AA03MaxhkF0VSgA3zA12IntegerRangeVSgA4_SayAA0S8MaterialOGAA0uV0OSgAA0wX0OSgAA0wV0OSgSayAA0wyX0OGSSSgAzA8TimeRuleCSgAA07Vehiclec3MaxF0VSgA2Ztcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-maxWeightPerAxleInKilograms-maxWeightPerAxleGroupInKilograms-maxHeightInCentimeters-maxWidthInCentimeters-maxLengthInCentimeters-forbiddenAxleCount-forbiddenTrailerCount-forbiddenHazardousGoods-maxTunnelCategory-forbiddenTruckType-forbiddenTruckCategory-forbiddenTruckRoadTypes-routingZoneReference-maxPayloadCapacityInKilograms-timeRule-maxWeight-maxNumberOfTires-maxKingpinToRearAxleDistanceInCentimeters" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-violatedrestriction-details#sdk-for-ios-explore-s-7heresdk19ViolatedRestrictionV7DetailsV27maxWeightPerAxleInKilograms0efgh5GroupiJ00e6HeightI11Centimeters0e5WidthiM00e6LengthiM009forbiddenH5Count0p7TrailerQ00P14HazardousGoods0E14TunnelCategory0P9TruckType0pwV00pW9RoadTypes20routingZoneReference0e15PayloadCapacityiJ08timeRule0eF00E13NumberOfTires0e13KingpinToRearh8DistanceiM0AEs5Int32VSg_AA03MaxhkF0VSgA3zA12IntegerRangeVSgA4_SayAA0S8MaterialOGAA0uV0OSgAA0wX0OSgAA0wV0OSgSayAA0wyX0OGSSSgAzA8TimeRuleCSgAA07Vehiclec3MaxF0VSgA2Ztcfc" class="token"><code>init(maxWeightPerAxleInKilograms:</code><wbr></wbr><code>maxWeightPerAxleGroupInKilograms:</code><wbr></wbr><code>maxHeightInCentimeters:</code><wbr></wbr><code>maxWidthInCentimeters:</code><wbr></wbr><code>maxLengthInCentimeters:</code><wbr></wbr><code>forbiddenAxleCount:</code><wbr></wbr><code>forbiddenTrailerCount:</code><wbr></wbr><code>forbiddenHazardousGoods:</code><wbr></wbr><code>maxTunnelCategory:</code><wbr></wbr><code>forbiddenTruckType:</code><wbr></wbr><code>forbiddenTruckCategory:</code><wbr></wbr><code>forbiddenTruckRoadTypes:</code><wbr></wbr><code>routingZoneReference:</code><wbr></wbr><code>maxPayloadCapacityInKilograms:</code><wbr></wbr><code>timeRule:</code><wbr></wbr><code>maxWeight:</code><wbr></wbr><code>maxNumberOfTires:</code><wbr></wbr><code>maxKingpinToRearAxleDistanceInCentimeters:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -914,27 +962,27 @@ Optional restriction details, contains additional information depending on the s
 
   - Parameters
 
-    - maxWeightPerAxleInKilograms: Max permitted weight per axle during the trip, in kilograms. This property will be set if the <a href="sdk-for-ios-explore-structs-vehiclespecification#/s:7heresdk20VehicleSpecificationV24weightPerAxleInKilogramss5Int32VSgvp">`VehicleSpecification.weightPerAxleInKilograms`</a> exceeds this value.
-    - maxWeightPerAxleGroupInKilograms: Max permitted weight per axle group during the trip, in kilograms. This property will be set if the <a href="sdk-for-ios-explore-structs-vehiclespecification#/s:7heresdk20VehicleSpecificationV18weightPerAxleGroupAA06WeightefG0VSgvp">`VehicleSpecification.weightPerAxleGroup`</a> exceeds this value.
-    - maxHeightInCentimeters: Max permitted height during the trip, in centimeters. This property will be set if the <a href="sdk-for-ios-explore-structs-vehiclespecification#/s:7heresdk20VehicleSpecificationV19heightInCentimeterss5Int32VSgvp">`VehicleSpecification.heightInCentimeters`</a> exceeds this value.
-    - maxWidthInCentimeters: Max permitted width during the trip, in centimeters. This property will be set if the <a href="sdk-for-ios-explore-structs-vehiclespecification#/s:7heresdk20VehicleSpecificationV18widthInCentimeterss5Int32VSgvp">`VehicleSpecification.widthInCentimeters`</a> exceeds this value.
-    - maxLengthInCentimeters: Max permitted length during the trip, in centimeters. This property will be set if the <a href="sdk-for-ios-explore-structs-vehiclespecification#/s:7heresdk20VehicleSpecificationV19lengthInCentimeterss5Int32VSgvp">`VehicleSpecification.lengthInCentimeters`</a> exceeds this value.
-    - forbiddenAxleCount: The restriction to trucks with axles number within specified range during the trip. This property will be set if the <a href="sdk-for-ios-explore-structs-vehiclespecification#/s:7heresdk20VehicleSpecificationV9axleCounts5Int32VSgvp">`VehicleSpecification.axleCount`</a> is within this range.
-    - forbiddenTrailerCount: Constrains the restriction to trucks with number of trailer within specified range during the trip. This property will be set if the <a href="sdk-for-ios-explore-structs-vehiclespecification#/s:7heresdk20VehicleSpecificationV12trailerCounts5Int32VSgvp">`VehicleSpecification.trailerCount`</a> is within this range.
-    - forbiddenHazardousGoods: There are two lists for our trip: Hazardous goods restrictions applied during the trip, and the list used for the route calculation provided using <a href="sdk-for-ios-explore-structs-vehiclespecification#/s:7heresdk20VehicleSpecificationV18hazardousMaterialsSayAA17HazardousMaterialOGvp">`VehicleSpecification.hazardousMaterials`</a> from <a href="sdk-for-ios-explore-structs-transportspecification#/s:7heresdk22TransportSpecificationV07vehicleC0AA07VehicleC0VSgvp">`TransportSpecification.vehicleSpecification`</a> from <a href="sdk-for-ios-explore-structs-routingoptions#/s:7heresdk14RoutingOptionsV22transportSpecificationAA09TransportE0Vvp">`RoutingOptions.transportSpecification`</a>. This property is the intersection of the two lists.
+    - maxWeightPerAxleInKilograms: Max permitted weight per axle during the trip, in kilograms. This property will be set if the <a href="sdk-for-ios-explore-structs-vehiclespecification#sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV24weightPerAxleInKilogramss5Int32VSgvp">`VehicleSpecification.weightPerAxleInKilograms`</a> exceeds this value.
+    - maxWeightPerAxleGroupInKilograms: Max permitted weight per axle group during the trip, in kilograms. This property will be set if the <a href="sdk-for-ios-explore-structs-vehiclespecification#sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV18weightPerAxleGroupAA06WeightefG0VSgvp">`VehicleSpecification.weightPerAxleGroup`</a> exceeds this value.
+    - maxHeightInCentimeters: Max permitted height during the trip, in centimeters. This property will be set if the <a href="sdk-for-ios-explore-structs-vehiclespecification#sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV19heightInCentimeterss5Int32VSgvp">`VehicleSpecification.heightInCentimeters`</a> exceeds this value.
+    - maxWidthInCentimeters: Max permitted width during the trip, in centimeters. This property will be set if the <a href="sdk-for-ios-explore-structs-vehiclespecification#sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV18widthInCentimeterss5Int32VSgvp">`VehicleSpecification.widthInCentimeters`</a> exceeds this value.
+    - maxLengthInCentimeters: Max permitted length during the trip, in centimeters. This property will be set if the <a href="sdk-for-ios-explore-structs-vehiclespecification#sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV19lengthInCentimeterss5Int32VSgvp">`VehicleSpecification.lengthInCentimeters`</a> exceeds this value.
+    - forbiddenAxleCount: The restriction to trucks with axles number within specified range during the trip. This property will be set if the <a href="sdk-for-ios-explore-structs-vehiclespecification#sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV9axleCounts5Int32VSgvp">`VehicleSpecification.axleCount`</a> is within this range.
+    - forbiddenTrailerCount: Constrains the restriction to trucks with number of trailer within specified range during the trip. This property will be set if the <a href="sdk-for-ios-explore-structs-vehiclespecification#sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV12trailerCounts5Int32VSgvp">`VehicleSpecification.trailerCount`</a> is within this range.
+    - forbiddenHazardousGoods: There are two lists for our trip: Hazardous goods restrictions applied during the trip, and the list used for the route calculation provided using <a href="sdk-for-ios-explore-structs-vehiclespecification#sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV18hazardousMaterialsSayAA17HazardousMaterialOGvp">`VehicleSpecification.hazardousMaterials`</a> from <a href="sdk-for-ios-explore-structs-transportspecification#sdk-for-ios-explore-s-7heresdk22TransportSpecificationV07vehicleC0AA07VehicleC0VSgvp">`TransportSpecification.vehicleSpecification`</a> from <a href="sdk-for-ios-explore-structs-routingoptions#sdk-for-ios-explore-s-7heresdk14RoutingOptionsV22transportSpecificationAA09TransportE0Vvp">`RoutingOptions.transportSpecification`</a>. This property is the intersection of the two lists.
 
     **Note** <a href="sdk-for-ios-explore-structs-roadsignwarning">`RoadSignWarning`</a> events and `RouteViolations` are only given for violations that are indicated on a road sign. Additional legal restrictions might apply when transporting hazardous materials.
 
-    - maxTunnelCategory: Tunnel category to restrict transport of specific goods during the trip. This property will be set if the <a href="sdk-for-ios-explore-structs-vehiclespecification#/s:7heresdk20VehicleSpecificationV14tunnelCategoryAA06TunnelE0OSgvp">`VehicleSpecification.tunnelCategory`</a> from <a href="sdk-for-ios-explore-structs-transportspecification#/s:7heresdk22TransportSpecificationV07vehicleC0AA07VehicleC0VSgvp">`TransportSpecification.vehicleSpecification`</a> from <a href="sdk-for-ios-explore-structs-routingoptions#/s:7heresdk14RoutingOptionsV22transportSpecificationAA09TransportE0Vvp">`RoutingOptions.transportSpecification`</a> exceeds this value.
+    - maxTunnelCategory: Tunnel category to restrict transport of specific goods during the trip. This property will be set if the <a href="sdk-for-ios-explore-structs-vehiclespecification#sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV14tunnelCategoryAA06TunnelE0OSgvp">`VehicleSpecification.tunnelCategory`</a> from <a href="sdk-for-ios-explore-structs-transportspecification#sdk-for-ios-explore-s-7heresdk22TransportSpecificationV07vehicleC0AA07VehicleC0VSgvp">`TransportSpecification.vehicleSpecification`</a> from <a href="sdk-for-ios-explore-structs-routingoptions#sdk-for-ios-explore-s-7heresdk14RoutingOptionsV22transportSpecificationAA09TransportE0Vvp">`RoutingOptions.transportSpecification`</a> exceeds this value.
     - forbiddenTruckType: This property will be set if a restriction applies to the value of <a href="sdk-for-ios-explore-enums-trucktype">`TruckType`</a> parameter used for route calculation.
     - forbiddenTruckCategory: This property will be set if a restriction applies to the value of <a href="sdk-for-ios-explore-enums-truckcategory">`TruckCategory`</a> parameter used for route calculation.
     - forbiddenTruckRoadTypes: Contains violated restrictions for truck road types.
-    - routingZoneReference: Contains the restricted routing zone reference This property will be set if the <a href="sdk-for-ios-explore-structs-avoidanceoptions#/s:7heresdk16AvoidanceOptionsV14zoneCategoriesSayAA12ZoneCategoryOGvp">`AvoidanceOptions.zoneCategories`</a> is not empty
-    - maxPayloadCapacityInKilograms: Max permitted payload capacity during the trip, in kilograms. This property will be set if the <a href="sdk-for-ios-explore-structs-vehiclespecification#/s:7heresdk20VehicleSpecificationV26payloadCapacityInKilogramss5Int32VSgvp">`VehicleSpecification.payloadCapacityInKilograms`</a> exceeds this value.
+    - routingZoneReference: Contains the restricted routing zone reference This property will be set if the <a href="sdk-for-ios-explore-structs-avoidanceoptions#sdk-for-ios-explore-s-7heresdk16AvoidanceOptionsV14zoneCategoriesSayAA12ZoneCategoryOGvp">`AvoidanceOptions.zoneCategories`</a> is not empty
+    - maxPayloadCapacityInKilograms: Max permitted payload capacity during the trip, in kilograms. This property will be set if the <a href="sdk-for-ios-explore-structs-vehiclespecification#sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV26payloadCapacityInKilogramss5Int32VSgvp">`VehicleSpecification.payloadCapacityInKilograms`</a> exceeds this value.
     - timeRule: Time intervals during which restrictions are enforced.
-    - maxWeight: Max permitted weight during the trip, in kilograms, along with the specific type of maximum permitted weight restriction. This property will be set if the <a href="sdk-for-ios-explore-structs-vehiclespecification#/s:7heresdk20VehicleSpecificationV22grossWeightInKilogramss5Int32VSgvp">`VehicleSpecification.grossWeightInKilograms`</a> parameter used for route calculation exceeds this value.
-    - maxNumberOfTires: Contains the maximum permitted number of tires. This property will be set if the <a href="sdk-for-ios-explore-structs-vehiclespecification#/s:7heresdk20VehicleSpecificationV10tiresCounts5Int32VSgvp">`VehicleSpecification.tiresCount`</a> exceeds the specified value.
-    - maxKingpinToRearAxleDistanceInCentimeters: Contains the maximum permitted distance from kingpin to the rear axle in centimeters. This property will be set if the <a href="sdk-for-ios-explore-structs-vehiclespecification#/s:7heresdk20VehicleSpecificationV38kingpinToRearAxleDistanceInCentimeterss5Int32VSgvp">`VehicleSpecification.kingpinToRearAxleDistanceInCentimeters`</a> exceeds the specified value.
+    - maxWeight: Max permitted weight during the trip, in kilograms, along with the specific type of maximum permitted weight restriction. This property will be set if the <a href="sdk-for-ios-explore-structs-vehiclespecification#sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV22grossWeightInKilogramss5Int32VSgvp">`VehicleSpecification.grossWeightInKilograms`</a> parameter used for route calculation exceeds this value.
+    - maxNumberOfTires: Contains the maximum permitted number of tires. This property will be set if the <a href="sdk-for-ios-explore-structs-vehiclespecification#sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV10tiresCounts5Int32VSgvp">`VehicleSpecification.tiresCount`</a> exceeds the specified value.
+    - maxKingpinToRearAxleDistanceInCentimeters: Contains the maximum permitted distance from kingpin to the rear axle in centimeters. This property will be set if the <a href="sdk-for-ios-explore-structs-vehiclespecification#sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV38kingpinToRearAxleDistanceInCentimeterss5Int32VSgvp">`VehicleSpecification.kingpinToRearAxleDistanceInCentimeters`</a> exceeds the specified value.
 
   </div>
 
@@ -947,12 +995,23 @@ Optional restriction details, contains additional information depending on the s
   Swift
 
   ``` highlight
-  @available(*, deprecated) public init ( maxWeightPerAxleInKilograms : Int32 ? = nil , maxWeightPerAxleGroupInKilograms : MaxAxleGroupWeight ? = nil , maxHeightInCentimeters : Int32 ? = nil , maxWidthInCentimeters : Int32 ? = nil , maxLengthInCentimeters : Int32 ? = nil , forbiddenAxleCount : IntegerRange ? = nil , forbiddenTrailerCount : IntegerRange ? = nil , forbiddenHazardousGoods : [ HazardousMaterial ] = [], maxTunnelCategory : TunnelCategory ? = nil , forbiddenTruckType : TruckType ? = nil , forbiddenTruckCategory : TruckCategory ? = nil , forbiddenTruckRoadTypes : [ TruckRoadType ] = [], routingZoneReference : String ? = nil , maxPayloadCapacityInKilograms : Int32 ? = nil , timeRule : TimeRule ? = nil , maxWeight : VehicleRestrictionMaxWeight ? = nil , maxNumberOfTires : Int32 ? = nil , maxKingpinToRearAxleDistanceInCentimeters : Int32 ? = nil )
+  @available(*, deprecated)
+  public init(maxWeightPerAxleInKilograms: Int32? = nil, maxWeightPerAxleGroupInKilograms: MaxAxleGroupWeight? = nil, maxHeightInCentimeters: Int32? = nil, maxWidthInCentimeters: Int32? = nil, maxLengthInCentimeters: Int32? = nil, forbiddenAxleCount: IntegerRange? = nil, forbiddenTrailerCount: IntegerRange? = nil, forbiddenHazardousGoods: [HazardousMaterial] = [], maxTunnelCategory: TunnelCategory? = nil, forbiddenTruckType: TruckType? = nil, forbiddenTruckCategory: TruckCategory? = nil, forbiddenTruckRoadTypes: [TruckRoadType] = [], routingZoneReference: String? = nil, maxPayloadCapacityInKilograms: Int32? = nil, timeRule: TimeRule? = nil, maxWeight: VehicleRestrictionMaxWeight? = nil, maxNumberOfTires: Int32? = nil, maxKingpinToRearAxleDistanceInCentimeters: Int32? = nil)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-maxaxlegroupweight">MaxAxleGroupWeight</a>
+  - <a href="sdk-for-ios-explore-structs-integerrange">IntegerRange</a>
+  - <a href="sdk-for-ios-explore-enums-hazardousmaterial">HazardousMaterial</a>
+  - <a href="sdk-for-ios-explore-enums-tunnelcategory">TunnelCategory</a>
+  - <a href="sdk-for-ios-explore-enums-trucktype">TruckType</a>
+  - <a href="sdk-for-ios-explore-enums-truckcategory">TruckCategory</a>
+  - <a href="sdk-for-ios-explore-enums-truckroadtype">TruckRoadType</a>
+  - <a href="sdk-for-ios-explore-classes-timerule">TimeRule</a>
+  - <a href="sdk-for-ios-explore-structs-vehiclerestrictionmaxweight">VehicleRestrictionMaxWeight</a>
 
   </div>
 

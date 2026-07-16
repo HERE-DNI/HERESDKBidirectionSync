@@ -27,7 +27,7 @@ This protocol should be implemented in order to receive truck restriction warnin
 
 - <div>
 
-      onTruckRestrictionsWarningUpdated(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk32TruckRestrictionsWarningDelegateP02onbcD7UpdatedyySayAA0b11RestrictionD0VGF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-onTruckRestrictionsWarningUpdated-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-protocols-truckrestrictionswarningdelegate#sdk-for-ios-navigate-s-7heresdk32TruckRestrictionsWarningDelegateP02onbcD7UpdatedyySayAA0b11RestrictionD0VGF" class="token"><code>onTruckRestrictionsWarningUpdated(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -45,7 +45,7 @@ This protocol should be implemented in order to receive truck restriction warnin
 
   <div class="abstract">
 
-  Called whenever the distance type (<a href="sdk-for-ios-navigate-structs-truckrestrictionwarning#/s:7heresdk23TruckRestrictionWarningV12distanceTypeAA08DistanceF0Ovp">`TruckRestrictionWarning.distanceType`</a>) of a truck restriction changes. If needed, it is up to the application to maintain a list of active warnings like the ones with <a href="sdk-for-ios-navigate-enums-distancetype#/s:7heresdk12DistanceTypeO5aheadyA2CmF">`DistanceType.ahead`</a> or <a href="sdk-for-ios-navigate-enums-distancetype#/s:7heresdk12DistanceTypeO7reachedyA2CmF">`DistanceType.reached`</a> based on the updates provided by this method.
+  Called whenever the distance type (<a href="sdk-for-ios-navigate-structs-truckrestrictionwarning#sdk-for-ios-navigate-s-7heresdk23TruckRestrictionWarningV12distanceTypeAA08DistanceF0Ovp">`TruckRestrictionWarning.distanceType`</a>) of a truck restriction changes. If needed, it is up to the application to maintain a list of active warnings like the ones with <a href="sdk-for-ios-navigate-enums-distancetype#sdk-for-ios-navigate-s-7heresdk12DistanceTypeO5aheadyA2CmF">`DistanceType.ahead`</a> or <a href="sdk-for-ios-navigate-enums-distancetype#sdk-for-ios-navigate-s-7heresdk12DistanceTypeO7reachedyA2CmF">`DistanceType.reached`</a> based on the updates provided by this method.
 
   </div>
 
@@ -58,12 +58,14 @@ This protocol should be implemented in order to receive truck restriction warnin
   Swift
 
   ``` highlight
-  func onTruckRestrictionsWarningUpdated ( _ restrictions : [ TruckRestrictionWarning ])
+  func onTruckRestrictionsWarningUpdated(_ restrictions: [TruckRestrictionWarning])
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-truckrestrictionwarning">TruckRestrictionWarning</a>
 
   </div>
 
@@ -80,7 +82,7 @@ This protocol should be implemented in order to receive truck restriction warnin
   <tr>
   <td><code> </code><em><code>restrictions</code></em><code> </code></td>
   <td><div>
-  <p>A list containing truck restriction warnings that have their distance type (<a href="sdk-for-ios-navigate-structs-truckrestrictionwarning#/s:7heresdk23TruckRestrictionWarningV12distanceTypeAA08DistanceF0Ovp"><code>TruckRestrictionWarning.distanceType</code></a>) updated.</p>
+  <p>A list containing truck restriction warnings that have their distance type (<a href="sdk-for-ios-navigate-structs-truckrestrictionwarning#sdk-for-ios-navigate-s-7heresdk23TruckRestrictionWarningV12distanceTypeAA08DistanceF0Ovp"><code>TruckRestrictionWarning.distanceType</code></a>) updated.</p>
   </div></td>
   </tr>
   </tbody>

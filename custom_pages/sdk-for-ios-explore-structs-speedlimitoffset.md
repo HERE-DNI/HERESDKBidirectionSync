@@ -27,7 +27,7 @@ A struct that represents two separate speed limit offsets for higher and lower s
 
 - <div>
 
-  ` `<span id="/s:7heresdk16SpeedLimitOffsetV03lowbD17InMetersPerSecondSdvp"></span>` `<span id="//apple_ref/swift/Property/lowSpeedOffsetInMetersPerSecond" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-speedlimitoffset#/s:7heresdk16SpeedLimitOffsetV03lowbD17InMetersPerSecondSdvp" class="token"><code>lowSpeedOffsetInMetersPerSecond</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16SpeedLimitOffsetV03lowbD17InMetersPerSecondSdvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-lowSpeedOffsetInMetersPerSecond" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-speedlimitoffset#sdk-for-ios-explore-s-7heresdk16SpeedLimitOffsetV03lowbD17InMetersPerSecondSdvp" class="token"><code>lowSpeedOffsetInMetersPerSecond</code></a> 
 
   </div>
 
@@ -45,7 +45,7 @@ A struct that represents two separate speed limit offsets for higher and lower s
 
   <div class="abstract">
 
-  A speed limit offset for speed limits below the <a href="sdk-for-ios-explore-structs-speedlimitoffset#/s:7heresdk16SpeedLimitOffsetV04highB25BoundaryInMetersPerSecondSdvp">`SpeedLimitOffset.highSpeedBoundaryInMetersPerSecond`</a>.
+  A speed limit offset for speed limits below the <a href="sdk-for-ios-explore-structs-speedlimitoffset#sdk-for-ios-explore-s-7heresdk16SpeedLimitOffsetV04highB25BoundaryInMetersPerSecondSdvp">`SpeedLimitOffset.highSpeedBoundaryInMetersPerSecond`</a>.
 
   </div>
 
@@ -71,7 +71,7 @@ A struct that represents two separate speed limit offsets for higher and lower s
 
 - <div>
 
-  ` `<span id="/s:7heresdk16SpeedLimitOffsetV04highbD17InMetersPerSecondSdvp"></span>` `<span id="//apple_ref/swift/Property/highSpeedOffsetInMetersPerSecond" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-speedlimitoffset#/s:7heresdk16SpeedLimitOffsetV04highbD17InMetersPerSecondSdvp" class="token"><code>highSpeedOffsetInMetersPerSecond</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16SpeedLimitOffsetV04highbD17InMetersPerSecondSdvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-highSpeedOffsetInMetersPerSecond" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-speedlimitoffset#sdk-for-ios-explore-s-7heresdk16SpeedLimitOffsetV04highbD17InMetersPerSecondSdvp" class="token"><code>highSpeedOffsetInMetersPerSecond</code></a> 
 
   </div>
 
@@ -89,7 +89,7 @@ A struct that represents two separate speed limit offsets for higher and lower s
 
   <div class="abstract">
 
-  A speed limit offset for speed limits above the <a href="sdk-for-ios-explore-structs-speedlimitoffset#/s:7heresdk16SpeedLimitOffsetV04highB25BoundaryInMetersPerSecondSdvp">`SpeedLimitOffset.highSpeedBoundaryInMetersPerSecond`</a>.
+  A speed limit offset for speed limits above the <a href="sdk-for-ios-explore-structs-speedlimitoffset#sdk-for-ios-explore-s-7heresdk16SpeedLimitOffsetV04highB25BoundaryInMetersPerSecondSdvp">`SpeedLimitOffset.highSpeedBoundaryInMetersPerSecond`</a>.
 
   </div>
 
@@ -115,7 +115,7 @@ A struct that represents two separate speed limit offsets for higher and lower s
 
 - <div>
 
-  ` `<span id="/s:7heresdk16SpeedLimitOffsetV04highB25BoundaryInMetersPerSecondSdvp"></span>` `<span id="//apple_ref/swift/Property/highSpeedBoundaryInMetersPerSecond" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-speedlimitoffset#/s:7heresdk16SpeedLimitOffsetV04highB25BoundaryInMetersPerSecondSdvp" class="token"><code>highSpeedBoundaryInMetersPerSecond</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16SpeedLimitOffsetV04highB25BoundaryInMetersPerSecondSdvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-highSpeedBoundaryInMetersPerSecond" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-speedlimitoffset#sdk-for-ios-explore-s-7heresdk16SpeedLimitOffsetV04highB25BoundaryInMetersPerSecondSdvp" class="token"><code>highSpeedBoundaryInMetersPerSecond</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ A struct that represents two separate speed limit offsets for higher and lower s
 
 - <div>
 
-      init(lowSpeedOffsetInMetersPerSecond: highSpeedOffsetInMetersPerSecond: highSpeedBoundaryInMetersPerSecond: )
+   <span id="sdk-for-ios-explore-s-7heresdk16SpeedLimitOffsetV03lowbD17InMetersPerSecond04highbdfghI00jb8BoundaryfghI0ACSd_S2dtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-lowSpeedOffsetInMetersPerSecond-highSpeedOffsetInMetersPerSecond-highSpeedBoundaryInMetersPerSecond" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-speedlimitoffset#sdk-for-ios-explore-s-7heresdk16SpeedLimitOffsetV03lowbD17InMetersPerSecond04highbdfghI00jb8BoundaryfghI0ACSd_S2dtcfc" class="token"><code>init(lowSpeedOffsetInMetersPerSecond:</code><wbr></wbr><code>highSpeedOffsetInMetersPerSecond:</code><wbr></wbr><code>highSpeedBoundaryInMetersPerSecond:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -190,10 +190,8 @@ A struct that represents two separate speed limit offsets for higher and lower s
   Swift
 
   ``` highlight
-  public init ( lowSpeedOffsetInMetersPerSecond : Double = 0.0 , highSpeedOffsetInMetersPerSecond : Double = 0.0 , highSpeedBoundaryInMetersPerSecond : Double = 0.0 )
+  public init(lowSpeedOffsetInMetersPerSecond: Double = 0.0, highSpeedOffsetInMetersPerSecond: Double = 0.0, highSpeedBoundaryInMetersPerSecond: Double = 0.0)
   ```
-
-  </pre>
 
   </div>
 

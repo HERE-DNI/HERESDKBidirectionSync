@@ -27,7 +27,7 @@ Represents the available public API from <a href="sdk-for-ios-explore-classes-ma
 
 - <div>
 
-  ` `<span id="/s:7heresdk11MapViewBaseP04PickB7Handlera"></span>` `<span id="//apple_ref/swift/Alias/PickMapHandler" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-protocols-mapviewbase#/s:7heresdk11MapViewBaseP04PickB7Handlera" class="token"><code>PickMapHandler</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11MapViewBaseP04PickB7Handlera"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Alias-PickMapHandler" class="dashAnchor"></span> <a href="sdk-for-ios-explore-protocols-mapviewbase#sdk-for-ios-explore-s-7heresdk11MapViewBaseP04PickB7Handlera" class="token"><code>PickMapHandler</code></a> 
 
   </div>
 
@@ -58,12 +58,14 @@ Represents the available public API from <a href="sdk-for-ios-explore-classes-ma
   Swift
 
   ``` highlight
-  typealias PickMapHandler = ( _ mapPickResult : MapPickResult ?) -> Void
+  typealias PickMapHandler = (_ mapPickResult: MapPickResult?) -> Void
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-mappickresult">MapPickResult</a>
 
   </div>
 
@@ -94,7 +96,7 @@ Represents the available public API from <a href="sdk-for-ios-explore-classes-ma
 
 - <div>
 
-  ` `<span id="/s:7heresdk11MapViewBaseP7isValidSbvp"></span>` `<span id="//apple_ref/swift/Property/isValid" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-protocols-mapviewbase#/s:7heresdk11MapViewBaseP7isValidSbvp" class="token"><code>isValid</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11MapViewBaseP7isValidSbvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-isValid" class="dashAnchor"></span> <a href="sdk-for-ios-explore-protocols-mapviewbase#sdk-for-ios-explore-s-7heresdk11MapViewBaseP7isValidSbvp" class="token"><code>isValid</code></a> 
 
   </div>
 
@@ -138,7 +140,7 @@ Represents the available public API from <a href="sdk-for-ios-explore-classes-ma
 
 - <div>
 
-  ` `<span id="/s:7heresdk11MapViewBaseP6cameraAA0B6CameraCvp"></span>` `<span id="//apple_ref/swift/Property/camera" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-protocols-mapviewbase#/s:7heresdk11MapViewBaseP6cameraAA0B6CameraCvp" class="token"><code>camera</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11MapViewBaseP6cameraAA0B6CameraCvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-camera" class="dashAnchor"></span> <a href="sdk-for-ios-explore-protocols-mapviewbase#sdk-for-ios-explore-s-7heresdk11MapViewBaseP6cameraAA0B6CameraCvp" class="token"><code>camera</code></a> 
 
   </div>
 
@@ -174,6 +176,10 @@ Represents the available public API from <a href="sdk-for-ios-explore-classes-ma
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-mapcamera">MapCamera</a>
+
   </div>
 
   </div>
@@ -182,7 +188,7 @@ Represents the available public API from <a href="sdk-for-ios-explore-classes-ma
 
 - <div>
 
-  ` `<span id="/s:7heresdk11MapViewBaseP8gesturesAA8GesturesCvp"></span>` `<span id="//apple_ref/swift/Property/gestures" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-protocols-mapviewbase#/s:7heresdk11MapViewBaseP8gesturesAA8GesturesCvp" class="token"><code>gestures</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11MapViewBaseP8gesturesAA8GesturesCvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-gestures" class="dashAnchor"></span> <a href="sdk-for-ios-explore-protocols-mapviewbase#sdk-for-ios-explore-s-7heresdk11MapViewBaseP8gesturesAA8GesturesCvp" class="token"><code>gestures</code></a> 
 
   </div>
 
@@ -218,6 +224,10 @@ Represents the available public API from <a href="sdk-for-ios-explore-classes-ma
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-gestures">Gestures</a>
+
   </div>
 
   </div>
@@ -226,7 +236,7 @@ Represents the available public API from <a href="sdk-for-ios-explore-classes-ma
 
 - <div>
 
-  ` `<span id="/s:7heresdk11MapViewBaseP8mapSceneAA0bF0Cvp"></span>` `<span id="//apple_ref/swift/Property/mapScene" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-protocols-mapviewbase#/s:7heresdk11MapViewBaseP8mapSceneAA0bF0Cvp" class="token"><code>mapScene</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11MapViewBaseP8mapSceneAA0bF0Cvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-mapScene" class="dashAnchor"></span> <a href="sdk-for-ios-explore-protocols-mapviewbase#sdk-for-ios-explore-s-7heresdk11MapViewBaseP8mapSceneAA0bF0Cvp" class="token"><code>mapScene</code></a> 
 
   </div>
 
@@ -262,6 +272,10 @@ Represents the available public API from <a href="sdk-for-ios-explore-classes-ma
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-mapscene">MapScene</a>
+
   </div>
 
   </div>
@@ -270,7 +284,7 @@ Represents the available public API from <a href="sdk-for-ios-explore-classes-ma
 
 - <div>
 
-  ` `<span id="/s:7heresdk11MapViewBaseP10mapContextAA0bF0Cvp"></span>` `<span id="//apple_ref/swift/Property/mapContext" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-protocols-mapviewbase#/s:7heresdk11MapViewBaseP10mapContextAA0bF0Cvp" class="token"><code>mapContext</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11MapViewBaseP10mapContextAA0bF0Cvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-mapContext" class="dashAnchor"></span> <a href="sdk-for-ios-explore-protocols-mapviewbase#sdk-for-ios-explore-s-7heresdk11MapViewBaseP10mapContextAA0bF0Cvp" class="token"><code>mapContext</code></a> 
 
   </div>
 
@@ -306,6 +320,10 @@ Represents the available public API from <a href="sdk-for-ios-explore-classes-ma
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-mapcontext">MapContext</a>
+
   </div>
 
   </div>
@@ -314,7 +332,7 @@ Represents the available public API from <a href="sdk-for-ios-explore-classes-ma
 
 - <div>
 
-  ` `<span id="/s:7heresdk11MapViewBaseP04hereB0AA04HereB0Cvp"></span>` `<span id="//apple_ref/swift/Property/hereMap" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-protocols-mapviewbase#/s:7heresdk11MapViewBaseP04hereB0AA04HereB0Cvp" class="token"><code>hereMap</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11MapViewBaseP04hereB0AA04HereB0Cvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-hereMap" class="dashAnchor"></span> <a href="sdk-for-ios-explore-protocols-mapviewbase#sdk-for-ios-explore-s-7heresdk11MapViewBaseP04hereB0AA04HereB0Cvp" class="token"><code>hereMap</code></a> 
 
   </div>
 
@@ -350,6 +368,10 @@ Represents the available public API from <a href="sdk-for-ios-explore-classes-ma
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-heremap">HereMap</a>
+
   </div>
 
   </div>
@@ -358,7 +380,7 @@ Represents the available public API from <a href="sdk-for-ios-explore-classes-ma
 
 - <div>
 
-  ` `<span id="/s:7heresdk11MapViewBaseP12viewportSizeAA6Size2DVvp"></span>` `<span id="//apple_ref/swift/Property/viewportSize" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-protocols-mapviewbase#/s:7heresdk11MapViewBaseP12viewportSizeAA6Size2DVvp" class="token"><code>viewportSize</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11MapViewBaseP12viewportSizeAA6Size2DVvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-viewportSize" class="dashAnchor"></span> <a href="sdk-for-ios-explore-protocols-mapviewbase#sdk-for-ios-explore-s-7heresdk11MapViewBaseP12viewportSizeAA6Size2DVvp" class="token"><code>viewportSize</code></a> 
 
   </div>
 
@@ -394,6 +416,10 @@ Represents the available public API from <a href="sdk-for-ios-explore-classes-ma
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-size2d">Size2D</a>
+
   </div>
 
   </div>
@@ -402,7 +428,7 @@ Represents the available public API from <a href="sdk-for-ios-explore-classes-ma
 
 - <div>
 
-  ` `<span id="/s:7heresdk11MapViewBaseP9frameRates5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/frameRate" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-protocols-mapviewbase#/s:7heresdk11MapViewBaseP9frameRates5Int32Vvp" class="token"><code>frameRate</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11MapViewBaseP9frameRates5Int32Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-frameRate" class="dashAnchor"></span> <a href="sdk-for-ios-explore-protocols-mapviewbase#sdk-for-ios-explore-s-7heresdk11MapViewBaseP9frameRates5Int32Vvp" class="token"><code>frameRate</code></a> 
 
   </div>
 
@@ -446,7 +472,7 @@ Represents the available public API from <a href="sdk-for-ios-explore-classes-ma
 
 - <div>
 
-  ` `<span id="/s:7heresdk11MapViewBaseP10pixelScaleSdvp"></span>` `<span id="//apple_ref/swift/Property/pixelScale" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-protocols-mapviewbase#/s:7heresdk11MapViewBaseP10pixelScaleSdvp" class="token"><code>pixelScale</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11MapViewBaseP10pixelScaleSdvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-pixelScale" class="dashAnchor"></span> <a href="sdk-for-ios-explore-protocols-mapviewbase#sdk-for-ios-explore-s-7heresdk11MapViewBaseP10pixelScaleSdvp" class="token"><code>pixelScale</code></a> 
 
   </div>
 
@@ -494,7 +520,7 @@ Represents the available public API from <a href="sdk-for-ios-explore-classes-ma
 
 - <div>
 
-  ` `<span id="/s:7heresdk11MapViewBaseP13watermarkSizeAA6Size2DVvp"></span>` `<span id="//apple_ref/swift/Property/watermarkSize" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-protocols-mapviewbase#/s:7heresdk11MapViewBaseP13watermarkSizeAA6Size2DVvp" class="token"><code>watermarkSize</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11MapViewBaseP13watermarkSizeAA6Size2DVvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-watermarkSize" class="dashAnchor"></span> <a href="sdk-for-ios-explore-protocols-mapviewbase#sdk-for-ios-explore-s-7heresdk11MapViewBaseP13watermarkSizeAA6Size2DVvp" class="token"><code>watermarkSize</code></a> 
 
   </div>
 
@@ -530,6 +556,10 @@ Represents the available public API from <a href="sdk-for-ios-explore-classes-ma
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-size2d">Size2D</a>
+
   </div>
 
   </div>
@@ -538,7 +568,7 @@ Represents the available public API from <a href="sdk-for-ios-explore-classes-ma
 
 - <div>
 
-      viewToGeoCoordinates(viewCoordinates: )
+   <span id="sdk-for-ios-explore-s-7heresdk11MapViewBaseP20viewToGeoCoordinates0eH0AA0gH0VSgAA7Point2DV_tF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-viewToGeoCoordinates-viewCoordinates" class="dashAnchor"></span> <a href="sdk-for-ios-explore-protocols-mapviewbase#sdk-for-ios-explore-s-7heresdk11MapViewBaseP20viewToGeoCoordinates0eH0AA0gH0VSgAA7Point2DV_tF" class="token"><code>viewToGeoCoordinates(viewCoordinates:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -577,12 +607,15 @@ Represents the available public API from <a href="sdk-for-ios-explore-classes-ma
   Swift
 
   ``` highlight
-  func viewToGeoCoordinates ( viewCoordinates : Point2D ) -> GeoCoordinates ?
+  func viewToGeoCoordinates(viewCoordinates: Point2D) -> GeoCoordinates?
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-point2d">Point2D</a>
+  - <a href="sdk-for-ios-explore-structs-geocoordinates">GeoCoordinates</a>
 
   </div>
 
@@ -621,7 +654,7 @@ Represents the available public API from <a href="sdk-for-ios-explore-classes-ma
 
 - <div>
 
-      geoToViewCoordinates(geoCoordinates: )
+   <span id="sdk-for-ios-explore-s-7heresdk11MapViewBaseP05geoToC11Coordinates0eG0AA7Point2DVSgAA03GeoG0V_tF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-geoToViewCoordinates-geoCoordinates" class="dashAnchor"></span> <a href="sdk-for-ios-explore-protocols-mapviewbase#sdk-for-ios-explore-s-7heresdk11MapViewBaseP05geoToC11Coordinates0eG0AA7Point2DVSgAA03GeoG0V_tF" class="token"><code>geoToViewCoordinates(geoCoordinates:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -658,12 +691,15 @@ Represents the available public API from <a href="sdk-for-ios-explore-classes-ma
   Swift
 
   ``` highlight
-  func geoToViewCoordinates ( geoCoordinates : GeoCoordinates ) -> Point2D ?
+  func geoToViewCoordinates(geoCoordinates: GeoCoordinates) -> Point2D?
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geocoordinates">GeoCoordinates</a>
+  - <a href="sdk-for-ios-explore-structs-point2d">Point2D</a>
 
   </div>
 
@@ -702,7 +738,7 @@ Represents the available public API from <a href="sdk-for-ios-explore-classes-ma
 
 - <div>
 
-      setWatermarkLocation(anchor: offset: )
+   <span id="sdk-for-ios-explore-s-7heresdk11MapViewBaseP20setWatermarkLocation6anchor6offsetyAA8Anchor2DV_AA7Point2DVtF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-setWatermarkLocation-anchor-offset" class="dashAnchor"></span> <a href="sdk-for-ios-explore-protocols-mapviewbase#sdk-for-ios-explore-s-7heresdk11MapViewBaseP20setWatermarkLocation6anchor6offsetyAA8Anchor2DV_AA7Point2DVtF" class="token"><code>setWatermarkLocation(anchor:</code><wbr></wbr><code>offset:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -735,12 +771,15 @@ Represents the available public API from <a href="sdk-for-ios-explore-classes-ma
   Swift
 
   ``` highlight
-  func setWatermarkLocation ( anchor : Anchor2D , offset : Point2D )
+  func setWatermarkLocation(anchor: Anchor2D, offset: Point2D)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-anchor2d">Anchor2D</a>
+  - <a href="sdk-for-ios-explore-structs-point2d">Point2D</a>
 
   </div>
 
@@ -777,7 +816,7 @@ Represents the available public API from <a href="sdk-for-ios-explore-classes-ma
 
 - <div>
 
-      addLifecycleDelegate(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk11MapViewBaseP20addLifecycleDelegateyyAA0bcfG0_pF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-addLifecycleDelegate-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-protocols-mapviewbase#sdk-for-ios-explore-s-7heresdk11MapViewBaseP20addLifecycleDelegateyyAA0bcfG0_pF" class="token"><code>addLifecycleDelegate(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -808,12 +847,14 @@ Represents the available public API from <a href="sdk-for-ios-explore-classes-ma
   Swift
 
   ``` highlight
-  func addLifecycleDelegate ( _ lifecycleListener : MapViewLifecycleDelegate )
+  func addLifecycleDelegate(_ lifecycleListener: MapViewLifecycleDelegate)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-protocols-mapviewlifecycledelegate">MapViewLifecycleDelegate</a>
 
   </div>
 
@@ -844,7 +885,7 @@ Represents the available public API from <a href="sdk-for-ios-explore-classes-ma
 
 - <div>
 
-      removeLifecycleDelegate(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk11MapViewBaseP23removeLifecycleDelegateyyAA0bcfG0_pF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-removeLifecycleDelegate-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-protocols-mapviewbase#sdk-for-ios-explore-s-7heresdk11MapViewBaseP23removeLifecycleDelegateyyAA0bcfG0_pF" class="token"><code>removeLifecycleDelegate(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -875,12 +916,14 @@ Represents the available public API from <a href="sdk-for-ios-explore-classes-ma
   Swift
 
   ``` highlight
-  func removeLifecycleDelegate ( _ lifecycleListener : MapViewLifecycleDelegate )
+  func removeLifecycleDelegate(_ lifecycleListener: MapViewLifecycleDelegate)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-protocols-mapviewlifecycledelegate">MapViewLifecycleDelegate</a>
 
   </div>
 
@@ -911,7 +954,7 @@ Represents the available public API from <a href="sdk-for-ios-explore-classes-ma
 
 - <div>
 
-      pick(filter: inside: completion: )
+   <span id="sdk-for-ios-explore-s-7heresdk11MapViewBaseP4pick6filter6inside10completionyAA0B5SceneC0B10PickFilterCSg_AA11Rectangle2DVyAA0bJ6ResultCSgctF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-pick-filter-inside-completion" class="dashAnchor"></span> <a href="sdk-for-ios-explore-protocols-mapviewbase#sdk-for-ios-explore-s-7heresdk11MapViewBaseP4pick6filter6inside10completionyAA0B5SceneC0B10PickFilterCSg_AA11Rectangle2DVyAA0bJ6ResultCSgctF" class="token"><code>pick(filter:</code><wbr></wbr><code>inside:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -942,12 +985,16 @@ Represents the available public API from <a href="sdk-for-ios-explore-classes-ma
   Swift
 
   ``` highlight
-  func pick ( filter : MapScene . MapPickFilter ?, inside viewArea : Rectangle2D , completion : @escaping MapViewBase . PickMapHandler )
+  func pick(filter: MapScene.MapPickFilter?, inside viewArea: Rectangle2D, completion: @escaping MapViewBase.PickMapHandler)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-mapscene">MapScene</a>
+  - <a href="sdk-for-ios-explore-structs-rectangle2d">Rectangle2D</a>
+  - <a href="sdk-for-ios-explore-protocols-mapviewbase#sdk-for-ios-explore-s-7heresdk11MapViewBaseP04PickB7Handlera">PickMapHandler</a>
 
   </div>
 

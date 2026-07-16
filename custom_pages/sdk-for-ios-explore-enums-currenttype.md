@@ -27,7 +27,7 @@ This enum represents the type of electric current
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CurrentTypeO2acyA2CmF"></span>` `<span id="//apple_ref/swift/Element/ac" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-currenttype#/s:7heresdk11CurrentTypeO2acyA2CmF" class="token"><code>ac</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CurrentTypeO2acyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-ac" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-currenttype#sdk-for-ios-explore-s-7heresdk11CurrentTypeO2acyA2CmF" class="token"><code>ac</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ This enum represents the type of electric current
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CurrentTypeO2dcyA2CmF"></span>` `<span id="//apple_ref/swift/Element/dc" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-currenttype#/s:7heresdk11CurrentTypeO2dcyA2CmF" class="token"><code>dc</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CurrentTypeO2dcyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-dc" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-currenttype#sdk-for-ios-explore-s-7heresdk11CurrentTypeO2dcyA2CmF" class="token"><code>dc</code></a> 
 
   </div>
 

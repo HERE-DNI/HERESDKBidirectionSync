@@ -27,7 +27,7 @@ Contains all the relevant information on the user’s progress along a route.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13RouteProgressV12sectionIndexs5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/sectionIndex" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-routeprogress#/s:7heresdk13RouteProgressV12sectionIndexs5Int32Vvp" class="token"><code>sectionIndex</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13RouteProgressV12sectionIndexs5Int32Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-sectionIndex" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-routeprogress#sdk-for-ios-navigate-s-7heresdk13RouteProgressV12sectionIndexs5Int32Vvp" class="token"><code>sectionIndex</code></a> 
 
   </div>
 
@@ -45,7 +45,7 @@ Contains all the relevant information on the user’s progress along a route.
 
   <div class="abstract">
 
-  Index of the <a href="sdk-for-ios-navigate-classes-section">`Section`</a> in the route. Note that this section index does not point to the current <a href="sdk-for-ios-navigate-structs-sectionprogress">`SectionProgress`</a> but to the route <a href="sdk-for-ios-navigate-classes-section">`Section`</a> that you can access via `route` and <a href="sdk-for-ios-navigate-classes-route#/s:7heresdk5RouteC8sectionsSayAA7SectionCGvp">`Route.sections`</a>.
+  Index of the <a href="sdk-for-ios-navigate-classes-section">`Section`</a> in the route. Note that this section index does not point to the current <a href="sdk-for-ios-navigate-structs-sectionprogress">`SectionProgress`</a> but to the route <a href="sdk-for-ios-navigate-classes-section">`Section`</a> that you can access via `route` and <a href="sdk-for-ios-navigate-classes-route#sdk-for-ios-navigate-s-7heresdk5RouteC8sectionsSayAA7SectionCGvp">`Route.sections`</a>.
 
   </div>
 
@@ -58,10 +58,9 @@ Contains all the relevant information on the user’s progress along a route.
   Swift
 
   ``` highlight
-  @available(*, deprecated, message: "Will be removed in v4.27.0. Use `RouteProgress.routeMatchedLocation` instead.") public var sectionIndex : Int32
+  @available(*, deprecated, message: "Will be removed in v4.27.0. Use `RouteProgress.routeMatchedLocation` instead.")
+  public var sectionIndex: Int32
   ```
-
-  </pre>
 
   </div>
 
@@ -73,7 +72,7 @@ Contains all the relevant information on the user’s progress along a route.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13RouteProgressV9spanIndexs5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/spanIndex" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-routeprogress#/s:7heresdk13RouteProgressV9spanIndexs5Int32Vvp" class="token"><code>spanIndex</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13RouteProgressV9spanIndexs5Int32Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-spanIndex" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-routeprogress#sdk-for-ios-navigate-s-7heresdk13RouteProgressV9spanIndexs5Int32Vvp" class="token"><code>spanIndex</code></a> 
 
   </div>
 
@@ -104,10 +103,9 @@ Contains all the relevant information on the user’s progress along a route.
   Swift
 
   ``` highlight
-  @available(*, deprecated, message: "Will be removed in v4.27.0. Use `RouteProgress.routeMatchedLocation` instead.") public var spanIndex : Int32
+  @available(*, deprecated, message: "Will be removed in v4.27.0. Use `RouteProgress.routeMatchedLocation` instead.")
+  public var spanIndex: Int32
   ```
-
-  </pre>
 
   </div>
 
@@ -119,7 +117,7 @@ Contains all the relevant information on the user’s progress along a route.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13RouteProgressV07sectionC0SayAA07SectionC0VGvp"></span>` `<span id="//apple_ref/swift/Property/sectionProgress" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-routeprogress#/s:7heresdk13RouteProgressV07sectionC0SayAA07SectionC0VGvp" class="token"><code>sectionProgress</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13RouteProgressV07sectionC0SayAA07SectionC0VGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-sectionProgress" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-routeprogress#sdk-for-ios-navigate-s-7heresdk13RouteProgressV07sectionC0SayAA07SectionC0VGvp" class="token"><code>sectionProgress</code></a> 
 
   </div>
 
@@ -155,6 +153,10 @@ Contains all the relevant information on the user’s progress along a route.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-sectionprogress">SectionProgress</a>
+
   </div>
 
   </div>
@@ -163,7 +165,7 @@ Contains all the relevant information on the user’s progress along a route.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13RouteProgressV08maneuverC0SayAA08ManeuverC0VGvp"></span>` `<span id="//apple_ref/swift/Property/maneuverProgress" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-routeprogress#/s:7heresdk13RouteProgressV08maneuverC0SayAA08ManeuverC0VGvp" class="token"><code>maneuverProgress</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13RouteProgressV08maneuverC0SayAA08ManeuverC0VGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-maneuverProgress" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-routeprogress#sdk-for-ios-navigate-s-7heresdk13RouteProgressV08maneuverC0SayAA08ManeuverC0VGvp" class="token"><code>maneuverProgress</code></a> 
 
   </div>
 
@@ -199,6 +201,10 @@ Contains all the relevant information on the user’s progress along a route.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-maneuverprogress">ManeuverProgress</a>
+
   </div>
 
   </div>
@@ -207,7 +213,7 @@ Contains all the relevant information on the user’s progress along a route.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13RouteProgressV20routeMatchedLocationAA0beF0Vvp"></span>` `<span id="//apple_ref/swift/Property/routeMatchedLocation" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-routeprogress#/s:7heresdk13RouteProgressV20routeMatchedLocationAA0beF0Vvp" class="token"><code>routeMatchedLocation</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13RouteProgressV20routeMatchedLocationAA0beF0Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-routeMatchedLocation" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-routeprogress#sdk-for-ios-navigate-s-7heresdk13RouteProgressV20routeMatchedLocationAA0beF0Vvp" class="token"><code>routeMatchedLocation</code></a> 
 
   </div>
 
@@ -243,6 +249,10 @@ Contains all the relevant information on the user’s progress along a route.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-routematchedlocation">RouteMatchedLocation</a>
+
   </div>
 
   </div>
@@ -251,7 +261,7 @@ Contains all the relevant information on the user’s progress along a route.
 
 - <div>
 
-      init(sectionProgress: maneuverProgress: routeMatchedLocation: )
+   <span id="sdk-for-ios-navigate-s-7heresdk13RouteProgressV07sectionC008maneuverC020routeMatchedLocationACSayAA07SectionC0VG_SayAA08ManeuverC0VGAA0bgH0Vtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-sectionProgress-maneuverProgress-routeMatchedLocation" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-routeprogress#sdk-for-ios-navigate-s-7heresdk13RouteProgressV07sectionC008maneuverC020routeMatchedLocationACSayAA07SectionC0VG_SayAA08ManeuverC0VGAA0bgH0Vtcfc" class="token"><code>init(sectionProgress:</code><wbr></wbr><code>maneuverProgress:</code><wbr></wbr><code>routeMatchedLocation:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -282,12 +292,16 @@ Contains all the relevant information on the user’s progress along a route.
   Swift
 
   ``` highlight
-  public init ( sectionProgress : [ SectionProgress ], maneuverProgress : [ ManeuverProgress ], routeMatchedLocation : RouteMatchedLocation = RouteMatchedLocation ())
+  public init(sectionProgress: [SectionProgress], maneuverProgress: [ManeuverProgress], routeMatchedLocation: RouteMatchedLocation = RouteMatchedLocation())
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-sectionprogress">SectionProgress</a>
+  - <a href="sdk-for-ios-navigate-structs-maneuverprogress">ManeuverProgress</a>
+  - <a href="sdk-for-ios-navigate-structs-routematchedlocation">RouteMatchedLocation</a>
 
   </div>
 
@@ -297,7 +311,7 @@ Contains all the relevant information on the user’s progress along a route.
 
 - <div>
 
-      init(sectionIndex: spanIndex: sectionProgress: maneuverProgress: routeMatchedLocation: )
+   <span id="sdk-for-ios-navigate-s-7heresdk13RouteProgressV12sectionIndex04spanE00dC008maneuverC020routeMatchedLocationACs5Int32V_AJSayAA07SectionC0VGSayAA08ManeuverC0VGAA0biJ0Vtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-sectionIndex-spanIndex-sectionProgress-maneuverProgress-routeMatchedLocation" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-routeprogress#sdk-for-ios-navigate-s-7heresdk13RouteProgressV12sectionIndex04spanE00dC008maneuverC020routeMatchedLocationACs5Int32V_AJSayAA07SectionC0VGSayAA08ManeuverC0VGAA0biJ0Vtcfc" class="token"><code>init(sectionIndex:</code><wbr></wbr><code>spanIndex:</code><wbr></wbr><code>sectionProgress:</code><wbr></wbr><code>maneuverProgress:</code><wbr></wbr><code>routeMatchedLocation:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -328,12 +342,17 @@ Contains all the relevant information on the user’s progress along a route.
   Swift
 
   ``` highlight
-  @available(*, deprecated) public init ( sectionIndex : Int32 = 0 , spanIndex : Int32 = 0 , sectionProgress : [ SectionProgress ], maneuverProgress : [ ManeuverProgress ], routeMatchedLocation : RouteMatchedLocation = RouteMatchedLocation ())
+  @available(*, deprecated)
+  public init(sectionIndex: Int32 = 0, spanIndex: Int32 = 0, sectionProgress: [SectionProgress], maneuverProgress: [ManeuverProgress], routeMatchedLocation: RouteMatchedLocation = RouteMatchedLocation())
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-sectionprogress">SectionProgress</a>
+  - <a href="sdk-for-ios-navigate-structs-maneuverprogress">ManeuverProgress</a>
+  - <a href="sdk-for-ios-navigate-structs-routematchedlocation">RouteMatchedLocation</a>
 
   </div>
 

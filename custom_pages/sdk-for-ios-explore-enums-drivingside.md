@@ -27,7 +27,7 @@ The side of the road on which the driving is done.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11DrivingSideO5rightyA2CmF"></span>` `<span id="//apple_ref/swift/Element/right" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-drivingside#/s:7heresdk11DrivingSideO5rightyA2CmF" class="token"><code>right</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11DrivingSideO5rightyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-right" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-drivingside#sdk-for-ios-explore-s-7heresdk11DrivingSideO5rightyA2CmF" class="token"><code>right</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ The side of the road on which the driving is done.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11DrivingSideO4leftyA2CmF"></span>` `<span id="//apple_ref/swift/Element/left" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-drivingside#/s:7heresdk11DrivingSideO4leftyA2CmF" class="token"><code>left</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11DrivingSideO4leftyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-left" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-drivingside#sdk-for-ios-explore-s-7heresdk11DrivingSideO4leftyA2CmF" class="token"><code>left</code></a> 
 
   </div>
 

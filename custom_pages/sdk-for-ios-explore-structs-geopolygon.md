@@ -27,7 +27,7 @@ Represents a `GeoPolygon` area as a series of geographic coordinates, and option
 
 - <div>
 
-  ` `<span id="/s:7heresdk10GeoPolygonV8verticesSayAA0B11CoordinatesVGvp"></span>` `<span id="//apple_ref/swift/Property/vertices" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-geopolygon#/s:7heresdk10GeoPolygonV8verticesSayAA0B11CoordinatesVGvp" class="token"><code>vertices</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10GeoPolygonV8verticesSayAA0B11CoordinatesVGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-vertices" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-geopolygon#sdk-for-ios-explore-s-7heresdk10GeoPolygonV8verticesSayAA0B11CoordinatesVGvp" class="token"><code>vertices</code></a> 
 
   </div>
 
@@ -63,6 +63,10 @@ Represents a `GeoPolygon` area as a series of geographic coordinates, and option
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geocoordinates">GeoCoordinates</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ Represents a `GeoPolygon` area as a series of geographic coordinates, and option
 
 - <div>
 
-  ` `<span id="/s:7heresdk10GeoPolygonV15innerBoundariesSaySayAA0B11CoordinatesVGGvp"></span>` `<span id="//apple_ref/swift/Property/innerBoundaries" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-geopolygon#/s:7heresdk10GeoPolygonV15innerBoundariesSaySayAA0B11CoordinatesVGGvp" class="token"><code>innerBoundaries</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10GeoPolygonV15innerBoundariesSaySayAA0B11CoordinatesVGGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-innerBoundaries" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-geopolygon#sdk-for-ios-explore-s-7heresdk10GeoPolygonV15innerBoundariesSaySayAA0B11CoordinatesVGGvp" class="token"><code>innerBoundaries</code></a> 
 
   </div>
 
@@ -107,6 +111,10 @@ Represents a `GeoPolygon` area as a series of geographic coordinates, and option
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geocoordinates">GeoCoordinates</a>
+
   </div>
 
   </div>
@@ -115,7 +123,7 @@ Represents a `GeoPolygon` area as a series of geographic coordinates, and option
 
 - <div>
 
-      init(vertices: )
+   <span id="sdk-for-ios-explore-s-7heresdk10GeoPolygonV8verticesACSayAA0B11CoordinatesVG_tKcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-vertices" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-geopolygon#sdk-for-ios-explore-s-7heresdk10GeoPolygonV8verticesACSayAA0B11CoordinatesVG_tKcfc" class="token"><code>init(vertices:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -139,7 +147,7 @@ Represents a `GeoPolygon` area as a series of geographic coordinates, and option
 
   Throws
 
-  <a href="sdk-for-ios-explore-core#/s:7heresdk18InstantiationErrora">`InstantiationError`</a> Instantiation error.
+  <a href="sdk-for-ios-explore-core#sdk-for-ios-explore-s-7heresdk18InstantiationErrora">`InstantiationError`</a> Instantiation error.
 
   </div>
 
@@ -154,12 +162,14 @@ Represents a `GeoPolygon` area as a series of geographic coordinates, and option
   Swift
 
   ``` highlight
-  public init ( vertices : [ GeoCoordinates ]) throws
+  public init(vertices: [GeoCoordinates]) throws
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geocoordinates">GeoCoordinates</a>
 
   </div>
 
@@ -190,7 +200,7 @@ Represents a `GeoPolygon` area as a series of geographic coordinates, and option
 
 - <div>
 
-      init(vertices: innerBoundaries: )
+   <span id="sdk-for-ios-explore-s-7heresdk10GeoPolygonV8vertices15innerBoundariesACSayAA0B11CoordinatesVG_SayAHGtKcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-vertices-innerBoundaries" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-geopolygon#sdk-for-ios-explore-s-7heresdk10GeoPolygonV8vertices15innerBoundariesACSayAA0B11CoordinatesVG_SayAHGtKcfc" class="token"><code>init(vertices:</code><wbr></wbr><code>innerBoundaries:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -214,7 +224,7 @@ Represents a `GeoPolygon` area as a series of geographic coordinates, and option
 
   Throws
 
-  <a href="sdk-for-ios-explore-core#/s:7heresdk18InstantiationErrora">`InstantiationError`</a> Instantiation error.
+  <a href="sdk-for-ios-explore-core#sdk-for-ios-explore-s-7heresdk18InstantiationErrora">`InstantiationError`</a> Instantiation error.
 
   </div>
 
@@ -229,12 +239,14 @@ Represents a `GeoPolygon` area as a series of geographic coordinates, and option
   Swift
 
   ``` highlight
-  public init ( vertices : [ GeoCoordinates ], innerBoundaries : [[ GeoCoordinates ]]) throws
+  public init(vertices: [GeoCoordinates], innerBoundaries: [[GeoCoordinates]]) throws
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geocoordinates">GeoCoordinates</a>
 
   </div>
 
@@ -271,7 +283,7 @@ Represents a `GeoPolygon` area as a series of geographic coordinates, and option
 
 - <div>
 
-      init(geoCircle: )
+   <span id="sdk-for-ios-explore-s-7heresdk10GeoPolygonV9geoCircleAcA0bE0V_tcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-geoCircle" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-geopolygon#sdk-for-ios-explore-s-7heresdk10GeoPolygonV9geoCircleAcA0bE0V_tcfc" class="token"><code>init(geoCircle:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -302,12 +314,14 @@ Represents a `GeoPolygon` area as a series of geographic coordinates, and option
   Swift
 
   ``` highlight
-  public init ( geoCircle : GeoCircle )
+  public init(geoCircle: GeoCircle)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geocircle">GeoCircle</a>
 
   </div>
 
@@ -338,7 +352,7 @@ Represents a `GeoPolygon` area as a series of geographic coordinates, and option
 
 - <div>
 
-      init(geoBox: )
+   <span id="sdk-for-ios-explore-s-7heresdk10GeoPolygonV6geoBoxAcA0bE0V_tcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-geoBox" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-geopolygon#sdk-for-ios-explore-s-7heresdk10GeoPolygonV6geoBoxAcA0bE0V_tcfc" class="token"><code>init(geoBox:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -369,12 +383,14 @@ Represents a `GeoPolygon` area as a series of geographic coordinates, and option
   Swift
 
   ``` highlight
-  public init ( geoBox : GeoBox )
+  public init(geoBox: GeoBox)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geobox">GeoBox</a>
 
   </div>
 

@@ -27,7 +27,7 @@ Road features or states.
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoadFeaturesO15seasonalClosureyA2CmF"></span>` `<span id="//apple_ref/swift/Element/seasonalClosure" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-roadfeatures#/s:7heresdk12RoadFeaturesO15seasonalClosureyA2CmF" class="token"><code>seasonalClosure</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12RoadFeaturesO15seasonalClosureyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-seasonalClosure" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-roadfeatures#sdk-for-ios-navigate-s-7heresdk12RoadFeaturesO15seasonalClosureyA2CmF" class="token"><code>seasonalClosure</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Road features or states.
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoadFeaturesO04tollB0yA2CmF"></span>` `<span id="//apple_ref/swift/Element/tollRoad" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-roadfeatures#/s:7heresdk12RoadFeaturesO04tollB0yA2CmF" class="token"><code>tollRoad</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12RoadFeaturesO04tollB0yA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-tollRoad" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-roadfeatures#sdk-for-ios-navigate-s-7heresdk12RoadFeaturesO04tollB0yA2CmF" class="token"><code>tollRoad</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Road features or states.
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoadFeaturesO23controlledAccessHighwayyA2CmF"></span>` `<span id="//apple_ref/swift/Element/controlledAccessHighway" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-roadfeatures#/s:7heresdk12RoadFeaturesO23controlledAccessHighwayyA2CmF" class="token"><code>controlledAccessHighway</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12RoadFeaturesO23controlledAccessHighwayyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-controlledAccessHighway" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-roadfeatures#sdk-for-ios-navigate-s-7heresdk12RoadFeaturesO23controlledAccessHighwayyA2CmF" class="token"><code>controlledAccessHighway</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Road features or states.
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoadFeaturesO5ferryyA2CmF"></span>` `<span id="//apple_ref/swift/Element/ferry" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-roadfeatures#/s:7heresdk12RoadFeaturesO5ferryyA2CmF" class="token"><code>ferry</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12RoadFeaturesO5ferryyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-ferry" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-roadfeatures#sdk-for-ios-navigate-s-7heresdk12RoadFeaturesO5ferryyA2CmF" class="token"><code>ferry</code></a> 
 
   </div>
 
@@ -203,7 +203,7 @@ Road features or states.
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoadFeaturesO15carShuttleTrainyA2CmF"></span>` `<span id="//apple_ref/swift/Element/carShuttleTrain" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-roadfeatures#/s:7heresdk12RoadFeaturesO15carShuttleTrainyA2CmF" class="token"><code>carShuttleTrain</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12RoadFeaturesO15carShuttleTrainyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-carShuttleTrain" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-roadfeatures#sdk-for-ios-navigate-s-7heresdk12RoadFeaturesO15carShuttleTrainyA2CmF" class="token"><code>carShuttleTrain</code></a> 
 
   </div>
 
@@ -247,7 +247,7 @@ Road features or states.
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoadFeaturesO6tunnelyA2CmF"></span>` `<span id="//apple_ref/swift/Element/tunnel" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-roadfeatures#/s:7heresdk12RoadFeaturesO6tunnelyA2CmF" class="token"><code>tunnel</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12RoadFeaturesO6tunnelyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-tunnel" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-roadfeatures#sdk-for-ios-navigate-s-7heresdk12RoadFeaturesO6tunnelyA2CmF" class="token"><code>tunnel</code></a> 
 
   </div>
 
@@ -291,7 +291,7 @@ Road features or states.
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoadFeaturesO04dirtB0yA2CmF"></span>` `<span id="//apple_ref/swift/Element/dirtRoad" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-roadfeatures#/s:7heresdk12RoadFeaturesO04dirtB0yA2CmF" class="token"><code>dirtRoad</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12RoadFeaturesO04dirtB0yA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-dirtRoad" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-roadfeatures#sdk-for-ios-navigate-s-7heresdk12RoadFeaturesO04dirtB0yA2CmF" class="token"><code>dirtRoad</code></a> 
 
   </div>
 
@@ -335,7 +335,7 @@ Road features or states.
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoadFeaturesO6uTurnsyA2CmF"></span>` `<span id="//apple_ref/swift/Element/uTurns" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-roadfeatures#/s:7heresdk12RoadFeaturesO6uTurnsyA2CmF" class="token"><code>uTurns</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12RoadFeaturesO6uTurnsyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-uTurns" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-roadfeatures#sdk-for-ios-navigate-s-7heresdk12RoadFeaturesO6uTurnsyA2CmF" class="token"><code>uTurns</code></a> 
 
   </div>
 

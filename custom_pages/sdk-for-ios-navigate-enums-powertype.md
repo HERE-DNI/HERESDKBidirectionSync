@@ -27,7 +27,7 @@ Represents the type of electrical power. **Note:** This is a beta release of thi
 
 - <div>
 
-  ` `<span id="/s:7heresdk9PowerTypeO8ac1phaseyA2CmF"></span>` `<span id="//apple_ref/swift/Element/ac1phase" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-powertype#/s:7heresdk9PowerTypeO8ac1phaseyA2CmF" class="token"><code>ac1phase</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9PowerTypeO8ac1phaseyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-ac1phase" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-powertype#sdk-for-ios-navigate-s-7heresdk9PowerTypeO8ac1phaseyA2CmF" class="token"><code>ac1phase</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Represents the type of electrical power. **Note:** This is a beta release of thi
 
 - <div>
 
-  ` `<span id="/s:7heresdk9PowerTypeO8ac2phaseyA2CmF"></span>` `<span id="//apple_ref/swift/Element/ac2phase" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-powertype#/s:7heresdk9PowerTypeO8ac2phaseyA2CmF" class="token"><code>ac2phase</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9PowerTypeO8ac2phaseyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-ac2phase" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-powertype#sdk-for-ios-navigate-s-7heresdk9PowerTypeO8ac2phaseyA2CmF" class="token"><code>ac2phase</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Represents the type of electrical power. **Note:** This is a beta release of thi
 
 - <div>
 
-  ` `<span id="/s:7heresdk9PowerTypeO13ac2phasesplityA2CmF"></span>` `<span id="//apple_ref/swift/Element/ac2phasesplit" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-powertype#/s:7heresdk9PowerTypeO13ac2phasesplityA2CmF" class="token"><code>ac2phasesplit</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9PowerTypeO13ac2phasesplityA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-ac2phasesplit" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-powertype#sdk-for-ios-navigate-s-7heresdk9PowerTypeO13ac2phasesplityA2CmF" class="token"><code>ac2phasesplit</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Represents the type of electrical power. **Note:** This is a beta release of thi
 
 - <div>
 
-  ` `<span id="/s:7heresdk9PowerTypeO8ac3phaseyA2CmF"></span>` `<span id="//apple_ref/swift/Element/ac3phase" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-powertype#/s:7heresdk9PowerTypeO8ac3phaseyA2CmF" class="token"><code>ac3phase</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9PowerTypeO8ac3phaseyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-ac3phase" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-powertype#sdk-for-ios-navigate-s-7heresdk9PowerTypeO8ac3phaseyA2CmF" class="token"><code>ac3phase</code></a> 
 
   </div>
 
@@ -203,7 +203,7 @@ Represents the type of electrical power. **Note:** This is a beta release of thi
 
 - <div>
 
-  ` `<span id="/s:7heresdk9PowerTypeO2dcyA2CmF"></span>` `<span id="//apple_ref/swift/Element/dc" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-powertype#/s:7heresdk9PowerTypeO2dcyA2CmF" class="token"><code>dc</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9PowerTypeO2dcyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-dc" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-powertype#sdk-for-ios-navigate-s-7heresdk9PowerTypeO2dcyA2CmF" class="token"><code>dc</code></a> 
 
   </div>
 

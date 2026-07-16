@@ -27,7 +27,7 @@ Geodetic orientation with bearing, tilt and roll.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14GeoOrientationV7bearingSdvp"></span>` `<span id="//apple_ref/swift/Property/bearing" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-geoorientation#/s:7heresdk14GeoOrientationV7bearingSdvp" class="token"><code>bearing</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14GeoOrientationV7bearingSdvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-bearing" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-geoorientation#sdk-for-ios-explore-s-7heresdk14GeoOrientationV7bearingSdvp" class="token"><code>bearing</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Geodetic orientation with bearing, tilt and roll.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14GeoOrientationV4tiltSdvp"></span>` `<span id="//apple_ref/swift/Property/tilt" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-geoorientation#/s:7heresdk14GeoOrientationV4tiltSdvp" class="token"><code>tilt</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14GeoOrientationV4tiltSdvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-tilt" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-geoorientation#sdk-for-ios-explore-s-7heresdk14GeoOrientationV4tiltSdvp" class="token"><code>tilt</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Geodetic orientation with bearing, tilt and roll.
 
 - <div>
 
-      init(bearing: tilt: )
+   <span id="sdk-for-ios-explore-s-7heresdk14GeoOrientationV7bearing4tiltACSd_Sdtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-bearing-tilt" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-geoorientation#sdk-for-ios-explore-s-7heresdk14GeoOrientationV7bearing4tiltACSd_Sdtcfc" class="token"><code>init(bearing:</code><wbr></wbr><code>tilt:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -144,10 +144,8 @@ Geodetic orientation with bearing, tilt and roll.
   Swift
 
   ``` highlight
-  public init ( bearing : Double , tilt : Double )
+  public init(bearing: Double, tilt: Double)
   ```
-
-  </pre>
 
   </div>
 

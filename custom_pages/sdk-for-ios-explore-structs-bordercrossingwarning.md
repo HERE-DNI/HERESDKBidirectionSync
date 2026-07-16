@@ -17,7 +17,7 @@ public struct BorderCrossingWarning : Hashable
 
 </div>
 
-A border crossing. The main field describing the border crossing is <a href="sdk-for-ios-explore-structs-bordercrossingwarning#/s:7heresdk21BorderCrossingWarningV4typeAA0bC4TypeOvp">`BorderCrossingWarning.type`</a> specifying whether the border crossing is given for a country border or a state border. The <a href="sdk-for-ios-explore-structs-bordercrossingwarning#/s:7heresdk21BorderCrossingWarningV4typeAA0bC4TypeOvp">`BorderCrossingWarning.type`</a> must be known. The country and state codes are contained in <a href="sdk-for-ios-explore-structs-bordercrossingwarning#/s:7heresdk21BorderCrossingWarningV19administrativeRulesAA014AdministrativeF0Vvp">`BorderCrossingWarning.administrativeRules`</a> along with other information such as speed limits, u-turn regulations or pre-trip planning information contained by the <a href="sdk-for-ios-explore-structs-administrativerules">`AdministrativeRules`</a>.
+A border crossing. The main field describing the border crossing is <a href="sdk-for-ios-explore-structs-bordercrossingwarning#sdk-for-ios-explore-s-7heresdk21BorderCrossingWarningV4typeAA0bC4TypeOvp">`BorderCrossingWarning.type`</a> specifying whether the border crossing is given for a country border or a state border. The <a href="sdk-for-ios-explore-structs-bordercrossingwarning#sdk-for-ios-explore-s-7heresdk21BorderCrossingWarningV4typeAA0bC4TypeOvp">`BorderCrossingWarning.type`</a> must be known. The country and state codes are contained in <a href="sdk-for-ios-explore-structs-bordercrossingwarning#sdk-for-ios-explore-s-7heresdk21BorderCrossingWarningV19administrativeRulesAA014AdministrativeF0Vvp">`BorderCrossingWarning.administrativeRules`</a> along with other information such as speed limits, u-turn regulations or pre-trip planning information contained by the <a href="sdk-for-ios-explore-structs-administrativerules">`AdministrativeRules`</a>.
 
 Use `BorderCrossingWarningListener` to get notifications about upcoming country or state border crossings.
 
@@ -29,7 +29,7 @@ Use `BorderCrossingWarningListener` to get notifications about upcoming country 
 
 - <div>
 
-  ` `<span id="/s:7heresdk21BorderCrossingWarningV2ids5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/id" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-bordercrossingwarning#/s:7heresdk21BorderCrossingWarningV2ids5Int32Vvp" class="token"><code>id</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk21BorderCrossingWarningV2ids5Int32Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-id" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-bordercrossingwarning#sdk-for-ios-explore-s-7heresdk21BorderCrossingWarningV2ids5Int32Vvp" class="token"><code>id</code></a> 
 
   </div>
 
@@ -73,7 +73,7 @@ Use `BorderCrossingWarningListener` to get notifications about upcoming country 
 
 - <div>
 
-  ` `<span id="/s:7heresdk21BorderCrossingWarningV010distanceTobC8InMetersSdvp"></span>` `<span id="//apple_ref/swift/Property/distanceToBorderCrossingInMeters" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-bordercrossingwarning#/s:7heresdk21BorderCrossingWarningV010distanceTobC8InMetersSdvp" class="token"><code>distanceToBorderCrossingInMeters</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk21BorderCrossingWarningV010distanceTobC8InMetersSdvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-distanceToBorderCrossingInMeters" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-bordercrossingwarning#sdk-for-ios-explore-s-7heresdk21BorderCrossingWarningV010distanceTobC8InMetersSdvp" class="token"><code>distanceToBorderCrossingInMeters</code></a> 
 
   </div>
 
@@ -117,7 +117,7 @@ Use `BorderCrossingWarningListener` to get notifications about upcoming country 
 
 - <div>
 
-  ` `<span id="/s:7heresdk21BorderCrossingWarningV4typeAA0bC4TypeOvp"></span>` `<span id="//apple_ref/swift/Property/type" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-bordercrossingwarning#/s:7heresdk21BorderCrossingWarningV4typeAA0bC4TypeOvp" class="token"><code>type</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk21BorderCrossingWarningV4typeAA0bC4TypeOvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-type" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-bordercrossingwarning#sdk-for-ios-explore-s-7heresdk21BorderCrossingWarningV4typeAA0bC4TypeOvp" class="token"><code>type</code></a> 
 
   </div>
 
@@ -153,6 +153,10 @@ Use `BorderCrossingWarningListener` to get notifications about upcoming country 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-bordercrossingtype">BorderCrossingType</a>
+
   </div>
 
   </div>
@@ -161,7 +165,7 @@ Use `BorderCrossingWarningListener` to get notifications about upcoming country 
 
 - <div>
 
-  ` `<span id="/s:7heresdk21BorderCrossingWarningV19administrativeRulesAA014AdministrativeF0Vvp"></span>` `<span id="//apple_ref/swift/Property/administrativeRules" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-bordercrossingwarning#/s:7heresdk21BorderCrossingWarningV19administrativeRulesAA014AdministrativeF0Vvp" class="token"><code>administrativeRules</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk21BorderCrossingWarningV19administrativeRulesAA014AdministrativeF0Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-administrativeRules" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-bordercrossingwarning#sdk-for-ios-explore-s-7heresdk21BorderCrossingWarningV19administrativeRulesAA014AdministrativeF0Vvp" class="token"><code>administrativeRules</code></a> 
 
   </div>
 
@@ -197,6 +201,10 @@ Use `BorderCrossingWarningListener` to get notifications about upcoming country 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-administrativerules">AdministrativeRules</a>
+
   </div>
 
   </div>
@@ -205,7 +213,7 @@ Use `BorderCrossingWarningListener` to get notifications about upcoming country 
 
 - <div>
 
-  ` `<span id="/s:7heresdk21BorderCrossingWarningV12distanceTypeAA08DistanceF0Ovp"></span>` `<span id="//apple_ref/swift/Property/distanceType" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-bordercrossingwarning#/s:7heresdk21BorderCrossingWarningV12distanceTypeAA08DistanceF0Ovp" class="token"><code>distanceType</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk21BorderCrossingWarningV12distanceTypeAA08DistanceF0Ovp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-distanceType" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-bordercrossingwarning#sdk-for-ios-explore-s-7heresdk21BorderCrossingWarningV12distanceTypeAA08DistanceF0Ovp" class="token"><code>distanceType</code></a> 
 
   </div>
 
@@ -223,7 +231,7 @@ Use `BorderCrossingWarningListener` to get notifications about upcoming country 
 
   <div class="abstract">
 
-  The distance type for the warning, e.g. a warning for a new border crossing ahead or a warning for passing a border crossing. Since the border crossing warning is given relative to a single position on the route, <a href="sdk-for-ios-explore-enums-distancetype#/s:7heresdk12DistanceTypeO7reachedyA2CmF">`DistanceType.reached`</a> will never be given for this warning.
+  The distance type for the warning, e.g. a warning for a new border crossing ahead or a warning for passing a border crossing. Since the border crossing warning is given relative to a single position on the route, <a href="sdk-for-ios-explore-enums-distancetype#sdk-for-ios-explore-s-7heresdk12DistanceTypeO7reachedyA2CmF">`DistanceType.reached`</a> will never be given for this warning.
 
   </div>
 
@@ -241,6 +249,10 @@ Use `BorderCrossingWarningListener` to get notifications about upcoming country 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-distancetype">DistanceType</a>
+
   </div>
 
   </div>
@@ -249,7 +261,7 @@ Use `BorderCrossingWarningListener` to get notifications about upcoming country 
 
 - <div>
 
-  ` `<span id="/s:7heresdk21BorderCrossingWarningV28commercialVehicleRegulationsAA024AdministrativeCommercialF5RulesVSgvp"></span>` `<span id="//apple_ref/swift/Property/commercialVehicleRegulations" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-bordercrossingwarning#/s:7heresdk21BorderCrossingWarningV28commercialVehicleRegulationsAA024AdministrativeCommercialF5RulesVSgvp" class="token"><code>commercialVehicleRegulations</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk21BorderCrossingWarningV28commercialVehicleRegulationsAA024AdministrativeCommercialF5RulesVSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-commercialVehicleRegulations" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-bordercrossingwarning#sdk-for-ios-explore-s-7heresdk21BorderCrossingWarningV28commercialVehicleRegulationsAA024AdministrativeCommercialF5RulesVSgvp" class="token"><code>commercialVehicleRegulations</code></a> 
 
   </div>
 
@@ -285,6 +297,10 @@ Use `BorderCrossingWarningListener` to get notifications about upcoming country 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-administrativecommercialvehiclerules">AdministrativeCommercialVehicleRules</a>
+
   </div>
 
   </div>
@@ -293,7 +309,7 @@ Use `BorderCrossingWarningListener` to get notifications about upcoming country 
 
 - <div>
 
-      init(id: distanceToBorderCrossingInMeters: type: administrativeRules: distanceType: commercialVehicleRegulations: )
+   <span id="sdk-for-ios-explore-s-7heresdk21BorderCrossingWarningV2id010distanceTobC8InMeters4type19administrativeRules0F4Type28commercialVehicleRegulationsACs5Int32V_SdAA0bcM0OAA014AdministrativeL0VAA08DistanceM0OAA0r10CommercialoL0VSgtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-id-distanceToBorderCrossingInMeters-type-administrativeRules-distanceType-commercialVehicleRegulations" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-bordercrossingwarning#sdk-for-ios-explore-s-7heresdk21BorderCrossingWarningV2id010distanceTobC8InMeters4type19administrativeRules0F4Type28commercialVehicleRegulationsACs5Int32V_SdAA0bcM0OAA014AdministrativeL0VAA08DistanceM0OAA0r10CommercialoL0VSgtcfc" class="token"><code>init(id:</code><wbr></wbr><code>distanceToBorderCrossingInMeters:</code><wbr></wbr><code>type:</code><wbr></wbr><code>administrativeRules:</code><wbr></wbr><code>distanceType:</code><wbr></wbr><code>commercialVehicleRegulations:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -324,12 +340,17 @@ Use `BorderCrossingWarningListener` to get notifications about upcoming country 
   Swift
 
   ``` highlight
-  public init ( id : Int32 = 0 , distanceToBorderCrossingInMeters : Double , type : BorderCrossingType , administrativeRules : AdministrativeRules , distanceType : DistanceType , commercialVehicleRegulations : AdministrativeCommercialVehicleRules ? = nil )
+  public init(id: Int32 = 0, distanceToBorderCrossingInMeters: Double, type: BorderCrossingType, administrativeRules: AdministrativeRules, distanceType: DistanceType, commercialVehicleRegulations: AdministrativeCommercialVehicleRules? = nil)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-bordercrossingtype">BorderCrossingType</a>
+  - <a href="sdk-for-ios-explore-structs-administrativerules">AdministrativeRules</a>
+  - <a href="sdk-for-ios-explore-enums-distancetype">DistanceType</a>
+  - <a href="sdk-for-ios-explore-structs-administrativecommercialvehiclerules">AdministrativeCommercialVehicleRules</a>
 
   </div>
 

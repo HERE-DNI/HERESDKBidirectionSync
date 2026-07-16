@@ -27,7 +27,7 @@ Represents a location matched to a specific position on a navigation route.
 
 - <div>
 
-  ` `<span id="/s:7heresdk20RouteMatchedLocationV12sectionIndexs5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/sectionIndex" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-routematchedlocation#/s:7heresdk20RouteMatchedLocationV12sectionIndexs5Int32Vvp" class="token"><code>sectionIndex</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk20RouteMatchedLocationV12sectionIndexs5Int32Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-sectionIndex" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-routematchedlocation#sdk-for-ios-explore-s-7heresdk20RouteMatchedLocationV12sectionIndexs5Int32Vvp" class="token"><code>sectionIndex</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Represents a location matched to a specific position on a navigation route.
 
 - <div>
 
-  ` `<span id="/s:7heresdk20RouteMatchedLocationV9spanIndexs5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/spanIndex" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-routematchedlocation#/s:7heresdk20RouteMatchedLocationV9spanIndexs5Int32Vvp" class="token"><code>spanIndex</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk20RouteMatchedLocationV9spanIndexs5Int32Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-spanIndex" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-routematchedlocation#sdk-for-ios-explore-s-7heresdk20RouteMatchedLocationV9spanIndexs5Int32Vvp" class="token"><code>spanIndex</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Represents a location matched to a specific position on a navigation route.
 
 - <div>
 
-  ` `<span id="/s:7heresdk20RouteMatchedLocationV18spanOffsetInMetersSdvp"></span>` `<span id="//apple_ref/swift/Property/spanOffsetInMeters" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-routematchedlocation#/s:7heresdk20RouteMatchedLocationV18spanOffsetInMetersSdvp" class="token"><code>spanOffsetInMeters</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk20RouteMatchedLocationV18spanOffsetInMetersSdvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-spanOffsetInMeters" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-routematchedlocation#sdk-for-ios-explore-s-7heresdk20RouteMatchedLocationV18spanOffsetInMetersSdvp" class="token"><code>spanOffsetInMeters</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Represents a location matched to a specific position on a navigation route.
 
 - <div>
 
-  ` `<span id="/s:7heresdk20RouteMatchedLocationV23spanGeometryVertexIndexs5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/spanGeometryVertexIndex" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-routematchedlocation#/s:7heresdk20RouteMatchedLocationV23spanGeometryVertexIndexs5Int32Vvp" class="token"><code>spanGeometryVertexIndex</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk20RouteMatchedLocationV23spanGeometryVertexIndexs5Int32Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-spanGeometryVertexIndex" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-routematchedlocation#sdk-for-ios-explore-s-7heresdk20RouteMatchedLocationV23spanGeometryVertexIndexs5Int32Vvp" class="token"><code>spanGeometryVertexIndex</code></a> 
 
   </div>
 
@@ -205,7 +205,7 @@ Represents a location matched to a specific position on a navigation route.
 
 - <div>
 
-      init(sectionIndex: spanIndex: spanOffsetInMeters: spanGeometryVertexIndex: )
+   <span id="sdk-for-ios-explore-s-7heresdk20RouteMatchedLocationV12sectionIndex04spanF00G14OffsetInMeters0g14GeometryVertexF0ACs5Int32V_AISdAItcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-sectionIndex-spanIndex-spanOffsetInMeters-spanGeometryVertexIndex" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-routematchedlocation#sdk-for-ios-explore-s-7heresdk20RouteMatchedLocationV12sectionIndex04spanF00G14OffsetInMeters0g14GeometryVertexF0ACs5Int32V_AISdAItcfc" class="token"><code>init(sectionIndex:</code><wbr></wbr><code>spanIndex:</code><wbr></wbr><code>spanOffsetInMeters:</code><wbr></wbr><code>spanGeometryVertexIndex:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -245,10 +245,8 @@ Represents a location matched to a specific position on a navigation route.
   Swift
 
   ``` highlight
-  public init ( sectionIndex : Int32 = 0 , spanIndex : Int32 = 0 , spanOffsetInMeters : Double = 0.0 , spanGeometryVertexIndex : Int32 = 0 )
+  public init(sectionIndex: Int32 = 0, spanIndex: Int32 = 0, spanOffsetInMeters: Double = 0.0, spanGeometryVertexIndex: Int32 = 0)
   ```
-
-  </pre>
 
   </div>
 

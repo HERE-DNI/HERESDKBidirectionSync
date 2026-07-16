@@ -29,7 +29,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-  ` `<span id="/s:7heresdk10TileSourceP12tilingSchemeAA06TilingE0Ovp"></span>` `<span id="//apple_ref/swift/Property/tilingScheme" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-protocols-tilesource#/s:7heresdk10TileSourceP12tilingSchemeAA06TilingE0Ovp" class="token"><code>tilingScheme</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10TileSourceP12tilingSchemeAA06TilingE0Ovp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-tilingScheme" class="dashAnchor"></span> <a href="sdk-for-ios-explore-protocols-tilesource#sdk-for-ios-explore-s-7heresdk10TileSourceP12tilingSchemeAA06TilingE0Ovp" class="token"><code>tilingScheme</code></a> 
 
   </div>
 
@@ -65,6 +65,10 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-tilingscheme">TilingScheme</a>
+
   </div>
 
   </div>
@@ -73,7 +77,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-  ` `<span id="/s:7heresdk10TileSourceP13storageLevelsSays5Int32VGvp"></span>` `<span id="//apple_ref/swift/Property/storageLevels" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-protocols-tilesource#/s:7heresdk10TileSourceP13storageLevelsSays5Int32VGvp" class="token"><code>storageLevels</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10TileSourceP13storageLevelsSays5Int32VGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-storageLevels" class="dashAnchor"></span> <a href="sdk-for-ios-explore-protocols-tilesource#sdk-for-ios-explore-s-7heresdk10TileSourceP13storageLevelsSays5Int32VGvp" class="token"><code>storageLevels</code></a> 
 
   </div>
 
@@ -117,7 +121,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      getDataVersion(tileKey: )
+   <span id="sdk-for-ios-explore-s-7heresdk10TileSourceP14getDataVersion7tileKeyAA0bceF0VAA0bH0V_tF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-getDataVersion-tileKey" class="dashAnchor"></span> <a href="sdk-for-ios-explore-protocols-tilesource#sdk-for-ios-explore-s-7heresdk10TileSourceP14getDataVersion7tileKeyAA0bceF0VAA0bH0V_tF" class="token"><code>getDataVersion(tileKey:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -148,12 +152,15 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  func getDataVersion ( tileKey : TileKey ) -> TileSourceDataVersion
+  func getDataVersion(tileKey: TileKey) -> TileSourceDataVersion
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-tilekey">TileKey</a>
+  - <a href="sdk-for-ios-explore-structs-tilesourcedataversion">TileSourceDataVersion</a>
 
   </div>
 
@@ -192,7 +199,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      addDelegate(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk10TileSourceP11addDelegateyyAA0bcE0_pF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-addDelegate-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-protocols-tilesource#sdk-for-ios-explore-s-7heresdk10TileSourceP11addDelegateyyAA0bcE0_pF" class="token"><code>addDelegate(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -223,12 +230,14 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  func addDelegate ( _ delegate : TileSourceDelegate )
+  func addDelegate(_ delegate: TileSourceDelegate)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-protocols-tilesourcedelegate">TileSourceDelegate</a>
 
   </div>
 
@@ -259,7 +268,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      removeDelegate(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk10TileSourceP14removeDelegateyyAA0bcE0_pF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-removeDelegate-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-protocols-tilesource#sdk-for-ios-explore-s-7heresdk10TileSourceP14removeDelegateyyAA0bcE0_pF" class="token"><code>removeDelegate(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -290,12 +299,14 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  func removeDelegate ( _ delegate : TileSourceDelegate )
+  func removeDelegate(_ delegate: TileSourceDelegate)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-protocols-tilesourcedelegate">TileSourceDelegate</a>
 
   </div>
 

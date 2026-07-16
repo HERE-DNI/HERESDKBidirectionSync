@@ -33,7 +33,7 @@ For information on how the user can identify a catalog on the HERE platform, see
 
 - <div>
 
-  ` `<span id="/s:7heresdk20CatalogConfigurationV7catalogAA07DesiredB0Vvp"></span>` `<span id="//apple_ref/swift/Property/catalog" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-catalogconfiguration#/s:7heresdk20CatalogConfigurationV7catalogAA07DesiredB0Vvp" class="token"><code>catalog</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk20CatalogConfigurationV7catalogAA07DesiredB0Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-catalog" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-catalogconfiguration#sdk-for-ios-explore-s-7heresdk20CatalogConfigurationV7catalogAA07DesiredB0Vvp" class="token"><code>catalog</code></a> 
 
   </div>
 
@@ -69,6 +69,10 @@ For information on how the user can identify a catalog on the HERE platform, see
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-desiredcatalog">DesiredCatalog</a>
+
   </div>
 
   </div>
@@ -77,7 +81,7 @@ For information on how the user can identify a catalog on the HERE platform, see
 
 - <div>
 
-  ` `<span id="/s:7heresdk20CatalogConfigurationV8patchHrnSSSgvp"></span>` `<span id="//apple_ref/swift/Property/patchHrn" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-catalogconfiguration#/s:7heresdk20CatalogConfigurationV8patchHrnSSSgvp" class="token"><code>patchHrn</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk20CatalogConfigurationV8patchHrnSSSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-patchHrn" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-catalogconfiguration#sdk-for-ios-explore-s-7heresdk20CatalogConfigurationV8patchHrnSSSgvp" class="token"><code>patchHrn</code></a> 
 
   </div>
 
@@ -95,7 +99,7 @@ For information on how the user can identify a catalog on the HERE platform, see
 
   <div class="abstract">
 
-  Some catalogs may have additional modifications to their data contained in an entirely separate catalog, called the patch catalog. This field indicates the HERE Resource Name (HRN) for the patch catalog. When this field is present, the catalog’s data as referenced by <a href="sdk-for-ios-explore-structs-catalogconfiguration#/s:7heresdk20CatalogConfigurationV7catalogAA07DesiredB0Vvp">`CatalogConfiguration.catalog`</a> is merged with data from the patch catalog. If this field is `nil`, then incremental updates are disabled.
+  Some catalogs may have additional modifications to their data contained in an entirely separate catalog, called the patch catalog. This field indicates the HERE Resource Name (HRN) for the patch catalog. When this field is present, the catalog’s data as referenced by <a href="sdk-for-ios-explore-structs-catalogconfiguration#sdk-for-ios-explore-s-7heresdk20CatalogConfigurationV7catalogAA07DesiredB0Vvp">`CatalogConfiguration.catalog`</a> is merged with data from the patch catalog. If this field is `nil`, then incremental updates are disabled.
 
   </div>
 
@@ -121,7 +125,7 @@ For information on how the user can identify a catalog on the HERE platform, see
 
 - <div>
 
-  ` `<span id="/s:7heresdk20CatalogConfigurationV21cacheExpirationPeriodSdSgvp"></span>` `<span id="//apple_ref/swift/Property/cacheExpirationPeriod" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-catalogconfiguration#/s:7heresdk20CatalogConfigurationV21cacheExpirationPeriodSdSgvp" class="token"><code>cacheExpirationPeriod</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk20CatalogConfigurationV21cacheExpirationPeriodSdSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-cacheExpirationPeriod" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-catalogconfiguration#sdk-for-ios-explore-s-7heresdk20CatalogConfigurationV21cacheExpirationPeriodSdSgvp" class="token"><code>cacheExpirationPeriod</code></a> 
 
   </div>
 
@@ -139,7 +143,7 @@ For information on how the user can identify a catalog on the HERE platform, see
 
   <div class="abstract">
 
-  Expiration time in seconds for how long the catalog data is retained in the map cache before it is removed. Cache path is specified by <a href="sdk-for-ios-explore-structs-sdkoptions#/s:7heresdk10SDKOptionsV9cachePathSSvp">`SDKOptions.cachePath`</a>. If not set, the cache will be deleted on a Least Recently Used (LRU) basis.
+  Expiration time in seconds for how long the catalog data is retained in the map cache before it is removed. Cache path is specified by <a href="sdk-for-ios-explore-structs-sdkoptions#sdk-for-ios-explore-s-7heresdk10SDKOptionsV9cachePathSSvp">`SDKOptions.cachePath`</a>. If not set, the cache will be deleted on a Least Recently Used (LRU) basis.
 
   </div>
 
@@ -165,7 +169,7 @@ For information on how the user can identify a catalog on the HERE platform, see
 
 - <div>
 
-  ` `<span id="/s:7heresdk20CatalogConfigurationV13allowDownloadSbvp"></span>` `<span id="//apple_ref/swift/Property/allowDownload" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-catalogconfiguration#/s:7heresdk20CatalogConfigurationV13allowDownloadSbvp" class="token"><code>allowDownload</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk20CatalogConfigurationV13allowDownloadSbvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-allowDownload" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-catalogconfiguration#sdk-for-ios-explore-s-7heresdk20CatalogConfigurationV13allowDownloadSbvp" class="token"><code>allowDownload</code></a> 
 
   </div>
 
@@ -183,7 +187,7 @@ For information on how the user can identify a catalog on the HERE platform, see
 
   <div class="abstract">
 
-  A flag to indicate if the data for this catalog is allowed to be stored in persistent storage for use with offline maps. The storage path is specified in <a href="sdk-for-ios-explore-structs-sdkoptions#/s:7heresdk10SDKOptionsV24persistentMapStoragePathSSvp">`SDKOptions.persistentMapStoragePath`</a>. If set to false, the data is not stored in persistent storage and is only retained in the cache for a limited time (see <a href="sdk-for-ios-explore-structs-catalogconfiguration#/s:7heresdk20CatalogConfigurationV21cacheExpirationPeriodSdSgvp">`CatalogConfiguration.cacheExpirationPeriod`</a>). Defaults to `true`.
+  A flag to indicate if the data for this catalog is allowed to be stored in persistent storage for use with offline maps. The storage path is specified in <a href="sdk-for-ios-explore-structs-sdkoptions#sdk-for-ios-explore-s-7heresdk10SDKOptionsV24persistentMapStoragePathSSvp">`SDKOptions.persistentMapStoragePath`</a>. If set to false, the data is not stored in persistent storage and is only retained in the cache for a limited time (see <a href="sdk-for-ios-explore-structs-catalogconfiguration#sdk-for-ios-explore-s-7heresdk20CatalogConfigurationV21cacheExpirationPeriodSdSgvp">`CatalogConfiguration.cacheExpirationPeriod`</a>). Defaults to `true`.
 
   </div>
 
@@ -209,7 +213,7 @@ For information on how the user can identify a catalog on the HERE platform, see
 
 - <div>
 
-      init(catalog: patchHrn: cacheExpirationPeriod: allowDownload: )
+   <span id="sdk-for-ios-explore-s-7heresdk20CatalogConfigurationV7catalog8patchHrn21cacheExpirationPeriod13allowDownloadAcA07DesiredB0V_SSSgSdSgSbtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-catalog-patchHrn-cacheExpirationPeriod-allowDownload" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-catalogconfiguration#sdk-for-ios-explore-s-7heresdk20CatalogConfigurationV7catalog8patchHrn21cacheExpirationPeriod13allowDownloadAcA07DesiredB0V_SSSgSdSgSbtcfc" class="token"><code>init(catalog:</code><wbr></wbr><code>patchHrn:</code><wbr></wbr><code>cacheExpirationPeriod:</code><wbr></wbr><code>allowDownload:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -240,12 +244,14 @@ For information on how the user can identify a catalog on the HERE platform, see
   Swift
 
   ``` highlight
-  public init ( catalog : DesiredCatalog , patchHrn : String ? = nil , cacheExpirationPeriod : TimeInterval ? = nil , allowDownload : Bool = true )
+  public init(catalog: DesiredCatalog, patchHrn: String? = nil, cacheExpirationPeriod: TimeInterval? = nil, allowDownload: Bool = true)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-desiredcatalog">DesiredCatalog</a>
 
   </div>
 
@@ -255,7 +261,7 @@ For information on how the user can identify a catalog on the HERE platform, see
 
 - <div>
 
-      getDefault(catalogType: )
+   <span id="sdk-for-ios-explore-s-7heresdk20CatalogConfigurationV10getDefault11catalogTypeAcA0bG0O_tFZ"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-getDefault-catalogType" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-catalogconfiguration#sdk-for-ios-explore-s-7heresdk20CatalogConfigurationV10getDefault11catalogTypeAcA0bG0O_tFZ" class="token"><code>getDefault(catalogType:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -286,12 +292,14 @@ For information on how the user can identify a catalog on the HERE platform, see
   Swift
 
   ``` highlight
-  public static func getDefault ( catalogType : CatalogType ) -> CatalogConfiguration
+  public static func getDefault(catalogType: CatalogType) -> CatalogConfiguration
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-catalogtype">CatalogType</a>
 
   </div>
 

@@ -27,7 +27,7 @@ The result of matching the original location to the available map.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15MatchedLocationV03mapbC0AA03MapbC0VSgvp"></span>` `<span id="//apple_ref/swift/Property/mapMatchedLocation" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-matchedlocation#/s:7heresdk15MatchedLocationV03mapbC0AA03MapbC0VSgvp" class="token"><code>mapMatchedLocation</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15MatchedLocationV03mapbC0AA03MapbC0VSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-mapMatchedLocation" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-matchedlocation#sdk-for-ios-explore-s-7heresdk15MatchedLocationV03mapbC0AA03MapbC0VSgvp" class="token"><code>mapMatchedLocation</code></a> 
 
   </div>
 
@@ -63,6 +63,10 @@ The result of matching the original location to the available map.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-mapmatchedlocation">MapMatchedLocation</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ The result of matching the original location to the available map.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15MatchedLocationV08originalC0AA0C0Vvp"></span>` `<span id="//apple_ref/swift/Property/originalLocation" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-matchedlocation#/s:7heresdk15MatchedLocationV08originalC0AA0C0Vvp" class="token"><code>originalLocation</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15MatchedLocationV08originalC0AA0C0Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-originalLocation" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-matchedlocation#sdk-for-ios-explore-s-7heresdk15MatchedLocationV08originalC0AA0C0Vvp" class="token"><code>originalLocation</code></a> 
 
   </div>
 
@@ -107,6 +111,10 @@ The result of matching the original location to the available map.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-location">Location</a>
+
   </div>
 
   </div>
@@ -115,7 +123,7 @@ The result of matching the original location to the available map.
 
 - <div>
 
-      init(mapMatchedLocation: originalLocation: )
+   <span id="sdk-for-ios-explore-s-7heresdk15MatchedLocationV03mapbC008originalC0AcA03MapbC0VSg_AA0C0Vtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-mapMatchedLocation-originalLocation" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-matchedlocation#sdk-for-ios-explore-s-7heresdk15MatchedLocationV03mapbC008originalC0AcA03MapbC0VSg_AA0C0Vtcfc" class="token"><code>init(mapMatchedLocation:</code><wbr></wbr><code>originalLocation:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -146,12 +154,15 @@ The result of matching the original location to the available map.
   Swift
 
   ``` highlight
-  public init ( mapMatchedLocation : MapMatchedLocation ? = nil , originalLocation : Location )
+  public init(mapMatchedLocation: MapMatchedLocation? = nil, originalLocation: Location)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-mapmatchedlocation">MapMatchedLocation</a>
+  - <a href="sdk-for-ios-explore-structs-location">Location</a>
 
   </div>
 

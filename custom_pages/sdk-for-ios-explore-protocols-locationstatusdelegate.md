@@ -27,7 +27,7 @@ Protocol for listening the LocationEngine status updates.
 
 - <div>
 
-      onStatusChanged(locationEngineStatus: )
+   <span id="sdk-for-ios-explore-s-7heresdk22LocationStatusDelegateP02onC7Changed014locationEngineC0yAA0bhC0O_tF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-onStatusChanged-locationEngineStatus" class="dashAnchor"></span> <a href="sdk-for-ios-explore-protocols-locationstatusdelegate#sdk-for-ios-explore-s-7heresdk22LocationStatusDelegateP02onC7Changed014locationEngineC0yAA0bhC0O_tF" class="token"><code>onStatusChanged(locationEngineStatus:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -58,12 +58,14 @@ Protocol for listening the LocationEngine status updates.
   Swift
 
   ``` highlight
-  func onStatusChanged ( locationEngineStatus : LocationEngineStatus )
+  func onStatusChanged(locationEngineStatus: LocationEngineStatus)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-locationenginestatus">LocationEngineStatus</a>
 
   </div>
 
@@ -94,7 +96,7 @@ Protocol for listening the LocationEngine status updates.
 
 - <div>
 
-      onFeaturesNotAvailable(features: )
+   <span id="sdk-for-ios-explore-s-7heresdk22LocationStatusDelegateP22onFeaturesNotAvailable8featuresySayAA0B7FeatureOG_tF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-onFeaturesNotAvailable-features" class="dashAnchor"></span> <a href="sdk-for-ios-explore-protocols-locationstatusdelegate#sdk-for-ios-explore-s-7heresdk22LocationStatusDelegateP22onFeaturesNotAvailable8featuresySayAA0B7FeatureOG_tF" class="token"><code>onFeaturesNotAvailable(features:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -125,12 +127,14 @@ Protocol for listening the LocationEngine status updates.
   Swift
 
   ``` highlight
-  func onFeaturesNotAvailable ( features : [ LocationFeature ])
+  func onFeaturesNotAvailable(features: [LocationFeature])
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-locationfeature">LocationFeature</a>
 
   </div>
 

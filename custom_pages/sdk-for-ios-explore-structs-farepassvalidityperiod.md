@@ -27,7 +27,7 @@ Specifies a temporal validity period for a pass
 
 - <div>
 
-  ` `<span id="/s:7heresdk22FarePassValidityPeriodV10periodTypeAA0bcdeG0Ovp"></span>` `<span id="//apple_ref/swift/Property/periodType" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-farepassvalidityperiod#/s:7heresdk22FarePassValidityPeriodV10periodTypeAA0bcdeG0Ovp" class="token"><code>periodType</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk22FarePassValidityPeriodV10periodTypeAA0bcdeG0Ovp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-periodType" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-farepassvalidityperiod#sdk-for-ios-explore-s-7heresdk22FarePassValidityPeriodV10periodTypeAA0bcdeG0Ovp" class="token"><code>periodType</code></a> 
 
   </div>
 
@@ -63,6 +63,10 @@ Specifies a temporal validity period for a pass
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-farepassvalidityperiodtype">FarePassValidityPeriodType</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ Specifies a temporal validity period for a pass
 
 - <div>
 
-  ` `<span id="/s:7heresdk22FarePassValidityPeriodV5counts5Int32VSgvp"></span>` `<span id="//apple_ref/swift/Property/count" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-farepassvalidityperiod#/s:7heresdk22FarePassValidityPeriodV5counts5Int32VSgvp" class="token"><code>count</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk22FarePassValidityPeriodV5counts5Int32VSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-count" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-farepassvalidityperiod#sdk-for-ios-explore-s-7heresdk22FarePassValidityPeriodV5counts5Int32VSgvp" class="token"><code>count</code></a> 
 
   </div>
 
@@ -89,7 +93,7 @@ Specifies a temporal validity period for a pass
 
   <div class="abstract">
 
-  Specifies how many <a href="sdk-for-ios-explore-structs-farepassvalidityperiod#/s:7heresdk22FarePassValidityPeriodV10periodTypeAA0bcdeG0Ovp">`FarePassValidityPeriod.periodType`</a>s are covered by the pass. Present if <a href="sdk-for-ios-explore-structs-farepassvalidityperiod#/s:7heresdk22FarePassValidityPeriodV10periodTypeAA0bcdeG0Ovp">`FarePassValidityPeriod.periodType`</a> is <a href="sdk-for-ios-explore-enums-farepassvalidityperiodtype#/s:7heresdk26FarePassValidityPeriodTypeO7minutesyA2CmF">`FarePassValidityPeriodType.minutes`</a>, <a href="sdk-for-ios-explore-enums-farepassvalidityperiodtype#/s:7heresdk26FarePassValidityPeriodTypeO4daysyA2CmF">`FarePassValidityPeriodType.days`</a> or <a href="sdk-for-ios-explore-enums-farepassvalidityperiodtype#/s:7heresdk26FarePassValidityPeriodTypeO6monthsyA2CmF">`FarePassValidityPeriodType.months`</a>.
+  Specifies how many <a href="sdk-for-ios-explore-structs-farepassvalidityperiod#sdk-for-ios-explore-s-7heresdk22FarePassValidityPeriodV10periodTypeAA0bcdeG0Ovp">`FarePassValidityPeriod.periodType`</a>s are covered by the pass. Present if <a href="sdk-for-ios-explore-structs-farepassvalidityperiod#sdk-for-ios-explore-s-7heresdk22FarePassValidityPeriodV10periodTypeAA0bcdeG0Ovp">`FarePassValidityPeriod.periodType`</a> is <a href="sdk-for-ios-explore-enums-farepassvalidityperiodtype#sdk-for-ios-explore-s-7heresdk26FarePassValidityPeriodTypeO7minutesyA2CmF">`FarePassValidityPeriodType.minutes`</a>, <a href="sdk-for-ios-explore-enums-farepassvalidityperiodtype#sdk-for-ios-explore-s-7heresdk26FarePassValidityPeriodTypeO4daysyA2CmF">`FarePassValidityPeriodType.days`</a> or <a href="sdk-for-ios-explore-enums-farepassvalidityperiodtype#sdk-for-ios-explore-s-7heresdk26FarePassValidityPeriodTypeO6monthsyA2CmF">`FarePassValidityPeriodType.months`</a>.
 
   </div>
 
@@ -115,7 +119,7 @@ Specifies a temporal validity period for a pass
 
 - <div>
 
-      init(periodType: count: )
+   <span id="sdk-for-ios-explore-s-7heresdk22FarePassValidityPeriodV10periodType5countAcA0bcdeG0O_s5Int32VSgtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-periodType-count" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-farepassvalidityperiod#sdk-for-ios-explore-s-7heresdk22FarePassValidityPeriodV10periodType5countAcA0bcdeG0O_s5Int32VSgtcfc" class="token"><code>init(periodType:</code><wbr></wbr><code>count:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -146,12 +150,14 @@ Specifies a temporal validity period for a pass
   Swift
 
   ``` highlight
-  public init ( periodType : FarePassValidityPeriodType = FarePassValidityPeriodType . annual , count : Int32 ? = nil )
+  public init(periodType: FarePassValidityPeriodType = FarePassValidityPeriodType.annual, count: Int32? = nil)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-farepassvalidityperiodtype">FarePassValidityPeriodType</a>
 
   </div>
 

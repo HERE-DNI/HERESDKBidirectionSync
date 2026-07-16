@@ -27,7 +27,7 @@ Represents the state of the gesture.
 
 - <div>
 
-  ` `<span id="/s:7heresdk12GestureStateO5beginyA2CmF"></span>` `<span id="//apple_ref/swift/Element/begin" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-gesturestate#/s:7heresdk12GestureStateO5beginyA2CmF" class="token"><code>begin</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12GestureStateO5beginyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-begin" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-gesturestate#sdk-for-ios-navigate-s-7heresdk12GestureStateO5beginyA2CmF" class="token"><code>begin</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Represents the state of the gesture.
 
 - <div>
 
-  ` `<span id="/s:7heresdk12GestureStateO6updateyA2CmF"></span>` `<span id="//apple_ref/swift/Element/update" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-gesturestate#/s:7heresdk12GestureStateO6updateyA2CmF" class="token"><code>update</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12GestureStateO6updateyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-update" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-gesturestate#sdk-for-ios-navigate-s-7heresdk12GestureStateO6updateyA2CmF" class="token"><code>update</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Represents the state of the gesture.
 
 - <div>
 
-  ` `<span id="/s:7heresdk12GestureStateO3endyA2CmF"></span>` `<span id="//apple_ref/swift/Element/end" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-gesturestate#/s:7heresdk12GestureStateO3endyA2CmF" class="token"><code>end</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12GestureStateO3endyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-end" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-gesturestate#sdk-for-ios-navigate-s-7heresdk12GestureStateO3endyA2CmF" class="token"><code>end</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Represents the state of the gesture.
 
 - <div>
 
-  ` `<span id="/s:7heresdk12GestureStateO6cancelyA2CmF"></span>` `<span id="//apple_ref/swift/Element/cancel" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-gesturestate#/s:7heresdk12GestureStateO6cancelyA2CmF" class="token"><code>cancel</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12GestureStateO6cancelyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-cancel" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-gesturestate#sdk-for-ios-navigate-s-7heresdk12GestureStateO6cancelyA2CmF" class="token"><code>cancel</code></a> 
 
   </div>
 

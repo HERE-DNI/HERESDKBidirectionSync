@@ -27,7 +27,7 @@ A transit stop between the departure and destination of a transit section.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11TransitStopV9departureAA0B9DepartureVvp"></span>` `<span id="//apple_ref/swift/Property/departure" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-transitstop#/s:7heresdk11TransitStopV9departureAA0B9DepartureVvp" class="token"><code>departure</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11TransitStopV9departureAA0B9DepartureVvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-departure" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-transitstop#sdk-for-ios-explore-s-7heresdk11TransitStopV9departureAA0B9DepartureVvp" class="token"><code>departure</code></a> 
 
   </div>
 
@@ -63,6 +63,10 @@ A transit stop between the departure and destination of a transit section.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-transitdeparture">TransitDeparture</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ A transit stop between the departure and destination of a transit section.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11TransitStopV8durationSdSgvp"></span>` `<span id="//apple_ref/swift/Property/duration" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-transitstop#/s:7heresdk11TransitStopV8durationSdSgvp" class="token"><code>duration</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11TransitStopV8durationSdSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-duration" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-transitstop#sdk-for-ios-explore-s-7heresdk11TransitStopV8durationSdSgvp" class="token"><code>duration</code></a> 
 
   </div>
 
@@ -115,7 +119,7 @@ A transit stop between the departure and destination of a transit section.
 
 - <div>
 
-      init(departure: duration: )
+   <span id="sdk-for-ios-explore-s-7heresdk11TransitStopV9departure8durationAcA0B9DepartureV_SdSgtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-departure-duration" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-transitstop#sdk-for-ios-explore-s-7heresdk11TransitStopV9departure8durationAcA0B9DepartureV_SdSgtcfc" class="token"><code>init(departure:</code><wbr></wbr><code>duration:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -146,12 +150,14 @@ A transit stop between the departure and destination of a transit section.
   Swift
 
   ``` highlight
-  public init ( departure : TransitDeparture , duration : TimeInterval ? = nil )
+  public init(departure: TransitDeparture, duration: TimeInterval? = nil)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-transitdeparture">TransitDeparture</a>
 
   </div>
 

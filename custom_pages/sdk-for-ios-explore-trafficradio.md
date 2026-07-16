@@ -13,7 +13,7 @@ slug: "sdk-for-ios-explore-trafficradio"
 
 - <div>
 
-  ` `<span id="/s:7heresdk16TrafficBroadcastC"></span>` `<span id="//apple_ref/swift/Class/TrafficBroadcast" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-trafficradio#/s:7heresdk16TrafficBroadcastC" class="token"><code>TrafficBroadcast</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16TrafficBroadcastC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-TrafficBroadcast" class="dashAnchor"></span> <a href="sdk-for-ios-explore-trafficradio#sdk-for-ios-explore-s-7heresdk16TrafficBroadcastC" class="token"><code>TrafficBroadcast</code></a> 
 
   </div>
 
@@ -31,21 +31,11 @@ slug: "sdk-for-ios-explore-trafficradio"
 
   <div class="abstract">
 
-  A `TrafficBroadcast` is expecting the <a href="https://en.wikipedia.org/wiki/Traffic_message_channel">RDS-TMC</a> format and it can be used when there is no internet connection, so that the <a href="sdk-for-ios-explore-classes-offlineroutingengine">`OfflineRoutingEngine`</a> can utilize traffic data coming over a radio channel. The
+  A `TrafficBroadcast` is expecting the <a href="https://en.wikipedia.org/wiki/Traffic_message_channel">RDS-TMC</a> format and it can be used when there is no internet connection, so that the <a href="sdk-for-ios-explore-classes-offlineroutingengine">`OfflineRoutingEngine`</a> can utilize traffic data coming over a radio channel. The <a href="sdk-for-ios-explore-classes-trafficbroadcast#sdk-for-ios-explore-s-7heresdk16TrafficBroadcastC8activateyyF">`TrafficBroadcast.activate(...)`</a> method needs to be called to receive traffic data events.
 
-      TrafficBroadcast.activate(...)
+  **Note:** In order to adopt the <a href="sdk-for-ios-explore-traffic#sdk-for-ios-explore-s-7heresdk19TrafficDataProviderC">`TrafficDataProvider`</a> interface special hardware is required. Talk to your HERE representative for more details. Only by adopting the <a href="sdk-for-ios-explore-traffic#sdk-for-ios-explore-s-7heresdk19TrafficDataProviderC">`TrafficDataProvider`</a> interface you can integrate radio station signals providing traffic broadcasts. Traffic broadcasts are meant to be used *independently* from the already included traffic on routes, on the map and from the HERE backends (when using the <a href="sdk-for-ios-explore-classes-trafficengine">`TrafficEngine`</a>).
 
-  method needs to be called to receive traffic data events.
-  </p>
-
-  **Note:** In order to adopt the <a href="sdk-for-ios-explore-traffic#/s:7heresdk19TrafficDataProviderC">`TrafficDataProvider`</a> interface special hardware is required. Talk to your HERE representative for more details. Only by adopting the <a href="sdk-for-ios-explore-traffic#/s:7heresdk19TrafficDataProviderC">`TrafficDataProvider`</a> interface you can integrate radio station signals providing traffic broadcasts. Traffic broadcasts are meant to be used *independently* from the already included traffic on routes, on the map and from the HERE backends (when using the <a href="sdk-for-ios-explore-classes-trafficengine">`TrafficEngine`</a>).
-
-  This class continuously reacts to new locations provided from a location source and acts as a <a href="sdk-for-ios-explore-protocols-locationdelegate">`LocationDelegate`</a>. The location must be updated regardless of calling
-
-      TrafficBroadcast.activate(...)
-
-  .
-  </p>
+  This class continuously reacts to new locations provided from a location source and acts as a <a href="sdk-for-ios-explore-protocols-locationdelegate">`LocationDelegate`</a>. The location must be updated regardless of calling <a href="sdk-for-ios-explore-classes-trafficbroadcast#sdk-for-ios-explore-s-7heresdk16TrafficBroadcastC8activateyyF">`TrafficBroadcast.activate(...)`</a>.
 
   **Note:** This is a beta release of this feature, so there could be a few bugs and unexpected behaviors. Related APIs may change for new releases without a deprecation process.
 
@@ -75,6 +65,10 @@ slug: "sdk-for-ios-explore-trafficradio"
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-protocols-locationdelegate">LocationDelegate</a>
+
   </div>
 
   </div>
@@ -83,7 +77,7 @@ slug: "sdk-for-ios-explore-trafficradio"
 
 - <div>
 
-  ` `<span id="/s:7heresdk26TrafficBroadcastParametersV"></span>` `<span id="//apple_ref/swift/Struct/TrafficBroadcastParameters" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-trafficradio#/s:7heresdk26TrafficBroadcastParametersV" class="token"><code>TrafficBroadcastParameters</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk26TrafficBroadcastParametersV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-TrafficBroadcastParameters" class="dashAnchor"></span> <a href="sdk-for-ios-explore-trafficradio#sdk-for-ios-explore-s-7heresdk26TrafficBroadcastParametersV" class="token"><code>TrafficBroadcastParameters</code></a> 
 
   </div>
 
@@ -129,7 +123,7 @@ slug: "sdk-for-ios-explore-trafficradio"
 
 - <div>
 
-  ` `<span id="/s:7heresdk7TMCDataV"></span>` `<span id="//apple_ref/swift/Struct/TMCData" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-trafficradio#/s:7heresdk7TMCDataV" class="token"><code>TMCData</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk7TMCDataV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-TMCData" class="dashAnchor"></span> <a href="sdk-for-ios-explore-trafficradio#sdk-for-ios-explore-s-7heresdk7TMCDataV" class="token"><code>TMCData</code></a> 
 
   </div>
 
@@ -175,7 +169,7 @@ slug: "sdk-for-ios-explore-trafficradio"
 
 - <div>
 
-  ` `<span id="/s:7heresdk23TMCPreferredSidsRequestV"></span>` `<span id="//apple_ref/swift/Struct/TMCPreferredSidsRequest" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-trafficradio#/s:7heresdk23TMCPreferredSidsRequestV" class="token"><code>TMCPreferredSidsRequest</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk23TMCPreferredSidsRequestV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-TMCPreferredSidsRequest" class="dashAnchor"></span> <a href="sdk-for-ios-explore-trafficradio#sdk-for-ios-explore-s-7heresdk23TMCPreferredSidsRequestV" class="token"><code>TMCPreferredSidsRequest</code></a> 
 
   </div>
 
@@ -221,7 +215,7 @@ slug: "sdk-for-ios-explore-trafficradio"
 
 - <div>
 
-  ` `<span id="/s:7heresdk22TMCServiceProviderInfoV"></span>` `<span id="//apple_ref/swift/Struct/TMCServiceProviderInfo" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-trafficradio#/s:7heresdk22TMCServiceProviderInfoV" class="token"><code>TMCServiceProviderInfo</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk22TMCServiceProviderInfoV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-TMCServiceProviderInfo" class="dashAnchor"></span> <a href="sdk-for-ios-explore-trafficradio#sdk-for-ios-explore-s-7heresdk22TMCServiceProviderInfoV" class="token"><code>TMCServiceProviderInfo</code></a> 
 
   </div>
 
@@ -267,7 +261,7 @@ slug: "sdk-for-ios-explore-trafficradio"
 
 - <div>
 
-  ` `<span id="/s:7heresdk17TMCServiceRequestV"></span>` `<span id="//apple_ref/swift/Struct/TMCServiceRequest" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-trafficradio#/s:7heresdk17TMCServiceRequestV" class="token"><code>TMCServiceRequest</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17TMCServiceRequestV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-TMCServiceRequest" class="dashAnchor"></span> <a href="sdk-for-ios-explore-trafficradio#sdk-for-ios-explore-s-7heresdk17TMCServiceRequestV" class="token"><code>TMCServiceRequest</code></a> 
 
   </div>
 
@@ -313,7 +307,7 @@ slug: "sdk-for-ios-explore-trafficradio"
 
 - <div>
 
-  ` `<span id="/s:7heresdk19TMCServiceInterfaceP"></span>` `<span id="//apple_ref/swift/Protocol/TMCServiceInterface" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-trafficradio#/s:7heresdk19TMCServiceInterfaceP" class="token"><code>TMCServiceInterface</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19TMCServiceInterfaceP"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Protocol-TMCServiceInterface" class="dashAnchor"></span> <a href="sdk-for-ios-explore-trafficradio#sdk-for-ios-explore-s-7heresdk19TMCServiceInterfaceP" class="token"><code>TMCServiceInterface</code></a> 
 
   </div>
 
@@ -359,7 +353,7 @@ slug: "sdk-for-ios-explore-trafficradio"
 
 - <div>
 
-  ` `<span id="/s:7heresdk16RDSEncryptionKeyV"></span>` `<span id="//apple_ref/swift/Struct/RDSEncryptionKey" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-trafficradio#/s:7heresdk16RDSEncryptionKeyV" class="token"><code>RDSEncryptionKey</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16RDSEncryptionKeyV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-RDSEncryptionKey" class="dashAnchor"></span> <a href="sdk-for-ios-explore-trafficradio#sdk-for-ios-explore-s-7heresdk16RDSEncryptionKeyV" class="token"><code>RDSEncryptionKey</code></a> 
 
   </div>
 
@@ -405,7 +399,7 @@ slug: "sdk-for-ios-explore-trafficradio"
 
 - <div>
 
-  ` `<span id="/s:7heresdk24RDSEncryptionKeysRequestV"></span>` `<span id="//apple_ref/swift/Struct/RDSEncryptionKeysRequest" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-trafficradio#/s:7heresdk24RDSEncryptionKeysRequestV" class="token"><code>RDSEncryptionKeysRequest</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk24RDSEncryptionKeysRequestV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-RDSEncryptionKeysRequest" class="dashAnchor"></span> <a href="sdk-for-ios-explore-trafficradio#sdk-for-ios-explore-s-7heresdk24RDSEncryptionKeysRequestV" class="token"><code>RDSEncryptionKeysRequest</code></a> 
 
   </div>
 

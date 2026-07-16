@@ -27,7 +27,7 @@ This protocol should be implemented in order to receive notifications about rout
 
 - <div>
 
-      onRouteDeviation(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk22RouteDeviationDelegateP02onbC0yyAA0bC0VF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-onRouteDeviation-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-protocols-routedeviationdelegate#sdk-for-ios-explore-s-7heresdk22RouteDeviationDelegateP02onbC0yyAA0bC0VF" class="token"><code>onRouteDeviation(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -58,12 +58,14 @@ This protocol should be implemented in order to receive notifications about rout
   Swift
 
   ``` highlight
-  func onRouteDeviation ( _ routeDeviation : RouteDeviation )
+  func onRouteDeviation(_ routeDeviation: RouteDeviation)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-routedeviation">RouteDeviation</a>
 
   </div>
 

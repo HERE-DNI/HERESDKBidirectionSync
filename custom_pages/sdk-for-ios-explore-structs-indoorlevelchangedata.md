@@ -27,7 +27,7 @@ Represents the level change data for an indoor maneuver.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21IndoorLevelChangeDataV9connectorAA0bcD8FeaturesOvp"></span>` `<span id="//apple_ref/swift/Property/connector" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-indoorlevelchangedata#/s:7heresdk21IndoorLevelChangeDataV9connectorAA0bcD8FeaturesOvp" class="token"><code>connector</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk21IndoorLevelChangeDataV9connectorAA0bcD8FeaturesOvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-connector" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-indoorlevelchangedata#sdk-for-ios-explore-s-7heresdk21IndoorLevelChangeDataV9connectorAA0bcD8FeaturesOvp" class="token"><code>connector</code></a> 
 
   </div>
 
@@ -63,6 +63,10 @@ Represents the level change data for an indoor maneuver.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-indoorlevelchangefeatures">IndoorLevelChangeFeatures</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ Represents the level change data for an indoor maneuver.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21IndoorLevelChangeDataV6deltaZs5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/deltaZ" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-indoorlevelchangedata#/s:7heresdk21IndoorLevelChangeDataV6deltaZs5Int32Vvp" class="token"><code>deltaZ</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk21IndoorLevelChangeDataV6deltaZs5Int32Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-deltaZ" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-indoorlevelchangedata#sdk-for-ios-explore-s-7heresdk21IndoorLevelChangeDataV6deltaZs5Int32Vvp" class="token"><code>deltaZ</code></a> 
 
   </div>
 
@@ -115,7 +119,7 @@ Represents the level change data for an indoor maneuver.
 
 - <div>
 
-      init(connector: deltaZ: )
+   <span id="sdk-for-ios-explore-s-7heresdk21IndoorLevelChangeDataV9connector6deltaZAcA0bcD8FeaturesO_s5Int32Vtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-connector-deltaZ" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-indoorlevelchangedata#sdk-for-ios-explore-s-7heresdk21IndoorLevelChangeDataV9connector6deltaZAcA0bcD8FeaturesO_s5Int32Vtcfc" class="token"><code>init(connector:</code><wbr></wbr><code>deltaZ:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -146,12 +150,14 @@ Represents the level change data for an indoor maneuver.
   Swift
 
   ``` highlight
-  public init ( connector : IndoorLevelChangeFeatures , deltaZ : Int32 )
+  public init(connector: IndoorLevelChangeFeatures, deltaZ: Int32)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-indoorlevelchangefeatures">IndoorLevelChangeFeatures</a>
 
   </div>
 

@@ -17,7 +17,7 @@ public struct RailwayCrossing
 
 </div>
 
-Identifies the presence and the location of railway corssings. Included in <a href="sdk-for-ios-explore-classes-segmentdata">`SegmentData`</a> only if <a href="sdk-for-ios-explore-structs-segmentdataloaderoptions#/s:7heresdk24SegmentDataLoaderOptionsV20loadRailwayCrossingsSbvp">`SegmentDataLoaderOptions.loadRailwayCrossings`</a> is set to `true`.
+Identifies the presence and the location of railway corssings. Included in <a href="sdk-for-ios-explore-classes-segmentdata">`SegmentData`</a> only if <a href="sdk-for-ios-explore-structs-segmentdataloaderoptions#sdk-for-ios-explore-s-7heresdk24SegmentDataLoaderOptionsV20loadRailwayCrossingsSbvp">`SegmentDataLoaderOptions.loadRailwayCrossings`</a> is set to `true`.
 
 </div>
 
@@ -27,7 +27,7 @@ Identifies the presence and the location of railway corssings. Included in <a hr
 
 - <div>
 
-  ` `<span id="/s:7heresdk15RailwayCrossingV19startOffsetInMeterss5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/startOffsetInMeters" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-railwaycrossing#/s:7heresdk15RailwayCrossingV19startOffsetInMeterss5Int32Vvp" class="token"><code>startOffsetInMeters</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15RailwayCrossingV19startOffsetInMeterss5Int32Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-startOffsetInMeters" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-railwaycrossing#sdk-for-ios-explore-s-7heresdk15RailwayCrossingV19startOffsetInMeterss5Int32Vvp" class="token"><code>startOffsetInMeters</code></a> 
 
   </div>
 
@@ -47,7 +47,7 @@ Identifies the presence and the location of railway corssings. Included in <a hr
 
   The start offset, in meters, from the beginning of the segment.
 
-  If <a href="sdk-for-ios-explore-structs-railwaycrossing#/s:7heresdk15RailwayCrossingV17endOffsetInMeterss5Int32Vvp">`RailwayCrossing.endOffsetInMeters`</a> = 0, then `RailwayCrossing.startOffsetInMeters` approximately indicates a middle of a railway crossing. If <a href="sdk-for-ios-explore-structs-railwaycrossing#/s:7heresdk15RailwayCrossingV17endOffsetInMeterss5Int32Vvp">`RailwayCrossing.endOffsetInMeters`</a> \> 0, it means crossing consists of several rails, and `RailwayCrossing.startOffsetInMeters` and <a href="sdk-for-ios-explore-structs-railwaycrossing#/s:7heresdk15RailwayCrossingV17endOffsetInMeterss5Int32Vvp">`RailwayCrossing.endOffsetInMeters`</a> indicates starting and ending points of the crossing respectively. Default value is 0.
+  If <a href="sdk-for-ios-explore-structs-railwaycrossing#sdk-for-ios-explore-s-7heresdk15RailwayCrossingV17endOffsetInMeterss5Int32Vvp">`RailwayCrossing.endOffsetInMeters`</a> = 0, then `RailwayCrossing.startOffsetInMeters` approximately indicates a middle of a railway crossing. If <a href="sdk-for-ios-explore-structs-railwaycrossing#sdk-for-ios-explore-s-7heresdk15RailwayCrossingV17endOffsetInMeterss5Int32Vvp">`RailwayCrossing.endOffsetInMeters`</a> \> 0, it means crossing consists of several rails, and `RailwayCrossing.startOffsetInMeters` and <a href="sdk-for-ios-explore-structs-railwaycrossing#sdk-for-ios-explore-s-7heresdk15RailwayCrossingV17endOffsetInMeterss5Int32Vvp">`RailwayCrossing.endOffsetInMeters`</a> indicates starting and ending points of the crossing respectively. Default value is 0.
 
   </div>
 
@@ -73,7 +73,7 @@ Identifies the presence and the location of railway corssings. Included in <a hr
 
 - <div>
 
-  ` `<span id="/s:7heresdk15RailwayCrossingV17endOffsetInMeterss5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/endOffsetInMeters" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-railwaycrossing#/s:7heresdk15RailwayCrossingV17endOffsetInMeterss5Int32Vvp" class="token"><code>endOffsetInMeters</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15RailwayCrossingV17endOffsetInMeterss5Int32Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-endOffsetInMeters" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-railwaycrossing#sdk-for-ios-explore-s-7heresdk15RailwayCrossingV17endOffsetInMeterss5Int32Vvp" class="token"><code>endOffsetInMeters</code></a> 
 
   </div>
 
@@ -91,7 +91,7 @@ Identifies the presence and the location of railway corssings. Included in <a hr
 
   <div class="abstract">
 
-  The end offset, in meters, from the beginning of the segment. Could be 0. See <a href="sdk-for-ios-explore-structs-railwaycrossing#/s:7heresdk15RailwayCrossingV19startOffsetInMeterss5Int32Vvp">`RailwayCrossing.startOffsetInMeters`</a> description. Default value is 0.
+  The end offset, in meters, from the beginning of the segment. Could be 0. See <a href="sdk-for-ios-explore-structs-railwaycrossing#sdk-for-ios-explore-s-7heresdk15RailwayCrossingV19startOffsetInMeterss5Int32Vvp">`RailwayCrossing.startOffsetInMeters`</a> description. Default value is 0.
 
   </div>
 
@@ -117,7 +117,7 @@ Identifies the presence and the location of railway corssings. Included in <a hr
 
 - <div>
 
-  ` `<span id="/s:7heresdk15RailwayCrossingV07railwayC4TypeAA0bcE0Ovp"></span>` `<span id="//apple_ref/swift/Property/railwayCrossingType" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-railwaycrossing#/s:7heresdk15RailwayCrossingV07railwayC4TypeAA0bcE0Ovp" class="token"><code>railwayCrossingType</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15RailwayCrossingV07railwayC4TypeAA0bcE0Ovp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-railwayCrossingType" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-railwaycrossing#sdk-for-ios-explore-s-7heresdk15RailwayCrossingV07railwayC4TypeAA0bcE0Ovp" class="token"><code>railwayCrossingType</code></a> 
 
   </div>
 
@@ -153,6 +153,10 @@ Identifies the presence and the location of railway corssings. Included in <a hr
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-railwaycrossingtype">RailwayCrossingType</a>
+
   </div>
 
   </div>
@@ -161,7 +165,7 @@ Identifies the presence and the location of railway corssings. Included in <a hr
 
 - <div>
 
-      init(startOffsetInMeters: endOffsetInMeters: railwayCrossingType: )
+   <span id="sdk-for-ios-explore-s-7heresdk15RailwayCrossingV19startOffsetInMeters03endefG007railwayC4TypeACs5Int32V_AhA0bcJ0Otcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-startOffsetInMeters-endOffsetInMeters-railwayCrossingType" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-railwaycrossing#sdk-for-ios-explore-s-7heresdk15RailwayCrossingV19startOffsetInMeters03endefG007railwayC4TypeACs5Int32V_AhA0bcJ0Otcfc" class="token"><code>init(startOffsetInMeters:</code><wbr></wbr><code>endOffsetInMeters:</code><wbr></wbr><code>railwayCrossingType:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -185,9 +189,9 @@ Identifies the presence and the location of railway corssings. Included in <a hr
 
     - startOffsetInMeters: The start offset, in meters, from the beginning of the segment.
 
-    If <a href="sdk-for-ios-explore-structs-railwaycrossing#/s:7heresdk15RailwayCrossingV17endOffsetInMeterss5Int32Vvp">`RailwayCrossing.endOffsetInMeters`</a> = 0, then <a href="sdk-for-ios-explore-structs-railwaycrossing#/s:7heresdk15RailwayCrossingV19startOffsetInMeterss5Int32Vvp">`RailwayCrossing.startOffsetInMeters`</a> approximately indicates a middle of a railway crossing. If <a href="sdk-for-ios-explore-structs-railwaycrossing#/s:7heresdk15RailwayCrossingV17endOffsetInMeterss5Int32Vvp">`RailwayCrossing.endOffsetInMeters`</a> \> 0, it means crossing consists of several rails, and <a href="sdk-for-ios-explore-structs-railwaycrossing#/s:7heresdk15RailwayCrossingV19startOffsetInMeterss5Int32Vvp">`RailwayCrossing.startOffsetInMeters`</a> and <a href="sdk-for-ios-explore-structs-railwaycrossing#/s:7heresdk15RailwayCrossingV17endOffsetInMeterss5Int32Vvp">`RailwayCrossing.endOffsetInMeters`</a> indicates starting and ending points of the crossing respectively. Default value is 0.
+    If <a href="sdk-for-ios-explore-structs-railwaycrossing#sdk-for-ios-explore-s-7heresdk15RailwayCrossingV17endOffsetInMeterss5Int32Vvp">`RailwayCrossing.endOffsetInMeters`</a> = 0, then <a href="sdk-for-ios-explore-structs-railwaycrossing#sdk-for-ios-explore-s-7heresdk15RailwayCrossingV19startOffsetInMeterss5Int32Vvp">`RailwayCrossing.startOffsetInMeters`</a> approximately indicates a middle of a railway crossing. If <a href="sdk-for-ios-explore-structs-railwaycrossing#sdk-for-ios-explore-s-7heresdk15RailwayCrossingV17endOffsetInMeterss5Int32Vvp">`RailwayCrossing.endOffsetInMeters`</a> \> 0, it means crossing consists of several rails, and <a href="sdk-for-ios-explore-structs-railwaycrossing#sdk-for-ios-explore-s-7heresdk15RailwayCrossingV19startOffsetInMeterss5Int32Vvp">`RailwayCrossing.startOffsetInMeters`</a> and <a href="sdk-for-ios-explore-structs-railwaycrossing#sdk-for-ios-explore-s-7heresdk15RailwayCrossingV17endOffsetInMeterss5Int32Vvp">`RailwayCrossing.endOffsetInMeters`</a> indicates starting and ending points of the crossing respectively. Default value is 0.
 
-    - endOffsetInMeters: The end offset, in meters, from the beginning of the segment. Could be 0. See <a href="sdk-for-ios-explore-structs-railwaycrossing#/s:7heresdk15RailwayCrossingV19startOffsetInMeterss5Int32Vvp">`RailwayCrossing.startOffsetInMeters`</a> description. Default value is 0.
+    - endOffsetInMeters: The end offset, in meters, from the beginning of the segment. Could be 0. See <a href="sdk-for-ios-explore-structs-railwaycrossing#sdk-for-ios-explore-s-7heresdk15RailwayCrossingV19startOffsetInMeterss5Int32Vvp">`RailwayCrossing.startOffsetInMeters`</a> description. Default value is 0.
     - railwayCrossingType: The type of barrier presented by the railway crossing.
 
   </div>
@@ -201,12 +205,14 @@ Identifies the presence and the location of railway corssings. Included in <a hr
   Swift
 
   ``` highlight
-  public init ( startOffsetInMeters : Int32 = 0 , endOffsetInMeters : Int32 = 0 , railwayCrossingType : RailwayCrossingType )
+  public init(startOffsetInMeters: Int32 = 0, endOffsetInMeters: Int32 = 0, railwayCrossingType: RailwayCrossingType)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-railwaycrossingtype">RailwayCrossingType</a>
 
   </div>
 

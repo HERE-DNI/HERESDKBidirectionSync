@@ -27,7 +27,7 @@ The regulations for parking on the side of the road.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21ParkingSideRegulationO19bothSidesOneWayRoadyA2CmF"></span>` `<span id="//apple_ref/swift/Element/bothSidesOneWayRoad" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-parkingsideregulation#/s:7heresdk21ParkingSideRegulationO19bothSidesOneWayRoadyA2CmF" class="token"><code>bothSidesOneWayRoad</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk21ParkingSideRegulationO19bothSidesOneWayRoadyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-bothSidesOneWayRoad" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-parkingsideregulation#sdk-for-ios-explore-s-7heresdk21ParkingSideRegulationO19bothSidesOneWayRoadyA2CmF" class="token"><code>bothSidesOneWayRoad</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ The regulations for parking on the side of the road.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21ParkingSideRegulationO22oppositeLaneTwoWayRoadyA2CmF"></span>` `<span id="//apple_ref/swift/Element/oppositeLaneTwoWayRoad" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-parkingsideregulation#/s:7heresdk21ParkingSideRegulationO22oppositeLaneTwoWayRoadyA2CmF" class="token"><code>oppositeLaneTwoWayRoad</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk21ParkingSideRegulationO22oppositeLaneTwoWayRoadyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-oppositeLaneTwoWayRoad" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-parkingsideregulation#sdk-for-ios-explore-s-7heresdk21ParkingSideRegulationO22oppositeLaneTwoWayRoadyA2CmF" class="token"><code>oppositeLaneTwoWayRoad</code></a> 
 
   </div>
 

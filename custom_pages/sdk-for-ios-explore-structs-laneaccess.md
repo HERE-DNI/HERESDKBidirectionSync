@@ -27,7 +27,7 @@ A struct which identifies the vehicle type(s) allowed to access a lane.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10LaneAccessV11automobilesSbvp"></span>` `<span id="//apple_ref/swift/Property/automobiles" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-laneaccess#/s:7heresdk10LaneAccessV11automobilesSbvp" class="token"><code>automobiles</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10LaneAccessV11automobilesSbvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-automobiles" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-laneaccess#sdk-for-ios-explore-s-7heresdk10LaneAccessV11automobilesSbvp" class="token"><code>automobiles</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ A struct which identifies the vehicle type(s) allowed to access a lane.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10LaneAccessV5busesSbvp"></span>` `<span id="//apple_ref/swift/Property/buses" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-laneaccess#/s:7heresdk10LaneAccessV5busesSbvp" class="token"><code>buses</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10LaneAccessV5busesSbvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-buses" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-laneaccess#sdk-for-ios-explore-s-7heresdk10LaneAccessV5busesSbvp" class="token"><code>buses</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ A struct which identifies the vehicle type(s) allowed to access a lane.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10LaneAccessV5taxisSbvp"></span>` `<span id="//apple_ref/swift/Property/taxis" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-laneaccess#/s:7heresdk10LaneAccessV5taxisSbvp" class="token"><code>taxis</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10LaneAccessV5taxisSbvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-taxis" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-laneaccess#sdk-for-ios-explore-s-7heresdk10LaneAccessV5taxisSbvp" class="token"><code>taxis</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ A struct which identifies the vehicle type(s) allowed to access a lane.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10LaneAccessV8carpoolsSbvp"></span>` `<span id="//apple_ref/swift/Property/carpools" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-laneaccess#/s:7heresdk10LaneAccessV8carpoolsSbvp" class="token"><code>carpools</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10LaneAccessV8carpoolsSbvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-carpools" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-laneaccess#sdk-for-ios-explore-s-7heresdk10LaneAccessV8carpoolsSbvp" class="token"><code>carpools</code></a> 
 
   </div>
 
@@ -203,7 +203,7 @@ A struct which identifies the vehicle type(s) allowed to access a lane.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10LaneAccessV11pedestriansSbvp"></span>` `<span id="//apple_ref/swift/Property/pedestrians" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-laneaccess#/s:7heresdk10LaneAccessV11pedestriansSbvp" class="token"><code>pedestrians</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10LaneAccessV11pedestriansSbvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-pedestrians" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-laneaccess#sdk-for-ios-explore-s-7heresdk10LaneAccessV11pedestriansSbvp" class="token"><code>pedestrians</code></a> 
 
   </div>
 
@@ -247,7 +247,7 @@ A struct which identifies the vehicle type(s) allowed to access a lane.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10LaneAccessV6trucksSbvp"></span>` `<span id="//apple_ref/swift/Property/trucks" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-laneaccess#/s:7heresdk10LaneAccessV6trucksSbvp" class="token"><code>trucks</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10LaneAccessV6trucksSbvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-trucks" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-laneaccess#sdk-for-ios-explore-s-7heresdk10LaneAccessV6trucksSbvp" class="token"><code>trucks</code></a> 
 
   </div>
 
@@ -291,7 +291,7 @@ A struct which identifies the vehicle type(s) allowed to access a lane.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10LaneAccessV14throughTrafficSbvp"></span>` `<span id="//apple_ref/swift/Property/throughTraffic" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-laneaccess#/s:7heresdk10LaneAccessV14throughTrafficSbvp" class="token"><code>throughTraffic</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10LaneAccessV14throughTrafficSbvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-throughTraffic" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-laneaccess#sdk-for-ios-explore-s-7heresdk10LaneAccessV14throughTrafficSbvp" class="token"><code>throughTraffic</code></a> 
 
   </div>
 
@@ -335,7 +335,7 @@ A struct which identifies the vehicle type(s) allowed to access a lane.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10LaneAccessV16deliveryVehiclesSbvp"></span>` `<span id="//apple_ref/swift/Property/deliveryVehicles" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-laneaccess#/s:7heresdk10LaneAccessV16deliveryVehiclesSbvp" class="token"><code>deliveryVehicles</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10LaneAccessV16deliveryVehiclesSbvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-deliveryVehicles" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-laneaccess#sdk-for-ios-explore-s-7heresdk10LaneAccessV16deliveryVehiclesSbvp" class="token"><code>deliveryVehicles</code></a> 
 
   </div>
 
@@ -353,7 +353,7 @@ A struct which identifies the vehicle type(s) allowed to access a lane.
 
   <div class="abstract">
 
-  Delivery <a href="sdk-for-ios-explore-structs-laneaccess#/s:7heresdk10LaneAccessV6trucksSbvp">`LaneAccess.trucks`</a> that are permitted to enter the city proper to unload goods at businesses.
+  Delivery <a href="sdk-for-ios-explore-structs-laneaccess#sdk-for-ios-explore-s-7heresdk10LaneAccessV6trucksSbvp">`LaneAccess.trucks`</a> that are permitted to enter the city proper to unload goods at businesses.
 
   </div>
 
@@ -379,7 +379,7 @@ A struct which identifies the vehicle type(s) allowed to access a lane.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10LaneAccessV17emergencyVehiclesSbvp"></span>` `<span id="//apple_ref/swift/Property/emergencyVehicles" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-laneaccess#/s:7heresdk10LaneAccessV17emergencyVehiclesSbvp" class="token"><code>emergencyVehicles</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10LaneAccessV17emergencyVehiclesSbvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-emergencyVehicles" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-laneaccess#sdk-for-ios-explore-s-7heresdk10LaneAccessV17emergencyVehiclesSbvp" class="token"><code>emergencyVehicles</code></a> 
 
   </div>
 
@@ -423,7 +423,7 @@ A struct which identifies the vehicle type(s) allowed to access a lane.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10LaneAccessV11motorcyclesSbvp"></span>` `<span id="//apple_ref/swift/Property/motorcycles" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-laneaccess#/s:7heresdk10LaneAccessV11motorcyclesSbvp" class="token"><code>motorcycles</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10LaneAccessV11motorcyclesSbvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-motorcycles" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-laneaccess#sdk-for-ios-explore-s-7heresdk10LaneAccessV11motorcyclesSbvp" class="token"><code>motorcycles</code></a> 
 
   </div>
 
@@ -467,7 +467,7 @@ A struct which identifies the vehicle type(s) allowed to access a lane.
 
 - <div>
 
-      init(automobiles: buses: taxis: carpools: pedestrians: trucks: throughTraffic: deliveryVehicles: emergencyVehicles: motorcycles: )
+   <span id="sdk-for-ios-explore-s-7heresdk10LaneAccessV11automobiles5buses5taxis8carpools11pedestrians6trucks14throughTraffic16deliveryVehicles09emergencyM011motorcyclesACSb_S9btcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-automobiles-buses-taxis-carpools-pedestrians-trucks-throughTraffic-deliveryVehicles-emergencyVehicles-motorcycles" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-laneaccess#sdk-for-ios-explore-s-7heresdk10LaneAccessV11automobiles5buses5taxis8carpools11pedestrians6trucks14throughTraffic16deliveryVehicles09emergencyM011motorcyclesACSb_S9btcfc" class="token"><code>init(automobiles:</code><wbr></wbr><code>buses:</code><wbr></wbr><code>taxis:</code><wbr></wbr><code>carpools:</code><wbr></wbr><code>pedestrians:</code><wbr></wbr><code>trucks:</code><wbr></wbr><code>throughTraffic:</code><wbr></wbr><code>deliveryVehicles:</code><wbr></wbr><code>emergencyVehicles:</code><wbr></wbr><code>motorcycles:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -498,10 +498,8 @@ A struct which identifies the vehicle type(s) allowed to access a lane.
   Swift
 
   ``` highlight
-  public init ( automobiles : Bool , buses : Bool , taxis : Bool , carpools : Bool , pedestrians : Bool , trucks : Bool , throughTraffic : Bool , deliveryVehicles : Bool , emergencyVehicles : Bool , motorcycles : Bool )
+  public init(automobiles: Bool, buses: Bool, taxis: Bool, carpools: Bool, pedestrians: Bool, trucks: Bool, throughTraffic: Bool, deliveryVehicles: Bool, emergencyVehicles: Bool, motorcycles: Bool)
   ```
-
-  </pre>
 
   </div>
 

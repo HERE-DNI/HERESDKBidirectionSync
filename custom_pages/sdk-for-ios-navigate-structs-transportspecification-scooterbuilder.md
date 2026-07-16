@@ -23,6 +23,10 @@ extension TransportSpecification.ScooterBuilder: Hashable
 
 </div>
 
+Related types:
+
+- <a href="sdk-for-ios-navigate-structs-transportspecification">TransportSpecification</a>
+
 </div>
 
 This class constructs a <a href="sdk-for-ios-navigate-structs-transportspecification">`TransportSpecification`</a> for a scooter.
@@ -35,7 +39,7 @@ This class constructs a <a href="sdk-for-ios-navigate-structs-transportspecifica
 
 - <div>
 
-      init()
+   <span id="sdk-for-ios-navigate-s-7heresdk22TransportSpecificationV14ScooterBuilderCAEycfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-transportspecification-scooterbuilder#sdk-for-ios-navigate-s-7heresdk22TransportSpecificationV14ScooterBuilderCAEycfc" class="token"><code>init()</code></a> 
 
   </div>
 
@@ -66,10 +70,8 @@ This class constructs a <a href="sdk-for-ios-navigate-structs-transportspecifica
   Swift
 
   ``` highlight
-  public init ()
+  public init()
   ```
-
-  </pre>
 
   </div>
 
@@ -81,7 +83,7 @@ This class constructs a <a href="sdk-for-ios-navigate-structs-transportspecifica
 
 - <div>
 
-      withScooterSpecification(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk22TransportSpecificationV14ScooterBuilderC04withdC0yAeA0dC0VF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-withScooterSpecification-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-transportspecification-scooterbuilder#sdk-for-ios-navigate-s-7heresdk22TransportSpecificationV14ScooterBuilderC04withdC0yAeA0dC0VF" class="token"><code>withScooterSpecification(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -112,12 +114,15 @@ This class constructs a <a href="sdk-for-ios-navigate-structs-transportspecifica
   Swift
 
   ``` highlight
-  public func withScooterSpecification ( _ scooterSpecification : ScooterSpecification ) -> TransportSpecification . ScooterBuilder
+  public func withScooterSpecification(_ scooterSpecification: ScooterSpecification) -> TransportSpecification.ScooterBuilder
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-scooterspecification">ScooterSpecification</a>
+  - <a href="sdk-for-ios-navigate-structs-transportspecification">TransportSpecification</a>
 
   </div>
 
@@ -156,7 +161,7 @@ This class constructs a <a href="sdk-for-ios-navigate-structs-transportspecifica
 
 - <div>
 
-      withVehicleSpecification(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk22TransportSpecificationV14ScooterBuilderC011withVehicleC0yAeA0gC0VF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-withVehicleSpecification-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-transportspecification-scooterbuilder#sdk-for-ios-navigate-s-7heresdk22TransportSpecificationV14ScooterBuilderC011withVehicleC0yAeA0gC0VF" class="token"><code>withVehicleSpecification(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -187,12 +192,15 @@ This class constructs a <a href="sdk-for-ios-navigate-structs-transportspecifica
   Swift
 
   ``` highlight
-  public func withVehicleSpecification ( _ vehicleSpecification : VehicleSpecification ) -> TransportSpecification . ScooterBuilder
+  public func withVehicleSpecification(_ vehicleSpecification: VehicleSpecification) -> TransportSpecification.ScooterBuilder
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-vehiclespecification">VehicleSpecification</a>
+  - <a href="sdk-for-ios-navigate-structs-transportspecification">TransportSpecification</a>
 
   </div>
 
@@ -231,7 +239,7 @@ This class constructs a <a href="sdk-for-ios-navigate-structs-transportspecifica
 
 - <div>
 
-      build()
+   <span id="sdk-for-ios-navigate-s-7heresdk22TransportSpecificationV14ScooterBuilderC5buildACyF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-build" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-transportspecification-scooterbuilder#sdk-for-ios-navigate-s-7heresdk22TransportSpecificationV14ScooterBuilderC5buildACyF" class="token"><code>build()</code></a> 
 
   </div>
 
@@ -262,12 +270,14 @@ This class constructs a <a href="sdk-for-ios-navigate-structs-transportspecifica
   Swift
 
   ``` highlight
-  public func build () -> TransportSpecification
+  public func build() -> TransportSpecification
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-transportspecification">TransportSpecification</a>
 
   </div>
 

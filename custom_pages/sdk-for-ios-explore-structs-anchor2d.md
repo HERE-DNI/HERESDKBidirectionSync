@@ -27,7 +27,7 @@ Represents a point in a rectangle as a ratio of this rectangle’s width and hei
 
 - <div>
 
-  ` `<span id="/s:7heresdk8Anchor2DV10horizontalSdvp"></span>` `<span id="//apple_ref/swift/Property/horizontal" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-anchor2d#/s:7heresdk8Anchor2DV10horizontalSdvp" class="token"><code>horizontal</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk8Anchor2DV10horizontalSdvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-horizontal" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-anchor2d#sdk-for-ios-explore-s-7heresdk8Anchor2DV10horizontalSdvp" class="token"><code>horizontal</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Represents a point in a rectangle as a ratio of this rectangle’s width and hei
 
 - <div>
 
-  ` `<span id="/s:7heresdk8Anchor2DV8verticalSdvp"></span>` `<span id="//apple_ref/swift/Property/vertical" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-anchor2d#/s:7heresdk8Anchor2DV8verticalSdvp" class="token"><code>vertical</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk8Anchor2DV8verticalSdvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-vertical" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-anchor2d#sdk-for-ios-explore-s-7heresdk8Anchor2DV8verticalSdvp" class="token"><code>vertical</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Represents a point in a rectangle as a ratio of this rectangle’s width and hei
 
 - <div>
 
-      init()
+   <span id="sdk-for-ios-explore-s-7heresdk8Anchor2DVACycfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-anchor2d#sdk-for-ios-explore-s-7heresdk8Anchor2DVACycfc" class="token"><code>init()</code></a> 
 
   </div>
 
@@ -146,10 +146,8 @@ Represents a point in a rectangle as a ratio of this rectangle’s width and hei
   Swift
 
   ``` highlight
-  public init ()
+  public init()
   ```
-
-  </pre>
 
   </div>
 
@@ -161,7 +159,7 @@ Represents a point in a rectangle as a ratio of this rectangle’s width and hei
 
 - <div>
 
-      init(horizontal: vertical: )
+   <span id="sdk-for-ios-explore-s-7heresdk8Anchor2DV10horizontal8verticalACSd_Sdtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-horizontal-vertical" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-anchor2d#sdk-for-ios-explore-s-7heresdk8Anchor2DV10horizontal8verticalACSd_Sdtcfc" class="token"><code>init(horizontal:</code><wbr></wbr><code>vertical:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -192,10 +190,8 @@ Represents a point in a rectangle as a ratio of this rectangle’s width and hei
   Swift
 
   ``` highlight
-  public init ( horizontal : Double , vertical : Double )
+  public init(horizontal: Double, vertical: Double)
   ```
-
-  </pre>
 
   </div>
 

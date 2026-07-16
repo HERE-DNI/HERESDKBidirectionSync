@@ -27,7 +27,7 @@ Represents the accessibility level of an <a href="sdk-for-ios-navigate-structs-e
 
 - <div>
 
-  ` `<span id="/s:7heresdk12EVAccessTypeO12publicAccessyA2CmF"></span>` `<span id="//apple_ref/swift/Element/publicAccess" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-evaccesstype#/s:7heresdk12EVAccessTypeO12publicAccessyA2CmF" class="token"><code>publicAccess</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12EVAccessTypeO12publicAccessyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-publicAccess" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-evaccesstype#sdk-for-ios-navigate-s-7heresdk12EVAccessTypeO12publicAccessyA2CmF" class="token"><code>publicAccess</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Represents the accessibility level of an <a href="sdk-for-ios-navigate-structs-e
 
 - <div>
 
-  ` `<span id="/s:7heresdk12EVAccessTypeO16restrictedAccessyA2CmF"></span>` `<span id="//apple_ref/swift/Element/restrictedAccess" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-evaccesstype#/s:7heresdk12EVAccessTypeO16restrictedAccessyA2CmF" class="token"><code>restrictedAccess</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12EVAccessTypeO16restrictedAccessyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-restrictedAccess" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-evaccesstype#sdk-for-ios-navigate-s-7heresdk12EVAccessTypeO16restrictedAccessyA2CmF" class="token"><code>restrictedAccess</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Represents the accessibility level of an <a href="sdk-for-ios-navigate-structs-e
 
 - <div>
 
-  ` `<span id="/s:7heresdk12EVAccessTypeO13privateAccessyA2CmF"></span>` `<span id="//apple_ref/swift/Element/privateAccess" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-evaccesstype#/s:7heresdk12EVAccessTypeO13privateAccessyA2CmF" class="token"><code>privateAccess</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12EVAccessTypeO13privateAccessyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-privateAccess" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-evaccesstype#sdk-for-ios-navigate-s-7heresdk12EVAccessTypeO13privateAccessyA2CmF" class="token"><code>privateAccess</code></a> 
 
   </div>
 

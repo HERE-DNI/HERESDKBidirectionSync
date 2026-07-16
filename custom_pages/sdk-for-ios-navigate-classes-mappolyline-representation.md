@@ -15,6 +15,10 @@ public class Representation : MapItemRepresentation
 
 </div>
 
+Related types:
+
+- <a href="sdk-for-ios-navigate-maps#sdk-for-ios-navigate-s-7heresdk21MapItemRepresentationC">MapItemRepresentation</a>
+
 </div>
 
 Base class to represent the visual appearance of a <a href="sdk-for-ios-navigate-classes-mappolyline">`MapPolyline`</a>.
@@ -27,7 +31,7 @@ Base class to represent the visual appearance of a <a href="sdk-for-ios-navigate
 
 - <div>
 
-  ` `<span id="/s:7heresdk11MapPolylineC14RepresentationC18InstantiationErrora"></span>` `<span id="//apple_ref/swift/Alias/InstantiationError" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mappolyline-representation#/s:7heresdk11MapPolylineC14RepresentationC18InstantiationErrora" class="token"><code>InstantiationError</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11MapPolylineC14RepresentationC18InstantiationErrora"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Alias-InstantiationError" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mappolyline-representation#sdk-for-ios-navigate-s-7heresdk11MapPolylineC14RepresentationC18InstantiationErrora" class="token"><code>InstantiationError</code></a> 
 
   </div>
 
@@ -63,6 +67,10 @@ Base class to represent the visual appearance of a <a href="sdk-for-ios-navigate
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mappolyline-representation-instantiationerrorcode">InstantiationErrorCode</a>
+
   </div>
 
   </div>
@@ -71,7 +79,7 @@ Base class to represent the visual appearance of a <a href="sdk-for-ios-navigate
 
 - <div>
 
-  ` `<span id="/s:7heresdk11MapPolylineC14RepresentationC22InstantiationErrorCodeO"></span>` `<span id="//apple_ref/swift/Enum/InstantiationErrorCode" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mappolyline-representation#/s:7heresdk11MapPolylineC14RepresentationC22InstantiationErrorCodeO" class="token"><code>InstantiationErrorCode</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11MapPolylineC14RepresentationC22InstantiationErrorCodeO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-InstantiationErrorCode" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mappolyline-representation#sdk-for-ios-navigate-s-7heresdk11MapPolylineC14RepresentationC22InstantiationErrorCodeO" class="token"><code>InstantiationErrorCode</code></a> 
 
   </div>
 
@@ -112,6 +120,11 @@ Base class to represent the visual appearance of a <a href="sdk-for-ios-navigate
   ```
 
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mappolyline">MapPolyline</a>
+  - <a href="sdk-for-ios-navigate-classes-mappolyline-representation">Representation</a>
 
   </div>
 

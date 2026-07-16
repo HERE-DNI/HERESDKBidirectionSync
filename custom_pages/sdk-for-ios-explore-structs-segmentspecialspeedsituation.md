@@ -29,7 +29,7 @@ A special speed situation indicates a speed that exists under special circumstan
 
 - <div>
 
-  ` `<span id="/s:7heresdk28SegmentSpecialSpeedSituationV07specialD4TypeAA0cdG0Ovp"></span>` `<span id="//apple_ref/swift/Property/specialSpeedType" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-segmentspecialspeedsituation#/s:7heresdk28SegmentSpecialSpeedSituationV07specialD4TypeAA0cdG0Ovp" class="token"><code>specialSpeedType</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk28SegmentSpecialSpeedSituationV07specialD4TypeAA0cdG0Ovp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-specialSpeedType" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-segmentspecialspeedsituation#sdk-for-ios-explore-s-7heresdk28SegmentSpecialSpeedSituationV07specialD4TypeAA0cdG0Ovp" class="token"><code>specialSpeedType</code></a> 
 
   </div>
 
@@ -65,6 +65,10 @@ A special speed situation indicates a speed that exists under special circumstan
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-specialspeedtype">SpecialSpeedType</a>
+
   </div>
 
   </div>
@@ -73,7 +77,7 @@ A special speed situation indicates a speed that exists under special circumstan
 
 - <div>
 
-  ` `<span id="/s:7heresdk28SegmentSpecialSpeedSituationV27speedLimitInMetersPerSecondSdvp"></span>` `<span id="//apple_ref/swift/Property/speedLimitInMetersPerSecond" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-segmentspecialspeedsituation#/s:7heresdk28SegmentSpecialSpeedSituationV27speedLimitInMetersPerSecondSdvp" class="token"><code>speedLimitInMetersPerSecond</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk28SegmentSpecialSpeedSituationV27speedLimitInMetersPerSecondSdvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-speedLimitInMetersPerSecond" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-segmentspecialspeedsituation#sdk-for-ios-explore-s-7heresdk28SegmentSpecialSpeedSituationV27speedLimitInMetersPerSecondSdvp" class="token"><code>speedLimitInMetersPerSecond</code></a> 
 
   </div>
 
@@ -119,7 +123,7 @@ A special speed situation indicates a speed that exists under special circumstan
 
 - <div>
 
-  ` `<span id="/s:7heresdk28SegmentSpecialSpeedSituationV13appliesDuringSayAA8TimeRuleCGvp"></span>` `<span id="//apple_ref/swift/Property/appliesDuring" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-segmentspecialspeedsituation#/s:7heresdk28SegmentSpecialSpeedSituationV13appliesDuringSayAA8TimeRuleCGvp" class="token"><code>appliesDuring</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk28SegmentSpecialSpeedSituationV13appliesDuringSayAA8TimeRuleCGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-appliesDuring" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-segmentspecialspeedsituation#sdk-for-ios-explore-s-7heresdk28SegmentSpecialSpeedSituationV13appliesDuringSayAA8TimeRuleCGvp" class="token"><code>appliesDuring</code></a> 
 
   </div>
 
@@ -155,6 +159,10 @@ A special speed situation indicates a speed that exists under special circumstan
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-timerule">TimeRule</a>
+
   </div>
 
   </div>
@@ -163,7 +171,7 @@ A special speed situation indicates a speed that exists under special circumstan
 
 - <div>
 
-      init(specialSpeedType: speedLimitInMetersPerSecond: appliesDuring: )
+   <span id="sdk-for-ios-explore-s-7heresdk28SegmentSpecialSpeedSituationV07specialD4Type27speedLimitInMetersPerSecond13appliesDuringAcA0cdG0O_SdSayAA8TimeRuleCGtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-specialSpeedType-speedLimitInMetersPerSecond-appliesDuring" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-segmentspecialspeedsituation#sdk-for-ios-explore-s-7heresdk28SegmentSpecialSpeedSituationV07specialD4Type27speedLimitInMetersPerSecond13appliesDuringAcA0cdG0O_SdSayAA8TimeRuleCGtcfc" class="token"><code>init(specialSpeedType:</code><wbr></wbr><code>speedLimitInMetersPerSecond:</code><wbr></wbr><code>appliesDuring:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -203,12 +211,15 @@ A special speed situation indicates a speed that exists under special circumstan
   Swift
 
   ``` highlight
-  public init ( specialSpeedType : SpecialSpeedType , speedLimitInMetersPerSecond : Double , appliesDuring : [ TimeRule ])
+  public init(specialSpeedType: SpecialSpeedType, speedLimitInMetersPerSecond: Double, appliesDuring: [TimeRule])
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-specialspeedtype">SpecialSpeedType</a>
+  - <a href="sdk-for-ios-explore-classes-timerule">TimeRule</a>
 
   </div>
 

@@ -23,6 +23,10 @@ extension VehicleSpecification.ScooterBuilder: Hashable
 
 </div>
 
+Related types:
+
+- <a href="sdk-for-ios-explore-structs-vehiclespecification">VehicleSpecification</a>
+
 </div>
 
 This class constructs a <a href="sdk-for-ios-explore-structs-vehiclespecification">`VehicleSpecification`</a> for a scooter.
@@ -35,7 +39,7 @@ This class constructs a <a href="sdk-for-ios-explore-structs-vehiclespecificatio
 
 - <div>
 
-      init()
+   <span id="sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV14ScooterBuilderCAEycfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-vehiclespecification-scooterbuilder#sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV14ScooterBuilderCAEycfc" class="token"><code>init()</code></a> 
 
   </div>
 
@@ -66,10 +70,8 @@ This class constructs a <a href="sdk-for-ios-explore-structs-vehiclespecificatio
   Swift
 
   ``` highlight
-  public init ()
+  public init()
   ```
-
-  </pre>
 
   </div>
 
@@ -81,7 +83,7 @@ This class constructs a <a href="sdk-for-ios-explore-structs-vehiclespecificatio
 
 - <div>
 
-      withEngineSizeInCubicCentimeters(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV14ScooterBuilderC32withEngineSizeInCubicCentimetersyAEs5Int32VF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-withEngineSizeInCubicCentimeters-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-vehiclespecification-scooterbuilder#sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV14ScooterBuilderC32withEngineSizeInCubicCentimetersyAEs5Int32VF" class="token"><code>withEngineSizeInCubicCentimeters(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -112,12 +114,14 @@ This class constructs a <a href="sdk-for-ios-explore-structs-vehiclespecificatio
   Swift
 
   ``` highlight
-  public func withEngineSizeInCubicCentimeters ( _ engineSizeInCubicCentimeters : Int32 ) -> VehicleSpecification . ScooterBuilder
+  public func withEngineSizeInCubicCentimeters(_ engineSizeInCubicCentimeters: Int32) -> VehicleSpecification.ScooterBuilder
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-vehiclespecification">VehicleSpecification</a>
 
   </div>
 
@@ -156,7 +160,7 @@ This class constructs a <a href="sdk-for-ios-explore-structs-vehiclespecificatio
 
 - <div>
 
-      withOccupancy(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV14ScooterBuilderC13withOccupancyyAEs5Int32VF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-withOccupancy-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-vehiclespecification-scooterbuilder#sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV14ScooterBuilderC13withOccupancyyAEs5Int32VF" class="token"><code>withOccupancy(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -187,12 +191,14 @@ This class constructs a <a href="sdk-for-ios-explore-structs-vehiclespecificatio
   Swift
 
   ``` highlight
-  public func withOccupancy ( _ occupancy : Int32 ) -> VehicleSpecification . ScooterBuilder
+  public func withOccupancy(_ occupancy: Int32) -> VehicleSpecification.ScooterBuilder
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-vehiclespecification">VehicleSpecification</a>
 
   </div>
 
@@ -231,7 +237,7 @@ This class constructs a <a href="sdk-for-ios-explore-structs-vehiclespecificatio
 
 - <div>
 
-      build()
+   <span id="sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV14ScooterBuilderC5buildACyF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-build" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-vehiclespecification-scooterbuilder#sdk-for-ios-explore-s-7heresdk20VehicleSpecificationV14ScooterBuilderC5buildACyF" class="token"><code>build()</code></a> 
 
   </div>
 
@@ -249,7 +255,7 @@ This class constructs a <a href="sdk-for-ios-explore-structs-vehiclespecificatio
 
   <div class="abstract">
 
-  Builds the <a href="sdk-for-ios-explore-structs-vehiclespecification">`VehicleSpecification`</a> object for <a href="sdk-for-ios-explore-enums-transportmode#/s:7heresdk13TransportModeO7scooteryA2CmF">`TransportMode.scooter`</a> with the specifications taken from the `VehicleSpecification.ScooterBuilder` object.
+  Builds the <a href="sdk-for-ios-explore-structs-vehiclespecification">`VehicleSpecification`</a> object for <a href="sdk-for-ios-explore-enums-transportmode#sdk-for-ios-explore-s-7heresdk13TransportModeO7scooteryA2CmF">`TransportMode.scooter`</a> with the specifications taken from the `VehicleSpecification.ScooterBuilder` object.
 
   </div>
 
@@ -262,12 +268,14 @@ This class constructs a <a href="sdk-for-ios-explore-structs-vehiclespecificatio
   Swift
 
   ``` highlight
-  public func build () -> VehicleSpecification
+  public func build() -> VehicleSpecification
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-vehiclespecification">VehicleSpecification</a>
 
   </div>
 

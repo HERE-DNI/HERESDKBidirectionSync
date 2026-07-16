@@ -27,7 +27,7 @@ Address type
 
 - <div>
 
-  ` `<span id="/s:7heresdk11AddressTypeO5blockyA2CmF"></span>` `<span id="//apple_ref/swift/Element/block" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-addresstype#/s:7heresdk11AddressTypeO5blockyA2CmF" class="token"><code>block</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11AddressTypeO5blockyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-block" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-addresstype#sdk-for-ios-explore-s-7heresdk11AddressTypeO5blockyA2CmF" class="token"><code>block</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Address type
 
 - <div>
 
-  ` `<span id="/s:7heresdk11AddressTypeO8subblockyA2CmF"></span>` `<span id="//apple_ref/swift/Element/subblock" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-addresstype#/s:7heresdk11AddressTypeO8subblockyA2CmF" class="token"><code>subblock</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11AddressTypeO8subblockyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-subblock" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-addresstype#sdk-for-ios-explore-s-7heresdk11AddressTypeO8subblockyA2CmF" class="token"><code>subblock</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Address type
 
 - <div>
 
-  ` `<span id="/s:7heresdk11AddressTypeO11houseNumberyA2CmF"></span>` `<span id="//apple_ref/swift/Element/houseNumber" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-addresstype#/s:7heresdk11AddressTypeO11houseNumberyA2CmF" class="token"><code>houseNumber</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11AddressTypeO11houseNumberyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-houseNumber" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-addresstype#sdk-for-ios-explore-s-7heresdk11AddressTypeO11houseNumberyA2CmF" class="token"><code>houseNumber</code></a> 
 
   </div>
 

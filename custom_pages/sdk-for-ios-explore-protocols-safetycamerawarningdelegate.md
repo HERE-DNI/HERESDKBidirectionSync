@@ -29,7 +29,7 @@ When `SafetyCameraWarningListener` is enabled, a new set of text notifications (
 
 - <div>
 
-      onSafetyCameraWarningUpdated(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk27SafetyCameraWarningDelegateP02onbcD7UpdatedyyAA0bcD0VF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-onSafetyCameraWarningUpdated-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-protocols-safetycamerawarningdelegate#sdk-for-ios-explore-s-7heresdk27SafetyCameraWarningDelegateP02onbcD7UpdatedyyAA0bcD0VF" class="token"><code>onSafetyCameraWarningUpdated(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -60,12 +60,14 @@ When `SafetyCameraWarningListener` is enabled, a new set of text notifications (
   Swift
 
   ``` highlight
-  func onSafetyCameraWarningUpdated ( _ safetyCameraWarning : SafetyCameraWarning )
+  func onSafetyCameraWarningUpdated(_ safetyCameraWarning: SafetyCameraWarning)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-safetycamerawarning">SafetyCameraWarning</a>
 
   </div>
 

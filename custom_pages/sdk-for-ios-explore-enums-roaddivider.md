@@ -29,7 +29,7 @@ A physical structure or painted road marking intended to legally prohibit left t
 
 - <div>
 
-  ` `<span id="/s:7heresdk11RoadDividerO5legalyA2CmF"></span>` `<span id="//apple_ref/swift/Element/legal" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-roaddivider#/s:7heresdk11RoadDividerO5legalyA2CmF" class="token"><code>legal</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11RoadDividerO5legalyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-legal" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-roaddivider#sdk-for-ios-explore-s-7heresdk11RoadDividerO5legalyA2CmF" class="token"><code>legal</code></a> 
 
   </div>
 
@@ -73,7 +73,7 @@ A physical structure or painted road marking intended to legally prohibit left t
 
 - <div>
 
-  ` `<span id="/s:7heresdk11RoadDividerO8physicalyA2CmF"></span>` `<span id="//apple_ref/swift/Element/physical" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-roaddivider#/s:7heresdk11RoadDividerO8physicalyA2CmF" class="token"><code>physical</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11RoadDividerO8physicalyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-physical" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-roaddivider#sdk-for-ios-explore-s-7heresdk11RoadDividerO8physicalyA2CmF" class="token"><code>physical</code></a> 
 
   </div>
 

@@ -27,7 +27,7 @@ Holds all the agency information.
 
 - <div>
 
-  ` `<span id="/s:7heresdk6AgencyV4nameSSvp"></span>` `<span id="//apple_ref/swift/Property/name" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-agency#/s:7heresdk6AgencyV4nameSSvp" class="token"><code>name</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk6AgencyV4nameSSvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-name" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-agency#sdk-for-ios-navigate-s-7heresdk6AgencyV4nameSSvp" class="token"><code>name</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Holds all the agency information.
 
 - <div>
 
-  ` `<span id="/s:7heresdk6AgencyV7websiteSSSgvp"></span>` `<span id="//apple_ref/swift/Property/website" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-agency#/s:7heresdk6AgencyV7websiteSSSgvp" class="token"><code>website</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk6AgencyV7websiteSSSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-website" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-agency#sdk-for-ios-navigate-s-7heresdk6AgencyV7websiteSSSgvp" class="token"><code>website</code></a> 
 
   </div>
 

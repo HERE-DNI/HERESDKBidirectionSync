@@ -46,7 +46,7 @@ The `MapMatcher` supports two layer configurations for retrieving segment geomet
 
 If your hardware supports pitch and high precision altitude information and you want to use them in the `MapMatcher` to improve map-matching, then enable the `LayerConfiguration.Feature.ADAS` layer:
 
-1.  Turn on the `ADAS` layer via <a href="sdk-for-ios-explore-structs-layerconfiguration#/s:7heresdk18LayerConfigurationV15enabledFeaturesSayAC7FeatureOGvp">`LayerConfiguration.enabledFeatures`</a> (it will increase data consumption).
+1.  Turn on the `ADAS` layer via <a href="sdk-for-ios-explore-structs-layerconfiguration#sdk-for-ios-explore-s-7heresdk18LayerConfigurationV15enabledFeaturesSayAC7FeatureOGvp">`LayerConfiguration.enabledFeatures`</a> (it will increase data consumption).
 2.  If available, set `location.pitchInDegrees, location.coordinates.altitude` and `location.verticalAccuracyInMeters`.
 3.  In case of issues, please contact your HERE representative.
 
@@ -58,7 +58,7 @@ If your hardware supports pitch and high precision altitude information and you 
 
 - <div>
 
-      init()
+   <span id="sdk-for-ios-explore-s-7heresdk10MapMatcherCACyKcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapmatcher#sdk-for-ios-explore-s-7heresdk10MapMatcherCACyKcfc" class="token"><code>init()</code></a> 
 
   </div>
 
@@ -82,7 +82,7 @@ If your hardware supports pitch and high precision altitude information and you 
 
   Throws
 
-  <a href="sdk-for-ios-explore-core#/s:7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
+  <a href="sdk-for-ios-explore-core#sdk-for-ios-explore-s-7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
 
   </div>
 
@@ -97,10 +97,8 @@ If your hardware supports pitch and high precision altitude information and you 
   Swift
 
   ``` highlight
-  public init () throws
+  public init() throws
   ```
-
-  </pre>
 
   </div>
 
@@ -112,7 +110,7 @@ If your hardware supports pitch and high precision altitude information and you 
 
 - <div>
 
-      init(sdkEngine: )
+   <span id="sdk-for-ios-explore-s-7heresdk10MapMatcherC9sdkEngineAcA09SDKNativeE0C_tKcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-sdkEngine" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapmatcher#sdk-for-ios-explore-s-7heresdk10MapMatcherC9sdkEngineAcA09SDKNativeE0C_tKcfc" class="token"><code>init(sdkEngine:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -136,7 +134,7 @@ If your hardware supports pitch and high precision altitude information and you 
 
   Throws
 
-  <a href="sdk-for-ios-explore-core#/s:7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
+  <a href="sdk-for-ios-explore-core#sdk-for-ios-explore-s-7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
 
   </div>
 
@@ -151,12 +149,14 @@ If your hardware supports pitch and high precision altitude information and you 
   Swift
 
   ``` highlight
-  public init ( sdkEngine : SDKNativeEngine ) throws
+  public init(sdkEngine: SDKNativeEngine) throws
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-sdknativeengine">SDKNativeEngine</a>
 
   </div>
 
@@ -187,7 +187,7 @@ If your hardware supports pitch and high precision altitude information and you 
 
 - <div>
 
-      init(sdkEngine: useRenderingLayers: )
+   <span id="sdk-for-ios-explore-s-7heresdk10MapMatcherC9sdkEngine18useRenderingLayersAcA09SDKNativeE0C_SbtKcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-sdkEngine-useRenderingLayers" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapmatcher#sdk-for-ios-explore-s-7heresdk10MapMatcherC9sdkEngine18useRenderingLayersAcA09SDKNativeE0C_SbtKcfc" class="token"><code>init(sdkEngine:</code><wbr></wbr><code>useRenderingLayers:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -211,7 +211,7 @@ If your hardware supports pitch and high precision altitude information and you 
 
   Throws
 
-  <a href="sdk-for-ios-explore-core#/s:7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
+  <a href="sdk-for-ios-explore-core#sdk-for-ios-explore-s-7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
 
   </div>
 
@@ -226,12 +226,14 @@ If your hardware supports pitch and high precision altitude information and you 
   Swift
 
   ``` highlight
-  public init ( sdkEngine : SDKNativeEngine , useRenderingLayers : Bool ) throws
+  public init(sdkEngine: SDKNativeEngine, useRenderingLayers: Bool) throws
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-sdknativeengine">SDKNativeEngine</a>
 
   </div>
 
@@ -268,7 +270,7 @@ If your hardware supports pitch and high precision altitude information and you 
 
 - <div>
 
-      match(location: )
+   <span id="sdk-for-ios-explore-s-7heresdk10MapMatcherC5match8locationAA0B15MatchedLocationVSgAA0G0V_tF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-match-location" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapmatcher#sdk-for-ios-explore-s-7heresdk10MapMatcherC5match8locationAA0B15MatchedLocationVSgAA0G0V_tF" class="token"><code>match(location:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -303,12 +305,15 @@ If your hardware supports pitch and high precision altitude information and you 
   Swift
 
   ``` highlight
-  public func match ( location : Location ) -> MapMatchedLocation ?
+  public func match(location: Location) -> MapMatchedLocation?
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-location">Location</a>
+  - <a href="sdk-for-ios-explore-structs-mapmatchedlocation">MapMatchedLocation</a>
 
   </div>
 

@@ -27,7 +27,7 @@ This class provides an interface to the user, to identify a catalog on the HERE 
 
 - <div>
 
-  ` `<span id="/s:7heresdk14DesiredCatalogV2idAA0C10IdentifierVvp"></span>` `<span id="//apple_ref/swift/Property/id" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-desiredcatalog#/s:7heresdk14DesiredCatalogV2idAA0C10IdentifierVvp" class="token"><code>id</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14DesiredCatalogV2idAA0C10IdentifierVvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-id" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-desiredcatalog#sdk-for-ios-navigate-s-7heresdk14DesiredCatalogV2idAA0C10IdentifierVvp" class="token"><code>id</code></a> 
 
   </div>
 
@@ -63,6 +63,10 @@ This class provides an interface to the user, to identify a catalog on the HERE 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-catalogidentifier">CatalogIdentifier</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ This class provides an interface to the user, to identify a catalog on the HERE 
 
 - <div>
 
-      init(hrn: version: )
+   <span id="sdk-for-ios-navigate-s-7heresdk14DesiredCatalogV3hrn7versionACSS_AA0C11VersionHintCtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-hrn-version" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-desiredcatalog#sdk-for-ios-navigate-s-7heresdk14DesiredCatalogV3hrn7versionACSS_AA0C11VersionHintCtcfc" class="token"><code>init(hrn:</code><wbr></wbr><code>version:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -102,12 +106,14 @@ This class provides an interface to the user, to identify a catalog on the HERE 
   Swift
 
   ``` highlight
-  public init ( hrn : String , version : CatalogVersionHint )
+  public init(hrn: String, version: CatalogVersionHint)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-catalogversionhint">CatalogVersionHint</a>
 
   </div>
 
@@ -124,18 +130,13 @@ This class provides an interface to the user, to identify a catalog on the HERE 
   <tr>
   <td><code> </code><em><code>hrn</code></em><code> </code></td>
   <td><div>
-  <p>A HERE Resource Name (HRN) for this catalog. This is a unique string returned by the HERE platform when you add a new catalog to your project. For more information, see <a href="sdk-for-ios-navigate-structs-catalogidentifier#/s:7heresdk17CatalogIdentifierV3hrnSSvp"><code>CatalogIdentifier.hrn</code></a></p>
+  <p>A HERE Resource Name (HRN) for this catalog. This is a unique string returned by the HERE platform when you add a new catalog to your project. For more information, see <a href="sdk-for-ios-navigate-structs-catalogidentifier#sdk-for-ios-navigate-s-7heresdk17CatalogIdentifierV3hrnSSvp"><code>CatalogIdentifier.hrn</code></a></p>
   </div></td>
   </tr>
   <tr>
   <td><code> </code><em><code>version</code></em><code> </code></td>
   <td><div>
-  <p>The version to use for this Catalog’s data. You should use either</p>
-  <pre><code>CatalogVersionHint.specific(...)</code></pre>
-  to specify a specific version of the catalog or
-  <pre><code>CatalogVersionHint.latest(...)</code></pre>
-  to access the latest version of the catalog available on the HERE platform. Based on the value in this field, the HERE platform will determine the best version to use for this catalog or result in error logs if the desired version is not available.
-  </p>
+  <p>The version to use for this Catalog’s data. You should use either <a href="sdk-for-ios-navigate-classes-catalogversionhint#sdk-for-ios-navigate-s-7heresdk18CatalogVersionHintC8specific7versionACs5Int64V_tFZ"><code>CatalogVersionHint.specific(...)</code></a> to specify a specific version of the catalog or <a href="sdk-for-ios-navigate-classes-catalogversionhint#sdk-for-ios-navigate-s-7heresdk18CatalogVersionHintC6latest16ignoreCachedDataACSb_tFZ"><code>CatalogVersionHint.latest(...)</code></a> to access the latest version of the catalog available on the HERE platform. Based on the value in this field, the HERE platform will determine the best version to use for this catalog or result in error logs if the desired version is not available.</p>
   </div></td>
   </tr>
   </tbody>

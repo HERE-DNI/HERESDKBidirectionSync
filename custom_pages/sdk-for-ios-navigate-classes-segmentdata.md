@@ -37,7 +37,7 @@ Contains the requested information for a segment
 
 - <div>
 
-  ` `<span id="/s:7heresdk11SegmentDataC03ocmB2IdAA010OCMSegmentE0Vvp"></span>` `<span id="//apple_ref/swift/Property/ocmSegmentId" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-segmentdata#/s:7heresdk11SegmentDataC03ocmB2IdAA010OCMSegmentE0Vvp" class="token"><code>ocmSegmentId</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11SegmentDataC03ocmB2IdAA010OCMSegmentE0Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-ocmSegmentId" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-segmentdata#sdk-for-ios-navigate-s-7heresdk11SegmentDataC03ocmB2IdAA010OCMSegmentE0Vvp" class="token"><code>ocmSegmentId</code></a> 
 
   </div>
 
@@ -73,6 +73,10 @@ Contains the requested information for a segment
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-ocmsegmentid">OCMSegmentId</a>
+
   </div>
 
   </div>
@@ -81,7 +85,7 @@ Contains the requested information for a segment
 
 - <div>
 
-  ` `<span id="/s:7heresdk11SegmentDataC16segmentReferenceAA0bE0Vvp"></span>` `<span id="//apple_ref/swift/Property/segmentReference" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-segmentdata#/s:7heresdk11SegmentDataC16segmentReferenceAA0bE0Vvp" class="token"><code>segmentReference</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11SegmentDataC16segmentReferenceAA0bE0Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-segmentReference" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-segmentdata#sdk-for-ios-navigate-s-7heresdk11SegmentDataC16segmentReferenceAA0bE0Vvp" class="token"><code>segmentReference</code></a> 
 
   </div>
 
@@ -117,6 +121,10 @@ Contains the requested information for a segment
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-segmentreference">SegmentReference</a>
+
   </div>
 
   </div>
@@ -125,7 +133,7 @@ Contains the requested information for a segment
 
 - <div>
 
-  ` `<span id="/s:7heresdk11SegmentDataC8polylineAA11GeoPolylineVvp"></span>` `<span id="//apple_ref/swift/Property/polyline" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-segmentdata#/s:7heresdk11SegmentDataC8polylineAA11GeoPolylineVvp" class="token"><code>polyline</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11SegmentDataC8polylineAA11GeoPolylineVvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-polyline" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-segmentdata#sdk-for-ios-navigate-s-7heresdk11SegmentDataC8polylineAA11GeoPolylineVvp" class="token"><code>polyline</code></a> 
 
   </div>
 
@@ -156,12 +164,14 @@ Contains the requested information for a segment
   Swift
 
   ``` highlight
-  public private(set) lazy var polyline : GeoPolyline { get set }
+  public private(set) lazy var polyline: GeoPolyline { get set }
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-geopolyline">GeoPolyline</a>
 
   </div>
 
@@ -171,7 +181,7 @@ Contains the requested information for a segment
 
 - <div>
 
-  ` `<span id="/s:7heresdk11SegmentDataC14lengthInMeterss5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/lengthInMeters" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-segmentdata#/s:7heresdk11SegmentDataC14lengthInMeterss5Int32Vvp" class="token"><code>lengthInMeters</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11SegmentDataC14lengthInMeterss5Int32Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-lengthInMeters" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-segmentdata#sdk-for-ios-navigate-s-7heresdk11SegmentDataC14lengthInMeterss5Int32Vvp" class="token"><code>lengthInMeters</code></a> 
 
   </div>
 
@@ -189,7 +199,7 @@ Contains the requested information for a segment
 
   <div class="abstract">
 
-  The length of this segment in meters. This information is based on map data. It can differ from the length of <a href="sdk-for-ios-navigate-classes-segmentdata#/s:7heresdk11SegmentDataC8polylineAA11GeoPolylineVvp">`SegmentData.polyline`</a> due to approximations of the polyline.
+  The length of this segment in meters. This information is based on map data. It can differ from the length of <a href="sdk-for-ios-navigate-classes-segmentdata#sdk-for-ios-navigate-s-7heresdk11SegmentDataC8polylineAA11GeoPolylineVvp">`SegmentData.polyline`</a> due to approximations of the polyline.
 
   </div>
 
@@ -215,7 +225,7 @@ Contains the requested information for a segment
 
 - <div>
 
-  ` `<span id="/s:7heresdk11SegmentDataC5spansSayAA0b4SpanC0CGvp"></span>` `<span id="//apple_ref/swift/Property/spans" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-segmentdata#/s:7heresdk11SegmentDataC5spansSayAA0b4SpanC0CGvp" class="token"><code>spans</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11SegmentDataC5spansSayAA0b4SpanC0CGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-spans" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-segmentdata#sdk-for-ios-navigate-s-7heresdk11SegmentDataC5spansSayAA0b4SpanC0CGvp" class="token"><code>spans</code></a> 
 
   </div>
 
@@ -251,6 +261,10 @@ Contains the requested information for a segment
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-segmentspandata">SegmentSpanData</a>
+
   </div>
 
   </div>
@@ -259,7 +273,7 @@ Contains the requested information for a segment
 
 - <div>
 
-  ` `<span id="/s:7heresdk11SegmentDataC14trafficSignalsSayAA13TrafficSignalVGSgvp"></span>` `<span id="//apple_ref/swift/Property/trafficSignals" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-segmentdata#/s:7heresdk11SegmentDataC14trafficSignalsSayAA13TrafficSignalVGSgvp" class="token"><code>trafficSignals</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11SegmentDataC14trafficSignalsSayAA13TrafficSignalVGSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-trafficSignals" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-segmentdata#sdk-for-ios-navigate-s-7heresdk11SegmentDataC14trafficSignalsSayAA13TrafficSignalVGSgvp" class="token"><code>trafficSignals</code></a> 
 
   </div>
 
@@ -277,7 +291,7 @@ Contains the requested information for a segment
 
   <div class="abstract">
 
-  The list of <a href="sdk-for-ios-navigate-structs-trafficsignal">`TrafficSignal`</a> of the given segment. Returns an empty list if no data is found. Returns `nil` if <a href="sdk-for-ios-navigate-structs-segmentdataloaderoptions#/s:7heresdk24SegmentDataLoaderOptionsV18loadTrafficSignalsSbvp">`SegmentDataLoaderOptions.loadTrafficSignals`</a> is set to `false`. The <a href="sdk-for-ios-navigate-enums-trafficsignallocation">`TrafficSignalLocation`</a> indicates the location of a single traffic signal, which can be any combination of left, right and overhead. The <a href="sdk-for-ios-navigate-structs-trafficsignal#/s:7heresdk13TrafficSignalV14offsetInMeterss5Int32Vvp">`TrafficSignal.offsetInMeters`</a> is the location along the segment, while the traffic signal location have details on how the traffic signal is display/deploy in that specific location in the segment.
+  The list of <a href="sdk-for-ios-navigate-structs-trafficsignal">`TrafficSignal`</a> of the given segment. Returns an empty list if no data is found. Returns `nil` if <a href="sdk-for-ios-navigate-structs-segmentdataloaderoptions#sdk-for-ios-navigate-s-7heresdk24SegmentDataLoaderOptionsV18loadTrafficSignalsSbvp">`SegmentDataLoaderOptions.loadTrafficSignals`</a> is set to `false`. The <a href="sdk-for-ios-navigate-enums-trafficsignallocation">`TrafficSignalLocation`</a> indicates the location of a single traffic signal, which can be any combination of left, right and overhead. The <a href="sdk-for-ios-navigate-structs-trafficsignal#sdk-for-ios-navigate-s-7heresdk13TrafficSignalV14offsetInMeterss5Int32Vvp">`TrafficSignal.offsetInMeters`</a> is the location along the segment, while the traffic signal location have details on how the traffic signal is display/deploy in that specific location in the segment.
 
   </div>
 
@@ -295,6 +309,10 @@ Contains the requested information for a segment
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-trafficsignal">TrafficSignal</a>
+
   </div>
 
   </div>
@@ -303,7 +321,7 @@ Contains the requested information for a segment
 
 - <div>
 
-  ` `<span id="/s:7heresdk11SegmentDataC9roadSignsSayAA8RoadSignVGSgvp"></span>` `<span id="//apple_ref/swift/Property/roadSigns" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-segmentdata#/s:7heresdk11SegmentDataC9roadSignsSayAA8RoadSignVGSgvp" class="token"><code>roadSigns</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11SegmentDataC9roadSignsSayAA8RoadSignVGSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-roadSigns" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-segmentdata#sdk-for-ios-navigate-s-7heresdk11SegmentDataC9roadSignsSayAA8RoadSignVGSgvp" class="token"><code>roadSigns</code></a> 
 
   </div>
 
@@ -321,7 +339,7 @@ Contains the requested information for a segment
 
   <div class="abstract">
 
-  The list of <a href="sdk-for-ios-navigate-structs-roadsign">`RoadSign`</a> of the given segment. Returns `nil` if <a href="sdk-for-ios-navigate-structs-segmentdataloaderoptions#/s:7heresdk24SegmentDataLoaderOptionsV13loadRoadSignsSbvp">`SegmentDataLoaderOptions.loadRoadSigns`</a> is set to `false`.
+  The list of <a href="sdk-for-ios-navigate-structs-roadsign">`RoadSign`</a> of the given segment. Returns `nil` if <a href="sdk-for-ios-navigate-structs-segmentdataloaderoptions#sdk-for-ios-navigate-s-7heresdk24SegmentDataLoaderOptionsV13loadRoadSignsSbvp">`SegmentDataLoaderOptions.loadRoadSigns`</a> is set to `false`.
 
   </div>
 
@@ -339,6 +357,10 @@ Contains the requested information for a segment
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-roadsign">RoadSign</a>
+
   </div>
 
   </div>
@@ -347,7 +369,7 @@ Contains the requested information for a segment
 
 - <div>
 
-  ` `<span id="/s:7heresdk11SegmentDataC16railwayCrossingsSayAA15RailwayCrossingVGSgvp"></span>` `<span id="//apple_ref/swift/Property/railwayCrossings" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-segmentdata#/s:7heresdk11SegmentDataC16railwayCrossingsSayAA15RailwayCrossingVGSgvp" class="token"><code>railwayCrossings</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11SegmentDataC16railwayCrossingsSayAA15RailwayCrossingVGSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-railwayCrossings" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-segmentdata#sdk-for-ios-navigate-s-7heresdk11SegmentDataC16railwayCrossingsSayAA15RailwayCrossingVGSgvp" class="token"><code>railwayCrossings</code></a> 
 
   </div>
 
@@ -365,7 +387,7 @@ Contains the requested information for a segment
 
   <div class="abstract">
 
-  The list of <a href="sdk-for-ios-navigate-structs-railwaycrossing">`RailwayCrossing`</a> of the given segment. Returns an empty list if no data is found. Returns `nil` if <a href="sdk-for-ios-navigate-structs-segmentdataloaderoptions#/s:7heresdk24SegmentDataLoaderOptionsV20loadRailwayCrossingsSbvp">`SegmentDataLoaderOptions.loadRailwayCrossings`</a> is set to `false`.
+  The list of <a href="sdk-for-ios-navigate-structs-railwaycrossing">`RailwayCrossing`</a> of the given segment. Returns an empty list if no data is found. Returns `nil` if <a href="sdk-for-ios-navigate-structs-segmentdataloaderoptions#sdk-for-ios-navigate-s-7heresdk24SegmentDataLoaderOptionsV20loadRailwayCrossingsSbvp">`SegmentDataLoaderOptions.loadRailwayCrossings`</a> is set to `false`.
 
   </div>
 
@@ -383,6 +405,10 @@ Contains the requested information for a segment
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-railwaycrossing">RailwayCrossing</a>
+
   </div>
 
   </div>
@@ -391,7 +417,7 @@ Contains the requested information for a segment
 
 - <div>
 
-  ` `<span id="/s:7heresdk11SegmentDataC10tollPointsSayAA9TollPointVGSgvp"></span>` `<span id="//apple_ref/swift/Property/tollPoints" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-segmentdata#/s:7heresdk11SegmentDataC10tollPointsSayAA9TollPointVGSgvp" class="token"><code>tollPoints</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11SegmentDataC10tollPointsSayAA9TollPointVGSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-tollPoints" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-segmentdata#sdk-for-ios-navigate-s-7heresdk11SegmentDataC10tollPointsSayAA9TollPointVGSgvp" class="token"><code>tollPoints</code></a> 
 
   </div>
 
@@ -409,12 +435,7 @@ Contains the requested information for a segment
 
   <div class="abstract">
 
-  The list of <a href="sdk-for-ios-navigate-structs-tollpoint">`TollPoint`</a> of the given segment. Returns an empty list if no data is found. Returns `nil` if <a href="sdk-for-ios-navigate-structs-segmentdataloaderoptions#/s:7heresdk24SegmentDataLoaderOptionsV14loadTollPointsSbvp">`SegmentDataLoaderOptions.loadTollPoints`</a> is set to `false` or the `SegmentData` is not initialized using
-
-      SegmentDataLoader.loadDirectedSegmentData(...)
-
-  .
-  </p>
+  The list of <a href="sdk-for-ios-navigate-structs-tollpoint">`TollPoint`</a> of the given segment. Returns an empty list if no data is found. Returns `nil` if <a href="sdk-for-ios-navigate-structs-segmentdataloaderoptions#sdk-for-ios-navigate-s-7heresdk24SegmentDataLoaderOptionsV14loadTollPointsSbvp">`SegmentDataLoaderOptions.loadTollPoints`</a> is set to `false` or the `SegmentData` is not initialized using <a href="sdk-for-ios-navigate-classes-segmentdataloader#sdk-for-ios-navigate-s-7heresdk17SegmentDataLoaderC012loadDirectedbC07segment7optionsAA0bC0CAA0F12OCMSegmentIdV_AA0bcD7OptionsVtKF">`SegmentDataLoader.loadDirectedSegmentData(...)`</a>.
 
   </div>
 
@@ -431,6 +452,10 @@ Contains the requested information for a segment
   ```
 
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-tollpoint">TollPoint</a>
 
   </div>
 

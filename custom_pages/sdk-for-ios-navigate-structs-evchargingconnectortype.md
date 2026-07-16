@@ -27,7 +27,7 @@ Represents the standardized type of the installed connector. **Note:** This is a
 
 - <div>
 
-  ` `<span id="/s:7heresdk23EVChargingConnectorTypeV7chademoSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/chademo" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evchargingconnectortype#/s:7heresdk23EVChargingConnectorTypeV7chademoSSvpZ" class="token"><code>chademo</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk23EVChargingConnectorTypeV7chademoSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-chademo" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingconnectortype#sdk-for-ios-navigate-s-7heresdk23EVChargingConnectorTypeV7chademoSSvpZ" class="token"><code>chademo</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Represents the standardized type of the installed connector. **Note:** This is a
 
 - <div>
 
-  ` `<span id="/s:7heresdk23EVChargingConnectorTypeV6chaojiSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/chaoji" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evchargingconnectortype#/s:7heresdk23EVChargingConnectorTypeV6chaojiSSvpZ" class="token"><code>chaoji</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk23EVChargingConnectorTypeV6chaojiSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-chaoji" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingconnectortype#sdk-for-ios-navigate-s-7heresdk23EVChargingConnectorTypeV6chaojiSSvpZ" class="token"><code>chaoji</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Represents the standardized type of the installed connector. **Note:** This is a
 
 - <div>
 
-  ` `<span id="/s:7heresdk23EVChargingConnectorTypeV9domesticASSvpZ"></span>` `<span id="//apple_ref/swift/Variable/domesticA" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evchargingconnectortype#/s:7heresdk23EVChargingConnectorTypeV9domesticASSvpZ" class="token"><code>domesticA</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk23EVChargingConnectorTypeV9domesticASSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-domesticA" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingconnectortype#sdk-for-ios-navigate-s-7heresdk23EVChargingConnectorTypeV9domesticASSvpZ" class="token"><code>domesticA</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Represents the standardized type of the installed connector. **Note:** This is a
 
 - <div>
 
-  ` `<span id="/s:7heresdk23EVChargingConnectorTypeV9domesticBSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/domesticB" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evchargingconnectortype#/s:7heresdk23EVChargingConnectorTypeV9domesticBSSvpZ" class="token"><code>domesticB</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk23EVChargingConnectorTypeV9domesticBSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-domesticB" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingconnectortype#sdk-for-ios-navigate-s-7heresdk23EVChargingConnectorTypeV9domesticBSSvpZ" class="token"><code>domesticB</code></a> 
 
   </div>
 
@@ -203,7 +203,7 @@ Represents the standardized type of the installed connector. **Note:** This is a
 
 - <div>
 
-  ` `<span id="/s:7heresdk23EVChargingConnectorTypeV9domesticCSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/domesticC" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evchargingconnectortype#/s:7heresdk23EVChargingConnectorTypeV9domesticCSSvpZ" class="token"><code>domesticC</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk23EVChargingConnectorTypeV9domesticCSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-domesticC" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingconnectortype#sdk-for-ios-navigate-s-7heresdk23EVChargingConnectorTypeV9domesticCSSvpZ" class="token"><code>domesticC</code></a> 
 
   </div>
 
@@ -247,7 +247,7 @@ Represents the standardized type of the installed connector. **Note:** This is a
 
 - <div>
 
-  ` `<span id="/s:7heresdk23EVChargingConnectorTypeV9domesticDSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/domesticD" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evchargingconnectortype#/s:7heresdk23EVChargingConnectorTypeV9domesticDSSvpZ" class="token"><code>domesticD</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk23EVChargingConnectorTypeV9domesticDSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-domesticD" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingconnectortype#sdk-for-ios-navigate-s-7heresdk23EVChargingConnectorTypeV9domesticDSSvpZ" class="token"><code>domesticD</code></a> 
 
   </div>
 
@@ -291,7 +291,7 @@ Represents the standardized type of the installed connector. **Note:** This is a
 
 - <div>
 
-  ` `<span id="/s:7heresdk23EVChargingConnectorTypeV9domesticESSvpZ"></span>` `<span id="//apple_ref/swift/Variable/domesticE" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evchargingconnectortype#/s:7heresdk23EVChargingConnectorTypeV9domesticESSvpZ" class="token"><code>domesticE</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk23EVChargingConnectorTypeV9domesticESSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-domesticE" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingconnectortype#sdk-for-ios-navigate-s-7heresdk23EVChargingConnectorTypeV9domesticESSvpZ" class="token"><code>domesticE</code></a> 
 
   </div>
 
@@ -335,7 +335,7 @@ Represents the standardized type of the installed connector. **Note:** This is a
 
 - <div>
 
-  ` `<span id="/s:7heresdk23EVChargingConnectorTypeV9domesticFSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/domesticF" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evchargingconnectortype#/s:7heresdk23EVChargingConnectorTypeV9domesticFSSvpZ" class="token"><code>domesticF</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk23EVChargingConnectorTypeV9domesticFSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-domesticF" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingconnectortype#sdk-for-ios-navigate-s-7heresdk23EVChargingConnectorTypeV9domesticFSSvpZ" class="token"><code>domesticF</code></a> 
 
   </div>
 
@@ -379,7 +379,7 @@ Represents the standardized type of the installed connector. **Note:** This is a
 
 - <div>
 
-  ` `<span id="/s:7heresdk23EVChargingConnectorTypeV9domesticGSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/domesticG" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evchargingconnectortype#/s:7heresdk23EVChargingConnectorTypeV9domesticGSSvpZ" class="token"><code>domesticG</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk23EVChargingConnectorTypeV9domesticGSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-domesticG" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingconnectortype#sdk-for-ios-navigate-s-7heresdk23EVChargingConnectorTypeV9domesticGSSvpZ" class="token"><code>domesticG</code></a> 
 
   </div>
 
@@ -423,7 +423,7 @@ Represents the standardized type of the installed connector. **Note:** This is a
 
 - <div>
 
-  ` `<span id="/s:7heresdk23EVChargingConnectorTypeV9domesticHSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/domesticH" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evchargingconnectortype#/s:7heresdk23EVChargingConnectorTypeV9domesticHSSvpZ" class="token"><code>domesticH</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk23EVChargingConnectorTypeV9domesticHSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-domesticH" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingconnectortype#sdk-for-ios-navigate-s-7heresdk23EVChargingConnectorTypeV9domesticHSSvpZ" class="token"><code>domesticH</code></a> 
 
   </div>
 
@@ -467,7 +467,7 @@ Represents the standardized type of the installed connector. **Note:** This is a
 
 - <div>
 
-  ` `<span id="/s:7heresdk23EVChargingConnectorTypeV9domesticISSvpZ"></span>` `<span id="//apple_ref/swift/Variable/domesticI" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evchargingconnectortype#/s:7heresdk23EVChargingConnectorTypeV9domesticISSvpZ" class="token"><code>domesticI</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk23EVChargingConnectorTypeV9domesticISSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-domesticI" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingconnectortype#sdk-for-ios-navigate-s-7heresdk23EVChargingConnectorTypeV9domesticISSvpZ" class="token"><code>domesticI</code></a> 
 
   </div>
 
@@ -511,7 +511,7 @@ Represents the standardized type of the installed connector. **Note:** This is a
 
 - <div>
 
-  ` `<span id="/s:7heresdk23EVChargingConnectorTypeV9domesticJSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/domesticJ" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evchargingconnectortype#/s:7heresdk23EVChargingConnectorTypeV9domesticJSSvpZ" class="token"><code>domesticJ</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk23EVChargingConnectorTypeV9domesticJSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-domesticJ" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingconnectortype#sdk-for-ios-navigate-s-7heresdk23EVChargingConnectorTypeV9domesticJSSvpZ" class="token"><code>domesticJ</code></a> 
 
   </div>
 
@@ -555,7 +555,7 @@ Represents the standardized type of the installed connector. **Note:** This is a
 
 - <div>
 
-  ` `<span id="/s:7heresdk23EVChargingConnectorTypeV9domesticKSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/domesticK" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evchargingconnectortype#/s:7heresdk23EVChargingConnectorTypeV9domesticKSSvpZ" class="token"><code>domesticK</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk23EVChargingConnectorTypeV9domesticKSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-domesticK" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingconnectortype#sdk-for-ios-navigate-s-7heresdk23EVChargingConnectorTypeV9domesticKSSvpZ" class="token"><code>domesticK</code></a> 
 
   </div>
 
@@ -599,7 +599,7 @@ Represents the standardized type of the installed connector. **Note:** This is a
 
 - <div>
 
-  ` `<span id="/s:7heresdk23EVChargingConnectorTypeV9domesticLSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/domesticL" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evchargingconnectortype#/s:7heresdk23EVChargingConnectorTypeV9domesticLSSvpZ" class="token"><code>domesticL</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk23EVChargingConnectorTypeV9domesticLSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-domesticL" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingconnectortype#sdk-for-ios-navigate-s-7heresdk23EVChargingConnectorTypeV9domesticLSSvpZ" class="token"><code>domesticL</code></a> 
 
   </div>
 
@@ -643,7 +643,7 @@ Represents the standardized type of the installed connector. **Note:** This is a
 
 - <div>
 
-  ` `<span id="/s:7heresdk23EVChargingConnectorTypeV9domesticMSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/domesticM" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evchargingconnectortype#/s:7heresdk23EVChargingConnectorTypeV9domesticMSSvpZ" class="token"><code>domesticM</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk23EVChargingConnectorTypeV9domesticMSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-domesticM" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingconnectortype#sdk-for-ios-navigate-s-7heresdk23EVChargingConnectorTypeV9domesticMSSvpZ" class="token"><code>domesticM</code></a> 
 
   </div>
 
@@ -687,7 +687,7 @@ Represents the standardized type of the installed connector. **Note:** This is a
 
 - <div>
 
-  ` `<span id="/s:7heresdk23EVChargingConnectorTypeV9domesticNSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/domesticN" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evchargingconnectortype#/s:7heresdk23EVChargingConnectorTypeV9domesticNSSvpZ" class="token"><code>domesticN</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk23EVChargingConnectorTypeV9domesticNSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-domesticN" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingconnectortype#sdk-for-ios-navigate-s-7heresdk23EVChargingConnectorTypeV9domesticNSSvpZ" class="token"><code>domesticN</code></a> 
 
   </div>
 
@@ -731,7 +731,7 @@ Represents the standardized type of the installed connector. **Note:** This is a
 
 - <div>
 
-  ` `<span id="/s:7heresdk23EVChargingConnectorTypeV9domesticOSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/domesticO" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evchargingconnectortype#/s:7heresdk23EVChargingConnectorTypeV9domesticOSSvpZ" class="token"><code>domesticO</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk23EVChargingConnectorTypeV9domesticOSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-domesticO" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingconnectortype#sdk-for-ios-navigate-s-7heresdk23EVChargingConnectorTypeV9domesticOSSvpZ" class="token"><code>domesticO</code></a> 
 
   </div>
 
@@ -775,7 +775,7 @@ Represents the standardized type of the installed connector. **Note:** This is a
 
 - <div>
 
-  ` `<span id="/s:7heresdk23EVChargingConnectorTypeV5gbtAcSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/gbtAc" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evchargingconnectortype#/s:7heresdk23EVChargingConnectorTypeV5gbtAcSSvpZ" class="token"><code>gbtAc</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk23EVChargingConnectorTypeV5gbtAcSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-gbtAc" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingconnectortype#sdk-for-ios-navigate-s-7heresdk23EVChargingConnectorTypeV5gbtAcSSvpZ" class="token"><code>gbtAc</code></a> 
 
   </div>
 
@@ -819,7 +819,7 @@ Represents the standardized type of the installed connector. **Note:** This is a
 
 - <div>
 
-  ` `<span id="/s:7heresdk23EVChargingConnectorTypeV5gbtDcSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/gbtDc" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evchargingconnectortype#/s:7heresdk23EVChargingConnectorTypeV5gbtDcSSvpZ" class="token"><code>gbtDc</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk23EVChargingConnectorTypeV5gbtDcSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-gbtDc" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingconnectortype#sdk-for-ios-navigate-s-7heresdk23EVChargingConnectorTypeV5gbtDcSSvpZ" class="token"><code>gbtDc</code></a> 
 
   </div>
 
@@ -863,7 +863,7 @@ Represents the standardized type of the installed connector. **Note:** This is a
 
 - <div>
 
-  ` `<span id="/s:7heresdk23EVChargingConnectorTypeV17iec603092Single16SSvpZ"></span>` `<span id="//apple_ref/swift/Variable/iec603092Single16" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evchargingconnectortype#/s:7heresdk23EVChargingConnectorTypeV17iec603092Single16SSvpZ" class="token"><code>iec603092Single16</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk23EVChargingConnectorTypeV17iec603092Single16SSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-iec603092Single16" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingconnectortype#sdk-for-ios-navigate-s-7heresdk23EVChargingConnectorTypeV17iec603092Single16SSvpZ" class="token"><code>iec603092Single16</code></a> 
 
   </div>
 
@@ -907,7 +907,7 @@ Represents the standardized type of the installed connector. **Note:** This is a
 
 - <div>
 
-  ` `<span id="/s:7heresdk23EVChargingConnectorTypeV16iec603092Three16SSvpZ"></span>` `<span id="//apple_ref/swift/Variable/iec603092Three16" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evchargingconnectortype#/s:7heresdk23EVChargingConnectorTypeV16iec603092Three16SSvpZ" class="token"><code>iec603092Three16</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk23EVChargingConnectorTypeV16iec603092Three16SSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-iec603092Three16" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingconnectortype#sdk-for-ios-navigate-s-7heresdk23EVChargingConnectorTypeV16iec603092Three16SSvpZ" class="token"><code>iec603092Three16</code></a> 
 
   </div>
 
@@ -951,7 +951,7 @@ Represents the standardized type of the installed connector. **Note:** This is a
 
 - <div>
 
-  ` `<span id="/s:7heresdk23EVChargingConnectorTypeV16iec603092Three32SSvpZ"></span>` `<span id="//apple_ref/swift/Variable/iec603092Three32" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evchargingconnectortype#/s:7heresdk23EVChargingConnectorTypeV16iec603092Three32SSvpZ" class="token"><code>iec603092Three32</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk23EVChargingConnectorTypeV16iec603092Three32SSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-iec603092Three32" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingconnectortype#sdk-for-ios-navigate-s-7heresdk23EVChargingConnectorTypeV16iec603092Three32SSvpZ" class="token"><code>iec603092Three32</code></a> 
 
   </div>
 
@@ -995,7 +995,7 @@ Represents the standardized type of the installed connector. **Note:** This is a
 
 - <div>
 
-  ` `<span id="/s:7heresdk23EVChargingConnectorTypeV16iec603092Three64SSvpZ"></span>` `<span id="//apple_ref/swift/Variable/iec603092Three64" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evchargingconnectortype#/s:7heresdk23EVChargingConnectorTypeV16iec603092Three64SSvpZ" class="token"><code>iec603092Three64</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk23EVChargingConnectorTypeV16iec603092Three64SSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-iec603092Three64" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingconnectortype#sdk-for-ios-navigate-s-7heresdk23EVChargingConnectorTypeV16iec603092Three64SSvpZ" class="token"><code>iec603092Three64</code></a> 
 
   </div>
 
@@ -1039,7 +1039,7 @@ Represents the standardized type of the installed connector. **Note:** This is a
 
 - <div>
 
-  ` `<span id="/s:7heresdk23EVChargingConnectorTypeV10iec62196T1SSvpZ"></span>` `<span id="//apple_ref/swift/Variable/iec62196T1" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evchargingconnectortype#/s:7heresdk23EVChargingConnectorTypeV10iec62196T1SSvpZ" class="token"><code>iec62196T1</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk23EVChargingConnectorTypeV10iec62196T1SSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-iec62196T1" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingconnectortype#sdk-for-ios-navigate-s-7heresdk23EVChargingConnectorTypeV10iec62196T1SSvpZ" class="token"><code>iec62196T1</code></a> 
 
   </div>
 
@@ -1083,7 +1083,7 @@ Represents the standardized type of the installed connector. **Note:** This is a
 
 - <div>
 
-  ` `<span id="/s:7heresdk23EVChargingConnectorTypeV15iec62196T1ComboSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/iec62196T1Combo" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evchargingconnectortype#/s:7heresdk23EVChargingConnectorTypeV15iec62196T1ComboSSvpZ" class="token"><code>iec62196T1Combo</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk23EVChargingConnectorTypeV15iec62196T1ComboSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-iec62196T1Combo" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingconnectortype#sdk-for-ios-navigate-s-7heresdk23EVChargingConnectorTypeV15iec62196T1ComboSSvpZ" class="token"><code>iec62196T1Combo</code></a> 
 
   </div>
 
@@ -1127,7 +1127,7 @@ Represents the standardized type of the installed connector. **Note:** This is a
 
 - <div>
 
-  ` `<span id="/s:7heresdk23EVChargingConnectorTypeV10iec62196T2SSvpZ"></span>` `<span id="//apple_ref/swift/Variable/iec62196T2" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evchargingconnectortype#/s:7heresdk23EVChargingConnectorTypeV10iec62196T2SSvpZ" class="token"><code>iec62196T2</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk23EVChargingConnectorTypeV10iec62196T2SSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-iec62196T2" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingconnectortype#sdk-for-ios-navigate-s-7heresdk23EVChargingConnectorTypeV10iec62196T2SSvpZ" class="token"><code>iec62196T2</code></a> 
 
   </div>
 
@@ -1171,7 +1171,7 @@ Represents the standardized type of the installed connector. **Note:** This is a
 
 - <div>
 
-  ` `<span id="/s:7heresdk23EVChargingConnectorTypeV15iec62196T2ComboSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/iec62196T2Combo" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evchargingconnectortype#/s:7heresdk23EVChargingConnectorTypeV15iec62196T2ComboSSvpZ" class="token"><code>iec62196T2Combo</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk23EVChargingConnectorTypeV15iec62196T2ComboSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-iec62196T2Combo" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingconnectortype#sdk-for-ios-navigate-s-7heresdk23EVChargingConnectorTypeV15iec62196T2ComboSSvpZ" class="token"><code>iec62196T2Combo</code></a> 
 
   </div>
 
@@ -1215,7 +1215,7 @@ Represents the standardized type of the installed connector. **Note:** This is a
 
 - <div>
 
-  ` `<span id="/s:7heresdk23EVChargingConnectorTypeV11iec62196T3aSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/iec62196T3a" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evchargingconnectortype#/s:7heresdk23EVChargingConnectorTypeV11iec62196T3aSSvpZ" class="token"><code>iec62196T3a</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk23EVChargingConnectorTypeV11iec62196T3aSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-iec62196T3a" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingconnectortype#sdk-for-ios-navigate-s-7heresdk23EVChargingConnectorTypeV11iec62196T3aSSvpZ" class="token"><code>iec62196T3a</code></a> 
 
   </div>
 
@@ -1259,7 +1259,7 @@ Represents the standardized type of the installed connector. **Note:** This is a
 
 - <div>
 
-  ` `<span id="/s:7heresdk23EVChargingConnectorTypeV11iec62196T3cSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/iec62196T3c" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evchargingconnectortype#/s:7heresdk23EVChargingConnectorTypeV11iec62196T3cSSvpZ" class="token"><code>iec62196T3c</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk23EVChargingConnectorTypeV11iec62196T3cSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-iec62196T3c" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingconnectortype#sdk-for-ios-navigate-s-7heresdk23EVChargingConnectorTypeV11iec62196T3cSSvpZ" class="token"><code>iec62196T3c</code></a> 
 
   </div>
 
@@ -1303,7 +1303,7 @@ Represents the standardized type of the installed connector. **Note:** This is a
 
 - <div>
 
-  ` `<span id="/s:7heresdk23EVChargingConnectorTypeV7nema520SSvpZ"></span>` `<span id="//apple_ref/swift/Variable/nema520" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evchargingconnectortype#/s:7heresdk23EVChargingConnectorTypeV7nema520SSvpZ" class="token"><code>nema520</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk23EVChargingConnectorTypeV7nema520SSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-nema520" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingconnectortype#sdk-for-ios-navigate-s-7heresdk23EVChargingConnectorTypeV7nema520SSvpZ" class="token"><code>nema520</code></a> 
 
   </div>
 
@@ -1347,7 +1347,7 @@ Represents the standardized type of the installed connector. **Note:** This is a
 
 - <div>
 
-  ` `<span id="/s:7heresdk23EVChargingConnectorTypeV7nema630SSvpZ"></span>` `<span id="//apple_ref/swift/Variable/nema630" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evchargingconnectortype#/s:7heresdk23EVChargingConnectorTypeV7nema630SSvpZ" class="token"><code>nema630</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk23EVChargingConnectorTypeV7nema630SSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-nema630" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingconnectortype#sdk-for-ios-navigate-s-7heresdk23EVChargingConnectorTypeV7nema630SSvpZ" class="token"><code>nema630</code></a> 
 
   </div>
 
@@ -1391,7 +1391,7 @@ Represents the standardized type of the installed connector. **Note:** This is a
 
 - <div>
 
-  ` `<span id="/s:7heresdk23EVChargingConnectorTypeV7nema650SSvpZ"></span>` `<span id="//apple_ref/swift/Variable/nema650" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evchargingconnectortype#/s:7heresdk23EVChargingConnectorTypeV7nema650SSvpZ" class="token"><code>nema650</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk23EVChargingConnectorTypeV7nema650SSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-nema650" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingconnectortype#sdk-for-ios-navigate-s-7heresdk23EVChargingConnectorTypeV7nema650SSvpZ" class="token"><code>nema650</code></a> 
 
   </div>
 
@@ -1435,7 +1435,7 @@ Represents the standardized type of the installed connector. **Note:** This is a
 
 - <div>
 
-  ` `<span id="/s:7heresdk23EVChargingConnectorTypeV8nema1030SSvpZ"></span>` `<span id="//apple_ref/swift/Variable/nema1030" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evchargingconnectortype#/s:7heresdk23EVChargingConnectorTypeV8nema1030SSvpZ" class="token"><code>nema1030</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk23EVChargingConnectorTypeV8nema1030SSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-nema1030" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingconnectortype#sdk-for-ios-navigate-s-7heresdk23EVChargingConnectorTypeV8nema1030SSvpZ" class="token"><code>nema1030</code></a> 
 
   </div>
 
@@ -1479,7 +1479,7 @@ Represents the standardized type of the installed connector. **Note:** This is a
 
 - <div>
 
-  ` `<span id="/s:7heresdk23EVChargingConnectorTypeV8nema1050SSvpZ"></span>` `<span id="//apple_ref/swift/Variable/nema1050" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evchargingconnectortype#/s:7heresdk23EVChargingConnectorTypeV8nema1050SSvpZ" class="token"><code>nema1050</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk23EVChargingConnectorTypeV8nema1050SSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-nema1050" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingconnectortype#sdk-for-ios-navigate-s-7heresdk23EVChargingConnectorTypeV8nema1050SSvpZ" class="token"><code>nema1050</code></a> 
 
   </div>
 
@@ -1523,7 +1523,7 @@ Represents the standardized type of the installed connector. **Note:** This is a
 
 - <div>
 
-  ` `<span id="/s:7heresdk23EVChargingConnectorTypeV8nema1430SSvpZ"></span>` `<span id="//apple_ref/swift/Variable/nema1430" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evchargingconnectortype#/s:7heresdk23EVChargingConnectorTypeV8nema1430SSvpZ" class="token"><code>nema1430</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk23EVChargingConnectorTypeV8nema1430SSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-nema1430" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingconnectortype#sdk-for-ios-navigate-s-7heresdk23EVChargingConnectorTypeV8nema1430SSvpZ" class="token"><code>nema1430</code></a> 
 
   </div>
 
@@ -1567,7 +1567,7 @@ Represents the standardized type of the installed connector. **Note:** This is a
 
 - <div>
 
-  ` `<span id="/s:7heresdk23EVChargingConnectorTypeV8nema1450SSvpZ"></span>` `<span id="//apple_ref/swift/Variable/nema1450" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evchargingconnectortype#/s:7heresdk23EVChargingConnectorTypeV8nema1450SSvpZ" class="token"><code>nema1450</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk23EVChargingConnectorTypeV8nema1450SSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-nema1450" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingconnectortype#sdk-for-ios-navigate-s-7heresdk23EVChargingConnectorTypeV8nema1450SSvpZ" class="token"><code>nema1450</code></a> 
 
   </div>
 
@@ -1611,7 +1611,7 @@ Represents the standardized type of the installed connector. **Note:** This is a
 
 - <div>
 
-  ` `<span id="/s:7heresdk23EVChargingConnectorTypeV18pantographBottomUpSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/pantographBottomUp" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evchargingconnectortype#/s:7heresdk23EVChargingConnectorTypeV18pantographBottomUpSSvpZ" class="token"><code>pantographBottomUp</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk23EVChargingConnectorTypeV18pantographBottomUpSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-pantographBottomUp" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingconnectortype#sdk-for-ios-navigate-s-7heresdk23EVChargingConnectorTypeV18pantographBottomUpSSvpZ" class="token"><code>pantographBottomUp</code></a> 
 
   </div>
 
@@ -1655,7 +1655,7 @@ Represents the standardized type of the installed connector. **Note:** This is a
 
 - <div>
 
-  ` `<span id="/s:7heresdk23EVChargingConnectorTypeV17pantographTopDownSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/pantographTopDown" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evchargingconnectortype#/s:7heresdk23EVChargingConnectorTypeV17pantographTopDownSSvpZ" class="token"><code>pantographTopDown</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk23EVChargingConnectorTypeV17pantographTopDownSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-pantographTopDown" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingconnectortype#sdk-for-ios-navigate-s-7heresdk23EVChargingConnectorTypeV17pantographTopDownSSvpZ" class="token"><code>pantographTopDown</code></a> 
 
   </div>
 
@@ -1699,7 +1699,7 @@ Represents the standardized type of the installed connector. **Note:** This is a
 
 - <div>
 
-  ` `<span id="/s:7heresdk23EVChargingConnectorTypeV6teslaRSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/teslaR" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evchargingconnectortype#/s:7heresdk23EVChargingConnectorTypeV6teslaRSSvpZ" class="token"><code>teslaR</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk23EVChargingConnectorTypeV6teslaRSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-teslaR" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingconnectortype#sdk-for-ios-navigate-s-7heresdk23EVChargingConnectorTypeV6teslaRSSvpZ" class="token"><code>teslaR</code></a> 
 
   </div>
 
@@ -1743,7 +1743,7 @@ Represents the standardized type of the installed connector. **Note:** This is a
 
 - <div>
 
-  ` `<span id="/s:7heresdk23EVChargingConnectorTypeV8saeJ3400SSvpZ"></span>` `<span id="//apple_ref/swift/Variable/saeJ3400" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evchargingconnectortype#/s:7heresdk23EVChargingConnectorTypeV8saeJ3400SSvpZ" class="token"><code>saeJ3400</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk23EVChargingConnectorTypeV8saeJ3400SSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-saeJ3400" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingconnectortype#sdk-for-ios-navigate-s-7heresdk23EVChargingConnectorTypeV8saeJ3400SSvpZ" class="token"><code>saeJ3400</code></a> 
 
   </div>
 
@@ -1787,7 +1787,7 @@ Represents the standardized type of the installed connector. **Note:** This is a
 
 - <div>
 
-  ` `<span id="/s:7heresdk23EVChargingConnectorTypeV3mcsSSvpZ"></span>` `<span id="//apple_ref/swift/Variable/mcs" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evchargingconnectortype#/s:7heresdk23EVChargingConnectorTypeV3mcsSSvpZ" class="token"><code>mcs</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk23EVChargingConnectorTypeV3mcsSSvpZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Variable-mcs" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingconnectortype#sdk-for-ios-navigate-s-7heresdk23EVChargingConnectorTypeV3mcsSSvpZ" class="token"><code>mcs</code></a> 
 
   </div>
 

@@ -27,7 +27,7 @@ Contains information about provider of the item and a direct link to the item.
 
 - <div>
 
-  ` `<span id="/s:7heresdk9WebSourceV4hrefSSvp"></span>` `<span id="//apple_ref/swift/Property/href" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-websource#/s:7heresdk9WebSourceV4hrefSSvp" class="token"><code>href</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9WebSourceV4hrefSSvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-href" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-websource#sdk-for-ios-navigate-s-7heresdk9WebSourceV4hrefSSvp" class="token"><code>href</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Contains information about provider of the item and a direct link to the item.
 
 - <div>
 
-  ` `<span id="/s:7heresdk9WebSourceV10supplierIdSSvp"></span>` `<span id="//apple_ref/swift/Property/supplierId" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-websource#/s:7heresdk9WebSourceV10supplierIdSSvp" class="token"><code>supplierId</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9WebSourceV10supplierIdSSvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-supplierId" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-websource#sdk-for-ios-navigate-s-7heresdk9WebSourceV10supplierIdSSvp" class="token"><code>supplierId</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Contains information about provider of the item and a direct link to the item.
 
 - <div>
 
-      init(href: supplierId: )
+   <span id="sdk-for-ios-navigate-s-7heresdk9WebSourceV4href10supplierIdACSS_SStcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-href-supplierId" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-websource#sdk-for-ios-navigate-s-7heresdk9WebSourceV4href10supplierIdACSS_SStcfc" class="token"><code>init(href:</code><wbr></wbr><code>supplierId:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -146,10 +146,8 @@ Contains information about provider of the item and a direct link to the item.
   Swift
 
   ``` highlight
-  public init ( href : String , supplierId : String )
+  public init(href: String, supplierId: String)
   ```
-
-  </pre>
 
   </div>
 
@@ -161,7 +159,7 @@ Contains information about provider of the item and a direct link to the item.
 
 - <div>
 
-      init()
+   <span id="sdk-for-ios-navigate-s-7heresdk9WebSourceVACycfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-websource#sdk-for-ios-navigate-s-7heresdk9WebSourceVACycfc" class="token"><code>init()</code></a> 
 
   </div>
 
@@ -192,10 +190,8 @@ Contains information about provider of the item and a direct link to the item.
   Swift
 
   ``` highlight
-  public init ()
+  public init()
   ```
-
-  </pre>
 
   </div>
 

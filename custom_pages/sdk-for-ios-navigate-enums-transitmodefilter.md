@@ -27,7 +27,7 @@ Filtering mode for public transit.
 
 - <div>
 
-  ` `<span id="/s:7heresdk17TransitModeFilterO7includeyA2CmF"></span>` `<span id="//apple_ref/swift/Element/include" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-transitmodefilter#/s:7heresdk17TransitModeFilterO7includeyA2CmF" class="token"><code>include</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk17TransitModeFilterO7includeyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-include" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-transitmodefilter#sdk-for-ios-navigate-s-7heresdk17TransitModeFilterO7includeyA2CmF" class="token"><code>include</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Filtering mode for public transit.
 
 - <div>
 
-  ` `<span id="/s:7heresdk17TransitModeFilterO7excludeyA2CmF"></span>` `<span id="//apple_ref/swift/Element/exclude" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-transitmodefilter#/s:7heresdk17TransitModeFilterO7excludeyA2CmF" class="token"><code>exclude</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk17TransitModeFilterO7excludeyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-exclude" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-transitmodefilter#sdk-for-ios-navigate-s-7heresdk17TransitModeFilterO7excludeyA2CmF" class="token"><code>exclude</code></a> 
 
   </div>
 

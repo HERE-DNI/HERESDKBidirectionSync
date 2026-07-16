@@ -27,7 +27,7 @@ Protocol that should be implemented by any class whose instances are intended to
 
 - <div>
 
-      run()
+   <span id="sdk-for-ios-navigate-s-7heresdk8RunnableP3runyyF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-run" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-protocols-runnable#sdk-for-ios-navigate-s-7heresdk8RunnableP3runyyF" class="token"><code>run()</code></a> 
 
   </div>
 
@@ -58,10 +58,8 @@ Protocol that should be implemented by any class whose instances are intended to
   Swift
 
   ``` highlight
-  func run ()
+  func run()
   ```
-
-  </pre>
 
   </div>
 

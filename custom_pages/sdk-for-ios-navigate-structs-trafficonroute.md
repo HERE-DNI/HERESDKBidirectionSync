@@ -27,7 +27,7 @@ Traffic information on a route. Information for the already traveled portion of 
 
 - <div>
 
-  ` `<span id="/s:7heresdk14TrafficOnRouteV24lastTraveledSectionIndexs5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/lastTraveledSectionIndex" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-trafficonroute#/s:7heresdk14TrafficOnRouteV24lastTraveledSectionIndexs5Int32Vvp" class="token"><code>lastTraveledSectionIndex</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14TrafficOnRouteV24lastTraveledSectionIndexs5Int32Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-lastTraveledSectionIndex" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-trafficonroute#sdk-for-ios-navigate-s-7heresdk14TrafficOnRouteV24lastTraveledSectionIndexs5Int32Vvp" class="token"><code>lastTraveledSectionIndex</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Traffic information on a route. Information for the already traveled portion of 
 
 - <div>
 
-  ` `<span id="/s:7heresdk14TrafficOnRouteV016traveledDistanceC19LastSectionInMeterss5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/traveledDistanceOnLastSectionInMeters" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-trafficonroute#/s:7heresdk14TrafficOnRouteV016traveledDistanceC19LastSectionInMeterss5Int32Vvp" class="token"><code>traveledDistanceOnLastSectionInMeters</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14TrafficOnRouteV016traveledDistanceC19LastSectionInMeterss5Int32Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-traveledDistanceOnLastSectionInMeters" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-trafficonroute#sdk-for-ios-navigate-s-7heresdk14TrafficOnRouteV016traveledDistanceC19LastSectionInMeterss5Int32Vvp" class="token"><code>traveledDistanceOnLastSectionInMeters</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Traffic information on a route. Information for the already traveled portion of 
 
 - <div>
 
-  ` `<span id="/s:7heresdk14TrafficOnRouteV15trafficSectionsSayAA0bC7SectionVGvp"></span>` `<span id="//apple_ref/swift/Property/trafficSections" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-trafficonroute#/s:7heresdk14TrafficOnRouteV15trafficSectionsSayAA0bC7SectionVGvp" class="token"><code>trafficSections</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14TrafficOnRouteV15trafficSectionsSayAA0bC7SectionVGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-trafficSections" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-trafficonroute#sdk-for-ios-navigate-s-7heresdk14TrafficOnRouteV15trafficSectionsSayAA0bC7SectionVGvp" class="token"><code>trafficSections</code></a> 
 
   </div>
 
@@ -151,6 +151,10 @@ Traffic information on a route. Information for the already traveled portion of 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-trafficonsection">TrafficOnSection</a>
+
   </div>
 
   </div>
@@ -159,7 +163,7 @@ Traffic information on a route. Information for the already traveled portion of 
 
 - <div>
 
-      init(lastTraveledSectionIndex: traveledDistanceOnLastSectionInMeters: trafficSections: )
+   <span id="sdk-for-ios-navigate-s-7heresdk14TrafficOnRouteV24lastTraveledSectionIndex016traveledDistancec4LastG8InMeters15trafficSectionsACs5Int32V_AHSayAA0bcG0VGtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-lastTraveledSectionIndex-traveledDistanceOnLastSectionInMeters-trafficSections" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-trafficonroute#sdk-for-ios-navigate-s-7heresdk14TrafficOnRouteV24lastTraveledSectionIndex016traveledDistancec4LastG8InMeters15trafficSectionsACs5Int32V_AHSayAA0bcG0VGtcfc" class="token"><code>init(lastTraveledSectionIndex:</code><wbr></wbr><code>traveledDistanceOnLastSectionInMeters:</code><wbr></wbr><code>trafficSections:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -190,12 +194,14 @@ Traffic information on a route. Information for the already traveled portion of 
   Swift
 
   ``` highlight
-  public init ( lastTraveledSectionIndex : Int32 = 0 , traveledDistanceOnLastSectionInMeters : Int32 = 0 , trafficSections : [ TrafficOnSection ] = [])
+  public init(lastTraveledSectionIndex: Int32 = 0, traveledDistanceOnLastSectionInMeters: Int32 = 0, trafficSections: [TrafficOnSection] = [])
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-trafficonsection">TrafficOnSection</a>
 
   </div>
 

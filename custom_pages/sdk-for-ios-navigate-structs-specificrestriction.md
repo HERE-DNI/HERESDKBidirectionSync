@@ -29,7 +29,7 @@ Represents a specific vehicle restriction. A `SpecificRestriction` defines what 
 
 - <div>
 
-  ` `<span id="/s:7heresdk19SpecificRestrictionV4typeAA0C4TypeOvp"></span>` `<span id="//apple_ref/swift/Property/type" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-specificrestriction#/s:7heresdk19SpecificRestrictionV4typeAA0C4TypeOvp" class="token"><code>type</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19SpecificRestrictionV4typeAA0C4TypeOvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-type" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-specificrestriction#sdk-for-ios-navigate-s-7heresdk19SpecificRestrictionV4typeAA0C4TypeOvp" class="token"><code>type</code></a> 
 
   </div>
 
@@ -65,6 +65,10 @@ Represents a specific vehicle restriction. A `SpecificRestriction` defines what 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-restrictiontype">RestrictionType</a>
+
   </div>
 
   </div>
@@ -73,7 +77,7 @@ Represents a specific vehicle restriction. A `SpecificRestriction` defines what 
 
 - <div>
 
-  ` `<span id="/s:7heresdk19SpecificRestrictionV5valueAA12IntegerRangeVvp"></span>` `<span id="//apple_ref/swift/Property/value" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-specificrestriction#/s:7heresdk19SpecificRestrictionV5valueAA12IntegerRangeVvp" class="token"><code>value</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19SpecificRestrictionV5valueAA12IntegerRangeVvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-value" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-specificrestriction#sdk-for-ios-navigate-s-7heresdk19SpecificRestrictionV5valueAA12IntegerRangeVvp" class="token"><code>value</code></a> 
 
   </div>
 
@@ -125,6 +129,10 @@ Represents a specific vehicle restriction. A `SpecificRestriction` defines what 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-integerrange">IntegerRange</a>
+
   </div>
 
   </div>
@@ -133,7 +141,7 @@ Represents a specific vehicle restriction. A `SpecificRestriction` defines what 
 
 - <div>
 
-      init(type: value: )
+   <span id="sdk-for-ios-navigate-s-7heresdk19SpecificRestrictionV4type5valueAcA0C4TypeO_AA12IntegerRangeVtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-type-value" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-specificrestriction#sdk-for-ios-navigate-s-7heresdk19SpecificRestrictionV4type5valueAcA0C4TypeO_AA12IntegerRangeVtcfc" class="token"><code>init(type:</code><wbr></wbr><code>value:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -164,12 +172,15 @@ Represents a specific vehicle restriction. A `SpecificRestriction` defines what 
   Swift
 
   ``` highlight
-  public init ( type : RestrictionType , value : IntegerRange )
+  public init(type: RestrictionType, value: IntegerRange)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-restrictiontype">RestrictionType</a>
+  - <a href="sdk-for-ios-navigate-structs-integerrange">IntegerRange</a>
 
   </div>
 

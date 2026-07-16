@@ -25,7 +25,7 @@ extension Maneuver: Hashable
 
 </div>
 
-This class provides all the information for a maneuver. The directional information (e.g. road names, road numbers and signpost direction) is stored in <a href="sdk-for-ios-navigate-classes-maneuver#/s:7heresdk8ManeuverC9roadTextsAA04RoadD0Vvp">`Maneuver.roadTexts`</a> and <a href="sdk-for-ios-navigate-classes-maneuver#/s:7heresdk8ManeuverC13nextRoadTextsAA0dE0Vvp">`Maneuver.nextRoadTexts`</a> attributes. As for the motorway exit information, it can be obtained from <a href="sdk-for-ios-navigate-classes-maneuver#/s:7heresdk8ManeuverC13exitSignTextsAA09LocalizedE0Vvp">`Maneuver.exitSignTexts`</a> attribute.
+This class provides all the information for a maneuver. The directional information (e.g. road names, road numbers and signpost direction) is stored in <a href="sdk-for-ios-navigate-classes-maneuver#sdk-for-ios-navigate-s-7heresdk8ManeuverC9roadTextsAA04RoadD0Vvp">`Maneuver.roadTexts`</a> and <a href="sdk-for-ios-navigate-classes-maneuver#sdk-for-ios-navigate-s-7heresdk8ManeuverC13nextRoadTextsAA0dE0Vvp">`Maneuver.nextRoadTexts`</a> attributes. As for the motorway exit information, it can be obtained from <a href="sdk-for-ios-navigate-classes-maneuver#sdk-for-ios-navigate-s-7heresdk8ManeuverC13exitSignTextsAA09LocalizedE0Vvp">`Maneuver.exitSignTexts`</a> attribute.
 
 </div>
 
@@ -35,7 +35,7 @@ This class provides all the information for a maneuver. The directional informat
 
 - <div>
 
-  ` `<span id="/s:7heresdk8ManeuverC6actionAA0B6ActionOvp"></span>` `<span id="//apple_ref/swift/Property/action" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-maneuver#/s:7heresdk8ManeuverC6actionAA0B6ActionOvp" class="token"><code>action</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8ManeuverC6actionAA0B6ActionOvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-action" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-maneuver#sdk-for-ios-navigate-s-7heresdk8ManeuverC6actionAA0B6ActionOvp" class="token"><code>action</code></a> 
 
   </div>
 
@@ -71,6 +71,10 @@ This class provides all the information for a maneuver. The directional informat
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-maneuveraction">ManeuverAction</a>
+
   </div>
 
   </div>
@@ -79,7 +83,7 @@ This class provides all the information for a maneuver. The directional informat
 
 - <div>
 
-  ` `<span id="/s:7heresdk8ManeuverC11coordinatesAA14GeoCoordinatesVvp"></span>` `<span id="//apple_ref/swift/Property/coordinates" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-maneuver#/s:7heresdk8ManeuverC11coordinatesAA14GeoCoordinatesVvp" class="token"><code>coordinates</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8ManeuverC11coordinatesAA14GeoCoordinatesVvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-coordinates" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-maneuver#sdk-for-ios-navigate-s-7heresdk8ManeuverC11coordinatesAA14GeoCoordinatesVvp" class="token"><code>coordinates</code></a> 
 
   </div>
 
@@ -115,6 +119,10 @@ This class provides all the information for a maneuver. The directional informat
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-geocoordinates">GeoCoordinates</a>
+
   </div>
 
   </div>
@@ -123,7 +131,7 @@ This class provides all the information for a maneuver. The directional informat
 
 - <div>
 
-  ` `<span id="/s:7heresdk8ManeuverC6offsets5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/offset" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-maneuver#/s:7heresdk8ManeuverC6offsets5Int32Vvp" class="token"><code>offset</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8ManeuverC6offsets5Int32Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-offset" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-maneuver#sdk-for-ios-navigate-s-7heresdk8ManeuverC6offsets5Int32Vvp" class="token"><code>offset</code></a> 
 
   </div>
 
@@ -141,7 +149,7 @@ This class provides all the information for a maneuver. The directional informat
 
   <div class="abstract">
 
-  Index over <a href="sdk-for-ios-navigate-classes-section#/s:7heresdk7SectionC8geometryAA11GeoPolylineVvp">`Section.geometry`</a> where the maneuver is located.
+  Index over <a href="sdk-for-ios-navigate-classes-section#sdk-for-ios-navigate-s-7heresdk7SectionC8geometryAA11GeoPolylineVvp">`Section.geometry`</a> where the maneuver is located.
 
   </div>
 
@@ -167,7 +175,7 @@ This class provides all the information for a maneuver. The directional informat
 
 - <div>
 
-  ` `<span id="/s:7heresdk8ManeuverC11countryCodeSSSgvp"></span>` `<span id="//apple_ref/swift/Property/countryCode" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-maneuver#/s:7heresdk8ManeuverC11countryCodeSSSgvp" class="token"><code>countryCode</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8ManeuverC11countryCodeSSSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-countryCode" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-maneuver#sdk-for-ios-navigate-s-7heresdk8ManeuverC11countryCodeSSSgvp" class="token"><code>countryCode</code></a> 
 
   </div>
 
@@ -211,7 +219,7 @@ This class provides all the information for a maneuver. The directional informat
 
 - <div>
 
-  ` `<span id="/s:7heresdk8ManeuverC13exitSignTextsAA09LocalizedE0Vvp"></span>` `<span id="//apple_ref/swift/Property/exitSignTexts" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-maneuver#/s:7heresdk8ManeuverC13exitSignTextsAA09LocalizedE0Vvp" class="token"><code>exitSignTexts</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8ManeuverC13exitSignTextsAA09LocalizedE0Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-exitSignTexts" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-maneuver#sdk-for-ios-navigate-s-7heresdk8ManeuverC13exitSignTextsAA09LocalizedE0Vvp" class="token"><code>exitSignTexts</code></a> 
 
   </div>
 
@@ -247,6 +255,10 @@ This class provides all the information for a maneuver. The directional informat
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-localizedtexts">LocalizedTexts</a>
+
   </div>
 
   </div>
@@ -255,7 +267,7 @@ This class provides all the information for a maneuver. The directional informat
 
 - <div>
 
-  ` `<span id="/s:7heresdk8ManeuverC14lengthInMeterss5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/lengthInMeters" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-maneuver#/s:7heresdk8ManeuverC14lengthInMeterss5Int32Vvp" class="token"><code>lengthInMeters</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8ManeuverC14lengthInMeterss5Int32Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-lengthInMeters" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-maneuver#sdk-for-ios-navigate-s-7heresdk8ManeuverC14lengthInMeterss5Int32Vvp" class="token"><code>lengthInMeters</code></a> 
 
   </div>
 
@@ -299,7 +311,7 @@ This class provides all the information for a maneuver. The directional informat
 
 - <div>
 
-  ` `<span id="/s:7heresdk8ManeuverC9roadTextsAA04RoadD0Vvp"></span>` `<span id="//apple_ref/swift/Property/roadTexts" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-maneuver#/s:7heresdk8ManeuverC9roadTextsAA04RoadD0Vvp" class="token"><code>roadTexts</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8ManeuverC9roadTextsAA04RoadD0Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-roadTexts" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-maneuver#sdk-for-ios-navigate-s-7heresdk8ManeuverC9roadTextsAA04RoadD0Vvp" class="token"><code>roadTexts</code></a> 
 
   </div>
 
@@ -335,6 +347,10 @@ This class provides all the information for a maneuver. The directional informat
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-roadtexts">RoadTexts</a>
+
   </div>
 
   </div>
@@ -343,7 +359,7 @@ This class provides all the information for a maneuver. The directional informat
 
 - <div>
 
-  ` `<span id="/s:7heresdk8ManeuverC13nextRoadTextsAA0dE0Vvp"></span>` `<span id="//apple_ref/swift/Property/nextRoadTexts" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-maneuver#/s:7heresdk8ManeuverC13nextRoadTextsAA0dE0Vvp" class="token"><code>nextRoadTexts</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8ManeuverC13nextRoadTextsAA0dE0Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-nextRoadTexts" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-maneuver#sdk-for-ios-navigate-s-7heresdk8ManeuverC13nextRoadTextsAA0dE0Vvp" class="token"><code>nextRoadTexts</code></a> 
 
   </div>
 
@@ -379,6 +395,10 @@ This class provides all the information for a maneuver. The directional informat
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-roadtexts">RoadTexts</a>
+
   </div>
 
   </div>
@@ -387,7 +407,7 @@ This class provides all the information for a maneuver. The directional informat
 
 - <div>
 
-  ` `<span id="/s:7heresdk8ManeuverC8signpostAA8SignpostVSgvp"></span>` `<span id="//apple_ref/swift/Property/signpost" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-maneuver#/s:7heresdk8ManeuverC8signpostAA8SignpostVSgvp" class="token"><code>signpost</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8ManeuverC8signpostAA8SignpostVSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-signpost" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-maneuver#sdk-for-ios-navigate-s-7heresdk8ManeuverC8signpostAA8SignpostVSgvp" class="token"><code>signpost</code></a> 
 
   </div>
 
@@ -423,6 +443,10 @@ This class provides all the information for a maneuver. The directional informat
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-signpost">Signpost</a>
+
   </div>
 
   </div>
@@ -431,7 +455,7 @@ This class provides all the information for a maneuver. The directional informat
 
 - <div>
 
-  ` `<span id="/s:7heresdk8ManeuverC17intersectionNamesAA14LocalizedTextsVvp"></span>` `<span id="//apple_ref/swift/Property/intersectionNames" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-maneuver#/s:7heresdk8ManeuverC17intersectionNamesAA14LocalizedTextsVvp" class="token"><code>intersectionNames</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8ManeuverC17intersectionNamesAA14LocalizedTextsVvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-intersectionNames" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-maneuver#sdk-for-ios-navigate-s-7heresdk8ManeuverC17intersectionNamesAA14LocalizedTextsVvp" class="token"><code>intersectionNames</code></a> 
 
   </div>
 
@@ -467,6 +491,10 @@ This class provides all the information for a maneuver. The directional informat
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-localizedtexts">LocalizedTexts</a>
+
   </div>
 
   </div>
@@ -475,7 +503,7 @@ This class provides all the information for a maneuver. The directional informat
 
 - <div>
 
-  ` `<span id="/s:7heresdk8ManeuverC4textSSvp"></span>` `<span id="//apple_ref/swift/Property/text" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-maneuver#/s:7heresdk8ManeuverC4textSSvp" class="token"><code>text</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8ManeuverC4textSSvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-text" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-maneuver#sdk-for-ios-navigate-s-7heresdk8ManeuverC4textSSvp" class="token"><code>text</code></a> 
 
   </div>
 
@@ -519,7 +547,7 @@ This class provides all the information for a maneuver. The directional informat
 
 - <div>
 
-  ` `<span id="/s:7heresdk8ManeuverC12sectionIndexs5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/sectionIndex" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-maneuver#/s:7heresdk8ManeuverC12sectionIndexs5Int32Vvp" class="token"><code>sectionIndex</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8ManeuverC12sectionIndexs5Int32Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-sectionIndex" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-maneuver#sdk-for-ios-navigate-s-7heresdk8ManeuverC12sectionIndexs5Int32Vvp" class="token"><code>sectionIndex</code></a> 
 
   </div>
 
@@ -537,7 +565,7 @@ This class provides all the information for a maneuver. The directional informat
 
   <div class="abstract">
 
-  Index over <a href="sdk-for-ios-navigate-classes-route#/s:7heresdk5RouteC8sectionsSayAA7SectionCGvp">`Route.sections`</a> indicating the section to which the maneuver belongs to.
+  Index over <a href="sdk-for-ios-navigate-classes-route#sdk-for-ios-navigate-s-7heresdk5RouteC8sectionsSayAA7SectionCGvp">`Route.sections`</a> indicating the section to which the maneuver belongs to.
 
   </div>
 
@@ -563,7 +591,7 @@ This class provides all the information for a maneuver. The directional informat
 
 - <div>
 
-  ` `<span id="/s:7heresdk8ManeuverC9spanIndexs5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/spanIndex" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-maneuver#/s:7heresdk8ManeuverC9spanIndexs5Int32Vvp" class="token"><code>spanIndex</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8ManeuverC9spanIndexs5Int32Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-spanIndex" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-maneuver#sdk-for-ios-navigate-s-7heresdk8ManeuverC9spanIndexs5Int32Vvp" class="token"><code>spanIndex</code></a> 
 
   </div>
 
@@ -581,7 +609,7 @@ This class provides all the information for a maneuver. The directional informat
 
   <div class="abstract">
 
-  Index over <a href="sdk-for-ios-navigate-classes-section#/s:7heresdk7SectionC5spansSayAA4SpanCGvp">`Section.spans`</a> indicating the first span after the maneuver point. **Note:** The span index for the last maneuvers (those maneuvers with maneuver action set to <a href="sdk-for-ios-navigate-enums-maneuveraction#/s:7heresdk14ManeuverActionO6arriveyA2CmF">`ManeuverAction.arrive`</a>) cannot be used, since these maneuvers are placed after the last span of the route and the span index for them would be greater than the span list size.
+  Index over <a href="sdk-for-ios-navigate-classes-section#sdk-for-ios-navigate-s-7heresdk7SectionC5spansSayAA4SpanCGvp">`Section.spans`</a> indicating the first span after the maneuver point. **Note:** The span index for the last maneuvers (those maneuvers with maneuver action set to <a href="sdk-for-ios-navigate-enums-maneuveraction#sdk-for-ios-navigate-s-7heresdk14ManeuverActionO6arriveyA2CmF">`ManeuverAction.arrive`</a>) cannot be used, since these maneuvers are placed after the last span of the route and the span index for them would be greater than the span list size.
 
   </div>
 
@@ -607,7 +635,7 @@ This class provides all the information for a maneuver. The directional informat
 
 - <div>
 
-  ` `<span id="/s:7heresdk8ManeuverC8durationSdvp"></span>` `<span id="//apple_ref/swift/Property/duration" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-maneuver#/s:7heresdk8ManeuverC8durationSdvp" class="token"><code>duration</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8ManeuverC8durationSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-duration" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-maneuver#sdk-for-ios-navigate-s-7heresdk8ManeuverC8durationSdvp" class="token"><code>duration</code></a> 
 
   </div>
 
@@ -651,7 +679,7 @@ This class provides all the information for a maneuver. The directional informat
 
 - <div>
 
-  ` `<span id="/s:7heresdk8ManeuverC18turnAngleInDegreesSdSgvp"></span>` `<span id="//apple_ref/swift/Property/turnAngleInDegrees" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-maneuver#/s:7heresdk8ManeuverC18turnAngleInDegreesSdSgvp" class="token"><code>turnAngleInDegrees</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8ManeuverC18turnAngleInDegreesSdSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-turnAngleInDegrees" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-maneuver#sdk-for-ios-navigate-s-7heresdk8ManeuverC18turnAngleInDegreesSdSgvp" class="token"><code>turnAngleInDegrees</code></a> 
 
   </div>
 
@@ -695,7 +723,7 @@ This class provides all the information for a maneuver. The directional informat
 
 - <div>
 
-  ` `<span id="/s:7heresdk8ManeuverC24roundaboutAngleInDegreesSdSgvp"></span>` `<span id="//apple_ref/swift/Property/roundaboutAngleInDegrees" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-maneuver#/s:7heresdk8ManeuverC24roundaboutAngleInDegreesSdSgvp" class="token"><code>roundaboutAngleInDegrees</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8ManeuverC24roundaboutAngleInDegreesSdSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-roundaboutAngleInDegrees" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-maneuver#sdk-for-ios-navigate-s-7heresdk8ManeuverC24roundaboutAngleInDegreesSdSgvp" class="token"><code>roundaboutAngleInDegrees</code></a> 
 
   </div>
 

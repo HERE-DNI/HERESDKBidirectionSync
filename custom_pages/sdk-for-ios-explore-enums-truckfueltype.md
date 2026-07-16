@@ -27,7 +27,7 @@ Define possible fuel types for trucks provided by a fuel station. Note: This is 
 
 - <div>
 
-  ` `<span id="/s:7heresdk13TruckFuelTypeO3cngyA2CmF"></span>` `<span id="//apple_ref/swift/Element/cng" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-truckfueltype#/s:7heresdk13TruckFuelTypeO3cngyA2CmF" class="token"><code>cng</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13TruckFuelTypeO3cngyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-cng" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-truckfueltype#sdk-for-ios-explore-s-7heresdk13TruckFuelTypeO3cngyA2CmF" class="token"><code>cng</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Define possible fuel types for trucks provided by a fuel station. Note: This is 
 
 - <div>
 
-  ` `<span id="/s:7heresdk13TruckFuelTypeO6dieselyA2CmF"></span>` `<span id="//apple_ref/swift/Element/diesel" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-truckfueltype#/s:7heresdk13TruckFuelTypeO6dieselyA2CmF" class="token"><code>diesel</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13TruckFuelTypeO6dieselyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-diesel" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-truckfueltype#sdk-for-ios-explore-s-7heresdk13TruckFuelTypeO6dieselyA2CmF" class="token"><code>diesel</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Define possible fuel types for trucks provided by a fuel station. Note: This is 
 
 - <div>
 
-  ` `<span id="/s:7heresdk13TruckFuelTypeO8hydrogenyA2CmF"></span>` `<span id="//apple_ref/swift/Element/hydrogen" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-truckfueltype#/s:7heresdk13TruckFuelTypeO8hydrogenyA2CmF" class="token"><code>hydrogen</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13TruckFuelTypeO8hydrogenyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-hydrogen" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-truckfueltype#sdk-for-ios-explore-s-7heresdk13TruckFuelTypeO8hydrogenyA2CmF" class="token"><code>hydrogen</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Define possible fuel types for trucks provided by a fuel station. Note: This is 
 
 - <div>
 
-  ` `<span id="/s:7heresdk13TruckFuelTypeO3lngyA2CmF"></span>` `<span id="//apple_ref/swift/Element/lng" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-truckfueltype#/s:7heresdk13TruckFuelTypeO3lngyA2CmF" class="token"><code>lng</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13TruckFuelTypeO3lngyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-lng" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-truckfueltype#sdk-for-ios-explore-s-7heresdk13TruckFuelTypeO3lngyA2CmF" class="token"><code>lng</code></a> 
 
   </div>
 

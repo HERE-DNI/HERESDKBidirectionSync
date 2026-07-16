@@ -27,7 +27,7 @@ The situations in which headlights are required to be turned on.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21HeadlightsRequirementO8alwaysOnyA2CmF"></span>` `<span id="//apple_ref/swift/Element/alwaysOn" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-headlightsrequirement#/s:7heresdk21HeadlightsRequirementO8alwaysOnyA2CmF" class="token"><code>alwaysOn</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk21HeadlightsRequirementO8alwaysOnyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-alwaysOn" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-headlightsrequirement#sdk-for-ios-explore-s-7heresdk21HeadlightsRequirementO8alwaysOnyA2CmF" class="token"><code>alwaysOn</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ The situations in which headlights are required to be turned on.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21HeadlightsRequirementO023halfHourAfterSunsetHalfE13BeforeSunriseyA2CmF"></span>` `<span id="//apple_ref/swift/Element/halfHourAfterSunsetHalfHourBeforeSunrise" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-headlightsrequirement#/s:7heresdk21HeadlightsRequirementO023halfHourAfterSunsetHalfE13BeforeSunriseyA2CmF" class="token"><code>halfHourAfterSunsetHalfHourBeforeSunrise</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk21HeadlightsRequirementO023halfHourAfterSunsetHalfE13BeforeSunriseyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-halfHourAfterSunsetHalfHourBeforeSunrise" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-headlightsrequirement#sdk-for-ios-explore-s-7heresdk21HeadlightsRequirementO023halfHourAfterSunsetHalfE13BeforeSunriseyA2CmF" class="token"><code>halfHourAfterSunsetHalfHourBeforeSunrise</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ The situations in which headlights are required to be turned on.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21HeadlightsRequirementO22whenWindshieldVipersOnyA2CmF"></span>` `<span id="//apple_ref/swift/Element/whenWindshieldVipersOn" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-headlightsrequirement#/s:7heresdk21HeadlightsRequirementO22whenWindshieldVipersOnyA2CmF" class="token"><code>whenWindshieldVipersOn</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk21HeadlightsRequirementO22whenWindshieldVipersOnyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-whenWindshieldVipersOn" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-headlightsrequirement#sdk-for-ios-explore-s-7heresdk21HeadlightsRequirementO22whenWindshieldVipersOnyA2CmF" class="token"><code>whenWindshieldVipersOn</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ The situations in which headlights are required to be turned on.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21HeadlightsRequirementO13lowVisibilityyA2CmF"></span>` `<span id="//apple_ref/swift/Element/lowVisibility" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-headlightsrequirement#/s:7heresdk21HeadlightsRequirementO13lowVisibilityyA2CmF" class="token"><code>lowVisibility</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk21HeadlightsRequirementO13lowVisibilityyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-lowVisibility" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-headlightsrequirement#sdk-for-ios-explore-s-7heresdk21HeadlightsRequirementO13lowVisibilityyA2CmF" class="token"><code>lowVisibility</code></a> 
 
   </div>
 

@@ -17,7 +17,7 @@ public struct PassThroughWaypoint : Hashable
 
 </div>
 
-This structure provides all the information for a passthrough waypoint. The location information and offset of the waypoint are stored in <a href="sdk-for-ios-explore-structs-passthroughwaypoint#/s:7heresdk19PassThroughWaypointV5placeAA10RoutePlaceVvp">`PassThroughWaypoint.place`</a> and <a href="sdk-for-ios-explore-structs-passthroughwaypoint#/s:7heresdk19PassThroughWaypointV6offsets5Int32VSgvp">`PassThroughWaypoint.offset`</a> respectively.
+This structure provides all the information for a passthrough waypoint. The location information and offset of the waypoint are stored in <a href="sdk-for-ios-explore-structs-passthroughwaypoint#sdk-for-ios-explore-s-7heresdk19PassThroughWaypointV5placeAA10RoutePlaceVvp">`PassThroughWaypoint.place`</a> and <a href="sdk-for-ios-explore-structs-passthroughwaypoint#sdk-for-ios-explore-s-7heresdk19PassThroughWaypointV6offsets5Int32VSgvp">`PassThroughWaypoint.offset`</a> respectively.
 
 </div>
 
@@ -27,7 +27,7 @@ This structure provides all the information for a passthrough waypoint. The loca
 
 - <div>
 
-  ` `<span id="/s:7heresdk19PassThroughWaypointV5placeAA10RoutePlaceVvp"></span>` `<span id="//apple_ref/swift/Property/place" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-passthroughwaypoint#/s:7heresdk19PassThroughWaypointV5placeAA10RoutePlaceVvp" class="token"><code>place</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19PassThroughWaypointV5placeAA10RoutePlaceVvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-place" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-passthroughwaypoint#sdk-for-ios-explore-s-7heresdk19PassThroughWaypointV5placeAA10RoutePlaceVvp" class="token"><code>place</code></a> 
 
   </div>
 
@@ -63,6 +63,10 @@ This structure provides all the information for a passthrough waypoint. The loca
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-routeplace">RoutePlace</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ This structure provides all the information for a passthrough waypoint. The loca
 
 - <div>
 
-  ` `<span id="/s:7heresdk19PassThroughWaypointV6offsets5Int32VSgvp"></span>` `<span id="//apple_ref/swift/Property/offset" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-passthroughwaypoint#/s:7heresdk19PassThroughWaypointV6offsets5Int32VSgvp" class="token"><code>offset</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19PassThroughWaypointV6offsets5Int32VSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-offset" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-passthroughwaypoint#sdk-for-ios-explore-s-7heresdk19PassThroughWaypointV6offsets5Int32VSgvp" class="token"><code>offset</code></a> 
 
   </div>
 
@@ -89,7 +93,7 @@ This structure provides all the information for a passthrough waypoint. The loca
 
   <div class="abstract">
 
-  Index over <a href="sdk-for-ios-explore-classes-section#/s:7heresdk7SectionC8geometryAA11GeoPolylineVvp">`Section.geometry`</a> where the passthrough waypoint is located.
+  Index over <a href="sdk-for-ios-explore-classes-section#sdk-for-ios-explore-s-7heresdk7SectionC8geometryAA11GeoPolylineVvp">`Section.geometry`</a> where the passthrough waypoint is located.
 
   </div>
 
@@ -115,7 +119,7 @@ This structure provides all the information for a passthrough waypoint. The loca
 
 - <div>
 
-      init(place: offset: )
+   <span id="sdk-for-ios-explore-s-7heresdk19PassThroughWaypointV5place6offsetAcA10RoutePlaceV_s5Int32VSgtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-place-offset" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-passthroughwaypoint#sdk-for-ios-explore-s-7heresdk19PassThroughWaypointV5place6offsetAcA10RoutePlaceV_s5Int32VSgtcfc" class="token"><code>init(place:</code><wbr></wbr><code>offset:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -146,12 +150,14 @@ This structure provides all the information for a passthrough waypoint. The loca
   Swift
 
   ``` highlight
-  public init ( place : RoutePlace , offset : Int32 ? = nil )
+  public init(place: RoutePlace, offset: Int32? = nil)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-routeplace">RoutePlace</a>
 
   </div>
 

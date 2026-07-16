@@ -27,7 +27,7 @@ Represents the date range when the tariff element is valid. This is typically us
 
 - <div>
 
-  ` `<span id="/s:7heresdk9DateRangeV4from10Foundation0B0VSgvp"></span>` `<span id="//apple_ref/swift/Property/from" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-daterange#/s:7heresdk9DateRangeV4from10Foundation0B0VSgvp" class="token"><code>from</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9DateRangeV4from10Foundation0B0VSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-from" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-daterange#sdk-for-ios-explore-s-7heresdk9DateRangeV4from10Foundation0B0VSgvp" class="token"><code>from</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Represents the date range when the tariff element is valid. This is typically us
 
 - <div>
 
-  ` `<span id="/s:7heresdk9DateRangeV2to10Foundation0B0VSgvp"></span>` `<span id="//apple_ref/swift/Property/to" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-daterange#/s:7heresdk9DateRangeV2to10Foundation0B0VSgvp" class="token"><code>to</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9DateRangeV2to10Foundation0B0VSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-to" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-daterange#sdk-for-ios-explore-s-7heresdk9DateRangeV2to10Foundation0B0VSgvp" class="token"><code>to</code></a> 
 
   </div>
 
@@ -89,7 +89,7 @@ Represents the date range when the tariff element is valid. This is typically us
 
   <div class="abstract">
 
-  First date when the element is no longer valid, exclusive and later than <a href="sdk-for-ios-explore-structs-daterange#/s:7heresdk9DateRangeV4from10Foundation0B0VSgvp">`DateRange.from`</a>. If absent the element is valid until some other element takes over.
+  First date when the element is no longer valid, exclusive and later than <a href="sdk-for-ios-explore-structs-daterange#sdk-for-ios-explore-s-7heresdk9DateRangeV4from10Foundation0B0VSgvp">`DateRange.from`</a>. If absent the element is valid until some other element takes over.
 
   </div>
 
@@ -115,7 +115,7 @@ Represents the date range when the tariff element is valid. This is typically us
 
 - <div>
 
-      init(from: to: )
+   <span id="sdk-for-ios-explore-s-7heresdk9DateRangeV4from2toAC10Foundation0B0VSg_AItcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-from-to" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-daterange#sdk-for-ios-explore-s-7heresdk9DateRangeV4from2toAC10Foundation0B0VSg_AItcfc" class="token"><code>init(from:</code><wbr></wbr><code>to:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -146,10 +146,8 @@ Represents the date range when the tariff element is valid. This is typically us
   Swift
 
   ``` highlight
-  public init ( from : Date ? = nil , to : Date ? = nil )
+  public init(from: Date? = nil, to: Date? = nil)
   ```
-
-  </pre>
 
   </div>
 

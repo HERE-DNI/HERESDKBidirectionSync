@@ -19,6 +19,10 @@ extension MapLayerBuilder.InstantiationErrorDetails : Error
 
 </div>
 
+Related types:
+
+- <a href="sdk-for-ios-navigate-classes-maplayerbuilder">MapLayerBuilder</a>
+
 </div>
 
 Describes the reason for failing to build a <a href="sdk-for-ios-navigate-classes-maplayer">`MapLayer`</a>.
@@ -31,7 +35,7 @@ Describes the reason for failing to build a <a href="sdk-for-ios-navigate-classe
 
 - <div>
 
-  ` `<span id="/s:7heresdk15MapLayerBuilderC25InstantiationErrorDetailsV9errorCodeAC0efI0Ovp"></span>` `<span id="//apple_ref/swift/Property/errorCode" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-maplayerbuilder-instantiationerrordetails#/s:7heresdk15MapLayerBuilderC25InstantiationErrorDetailsV9errorCodeAC0efI0Ovp" class="token"><code>errorCode</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15MapLayerBuilderC25InstantiationErrorDetailsV9errorCodeAC0efI0Ovp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-errorCode" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-maplayerbuilder-instantiationerrordetails#sdk-for-ios-navigate-s-7heresdk15MapLayerBuilderC25InstantiationErrorDetailsV9errorCodeAC0efI0Ovp" class="token"><code>errorCode</code></a> 
 
   </div>
 
@@ -67,6 +71,11 @@ Describes the reason for failing to build a <a href="sdk-for-ios-navigate-classe
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-maplayerbuilder">MapLayerBuilder</a>
+  - <a href="sdk-for-ios-navigate-classes-maplayerbuilder-instantiationerrorcode">InstantiationErrorCode</a>
+
   </div>
 
   </div>
@@ -75,7 +84,7 @@ Describes the reason for failing to build a <a href="sdk-for-ios-navigate-classe
 
 - <div>
 
-  ` `<span id="/s:7heresdk15MapLayerBuilderC25InstantiationErrorDetailsV16errorDescriptionSSSgvp"></span>` `<span id="//apple_ref/swift/Property/errorDescription" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-maplayerbuilder-instantiationerrordetails#/s:7heresdk15MapLayerBuilderC25InstantiationErrorDetailsV16errorDescriptionSSSgvp" class="token"><code>errorDescription</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15MapLayerBuilderC25InstantiationErrorDetailsV16errorDescriptionSSSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-errorDescription" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-maplayerbuilder-instantiationerrordetails#sdk-for-ios-navigate-s-7heresdk15MapLayerBuilderC25InstantiationErrorDetailsV16errorDescriptionSSSgvp" class="token"><code>errorDescription</code></a> 
 
   </div>
 
@@ -119,7 +128,7 @@ Describes the reason for failing to build a <a href="sdk-for-ios-navigate-classe
 
 - <div>
 
-      init(errorCode: errorDescription: )
+   <span id="sdk-for-ios-navigate-s-7heresdk15MapLayerBuilderC25InstantiationErrorDetailsV9errorCode0H11DescriptionAeC0efI0O_SSSgtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-errorCode-errorDescription" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-maplayerbuilder-instantiationerrordetails#sdk-for-ios-navigate-s-7heresdk15MapLayerBuilderC25InstantiationErrorDetailsV9errorCode0H11DescriptionAeC0efI0O_SSSgtcfc" class="token"><code>init(errorCode:</code><wbr></wbr><code>errorDescription:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -150,12 +159,15 @@ Describes the reason for failing to build a <a href="sdk-for-ios-navigate-classe
   Swift
 
   ``` highlight
-  public init ( errorCode : MapLayerBuilder . InstantiationErrorCode , errorDescription : String ? = nil )
+  public init(errorCode: MapLayerBuilder.InstantiationErrorCode, errorDescription: String? = nil)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-maplayerbuilder">MapLayerBuilder</a>
+  - <a href="sdk-for-ios-navigate-classes-maplayerbuilder-instantiationerrorcode">InstantiationErrorCode</a>
 
   </div>
 

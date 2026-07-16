@@ -27,7 +27,7 @@ Represents text placement with respect to the icon of a <a href="sdk-for-ios-nav
 
 - <div>
 
-  ` `<span id="/s:7heresdk9MapMarkerC9TextStyleC9PlacementO6centeryA2GmF"></span>` `<span id="//apple_ref/swift/Element/center" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapmarker-textstyle-placement#/s:7heresdk9MapMarkerC9TextStyleC9PlacementO6centeryA2GmF" class="token"><code>center</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9MapMarkerC9TextStyleC9PlacementO6centeryA2GmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-center" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapmarker-textstyle-placement#sdk-for-ios-navigate-s-7heresdk9MapMarkerC9TextStyleC9PlacementO6centeryA2GmF" class="token"><code>center</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Represents text placement with respect to the icon of a <a href="sdk-for-ios-nav
 
 - <div>
 
-  ` `<span id="/s:7heresdk9MapMarkerC9TextStyleC9PlacementO3topyA2GmF"></span>` `<span id="//apple_ref/swift/Element/top" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapmarker-textstyle-placement#/s:7heresdk9MapMarkerC9TextStyleC9PlacementO3topyA2GmF" class="token"><code>top</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9MapMarkerC9TextStyleC9PlacementO3topyA2GmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-top" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapmarker-textstyle-placement#sdk-for-ios-navigate-s-7heresdk9MapMarkerC9TextStyleC9PlacementO3topyA2GmF" class="token"><code>top</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Represents text placement with respect to the icon of a <a href="sdk-for-ios-nav
 
 - <div>
 
-  ` `<span id="/s:7heresdk9MapMarkerC9TextStyleC9PlacementO8topRightyA2GmF"></span>` `<span id="//apple_ref/swift/Element/topRight" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapmarker-textstyle-placement#/s:7heresdk9MapMarkerC9TextStyleC9PlacementO8topRightyA2GmF" class="token"><code>topRight</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9MapMarkerC9TextStyleC9PlacementO8topRightyA2GmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-topRight" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapmarker-textstyle-placement#sdk-for-ios-navigate-s-7heresdk9MapMarkerC9TextStyleC9PlacementO8topRightyA2GmF" class="token"><code>topRight</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Represents text placement with respect to the icon of a <a href="sdk-for-ios-nav
 
 - <div>
 
-  ` `<span id="/s:7heresdk9MapMarkerC9TextStyleC9PlacementO5rightyA2GmF"></span>` `<span id="//apple_ref/swift/Element/right" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapmarker-textstyle-placement#/s:7heresdk9MapMarkerC9TextStyleC9PlacementO5rightyA2GmF" class="token"><code>right</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9MapMarkerC9TextStyleC9PlacementO5rightyA2GmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-right" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapmarker-textstyle-placement#sdk-for-ios-navigate-s-7heresdk9MapMarkerC9TextStyleC9PlacementO5rightyA2GmF" class="token"><code>right</code></a> 
 
   </div>
 
@@ -203,7 +203,7 @@ Represents text placement with respect to the icon of a <a href="sdk-for-ios-nav
 
 - <div>
 
-  ` `<span id="/s:7heresdk9MapMarkerC9TextStyleC9PlacementO11bottomRightyA2GmF"></span>` `<span id="//apple_ref/swift/Element/bottomRight" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapmarker-textstyle-placement#/s:7heresdk9MapMarkerC9TextStyleC9PlacementO11bottomRightyA2GmF" class="token"><code>bottomRight</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9MapMarkerC9TextStyleC9PlacementO11bottomRightyA2GmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-bottomRight" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapmarker-textstyle-placement#sdk-for-ios-navigate-s-7heresdk9MapMarkerC9TextStyleC9PlacementO11bottomRightyA2GmF" class="token"><code>bottomRight</code></a> 
 
   </div>
 
@@ -247,7 +247,7 @@ Represents text placement with respect to the icon of a <a href="sdk-for-ios-nav
 
 - <div>
 
-  ` `<span id="/s:7heresdk9MapMarkerC9TextStyleC9PlacementO6bottomyA2GmF"></span>` `<span id="//apple_ref/swift/Element/bottom" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapmarker-textstyle-placement#/s:7heresdk9MapMarkerC9TextStyleC9PlacementO6bottomyA2GmF" class="token"><code>bottom</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9MapMarkerC9TextStyleC9PlacementO6bottomyA2GmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-bottom" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapmarker-textstyle-placement#sdk-for-ios-navigate-s-7heresdk9MapMarkerC9TextStyleC9PlacementO6bottomyA2GmF" class="token"><code>bottom</code></a> 
 
   </div>
 
@@ -291,7 +291,7 @@ Represents text placement with respect to the icon of a <a href="sdk-for-ios-nav
 
 - <div>
 
-  ` `<span id="/s:7heresdk9MapMarkerC9TextStyleC9PlacementO10bottomLeftyA2GmF"></span>` `<span id="//apple_ref/swift/Element/bottomLeft" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapmarker-textstyle-placement#/s:7heresdk9MapMarkerC9TextStyleC9PlacementO10bottomLeftyA2GmF" class="token"><code>bottomLeft</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9MapMarkerC9TextStyleC9PlacementO10bottomLeftyA2GmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-bottomLeft" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapmarker-textstyle-placement#sdk-for-ios-navigate-s-7heresdk9MapMarkerC9TextStyleC9PlacementO10bottomLeftyA2GmF" class="token"><code>bottomLeft</code></a> 
 
   </div>
 
@@ -335,7 +335,7 @@ Represents text placement with respect to the icon of a <a href="sdk-for-ios-nav
 
 - <div>
 
-  ` `<span id="/s:7heresdk9MapMarkerC9TextStyleC9PlacementO4leftyA2GmF"></span>` `<span id="//apple_ref/swift/Element/left" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapmarker-textstyle-placement#/s:7heresdk9MapMarkerC9TextStyleC9PlacementO4leftyA2GmF" class="token"><code>left</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9MapMarkerC9TextStyleC9PlacementO4leftyA2GmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-left" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapmarker-textstyle-placement#sdk-for-ios-navigate-s-7heresdk9MapMarkerC9TextStyleC9PlacementO4leftyA2GmF" class="token"><code>left</code></a> 
 
   </div>
 
@@ -379,7 +379,7 @@ Represents text placement with respect to the icon of a <a href="sdk-for-ios-nav
 
 - <div>
 
-  ` `<span id="/s:7heresdk9MapMarkerC9TextStyleC9PlacementO7topLeftyA2GmF"></span>` `<span id="//apple_ref/swift/Element/topLeft" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapmarker-textstyle-placement#/s:7heresdk9MapMarkerC9TextStyleC9PlacementO7topLeftyA2GmF" class="token"><code>topLeft</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9MapMarkerC9TextStyleC9PlacementO7topLeftyA2GmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-topLeft" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapmarker-textstyle-placement#sdk-for-ios-navigate-s-7heresdk9MapMarkerC9TextStyleC9PlacementO7topLeftyA2GmF" class="token"><code>topLeft</code></a> 
 
   </div>
 

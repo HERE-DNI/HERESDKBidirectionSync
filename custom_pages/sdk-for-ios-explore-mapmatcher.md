@@ -13,7 +13,7 @@ slug: "sdk-for-ios-explore-mapmatcher"
 
 - <div>
 
-  ` `<span id="/s:7heresdk10MapMatcherC"></span>` `<span id="//apple_ref/swift/Class/MapMatcher" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-mapmatcher#/s:7heresdk10MapMatcherC" class="token"><code>MapMatcher</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10MapMatcherC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-MapMatcher" class="dashAnchor"></span> <a href="sdk-for-ios-explore-mapmatcher#sdk-for-ios-explore-s-7heresdk10MapMatcherC" class="token"><code>MapMatcher</code></a> 
 
   </div>
 
@@ -52,7 +52,7 @@ slug: "sdk-for-ios-explore-mapmatcher"
 
   If your hardware supports pitch and high precision altitude information and you want to use them in the `MapMatcher` to improve map-matching, then enable the `LayerConfiguration.Feature.ADAS` layer:
 
-  1.  Turn on the `ADAS` layer via <a href="sdk-for-ios-explore-structs-layerconfiguration#/s:7heresdk18LayerConfigurationV15enabledFeaturesSayAC7FeatureOGvp">`LayerConfiguration.enabledFeatures`</a> (it will increase data consumption).
+  1.  Turn on the `ADAS` layer via <a href="sdk-for-ios-explore-structs-layerconfiguration#sdk-for-ios-explore-s-7heresdk18LayerConfigurationV15enabledFeaturesSayAC7FeatureOGvp">`LayerConfiguration.enabledFeatures`</a> (it will increase data consumption).
   2.  If available, set `location.pitchInDegrees, location.coordinates.altitude` and `location.verticalAccuracyInMeters`.
   3.  In case of issues, please contact your HERE representative.
 
@@ -90,7 +90,7 @@ slug: "sdk-for-ios-explore-mapmatcher"
 
 - <div>
 
-  ` `<span id="/s:7heresdk15MatchedLocationV"></span>` `<span id="//apple_ref/swift/Struct/MatchedLocation" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-mapmatcher#/s:7heresdk15MatchedLocationV" class="token"><code>MatchedLocation</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15MatchedLocationV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-MatchedLocation" class="dashAnchor"></span> <a href="sdk-for-ios-explore-mapmatcher#sdk-for-ios-explore-s-7heresdk15MatchedLocationV" class="token"><code>MatchedLocation</code></a> 
 
   </div>
 

@@ -27,7 +27,7 @@ The predefined styles for the location indicator which are pedestrian and naviga
 
 - <div>
 
-  ` `<span id="/s:7heresdk17LocationIndicatorC0C5StyleO10pedestrianyA2EmF"></span>` `<span id="//apple_ref/swift/Element/pedestrian" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-locationindicator-indicatorstyle#/s:7heresdk17LocationIndicatorC0C5StyleO10pedestrianyA2EmF" class="token"><code>pedestrian</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk17LocationIndicatorC0C5StyleO10pedestrianyA2EmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-pedestrian" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-locationindicator-indicatorstyle#sdk-for-ios-navigate-s-7heresdk17LocationIndicatorC0C5StyleO10pedestrianyA2EmF" class="token"><code>pedestrian</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ The predefined styles for the location indicator which are pedestrian and naviga
 
 - <div>
 
-  ` `<span id="/s:7heresdk17LocationIndicatorC0C5StyleO10navigationyA2EmF"></span>` `<span id="//apple_ref/swift/Element/navigation" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-locationindicator-indicatorstyle#/s:7heresdk17LocationIndicatorC0C5StyleO10navigationyA2EmF" class="token"><code>navigation</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk17LocationIndicatorC0C5StyleO10navigationyA2EmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-navigation" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-locationindicator-indicatorstyle#sdk-for-ios-navigate-s-7heresdk17LocationIndicatorC0C5StyleO10navigationyA2EmF" class="token"><code>navigation</code></a> 
 
   </div>
 

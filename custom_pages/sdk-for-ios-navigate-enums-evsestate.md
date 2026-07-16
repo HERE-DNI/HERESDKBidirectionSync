@@ -29,7 +29,7 @@ Indicates the current short-term status of the EVSE at the time given in the mod
 
 - <div>
 
-  ` `<span id="/s:7heresdk9EVSEStateO7unknownyA2CmF"></span>` `<span id="//apple_ref/swift/Element/unknown" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-evsestate#/s:7heresdk9EVSEStateO7unknownyA2CmF" class="token"><code>unknown</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9EVSEStateO7unknownyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-unknown" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-evsestate#sdk-for-ios-navigate-s-7heresdk9EVSEStateO7unknownyA2CmF" class="token"><code>unknown</code></a> 
 
   </div>
 
@@ -73,7 +73,7 @@ Indicates the current short-term status of the EVSE at the time given in the mod
 
 - <div>
 
-  ` `<span id="/s:7heresdk9EVSEStateO9availableyA2CmF"></span>` `<span id="//apple_ref/swift/Element/available" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-evsestate#/s:7heresdk9EVSEStateO9availableyA2CmF" class="token"><code>available</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9EVSEStateO9availableyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-available" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-evsestate#sdk-for-ios-navigate-s-7heresdk9EVSEStateO9availableyA2CmF" class="token"><code>available</code></a> 
 
   </div>
 
@@ -117,7 +117,7 @@ Indicates the current short-term status of the EVSE at the time given in the mod
 
 - <div>
 
-  ` `<span id="/s:7heresdk9EVSEStateO7blockedyA2CmF"></span>` `<span id="//apple_ref/swift/Element/blocked" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-evsestate#/s:7heresdk9EVSEStateO7blockedyA2CmF" class="token"><code>blocked</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9EVSEStateO7blockedyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-blocked" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-evsestate#sdk-for-ios-navigate-s-7heresdk9EVSEStateO7blockedyA2CmF" class="token"><code>blocked</code></a> 
 
   </div>
 
@@ -161,7 +161,7 @@ Indicates the current short-term status of the EVSE at the time given in the mod
 
 - <div>
 
-  ` `<span id="/s:7heresdk9EVSEStateO8chargingyA2CmF"></span>` `<span id="//apple_ref/swift/Element/charging" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-evsestate#/s:7heresdk9EVSEStateO8chargingyA2CmF" class="token"><code>charging</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9EVSEStateO8chargingyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-charging" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-evsestate#sdk-for-ios-navigate-s-7heresdk9EVSEStateO8chargingyA2CmF" class="token"><code>charging</code></a> 
 
   </div>
 
@@ -205,7 +205,7 @@ Indicates the current short-term status of the EVSE at the time given in the mod
 
 - <div>
 
-  ` `<span id="/s:7heresdk9EVSEStateO11inoperativeyA2CmF"></span>` `<span id="//apple_ref/swift/Element/inoperative" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-evsestate#/s:7heresdk9EVSEStateO11inoperativeyA2CmF" class="token"><code>inoperative</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9EVSEStateO11inoperativeyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-inoperative" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-evsestate#sdk-for-ios-navigate-s-7heresdk9EVSEStateO11inoperativeyA2CmF" class="token"><code>inoperative</code></a> 
 
   </div>
 
@@ -249,7 +249,7 @@ Indicates the current short-term status of the EVSE at the time given in the mod
 
 - <div>
 
-  ` `<span id="/s:7heresdk9EVSEStateO10outOfOrderyA2CmF"></span>` `<span id="//apple_ref/swift/Element/outOfOrder" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-evsestate#/s:7heresdk9EVSEStateO10outOfOrderyA2CmF" class="token"><code>outOfOrder</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9EVSEStateO10outOfOrderyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-outOfOrder" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-evsestate#sdk-for-ios-navigate-s-7heresdk9EVSEStateO10outOfOrderyA2CmF" class="token"><code>outOfOrder</code></a> 
 
   </div>
 
@@ -293,7 +293,7 @@ Indicates the current short-term status of the EVSE at the time given in the mod
 
 - <div>
 
-  ` `<span id="/s:7heresdk9EVSEStateO8reservedyA2CmF"></span>` `<span id="//apple_ref/swift/Element/reserved" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-evsestate#/s:7heresdk9EVSEStateO8reservedyA2CmF" class="token"><code>reserved</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9EVSEStateO8reservedyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-reserved" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-evsestate#sdk-for-ios-navigate-s-7heresdk9EVSEStateO8reservedyA2CmF" class="token"><code>reserved</code></a> 
 
   </div>
 
@@ -337,7 +337,7 @@ Indicates the current short-term status of the EVSE at the time given in the mod
 
 - <div>
 
-  ` `<span id="/s:7heresdk9EVSEStateO11operationalyA2CmF"></span>` `<span id="//apple_ref/swift/Element/operational" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-evsestate#/s:7heresdk9EVSEStateO11operationalyA2CmF" class="token"><code>operational</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9EVSEStateO11operationalyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-operational" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-evsestate#sdk-for-ios-navigate-s-7heresdk9EVSEStateO11operationalyA2CmF" class="token"><code>operational</code></a> 
 
   </div>
 

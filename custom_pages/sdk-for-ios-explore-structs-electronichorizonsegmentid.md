@@ -29,7 +29,7 @@ Identifies a segment in an <a href="sdk-for-ios-explore-structs-electronichorizo
 
 - <div>
 
-  ` `<span id="/s:7heresdk26ElectronicHorizonSegmentIdV03ocmdE0AA018DirectedOCMSegmentE0VSgvp"></span>` `<span id="//apple_ref/swift/Property/ocmSegmentId" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-electronichorizonsegmentid#/s:7heresdk26ElectronicHorizonSegmentIdV03ocmdE0AA018DirectedOCMSegmentE0VSgvp" class="token"><code>ocmSegmentId</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk26ElectronicHorizonSegmentIdV03ocmdE0AA018DirectedOCMSegmentE0VSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-ocmSegmentId" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-electronichorizonsegmentid#sdk-for-ios-explore-s-7heresdk26ElectronicHorizonSegmentIdV03ocmdE0AA018DirectedOCMSegmentE0VSgvp" class="token"><code>ocmSegmentId</code></a> 
 
   </div>
 
@@ -47,7 +47,7 @@ Identifies a segment in an <a href="sdk-for-ios-explore-structs-electronichorizo
 
   <div class="abstract">
 
-  The directed OCM segment identifier. This value can be `nil` if a route was built on a different version of the map and the route spans do not match any OCM segments. In this case, only <a href="sdk-for-ios-explore-structs-electronichorizonsegmentid#/s:7heresdk26ElectronicHorizonSegmentIdV16segmentReferenceAA0dG0VSgvp">`ElectronicHorizonSegmentId.segmentReference`</a> is provided.
+  The directed OCM segment identifier. This value can be `nil` if a route was built on a different version of the map and the route spans do not match any OCM segments. In this case, only <a href="sdk-for-ios-explore-structs-electronichorizonsegmentid#sdk-for-ios-explore-s-7heresdk26ElectronicHorizonSegmentIdV16segmentReferenceAA0dG0VSgvp">`ElectronicHorizonSegmentId.segmentReference`</a> is provided.
 
   </div>
 
@@ -65,6 +65,10 @@ Identifies a segment in an <a href="sdk-for-ios-explore-structs-electronichorizo
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-directedocmsegmentid">DirectedOCMSegmentId</a>
+
   </div>
 
   </div>
@@ -73,7 +77,7 @@ Identifies a segment in an <a href="sdk-for-ios-explore-structs-electronichorizo
 
 - <div>
 
-  ` `<span id="/s:7heresdk26ElectronicHorizonSegmentIdV16segmentReferenceAA0dG0VSgvp"></span>` `<span id="//apple_ref/swift/Property/segmentReference" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-electronichorizonsegmentid#/s:7heresdk26ElectronicHorizonSegmentIdV16segmentReferenceAA0dG0VSgvp" class="token"><code>segmentReference</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk26ElectronicHorizonSegmentIdV16segmentReferenceAA0dG0VSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-segmentReference" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-electronichorizonsegmentid#sdk-for-ios-explore-s-7heresdk26ElectronicHorizonSegmentIdV16segmentReferenceAA0dG0VSgvp" class="token"><code>segmentReference</code></a> 
 
   </div>
 
@@ -109,6 +113,10 @@ Identifies a segment in an <a href="sdk-for-ios-explore-structs-electronichorizo
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-segmentreference">SegmentReference</a>
+
   </div>
 
   </div>
@@ -117,7 +125,7 @@ Identifies a segment in an <a href="sdk-for-ios-explore-structs-electronichorizo
 
 - <div>
 
-      init(ocmSegmentId: segmentReference: )
+   <span id="sdk-for-ios-explore-s-7heresdk26ElectronicHorizonSegmentIdV03ocmdE016segmentReferenceAcA018DirectedOCMSegmentE0VSg_AA0dH0VSgtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-ocmSegmentId-segmentReference" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-electronichorizonsegmentid#sdk-for-ios-explore-s-7heresdk26ElectronicHorizonSegmentIdV03ocmdE016segmentReferenceAcA018DirectedOCMSegmentE0VSg_AA0dH0VSgtcfc" class="token"><code>init(ocmSegmentId:</code><wbr></wbr><code>segmentReference:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -150,12 +158,15 @@ Identifies a segment in an <a href="sdk-for-ios-explore-structs-electronichorizo
   Swift
 
   ``` highlight
-  public init ( ocmSegmentId : DirectedOCMSegmentId ? = nil , segmentReference : SegmentReference ? = nil )
+  public init(ocmSegmentId: DirectedOCMSegmentId? = nil, segmentReference: SegmentReference? = nil)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-directedocmsegmentid">DirectedOCMSegmentId</a>
+  - <a href="sdk-for-ios-explore-structs-segmentreference">SegmentReference</a>
 
   </div>
 

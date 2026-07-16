@@ -29,7 +29,7 @@ A struct that provides information about link id and accessibility.
 
 - <div>
 
-  ` `<span id="/s:7heresdk12ConnectivityV17directedSegmentIdAA018DirectedOCMSegmentE0Vvp"></span>` `<span id="//apple_ref/swift/Property/directedSegmentId" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-connectivity#/s:7heresdk12ConnectivityV17directedSegmentIdAA018DirectedOCMSegmentE0Vvp" class="token"><code>directedSegmentId</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12ConnectivityV17directedSegmentIdAA018DirectedOCMSegmentE0Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-directedSegmentId" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-connectivity#sdk-for-ios-navigate-s-7heresdk12ConnectivityV17directedSegmentIdAA018DirectedOCMSegmentE0Vvp" class="token"><code>directedSegmentId</code></a> 
 
   </div>
 
@@ -65,6 +65,10 @@ A struct that provides information about link id and accessibility.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-directedocmsegmentid">DirectedOCMSegmentId</a>
+
   </div>
 
   </div>
@@ -73,7 +77,7 @@ A struct that provides information about link id and accessibility.
 
 - <div>
 
-  ` `<span id="/s:7heresdk12ConnectivityV6accessSayAA13TransportTypeOGvp"></span>` `<span id="//apple_ref/swift/Property/access" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-connectivity#/s:7heresdk12ConnectivityV6accessSayAA13TransportTypeOGvp" class="token"><code>access</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12ConnectivityV6accessSayAA13TransportTypeOGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-access" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-connectivity#sdk-for-ios-navigate-s-7heresdk12ConnectivityV6accessSayAA13TransportTypeOGvp" class="token"><code>access</code></a> 
 
   </div>
 
@@ -109,6 +113,10 @@ A struct that provides information about link id and accessibility.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-transporttype">TransportType</a>
+
   </div>
 
   </div>
@@ -117,7 +125,7 @@ A struct that provides information about link id and accessibility.
 
 - <div>
 
-      init(directedSegmentId: access: )
+   <span id="sdk-for-ios-navigate-s-7heresdk12ConnectivityV17directedSegmentId6accessAcA018DirectedOCMSegmentE0V_SayAA13TransportTypeOGtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-directedSegmentId-access" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-connectivity#sdk-for-ios-navigate-s-7heresdk12ConnectivityV17directedSegmentId6accessAcA018DirectedOCMSegmentE0V_SayAA13TransportTypeOGtcfc" class="token"><code>init(directedSegmentId:</code><wbr></wbr><code>access:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -148,12 +156,15 @@ A struct that provides information about link id and accessibility.
   Swift
 
   ``` highlight
-  public init ( directedSegmentId : DirectedOCMSegmentId , access : [ TransportType ])
+  public init(directedSegmentId: DirectedOCMSegmentId, access: [TransportType])
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-directedocmsegmentid">DirectedOCMSegmentId</a>
+  - <a href="sdk-for-ios-navigate-enums-transporttype">TransportType</a>
 
   </div>
 

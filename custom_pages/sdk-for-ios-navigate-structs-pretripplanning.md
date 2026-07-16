@@ -27,7 +27,7 @@ Represents the legal requirements to be considered before a trip for all vehicle
 
 - <div>
 
-  ` `<span id="/s:7heresdk15PreTripPlanningV25isWarningTriangleRequiredSbvp"></span>` `<span id="//apple_ref/swift/Property/isWarningTriangleRequired" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-pretripplanning#/s:7heresdk15PreTripPlanningV25isWarningTriangleRequiredSbvp" class="token"><code>isWarningTriangleRequired</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15PreTripPlanningV25isWarningTriangleRequiredSbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-isWarningTriangleRequired" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-pretripplanning#sdk-for-ios-navigate-s-7heresdk15PreTripPlanningV25isWarningTriangleRequiredSbvp" class="token"><code>isWarningTriangleRequired</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Represents the legal requirements to be considered before a trip for all vehicle
 
 - <div>
 
-  ` `<span id="/s:7heresdk15PreTripPlanningV21isFirstAidKitRequiredSbvp"></span>` `<span id="//apple_ref/swift/Property/isFirstAidKitRequired" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-pretripplanning#/s:7heresdk15PreTripPlanningV21isFirstAidKitRequiredSbvp" class="token"><code>isFirstAidKitRequired</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15PreTripPlanningV21isFirstAidKitRequiredSbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-isFirstAidKitRequired" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-pretripplanning#sdk-for-ios-navigate-s-7heresdk15PreTripPlanningV21isFirstAidKitRequiredSbvp" class="token"><code>isFirstAidKitRequired</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Represents the legal requirements to be considered before a trip for all vehicle
 
 - <div>
 
-  ` `<span id="/s:7heresdk15PreTripPlanningV20isSafetyVestRequiredSbvp"></span>` `<span id="//apple_ref/swift/Property/isSafetyVestRequired" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-pretripplanning#/s:7heresdk15PreTripPlanningV20isSafetyVestRequiredSbvp" class="token"><code>isSafetyVestRequired</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15PreTripPlanningV20isSafetyVestRequiredSbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-isSafetyVestRequired" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-pretripplanning#sdk-for-ios-navigate-s-7heresdk15PreTripPlanningV20isSafetyVestRequiredSbvp" class="token"><code>isSafetyVestRequired</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Represents the legal requirements to be considered before a trip for all vehicle
 
 - <div>
 
-  ` `<span id="/s:7heresdk15PreTripPlanningV26areSpareLightBulbsRequiredSbvp"></span>` `<span id="//apple_ref/swift/Property/areSpareLightBulbsRequired" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-pretripplanning#/s:7heresdk15PreTripPlanningV26areSpareLightBulbsRequiredSbvp" class="token"><code>areSpareLightBulbsRequired</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15PreTripPlanningV26areSpareLightBulbsRequiredSbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-areSpareLightBulbsRequired" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-pretripplanning#sdk-for-ios-navigate-s-7heresdk15PreTripPlanningV26areSpareLightBulbsRequiredSbvp" class="token"><code>areSpareLightBulbsRequired</code></a> 
 
   </div>
 
@@ -203,7 +203,7 @@ Represents the legal requirements to be considered before a trip for all vehicle
 
 - <div>
 
-  ` `<span id="/s:7heresdk15PreTripPlanningV23isAlcoholTesterRequiredSbvp"></span>` `<span id="//apple_ref/swift/Property/isAlcoholTesterRequired" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-pretripplanning#/s:7heresdk15PreTripPlanningV23isAlcoholTesterRequiredSbvp" class="token"><code>isAlcoholTesterRequired</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15PreTripPlanningV23isAlcoholTesterRequiredSbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-isAlcoholTesterRequired" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-pretripplanning#sdk-for-ios-navigate-s-7heresdk15PreTripPlanningV23isAlcoholTesterRequiredSbvp" class="token"><code>isAlcoholTesterRequired</code></a> 
 
   </div>
 
@@ -247,7 +247,7 @@ Represents the legal requirements to be considered before a trip for all vehicle
 
 - <div>
 
-  ` `<span id="/s:7heresdk15PreTripPlanningV26isFireExtinguisherRequiredSbvp"></span>` `<span id="//apple_ref/swift/Property/isFireExtinguisherRequired" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-pretripplanning#/s:7heresdk15PreTripPlanningV26isFireExtinguisherRequiredSbvp" class="token"><code>isFireExtinguisherRequired</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15PreTripPlanningV26isFireExtinguisherRequiredSbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-isFireExtinguisherRequired" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-pretripplanning#sdk-for-ios-navigate-s-7heresdk15PreTripPlanningV26isFireExtinguisherRequiredSbvp" class="token"><code>isFireExtinguisherRequired</code></a> 
 
   </div>
 
@@ -291,7 +291,7 @@ Represents the legal requirements to be considered before a trip for all vehicle
 
 - <div>
 
-  ` `<span id="/s:7heresdk15PreTripPlanningV17isTowRopeRequiredSbvp"></span>` `<span id="//apple_ref/swift/Property/isTowRopeRequired" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-pretripplanning#/s:7heresdk15PreTripPlanningV17isTowRopeRequiredSbvp" class="token"><code>isTowRopeRequired</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15PreTripPlanningV17isTowRopeRequiredSbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-isTowRopeRequired" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-pretripplanning#sdk-for-ios-navigate-s-7heresdk15PreTripPlanningV17isTowRopeRequiredSbvp" class="token"><code>isTowRopeRequired</code></a> 
 
   </div>
 
@@ -335,7 +335,7 @@ Represents the legal requirements to be considered before a trip for all vehicle
 
 - <div>
 
-  ` `<span id="/s:7heresdk15PreTripPlanningV22areWinterTiresRequiredSbvp"></span>` `<span id="//apple_ref/swift/Property/areWinterTiresRequired" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-pretripplanning#/s:7heresdk15PreTripPlanningV22areWinterTiresRequiredSbvp" class="token"><code>areWinterTiresRequired</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15PreTripPlanningV22areWinterTiresRequiredSbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-areWinterTiresRequired" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-pretripplanning#sdk-for-ios-navigate-s-7heresdk15PreTripPlanningV22areWinterTiresRequiredSbvp" class="token"><code>areWinterTiresRequired</code></a> 
 
   </div>
 
@@ -379,7 +379,7 @@ Represents the legal requirements to be considered before a trip for all vehicle
 
 - <div>
 
-  ` `<span id="/s:7heresdk15PreTripPlanningV18winterSeasonPeriodSSSgvp"></span>` `<span id="//apple_ref/swift/Property/winterSeasonPeriod" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-pretripplanning#/s:7heresdk15PreTripPlanningV18winterSeasonPeriodSSSgvp" class="token"><code>winterSeasonPeriod</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15PreTripPlanningV18winterSeasonPeriodSSSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-winterSeasonPeriod" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-pretripplanning#sdk-for-ios-navigate-s-7heresdk15PreTripPlanningV18winterSeasonPeriodSSSgvp" class="token"><code>winterSeasonPeriod</code></a> 
 
   </div>
 
@@ -423,7 +423,7 @@ Represents the legal requirements to be considered before a trip for all vehicle
 
 - <div>
 
-      init(isWarningTriangleRequired: isFirstAidKitRequired: isSafetyVestRequired: areSpareLightBulbsRequired: isAlcoholTesterRequired: isFireExtinguisherRequired: isTowRopeRequired: areWinterTiresRequired: winterSeasonPeriod: )
+   <span id="sdk-for-ios-navigate-s-7heresdk15PreTripPlanningV25isWarningTriangleRequired0e11FirstAidKitH00e10SafetyVestH0018areSpareLightBulbsH00e13AlcoholTesterH00e16FireExtinguisherH00e7TowRopeH00n11WinterTiresH018winterSeasonPeriodACSb_S7bSSSgtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-isWarningTriangleRequired-isFirstAidKitRequired-isSafetyVestRequired-areSpareLightBulbsRequired-isAlcoholTesterRequired-isFireExtinguisherRequired-isTowRopeRequired-areWinterTiresRequired-winterSeasonPeriod" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-pretripplanning#sdk-for-ios-navigate-s-7heresdk15PreTripPlanningV25isWarningTriangleRequired0e11FirstAidKitH00e10SafetyVestH0018areSpareLightBulbsH00e13AlcoholTesterH00e16FireExtinguisherH00e7TowRopeH00n11WinterTiresH018winterSeasonPeriodACSb_S7bSSSgtcfc" class="token"><code>init(isWarningTriangleRequired:</code><wbr></wbr><code>isFirstAidKitRequired:</code><wbr></wbr><code>isSafetyVestRequired:</code><wbr></wbr><code>areSpareLightBulbsRequired:</code><wbr></wbr><code>isAlcoholTesterRequired:</code><wbr></wbr><code>isFireExtinguisherRequired:</code><wbr></wbr><code>isTowRopeRequired:</code><wbr></wbr><code>areWinterTiresRequired:</code><wbr></wbr><code>winterSeasonPeriod:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -454,10 +454,8 @@ Represents the legal requirements to be considered before a trip for all vehicle
   Swift
 
   ``` highlight
-  public init ( isWarningTriangleRequired : Bool = false , isFirstAidKitRequired : Bool = false , isSafetyVestRequired : Bool = false , areSpareLightBulbsRequired : Bool = false , isAlcoholTesterRequired : Bool = false , isFireExtinguisherRequired : Bool = false , isTowRopeRequired : Bool = false , areWinterTiresRequired : Bool = false , winterSeasonPeriod : String ? = nil )
+  public init(isWarningTriangleRequired: Bool = false, isFirstAidKitRequired: Bool = false, isSafetyVestRequired: Bool = false, areSpareLightBulbsRequired: Bool = false, isAlcoholTesterRequired: Bool = false, isFireExtinguisherRequired: Bool = false, isTowRopeRequired: Bool = false, areWinterTiresRequired: Bool = false, winterSeasonPeriod: String? = nil)
   ```
-
-  </pre>
 
   </div>
 

@@ -27,7 +27,7 @@ Defines a single rule that determines how <a href="sdk-for-ios-explore-classes-t
 
 - <div>
 
-  ` `<span id="/s:7heresdk22TrackingCameraBehaviorC12ManeuverRuleV21functionalRoadClassesSayAA010FunctionalH5ClassOGvp"></span>` `<span id="//apple_ref/swift/Property/functionalRoadClasses" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-trackingcamerabehavior-maneuverrule#/s:7heresdk22TrackingCameraBehaviorC12ManeuverRuleV21functionalRoadClassesSayAA010FunctionalH5ClassOGvp" class="token"><code>functionalRoadClasses</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk22TrackingCameraBehaviorC12ManeuverRuleV21functionalRoadClassesSayAA010FunctionalH5ClassOGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-functionalRoadClasses" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-trackingcamerabehavior-maneuverrule#sdk-for-ios-explore-s-7heresdk22TrackingCameraBehaviorC12ManeuverRuleV21functionalRoadClassesSayAA010FunctionalH5ClassOGvp" class="token"><code>functionalRoadClasses</code></a> 
 
   </div>
 
@@ -63,6 +63,10 @@ Defines a single rule that determines how <a href="sdk-for-ios-explore-classes-t
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-functionalroadclass">FunctionalRoadClass</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ Defines a single rule that determines how <a href="sdk-for-ios-explore-classes-t
 
 - <div>
 
-  ` `<span id="/s:7heresdk22TrackingCameraBehaviorC12ManeuverRuleV15maneuverActionsSayAA0E6ActionOGvp"></span>` `<span id="//apple_ref/swift/Property/maneuverActions" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-trackingcamerabehavior-maneuverrule#/s:7heresdk22TrackingCameraBehaviorC12ManeuverRuleV15maneuverActionsSayAA0E6ActionOGvp" class="token"><code>maneuverActions</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk22TrackingCameraBehaviorC12ManeuverRuleV15maneuverActionsSayAA0E6ActionOGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-maneuverActions" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-trackingcamerabehavior-maneuverrule#sdk-for-ios-explore-s-7heresdk22TrackingCameraBehaviorC12ManeuverRuleV15maneuverActionsSayAA0E6ActionOGvp" class="token"><code>maneuverActions</code></a> 
 
   </div>
 
@@ -107,6 +111,10 @@ Defines a single rule that determines how <a href="sdk-for-ios-explore-classes-t
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-maneuveraction">ManeuverAction</a>
+
   </div>
 
   </div>
@@ -115,7 +123,7 @@ Defines a single rule that determines how <a href="sdk-for-ios-explore-classes-t
 
 - <div>
 
-  ` `<span id="/s:7heresdk22TrackingCameraBehaviorC12ManeuverRuleV08maneuverF7OptionsAC0efH0VSgvp"></span>` `<span id="//apple_ref/swift/Property/maneuverRuleOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-trackingcamerabehavior-maneuverrule#/s:7heresdk22TrackingCameraBehaviorC12ManeuverRuleV08maneuverF7OptionsAC0efH0VSgvp" class="token"><code>maneuverRuleOptions</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk22TrackingCameraBehaviorC12ManeuverRuleV08maneuverF7OptionsAC0efH0VSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-maneuverRuleOptions" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-trackingcamerabehavior-maneuverrule#sdk-for-ios-explore-s-7heresdk22TrackingCameraBehaviorC12ManeuverRuleV08maneuverF7OptionsAC0efH0VSgvp" class="token"><code>maneuverRuleOptions</code></a> 
 
   </div>
 
@@ -151,6 +159,11 @@ Defines a single rule that determines how <a href="sdk-for-ios-explore-classes-t
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-trackingcamerabehavior">TrackingCameraBehavior</a>
+  - <a href="sdk-for-ios-explore-classes-trackingcamerabehavior-maneuverruleoptions">ManeuverRuleOptions</a>
+
   </div>
 
   </div>
@@ -159,7 +172,7 @@ Defines a single rule that determines how <a href="sdk-for-ios-explore-classes-t
 
 - <div>
 
-      init(functionalRoadClasses: maneuverActions: maneuverRuleOptions: )
+   <span id="sdk-for-ios-explore-s-7heresdk22TrackingCameraBehaviorC12ManeuverRuleV21functionalRoadClasses15maneuverActions0jF7OptionsAESayAA010FunctionalH5ClassOG_SayAA0E6ActionOGAC0efL0VSgtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-functionalRoadClasses-maneuverActions-maneuverRuleOptions" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-trackingcamerabehavior-maneuverrule#sdk-for-ios-explore-s-7heresdk22TrackingCameraBehaviorC12ManeuverRuleV21functionalRoadClasses15maneuverActions0jF7OptionsAESayAA010FunctionalH5ClassOG_SayAA0E6ActionOGAC0efL0VSgtcfc" class="token"><code>init(functionalRoadClasses:</code><wbr></wbr><code>maneuverActions:</code><wbr></wbr><code>maneuverRuleOptions:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -192,12 +205,17 @@ Defines a single rule that determines how <a href="sdk-for-ios-explore-classes-t
   Swift
 
   ``` highlight
-  public init ( functionalRoadClasses : [ FunctionalRoadClass ] = [], maneuverActions : [ ManeuverAction ] = [], maneuverRuleOptions : TrackingCameraBehavior . ManeuverRuleOptions ? = nil )
+  public init(functionalRoadClasses: [FunctionalRoadClass] = [], maneuverActions: [ManeuverAction] = [], maneuverRuleOptions: TrackingCameraBehavior.ManeuverRuleOptions? = nil)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-functionalroadclass">FunctionalRoadClass</a>
+  - <a href="sdk-for-ios-explore-enums-maneuveraction">ManeuverAction</a>
+  - <a href="sdk-for-ios-explore-classes-trackingcamerabehavior">TrackingCameraBehavior</a>
+  - <a href="sdk-for-ios-explore-classes-trackingcamerabehavior-maneuverruleoptions">ManeuverRuleOptions</a>
 
   </div>
 

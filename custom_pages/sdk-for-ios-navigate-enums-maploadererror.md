@@ -31,7 +31,7 @@ Specifies possible errors that may result from map downloading/prefetching.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14MapLoaderErrorO16resourceNotFoundyA2CmF"></span>` `<span id="//apple_ref/swift/Element/resourceNotFound" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-maploadererror#/s:7heresdk14MapLoaderErrorO16resourceNotFoundyA2CmF" class="token"><code>resourceNotFound</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14MapLoaderErrorO16resourceNotFoundyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-resourceNotFound" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-maploadererror#sdk-for-ios-navigate-s-7heresdk14MapLoaderErrorO16resourceNotFoundyA2CmF" class="token"><code>resourceNotFound</code></a> 
 
   </div>
 
@@ -75,7 +75,7 @@ Specifies possible errors that may result from map downloading/prefetching.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14MapLoaderErrorO8notReadyyA2CmF"></span>` `<span id="//apple_ref/swift/Element/notReady" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-maploadererror#/s:7heresdk14MapLoaderErrorO8notReadyyA2CmF" class="token"><code>notReady</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14MapLoaderErrorO8notReadyyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-notReady" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-maploadererror#sdk-for-ios-navigate-s-7heresdk14MapLoaderErrorO8notReadyyA2CmF" class="token"><code>notReady</code></a> 
 
   </div>
 
@@ -119,7 +119,7 @@ Specifies possible errors that may result from map downloading/prefetching.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14MapLoaderErrorO15invalidArgumentyA2CmF"></span>` `<span id="//apple_ref/swift/Element/invalidArgument" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-maploadererror#/s:7heresdk14MapLoaderErrorO15invalidArgumentyA2CmF" class="token"><code>invalidArgument</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14MapLoaderErrorO15invalidArgumentyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-invalidArgument" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-maploadererror#sdk-for-ios-navigate-s-7heresdk14MapLoaderErrorO15invalidArgumentyA2CmF" class="token"><code>invalidArgument</code></a> 
 
   </div>
 
@@ -163,7 +163,7 @@ Specifies possible errors that may result from map downloading/prefetching.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14MapLoaderErrorO18operationCancelledyA2CmF"></span>` `<span id="//apple_ref/swift/Element/operationCancelled" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-maploadererror#/s:7heresdk14MapLoaderErrorO18operationCancelledyA2CmF" class="token"><code>operationCancelled</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14MapLoaderErrorO18operationCancelledyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-operationCancelled" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-maploadererror#sdk-for-ios-navigate-s-7heresdk14MapLoaderErrorO18operationCancelledyA2CmF" class="token"><code>operationCancelled</code></a> 
 
   </div>
 
@@ -207,7 +207,7 @@ Specifies possible errors that may result from map downloading/prefetching.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14MapLoaderErrorO16alreadyInstalledyA2CmF"></span>` `<span id="//apple_ref/swift/Element/alreadyInstalled" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-maploadererror#/s:7heresdk14MapLoaderErrorO16alreadyInstalledyA2CmF" class="token"><code>alreadyInstalled</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14MapLoaderErrorO16alreadyInstalledyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-alreadyInstalled" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-maploadererror#sdk-for-ios-navigate-s-7heresdk14MapLoaderErrorO16alreadyInstalledyA2CmF" class="token"><code>alreadyInstalled</code></a> 
 
   </div>
 
@@ -251,7 +251,7 @@ Specifies possible errors that may result from map downloading/prefetching.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14MapLoaderErrorO7timeOutyA2CmF"></span>` `<span id="//apple_ref/swift/Element/timeOut" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-maploadererror#/s:7heresdk14MapLoaderErrorO7timeOutyA2CmF" class="token"><code>timeOut</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14MapLoaderErrorO7timeOutyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-timeOut" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-maploadererror#sdk-for-ios-navigate-s-7heresdk14MapLoaderErrorO7timeOutyA2CmF" class="token"><code>timeOut</code></a> 
 
   </div>
 
@@ -295,7 +295,7 @@ Specifies possible errors that may result from map downloading/prefetching.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14MapLoaderErrorO18serviceUnavailableyA2CmF"></span>` `<span id="//apple_ref/swift/Element/serviceUnavailable" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-maploadererror#/s:7heresdk14MapLoaderErrorO18serviceUnavailableyA2CmF" class="token"><code>serviceUnavailable</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14MapLoaderErrorO18serviceUnavailableyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-serviceUnavailable" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-maploadererror#sdk-for-ios-navigate-s-7heresdk14MapLoaderErrorO18serviceUnavailableyA2CmF" class="token"><code>serviceUnavailable</code></a> 
 
   </div>
 
@@ -339,7 +339,7 @@ Specifies possible errors that may result from map downloading/prefetching.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14MapLoaderErrorO12accessDeniedyA2CmF"></span>` `<span id="//apple_ref/swift/Element/accessDenied" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-maploadererror#/s:7heresdk14MapLoaderErrorO12accessDeniedyA2CmF" class="token"><code>accessDenied</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14MapLoaderErrorO12accessDeniedyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-accessDenied" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-maploadererror#sdk-for-ios-navigate-s-7heresdk14MapLoaderErrorO12accessDeniedyA2CmF" class="token"><code>accessDenied</code></a> 
 
   </div>
 
@@ -383,7 +383,7 @@ Specifies possible errors that may result from map downloading/prefetching.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14MapLoaderErrorO19requestLimitReachedyA2CmF"></span>` `<span id="//apple_ref/swift/Element/requestLimitReached" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-maploadererror#/s:7heresdk14MapLoaderErrorO19requestLimitReachedyA2CmF" class="token"><code>requestLimitReached</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14MapLoaderErrorO19requestLimitReachedyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-requestLimitReached" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-maploadererror#sdk-for-ios-navigate-s-7heresdk14MapLoaderErrorO19requestLimitReachedyA2CmF" class="token"><code>requestLimitReached</code></a> 
 
   </div>
 
@@ -427,7 +427,7 @@ Specifies possible errors that may result from map downloading/prefetching.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14MapLoaderErrorO017networkConnectionD0yA2CmF"></span>` `<span id="//apple_ref/swift/Element/networkConnectionError" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-maploadererror#/s:7heresdk14MapLoaderErrorO017networkConnectionD0yA2CmF" class="token"><code>networkConnectionError</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14MapLoaderErrorO017networkConnectionD0yA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-networkConnectionError" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-maploadererror#sdk-for-ios-navigate-s-7heresdk14MapLoaderErrorO017networkConnectionD0yA2CmF" class="token"><code>networkConnectionError</code></a> 
 
   </div>
 
@@ -471,7 +471,7 @@ Specifies possible errors that may result from map downloading/prefetching.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14MapLoaderErrorO9forbiddenyA2CmF"></span>` `<span id="//apple_ref/swift/Element/forbidden" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-maploadererror#/s:7heresdk14MapLoaderErrorO9forbiddenyA2CmF" class="token"><code>forbidden</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14MapLoaderErrorO9forbiddenyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-forbidden" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-maploadererror#sdk-for-ios-navigate-s-7heresdk14MapLoaderErrorO9forbiddenyA2CmF" class="token"><code>forbidden</code></a> 
 
   </div>
 
@@ -515,7 +515,7 @@ Specifies possible errors that may result from map downloading/prefetching.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14MapLoaderErrorO07mapDataD0yA2CmF"></span>` `<span id="//apple_ref/swift/Element/mapDataError" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-maploadererror#/s:7heresdk14MapLoaderErrorO07mapDataD0yA2CmF" class="token"><code>mapDataError</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14MapLoaderErrorO07mapDataD0yA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-mapDataError" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-maploadererror#sdk-for-ios-navigate-s-7heresdk14MapLoaderErrorO07mapDataD0yA2CmF" class="token"><code>mapDataError</code></a> 
 
   </div>
 
@@ -559,7 +559,7 @@ Specifies possible errors that may result from map downloading/prefetching.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14MapLoaderErrorO24unexpectedServerResponseyA2CmF"></span>` `<span id="//apple_ref/swift/Element/unexpectedServerResponse" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-maploadererror#/s:7heresdk14MapLoaderErrorO24unexpectedServerResponseyA2CmF" class="token"><code>unexpectedServerResponse</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14MapLoaderErrorO24unexpectedServerResponseyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-unexpectedServerResponse" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-maploadererror#sdk-for-ios-navigate-s-7heresdk14MapLoaderErrorO24unexpectedServerResponseyA2CmF" class="token"><code>unexpectedServerResponse</code></a> 
 
   </div>
 
@@ -603,7 +603,7 @@ Specifies possible errors that may result from map downloading/prefetching.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14MapLoaderErrorO010mapManagerD0yA2CmF"></span>` `<span id="//apple_ref/swift/Element/mapManagerError" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-maploadererror#/s:7heresdk14MapLoaderErrorO010mapManagerD0yA2CmF" class="token"><code>mapManagerError</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14MapLoaderErrorO010mapManagerD0yA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-mapManagerError" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-maploadererror#sdk-for-ios-navigate-s-7heresdk14MapLoaderErrorO010mapManagerD0yA2CmF" class="token"><code>mapManagerError</code></a> 
 
   </div>
 
@@ -647,7 +647,7 @@ Specifies possible errors that may result from map downloading/prefetching.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14MapLoaderErrorO14incompleteDatayA2CmF"></span>` `<span id="//apple_ref/swift/Element/incompleteData" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-maploadererror#/s:7heresdk14MapLoaderErrorO14incompleteDatayA2CmF" class="token"><code>incompleteData</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14MapLoaderErrorO14incompleteDatayA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-incompleteData" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-maploadererror#sdk-for-ios-navigate-s-7heresdk14MapLoaderErrorO14incompleteDatayA2CmF" class="token"><code>incompleteData</code></a> 
 
   </div>
 
@@ -691,7 +691,7 @@ Specifies possible errors that may result from map downloading/prefetching.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14MapLoaderErrorO19serviceAccessFailedyA2CmF"></span>` `<span id="//apple_ref/swift/Element/serviceAccessFailed" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-maploadererror#/s:7heresdk14MapLoaderErrorO19serviceAccessFailedyA2CmF" class="token"><code>serviceAccessFailed</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14MapLoaderErrorO19serviceAccessFailedyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-serviceAccessFailed" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-maploadererror#sdk-for-ios-navigate-s-7heresdk14MapLoaderErrorO19serviceAccessFailedyA2CmF" class="token"><code>serviceAccessFailed</code></a> 
 
   </div>
 
@@ -735,7 +735,7 @@ Specifies possible errors that may result from map downloading/prefetching.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14MapLoaderErrorO08internalD0yA2CmF"></span>` `<span id="//apple_ref/swift/Element/internalError" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-maploadererror#/s:7heresdk14MapLoaderErrorO08internalD0yA2CmF" class="token"><code>internalError</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14MapLoaderErrorO08internalD0yA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-internalError" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-maploadererror#sdk-for-ios-navigate-s-7heresdk14MapLoaderErrorO08internalD0yA2CmF" class="token"><code>internalError</code></a> 
 
   </div>
 
@@ -779,7 +779,7 @@ Specifies possible errors that may result from map downloading/prefetching.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14MapLoaderErrorO7offlineyA2CmF"></span>` `<span id="//apple_ref/swift/Element/offline" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-maploadererror#/s:7heresdk14MapLoaderErrorO7offlineyA2CmF" class="token"><code>offline</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14MapLoaderErrorO7offlineyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-offline" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-maploadererror#sdk-for-ios-navigate-s-7heresdk14MapLoaderErrorO7offlineyA2CmF" class="token"><code>offline</code></a> 
 
   </div>
 
@@ -823,7 +823,7 @@ Specifies possible errors that may result from map downloading/prefetching.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14MapLoaderErrorO07cacheIoD0yA2CmF"></span>` `<span id="//apple_ref/swift/Element/cacheIoError" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-maploadererror#/s:7heresdk14MapLoaderErrorO07cacheIoD0yA2CmF" class="token"><code>cacheIoError</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14MapLoaderErrorO07cacheIoD0yA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-cacheIoError" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-maploadererror#sdk-for-ios-navigate-s-7heresdk14MapLoaderErrorO07cacheIoD0yA2CmF" class="token"><code>cacheIoError</code></a> 
 
   </div>
 
@@ -867,7 +867,7 @@ Specifies possible errors that may result from map downloading/prefetching.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14MapLoaderErrorO23protectedCacheCorruptedyA2CmF"></span>` `<span id="//apple_ref/swift/Element/protectedCacheCorrupted" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-maploadererror#/s:7heresdk14MapLoaderErrorO23protectedCacheCorruptedyA2CmF" class="token"><code>protectedCacheCorrupted</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14MapLoaderErrorO23protectedCacheCorruptedyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-protectedCacheCorrupted" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-maploadererror#sdk-for-ios-navigate-s-7heresdk14MapLoaderErrorO23protectedCacheCorruptedyA2CmF" class="token"><code>protectedCacheCorrupted</code></a> 
 
   </div>
 
@@ -911,7 +911,7 @@ Specifies possible errors that may result from map downloading/prefetching.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14MapLoaderErrorO17migrationRequiredyA2CmF"></span>` `<span id="//apple_ref/swift/Element/migrationRequired" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-maploadererror#/s:7heresdk14MapLoaderErrorO17migrationRequiredyA2CmF" class="token"><code>migrationRequired</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14MapLoaderErrorO17migrationRequiredyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-migrationRequired" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-maploadererror#sdk-for-ios-navigate-s-7heresdk14MapLoaderErrorO17migrationRequiredyA2CmF" class="token"><code>migrationRequired</code></a> 
 
   </div>
 
@@ -955,7 +955,7 @@ Specifies possible errors that may result from map downloading/prefetching.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14MapLoaderErrorO21operationAfterDisposeyA2CmF"></span>` `<span id="//apple_ref/swift/Element/operationAfterDispose" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-maploadererror#/s:7heresdk14MapLoaderErrorO21operationAfterDisposeyA2CmF" class="token"><code>operationAfterDispose</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14MapLoaderErrorO21operationAfterDisposeyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-operationAfterDispose" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-maploadererror#sdk-for-ios-navigate-s-7heresdk14MapLoaderErrorO21operationAfterDisposeyA2CmF" class="token"><code>operationAfterDispose</code></a> 
 
   </div>
 
@@ -999,7 +999,7 @@ Specifies possible errors that may result from map downloading/prefetching.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14MapLoaderErrorO020catalogConfigurationD0yA2CmF"></span>` `<span id="//apple_ref/swift/Element/catalogConfigurationError" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-maploadererror#/s:7heresdk14MapLoaderErrorO020catalogConfigurationD0yA2CmF" class="token"><code>catalogConfigurationError</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14MapLoaderErrorO020catalogConfigurationD0yA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-catalogConfigurationError" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-maploadererror#sdk-for-ios-navigate-s-7heresdk14MapLoaderErrorO020catalogConfigurationD0yA2CmF" class="token"><code>catalogConfigurationError</code></a> 
 
   </div>
 
@@ -1017,7 +1017,7 @@ Specifies possible errors that may result from map downloading/prefetching.
 
   <div class="abstract">
 
-  Misconfiguration of catalogs. This error may occur when `sdk.core.engine.CatalogConfiguration` is misconfigured and cannot be used for any operation with <a href="sdk-for-ios-navigate-classes-mapdownloader">`MapDownloader`</a> or <a href="sdk-for-ios-navigate-classes-mapupdater">`MapUpdater`</a>. Verify <a href="sdk-for-ios-navigate-structs-sdkoptions#/s:7heresdk10SDKOptionsV21catalogConfigurationsSayAA20CatalogConfigurationVGvp">`SDKOptions.catalogConfigurations`</a>.
+  Misconfiguration of catalogs. This error may occur when `sdk.core.engine.CatalogConfiguration` is misconfigured and cannot be used for any operation with <a href="sdk-for-ios-navigate-classes-mapdownloader">`MapDownloader`</a> or <a href="sdk-for-ios-navigate-classes-mapupdater">`MapUpdater`</a>. Verify <a href="sdk-for-ios-navigate-structs-sdkoptions#sdk-for-ios-navigate-s-7heresdk10SDKOptionsV21catalogConfigurationsSayAA20CatalogConfigurationVGvp">`SDKOptions.catalogConfigurations`</a>.
 
   </div>
 
@@ -1043,7 +1043,7 @@ Specifies possible errors that may result from map downloading/prefetching.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14MapLoaderErrorO13pendingUpdateyA2CmF"></span>` `<span id="//apple_ref/swift/Element/pendingUpdate" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-maploadererror#/s:7heresdk14MapLoaderErrorO13pendingUpdateyA2CmF" class="token"><code>pendingUpdate</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14MapLoaderErrorO13pendingUpdateyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-pendingUpdate" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-maploadererror#sdk-for-ios-navigate-s-7heresdk14MapLoaderErrorO13pendingUpdateyA2CmF" class="token"><code>pendingUpdate</code></a> 
 
   </div>
 
@@ -1087,7 +1087,7 @@ Specifies possible errors that may result from map downloading/prefetching.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14MapLoaderErrorO29updateBlockedAsAnotherPendingyA2CmF"></span>` `<span id="//apple_ref/swift/Element/updateBlockedAsAnotherPending" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-maploadererror#/s:7heresdk14MapLoaderErrorO29updateBlockedAsAnotherPendingyA2CmF" class="token"><code>updateBlockedAsAnotherPending</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14MapLoaderErrorO29updateBlockedAsAnotherPendingyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-updateBlockedAsAnotherPending" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-maploadererror#sdk-for-ios-navigate-s-7heresdk14MapLoaderErrorO29updateBlockedAsAnotherPendingyA2CmF" class="token"><code>updateBlockedAsAnotherPending</code></a> 
 
   </div>
 
@@ -1131,7 +1131,7 @@ Specifies possible errors that may result from map downloading/prefetching.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14MapLoaderErrorO12brokenUpdateyA2CmF"></span>` `<span id="//apple_ref/swift/Element/brokenUpdate" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-maploadererror#/s:7heresdk14MapLoaderErrorO12brokenUpdateyA2CmF" class="token"><code>brokenUpdate</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14MapLoaderErrorO12brokenUpdateyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-brokenUpdate" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-maploadererror#sdk-for-ios-navigate-s-7heresdk14MapLoaderErrorO12brokenUpdateyA2CmF" class="token"><code>brokenUpdate</code></a> 
 
   </div>
 
@@ -1175,7 +1175,7 @@ Specifies possible errors that may result from map downloading/prefetching.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14MapLoaderErrorO15parallelRequestyA2CmF"></span>` `<span id="//apple_ref/swift/Element/parallelRequest" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-maploadererror#/s:7heresdk14MapLoaderErrorO15parallelRequestyA2CmF" class="token"><code>parallelRequest</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14MapLoaderErrorO15parallelRequestyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-parallelRequest" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-maploadererror#sdk-for-ios-navigate-s-7heresdk14MapLoaderErrorO15parallelRequestyA2CmF" class="token"><code>parallelRequest</code></a> 
 
   </div>
 
@@ -1219,7 +1219,7 @@ Specifies possible errors that may result from map downloading/prefetching.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14MapLoaderErrorO25proxyAuthenticationFailedyA2CmF"></span>` `<span id="//apple_ref/swift/Element/proxyAuthenticationFailed" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-maploadererror#/s:7heresdk14MapLoaderErrorO25proxyAuthenticationFailedyA2CmF" class="token"><code>proxyAuthenticationFailed</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14MapLoaderErrorO25proxyAuthenticationFailedyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-proxyAuthenticationFailed" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-maploadererror#sdk-for-ios-navigate-s-7heresdk14MapLoaderErrorO25proxyAuthenticationFailedyA2CmF" class="token"><code>proxyAuthenticationFailed</code></a> 
 
   </div>
 
@@ -1263,7 +1263,7 @@ Specifies possible errors that may result from map downloading/prefetching.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14MapLoaderErrorO22proxyServerUnreachableyA2CmF"></span>` `<span id="//apple_ref/swift/Element/proxyServerUnreachable" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-maploadererror#/s:7heresdk14MapLoaderErrorO22proxyServerUnreachableyA2CmF" class="token"><code>proxyServerUnreachable</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14MapLoaderErrorO22proxyServerUnreachableyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-proxyServerUnreachable" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-maploadererror#sdk-for-ios-navigate-s-7heresdk14MapLoaderErrorO22proxyServerUnreachableyA2CmF" class="token"><code>proxyServerUnreachable</code></a> 
 
   </div>
 
@@ -1307,7 +1307,7 @@ Specifies possible errors that may result from map downloading/prefetching.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14MapLoaderErrorO14notEnoughSpaceyA2CmF"></span>` `<span id="//apple_ref/swift/Element/notEnoughSpace" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-maploadererror#/s:7heresdk14MapLoaderErrorO14notEnoughSpaceyA2CmF" class="token"><code>notEnoughSpace</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14MapLoaderErrorO14notEnoughSpaceyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-notEnoughSpace" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-maploadererror#sdk-for-ios-navigate-s-7heresdk14MapLoaderErrorO14notEnoughSpaceyA2CmF" class="token"><code>notEnoughSpace</code></a> 
 
   </div>
 
@@ -1351,7 +1351,7 @@ Specifies possible errors that may result from map downloading/prefetching.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14MapLoaderErrorO18onlineNavigateOnlyyA2CmF"></span>` `<span id="//apple_ref/swift/Element/onlineNavigateOnly" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-maploadererror#/s:7heresdk14MapLoaderErrorO18onlineNavigateOnlyyA2CmF" class="token"><code>onlineNavigateOnly</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14MapLoaderErrorO18onlineNavigateOnlyyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-onlineNavigateOnly" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-maploadererror#sdk-for-ios-navigate-s-7heresdk14MapLoaderErrorO18onlineNavigateOnlyyA2CmF" class="token"><code>onlineNavigateOnly</code></a> 
 
   </div>
 

@@ -27,7 +27,7 @@ Taxi specific settings.
 
 - <div>
 
-  ` `<span id="/s:7heresdk17TaxiSpecificationV017allowDriveThroughB5RoadsSbvp"></span>` `<span id="//apple_ref/swift/Property/allowDriveThroughTaxiRoads" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-taxispecification#/s:7heresdk17TaxiSpecificationV017allowDriveThroughB5RoadsSbvp" class="token"><code>allowDriveThroughTaxiRoads</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk17TaxiSpecificationV017allowDriveThroughB5RoadsSbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-allowDriveThroughTaxiRoads" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-taxispecification#sdk-for-ios-navigate-s-7heresdk17TaxiSpecificationV017allowDriveThroughB5RoadsSbvp" class="token"><code>allowDriveThroughTaxiRoads</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Taxi specific settings.
 
 - <div>
 
-      init(allowDriveThroughTaxiRoads: )
+   <span id="sdk-for-ios-navigate-s-7heresdk17TaxiSpecificationV017allowDriveThroughB5RoadsACSb_tcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-allowDriveThroughTaxiRoads" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-taxispecification#sdk-for-ios-navigate-s-7heresdk17TaxiSpecificationV017allowDriveThroughB5RoadsACSb_tcfc" class="token"><code>init(allowDriveThroughTaxiRoads:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -102,10 +102,8 @@ Taxi specific settings.
   Swift
 
   ``` highlight
-  public init ( allowDriveThroughTaxiRoads : Bool = true )
+  public init(allowDriveThroughTaxiRoads: Bool = true)
   ```
-
-  </pre>
 
   </div>
 

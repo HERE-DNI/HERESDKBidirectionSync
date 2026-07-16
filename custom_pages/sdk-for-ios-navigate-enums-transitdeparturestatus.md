@@ -27,7 +27,7 @@ Status of a departure.
 
 - <div>
 
-  ` `<span id="/s:7heresdk22TransitDepartureStatusO9scheduledyA2CmF"></span>` `<span id="//apple_ref/swift/Element/scheduled" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-transitdeparturestatus#/s:7heresdk22TransitDepartureStatusO9scheduledyA2CmF" class="token"><code>scheduled</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk22TransitDepartureStatusO9scheduledyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-scheduled" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-transitdeparturestatus#sdk-for-ios-navigate-s-7heresdk22TransitDepartureStatusO9scheduledyA2CmF" class="token"><code>scheduled</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Status of a departure.
 
 - <div>
 
-  ` `<span id="/s:7heresdk22TransitDepartureStatusO9cancelledyA2CmF"></span>` `<span id="//apple_ref/swift/Element/cancelled" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-transitdeparturestatus#/s:7heresdk22TransitDepartureStatusO9cancelledyA2CmF" class="token"><code>cancelled</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk22TransitDepartureStatusO9cancelledyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-cancelled" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-transitdeparturestatus#sdk-for-ios-navigate-s-7heresdk22TransitDepartureStatusO9cancelledyA2CmF" class="token"><code>cancelled</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Status of a departure.
 
 - <div>
 
-  ` `<span id="/s:7heresdk22TransitDepartureStatusO10additionalyA2CmF"></span>` `<span id="//apple_ref/swift/Element/additional" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-transitdeparturestatus#/s:7heresdk22TransitDepartureStatusO10additionalyA2CmF" class="token"><code>additional</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk22TransitDepartureStatusO10additionalyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-additional" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-transitdeparturestatus#sdk-for-ios-navigate-s-7heresdk22TransitDepartureStatusO10additionalyA2CmF" class="token"><code>additional</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Status of a departure.
 
 - <div>
 
-  ` `<span id="/s:7heresdk22TransitDepartureStatusO8replacedyA2CmF"></span>` `<span id="//apple_ref/swift/Element/replaced" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-transitdeparturestatus#/s:7heresdk22TransitDepartureStatusO8replacedyA2CmF" class="token"><code>replaced</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk22TransitDepartureStatusO8replacedyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-replaced" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-transitdeparturestatus#sdk-for-ios-navigate-s-7heresdk22TransitDepartureStatusO8replacedyA2CmF" class="token"><code>replaced</code></a> 
 
   </div>
 

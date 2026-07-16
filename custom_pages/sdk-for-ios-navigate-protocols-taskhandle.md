@@ -27,7 +27,7 @@ Handle used for the manipulation of the task.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10TaskHandleP10isFinishedSbvp"></span>` `<span id="//apple_ref/swift/Property/isFinished" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-protocols-taskhandle#/s:7heresdk10TaskHandleP10isFinishedSbvp" class="token"><code>isFinished</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10TaskHandleP10isFinishedSbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-isFinished" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-protocols-taskhandle#sdk-for-ios-navigate-s-7heresdk10TaskHandleP10isFinishedSbvp" class="token"><code>isFinished</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Handle used for the manipulation of the task.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10TaskHandleP11isCancelledSbvp"></span>` `<span id="//apple_ref/swift/Property/isCancelled" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-protocols-taskhandle#/s:7heresdk10TaskHandleP11isCancelledSbvp" class="token"><code>isCancelled</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10TaskHandleP11isCancelledSbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-isCancelled" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-protocols-taskhandle#sdk-for-ios-navigate-s-7heresdk10TaskHandleP11isCancelledSbvp" class="token"><code>isCancelled</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Handle used for the manipulation of the task.
 
 - <div>
 
-      cancel()
+   <span id="sdk-for-ios-navigate-s-7heresdk10TaskHandleP6cancelSbyF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-cancel" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-protocols-taskhandle#sdk-for-ios-navigate-s-7heresdk10TaskHandleP6cancelSbyF" class="token"><code>cancel()</code></a> 
 
   </div>
 
@@ -146,10 +146,8 @@ Handle used for the manipulation of the task.
   Swift
 
   ``` highlight
-  func cancel () -> Bool
+  func cancel() -> Bool
   ```
-
-  </pre>
 
   </div>
 

@@ -27,7 +27,7 @@ Specifies type of interpolation performed between keyframes.
 
 - <div>
 
-  ` `<span id="/s:7heresdk25KeyframeInterpolationModeO4stepyA2CmF"></span>` `<span id="//apple_ref/swift/Element/step" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-keyframeinterpolationmode#/s:7heresdk25KeyframeInterpolationModeO4stepyA2CmF" class="token"><code>step</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk25KeyframeInterpolationModeO4stepyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-step" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-keyframeinterpolationmode#sdk-for-ios-explore-s-7heresdk25KeyframeInterpolationModeO4stepyA2CmF" class="token"><code>step</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Specifies type of interpolation performed between keyframes.
 
 - <div>
 
-  ` `<span id="/s:7heresdk25KeyframeInterpolationModeO6linearyA2CmF"></span>` `<span id="//apple_ref/swift/Element/linear" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-keyframeinterpolationmode#/s:7heresdk25KeyframeInterpolationModeO6linearyA2CmF" class="token"><code>linear</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk25KeyframeInterpolationModeO6linearyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-linear" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-keyframeinterpolationmode#sdk-for-ios-explore-s-7heresdk25KeyframeInterpolationModeO6linearyA2CmF" class="token"><code>linear</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Specifies type of interpolation performed between keyframes.
 
 - <div>
 
-  ` `<span id="/s:7heresdk25KeyframeInterpolationModeO6smoothyA2CmF"></span>` `<span id="//apple_ref/swift/Element/smooth" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-keyframeinterpolationmode#/s:7heresdk25KeyframeInterpolationModeO6smoothyA2CmF" class="token"><code>smooth</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk25KeyframeInterpolationModeO6smoothyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-smooth" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-keyframeinterpolationmode#sdk-for-ios-explore-s-7heresdk25KeyframeInterpolationModeO6smoothyA2CmF" class="token"><code>smooth</code></a> 
 
   </div>
 

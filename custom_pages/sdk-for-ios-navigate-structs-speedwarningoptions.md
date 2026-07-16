@@ -27,7 +27,7 @@ A struct that contains all options to be used for the speed limit warnings.
 
 - <div>
 
-  ` `<span id="/s:7heresdk19SpeedWarningOptionsV16speedLimitOffsetAA0bfG0Vvp"></span>` `<span id="//apple_ref/swift/Property/speedLimitOffset" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-speedwarningoptions#/s:7heresdk19SpeedWarningOptionsV16speedLimitOffsetAA0bfG0Vvp" class="token"><code>speedLimitOffset</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19SpeedWarningOptionsV16speedLimitOffsetAA0bfG0Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-speedLimitOffset" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-speedwarningoptions#sdk-for-ios-navigate-s-7heresdk19SpeedWarningOptionsV16speedLimitOffsetAA0bfG0Vvp" class="token"><code>speedLimitOffset</code></a> 
 
   </div>
 
@@ -63,6 +63,10 @@ A struct that contains all options to be used for the speed limit warnings.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-speedlimitoffset">SpeedLimitOffset</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ A struct that contains all options to be used for the speed limit warnings.
 
 - <div>
 
-      init(speedLimitOffset: )
+   <span id="sdk-for-ios-navigate-s-7heresdk19SpeedWarningOptionsV16speedLimitOffsetAcA0bfG0V_tcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-speedLimitOffset" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-speedwarningoptions#sdk-for-ios-navigate-s-7heresdk19SpeedWarningOptionsV16speedLimitOffsetAcA0bfG0V_tcfc" class="token"><code>init(speedLimitOffset:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -102,12 +106,14 @@ A struct that contains all options to be used for the speed limit warnings.
   Swift
 
   ``` highlight
-  public init ( speedLimitOffset : SpeedLimitOffset )
+  public init(speedLimitOffset: SpeedLimitOffset)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-speedlimitoffset">SpeedLimitOffset</a>
 
   </div>
 

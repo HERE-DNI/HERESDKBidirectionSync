@@ -29,7 +29,7 @@ The pinned view will automatically be repositioned on the screen as the map move
 
 - <div>
 
-  ` `<span id="/s:7heresdk7MapViewC0C3PinC4viewSo6UIViewCvp"></span>` `<span id="//apple_ref/swift/Property/view" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-mapview-viewpin#/s:7heresdk7MapViewC0C3PinC4viewSo6UIViewCvp" class="token"><code>view</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk7MapViewC0C3PinC4viewSo6UIViewCvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-view" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapview-viewpin#sdk-for-ios-explore-s-7heresdk7MapViewC0C3PinC4viewSo6UIViewCvp" class="token"><code>view</code></a> 
 
   </div>
 
@@ -60,10 +60,8 @@ The pinned view will automatically be repositioned on the screen as the map move
   Swift
 
   ``` highlight
-  public private(set) var view : UIView { get }
+  public private(set) var view: UIView { get }
   ```
-
-  </pre>
 
   </div>
 
@@ -75,7 +73,7 @@ The pinned view will automatically be repositioned on the screen as the map move
 
 - <div>
 
-  ` `<span id="/s:7heresdk7MapViewC0C3PinC14geoCoordinatesAA03GeoF0Vvp"></span>` `<span id="//apple_ref/swift/Property/geoCoordinates" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-mapview-viewpin#/s:7heresdk7MapViewC0C3PinC14geoCoordinatesAA03GeoF0Vvp" class="token"><code>geoCoordinates</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk7MapViewC0C3PinC14geoCoordinatesAA03GeoF0Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-geoCoordinates" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapview-viewpin#sdk-for-ios-explore-s-7heresdk7MapViewC0C3PinC14geoCoordinatesAA03GeoF0Vvp" class="token"><code>geoCoordinates</code></a> 
 
   </div>
 
@@ -113,6 +111,10 @@ The pinned view will automatically be repositioned on the screen as the map move
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geocoordinates">GeoCoordinates</a>
+
   </div>
 
   </div>
@@ -121,7 +123,7 @@ The pinned view will automatically be repositioned on the screen as the map move
 
 - <div>
 
-      unpin()
+   <span id="sdk-for-ios-explore-s-7heresdk7MapViewC0C3PinC5unpinyyF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-unpin" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapview-viewpin#sdk-for-ios-explore-s-7heresdk7MapViewC0C3PinC5unpinyyF" class="token"><code>unpin()</code></a> 
 
   </div>
 
@@ -152,10 +154,8 @@ The pinned view will automatically be repositioned on the screen as the map move
   Swift
 
   ``` highlight
-  public func unpin ()
+  public func unpin()
   ```
-
-  </pre>
 
   </div>
 

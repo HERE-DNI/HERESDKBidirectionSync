@@ -27,7 +27,7 @@ Contains information about rating and a url to review.
 
 - <div>
 
-  ` `<span id="/s:7heresdk9WebRatingV5counts5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/count" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-webrating#/s:7heresdk9WebRatingV5counts5Int32Vvp" class="token"><code>count</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9WebRatingV5counts5Int32Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-count" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-webrating#sdk-for-ios-navigate-s-7heresdk9WebRatingV5counts5Int32Vvp" class="token"><code>count</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Contains information about rating and a url to review.
 
 - <div>
 
-  ` `<span id="/s:7heresdk9WebRatingV7averageSdvp"></span>` `<span id="//apple_ref/swift/Property/average" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-webrating#/s:7heresdk9WebRatingV7averageSdvp" class="token"><code>average</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9WebRatingV7averageSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-average" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-webrating#sdk-for-ios-navigate-s-7heresdk9WebRatingV7averageSdvp" class="token"><code>average</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Contains information about rating and a url to review.
 
 - <div>
 
-  ` `<span id="/s:7heresdk9WebRatingV6sourceAA0B6SourceVvp"></span>` `<span id="//apple_ref/swift/Property/source" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-webrating#/s:7heresdk9WebRatingV6sourceAA0B6SourceVvp" class="token"><code>source</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9WebRatingV6sourceAA0B6SourceVvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-source" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-webrating#sdk-for-ios-navigate-s-7heresdk9WebRatingV6sourceAA0B6SourceVvp" class="token"><code>source</code></a> 
 
   </div>
 
@@ -151,6 +151,10 @@ Contains information about rating and a url to review.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-websource">WebSource</a>
+
   </div>
 
   </div>
@@ -159,7 +163,7 @@ Contains information about rating and a url to review.
 
 - <div>
 
-      init(count: average: source: )
+   <span id="sdk-for-ios-navigate-s-7heresdk9WebRatingV5count7average6sourceACs5Int32V_SdAA0B6SourceVtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-count-average-source" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-webrating#sdk-for-ios-navigate-s-7heresdk9WebRatingV5count7average6sourceACs5Int32V_SdAA0B6SourceVtcfc" class="token"><code>init(count:</code><wbr></wbr><code>average:</code><wbr></wbr><code>source:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -190,12 +194,14 @@ Contains information about rating and a url to review.
   Swift
 
   ``` highlight
-  public init ( count : Int32 , average : Double , source : WebSource )
+  public init(count: Int32, average: Double, source: WebSource)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-websource">WebSource</a>
 
   </div>
 
@@ -205,7 +211,7 @@ Contains information about rating and a url to review.
 
 - <div>
 
-      init()
+   <span id="sdk-for-ios-navigate-s-7heresdk9WebRatingVACycfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-webrating#sdk-for-ios-navigate-s-7heresdk9WebRatingVACycfc" class="token"><code>init()</code></a> 
 
   </div>
 
@@ -236,10 +242,8 @@ Contains information about rating and a url to review.
   Swift
 
   ``` highlight
-  public init ()
+  public init()
   ```
-
-  </pre>
 
   </div>
 

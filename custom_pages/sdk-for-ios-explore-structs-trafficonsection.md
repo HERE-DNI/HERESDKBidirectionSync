@@ -27,7 +27,7 @@ Traffic information on a section.
 
 - <div>
 
-  ` `<span id="/s:7heresdk16TrafficOnSectionV8geometrySayAA14GeoCoordinatesVGvp"></span>` `<span id="//apple_ref/swift/Property/geometry" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-trafficonsection#/s:7heresdk16TrafficOnSectionV8geometrySayAA14GeoCoordinatesVGvp" class="token"><code>geometry</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16TrafficOnSectionV8geometrySayAA14GeoCoordinatesVGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-geometry" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-trafficonsection#sdk-for-ios-explore-s-7heresdk16TrafficOnSectionV8geometrySayAA14GeoCoordinatesVGvp" class="token"><code>geometry</code></a> 
 
   </div>
 
@@ -63,6 +63,10 @@ Traffic information on a section.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geocoordinates">GeoCoordinates</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ Traffic information on a section.
 
 - <div>
 
-  ` `<span id="/s:7heresdk16TrafficOnSectionV12trafficSpansSayAA0bC4SpanVGvp"></span>` `<span id="//apple_ref/swift/Property/trafficSpans" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-trafficonsection#/s:7heresdk16TrafficOnSectionV12trafficSpansSayAA0bC4SpanVGvp" class="token"><code>trafficSpans</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16TrafficOnSectionV12trafficSpansSayAA0bC4SpanVGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-trafficSpans" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-trafficonsection#sdk-for-ios-explore-s-7heresdk16TrafficOnSectionV12trafficSpansSayAA0bC4SpanVGvp" class="token"><code>trafficSpans</code></a> 
 
   </div>
 
@@ -107,6 +111,10 @@ Traffic information on a section.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-trafficonspan">TrafficOnSpan</a>
+
   </div>
 
   </div>
@@ -115,7 +123,7 @@ Traffic information on a section.
 
 - <div>
 
-  ` `<span id="/s:7heresdk16TrafficOnSectionV16trafficIncidentsSayAA0b8IncidentC5RouteCGvp"></span>` `<span id="//apple_ref/swift/Property/trafficIncidents" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-trafficonsection#/s:7heresdk16TrafficOnSectionV16trafficIncidentsSayAA0b8IncidentC5RouteCGvp" class="token"><code>trafficIncidents</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16TrafficOnSectionV16trafficIncidentsSayAA0b8IncidentC5RouteCGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-trafficIncidents" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-trafficonsection#sdk-for-ios-explore-s-7heresdk16TrafficOnSectionV16trafficIncidentsSayAA0b8IncidentC5RouteCGvp" class="token"><code>trafficIncidents</code></a> 
 
   </div>
 
@@ -151,6 +159,10 @@ Traffic information on a section.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-trafficincidentonroute">TrafficIncidentOnRoute</a>
+
   </div>
 
   </div>
@@ -159,7 +171,7 @@ Traffic information on a section.
 
 - <div>
 
-  ` `<span id="/s:7heresdk16TrafficOnSectionV14departurePlaceAA05RouteF0Vvp"></span>` `<span id="//apple_ref/swift/Property/departurePlace" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-trafficonsection#/s:7heresdk16TrafficOnSectionV14departurePlaceAA05RouteF0Vvp" class="token"><code>departurePlace</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16TrafficOnSectionV14departurePlaceAA05RouteF0Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-departurePlace" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-trafficonsection#sdk-for-ios-explore-s-7heresdk16TrafficOnSectionV14departurePlaceAA05RouteF0Vvp" class="token"><code>departurePlace</code></a> 
 
   </div>
 
@@ -195,6 +207,10 @@ Traffic information on a section.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-routeplace">RoutePlace</a>
+
   </div>
 
   </div>
@@ -203,7 +219,7 @@ Traffic information on a section.
 
 - <div>
 
-  ` `<span id="/s:7heresdk16TrafficOnSectionV12arrivalPlaceAA05RouteF0Vvp"></span>` `<span id="//apple_ref/swift/Property/arrivalPlace" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-trafficonsection#/s:7heresdk16TrafficOnSectionV12arrivalPlaceAA05RouteF0Vvp" class="token"><code>arrivalPlace</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16TrafficOnSectionV12arrivalPlaceAA05RouteF0Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-arrivalPlace" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-trafficonsection#sdk-for-ios-explore-s-7heresdk16TrafficOnSectionV12arrivalPlaceAA05RouteF0Vvp" class="token"><code>arrivalPlace</code></a> 
 
   </div>
 
@@ -239,6 +255,10 @@ Traffic information on a section.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-routeplace">RoutePlace</a>
+
   </div>
 
   </div>
@@ -247,7 +267,7 @@ Traffic information on a section.
 
 - <div>
 
-      init(geometry: trafficSpans: trafficIncidents: departurePlace: arrivalPlace: )
+   <span id="sdk-for-ios-explore-s-7heresdk16TrafficOnSectionV8geometry12trafficSpans0F9Incidents14departurePlace07arrivalJ0ACSayAA14GeoCoordinatesVG_SayAA0bC4SpanVGSayAA0b8IncidentC5RouteCGAA0pJ0VAStcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-geometry-trafficSpans-trafficIncidents-departurePlace-arrivalPlace" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-trafficonsection#sdk-for-ios-explore-s-7heresdk16TrafficOnSectionV8geometry12trafficSpans0F9Incidents14departurePlace07arrivalJ0ACSayAA14GeoCoordinatesVG_SayAA0bC4SpanVGSayAA0b8IncidentC5RouteCGAA0pJ0VAStcfc" class="token"><code>init(geometry:</code><wbr></wbr><code>trafficSpans:</code><wbr></wbr><code>trafficIncidents:</code><wbr></wbr><code>departurePlace:</code><wbr></wbr><code>arrivalPlace:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -278,12 +298,17 @@ Traffic information on a section.
   Swift
 
   ``` highlight
-  public init ( geometry : [ GeoCoordinates ] = [], trafficSpans : [ TrafficOnSpan ] = [], trafficIncidents : [ TrafficIncidentOnRoute ] = [], departurePlace : RoutePlace , arrivalPlace : RoutePlace )
+  public init(geometry: [GeoCoordinates] = [], trafficSpans: [TrafficOnSpan] = [], trafficIncidents: [TrafficIncidentOnRoute] = [], departurePlace: RoutePlace, arrivalPlace: RoutePlace)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geocoordinates">GeoCoordinates</a>
+  - <a href="sdk-for-ios-explore-structs-trafficonspan">TrafficOnSpan</a>
+  - <a href="sdk-for-ios-explore-classes-trafficincidentonroute">TrafficIncidentOnRoute</a>
+  - <a href="sdk-for-ios-explore-structs-routeplace">RoutePlace</a>
 
   </div>
 

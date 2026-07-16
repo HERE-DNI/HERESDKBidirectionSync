@@ -35,7 +35,7 @@ Represents version of the map.
 
 - <div>
 
-      stringRepresentation(separator: )
+   <span id="sdk-for-ios-navigate-s-7heresdk16MapVersionHandleC20stringRepresentation9separatorS2S_tF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-stringRepresentation-separator" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapversionhandle#sdk-for-ios-navigate-s-7heresdk16MapVersionHandleC20stringRepresentation9separatorS2S_tF" class="token"><code>stringRepresentation(separator:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -66,10 +66,8 @@ Represents version of the map.
   Swift
 
   ``` highlight
-  public func stringRepresentation ( separator : String ) -> String
+  public func stringRepresentation(separator: String) -> String
   ```
-
-  </pre>
 
   </div>
 

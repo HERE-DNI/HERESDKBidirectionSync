@@ -27,7 +27,7 @@ Content types supported by the map.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14MapContentTypeO11rasterImageyA2CmF"></span>` `<span id="//apple_ref/swift/Element/rasterImage" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-mapcontenttype#/s:7heresdk14MapContentTypeO11rasterImageyA2CmF" class="token"><code>rasterImage</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14MapContentTypeO11rasterImageyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-rasterImage" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-mapcontenttype#sdk-for-ios-navigate-s-7heresdk14MapContentTypeO11rasterImageyA2CmF" class="token"><code>rasterImage</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Content types supported by the map.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14MapContentTypeO4lineyA2CmF"></span>` `<span id="//apple_ref/swift/Element/line" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-mapcontenttype#/s:7heresdk14MapContentTypeO4lineyA2CmF" class="token"><code>line</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14MapContentTypeO4lineyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-line" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-mapcontenttype#sdk-for-ios-navigate-s-7heresdk14MapContentTypeO4lineyA2CmF" class="token"><code>line</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Content types supported by the map.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14MapContentTypeO7polygonyA2CmF"></span>` `<span id="//apple_ref/swift/Element/polygon" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-mapcontenttype#/s:7heresdk14MapContentTypeO7polygonyA2CmF" class="token"><code>polygon</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14MapContentTypeO7polygonyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-polygon" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-mapcontenttype#sdk-for-ios-navigate-s-7heresdk14MapContentTypeO7polygonyA2CmF" class="token"><code>polygon</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Content types supported by the map.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14MapContentTypeO5pointyA2CmF"></span>` `<span id="//apple_ref/swift/Element/point" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-mapcontenttype#/s:7heresdk14MapContentTypeO5pointyA2CmF" class="token"><code>point</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14MapContentTypeO5pointyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-point" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-mapcontenttype#sdk-for-ios-navigate-s-7heresdk14MapContentTypeO5pointyA2CmF" class="token"><code>point</code></a> 
 
   </div>
 

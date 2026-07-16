@@ -27,7 +27,7 @@ Indicates the type of the natural guidance element.
 
 - <div>
 
-  ` `<span id="/s:7heresdk19NaturalGuidanceTypeO8stopSignyA2CmF"></span>` `<span id="//apple_ref/swift/Element/stopSign" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-naturalguidancetype#/s:7heresdk19NaturalGuidanceTypeO8stopSignyA2CmF" class="token"><code>stopSign</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19NaturalGuidanceTypeO8stopSignyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-stopSign" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-naturalguidancetype#sdk-for-ios-navigate-s-7heresdk19NaturalGuidanceTypeO8stopSignyA2CmF" class="token"><code>stopSign</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Indicates the type of the natural guidance element.
 
 - <div>
 
-  ` `<span id="/s:7heresdk19NaturalGuidanceTypeO12trafficLightyA2CmF"></span>` `<span id="//apple_ref/swift/Element/trafficLight" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-naturalguidancetype#/s:7heresdk19NaturalGuidanceTypeO12trafficLightyA2CmF" class="token"><code>trafficLight</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19NaturalGuidanceTypeO12trafficLightyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-trafficLight" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-naturalguidancetype#sdk-for-ios-navigate-s-7heresdk19NaturalGuidanceTypeO12trafficLightyA2CmF" class="token"><code>trafficLight</code></a> 
 
   </div>
 

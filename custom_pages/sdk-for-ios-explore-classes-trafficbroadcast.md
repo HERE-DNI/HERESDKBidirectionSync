@@ -23,23 +23,17 @@ extension TrafficBroadcast: Hashable
 
 </div>
 
+Related types:
+
+- <a href="sdk-for-ios-explore-protocols-locationdelegate">LocationDelegate</a>
+
 </div>
 
-A `TrafficBroadcast` is expecting the <a href="https://en.wikipedia.org/wiki/Traffic_message_channel">RDS-TMC</a> format and it can be used when there is no internet connection, so that the <a href="sdk-for-ios-explore-classes-offlineroutingengine">`OfflineRoutingEngine`</a> can utilize traffic data coming over a radio channel. The
+A `TrafficBroadcast` is expecting the <a href="https://en.wikipedia.org/wiki/Traffic_message_channel">RDS-TMC</a> format and it can be used when there is no internet connection, so that the <a href="sdk-for-ios-explore-classes-offlineroutingengine">`OfflineRoutingEngine`</a> can utilize traffic data coming over a radio channel. The <a href="sdk-for-ios-explore-classes-trafficbroadcast#sdk-for-ios-explore-s-7heresdk16TrafficBroadcastC8activateyyF">`TrafficBroadcast.activate(...)`</a> method needs to be called to receive traffic data events.
 
-    TrafficBroadcast.activate(...)
+**Note:** In order to adopt the <a href="sdk-for-ios-explore-traffic#sdk-for-ios-explore-s-7heresdk19TrafficDataProviderC">`TrafficDataProvider`</a> interface special hardware is required. Talk to your HERE representative for more details. Only by adopting the <a href="sdk-for-ios-explore-traffic#sdk-for-ios-explore-s-7heresdk19TrafficDataProviderC">`TrafficDataProvider`</a> interface you can integrate radio station signals providing traffic broadcasts. Traffic broadcasts are meant to be used *independently* from the already included traffic on routes, on the map and from the HERE backends (when using the <a href="sdk-for-ios-explore-classes-trafficengine">`TrafficEngine`</a>).
 
-method needs to be called to receive traffic data events.
-</p>
-
-**Note:** In order to adopt the <a href="sdk-for-ios-explore-traffic#/s:7heresdk19TrafficDataProviderC">`TrafficDataProvider`</a> interface special hardware is required. Talk to your HERE representative for more details. Only by adopting the <a href="sdk-for-ios-explore-traffic#/s:7heresdk19TrafficDataProviderC">`TrafficDataProvider`</a> interface you can integrate radio station signals providing traffic broadcasts. Traffic broadcasts are meant to be used *independently* from the already included traffic on routes, on the map and from the HERE backends (when using the <a href="sdk-for-ios-explore-classes-trafficengine">`TrafficEngine`</a>).
-
-This class continuously reacts to new locations provided from a location source and acts as a <a href="sdk-for-ios-explore-protocols-locationdelegate">`LocationDelegate`</a>. The location must be updated regardless of calling
-
-    TrafficBroadcast.activate(...)
-
-.
-</p>
+This class continuously reacts to new locations provided from a location source and acts as a <a href="sdk-for-ios-explore-protocols-locationdelegate">`LocationDelegate`</a>. The location must be updated regardless of calling <a href="sdk-for-ios-explore-classes-trafficbroadcast#sdk-for-ios-explore-s-7heresdk16TrafficBroadcastC8activateyyF">`TrafficBroadcast.activate(...)`</a>.
 
 **Note:** This is a beta release of this feature, so there could be a few bugs and unexpected behaviors. Related APIs may change for new releases without a deprecation process.
 
@@ -51,7 +45,7 @@ This class continuously reacts to new locations provided from a location source 
 
 - <div>
 
-      init(parameters: )
+   <span id="sdk-for-ios-explore-s-7heresdk16TrafficBroadcastC10parametersAcA0bC10ParametersV_tKcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-parameters" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-trafficbroadcast#sdk-for-ios-explore-s-7heresdk16TrafficBroadcastC10parametersAcA0bC10ParametersV_tKcfc" class="token"><code>init(parameters:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -75,7 +69,7 @@ This class continuously reacts to new locations provided from a location source 
 
   Throws
 
-  <a href="sdk-for-ios-explore-core#/s:7heresdk18InstantiationErrora">`InstantiationError`</a> when the object was not initialized properly.
+  <a href="sdk-for-ios-explore-core#sdk-for-ios-explore-s-7heresdk18InstantiationErrora">`InstantiationError`</a> when the object was not initialized properly.
 
   </div>
 
@@ -90,12 +84,14 @@ This class continuously reacts to new locations provided from a location source 
   Swift
 
   ``` highlight
-  public init ( parameters : TrafficBroadcastParameters ) throws
+  public init(parameters: TrafficBroadcastParameters) throws
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-trafficbroadcastparameters">TrafficBroadcastParameters</a>
 
   </div>
 
@@ -126,7 +122,7 @@ This class continuously reacts to new locations provided from a location source 
 
 - <div>
 
-      init(_: parameters: )
+   <span id="sdk-for-ios-explore-s-7heresdk16TrafficBroadcastC_10parametersAcA15SDKNativeEngineC_AA0bC10ParametersVtKcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-_-parameters" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-trafficbroadcast#sdk-for-ios-explore-s-7heresdk16TrafficBroadcastC_10parametersAcA15SDKNativeEngineC_AA0bC10ParametersVtKcfc" class="token"><code>init(_:</code><wbr></wbr><code>parameters:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -150,7 +146,7 @@ This class continuously reacts to new locations provided from a location source 
 
   Throws
 
-  <a href="sdk-for-ios-explore-core#/s:7heresdk18InstantiationErrora">`InstantiationError`</a> when the object was not initialized properly.
+  <a href="sdk-for-ios-explore-core#sdk-for-ios-explore-s-7heresdk18InstantiationErrora">`InstantiationError`</a> when the object was not initialized properly.
 
   </div>
 
@@ -165,12 +161,15 @@ This class continuously reacts to new locations provided from a location source 
   Swift
 
   ``` highlight
-  public init ( _ sdkEngine : SDKNativeEngine , parameters : TrafficBroadcastParameters ) throws
+  public init(_ sdkEngine: SDKNativeEngine, parameters: TrafficBroadcastParameters) throws
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-sdknativeengine">SDKNativeEngine</a>
+  - <a href="sdk-for-ios-explore-structs-trafficbroadcastparameters">TrafficBroadcastParameters</a>
 
   </div>
 
@@ -207,7 +206,7 @@ This class continuously reacts to new locations provided from a location source 
 
 - <div>
 
-  ` `<span id="/s:7heresdk16TrafficBroadcastC19trafficDataProviderAA0beF0CSgvp"></span>` `<span id="//apple_ref/swift/Property/trafficDataProvider" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-trafficbroadcast#/s:7heresdk16TrafficBroadcastC19trafficDataProviderAA0beF0CSgvp" class="token"><code>trafficDataProvider</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16TrafficBroadcastC19trafficDataProviderAA0beF0CSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-trafficDataProvider" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-trafficbroadcast#sdk-for-ios-explore-s-7heresdk16TrafficBroadcastC19trafficDataProviderAA0beF0CSgvp" class="token"><code>trafficDataProvider</code></a> 
 
   </div>
 
@@ -243,6 +242,10 @@ This class continuously reacts to new locations provided from a location source 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-traffic#sdk-for-ios-explore-s-7heresdk19TrafficDataProviderC">TrafficDataProvider</a>
+
   </div>
 
   </div>
@@ -251,7 +254,7 @@ This class continuously reacts to new locations provided from a location source 
 
 - <div>
 
-      onLocationUpdated(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk16TrafficBroadcastC17onLocationUpdatedyyAA0E0VF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-onLocationUpdated-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-trafficbroadcast#sdk-for-ios-explore-s-7heresdk16TrafficBroadcastC17onLocationUpdatedyyAA0E0VF" class="token"><code>onLocationUpdated(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -269,7 +272,7 @@ This class continuously reacts to new locations provided from a location source 
 
   <div class="abstract">
 
-  Called each time a new location is available. In a navigation context while using the <a href="sdk-for-ios-explore-classes-navigator">`Navigator`</a> or <a href="sdk-for-ios-explore-classes-visualnavigator">`VisualNavigator`</a>, it’s required to set the <a href="sdk-for-ios-explore-structs-location#/s:7heresdk8LocationV4time10Foundation4DateVSgvp">`Location.time`</a> parameter for each <a href="sdk-for-ios-explore-structs-location">`Location`</a> object so that the HERE SDK can map-match the locations properly. If the <a href="sdk-for-ios-explore-structs-location#/s:7heresdk8LocationV4time10Foundation4DateVSgvp">`Location.time`</a> parameter is missing, the location will be ignored. For navigation, it is also recommended to provide the `bearing` and `speed` parameters for each <a href="sdk-for-ios-explore-structs-location">`Location`</a> object. Invoked on the main thread.
+  Called each time a new location is available. In a navigation context while using the <a href="sdk-for-ios-explore-classes-navigator">`Navigator`</a> or <a href="sdk-for-ios-explore-classes-visualnavigator">`VisualNavigator`</a>, it’s required to set the <a href="sdk-for-ios-explore-structs-location#sdk-for-ios-explore-s-7heresdk8LocationV4time10Foundation4DateVSgvp">`Location.time`</a> parameter for each <a href="sdk-for-ios-explore-structs-location">`Location`</a> object so that the HERE SDK can map-match the locations properly. If the <a href="sdk-for-ios-explore-structs-location#sdk-for-ios-explore-s-7heresdk8LocationV4time10Foundation4DateVSgvp">`Location.time`</a> parameter is missing, the location will be ignored. For navigation, it is also recommended to provide the `bearing` and `speed` parameters for each <a href="sdk-for-ios-explore-structs-location">`Location`</a> object. Invoked on the main thread.
 
   </div>
 
@@ -282,12 +285,14 @@ This class continuously reacts to new locations provided from a location source 
   Swift
 
   ``` highlight
-  public func onLocationUpdated ( _ location : Location )
+  public func onLocationUpdated(_ location: Location)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-location">Location</a>
 
   </div>
 
@@ -318,7 +323,7 @@ This class continuously reacts to new locations provided from a location source 
 
 - <div>
 
-      activate()
+   <span id="sdk-for-ios-explore-s-7heresdk16TrafficBroadcastC8activateyyF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-activate" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-trafficbroadcast#sdk-for-ios-explore-s-7heresdk16TrafficBroadcastC8activateyyF" class="token"><code>activate()</code></a> 
 
   </div>
 
@@ -349,10 +354,8 @@ This class continuously reacts to new locations provided from a location source 
   Swift
 
   ``` highlight
-  public func activate ()
+  public func activate()
   ```
-
-  </pre>
 
   </div>
 
@@ -364,7 +367,7 @@ This class continuously reacts to new locations provided from a location source 
 
 - <div>
 
-      deactivate()
+   <span id="sdk-for-ios-explore-s-7heresdk16TrafficBroadcastC10deactivateyyF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-deactivate" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-trafficbroadcast#sdk-for-ios-explore-s-7heresdk16TrafficBroadcastC10deactivateyyF" class="token"><code>deactivate()</code></a> 
 
   </div>
 
@@ -395,10 +398,8 @@ This class continuously reacts to new locations provided from a location source 
   Swift
 
   ``` highlight
-  public func deactivate ()
+  public func deactivate()
   ```
-
-  </pre>
 
   </div>
 
@@ -410,7 +411,7 @@ This class continuously reacts to new locations provided from a location source 
 
 - <div>
 
-      onTMCServiceProviderInfoUpdated(tmcServiceProdiverInfo: )
+   <span id="sdk-for-ios-explore-s-7heresdk16TrafficBroadcastC31onTMCServiceProviderInfoUpdated018tmcServiceProdiverG0yAA0efG0V_tF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-onTMCServiceProviderInfoUpdated-tmcServiceProdiverInfo" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-trafficbroadcast#sdk-for-ios-explore-s-7heresdk16TrafficBroadcastC31onTMCServiceProviderInfoUpdated018tmcServiceProdiverG0yAA0efG0V_tF" class="token"><code>onTMCServiceProviderInfoUpdated(tmcServiceProdiverInfo:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -441,12 +442,14 @@ This class continuously reacts to new locations provided from a location source 
   Swift
 
   ``` highlight
-  public func onTMCServiceProviderInfoUpdated ( tmcServiceProdiverInfo : TMCServiceProviderInfo )
+  public func onTMCServiceProviderInfoUpdated(tmcServiceProdiverInfo: TMCServiceProviderInfo)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-tmcserviceproviderinfo">TMCServiceProviderInfo</a>
 
   </div>
 
@@ -477,7 +480,7 @@ This class continuously reacts to new locations provided from a location source 
 
 - <div>
 
-      onTMCDataUpdated(tmcData: )
+   <span id="sdk-for-ios-explore-s-7heresdk16TrafficBroadcastC16onTMCDataUpdated7tmcDatayAA0E0V_tF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-onTMCDataUpdated-tmcData" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-trafficbroadcast#sdk-for-ios-explore-s-7heresdk16TrafficBroadcastC16onTMCDataUpdated7tmcDatayAA0E0V_tF" class="token"><code>onTMCDataUpdated(tmcData:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -508,12 +511,14 @@ This class continuously reacts to new locations provided from a location source 
   Swift
 
   ``` highlight
-  public func onTMCDataUpdated ( tmcData : TMCData )
+  public func onTMCDataUpdated(tmcData: TMCData)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-tmcdata">TMCData</a>
 
   </div>
 

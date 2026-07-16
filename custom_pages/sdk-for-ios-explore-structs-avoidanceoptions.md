@@ -27,7 +27,7 @@ The options to specify restrictions for route calculations.
 
 - <div>
 
-  ` `<span id="/s:7heresdk16AvoidanceOptionsV12roadFeaturesSayAA04RoadE0OGvp"></span>` `<span id="//apple_ref/swift/Property/roadFeatures" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-avoidanceoptions#/s:7heresdk16AvoidanceOptionsV12roadFeaturesSayAA04RoadE0OGvp" class="token"><code>roadFeatures</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16AvoidanceOptionsV12roadFeaturesSayAA04RoadE0OGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-roadFeatures" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-avoidanceoptions#sdk-for-ios-explore-s-7heresdk16AvoidanceOptionsV12roadFeaturesSayAA04RoadE0OGvp" class="token"><code>roadFeatures</code></a> 
 
   </div>
 
@@ -63,6 +63,10 @@ The options to specify restrictions for route calculations.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-roadfeatures">RoadFeatures</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ The options to specify restrictions for route calculations.
 
 - <div>
 
-  ` `<span id="/s:7heresdk16AvoidanceOptionsV9countriesSayAA11CountryCodeOGvp"></span>` `<span id="//apple_ref/swift/Property/countries" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-avoidanceoptions#/s:7heresdk16AvoidanceOptionsV9countriesSayAA11CountryCodeOGvp" class="token"><code>countries</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16AvoidanceOptionsV9countriesSayAA11CountryCodeOGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-countries" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-avoidanceoptions#sdk-for-ios-explore-s-7heresdk16AvoidanceOptionsV9countriesSayAA11CountryCodeOGvp" class="token"><code>countries</code></a> 
 
   </div>
 
@@ -89,7 +93,7 @@ The options to specify restrictions for route calculations.
 
   <div class="abstract">
 
-  Countries that the route must avoid. Strictly enforced. Violations are reported as <a href="sdk-for-ios-explore-enums-sectionnoticecode#/s:7heresdk17SectionNoticeCodeO19violatedBlockedRoadyA2CmF">`SectionNoticeCode.violatedBlockedRoad`</a>. **Note:** This avoidance option is not supported in <a href="sdk-for-ios-explore-structs-isolineoptions">`IsolineOptions`</a> for isoline calculation.
+  Countries that the route must avoid. Strictly enforced. Violations are reported as <a href="sdk-for-ios-explore-enums-sectionnoticecode#sdk-for-ios-explore-s-7heresdk17SectionNoticeCodeO19violatedBlockedRoadyA2CmF">`SectionNoticeCode.violatedBlockedRoad`</a>. **Note:** This avoidance option is not supported in <a href="sdk-for-ios-explore-structs-isolineoptions">`IsolineOptions`</a> for isoline calculation.
 
   </div>
 
@@ -107,6 +111,10 @@ The options to specify restrictions for route calculations.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-countrycode">CountryCode</a>
+
   </div>
 
   </div>
@@ -115,7 +123,7 @@ The options to specify restrictions for route calculations.
 
 - <div>
 
-  ` `<span id="/s:7heresdk16AvoidanceOptionsV021avoidBoundingBoxAreasC0SayAA05Avoidef4AreaC0VGvp"></span>` `<span id="//apple_ref/swift/Property/avoidBoundingBoxAreasOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-avoidanceoptions#/s:7heresdk16AvoidanceOptionsV021avoidBoundingBoxAreasC0SayAA05Avoidef4AreaC0VGvp" class="token"><code>avoidBoundingBoxAreasOptions</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16AvoidanceOptionsV021avoidBoundingBoxAreasC0SayAA05Avoidef4AreaC0VGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-avoidBoundingBoxAreasOptions" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-avoidanceoptions#sdk-for-ios-explore-s-7heresdk16AvoidanceOptionsV021avoidBoundingBoxAreasC0SayAA05Avoidef4AreaC0VGvp" class="token"><code>avoidBoundingBoxAreasOptions</code></a> 
 
   </div>
 
@@ -151,6 +159,10 @@ The options to specify restrictions for route calculations.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-avoidboundingboxareaoptions">AvoidBoundingBoxAreaOptions</a>
+
   </div>
 
   </div>
@@ -159,7 +171,7 @@ The options to specify restrictions for route calculations.
 
 - <div>
 
-  ` `<span id="/s:7heresdk16AvoidanceOptionsV017avoidPolygonAreasC0SayAA05Avoide4AreaC0VGvp"></span>` `<span id="//apple_ref/swift/Property/avoidPolygonAreasOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-avoidanceoptions#/s:7heresdk16AvoidanceOptionsV017avoidPolygonAreasC0SayAA05Avoide4AreaC0VGvp" class="token"><code>avoidPolygonAreasOptions</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16AvoidanceOptionsV017avoidPolygonAreasC0SayAA05Avoide4AreaC0VGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-avoidPolygonAreasOptions" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-avoidanceoptions#sdk-for-ios-explore-s-7heresdk16AvoidanceOptionsV017avoidPolygonAreasC0SayAA05Avoide4AreaC0VGvp" class="token"><code>avoidPolygonAreasOptions</code></a> 
 
   </div>
 
@@ -195,6 +207,10 @@ The options to specify restrictions for route calculations.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-avoidpolygonareaoptions">AvoidPolygonAreaOptions</a>
+
   </div>
 
   </div>
@@ -203,7 +219,7 @@ The options to specify restrictions for route calculations.
 
 - <div>
 
-  ` `<span id="/s:7heresdk16AvoidanceOptionsV018avoidCorridorAreasC0SayAA05Avoide4AreaC0VGvp"></span>` `<span id="//apple_ref/swift/Property/avoidCorridorAreasOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-avoidanceoptions#/s:7heresdk16AvoidanceOptionsV018avoidCorridorAreasC0SayAA05Avoide4AreaC0VGvp" class="token"><code>avoidCorridorAreasOptions</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16AvoidanceOptionsV018avoidCorridorAreasC0SayAA05Avoide4AreaC0VGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-avoidCorridorAreasOptions" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-avoidanceoptions#sdk-for-ios-explore-s-7heresdk16AvoidanceOptionsV018avoidCorridorAreasC0SayAA05Avoide4AreaC0VGvp" class="token"><code>avoidCorridorAreasOptions</code></a> 
 
   </div>
 
@@ -239,6 +255,10 @@ The options to specify restrictions for route calculations.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-avoidcorridorareaoptions">AvoidCorridorAreaOptions</a>
+
   </div>
 
   </div>
@@ -247,7 +267,7 @@ The options to specify restrictions for route calculations.
 
 - <div>
 
-  ` `<span id="/s:7heresdk16AvoidanceOptionsV14zoneCategoriesSayAA12ZoneCategoryOGvp"></span>` `<span id="//apple_ref/swift/Property/zoneCategories" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-avoidanceoptions#/s:7heresdk16AvoidanceOptionsV14zoneCategoriesSayAA12ZoneCategoryOGvp" class="token"><code>zoneCategories</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16AvoidanceOptionsV14zoneCategoriesSayAA12ZoneCategoryOGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-zoneCategories" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-avoidanceoptions#sdk-for-ios-explore-s-7heresdk16AvoidanceOptionsV14zoneCategoriesSayAA12ZoneCategoryOGvp" class="token"><code>zoneCategories</code></a> 
 
   </div>
 
@@ -265,7 +285,7 @@ The options to specify restrictions for route calculations.
 
   <div class="abstract">
 
-  Zone categories which routes must not cross. Strictly enforced. Violations are reported as <a href="sdk-for-ios-explore-enums-sectionnoticecode#/s:7heresdk17SectionNoticeCodeO23violatedZoneRestrictionyA2CmF">`SectionNoticeCode.violatedZoneRestriction`</a>.
+  Zone categories which routes must not cross. Strictly enforced. Violations are reported as <a href="sdk-for-ios-explore-enums-sectionnoticecode#sdk-for-ios-explore-s-7heresdk17SectionNoticeCodeO23violatedZoneRestrictionyA2CmF">`SectionNoticeCode.violatedZoneRestriction`</a>.
 
   </div>
 
@@ -283,6 +303,10 @@ The options to specify restrictions for route calculations.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-zonecategory">ZoneCategory</a>
+
   </div>
 
   </div>
@@ -291,7 +315,7 @@ The options to specify restrictions for route calculations.
 
 - <div>
 
-  ` `<span id="/s:7heresdk16AvoidanceOptionsV8segmentsSayAA16SegmentReferenceVGvp"></span>` `<span id="//apple_ref/swift/Property/segments" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-avoidanceoptions#/s:7heresdk16AvoidanceOptionsV8segmentsSayAA16SegmentReferenceVGvp" class="token"><code>segments</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16AvoidanceOptionsV8segmentsSayAA16SegmentReferenceVGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-segments" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-avoidanceoptions#sdk-for-ios-explore-s-7heresdk16AvoidanceOptionsV8segmentsSayAA16SegmentReferenceVGvp" class="token"><code>segments</code></a> 
 
   </div>
 
@@ -309,7 +333,7 @@ The options to specify restrictions for route calculations.
 
   <div class="abstract">
 
-  Segments that routes will avoid going through. Violations are reported as <a href="sdk-for-ios-explore-enums-sectionnoticecode#/s:7heresdk17SectionNoticeCodeO19violatedBlockedRoadyA2CmF">`SectionNoticeCode.violatedBlockedRoad`</a>.
+  Segments that routes will avoid going through. Violations are reported as <a href="sdk-for-ios-explore-enums-sectionnoticecode#sdk-for-ios-explore-s-7heresdk17SectionNoticeCodeO19violatedBlockedRoadyA2CmF">`SectionNoticeCode.violatedBlockedRoad`</a>.
 
   **Notes:**
 
@@ -332,6 +356,10 @@ The options to specify restrictions for route calculations.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-segmentreference">SegmentReference</a>
+
   </div>
 
   </div>
@@ -340,7 +368,7 @@ The options to specify restrictions for route calculations.
 
 - <div>
 
-  ` `<span id="/s:7heresdk16AvoidanceOptionsV13exceptZoneIdsSaySSGvp"></span>` `<span id="//apple_ref/swift/Property/exceptZoneIds" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-avoidanceoptions#/s:7heresdk16AvoidanceOptionsV13exceptZoneIdsSaySSGvp" class="token"><code>exceptZoneIds</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16AvoidanceOptionsV13exceptZoneIdsSaySSGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-exceptZoneIds" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-avoidanceoptions#sdk-for-ios-explore-s-7heresdk16AvoidanceOptionsV13exceptZoneIdsSaySSGvp" class="token"><code>exceptZoneIds</code></a> 
 
   </div>
 
@@ -384,7 +412,7 @@ The options to specify restrictions for route calculations.
 
 - <div>
 
-  ` `<span id="/s:7heresdk16AvoidanceOptionsV7zoneIdsSaySSGvp"></span>` `<span id="//apple_ref/swift/Property/zoneIds" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-avoidanceoptions#/s:7heresdk16AvoidanceOptionsV7zoneIdsSaySSGvp" class="token"><code>zoneIds</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16AvoidanceOptionsV7zoneIdsSaySSGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-zoneIds" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-avoidanceoptions#sdk-for-ios-explore-s-7heresdk16AvoidanceOptionsV7zoneIdsSaySSGvp" class="token"><code>zoneIds</code></a> 
 
   </div>
 
@@ -428,7 +456,7 @@ The options to specify restrictions for route calculations.
 
 - <div>
 
-  ` `<span id="/s:7heresdk16AvoidanceOptionsV21avoidedTruckRoadTypesSayAA0eF4TypeOGvp"></span>` `<span id="//apple_ref/swift/Property/avoidedTruckRoadTypes" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-avoidanceoptions#/s:7heresdk16AvoidanceOptionsV21avoidedTruckRoadTypesSayAA0eF4TypeOGvp" class="token"><code>avoidedTruckRoadTypes</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16AvoidanceOptionsV21avoidedTruckRoadTypesSayAA0eF4TypeOGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-avoidedTruckRoadTypes" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-avoidanceoptions#sdk-for-ios-explore-s-7heresdk16AvoidanceOptionsV21avoidedTruckRoadTypesSayAA0eF4TypeOGvp" class="token"><code>avoidedTruckRoadTypes</code></a> 
 
   </div>
 
@@ -464,6 +492,10 @@ The options to specify restrictions for route calculations.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-truckroadtype">TruckRoadType</a>
+
   </div>
 
   </div>
@@ -472,7 +504,7 @@ The options to specify restrictions for route calculations.
 
 - <div>
 
-      init(roadFeatures: countries: avoidBoundingBoxAreasOptions: avoidPolygonAreasOptions: avoidCorridorAreasOptions: zoneCategories: segments: exceptZoneIds: zoneIds: avoidedTruckRoadTypes: )
+   <span id="sdk-for-ios-explore-s-7heresdk16AvoidanceOptionsV12roadFeatures9countries021avoidBoundingBoxAreasC00g7PolygonjC00g8CorridorjC014zoneCategories8segments13exceptZoneIds0mR021avoidedTruckRoadTypesACSayAA0uE0OG_SayAA11CountryCodeOGSayAA05Avoidhi4AreaC0VGSayAA0ykzC0VGSayAA0ylzC0VGSayAA0Q8CategoryOGSayAA16SegmentReferenceVGSaySSGA7_SayAA0tU4TypeOGtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-roadFeatures-countries-avoidBoundingBoxAreasOptions-avoidPolygonAreasOptions-avoidCorridorAreasOptions-zoneCategories-segments-exceptZoneIds-zoneIds-avoidedTruckRoadTypes" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-avoidanceoptions#sdk-for-ios-explore-s-7heresdk16AvoidanceOptionsV12roadFeatures9countries021avoidBoundingBoxAreasC00g7PolygonjC00g8CorridorjC014zoneCategories8segments13exceptZoneIds0mR021avoidedTruckRoadTypesACSayAA0uE0OG_SayAA11CountryCodeOGSayAA05Avoidhi4AreaC0VGSayAA0ykzC0VGSayAA0ylzC0VGSayAA0Q8CategoryOGSayAA16SegmentReferenceVGSaySSGA7_SayAA0tU4TypeOGtcfc" class="token"><code>init(roadFeatures:</code><wbr></wbr><code>countries:</code><wbr></wbr><code>avoidBoundingBoxAreasOptions:</code><wbr></wbr><code>avoidPolygonAreasOptions:</code><wbr></wbr><code>avoidCorridorAreasOptions:</code><wbr></wbr><code>zoneCategories:</code><wbr></wbr><code>segments:</code><wbr></wbr><code>exceptZoneIds:</code><wbr></wbr><code>zoneIds:</code><wbr></wbr><code>avoidedTruckRoadTypes:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -495,12 +527,12 @@ The options to specify restrictions for route calculations.
   - Parameters
 
     - roadFeatures: Features which routes should avoid. Best effort only (not enforced).
-    - countries: Countries that the route must avoid. Strictly enforced. Violations are reported as <a href="sdk-for-ios-explore-enums-sectionnoticecode#/s:7heresdk17SectionNoticeCodeO19violatedBlockedRoadyA2CmF">`SectionNoticeCode.violatedBlockedRoad`</a>. **Note:** This avoidance option is not supported in <a href="sdk-for-ios-explore-structs-isolineoptions">`IsolineOptions`</a> for isoline calculation.
+    - countries: Countries that the route must avoid. Strictly enforced. Violations are reported as <a href="sdk-for-ios-explore-enums-sectionnoticecode#sdk-for-ios-explore-s-7heresdk17SectionNoticeCodeO19violatedBlockedRoadyA2CmF">`SectionNoticeCode.violatedBlockedRoad`</a>. **Note:** This avoidance option is not supported in <a href="sdk-for-ios-explore-structs-isolineoptions">`IsolineOptions`</a> for isoline calculation.
     - avoidBoundingBoxAreasOptions: List of rectangular shapes which routes must not cross and additional options for this area.
     - avoidPolygonAreasOptions: List of polygon shapes which routes must not cross and additional options for this area. **Note:** Currently, the maximum count of polygons is limited to 20.
     - avoidCorridorAreasOptions: List of corridor shapes which routes must not cross and additional options for this area. **Note:** Currently, the maximum count of corridors is limited to 20.
-    - zoneCategories: Zone categories which routes must not cross. Strictly enforced. Violations are reported as <a href="sdk-for-ios-explore-enums-sectionnoticecode#/s:7heresdk17SectionNoticeCodeO23violatedZoneRestrictionyA2CmF">`SectionNoticeCode.violatedZoneRestriction`</a>.
-    - segments: Segments that routes will avoid going through. Violations are reported as <a href="sdk-for-ios-explore-enums-sectionnoticecode#/s:7heresdk17SectionNoticeCodeO19violatedBlockedRoadyA2CmF">`SectionNoticeCode.violatedBlockedRoad`</a>.
+    - zoneCategories: Zone categories which routes must not cross. Strictly enforced. Violations are reported as <a href="sdk-for-ios-explore-enums-sectionnoticecode#sdk-for-ios-explore-s-7heresdk17SectionNoticeCodeO23violatedZoneRestrictionyA2CmF">`SectionNoticeCode.violatedZoneRestriction`</a>.
+    - segments: Segments that routes will avoid going through. Violations are reported as <a href="sdk-for-ios-explore-enums-sectionnoticecode#sdk-for-ios-explore-s-7heresdk17SectionNoticeCodeO19violatedBlockedRoadyA2CmF">`SectionNoticeCode.violatedBlockedRoad`</a>.
 
     **Notes:**
 
@@ -521,12 +553,21 @@ The options to specify restrictions for route calculations.
   Swift
 
   ``` highlight
-  public init ( roadFeatures : [ RoadFeatures ] = [], countries : [ CountryCode ] = [], avoidBoundingBoxAreasOptions : [ AvoidBoundingBoxAreaOptions ] = [], avoidPolygonAreasOptions : [ AvoidPolygonAreaOptions ] = [], avoidCorridorAreasOptions : [ AvoidCorridorAreaOptions ] = [], zoneCategories : [ ZoneCategory ] = [], segments : [ SegmentReference ] = [], exceptZoneIds : [ String ] = [], zoneIds : [ String ] = [], avoidedTruckRoadTypes : [ TruckRoadType ] = [])
+  public init(roadFeatures: [RoadFeatures] = [], countries: [CountryCode] = [], avoidBoundingBoxAreasOptions: [AvoidBoundingBoxAreaOptions] = [], avoidPolygonAreasOptions: [AvoidPolygonAreaOptions] = [], avoidCorridorAreasOptions: [AvoidCorridorAreaOptions] = [], zoneCategories: [ZoneCategory] = [], segments: [SegmentReference] = [], exceptZoneIds: [String] = [], zoneIds: [String] = [], avoidedTruckRoadTypes: [TruckRoadType] = [])
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-roadfeatures">RoadFeatures</a>
+  - <a href="sdk-for-ios-explore-enums-countrycode">CountryCode</a>
+  - <a href="sdk-for-ios-explore-structs-avoidboundingboxareaoptions">AvoidBoundingBoxAreaOptions</a>
+  - <a href="sdk-for-ios-explore-structs-avoidpolygonareaoptions">AvoidPolygonAreaOptions</a>
+  - <a href="sdk-for-ios-explore-structs-avoidcorridorareaoptions">AvoidCorridorAreaOptions</a>
+  - <a href="sdk-for-ios-explore-enums-zonecategory">ZoneCategory</a>
+  - <a href="sdk-for-ios-explore-structs-segmentreference">SegmentReference</a>
+  - <a href="sdk-for-ios-explore-enums-truckroadtype">TruckRoadType</a>
 
   </div>
 

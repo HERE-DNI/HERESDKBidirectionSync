@@ -29,7 +29,7 @@ Represents the speed situation type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk16SpecialSpeedTypeO7unknownyA2CmF"></span>` `<span id="//apple_ref/swift/Element/unknown" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-specialspeedtype#/s:7heresdk16SpecialSpeedTypeO7unknownyA2CmF" class="token"><code>unknown</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16SpecialSpeedTypeO7unknownyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-unknown" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-specialspeedtype#sdk-for-ios-explore-s-7heresdk16SpecialSpeedTypeO7unknownyA2CmF" class="token"><code>unknown</code></a> 
 
   </div>
 
@@ -73,7 +73,7 @@ Represents the speed situation type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk16SpecialSpeedTypeO08advisoryC0yA2CmF"></span>` `<span id="//apple_ref/swift/Element/advisorySpeed" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-specialspeedtype#/s:7heresdk16SpecialSpeedTypeO08advisoryC0yA2CmF" class="token"><code>advisorySpeed</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16SpecialSpeedTypeO08advisoryC0yA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-advisorySpeed" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-specialspeedtype#sdk-for-ios-explore-s-7heresdk16SpecialSpeedTypeO08advisoryC0yA2CmF" class="token"><code>advisorySpeed</code></a> 
 
   </div>
 
@@ -120,7 +120,7 @@ Represents the speed situation type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk16SpecialSpeedTypeO17speedBumpsPresentyA2CmF"></span>` `<span id="//apple_ref/swift/Element/speedBumpsPresent" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-specialspeedtype#/s:7heresdk16SpecialSpeedTypeO17speedBumpsPresentyA2CmF" class="token"><code>speedBumpsPresent</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16SpecialSpeedTypeO17speedBumpsPresentyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-speedBumpsPresent" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-specialspeedtype#sdk-for-ios-explore-s-7heresdk16SpecialSpeedTypeO17speedBumpsPresentyA2CmF" class="token"><code>speedBumpsPresent</code></a> 
 
   </div>
 
@@ -164,7 +164,7 @@ Represents the speed situation type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk16SpecialSpeedTypeO6schoolyA2CmF"></span>` `<span id="//apple_ref/swift/Element/school" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-specialspeedtype#/s:7heresdk16SpecialSpeedTypeO6schoolyA2CmF" class="token"><code>school</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16SpecialSpeedTypeO6schoolyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-school" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-specialspeedtype#sdk-for-ios-explore-s-7heresdk16SpecialSpeedTypeO6schoolyA2CmF" class="token"><code>school</code></a> 
 
   </div>
 
@@ -208,7 +208,7 @@ Represents the speed situation type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk16SpecialSpeedTypeO13timeDependentyA2CmF"></span>` `<span id="//apple_ref/swift/Element/timeDependent" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-specialspeedtype#/s:7heresdk16SpecialSpeedTypeO13timeDependentyA2CmF" class="token"><code>timeDependent</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16SpecialSpeedTypeO13timeDependentyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-timeDependent" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-specialspeedtype#sdk-for-ios-explore-s-7heresdk16SpecialSpeedTypeO13timeDependentyA2CmF" class="token"><code>timeDependent</code></a> 
 
   </div>
 
@@ -252,7 +252,7 @@ Represents the speed situation type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk16SpecialSpeedTypeO23approximateSeasonalTimeyA2CmF"></span>` `<span id="//apple_ref/swift/Element/approximateSeasonalTime" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-specialspeedtype#/s:7heresdk16SpecialSpeedTypeO23approximateSeasonalTimeyA2CmF" class="token"><code>approximateSeasonalTime</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16SpecialSpeedTypeO23approximateSeasonalTimeyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-approximateSeasonalTime" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-specialspeedtype#sdk-for-ios-explore-s-7heresdk16SpecialSpeedTypeO23approximateSeasonalTimeyA2CmF" class="token"><code>approximateSeasonalTime</code></a> 
 
   </div>
 
@@ -296,7 +296,7 @@ Represents the speed situation type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk16SpecialSpeedTypeO13laneDependentyA2CmF"></span>` `<span id="//apple_ref/swift/Element/laneDependent" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-specialspeedtype#/s:7heresdk16SpecialSpeedTypeO13laneDependentyA2CmF" class="token"><code>laneDependent</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16SpecialSpeedTypeO13laneDependentyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-laneDependent" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-specialspeedtype#sdk-for-ios-explore-s-7heresdk16SpecialSpeedTypeO13laneDependentyA2CmF" class="token"><code>laneDependent</code></a> 
 
   </div>
 
@@ -340,7 +340,7 @@ Represents the speed situation type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk16SpecialSpeedTypeO4rainyA2CmF"></span>` `<span id="//apple_ref/swift/Element/rain" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-specialspeedtype#/s:7heresdk16SpecialSpeedTypeO4rainyA2CmF" class="token"><code>rain</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16SpecialSpeedTypeO4rainyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-rain" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-specialspeedtype#sdk-for-ios-explore-s-7heresdk16SpecialSpeedTypeO4rainyA2CmF" class="token"><code>rain</code></a> 
 
   </div>
 
@@ -386,7 +386,7 @@ Represents the speed situation type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk16SpecialSpeedTypeO4snowyA2CmF"></span>` `<span id="//apple_ref/swift/Element/snow" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-specialspeedtype#/s:7heresdk16SpecialSpeedTypeO4snowyA2CmF" class="token"><code>snow</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16SpecialSpeedTypeO4snowyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-snow" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-specialspeedtype#sdk-for-ios-explore-s-7heresdk16SpecialSpeedTypeO4snowyA2CmF" class="token"><code>snow</code></a> 
 
   </div>
 
@@ -432,7 +432,7 @@ Represents the speed situation type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk16SpecialSpeedTypeO3fogyA2CmF"></span>` `<span id="//apple_ref/swift/Element/fog" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-specialspeedtype#/s:7heresdk16SpecialSpeedTypeO3fogyA2CmF" class="token"><code>fog</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16SpecialSpeedTypeO3fogyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-fog" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-specialspeedtype#sdk-for-ios-explore-s-7heresdk16SpecialSpeedTypeO3fogyA2CmF" class="token"><code>fog</code></a> 
 
   </div>
 

@@ -13,7 +13,7 @@ slug: "sdk-for-ios-navigate-ev"
 
 - <div>
 
-  ` `<span id="/s:7heresdk25EVChargingConnectorFormatO"></span>` `<span id="//apple_ref/swift/Enum/EVChargingConnectorFormat" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-ev#/s:7heresdk25EVChargingConnectorFormatO" class="token"><code>EVChargingConnectorFormat</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk25EVChargingConnectorFormatO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-EVChargingConnectorFormat" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-ev#sdk-for-ios-navigate-s-7heresdk25EVChargingConnectorFormatO" class="token"><code>EVChargingConnectorFormat</code></a> 
 
   </div>
 
@@ -59,7 +59,7 @@ slug: "sdk-for-ios-navigate-ev"
 
 - <div>
 
-  ` `<span id="/s:7heresdk23EVChargingConnectorTypeV"></span>` `<span id="//apple_ref/swift/Struct/EVChargingConnectorType" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-ev#/s:7heresdk23EVChargingConnectorTypeV" class="token"><code>EVChargingConnectorType</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk23EVChargingConnectorTypeV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-EVChargingConnectorType" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-ev#sdk-for-ios-navigate-s-7heresdk23EVChargingConnectorTypeV" class="token"><code>EVChargingConnectorType</code></a> 
 
   </div>
 
@@ -105,7 +105,7 @@ slug: "sdk-for-ios-navigate-ev"
 
 - <div>
 
-  ` `<span id="/s:7heresdk14EVSECapabilityO"></span>` `<span id="//apple_ref/swift/Enum/EVSECapability" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-ev#/s:7heresdk14EVSECapabilityO" class="token"><code>EVSECapability</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14EVSECapabilityO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-EVSECapability" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-ev#sdk-for-ios-navigate-s-7heresdk14EVSECapabilityO" class="token"><code>EVSECapability</code></a> 
 
   </div>
 
@@ -151,7 +151,7 @@ slug: "sdk-for-ios-navigate-ev"
 
 - <div>
 
-  ` `<span id="/s:7heresdk18EVSEPaymentSupportO"></span>` `<span id="//apple_ref/swift/Enum/EVSEPaymentSupport" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-ev#/s:7heresdk18EVSEPaymentSupportO" class="token"><code>EVSEPaymentSupport</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18EVSEPaymentSupportO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-EVSEPaymentSupport" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-ev#sdk-for-ios-navigate-s-7heresdk18EVSEPaymentSupportO" class="token"><code>EVSEPaymentSupport</code></a> 
 
   </div>
 
@@ -197,7 +197,7 @@ slug: "sdk-for-ios-navigate-ev"
 
 - <div>
 
-  ` `<span id="/s:7heresdk9EVSEStateO"></span>` `<span id="//apple_ref/swift/Enum/EVSEState" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-ev#/s:7heresdk9EVSEStateO" class="token"><code>EVSEState</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9EVSEStateO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-EVSEState" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-ev#sdk-for-ios-navigate-s-7heresdk9EVSEStateO" class="token"><code>EVSEState</code></a> 
 
   </div>
 

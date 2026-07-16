@@ -35,7 +35,7 @@ Use the GPXDocument to load the GPX file. Only track data is used from the GPX f
 
 - <div>
 
-      init(gpxFilePath: options: )
+   <span id="sdk-for-ios-explore-s-7heresdk11GPXDocumentC11gpxFilePath7optionsACSS_AA10GPXOptionsVtKcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-gpxFilePath-options" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-gpxdocument#sdk-for-ios-explore-s-7heresdk11GPXDocumentC11gpxFilePath7optionsACSS_AA10GPXOptionsVtKcfc" class="token"><code>init(gpxFilePath:</code><wbr></wbr><code>options:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -59,7 +59,7 @@ Use the GPXDocument to load the GPX file. Only track data is used from the GPX f
 
   Throws
 
-  <a href="sdk-for-ios-explore-core#/s:7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
+  <a href="sdk-for-ios-explore-core#sdk-for-ios-explore-s-7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
 
   </div>
 
@@ -74,12 +74,14 @@ Use the GPXDocument to load the GPX file. Only track data is used from the GPX f
   Swift
 
   ``` highlight
-  public init ( gpxFilePath : String , options : GPXOptions ) throws
+  public init(gpxFilePath: String, options: GPXOptions) throws
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-gpxoptions">GPXOptions</a>
 
   </div>
 
@@ -116,7 +118,7 @@ Use the GPXDocument to load the GPX file. Only track data is used from the GPX f
 
 - <div>
 
-      init(tracks: )
+   <span id="sdk-for-ios-explore-s-7heresdk11GPXDocumentC6tracksACSayAA8GPXTrackCG_tcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-tracks" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-gpxdocument#sdk-for-ios-explore-s-7heresdk11GPXDocumentC6tracksACSayAA8GPXTrackCG_tcfc" class="token"><code>init(tracks:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -147,12 +149,14 @@ Use the GPXDocument to load the GPX file. Only track data is used from the GPX f
   Swift
 
   ``` highlight
-  public init ( tracks : [ GPXTrack ])
+  public init(tracks: [GPXTrack])
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-gpxtrack">GPXTrack</a>
 
   </div>
 
@@ -183,7 +187,7 @@ Use the GPXDocument to load the GPX file. Only track data is used from the GPX f
 
 - <div>
 
-  ` `<span id="/s:7heresdk11GPXDocumentC6tracksSayAA8GPXTrackCGvp"></span>` `<span id="//apple_ref/swift/Property/tracks" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-gpxdocument#/s:7heresdk11GPXDocumentC6tracksSayAA8GPXTrackCGvp" class="token"><code>tracks</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11GPXDocumentC6tracksSayAA8GPXTrackCGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-tracks" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-gpxdocument#sdk-for-ios-explore-s-7heresdk11GPXDocumentC6tracksSayAA8GPXTrackCGvp" class="token"><code>tracks</code></a> 
 
   </div>
 
@@ -219,6 +223,10 @@ Use the GPXDocument to load the GPX file. Only track data is used from the GPX f
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-gpxtrack">GPXTrack</a>
+
   </div>
 
   </div>
@@ -227,7 +235,7 @@ Use the GPXDocument to load the GPX file. Only track data is used from the GPX f
 
 - <div>
 
-      fromString(content: options: )
+   <span id="sdk-for-ios-explore-s-7heresdk11GPXDocumentC10fromString7content7optionsACSS_AA10GPXOptionsVtKFZ"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-fromString-content-options" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-gpxdocument#sdk-for-ios-explore-s-7heresdk11GPXDocumentC10fromString7content7optionsACSS_AA10GPXOptionsVtKFZ" class="token"><code>fromString(content:</code><wbr></wbr><code>options:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -251,7 +259,7 @@ Use the GPXDocument to load the GPX file. Only track data is used from the GPX f
 
   Throws
 
-  <a href="sdk-for-ios-explore-core#/s:7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
+  <a href="sdk-for-ios-explore-core#sdk-for-ios-explore-s-7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
 
   </div>
 
@@ -266,12 +274,14 @@ Use the GPXDocument to load the GPX file. Only track data is used from the GPX f
   Swift
 
   ``` highlight
-  public static func fromString ( content : String , options : GPXOptions ) throws -> GPXDocument
+  public static func fromString(content: String, options: GPXOptions) throws -> GPXDocument
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-gpxoptions">GPXOptions</a>
 
   </div>
 
@@ -316,7 +326,7 @@ Use the GPXDocument to load the GPX file. Only track data is used from the GPX f
 
 - <div>
 
-      save(gpxFilePath: )
+   <span id="sdk-for-ios-explore-s-7heresdk11GPXDocumentC4save11gpxFilePathSbSS_tF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-save-gpxFilePath" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-gpxdocument#sdk-for-ios-explore-s-7heresdk11GPXDocumentC4save11gpxFilePathSbSS_tF" class="token"><code>save(gpxFilePath:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -334,7 +344,7 @@ Use the GPXDocument to load the GPX file. Only track data is used from the GPX f
 
   <div class="abstract">
 
-  Saves the document to a file. For saving the <a href="sdk-for-ios-explore-classes-gpxdocument#/s:7heresdk11GPXDocumentC6tracksSayAA8GPXTrackCGvp">`GPXDocument.tracks`</a> modification before writing to a file, use <a href="sdk-for-ios-explore-classes-gpxtrackwriter">`GPXTrackWriter`</a>.
+  Saves the document to a file. For saving the <a href="sdk-for-ios-explore-classes-gpxdocument#sdk-for-ios-explore-s-7heresdk11GPXDocumentC6tracksSayAA8GPXTrackCGvp">`GPXDocument.tracks`</a> modification before writing to a file, use <a href="sdk-for-ios-explore-classes-gpxtrackwriter">`GPXTrackWriter`</a>.
 
   </div>
 
@@ -347,10 +357,8 @@ Use the GPXDocument to load the GPX file. Only track data is used from the GPX f
   Swift
 
   ``` highlight
-  public func save ( gpxFilePath : String ) -> Bool
+  public func save(gpxFilePath: String) -> Bool
   ```
-
-  </pre>
 
   </div>
 
@@ -391,7 +399,7 @@ Use the GPXDocument to load the GPX file. Only track data is used from the GPX f
 
 - <div>
 
-      addTrack(trackToAdd: )
+   <span id="sdk-for-ios-explore-s-7heresdk11GPXDocumentC8addTrack10trackToAddyAA8GPXTrackC_tF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-addTrack-trackToAdd" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-gpxdocument#sdk-for-ios-explore-s-7heresdk11GPXDocumentC8addTrack10trackToAddyAA8GPXTrackC_tF" class="token"><code>addTrack(trackToAdd:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -422,12 +430,14 @@ Use the GPXDocument to load the GPX file. Only track data is used from the GPX f
   Swift
 
   ``` highlight
-  public func addTrack ( trackToAdd : GPXTrack )
+  public func addTrack(trackToAdd: GPXTrack)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-gpxtrack">GPXTrack</a>
 
   </div>
 

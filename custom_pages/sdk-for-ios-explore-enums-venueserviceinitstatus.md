@@ -27,7 +27,7 @@ Initialization status types of the <a href="sdk-for-ios-explore-classes-venueser
 
 - <div>
 
-  ` `<span id="/s:7heresdk22VenueServiceInitStatusO13onlineSuccessyA2CmF"></span>` `<span id="//apple_ref/swift/Element/onlineSuccess" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-venueserviceinitstatus#/s:7heresdk22VenueServiceInitStatusO13onlineSuccessyA2CmF" class="token"><code>onlineSuccess</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk22VenueServiceInitStatusO13onlineSuccessyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-onlineSuccess" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-venueserviceinitstatus#sdk-for-ios-explore-s-7heresdk22VenueServiceInitStatusO13onlineSuccessyA2CmF" class="token"><code>onlineSuccess</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Initialization status types of the <a href="sdk-for-ios-explore-classes-venueser
 
 - <div>
 
-  ` `<span id="/s:7heresdk22VenueServiceInitStatusO12onlineFailedyA2CmF"></span>` `<span id="//apple_ref/swift/Element/onlineFailed" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-venueserviceinitstatus#/s:7heresdk22VenueServiceInitStatusO12onlineFailedyA2CmF" class="token"><code>onlineFailed</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk22VenueServiceInitStatusO12onlineFailedyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-onlineFailed" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-venueserviceinitstatus#sdk-for-ios-explore-s-7heresdk22VenueServiceInitStatusO12onlineFailedyA2CmF" class="token"><code>onlineFailed</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Initialization status types of the <a href="sdk-for-ios-explore-classes-venueser
 
 - <div>
 
-  ` `<span id="/s:7heresdk22VenueServiceInitStatusO10notStartedyA2CmF"></span>` `<span id="//apple_ref/swift/Element/notStarted" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-venueserviceinitstatus#/s:7heresdk22VenueServiceInitStatusO10notStartedyA2CmF" class="token"><code>notStarted</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk22VenueServiceInitStatusO10notStartedyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-notStarted" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-venueserviceinitstatus#sdk-for-ios-explore-s-7heresdk22VenueServiceInitStatusO10notStartedyA2CmF" class="token"><code>notStarted</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Initialization status types of the <a href="sdk-for-ios-explore-classes-venueser
 
 - <div>
 
-  ` `<span id="/s:7heresdk22VenueServiceInitStatusO10inProgressyA2CmF"></span>` `<span id="//apple_ref/swift/Element/inProgress" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-venueserviceinitstatus#/s:7heresdk22VenueServiceInitStatusO10inProgressyA2CmF" class="token"><code>inProgress</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk22VenueServiceInitStatusO10inProgressyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-inProgress" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-venueserviceinitstatus#sdk-for-ios-explore-s-7heresdk22VenueServiceInitStatusO10inProgressyA2CmF" class="token"><code>inProgress</code></a> 
 
   </div>
 

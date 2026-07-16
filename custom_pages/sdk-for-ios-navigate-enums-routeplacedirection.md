@@ -27,7 +27,7 @@ Specifies the direction to make distinction between departure and arrival cases.
 
 - <div>
 
-  ` `<span id="/s:7heresdk19RoutePlaceDirectionO9departureyA2CmF"></span>` `<span id="//apple_ref/swift/Element/departure" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-routeplacedirection#/s:7heresdk19RoutePlaceDirectionO9departureyA2CmF" class="token"><code>departure</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19RoutePlaceDirectionO9departureyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-departure" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-routeplacedirection#sdk-for-ios-navigate-s-7heresdk19RoutePlaceDirectionO9departureyA2CmF" class="token"><code>departure</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Specifies the direction to make distinction between departure and arrival cases.
 
 - <div>
 
-  ` `<span id="/s:7heresdk19RoutePlaceDirectionO7arrivalyA2CmF"></span>` `<span id="//apple_ref/swift/Element/arrival" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-routeplacedirection#/s:7heresdk19RoutePlaceDirectionO7arrivalyA2CmF" class="token"><code>arrival</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19RoutePlaceDirectionO7arrivalyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-arrival" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-routeplacedirection#sdk-for-ios-navigate-s-7heresdk19RoutePlaceDirectionO7arrivalyA2CmF" class="token"><code>arrival</code></a> 
 
   </div>
 

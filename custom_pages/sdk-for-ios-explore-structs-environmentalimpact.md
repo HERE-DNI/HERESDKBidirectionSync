@@ -27,7 +27,7 @@ Represents environmental impact for an environmental impact category. EnergyMix 
 
 - <div>
 
-  ` `<span id="/s:7heresdk19EnvironmentalImpactV8categoryAA0bC8CategoryOvp"></span>` `<span id="//apple_ref/swift/Property/category" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-environmentalimpact#/s:7heresdk19EnvironmentalImpactV8categoryAA0bC8CategoryOvp" class="token"><code>category</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19EnvironmentalImpactV8categoryAA0bC8CategoryOvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-category" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-environmentalimpact#sdk-for-ios-explore-s-7heresdk19EnvironmentalImpactV8categoryAA0bC8CategoryOvp" class="token"><code>category</code></a> 
 
   </div>
 
@@ -63,6 +63,10 @@ Represents environmental impact for an environmental impact category. EnergyMix 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-environmentalimpactcategory">EnvironmentalImpactCategory</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ Represents environmental impact for an environmental impact category. EnergyMix 
 
 - <div>
 
-  ` `<span id="/s:7heresdk19EnvironmentalImpactV28amountInGramPerKilowattHoursSdvp"></span>` `<span id="//apple_ref/swift/Property/amountInGramPerKilowattHours" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-environmentalimpact#/s:7heresdk19EnvironmentalImpactV28amountInGramPerKilowattHoursSdvp" class="token"><code>amountInGramPerKilowattHours</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19EnvironmentalImpactV28amountInGramPerKilowattHoursSdvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-amountInGramPerKilowattHours" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-environmentalimpact#sdk-for-ios-explore-s-7heresdk19EnvironmentalImpactV28amountInGramPerKilowattHoursSdvp" class="token"><code>amountInGramPerKilowattHours</code></a> 
 
   </div>
 
@@ -115,7 +119,7 @@ Represents environmental impact for an environmental impact category. EnergyMix 
 
 - <div>
 
-      init(category: amountInGramPerKilowattHours: )
+   <span id="sdk-for-ios-explore-s-7heresdk19EnvironmentalImpactV8category28amountInGramPerKilowattHoursAcA0bC8CategoryO_Sdtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-category-amountInGramPerKilowattHours" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-environmentalimpact#sdk-for-ios-explore-s-7heresdk19EnvironmentalImpactV8category28amountInGramPerKilowattHoursAcA0bC8CategoryO_Sdtcfc" class="token"><code>init(category:</code><wbr></wbr><code>amountInGramPerKilowattHours:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -146,12 +150,14 @@ Represents environmental impact for an environmental impact category. EnergyMix 
   Swift
 
   ``` highlight
-  public init ( category : EnvironmentalImpactCategory = EnvironmentalImpactCategory . carbonDioxide , amountInGramPerKilowattHours : Double = 0.0 )
+  public init(category: EnvironmentalImpactCategory = EnvironmentalImpactCategory.carbonDioxide, amountInGramPerKilowattHours: Double = 0.0)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-environmentalimpactcategory">EnvironmentalImpactCategory</a>
 
   </div>
 

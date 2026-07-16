@@ -25,9 +25,9 @@ extension PolygonDataBuilder: Hashable
 
 </div>
 
-Builder of <a href="sdk-for-ios-explore-maps#/s:7heresdk11PolygonDataC">`PolygonData`</a> instances.
+Builder of <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk11PolygonDataC">`PolygonData`</a> instances.
 
-The builder can create <a href="sdk-for-ios-explore-maps#/s:7heresdk11PolygonDataC">`PolygonData`</a> instances for polygons with an outer boundary and optionally one or more inner boundaries (holes).
+The builder can create <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk11PolygonDataC">`PolygonData`</a> instances for polygons with an outer boundary and optionally one or more inner boundaries (holes).
 
 Note: This is a beta release of this feature, so there could be a few bugs and unexpected behavior. Related APIs may change for new releases without a deprecation process.
 
@@ -39,7 +39,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      init()
+   <span id="sdk-for-ios-explore-s-7heresdk18PolygonDataBuilderCACycfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-polygondatabuilder#sdk-for-ios-explore-s-7heresdk18PolygonDataBuilderCACycfc" class="token"><code>init()</code></a> 
 
   </div>
 
@@ -70,10 +70,8 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public init ()
+  public init()
   ```
-
-  </pre>
 
   </div>
 
@@ -85,7 +83,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      withGeometry(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk18PolygonDataBuilderC12withGeometryyAcA03GeoB0VF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-withGeometry-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-polygondatabuilder#sdk-for-ios-explore-s-7heresdk18PolygonDataBuilderC12withGeometryyAcA03GeoB0VF" class="token"><code>withGeometry(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -116,12 +114,14 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func withGeometry ( _ geometry : GeoPolygon ) -> PolygonDataBuilder
+  public func withGeometry(_ geometry: GeoPolygon) -> PolygonDataBuilder
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geopolygon">GeoPolygon</a>
 
   </div>
 
@@ -160,7 +160,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      withAttributes(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk18PolygonDataBuilderC14withAttributesyAcA0cF0CF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-withAttributes-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-polygondatabuilder#sdk-for-ios-explore-s-7heresdk18PolygonDataBuilderC14withAttributesyAcA0cF0CF" class="token"><code>withAttributes(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -191,12 +191,14 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func withAttributes ( _ attributes : DataAttributes ) -> PolygonDataBuilder
+  public func withAttributes(_ attributes: DataAttributes) -> PolygonDataBuilder
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-dataattributes">DataAttributes</a>
 
   </div>
 
@@ -235,7 +237,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      build()
+   <span id="sdk-for-ios-explore-s-7heresdk18PolygonDataBuilderC5buildAA0bC0CyF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-build" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-polygondatabuilder#sdk-for-ios-explore-s-7heresdk18PolygonDataBuilderC5buildAA0bC0CyF" class="token"><code>build()</code></a> 
 
   </div>
 
@@ -253,7 +255,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
   <div class="abstract">
 
-  Builds an instance of <a href="sdk-for-ios-explore-maps#/s:7heresdk11PolygonDataC">`PolygonData`</a> and resets the builder instance.
+  Builds an instance of <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk11PolygonDataC">`PolygonData`</a> and resets the builder instance.
 
   </div>
 
@@ -266,12 +268,14 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func build () -> PolygonData
+  public func build() -> PolygonData
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk11PolygonDataC">PolygonData</a>
 
   </div>
 
@@ -279,7 +283,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
   #### Return Value
 
-  Instance of <a href="sdk-for-ios-explore-maps#/s:7heresdk11PolygonDataC">`PolygonData`</a> created with the configured parameters.
+  Instance of <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk11PolygonDataC">`PolygonData`</a> created with the configured parameters.
 
   </div>
 

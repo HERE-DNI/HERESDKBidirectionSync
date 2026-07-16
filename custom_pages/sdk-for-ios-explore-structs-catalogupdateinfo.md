@@ -27,7 +27,7 @@ Holds information for the catalog update intent. Provides information regarding 
 
 - <div>
 
-  ` `<span id="/s:7heresdk17CatalogUpdateInfoV09installedB0AA09InstalledB0Vvp"></span>` `<span id="//apple_ref/swift/Property/installedCatalog" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-catalogupdateinfo#/s:7heresdk17CatalogUpdateInfoV09installedB0AA09InstalledB0Vvp" class="token"><code>installedCatalog</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17CatalogUpdateInfoV09installedB0AA09InstalledB0Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-installedCatalog" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-catalogupdateinfo#sdk-for-ios-explore-s-7heresdk17CatalogUpdateInfoV09installedB0AA09InstalledB0Vvp" class="token"><code>installedCatalog</code></a> 
 
   </div>
 
@@ -63,6 +63,10 @@ Holds information for the catalog update intent. Provides information regarding 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-installedcatalog">InstalledCatalog</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ Holds information for the catalog update intent. Provides information regarding 
 
 - <div>
 
-  ` `<span id="/s:7heresdk17CatalogUpdateInfoV13latestVersions5Int64Vvp"></span>` `<span id="//apple_ref/swift/Property/latestVersion" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-catalogupdateinfo#/s:7heresdk17CatalogUpdateInfoV13latestVersions5Int64Vvp" class="token"><code>latestVersion</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17CatalogUpdateInfoV13latestVersions5Int64Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-latestVersion" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-catalogupdateinfo#sdk-for-ios-explore-s-7heresdk17CatalogUpdateInfoV13latestVersions5Int64Vvp" class="token"><code>latestVersion</code></a> 
 
   </div>
 
@@ -115,7 +119,7 @@ Holds information for the catalog update intent. Provides information regarding 
 
 - <div>
 
-  ` `<span id="/s:7heresdk17CatalogUpdateInfoV5stateAA0bC5StateOvp"></span>` `<span id="//apple_ref/swift/Property/state" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-catalogupdateinfo#/s:7heresdk17CatalogUpdateInfoV5stateAA0bC5StateOvp" class="token"><code>state</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17CatalogUpdateInfoV5stateAA0bC5StateOvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-state" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-catalogupdateinfo#sdk-for-ios-explore-s-7heresdk17CatalogUpdateInfoV5stateAA0bC5StateOvp" class="token"><code>state</code></a> 
 
   </div>
 
@@ -151,6 +155,10 @@ Holds information for the catalog update intent. Provides information regarding 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-catalogupdatestate">CatalogUpdateState</a>
+
   </div>
 
   </div>
@@ -159,7 +167,7 @@ Holds information for the catalog update intent. Provides information regarding 
 
 - <div>
 
-  ` `<span id="/s:7heresdk17CatalogUpdateInfoV18networkSizeInBytess5Int64Vvp"></span>` `<span id="//apple_ref/swift/Property/networkSizeInBytes" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-catalogupdateinfo#/s:7heresdk17CatalogUpdateInfoV18networkSizeInBytess5Int64Vvp" class="token"><code>networkSizeInBytes</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17CatalogUpdateInfoV18networkSizeInBytess5Int64Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-networkSizeInBytes" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-catalogupdateinfo#sdk-for-ios-explore-s-7heresdk17CatalogUpdateInfoV18networkSizeInBytess5Int64Vvp" class="token"><code>networkSizeInBytes</code></a> 
 
   </div>
 
@@ -203,7 +211,7 @@ Holds information for the catalog update intent. Provides information regarding 
 
 - <div>
 
-  ` `<span id="/s:7heresdk17CatalogUpdateInfoV15diskSizeInBytess5Int64Vvp"></span>` `<span id="//apple_ref/swift/Property/diskSizeInBytes" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-catalogupdateinfo#/s:7heresdk17CatalogUpdateInfoV15diskSizeInBytess5Int64Vvp" class="token"><code>diskSizeInBytes</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17CatalogUpdateInfoV15diskSizeInBytess5Int64Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-diskSizeInBytes" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-catalogupdateinfo#sdk-for-ios-explore-s-7heresdk17CatalogUpdateInfoV15diskSizeInBytess5Int64Vvp" class="token"><code>diskSizeInBytes</code></a> 
 
   </div>
 
@@ -247,7 +255,7 @@ Holds information for the catalog update intent. Provides information regarding 
 
 - <div>
 
-  ` `<span id="/s:7heresdk17CatalogUpdateInfoV31temporaryDiskRequirementInBytess5Int64Vvp"></span>` `<span id="//apple_ref/swift/Property/temporaryDiskRequirementInBytes" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-catalogupdateinfo#/s:7heresdk17CatalogUpdateInfoV31temporaryDiskRequirementInBytess5Int64Vvp" class="token"><code>temporaryDiskRequirementInBytes</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17CatalogUpdateInfoV31temporaryDiskRequirementInBytess5Int64Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-temporaryDiskRequirementInBytes" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-catalogupdateinfo#sdk-for-ios-explore-s-7heresdk17CatalogUpdateInfoV31temporaryDiskRequirementInBytess5Int64Vvp" class="token"><code>temporaryDiskRequirementInBytes</code></a> 
 
   </div>
 

@@ -27,7 +27,7 @@ Represents Environmental zones.
 
 - <div>
 
-  ` `<span id="/s:7heresdk24EnvironmentalZoneWarningV2ids5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/id" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-environmentalzonewarning#/s:7heresdk24EnvironmentalZoneWarningV2ids5Int32Vvp" class="token"><code>id</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk24EnvironmentalZoneWarningV2ids5Int32Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-id" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-environmentalzonewarning#sdk-for-ios-explore-s-7heresdk24EnvironmentalZoneWarningV2ids5Int32Vvp" class="token"><code>id</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Represents Environmental zones.
 
 - <div>
 
-  ` `<span id="/s:7heresdk24EnvironmentalZoneWarningV16distanceInMetersSdvp"></span>` `<span id="//apple_ref/swift/Property/distanceInMeters" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-environmentalzonewarning#/s:7heresdk24EnvironmentalZoneWarningV16distanceInMetersSdvp" class="token"><code>distanceInMeters</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk24EnvironmentalZoneWarningV16distanceInMetersSdvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-distanceInMeters" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-environmentalzonewarning#sdk-for-ios-explore-s-7heresdk24EnvironmentalZoneWarningV16distanceInMetersSdvp" class="token"><code>distanceInMeters</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Represents Environmental zones.
 
 - <div>
 
-  ` `<span id="/s:7heresdk24EnvironmentalZoneWarningV12distanceTypeAA08DistanceF0Ovp"></span>` `<span id="//apple_ref/swift/Property/distanceType" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-environmentalzonewarning#/s:7heresdk24EnvironmentalZoneWarningV12distanceTypeAA08DistanceF0Ovp" class="token"><code>distanceType</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk24EnvironmentalZoneWarningV12distanceTypeAA08DistanceF0Ovp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-distanceType" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-environmentalzonewarning#sdk-for-ios-explore-s-7heresdk24EnvironmentalZoneWarningV12distanceTypeAA08DistanceF0Ovp" class="token"><code>distanceType</code></a> 
 
   </div>
 
@@ -133,7 +133,7 @@ Represents Environmental zones.
 
   <div class="abstract">
 
-  Indicates if the specified zone is ahead of the vehicle or has just passed by. If it is ahead, then <a href="sdk-for-ios-explore-structs-environmentalzonewarning#/s:7heresdk24EnvironmentalZoneWarningV16distanceInMetersSdvp">`EnvironmentalZoneWarning.distanceInMeters`</a> is greater than 0.
+  Indicates if the specified zone is ahead of the vehicle or has just passed by. If it is ahead, then <a href="sdk-for-ios-explore-structs-environmentalzonewarning#sdk-for-ios-explore-s-7heresdk24EnvironmentalZoneWarningV16distanceInMetersSdvp">`EnvironmentalZoneWarning.distanceInMeters`</a> is greater than 0.
 
   </div>
 
@@ -151,6 +151,10 @@ Represents Environmental zones.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-distancetype">DistanceType</a>
+
   </div>
 
   </div>
@@ -159,7 +163,7 @@ Represents Environmental zones.
 
 - <div>
 
-  ` `<span id="/s:7heresdk24EnvironmentalZoneWarningV6zoneIdSSvp"></span>` `<span id="//apple_ref/swift/Property/zoneId" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-environmentalzonewarning#/s:7heresdk24EnvironmentalZoneWarningV6zoneIdSSvp" class="token"><code>zoneId</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk24EnvironmentalZoneWarningV6zoneIdSSvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-zoneId" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-environmentalzonewarning#sdk-for-ios-explore-s-7heresdk24EnvironmentalZoneWarningV6zoneIdSSvp" class="token"><code>zoneId</code></a> 
 
   </div>
 
@@ -203,7 +207,7 @@ Represents Environmental zones.
 
 - <div>
 
-  ` `<span id="/s:7heresdk24EnvironmentalZoneWarningV4nameSSvp"></span>` `<span id="//apple_ref/swift/Property/name" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-environmentalzonewarning#/s:7heresdk24EnvironmentalZoneWarningV4nameSSvp" class="token"><code>name</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk24EnvironmentalZoneWarningV4nameSSvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-name" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-environmentalzonewarning#sdk-for-ios-explore-s-7heresdk24EnvironmentalZoneWarningV4nameSSvp" class="token"><code>name</code></a> 
 
   </div>
 
@@ -247,7 +251,7 @@ Represents Environmental zones.
 
 - <div>
 
-  ` `<span id="/s:7heresdk24EnvironmentalZoneWarningV11descriptionAA14LocalizedTextsVvp"></span>` `<span id="//apple_ref/swift/Property/description" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-environmentalzonewarning#/s:7heresdk24EnvironmentalZoneWarningV11descriptionAA14LocalizedTextsVvp" class="token"><code>description</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk24EnvironmentalZoneWarningV11descriptionAA14LocalizedTextsVvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-description" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-environmentalzonewarning#sdk-for-ios-explore-s-7heresdk24EnvironmentalZoneWarningV11descriptionAA14LocalizedTextsVvp" class="token"><code>description</code></a> 
 
   </div>
 
@@ -283,6 +287,10 @@ Represents Environmental zones.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-localizedtexts">LocalizedTexts</a>
+
   </div>
 
   </div>
@@ -291,7 +299,7 @@ Represents Environmental zones.
 
 - <div>
 
-  ` `<span id="/s:7heresdk24EnvironmentalZoneWarningV10websiteUrlSSSgvp"></span>` `<span id="//apple_ref/swift/Property/websiteUrl" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-environmentalzonewarning#/s:7heresdk24EnvironmentalZoneWarningV10websiteUrlSSSgvp" class="token"><code>websiteUrl</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk24EnvironmentalZoneWarningV10websiteUrlSSSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-websiteUrl" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-environmentalzonewarning#sdk-for-ios-explore-s-7heresdk24EnvironmentalZoneWarningV10websiteUrlSSSgvp" class="token"><code>websiteUrl</code></a> 
 
   </div>
 
@@ -335,7 +343,7 @@ Represents Environmental zones.
 
 - <div>
 
-      init(id: distanceInMeters: distanceType: zoneId: name: description: websiteUrl: )
+   <span id="sdk-for-ios-explore-s-7heresdk24EnvironmentalZoneWarningV2id16distanceInMeters0F4Type6zoneId4name11description10websiteUrlACs5Int32V_SdAA08DistanceI0OS2SAA14LocalizedTextsVSSSgtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-id-distanceInMeters-distanceType-zoneId-name-description-websiteUrl" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-environmentalzonewarning#sdk-for-ios-explore-s-7heresdk24EnvironmentalZoneWarningV2id16distanceInMeters0F4Type6zoneId4name11description10websiteUrlACs5Int32V_SdAA08DistanceI0OS2SAA14LocalizedTextsVSSSgtcfc" class="token"><code>init(id:</code><wbr></wbr><code>distanceInMeters:</code><wbr></wbr><code>distanceType:</code><wbr></wbr><code>zoneId:</code><wbr></wbr><code>name:</code><wbr></wbr><code>description:</code><wbr></wbr><code>websiteUrl:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -366,12 +374,15 @@ Represents Environmental zones.
   Swift
 
   ``` highlight
-  public init ( id : Int32 = 0 , distanceInMeters : Double , distanceType : DistanceType , zoneId : String , name : String , description : LocalizedTexts = LocalizedTexts (), websiteUrl : String ? = nil )
+  public init(id: Int32 = 0, distanceInMeters: Double, distanceType: DistanceType, zoneId: String, name: String, description: LocalizedTexts = LocalizedTexts(), websiteUrl: String? = nil)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-distancetype">DistanceType</a>
+  - <a href="sdk-for-ios-explore-structs-localizedtexts">LocalizedTexts</a>
 
   </div>
 

@@ -29,7 +29,7 @@ A struct that provides information about segment one direction source and target
 
 - <div>
 
-  ` `<span id="/s:7heresdk21SegmentConnectivitiesV06sourceC0SayAA12ConnectivityVGvp"></span>` `<span id="//apple_ref/swift/Property/sourceConnectivities" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-segmentconnectivities#/s:7heresdk21SegmentConnectivitiesV06sourceC0SayAA12ConnectivityVGvp" class="token"><code>sourceConnectivities</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk21SegmentConnectivitiesV06sourceC0SayAA12ConnectivityVGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-sourceConnectivities" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-segmentconnectivities#sdk-for-ios-explore-s-7heresdk21SegmentConnectivitiesV06sourceC0SayAA12ConnectivityVGvp" class="token"><code>sourceConnectivities</code></a> 
 
   </div>
 
@@ -65,6 +65,10 @@ A struct that provides information about segment one direction source and target
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-connectivity">Connectivity</a>
+
   </div>
 
   </div>
@@ -73,7 +77,7 @@ A struct that provides information about segment one direction source and target
 
 - <div>
 
-  ` `<span id="/s:7heresdk21SegmentConnectivitiesV06targetC0SayAA12ConnectivityVGvp"></span>` `<span id="//apple_ref/swift/Property/targetConnectivities" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-segmentconnectivities#/s:7heresdk21SegmentConnectivitiesV06targetC0SayAA12ConnectivityVGvp" class="token"><code>targetConnectivities</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk21SegmentConnectivitiesV06targetC0SayAA12ConnectivityVGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-targetConnectivities" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-segmentconnectivities#sdk-for-ios-explore-s-7heresdk21SegmentConnectivitiesV06targetC0SayAA12ConnectivityVGvp" class="token"><code>targetConnectivities</code></a> 
 
   </div>
 
@@ -109,6 +113,10 @@ A struct that provides information about segment one direction source and target
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-connectivity">Connectivity</a>
+
   </div>
 
   </div>
@@ -117,7 +125,7 @@ A struct that provides information about segment one direction source and target
 
 - <div>
 
-      init(sourceConnectivities: targetConnectivities: )
+   <span id="sdk-for-ios-explore-s-7heresdk21SegmentConnectivitiesV06sourceC006targetC0ACSayAA12ConnectivityVG_AHtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-sourceConnectivities-targetConnectivities" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-segmentconnectivities#sdk-for-ios-explore-s-7heresdk21SegmentConnectivitiesV06sourceC006targetC0ACSayAA12ConnectivityVG_AHtcfc" class="token"><code>init(sourceConnectivities:</code><wbr></wbr><code>targetConnectivities:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -148,12 +156,14 @@ A struct that provides information about segment one direction source and target
   Swift
 
   ``` highlight
-  public init ( sourceConnectivities : [ Connectivity ], targetConnectivities : [ Connectivity ])
+  public init(sourceConnectivities: [Connectivity], targetConnectivities: [Connectivity])
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-connectivity">Connectivity</a>
 
   </div>
 

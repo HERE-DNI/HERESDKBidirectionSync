@@ -27,7 +27,7 @@ This type contains colors used for the traffic with jam factor greater or equal 
 
 - <div>
 
-  ` `<span id="/s:7heresdk20TrafficOnRouteColorsV4slowSo7UIColorCvp"></span>` `<span id="//apple_ref/swift/Property/slow" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-trafficonroutecolors#/s:7heresdk20TrafficOnRouteColorsV4slowSo7UIColorCvp" class="token"><code>slow</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk20TrafficOnRouteColorsV4slowSo7UIColorCvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-slow" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-trafficonroutecolors#sdk-for-ios-navigate-s-7heresdk20TrafficOnRouteColorsV4slowSo7UIColorCvp" class="token"><code>slow</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ This type contains colors used for the traffic with jam factor greater or equal 
 
 - <div>
 
-  ` `<span id="/s:7heresdk20TrafficOnRouteColorsV10stationarySo7UIColorCvp"></span>` `<span id="//apple_ref/swift/Property/stationary" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-trafficonroutecolors#/s:7heresdk20TrafficOnRouteColorsV10stationarySo7UIColorCvp" class="token"><code>stationary</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk20TrafficOnRouteColorsV10stationarySo7UIColorCvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-stationary" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-trafficonroutecolors#sdk-for-ios-navigate-s-7heresdk20TrafficOnRouteColorsV10stationarySo7UIColorCvp" class="token"><code>stationary</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ This type contains colors used for the traffic with jam factor greater or equal 
 
 - <div>
 
-  ` `<span id="/s:7heresdk20TrafficOnRouteColorsV8blockingSo7UIColorCvp"></span>` `<span id="//apple_ref/swift/Property/blocking" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-trafficonroutecolors#/s:7heresdk20TrafficOnRouteColorsV8blockingSo7UIColorCvp" class="token"><code>blocking</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk20TrafficOnRouteColorsV8blockingSo7UIColorCvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-blocking" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-trafficonroutecolors#sdk-for-ios-navigate-s-7heresdk20TrafficOnRouteColorsV8blockingSo7UIColorCvp" class="token"><code>blocking</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ This type contains colors used for the traffic with jam factor greater or equal 
 
 - <div>
 
-      init(slow: stationary: blocking: )
+   <span id="sdk-for-ios-navigate-s-7heresdk20TrafficOnRouteColorsV4slow10stationary8blockingACSo7UIColorC_A2Htcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-slow-stationary-blocking" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-trafficonroutecolors#sdk-for-ios-navigate-s-7heresdk20TrafficOnRouteColorsV4slow10stationary8blockingACSo7UIColorC_A2Htcfc" class="token"><code>init(slow:</code><wbr></wbr><code>stationary:</code><wbr></wbr><code>blocking:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -190,10 +190,8 @@ This type contains colors used for the traffic with jam factor greater or equal 
   Swift
 
   ``` highlight
-  public init ( slow : UIColor , stationary : UIColor , blocking : UIColor )
+  public init(slow: UIColor, stationary: UIColor, blocking: UIColor)
   ```
-
-  </pre>
 
   </div>
 

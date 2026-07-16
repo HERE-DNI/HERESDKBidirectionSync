@@ -35,7 +35,7 @@ A class representing a map pick result.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13MapPickResultC8mapItemsAA0cbfD0CSgvp"></span>` `<span id="//apple_ref/swift/Property/mapItems" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mappickresult#/s:7heresdk13MapPickResultC8mapItemsAA0cbfD0CSgvp" class="token"><code>mapItems</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13MapPickResultC8mapItemsAA0cbfD0CSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-mapItems" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mappickresult#sdk-for-ios-navigate-s-7heresdk13MapPickResultC8mapItemsAA0cbfD0CSgvp" class="token"><code>mapItems</code></a> 
 
   </div>
 
@@ -71,6 +71,10 @@ A class representing a map pick result.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-pickmapitemsresult">PickMapItemsResult</a>
+
   </div>
 
   </div>
@@ -79,7 +83,7 @@ A class representing a map pick result.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13MapPickResultC10mapContentAA0cbfD0CSgvp"></span>` `<span id="//apple_ref/swift/Property/mapContent" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mappickresult#/s:7heresdk13MapPickResultC10mapContentAA0cbfD0CSgvp" class="token"><code>mapContent</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13MapPickResultC10mapContentAA0cbfD0CSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-mapContent" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mappickresult#sdk-for-ios-navigate-s-7heresdk13MapPickResultC10mapContentAA0cbfD0CSgvp" class="token"><code>mapContent</code></a> 
 
   </div>
 
@@ -115,6 +119,10 @@ A class representing a map pick result.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-pickmapcontentresult">PickMapContentResult</a>
+
   </div>
 
   </div>
@@ -123,7 +131,7 @@ A class representing a map pick result.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13MapPickResultC28customLayerObjectDescriptorsSayAA0bG10DescriptorCGSgvp"></span>` `<span id="//apple_ref/swift/Property/customLayerObjectDescriptors" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mappickresult#/s:7heresdk13MapPickResultC28customLayerObjectDescriptorsSayAA0bG10DescriptorCGSgvp" class="token"><code>customLayerObjectDescriptors</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13MapPickResultC28customLayerObjectDescriptorsSayAA0bG10DescriptorCGSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-customLayerObjectDescriptors" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mappickresult#sdk-for-ios-navigate-s-7heresdk13MapPickResultC28customLayerObjectDescriptorsSayAA0bG10DescriptorCGSgvp" class="token"><code>customLayerObjectDescriptors</code></a> 
 
   </div>
 
@@ -158,6 +166,10 @@ A class representing a map pick result.
   ```
 
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mapobjectdescriptor">MapObjectDescriptor</a>
 
   </div>
 

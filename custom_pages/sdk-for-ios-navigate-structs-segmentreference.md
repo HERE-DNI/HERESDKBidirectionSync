@@ -29,7 +29,7 @@ Reference to a segment id with a travel direction.
 
 - <div>
 
-  ` `<span id="/s:7heresdk16SegmentReferenceV9segmentIdSSvp"></span>` `<span id="//apple_ref/swift/Property/segmentId" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-segmentreference#/s:7heresdk16SegmentReferenceV9segmentIdSSvp" class="token"><code>segmentId</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16SegmentReferenceV9segmentIdSSvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-segmentId" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-segmentreference#sdk-for-ios-navigate-s-7heresdk16SegmentReferenceV9segmentIdSSvp" class="token"><code>segmentId</code></a> 
 
   </div>
 
@@ -73,7 +73,7 @@ Reference to a segment id with a travel direction.
 
 - <div>
 
-  ` `<span id="/s:7heresdk16SegmentReferenceV15travelDirectionAA06TravelE0Ovp"></span>` `<span id="//apple_ref/swift/Property/travelDirection" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-segmentreference#/s:7heresdk16SegmentReferenceV15travelDirectionAA06TravelE0Ovp" class="token"><code>travelDirection</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16SegmentReferenceV15travelDirectionAA06TravelE0Ovp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-travelDirection" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-segmentreference#sdk-for-ios-navigate-s-7heresdk16SegmentReferenceV15travelDirectionAA06TravelE0Ovp" class="token"><code>travelDirection</code></a> 
 
   </div>
 
@@ -109,6 +109,10 @@ Reference to a segment id with a travel direction.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-traveldirection">TravelDirection</a>
+
   </div>
 
   </div>
@@ -117,7 +121,7 @@ Reference to a segment id with a travel direction.
 
 - <div>
 
-  ` `<span id="/s:7heresdk16SegmentReferenceV11offsetStartSdvp"></span>` `<span id="//apple_ref/swift/Property/offsetStart" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-segmentreference#/s:7heresdk16SegmentReferenceV11offsetStartSdvp" class="token"><code>offsetStart</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16SegmentReferenceV11offsetStartSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-offsetStart" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-segmentreference#sdk-for-ios-navigate-s-7heresdk16SegmentReferenceV11offsetStartSdvp" class="token"><code>offsetStart</code></a> 
 
   </div>
 
@@ -161,7 +165,7 @@ Reference to a segment id with a travel direction.
 
 - <div>
 
-  ` `<span id="/s:7heresdk16SegmentReferenceV9offsetEndSdvp"></span>` `<span id="//apple_ref/swift/Property/offsetEnd" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-segmentreference#/s:7heresdk16SegmentReferenceV9offsetEndSdvp" class="token"><code>offsetEnd</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16SegmentReferenceV9offsetEndSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-offsetEnd" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-segmentreference#sdk-for-ios-navigate-s-7heresdk16SegmentReferenceV9offsetEndSdvp" class="token"><code>offsetEnd</code></a> 
 
   </div>
 
@@ -205,7 +209,7 @@ Reference to a segment id with a travel direction.
 
 - <div>
 
-  ` `<span id="/s:7heresdk16SegmentReferenceV15tilePartitionIds6UInt32Vvp"></span>` `<span id="//apple_ref/swift/Property/tilePartitionId" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-segmentreference#/s:7heresdk16SegmentReferenceV15tilePartitionIds6UInt32Vvp" class="token"><code>tilePartitionId</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16SegmentReferenceV15tilePartitionIds6UInt32Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-tilePartitionId" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-segmentreference#sdk-for-ios-navigate-s-7heresdk16SegmentReferenceV15tilePartitionIds6UInt32Vvp" class="token"><code>tilePartitionId</code></a> 
 
   </div>
 
@@ -249,7 +253,7 @@ Reference to a segment id with a travel direction.
 
 - <div>
 
-  ` `<span id="/s:7heresdk16SegmentReferenceV7localIds6UInt32VSgvp"></span>` `<span id="//apple_ref/swift/Property/localId" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-segmentreference#/s:7heresdk16SegmentReferenceV7localIds6UInt32VSgvp" class="token"><code>localId</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16SegmentReferenceV7localIds6UInt32VSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-localId" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-segmentreference#sdk-for-ios-navigate-s-7heresdk16SegmentReferenceV7localIds6UInt32VSgvp" class="token"><code>localId</code></a> 
 
   </div>
 
@@ -293,7 +297,7 @@ Reference to a segment id with a travel direction.
 
 - <div>
 
-      init(segmentId: travelDirection: offsetStart: offsetEnd: tilePartitionId: localId: )
+   <span id="sdk-for-ios-navigate-s-7heresdk16SegmentReferenceV9segmentId15travelDirection11offsetStart0H3End013tilePartitionE005localE0ACSS_AA06TravelG0OS2ds6UInt32VAMSgtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-segmentId-travelDirection-offsetStart-offsetEnd-tilePartitionId-localId" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-segmentreference#sdk-for-ios-navigate-s-7heresdk16SegmentReferenceV9segmentId15travelDirection11offsetStart0H3End013tilePartitionE005localE0ACSS_AA06TravelG0OS2ds6UInt32VAMSgtcfc" class="token"><code>init(segmentId:</code><wbr></wbr><code>travelDirection:</code><wbr></wbr><code>offsetStart:</code><wbr></wbr><code>offsetEnd:</code><wbr></wbr><code>tilePartitionId:</code><wbr></wbr><code>localId:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -324,12 +328,14 @@ Reference to a segment id with a travel direction.
   Swift
 
   ``` highlight
-  public init ( segmentId : String = "" , travelDirection : TravelDirection = TravelDirection . bidirectional , offsetStart : Double = 0.0 , offsetEnd : Double = 1.0 , tilePartitionId : UInt32 = 0 , localId : UInt32 ? = 0 )
+  public init(segmentId: String = "", travelDirection: TravelDirection = TravelDirection.bidirectional, offsetStart: Double = 0.0, offsetEnd: Double = 1.0, tilePartitionId: UInt32 = 0, localId: UInt32? = 0)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-traveldirection">TravelDirection</a>
 
   </div>
 
@@ -339,7 +345,7 @@ Reference to a segment id with a travel direction.
 
 - <div>
 
-      fromString(segmentRef: )
+   <span id="sdk-for-ios-navigate-s-7heresdk16SegmentReferenceV10fromString10segmentRefACSgSS_tFZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-fromString-segmentRef" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-segmentreference#sdk-for-ios-navigate-s-7heresdk16SegmentReferenceV10fromString10segmentRefACSgSS_tFZ" class="token"><code>fromString(segmentRef:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -370,10 +376,8 @@ Reference to a segment id with a travel direction.
   Swift
 
   ``` highlight
-  public static func fromString ( segmentRef : String ) -> SegmentReference ?
+  public static func fromString(segmentRef: String) -> SegmentReference?
   ```
-
-  </pre>
 
   </div>
 

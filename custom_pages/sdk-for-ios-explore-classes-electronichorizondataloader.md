@@ -39,7 +39,7 @@ Offline availability: This property is available online and offline.
 
 - <div>
 
-      init(sdkEngine: options: segmentDataCacheSize: )
+   <span id="sdk-for-ios-explore-s-7heresdk27ElectronicHorizonDataLoaderC9sdkEngine7options07segmentD9CacheSizeAcA09SDKNativeG0C_AA07SegmentdE7OptionsVs5Int32VtKcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-sdkEngine-options-segmentDataCacheSize" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-electronichorizondataloader#sdk-for-ios-explore-s-7heresdk27ElectronicHorizonDataLoaderC9sdkEngine7options07segmentD9CacheSizeAcA09SDKNativeG0C_AA07SegmentdE7OptionsVs5Int32VtKcfc" class="token"><code>init(sdkEngine:</code><wbr></wbr><code>options:</code><wbr></wbr><code>segmentDataCacheSize:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -63,7 +63,7 @@ Offline availability: This property is available online and offline.
 
   Throws
 
-  <a href="sdk-for-ios-explore-core#/s:7heresdk18InstantiationErrora">`InstantiationError`</a> <a href="sdk-for-ios-explore-core#/s:7heresdk18InstantiationErrora">`InstantiationError`</a> If the data loader cannot be created.
+  <a href="sdk-for-ios-explore-core#sdk-for-ios-explore-s-7heresdk18InstantiationErrora">`InstantiationError`</a> <a href="sdk-for-ios-explore-core#sdk-for-ios-explore-s-7heresdk18InstantiationErrora">`InstantiationError`</a> If the data loader cannot be created.
 
   </div>
 
@@ -78,12 +78,15 @@ Offline availability: This property is available online and offline.
   Swift
 
   ``` highlight
-  public init ( sdkEngine : SDKNativeEngine , options : SegmentDataLoaderOptions , segmentDataCacheSize : Int32 ) throws
+  public init(sdkEngine: SDKNativeEngine, options: SegmentDataLoaderOptions, segmentDataCacheSize: Int32) throws
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-sdknativeengine">SDKNativeEngine</a>
+  - <a href="sdk-for-ios-explore-structs-segmentdataloaderoptions">SegmentDataLoaderOptions</a>
 
   </div>
 
@@ -126,7 +129,7 @@ Offline availability: This property is available online and offline.
 
 - <div>
 
-      loadData(electronicHorizonUpdate: )
+   <span id="sdk-for-ios-explore-s-7heresdk27ElectronicHorizonDataLoaderC04loadD0010electronicC6UpdateyAA0bcH0V_tF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-loadData-electronicHorizonUpdate" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-electronichorizondataloader#sdk-for-ios-explore-s-7heresdk27ElectronicHorizonDataLoaderC04loadD0010electronicC6UpdateyAA0bcH0V_tF" class="token"><code>loadData(electronicHorizonUpdate:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -157,12 +160,14 @@ Offline availability: This property is available online and offline.
   Swift
 
   ``` highlight
-  public func loadData ( electronicHorizonUpdate : ElectronicHorizonUpdate )
+  public func loadData(electronicHorizonUpdate: ElectronicHorizonUpdate)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-electronichorizonupdate">ElectronicHorizonUpdate</a>
 
   </div>
 
@@ -193,7 +198,7 @@ Offline availability: This property is available online and offline.
 
 - <div>
 
-      getSegment(segmentId: )
+   <span id="sdk-for-ios-explore-s-7heresdk27ElectronicHorizonDataLoaderC10getSegment9segmentIdAA0bcdE6ResultVAA018DirectedOCMSegmentI0V_tF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-getSegment-segmentId" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-electronichorizondataloader#sdk-for-ios-explore-s-7heresdk27ElectronicHorizonDataLoaderC10getSegment9segmentIdAA0bcdE6ResultVAA018DirectedOCMSegmentI0V_tF" class="token"><code>getSegment(segmentId:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -224,12 +229,15 @@ Offline availability: This property is available online and offline.
   Swift
 
   ``` highlight
-  public func getSegment ( segmentId : DirectedOCMSegmentId ) -> ElectronicHorizonDataLoaderResult
+  public func getSegment(segmentId: DirectedOCMSegmentId) -> ElectronicHorizonDataLoaderResult
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-directedocmsegmentid">DirectedOCMSegmentId</a>
+  - <a href="sdk-for-ios-explore-structs-electronichorizondataloaderresult">ElectronicHorizonDataLoaderResult</a>
 
   </div>
 
@@ -268,7 +276,7 @@ Offline availability: This property is available online and offline.
 
 - <div>
 
-      addElectronicHorizonDataLoaderStatusDelegate(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk27ElectronicHorizonDataLoaderC03addbcdE14StatusDelegateyyAA0bcdegH0_pF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-addElectronicHorizonDataLoaderStatusDelegate-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-electronichorizondataloader#sdk-for-ios-explore-s-7heresdk27ElectronicHorizonDataLoaderC03addbcdE14StatusDelegateyyAA0bcdegH0_pF" class="token"><code>addElectronicHorizonDataLoaderStatusDelegate(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -299,12 +307,14 @@ Offline availability: This property is available online and offline.
   Swift
 
   ``` highlight
-  public func addElectronicHorizonDataLoaderStatusDelegate ( _ electronicHorizonListener : ElectronicHorizonDataLoaderStatusDelegate )
+  public func addElectronicHorizonDataLoaderStatusDelegate(_ electronicHorizonListener: ElectronicHorizonDataLoaderStatusDelegate)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-protocols-electronichorizondataloaderstatusdelegate">ElectronicHorizonDataLoaderStatusDelegate</a>
 
   </div>
 
@@ -335,7 +345,7 @@ Offline availability: This property is available online and offline.
 
 - <div>
 
-      removeElectronicHorizonDataLoaderStatusDelegate(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk27ElectronicHorizonDataLoaderC06removebcdE14StatusDelegateyyAA0bcdegH0_pF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-removeElectronicHorizonDataLoaderStatusDelegate-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-electronichorizondataloader#sdk-for-ios-explore-s-7heresdk27ElectronicHorizonDataLoaderC06removebcdE14StatusDelegateyyAA0bcdegH0_pF" class="token"><code>removeElectronicHorizonDataLoaderStatusDelegate(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -366,12 +376,14 @@ Offline availability: This property is available online and offline.
   Swift
 
   ``` highlight
-  public func removeElectronicHorizonDataLoaderStatusDelegate ( _ electronicHorizonListener : ElectronicHorizonDataLoaderStatusDelegate )
+  public func removeElectronicHorizonDataLoaderStatusDelegate(_ electronicHorizonListener: ElectronicHorizonDataLoaderStatusDelegate)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-protocols-electronichorizondataloaderstatusdelegate">ElectronicHorizonDataLoaderStatusDelegate</a>
 
   </div>
 

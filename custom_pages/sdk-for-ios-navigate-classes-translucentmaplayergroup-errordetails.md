@@ -19,6 +19,10 @@ extension TranslucentMapLayerGroup.ErrorDetails : Error
 
 </div>
 
+Related types:
+
+- <a href="sdk-for-ios-navigate-classes-translucentmaplayergroup">TranslucentMapLayerGroup</a>
+
 </div>
 
 Describes the reason for failing to create the group.
@@ -31,7 +35,7 @@ Describes the reason for failing to create the group.
 
 - <div>
 
-  ` `<span id="/s:7heresdk24TranslucentMapLayerGroupC12ErrorDetailsV9errorCodeAC0fI0Ovp"></span>` `<span id="//apple_ref/swift/Property/errorCode" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-translucentmaplayergroup-errordetails#/s:7heresdk24TranslucentMapLayerGroupC12ErrorDetailsV9errorCodeAC0fI0Ovp" class="token"><code>errorCode</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk24TranslucentMapLayerGroupC12ErrorDetailsV9errorCodeAC0fI0Ovp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-errorCode" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-translucentmaplayergroup-errordetails#sdk-for-ios-navigate-s-7heresdk24TranslucentMapLayerGroupC12ErrorDetailsV9errorCodeAC0fI0Ovp" class="token"><code>errorCode</code></a> 
 
   </div>
 
@@ -67,6 +71,11 @@ Describes the reason for failing to create the group.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-translucentmaplayergroup">TranslucentMapLayerGroup</a>
+  - <a href="sdk-for-ios-navigate-classes-translucentmaplayergroup-errorcode">ErrorCode</a>
+
   </div>
 
   </div>
@@ -75,7 +84,7 @@ Describes the reason for failing to create the group.
 
 - <div>
 
-  ` `<span id="/s:7heresdk24TranslucentMapLayerGroupC12ErrorDetailsV16errorDescriptionSSSgvp"></span>` `<span id="//apple_ref/swift/Property/errorDescription" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-translucentmaplayergroup-errordetails#/s:7heresdk24TranslucentMapLayerGroupC12ErrorDetailsV16errorDescriptionSSSgvp" class="token"><code>errorDescription</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk24TranslucentMapLayerGroupC12ErrorDetailsV16errorDescriptionSSSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-errorDescription" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-translucentmaplayergroup-errordetails#sdk-for-ios-navigate-s-7heresdk24TranslucentMapLayerGroupC12ErrorDetailsV16errorDescriptionSSSgvp" class="token"><code>errorDescription</code></a> 
 
   </div>
 
@@ -119,7 +128,7 @@ Describes the reason for failing to create the group.
 
 - <div>
 
-      init(errorCode: errorDescription: )
+   <span id="sdk-for-ios-navigate-s-7heresdk24TranslucentMapLayerGroupC12ErrorDetailsV9errorCode0H11DescriptionAeC0fI0O_SSSgtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-errorCode-errorDescription" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-translucentmaplayergroup-errordetails#sdk-for-ios-navigate-s-7heresdk24TranslucentMapLayerGroupC12ErrorDetailsV9errorCode0H11DescriptionAeC0fI0O_SSSgtcfc" class="token"><code>init(errorCode:</code><wbr></wbr><code>errorDescription:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -150,12 +159,15 @@ Describes the reason for failing to create the group.
   Swift
 
   ``` highlight
-  public init ( errorCode : TranslucentMapLayerGroup . ErrorCode , errorDescription : String ? = nil )
+  public init(errorCode: TranslucentMapLayerGroup.ErrorCode, errorDescription: String? = nil)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-translucentmaplayergroup">TranslucentMapLayerGroup</a>
+  - <a href="sdk-for-ios-navigate-classes-translucentmaplayergroup-errorcode">ErrorCode</a>
 
   </div>
 

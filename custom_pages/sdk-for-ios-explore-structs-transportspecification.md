@@ -19,7 +19,7 @@ public struct TransportSpecification : Hashable
 
 Contains transport attributes details related to the transport mode. **Notes**
 
-- By default all vehicle specifications from `RoutingOptions.transport_specification` are set to `nil` and the `RoutingOptions.transport_specification.transport_mode` is set to <a href="sdk-for-ios-explore-enums-transportmode#/s:7heresdk13TransportModeO3caryA2CmF">`TransportMode.car`</a>.
+- By default all vehicle specifications from `RoutingOptions.transport_specification` are set to `nil` and the `RoutingOptions.transport_specification.transport_mode` is set to <a href="sdk-for-ios-explore-enums-transportmode#sdk-for-ios-explore-s-7heresdk13TransportModeO3caryA2CmF">`TransportMode.car`</a>.
 - A route can be calculated with only the `RoutingOptions.transport_specification.transport_mode` set.
 
 </div>
@@ -30,7 +30,7 @@ Contains transport attributes details related to the transport mode. **Notes**
 
 - <div>
 
-  ` `<span id="/s:7heresdk22TransportSpecificationV13transportModeAA0bE0Ovp"></span>` `<span id="//apple_ref/swift/Property/transportMode" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-transportspecification#/s:7heresdk22TransportSpecificationV13transportModeAA0bE0Ovp" class="token"><code>transportMode</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk22TransportSpecificationV13transportModeAA0bE0Ovp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-transportMode" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-transportspecification#sdk-for-ios-explore-s-7heresdk22TransportSpecificationV13transportModeAA0bE0Ovp" class="token"><code>transportMode</code></a> 
 
   </div>
 
@@ -66,6 +66,10 @@ Contains transport attributes details related to the transport mode. **Notes**
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-transportmode">TransportMode</a>
+
   </div>
 
   </div>
@@ -74,7 +78,7 @@ Contains transport attributes details related to the transport mode. **Notes**
 
 - <div>
 
-  ` `<span id="/s:7heresdk22TransportSpecificationV07vehicleC0AA07VehicleC0VSgvp"></span>` `<span id="//apple_ref/swift/Property/vehicleSpecification" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-transportspecification#/s:7heresdk22TransportSpecificationV07vehicleC0AA07VehicleC0VSgvp" class="token"><code>vehicleSpecification</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk22TransportSpecificationV07vehicleC0AA07VehicleC0VSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-vehicleSpecification" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-transportspecification#sdk-for-ios-explore-s-7heresdk22TransportSpecificationV07vehicleC0AA07VehicleC0VSgvp" class="token"><code>vehicleSpecification</code></a> 
 
   </div>
 
@@ -110,6 +114,10 @@ Contains transport attributes details related to the transport mode. **Notes**
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-vehiclespecification">VehicleSpecification</a>
+
   </div>
 
   </div>
@@ -118,7 +126,7 @@ Contains transport attributes details related to the transport mode. **Notes**
 
 - <div>
 
-  ` `<span id="/s:7heresdk22TransportSpecificationV010pedestrianC0AA010PedestrianC0VSgvp"></span>` `<span id="//apple_ref/swift/Property/pedestrianSpecification" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-transportspecification#/s:7heresdk22TransportSpecificationV010pedestrianC0AA010PedestrianC0VSgvp" class="token"><code>pedestrianSpecification</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk22TransportSpecificationV010pedestrianC0AA010PedestrianC0VSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-pedestrianSpecification" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-transportspecification#sdk-for-ios-explore-s-7heresdk22TransportSpecificationV010pedestrianC0AA010PedestrianC0VSgvp" class="token"><code>pedestrianSpecification</code></a> 
 
   </div>
 
@@ -154,6 +162,10 @@ Contains transport attributes details related to the transport mode. **Notes**
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-pedestrianspecification">PedestrianSpecification</a>
+
   </div>
 
   </div>
@@ -162,7 +174,7 @@ Contains transport attributes details related to the transport mode. **Notes**
 
 - <div>
 
-  ` `<span id="/s:7heresdk22TransportSpecificationV04taxiC0AA04TaxiC0VSgvp"></span>` `<span id="//apple_ref/swift/Property/taxiSpecification" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-transportspecification#/s:7heresdk22TransportSpecificationV04taxiC0AA04TaxiC0VSgvp" class="token"><code>taxiSpecification</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk22TransportSpecificationV04taxiC0AA04TaxiC0VSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-taxiSpecification" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-transportspecification#sdk-for-ios-explore-s-7heresdk22TransportSpecificationV04taxiC0AA04TaxiC0VSgvp" class="token"><code>taxiSpecification</code></a> 
 
   </div>
 
@@ -198,6 +210,10 @@ Contains transport attributes details related to the transport mode. **Notes**
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-taxispecification">TaxiSpecification</a>
+
   </div>
 
   </div>
@@ -206,7 +222,7 @@ Contains transport attributes details related to the transport mode. **Notes**
 
 - <div>
 
-  ` `<span id="/s:7heresdk22TransportSpecificationV07scooterC0AA07ScooterC0VSgvp"></span>` `<span id="//apple_ref/swift/Property/scooterSpecification" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-transportspecification#/s:7heresdk22TransportSpecificationV07scooterC0AA07ScooterC0VSgvp" class="token"><code>scooterSpecification</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk22TransportSpecificationV07scooterC0AA07ScooterC0VSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-scooterSpecification" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-transportspecification#sdk-for-ios-explore-s-7heresdk22TransportSpecificationV07scooterC0AA07ScooterC0VSgvp" class="token"><code>scooterSpecification</code></a> 
 
   </div>
 
@@ -242,6 +258,10 @@ Contains transport attributes details related to the transport mode. **Notes**
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-scooterspecification">ScooterSpecification</a>
+
   </div>
 
   </div>
@@ -250,7 +270,7 @@ Contains transport attributes details related to the transport mode. **Notes**
 
 - <div>
 
-      init(transportMode: vehicleSpecification: pedestrianSpecification: taxiSpecification: scooterSpecification: )
+   <span id="sdk-for-ios-explore-s-7heresdk22TransportSpecificationV13transportMode07vehicleC0010pedestrianC004taxiC007scooterC0AcA0bE0O_AA07VehicleC0VSgAA010PedestrianC0VSgAA04TaxiC0VSgAA07ScooterC0VSgtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-transportMode-vehicleSpecification-pedestrianSpecification-taxiSpecification-scooterSpecification" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-transportspecification#sdk-for-ios-explore-s-7heresdk22TransportSpecificationV13transportMode07vehicleC0010pedestrianC004taxiC007scooterC0AcA0bE0O_AA07VehicleC0VSgAA010PedestrianC0VSgAA04TaxiC0VSgAA07ScooterC0VSgtcfc" class="token"><code>init(transportMode:</code><wbr></wbr><code>vehicleSpecification:</code><wbr></wbr><code>pedestrianSpecification:</code><wbr></wbr><code>taxiSpecification:</code><wbr></wbr><code>scooterSpecification:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -281,12 +301,18 @@ Contains transport attributes details related to the transport mode. **Notes**
   Swift
 
   ``` highlight
-  public init ( transportMode : TransportMode = TransportMode . car , vehicleSpecification : VehicleSpecification ? = nil , pedestrianSpecification : PedestrianSpecification ? = nil , taxiSpecification : TaxiSpecification ? = nil , scooterSpecification : ScooterSpecification ? = nil )
+  public init(transportMode: TransportMode = TransportMode.car, vehicleSpecification: VehicleSpecification? = nil, pedestrianSpecification: PedestrianSpecification? = nil, taxiSpecification: TaxiSpecification? = nil, scooterSpecification: ScooterSpecification? = nil)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-transportmode">TransportMode</a>
+  - <a href="sdk-for-ios-explore-structs-vehiclespecification">VehicleSpecification</a>
+  - <a href="sdk-for-ios-explore-structs-pedestrianspecification">PedestrianSpecification</a>
+  - <a href="sdk-for-ios-explore-structs-taxispecification">TaxiSpecification</a>
+  - <a href="sdk-for-ios-explore-structs-scooterspecification">ScooterSpecification</a>
 
   </div>
 
@@ -296,7 +322,7 @@ Contains transport attributes details related to the transport mode. **Notes**
 
 - <div>
 
-  ` `<span id="/s:7heresdk22TransportSpecificationV10CarBuilderC"></span>` `<span id="//apple_ref/swift/Class/CarBuilder" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-transportspecification#/s:7heresdk22TransportSpecificationV10CarBuilderC" class="token"><code>CarBuilder</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk22TransportSpecificationV10CarBuilderC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-CarBuilder" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-transportspecification#sdk-for-ios-explore-s-7heresdk22TransportSpecificationV10CarBuilderC" class="token"><code>CarBuilder</code></a> 
 
   </div>
 
@@ -342,6 +368,10 @@ Contains transport attributes details related to the transport mode. **Notes**
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-transportspecification">TransportSpecification</a>
+
   </div>
 
   </div>
@@ -350,7 +380,7 @@ Contains transport attributes details related to the transport mode. **Notes**
 
 - <div>
 
-  ` `<span id="/s:7heresdk22TransportSpecificationV12TruckBuilderC"></span>` `<span id="//apple_ref/swift/Class/TruckBuilder" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-transportspecification#/s:7heresdk22TransportSpecificationV12TruckBuilderC" class="token"><code>TruckBuilder</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk22TransportSpecificationV12TruckBuilderC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-TruckBuilder" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-transportspecification#sdk-for-ios-explore-s-7heresdk22TransportSpecificationV12TruckBuilderC" class="token"><code>TruckBuilder</code></a> 
 
   </div>
 
@@ -396,6 +426,10 @@ Contains transport attributes details related to the transport mode. **Notes**
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-transportspecification">TransportSpecification</a>
+
   </div>
 
   </div>
@@ -404,7 +438,7 @@ Contains transport attributes details related to the transport mode. **Notes**
 
 - <div>
 
-  ` `<span id="/s:7heresdk22TransportSpecificationV17PedestrianBuilderC"></span>` `<span id="//apple_ref/swift/Class/PedestrianBuilder" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-transportspecification#/s:7heresdk22TransportSpecificationV17PedestrianBuilderC" class="token"><code>PedestrianBuilder</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk22TransportSpecificationV17PedestrianBuilderC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-PedestrianBuilder" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-transportspecification#sdk-for-ios-explore-s-7heresdk22TransportSpecificationV17PedestrianBuilderC" class="token"><code>PedestrianBuilder</code></a> 
 
   </div>
 
@@ -450,6 +484,10 @@ Contains transport attributes details related to the transport mode. **Notes**
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-transportspecification">TransportSpecification</a>
+
   </div>
 
   </div>
@@ -458,7 +496,7 @@ Contains transport attributes details related to the transport mode. **Notes**
 
 - <div>
 
-  ` `<span id="/s:7heresdk22TransportSpecificationV14ScooterBuilderC"></span>` `<span id="//apple_ref/swift/Class/ScooterBuilder" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-transportspecification#/s:7heresdk22TransportSpecificationV14ScooterBuilderC" class="token"><code>ScooterBuilder</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk22TransportSpecificationV14ScooterBuilderC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-ScooterBuilder" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-transportspecification#sdk-for-ios-explore-s-7heresdk22TransportSpecificationV14ScooterBuilderC" class="token"><code>ScooterBuilder</code></a> 
 
   </div>
 
@@ -504,6 +542,10 @@ Contains transport attributes details related to the transport mode. **Notes**
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-transportspecification">TransportSpecification</a>
+
   </div>
 
   </div>
@@ -512,7 +554,7 @@ Contains transport attributes details related to the transport mode. **Notes**
 
 - <div>
 
-  ` `<span id="/s:7heresdk22TransportSpecificationV14BicycleBuilderC"></span>` `<span id="//apple_ref/swift/Class/BicycleBuilder" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-transportspecification#/s:7heresdk22TransportSpecificationV14BicycleBuilderC" class="token"><code>BicycleBuilder</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk22TransportSpecificationV14BicycleBuilderC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-BicycleBuilder" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-transportspecification#sdk-for-ios-explore-s-7heresdk22TransportSpecificationV14BicycleBuilderC" class="token"><code>BicycleBuilder</code></a> 
 
   </div>
 
@@ -558,6 +600,10 @@ Contains transport attributes details related to the transport mode. **Notes**
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-transportspecification">TransportSpecification</a>
+
   </div>
 
   </div>
@@ -566,7 +612,7 @@ Contains transport attributes details related to the transport mode. **Notes**
 
 - <div>
 
-  ` `<span id="/s:7heresdk22TransportSpecificationV11TaxiBuilderC"></span>` `<span id="//apple_ref/swift/Class/TaxiBuilder" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-transportspecification#/s:7heresdk22TransportSpecificationV11TaxiBuilderC" class="token"><code>TaxiBuilder</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk22TransportSpecificationV11TaxiBuilderC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-TaxiBuilder" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-transportspecification#sdk-for-ios-explore-s-7heresdk22TransportSpecificationV11TaxiBuilderC" class="token"><code>TaxiBuilder</code></a> 
 
   </div>
 
@@ -612,6 +658,10 @@ Contains transport attributes details related to the transport mode. **Notes**
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-transportspecification">TransportSpecification</a>
+
   </div>
 
   </div>
@@ -620,7 +670,7 @@ Contains transport attributes details related to the transport mode. **Notes**
 
 - <div>
 
-  ` `<span id="/s:7heresdk22TransportSpecificationV10BusBuilderC"></span>` `<span id="//apple_ref/swift/Class/BusBuilder" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-transportspecification#/s:7heresdk22TransportSpecificationV10BusBuilderC" class="token"><code>BusBuilder</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk22TransportSpecificationV10BusBuilderC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-BusBuilder" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-transportspecification#sdk-for-ios-explore-s-7heresdk22TransportSpecificationV10BusBuilderC" class="token"><code>BusBuilder</code></a> 
 
   </div>
 
@@ -666,6 +716,10 @@ Contains transport attributes details related to the transport mode. **Notes**
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-transportspecification">TransportSpecification</a>
+
   </div>
 
   </div>
@@ -674,7 +728,7 @@ Contains transport attributes details related to the transport mode. **Notes**
 
 - <div>
 
-  ` `<span id="/s:7heresdk22TransportSpecificationV17PrivateBusBuilderC"></span>` `<span id="//apple_ref/swift/Class/PrivateBusBuilder" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-transportspecification#/s:7heresdk22TransportSpecificationV17PrivateBusBuilderC" class="token"><code>PrivateBusBuilder</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk22TransportSpecificationV17PrivateBusBuilderC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-PrivateBusBuilder" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-transportspecification#sdk-for-ios-explore-s-7heresdk22TransportSpecificationV17PrivateBusBuilderC" class="token"><code>PrivateBusBuilder</code></a> 
 
   </div>
 
@@ -719,6 +773,10 @@ Contains transport attributes details related to the transport mode. **Notes**
   ```
 
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-transportspecification">TransportSpecification</a>
 
   </div>
 

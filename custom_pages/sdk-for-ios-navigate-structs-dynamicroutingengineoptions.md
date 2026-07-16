@@ -27,7 +27,7 @@ Options defining the behavior of the <a href="sdk-for-ios-navigate-classes-dynam
 
 - <div>
 
-  ` `<span id="/s:7heresdk27DynamicRoutingEngineOptionsV27minTimeDifferencePercentageSdSgvp"></span>` `<span id="//apple_ref/swift/Property/minTimeDifferencePercentage" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-dynamicroutingengineoptions#/s:7heresdk27DynamicRoutingEngineOptionsV27minTimeDifferencePercentageSdSgvp" class="token"><code>minTimeDifferencePercentage</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk27DynamicRoutingEngineOptionsV27minTimeDifferencePercentageSdSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-minTimeDifferencePercentage" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-dynamicroutingengineoptions#sdk-for-ios-navigate-s-7heresdk27DynamicRoutingEngineOptionsV27minTimeDifferencePercentageSdSgvp" class="token"><code>minTimeDifferencePercentage</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Options defining the behavior of the <a href="sdk-for-ios-navigate-classes-dynam
 
 - <div>
 
-  ` `<span id="/s:7heresdk27DynamicRoutingEngineOptionsV17minTimeDifferenceSdSgvp"></span>` `<span id="//apple_ref/swift/Property/minTimeDifference" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-dynamicroutingengineoptions#/s:7heresdk27DynamicRoutingEngineOptionsV17minTimeDifferenceSdSgvp" class="token"><code>minTimeDifference</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk27DynamicRoutingEngineOptionsV17minTimeDifferenceSdSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-minTimeDifference" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-dynamicroutingengineoptions#sdk-for-ios-navigate-s-7heresdk27DynamicRoutingEngineOptionsV17minTimeDifferenceSdSgvp" class="token"><code>minTimeDifference</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Options defining the behavior of the <a href="sdk-for-ios-navigate-classes-dynam
 
 - <div>
 
-  ` `<span id="/s:7heresdk27DynamicRoutingEngineOptionsV12pollIntervalSdvp"></span>` `<span id="//apple_ref/swift/Property/pollInterval" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-dynamicroutingengineoptions#/s:7heresdk27DynamicRoutingEngineOptionsV12pollIntervalSdvp" class="token"><code>pollInterval</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk27DynamicRoutingEngineOptionsV12pollIntervalSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-pollInterval" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-dynamicroutingengineoptions#sdk-for-ios-navigate-s-7heresdk27DynamicRoutingEngineOptionsV12pollIntervalSdvp" class="token"><code>pollInterval</code></a> 
 
   </div>
 
@@ -133,12 +133,7 @@ Options defining the behavior of the <a href="sdk-for-ios-navigate-classes-dynam
 
   <div class="abstract">
 
-  The poll interval. Zero duration triggers a route calculation with each position update. Triggered via
-
-      DynamicRoutingEngine.updateCurrentLocation(...)
-
-  Defaults to 15 minutes.
-  </p>
+  The poll interval. Zero duration triggers a route calculation with each position update. Triggered via <a href="sdk-for-ios-navigate-classes-dynamicroutingengine#sdk-for-ios-navigate-s-7heresdk20DynamicRoutingEngineC21updateCurrentLocation010mapMatchedG012sectionIndexyAA03MapiG0V_s5Int32VtF">`DynamicRoutingEngine.updateCurrentLocation(...)`</a> Defaults to 15 minutes.
 
   </div>
 
@@ -164,7 +159,7 @@ Options defining the behavior of the <a href="sdk-for-ios-navigate-classes-dynam
 
 - <div>
 
-      init(minTimeDifferencePercentage: minTimeDifference: pollInterval: )
+   <span id="sdk-for-ios-navigate-s-7heresdk27DynamicRoutingEngineOptionsV27minTimeDifferencePercentage0fgH012pollIntervalACSdSg_AGSdtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-minTimeDifferencePercentage-minTimeDifference-pollInterval" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-dynamicroutingengineoptions#sdk-for-ios-navigate-s-7heresdk27DynamicRoutingEngineOptionsV27minTimeDifferencePercentage0fgH012pollIntervalACSdSg_AGSdtcfc" class="token"><code>init(minTimeDifferencePercentage:</code><wbr></wbr><code>minTimeDifference:</code><wbr></wbr><code>pollInterval:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -195,10 +190,8 @@ Options defining the behavior of the <a href="sdk-for-ios-navigate-classes-dynam
   Swift
 
   ``` highlight
-  public init ( minTimeDifferencePercentage : Double ? = nil , minTimeDifference : TimeInterval ? = nil , pollInterval : TimeInterval = 15 * 60 )
+  public init(minTimeDifferencePercentage: Double? = nil, minTimeDifference: TimeInterval? = nil, pollInterval: TimeInterval = 15 * 60)
   ```
-
-  </pre>
 
   </div>
 

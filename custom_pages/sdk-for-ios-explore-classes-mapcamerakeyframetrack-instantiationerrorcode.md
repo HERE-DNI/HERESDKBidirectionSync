@@ -19,6 +19,10 @@ extension MapCameraKeyframeTrack.InstantiationErrorCode : Error
 
 </div>
 
+Related types:
+
+- <a href="sdk-for-ios-explore-classes-mapcamerakeyframetrack">MapCameraKeyframeTrack</a>
+
 </div>
 
 Describes a reason for failing to create a MapCameraKeyframeTrack.
@@ -31,7 +35,7 @@ Describes a reason for failing to create a MapCameraKeyframeTrack.
 
 - <div>
 
-  ` `<span id="/s:7heresdk22MapCameraKeyframeTrackC22InstantiationErrorCodeO05emptyD4ListyA2EmF"></span>` `<span id="//apple_ref/swift/Element/emptyKeyframeList" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-mapcamerakeyframetrack-instantiationerrorcode#/s:7heresdk22MapCameraKeyframeTrackC22InstantiationErrorCodeO05emptyD4ListyA2EmF" class="token"><code>emptyKeyframeList</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk22MapCameraKeyframeTrackC22InstantiationErrorCodeO05emptyD4ListyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-emptyKeyframeList" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapcamerakeyframetrack-instantiationerrorcode#sdk-for-ios-explore-s-7heresdk22MapCameraKeyframeTrackC22InstantiationErrorCodeO05emptyD4ListyA2EmF" class="token"><code>emptyKeyframeList</code></a> 
 
   </div>
 
@@ -75,7 +79,7 @@ Describes a reason for failing to create a MapCameraKeyframeTrack.
 
 - <div>
 
-  ` `<span id="/s:7heresdk22MapCameraKeyframeTrackC22InstantiationErrorCodeO07invalidD8DurationyA2EmF"></span>` `<span id="//apple_ref/swift/Element/invalidKeyframeDuration" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-mapcamerakeyframetrack-instantiationerrorcode#/s:7heresdk22MapCameraKeyframeTrackC22InstantiationErrorCodeO07invalidD8DurationyA2EmF" class="token"><code>invalidKeyframeDuration</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk22MapCameraKeyframeTrackC22InstantiationErrorCodeO07invalidD8DurationyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-invalidKeyframeDuration" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapcamerakeyframetrack-instantiationerrorcode#sdk-for-ios-explore-s-7heresdk22MapCameraKeyframeTrackC22InstantiationErrorCodeO07invalidD8DurationyA2EmF" class="token"><code>invalidKeyframeDuration</code></a> 
 
   </div>
 

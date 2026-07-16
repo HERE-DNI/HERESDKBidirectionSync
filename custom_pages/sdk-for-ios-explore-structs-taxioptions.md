@@ -10,18 +10,17 @@ slug: "sdk-for-ios-explore-structs-taxioptions"
 <div class="language">
 
 ``` highlight
-@available(*, deprecated, message: "Will be removed in v4.28.0. Use `RoutingOptions` class instead.") public struct TaxiOptions : Hashable
+@available(*, deprecated, message: "Will be removed in v4.28.0. Use `RoutingOptions` class instead.")
+public struct TaxiOptions : Hashable
 ```
 
-</pre>
-
 </div>
 
 </div>
 
-All the options to specify how a taxi route should be calculated. See, <a href="sdk-for-ios-explore-enums-transportmode#/s:7heresdk13TransportModeO4taxiyA2CmF">`TransportMode.taxi`</a>.
+All the options to specify how a taxi route should be calculated. See, <a href="sdk-for-ios-explore-enums-transportmode#sdk-for-ios-explore-s-7heresdk13TransportModeO4taxiyA2CmF">`TransportMode.taxi`</a>.
 
-**Note:** Specify the optional <a href="sdk-for-ios-explore-structs-waypoint#/s:7heresdk8WaypointV16sideOfStreetHintAA14GeoCoordinatesVSgvp">`Waypoint.sideOfStreetHint`</a> to indicate at which side of the street a passenger wants to leave the taxi.
+**Note:** Specify the optional <a href="sdk-for-ios-explore-structs-waypoint#sdk-for-ios-explore-s-7heresdk8WaypointV16sideOfStreetHintAA14GeoCoordinatesVSgvp">`Waypoint.sideOfStreetHint`</a> to indicate at which side of the street a passenger wants to leave the taxi.
 
 </div>
 
@@ -31,7 +30,7 @@ All the options to specify how a taxi route should be calculated. See, <a href="
 
 - <div>
 
-  ` `<span id="/s:7heresdk11TaxiOptionsV05routeC0AA05RouteC0Vvp"></span>` `<span id="//apple_ref/swift/Property/routeOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-taxioptions#/s:7heresdk11TaxiOptionsV05routeC0AA05RouteC0Vvp" class="token"><code>routeOptions</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11TaxiOptionsV05routeC0AA05RouteC0Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-routeOptions" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-taxioptions#sdk-for-ios-explore-s-7heresdk11TaxiOptionsV05routeC0AA05RouteC0Vvp" class="token"><code>routeOptions</code></a> 
 
   </div>
 
@@ -67,6 +66,10 @@ All the options to specify how a taxi route should be calculated. See, <a href="
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-routeoptions">RouteOptions</a>
+
   </div>
 
   </div>
@@ -75,7 +78,7 @@ All the options to specify how a taxi route should be calculated. See, <a href="
 
 - <div>
 
-  ` `<span id="/s:7heresdk11TaxiOptionsV04textC0AA09RouteTextC0Vvp"></span>` `<span id="//apple_ref/swift/Property/textOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-taxioptions#/s:7heresdk11TaxiOptionsV04textC0AA09RouteTextC0Vvp" class="token"><code>textOptions</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11TaxiOptionsV04textC0AA09RouteTextC0Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-textOptions" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-taxioptions#sdk-for-ios-explore-s-7heresdk11TaxiOptionsV04textC0AA09RouteTextC0Vvp" class="token"><code>textOptions</code></a> 
 
   </div>
 
@@ -111,6 +114,10 @@ All the options to specify how a taxi route should be calculated. See, <a href="
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-routetextoptions">RouteTextOptions</a>
+
   </div>
 
   </div>
@@ -119,7 +126,7 @@ All the options to specify how a taxi route should be calculated. See, <a href="
 
 - <div>
 
-  ` `<span id="/s:7heresdk11TaxiOptionsV09avoidanceC0AA09AvoidanceC0Vvp"></span>` `<span id="//apple_ref/swift/Property/avoidanceOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-taxioptions#/s:7heresdk11TaxiOptionsV09avoidanceC0AA09AvoidanceC0Vvp" class="token"><code>avoidanceOptions</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11TaxiOptionsV09avoidanceC0AA09AvoidanceC0Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-avoidanceOptions" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-taxioptions#sdk-for-ios-explore-s-7heresdk11TaxiOptionsV09avoidanceC0AA09AvoidanceC0Vvp" class="token"><code>avoidanceOptions</code></a> 
 
   </div>
 
@@ -155,6 +162,10 @@ All the options to specify how a taxi route should be calculated. See, <a href="
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-avoidanceoptions">AvoidanceOptions</a>
+
   </div>
 
   </div>
@@ -163,7 +174,7 @@ All the options to specify how a taxi route should be calculated. See, <a href="
 
 - <div>
 
-  ` `<span id="/s:7heresdk11TaxiOptionsV04tollC0AA04TollC0Vvp"></span>` `<span id="//apple_ref/swift/Property/tollOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-taxioptions#/s:7heresdk11TaxiOptionsV04tollC0AA04TollC0Vvp" class="token"><code>tollOptions</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11TaxiOptionsV04tollC0AA04TollC0Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-tollOptions" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-taxioptions#sdk-for-ios-explore-s-7heresdk11TaxiOptionsV04tollC0AA04TollC0Vvp" class="token"><code>tollOptions</code></a> 
 
   </div>
 
@@ -199,6 +210,10 @@ All the options to specify how a taxi route should be calculated. See, <a href="
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-tolloptions">TollOptions</a>
+
   </div>
 
   </div>
@@ -207,7 +222,7 @@ All the options to specify how a taxi route should be calculated. See, <a href="
 
 - <div>
 
-  ` `<span id="/s:7heresdk11TaxiOptionsV27lastCharacterOfLicensePlateSSSgvp"></span>` `<span id="//apple_ref/swift/Property/lastCharacterOfLicensePlate" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-taxioptions#/s:7heresdk11TaxiOptionsV27lastCharacterOfLicensePlateSSSgvp" class="token"><code>lastCharacterOfLicensePlate</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11TaxiOptionsV27lastCharacterOfLicensePlateSSSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-lastCharacterOfLicensePlate" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-taxioptions#sdk-for-ios-explore-s-7heresdk11TaxiOptionsV27lastCharacterOfLicensePlateSSSgvp" class="token"><code>lastCharacterOfLicensePlate</code></a> 
 
   </div>
 
@@ -253,7 +268,7 @@ All the options to specify how a taxi route should be calculated. See, <a href="
 
 - <div>
 
-  ` `<span id="/s:7heresdk11TaxiOptionsV18maxSpeedOnSegmentsSayAA03MaxeF7SegmentVGvp"></span>` `<span id="//apple_ref/swift/Property/maxSpeedOnSegments" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-taxioptions#/s:7heresdk11TaxiOptionsV18maxSpeedOnSegmentsSayAA03MaxeF7SegmentVGvp" class="token"><code>maxSpeedOnSegments</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11TaxiOptionsV18maxSpeedOnSegmentsSayAA03MaxeF7SegmentVGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-maxSpeedOnSegments" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-taxioptions#sdk-for-ios-explore-s-7heresdk11TaxiOptionsV18maxSpeedOnSegmentsSayAA03MaxeF7SegmentVGvp" class="token"><code>maxSpeedOnSegments</code></a> 
 
   </div>
 
@@ -271,7 +286,7 @@ All the options to specify how a taxi route should be calculated. See, <a href="
 
   <div class="abstract">
 
-  Segments with restriction on maximum <a href="sdk-for-ios-explore-structs-dynamicspeedinfo#/s:7heresdk16DynamicSpeedInfoV04baseC17InMetersPerSecondSdvp">`DynamicSpeedInfo.baseSpeedInMetersPerSecond`</a>.
+  Segments with restriction on maximum <a href="sdk-for-ios-explore-structs-dynamicspeedinfo#sdk-for-ios-explore-s-7heresdk16DynamicSpeedInfoV04baseC17InMetersPerSecondSdvp">`DynamicSpeedInfo.baseSpeedInMetersPerSecond`</a>.
 
   </div>
 
@@ -289,6 +304,10 @@ All the options to specify how a taxi route should be calculated. See, <a href="
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-maxspeedonsegment">MaxSpeedOnSegment</a>
+
   </div>
 
   </div>
@@ -297,7 +316,7 @@ All the options to specify how a taxi route should be calculated. See, <a href="
 
 - <div>
 
-  ` `<span id="/s:7heresdk11TaxiOptionsV017allowDriveThroughB5RoadsSbvp"></span>` `<span id="//apple_ref/swift/Property/allowDriveThroughTaxiRoads" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-taxioptions#/s:7heresdk11TaxiOptionsV017allowDriveThroughB5RoadsSbvp" class="token"><code>allowDriveThroughTaxiRoads</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11TaxiOptionsV017allowDriveThroughB5RoadsSbvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-allowDriveThroughTaxiRoads" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-taxioptions#sdk-for-ios-explore-s-7heresdk11TaxiOptionsV017allowDriveThroughB5RoadsSbvp" class="token"><code>allowDriveThroughTaxiRoads</code></a> 
 
   </div>
 
@@ -341,7 +360,7 @@ All the options to specify how a taxi route should be calculated. See, <a href="
 
 - <div>
 
-  ` `<span id="/s:7heresdk11TaxiOptionsV17carSpecificationsAA03CarE0Vvp"></span>` `<span id="//apple_ref/swift/Property/carSpecifications" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-taxioptions#/s:7heresdk11TaxiOptionsV17carSpecificationsAA03CarE0Vvp" class="token"><code>carSpecifications</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11TaxiOptionsV17carSpecificationsAA03CarE0Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-carSpecifications" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-taxioptions#sdk-for-ios-explore-s-7heresdk11TaxiOptionsV17carSpecificationsAA03CarE0Vvp" class="token"><code>carSpecifications</code></a> 
 
   </div>
 
@@ -377,6 +396,10 @@ All the options to specify how a taxi route should be calculated. See, <a href="
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-carspecifications">CarSpecifications</a>
+
   </div>
 
   </div>
@@ -385,7 +408,7 @@ All the options to specify how a taxi route should be calculated. See, <a href="
 
 - <div>
 
-      init()
+   <span id="sdk-for-ios-explore-s-7heresdk11TaxiOptionsVACycfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-taxioptions#sdk-for-ios-explore-s-7heresdk11TaxiOptionsVACycfc" class="token"><code>init()</code></a> 
 
   </div>
 
@@ -416,10 +439,8 @@ All the options to specify how a taxi route should be calculated. See, <a href="
   Swift
 
   ``` highlight
-  public init ()
+  public init()
   ```
-
-  </pre>
 
   </div>
 
@@ -431,7 +452,7 @@ All the options to specify how a taxi route should be calculated. See, <a href="
 
 - <div>
 
-      init(routeOptions: textOptions: avoidanceOptions: )
+   <span id="sdk-for-ios-explore-s-7heresdk11TaxiOptionsV05routeC004textC009avoidanceC0AcA05RouteC0V_AA0g4TextC0VAA09AvoidanceC0Vtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-routeOptions-textOptions-avoidanceOptions" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-taxioptions#sdk-for-ios-explore-s-7heresdk11TaxiOptionsV05routeC004textC009avoidanceC0AcA05RouteC0V_AA0g4TextC0VAA09AvoidanceC0Vtcfc" class="token"><code>init(routeOptions:</code><wbr></wbr><code>textOptions:</code><wbr></wbr><code>avoidanceOptions:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -462,12 +483,16 @@ All the options to specify how a taxi route should be calculated. See, <a href="
   Swift
 
   ``` highlight
-  public init ( routeOptions : RouteOptions , textOptions : RouteTextOptions , avoidanceOptions : AvoidanceOptions )
+  public init(routeOptions: RouteOptions, textOptions: RouteTextOptions, avoidanceOptions: AvoidanceOptions)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-routeoptions">RouteOptions</a>
+  - <a href="sdk-for-ios-explore-structs-routetextoptions">RouteTextOptions</a>
+  - <a href="sdk-for-ios-explore-structs-avoidanceoptions">AvoidanceOptions</a>
 
   </div>
 

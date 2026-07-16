@@ -27,7 +27,7 @@ Defines truck class based on weight. Note: This is a BETA feature and thus subje
 
 - <div>
 
-  ` `<span id="/s:7heresdk10TruckClassO05lightC0yA2CmF"></span>` `<span id="//apple_ref/swift/Element/lightClass" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-truckclass#/s:7heresdk10TruckClassO05lightC0yA2CmF" class="token"><code>lightClass</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10TruckClassO05lightC0yA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-lightClass" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-truckclass#sdk-for-ios-navigate-s-7heresdk10TruckClassO05lightC0yA2CmF" class="token"><code>lightClass</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Defines truck class based on weight. Note: This is a BETA feature and thus subje
 
 - <div>
 
-  ` `<span id="/s:7heresdk10TruckClassO06mediumC0yA2CmF"></span>` `<span id="//apple_ref/swift/Element/mediumClass" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-truckclass#/s:7heresdk10TruckClassO06mediumC0yA2CmF" class="token"><code>mediumClass</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10TruckClassO06mediumC0yA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-mediumClass" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-truckclass#sdk-for-ios-navigate-s-7heresdk10TruckClassO06mediumC0yA2CmF" class="token"><code>mediumClass</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Defines truck class based on weight. Note: This is a BETA feature and thus subje
 
 - <div>
 
-  ` `<span id="/s:7heresdk10TruckClassO05heavyC0yA2CmF"></span>` `<span id="//apple_ref/swift/Element/heavyClass" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-truckclass#/s:7heresdk10TruckClassO05heavyC0yA2CmF" class="token"><code>heavyClass</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10TruckClassO05heavyC0yA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-heavyClass" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-truckclass#sdk-for-ios-navigate-s-7heresdk10TruckClassO05heavyC0yA2CmF" class="token"><code>heavyClass</code></a> 
 
   </div>
 

@@ -27,7 +27,7 @@ Represents data related to specific email address.
 
 - <div>
 
-  ` `<span id="/s:7heresdk12EmailAddressV7addressSSvp"></span>` `<span id="//apple_ref/swift/Property/address" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-emailaddress#/s:7heresdk12EmailAddressV7addressSSvp" class="token"><code>address</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12EmailAddressV7addressSSvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-address" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-emailaddress#sdk-for-ios-navigate-s-7heresdk12EmailAddressV7addressSSvp" class="token"><code>address</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Represents data related to specific email address.
 
 - <div>
 
-  ` `<span id="/s:7heresdk12EmailAddressV10categoriesSayAA13PlaceCategoryCGvp"></span>` `<span id="//apple_ref/swift/Property/categories" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-emailaddress#/s:7heresdk12EmailAddressV10categoriesSayAA13PlaceCategoryCGvp" class="token"><code>categories</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12EmailAddressV10categoriesSayAA13PlaceCategoryCGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-categories" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-emailaddress#sdk-for-ios-navigate-s-7heresdk12EmailAddressV10categoriesSayAA13PlaceCategoryCGvp" class="token"><code>categories</code></a> 
 
   </div>
 
@@ -89,7 +89,7 @@ Represents data related to specific email address.
 
   <div class="abstract">
 
-  Categories associated with email address. Note: In case `EmailAddress.categories` are not empty, then <a href="sdk-for-ios-navigate-structs-emailaddress#/s:7heresdk12EmailAddressV7addressSSvp">`EmailAddress.address`</a> should be used according to given categories. Otherwise, <a href="sdk-for-ios-navigate-structs-emailaddress#/s:7heresdk12EmailAddressV7addressSSvp">`EmailAddress.address`</a> is meant for general use.
+  Categories associated with email address. Note: In case `EmailAddress.categories` are not empty, then <a href="sdk-for-ios-navigate-structs-emailaddress#sdk-for-ios-navigate-s-7heresdk12EmailAddressV7addressSSvp">`EmailAddress.address`</a> should be used according to given categories. Otherwise, <a href="sdk-for-ios-navigate-structs-emailaddress#sdk-for-ios-navigate-s-7heresdk12EmailAddressV7addressSSvp">`EmailAddress.address`</a> is meant for general use.
 
   </div>
 
@@ -107,6 +107,10 @@ Represents data related to specific email address.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-placecategory">PlaceCategory</a>
+
   </div>
 
   </div>
@@ -115,7 +119,7 @@ Represents data related to specific email address.
 
 - <div>
 
-      init(address: categories: )
+   <span id="sdk-for-ios-navigate-s-7heresdk12EmailAddressV7address10categoriesACSS_SayAA13PlaceCategoryCGtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-address-categories" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-emailaddress#sdk-for-ios-navigate-s-7heresdk12EmailAddressV7address10categoriesACSS_SayAA13PlaceCategoryCGtcfc" class="token"><code>init(address:</code><wbr></wbr><code>categories:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -146,12 +150,14 @@ Represents data related to specific email address.
   Swift
 
   ``` highlight
-  public init ( address : String , categories : [ PlaceCategory ])
+  public init(address: String, categories: [PlaceCategory])
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-placecategory">PlaceCategory</a>
 
   </div>
 

@@ -27,7 +27,7 @@ Represents the tariff pricing model (adhoc, emsp, or cpo). **Note:** This is a b
 
 - <div>
 
-  ` `<span id="/s:7heresdk20EVChargingTariffTypeO5adHocyA2CmF"></span>` `<span id="//apple_ref/swift/Element/adHoc" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-evchargingtarifftype#/s:7heresdk20EVChargingTariffTypeO5adHocyA2CmF" class="token"><code>adHoc</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk20EVChargingTariffTypeO5adHocyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-adHoc" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-evchargingtarifftype#sdk-for-ios-explore-s-7heresdk20EVChargingTariffTypeO5adHocyA2CmF" class="token"><code>adHoc</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Represents the tariff pricing model (adhoc, emsp, or cpo). **Note:** This is a b
 
 - <div>
 
-  ` `<span id="/s:7heresdk20EVChargingTariffTypeO4emspyA2CmF"></span>` `<span id="//apple_ref/swift/Element/emsp" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-evchargingtarifftype#/s:7heresdk20EVChargingTariffTypeO4emspyA2CmF" class="token"><code>emsp</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk20EVChargingTariffTypeO4emspyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-emsp" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-evchargingtarifftype#sdk-for-ios-explore-s-7heresdk20EVChargingTariffTypeO4emspyA2CmF" class="token"><code>emsp</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Represents the tariff pricing model (adhoc, emsp, or cpo). **Note:** This is a b
 
 - <div>
 
-  ` `<span id="/s:7heresdk20EVChargingTariffTypeO3cpoyA2CmF"></span>` `<span id="//apple_ref/swift/Element/cpo" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-evchargingtarifftype#/s:7heresdk20EVChargingTariffTypeO3cpoyA2CmF" class="token"><code>cpo</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk20EVChargingTariffTypeO3cpoyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-cpo" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-evchargingtarifftype#sdk-for-ios-explore-s-7heresdk20EVChargingTariffTypeO3cpoyA2CmF" class="token"><code>cpo</code></a> 
 
   </div>
 

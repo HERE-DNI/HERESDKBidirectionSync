@@ -27,7 +27,7 @@ Type representing map content categories.
 
 - <div>
 
-  ` `<span id="/s:7heresdk18MapContentCategoryO23vehicleRestrictionIconsyA2CmF"></span>` `<span id="//apple_ref/swift/Element/vehicleRestrictionIcons" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-mapcontentcategory#/s:7heresdk18MapContentCategoryO23vehicleRestrictionIconsyA2CmF" class="token"><code>vehicleRestrictionIcons</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18MapContentCategoryO23vehicleRestrictionIconsyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-vehicleRestrictionIcons" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-mapcontentcategory#sdk-for-ios-explore-s-7heresdk18MapContentCategoryO23vehicleRestrictionIconsyA2CmF" class="token"><code>vehicleRestrictionIcons</code></a> 
 
   </div>
 

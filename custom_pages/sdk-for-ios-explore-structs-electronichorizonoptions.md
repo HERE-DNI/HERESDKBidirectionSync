@@ -29,7 +29,7 @@ Provides options to configure <a href="sdk-for-ios-explore-classes-electronichor
 
 - <div>
 
-  ` `<span id="/s:7heresdk24ElectronicHorizonOptionsV26lookAheadDistancesInMetersSaySdGvp"></span>` `<span id="//apple_ref/swift/Property/lookAheadDistancesInMeters" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-electronichorizonoptions#/s:7heresdk24ElectronicHorizonOptionsV26lookAheadDistancesInMetersSaySdGvp" class="token"><code>lookAheadDistancesInMeters</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk24ElectronicHorizonOptionsV26lookAheadDistancesInMetersSaySdGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-lookAheadDistancesInMeters" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-electronichorizonoptions#sdk-for-ios-explore-s-7heresdk24ElectronicHorizonOptionsV26lookAheadDistancesInMetersSaySdGvp" class="token"><code>lookAheadDistancesInMeters</code></a> 
 
   </div>
 
@@ -73,7 +73,7 @@ Provides options to configure <a href="sdk-for-ios-explore-classes-electronichor
 
 - <div>
 
-  ` `<span id="/s:7heresdk24ElectronicHorizonOptionsV24trailingDistanceInMetersSdvp"></span>` `<span id="//apple_ref/swift/Property/trailingDistanceInMeters" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-electronichorizonoptions#/s:7heresdk24ElectronicHorizonOptionsV24trailingDistanceInMetersSdvp" class="token"><code>trailingDistanceInMeters</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk24ElectronicHorizonOptionsV24trailingDistanceInMetersSdvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-trailingDistanceInMeters" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-electronichorizonoptions#sdk-for-ios-explore-s-7heresdk24ElectronicHorizonOptionsV24trailingDistanceInMetersSdvp" class="token"><code>trailingDistanceInMeters</code></a> 
 
   </div>
 
@@ -117,7 +117,7 @@ Provides options to configure <a href="sdk-for-ios-explore-classes-electronichor
 
 - <div>
 
-      init(lookAheadDistancesInMeters: trailingDistanceInMeters: )
+   <span id="sdk-for-ios-explore-s-7heresdk24ElectronicHorizonOptionsV26lookAheadDistancesInMeters016trailingDistancehI0ACSaySdG_Sdtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-lookAheadDistancesInMeters-trailingDistanceInMeters" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-electronichorizonoptions#sdk-for-ios-explore-s-7heresdk24ElectronicHorizonOptionsV26lookAheadDistancesInMeters016trailingDistancehI0ACSaySdG_Sdtcfc" class="token"><code>init(lookAheadDistancesInMeters:</code><wbr></wbr><code>trailingDistanceInMeters:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -150,10 +150,8 @@ Provides options to configure <a href="sdk-for-ios-explore-classes-electronichor
   Swift
 
   ``` highlight
-  public init ( lookAheadDistancesInMeters : [ Double ], trailingDistanceInMeters : Double )
+  public init(lookAheadDistancesInMeters: [Double], trailingDistanceInMeters: Double)
   ```
-
-  </pre>
 
   </div>
 

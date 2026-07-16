@@ -27,7 +27,7 @@ This protocol should be implemented in order to receive the speed limit of the c
 
 - <div>
 
-      onSpeedLimitUpdated(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk18SpeedLimitDelegateP02onbC7UpdatedyyAA0bC0VF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-onSpeedLimitUpdated-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-protocols-speedlimitdelegate#sdk-for-ios-navigate-s-7heresdk18SpeedLimitDelegateP02onbC7UpdatedyyAA0bC0VF" class="token"><code>onSpeedLimitUpdated(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -58,12 +58,14 @@ This protocol should be implemented in order to receive the speed limit of the c
   Swift
 
   ``` highlight
-  func onSpeedLimitUpdated ( _ speedLimit : SpeedLimit )
+  func onSpeedLimitUpdated(_ speedLimit: SpeedLimit)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-speedlimit">SpeedLimit</a>
 
   </div>
 

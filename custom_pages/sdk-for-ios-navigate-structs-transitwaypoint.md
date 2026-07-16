@@ -27,7 +27,7 @@ Represents a transit waypoint, used as input for transit route calculation.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15TransitWaypointV11coordinatesAA14GeoCoordinatesVvp"></span>` `<span id="//apple_ref/swift/Property/coordinates" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-transitwaypoint#/s:7heresdk15TransitWaypointV11coordinatesAA14GeoCoordinatesVvp" class="token"><code>coordinates</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15TransitWaypointV11coordinatesAA14GeoCoordinatesVvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-coordinates" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-transitwaypoint#sdk-for-ios-navigate-s-7heresdk15TransitWaypointV11coordinatesAA14GeoCoordinatesVvp" class="token"><code>coordinates</code></a> 
 
   </div>
 
@@ -63,6 +63,10 @@ Represents a transit waypoint, used as input for transit route calculation.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-geocoordinates">GeoCoordinates</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ Represents a transit waypoint, used as input for transit route calculation.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15TransitWaypointV9placeNameSSSgvp"></span>` `<span id="//apple_ref/swift/Property/placeName" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-transitwaypoint#/s:7heresdk15TransitWaypointV9placeNameSSSgvp" class="token"><code>placeName</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15TransitWaypointV9placeNameSSSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-placeName" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-transitwaypoint#sdk-for-ios-navigate-s-7heresdk15TransitWaypointV9placeNameSSSgvp" class="token"><code>placeName</code></a> 
 
   </div>
 
@@ -115,7 +119,7 @@ Represents a transit waypoint, used as input for transit route calculation.
 
 - <div>
 
-      init(coordinates: placeName: )
+   <span id="sdk-for-ios-navigate-s-7heresdk15TransitWaypointV11coordinates9placeNameAcA14GeoCoordinatesV_SSSgtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-coordinates-placeName" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-transitwaypoint#sdk-for-ios-navigate-s-7heresdk15TransitWaypointV11coordinates9placeNameAcA14GeoCoordinatesV_SSSgtcfc" class="token"><code>init(coordinates:</code><wbr></wbr><code>placeName:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -146,12 +150,14 @@ Represents a transit waypoint, used as input for transit route calculation.
   Swift
 
   ``` highlight
-  public init ( coordinates : GeoCoordinates , placeName : String ? = nil )
+  public init(coordinates: GeoCoordinates, placeName: String? = nil)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-geocoordinates">GeoCoordinates</a>
 
   </div>
 

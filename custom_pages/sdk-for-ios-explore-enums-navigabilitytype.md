@@ -27,7 +27,7 @@ Represents the navigability level of a map region. This enum defines whether a r
 
 - <div>
 
-  ` `<span id="/s:7heresdk16NavigabilityTypeO12nonNavigableyA2CmF"></span>` `<span id="//apple_ref/swift/Element/nonNavigable" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-navigabilitytype#/s:7heresdk16NavigabilityTypeO12nonNavigableyA2CmF" class="token"><code>nonNavigable</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16NavigabilityTypeO12nonNavigableyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-nonNavigable" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-navigabilitytype#sdk-for-ios-explore-s-7heresdk16NavigabilityTypeO12nonNavigableyA2CmF" class="token"><code>nonNavigable</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Represents the navigability level of a map region. This enum defines whether a r
 
 - <div>
 
-  ` `<span id="/s:7heresdk16NavigabilityTypeO9navigableyA2CmF"></span>` `<span id="//apple_ref/swift/Element/navigable" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-navigabilitytype#/s:7heresdk16NavigabilityTypeO9navigableyA2CmF" class="token"><code>navigable</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16NavigabilityTypeO9navigableyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-navigable" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-navigabilitytype#sdk-for-ios-explore-s-7heresdk16NavigabilityTypeO9navigableyA2CmF" class="token"><code>navigable</code></a> 
 
   </div>
 

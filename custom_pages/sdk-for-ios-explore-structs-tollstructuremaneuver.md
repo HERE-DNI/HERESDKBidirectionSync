@@ -27,7 +27,7 @@ A struct that provides information for a toll structure at a toll point.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21TollStructureManeuverV04tollC0AA0bC0VSgvp"></span>` `<span id="//apple_ref/swift/Property/tollStructure" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-tollstructuremaneuver#/s:7heresdk21TollStructureManeuverV04tollC0AA0bC0VSgvp" class="token"><code>tollStructure</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk21TollStructureManeuverV04tollC0AA0bC0VSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-tollStructure" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-tollstructuremaneuver#sdk-for-ios-explore-s-7heresdk21TollStructureManeuverV04tollC0AA0bC0VSgvp" class="token"><code>tollStructure</code></a> 
 
   </div>
 
@@ -63,6 +63,10 @@ A struct that provides information for a toll structure at a toll point.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-tollstructure">TollStructure</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ A struct that provides information for a toll structure at a toll point.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21TollStructureManeuverV12isCheckpointSbvp"></span>` `<span id="//apple_ref/swift/Property/isCheckpoint" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-tollstructuremaneuver#/s:7heresdk21TollStructureManeuverV12isCheckpointSbvp" class="token"><code>isCheckpoint</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk21TollStructureManeuverV12isCheckpointSbvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-isCheckpoint" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-tollstructuremaneuver#sdk-for-ios-explore-s-7heresdk21TollStructureManeuverV12isCheckpointSbvp" class="token"><code>isCheckpoint</code></a> 
 
   </div>
 
@@ -115,7 +119,7 @@ A struct that provides information for a toll structure at a toll point.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21TollStructureManeuverV12destinationsSayAA20DirectedOCMSegmentIdVGvp"></span>` `<span id="//apple_ref/swift/Property/destinations" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-tollstructuremaneuver#/s:7heresdk21TollStructureManeuverV12destinationsSayAA20DirectedOCMSegmentIdVGvp" class="token"><code>destinations</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk21TollStructureManeuverV12destinationsSayAA20DirectedOCMSegmentIdVGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-destinations" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-tollstructuremaneuver#sdk-for-ios-explore-s-7heresdk21TollStructureManeuverV12destinationsSayAA20DirectedOCMSegmentIdVGvp" class="token"><code>destinations</code></a> 
 
   </div>
 
@@ -151,6 +155,10 @@ A struct that provides information for a toll structure at a toll point.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-directedocmsegmentid">DirectedOCMSegmentId</a>
+
   </div>
 
   </div>
@@ -159,7 +167,7 @@ A struct that provides information for a toll structure at a toll point.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21TollStructureManeuverV15etcGuidanceFileAA0G9ReferenceVSgvp"></span>` `<span id="//apple_ref/swift/Property/etcGuidanceFile" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-tollstructuremaneuver#/s:7heresdk21TollStructureManeuverV15etcGuidanceFileAA0G9ReferenceVSgvp" class="token"><code>etcGuidanceFile</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk21TollStructureManeuverV15etcGuidanceFileAA0G9ReferenceVSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-etcGuidanceFile" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-tollstructuremaneuver#sdk-for-ios-explore-s-7heresdk21TollStructureManeuverV15etcGuidanceFileAA0G9ReferenceVSgvp" class="token"><code>etcGuidanceFile</code></a> 
 
   </div>
 
@@ -195,6 +203,10 @@ A struct that provides information for a toll structure at a toll point.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-filereference">FileReference</a>
+
   </div>
 
   </div>
@@ -203,7 +215,7 @@ A struct that provides information for a toll structure at a toll point.
 
 - <div>
 
-      init(tollStructure: isCheckpoint: destinations: etcGuidanceFile: )
+   <span id="sdk-for-ios-explore-s-7heresdk21TollStructureManeuverV04tollC012isCheckpoint12destinations15etcGuidanceFileAcA0bC0VSg_SbSayAA20DirectedOCMSegmentIdVGAA0K9ReferenceVSgtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-tollStructure-isCheckpoint-destinations-etcGuidanceFile" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-tollstructuremaneuver#sdk-for-ios-explore-s-7heresdk21TollStructureManeuverV04tollC012isCheckpoint12destinations15etcGuidanceFileAcA0bC0VSg_SbSayAA20DirectedOCMSegmentIdVGAA0K9ReferenceVSgtcfc" class="token"><code>init(tollStructure:</code><wbr></wbr><code>isCheckpoint:</code><wbr></wbr><code>destinations:</code><wbr></wbr><code>etcGuidanceFile:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -234,12 +246,16 @@ A struct that provides information for a toll structure at a toll point.
   Swift
 
   ``` highlight
-  public init ( tollStructure : TollStructure ? = nil , isCheckpoint : Bool = false , destinations : [ DirectedOCMSegmentId ], etcGuidanceFile : FileReference ? = nil )
+  public init(tollStructure: TollStructure? = nil, isCheckpoint: Bool = false, destinations: [DirectedOCMSegmentId], etcGuidanceFile: FileReference? = nil)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-tollstructure">TollStructure</a>
+  - <a href="sdk-for-ios-explore-structs-directedocmsegmentid">DirectedOCMSegmentId</a>
+  - <a href="sdk-for-ios-explore-structs-filereference">FileReference</a>
 
   </div>
 

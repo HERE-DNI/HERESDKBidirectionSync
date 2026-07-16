@@ -17,7 +17,7 @@ public struct RouteLabel : Hashable
 
 </div>
 
-The main street name or road number for a route. A route can contain more than one such street name or route number. To include route labels in the route response, enable it using <a href="sdk-for-ios-navigate-structs-routeoptions#/s:7heresdk12RouteOptionsV06enableB6LabelsSbvp">`RouteOptions.enableRouteLabels`</a>.
+The main street name or road number for a route. A route can contain more than one such street name or route number. To include route labels in the route response, enable it using <a href="sdk-for-ios-navigate-structs-routeoptions#sdk-for-ios-navigate-s-7heresdk12RouteOptionsV06enableB6LabelsSbvp">`RouteOptions.enableRouteLabels`</a>.
 
 </div>
 
@@ -27,7 +27,7 @@ The main street name or road number for a route. A route can contain more than o
 
 - <div>
 
-  ` `<span id="/s:7heresdk10RouteLabelV4nameAA13LocalizedTextVvp"></span>` `<span id="//apple_ref/swift/Property/name" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-routelabel#/s:7heresdk10RouteLabelV4nameAA13LocalizedTextVvp" class="token"><code>name</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10RouteLabelV4nameAA13LocalizedTextVvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-name" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-routelabel#sdk-for-ios-navigate-s-7heresdk10RouteLabelV4nameAA13LocalizedTextVvp" class="token"><code>name</code></a> 
 
   </div>
 
@@ -63,6 +63,10 @@ The main street name or road number for a route. A route can contain more than o
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-localizedtext">LocalizedText</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ The main street name or road number for a route. A route can contain more than o
 
 - <div>
 
-  ` `<span id="/s:7heresdk10RouteLabelV4typeAA0bC4TypeOvp"></span>` `<span id="//apple_ref/swift/Property/type" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-routelabel#/s:7heresdk10RouteLabelV4typeAA0bC4TypeOvp" class="token"><code>type</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10RouteLabelV4typeAA0bC4TypeOvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-type" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-routelabel#sdk-for-ios-navigate-s-7heresdk10RouteLabelV4typeAA0bC4TypeOvp" class="token"><code>type</code></a> 
 
   </div>
 
@@ -107,6 +111,10 @@ The main street name or road number for a route. A route can contain more than o
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-routelabeltype">RouteLabelType</a>
+
   </div>
 
   </div>
@@ -115,7 +123,7 @@ The main street name or road number for a route. A route can contain more than o
 
 - <div>
 
-      init(name: type: )
+   <span id="sdk-for-ios-navigate-s-7heresdk10RouteLabelV4name4typeAcA13LocalizedTextV_AA0bC4TypeOtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-name-type" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-routelabel#sdk-for-ios-navigate-s-7heresdk10RouteLabelV4name4typeAcA13LocalizedTextV_AA0bC4TypeOtcfc" class="token"><code>init(name:</code><wbr></wbr><code>type:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -146,12 +154,15 @@ The main street name or road number for a route. A route can contain more than o
   Swift
 
   ``` highlight
-  public init ( name : LocalizedText , type : RouteLabelType = RouteLabelType . routeNumber )
+  public init(name: LocalizedText, type: RouteLabelType = RouteLabelType.routeNumber)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-localizedtext">LocalizedText</a>
+  - <a href="sdk-for-ios-navigate-enums-routelabeltype">RouteLabelType</a>
 
   </div>
 

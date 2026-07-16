@@ -27,7 +27,7 @@ This protocol should be implemented in order to receive notifications about the 
 
 - <div>
 
-      onDangerZoneWarningsUpdated(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk25DangerZoneWarningDelegateP02onbC15WarningsUpdatedyyAA0bcD0VF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-onDangerZoneWarningsUpdated-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-protocols-dangerzonewarningdelegate#sdk-for-ios-explore-s-7heresdk25DangerZoneWarningDelegateP02onbC15WarningsUpdatedyyAA0bcD0VF" class="token"><code>onDangerZoneWarningsUpdated(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -58,12 +58,14 @@ This protocol should be implemented in order to receive notifications about the 
   Swift
 
   ``` highlight
-  func onDangerZoneWarningsUpdated ( _ dangerZonesWarning : DangerZoneWarning )
+  func onDangerZoneWarningsUpdated(_ dangerZonesWarning: DangerZoneWarning)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-dangerzonewarning">DangerZoneWarning</a>
 
   </div>
 

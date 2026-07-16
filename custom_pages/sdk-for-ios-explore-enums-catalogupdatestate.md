@@ -27,7 +27,7 @@ Represents the state of catalog map updates.
 
 - <div>
 
-  ` `<span id="/s:7heresdk18CatalogUpdateStateO15updateAvailableyA2CmF"></span>` `<span id="//apple_ref/swift/Element/updateAvailable" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-catalogupdatestate#/s:7heresdk18CatalogUpdateStateO15updateAvailableyA2CmF" class="token"><code>updateAvailable</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18CatalogUpdateStateO15updateAvailableyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-updateAvailable" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-catalogupdatestate#sdk-for-ios-explore-s-7heresdk18CatalogUpdateStateO15updateAvailableyA2CmF" class="token"><code>updateAvailable</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Represents the state of catalog map updates.
 
 - <div>
 
-  ` `<span id="/s:7heresdk18CatalogUpdateStateO07pendingC0yA2CmF"></span>` `<span id="//apple_ref/swift/Element/pendingUpdate" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-catalogupdatestate#/s:7heresdk18CatalogUpdateStateO07pendingC0yA2CmF" class="token"><code>pendingUpdate</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18CatalogUpdateStateO07pendingC0yA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-pendingUpdate" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-catalogupdatestate#sdk-for-ios-explore-s-7heresdk18CatalogUpdateStateO07pendingC0yA2CmF" class="token"><code>pendingUpdate</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Represents the state of catalog map updates.
 
 - <div>
 
-  ` `<span id="/s:7heresdk18CatalogUpdateStateO29updateBlockedAsAnotherPendingyA2CmF"></span>` `<span id="//apple_ref/swift/Element/updateBlockedAsAnotherPending" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-catalogupdatestate#/s:7heresdk18CatalogUpdateStateO29updateBlockedAsAnotherPendingyA2CmF" class="token"><code>updateBlockedAsAnotherPending</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18CatalogUpdateStateO29updateBlockedAsAnotherPendingyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-updateBlockedAsAnotherPending" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-catalogupdatestate#sdk-for-ios-explore-s-7heresdk18CatalogUpdateStateO29updateBlockedAsAnotherPendingyA2CmF" class="token"><code>updateBlockedAsAnotherPending</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Represents the state of catalog map updates.
 
 - <div>
 
-  ` `<span id="/s:7heresdk18CatalogUpdateStateO07unknownD0yA2CmF"></span>` `<span id="//apple_ref/swift/Element/unknownState" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-catalogupdatestate#/s:7heresdk18CatalogUpdateStateO07unknownD0yA2CmF" class="token"><code>unknownState</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18CatalogUpdateStateO07unknownD0yA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-unknownState" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-catalogupdatestate#sdk-for-ios-explore-s-7heresdk18CatalogUpdateStateO07unknownD0yA2CmF" class="token"><code>unknownState</code></a> 
 
   </div>
 

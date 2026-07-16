@@ -27,7 +27,7 @@ The protocol for delegates for the <a href="sdk-for-ios-explore-classes-venue">`
 
 - <div>
 
-      onVenueAdded(venue: )
+   <span id="sdk-for-ios-explore-s-7heresdk25VenueMapLifecycleDelegateP02onB5Added5venueyAA0B0C_tF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-onVenueAdded-venue" class="dashAnchor"></span> <a href="sdk-for-ios-explore-protocols-venuemaplifecycledelegate#sdk-for-ios-explore-s-7heresdk25VenueMapLifecycleDelegateP02onB5Added5venueyAA0B0C_tF" class="token"><code>onVenueAdded(venue:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -58,12 +58,14 @@ The protocol for delegates for the <a href="sdk-for-ios-explore-classes-venue">`
   Swift
 
   ``` highlight
-  func onVenueAdded ( venue : Venue )
+  func onVenueAdded(venue: Venue)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-venue">Venue</a>
 
   </div>
 
@@ -94,7 +96,7 @@ The protocol for delegates for the <a href="sdk-for-ios-explore-classes-venue">`
 
 - <div>
 
-      onVenueRemoved(venueIdentifier: )
+   <span id="sdk-for-ios-explore-s-7heresdk25VenueMapLifecycleDelegateP02onB7Removed15venueIdentifierySS_tF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-onVenueRemoved-venueIdentifier" class="dashAnchor"></span> <a href="sdk-for-ios-explore-protocols-venuemaplifecycledelegate#sdk-for-ios-explore-s-7heresdk25VenueMapLifecycleDelegateP02onB7Removed15venueIdentifierySS_tF" class="token"><code>onVenueRemoved(venueIdentifier:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -125,10 +127,8 @@ The protocol for delegates for the <a href="sdk-for-ios-explore-classes-venue">`
   Swift
 
   ``` highlight
-  func onVenueRemoved ( venueIdentifier : String )
+  func onVenueRemoved(venueIdentifier: String)
   ```
-
-  </pre>
 
   </div>
 
@@ -147,7 +147,7 @@ The protocol for delegates for the <a href="sdk-for-ios-explore-classes-venue">`
   <tr>
   <td><code> </code><em><code>venueIdentifier</code></em><code> </code></td>
   <td><div>
-  <p>The destroyed venue id, that can be obtained from the <a href="sdk-for-ios-explore-classes-venuemodel#/s:7heresdk10VenueModelC2ids5Int32Vvp"><code>VenueModel.id</code></a>.</p>
+  <p>The destroyed venue id, that can be obtained from the <a href="sdk-for-ios-explore-classes-venuemodel#sdk-for-ios-explore-s-7heresdk10VenueModelC2ids5Int32Vvp"><code>VenueModel.id</code></a>.</p>
   </div></td>
   </tr>
   </tbody>

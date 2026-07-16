@@ -27,7 +27,7 @@ Types of system resources used by <a href="sdk-for-ios-navigate-classes-mapconte
 
 - <div>
 
-  ` `<span id="/s:7heresdk10MapContextC12ResourceTypeO6memoryyA2EmF"></span>` `<span id="//apple_ref/swift/Element/memory" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapcontext-resourcetype#/s:7heresdk10MapContextC12ResourceTypeO6memoryyA2EmF" class="token"><code>memory</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10MapContextC12ResourceTypeO6memoryyA2EmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-memory" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapcontext-resourcetype#sdk-for-ios-navigate-s-7heresdk10MapContextC12ResourceTypeO6memoryyA2EmF" class="token"><code>memory</code></a> 
 
   </div>
 

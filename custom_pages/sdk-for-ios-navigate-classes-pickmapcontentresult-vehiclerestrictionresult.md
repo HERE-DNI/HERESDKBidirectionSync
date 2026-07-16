@@ -27,7 +27,7 @@ Carries the result of picking a vehicle restriction object.
 
 - <div>
 
-  ` `<span id="/s:7heresdk20PickMapContentResultC018VehicleRestrictionE0V11coordinatesAA14GeoCoordinatesVvp"></span>` `<span id="//apple_ref/swift/Property/coordinates" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-pickmapcontentresult-vehiclerestrictionresult#/s:7heresdk20PickMapContentResultC018VehicleRestrictionE0V11coordinatesAA14GeoCoordinatesVvp" class="token"><code>coordinates</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk20PickMapContentResultC018VehicleRestrictionE0V11coordinatesAA14GeoCoordinatesVvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-coordinates" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-pickmapcontentresult-vehiclerestrictionresult#sdk-for-ios-navigate-s-7heresdk20PickMapContentResultC018VehicleRestrictionE0V11coordinatesAA14GeoCoordinatesVvp" class="token"><code>coordinates</code></a> 
 
   </div>
 
@@ -63,6 +63,10 @@ Carries the result of picking a vehicle restriction object.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-geocoordinates">GeoCoordinates</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ Carries the result of picking a vehicle restriction object.
 
 - <div>
 
-  ` `<span id="/s:7heresdk20PickMapContentResultC018VehicleRestrictionE0V11countryCodeAA07CountryI0OSgvp"></span>` `<span id="//apple_ref/swift/Property/countryCode" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-pickmapcontentresult-vehiclerestrictionresult#/s:7heresdk20PickMapContentResultC018VehicleRestrictionE0V11countryCodeAA07CountryI0OSgvp" class="token"><code>countryCode</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk20PickMapContentResultC018VehicleRestrictionE0V11countryCodeAA07CountryI0OSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-countryCode" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-pickmapcontentresult-vehiclerestrictionresult#sdk-for-ios-navigate-s-7heresdk20PickMapContentResultC018VehicleRestrictionE0V11countryCodeAA07CountryI0OSgvp" class="token"><code>countryCode</code></a> 
 
   </div>
 
@@ -107,6 +111,10 @@ Carries the result of picking a vehicle restriction object.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-countrycode">CountryCode</a>
+
   </div>
 
   </div>
@@ -115,7 +123,7 @@ Carries the result of picking a vehicle restriction object.
 
 - <div>
 
-  ` `<span id="/s:7heresdk20PickMapContentResultC018VehicleRestrictionE0V07vehicleG0AA0fG0Vvp"></span>` `<span id="//apple_ref/swift/Property/vehicleRestriction" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-pickmapcontentresult-vehiclerestrictionresult#/s:7heresdk20PickMapContentResultC018VehicleRestrictionE0V07vehicleG0AA0fG0Vvp" class="token"><code>vehicleRestriction</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk20PickMapContentResultC018VehicleRestrictionE0V07vehicleG0AA0fG0Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-vehicleRestriction" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-pickmapcontentresult-vehiclerestrictionresult#sdk-for-ios-navigate-s-7heresdk20PickMapContentResultC018VehicleRestrictionE0V07vehicleG0AA0fG0Vvp" class="token"><code>vehicleRestriction</code></a> 
 
   </div>
 
@@ -151,6 +159,10 @@ Carries the result of picking a vehicle restriction object.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-vehiclerestriction">VehicleRestriction</a>
+
   </div>
 
   </div>
@@ -159,7 +171,7 @@ Carries the result of picking a vehicle restriction object.
 
 - <div>
 
-      init(coordinates: countryCode: vehicleRestriction: )
+   <span id="sdk-for-ios-navigate-s-7heresdk20PickMapContentResultC018VehicleRestrictionE0V11coordinates11countryCode07vehicleG0AeA14GeoCoordinatesV_AA07CountryJ0OSgAA0fG0Vtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-coordinates-countryCode-vehicleRestriction" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-pickmapcontentresult-vehiclerestrictionresult#sdk-for-ios-navigate-s-7heresdk20PickMapContentResultC018VehicleRestrictionE0V11coordinates11countryCode07vehicleG0AeA14GeoCoordinatesV_AA07CountryJ0OSgAA0fG0Vtcfc" class="token"><code>init(coordinates:</code><wbr></wbr><code>countryCode:</code><wbr></wbr><code>vehicleRestriction:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -190,12 +202,16 @@ Carries the result of picking a vehicle restriction object.
   Swift
 
   ``` highlight
-  public init ( coordinates : GeoCoordinates , countryCode : CountryCode ? = nil , vehicleRestriction : VehicleRestriction )
+  public init(coordinates: GeoCoordinates, countryCode: CountryCode? = nil, vehicleRestriction: VehicleRestriction)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-geocoordinates">GeoCoordinates</a>
+  - <a href="sdk-for-ios-navigate-enums-countrycode">CountryCode</a>
+  - <a href="sdk-for-ios-navigate-structs-vehiclerestriction">VehicleRestriction</a>
 
   </div>
 

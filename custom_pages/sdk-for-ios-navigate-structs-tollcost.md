@@ -27,7 +27,7 @@ Contains informations about the toll costs for a specific vehicle profile.
 
 - <div>
 
-  ` `<span id="/s:7heresdk8TollCostV8currencySSvp"></span>` `<span id="//apple_ref/swift/Property/currency" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-tollcost#/s:7heresdk8TollCostV8currencySSvp" class="token"><code>currency</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8TollCostV8currencySSvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-currency" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-tollcost#sdk-for-ios-navigate-s-7heresdk8TollCostV8currencySSvp" class="token"><code>currency</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Contains informations about the toll costs for a specific vehicle profile.
 
 - <div>
 
-  ` `<span id="/s:7heresdk8TollCostV5priceSdvp"></span>` `<span id="//apple_ref/swift/Property/price" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-tollcost#/s:7heresdk8TollCostV5priceSdvp" class="token"><code>price</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8TollCostV5priceSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-price" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-tollcost#sdk-for-ios-navigate-s-7heresdk8TollCostV5priceSdvp" class="token"><code>price</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Contains informations about the toll costs for a specific vehicle profile.
 
 - <div>
 
-  ` `<span id="/s:7heresdk8TollCostV14paymentMethodsSayAA13PaymentMethodOGvp"></span>` `<span id="//apple_ref/swift/Property/paymentMethods" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-tollcost#/s:7heresdk8TollCostV14paymentMethodsSayAA13PaymentMethodOGvp" class="token"><code>paymentMethods</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8TollCostV14paymentMethodsSayAA13PaymentMethodOGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-paymentMethods" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-tollcost#sdk-for-ios-navigate-s-7heresdk8TollCostV14paymentMethodsSayAA13PaymentMethodOGvp" class="token"><code>paymentMethods</code></a> 
 
   </div>
 
@@ -151,6 +151,10 @@ Contains informations about the toll costs for a specific vehicle profile.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-paymentmethod">PaymentMethod</a>
+
   </div>
 
   </div>
@@ -159,7 +163,7 @@ Contains informations about the toll costs for a specific vehicle profile.
 
 - <div>
 
-  ` `<span id="/s:7heresdk8TollCostV29isPriceCalculatedPerKilometerSbvp"></span>` `<span id="//apple_ref/swift/Property/isPriceCalculatedPerKilometer" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-tollcost#/s:7heresdk8TollCostV29isPriceCalculatedPerKilometerSbvp" class="token"><code>isPriceCalculatedPerKilometer</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8TollCostV29isPriceCalculatedPerKilometerSbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-isPriceCalculatedPerKilometer" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-tollcost#sdk-for-ios-navigate-s-7heresdk8TollCostV29isPriceCalculatedPerKilometerSbvp" class="token"><code>isPriceCalculatedPerKilometer</code></a> 
 
   </div>
 
@@ -203,7 +207,7 @@ Contains informations about the toll costs for a specific vehicle profile.
 
 - <div>
 
-  ` `<span id="/s:7heresdk8TollCostV15vehicleProfilesSayAA14VehicleProfileVGvp"></span>` `<span id="//apple_ref/swift/Property/vehicleProfiles" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-tollcost#/s:7heresdk8TollCostV15vehicleProfilesSayAA14VehicleProfileVGvp" class="token"><code>vehicleProfiles</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8TollCostV15vehicleProfilesSayAA14VehicleProfileVGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-vehicleProfiles" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-tollcost#sdk-for-ios-navigate-s-7heresdk8TollCostV15vehicleProfilesSayAA14VehicleProfileVGvp" class="token"><code>vehicleProfiles</code></a> 
 
   </div>
 
@@ -234,12 +238,15 @@ Contains informations about the toll costs for a specific vehicle profile.
   Swift
 
   ``` highlight
-  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `TollCost.transport_specifications` instead.") public var vehicleProfiles : [ VehicleProfile ]
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `TollCost.transport_specifications` instead.")
+  public var vehicleProfiles: [VehicleProfile]
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-vehicleprofile">VehicleProfile</a>
 
   </div>
 
@@ -249,7 +256,7 @@ Contains informations about the toll costs for a specific vehicle profile.
 
 - <div>
 
-  ` `<span id="/s:7heresdk8TollCostV23transportSpecificationsSayAA22TransportSpecificationVGvp"></span>` `<span id="//apple_ref/swift/Property/transportSpecifications" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-tollcost#/s:7heresdk8TollCostV23transportSpecificationsSayAA22TransportSpecificationVGvp" class="token"><code>transportSpecifications</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8TollCostV23transportSpecificationsSayAA22TransportSpecificationVGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-transportSpecifications" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-tollcost#sdk-for-ios-navigate-s-7heresdk8TollCostV23transportSpecificationsSayAA22TransportSpecificationVGvp" class="token"><code>transportSpecifications</code></a> 
 
   </div>
 
@@ -285,6 +292,10 @@ Contains informations about the toll costs for a specific vehicle profile.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-transportspecification">TransportSpecification</a>
+
   </div>
 
   </div>
@@ -293,7 +304,7 @@ Contains informations about the toll costs for a specific vehicle profile.
 
 - <div>
 
-      init(currency: price: paymentMethods: isPriceCalculatedPerKilometer: transportSpecifications: )
+   <span id="sdk-for-ios-navigate-s-7heresdk8TollCostV8currency5price14paymentMethods29isPriceCalculatedPerKilometer23transportSpecificationsACSS_SdSayAA13PaymentMethodOGSbSayAA22TransportSpecificationVGtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-currency-price-paymentMethods-isPriceCalculatedPerKilometer-transportSpecifications" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-tollcost#sdk-for-ios-navigate-s-7heresdk8TollCostV8currency5price14paymentMethods29isPriceCalculatedPerKilometer23transportSpecificationsACSS_SdSayAA13PaymentMethodOGSbSayAA22TransportSpecificationVGtcfc" class="token"><code>init(currency:</code><wbr></wbr><code>price:</code><wbr></wbr><code>paymentMethods:</code><wbr></wbr><code>isPriceCalculatedPerKilometer:</code><wbr></wbr><code>transportSpecifications:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -324,12 +335,15 @@ Contains informations about the toll costs for a specific vehicle profile.
   Swift
 
   ``` highlight
-  public init ( currency : String , price : Double = 0.0 , paymentMethods : [ PaymentMethod ] = [], isPriceCalculatedPerKilometer : Bool = false , transportSpecifications : [ TransportSpecification ] = [])
+  public init(currency: String, price: Double = 0.0, paymentMethods: [PaymentMethod] = [], isPriceCalculatedPerKilometer: Bool = false, transportSpecifications: [TransportSpecification] = [])
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-paymentmethod">PaymentMethod</a>
+  - <a href="sdk-for-ios-navigate-structs-transportspecification">TransportSpecification</a>
 
   </div>
 
@@ -339,7 +353,7 @@ Contains informations about the toll costs for a specific vehicle profile.
 
 - <div>
 
-      init(currency: price: paymentMethods: isPriceCalculatedPerKilometer: vehicleProfiles: transportSpecifications: )
+   <span id="sdk-for-ios-navigate-s-7heresdk8TollCostV8currency5price14paymentMethods29isPriceCalculatedPerKilometer15vehicleProfiles23transportSpecificationsACSS_SdSayAA13PaymentMethodOGSbSayAA14VehicleProfileVGSayAA22TransportSpecificationVGtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-currency-price-paymentMethods-isPriceCalculatedPerKilometer-vehicleProfiles-transportSpecifications" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-tollcost#sdk-for-ios-navigate-s-7heresdk8TollCostV8currency5price14paymentMethods29isPriceCalculatedPerKilometer15vehicleProfiles23transportSpecificationsACSS_SdSayAA13PaymentMethodOGSbSayAA14VehicleProfileVGSayAA22TransportSpecificationVGtcfc" class="token"><code>init(currency:</code><wbr></wbr><code>price:</code><wbr></wbr><code>paymentMethods:</code><wbr></wbr><code>isPriceCalculatedPerKilometer:</code><wbr></wbr><code>vehicleProfiles:</code><wbr></wbr><code>transportSpecifications:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -370,12 +384,17 @@ Contains informations about the toll costs for a specific vehicle profile.
   Swift
 
   ``` highlight
-  @available(*, deprecated) public init ( currency : String , price : Double = 0.0 , paymentMethods : [ PaymentMethod ] = [], isPriceCalculatedPerKilometer : Bool = false , vehicleProfiles : [ VehicleProfile ] = [], transportSpecifications : [ TransportSpecification ] = [])
+  @available(*, deprecated)
+  public init(currency: String, price: Double = 0.0, paymentMethods: [PaymentMethod] = [], isPriceCalculatedPerKilometer: Bool = false, vehicleProfiles: [VehicleProfile] = [], transportSpecifications: [TransportSpecification] = [])
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-paymentmethod">PaymentMethod</a>
+  - <a href="sdk-for-ios-navigate-structs-vehicleprofile">VehicleProfile</a>
+  - <a href="sdk-for-ios-navigate-structs-transportspecification">TransportSpecification</a>
 
   </div>
 

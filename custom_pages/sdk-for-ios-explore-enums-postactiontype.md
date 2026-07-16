@@ -27,7 +27,7 @@ Identifies the action type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14PostActionTypeO13chargingSetupyA2CmF"></span>` `<span id="//apple_ref/swift/Element/chargingSetup" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-postactiontype#/s:7heresdk14PostActionTypeO13chargingSetupyA2CmF" class="token"><code>chargingSetup</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14PostActionTypeO13chargingSetupyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-chargingSetup" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-postactiontype#sdk-for-ios-explore-s-7heresdk14PostActionTypeO13chargingSetupyA2CmF" class="token"><code>chargingSetup</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Identifies the action type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14PostActionTypeO8chargingyA2CmF"></span>` `<span id="//apple_ref/swift/Element/charging" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-postactiontype#/s:7heresdk14PostActionTypeO8chargingyA2CmF" class="token"><code>charging</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14PostActionTypeO8chargingyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-charging" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-postactiontype#sdk-for-ios-explore-s-7heresdk14PostActionTypeO8chargingyA2CmF" class="token"><code>charging</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Identifies the action type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14PostActionTypeO7deboardyA2CmF"></span>` `<span id="//apple_ref/swift/Element/deboard" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-postactiontype#/s:7heresdk14PostActionTypeO7deboardyA2CmF" class="token"><code>deboard</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14PostActionTypeO7deboardyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-deboard" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-postactiontype#sdk-for-ios-explore-s-7heresdk14PostActionTypeO7deboardyA2CmF" class="token"><code>deboard</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Identifies the action type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14PostActionTypeO4waityA2CmF"></span>` `<span id="//apple_ref/swift/Element/wait" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-postactiontype#/s:7heresdk14PostActionTypeO4waityA2CmF" class="token"><code>wait</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14PostActionTypeO4waityA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-wait" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-postactiontype#sdk-for-ios-explore-s-7heresdk14PostActionTypeO4waityA2CmF" class="token"><code>wait</code></a> 
 
   </div>
 

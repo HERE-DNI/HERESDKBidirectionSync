@@ -27,7 +27,7 @@ Error codes for creating the group.
 
 - <div>
 
-  ` `<span id="/s:7heresdk24TranslucentMapLayerGroupC9ErrorCodeO16invalidParameteryA2EmF"></span>` `<span id="//apple_ref/swift/Element/invalidParameter" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-translucentmaplayergroup-errorcode#/s:7heresdk24TranslucentMapLayerGroupC9ErrorCodeO16invalidParameteryA2EmF" class="token"><code>invalidParameter</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk24TranslucentMapLayerGroupC9ErrorCodeO16invalidParameteryA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-invalidParameter" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-translucentmaplayergroup-errorcode#sdk-for-ios-explore-s-7heresdk24TranslucentMapLayerGroupC9ErrorCodeO16invalidParameteryA2EmF" class="token"><code>invalidParameter</code></a> 
 
   </div>
 

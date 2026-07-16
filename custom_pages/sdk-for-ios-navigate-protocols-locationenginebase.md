@@ -27,7 +27,7 @@ Public protocol that describes the behaviour of <a href="sdk-for-ios-navigate-cl
 
 - <div>
 
-  ` `<span id="/s:7heresdk18LocationEngineBaseP09lastKnownB0AA0B0VSgvp"></span>` `<span id="//apple_ref/swift/Property/lastKnownLocation" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-protocols-locationenginebase#/s:7heresdk18LocationEngineBaseP09lastKnownB0AA0B0VSgvp" class="token"><code>lastKnownLocation</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18LocationEngineBaseP09lastKnownB0AA0B0VSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-lastKnownLocation" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-protocols-locationenginebase#sdk-for-ios-navigate-s-7heresdk18LocationEngineBaseP09lastKnownB0AA0B0VSgvp" class="token"><code>lastKnownLocation</code></a> 
 
   </div>
 
@@ -63,6 +63,10 @@ Public protocol that describes the behaviour of <a href="sdk-for-ios-navigate-cl
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-location">Location</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ Public protocol that describes the behaviour of <a href="sdk-for-ios-navigate-cl
 
 - <div>
 
-  ` `<span id="/s:7heresdk18LocationEngineBaseP9isStartedSbvp"></span>` `<span id="//apple_ref/swift/Property/isStarted" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-protocols-locationenginebase#/s:7heresdk18LocationEngineBaseP9isStartedSbvp" class="token"><code>isStarted</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18LocationEngineBaseP9isStartedSbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-isStarted" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-protocols-locationenginebase#sdk-for-ios-navigate-s-7heresdk18LocationEngineBaseP9isStartedSbvp" class="token"><code>isStarted</code></a> 
 
   </div>
 
@@ -115,7 +119,7 @@ Public protocol that describes the behaviour of <a href="sdk-for-ios-navigate-cl
 
 - <div>
 
-      start(locationAccuracy: )
+   <span id="sdk-for-ios-navigate-s-7heresdk18LocationEngineBaseP5start16locationAccuracyAA0bC6StatusOAA0bG0O_tF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-start-locationAccuracy" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-protocols-locationenginebase#sdk-for-ios-navigate-s-7heresdk18LocationEngineBaseP5start16locationAccuracyAA0bC6StatusOAA0bG0O_tF" class="token"><code>start(locationAccuracy:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -133,14 +137,11 @@ Public protocol that describes the behaviour of <a href="sdk-for-ios-navigate-cl
 
   <div class="abstract">
 
-  Starts the location engine with desired <a href="sdk-for-ios-navigate-enums-locationaccuracy">`LocationAccuracy`</a>. Returns <a href="sdk-for-ios-navigate-enums-locationenginestatus#/s:7heresdk20LocationEngineStatusO14alreadyStartedyA2CmF">`LocationEngineStatus.alreadyStarted`</a>, if
+  Starts the location engine with desired <a href="sdk-for-ios-navigate-enums-locationaccuracy">`LocationAccuracy`</a>. Returns <a href="sdk-for-ios-navigate-enums-locationenginestatus#sdk-for-ios-navigate-s-7heresdk20LocationEngineStatusO14alreadyStartedyA2CmF">`LocationEngineStatus.alreadyStarted`</a>, if
 
       start(LocationOptions)
 
-  is called again without
-      stop(...)
-
-  in between.
+  is called again without <a href="sdk-for-ios-navigate-protocols-locationenginebase#sdk-for-ios-navigate-s-7heresdk18LocationEngineBaseP4stopyyF">`stop(...)`</a> in between.
   </p>
 
   </div>
@@ -154,12 +155,15 @@ Public protocol that describes the behaviour of <a href="sdk-for-ios-navigate-cl
   Swift
 
   ``` highlight
-  func start ( locationAccuracy : LocationAccuracy ) -> LocationEngineStatus
+  func start(locationAccuracy: LocationAccuracy) -> LocationEngineStatus
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-locationaccuracy">LocationAccuracy</a>
+  - <a href="sdk-for-ios-navigate-enums-locationenginestatus">LocationEngineStatus</a>
 
   </div>
 
@@ -198,7 +202,7 @@ Public protocol that describes the behaviour of <a href="sdk-for-ios-navigate-cl
 
 - <div>
 
-      updateLocationAccuracy(locationAccuracy: )
+   <span id="sdk-for-ios-navigate-s-7heresdk18LocationEngineBaseP06updateB8Accuracy08locationF0AA0bC6StatusOAA0bF0O_tF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-updateLocationAccuracy-locationAccuracy" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-protocols-locationenginebase#sdk-for-ios-navigate-s-7heresdk18LocationEngineBaseP06updateB8Accuracy08locationF0AA0bC6StatusOAA0bF0O_tF" class="token"><code>updateLocationAccuracy(locationAccuracy:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -216,14 +220,11 @@ Public protocol that describes the behaviour of <a href="sdk-for-ios-navigate-cl
 
   <div class="abstract">
 
-  Reconfigures the location engine with desired <a href="sdk-for-ios-navigate-enums-locationaccuracy">`LocationAccuracy`</a>. This method is a faster way to change location accuracy for already started location engine, than calling
+  Reconfigures the location engine with desired <a href="sdk-for-ios-navigate-enums-locationaccuracy">`LocationAccuracy`</a>. This method is a faster way to change location accuracy for already started location engine, than calling <a href="sdk-for-ios-navigate-protocols-locationenginebase#sdk-for-ios-navigate-s-7heresdk18LocationEngineBaseP4stopyyF">`stop(...)`</a> and
 
-      stop(...)
-
-  and
       start(LocationOptions)
 
-  in sequence. Returns <a href="sdk-for-ios-navigate-enums-locationenginestatus#/s:7heresdk20LocationEngineStatusO8notReadyyA2CmF">`LocationEngineStatus.notReady`</a>, if called for unstarted location engine.
+  in sequence. Returns <a href="sdk-for-ios-navigate-enums-locationenginestatus#sdk-for-ios-navigate-s-7heresdk20LocationEngineStatusO8notReadyyA2CmF">`LocationEngineStatus.notReady`</a>, if called for unstarted location engine.
   </p>
 
   </div>
@@ -237,12 +238,15 @@ Public protocol that describes the behaviour of <a href="sdk-for-ios-navigate-cl
   Swift
 
   ``` highlight
-  func updateLocationAccuracy ( locationAccuracy : LocationAccuracy ) -> LocationEngineStatus
+  func updateLocationAccuracy(locationAccuracy: LocationAccuracy) -> LocationEngineStatus
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-locationaccuracy">LocationAccuracy</a>
+  - <a href="sdk-for-ios-navigate-enums-locationenginestatus">LocationEngineStatus</a>
 
   </div>
 
@@ -281,7 +285,7 @@ Public protocol that describes the behaviour of <a href="sdk-for-ios-navigate-cl
 
 - <div>
 
-      stop()
+   <span id="sdk-for-ios-navigate-s-7heresdk18LocationEngineBaseP4stopyyF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-stop" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-protocols-locationenginebase#sdk-for-ios-navigate-s-7heresdk18LocationEngineBaseP4stopyyF" class="token"><code>stop()</code></a> 
 
   </div>
 
@@ -312,10 +316,8 @@ Public protocol that describes the behaviour of <a href="sdk-for-ios-navigate-cl
   Swift
 
   ``` highlight
-  func stop ()
+  func stop()
   ```
-
-  </pre>
 
   </div>
 
@@ -327,7 +329,7 @@ Public protocol that describes the behaviour of <a href="sdk-for-ios-navigate-cl
 
 - <div>
 
-      addLocationDelegate(locationDelegate: )
+   <span id="sdk-for-ios-navigate-s-7heresdk18LocationEngineBaseP03addB8Delegate08locationF0yAA0bF0_p_tF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-addLocationDelegate-locationDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-protocols-locationenginebase#sdk-for-ios-navigate-s-7heresdk18LocationEngineBaseP03addB8Delegate08locationF0yAA0bF0_p_tF" class="token"><code>addLocationDelegate(locationDelegate:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -358,12 +360,14 @@ Public protocol that describes the behaviour of <a href="sdk-for-ios-navigate-cl
   Swift
 
   ``` highlight
-  func addLocationDelegate ( locationDelegate : LocationDelegate )
+  func addLocationDelegate(locationDelegate: LocationDelegate)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-protocols-locationdelegate">LocationDelegate</a>
 
   </div>
 
@@ -394,7 +398,7 @@ Public protocol that describes the behaviour of <a href="sdk-for-ios-navigate-cl
 
 - <div>
 
-      removeLocationDelegate(locationDelegate: )
+   <span id="sdk-for-ios-navigate-s-7heresdk18LocationEngineBaseP06removeB8Delegate08locationF0yAA0bF0_p_tF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-removeLocationDelegate-locationDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-protocols-locationenginebase#sdk-for-ios-navigate-s-7heresdk18LocationEngineBaseP06removeB8Delegate08locationF0yAA0bF0_p_tF" class="token"><code>removeLocationDelegate(locationDelegate:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -425,12 +429,14 @@ Public protocol that describes the behaviour of <a href="sdk-for-ios-navigate-cl
   Swift
 
   ``` highlight
-  func removeLocationDelegate ( locationDelegate : LocationDelegate )
+  func removeLocationDelegate(locationDelegate: LocationDelegate)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-protocols-locationdelegate">LocationDelegate</a>
 
   </div>
 
@@ -461,7 +467,7 @@ Public protocol that describes the behaviour of <a href="sdk-for-ios-navigate-cl
 
 - <div>
 
-      addLocationStatusDelegate(locationStatusDelegate: )
+   <span id="sdk-for-ios-navigate-s-7heresdk18LocationEngineBaseP03addB14StatusDelegate08locationfG0yAA0bfG0_p_tF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-addLocationStatusDelegate-locationStatusDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-protocols-locationenginebase#sdk-for-ios-navigate-s-7heresdk18LocationEngineBaseP03addB14StatusDelegate08locationfG0yAA0bfG0_p_tF" class="token"><code>addLocationStatusDelegate(locationStatusDelegate:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -492,12 +498,14 @@ Public protocol that describes the behaviour of <a href="sdk-for-ios-navigate-cl
   Swift
 
   ``` highlight
-  func addLocationStatusDelegate ( locationStatusDelegate : LocationStatusDelegate )
+  func addLocationStatusDelegate(locationStatusDelegate: LocationStatusDelegate)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-protocols-locationstatusdelegate">LocationStatusDelegate</a>
 
   </div>
 
@@ -528,7 +536,7 @@ Public protocol that describes the behaviour of <a href="sdk-for-ios-navigate-cl
 
 - <div>
 
-      removeLocationStatusDelegate(locationStatusDelegate: )
+   <span id="sdk-for-ios-navigate-s-7heresdk18LocationEngineBaseP06removeB14StatusDelegate08locationfG0yAA0bfG0_p_tF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-removeLocationStatusDelegate-locationStatusDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-protocols-locationenginebase#sdk-for-ios-navigate-s-7heresdk18LocationEngineBaseP06removeB14StatusDelegate08locationfG0yAA0bfG0_p_tF" class="token"><code>removeLocationStatusDelegate(locationStatusDelegate:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -559,12 +567,14 @@ Public protocol that describes the behaviour of <a href="sdk-for-ios-navigate-cl
   Swift
 
   ``` highlight
-  func removeLocationStatusDelegate ( locationStatusDelegate : LocationStatusDelegate )
+  func removeLocationStatusDelegate(locationStatusDelegate: LocationStatusDelegate)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-protocols-locationstatusdelegate">LocationStatusDelegate</a>
 
   </div>
 
@@ -595,7 +605,7 @@ Public protocol that describes the behaviour of <a href="sdk-for-ios-navigate-cl
 
 - <div>
 
-      setBackgroundLocationAllowed(allowed: )
+   <span id="sdk-for-ios-navigate-s-7heresdk18LocationEngineBaseP013setBackgroundB7Allowed7allowedAA0bC6StatusOSb_tF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-setBackgroundLocationAllowed-allowed" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-protocols-locationenginebase#sdk-for-ios-navigate-s-7heresdk18LocationEngineBaseP013setBackgroundB7Allowed7allowedAA0bC6StatusOSb_tF" class="token"><code>setBackgroundLocationAllowed(allowed:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -626,12 +636,14 @@ Public protocol that describes the behaviour of <a href="sdk-for-ios-navigate-cl
   Swift
 
   ``` highlight
-  func setBackgroundLocationAllowed ( allowed : Bool ) -> LocationEngineStatus
+  func setBackgroundLocationAllowed(allowed: Bool) -> LocationEngineStatus
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-locationenginestatus">LocationEngineStatus</a>
 
   </div>
 
@@ -660,7 +672,7 @@ Public protocol that describes the behaviour of <a href="sdk-for-ios-navigate-cl
 
   #### Return Value
 
-  <a href="sdk-for-ios-navigate-enums-locationenginestatus#/s:7heresdk20LocationEngineStatusO2okyA2CmF">`LocationEngineStatus.ok`</a> if call succeeds. <a href="sdk-for-ios-navigate-enums-locationenginestatus#/s:7heresdk20LocationEngineStatusO10notAllowedyA2CmF">`LocationEngineStatus.notAllowed`</a> if the application does not have background location capabilities enabled. <a href="sdk-for-ios-navigate-enums-locationenginestatus#/s:7heresdk20LocationEngineStatusO12notSupportedyA2CmF">`LocationEngineStatus.notSupported`</a> on platforms which do not support controlling of background location modes.
+  <a href="sdk-for-ios-navigate-enums-locationenginestatus#sdk-for-ios-navigate-s-7heresdk20LocationEngineStatusO2okyA2CmF">`LocationEngineStatus.ok`</a> if call succeeds. <a href="sdk-for-ios-navigate-enums-locationenginestatus#sdk-for-ios-navigate-s-7heresdk20LocationEngineStatusO10notAllowedyA2CmF">`LocationEngineStatus.notAllowed`</a> if the application does not have background location capabilities enabled. <a href="sdk-for-ios-navigate-enums-locationenginestatus#sdk-for-ios-navigate-s-7heresdk20LocationEngineStatusO12notSupportedyA2CmF">`LocationEngineStatus.notSupported`</a> on platforms which do not support controlling of background location modes.
 
   </div>
 
@@ -670,7 +682,7 @@ Public protocol that describes the behaviour of <a href="sdk-for-ios-navigate-cl
 
 - <div>
 
-      getBackgroundLocationAllowed()
+   <span id="sdk-for-ios-navigate-s-7heresdk18LocationEngineBaseP013getBackgroundB7AllowedSbyF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-getBackgroundLocationAllowed" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-protocols-locationenginebase#sdk-for-ios-navigate-s-7heresdk18LocationEngineBaseP013getBackgroundB7AllowedSbyF" class="token"><code>getBackgroundLocationAllowed()</code></a> 
 
   </div>
 
@@ -688,12 +700,7 @@ Public protocol that describes the behaviour of <a href="sdk-for-ios-navigate-cl
 
   <div class="abstract">
 
-  Check if application’s background location updates are enabled. Returns `false` on platforms which do not support controlling of background location modes using
-
-      setBackgroundLocationAllowed(...)
-
-  method.
-  </p>
+  Check if application’s background location updates are enabled. Returns `false` on platforms which do not support controlling of background location modes using <a href="sdk-for-ios-navigate-protocols-locationenginebase#sdk-for-ios-navigate-s-7heresdk18LocationEngineBaseP013setBackgroundB7Allowed7allowedAA0bC6StatusOSb_tF">`setBackgroundLocationAllowed(...)`</a> method.
 
   </div>
 
@@ -706,10 +713,8 @@ Public protocol that describes the behaviour of <a href="sdk-for-ios-navigate-cl
   Swift
 
   ``` highlight
-  func getBackgroundLocationAllowed () -> Bool
+  func getBackgroundLocationAllowed() -> Bool
   ```
-
-  </pre>
 
   </div>
 
@@ -729,7 +734,7 @@ Public protocol that describes the behaviour of <a href="sdk-for-ios-navigate-cl
 
 - <div>
 
-      setBackgroundLocationIndicatorVisible(visible: )
+   <span id="sdk-for-ios-navigate-s-7heresdk18LocationEngineBaseP013setBackgroundB16IndicatorVisible7visibleAA0bC6StatusOSb_tF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-setBackgroundLocationIndicatorVisible-visible" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-protocols-locationenginebase#sdk-for-ios-navigate-s-7heresdk18LocationEngineBaseP013setBackgroundB16IndicatorVisible7visibleAA0bC6StatusOSb_tF" class="token"><code>setBackgroundLocationIndicatorVisible(visible:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -760,12 +765,14 @@ Public protocol that describes the behaviour of <a href="sdk-for-ios-navigate-cl
   Swift
 
   ``` highlight
-  func setBackgroundLocationIndicatorVisible ( visible : Bool ) -> LocationEngineStatus
+  func setBackgroundLocationIndicatorVisible(visible: Bool) -> LocationEngineStatus
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-locationenginestatus">LocationEngineStatus</a>
 
   </div>
 
@@ -794,7 +801,7 @@ Public protocol that describes the behaviour of <a href="sdk-for-ios-navigate-cl
 
   #### Return Value
 
-  <a href="sdk-for-ios-navigate-enums-locationenginestatus#/s:7heresdk20LocationEngineStatusO2okyA2CmF">`LocationEngineStatus.ok`</a> if call succeeds. <a href="sdk-for-ios-navigate-enums-locationenginestatus#/s:7heresdk20LocationEngineStatusO10notAllowedyA2CmF">`LocationEngineStatus.notAllowed`</a> if the application does not have background location capabilities enabled. <a href="sdk-for-ios-navigate-enums-locationenginestatus#/s:7heresdk20LocationEngineStatusO12notSupportedyA2CmF">`LocationEngineStatus.notSupported`</a> on platforms which do not support controlling of background location indicator visibility.
+  <a href="sdk-for-ios-navigate-enums-locationenginestatus#sdk-for-ios-navigate-s-7heresdk20LocationEngineStatusO2okyA2CmF">`LocationEngineStatus.ok`</a> if call succeeds. <a href="sdk-for-ios-navigate-enums-locationenginestatus#sdk-for-ios-navigate-s-7heresdk20LocationEngineStatusO10notAllowedyA2CmF">`LocationEngineStatus.notAllowed`</a> if the application does not have background location capabilities enabled. <a href="sdk-for-ios-navigate-enums-locationenginestatus#sdk-for-ios-navigate-s-7heresdk20LocationEngineStatusO12notSupportedyA2CmF">`LocationEngineStatus.notSupported`</a> on platforms which do not support controlling of background location indicator visibility.
 
   </div>
 
@@ -804,7 +811,7 @@ Public protocol that describes the behaviour of <a href="sdk-for-ios-navigate-cl
 
 - <div>
 
-      getBackgroundLocationIndicatorVisible()
+   <span id="sdk-for-ios-navigate-s-7heresdk18LocationEngineBaseP013getBackgroundB16IndicatorVisibleSbyF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-getBackgroundLocationIndicatorVisible" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-protocols-locationenginebase#sdk-for-ios-navigate-s-7heresdk18LocationEngineBaseP013getBackgroundB16IndicatorVisibleSbyF" class="token"><code>getBackgroundLocationIndicatorVisible()</code></a> 
 
   </div>
 
@@ -822,12 +829,7 @@ Public protocol that describes the behaviour of <a href="sdk-for-ios-navigate-cl
 
   <div class="abstract">
 
-  Check if application’s background location indicator is visible. Returns `false` on platforms which do not support controlling of background location indicator using
-
-      setBackgroundLocationIndicatorVisible(...)
-
-  method.
-  </p>
+  Check if application’s background location indicator is visible. Returns `false` on platforms which do not support controlling of background location indicator using <a href="sdk-for-ios-navigate-protocols-locationenginebase#sdk-for-ios-navigate-s-7heresdk18LocationEngineBaseP013setBackgroundB16IndicatorVisible7visibleAA0bC6StatusOSb_tF">`setBackgroundLocationIndicatorVisible(...)`</a> method.
 
   </div>
 
@@ -840,10 +842,8 @@ Public protocol that describes the behaviour of <a href="sdk-for-ios-navigate-cl
   Swift
 
   ``` highlight
-  func getBackgroundLocationIndicatorVisible () -> Bool
+  func getBackgroundLocationIndicatorVisible() -> Bool
   ```
-
-  </pre>
 
   </div>
 
@@ -863,7 +863,7 @@ Public protocol that describes the behaviour of <a href="sdk-for-ios-navigate-cl
 
 - <div>
 
-      setPauseLocationUpdatesAutomatically(allowed: )
+   <span id="sdk-for-ios-navigate-s-7heresdk18LocationEngineBaseP08setPauseB20UpdatesAutomatically7allowedAA0bC6StatusOSb_tF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-setPauseLocationUpdatesAutomatically-allowed" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-protocols-locationenginebase#sdk-for-ios-navigate-s-7heresdk18LocationEngineBaseP08setPauseB20UpdatesAutomatically7allowedAA0bC6StatusOSb_tF" class="token"><code>setPauseLocationUpdatesAutomatically(allowed:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -894,12 +894,14 @@ Public protocol that describes the behaviour of <a href="sdk-for-ios-navigate-cl
   Swift
 
   ``` highlight
-  func setPauseLocationUpdatesAutomatically ( allowed : Bool ) -> LocationEngineStatus
+  func setPauseLocationUpdatesAutomatically(allowed: Bool) -> LocationEngineStatus
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-locationenginestatus">LocationEngineStatus</a>
 
   </div>
 
@@ -928,7 +930,7 @@ Public protocol that describes the behaviour of <a href="sdk-for-ios-navigate-cl
 
   #### Return Value
 
-  <a href="sdk-for-ios-navigate-enums-locationenginestatus#/s:7heresdk20LocationEngineStatusO2okyA2CmF">`LocationEngineStatus.ok`</a> if call succeeds. <a href="sdk-for-ios-navigate-enums-locationenginestatus#/s:7heresdk20LocationEngineStatusO12notSupportedyA2CmF">`LocationEngineStatus.notSupported`</a> on platforms which do not support automatic pausing of location updates.
+  <a href="sdk-for-ios-navigate-enums-locationenginestatus#sdk-for-ios-navigate-s-7heresdk20LocationEngineStatusO2okyA2CmF">`LocationEngineStatus.ok`</a> if call succeeds. <a href="sdk-for-ios-navigate-enums-locationenginestatus#sdk-for-ios-navigate-s-7heresdk20LocationEngineStatusO12notSupportedyA2CmF">`LocationEngineStatus.notSupported`</a> on platforms which do not support automatic pausing of location updates.
 
   </div>
 
@@ -938,7 +940,7 @@ Public protocol that describes the behaviour of <a href="sdk-for-ios-navigate-cl
 
 - <div>
 
-      getPauseLocationUpdatesAutomatically()
+   <span id="sdk-for-ios-navigate-s-7heresdk18LocationEngineBaseP08getPauseB20UpdatesAutomaticallySbyF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-getPauseLocationUpdatesAutomatically" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-protocols-locationenginebase#sdk-for-ios-navigate-s-7heresdk18LocationEngineBaseP08getPauseB20UpdatesAutomaticallySbyF" class="token"><code>getPauseLocationUpdatesAutomatically()</code></a> 
 
   </div>
 
@@ -956,12 +958,7 @@ Public protocol that describes the behaviour of <a href="sdk-for-ios-navigate-cl
 
   <div class="abstract">
 
-  Check if automatic pausing of location updates are enabled. Returns `false` on platforms which do not support controlling of automatic pausing of location updates using
-
-      setPauseLocationUpdatesAutomatically(...)
-
-  method.
-  </p>
+  Check if automatic pausing of location updates are enabled. Returns `false` on platforms which do not support controlling of automatic pausing of location updates using <a href="sdk-for-ios-navigate-protocols-locationenginebase#sdk-for-ios-navigate-s-7heresdk18LocationEngineBaseP08setPauseB20UpdatesAutomatically7allowedAA0bC6StatusOSb_tF">`setPauseLocationUpdatesAutomatically(...)`</a> method.
 
   </div>
 
@@ -974,10 +971,8 @@ Public protocol that describes the behaviour of <a href="sdk-for-ios-navigate-cl
   Swift
 
   ``` highlight
-  func getPauseLocationUpdatesAutomatically () -> Bool
+  func getPauseLocationUpdatesAutomatically() -> Bool
   ```
-
-  </pre>
 
   </div>
 

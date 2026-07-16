@@ -17,7 +17,7 @@ public struct RealisticViewWarning : Hashable
 
 </div>
 
-A realistic view notification. This notification is given for complex junctions and it includes a visual representation of that junction, in order to help the user to better navigate it. When <a href="sdk-for-ios-navigate-structs-realisticviewwarning#/s:7heresdk20RealisticViewWarningV12distanceTypeAA08DistanceF0Ovp">`RealisticViewWarning.distanceType`</a> is <a href="sdk-for-ios-navigate-enums-distancetype#/s:7heresdk12DistanceTypeO5aheadyA2CmF">`DistanceType.ahead`</a>, the <a href="sdk-for-ios-navigate-structs-realisticviewwarning#/s:7heresdk20RealisticViewWarningV09realisticC11VectorImageAA0bcfG0VSgvp">`RealisticViewWarning.realisticViewVectorImage`</a> object will be provided with the junction view and the signpost representations. For <a href="sdk-for-ios-navigate-structs-realisticviewwarning#/s:7heresdk20RealisticViewWarningV12distanceTypeAA08DistanceF0Ovp">`RealisticViewWarning.distanceType`</a> with value <a href="sdk-for-ios-navigate-enums-distancetype#/s:7heresdk12DistanceTypeO6passedyA2CmF">`DistanceType.passed`</a>, the <a href="sdk-for-ios-navigate-structs-realisticviewwarning#/s:7heresdk20RealisticViewWarningV09realisticC11VectorImageAA0bcfG0VSgvp">`RealisticViewWarning.realisticViewVectorImage`</a> object will be null. Use `RealisticViewWarningListener` to get notifications about the realistic views of the upcoming junctions.
+A realistic view notification. This notification is given for complex junctions and it includes a visual representation of that junction, in order to help the user to better navigate it. When <a href="sdk-for-ios-navigate-structs-realisticviewwarning#sdk-for-ios-navigate-s-7heresdk20RealisticViewWarningV12distanceTypeAA08DistanceF0Ovp">`RealisticViewWarning.distanceType`</a> is <a href="sdk-for-ios-navigate-enums-distancetype#sdk-for-ios-navigate-s-7heresdk12DistanceTypeO5aheadyA2CmF">`DistanceType.ahead`</a>, the <a href="sdk-for-ios-navigate-structs-realisticviewwarning#sdk-for-ios-navigate-s-7heresdk20RealisticViewWarningV09realisticC11VectorImageAA0bcfG0VSgvp">`RealisticViewWarning.realisticViewVectorImage`</a> object will be provided with the junction view and the signpost representations. For <a href="sdk-for-ios-navigate-structs-realisticviewwarning#sdk-for-ios-navigate-s-7heresdk20RealisticViewWarningV12distanceTypeAA08DistanceF0Ovp">`RealisticViewWarning.distanceType`</a> with value <a href="sdk-for-ios-navigate-enums-distancetype#sdk-for-ios-navigate-s-7heresdk12DistanceTypeO6passedyA2CmF">`DistanceType.passed`</a>, the <a href="sdk-for-ios-navigate-structs-realisticviewwarning#sdk-for-ios-navigate-s-7heresdk20RealisticViewWarningV09realisticC11VectorImageAA0bcfG0VSgvp">`RealisticViewWarning.realisticViewVectorImage`</a> object will be null. Use `RealisticViewWarningListener` to get notifications about the realistic views of the upcoming junctions.
 
 Realistic view notifications require an online connection in order to function properly, or that the junction or signpost map layer data is cached, installed or preloaded as part of a <a href="sdk-for-ios-navigate-structs-region">`Region`</a>. This can be enabled via feature configurations.
 
@@ -29,7 +29,7 @@ Realistic view notifications require an online connection in order to function p
 
 - <div>
 
-  ` `<span id="/s:7heresdk20RealisticViewWarningV2ids5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/id" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-realisticviewwarning#/s:7heresdk20RealisticViewWarningV2ids5Int32Vvp" class="token"><code>id</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk20RealisticViewWarningV2ids5Int32Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-id" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-realisticviewwarning#sdk-for-ios-navigate-s-7heresdk20RealisticViewWarningV2ids5Int32Vvp" class="token"><code>id</code></a> 
 
   </div>
 
@@ -73,7 +73,7 @@ Realistic view notifications require an online connection in order to function p
 
 - <div>
 
-  ` `<span id="/s:7heresdk20RealisticViewWarningV010distanceTobC8InMetersSdvp"></span>` `<span id="//apple_ref/swift/Property/distanceToRealisticViewInMeters" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-realisticviewwarning#/s:7heresdk20RealisticViewWarningV010distanceTobC8InMetersSdvp" class="token"><code>distanceToRealisticViewInMeters</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk20RealisticViewWarningV010distanceTobC8InMetersSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-distanceToRealisticViewInMeters" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-realisticviewwarning#sdk-for-ios-navigate-s-7heresdk20RealisticViewWarningV010distanceTobC8InMetersSdvp" class="token"><code>distanceToRealisticViewInMeters</code></a> 
 
   </div>
 
@@ -117,7 +117,7 @@ Realistic view notifications require an online connection in order to function p
 
 - <div>
 
-  ` `<span id="/s:7heresdk20RealisticViewWarningV09realisticC11VectorImageAA0bcfG0VSgvp"></span>` `<span id="//apple_ref/swift/Property/realisticViewVectorImage" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-realisticviewwarning#/s:7heresdk20RealisticViewWarningV09realisticC11VectorImageAA0bcfG0VSgvp" class="token"><code>realisticViewVectorImage</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk20RealisticViewWarningV09realisticC11VectorImageAA0bcfG0VSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-realisticViewVectorImage" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-realisticviewwarning#sdk-for-ios-navigate-s-7heresdk20RealisticViewWarningV09realisticC11VectorImageAA0bcfG0VSgvp" class="token"><code>realisticViewVectorImage</code></a> 
 
   </div>
 
@@ -135,7 +135,7 @@ Realistic view notifications require an online connection in order to function p
 
   <div class="abstract">
 
-  The realistic view object for which the warning is given. Image resources are stored as vector graphics. Within `RealisticViewWarning`, only one type of image, either raster or vector, will be provided. If this property is not `nil`, then <a href="sdk-for-ios-navigate-structs-realisticviewwarning#/s:7heresdk20RealisticViewWarningV09realisticC11RasterImageAA0bcfG0VSgvp">`RealisticViewWarning.realisticViewRasterImage`</a> will be `nil`.
+  The realistic view object for which the warning is given. Image resources are stored as vector graphics. Within `RealisticViewWarning`, only one type of image, either raster or vector, will be provided. If this property is not `nil`, then <a href="sdk-for-ios-navigate-structs-realisticviewwarning#sdk-for-ios-navigate-s-7heresdk20RealisticViewWarningV09realisticC11RasterImageAA0bcfG0VSgvp">`RealisticViewWarning.realisticViewRasterImage`</a> will be `nil`.
 
   **Note:** The realistic views for most of the countries are stored as vector images.
 
@@ -155,6 +155,10 @@ Realistic view notifications require an online connection in order to function p
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-realisticviewvectorimage">RealisticViewVectorImage</a>
+
   </div>
 
   </div>
@@ -163,7 +167,7 @@ Realistic view notifications require an online connection in order to function p
 
 - <div>
 
-  ` `<span id="/s:7heresdk20RealisticViewWarningV09realisticC11RasterImageAA0bcfG0VSgvp"></span>` `<span id="//apple_ref/swift/Property/realisticViewRasterImage" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-realisticviewwarning#/s:7heresdk20RealisticViewWarningV09realisticC11RasterImageAA0bcfG0VSgvp" class="token"><code>realisticViewRasterImage</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk20RealisticViewWarningV09realisticC11RasterImageAA0bcfG0VSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-realisticViewRasterImage" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-realisticviewwarning#sdk-for-ios-navigate-s-7heresdk20RealisticViewWarningV09realisticC11RasterImageAA0bcfG0VSgvp" class="token"><code>realisticViewRasterImage</code></a> 
 
   </div>
 
@@ -181,7 +185,7 @@ Realistic view notifications require an online connection in order to function p
 
   <div class="abstract">
 
-  The realistic view object for which the warning is given. Image resources are stored as raster graphics. Within `RealisticViewWarning`, only one type of image, either raster or vector, will be provided. If this property is not `nil`, then <a href="sdk-for-ios-navigate-structs-realisticviewwarning#/s:7heresdk20RealisticViewWarningV09realisticC11VectorImageAA0bcfG0VSgvp">`RealisticViewWarning.realisticViewVectorImage`</a> will be `nil`. **Note:** Certain countries support only raster images as realistic views. Currently, this is the case only for Japan, but in the future, more countries might support this type of realistic views.
+  The realistic view object for which the warning is given. Image resources are stored as raster graphics. Within `RealisticViewWarning`, only one type of image, either raster or vector, will be provided. If this property is not `nil`, then <a href="sdk-for-ios-navigate-structs-realisticviewwarning#sdk-for-ios-navigate-s-7heresdk20RealisticViewWarningV09realisticC11VectorImageAA0bcfG0VSgvp">`RealisticViewWarning.realisticViewVectorImage`</a> will be `nil`. **Note:** Certain countries support only raster images as realistic views. Currently, this is the case only for Japan, but in the future, more countries might support this type of realistic views.
 
   </div>
 
@@ -199,6 +203,10 @@ Realistic view notifications require an online connection in order to function p
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-realisticviewrasterimage">RealisticViewRasterImage</a>
+
   </div>
 
   </div>
@@ -207,7 +215,7 @@ Realistic view notifications require an online connection in order to function p
 
 - <div>
 
-  ` `<span id="/s:7heresdk20RealisticViewWarningV12distanceTypeAA08DistanceF0Ovp"></span>` `<span id="//apple_ref/swift/Property/distanceType" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-realisticviewwarning#/s:7heresdk20RealisticViewWarningV12distanceTypeAA08DistanceF0Ovp" class="token"><code>distanceType</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk20RealisticViewWarningV12distanceTypeAA08DistanceF0Ovp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-distanceType" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-realisticviewwarning#sdk-for-ios-navigate-s-7heresdk20RealisticViewWarningV12distanceTypeAA08DistanceF0Ovp" class="token"><code>distanceType</code></a> 
 
   </div>
 
@@ -225,7 +233,7 @@ Realistic view notifications require an online connection in order to function p
 
   <div class="abstract">
 
-  The distance type for the warning, e.g. a warning for a new realistic view ahead or a warning for passing a realistic view. Since the realistic view warning is given relative to a single position on the route, <a href="sdk-for-ios-navigate-enums-distancetype#/s:7heresdk12DistanceTypeO7reachedyA2CmF">`DistanceType.reached`</a> will never be given for this warning.
+  The distance type for the warning, e.g. a warning for a new realistic view ahead or a warning for passing a realistic view. Since the realistic view warning is given relative to a single position on the route, <a href="sdk-for-ios-navigate-enums-distancetype#sdk-for-ios-navigate-s-7heresdk12DistanceTypeO7reachedyA2CmF">`DistanceType.reached`</a> will never be given for this warning.
 
   </div>
 
@@ -243,6 +251,10 @@ Realistic view notifications require an online connection in order to function p
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-distancetype">DistanceType</a>
+
   </div>
 
   </div>
@@ -251,7 +263,7 @@ Realistic view notifications require an online connection in order to function p
 
 - <div>
 
-      init(id: distanceToRealisticViewInMeters: realisticViewVectorImage: realisticViewRasterImage: distanceType: )
+   <span id="sdk-for-ios-navigate-s-7heresdk20RealisticViewWarningV2id010distanceTobC8InMeters09realisticC11VectorImage0jc6RasterL00F4TypeACs5Int32V_SdAA0bckL0VSgAA0bcmL0VSgAA08DistanceN0Otcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-id-distanceToRealisticViewInMeters-realisticViewVectorImage-realisticViewRasterImage-distanceType" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-realisticviewwarning#sdk-for-ios-navigate-s-7heresdk20RealisticViewWarningV2id010distanceTobC8InMeters09realisticC11VectorImage0jc6RasterL00F4TypeACs5Int32V_SdAA0bckL0VSgAA0bcmL0VSgAA08DistanceN0Otcfc" class="token"><code>init(id:</code><wbr></wbr><code>distanceToRealisticViewInMeters:</code><wbr></wbr><code>realisticViewVectorImage:</code><wbr></wbr><code>realisticViewRasterImage:</code><wbr></wbr><code>distanceType:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -275,12 +287,12 @@ Realistic view notifications require an online connection in order to function p
 
     - id: Unique identifier for this specific realistic view warning instance. Each warning type (truck restrictions, speed warnings, etc.) maintains its own independent ID namespace. Use this ID to track, update, or dismiss individual warning instances of this type.
     - distanceToRealisticViewInMeters: Distance to the junction, for which the realistic view is given, expressed in meters.
-    - realisticViewVectorImage: The realistic view object for which the warning is given. Image resources are stored as vector graphics. Within `RealisticViewWarning`, only one type of image, either raster or vector, will be provided. If this property is not `nil`, then <a href="sdk-for-ios-navigate-structs-realisticviewwarning#/s:7heresdk20RealisticViewWarningV09realisticC11RasterImageAA0bcfG0VSgvp">`RealisticViewWarning.realisticViewRasterImage`</a> will be `nil`.
+    - realisticViewVectorImage: The realistic view object for which the warning is given. Image resources are stored as vector graphics. Within `RealisticViewWarning`, only one type of image, either raster or vector, will be provided. If this property is not `nil`, then <a href="sdk-for-ios-navigate-structs-realisticviewwarning#sdk-for-ios-navigate-s-7heresdk20RealisticViewWarningV09realisticC11RasterImageAA0bcfG0VSgvp">`RealisticViewWarning.realisticViewRasterImage`</a> will be `nil`.
 
     **Note:** The realistic views for most of the countries are stored as vector images.
 
-    - realisticViewRasterImage: The realistic view object for which the warning is given. Image resources are stored as raster graphics. Within `RealisticViewWarning`, only one type of image, either raster or vector, will be provided. If this property is not `nil`, then <a href="sdk-for-ios-navigate-structs-realisticviewwarning#/s:7heresdk20RealisticViewWarningV09realisticC11VectorImageAA0bcfG0VSgvp">`RealisticViewWarning.realisticViewVectorImage`</a> will be `nil`. **Note:** Certain countries support only raster images as realistic views. Currently, this is the case only for Japan, but in the future, more countries might support this type of realistic views.
-    - distanceType: The distance type for the warning, e.g. a warning for a new realistic view ahead or a warning for passing a realistic view. Since the realistic view warning is given relative to a single position on the route, <a href="sdk-for-ios-navigate-enums-distancetype#/s:7heresdk12DistanceTypeO7reachedyA2CmF">`DistanceType.reached`</a> will never be given for this warning.
+    - realisticViewRasterImage: The realistic view object for which the warning is given. Image resources are stored as raster graphics. Within `RealisticViewWarning`, only one type of image, either raster or vector, will be provided. If this property is not `nil`, then <a href="sdk-for-ios-navigate-structs-realisticviewwarning#sdk-for-ios-navigate-s-7heresdk20RealisticViewWarningV09realisticC11VectorImageAA0bcfG0VSgvp">`RealisticViewWarning.realisticViewVectorImage`</a> will be `nil`. **Note:** Certain countries support only raster images as realistic views. Currently, this is the case only for Japan, but in the future, more countries might support this type of realistic views.
+    - distanceType: The distance type for the warning, e.g. a warning for a new realistic view ahead or a warning for passing a realistic view. Since the realistic view warning is given relative to a single position on the route, <a href="sdk-for-ios-navigate-enums-distancetype#sdk-for-ios-navigate-s-7heresdk12DistanceTypeO7reachedyA2CmF">`DistanceType.reached`</a> will never be given for this warning.
 
   </div>
 
@@ -293,12 +305,16 @@ Realistic view notifications require an online connection in order to function p
   Swift
 
   ``` highlight
-  public init ( id : Int32 = 0 , distanceToRealisticViewInMeters : Double , realisticViewVectorImage : RealisticViewVectorImage ? = nil , realisticViewRasterImage : RealisticViewRasterImage ? = nil , distanceType : DistanceType )
+  public init(id: Int32 = 0, distanceToRealisticViewInMeters: Double, realisticViewVectorImage: RealisticViewVectorImage? = nil, realisticViewRasterImage: RealisticViewRasterImage? = nil, distanceType: DistanceType)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-realisticviewvectorimage">RealisticViewVectorImage</a>
+  - <a href="sdk-for-ios-navigate-structs-realisticviewrasterimage">RealisticViewRasterImage</a>
+  - <a href="sdk-for-ios-navigate-enums-distancetype">DistanceType</a>
 
   </div>
 

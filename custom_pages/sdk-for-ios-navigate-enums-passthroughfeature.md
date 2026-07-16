@@ -17,7 +17,7 @@ public enum PassThroughFeature : UInt32, CaseIterable, Codable
 
 </div>
 
-Represents features that are allowed to consume online data when the HERE SDK’s offline mode is activated via <a href="sdk-for-ios-navigate-classes-sdknativeengine#/s:7heresdk15SDKNativeEngineC13isOfflineModeSbvp">`SDKNativeEngine.isOfflineMode`</a> and/or <a href="sdk-for-ios-navigate-structs-sdkoptions#/s:7heresdk10SDKOptionsV11offlineModeSbvp">`SDKOptions.offlineMode`</a>.
+Represents features that are allowed to consume online data when the HERE SDK’s offline mode is activated via <a href="sdk-for-ios-navigate-classes-sdknativeengine#sdk-for-ios-navigate-s-7heresdk15SDKNativeEngineC13isOfflineModeSbvp">`SDKNativeEngine.isOfflineMode`</a> and/or <a href="sdk-for-ios-navigate-structs-sdkoptions#sdk-for-ios-navigate-s-7heresdk10SDKOptionsV11offlineModeSbvp">`SDKOptions.offlineMode`</a>.
 
 Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors. Related APIs may change for new releases without a deprecation process.
 
@@ -29,7 +29,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-  ` `<span id="/s:7heresdk18PassThroughFeatureO11trafficDatayA2CmF"></span>` `<span id="//apple_ref/swift/Element/trafficData" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-passthroughfeature#/s:7heresdk18PassThroughFeatureO11trafficDatayA2CmF" class="token"><code>trafficData</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18PassThroughFeatureO11trafficDatayA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-trafficData" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-passthroughfeature#sdk-for-ios-navigate-s-7heresdk18PassThroughFeatureO11trafficDatayA2CmF" class="token"><code>trafficData</code></a> 
 
   </div>
 
@@ -73,7 +73,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-  ` `<span id="/s:7heresdk18PassThroughFeatureO16trafficTilesFlowyA2CmF"></span>` `<span id="//apple_ref/swift/Element/trafficTilesFlow" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-passthroughfeature#/s:7heresdk18PassThroughFeatureO16trafficTilesFlowyA2CmF" class="token"><code>trafficTilesFlow</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18PassThroughFeatureO16trafficTilesFlowyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-trafficTilesFlow" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-passthroughfeature#sdk-for-ios-navigate-s-7heresdk18PassThroughFeatureO16trafficTilesFlowyA2CmF" class="token"><code>trafficTilesFlow</code></a> 
 
   </div>
 
@@ -117,7 +117,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-  ` `<span id="/s:7heresdk18PassThroughFeatureO21trafficTilesIncidentsyA2CmF"></span>` `<span id="//apple_ref/swift/Element/trafficTilesIncidents" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-passthroughfeature#/s:7heresdk18PassThroughFeatureO21trafficTilesIncidentsyA2CmF" class="token"><code>trafficTilesIncidents</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18PassThroughFeatureO21trafficTilesIncidentsyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-trafficTilesIncidents" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-passthroughfeature#sdk-for-ios-navigate-s-7heresdk18PassThroughFeatureO21trafficTilesIncidentsyA2CmF" class="token"><code>trafficTilesIncidents</code></a> 
 
   </div>
 
@@ -161,7 +161,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-  ` `<span id="/s:7heresdk18PassThroughFeatureO13onlineRoutingyA2CmF"></span>` `<span id="//apple_ref/swift/Element/onlineRouting" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-passthroughfeature#/s:7heresdk18PassThroughFeatureO13onlineRoutingyA2CmF" class="token"><code>onlineRouting</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18PassThroughFeatureO13onlineRoutingyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-onlineRouting" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-passthroughfeature#sdk-for-ios-navigate-s-7heresdk18PassThroughFeatureO13onlineRoutingyA2CmF" class="token"><code>onlineRouting</code></a> 
 
   </div>
 
@@ -205,7 +205,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-  ` `<span id="/s:7heresdk18PassThroughFeatureO12onlineSearchyA2CmF"></span>` `<span id="//apple_ref/swift/Element/onlineSearch" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-passthroughfeature#/s:7heresdk18PassThroughFeatureO12onlineSearchyA2CmF" class="token"><code>onlineSearch</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18PassThroughFeatureO12onlineSearchyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-onlineSearch" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-passthroughfeature#sdk-for-ios-navigate-s-7heresdk18PassThroughFeatureO12onlineSearchyA2CmF" class="token"><code>onlineSearch</code></a> 
 
   </div>
 

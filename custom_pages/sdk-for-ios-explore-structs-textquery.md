@@ -27,7 +27,7 @@ The options to specify a text query.
 
 - <div>
 
-  ` `<span id="/s:7heresdk9TextQueryV5querySSvp"></span>` `<span id="//apple_ref/swift/Property/query" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-textquery#/s:7heresdk9TextQueryV5querySSvp" class="token"><code>query</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9TextQueryV5querySSvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-query" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-textquery#sdk-for-ios-explore-s-7heresdk9TextQueryV5querySSvp" class="token"><code>query</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ The options to specify a text query.
 
 - <div>
 
-  ` `<span id="/s:7heresdk9TextQueryV4areaAC4AreaVvp"></span>` `<span id="//apple_ref/swift/Property/area" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-textquery#/s:7heresdk9TextQueryV4areaAC4AreaVvp" class="token"><code>area</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9TextQueryV4areaAC4AreaVvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-area" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-textquery#sdk-for-ios-explore-s-7heresdk9TextQueryV4areaAC4AreaVvp" class="token"><code>area</code></a> 
 
   </div>
 
@@ -107,6 +107,10 @@ The options to specify a text query.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-textquery-area">Area</a>
+
   </div>
 
   </div>
@@ -115,7 +119,7 @@ The options to specify a text query.
 
 - <div>
 
-  ` `<span id="/s:7heresdk9TextQueryV11placeFilterAA05PlaceE0Vvp"></span>` `<span id="//apple_ref/swift/Property/placeFilter" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-textquery#/s:7heresdk9TextQueryV11placeFilterAA05PlaceE0Vvp" class="token"><code>placeFilter</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9TextQueryV11placeFilterAA05PlaceE0Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-placeFilter" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-textquery#sdk-for-ios-explore-s-7heresdk9TextQueryV11placeFilterAA05PlaceE0Vvp" class="token"><code>placeFilter</code></a> 
 
   </div>
 
@@ -151,6 +155,10 @@ The options to specify a text query.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-placefilter">PlaceFilter</a>
+
   </div>
 
   </div>
@@ -159,7 +167,7 @@ The options to specify a text query.
 
 - <div>
 
-      init(_: area: )
+   <span id="sdk-for-ios-explore-s-7heresdk9TextQueryV_4areaACSS_AC4AreaVtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-_-area" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-textquery#sdk-for-ios-explore-s-7heresdk9TextQueryV_4areaACSS_AC4AreaVtcfc" class="token"><code>init(_:</code><wbr></wbr><code>area:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -190,12 +198,14 @@ The options to specify a text query.
   Swift
 
   ``` highlight
-  public init ( _ query : String , area : TextQuery . Area )
+  public init(_ query: String, area: TextQuery.Area)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-textquery-area">Area</a>
 
   </div>
 
@@ -232,7 +242,7 @@ The options to specify a text query.
 
 - <div>
 
-  ` `<span id="/s:7heresdk9TextQueryV4AreaV"></span>` `<span id="//apple_ref/swift/Struct/Area" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-textquery#/s:7heresdk9TextQueryV4AreaV" class="token"><code>Area</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9TextQueryV4AreaV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-Area" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-textquery#sdk-for-ios-explore-s-7heresdk9TextQueryV4AreaV" class="token"><code>Area</code></a> 
 
   </div>
 

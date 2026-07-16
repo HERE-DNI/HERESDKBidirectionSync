@@ -27,7 +27,7 @@ Type of price represented by a <a href="sdk-for-ios-explore-structs-fareprice">`
 
 - <div>
 
-  ` `<span id="/s:7heresdk13FarePriceTypeO5valueyA2CmF"></span>` `<span id="//apple_ref/swift/Element/value" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-farepricetype#/s:7heresdk13FarePriceTypeO5valueyA2CmF" class="token"><code>value</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13FarePriceTypeO5valueyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-value" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-farepricetype#sdk-for-ios-explore-s-7heresdk13FarePriceTypeO5valueyA2CmF" class="token"><code>value</code></a> 
 
   </div>
 
@@ -45,7 +45,7 @@ Type of price represented by a <a href="sdk-for-ios-explore-structs-fareprice">`
 
   <div class="abstract">
 
-  A fixed value where <a href="sdk-for-ios-explore-structs-fareprice#/s:7heresdk9FarePriceV7minimumSdvp">`FarePrice.minimum`</a> = <a href="sdk-for-ios-explore-structs-fareprice#/s:7heresdk9FarePriceV7maximumSdvp">`FarePrice.maximum`</a> = price value.
+  A fixed value where <a href="sdk-for-ios-explore-structs-fareprice#sdk-for-ios-explore-s-7heresdk9FarePriceV7minimumSdvp">`FarePrice.minimum`</a> = <a href="sdk-for-ios-explore-structs-fareprice#sdk-for-ios-explore-s-7heresdk9FarePriceV7maximumSdvp">`FarePrice.maximum`</a> = price value.
 
   </div>
 
@@ -71,7 +71,7 @@ Type of price represented by a <a href="sdk-for-ios-explore-structs-fareprice">`
 
 - <div>
 
-  ` `<span id="/s:7heresdk13FarePriceTypeO5rangeyA2CmF"></span>` `<span id="//apple_ref/swift/Element/range" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-farepricetype#/s:7heresdk13FarePriceTypeO5rangeyA2CmF" class="token"><code>range</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13FarePriceTypeO5rangeyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-range" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-farepricetype#sdk-for-ios-explore-s-7heresdk13FarePriceTypeO5rangeyA2CmF" class="token"><code>range</code></a> 
 
   </div>
 
@@ -89,7 +89,7 @@ Type of price represented by a <a href="sdk-for-ios-explore-structs-fareprice">`
 
   <div class="abstract">
 
-  A price range from <a href="sdk-for-ios-explore-structs-fareprice#/s:7heresdk9FarePriceV7minimumSdvp">`FarePrice.minimum`</a> to <a href="sdk-for-ios-explore-structs-fareprice#/s:7heresdk9FarePriceV7maximumSdvp">`FarePrice.maximum`</a>.
+  A price range from <a href="sdk-for-ios-explore-structs-fareprice#sdk-for-ios-explore-s-7heresdk9FarePriceV7minimumSdvp">`FarePrice.minimum`</a> to <a href="sdk-for-ios-explore-structs-fareprice#sdk-for-ios-explore-s-7heresdk9FarePriceV7maximumSdvp">`FarePrice.maximum`</a>.
 
   </div>
 

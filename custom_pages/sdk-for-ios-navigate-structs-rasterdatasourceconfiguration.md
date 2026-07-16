@@ -32,7 +32,7 @@ method finishes loading the configuration.
 
 - <div>
 
-  ` `<span id="/s:7heresdk29RasterDataSourceConfigurationV4nameSSvp"></span>` `<span id="//apple_ref/swift/Property/name" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-rasterdatasourceconfiguration#/s:7heresdk29RasterDataSourceConfigurationV4nameSSvp" class="token"><code>name</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk29RasterDataSourceConfigurationV4nameSSvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-name" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-rasterdatasourceconfiguration#sdk-for-ios-navigate-s-7heresdk29RasterDataSourceConfigurationV4nameSSvp" class="token"><code>name</code></a> 
 
   </div>
 
@@ -76,7 +76,7 @@ method finishes loading the configuration.
 
 - <div>
 
-  ` `<span id="/s:7heresdk29RasterDataSourceConfigurationV8providerAC8ProviderVvp"></span>` `<span id="//apple_ref/swift/Property/provider" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-rasterdatasourceconfiguration#/s:7heresdk29RasterDataSourceConfigurationV8providerAC8ProviderVvp" class="token"><code>provider</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk29RasterDataSourceConfigurationV8providerAC8ProviderVvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-provider" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-rasterdatasourceconfiguration#sdk-for-ios-navigate-s-7heresdk29RasterDataSourceConfigurationV8providerAC8ProviderVvp" class="token"><code>provider</code></a> 
 
   </div>
 
@@ -112,6 +112,10 @@ method finishes loading the configuration.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-rasterdatasourceconfiguration-provider">Provider</a>
+
   </div>
 
   </div>
@@ -120,7 +124,7 @@ method finishes loading the configuration.
 
 - <div>
 
-  ` `<span id="/s:7heresdk29RasterDataSourceConfigurationV5cacheAC5CacheVvp"></span>` `<span id="//apple_ref/swift/Property/cache" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-rasterdatasourceconfiguration#/s:7heresdk29RasterDataSourceConfigurationV5cacheAC5CacheVvp" class="token"><code>cache</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk29RasterDataSourceConfigurationV5cacheAC5CacheVvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-cache" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-rasterdatasourceconfiguration#sdk-for-ios-navigate-s-7heresdk29RasterDataSourceConfigurationV5cacheAC5CacheVvp" class="token"><code>cache</code></a> 
 
   </div>
 
@@ -156,6 +160,10 @@ method finishes loading the configuration.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-rasterdatasourceconfiguration-cache">Cache</a>
+
   </div>
 
   </div>
@@ -164,7 +172,7 @@ method finishes loading the configuration.
 
 - <div>
 
-  ` `<span id="/s:7heresdk29RasterDataSourceConfigurationV013ignoreExpiredC0Sbvp"></span>` `<span id="//apple_ref/swift/Property/ignoreExpiredData" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-rasterdatasourceconfiguration#/s:7heresdk29RasterDataSourceConfigurationV013ignoreExpiredC0Sbvp" class="token"><code>ignoreExpiredData</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk29RasterDataSourceConfigurationV013ignoreExpiredC0Sbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-ignoreExpiredData" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-rasterdatasourceconfiguration#sdk-for-ios-navigate-s-7heresdk29RasterDataSourceConfigurationV013ignoreExpiredC0Sbvp" class="token"><code>ignoreExpiredData</code></a> 
 
   </div>
 
@@ -208,7 +216,7 @@ method finishes loading the configuration.
 
 - <div>
 
-      init(name: provider: cache: ignoreExpiredData: )
+   <span id="sdk-for-ios-navigate-s-7heresdk29RasterDataSourceConfigurationV4name8provider5cache013ignoreExpiredC0ACSS_AC8ProviderVAC5CacheVSbtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-name-provider-cache-ignoreExpiredData" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-rasterdatasourceconfiguration#sdk-for-ios-navigate-s-7heresdk29RasterDataSourceConfigurationV4name8provider5cache013ignoreExpiredC0ACSS_AC8ProviderVAC5CacheVSbtcfc" class="token"><code>init(name:</code><wbr></wbr><code>provider:</code><wbr></wbr><code>cache:</code><wbr></wbr><code>ignoreExpiredData:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -239,12 +247,15 @@ method finishes loading the configuration.
   Swift
 
   ``` highlight
-  public init ( name : String , provider : RasterDataSourceConfiguration . Provider , cache : RasterDataSourceConfiguration . Cache , ignoreExpiredData : Bool = false )
+  public init(name: String, provider: RasterDataSourceConfiguration.Provider, cache: RasterDataSourceConfiguration.Cache, ignoreExpiredData: Bool = false)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-rasterdatasourceconfiguration-provider">Provider</a>
+  - <a href="sdk-for-ios-navigate-structs-rasterdatasourceconfiguration-cache">Cache</a>
 
   </div>
 
@@ -254,7 +265,7 @@ method finishes loading the configuration.
 
 - <div>
 
-  ` `<span id="/s:7heresdk29RasterDataSourceConfigurationV8ProviderV"></span>` `<span id="//apple_ref/swift/Struct/Provider" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-rasterdatasourceconfiguration#/s:7heresdk29RasterDataSourceConfigurationV8ProviderV" class="token"><code>Provider</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk29RasterDataSourceConfigurationV8ProviderV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-Provider" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-rasterdatasourceconfiguration#sdk-for-ios-navigate-s-7heresdk29RasterDataSourceConfigurationV8ProviderV" class="token"><code>Provider</code></a> 
 
   </div>
 
@@ -300,7 +311,7 @@ method finishes loading the configuration.
 
 - <div>
 
-  ` `<span id="/s:7heresdk29RasterDataSourceConfigurationV5CacheV"></span>` `<span id="//apple_ref/swift/Struct/Cache" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-rasterdatasourceconfiguration#/s:7heresdk29RasterDataSourceConfigurationV5CacheV" class="token"><code>Cache</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk29RasterDataSourceConfigurationV5CacheV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-Cache" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-rasterdatasourceconfiguration#sdk-for-ios-navigate-s-7heresdk29RasterDataSourceConfigurationV5CacheV" class="token"><code>Cache</code></a> 
 
   </div>
 

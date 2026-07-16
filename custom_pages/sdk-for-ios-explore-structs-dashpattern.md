@@ -27,7 +27,7 @@ Represents a dash pattern for map polyline.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11DashPatternV14firstGapLengthSdvp"></span>` `<span id="//apple_ref/swift/Property/firstGapLength" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-dashpattern#/s:7heresdk11DashPatternV14firstGapLengthSdvp" class="token"><code>firstGapLength</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11DashPatternV14firstGapLengthSdvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-firstGapLength" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-dashpattern#sdk-for-ios-explore-s-7heresdk11DashPatternV14firstGapLengthSdvp" class="token"><code>firstGapLength</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Represents a dash pattern for map polyline.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11DashPatternV05firstB6LengthSdvp"></span>` `<span id="//apple_ref/swift/Property/firstDashLength" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-dashpattern#/s:7heresdk11DashPatternV05firstB6LengthSdvp" class="token"><code>firstDashLength</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11DashPatternV05firstB6LengthSdvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-firstDashLength" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-dashpattern#sdk-for-ios-explore-s-7heresdk11DashPatternV05firstB6LengthSdvp" class="token"><code>firstDashLength</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Represents a dash pattern for map polyline.
 
 - <div>
 
-      init(dashLength: )
+   <span id="sdk-for-ios-explore-s-7heresdk11DashPatternV10dashLengthACSd_tcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-dashLength" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-dashpattern#sdk-for-ios-explore-s-7heresdk11DashPatternV10dashLengthACSd_tcfc" class="token"><code>init(dashLength:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -146,10 +146,8 @@ Represents a dash pattern for map polyline.
   Swift
 
   ``` highlight
-  public init ( dashLength : Double )
+  public init(dashLength: Double)
   ```
-
-  </pre>
 
   </div>
 
@@ -182,7 +180,7 @@ Represents a dash pattern for map polyline.
 
 - <div>
 
-      init(gapLength: dashLength: )
+   <span id="sdk-for-ios-explore-s-7heresdk11DashPatternV9gapLength04dashE0ACSd_Sdtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-gapLength-dashLength" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-dashpattern#sdk-for-ios-explore-s-7heresdk11DashPatternV9gapLength04dashE0ACSd_Sdtcfc" class="token"><code>init(gapLength:</code><wbr></wbr><code>dashLength:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -213,10 +211,8 @@ Represents a dash pattern for map polyline.
   Swift
 
   ``` highlight
-  public init ( gapLength : Double , dashLength : Double )
+  public init(gapLength: Double, dashLength: Double)
   ```
-
-  </pre>
 
   </div>
 

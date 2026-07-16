@@ -25,14 +25,9 @@ extension MapDownloader: Hashable
 
 </div>
 
-A class for downloading and managing map data for various regions worldwide. Downloaded map data is permanently stored on disk, enabling maps at all zoom levels, search, routing, and other features without an active data connection. Users can query available regions, download them to disk, or delete them. An instance of this class can be created using
+A class for downloading and managing map data for various regions worldwide. Downloaded map data is permanently stored on disk, enabling maps at all zoom levels, search, routing, and other features without an active data connection. Users can query available regions, download them to disk, or delete them. An instance of this class can be created using <a href="sdk-for-ios-explore-classes-mapdownloader#sdk-for-ios-explore-s-7heresdk13MapDownloaderC15fromEngineAsyncyyAA09SDKNativeE0C_yACctFZ">`MapDownloader.fromEngineAsync(...)`</a>.
 
-    MapDownloader.fromEngineAsync(...)
-
-.
-</p>
-
-The storage path for downloaded maps can be specified via <a href="sdk-for-ios-explore-structs-sdkoptions#/s:7heresdk10SDKOptionsV24persistentMapStoragePathSSvp">`SDKOptions.persistentMapStoragePath`</a>.
+The storage path for downloaded maps can be specified via <a href="sdk-for-ios-explore-structs-sdkoptions#sdk-for-ios-explore-s-7heresdk10SDKOptionsV24persistentMapStoragePathSSvp">`SDKOptions.persistentMapStoragePath`</a>.
 
 To control the type of content included in a map download, use <a href="sdk-for-ios-explore-structs-layerconfiguration">`LayerConfiguration`</a>. Once applied, it affects both the map cache and offline maps. Satellite-based map schemes are not included in the downloaded region data.
 
@@ -46,7 +41,7 @@ To control the type of content included in a map download, use <a href="sdk-for-
 
 - <div>
 
-  ` `<span id="/s:7heresdk13MapDownloaderC9taskCounts6UInt32Vvp"></span>` `<span id="//apple_ref/swift/Property/taskCount" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-mapdownloader#/s:7heresdk13MapDownloaderC9taskCounts6UInt32Vvp" class="token"><code>taskCount</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13MapDownloaderC9taskCounts6UInt32Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-taskCount" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapdownloader#sdk-for-ios-explore-s-7heresdk13MapDownloaderC9taskCounts6UInt32Vvp" class="token"><code>taskCount</code></a> 
 
   </div>
 
@@ -93,7 +88,7 @@ To control the type of content included in a map download, use <a href="sdk-for-
 
 - <div>
 
-      fromEngineAsync(_: _: )
+   <span id="sdk-for-ios-explore-s-7heresdk13MapDownloaderC15fromEngineAsyncyyAA09SDKNativeE0C_yACctFZ"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-fromEngineAsync-_-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapdownloader#sdk-for-ios-explore-s-7heresdk13MapDownloaderC15fromEngineAsyncyyAA09SDKNativeE0C_yACctFZ" class="token"><code>fromEngineAsync(_:</code><wbr></wbr><code>_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -124,12 +119,15 @@ To control the type of content included in a map download, use <a href="sdk-for-
   Swift
 
   ``` highlight
-  public static func fromEngineAsync ( _ sdkEngine : SDKNativeEngine , _ mapDownloaderConstructionCallback : @escaping MapDownloaderConstructionHandle )
+  public static func fromEngineAsync(_ sdkEngine: SDKNativeEngine, _ mapDownloaderConstructionCallback: @escaping MapDownloaderConstructionHandle)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-sdknativeengine">SDKNativeEngine</a>
+  - <a href="sdk-for-ios-explore-maploader#sdk-for-ios-explore-s-7heresdk31MapDownloaderConstructionHandlea">MapDownloaderConstructionHandle</a>
 
   </div>
 
@@ -166,7 +164,7 @@ To control the type of content included in a map download, use <a href="sdk-for-
 
 - <div>
 
-      getDownloadableRegions(completion: )
+   <span id="sdk-for-ios-explore-s-7heresdk13MapDownloaderC22getDownloadableRegions10completionAA10TaskHandle_pyAA0B11LoaderErrorOSg_SayAA6RegionVGSgtc_tF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-getDownloadableRegions-completion" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapdownloader#sdk-for-ios-explore-s-7heresdk13MapDownloaderC22getDownloadableRegions10completionAA10TaskHandle_pyAA0B11LoaderErrorOSg_SayAA6RegionVGSgtc_tF" class="token"><code>getDownloadableRegions(completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -186,7 +184,7 @@ To control the type of content included in a map download, use <a href="sdk-for-
 
   Performs an asynchronous request to fetch a list of <a href="sdk-for-ios-explore-structs-region">`Region`</a> objects for downloading map data in a separate request.
 
-  The default language for <a href="sdk-for-ios-explore-structs-region#/s:7heresdk6RegionV4nameSSvp">`Region.name`</a> is <a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO4enUsyA2CmF">`LanguageCode.enUs`</a>.
+  The default language for <a href="sdk-for-ios-explore-structs-region#sdk-for-ios-explore-s-7heresdk6RegionV4nameSSvp">`Region.name`</a> is <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO4enUsyA2CmF">`LanguageCode.enUs`</a>.
 
   </div>
 
@@ -199,12 +197,16 @@ To control the type of content included in a map download, use <a href="sdk-for-
   Swift
 
   ``` highlight
-  @discardableResult public func getDownloadableRegions ( completion : @escaping CompletionHandler ) -> TaskHandle
+  @discardableResult
+  public func getDownloadableRegions(completion: @escaping CompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-maploader#sdk-for-ios-explore-s-7heresdk17CompletionHandlera">CompletionHandler</a>
+  - <a href="sdk-for-ios-explore-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -243,7 +245,7 @@ To control the type of content included in a map download, use <a href="sdk-for-
 
 - <div>
 
-      getDownloadableRegions(languageCode: completion: )
+   <span id="sdk-for-ios-explore-s-7heresdk13MapDownloaderC22getDownloadableRegions12languageCode10completionAA10TaskHandle_pAA08LanguageH0O_yAA0B11LoaderErrorOSg_SayAA6RegionVGSgtctF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-getDownloadableRegions-languageCode-completion" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapdownloader#sdk-for-ios-explore-s-7heresdk13MapDownloaderC22getDownloadableRegions12languageCode10completionAA10TaskHandle_pAA08LanguageH0O_yAA0B11LoaderErrorOSg_SayAA6RegionVGSgtctF" class="token"><code>getDownloadableRegions(languageCode:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -261,7 +263,7 @@ To control the type of content included in a map download, use <a href="sdk-for-
 
   <div class="abstract">
 
-  Performs an asynchronous request to fetch a list of <a href="sdk-for-ios-explore-structs-region">`Region`</a> objects with <a href="sdk-for-ios-explore-structs-region#/s:7heresdk6RegionV4nameSSvp">`Region.name`</a> in given
+  Performs an asynchronous request to fetch a list of <a href="sdk-for-ios-explore-structs-region">`Region`</a> objects with <a href="sdk-for-ios-explore-structs-region#sdk-for-ios-explore-s-7heresdk6RegionV4nameSSvp">`Region.name`</a> in given
 
       MapDownloader.getDownloadableRegions(LanguageCode, CompletionHandler).languageCode
 
@@ -279,12 +281,17 @@ To control the type of content included in a map download, use <a href="sdk-for-
   Swift
 
   ``` highlight
-  @discardableResult public func getDownloadableRegions ( languageCode : LanguageCode , completion : @escaping CompletionHandler ) -> TaskHandle
+  @discardableResult
+  public func getDownloadableRegions(languageCode: LanguageCode, completion: @escaping CompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-languagecode">LanguageCode</a>
+  - <a href="sdk-for-ios-explore-maploader#sdk-for-ios-explore-s-7heresdk17CompletionHandlera">CompletionHandler</a>
+  - <a href="sdk-for-ios-explore-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -301,7 +308,7 @@ To control the type of content included in a map download, use <a href="sdk-for-
   <tr>
   <td><code> </code><em><code>languageCode</code></em><code> </code></td>
   <td><div>
-  <p>The language code determines the language of <a href="sdk-for-ios-explore-structs-region#/s:7heresdk6RegionV4nameSSvp"><code>Region.name</code></a>.</p>
+  <p>The language code determines the language of <a href="sdk-for-ios-explore-structs-region#sdk-for-ios-explore-s-7heresdk6RegionV4nameSSvp"><code>Region.name</code></a>.</p>
   </div></td>
   </tr>
   <tr>
@@ -329,7 +336,7 @@ To control the type of content included in a map download, use <a href="sdk-for-
 
 - <div>
 
-      downloadRegions(regions: statusListener: )
+   <span id="sdk-for-ios-explore-s-7heresdk13MapDownloaderC15downloadRegions7regions14statusListenerAA0bC4TaskCSayAA8RegionIdVG_AA08Downloade6StatusH0_ptF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-downloadRegions-regions-statusListener" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapdownloader#sdk-for-ios-explore-s-7heresdk13MapDownloaderC15downloadRegions7regions14statusListenerAA0bC4TaskCSayAA8RegionIdVG_AA08Downloade6StatusH0_ptF" class="token"><code>downloadRegions(regions:</code><wbr></wbr><code>statusListener:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -357,20 +364,14 @@ To control the type of content included in a map download, use <a href="sdk-for-
   is called. The returned <a href="sdk-for-ios-explore-classes-mapdownloadertask">`MapDownloaderTask`</a> can be used to pause or resume the download using
       MapDownloaderTask.pause(Bool)
 
-  or
-      MapDownloaderTask.resume(...)
-
-  .
+  or <a href="sdk-for-ios-explore-classes-mapdownloadertask#sdk-for-ios-explore-s-7heresdk17MapDownloaderTaskC6resumeyyF">`MapDownloaderTask.resume(...)`</a>.
   </p>
 
-  To cancel the request, call
+  To cancel the request, call <a href="sdk-for-ios-explore-classes-mapdownloadertask#sdk-for-ios-explore-s-7heresdk17MapDownloaderTaskC6cancelyyF">`MapDownloaderTask.cancel(...)`</a> on the returned <a href="sdk-for-ios-explore-classes-mapdownloadertask">`MapDownloaderTask`</a> object. After cancellation,
 
-      MapDownloaderTask.cancel(...)
-
-  on the returned <a href="sdk-for-ios-explore-classes-mapdownloadertask">`MapDownloaderTask`</a> object. After cancellation,
       onDownloadRegionsComplete(...)
 
-  is called with the error <a href="sdk-for-ios-explore-enums-maploadererror#/s:7heresdk14MapLoaderErrorO18operationCancelledyA2CmF">`MapLoaderError.operationCancelled`</a>.
+  is called with the error <a href="sdk-for-ios-explore-enums-maploadererror#sdk-for-ios-explore-s-7heresdk14MapLoaderErrorO18operationCancelledyA2CmF">`MapLoaderError.operationCancelled`</a>.
   </p>
 
   <a href="sdk-for-ios-explore-classes-mapdownloadertask">`MapDownloaderTask`</a> remains operational until
@@ -391,12 +392,12 @@ To control the type of content included in a map download, use <a href="sdk-for-
 
       onDownloadRegionsComplete(...)
 
-  is called with <a href="sdk-for-ios-explore-enums-maploadererror#/s:7heresdk14MapLoaderErrorO19serviceAccessFailedyA2CmF">`MapLoaderError.serviceAccessFailed`</a> for the new request, while the previous one continues uninterrupted.
+  is called with <a href="sdk-for-ios-explore-enums-maploadererror#sdk-for-ios-explore-s-7heresdk14MapLoaderErrorO19serviceAccessFailedyA2CmF">`MapLoaderError.serviceAccessFailed`</a> for the new request, while the previous one continues uninterrupted.
   </p>
 
   If indexing is enabled through `OfflineSearchEngine.setIndexOptions`, then after the requested regions have been downloaded, the corresponding index will be created. The index is used by <a href="sdk-for-ios-explore-classes-offlinesearchengine">`OfflineSearchEngine`</a> to find better results. Note: Indexing is a beta feature, so there could be a few bugs and unexpected behaviors.
 
-  To control list of map content features for region download, use <a href="sdk-for-ios-explore-structs-layerconfiguration#/s:7heresdk18LayerConfigurationV15enabledFeaturesSayAC7FeatureOGvp">`LayerConfiguration.enabledFeatures`</a>.
+  To control list of map content features for region download, use <a href="sdk-for-ios-explore-structs-layerconfiguration#sdk-for-ios-explore-s-7heresdk18LayerConfigurationV15enabledFeaturesSayAC7FeatureOGvp">`LayerConfiguration.enabledFeatures`</a>.
 
   \
   Note: If an application is forcefully closed or crashes during a map download operation, then this method can be called again to resume the download. For example, if a download was interrupted at 60%, then the next call to download the same region will load the remaining 40%.\
@@ -413,12 +414,17 @@ To control the type of content included in a map download, use <a href="sdk-for-
   Swift
 
   ``` highlight
-  @discardableResult public func downloadRegions ( regions : [ RegionId ], statusListener : DownloadRegionsStatusListener ) -> MapDownloaderTask
+  @discardableResult
+  public func downloadRegions(regions: [RegionId], statusListener: DownloadRegionsStatusListener) -> MapDownloaderTask
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-regionid">RegionId</a>
+  - <a href="sdk-for-ios-explore-protocols-downloadregionsstatuslistener">DownloadRegionsStatusListener</a>
+  - <a href="sdk-for-ios-explore-classes-mapdownloadertask">MapDownloaderTask</a>
 
   </div>
 
@@ -436,7 +442,7 @@ To control the type of content included in a map download, use <a href="sdk-for-
 
 - <div>
 
-      downloadArea(area: statusListener: )
+   <span id="sdk-for-ios-explore-s-7heresdk13MapDownloaderC12downloadArea4area14statusListenerAA0bC4TaskCAA10GeoPolygonV_AA021DownloadRegionsStatusH0_ptF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-downloadArea-area-statusListener" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapdownloader#sdk-for-ios-explore-s-7heresdk13MapDownloaderC12downloadArea4area14statusListenerAA0bC4TaskCAA10GeoPolygonV_AA021DownloadRegionsStatusH0_ptF" class="token"><code>downloadArea(area:</code><wbr></wbr><code>statusListener:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -464,16 +470,10 @@ To control the type of content included in a map download, use <a href="sdk-for-
   is called. Returned <a href="sdk-for-ios-explore-classes-mapdownloadertask">`MapDownloaderTask`</a> should be used to pause or resume started download, by invoking
       MapDownloaderTask.pause(Bool)
 
-  or
-      MapDownloaderTask.resume(...)
-
-  . Request can be cancelled by calling
-      MapDownloaderTask.cancel(...)
-
-  on returned <a href="sdk-for-ios-explore-classes-mapdownloadertask">`MapDownloaderTask`</a> object, afterwards
+  or <a href="sdk-for-ios-explore-classes-mapdownloadertask#sdk-for-ios-explore-s-7heresdk17MapDownloaderTaskC6resumeyyF">`MapDownloaderTask.resume(...)`</a>. Request can be cancelled by calling <a href="sdk-for-ios-explore-classes-mapdownloadertask#sdk-for-ios-explore-s-7heresdk17MapDownloaderTaskC6cancelyyF">`MapDownloaderTask.cancel(...)`</a> on returned <a href="sdk-for-ios-explore-classes-mapdownloadertask">`MapDownloaderTask`</a> object, afterwards
       onDownloadRegionsComplete(...)
 
-  is called with error <a href="sdk-for-ios-explore-enums-maploadererror#/s:7heresdk14MapLoaderErrorO18operationCancelledyA2CmF">`MapLoaderError.operationCancelled`</a>.
+  is called with error <a href="sdk-for-ios-explore-enums-maploadererror#sdk-for-ios-explore-s-7heresdk14MapLoaderErrorO18operationCancelledyA2CmF">`MapLoaderError.operationCancelled`</a>.
   </p>
 
   <a href="sdk-for-ios-explore-classes-mapdownloadertask">`MapDownloaderTask`</a> remains operational until
@@ -489,12 +489,12 @@ To control the type of content included in a map download, use <a href="sdk-for-
 
       onDownloadRegionsComplete(...)
 
-  is called with error <a href="sdk-for-ios-explore-enums-maploadererror#/s:7heresdk14MapLoaderErrorO19serviceAccessFailedyA2CmF">`MapLoaderError.serviceAccessFailed`</a> for a new request, while previous one continues uninterrupted.
+  is called with error <a href="sdk-for-ios-explore-enums-maploadererror#sdk-for-ios-explore-s-7heresdk14MapLoaderErrorO19serviceAccessFailedyA2CmF">`MapLoaderError.serviceAccessFailed`</a> for a new request, while previous one continues uninterrupted.
   </p>
 
   If indexing is enabled through `OfflineSearchEngine.setIndexOptions`, then after the requested regions have been downloaded, the corresponding index will be created. The index is used by <a href="sdk-for-ios-explore-classes-offlinesearchengine">`OfflineSearchEngine`</a> to find better results. Note: Indexing is a beta feature, so there could be a few bugs and unexpected behaviors.
 
-  To control list of map content features for area download, use <a href="sdk-for-ios-explore-structs-layerconfiguration#/s:7heresdk18LayerConfigurationV15enabledFeaturesSayAC7FeatureOGvp">`LayerConfiguration.enabledFeatures`</a>.
+  To control list of map content features for area download, use <a href="sdk-for-ios-explore-structs-layerconfiguration#sdk-for-ios-explore-s-7heresdk18LayerConfigurationV15enabledFeaturesSayAC7FeatureOGvp">`LayerConfiguration.enabledFeatures`</a>.
 
   \
   Note: If an application is forcefully closed or crashes during a map download operation, then this method can be called again to resume the download. For example, if a download was interrupted at 60%, then the next call to download the same region will load the remaining 40%.\
@@ -512,12 +512,16 @@ To control the type of content included in a map download, use <a href="sdk-for-
   Swift
 
   ``` highlight
-  public func downloadArea ( area : GeoPolygon , statusListener : DownloadRegionsStatusListener ) -> MapDownloaderTask
+  public func downloadArea(area: GeoPolygon, statusListener: DownloadRegionsStatusListener) -> MapDownloaderTask
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geopolygon">GeoPolygon</a>
+  - <a href="sdk-for-ios-explore-protocols-downloadregionsstatuslistener">DownloadRegionsStatusListener</a>
+  - <a href="sdk-for-ios-explore-classes-mapdownloadertask">MapDownloaderTask</a>
 
   </div>
 
@@ -535,7 +539,7 @@ To control the type of content included in a map download, use <a href="sdk-for-
 
 - <div>
 
-      deleteRegions(regions: completion: )
+   <span id="sdk-for-ios-explore-s-7heresdk13MapDownloaderC13deleteRegions7regions10completionySayAA8RegionIdVG_yAA0B11LoaderErrorOSg_AISgtctF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-deleteRegions-regions-completion" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapdownloader#sdk-for-ios-explore-s-7heresdk13MapDownloaderC13deleteRegions7regions10completionySayAA8RegionIdVG_yAA0B11LoaderErrorOSg_AISgtctF" class="token"><code>deleteRegions(regions:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -553,7 +557,7 @@ To control the type of content included in a map download, use <a href="sdk-for-
 
   <div class="abstract">
 
-  Performs an asynchronous operation to delete map data for regions specified by a list of <a href="sdk-for-ios-explore-structs-regionid">`RegionId`</a>. Note: Deleting a region when there is a pending download returns error <a href="sdk-for-ios-explore-enums-maploadererror#/s:7heresdk14MapLoaderErrorO08internalD0yA2CmF">`MapLoaderError.internalError`</a>. Also, deleting a region when there is an ongoing download returns error <a href="sdk-for-ios-explore-enums-maploadererror#/s:7heresdk14MapLoaderErrorO15parallelRequestyA2CmF">`MapLoaderError.parallelRequest`</a>.
+  Performs an asynchronous operation to delete map data for regions specified by a list of <a href="sdk-for-ios-explore-structs-regionid">`RegionId`</a>. Note: Deleting a region when there is a pending download returns error <a href="sdk-for-ios-explore-enums-maploadererror#sdk-for-ios-explore-s-7heresdk14MapLoaderErrorO08internalD0yA2CmF">`MapLoaderError.internalError`</a>. Also, deleting a region when there is an ongoing download returns error <a href="sdk-for-ios-explore-enums-maploadererror#sdk-for-ios-explore-s-7heresdk14MapLoaderErrorO15parallelRequestyA2CmF">`MapLoaderError.parallelRequest`</a>.
 
   If indexing is enabled through `OfflineSearchEngine.setIndexOptions`, then after the requested regions have been deleted, the index over remaining regions will be rebuilt, so that entries related to deleted regions are removed. The index is used by <a href="sdk-for-ios-explore-classes-offlinesearchengine">`OfflineSearchEngine`</a> to find better results. Note: Indexing is a beta feature, so there could be a few bugs and unexpected behaviors.
 
@@ -568,12 +572,15 @@ To control the type of content included in a map download, use <a href="sdk-for-
   Swift
 
   ``` highlight
-  public func deleteRegions ( regions : [ RegionId ], completion : @escaping DeleteRegionsCompletionHandler )
+  public func deleteRegions(regions: [RegionId], completion: @escaping DeleteRegionsCompletionHandler)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-regionid">RegionId</a>
+  - <a href="sdk-for-ios-explore-maploader#sdk-for-ios-explore-s-7heresdk30DeleteRegionsCompletionHandlera">DeleteRegionsCompletionHandler</a>
 
   </div>
 
@@ -610,7 +617,7 @@ To control the type of content included in a map download, use <a href="sdk-for-
 
 - <div>
 
-      clearPersistentMapStorage(completion: )
+   <span id="sdk-for-ios-explore-s-7heresdk13MapDownloaderC015clearPersistentB7Storage10completionyyAA0B11LoaderErrorOSgc_tF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-clearPersistentMapStorage-completion" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapdownloader#sdk-for-ios-explore-s-7heresdk13MapDownloaderC015clearPersistentB7Storage10completionyyAA0B11LoaderErrorOSgc_tF" class="token"><code>clearPersistentMapStorage(completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -630,12 +637,7 @@ To control the type of content included in a map download, use <a href="sdk-for-
 
   Performs an asynchronous operation to clear the persistent map storage from all data. All downloaded regions will be removed. Note: Must be called only when no other region operation is ongoing. Returns an error if there is any active operation.
 
-  Any previously built index will also be deleted. See
-
-      MapDownloader.downloadRegions(...)
-
-  to learn more about index.
-  </p>
+  Any previously built index will also be deleted. See <a href="sdk-for-ios-explore-classes-mapdownloader#sdk-for-ios-explore-s-7heresdk13MapDownloaderC15downloadRegions7regions14statusListenerAA0bC4TaskCSayAA8RegionIdVG_AA08Downloade6StatusH0_ptF">`MapDownloader.downloadRegions(...)`</a> to learn more about index.
 
   </div>
 
@@ -648,12 +650,14 @@ To control the type of content included in a map download, use <a href="sdk-for-
   Swift
 
   ``` highlight
-  public func clearPersistentMapStorage ( completion : @escaping CacheCallbackCompletionHandler )
+  public func clearPersistentMapStorage(completion: @escaping CacheCallbackCompletionHandler)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-core#sdk-for-ios-explore-s-7heresdk30CacheCallbackCompletionHandlera">CacheCallbackCompletionHandler</a>
 
   </div>
 
@@ -684,7 +688,7 @@ To control the type of content included in a map download, use <a href="sdk-for-
 
 - <div>
 
-      getInstalledRegions()
+   <span id="sdk-for-ios-explore-s-7heresdk13MapDownloaderC19getInstalledRegionsSayAA0E6RegionVGyKF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-getInstalledRegions" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapdownloader#sdk-for-ios-explore-s-7heresdk13MapDownloaderC19getInstalledRegionsSayAA0E6RegionVGyKF" class="token"><code>getInstalledRegions()</code></a> 
 
   </div>
 
@@ -704,15 +708,15 @@ To control the type of content included in a map download, use <a href="sdk-for-
 
   Method to get a list of map regions that are currently installed on the device. Throws if it’s not possible to return list of installed regions. Returned list contains:
 
-  - successfully downloaded regions, indicated by <a href="sdk-for-ios-explore-enums-installedregionstatus#/s:7heresdk21InstalledRegionStatusO9installedyA2CmF">`InstalledRegionStatus.installed`</a> in <a href="sdk-for-ios-explore-structs-installedregion#/s:7heresdk15InstalledRegionV6statusAA0bC6StatusOvp">`InstalledRegion.status`</a>;
-  - regions, that are in the download process, indicated by <a href="sdk-for-ios-explore-enums-installedregionstatus#/s:7heresdk21InstalledRegionStatusO7pendingyA2CmF">`InstalledRegionStatus.pending`</a> in <a href="sdk-for-ios-explore-structs-installedregion#/s:7heresdk15InstalledRegionV6statusAA0bC6StatusOvp">`InstalledRegion.status`</a>;
-  - regions, which were failed to be downloaded, indicated by <a href="sdk-for-ios-explore-enums-installedregionstatus#/s:7heresdk21InstalledRegionStatusO7pendingyA2CmF">`InstalledRegionStatus.pending`</a> in <a href="sdk-for-ios-explore-structs-installedregion#/s:7heresdk15InstalledRegionV6statusAA0bC6StatusOvp">`InstalledRegion.status`</a>. Note: precise Japan content is stored in separate catalog on the HERE platform, and when corresponding region is downloaded, then the status of siblings and parent regions is set to the <a href="sdk-for-ios-explore-enums-installedregionstatus#/s:7heresdk21InstalledRegionStatusO7pendingyA2CmF">`InstalledRegionStatus.pending`</a> in <a href="sdk-for-ios-explore-structs-installedregion#/s:7heresdk15InstalledRegionV6statusAA0bC6StatusOvp">`InstalledRegion.status`</a>. Precise Japan content is available as an additional offering, please contact sales team for more information.
+  - successfully downloaded regions, indicated by <a href="sdk-for-ios-explore-enums-installedregionstatus#sdk-for-ios-explore-s-7heresdk21InstalledRegionStatusO9installedyA2CmF">`InstalledRegionStatus.installed`</a> in <a href="sdk-for-ios-explore-structs-installedregion#sdk-for-ios-explore-s-7heresdk15InstalledRegionV6statusAA0bC6StatusOvp">`InstalledRegion.status`</a>;
+  - regions, that are in the download process, indicated by <a href="sdk-for-ios-explore-enums-installedregionstatus#sdk-for-ios-explore-s-7heresdk21InstalledRegionStatusO7pendingyA2CmF">`InstalledRegionStatus.pending`</a> in <a href="sdk-for-ios-explore-structs-installedregion#sdk-for-ios-explore-s-7heresdk15InstalledRegionV6statusAA0bC6StatusOvp">`InstalledRegion.status`</a>;
+  - regions, which were failed to be downloaded, indicated by <a href="sdk-for-ios-explore-enums-installedregionstatus#sdk-for-ios-explore-s-7heresdk21InstalledRegionStatusO7pendingyA2CmF">`InstalledRegionStatus.pending`</a> in <a href="sdk-for-ios-explore-structs-installedregion#sdk-for-ios-explore-s-7heresdk15InstalledRegionV6statusAA0bC6StatusOvp">`InstalledRegion.status`</a>. Note: precise Japan content is stored in separate catalog on the HERE platform, and when corresponding region is downloaded, then the status of siblings and parent regions is set to the <a href="sdk-for-ios-explore-enums-installedregionstatus#sdk-for-ios-explore-s-7heresdk21InstalledRegionStatusO7pendingyA2CmF">`InstalledRegionStatus.pending`</a> in <a href="sdk-for-ios-explore-structs-installedregion#sdk-for-ios-explore-s-7heresdk15InstalledRegionV6statusAA0bC6StatusOvp">`InstalledRegion.status`</a>. Precise Japan content is available as an additional offering, please contact sales team for more information.
 
   <div class="aside aside-throws">
 
   Throws
 
-  <a href="sdk-for-ios-explore-maploader#/s:7heresdk18MapLoaderExceptiona">`MapLoaderException`</a> Specifies reason, why list of installed regions is not returned.
+  <a href="sdk-for-ios-explore-maploader#sdk-for-ios-explore-s-7heresdk18MapLoaderExceptiona">`MapLoaderException`</a> Specifies reason, why list of installed regions is not returned.
 
   </div>
 
@@ -727,12 +731,14 @@ To control the type of content included in a map download, use <a href="sdk-for-
   Swift
 
   ``` highlight
-  public func getInstalledRegions () throws -> [ InstalledRegion ]
+  public func getInstalledRegions() throws -> [InstalledRegion]
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-installedregion">InstalledRegion</a>
 
   </div>
 
@@ -750,7 +756,7 @@ To control the type of content included in a map download, use <a href="sdk-for-
 
 - <div>
 
-      getInitialPersistentMapStatus()
+   <span id="sdk-for-ios-explore-s-7heresdk13MapDownloaderC020getInitialPersistentB6StatusAA0fbG0OyF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-getInitialPersistentMapStatus" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapdownloader#sdk-for-ios-explore-s-7heresdk13MapDownloaderC020getInitialPersistentB6StatusAA0fbG0OyF" class="token"><code>getInitialPersistentMapStatus()</code></a> 
 
   </div>
 
@@ -781,12 +787,14 @@ To control the type of content included in a map download, use <a href="sdk-for-
   Swift
 
   ``` highlight
-  public func getInitialPersistentMapStatus () -> PersistentMapStatus
+  public func getInitialPersistentMapStatus() -> PersistentMapStatus
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-persistentmapstatus">PersistentMapStatus</a>
 
   </div>
 
@@ -804,7 +812,7 @@ To control the type of content included in a map download, use <a href="sdk-for-
 
 - <div>
 
-      repairPersistentMap(completion: )
+   <span id="sdk-for-ios-explore-s-7heresdk13MapDownloaderC016repairPersistentB010completionyyAA0eB11RepairErrorOSgc_tF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-repairPersistentMap-completion" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapdownloader#sdk-for-ios-explore-s-7heresdk13MapDownloaderC016repairPersistentB010completionyyAA0eB11RepairErrorOSgc_tF" class="token"><code>repairPersistentMap(completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -822,12 +830,7 @@ To control the type of content included in a map download, use <a href="sdk-for-
 
   <div class="abstract">
 
-  Tries to repair already downloaded regions that are in a corrupted state (see
-
-      MapDownloader.getInitialPersistentMapStatus(...)
-
-  ).
-  </p>
+  Tries to repair already downloaded regions that are in a corrupted state (see <a href="sdk-for-ios-explore-classes-mapdownloader#sdk-for-ios-explore-s-7heresdk13MapDownloaderC020getInitialPersistentB6StatusAA0fbG0OyF">`MapDownloader.getInitialPersistentMapStatus(...)`</a>).
 
   If indexing is enabled through `OfflineSearchEngine.setIndexOptions`, then index will be rebuilt if existing index does not match with the installed map regions after this operation. The index is used by <a href="sdk-for-ios-explore-classes-offlinesearchengine">`OfflineSearchEngine`</a> to find better results. Note: Indexing is a beta feature, so there could be a few bugs and unexpected behaviors.
 
@@ -842,12 +845,14 @@ To control the type of content included in a map download, use <a href="sdk-for-
   Swift
 
   ``` highlight
-  public func repairPersistentMap ( completion : @escaping RepairCompletionHandler )
+  public func repairPersistentMap(completion: @escaping RepairCompletionHandler)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-maploader#sdk-for-ios-explore-s-7heresdk23RepairCompletionHandlera">RepairCompletionHandler</a>
 
   </div>
 
@@ -878,7 +883,7 @@ To control the type of content included in a map download, use <a href="sdk-for-
 
 - <div>
 
-      getOfflineMapsStorageSizeInBytes()
+   <span id="sdk-for-ios-explore-s-7heresdk13MapDownloaderC32getOfflineMapsStorageSizeInBytess6UInt64VyKF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-getOfflineMapsStorageSizeInBytes" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapdownloader#sdk-for-ios-explore-s-7heresdk13MapDownloaderC32getOfflineMapsStorageSizeInBytess6UInt64VyKF" class="token"><code>getOfflineMapsStorageSizeInBytes()</code></a> 
 
   </div>
 
@@ -896,13 +901,13 @@ To control the type of content included in a map download, use <a href="sdk-for-
 
   <div class="abstract">
 
-  Get the total size of all downloaded regions currently persisted on disk at the location that is specified via <a href="sdk-for-ios-explore-structs-sdkoptions#/s:7heresdk10SDKOptionsV24persistentMapStoragePathSSvp">`SDKOptions.persistentMapStoragePath`</a>. This includes also data that is currently being downloaded.
+  Get the total size of all downloaded regions currently persisted on disk at the location that is specified via <a href="sdk-for-ios-explore-structs-sdkoptions#sdk-for-ios-explore-s-7heresdk10SDKOptionsV24persistentMapStoragePathSSvp">`SDKOptions.persistentMapStoragePath`</a>. This includes also data that is currently being downloaded.
 
   <div class="aside aside-throws">
 
   Throws
 
-  <a href="sdk-for-ios-explore-maploader#/s:7heresdk18MapLoaderExceptiona">`MapLoaderException`</a> Specifies reason, why current map size is not returned.
+  <a href="sdk-for-ios-explore-maploader#sdk-for-ios-explore-s-7heresdk18MapLoaderExceptiona">`MapLoaderException`</a> Specifies reason, why current map size is not returned.
 
   </div>
 
@@ -917,10 +922,8 @@ To control the type of content included in a map download, use <a href="sdk-for-
   Swift
 
   ``` highlight
-  public func getOfflineMapsStorageSizeInBytes () throws -> UInt64
+  public func getOfflineMapsStorageSizeInBytes() throws -> UInt64
   ```
-
-  </pre>
 
   </div>
 
@@ -940,7 +943,7 @@ To control the type of content included in a map download, use <a href="sdk-for-
 
 - <div>
 
-      getOfflineMapsStorageSizeInBytes(completion: )
+   <span id="sdk-for-ios-explore-s-7heresdk13MapDownloaderC32getOfflineMapsStorageSizeInBytes10completionAA10TaskHandle_pyAA0B11LoaderErrorOSg_s6UInt64VSgtc_tF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-getOfflineMapsStorageSizeInBytes-completion" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapdownloader#sdk-for-ios-explore-s-7heresdk13MapDownloaderC32getOfflineMapsStorageSizeInBytes10completionAA10TaskHandle_pyAA0B11LoaderErrorOSg_s6UInt64VSgtc_tF" class="token"><code>getOfflineMapsStorageSizeInBytes(completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -958,7 +961,7 @@ To control the type of content included in a map download, use <a href="sdk-for-
 
   <div class="abstract">
 
-  Get the total size of all downloaded regions currently persisted on disk at the location that is specified via <a href="sdk-for-ios-explore-structs-sdkoptions#/s:7heresdk10SDKOptionsV24persistentMapStoragePathSSvp">`SDKOptions.persistentMapStoragePath`</a>. This includes also data that is currently being downloaded.
+  Get the total size of all downloaded regions currently persisted on disk at the location that is specified via <a href="sdk-for-ios-explore-structs-sdkoptions#sdk-for-ios-explore-s-7heresdk10SDKOptionsV24persistentMapStoragePathSSvp">`SDKOptions.persistentMapStoragePath`</a>. This includes also data that is currently being downloaded.
 
   </div>
 
@@ -971,12 +974,15 @@ To control the type of content included in a map download, use <a href="sdk-for-
   Swift
 
   ``` highlight
-  public func getOfflineMapsStorageSizeInBytes ( completion : @escaping OfflineStorageSizeHandler ) -> TaskHandle
+  public func getOfflineMapsStorageSizeInBytes(completion: @escaping OfflineStorageSizeHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-maploader#sdk-for-ios-explore-s-7heresdk25OfflineStorageSizeHandlera">OfflineStorageSizeHandler</a>
+  - <a href="sdk-for-ios-explore-protocols-taskhandle">TaskHandle</a>
 
   </div>
 

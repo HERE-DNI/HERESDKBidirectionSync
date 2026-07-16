@@ -27,7 +27,7 @@ Defines the visual presentation modes for the camera orientation.
 
 - <div>
 
-  ` `<span id="/s:7heresdk24AutomotiveCameraBehaviorC15OrientationModeO6mode2dyA2EmF"></span>` `<span id="//apple_ref/swift/Element/mode2d" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-automotivecamerabehavior-orientationmode#/s:7heresdk24AutomotiveCameraBehaviorC15OrientationModeO6mode2dyA2EmF" class="token"><code>mode2d</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk24AutomotiveCameraBehaviorC15OrientationModeO6mode2dyA2EmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-mode2d" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-automotivecamerabehavior-orientationmode#sdk-for-ios-navigate-s-7heresdk24AutomotiveCameraBehaviorC15OrientationModeO6mode2dyA2EmF" class="token"><code>mode2d</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Defines the visual presentation modes for the camera orientation.
 
 - <div>
 
-  ` `<span id="/s:7heresdk24AutomotiveCameraBehaviorC15OrientationModeO6mode3dyA2EmF"></span>` `<span id="//apple_ref/swift/Element/mode3d" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-automotivecamerabehavior-orientationmode#/s:7heresdk24AutomotiveCameraBehaviorC15OrientationModeO6mode3dyA2EmF" class="token"><code>mode3d</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk24AutomotiveCameraBehaviorC15OrientationModeO6mode3dyA2EmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-mode3d" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-automotivecamerabehavior-orientationmode#sdk-for-ios-navigate-s-7heresdk24AutomotiveCameraBehaviorC15OrientationModeO6mode3dyA2EmF" class="token"><code>mode3d</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Defines the visual presentation modes for the camera orientation.
 
 - <div>
 
-  ` `<span id="/s:7heresdk24AutomotiveCameraBehaviorC15OrientationModeO11modeNorthUpyA2EmF"></span>` `<span id="//apple_ref/swift/Element/modeNorthUp" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-automotivecamerabehavior-orientationmode#/s:7heresdk24AutomotiveCameraBehaviorC15OrientationModeO11modeNorthUpyA2EmF" class="token"><code>modeNorthUp</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk24AutomotiveCameraBehaviorC15OrientationModeO11modeNorthUpyA2EmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-modeNorthUp" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-automotivecamerabehavior-orientationmode#sdk-for-ios-navigate-s-7heresdk24AutomotiveCameraBehaviorC15OrientationModeO11modeNorthUpyA2EmF" class="token"><code>modeNorthUp</code></a> 
 
   </div>
 

@@ -27,7 +27,7 @@ Geometry types.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13VenueGeometryC0C4TypeO5pointyA2EmF"></span>` `<span id="//apple_ref/swift/Element/point" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuegeometry-geometrytype#/s:7heresdk13VenueGeometryC0C4TypeO5pointyA2EmF" class="token"><code>point</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13VenueGeometryC0C4TypeO5pointyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-point" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuegeometry-geometrytype#sdk-for-ios-explore-s-7heresdk13VenueGeometryC0C4TypeO5pointyA2EmF" class="token"><code>point</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Geometry types.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13VenueGeometryC0C4TypeO10linestringyA2EmF"></span>` `<span id="//apple_ref/swift/Element/linestring" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuegeometry-geometrytype#/s:7heresdk13VenueGeometryC0C4TypeO10linestringyA2EmF" class="token"><code>linestring</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13VenueGeometryC0C4TypeO10linestringyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-linestring" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuegeometry-geometrytype#sdk-for-ios-explore-s-7heresdk13VenueGeometryC0C4TypeO10linestringyA2EmF" class="token"><code>linestring</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Geometry types.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13VenueGeometryC0C4TypeO7polygonyA2EmF"></span>` `<span id="//apple_ref/swift/Element/polygon" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuegeometry-geometrytype#/s:7heresdk13VenueGeometryC0C4TypeO7polygonyA2EmF" class="token"><code>polygon</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13VenueGeometryC0C4TypeO7polygonyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-polygon" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuegeometry-geometrytype#sdk-for-ios-explore-s-7heresdk13VenueGeometryC0C4TypeO7polygonyA2EmF" class="token"><code>polygon</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Geometry types.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13VenueGeometryC0C4TypeO10multipointyA2EmF"></span>` `<span id="//apple_ref/swift/Element/multipoint" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuegeometry-geometrytype#/s:7heresdk13VenueGeometryC0C4TypeO10multipointyA2EmF" class="token"><code>multipoint</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13VenueGeometryC0C4TypeO10multipointyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-multipoint" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuegeometry-geometrytype#sdk-for-ios-explore-s-7heresdk13VenueGeometryC0C4TypeO10multipointyA2EmF" class="token"><code>multipoint</code></a> 
 
   </div>
 
@@ -203,7 +203,7 @@ Geometry types.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13VenueGeometryC0C4TypeO12multipolygonyA2EmF"></span>` `<span id="//apple_ref/swift/Element/multipolygon" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuegeometry-geometrytype#/s:7heresdk13VenueGeometryC0C4TypeO12multipolygonyA2EmF" class="token"><code>multipolygon</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13VenueGeometryC0C4TypeO12multipolygonyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-multipolygon" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuegeometry-geometrytype#sdk-for-ios-explore-s-7heresdk13VenueGeometryC0C4TypeO12multipolygonyA2EmF" class="token"><code>multipolygon</code></a> 
 
   </div>
 

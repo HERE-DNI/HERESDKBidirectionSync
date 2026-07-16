@@ -27,7 +27,7 @@ Area to perform search on.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13CategoryQueryV4AreaV10areaCenterAA14GeoCoordinatesVvp"></span>` `<span id="//apple_ref/swift/Property/areaCenter" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-categoryquery-area#/s:7heresdk13CategoryQueryV4AreaV10areaCenterAA14GeoCoordinatesVvp" class="token"><code>areaCenter</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13CategoryQueryV4AreaV10areaCenterAA14GeoCoordinatesVvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-areaCenter" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-categoryquery-area#sdk-for-ios-explore-s-7heresdk13CategoryQueryV4AreaV10areaCenterAA14GeoCoordinatesVvp" class="token"><code>areaCenter</code></a> 
 
   </div>
 
@@ -63,6 +63,10 @@ Area to perform search on.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geocoordinates">GeoCoordinates</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ Area to perform search on.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13CategoryQueryV4AreaV03boxD0AA6GeoBoxVSgvp"></span>` `<span id="//apple_ref/swift/Property/boxArea" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-categoryquery-area#/s:7heresdk13CategoryQueryV4AreaV03boxD0AA6GeoBoxVSgvp" class="token"><code>boxArea</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13CategoryQueryV4AreaV03boxD0AA6GeoBoxVSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-boxArea" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-categoryquery-area#sdk-for-ios-explore-s-7heresdk13CategoryQueryV4AreaV03boxD0AA6GeoBoxVSgvp" class="token"><code>boxArea</code></a> 
 
   </div>
 
@@ -107,6 +111,10 @@ Area to perform search on.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geobox">GeoBox</a>
+
   </div>
 
   </div>
@@ -115,7 +123,7 @@ Area to perform search on.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13CategoryQueryV4AreaV06circleD0AA9GeoCircleVSgvp"></span>` `<span id="//apple_ref/swift/Property/circleArea" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-categoryquery-area#/s:7heresdk13CategoryQueryV4AreaV06circleD0AA9GeoCircleVSgvp" class="token"><code>circleArea</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13CategoryQueryV4AreaV06circleD0AA9GeoCircleVSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-circleArea" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-categoryquery-area#sdk-for-ios-explore-s-7heresdk13CategoryQueryV4AreaV06circleD0AA9GeoCircleVSgvp" class="token"><code>circleArea</code></a> 
 
   </div>
 
@@ -151,6 +159,10 @@ Area to perform search on.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geocircle">GeoCircle</a>
+
   </div>
 
   </div>
@@ -159,7 +171,7 @@ Area to perform search on.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13CategoryQueryV4AreaV08corridorD0AA11GeoCorridorVSgvp"></span>` `<span id="//apple_ref/swift/Property/corridorArea" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-categoryquery-area#/s:7heresdk13CategoryQueryV4AreaV08corridorD0AA11GeoCorridorVSgvp" class="token"><code>corridorArea</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13CategoryQueryV4AreaV08corridorD0AA11GeoCorridorVSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-corridorArea" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-categoryquery-area#sdk-for-ios-explore-s-7heresdk13CategoryQueryV4AreaV08corridorD0AA11GeoCorridorVSgvp" class="token"><code>corridorArea</code></a> 
 
   </div>
 
@@ -181,7 +193,7 @@ Area to perform search on.
 
   When used with <a href="sdk-for-ios-explore-classes-searchengine">`SearchEngine`</a>, the polyline is compressed and sent. More complex polylines with large amounts of coordinates and with smaller half-width may have the less relevant part removed, such as the one far away from the search center. This usually makes no difference, because there will be enough POIs near the search center. For use cases where it is important to search the entire polyline, half-width can be increased or not set. For example: Route between New York and Chicago with half-width 800 will be added to request without removing the far away part, but route of the same length (around 360km) between Milan (Italy) and Konstanz (Germany) will have the far away part removed due to its complexity.
 
-  When `CategoryQuery.Area.corridorArea` is provided, <a href="sdk-for-ios-explore-structs-categoryquery-area#/s:7heresdk13CategoryQueryV4AreaV10areaCenterAA14GeoCoordinatesVvp">`CategoryQuery.Area.areaCenter`</a> has to be within it, otherwise <a href="sdk-for-ios-explore-structs-categoryquery-area#/s:7heresdk13CategoryQueryV4AreaV10areaCenterAA14GeoCoordinatesVvp">`CategoryQuery.Area.areaCenter`</a> is ignored when searching.
+  When `CategoryQuery.Area.corridorArea` is provided, <a href="sdk-for-ios-explore-structs-categoryquery-area#sdk-for-ios-explore-s-7heresdk13CategoryQueryV4AreaV10areaCenterAA14GeoCoordinatesVvp">`CategoryQuery.Area.areaCenter`</a> has to be within it, otherwise <a href="sdk-for-ios-explore-structs-categoryquery-area#sdk-for-ios-explore-s-7heresdk13CategoryQueryV4AreaV10areaCenterAA14GeoCoordinatesVvp">`CategoryQuery.Area.areaCenter`</a> is ignored when searching.
 
   </div>
 
@@ -199,6 +211,10 @@ Area to perform search on.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geocorridor">GeoCorridor</a>
+
   </div>
 
   </div>
@@ -207,7 +223,7 @@ Area to perform search on.
 
 - <div>
 
-      init(areaCenter: )
+   <span id="sdk-for-ios-explore-s-7heresdk13CategoryQueryV4AreaV10areaCenterAeA14GeoCoordinatesV_tcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-areaCenter" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-categoryquery-area#sdk-for-ios-explore-s-7heresdk13CategoryQueryV4AreaV10areaCenterAeA14GeoCoordinatesV_tcfc" class="token"><code>init(areaCenter:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -238,12 +254,14 @@ Area to perform search on.
   Swift
 
   ``` highlight
-  public init ( areaCenter : GeoCoordinates )
+  public init(areaCenter: GeoCoordinates)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geocoordinates">GeoCoordinates</a>
 
   </div>
 
@@ -274,7 +292,7 @@ Area to perform search on.
 
 - <div>
 
-      init(near: inBox: )
+   <span id="sdk-for-ios-explore-s-7heresdk13CategoryQueryV4AreaV4near5inBoxAeA14GeoCoordinatesV_AA0hG0Vtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-near-inBox" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-categoryquery-area#sdk-for-ios-explore-s-7heresdk13CategoryQueryV4AreaV4near5inBoxAeA14GeoCoordinatesV_AA0hG0Vtcfc" class="token"><code>init(near:</code><wbr></wbr><code>inBox:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -305,12 +323,15 @@ Area to perform search on.
   Swift
 
   ``` highlight
-  public init ( near areaCenter : GeoCoordinates , inBox boxArea : GeoBox )
+  public init(near areaCenter: GeoCoordinates, inBox boxArea: GeoBox)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geocoordinates">GeoCoordinates</a>
+  - <a href="sdk-for-ios-explore-structs-geobox">GeoBox</a>
 
   </div>
 
@@ -347,7 +368,7 @@ Area to perform search on.
 
 - <div>
 
-      init(near: inCircle: )
+   <span id="sdk-for-ios-explore-s-7heresdk13CategoryQueryV4AreaV4near8inCircleAeA14GeoCoordinatesV_AA0hG0Vtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-near-inCircle" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-categoryquery-area#sdk-for-ios-explore-s-7heresdk13CategoryQueryV4AreaV4near8inCircleAeA14GeoCoordinatesV_AA0hG0Vtcfc" class="token"><code>init(near:</code><wbr></wbr><code>inCircle:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -378,12 +399,15 @@ Area to perform search on.
   Swift
 
   ``` highlight
-  public init ( near areaCenter : GeoCoordinates , inCircle circleArea : GeoCircle )
+  public init(near areaCenter: GeoCoordinates, inCircle circleArea: GeoCircle)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geocoordinates">GeoCoordinates</a>
+  - <a href="sdk-for-ios-explore-structs-geocircle">GeoCircle</a>
 
   </div>
 
@@ -420,7 +444,7 @@ Area to perform search on.
 
 - <div>
 
-      init(inCorridor: near: )
+   <span id="sdk-for-ios-explore-s-7heresdk13CategoryQueryV4AreaV10inCorridor4nearAeA03GeoF0V_AA0H11CoordinatesVtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-inCorridor-near" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-categoryquery-area#sdk-for-ios-explore-s-7heresdk13CategoryQueryV4AreaV10inCorridor4nearAeA03GeoF0V_AA0H11CoordinatesVtcfc" class="token"><code>init(inCorridor:</code><wbr></wbr><code>near:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -455,12 +479,15 @@ Area to perform search on.
   Swift
 
   ``` highlight
-  public init ( inCorridor corridorArea : GeoCorridor , near areaCenter : GeoCoordinates )
+  public init(inCorridor corridorArea: GeoCorridor, near areaCenter: GeoCoordinates)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geocorridor">GeoCorridor</a>
+  - <a href="sdk-for-ios-explore-structs-geocoordinates">GeoCoordinates</a>
 
   </div>
 

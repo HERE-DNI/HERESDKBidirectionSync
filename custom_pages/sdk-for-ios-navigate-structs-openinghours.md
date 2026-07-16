@@ -27,7 +27,7 @@ Represents opening hours information.
 
 - <div>
 
-  ` `<span id="/s:7heresdk12OpeningHoursV4textSaySSGvp"></span>` `<span id="//apple_ref/swift/Property/text" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-openinghours#/s:7heresdk12OpeningHoursV4textSaySSGvp" class="token"><code>text</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12OpeningHoursV4textSaySSGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-text" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-openinghours#sdk-for-ios-navigate-s-7heresdk12OpeningHoursV4textSaySSGvp" class="token"><code>text</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Represents opening hours information.
 
 - <div>
 
-  ` `<span id="/s:7heresdk12OpeningHoursV6isOpenSbvp"></span>` `<span id="//apple_ref/swift/Property/isOpen" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-openinghours#/s:7heresdk12OpeningHoursV6isOpenSbvp" class="token"><code>isOpen</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12OpeningHoursV6isOpenSbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-isOpen" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-openinghours#sdk-for-ios-navigate-s-7heresdk12OpeningHoursV6isOpenSbvp" class="token"><code>isOpen</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Represents opening hours information.
 
 - <div>
 
-  ` `<span id="/s:7heresdk12OpeningHoursV19scheduleDetailsListSayAA08ScheduleE0VGvp"></span>` `<span id="//apple_ref/swift/Property/scheduleDetailsList" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-openinghours#/s:7heresdk12OpeningHoursV19scheduleDetailsListSayAA08ScheduleE0VGvp" class="token"><code>scheduleDetailsList</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12OpeningHoursV19scheduleDetailsListSayAA08ScheduleE0VGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-scheduleDetailsList" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-openinghours#sdk-for-ios-navigate-s-7heresdk12OpeningHoursV19scheduleDetailsListSayAA08ScheduleE0VGvp" class="token"><code>scheduleDetailsList</code></a> 
 
   </div>
 
@@ -151,6 +151,10 @@ Represents opening hours information.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-scheduledetails">ScheduleDetails</a>
+
   </div>
 
   </div>
@@ -159,7 +163,7 @@ Represents opening hours information.
 
 - <div>
 
-  ` `<span id="/s:7heresdk12OpeningHoursV10categoriesSayAA13PlaceCategoryCGvp"></span>` `<span id="//apple_ref/swift/Property/categories" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-openinghours#/s:7heresdk12OpeningHoursV10categoriesSayAA13PlaceCategoryCGvp" class="token"><code>categories</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12OpeningHoursV10categoriesSayAA13PlaceCategoryCGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-categories" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-openinghours#sdk-for-ios-navigate-s-7heresdk12OpeningHoursV10categoriesSayAA13PlaceCategoryCGvp" class="token"><code>categories</code></a> 
 
   </div>
 
@@ -195,6 +199,10 @@ Represents opening hours information.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-placecategory">PlaceCategory</a>
+
   </div>
 
   </div>
@@ -203,7 +211,7 @@ Represents opening hours information.
 
 - <div>
 
-      init(text: isOpen: scheduleDetailsList: categories: )
+   <span id="sdk-for-ios-navigate-s-7heresdk12OpeningHoursV4text6isOpen19scheduleDetailsList10categoriesACSaySSG_SbSayAA08ScheduleH0VGSayAA13PlaceCategoryCGtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-text-isOpen-scheduleDetailsList-categories" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-openinghours#sdk-for-ios-navigate-s-7heresdk12OpeningHoursV4text6isOpen19scheduleDetailsList10categoriesACSaySSG_SbSayAA08ScheduleH0VGSayAA13PlaceCategoryCGtcfc" class="token"><code>init(text:</code><wbr></wbr><code>isOpen:</code><wbr></wbr><code>scheduleDetailsList:</code><wbr></wbr><code>categories:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -234,12 +242,15 @@ Represents opening hours information.
   Swift
 
   ``` highlight
-  public init ( text : [ String ], isOpen : Bool , scheduleDetailsList : [ ScheduleDetails ], categories : [ PlaceCategory ])
+  public init(text: [String], isOpen: Bool, scheduleDetailsList: [ScheduleDetails], categories: [PlaceCategory])
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-scheduledetails">ScheduleDetails</a>
+  - <a href="sdk-for-ios-navigate-classes-placecategory">PlaceCategory</a>
 
   </div>
 

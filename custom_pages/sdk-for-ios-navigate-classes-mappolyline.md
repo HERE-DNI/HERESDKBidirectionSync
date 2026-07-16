@@ -39,7 +39,7 @@ Altitude component of <a href="sdk-for-ios-navigate-structs-geopolyline">`GeoPol
 
 - <div>
 
-      init(geometry: representation: )
+   <span id="sdk-for-ios-navigate-s-7heresdk11MapPolylineC8geometry14representationAcA03GeoC0V_AC14RepresentationCtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-geometry-representation" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mappolyline#sdk-for-ios-navigate-s-7heresdk11MapPolylineC8geometry14representationAcA03GeoC0V_AC14RepresentationCtcfc" class="token"><code>init(geometry:</code><wbr></wbr><code>representation:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -61,12 +61,7 @@ Altitude component of <a href="sdk-for-ios-navigate-structs-geopolyline">`GeoPol
 
   Altitude component of <a href="sdk-for-ios-navigate-structs-geopolyline">`GeoPolyline`</a>‘s vertices is ignored.
 
-  After creating a `MapPolyline` with this representation, the deprecated `MapPolyline` properties do not work and any change to them will be ignored. Any modifications to polyline’s appearance must be done with
-
-      MapPolyline.setRepresentation(...)
-
-  .
-  </p>
+  After creating a `MapPolyline` with this representation, the deprecated `MapPolyline` properties do not work and any change to them will be ignored. Any modifications to polyline’s appearance must be done with <a href="sdk-for-ios-navigate-classes-mappolyline#sdk-for-ios-navigate-s-7heresdk11MapPolylineC17setRepresentationyyAC0E0CF">`MapPolyline.setRepresentation(...)`</a>.
 
   </div>
 
@@ -79,12 +74,15 @@ Altitude component of <a href="sdk-for-ios-navigate-structs-geopolyline">`GeoPol
   Swift
 
   ``` highlight
-  public init ( geometry : GeoPolyline , representation : MapPolyline . Representation )
+  public init(geometry: GeoPolyline, representation: MapPolyline.Representation)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-geopolyline">GeoPolyline</a>
+  - <a href="sdk-for-ios-navigate-classes-mappolyline-representation">Representation</a>
 
   </div>
 
@@ -121,7 +119,7 @@ Altitude component of <a href="sdk-for-ios-navigate-structs-geopolyline">`GeoPol
 
 - <div>
 
-  ` `<span id="/s:7heresdk11MapPolylineC8geometryAA03GeoC0Vvp"></span>` `<span id="//apple_ref/swift/Property/geometry" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mappolyline#/s:7heresdk11MapPolylineC8geometryAA03GeoC0Vvp" class="token"><code>geometry</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11MapPolylineC8geometryAA03GeoC0Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-geometry" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mappolyline#sdk-for-ios-navigate-s-7heresdk11MapPolylineC8geometryAA03GeoC0Vvp" class="token"><code>geometry</code></a> 
 
   </div>
 
@@ -157,6 +155,10 @@ Altitude component of <a href="sdk-for-ios-navigate-structs-geopolyline">`GeoPol
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-geopolyline">GeoPolyline</a>
+
   </div>
 
   </div>
@@ -165,7 +167,7 @@ Altitude component of <a href="sdk-for-ios-navigate-structs-geopolyline">`GeoPol
 
 - <div>
 
-  ` `<span id="/s:7heresdk11MapPolylineC8metadataAA8MetadataCSgvp"></span>` `<span id="//apple_ref/swift/Property/metadata" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mappolyline#/s:7heresdk11MapPolylineC8metadataAA8MetadataCSgvp" class="token"><code>metadata</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11MapPolylineC8metadataAA8MetadataCSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-metadata" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mappolyline#sdk-for-ios-navigate-s-7heresdk11MapPolylineC8metadataAA8MetadataCSgvp" class="token"><code>metadata</code></a> 
 
   </div>
 
@@ -201,6 +203,10 @@ Altitude component of <a href="sdk-for-ios-navigate-structs-geopolyline">`GeoPol
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-metadata">Metadata</a>
+
   </div>
 
   </div>
@@ -209,7 +215,7 @@ Altitude component of <a href="sdk-for-ios-navigate-structs-geopolyline">`GeoPol
 
 - <div>
 
-  ` `<span id="/s:7heresdk11MapPolylineC9drawOrders5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/drawOrder" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mappolyline#/s:7heresdk11MapPolylineC9drawOrders5Int32Vvp" class="token"><code>drawOrder</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11MapPolylineC9drawOrders5Int32Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-drawOrder" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mappolyline#sdk-for-ios-navigate-s-7heresdk11MapPolylineC9drawOrders5Int32Vvp" class="token"><code>drawOrder</code></a> 
 
   </div>
 
@@ -229,7 +235,7 @@ Altitude component of <a href="sdk-for-ios-navigate-structs-geopolyline">`GeoPol
 
   The draw order of the polyline. Polylines with a higher draw order are drawn on top of polylines with a lower draw order.
 
-  In case multiple polylines have the same draw order, they can be rendered in different ways depending on the <a href="sdk-for-ios-navigate-classes-mappolyline#/s:7heresdk11MapPolylineC13drawOrderTypeAA04DraweF0Ovp">`MapPolyline.drawOrderType`</a> set.
+  In case multiple polylines have the same draw order, they can be rendered in different ways depending on the <a href="sdk-for-ios-navigate-classes-mappolyline#sdk-for-ios-navigate-s-7heresdk11MapPolylineC13drawOrderTypeAA04DraweF0Ovp">`MapPolyline.drawOrderType`</a> set.
 
   The value is clamped to the range \[0; 1023\]. The default draw order is 0.
 
@@ -257,7 +263,7 @@ Altitude component of <a href="sdk-for-ios-navigate-structs-geopolyline">`GeoPol
 
 - <div>
 
-  ` `<span id="/s:7heresdk11MapPolylineC13drawOrderTypeAA04DraweF0Ovp"></span>` `<span id="//apple_ref/swift/Property/drawOrderType" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mappolyline#/s:7heresdk11MapPolylineC13drawOrderTypeAA04DraweF0Ovp" class="token"><code>drawOrderType</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11MapPolylineC13drawOrderTypeAA04DraweF0Ovp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-drawOrderType" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mappolyline#sdk-for-ios-navigate-s-7heresdk11MapPolylineC13drawOrderTypeAA04DraweF0Ovp" class="token"><code>drawOrderType</code></a> 
 
   </div>
 
@@ -275,13 +281,13 @@ Altitude component of <a href="sdk-for-ios-navigate-structs-geopolyline">`GeoPol
 
   <div class="abstract">
 
-  The draw order type of the polyline. The default value is <a href="sdk-for-ios-navigate-enums-drawordertype#/s:7heresdk13DrawOrderTypeO016mapSceneAdditionC9DependentyA2CmF">`DrawOrderType.mapSceneAdditionOrderDependent`</a>.
+  The draw order type of the polyline. The default value is <a href="sdk-for-ios-navigate-enums-drawordertype#sdk-for-ios-navigate-s-7heresdk13DrawOrderTypeO016mapSceneAdditionC9DependentyA2CmF">`DrawOrderType.mapSceneAdditionOrderDependent`</a>.
 
-  For <a href="sdk-for-ios-navigate-enums-drawordertype#/s:7heresdk13DrawOrderTypeO016mapSceneAdditionC9DependentyA2CmF">`DrawOrderType.mapSceneAdditionOrderDependent`</a>, map polylines with outlines having the same draw order are drawn as a whole in the order of addition to a map scene. There is no possibility that parts of another polyline, regardless of its draw order value, are drawn between outline and mainline of another polyline.
+  For <a href="sdk-for-ios-navigate-enums-drawordertype#sdk-for-ios-navigate-s-7heresdk13DrawOrderTypeO016mapSceneAdditionC9DependentyA2CmF">`DrawOrderType.mapSceneAdditionOrderDependent`</a>, map polylines with outlines having the same draw order are drawn as a whole in the order of addition to a map scene. There is no possibility that parts of another polyline, regardless of its draw order value, are drawn between outline and mainline of another polyline.
 
-  With <a href="sdk-for-ios-navigate-enums-drawordertype#/s:7heresdk13DrawOrderTypeO016mapSceneAdditionC9DependentyA2CmF">`DrawOrderType.mapSceneAdditionOrderDependent`</a> polylines are rendered one by one. For <a href="sdk-for-ios-navigate-enums-drawordertype#/s:7heresdk13DrawOrderTypeO016mapSceneAdditionC11IndependentyA2CmF">`DrawOrderType.mapSceneAdditionOrderIndependent`</a> for multiple polylines with outlines having the same draw order, all outlines are rendered first in an arbitrary order and then all mainlines are drawn on top of those polylines in an arbitrary order.
+  With <a href="sdk-for-ios-navigate-enums-drawordertype#sdk-for-ios-navigate-s-7heresdk13DrawOrderTypeO016mapSceneAdditionC9DependentyA2CmF">`DrawOrderType.mapSceneAdditionOrderDependent`</a> polylines are rendered one by one. For <a href="sdk-for-ios-navigate-enums-drawordertype#sdk-for-ios-navigate-s-7heresdk13DrawOrderTypeO016mapSceneAdditionC11IndependentyA2CmF">`DrawOrderType.mapSceneAdditionOrderIndependent`</a> for multiple polylines with outlines having the same draw order, all outlines are rendered first in an arbitrary order and then all mainlines are drawn on top of those polylines in an arbitrary order.
 
-  <a href="sdk-for-ios-navigate-enums-drawordertype#/s:7heresdk13DrawOrderTypeO016mapSceneAdditionC11IndependentyA2CmF">`DrawOrderType.mapSceneAdditionOrderIndependent`</a> allows speeding up the rendering process and keeping high frame rates when many similar polylines (with same styling attributes and <a href="sdk-for-ios-navigate-classes-mappolyline-representation">`MapPolyline.Representation`</a>) are present in a map scene.
+  <a href="sdk-for-ios-navigate-enums-drawordertype#sdk-for-ios-navigate-s-7heresdk13DrawOrderTypeO016mapSceneAdditionC11IndependentyA2CmF">`DrawOrderType.mapSceneAdditionOrderIndependent`</a> allows speeding up the rendering process and keeping high frame rates when many similar polylines (with same styling attributes and <a href="sdk-for-ios-navigate-classes-mappolyline-representation">`MapPolyline.Representation`</a>) are present in a map scene.
 
   </div>
 
@@ -299,6 +305,10 @@ Altitude component of <a href="sdk-for-ios-navigate-structs-geopolyline">`GeoPol
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-drawordertype">DrawOrderType</a>
+
   </div>
 
   </div>
@@ -307,7 +317,7 @@ Altitude component of <a href="sdk-for-ios-navigate-structs-geopolyline">`GeoPol
 
 - <div>
 
-  ` `<span id="/s:7heresdk11MapPolylineC16visibilityRangesSayAA0B12MeasureRangeVGvp"></span>` `<span id="//apple_ref/swift/Property/visibilityRanges" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mappolyline#/s:7heresdk11MapPolylineC16visibilityRangesSayAA0B12MeasureRangeVGvp" class="token"><code>visibilityRanges</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11MapPolylineC16visibilityRangesSayAA0B12MeasureRangeVGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-visibilityRanges" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mappolyline#sdk-for-ios-navigate-s-7heresdk11MapPolylineC16visibilityRangesSayAA0B12MeasureRangeVGvp" class="token"><code>visibilityRanges</code></a> 
 
   </div>
 
@@ -327,7 +337,7 @@ Altitude component of <a href="sdk-for-ios-navigate-structs-geopolyline">`GeoPol
 
   The list of visibility ranges. The map polyline is visible only inside these map measure ranges. A range is half open - \<a href="sdk-for-ios-navigate-structs-mapmeasurerange">minimumZoomLevel, maximumZoomLevel), the given maximum value is not contained in the range.
 
-  When empty (the default), the map polyline is visible without map measure restrictions. Only [`MapMeasureRange`</a>(s) of <a href="sdk-for-ios-navigate-structs-mapmeasure-kind#/s:7heresdk10MapMeasureV4KindO9zoomLevelyA2EmF">`MapMeasure.Kind.zoomLevel`</a> type are supported. <a href="sdk-for-ios-navigate-structs-mapmeasurerange">`MapMeasureRange`</a>(s) of other unsupported types will be ignored.
+  When empty (the default), the map polyline is visible without map measure restrictions. Only [`MapMeasureRange`</a>(s) of <a href="sdk-for-ios-navigate-structs-mapmeasure-kind#sdk-for-ios-navigate-s-7heresdk10MapMeasureV4KindO9zoomLevelyA2EmF">`MapMeasure.Kind.zoomLevel`</a> type are supported. <a href="sdk-for-ios-navigate-structs-mapmeasurerange">`MapMeasureRange`</a>(s) of other unsupported types will be ignored.
 
   </div>
 
@@ -345,6 +355,10 @@ Altitude component of <a href="sdk-for-ios-navigate-structs-geopolyline">`GeoPol
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-mapmeasurerange">MapMeasureRange</a>
+
   </div>
 
   </div>
@@ -353,7 +367,7 @@ Altitude component of <a href="sdk-for-ios-navigate-structs-geopolyline">`GeoPol
 
 - <div>
 
-  ` `<span id="/s:7heresdk11MapPolylineC8progressSdvp"></span>` `<span id="//apple_ref/swift/Property/progress" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mappolyline#/s:7heresdk11MapPolylineC8progressSdvp" class="token"><code>progress</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11MapPolylineC8progressSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-progress" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mappolyline#sdk-for-ios-navigate-s-7heresdk11MapPolylineC8progressSdvp" class="token"><code>progress</code></a> 
 
   </div>
 
@@ -399,7 +413,7 @@ Altitude component of <a href="sdk-for-ios-navigate-structs-geopolyline">`GeoPol
 
 - <div>
 
-  ` `<span id="/s:7heresdk11MapPolylineC13progressColorSo7UIColorCvp"></span>` `<span id="//apple_ref/swift/Property/progressColor" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mappolyline#/s:7heresdk11MapPolylineC13progressColorSo7UIColorCvp" class="token"><code>progressColor</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11MapPolylineC13progressColorSo7UIColorCvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-progressColor" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mappolyline#sdk-for-ios-navigate-s-7heresdk11MapPolylineC13progressColorSo7UIColorCvp" class="token"><code>progressColor</code></a> 
 
   </div>
 
@@ -443,7 +457,7 @@ Altitude component of <a href="sdk-for-ios-navigate-structs-geopolyline">`GeoPol
 
 - <div>
 
-  ` `<span id="/s:7heresdk11MapPolylineC20progressOutlineColorSo7UIColorCvp"></span>` `<span id="//apple_ref/swift/Property/progressOutlineColor" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mappolyline#/s:7heresdk11MapPolylineC20progressOutlineColorSo7UIColorCvp" class="token"><code>progressOutlineColor</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11MapPolylineC20progressOutlineColorSo7UIColorCvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-progressOutlineColor" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mappolyline#sdk-for-ios-navigate-s-7heresdk11MapPolylineC20progressOutlineColorSo7UIColorCvp" class="token"><code>progressOutlineColor</code></a> 
 
   </div>
 
@@ -487,7 +501,7 @@ Altitude component of <a href="sdk-for-ios-navigate-structs-geopolyline">`GeoPol
 
 - <div>
 
-  ` `<span id="/s:7heresdk11MapPolylineC22progressGradientLengthAA0B26MeasureDependentRenderSizeVvp"></span>` `<span id="//apple_ref/swift/Property/progressGradientLength" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mappolyline#/s:7heresdk11MapPolylineC22progressGradientLengthAA0B26MeasureDependentRenderSizeVvp" class="token"><code>progressGradientLength</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11MapPolylineC22progressGradientLengthAA0B26MeasureDependentRenderSizeVvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-progressGradientLength" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mappolyline#sdk-for-ios-navigate-s-7heresdk11MapPolylineC22progressGradientLengthAA0B26MeasureDependentRenderSizeVvp" class="token"><code>progressGradientLength</code></a> 
 
   </div>
 
@@ -507,7 +521,7 @@ Altitude component of <a href="sdk-for-ios-navigate-structs-geopolyline">`GeoPol
 
   The maximum gradient length between `MapPolyline.lineColor' and 'MapPolyline.progressColor` in zoom level dependent pixels. To achieve a constant gradient length, use <a href="sdk-for-ios-navigate-structs-mapmeasuredependentrendersize">`MapMeasureDependentRenderSize`</a> with a single value. To achieve a gradient length dependent on map zoom, use <a href="sdk-for-ios-navigate-structs-mapmeasuredependentrendersize">`MapMeasureDependentRenderSize`</a> with multiple values. The default value is a constant gradient length of zero pixels. The gradient is guaranteed to fit into polyline, i.e. the actual gradient can be shorter then `progressGradientLength`.
 
-  For <a href="sdk-for-ios-navigate-structs-mapmeasure-kind">`MapMeasure.Kind`</a> only <a href="sdk-for-ios-navigate-structs-mapmeasure-kind#/s:7heresdk10MapMeasureV4KindO9zoomLevelyA2EmF">`MapMeasure.Kind.zoomLevel`</a> is supported. For <a href="sdk-for-ios-navigate-structs-rendersize-unit">`RenderSize.Unit`</a> only <a href="sdk-for-ios-navigate-structs-rendersize-unit#/s:7heresdk10RenderSizeV4UnitO6pixelsyA2EmF">`RenderSize.Unit.pixels`</a> is supported. When setting the attribute with with unsupported values, the operation is ignored.
+  For <a href="sdk-for-ios-navigate-structs-mapmeasure-kind">`MapMeasure.Kind`</a> only <a href="sdk-for-ios-navigate-structs-mapmeasure-kind#sdk-for-ios-navigate-s-7heresdk10MapMeasureV4KindO9zoomLevelyA2EmF">`MapMeasure.Kind.zoomLevel`</a> is supported. For <a href="sdk-for-ios-navigate-structs-rendersize-unit">`RenderSize.Unit`</a> only <a href="sdk-for-ios-navigate-structs-rendersize-unit#sdk-for-ios-navigate-s-7heresdk10RenderSizeV4UnitO6pixelsyA2EmF">`RenderSize.Unit.pixels`</a> is supported. When setting the attribute with with unsupported values, the operation is ignored.
 
   </div>
 
@@ -525,6 +539,10 @@ Altitude component of <a href="sdk-for-ios-navigate-structs-geopolyline">`GeoPol
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-mapmeasuredependentrendersize">MapMeasureDependentRenderSize</a>
+
   </div>
 
   </div>
@@ -533,7 +551,7 @@ Altitude component of <a href="sdk-for-ios-navigate-structs-geopolyline">`GeoPol
 
 - <div>
 
-  ` `<span id="/s:7heresdk11MapPolylineC27mapContentCategoriesToBlockSayAA0bE8CategoryOGvp"></span>` `<span id="//apple_ref/swift/Property/mapContentCategoriesToBlock" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mappolyline#/s:7heresdk11MapPolylineC27mapContentCategoriesToBlockSayAA0bE8CategoryOGvp" class="token"><code>mapContentCategoriesToBlock</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11MapPolylineC27mapContentCategoriesToBlockSayAA0bE8CategoryOGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-mapContentCategoriesToBlock" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mappolyline#sdk-for-ios-navigate-s-7heresdk11MapPolylineC27mapContentCategoriesToBlockSayAA0bE8CategoryOGvp" class="token"><code>mapContentCategoriesToBlock</code></a> 
 
   </div>
 
@@ -573,6 +591,10 @@ Altitude component of <a href="sdk-for-ios-navigate-structs-geopolyline">`GeoPol
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-mapcontentcategory">MapContentCategory</a>
+
   </div>
 
   </div>
@@ -581,7 +603,7 @@ Altitude component of <a href="sdk-for-ios-navigate-structs-geopolyline">`GeoPol
 
 - <div>
 
-  ` `<span id="/s:7heresdk11MapPolylineC14RepresentationC"></span>` `<span id="//apple_ref/swift/Class/Representation" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mappolyline#/s:7heresdk11MapPolylineC14RepresentationC" class="token"><code>Representation</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11MapPolylineC14RepresentationC"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Class-Representation" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mappolyline#sdk-for-ios-navigate-s-7heresdk11MapPolylineC14RepresentationC" class="token"><code>Representation</code></a> 
 
   </div>
 
@@ -619,6 +641,10 @@ Altitude component of <a href="sdk-for-ios-navigate-structs-geopolyline">`GeoPol
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-maps#sdk-for-ios-navigate-s-7heresdk21MapItemRepresentationC">MapItemRepresentation</a>
+
   </div>
 
   </div>
@@ -627,7 +653,7 @@ Altitude component of <a href="sdk-for-ios-navigate-structs-geopolyline">`GeoPol
 
 - <div>
 
-  ` `<span id="/s:7heresdk11MapPolylineC23DashImageRepresentationC"></span>` `<span id="//apple_ref/swift/Class/DashImageRepresentation" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mappolyline#/s:7heresdk11MapPolylineC23DashImageRepresentationC" class="token"><code>DashImageRepresentation</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11MapPolylineC23DashImageRepresentationC"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Class-DashImageRepresentation" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mappolyline#sdk-for-ios-navigate-s-7heresdk11MapPolylineC23DashImageRepresentationC" class="token"><code>DashImageRepresentation</code></a> 
 
   </div>
 
@@ -649,9 +675,9 @@ Altitude component of <a href="sdk-for-ios-navigate-structs-geopolyline">`GeoPol
 
   This dash pattern representation consists only of images rendered at certain points along the polyline. For rendering them without any distortions, polyline gets sliced into series of straight segments that are multiple of sum of dash and gap lengths. For this reason, the new polyline geometry might not align fully with original geometry.
 
-  The <a href="sdk-for-ios-navigate-classes-mappolyline-dashimagerepresentation#/s:7heresdk11MapPolylineC23DashImageRepresentationC04dashE0AA0bE0Cvp">`MapPolyline.DashImageRepresentation.dashImage`</a> is stretched according to <a href="sdk-for-ios-navigate-classes-mappolyline-dashimagerepresentation#/s:7heresdk11MapPolylineC23DashImageRepresentationC10dashLengthAA0B26MeasureDependentRenderSizeVvp">`MapPolyline.DashImageRepresentation.dashLength`</a> and <a href="sdk-for-ios-navigate-classes-mappolyline-dashimagerepresentation#/s:7heresdk11MapPolylineC23DashImageRepresentationC9dashWidthAA0B26MeasureDependentRenderSizeVvp">`MapPolyline.DashImageRepresentation.dashWidth`</a>, with image’s width matched to `dashLength` and image’s height matched to `dashWidth`. The image is oriented so that its bottom is on the left-hand side between vertices `n` and `n+1`.
+  The <a href="sdk-for-ios-navigate-classes-mappolyline-dashimagerepresentation#sdk-for-ios-navigate-s-7heresdk11MapPolylineC23DashImageRepresentationC04dashE0AA0bE0Cvp">`MapPolyline.DashImageRepresentation.dashImage`</a> is stretched according to <a href="sdk-for-ios-navigate-classes-mappolyline-dashimagerepresentation#sdk-for-ios-navigate-s-7heresdk11MapPolylineC23DashImageRepresentationC10dashLengthAA0B26MeasureDependentRenderSizeVvp">`MapPolyline.DashImageRepresentation.dashLength`</a> and <a href="sdk-for-ios-navigate-classes-mappolyline-dashimagerepresentation#sdk-for-ios-navigate-s-7heresdk11MapPolylineC23DashImageRepresentationC9dashWidthAA0B26MeasureDependentRenderSizeVvp">`MapPolyline.DashImageRepresentation.dashWidth`</a>, with image’s width matched to `dashLength` and image’s height matched to `dashWidth`. The image is oriented so that its bottom is on the left-hand side between vertices `n` and `n+1`.
 
-  The spacing between images is specified by <a href="sdk-for-ios-navigate-classes-mappolyline-dashimagerepresentation#/s:7heresdk11MapPolylineC23DashImageRepresentationC9gapLengthAA0B26MeasureDependentRenderSizeVvp">`MapPolyline.DashImageRepresentation.gapLength`</a>.
+  The spacing between images is specified by <a href="sdk-for-ios-navigate-classes-mappolyline-dashimagerepresentation#sdk-for-ios-navigate-s-7heresdk11MapPolylineC23DashImageRepresentationC9gapLengthAA0B26MeasureDependentRenderSizeVvp">`MapPolyline.DashImageRepresentation.gapLength`</a>.
 
   Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors. Related APIs may change for new releases without a deprecation process.
 
@@ -673,6 +699,11 @@ Altitude component of <a href="sdk-for-ios-navigate-structs-geopolyline">`GeoPol
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mappolyline">MapPolyline</a>
+  - <a href="sdk-for-ios-navigate-classes-mappolyline-representation">Representation</a>
+
   </div>
 
   </div>
@@ -681,7 +712,7 @@ Altitude component of <a href="sdk-for-ios-navigate-structs-geopolyline">`GeoPol
 
 - <div>
 
-  ` `<span id="/s:7heresdk11MapPolylineC19SolidRepresentationC"></span>` `<span id="//apple_ref/swift/Class/SolidRepresentation" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mappolyline#/s:7heresdk11MapPolylineC19SolidRepresentationC" class="token"><code>SolidRepresentation</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11MapPolylineC19SolidRepresentationC"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Class-SolidRepresentation" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mappolyline#sdk-for-ios-navigate-s-7heresdk11MapPolylineC19SolidRepresentationC" class="token"><code>SolidRepresentation</code></a> 
 
   </div>
 
@@ -707,9 +738,9 @@ Altitude component of <a href="sdk-for-ios-navigate-structs-geopolyline">`GeoPol
 
   To achieve line width dependent on map zoom, use <a href="sdk-for-ios-navigate-structs-mapmeasuredependentrendersize">`MapMeasureDependentRenderSize`</a> with multiple values.
 
-  For <a href="sdk-for-ios-navigate-structs-mapmeasure-kind">`MapMeasure.Kind`</a> only <a href="sdk-for-ios-navigate-structs-mapmeasure-kind#/s:7heresdk10MapMeasureV4KindO9zoomLevelyA2EmF">`MapMeasure.Kind.zoomLevel`</a> is supported.
+  For <a href="sdk-for-ios-navigate-structs-mapmeasure-kind">`MapMeasure.Kind`</a> only <a href="sdk-for-ios-navigate-structs-mapmeasure-kind#sdk-for-ios-navigate-s-7heresdk10MapMeasureV4KindO9zoomLevelyA2EmF">`MapMeasure.Kind.zoomLevel`</a> is supported.
 
-  For <a href="sdk-for-ios-navigate-structs-rendersize-unit">`RenderSize.Unit`</a> only <a href="sdk-for-ios-navigate-structs-rendersize-unit#/s:7heresdk10RenderSizeV4UnitO6pixelsyA2EmF">`RenderSize.Unit.pixels`</a> is supported.
+  For <a href="sdk-for-ios-navigate-structs-rendersize-unit">`RenderSize.Unit`</a> only <a href="sdk-for-ios-navigate-structs-rendersize-unit#sdk-for-ios-navigate-s-7heresdk10RenderSizeV4UnitO6pixelsyA2EmF">`RenderSize.Unit.pixels`</a> is supported.
 
   <a href="sdk-for-ios-navigate-classes-mappolyline-solidrepresentation" class="slightly-smaller">See more</a>
 
@@ -729,6 +760,11 @@ Altitude component of <a href="sdk-for-ios-navigate-structs-geopolyline">`GeoPol
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mappolyline">MapPolyline</a>
+  - <a href="sdk-for-ios-navigate-classes-mappolyline-representation">Representation</a>
+
   </div>
 
   </div>
@@ -737,7 +773,7 @@ Altitude component of <a href="sdk-for-ios-navigate-structs-geopolyline">`GeoPol
 
 - <div>
 
-  ` `<span id="/s:7heresdk11MapPolylineC18DashRepresentationC"></span>` `<span id="//apple_ref/swift/Class/DashRepresentation" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mappolyline#/s:7heresdk11MapPolylineC18DashRepresentationC" class="token"><code>DashRepresentation</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11MapPolylineC18DashRepresentationC"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Class-DashRepresentation" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mappolyline#sdk-for-ios-navigate-s-7heresdk11MapPolylineC18DashRepresentationC" class="token"><code>DashRepresentation</code></a> 
 
   </div>
 
@@ -777,6 +813,11 @@ Altitude component of <a href="sdk-for-ios-navigate-structs-geopolyline">`GeoPol
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mappolyline">MapPolyline</a>
+  - <a href="sdk-for-ios-navigate-classes-mappolyline-representation">Representation</a>
+
   </div>
 
   </div>
@@ -785,7 +826,7 @@ Altitude component of <a href="sdk-for-ios-navigate-structs-geopolyline">`GeoPol
 
 - <div>
 
-  ` `<span id="/s:7heresdk11MapPolylineC29SolidMultiColorRepresentationC"></span>` `<span id="//apple_ref/swift/Class/SolidMultiColorRepresentation" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mappolyline#/s:7heresdk11MapPolylineC29SolidMultiColorRepresentationC" class="token"><code>SolidMultiColorRepresentation</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11MapPolylineC29SolidMultiColorRepresentationC"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Class-SolidMultiColorRepresentation" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mappolyline#sdk-for-ios-navigate-s-7heresdk11MapPolylineC29SolidMultiColorRepresentationC" class="token"><code>SolidMultiColorRepresentation</code></a> 
 
   </div>
 
@@ -807,7 +848,7 @@ Altitude component of <a href="sdk-for-ios-navigate-structs-geopolyline">`GeoPol
 
   Color segment is defined by color stops. Color stop is specified as a polyline length ratio (0.0 - start of the polyline, 1.0 - end of the polyline). Color stop represents a color change starting at that exact point up until either the next color stop (if one exists) or the end of the polyline.
 
-  Progress color <a href="sdk-for-ios-navigate-classes-mappolyline#/s:7heresdk11MapPolylineC13progressColorSo7UIColorCvp">`MapPolyline.progressColor`</a> overrides any of the multiple color.
+  Progress color <a href="sdk-for-ios-navigate-classes-mappolyline#sdk-for-ios-navigate-s-7heresdk11MapPolylineC13progressColorSo7UIColorCvp">`MapPolyline.progressColor`</a> overrides any of the multiple color.
 
   Examples: The following configuration will color map polyline as follows:
 
@@ -835,6 +876,11 @@ Altitude component of <a href="sdk-for-ios-navigate-structs-geopolyline">`GeoPol
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mappolyline">MapPolyline</a>
+  - <a href="sdk-for-ios-navigate-classes-mappolyline-representation">Representation</a>
+
   </div>
 
   </div>
@@ -843,7 +889,7 @@ Altitude component of <a href="sdk-for-ios-navigate-structs-geopolyline">`GeoPol
 
 - <div>
 
-      setRepresentation(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk11MapPolylineC17setRepresentationyyAC0E0CF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-setRepresentation-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mappolyline#sdk-for-ios-navigate-s-7heresdk11MapPolylineC17setRepresentationyyAC0E0CF" class="token"><code>setRepresentation(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -874,12 +920,14 @@ Altitude component of <a href="sdk-for-ios-navigate-structs-geopolyline">`GeoPol
   Swift
 
   ``` highlight
-  public func setRepresentation ( _ representation : MapPolyline . Representation )
+  public func setRepresentation(_ representation: MapPolyline.Representation)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mappolyline-representation">Representation</a>
 
   </div>
 
@@ -910,7 +958,7 @@ Altitude component of <a href="sdk-for-ios-navigate-structs-geopolyline">`GeoPol
 
 - <div>
 
-      startAnimation(_: animationDelegate: )
+   <span id="sdk-for-ios-navigate-s-7heresdk11MapPolylineC14startAnimation_17animationDelegateyAA0bcE0C_AA0eG0_ptF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-startAnimation-_-animationDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mappolyline#sdk-for-ios-navigate-s-7heresdk11MapPolylineC14startAnimation_17animationDelegateyAA0bcE0C_AA0eG0_ptF" class="token"><code>startAnimation(_:</code><wbr></wbr><code>animationDelegate:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -945,12 +993,15 @@ Altitude component of <a href="sdk-for-ios-navigate-structs-geopolyline">`GeoPol
   Swift
 
   ``` highlight
-  public func startAnimation ( _ animation : MapPolylineAnimation , animationDelegate : AnimationDelegate )
+  public func startAnimation(_ animation: MapPolylineAnimation, animationDelegate: AnimationDelegate)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mappolylineanimation">MapPolylineAnimation</a>
+  - <a href="sdk-for-ios-navigate-protocols-animationdelegate">AnimationDelegate</a>
 
   </div>
 
@@ -987,7 +1038,7 @@ Altitude component of <a href="sdk-for-ios-navigate-structs-geopolyline">`GeoPol
 
 - <div>
 
-      cancelAnimation(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk11MapPolylineC15cancelAnimationyyAA0bcE0CF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-cancelAnimation-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mappolyline#sdk-for-ios-navigate-s-7heresdk11MapPolylineC15cancelAnimationyyAA0bcE0CF" class="token"><code>cancelAnimation(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1020,12 +1071,14 @@ Altitude component of <a href="sdk-for-ios-navigate-structs-geopolyline">`GeoPol
   Swift
 
   ``` highlight
-  public func cancelAnimation ( _ animation : MapPolylineAnimation )
+  public func cancelAnimation(_ animation: MapPolylineAnimation)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mappolylineanimation">MapPolylineAnimation</a>
 
   </div>
 

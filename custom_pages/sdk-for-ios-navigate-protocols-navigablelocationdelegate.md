@@ -27,7 +27,7 @@ This protocol should be implemented in order to receive notifications about the 
 
 - <div>
 
-      onNavigableLocationUpdated(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk25NavigableLocationDelegateP02onbC7UpdatedyyAA0bC0VF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-onNavigableLocationUpdated-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-protocols-navigablelocationdelegate#sdk-for-ios-navigate-s-7heresdk25NavigableLocationDelegateP02onbC7UpdatedyyAA0bC0VF" class="token"><code>onNavigableLocationUpdated(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -58,12 +58,14 @@ This protocol should be implemented in order to receive notifications about the 
   Swift
 
   ``` highlight
-  func onNavigableLocationUpdated ( _ navigableLocation : NavigableLocation )
+  func onNavigableLocationUpdated(_ navigableLocation: NavigableLocation)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-navigablelocation">NavigableLocation</a>
 
   </div>
 

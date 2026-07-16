@@ -27,7 +27,7 @@ Describes geodetic orientation update with bearing and tilt. Updating an orienta
 
 - <div>
 
-  ` `<span id="/s:7heresdk20GeoOrientationUpdateV7bearingSdSgvp"></span>` `<span id="//apple_ref/swift/Property/bearing" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-geoorientationupdate#/s:7heresdk20GeoOrientationUpdateV7bearingSdSgvp" class="token"><code>bearing</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk20GeoOrientationUpdateV7bearingSdSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-bearing" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-geoorientationupdate#sdk-for-ios-navigate-s-7heresdk20GeoOrientationUpdateV7bearingSdSgvp" class="token"><code>bearing</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Describes geodetic orientation update with bearing and tilt. Updating an orienta
 
 - <div>
 
-  ` `<span id="/s:7heresdk20GeoOrientationUpdateV4tiltSdSgvp"></span>` `<span id="//apple_ref/swift/Property/tilt" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-geoorientationupdate#/s:7heresdk20GeoOrientationUpdateV4tiltSdSgvp" class="token"><code>tilt</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk20GeoOrientationUpdateV4tiltSdSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-tilt" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-geoorientationupdate#sdk-for-ios-navigate-s-7heresdk20GeoOrientationUpdateV4tiltSdSgvp" class="token"><code>tilt</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Describes geodetic orientation update with bearing and tilt. Updating an orienta
 
 - <div>
 
-      init(bearing: tilt: )
+   <span id="sdk-for-ios-navigate-s-7heresdk20GeoOrientationUpdateV7bearing4tiltACSdSg_AFtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-bearing-tilt" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-geoorientationupdate#sdk-for-ios-navigate-s-7heresdk20GeoOrientationUpdateV7bearing4tiltACSdSg_AFtcfc" class="token"><code>init(bearing:</code><wbr></wbr><code>tilt:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -144,10 +144,8 @@ Describes geodetic orientation update with bearing and tilt. Updating an orienta
   Swift
 
   ``` highlight
-  public init ( bearing : Double ?, tilt : Double ?)
+  public init(bearing: Double?, tilt: Double?)
   ```
-
-  </pre>
 
   </div>
 
@@ -186,7 +184,7 @@ Describes geodetic orientation update with bearing and tilt. Updating an orienta
 
 - <div>
 
-      init(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk20GeoOrientationUpdateVyAcA0bC0Vcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-geoorientationupdate#sdk-for-ios-navigate-s-7heresdk20GeoOrientationUpdateVyAcA0bC0Vcfc" class="token"><code>init(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -217,12 +215,14 @@ Describes geodetic orientation update with bearing and tilt. Updating an orienta
   Swift
 
   ``` highlight
-  public init ( _ orientation : GeoOrientation )
+  public init(_ orientation: GeoOrientation)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-geoorientation">GeoOrientation</a>
 
   </div>
 

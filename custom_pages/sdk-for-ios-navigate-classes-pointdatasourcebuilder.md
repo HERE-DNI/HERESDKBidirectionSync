@@ -37,7 +37,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      init(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk22PointDataSourceBuilderCyAcA10MapContextCcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-pointdatasourcebuilder#sdk-for-ios-navigate-s-7heresdk22PointDataSourceBuilderCyAcA10MapContextCcfc" class="token"><code>init(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -68,12 +68,14 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public init ( _ context : MapContext )
+  public init(_ context: MapContext)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mapcontext">MapContext</a>
 
   </div>
 
@@ -104,7 +106,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      withName(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk22PointDataSourceBuilderC8withNameyACSSF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-withName-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-pointdatasourcebuilder#sdk-for-ios-navigate-s-7heresdk22PointDataSourceBuilderC8withNameyACSSF" class="token"><code>withName(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -135,10 +137,8 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func withName ( _ dataSourceName : String ) -> PointDataSourceBuilder
+  public func withName(_ dataSourceName: String) -> PointDataSourceBuilder
   ```
-
-  </pre>
 
   </div>
 
@@ -179,7 +179,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      withPoint(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk22PointDataSourceBuilderC04withB0yAcA0bC0CF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-withPoint-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-pointdatasourcebuilder#sdk-for-ios-navigate-s-7heresdk22PointDataSourceBuilderC04withB0yAcA0bC0CF" class="token"><code>withPoint(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -210,12 +210,14 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func withPoint ( _ point : PointData ) -> PointDataSourceBuilder
+  public func withPoint(_ point: PointData) -> PointDataSourceBuilder
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-maps#sdk-for-ios-navigate-s-7heresdk9PointDataC">PointData</a>
 
   </div>
 
@@ -254,7 +256,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      withPoints(points: )
+   <span id="sdk-for-ios-navigate-s-7heresdk22PointDataSourceBuilderC10withPoints6pointsACSayAA0bC0CG_tF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-withPoints-points" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-pointdatasourcebuilder#sdk-for-ios-navigate-s-7heresdk22PointDataSourceBuilderC10withPoints6pointsACSayAA0bC0CG_tF" class="token"><code>withPoints(points:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -285,12 +287,14 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func withPoints ( points : [ PointData ]) -> PointDataSourceBuilder
+  public func withPoints(points: [PointData]) -> PointDataSourceBuilder
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-maps#sdk-for-ios-navigate-s-7heresdk9PointDataC">PointData</a>
 
   </div>
 
@@ -329,7 +333,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      build()
+   <span id="sdk-for-ios-navigate-s-7heresdk22PointDataSourceBuilderC5buildAA0bcD0CyF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-build" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-pointdatasourcebuilder#sdk-for-ios-navigate-s-7heresdk22PointDataSourceBuilderC5buildAA0bcD0CyF" class="token"><code>build()</code></a> 
 
   </div>
 
@@ -360,12 +364,14 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func build () -> PointDataSource
+  public func build() -> PointDataSource
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-pointdatasource">PointDataSource</a>
 
   </div>
 

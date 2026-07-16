@@ -34,7 +34,7 @@ Represents the dimension the price component, which determines what is being cha
 
 - <div>
 
-  ` `<span id="/s:7heresdk25EVChargingTariffDimensionO4timeyA2CmF"></span>` `<span id="//apple_ref/swift/Element/time" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-evchargingtariffdimension#/s:7heresdk25EVChargingTariffDimensionO4timeyA2CmF" class="token"><code>time</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk25EVChargingTariffDimensionO4timeyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-time" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-evchargingtariffdimension#sdk-for-ios-navigate-s-7heresdk25EVChargingTariffDimensionO4timeyA2CmF" class="token"><code>time</code></a> 
 
   </div>
 
@@ -78,7 +78,7 @@ Represents the dimension the price component, which determines what is being cha
 
 - <div>
 
-  ` `<span id="/s:7heresdk25EVChargingTariffDimensionO6energyyA2CmF"></span>` `<span id="//apple_ref/swift/Element/energy" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-evchargingtariffdimension#/s:7heresdk25EVChargingTariffDimensionO6energyyA2CmF" class="token"><code>energy</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk25EVChargingTariffDimensionO6energyyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-energy" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-evchargingtariffdimension#sdk-for-ios-navigate-s-7heresdk25EVChargingTariffDimensionO6energyyA2CmF" class="token"><code>energy</code></a> 
 
   </div>
 
@@ -122,7 +122,7 @@ Represents the dimension the price component, which determines what is being cha
 
 - <div>
 
-  ` `<span id="/s:7heresdk25EVChargingTariffDimensionO4flatyA2CmF"></span>` `<span id="//apple_ref/swift/Element/flat" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-evchargingtariffdimension#/s:7heresdk25EVChargingTariffDimensionO4flatyA2CmF" class="token"><code>flat</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk25EVChargingTariffDimensionO4flatyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-flat" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-evchargingtariffdimension#sdk-for-ios-navigate-s-7heresdk25EVChargingTariffDimensionO4flatyA2CmF" class="token"><code>flat</code></a> 
 
   </div>
 
@@ -166,7 +166,7 @@ Represents the dimension the price component, which determines what is being cha
 
 - <div>
 
-  ` `<span id="/s:7heresdk25EVChargingTariffDimensionO11parkingTimeyA2CmF"></span>` `<span id="//apple_ref/swift/Element/parkingTime" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-evchargingtariffdimension#/s:7heresdk25EVChargingTariffDimensionO11parkingTimeyA2CmF" class="token"><code>parkingTime</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk25EVChargingTariffDimensionO11parkingTimeyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-parkingTime" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-evchargingtariffdimension#sdk-for-ios-navigate-s-7heresdk25EVChargingTariffDimensionO11parkingTimeyA2CmF" class="token"><code>parkingTime</code></a> 
 
   </div>
 

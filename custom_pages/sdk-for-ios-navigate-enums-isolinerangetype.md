@@ -27,7 +27,7 @@ Specifies the type of one or more range values to be included in the isoline. Th
 
 - <div>
 
-  ` `<span id="/s:7heresdk16IsolineRangeTypeO16distanceInMetersyA2CmF"></span>` `<span id="//apple_ref/swift/Element/distanceInMeters" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-isolinerangetype#/s:7heresdk16IsolineRangeTypeO16distanceInMetersyA2CmF" class="token"><code>distanceInMeters</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16IsolineRangeTypeO16distanceInMetersyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-distanceInMeters" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-isolinerangetype#sdk-for-ios-navigate-s-7heresdk16IsolineRangeTypeO16distanceInMetersyA2CmF" class="token"><code>distanceInMeters</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Specifies the type of one or more range values to be included in the isoline. Th
 
 - <div>
 
-  ` `<span id="/s:7heresdk16IsolineRangeTypeO13timeInSecondsyA2CmF"></span>` `<span id="//apple_ref/swift/Element/timeInSeconds" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-isolinerangetype#/s:7heresdk16IsolineRangeTypeO13timeInSecondsyA2CmF" class="token"><code>timeInSeconds</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16IsolineRangeTypeO13timeInSecondsyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-timeInSeconds" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-isolinerangetype#sdk-for-ios-navigate-s-7heresdk16IsolineRangeTypeO13timeInSecondsyA2CmF" class="token"><code>timeInSeconds</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Specifies the type of one or more range values to be included in the isoline. Th
 
 - <div>
 
-  ` `<span id="/s:7heresdk16IsolineRangeTypeO22consumptionInWattHoursyA2CmF"></span>` `<span id="//apple_ref/swift/Element/consumptionInWattHours" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-isolinerangetype#/s:7heresdk16IsolineRangeTypeO22consumptionInWattHoursyA2CmF" class="token"><code>consumptionInWattHours</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16IsolineRangeTypeO22consumptionInWattHoursyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-consumptionInWattHours" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-isolinerangetype#sdk-for-ios-navigate-s-7heresdk16IsolineRangeTypeO22consumptionInWattHoursyA2CmF" class="token"><code>consumptionInWattHours</code></a> 
 
   </div>
 

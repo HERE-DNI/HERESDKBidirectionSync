@@ -23,6 +23,10 @@ extension FixedCameraBehavior: Hashable
 
 </div>
 
+Related types:
+
+- <a href="sdk-for-ios-navigate-protocols-camerabehavior">CameraBehavior</a>
+
 </div>
 
 Use this class to follow the current location of the user: The camera will permanently look at the target location that was fed into the navigator instance. Since location updates happen in discrete intervals, locations in-between will be interpolated to achieve a smooth camera movement.
@@ -35,7 +39,7 @@ Use this class to follow the current location of the user: The camera will perma
 
 - <div>
 
-      init()
+   <span id="sdk-for-ios-navigate-s-7heresdk19FixedCameraBehaviorCACycfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-fixedcamerabehavior#sdk-for-ios-navigate-s-7heresdk19FixedCameraBehaviorCACycfc" class="token"><code>init()</code></a> 
 
   </div>
 
@@ -66,10 +70,8 @@ Use this class to follow the current location of the user: The camera will perma
   Swift
 
   ``` highlight
-  public init ()
+  public init()
   ```
-
-  </pre>
 
   </div>
 
@@ -81,7 +83,7 @@ Use this class to follow the current location of the user: The camera will perma
 
 - <div>
 
-  ` `<span id="/s:7heresdk19FixedCameraBehaviorC24normalizedPrincipalPointAA8Anchor2DVvp"></span>` `<span id="//apple_ref/swift/Property/normalizedPrincipalPoint" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-fixedcamerabehavior#/s:7heresdk19FixedCameraBehaviorC24normalizedPrincipalPointAA8Anchor2DVvp" class="token"><code>normalizedPrincipalPoint</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19FixedCameraBehaviorC24normalizedPrincipalPointAA8Anchor2DVvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-normalizedPrincipalPoint" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-fixedcamerabehavior#sdk-for-ios-navigate-s-7heresdk19FixedCameraBehaviorC24normalizedPrincipalPointAA8Anchor2DVvp" class="token"><code>normalizedPrincipalPoint</code></a> 
 
   </div>
 
@@ -117,6 +119,10 @@ Use this class to follow the current location of the user: The camera will perma
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-anchor2d">Anchor2D</a>
+
   </div>
 
   </div>
@@ -125,7 +131,7 @@ Use this class to follow the current location of the user: The camera will perma
 
 - <div>
 
-  ` `<span id="/s:7heresdk19FixedCameraBehaviorC22cameraDistanceInMetersSdvp"></span>` `<span id="//apple_ref/swift/Property/cameraDistanceInMeters" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-fixedcamerabehavior#/s:7heresdk19FixedCameraBehaviorC22cameraDistanceInMetersSdvp" class="token"><code>cameraDistanceInMeters</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19FixedCameraBehaviorC22cameraDistanceInMetersSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-cameraDistanceInMeters" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-fixedcamerabehavior#sdk-for-ios-navigate-s-7heresdk19FixedCameraBehaviorC22cameraDistanceInMetersSdvp" class="token"><code>cameraDistanceInMeters</code></a> 
 
   </div>
 
@@ -156,10 +162,9 @@ Use this class to follow the current location of the user: The camera will perma
   Swift
 
   ``` highlight
-  @available(*, deprecated, message: "Will be removed in v4.28.0. Use `FixedCameraBehavior.zoom` instead.") public var cameraDistanceInMeters : Double { get set }
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use `FixedCameraBehavior.zoom` instead.")
+  public var cameraDistanceInMeters: Double { get set }
   ```
-
-  </pre>
 
   </div>
 
@@ -171,7 +176,7 @@ Use this class to follow the current location of the user: The camera will perma
 
 - <div>
 
-  ` `<span id="/s:7heresdk19FixedCameraBehaviorC4zoomAA10MapMeasureVvp"></span>` `<span id="//apple_ref/swift/Property/zoom" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-fixedcamerabehavior#/s:7heresdk19FixedCameraBehaviorC4zoomAA10MapMeasureVvp" class="token"><code>zoom</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19FixedCameraBehaviorC4zoomAA10MapMeasureVvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-zoom" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-fixedcamerabehavior#sdk-for-ios-navigate-s-7heresdk19FixedCameraBehaviorC4zoomAA10MapMeasureVvp" class="token"><code>zoom</code></a> 
 
   </div>
 
@@ -189,7 +194,7 @@ Use this class to follow the current location of the user: The camera will perma
 
   <div class="abstract">
 
-  Zoom configuration. The default value is 150 meters. Camera zoom configuration. The default value is 150 meters. Note: <a href="sdk-for-ios-navigate-structs-mapmeasure-kind#/s:7heresdk10MapMeasureV4KindO5scaleyA2EmF">`MapMeasure.Kind.scale`</a> is not supported.
+  Zoom configuration. The default value is 150 meters. Camera zoom configuration. The default value is 150 meters. Note: <a href="sdk-for-ios-navigate-structs-mapmeasure-kind#sdk-for-ios-navigate-s-7heresdk10MapMeasureV4KindO5scaleyA2EmF">`MapMeasure.Kind.scale`</a> is not supported.
 
   </div>
 
@@ -207,6 +212,10 @@ Use this class to follow the current location of the user: The camera will perma
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-mapmeasure">MapMeasure</a>
+
   </div>
 
   </div>
@@ -215,7 +224,7 @@ Use this class to follow the current location of the user: The camera will perma
 
 - <div>
 
-  ` `<span id="/s:7heresdk19FixedCameraBehaviorC19cameraTiltInDegreesSdvp"></span>` `<span id="//apple_ref/swift/Property/cameraTiltInDegrees" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-fixedcamerabehavior#/s:7heresdk19FixedCameraBehaviorC19cameraTiltInDegreesSdvp" class="token"><code>cameraTiltInDegrees</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19FixedCameraBehaviorC19cameraTiltInDegreesSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-cameraTiltInDegrees" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-fixedcamerabehavior#sdk-for-ios-navigate-s-7heresdk19FixedCameraBehaviorC19cameraTiltInDegreesSdvp" class="token"><code>cameraTiltInDegrees</code></a> 
 
   </div>
 
@@ -259,7 +268,7 @@ Use this class to follow the current location of the user: The camera will perma
 
 - <div>
 
-  ` `<span id="/s:7heresdk19FixedCameraBehaviorC22cameraBearingInDegreesSdSgvp"></span>` `<span id="//apple_ref/swift/Property/cameraBearingInDegrees" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-fixedcamerabehavior#/s:7heresdk19FixedCameraBehaviorC22cameraBearingInDegreesSdSgvp" class="token"><code>cameraBearingInDegrees</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19FixedCameraBehaviorC22cameraBearingInDegreesSdSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-cameraBearingInDegrees" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-fixedcamerabehavior#sdk-for-ios-navigate-s-7heresdk19FixedCameraBehaviorC22cameraBearingInDegreesSdSgvp" class="token"><code>cameraBearingInDegrees</code></a> 
 
   </div>
 

@@ -27,7 +27,7 @@ Represents a search option to choose the eMSP or CPO whose tariff should be incl
 
 - <div>
 
-  ` `<span id="/s:7heresdk23EVChargingTariffRequestV9partnerIDSSvp"></span>` `<span id="//apple_ref/swift/Property/partnerID" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evchargingtariffrequest#/s:7heresdk23EVChargingTariffRequestV9partnerIDSSvp" class="token"><code>partnerID</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk23EVChargingTariffRequestV9partnerIDSSvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-partnerID" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingtariffrequest#sdk-for-ios-navigate-s-7heresdk23EVChargingTariffRequestV9partnerIDSSvp" class="token"><code>partnerID</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Represents a search option to choose the eMSP or CPO whose tariff should be incl
 
 - <div>
 
-  ` `<span id="/s:7heresdk23EVChargingTariffRequestV11tariffNamesSaySSGvp"></span>` `<span id="//apple_ref/swift/Property/tariffNames" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evchargingtariffrequest#/s:7heresdk23EVChargingTariffRequestV11tariffNamesSaySSGvp" class="token"><code>tariffNames</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk23EVChargingTariffRequestV11tariffNamesSaySSGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-tariffNames" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingtariffrequest#sdk-for-ios-navigate-s-7heresdk23EVChargingTariffRequestV11tariffNamesSaySSGvp" class="token"><code>tariffNames</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Represents a search option to choose the eMSP or CPO whose tariff should be incl
 
 - <div>
 
-      init(partnerID: tariffNames: )
+   <span id="sdk-for-ios-navigate-s-7heresdk23EVChargingTariffRequestV9partnerID11tariffNamesACSS_SaySSGtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-partnerID-tariffNames" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingtariffrequest#sdk-for-ios-navigate-s-7heresdk23EVChargingTariffRequestV9partnerID11tariffNamesACSS_SaySSGtcfc" class="token"><code>init(partnerID:</code><wbr></wbr><code>tariffNames:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -146,10 +146,8 @@ Represents a search option to choose the eMSP or CPO whose tariff should be incl
   Swift
 
   ``` highlight
-  public init ( partnerID : String = "" , tariffNames : [ String ] = [])
+  public init(partnerID: String = "", tariffNames: [String] = [])
   ```
-
-  </pre>
 
   </div>
 

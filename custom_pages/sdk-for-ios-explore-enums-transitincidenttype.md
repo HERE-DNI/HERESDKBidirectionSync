@@ -27,7 +27,7 @@ Transit incident type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk19TransitIncidentTypeO16technicalProblemyA2CmF"></span>` `<span id="//apple_ref/swift/Element/technicalProblem" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-transitincidenttype#/s:7heresdk19TransitIncidentTypeO16technicalProblemyA2CmF" class="token"><code>technicalProblem</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19TransitIncidentTypeO16technicalProblemyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-technicalProblem" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-transitincidenttype#sdk-for-ios-explore-s-7heresdk19TransitIncidentTypeO16technicalProblemyA2CmF" class="token"><code>technicalProblem</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Transit incident type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk19TransitIncidentTypeO6strikeyA2CmF"></span>` `<span id="//apple_ref/swift/Element/strike" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-transitincidenttype#/s:7heresdk19TransitIncidentTypeO6strikeyA2CmF" class="token"><code>strike</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19TransitIncidentTypeO6strikeyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-strike" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-transitincidenttype#sdk-for-ios-explore-s-7heresdk19TransitIncidentTypeO6strikeyA2CmF" class="token"><code>strike</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Transit incident type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk19TransitIncidentTypeO13demonstrationyA2CmF"></span>` `<span id="//apple_ref/swift/Element/demonstration" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-transitincidenttype#/s:7heresdk19TransitIncidentTypeO13demonstrationyA2CmF" class="token"><code>demonstration</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19TransitIncidentTypeO13demonstrationyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-demonstration" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-transitincidenttype#sdk-for-ios-explore-s-7heresdk19TransitIncidentTypeO13demonstrationyA2CmF" class="token"><code>demonstration</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Transit incident type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk19TransitIncidentTypeO8accidentyA2CmF"></span>` `<span id="//apple_ref/swift/Element/accident" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-transitincidenttype#/s:7heresdk19TransitIncidentTypeO8accidentyA2CmF" class="token"><code>accident</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19TransitIncidentTypeO8accidentyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-accident" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-transitincidenttype#sdk-for-ios-explore-s-7heresdk19TransitIncidentTypeO8accidentyA2CmF" class="token"><code>accident</code></a> 
 
   </div>
 
@@ -203,7 +203,7 @@ Transit incident type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk19TransitIncidentTypeO7holidayyA2CmF"></span>` `<span id="//apple_ref/swift/Element/holiday" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-transitincidenttype#/s:7heresdk19TransitIncidentTypeO7holidayyA2CmF" class="token"><code>holiday</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19TransitIncidentTypeO7holidayyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-holiday" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-transitincidenttype#sdk-for-ios-explore-s-7heresdk19TransitIncidentTypeO7holidayyA2CmF" class="token"><code>holiday</code></a> 
 
   </div>
 
@@ -247,7 +247,7 @@ Transit incident type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk19TransitIncidentTypeO7weatheryA2CmF"></span>` `<span id="//apple_ref/swift/Element/weather" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-transitincidenttype#/s:7heresdk19TransitIncidentTypeO7weatheryA2CmF" class="token"><code>weather</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19TransitIncidentTypeO7weatheryA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-weather" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-transitincidenttype#sdk-for-ios-explore-s-7heresdk19TransitIncidentTypeO7weatheryA2CmF" class="token"><code>weather</code></a> 
 
   </div>
 
@@ -291,7 +291,7 @@ Transit incident type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk19TransitIncidentTypeO11maintenanceyA2CmF"></span>` `<span id="//apple_ref/swift/Element/maintenance" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-transitincidenttype#/s:7heresdk19TransitIncidentTypeO11maintenanceyA2CmF" class="token"><code>maintenance</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19TransitIncidentTypeO11maintenanceyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-maintenance" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-transitincidenttype#sdk-for-ios-explore-s-7heresdk19TransitIncidentTypeO11maintenanceyA2CmF" class="token"><code>maintenance</code></a> 
 
   </div>
 
@@ -335,7 +335,7 @@ Transit incident type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk19TransitIncidentTypeO12constructionyA2CmF"></span>` `<span id="//apple_ref/swift/Element/construction" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-transitincidenttype#/s:7heresdk19TransitIncidentTypeO12constructionyA2CmF" class="token"><code>construction</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19TransitIncidentTypeO12constructionyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-construction" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-transitincidenttype#sdk-for-ios-explore-s-7heresdk19TransitIncidentTypeO12constructionyA2CmF" class="token"><code>construction</code></a> 
 
   </div>
 
@@ -379,7 +379,7 @@ Transit incident type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk19TransitIncidentTypeO14policeActivityyA2CmF"></span>` `<span id="//apple_ref/swift/Element/policeActivity" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-transitincidenttype#/s:7heresdk19TransitIncidentTypeO14policeActivityyA2CmF" class="token"><code>policeActivity</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19TransitIncidentTypeO14policeActivityyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-policeActivity" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-transitincidenttype#sdk-for-ios-explore-s-7heresdk19TransitIncidentTypeO14policeActivityyA2CmF" class="token"><code>policeActivity</code></a> 
 
   </div>
 
@@ -423,7 +423,7 @@ Transit incident type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk19TransitIncidentTypeO16medicalEmergencyyA2CmF"></span>` `<span id="//apple_ref/swift/Element/medicalEmergency" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-transitincidenttype#/s:7heresdk19TransitIncidentTypeO16medicalEmergencyyA2CmF" class="token"><code>medicalEmergency</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19TransitIncidentTypeO16medicalEmergencyyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-medicalEmergency" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-transitincidenttype#sdk-for-ios-explore-s-7heresdk19TransitIncidentTypeO16medicalEmergencyyA2CmF" class="token"><code>medicalEmergency</code></a> 
 
   </div>
 

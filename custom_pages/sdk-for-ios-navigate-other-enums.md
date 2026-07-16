@@ -15,7 +15,7 @@ The following enumerations are available globally.
 
 - <div>
 
-  ` `<span id="/s:7heresdk25CommercialVehicleRoadTypeO"></span>` `<span id="//apple_ref/swift/Enum/CommercialVehicleRoadType" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-other-enums#/s:7heresdk25CommercialVehicleRoadTypeO" class="token"><code>CommercialVehicleRoadType</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk25CommercialVehicleRoadTypeO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-CommercialVehicleRoadType" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-other-enums#sdk-for-ios-navigate-s-7heresdk25CommercialVehicleRoadTypeO" class="token"><code>CommercialVehicleRoadType</code></a> 
 
   </div>
 
@@ -63,7 +63,7 @@ The following enumerations are available globally.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21HazardousMaterialTypeO"></span>` `<span id="//apple_ref/swift/Enum/HazardousMaterialType" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-other-enums#/s:7heresdk21HazardousMaterialTypeO" class="token"><code>HazardousMaterialType</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21HazardousMaterialTypeO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-HazardousMaterialType" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-other-enums#sdk-for-ios-navigate-s-7heresdk21HazardousMaterialTypeO" class="token"><code>HazardousMaterialType</code></a> 
 
   </div>
 
@@ -111,7 +111,7 @@ The following enumerations are available globally.
 
 - <div>
 
-  ` `<span id="/s:7heresdk17PhysicalStructureO"></span>` `<span id="//apple_ref/swift/Enum/PhysicalStructure" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-other-enums#/s:7heresdk17PhysicalStructureO" class="token"><code>PhysicalStructure</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk17PhysicalStructureO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-PhysicalStructure" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-other-enums#sdk-for-ios-navigate-s-7heresdk17PhysicalStructureO" class="token"><code>PhysicalStructure</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ The following enumerations are available globally.
 
 - <div>
 
-  ` `<span id="/s:7heresdk20VehicleTypeConditionO"></span>` `<span id="//apple_ref/swift/Enum/VehicleTypeCondition" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-other-enums#/s:7heresdk20VehicleTypeConditionO" class="token"><code>VehicleTypeCondition</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk20VehicleTypeConditionO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-VehicleTypeCondition" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-other-enums#sdk-for-ios-navigate-s-7heresdk20VehicleTypeConditionO" class="token"><code>VehicleTypeCondition</code></a> 
 
   </div>
 
@@ -205,7 +205,7 @@ The following enumerations are available globally.
 
 - <div>
 
-  ` `<span id="/s:7heresdk25IndoorLevelChangeFeaturesO"></span>` `<span id="//apple_ref/swift/Enum/IndoorLevelChangeFeatures" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-other-enums#/s:7heresdk25IndoorLevelChangeFeaturesO" class="token"><code>IndoorLevelChangeFeatures</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk25IndoorLevelChangeFeaturesO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-IndoorLevelChangeFeatures" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-other-enums#sdk-for-ios-navigate-s-7heresdk25IndoorLevelChangeFeaturesO" class="token"><code>IndoorLevelChangeFeatures</code></a> 
 
   </div>
 
@@ -251,7 +251,7 @@ The following enumerations are available globally.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21IndoorManeuverActionsO"></span>` `<span id="//apple_ref/swift/Enum/IndoorManeuverActions" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-other-enums#/s:7heresdk21IndoorManeuverActionsO" class="token"><code>IndoorManeuverActions</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21IndoorManeuverActionsO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-IndoorManeuverActions" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-other-enums#sdk-for-ios-navigate-s-7heresdk21IndoorManeuverActionsO" class="token"><code>IndoorManeuverActions</code></a> 
 
   </div>
 

@@ -27,7 +27,7 @@ This enum defines the type of toll structure used on a road segment or lane. Eac
 
 - <div>
 
-  ` `<span id="/s:7heresdk17TollStructureTypeO8fixedFeeyA2CmF"></span>` `<span id="//apple_ref/swift/Element/fixedFee" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-tollstructuretype#/s:7heresdk17TollStructureTypeO8fixedFeeyA2CmF" class="token"><code>fixedFee</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk17TollStructureTypeO8fixedFeeyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-fixedFee" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-tollstructuretype#sdk-for-ios-navigate-s-7heresdk17TollStructureTypeO8fixedFeeyA2CmF" class="token"><code>fixedFee</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ This enum defines the type of toll structure used on a road segment or lane. Eac
 
 - <div>
 
-  ` `<span id="/s:7heresdk17TollStructureTypeO12obtainTicketyA2CmF"></span>` `<span id="//apple_ref/swift/Element/obtainTicket" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-tollstructuretype#/s:7heresdk17TollStructureTypeO12obtainTicketyA2CmF" class="token"><code>obtainTicket</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk17TollStructureTypeO12obtainTicketyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-obtainTicket" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-tollstructuretype#sdk-for-ios-navigate-s-7heresdk17TollStructureTypeO12obtainTicketyA2CmF" class="token"><code>obtainTicket</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ This enum defines the type of toll structure used on a road segment or lane. Eac
 
 - <div>
 
-  ` `<span id="/s:7heresdk17TollStructureTypeO12payPerTicketyA2CmF"></span>` `<span id="//apple_ref/swift/Element/payPerTicket" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-tollstructuretype#/s:7heresdk17TollStructureTypeO12payPerTicketyA2CmF" class="token"><code>payPerTicket</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk17TollStructureTypeO12payPerTicketyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-payPerTicket" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-tollstructuretype#sdk-for-ios-navigate-s-7heresdk17TollStructureTypeO12payPerTicketyA2CmF" class="token"><code>payPerTicket</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ This enum defines the type of toll structure used on a road segment or lane. Eac
 
 - <div>
 
-  ` `<span id="/s:7heresdk17TollStructureTypeO10electronicyA2CmF"></span>` `<span id="//apple_ref/swift/Element/electronic" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-tollstructuretype#/s:7heresdk17TollStructureTypeO10electronicyA2CmF" class="token"><code>electronic</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk17TollStructureTypeO10electronicyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-electronic" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-tollstructuretype#sdk-for-ios-navigate-s-7heresdk17TollStructureTypeO10electronicyA2CmF" class="token"><code>electronic</code></a> 
 
   </div>
 

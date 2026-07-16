@@ -19,9 +19,13 @@ extension MapSceneLoadOptionsBuilder.InstantiationErrorDetails : Error
 
 </div>
 
+Related types:
+
+- <a href="sdk-for-ios-navigate-classes-mapsceneloadoptionsbuilder">MapSceneLoadOptionsBuilder</a>
+
 </div>
 
-Describes the reason for failing to build a <a href="sdk-for-ios-navigate-maps#/s:7heresdk19MapSceneLoadOptionsC">`MapSceneLoadOptions`</a>.
+Describes the reason for failing to build a <a href="sdk-for-ios-navigate-maps#sdk-for-ios-navigate-s-7heresdk19MapSceneLoadOptionsC">`MapSceneLoadOptions`</a>.
 
 </div>
 
@@ -31,7 +35,7 @@ Describes the reason for failing to build a <a href="sdk-for-ios-navigate-maps#/
 
 - <div>
 
-  ` `<span id="/s:7heresdk26MapSceneLoadOptionsBuilderC25InstantiationErrorDetailsV9errorCodeAC0ghK0Ovp"></span>` `<span id="//apple_ref/swift/Property/errorCode" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapsceneloadoptionsbuilder-instantiationerrordetails#/s:7heresdk26MapSceneLoadOptionsBuilderC25InstantiationErrorDetailsV9errorCodeAC0ghK0Ovp" class="token"><code>errorCode</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk26MapSceneLoadOptionsBuilderC25InstantiationErrorDetailsV9errorCodeAC0ghK0Ovp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-errorCode" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapsceneloadoptionsbuilder-instantiationerrordetails#sdk-for-ios-navigate-s-7heresdk26MapSceneLoadOptionsBuilderC25InstantiationErrorDetailsV9errorCodeAC0ghK0Ovp" class="token"><code>errorCode</code></a> 
 
   </div>
 
@@ -67,6 +71,11 @@ Describes the reason for failing to build a <a href="sdk-for-ios-navigate-maps#/
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mapsceneloadoptionsbuilder">MapSceneLoadOptionsBuilder</a>
+  - <a href="sdk-for-ios-navigate-classes-mapsceneloadoptionsbuilder-instantiationerrorcode">InstantiationErrorCode</a>
+
   </div>
 
   </div>
@@ -75,7 +84,7 @@ Describes the reason for failing to build a <a href="sdk-for-ios-navigate-maps#/
 
 - <div>
 
-  ` `<span id="/s:7heresdk26MapSceneLoadOptionsBuilderC25InstantiationErrorDetailsV16errorDescriptionSSSgvp"></span>` `<span id="//apple_ref/swift/Property/errorDescription" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapsceneloadoptionsbuilder-instantiationerrordetails#/s:7heresdk26MapSceneLoadOptionsBuilderC25InstantiationErrorDetailsV16errorDescriptionSSSgvp" class="token"><code>errorDescription</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk26MapSceneLoadOptionsBuilderC25InstantiationErrorDetailsV16errorDescriptionSSSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-errorDescription" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapsceneloadoptionsbuilder-instantiationerrordetails#sdk-for-ios-navigate-s-7heresdk26MapSceneLoadOptionsBuilderC25InstantiationErrorDetailsV16errorDescriptionSSSgvp" class="token"><code>errorDescription</code></a> 
 
   </div>
 
@@ -119,7 +128,7 @@ Describes the reason for failing to build a <a href="sdk-for-ios-navigate-maps#/
 
 - <div>
 
-      init(errorCode: errorDescription: )
+   <span id="sdk-for-ios-navigate-s-7heresdk26MapSceneLoadOptionsBuilderC25InstantiationErrorDetailsV9errorCode0J11DescriptionAeC0ghK0O_SSSgtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-errorCode-errorDescription" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapsceneloadoptionsbuilder-instantiationerrordetails#sdk-for-ios-navigate-s-7heresdk26MapSceneLoadOptionsBuilderC25InstantiationErrorDetailsV9errorCode0J11DescriptionAeC0ghK0O_SSSgtcfc" class="token"><code>init(errorCode:</code><wbr></wbr><code>errorDescription:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -150,12 +159,15 @@ Describes the reason for failing to build a <a href="sdk-for-ios-navigate-maps#/
   Swift
 
   ``` highlight
-  public init ( errorCode : MapSceneLoadOptionsBuilder . InstantiationErrorCode , errorDescription : String ? = nil )
+  public init(errorCode: MapSceneLoadOptionsBuilder.InstantiationErrorCode, errorDescription: String? = nil)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mapsceneloadoptionsbuilder">MapSceneLoadOptionsBuilder</a>
+  - <a href="sdk-for-ios-navigate-classes-mapsceneloadoptionsbuilder-instantiationerrorcode">InstantiationErrorCode</a>
 
   </div>
 

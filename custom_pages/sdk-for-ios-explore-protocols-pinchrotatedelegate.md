@@ -27,7 +27,7 @@ Protocol for handling pinch rotate gestures. Pinch rotate gesture occurs when tw
 
 - <div>
 
-      onPinchRotate(state: pinchOrigin: rotationOrigin: twoFingerDistance: rotation: )
+   <span id="sdk-for-ios-explore-s-7heresdk19PinchRotateDelegateP02onbC05state11pinchOrigin08rotationH017twoFingerDistance0I0yAA12GestureStateO_AA7Point2DVAMSdAA5AngleCtF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-onPinchRotate-state-pinchOrigin-rotationOrigin-twoFingerDistance-rotation" class="dashAnchor"></span> <a href="sdk-for-ios-explore-protocols-pinchrotatedelegate#sdk-for-ios-explore-s-7heresdk19PinchRotateDelegateP02onbC05state11pinchOrigin08rotationH017twoFingerDistance0I0yAA12GestureStateO_AA7Point2DVAMSdAA5AngleCtF" class="token"><code>onPinchRotate(state:</code><wbr></wbr><code>pinchOrigin:</code><wbr></wbr><code>rotationOrigin:</code><wbr></wbr><code>twoFingerDistance:</code><wbr></wbr><code>rotation:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -58,12 +58,16 @@ Protocol for handling pinch rotate gestures. Pinch rotate gesture occurs when tw
   Swift
 
   ``` highlight
-  func onPinchRotate ( state : GestureState , pinchOrigin : Point2D , rotationOrigin : Point2D , twoFingerDistance : Double , rotation : Angle )
+  func onPinchRotate(state: GestureState, pinchOrigin: Point2D, rotationOrigin: Point2D, twoFingerDistance: Double, rotation: Angle)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-gesturestate">GestureState</a>
+  - <a href="sdk-for-ios-explore-structs-point2d">Point2D</a>
+  - <a href="sdk-for-ios-explore-classes-angle">Angle</a>
 
   </div>
 

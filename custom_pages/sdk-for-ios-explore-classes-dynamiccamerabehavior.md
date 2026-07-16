@@ -23,6 +23,10 @@ extension DynamicCameraBehavior: Hashable
 
 </div>
 
+Related types:
+
+- <a href="sdk-for-ios-explore-protocols-camerabehavior">CameraBehavior</a>
+
 </div>
 
 Use this class to follow the current location of the user: The camera will look at the target location that was fed into the navigator instance, gradually zooming in as the user approaches each maneuver and zooming out after the user passes them. Since location updates happen in discrete intervals, locations in-between will be interpolated to achieve a smooth camera movement. If no route is set, constant values of camera distance and tilt are used.
@@ -35,7 +39,7 @@ Use this class to follow the current location of the user: The camera will look 
 
 - <div>
 
-      init()
+   <span id="sdk-for-ios-explore-s-7heresdk21DynamicCameraBehaviorCACycfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-dynamiccamerabehavior#sdk-for-ios-explore-s-7heresdk21DynamicCameraBehaviorCACycfc" class="token"><code>init()</code></a> 
 
   </div>
 
@@ -66,10 +70,8 @@ Use this class to follow the current location of the user: The camera will look 
   Swift
 
   ``` highlight
-  public init ()
+  public init()
   ```
-
-  </pre>
 
   </div>
 
@@ -81,7 +83,7 @@ Use this class to follow the current location of the user: The camera will look 
 
 - <div>
 
-  ` `<span id="/s:7heresdk21DynamicCameraBehaviorC24normalizedPrincipalPointAA8Anchor2DVvp"></span>` `<span id="//apple_ref/swift/Property/normalizedPrincipalPoint" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-dynamiccamerabehavior#/s:7heresdk21DynamicCameraBehaviorC24normalizedPrincipalPointAA8Anchor2DVvp" class="token"><code>normalizedPrincipalPoint</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk21DynamicCameraBehaviorC24normalizedPrincipalPointAA8Anchor2DVvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-normalizedPrincipalPoint" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-dynamiccamerabehavior#sdk-for-ios-explore-s-7heresdk21DynamicCameraBehaviorC24normalizedPrincipalPointAA8Anchor2DVvp" class="token"><code>normalizedPrincipalPoint</code></a> 
 
   </div>
 
@@ -116,6 +118,10 @@ Use this class to follow the current location of the user: The camera will look 
   ```
 
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-anchor2d">Anchor2D</a>
 
   </div>
 

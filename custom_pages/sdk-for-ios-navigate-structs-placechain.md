@@ -27,7 +27,7 @@ Parameters related to HERE Places chain system.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10PlaceChainV2idSSvp"></span>` `<span id="//apple_ref/swift/Property/id" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-placechain#/s:7heresdk10PlaceChainV2idSSvp" class="token"><code>id</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10PlaceChainV2idSSvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-id" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-placechain#sdk-for-ios-navigate-s-7heresdk10PlaceChainV2idSSvp" class="token"><code>id</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Parameters related to HERE Places chain system.
 
 - <div>
 
-      init(id: )
+   <span id="sdk-for-ios-navigate-s-7heresdk10PlaceChainV2idACSS_tcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-id" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-placechain#sdk-for-ios-navigate-s-7heresdk10PlaceChainV2idACSS_tcfc" class="token"><code>init(id:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -102,10 +102,8 @@ Parameters related to HERE Places chain system.
   Swift
 
   ``` highlight
-  public init ( id : String )
+  public init(id: String)
   ```
-
-  </pre>
 
   </div>
 

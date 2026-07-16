@@ -35,7 +35,7 @@ Initializes threading support on native side.
 
 - <div>
 
-      setPlatformThreading(platformThreading: )
+   <span id="sdk-for-ios-explore-s-7heresdk9ThreadingC011setPlatformB008platformB0yAA0dB0_p_tFZ"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-setPlatformThreading-platformThreading" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-threading#sdk-for-ios-explore-s-7heresdk9ThreadingC011setPlatformB008platformB0yAA0dB0_p_tFZ" class="token"><code>setPlatformThreading(platformThreading:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -66,12 +66,14 @@ Initializes threading support on native side.
   Swift
 
   ``` highlight
-  public static func setPlatformThreading ( platformThreading : PlatformThreading )
+  public static func setPlatformThreading(platformThreading: PlatformThreading)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-protocols-platformthreading">PlatformThreading</a>
 
   </div>
 
@@ -102,7 +104,7 @@ Initializes threading support on native side.
 
 - <div>
 
-      getPlatformThreading()
+   <span id="sdk-for-ios-explore-s-7heresdk9ThreadingC011getPlatformB0AA0dB0_pyFZ"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-getPlatformThreading" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-threading#sdk-for-ios-explore-s-7heresdk9ThreadingC011getPlatformB0AA0dB0_pyFZ" class="token"><code>getPlatformThreading()</code></a> 
 
   </div>
 
@@ -133,12 +135,14 @@ Initializes threading support on native side.
   Swift
 
   ``` highlight
-  public static func getPlatformThreading () -> PlatformThreading
+  public static func getPlatformThreading() -> PlatformThreading
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-protocols-platformthreading">PlatformThreading</a>
 
   </div>
 

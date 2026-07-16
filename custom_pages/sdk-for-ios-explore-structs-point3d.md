@@ -27,7 +27,7 @@ Represents a point in 3D space.
 
 - <div>
 
-  ` `<span id="/s:7heresdk7Point3DV1xSdvp"></span>` `<span id="//apple_ref/swift/Property/x" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-point3d#/s:7heresdk7Point3DV1xSdvp" class="token"><code>x</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk7Point3DV1xSdvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-x" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-point3d#sdk-for-ios-explore-s-7heresdk7Point3DV1xSdvp" class="token"><code>x</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Represents a point in 3D space.
 
 - <div>
 
-  ` `<span id="/s:7heresdk7Point3DV1ySdvp"></span>` `<span id="//apple_ref/swift/Property/y" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-point3d#/s:7heresdk7Point3DV1ySdvp" class="token"><code>y</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk7Point3DV1ySdvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-y" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-point3d#sdk-for-ios-explore-s-7heresdk7Point3DV1ySdvp" class="token"><code>y</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Represents a point in 3D space.
 
 - <div>
 
-  ` `<span id="/s:7heresdk7Point3DV1zSdvp"></span>` `<span id="//apple_ref/swift/Property/z" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-point3d#/s:7heresdk7Point3DV1zSdvp" class="token"><code>z</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk7Point3DV1zSdvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-z" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-point3d#sdk-for-ios-explore-s-7heresdk7Point3DV1zSdvp" class="token"><code>z</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Represents a point in 3D space.
 
 - <div>
 
-      init(x: y: z: )
+   <span id="sdk-for-ios-explore-s-7heresdk7Point3DV1x1y1zACSd_S2dtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-x-y-z" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-point3d#sdk-for-ios-explore-s-7heresdk7Point3DV1x1y1zACSd_S2dtcfc" class="token"><code>init(x:</code><wbr></wbr><code>y:</code><wbr></wbr><code>z:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -190,10 +190,8 @@ Represents a point in 3D space.
   Swift
 
   ``` highlight
-  public init ( x : Double = 0.0 , y : Double = 0.0 , z : Double = 0.0 )
+  public init(x: Double = 0.0, y: Double = 0.0, z: Double = 0.0)
   ```
-
-  </pre>
 
   </div>
 

@@ -27,7 +27,7 @@ Network configuration to be used by <a href="sdk-for-ios-explore-classes-sdknati
 
 - <div>
 
-  ` `<span id="/s:7heresdk15NetworkSettingsV05proxyC0AA05ProxyC0VSgvp"></span>` `<span id="//apple_ref/swift/Property/proxySettings" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-networksettings#/s:7heresdk15NetworkSettingsV05proxyC0AA05ProxyC0VSgvp" class="token"><code>proxySettings</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15NetworkSettingsV05proxyC0AA05ProxyC0VSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-proxySettings" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-networksettings#sdk-for-ios-explore-s-7heresdk15NetworkSettingsV05proxyC0AA05ProxyC0VSgvp" class="token"><code>proxySettings</code></a> 
 
   </div>
 
@@ -45,7 +45,7 @@ Network configuration to be used by <a href="sdk-for-ios-explore-classes-sdknati
 
   <div class="abstract">
 
-  Proxy settings. It can be later accessed or changed with <a href="sdk-for-ios-explore-classes-sdknativeengine#/s:7heresdk15SDKNativeEngineC13proxySettingsAA05ProxyE0VSgvp">`SDKNativeEngine.proxySettings`</a>.
+  Proxy settings. It can be later accessed or changed with <a href="sdk-for-ios-explore-classes-sdknativeengine#sdk-for-ios-explore-s-7heresdk15SDKNativeEngineC13proxySettingsAA05ProxyE0VSgvp">`SDKNativeEngine.proxySettings`</a>.
 
   </div>
 
@@ -63,6 +63,10 @@ Network configuration to be used by <a href="sdk-for-ios-explore-classes-sdknati
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-proxysettings">ProxySettings</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ Network configuration to be used by <a href="sdk-for-ios-explore-classes-sdknati
 
 - <div>
 
-      init(proxySettings: )
+   <span id="sdk-for-ios-explore-s-7heresdk15NetworkSettingsV05proxyC0AcA05ProxyC0VSg_tcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-proxySettings" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-networksettings#sdk-for-ios-explore-s-7heresdk15NetworkSettingsV05proxyC0AcA05ProxyC0VSg_tcfc" class="token"><code>init(proxySettings:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -102,12 +106,14 @@ Network configuration to be used by <a href="sdk-for-ios-explore-classes-sdknati
   Swift
 
   ``` highlight
-  public init ( proxySettings : ProxySettings ? = nil )
+  public init(proxySettings: ProxySettings? = nil)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-proxysettings">ProxySettings</a>
 
   </div>
 

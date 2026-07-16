@@ -33,7 +33,7 @@ Specifies possible errors from map data accessing.
 
 - <div>
 
-  ` `<span id="/s:7heresdk22MapDataLoaderErrorCodeO08internalE0yA2CmF"></span>` `<span id="//apple_ref/swift/Element/internalError" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-mapdataloadererrorcode#/s:7heresdk22MapDataLoaderErrorCodeO08internalE0yA2CmF" class="token"><code>internalError</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk22MapDataLoaderErrorCodeO08internalE0yA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-internalError" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-mapdataloadererrorcode#sdk-for-ios-explore-s-7heresdk22MapDataLoaderErrorCodeO08internalE0yA2CmF" class="token"><code>internalError</code></a> 
 
   </div>
 
@@ -77,7 +77,7 @@ Specifies possible errors from map data accessing.
 
 - <div>
 
-  ` `<span id="/s:7heresdk22MapDataLoaderErrorCodeO17invalidParametersyA2CmF"></span>` `<span id="//apple_ref/swift/Element/invalidParameters" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-mapdataloadererrorcode#/s:7heresdk22MapDataLoaderErrorCodeO17invalidParametersyA2CmF" class="token"><code>invalidParameters</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk22MapDataLoaderErrorCodeO17invalidParametersyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-invalidParameters" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-mapdataloadererrorcode#sdk-for-ios-explore-s-7heresdk22MapDataLoaderErrorCodeO17invalidParametersyA2CmF" class="token"><code>invalidParameters</code></a> 
 
   </div>
 

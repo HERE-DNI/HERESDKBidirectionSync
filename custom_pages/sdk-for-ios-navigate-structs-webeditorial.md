@@ -27,7 +27,7 @@ Contains information about editorial article and a link to it.
 
 - <div>
 
-  ` `<span id="/s:7heresdk12WebEditorialV11descriptionSSvp"></span>` `<span id="//apple_ref/swift/Property/description" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-webeditorial#/s:7heresdk12WebEditorialV11descriptionSSvp" class="token"><code>description</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12WebEditorialV11descriptionSSvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-description" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-webeditorial#sdk-for-ios-navigate-s-7heresdk12WebEditorialV11descriptionSSvp" class="token"><code>description</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Contains information about editorial article and a link to it.
 
 - <div>
 
-  ` `<span id="/s:7heresdk12WebEditorialV8languageSSvp"></span>` `<span id="//apple_ref/swift/Property/language" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-webeditorial#/s:7heresdk12WebEditorialV8languageSSvp" class="token"><code>language</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12WebEditorialV8languageSSvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-language" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-webeditorial#sdk-for-ios-navigate-s-7heresdk12WebEditorialV8languageSSvp" class="token"><code>language</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Contains information about editorial article and a link to it.
 
 - <div>
 
-  ` `<span id="/s:7heresdk12WebEditorialV6sourceAA0B6SourceVvp"></span>` `<span id="//apple_ref/swift/Property/source" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-webeditorial#/s:7heresdk12WebEditorialV6sourceAA0B6SourceVvp" class="token"><code>source</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12WebEditorialV6sourceAA0B6SourceVvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-source" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-webeditorial#sdk-for-ios-navigate-s-7heresdk12WebEditorialV6sourceAA0B6SourceVvp" class="token"><code>source</code></a> 
 
   </div>
 
@@ -151,6 +151,10 @@ Contains information about editorial article and a link to it.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-websource">WebSource</a>
+
   </div>
 
   </div>
@@ -159,7 +163,7 @@ Contains information about editorial article and a link to it.
 
 - <div>
 
-      init(description: language: source: )
+   <span id="sdk-for-ios-navigate-s-7heresdk12WebEditorialV11description8language6sourceACSS_SSAA0B6SourceVtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-description-language-source" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-webeditorial#sdk-for-ios-navigate-s-7heresdk12WebEditorialV11description8language6sourceACSS_SSAA0B6SourceVtcfc" class="token"><code>init(description:</code><wbr></wbr><code>language:</code><wbr></wbr><code>source:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -190,12 +194,14 @@ Contains information about editorial article and a link to it.
   Swift
 
   ``` highlight
-  public init ( description : String , language : String , source : WebSource )
+  public init(description: String, language: String, source: WebSource)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-websource">WebSource</a>
 
   </div>
 
@@ -205,7 +211,7 @@ Contains information about editorial article and a link to it.
 
 - <div>
 
-      init()
+   <span id="sdk-for-ios-navigate-s-7heresdk12WebEditorialVACycfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-webeditorial#sdk-for-ios-navigate-s-7heresdk12WebEditorialVACycfc" class="token"><code>init()</code></a> 
 
   </div>
 
@@ -236,10 +242,8 @@ Contains information about editorial article and a link to it.
   Swift
 
   ``` highlight
-  public init ()
+  public init()
   ```
-
-  </pre>
 
   </div>
 

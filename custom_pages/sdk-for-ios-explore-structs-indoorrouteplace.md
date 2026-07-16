@@ -27,7 +27,7 @@ Represents a place within an indoor route.
 
 - <div>
 
-  ` `<span id="/s:7heresdk16IndoorRoutePlaceV4typeAA0cD4TypeOvp"></span>` `<span id="//apple_ref/swift/Property/type" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-indoorrouteplace#/s:7heresdk16IndoorRoutePlaceV4typeAA0cD4TypeOvp" class="token"><code>type</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16IndoorRoutePlaceV4typeAA0cD4TypeOvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-type" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-indoorrouteplace#sdk-for-ios-explore-s-7heresdk16IndoorRoutePlaceV4typeAA0cD4TypeOvp" class="token"><code>type</code></a> 
 
   </div>
 
@@ -63,6 +63,10 @@ Represents a place within an indoor route.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-routeplacetype">RoutePlaceType</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ Represents a place within an indoor route.
 
 - <div>
 
-  ` `<span id="/s:7heresdk16IndoorRoutePlaceV11coordinatesAA14GeoCoordinatesVvp"></span>` `<span id="//apple_ref/swift/Property/coordinates" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-indoorrouteplace#/s:7heresdk16IndoorRoutePlaceV11coordinatesAA14GeoCoordinatesVvp" class="token"><code>coordinates</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16IndoorRoutePlaceV11coordinatesAA14GeoCoordinatesVvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-coordinates" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-indoorrouteplace#sdk-for-ios-explore-s-7heresdk16IndoorRoutePlaceV11coordinatesAA14GeoCoordinatesVvp" class="token"><code>coordinates</code></a> 
 
   </div>
 
@@ -107,6 +111,10 @@ Represents a place within an indoor route.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geocoordinates">GeoCoordinates</a>
+
   </div>
 
   </div>
@@ -115,7 +123,7 @@ Represents a place within an indoor route.
 
 - <div>
 
-  ` `<span id="/s:7heresdk16IndoorRoutePlaceV11levelZIndexs5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/levelZIndex" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-indoorrouteplace#/s:7heresdk16IndoorRoutePlaceV11levelZIndexs5Int32Vvp" class="token"><code>levelZIndex</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16IndoorRoutePlaceV11levelZIndexs5Int32Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-levelZIndex" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-indoorrouteplace#sdk-for-ios-explore-s-7heresdk16IndoorRoutePlaceV11levelZIndexs5Int32Vvp" class="token"><code>levelZIndex</code></a> 
 
   </div>
 
@@ -159,7 +167,7 @@ Represents a place within an indoor route.
 
 - <div>
 
-  ` `<span id="/s:7heresdk16IndoorRoutePlaceV7venueIdSSvp"></span>` `<span id="//apple_ref/swift/Property/venueId" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-indoorrouteplace#/s:7heresdk16IndoorRoutePlaceV7venueIdSSvp" class="token"><code>venueId</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16IndoorRoutePlaceV7venueIdSSvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-venueId" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-indoorrouteplace#sdk-for-ios-explore-s-7heresdk16IndoorRoutePlaceV7venueIdSSvp" class="token"><code>venueId</code></a> 
 
   </div>
 
@@ -203,7 +211,7 @@ Represents a place within an indoor route.
 
 - <div>
 
-  ` `<span id="/s:7heresdk16IndoorRoutePlaceV7levelIdSSvp"></span>` `<span id="//apple_ref/swift/Property/levelId" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-indoorrouteplace#/s:7heresdk16IndoorRoutePlaceV7levelIdSSvp" class="token"><code>levelId</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16IndoorRoutePlaceV7levelIdSSvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-levelId" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-indoorrouteplace#sdk-for-ios-explore-s-7heresdk16IndoorRoutePlaceV7levelIdSSvp" class="token"><code>levelId</code></a> 
 
   </div>
 
@@ -247,7 +255,7 @@ Represents a place within an indoor route.
 
 - <div>
 
-      init(type: coordinates: levelZIndex: venueId: levelId: )
+   <span id="sdk-for-ios-explore-s-7heresdk16IndoorRoutePlaceV4type11coordinates11levelZIndex7venueId0gJ0AcA0cD4TypeO_AA14GeoCoordinatesVs5Int32VS2Stcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-type-coordinates-levelZIndex-venueId-levelId" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-indoorrouteplace#sdk-for-ios-explore-s-7heresdk16IndoorRoutePlaceV4type11coordinates11levelZIndex7venueId0gJ0AcA0cD4TypeO_AA14GeoCoordinatesVs5Int32VS2Stcfc" class="token"><code>init(type:</code><wbr></wbr><code>coordinates:</code><wbr></wbr><code>levelZIndex:</code><wbr></wbr><code>venueId:</code><wbr></wbr><code>levelId:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -278,12 +286,15 @@ Represents a place within an indoor route.
   Swift
 
   ``` highlight
-  public init ( type : RoutePlaceType , coordinates : GeoCoordinates , levelZIndex : Int32 , venueId : String , levelId : String )
+  public init(type: RoutePlaceType, coordinates: GeoCoordinates, levelZIndex: Int32, venueId: String, levelId: String)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-routeplacetype">RoutePlaceType</a>
+  - <a href="sdk-for-ios-explore-structs-geocoordinates">GeoCoordinates</a>
 
   </div>
 

@@ -27,7 +27,7 @@ Describes reasons for failing to create a <a href="sdk-for-ios-explore-classes-s
 
 - <div>
 
-  ` `<span id="/s:7heresdk16JsonStyleFactoryC22InstantiationErrorCodeO09malformedB7ContentyA2EmF"></span>` `<span id="//apple_ref/swift/Element/malformedJsonContent" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-jsonstylefactory-instantiationerrorcode#/s:7heresdk16JsonStyleFactoryC22InstantiationErrorCodeO09malformedB7ContentyA2EmF" class="token"><code>malformedJsonContent</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16JsonStyleFactoryC22InstantiationErrorCodeO09malformedB7ContentyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-malformedJsonContent" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-jsonstylefactory-instantiationerrorcode#sdk-for-ios-explore-s-7heresdk16JsonStyleFactoryC22InstantiationErrorCodeO09malformedB7ContentyA2EmF" class="token"><code>malformedJsonContent</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Describes reasons for failing to create a <a href="sdk-for-ios-explore-classes-s
 
 - <div>
 
-  ` `<span id="/s:7heresdk16JsonStyleFactoryC22InstantiationErrorCodeO07invalidbC6SyntaxyA2EmF"></span>` `<span id="//apple_ref/swift/Element/invalidJsonStyleSyntax" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-jsonstylefactory-instantiationerrorcode#/s:7heresdk16JsonStyleFactoryC22InstantiationErrorCodeO07invalidbC6SyntaxyA2EmF" class="token"><code>invalidJsonStyleSyntax</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16JsonStyleFactoryC22InstantiationErrorCodeO07invalidbC6SyntaxyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-invalidJsonStyleSyntax" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-jsonstylefactory-instantiationerrorcode#sdk-for-ios-explore-s-7heresdk16JsonStyleFactoryC22InstantiationErrorCodeO07invalidbC6SyntaxyA2EmF" class="token"><code>invalidJsonStyleSyntax</code></a> 
 
   </div>
 

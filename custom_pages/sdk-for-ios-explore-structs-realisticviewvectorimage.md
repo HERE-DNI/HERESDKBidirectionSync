@@ -17,7 +17,7 @@ public struct RealisticViewVectorImage : Hashable
 
 </div>
 
-A realistic view of a junction. The fields describing the realistic view are <a href="sdk-for-ios-explore-structs-realisticviewvectorimage#/s:7heresdk24RealisticViewVectorImageV08junctionc3SvgE7ContentSSvp">`RealisticViewVectorImage.junctionViewSvgImageContent`</a> contains a SVG image of the junction view represented as a string. <a href="sdk-for-ios-explore-structs-realisticviewvectorimage#/s:7heresdk24RealisticViewVectorImageV011signpostSvgE7ContentSSvp">`RealisticViewVectorImage.signpostSvgImageContent`</a> contains an SVG image of the signpost corresponding to the junction, also represented as a string. A valid realistic view contains a non-empty <a href="sdk-for-ios-explore-structs-realisticviewvectorimage#/s:7heresdk24RealisticViewVectorImageV08junctionc3SvgE7ContentSSvp">`RealisticViewVectorImage.junctionViewSvgImageContent`</a> and a non-empty <a href="sdk-for-ios-explore-structs-realisticviewvectorimage#/s:7heresdk24RealisticViewVectorImageV011signpostSvgE7ContentSSvp">`RealisticViewVectorImage.signpostSvgImageContent`</a>. Use `RealisticViewWarningListener` to get notifications with the realistic views of the upcoming junctions.
+A realistic view of a junction. The fields describing the realistic view are <a href="sdk-for-ios-explore-structs-realisticviewvectorimage#sdk-for-ios-explore-s-7heresdk24RealisticViewVectorImageV08junctionc3SvgE7ContentSSvp">`RealisticViewVectorImage.junctionViewSvgImageContent`</a> contains a SVG image of the junction view represented as a string. <a href="sdk-for-ios-explore-structs-realisticviewvectorimage#sdk-for-ios-explore-s-7heresdk24RealisticViewVectorImageV011signpostSvgE7ContentSSvp">`RealisticViewVectorImage.signpostSvgImageContent`</a> contains an SVG image of the signpost corresponding to the junction, also represented as a string. A valid realistic view contains a non-empty <a href="sdk-for-ios-explore-structs-realisticviewvectorimage#sdk-for-ios-explore-s-7heresdk24RealisticViewVectorImageV08junctionc3SvgE7ContentSSvp">`RealisticViewVectorImage.junctionViewSvgImageContent`</a> and a non-empty <a href="sdk-for-ios-explore-structs-realisticviewvectorimage#sdk-for-ios-explore-s-7heresdk24RealisticViewVectorImageV011signpostSvgE7ContentSSvp">`RealisticViewVectorImage.signpostSvgImageContent`</a>. Use `RealisticViewWarningListener` to get notifications with the realistic views of the upcoming junctions.
 
 </div>
 
@@ -27,7 +27,7 @@ A realistic view of a junction. The fields describing the realistic view are <a 
 
 - <div>
 
-  ` `<span id="/s:7heresdk24RealisticViewVectorImageV08junctionc3SvgE7ContentSSvp"></span>` `<span id="//apple_ref/swift/Property/junctionViewSvgImageContent" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-realisticviewvectorimage#/s:7heresdk24RealisticViewVectorImageV08junctionc3SvgE7ContentSSvp" class="token"><code>junctionViewSvgImageContent</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk24RealisticViewVectorImageV08junctionc3SvgE7ContentSSvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-junctionViewSvgImageContent" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-realisticviewvectorimage#sdk-for-ios-explore-s-7heresdk24RealisticViewVectorImageV08junctionc3SvgE7ContentSSvp" class="token"><code>junctionViewSvgImageContent</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ A realistic view of a junction. The fields describing the realistic view are <a 
 
 - <div>
 
-  ` `<span id="/s:7heresdk24RealisticViewVectorImageV011signpostSvgE7ContentSSvp"></span>` `<span id="//apple_ref/swift/Property/signpostSvgImageContent" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-realisticviewvectorimage#/s:7heresdk24RealisticViewVectorImageV011signpostSvgE7ContentSSvp" class="token"><code>signpostSvgImageContent</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk24RealisticViewVectorImageV011signpostSvgE7ContentSSvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-signpostSvgImageContent" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-realisticviewvectorimage#sdk-for-ios-explore-s-7heresdk24RealisticViewVectorImageV011signpostSvgE7ContentSSvp" class="token"><code>signpostSvgImageContent</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ A realistic view of a junction. The fields describing the realistic view are <a 
 
 - <div>
 
-      init(junctionViewSvgImageContent: signpostSvgImageContent: )
+   <span id="sdk-for-ios-explore-s-7heresdk24RealisticViewVectorImageV08junctionc3SvgE7Content08signpostgeH0ACSS_SStcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-junctionViewSvgImageContent-signpostSvgImageContent" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-realisticviewvectorimage#sdk-for-ios-explore-s-7heresdk24RealisticViewVectorImageV08junctionc3SvgE7Content08signpostgeH0ACSS_SStcfc" class="token"><code>init(junctionViewSvgImageContent:</code><wbr></wbr><code>signpostSvgImageContent:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -146,10 +146,8 @@ A realistic view of a junction. The fields describing the realistic view are <a 
   Swift
 
   ``` highlight
-  public init ( junctionViewSvgImageContent : String , signpostSvgImageContent : String )
+  public init(junctionViewSvgImageContent: String, signpostSvgImageContent: String)
   ```
-
-  </pre>
 
   </div>
 

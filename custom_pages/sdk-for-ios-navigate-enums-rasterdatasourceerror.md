@@ -27,7 +27,7 @@ Raster data source error codes.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21RasterDataSourceErrorO20invalidConfigurationyA2CmF"></span>` `<span id="//apple_ref/swift/Element/invalidConfiguration" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-rasterdatasourceerror#/s:7heresdk21RasterDataSourceErrorO20invalidConfigurationyA2CmF" class="token"><code>invalidConfiguration</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21RasterDataSourceErrorO20invalidConfigurationyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-invalidConfiguration" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-rasterdatasourceerror#sdk-for-ios-navigate-s-7heresdk21RasterDataSourceErrorO20invalidConfigurationyA2CmF" class="token"><code>invalidConfiguration</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Raster data source error codes.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21RasterDataSourceErrorO014authenticationE0yA2CmF"></span>` `<span id="//apple_ref/swift/Element/authenticationError" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-rasterdatasourceerror#/s:7heresdk21RasterDataSourceErrorO014authenticationE0yA2CmF" class="token"><code>authenticationError</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21RasterDataSourceErrorO014authenticationE0yA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-authenticationError" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-rasterdatasourceerror#sdk-for-ios-navigate-s-7heresdk21RasterDataSourceErrorO014authenticationE0yA2CmF" class="token"><code>authenticationError</code></a> 
 
   </div>
 

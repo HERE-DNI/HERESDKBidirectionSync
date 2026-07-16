@@ -43,7 +43,7 @@ Date range (e.g., seasonal pricing)
 
 - <div>
 
-  ` `<span id="/s:7heresdk32EVChargingTariffElementConditionV4dateAA9DateRangeVSgvp"></span>` `<span id="//apple_ref/swift/Property/date" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-evchargingtariffelementcondition#/s:7heresdk32EVChargingTariffElementConditionV4dateAA9DateRangeVSgvp" class="token"><code>date</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk32EVChargingTariffElementConditionV4dateAA9DateRangeVSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-date" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-evchargingtariffelementcondition#sdk-for-ios-explore-s-7heresdk32EVChargingTariffElementConditionV4dateAA9DateRangeVSgvp" class="token"><code>date</code></a> 
 
   </div>
 
@@ -79,6 +79,10 @@ Date range (e.g., seasonal pricing)
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-daterange">DateRange</a>
+
   </div>
 
   </div>
@@ -87,7 +91,7 @@ Date range (e.g., seasonal pricing)
 
 - <div>
 
-  ` `<span id="/s:7heresdk32EVChargingTariffElementConditionV4daysSayAA9DayOfWeekOGvp"></span>` `<span id="//apple_ref/swift/Property/days" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-evchargingtariffelementcondition#/s:7heresdk32EVChargingTariffElementConditionV4daysSayAA9DayOfWeekOGvp" class="token"><code>days</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk32EVChargingTariffElementConditionV4daysSayAA9DayOfWeekOGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-days" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-evchargingtariffelementcondition#sdk-for-ios-explore-s-7heresdk32EVChargingTariffElementConditionV4daysSayAA9DayOfWeekOGvp" class="token"><code>days</code></a> 
 
   </div>
 
@@ -123,6 +127,10 @@ Date range (e.g., seasonal pricing)
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-dayofweek">DayOfWeek</a>
+
   </div>
 
   </div>
@@ -131,7 +139,7 @@ Date range (e.g., seasonal pricing)
 
 - <div>
 
-  ` `<span id="/s:7heresdk32EVChargingTariffElementConditionV4timeAA14TimeOfDayRangeVSgvp"></span>` `<span id="//apple_ref/swift/Property/time" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-evchargingtariffelementcondition#/s:7heresdk32EVChargingTariffElementConditionV4timeAA14TimeOfDayRangeVSgvp" class="token"><code>time</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk32EVChargingTariffElementConditionV4timeAA14TimeOfDayRangeVSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-time" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-evchargingtariffelementcondition#sdk-for-ios-explore-s-7heresdk32EVChargingTariffElementConditionV4timeAA14TimeOfDayRangeVSgvp" class="token"><code>time</code></a> 
 
   </div>
 
@@ -149,7 +157,7 @@ Date range (e.g., seasonal pricing)
 
   <div class="abstract">
 
-  Time period when the tariff element is valid, in local time. The time period wraps around to the next day, when end time of the period <a href="sdk-for-ios-explore-structs-timeofdayrange#/s:7heresdk14TimeOfDayRangeV2toSSvp">`TimeOfDayRange.to`</a> is smaller than the beginning <a href="sdk-for-ios-explore-structs-timeofdayrange#/s:7heresdk14TimeOfDayRangeV4fromSSvp">`TimeOfDayRange.from`</a>.
+  Time period when the tariff element is valid, in local time. The time period wraps around to the next day, when end time of the period <a href="sdk-for-ios-explore-structs-timeofdayrange#sdk-for-ios-explore-s-7heresdk14TimeOfDayRangeV2toSSvp">`TimeOfDayRange.to`</a> is smaller than the beginning <a href="sdk-for-ios-explore-structs-timeofdayrange#sdk-for-ios-explore-s-7heresdk14TimeOfDayRangeV4fromSSvp">`TimeOfDayRange.from`</a>.
 
   </div>
 
@@ -167,6 +175,10 @@ Date range (e.g., seasonal pricing)
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-timeofdayrange">TimeOfDayRange</a>
+
   </div>
 
   </div>
@@ -175,7 +187,7 @@ Date range (e.g., seasonal pricing)
 
 - <div>
 
-  ` `<span id="/s:7heresdk32EVChargingTariffElementConditionV8durationAA0B13DurationRangeVSgvp"></span>` `<span id="//apple_ref/swift/Property/duration" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-evchargingtariffelementcondition#/s:7heresdk32EVChargingTariffElementConditionV8durationAA0B13DurationRangeVSgvp" class="token"><code>duration</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk32EVChargingTariffElementConditionV8durationAA0B13DurationRangeVSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-duration" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-evchargingtariffelementcondition#sdk-for-ios-explore-s-7heresdk32EVChargingTariffElementConditionV8durationAA0B13DurationRangeVSgvp" class="token"><code>duration</code></a> 
 
   </div>
 
@@ -213,6 +225,10 @@ Date range (e.g., seasonal pricing)
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-evchargingdurationrange">EVChargingDurationRange</a>
+
   </div>
 
   </div>
@@ -221,7 +237,7 @@ Date range (e.g., seasonal pricing)
 
 - <div>
 
-  ` `<span id="/s:7heresdk32EVChargingTariffElementConditionV20overstayBatteryLevels5Int32VSgvp"></span>` `<span id="//apple_ref/swift/Property/overstayBatteryLevel" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-evchargingtariffelementcondition#/s:7heresdk32EVChargingTariffElementConditionV20overstayBatteryLevels5Int32VSgvp" class="token"><code>overstayBatteryLevel</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk32EVChargingTariffElementConditionV20overstayBatteryLevels5Int32VSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-overstayBatteryLevel" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-evchargingtariffelementcondition#sdk-for-ios-explore-s-7heresdk32EVChargingTariffElementConditionV20overstayBatteryLevels5Int32VSgvp" class="token"><code>overstayBatteryLevel</code></a> 
 
   </div>
 
@@ -265,7 +281,7 @@ Date range (e.g., seasonal pricing)
 
 - <div>
 
-      init(date: days: time: duration: overstayBatteryLevel: )
+   <span id="sdk-for-ios-explore-s-7heresdk32EVChargingTariffElementConditionV4date4days4time8duration20overstayBatteryLevelAcA9DateRangeVSg_SayAA9DayOfWeekOGAA04TimepoN0VSgAA0b8DurationN0VSgs5Int32VSgtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-date-days-time-duration-overstayBatteryLevel" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-evchargingtariffelementcondition#sdk-for-ios-explore-s-7heresdk32EVChargingTariffElementConditionV4date4days4time8duration20overstayBatteryLevelAcA9DateRangeVSg_SayAA9DayOfWeekOGAA04TimepoN0VSgAA0b8DurationN0VSgs5Int32VSgtcfc" class="token"><code>init(date:</code><wbr></wbr><code>days:</code><wbr></wbr><code>time:</code><wbr></wbr><code>duration:</code><wbr></wbr><code>overstayBatteryLevel:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -296,7 +312,7 @@ Date range (e.g., seasonal pricing)
     </div>
 
     - days: Day(s) of the week when the tariff element is valid. An example would be to specify lower prices for weekends
-    - time: Time period when the tariff element is valid, in local time. The time period wraps around to the next day, when end time of the period <a href="sdk-for-ios-explore-structs-timeofdayrange#/s:7heresdk14TimeOfDayRangeV2toSSvp">`TimeOfDayRange.to`</a> is smaller than the beginning <a href="sdk-for-ios-explore-structs-timeofdayrange#/s:7heresdk14TimeOfDayRangeV4fromSSvp">`TimeOfDayRange.from`</a>.
+    - time: Time period when the tariff element is valid, in local time. The time period wraps around to the next day, when end time of the period <a href="sdk-for-ios-explore-structs-timeofdayrange#sdk-for-ios-explore-s-7heresdk14TimeOfDayRangeV2toSSvp">`TimeOfDayRange.to`</a> is smaller than the beginning <a href="sdk-for-ios-explore-structs-timeofdayrange#sdk-for-ios-explore-s-7heresdk14TimeOfDayRangeV4fromSSvp">`TimeOfDayRange.from`</a>.
     - duration: Duration of the charging session when the tariff element is valid, in seconds.
 
     Often only either one of the values is present, indicating the minimum or maximum duration.
@@ -314,12 +330,17 @@ Date range (e.g., seasonal pricing)
   Swift
 
   ``` highlight
-  public init ( date : DateRange ? = nil , days : [ DayOfWeek ] = [], time : TimeOfDayRange ? = nil , duration : EVChargingDurationRange ? = nil , overstayBatteryLevel : Int32 ? = nil )
+  public init(date: DateRange? = nil, days: [DayOfWeek] = [], time: TimeOfDayRange? = nil, duration: EVChargingDurationRange? = nil, overstayBatteryLevel: Int32? = nil)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-daterange">DateRange</a>
+  - <a href="sdk-for-ios-explore-enums-dayofweek">DayOfWeek</a>
+  - <a href="sdk-for-ios-explore-structs-timeofdayrange">TimeOfDayRange</a>
+  - <a href="sdk-for-ios-explore-structs-evchargingdurationrange">EVChargingDurationRange</a>
 
   </div>
 

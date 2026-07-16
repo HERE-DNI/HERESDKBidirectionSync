@@ -29,7 +29,7 @@ Road profile conditions that must be met for a regulation to apply.
 
 - <div>
 
-  ` `<span id="/s:7heresdk20RoadProfileConditionV8roadTypeAA017CommercialVehiclebF0Ovp"></span>` `<span id="//apple_ref/swift/Property/roadType" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-roadprofilecondition#/s:7heresdk20RoadProfileConditionV8roadTypeAA017CommercialVehiclebF0Ovp" class="token"><code>roadType</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk20RoadProfileConditionV8roadTypeAA017CommercialVehiclebF0Ovp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-roadType" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-roadprofilecondition#sdk-for-ios-navigate-s-7heresdk20RoadProfileConditionV8roadTypeAA017CommercialVehiclebF0Ovp" class="token"><code>roadType</code></a> 
 
   </div>
 
@@ -65,6 +65,10 @@ Road profile conditions that must be met for a regulation to apply.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-commercialvehicleroadtype">CommercialVehicleRoadType</a>
+
   </div>
 
   </div>
@@ -73,7 +77,7 @@ Road profile conditions that must be met for a regulation to apply.
 
 - <div>
 
-  ` `<span id="/s:7heresdk20RoadProfileConditionV25requiredFunctionalClassesSayAA0fB5ClassOSgGvp"></span>` `<span id="//apple_ref/swift/Property/requiredFunctionalClasses" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-roadprofilecondition#/s:7heresdk20RoadProfileConditionV25requiredFunctionalClassesSayAA0fB5ClassOSgGvp" class="token"><code>requiredFunctionalClasses</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk20RoadProfileConditionV25requiredFunctionalClassesSayAA0fB5ClassOSgGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-requiredFunctionalClasses" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-roadprofilecondition#sdk-for-ios-navigate-s-7heresdk20RoadProfileConditionV25requiredFunctionalClassesSayAA0fB5ClassOSgGvp" class="token"><code>requiredFunctionalClasses</code></a> 
 
   </div>
 
@@ -109,6 +113,10 @@ Road profile conditions that must be met for a regulation to apply.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-functionalroadclass">FunctionalRoadClass</a>
+
   </div>
 
   </div>
@@ -117,7 +125,7 @@ Road profile conditions that must be met for a regulation to apply.
 
 - <div>
 
-  ` `<span id="/s:7heresdk20RoadProfileConditionV19requiredRouteLevelsSayAA0F4TypeOGvp"></span>` `<span id="//apple_ref/swift/Property/requiredRouteLevels" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-roadprofilecondition#/s:7heresdk20RoadProfileConditionV19requiredRouteLevelsSayAA0F4TypeOGvp" class="token"><code>requiredRouteLevels</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk20RoadProfileConditionV19requiredRouteLevelsSayAA0F4TypeOGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-requiredRouteLevels" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-roadprofilecondition#sdk-for-ios-navigate-s-7heresdk20RoadProfileConditionV19requiredRouteLevelsSayAA0F4TypeOGvp" class="token"><code>requiredRouteLevels</code></a> 
 
   </div>
 
@@ -153,6 +161,10 @@ Road profile conditions that must be met for a regulation to apply.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-routetype">RouteType</a>
+
   </div>
 
   </div>
@@ -161,7 +173,7 @@ Road profile conditions that must be met for a regulation to apply.
 
 - <div>
 
-  ` `<span id="/s:7heresdk20RoadProfileConditionV21requiredNumberOfLanesAA12IntegerRangeVvp"></span>` `<span id="//apple_ref/swift/Property/requiredNumberOfLanes" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-roadprofilecondition#/s:7heresdk20RoadProfileConditionV21requiredNumberOfLanesAA12IntegerRangeVvp" class="token"><code>requiredNumberOfLanes</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk20RoadProfileConditionV21requiredNumberOfLanesAA12IntegerRangeVvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-requiredNumberOfLanes" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-roadprofilecondition#sdk-for-ios-navigate-s-7heresdk20RoadProfileConditionV21requiredNumberOfLanesAA12IntegerRangeVvp" class="token"><code>requiredNumberOfLanes</code></a> 
 
   </div>
 
@@ -197,6 +209,10 @@ Road profile conditions that must be met for a regulation to apply.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-integerrange">IntegerRange</a>
+
   </div>
 
   </div>
@@ -205,7 +221,7 @@ Road profile conditions that must be met for a regulation to apply.
 
 - <div>
 
-  ` `<span id="/s:7heresdk20RoadProfileConditionV18isControlledAccessSbSgvp"></span>` `<span id="//apple_ref/swift/Property/isControlledAccess" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-roadprofilecondition#/s:7heresdk20RoadProfileConditionV18isControlledAccessSbSgvp" class="token"><code>isControlledAccess</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk20RoadProfileConditionV18isControlledAccessSbSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-isControlledAccess" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-roadprofilecondition#sdk-for-ios-navigate-s-7heresdk20RoadProfileConditionV18isControlledAccessSbSgvp" class="token"><code>isControlledAccess</code></a> 
 
   </div>
 
@@ -249,7 +265,7 @@ Road profile conditions that must be met for a regulation to apply.
 
 - <div>
 
-  ` `<span id="/s:7heresdk20RoadProfileConditionV015isLimitedAccessB0SbSgvp"></span>` `<span id="//apple_ref/swift/Property/isLimitedAccessRoad" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-roadprofilecondition#/s:7heresdk20RoadProfileConditionV015isLimitedAccessB0SbSgvp" class="token"><code>isLimitedAccessRoad</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk20RoadProfileConditionV015isLimitedAccessB0SbSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-isLimitedAccessRoad" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-roadprofilecondition#sdk-for-ios-navigate-s-7heresdk20RoadProfileConditionV015isLimitedAccessB0SbSgvp" class="token"><code>isLimitedAccessRoad</code></a> 
 
   </div>
 
@@ -293,7 +309,7 @@ Road profile conditions that must be met for a regulation to apply.
 
 - <div>
 
-  ` `<span id="/s:7heresdk20RoadProfileConditionV21isMultiplyDigitilizedSbSgvp"></span>` `<span id="//apple_ref/swift/Property/isMultiplyDigitilized" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-roadprofilecondition#/s:7heresdk20RoadProfileConditionV21isMultiplyDigitilizedSbSgvp" class="token"><code>isMultiplyDigitilized</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk20RoadProfileConditionV21isMultiplyDigitilizedSbSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-isMultiplyDigitilized" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-roadprofilecondition#sdk-for-ios-navigate-s-7heresdk20RoadProfileConditionV21isMultiplyDigitilizedSbSgvp" class="token"><code>isMultiplyDigitilized</code></a> 
 
   </div>
 
@@ -337,7 +353,7 @@ Road profile conditions that must be met for a regulation to apply.
 
 - <div>
 
-  ` `<span id="/s:7heresdk20RoadProfileConditionV02isB14LegallyDividedSbSgvp"></span>` `<span id="//apple_ref/swift/Property/isRoadLegallyDivided" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-roadprofilecondition#/s:7heresdk20RoadProfileConditionV02isB14LegallyDividedSbSgvp" class="token"><code>isRoadLegallyDivided</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk20RoadProfileConditionV02isB14LegallyDividedSbSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-isRoadLegallyDivided" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-roadprofilecondition#sdk-for-ios-navigate-s-7heresdk20RoadProfileConditionV02isB14LegallyDividedSbSgvp" class="token"><code>isRoadLegallyDivided</code></a> 
 
   </div>
 
@@ -381,7 +397,7 @@ Road profile conditions that must be met for a regulation to apply.
 
 - <div>
 
-  ` `<span id="/s:7heresdk20RoadProfileConditionV02isB17PhysicallyDividedSbSgvp"></span>` `<span id="//apple_ref/swift/Property/isRoadPhysicallyDivided" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-roadprofilecondition#/s:7heresdk20RoadProfileConditionV02isB17PhysicallyDividedSbSgvp" class="token"><code>isRoadPhysicallyDivided</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk20RoadProfileConditionV02isB17PhysicallyDividedSbSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-isRoadPhysicallyDivided" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-roadprofilecondition#sdk-for-ios-navigate-s-7heresdk20RoadProfileConditionV02isB17PhysicallyDividedSbSgvp" class="token"><code>isRoadPhysicallyDivided</code></a> 
 
   </div>
 
@@ -425,7 +441,7 @@ Road profile conditions that must be met for a regulation to apply.
 
 - <div>
 
-  ` `<span id="/s:7heresdk20RoadProfileConditionV010isPriorityB0SbSgvp"></span>` `<span id="//apple_ref/swift/Property/isPriorityRoad" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-roadprofilecondition#/s:7heresdk20RoadProfileConditionV010isPriorityB0SbSgvp" class="token"><code>isPriorityRoad</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk20RoadProfileConditionV010isPriorityB0SbSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-isPriorityRoad" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-roadprofilecondition#sdk-for-ios-navigate-s-7heresdk20RoadProfileConditionV010isPriorityB0SbSgvp" class="token"><code>isPriorityRoad</code></a> 
 
   </div>
 
@@ -469,7 +485,7 @@ Road profile conditions that must be met for a regulation to apply.
 
 - <div>
 
-  ` `<span id="/s:7heresdk20RoadProfileConditionV9isUnpavedSbSgvp"></span>` `<span id="//apple_ref/swift/Property/isUnpaved" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-roadprofilecondition#/s:7heresdk20RoadProfileConditionV9isUnpavedSbSgvp" class="token"><code>isUnpaved</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk20RoadProfileConditionV9isUnpavedSbSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-isUnpaved" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-roadprofilecondition#sdk-for-ios-navigate-s-7heresdk20RoadProfileConditionV9isUnpavedSbSgvp" class="token"><code>isUnpaved</code></a> 
 
   </div>
 
@@ -513,7 +529,7 @@ Road profile conditions that must be met for a regulation to apply.
 
 - <div>
 
-  ` `<span id="/s:7heresdk20RoadProfileConditionV23isMotorisedVehiclesOnlySbSgvp"></span>` `<span id="//apple_ref/swift/Property/isMotorisedVehiclesOnly" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-roadprofilecondition#/s:7heresdk20RoadProfileConditionV23isMotorisedVehiclesOnlySbSgvp" class="token"><code>isMotorisedVehiclesOnly</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk20RoadProfileConditionV23isMotorisedVehiclesOnlySbSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-isMotorisedVehiclesOnly" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-roadprofilecondition#sdk-for-ios-navigate-s-7heresdk20RoadProfileConditionV23isMotorisedVehiclesOnlySbSgvp" class="token"><code>isMotorisedVehiclesOnly</code></a> 
 
   </div>
 
@@ -557,7 +573,7 @@ Road profile conditions that must be met for a regulation to apply.
 
 - <div>
 
-  ` `<span id="/s:7heresdk20RoadProfileConditionV7isUrbanSbSgvp"></span>` `<span id="//apple_ref/swift/Property/isUrban" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-roadprofilecondition#/s:7heresdk20RoadProfileConditionV7isUrbanSbSgvp" class="token"><code>isUrban</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk20RoadProfileConditionV7isUrbanSbSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-isUrban" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-roadprofilecondition#sdk-for-ios-navigate-s-7heresdk20RoadProfileConditionV7isUrbanSbSgvp" class="token"><code>isUrban</code></a> 
 
   </div>
 
@@ -601,7 +617,7 @@ Road profile conditions that must be met for a regulation to apply.
 
 - <div>
 
-  ` `<span id="/s:7heresdk20RoadProfileConditionV7isRuralSbSgvp"></span>` `<span id="//apple_ref/swift/Property/isRural" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-roadprofilecondition#/s:7heresdk20RoadProfileConditionV7isRuralSbSgvp" class="token"><code>isRural</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk20RoadProfileConditionV7isRuralSbSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-isRural" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-roadprofilecondition#sdk-for-ios-navigate-s-7heresdk20RoadProfileConditionV7isRuralSbSgvp" class="token"><code>isRural</code></a> 
 
   </div>
 
@@ -645,7 +661,7 @@ Road profile conditions that must be met for a regulation to apply.
 
 - <div>
 
-      init(roadType: requiredFunctionalClasses: requiredRouteLevels: requiredNumberOfLanes: isControlledAccess: isLimitedAccessRoad: isMultiplyDigitilized: isRoadLegallyDivided: isRoadPhysicallyDivided: isPriorityRoad: isUnpaved: isMotorisedVehiclesOnly: isUrban: isRural: )
+   <span id="sdk-for-ios-navigate-s-7heresdk20RoadProfileConditionV8roadType25requiredFunctionalClasses0G11RouteLevels0G13NumberOfLanes18isControlledAccess0o7LimitedqB00O19MultiplyDigitilized0oB14LegallyDivided0ob10PhysicallyV00o8PriorityB00O7Unpaved0O21MotorisedVehiclesOnly0O5Urban0O5RuralAcA017CommercialVehiclebF0O_SayAA0hB5ClassOSgGSayAA0jF0OGAA12IntegerRangeVSbSgA1_A1_A1_A1_A1_A1_A1_A1_A1_tcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-roadType-requiredFunctionalClasses-requiredRouteLevels-requiredNumberOfLanes-isControlledAccess-isLimitedAccessRoad-isMultiplyDigitilized-isRoadLegallyDivided-isRoadPhysicallyDivided-isPriorityRoad-isUnpaved-isMotorisedVehiclesOnly-isUrban-isRural" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-roadprofilecondition#sdk-for-ios-navigate-s-7heresdk20RoadProfileConditionV8roadType25requiredFunctionalClasses0G11RouteLevels0G13NumberOfLanes18isControlledAccess0o7LimitedqB00O19MultiplyDigitilized0oB14LegallyDivided0ob10PhysicallyV00o8PriorityB00O7Unpaved0O21MotorisedVehiclesOnly0O5Urban0O5RuralAcA017CommercialVehiclebF0O_SayAA0hB5ClassOSgGSayAA0jF0OGAA12IntegerRangeVSbSgA1_A1_A1_A1_A1_A1_A1_A1_A1_tcfc" class="token"><code>init(roadType:</code><wbr></wbr><code>requiredFunctionalClasses:</code><wbr></wbr><code>requiredRouteLevels:</code><wbr></wbr><code>requiredNumberOfLanes:</code><wbr></wbr><code>isControlledAccess:</code><wbr></wbr><code>isLimitedAccessRoad:</code><wbr></wbr><code>isMultiplyDigitilized:</code><wbr></wbr><code>isRoadLegallyDivided:</code><wbr></wbr><code>isRoadPhysicallyDivided:</code><wbr></wbr><code>isPriorityRoad:</code><wbr></wbr><code>isUnpaved:</code><wbr></wbr><code>isMotorisedVehiclesOnly:</code><wbr></wbr><code>isUrban:</code><wbr></wbr><code>isRural:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -676,12 +692,17 @@ Road profile conditions that must be met for a regulation to apply.
   Swift
 
   ``` highlight
-  public init ( roadType : CommercialVehicleRoadType , requiredFunctionalClasses : [ FunctionalRoadClass ?] = [], requiredRouteLevels : [ RouteType ] = [], requiredNumberOfLanes : IntegerRange , isControlledAccess : Bool ? = nil , isLimitedAccessRoad : Bool ? = nil , isMultiplyDigitilized : Bool ? = nil , isRoadLegallyDivided : Bool ? = nil , isRoadPhysicallyDivided : Bool ? = nil , isPriorityRoad : Bool ? = nil , isUnpaved : Bool ? = nil , isMotorisedVehiclesOnly : Bool ? = nil , isUrban : Bool ? = nil , isRural : Bool ? = nil )
+  public init(roadType: CommercialVehicleRoadType, requiredFunctionalClasses: [FunctionalRoadClass?] = [], requiredRouteLevels: [RouteType] = [], requiredNumberOfLanes: IntegerRange, isControlledAccess: Bool? = nil, isLimitedAccessRoad: Bool? = nil, isMultiplyDigitilized: Bool? = nil, isRoadLegallyDivided: Bool? = nil, isRoadPhysicallyDivided: Bool? = nil, isPriorityRoad: Bool? = nil, isUnpaved: Bool? = nil, isMotorisedVehiclesOnly: Bool? = nil, isUrban: Bool? = nil, isRural: Bool? = nil)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-commercialvehicleroadtype">CommercialVehicleRoadType</a>
+  - <a href="sdk-for-ios-navigate-enums-functionalroadclass">FunctionalRoadClass</a>
+  - <a href="sdk-for-ios-navigate-enums-routetype">RouteType</a>
+  - <a href="sdk-for-ios-navigate-structs-integerrange">IntegerRange</a>
 
   </div>
 

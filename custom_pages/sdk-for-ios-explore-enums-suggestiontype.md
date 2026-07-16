@@ -27,7 +27,7 @@ Specifies the type of suggestion returned for query.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14SuggestionTypeO8categoryyA2CmF"></span>` `<span id="//apple_ref/swift/Element/category" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-suggestiontype#/s:7heresdk14SuggestionTypeO8categoryyA2CmF" class="token"><code>category</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14SuggestionTypeO8categoryyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-category" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-suggestiontype#sdk-for-ios-explore-s-7heresdk14SuggestionTypeO8categoryyA2CmF" class="token"><code>category</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Specifies the type of suggestion returned for query.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14SuggestionTypeO5chainyA2CmF"></span>` `<span id="//apple_ref/swift/Element/chain" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-suggestiontype#/s:7heresdk14SuggestionTypeO5chainyA2CmF" class="token"><code>chain</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14SuggestionTypeO5chainyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-chain" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-suggestiontype#sdk-for-ios-explore-s-7heresdk14SuggestionTypeO5chainyA2CmF" class="token"><code>chain</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Specifies the type of suggestion returned for query.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14SuggestionTypeO5placeyA2CmF"></span>` `<span id="//apple_ref/swift/Element/place" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-suggestiontype#/s:7heresdk14SuggestionTypeO5placeyA2CmF" class="token"><code>place</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14SuggestionTypeO5placeyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-place" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-suggestiontype#sdk-for-ios-explore-s-7heresdk14SuggestionTypeO5placeyA2CmF" class="token"><code>place</code></a> 
 
   </div>
 

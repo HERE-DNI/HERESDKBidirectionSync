@@ -27,7 +27,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO4enUsyA2CmF"></span>` `<span id="//apple_ref/swift/Element/enUs" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO4enUsyA2CmF" class="token"><code>enUs</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO4enUsyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-enUs" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO4enUsyA2CmF" class="token"><code>enUs</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO4afZayA2CmF"></span>` `<span id="//apple_ref/swift/Element/afZa" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO4afZayA2CmF" class="token"><code>afZa</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO4afZayA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-afZa" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO4afZayA2CmF" class="token"><code>afZa</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO4sqAlyA2CmF"></span>` `<span id="//apple_ref/swift/Element/sqAl" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO4sqAlyA2CmF" class="token"><code>sqAl</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO4sqAlyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-sqAl" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO4sqAlyA2CmF" class="token"><code>sqAl</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO4amEtyA2CmF"></span>` `<span id="//apple_ref/swift/Element/amEt" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO4amEtyA2CmF" class="token"><code>amEt</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO4amEtyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-amEt" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO4amEtyA2CmF" class="token"><code>amEt</code></a> 
 
   </div>
 
@@ -203,7 +203,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO4arSayA2CmF"></span>` `<span id="//apple_ref/swift/Element/arSa" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO4arSayA2CmF" class="token"><code>arSa</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO4arSayA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-arSa" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO4arSayA2CmF" class="token"><code>arSa</code></a> 
 
   </div>
 
@@ -247,7 +247,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO4hyAmyA2CmF"></span>` `<span id="//apple_ref/swift/Element/hyAm" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO4hyAmyA2CmF" class="token"><code>hyAm</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO4hyAmyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-hyAm" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO4hyAmyA2CmF" class="token"><code>hyAm</code></a> 
 
   </div>
 
@@ -291,7 +291,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO4asInyA2CmF"></span>` `<span id="//apple_ref/swift/Element/asIn" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO4asInyA2CmF" class="token"><code>asIn</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO4asInyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-asIn" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO4asInyA2CmF" class="token"><code>asIn</code></a> 
 
   </div>
 
@@ -335,7 +335,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO8azLatnAzyA2CmF"></span>` `<span id="//apple_ref/swift/Element/azLatnAz" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO8azLatnAzyA2CmF" class="token"><code>azLatnAz</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO8azLatnAzyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-azLatnAz" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO8azLatnAzyA2CmF" class="token"><code>azLatnAz</code></a> 
 
   </div>
 
@@ -379,7 +379,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO4bnBdyA2CmF"></span>` `<span id="//apple_ref/swift/Element/bnBd" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO4bnBdyA2CmF" class="token"><code>bnBd</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO4bnBdyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-bnBd" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO4bnBdyA2CmF" class="token"><code>bnBd</code></a> 
 
   </div>
 
@@ -423,7 +423,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO4bnInyA2CmF"></span>` `<span id="//apple_ref/swift/Element/bnIn" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO4bnInyA2CmF" class="token"><code>bnIn</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO4bnInyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-bnIn" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO4bnInyA2CmF" class="token"><code>bnIn</code></a> 
 
   </div>
 
@@ -467,7 +467,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO4euEsyA2CmF"></span>` `<span id="//apple_ref/swift/Element/euEs" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO4euEsyA2CmF" class="token"><code>euEs</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO4euEsyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-euEs" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO4euEsyA2CmF" class="token"><code>euEs</code></a> 
 
   </div>
 
@@ -511,7 +511,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO4beByyA2CmF"></span>` `<span id="//apple_ref/swift/Element/beBy" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO4beByyA2CmF" class="token"><code>beBy</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO4beByyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-beBy" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO4beByyA2CmF" class="token"><code>beBy</code></a> 
 
   </div>
 
@@ -555,7 +555,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO8bsLatnBayA2CmF"></span>` `<span id="//apple_ref/swift/Element/bsLatnBa" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO8bsLatnBayA2CmF" class="token"><code>bsLatnBa</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO8bsLatnBayA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-bsLatnBa" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO8bsLatnBayA2CmF" class="token"><code>bsLatnBa</code></a> 
 
   </div>
 
@@ -599,7 +599,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO4bgBgyA2CmF"></span>` `<span id="//apple_ref/swift/Element/bgBg" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO4bgBgyA2CmF" class="token"><code>bgBg</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO4bgBgyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-bgBg" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO4bgBgyA2CmF" class="token"><code>bgBg</code></a> 
 
   </div>
 
@@ -643,7 +643,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO4caEsyA2CmF"></span>` `<span id="//apple_ref/swift/Element/caEs" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO4caEsyA2CmF" class="token"><code>caEs</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO4caEsyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-caEs" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO4caEsyA2CmF" class="token"><code>caEs</code></a> 
 
   </div>
 
@@ -687,7 +687,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO6kuArabyA2CmF"></span>` `<span id="//apple_ref/swift/Element/kuArab" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO6kuArabyA2CmF" class="token"><code>kuArab</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO6kuArabyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-kuArab" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO6kuArabyA2CmF" class="token"><code>kuArab</code></a> 
 
   </div>
 
@@ -731,7 +731,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO4zhCnyA2CmF"></span>` `<span id="//apple_ref/swift/Element/zhCn" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO4zhCnyA2CmF" class="token"><code>zhCn</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO4zhCnyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-zhCn" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO4zhCnyA2CmF" class="token"><code>zhCn</code></a> 
 
   </div>
 
@@ -775,7 +775,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO4zhHkyA2CmF"></span>` `<span id="//apple_ref/swift/Element/zhHk" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO4zhHkyA2CmF" class="token"><code>zhHk</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO4zhHkyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-zhHk" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO4zhHkyA2CmF" class="token"><code>zhHk</code></a> 
 
   </div>
 
@@ -819,7 +819,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO4zhTwyA2CmF"></span>` `<span id="//apple_ref/swift/Element/zhTw" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO4zhTwyA2CmF" class="token"><code>zhTw</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO4zhTwyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-zhTw" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO4zhTwyA2CmF" class="token"><code>zhTw</code></a> 
 
   </div>
 
@@ -863,7 +863,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO4hrHryA2CmF"></span>` `<span id="//apple_ref/swift/Element/hrHr" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO4hrHryA2CmF" class="token"><code>hrHr</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO4hrHryA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-hrHr" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO4hrHryA2CmF" class="token"><code>hrHr</code></a> 
 
   </div>
 
@@ -907,7 +907,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO4csCzyA2CmF"></span>` `<span id="//apple_ref/swift/Element/csCz" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO4csCzyA2CmF" class="token"><code>csCz</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO4csCzyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-csCz" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO4csCzyA2CmF" class="token"><code>csCz</code></a> 
 
   </div>
 
@@ -951,7 +951,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO4daDkyA2CmF"></span>` `<span id="//apple_ref/swift/Element/daDk" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO4daDkyA2CmF" class="token"><code>daDk</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO4daDkyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-daDk" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO4daDkyA2CmF" class="token"><code>daDk</code></a> 
 
   </div>
 
@@ -995,7 +995,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO9prsArabAfyA2CmF"></span>` `<span id="//apple_ref/swift/Element/prsArabAf" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO9prsArabAfyA2CmF" class="token"><code>prsArabAf</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO9prsArabAfyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-prsArabAf" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO9prsArabAfyA2CmF" class="token"><code>prsArabAf</code></a> 
 
   </div>
 
@@ -1039,7 +1039,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO4nlBeyA2CmF"></span>` `<span id="//apple_ref/swift/Element/nlBe" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO4nlBeyA2CmF" class="token"><code>nlBe</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO4nlBeyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-nlBe" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO4nlBeyA2CmF" class="token"><code>nlBe</code></a> 
 
   </div>
 
@@ -1083,7 +1083,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO4nlNlyA2CmF"></span>` `<span id="//apple_ref/swift/Element/nlNl" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO4nlNlyA2CmF" class="token"><code>nlNl</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO4nlNlyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-nlNl" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO4nlNlyA2CmF" class="token"><code>nlNl</code></a> 
 
   </div>
 
@@ -1127,7 +1127,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO4enGbyA2CmF"></span>` `<span id="//apple_ref/swift/Element/enGb" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO4enGbyA2CmF" class="token"><code>enGb</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO4enGbyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-enGb" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO4enGbyA2CmF" class="token"><code>enGb</code></a> 
 
   </div>
 
@@ -1171,7 +1171,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO4etEeyA2CmF"></span>` `<span id="//apple_ref/swift/Element/etEe" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO4etEeyA2CmF" class="token"><code>etEe</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO4etEeyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-etEe" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO4etEeyA2CmF" class="token"><code>etEe</code></a> 
 
   </div>
 
@@ -1215,7 +1215,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO4faIryA2CmF"></span>` `<span id="//apple_ref/swift/Element/faIr" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO4faIryA2CmF" class="token"><code>faIr</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO4faIryA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-faIr" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO4faIryA2CmF" class="token"><code>faIr</code></a> 
 
   </div>
 
@@ -1259,7 +1259,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO5filPhyA2CmF"></span>` `<span id="//apple_ref/swift/Element/filPh" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO5filPhyA2CmF" class="token"><code>filPh</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO5filPhyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-filPh" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO5filPhyA2CmF" class="token"><code>filPh</code></a> 
 
   </div>
 
@@ -1303,7 +1303,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO4fiFiyA2CmF"></span>` `<span id="//apple_ref/swift/Element/fiFi" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO4fiFiyA2CmF" class="token"><code>fiFi</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO4fiFiyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-fiFi" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO4fiFiyA2CmF" class="token"><code>fiFi</code></a> 
 
   </div>
 
@@ -1347,7 +1347,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO4frFryA2CmF"></span>` `<span id="//apple_ref/swift/Element/frFr" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO4frFryA2CmF" class="token"><code>frFr</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO4frFryA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-frFr" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO4frFryA2CmF" class="token"><code>frFr</code></a> 
 
   </div>
 
@@ -1391,7 +1391,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO4frCayA2CmF"></span>` `<span id="//apple_ref/swift/Element/frCa" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO4frCayA2CmF" class="token"><code>frCa</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO4frCayA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-frCa" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO4frCayA2CmF" class="token"><code>frCa</code></a> 
 
   </div>
 
@@ -1435,7 +1435,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO4glEsyA2CmF"></span>` `<span id="//apple_ref/swift/Element/glEs" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO4glEsyA2CmF" class="token"><code>glEs</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO4glEsyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-glEs" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO4glEsyA2CmF" class="token"><code>glEs</code></a> 
 
   </div>
 
@@ -1479,7 +1479,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO4kaGeyA2CmF"></span>` `<span id="//apple_ref/swift/Element/kaGe" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO4kaGeyA2CmF" class="token"><code>kaGe</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO4kaGeyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-kaGe" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO4kaGeyA2CmF" class="token"><code>kaGe</code></a> 
 
   </div>
 
@@ -1523,7 +1523,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO4deDeyA2CmF"></span>` `<span id="//apple_ref/swift/Element/deDe" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO4deDeyA2CmF" class="token"><code>deDe</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO4deDeyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-deDe" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO4deDeyA2CmF" class="token"><code>deDe</code></a> 
 
   </div>
 
@@ -1567,7 +1567,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO4elGryA2CmF"></span>` `<span id="//apple_ref/swift/Element/elGr" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO4elGryA2CmF" class="token"><code>elGr</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO4elGryA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-elGr" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO4elGryA2CmF" class="token"><code>elGr</code></a> 
 
   </div>
 
@@ -1611,7 +1611,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO4guInyA2CmF"></span>` `<span id="//apple_ref/swift/Element/guIn" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO4guInyA2CmF" class="token"><code>guIn</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO4guInyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-guIn" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO4guInyA2CmF" class="token"><code>guIn</code></a> 
 
   </div>
 
@@ -1655,7 +1655,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO8haLatnNgyA2CmF"></span>` `<span id="//apple_ref/swift/Element/haLatnNg" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO8haLatnNgyA2CmF" class="token"><code>haLatnNg</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO8haLatnNgyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-haLatnNg" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO8haLatnNgyA2CmF" class="token"><code>haLatnNg</code></a> 
 
   </div>
 
@@ -1699,7 +1699,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO4heIlyA2CmF"></span>` `<span id="//apple_ref/swift/Element/heIl" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO4heIlyA2CmF" class="token"><code>heIl</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO4heIlyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-heIl" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO4heIlyA2CmF" class="token"><code>heIl</code></a> 
 
   </div>
 
@@ -1743,7 +1743,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO4hiInyA2CmF"></span>` `<span id="//apple_ref/swift/Element/hiIn" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO4hiInyA2CmF" class="token"><code>hiIn</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO4hiInyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-hiIn" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO4hiInyA2CmF" class="token"><code>hiIn</code></a> 
 
   </div>
 
@@ -1787,7 +1787,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO4huHuyA2CmF"></span>` `<span id="//apple_ref/swift/Element/huHu" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO4huHuyA2CmF" class="token"><code>huHu</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO4huHuyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-huHu" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO4huHuyA2CmF" class="token"><code>huHu</code></a> 
 
   </div>
 
@@ -1831,7 +1831,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO4isIsyA2CmF"></span>` `<span id="//apple_ref/swift/Element/isIs" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO4isIsyA2CmF" class="token"><code>isIs</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO4isIsyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-isIs" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO4isIsyA2CmF" class="token"><code>isIs</code></a> 
 
   </div>
 
@@ -1875,7 +1875,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO8igLatnNgyA2CmF"></span>` `<span id="//apple_ref/swift/Element/igLatnNg" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO8igLatnNgyA2CmF" class="token"><code>igLatnNg</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO8igLatnNgyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-igLatnNg" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO8igLatnNgyA2CmF" class="token"><code>igLatnNg</code></a> 
 
   </div>
 
@@ -1919,7 +1919,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO4idIdyA2CmF"></span>` `<span id="//apple_ref/swift/Element/idId" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO4idIdyA2CmF" class="token"><code>idId</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO4idIdyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-idId" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO4idIdyA2CmF" class="token"><code>idId</code></a> 
 
   </div>
 
@@ -1963,7 +1963,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO4gaIeyA2CmF"></span>` `<span id="//apple_ref/swift/Element/gaIe" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO4gaIeyA2CmF" class="token"><code>gaIe</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO4gaIeyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-gaIe" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO4gaIeyA2CmF" class="token"><code>gaIe</code></a> 
 
   </div>
 
@@ -2007,7 +2007,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO2xhyA2CmF"></span>` `<span id="//apple_ref/swift/Element/xh" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO2xhyA2CmF" class="token"><code>xh</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO2xhyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-xh" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO2xhyA2CmF" class="token"><code>xh</code></a> 
 
   </div>
 
@@ -2051,7 +2051,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO4zuZayA2CmF"></span>` `<span id="//apple_ref/swift/Element/zuZa" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO4zuZayA2CmF" class="token"><code>zuZa</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO4zuZayA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-zuZa" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO4zuZayA2CmF" class="token"><code>zuZa</code></a> 
 
   </div>
 
@@ -2095,7 +2095,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO4itItyA2CmF"></span>` `<span id="//apple_ref/swift/Element/itIt" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO4itItyA2CmF" class="token"><code>itIt</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO4itItyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-itIt" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO4itItyA2CmF" class="token"><code>itIt</code></a> 
 
   </div>
 
@@ -2139,7 +2139,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO4jaJpyA2CmF"></span>` `<span id="//apple_ref/swift/Element/jaJp" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO4jaJpyA2CmF" class="token"><code>jaJp</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO4jaJpyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-jaJp" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO4jaJpyA2CmF" class="token"><code>jaJp</code></a> 
 
   </div>
 
@@ -2183,7 +2183,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO4knInyA2CmF"></span>` `<span id="//apple_ref/swift/Element/knIn" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO4knInyA2CmF" class="token"><code>knIn</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO4knInyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-knIn" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO4knInyA2CmF" class="token"><code>knIn</code></a> 
 
   </div>
 
@@ -2227,7 +2227,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO4kkKzyA2CmF"></span>` `<span id="//apple_ref/swift/Element/kkKz" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO4kkKzyA2CmF" class="token"><code>kkKz</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO4kkKzyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-kkKz" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO4kkKzyA2CmF" class="token"><code>kkKz</code></a> 
 
   </div>
 
@@ -2271,7 +2271,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO4kmKhyA2CmF"></span>` `<span id="//apple_ref/swift/Element/kmKh" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO4kmKhyA2CmF" class="token"><code>kmKh</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO4kmKhyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-kmKh" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO4kmKhyA2CmF" class="token"><code>kmKh</code></a> 
 
   </div>
 
@@ -2315,7 +2315,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO9qucLatnGtyA2CmF"></span>` `<span id="//apple_ref/swift/Element/qucLatnGt" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO9qucLatnGtyA2CmF" class="token"><code>qucLatnGt</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO9qucLatnGtyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-qucLatnGt" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO9qucLatnGtyA2CmF" class="token"><code>qucLatnGt</code></a> 
 
   </div>
 
@@ -2359,7 +2359,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO4rwRwyA2CmF"></span>` `<span id="//apple_ref/swift/Element/rwRw" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO4rwRwyA2CmF" class="token"><code>rwRw</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO4rwRwyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-rwRw" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO4rwRwyA2CmF" class="token"><code>rwRw</code></a> 
 
   </div>
 
@@ -2403,7 +2403,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO2swyA2CmF"></span>` `<span id="//apple_ref/swift/Element/sw" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO2swyA2CmF" class="token"><code>sw</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO2swyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-sw" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO2swyA2CmF" class="token"><code>sw</code></a> 
 
   </div>
 
@@ -2447,7 +2447,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO5kokInyA2CmF"></span>` `<span id="//apple_ref/swift/Element/kokIn" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO5kokInyA2CmF" class="token"><code>kokIn</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO5kokInyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-kokIn" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO5kokInyA2CmF" class="token"><code>kokIn</code></a> 
 
   </div>
 
@@ -2491,7 +2491,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO4koKryA2CmF"></span>` `<span id="//apple_ref/swift/Element/koKr" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO4koKryA2CmF" class="token"><code>koKr</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO4koKryA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-koKr" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO4koKryA2CmF" class="token"><code>koKr</code></a> 
 
   </div>
 
@@ -2535,7 +2535,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO8kyCyrlKgyA2CmF"></span>` `<span id="//apple_ref/swift/Element/kyCyrlKg" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO8kyCyrlKgyA2CmF" class="token"><code>kyCyrlKg</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO8kyCyrlKgyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-kyCyrlKg" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO8kyCyrlKgyA2CmF" class="token"><code>kyCyrlKg</code></a> 
 
   </div>
 
@@ -2579,7 +2579,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO4lvLvyA2CmF"></span>` `<span id="//apple_ref/swift/Element/lvLv" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO4lvLvyA2CmF" class="token"><code>lvLv</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO4lvLvyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-lvLv" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO4lvLvyA2CmF" class="token"><code>lvLv</code></a> 
 
   </div>
 
@@ -2623,7 +2623,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO4ltLtyA2CmF"></span>` `<span id="//apple_ref/swift/Element/ltLt" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO4ltLtyA2CmF" class="token"><code>ltLt</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO4ltLtyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-ltLt" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO4ltLtyA2CmF" class="token"><code>ltLt</code></a> 
 
   </div>
 
@@ -2667,7 +2667,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO4lbLuyA2CmF"></span>` `<span id="//apple_ref/swift/Element/lbLu" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO4lbLuyA2CmF" class="token"><code>lbLu</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO4lbLuyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-lbLu" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO4lbLuyA2CmF" class="token"><code>lbLu</code></a> 
 
   </div>
 
@@ -2711,7 +2711,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO4mkMkyA2CmF"></span>` `<span id="//apple_ref/swift/Element/mkMk" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO4mkMkyA2CmF" class="token"><code>mkMk</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO4mkMkyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-mkMk" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO4mkMkyA2CmF" class="token"><code>mkMk</code></a> 
 
   </div>
 
@@ -2755,7 +2755,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO4msMyyA2CmF"></span>` `<span id="//apple_ref/swift/Element/msMy" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO4msMyyA2CmF" class="token"><code>msMy</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO4msMyyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-msMy" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO4msMyyA2CmF" class="token"><code>msMy</code></a> 
 
   </div>
 
@@ -2799,7 +2799,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO4mlInyA2CmF"></span>` `<span id="//apple_ref/swift/Element/mlIn" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO4mlInyA2CmF" class="token"><code>mlIn</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO4mlInyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-mlIn" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO4mlInyA2CmF" class="token"><code>mlIn</code></a> 
 
   </div>
 
@@ -2843,7 +2843,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO4mtMtyA2CmF"></span>` `<span id="//apple_ref/swift/Element/mtMt" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO4mtMtyA2CmF" class="token"><code>mtMt</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO4mtMtyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-mtMt" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO4mtMtyA2CmF" class="token"><code>mtMt</code></a> 
 
   </div>
 
@@ -2887,7 +2887,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO8miLatnNzyA2CmF"></span>` `<span id="//apple_ref/swift/Element/miLatnNz" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO8miLatnNzyA2CmF" class="token"><code>miLatnNz</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO8miLatnNzyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-miLatnNz" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO8miLatnNzyA2CmF" class="token"><code>miLatnNz</code></a> 
 
   </div>
 
@@ -2931,7 +2931,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO4mrInyA2CmF"></span>` `<span id="//apple_ref/swift/Element/mrIn" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO4mrInyA2CmF" class="token"><code>mrIn</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO4mrInyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-mrIn" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO4mrInyA2CmF" class="token"><code>mrIn</code></a> 
 
   </div>
 
@@ -2975,7 +2975,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO8mnCyrlMnyA2CmF"></span>` `<span id="//apple_ref/swift/Element/mnCyrlMn" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO8mnCyrlMnyA2CmF" class="token"><code>mnCyrlMn</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO8mnCyrlMnyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-mnCyrlMn" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO8mnCyrlMnyA2CmF" class="token"><code>mnCyrlMn</code></a> 
 
   </div>
 
@@ -3019,7 +3019,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO4neNpyA2CmF"></span>` `<span id="//apple_ref/swift/Element/neNp" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO4neNpyA2CmF" class="token"><code>neNp</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO4neNpyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-neNp" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO4neNpyA2CmF" class="token"><code>neNp</code></a> 
 
   </div>
 
@@ -3063,7 +3063,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO4nbNoyA2CmF"></span>` `<span id="//apple_ref/swift/Element/nbNo" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO4nbNoyA2CmF" class="token"><code>nbNo</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO4nbNoyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-nbNo" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO4nbNoyA2CmF" class="token"><code>nbNo</code></a> 
 
   </div>
 
@@ -3107,7 +3107,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO4nnNoyA2CmF"></span>` `<span id="//apple_ref/swift/Element/nnNo" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO4nnNoyA2CmF" class="token"><code>nnNo</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO4nnNoyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-nnNo" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO4nnNoyA2CmF" class="token"><code>nnNo</code></a> 
 
   </div>
 
@@ -3151,7 +3151,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO4orInyA2CmF"></span>` `<span id="//apple_ref/swift/Element/orIn" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO4orInyA2CmF" class="token"><code>orIn</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO4orInyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-orIn" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO4orInyA2CmF" class="token"><code>orIn</code></a> 
 
   </div>
 
@@ -3195,7 +3195,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO4plPlyA2CmF"></span>` `<span id="//apple_ref/swift/Element/plPl" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO4plPlyA2CmF" class="token"><code>plPl</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO4plPlyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-plPl" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO4plPlyA2CmF" class="token"><code>plPl</code></a> 
 
   </div>
 
@@ -3239,7 +3239,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO4ptBryA2CmF"></span>` `<span id="//apple_ref/swift/Element/ptBr" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO4ptBryA2CmF" class="token"><code>ptBr</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO4ptBryA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-ptBr" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO4ptBryA2CmF" class="token"><code>ptBr</code></a> 
 
   </div>
 
@@ -3283,7 +3283,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO4ptPtyA2CmF"></span>` `<span id="//apple_ref/swift/Element/ptPt" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO4ptPtyA2CmF" class="token"><code>ptPt</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO4ptPtyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-ptPt" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO4ptPtyA2CmF" class="token"><code>ptPt</code></a> 
 
   </div>
 
@@ -3327,7 +3327,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO6paGuruyA2CmF"></span>` `<span id="//apple_ref/swift/Element/paGuru" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO6paGuruyA2CmF" class="token"><code>paGuru</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO6paGuruyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-paGuru" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO6paGuruyA2CmF" class="token"><code>paGuru</code></a> 
 
   </div>
 
@@ -3371,7 +3371,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO6paArabyA2CmF"></span>` `<span id="//apple_ref/swift/Element/paArab" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO6paArabyA2CmF" class="token"><code>paArab</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO6paArabyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-paArab" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO6paArabyA2CmF" class="token"><code>paArab</code></a> 
 
   </div>
 
@@ -3415,7 +3415,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO8quLatnPeyA2CmF"></span>` `<span id="//apple_ref/swift/Element/quLatnPe" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO8quLatnPeyA2CmF" class="token"><code>quLatnPe</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO8quLatnPeyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-quLatnPe" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO8quLatnPeyA2CmF" class="token"><code>quLatnPe</code></a> 
 
   </div>
 
@@ -3459,7 +3459,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO4roRoyA2CmF"></span>` `<span id="//apple_ref/swift/Element/roRo" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO4roRoyA2CmF" class="token"><code>roRo</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO4roRoyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-roRo" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO4roRoyA2CmF" class="token"><code>roRo</code></a> 
 
   </div>
 
@@ -3503,7 +3503,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO4ruRuyA2CmF"></span>` `<span id="//apple_ref/swift/Element/ruRu" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO4ruRuyA2CmF" class="token"><code>ruRu</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO4ruRuyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-ruRu" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO4ruRuyA2CmF" class="token"><code>ruRu</code></a> 
 
   </div>
 
@@ -3547,7 +3547,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO8gdLatnGbyA2CmF"></span>` `<span id="//apple_ref/swift/Element/gdLatnGb" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO8gdLatnGbyA2CmF" class="token"><code>gdLatnGb</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO8gdLatnGbyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-gdLatnGb" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO8gdLatnGbyA2CmF" class="token"><code>gdLatnGb</code></a> 
 
   </div>
 
@@ -3591,7 +3591,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO8srCyrlBayA2CmF"></span>` `<span id="//apple_ref/swift/Element/srCyrlBa" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO8srCyrlBayA2CmF" class="token"><code>srCyrlBa</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO8srCyrlBayA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-srCyrlBa" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO8srCyrlBayA2CmF" class="token"><code>srCyrlBa</code></a> 
 
   </div>
 
@@ -3635,7 +3635,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO8srCyrlRsyA2CmF"></span>` `<span id="//apple_ref/swift/Element/srCyrlRs" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO8srCyrlRsyA2CmF" class="token"><code>srCyrlRs</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO8srCyrlRsyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-srCyrlRs" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO8srCyrlRsyA2CmF" class="token"><code>srCyrlRs</code></a> 
 
   </div>
 
@@ -3679,7 +3679,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO8srLatnRsyA2CmF"></span>` `<span id="//apple_ref/swift/Element/srLatnRs" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO8srLatnRsyA2CmF" class="token"><code>srLatnRs</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO8srLatnRsyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-srLatnRs" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO8srLatnRsyA2CmF" class="token"><code>srLatnRs</code></a> 
 
   </div>
 
@@ -3723,7 +3723,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO5nsoZayA2CmF"></span>` `<span id="//apple_ref/swift/Element/nsoZa" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO5nsoZayA2CmF" class="token"><code>nsoZa</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO5nsoZayA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-nsoZa" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO5nsoZayA2CmF" class="token"><code>nsoZa</code></a> 
 
   </div>
 
@@ -3767,7 +3767,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO2tnyA2CmF"></span>` `<span id="//apple_ref/swift/Element/tn" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO2tnyA2CmF" class="token"><code>tn</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO2tnyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-tn" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO2tnyA2CmF" class="token"><code>tn</code></a> 
 
   </div>
 
@@ -3811,7 +3811,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO6sdArabyA2CmF"></span>` `<span id="//apple_ref/swift/Element/sdArab" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO6sdArabyA2CmF" class="token"><code>sdArab</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO6sdArabyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-sdArab" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO6sdArabyA2CmF" class="token"><code>sdArab</code></a> 
 
   </div>
 
@@ -3855,7 +3855,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO4siLkyA2CmF"></span>` `<span id="//apple_ref/swift/Element/siLk" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO4siLkyA2CmF" class="token"><code>siLk</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO4siLkyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-siLk" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO4siLkyA2CmF" class="token"><code>siLk</code></a> 
 
   </div>
 
@@ -3899,7 +3899,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO4skSkyA2CmF"></span>` `<span id="//apple_ref/swift/Element/skSk" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO4skSkyA2CmF" class="token"><code>skSk</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO4skSkyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-skSk" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO4skSkyA2CmF" class="token"><code>skSk</code></a> 
 
   </div>
 
@@ -3943,7 +3943,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO4slSiyA2CmF"></span>` `<span id="//apple_ref/swift/Element/slSi" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO4slSiyA2CmF" class="token"><code>slSi</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO4slSiyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-slSi" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO4slSiyA2CmF" class="token"><code>slSi</code></a> 
 
   </div>
 
@@ -3987,7 +3987,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO4esAryA2CmF"></span>` `<span id="//apple_ref/swift/Element/esAr" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO4esAryA2CmF" class="token"><code>esAr</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO4esAryA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-esAr" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO4esAryA2CmF" class="token"><code>esAr</code></a> 
 
   </div>
 
@@ -4031,7 +4031,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO4esMxyA2CmF"></span>` `<span id="//apple_ref/swift/Element/esMx" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO4esMxyA2CmF" class="token"><code>esMx</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO4esMxyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-esMx" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO4esMxyA2CmF" class="token"><code>esMx</code></a> 
 
   </div>
 
@@ -4075,7 +4075,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO4esEsyA2CmF"></span>` `<span id="//apple_ref/swift/Element/esEs" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO4esEsyA2CmF" class="token"><code>esEs</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO4esEsyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-esEs" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO4esEsyA2CmF" class="token"><code>esEs</code></a> 
 
   </div>
 
@@ -4119,7 +4119,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO4svSeyA2CmF"></span>` `<span id="//apple_ref/swift/Element/svSe" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO4svSeyA2CmF" class="token"><code>svSe</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO4svSeyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-svSe" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO4svSeyA2CmF" class="token"><code>svSe</code></a> 
 
   </div>
 
@@ -4163,7 +4163,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO8tgCyrlTjyA2CmF"></span>` `<span id="//apple_ref/swift/Element/tgCyrlTj" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO8tgCyrlTjyA2CmF" class="token"><code>tgCyrlTj</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO8tgCyrlTjyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-tgCyrlTj" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO8tgCyrlTjyA2CmF" class="token"><code>tgCyrlTj</code></a> 
 
   </div>
 
@@ -4207,7 +4207,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO2tayA2CmF"></span>` `<span id="//apple_ref/swift/Element/ta" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO2tayA2CmF" class="token"><code>ta</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO2tayA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-ta" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO2tayA2CmF" class="token"><code>ta</code></a> 
 
   </div>
 
@@ -4251,7 +4251,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO8ttCyrlRuyA2CmF"></span>` `<span id="//apple_ref/swift/Element/ttCyrlRu" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO8ttCyrlRuyA2CmF" class="token"><code>ttCyrlRu</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO8ttCyrlRuyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-ttCyrlRu" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO8ttCyrlRuyA2CmF" class="token"><code>ttCyrlRu</code></a> 
 
   </div>
 
@@ -4295,7 +4295,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO4teInyA2CmF"></span>` `<span id="//apple_ref/swift/Element/teIn" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO4teInyA2CmF" class="token"><code>teIn</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO4teInyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-teIn" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO4teInyA2CmF" class="token"><code>teIn</code></a> 
 
   </div>
 
@@ -4339,7 +4339,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO4thThyA2CmF"></span>` `<span id="//apple_ref/swift/Element/thTh" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO4thThyA2CmF" class="token"><code>thTh</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO4thThyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-thTh" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO4thThyA2CmF" class="token"><code>thTh</code></a> 
 
   </div>
 
@@ -4383,7 +4383,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO4tiEtyA2CmF"></span>` `<span id="//apple_ref/swift/Element/tiEt" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO4tiEtyA2CmF" class="token"><code>tiEt</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO4tiEtyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-tiEt" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO4tiEtyA2CmF" class="token"><code>tiEt</code></a> 
 
   </div>
 
@@ -4427,7 +4427,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO4trTryA2CmF"></span>` `<span id="//apple_ref/swift/Element/trTr" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO4trTryA2CmF" class="token"><code>trTr</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO4trTryA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-trTr" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO4trTryA2CmF" class="token"><code>trTr</code></a> 
 
   </div>
 
@@ -4471,7 +4471,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO8tkLatnTmyA2CmF"></span>` `<span id="//apple_ref/swift/Element/tkLatnTm" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO8tkLatnTmyA2CmF" class="token"><code>tkLatnTm</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO8tkLatnTmyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-tkLatnTm" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO8tkLatnTmyA2CmF" class="token"><code>tkLatnTm</code></a> 
 
   </div>
 
@@ -4515,7 +4515,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO4ukUayA2CmF"></span>` `<span id="//apple_ref/swift/Element/ukUa" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO4ukUayA2CmF" class="token"><code>ukUa</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO4ukUayA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-ukUa" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO4ukUayA2CmF" class="token"><code>ukUa</code></a> 
 
   </div>
 
@@ -4559,7 +4559,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO2uryA2CmF"></span>` `<span id="//apple_ref/swift/Element/ur" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO2uryA2CmF" class="token"><code>ur</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO2uryA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-ur" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO2uryA2CmF" class="token"><code>ur</code></a> 
 
   </div>
 
@@ -4603,7 +4603,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO6ugArabyA2CmF"></span>` `<span id="//apple_ref/swift/Element/ugArab" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO6ugArabyA2CmF" class="token"><code>ugArab</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO6ugArabyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-ugArab" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO6ugArabyA2CmF" class="token"><code>ugArab</code></a> 
 
   </div>
 
@@ -4647,7 +4647,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO8uzCyrlUzyA2CmF"></span>` `<span id="//apple_ref/swift/Element/uzCyrlUz" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO8uzCyrlUzyA2CmF" class="token"><code>uzCyrlUz</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO8uzCyrlUzyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-uzCyrlUz" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO8uzCyrlUzyA2CmF" class="token"><code>uzCyrlUz</code></a> 
 
   </div>
 
@@ -4691,7 +4691,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO8uzLatnUzyA2CmF"></span>` `<span id="//apple_ref/swift/Element/uzLatnUz" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO8uzLatnUzyA2CmF" class="token"><code>uzLatnUz</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO8uzLatnUzyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-uzLatnUz" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO8uzLatnUzyA2CmF" class="token"><code>uzLatnUz</code></a> 
 
   </div>
 
@@ -4735,7 +4735,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO5catEsyA2CmF"></span>` `<span id="//apple_ref/swift/Element/catEs" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO5catEsyA2CmF" class="token"><code>catEs</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO5catEsyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-catEs" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO5catEsyA2CmF" class="token"><code>catEs</code></a> 
 
   </div>
 
@@ -4779,7 +4779,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO4viVnyA2CmF"></span>` `<span id="//apple_ref/swift/Element/viVn" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO4viVnyA2CmF" class="token"><code>viVn</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO4viVnyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-viVn" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO4viVnyA2CmF" class="token"><code>viVn</code></a> 
 
   </div>
 
@@ -4823,7 +4823,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO4cyGbyA2CmF"></span>` `<span id="//apple_ref/swift/Element/cyGb" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO4cyGbyA2CmF" class="token"><code>cyGb</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO4cyGbyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-cyGb" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO4cyGbyA2CmF" class="token"><code>cyGb</code></a> 
 
   </div>
 
@@ -4867,7 +4867,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO6woLatnyA2CmF"></span>` `<span id="//apple_ref/swift/Element/woLatn" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO6woLatnyA2CmF" class="token"><code>woLatn</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO6woLatnyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-woLatn" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO6woLatnyA2CmF" class="token"><code>woLatn</code></a> 
 
   </div>
 
@@ -4911,7 +4911,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO6yoLatnyA2CmF"></span>` `<span id="//apple_ref/swift/Element/yoLatn" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO6yoLatnyA2CmF" class="token"><code>yoLatn</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12LanguageCodeO6yoLatnyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-yoLatn" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO6yoLatnyA2CmF" class="token"><code>yoLatn</code></a> 
 
   </div>
 

@@ -27,7 +27,7 @@ Represents data used to request the list of preferred SIDs.
 
 - <div>
 
-  ` `<span id="/s:7heresdk23TMCPreferredSidsRequestV11countryCodes5UInt8Vvp"></span>` `<span id="//apple_ref/swift/Property/countryCode" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-tmcpreferredsidsrequest#/s:7heresdk23TMCPreferredSidsRequestV11countryCodes5UInt8Vvp" class="token"><code>countryCode</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk23TMCPreferredSidsRequestV11countryCodes5UInt8Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-countryCode" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-tmcpreferredsidsrequest#sdk-for-ios-navigate-s-7heresdk23TMCPreferredSidsRequestV11countryCodes5UInt8Vvp" class="token"><code>countryCode</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Represents data used to request the list of preferred SIDs.
 
 - <div>
 
-  ` `<span id="/s:7heresdk23TMCPreferredSidsRequestV3ltns5UInt8Vvp"></span>` `<span id="//apple_ref/swift/Property/ltn" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-tmcpreferredsidsrequest#/s:7heresdk23TMCPreferredSidsRequestV3ltns5UInt8Vvp" class="token"><code>ltn</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk23TMCPreferredSidsRequestV3ltns5UInt8Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-ltn" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-tmcpreferredsidsrequest#sdk-for-ios-navigate-s-7heresdk23TMCPreferredSidsRequestV3ltns5UInt8Vvp" class="token"><code>ltn</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Represents data used to request the list of preferred SIDs.
 
 - <div>
 
-      init(countryCode: ltn: )
+   <span id="sdk-for-ios-navigate-s-7heresdk23TMCPreferredSidsRequestV11countryCode3ltnACs5UInt8V_AGtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-countryCode-ltn" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-tmcpreferredsidsrequest#sdk-for-ios-navigate-s-7heresdk23TMCPreferredSidsRequestV11countryCode3ltnACs5UInt8V_AGtcfc" class="token"><code>init(countryCode:</code><wbr></wbr><code>ltn:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -146,10 +146,8 @@ Represents data used to request the list of preferred SIDs.
   Swift
 
   ``` highlight
-  public init ( countryCode : UInt8 , ltn : UInt8 )
+  public init(countryCode: UInt8, ltn: UInt8)
   ```
-
-  </pre>
 
   </div>
 

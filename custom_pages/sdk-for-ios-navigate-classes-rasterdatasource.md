@@ -28,10 +28,16 @@ extension RasterDataSource: Hashable
 Data source to load map layers using a raster image format (jpg, png). The example below illustrates how to create a raster data source and how to link it to a newly created map layer.
 
 ``` highlight
-let rasterDataSource = RasterDataSource ( mapContext , rasterDataSourceConfig ) let layer = MapLayerBuilder () // The name and the type of the data source have to be provided. // In our case, the name of the raster data source is in rasterDataSourceConfig. . withDataSource ( named : rasterDataSourceConfig . name , contentType : MapContentType . rasterImage ) . forMap ( map ) . withName ( "rasterLayer" ) . build ();
-```
+  let rasterDataSource = RasterDataSource(mapContext, rasterDataSourceConfig)
 
-</pre>
+  let layer = MapLayerBuilder()
+     // The name and the type of the data source have to be provided.
+     // In our case, the name of the raster data source is in rasterDataSourceConfig.
+     .withDataSource(named: rasterDataSourceConfig.name, contentType: MapContentType.rasterImage)
+     .forMap(map)
+     .withName("rasterLayer")
+     .build();
+```
 
 </div>
 
@@ -41,7 +47,7 @@ let rasterDataSource = RasterDataSource ( mapContext , rasterDataSourceConfig ) 
 
 - <div>
 
-      init(context: configuration: )
+   <span id="sdk-for-ios-navigate-s-7heresdk16RasterDataSourceC7context13configurationAcA10MapContextC_AA0bcD13ConfigurationVtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-context-configuration" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-rasterdatasource#sdk-for-ios-navigate-s-7heresdk16RasterDataSourceC7context13configurationAcA10MapContextC_AA0bcD13ConfigurationVtcfc" class="token"><code>init(context:</code><wbr></wbr><code>configuration:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -72,12 +78,15 @@ let rasterDataSource = RasterDataSource ( mapContext , rasterDataSourceConfig ) 
   Swift
 
   ``` highlight
-  public init ( context : MapContext , configuration : RasterDataSourceConfiguration )
+  public init(context: MapContext, configuration: RasterDataSourceConfiguration)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mapcontext">MapContext</a>
+  - <a href="sdk-for-ios-navigate-structs-rasterdatasourceconfiguration">RasterDataSourceConfiguration</a>
 
   </div>
 
@@ -114,7 +123,7 @@ let rasterDataSource = RasterDataSource ( mapContext , rasterDataSourceConfig ) 
 
 - <div>
 
-      init(context: configuration: delegate: )
+   <span id="sdk-for-ios-navigate-s-7heresdk16RasterDataSourceC7context13configuration8delegateAcA10MapContextC_AA0bcD13ConfigurationVAA0bcD8Delegate_ptcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-context-configuration-delegate" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-rasterdatasource#sdk-for-ios-navigate-s-7heresdk16RasterDataSourceC7context13configuration8delegateAcA10MapContextC_AA0bcD13ConfigurationVAA0bcD8Delegate_ptcfc" class="token"><code>init(context:</code><wbr></wbr><code>configuration:</code><wbr></wbr><code>delegate:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -145,12 +154,16 @@ let rasterDataSource = RasterDataSource ( mapContext , rasterDataSourceConfig ) 
   Swift
 
   ``` highlight
-  public init ( context : MapContext , configuration : RasterDataSourceConfiguration , delegate : RasterDataSourceDelegate )
+  public init(context: MapContext, configuration: RasterDataSourceConfiguration, delegate: RasterDataSourceDelegate)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mapcontext">MapContext</a>
+  - <a href="sdk-for-ios-navigate-structs-rasterdatasourceconfiguration">RasterDataSourceConfiguration</a>
+  - <a href="sdk-for-ios-navigate-protocols-rasterdatasourcedelegate">RasterDataSourceDelegate</a>
 
   </div>
 
@@ -193,7 +206,7 @@ let rasterDataSource = RasterDataSource ( mapContext , rasterDataSourceConfig ) 
 
 - <div>
 
-      init(context: name: tileSource: )
+   <span id="sdk-for-ios-navigate-s-7heresdk16RasterDataSourceC7context4name04tileD0AcA10MapContextC_SSAA0b4TileD0_ptcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-context-name-tileSource" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-rasterdatasource#sdk-for-ios-navigate-s-7heresdk16RasterDataSourceC7context4name04tileD0AcA10MapContextC_SSAA0b4TileD0_ptcfc" class="token"><code>init(context:</code><wbr></wbr><code>name:</code><wbr></wbr><code>tileSource:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -224,12 +237,15 @@ let rasterDataSource = RasterDataSource ( mapContext , rasterDataSourceConfig ) 
   Swift
 
   ``` highlight
-  public init ( context : MapContext , name : String , tileSource : RasterTileSource )
+  public init(context: MapContext, name: String, tileSource: RasterTileSource)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mapcontext">MapContext</a>
+  - <a href="sdk-for-ios-navigate-protocols-rastertilesource">RasterTileSource</a>
 
   </div>
 
@@ -272,7 +288,7 @@ let rasterDataSource = RasterDataSource ( mapContext , rasterDataSourceConfig ) 
 
 - <div>
 
-      init(context: name: tileSource: delegate: )
+   <span id="sdk-for-ios-navigate-s-7heresdk16RasterDataSourceC7context4name04tileD08delegateAcA10MapContextC_SSAA0b4TileD0_pAA0bcD8Delegate_ptcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-context-name-tileSource-delegate" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-rasterdatasource#sdk-for-ios-navigate-s-7heresdk16RasterDataSourceC7context4name04tileD08delegateAcA10MapContextC_SSAA0b4TileD0_pAA0bcD8Delegate_ptcfc" class="token"><code>init(context:</code><wbr></wbr><code>name:</code><wbr></wbr><code>tileSource:</code><wbr></wbr><code>delegate:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -303,12 +319,16 @@ let rasterDataSource = RasterDataSource ( mapContext , rasterDataSourceConfig ) 
   Swift
 
   ``` highlight
-  public init ( context : MapContext , name : String , tileSource : RasterTileSource , delegate : RasterDataSourceDelegate )
+  public init(context: MapContext, name: String, tileSource: RasterTileSource, delegate: RasterDataSourceDelegate)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mapcontext">MapContext</a>
+  - <a href="sdk-for-ios-navigate-protocols-rastertilesource">RasterTileSource</a>
+  - <a href="sdk-for-ios-navigate-protocols-rasterdatasourcedelegate">RasterDataSourceDelegate</a>
 
   </div>
 
@@ -357,7 +377,7 @@ let rasterDataSource = RasterDataSource ( mapContext , rasterDataSourceConfig ) 
 
 - <div>
 
-      changeConfiguration(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk16RasterDataSourceC19changeConfigurationyyAA0bcdF6UpdateVF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-changeConfiguration-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-rasterdatasource#sdk-for-ios-navigate-s-7heresdk16RasterDataSourceC19changeConfigurationyyAA0bcdF6UpdateVF" class="token"><code>changeConfiguration(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -388,12 +408,14 @@ let rasterDataSource = RasterDataSource ( mapContext , rasterDataSourceConfig ) 
   Swift
 
   ``` highlight
-  public func changeConfiguration ( _ configuration : RasterDataSourceConfigurationUpdate )
+  public func changeConfiguration(_ configuration: RasterDataSourceConfigurationUpdate)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-rasterdatasourceconfigurationupdate">RasterDataSourceConfigurationUpdate</a>
 
   </div>
 
@@ -424,7 +446,7 @@ let rasterDataSource = RasterDataSource ( mapContext , rasterDataSourceConfig ) 
 
 - <div>
 
-      addDelegate(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk16RasterDataSourceC11addDelegateyyAA0bcdF0_pF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-addDelegate-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-rasterdatasource#sdk-for-ios-navigate-s-7heresdk16RasterDataSourceC11addDelegateyyAA0bcdF0_pF" class="token"><code>addDelegate(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -442,12 +464,7 @@ let rasterDataSource = RasterDataSource ( mapContext , rasterDataSourceConfig ) 
 
   <div class="abstract">
 
-  Add delegate for receiving state notifications. The new delegate is appended to the set of data source delegates as a strong reference and will receive only the notifications occurring after the registration. Caller is responsible for releasing the strong reference by calling
-
-      RasterDataSource.removeDelegate(...)
-
-  .
-  </p>
+  Add delegate for receiving state notifications. The new delegate is appended to the set of data source delegates as a strong reference and will receive only the notifications occurring after the registration. Caller is responsible for releasing the strong reference by calling <a href="sdk-for-ios-navigate-classes-rasterdatasource#sdk-for-ios-navigate-s-7heresdk16RasterDataSourceC14removeDelegateyyAA0bcdF0_pF">`RasterDataSource.removeDelegate(...)`</a>.
 
   </div>
 
@@ -460,12 +477,14 @@ let rasterDataSource = RasterDataSource ( mapContext , rasterDataSourceConfig ) 
   Swift
 
   ``` highlight
-  public func addDelegate ( _ listener : RasterDataSourceDelegate )
+  public func addDelegate(_ listener: RasterDataSourceDelegate)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-protocols-rasterdatasourcedelegate">RasterDataSourceDelegate</a>
 
   </div>
 
@@ -496,7 +515,7 @@ let rasterDataSource = RasterDataSource ( mapContext , rasterDataSourceConfig ) 
 
 - <div>
 
-      removeDelegate(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk16RasterDataSourceC14removeDelegateyyAA0bcdF0_pF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-removeDelegate-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-rasterdatasource#sdk-for-ios-navigate-s-7heresdk16RasterDataSourceC14removeDelegateyyAA0bcdF0_pF" class="token"><code>removeDelegate(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -527,12 +546,14 @@ let rasterDataSource = RasterDataSource ( mapContext , rasterDataSourceConfig ) 
   Swift
 
   ``` highlight
-  public func removeDelegate ( _ listener : RasterDataSourceDelegate )
+  public func removeDelegate(_ listener: RasterDataSourceDelegate)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-protocols-rasterdatasourcedelegate">RasterDataSourceDelegate</a>
 
   </div>
 
@@ -563,7 +584,7 @@ let rasterDataSource = RasterDataSource ( mapContext , rasterDataSourceConfig ) 
 
 - <div>
 
-      removeDelegates()
+   <span id="sdk-for-ios-navigate-s-7heresdk16RasterDataSourceC15removeDelegatesyyF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-removeDelegates" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-rasterdatasource#sdk-for-ios-navigate-s-7heresdk16RasterDataSourceC15removeDelegatesyyF" class="token"><code>removeDelegates()</code></a> 
 
   </div>
 
@@ -594,10 +615,8 @@ let rasterDataSource = RasterDataSource ( mapContext , rasterDataSourceConfig ) 
   Swift
 
   ``` highlight
-  public func removeDelegates ()
+  public func removeDelegates()
   ```
-
-  </pre>
 
   </div>
 

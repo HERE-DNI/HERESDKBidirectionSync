@@ -27,7 +27,7 @@ A struct which identifies the configuration when downloading a file reference.
 
 - <div>
 
-  ` `<span id="/s:7heresdk22DownloadingFileOptionsV17areReusableAssetsSbvp"></span>` `<span id="//apple_ref/swift/Property/areReusableAssets" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-downloadingfileoptions#/s:7heresdk22DownloadingFileOptionsV17areReusableAssetsSbvp" class="token"><code>areReusableAssets</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk22DownloadingFileOptionsV17areReusableAssetsSbvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-areReusableAssets" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-downloadingfileoptions#sdk-for-ios-explore-s-7heresdk22DownloadingFileOptionsV17areReusableAssetsSbvp" class="token"><code>areReusableAssets</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ A struct which identifies the configuration when downloading a file reference.
 
 - <div>
 
-      init(areReusableAssets: )
+   <span id="sdk-for-ios-explore-s-7heresdk22DownloadingFileOptionsV17areReusableAssetsACSb_tcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-areReusableAssets" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-downloadingfileoptions#sdk-for-ios-explore-s-7heresdk22DownloadingFileOptionsV17areReusableAssetsACSb_tcfc" class="token"><code>init(areReusableAssets:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -102,10 +102,8 @@ A struct which identifies the configuration when downloading a file reference.
   Swift
 
   ``` highlight
-  public init ( areReusableAssets : Bool )
+  public init(areReusableAssets: Bool)
   ```
-
-  </pre>
 
   </div>
 

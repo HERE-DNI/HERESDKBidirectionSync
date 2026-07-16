@@ -35,7 +35,7 @@ An update that can be applied to the map camera. Creation is done via <a href="s
 
 - <div>
 
-  ` `<span id="/s:7heresdk15MapCameraUpdateC18InstantiationErrora"></span>` `<span id="//apple_ref/swift/Alias/InstantiationError" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-mapcameraupdate#/s:7heresdk15MapCameraUpdateC18InstantiationErrora" class="token"><code>InstantiationError</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15MapCameraUpdateC18InstantiationErrora"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Alias-InstantiationError" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapcameraupdate#sdk-for-ios-explore-s-7heresdk15MapCameraUpdateC18InstantiationErrora" class="token"><code>InstantiationError</code></a> 
 
   </div>
 
@@ -71,6 +71,10 @@ An update that can be applied to the map camera. Creation is done via <a href="s
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-mapcameraupdate-instantiationerrorcode">InstantiationErrorCode</a>
+
   </div>
 
   </div>
@@ -79,7 +83,7 @@ An update that can be applied to the map camera. Creation is done via <a href="s
 
 - <div>
 
-  ` `<span id="/s:7heresdk15MapCameraUpdateC22InstantiationErrorCodeO"></span>` `<span id="//apple_ref/swift/Enum/InstantiationErrorCode" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-mapcameraupdate#/s:7heresdk15MapCameraUpdateC22InstantiationErrorCodeO" class="token"><code>InstantiationErrorCode</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15MapCameraUpdateC22InstantiationErrorCodeO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-InstantiationErrorCode" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapcameraupdate#sdk-for-ios-explore-s-7heresdk15MapCameraUpdateC22InstantiationErrorCodeO" class="token"><code>InstantiationErrorCode</code></a> 
 
   </div>
 
@@ -120,6 +124,10 @@ An update that can be applied to the map camera. Creation is done via <a href="s
   ```
 
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-mapcameraupdate">MapCameraUpdate</a>
 
   </div>
 

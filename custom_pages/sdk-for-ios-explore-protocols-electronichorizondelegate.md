@@ -17,12 +17,7 @@ public protocol ElectronicHorizonDelegate : AnyObject
 
 </div>
 
-Provides a delegate for receiving updates during execution of the
-
-    ElectronicHorizonEngine.update(...)
-
-method.
-</p>
+Provides a delegate for receiving updates during execution of the <a href="sdk-for-ios-explore-classes-electronichorizonengine#sdk-for-ios-explore-s-7heresdk23ElectronicHorizonEngineC6update18mapMatchedLocationyAA03MapgH0V_tF">`ElectronicHorizonEngine.update(...)`</a> method.
 
 **Note:** This is a beta release of this feature, so there could be a few bugs and unexpected behaviors. Related APIs may change for new releases without a deprecation process.
 
@@ -36,7 +31,7 @@ Offline availability: This property is available online and offline.
 
 - <div>
 
-      onElectronicHorizonUpdated(errorCode: update: )
+   <span id="sdk-for-ios-explore-s-7heresdk25ElectronicHorizonDelegateP02onbC7Updated9errorCode6updateyAA0bc5ErrorH0OSg_AA0bC6UpdateVSgtF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-onElectronicHorizonUpdated-errorCode-update" class="dashAnchor"></span> <a href="sdk-for-ios-explore-protocols-electronichorizondelegate#sdk-for-ios-explore-s-7heresdk25ElectronicHorizonDelegateP02onbC7Updated9errorCode6updateyAA0bc5ErrorH0OSg_AA0bC6UpdateVSgtF" class="token"><code>onElectronicHorizonUpdated(errorCode:</code><wbr></wbr><code>update:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -72,12 +67,15 @@ Offline availability: This property is available online and offline.
   Swift
 
   ``` highlight
-  func onElectronicHorizonUpdated ( errorCode : ElectronicHorizonErrorCode ?, update : ElectronicHorizonUpdate ?)
+  func onElectronicHorizonUpdated(errorCode: ElectronicHorizonErrorCode?, update: ElectronicHorizonUpdate?)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-electronichorizonerrorcode">ElectronicHorizonErrorCode</a>
+  - <a href="sdk-for-ios-explore-structs-electronichorizonupdate">ElectronicHorizonUpdate</a>
 
   </div>
 

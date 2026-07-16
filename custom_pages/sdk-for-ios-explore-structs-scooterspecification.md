@@ -27,7 +27,7 @@ Scooter specific settings.
 
 - <div>
 
-  ` `<span id="/s:7heresdk20ScooterSpecificationV05allowB9OnHighwaySbvp"></span>` `<span id="//apple_ref/swift/Property/allowScooterOnHighway" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-scooterspecification#/s:7heresdk20ScooterSpecificationV05allowB9OnHighwaySbvp" class="token"><code>allowScooterOnHighway</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk20ScooterSpecificationV05allowB9OnHighwaySbvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-allowScooterOnHighway" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-scooterspecification#sdk-for-ios-explore-s-7heresdk20ScooterSpecificationV05allowB9OnHighwaySbvp" class="token"><code>allowScooterOnHighway</code></a> 
 
   </div>
 
@@ -79,7 +79,7 @@ Scooter specific settings.
 
 - <div>
 
-      init(allowScooterOnHighway: )
+   <span id="sdk-for-ios-explore-s-7heresdk20ScooterSpecificationV05allowB9OnHighwayACSb_tcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-allowScooterOnHighway" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-scooterspecification#sdk-for-ios-explore-s-7heresdk20ScooterSpecificationV05allowB9OnHighwayACSb_tcfc" class="token"><code>init(allowScooterOnHighway:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -122,10 +122,8 @@ Scooter specific settings.
   Swift
 
   ``` highlight
-  public init ( allowScooterOnHighway : Bool = false )
+  public init(allowScooterOnHighway: Bool = false)
   ```
-
-  </pre>
 
   </div>
 

@@ -27,7 +27,7 @@ Asset types for loading icons.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21IconProviderAssetTypeO2uiyA2CmF"></span>` `<span id="//apple_ref/swift/Element/ui" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-iconproviderassettype#/s:7heresdk21IconProviderAssetTypeO2uiyA2CmF" class="token"><code>ui</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk21IconProviderAssetTypeO2uiyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-ui" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-iconproviderassettype#sdk-for-ios-explore-s-7heresdk21IconProviderAssetTypeO2uiyA2CmF" class="token"><code>ui</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Asset types for loading icons.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21IconProviderAssetTypeO3mapyA2CmF"></span>` `<span id="//apple_ref/swift/Element/map" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-iconproviderassettype#/s:7heresdk21IconProviderAssetTypeO3mapyA2CmF" class="token"><code>map</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk21IconProviderAssetTypeO3mapyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-map" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-iconproviderassettype#sdk-for-ios-explore-s-7heresdk21IconProviderAssetTypeO3mapyA2CmF" class="token"><code>map</code></a> 
 
   </div>
 

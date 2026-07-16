@@ -41,7 +41,7 @@ The graphics backend to be used by the engine can be choosen by the user or a pl
 
 - <div>
 
-  ` `<span id="/s:7heresdk10MapContextC43SetMemoryManagementOptionsCompletionHandlera"></span>` `<span id="//apple_ref/swift/Alias/SetMemoryManagementOptionsCompletionHandler" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapcontext#/s:7heresdk10MapContextC43SetMemoryManagementOptionsCompletionHandlera" class="token"><code>SetMemoryManagementOptionsCompletionHandler</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10MapContextC43SetMemoryManagementOptionsCompletionHandlera"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Alias-SetMemoryManagementOptionsCompletionHandler" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapcontext#sdk-for-ios-navigate-s-7heresdk10MapContextC43SetMemoryManagementOptionsCompletionHandlera" class="token"><code>SetMemoryManagementOptionsCompletionHandler</code></a> 
 
   </div>
 
@@ -74,12 +74,14 @@ The graphics backend to be used by the engine can be choosen by the user or a pl
   Swift
 
   ``` highlight
-  public typealias SetMemoryManagementOptionsCompletionHandler = ( _ result : MapContext . MemoryManagementResult ) -> Void
+  public typealias SetMemoryManagementOptionsCompletionHandler = (_ result: MapContext.MemoryManagementResult) -> Void
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mapcontext-memorymanagementresult">MemoryManagementResult</a>
 
   </div>
 
@@ -110,7 +112,7 @@ The graphics backend to be used by the engine can be choosen by the user or a pl
 
 - <div>
 
-  ` `<span id="/s:7heresdk10MapContextC24MemoryManagementStrategyO"></span>` `<span id="//apple_ref/swift/Enum/MemoryManagementStrategy" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapcontext#/s:7heresdk10MapContextC24MemoryManagementStrategyO" class="token"><code>MemoryManagementStrategy</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10MapContextC24MemoryManagementStrategyO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-MemoryManagementStrategy" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapcontext#sdk-for-ios-navigate-s-7heresdk10MapContextC24MemoryManagementStrategyO" class="token"><code>MemoryManagementStrategy</code></a> 
 
   </div>
 
@@ -156,7 +158,7 @@ The graphics backend to be used by the engine can be choosen by the user or a pl
 
 - <div>
 
-  ` `<span id="/s:7heresdk10MapContextC26MemoryManagementResultCodeO"></span>` `<span id="//apple_ref/swift/Enum/MemoryManagementResultCode" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapcontext#/s:7heresdk10MapContextC26MemoryManagementResultCodeO" class="token"><code>MemoryManagementResultCode</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10MapContextC26MemoryManagementResultCodeO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-MemoryManagementResultCode" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapcontext#sdk-for-ios-navigate-s-7heresdk10MapContextC26MemoryManagementResultCodeO" class="token"><code>MemoryManagementResultCode</code></a> 
 
   </div>
 
@@ -204,7 +206,7 @@ The graphics backend to be used by the engine can be choosen by the user or a pl
 
 - <div>
 
-  ` `<span id="/s:7heresdk10MapContextC12ResourceTypeO"></span>` `<span id="//apple_ref/swift/Enum/ResourceType" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapcontext#/s:7heresdk10MapContextC12ResourceTypeO" class="token"><code>ResourceType</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10MapContextC12ResourceTypeO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-ResourceType" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapcontext#sdk-for-ios-navigate-s-7heresdk10MapContextC12ResourceTypeO" class="token"><code>ResourceType</code></a> 
 
   </div>
 
@@ -250,7 +252,7 @@ The graphics backend to be used by the engine can be choosen by the user or a pl
 
 - <div>
 
-  ` `<span id="/s:7heresdk10MapContextC20FreeResourceSeverityO"></span>` `<span id="//apple_ref/swift/Enum/FreeResourceSeverity" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapcontext#/s:7heresdk10MapContextC20FreeResourceSeverityO" class="token"><code>FreeResourceSeverity</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10MapContextC20FreeResourceSeverityO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-FreeResourceSeverity" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapcontext#sdk-for-ios-navigate-s-7heresdk10MapContextC20FreeResourceSeverityO" class="token"><code>FreeResourceSeverity</code></a> 
 
   </div>
 
@@ -296,7 +298,7 @@ The graphics backend to be used by the engine can be choosen by the user or a pl
 
 - <div>
 
-  ` `<span id="/s:7heresdk10MapContextC22MemoryManagementResultV"></span>` `<span id="//apple_ref/swift/Struct/MemoryManagementResult" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapcontext#/s:7heresdk10MapContextC22MemoryManagementResultV" class="token"><code>MemoryManagementResult</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10MapContextC22MemoryManagementResultV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-MemoryManagementResult" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapcontext#sdk-for-ios-navigate-s-7heresdk10MapContextC22MemoryManagementResultV" class="token"><code>MemoryManagementResult</code></a> 
 
   </div>
 
@@ -344,7 +346,7 @@ The graphics backend to be used by the engine can be choosen by the user or a pl
 
 - <div>
 
-  ` `<span id="/s:7heresdk10MapContextC23MemoryManagementOptionsV"></span>` `<span id="//apple_ref/swift/Struct/MemoryManagementOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapcontext#/s:7heresdk10MapContextC23MemoryManagementOptionsV" class="token"><code>MemoryManagementOptions</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10MapContextC23MemoryManagementOptionsV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-MemoryManagementOptions" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapcontext#sdk-for-ios-navigate-s-7heresdk10MapContextC23MemoryManagementOptionsV" class="token"><code>MemoryManagementOptions</code></a> 
 
   </div>
 
@@ -392,7 +394,7 @@ The graphics backend to be used by the engine can be choosen by the user or a pl
 
 - <div>
 
-      freeResource(type: severity: )
+   <span id="sdk-for-ios-navigate-s-7heresdk10MapContextC12freeResource4type8severityyAC0E4TypeO_AC04FreeE8SeverityOtF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-freeResource-type-severity" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapcontext#sdk-for-ios-navigate-s-7heresdk10MapContextC12freeResource4type8severityyAC0E4TypeO_AC04FreeE8SeverityOtF" class="token"><code>freeResource(type:</code><wbr></wbr><code>severity:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -423,12 +425,15 @@ The graphics backend to be used by the engine can be choosen by the user or a pl
   Swift
 
   ``` highlight
-  public func freeResource ( type : MapContext . ResourceType , severity : MapContext . FreeResourceSeverity )
+  public func freeResource(type: MapContext.ResourceType, severity: MapContext.FreeResourceSeverity)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mapcontext-resourcetype">ResourceType</a>
+  - <a href="sdk-for-ios-navigate-classes-mapcontext-freeresourceseverity">FreeResourceSeverity</a>
 
   </div>
 
@@ -465,7 +470,7 @@ The graphics backend to be used by the engine can be choosen by the user or a pl
 
 - <div>
 
-      getMemoryManagementOptions()
+   <span id="sdk-for-ios-navigate-s-7heresdk10MapContextC26getMemoryManagementOptionsAC0efG0VyF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-getMemoryManagementOptions" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapcontext#sdk-for-ios-navigate-s-7heresdk10MapContextC26getMemoryManagementOptionsAC0efG0VyF" class="token"><code>getMemoryManagementOptions()</code></a> 
 
   </div>
 
@@ -494,12 +499,14 @@ The graphics backend to be used by the engine can be choosen by the user or a pl
   Swift
 
   ``` highlight
-  public func getMemoryManagementOptions () -> MapContext . MemoryManagementOptions
+  public func getMemoryManagementOptions() -> MapContext.MemoryManagementOptions
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mapcontext-memorymanagementoptions">MemoryManagementOptions</a>
 
   </div>
 
@@ -519,7 +526,7 @@ The graphics backend to be used by the engine can be choosen by the user or a pl
 
 - <div>
 
-      setMemoryManagementOptions(_: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk10MapContextC26setMemoryManagementOptions_10completionyAC0efG0V_yAC0eF6ResultVcSgtF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-setMemoryManagementOptions-_-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapcontext#sdk-for-ios-navigate-s-7heresdk10MapContextC26setMemoryManagementOptions_10completionyAC0efG0V_yAC0eF6ResultVcSgtF" class="token"><code>setMemoryManagementOptions(_:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -552,12 +559,15 @@ The graphics backend to be used by the engine can be choosen by the user or a pl
   Swift
 
   ``` highlight
-  public func setMemoryManagementOptions ( _ memoryManagementOptions : MapContext . MemoryManagementOptions , completion : MapContext . SetMemoryManagementOptionsCompletionHandler ?)
+  public func setMemoryManagementOptions(_ memoryManagementOptions: MapContext.MemoryManagementOptions, completion: MapContext.SetMemoryManagementOptionsCompletionHandler?)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mapcontext-memorymanagementoptions">MemoryManagementOptions</a>
+  - <a href="sdk-for-ios-navigate-classes-mapcontext#sdk-for-ios-navigate-s-7heresdk10MapContextC43SetMemoryManagementOptionsCompletionHandlera">SetMemoryManagementOptionsCompletionHandler</a>
 
   </div>
 

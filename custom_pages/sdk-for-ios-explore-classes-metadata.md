@@ -35,7 +35,7 @@ Holds metadata on behalf of a map item. An instance of this class can contain me
 
 - <div>
 
-      init()
+   <span id="sdk-for-ios-explore-s-7heresdk8MetadataCACycfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-metadata#sdk-for-ios-explore-s-7heresdk8MetadataCACycfc" class="token"><code>init()</code></a> 
 
   </div>
 
@@ -66,10 +66,8 @@ Holds metadata on behalf of a map item. An instance of this class can contain me
   Swift
 
   ``` highlight
-  public init ()
+  public init()
   ```
-
-  </pre>
 
   </div>
 
@@ -81,7 +79,7 @@ Holds metadata on behalf of a map item. An instance of this class can contain me
 
 - <div>
 
-      getCustomValue(key: )
+   <span id="sdk-for-ios-explore-s-7heresdk8MetadataC14getCustomValue3keyAA0dbE0_pSgSS_tF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-getCustomValue-key" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-metadata#sdk-for-ios-explore-s-7heresdk8MetadataC14getCustomValue3keyAA0dbE0_pSgSS_tF" class="token"><code>getCustomValue(key:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -112,12 +110,14 @@ Holds metadata on behalf of a map item. An instance of this class can contain me
   Swift
 
   ``` highlight
-  public func getCustomValue ( key : String ) -> CustomMetadataValue ?
+  public func getCustomValue(key: String) -> CustomMetadataValue?
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-protocols-custommetadatavalue">CustomMetadataValue</a>
 
   </div>
 
@@ -156,7 +156,7 @@ Holds metadata on behalf of a map item. An instance of this class can contain me
 
 - <div>
 
-      getDouble(key: )
+   <span id="sdk-for-ios-explore-s-7heresdk8MetadataC9getDouble3keySdSgSS_tF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-getDouble-key" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-metadata#sdk-for-ios-explore-s-7heresdk8MetadataC9getDouble3keySdSgSS_tF" class="token"><code>getDouble(key:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -187,10 +187,8 @@ Holds metadata on behalf of a map item. An instance of this class can contain me
   Swift
 
   ``` highlight
-  public func getDouble ( key : String ) -> Double ?
+  public func getDouble(key: String) -> Double?
   ```
-
-  </pre>
 
   </div>
 
@@ -231,7 +229,7 @@ Holds metadata on behalf of a map item. An instance of this class can contain me
 
 - <div>
 
-      getGeoCoordinates(key: )
+   <span id="sdk-for-ios-explore-s-7heresdk8MetadataC17getGeoCoordinates3keyAA0dE0VSgSS_tF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-getGeoCoordinates-key" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-metadata#sdk-for-ios-explore-s-7heresdk8MetadataC17getGeoCoordinates3keyAA0dE0VSgSS_tF" class="token"><code>getGeoCoordinates(key:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -262,12 +260,14 @@ Holds metadata on behalf of a map item. An instance of this class can contain me
   Swift
 
   ``` highlight
-  public func getGeoCoordinates ( key : String ) -> GeoCoordinates ?
+  public func getGeoCoordinates(key: String) -> GeoCoordinates?
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geocoordinates">GeoCoordinates</a>
 
   </div>
 
@@ -306,7 +306,7 @@ Holds metadata on behalf of a map item. An instance of this class can contain me
 
 - <div>
 
-      getInteger(key: )
+   <span id="sdk-for-ios-explore-s-7heresdk8MetadataC10getInteger3keys5Int32VSgSS_tF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-getInteger-key" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-metadata#sdk-for-ios-explore-s-7heresdk8MetadataC10getInteger3keys5Int32VSgSS_tF" class="token"><code>getInteger(key:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -337,10 +337,8 @@ Holds metadata on behalf of a map item. An instance of this class can contain me
   Swift
 
   ``` highlight
-  public func getInteger ( key : String ) -> Int32 ?
+  public func getInteger(key: String) -> Int32?
   ```
-
-  </pre>
 
   </div>
 
@@ -381,7 +379,7 @@ Holds metadata on behalf of a map item. An instance of this class can contain me
 
 - <div>
 
-      getString(key: )
+   <span id="sdk-for-ios-explore-s-7heresdk8MetadataC9getString3keySSSgSS_tF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-getString-key" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-metadata#sdk-for-ios-explore-s-7heresdk8MetadataC9getString3keySSSgSS_tF" class="token"><code>getString(key:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -412,10 +410,8 @@ Holds metadata on behalf of a map item. An instance of this class can contain me
   Swift
 
   ``` highlight
-  public func getString ( key : String ) -> String ?
+  public func getString(key: String) -> String?
   ```
-
-  </pre>
 
   </div>
 
@@ -456,7 +452,7 @@ Holds metadata on behalf of a map item. An instance of this class can contain me
 
 - <div>
 
-      getType(key: )
+   <span id="sdk-for-ios-explore-s-7heresdk8MetadataC7getType3keyAA0bD0OSgSS_tF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-getType-key" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-metadata#sdk-for-ios-explore-s-7heresdk8MetadataC7getType3keyAA0bD0OSgSS_tF" class="token"><code>getType(key:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -487,12 +483,14 @@ Holds metadata on behalf of a map item. An instance of this class can contain me
   Swift
 
   ``` highlight
-  public func getType ( key : String ) -> MetadataType ?
+  public func getType(key: String) -> MetadataType?
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-metadatatype">MetadataType</a>
 
   </div>
 
@@ -531,7 +529,7 @@ Holds metadata on behalf of a map item. An instance of this class can contain me
 
 - <div>
 
-      removeValue(key: )
+   <span id="sdk-for-ios-explore-s-7heresdk8MetadataC11removeValue3keyySS_tF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-removeValue-key" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-metadata#sdk-for-ios-explore-s-7heresdk8MetadataC11removeValue3keyySS_tF" class="token"><code>removeValue(key:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -562,10 +560,8 @@ Holds metadata on behalf of a map item. An instance of this class can contain me
   Swift
 
   ``` highlight
-  public func removeValue ( key : String )
+  public func removeValue(key: String)
   ```
-
-  </pre>
 
   </div>
 
@@ -598,7 +594,7 @@ Holds metadata on behalf of a map item. An instance of this class can contain me
 
 - <div>
 
-      setCustomValue(key: value: )
+   <span id="sdk-for-ios-explore-s-7heresdk8MetadataC14setCustomValue3key5valueySS_AA0dbE0_ptF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-setCustomValue-key-value" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-metadata#sdk-for-ios-explore-s-7heresdk8MetadataC14setCustomValue3key5valueySS_AA0dbE0_ptF" class="token"><code>setCustomValue(key:</code><wbr></wbr><code>value:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -629,12 +625,14 @@ Holds metadata on behalf of a map item. An instance of this class can contain me
   Swift
 
   ``` highlight
-  public func setCustomValue ( key : String , value : CustomMetadataValue )
+  public func setCustomValue(key: String, value: CustomMetadataValue)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-protocols-custommetadatavalue">CustomMetadataValue</a>
 
   </div>
 
@@ -671,7 +669,7 @@ Holds metadata on behalf of a map item. An instance of this class can contain me
 
 - <div>
 
-      setDouble(key: value: )
+   <span id="sdk-for-ios-explore-s-7heresdk8MetadataC9setDouble3key5valueySS_SdtF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-setDouble-key-value" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-metadata#sdk-for-ios-explore-s-7heresdk8MetadataC9setDouble3key5valueySS_SdtF" class="token"><code>setDouble(key:</code><wbr></wbr><code>value:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -702,10 +700,8 @@ Holds metadata on behalf of a map item. An instance of this class can contain me
   Swift
 
   ``` highlight
-  public func setDouble ( key : String , value : Double )
+  public func setDouble(key: String, value: Double)
   ```
-
-  </pre>
 
   </div>
 
@@ -744,7 +740,7 @@ Holds metadata on behalf of a map item. An instance of this class can contain me
 
 - <div>
 
-      setGeoCoordinates(key: value: )
+   <span id="sdk-for-ios-explore-s-7heresdk8MetadataC17setGeoCoordinates3key5valueySS_AA0dE0VtF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-setGeoCoordinates-key-value" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-metadata#sdk-for-ios-explore-s-7heresdk8MetadataC17setGeoCoordinates3key5valueySS_AA0dE0VtF" class="token"><code>setGeoCoordinates(key:</code><wbr></wbr><code>value:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -775,12 +771,14 @@ Holds metadata on behalf of a map item. An instance of this class can contain me
   Swift
 
   ``` highlight
-  public func setGeoCoordinates ( key : String , value : GeoCoordinates )
+  public func setGeoCoordinates(key: String, value: GeoCoordinates)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geocoordinates">GeoCoordinates</a>
 
   </div>
 
@@ -817,7 +815,7 @@ Holds metadata on behalf of a map item. An instance of this class can contain me
 
 - <div>
 
-      setInteger(key: value: )
+   <span id="sdk-for-ios-explore-s-7heresdk8MetadataC10setInteger3key5valueySS_s5Int32VtF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-setInteger-key-value" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-metadata#sdk-for-ios-explore-s-7heresdk8MetadataC10setInteger3key5valueySS_s5Int32VtF" class="token"><code>setInteger(key:</code><wbr></wbr><code>value:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -848,10 +846,8 @@ Holds metadata on behalf of a map item. An instance of this class can contain me
   Swift
 
   ``` highlight
-  public func setInteger ( key : String , value : Int32 )
+  public func setInteger(key: String, value: Int32)
   ```
-
-  </pre>
 
   </div>
 
@@ -890,7 +886,7 @@ Holds metadata on behalf of a map item. An instance of this class can contain me
 
 - <div>
 
-      setString(key: value: )
+   <span id="sdk-for-ios-explore-s-7heresdk8MetadataC9setString3key5valueySS_SStF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-setString-key-value" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-metadata#sdk-for-ios-explore-s-7heresdk8MetadataC9setString3key5valueySS_SStF" class="token"><code>setString(key:</code><wbr></wbr><code>value:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -921,10 +917,8 @@ Holds metadata on behalf of a map item. An instance of this class can contain me
   Swift
 
   ``` highlight
-  public func setString ( key : String , value : String )
+  public func setString(key: String, value: String)
   ```
-
-  </pre>
 
   </div>
 

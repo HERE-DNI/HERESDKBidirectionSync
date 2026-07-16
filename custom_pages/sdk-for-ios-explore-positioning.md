@@ -13,7 +13,7 @@ slug: "sdk-for-ios-explore-positioning"
 
 - <div>
 
-  ` `<span id="/s:7heresdk18AuthenticationDataV"></span>` `<span id="//apple_ref/swift/Struct/AuthenticationData" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-positioning#/s:7heresdk18AuthenticationDataV" class="token"><code>AuthenticationData</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18AuthenticationDataV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-AuthenticationData" class="dashAnchor"></span> <a href="sdk-for-ios-explore-positioning#sdk-for-ios-explore-s-7heresdk18AuthenticationDataV" class="token"><code>AuthenticationData</code></a> 
 
   </div>
 
@@ -59,7 +59,7 @@ slug: "sdk-for-ios-explore-positioning"
 
 - <div>
 
-  ` `<span id="/s:7heresdk19AuthenticationErrorO"></span>` `<span id="//apple_ref/swift/Enum/AuthenticationError" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-positioning#/s:7heresdk19AuthenticationErrorO" class="token"><code>AuthenticationError</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19AuthenticationErrorO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-AuthenticationError" class="dashAnchor"></span> <a href="sdk-for-ios-explore-positioning#sdk-for-ios-explore-s-7heresdk19AuthenticationErrorO" class="token"><code>AuthenticationError</code></a> 
 
   </div>
 
@@ -109,7 +109,7 @@ slug: "sdk-for-ios-explore-positioning"
 
 - <div>
 
-  ` `<span id="/s:7heresdk18ConfirmationStatusO"></span>` `<span id="//apple_ref/swift/Enum/ConfirmationStatus" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-positioning#/s:7heresdk18ConfirmationStatusO" class="token"><code>ConfirmationStatus</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18ConfirmationStatusO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-ConfirmationStatus" class="dashAnchor"></span> <a href="sdk-for-ios-explore-positioning#sdk-for-ios-explore-s-7heresdk18ConfirmationStatusO" class="token"><code>ConfirmationStatus</code></a> 
 
   </div>
 
@@ -155,7 +155,7 @@ slug: "sdk-for-ios-explore-positioning"
 
 - <div>
 
-  ` `<span id="/s:7heresdk16LocationAccuracyO"></span>` `<span id="//apple_ref/swift/Enum/LocationAccuracy" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-positioning#/s:7heresdk16LocationAccuracyO" class="token"><code>LocationAccuracy</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16LocationAccuracyO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-LocationAccuracy" class="dashAnchor"></span> <a href="sdk-for-ios-explore-positioning#sdk-for-ios-explore-s-7heresdk16LocationAccuracyO" class="token"><code>LocationAccuracy</code></a> 
 
   </div>
 
@@ -201,7 +201,7 @@ slug: "sdk-for-ios-explore-positioning"
 
 - <div>
 
-  ` `<span id="/s:7heresdk18LocationEngineBaseP"></span>` `<span id="//apple_ref/swift/Protocol/LocationEngineBase" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-positioning#/s:7heresdk18LocationEngineBaseP" class="token"><code>LocationEngineBase</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18LocationEngineBaseP"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Protocol-LocationEngineBase" class="dashAnchor"></span> <a href="sdk-for-ios-explore-positioning#sdk-for-ios-explore-s-7heresdk18LocationEngineBaseP" class="token"><code>LocationEngineBase</code></a> 
 
   </div>
 
@@ -247,7 +247,7 @@ slug: "sdk-for-ios-explore-positioning"
 
 - <div>
 
-  ` `<span id="/s:7heresdk20LocationEngineStatusO"></span>` `<span id="//apple_ref/swift/Enum/LocationEngineStatus" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-positioning#/s:7heresdk20LocationEngineStatusO" class="token"><code>LocationEngineStatus</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk20LocationEngineStatusO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-LocationEngineStatus" class="dashAnchor"></span> <a href="sdk-for-ios-explore-positioning#sdk-for-ios-explore-s-7heresdk20LocationEngineStatusO" class="token"><code>LocationEngineStatus</code></a> 
 
   </div>
 
@@ -293,7 +293,7 @@ slug: "sdk-for-ios-explore-positioning"
 
 - <div>
 
-  ` `<span id="/s:7heresdk15LocationFeatureO"></span>` `<span id="//apple_ref/swift/Enum/LocationFeature" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-positioning#/s:7heresdk15LocationFeatureO" class="token"><code>LocationFeature</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15LocationFeatureO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-LocationFeature" class="dashAnchor"></span> <a href="sdk-for-ios-explore-positioning#sdk-for-ios-explore-s-7heresdk15LocationFeatureO" class="token"><code>LocationFeature</code></a> 
 
   </div>
 
@@ -339,7 +339,7 @@ slug: "sdk-for-ios-explore-positioning"
 
 - <div>
 
-  ` `<span id="/s:7heresdk14LocationEngineC"></span>` `<span id="//apple_ref/swift/Class/LocationEngine" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-positioning#/s:7heresdk14LocationEngineC" class="token"><code>LocationEngine</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14LocationEngineC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-LocationEngine" class="dashAnchor"></span> <a href="sdk-for-ios-explore-positioning#sdk-for-ios-explore-s-7heresdk14LocationEngineC" class="token"><code>LocationEngine</code></a> 
 
   </div>
 
@@ -377,6 +377,10 @@ slug: "sdk-for-ios-explore-positioning"
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-protocols-locationenginebase">LocationEngineBase</a>
+
   </div>
 
   </div>
@@ -385,7 +389,7 @@ slug: "sdk-for-ios-explore-positioning"
 
 - <div>
 
-  ` `<span id="/s:7heresdk17LocationSimulatorC"></span>` `<span id="//apple_ref/swift/Class/LocationSimulator" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-positioning#/s:7heresdk17LocationSimulatorC" class="token"><code>LocationSimulator</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17LocationSimulatorC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-LocationSimulator" class="dashAnchor"></span> <a href="sdk-for-ios-explore-positioning#sdk-for-ios-explore-s-7heresdk17LocationSimulatorC" class="token"><code>LocationSimulator</code></a> 
 
   </div>
 
@@ -449,7 +453,7 @@ slug: "sdk-for-ios-explore-positioning"
 
 - <div>
 
-  ` `<span id="/s:7heresdk24LocationSimulatorOptionsV"></span>` `<span id="//apple_ref/swift/Struct/LocationSimulatorOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-positioning#/s:7heresdk24LocationSimulatorOptionsV" class="token"><code>LocationSimulatorOptions</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk24LocationSimulatorOptionsV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-LocationSimulatorOptions" class="dashAnchor"></span> <a href="sdk-for-ios-explore-positioning#sdk-for-ios-explore-s-7heresdk24LocationSimulatorOptionsV" class="token"><code>LocationSimulatorOptions</code></a> 
 
   </div>
 
@@ -495,7 +499,7 @@ slug: "sdk-for-ios-explore-positioning"
 
 - <div>
 
-  ` `<span id="/s:7heresdk22LocationStatusDelegateP"></span>` `<span id="//apple_ref/swift/Protocol/LocationStatusDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-positioning#/s:7heresdk22LocationStatusDelegateP" class="token"><code>LocationStatusDelegate</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk22LocationStatusDelegateP"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Protocol-LocationStatusDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-explore-positioning#sdk-for-ios-explore-s-7heresdk22LocationStatusDelegateP" class="token"><code>LocationStatusDelegate</code></a> 
 
   </div>
 

@@ -27,7 +27,7 @@ The structure below exactly match the corresponding gRPC PemKeyCertPair structur
 
 - <div>
 
-  ` `<span id="/s:7heresdk14PemKeyCertPairV07privateC0SSvp"></span>` `<span id="//apple_ref/swift/Property/privateKey" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-pemkeycertpair#/s:7heresdk14PemKeyCertPairV07privateC0SSvp" class="token"><code>privateKey</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14PemKeyCertPairV07privateC0SSvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-privateKey" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-pemkeycertpair#sdk-for-ios-explore-s-7heresdk14PemKeyCertPairV07privateC0SSvp" class="token"><code>privateKey</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ The structure below exactly match the corresponding gRPC PemKeyCertPair structur
 
 - <div>
 
-  ` `<span id="/s:7heresdk14PemKeyCertPairV9certChainSSvp"></span>` `<span id="//apple_ref/swift/Property/certChain" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-pemkeycertpair#/s:7heresdk14PemKeyCertPairV9certChainSSvp" class="token"><code>certChain</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14PemKeyCertPairV9certChainSSvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-certChain" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-pemkeycertpair#sdk-for-ios-explore-s-7heresdk14PemKeyCertPairV9certChainSSvp" class="token"><code>certChain</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ The structure below exactly match the corresponding gRPC PemKeyCertPair structur
 
 - <div>
 
-      init(privateKey: certChain: )
+   <span id="sdk-for-ios-explore-s-7heresdk14PemKeyCertPairV07privateC09certChainACSS_SStcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-privateKey-certChain" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-pemkeycertpair#sdk-for-ios-explore-s-7heresdk14PemKeyCertPairV07privateC09certChainACSS_SStcfc" class="token"><code>init(privateKey:</code><wbr></wbr><code>certChain:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -146,10 +146,8 @@ The structure below exactly match the corresponding gRPC PemKeyCertPair structur
   Swift
 
   ``` highlight
-  public init ( privateKey : String , certChain : String )
+  public init(privateKey: String, certChain: String)
   ```
-
-  </pre>
 
   </div>
 

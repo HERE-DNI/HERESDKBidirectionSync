@@ -19,6 +19,11 @@ extension MapPolyline.Representation.InstantiationErrorCode : Error
 
 </div>
 
+Related types:
+
+- <a href="sdk-for-ios-explore-classes-mappolyline">MapPolyline</a>
+- <a href="sdk-for-ios-explore-classes-mappolyline-representation">Representation</a>
+
 </div>
 
 Describes a reason for failing to create a <a href="sdk-for-ios-explore-classes-mappolyline-representation">`MapPolyline.Representation`</a>.
@@ -31,7 +36,7 @@ Describes a reason for failing to create a <a href="sdk-for-ios-explore-classes-
 
 - <div>
 
-  ` `<span id="/s:7heresdk11MapPolylineC14RepresentationC22InstantiationErrorCodeO16illegalArgumentsyA2GmF"></span>` `<span id="//apple_ref/swift/Element/illegalArguments" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-mappolyline-representation-instantiationerrorcode#/s:7heresdk11MapPolylineC14RepresentationC22InstantiationErrorCodeO16illegalArgumentsyA2GmF" class="token"><code>illegalArguments</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11MapPolylineC14RepresentationC22InstantiationErrorCodeO16illegalArgumentsyA2GmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-illegalArguments" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mappolyline-representation-instantiationerrorcode#sdk-for-ios-explore-s-7heresdk11MapPolylineC14RepresentationC22InstantiationErrorCodeO16illegalArgumentsyA2GmF" class="token"><code>illegalArguments</code></a> 
 
   </div>
 

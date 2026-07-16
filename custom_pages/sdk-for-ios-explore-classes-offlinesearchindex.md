@@ -12,11 +12,11 @@ slug: "sdk-for-ios-explore-classes-offlinesearchindex"
 - <a href="sdk-for-ios-explore-classes-angle">Angle</a>
 - <a href="sdk-for-ios-explore-structs-anglerange">AngleRange</a>
 - <a href="sdk-for-ios-explore-classes-authentication">Authentication</a>
-- <a href="sdk-for-ios-explore-core#/s:7heresdk31AuthenticationCompletionHandlera">AuthenticationCompletionHandler</a>
-- <a href="sdk-for-ios-explore-core#/s:7heresdk23AuthenticationExceptiona">AuthenticationException</a>
+- <a href="sdk-for-ios-explore-core#sdk-for-ios-explore-s-7heresdk31AuthenticationCompletionHandlera">AuthenticationCompletionHandler</a>
+- <a href="sdk-for-ios-explore-core#sdk-for-ios-explore-s-7heresdk23AuthenticationExceptiona">AuthenticationException</a>
 - <a href="sdk-for-ios-explore-classes-authenticationmode">AuthenticationMode</a>
 - <a href="sdk-for-ios-explore-structs-brandlogo">BrandLogo</a>
-- <a href="sdk-for-ios-explore-core#/s:7heresdk30CacheCallbackCompletionHandlera">CacheCallbackCompletionHandler</a>
+- <a href="sdk-for-ios-explore-core#sdk-for-ios-explore-s-7heresdk30CacheCallbackCompletionHandlera">CacheCallbackCompletionHandler</a>
 - <a href="sdk-for-ios-explore-enums-cardinaldirection">CardinalDirection</a>
 - <a href="sdk-for-ios-explore-structs-catalogconfiguration">CatalogConfiguration</a>
 - <a href="sdk-for-ios-explore-structs-catalogidentifier">CatalogIdentifier</a>
@@ -28,7 +28,7 @@ slug: "sdk-for-ios-explore-classes-offlinesearchindex"
 - <a href="sdk-for-ios-explore-enums-currenttype">CurrentType</a>
 - <a href="sdk-for-ios-explore-protocols-custommetadatavalue">CustomMetadataValue</a>
 - <a href="sdk-for-ios-explore-structs-desiredcatalog">DesiredCatalog</a>
-- <a href="sdk-for-ios-explore-core#/s:7heresdk14DeviceIdHandlea">DeviceIdHandle</a>
+- <a href="sdk-for-ios-explore-core#sdk-for-ios-explore-s-7heresdk14DeviceIdHandlea">DeviceIdHandle</a>
 - <a href="sdk-for-ios-explore-enums-enginebaseurl">EngineBaseURL</a>
 - <a href="sdk-for-ios-explore-structs-engineoptions">EngineOptions</a>
 - <a href="sdk-for-ios-explore-structs-externalid">ExternalID</a>
@@ -42,7 +42,7 @@ slug: "sdk-for-ios-explore-classes-offlinesearchindex"
 - <a href="sdk-for-ios-explore-structs-geopolygon">GeoPolygon</a>
 - <a href="sdk-for-ios-explore-structs-geopolyline">GeoPolyline</a>
 - <a href="sdk-for-ios-explore-enums-geopolylinedirection">GeoPolylineDirection</a>
-- <a href="sdk-for-ios-explore-core#/s:7heresdk18InstantiationErrora">InstantiationError</a>
+- <a href="sdk-for-ios-explore-core#sdk-for-ios-explore-s-7heresdk18InstantiationErrora">InstantiationError</a>
 - <a href="sdk-for-ios-explore-enums-instantiationerrorcode">InstantiationErrorCode</a>
 - <a href="sdk-for-ios-explore-structs-integerrange">IntegerRange</a>
 - <a href="sdk-for-ios-explore-enums-junctionstraversability">JunctionsTraversability</a>
@@ -74,7 +74,7 @@ slug: "sdk-for-ios-explore-classes-offlinesearchindex"
 - <a href="sdk-for-ios-explore-protocols-platformthreading">PlatformThreading</a>
 - <a href="sdk-for-ios-explore-structs-point2d">Point2D</a>
 - <a href="sdk-for-ios-explore-structs-point3d">Point3D</a>
-- <a href="sdk-for-ios-explore-core#/s:7heresdk39PolylineSimplificationCompletionHandlera">PolylineSimplificationCompletionHandler</a>
+- <a href="sdk-for-ios-explore-core#sdk-for-ios-explore-s-7heresdk39PolylineSimplificationCompletionHandlera">PolylineSimplificationCompletionHandler</a>
 - <a href="sdk-for-ios-explore-enums-polylinesimplificationerror">PolylineSimplificationError</a>
 - <a href="sdk-for-ios-explore-classes-polylinesimplifier">PolylineSimplifier</a>
 - <a href="sdk-for-ios-explore-classes-polylinesimplifier-options">– Options</a>
@@ -90,12 +90,12 @@ slug: "sdk-for-ios-explore-classes-offlinesearchindex"
 - <a href="sdk-for-ios-explore-classes-sdklogger">SDKLogger</a>
 - <a href="sdk-for-ios-explore-classes-sdknativeengine">SDKNativeEngine</a>
 - <a href="sdk-for-ios-explore-classes-sdknativeengine-purgememorystrategy">– PurgeMemoryStrategy</a>
-- <a href="sdk-for-ios-explore-core#/c:@M@heresdk@objc(cs">SDKNativeEngineHolder</a>SDKNativeEngineHolder)
+- <a href="sdk-for-ios-explore-core#sdk-for-ios-explore-c-M-heresdk-objc-csSDKNativeEngineHolder">SDKNativeEngineHolder</a>
 - <a href="sdk-for-ios-explore-structs-sdkoptions">SDKOptions</a>
 - <a href="sdk-for-ios-explore-structs-sdkversion">SDKVersion</a>
 - <a href="sdk-for-ios-explore-structs-size2d">Size2D</a>
-- <a href="sdk-for-ios-explore-core#/s:SS">String</a>
-- <a href="sdk-for-ios-explore-core#/s:7heresdk21TaskCompletionHandlera">TaskCompletionHandler</a>
+- <a href="sdk-for-ios-explore-core#sdk-for-ios-explore-s-SS">String</a>
+- <a href="sdk-for-ios-explore-core#sdk-for-ios-explore-s-7heresdk21TaskCompletionHandlera">TaskCompletionHandler</a>
 - <a href="sdk-for-ios-explore-protocols-taskhandle">TaskHandle</a>
 - <a href="sdk-for-ios-explore-enums-taskoutcome">TaskOutcome</a>
 - <a href="sdk-for-ios-explore-classes-threading">Threading</a>
@@ -155,7 +155,7 @@ slug: "sdk-for-ios-explore-classes-offlinesearchindex"
 - <a href="sdk-for-ios-explore-enums-headlightsrequirement">HeadlightsRequirement</a>
 - <a href="sdk-for-ios-explore-structs-laneattribute">LaneAttribute</a>
 - <a href="sdk-for-ios-explore-enums-localroadcharacteristic">LocalRoadCharacteristic</a>
-- <a href="sdk-for-ios-explore-mapdata#/s:7heresdk18MapDataLoaderErrora">MapDataLoaderError</a>
+- <a href="sdk-for-ios-explore-mapdata#sdk-for-ios-explore-s-7heresdk18MapDataLoaderErrora">MapDataLoaderError</a>
 - <a href="sdk-for-ios-explore-enums-mapdataloadererrorcode">MapDataLoaderErrorCode</a>
 - <a href="sdk-for-ios-explore-structs-ocmsegmentid">OCMSegmentId</a>
 - <a href="sdk-for-ios-explore-enums-parkingsideregulation">ParkingSideRegulation</a>
@@ -185,47 +185,47 @@ slug: "sdk-for-ios-explore-classes-offlinesearchindex"
 - <a href="sdk-for-ios-explore-enums-turnonredregulation">TurnOnRedRegulation</a>
 - <a href="sdk-for-ios-explore-maploader">MapLoader</a>
 - <a href="sdk-for-ios-explore-structs-catalogupdateinfo">CatalogUpdateInfo</a>
-- <a href="sdk-for-ios-explore-maploader#/s:7heresdk26CatalogsUpdateInfoCallbacka">CatalogsUpdateInfoCallback</a>
+- <a href="sdk-for-ios-explore-maploader#sdk-for-ios-explore-s-7heresdk26CatalogsUpdateInfoCallbacka">CatalogsUpdateInfoCallback</a>
 - <a href="sdk-for-ios-explore-protocols-catalogupdateprogresslistener">CatalogUpdateProgressListener</a>
 - <a href="sdk-for-ios-explore-enums-catalogupdatestate">CatalogUpdateState</a>
 - <a href="sdk-for-ios-explore-enums-clientcertificaterequesttype">ClientCertificateRequestType</a>
-- <a href="sdk-for-ios-explore-maploader#/s:7heresdk17CompletionHandlera">CompletionHandler</a>
-- <a href="sdk-for-ios-explore-maploader#/s:7heresdk25ConfigureConnectionHandlea">ConfigureConnectionHandle</a>
+- <a href="sdk-for-ios-explore-maploader#sdk-for-ios-explore-s-7heresdk17CompletionHandlera">CompletionHandler</a>
+- <a href="sdk-for-ios-explore-maploader#sdk-for-ios-explore-s-7heresdk25ConfigureConnectionHandlea">ConfigureConnectionHandle</a>
 - <a href="sdk-for-ios-explore-protocols-dataattributesbase">DataAttributesBase</a>
-- <a href="sdk-for-ios-explore-maploader#/s:7heresdk30DeleteRegionsCompletionHandlera">DeleteRegionsCompletionHandler</a>
+- <a href="sdk-for-ios-explore-maploader#sdk-for-ios-explore-s-7heresdk30DeleteRegionsCompletionHandlera">DeleteRegionsCompletionHandler</a>
 - <a href="sdk-for-ios-explore-protocols-downloadregionsstatuslistener">DownloadRegionsStatusListener</a>
 - <a href="sdk-for-ios-explore-classes-externalmapdatasourceclient">ExternalMapDataSourceClient</a>
 - <a href="sdk-for-ios-explore-enums-externalmapdatasourceerrorcode">ExternalMapDataSourceErrorCode</a>
-- <a href="sdk-for-ios-explore-maploader#/s:7heresdk35ExternalMapDataSourceExceptionErrora">ExternalMapDataSourceExceptionError</a>
+- <a href="sdk-for-ios-explore-maploader#sdk-for-ios-explore-s-7heresdk35ExternalMapDataSourceExceptionErrora">ExternalMapDataSourceExceptionError</a>
 - <a href="sdk-for-ios-explore-classes-externalmapdatasourceserver">ExternalMapDataSourceServer</a>
 - <a href="sdk-for-ios-explore-structs-installedcatalog">InstalledCatalog</a>
 - <a href="sdk-for-ios-explore-structs-installedregion">InstalledRegion</a>
 - <a href="sdk-for-ios-explore-enums-installedregionstatus">InstalledRegionStatus</a>
-- <a href="sdk-for-ios-explore-maploader#/s:7heresdk8LineDataC">LineData</a>
+- <a href="sdk-for-ios-explore-maploader#sdk-for-ios-explore-s-7heresdk8LineDataC">LineData</a>
 - <a href="sdk-for-ios-explore-classes-linedataaccessor">LineDataAccessor</a>
 - <a href="sdk-for-ios-explore-classes-linedatabuilder">LineDataBuilder</a>
 - <a href="sdk-for-ios-explore-classes-linedatasource">LineDataSource</a>
 - <a href="sdk-for-ios-explore-classes-linedatasourcebuilder">LineDataSourceBuilder</a>
 - <a href="sdk-for-ios-explore-enums-maploadererror">MapLoaderError</a>
 - <a href="sdk-for-ios-explore-classes-mapdownloader">MapDownloader</a>
-- <a href="sdk-for-ios-explore-maploader#/s:7heresdk31MapDownloaderConstructionHandlea">MapDownloaderConstructionHandle</a>
-- <a href="sdk-for-ios-explore-maploader#/s:7heresdk18MapLoaderExceptiona">MapLoaderException</a>
+- <a href="sdk-for-ios-explore-maploader#sdk-for-ios-explore-s-7heresdk31MapDownloaderConstructionHandlea">MapDownloaderConstructionHandle</a>
+- <a href="sdk-for-ios-explore-maploader#sdk-for-ios-explore-s-7heresdk18MapLoaderExceptiona">MapLoaderException</a>
 - <a href="sdk-for-ios-explore-classes-mapdownloadertask">MapDownloaderTask</a>
 - <a href="sdk-for-ios-explore-protocols-mapupdateprogresslistener">MapUpdateProgressListener</a>
 - <a href="sdk-for-ios-explore-classes-mapupdater">MapUpdater</a>
 - <a href="sdk-for-ios-explore-classes-mapupdater-mapupdateversioncommitpolicy">– MapUpdateVersionCommitPolicy</a>
-- <a href="sdk-for-ios-explore-maploader#/s:7heresdk29MapUpdaterConstructionHandlera">MapUpdaterConstructionHandler</a>
+- <a href="sdk-for-ios-explore-maploader#sdk-for-ios-explore-s-7heresdk29MapUpdaterConstructionHandlera">MapUpdaterConstructionHandler</a>
 - <a href="sdk-for-ios-explore-classes-mapupdatetask">MapUpdateTask</a>
 - <a href="sdk-for-ios-explore-classes-mapversionhandle">MapVersionHandle</a>
 - <a href="sdk-for-ios-explore-enums-navigabilitytype">NavigabilityType</a>
-- <a href="sdk-for-ios-explore-maploader#/s:7heresdk25OfflineStorageSizeHandlera">OfflineStorageSizeHandler</a>
-- <a href="sdk-for-ios-explore-maploader#/s:7heresdk23RepairCompletionHandlera">RepairCompletionHandler</a>
+- <a href="sdk-for-ios-explore-maploader#sdk-for-ios-explore-s-7heresdk25OfflineStorageSizeHandlera">OfflineStorageSizeHandler</a>
+- <a href="sdk-for-ios-explore-maploader#sdk-for-ios-explore-s-7heresdk23RepairCompletionHandlera">RepairCompletionHandler</a>
 - <a href="sdk-for-ios-explore-structs-pemkeycertpair">PemKeyCertPair</a>
 - <a href="sdk-for-ios-explore-enums-persistentmaprepairerror">PersistentMapRepairError</a>
 - <a href="sdk-for-ios-explore-enums-persistentmapstatus">PersistentMapStatus</a>
 - <a href="sdk-for-ios-explore-structs-region">Region</a>
 - <a href="sdk-for-ios-explore-structs-regionid">RegionId</a>
-- <a href="sdk-for-ios-explore-maploader#/s:7heresdk19ServerStartedHandlea">ServerStartedHandle</a>
+- <a href="sdk-for-ios-explore-maploader#sdk-for-ios-explore-s-7heresdk19ServerStartedHandlea">ServerStartedHandle</a>
 - <a href="sdk-for-ios-explore-structs-sslclientcredentialsoptions">SslClientCredentialsOptions</a>
 - <a href="sdk-for-ios-explore-structs-sslservercredentialsoptions">SslServerCredentialsOptions</a>
 - <a href="sdk-for-ios-explore-structs-updatestatistics">UpdateStatistics</a>
@@ -255,7 +255,7 @@ slug: "sdk-for-ios-explore-classes-offlinesearchindex"
 - <a href="sdk-for-ios-explore-classes-heremap">HereMap</a>
 - <a href="sdk-for-ios-explore-classes-iconprovider">IconProvider</a>
 - <a href="sdk-for-ios-explore-enums-iconproviderassettype">IconProviderAssetType</a>
-- <a href="sdk-for-ios-explore-maps#/s:7heresdk20IconProviderCallbacka">IconProviderCallback</a>
+- <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk20IconProviderCallbacka">IconProviderCallback</a>
 - <a href="sdk-for-ios-explore-enums-iconprovidererror">IconProviderError</a>
 - <a href="sdk-for-ios-explore-enums-imageformat">ImageFormat</a>
 - <a href="sdk-for-ios-explore-classes-jsonstylefactory">JsonStyleFactory</a>
@@ -303,12 +303,12 @@ slug: "sdk-for-ios-explore-classes-offlinesearchindex"
 - <a href="sdk-for-ios-explore-classes-mapimageoverlay">MapImageOverlay</a>
 - <a href="sdk-for-ios-explore-classes-mapitemkeyframetrack">MapItemKeyFrameTrack</a>
 - <a href="sdk-for-ios-explore-classes-mapitemkeyframetrack-instantiationerrorcode">– InstantiationErrorCode</a>
-- <a href="sdk-for-ios-explore-maps#/s:7heresdk21MapItemRepresentationC">MapItemRepresentation</a>
+- <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk21MapItemRepresentationC">MapItemRepresentation</a>
 - <a href="sdk-for-ios-explore-classes-maplayer">MapLayer</a>
 - <a href="sdk-for-ios-explore-classes-maplayerbuilder">MapLayerBuilder</a>
 - <a href="sdk-for-ios-explore-classes-maplayerbuilder-instantiationerrorcode">– InstantiationErrorCode</a>
 - <a href="sdk-for-ios-explore-classes-maplayerbuilder-instantiationerrordetails">– InstantiationErrorDetails</a>
-- <a href="sdk-for-ios-explore-maps#/s:7heresdk16MapLayerPriorityC">MapLayerPriority</a>
+- <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk16MapLayerPriorityC">MapLayerPriority</a>
 - <a href="sdk-for-ios-explore-classes-maplayerprioritybuilder">MapLayerPriorityBuilder</a>
 - <a href="sdk-for-ios-explore-classes-maplayermapmeasuredependentstoragelevels">MapLayerMapMeasureDependentStorageLevels</a>
 - <a href="sdk-for-ios-explore-structs-maplayervisibilityrange">MapLayerVisibilityRange</a>
@@ -323,7 +323,7 @@ slug: "sdk-for-ios-explore-classes-offlinesearchindex"
 - <a href="sdk-for-ios-explore-classes-mapscenelights-category">– Category</a>
 - <a href="sdk-for-ios-explore-classes-mapscenelights-attributesettingerror">– AttributeSettingError</a>
 - <a href="sdk-for-ios-explore-classes-mapscenelights-direction">– Direction</a>
-- <a href="sdk-for-ios-explore-maps#/s:7heresdk19MapSceneLoadOptionsC">MapSceneLoadOptions</a>
+- <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk19MapSceneLoadOptionsC">MapSceneLoadOptions</a>
 - <a href="sdk-for-ios-explore-classes-mapsceneloadoptionsbuilder">MapSceneLoadOptionsBuilder</a>
 - <a href="sdk-for-ios-explore-classes-mapsceneloadoptionsbuilder-instantiationerrorcode">– InstantiationErrorCode</a>
 - <a href="sdk-for-ios-explore-classes-mapsceneloadoptionsbuilder-instantiationerrordetails">– InstantiationErrorDetails</a>
@@ -357,7 +357,7 @@ slug: "sdk-for-ios-explore-classes-offlinesearchindex"
 - <a href="sdk-for-ios-explore-protocols-mapviewlifecycledelegate">MapViewLifecycleDelegate</a>
 - <a href="sdk-for-ios-explore-structs-mapviewoptions">MapViewOptions</a>
 - <a href="sdk-for-ios-explore-structs-materialreflectivity">MaterialReflectivity</a>
-- <a href="sdk-for-ios-explore-maps#/s:7heresdk4MeshC">Mesh</a>
+- <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk4MeshC">Mesh</a>
 - <a href="sdk-for-ios-explore-classes-meshbuilder">MeshBuilder</a>
 - <a href="sdk-for-ios-explore-protocols-pandelegate">PanDelegate</a>
 - <a href="sdk-for-ios-explore-classes-pickmapcontentresult">PickMapContentResult</a>
@@ -365,7 +365,7 @@ slug: "sdk-for-ios-explore-classes-offlinesearchindex"
 - <a href="sdk-for-ios-explore-classes-pickmapcontentresult-vehiclerestrictionresult">– VehicleRestrictionResult</a>
 - <a href="sdk-for-ios-explore-classes-pickmapitemsresult">PickMapItemsResult</a>
 - <a href="sdk-for-ios-explore-protocols-pinchrotatedelegate">PinchRotateDelegate</a>
-- <a href="sdk-for-ios-explore-maps#/s:7heresdk9PointDataC">PointData</a>
+- <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk9PointDataC">PointData</a>
 - <a href="sdk-for-ios-explore-classes-pointdataaccessor">PointDataAccessor</a>
 - <a href="sdk-for-ios-explore-classes-pointdatabuilder">PointDataBuilder</a>
 - <a href="sdk-for-ios-explore-classes-pointdatasource">PointDataSource</a>
@@ -374,7 +374,7 @@ slug: "sdk-for-ios-explore-classes-offlinesearchindex"
 - <a href="sdk-for-ios-explore-protocols-pointtilesource">PointTileSource</a>
 - <a href="sdk-for-ios-explore-protocols-pointtilesourceloadresulthandler">PointTileSourceLoadResultHandler</a>
 - <a href="sdk-for-ios-explore-structs-point2dkeyframe">Point2DKeyframe</a>
-- <a href="sdk-for-ios-explore-maps#/s:7heresdk11PolygonDataC">PolygonData</a>
+- <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk11PolygonDataC">PolygonData</a>
 - <a href="sdk-for-ios-explore-classes-polygondataaccessor">PolygonDataAccessor</a>
 - <a href="sdk-for-ios-explore-classes-polygondatabuilder">PolygonDataBuilder</a>
 - <a href="sdk-for-ios-explore-classes-polygondatasource">PolygonDataSource</a>
@@ -408,7 +408,7 @@ slug: "sdk-for-ios-explore-classes-offlinesearchindex"
 - <a href="sdk-for-ios-explore-structs-tilesourcetilemetadata">TileSourceTileMetadata</a>
 - <a href="sdk-for-ios-explore-structs-tilekey">TileKey</a>
 - <a href="sdk-for-ios-explore-classes-tileurlproviderfactory">TileUrlProviderFactory</a>
-- <a href="sdk-for-ios-explore-maps#/s:7heresdk21TileUrlRequestHandlera">TileUrlRequestHandler</a>
+- <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk21TileUrlRequestHandlera">TileUrlRequestHandler</a>
 - <a href="sdk-for-ios-explore-enums-tilingscheme">TilingScheme</a>
 - <a href="sdk-for-ios-explore-classes-translucentmaplayergroup">TranslucentMapLayerGroup</a>
 - <a href="sdk-for-ios-explore-classes-translucentmaplayergroup-errorcode">– ErrorCode</a>
@@ -433,10 +433,10 @@ slug: "sdk-for-ios-explore-classes-offlinesearchindex"
 - <a href="sdk-for-ios-explore-structs-bicycleoptions">BicycleOptions</a>
 - <a href="sdk-for-ios-explore-structs-busoptions">BusOptions</a>
 - <a href="sdk-for-ios-explore-structs-caroptions">CarOptions</a>
-- <a href="sdk-for-ios-explore-routing#/s:7heresdk37CalculateIndoorRouteCompletionHandlera">CalculateIndoorRouteCompletionHandler</a>
-- <a href="sdk-for-ios-explore-routing#/s:7heresdk33CalculateIsolineCompletionHandlera">CalculateIsolineCompletionHandler</a>
-- <a href="sdk-for-ios-explore-routing#/s:7heresdk31CalculateRouteCompletionHandlera">CalculateRouteCompletionHandler</a>
-- <a href="sdk-for-ios-explore-routing#/s:7heresdk40CalculateTrafficOnRouteCompletionHandlera">CalculateTrafficOnRouteCompletionHandler</a>
+- <a href="sdk-for-ios-explore-routing#sdk-for-ios-explore-s-7heresdk37CalculateIndoorRouteCompletionHandlera">CalculateIndoorRouteCompletionHandler</a>
+- <a href="sdk-for-ios-explore-routing#sdk-for-ios-explore-s-7heresdk33CalculateIsolineCompletionHandlera">CalculateIsolineCompletionHandler</a>
+- <a href="sdk-for-ios-explore-routing#sdk-for-ios-explore-s-7heresdk31CalculateRouteCompletionHandlera">CalculateRouteCompletionHandler</a>
+- <a href="sdk-for-ios-explore-routing#sdk-for-ios-explore-s-7heresdk40CalculateTrafficOnRouteCompletionHandlera">CalculateTrafficOnRouteCompletionHandler</a>
 - <a href="sdk-for-ios-explore-structs-chargingactiondetails">ChargingActionDetails</a>
 - <a href="sdk-for-ios-explore-structs-chargingconnectorattributes">ChargingConnectorAttributes</a>
 - <a href="sdk-for-ios-explore-enums-chargingconnectortype">ChargingConnectorType</a>
@@ -770,7 +770,7 @@ slug: "sdk-for-ios-explore-classes-offlinesearchindex"
 - <a href="sdk-for-ios-explore-enums-evchargingtarifftype">EVChargingTariffType</a>
 - <a href="sdk-for-ios-explore-structs-evchargingtruckrestriction">EVChargingTruckRestriction</a>
 - <a href="sdk-for-ios-explore-enums-evchargingvehiclecategory">EVChargingVehicleCategory</a>
-- <a href="sdk-for-ios-explore-search#/s:7heresdk28EVCP3SearchCompletionHandlera">EVCP3SearchCompletionHandler</a>
+- <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk28EVCP3SearchCompletionHandlera">EVCP3SearchCompletionHandler</a>
 - <a href="sdk-for-ios-explore-structs-evse">Evse</a>
 - <a href="sdk-for-ios-explore-classes-evsearchengine">EVSearchEngine</a>
 - <a href="sdk-for-ios-explore-enums-evsearcherror">EVSearchError</a>
@@ -807,17 +807,17 @@ slug: "sdk-for-ios-explore-classes-offlinesearchindex"
 - <a href="sdk-for-ios-explore-structs-placefilter-ev">– Ev</a>
 - <a href="sdk-for-ios-explore-structs-placefoodtype">PlaceFoodType</a>
 - <a href="sdk-for-ios-explore-structs-placeidquery">PlaceIdQuery</a>
-- <a href="sdk-for-ios-explore-search#/s:7heresdk30PlaceIdSearchCompletionHandlera">PlaceIdSearchCompletionHandler</a>
-- <a href="sdk-for-ios-explore-search#/s:7heresdk38PlaceIdSearchExtendedCompletionHandlera">PlaceIdSearchExtendedCompletionHandler</a>
+- <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk30PlaceIdSearchCompletionHandlera">PlaceIdSearchCompletionHandler</a>
+- <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk38PlaceIdSearchExtendedCompletionHandlera">PlaceIdSearchExtendedCompletionHandler</a>
 - <a href="sdk-for-ios-explore-enums-placeserializationerror">PlaceSerializationError</a>
-- <a href="sdk-for-ios-explore-search#/s:7heresdk27PlaceSerializationExceptiona">PlaceSerializationException</a>
+- <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk27PlaceSerializationExceptiona">PlaceSerializationException</a>
 - <a href="sdk-for-ios-explore-enums-placetype">PlaceType</a>
 - <a href="sdk-for-ios-explore-structs-poipaymentdetails">POIPaymentDetails</a>
 - <a href="sdk-for-ios-explore-structs-poipaymentmethod">POIPaymentMethod</a>
 - <a href="sdk-for-ios-explore-structs-responsedetails">ResponseDetails</a>
 - <a href="sdk-for-ios-explore-structs-scheduledetails">ScheduleDetails</a>
-- <a href="sdk-for-ios-explore-search#/s:7heresdk23SearchCompletionHandlera">SearchCompletionHandler</a>
-- <a href="sdk-for-ios-explore-search#/s:7heresdk31SearchExtendedCompletionHandlera">SearchExtendedCompletionHandler</a>
+- <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk23SearchCompletionHandlera">SearchCompletionHandler</a>
+- <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk31SearchExtendedCompletionHandlera">SearchExtendedCompletionHandler</a>
 - <a href="sdk-for-ios-explore-classes-searchengine">SearchEngine</a>
 - <a href="sdk-for-ios-explore-enums-searcherror">SearchError</a>
 - <a href="sdk-for-ios-explore-protocols-searchinterface">SearchInterface</a>
@@ -827,8 +827,8 @@ slug: "sdk-for-ios-explore-classes-offlinesearchindex"
 - <a href="sdk-for-ios-explore-structs-structuredquery-addresselements">– AddressElements</a>
 - <a href="sdk-for-ios-explore-classes-suggestion">Suggestion</a>
 - <a href="sdk-for-ios-explore-enums-suggestiontype">SuggestionType</a>
-- <a href="sdk-for-ios-explore-search#/s:7heresdk24SuggestCompletionHandlera">SuggestCompletionHandler</a>
-- <a href="sdk-for-ios-explore-search#/s:7heresdk32SuggestExtendedCompletionHandlera">SuggestExtendedCompletionHandler</a>
+- <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk24SuggestCompletionHandlera">SuggestCompletionHandler</a>
+- <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk32SuggestExtendedCompletionHandlera">SuggestExtendedCompletionHandler</a>
 - <a href="sdk-for-ios-explore-structs-supplierreference">SupplierReference</a>
 - <a href="sdk-for-ios-explore-structs-textquery">TextQuery</a>
 - <a href="sdk-for-ios-explore-structs-textquery-area">– Area</a>
@@ -844,24 +844,24 @@ slug: "sdk-for-ios-explore-classes-offlinesearchindex"
 - <a href="sdk-for-ios-explore-classes-w3wsearchengine">W3WSearchEngine</a>
 - <a href="sdk-for-ios-explore-enums-w3wsearcherror">W3WSearchError</a>
 - <a href="sdk-for-ios-explore-structs-w3wsquare">W3WSquare</a>
-- <a href="sdk-for-ios-explore-search#/s:7heresdk26W3WSearchCompletionHandlera">W3WSearchCompletionHandler</a>
+- <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk26W3WSearchCompletionHandlera">W3WSearchCompletionHandler</a>
 - <a href="sdk-for-ios-explore-traffic">Traffic</a>
-- <a href="sdk-for-ios-explore-traffic#/s:7heresdk19TrafficDataProviderC">TrafficDataProvider</a>
+- <a href="sdk-for-ios-explore-traffic#sdk-for-ios-explore-s-7heresdk19TrafficDataProviderC">TrafficDataProvider</a>
 - <a href="sdk-for-ios-explore-classes-trafficengine">TrafficEngine</a>
 - <a href="sdk-for-ios-explore-classes-trafficflow">TrafficFlow</a>
 - <a href="sdk-for-ios-explore-protocols-trafficflowbase">TrafficFlowBase</a>
 - <a href="sdk-for-ios-explore-structs-trafficflowqueryoptions">TrafficFlowQueryOptions</a>
-- <a href="sdk-for-ios-explore-traffic#/s:7heresdk33TrafficFlowQueryCompletionHandlera">TrafficFlowQueryCompletionHandler</a>
+- <a href="sdk-for-ios-explore-traffic#sdk-for-ios-explore-s-7heresdk33TrafficFlowQueryCompletionHandlera">TrafficFlowQueryCompletionHandler</a>
 - <a href="sdk-for-ios-explore-classes-trafficincident">TrafficIncident</a>
 - <a href="sdk-for-ios-explore-classes-trafficincident-restrictedvehiclecategory">– RestrictedVehicleCategory</a>
 - <a href="sdk-for-ios-explore-classes-trafficincident-vehiclerestriction">– VehicleRestriction</a>
 - <a href="sdk-for-ios-explore-protocols-trafficincidentbase">TrafficIncidentBase</a>
-- <a href="sdk-for-ios-explore-traffic#/s:7heresdk32TrafficIncidentCompletionHandlera">TrafficIncidentCompletionHandler</a>
+- <a href="sdk-for-ios-explore-traffic#sdk-for-ios-explore-s-7heresdk32TrafficIncidentCompletionHandlera">TrafficIncidentCompletionHandler</a>
 - <a href="sdk-for-ios-explore-enums-trafficincidentimpact">TrafficIncidentImpact</a>
 - <a href="sdk-for-ios-explore-structs-trafficincidentlookupoptions">TrafficIncidentLookupOptions</a>
 - <a href="sdk-for-ios-explore-classes-trafficincidentonroute">TrafficIncidentOnRoute</a>
 - <a href="sdk-for-ios-explore-enums-trafficincidenttype">TrafficIncidentType</a>
-- <a href="sdk-for-ios-explore-traffic#/s:7heresdk38TrafficIncidentsQueryCompletionHandlera">TrafficIncidentsQueryCompletionHandler</a>
+- <a href="sdk-for-ios-explore-traffic#sdk-for-ios-explore-s-7heresdk38TrafficIncidentsQueryCompletionHandlera">TrafficIncidentsQueryCompletionHandler</a>
 - <a href="sdk-for-ios-explore-structs-trafficincidentsqueryoptions">TrafficIncidentsQueryOptions</a>
 - <a href="sdk-for-ios-explore-structs-trafficlocation">TrafficLocation</a>
 - <a href="sdk-for-ios-explore-enums-trafficqueryerror">TrafficQueryError</a>
@@ -917,8 +917,8 @@ slug: "sdk-for-ios-explore-classes-offlinesearchindex"
 - <a href="sdk-for-ios-explore-classes-venuedrawing">VenueDrawing</a>
 - <a href="sdk-for-ios-explore-protocols-venuedrawingselectiondelegate">VenueDrawingSelectionDelegate</a>
 - <a href="sdk-for-ios-explore-classes-venueengine">VenueEngine</a>
-- <a href="sdk-for-ios-explore-venues#/s:7heresdk32VenueEngineInitCompletionHandlera">VenueEngineInitCompletionHandler</a>
-- <a href="sdk-for-ios-explore-venues#/s:7heresdk10VenueErrora">VenueError</a>
+- <a href="sdk-for-ios-explore-venues#sdk-for-ios-explore-s-7heresdk32VenueEngineInitCompletionHandlera">VenueEngineInitCompletionHandler</a>
+- <a href="sdk-for-ios-explore-venues#sdk-for-ios-explore-s-7heresdk10VenueErrora">VenueError</a>
 - <a href="sdk-for-ios-explore-enums-venueerrorcode">VenueErrorCode</a>
 - <a href="sdk-for-ios-explore-classes-venuegeometry">VenueGeometry</a>
 - <a href="sdk-for-ios-explore-classes-venuegeometry-internaladdress">– InternalAddress</a>
@@ -927,13 +927,13 @@ slug: "sdk-for-ios-explore-classes-offlinesearchindex"
 - <a href="sdk-for-ios-explore-enums-venuegeometryfiltertype">VenueGeometryFilterType</a>
 - <a href="sdk-for-ios-explore-classes-venuegeometrystyle">VenueGeometryStyle</a>
 - <a href="sdk-for-ios-explore-classes-venueinfo">VenueInfo</a>
-- <a href="sdk-for-ios-explore-venues#/s:7heresdk17VenueInfoDataLista">VenueInfoDataList</a>
+- <a href="sdk-for-ios-explore-venues#sdk-for-ios-explore-s-7heresdk17VenueInfoDataLista">VenueInfoDataList</a>
 - <a href="sdk-for-ios-explore-protocols-venueinfolistlistenerdelegate">VenueInfoListListenerDelegate</a>
 - <a href="sdk-for-ios-explore-classes-venuelabelstyle">VenueLabelStyle</a>
 - <a href="sdk-for-ios-explore-classes-venuelevel">VenueLevel</a>
 - <a href="sdk-for-ios-explore-protocols-venuelevelselectiondelegate">VenueLevelSelectionDelegate</a>
 - <a href="sdk-for-ios-explore-protocols-venuelifecycledelegate">VenueLifecycleDelegate</a>
-- <a href="sdk-for-ios-explore-venues#/s:7heresdk21VenueLoadErrorHandlera">VenueLoadErrorHandler</a>
+- <a href="sdk-for-ios-explore-venues#sdk-for-ios-explore-s-7heresdk21VenueLoadErrorHandlera">VenueLoadErrorHandler</a>
 - <a href="sdk-for-ios-explore-classes-venuemap">VenueMap</a>
 - <a href="sdk-for-ios-explore-protocols-venuemapdelegate">VenueMapDelegate</a>
 - <a href="sdk-for-ios-explore-protocols-venuemaplifecycledelegate">VenueMapLifecycleDelegate</a>
@@ -969,8 +969,8 @@ slug: "sdk-for-ios-explore-classes-offlinesearchindex"
 - <a href="sdk-for-ios-explore-enums-physicalstructure">PhysicalStructure</a>
 - <a href="sdk-for-ios-explore-enums-vehicletypecondition">VehicleTypeCondition</a>
 - <a href="sdk-for-ios-explore-other-functions">Other Functions</a>
-- <a href="sdk-for-ios-explore-other-functions#/s:7heresdk24makeIOSPlatformThreadingAA08PlatformD0_pyF">makeIOSPlatformThreading()</a>
-- <a href="sdk-for-ios-explore-other-functions#/s:7heresdk12synchronized_7closurexyp_xyXEtlF">synchronized(\_:closure:)</a>
+- <a href="sdk-for-ios-explore-other-functions#sdk-for-ios-explore-s-7heresdk24makeIOSPlatformThreadingAA08PlatformD0_pyF">makeIOSPlatformThreading()</a>
+- <a href="sdk-for-ios-explore-other-functions#sdk-for-ios-explore-s-7heresdk12synchronized_7closurexyp_xyXEtlF">synchronized(\_:closure:)</a>
 - <a href="sdk-for-ios-explore-other-protocols">Other Protocols</a>
 - <a href="sdk-for-ios-explore-protocols-matchedlocationlistener">MatchedLocationListener</a>
 - <a href="sdk-for-ios-explore-other-structs">Other Structures</a>
@@ -1019,7 +1019,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-  ` `<span id="/s:7heresdk18OfflineSearchIndexC9OperationO"></span>` `<span id="//apple_ref/swift/Enum/Operation" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-offlinesearchindex#/s:7heresdk18OfflineSearchIndexC9OperationO" class="token"><code>Operation</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18OfflineSearchIndexC9OperationO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-Operation" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-offlinesearchindex#sdk-for-ios-explore-s-7heresdk18OfflineSearchIndexC9OperationO" class="token"><code>Operation</code></a> 
 
   </div>
 
@@ -1065,7 +1065,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-  ` `<span id="/s:7heresdk18OfflineSearchIndexC5ErrorO"></span>` `<span id="//apple_ref/swift/Enum/Error" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-offlinesearchindex#/s:7heresdk18OfflineSearchIndexC5ErrorO" class="token"><code>Error</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18OfflineSearchIndexC5ErrorO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-Error" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-offlinesearchindex#sdk-for-ios-explore-s-7heresdk18OfflineSearchIndexC5ErrorO" class="token"><code>Error</code></a> 
 
   </div>
 
@@ -1111,7 +1111,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-  ` `<span id="/s:7heresdk18OfflineSearchIndexC7OptionsV"></span>` `<span id="//apple_ref/swift/Struct/Options" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-offlinesearchindex#/s:7heresdk18OfflineSearchIndexC7OptionsV" class="token"><code>Options</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18OfflineSearchIndexC7OptionsV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-Options" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-offlinesearchindex#sdk-for-ios-explore-s-7heresdk18OfflineSearchIndexC7OptionsV" class="token"><code>Options</code></a> 
 
   </div>
 

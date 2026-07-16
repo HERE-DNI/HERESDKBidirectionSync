@@ -27,7 +27,7 @@ Defines preference level per known E-Mobility Service Provider. The E-Mobility S
 
 - <div>
 
-  ` `<span id="/s:7heresdk36EVMobilityServiceProviderPreferencesV4highSaySSGvp"></span>` `<span id="//apple_ref/swift/Property/high" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-evmobilityserviceproviderpreferences#/s:7heresdk36EVMobilityServiceProviderPreferencesV4highSaySSGvp" class="token"><code>high</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk36EVMobilityServiceProviderPreferencesV4highSaySSGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-high" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-evmobilityserviceproviderpreferences#sdk-for-ios-explore-s-7heresdk36EVMobilityServiceProviderPreferencesV4highSaySSGvp" class="token"><code>high</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Defines preference level per known E-Mobility Service Provider. The E-Mobility S
 
 - <div>
 
-  ` `<span id="/s:7heresdk36EVMobilityServiceProviderPreferencesV6mediumSaySSGvp"></span>` `<span id="//apple_ref/swift/Property/medium" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-evmobilityserviceproviderpreferences#/s:7heresdk36EVMobilityServiceProviderPreferencesV6mediumSaySSGvp" class="token"><code>medium</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk36EVMobilityServiceProviderPreferencesV6mediumSaySSGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-medium" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-evmobilityserviceproviderpreferences#sdk-for-ios-explore-s-7heresdk36EVMobilityServiceProviderPreferencesV6mediumSaySSGvp" class="token"><code>medium</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Defines preference level per known E-Mobility Service Provider. The E-Mobility S
 
 - <div>
 
-  ` `<span id="/s:7heresdk36EVMobilityServiceProviderPreferencesV3lowSaySSGvp"></span>` `<span id="//apple_ref/swift/Property/low" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-evmobilityserviceproviderpreferences#/s:7heresdk36EVMobilityServiceProviderPreferencesV3lowSaySSGvp" class="token"><code>low</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk36EVMobilityServiceProviderPreferencesV3lowSaySSGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-low" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-evmobilityserviceproviderpreferences#sdk-for-ios-explore-s-7heresdk36EVMobilityServiceProviderPreferencesV3lowSaySSGvp" class="token"><code>low</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Defines preference level per known E-Mobility Service Provider. The E-Mobility S
 
 - <div>
 
-      init(high: medium: low: )
+   <span id="sdk-for-ios-explore-s-7heresdk36EVMobilityServiceProviderPreferencesV4high6medium3lowACSaySSG_A2Gtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-high-medium-low" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-evmobilityserviceproviderpreferences#sdk-for-ios-explore-s-7heresdk36EVMobilityServiceProviderPreferencesV4high6medium3lowACSaySSG_A2Gtcfc" class="token"><code>init(high:</code><wbr></wbr><code>medium:</code><wbr></wbr><code>low:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -190,10 +190,8 @@ Defines preference level per known E-Mobility Service Provider. The E-Mobility S
   Swift
 
   ``` highlight
-  public init ( high : [ String ] = [], medium : [ String ] = [], low : [ String ] = [])
+  public init(high: [String] = [], medium: [String] = [], low: [String] = [])
   ```
-
-  </pre>
 
   </div>
 

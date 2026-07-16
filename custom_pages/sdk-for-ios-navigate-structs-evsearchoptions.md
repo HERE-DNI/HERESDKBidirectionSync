@@ -27,7 +27,7 @@ Encapsulates additional options that control the behavior of <a href="sdk-for-io
 
 - <div>
 
-  ` `<span id="/s:7heresdk15EVSearchOptionsV18additionalFeaturesSayAA25EVChargingLocationFeatureOGvp"></span>` `<span id="//apple_ref/swift/Property/additionalFeatures" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evsearchoptions#/s:7heresdk15EVSearchOptionsV18additionalFeaturesSayAA25EVChargingLocationFeatureOGvp" class="token"><code>additionalFeatures</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15EVSearchOptionsV18additionalFeaturesSayAA25EVChargingLocationFeatureOGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-additionalFeatures" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evsearchoptions#sdk-for-ios-navigate-s-7heresdk15EVSearchOptionsV18additionalFeaturesSayAA25EVChargingLocationFeatureOGvp" class="token"><code>additionalFeatures</code></a> 
 
   </div>
 
@@ -63,6 +63,10 @@ Encapsulates additional options that control the behavior of <a href="sdk-for-io
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-evcharginglocationfeature">EVChargingLocationFeature</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ Encapsulates additional options that control the behavior of <a href="sdk-for-io
 
 - <div>
 
-  ` `<span id="/s:7heresdk15EVSearchOptionsV16requestedTariffsSayAA23EVChargingTariffRequestVGvp"></span>` `<span id="//apple_ref/swift/Property/requestedTariffs" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evsearchoptions#/s:7heresdk15EVSearchOptionsV16requestedTariffsSayAA23EVChargingTariffRequestVGvp" class="token"><code>requestedTariffs</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15EVSearchOptionsV16requestedTariffsSayAA23EVChargingTariffRequestVGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-requestedTariffs" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evsearchoptions#sdk-for-ios-navigate-s-7heresdk15EVSearchOptionsV16requestedTariffsSayAA23EVChargingTariffRequestVGvp" class="token"><code>requestedTariffs</code></a> 
 
   </div>
 
@@ -89,7 +93,7 @@ Encapsulates additional options that control the behavior of <a href="sdk-for-io
 
   <div class="abstract">
 
-  List of tariff search options. This parameter is effective only if the <a href="sdk-for-ios-navigate-structs-evsearchoptions#/s:7heresdk15EVSearchOptionsV18additionalFeaturesSayAA25EVChargingLocationFeatureOGvp">`EVSearchOptions.additionalFeatures`</a> contains <a href="sdk-for-ios-navigate-enums-evcharginglocationfeature#/s:7heresdk25EVChargingLocationFeatureO7tariffsyA2CmF">`EVChargingLocationFeature.tariffs`</a>. If empty, the response contains only ad-hoc tariffs, if available.
+  List of tariff search options. This parameter is effective only if the <a href="sdk-for-ios-navigate-structs-evsearchoptions#sdk-for-ios-navigate-s-7heresdk15EVSearchOptionsV18additionalFeaturesSayAA25EVChargingLocationFeatureOGvp">`EVSearchOptions.additionalFeatures`</a> contains <a href="sdk-for-ios-navigate-enums-evcharginglocationfeature#sdk-for-ios-navigate-s-7heresdk25EVChargingLocationFeatureO7tariffsyA2CmF">`EVChargingLocationFeature.tariffs`</a>. If empty, the response contains only ad-hoc tariffs, if available.
 
   </div>
 
@@ -107,6 +111,10 @@ Encapsulates additional options that control the behavior of <a href="sdk-for-io
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-evchargingtariffrequest">EVChargingTariffRequest</a>
+
   </div>
 
   </div>
@@ -115,7 +123,7 @@ Encapsulates additional options that control the behavior of <a href="sdk-for-io
 
 - <div>
 
-      init(additionalFeatures: requestedTariffs: )
+   <span id="sdk-for-ios-navigate-s-7heresdk15EVSearchOptionsV18additionalFeatures16requestedTariffsACSayAA25EVChargingLocationFeatureOG_SayAA0H13TariffRequestVGtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-additionalFeatures-requestedTariffs" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evsearchoptions#sdk-for-ios-navigate-s-7heresdk15EVSearchOptionsV18additionalFeatures16requestedTariffsACSayAA25EVChargingLocationFeatureOG_SayAA0H13TariffRequestVGtcfc" class="token"><code>init(additionalFeatures:</code><wbr></wbr><code>requestedTariffs:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -146,12 +154,15 @@ Encapsulates additional options that control the behavior of <a href="sdk-for-io
   Swift
 
   ``` highlight
-  public init ( additionalFeatures : [ EVChargingLocationFeature ] = [], requestedTariffs : [ EVChargingTariffRequest ] = [])
+  public init(additionalFeatures: [EVChargingLocationFeature] = [], requestedTariffs: [EVChargingTariffRequest] = [])
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-evcharginglocationfeature">EVChargingLocationFeature</a>
+  - <a href="sdk-for-ios-navigate-structs-evchargingtariffrequest">EVChargingTariffRequest</a>
 
   </div>
 

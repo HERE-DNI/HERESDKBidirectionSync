@@ -29,7 +29,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-  ` `<span id="/s:7heresdk10MapContextC22MemoryManagementResultV016diffBetweenVideoD24LimitAndRequirementInKiBs5Int32VSgvp"></span>` `<span id="//apple_ref/swift/Property/diffBetweenVideoMemoryLimitAndRequirementInKiB" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapcontext-memorymanagementresult#/s:7heresdk10MapContextC22MemoryManagementResultV016diffBetweenVideoD24LimitAndRequirementInKiBs5Int32VSgvp" class="token"><code>diffBetweenVideoMemoryLimitAndRequirementInKiB</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10MapContextC22MemoryManagementResultV016diffBetweenVideoD24LimitAndRequirementInKiBs5Int32VSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-diffBetweenVideoMemoryLimitAndRequirementInKiB" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapcontext-memorymanagementresult#sdk-for-ios-navigate-s-7heresdk10MapContextC22MemoryManagementResultV016diffBetweenVideoD24LimitAndRequirementInKiBs5Int32VSgvp" class="token"><code>diffBetweenVideoMemoryLimitAndRequirementInKiB</code></a> 
 
   </div>
 
@@ -73,7 +73,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-  ` `<span id="/s:7heresdk10MapContextC22MemoryManagementResultV10resultCodeAC0defH0Ovp"></span>` `<span id="//apple_ref/swift/Property/resultCode" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapcontext-memorymanagementresult#/s:7heresdk10MapContextC22MemoryManagementResultV10resultCodeAC0defH0Ovp" class="token"><code>resultCode</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10MapContextC22MemoryManagementResultV10resultCodeAC0defH0Ovp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-resultCode" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapcontext-memorymanagementresult#sdk-for-ios-navigate-s-7heresdk10MapContextC22MemoryManagementResultV10resultCodeAC0defH0Ovp" class="token"><code>resultCode</code></a> 
 
   </div>
 
@@ -109,6 +109,11 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mapcontext">MapContext</a>
+  - <a href="sdk-for-ios-navigate-classes-mapcontext-memorymanagementresultcode">MemoryManagementResultCode</a>
+
   </div>
 
   </div>
@@ -117,7 +122,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      init(diffBetweenVideoMemoryLimitAndRequirementInKiB: resultCode: )
+   <span id="sdk-for-ios-navigate-s-7heresdk10MapContextC22MemoryManagementResultV016diffBetweenVideoD24LimitAndRequirementInKiB10resultCodeAEs5Int32VSg_AC0defP0Otcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-diffBetweenVideoMemoryLimitAndRequirementInKiB-resultCode" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapcontext-memorymanagementresult#sdk-for-ios-navigate-s-7heresdk10MapContextC22MemoryManagementResultV016diffBetweenVideoD24LimitAndRequirementInKiB10resultCodeAEs5Int32VSg_AC0defP0Otcfc" class="token"><code>init(diffBetweenVideoMemoryLimitAndRequirementInKiB:</code><wbr></wbr><code>resultCode:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -148,12 +153,15 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public init ( diffBetweenVideoMemoryLimitAndRequirementInKiB : Int32 ? = nil , resultCode : MapContext . MemoryManagementResultCode )
+  public init(diffBetweenVideoMemoryLimitAndRequirementInKiB: Int32? = nil, resultCode: MapContext.MemoryManagementResultCode)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mapcontext">MapContext</a>
+  - <a href="sdk-for-ios-navigate-classes-mapcontext-memorymanagementresultcode">MemoryManagementResultCode</a>
 
   </div>
 

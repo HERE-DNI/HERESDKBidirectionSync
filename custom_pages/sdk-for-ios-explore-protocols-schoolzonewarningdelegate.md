@@ -27,7 +27,7 @@ This protocol should be implemented in order to receive school zone warnings.
 
 - <div>
 
-      onSchoolZoneWarningUpdated(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk25SchoolZoneWarningDelegateP02onbcD7UpdatedyySayAA0bcD0VGF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-onSchoolZoneWarningUpdated-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-protocols-schoolzonewarningdelegate#sdk-for-ios-explore-s-7heresdk25SchoolZoneWarningDelegateP02onbcD7UpdatedyySayAA0bcD0VGF" class="token"><code>onSchoolZoneWarningUpdated(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -58,12 +58,14 @@ This protocol should be implemented in order to receive school zone warnings.
   Swift
 
   ``` highlight
-  func onSchoolZoneWarningUpdated ( _ schoolZoneWarning : [ SchoolZoneWarning ])
+  func onSchoolZoneWarningUpdated(_ schoolZoneWarning: [SchoolZoneWarning])
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-schoolzonewarning">SchoolZoneWarning</a>
 
   </div>
 

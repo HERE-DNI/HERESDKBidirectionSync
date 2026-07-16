@@ -27,7 +27,7 @@ Classification of the surrounding road environment. Note: This enum is in beta; 
 
 - <div>
 
-  ` `<span id="/s:7heresdk18RoadClassificationO5urbanyA2CmF"></span>` `<span id="//apple_ref/swift/Element/urban" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-roadclassification#/s:7heresdk18RoadClassificationO5urbanyA2CmF" class="token"><code>urban</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18RoadClassificationO5urbanyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-urban" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-roadclassification#sdk-for-ios-explore-s-7heresdk18RoadClassificationO5urbanyA2CmF" class="token"><code>urban</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Classification of the surrounding road environment. Note: This enum is in beta; 
 
 - <div>
 
-  ` `<span id="/s:7heresdk18RoadClassificationO5ruralyA2CmF"></span>` `<span id="//apple_ref/swift/Element/rural" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-roadclassification#/s:7heresdk18RoadClassificationO5ruralyA2CmF" class="token"><code>rural</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18RoadClassificationO5ruralyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-rural" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-roadclassification#sdk-for-ios-explore-s-7heresdk18RoadClassificationO5ruralyA2CmF" class="token"><code>rural</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Classification of the surrounding road environment. Note: This enum is in beta; 
 
 - <div>
 
-  ` `<span id="/s:7heresdk18RoadClassificationO7highwayyA2CmF"></span>` `<span id="//apple_ref/swift/Element/highway" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-roadclassification#/s:7heresdk18RoadClassificationO7highwayyA2CmF" class="token"><code>highway</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18RoadClassificationO7highwayyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-highway" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-roadclassification#sdk-for-ios-explore-s-7heresdk18RoadClassificationO7highwayyA2CmF" class="token"><code>highway</code></a> 
 
   </div>
 

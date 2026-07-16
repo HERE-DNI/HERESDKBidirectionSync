@@ -31,7 +31,7 @@ Instantiation error.
 
 - <div>
 
-  ` `<span id="/s:7heresdk22InstantiationErrorCodeO16illegalArgumentsyA2CmF"></span>` `<span id="//apple_ref/swift/Element/illegalArguments" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-instantiationerrorcode#/s:7heresdk22InstantiationErrorCodeO16illegalArgumentsyA2CmF" class="token"><code>illegalArguments</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk22InstantiationErrorCodeO16illegalArgumentsyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-illegalArguments" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-instantiationerrorcode#sdk-for-ios-navigate-s-7heresdk22InstantiationErrorCodeO16illegalArgumentsyA2CmF" class="token"><code>illegalArguments</code></a> 
 
   </div>
 
@@ -75,7 +75,7 @@ Instantiation error.
 
 - <div>
 
-  ` `<span id="/s:7heresdk22InstantiationErrorCodeO6failedyA2CmF"></span>` `<span id="//apple_ref/swift/Element/failed" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-instantiationerrorcode#/s:7heresdk22InstantiationErrorCodeO6failedyA2CmF" class="token"><code>failed</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk22InstantiationErrorCodeO6failedyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-failed" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-instantiationerrorcode#sdk-for-ios-navigate-s-7heresdk22InstantiationErrorCodeO6failedyA2CmF" class="token"><code>failed</code></a> 
 
   </div>
 
@@ -119,7 +119,7 @@ Instantiation error.
 
 - <div>
 
-  ` `<span id="/s:7heresdk22InstantiationErrorCodeO30sharedSdkEngineNotInstantiatedyA2CmF"></span>` `<span id="//apple_ref/swift/Element/sharedSdkEngineNotInstantiated" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-instantiationerrorcode#/s:7heresdk22InstantiationErrorCodeO30sharedSdkEngineNotInstantiatedyA2CmF" class="token"><code>sharedSdkEngineNotInstantiated</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk22InstantiationErrorCodeO30sharedSdkEngineNotInstantiatedyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-sharedSdkEngineNotInstantiated" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-instantiationerrorcode#sdk-for-ios-navigate-s-7heresdk22InstantiationErrorCodeO30sharedSdkEngineNotInstantiatedyA2CmF" class="token"><code>sharedSdkEngineNotInstantiated</code></a> 
 
   </div>
 
@@ -163,7 +163,7 @@ Instantiation error.
 
 - <div>
 
-  ` `<span id="/s:7heresdk22InstantiationErrorCodeO23cacheFolderAccessDeniedyA2CmF"></span>` `<span id="//apple_ref/swift/Element/cacheFolderAccessDenied" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-instantiationerrorcode#/s:7heresdk22InstantiationErrorCodeO23cacheFolderAccessDeniedyA2CmF" class="token"><code>cacheFolderAccessDenied</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk22InstantiationErrorCodeO23cacheFolderAccessDeniedyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-cacheFolderAccessDenied" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-instantiationerrorcode#sdk-for-ios-navigate-s-7heresdk22InstantiationErrorCodeO23cacheFolderAccessDeniedyA2CmF" class="token"><code>cacheFolderAccessDenied</code></a> 
 
   </div>
 
@@ -207,7 +207,7 @@ Instantiation error.
 
 - <div>
 
-  ` `<span id="/s:7heresdk22InstantiationErrorCodeO38persistentMapStorageFolderAccessDeniedyA2CmF"></span>` `<span id="//apple_ref/swift/Element/persistentMapStorageFolderAccessDenied" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-instantiationerrorcode#/s:7heresdk22InstantiationErrorCodeO38persistentMapStorageFolderAccessDeniedyA2CmF" class="token"><code>persistentMapStorageFolderAccessDenied</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk22InstantiationErrorCodeO38persistentMapStorageFolderAccessDeniedyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-persistentMapStorageFolderAccessDenied" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-instantiationerrorcode#sdk-for-ios-navigate-s-7heresdk22InstantiationErrorCodeO38persistentMapStorageFolderAccessDeniedyA2CmF" class="token"><code>persistentMapStorageFolderAccessDenied</code></a> 
 
   </div>
 
@@ -251,7 +251,7 @@ Instantiation error.
 
 - <div>
 
-  ` `<span id="/s:7heresdk22InstantiationErrorCodeO23failedToLockCacheFolderyA2CmF"></span>` `<span id="//apple_ref/swift/Element/failedToLockCacheFolder" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-instantiationerrorcode#/s:7heresdk22InstantiationErrorCodeO23failedToLockCacheFolderyA2CmF" class="token"><code>failedToLockCacheFolder</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk22InstantiationErrorCodeO23failedToLockCacheFolderyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-failedToLockCacheFolder" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-instantiationerrorcode#sdk-for-ios-navigate-s-7heresdk22InstantiationErrorCodeO23failedToLockCacheFolderyA2CmF" class="token"><code>failedToLockCacheFolder</code></a> 
 
   </div>
 
@@ -295,7 +295,7 @@ Instantiation error.
 
 - <div>
 
-  ` `<span id="/s:7heresdk22InstantiationErrorCodeO30failedToCreateAnalyticsServiceyA2CmF"></span>` `<span id="//apple_ref/swift/Element/failedToCreateAnalyticsService" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-instantiationerrorcode#/s:7heresdk22InstantiationErrorCodeO30failedToCreateAnalyticsServiceyA2CmF" class="token"><code>failedToCreateAnalyticsService</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk22InstantiationErrorCodeO30failedToCreateAnalyticsServiceyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-failedToCreateAnalyticsService" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-instantiationerrorcode#sdk-for-ios-navigate-s-7heresdk22InstantiationErrorCodeO30failedToCreateAnalyticsServiceyA2CmF" class="token"><code>failedToCreateAnalyticsService</code></a> 
 
   </div>
 
@@ -339,7 +339,7 @@ Instantiation error.
 
 - <div>
 
-  ` `<span id="/s:7heresdk22InstantiationErrorCodeO30accessKeyContainsIllegalSymbolyA2CmF"></span>` `<span id="//apple_ref/swift/Element/accessKeyContainsIllegalSymbol" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-instantiationerrorcode#/s:7heresdk22InstantiationErrorCodeO30accessKeyContainsIllegalSymbolyA2CmF" class="token"><code>accessKeyContainsIllegalSymbol</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk22InstantiationErrorCodeO30accessKeyContainsIllegalSymbolyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-accessKeyContainsIllegalSymbol" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-instantiationerrorcode#sdk-for-ios-navigate-s-7heresdk22InstantiationErrorCodeO30accessKeyContainsIllegalSymbolyA2CmF" class="token"><code>accessKeyContainsIllegalSymbol</code></a> 
 
   </div>
 
@@ -383,7 +383,7 @@ Instantiation error.
 
 - <div>
 
-  ` `<span id="/s:7heresdk22InstantiationErrorCodeO36accessKeySecretContainsIllegalSymbolyA2CmF"></span>` `<span id="//apple_ref/swift/Element/accessKeySecretContainsIllegalSymbol" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-instantiationerrorcode#/s:7heresdk22InstantiationErrorCodeO36accessKeySecretContainsIllegalSymbolyA2CmF" class="token"><code>accessKeySecretContainsIllegalSymbol</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk22InstantiationErrorCodeO36accessKeySecretContainsIllegalSymbolyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-accessKeySecretContainsIllegalSymbol" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-instantiationerrorcode#sdk-for-ios-navigate-s-7heresdk22InstantiationErrorCodeO36accessKeySecretContainsIllegalSymbolyA2CmF" class="token"><code>accessKeySecretContainsIllegalSymbol</code></a> 
 
   </div>
 
@@ -427,7 +427,7 @@ Instantiation error.
 
 - <div>
 
-  ` `<span id="/s:7heresdk22InstantiationErrorCodeO26layerConfigurationMismatchyA2CmF"></span>` `<span id="//apple_ref/swift/Element/layerConfigurationMismatch" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-instantiationerrorcode#/s:7heresdk22InstantiationErrorCodeO26layerConfigurationMismatchyA2CmF" class="token"><code>layerConfigurationMismatch</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk22InstantiationErrorCodeO26layerConfigurationMismatchyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-layerConfigurationMismatch" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-instantiationerrorcode#sdk-for-ios-navigate-s-7heresdk22InstantiationErrorCodeO26layerConfigurationMismatchyA2CmF" class="token"><code>layerConfigurationMismatch</code></a> 
 
   </div>
 
@@ -471,7 +471,7 @@ Instantiation error.
 
 - <div>
 
-  ` `<span id="/s:7heresdk22InstantiationErrorCodeO24sdkEngineAlreadyDisposedyA2CmF"></span>` `<span id="//apple_ref/swift/Element/sdkEngineAlreadyDisposed" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-instantiationerrorcode#/s:7heresdk22InstantiationErrorCodeO24sdkEngineAlreadyDisposedyA2CmF" class="token"><code>sdkEngineAlreadyDisposed</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk22InstantiationErrorCodeO24sdkEngineAlreadyDisposedyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-sdkEngineAlreadyDisposed" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-instantiationerrorcode#sdk-for-ios-navigate-s-7heresdk22InstantiationErrorCodeO24sdkEngineAlreadyDisposedyA2CmF" class="token"><code>sdkEngineAlreadyDisposed</code></a> 
 
   </div>
 
@@ -520,7 +520,7 @@ Instantiation error.
 
 - <div>
 
-  ` `<span id="/s:7heresdk22InstantiationErrorCodeO27invalidCatalogConfigurationyA2CmF"></span>` `<span id="//apple_ref/swift/Element/invalidCatalogConfiguration" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-instantiationerrorcode#/s:7heresdk22InstantiationErrorCodeO27invalidCatalogConfigurationyA2CmF" class="token"><code>invalidCatalogConfiguration</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk22InstantiationErrorCodeO27invalidCatalogConfigurationyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-invalidCatalogConfiguration" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-instantiationerrorcode#sdk-for-ios-navigate-s-7heresdk22InstantiationErrorCodeO27invalidCatalogConfigurationyA2CmF" class="token"><code>invalidCatalogConfiguration</code></a> 
 
   </div>
 
@@ -564,7 +564,7 @@ Instantiation error.
 
 - <div>
 
-  ` `<span id="/s:7heresdk22InstantiationErrorCodeO22dataFolderAccessDeniedyA2CmF"></span>` `<span id="//apple_ref/swift/Element/dataFolderAccessDenied" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-instantiationerrorcode#/s:7heresdk22InstantiationErrorCodeO22dataFolderAccessDeniedyA2CmF" class="token"><code>dataFolderAccessDenied</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk22InstantiationErrorCodeO22dataFolderAccessDeniedyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-dataFolderAccessDenied" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-instantiationerrorcode#sdk-for-ios-navigate-s-7heresdk22InstantiationErrorCodeO22dataFolderAccessDeniedyA2CmF" class="token"><code>dataFolderAccessDenied</code></a> 
 
   </div>
 

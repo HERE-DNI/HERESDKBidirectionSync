@@ -29,7 +29,7 @@ Represents a 3D shape drawn on the map at specified geodetic coordinates.
 
 It can have a solid color or be textured, depending on the data from <a href="sdk-for-ios-explore-classes-mapmarker3dmodel">`MapMarker3DModel`</a>.
 
-By default, a 3D marker is drawn on top of all map content, including 3D map elements like extruded buildings or 3D landmarks. This can be changed by enabling depth check using <a href="sdk-for-ios-explore-classes-mapmarker3d#/s:7heresdk11MapMarker3DC19isDepthCheckEnabledSbvp">`MapMarker3D.isDepthCheckEnabled`</a>.
+By default, a 3D marker is drawn on top of all map content, including 3D map elements like extruded buildings or 3D landmarks. This can be changed by enabling depth check using <a href="sdk-for-ios-explore-classes-mapmarker3d#sdk-for-ios-explore-s-7heresdk11MapMarker3DC19isDepthCheckEnabledSbvp">`MapMarker3D.isDepthCheckEnabled`</a>.
 
 The display of a 3D marker is only guaranteed in case its origin is within the viewport. At the moment, this is a known limitation that mostly affects a 3D marker that is visually large and covers a sizeable part of the viewport.
 
@@ -39,21 +39,21 @@ Two aspects determine how big the `MapMarker3D` will be on the screen and how wi
 
 The first, and most impactful is <a href="sdk-for-ios-explore-structs-rendersize-unit">`RenderSize.Unit`</a>, which specifies how the vertex coordinates of the 3D model are interpreted. Most importantly, it specifies whether the 3D model is placed in world or screen coordinate space.
 
-<a href="sdk-for-ios-explore-structs-rendersize-unit#/s:7heresdk10RenderSizeV4UnitO6metersyA2EmF">`RenderSize.Unit.meters`</a> will make the 3D model use world coordinate space, meaning that it will change size together with the map when it is zoomed in and out.
+<a href="sdk-for-ios-explore-structs-rendersize-unit#sdk-for-ios-explore-s-7heresdk10RenderSizeV4UnitO6metersyA2EmF">`RenderSize.Unit.meters`</a> will make the 3D model use world coordinate space, meaning that it will change size together with the map when it is zoomed in and out.
 
-<a href="sdk-for-ios-explore-structs-rendersize-unit#/s:7heresdk10RenderSizeV4UnitO6pixelsyA2EmF">`RenderSize.Unit.pixels`</a> makes the 3D model use screen coordinate space, meaning that it will have constant size on the screen regardless of how the map zoom changes. So a simple 10 by 10 (in model space) rectangle will have a size of 10 by 10 pixels on the screen.
+<a href="sdk-for-ios-explore-structs-rendersize-unit#sdk-for-ios-explore-s-7heresdk10RenderSizeV4UnitO6pixelsyA2EmF">`RenderSize.Unit.pixels`</a> makes the 3D model use screen coordinate space, meaning that it will have constant size on the screen regardless of how the map zoom changes. So a simple 10 by 10 (in model space) rectangle will have a size of 10 by 10 pixels on the screen.
 
-<a href="sdk-for-ios-explore-structs-rendersize-unit#/s:7heresdk10RenderSizeV4UnitO24densityIndependentPixelsyA2EmF">`RenderSize.Unit.densityIndependentPixels`</a> is similar to pixels, but the resulting size will take into account the pixel density of the display, meaning that physical size on the screen will be approximately the same regardless of the size or resolution of the display.
+<a href="sdk-for-ios-explore-structs-rendersize-unit#sdk-for-ios-explore-s-7heresdk10RenderSizeV4UnitO24densityIndependentPixelsyA2EmF">`RenderSize.Unit.densityIndependentPixels`</a> is similar to pixels, but the resulting size will take into account the pixel density of the display, meaning that physical size on the screen will be approximately the same regardless of the size or resolution of the display.
 
-The second aspect that determines size of `MapMarker3D` is scale. It can be specified at construction time and can be changed later at any time using <a href="sdk-for-ios-explore-classes-mapmarker3d#/s:7heresdk11MapMarker3DC5scaleSdvp">`MapMarker3D.scale`</a>.
+The second aspect that determines size of `MapMarker3D` is scale. It can be specified at construction time and can be changed later at any time using <a href="sdk-for-ios-explore-classes-mapmarker3d#sdk-for-ios-explore-s-7heresdk11MapMarker3DC5scaleSdvp">`MapMarker3D.scale`</a>.
 
 # Modifying at runtime
 
-A 3D marker can be moved around a map by updating its coordinates using <a href="sdk-for-ios-explore-classes-mapmarker3d#/s:7heresdk11MapMarker3DC11coordinatesAA14GeoCoordinatesVvp">`MapMarker3D.coordinates`</a>.
+A 3D marker can be moved around a map by updating its coordinates using <a href="sdk-for-ios-explore-classes-mapmarker3d#sdk-for-ios-explore-s-7heresdk11MapMarker3DC11coordinatesAA14GeoCoordinatesVvp">`MapMarker3D.coordinates`</a>.
 
 Altitude component of the coordinates, if set, controls 3D marker’s elevation above ground. If not set, the 3D marker is placed at ground level.
 
-Its orientation is specified by bearing, pitch and roll and can be changed by using <a href="sdk-for-ios-explore-classes-mapmarker3d#/s:7heresdk11MapMarker3DC7bearingSdvp">`MapMarker3D.bearing`</a>, <a href="sdk-for-ios-explore-classes-mapmarker3d#/s:7heresdk11MapMarker3DC5pitchSdvp">`MapMarker3D.pitch`</a> and <a href="sdk-for-ios-explore-classes-mapmarker3d#/s:7heresdk11MapMarker3DC4rollSdvp">`MapMarker3D.roll`</a>.
+Its orientation is specified by bearing, pitch and roll and can be changed by using <a href="sdk-for-ios-explore-classes-mapmarker3d#sdk-for-ios-explore-s-7heresdk11MapMarker3DC7bearingSdvp">`MapMarker3D.bearing`</a>, <a href="sdk-for-ios-explore-classes-mapmarker3d#sdk-for-ios-explore-s-7heresdk11MapMarker3DC5pitchSdvp">`MapMarker3D.pitch`</a> and <a href="sdk-for-ios-explore-classes-mapmarker3d#sdk-for-ios-explore-s-7heresdk11MapMarker3DC4rollSdvp">`MapMarker3D.roll`</a>.
 
 # Flat marker
 
@@ -72,7 +72,7 @@ constructor. Of course, once created, it can be rotated to face any direction.
 
 - <div>
 
-      init(at: model: )
+   <span id="sdk-for-ios-explore-s-7heresdk11MapMarker3DC2at5modelAcA14GeoCoordinatesV_AA0bC6DModelCtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-at-model" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapmarker3d#sdk-for-ios-explore-s-7heresdk11MapMarker3DC2at5modelAcA14GeoCoordinatesV_AA0bC6DModelCtcfc" class="token"><code>init(at:</code><wbr></wbr><code>model:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -107,12 +107,15 @@ constructor. Of course, once created, it can be rotated to face any direction.
   Swift
 
   ``` highlight
-  public init ( at : GeoCoordinates , model : MapMarker3DModel )
+  public init(at: GeoCoordinates, model: MapMarker3DModel)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geocoordinates">GeoCoordinates</a>
+  - <a href="sdk-for-ios-explore-classes-mapmarker3dmodel">MapMarker3DModel</a>
 
   </div>
 
@@ -149,7 +152,7 @@ constructor. Of course, once created, it can be rotated to face any direction.
 
 - <div>
 
-      init(at: image: scale: unit: )
+   <span id="sdk-for-ios-explore-s-7heresdk11MapMarker3DC2at5image5scale4unitAcA14GeoCoordinatesV_AA0B5ImageCSdAA10RenderSizeV4UnitOtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-at-image-scale-unit" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapmarker3d#sdk-for-ios-explore-s-7heresdk11MapMarker3DC2at5image5scale4unitAcA14GeoCoordinatesV_AA0B5ImageCSdAA10RenderSizeV4UnitOtcfc" class="token"><code>init(at:</code><wbr></wbr><code>image:</code><wbr></wbr><code>scale:</code><wbr></wbr><code>unit:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -177,7 +180,7 @@ constructor. Of course, once created, it can be rotated to face any direction.
 
   Size of the rendered flat marker can be specified in either world or screen coordinate space.
 
-  For <a href="sdk-for-ios-explore-structs-rendersize-unit#/s:7heresdk10RenderSizeV4UnitO6pixelsyA2EmF">`RenderSize.Unit.pixels`</a>, the flat marker will cover
+  For <a href="sdk-for-ios-explore-structs-rendersize-unit#sdk-for-ios-explore-s-7heresdk10RenderSizeV4UnitO6pixelsyA2EmF">`RenderSize.Unit.pixels`</a>, the flat marker will cover
 
       MapMarker3D.init(GeoCoordinates, MapImage, Double, RenderSize.Unit).scale
 
@@ -187,7 +190,7 @@ constructor. Of course, once created, it can be rotated to face any direction.
   \* image’s height pixels vertically. The size of the flat marker remains constant on the screen.
   </p>
 
-  For <a href="sdk-for-ios-explore-structs-rendersize-unit#/s:7heresdk10RenderSizeV4UnitO24densityIndependentPixelsyA2EmF">`RenderSize.Unit.densityIndependentPixels`</a> the flat marker will cover
+  For <a href="sdk-for-ios-explore-structs-rendersize-unit#sdk-for-ios-explore-s-7heresdk10RenderSizeV4UnitO24densityIndependentPixelsyA2EmF">`RenderSize.Unit.densityIndependentPixels`</a> the flat marker will cover
 
       MapMarker3D.init(GeoCoordinates, MapImage, Double, RenderSize.Unit).scale
 
@@ -197,7 +200,7 @@ constructor. Of course, once created, it can be rotated to face any direction.
   \* image’s height density independent pixels vertically. The size of the flat marker remains constant on the screen.
   </p>
 
-  For <a href="sdk-for-ios-explore-structs-rendersize-unit#/s:7heresdk10RenderSizeV4UnitO6metersyA2EmF">`RenderSize.Unit.meters`</a> the flat marker will cover
+  For <a href="sdk-for-ios-explore-structs-rendersize-unit#sdk-for-ios-explore-s-7heresdk10RenderSizeV4UnitO6metersyA2EmF">`RenderSize.Unit.meters`</a> the flat marker will cover
 
       MapMarker3D.init(GeoCoordinates, MapImage, Double, RenderSize.Unit).scale
 
@@ -218,12 +221,16 @@ constructor. Of course, once created, it can be rotated to face any direction.
   Swift
 
   ``` highlight
-  public init ( at : GeoCoordinates , image : MapImage , scale : Double , unit : RenderSize . Unit )
+  public init(at: GeoCoordinates, image: MapImage, scale: Double, unit: RenderSize.Unit)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geocoordinates">GeoCoordinates</a>
+  - <a href="sdk-for-ios-explore-classes-mapimage">MapImage</a>
+  - <a href="sdk-for-ios-explore-structs-rendersize">RenderSize</a>
 
   </div>
 
@@ -272,7 +279,7 @@ constructor. Of course, once created, it can be rotated to face any direction.
 
 - <div>
 
-      init(at: model: scale: )
+   <span id="sdk-for-ios-explore-s-7heresdk11MapMarker3DC2at5model5scaleAcA14GeoCoordinatesV_AA0bC6DModelCSdtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-at-model-scale" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapmarker3d#sdk-for-ios-explore-s-7heresdk11MapMarker3DC2at5model5scaleAcA14GeoCoordinatesV_AA0bC6DModelCSdtcfc" class="token"><code>init(at:</code><wbr></wbr><code>model:</code><wbr></wbr><code>scale:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -314,12 +321,15 @@ constructor. Of course, once created, it can be rotated to face any direction.
   Swift
 
   ``` highlight
-  public init ( at : GeoCoordinates , model : MapMarker3DModel , scale : Double )
+  public init(at: GeoCoordinates, model: MapMarker3DModel, scale: Double)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geocoordinates">GeoCoordinates</a>
+  - <a href="sdk-for-ios-explore-classes-mapmarker3dmodel">MapMarker3DModel</a>
 
   </div>
 
@@ -362,7 +372,7 @@ constructor. Of course, once created, it can be rotated to face any direction.
 
 - <div>
 
-      init(at: model: scale: unit: )
+   <span id="sdk-for-ios-explore-s-7heresdk11MapMarker3DC2at5model5scale4unitAcA14GeoCoordinatesV_AA0bC6DModelCSdAA10RenderSizeV4UnitOtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-at-model-scale-unit" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapmarker3d#sdk-for-ios-explore-s-7heresdk11MapMarker3DC2at5model5scale4unitAcA14GeoCoordinatesV_AA0bC6DModelCSdAA10RenderSizeV4UnitOtcfc" class="token"><code>init(at:</code><wbr></wbr><code>model:</code><wbr></wbr><code>scale:</code><wbr></wbr><code>unit:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -384,21 +394,21 @@ constructor. Of course, once created, it can be rotated to face any direction.
 
   The unit specifies how the 3D geometry of the model is interpreted (meters for world space, pixels or density independent pixels for screen space), while scale determines its relative size.
 
-  For <a href="sdk-for-ios-explore-structs-rendersize-unit#/s:7heresdk10RenderSizeV4UnitO6pixelsyA2EmF">`RenderSize.Unit.pixels`</a> one unit of the 3D marker model will cover
+  For <a href="sdk-for-ios-explore-structs-rendersize-unit#sdk-for-ios-explore-s-7heresdk10RenderSizeV4UnitO6pixelsyA2EmF">`RenderSize.Unit.pixels`</a> one unit of the 3D marker model will cover
 
       MapMarker3D.init(GeoCoordinates, MapMarker3DModel, Double, RenderSize.Unit).scale
 
   pixels. The size of the 3D marker remains constant on the screen.
   </p>
 
-  For <a href="sdk-for-ios-explore-structs-rendersize-unit#/s:7heresdk10RenderSizeV4UnitO24densityIndependentPixelsyA2EmF">`RenderSize.Unit.densityIndependentPixels`</a> one unit of the 3D marker model will cover
+  For <a href="sdk-for-ios-explore-structs-rendersize-unit#sdk-for-ios-explore-s-7heresdk10RenderSizeV4UnitO24densityIndependentPixelsyA2EmF">`RenderSize.Unit.densityIndependentPixels`</a> one unit of the 3D marker model will cover
 
       MapMarker3D.init(GeoCoordinates, MapMarker3DModel, Double, RenderSize.Unit).scale
 
   density independent pixels. The size of the 3D marker remains constant on the screen.
   </p>
 
-  For <a href="sdk-for-ios-explore-structs-rendersize-unit#/s:7heresdk10RenderSizeV4UnitO6metersyA2EmF">`RenderSize.Unit.meters`</a> one unit of the 3D marker model will cover
+  For <a href="sdk-for-ios-explore-structs-rendersize-unit#sdk-for-ios-explore-s-7heresdk10RenderSizeV4UnitO6metersyA2EmF">`RenderSize.Unit.meters`</a> one unit of the 3D marker model will cover
 
       MapMarker3D.init(GeoCoordinates, MapMarker3DModel, Double, RenderSize.Unit).scale
 
@@ -420,12 +430,16 @@ constructor. Of course, once created, it can be rotated to face any direction.
   Swift
 
   ``` highlight
-  public init ( at : GeoCoordinates , model : MapMarker3DModel , scale : Double , unit : RenderSize . Unit )
+  public init(at: GeoCoordinates, model: MapMarker3DModel, scale: Double, unit: RenderSize.Unit)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geocoordinates">GeoCoordinates</a>
+  - <a href="sdk-for-ios-explore-classes-mapmarker3dmodel">MapMarker3DModel</a>
+  - <a href="sdk-for-ios-explore-structs-rendersize">RenderSize</a>
 
   </div>
 
@@ -474,7 +488,7 @@ constructor. Of course, once created, it can be rotated to face any direction.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11MapMarker3DC11coordinatesAA14GeoCoordinatesVvp"></span>` `<span id="//apple_ref/swift/Property/coordinates" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-mapmarker3d#/s:7heresdk11MapMarker3DC11coordinatesAA14GeoCoordinatesVvp" class="token"><code>coordinates</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11MapMarker3DC11coordinatesAA14GeoCoordinatesVvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-coordinates" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapmarker3d#sdk-for-ios-explore-s-7heresdk11MapMarker3DC11coordinatesAA14GeoCoordinatesVvp" class="token"><code>coordinates</code></a> 
 
   </div>
 
@@ -510,6 +524,10 @@ constructor. Of course, once created, it can be rotated to face any direction.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geocoordinates">GeoCoordinates</a>
+
   </div>
 
   </div>
@@ -518,7 +536,7 @@ constructor. Of course, once created, it can be rotated to face any direction.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11MapMarker3DC8metadataAA8MetadataCSgvp"></span>` `<span id="//apple_ref/swift/Property/metadata" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-mapmarker3d#/s:7heresdk11MapMarker3DC8metadataAA8MetadataCSgvp" class="token"><code>metadata</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11MapMarker3DC8metadataAA8MetadataCSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-metadata" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapmarker3d#sdk-for-ios-explore-s-7heresdk11MapMarker3DC8metadataAA8MetadataCSgvp" class="token"><code>metadata</code></a> 
 
   </div>
 
@@ -554,6 +572,10 @@ constructor. Of course, once created, it can be rotated to face any direction.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-metadata">Metadata</a>
+
   </div>
 
   </div>
@@ -562,7 +584,7 @@ constructor. Of course, once created, it can be rotated to face any direction.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11MapMarker3DC7bearingSdvp"></span>` `<span id="//apple_ref/swift/Property/bearing" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-mapmarker3d#/s:7heresdk11MapMarker3DC7bearingSdvp" class="token"><code>bearing</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11MapMarker3DC7bearingSdvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-bearing" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapmarker3d#sdk-for-ios-explore-s-7heresdk11MapMarker3DC7bearingSdvp" class="token"><code>bearing</code></a> 
 
   </div>
 
@@ -606,7 +628,7 @@ constructor. Of course, once created, it can be rotated to face any direction.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11MapMarker3DC4rollSdvp"></span>` `<span id="//apple_ref/swift/Property/roll" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-mapmarker3d#/s:7heresdk11MapMarker3DC4rollSdvp" class="token"><code>roll</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11MapMarker3DC4rollSdvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-roll" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapmarker3d#sdk-for-ios-explore-s-7heresdk11MapMarker3DC4rollSdvp" class="token"><code>roll</code></a> 
 
   </div>
 
@@ -650,7 +672,7 @@ constructor. Of course, once created, it can be rotated to face any direction.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11MapMarker3DC5pitchSdvp"></span>` `<span id="//apple_ref/swift/Property/pitch" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-mapmarker3d#/s:7heresdk11MapMarker3DC5pitchSdvp" class="token"><code>pitch</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11MapMarker3DC5pitchSdvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-pitch" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapmarker3d#sdk-for-ios-explore-s-7heresdk11MapMarker3DC5pitchSdvp" class="token"><code>pitch</code></a> 
 
   </div>
 
@@ -694,7 +716,7 @@ constructor. Of course, once created, it can be rotated to face any direction.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11MapMarker3DC5scaleSdvp"></span>` `<span id="//apple_ref/swift/Property/scale" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-mapmarker3d#/s:7heresdk11MapMarker3DC5scaleSdvp" class="token"><code>scale</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11MapMarker3DC5scaleSdvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-scale" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapmarker3d#sdk-for-ios-explore-s-7heresdk11MapMarker3DC5scaleSdvp" class="token"><code>scale</code></a> 
 
   </div>
 
@@ -738,7 +760,7 @@ constructor. Of course, once created, it can be rotated to face any direction.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11MapMarker3DC19isDepthCheckEnabledSbvp"></span>` `<span id="//apple_ref/swift/Property/isDepthCheckEnabled" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-mapmarker3d#/s:7heresdk11MapMarker3DC19isDepthCheckEnabledSbvp" class="token"><code>isDepthCheckEnabled</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11MapMarker3DC19isDepthCheckEnabledSbvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-isDepthCheckEnabled" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapmarker3d#sdk-for-ios-explore-s-7heresdk11MapMarker3DC19isDepthCheckEnabledSbvp" class="token"><code>isDepthCheckEnabled</code></a> 
 
   </div>
 
@@ -760,7 +782,7 @@ constructor. Of course, once created, it can be rotated to face any direction.
 
   By default depth check is set to `false`.
 
-  Use the altitude of the <a href="sdk-for-ios-explore-classes-mapmarker3d#/s:7heresdk11MapMarker3DC11coordinatesAA14GeoCoordinatesVvp">`MapMarker3D.coordinates`</a> to position the 3D marker sufficiently high above the surface. Setting depth check to `true` will fix visual glitches where components of the marker 3D model unexpectedly shine through.
+  Use the altitude of the <a href="sdk-for-ios-explore-classes-mapmarker3d#sdk-for-ios-explore-s-7heresdk11MapMarker3DC11coordinatesAA14GeoCoordinatesVvp">`MapMarker3D.coordinates`</a> to position the 3D marker sufficiently high above the surface. Setting depth check to `true` will fix visual glitches where components of the marker 3D model unexpectedly shine through.
 
   </div>
 
@@ -786,7 +808,7 @@ constructor. Of course, once created, it can be rotated to face any direction.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11MapMarker3DC24isRenderInternalsEnabledSbvp"></span>` `<span id="//apple_ref/swift/Property/isRenderInternalsEnabled" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-mapmarker3d#/s:7heresdk11MapMarker3DC24isRenderInternalsEnabledSbvp" class="token"><code>isRenderInternalsEnabled</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11MapMarker3DC24isRenderInternalsEnabledSbvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-isRenderInternalsEnabled" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapmarker3d#sdk-for-ios-explore-s-7heresdk11MapMarker3DC24isRenderInternalsEnabledSbvp" class="token"><code>isRenderInternalsEnabled</code></a> 
 
   </div>
 
@@ -832,7 +854,7 @@ constructor. Of course, once created, it can be rotated to face any direction.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11MapMarker3DC7opacitySdvp"></span>` `<span id="//apple_ref/swift/Property/opacity" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-mapmarker3d#/s:7heresdk11MapMarker3DC7opacitySdvp" class="token"><code>opacity</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11MapMarker3DC7opacitySdvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-opacity" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapmarker3d#sdk-for-ios-explore-s-7heresdk11MapMarker3DC7opacitySdvp" class="token"><code>opacity</code></a> 
 
   </div>
 
@@ -876,7 +898,7 @@ constructor. Of course, once created, it can be rotated to face any direction.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11MapMarker3DC16visibilityRangesSayAA0B12MeasureRangeVGvp"></span>` `<span id="//apple_ref/swift/Property/visibilityRanges" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-mapmarker3d#/s:7heresdk11MapMarker3DC16visibilityRangesSayAA0B12MeasureRangeVGvp" class="token"><code>visibilityRanges</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11MapMarker3DC16visibilityRangesSayAA0B12MeasureRangeVGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-visibilityRanges" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapmarker3d#sdk-for-ios-explore-s-7heresdk11MapMarker3DC16visibilityRangesSayAA0B12MeasureRangeVGvp" class="token"><code>visibilityRanges</code></a> 
 
   </div>
 
@@ -896,7 +918,7 @@ constructor. Of course, once created, it can be rotated to face any direction.
 
   The list of visibility ranges. The 3D marker is visible only inside these map measure ranges. A range is half open - \<a href="sdk-for-ios-explore-classes-s">minimumZoomLevel, maximumZoomLevel), the given maximum value is not contained in the range.
 
-  When empty (the default), the 3D marker is visible without map measure restrictions. Only [MapMeasureRange</a> of <a href="sdk-for-ios-explore-structs-mapmeasure-kind#/s:7heresdk10MapMeasureV4KindO9zoomLevelyA2EmF">`MapMeasure.Kind.zoomLevel`</a> type are supported. <a href="sdk-for-ios-explore-classes-s">MapMeasureRange</a> of other unsupported types will be ignored.
+  When empty (the default), the 3D marker is visible without map measure restrictions. Only [MapMeasureRange</a> of <a href="sdk-for-ios-explore-structs-mapmeasure-kind#sdk-for-ios-explore-s-7heresdk10MapMeasureV4KindO9zoomLevelyA2EmF">`MapMeasure.Kind.zoomLevel`</a> type are supported. <a href="sdk-for-ios-explore-classes-s">MapMeasureRange</a> of other unsupported types will be ignored.
 
   </div>
 
@@ -913,6 +935,10 @@ constructor. Of course, once created, it can be rotated to face any direction.
   ```
 
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-mapmeasurerange">MapMeasureRange</a>
 
   </div>
 

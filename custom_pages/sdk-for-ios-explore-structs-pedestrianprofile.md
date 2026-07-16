@@ -10,10 +10,9 @@ slug: "sdk-for-ios-explore-structs-pedestrianprofile"
 <div class="language">
 
 ``` highlight
-@available(*, deprecated, message: "Will be removed in v4.28.0. Use `sdk.transport.TransportSpecification` instead.") public struct PedestrianProfile : Hashable
+@available(*, deprecated, message: "Will be removed in v4.28.0. Use `sdk.transport.TransportSpecification` instead.")
+public struct PedestrianProfile : Hashable
 ```
-
-</pre>
 
 </div>
 
@@ -29,7 +28,7 @@ Contains values of pedestrian profile. This is a BETA feature and thus there can
 
 - <div>
 
-  ` `<span id="/s:7heresdk17PedestrianProfileV29walkingSpeedInMetersPerSecondSdvp"></span>` `<span id="//apple_ref/swift/Property/walkingSpeedInMetersPerSecond" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-pedestrianprofile#/s:7heresdk17PedestrianProfileV29walkingSpeedInMetersPerSecondSdvp" class="token"><code>walkingSpeedInMetersPerSecond</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17PedestrianProfileV29walkingSpeedInMetersPerSecondSdvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-walkingSpeedInMetersPerSecond" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-pedestrianprofile#sdk-for-ios-explore-s-7heresdk17PedestrianProfileV29walkingSpeedInMetersPerSecondSdvp" class="token"><code>walkingSpeedInMetersPerSecond</code></a> 
 
   </div>
 
@@ -73,7 +72,7 @@ Contains values of pedestrian profile. This is a BETA feature and thus there can
 
 - <div>
 
-      init(walkingSpeedInMetersPerSecond: )
+   <span id="sdk-for-ios-explore-s-7heresdk17PedestrianProfileV29walkingSpeedInMetersPerSecondACSd_tcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-walkingSpeedInMetersPerSecond" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-pedestrianprofile#sdk-for-ios-explore-s-7heresdk17PedestrianProfileV29walkingSpeedInMetersPerSecondACSd_tcfc" class="token"><code>init(walkingSpeedInMetersPerSecond:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -104,10 +103,8 @@ Contains values of pedestrian profile. This is a BETA feature and thus there can
   Swift
 
   ``` highlight
-  public init ( walkingSpeedInMetersPerSecond : Double = 1.0 )
+  public init(walkingSpeedInMetersPerSecond: Double = 1.0)
   ```
-
-  </pre>
 
   </div>
 

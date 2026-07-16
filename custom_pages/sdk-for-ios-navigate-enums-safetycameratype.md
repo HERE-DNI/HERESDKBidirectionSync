@@ -27,7 +27,7 @@ Indicates the type of the safety camera.
 
 - <div>
 
-  ` `<span id="/s:7heresdk16SafetyCameraTypeO7busLaneyA2CmF"></span>` `<span id="//apple_ref/swift/Element/busLane" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-safetycameratype#/s:7heresdk16SafetyCameraTypeO7busLaneyA2CmF" class="token"><code>busLane</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16SafetyCameraTypeO7busLaneyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-busLane" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-safetycameratype#sdk-for-ios-navigate-s-7heresdk16SafetyCameraTypeO7busLaneyA2CmF" class="token"><code>busLane</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Indicates the type of the safety camera.
 
 - <div>
 
-  ` `<span id="/s:7heresdk16SafetyCameraTypeO8distanceyA2CmF"></span>` `<span id="//apple_ref/swift/Element/distance" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-safetycameratype#/s:7heresdk16SafetyCameraTypeO8distanceyA2CmF" class="token"><code>distance</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16SafetyCameraTypeO8distanceyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-distance" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-safetycameratype#sdk-for-ios-navigate-s-7heresdk16SafetyCameraTypeO8distanceyA2CmF" class="token"><code>distance</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Indicates the type of the safety camera.
 
 - <div>
 
-  ` `<span id="/s:7heresdk16SafetyCameraTypeO8redLightyA2CmF"></span>` `<span id="//apple_ref/swift/Element/redLight" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-safetycameratype#/s:7heresdk16SafetyCameraTypeO8redLightyA2CmF" class="token"><code>redLight</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16SafetyCameraTypeO8redLightyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-redLight" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-safetycameratype#sdk-for-ios-navigate-s-7heresdk16SafetyCameraTypeO8redLightyA2CmF" class="token"><code>redLight</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Indicates the type of the safety camera.
 
 - <div>
 
-  ` `<span id="/s:7heresdk16SafetyCameraTypeO16redLightAndSpeedyA2CmF"></span>` `<span id="//apple_ref/swift/Element/redLightAndSpeed" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-safetycameratype#/s:7heresdk16SafetyCameraTypeO16redLightAndSpeedyA2CmF" class="token"><code>redLightAndSpeed</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16SafetyCameraTypeO16redLightAndSpeedyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-redLightAndSpeed" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-safetycameratype#sdk-for-ios-navigate-s-7heresdk16SafetyCameraTypeO16redLightAndSpeedyA2CmF" class="token"><code>redLightAndSpeed</code></a> 
 
   </div>
 
@@ -203,7 +203,7 @@ Indicates the type of the safety camera.
 
 - <div>
 
-  ` `<span id="/s:7heresdk16SafetyCameraTypeO10sectionEndyA2CmF"></span>` `<span id="//apple_ref/swift/Element/sectionEnd" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-safetycameratype#/s:7heresdk16SafetyCameraTypeO10sectionEndyA2CmF" class="token"><code>sectionEnd</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16SafetyCameraTypeO10sectionEndyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-sectionEnd" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-safetycameratype#sdk-for-ios-navigate-s-7heresdk16SafetyCameraTypeO10sectionEndyA2CmF" class="token"><code>sectionEnd</code></a> 
 
   </div>
 
@@ -247,7 +247,7 @@ Indicates the type of the safety camera.
 
 - <div>
 
-  ` `<span id="/s:7heresdk16SafetyCameraTypeO12sectionStartyA2CmF"></span>` `<span id="//apple_ref/swift/Element/sectionStart" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-safetycameratype#/s:7heresdk16SafetyCameraTypeO12sectionStartyA2CmF" class="token"><code>sectionStart</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16SafetyCameraTypeO12sectionStartyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-sectionStart" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-safetycameratype#sdk-for-ios-navigate-s-7heresdk16SafetyCameraTypeO12sectionStartyA2CmF" class="token"><code>sectionStart</code></a> 
 
   </div>
 
@@ -291,7 +291,7 @@ Indicates the type of the safety camera.
 
 - <div>
 
-  ` `<span id="/s:7heresdk16SafetyCameraTypeO5speedyA2CmF"></span>` `<span id="//apple_ref/swift/Element/speed" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-safetycameratype#/s:7heresdk16SafetyCameraTypeO5speedyA2CmF" class="token"><code>speed</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16SafetyCameraTypeO5speedyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-speed" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-safetycameratype#sdk-for-ios-navigate-s-7heresdk16SafetyCameraTypeO5speedyA2CmF" class="token"><code>speed</code></a> 
 
   </div>
 

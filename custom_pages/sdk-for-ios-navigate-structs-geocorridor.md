@@ -27,7 +27,7 @@ A geographical area that wraps around a geographical polyline with a given dista
 
 - <div>
 
-  ` `<span id="/s:7heresdk11GeoCorridorV8polylineSayAA0B11CoordinatesVGvp"></span>` `<span id="//apple_ref/swift/Property/polyline" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-geocorridor#/s:7heresdk11GeoCorridorV8polylineSayAA0B11CoordinatesVGvp" class="token"><code>polyline</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11GeoCorridorV8polylineSayAA0B11CoordinatesVGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-polyline" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-geocorridor#sdk-for-ios-navigate-s-7heresdk11GeoCorridorV8polylineSayAA0B11CoordinatesVGvp" class="token"><code>polyline</code></a> 
 
   </div>
 
@@ -63,6 +63,10 @@ A geographical area that wraps around a geographical polyline with a given dista
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-geocoordinates">GeoCoordinates</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ A geographical area that wraps around a geographical polyline with a given dista
 
 - <div>
 
-  ` `<span id="/s:7heresdk11GeoCorridorV17halfWidthInMeterss5Int32VSgvp"></span>` `<span id="//apple_ref/swift/Property/halfWidthInMeters" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-geocorridor#/s:7heresdk11GeoCorridorV17halfWidthInMeterss5Int32VSgvp" class="token"><code>halfWidthInMeters</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11GeoCorridorV17halfWidthInMeterss5Int32VSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-halfWidthInMeters" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-geocorridor#sdk-for-ios-navigate-s-7heresdk11GeoCorridorV17halfWidthInMeterss5Int32VSgvp" class="token"><code>halfWidthInMeters</code></a> 
 
   </div>
 
@@ -115,7 +119,7 @@ A geographical area that wraps around a geographical polyline with a given dista
 
 - <div>
 
-      init(polyline: halfWidthInMeters: )
+   <span id="sdk-for-ios-navigate-s-7heresdk11GeoCorridorV8polyline17halfWidthInMetersACSayAA0B11CoordinatesVG_s5Int32Vtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-polyline-halfWidthInMeters" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-geocorridor#sdk-for-ios-navigate-s-7heresdk11GeoCorridorV8polyline17halfWidthInMetersACSayAA0B11CoordinatesVG_s5Int32Vtcfc" class="token"><code>init(polyline:</code><wbr></wbr><code>halfWidthInMeters:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -146,12 +150,14 @@ A geographical area that wraps around a geographical polyline with a given dista
   Swift
 
   ``` highlight
-  public init ( polyline : [ GeoCoordinates ], halfWidthInMeters : Int32 )
+  public init(polyline: [GeoCoordinates], halfWidthInMeters: Int32)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-geocoordinates">GeoCoordinates</a>
 
   </div>
 
@@ -188,7 +194,7 @@ A geographical area that wraps around a geographical polyline with a given dista
 
 - <div>
 
-      init(polyline: )
+   <span id="sdk-for-ios-navigate-s-7heresdk11GeoCorridorV8polylineACSayAA0B11CoordinatesVG_tcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-polyline" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-geocorridor#sdk-for-ios-navigate-s-7heresdk11GeoCorridorV8polylineACSayAA0B11CoordinatesVG_tcfc" class="token"><code>init(polyline:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -219,12 +225,14 @@ A geographical area that wraps around a geographical polyline with a given dista
   Swift
 
   ``` highlight
-  public init ( polyline : [ GeoCoordinates ])
+  public init(polyline: [GeoCoordinates])
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-geocoordinates">GeoCoordinates</a>
 
   </div>
 

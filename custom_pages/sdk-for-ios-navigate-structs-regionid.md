@@ -27,7 +27,7 @@ Specify a unique identifier for Region.
 
 - <div>
 
-  ` `<span id="/s:7heresdk8RegionIdV2ids5Int64Vvp"></span>` `<span id="//apple_ref/swift/Property/id" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-regionid#/s:7heresdk8RegionIdV2ids5Int64Vvp" class="token"><code>id</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8RegionIdV2ids5Int64Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-id" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-regionid#sdk-for-ios-navigate-s-7heresdk8RegionIdV2ids5Int64Vvp" class="token"><code>id</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Specify a unique identifier for Region.
 
 - <div>
 
-      init(id: )
+   <span id="sdk-for-ios-navigate-s-7heresdk8RegionIdV2idACs5Int64V_tcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-id" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-regionid#sdk-for-ios-navigate-s-7heresdk8RegionIdV2idACs5Int64V_tcfc" class="token"><code>init(id:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -102,10 +102,8 @@ Specify a unique identifier for Region.
   Swift
 
   ``` highlight
-  public init ( id : Int64 )
+  public init(id: Int64)
   ```
-
-  </pre>
 
   </div>
 

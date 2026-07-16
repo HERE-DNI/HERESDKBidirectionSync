@@ -27,7 +27,7 @@ This protocol should be implemented in order to receive notifications about loca
 
 - <div>
 
-      onLocationUpdated(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk16LocationDelegateP02onB7UpdatedyyAA0B0VF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-onLocationUpdated-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-protocols-locationdelegate#sdk-for-ios-explore-s-7heresdk16LocationDelegateP02onB7UpdatedyyAA0B0VF" class="token"><code>onLocationUpdated(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -45,7 +45,7 @@ This protocol should be implemented in order to receive notifications about loca
 
   <div class="abstract">
 
-  Called each time a new location is available. In a navigation context while using the <a href="sdk-for-ios-explore-classes-navigator">`Navigator`</a> or <a href="sdk-for-ios-explore-classes-visualnavigator">`VisualNavigator`</a>, it’s required to set the <a href="sdk-for-ios-explore-structs-location#/s:7heresdk8LocationV4time10Foundation4DateVSgvp">`Location.time`</a> parameter for each <a href="sdk-for-ios-explore-structs-location">`Location`</a> object so that the HERE SDK can map-match the locations properly. If the <a href="sdk-for-ios-explore-structs-location#/s:7heresdk8LocationV4time10Foundation4DateVSgvp">`Location.time`</a> parameter is missing, the location will be ignored. For navigation, it is also recommended to provide the `bearing` and `speed` parameters for each <a href="sdk-for-ios-explore-structs-location">`Location`</a> object. Invoked on the main thread.
+  Called each time a new location is available. In a navigation context while using the <a href="sdk-for-ios-explore-classes-navigator">`Navigator`</a> or <a href="sdk-for-ios-explore-classes-visualnavigator">`VisualNavigator`</a>, it’s required to set the <a href="sdk-for-ios-explore-structs-location#sdk-for-ios-explore-s-7heresdk8LocationV4time10Foundation4DateVSgvp">`Location.time`</a> parameter for each <a href="sdk-for-ios-explore-structs-location">`Location`</a> object so that the HERE SDK can map-match the locations properly. If the <a href="sdk-for-ios-explore-structs-location#sdk-for-ios-explore-s-7heresdk8LocationV4time10Foundation4DateVSgvp">`Location.time`</a> parameter is missing, the location will be ignored. For navigation, it is also recommended to provide the `bearing` and `speed` parameters for each <a href="sdk-for-ios-explore-structs-location">`Location`</a> object. Invoked on the main thread.
 
   </div>
 
@@ -58,12 +58,14 @@ This protocol should be implemented in order to receive notifications about loca
   Swift
 
   ``` highlight
-  func onLocationUpdated ( _ location : Location )
+  func onLocationUpdated(_ location: Location)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-location">Location</a>
 
   </div>
 

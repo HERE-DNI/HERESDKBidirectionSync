@@ -27,7 +27,7 @@ Authentication data
 
 - <div>
 
-  ` `<span id="/s:7heresdk18AuthenticationDataV5tokenSSvp"></span>` `<span id="//apple_ref/swift/Property/token" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-authenticationdata#/s:7heresdk18AuthenticationDataV5tokenSSvp" class="token"><code>token</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18AuthenticationDataV5tokenSSvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-token" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-authenticationdata#sdk-for-ios-navigate-s-7heresdk18AuthenticationDataV5tokenSSvp" class="token"><code>token</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Authentication data
 
 - <div>
 
-  ` `<span id="/s:7heresdk18AuthenticationDataV10expiryTimeSdvp"></span>` `<span id="//apple_ref/swift/Property/expiryTime" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-authenticationdata#/s:7heresdk18AuthenticationDataV10expiryTimeSdvp" class="token"><code>expiryTime</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18AuthenticationDataV10expiryTimeSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-expiryTime" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-authenticationdata#sdk-for-ios-navigate-s-7heresdk18AuthenticationDataV10expiryTimeSdvp" class="token"><code>expiryTime</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Authentication data
 
 - <div>
 
-      init(token: expiryTime: )
+   <span id="sdk-for-ios-navigate-s-7heresdk18AuthenticationDataV5token10expiryTimeACSS_Sdtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-token-expiryTime" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-authenticationdata#sdk-for-ios-navigate-s-7heresdk18AuthenticationDataV5token10expiryTimeACSS_Sdtcfc" class="token"><code>init(token:</code><wbr></wbr><code>expiryTime:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -146,10 +146,8 @@ Authentication data
   Swift
 
   ``` highlight
-  public init ( token : String = "" , expiryTime : TimeInterval = 0 )
+  public init(token: String = "", expiryTime: TimeInterval = 0)
   ```
-
-  </pre>
 
   </div>
 

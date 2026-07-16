@@ -37,7 +37,7 @@ Provides the protocol for the access to the administrative rules available for a
 
 - <div>
 
-      init()
+   <span id="sdk-for-ios-explore-s-7heresdk25AdministrativeRulesLoaderCACyKcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-administrativerulesloader#sdk-for-ios-explore-s-7heresdk25AdministrativeRulesLoaderCACyKcfc" class="token"><code>init()</code></a> 
 
   </div>
 
@@ -61,7 +61,7 @@ Provides the protocol for the access to the administrative rules available for a
 
   Throws
 
-  <a href="sdk-for-ios-explore-core#/s:7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
+  <a href="sdk-for-ios-explore-core#sdk-for-ios-explore-s-7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
 
   </div>
 
@@ -76,10 +76,8 @@ Provides the protocol for the access to the administrative rules available for a
   Swift
 
   ``` highlight
-  public init () throws
+  public init() throws
   ```
-
-  </pre>
 
   </div>
 
@@ -91,7 +89,7 @@ Provides the protocol for the access to the administrative rules available for a
 
 - <div>
 
-      init(sdkEngine: )
+   <span id="sdk-for-ios-explore-s-7heresdk25AdministrativeRulesLoaderC9sdkEngineAcA09SDKNativeF0C_tKcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-sdkEngine" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-administrativerulesloader#sdk-for-ios-explore-s-7heresdk25AdministrativeRulesLoaderC9sdkEngineAcA09SDKNativeF0C_tKcfc" class="token"><code>init(sdkEngine:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -115,7 +113,7 @@ Provides the protocol for the access to the administrative rules available for a
 
   Throws
 
-  <a href="sdk-for-ios-explore-core#/s:7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
+  <a href="sdk-for-ios-explore-core#sdk-for-ios-explore-s-7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
 
   </div>
 
@@ -130,12 +128,14 @@ Provides the protocol for the access to the administrative rules available for a
   Swift
 
   ``` highlight
-  public init ( sdkEngine : SDKNativeEngine ) throws
+  public init(sdkEngine: SDKNativeEngine) throws
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-sdknativeengine">SDKNativeEngine</a>
 
   </div>
 
@@ -166,7 +166,7 @@ Provides the protocol for the access to the administrative rules available for a
 
 - <div>
 
-      getStateCodes(countryCode: )
+   <span id="sdk-for-ios-explore-s-7heresdk25AdministrativeRulesLoaderC13getStateCodes11countryCodeSaySSGAA07CountryI0O_tKF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-getStateCodes-countryCode" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-administrativerulesloader#sdk-for-ios-explore-s-7heresdk25AdministrativeRulesLoaderC13getStateCodes11countryCodeSaySSGAA07CountryI0O_tKF" class="token"><code>getStateCodes(countryCode:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -195,7 +195,7 @@ Provides the protocol for the access to the administrative rules available for a
 
   Throws
 
-  <a href="sdk-for-ios-explore-mapdata#/s:7heresdk18MapDataLoaderErrora">`MapDataLoaderError`</a> Specifies reason, why the list of state codes was not returned.
+  <a href="sdk-for-ios-explore-mapdata#sdk-for-ios-explore-s-7heresdk18MapDataLoaderErrora">`MapDataLoaderError`</a> Specifies reason, why the list of state codes was not returned.
 
   </div>
 
@@ -210,12 +210,14 @@ Provides the protocol for the access to the administrative rules available for a
   Swift
 
   ``` highlight
-  public func getStateCodes ( countryCode : CountryCode ) throws -> [ String ]
+  public func getStateCodes(countryCode: CountryCode) throws -> [String]
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-countrycode">CountryCode</a>
 
   </div>
 
@@ -254,7 +256,7 @@ Provides the protocol for the access to the administrative rules available for a
 
 - <div>
 
-      getAdministrativeRules(countryCode: stateCode: )
+   <span id="sdk-for-ios-explore-s-7heresdk25AdministrativeRulesLoaderC03getbC011countryCode05stateG0AA0bC0VAA07CountryG0O_SSSgtKF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-getAdministrativeRules-countryCode-stateCode" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-administrativerulesloader#sdk-for-ios-explore-s-7heresdk25AdministrativeRulesLoaderC03getbC011countryCode05stateG0AA0bC0VAA07CountryG0O_SSSgtKF" class="token"><code>getAdministrativeRules(countryCode:</code><wbr></wbr><code>stateCode:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -278,7 +280,7 @@ Provides the protocol for the access to the administrative rules available for a
 
   Throws
 
-  <a href="sdk-for-ios-explore-mapdata#/s:7heresdk18MapDataLoaderErrora">`MapDataLoaderError`</a> Specifies reason, why the administrative rules were not retrieved.
+  <a href="sdk-for-ios-explore-mapdata#sdk-for-ios-explore-s-7heresdk18MapDataLoaderErrora">`MapDataLoaderError`</a> Specifies reason, why the administrative rules were not retrieved.
 
   </div>
 
@@ -293,12 +295,15 @@ Provides the protocol for the access to the administrative rules available for a
   Swift
 
   ``` highlight
-  public func getAdministrativeRules ( countryCode : CountryCode , stateCode : String ?) throws -> AdministrativeRules
+  public func getAdministrativeRules(countryCode: CountryCode, stateCode: String?) throws -> AdministrativeRules
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-countrycode">CountryCode</a>
+  - <a href="sdk-for-ios-explore-structs-administrativerules">AdministrativeRules</a>
 
   </div>
 

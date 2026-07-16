@@ -27,7 +27,7 @@ Represents name and optionally other details about operator, suboperator, or e-M
 
 - <div>
 
-  ` `<span id="/s:7heresdk18EVChargingOperatorV4nameSSvp"></span>` `<span id="//apple_ref/swift/Property/name" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evchargingoperator#/s:7heresdk18EVChargingOperatorV4nameSSvp" class="token"><code>name</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18EVChargingOperatorV4nameSSvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-name" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingoperator#sdk-for-ios-navigate-s-7heresdk18EVChargingOperatorV4nameSSvp" class="token"><code>name</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Represents name and optionally other details about operator, suboperator, or e-M
 
 - <div>
 
-  ` `<span id="/s:7heresdk18EVChargingOperatorV9partnerIDSSvp"></span>` `<span id="//apple_ref/swift/Property/partnerID" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evchargingoperator#/s:7heresdk18EVChargingOperatorV9partnerIDSSvp" class="token"><code>partnerID</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18EVChargingOperatorV9partnerIDSSvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-partnerID" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingoperator#sdk-for-ios-navigate-s-7heresdk18EVChargingOperatorV9partnerIDSSvp" class="token"><code>partnerID</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Represents name and optionally other details about operator, suboperator, or e-M
 
 - <div>
 
-  ` `<span id="/s:7heresdk18EVChargingOperatorV7websiteSSSgvp"></span>` `<span id="//apple_ref/swift/Property/website" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evchargingoperator#/s:7heresdk18EVChargingOperatorV7websiteSSSgvp" class="token"><code>website</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18EVChargingOperatorV7websiteSSSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-website" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingoperator#sdk-for-ios-navigate-s-7heresdk18EVChargingOperatorV7websiteSSSgvp" class="token"><code>website</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Represents name and optionally other details about operator, suboperator, or e-M
 
 - <div>
 
-  ` `<span id="/s:7heresdk18EVChargingOperatorV4logoAA9BrandLogoVSgvp"></span>` `<span id="//apple_ref/swift/Property/logo" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evchargingoperator#/s:7heresdk18EVChargingOperatorV4logoAA9BrandLogoVSgvp" class="token"><code>logo</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18EVChargingOperatorV4logoAA9BrandLogoVSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-logo" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingoperator#sdk-for-ios-navigate-s-7heresdk18EVChargingOperatorV4logoAA9BrandLogoVSgvp" class="token"><code>logo</code></a> 
 
   </div>
 
@@ -195,6 +195,10 @@ Represents name and optionally other details about operator, suboperator, or e-M
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-brandlogo">BrandLogo</a>
+
   </div>
 
   </div>
@@ -203,7 +207,7 @@ Represents name and optionally other details about operator, suboperator, or e-M
 
 - <div>
 
-  ` `<span id="/s:7heresdk18EVChargingOperatorV12eMobilityIDsSaySSGvp"></span>` `<span id="//apple_ref/swift/Property/eMobilityIDs" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evchargingoperator#/s:7heresdk18EVChargingOperatorV12eMobilityIDsSaySSGvp" class="token"><code>eMobilityIDs</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18EVChargingOperatorV12eMobilityIDsSaySSGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-eMobilityIDs" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingoperator#sdk-for-ios-navigate-s-7heresdk18EVChargingOperatorV12eMobilityIDsSaySSGvp" class="token"><code>eMobilityIDs</code></a> 
 
   </div>
 
@@ -247,7 +251,7 @@ Represents name and optionally other details about operator, suboperator, or e-M
 
 - <div>
 
-      init(name: partnerID: website: logo: eMobilityIDs: )
+   <span id="sdk-for-ios-navigate-s-7heresdk18EVChargingOperatorV4name9partnerID7website4logo12eMobilityIDsACSS_S2SSgAA9BrandLogoVSgSaySSGtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-name-partnerID-website-logo-eMobilityIDs" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingoperator#sdk-for-ios-navigate-s-7heresdk18EVChargingOperatorV4name9partnerID7website4logo12eMobilityIDsACSS_S2SSgAA9BrandLogoVSgSaySSGtcfc" class="token"><code>init(name:</code><wbr></wbr><code>partnerID:</code><wbr></wbr><code>website:</code><wbr></wbr><code>logo:</code><wbr></wbr><code>eMobilityIDs:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -278,12 +282,14 @@ Represents name and optionally other details about operator, suboperator, or e-M
   Swift
 
   ``` highlight
-  public init ( name : String = "" , partnerID : String = "" , website : String ? = nil , logo : BrandLogo ? = nil , eMobilityIDs : [ String ] = [])
+  public init(name: String = "", partnerID: String = "", website: String? = nil, logo: BrandLogo? = nil, eMobilityIDs: [String] = [])
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-brandlogo">BrandLogo</a>
 
   </div>
 

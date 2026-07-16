@@ -27,7 +27,7 @@ Defines the type of a dimension restriction.
 
 - <div>
 
-  ` `<span id="/s:7heresdk24DimensionRestrictionTypeO11truckHeightyA2CmF"></span>` `<span id="//apple_ref/swift/Element/truckHeight" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-dimensionrestrictiontype#/s:7heresdk24DimensionRestrictionTypeO11truckHeightyA2CmF" class="token"><code>truckHeight</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk24DimensionRestrictionTypeO11truckHeightyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-truckHeight" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-dimensionrestrictiontype#sdk-for-ios-explore-s-7heresdk24DimensionRestrictionTypeO11truckHeightyA2CmF" class="token"><code>truckHeight</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Defines the type of a dimension restriction.
 
 - <div>
 
-  ` `<span id="/s:7heresdk24DimensionRestrictionTypeO10truckWidthyA2CmF"></span>` `<span id="//apple_ref/swift/Element/truckWidth" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-dimensionrestrictiontype#/s:7heresdk24DimensionRestrictionTypeO10truckWidthyA2CmF" class="token"><code>truckWidth</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk24DimensionRestrictionTypeO10truckWidthyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-truckWidth" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-dimensionrestrictiontype#sdk-for-ios-explore-s-7heresdk24DimensionRestrictionTypeO10truckWidthyA2CmF" class="token"><code>truckWidth</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Defines the type of a dimension restriction.
 
 - <div>
 
-  ` `<span id="/s:7heresdk24DimensionRestrictionTypeO11truckLengthyA2CmF"></span>` `<span id="//apple_ref/swift/Element/truckLength" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-dimensionrestrictiontype#/s:7heresdk24DimensionRestrictionTypeO11truckLengthyA2CmF" class="token"><code>truckLength</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk24DimensionRestrictionTypeO11truckLengthyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-truckLength" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-dimensionrestrictiontype#sdk-for-ios-explore-s-7heresdk24DimensionRestrictionTypeO11truckLengthyA2CmF" class="token"><code>truckLength</code></a> 
 
   </div>
 

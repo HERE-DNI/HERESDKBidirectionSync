@@ -27,7 +27,7 @@ A struct that provides lane assistance information for the next maneuver(s). Dur
 
 - <div>
 
-  ` `<span id="/s:7heresdk26ManeuverViewLaneAssistanceV012lanesForNextB0SayAA0D0VGvp"></span>` `<span id="//apple_ref/swift/Property/lanesForNextManeuver" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-maneuverviewlaneassistance#/s:7heresdk26ManeuverViewLaneAssistanceV012lanesForNextB0SayAA0D0VGvp" class="token"><code>lanesForNextManeuver</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk26ManeuverViewLaneAssistanceV012lanesForNextB0SayAA0D0VGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-lanesForNextManeuver" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-maneuverviewlaneassistance#sdk-for-ios-explore-s-7heresdk26ManeuverViewLaneAssistanceV012lanesForNextB0SayAA0D0VGvp" class="token"><code>lanesForNextManeuver</code></a> 
 
   </div>
 
@@ -45,7 +45,7 @@ A struct that provides lane assistance information for the next maneuver(s). Dur
 
   <div class="abstract">
 
-  A list of lanes on the current road that leads to the upcoming maneuver. The lanes are sorted from left to right: The lane at index 0 represents the leftmost lane and the last index represents the rightmost lane. This is valid for both right-hand and left-hand driving countries. Contraflow lanes are not included in the list. The list is guaranteed to be non-empty. <a href="sdk-for-ios-explore-structs-roadattributes#/s:7heresdk14RoadAttributesV18isRightDrivingSideSbvp">`RoadAttributes.isRightDrivingSide`</a> indicates if this is a left-hand driving country or not.
+  A list of lanes on the current road that leads to the upcoming maneuver. The lanes are sorted from left to right: The lane at index 0 represents the leftmost lane and the last index represents the rightmost lane. This is valid for both right-hand and left-hand driving countries. Contraflow lanes are not included in the list. The list is guaranteed to be non-empty. <a href="sdk-for-ios-explore-structs-roadattributes#sdk-for-ios-explore-s-7heresdk14RoadAttributesV18isRightDrivingSideSbvp">`RoadAttributes.isRightDrivingSide`</a> indicates if this is a left-hand driving country or not.
 
   </div>
 
@@ -63,6 +63,10 @@ A struct that provides lane assistance information for the next maneuver(s). Dur
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-lane">Lane</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ A struct that provides lane assistance information for the next maneuver(s). Dur
 
 - <div>
 
-  ` `<span id="/s:7heresdk26ManeuverViewLaneAssistanceV012lanesForNexthB0SayAA0D0VGvp"></span>` `<span id="//apple_ref/swift/Property/lanesForNextNextManeuver" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-maneuverviewlaneassistance#/s:7heresdk26ManeuverViewLaneAssistanceV012lanesForNexthB0SayAA0D0VGvp" class="token"><code>lanesForNextNextManeuver</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk26ManeuverViewLaneAssistanceV012lanesForNexthB0SayAA0D0VGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-lanesForNextNextManeuver" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-maneuverviewlaneassistance#sdk-for-ios-explore-s-7heresdk26ManeuverViewLaneAssistanceV012lanesForNexthB0SayAA0D0VGvp" class="token"><code>lanesForNextNextManeuver</code></a> 
 
   </div>
 
@@ -89,7 +93,7 @@ A struct that provides lane assistance information for the next maneuver(s). Dur
 
   <div class="abstract">
 
-  A list of lanes on the road that leads to the maneuver after the upcoming maneuver. The lanes are sorted from left to right: The lane at index 0 represents the leftmost lane and the last index represents the rightmost lane. This is valid for both right-hand and left-hand driving countries. Contraflow lanes are not included in the list. <a href="sdk-for-ios-explore-structs-roadattributes#/s:7heresdk14RoadAttributesV18isRightDrivingSideSbvp">`RoadAttributes.isRightDrivingSide`</a> indicates if this is a left-hand driving country or not. By default, this list is empty. It will be filled when the next two maneuvers are too close to each other, or when the next two maneuvers are roundabout maneuvers. Note: This notification is delivered at the same time as the <a href="sdk-for-ios-explore-structs-maneuverviewlaneassistance#/s:7heresdk26ManeuverViewLaneAssistanceV012lanesForNextB0SayAA0D0VGvp">`ManeuverViewLaneAssistance.lanesForNextManeuver`</a>. There is no separate maneuver notification on the second maneuver when two maneuvers are are too close to each other.
+  A list of lanes on the road that leads to the maneuver after the upcoming maneuver. The lanes are sorted from left to right: The lane at index 0 represents the leftmost lane and the last index represents the rightmost lane. This is valid for both right-hand and left-hand driving countries. Contraflow lanes are not included in the list. <a href="sdk-for-ios-explore-structs-roadattributes#sdk-for-ios-explore-s-7heresdk14RoadAttributesV18isRightDrivingSideSbvp">`RoadAttributes.isRightDrivingSide`</a> indicates if this is a left-hand driving country or not. By default, this list is empty. It will be filled when the next two maneuvers are too close to each other, or when the next two maneuvers are roundabout maneuvers. Note: This notification is delivered at the same time as the <a href="sdk-for-ios-explore-structs-maneuverviewlaneassistance#sdk-for-ios-explore-s-7heresdk26ManeuverViewLaneAssistanceV012lanesForNextB0SayAA0D0VGvp">`ManeuverViewLaneAssistance.lanesForNextManeuver`</a>. There is no separate maneuver notification on the second maneuver when two maneuvers are are too close to each other.
 
   </div>
 
@@ -107,6 +111,10 @@ A struct that provides lane assistance information for the next maneuver(s). Dur
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-lane">Lane</a>
+
   </div>
 
   </div>
@@ -115,7 +123,7 @@ A struct that provides lane assistance information for the next maneuver(s). Dur
 
 - <div>
 
-      init(lanesForNextManeuver: lanesForNextNextManeuver: )
+   <span id="sdk-for-ios-explore-s-7heresdk26ManeuverViewLaneAssistanceV012lanesForNextB00fghhB0ACSayAA0D0VG_AHtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-lanesForNextManeuver-lanesForNextNextManeuver" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-maneuverviewlaneassistance#sdk-for-ios-explore-s-7heresdk26ManeuverViewLaneAssistanceV012lanesForNextB00fghhB0ACSayAA0D0VG_AHtcfc" class="token"><code>init(lanesForNextManeuver:</code><wbr></wbr><code>lanesForNextNextManeuver:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -146,12 +154,14 @@ A struct that provides lane assistance information for the next maneuver(s). Dur
   Swift
 
   ``` highlight
-  public init ( lanesForNextManeuver : [ Lane ], lanesForNextNextManeuver : [ Lane ])
+  public init(lanesForNextManeuver: [Lane], lanesForNextNextManeuver: [Lane])
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-lane">Lane</a>
 
   </div>
 

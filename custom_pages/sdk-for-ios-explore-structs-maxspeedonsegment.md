@@ -29,7 +29,7 @@ New base speed for a segment. Affects route calculation and the ETA. Cannot incr
 
 - <div>
 
-  ` `<span id="/s:7heresdk17MaxSpeedOnSegmentV7segmentAA0E9ReferenceVvp"></span>` `<span id="//apple_ref/swift/Property/segment" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-maxspeedonsegment#/s:7heresdk17MaxSpeedOnSegmentV7segmentAA0E9ReferenceVvp" class="token"><code>segment</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17MaxSpeedOnSegmentV7segmentAA0E9ReferenceVvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-segment" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-maxspeedonsegment#sdk-for-ios-explore-s-7heresdk17MaxSpeedOnSegmentV7segmentAA0E9ReferenceVvp" class="token"><code>segment</code></a> 
 
   </div>
 
@@ -67,6 +67,10 @@ New base speed for a segment. Affects route calculation and the ETA. Cannot incr
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-segmentreference">SegmentReference</a>
+
   </div>
 
   </div>
@@ -75,7 +79,7 @@ New base speed for a segment. Affects route calculation and the ETA. Cannot incr
 
 - <div>
 
-  ` `<span id="/s:7heresdk17MaxSpeedOnSegmentV04baseC17InMetersPerSecondSdvp"></span>` `<span id="//apple_ref/swift/Property/baseSpeedInMetersPerSecond" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-maxspeedonsegment#/s:7heresdk17MaxSpeedOnSegmentV04baseC17InMetersPerSecondSdvp" class="token"><code>baseSpeedInMetersPerSecond</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17MaxSpeedOnSegmentV04baseC17InMetersPerSecondSdvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-baseSpeedInMetersPerSecond" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-maxspeedonsegment#sdk-for-ios-explore-s-7heresdk17MaxSpeedOnSegmentV04baseC17InMetersPerSecondSdvp" class="token"><code>baseSpeedInMetersPerSecond</code></a> 
 
   </div>
 
@@ -119,7 +123,7 @@ New base speed for a segment. Affects route calculation and the ETA. Cannot incr
 
 - <div>
 
-      init(segment: baseSpeedInMetersPerSecond: )
+   <span id="sdk-for-ios-explore-s-7heresdk17MaxSpeedOnSegmentV7segment04baseC17InMetersPerSecondAcA0E9ReferenceV_Sdtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-segment-baseSpeedInMetersPerSecond" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-maxspeedonsegment#sdk-for-ios-explore-s-7heresdk17MaxSpeedOnSegmentV7segment04baseC17InMetersPerSecondAcA0E9ReferenceV_Sdtcfc" class="token"><code>init(segment:</code><wbr></wbr><code>baseSpeedInMetersPerSecond:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -158,12 +162,14 @@ New base speed for a segment. Affects route calculation and the ETA. Cannot incr
   Swift
 
   ``` highlight
-  public init ( segment : SegmentReference , baseSpeedInMetersPerSecond : Double )
+  public init(segment: SegmentReference, baseSpeedInMetersPerSecond: Double)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-segmentreference">SegmentReference</a>
 
   </div>
 

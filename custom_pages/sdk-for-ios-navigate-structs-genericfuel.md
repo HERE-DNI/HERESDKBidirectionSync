@@ -29,7 +29,7 @@ Contains generic fuel type info of fuel station.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11GenericFuelV4typeAA0C4TypeOvp"></span>` `<span id="//apple_ref/swift/Property/type" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-genericfuel#/s:7heresdk11GenericFuelV4typeAA0C4TypeOvp" class="token"><code>type</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11GenericFuelV4typeAA0C4TypeOvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-type" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-genericfuel#sdk-for-ios-navigate-s-7heresdk11GenericFuelV4typeAA0C4TypeOvp" class="token"><code>type</code></a> 
 
   </div>
 
@@ -65,6 +65,10 @@ Contains generic fuel type info of fuel station.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-fueltype">FuelType</a>
+
   </div>
 
   </div>
@@ -73,7 +77,7 @@ Contains generic fuel type info of fuel station.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11GenericFuelV9additivesSayAA0C8AdditiveVGvp"></span>` `<span id="//apple_ref/swift/Property/additives" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-genericfuel#/s:7heresdk11GenericFuelV9additivesSayAA0C8AdditiveVGvp" class="token"><code>additives</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11GenericFuelV9additivesSayAA0C8AdditiveVGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-additives" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-genericfuel#sdk-for-ios-navigate-s-7heresdk11GenericFuelV9additivesSayAA0C8AdditiveVGvp" class="token"><code>additives</code></a> 
 
   </div>
 
@@ -109,6 +113,10 @@ Contains generic fuel type info of fuel station.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-fueladditive">FuelAdditive</a>
+
   </div>
 
   </div>
@@ -117,7 +125,7 @@ Contains generic fuel type info of fuel station.
 
 - <div>
 
-      init(type: additives: )
+   <span id="sdk-for-ios-navigate-s-7heresdk11GenericFuelV4type9additivesAcA0C4TypeO_SayAA0C8AdditiveVGtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-type-additives" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-genericfuel#sdk-for-ios-navigate-s-7heresdk11GenericFuelV4type9additivesAcA0C4TypeO_SayAA0C8AdditiveVGtcfc" class="token"><code>init(type:</code><wbr></wbr><code>additives:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -148,12 +156,15 @@ Contains generic fuel type info of fuel station.
   Swift
 
   ``` highlight
-  public init ( type : FuelType , additives : [ FuelAdditive ] = [])
+  public init(type: FuelType, additives: [FuelAdditive] = [])
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-fueltype">FuelType</a>
+  - <a href="sdk-for-ios-navigate-structs-fueladditive">FuelAdditive</a>
 
   </div>
 

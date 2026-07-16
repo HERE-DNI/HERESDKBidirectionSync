@@ -27,7 +27,7 @@ Defines the bounds within which the zoom level is constrained when approaching a
 
 - <div>
 
-  ` `<span id="/s:7heresdk22TrackingCameraBehaviorC17ManeuverZoomRangeV03minF0AA10MapMeasureVvp"></span>` `<span id="//apple_ref/swift/Property/minZoom" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-trackingcamerabehavior-maneuverzoomrange#/s:7heresdk22TrackingCameraBehaviorC17ManeuverZoomRangeV03minF0AA10MapMeasureVvp" class="token"><code>minZoom</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk22TrackingCameraBehaviorC17ManeuverZoomRangeV03minF0AA10MapMeasureVvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-minZoom" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-trackingcamerabehavior-maneuverzoomrange#sdk-for-ios-explore-s-7heresdk22TrackingCameraBehaviorC17ManeuverZoomRangeV03minF0AA10MapMeasureVvp" class="token"><code>minZoom</code></a> 
 
   </div>
 
@@ -45,7 +45,7 @@ Defines the bounds within which the zoom level is constrained when approaching a
 
   <div class="abstract">
 
-  Minimum camera zoom. Valid range is 0.0 to 22.0. Defaults to a <a href="sdk-for-ios-explore-structs-mapmeasure">`MapMeasure`</a> with kind <a href="sdk-for-ios-explore-structs-mapmeasure-kind#/s:7heresdk10MapMeasureV4KindO9zoomLevelyA2EmF">`MapMeasure.Kind.zoomLevel`</a> and value 4.0.
+  Minimum camera zoom. Valid range is 0.0 to 22.0. Defaults to a <a href="sdk-for-ios-explore-structs-mapmeasure">`MapMeasure`</a> with kind <a href="sdk-for-ios-explore-structs-mapmeasure-kind#sdk-for-ios-explore-s-7heresdk10MapMeasureV4KindO9zoomLevelyA2EmF">`MapMeasure.Kind.zoomLevel`</a> and value 4.0.
 
   </div>
 
@@ -63,6 +63,10 @@ Defines the bounds within which the zoom level is constrained when approaching a
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-mapmeasure">MapMeasure</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ Defines the bounds within which the zoom level is constrained when approaching a
 
 - <div>
 
-  ` `<span id="/s:7heresdk22TrackingCameraBehaviorC17ManeuverZoomRangeV03maxF0AA10MapMeasureVvp"></span>` `<span id="//apple_ref/swift/Property/maxZoom" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-trackingcamerabehavior-maneuverzoomrange#/s:7heresdk22TrackingCameraBehaviorC17ManeuverZoomRangeV03maxF0AA10MapMeasureVvp" class="token"><code>maxZoom</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk22TrackingCameraBehaviorC17ManeuverZoomRangeV03maxF0AA10MapMeasureVvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-maxZoom" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-trackingcamerabehavior-maneuverzoomrange#sdk-for-ios-explore-s-7heresdk22TrackingCameraBehaviorC17ManeuverZoomRangeV03maxF0AA10MapMeasureVvp" class="token"><code>maxZoom</code></a> 
 
   </div>
 
@@ -89,7 +93,7 @@ Defines the bounds within which the zoom level is constrained when approaching a
 
   <div class="abstract">
 
-  Maximum camera zoom. Valid range is 0.0 to 22.0. Must be greater than or equal to <a href="sdk-for-ios-explore-classes-trackingcamerabehavior-maneuverzoomrange#/s:7heresdk22TrackingCameraBehaviorC17ManeuverZoomRangeV03minF0AA10MapMeasureVvp">`TrackingCameraBehavior.ManeuverZoomRange.minZoom`</a>. Defaults to a <a href="sdk-for-ios-explore-structs-mapmeasure">`MapMeasure`</a> with kind <a href="sdk-for-ios-explore-structs-mapmeasure-kind#/s:7heresdk10MapMeasureV4KindO9zoomLevelyA2EmF">`MapMeasure.Kind.zoomLevel`</a> and value 20.0.
+  Maximum camera zoom. Valid range is 0.0 to 22.0. Must be greater than or equal to <a href="sdk-for-ios-explore-classes-trackingcamerabehavior-maneuverzoomrange#sdk-for-ios-explore-s-7heresdk22TrackingCameraBehaviorC17ManeuverZoomRangeV03minF0AA10MapMeasureVvp">`TrackingCameraBehavior.ManeuverZoomRange.minZoom`</a>. Defaults to a <a href="sdk-for-ios-explore-structs-mapmeasure">`MapMeasure`</a> with kind <a href="sdk-for-ios-explore-structs-mapmeasure-kind#sdk-for-ios-explore-s-7heresdk10MapMeasureV4KindO9zoomLevelyA2EmF">`MapMeasure.Kind.zoomLevel`</a> and value 20.0.
 
   </div>
 
@@ -107,6 +111,10 @@ Defines the bounds within which the zoom level is constrained when approaching a
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-mapmeasure">MapMeasure</a>
+
   </div>
 
   </div>
@@ -115,7 +123,7 @@ Defines the bounds within which the zoom level is constrained when approaching a
 
 - <div>
 
-      init(minZoom: maxZoom: )
+   <span id="sdk-for-ios-explore-s-7heresdk22TrackingCameraBehaviorC17ManeuverZoomRangeV03minF003maxF0AeA10MapMeasureV_AItcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-minZoom-maxZoom" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-trackingcamerabehavior-maneuverzoomrange#sdk-for-ios-explore-s-7heresdk22TrackingCameraBehaviorC17ManeuverZoomRangeV03minF003maxF0AeA10MapMeasureV_AItcfc" class="token"><code>init(minZoom:</code><wbr></wbr><code>maxZoom:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -148,12 +156,14 @@ Defines the bounds within which the zoom level is constrained when approaching a
   Swift
 
   ``` highlight
-  public init ( minZoom : MapMeasure = MapMeasure ( kind : MapMeasure . Kind . zoomLevel , value : 4.0 ), maxZoom : MapMeasure = MapMeasure ( kind : MapMeasure . Kind . zoomLevel , value : 20.0 ))
+  public init(minZoom: MapMeasure = MapMeasure(kind: MapMeasure.Kind.zoomLevel, value: 4.0), maxZoom: MapMeasure = MapMeasure(kind: MapMeasure.Kind.zoomLevel, value: 20.0))
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-mapmeasure">MapMeasure</a>
 
   </div>
 

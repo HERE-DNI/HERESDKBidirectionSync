@@ -27,7 +27,7 @@ Gives the details of a transit section.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21TransitSectionDetailsV9transportAA0B9TransportVSgvp"></span>` `<span id="//apple_ref/swift/Property/transport" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-transitsectiondetails#/s:7heresdk21TransitSectionDetailsV9transportAA0B9TransportVSgvp" class="token"><code>transport</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21TransitSectionDetailsV9transportAA0B9TransportVSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-transport" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-transitsectiondetails#sdk-for-ios-navigate-s-7heresdk21TransitSectionDetailsV9transportAA0B9TransportVSgvp" class="token"><code>transport</code></a> 
 
   </div>
 
@@ -63,6 +63,10 @@ Gives the details of a transit section.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-transittransport">TransitTransport</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ Gives the details of a transit section.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21TransitSectionDetailsV17intermediateStopsSayAA0B4StopVGvp"></span>` `<span id="//apple_ref/swift/Property/intermediateStops" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-transitsectiondetails#/s:7heresdk21TransitSectionDetailsV17intermediateStopsSayAA0B4StopVGvp" class="token"><code>intermediateStops</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21TransitSectionDetailsV17intermediateStopsSayAA0B4StopVGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-intermediateStops" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-transitsectiondetails#sdk-for-ios-navigate-s-7heresdk21TransitSectionDetailsV17intermediateStopsSayAA0B4StopVGvp" class="token"><code>intermediateStops</code></a> 
 
   </div>
 
@@ -107,6 +111,10 @@ Gives the details of a transit section.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-transitstop">TransitStop</a>
+
   </div>
 
   </div>
@@ -115,7 +123,7 @@ Gives the details of a transit section.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21TransitSectionDetailsV6agencyAA6AgencyVvp"></span>` `<span id="//apple_ref/swift/Property/agency" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-transitsectiondetails#/s:7heresdk21TransitSectionDetailsV6agencyAA6AgencyVvp" class="token"><code>agency</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21TransitSectionDetailsV6agencyAA6AgencyVvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-agency" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-transitsectiondetails#sdk-for-ios-navigate-s-7heresdk21TransitSectionDetailsV6agencyAA6AgencyVvp" class="token"><code>agency</code></a> 
 
   </div>
 
@@ -151,6 +159,10 @@ Gives the details of a transit section.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-agency">Agency</a>
+
   </div>
 
   </div>
@@ -159,7 +171,7 @@ Gives the details of a transit section.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21TransitSectionDetailsV12attributionsSayAA11AttributionVGvp"></span>` `<span id="//apple_ref/swift/Property/attributions" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-transitsectiondetails#/s:7heresdk21TransitSectionDetailsV12attributionsSayAA11AttributionVGvp" class="token"><code>attributions</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21TransitSectionDetailsV12attributionsSayAA11AttributionVGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-attributions" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-transitsectiondetails#sdk-for-ios-navigate-s-7heresdk21TransitSectionDetailsV12attributionsSayAA11AttributionVGvp" class="token"><code>attributions</code></a> 
 
   </div>
 
@@ -195,6 +207,10 @@ Gives the details of a transit section.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-attribution">Attribution</a>
+
   </div>
 
   </div>
@@ -203,7 +219,7 @@ Gives the details of a transit section.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21TransitSectionDetailsV5faresSayAA4FareVGvp"></span>` `<span id="//apple_ref/swift/Property/fares" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-transitsectiondetails#/s:7heresdk21TransitSectionDetailsV5faresSayAA4FareVGvp" class="token"><code>fares</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21TransitSectionDetailsV5faresSayAA4FareVGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-fares" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-transitsectiondetails#sdk-for-ios-navigate-s-7heresdk21TransitSectionDetailsV5faresSayAA4FareVGvp" class="token"><code>fares</code></a> 
 
   </div>
 
@@ -241,6 +257,10 @@ Gives the details of a transit section.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-fare">Fare</a>
+
   </div>
 
   </div>
@@ -249,7 +269,7 @@ Gives the details of a transit section.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21TransitSectionDetailsV9incidentsSayAA0B8IncidentVGvp"></span>` `<span id="//apple_ref/swift/Property/incidents" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-transitsectiondetails#/s:7heresdk21TransitSectionDetailsV9incidentsSayAA0B8IncidentVGvp" class="token"><code>incidents</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21TransitSectionDetailsV9incidentsSayAA0B8IncidentVGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-incidents" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-transitsectiondetails#sdk-for-ios-navigate-s-7heresdk21TransitSectionDetailsV9incidentsSayAA0B8IncidentVGvp" class="token"><code>incidents</code></a> 
 
   </div>
 
@@ -285,6 +305,10 @@ Gives the details of a transit section.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-transitincident">TransitIncident</a>
+
   </div>
 
   </div>
@@ -293,7 +317,7 @@ Gives the details of a transit section.
 
 - <div>
 
-      init(transport: intermediateStops: agency: attributions: fares: incidents: )
+   <span id="sdk-for-ios-navigate-s-7heresdk21TransitSectionDetailsV9transport17intermediateStops6agency12attributions5fares9incidentsAcA0B9TransportVSg_SayAA0B4StopVGAA6AgencyVSayAA11AttributionVGSayAA4FareVGSayAA0B8IncidentVGtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-transport-intermediateStops-agency-attributions-fares-incidents" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-transitsectiondetails#sdk-for-ios-navigate-s-7heresdk21TransitSectionDetailsV9transport17intermediateStops6agency12attributions5fares9incidentsAcA0B9TransportVSg_SayAA0B4StopVGAA6AgencyVSayAA11AttributionVGSayAA4FareVGSayAA0B8IncidentVGtcfc" class="token"><code>init(transport:</code><wbr></wbr><code>intermediateStops:</code><wbr></wbr><code>agency:</code><wbr></wbr><code>attributions:</code><wbr></wbr><code>fares:</code><wbr></wbr><code>incidents:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -336,12 +360,19 @@ Gives the details of a transit section.
   Swift
 
   ``` highlight
-  public init ( transport : TransitTransport ? = nil , intermediateStops : [ TransitStop ] = [], agency : Agency , attributions : [ Attribution ] = [], fares : [ Fare ] = [], incidents : [ TransitIncident ] = [])
+  public init(transport: TransitTransport? = nil, intermediateStops: [TransitStop] = [], agency: Agency, attributions: [Attribution] = [], fares: [Fare] = [], incidents: [TransitIncident] = [])
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-transittransport">TransitTransport</a>
+  - <a href="sdk-for-ios-navigate-structs-transitstop">TransitStop</a>
+  - <a href="sdk-for-ios-navigate-structs-agency">Agency</a>
+  - <a href="sdk-for-ios-navigate-structs-attribution">Attribution</a>
+  - <a href="sdk-for-ios-navigate-structs-fare">Fare</a>
+  - <a href="sdk-for-ios-navigate-structs-transitincident">TransitIncident</a>
 
   </div>
 

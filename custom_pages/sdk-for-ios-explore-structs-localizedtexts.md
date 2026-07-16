@@ -27,7 +27,7 @@ The list of multiple names or titles for the same entity, possibly in different 
 
 - <div>
 
-  ` `<span id="/s:7heresdk14LocalizedTextsV5itemsSayAA0B4TextVGvp"></span>` `<span id="//apple_ref/swift/Property/items" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-localizedtexts#/s:7heresdk14LocalizedTextsV5itemsSayAA0B4TextVGvp" class="token"><code>items</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14LocalizedTextsV5itemsSayAA0B4TextVGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-items" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-localizedtexts#sdk-for-ios-explore-s-7heresdk14LocalizedTextsV5itemsSayAA0B4TextVGvp" class="token"><code>items</code></a> 
 
   </div>
 
@@ -63,6 +63,10 @@ The list of multiple names or titles for the same entity, possibly in different 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-localizedtext">LocalizedText</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ The list of multiple names or titles for the same entity, possibly in different 
 
 - <div>
 
-      init(items: )
+   <span id="sdk-for-ios-explore-s-7heresdk14LocalizedTextsV5itemsACSayAA0B4TextVG_tcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-items" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-localizedtexts#sdk-for-ios-explore-s-7heresdk14LocalizedTextsV5itemsACSayAA0B4TextVG_tcfc" class="token"><code>init(items:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -102,12 +106,14 @@ The list of multiple names or titles for the same entity, possibly in different 
   Swift
 
   ``` highlight
-  public init ( items : [ LocalizedText ] = [])
+  public init(items: [LocalizedText] = [])
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-localizedtext">LocalizedText</a>
 
   </div>
 
@@ -117,7 +123,7 @@ The list of multiple names or titles for the same entity, possibly in different 
 
 - <div>
 
-      preferredValue(for: )
+   <span id="sdk-for-ios-explore-s-7heresdk14LocalizedTextsV14preferredValue3forSSSgSay10Foundation6LocaleVG_tF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-preferredValue-for" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-localizedtexts#sdk-for-ios-explore-s-7heresdk14LocalizedTextsV14preferredValue3forSSSgSay10Foundation6LocaleVG_tF" class="token"><code>preferredValue(for:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -148,10 +154,8 @@ The list of multiple names or titles for the same entity, possibly in different 
   Swift
 
   ``` highlight
-  public func preferredValue ( for locales : [ Locale ]) -> String ?
+  public func preferredValue(for locales: [Locale]) -> String?
   ```
-
-  </pre>
 
   </div>
 
@@ -192,7 +196,7 @@ The list of multiple names or titles for the same entity, possibly in different 
 
 - <div>
 
-      defaultValue()
+   <span id="sdk-for-ios-explore-s-7heresdk14LocalizedTextsV12defaultValueSSSgyF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-defaultValue" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-localizedtexts#sdk-for-ios-explore-s-7heresdk14LocalizedTextsV12defaultValueSSSgyF" class="token"><code>defaultValue()</code></a> 
 
   </div>
 
@@ -223,10 +227,8 @@ The list of multiple names or titles for the same entity, possibly in different 
   Swift
 
   ``` highlight
-  public func defaultValue () -> String ?
+  public func defaultValue() -> String?
   ```
-
-  </pre>
 
   </div>
 

@@ -27,7 +27,7 @@ Maneuver action type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14ManeuverActionO6departyA2CmF"></span>` `<span id="//apple_ref/swift/Element/depart" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-maneuveraction#/s:7heresdk14ManeuverActionO6departyA2CmF" class="token"><code>depart</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14ManeuverActionO6departyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-depart" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-maneuveraction#sdk-for-ios-navigate-s-7heresdk14ManeuverActionO6departyA2CmF" class="token"><code>depart</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Maneuver action type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14ManeuverActionO6arriveyA2CmF"></span>` `<span id="//apple_ref/swift/Element/arrive" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-maneuveraction#/s:7heresdk14ManeuverActionO6arriveyA2CmF" class="token"><code>arrive</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14ManeuverActionO6arriveyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-arrive" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-maneuveraction#sdk-for-ios-navigate-s-7heresdk14ManeuverActionO6arriveyA2CmF" class="token"><code>arrive</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Maneuver action type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14ManeuverActionO9leftUTurnyA2CmF"></span>` `<span id="//apple_ref/swift/Element/leftUTurn" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-maneuveraction#/s:7heresdk14ManeuverActionO9leftUTurnyA2CmF" class="token"><code>leftUTurn</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14ManeuverActionO9leftUTurnyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-leftUTurn" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-maneuveraction#sdk-for-ios-navigate-s-7heresdk14ManeuverActionO9leftUTurnyA2CmF" class="token"><code>leftUTurn</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Maneuver action type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14ManeuverActionO13sharpLeftTurnyA2CmF"></span>` `<span id="//apple_ref/swift/Element/sharpLeftTurn" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-maneuveraction#/s:7heresdk14ManeuverActionO13sharpLeftTurnyA2CmF" class="token"><code>sharpLeftTurn</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14ManeuverActionO13sharpLeftTurnyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-sharpLeftTurn" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-maneuveraction#sdk-for-ios-navigate-s-7heresdk14ManeuverActionO13sharpLeftTurnyA2CmF" class="token"><code>sharpLeftTurn</code></a> 
 
   </div>
 
@@ -203,7 +203,7 @@ Maneuver action type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14ManeuverActionO8leftTurnyA2CmF"></span>` `<span id="//apple_ref/swift/Element/leftTurn" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-maneuveraction#/s:7heresdk14ManeuverActionO8leftTurnyA2CmF" class="token"><code>leftTurn</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14ManeuverActionO8leftTurnyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-leftTurn" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-maneuveraction#sdk-for-ios-navigate-s-7heresdk14ManeuverActionO8leftTurnyA2CmF" class="token"><code>leftTurn</code></a> 
 
   </div>
 
@@ -247,7 +247,7 @@ Maneuver action type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14ManeuverActionO14slightLeftTurnyA2CmF"></span>` `<span id="//apple_ref/swift/Element/slightLeftTurn" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-maneuveraction#/s:7heresdk14ManeuverActionO14slightLeftTurnyA2CmF" class="token"><code>slightLeftTurn</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14ManeuverActionO14slightLeftTurnyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-slightLeftTurn" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-maneuveraction#sdk-for-ios-navigate-s-7heresdk14ManeuverActionO14slightLeftTurnyA2CmF" class="token"><code>slightLeftTurn</code></a> 
 
   </div>
 
@@ -291,7 +291,7 @@ Maneuver action type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14ManeuverActionO10continueOnyA2CmF"></span>` `<span id="//apple_ref/swift/Element/continueOn" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-maneuveraction#/s:7heresdk14ManeuverActionO10continueOnyA2CmF" class="token"><code>continueOn</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14ManeuverActionO10continueOnyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-continueOn" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-maneuveraction#sdk-for-ios-navigate-s-7heresdk14ManeuverActionO10continueOnyA2CmF" class="token"><code>continueOn</code></a> 
 
   </div>
 
@@ -335,7 +335,7 @@ Maneuver action type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14ManeuverActionO15slightRightTurnyA2CmF"></span>` `<span id="//apple_ref/swift/Element/slightRightTurn" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-maneuveraction#/s:7heresdk14ManeuverActionO15slightRightTurnyA2CmF" class="token"><code>slightRightTurn</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14ManeuverActionO15slightRightTurnyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-slightRightTurn" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-maneuveraction#sdk-for-ios-navigate-s-7heresdk14ManeuverActionO15slightRightTurnyA2CmF" class="token"><code>slightRightTurn</code></a> 
 
   </div>
 
@@ -379,7 +379,7 @@ Maneuver action type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14ManeuverActionO9rightTurnyA2CmF"></span>` `<span id="//apple_ref/swift/Element/rightTurn" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-maneuveraction#/s:7heresdk14ManeuverActionO9rightTurnyA2CmF" class="token"><code>rightTurn</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14ManeuverActionO9rightTurnyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-rightTurn" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-maneuveraction#sdk-for-ios-navigate-s-7heresdk14ManeuverActionO9rightTurnyA2CmF" class="token"><code>rightTurn</code></a> 
 
   </div>
 
@@ -423,7 +423,7 @@ Maneuver action type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14ManeuverActionO14sharpRightTurnyA2CmF"></span>` `<span id="//apple_ref/swift/Element/sharpRightTurn" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-maneuveraction#/s:7heresdk14ManeuverActionO14sharpRightTurnyA2CmF" class="token"><code>sharpRightTurn</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14ManeuverActionO14sharpRightTurnyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-sharpRightTurn" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-maneuveraction#sdk-for-ios-navigate-s-7heresdk14ManeuverActionO14sharpRightTurnyA2CmF" class="token"><code>sharpRightTurn</code></a> 
 
   </div>
 
@@ -467,7 +467,7 @@ Maneuver action type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14ManeuverActionO10rightUTurnyA2CmF"></span>` `<span id="//apple_ref/swift/Element/rightUTurn" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-maneuveraction#/s:7heresdk14ManeuverActionO10rightUTurnyA2CmF" class="token"><code>rightUTurn</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14ManeuverActionO10rightUTurnyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-rightUTurn" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-maneuveraction#sdk-for-ios-navigate-s-7heresdk14ManeuverActionO10rightUTurnyA2CmF" class="token"><code>rightUTurn</code></a> 
 
   </div>
 
@@ -511,7 +511,7 @@ Maneuver action type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14ManeuverActionO8leftExityA2CmF"></span>` `<span id="//apple_ref/swift/Element/leftExit" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-maneuveraction#/s:7heresdk14ManeuverActionO8leftExityA2CmF" class="token"><code>leftExit</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14ManeuverActionO8leftExityA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-leftExit" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-maneuveraction#sdk-for-ios-navigate-s-7heresdk14ManeuverActionO8leftExityA2CmF" class="token"><code>leftExit</code></a> 
 
   </div>
 
@@ -555,7 +555,7 @@ Maneuver action type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14ManeuverActionO9rightExityA2CmF"></span>` `<span id="//apple_ref/swift/Element/rightExit" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-maneuveraction#/s:7heresdk14ManeuverActionO9rightExityA2CmF" class="token"><code>rightExit</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14ManeuverActionO9rightExityA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-rightExit" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-maneuveraction#sdk-for-ios-navigate-s-7heresdk14ManeuverActionO9rightExityA2CmF" class="token"><code>rightExit</code></a> 
 
   </div>
 
@@ -599,7 +599,7 @@ Maneuver action type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14ManeuverActionO8leftRampyA2CmF"></span>` `<span id="//apple_ref/swift/Element/leftRamp" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-maneuveraction#/s:7heresdk14ManeuverActionO8leftRampyA2CmF" class="token"><code>leftRamp</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14ManeuverActionO8leftRampyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-leftRamp" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-maneuveraction#sdk-for-ios-navigate-s-7heresdk14ManeuverActionO8leftRampyA2CmF" class="token"><code>leftRamp</code></a> 
 
   </div>
 
@@ -643,7 +643,7 @@ Maneuver action type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14ManeuverActionO9rightRampyA2CmF"></span>` `<span id="//apple_ref/swift/Element/rightRamp" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-maneuveraction#/s:7heresdk14ManeuverActionO9rightRampyA2CmF" class="token"><code>rightRamp</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14ManeuverActionO9rightRampyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-rightRamp" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-maneuveraction#sdk-for-ios-navigate-s-7heresdk14ManeuverActionO9rightRampyA2CmF" class="token"><code>rightRamp</code></a> 
 
   </div>
 
@@ -687,7 +687,7 @@ Maneuver action type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14ManeuverActionO8leftForkyA2CmF"></span>` `<span id="//apple_ref/swift/Element/leftFork" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-maneuveraction#/s:7heresdk14ManeuverActionO8leftForkyA2CmF" class="token"><code>leftFork</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14ManeuverActionO8leftForkyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-leftFork" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-maneuveraction#sdk-for-ios-navigate-s-7heresdk14ManeuverActionO8leftForkyA2CmF" class="token"><code>leftFork</code></a> 
 
   </div>
 
@@ -731,7 +731,7 @@ Maneuver action type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14ManeuverActionO10middleForkyA2CmF"></span>` `<span id="//apple_ref/swift/Element/middleFork" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-maneuveraction#/s:7heresdk14ManeuverActionO10middleForkyA2CmF" class="token"><code>middleFork</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14ManeuverActionO10middleForkyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-middleFork" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-maneuveraction#sdk-for-ios-navigate-s-7heresdk14ManeuverActionO10middleForkyA2CmF" class="token"><code>middleFork</code></a> 
 
   </div>
 
@@ -775,7 +775,7 @@ Maneuver action type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14ManeuverActionO9rightForkyA2CmF"></span>` `<span id="//apple_ref/swift/Element/rightFork" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-maneuveraction#/s:7heresdk14ManeuverActionO9rightForkyA2CmF" class="token"><code>rightFork</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14ManeuverActionO9rightForkyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-rightFork" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-maneuveraction#sdk-for-ios-navigate-s-7heresdk14ManeuverActionO9rightForkyA2CmF" class="token"><code>rightFork</code></a> 
 
   </div>
 
@@ -819,7 +819,7 @@ Maneuver action type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14ManeuverActionO20enterHighwayFromLeftyA2CmF"></span>` `<span id="//apple_ref/swift/Element/enterHighwayFromLeft" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-maneuveraction#/s:7heresdk14ManeuverActionO20enterHighwayFromLeftyA2CmF" class="token"><code>enterHighwayFromLeft</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14ManeuverActionO20enterHighwayFromLeftyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-enterHighwayFromLeft" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-maneuveraction#sdk-for-ios-navigate-s-7heresdk14ManeuverActionO20enterHighwayFromLeftyA2CmF" class="token"><code>enterHighwayFromLeft</code></a> 
 
   </div>
 
@@ -865,7 +865,7 @@ Maneuver action type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14ManeuverActionO21enterHighwayFromRightyA2CmF"></span>` `<span id="//apple_ref/swift/Element/enterHighwayFromRight" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-maneuveraction#/s:7heresdk14ManeuverActionO21enterHighwayFromRightyA2CmF" class="token"><code>enterHighwayFromRight</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14ManeuverActionO21enterHighwayFromRightyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-enterHighwayFromRight" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-maneuveraction#sdk-for-ios-navigate-s-7heresdk14ManeuverActionO21enterHighwayFromRightyA2CmF" class="token"><code>enterHighwayFromRight</code></a> 
 
   </div>
 
@@ -911,7 +911,7 @@ Maneuver action type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14ManeuverActionO19leftRoundaboutEnteryA2CmF"></span>` `<span id="//apple_ref/swift/Element/leftRoundaboutEnter" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-maneuveraction#/s:7heresdk14ManeuverActionO19leftRoundaboutEnteryA2CmF" class="token"><code>leftRoundaboutEnter</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14ManeuverActionO19leftRoundaboutEnteryA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-leftRoundaboutEnter" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-maneuveraction#sdk-for-ios-navigate-s-7heresdk14ManeuverActionO19leftRoundaboutEnteryA2CmF" class="token"><code>leftRoundaboutEnter</code></a> 
 
   </div>
 
@@ -955,7 +955,7 @@ Maneuver action type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14ManeuverActionO20rightRoundaboutEnteryA2CmF"></span>` `<span id="//apple_ref/swift/Element/rightRoundaboutEnter" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-maneuveraction#/s:7heresdk14ManeuverActionO20rightRoundaboutEnteryA2CmF" class="token"><code>rightRoundaboutEnter</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14ManeuverActionO20rightRoundaboutEnteryA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-rightRoundaboutEnter" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-maneuveraction#sdk-for-ios-navigate-s-7heresdk14ManeuverActionO20rightRoundaboutEnteryA2CmF" class="token"><code>rightRoundaboutEnter</code></a> 
 
   </div>
 
@@ -999,7 +999,7 @@ Maneuver action type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14ManeuverActionO18leftRoundaboutPassyA2CmF"></span>` `<span id="//apple_ref/swift/Element/leftRoundaboutPass" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-maneuveraction#/s:7heresdk14ManeuverActionO18leftRoundaboutPassyA2CmF" class="token"><code>leftRoundaboutPass</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14ManeuverActionO18leftRoundaboutPassyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-leftRoundaboutPass" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-maneuveraction#sdk-for-ios-navigate-s-7heresdk14ManeuverActionO18leftRoundaboutPassyA2CmF" class="token"><code>leftRoundaboutPass</code></a> 
 
   </div>
 
@@ -1043,7 +1043,7 @@ Maneuver action type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14ManeuverActionO19rightRoundaboutPassyA2CmF"></span>` `<span id="//apple_ref/swift/Element/rightRoundaboutPass" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-maneuveraction#/s:7heresdk14ManeuverActionO19rightRoundaboutPassyA2CmF" class="token"><code>rightRoundaboutPass</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14ManeuverActionO19rightRoundaboutPassyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-rightRoundaboutPass" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-maneuveraction#sdk-for-ios-navigate-s-7heresdk14ManeuverActionO19rightRoundaboutPassyA2CmF" class="token"><code>rightRoundaboutPass</code></a> 
 
   </div>
 
@@ -1087,7 +1087,7 @@ Maneuver action type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14ManeuverActionO19leftRoundaboutExit1yA2CmF"></span>` `<span id="//apple_ref/swift/Element/leftRoundaboutExit1" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-maneuveraction#/s:7heresdk14ManeuverActionO19leftRoundaboutExit1yA2CmF" class="token"><code>leftRoundaboutExit1</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14ManeuverActionO19leftRoundaboutExit1yA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-leftRoundaboutExit1" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-maneuveraction#sdk-for-ios-navigate-s-7heresdk14ManeuverActionO19leftRoundaboutExit1yA2CmF" class="token"><code>leftRoundaboutExit1</code></a> 
 
   </div>
 
@@ -1131,7 +1131,7 @@ Maneuver action type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14ManeuverActionO19leftRoundaboutExit2yA2CmF"></span>` `<span id="//apple_ref/swift/Element/leftRoundaboutExit2" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-maneuveraction#/s:7heresdk14ManeuverActionO19leftRoundaboutExit2yA2CmF" class="token"><code>leftRoundaboutExit2</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14ManeuverActionO19leftRoundaboutExit2yA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-leftRoundaboutExit2" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-maneuveraction#sdk-for-ios-navigate-s-7heresdk14ManeuverActionO19leftRoundaboutExit2yA2CmF" class="token"><code>leftRoundaboutExit2</code></a> 
 
   </div>
 
@@ -1175,7 +1175,7 @@ Maneuver action type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14ManeuverActionO19leftRoundaboutExit3yA2CmF"></span>` `<span id="//apple_ref/swift/Element/leftRoundaboutExit3" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-maneuveraction#/s:7heresdk14ManeuverActionO19leftRoundaboutExit3yA2CmF" class="token"><code>leftRoundaboutExit3</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14ManeuverActionO19leftRoundaboutExit3yA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-leftRoundaboutExit3" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-maneuveraction#sdk-for-ios-navigate-s-7heresdk14ManeuverActionO19leftRoundaboutExit3yA2CmF" class="token"><code>leftRoundaboutExit3</code></a> 
 
   </div>
 
@@ -1219,7 +1219,7 @@ Maneuver action type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14ManeuverActionO19leftRoundaboutExit4yA2CmF"></span>` `<span id="//apple_ref/swift/Element/leftRoundaboutExit4" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-maneuveraction#/s:7heresdk14ManeuverActionO19leftRoundaboutExit4yA2CmF" class="token"><code>leftRoundaboutExit4</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14ManeuverActionO19leftRoundaboutExit4yA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-leftRoundaboutExit4" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-maneuveraction#sdk-for-ios-navigate-s-7heresdk14ManeuverActionO19leftRoundaboutExit4yA2CmF" class="token"><code>leftRoundaboutExit4</code></a> 
 
   </div>
 
@@ -1263,7 +1263,7 @@ Maneuver action type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14ManeuverActionO19leftRoundaboutExit5yA2CmF"></span>` `<span id="//apple_ref/swift/Element/leftRoundaboutExit5" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-maneuveraction#/s:7heresdk14ManeuverActionO19leftRoundaboutExit5yA2CmF" class="token"><code>leftRoundaboutExit5</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14ManeuverActionO19leftRoundaboutExit5yA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-leftRoundaboutExit5" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-maneuveraction#sdk-for-ios-navigate-s-7heresdk14ManeuverActionO19leftRoundaboutExit5yA2CmF" class="token"><code>leftRoundaboutExit5</code></a> 
 
   </div>
 
@@ -1307,7 +1307,7 @@ Maneuver action type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14ManeuverActionO19leftRoundaboutExit6yA2CmF"></span>` `<span id="//apple_ref/swift/Element/leftRoundaboutExit6" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-maneuveraction#/s:7heresdk14ManeuverActionO19leftRoundaboutExit6yA2CmF" class="token"><code>leftRoundaboutExit6</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14ManeuverActionO19leftRoundaboutExit6yA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-leftRoundaboutExit6" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-maneuveraction#sdk-for-ios-navigate-s-7heresdk14ManeuverActionO19leftRoundaboutExit6yA2CmF" class="token"><code>leftRoundaboutExit6</code></a> 
 
   </div>
 
@@ -1351,7 +1351,7 @@ Maneuver action type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14ManeuverActionO19leftRoundaboutExit7yA2CmF"></span>` `<span id="//apple_ref/swift/Element/leftRoundaboutExit7" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-maneuveraction#/s:7heresdk14ManeuverActionO19leftRoundaboutExit7yA2CmF" class="token"><code>leftRoundaboutExit7</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14ManeuverActionO19leftRoundaboutExit7yA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-leftRoundaboutExit7" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-maneuveraction#sdk-for-ios-navigate-s-7heresdk14ManeuverActionO19leftRoundaboutExit7yA2CmF" class="token"><code>leftRoundaboutExit7</code></a> 
 
   </div>
 
@@ -1395,7 +1395,7 @@ Maneuver action type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14ManeuverActionO19leftRoundaboutExit8yA2CmF"></span>` `<span id="//apple_ref/swift/Element/leftRoundaboutExit8" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-maneuveraction#/s:7heresdk14ManeuverActionO19leftRoundaboutExit8yA2CmF" class="token"><code>leftRoundaboutExit8</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14ManeuverActionO19leftRoundaboutExit8yA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-leftRoundaboutExit8" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-maneuveraction#sdk-for-ios-navigate-s-7heresdk14ManeuverActionO19leftRoundaboutExit8yA2CmF" class="token"><code>leftRoundaboutExit8</code></a> 
 
   </div>
 
@@ -1439,7 +1439,7 @@ Maneuver action type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14ManeuverActionO19leftRoundaboutExit9yA2CmF"></span>` `<span id="//apple_ref/swift/Element/leftRoundaboutExit9" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-maneuveraction#/s:7heresdk14ManeuverActionO19leftRoundaboutExit9yA2CmF" class="token"><code>leftRoundaboutExit9</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14ManeuverActionO19leftRoundaboutExit9yA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-leftRoundaboutExit9" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-maneuveraction#sdk-for-ios-navigate-s-7heresdk14ManeuverActionO19leftRoundaboutExit9yA2CmF" class="token"><code>leftRoundaboutExit9</code></a> 
 
   </div>
 
@@ -1483,7 +1483,7 @@ Maneuver action type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14ManeuverActionO20leftRoundaboutExit10yA2CmF"></span>` `<span id="//apple_ref/swift/Element/leftRoundaboutExit10" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-maneuveraction#/s:7heresdk14ManeuverActionO20leftRoundaboutExit10yA2CmF" class="token"><code>leftRoundaboutExit10</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14ManeuverActionO20leftRoundaboutExit10yA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-leftRoundaboutExit10" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-maneuveraction#sdk-for-ios-navigate-s-7heresdk14ManeuverActionO20leftRoundaboutExit10yA2CmF" class="token"><code>leftRoundaboutExit10</code></a> 
 
   </div>
 
@@ -1527,7 +1527,7 @@ Maneuver action type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14ManeuverActionO20leftRoundaboutExit11yA2CmF"></span>` `<span id="//apple_ref/swift/Element/leftRoundaboutExit11" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-maneuveraction#/s:7heresdk14ManeuverActionO20leftRoundaboutExit11yA2CmF" class="token"><code>leftRoundaboutExit11</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14ManeuverActionO20leftRoundaboutExit11yA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-leftRoundaboutExit11" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-maneuveraction#sdk-for-ios-navigate-s-7heresdk14ManeuverActionO20leftRoundaboutExit11yA2CmF" class="token"><code>leftRoundaboutExit11</code></a> 
 
   </div>
 
@@ -1571,7 +1571,7 @@ Maneuver action type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14ManeuverActionO20leftRoundaboutExit12yA2CmF"></span>` `<span id="//apple_ref/swift/Element/leftRoundaboutExit12" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-maneuveraction#/s:7heresdk14ManeuverActionO20leftRoundaboutExit12yA2CmF" class="token"><code>leftRoundaboutExit12</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14ManeuverActionO20leftRoundaboutExit12yA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-leftRoundaboutExit12" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-maneuveraction#sdk-for-ios-navigate-s-7heresdk14ManeuverActionO20leftRoundaboutExit12yA2CmF" class="token"><code>leftRoundaboutExit12</code></a> 
 
   </div>
 
@@ -1615,7 +1615,7 @@ Maneuver action type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14ManeuverActionO20rightRoundaboutExit1yA2CmF"></span>` `<span id="//apple_ref/swift/Element/rightRoundaboutExit1" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-maneuveraction#/s:7heresdk14ManeuverActionO20rightRoundaboutExit1yA2CmF" class="token"><code>rightRoundaboutExit1</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14ManeuverActionO20rightRoundaboutExit1yA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-rightRoundaboutExit1" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-maneuveraction#sdk-for-ios-navigate-s-7heresdk14ManeuverActionO20rightRoundaboutExit1yA2CmF" class="token"><code>rightRoundaboutExit1</code></a> 
 
   </div>
 
@@ -1659,7 +1659,7 @@ Maneuver action type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14ManeuverActionO20rightRoundaboutExit2yA2CmF"></span>` `<span id="//apple_ref/swift/Element/rightRoundaboutExit2" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-maneuveraction#/s:7heresdk14ManeuverActionO20rightRoundaboutExit2yA2CmF" class="token"><code>rightRoundaboutExit2</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14ManeuverActionO20rightRoundaboutExit2yA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-rightRoundaboutExit2" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-maneuveraction#sdk-for-ios-navigate-s-7heresdk14ManeuverActionO20rightRoundaboutExit2yA2CmF" class="token"><code>rightRoundaboutExit2</code></a> 
 
   </div>
 
@@ -1703,7 +1703,7 @@ Maneuver action type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14ManeuverActionO20rightRoundaboutExit3yA2CmF"></span>` `<span id="//apple_ref/swift/Element/rightRoundaboutExit3" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-maneuveraction#/s:7heresdk14ManeuverActionO20rightRoundaboutExit3yA2CmF" class="token"><code>rightRoundaboutExit3</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14ManeuverActionO20rightRoundaboutExit3yA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-rightRoundaboutExit3" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-maneuveraction#sdk-for-ios-navigate-s-7heresdk14ManeuverActionO20rightRoundaboutExit3yA2CmF" class="token"><code>rightRoundaboutExit3</code></a> 
 
   </div>
 
@@ -1747,7 +1747,7 @@ Maneuver action type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14ManeuverActionO20rightRoundaboutExit4yA2CmF"></span>` `<span id="//apple_ref/swift/Element/rightRoundaboutExit4" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-maneuveraction#/s:7heresdk14ManeuverActionO20rightRoundaboutExit4yA2CmF" class="token"><code>rightRoundaboutExit4</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14ManeuverActionO20rightRoundaboutExit4yA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-rightRoundaboutExit4" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-maneuveraction#sdk-for-ios-navigate-s-7heresdk14ManeuverActionO20rightRoundaboutExit4yA2CmF" class="token"><code>rightRoundaboutExit4</code></a> 
 
   </div>
 
@@ -1791,7 +1791,7 @@ Maneuver action type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14ManeuverActionO20rightRoundaboutExit5yA2CmF"></span>` `<span id="//apple_ref/swift/Element/rightRoundaboutExit5" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-maneuveraction#/s:7heresdk14ManeuverActionO20rightRoundaboutExit5yA2CmF" class="token"><code>rightRoundaboutExit5</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14ManeuverActionO20rightRoundaboutExit5yA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-rightRoundaboutExit5" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-maneuveraction#sdk-for-ios-navigate-s-7heresdk14ManeuverActionO20rightRoundaboutExit5yA2CmF" class="token"><code>rightRoundaboutExit5</code></a> 
 
   </div>
 
@@ -1835,7 +1835,7 @@ Maneuver action type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14ManeuverActionO20rightRoundaboutExit6yA2CmF"></span>` `<span id="//apple_ref/swift/Element/rightRoundaboutExit6" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-maneuveraction#/s:7heresdk14ManeuverActionO20rightRoundaboutExit6yA2CmF" class="token"><code>rightRoundaboutExit6</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14ManeuverActionO20rightRoundaboutExit6yA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-rightRoundaboutExit6" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-maneuveraction#sdk-for-ios-navigate-s-7heresdk14ManeuverActionO20rightRoundaboutExit6yA2CmF" class="token"><code>rightRoundaboutExit6</code></a> 
 
   </div>
 
@@ -1879,7 +1879,7 @@ Maneuver action type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14ManeuverActionO20rightRoundaboutExit7yA2CmF"></span>` `<span id="//apple_ref/swift/Element/rightRoundaboutExit7" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-maneuveraction#/s:7heresdk14ManeuverActionO20rightRoundaboutExit7yA2CmF" class="token"><code>rightRoundaboutExit7</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14ManeuverActionO20rightRoundaboutExit7yA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-rightRoundaboutExit7" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-maneuveraction#sdk-for-ios-navigate-s-7heresdk14ManeuverActionO20rightRoundaboutExit7yA2CmF" class="token"><code>rightRoundaboutExit7</code></a> 
 
   </div>
 
@@ -1923,7 +1923,7 @@ Maneuver action type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14ManeuverActionO20rightRoundaboutExit8yA2CmF"></span>` `<span id="//apple_ref/swift/Element/rightRoundaboutExit8" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-maneuveraction#/s:7heresdk14ManeuverActionO20rightRoundaboutExit8yA2CmF" class="token"><code>rightRoundaboutExit8</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14ManeuverActionO20rightRoundaboutExit8yA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-rightRoundaboutExit8" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-maneuveraction#sdk-for-ios-navigate-s-7heresdk14ManeuverActionO20rightRoundaboutExit8yA2CmF" class="token"><code>rightRoundaboutExit8</code></a> 
 
   </div>
 
@@ -1967,7 +1967,7 @@ Maneuver action type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14ManeuverActionO20rightRoundaboutExit9yA2CmF"></span>` `<span id="//apple_ref/swift/Element/rightRoundaboutExit9" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-maneuveraction#/s:7heresdk14ManeuverActionO20rightRoundaboutExit9yA2CmF" class="token"><code>rightRoundaboutExit9</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14ManeuverActionO20rightRoundaboutExit9yA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-rightRoundaboutExit9" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-maneuveraction#sdk-for-ios-navigate-s-7heresdk14ManeuverActionO20rightRoundaboutExit9yA2CmF" class="token"><code>rightRoundaboutExit9</code></a> 
 
   </div>
 
@@ -2011,7 +2011,7 @@ Maneuver action type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14ManeuverActionO21rightRoundaboutExit10yA2CmF"></span>` `<span id="//apple_ref/swift/Element/rightRoundaboutExit10" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-maneuveraction#/s:7heresdk14ManeuverActionO21rightRoundaboutExit10yA2CmF" class="token"><code>rightRoundaboutExit10</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14ManeuverActionO21rightRoundaboutExit10yA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-rightRoundaboutExit10" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-maneuveraction#sdk-for-ios-navigate-s-7heresdk14ManeuverActionO21rightRoundaboutExit10yA2CmF" class="token"><code>rightRoundaboutExit10</code></a> 
 
   </div>
 
@@ -2055,7 +2055,7 @@ Maneuver action type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14ManeuverActionO21rightRoundaboutExit11yA2CmF"></span>` `<span id="//apple_ref/swift/Element/rightRoundaboutExit11" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-maneuveraction#/s:7heresdk14ManeuverActionO21rightRoundaboutExit11yA2CmF" class="token"><code>rightRoundaboutExit11</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14ManeuverActionO21rightRoundaboutExit11yA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-rightRoundaboutExit11" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-maneuveraction#sdk-for-ios-navigate-s-7heresdk14ManeuverActionO21rightRoundaboutExit11yA2CmF" class="token"><code>rightRoundaboutExit11</code></a> 
 
   </div>
 
@@ -2099,7 +2099,7 @@ Maneuver action type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14ManeuverActionO21rightRoundaboutExit12yA2CmF"></span>` `<span id="//apple_ref/swift/Element/rightRoundaboutExit12" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-maneuveraction#/s:7heresdk14ManeuverActionO21rightRoundaboutExit12yA2CmF" class="token"><code>rightRoundaboutExit12</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14ManeuverActionO21rightRoundaboutExit12yA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-rightRoundaboutExit12" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-maneuveraction#sdk-for-ios-navigate-s-7heresdk14ManeuverActionO21rightRoundaboutExit12yA2CmF" class="token"><code>rightRoundaboutExit12</code></a> 
 
   </div>
 

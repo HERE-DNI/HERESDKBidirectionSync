@@ -27,7 +27,7 @@ The protocol for delegates for the <a href="sdk-for-ios-explore-classes-venuedra
 
 - <div>
 
-      onDrawingSelected(venue: deselectedDrawing: selectedDrawing: )
+   <span id="sdk-for-ios-explore-s-7heresdk29VenueDrawingSelectionDelegateP02onC8Selected5venue010deselectedC008selectedC0yAA0B0C_AA0bC0CSgAKtF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-onDrawingSelected-venue-deselectedDrawing-selectedDrawing" class="dashAnchor"></span> <a href="sdk-for-ios-explore-protocols-venuedrawingselectiondelegate#sdk-for-ios-explore-s-7heresdk29VenueDrawingSelectionDelegateP02onC8Selected5venue010deselectedC008selectedC0yAA0B0C_AA0bC0CSgAKtF" class="token"><code>onDrawingSelected(venue:</code><wbr></wbr><code>deselectedDrawing:</code><wbr></wbr><code>selectedDrawing:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -58,12 +58,15 @@ The protocol for delegates for the <a href="sdk-for-ios-explore-classes-venuedra
   Swift
 
   ``` highlight
-  func onDrawingSelected ( venue : Venue , deselectedDrawing : VenueDrawing ?, selectedDrawing : VenueDrawing )
+  func onDrawingSelected(venue: Venue, deselectedDrawing: VenueDrawing?, selectedDrawing: VenueDrawing)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-venue">Venue</a>
+  - <a href="sdk-for-ios-explore-classes-venuedrawing">VenueDrawing</a>
 
   </div>
 

@@ -27,7 +27,7 @@ Represents a connector at the charging point. **Note:** This is a beta release o
 
 - <div>
 
-  ` `<span id="/s:7heresdk19EVChargingConnectorV2idSSvp"></span>` `<span id="//apple_ref/swift/Property/id" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evchargingconnector#/s:7heresdk19EVChargingConnectorV2idSSvp" class="token"><code>id</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19EVChargingConnectorV2idSSvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-id" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingconnector#sdk-for-ios-navigate-s-7heresdk19EVChargingConnectorV2idSSvp" class="token"><code>id</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Represents a connector at the charging point. **Note:** This is a beta release o
 
 - <div>
 
-  ` `<span id="/s:7heresdk19EVChargingConnectorV13connectorTypeSSvp"></span>` `<span id="//apple_ref/swift/Property/connectorType" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evchargingconnector#/s:7heresdk19EVChargingConnectorV13connectorTypeSSvp" class="token"><code>connectorType</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19EVChargingConnectorV13connectorTypeSSvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-connectorType" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingconnector#sdk-for-ios-navigate-s-7heresdk19EVChargingConnectorV13connectorTypeSSvp" class="token"><code>connectorType</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Represents a connector at the charging point. **Note:** This is a beta release o
 
 - <div>
 
-  ` `<span id="/s:7heresdk19EVChargingConnectorV6formatAA0bC6FormatOvp"></span>` `<span id="//apple_ref/swift/Property/format" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evchargingconnector#/s:7heresdk19EVChargingConnectorV6formatAA0bC6FormatOvp" class="token"><code>format</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19EVChargingConnectorV6formatAA0bC6FormatOvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-format" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingconnector#sdk-for-ios-navigate-s-7heresdk19EVChargingConnectorV6formatAA0bC6FormatOvp" class="token"><code>format</code></a> 
 
   </div>
 
@@ -151,6 +151,10 @@ Represents a connector at the charging point. **Note:** This is a beta release o
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-evchargingconnectorformat">EVChargingConnectorFormat</a>
+
   </div>
 
   </div>
@@ -159,7 +163,7 @@ Represents a connector at the charging point. **Note:** This is a beta release o
 
 - <div>
 
-  ` `<span id="/s:7heresdk19EVChargingConnectorV9powerTypeAA05PowerE0Ovp"></span>` `<span id="//apple_ref/swift/Property/powerType" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evchargingconnector#/s:7heresdk19EVChargingConnectorV9powerTypeAA05PowerE0Ovp" class="token"><code>powerType</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19EVChargingConnectorV9powerTypeAA05PowerE0Ovp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-powerType" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingconnector#sdk-for-ios-navigate-s-7heresdk19EVChargingConnectorV9powerTypeAA05PowerE0Ovp" class="token"><code>powerType</code></a> 
 
   </div>
 
@@ -195,6 +199,10 @@ Represents a connector at the charging point. **Note:** This is a beta release o
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-powertype">PowerType</a>
+
   </div>
 
   </div>
@@ -203,7 +211,7 @@ Represents a connector at the charging point. **Note:** This is a beta release o
 
 - <div>
 
-  ` `<span id="/s:7heresdk19EVChargingConnectorV17maxVoltageInVoltss5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/maxVoltageInVolts" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evchargingconnector#/s:7heresdk19EVChargingConnectorV17maxVoltageInVoltss5Int32Vvp" class="token"><code>maxVoltageInVolts</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19EVChargingConnectorV17maxVoltageInVoltss5Int32Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-maxVoltageInVolts" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingconnector#sdk-for-ios-navigate-s-7heresdk19EVChargingConnectorV17maxVoltageInVoltss5Int32Vvp" class="token"><code>maxVoltageInVolts</code></a> 
 
   </div>
 
@@ -247,7 +255,7 @@ Represents a connector at the charging point. **Note:** This is a beta release o
 
 - <div>
 
-  ` `<span id="/s:7heresdk19EVChargingConnectorV19maxCurrentInAmperess5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/maxCurrentInAmperes" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evchargingconnector#/s:7heresdk19EVChargingConnectorV19maxCurrentInAmperess5Int32Vvp" class="token"><code>maxCurrentInAmperes</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19EVChargingConnectorV19maxCurrentInAmperess5Int32Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-maxCurrentInAmperes" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingconnector#sdk-for-ios-navigate-s-7heresdk19EVChargingConnectorV19maxCurrentInAmperess5Int32Vvp" class="token"><code>maxCurrentInAmperes</code></a> 
 
   </div>
 
@@ -291,7 +299,7 @@ Represents a connector at the charging point. **Note:** This is a beta release o
 
 - <div>
 
-  ` `<span id="/s:7heresdk19EVChargingConnectorV15maxPowerInWattss5Int32VSgvp"></span>` `<span id="//apple_ref/swift/Property/maxPowerInWatts" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evchargingconnector#/s:7heresdk19EVChargingConnectorV15maxPowerInWattss5Int32VSgvp" class="token"><code>maxPowerInWatts</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19EVChargingConnectorV15maxPowerInWattss5Int32VSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-maxPowerInWatts" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingconnector#sdk-for-ios-navigate-s-7heresdk19EVChargingConnectorV15maxPowerInWattss5Int32VSgvp" class="token"><code>maxPowerInWatts</code></a> 
 
   </div>
 
@@ -335,7 +343,7 @@ Represents a connector at the charging point. **Note:** This is a beta release o
 
 - <div>
 
-  ` `<span id="/s:7heresdk19EVChargingConnectorV21termsAndConditionsUrlSSSgvp"></span>` `<span id="//apple_ref/swift/Property/termsAndConditionsUrl" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evchargingconnector#/s:7heresdk19EVChargingConnectorV21termsAndConditionsUrlSSSgvp" class="token"><code>termsAndConditionsUrl</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19EVChargingConnectorV21termsAndConditionsUrlSSSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-termsAndConditionsUrl" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingconnector#sdk-for-ios-navigate-s-7heresdk19EVChargingConnectorV21termsAndConditionsUrlSSSgvp" class="token"><code>termsAndConditionsUrl</code></a> 
 
   </div>
 
@@ -379,7 +387,7 @@ Represents a connector at the charging point. **Note:** This is a beta release o
 
 - <div>
 
-  ` `<span id="/s:7heresdk19EVChargingConnectorV13tariffIndexesSays5Int32VGvp"></span>` `<span id="//apple_ref/swift/Property/tariffIndexes" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evchargingconnector#/s:7heresdk19EVChargingConnectorV13tariffIndexesSays5Int32VGvp" class="token"><code>tariffIndexes</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19EVChargingConnectorV13tariffIndexesSays5Int32VGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-tariffIndexes" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingconnector#sdk-for-ios-navigate-s-7heresdk19EVChargingConnectorV13tariffIndexesSays5Int32VGvp" class="token"><code>tariffIndexes</code></a> 
 
   </div>
 
@@ -423,7 +431,7 @@ Represents a connector at the charging point. **Note:** This is a beta release o
 
 - <div>
 
-      init(id: connectorType: format: powerType: maxVoltageInVolts: maxCurrentInAmperes: maxPowerInWatts: termsAndConditionsUrl: tariffIndexes: )
+   <span id="sdk-for-ios-navigate-s-7heresdk19EVChargingConnectorV2id13connectorType6format05powerF017maxVoltageInVolts0i7CurrentK7Amperes0i5PowerK5Watts21termsAndConditionsUrl13tariffIndexesACSS_SSAA0bC6FormatOAA0oF0Os5Int32VA2RSgSSSgSayARGtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-id-connectorType-format-powerType-maxVoltageInVolts-maxCurrentInAmperes-maxPowerInWatts-termsAndConditionsUrl-tariffIndexes" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingconnector#sdk-for-ios-navigate-s-7heresdk19EVChargingConnectorV2id13connectorType6format05powerF017maxVoltageInVolts0i7CurrentK7Amperes0i5PowerK5Watts21termsAndConditionsUrl13tariffIndexesACSS_SSAA0bC6FormatOAA0oF0Os5Int32VA2RSgSSSgSayARGtcfc" class="token"><code>init(id:</code><wbr></wbr><code>connectorType:</code><wbr></wbr><code>format:</code><wbr></wbr><code>powerType:</code><wbr></wbr><code>maxVoltageInVolts:</code><wbr></wbr><code>maxCurrentInAmperes:</code><wbr></wbr><code>maxPowerInWatts:</code><wbr></wbr><code>termsAndConditionsUrl:</code><wbr></wbr><code>tariffIndexes:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -454,12 +462,15 @@ Represents a connector at the charging point. **Note:** This is a beta release o
   Swift
 
   ``` highlight
-  public init ( id : String = "" , connectorType : String = "" , format : EVChargingConnectorFormat = EVChargingConnectorFormat . socket , powerType : PowerType = PowerType . ac1phase , maxVoltageInVolts : Int32 = 0 , maxCurrentInAmperes : Int32 = 0 , maxPowerInWatts : Int32 ? = nil , termsAndConditionsUrl : String ? = nil , tariffIndexes : [ Int32 ] = [])
+  public init(id: String = "", connectorType: String = "", format: EVChargingConnectorFormat = EVChargingConnectorFormat.socket, powerType: PowerType = PowerType.ac1phase, maxVoltageInVolts: Int32 = 0, maxCurrentInAmperes: Int32 = 0, maxPowerInWatts: Int32? = nil, termsAndConditionsUrl: String? = nil, tariffIndexes: [Int32] = [])
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-evchargingconnectorformat">EVChargingConnectorFormat</a>
+  - <a href="sdk-for-ios-navigate-enums-powertype">PowerType</a>
 
   </div>
 

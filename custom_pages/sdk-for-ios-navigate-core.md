@@ -13,7 +13,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/s:7heresdk8Anchor2DV"></span>` `<span id="//apple_ref/swift/Struct/Anchor2D" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/s:7heresdk8Anchor2DV" class="token"><code>Anchor2D</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8Anchor2DV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-Anchor2D" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk8Anchor2DV" class="token"><code>Anchor2D</code></a> 
 
   </div>
 
@@ -59,7 +59,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/s:7heresdk16Anchor2DKeyframeV"></span>` `<span id="//apple_ref/swift/Struct/Anchor2DKeyframe" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/s:7heresdk16Anchor2DKeyframeV" class="token"><code>Anchor2DKeyframe</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16Anchor2DKeyframeV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-Anchor2DKeyframe" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk16Anchor2DKeyframeV" class="token"><code>Anchor2DKeyframe</code></a> 
 
   </div>
 
@@ -105,7 +105,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/s:7heresdk5AngleC"></span>` `<span id="//apple_ref/swift/Class/Angle" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/s:7heresdk5AngleC" class="token"><code>Angle</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk5AngleC"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Class-Angle" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk5AngleC" class="token"><code>Angle</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/s:7heresdk10AngleRangeV"></span>` `<span id="//apple_ref/swift/Struct/AngleRange" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/s:7heresdk10AngleRangeV" class="token"><code>AngleRange</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10AngleRangeV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-AngleRange" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk10AngleRangeV" class="token"><code>AngleRange</code></a> 
 
   </div>
 
@@ -205,7 +205,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/s:7heresdk14AuthenticationC"></span>` `<span id="//apple_ref/swift/Class/Authentication" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/s:7heresdk14AuthenticationC" class="token"><code>Authentication</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14AuthenticationC"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Class-Authentication" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk14AuthenticationC" class="token"><code>Authentication</code></a> 
 
   </div>
 
@@ -259,7 +259,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/s:7heresdk31AuthenticationCompletionHandlera"></span>` `<span id="//apple_ref/swift/Alias/AuthenticationCompletionHandler" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/s:7heresdk31AuthenticationCompletionHandlera" class="token"><code>AuthenticationCompletionHandler</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk31AuthenticationCompletionHandlera"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Alias-AuthenticationCompletionHandler" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk31AuthenticationCompletionHandlera" class="token"><code>AuthenticationCompletionHandler</code></a> 
 
   </div>
 
@@ -295,12 +295,15 @@ slug: "sdk-for-ios-navigate-core"
   Swift
 
   ``` highlight
-  public typealias AuthenticationCompletionHandler = ( _ authenticationError : AuthenticationError ?, _ authenticationData : AuthenticationData ?) -> Void
+  public typealias AuthenticationCompletionHandler = (_ authenticationError: AuthenticationError?, _ authenticationData: AuthenticationData?) -> Void
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-authenticationerror">AuthenticationError</a>
+  - <a href="sdk-for-ios-navigate-structs-authenticationdata">AuthenticationData</a>
 
   </div>
 
@@ -337,7 +340,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/s:7heresdk23AuthenticationExceptiona"></span>` `<span id="//apple_ref/swift/Alias/AuthenticationException" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/s:7heresdk23AuthenticationExceptiona" class="token"><code>AuthenticationException</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk23AuthenticationExceptiona"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Alias-AuthenticationException" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk23AuthenticationExceptiona" class="token"><code>AuthenticationException</code></a> 
 
   </div>
 
@@ -373,6 +376,10 @@ slug: "sdk-for-ios-navigate-core"
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-authenticationerror">AuthenticationError</a>
+
   </div>
 
   </div>
@@ -381,7 +388,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/s:7heresdk18AuthenticationModeC"></span>` `<span id="//apple_ref/swift/Class/AuthenticationMode" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/s:7heresdk18AuthenticationModeC" class="token"><code>AuthenticationMode</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18AuthenticationModeC"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Class-AuthenticationMode" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk18AuthenticationModeC" class="token"><code>AuthenticationMode</code></a> 
 
   </div>
 
@@ -435,7 +442,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/s:7heresdk9BrandLogoV"></span>` `<span id="//apple_ref/swift/Struct/BrandLogo" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/s:7heresdk9BrandLogoV" class="token"><code>BrandLogo</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9BrandLogoV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-BrandLogo" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk9BrandLogoV" class="token"><code>BrandLogo</code></a> 
 
   </div>
 
@@ -481,7 +488,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/s:7heresdk30CacheCallbackCompletionHandlera"></span>` `<span id="//apple_ref/swift/Alias/CacheCallbackCompletionHandler" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/s:7heresdk30CacheCallbackCompletionHandlera" class="token"><code>CacheCallbackCompletionHandler</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk30CacheCallbackCompletionHandlera"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Alias-CacheCallbackCompletionHandler" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk30CacheCallbackCompletionHandlera" class="token"><code>CacheCallbackCompletionHandler</code></a> 
 
   </div>
 
@@ -499,12 +506,7 @@ slug: "sdk-for-ios-navigate-core"
 
   <div class="abstract">
 
-  A method which is called on the main thread when
-
-      SDKCache.clearCache(...)
-
-  has been completed.
-  </p>
+  A method which is called on the main thread when <a href="sdk-for-ios-navigate-classes-sdkcache#sdk-for-ios-navigate-s-7heresdk8SDKCacheC10clearCache10completionyyAA14MapLoaderErrorOSgc_tF">`SDKCache.clearCache(...)`</a> has been completed.
 
   </div>
 
@@ -517,12 +519,14 @@ slug: "sdk-for-ios-navigate-core"
   Swift
 
   ``` highlight
-  public typealias CacheCallbackCompletionHandler = ( _ maploaderError : MapLoaderError ?) -> Void
+  public typealias CacheCallbackCompletionHandler = (_ maploaderError: MapLoaderError?) -> Void
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-maploadererror">MapLoaderError</a>
 
   </div>
 
@@ -539,7 +543,7 @@ slug: "sdk-for-ios-navigate-core"
   <tr>
   <td><code> </code><em><code>maploaderError</code></em><code> </code></td>
   <td><div>
-  <p>Represents an error in case of a failure. It is <code>nil</code> for an operation that succeeds. Please note, in case of failure, only <a href="sdk-for-ios-navigate-enums-maploadererror#/s:7heresdk14MapLoaderErrorO08internalD0yA2CmF"><code>MapLoaderError.internalError</code></a> error returned for now.</p>
+  <p>Represents an error in case of a failure. It is <code>nil</code> for an operation that succeeds. Please note, in case of failure, only <a href="sdk-for-ios-navigate-enums-maploadererror#sdk-for-ios-navigate-s-7heresdk14MapLoaderErrorO08internalD0yA2CmF"><code>MapLoaderError.internalError</code></a> error returned for now.</p>
   </div></td>
   </tr>
   </tbody>
@@ -553,7 +557,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/s:7heresdk17CardinalDirectionO"></span>` `<span id="//apple_ref/swift/Enum/CardinalDirection" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/s:7heresdk17CardinalDirectionO" class="token"><code>CardinalDirection</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk17CardinalDirectionO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-CardinalDirection" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk17CardinalDirectionO" class="token"><code>CardinalDirection</code></a> 
 
   </div>
 
@@ -599,7 +603,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/s:7heresdk20CatalogConfigurationV"></span>` `<span id="//apple_ref/swift/Struct/CatalogConfiguration" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/s:7heresdk20CatalogConfigurationV" class="token"><code>CatalogConfiguration</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk20CatalogConfigurationV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-CatalogConfiguration" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk20CatalogConfigurationV" class="token"><code>CatalogConfiguration</code></a> 
 
   </div>
 
@@ -651,7 +655,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/s:7heresdk17CatalogIdentifierV"></span>` `<span id="//apple_ref/swift/Struct/CatalogIdentifier" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/s:7heresdk17CatalogIdentifierV" class="token"><code>CatalogIdentifier</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk17CatalogIdentifierV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-CatalogIdentifier" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk17CatalogIdentifierV" class="token"><code>CatalogIdentifier</code></a> 
 
   </div>
 
@@ -699,7 +703,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CatalogTypeO"></span>` `<span id="//apple_ref/swift/Enum/CatalogType" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/s:7heresdk11CatalogTypeO" class="token"><code>CatalogType</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11CatalogTypeO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-CatalogType" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk11CatalogTypeO" class="token"><code>CatalogType</code></a> 
 
   </div>
 
@@ -745,7 +749,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/s:7heresdk17CatalogUpdateTaskC"></span>` `<span id="//apple_ref/swift/Class/CatalogUpdateTask" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/s:7heresdk17CatalogUpdateTaskC" class="token"><code>CatalogUpdateTask</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk17CatalogUpdateTaskC"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Class-CatalogUpdateTask" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk17CatalogUpdateTaskC" class="token"><code>CatalogUpdateTask</code></a> 
 
   </div>
 
@@ -799,7 +803,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/s:7heresdk18CatalogVersionHintC"></span>` `<span id="//apple_ref/swift/Class/CatalogVersionHint" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/s:7heresdk18CatalogVersionHintC" class="token"><code>CatalogVersionHint</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18CatalogVersionHintC"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Class-CatalogVersionHint" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk18CatalogVersionHintC" class="token"><code>CatalogVersionHint</code></a> 
 
   </div>
 
@@ -819,18 +823,7 @@ slug: "sdk-for-ios-navigate-core"
 
   This is a class for capturing user’s intent for the desired catalog version to use in <a href="sdk-for-ios-navigate-structs-desiredcatalog">`DesiredCatalog`</a> class.
 
-  You can request a specific or latest version of a catalog by calling the static functions
-
-      CatalogVersionHint.specific(...)
-
-  and
-      CatalogVersionHint.latest(...)
-
-  respectively. The HERE platform will make the best effort to provide an appropriate version for the catalog based on this version hint. Please take note that for the API
-      CatalogVersionHint.specific(...)
-
-  to function properly, it is essential that the mutable and persistent storage should be cleaned.
-  </p>
+  You can request a specific or latest version of a catalog by calling the static functions <a href="sdk-for-ios-navigate-classes-catalogversionhint#sdk-for-ios-navigate-s-7heresdk18CatalogVersionHintC8specific7versionACs5Int64V_tFZ">`CatalogVersionHint.specific(...)`</a> and <a href="sdk-for-ios-navigate-classes-catalogversionhint#sdk-for-ios-navigate-s-7heresdk18CatalogVersionHintC6latest16ignoreCachedDataACSb_tFZ">`CatalogVersionHint.latest(...)`</a> respectively. The HERE platform will make the best effort to provide an appropriate version for the catalog based on this version hint. Please take note that for the API <a href="sdk-for-ios-navigate-classes-catalogversionhint#sdk-for-ios-navigate-s-7heresdk18CatalogVersionHintC8specific7versionACs5Int64V_tFZ">`CatalogVersionHint.specific(...)`</a> to function properly, it is essential that the mutable and persistent storage should be cleaned.
 
   <a href="sdk-for-ios-navigate-classes-catalogversionhint" class="slightly-smaller">See more</a>
 
@@ -866,7 +859,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/s:7heresdk12CollectionOfC"></span>` `<span id="//apple_ref/swift/Class/CollectionOf" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/s:7heresdk12CollectionOfC" class="token"><code>CollectionOf</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12CollectionOfC"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Class-CollectionOf" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk12CollectionOfC" class="token"><code>CollectionOf</code></a> 
 
   </div>
 
@@ -912,7 +905,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO"></span>` `<span id="//apple_ref/swift/Enum/CountryCode" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/s:7heresdk11CountryCodeO" class="token"><code>CountryCode</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11CountryCodeO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-CountryCode" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk11CountryCodeO" class="token"><code>CountryCode</code></a> 
 
   </div>
 
@@ -958,7 +951,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CurrentTypeO"></span>` `<span id="//apple_ref/swift/Enum/CurrentType" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/s:7heresdk11CurrentTypeO" class="token"><code>CurrentType</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11CurrentTypeO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-CurrentType" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk11CurrentTypeO" class="token"><code>CurrentType</code></a> 
 
   </div>
 
@@ -1004,7 +997,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/s:7heresdk19CustomMetadataValueP"></span>` `<span id="//apple_ref/swift/Protocol/CustomMetadataValue" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/s:7heresdk19CustomMetadataValueP" class="token"><code>CustomMetadataValue</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19CustomMetadataValueP"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Protocol-CustomMetadataValue" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk19CustomMetadataValueP" class="token"><code>CustomMetadataValue</code></a> 
 
   </div>
 
@@ -1050,7 +1043,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/s:7heresdk14DesiredCatalogV"></span>` `<span id="//apple_ref/swift/Struct/DesiredCatalog" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/s:7heresdk14DesiredCatalogV" class="token"><code>DesiredCatalog</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14DesiredCatalogV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-DesiredCatalog" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk14DesiredCatalogV" class="token"><code>DesiredCatalog</code></a> 
 
   </div>
 
@@ -1096,7 +1089,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/s:7heresdk14DeviceIdHandlea"></span>` `<span id="//apple_ref/swift/Alias/DeviceIdHandle" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/s:7heresdk14DeviceIdHandlea" class="token"><code>DeviceIdHandle</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14DeviceIdHandlea"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Alias-DeviceIdHandle" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk14DeviceIdHandlea" class="token"><code>DeviceIdHandle</code></a> 
 
   </div>
 
@@ -1114,12 +1107,7 @@ slug: "sdk-for-ios-navigate-core"
 
   <div class="abstract">
 
-  This method will be called on the main thread when
-
-      SDKNativeEngine.getDeviceId(...)
-
-  has been completed.
-  </p>
+  This method will be called on the main thread when <a href="sdk-for-ios-navigate-classes-sdknativeengine#sdk-for-ios-navigate-s-7heresdk15SDKNativeEngineC11getDeviceId10completionyySSc_tF">`SDKNativeEngine.getDeviceId(...)`</a> has been completed.
 
   </div>
 
@@ -1132,10 +1120,8 @@ slug: "sdk-for-ios-navigate-core"
   Swift
 
   ``` highlight
-  public typealias DeviceIdHandle = ( _ deviceId : String ) -> Void
+  public typealias DeviceIdHandle = (_ deviceId: String) -> Void
   ```
-
-  </pre>
 
   </div>
 
@@ -1168,7 +1154,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/s:7heresdk13EngineBaseURLO"></span>` `<span id="//apple_ref/swift/Enum/EngineBaseURL" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/s:7heresdk13EngineBaseURLO" class="token"><code>EngineBaseURL</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13EngineBaseURLO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-EngineBaseURL" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk13EngineBaseURLO" class="token"><code>EngineBaseURL</code></a> 
 
   </div>
 
@@ -1214,7 +1200,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/s:7heresdk13EngineOptionsV"></span>` `<span id="//apple_ref/swift/Struct/EngineOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/s:7heresdk13EngineOptionsV" class="token"><code>EngineOptions</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13EngineOptionsV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-EngineOptions" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk13EngineOptionsV" class="token"><code>EngineOptions</code></a> 
 
   </div>
 
@@ -1260,7 +1246,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/s:7heresdk10ExternalIDV"></span>` `<span id="//apple_ref/swift/Struct/ExternalID" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/s:7heresdk10ExternalIDV" class="token"><code>ExternalID</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10ExternalIDV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-ExternalID" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk10ExternalIDV" class="token"><code>ExternalID</code></a> 
 
   </div>
 
@@ -1306,7 +1292,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/s:7heresdk6GeoBoxV"></span>` `<span id="//apple_ref/swift/Struct/GeoBox" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/s:7heresdk6GeoBoxV" class="token"><code>GeoBox</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk6GeoBoxV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-GeoBox" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk6GeoBoxV" class="token"><code>GeoBox</code></a> 
 
   </div>
 
@@ -1324,7 +1310,7 @@ slug: "sdk-for-ios-navigate-core"
 
   <div class="abstract">
 
-  Represents a bounding rectangle aligned with latitude and longitude. Geographic area represented by this would be visualised as a rectangle when using a normal cylindrical projection (such as Mercator). The box has a maximum span of 360 degrees in longitude and 180 degrees in latitude direction. The box with equal values in longitude for the corners is considered as a span of 360 degrees. The box is considered empty if the latitude of the <a href="sdk-for-ios-navigate-structs-geobox#/s:7heresdk6GeoBoxV15southWestCornerAA0B11CoordinatesVvp">`GeoBox.southWestCorner`</a> is larger than the the latitude of the <a href="sdk-for-ios-navigate-structs-geobox#/s:7heresdk6GeoBoxV15northEastCornerAA0B11CoordinatesVvp">`GeoBox.northEastCorner`</a>.
+  Represents a bounding rectangle aligned with latitude and longitude. Geographic area represented by this would be visualised as a rectangle when using a normal cylindrical projection (such as Mercator). The box has a maximum span of 360 degrees in longitude and 180 degrees in latitude direction. The box with equal values in longitude for the corners is considered as a span of 360 degrees. The box is considered empty if the latitude of the <a href="sdk-for-ios-navigate-structs-geobox#sdk-for-ios-navigate-s-7heresdk6GeoBoxV15southWestCornerAA0B11CoordinatesVvp">`GeoBox.southWestCorner`</a> is larger than the the latitude of the <a href="sdk-for-ios-navigate-structs-geobox#sdk-for-ios-navigate-s-7heresdk6GeoBoxV15northEastCornerAA0B11CoordinatesVvp">`GeoBox.northEastCorner`</a>.
 
   <a href="sdk-for-ios-navigate-structs-geobox" class="slightly-smaller">See more</a>
 
@@ -1352,7 +1338,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/s:7heresdk9GeoCircleV"></span>` `<span id="//apple_ref/swift/Struct/GeoCircle" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/s:7heresdk9GeoCircleV" class="token"><code>GeoCircle</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9GeoCircleV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-GeoCircle" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk9GeoCircleV" class="token"><code>GeoCircle</code></a> 
 
   </div>
 
@@ -1398,7 +1384,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/s:7heresdk14GeoCoordinatesV"></span>` `<span id="//apple_ref/swift/Struct/GeoCoordinates" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/s:7heresdk14GeoCoordinatesV" class="token"><code>GeoCoordinates</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14GeoCoordinatesV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-GeoCoordinates" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk14GeoCoordinatesV" class="token"><code>GeoCoordinates</code></a> 
 
   </div>
 
@@ -1444,7 +1430,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/s:7heresdk20GeoCoordinatesUpdateV"></span>` `<span id="//apple_ref/swift/Struct/GeoCoordinatesUpdate" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/s:7heresdk20GeoCoordinatesUpdateV" class="token"><code>GeoCoordinatesUpdate</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk20GeoCoordinatesUpdateV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-GeoCoordinatesUpdate" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk20GeoCoordinatesUpdateV" class="token"><code>GeoCoordinatesUpdate</code></a> 
 
   </div>
 
@@ -1490,7 +1476,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/s:7heresdk11GeoCorridorV"></span>` `<span id="//apple_ref/swift/Struct/GeoCorridor" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/s:7heresdk11GeoCorridorV" class="token"><code>GeoCorridor</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11GeoCorridorV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-GeoCorridor" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk11GeoCorridorV" class="token"><code>GeoCorridor</code></a> 
 
   </div>
 
@@ -1536,7 +1522,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/s:7heresdk14GeoOrientationV"></span>` `<span id="//apple_ref/swift/Struct/GeoOrientation" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/s:7heresdk14GeoOrientationV" class="token"><code>GeoOrientation</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14GeoOrientationV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-GeoOrientation" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk14GeoOrientationV" class="token"><code>GeoOrientation</code></a> 
 
   </div>
 
@@ -1582,7 +1568,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/s:7heresdk20GeoOrientationUpdateV"></span>` `<span id="//apple_ref/swift/Struct/GeoOrientationUpdate" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/s:7heresdk20GeoOrientationUpdateV" class="token"><code>GeoOrientationUpdate</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk20GeoOrientationUpdateV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-GeoOrientationUpdate" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk20GeoOrientationUpdateV" class="token"><code>GeoOrientationUpdate</code></a> 
 
   </div>
 
@@ -1628,7 +1614,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/s:7heresdk10GeoPolygonV"></span>` `<span id="//apple_ref/swift/Struct/GeoPolygon" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/s:7heresdk10GeoPolygonV" class="token"><code>GeoPolygon</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10GeoPolygonV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-GeoPolygon" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk10GeoPolygonV" class="token"><code>GeoPolygon</code></a> 
 
   </div>
 
@@ -1674,7 +1660,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/s:7heresdk11GeoPolylineV"></span>` `<span id="//apple_ref/swift/Struct/GeoPolyline" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/s:7heresdk11GeoPolylineV" class="token"><code>GeoPolyline</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11GeoPolylineV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-GeoPolyline" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk11GeoPolylineV" class="token"><code>GeoPolyline</code></a> 
 
   </div>
 
@@ -1720,7 +1706,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/s:7heresdk20GeoPolylineDirectionO"></span>` `<span id="//apple_ref/swift/Enum/GeoPolylineDirection" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/s:7heresdk20GeoPolylineDirectionO" class="token"><code>GeoPolylineDirection</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk20GeoPolylineDirectionO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-GeoPolylineDirection" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk20GeoPolylineDirectionO" class="token"><code>GeoPolylineDirection</code></a> 
 
   </div>
 
@@ -1738,7 +1724,7 @@ slug: "sdk-for-ios-navigate-core"
 
   <div class="abstract">
 
-  Defines if a function on a <a href="sdk-for-ios-navigate-structs-geopolyline">`GeoPolyline`</a> computes the operation starting from the beginning or from the end of <a href="sdk-for-ios-navigate-structs-geopolyline#/s:7heresdk11GeoPolylineV8verticesSayAA0B11CoordinatesVGvp">`GeoPolyline.vertices`</a>.
+  Defines if a function on a <a href="sdk-for-ios-navigate-structs-geopolyline">`GeoPolyline`</a> computes the operation starting from the beginning or from the end of <a href="sdk-for-ios-navigate-structs-geopolyline#sdk-for-ios-navigate-s-7heresdk11GeoPolylineV8verticesSayAA0B11CoordinatesVGvp">`GeoPolyline.vertices`</a>.
 
   <a href="sdk-for-ios-navigate-enums-geopolylinedirection" class="slightly-smaller">See more</a>
 
@@ -1766,7 +1752,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/s:7heresdk18InstantiationErrora"></span>` `<span id="//apple_ref/swift/Alias/InstantiationError" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/s:7heresdk18InstantiationErrora" class="token"><code>InstantiationError</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18InstantiationErrora"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Alias-InstantiationError" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk18InstantiationErrora" class="token"><code>InstantiationError</code></a> 
 
   </div>
 
@@ -1802,6 +1788,10 @@ slug: "sdk-for-ios-navigate-core"
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-instantiationerrorcode">InstantiationErrorCode</a>
+
   </div>
 
   </div>
@@ -1810,7 +1800,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/s:7heresdk22InstantiationErrorCodeO"></span>` `<span id="//apple_ref/swift/Enum/InstantiationErrorCode" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/s:7heresdk22InstantiationErrorCodeO" class="token"><code>InstantiationErrorCode</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk22InstantiationErrorCodeO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-InstantiationErrorCode" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk22InstantiationErrorCodeO" class="token"><code>InstantiationErrorCode</code></a> 
 
   </div>
 
@@ -1860,7 +1850,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/s:7heresdk12IntegerRangeV"></span>` `<span id="//apple_ref/swift/Struct/IntegerRange" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/s:7heresdk12IntegerRangeV" class="token"><code>IntegerRange</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12IntegerRangeV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-IntegerRange" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk12IntegerRangeV" class="token"><code>IntegerRange</code></a> 
 
   </div>
 
@@ -1906,7 +1896,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/s:7heresdk23JunctionsTraversabilityO"></span>` `<span id="//apple_ref/swift/Enum/JunctionsTraversability" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/s:7heresdk23JunctionsTraversabilityO" class="token"><code>JunctionsTraversability</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk23JunctionsTraversabilityO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-JunctionsTraversability" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk23JunctionsTraversabilityO" class="token"><code>JunctionsTraversability</code></a> 
 
   </div>
 
@@ -1952,7 +1942,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LanguageCodeO"></span>` `<span id="//apple_ref/swift/Enum/LanguageCode" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/s:7heresdk12LanguageCodeO" class="token"><code>LanguageCode</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12LanguageCodeO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-LanguageCode" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk12LanguageCodeO" class="token"><code>LanguageCode</code></a> 
 
   </div>
 
@@ -1998,7 +1988,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/s:7heresdk18LayerConfigurationV"></span>` `<span id="//apple_ref/swift/Struct/LayerConfiguration" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/s:7heresdk18LayerConfigurationV" class="token"><code>LayerConfiguration</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18LayerConfigurationV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-LayerConfiguration" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk18LayerConfigurationV" class="token"><code>LayerConfiguration</code></a> 
 
   </div>
 
@@ -2078,7 +2068,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/s:7heresdk19LocalizedRoadNumberV"></span>` `<span id="//apple_ref/swift/Struct/LocalizedRoadNumber" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/s:7heresdk19LocalizedRoadNumberV" class="token"><code>LocalizedRoadNumber</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19LocalizedRoadNumberV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-LocalizedRoadNumber" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk19LocalizedRoadNumberV" class="token"><code>LocalizedRoadNumber</code></a> 
 
   </div>
 
@@ -2124,7 +2114,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/s:7heresdk20LocalizedRoadNumbersV"></span>` `<span id="//apple_ref/swift/Struct/LocalizedRoadNumbers" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/s:7heresdk20LocalizedRoadNumbersV" class="token"><code>LocalizedRoadNumbers</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk20LocalizedRoadNumbersV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-LocalizedRoadNumbers" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk20LocalizedRoadNumbersV" class="token"><code>LocalizedRoadNumbers</code></a> 
 
   </div>
 
@@ -2170,7 +2160,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/s:7heresdk13LocalizedTextV"></span>` `<span id="//apple_ref/swift/Struct/LocalizedText" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/s:7heresdk13LocalizedTextV" class="token"><code>LocalizedText</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13LocalizedTextV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-LocalizedText" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk13LocalizedTextV" class="token"><code>LocalizedText</code></a> 
 
   </div>
 
@@ -2216,7 +2206,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/s:7heresdk14LocalizedTextsV"></span>` `<span id="//apple_ref/swift/Struct/LocalizedTexts" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/s:7heresdk14LocalizedTextsV" class="token"><code>LocalizedTexts</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14LocalizedTextsV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-LocalizedTexts" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk14LocalizedTextsV" class="token"><code>LocalizedTexts</code></a> 
 
   </div>
 
@@ -2262,7 +2252,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/s:7heresdk8LocationV"></span>` `<span id="//apple_ref/swift/Struct/Location" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/s:7heresdk8LocationV" class="token"><code>Location</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8LocationV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-Location" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk8LocationV" class="token"><code>Location</code></a> 
 
   </div>
 
@@ -2308,7 +2298,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/s:7heresdk16LocationDelegateP"></span>` `<span id="//apple_ref/swift/Protocol/LocationDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/s:7heresdk16LocationDelegateP" class="token"><code>LocationDelegate</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16LocationDelegateP"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Protocol-LocationDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk16LocationDelegateP" class="token"><code>LocationDelegate</code></a> 
 
   </div>
 
@@ -2354,7 +2344,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/s:7heresdk14LocationSourceO"></span>` `<span id="//apple_ref/swift/Enum/LocationSource" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/s:7heresdk14LocationSourceO" class="token"><code>LocationSource</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14LocationSourceO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-LocationSource" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk14LocationSourceO" class="token"><code>LocationSource</code></a> 
 
   </div>
 
@@ -2406,7 +2396,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/s:7heresdk18LocationTechnologyO"></span>` `<span id="//apple_ref/swift/Enum/LocationTechnology" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/s:7heresdk18LocationTechnologyO" class="token"><code>LocationTechnology</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18LocationTechnologyO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-LocationTechnology" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk18LocationTechnologyO" class="token"><code>LocationTechnology</code></a> 
 
   </div>
 
@@ -2452,7 +2442,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/s:7heresdk12LocationTimeV"></span>` `<span id="//apple_ref/swift/Struct/LocationTime" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/s:7heresdk12LocationTimeV" class="token"><code>LocationTime</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12LocationTimeV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-LocationTime" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk12LocationTimeV" class="token"><code>LocationTime</code></a> 
 
   </div>
 
@@ -2498,7 +2488,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/s:7heresdk11LogAppenderP"></span>` `<span id="//apple_ref/swift/Protocol/LogAppender" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/s:7heresdk11LogAppenderP" class="token"><code>LogAppender</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11LogAppenderP"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Protocol-LogAppender" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk11LogAppenderP" class="token"><code>LogAppender</code></a> 
 
   </div>
 
@@ -2544,7 +2534,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/s:7heresdk10LogControlC"></span>` `<span id="//apple_ref/swift/Class/LogControl" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/s:7heresdk10LogControlC" class="token"><code>LogControl</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10LogControlC"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Class-LogControl" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk10LogControlC" class="token"><code>LogControl</code></a> 
 
   </div>
 
@@ -2598,7 +2588,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/s:7heresdk8LogLevelO"></span>` `<span id="//apple_ref/swift/Enum/LogLevel" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/s:7heresdk8LogLevelO" class="token"><code>LogLevel</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8LogLevelO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-LogLevel" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk8LogLevelO" class="token"><code>LogLevel</code></a> 
 
   </div>
 
@@ -2644,7 +2634,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/s:7heresdk8MetadataC"></span>` `<span id="//apple_ref/swift/Class/Metadata" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/s:7heresdk8MetadataC" class="token"><code>Metadata</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8MetadataC"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Class-Metadata" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk8MetadataC" class="token"><code>Metadata</code></a> 
 
   </div>
 
@@ -2698,7 +2688,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/s:7heresdk12MetadataTypeO"></span>` `<span id="//apple_ref/swift/Enum/MetadataType" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/s:7heresdk12MetadataTypeO" class="token"><code>MetadataType</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12MetadataTypeO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-MetadataType" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk12MetadataTypeO" class="token"><code>MetadataType</code></a> 
 
   </div>
 
@@ -2744,7 +2734,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/s:7heresdk6NameIDV"></span>` `<span id="//apple_ref/swift/Struct/NameID" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/s:7heresdk6NameIDV" class="token"><code>NameID</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk6NameIDV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-NameID" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk6NameIDV" class="token"><code>NameID</code></a> 
 
   </div>
 
@@ -2790,7 +2780,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/s:7heresdk15NetworkEndpointV"></span>` `<span id="//apple_ref/swift/Struct/NetworkEndpoint" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/s:7heresdk15NetworkEndpointV" class="token"><code>NetworkEndpoint</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15NetworkEndpointV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-NetworkEndpoint" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk15NetworkEndpointV" class="token"><code>NetworkEndpoint</code></a> 
 
   </div>
 
@@ -2836,7 +2826,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/s:7heresdk15NetworkSettingsV"></span>` `<span id="//apple_ref/swift/Struct/NetworkSettings" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/s:7heresdk15NetworkSettingsV" class="token"><code>NetworkSettings</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15NetworkSettingsV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-NetworkSettings" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk15NetworkSettingsV" class="token"><code>NetworkSettings</code></a> 
 
   </div>
 
@@ -2882,7 +2872,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/s:7heresdk22ParameterConfigurationV"></span>` `<span id="//apple_ref/swift/Struct/ParameterConfiguration" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/s:7heresdk22ParameterConfigurationV" class="token"><code>ParameterConfiguration</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk22ParameterConfigurationV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-ParameterConfiguration" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk22ParameterConfigurationV" class="token"><code>ParameterConfiguration</code></a> 
 
   </div>
 
@@ -2928,7 +2918,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/s:7heresdk18PassThroughFeatureO"></span>` `<span id="//apple_ref/swift/Enum/PassThroughFeature" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/s:7heresdk18PassThroughFeatureO" class="token"><code>PassThroughFeature</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18PassThroughFeatureO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-PassThroughFeature" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk18PassThroughFeatureO" class="token"><code>PassThroughFeature</code></a> 
 
   </div>
 
@@ -2946,7 +2936,7 @@ slug: "sdk-for-ios-navigate-core"
 
   <div class="abstract">
 
-  Represents features that are allowed to consume online data when the HERE SDK’s offline mode is activated via <a href="sdk-for-ios-navigate-classes-sdknativeengine#/s:7heresdk15SDKNativeEngineC13isOfflineModeSbvp">`SDKNativeEngine.isOfflineMode`</a> and/or <a href="sdk-for-ios-navigate-structs-sdkoptions#/s:7heresdk10SDKOptionsV11offlineModeSbvp">`SDKOptions.offlineMode`</a>.
+  Represents features that are allowed to consume online data when the HERE SDK’s offline mode is activated via <a href="sdk-for-ios-navigate-classes-sdknativeengine#sdk-for-ios-navigate-s-7heresdk15SDKNativeEngineC13isOfflineModeSbvp">`SDKNativeEngine.isOfflineMode`</a> and/or <a href="sdk-for-ios-navigate-structs-sdkoptions#sdk-for-ios-navigate-s-7heresdk10SDKOptionsV11offlineModeSbvp">`SDKOptions.offlineMode`</a>.
 
   Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors. Related APIs may change for new releases without a deprecation process.
 
@@ -2976,7 +2966,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/s:7heresdk9PowerTypeO"></span>` `<span id="//apple_ref/swift/Enum/PowerType" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/s:7heresdk9PowerTypeO" class="token"><code>PowerType</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9PowerTypeO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-PowerType" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk9PowerTypeO" class="token"><code>PowerType</code></a> 
 
   </div>
 
@@ -3022,7 +3012,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/s:7heresdk17PedestrianProfileV"></span>` `<span id="//apple_ref/swift/Struct/PedestrianProfile" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/s:7heresdk17PedestrianProfileV" class="token"><code>PedestrianProfile</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk17PedestrianProfileV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-PedestrianProfile" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk17PedestrianProfileV" class="token"><code>PedestrianProfile</code></a> 
 
   </div>
 
@@ -3055,10 +3045,9 @@ slug: "sdk-for-ios-navigate-core"
   Swift
 
   ``` highlight
-  @available(*, deprecated, message: "Will be removed in v4.28.0. Use `sdk.transport.TransportSpecification` instead.") public struct PedestrianProfile : Hashable
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use `sdk.transport.TransportSpecification` instead.")
+  public struct PedestrianProfile : Hashable
   ```
-
-  </pre>
 
   </div>
 
@@ -3070,7 +3059,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/s:7heresdk11PickedPlaceV"></span>` `<span id="//apple_ref/swift/Struct/PickedPlace" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/s:7heresdk11PickedPlaceV" class="token"><code>PickedPlace</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11PickedPlaceV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-PickedPlace" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk11PickedPlaceV" class="token"><code>PickedPlace</code></a> 
 
   </div>
 
@@ -3116,7 +3105,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/s:7heresdk17PlatformThreadingP"></span>` `<span id="//apple_ref/swift/Protocol/PlatformThreading" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/s:7heresdk17PlatformThreadingP" class="token"><code>PlatformThreading</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk17PlatformThreadingP"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Protocol-PlatformThreading" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk17PlatformThreadingP" class="token"><code>PlatformThreading</code></a> 
 
   </div>
 
@@ -3162,7 +3151,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/s:7heresdk7Point2DV"></span>` `<span id="//apple_ref/swift/Struct/Point2D" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/s:7heresdk7Point2DV" class="token"><code>Point2D</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk7Point2DV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-Point2D" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk7Point2DV" class="token"><code>Point2D</code></a> 
 
   </div>
 
@@ -3208,7 +3197,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/s:7heresdk7Point3DV"></span>` `<span id="//apple_ref/swift/Struct/Point3D" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/s:7heresdk7Point3DV" class="token"><code>Point3D</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk7Point3DV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-Point3D" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk7Point3DV" class="token"><code>Point3D</code></a> 
 
   </div>
 
@@ -3254,7 +3243,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/s:7heresdk39PolylineSimplificationCompletionHandlera"></span>` `<span id="//apple_ref/swift/Alias/PolylineSimplificationCompletionHandler" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/s:7heresdk39PolylineSimplificationCompletionHandlera" class="token"><code>PolylineSimplificationCompletionHandler</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk39PolylineSimplificationCompletionHandlera"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Alias-PolylineSimplificationCompletionHandler" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk39PolylineSimplificationCompletionHandlera" class="token"><code>PolylineSimplificationCompletionHandler</code></a> 
 
   </div>
 
@@ -3272,12 +3261,7 @@ slug: "sdk-for-ios-navigate-core"
 
   <div class="abstract">
 
-  The method will be called on the main thread when
-
-      PolylineSimplifier.simplify(...)
-
-  is finished.
-  </p>
+  The method will be called on the main thread when <a href="sdk-for-ios-navigate-classes-polylinesimplifier#sdk-for-ios-navigate-s-7heresdk18PolylineSimplifierC8simplify8polyline24simplificationParameters10completionAA10TaskHandle_pSayAA14GeoCoordinatesVG_AC7OptionsVyAA0B19SimplificationErrorOSg_AKSgtctF">`PolylineSimplifier.simplify(...)`</a> is finished.
 
   </div>
 
@@ -3290,12 +3274,15 @@ slug: "sdk-for-ios-navigate-core"
   Swift
 
   ``` highlight
-  public typealias PolylineSimplificationCompletionHandler = ( _ queryError : PolylineSimplificationError ?, _ result : [ GeoCoordinates ]?) -> Void
+  public typealias PolylineSimplificationCompletionHandler = (_ queryError: PolylineSimplificationError?, _ result: [GeoCoordinates]?) -> Void
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-polylinesimplificationerror">PolylineSimplificationError</a>
+  - <a href="sdk-for-ios-navigate-structs-geocoordinates">GeoCoordinates</a>
 
   </div>
 
@@ -3318,10 +3305,7 @@ slug: "sdk-for-ios-navigate-core"
   <tr>
   <td><code> </code><em><code>result</code></em><code> </code></td>
   <td><div>
-  <p>The simplified polyline with number of points less or equal to the input polyline of</p>
-  <pre><code>PolylineSimplifier.simplify(...)</code></pre>
-  .
-  </p>
+  <p>The simplified polyline with number of points less or equal to the input polyline of <a href="sdk-for-ios-navigate-classes-polylinesimplifier#sdk-for-ios-navigate-s-7heresdk18PolylineSimplifierC8simplify8polyline24simplificationParameters10completionAA10TaskHandle_pSayAA14GeoCoordinatesVG_AC7OptionsVyAA0B19SimplificationErrorOSg_AKSgtctF"><code>PolylineSimplifier.simplify(...)</code></a>.</p>
   </div></td>
   </tr>
   </tbody>
@@ -3335,7 +3319,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/s:7heresdk27PolylineSimplificationErrorO"></span>` `<span id="//apple_ref/swift/Enum/PolylineSimplificationError" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/s:7heresdk27PolylineSimplificationErrorO" class="token"><code>PolylineSimplificationError</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk27PolylineSimplificationErrorO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-PolylineSimplificationError" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk27PolylineSimplificationErrorO" class="token"><code>PolylineSimplificationError</code></a> 
 
   </div>
 
@@ -3353,12 +3337,7 @@ slug: "sdk-for-ios-navigate-core"
 
   <div class="abstract">
 
-  Error code which specifies, what went wrong during
-
-      PolylineSimplifier.simplify(...)
-
-  operation.
-  </p>
+  Error code which specifies, what went wrong during <a href="sdk-for-ios-navigate-classes-polylinesimplifier#sdk-for-ios-navigate-s-7heresdk18PolylineSimplifierC8simplify8polyline24simplificationParameters10completionAA10TaskHandle_pSayAA14GeoCoordinatesVG_AC7OptionsVyAA0B19SimplificationErrorOSg_AKSgtctF">`PolylineSimplifier.simplify(...)`</a> operation.
 
   <a href="sdk-for-ios-navigate-enums-polylinesimplificationerror" class="slightly-smaller">See more</a>
 
@@ -3386,7 +3365,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/s:7heresdk18PolylineSimplifierC"></span>` `<span id="//apple_ref/swift/Class/PolylineSimplifier" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/s:7heresdk18PolylineSimplifierC" class="token"><code>PolylineSimplifier</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18PolylineSimplifierC"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Class-PolylineSimplifier" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk18PolylineSimplifierC" class="token"><code>PolylineSimplifier</code></a> 
 
   </div>
 
@@ -3445,7 +3424,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/s:7heresdk13ProxySettingsV"></span>` `<span id="//apple_ref/swift/Struct/ProxySettings" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/s:7heresdk13ProxySettingsV" class="token"><code>ProxySettings</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13ProxySettingsV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-ProxySettings" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk13ProxySettingsV" class="token"><code>ProxySettings</code></a> 
 
   </div>
 
@@ -3491,7 +3470,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/s:7heresdk11Rectangle2DV"></span>` `<span id="//apple_ref/swift/Struct/Rectangle2D" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/s:7heresdk11Rectangle2DV" class="token"><code>Rectangle2D</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11Rectangle2DV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-Rectangle2D" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk11Rectangle2DV" class="token"><code>Rectangle2D</code></a> 
 
   </div>
 
@@ -3537,7 +3516,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/s:7heresdk9RouteTypeO"></span>` `<span id="//apple_ref/swift/Enum/RouteType" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/s:7heresdk9RouteTypeO" class="token"><code>RouteType</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9RouteTypeO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-RouteType" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk9RouteTypeO" class="token"><code>RouteType</code></a> 
 
   </div>
 
@@ -3583,7 +3562,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/s:7heresdk8RunnableP"></span>` `<span id="//apple_ref/swift/Protocol/Runnable" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/s:7heresdk8RunnableP" class="token"><code>Runnable</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8RunnableP"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Protocol-Runnable" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk8RunnableP" class="token"><code>Runnable</code></a> 
 
   </div>
 
@@ -3629,7 +3608,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/s:7heresdk19SDKBuildInformationC"></span>` `<span id="//apple_ref/swift/Class/SDKBuildInformation" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/s:7heresdk19SDKBuildInformationC" class="token"><code>SDKBuildInformation</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19SDKBuildInformationC"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Class-SDKBuildInformation" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk19SDKBuildInformationC" class="token"><code>SDKBuildInformation</code></a> 
 
   </div>
 
@@ -3683,7 +3662,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/s:7heresdk8SDKCacheC"></span>` `<span id="//apple_ref/swift/Class/SDKCache" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/s:7heresdk8SDKCacheC" class="token"><code>SDKCache</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8SDKCacheC"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Class-SDKCache" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk8SDKCacheC" class="token"><code>SDKCache</code></a> 
 
   </div>
 
@@ -3701,7 +3680,7 @@ slug: "sdk-for-ios-navigate-core"
 
   <div class="abstract">
 
-  A class to manage SDK Cache. Path for SDKCache is specified via <a href="sdk-for-ios-navigate-structs-sdkoptions#/s:7heresdk10SDKOptionsV9cachePathSSvp">`SDKOptions.cachePath`</a>. SDKCache manages temporary downloaded map data during map interaction and follows LRU (least recently used) strategy to delete map data when cache size exceeds the specified <a href="sdk-for-ios-navigate-structs-sdkoptions#/s:7heresdk10SDKOptionsV16cacheSizeInBytess5Int64Vvp">`SDKOptions.cacheSizeInBytes`</a>.
+  A class to manage SDK Cache. Path for SDKCache is specified via <a href="sdk-for-ios-navigate-structs-sdkoptions#sdk-for-ios-navigate-s-7heresdk10SDKOptionsV9cachePathSSvp">`SDKOptions.cachePath`</a>. SDKCache manages temporary downloaded map data during map interaction and follows LRU (least recently used) strategy to delete map data when cache size exceeds the specified <a href="sdk-for-ios-navigate-structs-sdkoptions#sdk-for-ios-navigate-s-7heresdk10SDKOptionsV16cacheSizeInBytess5Int64Vvp">`SDKOptions.cacheSizeInBytes`</a>.
 
   <a href="sdk-for-ios-navigate-classes-sdkcache" class="slightly-smaller">See more</a>
 
@@ -3737,7 +3716,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/c:@M@heresdk@objc(cs)SDKInternalInitializer"></span>` `<span id="//apple_ref/swift/Class/SDKInternalInitializer" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/c:@M@heresdk@objc(cs)SDKInternalInitializer" class="token"><code>SDKInternalInitializer</code></a>` `
+   <span id="sdk-for-ios-navigate-c-M-heresdk-objc-csSDKInternalInitializer"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Class-SDKInternalInitializer" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-c-M-heresdk-objc-csSDKInternalInitializer" class="token"><code>SDKInternalInitializer</code></a> 
 
   </div>
 
@@ -3783,7 +3762,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/s:7heresdk9SDKLoggerC"></span>` `<span id="//apple_ref/swift/Class/SDKLogger" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/s:7heresdk9SDKLoggerC" class="token"><code>SDKLogger</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9SDKLoggerC"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Class-SDKLogger" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk9SDKLoggerC" class="token"><code>SDKLogger</code></a> 
 
   </div>
 
@@ -3837,7 +3816,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/s:7heresdk15SDKNativeEngineC"></span>` `<span id="//apple_ref/swift/Class/SDKNativeEngine" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/s:7heresdk15SDKNativeEngineC" class="token"><code>SDKNativeEngine</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15SDKNativeEngineC"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Class-SDKNativeEngine" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk15SDKNativeEngineC" class="token"><code>SDKNativeEngine</code></a> 
 
   </div>
 
@@ -3905,7 +3884,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/c:@M@heresdk@objc(cs)SDKNativeEngineHolder"></span>` `<span id="//apple_ref/swift/Class/SDKNativeEngineHolder" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/c:@M@heresdk@objc(cs)SDKNativeEngineHolder" class="token"><code>SDKNativeEngineHolder</code></a>` `
+   <span id="sdk-for-ios-navigate-c-M-heresdk-objc-csSDKNativeEngineHolder"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Class-SDKNativeEngineHolder" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-c-M-heresdk-objc-csSDKNativeEngineHolder" class="token"><code>SDKNativeEngineHolder</code></a> 
 
   </div>
 
@@ -3949,7 +3928,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/s:7heresdk10SDKOptionsV"></span>` `<span id="//apple_ref/swift/Struct/SDKOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/s:7heresdk10SDKOptionsV" class="token"><code>SDKOptions</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10SDKOptionsV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-SDKOptions" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk10SDKOptionsV" class="token"><code>SDKOptions</code></a> 
 
   </div>
 
@@ -3995,7 +3974,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/s:7heresdk10SDKVersionV"></span>` `<span id="//apple_ref/swift/Struct/SDKVersion" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/s:7heresdk10SDKVersionV" class="token"><code>SDKVersion</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10SDKVersionV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-SDKVersion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk10SDKVersionV" class="token"><code>SDKVersion</code></a> 
 
   </div>
 
@@ -4041,7 +4020,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/s:7heresdk6Size2DV"></span>` `<span id="//apple_ref/swift/Struct/Size2D" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/s:7heresdk6Size2DV" class="token"><code>Size2D</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk6Size2DV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-Size2D" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk6Size2DV" class="token"><code>Size2D</code></a> 
 
   </div>
 
@@ -4087,7 +4066,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/s:SS"></span>` `<span id="//apple_ref/swift/Extension/String" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/s:SS" class="token"><code>String</code></a>` `
+   <span id="sdk-for-ios-navigate-s-SS"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Extension-String" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-SS" class="token"><code>String</code></a> 
 
   </div>
 
@@ -4129,7 +4108,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/s:7heresdk21TaskCompletionHandlera"></span>` `<span id="//apple_ref/swift/Alias/TaskCompletionHandler" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/s:7heresdk21TaskCompletionHandlera" class="token"><code>TaskCompletionHandler</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21TaskCompletionHandlera"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Alias-TaskCompletionHandler" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk21TaskCompletionHandlera" class="token"><code>TaskCompletionHandler</code></a> 
 
   </div>
 
@@ -4160,12 +4139,14 @@ slug: "sdk-for-ios-navigate-core"
   Swift
 
   ``` highlight
-  public typealias TaskCompletionHandler = ( _ taskOutcome : TaskOutcome ) -> Void
+  public typealias TaskCompletionHandler = (_ taskOutcome: TaskOutcome) -> Void
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-taskoutcome">TaskOutcome</a>
 
   </div>
 
@@ -4196,7 +4177,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/s:7heresdk10TaskHandleP"></span>` `<span id="//apple_ref/swift/Protocol/TaskHandle" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/s:7heresdk10TaskHandleP" class="token"><code>TaskHandle</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10TaskHandleP"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Protocol-TaskHandle" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk10TaskHandleP" class="token"><code>TaskHandle</code></a> 
 
   </div>
 
@@ -4242,7 +4223,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/s:7heresdk11TaskOutcomeO"></span>` `<span id="//apple_ref/swift/Enum/TaskOutcome" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/s:7heresdk11TaskOutcomeO" class="token"><code>TaskOutcome</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11TaskOutcomeO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-TaskOutcome" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk11TaskOutcomeO" class="token"><code>TaskOutcome</code></a> 
 
   </div>
 
@@ -4260,7 +4241,7 @@ slug: "sdk-for-ios-navigate-core"
 
   <div class="abstract">
 
-  This enum represents that a task has been completed. Refer to <a href="sdk-for-ios-navigate-core#/s:7heresdk21TaskCompletionHandlera">`TaskCompletionHandler`</a> for more details.
+  This enum represents that a task has been completed. Refer to <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk21TaskCompletionHandlera">`TaskCompletionHandler`</a> for more details.
 
   <a href="sdk-for-ios-navigate-enums-taskoutcome" class="slightly-smaller">See more</a>
 
@@ -4288,7 +4269,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/s:7heresdk9ThreadingC"></span>` `<span id="//apple_ref/swift/Class/Threading" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/s:7heresdk9ThreadingC" class="token"><code>Threading</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9ThreadingC"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Class-Threading" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk9ThreadingC" class="token"><code>Threading</code></a> 
 
   </div>
 
@@ -4342,7 +4323,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/s:7heresdk8TimeRuleC"></span>` `<span id="//apple_ref/swift/Class/TimeRule" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/s:7heresdk8TimeRuleC" class="token"><code>TimeRule</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8TimeRuleC"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Class-TimeRule" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk8TimeRuleC" class="token"><code>TimeRule</code></a> 
 
   </div>
 
@@ -4416,7 +4397,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/s:7heresdk16TransportProfileV"></span>` `<span id="//apple_ref/swift/Struct/TransportProfile" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/s:7heresdk16TransportProfileV" class="token"><code>TransportProfile</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16TransportProfileV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-TransportProfile" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk16TransportProfileV" class="token"><code>TransportProfile</code></a> 
 
   </div>
 
@@ -4449,10 +4430,9 @@ slug: "sdk-for-ios-navigate-core"
   Swift
 
   ``` highlight
-  @available(*, deprecated, message: "Will be removed in v4.28.0. Use `TransportSpecification` instead.") public struct TransportProfile : Hashable
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use `TransportSpecification` instead.")
+  public struct TransportProfile : Hashable
   ```
-
-  </pre>
 
   </div>
 
@@ -4464,7 +4444,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/c:objc(cs)UIColor"></span>` `<span id="//apple_ref/swift/Extension/UIColor" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/c:objc(cs)UIColor" class="token"><code>UIColor</code></a>` `
+   <span id="sdk-for-ios-navigate-c-objc-csUIColor"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Extension-UIColor" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-c-objc-csUIColor" class="token"><code>UIColor</code></a> 
 
   </div>
 
@@ -4508,7 +4488,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/s:7heresdk10UnitSystemO"></span>` `<span id="//apple_ref/swift/Enum/UnitSystem" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/s:7heresdk10UnitSystemO" class="token"><code>UnitSystem</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10UnitSystemO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-UnitSystem" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk10UnitSystemO" class="token"><code>UnitSystem</code></a> 
 
   </div>
 
@@ -4554,7 +4534,7 @@ slug: "sdk-for-ios-navigate-core"
 
 - <div>
 
-  ` `<span id="/s:7heresdk10UsageStatsV"></span>` `<span id="//apple_ref/swift/Struct/UsageStats" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-core#/s:7heresdk10UsageStatsV" class="token"><code>UsageStats</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10UsageStatsV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-UsageStats" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk10UsageStatsV" class="token"><code>UsageStats</code></a> 
 
   </div>
 

@@ -27,7 +27,7 @@ Identifier of the entity as provided by the external source
 
 - <div>
 
-  ` `<span id="/s:7heresdk10ExternalIDV6sourceSSvp"></span>` `<span id="//apple_ref/swift/Property/source" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-externalid#/s:7heresdk10ExternalIDV6sourceSSvp" class="token"><code>source</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10ExternalIDV6sourceSSvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-source" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-externalid#sdk-for-ios-navigate-s-7heresdk10ExternalIDV6sourceSSvp" class="token"><code>source</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Identifier of the entity as provided by the external source
 
 - <div>
 
-  ` `<span id="/s:7heresdk10ExternalIDV2idSSvp"></span>` `<span id="//apple_ref/swift/Property/id" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-externalid#/s:7heresdk10ExternalIDV2idSSvp" class="token"><code>id</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10ExternalIDV2idSSvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-id" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-externalid#sdk-for-ios-navigate-s-7heresdk10ExternalIDV2idSSvp" class="token"><code>id</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Identifier of the entity as provided by the external source
 
 - <div>
 
-      init(source: id: )
+   <span id="sdk-for-ios-navigate-s-7heresdk10ExternalIDV6source2idACSS_SStcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-source-id" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-externalid#sdk-for-ios-navigate-s-7heresdk10ExternalIDV6source2idACSS_SStcfc" class="token"><code>init(source:</code><wbr></wbr><code>id:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -146,10 +146,8 @@ Identifier of the entity as provided by the external source
   Swift
 
   ``` highlight
-  public init ( source : String = "" , id : String = "" )
+  public init(source: String = "", id: String = "")
   ```
-
-  </pre>
 
   </div>
 

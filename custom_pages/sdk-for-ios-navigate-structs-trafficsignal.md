@@ -29,7 +29,7 @@ Identifies the presence and the location of traffic lights at an intersection
 
 - <div>
 
-  ` `<span id="/s:7heresdk13TrafficSignalV14offsetInMeterss5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/offsetInMeters" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-trafficsignal#/s:7heresdk13TrafficSignalV14offsetInMeterss5Int32Vvp" class="token"><code>offsetInMeters</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13TrafficSignalV14offsetInMeterss5Int32Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-offsetInMeters" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-trafficsignal#sdk-for-ios-navigate-s-7heresdk13TrafficSignalV14offsetInMeterss5Int32Vvp" class="token"><code>offsetInMeters</code></a> 
 
   </div>
 
@@ -73,7 +73,7 @@ Identifies the presence and the location of traffic lights at an intersection
 
 - <div>
 
-  ` `<span id="/s:7heresdk13TrafficSignalV15travelDirectionAA06TravelE0Ovp"></span>` `<span id="//apple_ref/swift/Property/travelDirection" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-trafficsignal#/s:7heresdk13TrafficSignalV15travelDirectionAA06TravelE0Ovp" class="token"><code>travelDirection</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13TrafficSignalV15travelDirectionAA06TravelE0Ovp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-travelDirection" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-trafficsignal#sdk-for-ios-navigate-s-7heresdk13TrafficSignalV15travelDirectionAA06TravelE0Ovp" class="token"><code>travelDirection</code></a> 
 
   </div>
 
@@ -109,6 +109,10 @@ Identifies the presence and the location of traffic lights at an intersection
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-traveldirection">TravelDirection</a>
+
   </div>
 
   </div>
@@ -117,7 +121,7 @@ Identifies the presence and the location of traffic lights at an intersection
 
 - <div>
 
-  ` `<span id="/s:7heresdk13TrafficSignalV15signalLocationsSayAA0bC8LocationOGvp"></span>` `<span id="//apple_ref/swift/Property/signalLocations" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-trafficsignal#/s:7heresdk13TrafficSignalV15signalLocationsSayAA0bC8LocationOGvp" class="token"><code>signalLocations</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13TrafficSignalV15signalLocationsSayAA0bC8LocationOGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-signalLocations" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-trafficsignal#sdk-for-ios-navigate-s-7heresdk13TrafficSignalV15signalLocationsSayAA0bC8LocationOGvp" class="token"><code>signalLocations</code></a> 
 
   </div>
 
@@ -153,6 +157,10 @@ Identifies the presence and the location of traffic lights at an intersection
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-trafficsignallocation">TrafficSignalLocation</a>
+
   </div>
 
   </div>
@@ -161,7 +169,7 @@ Identifies the presence and the location of traffic lights at an intersection
 
 - <div>
 
-      init(offsetInMeters: travelDirection: signalLocations: )
+   <span id="sdk-for-ios-navigate-s-7heresdk13TrafficSignalV14offsetInMeters15travelDirection15signalLocationsACs5Int32V_AA06TravelH0OSayAA0bC8LocationOGtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-offsetInMeters-travelDirection-signalLocations" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-trafficsignal#sdk-for-ios-navigate-s-7heresdk13TrafficSignalV14offsetInMeters15travelDirection15signalLocationsACs5Int32V_AA06TravelH0OSayAA0bC8LocationOGtcfc" class="token"><code>init(offsetInMeters:</code><wbr></wbr><code>travelDirection:</code><wbr></wbr><code>signalLocations:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -192,12 +200,15 @@ Identifies the presence and the location of traffic lights at an intersection
   Swift
 
   ``` highlight
-  public init ( offsetInMeters : Int32 , travelDirection : TravelDirection , signalLocations : [ TrafficSignalLocation ] = [])
+  public init(offsetInMeters: Int32, travelDirection: TravelDirection, signalLocations: [TrafficSignalLocation] = [])
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-traveldirection">TravelDirection</a>
+  - <a href="sdk-for-ios-navigate-enums-trafficsignallocation">TrafficSignalLocation</a>
 
   </div>
 

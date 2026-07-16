@@ -27,7 +27,7 @@ Represents size of visual elements drawn on the map.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10RenderSizeV4UnitO"></span>` `<span id="//apple_ref/swift/Enum/Unit" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-rendersize#/s:7heresdk10RenderSizeV4UnitO" class="token"><code>Unit</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10RenderSizeV4UnitO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-Unit" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-rendersize#sdk-for-ios-explore-s-7heresdk10RenderSizeV4UnitO" class="token"><code>Unit</code></a> 
 
   </div>
 

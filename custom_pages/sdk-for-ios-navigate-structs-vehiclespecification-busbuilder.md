@@ -23,6 +23,10 @@ extension VehicleSpecification.BusBuilder: Hashable
 
 </div>
 
+Related types:
+
+- <a href="sdk-for-ios-navigate-structs-vehiclespecification">VehicleSpecification</a>
+
 </div>
 
 This class constructs a <a href="sdk-for-ios-navigate-structs-vehiclespecification">`VehicleSpecification`</a> for a bus.
@@ -35,7 +39,7 @@ This class constructs a <a href="sdk-for-ios-navigate-structs-vehiclespecificati
 
 - <div>
 
-      init()
+   <span id="sdk-for-ios-navigate-s-7heresdk20VehicleSpecificationV10BusBuilderCAEycfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-vehiclespecification-busbuilder#sdk-for-ios-navigate-s-7heresdk20VehicleSpecificationV10BusBuilderCAEycfc" class="token"><code>init()</code></a> 
 
   </div>
 
@@ -66,10 +70,8 @@ This class constructs a <a href="sdk-for-ios-navigate-structs-vehiclespecificati
   Swift
 
   ``` highlight
-  public init ()
+  public init()
   ```
-
-  </pre>
 
   </div>
 
@@ -81,7 +83,7 @@ This class constructs a <a href="sdk-for-ios-navigate-structs-vehiclespecificati
 
 - <div>
 
-      withHeightInCentimeters(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk20VehicleSpecificationV10BusBuilderC23withHeightInCentimetersyAEs5Int32VF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-withHeightInCentimeters-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-vehiclespecification-busbuilder#sdk-for-ios-navigate-s-7heresdk20VehicleSpecificationV10BusBuilderC23withHeightInCentimetersyAEs5Int32VF" class="token"><code>withHeightInCentimeters(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -112,12 +114,14 @@ This class constructs a <a href="sdk-for-ios-navigate-structs-vehiclespecificati
   Swift
 
   ``` highlight
-  public func withHeightInCentimeters ( _ heightInCentimeters : Int32 ) -> VehicleSpecification . BusBuilder
+  public func withHeightInCentimeters(_ heightInCentimeters: Int32) -> VehicleSpecification.BusBuilder
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-vehiclespecification">VehicleSpecification</a>
 
   </div>
 
@@ -156,7 +160,7 @@ This class constructs a <a href="sdk-for-ios-navigate-structs-vehiclespecificati
 
 - <div>
 
-      withWidthInCentimeters(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk20VehicleSpecificationV10BusBuilderC22withWidthInCentimetersyAEs5Int32VF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-withWidthInCentimeters-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-vehiclespecification-busbuilder#sdk-for-ios-navigate-s-7heresdk20VehicleSpecificationV10BusBuilderC22withWidthInCentimetersyAEs5Int32VF" class="token"><code>withWidthInCentimeters(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -187,12 +191,14 @@ This class constructs a <a href="sdk-for-ios-navigate-structs-vehiclespecificati
   Swift
 
   ``` highlight
-  public func withWidthInCentimeters ( _ widthInCentimeters : Int32 ) -> VehicleSpecification . BusBuilder
+  public func withWidthInCentimeters(_ widthInCentimeters: Int32) -> VehicleSpecification.BusBuilder
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-vehiclespecification">VehicleSpecification</a>
 
   </div>
 
@@ -231,7 +237,7 @@ This class constructs a <a href="sdk-for-ios-navigate-structs-vehiclespecificati
 
 - <div>
 
-      withLengthInCentimeters(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk20VehicleSpecificationV10BusBuilderC23withLengthInCentimetersyAEs5Int32VF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-withLengthInCentimeters-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-vehiclespecification-busbuilder#sdk-for-ios-navigate-s-7heresdk20VehicleSpecificationV10BusBuilderC23withLengthInCentimetersyAEs5Int32VF" class="token"><code>withLengthInCentimeters(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -262,12 +268,14 @@ This class constructs a <a href="sdk-for-ios-navigate-structs-vehiclespecificati
   Swift
 
   ``` highlight
-  public func withLengthInCentimeters ( _ lengthInCentimeters : Int32 ) -> VehicleSpecification . BusBuilder
+  public func withLengthInCentimeters(_ lengthInCentimeters: Int32) -> VehicleSpecification.BusBuilder
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-vehiclespecification">VehicleSpecification</a>
 
   </div>
 
@@ -306,7 +314,7 @@ This class constructs a <a href="sdk-for-ios-navigate-structs-vehiclespecificati
 
 - <div>
 
-      withAxleCount(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk20VehicleSpecificationV10BusBuilderC13withAxleCountyAEs5Int32VF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-withAxleCount-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-vehiclespecification-busbuilder#sdk-for-ios-navigate-s-7heresdk20VehicleSpecificationV10BusBuilderC13withAxleCountyAEs5Int32VF" class="token"><code>withAxleCount(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -337,12 +345,14 @@ This class constructs a <a href="sdk-for-ios-navigate-structs-vehiclespecificati
   Swift
 
   ``` highlight
-  public func withAxleCount ( _ axleCount : Int32 ) -> VehicleSpecification . BusBuilder
+  public func withAxleCount(_ axleCount: Int32) -> VehicleSpecification.BusBuilder
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-vehiclespecification">VehicleSpecification</a>
 
   </div>
 
@@ -381,7 +391,7 @@ This class constructs a <a href="sdk-for-ios-navigate-structs-vehiclespecificati
 
 - <div>
 
-      withTrailerCount(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk20VehicleSpecificationV10BusBuilderC16withTrailerCountyAEs5Int32VF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-withTrailerCount-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-vehiclespecification-busbuilder#sdk-for-ios-navigate-s-7heresdk20VehicleSpecificationV10BusBuilderC16withTrailerCountyAEs5Int32VF" class="token"><code>withTrailerCount(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -412,12 +422,14 @@ This class constructs a <a href="sdk-for-ios-navigate-structs-vehiclespecificati
   Swift
 
   ``` highlight
-  public func withTrailerCount ( _ trailerCount : Int32 ) -> VehicleSpecification . BusBuilder
+  public func withTrailerCount(_ trailerCount: Int32) -> VehicleSpecification.BusBuilder
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-vehiclespecification">VehicleSpecification</a>
 
   </div>
 
@@ -456,7 +468,7 @@ This class constructs a <a href="sdk-for-ios-navigate-structs-vehiclespecificati
 
 - <div>
 
-      withTrailerAxleCount(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk20VehicleSpecificationV10BusBuilderC20withTrailerAxleCountyAEs5Int32VF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-withTrailerAxleCount-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-vehiclespecification-busbuilder#sdk-for-ios-navigate-s-7heresdk20VehicleSpecificationV10BusBuilderC20withTrailerAxleCountyAEs5Int32VF" class="token"><code>withTrailerAxleCount(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -487,12 +499,14 @@ This class constructs a <a href="sdk-for-ios-navigate-structs-vehiclespecificati
   Swift
 
   ``` highlight
-  public func withTrailerAxleCount ( _ trailerAxleCount : Int32 ) -> VehicleSpecification . BusBuilder
+  public func withTrailerAxleCount(_ trailerAxleCount: Int32) -> VehicleSpecification.BusBuilder
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-vehiclespecification">VehicleSpecification</a>
 
   </div>
 
@@ -531,7 +545,7 @@ This class constructs a <a href="sdk-for-ios-navigate-structs-vehiclespecificati
 
 - <div>
 
-      withGrossWeightInKilograms(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk20VehicleSpecificationV10BusBuilderC26withGrossWeightInKilogramsyAEs5Int32VF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-withGrossWeightInKilograms-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-vehiclespecification-busbuilder#sdk-for-ios-navigate-s-7heresdk20VehicleSpecificationV10BusBuilderC26withGrossWeightInKilogramsyAEs5Int32VF" class="token"><code>withGrossWeightInKilograms(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -562,12 +576,14 @@ This class constructs a <a href="sdk-for-ios-navigate-structs-vehiclespecificati
   Swift
 
   ``` highlight
-  public func withGrossWeightInKilograms ( _ grossWeightInKilograms : Int32 ) -> VehicleSpecification . BusBuilder
+  public func withGrossWeightInKilograms(_ grossWeightInKilograms: Int32) -> VehicleSpecification.BusBuilder
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-vehiclespecification">VehicleSpecification</a>
 
   </div>
 
@@ -606,7 +622,7 @@ This class constructs a <a href="sdk-for-ios-navigate-structs-vehiclespecificati
 
 - <div>
 
-      withCurrentWeightInKilograms(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk20VehicleSpecificationV10BusBuilderC28withCurrentWeightInKilogramsyAEs5Int32VF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-withCurrentWeightInKilograms-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-vehiclespecification-busbuilder#sdk-for-ios-navigate-s-7heresdk20VehicleSpecificationV10BusBuilderC28withCurrentWeightInKilogramsyAEs5Int32VF" class="token"><code>withCurrentWeightInKilograms(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -637,12 +653,14 @@ This class constructs a <a href="sdk-for-ios-navigate-structs-vehiclespecificati
   Swift
 
   ``` highlight
-  public func withCurrentWeightInKilograms ( _ currentWeightInKilograms : Int32 ) -> VehicleSpecification . BusBuilder
+  public func withCurrentWeightInKilograms(_ currentWeightInKilograms: Int32) -> VehicleSpecification.BusBuilder
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-vehiclespecification">VehicleSpecification</a>
 
   </div>
 
@@ -681,7 +699,7 @@ This class constructs a <a href="sdk-for-ios-navigate-structs-vehiclespecificati
 
 - <div>
 
-      withEmptyWeightInKilograms(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk20VehicleSpecificationV10BusBuilderC26withEmptyWeightInKilogramsyAEs5Int32VF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-withEmptyWeightInKilograms-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-vehiclespecification-busbuilder#sdk-for-ios-navigate-s-7heresdk20VehicleSpecificationV10BusBuilderC26withEmptyWeightInKilogramsyAEs5Int32VF" class="token"><code>withEmptyWeightInKilograms(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -712,12 +730,14 @@ This class constructs a <a href="sdk-for-ios-navigate-structs-vehiclespecificati
   Swift
 
   ``` highlight
-  public func withEmptyWeightInKilograms ( _ emptyWeightInKilograms : Int32 ) -> VehicleSpecification . BusBuilder
+  public func withEmptyWeightInKilograms(_ emptyWeightInKilograms: Int32) -> VehicleSpecification.BusBuilder
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-vehiclespecification">VehicleSpecification</a>
 
   </div>
 
@@ -756,7 +776,7 @@ This class constructs a <a href="sdk-for-ios-navigate-structs-vehiclespecificati
 
 - <div>
 
-      withWeightPerAxleInKilograms(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk20VehicleSpecificationV10BusBuilderC28withWeightPerAxleInKilogramsyAEs5Int32VF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-withWeightPerAxleInKilograms-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-vehiclespecification-busbuilder#sdk-for-ios-navigate-s-7heresdk20VehicleSpecificationV10BusBuilderC28withWeightPerAxleInKilogramsyAEs5Int32VF" class="token"><code>withWeightPerAxleInKilograms(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -787,12 +807,14 @@ This class constructs a <a href="sdk-for-ios-navigate-structs-vehiclespecificati
   Swift
 
   ``` highlight
-  public func withWeightPerAxleInKilograms ( _ weightPerAxleInKilograms : Int32 ) -> VehicleSpecification . BusBuilder
+  public func withWeightPerAxleInKilograms(_ weightPerAxleInKilograms: Int32) -> VehicleSpecification.BusBuilder
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-vehiclespecification">VehicleSpecification</a>
 
   </div>
 
@@ -831,7 +853,7 @@ This class constructs a <a href="sdk-for-ios-navigate-structs-vehiclespecificati
 
 - <div>
 
-      withWeightPerAxleGroup(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk20VehicleSpecificationV10BusBuilderC22withWeightPerAxleGroupyAeA0ghiJ0VF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-withWeightPerAxleGroup-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-vehiclespecification-busbuilder#sdk-for-ios-navigate-s-7heresdk20VehicleSpecificationV10BusBuilderC22withWeightPerAxleGroupyAeA0ghiJ0VF" class="token"><code>withWeightPerAxleGroup(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -862,12 +884,15 @@ This class constructs a <a href="sdk-for-ios-navigate-structs-vehiclespecificati
   Swift
 
   ``` highlight
-  public func withWeightPerAxleGroup ( _ weightPerAxleGroup : WeightPerAxleGroup ) -> VehicleSpecification . BusBuilder
+  public func withWeightPerAxleGroup(_ weightPerAxleGroup: WeightPerAxleGroup) -> VehicleSpecification.BusBuilder
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-weightperaxlegroup">WeightPerAxleGroup</a>
+  - <a href="sdk-for-ios-navigate-structs-vehiclespecification">VehicleSpecification</a>
 
   </div>
 
@@ -906,7 +931,7 @@ This class constructs a <a href="sdk-for-ios-navigate-structs-vehiclespecificati
 
 - <div>
 
-      withIsCommercial(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk20VehicleSpecificationV10BusBuilderC16withIsCommercialyAESbF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-withIsCommercial-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-vehiclespecification-busbuilder#sdk-for-ios-navigate-s-7heresdk20VehicleSpecificationV10BusBuilderC16withIsCommercialyAESbF" class="token"><code>withIsCommercial(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -937,12 +962,14 @@ This class constructs a <a href="sdk-for-ios-navigate-structs-vehiclespecificati
   Swift
 
   ``` highlight
-  public func withIsCommercial ( _ isCommercial : Bool ) -> VehicleSpecification . BusBuilder
+  public func withIsCommercial(_ isCommercial: Bool) -> VehicleSpecification.BusBuilder
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-vehiclespecification">VehicleSpecification</a>
 
   </div>
 
@@ -981,7 +1008,7 @@ This class constructs a <a href="sdk-for-ios-navigate-structs-vehiclespecificati
 
 - <div>
 
-      withLastCharacterOfLicensePlate(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk20VehicleSpecificationV10BusBuilderC31withLastCharacterOfLicensePlateyAESSF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-withLastCharacterOfLicensePlate-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-vehiclespecification-busbuilder#sdk-for-ios-navigate-s-7heresdk20VehicleSpecificationV10BusBuilderC31withLastCharacterOfLicensePlateyAESSF" class="token"><code>withLastCharacterOfLicensePlate(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1012,12 +1039,14 @@ This class constructs a <a href="sdk-for-ios-navigate-structs-vehiclespecificati
   Swift
 
   ``` highlight
-  public func withLastCharacterOfLicensePlate ( _ lastCharacterOfLicensePlate : String ) -> VehicleSpecification . BusBuilder
+  public func withLastCharacterOfLicensePlate(_ lastCharacterOfLicensePlate: String) -> VehicleSpecification.BusBuilder
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-vehiclespecification">VehicleSpecification</a>
 
   </div>
 
@@ -1056,7 +1085,7 @@ This class constructs a <a href="sdk-for-ios-navigate-structs-vehiclespecificati
 
 - <div>
 
-      withEngineSizeInCubicCentimeters(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk20VehicleSpecificationV10BusBuilderC32withEngineSizeInCubicCentimetersyAEs5Int32VF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-withEngineSizeInCubicCentimeters-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-vehiclespecification-busbuilder#sdk-for-ios-navigate-s-7heresdk20VehicleSpecificationV10BusBuilderC32withEngineSizeInCubicCentimetersyAEs5Int32VF" class="token"><code>withEngineSizeInCubicCentimeters(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1087,12 +1116,14 @@ This class constructs a <a href="sdk-for-ios-navigate-structs-vehiclespecificati
   Swift
 
   ``` highlight
-  public func withEngineSizeInCubicCentimeters ( _ engineSizeInCubicCentimeters : Int32 ) -> VehicleSpecification . BusBuilder
+  public func withEngineSizeInCubicCentimeters(_ engineSizeInCubicCentimeters: Int32) -> VehicleSpecification.BusBuilder
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-vehiclespecification">VehicleSpecification</a>
 
   </div>
 
@@ -1131,7 +1162,7 @@ This class constructs a <a href="sdk-for-ios-navigate-structs-vehiclespecificati
 
 - <div>
 
-      withTiresCount(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk20VehicleSpecificationV10BusBuilderC14withTiresCountyAEs5Int32VF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-withTiresCount-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-vehiclespecification-busbuilder#sdk-for-ios-navigate-s-7heresdk20VehicleSpecificationV10BusBuilderC14withTiresCountyAEs5Int32VF" class="token"><code>withTiresCount(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1162,12 +1193,14 @@ This class constructs a <a href="sdk-for-ios-navigate-structs-vehiclespecificati
   Swift
 
   ``` highlight
-  public func withTiresCount ( _ tiresCount : Int32 ) -> VehicleSpecification . BusBuilder
+  public func withTiresCount(_ tiresCount: Int32) -> VehicleSpecification.BusBuilder
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-vehiclespecification">VehicleSpecification</a>
 
   </div>
 
@@ -1206,7 +1239,7 @@ This class constructs a <a href="sdk-for-ios-navigate-structs-vehiclespecificati
 
 - <div>
 
-      withTunnelCategory(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk20VehicleSpecificationV10BusBuilderC18withTunnelCategoryyAeA0gH0OF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-withTunnelCategory-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-vehiclespecification-busbuilder#sdk-for-ios-navigate-s-7heresdk20VehicleSpecificationV10BusBuilderC18withTunnelCategoryyAeA0gH0OF" class="token"><code>withTunnelCategory(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1237,12 +1270,15 @@ This class constructs a <a href="sdk-for-ios-navigate-structs-vehiclespecificati
   Swift
 
   ``` highlight
-  public func withTunnelCategory ( _ tunnelCategory : TunnelCategory ) -> VehicleSpecification . BusBuilder
+  public func withTunnelCategory(_ tunnelCategory: TunnelCategory) -> VehicleSpecification.BusBuilder
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-tunnelcategory">TunnelCategory</a>
+  - <a href="sdk-for-ios-navigate-structs-vehiclespecification">VehicleSpecification</a>
 
   </div>
 
@@ -1281,7 +1317,7 @@ This class constructs a <a href="sdk-for-ios-navigate-structs-vehiclespecificati
 
 - <div>
 
-      withOccupancy(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk20VehicleSpecificationV10BusBuilderC13withOccupancyyAEs5Int32VF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-withOccupancy-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-vehiclespecification-busbuilder#sdk-for-ios-navigate-s-7heresdk20VehicleSpecificationV10BusBuilderC13withOccupancyyAEs5Int32VF" class="token"><code>withOccupancy(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1312,12 +1348,14 @@ This class constructs a <a href="sdk-for-ios-navigate-structs-vehiclespecificati
   Swift
 
   ``` highlight
-  public func withOccupancy ( _ occupancy : Int32 ) -> VehicleSpecification . BusBuilder
+  public func withOccupancy(_ occupancy: Int32) -> VehicleSpecification.BusBuilder
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-vehiclespecification">VehicleSpecification</a>
 
   </div>
 
@@ -1356,7 +1394,7 @@ This class constructs a <a href="sdk-for-ios-navigate-structs-vehiclespecificati
 
 - <div>
 
-      build()
+   <span id="sdk-for-ios-navigate-s-7heresdk20VehicleSpecificationV10BusBuilderC5buildACyF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-build" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-vehiclespecification-busbuilder#sdk-for-ios-navigate-s-7heresdk20VehicleSpecificationV10BusBuilderC5buildACyF" class="token"><code>build()</code></a> 
 
   </div>
 
@@ -1374,7 +1412,7 @@ This class constructs a <a href="sdk-for-ios-navigate-structs-vehiclespecificati
 
   <div class="abstract">
 
-  Builds the <a href="sdk-for-ios-navigate-structs-vehiclespecification">`VehicleSpecification`</a> object for <a href="sdk-for-ios-navigate-enums-transportmode#/s:7heresdk13TransportModeO3busyA2CmF">`TransportMode.bus`</a> with the specifications taken from the `VehicleSpecification.BusBuilder` object.
+  Builds the <a href="sdk-for-ios-navigate-structs-vehiclespecification">`VehicleSpecification`</a> object for <a href="sdk-for-ios-navigate-enums-transportmode#sdk-for-ios-navigate-s-7heresdk13TransportModeO3busyA2CmF">`TransportMode.bus`</a> with the specifications taken from the `VehicleSpecification.BusBuilder` object.
 
   </div>
 
@@ -1387,12 +1425,14 @@ This class constructs a <a href="sdk-for-ios-navigate-structs-vehiclespecificati
   Swift
 
   ``` highlight
-  public func build () -> VehicleSpecification
+  public func build() -> VehicleSpecification
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-vehiclespecification">VehicleSpecification</a>
 
   </div>
 

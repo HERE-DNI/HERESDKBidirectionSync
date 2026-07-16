@@ -27,7 +27,7 @@ Category of time restriction.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15TimeRestrictionV8CategoryO10prohibitedyA2EmF"></span>` `<span id="//apple_ref/swift/Element/prohibited" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-timerestriction-category#/s:7heresdk15TimeRestrictionV8CategoryO10prohibitedyA2EmF" class="token"><code>prohibited</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15TimeRestrictionV8CategoryO10prohibitedyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-prohibited" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-timerestriction-category#sdk-for-ios-explore-s-7heresdk15TimeRestrictionV8CategoryO10prohibitedyA2EmF" class="token"><code>prohibited</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Category of time restriction.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15TimeRestrictionV8CategoryO8seasonalyA2EmF"></span>` `<span id="//apple_ref/swift/Element/seasonal" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-timerestriction-category#/s:7heresdk15TimeRestrictionV8CategoryO8seasonalyA2EmF" class="token"><code>seasonal</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15TimeRestrictionV8CategoryO8seasonalyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-seasonal" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-timerestriction-category#sdk-for-ios-explore-s-7heresdk15TimeRestrictionV8CategoryO8seasonalyA2EmF" class="token"><code>seasonal</code></a> 
 
   </div>
 

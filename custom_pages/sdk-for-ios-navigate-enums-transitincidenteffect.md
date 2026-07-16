@@ -27,7 +27,7 @@ Transit incident effect.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21TransitIncidentEffectO16cancelledServiceyA2CmF"></span>` `<span id="//apple_ref/swift/Element/cancelledService" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-transitincidenteffect#/s:7heresdk21TransitIncidentEffectO16cancelledServiceyA2CmF" class="token"><code>cancelledService</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21TransitIncidentEffectO16cancelledServiceyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-cancelledService" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-transitincidenteffect#sdk-for-ios-navigate-s-7heresdk21TransitIncidentEffectO16cancelledServiceyA2CmF" class="token"><code>cancelledService</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Transit incident effect.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21TransitIncidentEffectO14reducedServiceyA2CmF"></span>` `<span id="//apple_ref/swift/Element/reducedService" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-transitincidenteffect#/s:7heresdk21TransitIncidentEffectO14reducedServiceyA2CmF" class="token"><code>reducedService</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21TransitIncidentEffectO14reducedServiceyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-reducedService" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-transitincidenteffect#sdk-for-ios-navigate-s-7heresdk21TransitIncidentEffectO14reducedServiceyA2CmF" class="token"><code>reducedService</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Transit incident effect.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21TransitIncidentEffectO17additionalServiceyA2CmF"></span>` `<span id="//apple_ref/swift/Element/additionalService" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-transitincidenteffect#/s:7heresdk21TransitIncidentEffectO17additionalServiceyA2CmF" class="token"><code>additionalService</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21TransitIncidentEffectO17additionalServiceyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-additionalService" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-transitincidenteffect#sdk-for-ios-navigate-s-7heresdk21TransitIncidentEffectO17additionalServiceyA2CmF" class="token"><code>additionalService</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Transit incident effect.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21TransitIncidentEffectO15modifiedServiceyA2CmF"></span>` `<span id="//apple_ref/swift/Element/modifiedService" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-transitincidenteffect#/s:7heresdk21TransitIncidentEffectO15modifiedServiceyA2CmF" class="token"><code>modifiedService</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21TransitIncidentEffectO15modifiedServiceyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-modifiedService" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-transitincidenteffect#sdk-for-ios-navigate-s-7heresdk21TransitIncidentEffectO15modifiedServiceyA2CmF" class="token"><code>modifiedService</code></a> 
 
   </div>
 
@@ -203,7 +203,7 @@ Transit incident effect.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21TransitIncidentEffectO6delaysyA2CmF"></span>` `<span id="//apple_ref/swift/Element/delays" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-transitincidenteffect#/s:7heresdk21TransitIncidentEffectO6delaysyA2CmF" class="token"><code>delays</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21TransitIncidentEffectO6delaysyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-delays" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-transitincidenteffect#sdk-for-ios-navigate-s-7heresdk21TransitIncidentEffectO6delaysyA2CmF" class="token"><code>delays</code></a> 
 
   </div>
 
@@ -247,7 +247,7 @@ Transit incident effect.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21TransitIncidentEffectO6detouryA2CmF"></span>` `<span id="//apple_ref/swift/Element/detour" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-transitincidenteffect#/s:7heresdk21TransitIncidentEffectO6detouryA2CmF" class="token"><code>detour</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21TransitIncidentEffectO6detouryA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-detour" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-transitincidenteffect#sdk-for-ios-navigate-s-7heresdk21TransitIncidentEffectO6detouryA2CmF" class="token"><code>detour</code></a> 
 
   </div>
 
@@ -291,7 +291,7 @@ Transit incident effect.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21TransitIncidentEffectO9stopMovedyA2CmF"></span>` `<span id="//apple_ref/swift/Element/stopMoved" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-transitincidenteffect#/s:7heresdk21TransitIncidentEffectO9stopMovedyA2CmF" class="token"><code>stopMoved</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21TransitIncidentEffectO9stopMovedyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-stopMoved" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-transitincidenteffect#sdk-for-ios-navigate-s-7heresdk21TransitIncidentEffectO9stopMovedyA2CmF" class="token"><code>stopMoved</code></a> 
 
   </div>
 

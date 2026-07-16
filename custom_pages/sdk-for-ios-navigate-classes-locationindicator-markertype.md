@@ -27,7 +27,7 @@ Enum to identify different types of markers of the location indicator.
 
 - <div>
 
-  ` `<span id="/s:7heresdk17LocationIndicatorC10MarkerTypeO10pedestrianyA2EmF"></span>` `<span id="//apple_ref/swift/Element/pedestrian" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-locationindicator-markertype#/s:7heresdk17LocationIndicatorC10MarkerTypeO10pedestrianyA2EmF" class="token"><code>pedestrian</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk17LocationIndicatorC10MarkerTypeO10pedestrianyA2EmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-pedestrian" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-locationindicator-markertype#sdk-for-ios-navigate-s-7heresdk17LocationIndicatorC10MarkerTypeO10pedestrianyA2EmF" class="token"><code>pedestrian</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Enum to identify different types of markers of the location indicator.
 
 - <div>
 
-  ` `<span id="/s:7heresdk17LocationIndicatorC10MarkerTypeO18pedestrianInactiveyA2EmF"></span>` `<span id="//apple_ref/swift/Element/pedestrianInactive" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-locationindicator-markertype#/s:7heresdk17LocationIndicatorC10MarkerTypeO18pedestrianInactiveyA2EmF" class="token"><code>pedestrianInactive</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk17LocationIndicatorC10MarkerTypeO18pedestrianInactiveyA2EmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-pedestrianInactive" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-locationindicator-markertype#sdk-for-ios-navigate-s-7heresdk17LocationIndicatorC10MarkerTypeO18pedestrianInactiveyA2EmF" class="token"><code>pedestrianInactive</code></a> 
 
   </div>
 
@@ -89,7 +89,7 @@ Enum to identify different types of markers of the location indicator.
 
   <div class="abstract">
 
-  Pedestrian navigation in inactive state, represented by a gray dot by default. It is used when the indicator was set to inactive using <a href="sdk-for-ios-navigate-classes-locationindicator#/s:7heresdk17LocationIndicatorC8isActiveSbvp">`LocationIndicator.isActive`</a> in pedestrian mode.
+  Pedestrian navigation in inactive state, represented by a gray dot by default. It is used when the indicator was set to inactive using <a href="sdk-for-ios-navigate-classes-locationindicator#sdk-for-ios-navigate-s-7heresdk17LocationIndicatorC8isActiveSbvp">`LocationIndicator.isActive`</a> in pedestrian mode.
 
   </div>
 
@@ -115,7 +115,7 @@ Enum to identify different types of markers of the location indicator.
 
 - <div>
 
-  ` `<span id="/s:7heresdk17LocationIndicatorC10MarkerTypeO10navigationyA2EmF"></span>` `<span id="//apple_ref/swift/Element/navigation" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-locationindicator-markertype#/s:7heresdk17LocationIndicatorC10MarkerTypeO10navigationyA2EmF" class="token"><code>navigation</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk17LocationIndicatorC10MarkerTypeO10navigationyA2EmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-navigation" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-locationindicator-markertype#sdk-for-ios-navigate-s-7heresdk17LocationIndicatorC10MarkerTypeO10navigationyA2EmF" class="token"><code>navigation</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Enum to identify different types of markers of the location indicator.
 
 - <div>
 
-  ` `<span id="/s:7heresdk17LocationIndicatorC10MarkerTypeO18navigationInactiveyA2EmF"></span>` `<span id="//apple_ref/swift/Element/navigationInactive" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-locationindicator-markertype#/s:7heresdk17LocationIndicatorC10MarkerTypeO18navigationInactiveyA2EmF" class="token"><code>navigationInactive</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk17LocationIndicatorC10MarkerTypeO18navigationInactiveyA2EmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-navigationInactive" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-locationindicator-markertype#sdk-for-ios-navigate-s-7heresdk17LocationIndicatorC10MarkerTypeO18navigationInactiveyA2EmF" class="token"><code>navigationInactive</code></a> 
 
   </div>
 
@@ -177,7 +177,7 @@ Enum to identify different types of markers of the location indicator.
 
   <div class="abstract">
 
-  Vehicle navigation in inactive state, represented by a gray triangular arrow by default. It is used when the indicator was set to inactive using <a href="sdk-for-ios-navigate-classes-locationindicator#/s:7heresdk17LocationIndicatorC8isActiveSbvp">`LocationIndicator.isActive`</a> in navigation mode.
+  Vehicle navigation in inactive state, represented by a gray triangular arrow by default. It is used when the indicator was set to inactive using <a href="sdk-for-ios-navigate-classes-locationindicator#sdk-for-ios-navigate-s-7heresdk17LocationIndicatorC8isActiveSbvp">`LocationIndicator.isActive`</a> in navigation mode.
 
   </div>
 

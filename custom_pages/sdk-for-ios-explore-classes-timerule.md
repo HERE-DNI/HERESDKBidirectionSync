@@ -55,7 +55,7 @@ For more advanced examples of `TimeRule` see <a href="https://www.here.com/docs/
 
 - <div>
 
-      init(timeRule: timeZoneOffsetSeconds: dstSpec: )
+   <span id="sdk-for-ios-explore-s-7heresdk8TimeRuleC04timeC00D17ZoneOffsetSeconds7dstSpecACSS_s5Int32VSStcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-timeRule-timeZoneOffsetSeconds-dstSpec" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-timerule#sdk-for-ios-explore-s-7heresdk8TimeRuleC04timeC00D17ZoneOffsetSeconds7dstSpecACSS_s5Int32VSStcfc" class="token"><code>init(timeRule:</code><wbr></wbr><code>timeZoneOffsetSeconds:</code><wbr></wbr><code>dstSpec:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -86,10 +86,8 @@ For more advanced examples of `TimeRule` see <a href="https://www.here.com/docs/
   Swift
 
   ``` highlight
-  public init ( timeRule : String , timeZoneOffsetSeconds : Int32 , dstSpec : String )
+  public init(timeRule: String, timeZoneOffsetSeconds: Int32, dstSpec: String)
   ```
-
-  </pre>
 
   </div>
 
@@ -134,7 +132,7 @@ For more advanced examples of `TimeRule` see <a href="https://www.here.com/docs/
 
 - <div>
 
-  ` `<span id="/s:7heresdk8TimeRuleC04timeC6StringSSvp"></span>` `<span id="//apple_ref/swift/Property/timeRuleString" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-timerule#/s:7heresdk8TimeRuleC04timeC6StringSSvp" class="token"><code>timeRuleString</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk8TimeRuleC04timeC6StringSSvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-timeRuleString" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-timerule#sdk-for-ios-explore-s-7heresdk8TimeRuleC04timeC6StringSSvp" class="token"><code>timeRuleString</code></a> 
 
   </div>
 
@@ -178,7 +176,7 @@ For more advanced examples of `TimeRule` see <a href="https://www.here.com/docs/
 
 - <div>
 
-  ` `<span id="/s:7heresdk8TimeRuleC21timeZoneOffsetSecondss5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/timeZoneOffsetSeconds" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-timerule#/s:7heresdk8TimeRuleC21timeZoneOffsetSecondss5Int32Vvp" class="token"><code>timeZoneOffsetSeconds</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk8TimeRuleC21timeZoneOffsetSecondss5Int32Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-timeZoneOffsetSeconds" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-timerule#sdk-for-ios-explore-s-7heresdk8TimeRuleC21timeZoneOffsetSecondss5Int32Vvp" class="token"><code>timeZoneOffsetSeconds</code></a> 
 
   </div>
 
@@ -222,7 +220,7 @@ For more advanced examples of `TimeRule` see <a href="https://www.here.com/docs/
 
 - <div>
 
-  ` `<span id="/s:7heresdk8TimeRuleC7dstSpecSSvp"></span>` `<span id="//apple_ref/swift/Property/dstSpec" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-timerule#/s:7heresdk8TimeRuleC7dstSpecSSvp" class="token"><code>dstSpec</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk8TimeRuleC7dstSpecSSvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-dstSpec" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-timerule#sdk-for-ios-explore-s-7heresdk8TimeRuleC7dstSpecSSvp" class="token"><code>dstSpec</code></a> 
 
   </div>
 
@@ -266,7 +264,7 @@ For more advanced examples of `TimeRule` see <a href="https://www.here.com/docs/
 
 - <div>
 
-      appliesTo(dateTime: )
+   <span id="sdk-for-ios-explore-s-7heresdk8TimeRuleC9appliesTo04dateB0Sb10Foundation4DateV_tF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-appliesTo-dateTime" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-timerule#sdk-for-ios-explore-s-7heresdk8TimeRuleC9appliesTo04dateB0Sb10Foundation4DateV_tF" class="token"><code>appliesTo(dateTime:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -295,10 +293,8 @@ For more advanced examples of `TimeRule` see <a href="https://www.here.com/docs/
   Swift
 
   ``` highlight
-  public func appliesTo ( dateTime : Date ) -> Bool
+  public func appliesTo(dateTime: Date) -> Bool
   ```
-
-  </pre>
 
   </div>
 

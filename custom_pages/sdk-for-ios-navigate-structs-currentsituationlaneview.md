@@ -29,7 +29,7 @@ A struct that provides current situation lane assistance view information for th
 
 - <div>
 
-  ` `<span id="/s:7heresdk24CurrentSituationLaneViewV6accessAA0D6AccessVvp"></span>` `<span id="//apple_ref/swift/Property/access" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-currentsituationlaneview#/s:7heresdk24CurrentSituationLaneViewV6accessAA0D6AccessVvp" class="token"><code>access</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk24CurrentSituationLaneViewV6accessAA0D6AccessVvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-access" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-currentsituationlaneview#sdk-for-ios-navigate-s-7heresdk24CurrentSituationLaneViewV6accessAA0D6AccessVvp" class="token"><code>access</code></a> 
 
   </div>
 
@@ -65,6 +65,10 @@ A struct that provides current situation lane assistance view information for th
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-laneaccess">LaneAccess</a>
+
   </div>
 
   </div>
@@ -73,7 +77,7 @@ A struct that provides current situation lane assistance view information for th
 
 - <div>
 
-  ` `<span id="/s:7heresdk24CurrentSituationLaneViewV17directionCategoryAA0d9DirectionG0Vvp"></span>` `<span id="//apple_ref/swift/Property/directionCategory" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-currentsituationlaneview#/s:7heresdk24CurrentSituationLaneViewV17directionCategoryAA0d9DirectionG0Vvp" class="token"><code>directionCategory</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk24CurrentSituationLaneViewV17directionCategoryAA0d9DirectionG0Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-directionCategory" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-currentsituationlaneview#sdk-for-ios-navigate-s-7heresdk24CurrentSituationLaneViewV17directionCategoryAA0d9DirectionG0Vvp" class="token"><code>directionCategory</code></a> 
 
   </div>
 
@@ -109,6 +113,10 @@ A struct that provides current situation lane assistance view information for th
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-lanedirectioncategory">LaneDirectionCategory</a>
+
   </div>
 
   </div>
@@ -117,7 +125,7 @@ A struct that provides current situation lane assistance view information for th
 
 - <div>
 
-  ` `<span id="/s:7heresdk24CurrentSituationLaneViewV4typeAA0D4TypeVvp"></span>` `<span id="//apple_ref/swift/Property/type" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-currentsituationlaneview#/s:7heresdk24CurrentSituationLaneViewV4typeAA0D4TypeVvp" class="token"><code>type</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk24CurrentSituationLaneViewV4typeAA0D4TypeVvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-type" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-currentsituationlaneview#sdk-for-ios-navigate-s-7heresdk24CurrentSituationLaneViewV4typeAA0D4TypeVvp" class="token"><code>type</code></a> 
 
   </div>
 
@@ -153,6 +161,10 @@ A struct that provides current situation lane assistance view information for th
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-lanetype">LaneType</a>
+
   </div>
 
   </div>
@@ -161,7 +173,7 @@ A struct that provides current situation lane assistance view information for th
 
 - <div>
 
-  ` `<span id="/s:7heresdk24CurrentSituationLaneViewV12laneMarkingsAA0dG0Vvp"></span>` `<span id="//apple_ref/swift/Property/laneMarkings" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-currentsituationlaneview#/s:7heresdk24CurrentSituationLaneViewV12laneMarkingsAA0dG0Vvp" class="token"><code>laneMarkings</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk24CurrentSituationLaneViewV12laneMarkingsAA0dG0Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-laneMarkings" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-currentsituationlaneview#sdk-for-ios-navigate-s-7heresdk24CurrentSituationLaneViewV12laneMarkingsAA0dG0Vvp" class="token"><code>laneMarkings</code></a> 
 
   </div>
 
@@ -197,6 +209,10 @@ A struct that provides current situation lane assistance view information for th
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-lanemarkings">LaneMarkings</a>
+
   </div>
 
   </div>
@@ -205,7 +221,7 @@ A struct that provides current situation lane assistance view information for th
 
 - <div>
 
-  ` `<span id="/s:7heresdk24CurrentSituationLaneViewV10directionsSayAA0D9DirectionOGvp"></span>` `<span id="//apple_ref/swift/Property/directions" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-currentsituationlaneview#/s:7heresdk24CurrentSituationLaneViewV10directionsSayAA0D9DirectionOGvp" class="token"><code>directions</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk24CurrentSituationLaneViewV10directionsSayAA0D9DirectionOGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-directions" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-currentsituationlaneview#sdk-for-ios-navigate-s-7heresdk24CurrentSituationLaneViewV10directionsSayAA0D9DirectionOGvp" class="token"><code>directions</code></a> 
 
   </div>
 
@@ -241,6 +257,10 @@ A struct that provides current situation lane assistance view information for th
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-lanedirection">LaneDirection</a>
+
   </div>
 
   </div>
@@ -249,7 +269,7 @@ A struct that provides current situation lane assistance view information for th
 
 - <div>
 
-  ` `<span id="/s:7heresdk24CurrentSituationLaneViewV17directionsOnRouteSayAA0D9DirectionOGvp"></span>` `<span id="//apple_ref/swift/Property/directionsOnRoute" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-currentsituationlaneview#/s:7heresdk24CurrentSituationLaneViewV17directionsOnRouteSayAA0D9DirectionOGvp" class="token"><code>directionsOnRoute</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk24CurrentSituationLaneViewV17directionsOnRouteSayAA0D9DirectionOGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-directionsOnRoute" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-currentsituationlaneview#sdk-for-ios-navigate-s-7heresdk24CurrentSituationLaneViewV17directionsOnRouteSayAA0D9DirectionOGvp" class="token"><code>directionsOnRoute</code></a> 
 
   </div>
 
@@ -285,6 +305,10 @@ A struct that provides current situation lane assistance view information for th
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-lanedirection">LaneDirection</a>
+
   </div>
 
   </div>
@@ -293,7 +317,7 @@ A struct that provides current situation lane assistance view information for th
 
 - <div>
 
-      init(access: directionCategory: type: laneMarkings: directions: directionsOnRoute: )
+   <span id="sdk-for-ios-navigate-s-7heresdk24CurrentSituationLaneViewV6access17directionCategory4type12laneMarkings10directions0L7OnRouteAcA0D6AccessV_AA0d9DirectionH0VAA0D4TypeVAA0dK0VSayAA0dP0OGATtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-access-directionCategory-type-laneMarkings-directions-directionsOnRoute" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-currentsituationlaneview#sdk-for-ios-navigate-s-7heresdk24CurrentSituationLaneViewV6access17directionCategory4type12laneMarkings10directions0L7OnRouteAcA0D6AccessV_AA0d9DirectionH0VAA0D4TypeVAA0dK0VSayAA0dP0OGATtcfc" class="token"><code>init(access:</code><wbr></wbr><code>directionCategory:</code><wbr></wbr><code>type:</code><wbr></wbr><code>laneMarkings:</code><wbr></wbr><code>directions:</code><wbr></wbr><code>directionsOnRoute:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -324,12 +348,18 @@ A struct that provides current situation lane assistance view information for th
   Swift
 
   ``` highlight
-  public init ( access : LaneAccess , directionCategory : LaneDirectionCategory , type : LaneType , laneMarkings : LaneMarkings = LaneMarkings (), directions : [ LaneDirection ] = [], directionsOnRoute : [ LaneDirection ] = [])
+  public init(access: LaneAccess, directionCategory: LaneDirectionCategory, type: LaneType, laneMarkings: LaneMarkings = LaneMarkings(), directions: [LaneDirection] = [], directionsOnRoute: [LaneDirection] = [])
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-laneaccess">LaneAccess</a>
+  - <a href="sdk-for-ios-navigate-structs-lanedirectioncategory">LaneDirectionCategory</a>
+  - <a href="sdk-for-ios-navigate-structs-lanetype">LaneType</a>
+  - <a href="sdk-for-ios-navigate-structs-lanemarkings">LaneMarkings</a>
+  - <a href="sdk-for-ios-navigate-enums-lanedirection">LaneDirection</a>
 
   </div>
 

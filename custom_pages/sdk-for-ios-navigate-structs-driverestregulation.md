@@ -29,7 +29,7 @@ Drive-rest regulation defining mandatory rest requirements for commercial vehicl
 
 - <div>
 
-  ` `<span id="/s:7heresdk19DriveRestRegulationV08maxDailyB13TimeInMinutesSdSgvp"></span>` `<span id="//apple_ref/swift/Property/maxDailyDriveTimeInMinutes" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-driverestregulation#/s:7heresdk19DriveRestRegulationV08maxDailyB13TimeInMinutesSdSgvp" class="token"><code>maxDailyDriveTimeInMinutes</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19DriveRestRegulationV08maxDailyB13TimeInMinutesSdSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-maxDailyDriveTimeInMinutes" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-driverestregulation#sdk-for-ios-navigate-s-7heresdk19DriveRestRegulationV08maxDailyB13TimeInMinutesSdSgvp" class="token"><code>maxDailyDriveTimeInMinutes</code></a> 
 
   </div>
 
@@ -73,7 +73,7 @@ Drive-rest regulation defining mandatory rest requirements for commercial vehicl
 
 - <div>
 
-  ` `<span id="/s:7heresdk19DriveRestRegulationV05dailyC12MinInMinutesSdSgvp"></span>` `<span id="//apple_ref/swift/Property/dailyRestMinInMinutes" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-driverestregulation#/s:7heresdk19DriveRestRegulationV05dailyC12MinInMinutesSdSgvp" class="token"><code>dailyRestMinInMinutes</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19DriveRestRegulationV05dailyC12MinInMinutesSdSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-dailyRestMinInMinutes" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-driverestregulation#sdk-for-ios-navigate-s-7heresdk19DriveRestRegulationV05dailyC12MinInMinutesSdSgvp" class="token"><code>dailyRestMinInMinutes</code></a> 
 
   </div>
 
@@ -117,7 +117,7 @@ Drive-rest regulation defining mandatory rest requirements for commercial vehicl
 
 - <div>
 
-  ` `<span id="/s:7heresdk19DriveRestRegulationV03midbC9InMinutesSdSgvp"></span>` `<span id="//apple_ref/swift/Property/midDriveRestInMinutes" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-driverestregulation#/s:7heresdk19DriveRestRegulationV03midbC9InMinutesSdSgvp" class="token"><code>midDriveRestInMinutes</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19DriveRestRegulationV03midbC9InMinutesSdSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-midDriveRestInMinutes" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-driverestregulation#sdk-for-ios-navigate-s-7heresdk19DriveRestRegulationV03midbC9InMinutesSdSgvp" class="token"><code>midDriveRestInMinutes</code></a> 
 
   </div>
 
@@ -161,7 +161,7 @@ Drive-rest regulation defining mandatory rest requirements for commercial vehicl
 
 - <div>
 
-  ` `<span id="/s:7heresdk19DriveRestRegulationV03midbC12MinInMinutesSdSgvp"></span>` `<span id="//apple_ref/swift/Property/midDriveRestMinInMinutes" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-driverestregulation#/s:7heresdk19DriveRestRegulationV03midbC12MinInMinutesSdSgvp" class="token"><code>midDriveRestMinInMinutes</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19DriveRestRegulationV03midbC12MinInMinutesSdSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-midDriveRestMinInMinutes" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-driverestregulation#sdk-for-ios-navigate-s-7heresdk19DriveRestRegulationV03midbC12MinInMinutesSdSgvp" class="token"><code>midDriveRestMinInMinutes</code></a> 
 
   </div>
 
@@ -205,7 +205,7 @@ Drive-rest regulation defining mandatory rest requirements for commercial vehicl
 
 - <div>
 
-      init(maxDailyDriveTimeInMinutes: dailyRestMinInMinutes: midDriveRestInMinutes: midDriveRestMinInMinutes: )
+   <span id="sdk-for-ios-navigate-s-7heresdk19DriveRestRegulationV08maxDailyB13TimeInMinutes05dailyc3MinhI003midbchI00lbckhI0ACSdSg_A3Htcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-maxDailyDriveTimeInMinutes-dailyRestMinInMinutes-midDriveRestInMinutes-midDriveRestMinInMinutes" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-driverestregulation#sdk-for-ios-navigate-s-7heresdk19DriveRestRegulationV08maxDailyB13TimeInMinutes05dailyc3MinhI003midbchI00lbckhI0ACSdSg_A3Htcfc" class="token"><code>init(maxDailyDriveTimeInMinutes:</code><wbr></wbr><code>dailyRestMinInMinutes:</code><wbr></wbr><code>midDriveRestInMinutes:</code><wbr></wbr><code>midDriveRestMinInMinutes:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -236,10 +236,8 @@ Drive-rest regulation defining mandatory rest requirements for commercial vehicl
   Swift
 
   ``` highlight
-  public init ( maxDailyDriveTimeInMinutes : TimeInterval ? = nil , dailyRestMinInMinutes : TimeInterval ? = nil , midDriveRestInMinutes : TimeInterval ? = nil , midDriveRestMinInMinutes : TimeInterval ? = nil )
+  public init(maxDailyDriveTimeInMinutes: TimeInterval? = nil, dailyRestMinInMinutes: TimeInterval? = nil, midDriveRestInMinutes: TimeInterval? = nil, midDriveRestMinInMinutes: TimeInterval? = nil)
   ```
-
-  </pre>
 
   </div>
 

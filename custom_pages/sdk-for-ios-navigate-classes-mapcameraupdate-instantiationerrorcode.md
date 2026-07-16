@@ -19,6 +19,10 @@ extension MapCameraUpdate.InstantiationErrorCode : Error
 
 </div>
 
+Related types:
+
+- <a href="sdk-for-ios-navigate-classes-mapcameraupdate">MapCameraUpdate</a>
+
 </div>
 
 Describes a reason for failing to create a <a href="sdk-for-ios-navigate-classes-mapcameraupdate">`MapCameraUpdate`</a>.
@@ -31,7 +35,7 @@ Describes a reason for failing to create a <a href="sdk-for-ios-navigate-classes
 
 - <div>
 
-  ` `<span id="/s:7heresdk15MapCameraUpdateC22InstantiationErrorCodeO014emptyCompositecD4ListyA2EmF"></span>` `<span id="//apple_ref/swift/Element/emptyCompositeCameraUpdateList" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapcameraupdate-instantiationerrorcode#/s:7heresdk15MapCameraUpdateC22InstantiationErrorCodeO014emptyCompositecD4ListyA2EmF" class="token"><code>emptyCompositeCameraUpdateList</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15MapCameraUpdateC22InstantiationErrorCodeO014emptyCompositecD4ListyA2EmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-emptyCompositeCameraUpdateList" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapcameraupdate-instantiationerrorcode#sdk-for-ios-navigate-s-7heresdk15MapCameraUpdateC22InstantiationErrorCodeO014emptyCompositecD4ListyA2EmF" class="token"><code>emptyCompositeCameraUpdateList</code></a> 
 
   </div>
 

@@ -27,7 +27,7 @@ Animation easing functions.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14EasingFunctionO6linearyA2CmF"></span>` `<span id="//apple_ref/swift/Element/linear" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-easingfunction#/s:7heresdk14EasingFunctionO6linearyA2CmF" class="token"><code>linear</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14EasingFunctionO6linearyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-linear" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-easingfunction#sdk-for-ios-navigate-s-7heresdk14EasingFunctionO6linearyA2CmF" class="token"><code>linear</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Animation easing functions.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14EasingFunctionO6inQuadyA2CmF"></span>` `<span id="//apple_ref/swift/Element/inQuad" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-easingfunction#/s:7heresdk14EasingFunctionO6inQuadyA2CmF" class="token"><code>inQuad</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14EasingFunctionO6inQuadyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-inQuad" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-easingfunction#sdk-for-ios-navigate-s-7heresdk14EasingFunctionO6inQuadyA2CmF" class="token"><code>inQuad</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Animation easing functions.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14EasingFunctionO7outQuadyA2CmF"></span>` `<span id="//apple_ref/swift/Element/outQuad" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-easingfunction#/s:7heresdk14EasingFunctionO7outQuadyA2CmF" class="token"><code>outQuad</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14EasingFunctionO7outQuadyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-outQuad" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-easingfunction#sdk-for-ios-navigate-s-7heresdk14EasingFunctionO7outQuadyA2CmF" class="token"><code>outQuad</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Animation easing functions.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14EasingFunctionO9inOutQuadyA2CmF"></span>` `<span id="//apple_ref/swift/Element/inOutQuad" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-easingfunction#/s:7heresdk14EasingFunctionO9inOutQuadyA2CmF" class="token"><code>inOutQuad</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14EasingFunctionO9inOutQuadyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-inOutQuad" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-easingfunction#sdk-for-ios-navigate-s-7heresdk14EasingFunctionO9inOutQuadyA2CmF" class="token"><code>inOutQuad</code></a> 
 
   </div>
 
@@ -203,7 +203,7 @@ Animation easing functions.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14EasingFunctionO9outInQuadyA2CmF"></span>` `<span id="//apple_ref/swift/Element/outInQuad" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-easingfunction#/s:7heresdk14EasingFunctionO9outInQuadyA2CmF" class="token"><code>outInQuad</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14EasingFunctionO9outInQuadyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-outInQuad" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-easingfunction#sdk-for-ios-navigate-s-7heresdk14EasingFunctionO9outInQuadyA2CmF" class="token"><code>outInQuad</code></a> 
 
   </div>
 
@@ -247,7 +247,7 @@ Animation easing functions.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14EasingFunctionO7inCubicyA2CmF"></span>` `<span id="//apple_ref/swift/Element/inCubic" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-easingfunction#/s:7heresdk14EasingFunctionO7inCubicyA2CmF" class="token"><code>inCubic</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14EasingFunctionO7inCubicyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-inCubic" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-easingfunction#sdk-for-ios-navigate-s-7heresdk14EasingFunctionO7inCubicyA2CmF" class="token"><code>inCubic</code></a> 
 
   </div>
 
@@ -291,7 +291,7 @@ Animation easing functions.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14EasingFunctionO8outCubicyA2CmF"></span>` `<span id="//apple_ref/swift/Element/outCubic" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-easingfunction#/s:7heresdk14EasingFunctionO8outCubicyA2CmF" class="token"><code>outCubic</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14EasingFunctionO8outCubicyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-outCubic" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-easingfunction#sdk-for-ios-navigate-s-7heresdk14EasingFunctionO8outCubicyA2CmF" class="token"><code>outCubic</code></a> 
 
   </div>
 
@@ -335,7 +335,7 @@ Animation easing functions.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14EasingFunctionO10inOutCubicyA2CmF"></span>` `<span id="//apple_ref/swift/Element/inOutCubic" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-easingfunction#/s:7heresdk14EasingFunctionO10inOutCubicyA2CmF" class="token"><code>inOutCubic</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14EasingFunctionO10inOutCubicyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-inOutCubic" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-easingfunction#sdk-for-ios-navigate-s-7heresdk14EasingFunctionO10inOutCubicyA2CmF" class="token"><code>inOutCubic</code></a> 
 
   </div>
 
@@ -379,7 +379,7 @@ Animation easing functions.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14EasingFunctionO10outInCubicyA2CmF"></span>` `<span id="//apple_ref/swift/Element/outInCubic" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-easingfunction#/s:7heresdk14EasingFunctionO10outInCubicyA2CmF" class="token"><code>outInCubic</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14EasingFunctionO10outInCubicyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-outInCubic" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-easingfunction#sdk-for-ios-navigate-s-7heresdk14EasingFunctionO10outInCubicyA2CmF" class="token"><code>outInCubic</code></a> 
 
   </div>
 
@@ -423,7 +423,7 @@ Animation easing functions.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14EasingFunctionO7inQuartyA2CmF"></span>` `<span id="//apple_ref/swift/Element/inQuart" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-easingfunction#/s:7heresdk14EasingFunctionO7inQuartyA2CmF" class="token"><code>inQuart</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14EasingFunctionO7inQuartyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-inQuart" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-easingfunction#sdk-for-ios-navigate-s-7heresdk14EasingFunctionO7inQuartyA2CmF" class="token"><code>inQuart</code></a> 
 
   </div>
 
@@ -467,7 +467,7 @@ Animation easing functions.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14EasingFunctionO8outQuartyA2CmF"></span>` `<span id="//apple_ref/swift/Element/outQuart" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-easingfunction#/s:7heresdk14EasingFunctionO8outQuartyA2CmF" class="token"><code>outQuart</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14EasingFunctionO8outQuartyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-outQuart" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-easingfunction#sdk-for-ios-navigate-s-7heresdk14EasingFunctionO8outQuartyA2CmF" class="token"><code>outQuart</code></a> 
 
   </div>
 
@@ -511,7 +511,7 @@ Animation easing functions.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14EasingFunctionO10inOutQuartyA2CmF"></span>` `<span id="//apple_ref/swift/Element/inOutQuart" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-easingfunction#/s:7heresdk14EasingFunctionO10inOutQuartyA2CmF" class="token"><code>inOutQuart</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14EasingFunctionO10inOutQuartyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-inOutQuart" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-easingfunction#sdk-for-ios-navigate-s-7heresdk14EasingFunctionO10inOutQuartyA2CmF" class="token"><code>inOutQuart</code></a> 
 
   </div>
 
@@ -555,7 +555,7 @@ Animation easing functions.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14EasingFunctionO10outInQuartyA2CmF"></span>` `<span id="//apple_ref/swift/Element/outInQuart" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-easingfunction#/s:7heresdk14EasingFunctionO10outInQuartyA2CmF" class="token"><code>outInQuart</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14EasingFunctionO10outInQuartyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-outInQuart" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-easingfunction#sdk-for-ios-navigate-s-7heresdk14EasingFunctionO10outInQuartyA2CmF" class="token"><code>outInQuart</code></a> 
 
   </div>
 
@@ -599,7 +599,7 @@ Animation easing functions.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14EasingFunctionO7inQuintyA2CmF"></span>` `<span id="//apple_ref/swift/Element/inQuint" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-easingfunction#/s:7heresdk14EasingFunctionO7inQuintyA2CmF" class="token"><code>inQuint</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14EasingFunctionO7inQuintyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-inQuint" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-easingfunction#sdk-for-ios-navigate-s-7heresdk14EasingFunctionO7inQuintyA2CmF" class="token"><code>inQuint</code></a> 
 
   </div>
 
@@ -643,7 +643,7 @@ Animation easing functions.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14EasingFunctionO8outQuintyA2CmF"></span>` `<span id="//apple_ref/swift/Element/outQuint" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-easingfunction#/s:7heresdk14EasingFunctionO8outQuintyA2CmF" class="token"><code>outQuint</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14EasingFunctionO8outQuintyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-outQuint" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-easingfunction#sdk-for-ios-navigate-s-7heresdk14EasingFunctionO8outQuintyA2CmF" class="token"><code>outQuint</code></a> 
 
   </div>
 
@@ -687,7 +687,7 @@ Animation easing functions.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14EasingFunctionO10inOutQuintyA2CmF"></span>` `<span id="//apple_ref/swift/Element/inOutQuint" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-easingfunction#/s:7heresdk14EasingFunctionO10inOutQuintyA2CmF" class="token"><code>inOutQuint</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14EasingFunctionO10inOutQuintyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-inOutQuint" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-easingfunction#sdk-for-ios-navigate-s-7heresdk14EasingFunctionO10inOutQuintyA2CmF" class="token"><code>inOutQuint</code></a> 
 
   </div>
 
@@ -731,7 +731,7 @@ Animation easing functions.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14EasingFunctionO10outInQuintyA2CmF"></span>` `<span id="//apple_ref/swift/Element/outInQuint" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-easingfunction#/s:7heresdk14EasingFunctionO10outInQuintyA2CmF" class="token"><code>outInQuint</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14EasingFunctionO10outInQuintyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-outInQuint" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-easingfunction#sdk-for-ios-navigate-s-7heresdk14EasingFunctionO10outInQuintyA2CmF" class="token"><code>outInQuint</code></a> 
 
   </div>
 
@@ -775,7 +775,7 @@ Animation easing functions.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14EasingFunctionO6inSineyA2CmF"></span>` `<span id="//apple_ref/swift/Element/inSine" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-easingfunction#/s:7heresdk14EasingFunctionO6inSineyA2CmF" class="token"><code>inSine</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14EasingFunctionO6inSineyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-inSine" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-easingfunction#sdk-for-ios-navigate-s-7heresdk14EasingFunctionO6inSineyA2CmF" class="token"><code>inSine</code></a> 
 
   </div>
 
@@ -819,7 +819,7 @@ Animation easing functions.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14EasingFunctionO7outSineyA2CmF"></span>` `<span id="//apple_ref/swift/Element/outSine" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-easingfunction#/s:7heresdk14EasingFunctionO7outSineyA2CmF" class="token"><code>outSine</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14EasingFunctionO7outSineyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-outSine" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-easingfunction#sdk-for-ios-navigate-s-7heresdk14EasingFunctionO7outSineyA2CmF" class="token"><code>outSine</code></a> 
 
   </div>
 
@@ -863,7 +863,7 @@ Animation easing functions.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14EasingFunctionO9inOutSineyA2CmF"></span>` `<span id="//apple_ref/swift/Element/inOutSine" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-easingfunction#/s:7heresdk14EasingFunctionO9inOutSineyA2CmF" class="token"><code>inOutSine</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14EasingFunctionO9inOutSineyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-inOutSine" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-easingfunction#sdk-for-ios-navigate-s-7heresdk14EasingFunctionO9inOutSineyA2CmF" class="token"><code>inOutSine</code></a> 
 
   </div>
 
@@ -907,7 +907,7 @@ Animation easing functions.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14EasingFunctionO9outInSineyA2CmF"></span>` `<span id="//apple_ref/swift/Element/outInSine" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-easingfunction#/s:7heresdk14EasingFunctionO9outInSineyA2CmF" class="token"><code>outInSine</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14EasingFunctionO9outInSineyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-outInSine" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-easingfunction#sdk-for-ios-navigate-s-7heresdk14EasingFunctionO9outInSineyA2CmF" class="token"><code>outInSine</code></a> 
 
   </div>
 
@@ -951,7 +951,7 @@ Animation easing functions.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14EasingFunctionO5inExpyA2CmF"></span>` `<span id="//apple_ref/swift/Element/inExp" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-easingfunction#/s:7heresdk14EasingFunctionO5inExpyA2CmF" class="token"><code>inExp</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14EasingFunctionO5inExpyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-inExp" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-easingfunction#sdk-for-ios-navigate-s-7heresdk14EasingFunctionO5inExpyA2CmF" class="token"><code>inExp</code></a> 
 
   </div>
 
@@ -995,7 +995,7 @@ Animation easing functions.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14EasingFunctionO6outExpyA2CmF"></span>` `<span id="//apple_ref/swift/Element/outExp" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-easingfunction#/s:7heresdk14EasingFunctionO6outExpyA2CmF" class="token"><code>outExp</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14EasingFunctionO6outExpyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-outExp" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-easingfunction#sdk-for-ios-navigate-s-7heresdk14EasingFunctionO6outExpyA2CmF" class="token"><code>outExp</code></a> 
 
   </div>
 
@@ -1039,7 +1039,7 @@ Animation easing functions.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14EasingFunctionO8inOutExpyA2CmF"></span>` `<span id="//apple_ref/swift/Element/inOutExp" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-easingfunction#/s:7heresdk14EasingFunctionO8inOutExpyA2CmF" class="token"><code>inOutExp</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14EasingFunctionO8inOutExpyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-inOutExp" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-easingfunction#sdk-for-ios-navigate-s-7heresdk14EasingFunctionO8inOutExpyA2CmF" class="token"><code>inOutExp</code></a> 
 
   </div>
 
@@ -1083,7 +1083,7 @@ Animation easing functions.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14EasingFunctionO8outInExpyA2CmF"></span>` `<span id="//apple_ref/swift/Element/outInExp" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-easingfunction#/s:7heresdk14EasingFunctionO8outInExpyA2CmF" class="token"><code>outInExp</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14EasingFunctionO8outInExpyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-outInExp" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-easingfunction#sdk-for-ios-navigate-s-7heresdk14EasingFunctionO8outInExpyA2CmF" class="token"><code>outInExp</code></a> 
 
   </div>
 
@@ -1127,7 +1127,7 @@ Animation easing functions.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14EasingFunctionO6inCircyA2CmF"></span>` `<span id="//apple_ref/swift/Element/inCirc" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-easingfunction#/s:7heresdk14EasingFunctionO6inCircyA2CmF" class="token"><code>inCirc</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14EasingFunctionO6inCircyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-inCirc" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-easingfunction#sdk-for-ios-navigate-s-7heresdk14EasingFunctionO6inCircyA2CmF" class="token"><code>inCirc</code></a> 
 
   </div>
 
@@ -1171,7 +1171,7 @@ Animation easing functions.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14EasingFunctionO7outCircyA2CmF"></span>` `<span id="//apple_ref/swift/Element/outCirc" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-easingfunction#/s:7heresdk14EasingFunctionO7outCircyA2CmF" class="token"><code>outCirc</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14EasingFunctionO7outCircyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-outCirc" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-easingfunction#sdk-for-ios-navigate-s-7heresdk14EasingFunctionO7outCircyA2CmF" class="token"><code>outCirc</code></a> 
 
   </div>
 
@@ -1215,7 +1215,7 @@ Animation easing functions.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14EasingFunctionO9inOutCircyA2CmF"></span>` `<span id="//apple_ref/swift/Element/inOutCirc" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-easingfunction#/s:7heresdk14EasingFunctionO9inOutCircyA2CmF" class="token"><code>inOutCirc</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14EasingFunctionO9inOutCircyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-inOutCirc" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-easingfunction#sdk-for-ios-navigate-s-7heresdk14EasingFunctionO9inOutCircyA2CmF" class="token"><code>inOutCirc</code></a> 
 
   </div>
 
@@ -1259,7 +1259,7 @@ Animation easing functions.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14EasingFunctionO9outInCircyA2CmF"></span>` `<span id="//apple_ref/swift/Element/outInCirc" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-easingfunction#/s:7heresdk14EasingFunctionO9outInCircyA2CmF" class="token"><code>outInCirc</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14EasingFunctionO9outInCircyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-outInCirc" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-easingfunction#sdk-for-ios-navigate-s-7heresdk14EasingFunctionO9outInCircyA2CmF" class="token"><code>outInCirc</code></a> 
 
   </div>
 
@@ -1303,7 +1303,7 @@ Animation easing functions.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14EasingFunctionO6inBackyA2CmF"></span>` `<span id="//apple_ref/swift/Element/inBack" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-easingfunction#/s:7heresdk14EasingFunctionO6inBackyA2CmF" class="token"><code>inBack</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14EasingFunctionO6inBackyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-inBack" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-easingfunction#sdk-for-ios-navigate-s-7heresdk14EasingFunctionO6inBackyA2CmF" class="token"><code>inBack</code></a> 
 
   </div>
 
@@ -1347,7 +1347,7 @@ Animation easing functions.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14EasingFunctionO7outBackyA2CmF"></span>` `<span id="//apple_ref/swift/Element/outBack" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-easingfunction#/s:7heresdk14EasingFunctionO7outBackyA2CmF" class="token"><code>outBack</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14EasingFunctionO7outBackyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-outBack" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-easingfunction#sdk-for-ios-navigate-s-7heresdk14EasingFunctionO7outBackyA2CmF" class="token"><code>outBack</code></a> 
 
   </div>
 
@@ -1391,7 +1391,7 @@ Animation easing functions.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14EasingFunctionO9inOutBackyA2CmF"></span>` `<span id="//apple_ref/swift/Element/inOutBack" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-easingfunction#/s:7heresdk14EasingFunctionO9inOutBackyA2CmF" class="token"><code>inOutBack</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14EasingFunctionO9inOutBackyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-inOutBack" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-easingfunction#sdk-for-ios-navigate-s-7heresdk14EasingFunctionO9inOutBackyA2CmF" class="token"><code>inOutBack</code></a> 
 
   </div>
 
@@ -1435,7 +1435,7 @@ Animation easing functions.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14EasingFunctionO9outInBackyA2CmF"></span>` `<span id="//apple_ref/swift/Element/outInBack" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-easingfunction#/s:7heresdk14EasingFunctionO9outInBackyA2CmF" class="token"><code>outInBack</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14EasingFunctionO9outInBackyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-outInBack" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-easingfunction#sdk-for-ios-navigate-s-7heresdk14EasingFunctionO9outInBackyA2CmF" class="token"><code>outInBack</code></a> 
 
   </div>
 
@@ -1479,7 +1479,7 @@ Animation easing functions.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14EasingFunctionO8inBounceyA2CmF"></span>` `<span id="//apple_ref/swift/Element/inBounce" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-easingfunction#/s:7heresdk14EasingFunctionO8inBounceyA2CmF" class="token"><code>inBounce</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14EasingFunctionO8inBounceyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-inBounce" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-easingfunction#sdk-for-ios-navigate-s-7heresdk14EasingFunctionO8inBounceyA2CmF" class="token"><code>inBounce</code></a> 
 
   </div>
 
@@ -1523,7 +1523,7 @@ Animation easing functions.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14EasingFunctionO9outBounceyA2CmF"></span>` `<span id="//apple_ref/swift/Element/outBounce" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-easingfunction#/s:7heresdk14EasingFunctionO9outBounceyA2CmF" class="token"><code>outBounce</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14EasingFunctionO9outBounceyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-outBounce" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-easingfunction#sdk-for-ios-navigate-s-7heresdk14EasingFunctionO9outBounceyA2CmF" class="token"><code>outBounce</code></a> 
 
   </div>
 
@@ -1567,7 +1567,7 @@ Animation easing functions.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14EasingFunctionO11inOutBounceyA2CmF"></span>` `<span id="//apple_ref/swift/Element/inOutBounce" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-easingfunction#/s:7heresdk14EasingFunctionO11inOutBounceyA2CmF" class="token"><code>inOutBounce</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14EasingFunctionO11inOutBounceyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-inOutBounce" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-easingfunction#sdk-for-ios-navigate-s-7heresdk14EasingFunctionO11inOutBounceyA2CmF" class="token"><code>inOutBounce</code></a> 
 
   </div>
 
@@ -1611,7 +1611,7 @@ Animation easing functions.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14EasingFunctionO11outInBounceyA2CmF"></span>` `<span id="//apple_ref/swift/Element/outInBounce" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-easingfunction#/s:7heresdk14EasingFunctionO11outInBounceyA2CmF" class="token"><code>outInBounce</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14EasingFunctionO11outInBounceyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-outInBounce" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-easingfunction#sdk-for-ios-navigate-s-7heresdk14EasingFunctionO11outInBounceyA2CmF" class="token"><code>outInBounce</code></a> 
 
   </div>
 
@@ -1655,7 +1655,7 @@ Animation easing functions.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14EasingFunctionO9inElasticyA2CmF"></span>` `<span id="//apple_ref/swift/Element/inElastic" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-easingfunction#/s:7heresdk14EasingFunctionO9inElasticyA2CmF" class="token"><code>inElastic</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14EasingFunctionO9inElasticyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-inElastic" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-easingfunction#sdk-for-ios-navigate-s-7heresdk14EasingFunctionO9inElasticyA2CmF" class="token"><code>inElastic</code></a> 
 
   </div>
 
@@ -1699,7 +1699,7 @@ Animation easing functions.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14EasingFunctionO10outElasticyA2CmF"></span>` `<span id="//apple_ref/swift/Element/outElastic" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-easingfunction#/s:7heresdk14EasingFunctionO10outElasticyA2CmF" class="token"><code>outElastic</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14EasingFunctionO10outElasticyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-outElastic" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-easingfunction#sdk-for-ios-navigate-s-7heresdk14EasingFunctionO10outElasticyA2CmF" class="token"><code>outElastic</code></a> 
 
   </div>
 
@@ -1743,7 +1743,7 @@ Animation easing functions.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14EasingFunctionO12inOutElasticyA2CmF"></span>` `<span id="//apple_ref/swift/Element/inOutElastic" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-easingfunction#/s:7heresdk14EasingFunctionO12inOutElasticyA2CmF" class="token"><code>inOutElastic</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14EasingFunctionO12inOutElasticyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-inOutElastic" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-easingfunction#sdk-for-ios-navigate-s-7heresdk14EasingFunctionO12inOutElasticyA2CmF" class="token"><code>inOutElastic</code></a> 
 
   </div>
 
@@ -1787,7 +1787,7 @@ Animation easing functions.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14EasingFunctionO12outInElasticyA2CmF"></span>` `<span id="//apple_ref/swift/Element/outInElastic" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-easingfunction#/s:7heresdk14EasingFunctionO12outInElasticyA2CmF" class="token"><code>outInElastic</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14EasingFunctionO12outInElasticyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-outInElastic" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-easingfunction#sdk-for-ios-navigate-s-7heresdk14EasingFunctionO12outInElasticyA2CmF" class="token"><code>outInElastic</code></a> 
 
   </div>
 

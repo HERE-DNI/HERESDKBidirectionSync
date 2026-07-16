@@ -31,7 +31,7 @@ Authentication error
 
 - <div>
 
-  ` `<span id="/s:7heresdk19AuthenticationErrorO16invalidParameteryA2CmF"></span>` `<span id="//apple_ref/swift/Element/invalidParameter" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-authenticationerror#/s:7heresdk19AuthenticationErrorO16invalidParameteryA2CmF" class="token"><code>invalidParameter</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19AuthenticationErrorO16invalidParameteryA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-invalidParameter" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-authenticationerror#sdk-for-ios-navigate-s-7heresdk19AuthenticationErrorO16invalidParameteryA2CmF" class="token"><code>invalidParameter</code></a> 
 
   </div>
 
@@ -75,7 +75,7 @@ Authentication error
 
 - <div>
 
-  ` `<span id="/s:7heresdk19AuthenticationErrorO20authenticationFailedyA2CmF"></span>` `<span id="//apple_ref/swift/Element/authenticationFailed" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-authenticationerror#/s:7heresdk19AuthenticationErrorO20authenticationFailedyA2CmF" class="token"><code>authenticationFailed</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19AuthenticationErrorO20authenticationFailedyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-authenticationFailed" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-authenticationerror#sdk-for-ios-navigate-s-7heresdk19AuthenticationErrorO20authenticationFailedyA2CmF" class="token"><code>authenticationFailed</code></a> 
 
   </div>
 
@@ -119,7 +119,7 @@ Authentication error
 
 - <div>
 
-  ` `<span id="/s:7heresdk19AuthenticationErrorO12noConnectionyA2CmF"></span>` `<span id="//apple_ref/swift/Element/noConnection" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-authenticationerror#/s:7heresdk19AuthenticationErrorO12noConnectionyA2CmF" class="token"><code>noConnection</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19AuthenticationErrorO12noConnectionyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-noConnection" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-authenticationerror#sdk-for-ios-navigate-s-7heresdk19AuthenticationErrorO12noConnectionyA2CmF" class="token"><code>noConnection</code></a> 
 
   </div>
 
@@ -163,7 +163,7 @@ Authentication error
 
 - <div>
 
-  ` `<span id="/s:7heresdk19AuthenticationErrorO21operationAfterDisposeyA2CmF"></span>` `<span id="//apple_ref/swift/Element/operationAfterDispose" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-authenticationerror#/s:7heresdk19AuthenticationErrorO21operationAfterDisposeyA2CmF" class="token"><code>operationAfterDispose</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19AuthenticationErrorO21operationAfterDisposeyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-operationAfterDispose" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-authenticationerror#sdk-for-ios-navigate-s-7heresdk19AuthenticationErrorO21operationAfterDisposeyA2CmF" class="token"><code>operationAfterDispose</code></a> 
 
   </div>
 

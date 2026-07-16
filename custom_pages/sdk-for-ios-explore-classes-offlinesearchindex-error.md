@@ -27,7 +27,7 @@ Error corresponding to the offline search operation.
 
 - <div>
 
-  ` `<span id="/s:7heresdk18OfflineSearchIndexC5ErrorO21invalidPersistentPathyA2EmF"></span>` `<span id="//apple_ref/swift/Element/invalidPersistentPath" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-offlinesearchindex-error#/s:7heresdk18OfflineSearchIndexC5ErrorO21invalidPersistentPathyA2EmF" class="token"><code>invalidPersistentPath</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18OfflineSearchIndexC5ErrorO21invalidPersistentPathyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-invalidPersistentPath" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-offlinesearchindex-error#sdk-for-ios-explore-s-7heresdk18OfflineSearchIndexC5ErrorO21invalidPersistentPathyA2EmF" class="token"><code>invalidPersistentPath</code></a> 
 
   </div>
 
@@ -45,7 +45,7 @@ Error corresponding to the offline search operation.
 
   <div class="abstract">
 
-  Unreachable <a href="sdk-for-ios-explore-structs-sdkoptions#/s:7heresdk10SDKOptionsV24persistentMapStoragePathSSvp">`SDKOptions.persistentMapStoragePath`</a> or lacking required permission to generate index inside.
+  Unreachable <a href="sdk-for-ios-explore-structs-sdkoptions#sdk-for-ios-explore-s-7heresdk10SDKOptionsV24persistentMapStoragePathSSvp">`SDKOptions.persistentMapStoragePath`</a> or lacking required permission to generate index inside.
 
   </div>
 
@@ -71,7 +71,7 @@ Error corresponding to the offline search operation.
 
 - <div>
 
-  ` `<span id="/s:7heresdk18OfflineSearchIndexC5ErrorO03mapE0yA2EmF"></span>` `<span id="//apple_ref/swift/Element/mapError" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-offlinesearchindex-error#/s:7heresdk18OfflineSearchIndexC5ErrorO03mapE0yA2EmF" class="token"><code>mapError</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18OfflineSearchIndexC5ErrorO03mapE0yA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-mapError" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-offlinesearchindex-error#sdk-for-ios-explore-s-7heresdk18OfflineSearchIndexC5ErrorO03mapE0yA2EmF" class="token"><code>mapError</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Error corresponding to the offline search operation.
 
 - <div>
 
-  ` `<span id="/s:7heresdk18OfflineSearchIndexC5ErrorO08databaseE0yA2EmF"></span>` `<span id="//apple_ref/swift/Element/databaseError" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-offlinesearchindex-error#/s:7heresdk18OfflineSearchIndexC5ErrorO08databaseE0yA2EmF" class="token"><code>databaseError</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18OfflineSearchIndexC5ErrorO08databaseE0yA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-databaseError" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-offlinesearchindex-error#sdk-for-ios-explore-s-7heresdk18OfflineSearchIndexC5ErrorO08databaseE0yA2EmF" class="token"><code>databaseError</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Error corresponding to the offline search operation.
 
 - <div>
 
-  ` `<span id="/s:7heresdk18OfflineSearchIndexC5ErrorO18operationCancelledyA2EmF"></span>` `<span id="//apple_ref/swift/Element/operationCancelled" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-offlinesearchindex-error#/s:7heresdk18OfflineSearchIndexC5ErrorO18operationCancelledyA2EmF" class="token"><code>operationCancelled</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18OfflineSearchIndexC5ErrorO18operationCancelledyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-operationCancelled" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-offlinesearchindex-error#sdk-for-ios-explore-s-7heresdk18OfflineSearchIndexC5ErrorO18operationCancelledyA2EmF" class="token"><code>operationCancelled</code></a> 
 
   </div>
 
@@ -203,7 +203,7 @@ Error corresponding to the offline search operation.
 
 - <div>
 
-  ` `<span id="/s:7heresdk18OfflineSearchIndexC5ErrorO08internalE0yA2EmF"></span>` `<span id="//apple_ref/swift/Element/internalError" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-offlinesearchindex-error#/s:7heresdk18OfflineSearchIndexC5ErrorO08internalE0yA2EmF" class="token"><code>internalError</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18OfflineSearchIndexC5ErrorO08internalE0yA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-internalError" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-offlinesearchindex-error#sdk-for-ios-explore-s-7heresdk18OfflineSearchIndexC5ErrorO08internalE0yA2EmF" class="token"><code>internalError</code></a> 
 
   </div>
 

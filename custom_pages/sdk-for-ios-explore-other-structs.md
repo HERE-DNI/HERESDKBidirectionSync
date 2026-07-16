@@ -15,7 +15,7 @@ The following structures are available globally.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14AdminContextIdV"></span>` `<span id="//apple_ref/swift/Struct/AdminContextId" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-other-structs#/s:7heresdk14AdminContextIdV" class="token"><code>AdminContextId</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14AdminContextIdV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-AdminContextId" class="dashAnchor"></span> <a href="sdk-for-ios-explore-other-structs#sdk-for-ios-explore-s-7heresdk14AdminContextIdV" class="token"><code>AdminContextId</code></a> 
 
   </div>
 
@@ -61,7 +61,7 @@ The following structures are available globally.
 
 - <div>
 
-  ` `<span id="/s:7heresdk36AdministrativeCommercialVehicleRulesV"></span>` `<span id="//apple_ref/swift/Struct/AdministrativeCommercialVehicleRules" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-other-structs#/s:7heresdk36AdministrativeCommercialVehicleRulesV" class="token"><code>AdministrativeCommercialVehicleRules</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk36AdministrativeCommercialVehicleRulesV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-AdministrativeCommercialVehicleRules" class="dashAnchor"></span> <a href="sdk-for-ios-explore-other-structs#sdk-for-ios-explore-s-7heresdk36AdministrativeCommercialVehicleRulesV" class="token"><code>AdministrativeCommercialVehicleRules</code></a> 
 
   </div>
 
@@ -109,7 +109,7 @@ The following structures are available globally.
 
 - <div>
 
-  ` `<span id="/s:7heresdk19DriveRestRegulationV"></span>` `<span id="//apple_ref/swift/Struct/DriveRestRegulation" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-other-structs#/s:7heresdk19DriveRestRegulationV" class="token"><code>DriveRestRegulation</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19DriveRestRegulationV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-DriveRestRegulation" class="dashAnchor"></span> <a href="sdk-for-ios-explore-other-structs#sdk-for-ios-explore-s-7heresdk19DriveRestRegulationV" class="token"><code>DriveRestRegulation</code></a> 
 
   </div>
 
@@ -157,7 +157,7 @@ The following structures are available globally.
 
 - <div>
 
-  ` `<span id="/s:7heresdk20RoadProfileConditionV"></span>` `<span id="//apple_ref/swift/Struct/RoadProfileCondition" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-other-structs#/s:7heresdk20RoadProfileConditionV" class="token"><code>RoadProfileCondition</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk20RoadProfileConditionV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-RoadProfileCondition" class="dashAnchor"></span> <a href="sdk-for-ios-explore-other-structs#sdk-for-ios-explore-s-7heresdk20RoadProfileConditionV" class="token"><code>RoadProfileCondition</code></a> 
 
   </div>
 
@@ -205,7 +205,7 @@ The following structures are available globally.
 
 - <div>
 
-  ` `<span id="/s:7heresdk25VehicleProfileRestrictionV"></span>` `<span id="//apple_ref/swift/Struct/VehicleProfileRestriction" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-other-structs#/s:7heresdk25VehicleProfileRestrictionV" class="token"><code>VehicleProfileRestriction</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk25VehicleProfileRestrictionV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-VehicleProfileRestriction" class="dashAnchor"></span> <a href="sdk-for-ios-explore-other-structs#sdk-for-ios-explore-s-7heresdk25VehicleProfileRestrictionV" class="token"><code>VehicleProfileRestriction</code></a> 
 
   </div>
 
@@ -253,7 +253,7 @@ The following structures are available globally.
 
 - <div>
 
-  ` `<span id="/s:7heresdk27VehicleRestrictionConditionV"></span>` `<span id="//apple_ref/swift/Struct/VehicleRestrictionCondition" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-other-structs#/s:7heresdk27VehicleRestrictionConditionV" class="token"><code>VehicleRestrictionCondition</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk27VehicleRestrictionConditionV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-VehicleRestrictionCondition" class="dashAnchor"></span> <a href="sdk-for-ios-explore-other-structs#sdk-for-ios-explore-s-7heresdk27VehicleRestrictionConditionV" class="token"><code>VehicleRestrictionCondition</code></a> 
 
   </div>
 
@@ -301,7 +301,7 @@ The following structures are available globally.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21VehicleSpecificAccessV"></span>` `<span id="//apple_ref/swift/Struct/VehicleSpecificAccess" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-other-structs#/s:7heresdk21VehicleSpecificAccessV" class="token"><code>VehicleSpecificAccess</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk21VehicleSpecificAccessV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-VehicleSpecificAccess" class="dashAnchor"></span> <a href="sdk-for-ios-explore-other-structs#sdk-for-ios-explore-s-7heresdk21VehicleSpecificAccessV" class="token"><code>VehicleSpecificAccess</code></a> 
 
   </div>
 
@@ -349,7 +349,7 @@ The following structures are available globally.
 
 - <div>
 
-  ` `<span id="/s:7heresdk25VehicleSpecificSpeedLimitV"></span>` `<span id="//apple_ref/swift/Struct/VehicleSpecificSpeedLimit" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-other-structs#/s:7heresdk25VehicleSpecificSpeedLimitV" class="token"><code>VehicleSpecificSpeedLimit</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk25VehicleSpecificSpeedLimitV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-VehicleSpecificSpeedLimit" class="dashAnchor"></span> <a href="sdk-for-ios-explore-other-structs#sdk-for-ios-explore-s-7heresdk25VehicleSpecificSpeedLimitV" class="token"><code>VehicleSpecificSpeedLimit</code></a> 
 
   </div>
 
@@ -397,7 +397,7 @@ The following structures are available globally.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21IndoorLevelChangeDataV"></span>` `<span id="//apple_ref/swift/Struct/IndoorLevelChangeData" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-other-structs#/s:7heresdk21IndoorLevelChangeDataV" class="token"><code>IndoorLevelChangeData</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk21IndoorLevelChangeDataV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-IndoorLevelChangeData" class="dashAnchor"></span> <a href="sdk-for-ios-explore-other-structs#sdk-for-ios-explore-s-7heresdk21IndoorLevelChangeDataV" class="token"><code>IndoorLevelChangeData</code></a> 
 
   </div>
 
@@ -443,7 +443,7 @@ The following structures are available globally.
 
 - <div>
 
-  ` `<span id="/s:7heresdk16IndoorRoutePlaceV"></span>` `<span id="//apple_ref/swift/Struct/IndoorRoutePlace" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-other-structs#/s:7heresdk16IndoorRoutePlaceV" class="token"><code>IndoorRoutePlace</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16IndoorRoutePlaceV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-IndoorRoutePlace" class="dashAnchor"></span> <a href="sdk-for-ios-explore-other-structs#sdk-for-ios-explore-s-7heresdk16IndoorRoutePlaceV" class="token"><code>IndoorRoutePlace</code></a> 
 
   </div>
 
@@ -489,7 +489,7 @@ The following structures are available globally.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15IndoorSpaceDataV"></span>` `<span id="//apple_ref/swift/Struct/IndoorSpaceData" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-other-structs#/s:7heresdk15IndoorSpaceDataV" class="token"><code>IndoorSpaceData</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15IndoorSpaceDataV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-IndoorSpaceData" class="dashAnchor"></span> <a href="sdk-for-ios-explore-other-structs#sdk-for-ios-explore-s-7heresdk15IndoorSpaceDataV" class="token"><code>IndoorSpaceData</code></a> 
 
   </div>
 
@@ -535,7 +535,7 @@ The following structures are available globally.
 
 - <div>
 
-  ` `<span id="/s:7heresdk22RefreshRouteParametersV"></span>` `<span id="//apple_ref/swift/Struct/RefreshRouteParameters" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-other-structs#/s:7heresdk22RefreshRouteParametersV" class="token"><code>RefreshRouteParameters</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk22RefreshRouteParametersV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-RefreshRouteParameters" class="dashAnchor"></span> <a href="sdk-for-ios-explore-other-structs#sdk-for-ios-explore-s-7heresdk22RefreshRouteParametersV" class="token"><code>RefreshRouteParameters</code></a> 
 
   </div>
 
@@ -581,7 +581,7 @@ The following structures are available globally.
 
 - <div>
 
-  ` `<span id="/s:7heresdk19LaneDecreaseWarningV"></span>` `<span id="//apple_ref/swift/Struct/LaneDecreaseWarning" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-other-structs#/s:7heresdk19LaneDecreaseWarningV" class="token"><code>LaneDecreaseWarning</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19LaneDecreaseWarningV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-LaneDecreaseWarning" class="dashAnchor"></span> <a href="sdk-for-ios-explore-other-structs#sdk-for-ios-explore-s-7heresdk19LaneDecreaseWarningV" class="token"><code>LaneDecreaseWarning</code></a> 
 
   </div>
 
@@ -631,7 +631,7 @@ The following structures are available globally.
 
 - <div>
 
-  ` `<span id="/s:7heresdk26LaneDecreaseWarningOptionsV"></span>` `<span id="//apple_ref/swift/Struct/LaneDecreaseWarningOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-other-structs#/s:7heresdk26LaneDecreaseWarningOptionsV" class="token"><code>LaneDecreaseWarningOptions</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk26LaneDecreaseWarningOptionsV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-LaneDecreaseWarningOptions" class="dashAnchor"></span> <a href="sdk-for-ios-explore-other-structs#sdk-for-ios-explore-s-7heresdk26LaneDecreaseWarningOptionsV" class="token"><code>LaneDecreaseWarningOptions</code></a> 
 
   </div>
 

@@ -19,9 +19,9 @@ public struct Address : Hashable
 
 Information about the address of a location.
 
-Used in <a href="sdk-for-ios-explore-classes-place#/s:7heresdk5PlaceC7addressAA7AddressVvp">`Place.address`</a>.
+Used in <a href="sdk-for-ios-explore-classes-place#sdk-for-ios-explore-s-7heresdk5PlaceC7addressAA7AddressVvp">`Place.address`</a>.
 
-Note that while `OfflineSearchEngine.suggest` and `OfflineSearchEngine.suggestByText` set all available details, `SearchEngine.suggest` and `SearchEngine.suggestByText` set only <a href="sdk-for-ios-explore-structs-address#/s:7heresdk7AddressV11addressTextSSvp">`Address.addressText`</a>. Complete address details can be obtained by searching with <a href="sdk-for-ios-explore-structs-placeidquery">`PlaceIdQuery`</a>.
+Note that while `OfflineSearchEngine.suggest` and `OfflineSearchEngine.suggestByText` set all available details, `SearchEngine.suggest` and `SearchEngine.suggestByText` set only <a href="sdk-for-ios-explore-structs-address#sdk-for-ios-explore-s-7heresdk7AddressV11addressTextSSvp">`Address.addressText`</a>. Complete address details can be obtained by searching with <a href="sdk-for-ios-explore-structs-placeidquery">`PlaceIdQuery`</a>.
 
 </div>
 
@@ -31,7 +31,7 @@ Note that while `OfflineSearchEngine.suggest` and `OfflineSearchEngine.suggestBy
 
 - <div>
 
-  ` `<span id="/s:7heresdk7AddressV4citySSvp"></span>` `<span id="//apple_ref/swift/Property/city" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-address#/s:7heresdk7AddressV4citySSvp" class="token"><code>city</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk7AddressV4citySSvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-city" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-address#sdk-for-ios-explore-s-7heresdk7AddressV4citySSvp" class="token"><code>city</code></a> 
 
   </div>
 
@@ -75,7 +75,7 @@ Note that while `OfflineSearchEngine.suggest` and `OfflineSearchEngine.suggestBy
 
 - <div>
 
-  ` `<span id="/s:7heresdk7AddressV11countryCodeSSvp"></span>` `<span id="//apple_ref/swift/Property/countryCode" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-address#/s:7heresdk7AddressV11countryCodeSSvp" class="token"><code>countryCode</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk7AddressV11countryCodeSSvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-countryCode" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-address#sdk-for-ios-explore-s-7heresdk7AddressV11countryCodeSSvp" class="token"><code>countryCode</code></a> 
 
   </div>
 
@@ -119,7 +119,7 @@ Note that while `OfflineSearchEngine.suggest` and `OfflineSearchEngine.suggestBy
 
 - <div>
 
-  ` `<span id="/s:7heresdk7AddressV7countrySSvp"></span>` `<span id="//apple_ref/swift/Property/country" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-address#/s:7heresdk7AddressV7countrySSvp" class="token"><code>country</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk7AddressV7countrySSvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-country" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-address#sdk-for-ios-explore-s-7heresdk7AddressV7countrySSvp" class="token"><code>country</code></a> 
 
   </div>
 
@@ -163,7 +163,7 @@ Note that while `OfflineSearchEngine.suggest` and `OfflineSearchEngine.suggestBy
 
 - <div>
 
-  ` `<span id="/s:7heresdk7AddressV8districtSSvp"></span>` `<span id="//apple_ref/swift/Property/district" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-address#/s:7heresdk7AddressV8districtSSvp" class="token"><code>district</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk7AddressV8districtSSvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-district" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-address#sdk-for-ios-explore-s-7heresdk7AddressV8districtSSvp" class="token"><code>district</code></a> 
 
   </div>
 
@@ -207,7 +207,7 @@ Note that while `OfflineSearchEngine.suggest` and `OfflineSearchEngine.suggestBy
 
 - <div>
 
-  ` `<span id="/s:7heresdk7AddressV11subdistrictSSvp"></span>` `<span id="//apple_ref/swift/Property/subdistrict" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-address#/s:7heresdk7AddressV11subdistrictSSvp" class="token"><code>subdistrict</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk7AddressV11subdistrictSSvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-subdistrict" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-address#sdk-for-ios-explore-s-7heresdk7AddressV11subdistrictSSvp" class="token"><code>subdistrict</code></a> 
 
   </div>
 
@@ -251,7 +251,7 @@ Note that while `OfflineSearchEngine.suggest` and `OfflineSearchEngine.suggestBy
 
 - <div>
 
-  ` `<span id="/s:7heresdk7AddressV14houseNumOrNameSSvp"></span>` `<span id="//apple_ref/swift/Property/houseNumOrName" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-address#/s:7heresdk7AddressV14houseNumOrNameSSvp" class="token"><code>houseNumOrName</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk7AddressV14houseNumOrNameSSvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-houseNumOrName" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-address#sdk-for-ios-explore-s-7heresdk7AddressV14houseNumOrNameSSvp" class="token"><code>houseNumOrName</code></a> 
 
   </div>
 
@@ -295,7 +295,7 @@ Note that while `OfflineSearchEngine.suggest` and `OfflineSearchEngine.suggestBy
 
 - <div>
 
-  ` `<span id="/s:7heresdk7AddressV10postalCodeSSvp"></span>` `<span id="//apple_ref/swift/Property/postalCode" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-address#/s:7heresdk7AddressV10postalCodeSSvp" class="token"><code>postalCode</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk7AddressV10postalCodeSSvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-postalCode" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-address#sdk-for-ios-explore-s-7heresdk7AddressV10postalCodeSSvp" class="token"><code>postalCode</code></a> 
 
   </div>
 
@@ -339,7 +339,7 @@ Note that while `OfflineSearchEngine.suggest` and `OfflineSearchEngine.suggestBy
 
 - <div>
 
-  ` `<span id="/s:7heresdk7AddressV5stateSSvp"></span>` `<span id="//apple_ref/swift/Property/state" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-address#/s:7heresdk7AddressV5stateSSvp" class="token"><code>state</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk7AddressV5stateSSvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-state" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-address#sdk-for-ios-explore-s-7heresdk7AddressV5stateSSvp" class="token"><code>state</code></a> 
 
   </div>
 
@@ -383,7 +383,7 @@ Note that while `OfflineSearchEngine.suggest` and `OfflineSearchEngine.suggestBy
 
 - <div>
 
-  ` `<span id="/s:7heresdk7AddressV6countySSvp"></span>` `<span id="//apple_ref/swift/Property/county" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-address#/s:7heresdk7AddressV6countySSvp" class="token"><code>county</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk7AddressV6countySSvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-county" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-address#sdk-for-ios-explore-s-7heresdk7AddressV6countySSvp" class="token"><code>county</code></a> 
 
   </div>
 
@@ -427,7 +427,7 @@ Note that while `OfflineSearchEngine.suggest` and `OfflineSearchEngine.suggestBy
 
 - <div>
 
-  ` `<span id="/s:7heresdk7AddressV6streetSSvp"></span>` `<span id="//apple_ref/swift/Property/street" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-address#/s:7heresdk7AddressV6streetSSvp" class="token"><code>street</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk7AddressV6streetSSvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-street" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-address#sdk-for-ios-explore-s-7heresdk7AddressV6streetSSvp" class="token"><code>street</code></a> 
 
   </div>
 
@@ -471,7 +471,7 @@ Note that while `OfflineSearchEngine.suggest` and `OfflineSearchEngine.suggestBy
 
 - <div>
 
-  ` `<span id="/s:7heresdk7AddressV5blockSSvp"></span>` `<span id="//apple_ref/swift/Property/block" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-address#/s:7heresdk7AddressV5blockSSvp" class="token"><code>block</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk7AddressV5blockSSvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-block" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-address#sdk-for-ios-explore-s-7heresdk7AddressV5blockSSvp" class="token"><code>block</code></a> 
 
   </div>
 
@@ -515,7 +515,7 @@ Note that while `OfflineSearchEngine.suggest` and `OfflineSearchEngine.suggestBy
 
 - <div>
 
-  ` `<span id="/s:7heresdk7AddressV8subBlockSSvp"></span>` `<span id="//apple_ref/swift/Property/subBlock" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-address#/s:7heresdk7AddressV8subBlockSSvp" class="token"><code>subBlock</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk7AddressV8subBlockSSvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-subBlock" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-address#sdk-for-ios-explore-s-7heresdk7AddressV8subBlockSSvp" class="token"><code>subBlock</code></a> 
 
   </div>
 
@@ -559,7 +559,7 @@ Note that while `OfflineSearchEngine.suggest` and `OfflineSearchEngine.suggestBy
 
 - <div>
 
-  ` `<span id="/s:7heresdk7AddressV11addressTextSSvp"></span>` `<span id="//apple_ref/swift/Property/addressText" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-address#/s:7heresdk7AddressV11addressTextSSvp" class="token"><code>addressText</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk7AddressV11addressTextSSvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-addressText" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-address#sdk-for-ios-explore-s-7heresdk7AddressV11addressTextSSvp" class="token"><code>addressText</code></a> 
 
   </div>
 
@@ -603,7 +603,7 @@ Note that while `OfflineSearchEngine.suggest` and `OfflineSearchEngine.suggestBy
 
 - <div>
 
-  ` `<span id="/s:7heresdk7AddressV4typeAA0B4TypeOSgvp"></span>` `<span id="//apple_ref/swift/Property/type" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-address#/s:7heresdk7AddressV4typeAA0B4TypeOSgvp" class="token"><code>type</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk7AddressV4typeAA0B4TypeOSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-type" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-address#sdk-for-ios-explore-s-7heresdk7AddressV4typeAA0B4TypeOSgvp" class="token"><code>type</code></a> 
 
   </div>
 
@@ -639,6 +639,10 @@ Note that while `OfflineSearchEngine.suggest` and `OfflineSearchEngine.suggestBy
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-addresstype">AddressType</a>
+
   </div>
 
   </div>
@@ -647,7 +651,7 @@ Note that while `OfflineSearchEngine.suggest` and `OfflineSearchEngine.suggestBy
 
 - <div>
 
-  ` `<span id="/s:7heresdk7AddressV9stateCodeSSvp"></span>` `<span id="//apple_ref/swift/Property/stateCode" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-address#/s:7heresdk7AddressV9stateCodeSSvp" class="token"><code>stateCode</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk7AddressV9stateCodeSSvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-stateCode" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-address#sdk-for-ios-explore-s-7heresdk7AddressV9stateCodeSSvp" class="token"><code>stateCode</code></a> 
 
   </div>
 
@@ -691,7 +695,7 @@ Note that while `OfflineSearchEngine.suggest` and `OfflineSearchEngine.suggestBy
 
 - <div>
 
-      init(city: countryCode: country: district: subdistrict: houseNumOrName: postalCode: state: county: street: block: subBlock: addressText: type: stateCode: )
+   <span id="sdk-for-ios-explore-s-7heresdk7AddressV4city11countryCode0D08district11subdistrict14houseNumOrName06postalE05state6county6street5block8subBlock11addressText4type0mE0ACSS_S12SAA0B4TypeOSgSStcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-city-countryCode-country-district-subdistrict-houseNumOrName-postalCode-state-county-street-block-subBlock-addressText-type-stateCode" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-address#sdk-for-ios-explore-s-7heresdk7AddressV4city11countryCode0D08district11subdistrict14houseNumOrName06postalE05state6county6street5block8subBlock11addressText4type0mE0ACSS_S12SAA0B4TypeOSgSStcfc" class="token"><code>init(city:</code><wbr></wbr><code>countryCode:</code><wbr></wbr><code>country:</code><wbr></wbr><code>district:</code><wbr></wbr><code>subdistrict:</code><wbr></wbr><code>houseNumOrName:</code><wbr></wbr><code>postalCode:</code><wbr></wbr><code>state:</code><wbr></wbr><code>county:</code><wbr></wbr><code>street:</code><wbr></wbr><code>block:</code><wbr></wbr><code>subBlock:</code><wbr></wbr><code>addressText:</code><wbr></wbr><code>type:</code><wbr></wbr><code>stateCode:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -722,12 +726,14 @@ Note that while `OfflineSearchEngine.suggest` and `OfflineSearchEngine.suggestBy
   Swift
 
   ``` highlight
-  public init ( city : String = "" , countryCode : String = "" , country : String = "" , district : String = "" , subdistrict : String = "" , houseNumOrName : String = "" , postalCode : String = "" , state : String = "" , county : String = "" , street : String = "" , block : String = "" , subBlock : String = "" , addressText : String = "" , type : AddressType ? = nil , stateCode : String = "" )
+  public init(city: String = "", countryCode: String = "", country: String = "", district: String = "", subdistrict: String = "", houseNumOrName: String = "", postalCode: String = "", state: String = "", county: String = "", street: String = "", block: String = "", subBlock: String = "", addressText: String = "", type: AddressType? = nil, stateCode: String = "")
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-addresstype">AddressType</a>
 
   </div>
 

@@ -27,7 +27,7 @@ Border crossing warning options.
 
 - <div>
 
-  ` `<span id="/s:7heresdk28BorderCrossingWarningOptionsV014filterOutStateB8WarningsSbvp"></span>` `<span id="//apple_ref/swift/Property/filterOutStateBorderWarnings" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-bordercrossingwarningoptions#/s:7heresdk28BorderCrossingWarningOptionsV014filterOutStateB8WarningsSbvp" class="token"><code>filterOutStateBorderWarnings</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk28BorderCrossingWarningOptionsV014filterOutStateB8WarningsSbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-filterOutStateBorderWarnings" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-bordercrossingwarningoptions#sdk-for-ios-navigate-s-7heresdk28BorderCrossingWarningOptionsV014filterOutStateB8WarningsSbvp" class="token"><code>filterOutStateBorderWarnings</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Border crossing warning options.
 
 - <div>
 
-  ` `<span id="/s:7heresdk28BorderCrossingWarningOptionsV35includeCommercialVehicleRegulationsSbvp"></span>` `<span id="//apple_ref/swift/Property/includeCommercialVehicleRegulations" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-bordercrossingwarningoptions#/s:7heresdk28BorderCrossingWarningOptionsV35includeCommercialVehicleRegulationsSbvp" class="token"><code>includeCommercialVehicleRegulations</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk28BorderCrossingWarningOptionsV35includeCommercialVehicleRegulationsSbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-includeCommercialVehicleRegulations" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-bordercrossingwarningoptions#sdk-for-ios-navigate-s-7heresdk28BorderCrossingWarningOptionsV35includeCommercialVehicleRegulationsSbvp" class="token"><code>includeCommercialVehicleRegulations</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Border crossing warning options.
 
 - <div>
 
-      init(filterOutStateBorderWarnings: includeCommercialVehicleRegulations: )
+   <span id="sdk-for-ios-navigate-s-7heresdk28BorderCrossingWarningOptionsV014filterOutStateB8Warnings35includeCommercialVehicleRegulationsACSb_Sbtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-filterOutStateBorderWarnings-includeCommercialVehicleRegulations" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-bordercrossingwarningoptions#sdk-for-ios-navigate-s-7heresdk28BorderCrossingWarningOptionsV014filterOutStateB8Warnings35includeCommercialVehicleRegulationsACSb_Sbtcfc" class="token"><code>init(filterOutStateBorderWarnings:</code><wbr></wbr><code>includeCommercialVehicleRegulations:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -146,10 +146,8 @@ Border crossing warning options.
   Swift
 
   ``` highlight
-  public init ( filterOutStateBorderWarnings : Bool = true , includeCommercialVehicleRegulations : Bool = false )
+  public init(filterOutStateBorderWarnings: Bool = true, includeCommercialVehicleRegulations: Bool = false)
   ```
-
-  </pre>
 
   </div>
 

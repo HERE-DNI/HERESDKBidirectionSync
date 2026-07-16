@@ -35,7 +35,7 @@ Represents a style of the label.
 
 - <div>
 
-      init(fillColor: outlineColor: outlineWidth: maxFont: )
+   <span id="sdk-for-ios-explore-s-7heresdk15VenueLabelStyleC9fillColor07outlineF00G5Width7maxFontACSo7UIColorC_AISfs5Int32Vtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-fillColor-outlineColor-outlineWidth-maxFont" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuelabelstyle#sdk-for-ios-explore-s-7heresdk15VenueLabelStyleC9fillColor07outlineF00G5Width7maxFontACSo7UIColorC_AISfs5Int32Vtcfc" class="token"><code>init(fillColor:</code><wbr></wbr><code>outlineColor:</code><wbr></wbr><code>outlineWidth:</code><wbr></wbr><code>maxFont:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -66,10 +66,8 @@ Represents a style of the label.
   Swift
 
   ``` highlight
-  public init ( fillColor : UIColor , outlineColor : UIColor , outlineWidth : Float , maxFont : Int32 )
+  public init(fillColor: UIColor, outlineColor: UIColor, outlineWidth: Float, maxFont: Int32)
   ```
-
-  </pre>
 
   </div>
 
@@ -120,7 +118,7 @@ Represents a style of the label.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15VenueLabelStyleC7maxFonts5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/maxFont" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuelabelstyle#/s:7heresdk15VenueLabelStyleC7maxFonts5Int32Vvp" class="token"><code>maxFont</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15VenueLabelStyleC7maxFonts5Int32Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-maxFont" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuelabelstyle#sdk-for-ios-explore-s-7heresdk15VenueLabelStyleC7maxFonts5Int32Vvp" class="token"><code>maxFont</code></a> 
 
   </div>
 
@@ -164,7 +162,7 @@ Represents a style of the label.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15VenueLabelStyleC9fillColorSo7UIColorCvp"></span>` `<span id="//apple_ref/swift/Property/fillColor" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuelabelstyle#/s:7heresdk15VenueLabelStyleC9fillColorSo7UIColorCvp" class="token"><code>fillColor</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15VenueLabelStyleC9fillColorSo7UIColorCvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-fillColor" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuelabelstyle#sdk-for-ios-explore-s-7heresdk15VenueLabelStyleC9fillColorSo7UIColorCvp" class="token"><code>fillColor</code></a> 
 
   </div>
 
@@ -208,7 +206,7 @@ Represents a style of the label.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15VenueLabelStyleC12outlineColorSo7UIColorCSgvp"></span>` `<span id="//apple_ref/swift/Property/outlineColor" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuelabelstyle#/s:7heresdk15VenueLabelStyleC12outlineColorSo7UIColorCSgvp" class="token"><code>outlineColor</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15VenueLabelStyleC12outlineColorSo7UIColorCSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-outlineColor" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuelabelstyle#sdk-for-ios-explore-s-7heresdk15VenueLabelStyleC12outlineColorSo7UIColorCSgvp" class="token"><code>outlineColor</code></a> 
 
   </div>
 
@@ -252,7 +250,7 @@ Represents a style of the label.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15VenueLabelStyleC12outlineWidthSfvp"></span>` `<span id="//apple_ref/swift/Property/outlineWidth" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuelabelstyle#/s:7heresdk15VenueLabelStyleC12outlineWidthSfvp" class="token"><code>outlineWidth</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15VenueLabelStyleC12outlineWidthSfvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-outlineWidth" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuelabelstyle#sdk-for-ios-explore-s-7heresdk15VenueLabelStyleC12outlineWidthSfvp" class="token"><code>outlineWidth</code></a> 
 
   </div>
 

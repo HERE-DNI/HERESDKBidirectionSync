@@ -27,7 +27,7 @@ Indicates a user’s progress along a <a href="sdk-for-ios-navigate-classes-sect
 
 - <div>
 
-  ` `<span id="/s:7heresdk15SectionProgressV25remainingDistanceInMeterss5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/remainingDistanceInMeters" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-sectionprogress#/s:7heresdk15SectionProgressV25remainingDistanceInMeterss5Int32Vvp" class="token"><code>remainingDistanceInMeters</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15SectionProgressV25remainingDistanceInMeterss5Int32Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-remainingDistanceInMeters" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-sectionprogress#sdk-for-ios-navigate-s-7heresdk15SectionProgressV25remainingDistanceInMeterss5Int32Vvp" class="token"><code>remainingDistanceInMeters</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Indicates a user’s progress along a <a href="sdk-for-ios-navigate-classes-sect
 
 - <div>
 
-  ` `<span id="/s:7heresdk15SectionProgressV17remainingDurationSdvp"></span>` `<span id="//apple_ref/swift/Property/remainingDuration" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-sectionprogress#/s:7heresdk15SectionProgressV17remainingDurationSdvp" class="token"><code>remainingDuration</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15SectionProgressV17remainingDurationSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-remainingDuration" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-sectionprogress#sdk-for-ios-navigate-s-7heresdk15SectionProgressV17remainingDurationSdvp" class="token"><code>remainingDuration</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Indicates a user’s progress along a <a href="sdk-for-ios-navigate-classes-sect
 
 - <div>
 
-  ` `<span id="/s:7heresdk15SectionProgressV12trafficDelaySdvp"></span>` `<span id="//apple_ref/swift/Property/trafficDelay" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-sectionprogress#/s:7heresdk15SectionProgressV12trafficDelaySdvp" class="token"><code>trafficDelay</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15SectionProgressV12trafficDelaySdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-trafficDelay" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-sectionprogress#sdk-for-ios-navigate-s-7heresdk15SectionProgressV12trafficDelaySdvp" class="token"><code>trafficDelay</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Indicates a user’s progress along a <a href="sdk-for-ios-navigate-classes-sect
 
 - <div>
 
-      init(remainingDistanceInMeters: remainingDuration: trafficDelay: )
+   <span id="sdk-for-ios-navigate-s-7heresdk15SectionProgressV25remainingDistanceInMeters0D8Duration12trafficDelayACs5Int32V_S2dtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-remainingDistanceInMeters-remainingDuration-trafficDelay" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-sectionprogress#sdk-for-ios-navigate-s-7heresdk15SectionProgressV25remainingDistanceInMeters0D8Duration12trafficDelayACs5Int32V_S2dtcfc" class="token"><code>init(remainingDistanceInMeters:</code><wbr></wbr><code>remainingDuration:</code><wbr></wbr><code>trafficDelay:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -190,10 +190,8 @@ Indicates a user’s progress along a <a href="sdk-for-ios-navigate-classes-sect
   Swift
 
   ``` highlight
-  public init ( remainingDistanceInMeters : Int32 = 0 , remainingDuration : TimeInterval = 0 , trafficDelay : TimeInterval = 0 )
+  public init(remainingDistanceInMeters: Int32 = 0, remainingDuration: TimeInterval = 0, trafficDelay: TimeInterval = 0)
   ```
-
-  </pre>
 
   </div>
 

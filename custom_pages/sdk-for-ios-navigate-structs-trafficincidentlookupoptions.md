@@ -27,7 +27,7 @@ All the options to specify how a single incident should be queried.
 
 - <div>
 
-  ` `<span id="/s:7heresdk28TrafficIncidentLookupOptionsV12languageCodeAA08LanguageG0OSgvp"></span>` `<span id="//apple_ref/swift/Property/languageCode" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-trafficincidentlookupoptions#/s:7heresdk28TrafficIncidentLookupOptionsV12languageCodeAA08LanguageG0OSgvp" class="token"><code>languageCode</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk28TrafficIncidentLookupOptionsV12languageCodeAA08LanguageG0OSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-languageCode" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-trafficincidentlookupoptions#sdk-for-ios-navigate-s-7heresdk28TrafficIncidentLookupOptionsV12languageCodeAA08LanguageG0OSgvp" class="token"><code>languageCode</code></a> 
 
   </div>
 
@@ -63,6 +63,10 @@ All the options to specify how a single incident should be queried.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-languagecode">LanguageCode</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ All the options to specify how a single incident should be queried.
 
 - <div>
 
-      init(languageCode: )
+   <span id="sdk-for-ios-navigate-s-7heresdk28TrafficIncidentLookupOptionsV12languageCodeAcA08LanguageG0OSg_tcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-languageCode" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-trafficincidentlookupoptions#sdk-for-ios-navigate-s-7heresdk28TrafficIncidentLookupOptionsV12languageCodeAcA08LanguageG0OSg_tcfc" class="token"><code>init(languageCode:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -102,12 +106,14 @@ All the options to specify how a single incident should be queried.
   Swift
 
   ``` highlight
-  public init ( languageCode : LanguageCode ? = nil )
+  public init(languageCode: LanguageCode? = nil)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-languagecode">LanguageCode</a>
 
   </div>
 

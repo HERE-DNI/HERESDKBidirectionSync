@@ -27,7 +27,7 @@ Protocol for handling two finger pan gestures. Two finger pan gesture occurs whe
 
 - <div>
 
-      onTwoFingerPan(state: origin: translation: velocity: )
+   <span id="sdk-for-ios-navigate-s-7heresdk20TwoFingerPanDelegateP02onbcD05state6origin11translation8velocityyAA12GestureStateO_AA7Point2DVALSdtF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-onTwoFingerPan-state-origin-translation-velocity" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-protocols-twofingerpandelegate#sdk-for-ios-navigate-s-7heresdk20TwoFingerPanDelegateP02onbcD05state6origin11translation8velocityyAA12GestureStateO_AA7Point2DVALSdtF" class="token"><code>onTwoFingerPan(state:</code><wbr></wbr><code>origin:</code><wbr></wbr><code>translation:</code><wbr></wbr><code>velocity:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -58,12 +58,15 @@ Protocol for handling two finger pan gestures. Two finger pan gesture occurs whe
   Swift
 
   ``` highlight
-  func onTwoFingerPan ( state : GestureState , origin : Point2D , translation : Point2D , velocity : Double )
+  func onTwoFingerPan(state: GestureState, origin: Point2D, translation: Point2D, velocity: Double)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-gesturestate">GestureState</a>
+  - <a href="sdk-for-ios-navigate-structs-point2d">Point2D</a>
 
   </div>
 

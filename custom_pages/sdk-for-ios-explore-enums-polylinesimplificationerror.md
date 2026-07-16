@@ -17,12 +17,7 @@ public enum PolylineSimplificationError : UInt32, CaseIterable, Codable
 
 </div>
 
-Error code which specifies, what went wrong during
-
-    PolylineSimplifier.simplify(...)
-
-operation.
-</p>
+Error code which specifies, what went wrong during <a href="sdk-for-ios-explore-classes-polylinesimplifier#sdk-for-ios-explore-s-7heresdk18PolylineSimplifierC8simplify8polyline24simplificationParameters10completionAA10TaskHandle_pSayAA14GeoCoordinatesVG_AC7OptionsVyAA0B19SimplificationErrorOSg_AKSgtctF">`PolylineSimplifier.simplify(...)`</a> operation.
 
 </div>
 
@@ -32,7 +27,7 @@ operation.
 
 - <div>
 
-  ` `<span id="/s:7heresdk27PolylineSimplificationErrorO9cancelledyA2CmF"></span>` `<span id="//apple_ref/swift/Element/cancelled" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-polylinesimplificationerror#/s:7heresdk27PolylineSimplificationErrorO9cancelledyA2CmF" class="token"><code>cancelled</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk27PolylineSimplificationErrorO9cancelledyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-cancelled" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-polylinesimplificationerror#sdk-for-ios-explore-s-7heresdk27PolylineSimplificationErrorO9cancelledyA2CmF" class="token"><code>cancelled</code></a> 
 
   </div>
 

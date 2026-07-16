@@ -33,7 +33,7 @@ Classes interested in warning updates should implement this listener and registe
 
 - <div>
 
-      onWarnings(warnings: )
+   <span id="sdk-for-ios-explore-s-7heresdk15WarningDelegateP10onWarnings8warningsySayAA0B0VG_tF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-onWarnings-warnings" class="dashAnchor"></span> <a href="sdk-for-ios-explore-protocols-warningdelegate#sdk-for-ios-explore-s-7heresdk15WarningDelegateP10onWarnings8warningsySayAA0B0VG_tF" class="token"><code>onWarnings(warnings:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -64,12 +64,14 @@ Classes interested in warning updates should implement this listener and registe
   Swift
 
   ``` highlight
-  func onWarnings ( warnings : [ Warning ])
+  func onWarnings(warnings: [Warning])
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-warning">Warning</a>
 
   </div>
 

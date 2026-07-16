@@ -23,6 +23,10 @@ extension DataAttributesAccessor: Hashable
 
 </div>
 
+Related types:
+
+- <a href="sdk-for-ios-navigate-protocols-dataattributesbase">DataAttributesBase</a>
+
 </div>
 
 Accessor used for manipulating data attributes.
@@ -37,7 +41,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      getAttributeNames()
+   <span id="sdk-for-ios-navigate-s-7heresdk22DataAttributesAccessorC17getAttributeNamesSaySSGyF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-getAttributeNames" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-dataattributesaccessor#sdk-for-ios-navigate-s-7heresdk22DataAttributesAccessorC17getAttributeNamesSaySSGyF" class="token"><code>getAttributeNames()</code></a> 
 
   </div>
 
@@ -68,10 +72,8 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func getAttributeNames () -> [ String ]
+  public func getAttributeNames() -> [String]
   ```
-
-  </pre>
 
   </div>
 
@@ -91,7 +93,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      getValueType(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk22DataAttributesAccessorC12getValueTypeyAA0b9AttributeF0C0fG0OSgSSF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-getValueType-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-dataattributesaccessor#sdk-for-ios-navigate-s-7heresdk22DataAttributesAccessorC12getValueTypeyAA0b9AttributeF0C0fG0OSgSSF" class="token"><code>getValueType(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -122,12 +124,14 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func getValueType ( _ name : String ) -> DataAttributeValue . ValueType ?
+  public func getValueType(_ name: String) -> DataAttributeValue.ValueType?
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-dataattributevalue">DataAttributeValue</a>
 
   </div>
 
@@ -166,7 +170,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      getAsString(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk22DataAttributesAccessorC11getAsStringySSSgSSF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-getAsString-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-dataattributesaccessor#sdk-for-ios-navigate-s-7heresdk22DataAttributesAccessorC11getAsStringySSSgSSF" class="token"><code>getAsString(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -197,10 +201,8 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func getAsString ( _ name : String ) -> String ?
+  public func getAsString(_ name: String) -> String?
   ```
-
-  </pre>
 
   </div>
 
@@ -241,7 +243,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      getString(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk22DataAttributesAccessorC9getStringySSSgSSF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-getString-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-dataattributesaccessor#sdk-for-ios-navigate-s-7heresdk22DataAttributesAccessorC9getStringySSSgSSF" class="token"><code>getString(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -272,10 +274,8 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func getString ( _ name : String ) -> String ?
+  public func getString(_ name: String) -> String?
   ```
-
-  </pre>
 
   </div>
 
@@ -316,7 +316,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      getInt64(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk22DataAttributesAccessorC8getInt64ys0F0VSgSSF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-getInt64-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-dataattributesaccessor#sdk-for-ios-navigate-s-7heresdk22DataAttributesAccessorC8getInt64ys0F0VSgSSF" class="token"><code>getInt64(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -347,10 +347,8 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func getInt64 ( _ name : String ) -> Int64 ?
+  public func getInt64(_ name: String) -> Int64?
   ```
-
-  </pre>
 
   </div>
 
@@ -391,7 +389,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      getFloat(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk22DataAttributesAccessorC8getFloatySfSgSSF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-getFloat-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-dataattributesaccessor#sdk-for-ios-navigate-s-7heresdk22DataAttributesAccessorC8getFloatySfSgSSF" class="token"><code>getFloat(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -422,10 +420,8 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func getFloat ( _ name : String ) -> Float ?
+  public func getFloat(_ name: String) -> Float?
   ```
-
-  </pre>
 
   </div>
 
@@ -466,7 +462,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      getDouble(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk22DataAttributesAccessorC9getDoubleySdSgSSF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-getDouble-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-dataattributesaccessor#sdk-for-ios-navigate-s-7heresdk22DataAttributesAccessorC9getDoubleySdSgSSF" class="token"><code>getDouble(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -497,10 +493,8 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func getDouble ( _ name : String ) -> Double ?
+  public func getDouble(_ name: String) -> Double?
   ```
-
-  </pre>
 
   </div>
 
@@ -541,7 +535,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      getBoolean(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk22DataAttributesAccessorC10getBooleanySbSgSSF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-getBoolean-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-dataattributesaccessor#sdk-for-ios-navigate-s-7heresdk22DataAttributesAccessorC10getBooleanySbSgSSF" class="token"><code>getBoolean(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -572,10 +566,8 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func getBoolean ( _ name : String ) -> Bool ?
+  public func getBoolean(_ name: String) -> Bool?
   ```
-
-  </pre>
 
   </div>
 
@@ -616,7 +608,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      getValue(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk22DataAttributesAccessorC8getValueyAA0b9AttributeF0CSgSSF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-getValue-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-dataattributesaccessor#sdk-for-ios-navigate-s-7heresdk22DataAttributesAccessorC8getValueyAA0b9AttributeF0CSgSSF" class="token"><code>getValue(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -647,12 +639,14 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func getValue ( _ name : String ) -> DataAttributeValue ?
+  public func getValue(_ name: String) -> DataAttributeValue?
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-dataattributevalue">DataAttributeValue</a>
 
   </div>
 
@@ -691,7 +685,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      addOrReplace(name: value: )
+   <span id="sdk-for-ios-navigate-s-7heresdk22DataAttributesAccessorC12addOrReplace4name5valueySS_SStF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-addOrReplace-name-value" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-dataattributesaccessor#sdk-for-ios-navigate-s-7heresdk22DataAttributesAccessorC12addOrReplace4name5valueySS_SStF" class="token"><code>addOrReplace(name:</code><wbr></wbr><code>value:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -722,10 +716,8 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func addOrReplace ( name : String , value : String )
+  public func addOrReplace(name: String, value: String)
   ```
-
-  </pre>
 
   </div>
 
@@ -764,7 +756,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      addOrReplace(name: value: )
+   <span id="sdk-for-ios-navigate-s-7heresdk22DataAttributesAccessorC12addOrReplace4name5valueySS_s5Int64VtF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-addOrReplace-name-value" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-dataattributesaccessor#sdk-for-ios-navigate-s-7heresdk22DataAttributesAccessorC12addOrReplace4name5valueySS_s5Int64VtF" class="token"><code>addOrReplace(name:</code><wbr></wbr><code>value:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -795,10 +787,8 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func addOrReplace ( name : String , value : Int64 )
+  public func addOrReplace(name: String, value: Int64)
   ```
-
-  </pre>
 
   </div>
 
@@ -837,7 +827,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      addOrReplace(name: value: )
+   <span id="sdk-for-ios-navigate-s-7heresdk22DataAttributesAccessorC12addOrReplace4name5valueySS_SftF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-addOrReplace-name-value" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-dataattributesaccessor#sdk-for-ios-navigate-s-7heresdk22DataAttributesAccessorC12addOrReplace4name5valueySS_SftF" class="token"><code>addOrReplace(name:</code><wbr></wbr><code>value:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -868,10 +858,8 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func addOrReplace ( name : String , value : Float )
+  public func addOrReplace(name: String, value: Float)
   ```
-
-  </pre>
 
   </div>
 
@@ -910,7 +898,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      addOrReplace(name: value: )
+   <span id="sdk-for-ios-navigate-s-7heresdk22DataAttributesAccessorC12addOrReplace4name5valueySS_SdtF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-addOrReplace-name-value" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-dataattributesaccessor#sdk-for-ios-navigate-s-7heresdk22DataAttributesAccessorC12addOrReplace4name5valueySS_SdtF" class="token"><code>addOrReplace(name:</code><wbr></wbr><code>value:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -941,10 +929,8 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func addOrReplace ( name : String , value : Double )
+  public func addOrReplace(name: String, value: Double)
   ```
-
-  </pre>
 
   </div>
 
@@ -983,7 +969,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      addOrReplace(name: value: )
+   <span id="sdk-for-ios-navigate-s-7heresdk22DataAttributesAccessorC12addOrReplace4name5valueySS_SbtF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-addOrReplace-name-value" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-dataattributesaccessor#sdk-for-ios-navigate-s-7heresdk22DataAttributesAccessorC12addOrReplace4name5valueySS_SbtF" class="token"><code>addOrReplace(name:</code><wbr></wbr><code>value:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1014,10 +1000,8 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func addOrReplace ( name : String , value : Bool )
+  public func addOrReplace(name: String, value: Bool)
   ```
-
-  </pre>
 
   </div>
 
@@ -1056,7 +1040,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      addOrReplace(name: value: )
+   <span id="sdk-for-ios-navigate-s-7heresdk22DataAttributesAccessorC12addOrReplace4name5valueySS_So7UIColorCtF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-addOrReplace-name-value" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-dataattributesaccessor#sdk-for-ios-navigate-s-7heresdk22DataAttributesAccessorC12addOrReplace4name5valueySS_So7UIColorCtF" class="token"><code>addOrReplace(name:</code><wbr></wbr><code>value:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1087,10 +1071,8 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func addOrReplace ( name : String , value : UIColor )
+  public func addOrReplace(name: String, value: UIColor)
   ```
-
-  </pre>
 
   </div>
 
@@ -1129,7 +1111,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      addOrReplace(name: value: )
+   <span id="sdk-for-ios-navigate-s-7heresdk22DataAttributesAccessorC12addOrReplace4name5valueySS_AA0B14AttributeValueCtF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-addOrReplace-name-value" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-dataattributesaccessor#sdk-for-ios-navigate-s-7heresdk22DataAttributesAccessorC12addOrReplace4name5valueySS_AA0B14AttributeValueCtF" class="token"><code>addOrReplace(name:</code><wbr></wbr><code>value:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1160,12 +1142,14 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func addOrReplace ( name : String , value : DataAttributeValue )
+  public func addOrReplace(name: String, value: DataAttributeValue)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-dataattributevalue">DataAttributeValue</a>
 
   </div>
 
@@ -1202,7 +1186,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      remove(name: )
+   <span id="sdk-for-ios-navigate-s-7heresdk22DataAttributesAccessorC6remove4nameySS_tF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-remove-name" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-dataattributesaccessor#sdk-for-ios-navigate-s-7heresdk22DataAttributesAccessorC6remove4nameySS_tF" class="token"><code>remove(name:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1233,10 +1217,8 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func remove ( name : String )
+  public func remove(name: String)
   ```
-
-  </pre>
 
   </div>
 
@@ -1269,7 +1251,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      removeAll()
+   <span id="sdk-for-ios-navigate-s-7heresdk22DataAttributesAccessorC9removeAllyyF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-removeAll" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-dataattributesaccessor#sdk-for-ios-navigate-s-7heresdk22DataAttributesAccessorC9removeAllyyF" class="token"><code>removeAll()</code></a> 
 
   </div>
 
@@ -1300,10 +1282,8 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func removeAll ()
+  public func removeAll()
   ```
-
-  </pre>
 
   </div>
 

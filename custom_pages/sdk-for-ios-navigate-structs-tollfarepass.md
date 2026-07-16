@@ -27,7 +27,7 @@ public struct TollFarePass : Hashable
 
 - <div>
 
-  ` `<span id="/s:7heresdk12TollFarePassV13returnJourneySbSgvp"></span>` `<span id="//apple_ref/swift/Property/returnJourney" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-tollfarepass#/s:7heresdk12TollFarePassV13returnJourneySbSgvp" class="token"><code>returnJourney</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12TollFarePassV13returnJourneySbSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-returnJourney" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-tollfarepass#sdk-for-ios-navigate-s-7heresdk12TollFarePassV13returnJourneySbSgvp" class="token"><code>returnJourney</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ public struct TollFarePass : Hashable
 
 - <div>
 
-  ` `<span id="/s:7heresdk12TollFarePassV14validityPeriodAA0cd8ValidityF0VSgvp"></span>` `<span id="//apple_ref/swift/Property/validityPeriod" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-tollfarepass#/s:7heresdk12TollFarePassV14validityPeriodAA0cd8ValidityF0VSgvp" class="token"><code>validityPeriod</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12TollFarePassV14validityPeriodAA0cd8ValidityF0VSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-validityPeriod" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-tollfarepass#sdk-for-ios-navigate-s-7heresdk12TollFarePassV14validityPeriodAA0cd8ValidityF0VSgvp" class="token"><code>validityPeriod</code></a> 
 
   </div>
 
@@ -107,6 +107,10 @@ public struct TollFarePass : Hashable
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-farepassvalidityperiod">FarePassValidityPeriod</a>
+
   </div>
 
   </div>
@@ -115,7 +119,7 @@ public struct TollFarePass : Hashable
 
 - <div>
 
-  ` `<span id="/s:7heresdk12TollFarePassV7travelss5Int32VSgvp"></span>` `<span id="//apple_ref/swift/Property/travels" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-tollfarepass#/s:7heresdk12TollFarePassV7travelss5Int32VSgvp" class="token"><code>travels</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12TollFarePassV7travelss5Int32VSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-travels" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-tollfarepass#sdk-for-ios-navigate-s-7heresdk12TollFarePassV7travelss5Int32VSgvp" class="token"><code>travels</code></a> 
 
   </div>
 
@@ -159,7 +163,7 @@ public struct TollFarePass : Hashable
 
 - <div>
 
-  ` `<span id="/s:7heresdk12TollFarePassV9transferss5Int32VSgvp"></span>` `<span id="//apple_ref/swift/Property/transfers" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-tollfarepass#/s:7heresdk12TollFarePassV9transferss5Int32VSgvp" class="token"><code>transfers</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12TollFarePassV9transferss5Int32VSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-transfers" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-tollfarepass#sdk-for-ios-navigate-s-7heresdk12TollFarePassV9transferss5Int32VSgvp" class="token"><code>transfers</code></a> 
 
   </div>
 
@@ -203,7 +207,7 @@ public struct TollFarePass : Hashable
 
 - <div>
 
-  ` `<span id="/s:7heresdk12TollFarePassV06seniorD0SbSgvp"></span>` `<span id="//apple_ref/swift/Property/seniorPass" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-tollfarepass#/s:7heresdk12TollFarePassV06seniorD0SbSgvp" class="token"><code>seniorPass</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12TollFarePassV06seniorD0SbSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-seniorPass" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-tollfarepass#sdk-for-ios-navigate-s-7heresdk12TollFarePassV06seniorD0SbSgvp" class="token"><code>seniorPass</code></a> 
 
   </div>
 
@@ -247,7 +251,7 @@ public struct TollFarePass : Hashable
 
 - <div>
 
-      init(returnJourney: validityPeriod: travels: transfers: seniorPass: )
+   <span id="sdk-for-ios-navigate-s-7heresdk12TollFarePassV13returnJourney14validityPeriod7travels9transfers06seniorD0ACSbSg_AA0cd8ValidityH0VSgs5Int32VSgAoItcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-returnJourney-validityPeriod-travels-transfers-seniorPass" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-tollfarepass#sdk-for-ios-navigate-s-7heresdk12TollFarePassV13returnJourney14validityPeriod7travels9transfers06seniorD0ACSbSg_AA0cd8ValidityH0VSgs5Int32VSgAoItcfc" class="token"><code>init(returnJourney:</code><wbr></wbr><code>validityPeriod:</code><wbr></wbr><code>travels:</code><wbr></wbr><code>transfers:</code><wbr></wbr><code>seniorPass:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -278,12 +282,14 @@ public struct TollFarePass : Hashable
   Swift
 
   ``` highlight
-  public init ( returnJourney : Bool ? = nil , validityPeriod : FarePassValidityPeriod ? = nil , travels : Int32 ? = nil , transfers : Int32 ? = nil , seniorPass : Bool ? = nil )
+  public init(returnJourney: Bool? = nil, validityPeriod: FarePassValidityPeriod? = nil, travels: Int32? = nil, transfers: Int32? = nil, seniorPass: Bool? = nil)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-farepassvalidityperiod">FarePassValidityPeriod</a>
 
   </div>
 

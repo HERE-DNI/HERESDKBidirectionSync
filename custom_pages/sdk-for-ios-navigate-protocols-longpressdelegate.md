@@ -27,7 +27,7 @@ Protocol for handling long-press gestures. Long-press gesture occurs after tappi
 
 - <div>
 
-      onLongPress(state: origin: )
+   <span id="sdk-for-ios-navigate-s-7heresdk17LongPressDelegateP02onbC05state6originyAA12GestureStateO_AA7Point2DVtF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-onLongPress-state-origin" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-protocols-longpressdelegate#sdk-for-ios-navigate-s-7heresdk17LongPressDelegateP02onbC05state6originyAA12GestureStateO_AA7Point2DVtF" class="token"><code>onLongPress(state:</code><wbr></wbr><code>origin:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -58,12 +58,15 @@ Protocol for handling long-press gestures. Long-press gesture occurs after tappi
   Swift
 
   ``` highlight
-  func onLongPress ( state : GestureState , origin : Point2D )
+  func onLongPress(state: GestureState, origin: Point2D)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-gesturestate">GestureState</a>
+  - <a href="sdk-for-ios-navigate-structs-point2d">Point2D</a>
 
   </div>
 

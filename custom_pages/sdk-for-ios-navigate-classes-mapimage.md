@@ -37,7 +37,7 @@ It is recommended to associate a resource with a single `MapImage` instance in o
 
 - <div>
 
-      init(pixelData: imageFormat: )
+   <span id="sdk-for-ios-navigate-s-7heresdk8MapImageC9pixelData11imageFormatAC10Foundation0E0V_AA0cG0Otcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-pixelData-imageFormat" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapimage#sdk-for-ios-navigate-s-7heresdk8MapImageC9pixelData11imageFormatAC10Foundation0E0V_AA0cG0Otcfc" class="token"><code>init(pixelData:</code><wbr></wbr><code>imageFormat:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -55,7 +55,7 @@ It is recommended to associate a resource with a single `MapImage` instance in o
 
   <div class="abstract">
 
-  Creates a new map image from the provided image data. Currently only <a href="sdk-for-ios-navigate-enums-imageformat#/s:7heresdk11ImageFormatO3pngyA2CmF">`ImageFormat.png`</a> is accepted.
+  Creates a new map image from the provided image data. Currently only <a href="sdk-for-ios-navigate-enums-imageformat#sdk-for-ios-navigate-s-7heresdk11ImageFormatO3pngyA2CmF">`ImageFormat.png`</a> is accepted.
 
   </div>
 
@@ -68,12 +68,14 @@ It is recommended to associate a resource with a single `MapImage` instance in o
   Swift
 
   ``` highlight
-  public init ( pixelData : Data , imageFormat : ImageFormat )
+  public init(pixelData: Data, imageFormat: ImageFormat)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-imageformat">ImageFormat</a>
 
   </div>
 
@@ -110,7 +112,7 @@ It is recommended to associate a resource with a single `MapImage` instance in o
 
 - <div>
 
-      init(imageData: imageFormat: width: height: )
+   <span id="sdk-for-ios-navigate-s-7heresdk8MapImageC9imageData0D6Format5width6heightAC10Foundation0E0V_AA0cF0Os6UInt32VANtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-imageData-imageFormat-width-height" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapimage#sdk-for-ios-navigate-s-7heresdk8MapImageC9imageData0D6Format5width6heightAC10Foundation0E0V_AA0cF0Os6UInt32VANtcfc" class="token"><code>init(imageData:</code><wbr></wbr><code>imageFormat:</code><wbr></wbr><code>width:</code><wbr></wbr><code>height:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -141,12 +143,14 @@ It is recommended to associate a resource with a single `MapImage` instance in o
   Swift
 
   ``` highlight
-  public init ( imageData : Data , imageFormat : ImageFormat , width : UInt32 , height : UInt32 )
+  public init(imageData: Data, imageFormat: ImageFormat, width: UInt32, height: UInt32)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-imageformat">ImageFormat</a>
 
   </div>
 
@@ -163,7 +167,7 @@ It is recommended to associate a resource with a single `MapImage` instance in o
   <tr>
   <td><code> </code><em><code>imageData</code></em><code> </code></td>
   <td><div>
-  <p>Data to be used for the image. For image format <a href="sdk-for-ios-navigate-enums-imageformat#/s:7heresdk11ImageFormatO3svgyA2CmF"><code>ImageFormat.svg</code></a> the bytes of a UTF-8 encoded string in SVG Tiny format are expected. For the format specification see <a href="https://www.w3.org/TR/SVGTiny12">https://www.w3.org/TR/SVGTiny12</a></p>
+  <p>Data to be used for the image. For image format <a href="sdk-for-ios-navigate-enums-imageformat#sdk-for-ios-navigate-s-7heresdk11ImageFormatO3svgyA2CmF"><code>ImageFormat.svg</code></a> the bytes of a UTF-8 encoded string in SVG Tiny format are expected. For the format specification see <a href="https://www.w3.org/TR/SVGTiny12">https://www.w3.org/TR/SVGTiny12</a></p>
   </div></td>
   </tr>
   <tr>
@@ -195,7 +199,7 @@ It is recommended to associate a resource with a single `MapImage` instance in o
 
 - <div>
 
-      init(filePath: width: height: )
+   <span id="sdk-for-ios-navigate-s-7heresdk8MapImageC8filePath5width6heightACSS_s6UInt32VAHtKcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-filePath-width-height" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapimage#sdk-for-ios-navigate-s-7heresdk8MapImageC8filePath5width6heightACSS_s6UInt32VAHtKcfc" class="token"><code>init(filePath:</code><wbr></wbr><code>width:</code><wbr></wbr><code>height:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -235,7 +239,7 @@ It is recommended to associate a resource with a single `MapImage` instance in o
 
   Throws
 
-  <a href="sdk-for-ios-navigate-core#/s:7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
+  <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
 
   </div>
 
@@ -250,10 +254,8 @@ It is recommended to associate a resource with a single `MapImage` instance in o
   Swift
 
   ``` highlight
-  public init ( filePath : String , width : UInt32 , height : UInt32 ) throws
+  public init(filePath: String, width: UInt32, height: UInt32) throws
   ```
-
-  </pre>
 
   </div>
 
@@ -298,7 +300,7 @@ It is recommended to associate a resource with a single `MapImage` instance in o
 
 - <div>
 
-      init(from: )
+   <span id="sdk-for-ios-navigate-s-7heresdk8MapImageC4fromACSgSo7UIImageC_tKcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-from" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapimage#sdk-for-ios-navigate-s-7heresdk8MapImageC4fromACSgSo7UIImageC_tKcfc" class="token"><code>init(from:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -337,10 +339,8 @@ It is recommended to associate a resource with a single `MapImage` instance in o
   Swift
 
   ``` highlight
-  public convenience init ?( from uiImage : UIImage ) throws
+  public convenience init?(from uiImage: UIImage) throws
   ```
-
-  </pre>
 
   </div>
 
@@ -373,7 +373,7 @@ It is recommended to associate a resource with a single `MapImage` instance in o
 
 - <div>
 
-      init(named: width: height: in: )
+   <span id="sdk-for-ios-navigate-s-7heresdk8MapImageC5named5width6height2inACSS_s5Int32VAISo8NSBundleCSgtKcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-named-width-height-in" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapimage#sdk-for-ios-navigate-s-7heresdk8MapImageC5named5width6height2inACSS_s5Int32VAISo8NSBundleCSgtKcfc" class="token"><code>init(named:</code><wbr></wbr><code>width:</code><wbr></wbr><code>height:</code><wbr></wbr><code>in:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -412,10 +412,8 @@ It is recommended to associate a resource with a single `MapImage` instance in o
   Swift
 
   ``` highlight
-  public convenience init ( named name : String , width : Int32 , height : Int32 , in bundle : Bundle ? = nil ) throws
+  public convenience init(named name: String, width: Int32, height: Int32, in bundle: Bundle? = nil) throws
   ```
-
-  </pre>
 
   </div>
 

@@ -17,7 +17,7 @@ public struct RealisticViewRasterImage : Hashable
 
 </div>
 
-A realistic view. The fields describing the realistic view are <a href="sdk-for-ios-navigate-structs-realisticviewrasterimage#/s:7heresdk24RealisticViewRasterImageV09realisticc3PngE7Content10Foundation4DataVvp">`RealisticViewRasterImage.realisticViewPngImageContent`</a> contains a PNG image of the realistic view and is represented as binary data. `RealisticViewRasterImage.realisticViewType` indicates the type of the realistic view. A valid realistic view contains a non-empty <a href="sdk-for-ios-navigate-structs-realisticviewrasterimage#/s:7heresdk24RealisticViewRasterImageV09realisticc3PngE7Content10Foundation4DataVvp">`RealisticViewRasterImage.realisticViewPngImageContent`</a>. Use `RealisticViewWarningListener` to get notifications with the realistic views of the upcoming realistic view.
+A realistic view. The fields describing the realistic view are <a href="sdk-for-ios-navigate-structs-realisticviewrasterimage#sdk-for-ios-navigate-s-7heresdk24RealisticViewRasterImageV09realisticc3PngE7Content10Foundation4DataVvp">`RealisticViewRasterImage.realisticViewPngImageContent`</a> contains a PNG image of the realistic view and is represented as binary data. `RealisticViewRasterImage.realisticViewType` indicates the type of the realistic view. A valid realistic view contains a non-empty <a href="sdk-for-ios-navigate-structs-realisticviewrasterimage#sdk-for-ios-navigate-s-7heresdk24RealisticViewRasterImageV09realisticc3PngE7Content10Foundation4DataVvp">`RealisticViewRasterImage.realisticViewPngImageContent`</a>. Use `RealisticViewWarningListener` to get notifications with the realistic views of the upcoming realistic view.
 
 </div>
 
@@ -27,7 +27,7 @@ A realistic view. The fields describing the realistic view are <a href="sdk-for-
 
 - <div>
 
-  ` `<span id="/s:7heresdk24RealisticViewRasterImageV09realisticc3PngE7Content10Foundation4DataVvp"></span>` `<span id="//apple_ref/swift/Property/realisticViewPngImageContent" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-realisticviewrasterimage#/s:7heresdk24RealisticViewRasterImageV09realisticc3PngE7Content10Foundation4DataVvp" class="token"><code>realisticViewPngImageContent</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk24RealisticViewRasterImageV09realisticc3PngE7Content10Foundation4DataVvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-realisticViewPngImageContent" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-realisticviewrasterimage#sdk-for-ios-navigate-s-7heresdk24RealisticViewRasterImageV09realisticc3PngE7Content10Foundation4DataVvp" class="token"><code>realisticViewPngImageContent</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ A realistic view. The fields describing the realistic view are <a href="sdk-for-
 
 - <div>
 
-      init(realisticViewPngImageContent: )
+   <span id="sdk-for-ios-navigate-s-7heresdk24RealisticViewRasterImageV09realisticc3PngE7ContentAC10Foundation4DataV_tcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-realisticViewPngImageContent" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-realisticviewrasterimage#sdk-for-ios-navigate-s-7heresdk24RealisticViewRasterImageV09realisticc3PngE7ContentAC10Foundation4DataV_tcfc" class="token"><code>init(realisticViewPngImageContent:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -102,10 +102,8 @@ A realistic view. The fields describing the realistic view are <a href="sdk-for-
   Swift
 
   ``` highlight
-  public init ( realisticViewPngImageContent : Data )
+  public init(realisticViewPngImageContent: Data)
   ```
-
-  </pre>
 
   </div>
 

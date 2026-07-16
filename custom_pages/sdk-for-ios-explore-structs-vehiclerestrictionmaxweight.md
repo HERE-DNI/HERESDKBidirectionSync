@@ -27,7 +27,7 @@ public struct VehicleRestrictionMaxWeight : Hashable
 
 - <div>
 
-  ` `<span id="/s:7heresdk27VehicleRestrictionMaxWeightV16valueInKilogramss5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/valueInKilograms" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-vehiclerestrictionmaxweight#/s:7heresdk27VehicleRestrictionMaxWeightV16valueInKilogramss5Int32Vvp" class="token"><code>valueInKilograms</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk27VehicleRestrictionMaxWeightV16valueInKilogramss5Int32Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-valueInKilograms" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-vehiclerestrictionmaxweight#sdk-for-ios-explore-s-7heresdk27VehicleRestrictionMaxWeightV16valueInKilogramss5Int32Vvp" class="token"><code>valueInKilograms</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ public struct VehicleRestrictionMaxWeight : Hashable
 
 - <div>
 
-  ` `<span id="/s:7heresdk27VehicleRestrictionMaxWeightV4typeAA0bcdE4TypeOvp"></span>` `<span id="//apple_ref/swift/Property/type" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-vehiclerestrictionmaxweight#/s:7heresdk27VehicleRestrictionMaxWeightV4typeAA0bcdE4TypeOvp" class="token"><code>type</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk27VehicleRestrictionMaxWeightV4typeAA0bcdE4TypeOvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-type" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-vehiclerestrictionmaxweight#sdk-for-ios-explore-s-7heresdk27VehicleRestrictionMaxWeightV4typeAA0bcdE4TypeOvp" class="token"><code>type</code></a> 
 
   </div>
 
@@ -107,6 +107,10 @@ public struct VehicleRestrictionMaxWeight : Hashable
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-vehiclerestrictionmaxweighttype">VehicleRestrictionMaxWeightType</a>
+
   </div>
 
   </div>
@@ -115,7 +119,7 @@ public struct VehicleRestrictionMaxWeight : Hashable
 
 - <div>
 
-      init(valueInKilograms: type: )
+   <span id="sdk-for-ios-explore-s-7heresdk27VehicleRestrictionMaxWeightV16valueInKilograms4typeACs5Int32V_AA0bcdE4TypeOtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-valueInKilograms-type" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-vehiclerestrictionmaxweight#sdk-for-ios-explore-s-7heresdk27VehicleRestrictionMaxWeightV16valueInKilograms4typeACs5Int32V_AA0bcdE4TypeOtcfc" class="token"><code>init(valueInKilograms:</code><wbr></wbr><code>type:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -146,12 +150,14 @@ public struct VehicleRestrictionMaxWeight : Hashable
   Swift
 
   ``` highlight
-  public init ( valueInKilograms : Int32 , type : VehicleRestrictionMaxWeightType )
+  public init(valueInKilograms: Int32, type: VehicleRestrictionMaxWeightType)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-vehiclerestrictionmaxweighttype">VehicleRestrictionMaxWeightType</a>
 
   </div>
 

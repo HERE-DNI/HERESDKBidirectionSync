@@ -27,7 +27,7 @@ Defines statistics related to the success or failure of patched bundles. It can 
 
 - <div>
 
-  ` `<span id="/s:7heresdk16UpdateStatisticsV26totalPatchedBundlesSuccesss6UInt64Vvp"></span>` `<span id="//apple_ref/swift/Property/totalPatchedBundlesSuccess" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-updatestatistics#/s:7heresdk16UpdateStatisticsV26totalPatchedBundlesSuccesss6UInt64Vvp" class="token"><code>totalPatchedBundlesSuccess</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16UpdateStatisticsV26totalPatchedBundlesSuccesss6UInt64Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-totalPatchedBundlesSuccess" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-updatestatistics#sdk-for-ios-navigate-s-7heresdk16UpdateStatisticsV26totalPatchedBundlesSuccesss6UInt64Vvp" class="token"><code>totalPatchedBundlesSuccess</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Defines statistics related to the success or failure of patched bundles. It can 
 
 - <div>
 
-  ` `<span id="/s:7heresdk16UpdateStatisticsV23totalPatchedBundlesFails6UInt64Vvp"></span>` `<span id="//apple_ref/swift/Property/totalPatchedBundlesFail" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-updatestatistics#/s:7heresdk16UpdateStatisticsV23totalPatchedBundlesFails6UInt64Vvp" class="token"><code>totalPatchedBundlesFail</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16UpdateStatisticsV23totalPatchedBundlesFails6UInt64Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-totalPatchedBundlesFail" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-updatestatistics#sdk-for-ios-navigate-s-7heresdk16UpdateStatisticsV23totalPatchedBundlesFails6UInt64Vvp" class="token"><code>totalPatchedBundlesFail</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Defines statistics related to the success or failure of patched bundles. It can 
 
 - <div>
 
-      init(totalPatchedBundlesSuccess: totalPatchedBundlesFail: )
+   <span id="sdk-for-ios-navigate-s-7heresdk16UpdateStatisticsV26totalPatchedBundlesSuccess0deF4FailACs6UInt64V_AGtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-totalPatchedBundlesSuccess-totalPatchedBundlesFail" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-updatestatistics#sdk-for-ios-navigate-s-7heresdk16UpdateStatisticsV26totalPatchedBundlesSuccess0deF4FailACs6UInt64V_AGtcfc" class="token"><code>init(totalPatchedBundlesSuccess:</code><wbr></wbr><code>totalPatchedBundlesFail:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -146,10 +146,8 @@ Defines statistics related to the success or failure of patched bundles. It can 
   Swift
 
   ``` highlight
-  public init ( totalPatchedBundlesSuccess : UInt64 = 0 , totalPatchedBundlesFail : UInt64 = 0 )
+  public init(totalPatchedBundlesSuccess: UInt64 = 0, totalPatchedBundlesFail: UInt64 = 0)
   ```
-
-  </pre>
 
   </div>
 

@@ -37,7 +37,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-  ` `<span id="/s:7heresdk15PointDataSourceC0bC9Processora"></span>` `<span id="//apple_ref/swift/Alias/PointDataProcessor" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-pointdatasource#/s:7heresdk15PointDataSourceC0bC9Processora" class="token"><code>PointDataProcessor</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15PointDataSourceC0bC9Processora"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Alias-PointDataProcessor" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-pointdatasource#sdk-for-ios-navigate-s-7heresdk15PointDataSourceC0bC9Processora" class="token"><code>PointDataProcessor</code></a> 
 
   </div>
 
@@ -68,12 +68,14 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public typealias PointDataProcessor = ( _ pointAccessor : PointDataAccessor ) -> Bool
+  public typealias PointDataProcessor = (_ pointAccessor: PointDataAccessor) -> Bool
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-pointdataaccessor">PointDataAccessor</a>
 
   </div>
 
@@ -112,7 +114,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      add(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk15PointDataSourceC3addyyAA0bC0CF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-add-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-pointdatasource#sdk-for-ios-navigate-s-7heresdk15PointDataSourceC3addyyAA0bC0CF" class="token"><code>add(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -143,12 +145,14 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func add ( _ point : PointData )
+  public func add(_ point: PointData)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-maps#sdk-for-ios-navigate-s-7heresdk9PointDataC">PointData</a>
 
   </div>
 
@@ -179,7 +183,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      add(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk15PointDataSourceC3addyySayAA0bC0CGF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-add-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-pointdatasource#sdk-for-ios-navigate-s-7heresdk15PointDataSourceC3addyySayAA0bC0CGF" class="token"><code>add(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -210,12 +214,14 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func add ( _ points : [ PointData ])
+  public func add(_ points: [PointData])
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-maps#sdk-for-ios-navigate-s-7heresdk9PointDataC">PointData</a>
 
   </div>
 
@@ -246,7 +252,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      removeAll()
+   <span id="sdk-for-ios-navigate-s-7heresdk15PointDataSourceC9removeAllyyF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-removeAll" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-pointdatasource#sdk-for-ios-navigate-s-7heresdk15PointDataSourceC9removeAllyyF" class="token"><code>removeAll()</code></a> 
 
   </div>
 
@@ -277,10 +283,8 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func removeAll ()
+  public func removeAll()
   ```
-
-  </pre>
 
   </div>
 
@@ -292,7 +296,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      forEach(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk15PointDataSourceC7forEachyySbAA0bC8AccessorCcF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-forEach-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-pointdatasource#sdk-for-ios-navigate-s-7heresdk15PointDataSourceC7forEachyySbAA0bC8AccessorCcF" class="token"><code>forEach(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -325,12 +329,14 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func forEach ( _ processor : @escaping PointDataSource . PointDataProcessor )
+  public func forEach(_ processor: @escaping PointDataSource.PointDataProcessor)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-pointdatasource#sdk-for-ios-navigate-s-7heresdk15PointDataSourceC0bC9Processora">PointDataProcessor</a>
 
   </div>
 
@@ -361,7 +367,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      removeIf(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk15PointDataSourceC8removeIfyySbAA0bC8AccessorCcF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-removeIf-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-pointdatasource#sdk-for-ios-navigate-s-7heresdk15PointDataSourceC8removeIfyySbAA0bC8AccessorCcF" class="token"><code>removeIf(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -392,12 +398,14 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func removeIf ( _ processor : @escaping PointDataSource . PointDataProcessor )
+  public func removeIf(_ processor: @escaping PointDataSource.PointDataProcessor)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-pointdatasource#sdk-for-ios-navigate-s-7heresdk15PointDataSourceC0bC9Processora">PointDataProcessor</a>
 
   </div>
 

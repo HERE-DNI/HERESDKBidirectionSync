@@ -27,7 +27,7 @@ Available charging connector types.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21ChargingConnectorTypeO18iec62196Type1ComboyA2CmF"></span>` `<span id="//apple_ref/swift/Element/iec62196Type1Combo" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-chargingconnectortype#/s:7heresdk21ChargingConnectorTypeO18iec62196Type1ComboyA2CmF" class="token"><code>iec62196Type1Combo</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk21ChargingConnectorTypeO18iec62196Type1ComboyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-iec62196Type1Combo" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-chargingconnectortype#sdk-for-ios-explore-s-7heresdk21ChargingConnectorTypeO18iec62196Type1ComboyA2CmF" class="token"><code>iec62196Type1Combo</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Available charging connector types.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21ChargingConnectorTypeO18iec62196Type2ComboyA2CmF"></span>` `<span id="//apple_ref/swift/Element/iec62196Type2Combo" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-chargingconnectortype#/s:7heresdk21ChargingConnectorTypeO18iec62196Type2ComboyA2CmF" class="token"><code>iec62196Type2Combo</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk21ChargingConnectorTypeO18iec62196Type2ComboyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-iec62196Type2Combo" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-chargingconnectortype#sdk-for-ios-explore-s-7heresdk21ChargingConnectorTypeO18iec62196Type2ComboyA2CmF" class="token"><code>iec62196Type2Combo</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Available charging connector types.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21ChargingConnectorTypeO7chademoyA2CmF"></span>` `<span id="//apple_ref/swift/Element/chademo" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-chargingconnectortype#/s:7heresdk21ChargingConnectorTypeO7chademoyA2CmF" class="token"><code>chademo</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk21ChargingConnectorTypeO7chademoyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-chademo" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-chargingconnectortype#sdk-for-ios-explore-s-7heresdk21ChargingConnectorTypeO7chademoyA2CmF" class="token"><code>chademo</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Available charging connector types.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21ChargingConnectorTypeO5teslayA2CmF"></span>` `<span id="//apple_ref/swift/Element/tesla" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-chargingconnectortype#/s:7heresdk21ChargingConnectorTypeO5teslayA2CmF" class="token"><code>tesla</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk21ChargingConnectorTypeO5teslayA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-tesla" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-chargingconnectortype#sdk-for-ios-explore-s-7heresdk21ChargingConnectorTypeO5teslayA2CmF" class="token"><code>tesla</code></a> 
 
   </div>
 
@@ -203,7 +203,7 @@ Available charging connector types.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21ChargingConnectorTypeO5gbtDcyA2CmF"></span>` `<span id="//apple_ref/swift/Element/gbtDc" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-chargingconnectortype#/s:7heresdk21ChargingConnectorTypeO5gbtDcyA2CmF" class="token"><code>gbtDc</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk21ChargingConnectorTypeO5gbtDcyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-gbtDc" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-chargingconnectortype#sdk-for-ios-explore-s-7heresdk21ChargingConnectorTypeO5gbtDcyA2CmF" class="token"><code>gbtDc</code></a> 
 
   </div>
 
@@ -247,7 +247,7 @@ Available charging connector types.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21ChargingConnectorTypeO8saeJ3400yA2CmF"></span>` `<span id="//apple_ref/swift/Element/saeJ3400" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-chargingconnectortype#/s:7heresdk21ChargingConnectorTypeO8saeJ3400yA2CmF" class="token"><code>saeJ3400</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk21ChargingConnectorTypeO8saeJ3400yA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-saeJ3400" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-chargingconnectortype#sdk-for-ios-explore-s-7heresdk21ChargingConnectorTypeO8saeJ3400yA2CmF" class="token"><code>saeJ3400</code></a> 
 
   </div>
 
@@ -291,7 +291,7 @@ Available charging connector types.
 
 - <div>
 
-  ` `<span id="/s:s12CaseIterableP8allCases03AllD0QzvpZ"></span>` `<span id="//apple_ref/swift/Variable/allCases" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-chargingconnectortype#/s:s12CaseIterableP8allCases03AllD0QzvpZ" class="token"><code>allCases</code></a>` `
+   <span id="sdk-for-ios-explore-s-s12CaseIterableP8allCases03AllD0QzvpZ"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Variable-allCases" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-chargingconnectortype#sdk-for-ios-explore-s-s12CaseIterableP8allCases03AllD0QzvpZ" class="token"><code>allCases</code></a> 
 
   </div>
 
@@ -333,7 +333,7 @@ Available charging connector types.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21ChargingConnectorTypeO3KeyO"></span>` `<span id="//apple_ref/swift/Enum/Key" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-chargingconnectortype#/s:7heresdk21ChargingConnectorTypeO3KeyO" class="token"><code>Key</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk21ChargingConnectorTypeO3KeyO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-Key" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-chargingconnectortype#sdk-for-ios-explore-s-7heresdk21ChargingConnectorTypeO3KeyO" class="token"><code>Key</code></a> 
 
   </div>
 
@@ -379,7 +379,7 @@ Available charging connector types.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21ChargingConnectorTypeO11CodingErrorO"></span>` `<span id="//apple_ref/swift/Enum/CodingError" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-chargingconnectortype#/s:7heresdk21ChargingConnectorTypeO11CodingErrorO" class="token"><code>CodingError</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk21ChargingConnectorTypeO11CodingErrorO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-CodingError" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-chargingconnectortype#sdk-for-ios-explore-s-7heresdk21ChargingConnectorTypeO11CodingErrorO" class="token"><code>CodingError</code></a> 
 
   </div>
 
@@ -425,7 +425,7 @@ Available charging connector types.
 
 - <div>
 
-      init(from: )
+   <span id="sdk-for-ios-explore-s-7heresdk21ChargingConnectorTypeO4fromACs7Decoder_p_tKcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-from" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-chargingconnectortype#sdk-for-ios-explore-s-7heresdk21ChargingConnectorTypeO4fromACs7Decoder_p_tKcfc" class="token"><code>init(from:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -456,10 +456,8 @@ Available charging connector types.
   Swift
 
   ``` highlight
-  public init ( from decoder : Decoder ) throws
+  public init(from decoder: Decoder) throws
   ```
-
-  </pre>
 
   </div>
 
@@ -471,7 +469,7 @@ Available charging connector types.
 
 - <div>
 
-      encode(to: )
+   <span id="sdk-for-ios-explore-s-7heresdk21ChargingConnectorTypeO6encode2toys7Encoder_p_tKF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-encode-to" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-chargingconnectortype#sdk-for-ios-explore-s-7heresdk21ChargingConnectorTypeO6encode2toys7Encoder_p_tKF" class="token"><code>encode(to:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -502,10 +500,8 @@ Available charging connector types.
   Swift
 
   ``` highlight
-  public func encode ( to encoder : Encoder ) throws
+  public func encode(to encoder: Encoder) throws
   ```
-
-  </pre>
 
   </div>
 

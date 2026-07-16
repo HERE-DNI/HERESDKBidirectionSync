@@ -27,7 +27,7 @@ Specifies the side of street on which the destination is located.
 
 - <div>
 
-  ` `<span id="/s:7heresdk17SideOfDestinationO9undefinedyA2CmF"></span>` `<span id="//apple_ref/swift/Element/undefined" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-sideofdestination#/s:7heresdk17SideOfDestinationO9undefinedyA2CmF" class="token"><code>undefined</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17SideOfDestinationO9undefinedyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-undefined" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-sideofdestination#sdk-for-ios-explore-s-7heresdk17SideOfDestinationO9undefinedyA2CmF" class="token"><code>undefined</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Specifies the side of street on which the destination is located.
 
 - <div>
 
-  ` `<span id="/s:7heresdk17SideOfDestinationO4leftyA2CmF"></span>` `<span id="//apple_ref/swift/Element/left" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-sideofdestination#/s:7heresdk17SideOfDestinationO4leftyA2CmF" class="token"><code>left</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17SideOfDestinationO4leftyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-left" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-sideofdestination#sdk-for-ios-explore-s-7heresdk17SideOfDestinationO4leftyA2CmF" class="token"><code>left</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Specifies the side of street on which the destination is located.
 
 - <div>
 
-  ` `<span id="/s:7heresdk17SideOfDestinationO5rightyA2CmF"></span>` `<span id="//apple_ref/swift/Element/right" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-sideofdestination#/s:7heresdk17SideOfDestinationO5rightyA2CmF" class="token"><code>right</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17SideOfDestinationO5rightyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-right" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-sideofdestination#sdk-for-ios-explore-s-7heresdk17SideOfDestinationO5rightyA2CmF" class="token"><code>right</code></a> 
 
   </div>
 

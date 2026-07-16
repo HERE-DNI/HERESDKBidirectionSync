@@ -23,6 +23,10 @@ extension TrackingCameraBehavior.ZoomPolicy: Hashable
 
 </div>
 
+Related types:
+
+- <a href="sdk-for-ios-explore-classes-trackingcamerabehavior">TrackingCameraBehavior</a>
+
 </div>
 
 Defines zoom behavior in different policy settings.
@@ -37,7 +41,7 @@ Note: This is a beta feature; there maybe bugs and unexpected behavior. Related 
 
 - <div>
 
-      makeFixedZoomPolicy(zoomLevel: )
+   <span id="sdk-for-ios-explore-s-7heresdk22TrackingCameraBehaviorC10ZoomPolicyC09makeFixedeF09zoomLevelAESd_tFZ"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-makeFixedZoomPolicy-zoomLevel" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-trackingcamerabehavior-zoompolicy#sdk-for-ios-explore-s-7heresdk22TrackingCameraBehaviorC10ZoomPolicyC09makeFixedeF09zoomLevelAESd_tFZ" class="token"><code>makeFixedZoomPolicy(zoomLevel:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -68,12 +72,14 @@ Note: This is a beta feature; there maybe bugs and unexpected behavior. Related 
   Swift
 
   ``` highlight
-  public static func makeFixedZoomPolicy ( zoomLevel : Double ) -> TrackingCameraBehavior . ZoomPolicy
+  public static func makeFixedZoomPolicy(zoomLevel: Double) -> TrackingCameraBehavior.ZoomPolicy
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-trackingcamerabehavior">TrackingCameraBehavior</a>
 
   </div>
 
@@ -112,7 +118,7 @@ Note: This is a beta feature; there maybe bugs and unexpected behavior. Related 
 
 - <div>
 
-      makeFunctionalRoadClassZoomPolicy(options: )
+   <span id="sdk-for-ios-explore-s-7heresdk22TrackingCameraBehaviorC10ZoomPolicyC023makeFunctionalRoadClasseF07optionsAeC0hijeF7OptionsV_tFZ"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-makeFunctionalRoadClassZoomPolicy-options" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-trackingcamerabehavior-zoompolicy#sdk-for-ios-explore-s-7heresdk22TrackingCameraBehaviorC10ZoomPolicyC023makeFunctionalRoadClasseF07optionsAeC0hijeF7OptionsV_tFZ" class="token"><code>makeFunctionalRoadClassZoomPolicy(options:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -143,12 +149,15 @@ Note: This is a beta feature; there maybe bugs and unexpected behavior. Related 
   Swift
 
   ``` highlight
-  public static func makeFunctionalRoadClassZoomPolicy ( options : TrackingCameraBehavior . FunctionalRoadClassZoomPolicyOptions ) -> TrackingCameraBehavior . ZoomPolicy
+  public static func makeFunctionalRoadClassZoomPolicy(options: TrackingCameraBehavior.FunctionalRoadClassZoomPolicyOptions) -> TrackingCameraBehavior.ZoomPolicy
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-trackingcamerabehavior">TrackingCameraBehavior</a>
+  - <a href="sdk-for-ios-explore-classes-trackingcamerabehavior-functionalroadclasszoompolicyoptions">FunctionalRoadClassZoomPolicyOptions</a>
 
   </div>
 
@@ -187,7 +196,7 @@ Note: This is a beta feature; there maybe bugs and unexpected behavior. Related 
 
 - <div>
 
-      makeSpeedBasedZoomPolicy(options: )
+   <span id="sdk-for-ios-explore-s-7heresdk22TrackingCameraBehaviorC10ZoomPolicyC014makeSpeedBasedeF07optionsAeC0hieF7OptionsV_tFZ"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-makeSpeedBasedZoomPolicy-options" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-trackingcamerabehavior-zoompolicy#sdk-for-ios-explore-s-7heresdk22TrackingCameraBehaviorC10ZoomPolicyC014makeSpeedBasedeF07optionsAeC0hieF7OptionsV_tFZ" class="token"><code>makeSpeedBasedZoomPolicy(options:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -218,12 +227,15 @@ Note: This is a beta feature; there maybe bugs and unexpected behavior. Related 
   Swift
 
   ``` highlight
-  public static func makeSpeedBasedZoomPolicy ( options : TrackingCameraBehavior . SpeedBasedZoomPolicyOptions ) -> TrackingCameraBehavior . ZoomPolicy
+  public static func makeSpeedBasedZoomPolicy(options: TrackingCameraBehavior.SpeedBasedZoomPolicyOptions) -> TrackingCameraBehavior.ZoomPolicy
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-trackingcamerabehavior">TrackingCameraBehavior</a>
+  - <a href="sdk-for-ios-explore-classes-trackingcamerabehavior-speedbasedzoompolicyoptions">SpeedBasedZoomPolicyOptions</a>
 
   </div>
 

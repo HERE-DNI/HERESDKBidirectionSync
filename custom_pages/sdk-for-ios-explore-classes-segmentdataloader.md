@@ -37,7 +37,7 @@ Provides the protocol for the access to the segments data available in the local
 
 - <div>
 
-      init()
+   <span id="sdk-for-ios-explore-s-7heresdk17SegmentDataLoaderCACyKcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-segmentdataloader#sdk-for-ios-explore-s-7heresdk17SegmentDataLoaderCACyKcfc" class="token"><code>init()</code></a> 
 
   </div>
 
@@ -61,7 +61,7 @@ Provides the protocol for the access to the segments data available in the local
 
   Throws
 
-  <a href="sdk-for-ios-explore-core#/s:7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
+  <a href="sdk-for-ios-explore-core#sdk-for-ios-explore-s-7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
 
   </div>
 
@@ -76,10 +76,8 @@ Provides the protocol for the access to the segments data available in the local
   Swift
 
   ``` highlight
-  public init () throws
+  public init() throws
   ```
-
-  </pre>
 
   </div>
 
@@ -91,7 +89,7 @@ Provides the protocol for the access to the segments data available in the local
 
 - <div>
 
-      init(sdkEngine: )
+   <span id="sdk-for-ios-explore-s-7heresdk17SegmentDataLoaderC9sdkEngineAcA09SDKNativeF0C_tKcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-sdkEngine" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-segmentdataloader#sdk-for-ios-explore-s-7heresdk17SegmentDataLoaderC9sdkEngineAcA09SDKNativeF0C_tKcfc" class="token"><code>init(sdkEngine:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -115,7 +113,7 @@ Provides the protocol for the access to the segments data available in the local
 
   Throws
 
-  <a href="sdk-for-ios-explore-core#/s:7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
+  <a href="sdk-for-ios-explore-core#sdk-for-ios-explore-s-7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
 
   </div>
 
@@ -130,12 +128,14 @@ Provides the protocol for the access to the segments data available in the local
   Swift
 
   ``` highlight
-  public init ( sdkEngine : SDKNativeEngine ) throws
+  public init(sdkEngine: SDKNativeEngine) throws
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-sdknativeengine">SDKNativeEngine</a>
 
   </div>
 
@@ -166,7 +166,7 @@ Provides the protocol for the access to the segments data available in the local
 
 - <div>
 
-      getSegmentsAroundCoordinates(_: radiusInMeters: )
+   <span id="sdk-for-ios-explore-s-7heresdk17SegmentDataLoaderC28getSegmentsAroundCoordinates_14radiusInMetersSayAA12OCMSegmentIdVGAA03GeoH0V_SdtKF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-getSegmentsAroundCoordinates-_-radiusInMeters" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-segmentdataloader#sdk-for-ios-explore-s-7heresdk17SegmentDataLoaderC28getSegmentsAroundCoordinates_14radiusInMetersSayAA12OCMSegmentIdVGAA03GeoH0V_SdtKF" class="token"><code>getSegmentsAroundCoordinates(_:</code><wbr></wbr><code>radiusInMeters:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -190,7 +190,7 @@ Provides the protocol for the access to the segments data available in the local
 
   Throws
 
-  <a href="sdk-for-ios-explore-mapdata#/s:7heresdk18MapDataLoaderErrora">`MapDataLoaderError`</a> Specifies reason, why list of a list of segments is not returned.
+  <a href="sdk-for-ios-explore-mapdata#sdk-for-ios-explore-s-7heresdk18MapDataLoaderErrora">`MapDataLoaderError`</a> Specifies reason, why list of a list of segments is not returned.
 
   </div>
 
@@ -205,12 +205,15 @@ Provides the protocol for the access to the segments data available in the local
   Swift
 
   ``` highlight
-  public func getSegmentsAroundCoordinates ( _ coordinates : GeoCoordinates , radiusInMeters : Double ) throws -> [ OCMSegmentId ]
+  public func getSegmentsAroundCoordinates(_ coordinates: GeoCoordinates, radiusInMeters: Double) throws -> [OCMSegmentId]
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geocoordinates">GeoCoordinates</a>
+  - <a href="sdk-for-ios-explore-structs-ocmsegmentid">OCMSegmentId</a>
 
   </div>
 
@@ -255,7 +258,7 @@ Provides the protocol for the access to the segments data available in the local
 
 - <div>
 
-      loadData(segment: options: )
+   <span id="sdk-for-ios-explore-s-7heresdk17SegmentDataLoaderC04loadC07segment7optionsAA0bC0CAA12OCMSegmentIdV_AA0bcD7OptionsVtKF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-loadData-segment-options" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-segmentdataloader#sdk-for-ios-explore-s-7heresdk17SegmentDataLoaderC04loadC07segment7optionsAA0bC0CAA12OCMSegmentIdV_AA0bcD7OptionsVtKF" class="token"><code>loadData(segment:</code><wbr></wbr><code>options:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -279,7 +282,7 @@ Provides the protocol for the access to the segments data available in the local
 
   Throws
 
-  <a href="sdk-for-ios-explore-mapdata#/s:7heresdk18MapDataLoaderErrora">`MapDataLoaderError`</a> Specifies reason, why list of data of a segment is not returned.
+  <a href="sdk-for-ios-explore-mapdata#sdk-for-ios-explore-s-7heresdk18MapDataLoaderErrora">`MapDataLoaderError`</a> Specifies reason, why list of data of a segment is not returned.
 
   </div>
 
@@ -294,12 +297,16 @@ Provides the protocol for the access to the segments data available in the local
   Swift
 
   ``` highlight
-  public func loadData ( segment : OCMSegmentId , options : SegmentDataLoaderOptions ) throws -> SegmentData
+  public func loadData(segment: OCMSegmentId, options: SegmentDataLoaderOptions) throws -> SegmentData
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-ocmsegmentid">OCMSegmentId</a>
+  - <a href="sdk-for-ios-explore-structs-segmentdataloaderoptions">SegmentDataLoaderOptions</a>
+  - <a href="sdk-for-ios-explore-classes-segmentdata">SegmentData</a>
 
   </div>
 
@@ -344,7 +351,7 @@ Provides the protocol for the access to the segments data available in the local
 
 - <div>
 
-      loadDirectedSegmentData(segment: options: )
+   <span id="sdk-for-ios-explore-s-7heresdk17SegmentDataLoaderC012loadDirectedbC07segment7optionsAA0bC0CAA0F12OCMSegmentIdV_AA0bcD7OptionsVtKF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-loadDirectedSegmentData-segment-options" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-segmentdataloader#sdk-for-ios-explore-s-7heresdk17SegmentDataLoaderC012loadDirectedbC07segment7optionsAA0bC0CAA0F12OCMSegmentIdV_AA0bcD7OptionsVtKF" class="token"><code>loadDirectedSegmentData(segment:</code><wbr></wbr><code>options:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -368,7 +375,7 @@ Provides the protocol for the access to the segments data available in the local
 
   Throws
 
-  <a href="sdk-for-ios-explore-mapdata#/s:7heresdk18MapDataLoaderErrora">`MapDataLoaderError`</a> Specifies reason, why list of data of a segment is not returned.
+  <a href="sdk-for-ios-explore-mapdata#sdk-for-ios-explore-s-7heresdk18MapDataLoaderErrora">`MapDataLoaderError`</a> Specifies reason, why list of data of a segment is not returned.
 
   </div>
 
@@ -383,12 +390,16 @@ Provides the protocol for the access to the segments data available in the local
   Swift
 
   ``` highlight
-  public func loadDirectedSegmentData ( segment : DirectedOCMSegmentId , options : SegmentDataLoaderOptions ) throws -> SegmentData
+  public func loadDirectedSegmentData(segment: DirectedOCMSegmentId, options: SegmentDataLoaderOptions) throws -> SegmentData
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-directedocmsegmentid">DirectedOCMSegmentId</a>
+  - <a href="sdk-for-ios-explore-structs-segmentdataloaderoptions">SegmentDataLoaderOptions</a>
+  - <a href="sdk-for-ios-explore-classes-segmentdata">SegmentData</a>
 
   </div>
 
@@ -433,7 +444,7 @@ Provides the protocol for the access to the segments data available in the local
 
 - <div>
 
-      downloadFile(fileReferences: downloadingOptions: )
+   <span id="sdk-for-ios-explore-s-7heresdk17SegmentDataLoaderC12downloadFile14fileReferences18downloadingOptionsSay10Foundation0C0VGSayAA0F9ReferenceVG_AA011DownloadingfJ0VtKF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-downloadFile-fileReferences-downloadingOptions" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-segmentdataloader#sdk-for-ios-explore-s-7heresdk17SegmentDataLoaderC12downloadFile14fileReferences18downloadingOptionsSay10Foundation0C0VGSayAA0F9ReferenceVG_AA011DownloadingfJ0VtKF" class="token"><code>downloadFile(fileReferences:</code><wbr></wbr><code>downloadingOptions:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -457,7 +468,7 @@ Provides the protocol for the access to the segments data available in the local
 
   Throws
 
-  <a href="sdk-for-ios-explore-mapdata#/s:7heresdk18MapDataLoaderErrora">`MapDataLoaderError`</a> Specifies reason, why list of data of a segment is not returned.
+  <a href="sdk-for-ios-explore-mapdata#sdk-for-ios-explore-s-7heresdk18MapDataLoaderErrora">`MapDataLoaderError`</a> Specifies reason, why list of data of a segment is not returned.
 
   </div>
 
@@ -472,12 +483,15 @@ Provides the protocol for the access to the segments data available in the local
   Swift
 
   ``` highlight
-  public func downloadFile ( fileReferences : [ FileReference ], downloadingOptions : DownloadingFileOptions ) throws -> [ Data ]
+  public func downloadFile(fileReferences: [FileReference], downloadingOptions: DownloadingFileOptions) throws -> [Data]
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-filereference">FileReference</a>
+  - <a href="sdk-for-ios-explore-structs-downloadingfileoptions">DownloadingFileOptions</a>
 
   </div>
 

@@ -37,7 +37,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      getCoordinates()
+   <span id="sdk-for-ios-navigate-s-7heresdk17PointDataAccessorC14getCoordinatesAA03GeoF0VyF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-getCoordinates" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-pointdataaccessor#sdk-for-ios-navigate-s-7heresdk17PointDataAccessorC14getCoordinatesAA03GeoF0VyF" class="token"><code>getCoordinates()</code></a> 
 
   </div>
 
@@ -68,12 +68,14 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func getCoordinates () -> GeoCoordinates
+  public func getCoordinates() -> GeoCoordinates
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-geocoordinates">GeoCoordinates</a>
 
   </div>
 
@@ -91,7 +93,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      getAttributes()
+   <span id="sdk-for-ios-navigate-s-7heresdk17PointDataAccessorC13getAttributesAA0cfD0CyF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-getAttributes" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-pointdataaccessor#sdk-for-ios-navigate-s-7heresdk17PointDataAccessorC13getAttributesAA0cfD0CyF" class="token"><code>getAttributes()</code></a> 
 
   </div>
 
@@ -122,12 +124,14 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func getAttributes () -> DataAttributesAccessor
+  public func getAttributes() -> DataAttributesAccessor
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-dataattributesaccessor">DataAttributesAccessor</a>
 
   </div>
 
@@ -145,7 +149,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      setCoordinates(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk17PointDataAccessorC14setCoordinatesyyAA03GeoF0VF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-setCoordinates-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-pointdataaccessor#sdk-for-ios-navigate-s-7heresdk17PointDataAccessorC14setCoordinatesyyAA03GeoF0VF" class="token"><code>setCoordinates(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -176,12 +180,14 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func setCoordinates ( _ position : GeoCoordinates )
+  public func setCoordinates(_ position: GeoCoordinates)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-geocoordinates">GeoCoordinates</a>
 
   </div>
 
@@ -212,7 +218,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      setAttributes(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk17PointDataAccessorC13setAttributesyyAA0cF0CF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-setAttributes-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-pointdataaccessor#sdk-for-ios-navigate-s-7heresdk17PointDataAccessorC13setAttributesyyAA0cF0CF" class="token"><code>setAttributes(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -243,12 +249,14 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func setAttributes ( _ attributes : DataAttributes )
+  public func setAttributes(_ attributes: DataAttributes)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-dataattributes">DataAttributes</a>
 
   </div>
 

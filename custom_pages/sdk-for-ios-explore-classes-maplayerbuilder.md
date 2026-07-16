@@ -52,10 +52,20 @@ A new layer called ‘zone’ and its category ‘background’ can be added dyn
 This could be achieved with the help of the MapLayerPriorityBuilder and the MapLayerBuilder as in the following example:
 
 ``` highlight
-let layerPriority = MapLayerPriorityBuilder () . renderedAfterLayer ( named : "water" ) // places main category after 'water' . withCategory ( "background" ) . renderedAfterLayer ( named : "water" ) // places 'background' category after 'water' and before the // layer's main category. . build (); let layer = MapLayerBuilder () . withDataSource ( named : "DataSourceName" , contentType : MapContentType . line ) . forMap ( map ) . withName ( "zone" ) . withPriority ( layerPriority ) . build ();
-```
+  let layerPriority = MapLayerPriorityBuilder()
+     .renderedAfterLayer(named: "water") // places main category after 'water'
+     .withCategory("background")
+     .renderedAfterLayer(named: "water") // places 'background' category after 'water' and before the
+                                         // layer's main category.
+     .build();
 
-</pre>
+  let layer = MapLayerBuilder()
+     .withDataSource(named: "DataSourceName", contentType: MapContentType.line)
+     .forMap(map)
+     .withName("zone")
+     .withPriority(layerPriority)
+     .build();
+```
 
 In case no layer priority or an empty one is provided, or if a reference layer-category pair is not present in the rendering order, the layer is going to be rendered last with respect to the rendering order at the time of its creation.
 
@@ -73,7 +83,7 @@ Due to current limitations, the MapLayerPriority assignment is not implemented f
 
 - <div>
 
-  ` `<span id="/s:7heresdk15MapLayerBuilderC18InstantiationErrora"></span>` `<span id="//apple_ref/swift/Alias/InstantiationError" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-maplayerbuilder#/s:7heresdk15MapLayerBuilderC18InstantiationErrora" class="token"><code>InstantiationError</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15MapLayerBuilderC18InstantiationErrora"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Alias-InstantiationError" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-maplayerbuilder#sdk-for-ios-explore-s-7heresdk15MapLayerBuilderC18InstantiationErrora" class="token"><code>InstantiationError</code></a> 
 
   </div>
 
@@ -109,6 +119,10 @@ Due to current limitations, the MapLayerPriority assignment is not implemented f
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-maplayerbuilder-instantiationerrordetails">InstantiationErrorDetails</a>
+
   </div>
 
   </div>
@@ -117,7 +131,7 @@ Due to current limitations, the MapLayerPriority assignment is not implemented f
 
 - <div>
 
-      init()
+   <span id="sdk-for-ios-explore-s-7heresdk15MapLayerBuilderCACycfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-maplayerbuilder#sdk-for-ios-explore-s-7heresdk15MapLayerBuilderCACycfc" class="token"><code>init()</code></a> 
 
   </div>
 
@@ -148,10 +162,8 @@ Due to current limitations, the MapLayerPriority assignment is not implemented f
   Swift
 
   ``` highlight
-  public init ()
+  public init()
   ```
-
-  </pre>
 
   </div>
 
@@ -163,7 +175,7 @@ Due to current limitations, the MapLayerPriority assignment is not implemented f
 
 - <div>
 
-  ` `<span id="/s:7heresdk15MapLayerBuilderC22InstantiationErrorCodeO"></span>` `<span id="//apple_ref/swift/Enum/InstantiationErrorCode" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-maplayerbuilder#/s:7heresdk15MapLayerBuilderC22InstantiationErrorCodeO" class="token"><code>InstantiationErrorCode</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15MapLayerBuilderC22InstantiationErrorCodeO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-InstantiationErrorCode" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-maplayerbuilder#sdk-for-ios-explore-s-7heresdk15MapLayerBuilderC22InstantiationErrorCodeO" class="token"><code>InstantiationErrorCode</code></a> 
 
   </div>
 
@@ -209,7 +221,7 @@ Due to current limitations, the MapLayerPriority assignment is not implemented f
 
 - <div>
 
-  ` `<span id="/s:7heresdk15MapLayerBuilderC25InstantiationErrorDetailsV"></span>` `<span id="//apple_ref/swift/Struct/InstantiationErrorDetails" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-maplayerbuilder#/s:7heresdk15MapLayerBuilderC25InstantiationErrorDetailsV" class="token"><code>InstantiationErrorDetails</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15MapLayerBuilderC25InstantiationErrorDetailsV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-InstantiationErrorDetails" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-maplayerbuilder#sdk-for-ios-explore-s-7heresdk15MapLayerBuilderC25InstantiationErrorDetailsV" class="token"><code>InstantiationErrorDetails</code></a> 
 
   </div>
 
@@ -251,6 +263,10 @@ Due to current limitations, the MapLayerPriority assignment is not implemented f
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-maplayerbuilder">MapLayerBuilder</a>
+
   </div>
 
   </div>
@@ -259,7 +275,7 @@ Due to current limitations, the MapLayerPriority assignment is not implemented f
 
 - <div>
 
-      withName(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk15MapLayerBuilderC8withNameyACSSF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-withName-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-maplayerbuilder#sdk-for-ios-explore-s-7heresdk15MapLayerBuilderC8withNameyACSSF" class="token"><code>withName(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -290,10 +306,8 @@ Due to current limitations, the MapLayerPriority assignment is not implemented f
   Swift
 
   ``` highlight
-  public func withName ( _ name : String ) -> MapLayerBuilder
+  public func withName(_ name: String) -> MapLayerBuilder
   ```
-
-  </pre>
 
   </div>
 
@@ -334,7 +348,7 @@ Due to current limitations, the MapLayerPriority assignment is not implemented f
 
 - <div>
 
-      withDataSource(named: contentType: )
+   <span id="sdk-for-ios-explore-s-7heresdk15MapLayerBuilderC14withDataSource5named11contentTypeACSS_AA0b7ContentJ0OtF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-withDataSource-named-contentType" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-maplayerbuilder#sdk-for-ios-explore-s-7heresdk15MapLayerBuilderC14withDataSource5named11contentTypeACSS_AA0b7ContentJ0OtF" class="token"><code>withDataSource(named:</code><wbr></wbr><code>contentType:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -365,12 +379,14 @@ Due to current limitations, the MapLayerPriority assignment is not implemented f
   Swift
 
   ``` highlight
-  public func withDataSource ( named dataSourceName : String , contentType : MapContentType ) -> MapLayerBuilder
+  public func withDataSource(named dataSourceName: String, contentType: MapContentType) -> MapLayerBuilder
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-mapcontenttype">MapContentType</a>
 
   </div>
 
@@ -415,7 +431,7 @@ Due to current limitations, the MapLayerPriority assignment is not implemented f
 
 - <div>
 
-      withStyle(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk15MapLayerBuilderC9withStyleyAcA0F0CF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-withStyle-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-maplayerbuilder#sdk-for-ios-explore-s-7heresdk15MapLayerBuilderC9withStyleyAcA0F0CF" class="token"><code>withStyle(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -446,12 +462,14 @@ Due to current limitations, the MapLayerPriority assignment is not implemented f
   Swift
 
   ``` highlight
-  public func withStyle ( _ style : Style ) -> MapLayerBuilder
+  public func withStyle(_ style: Style) -> MapLayerBuilder
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-style">Style</a>
 
   </div>
 
@@ -490,7 +508,7 @@ Due to current limitations, the MapLayerPriority assignment is not implemented f
 
 - <div>
 
-      forMap(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk15MapLayerBuilderC03forB0yAcA04HereB0CF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-forMap-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-maplayerbuilder#sdk-for-ios-explore-s-7heresdk15MapLayerBuilderC03forB0yAcA04HereB0CF" class="token"><code>forMap(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -521,12 +539,14 @@ Due to current limitations, the MapLayerPriority assignment is not implemented f
   Swift
 
   ``` highlight
-  public func forMap ( _ targetMap : HereMap ) -> MapLayerBuilder
+  public func forMap(_ targetMap: HereMap) -> MapLayerBuilder
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-heremap">HereMap</a>
 
   </div>
 
@@ -565,7 +585,7 @@ Due to current limitations, the MapLayerPriority assignment is not implemented f
 
 - <div>
 
-      withPriority(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk15MapLayerBuilderC12withPriorityyAcA0bcF0CF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-withPriority-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-maplayerbuilder#sdk-for-ios-explore-s-7heresdk15MapLayerBuilderC12withPriorityyAcA0bcF0CF" class="token"><code>withPriority(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -596,12 +616,14 @@ Due to current limitations, the MapLayerPriority assignment is not implemented f
   Swift
 
   ``` highlight
-  public func withPriority ( _ priority : MapLayerPriority ) -> MapLayerBuilder
+  public func withPriority(_ priority: MapLayerPriority) -> MapLayerBuilder
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk16MapLayerPriorityC">MapLayerPriority</a>
 
   </div>
 
@@ -640,7 +662,7 @@ Due to current limitations, the MapLayerPriority assignment is not implemented f
 
 - <div>
 
-      withVisibilityRange(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk15MapLayerBuilderC19withVisibilityRangeyAcA0bcfG0VF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-withVisibilityRange-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-maplayerbuilder#sdk-for-ios-explore-s-7heresdk15MapLayerBuilderC19withVisibilityRangeyAcA0bcfG0VF" class="token"><code>withVisibilityRange(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -671,12 +693,14 @@ Due to current limitations, the MapLayerPriority assignment is not implemented f
   Swift
 
   ``` highlight
-  public func withVisibilityRange ( _ visibilityRange : MapLayerVisibilityRange ) -> MapLayerBuilder
+  public func withVisibilityRange(_ visibilityRange: MapLayerVisibilityRange) -> MapLayerBuilder
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-maplayervisibilityrange">MapLayerVisibilityRange</a>
 
   </div>
 
@@ -715,7 +739,7 @@ Due to current limitations, the MapLayerPriority assignment is not implemented f
 
 - <div>
 
-      withMapMeasureDependentStorageLevels(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk15MapLayerBuilderC04withB29MeasureDependentStorageLevelsyAcA0bcbfghI0CF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-withMapMeasureDependentStorageLevels-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-maplayerbuilder#sdk-for-ios-explore-s-7heresdk15MapLayerBuilderC04withB29MeasureDependentStorageLevelsyAcA0bcbfghI0CF" class="token"><code>withMapMeasureDependentStorageLevels(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -746,12 +770,14 @@ Due to current limitations, the MapLayerPriority assignment is not implemented f
   Swift
 
   ``` highlight
-  public func withMapMeasureDependentStorageLevels ( _ mapLayerMapMeasureDependentStorageLevels : MapLayerMapMeasureDependentStorageLevels ) -> MapLayerBuilder
+  public func withMapMeasureDependentStorageLevels(_ mapLayerMapMeasureDependentStorageLevels: MapLayerMapMeasureDependentStorageLevels) -> MapLayerBuilder
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-maplayermapmeasuredependentstoragelevels">MapLayerMapMeasureDependentStorageLevels</a>
 
   </div>
 
@@ -790,7 +816,7 @@ Due to current limitations, the MapLayerPriority assignment is not implemented f
 
 - <div>
 
-      withLoadPriority(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk15MapLayerBuilderC16withLoadPriorityyACSdF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-withLoadPriority-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-maplayerbuilder#sdk-for-ios-explore-s-7heresdk15MapLayerBuilderC16withLoadPriorityyACSdF" class="token"><code>withLoadPriority(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -821,10 +847,8 @@ Due to current limitations, the MapLayerPriority assignment is not implemented f
   Swift
 
   ``` highlight
-  public func withLoadPriority ( _ loadPriority : Double ) -> MapLayerBuilder
+  public func withLoadPriority(_ loadPriority: Double) -> MapLayerBuilder
   ```
-
-  </pre>
 
   </div>
 
@@ -865,7 +889,7 @@ Due to current limitations, the MapLayerPriority assignment is not implemented f
 
 - <div>
 
-      build()
+   <span id="sdk-for-ios-explore-s-7heresdk15MapLayerBuilderC5buildAA0bC0CyKF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-build" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-maplayerbuilder#sdk-for-ios-explore-s-7heresdk15MapLayerBuilderC5buildAA0bC0CyKF" class="token"><code>build()</code></a> 
 
   </div>
 
@@ -889,7 +913,7 @@ Due to current limitations, the MapLayerPriority assignment is not implemented f
 
   Throws
 
-  <a href="sdk-for-ios-explore-classes-maplayerbuilder#/s:7heresdk15MapLayerBuilderC18InstantiationErrora">`MapLayerBuilder.InstantiationError`</a> Indicates an instantiation issue.
+  <a href="sdk-for-ios-explore-classes-maplayerbuilder#sdk-for-ios-explore-s-7heresdk15MapLayerBuilderC18InstantiationErrora">`MapLayerBuilder.InstantiationError`</a> Indicates an instantiation issue.
 
   </div>
 
@@ -904,12 +928,14 @@ Due to current limitations, the MapLayerPriority assignment is not implemented f
   Swift
 
   ``` highlight
-  public func build () throws -> MapLayer
+  public func build() throws -> MapLayer
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-maplayer">MapLayer</a>
 
   </div>
 

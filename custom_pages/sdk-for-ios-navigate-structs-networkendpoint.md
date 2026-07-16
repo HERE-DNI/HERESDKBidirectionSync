@@ -27,7 +27,7 @@ Network endpoint.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15NetworkEndpointV7address0B09IPAddress_pvp"></span>` `<span id="//apple_ref/swift/Property/address" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-networkendpoint#/s:7heresdk15NetworkEndpointV7address0B09IPAddress_pvp" class="token"><code>address</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15NetworkEndpointV7address0B09IPAddress_pvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-address" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-networkendpoint#sdk-for-ios-navigate-s-7heresdk15NetworkEndpointV7address0B09IPAddress_pvp" class="token"><code>address</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Network endpoint.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15NetworkEndpointV4ports6UInt16VSgvp"></span>` `<span id="//apple_ref/swift/Property/port" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-networkendpoint#/s:7heresdk15NetworkEndpointV4ports6UInt16VSgvp" class="token"><code>port</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15NetworkEndpointV4ports6UInt16VSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-port" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-networkendpoint#sdk-for-ios-navigate-s-7heresdk15NetworkEndpointV4ports6UInt16VSgvp" class="token"><code>port</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Network endpoint.
 
 - <div>
 
-      init(address: port: )
+   <span id="sdk-for-ios-navigate-s-7heresdk15NetworkEndpointV7address4portAC0B09IPAddress_p_s6UInt16VSgtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-address-port" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-networkendpoint#sdk-for-ios-navigate-s-7heresdk15NetworkEndpointV7address4portAC0B09IPAddress_p_s6UInt16VSgtcfc" class="token"><code>init(address:</code><wbr></wbr><code>port:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -146,10 +146,8 @@ Network endpoint.
   Swift
 
   ``` highlight
-  public init ( address : IPAddress , port : UInt16 ?)
+  public init(address: IPAddress, port: UInt16?)
   ```
-
-  </pre>
 
   </div>
 
@@ -161,7 +159,7 @@ Network endpoint.
 
 - <div>
 
-      init(address: )
+   <span id="sdk-for-ios-navigate-s-7heresdk15NetworkEndpointV7addressAC0B09IPAddress_p_tcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-address" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-networkendpoint#sdk-for-ios-navigate-s-7heresdk15NetworkEndpointV7addressAC0B09IPAddress_p_tcfc" class="token"><code>init(address:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -192,10 +190,8 @@ Network endpoint.
   Swift
 
   ``` highlight
-  public init ( address : IPAddress )
+  public init(address: IPAddress)
   ```
-
-  </pre>
 
   </div>
 
@@ -207,7 +203,7 @@ Network endpoint.
 
 - <div>
 
-      ==(_: _: )
+   <span id="sdk-for-ios-navigate-s-7heresdk15NetworkEndpointV2eeoiySbAC_ACtFZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-_-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-networkendpoint#sdk-for-ios-navigate-s-7heresdk15NetworkEndpointV2eeoiySbAC_ACtFZ" class="token"><code>==(_:</code><wbr></wbr><code>_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -240,10 +236,8 @@ Network endpoint.
   Swift
 
   ``` highlight
-  static func == ( lhs : NetworkEndpoint , rhs : NetworkEndpoint ) -> Bool
+  static func == (lhs: NetworkEndpoint, rhs: NetworkEndpoint) -> Bool
   ```
-
-  </pre>
 
   </div>
 
@@ -282,7 +276,7 @@ Network endpoint.
 
 - <div>
 
-      hash(into: )
+   <span id="sdk-for-ios-navigate-s-7heresdk15NetworkEndpointV4hash4intoys6HasherVz_tF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-hash-into" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-networkendpoint#sdk-for-ios-navigate-s-7heresdk15NetworkEndpointV4hash4intoys6HasherVz_tF" class="token"><code>hash(into:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -313,10 +307,8 @@ Network endpoint.
   Swift
 
   ``` highlight
-  func hash ( into hasher : inout Hasher )
+  func hash(into hasher: inout Hasher)
   ```
-
-  </pre>
 
   </div>
 

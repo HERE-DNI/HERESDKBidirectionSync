@@ -31,7 +31,7 @@ Map is considered idle when current state is fully rendered and no further redra
 
 - <div>
 
-      onMapBusy()
+   <span id="sdk-for-ios-navigate-s-7heresdk15MapIdleDelegateP02onB4BusyyyF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-onMapBusy" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-protocols-mapidledelegate#sdk-for-ios-navigate-s-7heresdk15MapIdleDelegateP02onB4BusyyyF" class="token"><code>onMapBusy()</code></a> 
 
   </div>
 
@@ -49,12 +49,7 @@ Map is considered idle when current state is fully rendered and no further redra
 
   <div class="abstract">
 
-  Called when map becomes invalidated and is about to be updated. One or more redraws will happen afterwards, until
-
-      onMapIdle(...)
-
-  is called.
-  </p>
+  Called when map becomes invalidated and is about to be updated. One or more redraws will happen afterwards, until <a href="sdk-for-ios-navigate-protocols-mapidledelegate#sdk-for-ios-navigate-s-7heresdk15MapIdleDelegateP02onbC0yyF">`onMapIdle(...)`</a> is called.
 
   </div>
 
@@ -67,10 +62,8 @@ Map is considered idle when current state is fully rendered and no further redra
   Swift
 
   ``` highlight
-  func onMapBusy ()
+  func onMapBusy()
   ```
-
-  </pre>
 
   </div>
 
@@ -82,7 +75,7 @@ Map is considered idle when current state is fully rendered and no further redra
 
 - <div>
 
-      onMapIdle()
+   <span id="sdk-for-ios-navigate-s-7heresdk15MapIdleDelegateP02onbC0yyF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-onMapIdle" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-protocols-mapidledelegate#sdk-for-ios-navigate-s-7heresdk15MapIdleDelegateP02onbC0yyF" class="token"><code>onMapIdle()</code></a> 
 
   </div>
 
@@ -100,12 +93,7 @@ Map is considered idle when current state is fully rendered and no further redra
 
   <div class="abstract">
 
-  Called when map finishes all state updates. No state changes or redraws will happen aftrwards until
-
-      onMapBusy(...)
-
-  is called.
-  </p>
+  Called when map finishes all state updates. No state changes or redraws will happen aftrwards until <a href="sdk-for-ios-navigate-protocols-mapidledelegate#sdk-for-ios-navigate-s-7heresdk15MapIdleDelegateP02onB4BusyyyF">`onMapBusy(...)`</a> is called.
 
   </div>
 
@@ -118,10 +106,8 @@ Map is considered idle when current state is fully rendered and no further redra
   Swift
 
   ``` highlight
-  func onMapIdle ()
+  func onMapIdle()
   ```
-
-  </pre>
 
   </div>
 

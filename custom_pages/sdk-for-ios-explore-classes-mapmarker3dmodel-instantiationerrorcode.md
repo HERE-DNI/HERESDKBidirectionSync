@@ -19,6 +19,10 @@ extension MapMarker3DModel.InstantiationErrorCode : Error
 
 </div>
 
+Related types:
+
+- <a href="sdk-for-ios-explore-classes-mapmarker3dmodel">MapMarker3DModel</a>
+
 </div>
 
 Indicates the reason for a failure to create <a href="sdk-for-ios-explore-classes-mapmarker3dmodel">`MapMarker3DModel`</a>.
@@ -31,7 +35,7 @@ Indicates the reason for a failure to create <a href="sdk-for-ios-explore-classe
 
 - <div>
 
-  ` `<span id="/s:7heresdk16MapMarker3DModelC22InstantiationErrorCodeO25missingTextureCoordinatesyA2EmF"></span>` `<span id="//apple_ref/swift/Element/missingTextureCoordinates" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-mapmarker3dmodel-instantiationerrorcode#/s:7heresdk16MapMarker3DModelC22InstantiationErrorCodeO25missingTextureCoordinatesyA2EmF" class="token"><code>missingTextureCoordinates</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16MapMarker3DModelC22InstantiationErrorCodeO25missingTextureCoordinatesyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-missingTextureCoordinates" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapmarker3dmodel-instantiationerrorcode#sdk-for-ios-explore-s-7heresdk16MapMarker3DModelC22InstantiationErrorCodeO25missingTextureCoordinatesyA2EmF" class="token"><code>missingTextureCoordinates</code></a> 
 
   </div>
 
@@ -49,7 +53,7 @@ Indicates the reason for a failure to create <a href="sdk-for-ios-explore-classe
 
   <div class="abstract">
 
-  The provided <a href="sdk-for-ios-explore-maps#/s:7heresdk4MeshC">`Mesh`</a> does not contain texture coordinates.
+  The provided <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk4MeshC">`Mesh`</a> does not contain texture coordinates.
 
   </div>
 

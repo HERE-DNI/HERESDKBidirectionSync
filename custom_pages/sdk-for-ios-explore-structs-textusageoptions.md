@@ -27,7 +27,7 @@ Specify whether the text should be used when generating notification.
 
 - <div>
 
-  ` `<span id="/s:7heresdk16TextUsageOptionsV10streetNameAA09LocalizedB10PreferenceOvp"></span>` `<span id="//apple_ref/swift/Property/streetName" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-textusageoptions#/s:7heresdk16TextUsageOptionsV10streetNameAA09LocalizedB10PreferenceOvp" class="token"><code>streetName</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16TextUsageOptionsV10streetNameAA09LocalizedB10PreferenceOvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-streetName" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-textusageoptions#sdk-for-ios-explore-s-7heresdk16TextUsageOptionsV10streetNameAA09LocalizedB10PreferenceOvp" class="token"><code>streetName</code></a> 
 
   </div>
 
@@ -45,7 +45,7 @@ Specify whether the text should be used when generating notification.
 
   <div class="abstract">
 
-  An option whether street name should be used when generating notification. Defaults to <a href="sdk-for-ios-explore-enums-localizedtextpreference#/s:7heresdk23LocalizedTextPreferenceO9useAlwaysyA2CmF">`LocalizedTextPreference.useAlways`</a>.
+  An option whether street name should be used when generating notification. Defaults to <a href="sdk-for-ios-explore-enums-localizedtextpreference#sdk-for-ios-explore-s-7heresdk23LocalizedTextPreferenceO9useAlwaysyA2CmF">`LocalizedTextPreference.useAlways`</a>.
 
   </div>
 
@@ -63,6 +63,10 @@ Specify whether the text should be used when generating notification.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-localizedtextpreference">LocalizedTextPreference</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ Specify whether the text should be used when generating notification.
 
 - <div>
 
-  ` `<span id="/s:7heresdk16TextUsageOptionsV10roadNumberAA09LocalizedB10PreferenceOvp"></span>` `<span id="//apple_ref/swift/Property/roadNumber" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-textusageoptions#/s:7heresdk16TextUsageOptionsV10roadNumberAA09LocalizedB10PreferenceOvp" class="token"><code>roadNumber</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16TextUsageOptionsV10roadNumberAA09LocalizedB10PreferenceOvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-roadNumber" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-textusageoptions#sdk-for-ios-explore-s-7heresdk16TextUsageOptionsV10roadNumberAA09LocalizedB10PreferenceOvp" class="token"><code>roadNumber</code></a> 
 
   </div>
 
@@ -89,7 +93,7 @@ Specify whether the text should be used when generating notification.
 
   <div class="abstract">
 
-  An option whether road number should be used when generating notification. Defaults to <a href="sdk-for-ios-explore-enums-localizedtextpreference#/s:7heresdk23LocalizedTextPreferenceO9useAlwaysyA2CmF">`LocalizedTextPreference.useAlways`</a>.
+  An option whether road number should be used when generating notification. Defaults to <a href="sdk-for-ios-explore-enums-localizedtextpreference#sdk-for-ios-explore-s-7heresdk23LocalizedTextPreferenceO9useAlwaysyA2CmF">`LocalizedTextPreference.useAlways`</a>.
 
   </div>
 
@@ -107,6 +111,10 @@ Specify whether the text should be used when generating notification.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-localizedtextpreference">LocalizedTextPreference</a>
+
   </div>
 
   </div>
@@ -115,7 +123,7 @@ Specify whether the text should be used when generating notification.
 
 - <div>
 
-  ` `<span id="/s:7heresdk16TextUsageOptionsV17signpostDirectionAA09LocalizedB10PreferenceOvp"></span>` `<span id="//apple_ref/swift/Property/signpostDirection" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-textusageoptions#/s:7heresdk16TextUsageOptionsV17signpostDirectionAA09LocalizedB10PreferenceOvp" class="token"><code>signpostDirection</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16TextUsageOptionsV17signpostDirectionAA09LocalizedB10PreferenceOvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-signpostDirection" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-textusageoptions#sdk-for-ios-explore-s-7heresdk16TextUsageOptionsV17signpostDirectionAA09LocalizedB10PreferenceOvp" class="token"><code>signpostDirection</code></a> 
 
   </div>
 
@@ -133,7 +141,7 @@ Specify whether the text should be used when generating notification.
 
   <div class="abstract">
 
-  An option whether signpost direction should be used when generating notification. Defaults to <a href="sdk-for-ios-explore-enums-localizedtextpreference#/s:7heresdk23LocalizedTextPreferenceO9useAlwaysyA2CmF">`LocalizedTextPreference.useAlways`</a>.
+  An option whether signpost direction should be used when generating notification. Defaults to <a href="sdk-for-ios-explore-enums-localizedtextpreference#sdk-for-ios-explore-s-7heresdk23LocalizedTextPreferenceO9useAlwaysyA2CmF">`LocalizedTextPreference.useAlways`</a>.
 
   </div>
 
@@ -151,6 +159,10 @@ Specify whether the text should be used when generating notification.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-localizedtextpreference">LocalizedTextPreference</a>
+
   </div>
 
   </div>
@@ -159,7 +171,7 @@ Specify whether the text should be used when generating notification.
 
 - <div>
 
-      init(streetName: roadNumber: signpostDirection: )
+   <span id="sdk-for-ios-explore-s-7heresdk16TextUsageOptionsV10streetName10roadNumber17signpostDirectionAcA09LocalizedB10PreferenceO_A2Htcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-streetName-roadNumber-signpostDirection" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-textusageoptions#sdk-for-ios-explore-s-7heresdk16TextUsageOptionsV10streetName10roadNumber17signpostDirectionAcA09LocalizedB10PreferenceO_A2Htcfc" class="token"><code>init(streetName:</code><wbr></wbr><code>roadNumber:</code><wbr></wbr><code>signpostDirection:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -190,12 +202,14 @@ Specify whether the text should be used when generating notification.
   Swift
 
   ``` highlight
-  public init ( streetName : LocalizedTextPreference = LocalizedTextPreference . useAlways , roadNumber : LocalizedTextPreference = LocalizedTextPreference . useAlways , signpostDirection : LocalizedTextPreference = LocalizedTextPreference . useAlways )
+  public init(streetName: LocalizedTextPreference = LocalizedTextPreference.useAlways, roadNumber: LocalizedTextPreference = LocalizedTextPreference.useAlways, signpostDirection: LocalizedTextPreference = LocalizedTextPreference.useAlways)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-localizedtextpreference">LocalizedTextPreference</a>
 
   </div>
 

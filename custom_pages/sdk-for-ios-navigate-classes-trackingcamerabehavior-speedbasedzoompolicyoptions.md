@@ -17,12 +17,7 @@ public struct SpeedBasedZoomPolicyOptions
 
 </div>
 
-Configuration for computing zoom levels from speed thresholds defined per road classification. For correct default initialization, use
-
-    TrackingCameraBehavior.defaultSpeedBasedZoomPolicyOptions(...)
-
-.
-</p>
+Configuration for computing zoom levels from speed thresholds defined per road classification. For correct default initialization, use <a href="sdk-for-ios-navigate-classes-trackingcamerabehavior#sdk-for-ios-navigate-s-7heresdk22TrackingCameraBehaviorC34defaultSpeedBasedZoomPolicyOptionsAC0fghiJ0VyFZ">`TrackingCameraBehavior.defaultSpeedBasedZoomPolicyOptions(...)`</a>.
 
 </div>
 
@@ -32,7 +27,7 @@ Configuration for computing zoom levels from speed thresholds defined per road c
 
 - <div>
 
-  ` `<span id="/s:7heresdk22TrackingCameraBehaviorC27SpeedBasedZoomPolicyOptionsV28delayBetweenThresholdChangesSdSgvp"></span>` `<span id="//apple_ref/swift/Property/delayBetweenThresholdChanges" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-trackingcamerabehavior-speedbasedzoompolicyoptions#/s:7heresdk22TrackingCameraBehaviorC27SpeedBasedZoomPolicyOptionsV28delayBetweenThresholdChangesSdSgvp" class="token"><code>delayBetweenThresholdChanges</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk22TrackingCameraBehaviorC27SpeedBasedZoomPolicyOptionsV28delayBetweenThresholdChangesSdSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-delayBetweenThresholdChanges" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-trackingcamerabehavior-speedbasedzoompolicyoptions#sdk-for-ios-navigate-s-7heresdk22TrackingCameraBehaviorC27SpeedBasedZoomPolicyOptionsV28delayBetweenThresholdChangesSdSgvp" class="token"><code>delayBetweenThresholdChanges</code></a> 
 
   </div>
 
@@ -50,12 +45,7 @@ Configuration for computing zoom levels from speed thresholds defined per road c
 
   <div class="abstract">
 
-  Minimum time interval that must pass before the zoom level is allowed to switch to a new speed threshold. If
-
-      TrackingCameraBehavior.defaultSpeedBasedZoomPolicyOptions(...)
-
-  is not used for `TrackingCameraBehavior.SpeedBasedZoomPolicyOptions`, it will be `nil`.
-  </p>
+  Minimum time interval that must pass before the zoom level is allowed to switch to a new speed threshold. If <a href="sdk-for-ios-navigate-classes-trackingcamerabehavior#sdk-for-ios-navigate-s-7heresdk22TrackingCameraBehaviorC34defaultSpeedBasedZoomPolicyOptionsAC0fghiJ0VyFZ">`TrackingCameraBehavior.defaultSpeedBasedZoomPolicyOptions(...)`</a> is not used for `TrackingCameraBehavior.SpeedBasedZoomPolicyOptions`, it will be `nil`.
 
   </div>
 
@@ -81,7 +71,7 @@ Configuration for computing zoom levels from speed thresholds defined per road c
 
 - <div>
 
-  ` `<span id="/s:7heresdk22TrackingCameraBehaviorC27SpeedBasedZoomPolicyOptionsV020roadClassificationToE9ThresholdSDyAA04RoadK0OSayAC0eM0VGGvp"></span>` `<span id="//apple_ref/swift/Property/roadClassificationToSpeedThreshold" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-trackingcamerabehavior-speedbasedzoompolicyoptions#/s:7heresdk22TrackingCameraBehaviorC27SpeedBasedZoomPolicyOptionsV020roadClassificationToE9ThresholdSDyAA04RoadK0OSayAC0eM0VGGvp" class="token"><code>roadClassificationToSpeedThreshold</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk22TrackingCameraBehaviorC27SpeedBasedZoomPolicyOptionsV020roadClassificationToE9ThresholdSDyAA04RoadK0OSayAC0eM0VGGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-roadClassificationToSpeedThreshold" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-trackingcamerabehavior-speedbasedzoompolicyoptions#sdk-for-ios-navigate-s-7heresdk22TrackingCameraBehaviorC27SpeedBasedZoomPolicyOptionsV020roadClassificationToE9ThresholdSDyAA04RoadK0OSayAC0eM0VGGvp" class="token"><code>roadClassificationToSpeedThreshold</code></a> 
 
   </div>
 
@@ -99,12 +89,7 @@ Configuration for computing zoom levels from speed thresholds defined per road c
 
   <div class="abstract">
 
-  Defines, per road classification, how the zoom level should change in response to different vehicle speeds. If
-
-      TrackingCameraBehavior.defaultSpeedBasedZoomPolicyOptions(...)
-
-  is not used for `TrackingCameraBehavior.SpeedBasedZoomPolicyOptions`, it will be an empty map.
-  </p>
+  Defines, per road classification, how the zoom level should change in response to different vehicle speeds. If <a href="sdk-for-ios-navigate-classes-trackingcamerabehavior#sdk-for-ios-navigate-s-7heresdk22TrackingCameraBehaviorC34defaultSpeedBasedZoomPolicyOptionsAC0fghiJ0VyFZ">`TrackingCameraBehavior.defaultSpeedBasedZoomPolicyOptions(...)`</a> is not used for `TrackingCameraBehavior.SpeedBasedZoomPolicyOptions`, it will be an empty map.
 
   </div>
 
@@ -122,6 +107,12 @@ Configuration for computing zoom levels from speed thresholds defined per road c
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-roadclassification">RoadClassification</a>
+  - <a href="sdk-for-ios-navigate-classes-trackingcamerabehavior">TrackingCameraBehavior</a>
+  - <a href="sdk-for-ios-navigate-classes-trackingcamerabehavior-speedthreshold">SpeedThreshold</a>
+
   </div>
 
   </div>
@@ -130,7 +121,7 @@ Configuration for computing zoom levels from speed thresholds defined per road c
 
 - <div>
 
-      init(delayBetweenThresholdChanges: roadClassificationToSpeedThreshold: )
+   <span id="sdk-for-ios-navigate-s-7heresdk22TrackingCameraBehaviorC27SpeedBasedZoomPolicyOptionsV28delayBetweenThresholdChanges020roadClassificationToeL0AESdSg_SDyAA04RoadO0OSayAC0eL0VGGtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-delayBetweenThresholdChanges-roadClassificationToSpeedThreshold" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-trackingcamerabehavior-speedbasedzoompolicyoptions#sdk-for-ios-navigate-s-7heresdk22TrackingCameraBehaviorC27SpeedBasedZoomPolicyOptionsV28delayBetweenThresholdChanges020roadClassificationToeL0AESdSg_SDyAA04RoadO0OSayAC0eL0VGGtcfc" class="token"><code>init(delayBetweenThresholdChanges:</code><wbr></wbr><code>roadClassificationToSpeedThreshold:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -163,12 +154,16 @@ Configuration for computing zoom levels from speed thresholds defined per road c
   Swift
 
   ``` highlight
-  public init ( delayBetweenThresholdChanges : TimeInterval ? = nil , roadClassificationToSpeedThreshold : [ RoadClassification : [ TrackingCameraBehavior . SpeedThreshold ]] = [:])
+  public init(delayBetweenThresholdChanges: TimeInterval? = nil, roadClassificationToSpeedThreshold: [RoadClassification : [TrackingCameraBehavior.SpeedThreshold]] = [:])
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-roadclassification">RoadClassification</a>
+  - <a href="sdk-for-ios-navigate-classes-trackingcamerabehavior">TrackingCameraBehavior</a>
+  - <a href="sdk-for-ios-navigate-classes-trackingcamerabehavior-speedthreshold">SpeedThreshold</a>
 
   </div>
 

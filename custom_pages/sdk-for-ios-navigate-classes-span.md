@@ -35,7 +35,7 @@ A span is a part of the <a href="sdk-for-ios-navigate-classes-section">`Section`
 
 - <div>
 
-  ` `<span id="/s:7heresdk4SpanC8geometryAA11GeoPolylineVvp"></span>` `<span id="//apple_ref/swift/Property/geometry" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-span#/s:7heresdk4SpanC8geometryAA11GeoPolylineVvp" class="token"><code>geometry</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk4SpanC8geometryAA11GeoPolylineVvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-geometry" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-span#sdk-for-ios-navigate-s-7heresdk4SpanC8geometryAA11GeoPolylineVvp" class="token"><code>geometry</code></a> 
 
   </div>
 
@@ -71,6 +71,10 @@ A span is a part of the <a href="sdk-for-ios-navigate-classes-section">`Section`
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-geopolyline">GeoPolyline</a>
+
   </div>
 
   </div>
@@ -79,7 +83,7 @@ A span is a part of the <a href="sdk-for-ios-navigate-classes-section">`Section`
 
 - <div>
 
-  ` `<span id="/s:7heresdk4SpanC14lengthInMeterss5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/lengthInMeters" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-span#/s:7heresdk4SpanC14lengthInMeterss5Int32Vvp" class="token"><code>lengthInMeters</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk4SpanC14lengthInMeterss5Int32Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-lengthInMeters" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-span#sdk-for-ios-navigate-s-7heresdk4SpanC14lengthInMeterss5Int32Vvp" class="token"><code>lengthInMeters</code></a> 
 
   </div>
 
@@ -123,7 +127,7 @@ A span is a part of the <a href="sdk-for-ios-navigate-classes-section">`Section`
 
 - <div>
 
-  ` `<span id="/s:7heresdk4SpanC13noticeIndexesSays5Int32VGvp"></span>` `<span id="//apple_ref/swift/Property/noticeIndexes" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-span#/s:7heresdk4SpanC13noticeIndexesSays5Int32VGvp" class="token"><code>noticeIndexes</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk4SpanC13noticeIndexesSays5Int32VGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-noticeIndexes" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-span#sdk-for-ios-navigate-s-7heresdk4SpanC13noticeIndexesSays5Int32VGvp" class="token"><code>noticeIndexes</code></a> 
 
   </div>
 
@@ -141,7 +145,7 @@ A span is a part of the <a href="sdk-for-ios-navigate-classes-section">`Section`
 
   <div class="abstract">
 
-  The list of indexes to <a href="sdk-for-ios-navigate-classes-section#/s:7heresdk7SectionC14sectionNoticesSayAA0B6NoticeVGvp">`Section.sectionNotices`</a> the parent section owns. In case the list is not empty, the user must judge all the indexed <a href="sdk-for-ios-navigate-structs-sectionnotice">`SectionNotice`</a>s carefully before proceeding.
+  The list of indexes to <a href="sdk-for-ios-navigate-classes-section#sdk-for-ios-navigate-s-7heresdk7SectionC14sectionNoticesSayAA0B6NoticeVGvp">`Section.sectionNotices`</a> the parent section owns. In case the list is not empty, the user must judge all the indexed <a href="sdk-for-ios-navigate-structs-sectionnotice">`SectionNotice`</a>s carefully before proceeding.
 
   </div>
 
@@ -167,7 +171,7 @@ A span is a part of the <a href="sdk-for-ios-navigate-classes-section">`Section`
 
 - <div>
 
-  ` `<span id="/s:7heresdk4SpanC16segmentReferenceAA07SegmentD0Vvp"></span>` `<span id="//apple_ref/swift/Property/segmentReference" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-span#/s:7heresdk4SpanC16segmentReferenceAA07SegmentD0Vvp" class="token"><code>segmentReference</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk4SpanC16segmentReferenceAA07SegmentD0Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-segmentReference" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-span#sdk-for-ios-navigate-s-7heresdk4SpanC16segmentReferenceAA07SegmentD0Vvp" class="token"><code>segmentReference</code></a> 
 
   </div>
 
@@ -203,6 +207,10 @@ A span is a part of the <a href="sdk-for-ios-navigate-classes-section">`Section`
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-segmentreference">SegmentReference</a>
+
   </div>
 
   </div>
@@ -211,7 +219,7 @@ A span is a part of the <a href="sdk-for-ios-navigate-classes-section">`Section`
 
 - <div>
 
-  ` `<span id="/s:7heresdk4SpanC22trafficIncidentIndexesSays5Int32VGvp"></span>` `<span id="//apple_ref/swift/Property/trafficIncidentIndexes" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-span#/s:7heresdk4SpanC22trafficIncidentIndexesSays5Int32VGvp" class="token"><code>trafficIncidentIndexes</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk4SpanC22trafficIncidentIndexesSays5Int32VGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-trafficIncidentIndexes" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-span#sdk-for-ios-navigate-s-7heresdk4SpanC22trafficIncidentIndexesSays5Int32VGvp" class="token"><code>trafficIncidentIndexes</code></a> 
 
   </div>
 
@@ -229,7 +237,7 @@ A span is a part of the <a href="sdk-for-ios-navigate-classes-section">`Section`
 
   <div class="abstract">
 
-  The indexes of traffic incidents from the field <a href="sdk-for-ios-navigate-classes-section#/s:7heresdk7SectionC16trafficIncidentsSayAA22TrafficIncidentOnRouteCGvp">`Section.trafficIncidents`</a> of the parent <a href="sdk-for-ios-navigate-classes-section">`Section`</a>. Each matching incident takes at least a whole <a href="sdk-for-ios-navigate-classes-span#/s:7heresdk4SpanC8geometryAA11GeoPolylineVvp">`Span.geometry`</a>. The same incident can take other spans and an area out of the built route as well.
+  The indexes of traffic incidents from the field <a href="sdk-for-ios-navigate-classes-section#sdk-for-ios-navigate-s-7heresdk7SectionC16trafficIncidentsSayAA22TrafficIncidentOnRouteCGvp">`Section.trafficIncidents`</a> of the parent <a href="sdk-for-ios-navigate-classes-section">`Section`</a>. Each matching incident takes at least a whole <a href="sdk-for-ios-navigate-classes-span#sdk-for-ios-navigate-s-7heresdk4SpanC8geometryAA11GeoPolylineVvp">`Span.geometry`</a>. The same incident can take other spans and an area out of the built route as well.
 
   </div>
 
@@ -255,7 +263,7 @@ A span is a part of the <a href="sdk-for-ios-navigate-classes-section">`Section`
 
 - <div>
 
-  ` `<span id="/s:7heresdk4SpanC21sectionPolylineOffsets5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/sectionPolylineOffset" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-span#/s:7heresdk4SpanC21sectionPolylineOffsets5Int32Vvp" class="token"><code>sectionPolylineOffset</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk4SpanC21sectionPolylineOffsets5Int32Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-sectionPolylineOffset" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-span#sdk-for-ios-navigate-s-7heresdk4SpanC21sectionPolylineOffsets5Int32Vvp" class="token"><code>sectionPolylineOffset</code></a> 
 
   </div>
 
@@ -299,7 +307,7 @@ A span is a part of the <a href="sdk-for-ios-navigate-classes-section">`Section`
 
 - <div>
 
-  ` `<span id="/s:7heresdk4SpanC16dynamicSpeedInfoAA07DynamicdE0VSgvp"></span>` `<span id="//apple_ref/swift/Property/dynamicSpeedInfo" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-span#/s:7heresdk4SpanC16dynamicSpeedInfoAA07DynamicdE0VSgvp" class="token"><code>dynamicSpeedInfo</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk4SpanC16dynamicSpeedInfoAA07DynamicdE0VSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-dynamicSpeedInfo" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-span#sdk-for-ios-navigate-s-7heresdk4SpanC16dynamicSpeedInfoAA07DynamicdE0VSgvp" class="token"><code>dynamicSpeedInfo</code></a> 
 
   </div>
 
@@ -335,6 +343,10 @@ A span is a part of the <a href="sdk-for-ios-navigate-classes-section">`Section`
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-dynamicspeedinfo">DynamicSpeedInfo</a>
+
   </div>
 
   </div>
@@ -343,7 +355,7 @@ A span is a part of the <a href="sdk-for-ios-navigate-classes-section">`Section`
 
 - <div>
 
-  ` `<span id="/s:7heresdk4SpanC16streetAttributesSayAA06StreetD0OGvp"></span>` `<span id="//apple_ref/swift/Property/streetAttributes" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-span#/s:7heresdk4SpanC16streetAttributesSayAA06StreetD0OGvp" class="token"><code>streetAttributes</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk4SpanC16streetAttributesSayAA06StreetD0OGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-streetAttributes" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-span#sdk-for-ios-navigate-s-7heresdk4SpanC16streetAttributesSayAA06StreetD0OGvp" class="token"><code>streetAttributes</code></a> 
 
   </div>
 
@@ -379,6 +391,10 @@ A span is a part of the <a href="sdk-for-ios-navigate-classes-section">`Section`
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-streetattributes">StreetAttributes</a>
+
   </div>
 
   </div>
@@ -387,7 +403,7 @@ A span is a part of the <a href="sdk-for-ios-navigate-classes-section">`Section`
 
 - <div>
 
-  ` `<span id="/s:7heresdk4SpanC13carAttributesSayAA06AccessD0OGvp"></span>` `<span id="//apple_ref/swift/Property/carAttributes" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-span#/s:7heresdk4SpanC13carAttributesSayAA06AccessD0OGvp" class="token"><code>carAttributes</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk4SpanC13carAttributesSayAA06AccessD0OGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-carAttributes" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-span#sdk-for-ios-navigate-s-7heresdk4SpanC13carAttributesSayAA06AccessD0OGvp" class="token"><code>carAttributes</code></a> 
 
   </div>
 
@@ -423,6 +439,10 @@ A span is a part of the <a href="sdk-for-ios-navigate-classes-section">`Section`
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-accessattributes">AccessAttributes</a>
+
   </div>
 
   </div>
@@ -431,7 +451,7 @@ A span is a part of the <a href="sdk-for-ios-navigate-classes-section">`Section`
 
 - <div>
 
-  ` `<span id="/s:7heresdk4SpanC15truckAttributesSayAA06AccessD0OGvp"></span>` `<span id="//apple_ref/swift/Property/truckAttributes" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-span#/s:7heresdk4SpanC15truckAttributesSayAA06AccessD0OGvp" class="token"><code>truckAttributes</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk4SpanC15truckAttributesSayAA06AccessD0OGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-truckAttributes" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-span#sdk-for-ios-navigate-s-7heresdk4SpanC15truckAttributesSayAA06AccessD0OGvp" class="token"><code>truckAttributes</code></a> 
 
   </div>
 
@@ -467,6 +487,10 @@ A span is a part of the <a href="sdk-for-ios-navigate-classes-section">`Section`
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-accessattributes">AccessAttributes</a>
+
   </div>
 
   </div>
@@ -475,7 +499,7 @@ A span is a part of the <a href="sdk-for-ios-navigate-classes-section">`Section`
 
 - <div>
 
-  ` `<span id="/s:7heresdk4SpanC17scooterAttributesSayAA06AccessD0OGvp"></span>` `<span id="//apple_ref/swift/Property/scooterAttributes" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-span#/s:7heresdk4SpanC17scooterAttributesSayAA06AccessD0OGvp" class="token"><code>scooterAttributes</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk4SpanC17scooterAttributesSayAA06AccessD0OGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-scooterAttributes" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-span#sdk-for-ios-navigate-s-7heresdk4SpanC17scooterAttributesSayAA06AccessD0OGvp" class="token"><code>scooterAttributes</code></a> 
 
   </div>
 
@@ -511,6 +535,10 @@ A span is a part of the <a href="sdk-for-ios-navigate-classes-section">`Section`
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-accessattributes">AccessAttributes</a>
+
   </div>
 
   </div>
@@ -519,7 +547,7 @@ A span is a part of the <a href="sdk-for-ios-navigate-classes-section">`Section`
 
 - <div>
 
-  ` `<span id="/s:7heresdk4SpanC14walkAttributesSayAA04WalkD0OGvp"></span>` `<span id="//apple_ref/swift/Property/walkAttributes" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-span#/s:7heresdk4SpanC14walkAttributesSayAA04WalkD0OGvp" class="token"><code>walkAttributes</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk4SpanC14walkAttributesSayAA04WalkD0OGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-walkAttributes" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-span#sdk-for-ios-navigate-s-7heresdk4SpanC14walkAttributesSayAA04WalkD0OGvp" class="token"><code>walkAttributes</code></a> 
 
   </div>
 
@@ -555,6 +583,10 @@ A span is a part of the <a href="sdk-for-ios-navigate-classes-section">`Section`
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-walkattributes">WalkAttributes</a>
+
   </div>
 
   </div>
@@ -563,7 +595,7 @@ A span is a part of the <a href="sdk-for-ios-navigate-classes-section">`Section`
 
 - <div>
 
-  ` `<span id="/s:7heresdk4SpanC11streetNamesAA14LocalizedTextsVvp"></span>` `<span id="//apple_ref/swift/Property/streetNames" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-span#/s:7heresdk4SpanC11streetNamesAA14LocalizedTextsVvp" class="token"><code>streetNames</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk4SpanC11streetNamesAA14LocalizedTextsVvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-streetNames" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-span#sdk-for-ios-navigate-s-7heresdk4SpanC11streetNamesAA14LocalizedTextsVvp" class="token"><code>streetNames</code></a> 
 
   </div>
 
@@ -599,6 +631,10 @@ A span is a part of the <a href="sdk-for-ios-navigate-classes-section">`Section`
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-localizedtexts">LocalizedTexts</a>
+
   </div>
 
   </div>
@@ -607,7 +643,7 @@ A span is a part of the <a href="sdk-for-ios-navigate-classes-section">`Section`
 
 - <div>
 
-  ` `<span id="/s:7heresdk4SpanC11roadNumbersAA013LocalizedRoadD0Vvp"></span>` `<span id="//apple_ref/swift/Property/roadNumbers" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-span#/s:7heresdk4SpanC11roadNumbersAA013LocalizedRoadD0Vvp" class="token"><code>roadNumbers</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk4SpanC11roadNumbersAA013LocalizedRoadD0Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-roadNumbers" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-span#sdk-for-ios-navigate-s-7heresdk4SpanC11roadNumbersAA013LocalizedRoadD0Vvp" class="token"><code>roadNumbers</code></a> 
 
   </div>
 
@@ -643,6 +679,10 @@ A span is a part of the <a href="sdk-for-ios-navigate-classes-section">`Section`
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-localizedroadnumbers">LocalizedRoadNumbers</a>
+
   </div>
 
   </div>
@@ -651,7 +691,7 @@ A span is a part of the <a href="sdk-for-ios-navigate-classes-section">`Section`
 
 - <div>
 
-  ` `<span id="/s:7heresdk4SpanC27speedLimitInMetersPerSecondSdSgvp"></span>` `<span id="//apple_ref/swift/Property/speedLimitInMetersPerSecond" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-span#/s:7heresdk4SpanC27speedLimitInMetersPerSecondSdSgvp" class="token"><code>speedLimitInMetersPerSecond</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk4SpanC27speedLimitInMetersPerSecondSdSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-speedLimitInMetersPerSecond" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-span#sdk-for-ios-navigate-s-7heresdk4SpanC27speedLimitInMetersPerSecondSdSgvp" class="token"><code>speedLimitInMetersPerSecond</code></a> 
 
   </div>
 
@@ -695,7 +735,7 @@ A span is a part of the <a href="sdk-for-ios-navigate-classes-section">`Section`
 
 - <div>
 
-  ` `<span id="/s:7heresdk4SpanC26consumptionInKilowattHoursSdSgvp"></span>` `<span id="//apple_ref/swift/Property/consumptionInKilowattHours" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-span#/s:7heresdk4SpanC26consumptionInKilowattHoursSdSgvp" class="token"><code>consumptionInKilowattHours</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk4SpanC26consumptionInKilowattHoursSdSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-consumptionInKilowattHours" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-span#sdk-for-ios-navigate-s-7heresdk4SpanC26consumptionInKilowattHoursSdSgvp" class="token"><code>consumptionInKilowattHours</code></a> 
 
   </div>
 
@@ -739,7 +779,7 @@ A span is a part of the <a href="sdk-for-ios-navigate-classes-section">`Section`
 
 - <div>
 
-  ` `<span id="/s:7heresdk4SpanC19functionalRoadClassAA010FunctionaldE0OSgvp"></span>` `<span id="//apple_ref/swift/Property/functionalRoadClass" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-span#/s:7heresdk4SpanC19functionalRoadClassAA010FunctionaldE0OSgvp" class="token"><code>functionalRoadClass</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk4SpanC19functionalRoadClassAA010FunctionaldE0OSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-functionalRoadClass" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-span#sdk-for-ios-navigate-s-7heresdk4SpanC19functionalRoadClassAA010FunctionaldE0OSgvp" class="token"><code>functionalRoadClass</code></a> 
 
   </div>
 
@@ -775,6 +815,10 @@ A span is a part of the <a href="sdk-for-ios-navigate-classes-section">`Section`
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-functionalroadclass">FunctionalRoadClass</a>
+
   </div>
 
   </div>
@@ -783,7 +827,7 @@ A span is a part of the <a href="sdk-for-ios-navigate-classes-section">`Section`
 
 - <div>
 
-  ` `<span id="/s:7heresdk4SpanC8durationSdvp"></span>` `<span id="//apple_ref/swift/Property/duration" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-span#/s:7heresdk4SpanC8durationSdvp" class="token"><code>duration</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk4SpanC8durationSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-duration" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-span#sdk-for-ios-navigate-s-7heresdk4SpanC8durationSdvp" class="token"><code>duration</code></a> 
 
   </div>
 
@@ -801,7 +845,7 @@ A span is a part of the <a href="sdk-for-ios-navigate-classes-section">`Section`
 
   <div class="abstract">
 
-  The time duration necessary to traverse the span, using the speed provided in <a href="sdk-for-ios-navigate-classes-span#/s:7heresdk4SpanC16dynamicSpeedInfoAA07DynamicdE0VSgvp">`Span.dynamicSpeedInfo`</a>. This duration takes also into consideration the delays caused by the traffic.
+  The time duration necessary to traverse the span, using the speed provided in <a href="sdk-for-ios-navigate-classes-span#sdk-for-ios-navigate-s-7heresdk4SpanC16dynamicSpeedInfoAA07DynamicdE0VSgvp">`Span.dynamicSpeedInfo`</a>. This duration takes also into consideration the delays caused by the traffic.
 
   </div>
 
@@ -827,7 +871,7 @@ A span is a part of the <a href="sdk-for-ios-navigate-classes-section">`Section`
 
 - <div>
 
-  ` `<span id="/s:7heresdk4SpanC12baseDurationSdvp"></span>` `<span id="//apple_ref/swift/Property/baseDuration" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-span#/s:7heresdk4SpanC12baseDurationSdvp" class="token"><code>baseDuration</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk4SpanC12baseDurationSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-baseDuration" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-span#sdk-for-ios-navigate-s-7heresdk4SpanC12baseDurationSdvp" class="token"><code>baseDuration</code></a> 
 
   </div>
 
@@ -845,7 +889,7 @@ A span is a part of the <a href="sdk-for-ios-navigate-classes-section">`Section`
 
   <div class="abstract">
 
-  The time duration necessary to traverse the span, using the speed provided in <a href="sdk-for-ios-navigate-classes-span#/s:7heresdk4SpanC16dynamicSpeedInfoAA07DynamicdE0VSgvp">`Span.dynamicSpeedInfo`</a> without taking into consideration the delays caused by the traffic.
+  The time duration necessary to traverse the span, using the speed provided in <a href="sdk-for-ios-navigate-classes-span#sdk-for-ios-navigate-s-7heresdk4SpanC16dynamicSpeedInfoAA07DynamicdE0VSgvp">`Span.dynamicSpeedInfo`</a> without taking into consideration the delays caused by the traffic.
 
   </div>
 
@@ -871,7 +915,7 @@ A span is a part of the <a href="sdk-for-ios-navigate-classes-section">`Section`
 
 - <div>
 
-  ` `<span id="/s:7heresdk4SpanC11countryCodeSSSgvp"></span>` `<span id="//apple_ref/swift/Property/countryCode" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-span#/s:7heresdk4SpanC11countryCodeSSSgvp" class="token"><code>countryCode</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk4SpanC11countryCodeSSSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-countryCode" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-span#sdk-for-ios-navigate-s-7heresdk4SpanC11countryCodeSSSgvp" class="token"><code>countryCode</code></a> 
 
   </div>
 
@@ -915,7 +959,7 @@ A span is a part of the <a href="sdk-for-ios-navigate-classes-section">`Section`
 
 - <div>
 
-  ` `<span id="/s:7heresdk4SpanC9stateCodeSSSgvp"></span>` `<span id="//apple_ref/swift/Property/stateCode" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-span#/s:7heresdk4SpanC9stateCodeSSSgvp" class="token"><code>stateCode</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk4SpanC9stateCodeSSSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-stateCode" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-span#sdk-for-ios-navigate-s-7heresdk4SpanC9stateCodeSSSgvp" class="token"><code>stateCode</code></a> 
 
   </div>
 
@@ -959,7 +1003,7 @@ A span is a part of the <a href="sdk-for-ios-navigate-classes-section">`Section`
 
 - <div>
 
-  ` `<span id="/s:7heresdk4SpanC28noThroughRestrictionsIndexesSays5Int32VGvp"></span>` `<span id="//apple_ref/swift/Property/noThroughRestrictionsIndexes" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-span#/s:7heresdk4SpanC28noThroughRestrictionsIndexesSays5Int32VGvp" class="token"><code>noThroughRestrictionsIndexes</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk4SpanC28noThroughRestrictionsIndexesSays5Int32VGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-noThroughRestrictionsIndexes" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-span#sdk-for-ios-navigate-s-7heresdk4SpanC28noThroughRestrictionsIndexesSays5Int32VGvp" class="token"><code>noThroughRestrictionsIndexes</code></a> 
 
   </div>
 
@@ -977,7 +1021,7 @@ A span is a part of the <a href="sdk-for-ios-navigate-classes-section">`Section`
 
   <div class="abstract">
 
-  The list of indexes to <a href="sdk-for-ios-navigate-classes-section#/s:7heresdk7SectionC21noThroughRestrictionsSayAA19ViolatedRestrictionVGvp">`Section.noThroughRestrictions`</a> the parent section owns. In case the list is not empty, the user must judge all the indexed sdk routing noThroughRestriction’s carefully before proceeding.
+  The list of indexes to <a href="sdk-for-ios-navigate-classes-section#sdk-for-ios-navigate-s-7heresdk7SectionC21noThroughRestrictionsSayAA19ViolatedRestrictionVGvp">`Section.noThroughRestrictions`</a> the parent section owns. In case the list is not empty, the user must judge all the indexed sdk routing noThroughRestriction’s carefully before proceeding.
 
   </div>
 
@@ -1003,7 +1047,7 @@ A span is a part of the <a href="sdk-for-ios-navigate-classes-section">`Section`
 
 - <div>
 
-      getShieldText(roadNumber: )
+   <span id="sdk-for-ios-navigate-s-7heresdk4SpanC13getShieldText10roadNumberSSAA013LocalizedRoadG0V_tF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-getShieldText-roadNumber" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-span#sdk-for-ios-navigate-s-7heresdk4SpanC13getShieldText10roadNumberSSAA013LocalizedRoadG0V_tF" class="token"><code>getShieldText(roadNumber:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1034,12 +1078,14 @@ A span is a part of the <a href="sdk-for-ios-navigate-classes-section">`Section`
   Swift
 
   ``` highlight
-  public func getShieldText ( roadNumber : LocalizedRoadNumber ) -> String
+  public func getShieldText(roadNumber: LocalizedRoadNumber) -> String
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-localizedroadnumber">LocalizedRoadNumber</a>
 
   </div>
 

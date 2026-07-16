@@ -27,7 +27,7 @@ Enum that represents the type of a gesture.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11GestureTypeO12twoFingerTapyA2CmF"></span>` `<span id="//apple_ref/swift/Element/twoFingerTap" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-gesturetype#/s:7heresdk11GestureTypeO12twoFingerTapyA2CmF" class="token"><code>twoFingerTap</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11GestureTypeO12twoFingerTapyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-twoFingerTap" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-gesturetype#sdk-for-ios-navigate-s-7heresdk11GestureTypeO12twoFingerTapyA2CmF" class="token"><code>twoFingerTap</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Enum that represents the type of a gesture.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11GestureTypeO9doubleTapyA2CmF"></span>` `<span id="//apple_ref/swift/Element/doubleTap" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-gesturetype#/s:7heresdk11GestureTypeO9doubleTapyA2CmF" class="token"><code>doubleTap</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11GestureTypeO9doubleTapyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-doubleTap" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-gesturetype#sdk-for-ios-navigate-s-7heresdk11GestureTypeO9doubleTapyA2CmF" class="token"><code>doubleTap</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Enum that represents the type of a gesture.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11GestureTypeO3panyA2CmF"></span>` `<span id="//apple_ref/swift/Element/pan" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-gesturetype#/s:7heresdk11GestureTypeO3panyA2CmF" class="token"><code>pan</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11GestureTypeO3panyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-pan" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-gesturetype#sdk-for-ios-navigate-s-7heresdk11GestureTypeO3panyA2CmF" class="token"><code>pan</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Enum that represents the type of a gesture.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11GestureTypeO12twoFingerPanyA2CmF"></span>` `<span id="//apple_ref/swift/Element/twoFingerPan" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-gesturetype#/s:7heresdk11GestureTypeO12twoFingerPanyA2CmF" class="token"><code>twoFingerPan</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11GestureTypeO12twoFingerPanyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-twoFingerPan" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-gesturetype#sdk-for-ios-navigate-s-7heresdk11GestureTypeO12twoFingerPanyA2CmF" class="token"><code>twoFingerPan</code></a> 
 
   </div>
 
@@ -203,7 +203,7 @@ Enum that represents the type of a gesture.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11GestureTypeO11pinchRotateyA2CmF"></span>` `<span id="//apple_ref/swift/Element/pinchRotate" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-gesturetype#/s:7heresdk11GestureTypeO11pinchRotateyA2CmF" class="token"><code>pinchRotate</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11GestureTypeO11pinchRotateyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-pinchRotate" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-gesturetype#sdk-for-ios-navigate-s-7heresdk11GestureTypeO11pinchRotateyA2CmF" class="token"><code>pinchRotate</code></a> 
 
   </div>
 

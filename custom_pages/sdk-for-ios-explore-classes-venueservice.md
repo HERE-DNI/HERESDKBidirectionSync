@@ -39,7 +39,7 @@ The venue service is online only. Even if there is a cached venue on the device,
 
 - <div>
 
-  ` `<span id="/s:7heresdk12VenueServiceC10Int32Arraya"></span>` `<span id="//apple_ref/swift/Alias/Int32Array" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venueservice#/s:7heresdk12VenueServiceC10Int32Arraya" class="token"><code>Int32Array</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12VenueServiceC10Int32Arraya"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Alias-Int32Array" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venueservice#sdk-for-ios-explore-s-7heresdk12VenueServiceC10Int32Arraya" class="token"><code>Int32Array</code></a> 
 
   </div>
 
@@ -83,7 +83,7 @@ The venue service is online only. Even if there is a cached venue on the device,
 
 - <div>
 
-  ` `<span id="/s:7heresdk12VenueServiceC11StringArraya"></span>` `<span id="//apple_ref/swift/Alias/StringArray" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venueservice#/s:7heresdk12VenueServiceC11StringArraya" class="token"><code>StringArray</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12VenueServiceC11StringArraya"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Alias-StringArray" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venueservice#sdk-for-ios-explore-s-7heresdk12VenueServiceC11StringArraya" class="token"><code>StringArray</code></a> 
 
   </div>
 
@@ -127,7 +127,7 @@ The venue service is online only. Even if there is a cached venue on the device,
 
 - <div>
 
-  ` `<span id="/s:7heresdk12VenueServiceC0B8InfoLista"></span>` `<span id="//apple_ref/swift/Alias/VenueInfoList" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venueservice#/s:7heresdk12VenueServiceC0B8InfoLista" class="token"><code>VenueInfoList</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12VenueServiceC0B8InfoLista"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Alias-VenueInfoList" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venueservice#sdk-for-ios-explore-s-7heresdk12VenueServiceC0B8InfoLista" class="token"><code>VenueInfoList</code></a> 
 
   </div>
 
@@ -163,6 +163,10 @@ The venue service is online only. Even if there is a cached venue on the device,
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-venueinfo">VenueInfo</a>
+
   </div>
 
   </div>
@@ -171,7 +175,7 @@ The venue service is online only. Even if there is a cached venue on the device,
 
 - <div>
 
-  ` `<span id="/s:7heresdk12VenueServiceC0B19OptionalFeatureLista"></span>` `<span id="//apple_ref/swift/Alias/VenueOptionalFeatureList" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venueservice#/s:7heresdk12VenueServiceC0B19OptionalFeatureLista" class="token"><code>VenueOptionalFeatureList</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12VenueServiceC0B19OptionalFeatureLista"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Alias-VenueOptionalFeatureList" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venueservice#sdk-for-ios-explore-s-7heresdk12VenueServiceC0B19OptionalFeatureLista" class="token"><code>VenueOptionalFeatureList</code></a> 
 
   </div>
 
@@ -207,6 +211,10 @@ The venue service is online only. Even if there is a cached venue on the device,
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-venueservice-venueoptionalfeature">VenueOptionalFeature</a>
+
   </div>
 
   </div>
@@ -215,7 +223,7 @@ The venue service is online only. Even if there is a cached venue on the device,
 
 - <div>
 
-  ` `<span id="/s:7heresdk12VenueServiceC9languagesSaySSGvp"></span>` `<span id="//apple_ref/swift/Property/languages" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venueservice#/s:7heresdk12VenueServiceC9languagesSaySSGvp" class="token"><code>languages</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12VenueServiceC9languagesSaySSGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-languages" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venueservice#sdk-for-ios-explore-s-7heresdk12VenueServiceC9languagesSaySSGvp" class="token"><code>languages</code></a> 
 
   </div>
 
@@ -251,6 +259,10 @@ The venue service is online only. Even if there is a cached venue on the device,
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-venueservice#sdk-for-ios-explore-s-7heresdk12VenueServiceC11StringArraya">StringArray</a>
+
   </div>
 
   </div>
@@ -259,7 +271,7 @@ The venue service is online only. Even if there is a cached venue on the device,
 
 - <div>
 
-  ` `<span id="/s:7heresdk12VenueServiceC8languageSSvp"></span>` `<span id="//apple_ref/swift/Property/language" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venueservice#/s:7heresdk12VenueServiceC8languageSSvp" class="token"><code>language</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12VenueServiceC8languageSSvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-language" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venueservice#sdk-for-ios-explore-s-7heresdk12VenueServiceC8languageSSvp" class="token"><code>language</code></a> 
 
   </div>
 
@@ -303,7 +315,7 @@ The venue service is online only. Even if there is a cached venue on the device,
 
 - <div>
 
-  ` `<span id="/s:7heresdk12VenueServiceC0B15OptionalFeatureO"></span>` `<span id="//apple_ref/swift/Enum/VenueOptionalFeature" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venueservice#/s:7heresdk12VenueServiceC0B15OptionalFeatureO" class="token"><code>VenueOptionalFeature</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12VenueServiceC0B15OptionalFeatureO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-VenueOptionalFeature" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venueservice#sdk-for-ios-explore-s-7heresdk12VenueServiceC0B15OptionalFeatureO" class="token"><code>VenueOptionalFeature</code></a> 
 
   </div>
 
@@ -349,7 +361,7 @@ The venue service is online only. Even if there is a cached venue on the device,
 
 - <div>
 
-      stop()
+   <span id="sdk-for-ios-explore-s-7heresdk12VenueServiceC4stopyyF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-stop" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venueservice#sdk-for-ios-explore-s-7heresdk12VenueServiceC4stopyyF" class="token"><code>stop()</code></a> 
 
   </div>
 
@@ -380,10 +392,8 @@ The venue service is online only. Even if there is a cached venue on the device,
   Swift
 
   ``` highlight
-  public func stop ()
+  public func stop()
   ```
-
-  </pre>
 
   </div>
 
@@ -395,7 +405,7 @@ The venue service is online only. Even if there is a cached venue on the device,
 
 - <div>
 
-      addServiceDelegate(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk12VenueServiceC03addC8DelegateyyAA0bcE0_pF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-addServiceDelegate-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venueservice#sdk-for-ios-explore-s-7heresdk12VenueServiceC03addC8DelegateyyAA0bcE0_pF" class="token"><code>addServiceDelegate(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -426,12 +436,14 @@ The venue service is online only. Even if there is a cached venue on the device,
   Swift
 
   ``` highlight
-  public func addServiceDelegate ( _ delegate : VenueServiceDelegate )
+  public func addServiceDelegate(_ delegate: VenueServiceDelegate)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-protocols-venueservicedelegate">VenueServiceDelegate</a>
 
   </div>
 
@@ -462,7 +474,7 @@ The venue service is online only. Even if there is a cached venue on the device,
 
 - <div>
 
-      removeServiceDelegate(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk12VenueServiceC06removeC8DelegateyyAA0bcE0_pF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-removeServiceDelegate-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venueservice#sdk-for-ios-explore-s-7heresdk12VenueServiceC06removeC8DelegateyyAA0bcE0_pF" class="token"><code>removeServiceDelegate(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -493,12 +505,14 @@ The venue service is online only. Even if there is a cached venue on the device,
   Swift
 
   ``` highlight
-  public func removeServiceDelegate ( _ delegate : VenueServiceDelegate )
+  public func removeServiceDelegate(_ delegate: VenueServiceDelegate)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-protocols-venueservicedelegate">VenueServiceDelegate</a>
 
   </div>
 
@@ -529,7 +543,7 @@ The venue service is online only. Even if there is a cached venue on the device,
 
 - <div>
 
-      addVenueDelegate(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk12VenueServiceC03addB8DelegateyyAA0bE0_pF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-addVenueDelegate-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venueservice#sdk-for-ios-explore-s-7heresdk12VenueServiceC03addB8DelegateyyAA0bE0_pF" class="token"><code>addVenueDelegate(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -560,12 +574,14 @@ The venue service is online only. Even if there is a cached venue on the device,
   Swift
 
   ``` highlight
-  public func addVenueDelegate ( _ delegate : VenueDelegate )
+  public func addVenueDelegate(_ delegate: VenueDelegate)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-protocols-venuedelegate">VenueDelegate</a>
 
   </div>
 
@@ -596,7 +612,7 @@ The venue service is online only. Even if there is a cached venue on the device,
 
 - <div>
 
-      removeVenueDelegate(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk12VenueServiceC06removeB8DelegateyyAA0bE0_pF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-removeVenueDelegate-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venueservice#sdk-for-ios-explore-s-7heresdk12VenueServiceC06removeB8DelegateyyAA0bE0_pF" class="token"><code>removeVenueDelegate(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -627,12 +643,14 @@ The venue service is online only. Even if there is a cached venue on the device,
   Swift
 
   ``` highlight
-  public func removeVenueDelegate ( _ delegate : VenueDelegate )
+  public func removeVenueDelegate(_ delegate: VenueDelegate)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-protocols-venuedelegate">VenueDelegate</a>
 
   </div>
 
@@ -663,7 +681,7 @@ The venue service is online only. Even if there is a cached venue on the device,
 
 - <div>
 
-      addVenueMapDelegate(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk12VenueServiceC03addB11MapDelegateyyAA0beF0_pF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-addVenueMapDelegate-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venueservice#sdk-for-ios-explore-s-7heresdk12VenueServiceC03addB11MapDelegateyyAA0beF0_pF" class="token"><code>addVenueMapDelegate(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -694,12 +712,14 @@ The venue service is online only. Even if there is a cached venue on the device,
   Swift
 
   ``` highlight
-  public func addVenueMapDelegate ( _ delegate : VenueMapDelegate )
+  public func addVenueMapDelegate(_ delegate: VenueMapDelegate)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-protocols-venuemapdelegate">VenueMapDelegate</a>
 
   </div>
 
@@ -730,7 +750,7 @@ The venue service is online only. Even if there is a cached venue on the device,
 
 - <div>
 
-      removeVenueMapDelegate(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk12VenueServiceC06removeB11MapDelegateyyAA0beF0_pF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-removeVenueMapDelegate-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venueservice#sdk-for-ios-explore-s-7heresdk12VenueServiceC06removeB11MapDelegateyyAA0beF0_pF" class="token"><code>removeVenueMapDelegate(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -761,12 +781,14 @@ The venue service is online only. Even if there is a cached venue on the device,
   Swift
 
   ``` highlight
-  public func removeVenueMapDelegate ( _ delegate : VenueMapDelegate )
+  public func removeVenueMapDelegate(_ delegate: VenueMapDelegate)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-protocols-venuemapdelegate">VenueMapDelegate</a>
 
   </div>
 
@@ -797,7 +819,7 @@ The venue service is online only. Even if there is a cached venue on the device,
 
 - <div>
 
-      getInitStatus()
+   <span id="sdk-for-ios-explore-s-7heresdk12VenueServiceC13getInitStatusAA0bceF0OyF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-getInitStatus" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venueservice#sdk-for-ios-explore-s-7heresdk12VenueServiceC13getInitStatusAA0bceF0OyF" class="token"><code>getInitStatus()</code></a> 
 
   </div>
 
@@ -828,12 +850,14 @@ The venue service is online only. Even if there is a cached venue on the device,
   Swift
 
   ``` highlight
-  public func getInitStatus () -> VenueServiceInitStatus
+  public func getInitStatus() -> VenueServiceInitStatus
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-venueserviceinitstatus">VenueServiceInitStatus</a>
 
   </div>
 
@@ -851,7 +875,7 @@ The venue service is online only. Even if there is a cached venue on the device,
 
 - <div>
 
-      isInitialized()
+   <span id="sdk-for-ios-explore-s-7heresdk12VenueServiceC13isInitializedSbyF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-isInitialized" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venueservice#sdk-for-ios-explore-s-7heresdk12VenueServiceC13isInitializedSbyF" class="token"><code>isInitialized()</code></a> 
 
   </div>
 
@@ -882,10 +906,8 @@ The venue service is online only. Even if there is a cached venue on the device,
   Swift
 
   ``` highlight
-  public func isInitialized () -> Bool
+  public func isInitialized() -> Bool
   ```
-
-  </pre>
 
   </div>
 
@@ -905,7 +927,7 @@ The venue service is online only. Even if there is a cached venue on the device,
 
 - <div>
 
-      addVenueToLoad(venueId: )
+   <span id="sdk-for-ios-explore-s-7heresdk12VenueServiceC03addB6ToLoad7venueIdys5Int32V_tF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-addVenueToLoad-venueId" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venueservice#sdk-for-ios-explore-s-7heresdk12VenueServiceC03addB6ToLoad7venueIdys5Int32V_tF" class="token"><code>addVenueToLoad(venueId:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -936,10 +958,8 @@ The venue service is online only. Even if there is a cached venue on the device,
   Swift
 
   ``` highlight
-  public func addVenueToLoad ( venueId : Int32 )
+  public func addVenueToLoad(venueId: Int32)
   ```
-
-  </pre>
 
   </div>
 
@@ -972,7 +992,7 @@ The venue service is online only. Even if there is a cached venue on the device,
 
 - <div>
 
-      addVenueToLoad(venueIdentifier: )
+   <span id="sdk-for-ios-explore-s-7heresdk12VenueServiceC03addB6ToLoad15venueIdentifierySS_tF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-addVenueToLoad-venueIdentifier" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venueservice#sdk-for-ios-explore-s-7heresdk12VenueServiceC03addB6ToLoad15venueIdentifierySS_tF" class="token"><code>addVenueToLoad(venueIdentifier:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1003,10 +1023,8 @@ The venue service is online only. Even if there is a cached venue on the device,
   Swift
 
   ``` highlight
-  public func addVenueToLoad ( venueIdentifier : String )
+  public func addVenueToLoad(venueIdentifier: String)
   ```
-
-  </pre>
 
   </div>
 
@@ -1039,7 +1057,7 @@ The venue service is online only. Even if there is a cached venue on the device,
 
 - <div>
 
-      setHrn(hrn: )
+   <span id="sdk-for-ios-explore-s-7heresdk12VenueServiceC6setHrn3hrnySS_tF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-setHrn-hrn" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venueservice#sdk-for-ios-explore-s-7heresdk12VenueServiceC6setHrn3hrnySS_tF" class="token"><code>setHrn(hrn:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1070,10 +1088,8 @@ The venue service is online only. Even if there is a cached venue on the device,
   Swift
 
   ``` highlight
-  public func setHrn ( hrn : String )
+  public func setHrn(hrn: String)
   ```
-
-  </pre>
 
   </div>
 
@@ -1106,7 +1122,7 @@ The venue service is online only. Even if there is a cached venue on the device,
 
 - <div>
 
-      setLabeltextPreference(labelTextPref: )
+   <span id="sdk-for-ios-explore-s-7heresdk12VenueServiceC22setLabeltextPreference13labelTextPrefySaySSG_tF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-setLabeltextPreference-labelTextPref" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venueservice#sdk-for-ios-explore-s-7heresdk12VenueServiceC22setLabeltextPreference13labelTextPrefySaySSG_tF" class="token"><code>setLabeltextPreference(labelTextPref:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1137,10 +1153,8 @@ The venue service is online only. Even if there is a cached venue on the device,
   Swift
 
   ``` highlight
-  public func setLabeltextPreference ( labelTextPref : [ String ])
+  public func setLabeltextPreference(labelTextPref: [String])
   ```
-
-  </pre>
 
   </div>
 
@@ -1178,7 +1192,7 @@ The venue service is online only. Even if there is a cached venue on the device,
 
 - <div>
 
-      loadTopologies()
+   <span id="sdk-for-ios-explore-s-7heresdk12VenueServiceC14loadTopologiesyyF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-loadTopologies" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venueservice#sdk-for-ios-explore-s-7heresdk12VenueServiceC14loadTopologiesyyF" class="token"><code>loadTopologies()</code></a> 
 
   </div>
 
@@ -1209,10 +1223,8 @@ The venue service is online only. Even if there is a cached venue on the device,
   Swift
 
   ``` highlight
-  public func loadTopologies ()
+  public func loadTopologies()
   ```
-
-  </pre>
 
   </div>
 
@@ -1224,7 +1236,7 @@ The venue service is online only. Even if there is a cached venue on the device,
 
 - <div>
 
-      loadOptionalFeatures(optionalFeatureList: )
+   <span id="sdk-for-ios-explore-s-7heresdk12VenueServiceC20loadOptionalFeatures19optionalFeatureListySayAC0beH0OG_tF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-loadOptionalFeatures-optionalFeatureList" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venueservice#sdk-for-ios-explore-s-7heresdk12VenueServiceC20loadOptionalFeatures19optionalFeatureListySayAC0beH0OG_tF" class="token"><code>loadOptionalFeatures(optionalFeatureList:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1255,12 +1267,14 @@ The venue service is online only. Even if there is a cached venue on the device,
   Swift
 
   ``` highlight
-  public func loadOptionalFeatures ( optionalFeatureList : VenueService . VenueOptionalFeatureList )
+  public func loadOptionalFeatures(optionalFeatureList: VenueService.VenueOptionalFeatureList)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-venueservice#sdk-for-ios-explore-s-7heresdk12VenueServiceC0B19OptionalFeatureLista">VenueOptionalFeatureList</a>
 
   </div>
 

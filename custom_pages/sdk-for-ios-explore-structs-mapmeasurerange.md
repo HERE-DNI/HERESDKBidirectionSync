@@ -27,7 +27,7 @@ A map measure range.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15MapMeasureRangeV4kindAA0bC0V4KindOvp"></span>` `<span id="//apple_ref/swift/Property/kind" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-mapmeasurerange#/s:7heresdk15MapMeasureRangeV4kindAA0bC0V4KindOvp" class="token"><code>kind</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15MapMeasureRangeV4kindAA0bC0V4KindOvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-kind" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-mapmeasurerange#sdk-for-ios-explore-s-7heresdk15MapMeasureRangeV4kindAA0bC0V4KindOvp" class="token"><code>kind</code></a> 
 
   </div>
 
@@ -63,6 +63,10 @@ A map measure range.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-mapmeasure">MapMeasure</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ A map measure range.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15MapMeasureRangeV12minimumValueSdvp"></span>` `<span id="//apple_ref/swift/Property/minimumValue" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-mapmeasurerange#/s:7heresdk15MapMeasureRangeV12minimumValueSdvp" class="token"><code>minimumValue</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15MapMeasureRangeV12minimumValueSdvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-minimumValue" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-mapmeasurerange#sdk-for-ios-explore-s-7heresdk15MapMeasureRangeV12minimumValueSdvp" class="token"><code>minimumValue</code></a> 
 
   </div>
 
@@ -115,7 +119,7 @@ A map measure range.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15MapMeasureRangeV12maximumValueSdvp"></span>` `<span id="//apple_ref/swift/Property/maximumValue" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-mapmeasurerange#/s:7heresdk15MapMeasureRangeV12maximumValueSdvp" class="token"><code>maximumValue</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15MapMeasureRangeV12maximumValueSdvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-maximumValue" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-mapmeasurerange#sdk-for-ios-explore-s-7heresdk15MapMeasureRangeV12maximumValueSdvp" class="token"><code>maximumValue</code></a> 
 
   </div>
 
@@ -159,7 +163,7 @@ A map measure range.
 
 - <div>
 
-      init(kind: minimumValue: maximumValue: )
+   <span id="sdk-for-ios-explore-s-7heresdk15MapMeasureRangeV4kind12minimumValue07maximumG0AcA0bC0V4KindO_S2dtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-kind-minimumValue-maximumValue" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-mapmeasurerange#sdk-for-ios-explore-s-7heresdk15MapMeasureRangeV4kind12minimumValue07maximumG0AcA0bC0V4KindO_S2dtcfc" class="token"><code>init(kind:</code><wbr></wbr><code>minimumValue:</code><wbr></wbr><code>maximumValue:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -190,12 +194,14 @@ A map measure range.
   Swift
 
   ``` highlight
-  public init ( kind : MapMeasure . Kind , minimumValue : Double , maximumValue : Double )
+  public init(kind: MapMeasure.Kind, minimumValue: Double, maximumValue: Double)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-mapmeasure">MapMeasure</a>
 
   </div>
 

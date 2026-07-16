@@ -29,7 +29,7 @@ This struct presents all the fare data for a toll.
 
 - <div>
 
-  ` `<span id="/s:7heresdk8TollFareV8currencySSvp"></span>` `<span id="//apple_ref/swift/Property/currency" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-tollfare#/s:7heresdk8TollFareV8currencySSvp" class="token"><code>currency</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8TollFareV8currencySSvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-currency" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-tollfare#sdk-for-ios-navigate-s-7heresdk8TollFareV8currencySSvp" class="token"><code>currency</code></a> 
 
   </div>
 
@@ -73,7 +73,7 @@ This struct presents all the fare data for a toll.
 
 - <div>
 
-  ` `<span id="/s:7heresdk8TollFareV5priceSdvp"></span>` `<span id="//apple_ref/swift/Property/price" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-tollfare#/s:7heresdk8TollFareV5priceSdvp" class="token"><code>price</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8TollFareV5priceSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-price" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-tollfare#sdk-for-ios-navigate-s-7heresdk8TollFareV5priceSdvp" class="token"><code>price</code></a> 
 
   </div>
 
@@ -117,7 +117,7 @@ This struct presents all the fare data for a toll.
 
 - <div>
 
-  ` `<span id="/s:7heresdk8TollFareV14paymentMethodsSayAA13PaymentMethodOGvp"></span>` `<span id="//apple_ref/swift/Property/paymentMethods" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-tollfare#/s:7heresdk8TollFareV14paymentMethodsSayAA13PaymentMethodOGvp" class="token"><code>paymentMethods</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8TollFareV14paymentMethodsSayAA13PaymentMethodOGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-paymentMethods" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-tollfare#sdk-for-ios-navigate-s-7heresdk8TollFareV14paymentMethodsSayAA13PaymentMethodOGvp" class="token"><code>paymentMethods</code></a> 
 
   </div>
 
@@ -153,6 +153,10 @@ This struct presents all the fare data for a toll.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-paymentmethod">PaymentMethod</a>
+
   </div>
 
   </div>
@@ -161,7 +165,7 @@ This struct presents all the fare data for a toll.
 
 - <div>
 
-  ` `<span id="/s:7heresdk8TollFareV8timeRuleAA04TimeE0CSgvp"></span>` `<span id="//apple_ref/swift/Property/timeRule" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-tollfare#/s:7heresdk8TollFareV8timeRuleAA04TimeE0CSgvp" class="token"><code>timeRule</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8TollFareV8timeRuleAA04TimeE0CSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-timeRule" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-tollfare#sdk-for-ios-navigate-s-7heresdk8TollFareV8timeRuleAA04TimeE0CSgvp" class="token"><code>timeRule</code></a> 
 
   </div>
 
@@ -197,6 +201,10 @@ This struct presents all the fare data for a toll.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-timerule">TimeRule</a>
+
   </div>
 
   </div>
@@ -205,7 +213,7 @@ This struct presents all the fare data for a toll.
 
 - <div>
 
-  ` `<span id="/s:7heresdk8TollFareV12transpondersSaySSGvp"></span>` `<span id="//apple_ref/swift/Property/transponders" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-tollfare#/s:7heresdk8TollFareV12transpondersSaySSGvp" class="token"><code>transponders</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8TollFareV12transpondersSaySSGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-transponders" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-tollfare#sdk-for-ios-navigate-s-7heresdk8TollFareV12transpondersSaySSGvp" class="token"><code>transponders</code></a> 
 
   </div>
 
@@ -249,7 +257,7 @@ This struct presents all the fare data for a toll.
 
 - <div>
 
-  ` `<span id="/s:7heresdk8TollFareV4passAA0bC4PassVSgvp"></span>` `<span id="//apple_ref/swift/Property/pass" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-tollfare#/s:7heresdk8TollFareV4passAA0bC4PassVSgvp" class="token"><code>pass</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8TollFareV4passAA0bC4PassVSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-pass" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-tollfare#sdk-for-ios-navigate-s-7heresdk8TollFareV4passAA0bC4PassVSgvp" class="token"><code>pass</code></a> 
 
   </div>
 
@@ -285,6 +293,10 @@ This struct presents all the fare data for a toll.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-tollfarepass">TollFarePass</a>
+
   </div>
 
   </div>
@@ -293,7 +305,7 @@ This struct presents all the fare data for a toll.
 
 - <div>
 
-      init(currency: price: paymentMethods: timeRule: transponders: pass: )
+   <span id="sdk-for-ios-navigate-s-7heresdk8TollFareV8currency5price14paymentMethods8timeRule12transponders4passACSS_SdSayAA13PaymentMethodOGAA04TimeI0CSgSaySSGAA0bC4PassVSgtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-currency-price-paymentMethods-timeRule-transponders-pass" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-tollfare#sdk-for-ios-navigate-s-7heresdk8TollFareV8currency5price14paymentMethods8timeRule12transponders4passACSS_SdSayAA13PaymentMethodOGAA04TimeI0CSgSaySSGAA0bC4PassVSgtcfc" class="token"><code>init(currency:</code><wbr></wbr><code>price:</code><wbr></wbr><code>paymentMethods:</code><wbr></wbr><code>timeRule:</code><wbr></wbr><code>transponders:</code><wbr></wbr><code>pass:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -324,12 +336,16 @@ This struct presents all the fare data for a toll.
   Swift
 
   ``` highlight
-  public init ( currency : String , price : Double , paymentMethods : [ PaymentMethod ], timeRule : TimeRule ? = nil , transponders : [ String ] = [], pass : TollFarePass ? = nil )
+  public init(currency: String, price: Double, paymentMethods: [PaymentMethod], timeRule: TimeRule? = nil, transponders: [String] = [], pass: TollFarePass? = nil)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-paymentmethod">PaymentMethod</a>
+  - <a href="sdk-for-ios-navigate-classes-timerule">TimeRule</a>
+  - <a href="sdk-for-ios-navigate-structs-tollfarepass">TollFarePass</a>
 
   </div>
 

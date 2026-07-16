@@ -27,7 +27,7 @@ A map measure. Check <a href="sdk-for-ios-navigate-classes-mapcamera">`MapCamera
 
 - <div>
 
-  ` `<span id="/s:7heresdk10MapMeasureV4kindAC4KindOvp"></span>` `<span id="//apple_ref/swift/Property/kind" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-mapmeasure#/s:7heresdk10MapMeasureV4kindAC4KindOvp" class="token"><code>kind</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10MapMeasureV4kindAC4KindOvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-kind" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-mapmeasure#sdk-for-ios-navigate-s-7heresdk10MapMeasureV4kindAC4KindOvp" class="token"><code>kind</code></a> 
 
   </div>
 
@@ -63,6 +63,10 @@ A map measure. Check <a href="sdk-for-ios-navigate-classes-mapcamera">`MapCamera
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-mapmeasure-kind">Kind</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ A map measure. Check <a href="sdk-for-ios-navigate-classes-mapcamera">`MapCamera
 
 - <div>
 
-  ` `<span id="/s:7heresdk10MapMeasureV5valueSdvp"></span>` `<span id="//apple_ref/swift/Property/value" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-mapmeasure#/s:7heresdk10MapMeasureV5valueSdvp" class="token"><code>value</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10MapMeasureV5valueSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-value" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-mapmeasure#sdk-for-ios-navigate-s-7heresdk10MapMeasureV5valueSdvp" class="token"><code>value</code></a> 
 
   </div>
 
@@ -115,7 +119,7 @@ A map measure. Check <a href="sdk-for-ios-navigate-classes-mapcamera">`MapCamera
 
 - <div>
 
-      init(kind: value: )
+   <span id="sdk-for-ios-navigate-s-7heresdk10MapMeasureV4kind5valueA2C4KindO_Sdtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-kind-value" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-mapmeasure#sdk-for-ios-navigate-s-7heresdk10MapMeasureV4kind5valueA2C4KindO_Sdtcfc" class="token"><code>init(kind:</code><wbr></wbr><code>value:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -146,12 +150,14 @@ A map measure. Check <a href="sdk-for-ios-navigate-classes-mapcamera">`MapCamera
   Swift
 
   ``` highlight
-  public init ( kind : MapMeasure . Kind , value : Double )
+  public init(kind: MapMeasure.Kind, value: Double)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-mapmeasure-kind">Kind</a>
 
   </div>
 
@@ -188,7 +194,7 @@ A map measure. Check <a href="sdk-for-ios-navigate-classes-mapcamera">`MapCamera
 
 - <div>
 
-  ` `<span id="/s:7heresdk10MapMeasureV4KindO"></span>` `<span id="//apple_ref/swift/Enum/Kind" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-mapmeasure#/s:7heresdk10MapMeasureV4KindO" class="token"><code>Kind</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10MapMeasureV4KindO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-Kind" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-mapmeasure#sdk-for-ios-navigate-s-7heresdk10MapMeasureV4KindO" class="token"><code>Kind</code></a> 
 
   </div>
 

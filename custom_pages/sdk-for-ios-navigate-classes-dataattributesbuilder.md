@@ -37,7 +37,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      init()
+   <span id="sdk-for-ios-navigate-s-7heresdk21DataAttributesBuilderCACycfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-dataattributesbuilder#sdk-for-ios-navigate-s-7heresdk21DataAttributesBuilderCACycfc" class="token"><code>init()</code></a> 
 
   </div>
 
@@ -68,10 +68,8 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public init ()
+  public init()
   ```
-
-  </pre>
 
   </div>
 
@@ -83,7 +81,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      with(name: value: )
+   <span id="sdk-for-ios-navigate-s-7heresdk21DataAttributesBuilderC4with4name5valueACSS_SStF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-with-name-value" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-dataattributesbuilder#sdk-for-ios-navigate-s-7heresdk21DataAttributesBuilderC4with4name5valueACSS_SStF" class="token"><code>with(name:</code><wbr></wbr><code>value:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -114,10 +112,8 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func with ( name : String , value : String ) -> DataAttributesBuilder
+  public func with(name: String, value: String) -> DataAttributesBuilder
   ```
-
-  </pre>
 
   </div>
 
@@ -164,7 +160,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      with(name: value: )
+   <span id="sdk-for-ios-navigate-s-7heresdk21DataAttributesBuilderC4with4name5valueACSS_s5Int64VtF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-with-name-value" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-dataattributesbuilder#sdk-for-ios-navigate-s-7heresdk21DataAttributesBuilderC4with4name5valueACSS_s5Int64VtF" class="token"><code>with(name:</code><wbr></wbr><code>value:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -195,10 +191,8 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func with ( name : String , value : Int64 ) -> DataAttributesBuilder
+  public func with(name: String, value: Int64) -> DataAttributesBuilder
   ```
-
-  </pre>
 
   </div>
 
@@ -245,7 +239,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      with(name: value: )
+   <span id="sdk-for-ios-navigate-s-7heresdk21DataAttributesBuilderC4with4name5valueACSS_SftF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-with-name-value" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-dataattributesbuilder#sdk-for-ios-navigate-s-7heresdk21DataAttributesBuilderC4with4name5valueACSS_SftF" class="token"><code>with(name:</code><wbr></wbr><code>value:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -276,10 +270,8 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func with ( name : String , value : Float ) -> DataAttributesBuilder
+  public func with(name: String, value: Float) -> DataAttributesBuilder
   ```
-
-  </pre>
 
   </div>
 
@@ -326,7 +318,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      with(name: value: )
+   <span id="sdk-for-ios-navigate-s-7heresdk21DataAttributesBuilderC4with4name5valueACSS_SdtF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-with-name-value" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-dataattributesbuilder#sdk-for-ios-navigate-s-7heresdk21DataAttributesBuilderC4with4name5valueACSS_SdtF" class="token"><code>with(name:</code><wbr></wbr><code>value:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -357,10 +349,8 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func with ( name : String , value : Double ) -> DataAttributesBuilder
+  public func with(name: String, value: Double) -> DataAttributesBuilder
   ```
-
-  </pre>
 
   </div>
 
@@ -407,7 +397,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      with(name: value: )
+   <span id="sdk-for-ios-navigate-s-7heresdk21DataAttributesBuilderC4with4name5valueACSS_SbtF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-with-name-value" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-dataattributesbuilder#sdk-for-ios-navigate-s-7heresdk21DataAttributesBuilderC4with4name5valueACSS_SbtF" class="token"><code>with(name:</code><wbr></wbr><code>value:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -438,10 +428,8 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func with ( name : String , value : Bool ) -> DataAttributesBuilder
+  public func with(name: String, value: Bool) -> DataAttributesBuilder
   ```
-
-  </pre>
 
   </div>
 
@@ -488,7 +476,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      with(name: value: )
+   <span id="sdk-for-ios-navigate-s-7heresdk21DataAttributesBuilderC4with4name5valueACSS_AA0B14AttributeValueCtF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-with-name-value" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-dataattributesbuilder#sdk-for-ios-navigate-s-7heresdk21DataAttributesBuilderC4with4name5valueACSS_AA0B14AttributeValueCtF" class="token"><code>with(name:</code><wbr></wbr><code>value:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -519,12 +507,14 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func with ( name : String , value : DataAttributeValue ) -> DataAttributesBuilder
+  public func with(name: String, value: DataAttributeValue) -> DataAttributesBuilder
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-dataattributevalue">DataAttributeValue</a>
 
   </div>
 
@@ -569,7 +559,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      build()
+   <span id="sdk-for-ios-navigate-s-7heresdk21DataAttributesBuilderC5buildAA0bC0CyF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-build" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-dataattributesbuilder#sdk-for-ios-navigate-s-7heresdk21DataAttributesBuilderC5buildAA0bC0CyF" class="token"><code>build()</code></a> 
 
   </div>
 
@@ -600,12 +590,14 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func build () -> DataAttributes
+  public func build() -> DataAttributes
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-dataattributes">DataAttributes</a>
 
   </div>
 

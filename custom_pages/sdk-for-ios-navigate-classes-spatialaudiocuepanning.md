@@ -35,7 +35,7 @@ Use the `SpatialAudioCuePanning` to notify each of the azimuths which compose a 
 
 - <div>
 
-  ` `<span id="/s:7heresdk22SpatialAudioCuePanningC02onB21AzimuthStarterHandlera"></span>` `<span id="//apple_ref/swift/Alias/onSpatialAzimuthStarterHandler" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-spatialaudiocuepanning#/s:7heresdk22SpatialAudioCuePanningC02onB21AzimuthStarterHandlera" class="token"><code>onSpatialAzimuthStarterHandler</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk22SpatialAudioCuePanningC02onB21AzimuthStarterHandlera"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Alias-onSpatialAzimuthStarterHandler" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-spatialaudiocuepanning#sdk-for-ios-navigate-s-7heresdk22SpatialAudioCuePanningC02onB21AzimuthStarterHandlera" class="token"><code>onSpatialAzimuthStarterHandler</code></a> 
 
   </div>
 
@@ -71,12 +71,14 @@ Use the `SpatialAudioCuePanning` to notify each of the azimuths which compose a 
   Swift
 
   ``` highlight
-  public typealias onSpatialAzimuthStarterHandler = ( _ spatialTrajectoryData : SpatialTrajectoryData ) -> Void
+  public typealias onSpatialAzimuthStarterHandler = (_ spatialTrajectoryData: SpatialTrajectoryData) -> Void
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-spatialtrajectorydata">SpatialTrajectoryData</a>
 
   </div>
 
@@ -107,7 +109,7 @@ Use the `SpatialAudioCuePanning` to notify each of the azimuths which compose a 
 
 - <div>
 
-      startAngularPanning(nextCustomPanningData: azimuthCallback: )
+   <span id="sdk-for-ios-navigate-s-7heresdk22SpatialAudioCuePanningC012startAngularE0010nextCustomE4Data15azimuthCallbackyAA0ieJ0VSg_yAA0b10TrajectoryJ0VctF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-startAngularPanning-nextCustomPanningData-azimuthCallback" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-spatialaudiocuepanning#sdk-for-ios-navigate-s-7heresdk22SpatialAudioCuePanningC012startAngularE0010nextCustomE4Data15azimuthCallbackyAA0ieJ0VSg_yAA0b10TrajectoryJ0VctF" class="token"><code>startAngularPanning(nextCustomPanningData:</code><wbr></wbr><code>azimuthCallback:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -125,7 +127,7 @@ Use the `SpatialAudioCuePanning` to notify each of the azimuths which compose a 
 
   <div class="abstract">
 
-  This method will retrieve a stream of azimuth values to be passed onto the spatial audio renderer. An optional custom value for <a href="sdk-for-ios-navigate-structs-custompanningdata#/s:7heresdk17CustomPanningDataV25estimatedAudioCueDurationSdSgvp">`CustomPanningData.estimatedAudioCueDuration`</a>, <a href="sdk-for-ios-navigate-structs-custompanningdata#/s:7heresdk17CustomPanningDataV23initialAzimuthInDegreesSdSgvp">`CustomPanningData.initialAzimuthInDegrees`</a>, or its <a href="sdk-for-ios-navigate-structs-custompanningdata#/s:7heresdk17CustomPanningDataV21sweepAzimuthInDegreesSdSgvp">`CustomPanningData.sweepAzimuthInDegrees`</a> can be here defined if the default data does not fully match the utilized Language or TTS engine or angle expectations. If startAngularPanning is called to spatialize the audio cue of a new maneuver before the full completion of a previous spatial audio trajectory, then <a href="sdk-for-ios-navigate-protocols-eventtextdelegate">`EventTextDelegate`</a> will retrieve the azimuth values of the new maneuver.
+  This method will retrieve a stream of azimuth values to be passed onto the spatial audio renderer. An optional custom value for <a href="sdk-for-ios-navigate-structs-custompanningdata#sdk-for-ios-navigate-s-7heresdk17CustomPanningDataV25estimatedAudioCueDurationSdSgvp">`CustomPanningData.estimatedAudioCueDuration`</a>, <a href="sdk-for-ios-navigate-structs-custompanningdata#sdk-for-ios-navigate-s-7heresdk17CustomPanningDataV23initialAzimuthInDegreesSdSgvp">`CustomPanningData.initialAzimuthInDegrees`</a>, or its <a href="sdk-for-ios-navigate-structs-custompanningdata#sdk-for-ios-navigate-s-7heresdk17CustomPanningDataV21sweepAzimuthInDegreesSdSgvp">`CustomPanningData.sweepAzimuthInDegrees`</a> can be here defined if the default data does not fully match the utilized Language or TTS engine or angle expectations. If startAngularPanning is called to spatialize the audio cue of a new maneuver before the full completion of a previous spatial audio trajectory, then <a href="sdk-for-ios-navigate-protocols-eventtextdelegate">`EventTextDelegate`</a> will retrieve the azimuth values of the new maneuver.
 
   </div>
 
@@ -138,12 +140,15 @@ Use the `SpatialAudioCuePanning` to notify each of the azimuths which compose a 
   Swift
 
   ``` highlight
-  public func startAngularPanning ( nextCustomPanningData : CustomPanningData ?, azimuthCallback : @escaping SpatialAudioCuePanning . onSpatialAzimuthStarterHandler )
+  public func startAngularPanning(nextCustomPanningData: CustomPanningData?, azimuthCallback: @escaping SpatialAudioCuePanning.onSpatialAzimuthStarterHandler)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-custompanningdata">CustomPanningData</a>
+  - <a href="sdk-for-ios-navigate-classes-spatialaudiocuepanning#sdk-for-ios-navigate-s-7heresdk22SpatialAudioCuePanningC02onB21AzimuthStarterHandlera">onSpatialAzimuthStarterHandler</a>
 
   </div>
 

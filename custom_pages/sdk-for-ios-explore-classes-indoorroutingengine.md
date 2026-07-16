@@ -37,7 +37,7 @@ Note: This feature is in BETA state and thus there can be bugs and unexpected be
 
 - <div>
 
-      init(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk19IndoorRoutingEngineCyAcA12VenueServiceCcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-indoorroutingengine#sdk-for-ios-explore-s-7heresdk19IndoorRoutingEngineCyAcA12VenueServiceCcfc" class="token"><code>init(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -68,12 +68,14 @@ Note: This feature is in BETA state and thus there can be bugs and unexpected be
   Swift
 
   ``` highlight
-  public init ( _ venueService : VenueService )
+  public init(_ venueService: VenueService)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-venueservice">VenueService</a>
 
   </div>
 
@@ -104,7 +106,7 @@ Note: This feature is in BETA state and thus there can be bugs and unexpected be
 
 - <div>
 
-      calculateRoute(from: to: routeOptions: completion: )
+   <span id="sdk-for-ios-explore-s-7heresdk19IndoorRoutingEngineC14calculateRoute4from2to12routeOptions10completionyAA0B8WaypointC_AjA0bfJ0VyAA0bC5ErrorOSg_SayAA0F0CGSgtctF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-calculateRoute-from-to-routeOptions-completion" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-indoorroutingengine#sdk-for-ios-explore-s-7heresdk19IndoorRoutingEngineC14calculateRoute4from2to12routeOptions10completionyAA0B8WaypointC_AjA0bfJ0VyAA0bC5ErrorOSg_SayAA0F0CGSgtctF" class="token"><code>calculateRoute(from:</code><wbr></wbr><code>to:</code><wbr></wbr><code>routeOptions:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -135,12 +137,16 @@ Note: This feature is in BETA state and thus there can be bugs and unexpected be
   Swift
 
   ``` highlight
-  public func calculateRoute ( from : IndoorWaypoint , to : IndoorWaypoint , routeOptions : IndoorRouteOptions , completion : @escaping CalculateIndoorRouteCompletionHandler )
+  public func calculateRoute(from: IndoorWaypoint, to: IndoorWaypoint, routeOptions: IndoorRouteOptions, completion: @escaping CalculateIndoorRouteCompletionHandler)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-indoorwaypoint">IndoorWaypoint</a>
+  - <a href="sdk-for-ios-explore-structs-indoorrouteoptions">IndoorRouteOptions</a>
+  - <a href="sdk-for-ios-explore-routing#sdk-for-ios-explore-s-7heresdk37CalculateIndoorRouteCompletionHandlera">CalculateIndoorRouteCompletionHandler</a>
 
   </div>
 

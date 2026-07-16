@@ -27,7 +27,7 @@ Represents data to search for RDS encryption keys.
 
 - <div>
 
-  ` `<span id="/s:7heresdk24RDSEncryptionKeysRequestV11countryCodes5UInt8Vvp"></span>` `<span id="//apple_ref/swift/Property/countryCode" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-rdsencryptionkeysrequest#/s:7heresdk24RDSEncryptionKeysRequestV11countryCodes5UInt8Vvp" class="token"><code>countryCode</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk24RDSEncryptionKeysRequestV11countryCodes5UInt8Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-countryCode" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-rdsencryptionkeysrequest#sdk-for-ios-navigate-s-7heresdk24RDSEncryptionKeysRequestV11countryCodes5UInt8Vvp" class="token"><code>countryCode</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Represents data to search for RDS encryption keys.
 
 - <div>
 
-  ` `<span id="/s:7heresdk24RDSEncryptionKeysRequestV3sids5UInt8Vvp"></span>` `<span id="//apple_ref/swift/Property/sid" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-rdsencryptionkeysrequest#/s:7heresdk24RDSEncryptionKeysRequestV3sids5UInt8Vvp" class="token"><code>sid</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk24RDSEncryptionKeysRequestV3sids5UInt8Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-sid" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-rdsencryptionkeysrequest#sdk-for-ios-navigate-s-7heresdk24RDSEncryptionKeysRequestV3sids5UInt8Vvp" class="token"><code>sid</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Represents data to search for RDS encryption keys.
 
 - <div>
 
-  ` `<span id="/s:7heresdk24RDSEncryptionKeysRequestV19ltnBeforeEncryptions5UInt8Vvp"></span>` `<span id="//apple_ref/swift/Property/ltnBeforeEncryption" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-rdsencryptionkeysrequest#/s:7heresdk24RDSEncryptionKeysRequestV19ltnBeforeEncryptions5UInt8Vvp" class="token"><code>ltnBeforeEncryption</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk24RDSEncryptionKeysRequestV19ltnBeforeEncryptions5UInt8Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-ltnBeforeEncryption" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-rdsencryptionkeysrequest#sdk-for-ios-navigate-s-7heresdk24RDSEncryptionKeysRequestV19ltnBeforeEncryptions5UInt8Vvp" class="token"><code>ltnBeforeEncryption</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Represents data to search for RDS encryption keys.
 
 - <div>
 
-      init(countryCode: sid: ltnBeforeEncryption: )
+   <span id="sdk-for-ios-navigate-s-7heresdk24RDSEncryptionKeysRequestV11countryCode3sid19ltnBeforeEncryptionACs5UInt8V_A2Htcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-countryCode-sid-ltnBeforeEncryption" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-rdsencryptionkeysrequest#sdk-for-ios-navigate-s-7heresdk24RDSEncryptionKeysRequestV11countryCode3sid19ltnBeforeEncryptionACs5UInt8V_A2Htcfc" class="token"><code>init(countryCode:</code><wbr></wbr><code>sid:</code><wbr></wbr><code>ltnBeforeEncryption:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -190,10 +190,8 @@ Represents data to search for RDS encryption keys.
   Swift
 
   ``` highlight
-  public init ( countryCode : UInt8 , sid : UInt8 , ltnBeforeEncryption : UInt8 )
+  public init(countryCode: UInt8, sid: UInt8, ltnBeforeEncryption: UInt8)
   ```
-
-  </pre>
 
   </div>
 

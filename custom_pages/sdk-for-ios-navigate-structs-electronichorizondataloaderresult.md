@@ -29,7 +29,7 @@ Note: This is a **beta** release of this feature, so there could be a few bugs a
 
 - <div>
 
-  ` `<span id="/s:7heresdk33ElectronicHorizonDataLoaderResultV9errorCodeAA0bcde5ErrorH0OSgvp"></span>` `<span id="//apple_ref/swift/Property/errorCode" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-electronichorizondataloaderresult#/s:7heresdk33ElectronicHorizonDataLoaderResultV9errorCodeAA0bcde5ErrorH0OSgvp" class="token"><code>errorCode</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk33ElectronicHorizonDataLoaderResultV9errorCodeAA0bcde5ErrorH0OSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-errorCode" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-electronichorizondataloaderresult#sdk-for-ios-navigate-s-7heresdk33ElectronicHorizonDataLoaderResultV9errorCodeAA0bcde5ErrorH0OSgvp" class="token"><code>errorCode</code></a> 
 
   </div>
 
@@ -65,6 +65,10 @@ Note: This is a **beta** release of this feature, so there could be a few bugs a
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-electronichorizondataloadererrorcode">ElectronicHorizonDataLoaderErrorCode</a>
+
   </div>
 
   </div>
@@ -73,7 +77,7 @@ Note: This is a **beta** release of this feature, so there could be a few bugs a
 
 - <div>
 
-  ` `<span id="/s:7heresdk33ElectronicHorizonDataLoaderResultV07segmentD0AA07SegmentD0CSgvp"></span>` `<span id="//apple_ref/swift/Property/segmentData" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-electronichorizondataloaderresult#/s:7heresdk33ElectronicHorizonDataLoaderResultV07segmentD0AA07SegmentD0CSgvp" class="token"><code>segmentData</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk33ElectronicHorizonDataLoaderResultV07segmentD0AA07SegmentD0CSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-segmentData" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-electronichorizondataloaderresult#sdk-for-ios-navigate-s-7heresdk33ElectronicHorizonDataLoaderResultV07segmentD0AA07SegmentD0CSgvp" class="token"><code>segmentData</code></a> 
 
   </div>
 
@@ -109,6 +113,10 @@ Note: This is a **beta** release of this feature, so there could be a few bugs a
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-segmentdata">SegmentData</a>
+
   </div>
 
   </div>
@@ -117,7 +125,7 @@ Note: This is a **beta** release of this feature, so there could be a few bugs a
 
 - <div>
 
-      init(errorCode: segmentData: )
+   <span id="sdk-for-ios-navigate-s-7heresdk33ElectronicHorizonDataLoaderResultV9errorCode07segmentD0AcA0bcde5ErrorH0OSg_AA07SegmentD0CSgtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-errorCode-segmentData" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-electronichorizondataloaderresult#sdk-for-ios-navigate-s-7heresdk33ElectronicHorizonDataLoaderResultV9errorCode07segmentD0AcA0bcde5ErrorH0OSg_AA07SegmentD0CSgtcfc" class="token"><code>init(errorCode:</code><wbr></wbr><code>segmentData:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -150,12 +158,15 @@ Note: This is a **beta** release of this feature, so there could be a few bugs a
   Swift
 
   ``` highlight
-  public init ( errorCode : ElectronicHorizonDataLoaderErrorCode ? = nil , segmentData : SegmentData ? = nil )
+  public init(errorCode: ElectronicHorizonDataLoaderErrorCode? = nil, segmentData: SegmentData? = nil)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-electronichorizondataloadererrorcode">ElectronicHorizonDataLoaderErrorCode</a>
+  - <a href="sdk-for-ios-navigate-classes-segmentdata">SegmentData</a>
 
   </div>
 

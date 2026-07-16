@@ -27,7 +27,7 @@ Specifies Truck road type
 
 - <div>
 
-  ` `<span id="/s:7heresdk13TruckRoadTypeO3et4yA2CmF"></span>` `<span id="//apple_ref/swift/Element/et4" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-truckroadtype#/s:7heresdk13TruckRoadTypeO3et4yA2CmF" class="token"><code>et4</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13TruckRoadTypeO3et4yA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-et4" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-truckroadtype#sdk-for-ios-explore-s-7heresdk13TruckRoadTypeO3et4yA2CmF" class="token"><code>et4</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Specifies Truck road type
 
 - <div>
 
-  ` `<span id="/s:7heresdk13TruckRoadTypeO3et2yA2CmF"></span>` `<span id="//apple_ref/swift/Element/et2" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-truckroadtype#/s:7heresdk13TruckRoadTypeO3et2yA2CmF" class="token"><code>et2</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13TruckRoadTypeO3et2yA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-et2" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-truckroadtype#sdk-for-ios-explore-s-7heresdk13TruckRoadTypeO3et2yA2CmF" class="token"><code>et2</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Specifies Truck road type
 
 - <div>
 
-  ` `<span id="/s:7heresdk13TruckRoadTypeO2a4yA2CmF"></span>` `<span id="//apple_ref/swift/Element/a4" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-truckroadtype#/s:7heresdk13TruckRoadTypeO2a4yA2CmF" class="token"><code>a4</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13TruckRoadTypeO2a4yA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-a4" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-truckroadtype#sdk-for-ios-explore-s-7heresdk13TruckRoadTypeO2a4yA2CmF" class="token"><code>a4</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Specifies Truck road type
 
 - <div>
 
-  ` `<span id="/s:7heresdk13TruckRoadTypeO2a2yA2CmF"></span>` `<span id="//apple_ref/swift/Element/a2" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-truckroadtype#/s:7heresdk13TruckRoadTypeO2a2yA2CmF" class="token"><code>a2</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13TruckRoadTypeO2a2yA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-a2" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-truckroadtype#sdk-for-ios-explore-s-7heresdk13TruckRoadTypeO2a2yA2CmF" class="token"><code>a2</code></a> 
 
   </div>
 
@@ -203,7 +203,7 @@ Specifies Truck road type
 
 - <div>
 
-  ` `<span id="/s:7heresdk13TruckRoadTypeO2b4yA2CmF"></span>` `<span id="//apple_ref/swift/Element/b4" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-truckroadtype#/s:7heresdk13TruckRoadTypeO2b4yA2CmF" class="token"><code>b4</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13TruckRoadTypeO2b4yA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-b4" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-truckroadtype#sdk-for-ios-explore-s-7heresdk13TruckRoadTypeO2b4yA2CmF" class="token"><code>b4</code></a> 
 
   </div>
 
@@ -247,7 +247,7 @@ Specifies Truck road type
 
 - <div>
 
-  ` `<span id="/s:7heresdk13TruckRoadTypeO2b2yA2CmF"></span>` `<span id="//apple_ref/swift/Element/b2" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-truckroadtype#/s:7heresdk13TruckRoadTypeO2b2yA2CmF" class="token"><code>b2</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13TruckRoadTypeO2b2yA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-b2" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-truckroadtype#sdk-for-ios-explore-s-7heresdk13TruckRoadTypeO2b2yA2CmF" class="token"><code>b2</code></a> 
 
   </div>
 
@@ -291,7 +291,7 @@ Specifies Truck road type
 
 - <div>
 
-  ` `<span id="/s:7heresdk13TruckRoadTypeO1cyA2CmF"></span>` `<span id="//apple_ref/swift/Element/c" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-truckroadtype#/s:7heresdk13TruckRoadTypeO1cyA2CmF" class="token"><code>c</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13TruckRoadTypeO1cyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-c" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-truckroadtype#sdk-for-ios-explore-s-7heresdk13TruckRoadTypeO1cyA2CmF" class="token"><code>c</code></a> 
 
   </div>
 
@@ -335,7 +335,7 @@ Specifies Truck road type
 
 - <div>
 
-  ` `<span id="/s:7heresdk13TruckRoadTypeO1dyA2CmF"></span>` `<span id="//apple_ref/swift/Element/d" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-truckroadtype#/s:7heresdk13TruckRoadTypeO1dyA2CmF" class="token"><code>d</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13TruckRoadTypeO1dyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-d" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-truckroadtype#sdk-for-ios-explore-s-7heresdk13TruckRoadTypeO1dyA2CmF" class="token"><code>d</code></a> 
 
   </div>
 
@@ -379,7 +379,7 @@ Specifies Truck road type
 
 - <div>
 
-  ` `<span id="/s:7heresdk13TruckRoadTypeO3bk1yA2CmF"></span>` `<span id="//apple_ref/swift/Element/bk1" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-truckroadtype#/s:7heresdk13TruckRoadTypeO3bk1yA2CmF" class="token"><code>bk1</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13TruckRoadTypeO3bk1yA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-bk1" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-truckroadtype#sdk-for-ios-explore-s-7heresdk13TruckRoadTypeO3bk1yA2CmF" class="token"><code>bk1</code></a> 
 
   </div>
 
@@ -423,7 +423,7 @@ Specifies Truck road type
 
 - <div>
 
-  ` `<span id="/s:7heresdk13TruckRoadTypeO3bk2yA2CmF"></span>` `<span id="//apple_ref/swift/Element/bk2" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-truckroadtype#/s:7heresdk13TruckRoadTypeO3bk2yA2CmF" class="token"><code>bk2</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13TruckRoadTypeO3bk2yA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-bk2" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-truckroadtype#sdk-for-ios-explore-s-7heresdk13TruckRoadTypeO3bk2yA2CmF" class="token"><code>bk2</code></a> 
 
   </div>
 
@@ -467,7 +467,7 @@ Specifies Truck road type
 
 - <div>
 
-  ` `<span id="/s:7heresdk13TruckRoadTypeO3bk3yA2CmF"></span>` `<span id="//apple_ref/swift/Element/bk3" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-truckroadtype#/s:7heresdk13TruckRoadTypeO3bk3yA2CmF" class="token"><code>bk3</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13TruckRoadTypeO3bk3yA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-bk3" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-truckroadtype#sdk-for-ios-explore-s-7heresdk13TruckRoadTypeO3bk3yA2CmF" class="token"><code>bk3</code></a> 
 
   </div>
 
@@ -511,7 +511,7 @@ Specifies Truck road type
 
 - <div>
 
-  ` `<span id="/s:7heresdk13TruckRoadTypeO3bk4yA2CmF"></span>` `<span id="//apple_ref/swift/Element/bk4" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-truckroadtype#/s:7heresdk13TruckRoadTypeO3bk4yA2CmF" class="token"><code>bk4</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13TruckRoadTypeO3bk4yA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-bk4" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-truckroadtype#sdk-for-ios-explore-s-7heresdk13TruckRoadTypeO3bk4yA2CmF" class="token"><code>bk4</code></a> 
 
   </div>
 

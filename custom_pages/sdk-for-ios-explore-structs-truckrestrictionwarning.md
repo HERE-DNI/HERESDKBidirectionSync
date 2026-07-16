@@ -27,7 +27,7 @@ Represents truck restrictions. For example, there can be a bridge ahead not high
 
 - <div>
 
-  ` `<span id="/s:7heresdk23TruckRestrictionWarningV2ids5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/id" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-truckrestrictionwarning#/s:7heresdk23TruckRestrictionWarningV2ids5Int32Vvp" class="token"><code>id</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk23TruckRestrictionWarningV2ids5Int32Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-id" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-truckrestrictionwarning#sdk-for-ios-explore-s-7heresdk23TruckRestrictionWarningV2ids5Int32Vvp" class="token"><code>id</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Represents truck restrictions. For example, there can be a bridge ahead not high
 
 - <div>
 
-  ` `<span id="/s:7heresdk23TruckRestrictionWarningV16distanceInMetersSdvp"></span>` `<span id="//apple_ref/swift/Property/distanceInMeters" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-truckrestrictionwarning#/s:7heresdk23TruckRestrictionWarningV16distanceInMetersSdvp" class="token"><code>distanceInMeters</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk23TruckRestrictionWarningV16distanceInMetersSdvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-distanceInMeters" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-truckrestrictionwarning#sdk-for-ios-explore-s-7heresdk23TruckRestrictionWarningV16distanceInMetersSdvp" class="token"><code>distanceInMeters</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Represents truck restrictions. For example, there can be a bridge ahead not high
 
 - <div>
 
-  ` `<span id="/s:7heresdk23TruckRestrictionWarningV06weightC0AA06WeightC0VSgvp"></span>` `<span id="//apple_ref/swift/Property/weightRestriction" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-truckrestrictionwarning#/s:7heresdk23TruckRestrictionWarningV06weightC0AA06WeightC0VSgvp" class="token"><code>weightRestriction</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk23TruckRestrictionWarningV06weightC0AA06WeightC0VSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-weightRestriction" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-truckrestrictionwarning#sdk-for-ios-explore-s-7heresdk23TruckRestrictionWarningV06weightC0AA06WeightC0VSgvp" class="token"><code>weightRestriction</code></a> 
 
   </div>
 
@@ -151,6 +151,10 @@ Represents truck restrictions. For example, there can be a bridge ahead not high
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-weightrestriction">WeightRestriction</a>
+
   </div>
 
   </div>
@@ -159,7 +163,7 @@ Represents truck restrictions. For example, there can be a bridge ahead not high
 
 - <div>
 
-  ` `<span id="/s:7heresdk23TruckRestrictionWarningV09dimensionC0AA09DimensionC0VSgvp"></span>` `<span id="//apple_ref/swift/Property/dimensionRestriction" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-truckrestrictionwarning#/s:7heresdk23TruckRestrictionWarningV09dimensionC0AA09DimensionC0VSgvp" class="token"><code>dimensionRestriction</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk23TruckRestrictionWarningV09dimensionC0AA09DimensionC0VSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-dimensionRestriction" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-truckrestrictionwarning#sdk-for-ios-explore-s-7heresdk23TruckRestrictionWarningV09dimensionC0AA09DimensionC0VSgvp" class="token"><code>dimensionRestriction</code></a> 
 
   </div>
 
@@ -195,6 +199,10 @@ Represents truck restrictions. For example, there can be a bridge ahead not high
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-dimensionrestriction">DimensionRestriction</a>
+
   </div>
 
   </div>
@@ -203,7 +211,7 @@ Represents truck restrictions. For example, there can be a bridge ahead not high
 
 - <div>
 
-  ` `<span id="/s:7heresdk23TruckRestrictionWarningV12distanceTypeAA08DistanceF0Ovp"></span>` `<span id="//apple_ref/swift/Property/distanceType" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-truckrestrictionwarning#/s:7heresdk23TruckRestrictionWarningV12distanceTypeAA08DistanceF0Ovp" class="token"><code>distanceType</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk23TruckRestrictionWarningV12distanceTypeAA08DistanceF0Ovp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-distanceType" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-truckrestrictionwarning#sdk-for-ios-explore-s-7heresdk23TruckRestrictionWarningV12distanceTypeAA08DistanceF0Ovp" class="token"><code>distanceType</code></a> 
 
   </div>
 
@@ -221,7 +229,7 @@ Represents truck restrictions. For example, there can be a bridge ahead not high
 
   <div class="abstract">
 
-  Indicates if the specified truck restriction is ahead of the vehicle or has just passed by. If it is ahead, then <a href="sdk-for-ios-explore-structs-truckrestrictionwarning#/s:7heresdk23TruckRestrictionWarningV16distanceInMetersSdvp">`TruckRestrictionWarning.distanceInMeters`</a> is greater than 0.
+  Indicates if the specified truck restriction is ahead of the vehicle or has just passed by. If it is ahead, then <a href="sdk-for-ios-explore-structs-truckrestrictionwarning#sdk-for-ios-explore-s-7heresdk23TruckRestrictionWarningV16distanceInMetersSdvp">`TruckRestrictionWarning.distanceInMeters`</a> is greater than 0.
 
   </div>
 
@@ -239,6 +247,10 @@ Represents truck restrictions. For example, there can be a bridge ahead not high
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-distancetype">DistanceType</a>
+
   </div>
 
   </div>
@@ -247,7 +259,7 @@ Represents truck restrictions. For example, there can be a bridge ahead not high
 
 - <div>
 
-  ` `<span id="/s:7heresdk23TruckRestrictionWarningV12trailerCountAA12IntegerRangeVSgvp"></span>` `<span id="//apple_ref/swift/Property/trailerCount" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-truckrestrictionwarning#/s:7heresdk23TruckRestrictionWarningV12trailerCountAA12IntegerRangeVSgvp" class="token"><code>trailerCount</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk23TruckRestrictionWarningV12trailerCountAA12IntegerRangeVSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-trailerCount" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-truckrestrictionwarning#sdk-for-ios-explore-s-7heresdk23TruckRestrictionWarningV12trailerCountAA12IntegerRangeVSgvp" class="token"><code>trailerCount</code></a> 
 
   </div>
 
@@ -283,6 +295,10 @@ Represents truck restrictions. For example, there can be a bridge ahead not high
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-integerrange">IntegerRange</a>
+
   </div>
 
   </div>
@@ -291,7 +307,7 @@ Represents truck restrictions. For example, there can be a bridge ahead not high
 
 - <div>
 
-  ` `<span id="/s:7heresdk23TruckRestrictionWarningV8timeRuleAA04TimeF0CSgvp"></span>` `<span id="//apple_ref/swift/Property/timeRule" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-truckrestrictionwarning#/s:7heresdk23TruckRestrictionWarningV8timeRuleAA04TimeF0CSgvp" class="token"><code>timeRule</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk23TruckRestrictionWarningV8timeRuleAA04TimeF0CSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-timeRule" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-truckrestrictionwarning#sdk-for-ios-explore-s-7heresdk23TruckRestrictionWarningV8timeRuleAA04TimeF0CSgvp" class="token"><code>timeRule</code></a> 
 
   </div>
 
@@ -327,6 +343,10 @@ Represents truck restrictions. For example, there can be a bridge ahead not high
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-timerule">TimeRule</a>
+
   </div>
 
   </div>
@@ -335,7 +355,7 @@ Represents truck restrictions. For example, there can be a bridge ahead not high
 
 - <div>
 
-  ` `<span id="/s:7heresdk23TruckRestrictionWarningV13truckRoadTypeAA0bfG0OSgvp"></span>` `<span id="//apple_ref/swift/Property/truckRoadType" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-truckrestrictionwarning#/s:7heresdk23TruckRestrictionWarningV13truckRoadTypeAA0bfG0OSgvp" class="token"><code>truckRoadType</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk23TruckRestrictionWarningV13truckRoadTypeAA0bfG0OSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-truckRoadType" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-truckrestrictionwarning#sdk-for-ios-explore-s-7heresdk23TruckRestrictionWarningV13truckRoadTypeAA0bfG0OSgvp" class="token"><code>truckRoadType</code></a> 
 
   </div>
 
@@ -371,6 +391,10 @@ Represents truck restrictions. For example, there can be a bridge ahead not high
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-truckroadtype">TruckRoadType</a>
+
   </div>
 
   </div>
@@ -379,7 +403,7 @@ Represents truck restrictions. For example, there can be a bridge ahead not high
 
 - <div>
 
-  ` `<span id="/s:7heresdk23TruckRestrictionWarningV18hazardousMaterialsSayAA17HazardousMaterialOGvp"></span>` `<span id="//apple_ref/swift/Property/hazardousMaterials" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-truckrestrictionwarning#/s:7heresdk23TruckRestrictionWarningV18hazardousMaterialsSayAA17HazardousMaterialOGvp" class="token"><code>hazardousMaterials</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk23TruckRestrictionWarningV18hazardousMaterialsSayAA17HazardousMaterialOGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-hazardousMaterials" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-truckrestrictionwarning#sdk-for-ios-explore-s-7heresdk23TruckRestrictionWarningV18hazardousMaterialsSayAA17HazardousMaterialOGvp" class="token"><code>hazardousMaterials</code></a> 
 
   </div>
 
@@ -415,6 +439,10 @@ Represents truck restrictions. For example, there can be a bridge ahead not high
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-hazardousmaterial">HazardousMaterial</a>
+
   </div>
 
   </div>
@@ -423,7 +451,7 @@ Represents truck restrictions. For example, there can be a bridge ahead not high
 
 - <div>
 
-  ` `<span id="/s:7heresdk23TruckRestrictionWarningV14tunnelCategoryAA06TunnelF0OSgvp"></span>` `<span id="//apple_ref/swift/Property/tunnelCategory" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-truckrestrictionwarning#/s:7heresdk23TruckRestrictionWarningV14tunnelCategoryAA06TunnelF0OSgvp" class="token"><code>tunnelCategory</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk23TruckRestrictionWarningV14tunnelCategoryAA06TunnelF0OSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-tunnelCategory" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-truckrestrictionwarning#sdk-for-ios-explore-s-7heresdk23TruckRestrictionWarningV14tunnelCategoryAA06TunnelF0OSgvp" class="token"><code>tunnelCategory</code></a> 
 
   </div>
 
@@ -459,6 +487,10 @@ Represents truck restrictions. For example, there can be a bridge ahead not high
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-tunnelcategory">TunnelCategory</a>
+
   </div>
 
   </div>
@@ -467,7 +499,7 @@ Represents truck restrictions. For example, there can be a bridge ahead not high
 
 - <div>
 
-  ` `<span id="/s:7heresdk23TruckRestrictionWarningV9axleCountAA12IntegerRangeVSgvp"></span>` `<span id="//apple_ref/swift/Property/axleCount" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-truckrestrictionwarning#/s:7heresdk23TruckRestrictionWarningV9axleCountAA12IntegerRangeVSgvp" class="token"><code>axleCount</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk23TruckRestrictionWarningV9axleCountAA12IntegerRangeVSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-axleCount" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-truckrestrictionwarning#sdk-for-ios-explore-s-7heresdk23TruckRestrictionWarningV9axleCountAA12IntegerRangeVSgvp" class="token"><code>axleCount</code></a> 
 
   </div>
 
@@ -503,6 +535,10 @@ Represents truck restrictions. For example, there can be a bridge ahead not high
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-integerrange">IntegerRange</a>
+
   </div>
 
   </div>
@@ -511,7 +547,7 @@ Represents truck restrictions. For example, there can be a bridge ahead not high
 
 - <div>
 
-      init(id: distanceInMeters: weightRestriction: dimensionRestriction: distanceType: trailerCount: timeRule: truckRoadType: hazardousMaterials: tunnelCategory: axleCount: )
+   <span id="sdk-for-ios-explore-s-7heresdk23TruckRestrictionWarningV2id16distanceInMeters06weightC009dimensionC00F4Type12trailerCount8timeRule09truckRoadK018hazardousMaterials14tunnelCategory04axleM0ACs5Int32V_SdAA06WeightC0VSgAA09DimensionC0VSgAA08DistanceK0OAA12IntegerRangeVSgAA04TimeO0CSgAA0bqK0OSgSayAA17HazardousMaterialOGAA06TunnelU0OSgA_tcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-id-distanceInMeters-weightRestriction-dimensionRestriction-distanceType-trailerCount-timeRule-truckRoadType-hazardousMaterials-tunnelCategory-axleCount" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-truckrestrictionwarning#sdk-for-ios-explore-s-7heresdk23TruckRestrictionWarningV2id16distanceInMeters06weightC009dimensionC00F4Type12trailerCount8timeRule09truckRoadK018hazardousMaterials14tunnelCategory04axleM0ACs5Int32V_SdAA06WeightC0VSgAA09DimensionC0VSgAA08DistanceK0OAA12IntegerRangeVSgAA04TimeO0CSgAA0bqK0OSgSayAA17HazardousMaterialOGAA06TunnelU0OSgA_tcfc" class="token"><code>init(id:</code><wbr></wbr><code>distanceInMeters:</code><wbr></wbr><code>weightRestriction:</code><wbr></wbr><code>dimensionRestriction:</code><wbr></wbr><code>distanceType:</code><wbr></wbr><code>trailerCount:</code><wbr></wbr><code>timeRule:</code><wbr></wbr><code>truckRoadType:</code><wbr></wbr><code>hazardousMaterials:</code><wbr></wbr><code>tunnelCategory:</code><wbr></wbr><code>axleCount:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -542,12 +578,21 @@ Represents truck restrictions. For example, there can be a bridge ahead not high
   Swift
 
   ``` highlight
-  public init ( id : Int32 = 0 , distanceInMeters : Double , weightRestriction : WeightRestriction ? = nil , dimensionRestriction : DimensionRestriction ? = nil , distanceType : DistanceType , trailerCount : IntegerRange ? = nil , timeRule : TimeRule ? = nil , truckRoadType : TruckRoadType ? = nil , hazardousMaterials : [ HazardousMaterial ] = [], tunnelCategory : TunnelCategory ? = nil , axleCount : IntegerRange ? = nil )
+  public init(id: Int32 = 0, distanceInMeters: Double, weightRestriction: WeightRestriction? = nil, dimensionRestriction: DimensionRestriction? = nil, distanceType: DistanceType, trailerCount: IntegerRange? = nil, timeRule: TimeRule? = nil, truckRoadType: TruckRoadType? = nil, hazardousMaterials: [HazardousMaterial] = [], tunnelCategory: TunnelCategory? = nil, axleCount: IntegerRange? = nil)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-weightrestriction">WeightRestriction</a>
+  - <a href="sdk-for-ios-explore-structs-dimensionrestriction">DimensionRestriction</a>
+  - <a href="sdk-for-ios-explore-enums-distancetype">DistanceType</a>
+  - <a href="sdk-for-ios-explore-structs-integerrange">IntegerRange</a>
+  - <a href="sdk-for-ios-explore-classes-timerule">TimeRule</a>
+  - <a href="sdk-for-ios-explore-enums-truckroadtype">TruckRoadType</a>
+  - <a href="sdk-for-ios-explore-enums-hazardousmaterial">HazardousMaterial</a>
+  - <a href="sdk-for-ios-explore-enums-tunnelcategory">TunnelCategory</a>
 
   </div>
 
@@ -557,7 +602,7 @@ Represents truck restrictions. For example, there can be a bridge ahead not high
 
 - <div>
 
-      isGeneral()
+   <span id="sdk-for-ios-explore-s-7heresdk23TruckRestrictionWarningV9isGeneralSbyF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-isGeneral" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-truckrestrictionwarning#sdk-for-ios-explore-s-7heresdk23TruckRestrictionWarningV9isGeneralSbyF" class="token"><code>isGeneral()</code></a> 
 
   </div>
 
@@ -588,10 +633,8 @@ Represents truck restrictions. For example, there can be a bridge ahead not high
   Swift
 
   ``` highlight
-  public func isGeneral () -> Bool
+  public func isGeneral() -> Bool
   ```
-
-  </pre>
 
   </div>
 

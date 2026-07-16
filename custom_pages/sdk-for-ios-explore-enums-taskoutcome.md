@@ -17,7 +17,7 @@ public enum TaskOutcome : UInt32, CaseIterable, Codable
 
 </div>
 
-This enum represents that a task has been completed. Refer to <a href="sdk-for-ios-explore-core#/s:7heresdk21TaskCompletionHandlera">`TaskCompletionHandler`</a> for more details.
+This enum represents that a task has been completed. Refer to <a href="sdk-for-ios-explore-core#sdk-for-ios-explore-s-7heresdk21TaskCompletionHandlera">`TaskCompletionHandler`</a> for more details.
 
 </div>
 
@@ -27,7 +27,7 @@ This enum represents that a task has been completed. Refer to <a href="sdk-for-i
 
 - <div>
 
-  ` `<span id="/s:7heresdk11TaskOutcomeO9completedyA2CmF"></span>` `<span id="//apple_ref/swift/Element/completed" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-taskoutcome#/s:7heresdk11TaskOutcomeO9completedyA2CmF" class="token"><code>completed</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11TaskOutcomeO9completedyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-completed" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-taskoutcome#sdk-for-ios-explore-s-7heresdk11TaskOutcomeO9completedyA2CmF" class="token"><code>completed</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ This enum represents that a task has been completed. Refer to <a href="sdk-for-i
 
 - <div>
 
-  ` `<span id="/s:7heresdk11TaskOutcomeO9cancelledyA2CmF"></span>` `<span id="//apple_ref/swift/Element/cancelled" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-taskoutcome#/s:7heresdk11TaskOutcomeO9cancelledyA2CmF" class="token"><code>cancelled</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11TaskOutcomeO9cancelledyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-cancelled" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-taskoutcome#sdk-for-ios-explore-s-7heresdk11TaskOutcomeO9cancelledyA2CmF" class="token"><code>cancelled</code></a> 
 
   </div>
 

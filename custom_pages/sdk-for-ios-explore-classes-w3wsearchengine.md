@@ -39,7 +39,7 @@ what3words is an alternative geocode system designed to identify any location on
 
 - <div>
 
-      init()
+   <span id="sdk-for-ios-explore-s-7heresdk15W3WSearchEngineCACyKcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-w3wsearchengine#sdk-for-ios-explore-s-7heresdk15W3WSearchEngineCACyKcfc" class="token"><code>init()</code></a> 
 
   </div>
 
@@ -63,7 +63,7 @@ what3words is an alternative geocode system designed to identify any location on
 
   Throws
 
-  <a href="sdk-for-ios-explore-core#/s:7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
+  <a href="sdk-for-ios-explore-core#sdk-for-ios-explore-s-7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
 
   </div>
 
@@ -78,10 +78,8 @@ what3words is an alternative geocode system designed to identify any location on
   Swift
 
   ``` highlight
-  public init () throws
+  public init() throws
   ```
-
-  </pre>
 
   </div>
 
@@ -93,7 +91,7 @@ what3words is an alternative geocode system designed to identify any location on
 
 - <div>
 
-      init(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk15W3WSearchEngineCyAcA09SDKNativeD0CKcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-w3wsearchengine#sdk-for-ios-explore-s-7heresdk15W3WSearchEngineCyAcA09SDKNativeD0CKcfc" class="token"><code>init(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -117,7 +115,7 @@ what3words is an alternative geocode system designed to identify any location on
 
   Throws
 
-  <a href="sdk-for-ios-explore-core#/s:7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
+  <a href="sdk-for-ios-explore-core#sdk-for-ios-explore-s-7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
 
   </div>
 
@@ -132,12 +130,14 @@ what3words is an alternative geocode system designed to identify any location on
   Swift
 
   ``` highlight
-  public init ( _ sdkEngine : SDKNativeEngine ) throws
+  public init(_ sdkEngine: SDKNativeEngine) throws
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-sdknativeengine">SDKNativeEngine</a>
 
   </div>
 
@@ -168,7 +168,7 @@ what3words is an alternative geocode system designed to identify any location on
 
 - <div>
 
-      search(words: completion: )
+   <span id="sdk-for-ios-explore-s-7heresdk15W3WSearchEngineC6search5words10completionAA10TaskHandle_pSS_yAA0bC5ErrorOSg_AA0B7WSquareVSgtctF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-search-words-completion" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-w3wsearchengine#sdk-for-ios-explore-s-7heresdk15W3WSearchEngineC6search5words10completionAA10TaskHandle_pSS_yAA0bC5ErrorOSg_AA0B7WSquareVSgtctF" class="token"><code>search(words:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -199,12 +199,16 @@ what3words is an alternative geocode system designed to identify any location on
   Swift
 
   ``` highlight
-  @discardableResult public func search ( words : String , completion : @escaping W3WSearchCompletionHandler ) -> TaskHandle
+  @discardableResult
+  public func search(words: String, completion: @escaping W3WSearchCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk26W3WSearchCompletionHandlera">W3WSearchCompletionHandler</a>
+  - <a href="sdk-for-ios-explore-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -249,7 +253,7 @@ what3words is an alternative geocode system designed to identify any location on
 
 - <div>
 
-      search(coordinates: language: completion: )
+   <span id="sdk-for-ios-explore-s-7heresdk15W3WSearchEngineC6search11coordinates8language10completionAA10TaskHandle_pAA14GeoCoordinatesV_SSSgyAA0bC5ErrorOSg_AA0B7WSquareVSgtctF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-search-coordinates-language-completion" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-w3wsearchengine#sdk-for-ios-explore-s-7heresdk15W3WSearchEngineC6search11coordinates8language10completionAA10TaskHandle_pAA14GeoCoordinatesV_SSSgyAA0bC5ErrorOSg_AA0B7WSquareVSgtctF" class="token"><code>search(coordinates:</code><wbr></wbr><code>language:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -280,12 +284,17 @@ what3words is an alternative geocode system designed to identify any location on
   Swift
 
   ``` highlight
-  @discardableResult public func search ( coordinates : GeoCoordinates , language : String ?, completion : @escaping W3WSearchCompletionHandler ) -> TaskHandle
+  @discardableResult
+  public func search(coordinates: GeoCoordinates, language: String?, completion: @escaping W3WSearchCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geocoordinates">GeoCoordinates</a>
+  - <a href="sdk-for-ios-explore-search#sdk-for-ios-explore-s-7heresdk26W3WSearchCompletionHandlera">W3WSearchCompletionHandler</a>
+  - <a href="sdk-for-ios-explore-protocols-taskhandle">TaskHandle</a>
 
   </div>
 

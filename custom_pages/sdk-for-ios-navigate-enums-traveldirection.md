@@ -27,7 +27,7 @@ Travel direction.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15TravelDirectionO8positiveyA2CmF"></span>` `<span id="//apple_ref/swift/Element/positive" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-traveldirection#/s:7heresdk15TravelDirectionO8positiveyA2CmF" class="token"><code>positive</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15TravelDirectionO8positiveyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-positive" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-traveldirection#sdk-for-ios-navigate-s-7heresdk15TravelDirectionO8positiveyA2CmF" class="token"><code>positive</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Travel direction.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15TravelDirectionO8negativeyA2CmF"></span>` `<span id="//apple_ref/swift/Element/negative" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-traveldirection#/s:7heresdk15TravelDirectionO8negativeyA2CmF" class="token"><code>negative</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15TravelDirectionO8negativeyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-negative" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-traveldirection#sdk-for-ios-navigate-s-7heresdk15TravelDirectionO8negativeyA2CmF" class="token"><code>negative</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Travel direction.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15TravelDirectionO13bidirectionalyA2CmF"></span>` `<span id="//apple_ref/swift/Element/bidirectional" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-traveldirection#/s:7heresdk15TravelDirectionO13bidirectionalyA2CmF" class="token"><code>bidirectional</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15TravelDirectionO13bidirectionalyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-bidirectional" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-traveldirection#sdk-for-ios-navigate-s-7heresdk15TravelDirectionO13bidirectionalyA2CmF" class="token"><code>bidirectional</code></a> 
 
   </div>
 

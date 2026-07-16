@@ -27,7 +27,7 @@ Protocol for handling tap gestures. Tap gesture occurs after tapping on the scre
 
 - <div>
 
-      onTap(origin: )
+   <span id="sdk-for-ios-navigate-s-7heresdk11TapDelegateP02onB06originyAA7Point2DV_tF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-onTap-origin" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-protocols-tapdelegate#sdk-for-ios-navigate-s-7heresdk11TapDelegateP02onB06originyAA7Point2DV_tF" class="token"><code>onTap(origin:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -58,12 +58,14 @@ Protocol for handling tap gestures. Tap gesture occurs after tapping on the scre
   Swift
 
   ``` highlight
-  func onTap ( origin : Point2D )
+  func onTap(origin: Point2D)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-point2d">Point2D</a>
 
   </div>
 

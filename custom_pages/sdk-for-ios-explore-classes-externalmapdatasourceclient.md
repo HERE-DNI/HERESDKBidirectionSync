@@ -35,7 +35,7 @@ extension ExternalMapDataSourceClient: Hashable
 
 - <div>
 
-      init()
+   <span id="sdk-for-ios-explore-s-7heresdk27ExternalMapDataSourceClientCACyKcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-externalmapdatasourceclient#sdk-for-ios-explore-s-7heresdk27ExternalMapDataSourceClientCACyKcfc" class="token"><code>init()</code></a> 
 
   </div>
 
@@ -59,7 +59,7 @@ extension ExternalMapDataSourceClient: Hashable
 
   Throws
 
-  <a href="sdk-for-ios-explore-core#/s:7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
+  <a href="sdk-for-ios-explore-core#sdk-for-ios-explore-s-7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
 
   </div>
 
@@ -74,10 +74,8 @@ extension ExternalMapDataSourceClient: Hashable
   Swift
 
   ``` highlight
-  public init () throws
+  public init() throws
   ```
-
-  </pre>
 
   </div>
 
@@ -89,7 +87,7 @@ extension ExternalMapDataSourceClient: Hashable
 
 - <div>
 
-      configureRemoteConnectionAsync(url: engine: credentials: callback: )
+   <span id="sdk-for-ios-explore-s-7heresdk27ExternalMapDataSourceClientC30configureRemoteConnectionAsync3url6engine11credentials8callbackAA10TaskHandle_pSS_AA15SDKNativeEngineCAA03SslF18CredentialsOptionsVSgyAA0bcdE9ErrorCodeOSgctF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-configureRemoteConnectionAsync-url-engine-credentials-callback" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-externalmapdatasourceclient#sdk-for-ios-explore-s-7heresdk27ExternalMapDataSourceClientC30configureRemoteConnectionAsync3url6engine11credentials8callbackAA10TaskHandle_pSS_AA15SDKNativeEngineCAA03SslF18CredentialsOptionsVSgyAA0bcdE9ErrorCodeOSgctF" class="token"><code>configureRemoteConnectionAsync(url:</code><wbr></wbr><code>engine:</code><wbr></wbr><code>credentials:</code><wbr></wbr><code>callback:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -107,7 +105,7 @@ extension ExternalMapDataSourceClient: Hashable
 
   <div class="abstract">
 
-  Initialize <a href="sdk-for-ios-explore-classes-sdknativeengine">`SDKNativeEngine`</a> with URL of the remote map data source gRPC server. Newly injected map data source replaces exiting one if <a href="sdk-for-ios-explore-classes-sdknativeengine">`SDKNativeEngine`</a> was already connected. Suggested configuration is taken from <a href="sdk-for-ios-explore-structs-sdkoptions#/s:7heresdk10SDKOptionsV21catalogConfigurationsSayAA20CatalogConfigurationVGvp">`SDKOptions.catalogConfigurations`</a>, actual catalog versions are queried from the remote connection in order to be in sync. It is a non-blocking function, and the result will be returned via a callback <a href="sdk-for-ios-explore-maploader#/s:7heresdk25ConfigureConnectionHandlea">`ConfigureConnectionHandle`</a>.
+  Initialize <a href="sdk-for-ios-explore-classes-sdknativeengine">`SDKNativeEngine`</a> with URL of the remote map data source gRPC server. Newly injected map data source replaces exiting one if <a href="sdk-for-ios-explore-classes-sdknativeengine">`SDKNativeEngine`</a> was already connected. Suggested configuration is taken from <a href="sdk-for-ios-explore-structs-sdkoptions#sdk-for-ios-explore-s-7heresdk10SDKOptionsV21catalogConfigurationsSayAA20CatalogConfigurationVGvp">`SDKOptions.catalogConfigurations`</a>, actual catalog versions are queried from the remote connection in order to be in sync. It is a non-blocking function, and the result will be returned via a callback <a href="sdk-for-ios-explore-maploader#sdk-for-ios-explore-s-7heresdk25ConfigureConnectionHandlea">`ConfigureConnectionHandle`</a>.
 
   </div>
 
@@ -120,12 +118,17 @@ extension ExternalMapDataSourceClient: Hashable
   Swift
 
   ``` highlight
-  public func configureRemoteConnectionAsync ( url : String , engine : SDKNativeEngine , credentials : SslClientCredentialsOptions ?, callback : @escaping ConfigureConnectionHandle ) -> TaskHandle
+  public func configureRemoteConnectionAsync(url: String, engine: SDKNativeEngine, credentials: SslClientCredentialsOptions?, callback: @escaping ConfigureConnectionHandle) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-sdknativeengine">SDKNativeEngine</a>
+  - <a href="sdk-for-ios-explore-structs-sslclientcredentialsoptions">SslClientCredentialsOptions</a>
+  - <a href="sdk-for-ios-explore-maploader#sdk-for-ios-explore-s-7heresdk25ConfigureConnectionHandlea">ConfigureConnectionHandle</a>
+  - <a href="sdk-for-ios-explore-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -142,9 +145,7 @@ extension ExternalMapDataSourceClient: Hashable
   <tr>
   <td><code> </code><em><code>url</code></em><code> </code></td>
   <td><div>
-  <p>URL to connect with the remote map data source gRPC server. The remote map data source gRPC server could be self managed service created with help OCM Access Manager (OCM AM) or service exposed using</p>
-  <pre><code>ExternalMapDataSourceServer.start(...)</code></pre>
-  </p>
+  <p>URL to connect with the remote map data source gRPC server. The remote map data source gRPC server could be self managed service created with help OCM Access Manager (OCM AM) or service exposed using <a href="sdk-for-ios-explore-classes-externalmapdatasourceserver#sdk-for-ios-explore-s-7heresdk27ExternalMapDataSourceServerC5start3url6engine17serviceCredential8callbackySS_AA15SDKNativeEngineCAA03SslF18CredentialsOptionsVSgyAA0bcdE9ErrorCodeOSgctF"><code>ExternalMapDataSourceServer.start(...)</code></a></p>
   </div></td>
   </tr>
   <tr>

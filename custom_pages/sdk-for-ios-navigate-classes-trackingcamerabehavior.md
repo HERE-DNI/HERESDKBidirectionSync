@@ -23,6 +23,10 @@ extension TrackingCameraBehavior: Hashable
 
 </div>
 
+Related types:
+
+- <a href="sdk-for-ios-navigate-protocols-camerabehavior">CameraBehavior</a>
+
 </div>
 
 Use this class to follow a moving target. The camera smoothly tracks the target’s position while adjusting heading, tilt, and zoom as needed. When tracking starts or resumes, the camera first animates a re-centering transition to align with the target.
@@ -37,7 +41,7 @@ Note: This is a beta feature; there maybe bugs and unexpected behavior. Related 
 
 - <div>
 
-      init()
+   <span id="sdk-for-ios-navigate-s-7heresdk22TrackingCameraBehaviorCACycfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-trackingcamerabehavior#sdk-for-ios-navigate-s-7heresdk22TrackingCameraBehaviorCACycfc" class="token"><code>init()</code></a> 
 
   </div>
 
@@ -68,10 +72,8 @@ Note: This is a beta feature; there maybe bugs and unexpected behavior. Related 
   Swift
 
   ``` highlight
-  public init ()
+  public init()
   ```
-
-  </pre>
 
   </div>
 
@@ -83,7 +85,7 @@ Note: This is a beta feature; there maybe bugs and unexpected behavior. Related 
 
 - <div>
 
-  ` `<span id="/s:7heresdk22TrackingCameraBehaviorC24normalizedPrincipalPointAA8Anchor2DVvp"></span>` `<span id="//apple_ref/swift/Property/normalizedPrincipalPoint" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-trackingcamerabehavior#/s:7heresdk22TrackingCameraBehaviorC24normalizedPrincipalPointAA8Anchor2DVvp" class="token"><code>normalizedPrincipalPoint</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk22TrackingCameraBehaviorC24normalizedPrincipalPointAA8Anchor2DVvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-normalizedPrincipalPoint" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-trackingcamerabehavior#sdk-for-ios-navigate-s-7heresdk22TrackingCameraBehaviorC24normalizedPrincipalPointAA8Anchor2DVvp" class="token"><code>normalizedPrincipalPoint</code></a> 
 
   </div>
 
@@ -119,6 +121,10 @@ Note: This is a beta feature; there maybe bugs and unexpected behavior. Related 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-anchor2d">Anchor2D</a>
+
   </div>
 
   </div>
@@ -127,7 +133,7 @@ Note: This is a beta feature; there maybe bugs and unexpected behavior. Related 
 
 - <div>
 
-  ` `<span id="/s:7heresdk22TrackingCameraBehaviorC25recenterAnimationDurationSdvp"></span>` `<span id="//apple_ref/swift/Property/recenterAnimationDuration" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-trackingcamerabehavior#/s:7heresdk22TrackingCameraBehaviorC25recenterAnimationDurationSdvp" class="token"><code>recenterAnimationDuration</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk22TrackingCameraBehaviorC25recenterAnimationDurationSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-recenterAnimationDuration" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-trackingcamerabehavior#sdk-for-ios-navigate-s-7heresdk22TrackingCameraBehaviorC25recenterAnimationDurationSdvp" class="token"><code>recenterAnimationDuration</code></a> 
 
   </div>
 
@@ -171,7 +177,7 @@ Note: This is a beta feature; there maybe bugs and unexpected behavior. Related 
 
 - <div>
 
-  ` `<span id="/s:7heresdk22TrackingCameraBehaviorC13viewRectangleAA11Rectangle2DVSgvp"></span>` `<span id="//apple_ref/swift/Property/viewRectangle" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-trackingcamerabehavior#/s:7heresdk22TrackingCameraBehaviorC13viewRectangleAA11Rectangle2DVSgvp" class="token"><code>viewRectangle</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk22TrackingCameraBehaviorC13viewRectangleAA11Rectangle2DVSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-viewRectangle" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-trackingcamerabehavior#sdk-for-ios-navigate-s-7heresdk22TrackingCameraBehaviorC13viewRectangleAA11Rectangle2DVSgvp" class="token"><code>viewRectangle</code></a> 
 
   </div>
 
@@ -207,6 +213,10 @@ Note: This is a beta feature; there maybe bugs and unexpected behavior. Related 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-rectangle2d">Rectangle2D</a>
+
   </div>
 
   </div>
@@ -215,7 +225,7 @@ Note: This is a beta feature; there maybe bugs and unexpected behavior. Related 
 
 - <div>
 
-  ` `<span id="/s:7heresdk22TrackingCameraBehaviorC31principalPointAnimationDurationSdvp"></span>` `<span id="//apple_ref/swift/Property/principalPointAnimationDuration" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-trackingcamerabehavior#/s:7heresdk22TrackingCameraBehaviorC31principalPointAnimationDurationSdvp" class="token"><code>principalPointAnimationDuration</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk22TrackingCameraBehaviorC31principalPointAnimationDurationSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-principalPointAnimationDuration" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-trackingcamerabehavior#sdk-for-ios-navigate-s-7heresdk22TrackingCameraBehaviorC31principalPointAnimationDurationSdvp" class="token"><code>principalPointAnimationDuration</code></a> 
 
   </div>
 
@@ -259,7 +269,7 @@ Note: This is a beta feature; there maybe bugs and unexpected behavior. Related 
 
 - <div>
 
-  ` `<span id="/s:7heresdk22TrackingCameraBehaviorC13tiltInDegreesSdvp"></span>` `<span id="//apple_ref/swift/Property/tiltInDegrees" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-trackingcamerabehavior#/s:7heresdk22TrackingCameraBehaviorC13tiltInDegreesSdvp" class="token"><code>tiltInDegrees</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk22TrackingCameraBehaviorC13tiltInDegreesSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-tiltInDegrees" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-trackingcamerabehavior#sdk-for-ios-navigate-s-7heresdk22TrackingCameraBehaviorC13tiltInDegreesSdvp" class="token"><code>tiltInDegrees</code></a> 
 
   </div>
 
@@ -303,7 +313,7 @@ Note: This is a beta feature; there maybe bugs and unexpected behavior. Related 
 
 - <div>
 
-  ` `<span id="/s:7heresdk22TrackingCameraBehaviorC16bearingInDegreesSdSgvp"></span>` `<span id="//apple_ref/swift/Property/bearingInDegrees" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-trackingcamerabehavior#/s:7heresdk22TrackingCameraBehaviorC16bearingInDegreesSdSgvp" class="token"><code>bearingInDegrees</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk22TrackingCameraBehaviorC16bearingInDegreesSdSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-bearingInDegrees" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-trackingcamerabehavior#sdk-for-ios-navigate-s-7heresdk22TrackingCameraBehaviorC16bearingInDegreesSdSgvp" class="token"><code>bearingInDegrees</code></a> 
 
   </div>
 
@@ -347,7 +357,7 @@ Note: This is a beta feature; there maybe bugs and unexpected behavior. Related 
 
 - <div>
 
-  ` `<span id="/s:7heresdk22TrackingCameraBehaviorC34maxRotationSpeedInDegreesPerSecondSdvp"></span>` `<span id="//apple_ref/swift/Property/maxRotationSpeedInDegreesPerSecond" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-trackingcamerabehavior#/s:7heresdk22TrackingCameraBehaviorC34maxRotationSpeedInDegreesPerSecondSdvp" class="token"><code>maxRotationSpeedInDegreesPerSecond</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk22TrackingCameraBehaviorC34maxRotationSpeedInDegreesPerSecondSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-maxRotationSpeedInDegreesPerSecond" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-trackingcamerabehavior#sdk-for-ios-navigate-s-7heresdk22TrackingCameraBehaviorC34maxRotationSpeedInDegreesPerSecondSdvp" class="token"><code>maxRotationSpeedInDegreesPerSecond</code></a> 
 
   </div>
 
@@ -391,7 +401,7 @@ Note: This is a beta feature; there maybe bugs and unexpected behavior. Related 
 
 - <div>
 
-  ` `<span id="/s:7heresdk22TrackingCameraBehaviorC26zoomSpeedInLevelsPerSecondSdvp"></span>` `<span id="//apple_ref/swift/Property/zoomSpeedInLevelsPerSecond" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-trackingcamerabehavior#/s:7heresdk22TrackingCameraBehaviorC26zoomSpeedInLevelsPerSecondSdvp" class="token"><code>zoomSpeedInLevelsPerSecond</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk22TrackingCameraBehaviorC26zoomSpeedInLevelsPerSecondSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-zoomSpeedInLevelsPerSecond" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-trackingcamerabehavior#sdk-for-ios-navigate-s-7heresdk22TrackingCameraBehaviorC26zoomSpeedInLevelsPerSecondSdvp" class="token"><code>zoomSpeedInLevelsPerSecond</code></a> 
 
   </div>
 
@@ -435,7 +445,7 @@ Note: This is a beta feature; there maybe bugs and unexpected behavior. Related 
 
 - <div>
 
-  ` `<span id="/s:7heresdk22TrackingCameraBehaviorC10zoomPolicyAC04ZoomF0Cvp"></span>` `<span id="//apple_ref/swift/Property/zoomPolicy" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-trackingcamerabehavior#/s:7heresdk22TrackingCameraBehaviorC10zoomPolicyAC04ZoomF0Cvp" class="token"><code>zoomPolicy</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk22TrackingCameraBehaviorC10zoomPolicyAC04ZoomF0Cvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-zoomPolicy" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-trackingcamerabehavior#sdk-for-ios-navigate-s-7heresdk22TrackingCameraBehaviorC10zoomPolicyAC04ZoomF0Cvp" class="token"><code>zoomPolicy</code></a> 
 
   </div>
 
@@ -471,6 +481,10 @@ Note: This is a beta feature; there maybe bugs and unexpected behavior. Related 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-trackingcamerabehavior-zoompolicy">ZoomPolicy</a>
+
   </div>
 
   </div>
@@ -479,7 +493,7 @@ Note: This is a beta feature; there maybe bugs and unexpected behavior. Related 
 
 - <div>
 
-  ` `<span id="/s:7heresdk22TrackingCameraBehaviorC26isManeuverDetectionEnabledSbvp"></span>` `<span id="//apple_ref/swift/Property/isManeuverDetectionEnabled" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-trackingcamerabehavior#/s:7heresdk22TrackingCameraBehaviorC26isManeuverDetectionEnabledSbvp" class="token"><code>isManeuverDetectionEnabled</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk22TrackingCameraBehaviorC26isManeuverDetectionEnabledSbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-isManeuverDetectionEnabled" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-trackingcamerabehavior#sdk-for-ios-navigate-s-7heresdk22TrackingCameraBehaviorC26isManeuverDetectionEnabledSbvp" class="token"><code>isManeuverDetectionEnabled</code></a> 
 
   </div>
 
@@ -497,12 +511,7 @@ Note: This is a beta feature; there maybe bugs and unexpected behavior. Related 
 
   <div class="abstract">
 
-  Whether maneuver detection is enabled. When `true`, the camera detects adjacent maneuvers and reacts according to the <a href="sdk-for-ios-navigate-classes-trackingcamerabehavior-maneuvermodeconfiguration">`TrackingCameraBehavior.ManeuverModeConfiguration`</a> set via
-
-      TrackingCameraBehavior.setManeuverModeConfiguration(...)
-
-  . A valid <a href="sdk-for-ios-navigate-classes-trackingcamerabehavior-maneuvermodeconfiguration">`TrackingCameraBehavior.ManeuverModeConfiguration`</a> must be set for the camera to react. Defaults to `false`.
-  </p>
+  Whether maneuver detection is enabled. When `true`, the camera detects adjacent maneuvers and reacts according to the <a href="sdk-for-ios-navigate-classes-trackingcamerabehavior-maneuvermodeconfiguration">`TrackingCameraBehavior.ManeuverModeConfiguration`</a> set via <a href="sdk-for-ios-navigate-classes-trackingcamerabehavior#sdk-for-ios-navigate-s-7heresdk22TrackingCameraBehaviorC28setManeuverModeConfiguration08maneuvergH0yAC0fgH0VSg_tF">`TrackingCameraBehavior.setManeuverModeConfiguration(...)`</a>. A valid <a href="sdk-for-ios-navigate-classes-trackingcamerabehavior-maneuvermodeconfiguration">`TrackingCameraBehavior.ManeuverModeConfiguration`</a> must be set for the camera to react. Defaults to `false`.
 
   </div>
 
@@ -528,7 +537,7 @@ Note: This is a beta feature; there maybe bugs and unexpected behavior. Related 
 
 - <div>
 
-  ` `<span id="/s:7heresdk22TrackingCameraBehaviorC10ZoomPolicyC"></span>` `<span id="//apple_ref/swift/Class/ZoomPolicy" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-trackingcamerabehavior#/s:7heresdk22TrackingCameraBehaviorC10ZoomPolicyC" class="token"><code>ZoomPolicy</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk22TrackingCameraBehaviorC10ZoomPolicyC"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Class-ZoomPolicy" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-trackingcamerabehavior#sdk-for-ios-navigate-s-7heresdk22TrackingCameraBehaviorC10ZoomPolicyC" class="token"><code>ZoomPolicy</code></a> 
 
   </div>
 
@@ -576,6 +585,10 @@ Note: This is a beta feature; there maybe bugs and unexpected behavior. Related 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-trackingcamerabehavior">TrackingCameraBehavior</a>
+
   </div>
 
   </div>
@@ -584,7 +597,7 @@ Note: This is a beta feature; there maybe bugs and unexpected behavior. Related 
 
 - <div>
 
-  ` `<span id="/s:7heresdk22TrackingCameraBehaviorC14SpeedThresholdV"></span>` `<span id="//apple_ref/swift/Struct/SpeedThreshold" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-trackingcamerabehavior#/s:7heresdk22TrackingCameraBehaviorC14SpeedThresholdV" class="token"><code>SpeedThreshold</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk22TrackingCameraBehaviorC14SpeedThresholdV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-SpeedThreshold" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-trackingcamerabehavior#sdk-for-ios-navigate-s-7heresdk22TrackingCameraBehaviorC14SpeedThresholdV" class="token"><code>SpeedThreshold</code></a> 
 
   </div>
 
@@ -630,7 +643,7 @@ Note: This is a beta feature; there maybe bugs and unexpected behavior. Related 
 
 - <div>
 
-  ` `<span id="/s:7heresdk22TrackingCameraBehaviorC36FunctionalRoadClassZoomPolicyOptionsV"></span>` `<span id="//apple_ref/swift/Struct/FunctionalRoadClassZoomPolicyOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-trackingcamerabehavior#/s:7heresdk22TrackingCameraBehaviorC36FunctionalRoadClassZoomPolicyOptionsV" class="token"><code>FunctionalRoadClassZoomPolicyOptions</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk22TrackingCameraBehaviorC36FunctionalRoadClassZoomPolicyOptionsV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-FunctionalRoadClassZoomPolicyOptions" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-trackingcamerabehavior#sdk-for-ios-navigate-s-7heresdk22TrackingCameraBehaviorC36FunctionalRoadClassZoomPolicyOptionsV" class="token"><code>FunctionalRoadClassZoomPolicyOptions</code></a> 
 
   </div>
 
@@ -648,12 +661,7 @@ Note: This is a beta feature; there maybe bugs and unexpected behavior. Related 
 
   <div class="abstract">
 
-  Configuration for mapping functional road classes to zoom levels. For correct default initialization, use
-
-      TrackingCameraBehavior.defaultFunctionalRoadClassZoomPolicyOptions(...)
-
-  .
-  </p>
+  Configuration for mapping functional road classes to zoom levels. For correct default initialization, use <a href="sdk-for-ios-navigate-classes-trackingcamerabehavior#sdk-for-ios-navigate-s-7heresdk22TrackingCameraBehaviorC43defaultFunctionalRoadClassZoomPolicyOptionsAC0fghijK0VyFZ">`TrackingCameraBehavior.defaultFunctionalRoadClassZoomPolicyOptions(...)`</a>.
 
   <a href="sdk-for-ios-navigate-classes-trackingcamerabehavior-functionalroadclasszoompolicyoptions" class="slightly-smaller">See more</a>
 
@@ -681,7 +689,7 @@ Note: This is a beta feature; there maybe bugs and unexpected behavior. Related 
 
 - <div>
 
-  ` `<span id="/s:7heresdk22TrackingCameraBehaviorC27SpeedBasedZoomPolicyOptionsV"></span>` `<span id="//apple_ref/swift/Struct/SpeedBasedZoomPolicyOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-trackingcamerabehavior#/s:7heresdk22TrackingCameraBehaviorC27SpeedBasedZoomPolicyOptionsV" class="token"><code>SpeedBasedZoomPolicyOptions</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk22TrackingCameraBehaviorC27SpeedBasedZoomPolicyOptionsV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-SpeedBasedZoomPolicyOptions" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-trackingcamerabehavior#sdk-for-ios-navigate-s-7heresdk22TrackingCameraBehaviorC27SpeedBasedZoomPolicyOptionsV" class="token"><code>SpeedBasedZoomPolicyOptions</code></a> 
 
   </div>
 
@@ -699,12 +707,7 @@ Note: This is a beta feature; there maybe bugs and unexpected behavior. Related 
 
   <div class="abstract">
 
-  Configuration for computing zoom levels from speed thresholds defined per road classification. For correct default initialization, use
-
-      TrackingCameraBehavior.defaultSpeedBasedZoomPolicyOptions(...)
-
-  .
-  </p>
+  Configuration for computing zoom levels from speed thresholds defined per road classification. For correct default initialization, use <a href="sdk-for-ios-navigate-classes-trackingcamerabehavior#sdk-for-ios-navigate-s-7heresdk22TrackingCameraBehaviorC34defaultSpeedBasedZoomPolicyOptionsAC0fghiJ0VyFZ">`TrackingCameraBehavior.defaultSpeedBasedZoomPolicyOptions(...)`</a>.
 
   <a href="sdk-for-ios-navigate-classes-trackingcamerabehavior-speedbasedzoompolicyoptions" class="slightly-smaller">See more</a>
 
@@ -732,7 +735,7 @@ Note: This is a beta feature; there maybe bugs and unexpected behavior. Related 
 
 - <div>
 
-  ` `<span id="/s:7heresdk22TrackingCameraBehaviorC17ManeuverZoomRangeV"></span>` `<span id="//apple_ref/swift/Struct/ManeuverZoomRange" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-trackingcamerabehavior#/s:7heresdk22TrackingCameraBehaviorC17ManeuverZoomRangeV" class="token"><code>ManeuverZoomRange</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk22TrackingCameraBehaviorC17ManeuverZoomRangeV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-ManeuverZoomRange" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-trackingcamerabehavior#sdk-for-ios-navigate-s-7heresdk22TrackingCameraBehaviorC17ManeuverZoomRangeV" class="token"><code>ManeuverZoomRange</code></a> 
 
   </div>
 
@@ -778,7 +781,7 @@ Note: This is a beta feature; there maybe bugs and unexpected behavior. Related 
 
 - <div>
 
-  ` `<span id="/s:7heresdk22TrackingCameraBehaviorC19ManeuverRuleOptionsV"></span>` `<span id="//apple_ref/swift/Struct/ManeuverRuleOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-trackingcamerabehavior#/s:7heresdk22TrackingCameraBehaviorC19ManeuverRuleOptionsV" class="token"><code>ManeuverRuleOptions</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk22TrackingCameraBehaviorC19ManeuverRuleOptionsV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-ManeuverRuleOptions" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-trackingcamerabehavior#sdk-for-ios-navigate-s-7heresdk22TrackingCameraBehaviorC19ManeuverRuleOptionsV" class="token"><code>ManeuverRuleOptions</code></a> 
 
   </div>
 
@@ -824,7 +827,7 @@ Note: This is a beta feature; there maybe bugs and unexpected behavior. Related 
 
 - <div>
 
-  ` `<span id="/s:7heresdk22TrackingCameraBehaviorC12ManeuverRuleV"></span>` `<span id="//apple_ref/swift/Struct/ManeuverRule" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-trackingcamerabehavior#/s:7heresdk22TrackingCameraBehaviorC12ManeuverRuleV" class="token"><code>ManeuverRule</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk22TrackingCameraBehaviorC12ManeuverRuleV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-ManeuverRule" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-trackingcamerabehavior#sdk-for-ios-navigate-s-7heresdk22TrackingCameraBehaviorC12ManeuverRuleV" class="token"><code>ManeuverRule</code></a> 
 
   </div>
 
@@ -870,7 +873,7 @@ Note: This is a beta feature; there maybe bugs and unexpected behavior. Related 
 
 - <div>
 
-  ` `<span id="/s:7heresdk22TrackingCameraBehaviorC25ManeuverModeConfigurationV"></span>` `<span id="//apple_ref/swift/Struct/ManeuverModeConfiguration" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-trackingcamerabehavior#/s:7heresdk22TrackingCameraBehaviorC25ManeuverModeConfigurationV" class="token"><code>ManeuverModeConfiguration</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk22TrackingCameraBehaviorC25ManeuverModeConfigurationV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-ManeuverModeConfiguration" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-trackingcamerabehavior#sdk-for-ios-navigate-s-7heresdk22TrackingCameraBehaviorC25ManeuverModeConfigurationV" class="token"><code>ManeuverModeConfiguration</code></a> 
 
   </div>
 
@@ -890,14 +893,9 @@ Note: This is a beta feature; there maybe bugs and unexpected behavior. Related 
 
   Configuration that defines how <a href="sdk-for-ios-navigate-classes-trackingcamerabehavior">`TrackingCameraBehavior`</a> reacts to nearby maneuvers.
 
-  On each frame, and based on the current position, the availability of its functional road class, and the availability of maneuver data for at least one adjacent maneuver, the camera checks for a match against the <a href="sdk-for-ios-navigate-classes-trackingcamerabehavior-maneuvermodeconfiguration#/s:7heresdk22TrackingCameraBehaviorC25ManeuverModeConfigurationV13maneuverRulesSayAC0E4RuleVGvp">`TrackingCameraBehavior.ManeuverModeConfiguration.maneuverRules`</a> in the order they are listed. If a match is found, subsequent rules are not checked. If no match is found, if inputs are unavailable, or if the matched rule has `nil` options, the camera does not react.
+  On each frame, and based on the current position, the availability of its functional road class, and the availability of maneuver data for at least one adjacent maneuver, the camera checks for a match against the <a href="sdk-for-ios-navigate-classes-trackingcamerabehavior-maneuvermodeconfiguration#sdk-for-ios-navigate-s-7heresdk22TrackingCameraBehaviorC25ManeuverModeConfigurationV13maneuverRulesSayAC0E4RuleVGvp">`TrackingCameraBehavior.ManeuverModeConfiguration.maneuverRules`</a> in the order they are listed. If a match is found, subsequent rules are not checked. If no match is found, if inputs are unavailable, or if the matched rule has `nil` options, the camera does not react.
 
-  For correct default initialization, use
-
-      TrackingCameraBehavior.defaultManeuverModeConfiguration(...)
-
-  .
-  </p>
+  For correct default initialization, use <a href="sdk-for-ios-navigate-classes-trackingcamerabehavior#sdk-for-ios-navigate-s-7heresdk22TrackingCameraBehaviorC32defaultManeuverModeConfigurationAC0fgH0VyFZ">`TrackingCameraBehavior.defaultManeuverModeConfiguration(...)`</a>.
 
   <a href="sdk-for-ios-navigate-classes-trackingcamerabehavior-maneuvermodeconfiguration" class="slightly-smaller">See more</a>
 
@@ -925,7 +923,7 @@ Note: This is a beta feature; there maybe bugs and unexpected behavior. Related 
 
 - <div>
 
-      flagFixedDurationForNextAnimation()
+   <span id="sdk-for-ios-navigate-s-7heresdk22TrackingCameraBehaviorC33flagFixedDurationForNextAnimationyyF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-flagFixedDurationForNextAnimation" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-trackingcamerabehavior#sdk-for-ios-navigate-s-7heresdk22TrackingCameraBehaviorC33flagFixedDurationForNextAnimationyyF" class="token"><code>flagFixedDurationForNextAnimation()</code></a> 
 
   </div>
 
@@ -956,10 +954,8 @@ Note: This is a beta feature; there maybe bugs and unexpected behavior. Related 
   Swift
 
   ``` highlight
-  public func flagFixedDurationForNextAnimation ()
+  public func flagFixedDurationForNextAnimation()
   ```
-
-  </pre>
 
   </div>
 
@@ -971,7 +967,7 @@ Note: This is a beta feature; there maybe bugs and unexpected behavior. Related 
 
 - <div>
 
-      setManeuverModeConfiguration(maneuverModeConfiguration: )
+   <span id="sdk-for-ios-navigate-s-7heresdk22TrackingCameraBehaviorC28setManeuverModeConfiguration08maneuvergH0yAC0fgH0VSg_tF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-setManeuverModeConfiguration-maneuverModeConfiguration" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-trackingcamerabehavior#sdk-for-ios-navigate-s-7heresdk22TrackingCameraBehaviorC28setManeuverModeConfiguration08maneuvergH0yAC0fgH0VSg_tF" class="token"><code>setManeuverModeConfiguration(maneuverModeConfiguration:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -989,7 +985,7 @@ Note: This is a beta feature; there maybe bugs and unexpected behavior. Related 
 
   <div class="abstract">
 
-  Sets the configuration for camera behavior near maneuvers. Defines how the camera reacts to nearby maneuvers when <a href="sdk-for-ios-navigate-classes-trackingcamerabehavior#/s:7heresdk22TrackingCameraBehaviorC26isManeuverDetectionEnabledSbvp">`TrackingCameraBehavior.isManeuverDetectionEnabled`</a> is `true`. When set to `nil`, the camera does not react to maneuvers. The configuration must contain at least one rule to be valid. Defaults to `nil`.
+  Sets the configuration for camera behavior near maneuvers. Defines how the camera reacts to nearby maneuvers when <a href="sdk-for-ios-navigate-classes-trackingcamerabehavior#sdk-for-ios-navigate-s-7heresdk22TrackingCameraBehaviorC26isManeuverDetectionEnabledSbvp">`TrackingCameraBehavior.isManeuverDetectionEnabled`</a> is `true`. When set to `nil`, the camera does not react to maneuvers. The configuration must contain at least one rule to be valid. Defaults to `nil`.
 
   </div>
 
@@ -1002,12 +998,14 @@ Note: This is a beta feature; there maybe bugs and unexpected behavior. Related 
   Swift
 
   ``` highlight
-  public func setManeuverModeConfiguration ( maneuverModeConfiguration : TrackingCameraBehavior . ManeuverModeConfiguration ?)
+  public func setManeuverModeConfiguration(maneuverModeConfiguration: TrackingCameraBehavior.ManeuverModeConfiguration?)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-trackingcamerabehavior-maneuvermodeconfiguration">ManeuverModeConfiguration</a>
 
   </div>
 
@@ -1038,7 +1036,7 @@ Note: This is a beta feature; there maybe bugs and unexpected behavior. Related 
 
 - <div>
 
-      getManeuverModeConfiguration()
+   <span id="sdk-for-ios-navigate-s-7heresdk22TrackingCameraBehaviorC28getManeuverModeConfigurationAC0fgH0VSgyF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-getManeuverModeConfiguration" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-trackingcamerabehavior#sdk-for-ios-navigate-s-7heresdk22TrackingCameraBehaviorC28getManeuverModeConfigurationAC0fgH0VSgyF" class="token"><code>getManeuverModeConfiguration()</code></a> 
 
   </div>
 
@@ -1069,12 +1067,14 @@ Note: This is a beta feature; there maybe bugs and unexpected behavior. Related 
   Swift
 
   ``` highlight
-  public func getManeuverModeConfiguration () -> TrackingCameraBehavior . ManeuverModeConfiguration ?
+  public func getManeuverModeConfiguration() -> TrackingCameraBehavior.ManeuverModeConfiguration?
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-trackingcamerabehavior-maneuvermodeconfiguration">ManeuverModeConfiguration</a>
 
   </div>
 
@@ -1092,7 +1092,7 @@ Note: This is a beta feature; there maybe bugs and unexpected behavior. Related 
 
 - <div>
 
-      defaultFunctionalRoadClassZoomPolicyOptions()
+   <span id="sdk-for-ios-navigate-s-7heresdk22TrackingCameraBehaviorC43defaultFunctionalRoadClassZoomPolicyOptionsAC0fghijK0VyFZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-defaultFunctionalRoadClassZoomPolicyOptions" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-trackingcamerabehavior#sdk-for-ios-navigate-s-7heresdk22TrackingCameraBehaviorC43defaultFunctionalRoadClassZoomPolicyOptionsAC0fghijK0VyFZ" class="token"><code>defaultFunctionalRoadClassZoomPolicyOptions()</code></a> 
 
   </div>
 
@@ -1121,12 +1121,14 @@ Note: This is a beta feature; there maybe bugs and unexpected behavior. Related 
   Swift
 
   ``` highlight
-  public static func defaultFunctionalRoadClassZoomPolicyOptions () -> TrackingCameraBehavior . FunctionalRoadClassZoomPolicyOptions
+  public static func defaultFunctionalRoadClassZoomPolicyOptions() -> TrackingCameraBehavior.FunctionalRoadClassZoomPolicyOptions
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-trackingcamerabehavior-functionalroadclasszoompolicyoptions">FunctionalRoadClassZoomPolicyOptions</a>
 
   </div>
 
@@ -1144,7 +1146,7 @@ Note: This is a beta feature; there maybe bugs and unexpected behavior. Related 
 
 - <div>
 
-      defaultSpeedBasedZoomPolicyOptions()
+   <span id="sdk-for-ios-navigate-s-7heresdk22TrackingCameraBehaviorC34defaultSpeedBasedZoomPolicyOptionsAC0fghiJ0VyFZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-defaultSpeedBasedZoomPolicyOptions" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-trackingcamerabehavior#sdk-for-ios-navigate-s-7heresdk22TrackingCameraBehaviorC34defaultSpeedBasedZoomPolicyOptionsAC0fghiJ0VyFZ" class="token"><code>defaultSpeedBasedZoomPolicyOptions()</code></a> 
 
   </div>
 
@@ -1173,12 +1175,14 @@ Note: This is a beta feature; there maybe bugs and unexpected behavior. Related 
   Swift
 
   ``` highlight
-  public static func defaultSpeedBasedZoomPolicyOptions () -> TrackingCameraBehavior . SpeedBasedZoomPolicyOptions
+  public static func defaultSpeedBasedZoomPolicyOptions() -> TrackingCameraBehavior.SpeedBasedZoomPolicyOptions
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-trackingcamerabehavior-speedbasedzoompolicyoptions">SpeedBasedZoomPolicyOptions</a>
 
   </div>
 
@@ -1196,7 +1200,7 @@ Note: This is a beta feature; there maybe bugs and unexpected behavior. Related 
 
 - <div>
 
-      defaultManeuverModeConfiguration()
+   <span id="sdk-for-ios-navigate-s-7heresdk22TrackingCameraBehaviorC32defaultManeuverModeConfigurationAC0fgH0VyFZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-defaultManeuverModeConfiguration" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-trackingcamerabehavior#sdk-for-ios-navigate-s-7heresdk22TrackingCameraBehaviorC32defaultManeuverModeConfigurationAC0fgH0VyFZ" class="token"><code>defaultManeuverModeConfiguration()</code></a> 
 
   </div>
 
@@ -1225,12 +1229,14 @@ Note: This is a beta feature; there maybe bugs and unexpected behavior. Related 
   Swift
 
   ``` highlight
-  public static func defaultManeuverModeConfiguration () -> TrackingCameraBehavior . ManeuverModeConfiguration
+  public static func defaultManeuverModeConfiguration() -> TrackingCameraBehavior.ManeuverModeConfiguration
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-trackingcamerabehavior-maneuvermodeconfiguration">ManeuverModeConfiguration</a>
 
   </div>
 

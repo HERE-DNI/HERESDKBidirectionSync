@@ -27,7 +27,7 @@ Tariffs provide detailed pricing information for charging electric vehicles at a
 
 - <div>
 
-  ` `<span id="/s:7heresdk16EVChargingTariffV4nameSSSgvp"></span>` `<span id="//apple_ref/swift/Property/name" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-evchargingtariff#/s:7heresdk16EVChargingTariffV4nameSSSgvp" class="token"><code>name</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16EVChargingTariffV4nameSSSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-name" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-evchargingtariff#sdk-for-ios-explore-s-7heresdk16EVChargingTariffV4nameSSSgvp" class="token"><code>name</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Tariffs provide detailed pricing information for charging electric vehicles at a
 
 - <div>
 
-  ` `<span id="/s:7heresdk16EVChargingTariffV4typeAA0bC4TypeOvp"></span>` `<span id="//apple_ref/swift/Property/type" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-evchargingtariff#/s:7heresdk16EVChargingTariffV4typeAA0bC4TypeOvp" class="token"><code>type</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16EVChargingTariffV4typeAA0bC4TypeOvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-type" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-evchargingtariff#sdk-for-ios-explore-s-7heresdk16EVChargingTariffV4typeAA0bC4TypeOvp" class="token"><code>type</code></a> 
 
   </div>
 
@@ -107,6 +107,10 @@ Tariffs provide detailed pricing information for charging electric vehicles at a
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-evchargingtarifftype">EVChargingTariffType</a>
+
   </div>
 
   </div>
@@ -115,7 +119,7 @@ Tariffs provide detailed pricing information for charging electric vehicles at a
 
 - <div>
 
-  ` `<span id="/s:7heresdk16EVChargingTariffV7partnerSSvp"></span>` `<span id="//apple_ref/swift/Property/partner" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-evchargingtariff#/s:7heresdk16EVChargingTariffV7partnerSSvp" class="token"><code>partner</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16EVChargingTariffV7partnerSSvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-partner" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-evchargingtariff#sdk-for-ios-explore-s-7heresdk16EVChargingTariffV7partnerSSvp" class="token"><code>partner</code></a> 
 
   </div>
 
@@ -159,7 +163,7 @@ Tariffs provide detailed pricing information for charging electric vehicles at a
 
 - <div>
 
-  ` `<span id="/s:7heresdk16EVChargingTariffV9partnerIDSSvp"></span>` `<span id="//apple_ref/swift/Property/partnerID" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-evchargingtariff#/s:7heresdk16EVChargingTariffV9partnerIDSSvp" class="token"><code>partnerID</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16EVChargingTariffV9partnerIDSSvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-partnerID" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-evchargingtariff#sdk-for-ios-explore-s-7heresdk16EVChargingTariffV9partnerIDSSvp" class="token"><code>partnerID</code></a> 
 
   </div>
 
@@ -203,7 +207,7 @@ Tariffs provide detailed pricing information for charging electric vehicles at a
 
 - <div>
 
-  ` `<span id="/s:7heresdk16EVChargingTariffV8currencySSvp"></span>` `<span id="//apple_ref/swift/Property/currency" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-evchargingtariff#/s:7heresdk16EVChargingTariffV8currencySSvp" class="token"><code>currency</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16EVChargingTariffV8currencySSvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-currency" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-evchargingtariff#sdk-for-ios-explore-s-7heresdk16EVChargingTariffV8currencySSvp" class="token"><code>currency</code></a> 
 
   </div>
 
@@ -247,7 +251,7 @@ Tariffs provide detailed pricing information for charging electric vehicles at a
 
 - <div>
 
-  ` `<span id="/s:7heresdk16EVChargingTariffV8elementsSayAA0bC7ElementVGvp"></span>` `<span id="//apple_ref/swift/Property/elements" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-evchargingtariff#/s:7heresdk16EVChargingTariffV8elementsSayAA0bC7ElementVGvp" class="token"><code>elements</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16EVChargingTariffV8elementsSayAA0bC7ElementVGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-elements" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-evchargingtariff#sdk-for-ios-explore-s-7heresdk16EVChargingTariffV8elementsSayAA0bC7ElementVGvp" class="token"><code>elements</code></a> 
 
   </div>
 
@@ -285,6 +289,10 @@ Tariffs provide detailed pricing information for charging electric vehicles at a
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-evchargingtariffelement">EVChargingTariffElement</a>
+
   </div>
 
   </div>
@@ -293,7 +301,7 @@ Tariffs provide detailed pricing information for charging electric vehicles at a
 
 - <div>
 
-      init(name: type: partner: partnerID: currency: elements: )
+   <span id="sdk-for-ios-explore-s-7heresdk16EVChargingTariffV4name4type7partner0F2ID8currency8elementsACSSSg_AA0bC4TypeOS3SSayAA0bC7ElementVGtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-name-type-partner-partnerID-currency-elements" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-evchargingtariff#sdk-for-ios-explore-s-7heresdk16EVChargingTariffV4name4type7partner0F2ID8currency8elementsACSSSg_AA0bC4TypeOS3SSayAA0bC7ElementVGtcfc" class="token"><code>init(name:</code><wbr></wbr><code>type:</code><wbr></wbr><code>partner:</code><wbr></wbr><code>partnerID:</code><wbr></wbr><code>currency:</code><wbr></wbr><code>elements:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -335,12 +343,15 @@ Tariffs provide detailed pricing information for charging electric vehicles at a
   Swift
 
   ``` highlight
-  public init ( name : String ? = nil , type : EVChargingTariffType = EVChargingTariffType . adHoc , partner : String = "" , partnerID : String = "" , currency : String = "" , elements : [ EVChargingTariffElement ] = [])
+  public init(name: String? = nil, type: EVChargingTariffType = EVChargingTariffType.adHoc, partner: String = "", partnerID: String = "", currency: String = "", elements: [EVChargingTariffElement] = [])
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-evchargingtarifftype">EVChargingTariffType</a>
+  - <a href="sdk-for-ios-explore-structs-evchargingtariffelement">EVChargingTariffElement</a>
 
   </div>
 

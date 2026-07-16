@@ -27,7 +27,7 @@ A type that can be used as a key for encoding and decoding.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21ChargingConnectorTypeO3KeyO8rawValueyA2EmF"></span>` `<span id="//apple_ref/swift/Element/rawValue" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-chargingconnectortype-key#/s:7heresdk21ChargingConnectorTypeO3KeyO8rawValueyA2EmF" class="token"><code>rawValue</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21ChargingConnectorTypeO3KeyO8rawValueyA2EmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-rawValue" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-chargingconnectortype-key#sdk-for-ios-navigate-s-7heresdk21ChargingConnectorTypeO3KeyO8rawValueyA2EmF" class="token"><code>rawValue</code></a> 
 
   </div>
 

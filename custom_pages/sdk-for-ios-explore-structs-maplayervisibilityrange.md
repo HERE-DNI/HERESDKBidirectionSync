@@ -27,7 +27,7 @@ A layer’s visibility along a zoom level range. The range is half open - \[mini
 
 - <div>
 
-  ` `<span id="/s:7heresdk23MapLayerVisibilityRangeV16minimumZoomLevelSdvp"></span>` `<span id="//apple_ref/swift/Property/minimumZoomLevel" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-maplayervisibilityrange#/s:7heresdk23MapLayerVisibilityRangeV16minimumZoomLevelSdvp" class="token"><code>minimumZoomLevel</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk23MapLayerVisibilityRangeV16minimumZoomLevelSdvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-minimumZoomLevel" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-maplayervisibilityrange#sdk-for-ios-explore-s-7heresdk23MapLayerVisibilityRangeV16minimumZoomLevelSdvp" class="token"><code>minimumZoomLevel</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ A layer’s visibility along a zoom level range. The range is half open - \[mini
 
 - <div>
 
-  ` `<span id="/s:7heresdk23MapLayerVisibilityRangeV16maximumZoomLevelSdvp"></span>` `<span id="//apple_ref/swift/Property/maximumZoomLevel" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-maplayervisibilityrange#/s:7heresdk23MapLayerVisibilityRangeV16maximumZoomLevelSdvp" class="token"><code>maximumZoomLevel</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk23MapLayerVisibilityRangeV16maximumZoomLevelSdvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-maximumZoomLevel" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-maplayervisibilityrange#sdk-for-ios-explore-s-7heresdk23MapLayerVisibilityRangeV16maximumZoomLevelSdvp" class="token"><code>maximumZoomLevel</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ A layer’s visibility along a zoom level range. The range is half open - \[mini
 
 - <div>
 
-      init(minimumZoomLevel: maximumZoomLevel: )
+   <span id="sdk-for-ios-explore-s-7heresdk23MapLayerVisibilityRangeV16minimumZoomLevel07maximumgH0ACSd_Sdtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-minimumZoomLevel-maximumZoomLevel" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-maplayervisibilityrange#sdk-for-ios-explore-s-7heresdk23MapLayerVisibilityRangeV16minimumZoomLevel07maximumgH0ACSd_Sdtcfc" class="token"><code>init(minimumZoomLevel:</code><wbr></wbr><code>maximumZoomLevel:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -146,10 +146,8 @@ A layer’s visibility along a zoom level range. The range is half open - \[mini
   Swift
 
   ``` highlight
-  public init ( minimumZoomLevel : Double , maximumZoomLevel : Double )
+  public init(minimumZoomLevel: Double, maximumZoomLevel: Double)
   ```
-
-  </pre>
 
   </div>
 

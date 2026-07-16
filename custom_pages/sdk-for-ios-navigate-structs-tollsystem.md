@@ -27,7 +27,7 @@ Contains informations about a toll system.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10TollSystemV10systemNameSSvp"></span>` `<span id="//apple_ref/swift/Property/systemName" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-tollsystem#/s:7heresdk10TollSystemV10systemNameSSvp" class="token"><code>systemName</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10TollSystemV10systemNameSSvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-systemName" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-tollsystem#sdk-for-ios-navigate-s-7heresdk10TollSystemV10systemNameSSvp" class="token"><code>systemName</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Contains informations about a toll system.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10TollSystemV9tollCostsSayAA0B4CostVGvp"></span>` `<span id="//apple_ref/swift/Property/tollCosts" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-tollsystem#/s:7heresdk10TollSystemV9tollCostsSayAA0B4CostVGvp" class="token"><code>tollCosts</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10TollSystemV9tollCostsSayAA0B4CostVGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-tollCosts" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-tollsystem#sdk-for-ios-navigate-s-7heresdk10TollSystemV9tollCostsSayAA0B4CostVGvp" class="token"><code>tollCosts</code></a> 
 
   </div>
 
@@ -107,6 +107,10 @@ Contains informations about a toll system.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-tollcost">TollCost</a>
+
   </div>
 
   </div>
@@ -115,7 +119,7 @@ Contains informations about a toll system.
 
 - <div>
 
-      init(systemName: tollCosts: )
+   <span id="sdk-for-ios-navigate-s-7heresdk10TollSystemV10systemName9tollCostsACSS_SayAA0B4CostVGtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-systemName-tollCosts" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-tollsystem#sdk-for-ios-navigate-s-7heresdk10TollSystemV10systemName9tollCostsACSS_SayAA0B4CostVGtcfc" class="token"><code>init(systemName:</code><wbr></wbr><code>tollCosts:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -146,12 +150,14 @@ Contains informations about a toll system.
   Swift
 
   ``` highlight
-  public init ( systemName : String , tollCosts : [ TollCost ] = [])
+  public init(systemName: String, tollCosts: [TollCost] = [])
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-tollcost">TollCost</a>
 
   </div>
 

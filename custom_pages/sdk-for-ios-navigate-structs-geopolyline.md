@@ -27,7 +27,7 @@ A list of geographic coordinates representing the vertices of a polyline. An ins
 
 - <div>
 
-  ` `<span id="/s:7heresdk11GeoPolylineV8verticesSayAA0B11CoordinatesVGvp"></span>` `<span id="//apple_ref/swift/Property/vertices" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-geopolyline#/s:7heresdk11GeoPolylineV8verticesSayAA0B11CoordinatesVGvp" class="token"><code>vertices</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11GeoPolylineV8verticesSayAA0B11CoordinatesVGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-vertices" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-geopolyline#sdk-for-ios-navigate-s-7heresdk11GeoPolylineV8verticesSayAA0B11CoordinatesVGvp" class="token"><code>vertices</code></a> 
 
   </div>
 
@@ -63,6 +63,10 @@ A list of geographic coordinates representing the vertices of a polyline. An ins
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-geocoordinates">GeoCoordinates</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ A list of geographic coordinates representing the vertices of a polyline. An ins
 
 - <div>
 
-      init(vertices: )
+   <span id="sdk-for-ios-navigate-s-7heresdk11GeoPolylineV8verticesACSayAA0B11CoordinatesVG_tKcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-vertices" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-geopolyline#sdk-for-ios-navigate-s-7heresdk11GeoPolylineV8verticesACSayAA0B11CoordinatesVG_tKcfc" class="token"><code>init(vertices:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -95,7 +99,7 @@ A list of geographic coordinates representing the vertices of a polyline. An ins
 
   Throws
 
-  <a href="sdk-for-ios-navigate-core#/s:7heresdk18InstantiationErrora">`InstantiationError`</a> Instantiation error.
+  <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk18InstantiationErrora">`InstantiationError`</a> Instantiation error.
 
   </div>
 
@@ -110,12 +114,14 @@ A list of geographic coordinates representing the vertices of a polyline. An ins
   Swift
 
   ``` highlight
-  public init ( vertices : [ GeoCoordinates ]) throws
+  public init(vertices: [GeoCoordinates]) throws
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-geocoordinates">GeoCoordinates</a>
 
   </div>
 
@@ -146,7 +152,7 @@ A list of geographic coordinates representing the vertices of a polyline. An ins
 
 - <div>
 
-      init(geoBox: )
+   <span id="sdk-for-ios-navigate-s-7heresdk11GeoPolylineV6geoBoxAcA0bE0V_tcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-geoBox" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-geopolyline#sdk-for-ios-navigate-s-7heresdk11GeoPolylineV6geoBoxAcA0bE0V_tcfc" class="token"><code>init(geoBox:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -177,12 +183,14 @@ A list of geographic coordinates representing the vertices of a polyline. An ins
   Swift
 
   ``` highlight
-  public init ( geoBox : GeoBox )
+  public init(geoBox: GeoBox)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-geobox">GeoBox</a>
 
   </div>
 
@@ -213,7 +221,7 @@ A list of geographic coordinates representing the vertices of a polyline. An ins
 
 - <div>
 
-      getNearestIndexTo(point: )
+   <span id="sdk-for-ios-navigate-s-7heresdk11GeoPolylineV17getNearestIndexTo5points6UInt32VAA0B11CoordinatesV_tF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-getNearestIndexTo-point" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-geopolyline#sdk-for-ios-navigate-s-7heresdk11GeoPolylineV17getNearestIndexTo5points6UInt32VAA0B11CoordinatesV_tF" class="token"><code>getNearestIndexTo(point:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -244,12 +252,14 @@ A list of geographic coordinates representing the vertices of a polyline. An ins
   Swift
 
   ``` highlight
-  public func getNearestIndexTo ( point : GeoCoordinates ) -> UInt32
+  public func getNearestIndexTo(point: GeoCoordinates) -> UInt32
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-geocoordinates">GeoCoordinates</a>
 
   </div>
 
@@ -288,7 +298,7 @@ A list of geographic coordinates representing the vertices of a polyline. An ins
 
 - <div>
 
-      coordinatesAt(offsetInMeters: direction: )
+   <span id="sdk-for-ios-navigate-s-7heresdk11GeoPolylineV13coordinatesAt14offsetInMeters9directionAA0B11CoordinatesVSd_AA0bC9DirectionOtF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-coordinatesAt-offsetInMeters-direction" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-geopolyline#sdk-for-ios-navigate-s-7heresdk11GeoPolylineV13coordinatesAt14offsetInMeters9directionAA0B11CoordinatesVSd_AA0bC9DirectionOtF" class="token"><code>coordinatesAt(offsetInMeters:</code><wbr></wbr><code>direction:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -310,15 +320,7 @@ A list of geographic coordinates representing the vertices of a polyline. An ins
 
   The offset is expected to be non-negative and smaller than the length of the polyline. When the offset is negative, the function returns the starting end point of the polyline, i.e. the first vertex in positive direction and the last vertex in the negative direction. Similarly, when the offset is larger than the length of the polyline, then the function returns the opposite end point of the polyline.
 
-  The distance between two consecutive vertices is calculated using the
-
-      GeoCoordinates.distance(...)
-
-  function. Therefore, it computes the distance (in meters) along the great circle between the two vertices. Similarly, the full length of the polyline is the sum of the distances between its vertices. The interpolation coordinates between two vertices is calculated using the
-      GeoCoordinates.interpolate(...)
-
-  function.
-  </p>
+  The distance between two consecutive vertices is calculated using the <a href="sdk-for-ios-navigate-structs-geocoordinates#sdk-for-ios-navigate-s-7heresdk14GeoCoordinatesV8distance2toSdAC_tF">`GeoCoordinates.distance(...)`</a> function. Therefore, it computes the distance (in meters) along the great circle between the two vertices. Similarly, the full length of the polyline is the sum of the distances between its vertices. The interpolation coordinates between two vertices is calculated using the <a href="sdk-for-ios-navigate-structs-geocoordinates#sdk-for-ios-navigate-s-7heresdk14GeoCoordinatesV11interpolate6toward2byA2C_SdtF">`GeoCoordinates.interpolate(...)`</a> function.
 
   Note: the result may different from the analogue result from other matching components since they may adapt the result to the length of the underlying object described by the polyline.
 
@@ -333,12 +335,15 @@ A list of geographic coordinates representing the vertices of a polyline. An ins
   Swift
 
   ``` highlight
-  public func coordinatesAt ( offsetInMeters : Double , direction : GeoPolylineDirection ) -> GeoCoordinates
+  public func coordinatesAt(offsetInMeters: Double, direction: GeoPolylineDirection) -> GeoCoordinates
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-geopolylinedirection">GeoPolylineDirection</a>
+  - <a href="sdk-for-ios-navigate-structs-geocoordinates">GeoCoordinates</a>
 
   </div>
 

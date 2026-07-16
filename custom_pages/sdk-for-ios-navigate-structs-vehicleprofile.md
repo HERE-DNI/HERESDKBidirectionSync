@@ -10,10 +10,9 @@ slug: "sdk-for-ios-navigate-structs-vehicleprofile"
 <div class="language">
 
 ``` highlight
-@available(*, deprecated, message: "Will be removed in v4.28.0. Use `sdk.transport.TransportSpecification` instead.") public struct VehicleProfile : Hashable
+@available(*, deprecated, message: "Will be removed in v4.28.0. Use `sdk.transport.TransportSpecification` instead.")
+public struct VehicleProfile : Hashable
 ```
-
-</pre>
 
 </div>
 
@@ -37,7 +36,7 @@ Current modules that use this profile:
 
 - <div>
 
-  ` `<span id="/s:7heresdk14VehicleProfileV11vehicleTypeAA0bE0Ovp"></span>` `<span id="//apple_ref/swift/Property/vehicleType" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-vehicleprofile#/s:7heresdk14VehicleProfileV11vehicleTypeAA0bE0Ovp" class="token"><code>vehicleType</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14VehicleProfileV11vehicleTypeAA0bE0Ovp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-vehicleType" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-vehicleprofile#sdk-for-ios-navigate-s-7heresdk14VehicleProfileV11vehicleTypeAA0bE0Ovp" class="token"><code>vehicleType</code></a> 
 
   </div>
 
@@ -73,6 +72,10 @@ Current modules that use this profile:
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-vehicletype">VehicleType</a>
+
   </div>
 
   </div>
@@ -81,7 +84,7 @@ Current modules that use this profile:
 
 - <div>
 
-  ` `<span id="/s:7heresdk14VehicleProfileV13truckCategoryAA05TruckE0OSgvp"></span>` `<span id="//apple_ref/swift/Property/truckCategory" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-vehicleprofile#/s:7heresdk14VehicleProfileV13truckCategoryAA05TruckE0OSgvp" class="token"><code>truckCategory</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14VehicleProfileV13truckCategoryAA05TruckE0OSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-truckCategory" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-vehicleprofile#sdk-for-ios-navigate-s-7heresdk14VehicleProfileV13truckCategoryAA05TruckE0OSgvp" class="token"><code>truckCategory</code></a> 
 
   </div>
 
@@ -99,7 +102,7 @@ Current modules that use this profile:
 
   <div class="abstract">
 
-  Defines the truck category. Only used when the <a href="sdk-for-ios-navigate-structs-vehicleprofile#/s:7heresdk14VehicleProfileV11vehicleTypeAA0bE0Ovp">`VehicleProfile.vehicleType`</a> is <a href="sdk-for-ios-navigate-enums-vehicletype#/s:7heresdk11VehicleTypeO5truckyA2CmF">`VehicleType.truck`</a> By default, it is not set.
+  Defines the truck category. Only used when the <a href="sdk-for-ios-navigate-structs-vehicleprofile#sdk-for-ios-navigate-s-7heresdk14VehicleProfileV11vehicleTypeAA0bE0Ovp">`VehicleProfile.vehicleType`</a> is <a href="sdk-for-ios-navigate-enums-vehicletype#sdk-for-ios-navigate-s-7heresdk11VehicleTypeO5truckyA2CmF">`VehicleType.truck`</a> By default, it is not set.
 
   </div>
 
@@ -117,6 +120,10 @@ Current modules that use this profile:
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-truckcategory">TruckCategory</a>
+
   </div>
 
   </div>
@@ -125,7 +132,7 @@ Current modules that use this profile:
 
 - <div>
 
-  ` `<span id="/s:7heresdk14VehicleProfileV12trailerCounts5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/trailerCount" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-vehicleprofile#/s:7heresdk14VehicleProfileV12trailerCounts5Int32Vvp" class="token"><code>trailerCount</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14VehicleProfileV12trailerCounts5Int32Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-trailerCount" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-vehicleprofile#sdk-for-ios-navigate-s-7heresdk14VehicleProfileV12trailerCounts5Int32Vvp" class="token"><code>trailerCount</code></a> 
 
   </div>
 
@@ -169,7 +176,7 @@ Current modules that use this profile:
 
 - <div>
 
-  ` `<span id="/s:7heresdk14VehicleProfileV18hazardousMaterialsSayAA17HazardousMaterialOGvp"></span>` `<span id="//apple_ref/swift/Property/hazardousMaterials" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-vehicleprofile#/s:7heresdk14VehicleProfileV18hazardousMaterialsSayAA17HazardousMaterialOGvp" class="token"><code>hazardousMaterials</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14VehicleProfileV18hazardousMaterialsSayAA17HazardousMaterialOGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-hazardousMaterials" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-vehicleprofile#sdk-for-ios-navigate-s-7heresdk14VehicleProfileV18hazardousMaterialsSayAA17HazardousMaterialOGvp" class="token"><code>hazardousMaterials</code></a> 
 
   </div>
 
@@ -205,6 +212,10 @@ Current modules that use this profile:
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-hazardousmaterial">HazardousMaterial</a>
+
   </div>
 
   </div>
@@ -213,7 +224,7 @@ Current modules that use this profile:
 
 - <div>
 
-  ` `<span id="/s:7heresdk14VehicleProfileV14tunnelCategoryAA06TunnelE0OSgvp"></span>` `<span id="//apple_ref/swift/Property/tunnelCategory" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-vehicleprofile#/s:7heresdk14VehicleProfileV14tunnelCategoryAA06TunnelE0OSgvp" class="token"><code>tunnelCategory</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14VehicleProfileV14tunnelCategoryAA06TunnelE0OSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-tunnelCategory" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-vehicleprofile#sdk-for-ios-navigate-s-7heresdk14VehicleProfileV14tunnelCategoryAA06TunnelE0OSgvp" class="token"><code>tunnelCategory</code></a> 
 
   </div>
 
@@ -249,6 +260,10 @@ Current modules that use this profile:
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-tunnelcategory">TunnelCategory</a>
+
   </div>
 
   </div>
@@ -257,7 +272,7 @@ Current modules that use this profile:
 
 - <div>
 
-  ` `<span id="/s:7heresdk14VehicleProfileV9axleCounts5Int32VSgvp"></span>` `<span id="//apple_ref/swift/Property/axleCount" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-vehicleprofile#/s:7heresdk14VehicleProfileV9axleCounts5Int32VSgvp" class="token"><code>axleCount</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14VehicleProfileV9axleCounts5Int32VSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-axleCount" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-vehicleprofile#sdk-for-ios-navigate-s-7heresdk14VehicleProfileV9axleCounts5Int32VSgvp" class="token"><code>axleCount</code></a> 
 
   </div>
 
@@ -301,7 +316,7 @@ Current modules that use this profile:
 
 - <div>
 
-  ` `<span id="/s:7heresdk14VehicleProfileV22grossWeightInKilogramss5Int32VSgvp"></span>` `<span id="//apple_ref/swift/Property/grossWeightInKilograms" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-vehicleprofile#/s:7heresdk14VehicleProfileV22grossWeightInKilogramss5Int32VSgvp" class="token"><code>grossWeightInKilograms</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14VehicleProfileV22grossWeightInKilogramss5Int32VSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-grossWeightInKilograms" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-vehicleprofile#sdk-for-ios-navigate-s-7heresdk14VehicleProfileV22grossWeightInKilogramss5Int32VSgvp" class="token"><code>grossWeightInKilograms</code></a> 
 
   </div>
 
@@ -345,7 +360,7 @@ Current modules that use this profile:
 
 - <div>
 
-  ` `<span id="/s:7heresdk14VehicleProfileV19heightInCentimeterss5Int32VSgvp"></span>` `<span id="//apple_ref/swift/Property/heightInCentimeters" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-vehicleprofile#/s:7heresdk14VehicleProfileV19heightInCentimeterss5Int32VSgvp" class="token"><code>heightInCentimeters</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14VehicleProfileV19heightInCentimeterss5Int32VSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-heightInCentimeters" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-vehicleprofile#sdk-for-ios-navigate-s-7heresdk14VehicleProfileV19heightInCentimeterss5Int32VSgvp" class="token"><code>heightInCentimeters</code></a> 
 
   </div>
 
@@ -389,7 +404,7 @@ Current modules that use this profile:
 
 - <div>
 
-  ` `<span id="/s:7heresdk14VehicleProfileV19lengthInCentimeterss5Int32VSgvp"></span>` `<span id="//apple_ref/swift/Property/lengthInCentimeters" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-vehicleprofile#/s:7heresdk14VehicleProfileV19lengthInCentimeterss5Int32VSgvp" class="token"><code>lengthInCentimeters</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14VehicleProfileV19lengthInCentimeterss5Int32VSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-lengthInCentimeters" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-vehicleprofile#sdk-for-ios-navigate-s-7heresdk14VehicleProfileV19lengthInCentimeterss5Int32VSgvp" class="token"><code>lengthInCentimeters</code></a> 
 
   </div>
 
@@ -433,7 +448,7 @@ Current modules that use this profile:
 
 - <div>
 
-  ` `<span id="/s:7heresdk14VehicleProfileV18widthInCentimeterss5Int32VSgvp"></span>` `<span id="//apple_ref/swift/Property/widthInCentimeters" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-vehicleprofile#/s:7heresdk14VehicleProfileV18widthInCentimeterss5Int32VSgvp" class="token"><code>widthInCentimeters</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14VehicleProfileV18widthInCentimeterss5Int32VSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-widthInCentimeters" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-vehicleprofile#sdk-for-ios-navigate-s-7heresdk14VehicleProfileV18widthInCentimeterss5Int32VSgvp" class="token"><code>widthInCentimeters</code></a> 
 
   </div>
 
@@ -477,7 +492,7 @@ Current modules that use this profile:
 
 - <div>
 
-  ` `<span id="/s:7heresdk14VehicleProfileV24weightPerAxleInKilogramss5Int32VSgvp"></span>` `<span id="//apple_ref/swift/Property/weightPerAxleInKilograms" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-vehicleprofile#/s:7heresdk14VehicleProfileV24weightPerAxleInKilogramss5Int32VSgvp" class="token"><code>weightPerAxleInKilograms</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14VehicleProfileV24weightPerAxleInKilogramss5Int32VSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-weightPerAxleInKilograms" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-vehicleprofile#sdk-for-ios-navigate-s-7heresdk14VehicleProfileV24weightPerAxleInKilogramss5Int32VSgvp" class="token"><code>weightPerAxleInKilograms</code></a> 
 
   </div>
 
@@ -521,7 +536,7 @@ Current modules that use this profile:
 
 - <div>
 
-      init(vehicleType: truckCategory: trailerCount: hazardousMaterials: tunnelCategory: axleCount: grossWeightInKilograms: heightInCentimeters: lengthInCentimeters: widthInCentimeters: weightPerAxleInKilograms: )
+   <span id="sdk-for-ios-navigate-s-7heresdk14VehicleProfileV11vehicleType13truckCategory12trailerCount18hazardousMaterials06tunnelG004axleI022grossWeightInKilograms06heightP11Centimeters06lengthpS005widthpS0013weightPerAxlepQ0AcA0bE0O_AA05TruckG0OSgs5Int32VSayAA17HazardousMaterialOGAA06TunnelG0OSgAUSgA0_A0_A0_A0_A0_tcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-vehicleType-truckCategory-trailerCount-hazardousMaterials-tunnelCategory-axleCount-grossWeightInKilograms-heightInCentimeters-lengthInCentimeters-widthInCentimeters-weightPerAxleInKilograms" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-vehicleprofile#sdk-for-ios-navigate-s-7heresdk14VehicleProfileV11vehicleType13truckCategory12trailerCount18hazardousMaterials06tunnelG004axleI022grossWeightInKilograms06heightP11Centimeters06lengthpS005widthpS0013weightPerAxlepQ0AcA0bE0O_AA05TruckG0OSgs5Int32VSayAA17HazardousMaterialOGAA06TunnelG0OSgAUSgA0_A0_A0_A0_A0_tcfc" class="token"><code>init(vehicleType:</code><wbr></wbr><code>truckCategory:</code><wbr></wbr><code>trailerCount:</code><wbr></wbr><code>hazardousMaterials:</code><wbr></wbr><code>tunnelCategory:</code><wbr></wbr><code>axleCount:</code><wbr></wbr><code>grossWeightInKilograms:</code><wbr></wbr><code>heightInCentimeters:</code><wbr></wbr><code>lengthInCentimeters:</code><wbr></wbr><code>widthInCentimeters:</code><wbr></wbr><code>weightPerAxleInKilograms:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -552,12 +567,17 @@ Current modules that use this profile:
   Swift
 
   ``` highlight
-  public init ( vehicleType : VehicleType = VehicleType . car , truckCategory : TruckCategory ? = nil , trailerCount : Int32 = 0 , hazardousMaterials : [ HazardousMaterial ] = [], tunnelCategory : TunnelCategory ? = nil , axleCount : Int32 ? = nil , grossWeightInKilograms : Int32 ? = nil , heightInCentimeters : Int32 ? = nil , lengthInCentimeters : Int32 ? = nil , widthInCentimeters : Int32 ? = nil , weightPerAxleInKilograms : Int32 ? = nil )
+  public init(vehicleType: VehicleType = VehicleType.car, truckCategory: TruckCategory? = nil, trailerCount: Int32 = 0, hazardousMaterials: [HazardousMaterial] = [], tunnelCategory: TunnelCategory? = nil, axleCount: Int32? = nil, grossWeightInKilograms: Int32? = nil, heightInCentimeters: Int32? = nil, lengthInCentimeters: Int32? = nil, widthInCentimeters: Int32? = nil, weightPerAxleInKilograms: Int32? = nil)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-vehicletype">VehicleType</a>
+  - <a href="sdk-for-ios-navigate-enums-truckcategory">TruckCategory</a>
+  - <a href="sdk-for-ios-navigate-enums-hazardousmaterial">HazardousMaterial</a>
+  - <a href="sdk-for-ios-navigate-enums-tunnelcategory">TunnelCategory</a>
 
   </div>
 

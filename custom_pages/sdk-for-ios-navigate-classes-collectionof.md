@@ -27,7 +27,7 @@ Custom collection implementation.
 
 - <div>
 
-  ` `<span id="/s:ST7ElementQa"></span>` `<span id="//apple_ref/swift/Alias/Element" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-collectionof#/s:ST7ElementQa" class="token"><code>Element</code></a>` `
+   <span id="sdk-for-ios-navigate-s-ST7ElementQa"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Alias-Element" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-collectionof#sdk-for-ios-navigate-s-ST7ElementQa" class="token"><code>Element</code></a> 
 
   </div>
 
@@ -69,7 +69,7 @@ Custom collection implementation.
 
 - <div>
 
-  ` `<span id="/s:Sl5IndexQa"></span>` `<span id="//apple_ref/swift/Alias/Index" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-collectionof#/s:Sl5IndexQa" class="token"><code>Index</code></a>` `
+   <span id="sdk-for-ios-navigate-s-Sl5IndexQa"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Alias-Index" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-collectionof#sdk-for-ios-navigate-s-Sl5IndexQa" class="token"><code>Index</code></a> 
 
   </div>
 
@@ -111,7 +111,7 @@ Custom collection implementation.
 
 - <div>
 
-  ` `<span id="/s:Sl10startIndex0B0Qzvp"></span>` `<span id="//apple_ref/swift/Property/startIndex" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-collectionof#/s:Sl10startIndex0B0Qzvp" class="token"><code>startIndex</code></a>` `
+   <span id="sdk-for-ios-navigate-s-Sl10startIndex0B0Qzvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-startIndex" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-collectionof#sdk-for-ios-navigate-s-Sl10startIndex0B0Qzvp" class="token"><code>startIndex</code></a> 
 
   </div>
 
@@ -140,12 +140,14 @@ Custom collection implementation.
   Swift
 
   ``` highlight
-  private(set) public var startIndex : Index { get }
+  private(set) public var startIndex: Index { get }
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-collectionof#sdk-for-ios-navigate-s-Sl5IndexQa">Index</a>
 
   </div>
 
@@ -155,7 +157,7 @@ Custom collection implementation.
 
 - <div>
 
-  ` `<span id="/s:Sl8endIndex0B0Qzvp"></span>` `<span id="//apple_ref/swift/Property/endIndex" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-collectionof#/s:Sl8endIndex0B0Qzvp" class="token"><code>endIndex</code></a>` `
+   <span id="sdk-for-ios-navigate-s-Sl8endIndex0B0Qzvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-endIndex" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-collectionof#sdk-for-ios-navigate-s-Sl8endIndex0B0Qzvp" class="token"><code>endIndex</code></a> 
 
   </div>
 
@@ -184,12 +186,14 @@ Custom collection implementation.
   Swift
 
   ``` highlight
-  private(set) public var endIndex : Index { get }
+  private(set) public var endIndex: Index { get }
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-collectionof#sdk-for-ios-navigate-s-Sl5IndexQa">Index</a>
 
   </div>
 
@@ -199,7 +203,7 @@ Custom collection implementation.
 
 - <div>
 
-      index(after: )
+   <span id="sdk-for-ios-navigate-s-Sl5index5after5IndexQzAD_tF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-index-after" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-collectionof#sdk-for-ios-navigate-s-Sl5index5after5IndexQzAD_tF" class="token"><code>index(after:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -228,12 +232,14 @@ Custom collection implementation.
   Swift
 
   ``` highlight
-  public func index ( after i : Index ) -> Index
+  public func index(after i: Index) -> Index
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-collectionof#sdk-for-ios-navigate-s-Sl5IndexQa">Index</a>
 
   </div>
 
@@ -243,7 +249,7 @@ Custom collection implementation.
 
 - <div>
 
-      subscript(_: )
+   <span id="sdk-for-ios-navigate-s-Sly7ElementQz5IndexQzcip"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-subscript-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-collectionof#sdk-for-ios-navigate-s-Sly7ElementQz5IndexQzcip" class="token"><code>subscript(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -272,12 +278,15 @@ Custom collection implementation.
   Swift
 
   ``` highlight
-  public subscript ( position : Index ) -> Element { get }
+  public subscript(position: Index) -> Element { get }
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-collectionof#sdk-for-ios-navigate-s-Sl5IndexQa">Index</a>
+  - <a href="sdk-for-ios-navigate-classes-collectionof#sdk-for-ios-navigate-s-ST7ElementQa">Element</a>
 
   </div>
 

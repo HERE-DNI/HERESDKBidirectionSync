@@ -23,6 +23,10 @@ extension SearchEngine: Hashable
 
 </div>
 
+Related types:
+
+- <a href="sdk-for-ios-navigate-protocols-searchinterface">SearchInterface</a>
+
 </div>
 
 The SearchEngine API unlocks the search, geocoding and suggesting capabilities of HERE services to provide developers with unmatched flexibility to create differentiating location-enabled applications. It enables to search for HERE points of interests, forward and reverse geocode addresses and geographic coordinates from the HERE map and search for suggested addresses or place candidates based on incomplete or misspelled queries.
@@ -31,7 +35,7 @@ It also allows to search along a given <a href="sdk-for-ios-navigate-structs-geo
 
 The SearchEngine API requires an online connection to execute the requests.
 
-**Note:** All methods are provided in two flavors. One uses a <a href="sdk-for-ios-navigate-search#/s:7heresdk23SearchCompletionHandlera">`SearchCompletionHandler`</a> and the other uses a <a href="sdk-for-ios-navigate-search#/s:7heresdk31SearchExtendedCompletionHandlera">`SearchExtendedCompletionHandler`</a>: The later adds a <a href="sdk-for-ios-navigate-structs-responsedetails">`ResponseDetails`</a> result type that provides the `requestId` of a search request and a `correlationId` to identify multiple, related queries. This may be useful for debug purposes.
+**Note:** All methods are provided in two flavors. One uses a <a href="sdk-for-ios-navigate-search#sdk-for-ios-navigate-s-7heresdk23SearchCompletionHandlera">`SearchCompletionHandler`</a> and the other uses a <a href="sdk-for-ios-navigate-search#sdk-for-ios-navigate-s-7heresdk31SearchExtendedCompletionHandlera">`SearchExtendedCompletionHandler`</a>: The later adds a <a href="sdk-for-ios-navigate-structs-responsedetails">`ResponseDetails`</a> result type that provides the `requestId` of a search request and a `correlationId` to identify multiple, related queries. This may be useful for debug purposes.
 
 </div>
 
@@ -41,7 +45,7 @@ The SearchEngine API requires an online connection to execute the requests.
 
 - <div>
 
-      init()
+   <span id="sdk-for-ios-navigate-s-7heresdk12SearchEngineCACyKcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-searchengine#sdk-for-ios-navigate-s-7heresdk12SearchEngineCACyKcfc" class="token"><code>init()</code></a> 
 
   </div>
 
@@ -65,7 +69,7 @@ The SearchEngine API requires an online connection to execute the requests.
 
   Throws
 
-  <a href="sdk-for-ios-navigate-core#/s:7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
+  <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
 
   </div>
 
@@ -80,10 +84,8 @@ The SearchEngine API requires an online connection to execute the requests.
   Swift
 
   ``` highlight
-  public init () throws
+  public init() throws
   ```
-
-  </pre>
 
   </div>
 
@@ -95,7 +97,7 @@ The SearchEngine API requires an online connection to execute the requests.
 
 - <div>
 
-      init(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk12SearchEngineCyAcA09SDKNativeC0CKcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-searchengine#sdk-for-ios-navigate-s-7heresdk12SearchEngineCyAcA09SDKNativeC0CKcfc" class="token"><code>init(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -119,7 +121,7 @@ The SearchEngine API requires an online connection to execute the requests.
 
   Throws
 
-  <a href="sdk-for-ios-navigate-core#/s:7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
+  <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
 
   </div>
 
@@ -134,12 +136,14 @@ The SearchEngine API requires an online connection to execute the requests.
   Swift
 
   ``` highlight
-  public init ( _ sdkEngine : SDKNativeEngine ) throws
+  public init(_ sdkEngine: SDKNativeEngine) throws
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-sdknativeengine">SDKNativeEngine</a>
 
   </div>
 
@@ -170,7 +174,7 @@ The SearchEngine API requires an online connection to execute the requests.
 
 - <div>
 
-      searchByText(_: options: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk12SearchEngineC12searchByText_7options10completionAA10TaskHandle_pAA0F5QueryV_AA0B7OptionsVyAA0B5ErrorOSg_SayAA5PlaceCGSgtctF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-searchByText-_-options-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-searchengine#sdk-for-ios-navigate-s-7heresdk12SearchEngineC12searchByText_7options10completionAA10TaskHandle_pAA0F5QueryV_AA0B7OptionsVyAA0B5ErrorOSg_SayAA5PlaceCGSgtctF" class="token"><code>searchByText(_:</code><wbr></wbr><code>options:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -201,12 +205,18 @@ The SearchEngine API requires an online connection to execute the requests.
   Swift
 
   ``` highlight
-  @discardableResult public func searchByText ( _ query : TextQuery , options : SearchOptions , completion : @escaping SearchCompletionHandler ) -> TaskHandle
+  @discardableResult
+  public func searchByText(_ query: TextQuery, options: SearchOptions, completion: @escaping SearchCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-textquery">TextQuery</a>
+  - <a href="sdk-for-ios-navigate-structs-searchoptions">SearchOptions</a>
+  - <a href="sdk-for-ios-navigate-search#sdk-for-ios-navigate-s-7heresdk23SearchCompletionHandlera">SearchCompletionHandler</a>
+  - <a href="sdk-for-ios-navigate-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -257,7 +267,7 @@ The SearchEngine API requires an online connection to execute the requests.
 
 - <div>
 
-      searchByAddress(_: options: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk12SearchEngineC15searchByAddress_7options10completionAA10TaskHandle_pAA0F5QueryV_AA0B7OptionsVyAA0B5ErrorOSg_SayAA5PlaceCGSgtctF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-searchByAddress-_-options-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-searchengine#sdk-for-ios-navigate-s-7heresdk12SearchEngineC15searchByAddress_7options10completionAA10TaskHandle_pAA0F5QueryV_AA0B7OptionsVyAA0B5ErrorOSg_SayAA5PlaceCGSgtctF" class="token"><code>searchByAddress(_:</code><wbr></wbr><code>options:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -288,12 +298,18 @@ The SearchEngine API requires an online connection to execute the requests.
   Swift
 
   ``` highlight
-  @discardableResult public func searchByAddress ( _ query : AddressQuery , options : SearchOptions , completion : @escaping SearchCompletionHandler ) -> TaskHandle
+  @discardableResult
+  public func searchByAddress(_ query: AddressQuery, options: SearchOptions, completion: @escaping SearchCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-addressquery">AddressQuery</a>
+  - <a href="sdk-for-ios-navigate-structs-searchoptions">SearchOptions</a>
+  - <a href="sdk-for-ios-navigate-search#sdk-for-ios-navigate-s-7heresdk23SearchCompletionHandlera">SearchCompletionHandler</a>
+  - <a href="sdk-for-ios-navigate-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -344,7 +360,7 @@ The SearchEngine API requires an online connection to execute the requests.
 
 - <div>
 
-      searchByCategory(_: options: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk12SearchEngineC16searchByCategory_7options10completionAA10TaskHandle_pAA0F5QueryV_AA0B7OptionsVyAA0B5ErrorOSg_SayAA5PlaceCGSgtctF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-searchByCategory-_-options-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-searchengine#sdk-for-ios-navigate-s-7heresdk12SearchEngineC16searchByCategory_7options10completionAA10TaskHandle_pAA0F5QueryV_AA0B7OptionsVyAA0B5ErrorOSg_SayAA5PlaceCGSgtctF" class="token"><code>searchByCategory(_:</code><wbr></wbr><code>options:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -380,12 +396,18 @@ The SearchEngine API requires an online connection to execute the requests.
   Swift
 
   ``` highlight
-  @discardableResult public func searchByCategory ( _ query : CategoryQuery , options : SearchOptions , completion : @escaping SearchCompletionHandler ) -> TaskHandle
+  @discardableResult
+  public func searchByCategory(_ query: CategoryQuery, options: SearchOptions, completion: @escaping SearchCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-categoryquery">CategoryQuery</a>
+  - <a href="sdk-for-ios-navigate-structs-searchoptions">SearchOptions</a>
+  - <a href="sdk-for-ios-navigate-search#sdk-for-ios-navigate-s-7heresdk23SearchCompletionHandlera">SearchCompletionHandler</a>
+  - <a href="sdk-for-ios-navigate-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -436,7 +458,7 @@ The SearchEngine API requires an online connection to execute the requests.
 
 - <div>
 
-      searchByCoordinates(_: options: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk12SearchEngineC19searchByCoordinates_7options10completionAA10TaskHandle_pAA03GeoF0V_AA0B7OptionsVyAA0B5ErrorOSg_SayAA5PlaceCGSgtctF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-searchByCoordinates-_-options-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-searchengine#sdk-for-ios-navigate-s-7heresdk12SearchEngineC19searchByCoordinates_7options10completionAA10TaskHandle_pAA03GeoF0V_AA0B7OptionsVyAA0B5ErrorOSg_SayAA5PlaceCGSgtctF" class="token"><code>searchByCoordinates(_:</code><wbr></wbr><code>options:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -467,12 +489,18 @@ The SearchEngine API requires an online connection to execute the requests.
   Swift
 
   ``` highlight
-  @discardableResult public func searchByCoordinates ( _ coordinates : GeoCoordinates , options : SearchOptions , completion : @escaping SearchCompletionHandler ) -> TaskHandle
+  @discardableResult
+  public func searchByCoordinates(_ coordinates: GeoCoordinates, options: SearchOptions, completion: @escaping SearchCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-geocoordinates">GeoCoordinates</a>
+  - <a href="sdk-for-ios-navigate-structs-searchoptions">SearchOptions</a>
+  - <a href="sdk-for-ios-navigate-search#sdk-for-ios-navigate-s-7heresdk23SearchCompletionHandlera">SearchCompletionHandler</a>
+  - <a href="sdk-for-ios-navigate-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -523,7 +551,7 @@ The SearchEngine API requires an online connection to execute the requests.
 
 - <div>
 
-      searchByPlaceId(_: languageCode: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk12SearchEngineC15searchByPlaceId_12languageCode10completionAA10TaskHandle_pAA0fG5QueryV_AA08LanguageI0OSgyAA0B5ErrorOSg_AA0F0CSgtctF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-searchByPlaceId-_-languageCode-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-searchengine#sdk-for-ios-navigate-s-7heresdk12SearchEngineC15searchByPlaceId_12languageCode10completionAA10TaskHandle_pAA0fG5QueryV_AA08LanguageI0OSgyAA0B5ErrorOSg_AA0F0CSgtctF" class="token"><code>searchByPlaceId(_:</code><wbr></wbr><code>languageCode:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -554,12 +582,18 @@ The SearchEngine API requires an online connection to execute the requests.
   Swift
 
   ``` highlight
-  @discardableResult public func searchByPlaceId ( _ query : PlaceIdQuery , languageCode : LanguageCode ?, completion : @escaping PlaceIdSearchCompletionHandler ) -> TaskHandle
+  @discardableResult
+  public func searchByPlaceId(_ query: PlaceIdQuery, languageCode: LanguageCode?, completion: @escaping PlaceIdSearchCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-placeidquery">PlaceIdQuery</a>
+  - <a href="sdk-for-ios-navigate-enums-languagecode">LanguageCode</a>
+  - <a href="sdk-for-ios-navigate-search#sdk-for-ios-navigate-s-7heresdk30PlaceIdSearchCompletionHandlera">PlaceIdSearchCompletionHandler</a>
+  - <a href="sdk-for-ios-navigate-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -610,7 +644,7 @@ The SearchEngine API requires an online connection to execute the requests.
 
 - <div>
 
-      searchByPickedPlace(_: languageCode: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk12SearchEngineC19searchByPickedPlace_12languageCode10completionAA10TaskHandle_pAA0fG0V_AA08LanguageI0OSgyAA0B5ErrorOSg_AA0G0CSgtctF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-searchByPickedPlace-_-languageCode-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-searchengine#sdk-for-ios-navigate-s-7heresdk12SearchEngineC19searchByPickedPlace_12languageCode10completionAA10TaskHandle_pAA0fG0V_AA08LanguageI0OSgyAA0B5ErrorOSg_AA0G0CSgtctF" class="token"><code>searchByPickedPlace(_:</code><wbr></wbr><code>languageCode:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -628,7 +662,7 @@ The SearchEngine API requires an online connection to execute the requests.
 
   <div class="abstract">
 
-  Performs an asynchronous search for a <a href="sdk-for-ios-navigate-classes-place">`Place`</a> based on the content found in <a href="sdk-for-ios-navigate-structs-pickedplace">`PickedPlace`</a>. If <a href="sdk-for-ios-navigate-structs-pickedplace">`PickedPlace`</a> data is obtained from the offline map, it may happen that the newer version that is used by the online service represented by `SearchEngine` no longer contains the related POI. In that case, <a href="sdk-for-ios-navigate-enums-searcherror#/s:7heresdk11SearchErrorO14noResultsFoundyA2CmF">`SearchError.noResultsFound`</a> error is reported. When that happens, you may try to obtain the POI from the offline map by calling `OfflineSearchEngine.searchByPickedPlace`, only available for the Navigate license.
+  Performs an asynchronous search for a <a href="sdk-for-ios-navigate-classes-place">`Place`</a> based on the content found in <a href="sdk-for-ios-navigate-structs-pickedplace">`PickedPlace`</a>. If <a href="sdk-for-ios-navigate-structs-pickedplace">`PickedPlace`</a> data is obtained from the offline map, it may happen that the newer version that is used by the online service represented by `SearchEngine` no longer contains the related POI. In that case, <a href="sdk-for-ios-navigate-enums-searcherror#sdk-for-ios-navigate-s-7heresdk11SearchErrorO14noResultsFoundyA2CmF">`SearchError.noResultsFound`</a> error is reported. When that happens, you may try to obtain the POI from the offline map by calling `OfflineSearchEngine.searchByPickedPlace`, only available for the Navigate license.
 
   </div>
 
@@ -641,12 +675,18 @@ The SearchEngine API requires an online connection to execute the requests.
   Swift
 
   ``` highlight
-  @discardableResult public func searchByPickedPlace ( _ pickedPlace : PickedPlace , languageCode : LanguageCode ?, completion : @escaping PlaceIdSearchCompletionHandler ) -> TaskHandle
+  @discardableResult
+  public func searchByPickedPlace(_ pickedPlace: PickedPlace, languageCode: LanguageCode?, completion: @escaping PlaceIdSearchCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-pickedplace">PickedPlace</a>
+  - <a href="sdk-for-ios-navigate-enums-languagecode">LanguageCode</a>
+  - <a href="sdk-for-ios-navigate-search#sdk-for-ios-navigate-s-7heresdk30PlaceIdSearchCompletionHandlera">PlaceIdSearchCompletionHandler</a>
+  - <a href="sdk-for-ios-navigate-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -697,7 +737,7 @@ The SearchEngine API requires an online connection to execute the requests.
 
 - <div>
 
-      suggestByText(_: options: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk12SearchEngineC13suggestByText_7options10completionAA10TaskHandle_pAA0F5QueryV_AA0B7OptionsVyAA0B5ErrorOSg_SayAA10SuggestionCGSgtctF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-suggestByText-_-options-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-searchengine#sdk-for-ios-navigate-s-7heresdk12SearchEngineC13suggestByText_7options10completionAA10TaskHandle_pAA0F5QueryV_AA0B7OptionsVyAA0B5ErrorOSg_SayAA10SuggestionCGSgtctF" class="token"><code>suggestByText(_:</code><wbr></wbr><code>options:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -730,12 +770,18 @@ The SearchEngine API requires an online connection to execute the requests.
   Swift
 
   ``` highlight
-  @discardableResult public func suggestByText ( _ query : TextQuery , options : SearchOptions , completion : @escaping SuggestCompletionHandler ) -> TaskHandle
+  @discardableResult
+  public func suggestByText(_ query: TextQuery, options: SearchOptions, completion: @escaping SuggestCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-textquery">TextQuery</a>
+  - <a href="sdk-for-ios-navigate-structs-searchoptions">SearchOptions</a>
+  - <a href="sdk-for-ios-navigate-search#sdk-for-ios-navigate-s-7heresdk24SuggestCompletionHandlera">SuggestCompletionHandler</a>
+  - <a href="sdk-for-ios-navigate-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -786,7 +832,7 @@ The SearchEngine API requires an online connection to execute the requests.
 
 - <div>
 
-      search(textQuery: options: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk12SearchEngineC6search9textQuery7options10completionAA10TaskHandle_pAA04TextF0V_AA0B7OptionsVyAA0B5ErrorOSg_SayAA5PlaceCGSgAA15ResponseDetailsVSgtctF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-search-textQuery-options-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-searchengine#sdk-for-ios-navigate-s-7heresdk12SearchEngineC6search9textQuery7options10completionAA10TaskHandle_pAA04TextF0V_AA0B7OptionsVyAA0B5ErrorOSg_SayAA5PlaceCGSgAA15ResponseDetailsVSgtctF" class="token"><code>search(textQuery:</code><wbr></wbr><code>options:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -817,12 +863,18 @@ The SearchEngine API requires an online connection to execute the requests.
   Swift
 
   ``` highlight
-  @discardableResult public func search ( textQuery query : TextQuery , options : SearchOptions , completion : @escaping SearchExtendedCompletionHandler ) -> TaskHandle
+  @discardableResult
+  public func search(textQuery query: TextQuery, options: SearchOptions, completion: @escaping SearchExtendedCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-textquery">TextQuery</a>
+  - <a href="sdk-for-ios-navigate-structs-searchoptions">SearchOptions</a>
+  - <a href="sdk-for-ios-navigate-search#sdk-for-ios-navigate-s-7heresdk31SearchExtendedCompletionHandlera">SearchExtendedCompletionHandler</a>
+  - <a href="sdk-for-ios-navigate-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -873,7 +925,7 @@ The SearchEngine API requires an online connection to execute the requests.
 
 - <div>
 
-      search(addressQuery: options: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk12SearchEngineC6search12addressQuery7options10completionAA10TaskHandle_pAA07AddressF0V_AA0B7OptionsVyAA0B5ErrorOSg_SayAA5PlaceCGSgAA15ResponseDetailsVSgtctF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-search-addressQuery-options-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-searchengine#sdk-for-ios-navigate-s-7heresdk12SearchEngineC6search12addressQuery7options10completionAA10TaskHandle_pAA07AddressF0V_AA0B7OptionsVyAA0B5ErrorOSg_SayAA5PlaceCGSgAA15ResponseDetailsVSgtctF" class="token"><code>search(addressQuery:</code><wbr></wbr><code>options:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -904,12 +956,18 @@ The SearchEngine API requires an online connection to execute the requests.
   Swift
 
   ``` highlight
-  @discardableResult public func search ( addressQuery query : AddressQuery , options : SearchOptions , completion : @escaping SearchExtendedCompletionHandler ) -> TaskHandle
+  @discardableResult
+  public func search(addressQuery query: AddressQuery, options: SearchOptions, completion: @escaping SearchExtendedCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-addressquery">AddressQuery</a>
+  - <a href="sdk-for-ios-navigate-structs-searchoptions">SearchOptions</a>
+  - <a href="sdk-for-ios-navigate-search#sdk-for-ios-navigate-s-7heresdk31SearchExtendedCompletionHandlera">SearchExtendedCompletionHandler</a>
+  - <a href="sdk-for-ios-navigate-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -960,7 +1018,7 @@ The SearchEngine API requires an online connection to execute the requests.
 
 - <div>
 
-      search(placeIdQuery: languageCode: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk12SearchEngineC6search12placeIdQuery12languageCode10completionAA10TaskHandle_pAA05PlacefG0V_AA08LanguageI0OSgyAA0B5ErrorOSg_AA0M0CSgAA15ResponseDetailsVSgtctF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-search-placeIdQuery-languageCode-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-searchengine#sdk-for-ios-navigate-s-7heresdk12SearchEngineC6search12placeIdQuery12languageCode10completionAA10TaskHandle_pAA05PlacefG0V_AA08LanguageI0OSgyAA0B5ErrorOSg_AA0M0CSgAA15ResponseDetailsVSgtctF" class="token"><code>search(placeIdQuery:</code><wbr></wbr><code>languageCode:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -991,12 +1049,18 @@ The SearchEngine API requires an online connection to execute the requests.
   Swift
 
   ``` highlight
-  @discardableResult public func search ( placeIdQuery query : PlaceIdQuery , languageCode : LanguageCode ?, completion : @escaping PlaceIdSearchExtendedCompletionHandler ) -> TaskHandle
+  @discardableResult
+  public func search(placeIdQuery query: PlaceIdQuery, languageCode: LanguageCode?, completion: @escaping PlaceIdSearchExtendedCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-placeidquery">PlaceIdQuery</a>
+  - <a href="sdk-for-ios-navigate-enums-languagecode">LanguageCode</a>
+  - <a href="sdk-for-ios-navigate-search#sdk-for-ios-navigate-s-7heresdk38PlaceIdSearchExtendedCompletionHandlera">PlaceIdSearchExtendedCompletionHandler</a>
+  - <a href="sdk-for-ios-navigate-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -1047,7 +1111,7 @@ The SearchEngine API requires an online connection to execute the requests.
 
 - <div>
 
-      search(coordinates: options: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk12SearchEngineC6search11coordinates7options10completionAA10TaskHandle_pAA14GeoCoordinatesV_AA0B7OptionsVyAA0B5ErrorOSg_SayAA5PlaceCGSgAA15ResponseDetailsVSgtctF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-search-coordinates-options-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-searchengine#sdk-for-ios-navigate-s-7heresdk12SearchEngineC6search11coordinates7options10completionAA10TaskHandle_pAA14GeoCoordinatesV_AA0B7OptionsVyAA0B5ErrorOSg_SayAA5PlaceCGSgAA15ResponseDetailsVSgtctF" class="token"><code>search(coordinates:</code><wbr></wbr><code>options:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1078,12 +1142,18 @@ The SearchEngine API requires an online connection to execute the requests.
   Swift
 
   ``` highlight
-  @discardableResult public func search ( coordinates : GeoCoordinates , options : SearchOptions , completion : @escaping SearchExtendedCompletionHandler ) -> TaskHandle
+  @discardableResult
+  public func search(coordinates: GeoCoordinates, options: SearchOptions, completion: @escaping SearchExtendedCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-geocoordinates">GeoCoordinates</a>
+  - <a href="sdk-for-ios-navigate-structs-searchoptions">SearchOptions</a>
+  - <a href="sdk-for-ios-navigate-search#sdk-for-ios-navigate-s-7heresdk31SearchExtendedCompletionHandlera">SearchExtendedCompletionHandler</a>
+  - <a href="sdk-for-ios-navigate-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -1134,7 +1204,7 @@ The SearchEngine API requires an online connection to execute the requests.
 
 - <div>
 
-      search(circle: options: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk12SearchEngineC6search6circle7options10completionAA10TaskHandle_pAA9GeoCircleV_AA0B7OptionsVyAA0B5ErrorOSg_SayAA5PlaceCGSgtctF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-search-circle-options-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-searchengine#sdk-for-ios-navigate-s-7heresdk12SearchEngineC6search6circle7options10completionAA10TaskHandle_pAA9GeoCircleV_AA0B7OptionsVyAA0B5ErrorOSg_SayAA5PlaceCGSgtctF" class="token"><code>search(circle:</code><wbr></wbr><code>options:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1165,12 +1235,18 @@ The SearchEngine API requires an online connection to execute the requests.
   Swift
 
   ``` highlight
-  @discardableResult public func search ( circle : GeoCircle , options : SearchOptions , completion : @escaping SearchCompletionHandler ) -> TaskHandle
+  @discardableResult
+  public func search(circle: GeoCircle, options: SearchOptions, completion: @escaping SearchCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-geocircle">GeoCircle</a>
+  - <a href="sdk-for-ios-navigate-structs-searchoptions">SearchOptions</a>
+  - <a href="sdk-for-ios-navigate-search#sdk-for-ios-navigate-s-7heresdk23SearchCompletionHandlera">SearchCompletionHandler</a>
+  - <a href="sdk-for-ios-navigate-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -1221,7 +1297,7 @@ The SearchEngine API requires an online connection to execute the requests.
 
 - <div>
 
-      search(circle: options: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk12SearchEngineC6search6circle7options10completionAA10TaskHandle_pAA9GeoCircleV_AA0B7OptionsVyAA0B5ErrorOSg_SayAA5PlaceCGSgAA15ResponseDetailsVSgtctF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-search-circle-options-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-searchengine#sdk-for-ios-navigate-s-7heresdk12SearchEngineC6search6circle7options10completionAA10TaskHandle_pAA9GeoCircleV_AA0B7OptionsVyAA0B5ErrorOSg_SayAA5PlaceCGSgAA15ResponseDetailsVSgtctF" class="token"><code>search(circle:</code><wbr></wbr><code>options:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1252,12 +1328,18 @@ The SearchEngine API requires an online connection to execute the requests.
   Swift
 
   ``` highlight
-  @discardableResult public func search ( circle : GeoCircle , options : SearchOptions , completion : @escaping SearchExtendedCompletionHandler ) -> TaskHandle
+  @discardableResult
+  public func search(circle: GeoCircle, options: SearchOptions, completion: @escaping SearchExtendedCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-geocircle">GeoCircle</a>
+  - <a href="sdk-for-ios-navigate-structs-searchoptions">SearchOptions</a>
+  - <a href="sdk-for-ios-navigate-search#sdk-for-ios-navigate-s-7heresdk31SearchExtendedCompletionHandlera">SearchExtendedCompletionHandler</a>
+  - <a href="sdk-for-ios-navigate-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -1308,7 +1390,7 @@ The SearchEngine API requires an online connection to execute the requests.
 
 - <div>
 
-      sendRequest(href: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk12SearchEngineC11sendRequest4href10completionAA10TaskHandle_pSS_yAA0B5ErrorOSg_SayAA5PlaceCGSgtctF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-sendRequest-href-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-searchengine#sdk-for-ios-navigate-s-7heresdk12SearchEngineC11sendRequest4href10completionAA10TaskHandle_pSS_yAA0B5ErrorOSg_SayAA5PlaceCGSgtctF" class="token"><code>sendRequest(href:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1326,12 +1408,7 @@ The SearchEngine API requires an online connection to execute the requests.
 
   <div class="abstract">
 
-  Performs an asynchronous request by using the given href. The href value can be obtained from <a href="sdk-for-ios-navigate-classes-suggestion">`Suggestion`</a> objects, which are the result of successful call to
-
-      SearchEngine.suggest(...)
-
-  . Currently supports only /v1/discover path. Provides candidate places sorted by relevance.
-  </p>
+  Performs an asynchronous request by using the given href. The href value can be obtained from <a href="sdk-for-ios-navigate-classes-suggestion">`Suggestion`</a> objects, which are the result of successful call to <a href="sdk-for-ios-navigate-classes-searchengine#sdk-for-ios-navigate-s-7heresdk12SearchEngineC7suggest9textQuery7options10completionAA10TaskHandle_pAA04TextF0V_AA0B7OptionsVyAA0B5ErrorOSg_SayAA10SuggestionCGSgAA15ResponseDetailsVSgtctF">`SearchEngine.suggest(...)`</a>. Currently supports only /v1/discover path. Provides candidate places sorted by relevance.
 
   </div>
 
@@ -1344,12 +1421,16 @@ The SearchEngine API requires an online connection to execute the requests.
   Swift
 
   ``` highlight
-  @discardableResult public func sendRequest ( href : String , completion : @escaping SearchCompletionHandler ) -> TaskHandle
+  @discardableResult
+  public func sendRequest(href: String, completion: @escaping SearchCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-search#sdk-for-ios-navigate-s-7heresdk23SearchCompletionHandlera">SearchCompletionHandler</a>
+  - <a href="sdk-for-ios-navigate-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -1394,7 +1475,7 @@ The SearchEngine API requires an online connection to execute the requests.
 
 - <div>
 
-      sendRequest(href: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk12SearchEngineC11sendRequest4href10completionAA10TaskHandle_pSS_yAA0B5ErrorOSg_SayAA5PlaceCGSgAA15ResponseDetailsVSgtctF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-sendRequest-href-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-searchengine#sdk-for-ios-navigate-s-7heresdk12SearchEngineC11sendRequest4href10completionAA10TaskHandle_pSS_yAA0B5ErrorOSg_SayAA5PlaceCGSgAA15ResponseDetailsVSgtctF" class="token"><code>sendRequest(href:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1412,12 +1493,7 @@ The SearchEngine API requires an online connection to execute the requests.
 
   <div class="abstract">
 
-  Performs an asynchronous request by using the given href. The href value can be obtained from <a href="sdk-for-ios-navigate-classes-suggestion">`Suggestion`</a> objects, which are the result of successful call to
-
-      SearchEngine.suggest(...)
-
-  . Currently supports only /v1/discover path. Provides candidate places sorted by relevance.
-  </p>
+  Performs an asynchronous request by using the given href. The href value can be obtained from <a href="sdk-for-ios-navigate-classes-suggestion">`Suggestion`</a> objects, which are the result of successful call to <a href="sdk-for-ios-navigate-classes-searchengine#sdk-for-ios-navigate-s-7heresdk12SearchEngineC7suggest9textQuery7options10completionAA10TaskHandle_pAA04TextF0V_AA0B7OptionsVyAA0B5ErrorOSg_SayAA10SuggestionCGSgAA15ResponseDetailsVSgtctF">`SearchEngine.suggest(...)`</a>. Currently supports only /v1/discover path. Provides candidate places sorted by relevance.
 
   </div>
 
@@ -1430,12 +1506,16 @@ The SearchEngine API requires an online connection to execute the requests.
   Swift
 
   ``` highlight
-  @discardableResult public func sendRequest ( href : String , completion : @escaping SearchExtendedCompletionHandler ) -> TaskHandle
+  @discardableResult
+  public func sendRequest(href: String, completion: @escaping SearchExtendedCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-search#sdk-for-ios-navigate-s-7heresdk31SearchExtendedCompletionHandlera">SearchExtendedCompletionHandler</a>
+  - <a href="sdk-for-ios-navigate-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -1480,7 +1560,7 @@ The SearchEngine API requires an online connection to execute the requests.
 
 - <div>
 
-      search(categoryQuery: options: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk12SearchEngineC6search13categoryQuery7options10completionAA10TaskHandle_pAA08CategoryF0V_AA0B7OptionsVyAA0B5ErrorOSg_SayAA5PlaceCGSgAA15ResponseDetailsVSgtctF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-search-categoryQuery-options-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-searchengine#sdk-for-ios-navigate-s-7heresdk12SearchEngineC6search13categoryQuery7options10completionAA10TaskHandle_pAA08CategoryF0V_AA0B7OptionsVyAA0B5ErrorOSg_SayAA5PlaceCGSgAA15ResponseDetailsVSgtctF" class="token"><code>search(categoryQuery:</code><wbr></wbr><code>options:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1516,12 +1596,18 @@ The SearchEngine API requires an online connection to execute the requests.
   Swift
 
   ``` highlight
-  @discardableResult public func search ( categoryQuery query : CategoryQuery , options : SearchOptions , completion : @escaping SearchExtendedCompletionHandler ) -> TaskHandle
+  @discardableResult
+  public func search(categoryQuery query: CategoryQuery, options: SearchOptions, completion: @escaping SearchExtendedCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-categoryquery">CategoryQuery</a>
+  - <a href="sdk-for-ios-navigate-structs-searchoptions">SearchOptions</a>
+  - <a href="sdk-for-ios-navigate-search#sdk-for-ios-navigate-s-7heresdk31SearchExtendedCompletionHandlera">SearchExtendedCompletionHandler</a>
+  - <a href="sdk-for-ios-navigate-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -1572,7 +1658,7 @@ The SearchEngine API requires an online connection to execute the requests.
 
 - <div>
 
-      suggest(textQuery: options: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk12SearchEngineC7suggest9textQuery7options10completionAA10TaskHandle_pAA04TextF0V_AA0B7OptionsVyAA0B5ErrorOSg_SayAA10SuggestionCGSgAA15ResponseDetailsVSgtctF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-suggest-textQuery-options-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-searchengine#sdk-for-ios-navigate-s-7heresdk12SearchEngineC7suggest9textQuery7options10completionAA10TaskHandle_pAA04TextF0V_AA0B7OptionsVyAA0B5ErrorOSg_SayAA10SuggestionCGSgAA15ResponseDetailsVSgtctF" class="token"><code>suggest(textQuery:</code><wbr></wbr><code>options:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1603,12 +1689,18 @@ The SearchEngine API requires an online connection to execute the requests.
   Swift
 
   ``` highlight
-  @discardableResult public func suggest ( textQuery query : TextQuery , options : SearchOptions , completion : @escaping SuggestExtendedCompletionHandler ) -> TaskHandle
+  @discardableResult
+  public func suggest(textQuery query: TextQuery, options: SearchOptions, completion: @escaping SuggestExtendedCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-textquery">TextQuery</a>
+  - <a href="sdk-for-ios-navigate-structs-searchoptions">SearchOptions</a>
+  - <a href="sdk-for-ios-navigate-search#sdk-for-ios-navigate-s-7heresdk32SuggestExtendedCompletionHandlera">SuggestExtendedCompletionHandler</a>
+  - <a href="sdk-for-ios-navigate-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -1659,7 +1751,7 @@ The SearchEngine API requires an online connection to execute the requests.
 
 - <div>
 
-      setCustomOption(name: value: )
+   <span id="sdk-for-ios-navigate-s-7heresdk12SearchEngineC15setCustomOption4name5valueAA0B5ErrorOSgSS_SStF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-setCustomOption-name-value" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-searchengine#sdk-for-ios-navigate-s-7heresdk12SearchEngineC15setCustomOption4name5valueAA0B5ErrorOSgSS_SStF" class="token"><code>setCustomOption(name:</code><wbr></wbr><code>value:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1680,13 +1772,13 @@ The SearchEngine API requires an online connection to execute the requests.
   Sets a custom option for search backend queries. This allows more control over the behavior of the search algorithm. Name has the format <endpoint_name>.<option_name>, for example “discover.show”. Values can be combined for the same name by using a comma, for example “truck,fuel”. The custom option is applied only for the endpoint that is specified as prefix in `name`. Some of the supported name/value options are:</option_name></endpoint_name>
 
   - name = “revgeocode.with”, value = “unnamedStreets” enables the retrieval of access points on unnamed streets.
-  - name = “lookup.show” or “discover.show” or “autosuggest.show” or “browse.show”, value = “truck” enables retreival of truck amenities. **Note:** Only participants of the closed-alpha group can get access from HERE to use this feature, otherwise, a <a href="sdk-for-ios-navigate-enums-searcherror#/s:7heresdk11SearchErrorO9forbiddenyA2CmF">`SearchError.forbidden`</a> will be propagated in callbacks.
-  - name = “lookup.show” or “discover.show” or “autosuggest.show” or “browse.show”, value = “fuel” enables retreival of fuel station details. **Note:** Only participants of the closed-alpha group can get access from HERE to use this feature, otherwise, a <a href="sdk-for-ios-navigate-enums-searcherror#/s:7heresdk11SearchErrorO9forbiddenyA2CmF">`SearchError.forbidden`</a> will be propagated in callbacks.
+  - name = “lookup.show” or “discover.show” or “autosuggest.show” or “browse.show”, value = “truck” enables retreival of truck amenities. **Note:** Only participants of the closed-alpha group can get access from HERE to use this feature, otherwise, a <a href="sdk-for-ios-navigate-enums-searcherror#sdk-for-ios-navigate-s-7heresdk11SearchErrorO9forbiddenyA2CmF">`SearchError.forbidden`</a> will be propagated in callbacks.
+  - name = “lookup.show” or “discover.show” or “autosuggest.show” or “browse.show”, value = “fuel” enables retreival of fuel station details. **Note:** Only participants of the closed-alpha group can get access from HERE to use this feature, otherwise, a <a href="sdk-for-ios-navigate-enums-searcherror#sdk-for-ios-navigate-s-7heresdk11SearchErrorO9forbiddenyA2CmF">`SearchError.forbidden`</a> will be propagated in callbacks.
   - name = “lookup.show” or “discover.show” or “browse.show”, value = “ev” enables retreival of EV charging station details.
   - name = “lookup.show” or “discover.show” or “browse.show”, value = “eMobilityServiceProviders” enables retreival of e-Mobility Service Providers details.
   - name = “lookup.show” or “discover.show” or “browse.show”, value = “tripadvisor” adds images, ratings, and editorials from Tripadvisor ™. **Note:** Only clients with a license with TripAdvisor for rich content will actually get it. If this licence is missing, TripAdvisor rich content will be missing, with no error reported. This content is only added to top 10 search results. If more results are returned, they will be missing rich TripAdvisor content.
-  - name = “lookup.datasets” or “discover.datasets” or “browse.datasets” or “autosuggest.datasets”, value = <your_dataset_hrn> enables ingesting and searching of private POIs. **Note:** Only participants of the search customization can get access from HERE to use this feature, otherwise, a <a href="sdk-for-ios-navigate-enums-searcherror#/s:7heresdk11SearchErrorO25invalidCustomOptionFormatyA2CmF">`SearchError.invalidCustomOptionFormat`</a> will be propagated in callbacks.</your_dataset_hrn>
-  - name = “discover.ranking” or “browse.ranking”, value = “excursionDistance” enables balanced distribution of results for search in <a href="sdk-for-ios-navigate-structs-geocorridor">`GeoCorridor`</a>. Constraint: using this parameter when searching an area that is not a <a href="sdk-for-ios-navigate-structs-geocorridor">`GeoCorridor`</a> generates an error <a href="sdk-for-ios-navigate-enums-searcherror#/s:7heresdk11SearchErrorO10badRequestyA2CmF">`SearchError.badRequest`</a>. **Note:** It is recommended to use <a href="sdk-for-ios-navigate-structs-searchoptions#/s:7heresdk13SearchOptionsV18distributedResultsSbvp">`SearchOptions.distributedResults`</a> instead. For a complete list of available endpoints, parameter names and their valid values, refer to <a href="https://www.here.com/docs/bundle/batch-api-developer-guide/page/topics/constructing-request.html">HERE Geocoding & Search API v7</a>. **Note:** It’s easy to set a wrong option that makes queries invalid, so make sure you read and understand the backend documentation.
+  - name = “lookup.datasets” or “discover.datasets” or “browse.datasets” or “autosuggest.datasets”, value = <your_dataset_hrn> enables ingesting and searching of private POIs. **Note:** Only participants of the search customization can get access from HERE to use this feature, otherwise, a <a href="sdk-for-ios-navigate-enums-searcherror#sdk-for-ios-navigate-s-7heresdk11SearchErrorO25invalidCustomOptionFormatyA2CmF">`SearchError.invalidCustomOptionFormat`</a> will be propagated in callbacks.</your_dataset_hrn>
+  - name = “discover.ranking” or “browse.ranking”, value = “excursionDistance” enables balanced distribution of results for search in <a href="sdk-for-ios-navigate-structs-geocorridor">`GeoCorridor`</a>. Constraint: using this parameter when searching an area that is not a <a href="sdk-for-ios-navigate-structs-geocorridor">`GeoCorridor`</a> generates an error <a href="sdk-for-ios-navigate-enums-searcherror#sdk-for-ios-navigate-s-7heresdk11SearchErrorO10badRequestyA2CmF">`SearchError.badRequest`</a>. **Note:** It is recommended to use <a href="sdk-for-ios-navigate-structs-searchoptions#sdk-for-ios-navigate-s-7heresdk13SearchOptionsV18distributedResultsSbvp">`SearchOptions.distributedResults`</a> instead. For a complete list of available endpoints, parameter names and their valid values, refer to <a href="https://www.here.com/docs/bundle/batch-api-developer-guide/page/topics/constructing-request.html">HERE Geocoding & Search API v7</a>. **Note:** It’s easy to set a wrong option that makes queries invalid, so make sure you read and understand the backend documentation.
 
   </div>
 
@@ -1699,12 +1791,14 @@ The SearchEngine API requires an online connection to execute the requests.
   Swift
 
   ``` highlight
-  public func setCustomOption ( name : String , value : String ) -> SearchError ?
+  public func setCustomOption(name: String, value: String) -> SearchError?
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-searcherror">SearchError</a>
 
   </div>
 
@@ -1749,7 +1843,7 @@ The SearchEngine API requires an online connection to execute the requests.
 
 - <div>
 
-      setEVInterface(evcpInterface: )
+   <span id="sdk-for-ios-navigate-s-7heresdk12SearchEngineC14setEVInterface13evcpInterfaceyAA08EVSearchG0_p_tF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-setEVInterface-evcpInterface" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-searchengine#sdk-for-ios-navigate-s-7heresdk12SearchEngineC14setEVInterface13evcpInterfaceyAA08EVSearchG0_p_tF" class="token"><code>setEVInterface(evcpInterface:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1780,12 +1874,14 @@ The SearchEngine API requires an online connection to execute the requests.
   Swift
 
   ``` highlight
-  public func setEVInterface ( evcpInterface : EVSearchInterface )
+  public func setEVInterface(evcpInterface: EVSearchInterface)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-protocols-evsearchinterface">EVSearchInterface</a>
 
   </div>
 

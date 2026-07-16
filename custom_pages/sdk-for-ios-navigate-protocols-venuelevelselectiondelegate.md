@@ -27,7 +27,7 @@ The protocol for delegates for the <a href="sdk-for-ios-navigate-classes-venuele
 
 - <div>
 
-      onLevelSelected(venue: drawing: deselectedLevel: selectedLevel: )
+   <span id="sdk-for-ios-navigate-s-7heresdk27VenueLevelSelectionDelegateP02onC8Selected5venue7drawing010deselectedC008selectedC0yAA0B0C_AA0B7DrawingCAA0bC0CSgANtF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-onLevelSelected-venue-drawing-deselectedLevel-selectedLevel" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-protocols-venuelevelselectiondelegate#sdk-for-ios-navigate-s-7heresdk27VenueLevelSelectionDelegateP02onC8Selected5venue7drawing010deselectedC008selectedC0yAA0B0C_AA0B7DrawingCAA0bC0CSgANtF" class="token"><code>onLevelSelected(venue:</code><wbr></wbr><code>drawing:</code><wbr></wbr><code>deselectedLevel:</code><wbr></wbr><code>selectedLevel:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -58,12 +58,16 @@ The protocol for delegates for the <a href="sdk-for-ios-navigate-classes-venuele
   Swift
 
   ``` highlight
-  func onLevelSelected ( venue : Venue , drawing : VenueDrawing , deselectedLevel : VenueLevel ?, selectedLevel : VenueLevel )
+  func onLevelSelected(venue: Venue, drawing: VenueDrawing, deselectedLevel: VenueLevel?, selectedLevel: VenueLevel)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-venue">Venue</a>
+  - <a href="sdk-for-ios-navigate-classes-venuedrawing">VenueDrawing</a>
+  - <a href="sdk-for-ios-navigate-classes-venuelevel">VenueLevel</a>
 
   </div>
 

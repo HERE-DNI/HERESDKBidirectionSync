@@ -27,7 +27,7 @@ Contains image information and direct link to it.
 
 - <div>
 
-  ` `<span id="/s:7heresdk8WebImageV6sourceAA0B6SourceVvp"></span>` `<span id="//apple_ref/swift/Property/source" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-webimage#/s:7heresdk8WebImageV6sourceAA0B6SourceVvp" class="token"><code>source</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk8WebImageV6sourceAA0B6SourceVvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-source" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-webimage#sdk-for-ios-explore-s-7heresdk8WebImageV6sourceAA0B6SourceVvp" class="token"><code>source</code></a> 
 
   </div>
 
@@ -63,6 +63,10 @@ Contains image information and direct link to it.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-websource">WebSource</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ Contains image information and direct link to it.
 
 - <div>
 
-      init(source: )
+   <span id="sdk-for-ios-explore-s-7heresdk8WebImageV6sourceAcA0B6SourceV_tcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-source" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-webimage#sdk-for-ios-explore-s-7heresdk8WebImageV6sourceAcA0B6SourceV_tcfc" class="token"><code>init(source:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -89,7 +93,7 @@ Contains image information and direct link to it.
 
   <div class="abstract">
 
-  Creates a new instance. Sets <a href="sdk-for-ios-explore-structs-webimage#/s:7heresdk8WebImageV6sourceAA0B6SourceVvp">`WebImage.source`</a> to the given source.
+  Creates a new instance. Sets <a href="sdk-for-ios-explore-structs-webimage#sdk-for-ios-explore-s-7heresdk8WebImageV6sourceAA0B6SourceVvp">`WebImage.source`</a> to the given source.
 
   </div>
 
@@ -102,12 +106,14 @@ Contains image information and direct link to it.
   Swift
 
   ``` highlight
-  public init ( source : WebSource )
+  public init(source: WebSource)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-websource">WebSource</a>
 
   </div>
 

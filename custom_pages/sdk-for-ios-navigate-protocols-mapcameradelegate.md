@@ -27,7 +27,7 @@ Protocol for objects that want to get updates whenever the map is redrawn after 
 
 - <div>
 
-      onMapCameraUpdated(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk17MapCameraDelegateP02onbC7UpdatedyyAA0bC0C5StateVF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-onMapCameraUpdated-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-protocols-mapcameradelegate#sdk-for-ios-navigate-s-7heresdk17MapCameraDelegateP02onbC7UpdatedyyAA0bC0C5StateVF" class="token"><code>onMapCameraUpdated(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -58,12 +58,14 @@ Protocol for objects that want to get updates whenever the map is redrawn after 
   Swift
 
   ``` highlight
-  func onMapCameraUpdated ( _ cameraState : MapCamera . State )
+  func onMapCameraUpdated(_ cameraState: MapCamera.State)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mapcamera">MapCamera</a>
 
   </div>
 

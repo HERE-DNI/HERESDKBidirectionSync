@@ -27,7 +27,7 @@ Type of reference file.
 
 - <div>
 
-  ` `<span id="/s:7heresdk17FileReferenceTypeO11etcGuidanceyA2CmF"></span>` `<span id="//apple_ref/swift/Element/etcGuidance" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-filereferencetype#/s:7heresdk17FileReferenceTypeO11etcGuidanceyA2CmF" class="token"><code>etcGuidance</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk17FileReferenceTypeO11etcGuidanceyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-etcGuidance" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-filereferencetype#sdk-for-ios-navigate-s-7heresdk17FileReferenceTypeO11etcGuidanceyA2CmF" class="token"><code>etcGuidance</code></a> 
 
   </div>
 

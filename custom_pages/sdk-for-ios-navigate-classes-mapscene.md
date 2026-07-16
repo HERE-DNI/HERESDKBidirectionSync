@@ -44,48 +44,13 @@ The content of the displayed map and how it looks is specified by a <a href="sdk
 
 ## Map features
 
-Different map schemes offer different sets of features, for example showing traffic or 3D buildings. Some features have multiple modes of operation, but most have only one.
+Different map schemes offer different sets of features, for example showing traffic or 3D buildings. Some features have multiple modes of operation, but most have only one. <a href="sdk-for-ios-navigate-classes-mapscene#sdk-for-ios-navigate-s-7heresdk8MapSceneC20getSupportedFeaturesSDySSSaySSGGyF">`MapScene.getSupportedFeatures(...)`</a> can be used to check what features and modes are supported for the current scene. Features can be enabled using <a href="sdk-for-ios-navigate-classes-mapscene#sdk-for-ios-navigate-s-7heresdk8MapSceneC14enableFeaturesyySDyS2SGF">`MapScene.enableFeatures(...)`</a> and disabled with <a href="sdk-for-ios-navigate-classes-mapscene#sdk-for-ios-navigate-s-7heresdk8MapSceneC15disableFeaturesyySaySSGF">`MapScene.disableFeatures(...)`</a>. Checking which features are currently enabled can be done using <a href="sdk-for-ios-navigate-classes-mapscene#sdk-for-ios-navigate-s-7heresdk8MapSceneC17getActiveFeaturesSDyS2SGyF">`MapScene.getActiveFeatures(...)`</a>. For convenience, <a href="sdk-for-ios-navigate-structs-mapfeatures">`MapFeatures`</a> and <a href="sdk-for-ios-navigate-structs-mapfeaturemodes">`MapFeatureModes`</a> hold constants for feature and mode names.
 
-    MapScene.getSupportedFeatures(...)
-
-can be used to check what features and modes are supported for the current scene. Features can be enabled using
-
-    MapScene.enableFeatures(...)
-
-and disabled with
-
-    MapScene.disableFeatures(...)
-
-. Checking which features are currently enabled can be done using
-
-    MapScene.getActiveFeatures(...)
-
-. For convenience, <a href="sdk-for-ios-navigate-structs-mapfeatures">`MapFeatures`</a> and <a href="sdk-for-ios-navigate-structs-mapfeaturemodes">`MapFeatureModes`</a> hold constants for feature and mode names.
-</p>
-
-Since version 4.15.0, map features cannot be controlled using
-
-    MapScene.setLayerVisibility(...)
-
-, since
-
-    MapScene.setLayerVisibility(...)
-
-controls only visibility of the layers which are corresponding to the features enabled either by
-
-    MapScene.enableFeatures(...)
-
-or enabled by default for the scene.
-</p>
+Since version 4.15.0, map features cannot be controlled using <a href="sdk-for-ios-navigate-classes-mapscene#sdk-for-ios-navigate-s-7heresdk8MapSceneC18setLayerVisibility9layerName10visibilityySS_AA0F5StateOtF">`MapScene.setLayerVisibility(...)`</a>, since <a href="sdk-for-ios-navigate-classes-mapscene#sdk-for-ios-navigate-s-7heresdk8MapSceneC18setLayerVisibility9layerName10visibilityySS_AA0F5StateOtF">`MapScene.setLayerVisibility(...)`</a> controls only visibility of the layers which are corresponding to the features enabled either by <a href="sdk-for-ios-navigate-classes-mapscene#sdk-for-ios-navigate-s-7heresdk8MapSceneC14enableFeaturesyySDyS2SGF">`MapScene.enableFeatures(...)`</a> or enabled by default for the scene.
 
 ## Map layers
 
-A map scheme is organized in layers, which can be controlled using
-
-    MapScene.setLayerVisibility(...)
-
-. It’s possible to change the visibility state of any map layer as long as the name is known.
-</p>
+A map scheme is organized in layers, which can be controlled using <a href="sdk-for-ios-navigate-classes-mapscene#sdk-for-ios-navigate-s-7heresdk8MapSceneC18setLayerVisibility9layerName10visibilityySS_AA0F5StateOtF">`MapScene.setLayerVisibility(...)`</a>. It’s possible to change the visibility state of any map layer as long as the name is known.
 
 Layer visibility settings persist between scene reloading.
 
@@ -93,15 +58,11 @@ Layer visibility settings persist between scene reloading.
 
 User generated content can be visualised on the map using <a href="sdk-for-ios-navigate-classes-mappolyline">`MapPolyline`</a>, <a href="sdk-for-ios-navigate-classes-mappolygon">`MapPolygon`</a>, <a href="sdk-for-ios-navigate-classes-mapmarker">`MapMarker`</a>, <a href="sdk-for-ios-navigate-classes-mapmarkercluster">`MapMarkerCluster`</a>, <a href="sdk-for-ios-navigate-classes-maparrow">`MapArrow`</a>, <a href="sdk-for-ios-navigate-classes-mapmarker3d">`MapMarker3D`</a> and <a href="sdk-for-ios-navigate-classes-mapimageoverlay">`MapImageOverlay`</a> (collectively referred to as “map items”). Those can be added to and removed from the scene by respective add and remove methods. The render order of the map items is according to the list above. The order of objects within the same type can be controlled using the `drawOrder` property of each object.
 
-Be careful when adding a very large number of map items as this can have a negative impact on the performance of the app. To work around this limitation the following approach can be used: Register to map camera updates using
-
-    MapCamera.addDelegate(...)
-
-. Query the bounding box of the camera viewport using <a href="sdk-for-ios-navigate-classes-mapcamera#/s:7heresdk9MapCameraC11boundingBoxAA03GeoE0VSgvp">`MapCamera.boundingBox`</a> (it may be extended) and then use the method
+Be careful when adding a very large number of map items as this can have a negative impact on the performance of the app. To work around this limitation the following approach can be used: Register to map camera updates using <a href="sdk-for-ios-navigate-classes-mapcamera#sdk-for-ios-navigate-s-7heresdk9MapCameraC11addDelegateyyAA0bcE0_pF">`MapCamera.addDelegate(...)`</a>. Query the bounding box of the camera viewport using <a href="sdk-for-ios-navigate-classes-mapcamera#sdk-for-ios-navigate-s-7heresdk9MapCameraC11boundingBoxAA03GeoE0VSgvp">`MapCamera.boundingBox`</a> (it may be extended) and then use the method
 
     GeoBox.contains(GeoCoordinates)
 
-in combination with <a href="sdk-for-ios-navigate-classes-mapcamera-state#/s:7heresdk9MapCameraC5StateV24distanceToTargetInMetersSdvp">`MapCamera.State.distanceToTargetInMeters`</a> to determine which map items are actually visible to the user in the current camera viewport and thus need to be added to the map.
+in combination with <a href="sdk-for-ios-navigate-classes-mapcamera-state#sdk-for-ios-navigate-s-7heresdk9MapCameraC5StateV24distanceToTargetInMetersSdvp">`MapCamera.State.distanceToTargetInMeters`</a> to determine which map items are actually visible to the user in the current camera viewport and thus need to be added to the map.
 </p>
 
 </div>
@@ -112,7 +73,7 @@ in combination with <a href="sdk-for-ios-navigate-classes-mapcamera-state#/s:7he
 
 - <div>
 
-  ` `<span id="/s:7heresdk8MapSceneC04LoadC17CompletionHandlera"></span>` `<span id="//apple_ref/swift/Alias/LoadSceneCompletionHandler" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapscene#/s:7heresdk8MapSceneC04LoadC17CompletionHandlera" class="token"><code>LoadSceneCompletionHandler</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8MapSceneC04LoadC17CompletionHandlera"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Alias-LoadSceneCompletionHandler" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapscene#sdk-for-ios-navigate-s-7heresdk8MapSceneC04LoadC17CompletionHandlera" class="token"><code>LoadSceneCompletionHandler</code></a> 
 
   </div>
 
@@ -148,12 +109,14 @@ in combination with <a href="sdk-for-ios-navigate-classes-mapcamera-state#/s:7he
   Swift
 
   ``` highlight
-  public typealias LoadSceneCompletionHandler = ( _ loadSceneError : MapError ?) -> Void
+  public typealias LoadSceneCompletionHandler = (_ loadSceneError: MapError?) -> Void
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-maperror">MapError</a>
 
   </div>
 
@@ -184,7 +147,7 @@ in combination with <a href="sdk-for-ios-navigate-classes-mapcamera-state#/s:7he
 
 - <div>
 
-  ` `<span id="/s:7heresdk8MapSceneC6lightsAA0bC6LightsCvp"></span>` `<span id="//apple_ref/swift/Property/lights" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapscene#/s:7heresdk8MapSceneC6lightsAA0bC6LightsCvp" class="token"><code>lights</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8MapSceneC6lightsAA0bC6LightsCvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-lights" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapscene#sdk-for-ios-navigate-s-7heresdk8MapSceneC6lightsAA0bC6LightsCvp" class="token"><code>lights</code></a> 
 
   </div>
 
@@ -235,6 +198,10 @@ in combination with <a href="sdk-for-ios-navigate-classes-mapcamera-state#/s:7he
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mapscenelights">MapSceneLights</a>
+
   </div>
 
   </div>
@@ -243,7 +210,7 @@ in combination with <a href="sdk-for-ios-navigate-classes-mapcamera-state#/s:7he
 
 - <div>
 
-  ` `<span id="/s:7heresdk8MapSceneC0B10PickFilterC"></span>` `<span id="//apple_ref/swift/Class/MapPickFilter" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapscene#/s:7heresdk8MapSceneC0B10PickFilterC" class="token"><code>MapPickFilter</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8MapSceneC0B10PickFilterC"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Class-MapPickFilter" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapscene#sdk-for-ios-navigate-s-7heresdk8MapSceneC0B10PickFilterC" class="token"><code>MapPickFilter</code></a> 
 
   </div>
 
@@ -289,6 +256,10 @@ in combination with <a href="sdk-for-ios-navigate-classes-mapcamera-state#/s:7he
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mapscene">MapScene</a>
+
   </div>
 
   </div>
@@ -297,7 +268,7 @@ in combination with <a href="sdk-for-ios-navigate-classes-mapcamera-state#/s:7he
 
 - <div>
 
-      loadScene(mapScheme: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk8MapSceneC04loadC09mapScheme10completionyAA0bF0O_yAA0B5ErrorOSgcSgtF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-loadScene-mapScheme-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapscene#sdk-for-ios-navigate-s-7heresdk8MapSceneC04loadC09mapScheme10completionyAA0bF0O_yAA0B5ErrorOSgcSgtF" class="token"><code>loadScene(mapScheme:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -317,15 +288,7 @@ in combination with <a href="sdk-for-ios-navigate-classes-mapcamera-state#/s:7he
 
   Asynchronously loads a map scene described by a specified map scheme. Any previous map scene config will be replaced. The loaded scene is cached and so any changes made to the scene files on disk might not get reflected on a successive call to this function. Instead the reloadScene API can handle such use-cases to force-update the scene.
 
-  Map features enabled or disabled using
-
-      MapScene.enableFeatures(...)
-
-  and
-      MapScene.disableFeatures(...)
-
-  will be reset to defaults for the new scene configuration.
-  </p>
+  Map features enabled or disabled using <a href="sdk-for-ios-navigate-classes-mapscene#sdk-for-ios-navigate-s-7heresdk8MapSceneC14enableFeaturesyySDyS2SGF">`MapScene.enableFeatures(...)`</a> and <a href="sdk-for-ios-navigate-classes-mapscene#sdk-for-ios-navigate-s-7heresdk8MapSceneC15disableFeaturesyySaySSGF">`MapScene.disableFeatures(...)`</a> will be reset to defaults for the new scene configuration.
 
   The callback is called on the main thread.
 
@@ -340,12 +303,15 @@ in combination with <a href="sdk-for-ios-navigate-classes-mapcamera-state#/s:7he
   Swift
 
   ``` highlight
-  public func loadScene ( mapScheme : MapScheme , completion : MapScene . LoadSceneCompletionHandler ?)
+  public func loadScene(mapScheme: MapScheme, completion: MapScene.LoadSceneCompletionHandler?)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-mapscheme">MapScheme</a>
+  - <a href="sdk-for-ios-navigate-classes-mapscene#sdk-for-ios-navigate-s-7heresdk8MapSceneC04LoadC17CompletionHandlera">LoadSceneCompletionHandler</a>
 
   </div>
 
@@ -382,7 +348,7 @@ in combination with <a href="sdk-for-ios-navigate-classes-mapcamera-state#/s:7he
 
 - <div>
 
-      loadScene(fromFile: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk8MapSceneC04loadC08fromFile10completionySS_yAA0B5ErrorOSgcSgtF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-loadScene-fromFile-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapscene#sdk-for-ios-navigate-s-7heresdk8MapSceneC04loadC08fromFile10completionySS_yAA0B5ErrorOSgcSgtF" class="token"><code>loadScene(fromFile:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -402,22 +368,9 @@ in combination with <a href="sdk-for-ios-navigate-classes-mapcamera-state#/s:7he
 
   Asynchronously loads a map scene described by a specified file in one of the supported formats. Any previous map scene config will be replaced.
 
-  When loading the same file again, consider to call
+  When loading the same file again, consider to call <a href="sdk-for-ios-navigate-classes-mapscene#sdk-for-ios-navigate-s-7heresdk8MapSceneC06reloadC0yyF">`reloadScene()`</a> instead.
 
-      reloadScene()
-
-  instead.
-  </p>
-
-  Map features enabled or disabled using
-
-      MapScene.enableFeatures(...)
-
-  and
-      MapScene.disableFeatures(...)
-
-  will be reset to defaults for the new scene configuration.
-  </p>
+  Map features enabled or disabled using <a href="sdk-for-ios-navigate-classes-mapscene#sdk-for-ios-navigate-s-7heresdk8MapSceneC14enableFeaturesyySDyS2SGF">`MapScene.enableFeatures(...)`</a> and <a href="sdk-for-ios-navigate-classes-mapscene#sdk-for-ios-navigate-s-7heresdk8MapSceneC15disableFeaturesyySaySSGF">`MapScene.disableFeatures(...)`</a> will be reset to defaults for the new scene configuration.
 
   The callback is called on the main thread.
 
@@ -432,12 +385,14 @@ in combination with <a href="sdk-for-ios-navigate-classes-mapcamera-state#/s:7he
   Swift
 
   ``` highlight
-  public func loadScene ( fromFile configurationFile : String , completion : MapScene . LoadSceneCompletionHandler ?)
+  public func loadScene(fromFile configurationFile: String, completion: MapScene.LoadSceneCompletionHandler?)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mapscene#sdk-for-ios-navigate-s-7heresdk8MapSceneC04LoadC17CompletionHandlera">LoadSceneCompletionHandler</a>
 
   </div>
 
@@ -474,7 +429,7 @@ in combination with <a href="sdk-for-ios-navigate-classes-mapcamera-state#/s:7he
 
 - <div>
 
-      loadScene(fromFile: watermarkStyle: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk8MapSceneC04loadC08fromFile14watermarkStyle10completionySS_AA09WatermarkH0OyAA0B5ErrorOSgcSgtF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-loadScene-fromFile-watermarkStyle-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapscene#sdk-for-ios-navigate-s-7heresdk8MapSceneC04loadC08fromFile14watermarkStyle10completionySS_AA09WatermarkH0OyAA0B5ErrorOSgcSgtF" class="token"><code>loadScene(fromFile:</code><wbr></wbr><code>watermarkStyle:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -494,22 +449,9 @@ in combination with <a href="sdk-for-ios-navigate-classes-mapcamera-state#/s:7he
 
   Asynchronously loads a map scene described by a specified file in one of the supported formats. The style of the HERE watermark matching the map scheme is specified. Any previous map scene config will be replaced.
 
-  When loading the same file again, consider to call
+  When loading the same file again, consider to call <a href="sdk-for-ios-navigate-classes-mapscene#sdk-for-ios-navigate-s-7heresdk8MapSceneC06reloadC0yyF">`reloadScene()`</a> instead.
 
-      reloadScene()
-
-  instead.
-  </p>
-
-  Map features enabled or disabled using
-
-      MapScene.enableFeatures(...)
-
-  and
-      MapScene.disableFeatures(...)
-
-  will be reset to defaults for the new scene configuration.
-  </p>
+  Map features enabled or disabled using <a href="sdk-for-ios-navigate-classes-mapscene#sdk-for-ios-navigate-s-7heresdk8MapSceneC14enableFeaturesyySDyS2SGF">`MapScene.enableFeatures(...)`</a> and <a href="sdk-for-ios-navigate-classes-mapscene#sdk-for-ios-navigate-s-7heresdk8MapSceneC15disableFeaturesyySaySSGF">`MapScene.disableFeatures(...)`</a> will be reset to defaults for the new scene configuration.
 
   The callback is called on the main thread.
 
@@ -524,12 +466,15 @@ in combination with <a href="sdk-for-ios-navigate-classes-mapcamera-state#/s:7he
   Swift
 
   ``` highlight
-  public func loadScene ( fromFile configurationFile : String , watermarkStyle : WatermarkStyle , completion : MapScene . LoadSceneCompletionHandler ?)
+  public func loadScene(fromFile configurationFile: String, watermarkStyle: WatermarkStyle, completion: MapScene.LoadSceneCompletionHandler?)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-watermarkstyle">WatermarkStyle</a>
+  - <a href="sdk-for-ios-navigate-classes-mapscene#sdk-for-ios-navigate-s-7heresdk8MapSceneC04LoadC17CompletionHandlera">LoadSceneCompletionHandler</a>
 
   </div>
 
@@ -572,7 +517,7 @@ in combination with <a href="sdk-for-ios-navigate-classes-mapcamera-state#/s:7he
 
 - <div>
 
-      loadScene(options: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk8MapSceneC04loadC07options10completionyAA0bC11LoadOptionsC_yAA0B5ErrorOSgcSgtF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-loadScene-options-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapscene#sdk-for-ios-navigate-s-7heresdk8MapSceneC04loadC07options10completionyAA0bC11LoadOptionsC_yAA0B5ErrorOSgcSgtF" class="token"><code>loadScene(options:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -611,12 +556,15 @@ in combination with <a href="sdk-for-ios-navigate-classes-mapcamera-state#/s:7he
   Swift
 
   ``` highlight
-  public func loadScene ( options : MapSceneLoadOptions , completion : MapScene . LoadSceneCompletionHandler ?)
+  public func loadScene(options: MapSceneLoadOptions, completion: MapScene.LoadSceneCompletionHandler?)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-maps#sdk-for-ios-navigate-s-7heresdk19MapSceneLoadOptionsC">MapSceneLoadOptions</a>
+  - <a href="sdk-for-ios-navigate-classes-mapscene#sdk-for-ios-navigate-s-7heresdk8MapSceneC04LoadC17CompletionHandlera">LoadSceneCompletionHandler</a>
 
   </div>
 
@@ -653,7 +601,7 @@ in combination with <a href="sdk-for-ios-navigate-classes-mapcamera-state#/s:7he
 
 - <div>
 
-      addMapPolyline(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk8MapSceneC03addB8PolylineyyAA0bE0CF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-addMapPolyline-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapscene#sdk-for-ios-navigate-s-7heresdk8MapSceneC03addB8PolylineyyAA0bE0CF" class="token"><code>addMapPolyline(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -684,12 +632,14 @@ in combination with <a href="sdk-for-ios-navigate-classes-mapcamera-state#/s:7he
   Swift
 
   ``` highlight
-  public func addMapPolyline ( _ mapPolyline : MapPolyline )
+  public func addMapPolyline(_ mapPolyline: MapPolyline)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mappolyline">MapPolyline</a>
 
   </div>
 
@@ -720,7 +670,7 @@ in combination with <a href="sdk-for-ios-navigate-classes-mapcamera-state#/s:7he
 
 - <div>
 
-      addMapPolylines(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk8MapSceneC03addB9PolylinesyySayAA0B8PolylineCGF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-addMapPolylines-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapscene#sdk-for-ios-navigate-s-7heresdk8MapSceneC03addB9PolylinesyySayAA0B8PolylineCGF" class="token"><code>addMapPolylines(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -753,12 +703,14 @@ in combination with <a href="sdk-for-ios-navigate-classes-mapcamera-state#/s:7he
   Swift
 
   ``` highlight
-  public func addMapPolylines ( _ mapPolylines : [ MapPolyline ])
+  public func addMapPolylines(_ mapPolylines: [MapPolyline])
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mappolyline">MapPolyline</a>
 
   </div>
 
@@ -789,7 +741,7 @@ in combination with <a href="sdk-for-ios-navigate-classes-mapcamera-state#/s:7he
 
 - <div>
 
-      removeMapPolyline(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk8MapSceneC06removeB8PolylineyyAA0bE0CF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-removeMapPolyline-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapscene#sdk-for-ios-navigate-s-7heresdk8MapSceneC06removeB8PolylineyyAA0bE0CF" class="token"><code>removeMapPolyline(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -820,12 +772,14 @@ in combination with <a href="sdk-for-ios-navigate-classes-mapcamera-state#/s:7he
   Swift
 
   ``` highlight
-  public func removeMapPolyline ( _ mapPolyline : MapPolyline )
+  public func removeMapPolyline(_ mapPolyline: MapPolyline)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mappolyline">MapPolyline</a>
 
   </div>
 
@@ -856,7 +810,7 @@ in combination with <a href="sdk-for-ios-navigate-classes-mapcamera-state#/s:7he
 
 - <div>
 
-      removeMapPolylines(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk8MapSceneC06removeB9PolylinesyySayAA0B8PolylineCGF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-removeMapPolylines-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapscene#sdk-for-ios-navigate-s-7heresdk8MapSceneC06removeB9PolylinesyySayAA0B8PolylineCGF" class="token"><code>removeMapPolylines(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -887,12 +841,14 @@ in combination with <a href="sdk-for-ios-navigate-classes-mapcamera-state#/s:7he
   Swift
 
   ``` highlight
-  public func removeMapPolylines ( _ mapPolylines : [ MapPolyline ])
+  public func removeMapPolylines(_ mapPolylines: [MapPolyline])
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mappolyline">MapPolyline</a>
 
   </div>
 
@@ -923,7 +879,7 @@ in combination with <a href="sdk-for-ios-navigate-classes-mapcamera-state#/s:7he
 
 - <div>
 
-      removeAllMapPolylines()
+   <span id="sdk-for-ios-navigate-s-7heresdk8MapSceneC09removeAllB9PolylinesyyF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-removeAllMapPolylines" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapscene#sdk-for-ios-navigate-s-7heresdk8MapSceneC09removeAllB9PolylinesyyF" class="token"><code>removeAllMapPolylines()</code></a> 
 
   </div>
 
@@ -954,10 +910,8 @@ in combination with <a href="sdk-for-ios-navigate-classes-mapcamera-state#/s:7he
   Swift
 
   ``` highlight
-  public func removeAllMapPolylines ()
+  public func removeAllMapPolylines()
   ```
-
-  </pre>
 
   </div>
 
@@ -969,7 +923,7 @@ in combination with <a href="sdk-for-ios-navigate-classes-mapcamera-state#/s:7he
 
 - <div>
 
-      addMapArrow(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk8MapSceneC03addB5ArrowyyAA0bE0CF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-addMapArrow-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapscene#sdk-for-ios-navigate-s-7heresdk8MapSceneC03addB5ArrowyyAA0bE0CF" class="token"><code>addMapArrow(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1002,12 +956,14 @@ in combination with <a href="sdk-for-ios-navigate-classes-mapcamera-state#/s:7he
   Swift
 
   ``` highlight
-  public func addMapArrow ( _ mapArrow : MapArrow )
+  public func addMapArrow(_ mapArrow: MapArrow)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-maparrow">MapArrow</a>
 
   </div>
 
@@ -1038,7 +994,7 @@ in combination with <a href="sdk-for-ios-navigate-classes-mapcamera-state#/s:7he
 
 - <div>
 
-      removeMapArrow(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk8MapSceneC06removeB5ArrowyyAA0bE0CF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-removeMapArrow-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapscene#sdk-for-ios-navigate-s-7heresdk8MapSceneC06removeB5ArrowyyAA0bE0CF" class="token"><code>removeMapArrow(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1069,12 +1025,14 @@ in combination with <a href="sdk-for-ios-navigate-classes-mapcamera-state#/s:7he
   Swift
 
   ``` highlight
-  public func removeMapArrow ( _ mapArrow : MapArrow )
+  public func removeMapArrow(_ mapArrow: MapArrow)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-maparrow">MapArrow</a>
 
   </div>
 
@@ -1105,7 +1063,7 @@ in combination with <a href="sdk-for-ios-navigate-classes-mapcamera-state#/s:7he
 
 - <div>
 
-      addMapMarker(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk8MapSceneC03addB6MarkeryyAA0bE0CF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-addMapMarker-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapscene#sdk-for-ios-navigate-s-7heresdk8MapSceneC03addB6MarkeryyAA0bE0CF" class="token"><code>addMapMarker(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1136,12 +1094,14 @@ in combination with <a href="sdk-for-ios-navigate-classes-mapcamera-state#/s:7he
   Swift
 
   ``` highlight
-  public func addMapMarker ( _ marker : MapMarker )
+  public func addMapMarker(_ marker: MapMarker)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mapmarker">MapMarker</a>
 
   </div>
 
@@ -1172,7 +1132,7 @@ in combination with <a href="sdk-for-ios-navigate-classes-mapcamera-state#/s:7he
 
 - <div>
 
-      addMapMarkers(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk8MapSceneC03addB7MarkersyySayAA0B6MarkerCGF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-addMapMarkers-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapscene#sdk-for-ios-navigate-s-7heresdk8MapSceneC03addB7MarkersyySayAA0B6MarkerCGF" class="token"><code>addMapMarkers(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1205,12 +1165,14 @@ in combination with <a href="sdk-for-ios-navigate-classes-mapcamera-state#/s:7he
   Swift
 
   ``` highlight
-  public func addMapMarkers ( _ markers : [ MapMarker ])
+  public func addMapMarkers(_ markers: [MapMarker])
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mapmarker">MapMarker</a>
 
   </div>
 
@@ -1241,7 +1203,7 @@ in combination with <a href="sdk-for-ios-navigate-classes-mapcamera-state#/s:7he
 
 - <div>
 
-      removeMapMarker(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk8MapSceneC06removeB6MarkeryyAA0bE0CF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-removeMapMarker-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapscene#sdk-for-ios-navigate-s-7heresdk8MapSceneC06removeB6MarkeryyAA0bE0CF" class="token"><code>removeMapMarker(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1272,12 +1234,14 @@ in combination with <a href="sdk-for-ios-navigate-classes-mapcamera-state#/s:7he
   Swift
 
   ``` highlight
-  public func removeMapMarker ( _ marker : MapMarker )
+  public func removeMapMarker(_ marker: MapMarker)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mapmarker">MapMarker</a>
 
   </div>
 
@@ -1308,7 +1272,7 @@ in combination with <a href="sdk-for-ios-navigate-classes-mapcamera-state#/s:7he
 
 - <div>
 
-      removeMapMarkers(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk8MapSceneC06removeB7MarkersyySayAA0B6MarkerCGF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-removeMapMarkers-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapscene#sdk-for-ios-navigate-s-7heresdk8MapSceneC06removeB7MarkersyySayAA0B6MarkerCGF" class="token"><code>removeMapMarkers(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1339,12 +1303,14 @@ in combination with <a href="sdk-for-ios-navigate-classes-mapcamera-state#/s:7he
   Swift
 
   ``` highlight
-  public func removeMapMarkers ( _ markers : [ MapMarker ])
+  public func removeMapMarkers(_ markers: [MapMarker])
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mapmarker">MapMarker</a>
 
   </div>
 
@@ -1375,7 +1341,7 @@ in combination with <a href="sdk-for-ios-navigate-classes-mapcamera-state#/s:7he
 
 - <div>
 
-      removeAllMapMarkers()
+   <span id="sdk-for-ios-navigate-s-7heresdk8MapSceneC09removeAllB7MarkersyyF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-removeAllMapMarkers" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapscene#sdk-for-ios-navigate-s-7heresdk8MapSceneC09removeAllB7MarkersyyF" class="token"><code>removeAllMapMarkers()</code></a> 
 
   </div>
 
@@ -1406,10 +1372,8 @@ in combination with <a href="sdk-for-ios-navigate-classes-mapcamera-state#/s:7he
   Swift
 
   ``` highlight
-  public func removeAllMapMarkers ()
+  public func removeAllMapMarkers()
   ```
-
-  </pre>
 
   </div>
 
@@ -1421,7 +1385,7 @@ in combination with <a href="sdk-for-ios-navigate-classes-mapcamera-state#/s:7he
 
 - <div>
 
-      addMapMarkerCluster(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk8MapSceneC03addB13MarkerClusteryyAA0beF0CF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-addMapMarkerCluster-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapscene#sdk-for-ios-navigate-s-7heresdk8MapSceneC03addB13MarkerClusteryyAA0beF0CF" class="token"><code>addMapMarkerCluster(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1452,12 +1416,14 @@ in combination with <a href="sdk-for-ios-navigate-classes-mapcamera-state#/s:7he
   Swift
 
   ``` highlight
-  public func addMapMarkerCluster ( _ cluster : MapMarkerCluster )
+  public func addMapMarkerCluster(_ cluster: MapMarkerCluster)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mapmarkercluster">MapMarkerCluster</a>
 
   </div>
 
@@ -1488,7 +1454,7 @@ in combination with <a href="sdk-for-ios-navigate-classes-mapcamera-state#/s:7he
 
 - <div>
 
-      removeMapMarkerCluster(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk8MapSceneC06removeB13MarkerClusteryyAA0beF0CF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-removeMapMarkerCluster-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapscene#sdk-for-ios-navigate-s-7heresdk8MapSceneC06removeB13MarkerClusteryyAA0beF0CF" class="token"><code>removeMapMarkerCluster(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1519,12 +1485,14 @@ in combination with <a href="sdk-for-ios-navigate-classes-mapcamera-state#/s:7he
   Swift
 
   ``` highlight
-  public func removeMapMarkerCluster ( _ cluster : MapMarkerCluster )
+  public func removeMapMarkerCluster(_ cluster: MapMarkerCluster)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mapmarkercluster">MapMarkerCluster</a>
 
   </div>
 
@@ -1555,7 +1523,7 @@ in combination with <a href="sdk-for-ios-navigate-classes-mapcamera-state#/s:7he
 
 - <div>
 
-      addMapMarker3d(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk8MapSceneC03addB8Marker3dyyAA0B8Marker3DCF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-addMapMarker3d-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapscene#sdk-for-ios-navigate-s-7heresdk8MapSceneC03addB8Marker3dyyAA0B8Marker3DCF" class="token"><code>addMapMarker3d(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1588,12 +1556,14 @@ in combination with <a href="sdk-for-ios-navigate-classes-mapcamera-state#/s:7he
   Swift
 
   ``` highlight
-  public func addMapMarker3d ( _ marker : MapMarker3D )
+  public func addMapMarker3d(_ marker: MapMarker3D)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mapmarker3d">MapMarker3D</a>
 
   </div>
 
@@ -1624,7 +1594,7 @@ in combination with <a href="sdk-for-ios-navigate-classes-mapcamera-state#/s:7he
 
 - <div>
 
-      addMapMarkers3d(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk8MapSceneC03addB9Markers3dyySayAA0B8Marker3DCGF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-addMapMarkers3d-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapscene#sdk-for-ios-navigate-s-7heresdk8MapSceneC03addB9Markers3dyySayAA0B8Marker3DCGF" class="token"><code>addMapMarkers3d(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1657,12 +1627,14 @@ in combination with <a href="sdk-for-ios-navigate-classes-mapcamera-state#/s:7he
   Swift
 
   ``` highlight
-  public func addMapMarkers3d ( _ markers : [ MapMarker3D ])
+  public func addMapMarkers3d(_ markers: [MapMarker3D])
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mapmarker3d">MapMarker3D</a>
 
   </div>
 
@@ -1693,7 +1665,7 @@ in combination with <a href="sdk-for-ios-navigate-classes-mapcamera-state#/s:7he
 
 - <div>
 
-      removeMapMarker3d(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk8MapSceneC06removeB8Marker3dyyAA0B8Marker3DCF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-removeMapMarker3d-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapscene#sdk-for-ios-navigate-s-7heresdk8MapSceneC06removeB8Marker3dyyAA0B8Marker3DCF" class="token"><code>removeMapMarker3d(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1724,12 +1696,14 @@ in combination with <a href="sdk-for-ios-navigate-classes-mapcamera-state#/s:7he
   Swift
 
   ``` highlight
-  public func removeMapMarker3d ( _ marker : MapMarker3D )
+  public func removeMapMarker3d(_ marker: MapMarker3D)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mapmarker3d">MapMarker3D</a>
 
   </div>
 
@@ -1760,7 +1734,7 @@ in combination with <a href="sdk-for-ios-navigate-classes-mapcamera-state#/s:7he
 
 - <div>
 
-      removeMapMarkers3d(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk8MapSceneC06removeB9Markers3dyySayAA0B8Marker3DCGF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-removeMapMarkers3d-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapscene#sdk-for-ios-navigate-s-7heresdk8MapSceneC06removeB9Markers3dyySayAA0B8Marker3DCGF" class="token"><code>removeMapMarkers3d(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1791,12 +1765,14 @@ in combination with <a href="sdk-for-ios-navigate-classes-mapcamera-state#/s:7he
   Swift
 
   ``` highlight
-  public func removeMapMarkers3d ( _ markers : [ MapMarker3D ])
+  public func removeMapMarkers3d(_ markers: [MapMarker3D])
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mapmarker3d">MapMarker3D</a>
 
   </div>
 
@@ -1827,7 +1803,7 @@ in combination with <a href="sdk-for-ios-navigate-classes-mapcamera-state#/s:7he
 
 - <div>
 
-      removeAllMapMarkers3d()
+   <span id="sdk-for-ios-navigate-s-7heresdk8MapSceneC09removeAllB9Markers3dyyF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-removeAllMapMarkers3d" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapscene#sdk-for-ios-navigate-s-7heresdk8MapSceneC09removeAllB9Markers3dyyF" class="token"><code>removeAllMapMarkers3d()</code></a> 
 
   </div>
 
@@ -1858,10 +1834,8 @@ in combination with <a href="sdk-for-ios-navigate-classes-mapcamera-state#/s:7he
   Swift
 
   ``` highlight
-  public func removeAllMapMarkers3d ()
+  public func removeAllMapMarkers3d()
   ```
-
-  </pre>
 
   </div>
 
@@ -1873,7 +1847,7 @@ in combination with <a href="sdk-for-ios-navigate-classes-mapcamera-state#/s:7he
 
 - <div>
 
-      addMapPolygon(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk8MapSceneC03addB7PolygonyyAA0bE0CF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-addMapPolygon-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapscene#sdk-for-ios-navigate-s-7heresdk8MapSceneC03addB7PolygonyyAA0bE0CF" class="token"><code>addMapPolygon(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1906,12 +1880,14 @@ in combination with <a href="sdk-for-ios-navigate-classes-mapcamera-state#/s:7he
   Swift
 
   ``` highlight
-  public func addMapPolygon ( _ mapPolygon : MapPolygon )
+  public func addMapPolygon(_ mapPolygon: MapPolygon)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mappolygon">MapPolygon</a>
 
   </div>
 
@@ -1942,7 +1918,7 @@ in combination with <a href="sdk-for-ios-navigate-classes-mapcamera-state#/s:7he
 
 - <div>
 
-      addMapPolygons(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk8MapSceneC03addB8PolygonsyySayAA0B7PolygonCGF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-addMapPolygons-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapscene#sdk-for-ios-navigate-s-7heresdk8MapSceneC03addB8PolygonsyySayAA0B7PolygonCGF" class="token"><code>addMapPolygons(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1975,12 +1951,14 @@ in combination with <a href="sdk-for-ios-navigate-classes-mapcamera-state#/s:7he
   Swift
 
   ``` highlight
-  public func addMapPolygons ( _ mapPolygons : [ MapPolygon ])
+  public func addMapPolygons(_ mapPolygons: [MapPolygon])
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mappolygon">MapPolygon</a>
 
   </div>
 
@@ -2011,7 +1989,7 @@ in combination with <a href="sdk-for-ios-navigate-classes-mapcamera-state#/s:7he
 
 - <div>
 
-      removeMapPolygon(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk8MapSceneC06removeB7PolygonyyAA0bE0CF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-removeMapPolygon-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapscene#sdk-for-ios-navigate-s-7heresdk8MapSceneC06removeB7PolygonyyAA0bE0CF" class="token"><code>removeMapPolygon(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -2042,12 +2020,14 @@ in combination with <a href="sdk-for-ios-navigate-classes-mapcamera-state#/s:7he
   Swift
 
   ``` highlight
-  public func removeMapPolygon ( _ mapPolygon : MapPolygon )
+  public func removeMapPolygon(_ mapPolygon: MapPolygon)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mappolygon">MapPolygon</a>
 
   </div>
 
@@ -2078,7 +2058,7 @@ in combination with <a href="sdk-for-ios-navigate-classes-mapcamera-state#/s:7he
 
 - <div>
 
-      removeMapPolygons(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk8MapSceneC06removeB8PolygonsyySayAA0B7PolygonCGF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-removeMapPolygons-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapscene#sdk-for-ios-navigate-s-7heresdk8MapSceneC06removeB8PolygonsyySayAA0B7PolygonCGF" class="token"><code>removeMapPolygons(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -2109,12 +2089,14 @@ in combination with <a href="sdk-for-ios-navigate-classes-mapcamera-state#/s:7he
   Swift
 
   ``` highlight
-  public func removeMapPolygons ( _ mapPolygons : [ MapPolygon ])
+  public func removeMapPolygons(_ mapPolygons: [MapPolygon])
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mappolygon">MapPolygon</a>
 
   </div>
 
@@ -2145,7 +2127,7 @@ in combination with <a href="sdk-for-ios-navigate-classes-mapcamera-state#/s:7he
 
 - <div>
 
-      removeAllMapPolygons()
+   <span id="sdk-for-ios-navigate-s-7heresdk8MapSceneC09removeAllB8PolygonsyyF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-removeAllMapPolygons" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapscene#sdk-for-ios-navigate-s-7heresdk8MapSceneC09removeAllB8PolygonsyyF" class="token"><code>removeAllMapPolygons()</code></a> 
 
   </div>
 
@@ -2176,10 +2158,8 @@ in combination with <a href="sdk-for-ios-navigate-classes-mapcamera-state#/s:7he
   Swift
 
   ``` highlight
-  public func removeAllMapPolygons ()
+  public func removeAllMapPolygons()
   ```
-
-  </pre>
 
   </div>
 
@@ -2191,7 +2171,7 @@ in combination with <a href="sdk-for-ios-navigate-classes-mapcamera-state#/s:7he
 
 - <div>
 
-      addMapImageOverlay(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk8MapSceneC03addB12ImageOverlayyyAA0beF0CF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-addMapImageOverlay-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapscene#sdk-for-ios-navigate-s-7heresdk8MapSceneC03addB12ImageOverlayyyAA0beF0CF" class="token"><code>addMapImageOverlay(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -2222,12 +2202,14 @@ in combination with <a href="sdk-for-ios-navigate-classes-mapcamera-state#/s:7he
   Swift
 
   ``` highlight
-  public func addMapImageOverlay ( _ overlay : MapImageOverlay )
+  public func addMapImageOverlay(_ overlay: MapImageOverlay)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mapimageoverlay">MapImageOverlay</a>
 
   </div>
 
@@ -2258,7 +2240,7 @@ in combination with <a href="sdk-for-ios-navigate-classes-mapcamera-state#/s:7he
 
 - <div>
 
-      removeMapImageOverlay(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk8MapSceneC06removeB12ImageOverlayyyAA0beF0CF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-removeMapImageOverlay-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapscene#sdk-for-ios-navigate-s-7heresdk8MapSceneC06removeB12ImageOverlayyyAA0beF0CF" class="token"><code>removeMapImageOverlay(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -2289,12 +2271,14 @@ in combination with <a href="sdk-for-ios-navigate-classes-mapcamera-state#/s:7he
   Swift
 
   ``` highlight
-  public func removeMapImageOverlay ( _ overlay : MapImageOverlay )
+  public func removeMapImageOverlay(_ overlay: MapImageOverlay)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mapimageoverlay">MapImageOverlay</a>
 
   </div>
 
@@ -2325,7 +2309,7 @@ in combination with <a href="sdk-for-ios-navigate-classes-mapcamera-state#/s:7he
 
 - <div>
 
-      removeAllMapItems()
+   <span id="sdk-for-ios-navigate-s-7heresdk8MapSceneC09removeAllB5ItemsyyF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-removeAllMapItems" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapscene#sdk-for-ios-navigate-s-7heresdk8MapSceneC09removeAllB5ItemsyyF" class="token"><code>removeAllMapItems()</code></a> 
 
   </div>
 
@@ -2356,10 +2340,8 @@ in combination with <a href="sdk-for-ios-navigate-classes-mapcamera-state#/s:7he
   Swift
 
   ``` highlight
-  public func removeAllMapItems ()
+  public func removeAllMapItems()
   ```
-
-  </pre>
 
   </div>
 
@@ -2371,7 +2353,7 @@ in combination with <a href="sdk-for-ios-navigate-classes-mapcamera-state#/s:7he
 
 - <div>
 
-      setLayerVisibility(layerName: visibility: )
+   <span id="sdk-for-ios-navigate-s-7heresdk8MapSceneC18setLayerVisibility9layerName10visibilityySS_AA0F5StateOtF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-setLayerVisibility-layerName-visibility" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapscene#sdk-for-ios-navigate-s-7heresdk8MapSceneC18setLayerVisibility9layerName10visibilityySS_AA0F5StateOtF" class="token"><code>setLayerVisibility(layerName:</code><wbr></wbr><code>visibility:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -2402,12 +2384,14 @@ in combination with <a href="sdk-for-ios-navigate-classes-mapcamera-state#/s:7he
   Swift
 
   ``` highlight
-  public func setLayerVisibility ( layerName : String , visibility : VisibilityState )
+  public func setLayerVisibility(layerName: String, visibility: VisibilityState)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-visibilitystate">VisibilityState</a>
 
   </div>
 
@@ -2444,7 +2428,7 @@ in combination with <a href="sdk-for-ios-navigate-classes-mapcamera-state#/s:7he
 
 - <div>
 
-      getActiveFeatures()
+   <span id="sdk-for-ios-navigate-s-7heresdk8MapSceneC17getActiveFeaturesSDyS2SGyF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-getActiveFeatures" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapscene#sdk-for-ios-navigate-s-7heresdk8MapSceneC17getActiveFeaturesSDyS2SGyF" class="token"><code>getActiveFeatures()</code></a> 
 
   </div>
 
@@ -2462,12 +2446,7 @@ in combination with <a href="sdk-for-ios-navigate-classes-mapcamera-state#/s:7he
 
   <div class="abstract">
 
-  Gets map features that are currently active. Active features are features that are either enabled via a call to
-
-      MapScene.enableFeatures(...)
-
-  or that are enabled by default in the scene.
-  </p>
+  Gets map features that are currently active. Active features are features that are either enabled via a call to <a href="sdk-for-ios-navigate-classes-mapscene#sdk-for-ios-navigate-s-7heresdk8MapSceneC14enableFeaturesyySDyS2SGF">`MapScene.enableFeatures(...)`</a> or that are enabled by default in the scene.
 
   The key to the resulting map is the name of the feature and the value is the active mode.
 
@@ -2484,10 +2463,8 @@ in combination with <a href="sdk-for-ios-navigate-classes-mapcamera-state#/s:7he
   Swift
 
   ``` highlight
-  public func getActiveFeatures () -> [ String : String ]
+  public func getActiveFeatures() -> [String : String]
   ```
-
-  </pre>
 
   </div>
 
@@ -2507,7 +2484,7 @@ in combination with <a href="sdk-for-ios-navigate-classes-mapcamera-state#/s:7he
 
 - <div>
 
-      getSupportedFeatures()
+   <span id="sdk-for-ios-navigate-s-7heresdk8MapSceneC20getSupportedFeaturesSDySSSaySSGGyF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-getSupportedFeatures" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapscene#sdk-for-ios-navigate-s-7heresdk8MapSceneC20getSupportedFeaturesSDySSSaySSGGyF" class="token"><code>getSupportedFeatures()</code></a> 
 
   </div>
 
@@ -2542,10 +2519,8 @@ in combination with <a href="sdk-for-ios-navigate-classes-mapcamera-state#/s:7he
   Swift
 
   ``` highlight
-  public func getSupportedFeatures () -> [ String : [ String ]]
+  public func getSupportedFeatures() -> [String : [String]]
   ```
-
-  </pre>
 
   </div>
 
@@ -2565,7 +2540,7 @@ in combination with <a href="sdk-for-ios-navigate-classes-mapcamera-state#/s:7he
 
 - <div>
 
-      enableFeatures(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk8MapSceneC14enableFeaturesyySDyS2SGF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-enableFeatures-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapscene#sdk-for-ios-navigate-s-7heresdk8MapSceneC14enableFeaturesyySDyS2SGF" class="token"><code>enableFeatures(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -2583,12 +2558,7 @@ in combination with <a href="sdk-for-ios-navigate-classes-mapcamera-state#/s:7he
 
   <div class="abstract">
 
-  Enables specified map features. Those will become active after next map redraw, meaning that
-
-      MapScene.getActiveFeatures(...)
-
-  will return updated list of active features only after the redraw happens.
-  </p>
+  Enables specified map features. Those will become active after next map redraw, meaning that <a href="sdk-for-ios-navigate-classes-mapscene#sdk-for-ios-navigate-s-7heresdk8MapSceneC17getActiveFeaturesSDyS2SGyF">`MapScene.getActiveFeatures(...)`</a> will return updated list of active features only after the redraw happens.
 
   Does not affect features that were not specified. Unsupported features are ignored.
 
@@ -2607,10 +2577,8 @@ in combination with <a href="sdk-for-ios-navigate-classes-mapcamera-state#/s:7he
   Swift
 
   ``` highlight
-  public func enableFeatures ( _ features : [ String : String ])
+  public func enableFeatures(_ features: [String : String])
   ```
-
-  </pre>
 
   </div>
 
@@ -2643,7 +2611,7 @@ in combination with <a href="sdk-for-ios-navigate-classes-mapcamera-state#/s:7he
 
 - <div>
 
-      disableFeatures(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk8MapSceneC15disableFeaturesyySaySSGF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-disableFeatures-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapscene#sdk-for-ios-navigate-s-7heresdk8MapSceneC15disableFeaturesyySaySSGF" class="token"><code>disableFeatures(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -2661,12 +2629,7 @@ in combination with <a href="sdk-for-ios-navigate-classes-mapcamera-state#/s:7he
 
   <div class="abstract">
 
-  Disables specified map features. Those will become inactive after next map redraw, meaning that
-
-      MapScene.getActiveFeatures(...)
-
-  will return updated list of active features only after the redraw happens.
-  </p>
+  Disables specified map features. Those will become inactive after next map redraw, meaning that <a href="sdk-for-ios-navigate-classes-mapscene#sdk-for-ios-navigate-s-7heresdk8MapSceneC17getActiveFeaturesSDyS2SGyF">`MapScene.getActiveFeatures(...)`</a> will return updated list of active features only after the redraw happens.
 
   Does not affect features that were not specified. Unsupported features are ignored.
 
@@ -2685,10 +2648,8 @@ in combination with <a href="sdk-for-ios-navigate-classes-mapcamera-state#/s:7he
   Swift
 
   ``` highlight
-  public func disableFeatures ( _ features : [ String ])
+  public func disableFeatures(_ features: [String])
   ```
-
-  </pre>
 
   </div>
 
@@ -2721,7 +2682,7 @@ in combination with <a href="sdk-for-ios-navigate-classes-mapcamera-state#/s:7he
 
 - <div>
 
-      reloadScene()
+   <span id="sdk-for-ios-navigate-s-7heresdk8MapSceneC06reloadC0yyF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-reloadScene" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapscene#sdk-for-ios-navigate-s-7heresdk8MapSceneC06reloadC0yyF" class="token"><code>reloadScene()</code></a> 
 
   </div>
 
@@ -2761,10 +2722,8 @@ in combination with <a href="sdk-for-ios-navigate-classes-mapcamera-state#/s:7he
   Swift
 
   ``` highlight
-  public func reloadScene ()
+  public func reloadScene()
   ```
-
-  </pre>
 
   </div>
 

@@ -27,7 +27,7 @@ Represents default HERE catalog types.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CatalogTypeO18optimizedClientMapyA2CmF"></span>` `<span id="//apple_ref/swift/Element/optimizedClientMap" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-catalogtype#/s:7heresdk11CatalogTypeO18optimizedClientMapyA2CmF" class="token"><code>optimizedClientMap</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CatalogTypeO18optimizedClientMapyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-optimizedClientMap" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-catalogtype#sdk-for-ios-explore-s-7heresdk11CatalogTypeO18optimizedClientMapyA2CmF" class="token"><code>optimizedClientMap</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Represents default HERE catalog types.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CatalogTypeO23optimizedClientMapJapanyA2CmF"></span>` `<span id="//apple_ref/swift/Element/optimizedClientMapJapan" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-catalogtype#/s:7heresdk11CatalogTypeO23optimizedClientMapJapanyA2CmF" class="token"><code>optimizedClientMapJapan</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CatalogTypeO23optimizedClientMapJapanyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-optimizedClientMapJapan" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-catalogtype#sdk-for-ios-explore-s-7heresdk11CatalogTypeO23optimizedClientMapJapanyA2CmF" class="token"><code>optimizedClientMapJapan</code></a> 
 
   </div>
 
@@ -89,7 +89,7 @@ Represents default HERE catalog types.
 
   <div class="abstract">
 
-  Catalog type for Japan. Has to be used in combination with <a href="sdk-for-ios-explore-enums-catalogtype#/s:7heresdk11CatalogTypeO18optimizedClientMapyA2CmF">`CatalogType.optimizedClientMap`</a>.
+  Catalog type for Japan. Has to be used in combination with <a href="sdk-for-ios-explore-enums-catalogtype#sdk-for-ios-explore-s-7heresdk11CatalogTypeO18optimizedClientMapyA2CmF">`CatalogType.optimizedClientMap`</a>.
 
   **Note:** This catalog type is only available on request. Please contact your HERE representative for more details. In order to load this map you need to enable your credentials with the help of the HERE team.
 

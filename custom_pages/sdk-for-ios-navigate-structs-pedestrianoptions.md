@@ -10,10 +10,9 @@ slug: "sdk-for-ios-navigate-structs-pedestrianoptions"
 <div class="language">
 
 ``` highlight
-@available(*, deprecated, message: "Will be removed in v4.28.0. Use `RoutingOptions` class instead.") public struct PedestrianOptions : Hashable
+@available(*, deprecated, message: "Will be removed in v4.28.0. Use `RoutingOptions` class instead.")
+public struct PedestrianOptions : Hashable
 ```
-
-</pre>
 
 </div>
 
@@ -29,7 +28,7 @@ All the options to specify how a pedestrian route should be calculated.
 
 - <div>
 
-  ` `<span id="/s:7heresdk17PedestrianOptionsV05routeC0AA05RouteC0Vvp"></span>` `<span id="//apple_ref/swift/Property/routeOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-pedestrianoptions#/s:7heresdk17PedestrianOptionsV05routeC0AA05RouteC0Vvp" class="token"><code>routeOptions</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk17PedestrianOptionsV05routeC0AA05RouteC0Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-routeOptions" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-pedestrianoptions#sdk-for-ios-navigate-s-7heresdk17PedestrianOptionsV05routeC0AA05RouteC0Vvp" class="token"><code>routeOptions</code></a> 
 
   </div>
 
@@ -65,6 +64,10 @@ All the options to specify how a pedestrian route should be calculated.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-routeoptions">RouteOptions</a>
+
   </div>
 
   </div>
@@ -73,7 +76,7 @@ All the options to specify how a pedestrian route should be calculated.
 
 - <div>
 
-  ` `<span id="/s:7heresdk17PedestrianOptionsV04textC0AA09RouteTextC0Vvp"></span>` `<span id="//apple_ref/swift/Property/textOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-pedestrianoptions#/s:7heresdk17PedestrianOptionsV04textC0AA09RouteTextC0Vvp" class="token"><code>textOptions</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk17PedestrianOptionsV04textC0AA09RouteTextC0Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-textOptions" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-pedestrianoptions#sdk-for-ios-navigate-s-7heresdk17PedestrianOptionsV04textC0AA09RouteTextC0Vvp" class="token"><code>textOptions</code></a> 
 
   </div>
 
@@ -109,6 +112,10 @@ All the options to specify how a pedestrian route should be calculated.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-routetextoptions">RouteTextOptions</a>
+
   </div>
 
   </div>
@@ -117,7 +124,7 @@ All the options to specify how a pedestrian route should be calculated.
 
 - <div>
 
-  ` `<span id="/s:7heresdk17PedestrianOptionsV09avoidanceC0AA09AvoidanceC0Vvp"></span>` `<span id="//apple_ref/swift/Property/avoidanceOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-pedestrianoptions#/s:7heresdk17PedestrianOptionsV09avoidanceC0AA09AvoidanceC0Vvp" class="token"><code>avoidanceOptions</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk17PedestrianOptionsV09avoidanceC0AA09AvoidanceC0Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-avoidanceOptions" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-pedestrianoptions#sdk-for-ios-navigate-s-7heresdk17PedestrianOptionsV09avoidanceC0AA09AvoidanceC0Vvp" class="token"><code>avoidanceOptions</code></a> 
 
   </div>
 
@@ -153,6 +160,10 @@ All the options to specify how a pedestrian route should be calculated.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-avoidanceoptions">AvoidanceOptions</a>
+
   </div>
 
   </div>
@@ -161,7 +172,7 @@ All the options to specify how a pedestrian route should be calculated.
 
 - <div>
 
-  ` `<span id="/s:7heresdk17PedestrianOptionsV26walkSpeedInMetersPerSecondSdvp"></span>` `<span id="//apple_ref/swift/Property/walkSpeedInMetersPerSecond" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-pedestrianoptions#/s:7heresdk17PedestrianOptionsV26walkSpeedInMetersPerSecondSdvp" class="token"><code>walkSpeedInMetersPerSecond</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk17PedestrianOptionsV26walkSpeedInMetersPerSecondSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-walkSpeedInMetersPerSecond" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-pedestrianoptions#sdk-for-ios-navigate-s-7heresdk17PedestrianOptionsV26walkSpeedInMetersPerSecondSdvp" class="token"><code>walkSpeedInMetersPerSecond</code></a> 
 
   </div>
 
@@ -205,7 +216,7 @@ All the options to specify how a pedestrian route should be calculated.
 
 - <div>
 
-      init(routeOptions: textOptions: avoidanceOptions: walkSpeedInMetersPerSecond: )
+   <span id="sdk-for-ios-navigate-s-7heresdk17PedestrianOptionsV05routeC004textC009avoidanceC026walkSpeedInMetersPerSecondAcA05RouteC0V_AA0m4TextC0VAA09AvoidanceC0VSdtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-routeOptions-textOptions-avoidanceOptions-walkSpeedInMetersPerSecond" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-pedestrianoptions#sdk-for-ios-navigate-s-7heresdk17PedestrianOptionsV05routeC004textC009avoidanceC026walkSpeedInMetersPerSecondAcA05RouteC0V_AA0m4TextC0VAA09AvoidanceC0VSdtcfc" class="token"><code>init(routeOptions:</code><wbr></wbr><code>textOptions:</code><wbr></wbr><code>avoidanceOptions:</code><wbr></wbr><code>walkSpeedInMetersPerSecond:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -236,12 +247,16 @@ All the options to specify how a pedestrian route should be calculated.
   Swift
 
   ``` highlight
-  public init ( routeOptions : RouteOptions = RouteOptions (), textOptions : RouteTextOptions = RouteTextOptions (), avoidanceOptions : AvoidanceOptions = AvoidanceOptions (), walkSpeedInMetersPerSecond : Double = 1.0 )
+  public init(routeOptions: RouteOptions = RouteOptions(), textOptions: RouteTextOptions = RouteTextOptions(), avoidanceOptions: AvoidanceOptions = AvoidanceOptions(), walkSpeedInMetersPerSecond: Double = 1.0)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-routeoptions">RouteOptions</a>
+  - <a href="sdk-for-ios-navigate-structs-routetextoptions">RouteTextOptions</a>
+  - <a href="sdk-for-ios-navigate-structs-avoidanceoptions">AvoidanceOptions</a>
 
   </div>
 
@@ -251,7 +266,7 @@ All the options to specify how a pedestrian route should be calculated.
 
 - <div>
 
-      fromDefaultParameterConfiguration()
+   <span id="sdk-for-ios-navigate-s-7heresdk17PedestrianOptionsV33fromDefaultParameterConfigurationACyFZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-fromDefaultParameterConfiguration" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-pedestrianoptions#sdk-for-ios-navigate-s-7heresdk17PedestrianOptionsV33fromDefaultParameterConfigurationACyFZ" class="token"><code>fromDefaultParameterConfiguration()</code></a> 
 
   </div>
 
@@ -282,10 +297,8 @@ All the options to specify how a pedestrian route should be calculated.
   Swift
 
   ``` highlight
-  public static func fromDefaultParameterConfiguration () -> PedestrianOptions
+  public static func fromDefaultParameterConfiguration() -> PedestrianOptions
   ```
-
-  </pre>
 
   </div>
 

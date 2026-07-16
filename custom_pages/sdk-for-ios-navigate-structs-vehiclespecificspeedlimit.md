@@ -29,7 +29,7 @@ Speed limit regulation specific to a vehicle type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk25VehicleSpecificSpeedLimitV05speedE17InMetersPerSecondSdvp"></span>` `<span id="//apple_ref/swift/Property/speedLimitInMetersPerSecond" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-vehiclespecificspeedlimit#/s:7heresdk25VehicleSpecificSpeedLimitV05speedE17InMetersPerSecondSdvp" class="token"><code>speedLimitInMetersPerSecond</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk25VehicleSpecificSpeedLimitV05speedE17InMetersPerSecondSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-speedLimitInMetersPerSecond" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-vehiclespecificspeedlimit#sdk-for-ios-navigate-s-7heresdk25VehicleSpecificSpeedLimitV05speedE17InMetersPerSecondSdvp" class="token"><code>speedLimitInMetersPerSecond</code></a> 
 
   </div>
 
@@ -73,7 +73,7 @@ Speed limit regulation specific to a vehicle type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk25VehicleSpecificSpeedLimitV10isAdvisorySbvp"></span>` `<span id="//apple_ref/swift/Property/isAdvisory" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-vehiclespecificspeedlimit#/s:7heresdk25VehicleSpecificSpeedLimitV10isAdvisorySbvp" class="token"><code>isAdvisory</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk25VehicleSpecificSpeedLimitV10isAdvisorySbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-isAdvisory" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-vehiclespecificspeedlimit#sdk-for-ios-navigate-s-7heresdk25VehicleSpecificSpeedLimitV10isAdvisorySbvp" class="token"><code>isAdvisory</code></a> 
 
   </div>
 
@@ -117,7 +117,7 @@ Speed limit regulation specific to a vehicle type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk25VehicleSpecificSpeedLimitV022builtUpAreaMaxOverrideD17InMetersPerSecondSdSgvp"></span>` `<span id="//apple_ref/swift/Property/builtUpAreaMaxOverrideSpeedInMetersPerSecond" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-vehiclespecificspeedlimit#/s:7heresdk25VehicleSpecificSpeedLimitV022builtUpAreaMaxOverrideD17InMetersPerSecondSdSgvp" class="token"><code>builtUpAreaMaxOverrideSpeedInMetersPerSecond</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk25VehicleSpecificSpeedLimitV022builtUpAreaMaxOverrideD17InMetersPerSecondSdSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-builtUpAreaMaxOverrideSpeedInMetersPerSecond" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-vehiclespecificspeedlimit#sdk-for-ios-navigate-s-7heresdk25VehicleSpecificSpeedLimitV022builtUpAreaMaxOverrideD17InMetersPerSecondSdSgvp" class="token"><code>builtUpAreaMaxOverrideSpeedInMetersPerSecond</code></a> 
 
   </div>
 
@@ -161,7 +161,7 @@ Speed limit regulation specific to a vehicle type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk25VehicleSpecificSpeedLimitV9conditionAA0B20RestrictionConditionVvp"></span>` `<span id="//apple_ref/swift/Property/condition" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-vehiclespecificspeedlimit#/s:7heresdk25VehicleSpecificSpeedLimitV9conditionAA0B20RestrictionConditionVvp" class="token"><code>condition</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk25VehicleSpecificSpeedLimitV9conditionAA0B20RestrictionConditionVvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-condition" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-vehiclespecificspeedlimit#sdk-for-ios-navigate-s-7heresdk25VehicleSpecificSpeedLimitV9conditionAA0B20RestrictionConditionVvp" class="token"><code>condition</code></a> 
 
   </div>
 
@@ -197,6 +197,10 @@ Speed limit regulation specific to a vehicle type.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-vehiclerestrictioncondition">VehicleRestrictionCondition</a>
+
   </div>
 
   </div>
@@ -205,7 +209,7 @@ Speed limit regulation specific to a vehicle type.
 
 - <div>
 
-      init(speedLimitInMetersPerSecond: isAdvisory: builtUpAreaMaxOverrideSpeedInMetersPerSecond: condition: )
+   <span id="sdk-for-ios-navigate-s-7heresdk25VehicleSpecificSpeedLimitV05speedE17InMetersPerSecond10isAdvisory022builtUpAreaMaxOverridedghiJ09conditionACSd_SbSdSgAA0B20RestrictionConditionVtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-speedLimitInMetersPerSecond-isAdvisory-builtUpAreaMaxOverrideSpeedInMetersPerSecond-condition" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-vehiclespecificspeedlimit#sdk-for-ios-navigate-s-7heresdk25VehicleSpecificSpeedLimitV05speedE17InMetersPerSecond10isAdvisory022builtUpAreaMaxOverridedghiJ09conditionACSd_SbSdSgAA0B20RestrictionConditionVtcfc" class="token"><code>init(speedLimitInMetersPerSecond:</code><wbr></wbr><code>isAdvisory:</code><wbr></wbr><code>builtUpAreaMaxOverrideSpeedInMetersPerSecond:</code><wbr></wbr><code>condition:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -236,12 +240,14 @@ Speed limit regulation specific to a vehicle type.
   Swift
 
   ``` highlight
-  public init ( speedLimitInMetersPerSecond : Double , isAdvisory : Bool , builtUpAreaMaxOverrideSpeedInMetersPerSecond : Double ? = nil , condition : VehicleRestrictionCondition )
+  public init(speedLimitInMetersPerSecond: Double, isAdvisory: Bool, builtUpAreaMaxOverrideSpeedInMetersPerSecond: Double? = nil, condition: VehicleRestrictionCondition)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-vehiclerestrictioncondition">VehicleRestrictionCondition</a>
 
   </div>
 

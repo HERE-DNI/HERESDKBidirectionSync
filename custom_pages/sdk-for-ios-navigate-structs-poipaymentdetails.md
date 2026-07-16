@@ -29,7 +29,7 @@ Details about the payment options at the POI.
 
 - <div>
 
-  ` `<span id="/s:7heresdk17POIPaymentDetailsV15acceptedMethodsSaySSGvp"></span>` `<span id="//apple_ref/swift/Property/acceptedMethods" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-poipaymentdetails#/s:7heresdk17POIPaymentDetailsV15acceptedMethodsSaySSGvp" class="token"><code>acceptedMethods</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk17POIPaymentDetailsV15acceptedMethodsSaySSGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-acceptedMethods" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-poipaymentdetails#sdk-for-ios-navigate-s-7heresdk17POIPaymentDetailsV15acceptedMethodsSaySSGvp" class="token"><code>acceptedMethods</code></a> 
 
   </div>
 
@@ -73,7 +73,7 @@ Details about the payment options at the POI.
 
 - <div>
 
-  ` `<span id="/s:7heresdk17POIPaymentDetailsV22acceptedCashCurrenciesSaySSGSgvp"></span>` `<span id="//apple_ref/swift/Property/acceptedCashCurrencies" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-poipaymentdetails#/s:7heresdk17POIPaymentDetailsV22acceptedCashCurrenciesSaySSGSgvp" class="token"><code>acceptedCashCurrencies</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk17POIPaymentDetailsV22acceptedCashCurrenciesSaySSGSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-acceptedCashCurrencies" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-poipaymentdetails#sdk-for-ios-navigate-s-7heresdk17POIPaymentDetailsV22acceptedCashCurrenciesSaySSGSgvp" class="token"><code>acceptedCashCurrencies</code></a> 
 
   </div>
 
@@ -117,7 +117,7 @@ Details about the payment options at the POI.
 
 - <div>
 
-      init(acceptedMethods: acceptedCashCurrencies: )
+   <span id="sdk-for-ios-navigate-s-7heresdk17POIPaymentDetailsV15acceptedMethods0D14CashCurrenciesACSaySSG_AFSgtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-acceptedMethods-acceptedCashCurrencies" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-poipaymentdetails#sdk-for-ios-navigate-s-7heresdk17POIPaymentDetailsV15acceptedMethods0D14CashCurrenciesACSaySSG_AFSgtcfc" class="token"><code>init(acceptedMethods:</code><wbr></wbr><code>acceptedCashCurrencies:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -148,10 +148,8 @@ Details about the payment options at the POI.
   Swift
 
   ``` highlight
-  public init ( acceptedMethods : [ String ] = [], acceptedCashCurrencies : [ String ]? = nil )
+  public init(acceptedMethods: [String] = [], acceptedCashCurrencies: [String]? = nil)
   ```
-
-  </pre>
 
   </div>
 

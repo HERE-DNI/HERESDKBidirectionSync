@@ -15,6 +15,11 @@ public class SolidRepresentation : MapPolyline.Representation
 
 </div>
 
+Related types:
+
+- <a href="sdk-for-ios-navigate-classes-mappolyline">MapPolyline</a>
+- <a href="sdk-for-ios-navigate-classes-mappolyline-representation">Representation</a>
+
 </div>
 
 Representation for a solid line without outline.
@@ -25,9 +30,9 @@ To achieve constant width lines, use <a href="sdk-for-ios-navigate-structs-mapme
 
 To achieve line width dependent on map zoom, use <a href="sdk-for-ios-navigate-structs-mapmeasuredependentrendersize">`MapMeasureDependentRenderSize`</a> with multiple values.
 
-For <a href="sdk-for-ios-navigate-structs-mapmeasure-kind">`MapMeasure.Kind`</a> only <a href="sdk-for-ios-navigate-structs-mapmeasure-kind#/s:7heresdk10MapMeasureV4KindO9zoomLevelyA2EmF">`MapMeasure.Kind.zoomLevel`</a> is supported.
+For <a href="sdk-for-ios-navigate-structs-mapmeasure-kind">`MapMeasure.Kind`</a> only <a href="sdk-for-ios-navigate-structs-mapmeasure-kind#sdk-for-ios-navigate-s-7heresdk10MapMeasureV4KindO9zoomLevelyA2EmF">`MapMeasure.Kind.zoomLevel`</a> is supported.
 
-For <a href="sdk-for-ios-navigate-structs-rendersize-unit">`RenderSize.Unit`</a> only <a href="sdk-for-ios-navigate-structs-rendersize-unit#/s:7heresdk10RenderSizeV4UnitO6pixelsyA2EmF">`RenderSize.Unit.pixels`</a> is supported.
+For <a href="sdk-for-ios-navigate-structs-rendersize-unit">`RenderSize.Unit`</a> only <a href="sdk-for-ios-navigate-structs-rendersize-unit#sdk-for-ios-navigate-s-7heresdk10RenderSizeV4UnitO6pixelsyA2EmF">`RenderSize.Unit.pixels`</a> is supported.
 
 </div>
 
@@ -37,7 +42,7 @@ For <a href="sdk-for-ios-navigate-structs-rendersize-unit">`RenderSize.Unit`</a>
 
 - <div>
 
-      init(lineWidth: color: capShape: )
+   <span id="sdk-for-ios-navigate-s-7heresdk11MapPolylineC19SolidRepresentationC9lineWidth5color8capShapeAeA0B26MeasureDependentRenderSizeV_So7UIColorCAA7LineCapOtKcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-lineWidth-color-capShape" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mappolyline-solidrepresentation#sdk-for-ios-navigate-s-7heresdk11MapPolylineC19SolidRepresentationC9lineWidth5color8capShapeAeA0B26MeasureDependentRenderSizeV_So7UIColorCAA7LineCapOtKcfc" class="token"><code>init(lineWidth:</code><wbr></wbr><code>color:</code><wbr></wbr><code>capShape:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -57,23 +62,23 @@ For <a href="sdk-for-ios-navigate-structs-rendersize-unit">`RenderSize.Unit`</a>
 
   Creates a representation for a solid line without outline.
 
-  At map measures smaller than smallest map measure in the <a href="sdk-for-ios-navigate-classes-mappolyline-solidrepresentation#/s:7heresdk11MapPolylineC19SolidRepresentationC9lineWidthAA0B26MeasureDependentRenderSizeVvp">`lineWidth`</a> line width is constant and equal to the width given for the smallest map measure in the <a href="sdk-for-ios-navigate-classes-mappolyline-solidrepresentation#/s:7heresdk11MapPolylineC19SolidRepresentationC9lineWidthAA0B26MeasureDependentRenderSizeVvp">`lineWidth`</a>.
+  At map measures smaller than smallest map measure in the <a href="sdk-for-ios-navigate-classes-mappolyline-solidrepresentation#sdk-for-ios-navigate-s-7heresdk11MapPolylineC19SolidRepresentationC9lineWidthAA0B26MeasureDependentRenderSizeVvp">`lineWidth`</a> line width is constant and equal to the width given for the smallest map measure in the <a href="sdk-for-ios-navigate-classes-mappolyline-solidrepresentation#sdk-for-ios-navigate-s-7heresdk11MapPolylineC19SolidRepresentationC9lineWidthAA0B26MeasureDependentRenderSizeVvp">`lineWidth`</a>.
 
-  At map measures bigger than biggest map measure in the <a href="sdk-for-ios-navigate-classes-mappolyline-solidrepresentation#/s:7heresdk11MapPolylineC19SolidRepresentationC9lineWidthAA0B26MeasureDependentRenderSizeVvp">`lineWidth`</a> line width is constant and equal to the width given for the biggest map measure in the <a href="sdk-for-ios-navigate-classes-mappolyline-solidrepresentation#/s:7heresdk11MapPolylineC19SolidRepresentationC9lineWidthAA0B26MeasureDependentRenderSizeVvp">`lineWidth`</a>.
+  At map measures bigger than biggest map measure in the <a href="sdk-for-ios-navigate-classes-mappolyline-solidrepresentation#sdk-for-ios-navigate-s-7heresdk11MapPolylineC19SolidRepresentationC9lineWidthAA0B26MeasureDependentRenderSizeVvp">`lineWidth`</a> line width is constant and equal to the width given for the biggest map measure in the <a href="sdk-for-ios-navigate-classes-mappolyline-solidrepresentation#sdk-for-ios-navigate-s-7heresdk11MapPolylineC19SolidRepresentationC9lineWidthAA0B26MeasureDependentRenderSizeVvp">`lineWidth`</a>.
 
   At map measures between two nearest given map measures line width is linearly interpolated between width values given for these map measures.
 
-  For <a href="sdk-for-ios-navigate-structs-mapmeasure-kind">`MapMeasure.Kind`</a> only <a href="sdk-for-ios-navigate-structs-mapmeasure-kind#/s:7heresdk10MapMeasureV4KindO9zoomLevelyA2EmF">`MapMeasure.Kind.zoomLevel`</a> is supported.
+  For <a href="sdk-for-ios-navigate-structs-mapmeasure-kind">`MapMeasure.Kind`</a> only <a href="sdk-for-ios-navigate-structs-mapmeasure-kind#sdk-for-ios-navigate-s-7heresdk10MapMeasureV4KindO9zoomLevelyA2EmF">`MapMeasure.Kind.zoomLevel`</a> is supported.
 
-  For <a href="sdk-for-ios-navigate-structs-rendersize-unit">`RenderSize.Unit`</a> only <a href="sdk-for-ios-navigate-structs-rendersize-unit#/s:7heresdk10RenderSizeV4UnitO6pixelsyA2EmF">`RenderSize.Unit.pixels`</a> is supported.
+  For <a href="sdk-for-ios-navigate-structs-rendersize-unit">`RenderSize.Unit`</a> only <a href="sdk-for-ios-navigate-structs-rendersize-unit#sdk-for-ios-navigate-s-7heresdk10RenderSizeV4UnitO6pixelsyA2EmF">`RenderSize.Unit.pixels`</a> is supported.
 
-  <a href="sdk-for-ios-navigate-classes-mappolyline-solidrepresentation#/s:7heresdk11MapPolylineC19SolidRepresentationC9lineWidthAA0B26MeasureDependentRenderSizeVvp">`lineWidth`</a> must not be 0 (`lineWidth.sizes` with all values set to 0.0).
+  <a href="sdk-for-ios-navigate-classes-mappolyline-solidrepresentation#sdk-for-ios-navigate-s-7heresdk11MapPolylineC19SolidRepresentationC9lineWidthAA0B26MeasureDependentRenderSizeVvp">`lineWidth`</a> must not be 0 (`lineWidth.sizes` with all values set to 0.0).
 
   <div class="aside aside-throws">
 
   Throws
 
-  <a href="sdk-for-ios-navigate-classes-mappolyline-representation#/s:7heresdk11MapPolylineC14RepresentationC18InstantiationErrora">`MapPolyline.Representation.InstantiationError`</a> In case of invalid input parameters.
+  <a href="sdk-for-ios-navigate-classes-mappolyline-representation#sdk-for-ios-navigate-s-7heresdk11MapPolylineC14RepresentationC18InstantiationErrora">`MapPolyline.Representation.InstantiationError`</a> In case of invalid input parameters.
 
   </div>
 
@@ -88,12 +93,15 @@ For <a href="sdk-for-ios-navigate-structs-rendersize-unit">`RenderSize.Unit`</a>
   Swift
 
   ``` highlight
-  public init ( lineWidth : MapMeasureDependentRenderSize , color : UIColor , capShape : LineCap ) throws
+  public init(lineWidth: MapMeasureDependentRenderSize, color: UIColor, capShape: LineCap) throws
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-mapmeasuredependentrendersize">MapMeasureDependentRenderSize</a>
+  - <a href="sdk-for-ios-navigate-enums-linecap">LineCap</a>
 
   </div>
 
@@ -136,7 +144,7 @@ For <a href="sdk-for-ios-navigate-structs-rendersize-unit">`RenderSize.Unit`</a>
 
 - <div>
 
-      init(lineWidth: color: outlineWidth: outlineColor: capShape: )
+   <span id="sdk-for-ios-navigate-s-7heresdk11MapPolylineC19SolidRepresentationC9lineWidth5color07outlineG00I5Color8capShapeAeA0B26MeasureDependentRenderSizeV_So7UIColorCAlnA7LineCapOtKcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-lineWidth-color-outlineWidth-outlineColor-capShape" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mappolyline-solidrepresentation#sdk-for-ios-navigate-s-7heresdk11MapPolylineC19SolidRepresentationC9lineWidth5color07outlineG00I5Color8capShapeAeA0B26MeasureDependentRenderSizeV_So7UIColorCAlnA7LineCapOtKcfc" class="token"><code>init(lineWidth:</code><wbr></wbr><code>color:</code><wbr></wbr><code>outlineWidth:</code><wbr></wbr><code>outlineColor:</code><wbr></wbr><code>capShape:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -158,23 +166,23 @@ For <a href="sdk-for-ios-navigate-structs-rendersize-unit">`RenderSize.Unit`</a>
 
   The total width of the polyline is `line width + 2 * outline width`.
 
-  At map measures smaller than smallest map measure in the <a href="sdk-for-ios-navigate-classes-mappolyline-solidrepresentation#/s:7heresdk11MapPolylineC19SolidRepresentationC9lineWidthAA0B26MeasureDependentRenderSizeVvp">`lineWidth`</a> and <a href="sdk-for-ios-navigate-classes-mappolyline-solidrepresentation#/s:7heresdk11MapPolylineC19SolidRepresentationC12outlineWidthAA0B26MeasureDependentRenderSizeVvp">`outlineWidth`</a>, the value is constant and equal to the width given for the smallest map measure in the <a href="sdk-for-ios-navigate-classes-mappolyline-solidrepresentation#/s:7heresdk11MapPolylineC19SolidRepresentationC9lineWidthAA0B26MeasureDependentRenderSizeVvp">`lineWidth`</a> and <a href="sdk-for-ios-navigate-classes-mappolyline-solidrepresentation#/s:7heresdk11MapPolylineC19SolidRepresentationC12outlineWidthAA0B26MeasureDependentRenderSizeVvp">`outlineWidth`</a>.
+  At map measures smaller than smallest map measure in the <a href="sdk-for-ios-navigate-classes-mappolyline-solidrepresentation#sdk-for-ios-navigate-s-7heresdk11MapPolylineC19SolidRepresentationC9lineWidthAA0B26MeasureDependentRenderSizeVvp">`lineWidth`</a> and <a href="sdk-for-ios-navigate-classes-mappolyline-solidrepresentation#sdk-for-ios-navigate-s-7heresdk11MapPolylineC19SolidRepresentationC12outlineWidthAA0B26MeasureDependentRenderSizeVvp">`outlineWidth`</a>, the value is constant and equal to the width given for the smallest map measure in the <a href="sdk-for-ios-navigate-classes-mappolyline-solidrepresentation#sdk-for-ios-navigate-s-7heresdk11MapPolylineC19SolidRepresentationC9lineWidthAA0B26MeasureDependentRenderSizeVvp">`lineWidth`</a> and <a href="sdk-for-ios-navigate-classes-mappolyline-solidrepresentation#sdk-for-ios-navigate-s-7heresdk11MapPolylineC19SolidRepresentationC12outlineWidthAA0B26MeasureDependentRenderSizeVvp">`outlineWidth`</a>.
 
-  At map measures bigger than biggest map measure in the <a href="sdk-for-ios-navigate-classes-mappolyline-solidrepresentation#/s:7heresdk11MapPolylineC19SolidRepresentationC9lineWidthAA0B26MeasureDependentRenderSizeVvp">`lineWidth`</a> and <a href="sdk-for-ios-navigate-classes-mappolyline-solidrepresentation#/s:7heresdk11MapPolylineC19SolidRepresentationC12outlineWidthAA0B26MeasureDependentRenderSizeVvp">`outlineWidth`</a>, the value is constant and equal to the width given for the biggest map measure in the <a href="sdk-for-ios-navigate-classes-mappolyline-solidrepresentation#/s:7heresdk11MapPolylineC19SolidRepresentationC9lineWidthAA0B26MeasureDependentRenderSizeVvp">`lineWidth`</a> and <a href="sdk-for-ios-navigate-classes-mappolyline-solidrepresentation#/s:7heresdk11MapPolylineC19SolidRepresentationC12outlineWidthAA0B26MeasureDependentRenderSizeVvp">`outlineWidth`</a>.
+  At map measures bigger than biggest map measure in the <a href="sdk-for-ios-navigate-classes-mappolyline-solidrepresentation#sdk-for-ios-navigate-s-7heresdk11MapPolylineC19SolidRepresentationC9lineWidthAA0B26MeasureDependentRenderSizeVvp">`lineWidth`</a> and <a href="sdk-for-ios-navigate-classes-mappolyline-solidrepresentation#sdk-for-ios-navigate-s-7heresdk11MapPolylineC19SolidRepresentationC12outlineWidthAA0B26MeasureDependentRenderSizeVvp">`outlineWidth`</a>, the value is constant and equal to the width given for the biggest map measure in the <a href="sdk-for-ios-navigate-classes-mappolyline-solidrepresentation#sdk-for-ios-navigate-s-7heresdk11MapPolylineC19SolidRepresentationC9lineWidthAA0B26MeasureDependentRenderSizeVvp">`lineWidth`</a> and <a href="sdk-for-ios-navigate-classes-mappolyline-solidrepresentation#sdk-for-ios-navigate-s-7heresdk11MapPolylineC19SolidRepresentationC12outlineWidthAA0B26MeasureDependentRenderSizeVvp">`outlineWidth`</a>.
 
   At map measures between two nearest given map measure is linearly interpolated between width values given for these map measures.
 
-  For <a href="sdk-for-ios-navigate-structs-mapmeasure-kind">`MapMeasure.Kind`</a> only <a href="sdk-for-ios-navigate-structs-mapmeasure-kind#/s:7heresdk10MapMeasureV4KindO9zoomLevelyA2EmF">`MapMeasure.Kind.zoomLevel`</a> is supported.
+  For <a href="sdk-for-ios-navigate-structs-mapmeasure-kind">`MapMeasure.Kind`</a> only <a href="sdk-for-ios-navigate-structs-mapmeasure-kind#sdk-for-ios-navigate-s-7heresdk10MapMeasureV4KindO9zoomLevelyA2EmF">`MapMeasure.Kind.zoomLevel`</a> is supported.
 
-  For <a href="sdk-for-ios-navigate-structs-rendersize-unit">`RenderSize.Unit`</a> only <a href="sdk-for-ios-navigate-structs-rendersize-unit#/s:7heresdk10RenderSizeV4UnitO6pixelsyA2EmF">`RenderSize.Unit.pixels`</a> is supported.
+  For <a href="sdk-for-ios-navigate-structs-rendersize-unit">`RenderSize.Unit`</a> only <a href="sdk-for-ios-navigate-structs-rendersize-unit#sdk-for-ios-navigate-s-7heresdk10RenderSizeV4UnitO6pixelsyA2EmF">`RenderSize.Unit.pixels`</a> is supported.
 
-  <a href="sdk-for-ios-navigate-classes-mappolyline-solidrepresentation#/s:7heresdk11MapPolylineC19SolidRepresentationC9lineWidthAA0B26MeasureDependentRenderSizeVvp">`lineWidth`</a> must not be 0 (`lineWidth.sizes` with all values set to 0.0).
+  <a href="sdk-for-ios-navigate-classes-mappolyline-solidrepresentation#sdk-for-ios-navigate-s-7heresdk11MapPolylineC19SolidRepresentationC9lineWidthAA0B26MeasureDependentRenderSizeVvp">`lineWidth`</a> must not be 0 (`lineWidth.sizes` with all values set to 0.0).
 
   <div class="aside aside-throws">
 
   Throws
 
-  <a href="sdk-for-ios-navigate-classes-mappolyline-representation#/s:7heresdk11MapPolylineC14RepresentationC18InstantiationErrora">`MapPolyline.Representation.InstantiationError`</a> In case of invalid input parameters.
+  <a href="sdk-for-ios-navigate-classes-mappolyline-representation#sdk-for-ios-navigate-s-7heresdk11MapPolylineC14RepresentationC18InstantiationErrora">`MapPolyline.Representation.InstantiationError`</a> In case of invalid input parameters.
 
   </div>
 
@@ -189,12 +197,15 @@ For <a href="sdk-for-ios-navigate-structs-rendersize-unit">`RenderSize.Unit`</a>
   Swift
 
   ``` highlight
-  public init ( lineWidth : MapMeasureDependentRenderSize , color : UIColor , outlineWidth : MapMeasureDependentRenderSize , outlineColor : UIColor , capShape : LineCap ) throws
+  public init(lineWidth: MapMeasureDependentRenderSize, color: UIColor, outlineWidth: MapMeasureDependentRenderSize, outlineColor: UIColor, capShape: LineCap) throws
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-mapmeasuredependentrendersize">MapMeasureDependentRenderSize</a>
+  - <a href="sdk-for-ios-navigate-enums-linecap">LineCap</a>
 
   </div>
 
@@ -249,7 +260,7 @@ For <a href="sdk-for-ios-navigate-structs-rendersize-unit">`RenderSize.Unit`</a>
 
 - <div>
 
-  ` `<span id="/s:7heresdk11MapPolylineC19SolidRepresentationC9lineWidthAA0B26MeasureDependentRenderSizeVvp"></span>` `<span id="//apple_ref/swift/Property/lineWidth" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mappolyline-solidrepresentation#/s:7heresdk11MapPolylineC19SolidRepresentationC9lineWidthAA0B26MeasureDependentRenderSizeVvp" class="token"><code>lineWidth</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11MapPolylineC19SolidRepresentationC9lineWidthAA0B26MeasureDependentRenderSizeVvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-lineWidth" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mappolyline-solidrepresentation#sdk-for-ios-navigate-s-7heresdk11MapPolylineC19SolidRepresentationC9lineWidthAA0B26MeasureDependentRenderSizeVvp" class="token"><code>lineWidth</code></a> 
 
   </div>
 
@@ -289,6 +300,10 @@ For <a href="sdk-for-ios-navigate-structs-rendersize-unit">`RenderSize.Unit`</a>
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-mapmeasuredependentrendersize">MapMeasureDependentRenderSize</a>
+
   </div>
 
   </div>
@@ -297,7 +312,7 @@ For <a href="sdk-for-ios-navigate-structs-rendersize-unit">`RenderSize.Unit`</a>
 
 - <div>
 
-  ` `<span id="/s:7heresdk11MapPolylineC19SolidRepresentationC9lineColorSo7UIColorCvp"></span>` `<span id="//apple_ref/swift/Property/lineColor" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mappolyline-solidrepresentation#/s:7heresdk11MapPolylineC19SolidRepresentationC9lineColorSo7UIColorCvp" class="token"><code>lineColor</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11MapPolylineC19SolidRepresentationC9lineColorSo7UIColorCvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-lineColor" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mappolyline-solidrepresentation#sdk-for-ios-navigate-s-7heresdk11MapPolylineC19SolidRepresentationC9lineColorSo7UIColorCvp" class="token"><code>lineColor</code></a> 
 
   </div>
 
@@ -341,7 +356,7 @@ For <a href="sdk-for-ios-navigate-structs-rendersize-unit">`RenderSize.Unit`</a>
 
 - <div>
 
-  ` `<span id="/s:7heresdk11MapPolylineC19SolidRepresentationC12outlineWidthAA0B26MeasureDependentRenderSizeVvp"></span>` `<span id="//apple_ref/swift/Property/outlineWidth" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mappolyline-solidrepresentation#/s:7heresdk11MapPolylineC19SolidRepresentationC12outlineWidthAA0B26MeasureDependentRenderSizeVvp" class="token"><code>outlineWidth</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11MapPolylineC19SolidRepresentationC12outlineWidthAA0B26MeasureDependentRenderSizeVvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-outlineWidth" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mappolyline-solidrepresentation#sdk-for-ios-navigate-s-7heresdk11MapPolylineC19SolidRepresentationC12outlineWidthAA0B26MeasureDependentRenderSizeVvp" class="token"><code>outlineWidth</code></a> 
 
   </div>
 
@@ -383,6 +398,10 @@ For <a href="sdk-for-ios-navigate-structs-rendersize-unit">`RenderSize.Unit`</a>
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-mapmeasuredependentrendersize">MapMeasureDependentRenderSize</a>
+
   </div>
 
   </div>
@@ -391,7 +410,7 @@ For <a href="sdk-for-ios-navigate-structs-rendersize-unit">`RenderSize.Unit`</a>
 
 - <div>
 
-  ` `<span id="/s:7heresdk11MapPolylineC19SolidRepresentationC12outlineColorSo7UIColorCvp"></span>` `<span id="//apple_ref/swift/Property/outlineColor" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mappolyline-solidrepresentation#/s:7heresdk11MapPolylineC19SolidRepresentationC12outlineColorSo7UIColorCvp" class="token"><code>outlineColor</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11MapPolylineC19SolidRepresentationC12outlineColorSo7UIColorCvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-outlineColor" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mappolyline-solidrepresentation#sdk-for-ios-navigate-s-7heresdk11MapPolylineC19SolidRepresentationC12outlineColorSo7UIColorCvp" class="token"><code>outlineColor</code></a> 
 
   </div>
 
@@ -435,7 +454,7 @@ For <a href="sdk-for-ios-navigate-structs-rendersize-unit">`RenderSize.Unit`</a>
 
 - <div>
 
-  ` `<span id="/s:7heresdk11MapPolylineC19SolidRepresentationC8capShapeAA7LineCapOvp"></span>` `<span id="//apple_ref/swift/Property/capShape" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mappolyline-solidrepresentation#/s:7heresdk11MapPolylineC19SolidRepresentationC8capShapeAA7LineCapOvp" class="token"><code>capShape</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11MapPolylineC19SolidRepresentationC8capShapeAA7LineCapOvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-capShape" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mappolyline-solidrepresentation#sdk-for-ios-navigate-s-7heresdk11MapPolylineC19SolidRepresentationC8capShapeAA7LineCapOvp" class="token"><code>capShape</code></a> 
 
   </div>
 
@@ -470,6 +489,10 @@ For <a href="sdk-for-ios-navigate-structs-rendersize-unit">`RenderSize.Unit`</a>
   ```
 
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-linecap">LineCap</a>
 
   </div>
 

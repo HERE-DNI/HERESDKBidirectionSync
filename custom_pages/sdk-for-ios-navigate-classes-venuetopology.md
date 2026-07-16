@@ -35,7 +35,7 @@ Represents routing topologies inside the <a href="sdk-for-ios-navigate-classes-v
 
 - <div>
 
-  ` `<span id="/s:7heresdk13VenueTopologyC25AccessCharacteristicsLista"></span>` `<span id="//apple_ref/swift/Alias/AccessCharacteristicsList" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-venuetopology#/s:7heresdk13VenueTopologyC25AccessCharacteristicsLista" class="token"><code>AccessCharacteristicsList</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13VenueTopologyC25AccessCharacteristicsLista"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Alias-AccessCharacteristicsList" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-venuetopology#sdk-for-ios-navigate-s-7heresdk13VenueTopologyC25AccessCharacteristicsLista" class="token"><code>AccessCharacteristicsList</code></a> 
 
   </div>
 
@@ -71,6 +71,10 @@ Represents routing topologies inside the <a href="sdk-for-ios-navigate-classes-v
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-venuetopology-accesscharacteristics">AccessCharacteristics</a>
+
   </div>
 
   </div>
@@ -79,7 +83,7 @@ Represents routing topologies inside the <a href="sdk-for-ios-navigate-classes-v
 
 - <div>
 
-  ` `<span id="/s:7heresdk13VenueTopologyC10identifierSSvp"></span>` `<span id="//apple_ref/swift/Property/identifier" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-venuetopology#/s:7heresdk13VenueTopologyC10identifierSSvp" class="token"><code>identifier</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13VenueTopologyC10identifierSSvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-identifier" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-venuetopology#sdk-for-ios-navigate-s-7heresdk13VenueTopologyC10identifierSSvp" class="token"><code>identifier</code></a> 
 
   </div>
 
@@ -123,7 +127,7 @@ Represents routing topologies inside the <a href="sdk-for-ios-navigate-classes-v
 
 - <div>
 
-  ` `<span id="/s:7heresdk13VenueTopologyC5levelAA0B5LevelCvp"></span>` `<span id="//apple_ref/swift/Property/level" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-venuetopology#/s:7heresdk13VenueTopologyC5levelAA0B5LevelCvp" class="token"><code>level</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13VenueTopologyC5levelAA0B5LevelCvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-level" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-venuetopology#sdk-for-ios-navigate-s-7heresdk13VenueTopologyC5levelAA0B5LevelCvp" class="token"><code>level</code></a> 
 
   </div>
 
@@ -159,6 +163,10 @@ Represents routing topologies inside the <a href="sdk-for-ios-navigate-classes-v
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-venuelevel">VenueLevel</a>
+
   </div>
 
   </div>
@@ -167,7 +175,7 @@ Represents routing topologies inside the <a href="sdk-for-ios-navigate-classes-v
 
 - <div>
 
-  ` `<span id="/s:7heresdk13VenueTopologyC13accessibilitySayAC21AccessCharacteristicsCGvp"></span>` `<span id="//apple_ref/swift/Property/accessibility" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-venuetopology#/s:7heresdk13VenueTopologyC13accessibilitySayAC21AccessCharacteristicsCGvp" class="token"><code>accessibility</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13VenueTopologyC13accessibilitySayAC21AccessCharacteristicsCGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-accessibility" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-venuetopology#sdk-for-ios-navigate-s-7heresdk13VenueTopologyC13accessibilitySayAC21AccessCharacteristicsCGvp" class="token"><code>accessibility</code></a> 
 
   </div>
 
@@ -203,6 +211,10 @@ Represents routing topologies inside the <a href="sdk-for-ios-navigate-classes-v
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-venuetopology#sdk-for-ios-navigate-s-7heresdk13VenueTopologyC25AccessCharacteristicsLista">AccessCharacteristicsList</a>
+
   </div>
 
   </div>
@@ -211,7 +223,7 @@ Represents routing topologies inside the <a href="sdk-for-ios-navigate-classes-v
 
 - <div>
 
-  ` `<span id="/s:7heresdk13VenueTopologyC21AccessCharacteristicsC"></span>` `<span id="//apple_ref/swift/Class/AccessCharacteristics" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-venuetopology#/s:7heresdk13VenueTopologyC21AccessCharacteristicsC" class="token"><code>AccessCharacteristics</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13VenueTopologyC21AccessCharacteristicsC"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Class-AccessCharacteristics" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-venuetopology#sdk-for-ios-navigate-s-7heresdk13VenueTopologyC21AccessCharacteristicsC" class="token"><code>AccessCharacteristics</code></a> 
 
   </div>
 
@@ -257,6 +269,10 @@ Represents routing topologies inside the <a href="sdk-for-ios-navigate-classes-v
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-venuetopology">VenueTopology</a>
+
   </div>
 
   </div>
@@ -265,7 +281,7 @@ Represents routing topologies inside the <a href="sdk-for-ios-navigate-classes-v
 
 - <div>
 
-  ` `<span id="/s:7heresdk13VenueTopologyC0C14DirectionalityO"></span>` `<span id="//apple_ref/swift/Enum/TopologyDirectionality" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-venuetopology#/s:7heresdk13VenueTopologyC0C14DirectionalityO" class="token"><code>TopologyDirectionality</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13VenueTopologyC0C14DirectionalityO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-TopologyDirectionality" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-venuetopology#sdk-for-ios-navigate-s-7heresdk13VenueTopologyC0C14DirectionalityO" class="token"><code>TopologyDirectionality</code></a> 
 
   </div>
 

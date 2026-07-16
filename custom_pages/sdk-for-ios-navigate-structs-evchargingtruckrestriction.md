@@ -27,7 +27,7 @@ Represents access restrictions for trucks and light commercial vehicles. **Note:
 
 - <div>
 
-  ` `<span id="/s:7heresdk26EVChargingTruckRestrictionV11truckAccessSayAA0C5ClassOGvp"></span>` `<span id="//apple_ref/swift/Property/truckAccess" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evchargingtruckrestriction#/s:7heresdk26EVChargingTruckRestrictionV11truckAccessSayAA0C5ClassOGvp" class="token"><code>truckAccess</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk26EVChargingTruckRestrictionV11truckAccessSayAA0C5ClassOGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-truckAccess" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingtruckrestriction#sdk-for-ios-navigate-s-7heresdk26EVChargingTruckRestrictionV11truckAccessSayAA0C5ClassOGvp" class="token"><code>truckAccess</code></a> 
 
   </div>
 
@@ -49,9 +49,9 @@ Represents access restrictions for trucks and light commercial vehicles. **Note:
 
   While the classifications used as basis for the categories are solely based on vehicle mass, in EV charging context they can be interpreted to give an idea of the dimensional class too, as well as possible other restrictions set by the operator. If there are true dimensional or weight limits at the EV charging location, they are specified separately in vehicleLimitations.
 
-  The classification is available only to a subset of EV charging locations, depending on the information available from the operators. Hence, at least vehicles belonging to the <a href="sdk-for-ios-navigate-enums-truckclass#/s:7heresdk10TruckClassO05lightC0yA2CmF">`TruckClass.lightClass`</a> category can be charged also in many EV charging locations not having explicit signaling for the <a href="sdk-for-ios-navigate-enums-truckclass#/s:7heresdk10TruckClassO05lightC0yA2CmF">`TruckClass.lightClass`</a> category.
+  The classification is available only to a subset of EV charging locations, depending on the information available from the operators. Hence, at least vehicles belonging to the <a href="sdk-for-ios-navigate-enums-truckclass#sdk-for-ios-navigate-s-7heresdk10TruckClassO05lightC0yA2CmF">`TruckClass.lightClass`</a> category can be charged also in many EV charging locations not having explicit signaling for the <a href="sdk-for-ios-navigate-enums-truckclass#sdk-for-ios-navigate-s-7heresdk10TruckClassO05lightC0yA2CmF">`TruckClass.lightClass`</a> category.
 
-  Furthermore, although the classification is based on mass/weight ranges in growing order, an upper class does not automatically mean that also all lower class vehicles are welcome to charge. For example, a location marked only with category <a href="sdk-for-ios-navigate-enums-truckclass#/s:7heresdk10TruckClassO05heavyC0yA2CmF">`TruckClass.heavyClass`</a> is reserved for long-haul trucks only.
+  Furthermore, although the classification is based on mass/weight ranges in growing order, an upper class does not automatically mean that also all lower class vehicles are welcome to charge. For example, a location marked only with category <a href="sdk-for-ios-navigate-enums-truckclass#sdk-for-ios-navigate-s-7heresdk10TruckClassO05heavyC0yA2CmF">`TruckClass.heavyClass`</a> is reserved for long-haul trucks only.
 
   </div>
 
@@ -69,6 +69,10 @@ Represents access restrictions for trucks and light commercial vehicles. **Note:
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-truckclass">TruckClass</a>
+
   </div>
 
   </div>
@@ -77,7 +81,7 @@ Represents access restrictions for trucks and light commercial vehicles. **Note:
 
 - <div>
 
-  ` `<span id="/s:7heresdk26EVChargingTruckRestrictionV24hazardousGoodsRestrictedSbSgvp"></span>` `<span id="//apple_ref/swift/Property/hazardousGoodsRestricted" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evchargingtruckrestriction#/s:7heresdk26EVChargingTruckRestrictionV24hazardousGoodsRestrictedSbSgvp" class="token"><code>hazardousGoodsRestricted</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk26EVChargingTruckRestrictionV24hazardousGoodsRestrictedSbSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-hazardousGoodsRestricted" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingtruckrestriction#sdk-for-ios-navigate-s-7heresdk26EVChargingTruckRestrictionV24hazardousGoodsRestrictedSbSgvp" class="token"><code>hazardousGoodsRestricted</code></a> 
 
   </div>
 
@@ -125,7 +129,7 @@ Represents access restrictions for trucks and light commercial vehicles. **Note:
 
 - <div>
 
-      init(truckAccess: hazardousGoodsRestricted: )
+   <span id="sdk-for-ios-navigate-s-7heresdk26EVChargingTruckRestrictionV11truckAccess24hazardousGoodsRestrictedACSayAA0C5ClassOG_SbSgtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-truckAccess-hazardousGoodsRestricted" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingtruckrestriction#sdk-for-ios-navigate-s-7heresdk26EVChargingTruckRestrictionV11truckAccess24hazardousGoodsRestrictedACSayAA0C5ClassOG_SbSgtcfc" class="token"><code>init(truckAccess:</code><wbr></wbr><code>hazardousGoodsRestricted:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -151,9 +155,9 @@ Represents access restrictions for trucks and light commercial vehicles. **Note:
 
     While the classifications used as basis for the categories are solely based on vehicle mass, in EV charging context they can be interpreted to give an idea of the dimensional class too, as well as possible other restrictions set by the operator. If there are true dimensional or weight limits at the EV charging location, they are specified separately in vehicleLimitations.
 
-    The classification is available only to a subset of EV charging locations, depending on the information available from the operators. Hence, at least vehicles belonging to the <a href="sdk-for-ios-navigate-enums-truckclass#/s:7heresdk10TruckClassO05lightC0yA2CmF">`TruckClass.lightClass`</a> category can be charged also in many EV charging locations not having explicit signaling for the <a href="sdk-for-ios-navigate-enums-truckclass#/s:7heresdk10TruckClassO05lightC0yA2CmF">`TruckClass.lightClass`</a> category.
+    The classification is available only to a subset of EV charging locations, depending on the information available from the operators. Hence, at least vehicles belonging to the <a href="sdk-for-ios-navigate-enums-truckclass#sdk-for-ios-navigate-s-7heresdk10TruckClassO05lightC0yA2CmF">`TruckClass.lightClass`</a> category can be charged also in many EV charging locations not having explicit signaling for the <a href="sdk-for-ios-navigate-enums-truckclass#sdk-for-ios-navigate-s-7heresdk10TruckClassO05lightC0yA2CmF">`TruckClass.lightClass`</a> category.
 
-    Furthermore, although the classification is based on mass/weight ranges in growing order, an upper class does not automatically mean that also all lower class vehicles are welcome to charge. For example, a location marked only with category <a href="sdk-for-ios-navigate-enums-truckclass#/s:7heresdk10TruckClassO05heavyC0yA2CmF">`TruckClass.heavyClass`</a> is reserved for long-haul trucks only.
+    Furthermore, although the classification is based on mass/weight ranges in growing order, an upper class does not automatically mean that also all lower class vehicles are welcome to charge. For example, a location marked only with category <a href="sdk-for-ios-navigate-enums-truckclass#sdk-for-ios-navigate-s-7heresdk10TruckClassO05heavyC0yA2CmF">`TruckClass.heavyClass`</a> is reserved for long-haul trucks only.
 
     - hazardousGoodsRestricted: Indication if vehicles carrying hazardous / dangerous goods (ADR) can enter the EV Charging Location.
       - True means the access is restricted. The client should assume the restriction covers all ADR classes.
@@ -171,12 +175,14 @@ Represents access restrictions for trucks and light commercial vehicles. **Note:
   Swift
 
   ``` highlight
-  public init ( truckAccess : [ TruckClass ] = [], hazardousGoodsRestricted : Bool ? = nil )
+  public init(truckAccess: [TruckClass] = [], hazardousGoodsRestricted: Bool? = nil)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-truckclass">TruckClass</a>
 
   </div>
 

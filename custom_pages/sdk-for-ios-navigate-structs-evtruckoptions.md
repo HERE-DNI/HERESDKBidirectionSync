@@ -10,10 +10,9 @@ slug: "sdk-for-ios-navigate-structs-evtruckoptions"
 <div class="language">
 
 ``` highlight
-@available(*, deprecated, message: "Will be removed in v4.28.0. Use `RoutingOptions` class instead.") public struct EVTruckOptions : Hashable
+@available(*, deprecated, message: "Will be removed in v4.28.0. Use `RoutingOptions` class instead.")
+public struct EVTruckOptions : Hashable
 ```
-
-</pre>
 
 </div>
 
@@ -29,7 +28,7 @@ All the options to specify how a route for an electric truck should be calculate
 
 - <div>
 
-  ` `<span id="/s:7heresdk14EVTruckOptionsV05routeC0AA05RouteC0Vvp"></span>` `<span id="//apple_ref/swift/Property/routeOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evtruckoptions#/s:7heresdk14EVTruckOptionsV05routeC0AA05RouteC0Vvp" class="token"><code>routeOptions</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14EVTruckOptionsV05routeC0AA05RouteC0Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-routeOptions" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evtruckoptions#sdk-for-ios-navigate-s-7heresdk14EVTruckOptionsV05routeC0AA05RouteC0Vvp" class="token"><code>routeOptions</code></a> 
 
   </div>
 
@@ -65,6 +64,10 @@ All the options to specify how a route for an electric truck should be calculate
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-routeoptions">RouteOptions</a>
+
   </div>
 
   </div>
@@ -73,7 +76,7 @@ All the options to specify how a route for an electric truck should be calculate
 
 - <div>
 
-  ` `<span id="/s:7heresdk14EVTruckOptionsV04textC0AA09RouteTextC0Vvp"></span>` `<span id="//apple_ref/swift/Property/textOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evtruckoptions#/s:7heresdk14EVTruckOptionsV04textC0AA09RouteTextC0Vvp" class="token"><code>textOptions</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14EVTruckOptionsV04textC0AA09RouteTextC0Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-textOptions" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evtruckoptions#sdk-for-ios-navigate-s-7heresdk14EVTruckOptionsV04textC0AA09RouteTextC0Vvp" class="token"><code>textOptions</code></a> 
 
   </div>
 
@@ -109,6 +112,10 @@ All the options to specify how a route for an electric truck should be calculate
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-routetextoptions">RouteTextOptions</a>
+
   </div>
 
   </div>
@@ -117,7 +124,7 @@ All the options to specify how a route for an electric truck should be calculate
 
 - <div>
 
-  ` `<span id="/s:7heresdk14EVTruckOptionsV09avoidanceC0AA09AvoidanceC0Vvp"></span>` `<span id="//apple_ref/swift/Property/avoidanceOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evtruckoptions#/s:7heresdk14EVTruckOptionsV09avoidanceC0AA09AvoidanceC0Vvp" class="token"><code>avoidanceOptions</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14EVTruckOptionsV09avoidanceC0AA09AvoidanceC0Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-avoidanceOptions" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evtruckoptions#sdk-for-ios-navigate-s-7heresdk14EVTruckOptionsV09avoidanceC0AA09AvoidanceC0Vvp" class="token"><code>avoidanceOptions</code></a> 
 
   </div>
 
@@ -153,6 +160,10 @@ All the options to specify how a route for an electric truck should be calculate
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-avoidanceoptions">AvoidanceOptions</a>
+
   </div>
 
   </div>
@@ -161,7 +172,7 @@ All the options to specify how a route for an electric truck should be calculate
 
 - <div>
 
-  ` `<span id="/s:7heresdk14EVTruckOptionsV04tollC0AA04TollC0Vvp"></span>` `<span id="//apple_ref/swift/Property/tollOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evtruckoptions#/s:7heresdk14EVTruckOptionsV04tollC0AA04TollC0Vvp" class="token"><code>tollOptions</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14EVTruckOptionsV04tollC0AA04TollC0Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-tollOptions" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evtruckoptions#sdk-for-ios-navigate-s-7heresdk14EVTruckOptionsV04tollC0AA04TollC0Vvp" class="token"><code>tollOptions</code></a> 
 
   </div>
 
@@ -197,6 +208,10 @@ All the options to specify how a route for an electric truck should be calculate
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-tolloptions">TollOptions</a>
+
   </div>
 
   </div>
@@ -205,7 +220,7 @@ All the options to specify how a route for an electric truck should be calculate
 
 - <div>
 
-  ` `<span id="/s:7heresdk14EVTruckOptionsV05allowC0AA05AllowC0Vvp"></span>` `<span id="//apple_ref/swift/Property/allowOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evtruckoptions#/s:7heresdk14EVTruckOptionsV05allowC0AA05AllowC0Vvp" class="token"><code>allowOptions</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14EVTruckOptionsV05allowC0AA05AllowC0Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-allowOptions" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evtruckoptions#sdk-for-ios-navigate-s-7heresdk14EVTruckOptionsV05allowC0AA05AllowC0Vvp" class="token"><code>allowOptions</code></a> 
 
   </div>
 
@@ -241,6 +256,10 @@ All the options to specify how a route for an electric truck should be calculate
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-allowoptions">AllowOptions</a>
+
   </div>
 
   </div>
@@ -249,7 +268,7 @@ All the options to specify how a route for an electric truck should be calculate
 
 - <div>
 
-  ` `<span id="/s:7heresdk14EVTruckOptionsV15occupantsNumbers5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/occupantsNumber" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evtruckoptions#/s:7heresdk14EVTruckOptionsV15occupantsNumbers5Int32Vvp" class="token"><code>occupantsNumber</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14EVTruckOptionsV15occupantsNumbers5Int32Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-occupantsNumber" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evtruckoptions#sdk-for-ios-navigate-s-7heresdk14EVTruckOptionsV15occupantsNumbers5Int32Vvp" class="token"><code>occupantsNumber</code></a> 
 
   </div>
 
@@ -269,7 +288,7 @@ All the options to specify how a route for an electric truck should be calculate
 
   Specifies the number of occupants in the vehicle, including driver, can affect the vehicle’s ability to use HOV/carpool restricted lanes. Shouldn’t be less than 1 or greater than 255. Defaults to 1.
 
-  **Note:** This parameter has no effect unless HOV and/or HOT lane usage is enabled via <a href="sdk-for-ios-navigate-structs-evtruckoptions#/s:7heresdk14EVTruckOptionsV05allowC0AA05AllowC0Vvp">`EVTruckOptions.allowOptions`</a> and such lanes are available in the selected country.
+  **Note:** This parameter has no effect unless HOV and/or HOT lane usage is enabled via <a href="sdk-for-ios-navigate-structs-evtruckoptions#sdk-for-ios-navigate-s-7heresdk14EVTruckOptionsV05allowC0AA05AllowC0Vvp">`EVTruckOptions.allowOptions`</a> and such lanes are available in the selected country.
 
   </div>
 
@@ -295,7 +314,7 @@ All the options to specify how a route for an electric truck should be calculate
 
 - <div>
 
-  ` `<span id="/s:7heresdk14EVTruckOptionsV27lastCharacterOfLicensePlateSSSgvp"></span>` `<span id="//apple_ref/swift/Property/lastCharacterOfLicensePlate" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evtruckoptions#/s:7heresdk14EVTruckOptionsV27lastCharacterOfLicensePlateSSSgvp" class="token"><code>lastCharacterOfLicensePlate</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14EVTruckOptionsV27lastCharacterOfLicensePlateSSSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-lastCharacterOfLicensePlate" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evtruckoptions#sdk-for-ios-navigate-s-7heresdk14EVTruckOptionsV27lastCharacterOfLicensePlateSSSgvp" class="token"><code>lastCharacterOfLicensePlate</code></a> 
 
   </div>
 
@@ -341,7 +360,7 @@ All the options to specify how a route for an electric truck should be calculate
 
 - <div>
 
-  ` `<span id="/s:7heresdk14EVTruckOptionsV18maxSpeedOnSegmentsSayAA03MaxeF7SegmentVGvp"></span>` `<span id="//apple_ref/swift/Property/maxSpeedOnSegments" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evtruckoptions#/s:7heresdk14EVTruckOptionsV18maxSpeedOnSegmentsSayAA03MaxeF7SegmentVGvp" class="token"><code>maxSpeedOnSegments</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14EVTruckOptionsV18maxSpeedOnSegmentsSayAA03MaxeF7SegmentVGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-maxSpeedOnSegments" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evtruckoptions#sdk-for-ios-navigate-s-7heresdk14EVTruckOptionsV18maxSpeedOnSegmentsSayAA03MaxeF7SegmentVGvp" class="token"><code>maxSpeedOnSegments</code></a> 
 
   </div>
 
@@ -359,7 +378,7 @@ All the options to specify how a route for an electric truck should be calculate
 
   <div class="abstract">
 
-  Segments with restriction on maximum <a href="sdk-for-ios-navigate-structs-dynamicspeedinfo#/s:7heresdk16DynamicSpeedInfoV04baseC17InMetersPerSecondSdvp">`DynamicSpeedInfo.baseSpeedInMetersPerSecond`</a>.
+  Segments with restriction on maximum <a href="sdk-for-ios-navigate-structs-dynamicspeedinfo#sdk-for-ios-navigate-s-7heresdk16DynamicSpeedInfoV04baseC17InMetersPerSecondSdvp">`DynamicSpeedInfo.baseSpeedInMetersPerSecond`</a>.
 
   </div>
 
@@ -377,6 +396,10 @@ All the options to specify how a route for an electric truck should be calculate
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-maxspeedonsegment">MaxSpeedOnSegment</a>
+
   </div>
 
   </div>
@@ -385,7 +408,7 @@ All the options to specify how a route for an electric truck should be calculate
 
 - <div>
 
-  ` `<span id="/s:7heresdk14EVTruckOptionsV19truckSpecificationsAA05TruckE0Vvp"></span>` `<span id="//apple_ref/swift/Property/truckSpecifications" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evtruckoptions#/s:7heresdk14EVTruckOptionsV19truckSpecificationsAA05TruckE0Vvp" class="token"><code>truckSpecifications</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14EVTruckOptionsV19truckSpecificationsAA05TruckE0Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-truckSpecifications" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evtruckoptions#sdk-for-ios-navigate-s-7heresdk14EVTruckOptionsV19truckSpecificationsAA05TruckE0Vvp" class="token"><code>truckSpecifications</code></a> 
 
   </div>
 
@@ -421,6 +444,10 @@ All the options to specify how a route for an electric truck should be calculate
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-truckspecifications">TruckSpecifications</a>
+
   </div>
 
   </div>
@@ -429,7 +456,7 @@ All the options to specify how a route for an electric truck should be calculate
 
 - <div>
 
-  ` `<span id="/s:7heresdk14EVTruckOptionsV18linkTunnelCategoryAA0eF0OSgvp"></span>` `<span id="//apple_ref/swift/Property/linkTunnelCategory" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evtruckoptions#/s:7heresdk14EVTruckOptionsV18linkTunnelCategoryAA0eF0OSgvp" class="token"><code>linkTunnelCategory</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14EVTruckOptionsV18linkTunnelCategoryAA0eF0OSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-linkTunnelCategory" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evtruckoptions#sdk-for-ios-navigate-s-7heresdk14EVTruckOptionsV18linkTunnelCategoryAA0eF0OSgvp" class="token"><code>linkTunnelCategory</code></a> 
 
   </div>
 
@@ -465,6 +492,10 @@ All the options to specify how a route for an electric truck should be calculate
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-tunnelcategory">TunnelCategory</a>
+
   </div>
 
   </div>
@@ -473,7 +504,7 @@ All the options to specify how a route for an electric truck should be calculate
 
 - <div>
 
-  ` `<span id="/s:7heresdk14EVTruckOptionsV18hazardousMaterialsSayAA17HazardousMaterialOGvp"></span>` `<span id="//apple_ref/swift/Property/hazardousMaterials" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evtruckoptions#/s:7heresdk14EVTruckOptionsV18hazardousMaterialsSayAA17HazardousMaterialOGvp" class="token"><code>hazardousMaterials</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14EVTruckOptionsV18hazardousMaterialsSayAA17HazardousMaterialOGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-hazardousMaterials" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evtruckoptions#sdk-for-ios-navigate-s-7heresdk14EVTruckOptionsV18hazardousMaterialsSayAA17HazardousMaterialOGvp" class="token"><code>hazardousMaterials</code></a> 
 
   </div>
 
@@ -509,6 +540,10 @@ All the options to specify how a route for an electric truck should be calculate
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-hazardousmaterial">HazardousMaterial</a>
+
   </div>
 
   </div>
@@ -517,7 +552,7 @@ All the options to specify how a route for an electric truck should be calculate
 
 - <div>
 
-  ` `<span id="/s:7heresdk14EVTruckOptionsV21avoidedTruckRoadTypesSayAA0eF4TypeOGvp"></span>` `<span id="//apple_ref/swift/Property/avoidedTruckRoadTypes" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evtruckoptions#/s:7heresdk14EVTruckOptionsV21avoidedTruckRoadTypesSayAA0eF4TypeOGvp" class="token"><code>avoidedTruckRoadTypes</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14EVTruckOptionsV21avoidedTruckRoadTypesSayAA0eF4TypeOGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-avoidedTruckRoadTypes" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evtruckoptions#sdk-for-ios-navigate-s-7heresdk14EVTruckOptionsV21avoidedTruckRoadTypesSayAA0eF4TypeOGvp" class="token"><code>avoidedTruckRoadTypes</code></a> 
 
   </div>
 
@@ -553,6 +588,10 @@ All the options to specify how a route for an electric truck should be calculate
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-truckroadtype">TruckRoadType</a>
+
   </div>
 
   </div>
@@ -561,7 +600,7 @@ All the options to specify how a route for an electric truck should be calculate
 
 - <div>
 
-  ` `<span id="/s:7heresdk14EVTruckOptionsV16consumptionModelAA013EVConsumptionE0Vvp"></span>` `<span id="//apple_ref/swift/Property/consumptionModel" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evtruckoptions#/s:7heresdk14EVTruckOptionsV16consumptionModelAA013EVConsumptionE0Vvp" class="token"><code>consumptionModel</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14EVTruckOptionsV16consumptionModelAA013EVConsumptionE0Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-consumptionModel" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evtruckoptions#sdk-for-ios-navigate-s-7heresdk14EVTruckOptionsV16consumptionModelAA013EVConsumptionE0Vvp" class="token"><code>consumptionModel</code></a> 
 
   </div>
 
@@ -597,6 +636,10 @@ All the options to specify how a route for an electric truck should be calculate
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-evconsumptionmodel">EVConsumptionModel</a>
+
   </div>
 
   </div>
@@ -605,7 +648,7 @@ All the options to specify how a route for an electric truck should be calculate
 
 - <div>
 
-      init(routeOptions: textOptions: avoidanceOptions: tollOptions: allowOptions: occupantsNumber: lastCharacterOfLicensePlate: maxSpeedOnSegments: truckSpecifications: linkTunnelCategory: hazardousMaterials: avoidedTruckRoadTypes: consumptionModel: )
+   <span id="sdk-for-ios-navigate-s-7heresdk14EVTruckOptionsV05routeC004textC009avoidanceC004tollC005allowC015occupantsNumber27lastCharacterOfLicensePlate18maxSpeedOnSegments19truckSpecifications18linkTunnelCategory18hazardousMaterials21avoidedTruckRoadTypes16consumptionModelAcA05RouteC0V_AA09RouteTextC0VAA09AvoidanceC0VAA04TollC0VAA05AllowC0Vs5Int32VSSSgSayAA03MaxqR7SegmentVGAA05TruckU0VAA0wX0OSgSayAA17HazardousMaterialOGSayAA13TruckRoadTypeOGAA18EVConsumptionModelVtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-routeOptions-textOptions-avoidanceOptions-tollOptions-allowOptions-occupantsNumber-lastCharacterOfLicensePlate-maxSpeedOnSegments-truckSpecifications-linkTunnelCategory-hazardousMaterials-avoidedTruckRoadTypes-consumptionModel" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evtruckoptions#sdk-for-ios-navigate-s-7heresdk14EVTruckOptionsV05routeC004textC009avoidanceC004tollC005allowC015occupantsNumber27lastCharacterOfLicensePlate18maxSpeedOnSegments19truckSpecifications18linkTunnelCategory18hazardousMaterials21avoidedTruckRoadTypes16consumptionModelAcA05RouteC0V_AA09RouteTextC0VAA09AvoidanceC0VAA04TollC0VAA05AllowC0Vs5Int32VSSSgSayAA03MaxqR7SegmentVGAA05TruckU0VAA0wX0OSgSayAA17HazardousMaterialOGSayAA13TruckRoadTypeOGAA18EVConsumptionModelVtcfc" class="token"><code>init(routeOptions:</code><wbr></wbr><code>textOptions:</code><wbr></wbr><code>avoidanceOptions:</code><wbr></wbr><code>tollOptions:</code><wbr></wbr><code>allowOptions:</code><wbr></wbr><code>occupantsNumber:</code><wbr></wbr><code>lastCharacterOfLicensePlate:</code><wbr></wbr><code>maxSpeedOnSegments:</code><wbr></wbr><code>truckSpecifications:</code><wbr></wbr><code>linkTunnelCategory:</code><wbr></wbr><code>hazardousMaterials:</code><wbr></wbr><code>avoidedTruckRoadTypes:</code><wbr></wbr><code>consumptionModel:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -634,13 +677,13 @@ All the options to specify how a route for an electric truck should be calculate
     - allowOptions: The options explicitly allowed by user for route calculations. By default no options are opt in.
     - occupantsNumber: Specifies the number of occupants in the vehicle, including driver, can affect the vehicle’s ability to use HOV/carpool restricted lanes. Shouldn’t be less than 1 or greater than 255. Defaults to 1.
 
-    **Note:** This parameter has no effect unless HOV and/or HOT lane usage is enabled via <a href="sdk-for-ios-navigate-structs-evtruckoptions#/s:7heresdk14EVTruckOptionsV05allowC0AA05AllowC0Vvp">`EVTruckOptions.allowOptions`</a> and such lanes are available in the selected country.
+    **Note:** This parameter has no effect unless HOV and/or HOT lane usage is enabled via <a href="sdk-for-ios-navigate-structs-evtruckoptions#sdk-for-ios-navigate-s-7heresdk14EVTruckOptionsV05allowC0AA05AllowC0Vvp">`EVTruckOptions.allowOptions`</a> and such lanes are available in the selected country.
 
     - lastCharacterOfLicensePlate: Specifies the last character of a vehicle’s license plate, typically used to evaluate traffic restrictions in certain environmental or low-emission zones. In cities like Bogotá, Mexico City, or Jakarta, specific license plate digits may be restricted on certain days or in certain areas to reduce congestion and emissions. When this value is provided, the HERE SDK considers it during route calculation to avoid roads or areas where your vehicle may be restricted based on local regulations. Example usage: “7”, when the license plate of a vehicle looks like “B-ET-182487”.
 
     If this value is not set, such license plate-based restrictions are ignored, and routing is performed without considering them.
 
-    - maxSpeedOnSegments: Segments with restriction on maximum <a href="sdk-for-ios-navigate-structs-dynamicspeedinfo#/s:7heresdk16DynamicSpeedInfoV04baseC17InMetersPerSecondSdvp">`DynamicSpeedInfo.baseSpeedInMetersPerSecond`</a>.
+    - maxSpeedOnSegments: Segments with restriction on maximum <a href="sdk-for-ios-navigate-structs-dynamicspeedinfo#sdk-for-ios-navigate-s-7heresdk16DynamicSpeedInfoV04baseC17InMetersPerSecondSdvp">`DynamicSpeedInfo.baseSpeedInMetersPerSecond`</a>.
     - truckSpecifications: Detailed truck specifications such as dimensions and weight.
     - linkTunnelCategory: Specifies the tunnel categories to restrict certain route links. The route will pass only through tunnels of a less strict category. Refer to <a href="sdk-for-ios-navigate-enums-tunnelcategory">`TunnelCategory`</a> for the available options.
     - hazardousMaterials: Specifies a list of hazardous materials shipped in the vehicle. Refer to <a href="sdk-for-ios-navigate-enums-hazardousmaterial">`HazardousMaterial`</a> for the available options.
@@ -658,12 +701,24 @@ All the options to specify how a route for an electric truck should be calculate
   Swift
 
   ``` highlight
-  public init ( routeOptions : RouteOptions = RouteOptions (), textOptions : RouteTextOptions = RouteTextOptions (), avoidanceOptions : AvoidanceOptions = AvoidanceOptions (), tollOptions : TollOptions = TollOptions (), allowOptions : AllowOptions = AllowOptions (), occupantsNumber : Int32 = 1 , lastCharacterOfLicensePlate : String ? = nil , maxSpeedOnSegments : [ MaxSpeedOnSegment ] = [], truckSpecifications : TruckSpecifications = TruckSpecifications (), linkTunnelCategory : TunnelCategory ? = nil , hazardousMaterials : [ HazardousMaterial ] = [], avoidedTruckRoadTypes : [ TruckRoadType ] = [], consumptionModel : EVConsumptionModel = EVConsumptionModel ())
+  public init(routeOptions: RouteOptions = RouteOptions(), textOptions: RouteTextOptions = RouteTextOptions(), avoidanceOptions: AvoidanceOptions = AvoidanceOptions(), tollOptions: TollOptions = TollOptions(), allowOptions: AllowOptions = AllowOptions(), occupantsNumber: Int32 = 1, lastCharacterOfLicensePlate: String? = nil, maxSpeedOnSegments: [MaxSpeedOnSegment] = [], truckSpecifications: TruckSpecifications = TruckSpecifications(), linkTunnelCategory: TunnelCategory? = nil, hazardousMaterials: [HazardousMaterial] = [], avoidedTruckRoadTypes: [TruckRoadType] = [], consumptionModel: EVConsumptionModel = EVConsumptionModel())
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-routeoptions">RouteOptions</a>
+  - <a href="sdk-for-ios-navigate-structs-routetextoptions">RouteTextOptions</a>
+  - <a href="sdk-for-ios-navigate-structs-avoidanceoptions">AvoidanceOptions</a>
+  - <a href="sdk-for-ios-navigate-structs-tolloptions">TollOptions</a>
+  - <a href="sdk-for-ios-navigate-structs-allowoptions">AllowOptions</a>
+  - <a href="sdk-for-ios-navigate-structs-maxspeedonsegment">MaxSpeedOnSegment</a>
+  - <a href="sdk-for-ios-navigate-structs-truckspecifications">TruckSpecifications</a>
+  - <a href="sdk-for-ios-navigate-enums-tunnelcategory">TunnelCategory</a>
+  - <a href="sdk-for-ios-navigate-enums-hazardousmaterial">HazardousMaterial</a>
+  - <a href="sdk-for-ios-navigate-enums-truckroadtype">TruckRoadType</a>
+  - <a href="sdk-for-ios-navigate-structs-evconsumptionmodel">EVConsumptionModel</a>
 
   </div>
 

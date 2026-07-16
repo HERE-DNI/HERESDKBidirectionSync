@@ -35,7 +35,7 @@ This is a bearer authentication mode which adds or does not add a header (“Aut
 
 - <div>
 
-  ` `<span id="/s:7heresdk18AuthenticationModeC19AccessTokenProvidera"></span>` `<span id="//apple_ref/swift/Alias/AccessTokenProvider" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-authenticationmode#/s:7heresdk18AuthenticationModeC19AccessTokenProvidera" class="token"><code>AccessTokenProvider</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18AuthenticationModeC19AccessTokenProvidera"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Alias-AccessTokenProvider" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-authenticationmode#sdk-for-ios-navigate-s-7heresdk18AuthenticationModeC19AccessTokenProvidera" class="token"><code>AccessTokenProvider</code></a> 
 
   </div>
 
@@ -66,10 +66,8 @@ This is a bearer authentication mode which adds or does not add a header (“Aut
   Swift
 
   ``` highlight
-  public typealias AccessTokenProvider = () -> String ?
+  public typealias AccessTokenProvider = () -> String?
   ```
-
-  </pre>
 
   </div>
 
@@ -89,7 +87,7 @@ This is a bearer authentication mode which adds or does not add a header (“Aut
 
 - <div>
 
-      withToken(accessToken: )
+   <span id="sdk-for-ios-navigate-s-7heresdk18AuthenticationModeC9withToken06accessE0ACSS_tFZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-withToken-accessToken" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-authenticationmode#sdk-for-ios-navigate-s-7heresdk18AuthenticationModeC9withToken06accessE0ACSS_tFZ" class="token"><code>withToken(accessToken:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -120,10 +118,8 @@ This is a bearer authentication mode which adds or does not add a header (“Aut
   Swift
 
   ``` highlight
-  public static func withToken ( accessToken : String ) -> AuthenticationMode
+  public static func withToken(accessToken: String) -> AuthenticationMode
   ```
-
-  </pre>
 
   </div>
 
@@ -164,7 +160,7 @@ This is a bearer authentication mode which adds or does not add a header (“Aut
 
 - <div>
 
-      withTokenProvider(tokenProvider: )
+   <span id="sdk-for-ios-navigate-s-7heresdk18AuthenticationModeC17withTokenProvider05tokenF0ACSSSgyc_tFZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-withTokenProvider-tokenProvider" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-authenticationmode#sdk-for-ios-navigate-s-7heresdk18AuthenticationModeC17withTokenProvider05tokenF0ACSSSgyc_tFZ" class="token"><code>withTokenProvider(tokenProvider:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -195,12 +191,14 @@ This is a bearer authentication mode which adds or does not add a header (“Aut
   Swift
 
   ``` highlight
-  public static func withTokenProvider ( tokenProvider : @escaping AuthenticationMode . AccessTokenProvider ) -> AuthenticationMode
+  public static func withTokenProvider(tokenProvider: @escaping AuthenticationMode.AccessTokenProvider) -> AuthenticationMode
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-authenticationmode#sdk-for-ios-navigate-s-7heresdk18AuthenticationModeC19AccessTokenProvidera">AccessTokenProvider</a>
 
   </div>
 
@@ -239,7 +237,7 @@ This is a bearer authentication mode which adds or does not add a header (“Aut
 
 - <div>
 
-      withExternal()
+   <span id="sdk-for-ios-navigate-s-7heresdk18AuthenticationModeC12withExternalACyFZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-withExternal" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-authenticationmode#sdk-for-ios-navigate-s-7heresdk18AuthenticationModeC12withExternalACyFZ" class="token"><code>withExternal()</code></a> 
 
   </div>
 
@@ -270,10 +268,8 @@ This is a bearer authentication mode which adds or does not add a header (“Aut
   Swift
 
   ``` highlight
-  public static func withExternal () -> AuthenticationMode
+  public static func withExternal() -> AuthenticationMode
   ```
-
-  </pre>
 
   </div>
 
@@ -293,7 +289,7 @@ This is a bearer authentication mode which adds or does not add a header (“Aut
 
 - <div>
 
-      withKeySecret(accessKeyId: accessKeySecret: )
+   <span id="sdk-for-ios-navigate-s-7heresdk18AuthenticationModeC13withKeySecret06accessE2Id0geF0ACSS_SStFZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-withKeySecret-accessKeyId-accessKeySecret" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-authenticationmode#sdk-for-ios-navigate-s-7heresdk18AuthenticationModeC13withKeySecret06accessE2Id0geF0ACSS_SStFZ" class="token"><code>withKeySecret(accessKeyId:</code><wbr></wbr><code>accessKeySecret:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -324,10 +320,8 @@ This is a bearer authentication mode which adds or does not add a header (“Aut
   Swift
 
   ``` highlight
-  public static func withKeySecret ( accessKeyId : String , accessKeySecret : String ) -> AuthenticationMode
+  public static func withKeySecret(accessKeyId: String, accessKeySecret: String) -> AuthenticationMode
   ```
-
-  </pre>
 
   </div>
 

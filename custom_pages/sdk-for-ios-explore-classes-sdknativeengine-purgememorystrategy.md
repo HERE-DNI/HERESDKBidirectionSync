@@ -27,7 +27,7 @@ Enum representing a strategy to flush memory caches.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15SDKNativeEngineC19PurgeMemoryStrategyO4fullyA2EmF"></span>` `<span id="//apple_ref/swift/Element/full" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-sdknativeengine-purgememorystrategy#/s:7heresdk15SDKNativeEngineC19PurgeMemoryStrategyO4fullyA2EmF" class="token"><code>full</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15SDKNativeEngineC19PurgeMemoryStrategyO4fullyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-full" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-sdknativeengine-purgememorystrategy#sdk-for-ios-explore-s-7heresdk15SDKNativeEngineC19PurgeMemoryStrategyO4fullyA2EmF" class="token"><code>full</code></a> 
 
   </div>
 

@@ -35,7 +35,7 @@ Holds information of varying types, such as Boolean, Integer, String. Properties
 
 - <div>
 
-  ` `<span id="/s:7heresdk8PropertyC4typeAC0B4TypeOvp"></span>` `<span id="//apple_ref/swift/Property/type" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-property#/s:7heresdk8PropertyC4typeAC0B4TypeOvp" class="token"><code>type</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8PropertyC4typeAC0B4TypeOvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-type" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-property#sdk-for-ios-navigate-s-7heresdk8PropertyC4typeAC0B4TypeOvp" class="token"><code>type</code></a> 
 
   </div>
 
@@ -71,6 +71,10 @@ Holds information of varying types, such as Boolean, Integer, String. Properties
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-property-propertytype">PropertyType</a>
+
   </div>
 
   </div>
@@ -79,7 +83,7 @@ Holds information of varying types, such as Boolean, Integer, String. Properties
 
 - <div>
 
-  ` `<span id="/s:7heresdk8PropertyC6isBoolSbvp"></span>` `<span id="//apple_ref/swift/Property/isBool" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-property#/s:7heresdk8PropertyC6isBoolSbvp" class="token"><code>isBool</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8PropertyC6isBoolSbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-isBool" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-property#sdk-for-ios-navigate-s-7heresdk8PropertyC6isBoolSbvp" class="token"><code>isBool</code></a> 
 
   </div>
 
@@ -123,7 +127,7 @@ Holds information of varying types, such as Boolean, Integer, String. Properties
 
 - <div>
 
-  ` `<span id="/s:7heresdk8PropertyC3ints5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/int" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-property#/s:7heresdk8PropertyC3ints5Int32Vvp" class="token"><code>int</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8PropertyC3ints5Int32Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-int" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-property#sdk-for-ios-navigate-s-7heresdk8PropertyC3ints5Int32Vvp" class="token"><code>int</code></a> 
 
   </div>
 
@@ -167,7 +171,7 @@ Holds information of varying types, such as Boolean, Integer, String. Properties
 
 - <div>
 
-  ` `<span id="/s:7heresdk8PropertyC6stringSSvp"></span>` `<span id="//apple_ref/swift/Property/string" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-property#/s:7heresdk8PropertyC6stringSSvp" class="token"><code>string</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8PropertyC6stringSSvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-string" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-property#sdk-for-ios-navigate-s-7heresdk8PropertyC6stringSSvp" class="token"><code>string</code></a> 
 
   </div>
 
@@ -211,7 +215,7 @@ Holds information of varying types, such as Boolean, Integer, String. Properties
 
 - <div>
 
-  ` `<span id="/s:7heresdk8PropertyC0B4TypeO"></span>` `<span id="//apple_ref/swift/Enum/PropertyType" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-property#/s:7heresdk8PropertyC0B4TypeO" class="token"><code>PropertyType</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8PropertyC0B4TypeO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-PropertyType" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-property#sdk-for-ios-navigate-s-7heresdk8PropertyC0B4TypeO" class="token"><code>PropertyType</code></a> 
 
   </div>
 

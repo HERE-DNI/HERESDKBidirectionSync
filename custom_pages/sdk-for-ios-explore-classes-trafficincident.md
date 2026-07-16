@@ -23,6 +23,10 @@ extension TrafficIncident: Hashable
 
 </div>
 
+Related types:
+
+- <a href="sdk-for-ios-explore-protocols-trafficincidentbase">TrafficIncidentBase</a>
+
 </div>
 
 TrafficIncident provides details about a traffic incident.
@@ -35,7 +39,7 @@ TrafficIncident provides details about a traffic incident.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15TrafficIncidentC6impactAA0bC6ImpactOvp"></span>` `<span id="//apple_ref/swift/Property/impact" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-trafficincident#/s:7heresdk15TrafficIncidentC6impactAA0bC6ImpactOvp" class="token"><code>impact</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15TrafficIncidentC6impactAA0bC6ImpactOvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-impact" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-trafficincident#sdk-for-ios-explore-s-7heresdk15TrafficIncidentC6impactAA0bC6ImpactOvp" class="token"><code>impact</code></a> 
 
   </div>
 
@@ -53,7 +57,7 @@ TrafficIncident provides details about a traffic incident.
 
   <div class="abstract">
 
-  The impact of the incident. The value is <a href="sdk-for-ios-explore-enums-trafficincidentimpact#/s:7heresdk21TrafficIncidentImpactO7unknownyA2CmF">`TrafficIncidentImpact.unknown`</a> if it hasn’t been provided by the traffic incidents supplier.
+  The impact of the incident. The value is <a href="sdk-for-ios-explore-enums-trafficincidentimpact#sdk-for-ios-explore-s-7heresdk21TrafficIncidentImpactO7unknownyA2CmF">`TrafficIncidentImpact.unknown`</a> if it hasn’t been provided by the traffic incidents supplier.
 
   </div>
 
@@ -71,6 +75,10 @@ TrafficIncident provides details about a traffic incident.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-trafficincidentimpact">TrafficIncidentImpact</a>
+
   </div>
 
   </div>
@@ -79,7 +87,7 @@ TrafficIncident provides details about a traffic incident.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15TrafficIncidentC4typeAA0bC4TypeOvp"></span>` `<span id="//apple_ref/swift/Property/type" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-trafficincident#/s:7heresdk15TrafficIncidentC4typeAA0bC4TypeOvp" class="token"><code>type</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15TrafficIncidentC4typeAA0bC4TypeOvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-type" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-trafficincident#sdk-for-ios-explore-s-7heresdk15TrafficIncidentC4typeAA0bC4TypeOvp" class="token"><code>type</code></a> 
 
   </div>
 
@@ -97,7 +105,7 @@ TrafficIncident provides details about a traffic incident.
 
   <div class="abstract">
 
-  The category of the incident. The value is <a href="sdk-for-ios-explore-enums-trafficincidenttype#/s:7heresdk19TrafficIncidentTypeO7unknownyA2CmF">`TrafficIncidentType.unknown`</a> if it hasn’t been provided by the traffic incidents supplier.
+  The category of the incident. The value is <a href="sdk-for-ios-explore-enums-trafficincidenttype#sdk-for-ios-explore-s-7heresdk19TrafficIncidentTypeO7unknownyA2CmF">`TrafficIncidentType.unknown`</a> if it hasn’t been provided by the traffic incidents supplier.
 
   </div>
 
@@ -115,6 +123,10 @@ TrafficIncident provides details about a traffic incident.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-trafficincidenttype">TrafficIncidentType</a>
+
   </div>
 
   </div>
@@ -123,7 +135,7 @@ TrafficIncident provides details about a traffic incident.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15TrafficIncidentC11descriptionAA13LocalizedTextVvp"></span>` `<span id="//apple_ref/swift/Property/description" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-trafficincident#/s:7heresdk15TrafficIncidentC11descriptionAA13LocalizedTextVvp" class="token"><code>description</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15TrafficIncidentC11descriptionAA13LocalizedTextVvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-description" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-trafficincident#sdk-for-ios-explore-s-7heresdk15TrafficIncidentC11descriptionAA13LocalizedTextVvp" class="token"><code>description</code></a> 
 
   </div>
 
@@ -159,6 +171,10 @@ TrafficIncident provides details about a traffic incident.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-localizedtext">LocalizedText</a>
+
   </div>
 
   </div>
@@ -167,7 +183,7 @@ TrafficIncident provides details about a traffic incident.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15TrafficIncidentC9startTime10Foundation4DateVSgvp"></span>` `<span id="//apple_ref/swift/Property/startTime" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-trafficincident#/s:7heresdk15TrafficIncidentC9startTime10Foundation4DateVSgvp" class="token"><code>startTime</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15TrafficIncidentC9startTime10Foundation4DateVSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-startTime" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-trafficincident#sdk-for-ios-explore-s-7heresdk15TrafficIncidentC9startTime10Foundation4DateVSgvp" class="token"><code>startTime</code></a> 
 
   </div>
 
@@ -211,7 +227,7 @@ TrafficIncident provides details about a traffic incident.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15TrafficIncidentC7endTime10Foundation4DateVSgvp"></span>` `<span id="//apple_ref/swift/Property/endTime" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-trafficincident#/s:7heresdk15TrafficIncidentC7endTime10Foundation4DateVSgvp" class="token"><code>endTime</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15TrafficIncidentC7endTime10Foundation4DateVSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-endTime" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-trafficincident#sdk-for-ios-explore-s-7heresdk15TrafficIncidentC7endTime10Foundation4DateVSgvp" class="token"><code>endTime</code></a> 
 
   </div>
 
@@ -255,7 +271,7 @@ TrafficIncident provides details about a traffic incident.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15TrafficIncidentC2idSSvp"></span>` `<span id="//apple_ref/swift/Property/id" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-trafficincident#/s:7heresdk15TrafficIncidentC2idSSvp" class="token"><code>id</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15TrafficIncidentC2idSSvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-id" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-trafficincident#sdk-for-ios-explore-s-7heresdk15TrafficIncidentC2idSSvp" class="token"><code>id</code></a> 
 
   </div>
 
@@ -299,7 +315,7 @@ TrafficIncident provides details about a traffic incident.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15TrafficIncidentC10originalIdSSvp"></span>` `<span id="//apple_ref/swift/Property/originalId" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-trafficincident#/s:7heresdk15TrafficIncidentC10originalIdSSvp" class="token"><code>originalId</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15TrafficIncidentC10originalIdSSvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-originalId" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-trafficincident#sdk-for-ios-explore-s-7heresdk15TrafficIncidentC10originalIdSSvp" class="token"><code>originalId</code></a> 
 
   </div>
 
@@ -317,12 +333,7 @@ TrafficIncident provides details about a traffic incident.
 
   <div class="abstract">
 
-  The unique identifier of the first traffic incident. The original id remains the same whenever the traffic incident is updated and <a href="sdk-for-ios-explore-classes-trafficincident#/s:7heresdk15TrafficIncidentC2idSSvp">`TrafficIncident.id`</a> is changed. Once an incident chain has been created, this value will never change. The traffic incident an be looked up by original id using
-
-      TrafficEngine.lookupIncident(...)
-
-  .
-  </p>
+  The unique identifier of the first traffic incident. The original id remains the same whenever the traffic incident is updated and <a href="sdk-for-ios-explore-classes-trafficincident#sdk-for-ios-explore-s-7heresdk15TrafficIncidentC2idSSvp">`TrafficIncident.id`</a> is changed. Once an incident chain has been created, this value will never change. The traffic incident an be looked up by original id using <a href="sdk-for-ios-explore-classes-trafficengine#sdk-for-ios-explore-s-7heresdk13TrafficEngineC14lookupIncident4with0D7Options10completionAA10TaskHandle_pSS_AA0be6LookupG0VyAA0B10QueryErrorOSg_AA0bE0CSgtctF">`TrafficEngine.lookupIncident(...)`</a>.
 
   </div>
 
@@ -348,7 +359,7 @@ TrafficIncident provides details about a traffic incident.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15TrafficIncidentC8parentIdSSSgvp"></span>` `<span id="//apple_ref/swift/Property/parentId" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-trafficincident#/s:7heresdk15TrafficIncidentC8parentIdSSSgvp" class="token"><code>parentId</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15TrafficIncidentC8parentIdSSSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-parentId" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-trafficincident#sdk-for-ios-explore-s-7heresdk15TrafficIncidentC8parentIdSSSgvp" class="token"><code>parentId</code></a> 
 
   </div>
 
@@ -392,7 +403,7 @@ TrafficIncident provides details about a traffic incident.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15TrafficIncidentC23junctionsTraversabilityAA09JunctionsE0Ovp"></span>` `<span id="//apple_ref/swift/Property/junctionsTraversability" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-trafficincident#/s:7heresdk15TrafficIncidentC23junctionsTraversabilityAA09JunctionsE0Ovp" class="token"><code>junctionsTraversability</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15TrafficIncidentC23junctionsTraversabilityAA09JunctionsE0Ovp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-junctionsTraversability" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-trafficincident#sdk-for-ios-explore-s-7heresdk15TrafficIncidentC23junctionsTraversabilityAA09JunctionsE0Ovp" class="token"><code>junctionsTraversability</code></a> 
 
   </div>
 
@@ -428,6 +439,10 @@ TrafficIncident provides details about a traffic incident.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-junctionstraversability">JunctionsTraversability</a>
+
   </div>
 
   </div>
@@ -436,7 +451,7 @@ TrafficIncident provides details about a traffic incident.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15TrafficIncidentC12isRoadClosedSbvp"></span>` `<span id="//apple_ref/swift/Property/isRoadClosed" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-trafficincident#/s:7heresdk15TrafficIncidentC12isRoadClosedSbvp" class="token"><code>isRoadClosed</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15TrafficIncidentC12isRoadClosedSbvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-isRoadClosed" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-trafficincident#sdk-for-ios-explore-s-7heresdk15TrafficIncidentC12isRoadClosedSbvp" class="token"><code>isRoadClosed</code></a> 
 
   </div>
 
@@ -480,7 +495,7 @@ TrafficIncident provides details about a traffic incident.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15TrafficIncidentC5codesSays5Int32VGvp"></span>` `<span id="//apple_ref/swift/Property/codes" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-trafficincident#/s:7heresdk15TrafficIncidentC5codesSays5Int32VGvp" class="token"><code>codes</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15TrafficIncidentC5codesSays5Int32VGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-codes" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-trafficincident#sdk-for-ios-explore-s-7heresdk15TrafficIncidentC5codesSays5Int32VGvp" class="token"><code>codes</code></a> 
 
   </div>
 
@@ -524,7 +539,7 @@ TrafficIncident provides details about a traffic incident.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15TrafficIncidentC7summaryAA13LocalizedTextVvp"></span>` `<span id="//apple_ref/swift/Property/summary" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-trafficincident#/s:7heresdk15TrafficIncidentC7summaryAA13LocalizedTextVvp" class="token"><code>summary</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15TrafficIncidentC7summaryAA13LocalizedTextVvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-summary" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-trafficincident#sdk-for-ios-explore-s-7heresdk15TrafficIncidentC7summaryAA13LocalizedTextVvp" class="token"><code>summary</code></a> 
 
   </div>
 
@@ -542,7 +557,7 @@ TrafficIncident provides details about a traffic incident.
 
   <div class="abstract">
 
-  The human readable summary of the incident. The summary field provides a short version of the description containing no location information. The expected summary language can be managed via <a href="sdk-for-ios-explore-structs-trafficincidentsqueryoptions#/s:7heresdk28TrafficIncidentsQueryOptionsV12languageCodeAA08LanguageG0OSgvp">`TrafficIncidentsQueryOptions.languageCode`</a> and <a href="sdk-for-ios-explore-structs-trafficincidentlookupoptions#/s:7heresdk28TrafficIncidentLookupOptionsV12languageCodeAA08LanguageG0OSgvp">`TrafficIncidentLookupOptions.languageCode`</a>.
+  The human readable summary of the incident. The summary field provides a short version of the description containing no location information. The expected summary language can be managed via <a href="sdk-for-ios-explore-structs-trafficincidentsqueryoptions#sdk-for-ios-explore-s-7heresdk28TrafficIncidentsQueryOptionsV12languageCodeAA08LanguageG0OSgvp">`TrafficIncidentsQueryOptions.languageCode`</a> and <a href="sdk-for-ios-explore-structs-trafficincidentlookupoptions#sdk-for-ios-explore-s-7heresdk28TrafficIncidentLookupOptionsV12languageCodeAA08LanguageG0OSgvp">`TrafficIncidentLookupOptions.languageCode`</a>.
 
   </div>
 
@@ -560,6 +575,10 @@ TrafficIncident provides details about a traffic incident.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-localizedtext">LocalizedText</a>
+
   </div>
 
   </div>
@@ -568,7 +587,7 @@ TrafficIncident provides details about a traffic incident.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15TrafficIncidentC9entryTime10Foundation4DateVSgvp"></span>` `<span id="//apple_ref/swift/Property/entryTime" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-trafficincident#/s:7heresdk15TrafficIncidentC9entryTime10Foundation4DateVSgvp" class="token"><code>entryTime</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15TrafficIncidentC9entryTime10Foundation4DateVSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-entryTime" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-trafficincident#sdk-for-ios-explore-s-7heresdk15TrafficIncidentC9entryTime10Foundation4DateVSgvp" class="token"><code>entryTime</code></a> 
 
   </div>
 
@@ -612,7 +631,7 @@ TrafficIncident provides details about a traffic incident.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15TrafficIncidentC8locationAA0B8LocationVvp"></span>` `<span id="//apple_ref/swift/Property/location" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-trafficincident#/s:7heresdk15TrafficIncidentC8locationAA0B8LocationVvp" class="token"><code>location</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15TrafficIncidentC8locationAA0B8LocationVvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-location" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-trafficincident#sdk-for-ios-explore-s-7heresdk15TrafficIncidentC8locationAA0B8LocationVvp" class="token"><code>location</code></a> 
 
   </div>
 
@@ -648,6 +667,10 @@ TrafficIncident provides details about a traffic incident.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-trafficlocation">TrafficLocation</a>
+
   </div>
 
   </div>
@@ -656,7 +679,7 @@ TrafficIncident provides details about a traffic incident.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15TrafficIncidentC19vehicleRestrictionsSDyAC25RestrictedVehicleCategoryOAC0G11RestrictionVGvp"></span>` `<span id="//apple_ref/swift/Property/vehicleRestrictions" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-trafficincident#/s:7heresdk15TrafficIncidentC19vehicleRestrictionsSDyAC25RestrictedVehicleCategoryOAC0G11RestrictionVGvp" class="token"><code>vehicleRestrictions</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15TrafficIncidentC19vehicleRestrictionsSDyAC25RestrictedVehicleCategoryOAC0G11RestrictionVGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-vehicleRestrictions" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-trafficincident#sdk-for-ios-explore-s-7heresdk15TrafficIncidentC19vehicleRestrictionsSDyAC25RestrictedVehicleCategoryOAC0G11RestrictionVGvp" class="token"><code>vehicleRestrictions</code></a> 
 
   </div>
 
@@ -692,6 +715,11 @@ TrafficIncident provides details about a traffic incident.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-trafficincident-restrictedvehiclecategory">RestrictedVehicleCategory</a>
+  - <a href="sdk-for-ios-explore-classes-trafficincident-vehiclerestriction">VehicleRestriction</a>
+
   </div>
 
   </div>
@@ -700,7 +728,7 @@ TrafficIncident provides details about a traffic incident.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15TrafficIncidentC25RestrictedVehicleCategoryO"></span>` `<span id="//apple_ref/swift/Enum/RestrictedVehicleCategory" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-trafficincident#/s:7heresdk15TrafficIncidentC25RestrictedVehicleCategoryO" class="token"><code>RestrictedVehicleCategory</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15TrafficIncidentC25RestrictedVehicleCategoryO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-RestrictedVehicleCategory" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-trafficincident#sdk-for-ios-explore-s-7heresdk15TrafficIncidentC25RestrictedVehicleCategoryO" class="token"><code>RestrictedVehicleCategory</code></a> 
 
   </div>
 
@@ -718,7 +746,7 @@ TrafficIncident provides details about a traffic incident.
 
   <div class="abstract">
 
-  The vehicle categories that can be restricted. Note, a vehicle can belong to several categories (e.g. a passenger motor car belongs to <a href="sdk-for-ios-explore-classes-trafficincident-restrictedvehiclecategory#/s:7heresdk15TrafficIncidentC25RestrictedVehicleCategoryO3caryA2EmF">`TrafficIncident.RestrictedVehicleCategory.car`</a>, <a href="sdk-for-ios-explore-classes-trafficincident-restrictedvehiclecategory#/s:7heresdk15TrafficIncidentC25RestrictedVehicleCategoryO05motorE0yA2EmF">`TrafficIncident.RestrictedVehicleCategory.motorVehicle`</a>, and <a href="sdk-for-ios-explore-classes-trafficincident-restrictedvehiclecategory#/s:7heresdk15TrafficIncidentC25RestrictedVehicleCategoryO3allyA2EmF">`TrafficIncident.RestrictedVehicleCategory.all`</a>). A vehicle is restricted if it belongs to the category presented in the map <a href="sdk-for-ios-explore-classes-trafficincident#/s:7heresdk15TrafficIncidentC19vehicleRestrictionsSDyAC25RestrictedVehicleCategoryOAC0G11RestrictionVGvp">`TrafficIncident.vehicleRestrictions`</a> and at least one of the vehicle properties is under the matching <a href="sdk-for-ios-explore-classes-trafficincident-vehiclerestriction">`TrafficIncident.VehicleRestriction`</a>.
+  The vehicle categories that can be restricted. Note, a vehicle can belong to several categories (e.g. a passenger motor car belongs to <a href="sdk-for-ios-explore-classes-trafficincident-restrictedvehiclecategory#sdk-for-ios-explore-s-7heresdk15TrafficIncidentC25RestrictedVehicleCategoryO3caryA2EmF">`TrafficIncident.RestrictedVehicleCategory.car`</a>, <a href="sdk-for-ios-explore-classes-trafficincident-restrictedvehiclecategory#sdk-for-ios-explore-s-7heresdk15TrafficIncidentC25RestrictedVehicleCategoryO05motorE0yA2EmF">`TrafficIncident.RestrictedVehicleCategory.motorVehicle`</a>, and <a href="sdk-for-ios-explore-classes-trafficincident-restrictedvehiclecategory#sdk-for-ios-explore-s-7heresdk15TrafficIncidentC25RestrictedVehicleCategoryO3allyA2EmF">`TrafficIncident.RestrictedVehicleCategory.all`</a>). A vehicle is restricted if it belongs to the category presented in the map <a href="sdk-for-ios-explore-classes-trafficincident#sdk-for-ios-explore-s-7heresdk15TrafficIncidentC19vehicleRestrictionsSDyAC25RestrictedVehicleCategoryOAC0G11RestrictionVGvp">`TrafficIncident.vehicleRestrictions`</a> and at least one of the vehicle properties is under the matching <a href="sdk-for-ios-explore-classes-trafficincident-vehiclerestriction">`TrafficIncident.VehicleRestriction`</a>.
 
   <a href="sdk-for-ios-explore-classes-trafficincident-restrictedvehiclecategory" class="slightly-smaller">See more</a>
 
@@ -746,7 +774,7 @@ TrafficIncident provides details about a traffic incident.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15TrafficIncidentC18VehicleRestrictionV"></span>` `<span id="//apple_ref/swift/Struct/VehicleRestriction" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-trafficincident#/s:7heresdk15TrafficIncidentC18VehicleRestrictionV" class="token"><code>VehicleRestriction</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15TrafficIncidentC18VehicleRestrictionV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-VehicleRestriction" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-trafficincident#sdk-for-ios-explore-s-7heresdk15TrafficIncidentC18VehicleRestrictionV" class="token"><code>VehicleRestriction</code></a> 
 
   </div>
 

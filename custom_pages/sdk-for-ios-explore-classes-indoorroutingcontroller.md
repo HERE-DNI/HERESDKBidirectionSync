@@ -36,7 +36,7 @@ Note: This feature is in BETA state and thus there can be bugs and unexpected be
 
 - <div>
 
-      init(_: mapView: )
+   <span id="sdk-for-ios-explore-s-7heresdk23IndoorRoutingControllerC_7mapViewAcA8VenueMapC_AA0hF4Base_ptcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-_-mapView" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-indoorroutingcontroller#sdk-for-ios-explore-s-7heresdk23IndoorRoutingControllerC_7mapViewAcA8VenueMapC_AA0hF4Base_ptcfc" class="token"><code>init(_:</code><wbr></wbr><code>mapView:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -67,12 +67,15 @@ Note: This feature is in BETA state and thus there can be bugs and unexpected be
   Swift
 
   ``` highlight
-  public init ( _ venueMap : VenueMap , mapView : MapViewBase )
+  public init(_ venueMap: VenueMap, mapView: MapViewBase)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-venuemap">VenueMap</a>
+  - <a href="sdk-for-ios-explore-protocols-mapviewbase">MapViewBase</a>
 
   </div>
 
@@ -109,7 +112,7 @@ Note: This feature is in BETA state and thus there can be bugs and unexpected be
 
 - <div>
 
-      showRoute(route: style: )
+   <span id="sdk-for-ios-explore-s-7heresdk23IndoorRoutingControllerC9showRoute5route5styleyAA0F0C_AA0bF5StyleCtF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-showRoute-route-style" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-indoorroutingcontroller#sdk-for-ios-explore-s-7heresdk23IndoorRoutingControllerC9showRoute5route5styleyAA0F0C_AA0bF5StyleCtF" class="token"><code>showRoute(route:</code><wbr></wbr><code>style:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -140,12 +143,15 @@ Note: This feature is in BETA state and thus there can be bugs and unexpected be
   Swift
 
   ``` highlight
-  public func showRoute ( route : Route , style : IndoorRouteStyle )
+  public func showRoute(route: Route, style: IndoorRouteStyle)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-route">Route</a>
+  - <a href="sdk-for-ios-explore-classes-indoorroutestyle">IndoorRouteStyle</a>
 
   </div>
 
@@ -182,7 +188,7 @@ Note: This feature is in BETA state and thus there can be bugs and unexpected be
 
 - <div>
 
-      hideRoute()
+   <span id="sdk-for-ios-explore-s-7heresdk23IndoorRoutingControllerC9hideRouteyyF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-hideRoute" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-indoorroutingcontroller#sdk-for-ios-explore-s-7heresdk23IndoorRoutingControllerC9hideRouteyyF" class="token"><code>hideRoute()</code></a> 
 
   </div>
 
@@ -213,10 +219,8 @@ Note: This feature is in BETA state and thus there can be bugs and unexpected be
   Swift
 
   ``` highlight
-  public func hideRoute ()
+  public func hideRoute()
   ```
-
-  </pre>
 
   </div>
 

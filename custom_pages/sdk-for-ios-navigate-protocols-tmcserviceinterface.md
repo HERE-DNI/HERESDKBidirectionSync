@@ -27,7 +27,7 @@ Contains all outgoing dependencies to the client side.
 
 - <div>
 
-      requestTMCService(tmcServiceRequest: )
+   <span id="sdk-for-ios-navigate-s-7heresdk19TMCServiceInterfaceP07requestB017tmcServiceRequestyAA0bG0V_tF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-requestTMCService-tmcServiceRequest" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-protocols-tmcserviceinterface#sdk-for-ios-navigate-s-7heresdk19TMCServiceInterfaceP07requestB017tmcServiceRequestyAA0bG0V_tF" class="token"><code>requestTMCService(tmcServiceRequest:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -58,12 +58,14 @@ Contains all outgoing dependencies to the client side.
   Swift
 
   ``` highlight
-  func requestTMCService ( tmcServiceRequest : TMCServiceRequest )
+  func requestTMCService(tmcServiceRequest: TMCServiceRequest)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-tmcservicerequest">TMCServiceRequest</a>
 
   </div>
 
@@ -94,7 +96,7 @@ Contains all outgoing dependencies to the client side.
 
 - <div>
 
-      getTMCPreferredSids(tmcPreferredSidsRequest: )
+   <span id="sdk-for-ios-navigate-s-7heresdk19TMCServiceInterfaceP19getTMCPreferredSids012tmcPreferredF7RequestSays5UInt8VGAA0efI0V_tF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-getTMCPreferredSids-tmcPreferredSidsRequest" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-protocols-tmcserviceinterface#sdk-for-ios-navigate-s-7heresdk19TMCServiceInterfaceP19getTMCPreferredSids012tmcPreferredF7RequestSays5UInt8VGAA0efI0V_tF" class="token"><code>getTMCPreferredSids(tmcPreferredSidsRequest:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -125,12 +127,14 @@ Contains all outgoing dependencies to the client side.
   Swift
 
   ``` highlight
-  func getTMCPreferredSids ( tmcPreferredSidsRequest : TMCPreferredSidsRequest ) -> [ UInt8 ]
+  func getTMCPreferredSids(tmcPreferredSidsRequest: TMCPreferredSidsRequest) -> [UInt8]
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-tmcpreferredsidsrequest">TMCPreferredSidsRequest</a>
 
   </div>
 
@@ -169,7 +173,7 @@ Contains all outgoing dependencies to the client side.
 
 - <div>
 
-      getRDSEncryptionKeys(rdsEncryptionKeysRequest: )
+   <span id="sdk-for-ios-navigate-s-7heresdk19TMCServiceInterfaceP20getRDSEncryptionKeys013rdsEncryptionF7RequestSayAA0E3KeyVGAA0efI0V_tF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-getRDSEncryptionKeys-rdsEncryptionKeysRequest" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-protocols-tmcserviceinterface#sdk-for-ios-navigate-s-7heresdk19TMCServiceInterfaceP20getRDSEncryptionKeys013rdsEncryptionF7RequestSayAA0E3KeyVGAA0efI0V_tF" class="token"><code>getRDSEncryptionKeys(rdsEncryptionKeysRequest:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -200,12 +204,15 @@ Contains all outgoing dependencies to the client side.
   Swift
 
   ``` highlight
-  func getRDSEncryptionKeys ( rdsEncryptionKeysRequest : RDSEncryptionKeysRequest ) -> [ RDSEncryptionKey ]
+  func getRDSEncryptionKeys(rdsEncryptionKeysRequest: RDSEncryptionKeysRequest) -> [RDSEncryptionKey]
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-rdsencryptionkeysrequest">RDSEncryptionKeysRequest</a>
+  - <a href="sdk-for-ios-navigate-structs-rdsencryptionkey">RDSEncryptionKey</a>
 
   </div>
 

@@ -27,7 +27,7 @@ Explains an issue encountered in a <a href="sdk-for-ios-explore-classes-section"
 
 - <div>
 
-  ` `<span id="/s:7heresdk13SectionNoticeV4codeAA0bC4CodeOvp"></span>` `<span id="//apple_ref/swift/Property/code" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-sectionnotice#/s:7heresdk13SectionNoticeV4codeAA0bC4CodeOvp" class="token"><code>code</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13SectionNoticeV4codeAA0bC4CodeOvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-code" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-sectionnotice#sdk-for-ios-explore-s-7heresdk13SectionNoticeV4codeAA0bC4CodeOvp" class="token"><code>code</code></a> 
 
   </div>
 
@@ -63,6 +63,10 @@ Explains an issue encountered in a <a href="sdk-for-ios-explore-classes-section"
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-sectionnoticecode">SectionNoticeCode</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ Explains an issue encountered in a <a href="sdk-for-ios-explore-classes-section"
 
 - <div>
 
-  ` `<span id="/s:7heresdk13SectionNoticeV8severityAA0C8SeverityOvp"></span>` `<span id="//apple_ref/swift/Property/severity" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-sectionnotice#/s:7heresdk13SectionNoticeV8severityAA0C8SeverityOvp" class="token"><code>severity</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13SectionNoticeV8severityAA0C8SeverityOvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-severity" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-sectionnotice#sdk-for-ios-explore-s-7heresdk13SectionNoticeV8severityAA0C8SeverityOvp" class="token"><code>severity</code></a> 
 
   </div>
 
@@ -107,6 +111,10 @@ Explains an issue encountered in a <a href="sdk-for-ios-explore-classes-section"
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-noticeseverity">NoticeSeverity</a>
+
   </div>
 
   </div>
@@ -115,7 +123,7 @@ Explains an issue encountered in a <a href="sdk-for-ios-explore-classes-section"
 
 - <div>
 
-  ` `<span id="/s:7heresdk13SectionNoticeV20violatedRestrictionsSayAA19ViolatedRestrictionVGvp"></span>` `<span id="//apple_ref/swift/Property/violatedRestrictions" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-sectionnotice#/s:7heresdk13SectionNoticeV20violatedRestrictionsSayAA19ViolatedRestrictionVGvp" class="token"><code>violatedRestrictions</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13SectionNoticeV20violatedRestrictionsSayAA19ViolatedRestrictionVGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-violatedRestrictions" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-sectionnotice#sdk-for-ios-explore-s-7heresdk13SectionNoticeV20violatedRestrictionsSayAA19ViolatedRestrictionVGvp" class="token"><code>violatedRestrictions</code></a> 
 
   </div>
 
@@ -133,7 +141,7 @@ Explains an issue encountered in a <a href="sdk-for-ios-explore-classes-section"
 
   <div class="abstract">
 
-  The following property `violated_restrictions` contains the notice detail information. Only three types of restrictions can have notice details: time dependent restriction, vehicle restriction and transport mode restriction. There is no one-to-one match of the <a href="sdk-for-ios-explore-structs-sectionnotice#/s:7heresdk13SectionNoticeV4codeAA0bC4CodeOvp">`SectionNotice.code`</a> and these three restriction types. For example, if <a href="sdk-for-ios-explore-structs-sectionnotice#/s:7heresdk13SectionNoticeV4codeAA0bC4CodeOvp">`SectionNotice.code`</a> is <a href="sdk-for-ios-explore-enums-sectionnoticecode#/s:7heresdk17SectionNoticeCodeO26violatedVehicleRestrictionyA2CmF">`SectionNoticeCode.violatedVehicleRestriction`</a>, then it can be either vehicle restriction or transport mode restriction. If <a href="sdk-for-ios-explore-structs-sectionnotice#/s:7heresdk13SectionNoticeV4codeAA0bC4CodeOvp">`SectionNotice.code`</a> is <a href="sdk-for-ios-explore-enums-sectionnoticecode#/s:7heresdk17SectionNoticeCodeO15seasonalClosureyA2CmF">`SectionNoticeCode.seasonalClosure`</a>, then it is time dependent restriction. If the section notice is none of the above-mentioned three types, then this will be an empty list.
+  The following property `violated_restrictions` contains the notice detail information. Only three types of restrictions can have notice details: time dependent restriction, vehicle restriction and transport mode restriction. There is no one-to-one match of the <a href="sdk-for-ios-explore-structs-sectionnotice#sdk-for-ios-explore-s-7heresdk13SectionNoticeV4codeAA0bC4CodeOvp">`SectionNotice.code`</a> and these three restriction types. For example, if <a href="sdk-for-ios-explore-structs-sectionnotice#sdk-for-ios-explore-s-7heresdk13SectionNoticeV4codeAA0bC4CodeOvp">`SectionNotice.code`</a> is <a href="sdk-for-ios-explore-enums-sectionnoticecode#sdk-for-ios-explore-s-7heresdk17SectionNoticeCodeO26violatedVehicleRestrictionyA2CmF">`SectionNoticeCode.violatedVehicleRestriction`</a>, then it can be either vehicle restriction or transport mode restriction. If <a href="sdk-for-ios-explore-structs-sectionnotice#sdk-for-ios-explore-s-7heresdk13SectionNoticeV4codeAA0bC4CodeOvp">`SectionNotice.code`</a> is <a href="sdk-for-ios-explore-enums-sectionnoticecode#sdk-for-ios-explore-s-7heresdk17SectionNoticeCodeO15seasonalClosureyA2CmF">`SectionNoticeCode.seasonalClosure`</a>, then it is time dependent restriction. If the section notice is none of the above-mentioned three types, then this will be an empty list.
 
   </div>
 
@@ -151,6 +159,10 @@ Explains an issue encountered in a <a href="sdk-for-ios-explore-classes-section"
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-violatedrestriction">ViolatedRestriction</a>
+
   </div>
 
   </div>
@@ -159,7 +171,7 @@ Explains an issue encountered in a <a href="sdk-for-ios-explore-classes-section"
 
 - <div>
 
-      init(code: severity: violatedRestrictions: )
+   <span id="sdk-for-ios-explore-s-7heresdk13SectionNoticeV4code8severity20violatedRestrictionsAcA0bC4CodeO_AA0C8SeverityOSayAA19ViolatedRestrictionVGtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-code-severity-violatedRestrictions" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-sectionnotice#sdk-for-ios-explore-s-7heresdk13SectionNoticeV4code8severity20violatedRestrictionsAcA0bC4CodeO_AA0C8SeverityOSayAA19ViolatedRestrictionVGtcfc" class="token"><code>init(code:</code><wbr></wbr><code>severity:</code><wbr></wbr><code>violatedRestrictions:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -190,12 +202,16 @@ Explains an issue encountered in a <a href="sdk-for-ios-explore-classes-section"
   Swift
 
   ``` highlight
-  public init ( code : SectionNoticeCode , severity : NoticeSeverity , violatedRestrictions : [ ViolatedRestriction ] = [])
+  public init(code: SectionNoticeCode, severity: NoticeSeverity, violatedRestrictions: [ViolatedRestriction] = [])
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-sectionnoticecode">SectionNoticeCode</a>
+  - <a href="sdk-for-ios-explore-enums-noticeseverity">NoticeSeverity</a>
+  - <a href="sdk-for-ios-explore-structs-violatedrestriction">ViolatedRestriction</a>
 
   </div>
 

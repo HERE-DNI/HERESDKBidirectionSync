@@ -29,7 +29,7 @@ Represents a segment in an <a href="sdk-for-ios-explore-structs-electronichorizo
 
 - <div>
 
-  ` `<span id="/s:7heresdk24ElectronicHorizonSegmentV9segmentIdAA0bcdF0Vvp"></span>` `<span id="//apple_ref/swift/Property/segmentId" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-electronichorizonsegment#/s:7heresdk24ElectronicHorizonSegmentV9segmentIdAA0bcdF0Vvp" class="token"><code>segmentId</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk24ElectronicHorizonSegmentV9segmentIdAA0bcdF0Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-segmentId" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-electronichorizonsegment#sdk-for-ios-explore-s-7heresdk24ElectronicHorizonSegmentV9segmentIdAA0bcdF0Vvp" class="token"><code>segmentId</code></a> 
 
   </div>
 
@@ -65,6 +65,10 @@ Represents a segment in an <a href="sdk-for-ios-explore-structs-electronichorizo
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-electronichorizonsegmentid">ElectronicHorizonSegmentId</a>
+
   </div>
 
   </div>
@@ -73,7 +77,7 @@ Represents a segment in an <a href="sdk-for-ios-explore-structs-electronichorizo
 
 - <div>
 
-  ` `<span id="/s:7heresdk24ElectronicHorizonSegmentV15parentPathIndexs5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/parentPathIndex" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-electronichorizonsegment#/s:7heresdk24ElectronicHorizonSegmentV15parentPathIndexs5Int32Vvp" class="token"><code>parentPathIndex</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk24ElectronicHorizonSegmentV15parentPathIndexs5Int32Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-parentPathIndex" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-electronichorizonsegment#sdk-for-ios-explore-s-7heresdk24ElectronicHorizonSegmentV15parentPathIndexs5Int32Vvp" class="token"><code>parentPathIndex</code></a> 
 
   </div>
 
@@ -117,7 +121,7 @@ Represents a segment in an <a href="sdk-for-ios-explore-structs-electronichorizo
 
 - <div>
 
-  ` `<span id="/s:7heresdk24ElectronicHorizonSegmentV19startOffsetInMetersSdvp"></span>` `<span id="//apple_ref/swift/Property/startOffsetInMeters" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-electronichorizonsegment#/s:7heresdk24ElectronicHorizonSegmentV19startOffsetInMetersSdvp" class="token"><code>startOffsetInMeters</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk24ElectronicHorizonSegmentV19startOffsetInMetersSdvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-startOffsetInMeters" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-electronichorizonsegment#sdk-for-ios-explore-s-7heresdk24ElectronicHorizonSegmentV19startOffsetInMetersSdvp" class="token"><code>startOffsetInMeters</code></a> 
 
   </div>
 
@@ -161,7 +165,7 @@ Represents a segment in an <a href="sdk-for-ios-explore-structs-electronichorizo
 
 - <div>
 
-  ` `<span id="/s:7heresdk24ElectronicHorizonSegmentV17endOffsetInMetersSdvp"></span>` `<span id="//apple_ref/swift/Property/endOffsetInMeters" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-electronichorizonsegment#/s:7heresdk24ElectronicHorizonSegmentV17endOffsetInMetersSdvp" class="token"><code>endOffsetInMeters</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk24ElectronicHorizonSegmentV17endOffsetInMetersSdvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-endOffsetInMeters" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-electronichorizonsegment#sdk-for-ios-explore-s-7heresdk24ElectronicHorizonSegmentV17endOffsetInMetersSdvp" class="token"><code>endOffsetInMeters</code></a> 
 
   </div>
 
@@ -205,7 +209,7 @@ Represents a segment in an <a href="sdk-for-ios-explore-structs-electronichorizo
 
 - <div>
 
-  ` `<span id="/s:7heresdk24ElectronicHorizonSegmentV15sidePathIndexesSays5Int32VGvp"></span>` `<span id="//apple_ref/swift/Property/sidePathIndexes" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-electronichorizonsegment#/s:7heresdk24ElectronicHorizonSegmentV15sidePathIndexesSays5Int32VGvp" class="token"><code>sidePathIndexes</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk24ElectronicHorizonSegmentV15sidePathIndexesSays5Int32VGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-sidePathIndexes" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-electronichorizonsegment#sdk-for-ios-explore-s-7heresdk24ElectronicHorizonSegmentV15sidePathIndexesSays5Int32VGvp" class="token"><code>sidePathIndexes</code></a> 
 
   </div>
 
@@ -249,7 +253,7 @@ Represents a segment in an <a href="sdk-for-ios-explore-structs-electronichorizo
 
 - <div>
 
-      init(segmentId: parentPathIndex: startOffsetInMeters: endOffsetInMeters: sidePathIndexes: )
+   <span id="sdk-for-ios-explore-s-7heresdk24ElectronicHorizonSegmentV9segmentId15parentPathIndex19startOffsetInMeters03endklM004sideH7IndexesAcA0bcdF0V_s5Int32VS2dSayALGtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-segmentId-parentPathIndex-startOffsetInMeters-endOffsetInMeters-sidePathIndexes" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-electronichorizonsegment#sdk-for-ios-explore-s-7heresdk24ElectronicHorizonSegmentV9segmentId15parentPathIndex19startOffsetInMeters03endklM004sideH7IndexesAcA0bcdF0V_s5Int32VS2dSayALGtcfc" class="token"><code>init(segmentId:</code><wbr></wbr><code>parentPathIndex:</code><wbr></wbr><code>startOffsetInMeters:</code><wbr></wbr><code>endOffsetInMeters:</code><wbr></wbr><code>sidePathIndexes:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -282,12 +286,14 @@ Represents a segment in an <a href="sdk-for-ios-explore-structs-electronichorizo
   Swift
 
   ``` highlight
-  public init ( segmentId : ElectronicHorizonSegmentId , parentPathIndex : Int32 , startOffsetInMeters : Double , endOffsetInMeters : Double , sidePathIndexes : [ Int32 ] = [])
+  public init(segmentId: ElectronicHorizonSegmentId, parentPathIndex: Int32, startOffsetInMeters: Double, endOffsetInMeters: Double, sidePathIndexes: [Int32] = [])
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-electronichorizonsegmentid">ElectronicHorizonSegmentId</a>
 
   </div>
 

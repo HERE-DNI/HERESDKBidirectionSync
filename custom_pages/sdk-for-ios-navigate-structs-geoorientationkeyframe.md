@@ -27,7 +27,7 @@ A GeoOrientationKeyframe consists of a GeoOrientation (camera orientation) and a
 
 - <div>
 
-  ` `<span id="/s:7heresdk22GeoOrientationKeyframeV5valueAA0bC0Vvp"></span>` `<span id="//apple_ref/swift/Property/value" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-geoorientationkeyframe#/s:7heresdk22GeoOrientationKeyframeV5valueAA0bC0Vvp" class="token"><code>value</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk22GeoOrientationKeyframeV5valueAA0bC0Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-value" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-geoorientationkeyframe#sdk-for-ios-navigate-s-7heresdk22GeoOrientationKeyframeV5valueAA0bC0Vvp" class="token"><code>value</code></a> 
 
   </div>
 
@@ -63,6 +63,10 @@ A GeoOrientationKeyframe consists of a GeoOrientation (camera orientation) and a
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-geoorientation">GeoOrientation</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ A GeoOrientationKeyframe consists of a GeoOrientation (camera orientation) and a
 
 - <div>
 
-  ` `<span id="/s:7heresdk22GeoOrientationKeyframeV8durationSdvp"></span>` `<span id="//apple_ref/swift/Property/duration" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-geoorientationkeyframe#/s:7heresdk22GeoOrientationKeyframeV8durationSdvp" class="token"><code>duration</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk22GeoOrientationKeyframeV8durationSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-duration" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-geoorientationkeyframe#sdk-for-ios-navigate-s-7heresdk22GeoOrientationKeyframeV8durationSdvp" class="token"><code>duration</code></a> 
 
   </div>
 
@@ -115,7 +119,7 @@ A GeoOrientationKeyframe consists of a GeoOrientation (camera orientation) and a
 
 - <div>
 
-      init(value: duration: )
+   <span id="sdk-for-ios-navigate-s-7heresdk22GeoOrientationKeyframeV5value8durationAcA0bC0V_Sdtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-value-duration" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-geoorientationkeyframe#sdk-for-ios-navigate-s-7heresdk22GeoOrientationKeyframeV5value8durationAcA0bC0V_Sdtcfc" class="token"><code>init(value:</code><wbr></wbr><code>duration:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -146,12 +150,14 @@ A GeoOrientationKeyframe consists of a GeoOrientation (camera orientation) and a
   Swift
 
   ``` highlight
-  public init ( value : GeoOrientation , duration : TimeInterval )
+  public init(value: GeoOrientation, duration: TimeInterval)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-geoorientation">GeoOrientation</a>
 
   </div>
 

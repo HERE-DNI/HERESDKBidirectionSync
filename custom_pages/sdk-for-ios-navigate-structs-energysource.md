@@ -27,7 +27,7 @@ Energy source of EV charging point. EnergyMix contains a list of this representi
 
 - <div>
 
-  ` `<span id="/s:7heresdk12EnergySourceV6sourceAA0bC4TypeOvp"></span>` `<span id="//apple_ref/swift/Property/source" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-energysource#/s:7heresdk12EnergySourceV6sourceAA0bC4TypeOvp" class="token"><code>source</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12EnergySourceV6sourceAA0bC4TypeOvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-source" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-energysource#sdk-for-ios-navigate-s-7heresdk12EnergySourceV6sourceAA0bC4TypeOvp" class="token"><code>source</code></a> 
 
   </div>
 
@@ -63,6 +63,10 @@ Energy source of EV charging point. EnergyMix contains a list of this representi
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-energysourcetype">EnergySourceType</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ Energy source of EV charging point. EnergyMix contains a list of this representi
 
 - <div>
 
-  ` `<span id="/s:7heresdk12EnergySourceV10percentageSdvp"></span>` `<span id="//apple_ref/swift/Property/percentage" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-energysource#/s:7heresdk12EnergySourceV10percentageSdvp" class="token"><code>percentage</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12EnergySourceV10percentageSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-percentage" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-energysource#sdk-for-ios-navigate-s-7heresdk12EnergySourceV10percentageSdvp" class="token"><code>percentage</code></a> 
 
   </div>
 
@@ -115,7 +119,7 @@ Energy source of EV charging point. EnergyMix contains a list of this representi
 
 - <div>
 
-      init(source: percentage: )
+   <span id="sdk-for-ios-navigate-s-7heresdk12EnergySourceV6source10percentageAcA0bC4TypeO_Sdtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-source-percentage" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-energysource#sdk-for-ios-navigate-s-7heresdk12EnergySourceV6source10percentageAcA0bC4TypeO_Sdtcfc" class="token"><code>init(source:</code><wbr></wbr><code>percentage:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -146,12 +150,14 @@ Energy source of EV charging point. EnergyMix contains a list of this representi
   Swift
 
   ``` highlight
-  public init ( source : EnergySourceType = EnergySourceType . generalGreen , percentage : Double = 0.0 )
+  public init(source: EnergySourceType = EnergySourceType.generalGreen, percentage: Double = 0.0)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-energysourcetype">EnergySourceType</a>
 
   </div>
 

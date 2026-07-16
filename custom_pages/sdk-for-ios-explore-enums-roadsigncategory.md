@@ -27,7 +27,7 @@ Road sign category defining a general purpose of the sign.
 
 - <div>
 
-  ` `<span id="/s:7heresdk16RoadSignCategoryO7unknownyA2CmF"></span>` `<span id="//apple_ref/swift/Element/unknown" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-roadsigncategory#/s:7heresdk16RoadSignCategoryO7unknownyA2CmF" class="token"><code>unknown</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16RoadSignCategoryO7unknownyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-unknown" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-roadsigncategory#sdk-for-ios-explore-s-7heresdk16RoadSignCategoryO7unknownyA2CmF" class="token"><code>unknown</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Road sign category defining a general purpose of the sign.
 
 - <div>
 
-  ` `<span id="/s:7heresdk16RoadSignCategoryO010regulatoryC0yA2CmF"></span>` `<span id="//apple_ref/swift/Element/regulatorySign" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-roadsigncategory#/s:7heresdk16RoadSignCategoryO010regulatoryC0yA2CmF" class="token"><code>regulatorySign</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16RoadSignCategoryO010regulatoryC0yA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-regulatorySign" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-roadsigncategory#sdk-for-ios-explore-s-7heresdk16RoadSignCategoryO010regulatoryC0yA2CmF" class="token"><code>regulatorySign</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Road sign category defining a general purpose of the sign.
 
 - <div>
 
-  ` `<span id="/s:7heresdk16RoadSignCategoryO011informativeC0yA2CmF"></span>` `<span id="//apple_ref/swift/Element/informativeSign" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-roadsigncategory#/s:7heresdk16RoadSignCategoryO011informativeC0yA2CmF" class="token"><code>informativeSign</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16RoadSignCategoryO011informativeC0yA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-informativeSign" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-roadsigncategory#sdk-for-ios-explore-s-7heresdk16RoadSignCategoryO011informativeC0yA2CmF" class="token"><code>informativeSign</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Road sign category defining a general purpose of the sign.
 
 - <div>
 
-  ` `<span id="/s:7heresdk16RoadSignCategoryO07warningC0yA2CmF"></span>` `<span id="//apple_ref/swift/Element/warningSign" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-roadsigncategory#/s:7heresdk16RoadSignCategoryO07warningC0yA2CmF" class="token"><code>warningSign</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16RoadSignCategoryO07warningC0yA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-warningSign" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-roadsigncategory#sdk-for-ios-explore-s-7heresdk16RoadSignCategoryO07warningC0yA2CmF" class="token"><code>warningSign</code></a> 
 
   </div>
 

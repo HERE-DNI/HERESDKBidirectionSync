@@ -29,7 +29,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-  ` `<span id="/s:7heresdk10MapContextC26MemoryManagementResultCodeO7appliedyA2EmF"></span>` `<span id="//apple_ref/swift/Element/applied" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-mapcontext-memorymanagementresultcode#/s:7heresdk10MapContextC26MemoryManagementResultCodeO7appliedyA2EmF" class="token"><code>applied</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10MapContextC26MemoryManagementResultCodeO7appliedyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-applied" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapcontext-memorymanagementresultcode#sdk-for-ios-explore-s-7heresdk10MapContextC26MemoryManagementResultCodeO7appliedyA2EmF" class="token"><code>applied</code></a> 
 
   </div>
 
@@ -73,7 +73,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-  ` `<span id="/s:7heresdk10MapContextC26MemoryManagementResultCodeO012tileCacheCpuD13LimitExceededyA2EmF"></span>` `<span id="//apple_ref/swift/Element/tileCacheCpuMemoryLimitExceeded" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-mapcontext-memorymanagementresultcode#/s:7heresdk10MapContextC26MemoryManagementResultCodeO012tileCacheCpuD13LimitExceededyA2EmF" class="token"><code>tileCacheCpuMemoryLimitExceeded</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10MapContextC26MemoryManagementResultCodeO012tileCacheCpuD13LimitExceededyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-tileCacheCpuMemoryLimitExceeded" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapcontext-memorymanagementresultcode#sdk-for-ios-explore-s-7heresdk10MapContextC26MemoryManagementResultCodeO012tileCacheCpuD13LimitExceededyA2EmF" class="token"><code>tileCacheCpuMemoryLimitExceeded</code></a> 
 
   </div>
 
@@ -117,7 +117,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-  ` `<span id="/s:7heresdk10MapContextC26MemoryManagementResultCodeO05videoD13LimitExceededyA2EmF"></span>` `<span id="//apple_ref/swift/Element/videoMemoryLimitExceeded" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-mapcontext-memorymanagementresultcode#/s:7heresdk10MapContextC26MemoryManagementResultCodeO05videoD13LimitExceededyA2EmF" class="token"><code>videoMemoryLimitExceeded</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10MapContextC26MemoryManagementResultCodeO05videoD13LimitExceededyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-videoMemoryLimitExceeded" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapcontext-memorymanagementresultcode#sdk-for-ios-explore-s-7heresdk10MapContextC26MemoryManagementResultCodeO05videoD13LimitExceededyA2EmF" class="token"><code>videoMemoryLimitExceeded</code></a> 
 
   </div>
 
@@ -161,7 +161,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-  ` `<span id="/s:7heresdk10MapContextC26MemoryManagementResultCodeO010failedBothD14LimitsExceededyA2EmF"></span>` `<span id="//apple_ref/swift/Element/failedBothMemoryLimitsExceeded" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-mapcontext-memorymanagementresultcode#/s:7heresdk10MapContextC26MemoryManagementResultCodeO010failedBothD14LimitsExceededyA2EmF" class="token"><code>failedBothMemoryLimitsExceeded</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10MapContextC26MemoryManagementResultCodeO010failedBothD14LimitsExceededyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-failedBothMemoryLimitsExceeded" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapcontext-memorymanagementresultcode#sdk-for-ios-explore-s-7heresdk10MapContextC26MemoryManagementResultCodeO010failedBothD14LimitsExceededyA2EmF" class="token"><code>failedBothMemoryLimitsExceeded</code></a> 
 
   </div>
 
@@ -205,7 +205,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-  ` `<span id="/s:7heresdk10MapContextC26MemoryManagementResultCodeO6failedyA2EmF"></span>` `<span id="//apple_ref/swift/Element/failed" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-mapcontext-memorymanagementresultcode#/s:7heresdk10MapContextC26MemoryManagementResultCodeO6failedyA2EmF" class="token"><code>failed</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10MapContextC26MemoryManagementResultCodeO6failedyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-failed" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapcontext-memorymanagementresultcode#sdk-for-ios-explore-s-7heresdk10MapContextC26MemoryManagementResultCodeO6failedyA2EmF" class="token"><code>failed</code></a> 
 
   </div>
 

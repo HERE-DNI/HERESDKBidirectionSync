@@ -27,7 +27,7 @@ Identifiers for different optimizations that can be used during the route calcul
 
 - <div>
 
-  ` `<span id="/s:7heresdk16OptimizationModeO7fastestyA2CmF"></span>` `<span id="//apple_ref/swift/Element/fastest" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-optimizationmode#/s:7heresdk16OptimizationModeO7fastestyA2CmF" class="token"><code>fastest</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16OptimizationModeO7fastestyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-fastest" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-optimizationmode#sdk-for-ios-navigate-s-7heresdk16OptimizationModeO7fastestyA2CmF" class="token"><code>fastest</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Identifiers for different optimizations that can be used during the route calcul
 
 - <div>
 
-  ` `<span id="/s:7heresdk16OptimizationModeO8shortestyA2CmF"></span>` `<span id="//apple_ref/swift/Element/shortest" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-optimizationmode#/s:7heresdk16OptimizationModeO8shortestyA2CmF" class="token"><code>shortest</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16OptimizationModeO8shortestyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-shortest" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-optimizationmode#sdk-for-ios-navigate-s-7heresdk16OptimizationModeO8shortestyA2CmF" class="token"><code>shortest</code></a> 
 
   </div>
 

@@ -29,7 +29,7 @@ Type of vehicle restriction.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15RestrictionTypeO6weightyA2CmF"></span>` `<span id="//apple_ref/swift/Element/weight" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-restrictiontype#/s:7heresdk15RestrictionTypeO6weightyA2CmF" class="token"><code>weight</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15RestrictionTypeO6weightyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-weight" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-restrictiontype#sdk-for-ios-navigate-s-7heresdk15RestrictionTypeO6weightyA2CmF" class="token"><code>weight</code></a> 
 
   </div>
 
@@ -73,7 +73,7 @@ Type of vehicle restriction.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15RestrictionTypeO11grossWeightyA2CmF"></span>` `<span id="//apple_ref/swift/Element/grossWeight" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-restrictiontype#/s:7heresdk15RestrictionTypeO11grossWeightyA2CmF" class="token"><code>grossWeight</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15RestrictionTypeO11grossWeightyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-grossWeight" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-restrictiontype#sdk-for-ios-navigate-s-7heresdk15RestrictionTypeO11grossWeightyA2CmF" class="token"><code>grossWeight</code></a> 
 
   </div>
 
@@ -117,7 +117,7 @@ Type of vehicle restriction.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15RestrictionTypeO13weightPerAxleyA2CmF"></span>` `<span id="//apple_ref/swift/Element/weightPerAxle" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-restrictiontype#/s:7heresdk15RestrictionTypeO13weightPerAxleyA2CmF" class="token"><code>weightPerAxle</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15RestrictionTypeO13weightPerAxleyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-weightPerAxle" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-restrictiontype#sdk-for-ios-navigate-s-7heresdk15RestrictionTypeO13weightPerAxleyA2CmF" class="token"><code>weightPerAxle</code></a> 
 
   </div>
 
@@ -161,7 +161,7 @@ Type of vehicle restriction.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15RestrictionTypeO15payloadCapacityyA2CmF"></span>` `<span id="//apple_ref/swift/Element/payloadCapacity" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-restrictiontype#/s:7heresdk15RestrictionTypeO15payloadCapacityyA2CmF" class="token"><code>payloadCapacity</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15RestrictionTypeO15payloadCapacityyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-payloadCapacity" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-restrictiontype#sdk-for-ios-navigate-s-7heresdk15RestrictionTypeO15payloadCapacityyA2CmF" class="token"><code>payloadCapacity</code></a> 
 
   </div>
 
@@ -205,7 +205,7 @@ Type of vehicle restriction.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15RestrictionTypeO11emptyWeightyA2CmF"></span>` `<span id="//apple_ref/swift/Element/emptyWeight" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-restrictiontype#/s:7heresdk15RestrictionTypeO11emptyWeightyA2CmF" class="token"><code>emptyWeight</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15RestrictionTypeO11emptyWeightyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-emptyWeight" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-restrictiontype#sdk-for-ios-navigate-s-7heresdk15RestrictionTypeO11emptyWeightyA2CmF" class="token"><code>emptyWeight</code></a> 
 
   </div>
 
@@ -249,7 +249,7 @@ Type of vehicle restriction.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15RestrictionTypeO6heightyA2CmF"></span>` `<span id="//apple_ref/swift/Element/height" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-restrictiontype#/s:7heresdk15RestrictionTypeO6heightyA2CmF" class="token"><code>height</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15RestrictionTypeO6heightyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-height" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-restrictiontype#sdk-for-ios-navigate-s-7heresdk15RestrictionTypeO6heightyA2CmF" class="token"><code>height</code></a> 
 
   </div>
 
@@ -293,7 +293,7 @@ Type of vehicle restriction.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15RestrictionTypeO5widthyA2CmF"></span>` `<span id="//apple_ref/swift/Element/width" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-restrictiontype#/s:7heresdk15RestrictionTypeO5widthyA2CmF" class="token"><code>width</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15RestrictionTypeO5widthyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-width" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-restrictiontype#sdk-for-ios-navigate-s-7heresdk15RestrictionTypeO5widthyA2CmF" class="token"><code>width</code></a> 
 
   </div>
 
@@ -337,7 +337,7 @@ Type of vehicle restriction.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15RestrictionTypeO6lengthyA2CmF"></span>` `<span id="//apple_ref/swift/Element/length" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-restrictiontype#/s:7heresdk15RestrictionTypeO6lengthyA2CmF" class="token"><code>length</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15RestrictionTypeO6lengthyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-length" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-restrictiontype#sdk-for-ios-navigate-s-7heresdk15RestrictionTypeO6lengthyA2CmF" class="token"><code>length</code></a> 
 
   </div>
 
@@ -381,7 +381,7 @@ Type of vehicle restriction.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15RestrictionTypeO38kingpinToRearAxleDistanceInCentimetersyA2CmF"></span>` `<span id="//apple_ref/swift/Element/kingpinToRearAxleDistanceInCentimeters" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-restrictiontype#/s:7heresdk15RestrictionTypeO38kingpinToRearAxleDistanceInCentimetersyA2CmF" class="token"><code>kingpinToRearAxleDistanceInCentimeters</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15RestrictionTypeO38kingpinToRearAxleDistanceInCentimetersyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-kingpinToRearAxleDistanceInCentimeters" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-restrictiontype#sdk-for-ios-navigate-s-7heresdk15RestrictionTypeO38kingpinToRearAxleDistanceInCentimetersyA2CmF" class="token"><code>kingpinToRearAxleDistanceInCentimeters</code></a> 
 
   </div>
 
@@ -425,7 +425,7 @@ Type of vehicle restriction.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15RestrictionTypeO13wheelsPerAxleyA2CmF"></span>` `<span id="//apple_ref/swift/Element/wheelsPerAxle" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-restrictiontype#/s:7heresdk15RestrictionTypeO13wheelsPerAxleyA2CmF" class="token"><code>wheelsPerAxle</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15RestrictionTypeO13wheelsPerAxleyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-wheelsPerAxle" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-restrictiontype#sdk-for-ios-navigate-s-7heresdk15RestrictionTypeO13wheelsPerAxleyA2CmF" class="token"><code>wheelsPerAxle</code></a> 
 
   </div>
 
@@ -469,7 +469,7 @@ Type of vehicle restriction.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15RestrictionTypeO20distanceBetweenAxlesyA2CmF"></span>` `<span id="//apple_ref/swift/Element/distanceBetweenAxles" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-restrictiontype#/s:7heresdk15RestrictionTypeO20distanceBetweenAxlesyA2CmF" class="token"><code>distanceBetweenAxles</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15RestrictionTypeO20distanceBetweenAxlesyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-distanceBetweenAxles" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-restrictiontype#sdk-for-ios-navigate-s-7heresdk15RestrictionTypeO20distanceBetweenAxlesyA2CmF" class="token"><code>distanceBetweenAxles</code></a> 
 
   </div>
 
@@ -513,7 +513,7 @@ Type of vehicle restriction.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15RestrictionTypeO18weightPerAxleCountyA2CmF"></span>` `<span id="//apple_ref/swift/Element/weightPerAxleCount" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-restrictiontype#/s:7heresdk15RestrictionTypeO18weightPerAxleCountyA2CmF" class="token"><code>weightPerAxleCount</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15RestrictionTypeO18weightPerAxleCountyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-weightPerAxleCount" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-restrictiontype#sdk-for-ios-navigate-s-7heresdk15RestrictionTypeO18weightPerAxleCountyA2CmF" class="token"><code>weightPerAxleCount</code></a> 
 
   </div>
 
@@ -531,7 +531,7 @@ Type of vehicle restriction.
 
   <div class="abstract">
 
-  Weight per number of axles, in kilograms. See <a href="sdk-for-ios-navigate-structs-vehiclerestriction#/s:7heresdk18VehicleRestrictionV9axleCountAA12IntegerRangeVSgvp">`VehicleRestriction.axleCount`</a> for information on number of axles.
+  Weight per number of axles, in kilograms. See <a href="sdk-for-ios-navigate-structs-vehiclerestriction#sdk-for-ios-navigate-s-7heresdk18VehicleRestrictionV9axleCountAA12IntegerRangeVSgvp">`VehicleRestriction.axleCount`</a> for information on number of axles.
 
   </div>
 
@@ -557,7 +557,7 @@ Type of vehicle restriction.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15RestrictionTypeO18weightPerAxleGroupyA2CmF"></span>` `<span id="//apple_ref/swift/Element/weightPerAxleGroup" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-restrictiontype#/s:7heresdk15RestrictionTypeO18weightPerAxleGroupyA2CmF" class="token"><code>weightPerAxleGroup</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15RestrictionTypeO18weightPerAxleGroupyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-weightPerAxleGroup" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-restrictiontype#sdk-for-ios-navigate-s-7heresdk15RestrictionTypeO18weightPerAxleGroupyA2CmF" class="token"><code>weightPerAxleGroup</code></a> 
 
   </div>
 
@@ -575,7 +575,7 @@ Type of vehicle restriction.
 
   <div class="abstract">
 
-  Weight per axle group, in kilograms. See <a href="sdk-for-ios-navigate-structs-vehiclerestriction#/s:7heresdk18VehicleRestrictionV16axleCountInGroupAA12IntegerRangeVSgvp">`VehicleRestriction.axleCountInGroup`</a> for information about axle group.
+  Weight per axle group, in kilograms. See <a href="sdk-for-ios-navigate-structs-vehiclerestriction#sdk-for-ios-navigate-s-7heresdk18VehicleRestrictionV16axleCountInGroupAA12IntegerRangeVSgvp">`VehicleRestriction.axleCountInGroup`</a> for information about axle group.
 
   </div>
 

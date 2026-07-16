@@ -27,7 +27,7 @@ Specifies the <a href="sdk-for-ios-navigate-classes-section">`Section`</a> mode 
 
 - <div>
 
-  ` `<span id="/s:7heresdk20SectionTransportModeO3caryA2CmF"></span>` `<span id="//apple_ref/swift/Element/car" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-sectiontransportmode#/s:7heresdk20SectionTransportModeO3caryA2CmF" class="token"><code>car</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk20SectionTransportModeO3caryA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-car" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-sectiontransportmode#sdk-for-ios-navigate-s-7heresdk20SectionTransportModeO3caryA2CmF" class="token"><code>car</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Specifies the <a href="sdk-for-ios-navigate-classes-section">`Section`</a> mode 
 
 - <div>
 
-  ` `<span id="/s:7heresdk20SectionTransportModeO5truckyA2CmF"></span>` `<span id="//apple_ref/swift/Element/truck" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-sectiontransportmode#/s:7heresdk20SectionTransportModeO5truckyA2CmF" class="token"><code>truck</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk20SectionTransportModeO5truckyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-truck" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-sectiontransportmode#sdk-for-ios-navigate-s-7heresdk20SectionTransportModeO5truckyA2CmF" class="token"><code>truck</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Specifies the <a href="sdk-for-ios-navigate-classes-section">`Section`</a> mode 
 
 - <div>
 
-  ` `<span id="/s:7heresdk20SectionTransportModeO10pedestrianyA2CmF"></span>` `<span id="//apple_ref/swift/Element/pedestrian" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-sectiontransportmode#/s:7heresdk20SectionTransportModeO10pedestrianyA2CmF" class="token"><code>pedestrian</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk20SectionTransportModeO10pedestrianyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-pedestrian" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-sectiontransportmode#sdk-for-ios-navigate-s-7heresdk20SectionTransportModeO10pedestrianyA2CmF" class="token"><code>pedestrian</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Specifies the <a href="sdk-for-ios-navigate-classes-section">`Section`</a> mode 
 
 - <div>
 
-  ` `<span id="/s:7heresdk20SectionTransportModeO5ferryyA2CmF"></span>` `<span id="//apple_ref/swift/Element/ferry" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-sectiontransportmode#/s:7heresdk20SectionTransportModeO5ferryyA2CmF" class="token"><code>ferry</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk20SectionTransportModeO5ferryyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-ferry" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-sectiontransportmode#sdk-for-ios-navigate-s-7heresdk20SectionTransportModeO5ferryyA2CmF" class="token"><code>ferry</code></a> 
 
   </div>
 
@@ -203,7 +203,7 @@ Specifies the <a href="sdk-for-ios-navigate-classes-section">`Section`</a> mode 
 
 - <div>
 
-  ` `<span id="/s:7heresdk20SectionTransportModeO15carShuttleTrainyA2CmF"></span>` `<span id="//apple_ref/swift/Element/carShuttleTrain" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-sectiontransportmode#/s:7heresdk20SectionTransportModeO15carShuttleTrainyA2CmF" class="token"><code>carShuttleTrain</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk20SectionTransportModeO15carShuttleTrainyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-carShuttleTrain" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-sectiontransportmode#sdk-for-ios-navigate-s-7heresdk20SectionTransportModeO15carShuttleTrainyA2CmF" class="token"><code>carShuttleTrain</code></a> 
 
   </div>
 
@@ -247,7 +247,7 @@ Specifies the <a href="sdk-for-ios-navigate-classes-section">`Section`</a> mode 
 
 - <div>
 
-  ` `<span id="/s:7heresdk20SectionTransportModeO7scooteryA2CmF"></span>` `<span id="//apple_ref/swift/Element/scooter" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-sectiontransportmode#/s:7heresdk20SectionTransportModeO7scooteryA2CmF" class="token"><code>scooter</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk20SectionTransportModeO7scooteryA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-scooter" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-sectiontransportmode#sdk-for-ios-navigate-s-7heresdk20SectionTransportModeO7scooteryA2CmF" class="token"><code>scooter</code></a> 
 
   </div>
 
@@ -291,7 +291,7 @@ Specifies the <a href="sdk-for-ios-navigate-classes-section">`Section`</a> mode 
 
 - <div>
 
-  ` `<span id="/s:7heresdk20SectionTransportModeO7bicycleyA2CmF"></span>` `<span id="//apple_ref/swift/Element/bicycle" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-sectiontransportmode#/s:7heresdk20SectionTransportModeO7bicycleyA2CmF" class="token"><code>bicycle</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk20SectionTransportModeO7bicycleyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-bicycle" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-sectiontransportmode#sdk-for-ios-navigate-s-7heresdk20SectionTransportModeO7bicycleyA2CmF" class="token"><code>bicycle</code></a> 
 
   </div>
 
@@ -335,7 +335,7 @@ Specifies the <a href="sdk-for-ios-navigate-classes-section">`Section`</a> mode 
 
 - <div>
 
-  ` `<span id="/s:7heresdk20SectionTransportModeO13publicTransityA2CmF"></span>` `<span id="//apple_ref/swift/Element/publicTransit" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-sectiontransportmode#/s:7heresdk20SectionTransportModeO13publicTransityA2CmF" class="token"><code>publicTransit</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk20SectionTransportModeO13publicTransityA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-publicTransit" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-sectiontransportmode#sdk-for-ios-navigate-s-7heresdk20SectionTransportModeO13publicTransityA2CmF" class="token"><code>publicTransit</code></a> 
 
   </div>
 
@@ -353,7 +353,7 @@ Specifies the <a href="sdk-for-ios-navigate-classes-section">`Section`</a> mode 
 
   <div class="abstract">
 
-  A section with this mode is part of a public transit route. The actual transport mode can be obtained from <a href="sdk-for-ios-navigate-classes-section#/s:7heresdk7SectionC14transitDetailsAA07TransitbD0VSgvp">`Section.transitDetails`</a>.
+  A section with this mode is part of a public transit route. The actual transport mode can be obtained from <a href="sdk-for-ios-navigate-classes-section#sdk-for-ios-navigate-s-7heresdk7SectionC14transitDetailsAA07TransitbD0VSgvp">`Section.transitDetails`</a>.
 
   </div>
 
@@ -379,7 +379,7 @@ Specifies the <a href="sdk-for-ios-navigate-classes-section">`Section`</a> mode 
 
 - <div>
 
-  ` `<span id="/s:7heresdk20SectionTransportModeO4taxiyA2CmF"></span>` `<span id="//apple_ref/swift/Element/taxi" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-sectiontransportmode#/s:7heresdk20SectionTransportModeO4taxiyA2CmF" class="token"><code>taxi</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk20SectionTransportModeO4taxiyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-taxi" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-sectiontransportmode#sdk-for-ios-navigate-s-7heresdk20SectionTransportModeO4taxiyA2CmF" class="token"><code>taxi</code></a> 
 
   </div>
 
@@ -423,7 +423,7 @@ Specifies the <a href="sdk-for-ios-navigate-classes-section">`Section`</a> mode 
 
 - <div>
 
-  ` `<span id="/s:7heresdk20SectionTransportModeO3busyA2CmF"></span>` `<span id="//apple_ref/swift/Element/bus" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-sectiontransportmode#/s:7heresdk20SectionTransportModeO3busyA2CmF" class="token"><code>bus</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk20SectionTransportModeO3busyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-bus" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-sectiontransportmode#sdk-for-ios-navigate-s-7heresdk20SectionTransportModeO3busyA2CmF" class="token"><code>bus</code></a> 
 
   </div>
 
@@ -467,7 +467,7 @@ Specifies the <a href="sdk-for-ios-navigate-classes-section">`Section`</a> mode 
 
 - <div>
 
-  ` `<span id="/s:7heresdk20SectionTransportModeO10privateBusyA2CmF"></span>` `<span id="//apple_ref/swift/Element/privateBus" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-sectiontransportmode#/s:7heresdk20SectionTransportModeO10privateBusyA2CmF" class="token"><code>privateBus</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk20SectionTransportModeO10privateBusyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-privateBus" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-sectiontransportmode#sdk-for-ios-navigate-s-7heresdk20SectionTransportModeO10privateBusyA2CmF" class="token"><code>privateBus</code></a> 
 
   </div>
 

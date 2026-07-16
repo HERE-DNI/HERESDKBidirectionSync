@@ -17,7 +17,7 @@ public enum PersistentMapStatus : UInt32, CaseIterable, Codable
 
 </div>
 
-Specifies possible statuses of the already downloaded map regions as a whole. Note: This can be valid only for a single region in case of a <a href="sdk-for-ios-explore-enums-persistentmapstatus#/s:7heresdk19PersistentMapStatusO9corruptedyA2CmF">`PersistentMapStatus.corrupted`</a> state.
+Specifies possible statuses of the already downloaded map regions as a whole. Note: This can be valid only for a single region in case of a <a href="sdk-for-ios-explore-enums-persistentmapstatus#sdk-for-ios-explore-s-7heresdk19PersistentMapStatusO9corruptedyA2CmF">`PersistentMapStatus.corrupted`</a> state.
 
 </div>
 
@@ -27,7 +27,7 @@ Specifies possible statuses of the already downloaded map regions as a whole. No
 
 - <div>
 
-  ` `<span id="/s:7heresdk19PersistentMapStatusO2okyA2CmF"></span>` `<span id="//apple_ref/swift/Element/ok" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-persistentmapstatus#/s:7heresdk19PersistentMapStatusO2okyA2CmF" class="token"><code>ok</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19PersistentMapStatusO2okyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-ok" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-persistentmapstatus#sdk-for-ios-explore-s-7heresdk19PersistentMapStatusO2okyA2CmF" class="token"><code>ok</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Specifies possible statuses of the already downloaded map regions as a whole. No
 
 - <div>
 
-  ` `<span id="/s:7heresdk19PersistentMapStatusO9corruptedyA2CmF"></span>` `<span id="//apple_ref/swift/Element/corrupted" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-persistentmapstatus#/s:7heresdk19PersistentMapStatusO9corruptedyA2CmF" class="token"><code>corrupted</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19PersistentMapStatusO9corruptedyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-corrupted" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-persistentmapstatus#sdk-for-ios-explore-s-7heresdk19PersistentMapStatusO9corruptedyA2CmF" class="token"><code>corrupted</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Specifies possible statuses of the already downloaded map regions as a whole. No
 
 - <div>
 
-  ` `<span id="/s:7heresdk19PersistentMapStatusO12brokenUpdateyA2CmF"></span>` `<span id="//apple_ref/swift/Element/brokenUpdate" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-persistentmapstatus#/s:7heresdk19PersistentMapStatusO12brokenUpdateyA2CmF" class="token"><code>brokenUpdate</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19PersistentMapStatusO12brokenUpdateyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-brokenUpdate" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-persistentmapstatus#sdk-for-ios-explore-s-7heresdk19PersistentMapStatusO12brokenUpdateyA2CmF" class="token"><code>brokenUpdate</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Specifies possible statuses of the already downloaded map regions as a whole. No
 
 - <div>
 
-  ` `<span id="/s:7heresdk19PersistentMapStatusO15migrationNeededyA2CmF"></span>` `<span id="//apple_ref/swift/Element/migrationNeeded" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-persistentmapstatus#/s:7heresdk19PersistentMapStatusO15migrationNeededyA2CmF" class="token"><code>migrationNeeded</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19PersistentMapStatusO15migrationNeededyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-migrationNeeded" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-persistentmapstatus#sdk-for-ios-explore-s-7heresdk19PersistentMapStatusO15migrationNeededyA2CmF" class="token"><code>migrationNeeded</code></a> 
 
   </div>
 
@@ -203,7 +203,7 @@ Specifies possible statuses of the already downloaded map regions as a whole. No
 
 - <div>
 
-  ` `<span id="/s:7heresdk19PersistentMapStatusO13pendingUpdateyA2CmF"></span>` `<span id="//apple_ref/swift/Element/pendingUpdate" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-persistentmapstatus#/s:7heresdk19PersistentMapStatusO13pendingUpdateyA2CmF" class="token"><code>pendingUpdate</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19PersistentMapStatusO13pendingUpdateyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-pendingUpdate" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-persistentmapstatus#sdk-for-ios-explore-s-7heresdk19PersistentMapStatusO13pendingUpdateyA2CmF" class="token"><code>pendingUpdate</code></a> 
 
   </div>
 
@@ -247,7 +247,7 @@ Specifies possible statuses of the already downloaded map regions as a whole. No
 
 - <div>
 
-  ` `<span id="/s:7heresdk19PersistentMapStatusO11invalidPathyA2CmF"></span>` `<span id="//apple_ref/swift/Element/invalidPath" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-persistentmapstatus#/s:7heresdk19PersistentMapStatusO11invalidPathyA2CmF" class="token"><code>invalidPath</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19PersistentMapStatusO11invalidPathyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-invalidPath" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-persistentmapstatus#sdk-for-ios-explore-s-7heresdk19PersistentMapStatusO11invalidPathyA2CmF" class="token"><code>invalidPath</code></a> 
 
   </div>
 
@@ -265,7 +265,7 @@ Specifies possible statuses of the already downloaded map regions as a whole. No
 
   <div class="abstract">
 
-  Unreachable <a href="sdk-for-ios-explore-structs-sdkoptions#/s:7heresdk10SDKOptionsV9cachePathSSvp">`SDKOptions.cachePath`</a> or <a href="sdk-for-ios-explore-structs-sdkoptions#/s:7heresdk10SDKOptionsV24persistentMapStoragePathSSvp">`SDKOptions.persistentMapStoragePath`</a>. Make sure that <a href="sdk-for-ios-explore-structs-sdkoptions">`SDKOptions`</a> has accessible <a href="sdk-for-ios-explore-structs-sdkoptions#/s:7heresdk10SDKOptionsV9cachePathSSvp">`SDKOptions.cachePath`</a> and <a href="sdk-for-ios-explore-structs-sdkoptions#/s:7heresdk10SDKOptionsV24persistentMapStoragePathSSvp">`SDKOptions.persistentMapStoragePath`</a>
+  Unreachable <a href="sdk-for-ios-explore-structs-sdkoptions#sdk-for-ios-explore-s-7heresdk10SDKOptionsV9cachePathSSvp">`SDKOptions.cachePath`</a> or <a href="sdk-for-ios-explore-structs-sdkoptions#sdk-for-ios-explore-s-7heresdk10SDKOptionsV24persistentMapStoragePathSSvp">`SDKOptions.persistentMapStoragePath`</a>. Make sure that <a href="sdk-for-ios-explore-structs-sdkoptions">`SDKOptions`</a> has accessible <a href="sdk-for-ios-explore-structs-sdkoptions#sdk-for-ios-explore-s-7heresdk10SDKOptionsV9cachePathSSvp">`SDKOptions.cachePath`</a> and <a href="sdk-for-ios-explore-structs-sdkoptions#sdk-for-ios-explore-s-7heresdk10SDKOptionsV24persistentMapStoragePathSSvp">`SDKOptions.persistentMapStoragePath`</a>
 
   </div>
 
@@ -291,7 +291,7 @@ Specifies possible statuses of the already downloaded map regions as a whole. No
 
 - <div>
 
-  ` `<span id="/s:7heresdk19PersistentMapStatusO12invalidStateyA2CmF"></span>` `<span id="//apple_ref/swift/Element/invalidState" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-persistentmapstatus#/s:7heresdk19PersistentMapStatusO12invalidStateyA2CmF" class="token"><code>invalidState</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19PersistentMapStatusO12invalidStateyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-invalidState" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-persistentmapstatus#sdk-for-ios-explore-s-7heresdk19PersistentMapStatusO12invalidStateyA2CmF" class="token"><code>invalidState</code></a> 
 
   </div>
 
@@ -335,7 +335,7 @@ Specifies possible statuses of the already downloaded map regions as a whole. No
 
 - <div>
 
-  ` `<span id="/s:7heresdk19PersistentMapStatusO13storageClosedyA2CmF"></span>` `<span id="//apple_ref/swift/Element/storageClosed" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-persistentmapstatus#/s:7heresdk19PersistentMapStatusO13storageClosedyA2CmF" class="token"><code>storageClosed</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19PersistentMapStatusO13storageClosedyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-storageClosed" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-persistentmapstatus#sdk-for-ios-explore-s-7heresdk19PersistentMapStatusO13storageClosedyA2CmF" class="token"><code>storageClosed</code></a> 
 
   </div>
 

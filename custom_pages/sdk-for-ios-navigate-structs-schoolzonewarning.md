@@ -27,7 +27,7 @@ A school zone warning which notifies about a school zone presence on road with a
 
 - <div>
 
-  ` `<span id="/s:7heresdk17SchoolZoneWarningV2ids5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/id" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-schoolzonewarning#/s:7heresdk17SchoolZoneWarningV2ids5Int32Vvp" class="token"><code>id</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk17SchoolZoneWarningV2ids5Int32Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-id" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-schoolzonewarning#sdk-for-ios-navigate-s-7heresdk17SchoolZoneWarningV2ids5Int32Vvp" class="token"><code>id</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ A school zone warning which notifies about a school zone presence on road with a
 
 - <div>
 
-  ` `<span id="/s:7heresdk17SchoolZoneWarningV010distanceTobC8InMetersSdvp"></span>` `<span id="//apple_ref/swift/Property/distanceToSchoolZoneInMeters" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-schoolzonewarning#/s:7heresdk17SchoolZoneWarningV010distanceTobC8InMetersSdvp" class="token"><code>distanceToSchoolZoneInMeters</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk17SchoolZoneWarningV010distanceTobC8InMetersSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-distanceToSchoolZoneInMeters" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-schoolzonewarning#sdk-for-ios-navigate-s-7heresdk17SchoolZoneWarningV010distanceTobC8InMetersSdvp" class="token"><code>distanceToSchoolZoneInMeters</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ A school zone warning which notifies about a school zone presence on road with a
 
 - <div>
 
-  ` `<span id="/s:7heresdk17SchoolZoneWarningV27speedLimitInMetersPerSecondSdvp"></span>` `<span id="//apple_ref/swift/Property/speedLimitInMetersPerSecond" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-schoolzonewarning#/s:7heresdk17SchoolZoneWarningV27speedLimitInMetersPerSecondSdvp" class="token"><code>speedLimitInMetersPerSecond</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk17SchoolZoneWarningV27speedLimitInMetersPerSecondSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-speedLimitInMetersPerSecond" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-schoolzonewarning#sdk-for-ios-navigate-s-7heresdk17SchoolZoneWarningV27speedLimitInMetersPerSecondSdvp" class="token"><code>speedLimitInMetersPerSecond</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ A school zone warning which notifies about a school zone presence on road with a
 
 - <div>
 
-  ` `<span id="/s:7heresdk17SchoolZoneWarningV12distanceTypeAA08DistanceF0Ovp"></span>` `<span id="//apple_ref/swift/Property/distanceType" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-schoolzonewarning#/s:7heresdk17SchoolZoneWarningV12distanceTypeAA08DistanceF0Ovp" class="token"><code>distanceType</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk17SchoolZoneWarningV12distanceTypeAA08DistanceF0Ovp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-distanceType" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-schoolzonewarning#sdk-for-ios-navigate-s-7heresdk17SchoolZoneWarningV12distanceTypeAA08DistanceF0Ovp" class="token"><code>distanceType</code></a> 
 
   </div>
 
@@ -195,6 +195,10 @@ A school zone warning which notifies about a school zone presence on road with a
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-distancetype">DistanceType</a>
+
   </div>
 
   </div>
@@ -203,7 +207,7 @@ A school zone warning which notifies about a school zone presence on road with a
 
 - <div>
 
-  ` `<span id="/s:7heresdk17SchoolZoneWarningV8timeRuleAA04TimeF0CSgvp"></span>` `<span id="//apple_ref/swift/Property/timeRule" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-schoolzonewarning#/s:7heresdk17SchoolZoneWarningV8timeRuleAA04TimeF0CSgvp" class="token"><code>timeRule</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk17SchoolZoneWarningV8timeRuleAA04TimeF0CSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-timeRule" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-schoolzonewarning#sdk-for-ios-navigate-s-7heresdk17SchoolZoneWarningV8timeRuleAA04TimeF0CSgvp" class="token"><code>timeRule</code></a> 
 
   </div>
 
@@ -239,6 +243,10 @@ A school zone warning which notifies about a school zone presence on road with a
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-timerule">TimeRule</a>
+
   </div>
 
   </div>
@@ -247,7 +255,7 @@ A school zone warning which notifies about a school zone presence on road with a
 
 - <div>
 
-      init(id: distanceToSchoolZoneInMeters: speedLimitInMetersPerSecond: distanceType: timeRule: )
+   <span id="sdk-for-ios-navigate-s-7heresdk17SchoolZoneWarningV2id010distanceTobC8InMeters010speedLimithI9PerSecond0F4Type8timeRuleACs5Int32V_S2dAA08DistanceN0OAA04TimeP0CSgtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-id-distanceToSchoolZoneInMeters-speedLimitInMetersPerSecond-distanceType-timeRule" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-schoolzonewarning#sdk-for-ios-navigate-s-7heresdk17SchoolZoneWarningV2id010distanceTobC8InMeters010speedLimithI9PerSecond0F4Type8timeRuleACs5Int32V_S2dAA08DistanceN0OAA04TimeP0CSgtcfc" class="token"><code>init(id:</code><wbr></wbr><code>distanceToSchoolZoneInMeters:</code><wbr></wbr><code>speedLimitInMetersPerSecond:</code><wbr></wbr><code>distanceType:</code><wbr></wbr><code>timeRule:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -278,12 +286,15 @@ A school zone warning which notifies about a school zone presence on road with a
   Swift
 
   ``` highlight
-  public init ( id : Int32 = 0 , distanceToSchoolZoneInMeters : Double , speedLimitInMetersPerSecond : Double , distanceType : DistanceType , timeRule : TimeRule ? = nil )
+  public init(id: Int32 = 0, distanceToSchoolZoneInMeters: Double, speedLimitInMetersPerSecond: Double, distanceType: DistanceType, timeRule: TimeRule? = nil)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-distancetype">DistanceType</a>
+  - <a href="sdk-for-ios-navigate-classes-timerule">TimeRule</a>
 
   </div>
 

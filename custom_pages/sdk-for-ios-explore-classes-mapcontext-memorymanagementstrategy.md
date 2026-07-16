@@ -27,7 +27,7 @@ The memory management strategy. Note: This is a beta release of this feature, so
 
 - <div>
 
-  ` `<span id="/s:7heresdk10MapContextC24MemoryManagementStrategyO5fixedyA2EmF"></span>` `<span id="//apple_ref/swift/Element/fixed" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-mapcontext-memorymanagementstrategy#/s:7heresdk10MapContextC24MemoryManagementStrategyO5fixedyA2EmF" class="token"><code>fixed</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10MapContextC24MemoryManagementStrategyO5fixedyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-fixed" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapcontext-memorymanagementstrategy#sdk-for-ios-explore-s-7heresdk10MapContextC24MemoryManagementStrategyO5fixedyA2EmF" class="token"><code>fixed</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ The memory management strategy. Note: This is a beta release of this feature, so
 
 - <div>
 
-  ` `<span id="/s:7heresdk10MapContextC24MemoryManagementStrategyO7dynamicyA2EmF"></span>` `<span id="//apple_ref/swift/Element/dynamic" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-mapcontext-memorymanagementstrategy#/s:7heresdk10MapContextC24MemoryManagementStrategyO7dynamicyA2EmF" class="token"><code>dynamic</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10MapContextC24MemoryManagementStrategyO7dynamicyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-dynamic" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapcontext-memorymanagementstrategy#sdk-for-ios-explore-s-7heresdk10MapContextC24MemoryManagementStrategyO7dynamicyA2EmF" class="token"><code>dynamic</code></a> 
 
   </div>
 

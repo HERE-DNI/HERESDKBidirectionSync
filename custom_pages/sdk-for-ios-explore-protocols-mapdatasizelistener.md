@@ -27,7 +27,7 @@ Protocol to get the result of map data size estimation.
 
 - <div>
 
-      onSizeEstimated(error: dataSize: )
+   <span id="sdk-for-ios-explore-s-7heresdk19MapDataSizeListenerP02onD9Estimated5error04dataD0yAA0B11LoaderErrorOSg_AA0bcD0VSgtF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-onSizeEstimated-error-dataSize" class="dashAnchor"></span> <a href="sdk-for-ios-explore-protocols-mapdatasizelistener#sdk-for-ios-explore-s-7heresdk19MapDataSizeListenerP02onD9Estimated5error04dataD0yAA0B11LoaderErrorOSg_AA0bcD0VSgtF" class="token"><code>onSizeEstimated(error:</code><wbr></wbr><code>dataSize:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -58,12 +58,15 @@ Protocol to get the result of map data size estimation.
   Swift
 
   ``` highlight
-  func onSizeEstimated ( error : MapLoaderError ?, dataSize : MapDataSize ?)
+  func onSizeEstimated(error: MapLoaderError?, dataSize: MapDataSize?)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-maploadererror">MapLoaderError</a>
+  - <a href="sdk-for-ios-explore-structs-mapdatasize">MapDataSize</a>
 
   </div>
 

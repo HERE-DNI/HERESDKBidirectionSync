@@ -27,7 +27,7 @@ Parameters related to the electric vehicle’s charging action.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21ChargingActionDetailsV26consumablePowerInKilowattsSdvp"></span>` `<span id="//apple_ref/swift/Property/consumablePowerInKilowatts" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-chargingactiondetails#/s:7heresdk21ChargingActionDetailsV26consumablePowerInKilowattsSdvp" class="token"><code>consumablePowerInKilowatts</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21ChargingActionDetailsV26consumablePowerInKilowattsSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-consumablePowerInKilowatts" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-chargingactiondetails#sdk-for-ios-navigate-s-7heresdk21ChargingActionDetailsV26consumablePowerInKilowattsSdvp" class="token"><code>consumablePowerInKilowatts</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Parameters related to the electric vehicle’s charging action.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21ChargingActionDetailsV28arrivalChargeInKilowattHoursSdvp"></span>` `<span id="//apple_ref/swift/Property/arrivalChargeInKilowattHours" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-chargingactiondetails#/s:7heresdk21ChargingActionDetailsV28arrivalChargeInKilowattHoursSdvp" class="token"><code>arrivalChargeInKilowattHours</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21ChargingActionDetailsV28arrivalChargeInKilowattHoursSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-arrivalChargeInKilowattHours" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-chargingactiondetails#sdk-for-ios-navigate-s-7heresdk21ChargingActionDetailsV28arrivalChargeInKilowattHoursSdvp" class="token"><code>arrivalChargeInKilowattHours</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Parameters related to the electric vehicle’s charging action.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21ChargingActionDetailsV27targetChargeInKilowattHoursSdvp"></span>` `<span id="//apple_ref/swift/Property/targetChargeInKilowattHours" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-chargingactiondetails#/s:7heresdk21ChargingActionDetailsV27targetChargeInKilowattHoursSdvp" class="token"><code>targetChargeInKilowattHours</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21ChargingActionDetailsV27targetChargeInKilowattHoursSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-targetChargeInKilowattHours" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-chargingactiondetails#sdk-for-ios-navigate-s-7heresdk21ChargingActionDetailsV27targetChargeInKilowattHoursSdvp" class="token"><code>targetChargeInKilowattHours</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Parameters related to the electric vehicle’s charging action.
 
 - <div>
 
-      init(consumablePowerInKilowatts: arrivalChargeInKilowattHours: targetChargeInKilowattHours: )
+   <span id="sdk-for-ios-navigate-s-7heresdk21ChargingActionDetailsV26consumablePowerInKilowatts013arrivalChargeG13KilowattHours06targetjgkL0ACSd_S2dtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-consumablePowerInKilowatts-arrivalChargeInKilowattHours-targetChargeInKilowattHours" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-chargingactiondetails#sdk-for-ios-navigate-s-7heresdk21ChargingActionDetailsV26consumablePowerInKilowatts013arrivalChargeG13KilowattHours06targetjgkL0ACSd_S2dtcfc" class="token"><code>init(consumablePowerInKilowatts:</code><wbr></wbr><code>arrivalChargeInKilowattHours:</code><wbr></wbr><code>targetChargeInKilowattHours:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -190,10 +190,8 @@ Parameters related to the electric vehicle’s charging action.
   Swift
 
   ``` highlight
-  public init ( consumablePowerInKilowatts : Double = 0.0 , arrivalChargeInKilowattHours : Double = 0.0 , targetChargeInKilowattHours : Double = 0.0 )
+  public init(consumablePowerInKilowatts: Double = 0.0, arrivalChargeInKilowattHours: Double = 0.0, targetChargeInKilowattHours: Double = 0.0)
   ```
-
-  </pre>
 
   </div>
 

@@ -19,6 +19,10 @@ extension MapItemKeyFrameTrack.InstantiationErrorCode : Error
 
 </div>
 
+Related types:
+
+- <a href="sdk-for-ios-explore-classes-mapitemkeyframetrack">MapItemKeyFrameTrack</a>
+
 </div>
 
 Describes a reason for failing to create a <a href="sdk-for-ios-explore-classes-mapitemkeyframetrack">`MapItemKeyFrameTrack`</a>.
@@ -31,7 +35,7 @@ Describes a reason for failing to create a <a href="sdk-for-ios-explore-classes-
 
 - <div>
 
-  ` `<span id="/s:7heresdk20MapItemKeyFrameTrackC22InstantiationErrorCodeO17emptyKeyframeListyA2EmF"></span>` `<span id="//apple_ref/swift/Element/emptyKeyframeList" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-mapitemkeyframetrack-instantiationerrorcode#/s:7heresdk20MapItemKeyFrameTrackC22InstantiationErrorCodeO17emptyKeyframeListyA2EmF" class="token"><code>emptyKeyframeList</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk20MapItemKeyFrameTrackC22InstantiationErrorCodeO17emptyKeyframeListyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-emptyKeyframeList" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapitemkeyframetrack-instantiationerrorcode#sdk-for-ios-explore-s-7heresdk20MapItemKeyFrameTrackC22InstantiationErrorCodeO17emptyKeyframeListyA2EmF" class="token"><code>emptyKeyframeList</code></a> 
 
   </div>
 
@@ -75,7 +79,7 @@ Describes a reason for failing to create a <a href="sdk-for-ios-explore-classes-
 
 - <div>
 
-  ` `<span id="/s:7heresdk20MapItemKeyFrameTrackC22InstantiationErrorCodeO23invalidKeyframeDurationyA2EmF"></span>` `<span id="//apple_ref/swift/Element/invalidKeyframeDuration" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-mapitemkeyframetrack-instantiationerrorcode#/s:7heresdk20MapItemKeyFrameTrackC22InstantiationErrorCodeO23invalidKeyframeDurationyA2EmF" class="token"><code>invalidKeyframeDuration</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk20MapItemKeyFrameTrackC22InstantiationErrorCodeO23invalidKeyframeDurationyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-invalidKeyframeDuration" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapitemkeyframetrack-instantiationerrorcode#sdk-for-ios-explore-s-7heresdk20MapItemKeyFrameTrackC22InstantiationErrorCodeO23invalidKeyframeDurationyA2EmF" class="token"><code>invalidKeyframeDuration</code></a> 
 
   </div>
 

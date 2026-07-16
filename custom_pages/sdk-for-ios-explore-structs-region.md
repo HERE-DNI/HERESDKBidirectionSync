@@ -27,7 +27,7 @@ Defines an area, especially part of a country or the world that can be downloade
 
 - <div>
 
-  ` `<span id="/s:7heresdk6RegionV8regionIdAA0bD0Vvp"></span>` `<span id="//apple_ref/swift/Property/regionId" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-region#/s:7heresdk6RegionV8regionIdAA0bD0Vvp" class="token"><code>regionId</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk6RegionV8regionIdAA0bD0Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-regionId" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-region#sdk-for-ios-explore-s-7heresdk6RegionV8regionIdAA0bD0Vvp" class="token"><code>regionId</code></a> 
 
   </div>
 
@@ -63,6 +63,10 @@ Defines an area, especially part of a country or the world that can be downloade
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-regionid">RegionId</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ Defines an area, especially part of a country or the world that can be downloade
 
 - <div>
 
-  ` `<span id="/s:7heresdk6RegionV4nameSSvp"></span>` `<span id="//apple_ref/swift/Property/name" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-region#/s:7heresdk6RegionV4nameSSvp" class="token"><code>name</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk6RegionV4nameSSvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-name" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-region#sdk-for-ios-explore-s-7heresdk6RegionV4nameSSvp" class="token"><code>name</code></a> 
 
   </div>
 
@@ -89,7 +93,7 @@ Defines an area, especially part of a country or the world that can be downloade
 
   <div class="abstract">
 
-  Name of region. Language is determined by the requested <a href="sdk-for-ios-explore-enums-languagecode">`LanguageCode`</a>. By default, it is in <a href="sdk-for-ios-explore-enums-languagecode#/s:7heresdk12LanguageCodeO4enUsyA2CmF">`LanguageCode.enUs`</a>.
+  Name of region. Language is determined by the requested <a href="sdk-for-ios-explore-enums-languagecode">`LanguageCode`</a>. By default, it is in <a href="sdk-for-ios-explore-enums-languagecode#sdk-for-ios-explore-s-7heresdk12LanguageCodeO4enUsyA2CmF">`LanguageCode.enUs`</a>.
 
   </div>
 
@@ -115,7 +119,7 @@ Defines an area, especially part of a country or the world that can be downloade
 
 - <div>
 
-  ` `<span id="/s:7heresdk6RegionV17sizeOnDiskInBytess5Int64Vvp"></span>` `<span id="//apple_ref/swift/Property/sizeOnDiskInBytes" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-region#/s:7heresdk6RegionV17sizeOnDiskInBytess5Int64Vvp" class="token"><code>sizeOnDiskInBytes</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk6RegionV17sizeOnDiskInBytess5Int64Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-sizeOnDiskInBytes" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-region#sdk-for-ios-explore-s-7heresdk6RegionV17sizeOnDiskInBytess5Int64Vvp" class="token"><code>sizeOnDiskInBytes</code></a> 
 
   </div>
 
@@ -159,7 +163,7 @@ Defines an area, especially part of a country or the world that can be downloade
 
 - <div>
 
-  ` `<span id="/s:7heresdk6RegionV20sizeOnNetworkInBytess5Int64Vvp"></span>` `<span id="//apple_ref/swift/Property/sizeOnNetworkInBytes" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-region#/s:7heresdk6RegionV20sizeOnNetworkInBytess5Int64Vvp" class="token"><code>sizeOnNetworkInBytes</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk6RegionV20sizeOnNetworkInBytess5Int64Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-sizeOnNetworkInBytes" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-region#sdk-for-ios-explore-s-7heresdk6RegionV20sizeOnNetworkInBytess5Int64Vvp" class="token"><code>sizeOnNetworkInBytes</code></a> 
 
   </div>
 
@@ -203,7 +207,7 @@ Defines an area, especially part of a country or the world that can be downloade
 
 - <div>
 
-  ` `<span id="/s:7heresdk6RegionV12childRegionsSayACGSgvp"></span>` `<span id="//apple_ref/swift/Property/childRegions" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-region#/s:7heresdk6RegionV12childRegionsSayACGSgvp" class="token"><code>childRegions</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk6RegionV12childRegionsSayACGSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-childRegions" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-region#sdk-for-ios-explore-s-7heresdk6RegionV12childRegionsSayACGSgvp" class="token"><code>childRegions</code></a> 
 
   </div>
 
@@ -247,7 +251,7 @@ Defines an area, especially part of a country or the world that can be downloade
 
 - <div>
 
-  ` `<span id="/s:7heresdk6RegionV12navigabilityAA16NavigabilityTypeOvp"></span>` `<span id="//apple_ref/swift/Property/navigability" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-region#/s:7heresdk6RegionV12navigabilityAA16NavigabilityTypeOvp" class="token"><code>navigability</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk6RegionV12navigabilityAA16NavigabilityTypeOvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-navigability" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-region#sdk-for-ios-explore-s-7heresdk6RegionV12navigabilityAA16NavigabilityTypeOvp" class="token"><code>navigability</code></a> 
 
   </div>
 
@@ -283,6 +287,10 @@ Defines an area, especially part of a country or the world that can be downloade
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-navigabilitytype">NavigabilityType</a>
+
   </div>
 
   </div>
@@ -291,7 +299,7 @@ Defines an area, especially part of a country or the world that can be downloade
 
 - <div>
 
-      init(regionId: name: sizeOnDiskInBytes: sizeOnNetworkInBytes: childRegions: navigability: )
+   <span id="sdk-for-ios-explore-s-7heresdk6RegionV8regionId4name17sizeOnDiskInBytes0fg7NetworkiJ012childRegions12navigabilityAcA0bD0V_SSs5Int64VAMSayACGSgAA16NavigabilityTypeOtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-regionId-name-sizeOnDiskInBytes-sizeOnNetworkInBytes-childRegions-navigability" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-region#sdk-for-ios-explore-s-7heresdk6RegionV8regionId4name17sizeOnDiskInBytes0fg7NetworkiJ012childRegions12navigabilityAcA0bD0V_SSs5Int64VAMSayACGSgAA16NavigabilityTypeOtcfc" class="token"><code>init(regionId:</code><wbr></wbr><code>name:</code><wbr></wbr><code>sizeOnDiskInBytes:</code><wbr></wbr><code>sizeOnNetworkInBytes:</code><wbr></wbr><code>childRegions:</code><wbr></wbr><code>navigability:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -322,12 +330,15 @@ Defines an area, especially part of a country or the world that can be downloade
   Swift
 
   ``` highlight
-  public init ( regionId : RegionId , name : String = "" , sizeOnDiskInBytes : Int64 = 0 , sizeOnNetworkInBytes : Int64 = 0 , childRegions : [ Region ]? = nil , navigability : NavigabilityType = NavigabilityType . navigable )
+  public init(regionId: RegionId, name: String = "", sizeOnDiskInBytes: Int64 = 0, sizeOnNetworkInBytes: Int64 = 0, childRegions: [Region]? = nil, navigability: NavigabilityType = NavigabilityType.navigable)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-regionid">RegionId</a>
+  - <a href="sdk-for-ios-explore-enums-navigabilitytype">NavigabilityType</a>
 
   </div>
 

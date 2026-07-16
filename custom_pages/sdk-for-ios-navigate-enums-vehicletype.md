@@ -10,10 +10,9 @@ slug: "sdk-for-ios-navigate-enums-vehicletype"
 <div class="language">
 
 ``` highlight
-@available(*, deprecated, message: "Will be removed in v4.28.0. Use `sdk.transport.TransportMode` instead.") public enum VehicleType : UInt32 , CaseIterable , Codable
+@available(*, deprecated, message: "Will be removed in v4.28.0. Use `sdk.transport.TransportMode` instead.")
+public enum VehicleType : UInt32, CaseIterable, Codable
 ```
-
-</pre>
 
 </div>
 
@@ -31,7 +30,7 @@ Defines the type of the vehicle.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11VehicleTypeO3caryA2CmF"></span>` `<span id="//apple_ref/swift/Element/car" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-vehicletype#/s:7heresdk11VehicleTypeO3caryA2CmF" class="token"><code>car</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11VehicleTypeO3caryA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-car" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-vehicletype#sdk-for-ios-navigate-s-7heresdk11VehicleTypeO3caryA2CmF" class="token"><code>car</code></a> 
 
   </div>
 
@@ -75,7 +74,7 @@ Defines the type of the vehicle.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11VehicleTypeO5truckyA2CmF"></span>` `<span id="//apple_ref/swift/Element/truck" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-vehicletype#/s:7heresdk11VehicleTypeO5truckyA2CmF" class="token"><code>truck</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11VehicleTypeO5truckyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-truck" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-vehicletype#sdk-for-ios-navigate-s-7heresdk11VehicleTypeO5truckyA2CmF" class="token"><code>truck</code></a> 
 
   </div>
 
@@ -119,7 +118,7 @@ Defines the type of the vehicle.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11VehicleTypeO7bicycleyA2CmF"></span>` `<span id="//apple_ref/swift/Element/bicycle" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-vehicletype#/s:7heresdk11VehicleTypeO7bicycleyA2CmF" class="token"><code>bicycle</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11VehicleTypeO7bicycleyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-bicycle" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-vehicletype#sdk-for-ios-navigate-s-7heresdk11VehicleTypeO7bicycleyA2CmF" class="token"><code>bicycle</code></a> 
 
   </div>
 
@@ -163,7 +162,7 @@ Defines the type of the vehicle.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11VehicleTypeO3busyA2CmF"></span>` `<span id="//apple_ref/swift/Element/bus" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-vehicletype#/s:7heresdk11VehicleTypeO3busyA2CmF" class="token"><code>bus</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11VehicleTypeO3busyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-bus" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-vehicletype#sdk-for-ios-navigate-s-7heresdk11VehicleTypeO3busyA2CmF" class="token"><code>bus</code></a> 
 
   </div>
 
@@ -207,7 +206,7 @@ Defines the type of the vehicle.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11VehicleTypeO10motorcycleyA2CmF"></span>` `<span id="//apple_ref/swift/Element/motorcycle" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-vehicletype#/s:7heresdk11VehicleTypeO10motorcycleyA2CmF" class="token"><code>motorcycle</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11VehicleTypeO10motorcycleyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-motorcycle" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-vehicletype#sdk-for-ios-navigate-s-7heresdk11VehicleTypeO10motorcycleyA2CmF" class="token"><code>motorcycle</code></a> 
 
   </div>
 
@@ -251,7 +250,7 @@ Defines the type of the vehicle.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11VehicleTypeO7scooteryA2CmF"></span>` `<span id="//apple_ref/swift/Element/scooter" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-vehicletype#/s:7heresdk11VehicleTypeO7scooteryA2CmF" class="token"><code>scooter</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11VehicleTypeO7scooteryA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-scooter" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-vehicletype#sdk-for-ios-navigate-s-7heresdk11VehicleTypeO7scooteryA2CmF" class="token"><code>scooter</code></a> 
 
   </div>
 
@@ -295,7 +294,7 @@ Defines the type of the vehicle.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11VehicleTypeO10privateBusyA2CmF"></span>` `<span id="//apple_ref/swift/Element/privateBus" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-vehicletype#/s:7heresdk11VehicleTypeO10privateBusyA2CmF" class="token"><code>privateBus</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11VehicleTypeO10privateBusyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-privateBus" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-vehicletype#sdk-for-ios-navigate-s-7heresdk11VehicleTypeO10privateBusyA2CmF" class="token"><code>privateBus</code></a> 
 
   </div>
 

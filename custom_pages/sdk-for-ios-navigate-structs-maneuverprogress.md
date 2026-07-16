@@ -27,7 +27,7 @@ Indicates a user’s progress to a <a href="sdk-for-ios-navigate-classes-maneuve
 
 - <div>
 
-  ` `<span id="/s:7heresdk16ManeuverProgressV13maneuverIndexs5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/maneuverIndex" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-maneuverprogress#/s:7heresdk16ManeuverProgressV13maneuverIndexs5Int32Vvp" class="token"><code>maneuverIndex</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16ManeuverProgressV13maneuverIndexs5Int32Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-maneuverIndex" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-maneuverprogress#sdk-for-ios-navigate-s-7heresdk16ManeuverProgressV13maneuverIndexs5Int32Vvp" class="token"><code>maneuverIndex</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Indicates a user’s progress to a <a href="sdk-for-ios-navigate-classes-maneuve
 
 - <div>
 
-  ` `<span id="/s:7heresdk16ManeuverProgressV25remainingDistanceInMeterss5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/remainingDistanceInMeters" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-maneuverprogress#/s:7heresdk16ManeuverProgressV25remainingDistanceInMeterss5Int32Vvp" class="token"><code>remainingDistanceInMeters</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16ManeuverProgressV25remainingDistanceInMeterss5Int32Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-remainingDistanceInMeters" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-maneuverprogress#sdk-for-ios-navigate-s-7heresdk16ManeuverProgressV25remainingDistanceInMeterss5Int32Vvp" class="token"><code>remainingDistanceInMeters</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Indicates a user’s progress to a <a href="sdk-for-ios-navigate-classes-maneuve
 
 - <div>
 
-  ` `<span id="/s:7heresdk16ManeuverProgressV17remainingDurationSdvp"></span>` `<span id="//apple_ref/swift/Property/remainingDuration" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-maneuverprogress#/s:7heresdk16ManeuverProgressV17remainingDurationSdvp" class="token"><code>remainingDuration</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16ManeuverProgressV17remainingDurationSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-remainingDuration" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-maneuverprogress#sdk-for-ios-navigate-s-7heresdk16ManeuverProgressV17remainingDurationSdvp" class="token"><code>remainingDuration</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Indicates a user’s progress to a <a href="sdk-for-ios-navigate-classes-maneuve
 
 - <div>
 
-      init(maneuverIndex: remainingDistanceInMeters: remainingDuration: )
+   <span id="sdk-for-ios-navigate-s-7heresdk16ManeuverProgressV13maneuverIndex25remainingDistanceInMeters0F8DurationACs5Int32V_AHSdtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-maneuverIndex-remainingDistanceInMeters-remainingDuration" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-maneuverprogress#sdk-for-ios-navigate-s-7heresdk16ManeuverProgressV13maneuverIndex25remainingDistanceInMeters0F8DurationACs5Int32V_AHSdtcfc" class="token"><code>init(maneuverIndex:</code><wbr></wbr><code>remainingDistanceInMeters:</code><wbr></wbr><code>remainingDuration:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -190,10 +190,8 @@ Indicates a user’s progress to a <a href="sdk-for-ios-navigate-classes-maneuve
   Swift
 
   ``` highlight
-  public init ( maneuverIndex : Int32 = 0 , remainingDistanceInMeters : Int32 = 0 , remainingDuration : TimeInterval = 0 )
+  public init(maneuverIndex: Int32 = 0, remainingDistanceInMeters: Int32 = 0, remainingDuration: TimeInterval = 0)
   ```
-
-  </pre>
 
   </div>
 

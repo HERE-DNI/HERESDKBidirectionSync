@@ -35,7 +35,7 @@ Supports downloading of map data - in advance - into the cache to optimize tempo
 
 - <div>
 
-      init(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk15RoutePrefetcherCyAcA15SDKNativeEngineCcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-routeprefetcher#sdk-for-ios-explore-s-7heresdk15RoutePrefetcherCyAcA15SDKNativeEngineCcfc" class="token"><code>init(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -66,12 +66,14 @@ Supports downloading of map data - in advance - into the cache to optimize tempo
   Swift
 
   ``` highlight
-  public init ( _ sdkEngine : SDKNativeEngine )
+  public init(_ sdkEngine: SDKNativeEngine)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-sdknativeengine">SDKNativeEngine</a>
 
   </div>
 
@@ -102,7 +104,7 @@ Supports downloading of map data - in advance - into the cache to optimize tempo
 
 - <div>
 
-  ` `<span id="/s:7heresdk15RoutePrefetcherC28prefetchCorridorLengthMeterss5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/prefetchCorridorLengthMeters" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-routeprefetcher#/s:7heresdk15RoutePrefetcherC28prefetchCorridorLengthMeterss5Int32Vvp" class="token"><code>prefetchCorridorLengthMeters</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15RoutePrefetcherC28prefetchCorridorLengthMeterss5Int32Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-prefetchCorridorLengthMeters" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-routeprefetcher#sdk-for-ios-explore-s-7heresdk15RoutePrefetcherC28prefetchCorridorLengthMeterss5Int32Vvp" class="token"><code>prefetchCorridorLengthMeters</code></a> 
 
   </div>
 
@@ -146,7 +148,7 @@ Supports downloading of map data - in advance - into the cache to optimize tempo
 
 - <div>
 
-      prefetchAroundLocationWithRadius(currentLocation: radiusInMeters: )
+   <span id="sdk-for-ios-explore-s-7heresdk15RoutePrefetcherC32prefetchAroundLocationWithRadius07currentF014radiusInMetersyAA14GeoCoordinatesV_SdSgtF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-prefetchAroundLocationWithRadius-currentLocation-radiusInMeters" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-routeprefetcher#sdk-for-ios-explore-s-7heresdk15RoutePrefetcherC32prefetchAroundLocationWithRadius07currentF014radiusInMetersyAA14GeoCoordinatesV_SdSgtF" class="token"><code>prefetchAroundLocationWithRadius(currentLocation:</code><wbr></wbr><code>radiusInMeters:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -166,7 +168,7 @@ Supports downloading of map data - in advance - into the cache to optimize tempo
 
   Prefetches map data within a user-defined circular area around a given location. The radius, specified in meters, must be between 1 km and 50 km. If `nil` is passed as the radius, a default value of 2 km is used. It is recommended to call this method once before starting navigation to ensure a smooth experience.
 
-  To control list of map content features for area prefetch, use <a href="sdk-for-ios-explore-structs-layerconfiguration#/s:7heresdk18LayerConfigurationV15enabledFeaturesSayAC7FeatureOGvp">`LayerConfiguration.enabledFeatures`</a>.
+  To control list of map content features for area prefetch, use <a href="sdk-for-ios-explore-structs-layerconfiguration#sdk-for-ios-explore-s-7heresdk18LayerConfigurationV15enabledFeaturesSayAC7FeatureOGvp">`LayerConfiguration.enabledFeatures`</a>.
 
   </div>
 
@@ -179,12 +181,15 @@ Supports downloading of map data - in advance - into the cache to optimize tempo
   Swift
 
   ``` highlight
-  @available(*, deprecated, message: "Will be removed in v4.27.0. Please use `PolygonPrefetcher.prefetch(...﹚` instead.") public func prefetchAroundLocationWithRadius ( currentLocation : GeoCoordinates , radiusInMeters : Double ?)
+  @available(*, deprecated, message: "Will be removed in v4.27.0. Please use `PolygonPrefetcher.prefetch(...﹚` instead.")
+  public func prefetchAroundLocationWithRadius(currentLocation: GeoCoordinates, radiusInMeters: Double?)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geocoordinates">GeoCoordinates</a>
 
   </div>
 
@@ -221,7 +226,7 @@ Supports downloading of map data - in advance - into the cache to optimize tempo
 
 - <div>
 
-      prefetchAroundRouteOnIntervals(navigator: )
+   <span id="sdk-for-ios-explore-s-7heresdk15RoutePrefetcherC014prefetchAroundB11OnIntervals9navigatoryAA17NavigatorProtocol_p_tF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-prefetchAroundRouteOnIntervals-navigator" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-routeprefetcher#sdk-for-ios-explore-s-7heresdk15RoutePrefetcherC014prefetchAroundB11OnIntervals9navigatoryAA17NavigatorProtocol_p_tF" class="token"><code>prefetchAroundRouteOnIntervals(navigator:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -239,14 +244,9 @@ Supports downloading of map data - in advance - into the cache to optimize tempo
 
   <div class="abstract">
 
-  Prefetches map data within a corridor along the route, that is currently set for the provided <a href="sdk-for-ios-explore-protocols-navigatorprotocol">`NavigatorProtocol`</a> instance. If no route is set, no data will be prefetched. The route corridor defaults to a length of 10 km and a width of 5 km. To prefetch the whole route before navigation has been started see
+  Prefetches map data within a corridor along the route, that is currently set for the provided <a href="sdk-for-ios-explore-protocols-navigatorprotocol">`NavigatorProtocol`</a> instance. If no route is set, no data will be prefetched. The route corridor defaults to a length of 10 km and a width of 5 km. To prefetch the whole route before navigation has been started see <a href="sdk-for-ios-explore-classes-routeprefetcher#sdk-for-ios-explore-s-7heresdk15RoutePrefetcherC19prefetchGeoCorridor8corridor8callbackAA10TaskHandle_pAA0eF0V_AA22PrefetchStatusListener_ptF">`RoutePrefetcher.prefetchGeoCorridor(...)`</a>. Map data is prefetched only in discrete intervals. Prefetching starts 1 km before reaching the end of the current corridor. Prefetching happens based on the current map-matched location - as indicated by the <a href="sdk-for-ios-explore-structs-routeprogress">`RouteProgress`</a> event. This method should be called right after navigation has started. In case of default prefetch length first prefetching will start after traveling a distance of 9 km along the route.
 
-      RoutePrefetcher.prefetchGeoCorridor(...)
-
-  . Map data is prefetched only in discrete intervals. Prefetching starts 1 km before reaching the end of the current corridor. Prefetching happens based on the current map-matched location - as indicated by the <a href="sdk-for-ios-explore-structs-routeprogress">`RouteProgress`</a> event. This method should be called right after navigation has started. In case of default prefetch length first prefetching will start after traveling a distance of 9 km along the route.
-  </p>
-
-  To control list of map content features for prefetch, use <a href="sdk-for-ios-explore-structs-layerconfiguration#/s:7heresdk18LayerConfigurationV15enabledFeaturesSayAC7FeatureOGvp">`LayerConfiguration.enabledFeatures`</a>.
+  To control list of map content features for prefetch, use <a href="sdk-for-ios-explore-structs-layerconfiguration#sdk-for-ios-explore-s-7heresdk18LayerConfigurationV15enabledFeaturesSayAC7FeatureOGvp">`LayerConfiguration.enabledFeatures`</a>.
 
   </div>
 
@@ -259,12 +259,14 @@ Supports downloading of map data - in advance - into the cache to optimize tempo
   Swift
 
   ``` highlight
-  public func prefetchAroundRouteOnIntervals ( navigator : NavigatorProtocol )
+  public func prefetchAroundRouteOnIntervals(navigator: NavigatorProtocol)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-protocols-navigatorprotocol">NavigatorProtocol</a>
 
   </div>
 
@@ -295,7 +297,7 @@ Supports downloading of map data - in advance - into the cache to optimize tempo
 
 - <div>
 
-      stopPrefetchAroundRoute()
+   <span id="sdk-for-ios-explore-s-7heresdk15RoutePrefetcherC018stopPrefetchAroundB0yyF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-stopPrefetchAroundRoute" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-routeprefetcher#sdk-for-ios-explore-s-7heresdk15RoutePrefetcherC018stopPrefetchAroundB0yyF" class="token"><code>stopPrefetchAroundRoute()</code></a> 
 
   </div>
 
@@ -313,12 +315,7 @@ Supports downloading of map data - in advance - into the cache to optimize tempo
 
   <div class="abstract">
 
-  Stops listening <a href="sdk-for-ios-explore-protocols-navigatorprotocol">`NavigatorProtocol`</a> passed to
-
-      RoutePrefetcher.prefetchAroundRouteOnIntervals(...)
-
-  for route progress events and stops prefetching data along the current route.
-  </p>
+  Stops listening <a href="sdk-for-ios-explore-protocols-navigatorprotocol">`NavigatorProtocol`</a> passed to <a href="sdk-for-ios-explore-classes-routeprefetcher#sdk-for-ios-explore-s-7heresdk15RoutePrefetcherC014prefetchAroundB11OnIntervals9navigatoryAA17NavigatorProtocol_p_tF">`RoutePrefetcher.prefetchAroundRouteOnIntervals(...)`</a> for route progress events and stops prefetching data along the current route.
 
   </div>
 
@@ -331,10 +328,8 @@ Supports downloading of map data - in advance - into the cache to optimize tempo
   Swift
 
   ``` highlight
-  public func stopPrefetchAroundRoute ()
+  public func stopPrefetchAroundRoute()
   ```
-
-  </pre>
 
   </div>
 
@@ -346,7 +341,7 @@ Supports downloading of map data - in advance - into the cache to optimize tempo
 
 - <div>
 
-      prefetchGeoCorridor(corridor: callback: )
+   <span id="sdk-for-ios-explore-s-7heresdk15RoutePrefetcherC19prefetchGeoCorridor8corridor8callbackAA10TaskHandle_pAA0eF0V_AA22PrefetchStatusListener_ptF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-prefetchGeoCorridor-corridor-callback" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-routeprefetcher#sdk-for-ios-explore-s-7heresdk15RoutePrefetcherC19prefetchGeoCorridor8corridor8callbackAA10TaskHandle_pAA0eF0V_AA22PrefetchStatusListener_ptF" class="token"><code>prefetchGeoCorridor(corridor:</code><wbr></wbr><code>callback:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -364,9 +359,9 @@ Supports downloading of map data - in advance - into the cache to optimize tempo
 
   <div class="abstract">
 
-  Prefetch tiles for a given geo-corridor. A geo-corridor can easily be created from a route with <a href="sdk-for-ios-explore-classes-route#/s:7heresdk5RouteC8geometryAA11GeoPolylineVvp">`Route.geometry`</a> so navigation on this route is possible in offline cases. Please note, tiles will be saved in mutable cache so when there is not enough space to accommodate new prefetched tiles <a href="sdk-for-ios-explore-enums-maploadererror#/s:7heresdk14MapLoaderErrorO14notEnoughSpaceyA2CmF">`MapLoaderError.notEnoughSpace`</a> is returned. When updating mutable cache, all tiles will be unusable. Please re-download the geoCorridor again. Please also note, any route calculation may not possible on prefetched tiles.
+  Prefetch tiles for a given geo-corridor. A geo-corridor can easily be created from a route with <a href="sdk-for-ios-explore-classes-route#sdk-for-ios-explore-s-7heresdk5RouteC8geometryAA11GeoPolylineVvp">`Route.geometry`</a> so navigation on this route is possible in offline cases. Please note, tiles will be saved in mutable cache so when there is not enough space to accommodate new prefetched tiles <a href="sdk-for-ios-explore-enums-maploadererror#sdk-for-ios-explore-s-7heresdk14MapLoaderErrorO14notEnoughSpaceyA2CmF">`MapLoaderError.notEnoughSpace`</a> is returned. When updating mutable cache, all tiles will be unusable. Please re-download the geoCorridor again. Please also note, any route calculation may not possible on prefetched tiles.
 
-  To control list of map content features for corridor prefetch, use <a href="sdk-for-ios-explore-structs-layerconfiguration#/s:7heresdk18LayerConfigurationV15enabledFeaturesSayAC7FeatureOGvp">`LayerConfiguration.enabledFeatures`</a>.
+  To control list of map content features for corridor prefetch, use <a href="sdk-for-ios-explore-structs-layerconfiguration#sdk-for-ios-explore-s-7heresdk18LayerConfigurationV15enabledFeaturesSayAC7FeatureOGvp">`LayerConfiguration.enabledFeatures`</a>.
 
   </div>
 
@@ -379,12 +374,16 @@ Supports downloading of map data - in advance - into the cache to optimize tempo
   Swift
 
   ``` highlight
-  public func prefetchGeoCorridor ( corridor : GeoCorridor , callback : PrefetchStatusListener ) -> TaskHandle
+  public func prefetchGeoCorridor(corridor: GeoCorridor, callback: PrefetchStatusListener) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geocorridor">GeoCorridor</a>
+  - <a href="sdk-for-ios-explore-protocols-prefetchstatuslistener">PrefetchStatusListener</a>
+  - <a href="sdk-for-ios-explore-protocols-taskhandle">TaskHandle</a>
 
   </div>
 

@@ -27,7 +27,7 @@ Encapsulates state of the camera.
 
 - <div>
 
-  ` `<span id="/s:7heresdk9MapCameraC5StateV17targetCoordinatesAA03GeoF0Vvp"></span>` `<span id="//apple_ref/swift/Property/targetCoordinates" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapcamera-state#/s:7heresdk9MapCameraC5StateV17targetCoordinatesAA03GeoF0Vvp" class="token"><code>targetCoordinates</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9MapCameraC5StateV17targetCoordinatesAA03GeoF0Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-targetCoordinates" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapcamera-state#sdk-for-ios-navigate-s-7heresdk9MapCameraC5StateV17targetCoordinatesAA03GeoF0Vvp" class="token"><code>targetCoordinates</code></a> 
 
   </div>
 
@@ -65,6 +65,10 @@ Encapsulates state of the camera.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-geocoordinates">GeoCoordinates</a>
+
   </div>
 
   </div>
@@ -73,7 +77,7 @@ Encapsulates state of the camera.
 
 - <div>
 
-  ` `<span id="/s:7heresdk9MapCameraC5StateV19orientationAtTargetAA14GeoOrientationVvp"></span>` `<span id="//apple_ref/swift/Property/orientationAtTarget" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapcamera-state#/s:7heresdk9MapCameraC5StateV19orientationAtTargetAA14GeoOrientationVvp" class="token"><code>orientationAtTarget</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9MapCameraC5StateV19orientationAtTargetAA14GeoOrientationVvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-orientationAtTarget" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapcamera-state#sdk-for-ios-navigate-s-7heresdk9MapCameraC5StateV19orientationAtTargetAA14GeoOrientationVvp" class="token"><code>orientationAtTarget</code></a> 
 
   </div>
 
@@ -109,6 +113,10 @@ Encapsulates state of the camera.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-geoorientation">GeoOrientation</a>
+
   </div>
 
   </div>
@@ -117,7 +125,7 @@ Encapsulates state of the camera.
 
 - <div>
 
-  ` `<span id="/s:7heresdk9MapCameraC5StateV24distanceToTargetInMetersSdvp"></span>` `<span id="//apple_ref/swift/Property/distanceToTargetInMeters" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapcamera-state#/s:7heresdk9MapCameraC5StateV24distanceToTargetInMetersSdvp" class="token"><code>distanceToTargetInMeters</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9MapCameraC5StateV24distanceToTargetInMetersSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-distanceToTargetInMeters" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapcamera-state#sdk-for-ios-navigate-s-7heresdk9MapCameraC5StateV24distanceToTargetInMetersSdvp" class="token"><code>distanceToTargetInMeters</code></a> 
 
   </div>
 
@@ -161,7 +169,7 @@ Encapsulates state of the camera.
 
 - <div>
 
-  ` `<span id="/s:7heresdk9MapCameraC5StateV9zoomLevelSdvp"></span>` `<span id="//apple_ref/swift/Property/zoomLevel" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapcamera-state#/s:7heresdk9MapCameraC5StateV9zoomLevelSdvp" class="token"><code>zoomLevel</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9MapCameraC5StateV9zoomLevelSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-zoomLevel" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapcamera-state#sdk-for-ios-navigate-s-7heresdk9MapCameraC5StateV9zoomLevelSdvp" class="token"><code>zoomLevel</code></a> 
 
   </div>
 
@@ -205,7 +213,7 @@ Encapsulates state of the camera.
 
 - <div>
 
-      init(targetCoordinates: orientationAtTarget: distanceToTargetInMeters: zoomLevel: )
+   <span id="sdk-for-ios-navigate-s-7heresdk9MapCameraC5StateV17targetCoordinates19orientationAtTarget010distanceToI8InMeters9zoomLevelAeA03GeoF0V_AA0P11OrientationVS2dtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-targetCoordinates-orientationAtTarget-distanceToTargetInMeters-zoomLevel" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapcamera-state#sdk-for-ios-navigate-s-7heresdk9MapCameraC5StateV17targetCoordinates19orientationAtTarget010distanceToI8InMeters9zoomLevelAeA03GeoF0V_AA0P11OrientationVS2dtcfc" class="token"><code>init(targetCoordinates:</code><wbr></wbr><code>orientationAtTarget:</code><wbr></wbr><code>distanceToTargetInMeters:</code><wbr></wbr><code>zoomLevel:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -246,12 +254,15 @@ Encapsulates state of the camera.
   Swift
 
   ``` highlight
-  public init ( targetCoordinates : GeoCoordinates , orientationAtTarget : GeoOrientation , distanceToTargetInMeters : Double , zoomLevel : Double )
+  public init(targetCoordinates: GeoCoordinates, orientationAtTarget: GeoOrientation, distanceToTargetInMeters: Double, zoomLevel: Double)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-geocoordinates">GeoCoordinates</a>
+  - <a href="sdk-for-ios-navigate-structs-geoorientation">GeoOrientation</a>
 
   </div>
 

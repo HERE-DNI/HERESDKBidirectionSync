@@ -35,7 +35,7 @@ The SDKBuildInformation class is designed to provide information about the SDK b
 
 - <div>
 
-      sdkVersion()
+   <span id="sdk-for-ios-explore-s-7heresdk19SDKBuildInformationC10sdkVersionAA10SDKVersionVyFZ"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-sdkVersion" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-sdkbuildinformation#sdk-for-ios-explore-s-7heresdk19SDKBuildInformationC10sdkVersionAA10SDKVersionVyFZ" class="token"><code>sdkVersion()</code></a> 
 
   </div>
 
@@ -64,12 +64,14 @@ The SDKBuildInformation class is designed to provide information about the SDK b
   Swift
 
   ``` highlight
-  public static func sdkVersion () -> SDKVersion
+  public static func sdkVersion() -> SDKVersion
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-sdkversion">SDKVersion</a>
 
   </div>
 

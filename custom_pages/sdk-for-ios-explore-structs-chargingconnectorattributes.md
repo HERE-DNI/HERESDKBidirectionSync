@@ -27,7 +27,7 @@ Details of the connector that is suggested to be used in the section’s <a href
 
 - <div>
 
-  ` `<span id="/s:7heresdk27ChargingConnectorAttributesV16powerInKilowattsSdvp"></span>` `<span id="//apple_ref/swift/Property/powerInKilowatts" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-chargingconnectorattributes#/s:7heresdk27ChargingConnectorAttributesV16powerInKilowattsSdvp" class="token"><code>powerInKilowatts</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk27ChargingConnectorAttributesV16powerInKilowattsSdvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-powerInKilowatts" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-chargingconnectorattributes#sdk-for-ios-explore-s-7heresdk27ChargingConnectorAttributesV16powerInKilowattsSdvp" class="token"><code>powerInKilowatts</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Details of the connector that is suggested to be used in the section’s <a href
 
 - <div>
 
-  ` `<span id="/s:7heresdk27ChargingConnectorAttributesV16currentInAmperesSdSgvp"></span>` `<span id="//apple_ref/swift/Property/currentInAmperes" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-chargingconnectorattributes#/s:7heresdk27ChargingConnectorAttributesV16currentInAmperesSdSgvp" class="token"><code>currentInAmperes</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk27ChargingConnectorAttributesV16currentInAmperesSdSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-currentInAmperes" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-chargingconnectorattributes#sdk-for-ios-explore-s-7heresdk27ChargingConnectorAttributesV16currentInAmperesSdSgvp" class="token"><code>currentInAmperes</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Details of the connector that is suggested to be used in the section’s <a href
 
 - <div>
 
-  ` `<span id="/s:7heresdk27ChargingConnectorAttributesV14voltageInVoltsSdSgvp"></span>` `<span id="//apple_ref/swift/Property/voltageInVolts" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-chargingconnectorattributes#/s:7heresdk27ChargingConnectorAttributesV14voltageInVoltsSdSgvp" class="token"><code>voltageInVolts</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk27ChargingConnectorAttributesV14voltageInVoltsSdSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-voltageInVolts" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-chargingconnectorattributes#sdk-for-ios-explore-s-7heresdk27ChargingConnectorAttributesV14voltageInVoltsSdSgvp" class="token"><code>voltageInVolts</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Details of the connector that is suggested to be used in the section’s <a href
 
 - <div>
 
-  ` `<span id="/s:7heresdk27ChargingConnectorAttributesV10supplyTypeAA0b6SupplyF0OSgvp"></span>` `<span id="//apple_ref/swift/Property/supplyType" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-chargingconnectorattributes#/s:7heresdk27ChargingConnectorAttributesV10supplyTypeAA0b6SupplyF0OSgvp" class="token"><code>supplyType</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk27ChargingConnectorAttributesV10supplyTypeAA0b6SupplyF0OSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-supplyType" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-chargingconnectorattributes#sdk-for-ios-explore-s-7heresdk27ChargingConnectorAttributesV10supplyTypeAA0b6SupplyF0OSgvp" class="token"><code>supplyType</code></a> 
 
   </div>
 
@@ -195,6 +195,10 @@ Details of the connector that is suggested to be used in the section’s <a href
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-chargingsupplytype">ChargingSupplyType</a>
+
   </div>
 
   </div>
@@ -203,7 +207,7 @@ Details of the connector that is suggested to be used in the section’s <a href
 
 - <div>
 
-  ` `<span id="/s:7heresdk27ChargingConnectorAttributesV13connectorTypeAA0bcF0OSgvp"></span>` `<span id="//apple_ref/swift/Property/connectorType" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-chargingconnectorattributes#/s:7heresdk27ChargingConnectorAttributesV13connectorTypeAA0bcF0OSgvp" class="token"><code>connectorType</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk27ChargingConnectorAttributesV13connectorTypeAA0bcF0OSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-connectorType" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-chargingconnectorattributes#sdk-for-ios-explore-s-7heresdk27ChargingConnectorAttributesV13connectorTypeAA0bcF0OSgvp" class="token"><code>connectorType</code></a> 
 
   </div>
 
@@ -239,6 +243,10 @@ Details of the connector that is suggested to be used in the section’s <a href
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-chargingconnectortype">ChargingConnectorType</a>
+
   </div>
 
   </div>
@@ -247,7 +255,7 @@ Details of the connector that is suggested to be used in the section’s <a href
 
 - <div>
 
-      init(powerInKilowatts: currentInAmperes: voltageInVolts: supplyType: connectorType: )
+   <span id="sdk-for-ios-explore-s-7heresdk27ChargingConnectorAttributesV16powerInKilowatts07currentF7Amperes07voltageF5Volts10supplyType09connectorM0ACSd_SdSgAiA0b6SupplyM0OSgAA0bcM0OSgtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-powerInKilowatts-currentInAmperes-voltageInVolts-supplyType-connectorType" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-chargingconnectorattributes#sdk-for-ios-explore-s-7heresdk27ChargingConnectorAttributesV16powerInKilowatts07currentF7Amperes07voltageF5Volts10supplyType09connectorM0ACSd_SdSgAiA0b6SupplyM0OSgAA0bcM0OSgtcfc" class="token"><code>init(powerInKilowatts:</code><wbr></wbr><code>currentInAmperes:</code><wbr></wbr><code>voltageInVolts:</code><wbr></wbr><code>supplyType:</code><wbr></wbr><code>connectorType:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -278,12 +286,15 @@ Details of the connector that is suggested to be used in the section’s <a href
   Swift
 
   ``` highlight
-  public init ( powerInKilowatts : Double , currentInAmperes : Double ? = nil , voltageInVolts : Double ? = nil , supplyType : ChargingSupplyType ? = nil , connectorType : ChargingConnectorType ? = nil )
+  public init(powerInKilowatts: Double, currentInAmperes: Double? = nil, voltageInVolts: Double? = nil, supplyType: ChargingSupplyType? = nil, connectorType: ChargingConnectorType? = nil)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-chargingsupplytype">ChargingSupplyType</a>
+  - <a href="sdk-for-ios-explore-enums-chargingconnectortype">ChargingConnectorType</a>
 
   </div>
 

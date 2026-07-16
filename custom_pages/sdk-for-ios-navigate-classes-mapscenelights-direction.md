@@ -27,7 +27,7 @@ The direction of lights as a pair of azimuth and altitude angles. See <https://e
 
 - <div>
 
-  ` `<span id="/s:7heresdk14MapSceneLightsC9DirectionV7azimuthSdvp"></span>` `<span id="//apple_ref/swift/Property/azimuth" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapscenelights-direction#/s:7heresdk14MapSceneLightsC9DirectionV7azimuthSdvp" class="token"><code>azimuth</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14MapSceneLightsC9DirectionV7azimuthSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-azimuth" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapscenelights-direction#sdk-for-ios-navigate-s-7heresdk14MapSceneLightsC9DirectionV7azimuthSdvp" class="token"><code>azimuth</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ The direction of lights as a pair of azimuth and altitude angles. See <https://e
 
 - <div>
 
-  ` `<span id="/s:7heresdk14MapSceneLightsC9DirectionV8altitudeSdvp"></span>` `<span id="//apple_ref/swift/Property/altitude" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapscenelights-direction#/s:7heresdk14MapSceneLightsC9DirectionV8altitudeSdvp" class="token"><code>altitude</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14MapSceneLightsC9DirectionV8altitudeSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-altitude" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapscenelights-direction#sdk-for-ios-navigate-s-7heresdk14MapSceneLightsC9DirectionV8altitudeSdvp" class="token"><code>altitude</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ The direction of lights as a pair of azimuth and altitude angles. See <https://e
 
 - <div>
 
-      init(azimuth: altitude: )
+   <span id="sdk-for-ios-navigate-s-7heresdk14MapSceneLightsC9DirectionV7azimuth8altitudeAESd_Sdtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-azimuth-altitude" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapscenelights-direction#sdk-for-ios-navigate-s-7heresdk14MapSceneLightsC9DirectionV7azimuth8altitudeAESd_Sdtcfc" class="token"><code>init(azimuth:</code><wbr></wbr><code>altitude:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -146,10 +146,8 @@ The direction of lights as a pair of azimuth and altitude angles. See <https://e
   Swift
 
   ``` highlight
-  public init ( azimuth : Double = 0.0 , altitude : Double = 0.0 )
+  public init(azimuth: Double = 0.0, altitude: Double = 0.0)
   ```
-
-  </pre>
 
   </div>
 

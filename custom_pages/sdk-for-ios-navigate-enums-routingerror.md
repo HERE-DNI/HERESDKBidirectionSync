@@ -27,7 +27,7 @@ Specifies possible errors that may result from the calculation of a route.
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoutingErrorO08internalC0yA2CmF"></span>` `<span id="//apple_ref/swift/Element/internalError" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-routingerror#/s:7heresdk12RoutingErrorO08internalC0yA2CmF" class="token"><code>internalError</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12RoutingErrorO08internalC0yA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-internalError" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-routingerror#sdk-for-ios-navigate-s-7heresdk12RoutingErrorO08internalC0yA2CmF" class="token"><code>internalError</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Specifies possible errors that may result from the calculation of a route.
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoutingErrorO16invalidParameteryA2CmF"></span>` `<span id="//apple_ref/swift/Element/invalidParameter" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-routingerror#/s:7heresdk12RoutingErrorO16invalidParameteryA2CmF" class="token"><code>invalidParameter</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12RoutingErrorO16invalidParameteryA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-invalidParameter" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-routingerror#sdk-for-ios-navigate-s-7heresdk12RoutingErrorO16invalidParameteryA2CmF" class="token"><code>invalidParameter</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Specifies possible errors that may result from the calculation of a route.
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoutingErrorO17serverUnreachableyA2CmF"></span>` `<span id="//apple_ref/swift/Element/serverUnreachable" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-routingerror#/s:7heresdk12RoutingErrorO17serverUnreachableyA2CmF" class="token"><code>serverUnreachable</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12RoutingErrorO17serverUnreachableyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-serverUnreachable" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-routingerror#sdk-for-ios-navigate-s-7heresdk12RoutingErrorO17serverUnreachableyA2CmF" class="token"><code>serverUnreachable</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Specifies possible errors that may result from the calculation of a route.
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoutingErrorO04httpC0yA2CmF"></span>` `<span id="//apple_ref/swift/Element/httpError" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-routingerror#/s:7heresdk12RoutingErrorO04httpC0yA2CmF" class="token"><code>httpError</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12RoutingErrorO04httpC0yA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-httpError" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-routingerror#sdk-for-ios-navigate-s-7heresdk12RoutingErrorO04httpC0yA2CmF" class="token"><code>httpError</code></a> 
 
   </div>
 
@@ -203,7 +203,7 @@ Specifies possible errors that may result from the calculation of a route.
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoutingErrorO20authenticationFailedyA2CmF"></span>` `<span id="//apple_ref/swift/Element/authenticationFailed" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-routingerror#/s:7heresdk12RoutingErrorO20authenticationFailedyA2CmF" class="token"><code>authenticationFailed</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12RoutingErrorO20authenticationFailedyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-authenticationFailed" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-routingerror#sdk-for-ios-navigate-s-7heresdk12RoutingErrorO20authenticationFailedyA2CmF" class="token"><code>authenticationFailed</code></a> 
 
   </div>
 
@@ -247,7 +247,7 @@ Specifies possible errors that may result from the calculation of a route.
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoutingErrorO9forbiddenyA2CmF"></span>` `<span id="//apple_ref/swift/Element/forbidden" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-routingerror#/s:7heresdk12RoutingErrorO9forbiddenyA2CmF" class="token"><code>forbidden</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12RoutingErrorO9forbiddenyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-forbidden" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-routingerror#sdk-for-ios-navigate-s-7heresdk12RoutingErrorO9forbiddenyA2CmF" class="token"><code>forbidden</code></a> 
 
   </div>
 
@@ -291,7 +291,7 @@ Specifies possible errors that may result from the calculation of a route.
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoutingErrorO18exceededUsageLimityA2CmF"></span>` `<span id="//apple_ref/swift/Element/exceededUsageLimit" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-routingerror#/s:7heresdk12RoutingErrorO18exceededUsageLimityA2CmF" class="token"><code>exceededUsageLimit</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12RoutingErrorO18exceededUsageLimityA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-exceededUsageLimit" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-routingerror#sdk-for-ios-navigate-s-7heresdk12RoutingErrorO18exceededUsageLimityA2CmF" class="token"><code>exceededUsageLimit</code></a> 
 
   </div>
 
@@ -335,7 +335,7 @@ Specifies possible errors that may result from the calculation of a route.
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoutingErrorO07parsingC0yA2CmF"></span>` `<span id="//apple_ref/swift/Element/parsingError" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-routingerror#/s:7heresdk12RoutingErrorO07parsingC0yA2CmF" class="token"><code>parsingError</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12RoutingErrorO07parsingC0yA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-parsingError" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-routingerror#sdk-for-ios-navigate-s-7heresdk12RoutingErrorO07parsingC0yA2CmF" class="token"><code>parsingError</code></a> 
 
   </div>
 
@@ -379,7 +379,7 @@ Specifies possible errors that may result from the calculation of a route.
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoutingErrorO12noRouteFoundyA2CmF"></span>` `<span id="//apple_ref/swift/Element/noRouteFound" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-routingerror#/s:7heresdk12RoutingErrorO12noRouteFoundyA2CmF" class="token"><code>noRouteFound</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12RoutingErrorO12noRouteFoundyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-noRouteFound" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-routingerror#sdk-for-ios-navigate-s-7heresdk12RoutingErrorO12noRouteFoundyA2CmF" class="token"><code>noRouteFound</code></a> 
 
   </div>
 
@@ -423,7 +423,7 @@ Specifies possible errors that may result from the calculation of a route.
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoutingErrorO8timedOutyA2CmF"></span>` `<span id="//apple_ref/swift/Element/timedOut" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-routingerror#/s:7heresdk12RoutingErrorO8timedOutyA2CmF" class="token"><code>timedOut</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12RoutingErrorO8timedOutyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-timedOut" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-routingerror#sdk-for-ios-navigate-s-7heresdk12RoutingErrorO8timedOutyA2CmF" class="token"><code>timedOut</code></a> 
 
   </div>
 
@@ -467,7 +467,7 @@ Specifies possible errors that may result from the calculation of a route.
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoutingErrorO7offlineyA2CmF"></span>` `<span id="//apple_ref/swift/Element/offline" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-routingerror#/s:7heresdk12RoutingErrorO7offlineyA2CmF" class="token"><code>offline</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12RoutingErrorO7offlineyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-offline" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-routingerror#sdk-for-ios-navigate-s-7heresdk12RoutingErrorO7offlineyA2CmF" class="token"><code>offline</code></a> 
 
   </div>
 
@@ -511,7 +511,7 @@ Specifies possible errors that may result from the calculation of a route.
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoutingErrorO14noIsolineFoundyA2CmF"></span>` `<span id="//apple_ref/swift/Element/noIsolineFound" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-routingerror#/s:7heresdk12RoutingErrorO14noIsolineFoundyA2CmF" class="token"><code>noIsolineFound</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12RoutingErrorO14noIsolineFoundyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-noIsolineFound" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-routingerror#sdk-for-ios-navigate-s-7heresdk12RoutingErrorO14noIsolineFoundyA2CmF" class="token"><code>noIsolineFound</code></a> 
 
   </div>
 
@@ -555,7 +555,7 @@ Specifies possible errors that may result from the calculation of a route.
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoutingErrorO13noRouteHandleyA2CmF"></span>` `<span id="//apple_ref/swift/Element/noRouteHandle" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-routingerror#/s:7heresdk12RoutingErrorO13noRouteHandleyA2CmF" class="token"><code>noRouteHandle</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12RoutingErrorO13noRouteHandleyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-noRouteHandle" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-routingerror#sdk-for-ios-navigate-s-7heresdk12RoutingErrorO13noRouteHandleyA2CmF" class="token"><code>noRouteHandle</code></a> 
 
   </div>
 
@@ -573,7 +573,7 @@ Specifies possible errors that may result from the calculation of a route.
 
   <div class="abstract">
 
-  The route has no <a href="sdk-for-ios-navigate-classes-route#/s:7heresdk5RouteC11routeHandleAA0bD0VSgvp">`Route.routeHandle`</a>, but it was used for a feature that requires one. Consider to recalculate the route with a route handle. See <a href="sdk-for-ios-navigate-structs-routeoptions#/s:7heresdk12RouteOptionsV06enableB6HandleSbvp">`RouteOptions.enableRouteHandle`</a>.
+  The route has no <a href="sdk-for-ios-navigate-classes-route#sdk-for-ios-navigate-s-7heresdk5RouteC11routeHandleAA0bD0VSgvp">`Route.routeHandle`</a>, but it was used for a feature that requires one. Consider to recalculate the route with a route handle. See <a href="sdk-for-ios-navigate-structs-routeoptions#sdk-for-ios-navigate-s-7heresdk12RouteOptionsV06enableB6HandleSbvp">`RouteOptions.enableRouteHandle`</a>.
 
   </div>
 
@@ -599,7 +599,7 @@ Specifies possible errors that may result from the calculation of a route.
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoutingErrorO18operationCancelledyA2CmF"></span>` `<span id="//apple_ref/swift/Element/operationCancelled" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-routingerror#/s:7heresdk12RoutingErrorO18operationCancelledyA2CmF" class="token"><code>operationCancelled</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12RoutingErrorO18operationCancelledyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-operationCancelled" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-routingerror#sdk-for-ios-navigate-s-7heresdk12RoutingErrorO18operationCancelledyA2CmF" class="token"><code>operationCancelled</code></a> 
 
   </div>
 
@@ -643,7 +643,7 @@ Specifies possible errors that may result from the calculation of a route.
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoutingErrorO24couldNotMatchDestinationyA2CmF"></span>` `<span id="//apple_ref/swift/Element/couldNotMatchDestination" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-routingerror#/s:7heresdk12RoutingErrorO24couldNotMatchDestinationyA2CmF" class="token"><code>couldNotMatchDestination</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12RoutingErrorO24couldNotMatchDestinationyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-couldNotMatchDestination" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-routingerror#sdk-for-ios-navigate-s-7heresdk12RoutingErrorO24couldNotMatchDestinationyA2CmF" class="token"><code>couldNotMatchDestination</code></a> 
 
   </div>
 
@@ -687,7 +687,7 @@ Specifies possible errors that may result from the calculation of a route.
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoutingErrorO19couldNotMatchOriginyA2CmF"></span>` `<span id="//apple_ref/swift/Element/couldNotMatchOrigin" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-routingerror#/s:7heresdk12RoutingErrorO19couldNotMatchOriginyA2CmF" class="token"><code>couldNotMatchOrigin</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12RoutingErrorO19couldNotMatchOriginyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-couldNotMatchOrigin" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-routingerror#sdk-for-ios-navigate-s-7heresdk12RoutingErrorO19couldNotMatchOriginyA2CmF" class="token"><code>couldNotMatchOrigin</code></a> 
 
   </div>
 
@@ -731,7 +731,7 @@ Specifies possible errors that may result from the calculation of a route.
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoutingErrorO25failedRouteHandleCreationyA2CmF"></span>` `<span id="//apple_ref/swift/Element/failedRouteHandleCreation" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-routingerror#/s:7heresdk12RoutingErrorO25failedRouteHandleCreationyA2CmF" class="token"><code>failedRouteHandleCreation</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12RoutingErrorO25failedRouteHandleCreationyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-failedRouteHandleCreation" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-routingerror#sdk-for-ios-navigate-s-7heresdk12RoutingErrorO25failedRouteHandleCreationyA2CmF" class="token"><code>failedRouteHandleCreation</code></a> 
 
   </div>
 
@@ -775,7 +775,7 @@ Specifies possible errors that may result from the calculation of a route.
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoutingErrorO12importFailedyA2CmF"></span>` `<span id="//apple_ref/swift/Element/importFailed" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-routingerror#/s:7heresdk12RoutingErrorO12importFailedyA2CmF" class="token"><code>importFailed</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12RoutingErrorO12importFailedyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-importFailed" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-routingerror#sdk-for-ios-navigate-s-7heresdk12RoutingErrorO12importFailedyA2CmF" class="token"><code>importFailed</code></a> 
 
   </div>
 
@@ -819,7 +819,7 @@ Specifies possible errors that may result from the calculation of a route.
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoutingErrorO31noReachableChargingStationFoundyA2CmF"></span>` `<span id="//apple_ref/swift/Element/noReachableChargingStationFound" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-routingerror#/s:7heresdk12RoutingErrorO31noReachableChargingStationFoundyA2CmF" class="token"><code>noReachableChargingStationFound</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12RoutingErrorO31noReachableChargingStationFoundyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-noReachableChargingStationFound" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-routingerror#sdk-for-ios-navigate-s-7heresdk12RoutingErrorO31noReachableChargingStationFoundyA2CmF" class="token"><code>noReachableChargingStationFound</code></a> 
 
   </div>
 
@@ -863,7 +863,7 @@ Specifies possible errors that may result from the calculation of a route.
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoutingErrorO22routeCalculationFailedyA2CmF"></span>` `<span id="//apple_ref/swift/Element/routeCalculationFailed" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-routingerror#/s:7heresdk12RoutingErrorO22routeCalculationFailedyA2CmF" class="token"><code>routeCalculationFailed</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12RoutingErrorO22routeCalculationFailedyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-routeCalculationFailed" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-routingerror#sdk-for-ios-navigate-s-7heresdk12RoutingErrorO22routeCalculationFailedyA2CmF" class="token"><code>routeCalculationFailed</code></a> 
 
   </div>
 
@@ -907,7 +907,7 @@ Specifies possible errors that may result from the calculation of a route.
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoutingErrorO24routeLengthLimitExceededyA2CmF"></span>` `<span id="//apple_ref/swift/Element/routeLengthLimitExceeded" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-routingerror#/s:7heresdk12RoutingErrorO24routeLengthLimitExceededyA2CmF" class="token"><code>routeLengthLimitExceeded</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12RoutingErrorO24routeLengthLimitExceededyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-routeLengthLimitExceeded" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-routingerror#sdk-for-ios-navigate-s-7heresdk12RoutingErrorO24routeLengthLimitExceededyA2CmF" class="token"><code>routeLengthLimitExceeded</code></a> 
 
   </div>
 
@@ -951,7 +951,7 @@ Specifies possible errors that may result from the calculation of a route.
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoutingErrorO42violatedTransportModeInRouteHandleDecodingyA2CmF"></span>` `<span id="//apple_ref/swift/Element/violatedTransportModeInRouteHandleDecoding" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-routingerror#/s:7heresdk12RoutingErrorO42violatedTransportModeInRouteHandleDecodingyA2CmF" class="token"><code>violatedTransportModeInRouteHandleDecoding</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12RoutingErrorO42violatedTransportModeInRouteHandleDecodingyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-violatedTransportModeInRouteHandleDecoding" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-routingerror#sdk-for-ios-navigate-s-7heresdk12RoutingErrorO42violatedTransportModeInRouteHandleDecodingyA2CmF" class="token"><code>violatedTransportModeInRouteHandleDecoding</code></a> 
 
   </div>
 
@@ -995,7 +995,7 @@ Specifies possible errors that may result from the calculation of a route.
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoutingErrorO25proxyAuthenticationFailedyA2CmF"></span>` `<span id="//apple_ref/swift/Element/proxyAuthenticationFailed" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-routingerror#/s:7heresdk12RoutingErrorO25proxyAuthenticationFailedyA2CmF" class="token"><code>proxyAuthenticationFailed</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12RoutingErrorO25proxyAuthenticationFailedyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-proxyAuthenticationFailed" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-routingerror#sdk-for-ios-navigate-s-7heresdk12RoutingErrorO25proxyAuthenticationFailedyA2CmF" class="token"><code>proxyAuthenticationFailed</code></a> 
 
   </div>
 
@@ -1039,7 +1039,7 @@ Specifies possible errors that may result from the calculation of a route.
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoutingErrorO22proxyServerUnreachableyA2CmF"></span>` `<span id="//apple_ref/swift/Element/proxyServerUnreachable" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-routingerror#/s:7heresdk12RoutingErrorO22proxyServerUnreachableyA2CmF" class="token"><code>proxyServerUnreachable</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12RoutingErrorO22proxyServerUnreachableyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-proxyServerUnreachable" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-routingerror#sdk-for-ios-navigate-s-7heresdk12RoutingErrorO22proxyServerUnreachableyA2CmF" class="token"><code>proxyServerUnreachable</code></a> 
 
   </div>
 
@@ -1083,7 +1083,7 @@ Specifies possible errors that may result from the calculation of a route.
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoutingErrorO15activeMapUpdateyA2CmF"></span>` `<span id="//apple_ref/swift/Element/activeMapUpdate" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-routingerror#/s:7heresdk12RoutingErrorO15activeMapUpdateyA2CmF" class="token"><code>activeMapUpdate</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12RoutingErrorO15activeMapUpdateyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-activeMapUpdate" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-routingerror#sdk-for-ios-navigate-s-7heresdk12RoutingErrorO15activeMapUpdateyA2CmF" class="token"><code>activeMapUpdate</code></a> 
 
   </div>
 

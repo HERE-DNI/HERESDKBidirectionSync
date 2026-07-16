@@ -27,7 +27,7 @@ Public transit mode
 
 - <div>
 
-  ` `<span id="/s:7heresdk11TransitModeO14highSpeedTrainyA2CmF"></span>` `<span id="//apple_ref/swift/Element/highSpeedTrain" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-transitmode#/s:7heresdk11TransitModeO14highSpeedTrainyA2CmF" class="token"><code>highSpeedTrain</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11TransitModeO14highSpeedTrainyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-highSpeedTrain" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-transitmode#sdk-for-ios-navigate-s-7heresdk11TransitModeO14highSpeedTrainyA2CmF" class="token"><code>highSpeedTrain</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Public transit mode
 
 - <div>
 
-  ` `<span id="/s:7heresdk11TransitModeO14intercityTrainyA2CmF"></span>` `<span id="//apple_ref/swift/Element/intercityTrain" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-transitmode#/s:7heresdk11TransitModeO14intercityTrainyA2CmF" class="token"><code>intercityTrain</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11TransitModeO14intercityTrainyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-intercityTrain" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-transitmode#sdk-for-ios-navigate-s-7heresdk11TransitModeO14intercityTrainyA2CmF" class="token"><code>intercityTrain</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Public transit mode
 
 - <div>
 
-  ` `<span id="/s:7heresdk11TransitModeO18interRegionalTrainyA2CmF"></span>` `<span id="//apple_ref/swift/Element/interRegionalTrain" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-transitmode#/s:7heresdk11TransitModeO18interRegionalTrainyA2CmF" class="token"><code>interRegionalTrain</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11TransitModeO18interRegionalTrainyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-interRegionalTrain" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-transitmode#sdk-for-ios-navigate-s-7heresdk11TransitModeO18interRegionalTrainyA2CmF" class="token"><code>interRegionalTrain</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Public transit mode
 
 - <div>
 
-  ` `<span id="/s:7heresdk11TransitModeO13regionalTrainyA2CmF"></span>` `<span id="//apple_ref/swift/Element/regionalTrain" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-transitmode#/s:7heresdk11TransitModeO13regionalTrainyA2CmF" class="token"><code>regionalTrain</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11TransitModeO13regionalTrainyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-regionalTrain" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-transitmode#sdk-for-ios-navigate-s-7heresdk11TransitModeO13regionalTrainyA2CmF" class="token"><code>regionalTrain</code></a> 
 
   </div>
 
@@ -203,7 +203,7 @@ Public transit mode
 
 - <div>
 
-  ` `<span id="/s:7heresdk11TransitModeO9cityTrainyA2CmF"></span>` `<span id="//apple_ref/swift/Element/cityTrain" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-transitmode#/s:7heresdk11TransitModeO9cityTrainyA2CmF" class="token"><code>cityTrain</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11TransitModeO9cityTrainyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-cityTrain" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-transitmode#sdk-for-ios-navigate-s-7heresdk11TransitModeO9cityTrainyA2CmF" class="token"><code>cityTrain</code></a> 
 
   </div>
 
@@ -247,7 +247,7 @@ Public transit mode
 
 - <div>
 
-  ` `<span id="/s:7heresdk11TransitModeO3busyA2CmF"></span>` `<span id="//apple_ref/swift/Element/bus" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-transitmode#/s:7heresdk11TransitModeO3busyA2CmF" class="token"><code>bus</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11TransitModeO3busyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-bus" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-transitmode#sdk-for-ios-navigate-s-7heresdk11TransitModeO3busyA2CmF" class="token"><code>bus</code></a> 
 
   </div>
 
@@ -291,7 +291,7 @@ Public transit mode
 
 - <div>
 
-  ` `<span id="/s:7heresdk11TransitModeO5ferryyA2CmF"></span>` `<span id="//apple_ref/swift/Element/ferry" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-transitmode#/s:7heresdk11TransitModeO5ferryyA2CmF" class="token"><code>ferry</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11TransitModeO5ferryyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-ferry" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-transitmode#sdk-for-ios-navigate-s-7heresdk11TransitModeO5ferryyA2CmF" class="token"><code>ferry</code></a> 
 
   </div>
 
@@ -335,7 +335,7 @@ Public transit mode
 
 - <div>
 
-  ` `<span id="/s:7heresdk11TransitModeO6subwayyA2CmF"></span>` `<span id="//apple_ref/swift/Element/subway" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-transitmode#/s:7heresdk11TransitModeO6subwayyA2CmF" class="token"><code>subway</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11TransitModeO6subwayyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-subway" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-transitmode#sdk-for-ios-navigate-s-7heresdk11TransitModeO6subwayyA2CmF" class="token"><code>subway</code></a> 
 
   </div>
 
@@ -379,7 +379,7 @@ Public transit mode
 
 - <div>
 
-  ` `<span id="/s:7heresdk11TransitModeO9lightRailyA2CmF"></span>` `<span id="//apple_ref/swift/Element/lightRail" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-transitmode#/s:7heresdk11TransitModeO9lightRailyA2CmF" class="token"><code>lightRail</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11TransitModeO9lightRailyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-lightRail" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-transitmode#sdk-for-ios-navigate-s-7heresdk11TransitModeO9lightRailyA2CmF" class="token"><code>lightRail</code></a> 
 
   </div>
 
@@ -423,7 +423,7 @@ Public transit mode
 
 - <div>
 
-  ` `<span id="/s:7heresdk11TransitModeO10privateBusyA2CmF"></span>` `<span id="//apple_ref/swift/Element/privateBus" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-transitmode#/s:7heresdk11TransitModeO10privateBusyA2CmF" class="token"><code>privateBus</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11TransitModeO10privateBusyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-privateBus" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-transitmode#sdk-for-ios-navigate-s-7heresdk11TransitModeO10privateBusyA2CmF" class="token"><code>privateBus</code></a> 
 
   </div>
 
@@ -467,7 +467,7 @@ Public transit mode
 
 - <div>
 
-  ` `<span id="/s:7heresdk11TransitModeO8inclinedyA2CmF"></span>` `<span id="//apple_ref/swift/Element/inclined" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-transitmode#/s:7heresdk11TransitModeO8inclinedyA2CmF" class="token"><code>inclined</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11TransitModeO8inclinedyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-inclined" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-transitmode#sdk-for-ios-navigate-s-7heresdk11TransitModeO8inclinedyA2CmF" class="token"><code>inclined</code></a> 
 
   </div>
 
@@ -511,7 +511,7 @@ Public transit mode
 
 - <div>
 
-  ` `<span id="/s:7heresdk11TransitModeO6aerialyA2CmF"></span>` `<span id="//apple_ref/swift/Element/aerial" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-transitmode#/s:7heresdk11TransitModeO6aerialyA2CmF" class="token"><code>aerial</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11TransitModeO6aerialyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-aerial" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-transitmode#sdk-for-ios-navigate-s-7heresdk11TransitModeO6aerialyA2CmF" class="token"><code>aerial</code></a> 
 
   </div>
 
@@ -555,7 +555,7 @@ Public transit mode
 
 - <div>
 
-  ` `<span id="/s:7heresdk11TransitModeO8busRapidyA2CmF"></span>` `<span id="//apple_ref/swift/Element/busRapid" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-transitmode#/s:7heresdk11TransitModeO8busRapidyA2CmF" class="token"><code>busRapid</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11TransitModeO8busRapidyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-busRapid" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-transitmode#sdk-for-ios-navigate-s-7heresdk11TransitModeO8busRapidyA2CmF" class="token"><code>busRapid</code></a> 
 
   </div>
 
@@ -599,7 +599,7 @@ Public transit mode
 
 - <div>
 
-  ` `<span id="/s:7heresdk11TransitModeO8monorailyA2CmF"></span>` `<span id="//apple_ref/swift/Element/monorail" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-transitmode#/s:7heresdk11TransitModeO8monorailyA2CmF" class="token"><code>monorail</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11TransitModeO8monorailyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-monorail" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-transitmode#sdk-for-ios-navigate-s-7heresdk11TransitModeO8monorailyA2CmF" class="token"><code>monorail</code></a> 
 
   </div>
 
@@ -643,7 +643,7 @@ Public transit mode
 
 - <div>
 
-  ` `<span id="/s:7heresdk11TransitModeO6flightyA2CmF"></span>` `<span id="//apple_ref/swift/Element/flight" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-transitmode#/s:7heresdk11TransitModeO6flightyA2CmF" class="token"><code>flight</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11TransitModeO6flightyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-flight" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-transitmode#sdk-for-ios-navigate-s-7heresdk11TransitModeO6flightyA2CmF" class="token"><code>flight</code></a> 
 
   </div>
 

@@ -27,7 +27,7 @@ Indicates the formatting option of phoneme included in the notification.
 
 - <div>
 
-  ` `<span id="/s:7heresdk24NotificationFormatOptionO5plainyA2CmF"></span>` `<span id="//apple_ref/swift/Element/plain" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-notificationformatoption#/s:7heresdk24NotificationFormatOptionO5plainyA2CmF" class="token"><code>plain</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk24NotificationFormatOptionO5plainyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-plain" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-notificationformatoption#sdk-for-ios-navigate-s-7heresdk24NotificationFormatOptionO5plainyA2CmF" class="token"><code>plain</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Indicates the formatting option of phoneme included in the notification.
 
 - <div>
 
-  ` `<span id="/s:7heresdk24NotificationFormatOptionO4ssmlyA2CmF"></span>` `<span id="//apple_ref/swift/Element/ssml" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-notificationformatoption#/s:7heresdk24NotificationFormatOptionO4ssmlyA2CmF" class="token"><code>ssml</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk24NotificationFormatOptionO4ssmlyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-ssml" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-notificationformatoption#sdk-for-ios-navigate-s-7heresdk24NotificationFormatOptionO4ssmlyA2CmF" class="token"><code>ssml</code></a> 
 
   </div>
 
@@ -89,7 +89,7 @@ Indicates the formatting option of phoneme included in the notification.
 
   <div class="abstract">
 
-  Phoneme in SSML format is included in the notification, only if <a href="sdk-for-ios-navigate-structs-maneuvernotificationoptions#/s:7heresdk27ManeuverNotificationOptionsV13enablePhonemeSbvp">`ManeuverNotificationOptions.enablePhoneme`</a> option is set to `true`. **Example:** ‘<speak>After 300 meters turn right onto `<lang xml:lang="ENG"> <phoneme alphabet="nts" ph="&quot;wɔːl&quot;striːt" orthmode="ignorepunct">Wall Street</phoneme></lang>`. </speak>’. This format is not supported by native AVSpeechSynthesizer for iOS. Other 3rd party TTS engines may support it. Please check <https://www.w3.org/TR/speech-synthesis11/> for detailed information about the SSML format.
+  Phoneme in SSML format is included in the notification, only if <a href="sdk-for-ios-navigate-structs-maneuvernotificationoptions#sdk-for-ios-navigate-s-7heresdk27ManeuverNotificationOptionsV13enablePhonemeSbvp">`ManeuverNotificationOptions.enablePhoneme`</a> option is set to `true`. **Example:** ‘<speak>After 300 meters turn right onto `<lang xml:lang="ENG"> <phoneme alphabet="nts" ph="&quot;wɔːl&quot;striːt" orthmode="ignorepunct">Wall Street</phoneme></lang>`. </speak>’. This format is not supported by native AVSpeechSynthesizer for iOS. Other 3rd party TTS engines may support it. Please check <https://www.w3.org/TR/speech-synthesis11/> for detailed information about the SSML format.
 
   </div>
 

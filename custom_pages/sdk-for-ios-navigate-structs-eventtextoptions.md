@@ -27,7 +27,7 @@ Text notifications options.
 
 - <div>
 
-  ` `<span id="/s:7heresdk16EventTextOptionsV18enableSpatialAudioSbvp"></span>` `<span id="//apple_ref/swift/Property/enableSpatialAudio" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-eventtextoptions#/s:7heresdk16EventTextOptionsV18enableSpatialAudioSbvp" class="token"><code>enableSpatialAudio</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16EventTextOptionsV18enableSpatialAudioSbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-enableSpatialAudio" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-eventtextoptions#sdk-for-ios-navigate-s-7heresdk16EventTextOptionsV18enableSpatialAudioSbvp" class="token"><code>enableSpatialAudio</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Text notifications options.
 
 - <div>
 
-      init(enableSpatialAudio: )
+   <span id="sdk-for-ios-navigate-s-7heresdk16EventTextOptionsV18enableSpatialAudioACSb_tcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-enableSpatialAudio" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-eventtextoptions#sdk-for-ios-navigate-s-7heresdk16EventTextOptionsV18enableSpatialAudioACSb_tcfc" class="token"><code>init(enableSpatialAudio:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -102,10 +102,8 @@ Text notifications options.
   Swift
 
   ``` highlight
-  public init ( enableSpatialAudio : Bool = false )
+  public init(enableSpatialAudio: Bool = false)
   ```
-
-  </pre>
 
   </div>
 

@@ -15,15 +15,20 @@ public class DashImageRepresentation : MapPolyline.Representation
 
 </div>
 
+Related types:
+
+- <a href="sdk-for-ios-navigate-classes-mappolyline">MapPolyline</a>
+- <a href="sdk-for-ios-navigate-classes-mappolyline-representation">Representation</a>
+
 </div>
 
 Represents a dash pattern for the map polyline consisting of images rendered with certain gaps from each other.
 
 This dash pattern representation consists only of images rendered at certain points along the polyline. For rendering them without any distortions, polyline gets sliced into series of straight segments that are multiple of sum of dash and gap lengths. For this reason, the new polyline geometry might not align fully with original geometry.
 
-The <a href="sdk-for-ios-navigate-classes-mappolyline-dashimagerepresentation#/s:7heresdk11MapPolylineC23DashImageRepresentationC04dashE0AA0bE0Cvp">`MapPolyline.DashImageRepresentation.dashImage`</a> is stretched according to <a href="sdk-for-ios-navigate-classes-mappolyline-dashimagerepresentation#/s:7heresdk11MapPolylineC23DashImageRepresentationC10dashLengthAA0B26MeasureDependentRenderSizeVvp">`MapPolyline.DashImageRepresentation.dashLength`</a> and <a href="sdk-for-ios-navigate-classes-mappolyline-dashimagerepresentation#/s:7heresdk11MapPolylineC23DashImageRepresentationC9dashWidthAA0B26MeasureDependentRenderSizeVvp">`MapPolyline.DashImageRepresentation.dashWidth`</a>, with image’s width matched to `dashLength` and image’s height matched to `dashWidth`. The image is oriented so that its bottom is on the left-hand side between vertices `n` and `n+1`.
+The <a href="sdk-for-ios-navigate-classes-mappolyline-dashimagerepresentation#sdk-for-ios-navigate-s-7heresdk11MapPolylineC23DashImageRepresentationC04dashE0AA0bE0Cvp">`MapPolyline.DashImageRepresentation.dashImage`</a> is stretched according to <a href="sdk-for-ios-navigate-classes-mappolyline-dashimagerepresentation#sdk-for-ios-navigate-s-7heresdk11MapPolylineC23DashImageRepresentationC10dashLengthAA0B26MeasureDependentRenderSizeVvp">`MapPolyline.DashImageRepresentation.dashLength`</a> and <a href="sdk-for-ios-navigate-classes-mappolyline-dashimagerepresentation#sdk-for-ios-navigate-s-7heresdk11MapPolylineC23DashImageRepresentationC9dashWidthAA0B26MeasureDependentRenderSizeVvp">`MapPolyline.DashImageRepresentation.dashWidth`</a>, with image’s width matched to `dashLength` and image’s height matched to `dashWidth`. The image is oriented so that its bottom is on the left-hand side between vertices `n` and `n+1`.
 
-The spacing between images is specified by <a href="sdk-for-ios-navigate-classes-mappolyline-dashimagerepresentation#/s:7heresdk11MapPolylineC23DashImageRepresentationC9gapLengthAA0B26MeasureDependentRenderSizeVvp">`MapPolyline.DashImageRepresentation.gapLength`</a>.
+The spacing between images is specified by <a href="sdk-for-ios-navigate-classes-mappolyline-dashimagerepresentation#sdk-for-ios-navigate-s-7heresdk11MapPolylineC23DashImageRepresentationC9gapLengthAA0B26MeasureDependentRenderSizeVvp">`MapPolyline.DashImageRepresentation.gapLength`</a>.
 
 Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors. Related APIs may change for new releases without a deprecation process.
 
@@ -35,7 +40,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      init(dashLength: dashWidth: image: )
+   <span id="sdk-for-ios-navigate-s-7heresdk11MapPolylineC23DashImageRepresentationC10dashLength0G5Width5imageAeA0B26MeasureDependentRenderSizeV_AjA0bE0CtKcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-dashLength-dashWidth-image" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mappolyline-dashimagerepresentation#sdk-for-ios-navigate-s-7heresdk11MapPolylineC23DashImageRepresentationC10dashLength0G5Width5imageAeA0B26MeasureDependentRenderSizeV_AjA0bE0CtKcfc" class="token"><code>init(dashLength:</code><wbr></wbr><code>dashWidth:</code><wbr></wbr><code>image:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -57,11 +62,11 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
   This allows for patterns like `' — — — —'` or `' —— —— ——'`.
 
-  For <a href="sdk-for-ios-navigate-structs-mapmeasuredependentrendersize">`MapMeasureDependentRenderSize`</a> supplied for <a href="sdk-for-ios-navigate-classes-mappolyline-dashimagerepresentation#/s:7heresdk11MapPolylineC23DashImageRepresentationC10dashLengthAA0B26MeasureDependentRenderSizeVvp">`dashLength`</a> and <a href="sdk-for-ios-navigate-classes-mappolyline-dashimagerepresentation#/s:7heresdk11MapPolylineC23DashImageRepresentationC9dashWidthAA0B26MeasureDependentRenderSizeVvp">`dashWidth`</a>, only <a href="sdk-for-ios-navigate-structs-mapmeasure-kind#/s:7heresdk10MapMeasureV4KindO9zoomLevelyA2EmF">`MapMeasure.Kind.zoomLevel`</a> is supported for <a href="sdk-for-ios-navigate-structs-mapmeasuredependentrendersize#/s:7heresdk29MapMeasureDependentRenderSizeV11measureKindAA0bC0V0H0Ovp">`MapMeasureDependentRenderSize.measureKind`</a> and only <a href="sdk-for-ios-navigate-structs-rendersize-unit#/s:7heresdk10RenderSizeV4UnitO6metersyA2EmF">`RenderSize.Unit.meters`</a> is supported for <a href="sdk-for-ios-navigate-structs-mapmeasuredependentrendersize#/s:7heresdk29MapMeasureDependentRenderSizeV8sizeUnitAA0eF0V0H0Ovp">`MapMeasureDependentRenderSize.sizeUnit`</a>.
+  For <a href="sdk-for-ios-navigate-structs-mapmeasuredependentrendersize">`MapMeasureDependentRenderSize`</a> supplied for <a href="sdk-for-ios-navigate-classes-mappolyline-dashimagerepresentation#sdk-for-ios-navigate-s-7heresdk11MapPolylineC23DashImageRepresentationC10dashLengthAA0B26MeasureDependentRenderSizeVvp">`dashLength`</a> and <a href="sdk-for-ios-navigate-classes-mappolyline-dashimagerepresentation#sdk-for-ios-navigate-s-7heresdk11MapPolylineC23DashImageRepresentationC9dashWidthAA0B26MeasureDependentRenderSizeVvp">`dashWidth`</a>, only <a href="sdk-for-ios-navigate-structs-mapmeasure-kind#sdk-for-ios-navigate-s-7heresdk10MapMeasureV4KindO9zoomLevelyA2EmF">`MapMeasure.Kind.zoomLevel`</a> is supported for <a href="sdk-for-ios-navigate-structs-mapmeasuredependentrendersize#sdk-for-ios-navigate-s-7heresdk29MapMeasureDependentRenderSizeV11measureKindAA0bC0V0H0Ovp">`MapMeasureDependentRenderSize.measureKind`</a> and only <a href="sdk-for-ios-navigate-structs-rendersize-unit#sdk-for-ios-navigate-s-7heresdk10RenderSizeV4UnitO6metersyA2EmF">`RenderSize.Unit.meters`</a> is supported for <a href="sdk-for-ios-navigate-structs-mapmeasuredependentrendersize#sdk-for-ios-navigate-s-7heresdk29MapMeasureDependentRenderSizeV8sizeUnitAA0eF0V0H0Ovp">`MapMeasureDependentRenderSize.sizeUnit`</a>.
 
   Only map measure values in range \[3-19\] are supported.
 
-  The value of the keys in <a href="sdk-for-ios-navigate-structs-mapmeasuredependentrendersize#/s:7heresdk29MapMeasureDependentRenderSizeV5sizesSDyS2dGvp">`MapMeasureDependentRenderSize.sizes`</a> is truncated to integer values, hence only a single value can be provided per zoom level.
+  The value of the keys in <a href="sdk-for-ios-navigate-structs-mapmeasuredependentrendersize#sdk-for-ios-navigate-s-7heresdk29MapMeasureDependentRenderSizeV5sizesSDyS2dGvp">`MapMeasureDependentRenderSize.sizes`</a> is truncated to integer values, hence only a single value can be provided per zoom level.
 
   The values are interpolated linearly between zoom levels.
 
@@ -69,7 +74,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
   Throws
 
-  <a href="sdk-for-ios-navigate-classes-mappolyline-representation#/s:7heresdk11MapPolylineC14RepresentationC18InstantiationErrora">`MapPolyline.Representation.InstantiationError`</a> In case of invalid input parameters.
+  <a href="sdk-for-ios-navigate-classes-mappolyline-representation#sdk-for-ios-navigate-s-7heresdk11MapPolylineC14RepresentationC18InstantiationErrora">`MapPolyline.Representation.InstantiationError`</a> In case of invalid input parameters.
 
   </div>
 
@@ -84,12 +89,15 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public init ( dashLength : MapMeasureDependentRenderSize , dashWidth : MapMeasureDependentRenderSize , image : MapImage ) throws
+  public init(dashLength: MapMeasureDependentRenderSize, dashWidth: MapMeasureDependentRenderSize, image: MapImage) throws
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-mapmeasuredependentrendersize">MapMeasureDependentRenderSize</a>
+  - <a href="sdk-for-ios-navigate-classes-mapimage">MapImage</a>
 
   </div>
 
@@ -118,7 +126,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   <tr>
   <td><code> </code><em><code>image</code></em><code> </code></td>
   <td><div>
-  <p>Image to be rendered in place of dash space. It is stretched to match <a href="sdk-for-ios-navigate-classes-mappolyline-dashimagerepresentation#/s:7heresdk11MapPolylineC23DashImageRepresentationC9dashWidthAA0B26MeasureDependentRenderSizeVvp"><code>dashWidth</code></a> and <a href="sdk-for-ios-navigate-classes-mappolyline-dashimagerepresentation#/s:7heresdk11MapPolylineC23DashImageRepresentationC10dashLengthAA0B26MeasureDependentRenderSizeVvp"><code>dashLength</code></a>.</p>
+  <p>Image to be rendered in place of dash space. It is stretched to match <a href="sdk-for-ios-navigate-classes-mappolyline-dashimagerepresentation#sdk-for-ios-navigate-s-7heresdk11MapPolylineC23DashImageRepresentationC9dashWidthAA0B26MeasureDependentRenderSizeVvp"><code>dashWidth</code></a> and <a href="sdk-for-ios-navigate-classes-mappolyline-dashimagerepresentation#sdk-for-ios-navigate-s-7heresdk11MapPolylineC23DashImageRepresentationC10dashLengthAA0B26MeasureDependentRenderSizeVvp"><code>dashLength</code></a>.</p>
   </div></td>
   </tr>
   </tbody>
@@ -132,7 +140,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      init(dashLength: gapLength: dashWidth: image: )
+   <span id="sdk-for-ios-navigate-s-7heresdk11MapPolylineC23DashImageRepresentationC10dashLength03gapH00G5Width5imageAeA0B26MeasureDependentRenderSizeV_A2kA0bE0CtKcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-dashLength-gapLength-dashWidth-image" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mappolyline-dashimagerepresentation#sdk-for-ios-navigate-s-7heresdk11MapPolylineC23DashImageRepresentationC10dashLength03gapH00G5Width5imageAeA0B26MeasureDependentRenderSizeV_A2kA0bE0CtKcfc" class="token"><code>init(dashLength:</code><wbr></wbr><code>gapLength:</code><wbr></wbr><code>dashWidth:</code><wbr></wbr><code>image:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -154,11 +162,11 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
   This allows for patterns like `' — — — —'` or `' ——— ——— ———'`.
 
-  For <a href="sdk-for-ios-navigate-structs-mapmeasuredependentrendersize">`MapMeasureDependentRenderSize`</a> supplied for <a href="sdk-for-ios-navigate-classes-mappolyline-dashimagerepresentation#/s:7heresdk11MapPolylineC23DashImageRepresentationC10dashLengthAA0B26MeasureDependentRenderSizeVvp">`dashLength`</a>, <a href="sdk-for-ios-navigate-classes-mappolyline-dashimagerepresentation#/s:7heresdk11MapPolylineC23DashImageRepresentationC9gapLengthAA0B26MeasureDependentRenderSizeVvp">`gapLength`</a> and <a href="sdk-for-ios-navigate-classes-mappolyline-dashimagerepresentation#/s:7heresdk11MapPolylineC23DashImageRepresentationC9dashWidthAA0B26MeasureDependentRenderSizeVvp">`dashWidth`</a>, only <a href="sdk-for-ios-navigate-structs-mapmeasure-kind#/s:7heresdk10MapMeasureV4KindO9zoomLevelyA2EmF">`MapMeasure.Kind.zoomLevel`</a> is supported for <a href="sdk-for-ios-navigate-structs-mapmeasuredependentrendersize#/s:7heresdk29MapMeasureDependentRenderSizeV11measureKindAA0bC0V0H0Ovp">`MapMeasureDependentRenderSize.measureKind`</a> and only <a href="sdk-for-ios-navigate-structs-rendersize-unit#/s:7heresdk10RenderSizeV4UnitO6metersyA2EmF">`RenderSize.Unit.meters`</a> is supported for <a href="sdk-for-ios-navigate-structs-mapmeasuredependentrendersize#/s:7heresdk29MapMeasureDependentRenderSizeV8sizeUnitAA0eF0V0H0Ovp">`MapMeasureDependentRenderSize.sizeUnit`</a>.
+  For <a href="sdk-for-ios-navigate-structs-mapmeasuredependentrendersize">`MapMeasureDependentRenderSize`</a> supplied for <a href="sdk-for-ios-navigate-classes-mappolyline-dashimagerepresentation#sdk-for-ios-navigate-s-7heresdk11MapPolylineC23DashImageRepresentationC10dashLengthAA0B26MeasureDependentRenderSizeVvp">`dashLength`</a>, <a href="sdk-for-ios-navigate-classes-mappolyline-dashimagerepresentation#sdk-for-ios-navigate-s-7heresdk11MapPolylineC23DashImageRepresentationC9gapLengthAA0B26MeasureDependentRenderSizeVvp">`gapLength`</a> and <a href="sdk-for-ios-navigate-classes-mappolyline-dashimagerepresentation#sdk-for-ios-navigate-s-7heresdk11MapPolylineC23DashImageRepresentationC9dashWidthAA0B26MeasureDependentRenderSizeVvp">`dashWidth`</a>, only <a href="sdk-for-ios-navigate-structs-mapmeasure-kind#sdk-for-ios-navigate-s-7heresdk10MapMeasureV4KindO9zoomLevelyA2EmF">`MapMeasure.Kind.zoomLevel`</a> is supported for <a href="sdk-for-ios-navigate-structs-mapmeasuredependentrendersize#sdk-for-ios-navigate-s-7heresdk29MapMeasureDependentRenderSizeV11measureKindAA0bC0V0H0Ovp">`MapMeasureDependentRenderSize.measureKind`</a> and only <a href="sdk-for-ios-navigate-structs-rendersize-unit#sdk-for-ios-navigate-s-7heresdk10RenderSizeV4UnitO6metersyA2EmF">`RenderSize.Unit.meters`</a> is supported for <a href="sdk-for-ios-navigate-structs-mapmeasuredependentrendersize#sdk-for-ios-navigate-s-7heresdk29MapMeasureDependentRenderSizeV8sizeUnitAA0eF0V0H0Ovp">`MapMeasureDependentRenderSize.sizeUnit`</a>.
 
   Only map measure values in range \[3-19\] are supported.
 
-  The value of the keys in <a href="sdk-for-ios-navigate-structs-mapmeasuredependentrendersize#/s:7heresdk29MapMeasureDependentRenderSizeV5sizesSDyS2dGvp">`MapMeasureDependentRenderSize.sizes`</a> is truncated to integer values, hence only a single value can be provided per zoom level.
+  The value of the keys in <a href="sdk-for-ios-navigate-structs-mapmeasuredependentrendersize#sdk-for-ios-navigate-s-7heresdk29MapMeasureDependentRenderSizeV5sizesSDyS2dGvp">`MapMeasureDependentRenderSize.sizes`</a> is truncated to integer values, hence only a single value can be provided per zoom level.
 
   The values are interpolated linearly between zoom levels.
 
@@ -166,7 +174,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
   Throws
 
-  <a href="sdk-for-ios-navigate-classes-mappolyline-representation#/s:7heresdk11MapPolylineC14RepresentationC18InstantiationErrora">`MapPolyline.Representation.InstantiationError`</a> In case of invalid input parameters.
+  <a href="sdk-for-ios-navigate-classes-mappolyline-representation#sdk-for-ios-navigate-s-7heresdk11MapPolylineC14RepresentationC18InstantiationErrora">`MapPolyline.Representation.InstantiationError`</a> In case of invalid input parameters.
 
   </div>
 
@@ -181,12 +189,15 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public init ( dashLength : MapMeasureDependentRenderSize , gapLength : MapMeasureDependentRenderSize , dashWidth : MapMeasureDependentRenderSize , image : MapImage ) throws
+  public init(dashLength: MapMeasureDependentRenderSize, gapLength: MapMeasureDependentRenderSize, dashWidth: MapMeasureDependentRenderSize, image: MapImage) throws
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-mapmeasuredependentrendersize">MapMeasureDependentRenderSize</a>
+  - <a href="sdk-for-ios-navigate-classes-mapimage">MapImage</a>
 
   </div>
 
@@ -221,7 +232,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   <tr>
   <td><code> </code><em><code>image</code></em><code> </code></td>
   <td><div>
-  <p>Image to be rendered in place of dash space. It is stretched to match <a href="sdk-for-ios-navigate-classes-mappolyline-dashimagerepresentation#/s:7heresdk11MapPolylineC23DashImageRepresentationC9dashWidthAA0B26MeasureDependentRenderSizeVvp"><code>dashWidth</code></a> and <a href="sdk-for-ios-navigate-classes-mappolyline-dashimagerepresentation#/s:7heresdk11MapPolylineC23DashImageRepresentationC10dashLengthAA0B26MeasureDependentRenderSizeVvp"><code>dashLength</code></a>.</p>
+  <p>Image to be rendered in place of dash space. It is stretched to match <a href="sdk-for-ios-navigate-classes-mappolyline-dashimagerepresentation#sdk-for-ios-navigate-s-7heresdk11MapPolylineC23DashImageRepresentationC9dashWidthAA0B26MeasureDependentRenderSizeVvp"><code>dashWidth</code></a> and <a href="sdk-for-ios-navigate-classes-mappolyline-dashimagerepresentation#sdk-for-ios-navigate-s-7heresdk11MapPolylineC23DashImageRepresentationC10dashLengthAA0B26MeasureDependentRenderSizeVvp"><code>dashLength</code></a>.</p>
   </div></td>
   </tr>
   </tbody>
@@ -235,7 +246,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-  ` `<span id="/s:7heresdk11MapPolylineC23DashImageRepresentationC04dashE0AA0bE0Cvp"></span>` `<span id="//apple_ref/swift/Property/dashImage" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mappolyline-dashimagerepresentation#/s:7heresdk11MapPolylineC23DashImageRepresentationC04dashE0AA0bE0Cvp" class="token"><code>dashImage</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11MapPolylineC23DashImageRepresentationC04dashE0AA0bE0Cvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-dashImage" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mappolyline-dashimagerepresentation#sdk-for-ios-navigate-s-7heresdk11MapPolylineC23DashImageRepresentationC04dashE0AA0bE0Cvp" class="token"><code>dashImage</code></a> 
 
   </div>
 
@@ -271,6 +282,10 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mapimage">MapImage</a>
+
   </div>
 
   </div>
@@ -279,7 +294,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-  ` `<span id="/s:7heresdk11MapPolylineC23DashImageRepresentationC10dashLengthAA0B26MeasureDependentRenderSizeVvp"></span>` `<span id="//apple_ref/swift/Property/dashLength" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mappolyline-dashimagerepresentation#/s:7heresdk11MapPolylineC23DashImageRepresentationC10dashLengthAA0B26MeasureDependentRenderSizeVvp" class="token"><code>dashLength</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11MapPolylineC23DashImageRepresentationC10dashLengthAA0B26MeasureDependentRenderSizeVvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-dashLength" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mappolyline-dashimagerepresentation#sdk-for-ios-navigate-s-7heresdk11MapPolylineC23DashImageRepresentationC10dashLengthAA0B26MeasureDependentRenderSizeVvp" class="token"><code>dashLength</code></a> 
 
   </div>
 
@@ -315,6 +330,10 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-mapmeasuredependentrendersize">MapMeasureDependentRenderSize</a>
+
   </div>
 
   </div>
@@ -323,7 +342,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-  ` `<span id="/s:7heresdk11MapPolylineC23DashImageRepresentationC9gapLengthAA0B26MeasureDependentRenderSizeVvp"></span>` `<span id="//apple_ref/swift/Property/gapLength" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mappolyline-dashimagerepresentation#/s:7heresdk11MapPolylineC23DashImageRepresentationC9gapLengthAA0B26MeasureDependentRenderSizeVvp" class="token"><code>gapLength</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11MapPolylineC23DashImageRepresentationC9gapLengthAA0B26MeasureDependentRenderSizeVvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-gapLength" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mappolyline-dashimagerepresentation#sdk-for-ios-navigate-s-7heresdk11MapPolylineC23DashImageRepresentationC9gapLengthAA0B26MeasureDependentRenderSizeVvp" class="token"><code>gapLength</code></a> 
 
   </div>
 
@@ -359,6 +378,10 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-mapmeasuredependentrendersize">MapMeasureDependentRenderSize</a>
+
   </div>
 
   </div>
@@ -367,7 +390,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-  ` `<span id="/s:7heresdk11MapPolylineC23DashImageRepresentationC9dashWidthAA0B26MeasureDependentRenderSizeVvp"></span>` `<span id="//apple_ref/swift/Property/dashWidth" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mappolyline-dashimagerepresentation#/s:7heresdk11MapPolylineC23DashImageRepresentationC9dashWidthAA0B26MeasureDependentRenderSizeVvp" class="token"><code>dashWidth</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11MapPolylineC23DashImageRepresentationC9dashWidthAA0B26MeasureDependentRenderSizeVvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-dashWidth" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mappolyline-dashimagerepresentation#sdk-for-ios-navigate-s-7heresdk11MapPolylineC23DashImageRepresentationC9dashWidthAA0B26MeasureDependentRenderSizeVvp" class="token"><code>dashWidth</code></a> 
 
   </div>
 
@@ -402,6 +425,10 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   ```
 
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-mapmeasuredependentrendersize">MapMeasureDependentRenderSize</a>
 
   </div>
 

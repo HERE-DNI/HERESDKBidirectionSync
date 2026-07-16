@@ -27,7 +27,7 @@ Represents a tariff element, which defines how pricing is applied. The associate
 
 - <div>
 
-  ` `<span id="/s:7heresdk23EVChargingTariffElementV10componentsSayAA0bC14PriceComponentVGvp"></span>` `<span id="//apple_ref/swift/Property/components" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-evchargingtariffelement#/s:7heresdk23EVChargingTariffElementV10componentsSayAA0bC14PriceComponentVGvp" class="token"><code>components</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk23EVChargingTariffElementV10componentsSayAA0bC14PriceComponentVGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-components" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-evchargingtariffelement#sdk-for-ios-explore-s-7heresdk23EVChargingTariffElementV10componentsSayAA0bC14PriceComponentVGvp" class="token"><code>components</code></a> 
 
   </div>
 
@@ -63,6 +63,10 @@ Represents a tariff element, which defines how pricing is applied. The associate
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-evchargingtariffpricecomponent">EVChargingTariffPriceComponent</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ Represents a tariff element, which defines how pricing is applied. The associate
 
 - <div>
 
-  ` `<span id="/s:7heresdk23EVChargingTariffElementV9conditionAA0bcD9ConditionVSgvp"></span>` `<span id="//apple_ref/swift/Property/condition" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-evchargingtariffelement#/s:7heresdk23EVChargingTariffElementV9conditionAA0bcD9ConditionVSgvp" class="token"><code>condition</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk23EVChargingTariffElementV9conditionAA0bcD9ConditionVSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-condition" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-evchargingtariffelement#sdk-for-ios-explore-s-7heresdk23EVChargingTariffElementV9conditionAA0bcD9ConditionVSgvp" class="token"><code>condition</code></a> 
 
   </div>
 
@@ -91,7 +95,7 @@ Represents a tariff element, which defines how pricing is applied. The associate
 
   Condition that the charging session needs to meet to apply the tariff element. An element without any condition is typically present for charging sessions that do not meet any of the conditions.
 
-  For example, a tariff element with a lower price can be valid only during nighttime, while a generic tariff element without conditions applies for daytime charging sessions. The conditions are listed in priority order. I.e., when <a href="sdk-for-ios-explore-structs-evchargingtariffelementcondition#/s:7heresdk32EVChargingTariffElementConditionV4dateAA9DateRangeVSgvp">`EVChargingTariffElementCondition.date`</a> is present, it should be matched first, followed by <a href="sdk-for-ios-explore-structs-evchargingtariffelementcondition#/s:7heresdk32EVChargingTariffElementConditionV4daysSayAA9DayOfWeekOGvp">`EVChargingTariffElementCondition.days`</a> and so on.
+  For example, a tariff element with a lower price can be valid only during nighttime, while a generic tariff element without conditions applies for daytime charging sessions. The conditions are listed in priority order. I.e., when <a href="sdk-for-ios-explore-structs-evchargingtariffelementcondition#sdk-for-ios-explore-s-7heresdk32EVChargingTariffElementConditionV4dateAA9DateRangeVSgvp">`EVChargingTariffElementCondition.date`</a> is present, it should be matched first, followed by <a href="sdk-for-ios-explore-structs-evchargingtariffelementcondition#sdk-for-ios-explore-s-7heresdk32EVChargingTariffElementConditionV4daysSayAA9DayOfWeekOGvp">`EVChargingTariffElementCondition.days`</a> and so on.
 
   </div>
 
@@ -109,6 +113,10 @@ Represents a tariff element, which defines how pricing is applied. The associate
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-evchargingtariffelementcondition">EVChargingTariffElementCondition</a>
+
   </div>
 
   </div>
@@ -117,7 +125,7 @@ Represents a tariff element, which defines how pricing is applied. The associate
 
 - <div>
 
-      init(components: condition: )
+   <span id="sdk-for-ios-explore-s-7heresdk23EVChargingTariffElementV10components9conditionACSayAA0bC14PriceComponentVG_AA0bcD9ConditionVSgtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-components-condition" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-evchargingtariffelement#sdk-for-ios-explore-s-7heresdk23EVChargingTariffElementV10components9conditionACSayAA0bC14PriceComponentVG_AA0bcD9ConditionVSgtcfc" class="token"><code>init(components:</code><wbr></wbr><code>condition:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -142,7 +150,7 @@ Represents a tariff element, which defines how pricing is applied. The associate
     - components: List of price components that describe the tariff. Each of the components should have a different <a href="sdk-for-ios-explore-enums-evchargingtariffdimension">`EVChargingTariffDimension`</a>.
     - condition: Condition that the charging session needs to meet to apply the tariff element. An element without any condition is typically present for charging sessions that do not meet any of the conditions.
 
-    For example, a tariff element with a lower price can be valid only during nighttime, while a generic tariff element without conditions applies for daytime charging sessions. The conditions are listed in priority order. I.e., when <a href="sdk-for-ios-explore-structs-evchargingtariffelementcondition#/s:7heresdk32EVChargingTariffElementConditionV4dateAA9DateRangeVSgvp">`EVChargingTariffElementCondition.date`</a> is present, it should be matched first, followed by <a href="sdk-for-ios-explore-structs-evchargingtariffelementcondition#/s:7heresdk32EVChargingTariffElementConditionV4daysSayAA9DayOfWeekOGvp">`EVChargingTariffElementCondition.days`</a> and so on.
+    For example, a tariff element with a lower price can be valid only during nighttime, while a generic tariff element without conditions applies for daytime charging sessions. The conditions are listed in priority order. I.e., when <a href="sdk-for-ios-explore-structs-evchargingtariffelementcondition#sdk-for-ios-explore-s-7heresdk32EVChargingTariffElementConditionV4dateAA9DateRangeVSgvp">`EVChargingTariffElementCondition.date`</a> is present, it should be matched first, followed by <a href="sdk-for-ios-explore-structs-evchargingtariffelementcondition#sdk-for-ios-explore-s-7heresdk32EVChargingTariffElementConditionV4daysSayAA9DayOfWeekOGvp">`EVChargingTariffElementCondition.days`</a> and so on.
 
   </div>
 
@@ -155,12 +163,15 @@ Represents a tariff element, which defines how pricing is applied. The associate
   Swift
 
   ``` highlight
-  public init ( components : [ EVChargingTariffPriceComponent ] = [], condition : EVChargingTariffElementCondition ? = nil )
+  public init(components: [EVChargingTariffPriceComponent] = [], condition: EVChargingTariffElementCondition? = nil)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-evchargingtariffpricecomponent">EVChargingTariffPriceComponent</a>
+  - <a href="sdk-for-ios-explore-structs-evchargingtariffelementcondition">EVChargingTariffElementCondition</a>
 
   </div>
 

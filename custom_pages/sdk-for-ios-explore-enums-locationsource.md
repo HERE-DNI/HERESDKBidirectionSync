@@ -33,7 +33,7 @@ Example internal sources: positions computed on the same phone or embedded devic
 
 - <div>
 
-  ` `<span id="/s:7heresdk14LocationSourceO08externalC0yA2CmF"></span>` `<span id="//apple_ref/swift/Element/externalSource" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-locationsource#/s:7heresdk14LocationSourceO08externalC0yA2CmF" class="token"><code>externalSource</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14LocationSourceO08externalC0yA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-externalSource" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-locationsource#sdk-for-ios-explore-s-7heresdk14LocationSourceO08externalC0yA2CmF" class="token"><code>externalSource</code></a> 
 
   </div>
 
@@ -77,7 +77,7 @@ Example internal sources: positions computed on the same phone or embedded devic
 
 - <div>
 
-  ` `<span id="/s:7heresdk14LocationSourceO08internalC0yA2CmF"></span>` `<span id="//apple_ref/swift/Element/internalSource" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-locationsource#/s:7heresdk14LocationSourceO08internalC0yA2CmF" class="token"><code>internalSource</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14LocationSourceO08internalC0yA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-internalSource" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-locationsource#sdk-for-ios-explore-s-7heresdk14LocationSourceO08internalC0yA2CmF" class="token"><code>internalSource</code></a> 
 
   </div>
 

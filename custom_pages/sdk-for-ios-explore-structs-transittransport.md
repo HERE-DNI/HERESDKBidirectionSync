@@ -27,7 +27,7 @@ Holds all the transit transport information.
 
 - <div>
 
-  ` `<span id="/s:7heresdk16TransitTransportV4modeAA0B4ModeOvp"></span>` `<span id="//apple_ref/swift/Property/mode" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-transittransport#/s:7heresdk16TransitTransportV4modeAA0B4ModeOvp" class="token"><code>mode</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16TransitTransportV4modeAA0B4ModeOvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-mode" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-transittransport#sdk-for-ios-explore-s-7heresdk16TransitTransportV4modeAA0B4ModeOvp" class="token"><code>mode</code></a> 
 
   </div>
 
@@ -63,6 +63,10 @@ Holds all the transit transport information.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-transitmode">TransitMode</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ Holds all the transit transport information.
 
 - <div>
 
-  ` `<span id="/s:7heresdk16TransitTransportV4nameSSSgvp"></span>` `<span id="//apple_ref/swift/Property/name" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-transittransport#/s:7heresdk16TransitTransportV4nameSSSgvp" class="token"><code>name</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16TransitTransportV4nameSSSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-name" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-transittransport#sdk-for-ios-explore-s-7heresdk16TransitTransportV4nameSSSgvp" class="token"><code>name</code></a> 
 
   </div>
 
@@ -115,7 +119,7 @@ Holds all the transit transport information.
 
 - <div>
 
-  ` `<span id="/s:7heresdk16TransitTransportV8headsignSSSgvp"></span>` `<span id="//apple_ref/swift/Property/headsign" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-transittransport#/s:7heresdk16TransitTransportV8headsignSSSgvp" class="token"><code>headsign</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16TransitTransportV8headsignSSSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-headsign" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-transittransport#sdk-for-ios-explore-s-7heresdk16TransitTransportV8headsignSSSgvp" class="token"><code>headsign</code></a> 
 
   </div>
 
@@ -159,7 +163,7 @@ Holds all the transit transport information.
 
 - <div>
 
-  ` `<span id="/s:7heresdk16TransitTransportV8categorySSSgvp"></span>` `<span id="//apple_ref/swift/Property/category" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-transittransport#/s:7heresdk16TransitTransportV8categorySSSgvp" class="token"><code>category</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16TransitTransportV8categorySSSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-category" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-transittransport#sdk-for-ios-explore-s-7heresdk16TransitTransportV8categorySSSgvp" class="token"><code>category</code></a> 
 
   </div>
 
@@ -203,7 +207,7 @@ Holds all the transit transport information.
 
 - <div>
 
-  ` `<span id="/s:7heresdk16TransitTransportV5colorSo7UIColorCSgvp"></span>` `<span id="//apple_ref/swift/Property/color" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-transittransport#/s:7heresdk16TransitTransportV5colorSo7UIColorCSgvp" class="token"><code>color</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16TransitTransportV5colorSo7UIColorCSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-color" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-transittransport#sdk-for-ios-explore-s-7heresdk16TransitTransportV5colorSo7UIColorCSgvp" class="token"><code>color</code></a> 
 
   </div>
 
@@ -247,7 +251,7 @@ Holds all the transit transport information.
 
 - <div>
 
-  ` `<span id="/s:7heresdk16TransitTransportV9textColorSo7UIColorCSgvp"></span>` `<span id="//apple_ref/swift/Property/textColor" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-transittransport#/s:7heresdk16TransitTransportV9textColorSo7UIColorCSgvp" class="token"><code>textColor</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16TransitTransportV9textColorSo7UIColorCSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-textColor" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-transittransport#sdk-for-ios-explore-s-7heresdk16TransitTransportV9textColorSo7UIColorCSgvp" class="token"><code>textColor</code></a> 
 
   </div>
 
@@ -291,7 +295,7 @@ Holds all the transit transport information.
 
 - <div>
 
-      init(mode: name: headsign: category: color: textColor: )
+   <span id="sdk-for-ios-explore-s-7heresdk16TransitTransportV4mode4name8headsign8category5color9textColorAcA0B4ModeO_SSSgA2LSo7UIColorCSgAOtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-mode-name-headsign-category-color-textColor" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-transittransport#sdk-for-ios-explore-s-7heresdk16TransitTransportV4mode4name8headsign8category5color9textColorAcA0B4ModeO_SSSgA2LSo7UIColorCSgAOtcfc" class="token"><code>init(mode:</code><wbr></wbr><code>name:</code><wbr></wbr><code>headsign:</code><wbr></wbr><code>category:</code><wbr></wbr><code>color:</code><wbr></wbr><code>textColor:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -322,12 +326,14 @@ Holds all the transit transport information.
   Swift
 
   ``` highlight
-  public init ( mode : TransitMode , name : String ? = nil , headsign : String ? = nil , category : String ? = nil , color : UIColor ? = nil , textColor : UIColor ? = nil )
+  public init(mode: TransitMode, name: String? = nil, headsign: String? = nil, category: String? = nil, color: UIColor? = nil, textColor: UIColor? = nil)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-transitmode">TransitMode</a>
 
   </div>
 

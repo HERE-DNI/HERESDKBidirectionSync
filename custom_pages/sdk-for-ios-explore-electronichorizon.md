@@ -13,7 +13,7 @@ slug: "sdk-for-ios-explore-electronichorizon"
 
 - <div>
 
-  ` `<span id="/s:7heresdk17ElectronicHorizonV"></span>` `<span id="//apple_ref/swift/Struct/ElectronicHorizon" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-electronichorizon#/s:7heresdk17ElectronicHorizonV" class="token"><code>ElectronicHorizon</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17ElectronicHorizonV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-ElectronicHorizon" class="dashAnchor"></span> <a href="sdk-for-ios-explore-electronichorizon#sdk-for-ios-explore-s-7heresdk17ElectronicHorizonV" class="token"><code>ElectronicHorizon</code></a> 
 
   </div>
 
@@ -63,7 +63,7 @@ slug: "sdk-for-ios-explore-electronichorizon"
 
 - <div>
 
-  ` `<span id="/s:7heresdk27ElectronicHorizonDataLoaderC"></span>` `<span id="//apple_ref/swift/Class/ElectronicHorizonDataLoader" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-electronichorizon#/s:7heresdk27ElectronicHorizonDataLoaderC" class="token"><code>ElectronicHorizonDataLoader</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk27ElectronicHorizonDataLoaderC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-ElectronicHorizonDataLoader" class="dashAnchor"></span> <a href="sdk-for-ios-explore-electronichorizon#sdk-for-ios-explore-s-7heresdk27ElectronicHorizonDataLoaderC" class="token"><code>ElectronicHorizonDataLoader</code></a> 
 
   </div>
 
@@ -121,7 +121,7 @@ slug: "sdk-for-ios-explore-electronichorizon"
 
 - <div>
 
-  ` `<span id="/s:7heresdk36ElectronicHorizonDataLoaderErrorCodeO"></span>` `<span id="//apple_ref/swift/Enum/ElectronicHorizonDataLoaderErrorCode" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-electronichorizon#/s:7heresdk36ElectronicHorizonDataLoaderErrorCodeO" class="token"><code>ElectronicHorizonDataLoaderErrorCode</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk36ElectronicHorizonDataLoaderErrorCodeO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-ElectronicHorizonDataLoaderErrorCode" class="dashAnchor"></span> <a href="sdk-for-ios-explore-electronichorizon#sdk-for-ios-explore-s-7heresdk36ElectronicHorizonDataLoaderErrorCodeO" class="token"><code>ElectronicHorizonDataLoaderErrorCode</code></a> 
 
   </div>
 
@@ -139,12 +139,7 @@ slug: "sdk-for-ios-explore-electronichorizon"
 
   <div class="abstract">
 
-  Represents error codes that describe the result of the
-
-      ElectronicHorizonDataLoader.getSegment(...)
-
-  method.
-  </p>
+  Represents error codes that describe the result of the <a href="sdk-for-ios-explore-classes-electronichorizondataloader#sdk-for-ios-explore-s-7heresdk27ElectronicHorizonDataLoaderC10getSegment9segmentIdAA0bcdE6ResultVAA018DirectedOCMSegmentI0V_tF">`ElectronicHorizonDataLoader.getSegment(...)`</a> method.
 
   **Note:** This is a beta release of this feature, so there could be a few bugs and unexpected behaviors. Related APIs may change for new releases without a deprecation process.
 
@@ -176,7 +171,7 @@ slug: "sdk-for-ios-explore-electronichorizon"
 
 - <div>
 
-  ` `<span id="/s:7heresdk33ElectronicHorizonDataLoaderResultV"></span>` `<span id="//apple_ref/swift/Struct/ElectronicHorizonDataLoaderResult" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-electronichorizon#/s:7heresdk33ElectronicHorizonDataLoaderResultV" class="token"><code>ElectronicHorizonDataLoaderResult</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk33ElectronicHorizonDataLoaderResultV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-ElectronicHorizonDataLoaderResult" class="dashAnchor"></span> <a href="sdk-for-ios-explore-electronichorizon#sdk-for-ios-explore-s-7heresdk33ElectronicHorizonDataLoaderResultV" class="token"><code>ElectronicHorizonDataLoaderResult</code></a> 
 
   </div>
 
@@ -224,7 +219,7 @@ slug: "sdk-for-ios-explore-electronichorizon"
 
 - <div>
 
-  ` `<span id="/s:7heresdk33ElectronicHorizonDataLoadedStatusO"></span>` `<span id="//apple_ref/swift/Enum/ElectronicHorizonDataLoadedStatus" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-electronichorizon#/s:7heresdk33ElectronicHorizonDataLoadedStatusO" class="token"><code>ElectronicHorizonDataLoadedStatus</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk33ElectronicHorizonDataLoadedStatusO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-ElectronicHorizonDataLoadedStatus" class="dashAnchor"></span> <a href="sdk-for-ios-explore-electronichorizon#sdk-for-ios-explore-s-7heresdk33ElectronicHorizonDataLoadedStatusO" class="token"><code>ElectronicHorizonDataLoadedStatus</code></a> 
 
   </div>
 
@@ -270,7 +265,7 @@ slug: "sdk-for-ios-explore-electronichorizon"
 
 - <div>
 
-  ` `<span id="/s:7heresdk41ElectronicHorizonDataLoaderStatusDelegateP"></span>` `<span id="//apple_ref/swift/Protocol/ElectronicHorizonDataLoaderStatusDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-electronichorizon#/s:7heresdk41ElectronicHorizonDataLoaderStatusDelegateP" class="token"><code>ElectronicHorizonDataLoaderStatusDelegate</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk41ElectronicHorizonDataLoaderStatusDelegateP"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Protocol-ElectronicHorizonDataLoaderStatusDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-explore-electronichorizon#sdk-for-ios-explore-s-7heresdk41ElectronicHorizonDataLoaderStatusDelegateP" class="token"><code>ElectronicHorizonDataLoaderStatusDelegate</code></a> 
 
   </div>
 
@@ -288,12 +283,7 @@ slug: "sdk-for-ios-explore-electronichorizon"
 
   <div class="abstract">
 
-  Provides a delegate for status updates from the
-
-      ElectronicHorizonDataLoader.loadData(...)
-
-  method. The listener receives the current state for different levels of the paths as <a href="sdk-for-ios-explore-enums-electronichorizondataloadedstatus">`ElectronicHorizonDataLoadedStatus`</a>.
-  </p>
+  Provides a delegate for status updates from the <a href="sdk-for-ios-explore-classes-electronichorizondataloader#sdk-for-ios-explore-s-7heresdk27ElectronicHorizonDataLoaderC04loadD0010electronicC6UpdateyAA0bcH0V_tF">`ElectronicHorizonDataLoader.loadData(...)`</a> method. The listener receives the current state for different levels of the paths as <a href="sdk-for-ios-explore-enums-electronichorizondataloadedstatus">`ElectronicHorizonDataLoadedStatus`</a>.
 
   Note: This is a **beta** release of this feature, so there could be a few bugs and unexpected behaviors. Related APIs may change for new releases without a deprecation process.
 
@@ -325,7 +315,7 @@ slug: "sdk-for-ios-explore-electronichorizon"
 
 - <div>
 
-  ` `<span id="/s:7heresdk25ElectronicHorizonDelegateP"></span>` `<span id="//apple_ref/swift/Protocol/ElectronicHorizonDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-electronichorizon#/s:7heresdk25ElectronicHorizonDelegateP" class="token"><code>ElectronicHorizonDelegate</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk25ElectronicHorizonDelegateP"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Protocol-ElectronicHorizonDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-explore-electronichorizon#sdk-for-ios-explore-s-7heresdk25ElectronicHorizonDelegateP" class="token"><code>ElectronicHorizonDelegate</code></a> 
 
   </div>
 
@@ -343,12 +333,7 @@ slug: "sdk-for-ios-explore-electronichorizon"
 
   <div class="abstract">
 
-  Provides a delegate for receiving updates during execution of the
-
-      ElectronicHorizonEngine.update(...)
-
-  method.
-  </p>
+  Provides a delegate for receiving updates during execution of the <a href="sdk-for-ios-explore-classes-electronichorizonengine#sdk-for-ios-explore-s-7heresdk23ElectronicHorizonEngineC6update18mapMatchedLocationyAA03MapgH0V_tF">`ElectronicHorizonEngine.update(...)`</a> method.
 
   **Note:** This is a beta release of this feature, so there could be a few bugs and unexpected behaviors. Related APIs may change for new releases without a deprecation process.
 
@@ -380,7 +365,7 @@ slug: "sdk-for-ios-explore-electronichorizon"
 
 - <div>
 
-  ` `<span id="/s:7heresdk23ElectronicHorizonEngineC"></span>` `<span id="//apple_ref/swift/Class/ElectronicHorizonEngine" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-electronichorizon#/s:7heresdk23ElectronicHorizonEngineC" class="token"><code>ElectronicHorizonEngine</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk23ElectronicHorizonEngineC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-ElectronicHorizonEngine" class="dashAnchor"></span> <a href="sdk-for-ios-explore-electronichorizon#sdk-for-ios-explore-s-7heresdk23ElectronicHorizonEngineC" class="token"><code>ElectronicHorizonEngine</code></a> 
 
   </div>
 
@@ -398,7 +383,7 @@ slug: "sdk-for-ios-explore-electronichorizon"
 
   <div class="abstract">
 
-  Provides an electronic horizon engine that continuously predicts the road network ahead of the vehicle by using detailed map data, including road topography that is currently out of sight. You can subscribe to electronic horizon updates based on position updates by using <a href="sdk-for-ios-explore-protocols-electronichorizondelegate">`ElectronicHorizonDelegate`</a>. For more information about sub path levels, see <a href="sdk-for-ios-explore-structs-electronichorizonoptions#/s:7heresdk24ElectronicHorizonOptionsV26lookAheadDistancesInMetersSaySdGvp">`ElectronicHorizonOptions.lookAheadDistancesInMeters`</a>.
+  Provides an electronic horizon engine that continuously predicts the road network ahead of the vehicle by using detailed map data, including road topography that is currently out of sight. You can subscribe to electronic horizon updates based on position updates by using <a href="sdk-for-ios-explore-protocols-electronichorizondelegate">`ElectronicHorizonDelegate`</a>. For more information about sub path levels, see <a href="sdk-for-ios-explore-structs-electronichorizonoptions#sdk-for-ios-explore-s-7heresdk24ElectronicHorizonOptionsV26lookAheadDistancesInMetersSaySdGvp">`ElectronicHorizonOptions.lookAheadDistancesInMeters`</a>.
 
   The electronic horizon engine uses map-matched locations and can optionally use a <a href="sdk-for-ios-explore-classes-route">`Route`</a> to improve the most-preferred path (MPP).
 
@@ -438,7 +423,7 @@ slug: "sdk-for-ios-explore-electronichorizon"
 
 - <div>
 
-  ` `<span id="/s:7heresdk26ElectronicHorizonErrorCodeO"></span>` `<span id="//apple_ref/swift/Enum/ElectronicHorizonErrorCode" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-electronichorizon#/s:7heresdk26ElectronicHorizonErrorCodeO" class="token"><code>ElectronicHorizonErrorCode</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk26ElectronicHorizonErrorCodeO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-ElectronicHorizonErrorCode" class="dashAnchor"></span> <a href="sdk-for-ios-explore-electronichorizon#sdk-for-ios-explore-s-7heresdk26ElectronicHorizonErrorCodeO" class="token"><code>ElectronicHorizonErrorCode</code></a> 
 
   </div>
 
@@ -456,12 +441,7 @@ slug: "sdk-for-ios-explore-electronichorizon"
 
   <div class="abstract">
 
-  Represents error codes that describe the result of the
-
-      ElectronicHorizonEngine.update(...)
-
-  method.
-  </p>
+  Represents error codes that describe the result of the <a href="sdk-for-ios-explore-classes-electronichorizonengine#sdk-for-ios-explore-s-7heresdk23ElectronicHorizonEngineC6update18mapMatchedLocationyAA03MapgH0V_tF">`ElectronicHorizonEngine.update(...)`</a> method.
 
   **Note:** This is a beta release of this feature, so there could be a few bugs and unexpected behaviors. Related APIs may change for new releases without a deprecation process.
 
@@ -493,7 +473,7 @@ slug: "sdk-for-ios-explore-electronichorizon"
 
 - <div>
 
-  ` `<span id="/s:7heresdk24ElectronicHorizonOptionsV"></span>` `<span id="//apple_ref/swift/Struct/ElectronicHorizonOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-electronichorizon#/s:7heresdk24ElectronicHorizonOptionsV" class="token"><code>ElectronicHorizonOptions</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk24ElectronicHorizonOptionsV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-ElectronicHorizonOptions" class="dashAnchor"></span> <a href="sdk-for-ios-explore-electronichorizon#sdk-for-ios-explore-s-7heresdk24ElectronicHorizonOptionsV" class="token"><code>ElectronicHorizonOptions</code></a> 
 
   </div>
 
@@ -541,7 +521,7 @@ slug: "sdk-for-ios-explore-electronichorizon"
 
 - <div>
 
-  ` `<span id="/s:7heresdk21ElectronicHorizonPathV"></span>` `<span id="//apple_ref/swift/Struct/ElectronicHorizonPath" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-electronichorizon#/s:7heresdk21ElectronicHorizonPathV" class="token"><code>ElectronicHorizonPath</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk21ElectronicHorizonPathV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-ElectronicHorizonPath" class="dashAnchor"></span> <a href="sdk-for-ios-explore-electronichorizon#sdk-for-ios-explore-s-7heresdk21ElectronicHorizonPathV" class="token"><code>ElectronicHorizonPath</code></a> 
 
   </div>
 
@@ -589,7 +569,7 @@ slug: "sdk-for-ios-explore-electronichorizon"
 
 - <div>
 
-  ` `<span id="/s:7heresdk25ElectronicHorizonPositionV"></span>` `<span id="//apple_ref/swift/Struct/ElectronicHorizonPosition" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-electronichorizon#/s:7heresdk25ElectronicHorizonPositionV" class="token"><code>ElectronicHorizonPosition</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk25ElectronicHorizonPositionV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-ElectronicHorizonPosition" class="dashAnchor"></span> <a href="sdk-for-ios-explore-electronichorizon#sdk-for-ios-explore-s-7heresdk25ElectronicHorizonPositionV" class="token"><code>ElectronicHorizonPosition</code></a> 
 
   </div>
 
@@ -637,7 +617,7 @@ slug: "sdk-for-ios-explore-electronichorizon"
 
 - <div>
 
-  ` `<span id="/s:7heresdk24ElectronicHorizonSegmentV"></span>` `<span id="//apple_ref/swift/Struct/ElectronicHorizonSegment" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-electronichorizon#/s:7heresdk24ElectronicHorizonSegmentV" class="token"><code>ElectronicHorizonSegment</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk24ElectronicHorizonSegmentV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-ElectronicHorizonSegment" class="dashAnchor"></span> <a href="sdk-for-ios-explore-electronichorizon#sdk-for-ios-explore-s-7heresdk24ElectronicHorizonSegmentV" class="token"><code>ElectronicHorizonSegment</code></a> 
 
   </div>
 
@@ -685,7 +665,7 @@ slug: "sdk-for-ios-explore-electronichorizon"
 
 - <div>
 
-  ` `<span id="/s:7heresdk31ElectronicHorizonSegmentChangesV"></span>` `<span id="//apple_ref/swift/Struct/ElectronicHorizonSegmentChanges" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-electronichorizon#/s:7heresdk31ElectronicHorizonSegmentChangesV" class="token"><code>ElectronicHorizonSegmentChanges</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk31ElectronicHorizonSegmentChangesV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-ElectronicHorizonSegmentChanges" class="dashAnchor"></span> <a href="sdk-for-ios-explore-electronichorizon#sdk-for-ios-explore-s-7heresdk31ElectronicHorizonSegmentChangesV" class="token"><code>ElectronicHorizonSegmentChanges</code></a> 
 
   </div>
 
@@ -733,7 +713,7 @@ slug: "sdk-for-ios-explore-electronichorizon"
 
 - <div>
 
-  ` `<span id="/s:7heresdk26ElectronicHorizonSegmentIdV"></span>` `<span id="//apple_ref/swift/Struct/ElectronicHorizonSegmentId" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-electronichorizon#/s:7heresdk26ElectronicHorizonSegmentIdV" class="token"><code>ElectronicHorizonSegmentId</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk26ElectronicHorizonSegmentIdV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-ElectronicHorizonSegmentId" class="dashAnchor"></span> <a href="sdk-for-ios-explore-electronichorizon#sdk-for-ios-explore-s-7heresdk26ElectronicHorizonSegmentIdV" class="token"><code>ElectronicHorizonSegmentId</code></a> 
 
   </div>
 
@@ -781,7 +761,7 @@ slug: "sdk-for-ios-explore-electronichorizon"
 
 - <div>
 
-  ` `<span id="/s:7heresdk23ElectronicHorizonUpdateV"></span>` `<span id="//apple_ref/swift/Struct/ElectronicHorizonUpdate" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-electronichorizon#/s:7heresdk23ElectronicHorizonUpdateV" class="token"><code>ElectronicHorizonUpdate</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk23ElectronicHorizonUpdateV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-ElectronicHorizonUpdate" class="dashAnchor"></span> <a href="sdk-for-ios-explore-electronichorizon#sdk-for-ios-explore-s-7heresdk23ElectronicHorizonUpdateV" class="token"><code>ElectronicHorizonUpdate</code></a> 
 
   </div>
 

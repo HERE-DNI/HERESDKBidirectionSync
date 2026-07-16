@@ -27,7 +27,7 @@ Structure holding various information received with response to a query.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15ResponseDetailsV13correlationIdSSvp"></span>` `<span id="//apple_ref/swift/Property/correlationId" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-responsedetails#/s:7heresdk15ResponseDetailsV13correlationIdSSvp" class="token"><code>correlationId</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15ResponseDetailsV13correlationIdSSvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-correlationId" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-responsedetails#sdk-for-ios-explore-s-7heresdk15ResponseDetailsV13correlationIdSSvp" class="token"><code>correlationId</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Structure holding various information received with response to a query.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15ResponseDetailsV9requestIdSSvp"></span>` `<span id="//apple_ref/swift/Property/requestId" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-responsedetails#/s:7heresdk15ResponseDetailsV9requestIdSSvp" class="token"><code>requestId</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15ResponseDetailsV9requestIdSSvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-requestId" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-responsedetails#sdk-for-ios-explore-s-7heresdk15ResponseDetailsV9requestIdSSvp" class="token"><code>requestId</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Structure holding various information received with response to a query.
 
 - <div>
 
-      init(correlationId: requestId: )
+   <span id="sdk-for-ios-explore-s-7heresdk15ResponseDetailsV13correlationId07requestE0ACSS_SStcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-correlationId-requestId" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-responsedetails#sdk-for-ios-explore-s-7heresdk15ResponseDetailsV13correlationId07requestE0ACSS_SStcfc" class="token"><code>init(correlationId:</code><wbr></wbr><code>requestId:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -146,10 +146,8 @@ Structure holding various information received with response to a query.
   Swift
 
   ``` highlight
-  public init ( correlationId : String , requestId : String )
+  public init(correlationId: String, requestId: String)
   ```
-
-  </pre>
 
   </div>
 

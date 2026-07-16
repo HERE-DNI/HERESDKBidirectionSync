@@ -27,7 +27,7 @@ Represents a set of administrative rules for a country or a state.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14AdminContextIdV2ids6UInt32Vvp"></span>` `<span id="//apple_ref/swift/Property/id" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-admincontextid#/s:7heresdk14AdminContextIdV2ids6UInt32Vvp" class="token"><code>id</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14AdminContextIdV2ids6UInt32Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-id" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-admincontextid#sdk-for-ios-explore-s-7heresdk14AdminContextIdV2ids6UInt32Vvp" class="token"><code>id</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Represents a set of administrative rules for a country or a state.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14AdminContextIdV13catalogHandles6UInt32Vvp"></span>` `<span id="//apple_ref/swift/Property/catalogHandle" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-admincontextid#/s:7heresdk14AdminContextIdV13catalogHandles6UInt32Vvp" class="token"><code>catalogHandle</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14AdminContextIdV13catalogHandles6UInt32Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-catalogHandle" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-admincontextid#sdk-for-ios-explore-s-7heresdk14AdminContextIdV13catalogHandles6UInt32Vvp" class="token"><code>catalogHandle</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Represents a set of administrative rules for a country or a state.
 
 - <div>
 
-      init(id: catalogHandle: )
+   <span id="sdk-for-ios-explore-s-7heresdk14AdminContextIdV2id13catalogHandleACs6UInt32V_AGtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-id-catalogHandle" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-admincontextid#sdk-for-ios-explore-s-7heresdk14AdminContextIdV2id13catalogHandleACs6UInt32V_AGtcfc" class="token"><code>init(id:</code><wbr></wbr><code>catalogHandle:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -146,10 +146,8 @@ Represents a set of administrative rules for a country or a state.
   Swift
 
   ``` highlight
-  public init ( id : UInt32 = 0 , catalogHandle : UInt32 = 0 )
+  public init(id: UInt32 = 0, catalogHandle: UInt32 = 0)
   ```
-
-  </pre>
 
   </div>
 

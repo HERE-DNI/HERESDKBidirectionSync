@@ -35,7 +35,7 @@ Use the IsolineRoutingEngine to calculate a reachable area from a center point. 
 
 - <div>
 
-      init()
+   <span id="sdk-for-ios-navigate-s-7heresdk20IsolineRoutingEngineCACyKcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-isolineroutingengine#sdk-for-ios-navigate-s-7heresdk20IsolineRoutingEngineCACyKcfc" class="token"><code>init()</code></a> 
 
   </div>
 
@@ -59,7 +59,7 @@ Use the IsolineRoutingEngine to calculate a reachable area from a center point. 
 
   Throws
 
-  <a href="sdk-for-ios-navigate-core#/s:7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
+  <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
 
   </div>
 
@@ -74,10 +74,8 @@ Use the IsolineRoutingEngine to calculate a reachable area from a center point. 
   Swift
 
   ``` highlight
-  public init () throws
+  public init() throws
   ```
-
-  </pre>
 
   </div>
 
@@ -89,7 +87,7 @@ Use the IsolineRoutingEngine to calculate a reachable area from a center point. 
 
 - <div>
 
-      init(connectionSettings: )
+   <span id="sdk-for-ios-navigate-s-7heresdk20IsolineRoutingEngineC18connectionSettingsAcA0c10ConnectionF0V_tKcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-connectionSettings" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-isolineroutingengine#sdk-for-ios-navigate-s-7heresdk20IsolineRoutingEngineC18connectionSettingsAcA0c10ConnectionF0V_tKcfc" class="token"><code>init(connectionSettings:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -113,7 +111,7 @@ Use the IsolineRoutingEngine to calculate a reachable area from a center point. 
 
   Throws
 
-  <a href="sdk-for-ios-navigate-core#/s:7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
+  <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
 
   </div>
 
@@ -128,12 +126,14 @@ Use the IsolineRoutingEngine to calculate a reachable area from a center point. 
   Swift
 
   ``` highlight
-  public init ( connectionSettings : RoutingConnectionSettings ) throws
+  public init(connectionSettings: RoutingConnectionSettings) throws
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-routingconnectionsettings">RoutingConnectionSettings</a>
 
   </div>
 
@@ -164,7 +164,7 @@ Use the IsolineRoutingEngine to calculate a reachable area from a center point. 
 
 - <div>
 
-      init(_: connectionSettings: )
+   <span id="sdk-for-ios-navigate-s-7heresdk20IsolineRoutingEngineC_18connectionSettingsAcA09SDKNativeD0C_AA0c10ConnectionF0VtKcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-_-connectionSettings" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-isolineroutingengine#sdk-for-ios-navigate-s-7heresdk20IsolineRoutingEngineC_18connectionSettingsAcA09SDKNativeD0C_AA0c10ConnectionF0VtKcfc" class="token"><code>init(_:</code><wbr></wbr><code>connectionSettings:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -188,7 +188,7 @@ Use the IsolineRoutingEngine to calculate a reachable area from a center point. 
 
   Throws
 
-  <a href="sdk-for-ios-navigate-core#/s:7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
+  <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
 
   </div>
 
@@ -203,12 +203,15 @@ Use the IsolineRoutingEngine to calculate a reachable area from a center point. 
   Swift
 
   ``` highlight
-  public init ( _ sdkEngine : SDKNativeEngine , connectionSettings : RoutingConnectionSettings ) throws
+  public init(_ sdkEngine: SDKNativeEngine, connectionSettings: RoutingConnectionSettings) throws
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-sdknativeengine">SDKNativeEngine</a>
+  - <a href="sdk-for-ios-navigate-structs-routingconnectionsettings">RoutingConnectionSettings</a>
 
   </div>
 
@@ -245,7 +248,7 @@ Use the IsolineRoutingEngine to calculate a reachable area from a center point. 
 
 - <div>
 
-      init(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk20IsolineRoutingEngineCyAcA09SDKNativeD0CKcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-isolineroutingengine#sdk-for-ios-navigate-s-7heresdk20IsolineRoutingEngineCyAcA09SDKNativeD0CKcfc" class="token"><code>init(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -269,7 +272,7 @@ Use the IsolineRoutingEngine to calculate a reachable area from a center point. 
 
   Throws
 
-  <a href="sdk-for-ios-navigate-core#/s:7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
+  <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
 
   </div>
 
@@ -284,12 +287,14 @@ Use the IsolineRoutingEngine to calculate a reachable area from a center point. 
   Swift
 
   ``` highlight
-  public init ( _ sdkEngine : SDKNativeEngine ) throws
+  public init(_ sdkEngine: SDKNativeEngine) throws
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-sdknativeengine">SDKNativeEngine</a>
 
   </div>
 
@@ -320,7 +325,7 @@ Use the IsolineRoutingEngine to calculate a reachable area from a center point. 
 
 - <div>
 
-      calculateIsoline(center: isolineOptions: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk20IsolineRoutingEngineC09calculateB06center14isolineOptions10completionAA10TaskHandle_pAA8WaypointV_AA0bH0VyAA0C5ErrorOSg_SayAA0B0CGSgtctF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-calculateIsoline-center-isolineOptions-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-isolineroutingengine#sdk-for-ios-navigate-s-7heresdk20IsolineRoutingEngineC09calculateB06center14isolineOptions10completionAA10TaskHandle_pAA8WaypointV_AA0bH0VyAA0C5ErrorOSg_SayAA0B0CGSgtctF" class="token"><code>calculateIsoline(center:</code><wbr></wbr><code>isolineOptions:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -351,12 +356,18 @@ Use the IsolineRoutingEngine to calculate a reachable area from a center point. 
   Swift
 
   ``` highlight
-  @discardableResult public func calculateIsoline ( center : Waypoint , isolineOptions : IsolineOptions , completion : @escaping CalculateIsolineCompletionHandler ) -> TaskHandle
+  @discardableResult
+  public func calculateIsoline(center: Waypoint, isolineOptions: IsolineOptions, completion: @escaping CalculateIsolineCompletionHandler) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-waypoint">Waypoint</a>
+  - <a href="sdk-for-ios-navigate-structs-isolineoptions">IsolineOptions</a>
+  - <a href="sdk-for-ios-navigate-routing#sdk-for-ios-navigate-s-7heresdk33CalculateIsolineCompletionHandlera">CalculateIsolineCompletionHandler</a>
+  - <a href="sdk-for-ios-navigate-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -407,7 +418,7 @@ Use the IsolineRoutingEngine to calculate a reachable area from a center point. 
 
 - <div>
 
-      setCustomOption(name: value: )
+   <span id="sdk-for-ios-navigate-s-7heresdk20IsolineRoutingEngineC15setCustomOption4name5valueAA0C5ErrorOSgSS_SSSgtF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-setCustomOption-name-value" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-isolineroutingengine#sdk-for-ios-navigate-s-7heresdk20IsolineRoutingEngineC15setCustomOption4name5valueAA0C5ErrorOSgSS_SSSgtF" class="token"><code>setCustomOption(name:</code><wbr></wbr><code>value:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -438,12 +449,14 @@ Use the IsolineRoutingEngine to calculate a reachable area from a center point. 
   Swift
 
   ``` highlight
-  public func setCustomOption ( name : String , value : String ?) -> RoutingError ?
+  public func setCustomOption(name: String, value: String?) -> RoutingError?
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-routingerror">RoutingError</a>
 
   </div>
 

@@ -17,7 +17,7 @@ public struct AddressQuery : Hashable
 
 </div>
 
-The options to specify an address query. A <a href="sdk-for-ios-navigate-structs-addressquery#/s:7heresdk12AddressQueryV5querySSvp">`AddressQuery.query`</a> can consist of parts of an address or full addresses, optionally comma separated. `AddressQuery` should only be used to search for parts of the address, excluding the POI name. For example, “Invalidenstraße 116, Berlin, Germany” is appropriate, whereas “HERE, Invalidenstraße 116, Berlin, Germany” is not. To be able to include the POI name, use <a href="sdk-for-ios-navigate-structs-textquery">`TextQuery`</a> instead. <a href="sdk-for-ios-navigate-structs-searchoptions#/s:7heresdk13SearchOptionsV12languageCodeAA08LanguageE0OSgvp">`SearchOptions.languageCode`</a> specifies the language of the <a href="sdk-for-ios-navigate-structs-addressquery#/s:7heresdk12AddressQueryV5querySSvp">`AddressQuery.query`</a> and determines the preferred language of the results.
+The options to specify an address query. A <a href="sdk-for-ios-navigate-structs-addressquery#sdk-for-ios-navigate-s-7heresdk12AddressQueryV5querySSvp">`AddressQuery.query`</a> can consist of parts of an address or full addresses, optionally comma separated. `AddressQuery` should only be used to search for parts of the address, excluding the POI name. For example, “Invalidenstraße 116, Berlin, Germany” is appropriate, whereas “HERE, Invalidenstraße 116, Berlin, Germany” is not. To be able to include the POI name, use <a href="sdk-for-ios-navigate-structs-textquery">`TextQuery`</a> instead. <a href="sdk-for-ios-navigate-structs-searchoptions#sdk-for-ios-navigate-s-7heresdk13SearchOptionsV12languageCodeAA08LanguageE0OSgvp">`SearchOptions.languageCode`</a> specifies the language of the <a href="sdk-for-ios-navigate-structs-addressquery#sdk-for-ios-navigate-s-7heresdk12AddressQueryV5querySSvp">`AddressQuery.query`</a> and determines the preferred language of the results.
 
 </div>
 
@@ -27,7 +27,7 @@ The options to specify an address query. A <a href="sdk-for-ios-navigate-structs
 
 - <div>
 
-  ` `<span id="/s:7heresdk12AddressQueryV5querySSvp"></span>` `<span id="//apple_ref/swift/Property/query" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-addressquery#/s:7heresdk12AddressQueryV5querySSvp" class="token"><code>query</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12AddressQueryV5querySSvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-query" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-addressquery#sdk-for-ios-navigate-s-7heresdk12AddressQueryV5querySSvp" class="token"><code>query</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ The options to specify an address query. A <a href="sdk-for-ios-navigate-structs
 
 - <div>
 
-  ` `<span id="/s:7heresdk12AddressQueryV10areaCenterAA14GeoCoordinatesVSgvp"></span>` `<span id="//apple_ref/swift/Property/areaCenter" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-addressquery#/s:7heresdk12AddressQueryV10areaCenterAA14GeoCoordinatesVSgvp" class="token"><code>areaCenter</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12AddressQueryV10areaCenterAA14GeoCoordinatesVSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-areaCenter" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-addressquery#sdk-for-ios-navigate-s-7heresdk12AddressQueryV10areaCenterAA14GeoCoordinatesVSgvp" class="token"><code>areaCenter</code></a> 
 
   </div>
 
@@ -89,7 +89,7 @@ The options to specify an address query. A <a href="sdk-for-ios-navigate-structs
 
   <div class="abstract">
 
-  Geographical coordinates of the center around which to provide the most relevant places. For Offline Search null value will result in <a href="sdk-for-ios-navigate-enums-searcherror#/s:7heresdk11SearchErrorO11invalidAreayA2CmF">`SearchError.invalidArea`</a>
+  Geographical coordinates of the center around which to provide the most relevant places. For Offline Search null value will result in <a href="sdk-for-ios-navigate-enums-searcherror#sdk-for-ios-navigate-s-7heresdk11SearchErrorO11invalidAreayA2CmF">`SearchError.invalidArea`</a>
 
   </div>
 
@@ -107,6 +107,10 @@ The options to specify an address query. A <a href="sdk-for-ios-navigate-structs
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-geocoordinates">GeoCoordinates</a>
+
   </div>
 
   </div>
@@ -115,7 +119,7 @@ The options to specify an address query. A <a href="sdk-for-ios-navigate-structs
 
 - <div>
 
-  ` `<span id="/s:7heresdk12AddressQueryV9countriesSayAA11CountryCodeOGvp"></span>` `<span id="//apple_ref/swift/Property/countries" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-addressquery#/s:7heresdk12AddressQueryV9countriesSayAA11CountryCodeOGvp" class="token"><code>countries</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk12AddressQueryV9countriesSayAA11CountryCodeOGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-countries" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-addressquery#sdk-for-ios-navigate-s-7heresdk12AddressQueryV9countriesSayAA11CountryCodeOGvp" class="token"><code>countries</code></a> 
 
   </div>
 
@@ -151,6 +155,10 @@ The options to specify an address query. A <a href="sdk-for-ios-navigate-structs
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-countrycode">CountryCode</a>
+
   </div>
 
   </div>
@@ -159,7 +167,7 @@ The options to specify an address query. A <a href="sdk-for-ios-navigate-structs
 
 - <div>
 
-      init(_: near: )
+   <span id="sdk-for-ios-navigate-s-7heresdk12AddressQueryV_4nearACSS_AA14GeoCoordinatesVtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-_-near" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-addressquery#sdk-for-ios-navigate-s-7heresdk12AddressQueryV_4nearACSS_AA14GeoCoordinatesVtcfc" class="token"><code>init(_:</code><wbr></wbr><code>near:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -190,12 +198,14 @@ The options to specify an address query. A <a href="sdk-for-ios-navigate-structs
   Swift
 
   ``` highlight
-  public init ( _ query : String , near areaCenter : GeoCoordinates )
+  public init(_ query: String, near areaCenter: GeoCoordinates)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-geocoordinates">GeoCoordinates</a>
 
   </div>
 
@@ -232,7 +242,7 @@ The options to specify an address query. A <a href="sdk-for-ios-navigate-structs
 
 - <div>
 
-      init(_: near: inCountries: )
+   <span id="sdk-for-ios-navigate-s-7heresdk12AddressQueryV_4near11inCountriesACSS_AA14GeoCoordinatesVSayAA11CountryCodeOGtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-_-near-inCountries" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-addressquery#sdk-for-ios-navigate-s-7heresdk12AddressQueryV_4near11inCountriesACSS_AA14GeoCoordinatesVSayAA11CountryCodeOGtcfc" class="token"><code>init(_:</code><wbr></wbr><code>near:</code><wbr></wbr><code>inCountries:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -263,12 +273,15 @@ The options to specify an address query. A <a href="sdk-for-ios-navigate-structs
   Swift
 
   ``` highlight
-  public init ( _ query : String , near areaCenter : GeoCoordinates , inCountries countries : [ CountryCode ])
+  public init(_ query: String, near areaCenter: GeoCoordinates, inCountries countries: [CountryCode])
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-geocoordinates">GeoCoordinates</a>
+  - <a href="sdk-for-ios-navigate-enums-countrycode">CountryCode</a>
 
   </div>
 
@@ -311,7 +324,7 @@ The options to specify an address query. A <a href="sdk-for-ios-navigate-structs
 
 - <div>
 
-      init(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk12AddressQueryVyACSScfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-addressquery#sdk-for-ios-navigate-s-7heresdk12AddressQueryVyACSScfc" class="token"><code>init(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -342,10 +355,8 @@ The options to specify an address query. A <a href="sdk-for-ios-navigate-structs
   Swift
 
   ``` highlight
-  public init ( _ query : String )
+  public init(_ query: String)
   ```
-
-  </pre>
 
   </div>
 

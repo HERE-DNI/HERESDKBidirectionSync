@@ -31,7 +31,7 @@ Describes the reason for failing to configure <a href="sdk-for-ios-explore-class
 
 - <div>
 
-  ` `<span id="/s:7heresdk30ExternalMapDataSourceErrorCodeO08internalF0yA2CmF"></span>` `<span id="//apple_ref/swift/Element/internalError" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-externalmapdatasourceerrorcode#/s:7heresdk30ExternalMapDataSourceErrorCodeO08internalF0yA2CmF" class="token"><code>internalError</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk30ExternalMapDataSourceErrorCodeO08internalF0yA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-internalError" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-externalmapdatasourceerrorcode#sdk-for-ios-explore-s-7heresdk30ExternalMapDataSourceErrorCodeO08internalF0yA2CmF" class="token"><code>internalError</code></a> 
 
   </div>
 
@@ -75,7 +75,7 @@ Describes the reason for failing to configure <a href="sdk-for-ios-explore-class
 
 - <div>
 
-  ` `<span id="/s:7heresdk30ExternalMapDataSourceErrorCodeO010addCatalogF0yA2CmF"></span>` `<span id="//apple_ref/swift/Element/addCatalogError" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-externalmapdatasourceerrorcode#/s:7heresdk30ExternalMapDataSourceErrorCodeO010addCatalogF0yA2CmF" class="token"><code>addCatalogError</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk30ExternalMapDataSourceErrorCodeO010addCatalogF0yA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-addCatalogError" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-externalmapdatasourceerrorcode#sdk-for-ios-explore-s-7heresdk30ExternalMapDataSourceErrorCodeO010addCatalogF0yA2CmF" class="token"><code>addCatalogError</code></a> 
 
   </div>
 
@@ -119,7 +119,7 @@ Describes the reason for failing to configure <a href="sdk-for-ios-explore-class
 
 - <div>
 
-  ` `<span id="/s:7heresdk30ExternalMapDataSourceErrorCodeO18invalidCredentialsyA2CmF"></span>` `<span id="//apple_ref/swift/Element/invalidCredentials" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-externalmapdatasourceerrorcode#/s:7heresdk30ExternalMapDataSourceErrorCodeO18invalidCredentialsyA2CmF" class="token"><code>invalidCredentials</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk30ExternalMapDataSourceErrorCodeO18invalidCredentialsyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-invalidCredentials" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-externalmapdatasourceerrorcode#sdk-for-ios-explore-s-7heresdk30ExternalMapDataSourceErrorCodeO18invalidCredentialsyA2CmF" class="token"><code>invalidCredentials</code></a> 
 
   </div>
 
@@ -163,7 +163,7 @@ Describes the reason for failing to configure <a href="sdk-for-ios-explore-class
 
 - <div>
 
-  ` `<span id="/s:7heresdk30ExternalMapDataSourceErrorCodeO015serviceRegisterF0yA2CmF"></span>` `<span id="//apple_ref/swift/Element/serviceRegisterError" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-externalmapdatasourceerrorcode#/s:7heresdk30ExternalMapDataSourceErrorCodeO015serviceRegisterF0yA2CmF" class="token"><code>serviceRegisterError</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk30ExternalMapDataSourceErrorCodeO015serviceRegisterF0yA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-serviceRegisterError" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-externalmapdatasourceerrorcode#sdk-for-ios-explore-s-7heresdk30ExternalMapDataSourceErrorCodeO015serviceRegisterF0yA2CmF" class="token"><code>serviceRegisterError</code></a> 
 
   </div>
 
@@ -207,7 +207,7 @@ Describes the reason for failing to configure <a href="sdk-for-ios-explore-class
 
 - <div>
 
-  ` `<span id="/s:7heresdk30ExternalMapDataSourceErrorCodeO014clientDisposedF0yA2CmF"></span>` `<span id="//apple_ref/swift/Element/clientDisposedError" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-externalmapdatasourceerrorcode#/s:7heresdk30ExternalMapDataSourceErrorCodeO014clientDisposedF0yA2CmF" class="token"><code>clientDisposedError</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk30ExternalMapDataSourceErrorCodeO014clientDisposedF0yA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-clientDisposedError" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-externalmapdatasourceerrorcode#sdk-for-ios-explore-s-7heresdk30ExternalMapDataSourceErrorCodeO014clientDisposedF0yA2CmF" class="token"><code>clientDisposedError</code></a> 
 
   </div>
 
@@ -251,7 +251,7 @@ Describes the reason for failing to configure <a href="sdk-for-ios-explore-class
 
 - <div>
 
-  ` `<span id="/s:7heresdk30ExternalMapDataSourceErrorCodeO17serverUnavailableyA2CmF"></span>` `<span id="//apple_ref/swift/Element/serverUnavailable" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-externalmapdatasourceerrorcode#/s:7heresdk30ExternalMapDataSourceErrorCodeO17serverUnavailableyA2CmF" class="token"><code>serverUnavailable</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk30ExternalMapDataSourceErrorCodeO17serverUnavailableyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-serverUnavailable" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-externalmapdatasourceerrorcode#sdk-for-ios-explore-s-7heresdk30ExternalMapDataSourceErrorCodeO17serverUnavailableyA2CmF" class="token"><code>serverUnavailable</code></a> 
 
   </div>
 

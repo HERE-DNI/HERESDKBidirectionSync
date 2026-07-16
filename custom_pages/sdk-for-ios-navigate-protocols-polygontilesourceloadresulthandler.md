@@ -27,7 +27,7 @@ Result handler of a load tile request.
 
 - <div>
 
-      loaded(tileKey: data: metadata: )
+   <span id="sdk-for-ios-navigate-s-7heresdk34PolygonTileSourceLoadResultHandlerP6loaded7tileKey4data8metadatayAA0cJ0V_SayAA0B4DataCGAA0cdC8MetadataVtF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-loaded-tileKey-data-metadata" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-protocols-polygontilesourceloadresulthandler#sdk-for-ios-navigate-s-7heresdk34PolygonTileSourceLoadResultHandlerP6loaded7tileKey4data8metadatayAA0cJ0V_SayAA0B4DataCGAA0cdC8MetadataVtF" class="token"><code>loaded(tileKey:</code><wbr></wbr><code>data:</code><wbr></wbr><code>metadata:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -58,12 +58,16 @@ Result handler of a load tile request.
   Swift
 
   ``` highlight
-  func loaded ( tileKey : TileKey , data : [ PolygonData ], metadata : TileSourceTileMetadata )
+  func loaded(tileKey: TileKey, data: [PolygonData], metadata: TileSourceTileMetadata)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-tilekey">TileKey</a>
+  - <a href="sdk-for-ios-navigate-maps#sdk-for-ios-navigate-s-7heresdk11PolygonDataC">PolygonData</a>
+  - <a href="sdk-for-ios-navigate-structs-tilesourcetilemetadata">TileSourceTileMetadata</a>
 
   </div>
 
@@ -106,7 +110,7 @@ Result handler of a load tile request.
 
 - <div>
 
-      failed(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk34PolygonTileSourceLoadResultHandlerP6failedyyAA0C3KeyVF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-failed-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-protocols-polygontilesourceloadresulthandler#sdk-for-ios-navigate-s-7heresdk34PolygonTileSourceLoadResultHandlerP6failedyyAA0C3KeyVF" class="token"><code>failed(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -137,12 +141,14 @@ Result handler of a load tile request.
   Swift
 
   ``` highlight
-  func failed ( _ tileKey : TileKey )
+  func failed(_ tileKey: TileKey)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-tilekey">TileKey</a>
 
   </div>
 

@@ -35,7 +35,7 @@ Use this class to process touch events from the platform and detect gesture indu
 
 - <div>
 
-  ` `<span id="/s:7heresdk8GesturesC11tapDelegateAA03TapD0_pSgvp"></span>` `<span id="//apple_ref/swift/Property/tapDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-gestures#/s:7heresdk8GesturesC11tapDelegateAA03TapD0_pSgvp" class="token"><code>tapDelegate</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk8GesturesC11tapDelegateAA03TapD0_pSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-tapDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-gestures#sdk-for-ios-explore-s-7heresdk8GesturesC11tapDelegateAA03TapD0_pSgvp" class="token"><code>tapDelegate</code></a> 
 
   </div>
 
@@ -71,6 +71,10 @@ Use this class to process touch events from the platform and detect gesture indu
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-protocols-tapdelegate">TapDelegate</a>
+
   </div>
 
   </div>
@@ -79,7 +83,7 @@ Use this class to process touch events from the platform and detect gesture indu
 
 - <div>
 
-  ` `<span id="/s:7heresdk8GesturesC17doubleTapDelegateAA06DoubledE0_pSgvp"></span>` `<span id="//apple_ref/swift/Property/doubleTapDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-gestures#/s:7heresdk8GesturesC17doubleTapDelegateAA06DoubledE0_pSgvp" class="token"><code>doubleTapDelegate</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk8GesturesC17doubleTapDelegateAA06DoubledE0_pSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-doubleTapDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-gestures#sdk-for-ios-explore-s-7heresdk8GesturesC17doubleTapDelegateAA06DoubledE0_pSgvp" class="token"><code>doubleTapDelegate</code></a> 
 
   </div>
 
@@ -115,6 +119,10 @@ Use this class to process touch events from the platform and detect gesture indu
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-protocols-doubletapdelegate">DoubleTapDelegate</a>
+
   </div>
 
   </div>
@@ -123,7 +131,7 @@ Use this class to process touch events from the platform and detect gesture indu
 
 - <div>
 
-  ` `<span id="/s:7heresdk8GesturesC19pinchRotateDelegateAA05PinchdE0_pSgvp"></span>` `<span id="//apple_ref/swift/Property/pinchRotateDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-gestures#/s:7heresdk8GesturesC19pinchRotateDelegateAA05PinchdE0_pSgvp" class="token"><code>pinchRotateDelegate</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk8GesturesC19pinchRotateDelegateAA05PinchdE0_pSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-pinchRotateDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-gestures#sdk-for-ios-explore-s-7heresdk8GesturesC19pinchRotateDelegateAA05PinchdE0_pSgvp" class="token"><code>pinchRotateDelegate</code></a> 
 
   </div>
 
@@ -159,6 +167,10 @@ Use this class to process touch events from the platform and detect gesture indu
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-protocols-pinchrotatedelegate">PinchRotateDelegate</a>
+
   </div>
 
   </div>
@@ -167,7 +179,7 @@ Use this class to process touch events from the platform and detect gesture indu
 
 - <div>
 
-  ` `<span id="/s:7heresdk8GesturesC17longPressDelegateAA04LongdE0_pSgvp"></span>` `<span id="//apple_ref/swift/Property/longPressDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-gestures#/s:7heresdk8GesturesC17longPressDelegateAA04LongdE0_pSgvp" class="token"><code>longPressDelegate</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk8GesturesC17longPressDelegateAA04LongdE0_pSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-longPressDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-gestures#sdk-for-ios-explore-s-7heresdk8GesturesC17longPressDelegateAA04LongdE0_pSgvp" class="token"><code>longPressDelegate</code></a> 
 
   </div>
 
@@ -203,6 +215,10 @@ Use this class to process touch events from the platform and detect gesture indu
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-protocols-longpressdelegate">LongPressDelegate</a>
+
   </div>
 
   </div>
@@ -211,7 +227,7 @@ Use this class to process touch events from the platform and detect gesture indu
 
 - <div>
 
-  ` `<span id="/s:7heresdk8GesturesC11panDelegateAA03PanD0_pSgvp"></span>` `<span id="//apple_ref/swift/Property/panDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-gestures#/s:7heresdk8GesturesC11panDelegateAA03PanD0_pSgvp" class="token"><code>panDelegate</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk8GesturesC11panDelegateAA03PanD0_pSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-panDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-gestures#sdk-for-ios-explore-s-7heresdk8GesturesC11panDelegateAA03PanD0_pSgvp" class="token"><code>panDelegate</code></a> 
 
   </div>
 
@@ -247,6 +263,10 @@ Use this class to process touch events from the platform and detect gesture indu
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-protocols-pandelegate">PanDelegate</a>
+
   </div>
 
   </div>
@@ -255,7 +275,7 @@ Use this class to process touch events from the platform and detect gesture indu
 
 - <div>
 
-  ` `<span id="/s:7heresdk8GesturesC20twoFingerTapDelegateAA03TwodeF0_pSgvp"></span>` `<span id="//apple_ref/swift/Property/twoFingerTapDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-gestures#/s:7heresdk8GesturesC20twoFingerTapDelegateAA03TwodeF0_pSgvp" class="token"><code>twoFingerTapDelegate</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk8GesturesC20twoFingerTapDelegateAA03TwodeF0_pSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-twoFingerTapDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-gestures#sdk-for-ios-explore-s-7heresdk8GesturesC20twoFingerTapDelegateAA03TwodeF0_pSgvp" class="token"><code>twoFingerTapDelegate</code></a> 
 
   </div>
 
@@ -291,6 +311,10 @@ Use this class to process touch events from the platform and detect gesture indu
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-protocols-twofingertapdelegate">TwoFingerTapDelegate</a>
+
   </div>
 
   </div>
@@ -299,7 +323,7 @@ Use this class to process touch events from the platform and detect gesture indu
 
 - <div>
 
-  ` `<span id="/s:7heresdk8GesturesC20twoFingerPanDelegateAA03TwodeF0_pSgvp"></span>` `<span id="//apple_ref/swift/Property/twoFingerPanDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-gestures#/s:7heresdk8GesturesC20twoFingerPanDelegateAA03TwodeF0_pSgvp" class="token"><code>twoFingerPanDelegate</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk8GesturesC20twoFingerPanDelegateAA03TwodeF0_pSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-twoFingerPanDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-gestures#sdk-for-ios-explore-s-7heresdk8GesturesC20twoFingerPanDelegateAA03TwodeF0_pSgvp" class="token"><code>twoFingerPanDelegate</code></a> 
 
   </div>
 
@@ -335,6 +359,10 @@ Use this class to process touch events from the platform and detect gesture indu
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-protocols-twofingerpandelegate">TwoFingerPanDelegate</a>
+
   </div>
 
   </div>
@@ -343,7 +371,7 @@ Use this class to process touch events from the platform and detect gesture indu
 
 - <div>
 
-      enableDefaultAction(forGesture: )
+   <span id="sdk-for-ios-explore-s-7heresdk8GesturesC19enableDefaultAction10forGestureyAA0G4TypeO_tF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-enableDefaultAction-forGesture" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-gestures#sdk-for-ios-explore-s-7heresdk8GesturesC19enableDefaultAction10forGestureyAA0G4TypeO_tF" class="token"><code>enableDefaultAction(forGesture:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -374,12 +402,14 @@ Use this class to process touch events from the platform and detect gesture indu
   Swift
 
   ``` highlight
-  public func enableDefaultAction ( forGesture gestureType : GestureType )
+  public func enableDefaultAction(forGesture gestureType: GestureType)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-gesturetype">GestureType</a>
 
   </div>
 
@@ -410,7 +440,7 @@ Use this class to process touch events from the platform and detect gesture indu
 
 - <div>
 
-      disableDefaultAction(forGesture: )
+   <span id="sdk-for-ios-explore-s-7heresdk8GesturesC20disableDefaultAction10forGestureyAA0G4TypeO_tF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-disableDefaultAction-forGesture" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-gestures#sdk-for-ios-explore-s-7heresdk8GesturesC20disableDefaultAction10forGestureyAA0G4TypeO_tF" class="token"><code>disableDefaultAction(forGesture:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -441,12 +471,14 @@ Use this class to process touch events from the platform and detect gesture indu
   Swift
 
   ``` highlight
-  public func disableDefaultAction ( forGesture gestureType : GestureType )
+  public func disableDefaultAction(forGesture gestureType: GestureType)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-gesturetype">GestureType</a>
 
   </div>
 

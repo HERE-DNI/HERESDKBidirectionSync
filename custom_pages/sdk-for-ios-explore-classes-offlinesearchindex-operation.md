@@ -27,7 +27,7 @@ Shows the operation that is performed over index.
 
 - <div>
 
-  ` `<span id="/s:7heresdk18OfflineSearchIndexC9OperationO8creatingyA2EmF"></span>` `<span id="//apple_ref/swift/Element/creating" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-offlinesearchindex-operation#/s:7heresdk18OfflineSearchIndexC9OperationO8creatingyA2EmF" class="token"><code>creating</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18OfflineSearchIndexC9OperationO8creatingyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-creating" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-offlinesearchindex-operation#sdk-for-ios-explore-s-7heresdk18OfflineSearchIndexC9OperationO8creatingyA2EmF" class="token"><code>creating</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Shows the operation that is performed over index.
 
 - <div>
 
-  ` `<span id="/s:7heresdk18OfflineSearchIndexC9OperationO8removingyA2EmF"></span>` `<span id="//apple_ref/swift/Element/removing" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-offlinesearchindex-operation#/s:7heresdk18OfflineSearchIndexC9OperationO8removingyA2EmF" class="token"><code>removing</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18OfflineSearchIndexC9OperationO8removingyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-removing" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-offlinesearchindex-operation#sdk-for-ios-explore-s-7heresdk18OfflineSearchIndexC9OperationO8removingyA2EmF" class="token"><code>removing</code></a> 
 
   </div>
 

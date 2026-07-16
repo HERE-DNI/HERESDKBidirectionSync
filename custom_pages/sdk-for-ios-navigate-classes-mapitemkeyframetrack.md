@@ -37,7 +37,7 @@ The keyframe track object is used to create animations, see <a href="sdk-for-ios
 
 - <div>
 
-  ` `<span id="/s:7heresdk20MapItemKeyFrameTrackC18InstantiationErrora"></span>` `<span id="//apple_ref/swift/Alias/InstantiationError" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapitemkeyframetrack#/s:7heresdk20MapItemKeyFrameTrackC18InstantiationErrora" class="token"><code>InstantiationError</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk20MapItemKeyFrameTrackC18InstantiationErrora"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Alias-InstantiationError" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapitemkeyframetrack#sdk-for-ios-navigate-s-7heresdk20MapItemKeyFrameTrackC18InstantiationErrora" class="token"><code>InstantiationError</code></a> 
 
   </div>
 
@@ -73,6 +73,10 @@ The keyframe track object is used to create animations, see <a href="sdk-for-ios
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mapitemkeyframetrack-instantiationerrorcode">InstantiationErrorCode</a>
+
   </div>
 
   </div>
@@ -81,7 +85,7 @@ The keyframe track object is used to create animations, see <a href="sdk-for-ios
 
 - <div>
 
-  ` `<span id="/s:7heresdk20MapItemKeyFrameTrackC22InstantiationErrorCodeO"></span>` `<span id="//apple_ref/swift/Enum/InstantiationErrorCode" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapitemkeyframetrack#/s:7heresdk20MapItemKeyFrameTrackC22InstantiationErrorCodeO" class="token"><code>InstantiationErrorCode</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk20MapItemKeyFrameTrackC22InstantiationErrorCodeO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-InstantiationErrorCode" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapitemkeyframetrack#sdk-for-ios-navigate-s-7heresdk20MapItemKeyFrameTrackC22InstantiationErrorCodeO" class="token"><code>InstantiationErrorCode</code></a> 
 
   </div>
 
@@ -123,6 +127,10 @@ The keyframe track object is used to create animations, see <a href="sdk-for-ios
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mapitemkeyframetrack">MapItemKeyFrameTrack</a>
+
   </div>
 
   </div>
@@ -131,7 +139,7 @@ The keyframe track object is used to create animations, see <a href="sdk-for-ios
 
 - <div>
 
-      moveTo(keyframes: easing: interpolationMode: )
+   <span id="sdk-for-ios-navigate-s-7heresdk20MapItemKeyFrameTrackC6moveTo9keyframes6easing17interpolationModeACSayAA22GeoCoordinatesKeyframeVG_AA6EasingCAA0o13InterpolationL0OtKFZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-moveTo-keyframes-easing-interpolationMode" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapitemkeyframetrack#sdk-for-ios-navigate-s-7heresdk20MapItemKeyFrameTrackC6moveTo9keyframes6easing17interpolationModeACSayAA22GeoCoordinatesKeyframeVG_AA6EasingCAA0o13InterpolationL0OtKFZ" class="token"><code>moveTo(keyframes:</code><wbr></wbr><code>easing:</code><wbr></wbr><code>interpolationMode:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -155,7 +163,7 @@ The keyframe track object is used to create animations, see <a href="sdk-for-ios
 
   Throws
 
-  <a href="sdk-for-ios-navigate-classes-mapitemkeyframetrack#/s:7heresdk20MapItemKeyFrameTrackC18InstantiationErrora">`MapItemKeyFrameTrack.InstantiationError`</a> If the supplied keyframe list is empty or first keyframe duration is not 0.
+  <a href="sdk-for-ios-navigate-classes-mapitemkeyframetrack#sdk-for-ios-navigate-s-7heresdk20MapItemKeyFrameTrackC18InstantiationErrora">`MapItemKeyFrameTrack.InstantiationError`</a> If the supplied keyframe list is empty or first keyframe duration is not 0.
 
   </div>
 
@@ -170,12 +178,16 @@ The keyframe track object is used to create animations, see <a href="sdk-for-ios
   Swift
 
   ``` highlight
-  public static func moveTo ( keyframes : [ GeoCoordinatesKeyframe ], easing : Easing , interpolationMode : KeyframeInterpolationMode ) throws -> MapItemKeyFrameTrack
+  public static func moveTo(keyframes: [GeoCoordinatesKeyframe], easing: Easing, interpolationMode: KeyframeInterpolationMode) throws -> MapItemKeyFrameTrack
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-geocoordinateskeyframe">GeoCoordinatesKeyframe</a>
+  - <a href="sdk-for-ios-navigate-classes-easing">Easing</a>
+  - <a href="sdk-for-ios-navigate-enums-keyframeinterpolationmode">KeyframeInterpolationMode</a>
 
   </div>
 
@@ -226,7 +238,7 @@ The keyframe track object is used to create animations, see <a href="sdk-for-ios
 
 - <div>
 
-      polylineProgress(keyframes: easing: interpolationMode: )
+   <span id="sdk-for-ios-navigate-s-7heresdk20MapItemKeyFrameTrackC16polylineProgress9keyframes6easing17interpolationModeACSayAA14ScalarKeyframeVG_AA6EasingCAA0n13InterpolationL0OtKFZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-polylineProgress-keyframes-easing-interpolationMode" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapitemkeyframetrack#sdk-for-ios-navigate-s-7heresdk20MapItemKeyFrameTrackC16polylineProgress9keyframes6easing17interpolationModeACSayAA14ScalarKeyframeVG_AA6EasingCAA0n13InterpolationL0OtKFZ" class="token"><code>polylineProgress(keyframes:</code><wbr></wbr><code>easing:</code><wbr></wbr><code>interpolationMode:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -246,13 +258,13 @@ The keyframe track object is used to create animations, see <a href="sdk-for-ios
 
   Creates a keyframe track used to animate the progress of a polyline.
 
-  Each scalar keyframe specifies the value of <a href="sdk-for-ios-navigate-classes-mappolyline#/s:7heresdk11MapPolylineC8progressSdvp">`MapPolyline.progress`</a> at key points of the animation.
+  Each scalar keyframe specifies the value of <a href="sdk-for-ios-navigate-classes-mappolyline#sdk-for-ios-navigate-s-7heresdk11MapPolylineC8progressSdvp">`MapPolyline.progress`</a> at key points of the animation.
 
   <div class="aside aside-throws">
 
   Throws
 
-  <a href="sdk-for-ios-navigate-classes-mapitemkeyframetrack#/s:7heresdk20MapItemKeyFrameTrackC18InstantiationErrora">`MapItemKeyFrameTrack.InstantiationError`</a> If the supplied keyframe list is empty or first keyframe duration is not 0.
+  <a href="sdk-for-ios-navigate-classes-mapitemkeyframetrack#sdk-for-ios-navigate-s-7heresdk20MapItemKeyFrameTrackC18InstantiationErrora">`MapItemKeyFrameTrack.InstantiationError`</a> If the supplied keyframe list is empty or first keyframe duration is not 0.
 
   </div>
 
@@ -267,12 +279,16 @@ The keyframe track object is used to create animations, see <a href="sdk-for-ios
   Swift
 
   ``` highlight
-  public static func polylineProgress ( keyframes : [ ScalarKeyframe ], easing : Easing , interpolationMode : KeyframeInterpolationMode ) throws -> MapItemKeyFrameTrack
+  public static func polylineProgress(keyframes: [ScalarKeyframe], easing: Easing, interpolationMode: KeyframeInterpolationMode) throws -> MapItemKeyFrameTrack
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-scalarkeyframe">ScalarKeyframe</a>
+  - <a href="sdk-for-ios-navigate-classes-easing">Easing</a>
+  - <a href="sdk-for-ios-navigate-enums-keyframeinterpolationmode">KeyframeInterpolationMode</a>
 
   </div>
 

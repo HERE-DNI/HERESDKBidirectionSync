@@ -27,7 +27,7 @@ Used to represent text localized to specific language.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13LocalizedTextV4textSSvp"></span>` `<span id="//apple_ref/swift/Property/text" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-localizedtext#/s:7heresdk13LocalizedTextV4textSSvp" class="token"><code>text</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13LocalizedTextV4textSSvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-text" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-localizedtext#sdk-for-ios-explore-s-7heresdk13LocalizedTextV4textSSvp" class="token"><code>text</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Used to represent text localized to specific language.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13LocalizedTextV6locale10Foundation6LocaleVSgvp"></span>` `<span id="//apple_ref/swift/Property/locale" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-localizedtext#/s:7heresdk13LocalizedTextV6locale10Foundation6LocaleVSgvp" class="token"><code>locale</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13LocalizedTextV6locale10Foundation6LocaleVSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-locale" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-localizedtext#sdk-for-ios-explore-s-7heresdk13LocalizedTextV6locale10Foundation6LocaleVSgvp" class="token"><code>locale</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Used to represent text localized to specific language.
 
 - <div>
 
-      init(text: locale: )
+   <span id="sdk-for-ios-explore-s-7heresdk13LocalizedTextV4text6localeACSS_10Foundation6LocaleVSgtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-text-locale" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-localizedtext#sdk-for-ios-explore-s-7heresdk13LocalizedTextV4text6localeACSS_10Foundation6LocaleVSgtcfc" class="token"><code>init(text:</code><wbr></wbr><code>locale:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -146,10 +146,8 @@ Used to represent text localized to specific language.
   Swift
 
   ``` highlight
-  public init ( text : String , locale : Locale ? = nil )
+  public init(text: String, locale: Locale? = nil)
   ```
-
-  </pre>
 
   </div>
 

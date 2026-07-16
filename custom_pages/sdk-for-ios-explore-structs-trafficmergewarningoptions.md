@@ -27,7 +27,7 @@ A struct that provides traffic merge warning options. Set the options for filter
 
 - <div>
 
-  ` `<span id="/s:7heresdk26TrafficMergeWarningOptionsV11typesFilterSayAA0bC8RoadTypeOGvp"></span>` `<span id="//apple_ref/swift/Property/typesFilter" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-trafficmergewarningoptions#/s:7heresdk26TrafficMergeWarningOptionsV11typesFilterSayAA0bC8RoadTypeOGvp" class="token"><code>typesFilter</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk26TrafficMergeWarningOptionsV11typesFilterSayAA0bC8RoadTypeOGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-typesFilter" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-trafficmergewarningoptions#sdk-for-ios-explore-s-7heresdk26TrafficMergeWarningOptionsV11typesFilterSayAA0bC8RoadTypeOGvp" class="token"><code>typesFilter</code></a> 
 
   </div>
 
@@ -63,6 +63,10 @@ A struct that provides traffic merge warning options. Set the options for filter
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-trafficmergeroadtype">TrafficMergeRoadType</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ A struct that provides traffic merge warning options. Set the options for filter
 
 - <div>
 
-  ` `<span id="/s:7heresdk26TrafficMergeWarningOptionsV22enableTextNotificationSbvp"></span>` `<span id="//apple_ref/swift/Property/enableTextNotification" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-trafficmergewarningoptions#/s:7heresdk26TrafficMergeWarningOptionsV22enableTextNotificationSbvp" class="token"><code>enableTextNotification</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk26TrafficMergeWarningOptionsV22enableTextNotificationSbvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-enableTextNotification" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-trafficmergewarningoptions#sdk-for-ios-explore-s-7heresdk26TrafficMergeWarningOptionsV22enableTextNotificationSbvp" class="token"><code>enableTextNotification</code></a> 
 
   </div>
 
@@ -115,7 +119,7 @@ A struct that provides traffic merge warning options. Set the options for filter
 
 - <div>
 
-  ` `<span id="/s:7heresdk26TrafficMergeWarningOptionsV23warningDistanceInMeterss5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/warningDistanceInMeters" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-trafficmergewarningoptions#/s:7heresdk26TrafficMergeWarningOptionsV23warningDistanceInMeterss5Int32Vvp" class="token"><code>warningDistanceInMeters</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk26TrafficMergeWarningOptionsV23warningDistanceInMeterss5Int32Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-warningDistanceInMeters" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-trafficmergewarningoptions#sdk-for-ios-explore-s-7heresdk26TrafficMergeWarningOptionsV23warningDistanceInMeterss5Int32Vvp" class="token"><code>warningDistanceInMeters</code></a> 
 
   </div>
 
@@ -159,7 +163,7 @@ A struct that provides traffic merge warning options. Set the options for filter
 
 - <div>
 
-      init(typesFilter: enableTextNotification: warningDistanceInMeters: )
+   <span id="sdk-for-ios-explore-s-7heresdk26TrafficMergeWarningOptionsV11typesFilter22enableTextNotification23warningDistanceInMetersACSayAA0bC8RoadTypeOG_Sbs5Int32Vtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-typesFilter-enableTextNotification-warningDistanceInMeters" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-trafficmergewarningoptions#sdk-for-ios-explore-s-7heresdk26TrafficMergeWarningOptionsV11typesFilter22enableTextNotification23warningDistanceInMetersACSayAA0bC8RoadTypeOG_Sbs5Int32Vtcfc" class="token"><code>init(typesFilter:</code><wbr></wbr><code>enableTextNotification:</code><wbr></wbr><code>warningDistanceInMeters:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -190,12 +194,14 @@ A struct that provides traffic merge warning options. Set the options for filter
   Swift
 
   ``` highlight
-  public init ( typesFilter : [ TrafficMergeRoadType ] = [], enableTextNotification : Bool = true , warningDistanceInMeters : Int32 = 1500 )
+  public init(typesFilter: [TrafficMergeRoadType] = [], enableTextNotification: Bool = true, warningDistanceInMeters: Int32 = 1500)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-trafficmergeroadtype">TrafficMergeRoadType</a>
 
   </div>
 

@@ -29,7 +29,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-  ` `<span id="/s:7heresdk17TrafficQueryErrorO22failedToRetrieveResultyA2CmF"></span>` `<span id="//apple_ref/swift/Element/failedToRetrieveResult" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-trafficqueryerror#/s:7heresdk17TrafficQueryErrorO22failedToRetrieveResultyA2CmF" class="token"><code>failedToRetrieveResult</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17TrafficQueryErrorO22failedToRetrieveResultyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-failedToRetrieveResult" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-trafficqueryerror#sdk-for-ios-explore-s-7heresdk17TrafficQueryErrorO22failedToRetrieveResultyA2CmF" class="token"><code>failedToRetrieveResult</code></a> 
 
   </div>
 
@@ -73,7 +73,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-  ` `<span id="/s:7heresdk17TrafficQueryErrorO20authenticationFailedyA2CmF"></span>` `<span id="//apple_ref/swift/Element/authenticationFailed" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-trafficqueryerror#/s:7heresdk17TrafficQueryErrorO20authenticationFailedyA2CmF" class="token"><code>authenticationFailed</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17TrafficQueryErrorO20authenticationFailedyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-authenticationFailed" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-trafficqueryerror#sdk-for-ios-explore-s-7heresdk17TrafficQueryErrorO20authenticationFailedyA2CmF" class="token"><code>authenticationFailed</code></a> 
 
   </div>
 
@@ -117,7 +117,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-  ` `<span id="/s:7heresdk17TrafficQueryErrorO9forbiddenyA2CmF"></span>` `<span id="//apple_ref/swift/Element/forbidden" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-trafficqueryerror#/s:7heresdk17TrafficQueryErrorO9forbiddenyA2CmF" class="token"><code>forbidden</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17TrafficQueryErrorO9forbiddenyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-forbidden" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-trafficqueryerror#sdk-for-ios-explore-s-7heresdk17TrafficQueryErrorO9forbiddenyA2CmF" class="token"><code>forbidden</code></a> 
 
   </div>
 
@@ -161,7 +161,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-  ` `<span id="/s:7heresdk17TrafficQueryErrorO17serverUnreachableyA2CmF"></span>` `<span id="//apple_ref/swift/Element/serverUnreachable" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-trafficqueryerror#/s:7heresdk17TrafficQueryErrorO17serverUnreachableyA2CmF" class="token"><code>serverUnreachable</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17TrafficQueryErrorO17serverUnreachableyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-serverUnreachable" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-trafficqueryerror#sdk-for-ios-explore-s-7heresdk17TrafficQueryErrorO17serverUnreachableyA2CmF" class="token"><code>serverUnreachable</code></a> 
 
   </div>
 
@@ -205,7 +205,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-  ` `<span id="/s:7heresdk17TrafficQueryErrorO8timedOutyA2CmF"></span>` `<span id="//apple_ref/swift/Element/timedOut" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-trafficqueryerror#/s:7heresdk17TrafficQueryErrorO8timedOutyA2CmF" class="token"><code>timedOut</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17TrafficQueryErrorO8timedOutyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-timedOut" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-trafficqueryerror#sdk-for-ios-explore-s-7heresdk17TrafficQueryErrorO8timedOutyA2CmF" class="token"><code>timedOut</code></a> 
 
   </div>
 
@@ -249,7 +249,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-  ` `<span id="/s:7heresdk17TrafficQueryErrorO7offlineyA2CmF"></span>` `<span id="//apple_ref/swift/Element/offline" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-trafficqueryerror#/s:7heresdk17TrafficQueryErrorO7offlineyA2CmF" class="token"><code>offline</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17TrafficQueryErrorO7offlineyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-offline" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-trafficqueryerror#sdk-for-ios-explore-s-7heresdk17TrafficQueryErrorO7offlineyA2CmF" class="token"><code>offline</code></a> 
 
   </div>
 
@@ -293,7 +293,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-  ` `<span id="/s:7heresdk17TrafficQueryErrorO04httpD0yA2CmF"></span>` `<span id="//apple_ref/swift/Element/httpError" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-trafficqueryerror#/s:7heresdk17TrafficQueryErrorO04httpD0yA2CmF" class="token"><code>httpError</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17TrafficQueryErrorO04httpD0yA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-httpError" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-trafficqueryerror#sdk-for-ios-explore-s-7heresdk17TrafficQueryErrorO04httpD0yA2CmF" class="token"><code>httpError</code></a> 
 
   </div>
 
@@ -337,7 +337,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-  ` `<span id="/s:7heresdk17TrafficQueryErrorO9invalidInyA2CmF"></span>` `<span id="//apple_ref/swift/Element/invalidIn" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-trafficqueryerror#/s:7heresdk17TrafficQueryErrorO9invalidInyA2CmF" class="token"><code>invalidIn</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17TrafficQueryErrorO9invalidInyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-invalidIn" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-trafficqueryerror#sdk-for-ios-explore-s-7heresdk17TrafficQueryErrorO9invalidInyA2CmF" class="token"><code>invalidIn</code></a> 
 
   </div>
 
@@ -381,7 +381,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-  ` `<span id="/s:7heresdk17TrafficQueryErrorO15invalidGeometryyA2CmF"></span>` `<span id="//apple_ref/swift/Element/invalidGeometry" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-trafficqueryerror#/s:7heresdk17TrafficQueryErrorO15invalidGeometryyA2CmF" class="token"><code>invalidGeometry</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17TrafficQueryErrorO15invalidGeometryyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-invalidGeometry" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-trafficqueryerror#sdk-for-ios-explore-s-7heresdk17TrafficQueryErrorO15invalidGeometryyA2CmF" class="token"><code>invalidGeometry</code></a> 
 
   </div>
 
@@ -425,7 +425,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-  ` `<span id="/s:7heresdk17TrafficQueryErrorO15invalidIncidentyA2CmF"></span>` `<span id="//apple_ref/swift/Element/invalidIncident" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-trafficqueryerror#/s:7heresdk17TrafficQueryErrorO15invalidIncidentyA2CmF" class="token"><code>invalidIncident</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17TrafficQueryErrorO15invalidIncidentyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-invalidIncident" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-trafficqueryerror#sdk-for-ios-explore-s-7heresdk17TrafficQueryErrorO15invalidIncidentyA2CmF" class="token"><code>invalidIncident</code></a> 
 
   </div>
 
@@ -469,7 +469,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-  ` `<span id="/s:7heresdk17TrafficQueryErrorO18incidentIdNotFoundyA2CmF"></span>` `<span id="//apple_ref/swift/Element/incidentIdNotFound" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-trafficqueryerror#/s:7heresdk17TrafficQueryErrorO18incidentIdNotFoundyA2CmF" class="token"><code>incidentIdNotFound</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17TrafficQueryErrorO18incidentIdNotFoundyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-incidentIdNotFound" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-trafficqueryerror#sdk-for-ios-explore-s-7heresdk17TrafficQueryErrorO18incidentIdNotFoundyA2CmF" class="token"><code>incidentIdNotFound</code></a> 
 
   </div>
 
@@ -513,7 +513,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-  ` `<span id="/s:7heresdk17TrafficQueryErrorO20invalidFilterOptionsyA2CmF"></span>` `<span id="//apple_ref/swift/Element/invalidFilterOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-trafficqueryerror#/s:7heresdk17TrafficQueryErrorO20invalidFilterOptionsyA2CmF" class="token"><code>invalidFilterOptions</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17TrafficQueryErrorO20invalidFilterOptionsyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-invalidFilterOptions" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-trafficqueryerror#sdk-for-ios-explore-s-7heresdk17TrafficQueryErrorO20invalidFilterOptionsyA2CmF" class="token"><code>invalidFilterOptions</code></a> 
 
   </div>
 
@@ -557,7 +557,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-  ` `<span id="/s:7heresdk17TrafficQueryErrorO16invalidParameteryA2CmF"></span>` `<span id="//apple_ref/swift/Element/invalidParameter" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-trafficqueryerror#/s:7heresdk17TrafficQueryErrorO16invalidParameteryA2CmF" class="token"><code>invalidParameter</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17TrafficQueryErrorO16invalidParameteryA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-invalidParameter" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-trafficqueryerror#sdk-for-ios-explore-s-7heresdk17TrafficQueryErrorO16invalidParameteryA2CmF" class="token"><code>invalidParameter</code></a> 
 
   </div>
 
@@ -601,7 +601,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-  ` `<span id="/s:7heresdk17TrafficQueryErrorO08internalD0yA2CmF"></span>` `<span id="//apple_ref/swift/Element/internalError" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-trafficqueryerror#/s:7heresdk17TrafficQueryErrorO08internalD0yA2CmF" class="token"><code>internalError</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17TrafficQueryErrorO08internalD0yA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-internalError" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-trafficqueryerror#sdk-for-ios-explore-s-7heresdk17TrafficQueryErrorO08internalD0yA2CmF" class="token"><code>internalError</code></a> 
 
   </div>
 
@@ -645,7 +645,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-  ` `<span id="/s:7heresdk17TrafficQueryErrorO18operationCancelledyA2CmF"></span>` `<span id="//apple_ref/swift/Element/operationCancelled" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-trafficqueryerror#/s:7heresdk17TrafficQueryErrorO18operationCancelledyA2CmF" class="token"><code>operationCancelled</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17TrafficQueryErrorO18operationCancelledyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-operationCancelled" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-trafficqueryerror#sdk-for-ios-explore-s-7heresdk17TrafficQueryErrorO18operationCancelledyA2CmF" class="token"><code>operationCancelled</code></a> 
 
   </div>
 
@@ -689,7 +689,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-  ` `<span id="/s:7heresdk17TrafficQueryErrorO25proxyAuthenticationFailedyA2CmF"></span>` `<span id="//apple_ref/swift/Element/proxyAuthenticationFailed" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-trafficqueryerror#/s:7heresdk17TrafficQueryErrorO25proxyAuthenticationFailedyA2CmF" class="token"><code>proxyAuthenticationFailed</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17TrafficQueryErrorO25proxyAuthenticationFailedyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-proxyAuthenticationFailed" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-trafficqueryerror#sdk-for-ios-explore-s-7heresdk17TrafficQueryErrorO25proxyAuthenticationFailedyA2CmF" class="token"><code>proxyAuthenticationFailed</code></a> 
 
   </div>
 
@@ -733,7 +733,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-  ` `<span id="/s:7heresdk17TrafficQueryErrorO22proxyServerUnreachableyA2CmF"></span>` `<span id="//apple_ref/swift/Element/proxyServerUnreachable" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-trafficqueryerror#/s:7heresdk17TrafficQueryErrorO22proxyServerUnreachableyA2CmF" class="token"><code>proxyServerUnreachable</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17TrafficQueryErrorO22proxyServerUnreachableyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-proxyServerUnreachable" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-trafficqueryerror#sdk-for-ios-explore-s-7heresdk17TrafficQueryErrorO22proxyServerUnreachableyA2CmF" class="token"><code>proxyServerUnreachable</code></a> 
 
   </div>
 
@@ -777,7 +777,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-  ` `<span id="/s:7heresdk17TrafficQueryErrorO10badRequestyA2CmF"></span>` `<span id="//apple_ref/swift/Element/badRequest" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-trafficqueryerror#/s:7heresdk17TrafficQueryErrorO10badRequestyA2CmF" class="token"><code>badRequest</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17TrafficQueryErrorO10badRequestyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-badRequest" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-trafficqueryerror#sdk-for-ios-explore-s-7heresdk17TrafficQueryErrorO10badRequestyA2CmF" class="token"><code>badRequest</code></a> 
 
   </div>
 
@@ -821,7 +821,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-  ` `<span id="/s:7heresdk17TrafficQueryErrorO15tooManyRequestsyA2CmF"></span>` `<span id="//apple_ref/swift/Element/tooManyRequests" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-trafficqueryerror#/s:7heresdk17TrafficQueryErrorO15tooManyRequestsyA2CmF" class="token"><code>tooManyRequests</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17TrafficQueryErrorO15tooManyRequestsyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-tooManyRequests" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-trafficqueryerror#sdk-for-ios-explore-s-7heresdk17TrafficQueryErrorO15tooManyRequestsyA2CmF" class="token"><code>tooManyRequests</code></a> 
 
   </div>
 

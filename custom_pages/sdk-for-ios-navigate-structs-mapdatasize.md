@@ -27,7 +27,7 @@ Represents map data size.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11MapDataSizeV07networkD7InBytess6UInt64Vvp"></span>` `<span id="//apple_ref/swift/Property/networkSizeInBytes" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-mapdatasize#/s:7heresdk11MapDataSizeV07networkD7InBytess6UInt64Vvp" class="token"><code>networkSizeInBytes</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11MapDataSizeV07networkD7InBytess6UInt64Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-networkSizeInBytes" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-mapdatasize#sdk-for-ios-navigate-s-7heresdk11MapDataSizeV07networkD7InBytess6UInt64Vvp" class="token"><code>networkSizeInBytes</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Represents map data size.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11MapDataSizeV04diskD7InBytess6UInt64Vvp"></span>` `<span id="//apple_ref/swift/Property/diskSizeInBytes" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-mapdatasize#/s:7heresdk11MapDataSizeV04diskD7InBytess6UInt64Vvp" class="token"><code>diskSizeInBytes</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11MapDataSizeV04diskD7InBytess6UInt64Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-diskSizeInBytes" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-mapdatasize#sdk-for-ios-navigate-s-7heresdk11MapDataSizeV04diskD7InBytess6UInt64Vvp" class="token"><code>diskSizeInBytes</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Represents map data size.
 
 - <div>
 
-      init(networkSizeInBytes: diskSizeInBytes: )
+   <span id="sdk-for-ios-navigate-s-7heresdk11MapDataSizeV07networkD7InBytes04diskdfG0ACs6UInt64V_AGtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-networkSizeInBytes-diskSizeInBytes" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-mapdatasize#sdk-for-ios-navigate-s-7heresdk11MapDataSizeV07networkD7InBytes04diskdfG0ACs6UInt64V_AGtcfc" class="token"><code>init(networkSizeInBytes:</code><wbr></wbr><code>diskSizeInBytes:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -146,10 +146,8 @@ Represents map data size.
   Swift
 
   ``` highlight
-  public init ( networkSizeInBytes : UInt64 = 0 , diskSizeInBytes : UInt64 = 0 )
+  public init(networkSizeInBytes: UInt64 = 0, diskSizeInBytes: UInt64 = 0)
   ```
-
-  </pre>
 
   </div>
 

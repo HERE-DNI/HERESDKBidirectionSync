@@ -27,7 +27,7 @@ Represents facility type available at the location. **Note:** This is a beta rel
 
 - <div>
 
-  ` `<span id="/s:7heresdk12FacilityTypeO5hotelyA2CmF"></span>` `<span id="//apple_ref/swift/Element/hotel" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-facilitytype#/s:7heresdk12FacilityTypeO5hotelyA2CmF" class="token"><code>hotel</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12FacilityTypeO5hotelyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-hotel" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-facilitytype#sdk-for-ios-explore-s-7heresdk12FacilityTypeO5hotelyA2CmF" class="token"><code>hotel</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Represents facility type available at the location. **Note:** This is a beta rel
 
 - <div>
 
-  ` `<span id="/s:7heresdk12FacilityTypeO10restaurantyA2CmF"></span>` `<span id="//apple_ref/swift/Element/restaurant" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-facilitytype#/s:7heresdk12FacilityTypeO10restaurantyA2CmF" class="token"><code>restaurant</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12FacilityTypeO10restaurantyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-restaurant" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-facilitytype#sdk-for-ios-explore-s-7heresdk12FacilityTypeO10restaurantyA2CmF" class="token"><code>restaurant</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Represents facility type available at the location. **Note:** This is a beta rel
 
 - <div>
 
-  ` `<span id="/s:7heresdk12FacilityTypeO4cafeyA2CmF"></span>` `<span id="//apple_ref/swift/Element/cafe" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-facilitytype#/s:7heresdk12FacilityTypeO4cafeyA2CmF" class="token"><code>cafe</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12FacilityTypeO4cafeyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-cafe" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-facilitytype#sdk-for-ios-explore-s-7heresdk12FacilityTypeO4cafeyA2CmF" class="token"><code>cafe</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Represents facility type available at the location. **Note:** This is a beta rel
 
 - <div>
 
-  ` `<span id="/s:7heresdk12FacilityTypeO4mallyA2CmF"></span>` `<span id="//apple_ref/swift/Element/mall" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-facilitytype#/s:7heresdk12FacilityTypeO4mallyA2CmF" class="token"><code>mall</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12FacilityTypeO4mallyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-mall" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-facilitytype#sdk-for-ios-explore-s-7heresdk12FacilityTypeO4mallyA2CmF" class="token"><code>mall</code></a> 
 
   </div>
 
@@ -203,7 +203,7 @@ Represents facility type available at the location. **Note:** This is a beta rel
 
 - <div>
 
-  ` `<span id="/s:7heresdk12FacilityTypeO11supermarketyA2CmF"></span>` `<span id="//apple_ref/swift/Element/supermarket" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-facilitytype#/s:7heresdk12FacilityTypeO11supermarketyA2CmF" class="token"><code>supermarket</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12FacilityTypeO11supermarketyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-supermarket" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-facilitytype#sdk-for-ios-explore-s-7heresdk12FacilityTypeO11supermarketyA2CmF" class="token"><code>supermarket</code></a> 
 
   </div>
 
@@ -247,7 +247,7 @@ Represents facility type available at the location. **Note:** This is a beta rel
 
 - <div>
 
-  ` `<span id="/s:7heresdk12FacilityTypeO5sportyA2CmF"></span>` `<span id="//apple_ref/swift/Element/sport" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-facilitytype#/s:7heresdk12FacilityTypeO5sportyA2CmF" class="token"><code>sport</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12FacilityTypeO5sportyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-sport" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-facilitytype#sdk-for-ios-explore-s-7heresdk12FacilityTypeO5sportyA2CmF" class="token"><code>sport</code></a> 
 
   </div>
 
@@ -291,7 +291,7 @@ Represents facility type available at the location. **Note:** This is a beta rel
 
 - <div>
 
-  ` `<span id="/s:7heresdk12FacilityTypeO14recreationAreayA2CmF"></span>` `<span id="//apple_ref/swift/Element/recreationArea" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-facilitytype#/s:7heresdk12FacilityTypeO14recreationAreayA2CmF" class="token"><code>recreationArea</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12FacilityTypeO14recreationAreayA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-recreationArea" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-facilitytype#sdk-for-ios-explore-s-7heresdk12FacilityTypeO14recreationAreayA2CmF" class="token"><code>recreationArea</code></a> 
 
   </div>
 
@@ -335,7 +335,7 @@ Represents facility type available at the location. **Note:** This is a beta rel
 
 - <div>
 
-  ` `<span id="/s:7heresdk12FacilityTypeO6natureyA2CmF"></span>` `<span id="//apple_ref/swift/Element/nature" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-facilitytype#/s:7heresdk12FacilityTypeO6natureyA2CmF" class="token"><code>nature</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12FacilityTypeO6natureyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-nature" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-facilitytype#sdk-for-ios-explore-s-7heresdk12FacilityTypeO6natureyA2CmF" class="token"><code>nature</code></a> 
 
   </div>
 
@@ -379,7 +379,7 @@ Represents facility type available at the location. **Note:** This is a beta rel
 
 - <div>
 
-  ` `<span id="/s:7heresdk12FacilityTypeO6museumyA2CmF"></span>` `<span id="//apple_ref/swift/Element/museum" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-facilitytype#/s:7heresdk12FacilityTypeO6museumyA2CmF" class="token"><code>museum</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12FacilityTypeO6museumyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-museum" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-facilitytype#sdk-for-ios-explore-s-7heresdk12FacilityTypeO6museumyA2CmF" class="token"><code>museum</code></a> 
 
   </div>
 
@@ -423,7 +423,7 @@ Represents facility type available at the location. **Note:** This is a beta rel
 
 - <div>
 
-  ` `<span id="/s:7heresdk12FacilityTypeO11bikeSharingyA2CmF"></span>` `<span id="//apple_ref/swift/Element/bikeSharing" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-facilitytype#/s:7heresdk12FacilityTypeO11bikeSharingyA2CmF" class="token"><code>bikeSharing</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12FacilityTypeO11bikeSharingyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-bikeSharing" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-facilitytype#sdk-for-ios-explore-s-7heresdk12FacilityTypeO11bikeSharingyA2CmF" class="token"><code>bikeSharing</code></a> 
 
   </div>
 
@@ -467,7 +467,7 @@ Represents facility type available at the location. **Note:** This is a beta rel
 
 - <div>
 
-  ` `<span id="/s:7heresdk12FacilityTypeO7busStopyA2CmF"></span>` `<span id="//apple_ref/swift/Element/busStop" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-facilitytype#/s:7heresdk12FacilityTypeO7busStopyA2CmF" class="token"><code>busStop</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12FacilityTypeO7busStopyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-busStop" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-facilitytype#sdk-for-ios-explore-s-7heresdk12FacilityTypeO7busStopyA2CmF" class="token"><code>busStop</code></a> 
 
   </div>
 
@@ -511,7 +511,7 @@ Represents facility type available at the location. **Note:** This is a beta rel
 
 - <div>
 
-  ` `<span id="/s:7heresdk12FacilityTypeO9taxiStandyA2CmF"></span>` `<span id="//apple_ref/swift/Element/taxiStand" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-facilitytype#/s:7heresdk12FacilityTypeO9taxiStandyA2CmF" class="token"><code>taxiStand</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12FacilityTypeO9taxiStandyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-taxiStand" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-facilitytype#sdk-for-ios-explore-s-7heresdk12FacilityTypeO9taxiStandyA2CmF" class="token"><code>taxiStand</code></a> 
 
   </div>
 
@@ -555,7 +555,7 @@ Represents facility type available at the location. **Note:** This is a beta rel
 
 - <div>
 
-  ` `<span id="/s:7heresdk12FacilityTypeO8tramStopyA2CmF"></span>` `<span id="//apple_ref/swift/Element/tramStop" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-facilitytype#/s:7heresdk12FacilityTypeO8tramStopyA2CmF" class="token"><code>tramStop</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12FacilityTypeO8tramStopyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-tramStop" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-facilitytype#sdk-for-ios-explore-s-7heresdk12FacilityTypeO8tramStopyA2CmF" class="token"><code>tramStop</code></a> 
 
   </div>
 
@@ -599,7 +599,7 @@ Represents facility type available at the location. **Note:** This is a beta rel
 
 - <div>
 
-  ` `<span id="/s:7heresdk12FacilityTypeO12metroStationyA2CmF"></span>` `<span id="//apple_ref/swift/Element/metroStation" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-facilitytype#/s:7heresdk12FacilityTypeO12metroStationyA2CmF" class="token"><code>metroStation</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12FacilityTypeO12metroStationyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-metroStation" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-facilitytype#sdk-for-ios-explore-s-7heresdk12FacilityTypeO12metroStationyA2CmF" class="token"><code>metroStation</code></a> 
 
   </div>
 
@@ -643,7 +643,7 @@ Represents facility type available at the location. **Note:** This is a beta rel
 
 - <div>
 
-  ` `<span id="/s:7heresdk12FacilityTypeO12trainStationyA2CmF"></span>` `<span id="//apple_ref/swift/Element/trainStation" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-facilitytype#/s:7heresdk12FacilityTypeO12trainStationyA2CmF" class="token"><code>trainStation</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12FacilityTypeO12trainStationyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-trainStation" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-facilitytype#sdk-for-ios-explore-s-7heresdk12FacilityTypeO12trainStationyA2CmF" class="token"><code>trainStation</code></a> 
 
   </div>
 
@@ -687,7 +687,7 @@ Represents facility type available at the location. **Note:** This is a beta rel
 
 - <div>
 
-  ` `<span id="/s:7heresdk12FacilityTypeO7airportyA2CmF"></span>` `<span id="//apple_ref/swift/Element/airport" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-facilitytype#/s:7heresdk12FacilityTypeO7airportyA2CmF" class="token"><code>airport</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12FacilityTypeO7airportyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-airport" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-facilitytype#sdk-for-ios-explore-s-7heresdk12FacilityTypeO7airportyA2CmF" class="token"><code>airport</code></a> 
 
   </div>
 
@@ -731,7 +731,7 @@ Represents facility type available at the location. **Note:** This is a beta rel
 
 - <div>
 
-  ` `<span id="/s:7heresdk12FacilityTypeO10parkingLotyA2CmF"></span>` `<span id="//apple_ref/swift/Element/parkingLot" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-facilitytype#/s:7heresdk12FacilityTypeO10parkingLotyA2CmF" class="token"><code>parkingLot</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12FacilityTypeO10parkingLotyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-parkingLot" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-facilitytype#sdk-for-ios-explore-s-7heresdk12FacilityTypeO10parkingLotyA2CmF" class="token"><code>parkingLot</code></a> 
 
   </div>
 
@@ -775,7 +775,7 @@ Represents facility type available at the location. **Note:** This is a beta rel
 
 - <div>
 
-  ` `<span id="/s:7heresdk12FacilityTypeO14carpoolParkingyA2CmF"></span>` `<span id="//apple_ref/swift/Element/carpoolParking" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-facilitytype#/s:7heresdk12FacilityTypeO14carpoolParkingyA2CmF" class="token"><code>carpoolParking</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12FacilityTypeO14carpoolParkingyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-carpoolParking" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-facilitytype#sdk-for-ios-explore-s-7heresdk12FacilityTypeO14carpoolParkingyA2CmF" class="token"><code>carpoolParking</code></a> 
 
   </div>
 
@@ -819,7 +819,7 @@ Represents facility type available at the location. **Note:** This is a beta rel
 
 - <div>
 
-  ` `<span id="/s:7heresdk12FacilityTypeO11fuelStationyA2CmF"></span>` `<span id="//apple_ref/swift/Element/fuelStation" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-facilitytype#/s:7heresdk12FacilityTypeO11fuelStationyA2CmF" class="token"><code>fuelStation</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12FacilityTypeO11fuelStationyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-fuelStation" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-facilitytype#sdk-for-ios-explore-s-7heresdk12FacilityTypeO11fuelStationyA2CmF" class="token"><code>fuelStation</code></a> 
 
   </div>
 
@@ -863,7 +863,7 @@ Represents facility type available at the location. **Note:** This is a beta rel
 
 - <div>
 
-  ` `<span id="/s:7heresdk12FacilityTypeO4wifiyA2CmF"></span>` `<span id="//apple_ref/swift/Element/wifi" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-facilitytype#/s:7heresdk12FacilityTypeO4wifiyA2CmF" class="token"><code>wifi</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12FacilityTypeO4wifiyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-wifi" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-facilitytype#sdk-for-ios-explore-s-7heresdk12FacilityTypeO4wifiyA2CmF" class="token"><code>wifi</code></a> 
 
   </div>
 
@@ -907,7 +907,7 @@ Represents facility type available at the location. **Note:** This is a beta rel
 
 - <div>
 
-  ` `<span id="/s:7heresdk12FacilityTypeO8businessyA2CmF"></span>` `<span id="//apple_ref/swift/Element/business" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-facilitytype#/s:7heresdk12FacilityTypeO8businessyA2CmF" class="token"><code>business</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12FacilityTypeO8businessyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-business" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-facilitytype#sdk-for-ios-explore-s-7heresdk12FacilityTypeO8businessyA2CmF" class="token"><code>business</code></a> 
 
   </div>
 
@@ -951,7 +951,7 @@ Represents facility type available at the location. **Note:** This is a beta rel
 
 - <div>
 
-  ` `<span id="/s:7heresdk12FacilityTypeO9educationyA2CmF"></span>` `<span id="//apple_ref/swift/Element/education" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-facilitytype#/s:7heresdk12FacilityTypeO9educationyA2CmF" class="token"><code>education</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12FacilityTypeO9educationyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-education" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-facilitytype#sdk-for-ios-explore-s-7heresdk12FacilityTypeO9educationyA2CmF" class="token"><code>education</code></a> 
 
   </div>
 
@@ -995,7 +995,7 @@ Represents facility type available at the location. **Note:** This is a beta rel
 
 - <div>
 
-  ` `<span id="/s:7heresdk12FacilityTypeO7financeyA2CmF"></span>` `<span id="//apple_ref/swift/Element/finance" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-facilitytype#/s:7heresdk12FacilityTypeO7financeyA2CmF" class="token"><code>finance</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12FacilityTypeO7financeyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-finance" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-facilitytype#sdk-for-ios-explore-s-7heresdk12FacilityTypeO7financeyA2CmF" class="token"><code>finance</code></a> 
 
   </div>
 
@@ -1039,7 +1039,7 @@ Represents facility type available at the location. **Note:** This is a beta rel
 
 - <div>
 
-  ` `<span id="/s:7heresdk12FacilityTypeO6healthyA2CmF"></span>` `<span id="//apple_ref/swift/Element/health" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-facilitytype#/s:7heresdk12FacilityTypeO6healthyA2CmF" class="token"><code>health</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12FacilityTypeO6healthyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-health" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-facilitytype#sdk-for-ios-explore-s-7heresdk12FacilityTypeO6healthyA2CmF" class="token"><code>health</code></a> 
 
   </div>
 
@@ -1083,7 +1083,7 @@ Represents facility type available at the location. **Note:** This is a beta rel
 
 - <div>
 
-  ` `<span id="/s:7heresdk12FacilityTypeO7serviceyA2CmF"></span>` `<span id="//apple_ref/swift/Element/service" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-facilitytype#/s:7heresdk12FacilityTypeO7serviceyA2CmF" class="token"><code>service</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12FacilityTypeO7serviceyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-service" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-facilitytype#sdk-for-ios-explore-s-7heresdk12FacilityTypeO7serviceyA2CmF" class="token"><code>service</code></a> 
 
   </div>
 
@@ -1127,7 +1127,7 @@ Represents facility type available at the location. **Note:** This is a beta rel
 
 - <div>
 
-  ` `<span id="/s:7heresdk12FacilityTypeO5storeyA2CmF"></span>` `<span id="//apple_ref/swift/Element/store" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-facilitytype#/s:7heresdk12FacilityTypeO5storeyA2CmF" class="token"><code>store</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12FacilityTypeO5storeyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-store" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-facilitytype#sdk-for-ios-explore-s-7heresdk12FacilityTypeO5storeyA2CmF" class="token"><code>store</code></a> 
 
   </div>
 

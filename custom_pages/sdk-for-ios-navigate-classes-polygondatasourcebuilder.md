@@ -37,7 +37,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      init(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk24PolygonDataSourceBuilderCyAcA10MapContextCcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-polygondatasourcebuilder#sdk-for-ios-navigate-s-7heresdk24PolygonDataSourceBuilderCyAcA10MapContextCcfc" class="token"><code>init(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -68,12 +68,14 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public init ( _ context : MapContext )
+  public init(_ context: MapContext)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mapcontext">MapContext</a>
 
   </div>
 
@@ -104,7 +106,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      withName(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk24PolygonDataSourceBuilderC8withNameyACSSF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-withName-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-polygondatasourcebuilder#sdk-for-ios-navigate-s-7heresdk24PolygonDataSourceBuilderC8withNameyACSSF" class="token"><code>withName(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -135,10 +137,8 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func withName ( _ dataSourceName : String ) -> PolygonDataSourceBuilder
+  public func withName(_ dataSourceName: String) -> PolygonDataSourceBuilder
   ```
-
-  </pre>
 
   </div>
 
@@ -179,7 +179,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      withPolygon(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk24PolygonDataSourceBuilderC04withB0yAcA0bC0CF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-withPolygon-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-polygondatasourcebuilder#sdk-for-ios-navigate-s-7heresdk24PolygonDataSourceBuilderC04withB0yAcA0bC0CF" class="token"><code>withPolygon(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -210,12 +210,14 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func withPolygon ( _ polygon : PolygonData ) -> PolygonDataSourceBuilder
+  public func withPolygon(_ polygon: PolygonData) -> PolygonDataSourceBuilder
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-maps#sdk-for-ios-navigate-s-7heresdk11PolygonDataC">PolygonData</a>
 
   </div>
 
@@ -254,7 +256,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      withPolygons(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk24PolygonDataSourceBuilderC12withPolygonsyACSayAA0bC0CGF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-withPolygons-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-polygondatasourcebuilder#sdk-for-ios-navigate-s-7heresdk24PolygonDataSourceBuilderC12withPolygonsyACSayAA0bC0CGF" class="token"><code>withPolygons(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -285,12 +287,14 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func withPolygons ( _ polygon : [ PolygonData ]) -> PolygonDataSourceBuilder
+  public func withPolygons(_ polygon: [PolygonData]) -> PolygonDataSourceBuilder
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-maps#sdk-for-ios-navigate-s-7heresdk11PolygonDataC">PolygonData</a>
 
   </div>
 
@@ -329,7 +333,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      build()
+   <span id="sdk-for-ios-navigate-s-7heresdk24PolygonDataSourceBuilderC5buildAA0bcD0CyF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-build" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-polygondatasourcebuilder#sdk-for-ios-navigate-s-7heresdk24PolygonDataSourceBuilderC5buildAA0bcD0CyF" class="token"><code>build()</code></a> 
 
   </div>
 
@@ -360,12 +364,14 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func build () -> PolygonDataSource
+  public func build() -> PolygonDataSource
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-polygondatasource">PolygonDataSource</a>
 
   </div>
 

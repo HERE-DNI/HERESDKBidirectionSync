@@ -27,7 +27,7 @@ Available mode of transport on indoor topology.
 
 - <div>
 
-  ` `<span id="/s:7heresdk18VenueTransportModeO4autoyA2CmF"></span>` `<span id="//apple_ref/swift/Element/auto" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-venuetransportmode#/s:7heresdk18VenueTransportModeO4autoyA2CmF" class="token"><code>auto</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18VenueTransportModeO4autoyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-auto" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-venuetransportmode#sdk-for-ios-explore-s-7heresdk18VenueTransportModeO4autoyA2CmF" class="token"><code>auto</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Available mode of transport on indoor topology.
 
 - <div>
 
-  ` `<span id="/s:7heresdk18VenueTransportModeO4taxiyA2CmF"></span>` `<span id="//apple_ref/swift/Element/taxi" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-venuetransportmode#/s:7heresdk18VenueTransportModeO4taxiyA2CmF" class="token"><code>taxi</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18VenueTransportModeO4taxiyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-taxi" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-venuetransportmode#sdk-for-ios-explore-s-7heresdk18VenueTransportModeO4taxiyA2CmF" class="token"><code>taxi</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Available mode of transport on indoor topology.
 
 - <div>
 
-  ` `<span id="/s:7heresdk18VenueTransportModeO10motorcycleyA2CmF"></span>` `<span id="//apple_ref/swift/Element/motorcycle" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-venuetransportmode#/s:7heresdk18VenueTransportModeO10motorcycleyA2CmF" class="token"><code>motorcycle</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18VenueTransportModeO10motorcycleyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-motorcycle" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-venuetransportmode#sdk-for-ios-explore-s-7heresdk18VenueTransportModeO10motorcycleyA2CmF" class="token"><code>motorcycle</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Available mode of transport on indoor topology.
 
 - <div>
 
-  ` `<span id="/s:7heresdk18VenueTransportModeO16emergencyVehicleyA2CmF"></span>` `<span id="//apple_ref/swift/Element/emergencyVehicle" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-venuetransportmode#/s:7heresdk18VenueTransportModeO16emergencyVehicleyA2CmF" class="token"><code>emergencyVehicle</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18VenueTransportModeO16emergencyVehicleyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-emergencyVehicle" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-venuetransportmode#sdk-for-ios-explore-s-7heresdk18VenueTransportModeO16emergencyVehicleyA2CmF" class="token"><code>emergencyVehicle</code></a> 
 
   </div>
 
@@ -203,7 +203,7 @@ Available mode of transport on indoor topology.
 
 - <div>
 
-  ` `<span id="/s:7heresdk18VenueTransportModeO10pedestrianyA2CmF"></span>` `<span id="//apple_ref/swift/Element/pedestrian" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-venuetransportmode#/s:7heresdk18VenueTransportModeO10pedestrianyA2CmF" class="token"><code>pedestrian</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18VenueTransportModeO10pedestrianyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-pedestrian" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-venuetransportmode#sdk-for-ios-explore-s-7heresdk18VenueTransportModeO10pedestrianyA2CmF" class="token"><code>pedestrian</code></a> 
 
   </div>
 
@@ -247,7 +247,7 @@ Available mode of transport on indoor topology.
 
 - <div>
 
-  ` `<span id="/s:7heresdk18VenueTransportModeO3caryA2CmF"></span>` `<span id="//apple_ref/swift/Element/car" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-venuetransportmode#/s:7heresdk18VenueTransportModeO3caryA2CmF" class="token"><code>car</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18VenueTransportModeO3caryA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-car" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-venuetransportmode#sdk-for-ios-explore-s-7heresdk18VenueTransportModeO3caryA2CmF" class="token"><code>car</code></a> 
 
   </div>
 
@@ -291,7 +291,7 @@ Available mode of transport on indoor topology.
 
 - <div>
 
-  ` `<span id="/s:7heresdk18VenueTransportModeO7scooteryA2CmF"></span>` `<span id="//apple_ref/swift/Element/scooter" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-venuetransportmode#/s:7heresdk18VenueTransportModeO7scooteryA2CmF" class="token"><code>scooter</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18VenueTransportModeO7scooteryA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-scooter" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-venuetransportmode#sdk-for-ios-explore-s-7heresdk18VenueTransportModeO7scooteryA2CmF" class="token"><code>scooter</code></a> 
 
   </div>
 
@@ -335,7 +335,7 @@ Available mode of transport on indoor topology.
 
 - <div>
 
-  ` `<span id="/s:s12CaseIterableP8allCases03AllD0QzvpZ"></span>` `<span id="//apple_ref/swift/Variable/allCases" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-venuetransportmode#/s:s12CaseIterableP8allCases03AllD0QzvpZ" class="token"><code>allCases</code></a>` `
+   <span id="sdk-for-ios-explore-s-s12CaseIterableP8allCases03AllD0QzvpZ"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Variable-allCases" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-venuetransportmode#sdk-for-ios-explore-s-s12CaseIterableP8allCases03AllD0QzvpZ" class="token"><code>allCases</code></a> 
 
   </div>
 
@@ -377,7 +377,7 @@ Available mode of transport on indoor topology.
 
 - <div>
 
-  ` `<span id="/s:7heresdk18VenueTransportModeO3KeyO"></span>` `<span id="//apple_ref/swift/Enum/Key" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-venuetransportmode#/s:7heresdk18VenueTransportModeO3KeyO" class="token"><code>Key</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18VenueTransportModeO3KeyO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-Key" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-venuetransportmode#sdk-for-ios-explore-s-7heresdk18VenueTransportModeO3KeyO" class="token"><code>Key</code></a> 
 
   </div>
 
@@ -423,7 +423,7 @@ Available mode of transport on indoor topology.
 
 - <div>
 
-  ` `<span id="/s:7heresdk18VenueTransportModeO11CodingErrorO"></span>` `<span id="//apple_ref/swift/Enum/CodingError" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-venuetransportmode#/s:7heresdk18VenueTransportModeO11CodingErrorO" class="token"><code>CodingError</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18VenueTransportModeO11CodingErrorO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-CodingError" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-venuetransportmode#sdk-for-ios-explore-s-7heresdk18VenueTransportModeO11CodingErrorO" class="token"><code>CodingError</code></a> 
 
   </div>
 
@@ -469,7 +469,7 @@ Available mode of transport on indoor topology.
 
 - <div>
 
-      init(from: )
+   <span id="sdk-for-ios-explore-s-7heresdk18VenueTransportModeO4fromACs7Decoder_p_tKcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-from" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-venuetransportmode#sdk-for-ios-explore-s-7heresdk18VenueTransportModeO4fromACs7Decoder_p_tKcfc" class="token"><code>init(from:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -500,10 +500,8 @@ Available mode of transport on indoor topology.
   Swift
 
   ``` highlight
-  public init ( from decoder : Decoder ) throws
+  public init(from decoder: Decoder) throws
   ```
-
-  </pre>
 
   </div>
 
@@ -515,7 +513,7 @@ Available mode of transport on indoor topology.
 
 - <div>
 
-      encode(to: )
+   <span id="sdk-for-ios-explore-s-7heresdk18VenueTransportModeO6encode2toys7Encoder_p_tKF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-encode-to" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-venuetransportmode#sdk-for-ios-explore-s-7heresdk18VenueTransportModeO6encode2toys7Encoder_p_tKF" class="token"><code>encode(to:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -546,10 +544,8 @@ Available mode of transport on indoor topology.
   Swift
 
   ``` highlight
-  public func encode ( to encoder : Encoder ) throws
+  public func encode(to encoder: Encoder) throws
   ```
-
-  </pre>
 
   </div>
 

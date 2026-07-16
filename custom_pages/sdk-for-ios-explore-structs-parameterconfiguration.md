@@ -27,7 +27,7 @@ Contains values of configurable parameters that are used in SDK. This is a BETA 
 
 - <div>
 
-  ` `<span id="/s:7heresdk22ParameterConfigurationV22transportSpecificationAA09TransportE0Vvp"></span>` `<span id="//apple_ref/swift/Property/transportSpecification" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-parameterconfiguration#/s:7heresdk22ParameterConfigurationV22transportSpecificationAA09TransportE0Vvp" class="token"><code>transportSpecification</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk22ParameterConfigurationV22transportSpecificationAA09TransportE0Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-transportSpecification" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-parameterconfiguration#sdk-for-ios-explore-s-7heresdk22ParameterConfigurationV22transportSpecificationAA09TransportE0Vvp" class="token"><code>transportSpecification</code></a> 
 
   </div>
 
@@ -63,6 +63,10 @@ Contains values of configurable parameters that are used in SDK. This is a BETA 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-transportspecification">TransportSpecification</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ Contains values of configurable parameters that are used in SDK. This is a BETA 
 
 - <div>
 
-      init()
+   <span id="sdk-for-ios-explore-s-7heresdk22ParameterConfigurationVACycfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-parameterconfiguration#sdk-for-ios-explore-s-7heresdk22ParameterConfigurationVACycfc" class="token"><code>init()</code></a> 
 
   </div>
 
@@ -89,7 +93,7 @@ Contains values of configurable parameters that are used in SDK. This is a BETA 
 
   <div class="abstract">
 
-  Creates a new instance of `ParameterConfiguration` with the default values set. **Note** By default, the \[ParameterConfiguration.transport_specification\] will return a valid <a href="sdk-for-ios-explore-structs-transportspecification">`TransportSpecification`</a> object with the \[sdk.transport.TransportSpecification.transport_mode\] set to <a href="sdk-for-ios-explore-enums-transportmode#/s:7heresdk13TransportModeO3caryA2CmF">`TransportMode.car`</a>.
+  Creates a new instance of `ParameterConfiguration` with the default values set. **Note** By default, the \[ParameterConfiguration.transport_specification\] will return a valid <a href="sdk-for-ios-explore-structs-transportspecification">`TransportSpecification`</a> object with the \[sdk.transport.TransportSpecification.transport_mode\] set to <a href="sdk-for-ios-explore-enums-transportmode#sdk-for-ios-explore-s-7heresdk13TransportModeO3caryA2CmF">`TransportMode.car`</a>.
 
   </div>
 
@@ -102,10 +106,8 @@ Contains values of configurable parameters that are used in SDK. This is a BETA 
   Swift
 
   ``` highlight
-  public init ()
+  public init()
   ```
-
-  </pre>
 
   </div>
 

@@ -27,7 +27,7 @@ Describes a reason for failing to build a <a href="sdk-for-ios-navigate-classes-
 
 - <div>
 
-  ` `<span id="/s:7heresdk15MapLayerBuilderC22InstantiationErrorCodeO25missingMandatoryParameteryA2EmF"></span>` `<span id="//apple_ref/swift/Element/missingMandatoryParameter" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-maplayerbuilder-instantiationerrorcode#/s:7heresdk15MapLayerBuilderC22InstantiationErrorCodeO25missingMandatoryParameteryA2EmF" class="token"><code>missingMandatoryParameter</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15MapLayerBuilderC22InstantiationErrorCodeO25missingMandatoryParameteryA2EmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-missingMandatoryParameter" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-maplayerbuilder-instantiationerrorcode#sdk-for-ios-navigate-s-7heresdk15MapLayerBuilderC22InstantiationErrorCodeO25missingMandatoryParameteryA2EmF" class="token"><code>missingMandatoryParameter</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Describes a reason for failing to build a <a href="sdk-for-ios-navigate-classes-
 
 - <div>
 
-  ` `<span id="/s:7heresdk15MapLayerBuilderC22InstantiationErrorCodeO22unsupportedContentTypeyA2EmF"></span>` `<span id="//apple_ref/swift/Element/unsupportedContentType" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-maplayerbuilder-instantiationerrorcode#/s:7heresdk15MapLayerBuilderC22InstantiationErrorCodeO22unsupportedContentTypeyA2EmF" class="token"><code>unsupportedContentType</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15MapLayerBuilderC22InstantiationErrorCodeO22unsupportedContentTypeyA2EmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-unsupportedContentType" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-maplayerbuilder-instantiationerrorcode#sdk-for-ios-navigate-s-7heresdk15MapLayerBuilderC22InstantiationErrorCodeO22unsupportedContentTypeyA2EmF" class="token"><code>unsupportedContentType</code></a> 
 
   </div>
 

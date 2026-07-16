@@ -35,7 +35,7 @@ A class that contains possible results from picking map content on the map scene
 
 - <div>
 
-  ` `<span id="/s:7heresdk20PickMapContentResultC12pickedPlacesSayAA11PickedPlaceVGvp"></span>` `<span id="//apple_ref/swift/Property/pickedPlaces" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-pickmapcontentresult#/s:7heresdk20PickMapContentResultC12pickedPlacesSayAA11PickedPlaceVGvp" class="token"><code>pickedPlaces</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk20PickMapContentResultC12pickedPlacesSayAA11PickedPlaceVGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-pickedPlaces" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-pickmapcontentresult#sdk-for-ios-navigate-s-7heresdk20PickMapContentResultC12pickedPlacesSayAA11PickedPlaceVGvp" class="token"><code>pickedPlaces</code></a> 
 
   </div>
 
@@ -71,6 +71,10 @@ A class that contains possible results from picking map content on the map scene
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-pickedplace">PickedPlace</a>
+
   </div>
 
   </div>
@@ -79,7 +83,7 @@ A class that contains possible results from picking map content on the map scene
 
 - <div>
 
-  ` `<span id="/s:7heresdk20PickMapContentResultC16trafficIncidentsSayAC015TrafficIncidentE0CGvp"></span>` `<span id="//apple_ref/swift/Property/trafficIncidents" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-pickmapcontentresult#/s:7heresdk20PickMapContentResultC16trafficIncidentsSayAC015TrafficIncidentE0CGvp" class="token"><code>trafficIncidents</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk20PickMapContentResultC16trafficIncidentsSayAC015TrafficIncidentE0CGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-trafficIncidents" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-pickmapcontentresult#sdk-for-ios-navigate-s-7heresdk20PickMapContentResultC16trafficIncidentsSayAC015TrafficIncidentE0CGvp" class="token"><code>trafficIncidents</code></a> 
 
   </div>
 
@@ -115,6 +119,10 @@ A class that contains possible results from picking map content on the map scene
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-pickmapcontentresult-trafficincidentresult">TrafficIncidentResult</a>
+
   </div>
 
   </div>
@@ -123,7 +131,7 @@ A class that contains possible results from picking map content on the map scene
 
 - <div>
 
-  ` `<span id="/s:7heresdk20PickMapContentResultC19vehicleRestrictionsSayAC018VehicleRestrictionE0VGvp"></span>` `<span id="//apple_ref/swift/Property/vehicleRestrictions" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-pickmapcontentresult#/s:7heresdk20PickMapContentResultC19vehicleRestrictionsSayAC018VehicleRestrictionE0VGvp" class="token"><code>vehicleRestrictions</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk20PickMapContentResultC19vehicleRestrictionsSayAC018VehicleRestrictionE0VGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-vehicleRestrictions" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-pickmapcontentresult#sdk-for-ios-navigate-s-7heresdk20PickMapContentResultC19vehicleRestrictionsSayAC018VehicleRestrictionE0VGvp" class="token"><code>vehicleRestrictions</code></a> 
 
   </div>
 
@@ -159,6 +167,10 @@ A class that contains possible results from picking map content on the map scene
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-pickmapcontentresult-vehiclerestrictionresult">VehicleRestrictionResult</a>
+
   </div>
 
   </div>
@@ -167,7 +179,7 @@ A class that contains possible results from picking map content on the map scene
 
 - <div>
 
-  ` `<span id="/s:7heresdk20PickMapContentResultC015TrafficIncidentE0C"></span>` `<span id="//apple_ref/swift/Class/TrafficIncidentResult" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-pickmapcontentresult#/s:7heresdk20PickMapContentResultC015TrafficIncidentE0C" class="token"><code>TrafficIncidentResult</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk20PickMapContentResultC015TrafficIncidentE0C"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Class-TrafficIncidentResult" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-pickmapcontentresult#sdk-for-ios-navigate-s-7heresdk20PickMapContentResultC015TrafficIncidentE0C" class="token"><code>TrafficIncidentResult</code></a> 
 
   </div>
 
@@ -213,6 +225,11 @@ A class that contains possible results from picking map content on the map scene
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-protocols-trafficincidentbase">TrafficIncidentBase</a>
+  - <a href="sdk-for-ios-navigate-classes-pickmapcontentresult">PickMapContentResult</a>
+
   </div>
 
   </div>
@@ -221,7 +238,7 @@ A class that contains possible results from picking map content on the map scene
 
 - <div>
 
-  ` `<span id="/s:7heresdk20PickMapContentResultC018VehicleRestrictionE0V"></span>` `<span id="//apple_ref/swift/Struct/VehicleRestrictionResult" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-pickmapcontentresult#/s:7heresdk20PickMapContentResultC018VehicleRestrictionE0V" class="token"><code>VehicleRestrictionResult</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk20PickMapContentResultC018VehicleRestrictionE0V"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-VehicleRestrictionResult" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-pickmapcontentresult#sdk-for-ios-navigate-s-7heresdk20PickMapContentResultC018VehicleRestrictionE0V" class="token"><code>VehicleRestrictionResult</code></a> 
 
   </div>
 

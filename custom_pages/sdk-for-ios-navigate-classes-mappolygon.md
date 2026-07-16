@@ -48,7 +48,7 @@ Note:
 
 - <div>
 
-      init(geometry: color: )
+   <span id="sdk-for-ios-navigate-s-7heresdk10MapPolygonC8geometry5colorAcA03GeoC0V_So7UIColorCtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-geometry-color" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mappolygon#sdk-for-ios-navigate-s-7heresdk10MapPolygonC8geometry5colorAcA03GeoC0V_So7UIColorCtcfc" class="token"><code>init(geometry:</code><wbr></wbr><code>color:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -87,12 +87,14 @@ Note:
   Swift
 
   ``` highlight
-  public init ( geometry : GeoPolygon , color : UIColor )
+  public init(geometry: GeoPolygon, color: UIColor)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-geopolygon">GeoPolygon</a>
 
   </div>
 
@@ -129,7 +131,7 @@ Note:
 
 - <div>
 
-      init(geometry: color: outlineColor: outlineWidthInPixels: )
+   <span id="sdk-for-ios-navigate-s-7heresdk10MapPolygonC8geometry5color12outlineColor0F13WidthInPixelsAcA03GeoC0V_So7UIColorCAKSdtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-geometry-color-outlineColor-outlineWidthInPixels" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mappolygon#sdk-for-ios-navigate-s-7heresdk10MapPolygonC8geometry5color12outlineColor0F13WidthInPixelsAcA03GeoC0V_So7UIColorCAKSdtcfc" class="token"><code>init(geometry:</code><wbr></wbr><code>color:</code><wbr></wbr><code>outlineColor:</code><wbr></wbr><code>outlineWidthInPixels:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -170,12 +172,14 @@ Note:
   Swift
 
   ``` highlight
-  public init ( geometry : GeoPolygon , color : UIColor , outlineColor : UIColor , outlineWidthInPixels : Double )
+  public init(geometry: GeoPolygon, color: UIColor, outlineColor: UIColor, outlineWidthInPixels: Double)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-geopolygon">GeoPolygon</a>
 
   </div>
 
@@ -224,7 +228,7 @@ Note:
 
 - <div>
 
-  ` `<span id="/s:7heresdk10MapPolygonC8geometryAA03GeoC0Vvp"></span>` `<span id="//apple_ref/swift/Property/geometry" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mappolygon#/s:7heresdk10MapPolygonC8geometryAA03GeoC0Vvp" class="token"><code>geometry</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10MapPolygonC8geometryAA03GeoC0Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-geometry" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mappolygon#sdk-for-ios-navigate-s-7heresdk10MapPolygonC8geometryAA03GeoC0Vvp" class="token"><code>geometry</code></a> 
 
   </div>
 
@@ -266,6 +270,10 @@ Note:
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-geopolygon">GeoPolygon</a>
+
   </div>
 
   </div>
@@ -274,7 +282,7 @@ Note:
 
 - <div>
 
-  ` `<span id="/s:7heresdk10MapPolygonC8metadataAA8MetadataCSgvp"></span>` `<span id="//apple_ref/swift/Property/metadata" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mappolygon#/s:7heresdk10MapPolygonC8metadataAA8MetadataCSgvp" class="token"><code>metadata</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10MapPolygonC8metadataAA8MetadataCSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-metadata" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mappolygon#sdk-for-ios-navigate-s-7heresdk10MapPolygonC8metadataAA8MetadataCSgvp" class="token"><code>metadata</code></a> 
 
   </div>
 
@@ -310,6 +318,10 @@ Note:
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-metadata">Metadata</a>
+
   </div>
 
   </div>
@@ -318,7 +330,7 @@ Note:
 
 - <div>
 
-  ` `<span id="/s:7heresdk10MapPolygonC9fillColorSo7UIColorCvp"></span>` `<span id="//apple_ref/swift/Property/fillColor" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mappolygon#/s:7heresdk10MapPolygonC9fillColorSo7UIColorCvp" class="token"><code>fillColor</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10MapPolygonC9fillColorSo7UIColorCvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-fillColor" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mappolygon#sdk-for-ios-navigate-s-7heresdk10MapPolygonC9fillColorSo7UIColorCvp" class="token"><code>fillColor</code></a> 
 
   </div>
 
@@ -362,7 +374,7 @@ Note:
 
 - <div>
 
-  ` `<span id="/s:7heresdk10MapPolygonC9drawOrders5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/drawOrder" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mappolygon#/s:7heresdk10MapPolygonC9drawOrders5Int32Vvp" class="token"><code>drawOrder</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10MapPolygonC9drawOrders5Int32Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-drawOrder" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mappolygon#sdk-for-ios-navigate-s-7heresdk10MapPolygonC9drawOrders5Int32Vvp" class="token"><code>drawOrder</code></a> 
 
   </div>
 
@@ -410,7 +422,7 @@ Note:
 
 - <div>
 
-  ` `<span id="/s:7heresdk10MapPolygonC16visibilityRangesSayAA0B12MeasureRangeVGvp"></span>` `<span id="//apple_ref/swift/Property/visibilityRanges" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mappolygon#/s:7heresdk10MapPolygonC16visibilityRangesSayAA0B12MeasureRangeVGvp" class="token"><code>visibilityRanges</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10MapPolygonC16visibilityRangesSayAA0B12MeasureRangeVGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-visibilityRanges" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mappolygon#sdk-for-ios-navigate-s-7heresdk10MapPolygonC16visibilityRangesSayAA0B12MeasureRangeVGvp" class="token"><code>visibilityRanges</code></a> 
 
   </div>
 
@@ -430,7 +442,7 @@ Note:
 
   The list of visibility ranges. The map polygon is visible only inside these map measure ranges. A range is half open - \<a href="sdk-for-ios-navigate-classes-s">minimumZoomLevel, maximumZoomLevel), the given maximum value is not contained in the range.
 
-  When empty (the default), the map polygon is visible without map measure restrictions. Only [MapMeasureRange</a> of <a href="sdk-for-ios-navigate-structs-mapmeasure-kind#/s:7heresdk10MapMeasureV4KindO9zoomLevelyA2EmF">`MapMeasure.Kind.zoomLevel`</a> type are supported. <a href="sdk-for-ios-navigate-classes-s">MapMeasureRange</a> of other unsupported types will be ignored.
+  When empty (the default), the map polygon is visible without map measure restrictions. Only [MapMeasureRange</a> of <a href="sdk-for-ios-navigate-structs-mapmeasure-kind#sdk-for-ios-navigate-s-7heresdk10MapMeasureV4KindO9zoomLevelyA2EmF">`MapMeasure.Kind.zoomLevel`</a> type are supported. <a href="sdk-for-ios-navigate-classes-s">MapMeasureRange</a> of other unsupported types will be ignored.
 
   </div>
 
@@ -448,6 +460,10 @@ Note:
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-mapmeasurerange">MapMeasureRange</a>
+
   </div>
 
   </div>
@@ -456,7 +472,7 @@ Note:
 
 - <div>
 
-  ` `<span id="/s:7heresdk10MapPolygonC12outlineColorSo7UIColorCvp"></span>` `<span id="//apple_ref/swift/Property/outlineColor" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mappolygon#/s:7heresdk10MapPolygonC12outlineColorSo7UIColorCvp" class="token"><code>outlineColor</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10MapPolygonC12outlineColorSo7UIColorCvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-outlineColor" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mappolygon#sdk-for-ios-navigate-s-7heresdk10MapPolygonC12outlineColorSo7UIColorCvp" class="token"><code>outlineColor</code></a> 
 
   </div>
 
@@ -502,7 +518,7 @@ Note:
 
 - <div>
 
-  ` `<span id="/s:7heresdk10MapPolygonC12outlineWidthSdvp"></span>` `<span id="//apple_ref/swift/Property/outlineWidth" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mappolygon#/s:7heresdk10MapPolygonC12outlineWidthSdvp" class="token"><code>outlineWidth</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10MapPolygonC12outlineWidthSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-outlineWidth" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mappolygon#sdk-for-ios-navigate-s-7heresdk10MapPolygonC12outlineWidthSdvp" class="token"><code>outlineWidth</code></a> 
 
   </div>
 

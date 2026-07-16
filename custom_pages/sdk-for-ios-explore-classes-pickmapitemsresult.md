@@ -35,7 +35,7 @@ Carries results from the picking of map items on the map scene.
 
 - <div>
 
-  ` `<span id="/s:7heresdk18PickMapItemsResultC16clusteredMarkersSayAA0C13MarkerClusterC8GroupingVGvp"></span>` `<span id="//apple_ref/swift/Property/clusteredMarkers" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-pickmapitemsresult#/s:7heresdk18PickMapItemsResultC16clusteredMarkersSayAA0C13MarkerClusterC8GroupingVGvp" class="token"><code>clusteredMarkers</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18PickMapItemsResultC16clusteredMarkersSayAA0C13MarkerClusterC8GroupingVGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-clusteredMarkers" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-pickmapitemsresult#sdk-for-ios-explore-s-7heresdk18PickMapItemsResultC16clusteredMarkersSayAA0C13MarkerClusterC8GroupingVGvp" class="token"><code>clusteredMarkers</code></a> 
 
   </div>
 
@@ -71,6 +71,10 @@ Carries results from the picking of map items on the map scene.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-mapmarkercluster">MapMarkerCluster</a>
+
   </div>
 
   </div>
@@ -79,7 +83,7 @@ Carries results from the picking of map items on the map scene.
 
 - <div>
 
-  ` `<span id="/s:7heresdk18PickMapItemsResultC7markersSayAA0C6MarkerCGvp"></span>` `<span id="//apple_ref/swift/Property/markers" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-pickmapitemsresult#/s:7heresdk18PickMapItemsResultC7markersSayAA0C6MarkerCGvp" class="token"><code>markers</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18PickMapItemsResultC7markersSayAA0C6MarkerCGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-markers" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-pickmapitemsresult#sdk-for-ios-explore-s-7heresdk18PickMapItemsResultC7markersSayAA0C6MarkerCGvp" class="token"><code>markers</code></a> 
 
   </div>
 
@@ -115,6 +119,10 @@ Carries results from the picking of map items on the map scene.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-mapmarker">MapMarker</a>
+
   </div>
 
   </div>
@@ -123,7 +131,7 @@ Carries results from the picking of map items on the map scene.
 
 - <div>
 
-  ` `<span id="/s:7heresdk18PickMapItemsResultC9markers3dSayAA0C8Marker3DCGvp"></span>` `<span id="//apple_ref/swift/Property/markers3d" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-pickmapitemsresult#/s:7heresdk18PickMapItemsResultC9markers3dSayAA0C8Marker3DCGvp" class="token"><code>markers3d</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18PickMapItemsResultC9markers3dSayAA0C8Marker3DCGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-markers3d" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-pickmapitemsresult#sdk-for-ios-explore-s-7heresdk18PickMapItemsResultC9markers3dSayAA0C8Marker3DCGvp" class="token"><code>markers3d</code></a> 
 
   </div>
 
@@ -159,6 +167,10 @@ Carries results from the picking of map items on the map scene.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-mapmarker3d">MapMarker3D</a>
+
   </div>
 
   </div>
@@ -167,7 +179,7 @@ Carries results from the picking of map items on the map scene.
 
 - <div>
 
-  ` `<span id="/s:7heresdk18PickMapItemsResultC9polylinesSayAA0C8PolylineCGvp"></span>` `<span id="//apple_ref/swift/Property/polylines" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-pickmapitemsresult#/s:7heresdk18PickMapItemsResultC9polylinesSayAA0C8PolylineCGvp" class="token"><code>polylines</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18PickMapItemsResultC9polylinesSayAA0C8PolylineCGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-polylines" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-pickmapitemsresult#sdk-for-ios-explore-s-7heresdk18PickMapItemsResultC9polylinesSayAA0C8PolylineCGvp" class="token"><code>polylines</code></a> 
 
   </div>
 
@@ -203,6 +215,10 @@ Carries results from the picking of map items on the map scene.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-mappolyline">MapPolyline</a>
+
   </div>
 
   </div>
@@ -211,7 +227,7 @@ Carries results from the picking of map items on the map scene.
 
 - <div>
 
-  ` `<span id="/s:7heresdk18PickMapItemsResultC8polygonsSayAA0C7PolygonCGvp"></span>` `<span id="//apple_ref/swift/Property/polygons" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-pickmapitemsresult#/s:7heresdk18PickMapItemsResultC8polygonsSayAA0C7PolygonCGvp" class="token"><code>polygons</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18PickMapItemsResultC8polygonsSayAA0C7PolygonCGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-polygons" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-pickmapitemsresult#sdk-for-ios-explore-s-7heresdk18PickMapItemsResultC8polygonsSayAA0C7PolygonCGvp" class="token"><code>polygons</code></a> 
 
   </div>
 
@@ -246,6 +262,10 @@ Carries results from the picking of map items on the map scene.
   ```
 
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-mappolygon">MapPolygon</a>
 
   </div>
 

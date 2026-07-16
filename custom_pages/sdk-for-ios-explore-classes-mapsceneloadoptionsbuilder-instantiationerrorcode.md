@@ -17,7 +17,7 @@ public enum InstantiationErrorCode : UInt32, CaseIterable, Codable
 
 </div>
 
-Describes a reason for failing to build a <a href="sdk-for-ios-explore-maps#/s:7heresdk19MapSceneLoadOptionsC">`MapSceneLoadOptions`</a>.
+Describes a reason for failing to build a <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk19MapSceneLoadOptionsC">`MapSceneLoadOptions`</a>.
 
 </div>
 
@@ -27,7 +27,7 @@ Describes a reason for failing to build a <a href="sdk-for-ios-explore-maps#/s:7
 
 - <div>
 
-  ` `<span id="/s:7heresdk26MapSceneLoadOptionsBuilderC22InstantiationErrorCodeO11noSourceSetyA2EmF"></span>` `<span id="//apple_ref/swift/Element/noSourceSet" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-mapsceneloadoptionsbuilder-instantiationerrorcode#/s:7heresdk26MapSceneLoadOptionsBuilderC22InstantiationErrorCodeO11noSourceSetyA2EmF" class="token"><code>noSourceSet</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk26MapSceneLoadOptionsBuilderC22InstantiationErrorCodeO11noSourceSetyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-noSourceSet" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-mapsceneloadoptionsbuilder-instantiationerrorcode#sdk-for-ios-explore-s-7heresdk26MapSceneLoadOptionsBuilderC22InstantiationErrorCodeO11noSourceSetyA2EmF" class="token"><code>noSourceSet</code></a> 
 
   </div>
 

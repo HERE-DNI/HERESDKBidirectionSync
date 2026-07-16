@@ -25,7 +25,7 @@ extension Suggestion: Hashable
 
 </div>
 
-Suggestion is meant to provide relevant suggestions to partial queries, like “restaur”, “starbu”, “eiffel”. Represents a relevant response to user queries. Suggestions (please check <a href="sdk-for-ios-explore-enums-suggestiontype">`SuggestionType`</a>) are either: Place: <a href="sdk-for-ios-explore-enums-suggestiontype#/s:7heresdk14SuggestionTypeO5placeyA2CmF">`SuggestionType.place`</a> Query: <a href="sdk-for-ios-explore-enums-suggestiontype#/s:7heresdk14SuggestionTypeO5chainyA2CmF">`SuggestionType.chain`</a> or <a href="sdk-for-ios-explore-enums-suggestiontype#/s:7heresdk14SuggestionTypeO8categoryyA2CmF">`SuggestionType.category`</a>
+Suggestion is meant to provide relevant suggestions to partial queries, like “restaur”, “starbu”, “eiffel”. Represents a relevant response to user queries. Suggestions (please check <a href="sdk-for-ios-explore-enums-suggestiontype">`SuggestionType`</a>) are either: Place: <a href="sdk-for-ios-explore-enums-suggestiontype#sdk-for-ios-explore-s-7heresdk14SuggestionTypeO5placeyA2CmF">`SuggestionType.place`</a> Query: <a href="sdk-for-ios-explore-enums-suggestiontype#sdk-for-ios-explore-s-7heresdk14SuggestionTypeO5chainyA2CmF">`SuggestionType.chain`</a> or <a href="sdk-for-ios-explore-enums-suggestiontype#sdk-for-ios-explore-s-7heresdk14SuggestionTypeO8categoryyA2CmF">`SuggestionType.category`</a>
 
 With “Place” you get data for a concrete place in the world. With “Query” something to follow-up, a way to perform more focused search.
 
@@ -37,7 +37,7 @@ With “Place” you get data for a concrete place in the world. With “Query�
 
 - <div>
 
-  ` `<span id="/s:7heresdk10SuggestionC5titleSSvp"></span>` `<span id="//apple_ref/swift/Property/title" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-suggestion#/s:7heresdk10SuggestionC5titleSSvp" class="token"><code>title</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10SuggestionC5titleSSvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-title" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-suggestion#sdk-for-ios-explore-s-7heresdk10SuggestionC5titleSSvp" class="token"><code>title</code></a> 
 
   </div>
 
@@ -81,7 +81,7 @@ With “Place” you get data for a concrete place in the world. With “Query�
 
 - <div>
 
-  ` `<span id="/s:7heresdk10SuggestionC4typeAA0B4TypeOvp"></span>` `<span id="//apple_ref/swift/Property/type" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-suggestion#/s:7heresdk10SuggestionC4typeAA0B4TypeOvp" class="token"><code>type</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10SuggestionC4typeAA0B4TypeOvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-type" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-suggestion#sdk-for-ios-explore-s-7heresdk10SuggestionC4typeAA0B4TypeOvp" class="token"><code>type</code></a> 
 
   </div>
 
@@ -117,6 +117,10 @@ With “Place” you get data for a concrete place in the world. With “Query�
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-suggestiontype">SuggestionType</a>
+
   </div>
 
   </div>
@@ -125,7 +129,7 @@ With “Place” you get data for a concrete place in the world. With “Query�
 
 - <div>
 
-  ` `<span id="/s:7heresdk10SuggestionC5placeAA5PlaceCSgvp"></span>` `<span id="//apple_ref/swift/Property/place" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-suggestion#/s:7heresdk10SuggestionC5placeAA5PlaceCSgvp" class="token"><code>place</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10SuggestionC5placeAA5PlaceCSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-place" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-suggestion#sdk-for-ios-explore-s-7heresdk10SuggestionC5placeAA5PlaceCSgvp" class="token"><code>place</code></a> 
 
   </div>
 
@@ -143,7 +147,7 @@ With “Place” you get data for a concrete place in the world. With “Query�
 
   <div class="abstract">
 
-  The suggested place. Available only for <a href="sdk-for-ios-explore-enums-suggestiontype#/s:7heresdk14SuggestionTypeO5placeyA2CmF">`SuggestionType.place`</a>.
+  The suggested place. Available only for <a href="sdk-for-ios-explore-enums-suggestiontype#sdk-for-ios-explore-s-7heresdk14SuggestionTypeO5placeyA2CmF">`SuggestionType.place`</a>.
 
   </div>
 
@@ -161,6 +165,10 @@ With “Place” you get data for a concrete place in the world. With “Query�
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-place">Place</a>
+
   </div>
 
   </div>
@@ -169,7 +177,7 @@ With “Place” you get data for a concrete place in the world. With “Query�
 
 - <div>
 
-  ` `<span id="/s:7heresdk10SuggestionC2idSSSgvp"></span>` `<span id="//apple_ref/swift/Property/id" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-suggestion#/s:7heresdk10SuggestionC2idSSSgvp" class="token"><code>id</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10SuggestionC2idSSSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-id" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-suggestion#sdk-for-ios-explore-s-7heresdk10SuggestionC2idSSSgvp" class="token"><code>id</code></a> 
 
   </div>
 
@@ -187,7 +195,7 @@ With “Place” you get data for a concrete place in the world. With “Query�
 
   <div class="abstract">
 
-  The unique id of suggested item. It can be used to query further information. For online search, suggestion of type <a href="sdk-for-ios-explore-enums-suggestiontype#/s:7heresdk14SuggestionTypeO5placeyA2CmF">`SuggestionType.place`</a> will have Suggestion.id same as Place.id. For offline search, only suggestion of type <a href="sdk-for-ios-explore-enums-suggestiontype#/s:7heresdk14SuggestionTypeO5chainyA2CmF">`SuggestionType.chain`</a>, will have this property filled with identifier number of an associated chain. For example, the chain ID “8778” corresponds to the chain name “ABC Shop”. For other types, <a href="sdk-for-ios-explore-enums-suggestiontype#/s:7heresdk14SuggestionTypeO5placeyA2CmF">`SuggestionType.place`</a> and <a href="sdk-for-ios-explore-enums-suggestiontype#/s:7heresdk14SuggestionTypeO8categoryyA2CmF">`SuggestionType.category`</a> this property will be null.
+  The unique id of suggested item. It can be used to query further information. For online search, suggestion of type <a href="sdk-for-ios-explore-enums-suggestiontype#sdk-for-ios-explore-s-7heresdk14SuggestionTypeO5placeyA2CmF">`SuggestionType.place`</a> will have Suggestion.id same as Place.id. For offline search, only suggestion of type <a href="sdk-for-ios-explore-enums-suggestiontype#sdk-for-ios-explore-s-7heresdk14SuggestionTypeO5chainyA2CmF">`SuggestionType.chain`</a>, will have this property filled with identifier number of an associated chain. For example, the chain ID “8778” corresponds to the chain name “ABC Shop”. For other types, <a href="sdk-for-ios-explore-enums-suggestiontype#sdk-for-ios-explore-s-7heresdk14SuggestionTypeO5placeyA2CmF">`SuggestionType.place`</a> and <a href="sdk-for-ios-explore-enums-suggestiontype#sdk-for-ios-explore-s-7heresdk14SuggestionTypeO8categoryyA2CmF">`SuggestionType.category`</a> this property will be null.
 
   </div>
 
@@ -213,7 +221,7 @@ With “Place” you get data for a concrete place in the world. With “Query�
 
 - <div>
 
-  ` `<span id="/s:7heresdk10SuggestionC4hrefSSSgvp"></span>` `<span id="//apple_ref/swift/Property/href" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-suggestion#/s:7heresdk10SuggestionC4hrefSSSgvp" class="token"><code>href</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10SuggestionC4hrefSSSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-href" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-suggestion#sdk-for-ios-explore-s-7heresdk10SuggestionC4hrefSSSgvp" class="token"><code>href</code></a> 
 
   </div>
 
@@ -231,7 +239,7 @@ With “Place” you get data for a concrete place in the world. With “Query�
 
   <div class="abstract">
 
-  Direct URL for precise query. Available only for <a href="sdk-for-ios-explore-enums-suggestiontype#/s:7heresdk14SuggestionTypeO5chainyA2CmF">`SuggestionType.chain`</a> and <a href="sdk-for-ios-explore-enums-suggestiontype#/s:7heresdk14SuggestionTypeO8categoryyA2CmF">`SuggestionType.category`</a>. This is not supported in offline search.
+  Direct URL for precise query. Available only for <a href="sdk-for-ios-explore-enums-suggestiontype#sdk-for-ios-explore-s-7heresdk14SuggestionTypeO5chainyA2CmF">`SuggestionType.chain`</a> and <a href="sdk-for-ios-explore-enums-suggestiontype#sdk-for-ios-explore-s-7heresdk14SuggestionTypeO8categoryyA2CmF">`SuggestionType.category`</a>. This is not supported in offline search.
 
   </div>
 
@@ -257,7 +265,7 @@ With “Place” you get data for a concrete place in the world. With “Query�
 
 - <div>
 
-      getHighlights()
+   <span id="sdk-for-ios-explore-s-7heresdk10SuggestionC13getHighlightsSDyAA13HighlightTypeOSayAA10IndexRangeCGGyF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-getHighlights" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-suggestion#sdk-for-ios-explore-s-7heresdk10SuggestionC13getHighlightsSDyAA13HighlightTypeOSayAA10IndexRangeCGGyF" class="token"><code>getHighlights()</code></a> 
 
   </div>
 
@@ -288,12 +296,15 @@ With “Place” you get data for a concrete place in the world. With “Query�
   Swift
 
   ``` highlight
-  public func getHighlights () -> [ HighlightType : [ IndexRange ]]
+  public func getHighlights() -> [HighlightType : [IndexRange]]
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-highlighttype">HighlightType</a>
+  - <a href="sdk-for-ios-explore-classes-indexrange">IndexRange</a>
 
   </div>
 

@@ -27,7 +27,7 @@ Textual attributes of road.
 
 - <div>
 
-  ` `<span id="/s:7heresdk9RoadTextsV5namesAA09LocalizedC0Vvp"></span>` `<span id="//apple_ref/swift/Property/names" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-roadtexts#/s:7heresdk9RoadTextsV5namesAA09LocalizedC0Vvp" class="token"><code>names</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9RoadTextsV5namesAA09LocalizedC0Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-names" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-roadtexts#sdk-for-ios-explore-s-7heresdk9RoadTextsV5namesAA09LocalizedC0Vvp" class="token"><code>names</code></a> 
 
   </div>
 
@@ -63,6 +63,10 @@ Textual attributes of road.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-localizedtexts">LocalizedTexts</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ Textual attributes of road.
 
 - <div>
 
-  ` `<span id="/s:7heresdk9RoadTextsV20numbersWithDirectionAA09LocalizedB7NumbersVvp"></span>` `<span id="//apple_ref/swift/Property/numbersWithDirection" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-roadtexts#/s:7heresdk9RoadTextsV20numbersWithDirectionAA09LocalizedB7NumbersVvp" class="token"><code>numbersWithDirection</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9RoadTextsV20numbersWithDirectionAA09LocalizedB7NumbersVvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-numbersWithDirection" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-roadtexts#sdk-for-ios-explore-s-7heresdk9RoadTextsV20numbersWithDirectionAA09LocalizedB7NumbersVvp" class="token"><code>numbersWithDirection</code></a> 
 
   </div>
 
@@ -107,6 +111,10 @@ Textual attributes of road.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-localizedroadnumbers">LocalizedRoadNumbers</a>
+
   </div>
 
   </div>
@@ -115,7 +123,7 @@ Textual attributes of road.
 
 - <div>
 
-      init(names: numbersWithDirection: )
+   <span id="sdk-for-ios-explore-s-7heresdk9RoadTextsV5names20numbersWithDirectionAcA09LocalizedC0V_AA0hB7NumbersVtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-names-numbersWithDirection" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-roadtexts#sdk-for-ios-explore-s-7heresdk9RoadTextsV5names20numbersWithDirectionAcA09LocalizedC0V_AA0hB7NumbersVtcfc" class="token"><code>init(names:</code><wbr></wbr><code>numbersWithDirection:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -146,12 +154,15 @@ Textual attributes of road.
   Swift
 
   ``` highlight
-  public init ( names : LocalizedTexts = LocalizedTexts (), numbersWithDirection : LocalizedRoadNumbers = LocalizedRoadNumbers ())
+  public init(names: LocalizedTexts = LocalizedTexts(), numbersWithDirection: LocalizedRoadNumbers = LocalizedRoadNumbers())
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-localizedtexts">LocalizedTexts</a>
+  - <a href="sdk-for-ios-explore-structs-localizedroadnumbers">LocalizedRoadNumbers</a>
 
   </div>
 

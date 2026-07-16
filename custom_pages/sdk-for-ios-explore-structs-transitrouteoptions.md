@@ -27,7 +27,7 @@ All the options to specify how a public transit route should be calculated.
 
 - <div>
 
-  ` `<span id="/s:7heresdk19TransitRouteOptionsV13departureTime10Foundation4DateVSgvp"></span>` `<span id="//apple_ref/swift/Property/departureTime" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-transitrouteoptions#/s:7heresdk19TransitRouteOptionsV13departureTime10Foundation4DateVSgvp" class="token"><code>departureTime</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19TransitRouteOptionsV13departureTime10Foundation4DateVSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-departureTime" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-transitrouteoptions#sdk-for-ios-explore-s-7heresdk19TransitRouteOptionsV13departureTime10Foundation4DateVSgvp" class="token"><code>departureTime</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ All the options to specify how a public transit route should be calculated.
 
 - <div>
 
-  ` `<span id="/s:7heresdk19TransitRouteOptionsV11arrivalTime10Foundation4DateVSgvp"></span>` `<span id="//apple_ref/swift/Property/arrivalTime" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-transitrouteoptions#/s:7heresdk19TransitRouteOptionsV11arrivalTime10Foundation4DateVSgvp" class="token"><code>arrivalTime</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19TransitRouteOptionsV11arrivalTime10Foundation4DateVSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-arrivalTime" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-transitrouteoptions#sdk-for-ios-explore-s-7heresdk19TransitRouteOptionsV11arrivalTime10Foundation4DateVSgvp" class="token"><code>arrivalTime</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ All the options to specify how a public transit route should be calculated.
 
 - <div>
 
-  ` `<span id="/s:7heresdk19TransitRouteOptionsV12alternativess5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/alternatives" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-transitrouteoptions#/s:7heresdk19TransitRouteOptionsV12alternativess5Int32Vvp" class="token"><code>alternatives</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19TransitRouteOptionsV12alternativess5Int32Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-alternatives" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-transitrouteoptions#sdk-for-ios-explore-s-7heresdk19TransitRouteOptionsV12alternativess5Int32Vvp" class="token"><code>alternatives</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ All the options to specify how a public transit route should be calculated.
 
 - <div>
 
-  ` `<span id="/s:7heresdk19TransitRouteOptionsV7changess5Int32VSgvp"></span>` `<span id="//apple_ref/swift/Property/changes" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-transitrouteoptions#/s:7heresdk19TransitRouteOptionsV7changess5Int32VSgvp" class="token"><code>changes</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19TransitRouteOptionsV7changess5Int32VSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-changes" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-transitrouteoptions#sdk-for-ios-explore-s-7heresdk19TransitRouteOptionsV7changess5Int32VSgvp" class="token"><code>changes</code></a> 
 
   </div>
 
@@ -203,7 +203,7 @@ All the options to specify how a public transit route should be calculated.
 
 - <div>
 
-  ` `<span id="/s:7heresdk19TransitRouteOptionsV10modeFilterAA0b4ModeF0Ovp"></span>` `<span id="//apple_ref/swift/Property/modeFilter" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-transitrouteoptions#/s:7heresdk19TransitRouteOptionsV10modeFilterAA0b4ModeF0Ovp" class="token"><code>modeFilter</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19TransitRouteOptionsV10modeFilterAA0b4ModeF0Ovp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-modeFilter" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-transitrouteoptions#sdk-for-ios-explore-s-7heresdk19TransitRouteOptionsV10modeFilterAA0b4ModeF0Ovp" class="token"><code>modeFilter</code></a> 
 
   </div>
 
@@ -239,6 +239,10 @@ All the options to specify how a public transit route should be calculated.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-transitmodefilter">TransitModeFilter</a>
+
   </div>
 
   </div>
@@ -247,7 +251,7 @@ All the options to specify how a public transit route should be calculated.
 
 - <div>
 
-  ` `<span id="/s:7heresdk19TransitRouteOptionsV5modesSayAA0B4ModeOGvp"></span>` `<span id="//apple_ref/swift/Property/modes" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-transitrouteoptions#/s:7heresdk19TransitRouteOptionsV5modesSayAA0B4ModeOGvp" class="token"><code>modes</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19TransitRouteOptionsV5modesSayAA0B4ModeOGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-modes" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-transitrouteoptions#sdk-for-ios-explore-s-7heresdk19TransitRouteOptionsV5modesSayAA0B4ModeOGvp" class="token"><code>modes</code></a> 
 
   </div>
 
@@ -265,7 +269,7 @@ All the options to specify how a public transit route should be calculated.
 
   <div class="abstract">
 
-  This list is used to determine which transit modes should be used for route calculation, <a href="sdk-for-ios-explore-structs-transitrouteoptions#/s:7heresdk19TransitRouteOptionsV10modeFilterAA0b4ModeF0Ovp">`TransitRouteOptions.modeFilter`</a> specifies whether this list is an inclusion or an exclusion. For example, specifying subway and bus transit modes with the include filter, returns only subway and bus transit modes, and with the exclude filter, returns all the transit modes except subway and bus. When not set, all the supported transit modes are permitted. By default, this list is empty.
+  This list is used to determine which transit modes should be used for route calculation, <a href="sdk-for-ios-explore-structs-transitrouteoptions#sdk-for-ios-explore-s-7heresdk19TransitRouteOptionsV10modeFilterAA0b4ModeF0Ovp">`TransitRouteOptions.modeFilter`</a> specifies whether this list is an inclusion or an exclusion. For example, specifying subway and bus transit modes with the include filter, returns only subway and bus transit modes, and with the exclude filter, returns all the transit modes except subway and bus. When not set, all the supported transit modes are permitted. By default, this list is empty.
 
   </div>
 
@@ -283,6 +287,10 @@ All the options to specify how a public transit route should be calculated.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-transitmode">TransitMode</a>
+
   </div>
 
   </div>
@@ -291,7 +299,7 @@ All the options to specify how a public transit route should be calculated.
 
 - <div>
 
-  ` `<span id="/s:7heresdk19TransitRouteOptionsV32pedestrianSpeedInMetersPerSecondSdvp"></span>` `<span id="//apple_ref/swift/Property/pedestrianSpeedInMetersPerSecond" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-transitrouteoptions#/s:7heresdk19TransitRouteOptionsV32pedestrianSpeedInMetersPerSecondSdvp" class="token"><code>pedestrianSpeedInMetersPerSecond</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19TransitRouteOptionsV32pedestrianSpeedInMetersPerSecondSdvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-pedestrianSpeedInMetersPerSecond" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-transitrouteoptions#sdk-for-ios-explore-s-7heresdk19TransitRouteOptionsV32pedestrianSpeedInMetersPerSecondSdvp" class="token"><code>pedestrianSpeedInMetersPerSecond</code></a> 
 
   </div>
 
@@ -335,7 +343,7 @@ All the options to specify how a public transit route should be calculated.
 
 - <div>
 
-  ` `<span id="/s:7heresdk19TransitRouteOptionsV29pedestrianMaxDistanceInMeterss5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/pedestrianMaxDistanceInMeters" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-transitrouteoptions#/s:7heresdk19TransitRouteOptionsV29pedestrianMaxDistanceInMeterss5Int32Vvp" class="token"><code>pedestrianMaxDistanceInMeters</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19TransitRouteOptionsV29pedestrianMaxDistanceInMeterss5Int32Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-pedestrianMaxDistanceInMeters" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-transitrouteoptions#sdk-for-ios-explore-s-7heresdk19TransitRouteOptionsV29pedestrianMaxDistanceInMeterss5Int32Vvp" class="token"><code>pedestrianMaxDistanceInMeters</code></a> 
 
   </div>
 
@@ -379,7 +387,7 @@ All the options to specify how a public transit route should be calculated.
 
 - <div>
 
-  ` `<span id="/s:7heresdk19TransitRouteOptionsV04textD0AA0c4TextD0Vvp"></span>` `<span id="//apple_ref/swift/Property/textOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-transitrouteoptions#/s:7heresdk19TransitRouteOptionsV04textD0AA0c4TextD0Vvp" class="token"><code>textOptions</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19TransitRouteOptionsV04textD0AA0c4TextD0Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-textOptions" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-transitrouteoptions#sdk-for-ios-explore-s-7heresdk19TransitRouteOptionsV04textD0AA0c4TextD0Vvp" class="token"><code>textOptions</code></a> 
 
   </div>
 
@@ -415,6 +423,10 @@ All the options to specify how a public transit route should be calculated.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-routetextoptions">RouteTextOptions</a>
+
   </div>
 
   </div>
@@ -423,7 +435,7 @@ All the options to specify how a public transit route should be calculated.
 
 - <div>
 
-      init(departureTime: arrivalTime: alternatives: changes: modeFilter: modes: pedestrianSpeedInMetersPerSecond: pedestrianMaxDistanceInMeters: textOptions: )
+   <span id="sdk-for-ios-explore-s-7heresdk19TransitRouteOptionsV13departureTime07arrivalF012alternatives7changes10modeFilter5modes32pedestrianSpeedInMetersPerSecond0m11MaxDistanceoP004textD0AC10Foundation4DateVSg_APs5Int32VARSgAA0b4ModeK0OSayAA0bY0OGSdArA0c4TextD0Vtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-departureTime-arrivalTime-alternatives-changes-modeFilter-modes-pedestrianSpeedInMetersPerSecond-pedestrianMaxDistanceInMeters-textOptions" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-transitrouteoptions#sdk-for-ios-explore-s-7heresdk19TransitRouteOptionsV13departureTime07arrivalF012alternatives7changes10modeFilter5modes32pedestrianSpeedInMetersPerSecond0m11MaxDistanceoP004textD0AC10Foundation4DateVSg_APs5Int32VARSgAA0b4ModeK0OSayAA0bY0OGSdArA0c4TextD0Vtcfc" class="token"><code>init(departureTime:</code><wbr></wbr><code>arrivalTime:</code><wbr></wbr><code>alternatives:</code><wbr></wbr><code>changes:</code><wbr></wbr><code>modeFilter:</code><wbr></wbr><code>modes:</code><wbr></wbr><code>pedestrianSpeedInMetersPerSecond:</code><wbr></wbr><code>pedestrianMaxDistanceInMeters:</code><wbr></wbr><code>textOptions:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -454,12 +466,16 @@ All the options to specify how a public transit route should be calculated.
   Swift
 
   ``` highlight
-  public init ( departureTime : Date ? = nil , arrivalTime : Date ? = nil , alternatives : Int32 = 0 , changes : Int32 ? = nil , modeFilter : TransitModeFilter = TransitModeFilter . include , modes : [ TransitMode ] = [], pedestrianSpeedInMetersPerSecond : Double = 1.0 , pedestrianMaxDistanceInMeters : Int32 = 2000 , textOptions : RouteTextOptions = RouteTextOptions ())
+  public init(departureTime: Date? = nil, arrivalTime: Date? = nil, alternatives: Int32 = 0, changes: Int32? = nil, modeFilter: TransitModeFilter = TransitModeFilter.include, modes: [TransitMode] = [], pedestrianSpeedInMetersPerSecond: Double = 1.0, pedestrianMaxDistanceInMeters: Int32 = 2000, textOptions: RouteTextOptions = RouteTextOptions())
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-transitmodefilter">TransitModeFilter</a>
+  - <a href="sdk-for-ios-explore-enums-transitmode">TransitMode</a>
+  - <a href="sdk-for-ios-explore-structs-routetextoptions">RouteTextOptions</a>
 
   </div>
 
@@ -469,7 +485,7 @@ All the options to specify how a public transit route should be calculated.
 
 - <div>
 
-      fromDefaultParameterConfiguration()
+   <span id="sdk-for-ios-explore-s-7heresdk19TransitRouteOptionsV33fromDefaultParameterConfigurationACyFZ"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-fromDefaultParameterConfiguration" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-transitrouteoptions#sdk-for-ios-explore-s-7heresdk19TransitRouteOptionsV33fromDefaultParameterConfigurationACyFZ" class="token"><code>fromDefaultParameterConfiguration()</code></a> 
 
   </div>
 
@@ -500,10 +516,8 @@ All the options to specify how a public transit route should be calculated.
   Swift
 
   ``` highlight
-  public static func fromDefaultParameterConfiguration () -> TransitRouteOptions
+  public static func fromDefaultParameterConfiguration() -> TransitRouteOptions
   ```
-
-  </pre>
 
   </div>
 

@@ -27,7 +27,7 @@ A ScalarKeyframe consists of a scalar value (e.g,: distance in meters) and an an
 
 - <div>
 
-  ` `<span id="/s:7heresdk14ScalarKeyframeV5valueSdvp"></span>` `<span id="//apple_ref/swift/Property/value" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-scalarkeyframe#/s:7heresdk14ScalarKeyframeV5valueSdvp" class="token"><code>value</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14ScalarKeyframeV5valueSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-value" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-scalarkeyframe#sdk-for-ios-navigate-s-7heresdk14ScalarKeyframeV5valueSdvp" class="token"><code>value</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ A ScalarKeyframe consists of a scalar value (e.g,: distance in meters) and an an
 
 - <div>
 
-  ` `<span id="/s:7heresdk14ScalarKeyframeV8durationSdvp"></span>` `<span id="//apple_ref/swift/Property/duration" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-scalarkeyframe#/s:7heresdk14ScalarKeyframeV8durationSdvp" class="token"><code>duration</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14ScalarKeyframeV8durationSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-duration" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-scalarkeyframe#sdk-for-ios-navigate-s-7heresdk14ScalarKeyframeV8durationSdvp" class="token"><code>duration</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ A ScalarKeyframe consists of a scalar value (e.g,: distance in meters) and an an
 
 - <div>
 
-      init(value: duration: )
+   <span id="sdk-for-ios-navigate-s-7heresdk14ScalarKeyframeV5value8durationACSd_Sdtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-value-duration" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-scalarkeyframe#sdk-for-ios-navigate-s-7heresdk14ScalarKeyframeV5value8durationACSd_Sdtcfc" class="token"><code>init(value:</code><wbr></wbr><code>duration:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -146,10 +146,8 @@ A ScalarKeyframe consists of a scalar value (e.g,: distance in meters) and an an
   Swift
 
   ``` highlight
-  public init ( value : Double , duration : TimeInterval )
+  public init(value: Double, duration: TimeInterval)
   ```
-
-  </pre>
 
   </div>
 

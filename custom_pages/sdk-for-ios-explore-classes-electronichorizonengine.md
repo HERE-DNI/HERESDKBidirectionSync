@@ -25,7 +25,7 @@ extension ElectronicHorizonEngine: Hashable
 
 </div>
 
-Provides an electronic horizon engine that continuously predicts the road network ahead of the vehicle by using detailed map data, including road topography that is currently out of sight. You can subscribe to electronic horizon updates based on position updates by using <a href="sdk-for-ios-explore-protocols-electronichorizondelegate">`ElectronicHorizonDelegate`</a>. For more information about sub path levels, see <a href="sdk-for-ios-explore-structs-electronichorizonoptions#/s:7heresdk24ElectronicHorizonOptionsV26lookAheadDistancesInMetersSaySdGvp">`ElectronicHorizonOptions.lookAheadDistancesInMeters`</a>.
+Provides an electronic horizon engine that continuously predicts the road network ahead of the vehicle by using detailed map data, including road topography that is currently out of sight. You can subscribe to electronic horizon updates based on position updates by using <a href="sdk-for-ios-explore-protocols-electronichorizondelegate">`ElectronicHorizonDelegate`</a>. For more information about sub path levels, see <a href="sdk-for-ios-explore-structs-electronichorizonoptions#sdk-for-ios-explore-s-7heresdk24ElectronicHorizonOptionsV26lookAheadDistancesInMetersSaySdGvp">`ElectronicHorizonOptions.lookAheadDistancesInMeters`</a>.
 
 The electronic horizon engine uses map-matched locations and can optionally use a <a href="sdk-for-ios-explore-classes-route">`Route`</a> to improve the most-preferred path (MPP).
 
@@ -39,7 +39,7 @@ The electronic horizon engine uses map-matched locations and can optionally use 
 
 - <div>
 
-      init(sdkEngine: options: transportMode: route: )
+   <span id="sdk-for-ios-explore-s-7heresdk23ElectronicHorizonEngineC03sdkD07options13transportMode5routeAcA09SDKNativeD0C_AA0bC7OptionsVAA09TransportH0OAA5RouteCSgtKcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-sdkEngine-options-transportMode-route" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-electronichorizonengine#sdk-for-ios-explore-s-7heresdk23ElectronicHorizonEngineC03sdkD07options13transportMode5routeAcA09SDKNativeD0C_AA0bC7OptionsVAA09TransportH0OAA5RouteCSgtKcfc" class="token"><code>init(sdkEngine:</code><wbr></wbr><code>options:</code><wbr></wbr><code>transportMode:</code><wbr></wbr><code>route:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -63,7 +63,7 @@ The electronic horizon engine uses map-matched locations and can optionally use 
 
   Throws
 
-  <a href="sdk-for-ios-explore-core#/s:7heresdk18InstantiationErrora">`InstantiationError`</a> <a href="sdk-for-ios-explore-core#/s:7heresdk18InstantiationErrora">`InstantiationError`</a> If the electronic horizon engine cannot be created.
+  <a href="sdk-for-ios-explore-core#sdk-for-ios-explore-s-7heresdk18InstantiationErrora">`InstantiationError`</a> <a href="sdk-for-ios-explore-core#sdk-for-ios-explore-s-7heresdk18InstantiationErrora">`InstantiationError`</a> If the electronic horizon engine cannot be created.
 
   </div>
 
@@ -78,12 +78,17 @@ The electronic horizon engine uses map-matched locations and can optionally use 
   Swift
 
   ``` highlight
-  public init ( sdkEngine : SDKNativeEngine , options : ElectronicHorizonOptions , transportMode : TransportMode , route : Route ?) throws
+  public init(sdkEngine: SDKNativeEngine, options: ElectronicHorizonOptions, transportMode: TransportMode, route: Route?) throws
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-sdknativeengine">SDKNativeEngine</a>
+  - <a href="sdk-for-ios-explore-structs-electronichorizonoptions">ElectronicHorizonOptions</a>
+  - <a href="sdk-for-ios-explore-enums-transportmode">TransportMode</a>
+  - <a href="sdk-for-ios-explore-classes-route">Route</a>
 
   </div>
 
@@ -132,7 +137,7 @@ The electronic horizon engine uses map-matched locations and can optionally use 
 
 - <div>
 
-  ` `<span id="/s:7heresdk23ElectronicHorizonEngineC5routeAA5RouteCSgvp"></span>` `<span id="//apple_ref/swift/Property/route" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-electronichorizonengine#/s:7heresdk23ElectronicHorizonEngineC5routeAA5RouteCSgvp" class="token"><code>route</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk23ElectronicHorizonEngineC5routeAA5RouteCSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-route" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-electronichorizonengine#sdk-for-ios-explore-s-7heresdk23ElectronicHorizonEngineC5routeAA5RouteCSgvp" class="token"><code>route</code></a> 
 
   </div>
 
@@ -168,6 +173,10 @@ The electronic horizon engine uses map-matched locations and can optionally use 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-route">Route</a>
+
   </div>
 
   </div>
@@ -176,7 +185,7 @@ The electronic horizon engine uses map-matched locations and can optionally use 
 
 - <div>
 
-      update(mapMatchedLocation: )
+   <span id="sdk-for-ios-explore-s-7heresdk23ElectronicHorizonEngineC6update18mapMatchedLocationyAA03MapgH0V_tF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-update-mapMatchedLocation" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-electronichorizonengine#sdk-for-ios-explore-s-7heresdk23ElectronicHorizonEngineC6update18mapMatchedLocationyAA03MapgH0V_tF" class="token"><code>update(mapMatchedLocation:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -207,12 +216,14 @@ The electronic horizon engine uses map-matched locations and can optionally use 
   Swift
 
   ``` highlight
-  public func update ( mapMatchedLocation : MapMatchedLocation )
+  public func update(mapMatchedLocation: MapMatchedLocation)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-mapmatchedlocation">MapMatchedLocation</a>
 
   </div>
 
@@ -243,7 +254,7 @@ The electronic horizon engine uses map-matched locations and can optionally use 
 
 - <div>
 
-      addElectronicHorizonDelegate(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk23ElectronicHorizonEngineC03addbC8DelegateyyAA0bcF0_pF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-addElectronicHorizonDelegate-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-electronichorizonengine#sdk-for-ios-explore-s-7heresdk23ElectronicHorizonEngineC03addbC8DelegateyyAA0bcF0_pF" class="token"><code>addElectronicHorizonDelegate(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -274,12 +285,14 @@ The electronic horizon engine uses map-matched locations and can optionally use 
   Swift
 
   ``` highlight
-  public func addElectronicHorizonDelegate ( _ electronicHorizonListener : ElectronicHorizonDelegate )
+  public func addElectronicHorizonDelegate(_ electronicHorizonListener: ElectronicHorizonDelegate)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-protocols-electronichorizondelegate">ElectronicHorizonDelegate</a>
 
   </div>
 
@@ -310,7 +323,7 @@ The electronic horizon engine uses map-matched locations and can optionally use 
 
 - <div>
 
-      removeElectronicHorizonDelegate(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk23ElectronicHorizonEngineC06removebC8DelegateyyAA0bcF0_pF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-removeElectronicHorizonDelegate-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-electronichorizonengine#sdk-for-ios-explore-s-7heresdk23ElectronicHorizonEngineC06removebC8DelegateyyAA0bcF0_pF" class="token"><code>removeElectronicHorizonDelegate(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -341,12 +354,14 @@ The electronic horizon engine uses map-matched locations and can optionally use 
   Swift
 
   ``` highlight
-  public func removeElectronicHorizonDelegate ( _ electronicHorizonListener : ElectronicHorizonDelegate )
+  public func removeElectronicHorizonDelegate(_ electronicHorizonListener: ElectronicHorizonDelegate)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-protocols-electronichorizondelegate">ElectronicHorizonDelegate</a>
 
   </div>
 

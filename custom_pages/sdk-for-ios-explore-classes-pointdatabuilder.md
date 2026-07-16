@@ -25,7 +25,7 @@ extension PointDataBuilder: Hashable
 
 </div>
 
-Builder of <a href="sdk-for-ios-explore-maps#/s:7heresdk9PointDataC">`PointData`</a> instances.
+Builder of <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk9PointDataC">`PointData`</a> instances.
 
 Note: This is a beta release of this feature, so there could be a few bugs and unexpected behavior. Related APIs may change for new releases without a deprecation process.
 
@@ -37,7 +37,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      init()
+   <span id="sdk-for-ios-explore-s-7heresdk16PointDataBuilderCACycfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-pointdatabuilder#sdk-for-ios-explore-s-7heresdk16PointDataBuilderCACycfc" class="token"><code>init()</code></a> 
 
   </div>
 
@@ -68,10 +68,8 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public init ()
+  public init()
   ```
-
-  </pre>
 
   </div>
 
@@ -83,7 +81,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      withCoordinates(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk16PointDataBuilderC15withCoordinatesyAcA03GeoF0VF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-withCoordinates-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-pointdatabuilder#sdk-for-ios-explore-s-7heresdk16PointDataBuilderC15withCoordinatesyAcA03GeoF0VF" class="token"><code>withCoordinates(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -114,12 +112,14 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func withCoordinates ( _ coordinates : GeoCoordinates ) -> PointDataBuilder
+  public func withCoordinates(_ coordinates: GeoCoordinates) -> PointDataBuilder
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geocoordinates">GeoCoordinates</a>
 
   </div>
 
@@ -158,7 +158,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      withAttributes(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk16PointDataBuilderC14withAttributesyAcA0cF0CF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-withAttributes-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-pointdatabuilder#sdk-for-ios-explore-s-7heresdk16PointDataBuilderC14withAttributesyAcA0cF0CF" class="token"><code>withAttributes(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -189,12 +189,14 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func withAttributes ( _ attributes : DataAttributes ) -> PointDataBuilder
+  public func withAttributes(_ attributes: DataAttributes) -> PointDataBuilder
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-dataattributes">DataAttributes</a>
 
   </div>
 
@@ -233,7 +235,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      build()
+   <span id="sdk-for-ios-explore-s-7heresdk16PointDataBuilderC5buildAA0bC0CyF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-build" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-pointdatabuilder#sdk-for-ios-explore-s-7heresdk16PointDataBuilderC5buildAA0bC0CyF" class="token"><code>build()</code></a> 
 
   </div>
 
@@ -251,7 +253,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
   <div class="abstract">
 
-  Builds an instance of <a href="sdk-for-ios-explore-maps#/s:7heresdk9PointDataC">`PointData`</a> and resets the builder instance.
+  Builds an instance of <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk9PointDataC">`PointData`</a> and resets the builder instance.
 
   </div>
 
@@ -264,12 +266,14 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func build () -> PointData
+  public func build() -> PointData
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk9PointDataC">PointData</a>
 
   </div>
 
@@ -277,7 +281,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
   #### Return Value
 
-  Instance of <a href="sdk-for-ios-explore-maps#/s:7heresdk9PointDataC">`PointData`</a> created with the configured parameters.
+  Instance of <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk9PointDataC">`PointData`</a> created with the configured parameters.
 
   </div>
 

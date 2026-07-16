@@ -27,7 +27,7 @@ Options to set indexing for offline search.
 
 - <div>
 
-  ` `<span id="/s:7heresdk18OfflineSearchIndexC7OptionsV7enabledSbvp"></span>` `<span id="//apple_ref/swift/Property/enabled" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-offlinesearchindex-options#/s:7heresdk18OfflineSearchIndexC7OptionsV7enabledSbvp" class="token"><code>enabled</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18OfflineSearchIndexC7OptionsV7enabledSbvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-enabled" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-offlinesearchindex-options#sdk-for-ios-explore-s-7heresdk18OfflineSearchIndexC7OptionsV7enabledSbvp" class="token"><code>enabled</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Options to set indexing for offline search.
 
 - <div>
 
-      init(enabled: )
+   <span id="sdk-for-ios-explore-s-7heresdk18OfflineSearchIndexC7OptionsV7enabledAESb_tcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-enabled" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-offlinesearchindex-options#sdk-for-ios-explore-s-7heresdk18OfflineSearchIndexC7OptionsV7enabledAESb_tcfc" class="token"><code>init(enabled:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -102,10 +102,8 @@ Options to set indexing for offline search.
   Swift
 
   ``` highlight
-  public init ( enabled : Bool = true )
+  public init(enabled: Bool = true)
   ```
-
-  </pre>
 
   </div>
 

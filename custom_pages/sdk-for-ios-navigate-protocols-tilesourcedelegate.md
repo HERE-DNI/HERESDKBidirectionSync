@@ -27,7 +27,7 @@ Delegate for <a href="sdk-for-ios-navigate-protocols-tilesource">`TileSource`</a
 
 - <div>
 
-      onDataVersionChanged(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk18TileSourceDelegateP20onDataVersionChangedyyAA0bcfG0VF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-onDataVersionChanged-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-protocols-tilesourcedelegate#sdk-for-ios-navigate-s-7heresdk18TileSourceDelegateP20onDataVersionChangedyyAA0bcfG0VF" class="token"><code>onDataVersionChanged(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -58,12 +58,14 @@ Delegate for <a href="sdk-for-ios-navigate-protocols-tilesource">`TileSource`</a
   Swift
 
   ``` highlight
-  func onDataVersionChanged ( _ dataVersion : TileSourceDataVersion )
+  func onDataVersionChanged(_ dataVersion: TileSourceDataVersion)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-tilesourcedataversion">TileSourceDataVersion</a>
 
   </div>
 

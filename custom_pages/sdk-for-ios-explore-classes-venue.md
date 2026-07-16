@@ -44,7 +44,7 @@ and
 
 - <div>
 
-  ` `<span id="/s:7heresdk5VenueC10venueModelAA0bD0Cvp"></span>` `<span id="//apple_ref/swift/Property/venueModel" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venue#/s:7heresdk5VenueC10venueModelAA0bD0Cvp" class="token"><code>venueModel</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk5VenueC10venueModelAA0bD0Cvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-venueModel" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venue#sdk-for-ios-explore-s-7heresdk5VenueC10venueModelAA0bD0Cvp" class="token"><code>venueModel</code></a> 
 
   </div>
 
@@ -80,6 +80,10 @@ and
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-venuemodel">VenueModel</a>
+
   </div>
 
   </div>
@@ -88,7 +92,7 @@ and
 
 - <div>
 
-  ` `<span id="/s:7heresdk5VenueC10venueStyleAA0bD0Cvp"></span>` `<span id="//apple_ref/swift/Property/venueStyle" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venue#/s:7heresdk5VenueC10venueStyleAA0bD0Cvp" class="token"><code>venueStyle</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk5VenueC10venueStyleAA0bD0Cvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-venueStyle" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venue#sdk-for-ios-explore-s-7heresdk5VenueC10venueStyleAA0bD0Cvp" class="token"><code>venueStyle</code></a> 
 
   </div>
 
@@ -124,6 +128,10 @@ and
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-venuestyle">VenueStyle</a>
+
   </div>
 
   </div>
@@ -132,7 +140,7 @@ and
 
 - <div>
 
-  ` `<span id="/s:7heresdk5VenueC15selectedDrawingAA0bD0Cvp"></span>` `<span id="//apple_ref/swift/Property/selectedDrawing" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venue#/s:7heresdk5VenueC15selectedDrawingAA0bD0Cvp" class="token"><code>selectedDrawing</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk5VenueC15selectedDrawingAA0bD0Cvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-selectedDrawing" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venue#sdk-for-ios-explore-s-7heresdk5VenueC15selectedDrawingAA0bD0Cvp" class="token"><code>selectedDrawing</code></a> 
 
   </div>
 
@@ -168,6 +176,10 @@ and
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-venuedrawing">VenueDrawing</a>
+
   </div>
 
   </div>
@@ -176,7 +188,7 @@ and
 
 - <div>
 
-  ` `<span id="/s:7heresdk5VenueC13selectedLevelAA0bD0Cvp"></span>` `<span id="//apple_ref/swift/Property/selectedLevel" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venue#/s:7heresdk5VenueC13selectedLevelAA0bD0Cvp" class="token"><code>selectedLevel</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk5VenueC13selectedLevelAA0bD0Cvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-selectedLevel" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venue#sdk-for-ios-explore-s-7heresdk5VenueC13selectedLevelAA0bD0Cvp" class="token"><code>selectedLevel</code></a> 
 
   </div>
 
@@ -212,6 +224,10 @@ and
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-venuelevel">VenueLevel</a>
+
   </div>
 
   </div>
@@ -220,7 +236,7 @@ and
 
 - <div>
 
-  ` `<span id="/s:7heresdk5VenueC19selectedLevelZIndexs5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/selectedLevelZIndex" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venue#/s:7heresdk5VenueC19selectedLevelZIndexs5Int32Vvp" class="token"><code>selectedLevelZIndex</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk5VenueC19selectedLevelZIndexs5Int32Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-selectedLevelZIndex" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venue#sdk-for-ios-explore-s-7heresdk5VenueC19selectedLevelZIndexs5Int32Vvp" class="token"><code>selectedLevelZIndex</code></a> 
 
   </div>
 
@@ -238,7 +254,7 @@ and
 
   <div class="abstract">
 
-  The Z index value of the <a href="sdk-for-ios-explore-classes-venuelevel">`VenueLevel`</a> selected. Z index 0 represents the ground level, negative values represent underground levels, positive values - levels above the ground. Z index can also be taken from <a href="sdk-for-ios-explore-classes-venuelevel#/s:7heresdk10VenueLevelC6zIndexs5Int32Vvp">`VenueLevel.zIndex`</a>.
+  The Z index value of the <a href="sdk-for-ios-explore-classes-venuelevel">`VenueLevel`</a> selected. Z index 0 represents the ground level, negative values represent underground levels, positive values - levels above the ground. Z index can also be taken from <a href="sdk-for-ios-explore-classes-venuelevel#sdk-for-ios-explore-s-7heresdk10VenueLevelC6zIndexs5Int32Vvp">`VenueLevel.zIndex`</a>.
 
   </div>
 
@@ -264,7 +280,7 @@ and
 
 - <div>
 
-  ` `<span id="/s:7heresdk5VenueC18selectedLevelIndexs5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/selectedLevelIndex" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venue#/s:7heresdk5VenueC18selectedLevelIndexs5Int32Vvp" class="token"><code>selectedLevelIndex</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk5VenueC18selectedLevelIndexs5Int32Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-selectedLevelIndex" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venue#sdk-for-ios-explore-s-7heresdk5VenueC18selectedLevelIndexs5Int32Vvp" class="token"><code>selectedLevelIndex</code></a> 
 
   </div>
 
@@ -308,7 +324,7 @@ and
 
 - <div>
 
-  ` `<span id="/s:7heresdk5VenueC17isTopologyVisibleSbvp"></span>` `<span id="//apple_ref/swift/Property/isTopologyVisible" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venue#/s:7heresdk5VenueC17isTopologyVisibleSbvp" class="token"><code>isTopologyVisible</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk5VenueC17isTopologyVisibleSbvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-isTopologyVisible" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venue#sdk-for-ios-explore-s-7heresdk5VenueC17isTopologyVisibleSbvp" class="token"><code>isTopologyVisible</code></a> 
 
   </div>
 
@@ -352,7 +368,7 @@ and
 
 - <div>
 
-      setCustomStyle(geometries: style: labelStyle: )
+   <span id="sdk-for-ios-explore-s-7heresdk5VenueC14setCustomStyle10geometries5style05labelE0ySayAA0B8GeometryCG_AA0biE0CSgAA0b5LabelE0CSgtF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-setCustomStyle-geometries-style-labelStyle" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venue#sdk-for-ios-explore-s-7heresdk5VenueC14setCustomStyle10geometries5style05labelE0ySayAA0B8GeometryCG_AA0biE0CSgAA0b5LabelE0CSgtF" class="token"><code>setCustomStyle(geometries:</code><wbr></wbr><code>style:</code><wbr></wbr><code>labelStyle:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -383,12 +399,16 @@ and
   Swift
 
   ``` highlight
-  public func setCustomStyle ( geometries : [ VenueGeometry ], style : VenueGeometryStyle ?, labelStyle : VenueLabelStyle ?)
+  public func setCustomStyle(geometries: [VenueGeometry], style: VenueGeometryStyle?, labelStyle: VenueLabelStyle?)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-venuegeometry">VenueGeometry</a>
+  - <a href="sdk-for-ios-explore-classes-venuegeometrystyle">VenueGeometryStyle</a>
+  - <a href="sdk-for-ios-explore-classes-venuelabelstyle">VenueLabelStyle</a>
 
   </div>
 
@@ -431,7 +451,7 @@ and
 
 - <div>
 
-      setCustomStyle(topologies: style: )
+   <span id="sdk-for-ios-explore-s-7heresdk5VenueC14setCustomStyle10topologies5styleySayAA0B8TopologyCG_AA0b8GeometryE0CSgtF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-setCustomStyle-topologies-style" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venue#sdk-for-ios-explore-s-7heresdk5VenueC14setCustomStyle10topologies5styleySayAA0B8TopologyCG_AA0b8GeometryE0CSgtF" class="token"><code>setCustomStyle(topologies:</code><wbr></wbr><code>style:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -462,12 +482,15 @@ and
   Swift
 
   ``` highlight
-  public func setCustomStyle ( topologies : [ VenueTopology ], style : VenueGeometryStyle ?)
+  public func setCustomStyle(topologies: [VenueTopology], style: VenueGeometryStyle?)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-venuetopology">VenueTopology</a>
+  - <a href="sdk-for-ios-explore-classes-venuegeometrystyle">VenueGeometryStyle</a>
 
   </div>
 
@@ -504,7 +527,7 @@ and
 
 - <div>
 
-      setCustomStyleToCrosswalk(crosswalks: style: )
+   <span id="sdk-for-ios-explore-s-7heresdk5VenueC25setCustomStyleToCrosswalk10crosswalks5styleySayAA0G0CG_AA0b8GeometryE0CSgtF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-setCustomStyleToCrosswalk-crosswalks-style" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venue#sdk-for-ios-explore-s-7heresdk5VenueC25setCustomStyleToCrosswalk10crosswalks5styleySayAA0G0CG_AA0b8GeometryE0CSgtF" class="token"><code>setCustomStyleToCrosswalk(crosswalks:</code><wbr></wbr><code>style:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -535,12 +558,15 @@ and
   Swift
 
   ``` highlight
-  public func setCustomStyleToCrosswalk ( crosswalks : [ Crosswalk ], style : VenueGeometryStyle ?)
+  public func setCustomStyleToCrosswalk(crosswalks: [Crosswalk], style: VenueGeometryStyle?)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-crosswalk">Crosswalk</a>
+  - <a href="sdk-for-ios-explore-classes-venuegeometrystyle">VenueGeometryStyle</a>
 
   </div>
 

@@ -27,7 +27,7 @@ Describes a map-matched location in the world at a given time.
 
 - <div>
 
-  ` `<span id="/s:7heresdk18MapMatchedLocationV11coordinatesAA14GeoCoordinatesVvp"></span>` `<span id="//apple_ref/swift/Property/coordinates" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-mapmatchedlocation#/s:7heresdk18MapMatchedLocationV11coordinatesAA14GeoCoordinatesVvp" class="token"><code>coordinates</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18MapMatchedLocationV11coordinatesAA14GeoCoordinatesVvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-coordinates" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-mapmatchedlocation#sdk-for-ios-navigate-s-7heresdk18MapMatchedLocationV11coordinatesAA14GeoCoordinatesVvp" class="token"><code>coordinates</code></a> 
 
   </div>
 
@@ -63,6 +63,10 @@ Describes a map-matched location in the world at a given time.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-geocoordinates">GeoCoordinates</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ Describes a map-matched location in the world at a given time.
 
 - <div>
 
-  ` `<span id="/s:7heresdk18MapMatchedLocationV16bearingInDegreesSdSgvp"></span>` `<span id="//apple_ref/swift/Property/bearingInDegrees" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-mapmatchedlocation#/s:7heresdk18MapMatchedLocationV16bearingInDegreesSdSgvp" class="token"><code>bearingInDegrees</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18MapMatchedLocationV16bearingInDegreesSdSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-bearingInDegrees" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-mapmatchedlocation#sdk-for-ios-navigate-s-7heresdk18MapMatchedLocationV16bearingInDegreesSdSgvp" class="token"><code>bearingInDegrees</code></a> 
 
   </div>
 
@@ -89,7 +93,7 @@ Describes a map-matched location in the world at a given time.
 
   <div class="abstract">
 
-  The bearing orientation points to the direction of travel, and has the same angle as the street where it is matched to. Therefore, it must not necessarily be the same as the bearing of a location source. Starts at 0 in the geographic north and rotates in a clockwise direction around the compass. It means that for going north it’s equal to 0, for northeast it’s equal to 45, for east it’s equal to 90, and so on. If it cannot be determined, the value is `nil`. Otherwise, it is guaranteed to be in the range \<a href="sdk-for-ios-navigate-structs-mapmatchedlocation#/s:7heresdk18MapMatchedLocationV26segmentOffsetInCentimeterss6UInt32Vvp">0, 360).
+  The bearing orientation points to the direction of travel, and has the same angle as the street where it is matched to. Therefore, it must not necessarily be the same as the bearing of a location source. Starts at 0 in the geographic north and rotates in a clockwise direction around the compass. It means that for going north it’s equal to 0, for northeast it’s equal to 45, for east it’s equal to 90, and so on. If it cannot be determined, the value is `nil`. Otherwise, it is guaranteed to be in the range \<a href="sdk-for-ios-navigate-structs-mapmatchedlocation#sdk-for-ios-navigate-s-7heresdk18MapMatchedLocationV26segmentOffsetInCentimeterss6UInt32Vvp">0, 360).
 
   </div>
 
@@ -115,7 +119,7 @@ Describes a map-matched location in the world at a given time.
 
 - <div>
 
-  ` `<span id="/s:7heresdk18MapMatchedLocationV16segmentReferenceAA07SegmentF0Vvp"></span>` `<span id="//apple_ref/swift/Property/segmentReference" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-mapmatchedlocation#/s:7heresdk18MapMatchedLocationV16segmentReferenceAA07SegmentF0Vvp" class="token"><code>segmentReference</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18MapMatchedLocationV16segmentReferenceAA07SegmentF0Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-segmentReference" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-mapmatchedlocation#sdk-for-ios-navigate-s-7heresdk18MapMatchedLocationV16segmentReferenceAA07SegmentF0Vvp" class="token"><code>segmentReference</code></a> 
 
   </div>
 
@@ -133,7 +137,7 @@ Describes a map-matched location in the world at a given time.
 
   <div class="abstract">
 
-  Reference to the current segment. The ratio of [`MapMatchedLocation.segmentOffsetInCentimeters`</a> to the segment length is between <a href="sdk-for-ios-navigate-structs-segmentreference#/s:7heresdk16SegmentReferenceV11offsetStartSdvp">`SegmentReference.offsetStart`</a> and <a href="sdk-for-ios-navigate-structs-segmentreference#/s:7heresdk16SegmentReferenceV9offsetEndSdvp">`SegmentReference.offsetEnd`</a>.
+  Reference to the current segment. The ratio of [`MapMatchedLocation.segmentOffsetInCentimeters`</a> to the segment length is between <a href="sdk-for-ios-navigate-structs-segmentreference#sdk-for-ios-navigate-s-7heresdk16SegmentReferenceV11offsetStartSdvp">`SegmentReference.offsetStart`</a> and <a href="sdk-for-ios-navigate-structs-segmentreference#sdk-for-ios-navigate-s-7heresdk16SegmentReferenceV9offsetEndSdvp">`SegmentReference.offsetEnd`</a>.
 
   </div>
 
@@ -151,6 +155,10 @@ Describes a map-matched location in the world at a given time.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-segmentreference">SegmentReference</a>
+
   </div>
 
   </div>
@@ -159,7 +167,7 @@ Describes a map-matched location in the world at a given time.
 
 - <div>
 
-  ` `<span id="/s:7heresdk18MapMatchedLocationV26segmentOffsetInCentimeterss6UInt32Vvp"></span>` `<span id="//apple_ref/swift/Property/segmentOffsetInCentimeters" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-mapmatchedlocation#/s:7heresdk18MapMatchedLocationV26segmentOffsetInCentimeterss6UInt32Vvp" class="token"><code>segmentOffsetInCentimeters</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18MapMatchedLocationV26segmentOffsetInCentimeterss6UInt32Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-segmentOffsetInCentimeters" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-mapmatchedlocation#sdk-for-ios-navigate-s-7heresdk18MapMatchedLocationV26segmentOffsetInCentimeterss6UInt32Vvp" class="token"><code>segmentOffsetInCentimeters</code></a> 
 
   </div>
 
@@ -203,7 +211,7 @@ Describes a map-matched location in the world at a given time.
 
 - <div>
 
-  ` `<span id="/s:7heresdk18MapMatchedLocationV10confidenceSdvp"></span>` `<span id="//apple_ref/swift/Property/confidence" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-mapmatchedlocation#/s:7heresdk18MapMatchedLocationV10confidenceSdvp" class="token"><code>confidence</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18MapMatchedLocationV10confidenceSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-confidence" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-mapmatchedlocation#sdk-for-ios-navigate-s-7heresdk18MapMatchedLocationV10confidenceSdvp" class="token"><code>confidence</code></a> 
 
   </div>
 
@@ -247,7 +255,7 @@ Describes a map-matched location in the world at a given time.
 
 - <div>
 
-  ` `<span id="/s:7heresdk18MapMatchedLocationV22isDrivingInTheWrongWaySbvp"></span>` `<span id="//apple_ref/swift/Property/isDrivingInTheWrongWay" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-mapmatchedlocation#/s:7heresdk18MapMatchedLocationV22isDrivingInTheWrongWaySbvp" class="token"><code>isDrivingInTheWrongWay</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18MapMatchedLocationV22isDrivingInTheWrongWaySbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-isDrivingInTheWrongWay" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-mapmatchedlocation#sdk-for-ios-navigate-s-7heresdk18MapMatchedLocationV22isDrivingInTheWrongWaySbvp" class="token"><code>isDrivingInTheWrongWay</code></a> 
 
   </div>
 
@@ -291,7 +299,7 @@ Describes a map-matched location in the world at a given time.
 
 - <div>
 
-  ` `<span id="/s:7heresdk18MapMatchedLocationV26horizontalAccuracyInMetersSdSgvp"></span>` `<span id="//apple_ref/swift/Property/horizontalAccuracyInMeters" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-mapmatchedlocation#/s:7heresdk18MapMatchedLocationV26horizontalAccuracyInMetersSdSgvp" class="token"><code>horizontalAccuracyInMeters</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18MapMatchedLocationV26horizontalAccuracyInMetersSdSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-horizontalAccuracyInMeters" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-mapmatchedlocation#sdk-for-ios-navigate-s-7heresdk18MapMatchedLocationV26horizontalAccuracyInMetersSdSgvp" class="token"><code>horizontalAccuracyInMeters</code></a> 
 
   </div>
 
@@ -335,7 +343,7 @@ Describes a map-matched location in the world at a given time.
 
 - <div>
 
-  ` `<span id="/s:7heresdk18MapMatchedLocationV22speedInMetersPerSecondSdSgvp"></span>` `<span id="//apple_ref/swift/Property/speedInMetersPerSecond" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-mapmatchedlocation#/s:7heresdk18MapMatchedLocationV22speedInMetersPerSecondSdSgvp" class="token"><code>speedInMetersPerSecond</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18MapMatchedLocationV22speedInMetersPerSecondSdSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-speedInMetersPerSecond" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-mapmatchedlocation#sdk-for-ios-navigate-s-7heresdk18MapMatchedLocationV22speedInMetersPerSecondSdSgvp" class="token"><code>speedInMetersPerSecond</code></a> 
 
   </div>
 
@@ -381,7 +389,7 @@ Describes a map-matched location in the world at a given time.
 
 - <div>
 
-  ` `<span id="/s:7heresdk18MapMatchedLocationV9timestamp10Foundation4DateVSgvp"></span>` `<span id="//apple_ref/swift/Property/timestamp" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-mapmatchedlocation#/s:7heresdk18MapMatchedLocationV9timestamp10Foundation4DateVSgvp" class="token"><code>timestamp</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18MapMatchedLocationV9timestamp10Foundation4DateVSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-timestamp" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-mapmatchedlocation#sdk-for-ios-navigate-s-7heresdk18MapMatchedLocationV9timestamp10Foundation4DateVSgvp" class="token"><code>timestamp</code></a> 
 
   </div>
 
@@ -427,7 +435,7 @@ Describes a map-matched location in the world at a given time.
 
 - <div>
 
-      init(coordinates: bearingInDegrees: segmentReference: segmentOffsetInCentimeters: confidence: isDrivingInTheWrongWay: horizontalAccuracyInMeters: speedInMetersPerSecond: timestamp: )
+   <span id="sdk-for-ios-navigate-s-7heresdk18MapMatchedLocationV11coordinates16bearingInDegrees16segmentReference0i6OffsetG11Centimeters10confidence09isDrivingG11TheWrongWay018horizontalAccuracyG6Meters05speedgU9PerSecond9timestampAcA14GeoCoordinatesV_SdSgAA07SegmentJ0Vs6UInt32VSdSbA2O10Foundation4DateVSgtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-coordinates-bearingInDegrees-segmentReference-segmentOffsetInCentimeters-confidence-isDrivingInTheWrongWay-horizontalAccuracyInMeters-speedInMetersPerSecond-timestamp" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-mapmatchedlocation#sdk-for-ios-navigate-s-7heresdk18MapMatchedLocationV11coordinates16bearingInDegrees16segmentReference0i6OffsetG11Centimeters10confidence09isDrivingG11TheWrongWay018horizontalAccuracyG6Meters05speedgU9PerSecond9timestampAcA14GeoCoordinatesV_SdSgAA07SegmentJ0Vs6UInt32VSdSbA2O10Foundation4DateVSgtcfc" class="token"><code>init(coordinates:</code><wbr></wbr><code>bearingInDegrees:</code><wbr></wbr><code>segmentReference:</code><wbr></wbr><code>segmentOffsetInCentimeters:</code><wbr></wbr><code>confidence:</code><wbr></wbr><code>isDrivingInTheWrongWay:</code><wbr></wbr><code>horizontalAccuracyInMeters:</code><wbr></wbr><code>speedInMetersPerSecond:</code><wbr></wbr><code>timestamp:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -450,8 +458,8 @@ Describes a map-matched location in the world at a given time.
   - Parameters
 
     - coordinates: The geographic coordinates of the map-matched location.
-    - bearingInDegrees: The bearing orientation points to the direction of travel, and has the same angle as the street where it is matched to. Therefore, it must not necessarily be the same as the bearing of a location source. Starts at 0 in the geographic north and rotates in a clockwise direction around the compass. It means that for going north it’s equal to 0, for northeast it’s equal to 45, for east it’s equal to 90, and so on. If it cannot be determined, the value is `nil`. Otherwise, it is guaranteed to be in the range \<a href="sdk-for-ios-navigate-structs-mapmatchedlocation#/s:7heresdk18MapMatchedLocationV26segmentOffsetInCentimeterss6UInt32Vvp">0, 360).
-    - segmentReference: Reference to the current segment. The ratio of [`MapMatchedLocation.segmentOffsetInCentimeters`</a> to the segment length is between <a href="sdk-for-ios-navigate-structs-segmentreference#/s:7heresdk16SegmentReferenceV11offsetStartSdvp">`SegmentReference.offsetStart`</a> and <a href="sdk-for-ios-navigate-structs-segmentreference#/s:7heresdk16SegmentReferenceV9offsetEndSdvp">`SegmentReference.offsetEnd`</a>.
+    - bearingInDegrees: The bearing orientation points to the direction of travel, and has the same angle as the street where it is matched to. Therefore, it must not necessarily be the same as the bearing of a location source. Starts at 0 in the geographic north and rotates in a clockwise direction around the compass. It means that for going north it’s equal to 0, for northeast it’s equal to 45, for east it’s equal to 90, and so on. If it cannot be determined, the value is `nil`. Otherwise, it is guaranteed to be in the range \<a href="sdk-for-ios-navigate-structs-mapmatchedlocation#sdk-for-ios-navigate-s-7heresdk18MapMatchedLocationV26segmentOffsetInCentimeterss6UInt32Vvp">0, 360).
+    - segmentReference: Reference to the current segment. The ratio of [`MapMatchedLocation.segmentOffsetInCentimeters`</a> to the segment length is between <a href="sdk-for-ios-navigate-structs-segmentreference#sdk-for-ios-navigate-s-7heresdk16SegmentReferenceV11offsetStartSdvp">`SegmentReference.offsetStart`</a> and <a href="sdk-for-ios-navigate-structs-segmentreference#sdk-for-ios-navigate-s-7heresdk16SegmentReferenceV9offsetEndSdvp">`SegmentReference.offsetEnd`</a>.
     - segmentOffsetInCentimeters: Offset from start of segment in centimeters.
     - confidence: Confidence level (between 0 and 1) of the matched location. A low confidence value means that the map-matched vehicle location is not reliable and it may not be clear which part of the road the vehicle has taken. This can happen when the accuracy or frequency of the provided location updates is poor. If the confidence level is too small then, for example, overspeed warnings may be also inaccurate.
     - isDrivingInTheWrongWay: Determines if the travel direction on a one-way street is against the allowed traffic direction. For two-way streets, this value is always `false`. This feature is supported in tracking mode and when deviating from a route. Note that the travel direction is determined based on the map-matched location.
@@ -475,12 +483,15 @@ Describes a map-matched location in the world at a given time.
   Swift
 
   ``` highlight
-  public init ( coordinates : GeoCoordinates , bearingInDegrees : Double ? = nil , segmentReference : SegmentReference = SegmentReference (), segmentOffsetInCentimeters : UInt32 = 0 , confidence : Double = 0.0 , isDrivingInTheWrongWay : Bool = false , horizontalAccuracyInMeters : Double ? = nil , speedInMetersPerSecond : Double ? = nil , timestamp : Date ? = nil )
+  public init(coordinates: GeoCoordinates, bearingInDegrees: Double? = nil, segmentReference: SegmentReference = SegmentReference(), segmentOffsetInCentimeters: UInt32 = 0, confidence: Double = 0.0, isDrivingInTheWrongWay: Bool = false, horizontalAccuracyInMeters: Double? = nil, speedInMetersPerSecond: Double? = nil, timestamp: Date? = nil)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-geocoordinates">GeoCoordinates</a>
+  - <a href="sdk-for-ios-navigate-structs-segmentreference">SegmentReference</a>
 
   </div>
 

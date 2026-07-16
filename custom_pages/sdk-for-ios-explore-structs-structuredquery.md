@@ -29,7 +29,7 @@ The options to specify a structured query. Only supported in <a href="sdk-for-io
 
 - <div>
 
-  ` `<span id="/s:7heresdk15StructuredQueryV5querySSvp"></span>` `<span id="//apple_ref/swift/Property/query" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-structuredquery#/s:7heresdk15StructuredQueryV5querySSvp" class="token"><code>query</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15StructuredQueryV5querySSvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-query" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-structuredquery#sdk-for-ios-explore-s-7heresdk15StructuredQueryV5querySSvp" class="token"><code>query</code></a> 
 
   </div>
 
@@ -73,7 +73,7 @@ The options to specify a structured query. Only supported in <a href="sdk-for-io
 
 - <div>
 
-  ` `<span id="/s:7heresdk15StructuredQueryV10areaCenterAA14GeoCoordinatesVvp"></span>` `<span id="//apple_ref/swift/Property/areaCenter" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-structuredquery#/s:7heresdk15StructuredQueryV10areaCenterAA14GeoCoordinatesVvp" class="token"><code>areaCenter</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15StructuredQueryV10areaCenterAA14GeoCoordinatesVvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-areaCenter" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-structuredquery#sdk-for-ios-explore-s-7heresdk15StructuredQueryV10areaCenterAA14GeoCoordinatesVvp" class="token"><code>areaCenter</code></a> 
 
   </div>
 
@@ -109,6 +109,10 @@ The options to specify a structured query. Only supported in <a href="sdk-for-io
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geocoordinates">GeoCoordinates</a>
+
   </div>
 
   </div>
@@ -117,7 +121,7 @@ The options to specify a structured query. Only supported in <a href="sdk-for-io
 
 - <div>
 
-  ` `<span id="/s:7heresdk15StructuredQueryV15addressElementsAC07AddressE0Vvp"></span>` `<span id="//apple_ref/swift/Property/addressElements" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-structuredquery#/s:7heresdk15StructuredQueryV15addressElementsAC07AddressE0Vvp" class="token"><code>addressElements</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15StructuredQueryV15addressElementsAC07AddressE0Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-addressElements" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-structuredquery#sdk-for-ios-explore-s-7heresdk15StructuredQueryV15addressElementsAC07AddressE0Vvp" class="token"><code>addressElements</code></a> 
 
   </div>
 
@@ -153,6 +157,10 @@ The options to specify a structured query. Only supported in <a href="sdk-for-io
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-structuredquery-addresselements">AddressElements</a>
+
   </div>
 
   </div>
@@ -161,7 +169,7 @@ The options to specify a structured query. Only supported in <a href="sdk-for-io
 
 - <div>
 
-  ` `<span id="/s:7heresdk15StructuredQueryV10resultTypeAC06ResultE0OSgvp"></span>` `<span id="//apple_ref/swift/Property/resultType" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-structuredquery#/s:7heresdk15StructuredQueryV10resultTypeAC06ResultE0OSgvp" class="token"><code>resultType</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15StructuredQueryV10resultTypeAC06ResultE0OSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-resultType" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-structuredquery#sdk-for-ios-explore-s-7heresdk15StructuredQueryV10resultTypeAC06ResultE0OSgvp" class="token"><code>resultType</code></a> 
 
   </div>
 
@@ -197,6 +205,10 @@ The options to specify a structured query. Only supported in <a href="sdk-for-io
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-structuredquery-resulttype">ResultType</a>
+
   </div>
 
   </div>
@@ -205,7 +217,7 @@ The options to specify a structured query. Only supported in <a href="sdk-for-io
 
 - <div>
 
-      init(query: areaCenter: addressElements: resultType: )
+   <span id="sdk-for-ios-explore-s-7heresdk15StructuredQueryV5query10areaCenter15addressElements10resultTypeACSS_AA14GeoCoordinatesVAC07AddressH0VAC06ResultJ0OSgtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-query-areaCenter-addressElements-resultType" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-structuredquery#sdk-for-ios-explore-s-7heresdk15StructuredQueryV5query10areaCenter15addressElements10resultTypeACSS_AA14GeoCoordinatesVAC07AddressH0VAC06ResultJ0OSgtcfc" class="token"><code>init(query:</code><wbr></wbr><code>areaCenter:</code><wbr></wbr><code>addressElements:</code><wbr></wbr><code>resultType:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -236,12 +248,16 @@ The options to specify a structured query. Only supported in <a href="sdk-for-io
   Swift
 
   ``` highlight
-  public init ( query : String , areaCenter : GeoCoordinates , addressElements : StructuredQuery . AddressElements = StructuredQuery . AddressElements (), resultType : StructuredQuery . ResultType ? = nil )
+  public init(query: String, areaCenter: GeoCoordinates, addressElements: StructuredQuery.AddressElements = StructuredQuery.AddressElements(), resultType: StructuredQuery.ResultType? = nil)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geocoordinates">GeoCoordinates</a>
+  - <a href="sdk-for-ios-explore-structs-structuredquery-addresselements">AddressElements</a>
+  - <a href="sdk-for-ios-explore-structs-structuredquery-resulttype">ResultType</a>
 
   </div>
 
@@ -251,7 +267,7 @@ The options to specify a structured query. Only supported in <a href="sdk-for-io
 
 - <div>
 
-  ` `<span id="/s:7heresdk15StructuredQueryV10ResultTypeO"></span>` `<span id="//apple_ref/swift/Enum/ResultType" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-structuredquery#/s:7heresdk15StructuredQueryV10ResultTypeO" class="token"><code>ResultType</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15StructuredQueryV10ResultTypeO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-ResultType" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-structuredquery#sdk-for-ios-explore-s-7heresdk15StructuredQueryV10ResultTypeO" class="token"><code>ResultType</code></a> 
 
   </div>
 
@@ -297,7 +313,7 @@ The options to specify a structured query. Only supported in <a href="sdk-for-io
 
 - <div>
 
-  ` `<span id="/s:7heresdk15StructuredQueryV15AddressElementsV"></span>` `<span id="//apple_ref/swift/Struct/AddressElements" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-structuredquery#/s:7heresdk15StructuredQueryV15AddressElementsV" class="token"><code>AddressElements</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15StructuredQueryV15AddressElementsV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-AddressElements" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-structuredquery#sdk-for-ios-explore-s-7heresdk15StructuredQueryV15AddressElementsV" class="token"><code>AddressElements</code></a> 
 
   </div>
 

@@ -27,7 +27,7 @@ Vehicle type for which a road sign is applicable.
 
 - <div>
 
-  ` `<span id="/s:7heresdk19RoadSignVehicleTypeO6trucksyA2CmF"></span>` `<span id="//apple_ref/swift/Element/trucks" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-roadsignvehicletype#/s:7heresdk19RoadSignVehicleTypeO6trucksyA2CmF" class="token"><code>trucks</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19RoadSignVehicleTypeO6trucksyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-trucks" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-roadsignvehicletype#sdk-for-ios-explore-s-7heresdk19RoadSignVehicleTypeO6trucksyA2CmF" class="token"><code>trucks</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Vehicle type for which a road sign is applicable.
 
 - <div>
 
-  ` `<span id="/s:7heresdk19RoadSignVehicleTypeO11heavyTrucksyA2CmF"></span>` `<span id="//apple_ref/swift/Element/heavyTrucks" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-roadsignvehicletype#/s:7heresdk19RoadSignVehicleTypeO11heavyTrucksyA2CmF" class="token"><code>heavyTrucks</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19RoadSignVehicleTypeO11heavyTrucksyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-heavyTrucks" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-roadsignvehicletype#sdk-for-ios-explore-s-7heresdk19RoadSignVehicleTypeO11heavyTrucksyA2CmF" class="token"><code>heavyTrucks</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Vehicle type for which a road sign is applicable.
 
 - <div>
 
-  ` `<span id="/s:7heresdk19RoadSignVehicleTypeO3busyA2CmF"></span>` `<span id="//apple_ref/swift/Element/bus" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-roadsignvehicletype#/s:7heresdk19RoadSignVehicleTypeO3busyA2CmF" class="token"><code>bus</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19RoadSignVehicleTypeO3busyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-bus" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-roadsignvehicletype#sdk-for-ios-explore-s-7heresdk19RoadSignVehicleTypeO3busyA2CmF" class="token"><code>bus</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Vehicle type for which a road sign is applicable.
 
 - <div>
 
-  ` `<span id="/s:7heresdk19RoadSignVehicleTypeO11autoTraileryA2CmF"></span>` `<span id="//apple_ref/swift/Element/autoTrailer" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-roadsignvehicletype#/s:7heresdk19RoadSignVehicleTypeO11autoTraileryA2CmF" class="token"><code>autoTrailer</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19RoadSignVehicleTypeO11autoTraileryA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-autoTrailer" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-roadsignvehicletype#sdk-for-ios-explore-s-7heresdk19RoadSignVehicleTypeO11autoTraileryA2CmF" class="token"><code>autoTrailer</code></a> 
 
   </div>
 
@@ -203,7 +203,7 @@ Vehicle type for which a road sign is applicable.
 
 - <div>
 
-  ` `<span id="/s:7heresdk19RoadSignVehicleTypeO9motorhomeyA2CmF"></span>` `<span id="//apple_ref/swift/Element/motorhome" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-roadsignvehicletype#/s:7heresdk19RoadSignVehicleTypeO9motorhomeyA2CmF" class="token"><code>motorhome</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19RoadSignVehicleTypeO9motorhomeyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-motorhome" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-roadsignvehicletype#sdk-for-ios-explore-s-7heresdk19RoadSignVehicleTypeO9motorhomeyA2CmF" class="token"><code>motorhome</code></a> 
 
   </div>
 
@@ -247,7 +247,7 @@ Vehicle type for which a road sign is applicable.
 
 - <div>
 
-  ` `<span id="/s:7heresdk19RoadSignVehicleTypeO10motorcycleyA2CmF"></span>` `<span id="//apple_ref/swift/Element/motorcycle" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-roadsignvehicletype#/s:7heresdk19RoadSignVehicleTypeO10motorcycleyA2CmF" class="token"><code>motorcycle</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19RoadSignVehicleTypeO10motorcycleyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-motorcycle" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-roadsignvehicletype#sdk-for-ios-explore-s-7heresdk19RoadSignVehicleTypeO10motorcycleyA2CmF" class="token"><code>motorcycle</code></a> 
 
   </div>
 

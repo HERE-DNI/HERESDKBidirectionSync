@@ -29,7 +29,7 @@ Specifies types of transportation for which access/restriction rules apply.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13TransportTypeO11automobilesyA2CmF"></span>` `<span id="//apple_ref/swift/Element/automobiles" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-transporttype#/s:7heresdk13TransportTypeO11automobilesyA2CmF" class="token"><code>automobiles</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13TransportTypeO11automobilesyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-automobiles" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-transporttype#sdk-for-ios-navigate-s-7heresdk13TransportTypeO11automobilesyA2CmF" class="token"><code>automobiles</code></a> 
 
   </div>
 
@@ -73,7 +73,7 @@ Specifies types of transportation for which access/restriction rules apply.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13TransportTypeO5busesyA2CmF"></span>` `<span id="//apple_ref/swift/Element/buses" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-transporttype#/s:7heresdk13TransportTypeO5busesyA2CmF" class="token"><code>buses</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13TransportTypeO5busesyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-buses" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-transporttype#sdk-for-ios-navigate-s-7heresdk13TransportTypeO5busesyA2CmF" class="token"><code>buses</code></a> 
 
   </div>
 
@@ -117,7 +117,7 @@ Specifies types of transportation for which access/restriction rules apply.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13TransportTypeO5taxisyA2CmF"></span>` `<span id="//apple_ref/swift/Element/taxis" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-transporttype#/s:7heresdk13TransportTypeO5taxisyA2CmF" class="token"><code>taxis</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13TransportTypeO5taxisyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-taxis" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-transporttype#sdk-for-ios-navigate-s-7heresdk13TransportTypeO5taxisyA2CmF" class="token"><code>taxis</code></a> 
 
   </div>
 
@@ -161,7 +161,7 @@ Specifies types of transportation for which access/restriction rules apply.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13TransportTypeO8carpoolsyA2CmF"></span>` `<span id="//apple_ref/swift/Element/carpools" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-transporttype#/s:7heresdk13TransportTypeO8carpoolsyA2CmF" class="token"><code>carpools</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13TransportTypeO8carpoolsyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-carpools" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-transporttype#sdk-for-ios-navigate-s-7heresdk13TransportTypeO8carpoolsyA2CmF" class="token"><code>carpools</code></a> 
 
   </div>
 
@@ -205,7 +205,7 @@ Specifies types of transportation for which access/restriction rules apply.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13TransportTypeO11pedestriansyA2CmF"></span>` `<span id="//apple_ref/swift/Element/pedestrians" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-transporttype#/s:7heresdk13TransportTypeO11pedestriansyA2CmF" class="token"><code>pedestrians</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13TransportTypeO11pedestriansyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-pedestrians" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-transporttype#sdk-for-ios-navigate-s-7heresdk13TransportTypeO11pedestriansyA2CmF" class="token"><code>pedestrians</code></a> 
 
   </div>
 
@@ -249,7 +249,7 @@ Specifies types of transportation for which access/restriction rules apply.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13TransportTypeO6trucksyA2CmF"></span>` `<span id="//apple_ref/swift/Element/trucks" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-transporttype#/s:7heresdk13TransportTypeO6trucksyA2CmF" class="token"><code>trucks</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13TransportTypeO6trucksyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-trucks" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-transporttype#sdk-for-ios-navigate-s-7heresdk13TransportTypeO6trucksyA2CmF" class="token"><code>trucks</code></a> 
 
   </div>
 
@@ -293,7 +293,7 @@ Specifies types of transportation for which access/restriction rules apply.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13TransportTypeO14throughTrafficyA2CmF"></span>` `<span id="//apple_ref/swift/Element/throughTraffic" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-transporttype#/s:7heresdk13TransportTypeO14throughTrafficyA2CmF" class="token"><code>throughTraffic</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13TransportTypeO14throughTrafficyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-throughTraffic" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-transporttype#sdk-for-ios-navigate-s-7heresdk13TransportTypeO14throughTrafficyA2CmF" class="token"><code>throughTraffic</code></a> 
 
   </div>
 
@@ -337,7 +337,7 @@ Specifies types of transportation for which access/restriction rules apply.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13TransportTypeO10deliveriesyA2CmF"></span>` `<span id="//apple_ref/swift/Element/deliveries" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-transporttype#/s:7heresdk13TransportTypeO10deliveriesyA2CmF" class="token"><code>deliveries</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13TransportTypeO10deliveriesyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-deliveries" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-transporttype#sdk-for-ios-navigate-s-7heresdk13TransportTypeO10deliveriesyA2CmF" class="token"><code>deliveries</code></a> 
 
   </div>
 
@@ -381,7 +381,7 @@ Specifies types of transportation for which access/restriction rules apply.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13TransportTypeO17emergencyVehiclesyA2CmF"></span>` `<span id="//apple_ref/swift/Element/emergencyVehicles" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-transporttype#/s:7heresdk13TransportTypeO17emergencyVehiclesyA2CmF" class="token"><code>emergencyVehicles</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13TransportTypeO17emergencyVehiclesyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-emergencyVehicles" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-transporttype#sdk-for-ios-navigate-s-7heresdk13TransportTypeO17emergencyVehiclesyA2CmF" class="token"><code>emergencyVehicles</code></a> 
 
   </div>
 
@@ -425,7 +425,7 @@ Specifies types of transportation for which access/restriction rules apply.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13TransportTypeO11motorcyclesyA2CmF"></span>` `<span id="//apple_ref/swift/Element/motorcycles" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-transporttype#/s:7heresdk13TransportTypeO11motorcyclesyA2CmF" class="token"><code>motorcycles</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13TransportTypeO11motorcyclesyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-motorcycles" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-transporttype#sdk-for-ios-navigate-s-7heresdk13TransportTypeO11motorcyclesyA2CmF" class="token"><code>motorcycles</code></a> 
 
   </div>
 

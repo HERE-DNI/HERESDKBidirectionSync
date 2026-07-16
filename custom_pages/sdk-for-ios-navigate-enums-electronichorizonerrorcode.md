@@ -17,12 +17,7 @@ public enum ElectronicHorizonErrorCode : UInt32, CaseIterable, Codable
 
 </div>
 
-Represents error codes that describe the result of the
-
-    ElectronicHorizonEngine.update(...)
-
-method.
-</p>
+Represents error codes that describe the result of the <a href="sdk-for-ios-navigate-classes-electronichorizonengine#sdk-for-ios-navigate-s-7heresdk23ElectronicHorizonEngineC6update18mapMatchedLocationyAA03MapgH0V_tF">`ElectronicHorizonEngine.update(...)`</a> method.
 
 **Note:** This is a beta release of this feature, so there could be a few bugs and unexpected behaviors. Related APIs may change for new releases without a deprecation process.
 
@@ -36,7 +31,7 @@ Offline availability: This property is available online and offline.
 
 - <div>
 
-  ` `<span id="/s:7heresdk26ElectronicHorizonErrorCodeO18engineNotAvailableyA2CmF"></span>` `<span id="//apple_ref/swift/Element/engineNotAvailable" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-electronichorizonerrorcode#/s:7heresdk26ElectronicHorizonErrorCodeO18engineNotAvailableyA2CmF" class="token"><code>engineNotAvailable</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk26ElectronicHorizonErrorCodeO18engineNotAvailableyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-engineNotAvailable" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-electronichorizonerrorcode#sdk-for-ios-navigate-s-7heresdk26ElectronicHorizonErrorCodeO18engineNotAvailableyA2CmF" class="token"><code>engineNotAvailable</code></a> 
 
   </div>
 
@@ -80,7 +75,7 @@ Offline availability: This property is available online and offline.
 
 - <div>
 
-  ` `<span id="/s:7heresdk26ElectronicHorizonErrorCodeO16positionNotFoundyA2CmF"></span>` `<span id="//apple_ref/swift/Element/positionNotFound" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-electronichorizonerrorcode#/s:7heresdk26ElectronicHorizonErrorCodeO16positionNotFoundyA2CmF" class="token"><code>positionNotFound</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk26ElectronicHorizonErrorCodeO16positionNotFoundyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-positionNotFound" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-electronichorizonerrorcode#sdk-for-ios-navigate-s-7heresdk26ElectronicHorizonErrorCodeO16positionNotFoundyA2CmF" class="token"><code>positionNotFound</code></a> 
 
   </div>
 
@@ -124,7 +119,7 @@ Offline availability: This property is available online and offline.
 
 - <div>
 
-  ` `<span id="/s:7heresdk26ElectronicHorizonErrorCodeO15positionOffRoadyA2CmF"></span>` `<span id="//apple_ref/swift/Element/positionOffRoad" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-electronichorizonerrorcode#/s:7heresdk26ElectronicHorizonErrorCodeO15positionOffRoadyA2CmF" class="token"><code>positionOffRoad</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk26ElectronicHorizonErrorCodeO15positionOffRoadyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-positionOffRoad" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-electronichorizonerrorcode#sdk-for-ios-navigate-s-7heresdk26ElectronicHorizonErrorCodeO15positionOffRoadyA2CmF" class="token"><code>positionOffRoad</code></a> 
 
   </div>
 
@@ -168,7 +163,7 @@ Offline availability: This property is available online and offline.
 
 - <div>
 
-  ` `<span id="/s:7heresdk26ElectronicHorizonErrorCodeO20pathTreeInconsistentyA2CmF"></span>` `<span id="//apple_ref/swift/Element/pathTreeInconsistent" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-electronichorizonerrorcode#/s:7heresdk26ElectronicHorizonErrorCodeO20pathTreeInconsistentyA2CmF" class="token"><code>pathTreeInconsistent</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk26ElectronicHorizonErrorCodeO20pathTreeInconsistentyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-pathTreeInconsistent" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-electronichorizonerrorcode#sdk-for-ios-navigate-s-7heresdk26ElectronicHorizonErrorCodeO20pathTreeInconsistentyA2CmF" class="token"><code>pathTreeInconsistent</code></a> 
 
   </div>
 

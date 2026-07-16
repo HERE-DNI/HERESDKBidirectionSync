@@ -29,7 +29,7 @@ Provides a position on an electronic horizon path with a reference to the curren
 
 - <div>
 
-  ` `<span id="/s:7heresdk25ElectronicHorizonPositionV9pathIndexs5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/pathIndex" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-electronichorizonposition#/s:7heresdk25ElectronicHorizonPositionV9pathIndexs5Int32Vvp" class="token"><code>pathIndex</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk25ElectronicHorizonPositionV9pathIndexs5Int32Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-pathIndex" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-electronichorizonposition#sdk-for-ios-navigate-s-7heresdk25ElectronicHorizonPositionV9pathIndexs5Int32Vvp" class="token"><code>pathIndex</code></a> 
 
   </div>
 
@@ -47,7 +47,7 @@ Provides a position on an electronic horizon path with a reference to the curren
 
   <div class="abstract">
 
-  The index of the current path in the list of <a href="sdk-for-ios-navigate-structs-electronichorizon#/s:7heresdk17ElectronicHorizonV5pathsSayAA0bC4PathVGvp">`ElectronicHorizon.paths`</a>.
+  The index of the current path in the list of <a href="sdk-for-ios-navigate-structs-electronichorizon#sdk-for-ios-navigate-s-7heresdk17ElectronicHorizonV5pathsSayAA0bC4PathVGvp">`ElectronicHorizon.paths`</a>.
 
   </div>
 
@@ -73,7 +73,7 @@ Provides a position on an electronic horizon path with a reference to the curren
 
 - <div>
 
-  ` `<span id="/s:7heresdk25ElectronicHorizonPositionV16pathSegmentIndexs5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/pathSegmentIndex" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-electronichorizonposition#/s:7heresdk25ElectronicHorizonPositionV16pathSegmentIndexs5Int32Vvp" class="token"><code>pathSegmentIndex</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk25ElectronicHorizonPositionV16pathSegmentIndexs5Int32Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-pathSegmentIndex" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-electronichorizonposition#sdk-for-ios-navigate-s-7heresdk25ElectronicHorizonPositionV16pathSegmentIndexs5Int32Vvp" class="token"><code>pathSegmentIndex</code></a> 
 
   </div>
 
@@ -91,7 +91,7 @@ Provides a position on an electronic horizon path with a reference to the curren
 
   <div class="abstract">
 
-  The index of the segment inside the <a href="sdk-for-ios-navigate-structs-electronichorizonpath#/s:7heresdk21ElectronicHorizonPathV8segmentsSayAA0bC7SegmentVGvp">`ElectronicHorizonPath.segments`</a>.
+  The index of the segment inside the <a href="sdk-for-ios-navigate-structs-electronichorizonpath#sdk-for-ios-navigate-s-7heresdk21ElectronicHorizonPathV8segmentsSayAA0bC7SegmentVGvp">`ElectronicHorizonPath.segments`</a>.
 
   </div>
 
@@ -117,7 +117,7 @@ Provides a position on an electronic horizon path with a reference to the curren
 
 - <div>
 
-  ` `<span id="/s:7heresdk25ElectronicHorizonPositionV25pathSegmentOffsetInMetersSdvp"></span>` `<span id="//apple_ref/swift/Property/pathSegmentOffsetInMeters" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-electronichorizonposition#/s:7heresdk25ElectronicHorizonPositionV25pathSegmentOffsetInMetersSdvp" class="token"><code>pathSegmentOffsetInMeters</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk25ElectronicHorizonPositionV25pathSegmentOffsetInMetersSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-pathSegmentOffsetInMeters" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-electronichorizonposition#sdk-for-ios-navigate-s-7heresdk25ElectronicHorizonPositionV25pathSegmentOffsetInMetersSdvp" class="token"><code>pathSegmentOffsetInMeters</code></a> 
 
   </div>
 
@@ -161,7 +161,7 @@ Provides a position on an electronic horizon path with a reference to the curren
 
 - <div>
 
-      init(pathIndex: pathSegmentIndex: pathSegmentOffsetInMeters: )
+   <span id="sdk-for-ios-navigate-s-7heresdk25ElectronicHorizonPositionV9pathIndex0e7SegmentF00eG14OffsetInMetersACs5Int32V_AHSdtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-pathIndex-pathSegmentIndex-pathSegmentOffsetInMeters" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-electronichorizonposition#sdk-for-ios-navigate-s-7heresdk25ElectronicHorizonPositionV9pathIndex0e7SegmentF00eG14OffsetInMetersACs5Int32V_AHSdtcfc" class="token"><code>init(pathIndex:</code><wbr></wbr><code>pathSegmentIndex:</code><wbr></wbr><code>pathSegmentOffsetInMeters:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -194,10 +194,8 @@ Provides a position on an electronic horizon path with a reference to the curren
   Swift
 
   ``` highlight
-  public init ( pathIndex : Int32 , pathSegmentIndex : Int32 , pathSegmentOffsetInMeters : Double )
+  public init(pathIndex: Int32, pathSegmentIndex: Int32, pathSegmentOffsetInMeters: Double)
   ```
-
-  </pre>
 
   </div>
 

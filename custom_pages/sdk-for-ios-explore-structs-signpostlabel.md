@@ -27,7 +27,7 @@ Details of a signpost representing a particular direction or destination.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13SignpostLabelV13localizedTextAA09LocalizedE0VSgvp"></span>` `<span id="//apple_ref/swift/Property/localizedText" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-signpostlabel#/s:7heresdk13SignpostLabelV13localizedTextAA09LocalizedE0VSgvp" class="token"><code>localizedText</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13SignpostLabelV13localizedTextAA09LocalizedE0VSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-localizedText" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-signpostlabel#sdk-for-ios-explore-s-7heresdk13SignpostLabelV13localizedTextAA09LocalizedE0VSgvp" class="token"><code>localizedText</code></a> 
 
   </div>
 
@@ -63,6 +63,10 @@ Details of a signpost representing a particular direction or destination.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-localizedtext">LocalizedText</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ Details of a signpost representing a particular direction or destination.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13SignpostLabelV19localizedRoadNumberAA09LocalizedeF0VSgvp"></span>` `<span id="//apple_ref/swift/Property/localizedRoadNumber" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-signpostlabel#/s:7heresdk13SignpostLabelV19localizedRoadNumberAA09LocalizedeF0VSgvp" class="token"><code>localizedRoadNumber</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13SignpostLabelV19localizedRoadNumberAA09LocalizedeF0VSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-localizedRoadNumber" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-signpostlabel#sdk-for-ios-explore-s-7heresdk13SignpostLabelV19localizedRoadNumberAA09LocalizedeF0VSgvp" class="token"><code>localizedRoadNumber</code></a> 
 
   </div>
 
@@ -107,6 +111,10 @@ Details of a signpost representing a particular direction or destination.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-localizedroadnumber">LocalizedRoadNumber</a>
+
   </div>
 
   </div>
@@ -115,7 +123,7 @@ Details of a signpost representing a particular direction or destination.
 
 - <div>
 
-      init(localizedText: localizedRoadNumber: )
+   <span id="sdk-for-ios-explore-s-7heresdk13SignpostLabelV13localizedText0D10RoadNumberAcA09LocalizedE0VSg_AA0hfG0VSgtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-localizedText-localizedRoadNumber" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-signpostlabel#sdk-for-ios-explore-s-7heresdk13SignpostLabelV13localizedText0D10RoadNumberAcA09LocalizedE0VSg_AA0hfG0VSgtcfc" class="token"><code>init(localizedText:</code><wbr></wbr><code>localizedRoadNumber:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -146,12 +154,15 @@ Details of a signpost representing a particular direction or destination.
   Swift
 
   ``` highlight
-  public init ( localizedText : LocalizedText ? = nil , localizedRoadNumber : LocalizedRoadNumber ? = nil )
+  public init(localizedText: LocalizedText? = nil, localizedRoadNumber: LocalizedRoadNumber? = nil)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-localizedtext">LocalizedText</a>
+  - <a href="sdk-for-ios-explore-structs-localizedroadnumber">LocalizedRoadNumber</a>
 
   </div>
 

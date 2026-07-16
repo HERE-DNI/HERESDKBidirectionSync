@@ -27,7 +27,7 @@ The protocol for delegates for lifecycle events in <a href="sdk-for-ios-navigate
 
 - <div>
 
-      onInitializationCompleted(result: )
+   <span id="sdk-for-ios-navigate-s-7heresdk20VenueServiceDelegateP25onInitializationCompleted6resultyAA0bC10InitStatusO_tF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-onInitializationCompleted-result" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-protocols-venueservicedelegate#sdk-for-ios-navigate-s-7heresdk20VenueServiceDelegateP25onInitializationCompleted6resultyAA0bC10InitStatusO_tF" class="token"><code>onInitializationCompleted(result:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -58,12 +58,14 @@ The protocol for delegates for lifecycle events in <a href="sdk-for-ios-navigate
   Swift
 
   ``` highlight
-  func onInitializationCompleted ( result : VenueServiceInitStatus )
+  func onInitializationCompleted(result: VenueServiceInitStatus)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-venueserviceinitstatus">VenueServiceInitStatus</a>
 
   </div>
 
@@ -94,7 +96,7 @@ The protocol for delegates for lifecycle events in <a href="sdk-for-ios-navigate
 
 - <div>
 
-      onVenueServiceStopped()
+   <span id="sdk-for-ios-navigate-s-7heresdk20VenueServiceDelegateP02onbC7StoppedyyF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-onVenueServiceStopped" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-protocols-venueservicedelegate#sdk-for-ios-navigate-s-7heresdk20VenueServiceDelegateP02onbC7StoppedyyF" class="token"><code>onVenueServiceStopped()</code></a> 
 
   </div>
 
@@ -125,10 +127,8 @@ The protocol for delegates for lifecycle events in <a href="sdk-for-ios-navigate
   Swift
 
   ``` highlight
-  func onVenueServiceStopped ()
+  func onVenueServiceStopped()
   ```
-
-  </pre>
 
   </div>
 

@@ -25,7 +25,7 @@ extension TileUrlProviderFactory: Hashable
 
 </div>
 
-Factory for generating a <a href="sdk-for-ios-explore-maps#/s:7heresdk21TileUrlRequestHandlera">`TileUrlRequestHandler`</a> utilized in creating a tile URL.
+Factory for generating a <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk21TileUrlRequestHandlera">`TileUrlRequestHandler`</a> utilized in creating a tile URL.
 
 </div>
 
@@ -35,7 +35,7 @@ Factory for generating a <a href="sdk-for-ios-explore-maps#/s:7heresdk21TileUrlR
 
 - <div>
 
-      fromXyzUrlTemplate(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk22TileUrlProviderFactoryC07fromXyzC8TemplateySSs5Int32V_A2FtcSgSSFZ"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-fromXyzUrlTemplate-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-tileurlproviderfactory#sdk-for-ios-explore-s-7heresdk22TileUrlProviderFactoryC07fromXyzC8TemplateySSs5Int32V_A2FtcSgSSFZ" class="token"><code>fromXyzUrlTemplate(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -53,7 +53,7 @@ Factory for generating a <a href="sdk-for-ios-explore-maps#/s:7heresdk21TileUrlR
 
   <div class="abstract">
 
-  Creates <a href="sdk-for-ios-explore-maps#/s:7heresdk21TileUrlRequestHandlera">`TileUrlRequestHandler`</a> for the given URL template. A url template should look like this ‘<https://TestRasterTileService.com/%7Bz%7D/%7Bx%7D/%7By%7D/>’ here the z parameter is the storage level, x and y define the location of the tile. The valid range for X and Y is from 0 to 2^level − 1.
+  Creates <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk21TileUrlRequestHandlera">`TileUrlRequestHandler`</a> for the given URL template. A url template should look like this ‘<https://TestRasterTileService.com/%7Bz%7D/%7Bx%7D/%7By%7D/>’ here the z parameter is the storage level, x and y define the location of the tile. The valid range for X and Y is from 0 to 2^level − 1.
 
   </div>
 
@@ -66,12 +66,14 @@ Factory for generating a <a href="sdk-for-ios-explore-maps#/s:7heresdk21TileUrlR
   Swift
 
   ``` highlight
-  public static func fromXyzUrlTemplate ( _ urlTemplate : String ) -> TileUrlRequestHandler ?
+  public static func fromXyzUrlTemplate(_ urlTemplate: String) -> TileUrlRequestHandler?
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk21TileUrlRequestHandlera">TileUrlRequestHandler</a>
 
   </div>
 

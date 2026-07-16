@@ -27,7 +27,7 @@ The options to specify restrictions for indoor route calculations.
 
 - <div>
 
-  ` `<span id="/s:7heresdk22IndoorAvoidanceOptionsV14indoorFeaturesSayAA0b11LevelChangeF0OGvp"></span>` `<span id="//apple_ref/swift/Property/indoorFeatures" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-indooravoidanceoptions#/s:7heresdk22IndoorAvoidanceOptionsV14indoorFeaturesSayAA0b11LevelChangeF0OGvp" class="token"><code>indoorFeatures</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk22IndoorAvoidanceOptionsV14indoorFeaturesSayAA0b11LevelChangeF0OGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-indoorFeatures" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-indooravoidanceoptions#sdk-for-ios-navigate-s-7heresdk22IndoorAvoidanceOptionsV14indoorFeaturesSayAA0b11LevelChangeF0OGvp" class="token"><code>indoorFeatures</code></a> 
 
   </div>
 
@@ -63,6 +63,10 @@ The options to specify restrictions for indoor route calculations.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-indoorlevelchangefeatures">IndoorLevelChangeFeatures</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ The options to specify restrictions for indoor route calculations.
 
 - <div>
 
-      init(indoorFeatures: )
+   <span id="sdk-for-ios-navigate-s-7heresdk22IndoorAvoidanceOptionsV14indoorFeaturesACSayAA0b11LevelChangeF0OG_tcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-indoorFeatures" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-indooravoidanceoptions#sdk-for-ios-navigate-s-7heresdk22IndoorAvoidanceOptionsV14indoorFeaturesACSayAA0b11LevelChangeF0OG_tcfc" class="token"><code>init(indoorFeatures:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -102,12 +106,14 @@ The options to specify restrictions for indoor route calculations.
   Swift
 
   ``` highlight
-  public init ( indoorFeatures : [ IndoorLevelChangeFeatures ] = [])
+  public init(indoorFeatures: [IndoorLevelChangeFeatures] = [])
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-indoorlevelchangefeatures">IndoorLevelChangeFeatures</a>
 
   </div>
 

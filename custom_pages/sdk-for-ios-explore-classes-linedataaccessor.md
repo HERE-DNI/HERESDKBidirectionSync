@@ -37,7 +37,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      getGeometry()
+   <span id="sdk-for-ios-explore-s-7heresdk16LineDataAccessorC11getGeometryAA11GeoPolylineVyF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-getGeometry" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-linedataaccessor#sdk-for-ios-explore-s-7heresdk16LineDataAccessorC11getGeometryAA11GeoPolylineVyF" class="token"><code>getGeometry()</code></a> 
 
   </div>
 
@@ -68,12 +68,14 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func getGeometry () -> GeoPolyline
+  public func getGeometry() -> GeoPolyline
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geopolyline">GeoPolyline</a>
 
   </div>
 
@@ -91,7 +93,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      getAttributes()
+   <span id="sdk-for-ios-explore-s-7heresdk16LineDataAccessorC13getAttributesAA0cfD0CyF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-getAttributes" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-linedataaccessor#sdk-for-ios-explore-s-7heresdk16LineDataAccessorC13getAttributesAA0cfD0CyF" class="token"><code>getAttributes()</code></a> 
 
   </div>
 
@@ -122,12 +124,14 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func getAttributes () -> DataAttributesAccessor
+  public func getAttributes() -> DataAttributesAccessor
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-dataattributesaccessor">DataAttributesAccessor</a>
 
   </div>
 
@@ -145,7 +149,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      setGeometry(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk16LineDataAccessorC11setGeometryyyAA11GeoPolylineVF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-setGeometry-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-linedataaccessor#sdk-for-ios-explore-s-7heresdk16LineDataAccessorC11setGeometryyyAA11GeoPolylineVF" class="token"><code>setGeometry(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -176,12 +180,14 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func setGeometry ( _ geometry : GeoPolyline )
+  public func setGeometry(_ geometry: GeoPolyline)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geopolyline">GeoPolyline</a>
 
   </div>
 
@@ -212,7 +218,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      setAttributes(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk16LineDataAccessorC13setAttributesyyAA0cF0CF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-setAttributes-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-linedataaccessor#sdk-for-ios-explore-s-7heresdk16LineDataAccessorC13setAttributesyyAA0cF0CF" class="token"><code>setAttributes(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -243,12 +249,14 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  public func setAttributes ( _ attributes : DataAttributes )
+  public func setAttributes(_ attributes: DataAttributes)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-dataattributes">DataAttributes</a>
 
   </div>
 

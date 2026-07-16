@@ -27,7 +27,7 @@ Indicates the type of the maneuver notification.
 
 - <div>
 
-  ` `<span id="/s:7heresdk24ManeuverNotificationTypeO5rangeyA2CmF"></span>` `<span id="//apple_ref/swift/Element/range" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-maneuvernotificationtype#/s:7heresdk24ManeuverNotificationTypeO5rangeyA2CmF" class="token"><code>range</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk24ManeuverNotificationTypeO5rangeyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-range" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-maneuvernotificationtype#sdk-for-ios-explore-s-7heresdk24ManeuverNotificationTypeO5rangeyA2CmF" class="token"><code>range</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Indicates the type of the maneuver notification.
 
 - <div>
 
-  ` `<span id="/s:7heresdk24ManeuverNotificationTypeO8reminderyA2CmF"></span>` `<span id="//apple_ref/swift/Element/reminder" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-maneuvernotificationtype#/s:7heresdk24ManeuverNotificationTypeO8reminderyA2CmF" class="token"><code>reminder</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk24ManeuverNotificationTypeO8reminderyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-reminder" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-maneuvernotificationtype#sdk-for-ios-explore-s-7heresdk24ManeuverNotificationTypeO8reminderyA2CmF" class="token"><code>reminder</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Indicates the type of the maneuver notification.
 
 - <div>
 
-  ` `<span id="/s:7heresdk24ManeuverNotificationTypeO8distanceyA2CmF"></span>` `<span id="//apple_ref/swift/Element/distance" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-maneuvernotificationtype#/s:7heresdk24ManeuverNotificationTypeO8distanceyA2CmF" class="token"><code>distance</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk24ManeuverNotificationTypeO8distanceyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-distance" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-maneuvernotificationtype#sdk-for-ios-explore-s-7heresdk24ManeuverNotificationTypeO8distanceyA2CmF" class="token"><code>distance</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Indicates the type of the maneuver notification.
 
 - <div>
 
-  ` `<span id="/s:7heresdk24ManeuverNotificationTypeO6actionyA2CmF"></span>` `<span id="//apple_ref/swift/Element/action" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-maneuvernotificationtype#/s:7heresdk24ManeuverNotificationTypeO6actionyA2CmF" class="token"><code>action</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk24ManeuverNotificationTypeO6actionyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-action" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-maneuvernotificationtype#sdk-for-ios-explore-s-7heresdk24ManeuverNotificationTypeO6actionyA2CmF" class="token"><code>action</code></a> 
 
   </div>
 

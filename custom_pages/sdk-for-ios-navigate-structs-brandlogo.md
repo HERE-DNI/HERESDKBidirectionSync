@@ -27,7 +27,7 @@ Represents image link to the company’s logo. **Note:** This is a beta release 
 
 - <div>
 
-  ` `<span id="/s:7heresdk9BrandLogoV11fullsizeURLSSvp"></span>` `<span id="//apple_ref/swift/Property/fullsizeURL" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-brandlogo#/s:7heresdk9BrandLogoV11fullsizeURLSSvp" class="token"><code>fullsizeURL</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9BrandLogoV11fullsizeURLSSvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-fullsizeURL" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-brandlogo#sdk-for-ios-navigate-s-7heresdk9BrandLogoV11fullsizeURLSSvp" class="token"><code>fullsizeURL</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Represents image link to the company’s logo. **Note:** This is a beta release 
 
 - <div>
 
-  ` `<span id="/s:7heresdk9BrandLogoV12thumbnailURLSSSgvp"></span>` `<span id="//apple_ref/swift/Property/thumbnailURL" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-brandlogo#/s:7heresdk9BrandLogoV12thumbnailURLSSSgvp" class="token"><code>thumbnailURL</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9BrandLogoV12thumbnailURLSSSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-thumbnailURL" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-brandlogo#sdk-for-ios-navigate-s-7heresdk9BrandLogoV12thumbnailURLSSSgvp" class="token"><code>thumbnailURL</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Represents image link to the company’s logo. **Note:** This is a beta release 
 
 - <div>
 
-      init(fullsizeURL: thumbnailURL: )
+   <span id="sdk-for-ios-navigate-s-7heresdk9BrandLogoV11fullsizeURL09thumbnailE0ACSS_SSSgtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-fullsizeURL-thumbnailURL" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-brandlogo#sdk-for-ios-navigate-s-7heresdk9BrandLogoV11fullsizeURL09thumbnailE0ACSS_SSSgtcfc" class="token"><code>init(fullsizeURL:</code><wbr></wbr><code>thumbnailURL:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -146,10 +146,8 @@ Represents image link to the company’s logo. **Note:** This is a beta release 
   Swift
 
   ``` highlight
-  public init ( fullsizeURL : String = "" , thumbnailURL : String ? = nil )
+  public init(fullsizeURL: String = "", thumbnailURL: String? = nil)
   ```
-
-  </pre>
 
   </div>
 

@@ -27,7 +27,7 @@ extension LocationIndicator: Hashable
 
 Graphical object to represent the location of the user on the map.
 
-It is either a green dot for pedestrian style or a triangular arrow for vehicle navigation style. This style can be changed by <a href="sdk-for-ios-explore-classes-locationindicator#/s:7heresdk17LocationIndicatorC08locationC5StyleAC0cE0Ovp">`LocationIndicator.locationIndicatorStyle`</a>
+It is either a green dot for pedestrian style or a triangular arrow for vehicle navigation style. This style can be changed by <a href="sdk-for-ios-explore-classes-locationindicator#sdk-for-ios-explore-s-7heresdk17LocationIndicatorC08locationC5StyleAC0cE0Ovp">`LocationIndicator.locationIndicatorStyle`</a>
 
 The location is made available to an instance of this class by calling
 
@@ -40,16 +40,7 @@ or
 .
 </p>
 
-Use
-
-    LocationIndicator.enable(...)
-
-to add this object to the map and
-
-    LocationIndicator.disable(...)
-
-to remove it.
-</p>
+Use <a href="sdk-for-ios-explore-classes-locationindicator#sdk-for-ios-explore-s-7heresdk17LocationIndicatorC6enable3foryAA11MapViewBase_p_tF">`LocationIndicator.enable(...)`</a> to add this object to the map and <a href="sdk-for-ios-explore-classes-locationindicator#sdk-for-ios-explore-s-7heresdk17LocationIndicatorC7disableyyF">`LocationIndicator.disable(...)`</a> to remove it.
 
 Note: The LocationIndicator is always rendered at a fixed altitude near 0. Changing the MapCamera to look at geographic coordinates with an altitude that is higher can cause the following behavior: If the MapCamera angle is tilted and altitude is too high, the LocationIndicator can unexpectedly disappear from the viewport due to the new perspective.
 
@@ -61,7 +52,7 @@ Note: The LocationIndicator is always rendered at a fixed altitude near 0. Chang
 
 - <div>
 
-      init()
+   <span id="sdk-for-ios-explore-s-7heresdk17LocationIndicatorCACycfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-locationindicator#sdk-for-ios-explore-s-7heresdk17LocationIndicatorCACycfc" class="token"><code>init()</code></a> 
 
   </div>
 
@@ -92,10 +83,8 @@ Note: The LocationIndicator is always rendered at a fixed altitude near 0. Chang
   Swift
 
   ``` highlight
-  public init ()
+  public init()
   ```
-
-  </pre>
 
   </div>
 
@@ -107,7 +96,7 @@ Note: The LocationIndicator is always rendered at a fixed altitude near 0. Chang
 
 - <div>
 
-      init(for: )
+   <span id="sdk-for-ios-explore-s-7heresdk17LocationIndicatorC3forAcA11MapViewBase_p_tcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-for" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-locationindicator#sdk-for-ios-explore-s-7heresdk17LocationIndicatorC3forAcA11MapViewBase_p_tcfc" class="token"><code>init(for:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -138,12 +127,14 @@ Note: The LocationIndicator is always rendered at a fixed altitude near 0. Chang
   Swift
 
   ``` highlight
-  public init ( for mapView : MapViewBase )
+  public init(for mapView: MapViewBase)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-protocols-mapviewbase">MapViewBase</a>
 
   </div>
 
@@ -174,7 +165,7 @@ Note: The LocationIndicator is always rendered at a fixed altitude near 0. Chang
 
 - <div>
 
-  ` `<span id="/s:7heresdk17LocationIndicatorC20isAccuracyVisualizedSbvp"></span>` `<span id="//apple_ref/swift/Property/isAccuracyVisualized" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-locationindicator#/s:7heresdk17LocationIndicatorC20isAccuracyVisualizedSbvp" class="token"><code>isAccuracyVisualized</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17LocationIndicatorC20isAccuracyVisualizedSbvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-isAccuracyVisualized" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-locationindicator#sdk-for-ios-explore-s-7heresdk17LocationIndicatorC20isAccuracyVisualizedSbvp" class="token"><code>isAccuracyVisualized</code></a> 
 
   </div>
 
@@ -192,7 +183,7 @@ Note: The LocationIndicator is always rendered at a fixed altitude near 0. Chang
 
   <div class="abstract">
 
-  Whether the horizontal accuracy is visualized by scaling the accuracy indicator halo. By default, it is set to `false`. In this case the accuracy indicator halo has a fixed and zoom level independent size. When set to `true`, the radius of the halo corresponds to the value of <a href="sdk-for-ios-explore-structs-location#/s:7heresdk8LocationV26horizontalAccuracyInMetersSdSgvp">`Location.horizontalAccuracyInMeters`</a> passed to
+  Whether the horizontal accuracy is visualized by scaling the accuracy indicator halo. By default, it is set to `false`. In this case the accuracy indicator halo has a fixed and zoom level independent size. When set to `true`, the radius of the halo corresponds to the value of <a href="sdk-for-ios-explore-structs-location#sdk-for-ios-explore-s-7heresdk8LocationV26horizontalAccuracyInMetersSdSgvp">`Location.horizontalAccuracyInMeters`</a> passed to
 
       LocationIndicator.updateLocation(Location)
 
@@ -201,14 +192,14 @@ Note: The LocationIndicator is always rendered at a fixed altitude near 0. Chang
 
   For values smaller than 20 meters the halo is hidden. The radius of the halo is limited to 500 meters and values higher than that or `nil` will keep the halo at that size.
 
-  If the location indicator is set to inactive (which can be checked via <a href="sdk-for-ios-explore-classes-locationindicator#/s:7heresdk17LocationIndicatorC8isActiveSbvp">`LocationIndicator.isActive`</a> flag), then the halo is always hidden. The value of this property remains unchanged regardless of the flag’s value. If the location indicator is set to active:
+  If the location indicator is set to inactive (which can be checked via <a href="sdk-for-ios-explore-classes-locationindicator#sdk-for-ios-explore-s-7heresdk17LocationIndicatorC8isActiveSbvp">`LocationIndicator.isActive`</a> flag), then the halo is always hidden. The value of this property remains unchanged regardless of the flag’s value. If the location indicator is set to active:
 
   - Built-in location indicators:
     - The halo is always shown.
-    - If the accuracy visualization is set to `true`, the size of the halo scales with <a href="sdk-for-ios-explore-structs-location#/s:7heresdk8LocationV26horizontalAccuracyInMetersSdSgvp">`Location.horizontalAccuracyInMeters`</a> in world coordinates.
+    - If the accuracy visualization is set to `true`, the size of the halo scales with <a href="sdk-for-ios-explore-structs-location#sdk-for-ios-explore-s-7heresdk8LocationV26horizontalAccuracyInMetersSdSgvp">`Location.horizontalAccuracyInMeters`</a> in world coordinates.
     - If the accuracy visualization is set to `false`, halo displays at a default size.
   - Custom location indicator:
-    - If the accuracy visualization is set to `true`, halo is shown and the size of the halo scales with <a href="sdk-for-ios-explore-structs-location#/s:7heresdk8LocationV26horizontalAccuracyInMetersSdSgvp">`Location.horizontalAccuracyInMeters`</a> in world coordinates.
+    - If the accuracy visualization is set to `true`, halo is shown and the size of the halo scales with <a href="sdk-for-ios-explore-structs-location#sdk-for-ios-explore-s-7heresdk8LocationV26horizontalAccuracyInMetersSdSgvp">`Location.horizontalAccuracyInMeters`</a> in world coordinates.
     - If the accuracy visualization is set to `false`, no halo is shown since it might not fit together with the custom 3d model.
 
   </div>
@@ -235,7 +226,7 @@ Note: The LocationIndicator is always rendered at a fixed altitude near 0. Chang
 
 - <div>
 
-  ` `<span id="/s:7heresdk17LocationIndicatorC08locationC5StyleAC0cE0Ovp"></span>` `<span id="//apple_ref/swift/Property/locationIndicatorStyle" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-locationindicator#/s:7heresdk17LocationIndicatorC08locationC5StyleAC0cE0Ovp" class="token"><code>locationIndicatorStyle</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17LocationIndicatorC08locationC5StyleAC0cE0Ovp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-locationIndicatorStyle" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-locationindicator#sdk-for-ios-explore-s-7heresdk17LocationIndicatorC08locationC5StyleAC0cE0Ovp" class="token"><code>locationIndicatorStyle</code></a> 
 
   </div>
 
@@ -253,7 +244,7 @@ Note: The LocationIndicator is always rendered at a fixed altitude near 0. Chang
 
   <div class="abstract">
 
-  The visual style of location indicator. By default, it is set to <a href="sdk-for-ios-explore-classes-locationindicator-indicatorstyle#/s:7heresdk17LocationIndicatorC0C5StyleO10navigationyA2EmF">`LocationIndicator.IndicatorStyle.navigation`</a>.
+  The visual style of location indicator. By default, it is set to <a href="sdk-for-ios-explore-classes-locationindicator-indicatorstyle#sdk-for-ios-explore-s-7heresdk17LocationIndicatorC0C5StyleO10navigationyA2EmF">`LocationIndicator.IndicatorStyle.navigation`</a>.
 
   </div>
 
@@ -271,6 +262,10 @@ Note: The LocationIndicator is always rendered at a fixed altitude near 0. Chang
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-locationindicator-indicatorstyle">IndicatorStyle</a>
+
   </div>
 
   </div>
@@ -279,7 +274,7 @@ Note: The LocationIndicator is always rendered at a fixed altitude near 0. Chang
 
 - <div>
 
-  ` `<span id="/s:7heresdk17LocationIndicatorC8isActiveSbvp"></span>` `<span id="//apple_ref/swift/Property/isActive" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-locationindicator#/s:7heresdk17LocationIndicatorC8isActiveSbvp" class="token"><code>isActive</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17LocationIndicatorC8isActiveSbvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-isActive" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-locationindicator#sdk-for-ios-explore-s-7heresdk17LocationIndicatorC8isActiveSbvp" class="token"><code>isActive</code></a> 
 
   </div>
 
@@ -325,7 +320,7 @@ Note: The LocationIndicator is always rendered at a fixed altitude near 0. Chang
 
 - <div>
 
-  ` `<span id="/s:7heresdk17LocationIndicatorC7opacitySdvp"></span>` `<span id="//apple_ref/swift/Property/opacity" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-locationindicator#/s:7heresdk17LocationIndicatorC7opacitySdvp" class="token"><code>opacity</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17LocationIndicatorC7opacitySdvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-opacity" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-locationindicator#sdk-for-ios-explore-s-7heresdk17LocationIndicatorC7opacitySdvp" class="token"><code>opacity</code></a> 
 
   </div>
 
@@ -369,7 +364,7 @@ Note: The LocationIndicator is always rendered at a fixed altitude near 0. Chang
 
 - <div>
 
-  ` `<span id="/s:7heresdk17LocationIndicatorC20materialReflectivityAA08MaterialE0VSgvp"></span>` `<span id="//apple_ref/swift/Property/materialReflectivity" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-locationindicator#/s:7heresdk17LocationIndicatorC20materialReflectivityAA08MaterialE0VSgvp" class="token"><code>materialReflectivity</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17LocationIndicatorC20materialReflectivityAA08MaterialE0VSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-materialReflectivity" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-locationindicator#sdk-for-ios-explore-s-7heresdk17LocationIndicatorC20materialReflectivityAA08MaterialE0VSgvp" class="token"><code>materialReflectivity</code></a> 
 
   </div>
 
@@ -405,6 +400,10 @@ Note: The LocationIndicator is always rendered at a fixed altitude near 0. Chang
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-materialreflectivity">MaterialReflectivity</a>
+
   </div>
 
   </div>
@@ -413,7 +412,7 @@ Note: The LocationIndicator is always rendered at a fixed altitude near 0. Chang
 
 - <div>
 
-  ` `<span id="/s:7heresdk17LocationIndicatorC0C5StyleO"></span>` `<span id="//apple_ref/swift/Enum/IndicatorStyle" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-locationindicator#/s:7heresdk17LocationIndicatorC0C5StyleO" class="token"><code>IndicatorStyle</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17LocationIndicatorC0C5StyleO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-IndicatorStyle" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-locationindicator#sdk-for-ios-explore-s-7heresdk17LocationIndicatorC0C5StyleO" class="token"><code>IndicatorStyle</code></a> 
 
   </div>
 
@@ -459,7 +458,7 @@ Note: The LocationIndicator is always rendered at a fixed altitude near 0. Chang
 
 - <div>
 
-  ` `<span id="/s:7heresdk17LocationIndicatorC10MarkerTypeO"></span>` `<span id="//apple_ref/swift/Enum/MarkerType" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-locationindicator#/s:7heresdk17LocationIndicatorC10MarkerTypeO" class="token"><code>MarkerType</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17LocationIndicatorC10MarkerTypeO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-MarkerType" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-locationindicator#sdk-for-ios-explore-s-7heresdk17LocationIndicatorC10MarkerTypeO" class="token"><code>MarkerType</code></a> 
 
   </div>
 
@@ -505,7 +504,7 @@ Note: The LocationIndicator is always rendered at a fixed altitude near 0. Chang
 
 - <div>
 
-      enable(for: )
+   <span id="sdk-for-ios-explore-s-7heresdk17LocationIndicatorC6enable3foryAA11MapViewBase_p_tF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-enable-for" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-locationindicator#sdk-for-ios-explore-s-7heresdk17LocationIndicatorC6enable3foryAA11MapViewBase_p_tF" class="token"><code>enable(for:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -536,12 +535,14 @@ Note: The LocationIndicator is always rendered at a fixed altitude near 0. Chang
   Swift
 
   ``` highlight
-  public func enable ( for mapView : MapViewBase )
+  public func enable(for mapView: MapViewBase)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-protocols-mapviewbase">MapViewBase</a>
 
   </div>
 
@@ -572,7 +573,7 @@ Note: The LocationIndicator is always rendered at a fixed altitude near 0. Chang
 
 - <div>
 
-      disable()
+   <span id="sdk-for-ios-explore-s-7heresdk17LocationIndicatorC7disableyyF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-disable" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-locationindicator#sdk-for-ios-explore-s-7heresdk17LocationIndicatorC7disableyyF" class="token"><code>disable()</code></a> 
 
   </div>
 
@@ -603,10 +604,8 @@ Note: The LocationIndicator is always rendered at a fixed altitude near 0. Chang
   Swift
 
   ``` highlight
-  public func disable ()
+  public func disable()
   ```
-
-  </pre>
 
   </div>
 
@@ -618,7 +617,7 @@ Note: The LocationIndicator is always rendered at a fixed altitude near 0. Chang
 
 - <div>
 
-      updateLocation(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk17LocationIndicatorC06updateB0yyAA0B0VF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-updateLocation-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-locationindicator#sdk-for-ios-explore-s-7heresdk17LocationIndicatorC06updateB0yyAA0B0VF" class="token"><code>updateLocation(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -636,7 +635,7 @@ Note: The LocationIndicator is always rendered at a fixed altitude near 0. Chang
 
   <div class="abstract">
 
-  Updates the indicator to a new location. If accuracy visualized is set to `true` the field <a href="sdk-for-ios-explore-structs-location#/s:7heresdk8LocationV26horizontalAccuracyInMetersSdSgvp">`Location.horizontalAccuracyInMeters`</a> determines the size of the accuracy indicator halo.
+  Updates the indicator to a new location. If accuracy visualized is set to `true` the field <a href="sdk-for-ios-explore-structs-location#sdk-for-ios-explore-s-7heresdk8LocationV26horizontalAccuracyInMetersSdSgvp">`Location.horizontalAccuracyInMeters`</a> determines the size of the accuracy indicator halo.
 
   The altitude of the location is ignored.
 
@@ -651,12 +650,14 @@ Note: The LocationIndicator is always rendered at a fixed altitude near 0. Chang
   Swift
 
   ``` highlight
-  public func updateLocation ( _ location : Location )
+  public func updateLocation(_ location: Location)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-location">Location</a>
 
   </div>
 
@@ -687,7 +688,7 @@ Note: The LocationIndicator is always rendered at a fixed altitude near 0. Chang
 
 - <div>
 
-      updateLocation(_: cameraUpdate: )
+   <span id="sdk-for-ios-explore-s-7heresdk17LocationIndicatorC06updateB0_12cameraUpdateyAA0B0V_AA09MapCameraF0CtF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-updateLocation-_-cameraUpdate" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-locationindicator#sdk-for-ios-explore-s-7heresdk17LocationIndicatorC06updateB0_12cameraUpdateyAA0B0V_AA09MapCameraF0CtF" class="token"><code>updateLocation(_:</code><wbr></wbr><code>cameraUpdate:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -707,7 +708,7 @@ Note: The LocationIndicator is always rendered at a fixed altitude near 0. Chang
 
   Updates the indicator to a new location and applies a camera update at the same time.
 
-  Does nothing if the indicator instance is not enabled. If accuracy visualized is set to `true` the field <a href="sdk-for-ios-explore-structs-location#/s:7heresdk8LocationV26horizontalAccuracyInMetersSdSgvp">`Location.horizontalAccuracyInMeters`</a> determines the size of the accuracy indicator halo.
+  Does nothing if the indicator instance is not enabled. If accuracy visualized is set to `true` the field <a href="sdk-for-ios-explore-structs-location#sdk-for-ios-explore-s-7heresdk8LocationV26horizontalAccuracyInMetersSdSgvp">`Location.horizontalAccuracyInMeters`</a> determines the size of the accuracy indicator halo.
 
   The altitude of the location is ignored.
 
@@ -722,12 +723,15 @@ Note: The LocationIndicator is always rendered at a fixed altitude near 0. Chang
   Swift
 
   ``` highlight
-  public func updateLocation ( _ location : Location , cameraUpdate : MapCameraUpdate )
+  public func updateLocation(_ location: Location, cameraUpdate: MapCameraUpdate)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-location">Location</a>
+  - <a href="sdk-for-ios-explore-classes-mapcameraupdate">MapCameraUpdate</a>
 
   </div>
 
@@ -764,7 +768,7 @@ Note: The LocationIndicator is always rendered at a fixed altitude near 0. Chang
 
 - <div>
 
-      setMarker3dModel(_: scale: type: )
+   <span id="sdk-for-ios-explore-s-7heresdk17LocationIndicatorC16setMarker3dModel_5scale4typeyAA16MapMarker3DModelC_SdAC10MarkerTypeOtF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-setMarker3dModel-_-scale-type" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-locationindicator#sdk-for-ios-explore-s-7heresdk17LocationIndicatorC16setMarker3dModel_5scale4typeyAA16MapMarker3DModelC_SdAC10MarkerTypeOtF" class="token"><code>setMarker3dModel(_:</code><wbr></wbr><code>scale:</code><wbr></wbr><code>type:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -795,12 +799,16 @@ Note: The LocationIndicator is always rendered at a fixed altitude near 0. Chang
   Swift
 
   ``` highlight
-  @available(*, deprecated, message: "Will be removed in v4.27.0. Please use the overloaded method with `RenderSize.Unit` instead.") public func setMarker3dModel ( _ model : MapMarker3DModel , scale : Double , type : LocationIndicator . MarkerType )
+  @available(*, deprecated, message: "Will be removed in v4.27.0. Please use the overloaded method with `RenderSize.Unit` instead.")
+  public func setMarker3dModel(_ model: MapMarker3DModel, scale: Double, type: LocationIndicator.MarkerType)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-mapmarker3dmodel">MapMarker3DModel</a>
+  - <a href="sdk-for-ios-explore-classes-locationindicator-markertype">MarkerType</a>
 
   </div>
 
@@ -843,7 +851,7 @@ Note: The LocationIndicator is always rendered at a fixed altitude near 0. Chang
 
 - <div>
 
-      setMarker3dModel(_: scale: type: renderSizeUnit: )
+   <span id="sdk-for-ios-explore-s-7heresdk17LocationIndicatorC16setMarker3dModel_5scale4type14renderSizeUnityAA16MapMarker3DModelC_SdAC10MarkerTypeOAA06RenderJ0V0K0OtF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-setMarker3dModel-_-scale-type-renderSizeUnit" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-locationindicator#sdk-for-ios-explore-s-7heresdk17LocationIndicatorC16setMarker3dModel_5scale4type14renderSizeUnityAA16MapMarker3DModelC_SdAC10MarkerTypeOAA06RenderJ0V0K0OtF" class="token"><code>setMarker3dModel(_:</code><wbr></wbr><code>scale:</code><wbr></wbr><code>type:</code><wbr></wbr><code>renderSizeUnit:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -874,12 +882,16 @@ Note: The LocationIndicator is always rendered at a fixed altitude near 0. Chang
   Swift
 
   ``` highlight
-  public func setMarker3dModel ( _ model : MapMarker3DModel , scale : Double , type : LocationIndicator . MarkerType , renderSizeUnit : RenderSize . Unit )
+  public func setMarker3dModel(_ model: MapMarker3DModel, scale: Double, type: LocationIndicator.MarkerType, renderSizeUnit: RenderSize.Unit)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-mapmarker3dmodel">MapMarker3DModel</a>
+  - <a href="sdk-for-ios-explore-classes-locationindicator-markertype">MarkerType</a>
+  - <a href="sdk-for-ios-explore-structs-rendersize">RenderSize</a>
 
   </div>
 
@@ -928,7 +940,7 @@ Note: The LocationIndicator is always rendered at a fixed altitude near 0. Chang
 
 - <div>
 
-      setHaloColor(_: color: )
+   <span id="sdk-for-ios-explore-s-7heresdk17LocationIndicatorC12setHaloColor_5coloryAC0C5StyleO_So7UIColorCtF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-setHaloColor-_-color" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-locationindicator#sdk-for-ios-explore-s-7heresdk17LocationIndicatorC12setHaloColor_5coloryAC0C5StyleO_So7UIColorCtF" class="token"><code>setHaloColor(_:</code><wbr></wbr><code>color:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -959,12 +971,14 @@ Note: The LocationIndicator is always rendered at a fixed altitude near 0. Chang
   Swift
 
   ``` highlight
-  public func setHaloColor ( _ style : LocationIndicator . IndicatorStyle , color : UIColor )
+  public func setHaloColor(_ style: LocationIndicator.IndicatorStyle, color: UIColor)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-locationindicator-indicatorstyle">IndicatorStyle</a>
 
   </div>
 
@@ -1001,7 +1015,7 @@ Note: The LocationIndicator is always rendered at a fixed altitude near 0. Chang
 
 - <div>
 
-      getHaloColor(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk17LocationIndicatorC12getHaloColorySo7UIColorCAC0C5StyleOF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-getHaloColor-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-locationindicator#sdk-for-ios-explore-s-7heresdk17LocationIndicatorC12getHaloColorySo7UIColorCAC0C5StyleOF" class="token"><code>getHaloColor(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -1032,12 +1046,14 @@ Note: The LocationIndicator is always rendered at a fixed altitude near 0. Chang
   Swift
 
   ``` highlight
-  public func getHaloColor ( _ style : LocationIndicator . IndicatorStyle ) -> UIColor
+  public func getHaloColor(_ style: LocationIndicator.IndicatorStyle) -> UIColor
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-locationindicator-indicatorstyle">IndicatorStyle</a>
 
   </div>
 

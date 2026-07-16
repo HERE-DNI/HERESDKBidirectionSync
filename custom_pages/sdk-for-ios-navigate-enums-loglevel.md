@@ -27,7 +27,7 @@ Severity levels for log messages.
 
 - <div>
 
-  ` `<span id="/s:7heresdk8LogLevelO03logC4InfoyA2CmF"></span>` `<span id="//apple_ref/swift/Element/logLevelInfo" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-loglevel#/s:7heresdk8LogLevelO03logC4InfoyA2CmF" class="token"><code>logLevelInfo</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8LogLevelO03logC4InfoyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-logLevelInfo" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-loglevel#sdk-for-ios-navigate-s-7heresdk8LogLevelO03logC4InfoyA2CmF" class="token"><code>logLevelInfo</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Severity levels for log messages.
 
 - <div>
 
-  ` `<span id="/s:7heresdk8LogLevelO03logC7WarningyA2CmF"></span>` `<span id="//apple_ref/swift/Element/logLevelWarning" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-loglevel#/s:7heresdk8LogLevelO03logC7WarningyA2CmF" class="token"><code>logLevelWarning</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8LogLevelO03logC7WarningyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-logLevelWarning" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-loglevel#sdk-for-ios-navigate-s-7heresdk8LogLevelO03logC7WarningyA2CmF" class="token"><code>logLevelWarning</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Severity levels for log messages.
 
 - <div>
 
-  ` `<span id="/s:7heresdk8LogLevelO03logC5ErroryA2CmF"></span>` `<span id="//apple_ref/swift/Element/logLevelError" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-loglevel#/s:7heresdk8LogLevelO03logC5ErroryA2CmF" class="token"><code>logLevelError</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8LogLevelO03logC5ErroryA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-logLevelError" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-loglevel#sdk-for-ios-navigate-s-7heresdk8LogLevelO03logC5ErroryA2CmF" class="token"><code>logLevelError</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Severity levels for log messages.
 
 - <div>
 
-  ` `<span id="/s:7heresdk8LogLevelO03logC5FatalyA2CmF"></span>` `<span id="//apple_ref/swift/Element/logLevelFatal" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-loglevel#/s:7heresdk8LogLevelO03logC5FatalyA2CmF" class="token"><code>logLevelFatal</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8LogLevelO03logC5FatalyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-logLevelFatal" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-loglevel#sdk-for-ios-navigate-s-7heresdk8LogLevelO03logC5FatalyA2CmF" class="token"><code>logLevelFatal</code></a> 
 
   </div>
 
@@ -203,7 +203,7 @@ Severity levels for log messages.
 
 - <div>
 
-  ` `<span id="/s:7heresdk8LogLevelO03logC3OffyA2CmF"></span>` `<span id="//apple_ref/swift/Element/logLevelOff" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-loglevel#/s:7heresdk8LogLevelO03logC3OffyA2CmF" class="token"><code>logLevelOff</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8LogLevelO03logC3OffyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-logLevelOff" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-loglevel#sdk-for-ios-navigate-s-7heresdk8LogLevelO03logC3OffyA2CmF" class="token"><code>logLevelOff</code></a> 
 
   </div>
 

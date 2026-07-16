@@ -27,7 +27,7 @@ Identifies the action type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PreActionTypeO5boardyA2CmF"></span>` `<span id="//apple_ref/swift/Element/board" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-preactiontype#/s:7heresdk13PreActionTypeO5boardyA2CmF" class="token"><code>board</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13PreActionTypeO5boardyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-board" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-preactiontype#sdk-for-ios-explore-s-7heresdk13PreActionTypeO5boardyA2CmF" class="token"><code>board</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Identifies the action type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13PreActionTypeO4waityA2CmF"></span>` `<span id="//apple_ref/swift/Element/wait" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-preactiontype#/s:7heresdk13PreActionTypeO4waityA2CmF" class="token"><code>wait</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13PreActionTypeO4waityA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-wait" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-preactiontype#sdk-for-ios-explore-s-7heresdk13PreActionTypeO4waityA2CmF" class="token"><code>wait</code></a> 
 
   </div>
 

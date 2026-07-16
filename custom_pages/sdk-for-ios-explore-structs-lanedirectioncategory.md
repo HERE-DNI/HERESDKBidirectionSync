@@ -27,7 +27,7 @@ Indicates the directions of a lane. Most lanes lead only to one direction, but t
 
 - <div>
 
-  ` `<span id="/s:7heresdk21LaneDirectionCategoryV8straightSbvp"></span>` `<span id="//apple_ref/swift/Property/straight" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-lanedirectioncategory#/s:7heresdk21LaneDirectionCategoryV8straightSbvp" class="token"><code>straight</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk21LaneDirectionCategoryV8straightSbvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-straight" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-lanedirectioncategory#sdk-for-ios-explore-s-7heresdk21LaneDirectionCategoryV8straightSbvp" class="token"><code>straight</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Indicates the directions of a lane. Most lanes lead only to one direction, but t
 
 - <div>
 
-  ` `<span id="/s:7heresdk21LaneDirectionCategoryV12slightlyLeftSbvp"></span>` `<span id="//apple_ref/swift/Property/slightlyLeft" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-lanedirectioncategory#/s:7heresdk21LaneDirectionCategoryV12slightlyLeftSbvp" class="token"><code>slightlyLeft</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk21LaneDirectionCategoryV12slightlyLeftSbvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-slightlyLeft" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-lanedirectioncategory#sdk-for-ios-explore-s-7heresdk21LaneDirectionCategoryV12slightlyLeftSbvp" class="token"><code>slightlyLeft</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Indicates the directions of a lane. Most lanes lead only to one direction, but t
 
 - <div>
 
-  ` `<span id="/s:7heresdk21LaneDirectionCategoryV9quiteLeftSbvp"></span>` `<span id="//apple_ref/swift/Property/quiteLeft" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-lanedirectioncategory#/s:7heresdk21LaneDirectionCategoryV9quiteLeftSbvp" class="token"><code>quiteLeft</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk21LaneDirectionCategoryV9quiteLeftSbvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-quiteLeft" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-lanedirectioncategory#sdk-for-ios-explore-s-7heresdk21LaneDirectionCategoryV9quiteLeftSbvp" class="token"><code>quiteLeft</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Indicates the directions of a lane. Most lanes lead only to one direction, but t
 
 - <div>
 
-  ` `<span id="/s:7heresdk21LaneDirectionCategoryV8hardLeftSbvp"></span>` `<span id="//apple_ref/swift/Property/hardLeft" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-lanedirectioncategory#/s:7heresdk21LaneDirectionCategoryV8hardLeftSbvp" class="token"><code>hardLeft</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk21LaneDirectionCategoryV8hardLeftSbvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-hardLeft" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-lanedirectioncategory#sdk-for-ios-explore-s-7heresdk21LaneDirectionCategoryV8hardLeftSbvp" class="token"><code>hardLeft</code></a> 
 
   </div>
 
@@ -203,7 +203,7 @@ Indicates the directions of a lane. Most lanes lead only to one direction, but t
 
 - <div>
 
-  ` `<span id="/s:7heresdk21LaneDirectionCategoryV9uTurnLeftSbvp"></span>` `<span id="//apple_ref/swift/Property/uTurnLeft" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-lanedirectioncategory#/s:7heresdk21LaneDirectionCategoryV9uTurnLeftSbvp" class="token"><code>uTurnLeft</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk21LaneDirectionCategoryV9uTurnLeftSbvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-uTurnLeft" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-lanedirectioncategory#sdk-for-ios-explore-s-7heresdk21LaneDirectionCategoryV9uTurnLeftSbvp" class="token"><code>uTurnLeft</code></a> 
 
   </div>
 
@@ -247,7 +247,7 @@ Indicates the directions of a lane. Most lanes lead only to one direction, but t
 
 - <div>
 
-  ` `<span id="/s:7heresdk21LaneDirectionCategoryV13slightlyRightSbvp"></span>` `<span id="//apple_ref/swift/Property/slightlyRight" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-lanedirectioncategory#/s:7heresdk21LaneDirectionCategoryV13slightlyRightSbvp" class="token"><code>slightlyRight</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk21LaneDirectionCategoryV13slightlyRightSbvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-slightlyRight" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-lanedirectioncategory#sdk-for-ios-explore-s-7heresdk21LaneDirectionCategoryV13slightlyRightSbvp" class="token"><code>slightlyRight</code></a> 
 
   </div>
 
@@ -291,7 +291,7 @@ Indicates the directions of a lane. Most lanes lead only to one direction, but t
 
 - <div>
 
-  ` `<span id="/s:7heresdk21LaneDirectionCategoryV10quiteRightSbvp"></span>` `<span id="//apple_ref/swift/Property/quiteRight" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-lanedirectioncategory#/s:7heresdk21LaneDirectionCategoryV10quiteRightSbvp" class="token"><code>quiteRight</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk21LaneDirectionCategoryV10quiteRightSbvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-quiteRight" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-lanedirectioncategory#sdk-for-ios-explore-s-7heresdk21LaneDirectionCategoryV10quiteRightSbvp" class="token"><code>quiteRight</code></a> 
 
   </div>
 
@@ -335,7 +335,7 @@ Indicates the directions of a lane. Most lanes lead only to one direction, but t
 
 - <div>
 
-  ` `<span id="/s:7heresdk21LaneDirectionCategoryV9hardRightSbvp"></span>` `<span id="//apple_ref/swift/Property/hardRight" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-lanedirectioncategory#/s:7heresdk21LaneDirectionCategoryV9hardRightSbvp" class="token"><code>hardRight</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk21LaneDirectionCategoryV9hardRightSbvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-hardRight" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-lanedirectioncategory#sdk-for-ios-explore-s-7heresdk21LaneDirectionCategoryV9hardRightSbvp" class="token"><code>hardRight</code></a> 
 
   </div>
 
@@ -379,7 +379,7 @@ Indicates the directions of a lane. Most lanes lead only to one direction, but t
 
 - <div>
 
-  ` `<span id="/s:7heresdk21LaneDirectionCategoryV10uTurnRightSbvp"></span>` `<span id="//apple_ref/swift/Property/uTurnRight" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-lanedirectioncategory#/s:7heresdk21LaneDirectionCategoryV10uTurnRightSbvp" class="token"><code>uTurnRight</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk21LaneDirectionCategoryV10uTurnRightSbvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-uTurnRight" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-lanedirectioncategory#sdk-for-ios-explore-s-7heresdk21LaneDirectionCategoryV10uTurnRightSbvp" class="token"><code>uTurnRight</code></a> 
 
   </div>
 
@@ -423,7 +423,7 @@ Indicates the directions of a lane. Most lanes lead only to one direction, but t
 
 - <div>
 
-      init(straight: slightlyLeft: quiteLeft: hardLeft: uTurnLeft: slightlyRight: quiteRight: hardRight: uTurnRight: )
+   <span id="sdk-for-ios-explore-s-7heresdk21LaneDirectionCategoryV8straight12slightlyLeft05quiteG004hardG005uTurnG00F5Right0hK00iK001ujK0ACSb_S8btcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-straight-slightlyLeft-quiteLeft-hardLeft-uTurnLeft-slightlyRight-quiteRight-hardRight-uTurnRight" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-lanedirectioncategory#sdk-for-ios-explore-s-7heresdk21LaneDirectionCategoryV8straight12slightlyLeft05quiteG004hardG005uTurnG00F5Right0hK00iK001ujK0ACSb_S8btcfc" class="token"><code>init(straight:</code><wbr></wbr><code>slightlyLeft:</code><wbr></wbr><code>quiteLeft:</code><wbr></wbr><code>hardLeft:</code><wbr></wbr><code>uTurnLeft:</code><wbr></wbr><code>slightlyRight:</code><wbr></wbr><code>quiteRight:</code><wbr></wbr><code>hardRight:</code><wbr></wbr><code>uTurnRight:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -454,10 +454,8 @@ Indicates the directions of a lane. Most lanes lead only to one direction, but t
   Swift
 
   ``` highlight
-  public init ( straight : Bool = false , slightlyLeft : Bool = false , quiteLeft : Bool = false , hardLeft : Bool = false , uTurnLeft : Bool = false , slightlyRight : Bool = false , quiteRight : Bool = false , hardRight : Bool = false , uTurnRight : Bool = false )
+  public init(straight: Bool = false, slightlyLeft: Bool = false, quiteLeft: Bool = false, hardLeft: Bool = false, uTurnLeft: Bool = false, slightlyRight: Bool = false, quiteRight: Bool = false, hardRight: Bool = false, uTurnRight: Bool = false)
   ```
-
-  </pre>
 
   </div>
 

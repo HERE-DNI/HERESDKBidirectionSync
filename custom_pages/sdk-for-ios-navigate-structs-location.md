@@ -27,7 +27,7 @@ Describes a location in the world at a given time.
 
 - <div>
 
-  ` `<span id="/s:7heresdk8LocationV11coordinatesAA14GeoCoordinatesVvp"></span>` `<span id="//apple_ref/swift/Property/coordinates" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-location#/s:7heresdk8LocationV11coordinatesAA14GeoCoordinatesVvp" class="token"><code>coordinates</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8LocationV11coordinatesAA14GeoCoordinatesVvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-coordinates" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-location#sdk-for-ios-navigate-s-7heresdk8LocationV11coordinatesAA14GeoCoordinatesVvp" class="token"><code>coordinates</code></a> 
 
   </div>
 
@@ -63,6 +63,10 @@ Describes a location in the world at a given time.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-geocoordinates">GeoCoordinates</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ Describes a location in the world at a given time.
 
 - <div>
 
-  ` `<span id="/s:7heresdk8LocationV16bearingInDegreesSdSgvp"></span>` `<span id="//apple_ref/swift/Property/bearingInDegrees" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-location#/s:7heresdk8LocationV16bearingInDegreesSdSgvp" class="token"><code>bearingInDegrees</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8LocationV16bearingInDegreesSdSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-bearingInDegrees" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-location#sdk-for-ios-navigate-s-7heresdk8LocationV16bearingInDegreesSdSgvp" class="token"><code>bearingInDegrees</code></a> 
 
   </div>
 
@@ -115,7 +119,7 @@ Describes a location in the world at a given time.
 
 - <div>
 
-  ` `<span id="/s:7heresdk8LocationV22speedInMetersPerSecondSdSgvp"></span>` `<span id="//apple_ref/swift/Property/speedInMetersPerSecond" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-location#/s:7heresdk8LocationV22speedInMetersPerSecondSdSgvp" class="token"><code>speedInMetersPerSecond</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8LocationV22speedInMetersPerSecondSdSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-speedInMetersPerSecond" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-location#sdk-for-ios-navigate-s-7heresdk8LocationV22speedInMetersPerSecondSdSgvp" class="token"><code>speedInMetersPerSecond</code></a> 
 
   </div>
 
@@ -159,7 +163,7 @@ Describes a location in the world at a given time.
 
 - <div>
 
-  ` `<span id="/s:7heresdk8LocationV4time10Foundation4DateVSgvp"></span>` `<span id="//apple_ref/swift/Property/time" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-location#/s:7heresdk8LocationV4time10Foundation4DateVSgvp" class="token"><code>time</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8LocationV4time10Foundation4DateVSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-time" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-location#sdk-for-ios-navigate-s-7heresdk8LocationV4time10Foundation4DateVSgvp" class="token"><code>time</code></a> 
 
   </div>
 
@@ -203,7 +207,7 @@ Describes a location in the world at a given time.
 
 - <div>
 
-  ` `<span id="/s:7heresdk8LocationV26horizontalAccuracyInMetersSdSgvp"></span>` `<span id="//apple_ref/swift/Property/horizontalAccuracyInMeters" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-location#/s:7heresdk8LocationV26horizontalAccuracyInMetersSdSgvp" class="token"><code>horizontalAccuracyInMeters</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8LocationV26horizontalAccuracyInMetersSdSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-horizontalAccuracyInMeters" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-location#sdk-for-ios-navigate-s-7heresdk8LocationV26horizontalAccuracyInMetersSdSgvp" class="token"><code>horizontalAccuracyInMeters</code></a> 
 
   </div>
 
@@ -247,7 +251,7 @@ Describes a location in the world at a given time.
 
 - <div>
 
-  ` `<span id="/s:7heresdk8LocationV24verticalAccuracyInMetersSdSgvp"></span>` `<span id="//apple_ref/swift/Property/verticalAccuracyInMeters" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-location#/s:7heresdk8LocationV24verticalAccuracyInMetersSdSgvp" class="token"><code>verticalAccuracyInMeters</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8LocationV24verticalAccuracyInMetersSdSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-verticalAccuracyInMeters" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-location#sdk-for-ios-navigate-s-7heresdk8LocationV24verticalAccuracyInMetersSdSgvp" class="token"><code>verticalAccuracyInMeters</code></a> 
 
   </div>
 
@@ -291,7 +295,7 @@ Describes a location in the world at a given time.
 
 - <div>
 
-  ` `<span id="/s:7heresdk8LocationV24bearingAccuracyInDegreesSdSgvp"></span>` `<span id="//apple_ref/swift/Property/bearingAccuracyInDegrees" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-location#/s:7heresdk8LocationV24bearingAccuracyInDegreesSdSgvp" class="token"><code>bearingAccuracyInDegrees</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8LocationV24bearingAccuracyInDegreesSdSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-bearingAccuracyInDegrees" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-location#sdk-for-ios-navigate-s-7heresdk8LocationV24bearingAccuracyInDegreesSdSgvp" class="token"><code>bearingAccuracyInDegrees</code></a> 
 
   </div>
 
@@ -335,7 +339,7 @@ Describes a location in the world at a given time.
 
 - <div>
 
-  ` `<span id="/s:7heresdk8LocationV30speedAccuracyInMetersPerSecondSdSgvp"></span>` `<span id="//apple_ref/swift/Property/speedAccuracyInMetersPerSecond" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-location#/s:7heresdk8LocationV30speedAccuracyInMetersPerSecondSdSgvp" class="token"><code>speedAccuracyInMetersPerSecond</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8LocationV30speedAccuracyInMetersPerSecondSdSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-speedAccuracyInMetersPerSecond" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-location#sdk-for-ios-navigate-s-7heresdk8LocationV30speedAccuracyInMetersPerSecondSdSgvp" class="token"><code>speedAccuracyInMetersPerSecond</code></a> 
 
   </div>
 
@@ -379,7 +383,7 @@ Describes a location in the world at a given time.
 
 - <div>
 
-  ` `<span id="/s:7heresdk8LocationV18timestampSinceBootSdSgvp"></span>` `<span id="//apple_ref/swift/Property/timestampSinceBoot" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-location#/s:7heresdk8LocationV18timestampSinceBootSdSgvp" class="token"><code>timestampSinceBoot</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8LocationV18timestampSinceBootSdSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-timestampSinceBoot" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-location#sdk-for-ios-navigate-s-7heresdk8LocationV18timestampSinceBootSdSgvp" class="token"><code>timestampSinceBoot</code></a> 
 
   </div>
 
@@ -423,7 +427,7 @@ Describes a location in the world at a given time.
 
 - <div>
 
-  ` `<span id="/s:7heresdk8LocationV18locationTechnologyAA0bD0OSgvp"></span>` `<span id="//apple_ref/swift/Property/locationTechnology" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-location#/s:7heresdk8LocationV18locationTechnologyAA0bD0OSgvp" class="token"><code>locationTechnology</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8LocationV18locationTechnologyAA0bD0OSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-locationTechnology" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-location#sdk-for-ios-navigate-s-7heresdk8LocationV18locationTechnologyAA0bD0OSgvp" class="token"><code>locationTechnology</code></a> 
 
   </div>
 
@@ -459,6 +463,10 @@ Describes a location in the world at a given time.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-locationtechnology">LocationTechnology</a>
+
   </div>
 
   </div>
@@ -467,7 +475,7 @@ Describes a location in the world at a given time.
 
 - <div>
 
-  ` `<span id="/s:7heresdk8LocationV6sourceAA0B6SourceOSgvp"></span>` `<span id="//apple_ref/swift/Property/source" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-location#/s:7heresdk8LocationV6sourceAA0B6SourceOSgvp" class="token"><code>source</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8LocationV6sourceAA0B6SourceOSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-source" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-location#sdk-for-ios-navigate-s-7heresdk8LocationV6sourceAA0B6SourceOSgvp" class="token"><code>source</code></a> 
 
   </div>
 
@@ -503,6 +511,10 @@ Describes a location in the world at a given time.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-locationsource">LocationSource</a>
+
   </div>
 
   </div>
@@ -511,7 +523,7 @@ Describes a location in the world at a given time.
 
 - <div>
 
-  ` `<span id="/s:7heresdk8LocationV8gnssTimeSdSgvp"></span>` `<span id="//apple_ref/swift/Property/gnssTime" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-location#/s:7heresdk8LocationV8gnssTimeSdSgvp" class="token"><code>gnssTime</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8LocationV8gnssTimeSdSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-gnssTime" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-location#sdk-for-ios-navigate-s-7heresdk8LocationV8gnssTimeSdSgvp" class="token"><code>gnssTime</code></a> 
 
   </div>
 
@@ -555,7 +567,7 @@ Describes a location in the world at a given time.
 
 - <div>
 
-  ` `<span id="/s:7heresdk8LocationV14pitchInDegreesSdSgvp"></span>` `<span id="//apple_ref/swift/Property/pitchInDegrees" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-location#/s:7heresdk8LocationV14pitchInDegreesSdSgvp" class="token"><code>pitchInDegrees</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8LocationV14pitchInDegreesSdSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-pitchInDegrees" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-location#sdk-for-ios-navigate-s-7heresdk8LocationV14pitchInDegreesSdSgvp" class="token"><code>pitchInDegrees</code></a> 
 
   </div>
 
@@ -599,7 +611,7 @@ Describes a location in the world at a given time.
 
 - <div>
 
-      init(coordinates: bearingInDegrees: speedInMetersPerSecond: time: horizontalAccuracyInMeters: verticalAccuracyInMeters: bearingAccuracyInDegrees: speedAccuracyInMetersPerSecond: timestampSinceBoot: locationTechnology: source: gnssTime: pitchInDegrees: )
+   <span id="sdk-for-ios-navigate-s-7heresdk8LocationV11coordinates16bearingInDegrees05speedE15MetersPerSecond4time018horizontalAccuracyeH008verticalmeH00dmeF00gmehiJ018timestampSinceBoot18locationTechnology6source8gnssTime05pitcheF0AcA14GeoCoordinatesV_SdSgAS10Foundation4DateVSgA5sA0bS0OSgAA0B6SourceOSgA2Stcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-coordinates-bearingInDegrees-speedInMetersPerSecond-time-horizontalAccuracyInMeters-verticalAccuracyInMeters-bearingAccuracyInDegrees-speedAccuracyInMetersPerSecond-timestampSinceBoot-locationTechnology-source-gnssTime-pitchInDegrees" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-location#sdk-for-ios-navigate-s-7heresdk8LocationV11coordinates16bearingInDegrees05speedE15MetersPerSecond4time018horizontalAccuracyeH008verticalmeH00dmeF00gmehiJ018timestampSinceBoot18locationTechnology6source8gnssTime05pitcheF0AcA14GeoCoordinatesV_SdSgAS10Foundation4DateVSgA5sA0bS0OSgAA0B6SourceOSgA2Stcfc" class="token"><code>init(coordinates:</code><wbr></wbr><code>bearingInDegrees:</code><wbr></wbr><code>speedInMetersPerSecond:</code><wbr></wbr><code>time:</code><wbr></wbr><code>horizontalAccuracyInMeters:</code><wbr></wbr><code>verticalAccuracyInMeters:</code><wbr></wbr><code>bearingAccuracyInDegrees:</code><wbr></wbr><code>speedAccuracyInMetersPerSecond:</code><wbr></wbr><code>timestampSinceBoot:</code><wbr></wbr><code>locationTechnology:</code><wbr></wbr><code>source:</code><wbr></wbr><code>gnssTime:</code><wbr></wbr><code>pitchInDegrees:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -630,12 +642,16 @@ Describes a location in the world at a given time.
   Swift
 
   ``` highlight
-  public init ( coordinates : GeoCoordinates , bearingInDegrees : Double ? = nil , speedInMetersPerSecond : Double ? = nil , time : Date ? = nil , horizontalAccuracyInMeters : Double ? = nil , verticalAccuracyInMeters : Double ? = nil , bearingAccuracyInDegrees : Double ? = nil , speedAccuracyInMetersPerSecond : Double ? = nil , timestampSinceBoot : TimeInterval ? = nil , locationTechnology : LocationTechnology ? = nil , source : LocationSource ? = nil , gnssTime : TimeInterval ? = nil , pitchInDegrees : Double ? = nil )
+  public init(coordinates: GeoCoordinates, bearingInDegrees: Double? = nil, speedInMetersPerSecond: Double? = nil, time: Date? = nil, horizontalAccuracyInMeters: Double? = nil, verticalAccuracyInMeters: Double? = nil, bearingAccuracyInDegrees: Double? = nil, speedAccuracyInMetersPerSecond: Double? = nil, timestampSinceBoot: TimeInterval? = nil, locationTechnology: LocationTechnology? = nil, source: LocationSource? = nil, gnssTime: TimeInterval? = nil, pitchInDegrees: Double? = nil)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-geocoordinates">GeoCoordinates</a>
+  - <a href="sdk-for-ios-navigate-enums-locationtechnology">LocationTechnology</a>
+  - <a href="sdk-for-ios-navigate-enums-locationsource">LocationSource</a>
 
   </div>
 

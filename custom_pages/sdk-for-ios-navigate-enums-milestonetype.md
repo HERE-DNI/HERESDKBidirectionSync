@@ -27,7 +27,7 @@ This enum represents the type of the <a href="sdk-for-ios-navigate-structs-miles
 
 - <div>
 
-  ` `<span id="/s:7heresdk13MilestoneTypeO8stopoveryA2CmF"></span>` `<span id="//apple_ref/swift/Element/stopover" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-milestonetype#/s:7heresdk13MilestoneTypeO8stopoveryA2CmF" class="token"><code>stopover</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13MilestoneTypeO8stopoveryA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-stopover" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-milestonetype#sdk-for-ios-navigate-s-7heresdk13MilestoneTypeO8stopoveryA2CmF" class="token"><code>stopover</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ This enum represents the type of the <a href="sdk-for-ios-navigate-structs-miles
 
 - <div>
 
-  ` `<span id="/s:7heresdk13MilestoneTypeO11passthroughyA2CmF"></span>` `<span id="//apple_ref/swift/Element/passthrough" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-milestonetype#/s:7heresdk13MilestoneTypeO11passthroughyA2CmF" class="token"><code>passthrough</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13MilestoneTypeO11passthroughyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-passthrough" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-milestonetype#sdk-for-ios-navigate-s-7heresdk13MilestoneTypeO11passthroughyA2CmF" class="token"><code>passthrough</code></a> 
 
   </div>
 

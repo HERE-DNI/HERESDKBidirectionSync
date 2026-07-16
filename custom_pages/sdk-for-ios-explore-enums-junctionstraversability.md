@@ -27,7 +27,7 @@ Junctions traversability of some traffic incident or flow section.
 
 - <div>
 
-  ` `<span id="/s:7heresdk23JunctionsTraversabilityO7allOpenyA2CmF"></span>` `<span id="//apple_ref/swift/Element/allOpen" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-junctionstraversability#/s:7heresdk23JunctionsTraversabilityO7allOpenyA2CmF" class="token"><code>allOpen</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk23JunctionsTraversabilityO7allOpenyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-allOpen" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-junctionstraversability#sdk-for-ios-explore-s-7heresdk23JunctionsTraversabilityO7allOpenyA2CmF" class="token"><code>allOpen</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Junctions traversability of some traffic incident or flow section.
 
 - <div>
 
-  ` `<span id="/s:7heresdk23JunctionsTraversabilityO9allClosedyA2CmF"></span>` `<span id="//apple_ref/swift/Element/allClosed" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-junctionstraversability#/s:7heresdk23JunctionsTraversabilityO9allClosedyA2CmF" class="token"><code>allClosed</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk23JunctionsTraversabilityO9allClosedyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-allClosed" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-junctionstraversability#sdk-for-ios-explore-s-7heresdk23JunctionsTraversabilityO9allClosedyA2CmF" class="token"><code>allClosed</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Junctions traversability of some traffic incident or flow section.
 
 - <div>
 
-  ` `<span id="/s:7heresdk23JunctionsTraversabilityO26intermediateClosedEdgeOpenyA2CmF"></span>` `<span id="//apple_ref/swift/Element/intermediateClosedEdgeOpen" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-junctionstraversability#/s:7heresdk23JunctionsTraversabilityO26intermediateClosedEdgeOpenyA2CmF" class="token"><code>intermediateClosedEdgeOpen</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk23JunctionsTraversabilityO26intermediateClosedEdgeOpenyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-intermediateClosedEdgeOpen" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-junctionstraversability#sdk-for-ios-explore-s-7heresdk23JunctionsTraversabilityO26intermediateClosedEdgeOpenyA2CmF" class="token"><code>intermediateClosedEdgeOpen</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Junctions traversability of some traffic incident or flow section.
 
 - <div>
 
-  ` `<span id="/s:7heresdk23JunctionsTraversabilityO21startOpenOthersClosedyA2CmF"></span>` `<span id="//apple_ref/swift/Element/startOpenOthersClosed" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-junctionstraversability#/s:7heresdk23JunctionsTraversabilityO21startOpenOthersClosedyA2CmF" class="token"><code>startOpenOthersClosed</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk23JunctionsTraversabilityO21startOpenOthersClosedyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-startOpenOthersClosed" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-junctionstraversability#sdk-for-ios-explore-s-7heresdk23JunctionsTraversabilityO21startOpenOthersClosedyA2CmF" class="token"><code>startOpenOthersClosed</code></a> 
 
   </div>
 
@@ -203,7 +203,7 @@ Junctions traversability of some traffic incident or flow section.
 
 - <div>
 
-  ` `<span id="/s:7heresdk23JunctionsTraversabilityO19endOpenOthersClosedyA2CmF"></span>` `<span id="//apple_ref/swift/Element/endOpenOthersClosed" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-junctionstraversability#/s:7heresdk23JunctionsTraversabilityO19endOpenOthersClosedyA2CmF" class="token"><code>endOpenOthersClosed</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk23JunctionsTraversabilityO19endOpenOthersClosedyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-endOpenOthersClosed" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-junctionstraversability#sdk-for-ios-explore-s-7heresdk23JunctionsTraversabilityO19endOpenOthersClosedyA2CmF" class="token"><code>endOpenOthersClosed</code></a> 
 
   </div>
 

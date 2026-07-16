@@ -27,7 +27,7 @@ An interface to implement a listener to receive log messages.
 
 - <div>
 
-      log(level: message: )
+   <span id="sdk-for-ios-navigate-s-7heresdk11LogAppenderP3log5level7messageyAA0B5LevelO_SStF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-log-level-message" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-protocols-logappender#sdk-for-ios-navigate-s-7heresdk11LogAppenderP3log5level7messageyAA0B5LevelO_SStF" class="token"><code>log(level:</code><wbr></wbr><code>message:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -56,12 +56,14 @@ An interface to implement a listener to receive log messages.
   Swift
 
   ``` highlight
-  func log ( level : LogLevel , message : String )
+  func log(level: LogLevel, message: String)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-loglevel">LogLevel</a>
 
   </div>
 

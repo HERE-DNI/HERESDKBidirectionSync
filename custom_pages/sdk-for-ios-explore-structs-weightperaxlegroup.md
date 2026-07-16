@@ -27,7 +27,7 @@ Struct which defines the weight of the different axle groups of a vehicle. The p
 
 - <div>
 
-  ` `<span id="/s:7heresdk18WeightPerAxleGroupV06singledE11InKilogramss5Int32VSgvp"></span>` `<span id="//apple_ref/swift/Property/singleAxleGroupInKilograms" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-weightperaxlegroup#/s:7heresdk18WeightPerAxleGroupV06singledE11InKilogramss5Int32VSgvp" class="token"><code>singleAxleGroupInKilograms</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18WeightPerAxleGroupV06singledE11InKilogramss5Int32VSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-singleAxleGroupInKilograms" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-weightperaxlegroup#sdk-for-ios-explore-s-7heresdk18WeightPerAxleGroupV06singledE11InKilogramss5Int32VSgvp" class="token"><code>singleAxleGroupInKilograms</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Struct which defines the weight of the different axle groups of a vehicle. The p
 
 - <div>
 
-  ` `<span id="/s:7heresdk18WeightPerAxleGroupV06tandemdE11InKilogramss5Int32VSgvp"></span>` `<span id="//apple_ref/swift/Property/tandemAxleGroupInKilograms" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-weightperaxlegroup#/s:7heresdk18WeightPerAxleGroupV06tandemdE11InKilogramss5Int32VSgvp" class="token"><code>tandemAxleGroupInKilograms</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18WeightPerAxleGroupV06tandemdE11InKilogramss5Int32VSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-tandemAxleGroupInKilograms" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-weightperaxlegroup#sdk-for-ios-explore-s-7heresdk18WeightPerAxleGroupV06tandemdE11InKilogramss5Int32VSgvp" class="token"><code>tandemAxleGroupInKilograms</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Struct which defines the weight of the different axle groups of a vehicle. The p
 
 - <div>
 
-  ` `<span id="/s:7heresdk18WeightPerAxleGroupV06tripledE11InKilogramss5Int32VSgvp"></span>` `<span id="//apple_ref/swift/Property/tripleAxleGroupInKilograms" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-weightperaxlegroup#/s:7heresdk18WeightPerAxleGroupV06tripledE11InKilogramss5Int32VSgvp" class="token"><code>tripleAxleGroupInKilograms</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18WeightPerAxleGroupV06tripledE11InKilogramss5Int32VSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-tripleAxleGroupInKilograms" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-weightperaxlegroup#sdk-for-ios-explore-s-7heresdk18WeightPerAxleGroupV06tripledE11InKilogramss5Int32VSgvp" class="token"><code>tripleAxleGroupInKilograms</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Struct which defines the weight of the different axle groups of a vehicle. The p
 
 - <div>
 
-  ` `<span id="/s:7heresdk18WeightPerAxleGroupV04quaddE11InKilogramss5Int32VSgvp"></span>` `<span id="//apple_ref/swift/Property/quadAxleGroupInKilograms" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-weightperaxlegroup#/s:7heresdk18WeightPerAxleGroupV04quaddE11InKilogramss5Int32VSgvp" class="token"><code>quadAxleGroupInKilograms</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18WeightPerAxleGroupV04quaddE11InKilogramss5Int32VSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-quadAxleGroupInKilograms" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-weightperaxlegroup#sdk-for-ios-explore-s-7heresdk18WeightPerAxleGroupV04quaddE11InKilogramss5Int32VSgvp" class="token"><code>quadAxleGroupInKilograms</code></a> 
 
   </div>
 
@@ -203,7 +203,7 @@ Struct which defines the weight of the different axle groups of a vehicle. The p
 
 - <div>
 
-  ` `<span id="/s:7heresdk18WeightPerAxleGroupV05quintdE11InKilogramss5Int32VSgvp"></span>` `<span id="//apple_ref/swift/Property/quintAxleGroupInKilograms" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-weightperaxlegroup#/s:7heresdk18WeightPerAxleGroupV05quintdE11InKilogramss5Int32VSgvp" class="token"><code>quintAxleGroupInKilograms</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18WeightPerAxleGroupV05quintdE11InKilogramss5Int32VSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-quintAxleGroupInKilograms" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-weightperaxlegroup#sdk-for-ios-explore-s-7heresdk18WeightPerAxleGroupV05quintdE11InKilogramss5Int32VSgvp" class="token"><code>quintAxleGroupInKilograms</code></a> 
 
   </div>
 
@@ -247,7 +247,7 @@ Struct which defines the weight of the different axle groups of a vehicle. The p
 
 - <div>
 
-      init(singleAxleGroupInKilograms: tandemAxleGroupInKilograms: tripleAxleGroupInKilograms: quadAxleGroupInKilograms: quintAxleGroupInKilograms: )
+   <span id="sdk-for-ios-explore-s-7heresdk18WeightPerAxleGroupV06singledE11InKilograms06tandemdegH006tripledegH004quaddegH005quintdegH0ACs5Int32VSg_A4Ktcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-singleAxleGroupInKilograms-tandemAxleGroupInKilograms-tripleAxleGroupInKilograms-quadAxleGroupInKilograms-quintAxleGroupInKilograms" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-weightperaxlegroup#sdk-for-ios-explore-s-7heresdk18WeightPerAxleGroupV06singledE11InKilograms06tandemdegH006tripledegH004quaddegH005quintdegH0ACs5Int32VSg_A4Ktcfc" class="token"><code>init(singleAxleGroupInKilograms:</code><wbr></wbr><code>tandemAxleGroupInKilograms:</code><wbr></wbr><code>tripleAxleGroupInKilograms:</code><wbr></wbr><code>quadAxleGroupInKilograms:</code><wbr></wbr><code>quintAxleGroupInKilograms:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -278,10 +278,8 @@ Struct which defines the weight of the different axle groups of a vehicle. The p
   Swift
 
   ``` highlight
-  public init ( singleAxleGroupInKilograms : Int32 ? = nil , tandemAxleGroupInKilograms : Int32 ? = nil , tripleAxleGroupInKilograms : Int32 ? = nil , quadAxleGroupInKilograms : Int32 ? = nil , quintAxleGroupInKilograms : Int32 ? = nil )
+  public init(singleAxleGroupInKilograms: Int32? = nil, tandemAxleGroupInKilograms: Int32? = nil, tripleAxleGroupInKilograms: Int32? = nil, quadAxleGroupInKilograms: Int32? = nil, quintAxleGroupInKilograms: Int32? = nil)
   ```
-
-  </pre>
 
   </div>
 

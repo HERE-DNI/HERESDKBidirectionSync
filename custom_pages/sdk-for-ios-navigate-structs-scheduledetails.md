@@ -27,7 +27,7 @@ Encapsulates schedule details complying with the iCalendar specification: <https
 
 - <div>
 
-  ` `<span id="/s:7heresdk15ScheduleDetailsV5startSSvp"></span>` `<span id="//apple_ref/swift/Property/start" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-scheduledetails#/s:7heresdk15ScheduleDetailsV5startSSvp" class="token"><code>start</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15ScheduleDetailsV5startSSvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-start" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-scheduledetails#sdk-for-ios-navigate-s-7heresdk15ScheduleDetailsV5startSSvp" class="token"><code>start</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Encapsulates schedule details complying with the iCalendar specification: <https
 
 - <div>
 
-  ` `<span id="/s:7heresdk15ScheduleDetailsV8durationSSvp"></span>` `<span id="//apple_ref/swift/Property/duration" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-scheduledetails#/s:7heresdk15ScheduleDetailsV8durationSSvp" class="token"><code>duration</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15ScheduleDetailsV8durationSSvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-duration" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-scheduledetails#sdk-for-ios-navigate-s-7heresdk15ScheduleDetailsV8durationSSvp" class="token"><code>duration</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Encapsulates schedule details complying with the iCalendar specification: <https
 
 - <div>
 
-  ` `<span id="/s:7heresdk15ScheduleDetailsV10recurrenceSSvp"></span>` `<span id="//apple_ref/swift/Property/recurrence" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-scheduledetails#/s:7heresdk15ScheduleDetailsV10recurrenceSSvp" class="token"><code>recurrence</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15ScheduleDetailsV10recurrenceSSvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-recurrence" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-scheduledetails#sdk-for-ios-navigate-s-7heresdk15ScheduleDetailsV10recurrenceSSvp" class="token"><code>recurrence</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Encapsulates schedule details complying with the iCalendar specification: <https
 
 - <div>
 
-      init(start: duration: recurrence: )
+   <span id="sdk-for-ios-navigate-s-7heresdk15ScheduleDetailsV5start8duration10recurrenceACSS_S2Stcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-start-duration-recurrence" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-scheduledetails#sdk-for-ios-navigate-s-7heresdk15ScheduleDetailsV5start8duration10recurrenceACSS_S2Stcfc" class="token"><code>init(start:</code><wbr></wbr><code>duration:</code><wbr></wbr><code>recurrence:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -190,10 +190,8 @@ Encapsulates schedule details complying with the iCalendar specification: <https
   Swift
 
   ``` highlight
-  public init ( start : String , duration : String , recurrence : String )
+  public init(start: String, duration: String, recurrence: String)
   ```
-
-  </pre>
 
   </div>
 

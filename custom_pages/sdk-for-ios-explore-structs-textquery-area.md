@@ -27,7 +27,7 @@ Area to perform search on.
 
 - <div>
 
-  ` `<span id="/s:7heresdk9TextQueryV4AreaV10areaCenterAA14GeoCoordinatesVSgvp"></span>` `<span id="//apple_ref/swift/Property/areaCenter" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-textquery-area#/s:7heresdk9TextQueryV4AreaV10areaCenterAA14GeoCoordinatesVSgvp" class="token"><code>areaCenter</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9TextQueryV4AreaV10areaCenterAA14GeoCoordinatesVSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-areaCenter" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-textquery-area#sdk-for-ios-explore-s-7heresdk9TextQueryV4AreaV10areaCenterAA14GeoCoordinatesVSgvp" class="token"><code>areaCenter</code></a> 
 
   </div>
 
@@ -45,7 +45,7 @@ Area to perform search on.
 
   <div class="abstract">
 
-  Geographic coordinates of the center around which to provide the most relevant places. For Offline Search, one of `TextQuery.Area.areaCenter`, <a href="sdk-for-ios-explore-structs-textquery-area#/s:7heresdk9TextQueryV4AreaV03boxD0AA6GeoBoxVSgvp">`TextQuery.Area.boxArea`</a> and <a href="sdk-for-ios-explore-structs-textquery-area#/s:7heresdk9TextQueryV4AreaV06circleD0AA9GeoCircleVSgvp">`TextQuery.Area.circleArea`</a> has to be set, otherwise it will result in <a href="sdk-for-ios-explore-enums-searcherror#/s:7heresdk11SearchErrorO11invalidAreayA2CmF">`SearchError.invalidArea`</a>.
+  Geographic coordinates of the center around which to provide the most relevant places. For Offline Search, one of `TextQuery.Area.areaCenter`, <a href="sdk-for-ios-explore-structs-textquery-area#sdk-for-ios-explore-s-7heresdk9TextQueryV4AreaV03boxD0AA6GeoBoxVSgvp">`TextQuery.Area.boxArea`</a> and <a href="sdk-for-ios-explore-structs-textquery-area#sdk-for-ios-explore-s-7heresdk9TextQueryV4AreaV06circleD0AA9GeoCircleVSgvp">`TextQuery.Area.circleArea`</a> has to be set, otherwise it will result in <a href="sdk-for-ios-explore-enums-searcherror#sdk-for-ios-explore-s-7heresdk11SearchErrorO11invalidAreayA2CmF">`SearchError.invalidArea`</a>.
 
   </div>
 
@@ -63,6 +63,10 @@ Area to perform search on.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geocoordinates">GeoCoordinates</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ Area to perform search on.
 
 - <div>
 
-  ` `<span id="/s:7heresdk9TextQueryV4AreaV03boxD0AA6GeoBoxVSgvp"></span>` `<span id="//apple_ref/swift/Property/boxArea" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-textquery-area#/s:7heresdk9TextQueryV4AreaV03boxD0AA6GeoBoxVSgvp" class="token"><code>boxArea</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9TextQueryV4AreaV03boxD0AA6GeoBoxVSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-boxArea" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-textquery-area#sdk-for-ios-explore-s-7heresdk9TextQueryV4AreaV03boxD0AA6GeoBoxVSgvp" class="token"><code>boxArea</code></a> 
 
   </div>
 
@@ -89,7 +93,7 @@ Area to perform search on.
 
   <div class="abstract">
 
-  Geographic rectangle area in which to provide the most relevant places. For Offline Search, one of <a href="sdk-for-ios-explore-structs-textquery-area#/s:7heresdk9TextQueryV4AreaV10areaCenterAA14GeoCoordinatesVSgvp">`TextQuery.Area.areaCenter`</a>, `TextQuery.Area.boxArea` and <a href="sdk-for-ios-explore-structs-textquery-area#/s:7heresdk9TextQueryV4AreaV06circleD0AA9GeoCircleVSgvp">`TextQuery.Area.circleArea`</a> has to be set, otherwise it will result in <a href="sdk-for-ios-explore-enums-searcherror#/s:7heresdk11SearchErrorO11invalidAreayA2CmF">`SearchError.invalidArea`</a>. Also, for Offline Search, search in a given <a href="sdk-for-ios-explore-structs-geobox">`GeoBox`</a> restricts the results to only POIs.
+  Geographic rectangle area in which to provide the most relevant places. For Offline Search, one of <a href="sdk-for-ios-explore-structs-textquery-area#sdk-for-ios-explore-s-7heresdk9TextQueryV4AreaV10areaCenterAA14GeoCoordinatesVSgvp">`TextQuery.Area.areaCenter`</a>, `TextQuery.Area.boxArea` and <a href="sdk-for-ios-explore-structs-textquery-area#sdk-for-ios-explore-s-7heresdk9TextQueryV4AreaV06circleD0AA9GeoCircleVSgvp">`TextQuery.Area.circleArea`</a> has to be set, otherwise it will result in <a href="sdk-for-ios-explore-enums-searcherror#sdk-for-ios-explore-s-7heresdk11SearchErrorO11invalidAreayA2CmF">`SearchError.invalidArea`</a>. Also, for Offline Search, search in a given <a href="sdk-for-ios-explore-structs-geobox">`GeoBox`</a> restricts the results to only POIs.
 
   </div>
 
@@ -107,6 +111,10 @@ Area to perform search on.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geobox">GeoBox</a>
+
   </div>
 
   </div>
@@ -115,7 +123,7 @@ Area to perform search on.
 
 - <div>
 
-  ` `<span id="/s:7heresdk9TextQueryV4AreaV06circleD0AA9GeoCircleVSgvp"></span>` `<span id="//apple_ref/swift/Property/circleArea" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-textquery-area#/s:7heresdk9TextQueryV4AreaV06circleD0AA9GeoCircleVSgvp" class="token"><code>circleArea</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9TextQueryV4AreaV06circleD0AA9GeoCircleVSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-circleArea" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-textquery-area#sdk-for-ios-explore-s-7heresdk9TextQueryV4AreaV06circleD0AA9GeoCircleVSgvp" class="token"><code>circleArea</code></a> 
 
   </div>
 
@@ -133,7 +141,7 @@ Area to perform search on.
 
   <div class="abstract">
 
-  Geographic circle area in which to provide the most relevant places. For Offline Search, one of <a href="sdk-for-ios-explore-structs-textquery-area#/s:7heresdk9TextQueryV4AreaV10areaCenterAA14GeoCoordinatesVSgvp">`TextQuery.Area.areaCenter`</a>, <a href="sdk-for-ios-explore-structs-textquery-area#/s:7heresdk9TextQueryV4AreaV03boxD0AA6GeoBoxVSgvp">`TextQuery.Area.boxArea`</a> and `TextQuery.Area.circleArea` has to be set, otherwise it will result in <a href="sdk-for-ios-explore-enums-searcherror#/s:7heresdk11SearchErrorO11invalidAreayA2CmF">`SearchError.invalidArea`</a>. Also, for Offline Search, search in a given <a href="sdk-for-ios-explore-structs-geocircle">`GeoCircle`</a> restricts the results to only POIs.
+  Geographic circle area in which to provide the most relevant places. For Offline Search, one of <a href="sdk-for-ios-explore-structs-textquery-area#sdk-for-ios-explore-s-7heresdk9TextQueryV4AreaV10areaCenterAA14GeoCoordinatesVSgvp">`TextQuery.Area.areaCenter`</a>, <a href="sdk-for-ios-explore-structs-textquery-area#sdk-for-ios-explore-s-7heresdk9TextQueryV4AreaV03boxD0AA6GeoBoxVSgvp">`TextQuery.Area.boxArea`</a> and `TextQuery.Area.circleArea` has to be set, otherwise it will result in <a href="sdk-for-ios-explore-enums-searcherror#sdk-for-ios-explore-s-7heresdk11SearchErrorO11invalidAreayA2CmF">`SearchError.invalidArea`</a>. Also, for Offline Search, search in a given <a href="sdk-for-ios-explore-structs-geocircle">`GeoCircle`</a> restricts the results to only POIs.
 
   </div>
 
@@ -151,6 +159,10 @@ Area to perform search on.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geocircle">GeoCircle</a>
+
   </div>
 
   </div>
@@ -159,7 +171,7 @@ Area to perform search on.
 
 - <div>
 
-  ` `<span id="/s:7heresdk9TextQueryV4AreaV08corridorD0AA11GeoCorridorVSgvp"></span>` `<span id="//apple_ref/swift/Property/corridorArea" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-textquery-area#/s:7heresdk9TextQueryV4AreaV08corridorD0AA11GeoCorridorVSgvp" class="token"><code>corridorArea</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9TextQueryV4AreaV08corridorD0AA11GeoCorridorVSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-corridorArea" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-textquery-area#sdk-for-ios-explore-s-7heresdk9TextQueryV4AreaV08corridorD0AA11GeoCorridorVSgvp" class="token"><code>corridorArea</code></a> 
 
   </div>
 
@@ -181,7 +193,7 @@ Area to perform search on.
 
   When used with SearchEngine, the polyline is compressed and sent. More complex polylines with large amounts of coordinates and with smaller half-width may have the less relevant part removed, such as the one far away from the search center. This usually makes no difference, because there will be enough POIs near the search center. For use cases where it is important to search the entire polyline, half-width can be increased or not set. For example: Route between New York and Chicago with half-width 800 will be added to request without removing the far away part, but route of the same length (around 360km) between Milan (Italy) and Konstanz (Germany) will have the far away part removed due to its complexity.
 
-  When `TextQuery.Area.corridorArea` is provided, <a href="sdk-for-ios-explore-structs-textquery-area#/s:7heresdk9TextQueryV4AreaV10areaCenterAA14GeoCoordinatesVSgvp">`TextQuery.Area.areaCenter`</a> has to be within it, otherwise <a href="sdk-for-ios-explore-structs-textquery-area#/s:7heresdk9TextQueryV4AreaV10areaCenterAA14GeoCoordinatesVSgvp">`TextQuery.Area.areaCenter`</a> is ignored when searching.
+  When `TextQuery.Area.corridorArea` is provided, <a href="sdk-for-ios-explore-structs-textquery-area#sdk-for-ios-explore-s-7heresdk9TextQueryV4AreaV10areaCenterAA14GeoCoordinatesVSgvp">`TextQuery.Area.areaCenter`</a> has to be within it, otherwise <a href="sdk-for-ios-explore-structs-textquery-area#sdk-for-ios-explore-s-7heresdk9TextQueryV4AreaV10areaCenterAA14GeoCoordinatesVSgvp">`TextQuery.Area.areaCenter`</a> is ignored when searching.
 
   For Offline Search, search in a given <a href="sdk-for-ios-explore-structs-geocorridor">`GeoCorridor`</a> restricts the results to only POIs.
 
@@ -201,6 +213,10 @@ Area to perform search on.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geocorridor">GeoCorridor</a>
+
   </div>
 
   </div>
@@ -209,7 +225,7 @@ Area to perform search on.
 
 - <div>
 
-  ` `<span id="/s:7heresdk9TextQueryV4AreaV9countriesSayAA11CountryCodeOGvp"></span>` `<span id="//apple_ref/swift/Property/countries" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-textquery-area#/s:7heresdk9TextQueryV4AreaV9countriesSayAA11CountryCodeOGvp" class="token"><code>countries</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9TextQueryV4AreaV9countriesSayAA11CountryCodeOGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-countries" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-textquery-area#sdk-for-ios-explore-s-7heresdk9TextQueryV4AreaV9countriesSayAA11CountryCodeOGvp" class="token"><code>countries</code></a> 
 
   </div>
 
@@ -245,6 +261,10 @@ Area to perform search on.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-countrycode">CountryCode</a>
+
   </div>
 
   </div>
@@ -253,7 +273,7 @@ Area to perform search on.
 
 - <div>
 
-      init(areaCenter: )
+   <span id="sdk-for-ios-explore-s-7heresdk9TextQueryV4AreaV10areaCenterAeA14GeoCoordinatesV_tcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-areaCenter" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-textquery-area#sdk-for-ios-explore-s-7heresdk9TextQueryV4AreaV10areaCenterAeA14GeoCoordinatesV_tcfc" class="token"><code>init(areaCenter:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -284,12 +304,14 @@ Area to perform search on.
   Swift
 
   ``` highlight
-  public init ( areaCenter : GeoCoordinates )
+  public init(areaCenter: GeoCoordinates)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geocoordinates">GeoCoordinates</a>
 
   </div>
 
@@ -320,7 +342,7 @@ Area to perform search on.
 
 - <div>
 
-      init(inBox: )
+   <span id="sdk-for-ios-explore-s-7heresdk9TextQueryV4AreaV5inBoxAeA03GeoF0V_tcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-inBox" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-textquery-area#sdk-for-ios-explore-s-7heresdk9TextQueryV4AreaV5inBoxAeA03GeoF0V_tcfc" class="token"><code>init(inBox:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -351,12 +373,14 @@ Area to perform search on.
   Swift
 
   ``` highlight
-  public init ( inBox boxArea : GeoBox )
+  public init(inBox boxArea: GeoBox)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geobox">GeoBox</a>
 
   </div>
 
@@ -387,7 +411,7 @@ Area to perform search on.
 
 - <div>
 
-      init(inCircle: )
+   <span id="sdk-for-ios-explore-s-7heresdk9TextQueryV4AreaV8inCircleAeA03GeoF0V_tcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-inCircle" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-textquery-area#sdk-for-ios-explore-s-7heresdk9TextQueryV4AreaV8inCircleAeA03GeoF0V_tcfc" class="token"><code>init(inCircle:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -418,12 +442,14 @@ Area to perform search on.
   Swift
 
   ``` highlight
-  public init ( inCircle circleArea : GeoCircle )
+  public init(inCircle circleArea: GeoCircle)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geocircle">GeoCircle</a>
 
   </div>
 
@@ -454,7 +480,7 @@ Area to perform search on.
 
 - <div>
 
-      init(inCorridor: near: )
+   <span id="sdk-for-ios-explore-s-7heresdk9TextQueryV4AreaV10inCorridor4nearAeA03GeoF0V_AA0H11CoordinatesVtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-inCorridor-near" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-textquery-area#sdk-for-ios-explore-s-7heresdk9TextQueryV4AreaV10inCorridor4nearAeA03GeoF0V_AA0H11CoordinatesVtcfc" class="token"><code>init(inCorridor:</code><wbr></wbr><code>near:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -491,12 +517,15 @@ Area to perform search on.
   Swift
 
   ``` highlight
-  public init ( inCorridor corridorArea : GeoCorridor , near areaCenter : GeoCoordinates )
+  public init(inCorridor corridorArea: GeoCorridor, near areaCenter: GeoCoordinates)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geocorridor">GeoCorridor</a>
+  - <a href="sdk-for-ios-explore-structs-geocoordinates">GeoCoordinates</a>
 
   </div>
 
@@ -533,7 +562,7 @@ Area to perform search on.
 
 - <div>
 
-      init(inCountries: near: )
+   <span id="sdk-for-ios-explore-s-7heresdk9TextQueryV4AreaV11inCountries4nearAESayAA11CountryCodeOG_AA14GeoCoordinatesVtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-inCountries-near" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-textquery-area#sdk-for-ios-explore-s-7heresdk9TextQueryV4AreaV11inCountries4nearAESayAA11CountryCodeOG_AA14GeoCoordinatesVtcfc" class="token"><code>init(inCountries:</code><wbr></wbr><code>near:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -564,12 +593,15 @@ Area to perform search on.
   Swift
 
   ``` highlight
-  public init ( inCountries countries : [ CountryCode ], near areaCenter : GeoCoordinates )
+  public init(inCountries countries: [CountryCode], near areaCenter: GeoCoordinates)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-countrycode">CountryCode</a>
+  - <a href="sdk-for-ios-explore-structs-geocoordinates">GeoCoordinates</a>
 
   </div>
 

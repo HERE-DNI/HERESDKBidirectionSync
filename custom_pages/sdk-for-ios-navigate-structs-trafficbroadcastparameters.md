@@ -27,7 +27,7 @@ Represents the parameters needed to request the traffic broadcast.
 
 - <div>
 
-  ` `<span id="/s:7heresdk26TrafficBroadcastParametersV10tmcServiceAA19TMCServiceInterface_pvp"></span>` `<span id="//apple_ref/swift/Property/tmcService" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-trafficbroadcastparameters#/s:7heresdk26TrafficBroadcastParametersV10tmcServiceAA19TMCServiceInterface_pvp" class="token"><code>tmcService</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk26TrafficBroadcastParametersV10tmcServiceAA19TMCServiceInterface_pvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-tmcService" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-trafficbroadcastparameters#sdk-for-ios-navigate-s-7heresdk26TrafficBroadcastParametersV10tmcServiceAA19TMCServiceInterface_pvp" class="token"><code>tmcService</code></a> 
 
   </div>
 
@@ -63,6 +63,10 @@ Represents the parameters needed to request the traffic broadcast.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-protocols-tmcserviceinterface">TMCServiceInterface</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ Represents the parameters needed to request the traffic broadcast.
 
 - <div>
 
-  ` `<span id="/s:7heresdk26TrafficBroadcastParametersV8locationAA8LocationVvp"></span>` `<span id="//apple_ref/swift/Property/location" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-trafficbroadcastparameters#/s:7heresdk26TrafficBroadcastParametersV8locationAA8LocationVvp" class="token"><code>location</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk26TrafficBroadcastParametersV8locationAA8LocationVvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-location" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-trafficbroadcastparameters#sdk-for-ios-navigate-s-7heresdk26TrafficBroadcastParametersV8locationAA8LocationVvp" class="token"><code>location</code></a> 
 
   </div>
 
@@ -107,6 +111,10 @@ Represents the parameters needed to request the traffic broadcast.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-location">Location</a>
+
   </div>
 
   </div>
@@ -115,7 +123,7 @@ Represents the parameters needed to request the traffic broadcast.
 
 - <div>
 
-      init(tmcService: location: )
+   <span id="sdk-for-ios-navigate-s-7heresdk26TrafficBroadcastParametersV10tmcService8locationAcA19TMCServiceInterface_p_AA8LocationVtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-tmcService-location" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-trafficbroadcastparameters#sdk-for-ios-navigate-s-7heresdk26TrafficBroadcastParametersV10tmcService8locationAcA19TMCServiceInterface_p_AA8LocationVtcfc" class="token"><code>init(tmcService:</code><wbr></wbr><code>location:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -146,12 +154,15 @@ Represents the parameters needed to request the traffic broadcast.
   Swift
 
   ``` highlight
-  public init ( tmcService : TMCServiceInterface , location : Location )
+  public init(tmcService: TMCServiceInterface, location: Location)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-protocols-tmcserviceinterface">TMCServiceInterface</a>
+  - <a href="sdk-for-ios-navigate-structs-location">Location</a>
 
   </div>
 

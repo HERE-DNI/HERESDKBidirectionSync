@@ -27,7 +27,7 @@ TrafficIncident provides details about a traffic incident.
 
 - <div>
 
-  ` `<span id="/s:7heresdk19TrafficIncidentBaseP6impactAA0bC6ImpactOvp"></span>` `<span id="//apple_ref/swift/Property/impact" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-protocols-trafficincidentbase#/s:7heresdk19TrafficIncidentBaseP6impactAA0bC6ImpactOvp" class="token"><code>impact</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19TrafficIncidentBaseP6impactAA0bC6ImpactOvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-impact" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-protocols-trafficincidentbase#sdk-for-ios-navigate-s-7heresdk19TrafficIncidentBaseP6impactAA0bC6ImpactOvp" class="token"><code>impact</code></a> 
 
   </div>
 
@@ -63,6 +63,10 @@ TrafficIncident provides details about a traffic incident.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-trafficincidentimpact">TrafficIncidentImpact</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ TrafficIncident provides details about a traffic incident.
 
 - <div>
 
-  ` `<span id="/s:7heresdk19TrafficIncidentBaseP4typeAA0bC4TypeOvp"></span>` `<span id="//apple_ref/swift/Property/type" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-protocols-trafficincidentbase#/s:7heresdk19TrafficIncidentBaseP4typeAA0bC4TypeOvp" class="token"><code>type</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19TrafficIncidentBaseP4typeAA0bC4TypeOvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-type" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-protocols-trafficincidentbase#sdk-for-ios-navigate-s-7heresdk19TrafficIncidentBaseP4typeAA0bC4TypeOvp" class="token"><code>type</code></a> 
 
   </div>
 
@@ -107,6 +111,10 @@ TrafficIncident provides details about a traffic incident.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-trafficincidenttype">TrafficIncidentType</a>
+
   </div>
 
   </div>
@@ -115,7 +123,7 @@ TrafficIncident provides details about a traffic incident.
 
 - <div>
 
-  ` `<span id="/s:7heresdk19TrafficIncidentBaseP11descriptionAA13LocalizedTextVvp"></span>` `<span id="//apple_ref/swift/Property/description" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-protocols-trafficincidentbase#/s:7heresdk19TrafficIncidentBaseP11descriptionAA13LocalizedTextVvp" class="token"><code>description</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19TrafficIncidentBaseP11descriptionAA13LocalizedTextVvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-description" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-protocols-trafficincidentbase#sdk-for-ios-navigate-s-7heresdk19TrafficIncidentBaseP11descriptionAA13LocalizedTextVvp" class="token"><code>description</code></a> 
 
   </div>
 
@@ -151,6 +159,10 @@ TrafficIncident provides details about a traffic incident.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-localizedtext">LocalizedText</a>
+
   </div>
 
   </div>
@@ -159,7 +171,7 @@ TrafficIncident provides details about a traffic incident.
 
 - <div>
 
-  ` `<span id="/s:7heresdk19TrafficIncidentBaseP9startTime10Foundation4DateVSgvp"></span>` `<span id="//apple_ref/swift/Property/startTime" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-protocols-trafficincidentbase#/s:7heresdk19TrafficIncidentBaseP9startTime10Foundation4DateVSgvp" class="token"><code>startTime</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19TrafficIncidentBaseP9startTime10Foundation4DateVSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-startTime" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-protocols-trafficincidentbase#sdk-for-ios-navigate-s-7heresdk19TrafficIncidentBaseP9startTime10Foundation4DateVSgvp" class="token"><code>startTime</code></a> 
 
   </div>
 
@@ -203,7 +215,7 @@ TrafficIncident provides details about a traffic incident.
 
 - <div>
 
-  ` `<span id="/s:7heresdk19TrafficIncidentBaseP7endTime10Foundation4DateVSgvp"></span>` `<span id="//apple_ref/swift/Property/endTime" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-protocols-trafficincidentbase#/s:7heresdk19TrafficIncidentBaseP7endTime10Foundation4DateVSgvp" class="token"><code>endTime</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19TrafficIncidentBaseP7endTime10Foundation4DateVSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-endTime" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-protocols-trafficincidentbase#sdk-for-ios-navigate-s-7heresdk19TrafficIncidentBaseP7endTime10Foundation4DateVSgvp" class="token"><code>endTime</code></a> 
 
   </div>
 

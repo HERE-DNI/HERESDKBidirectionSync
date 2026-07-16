@@ -27,7 +27,7 @@ This struct provides the necessary information for refreshing a route from a spe
 
 - <div>
 
-  ` `<span id="/s:7heresdk22RefreshRouteParametersV11routeHandleAA0cF0Vvp"></span>` `<span id="//apple_ref/swift/Property/routeHandle" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-refreshrouteparameters#/s:7heresdk22RefreshRouteParametersV11routeHandleAA0cF0Vvp" class="token"><code>routeHandle</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk22RefreshRouteParametersV11routeHandleAA0cF0Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-routeHandle" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-refreshrouteparameters#sdk-for-ios-navigate-s-7heresdk22RefreshRouteParametersV11routeHandleAA0cF0Vvp" class="token"><code>routeHandle</code></a> 
 
   </div>
 
@@ -63,6 +63,10 @@ This struct provides the necessary information for refreshing a route from a spe
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-routehandle">RouteHandle</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ This struct provides the necessary information for refreshing a route from a spe
 
 - <div>
 
-  ` `<span id="/s:7heresdk22RefreshRouteParametersV13startingPointAA8WaypointVSgvp"></span>` `<span id="//apple_ref/swift/Property/startingPoint" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-refreshrouteparameters#/s:7heresdk22RefreshRouteParametersV13startingPointAA8WaypointVSgvp" class="token"><code>startingPoint</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk22RefreshRouteParametersV13startingPointAA8WaypointVSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-startingPoint" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-refreshrouteparameters#sdk-for-ios-navigate-s-7heresdk22RefreshRouteParametersV13startingPointAA8WaypointVSgvp" class="token"><code>startingPoint</code></a> 
 
   </div>
 
@@ -89,7 +93,7 @@ This struct provides the necessary information for refreshing a route from a spe
 
   <div class="abstract">
 
-  Identify the new starting point of the route. It should be of type <a href="sdk-for-ios-navigate-enums-waypointtype#/s:7heresdk12WaypointTypeO8stopoveryA2CmF">`WaypointType.stopover`</a>. Otherwise, an <a href="sdk-for-ios-navigate-enums-routingerror#/s:7heresdk12RoutingErrorO16invalidParameteryA2CmF">`RoutingError.invalidParameter`</a> error is generated. Moreover, it should be very close to the original route specified with the <a href="sdk-for-ios-navigate-structs-routehandle">`RouteHandle`</a>. The location of this waypoint may by provided, for example, by a <a href="sdk-for-ios-navigate-structs-routeprogress">`RouteProgress`</a> event. Since the new starting point is expected to be along the original route, the original route geometry is used to reach the remaining waypoints. The new route will not include the <a href="sdk-for-ios-navigate-structs-waypoint">`Waypoint`</a> items that lie behind the new starting point (i.e. the path that was already traveled). Plus, <a href="sdk-for-ios-navigate-classes-route#/s:7heresdk5RouteC14lengthInMeterss5Int32Vvp">`Route.lengthInMeters`</a>, <a href="sdk-for-ios-navigate-classes-route#/s:7heresdk5RouteC8durationSdvp">`Route.duration`</a>, and similar values are from the new starting point to the destination. If the new waypoint is too far off the original route, the route refresh may fail and an <a href="sdk-for-ios-navigate-enums-routingerror#/s:7heresdk12RoutingErrorO19couldNotMatchOriginyA2CmF">`RoutingError.couldNotMatchOrigin`</a> error is triggered. In that case, an application may decide to calculate a new route from scratch.
+  Identify the new starting point of the route. It should be of type <a href="sdk-for-ios-navigate-enums-waypointtype#sdk-for-ios-navigate-s-7heresdk12WaypointTypeO8stopoveryA2CmF">`WaypointType.stopover`</a>. Otherwise, an <a href="sdk-for-ios-navigate-enums-routingerror#sdk-for-ios-navigate-s-7heresdk12RoutingErrorO16invalidParameteryA2CmF">`RoutingError.invalidParameter`</a> error is generated. Moreover, it should be very close to the original route specified with the <a href="sdk-for-ios-navigate-structs-routehandle">`RouteHandle`</a>. The location of this waypoint may by provided, for example, by a <a href="sdk-for-ios-navigate-structs-routeprogress">`RouteProgress`</a> event. Since the new starting point is expected to be along the original route, the original route geometry is used to reach the remaining waypoints. The new route will not include the <a href="sdk-for-ios-navigate-structs-waypoint">`Waypoint`</a> items that lie behind the new starting point (i.e. the path that was already traveled). Plus, <a href="sdk-for-ios-navigate-classes-route#sdk-for-ios-navigate-s-7heresdk5RouteC14lengthInMeterss5Int32Vvp">`Route.lengthInMeters`</a>, <a href="sdk-for-ios-navigate-classes-route#sdk-for-ios-navigate-s-7heresdk5RouteC8durationSdvp">`Route.duration`</a>, and similar values are from the new starting point to the destination. If the new waypoint is too far off the original route, the route refresh may fail and an <a href="sdk-for-ios-navigate-enums-routingerror#sdk-for-ios-navigate-s-7heresdk12RoutingErrorO19couldNotMatchOriginyA2CmF">`RoutingError.couldNotMatchOrigin`</a> error is triggered. In that case, an application may decide to calculate a new route from scratch.
 
   </div>
 
@@ -107,6 +111,10 @@ This struct provides the necessary information for refreshing a route from a spe
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-waypoint">Waypoint</a>
+
   </div>
 
   </div>
@@ -115,7 +123,7 @@ This struct provides the necessary information for refreshing a route from a spe
 
 - <div>
 
-  ` `<span id="/s:7heresdk22RefreshRouteParametersV20startingSectionIndexs5Int32VSgvp"></span>` `<span id="//apple_ref/swift/Property/startingSectionIndex" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-refreshrouteparameters#/s:7heresdk22RefreshRouteParametersV20startingSectionIndexs5Int32VSgvp" class="token"><code>startingSectionIndex</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk22RefreshRouteParametersV20startingSectionIndexs5Int32VSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-startingSectionIndex" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-refreshrouteparameters#sdk-for-ios-navigate-s-7heresdk22RefreshRouteParametersV20startingSectionIndexs5Int32VSgvp" class="token"><code>startingSectionIndex</code></a> 
 
   </div>
 
@@ -133,7 +141,7 @@ This struct provides the necessary information for refreshing a route from a spe
 
   <div class="abstract">
 
-  Indicates the index of the last traveled route section. When it is provided, the previous sections are discarded from the refreshed route and the starting point is searched in the provided section. If the starting point is not found in that section an <a href="sdk-for-ios-navigate-enums-routingerror#/s:7heresdk12RoutingErrorO19couldNotMatchOriginyA2CmF">`RoutingError.couldNotMatchOrigin`</a> error is triggered.
+  Indicates the index of the last traveled route section. When it is provided, the previous sections are discarded from the refreshed route and the starting point is searched in the provided section. If the starting point is not found in that section an <a href="sdk-for-ios-navigate-enums-routingerror#sdk-for-ios-navigate-s-7heresdk12RoutingErrorO19couldNotMatchOriginyA2CmF">`RoutingError.couldNotMatchOrigin`</a> error is triggered.
 
   </div>
 
@@ -159,7 +167,7 @@ This struct provides the necessary information for refreshing a route from a spe
 
 - <div>
 
-  ` `<span id="/s:7heresdk22RefreshRouteParametersV41traveledDistanceOnStartingSectionInMeterss5Int32VSgvp"></span>` `<span id="//apple_ref/swift/Property/traveledDistanceOnStartingSectionInMeters" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-refreshrouteparameters#/s:7heresdk22RefreshRouteParametersV41traveledDistanceOnStartingSectionInMeterss5Int32VSgvp" class="token"><code>traveledDistanceOnStartingSectionInMeters</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk22RefreshRouteParametersV41traveledDistanceOnStartingSectionInMeterss5Int32VSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-traveledDistanceOnStartingSectionInMeters" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-refreshrouteparameters#sdk-for-ios-navigate-s-7heresdk22RefreshRouteParametersV41traveledDistanceOnStartingSectionInMeterss5Int32VSgvp" class="token"><code>traveledDistanceOnStartingSectionInMeters</code></a> 
 
   </div>
 
@@ -177,7 +185,7 @@ This struct provides the necessary information for refreshing a route from a spe
 
   <div class="abstract">
 
-  Provides an indication on how much of the starting section is already traveled. The refresh route function would ignore the first part of the section. If it is provided with an invalid starting section index, an <a href="sdk-for-ios-navigate-enums-routingerror#/s:7heresdk12RoutingErrorO16invalidParameteryA2CmF">`RoutingError.invalidParameter`</a> error is generated.
+  Provides an indication on how much of the starting section is already traveled. The refresh route function would ignore the first part of the section. If it is provided with an invalid starting section index, an <a href="sdk-for-ios-navigate-enums-routingerror#sdk-for-ios-navigate-s-7heresdk12RoutingErrorO16invalidParameteryA2CmF">`RoutingError.invalidParameter`</a> error is generated.
 
   </div>
 
@@ -203,7 +211,7 @@ This struct provides the necessary information for refreshing a route from a spe
 
 - <div>
 
-      init(routeHandle: startingPoint: )
+   <span id="sdk-for-ios-navigate-s-7heresdk22RefreshRouteParametersV11routeHandle13startingPointAcA0cF0V_AA8WaypointVtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-routeHandle-startingPoint" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-refreshrouteparameters#sdk-for-ios-navigate-s-7heresdk22RefreshRouteParametersV11routeHandle13startingPointAcA0cF0V_AA8WaypointVtcfc" class="token"><code>init(routeHandle:</code><wbr></wbr><code>startingPoint:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -234,12 +242,15 @@ This struct provides the necessary information for refreshing a route from a spe
   Swift
 
   ``` highlight
-  public init ( routeHandle : RouteHandle , startingPoint : Waypoint )
+  public init(routeHandle: RouteHandle, startingPoint: Waypoint)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-routehandle">RouteHandle</a>
+  - <a href="sdk-for-ios-navigate-structs-waypoint">Waypoint</a>
 
   </div>
 
@@ -276,7 +287,7 @@ This struct provides the necessary information for refreshing a route from a spe
 
 - <div>
 
-      init(routeHandle: startingSectionIndex: traveledDistanceOnStartingSectionInMeters: )
+   <span id="sdk-for-ios-navigate-s-7heresdk22RefreshRouteParametersV11routeHandle20startingSectionIndex026traveledDistanceOnStartingH8InMetersAcA0cF0V_s5Int32VAJtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-routeHandle-startingSectionIndex-traveledDistanceOnStartingSectionInMeters" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-refreshrouteparameters#sdk-for-ios-navigate-s-7heresdk22RefreshRouteParametersV11routeHandle20startingSectionIndex026traveledDistanceOnStartingH8InMetersAcA0cF0V_s5Int32VAJtcfc" class="token"><code>init(routeHandle:</code><wbr></wbr><code>startingSectionIndex:</code><wbr></wbr><code>traveledDistanceOnStartingSectionInMeters:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -307,12 +318,14 @@ This struct provides the necessary information for refreshing a route from a spe
   Swift
 
   ``` highlight
-  public init ( routeHandle : RouteHandle , startingSectionIndex : Int32 , traveledDistanceOnStartingSectionInMeters : Int32 )
+  public init(routeHandle: RouteHandle, startingSectionIndex: Int32, traveledDistanceOnStartingSectionInMeters: Int32)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-routehandle">RouteHandle</a>
 
   </div>
 
@@ -355,7 +368,7 @@ This struct provides the necessary information for refreshing a route from a spe
 
 - <div>
 
-      init(routeHandle: startingPoint: startingSectionIndex: traveledDistanceOnStartingSectionInMeters: )
+   <span id="sdk-for-ios-navigate-s-7heresdk22RefreshRouteParametersV11routeHandle13startingPoint0G12SectionIndex026traveledDistanceOnStartingI8InMetersAcA0cF0V_AA8WaypointVs5Int32VAMtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-routeHandle-startingPoint-startingSectionIndex-traveledDistanceOnStartingSectionInMeters" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-refreshrouteparameters#sdk-for-ios-navigate-s-7heresdk22RefreshRouteParametersV11routeHandle13startingPoint0G12SectionIndex026traveledDistanceOnStartingI8InMetersAcA0cF0V_AA8WaypointVs5Int32VAMtcfc" class="token"><code>init(routeHandle:</code><wbr></wbr><code>startingPoint:</code><wbr></wbr><code>startingSectionIndex:</code><wbr></wbr><code>traveledDistanceOnStartingSectionInMeters:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -386,12 +399,15 @@ This struct provides the necessary information for refreshing a route from a spe
   Swift
 
   ``` highlight
-  public init ( routeHandle : RouteHandle , startingPoint : Waypoint , startingSectionIndex : Int32 , traveledDistanceOnStartingSectionInMeters : Int32 )
+  public init(routeHandle: RouteHandle, startingPoint: Waypoint, startingSectionIndex: Int32, traveledDistanceOnStartingSectionInMeters: Int32)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-routehandle">RouteHandle</a>
+  - <a href="sdk-for-ios-navigate-structs-waypoint">Waypoint</a>
 
   </div>
 

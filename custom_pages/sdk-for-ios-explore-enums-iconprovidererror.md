@@ -27,7 +27,7 @@ Error which indicates why an icon could not be retrieved.
 
 - <div>
 
-  ` `<span id="/s:7heresdk17IconProviderErrorO12invalidStateyA2CmF"></span>` `<span id="//apple_ref/swift/Element/invalidState" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-iconprovidererror#/s:7heresdk17IconProviderErrorO12invalidStateyA2CmF" class="token"><code>invalidState</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17IconProviderErrorO12invalidStateyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-invalidState" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-iconprovidererror#sdk-for-ios-explore-s-7heresdk17IconProviderErrorO12invalidStateyA2CmF" class="token"><code>invalidState</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Error which indicates why an icon could not be retrieved.
 
 - <div>
 
-  ` `<span id="/s:7heresdk17IconProviderErrorO12iconNotFoundyA2CmF"></span>` `<span id="//apple_ref/swift/Element/iconNotFound" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-iconprovidererror#/s:7heresdk17IconProviderErrorO12iconNotFoundyA2CmF" class="token"><code>iconNotFound</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17IconProviderErrorO12iconNotFoundyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-iconNotFound" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-iconprovidererror#sdk-for-ios-explore-s-7heresdk17IconProviderErrorO12iconNotFoundyA2CmF" class="token"><code>iconNotFound</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Error which indicates why an icon could not be retrieved.
 
 - <div>
 
-  ` `<span id="/s:7heresdk17IconProviderErrorO18iconHandlingFailedyA2CmF"></span>` `<span id="//apple_ref/swift/Element/iconHandlingFailed" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-iconprovidererror#/s:7heresdk17IconProviderErrorO18iconHandlingFailedyA2CmF" class="token"><code>iconHandlingFailed</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17IconProviderErrorO18iconHandlingFailedyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-iconHandlingFailed" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-iconprovidererror#sdk-for-ios-explore-s-7heresdk17IconProviderErrorO18iconHandlingFailedyA2CmF" class="token"><code>iconHandlingFailed</code></a> 
 
   </div>
 

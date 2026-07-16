@@ -27,7 +27,7 @@ The aspect ratio of the image.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11AspectRatioO14aspectRatio3X4yA2CmF"></span>` `<span id="//apple_ref/swift/Element/aspectRatio3X4" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-aspectratio#/s:7heresdk11AspectRatioO14aspectRatio3X4yA2CmF" class="token"><code>aspectRatio3X4</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11AspectRatioO14aspectRatio3X4yA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-aspectRatio3X4" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-aspectratio#sdk-for-ios-navigate-s-7heresdk11AspectRatioO14aspectRatio3X4yA2CmF" class="token"><code>aspectRatio3X4</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ The aspect ratio of the image.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11AspectRatioO15aspectRatio16X9yA2CmF"></span>` `<span id="//apple_ref/swift/Element/aspectRatio16X9" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-aspectratio#/s:7heresdk11AspectRatioO15aspectRatio16X9yA2CmF" class="token"><code>aspectRatio16X9</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk11AspectRatioO15aspectRatio16X9yA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-aspectRatio16X9" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-aspectratio#sdk-for-ios-navigate-s-7heresdk11AspectRatioO15aspectRatio16X9yA2CmF" class="token"><code>aspectRatio16X9</code></a> 
 
   </div>
 

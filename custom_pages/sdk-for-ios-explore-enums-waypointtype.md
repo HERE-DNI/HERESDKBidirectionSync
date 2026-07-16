@@ -27,7 +27,7 @@ Defines if the waypoint is a stop over, or a hint for a desired polyline of a ro
 
 - <div>
 
-  ` `<span id="/s:7heresdk12WaypointTypeO8stopoveryA2CmF"></span>` `<span id="//apple_ref/swift/Element/stopover" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-waypointtype#/s:7heresdk12WaypointTypeO8stopoveryA2CmF" class="token"><code>stopover</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12WaypointTypeO8stopoveryA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-stopover" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-waypointtype#sdk-for-ios-explore-s-7heresdk12WaypointTypeO8stopoveryA2CmF" class="token"><code>stopover</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Defines if the waypoint is a stop over, or a hint for a desired polyline of a ro
 
 - <div>
 
-  ` `<span id="/s:7heresdk12WaypointTypeO11passThroughyA2CmF"></span>` `<span id="//apple_ref/swift/Element/passThrough" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-waypointtype#/s:7heresdk12WaypointTypeO11passThroughyA2CmF" class="token"><code>passThrough</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12WaypointTypeO11passThroughyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-passThrough" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-waypointtype#sdk-for-ios-explore-s-7heresdk12WaypointTypeO11passThroughyA2CmF" class="token"><code>passThrough</code></a> 
 
   </div>
 

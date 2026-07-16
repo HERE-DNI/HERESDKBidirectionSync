@@ -29,7 +29,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      onStarted(operation: )
+   <span id="sdk-for-ios-explore-s-7heresdk26OfflineSearchIndexListenerP9onStarted9operationyAA0bcD0C9OperationO_tF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-onStarted-operation" class="dashAnchor"></span> <a href="sdk-for-ios-explore-protocols-offlinesearchindexlistener#sdk-for-ios-explore-s-7heresdk26OfflineSearchIndexListenerP9onStarted9operationyAA0bcD0C9OperationO_tF" class="token"><code>onStarted(operation:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -60,12 +60,14 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  func onStarted ( operation : OfflineSearchIndex . Operation )
+  func onStarted(operation: OfflineSearchIndex.Operation)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-offlinesearchindex">OfflineSearchIndex</a>
 
   </div>
 
@@ -96,7 +98,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      onProgress(percentage: )
+   <span id="sdk-for-ios-explore-s-7heresdk26OfflineSearchIndexListenerP10onProgress10percentageys5Int32V_tF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-onProgress-percentage" class="dashAnchor"></span> <a href="sdk-for-ios-explore-protocols-offlinesearchindexlistener#sdk-for-ios-explore-s-7heresdk26OfflineSearchIndexListenerP10onProgress10percentageys5Int32V_tF" class="token"><code>onProgress(percentage:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -127,10 +129,8 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  func onProgress ( percentage : Int32 )
+  func onProgress(percentage: Int32)
   ```
-
-  </pre>
 
   </div>
 
@@ -163,7 +163,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 
 - <div>
 
-      onComplete(error: )
+   <span id="sdk-for-ios-explore-s-7heresdk26OfflineSearchIndexListenerP10onComplete5erroryAA0bcD0C5ErrorOSg_tF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-onComplete-error" class="dashAnchor"></span> <a href="sdk-for-ios-explore-protocols-offlinesearchindexlistener#sdk-for-ios-explore-s-7heresdk26OfflineSearchIndexListenerP10onComplete5erroryAA0bcD0C5ErrorOSg_tF" class="token"><code>onComplete(error:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -194,12 +194,14 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
   Swift
 
   ``` highlight
-  func onComplete ( error : OfflineSearchIndex . Error ?)
+  func onComplete(error: OfflineSearchIndex.Error?)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-offlinesearchindex">OfflineSearchIndex</a>
 
   </div>
 

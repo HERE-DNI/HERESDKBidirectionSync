@@ -25,7 +25,7 @@ extension Isoline: Hashable
 
 </div>
 
-Represents an isoline polygon around a center point. Any possible route between the center and any point on the edges of the polygon can be travelled within the given range restriction. The edges of the polygon are not guaranteed to be on the road as all reachable road endpoints are smoothened to fit into one polygon shape. This process can be influenced by setting <a href="sdk-for-ios-explore-structs-isolineoptions-calculation#/s:7heresdk14IsolineOptionsV11CalculationV9maxPointss5Int32VSgvp">`IsolineOptions.Calculation.maxPoints`</a>.
+Represents an isoline polygon around a center point. Any possible route between the center and any point on the edges of the polygon can be travelled within the given range restriction. The edges of the polygon are not guaranteed to be on the road as all reachable road endpoints are smoothened to fit into one polygon shape. This process can be influenced by setting <a href="sdk-for-ios-explore-structs-isolineoptions-calculation#sdk-for-ios-explore-s-7heresdk14IsolineOptionsV11CalculationV9maxPointss5Int32VSgvp">`IsolineOptions.Calculation.maxPoints`</a>.
 
 </div>
 
@@ -35,7 +35,7 @@ Represents an isoline polygon around a center point. Any possible route between 
 
 - <div>
 
-      init(rangeType: rangeValue: center: polygons: )
+   <span id="sdk-for-ios-explore-s-7heresdk7IsolineC9rangeType0C5Value6center8polygonsAcA0b5RangeD0O_SdAA21MapMatchedCoordinatesVSayAA10GeoPolygonVGtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-rangeType-rangeValue-center-polygons" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-isoline#sdk-for-ios-explore-s-7heresdk7IsolineC9rangeType0C5Value6center8polygonsAcA0b5RangeD0O_SdAA21MapMatchedCoordinatesVSayAA10GeoPolygonVGtcfc" class="token"><code>init(rangeType:</code><wbr></wbr><code>rangeValue:</code><wbr></wbr><code>center:</code><wbr></wbr><code>polygons:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -53,7 +53,7 @@ Represents an isoline polygon around a center point. Any possible route between 
 
   <div class="abstract">
 
-  Constructs an isoline instance. This instance is provided by the <a href="sdk-for-ios-explore-routing#/s:7heresdk33CalculateIsolineCompletionHandlera">`CalculateIsolineCompletionHandler`</a>.
+  Constructs an isoline instance. This instance is provided by the <a href="sdk-for-ios-explore-routing#sdk-for-ios-explore-s-7heresdk33CalculateIsolineCompletionHandlera">`CalculateIsolineCompletionHandler`</a>.
 
   </div>
 
@@ -66,12 +66,16 @@ Represents an isoline polygon around a center point. Any possible route between 
   Swift
 
   ``` highlight
-  public init ( rangeType : IsolineRangeType , rangeValue : Double , center : MapMatchedCoordinates , polygons : [ GeoPolygon ])
+  public init(rangeType: IsolineRangeType, rangeValue: Double, center: MapMatchedCoordinates, polygons: [GeoPolygon])
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-isolinerangetype">IsolineRangeType</a>
+  - <a href="sdk-for-ios-explore-structs-mapmatchedcoordinates">MapMatchedCoordinates</a>
+  - <a href="sdk-for-ios-explore-structs-geopolygon">GeoPolygon</a>
 
   </div>
 
@@ -123,7 +127,7 @@ Represents an isoline polygon around a center point. Any possible route between 
 
 - <div>
 
-  ` `<span id="/s:7heresdk7IsolineC9rangeTypeAA0b5RangeD0Ovp"></span>` `<span id="//apple_ref/swift/Property/rangeType" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-isoline#/s:7heresdk7IsolineC9rangeTypeAA0b5RangeD0Ovp" class="token"><code>rangeType</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk7IsolineC9rangeTypeAA0b5RangeD0Ovp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-rangeType" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-isoline#sdk-for-ios-explore-s-7heresdk7IsolineC9rangeTypeAA0b5RangeD0Ovp" class="token"><code>rangeType</code></a> 
 
   </div>
 
@@ -159,6 +163,10 @@ Represents an isoline polygon around a center point. Any possible route between 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-isolinerangetype">IsolineRangeType</a>
+
   </div>
 
   </div>
@@ -167,7 +175,7 @@ Represents an isoline polygon around a center point. Any possible route between 
 
 - <div>
 
-  ` `<span id="/s:7heresdk7IsolineC10rangeValueSdvp"></span>` `<span id="//apple_ref/swift/Property/rangeValue" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-isoline#/s:7heresdk7IsolineC10rangeValueSdvp" class="token"><code>rangeValue</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk7IsolineC10rangeValueSdvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-rangeValue" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-isoline#sdk-for-ios-explore-s-7heresdk7IsolineC10rangeValueSdvp" class="token"><code>rangeValue</code></a> 
 
   </div>
 
@@ -211,7 +219,7 @@ Represents an isoline polygon around a center point. Any possible route between 
 
 - <div>
 
-  ` `<span id="/s:7heresdk7IsolineC6centerAA21MapMatchedCoordinatesVvp"></span>` `<span id="//apple_ref/swift/Property/center" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-isoline#/s:7heresdk7IsolineC6centerAA21MapMatchedCoordinatesVvp" class="token"><code>center</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk7IsolineC6centerAA21MapMatchedCoordinatesVvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-center" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-isoline#sdk-for-ios-explore-s-7heresdk7IsolineC6centerAA21MapMatchedCoordinatesVvp" class="token"><code>center</code></a> 
 
   </div>
 
@@ -247,6 +255,10 @@ Represents an isoline polygon around a center point. Any possible route between 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-mapmatchedcoordinates">MapMatchedCoordinates</a>
+
   </div>
 
   </div>
@@ -255,7 +267,7 @@ Represents an isoline polygon around a center point. Any possible route between 
 
 - <div>
 
-  ` `<span id="/s:7heresdk7IsolineC8polygonsSayAA10GeoPolygonVGvp"></span>` `<span id="//apple_ref/swift/Property/polygons" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-isoline#/s:7heresdk7IsolineC8polygonsSayAA10GeoPolygonVGvp" class="token"><code>polygons</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk7IsolineC8polygonsSayAA10GeoPolygonVGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-polygons" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-isoline#sdk-for-ios-explore-s-7heresdk7IsolineC8polygonsSayAA10GeoPolygonVGvp" class="token"><code>polygons</code></a> 
 
   </div>
 
@@ -290,6 +302,10 @@ Represents an isoline polygon around a center point. Any possible route between 
   ```
 
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geopolygon">GeoPolygon</a>
 
   </div>
 

@@ -29,7 +29,7 @@ Effective far plane is computed from both parameters as: farPlaneInMeters = max(
 
 - <div>
 
-  ` `<span id="/s:7heresdk9MapCameraC21FarPlaneConfigurationV14distanceFactorSdvp"></span>` `<span id="//apple_ref/swift/Property/distanceFactor" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapcamera-farplaneconfiguration#/s:7heresdk9MapCameraC21FarPlaneConfigurationV14distanceFactorSdvp" class="token"><code>distanceFactor</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9MapCameraC21FarPlaneConfigurationV14distanceFactorSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-distanceFactor" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapcamera-farplaneconfiguration#sdk-for-ios-navigate-s-7heresdk9MapCameraC21FarPlaneConfigurationV14distanceFactorSdvp" class="token"><code>distanceFactor</code></a> 
 
   </div>
 
@@ -73,7 +73,7 @@ Effective far plane is computed from both parameters as: farPlaneInMeters = max(
 
 - <div>
 
-  ` `<span id="/s:7heresdk9MapCameraC21FarPlaneConfigurationV19minDistanceInMetersSdvp"></span>` `<span id="//apple_ref/swift/Property/minDistanceInMeters" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapcamera-farplaneconfiguration#/s:7heresdk9MapCameraC21FarPlaneConfigurationV19minDistanceInMetersSdvp" class="token"><code>minDistanceInMeters</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9MapCameraC21FarPlaneConfigurationV19minDistanceInMetersSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-minDistanceInMeters" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapcamera-farplaneconfiguration#sdk-for-ios-navigate-s-7heresdk9MapCameraC21FarPlaneConfigurationV19minDistanceInMetersSdvp" class="token"><code>minDistanceInMeters</code></a> 
 
   </div>
 
@@ -117,7 +117,7 @@ Effective far plane is computed from both parameters as: farPlaneInMeters = max(
 
 - <div>
 
-      init(distanceFactor: minDistanceInMeters: )
+   <span id="sdk-for-ios-navigate-s-7heresdk9MapCameraC21FarPlaneConfigurationV14distanceFactor19minDistanceInMetersAESd_Sdtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-distanceFactor-minDistanceInMeters" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapcamera-farplaneconfiguration#sdk-for-ios-navigate-s-7heresdk9MapCameraC21FarPlaneConfigurationV14distanceFactor19minDistanceInMetersAESd_Sdtcfc" class="token"><code>init(distanceFactor:</code><wbr></wbr><code>minDistanceInMeters:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -148,10 +148,8 @@ Effective far plane is computed from both parameters as: farPlaneInMeters = max(
   Swift
 
   ``` highlight
-  public init ( distanceFactor : Double , minDistanceInMeters : Double )
+  public init(distanceFactor: Double, minDistanceInMeters: Double)
   ```
-
-  </pre>
 
   </div>
 

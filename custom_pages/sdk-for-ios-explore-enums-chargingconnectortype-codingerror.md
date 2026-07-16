@@ -27,7 +27,7 @@ The error which is thrown if initialisation with decoder has failed
 
 - <div>
 
-  ` `<span id="/s:7heresdk21ChargingConnectorTypeO11CodingErrorO12unknownValueyA2EmF"></span>` `<span id="//apple_ref/swift/Element/unknownValue" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-chargingconnectortype-codingerror#/s:7heresdk21ChargingConnectorTypeO11CodingErrorO12unknownValueyA2EmF" class="token"><code>unknownValue</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk21ChargingConnectorTypeO11CodingErrorO12unknownValueyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-unknownValue" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-chargingconnectortype-codingerror#sdk-for-ios-explore-s-7heresdk21ChargingConnectorTypeO11CodingErrorO12unknownValueyA2EmF" class="token"><code>unknownValue</code></a> 
 
   </div>
 

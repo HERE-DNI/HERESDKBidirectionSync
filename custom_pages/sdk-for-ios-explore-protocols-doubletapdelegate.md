@@ -27,7 +27,7 @@ Protocol for handling double tap gestures. Double-tap gesture occurs after doubl
 
 - <div>
 
-      onDoubleTap(origin: )
+   <span id="sdk-for-ios-explore-s-7heresdk17DoubleTapDelegateP02onbC06originyAA7Point2DV_tF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-onDoubleTap-origin" class="dashAnchor"></span> <a href="sdk-for-ios-explore-protocols-doubletapdelegate#sdk-for-ios-explore-s-7heresdk17DoubleTapDelegateP02onbC06originyAA7Point2DV_tF" class="token"><code>onDoubleTap(origin:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -58,12 +58,14 @@ Protocol for handling double tap gestures. Double-tap gesture occurs after doubl
   Swift
 
   ``` highlight
-  func onDoubleTap ( origin : Point2D )
+  func onDoubleTap(origin: Point2D)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-point2d">Point2D</a>
 
   </div>
 

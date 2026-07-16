@@ -27,7 +27,7 @@ Defines the type of a weight restriction.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21WeightRestrictionTypeO05truckB0yA2CmF"></span>` `<span id="//apple_ref/swift/Element/truckWeight" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-weightrestrictiontype#/s:7heresdk21WeightRestrictionTypeO05truckB0yA2CmF" class="token"><code>truckWeight</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk21WeightRestrictionTypeO05truckB0yA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-truckWeight" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-weightrestrictiontype#sdk-for-ios-explore-s-7heresdk21WeightRestrictionTypeO05truckB0yA2CmF" class="token"><code>truckWeight</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Defines the type of a weight restriction.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21WeightRestrictionTypeO13weightPerAxleyA2CmF"></span>` `<span id="//apple_ref/swift/Element/weightPerAxle" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-weightrestrictiontype#/s:7heresdk21WeightRestrictionTypeO13weightPerAxleyA2CmF" class="token"><code>weightPerAxle</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk21WeightRestrictionTypeO13weightPerAxleyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-weightPerAxle" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-weightrestrictiontype#sdk-for-ios-explore-s-7heresdk21WeightRestrictionTypeO13weightPerAxleyA2CmF" class="token"><code>weightPerAxle</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Defines the type of a weight restriction.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21WeightRestrictionTypeO15payloadCapacityyA2CmF"></span>` `<span id="//apple_ref/swift/Element/payloadCapacity" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-weightrestrictiontype#/s:7heresdk21WeightRestrictionTypeO15payloadCapacityyA2CmF" class="token"><code>payloadCapacity</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk21WeightRestrictionTypeO15payloadCapacityyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-payloadCapacity" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-weightrestrictiontype#sdk-for-ios-explore-s-7heresdk21WeightRestrictionTypeO15payloadCapacityyA2CmF" class="token"><code>payloadCapacity</code></a> 
 
   </div>
 

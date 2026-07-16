@@ -27,7 +27,7 @@ A struct that provides low speed zone. The main field describing the low speed z
 
 - <div>
 
-  ` `<span id="/s:7heresdk19LowSpeedZoneWarningV2ids5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/id" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-lowspeedzonewarning#/s:7heresdk19LowSpeedZoneWarningV2ids5Int32Vvp" class="token"><code>id</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19LowSpeedZoneWarningV2ids5Int32Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-id" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-lowspeedzonewarning#sdk-for-ios-navigate-s-7heresdk19LowSpeedZoneWarningV2ids5Int32Vvp" class="token"><code>id</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ A struct that provides low speed zone. The main field describing the low speed z
 
 - <div>
 
-  ` `<span id="/s:7heresdk19LowSpeedZoneWarningV010distanceTobcD8InMetersSdvp"></span>` `<span id="//apple_ref/swift/Property/distanceToLowSpeedZoneInMeters" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-lowspeedzonewarning#/s:7heresdk19LowSpeedZoneWarningV010distanceTobcD8InMetersSdvp" class="token"><code>distanceToLowSpeedZoneInMeters</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19LowSpeedZoneWarningV010distanceTobcD8InMetersSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-distanceToLowSpeedZoneInMeters" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-lowspeedzonewarning#sdk-for-ios-navigate-s-7heresdk19LowSpeedZoneWarningV010distanceTobcD8InMetersSdvp" class="token"><code>distanceToLowSpeedZoneInMeters</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ A struct that provides low speed zone. The main field describing the low speed z
 
 - <div>
 
-  ` `<span id="/s:7heresdk19LowSpeedZoneWarningV27speedLimitInMetersPerSecondSdvp"></span>` `<span id="//apple_ref/swift/Property/speedLimitInMetersPerSecond" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-lowspeedzonewarning#/s:7heresdk19LowSpeedZoneWarningV27speedLimitInMetersPerSecondSdvp" class="token"><code>speedLimitInMetersPerSecond</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19LowSpeedZoneWarningV27speedLimitInMetersPerSecondSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-speedLimitInMetersPerSecond" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-lowspeedzonewarning#sdk-for-ios-navigate-s-7heresdk19LowSpeedZoneWarningV27speedLimitInMetersPerSecondSdvp" class="token"><code>speedLimitInMetersPerSecond</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ A struct that provides low speed zone. The main field describing the low speed z
 
 - <div>
 
-  ` `<span id="/s:7heresdk19LowSpeedZoneWarningV12distanceTypeAA08DistanceG0Ovp"></span>` `<span id="//apple_ref/swift/Property/distanceType" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-lowspeedzonewarning#/s:7heresdk19LowSpeedZoneWarningV12distanceTypeAA08DistanceG0Ovp" class="token"><code>distanceType</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19LowSpeedZoneWarningV12distanceTypeAA08DistanceG0Ovp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-distanceType" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-lowspeedzonewarning#sdk-for-ios-navigate-s-7heresdk19LowSpeedZoneWarningV12distanceTypeAA08DistanceG0Ovp" class="token"><code>distanceType</code></a> 
 
   </div>
 
@@ -195,6 +195,10 @@ A struct that provides low speed zone. The main field describing the low speed z
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-distancetype">DistanceType</a>
+
   </div>
 
   </div>
@@ -203,7 +207,7 @@ A struct that provides low speed zone. The main field describing the low speed z
 
 - <div>
 
-  ` `<span id="/s:7heresdk19LowSpeedZoneWarningV16segmentReferenceAA07SegmentG0Vvp"></span>` `<span id="//apple_ref/swift/Property/segmentReference" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-lowspeedzonewarning#/s:7heresdk19LowSpeedZoneWarningV16segmentReferenceAA07SegmentG0Vvp" class="token"><code>segmentReference</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk19LowSpeedZoneWarningV16segmentReferenceAA07SegmentG0Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-segmentReference" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-lowspeedzonewarning#sdk-for-ios-navigate-s-7heresdk19LowSpeedZoneWarningV16segmentReferenceAA07SegmentG0Vvp" class="token"><code>segmentReference</code></a> 
 
   </div>
 
@@ -239,6 +243,10 @@ A struct that provides low speed zone. The main field describing the low speed z
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-segmentreference">SegmentReference</a>
+
   </div>
 
   </div>
@@ -247,7 +255,7 @@ A struct that provides low speed zone. The main field describing the low speed z
 
 - <div>
 
-      init(id: distanceToLowSpeedZoneInMeters: speedLimitInMetersPerSecond: distanceType: segmentReference: )
+   <span id="sdk-for-ios-navigate-s-7heresdk19LowSpeedZoneWarningV2id010distanceTobcD8InMeters010speedLimitiJ9PerSecond0G4Type16segmentReferenceACs5Int32V_S2dAA08DistanceO0OAA07SegmentQ0Vtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-id-distanceToLowSpeedZoneInMeters-speedLimitInMetersPerSecond-distanceType-segmentReference" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-lowspeedzonewarning#sdk-for-ios-navigate-s-7heresdk19LowSpeedZoneWarningV2id010distanceTobcD8InMeters010speedLimitiJ9PerSecond0G4Type16segmentReferenceACs5Int32V_S2dAA08DistanceO0OAA07SegmentQ0Vtcfc" class="token"><code>init(id:</code><wbr></wbr><code>distanceToLowSpeedZoneInMeters:</code><wbr></wbr><code>speedLimitInMetersPerSecond:</code><wbr></wbr><code>distanceType:</code><wbr></wbr><code>segmentReference:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -278,12 +286,15 @@ A struct that provides low speed zone. The main field describing the low speed z
   Swift
 
   ``` highlight
-  public init ( id : Int32 = 0 , distanceToLowSpeedZoneInMeters : Double , speedLimitInMetersPerSecond : Double , distanceType : DistanceType , segmentReference : SegmentReference )
+  public init(id: Int32 = 0, distanceToLowSpeedZoneInMeters: Double, speedLimitInMetersPerSecond: Double, distanceType: DistanceType, segmentReference: SegmentReference)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-distancetype">DistanceType</a>
+  - <a href="sdk-for-ios-navigate-structs-segmentreference">SegmentReference</a>
 
   </div>
 

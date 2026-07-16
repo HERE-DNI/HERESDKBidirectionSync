@@ -29,7 +29,7 @@ When a timeout is triggered, the next connection attempt starts with a increased
 
 - <div>
 
-  ` `<span id="/s:7heresdk25RoutingConnectionSettingsV07initialC7TimeoutSdvp"></span>` `<span id="//apple_ref/swift/Property/initialConnectionTimeout" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-routingconnectionsettings#/s:7heresdk25RoutingConnectionSettingsV07initialC7TimeoutSdvp" class="token"><code>initialConnectionTimeout</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk25RoutingConnectionSettingsV07initialC7TimeoutSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-initialConnectionTimeout" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-routingconnectionsettings#sdk-for-ios-navigate-s-7heresdk25RoutingConnectionSettingsV07initialC7TimeoutSdvp" class="token"><code>initialConnectionTimeout</code></a> 
 
   </div>
 
@@ -73,7 +73,7 @@ When a timeout is triggered, the next connection attempt starts with a increased
 
 - <div>
 
-  ` `<span id="/s:7heresdk25RoutingConnectionSettingsV30connectionTimeoutRetryIncreaseSdvp"></span>` `<span id="//apple_ref/swift/Property/connectionTimeoutRetryIncrease" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-routingconnectionsettings#/s:7heresdk25RoutingConnectionSettingsV30connectionTimeoutRetryIncreaseSdvp" class="token"><code>connectionTimeoutRetryIncrease</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk25RoutingConnectionSettingsV30connectionTimeoutRetryIncreaseSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-connectionTimeoutRetryIncrease" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-routingconnectionsettings#sdk-for-ios-navigate-s-7heresdk25RoutingConnectionSettingsV30connectionTimeoutRetryIncreaseSdvp" class="token"><code>connectionTimeoutRetryIncrease</code></a> 
 
   </div>
 
@@ -117,7 +117,7 @@ When a timeout is triggered, the next connection attempt starts with a increased
 
 - <div>
 
-  ` `<span id="/s:7heresdk25RoutingConnectionSettingsV22initialTransferTimeoutSdvp"></span>` `<span id="//apple_ref/swift/Property/initialTransferTimeout" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-routingconnectionsettings#/s:7heresdk25RoutingConnectionSettingsV22initialTransferTimeoutSdvp" class="token"><code>initialTransferTimeout</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk25RoutingConnectionSettingsV22initialTransferTimeoutSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-initialTransferTimeout" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-routingconnectionsettings#sdk-for-ios-navigate-s-7heresdk25RoutingConnectionSettingsV22initialTransferTimeoutSdvp" class="token"><code>initialTransferTimeout</code></a> 
 
   </div>
 
@@ -161,7 +161,7 @@ When a timeout is triggered, the next connection attempt starts with a increased
 
 - <div>
 
-  ` `<span id="/s:7heresdk25RoutingConnectionSettingsV28transferTimeoutRetryIncreaseSdvp"></span>` `<span id="//apple_ref/swift/Property/transferTimeoutRetryIncrease" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-routingconnectionsettings#/s:7heresdk25RoutingConnectionSettingsV28transferTimeoutRetryIncreaseSdvp" class="token"><code>transferTimeoutRetryIncrease</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk25RoutingConnectionSettingsV28transferTimeoutRetryIncreaseSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-transferTimeoutRetryIncrease" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-routingconnectionsettings#sdk-for-ios-navigate-s-7heresdk25RoutingConnectionSettingsV28transferTimeoutRetryIncreaseSdvp" class="token"><code>transferTimeoutRetryIncrease</code></a> 
 
   </div>
 
@@ -205,7 +205,7 @@ When a timeout is triggered, the next connection attempt starts with a increased
 
 - <div>
 
-  ` `<span id="/s:7heresdk25RoutingConnectionSettingsV13maxRetryCounts5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/maxRetryCount" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-routingconnectionsettings#/s:7heresdk25RoutingConnectionSettingsV13maxRetryCounts5Int32Vvp" class="token"><code>maxRetryCount</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk25RoutingConnectionSettingsV13maxRetryCounts5Int32Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-maxRetryCount" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-routingconnectionsettings#sdk-for-ios-navigate-s-7heresdk25RoutingConnectionSettingsV13maxRetryCounts5Int32Vvp" class="token"><code>maxRetryCount</code></a> 
 
   </div>
 
@@ -249,7 +249,7 @@ When a timeout is triggered, the next connection attempt starts with a increased
 
 - <div>
 
-      init(initialConnectionTimeout: connectionTimeoutRetryIncrease: initialTransferTimeout: transferTimeoutRetryIncrease: maxRetryCount: )
+   <span id="sdk-for-ios-navigate-s-7heresdk25RoutingConnectionSettingsV07initialC7Timeout010connectionF13RetryIncrease0e8TransferF008transferfhI003maxH5CountACSd_S3ds5Int32Vtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-initialConnectionTimeout-connectionTimeoutRetryIncrease-initialTransferTimeout-transferTimeoutRetryIncrease-maxRetryCount" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-routingconnectionsettings#sdk-for-ios-navigate-s-7heresdk25RoutingConnectionSettingsV07initialC7Timeout010connectionF13RetryIncrease0e8TransferF008transferfhI003maxH5CountACSd_S3ds5Int32Vtcfc" class="token"><code>init(initialConnectionTimeout:</code><wbr></wbr><code>connectionTimeoutRetryIncrease:</code><wbr></wbr><code>initialTransferTimeout:</code><wbr></wbr><code>transferTimeoutRetryIncrease:</code><wbr></wbr><code>maxRetryCount:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -280,10 +280,8 @@ When a timeout is triggered, the next connection attempt starts with a increased
   Swift
 
   ``` highlight
-  public init ( initialConnectionTimeout : TimeInterval = 5 , connectionTimeoutRetryIncrease : TimeInterval = 10 , initialTransferTimeout : TimeInterval = 10 , transferTimeoutRetryIncrease : TimeInterval = 2 , maxRetryCount : Int32 = 3 )
+  public init(initialConnectionTimeout: TimeInterval = 5, connectionTimeoutRetryIncrease: TimeInterval = 10, initialTransferTimeout: TimeInterval = 10, transferTimeoutRetryIncrease: TimeInterval = 2, maxRetryCount: Int32 = 3)
   ```
-
-  </pre>
 
   </div>
 

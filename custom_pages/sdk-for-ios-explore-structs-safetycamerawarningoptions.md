@@ -27,7 +27,7 @@ Safety camera warning options. Set the options in order to enable them.
 
 - <div>
 
-  ` `<span id="/s:7heresdk26SafetyCameraWarningOptionsV22enableTextNotificationSbvp"></span>` `<span id="//apple_ref/swift/Property/enableTextNotification" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-safetycamerawarningoptions#/s:7heresdk26SafetyCameraWarningOptionsV22enableTextNotificationSbvp" class="token"><code>enableTextNotification</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk26SafetyCameraWarningOptionsV22enableTextNotificationSbvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-enableTextNotification" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-safetycamerawarningoptions#sdk-for-ios-explore-s-7heresdk26SafetyCameraWarningOptionsV22enableTextNotificationSbvp" class="token"><code>enableTextNotification</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Safety camera warning options. Set the options in order to enable them.
 
 - <div>
 
-      init(enableTextNotification: )
+   <span id="sdk-for-ios-explore-s-7heresdk26SafetyCameraWarningOptionsV22enableTextNotificationACSb_tcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-enableTextNotification" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-safetycamerawarningoptions#sdk-for-ios-explore-s-7heresdk26SafetyCameraWarningOptionsV22enableTextNotificationACSb_tcfc" class="token"><code>init(enableTextNotification:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -102,10 +102,8 @@ Safety camera warning options. Set the options in order to enable them.
   Swift
 
   ``` highlight
-  public init ( enableTextNotification : Bool = true )
+  public init(enableTextNotification: Bool = true)
   ```
-
-  </pre>
 
   </div>
 

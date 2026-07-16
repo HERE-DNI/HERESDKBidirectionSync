@@ -27,7 +27,7 @@ Represents danger zones. A danger zone refers to areas where there is an increas
 
 - <div>
 
-  ` `<span id="/s:7heresdk17DangerZoneWarningV2ids5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/id" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-dangerzonewarning#/s:7heresdk17DangerZoneWarningV2ids5Int32Vvp" class="token"><code>id</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk17DangerZoneWarningV2ids5Int32Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-id" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-dangerzonewarning#sdk-for-ios-navigate-s-7heresdk17DangerZoneWarningV2ids5Int32Vvp" class="token"><code>id</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Represents danger zones. A danger zone refers to areas where there is an increas
 
 - <div>
 
-  ` `<span id="/s:7heresdk17DangerZoneWarningV02isC5StartSbvp"></span>` `<span id="//apple_ref/swift/Property/isZoneStart" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-dangerzonewarning#/s:7heresdk17DangerZoneWarningV02isC5StartSbvp" class="token"><code>isZoneStart</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk17DangerZoneWarningV02isC5StartSbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-isZoneStart" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-dangerzonewarning#sdk-for-ios-navigate-s-7heresdk17DangerZoneWarningV02isC5StartSbvp" class="token"><code>isZoneStart</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Represents danger zones. A danger zone refers to areas where there is an increas
 
 - <div>
 
-  ` `<span id="/s:7heresdk17DangerZoneWarningV16distanceInMetersSdvp"></span>` `<span id="//apple_ref/swift/Property/distanceInMeters" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-dangerzonewarning#/s:7heresdk17DangerZoneWarningV16distanceInMetersSdvp" class="token"><code>distanceInMeters</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk17DangerZoneWarningV16distanceInMetersSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-distanceInMeters" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-dangerzonewarning#sdk-for-ios-navigate-s-7heresdk17DangerZoneWarningV16distanceInMetersSdvp" class="token"><code>distanceInMeters</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Represents danger zones. A danger zone refers to areas where there is an increas
 
 - <div>
 
-  ` `<span id="/s:7heresdk17DangerZoneWarningV12distanceTypeAA08DistanceF0Ovp"></span>` `<span id="//apple_ref/swift/Property/distanceType" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-dangerzonewarning#/s:7heresdk17DangerZoneWarningV12distanceTypeAA08DistanceF0Ovp" class="token"><code>distanceType</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk17DangerZoneWarningV12distanceTypeAA08DistanceF0Ovp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-distanceType" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-dangerzonewarning#sdk-for-ios-navigate-s-7heresdk17DangerZoneWarningV12distanceTypeAA08DistanceF0Ovp" class="token"><code>distanceType</code></a> 
 
   </div>
 
@@ -177,7 +177,7 @@ Represents danger zones. A danger zone refers to areas where there is an increas
 
   <div class="abstract">
 
-  Indicates if the specified zone is ahead of the vehicle or has just passed by. If it is ahead, then <a href="sdk-for-ios-navigate-structs-dangerzonewarning#/s:7heresdk17DangerZoneWarningV16distanceInMetersSdvp">`DangerZoneWarning.distanceInMeters`</a> is greater than 0.
+  Indicates if the specified zone is ahead of the vehicle or has just passed by. If it is ahead, then <a href="sdk-for-ios-navigate-structs-dangerzonewarning#sdk-for-ios-navigate-s-7heresdk17DangerZoneWarningV16distanceInMetersSdvp">`DangerZoneWarning.distanceInMeters`</a> is greater than 0.
 
   </div>
 
@@ -195,6 +195,10 @@ Represents danger zones. A danger zone refers to areas where there is an increas
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-distancetype">DistanceType</a>
+
   </div>
 
   </div>
@@ -203,7 +207,7 @@ Represents danger zones. A danger zone refers to areas where there is an increas
 
 - <div>
 
-      init(id: isZoneStart: distanceInMeters: distanceType: )
+   <span id="sdk-for-ios-navigate-s-7heresdk17DangerZoneWarningV2id02isC5Start16distanceInMeters0H4TypeACs5Int32V_SbSdAA08DistanceK0Otcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-id-isZoneStart-distanceInMeters-distanceType" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-dangerzonewarning#sdk-for-ios-navigate-s-7heresdk17DangerZoneWarningV2id02isC5Start16distanceInMeters0H4TypeACs5Int32V_SbSdAA08DistanceK0Otcfc" class="token"><code>init(id:</code><wbr></wbr><code>isZoneStart:</code><wbr></wbr><code>distanceInMeters:</code><wbr></wbr><code>distanceType:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -234,12 +238,14 @@ Represents danger zones. A danger zone refers to areas where there is an increas
   Swift
 
   ``` highlight
-  public init ( id : Int32 = 0 , isZoneStart : Bool , distanceInMeters : Double , distanceType : DistanceType )
+  public init(id: Int32 = 0, isZoneStart: Bool, distanceInMeters: Double, distanceType: DistanceType)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-distancetype">DistanceType</a>
 
   </div>
 

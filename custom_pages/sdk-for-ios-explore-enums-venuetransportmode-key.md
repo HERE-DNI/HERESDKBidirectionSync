@@ -27,7 +27,7 @@ A type that can be used as a key for encoding and decoding.
 
 - <div>
 
-  ` `<span id="/s:7heresdk18VenueTransportModeO3KeyO8rawValueyA2EmF"></span>` `<span id="//apple_ref/swift/Element/rawValue" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-venuetransportmode-key#/s:7heresdk18VenueTransportModeO3KeyO8rawValueyA2EmF" class="token"><code>rawValue</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18VenueTransportModeO3KeyO8rawValueyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-rawValue" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-venuetransportmode-key#sdk-for-ios-explore-s-7heresdk18VenueTransportModeO3KeyO8rawValueyA2EmF" class="token"><code>rawValue</code></a> 
 
   </div>
 

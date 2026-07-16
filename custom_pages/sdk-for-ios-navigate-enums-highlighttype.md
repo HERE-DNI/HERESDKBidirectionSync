@@ -27,7 +27,7 @@ Specifies members of Suggestion class to which input query can be matched.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13HighlightTypeO5titleyA2CmF"></span>` `<span id="//apple_ref/swift/Element/title" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-highlighttype#/s:7heresdk13HighlightTypeO5titleyA2CmF" class="token"><code>title</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13HighlightTypeO5titleyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-title" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-highlighttype#sdk-for-ios-navigate-s-7heresdk13HighlightTypeO5titleyA2CmF" class="token"><code>title</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Specifies members of Suggestion class to which input query can be matched.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13HighlightTypeO12addressLabelyA2CmF"></span>` `<span id="//apple_ref/swift/Element/addressLabel" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-highlighttype#/s:7heresdk13HighlightTypeO12addressLabelyA2CmF" class="token"><code>addressLabel</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13HighlightTypeO12addressLabelyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-addressLabel" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-highlighttype#sdk-for-ios-navigate-s-7heresdk13HighlightTypeO12addressLabelyA2CmF" class="token"><code>addressLabel</code></a> 
 
   </div>
 

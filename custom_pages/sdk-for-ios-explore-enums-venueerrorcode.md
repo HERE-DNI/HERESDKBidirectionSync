@@ -31,7 +31,7 @@ Specifies possible errors that may occur during loading of indoor maps
 
 - <div>
 
-  ` `<span id="/s:7heresdk14VenueErrorCodeO9noNetworkyA2CmF"></span>` `<span id="//apple_ref/swift/Element/noNetwork" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-venueerrorcode#/s:7heresdk14VenueErrorCodeO9noNetworkyA2CmF" class="token"><code>noNetwork</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14VenueErrorCodeO9noNetworkyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-noNetwork" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-venueerrorcode#sdk-for-ios-explore-s-7heresdk14VenueErrorCodeO9noNetworkyA2CmF" class="token"><code>noNetwork</code></a> 
 
   </div>
 
@@ -75,7 +75,7 @@ Specifies possible errors that may occur during loading of indoor maps
 
 - <div>
 
-  ` `<span id="/s:7heresdk14VenueErrorCodeO15noMetaDataFoundyA2CmF"></span>` `<span id="//apple_ref/swift/Element/noMetaDataFound" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-venueerrorcode#/s:7heresdk14VenueErrorCodeO15noMetaDataFoundyA2CmF" class="token"><code>noMetaDataFound</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14VenueErrorCodeO15noMetaDataFoundyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-noMetaDataFound" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-venueerrorcode#sdk-for-ios-explore-s-7heresdk14VenueErrorCodeO15noMetaDataFoundyA2CmF" class="token"><code>noMetaDataFound</code></a> 
 
   </div>
 
@@ -119,7 +119,7 @@ Specifies possible errors that may occur during loading of indoor maps
 
 - <div>
 
-  ` `<span id="/s:7heresdk14VenueErrorCodeO10hrnMissingyA2CmF"></span>` `<span id="//apple_ref/swift/Element/hrnMissing" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-venueerrorcode#/s:7heresdk14VenueErrorCodeO10hrnMissingyA2CmF" class="token"><code>hrnMissing</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14VenueErrorCodeO10hrnMissingyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-hrnMissing" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-venueerrorcode#sdk-for-ios-explore-s-7heresdk14VenueErrorCodeO10hrnMissingyA2CmF" class="token"><code>hrnMissing</code></a> 
 
   </div>
 
@@ -163,7 +163,7 @@ Specifies possible errors that may occur during loading of indoor maps
 
 - <div>
 
-  ` `<span id="/s:7heresdk14VenueErrorCodeO11hrnMismatchyA2CmF"></span>` `<span id="//apple_ref/swift/Element/hrnMismatch" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-venueerrorcode#/s:7heresdk14VenueErrorCodeO11hrnMismatchyA2CmF" class="token"><code>hrnMismatch</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14VenueErrorCodeO11hrnMismatchyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-hrnMismatch" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-venueerrorcode#sdk-for-ios-explore-s-7heresdk14VenueErrorCodeO11hrnMismatchyA2CmF" class="token"><code>hrnMismatch</code></a> 
 
   </div>
 
@@ -207,7 +207,7 @@ Specifies possible errors that may occur during loading of indoor maps
 
 - <div>
 
-  ` `<span id="/s:7heresdk14VenueErrorCodeO19noDefaultCollectionyA2CmF"></span>` `<span id="//apple_ref/swift/Element/noDefaultCollection" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-venueerrorcode#/s:7heresdk14VenueErrorCodeO19noDefaultCollectionyA2CmF" class="token"><code>noDefaultCollection</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14VenueErrorCodeO19noDefaultCollectionyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-noDefaultCollection" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-venueerrorcode#sdk-for-ios-explore-s-7heresdk14VenueErrorCodeO19noDefaultCollectionyA2CmF" class="token"><code>noDefaultCollection</code></a> 
 
   </div>
 
@@ -251,7 +251,7 @@ Specifies possible errors that may occur during loading of indoor maps
 
 - <div>
 
-  ` `<span id="/s:7heresdk14VenueErrorCodeO13mapIdNotFoundyA2CmF"></span>` `<span id="//apple_ref/swift/Element/mapIdNotFound" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-venueerrorcode#/s:7heresdk14VenueErrorCodeO13mapIdNotFoundyA2CmF" class="token"><code>mapIdNotFound</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14VenueErrorCodeO13mapIdNotFoundyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-mapIdNotFound" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-venueerrorcode#sdk-for-ios-explore-s-7heresdk14VenueErrorCodeO13mapIdNotFoundyA2CmF" class="token"><code>mapIdNotFound</code></a> 
 
   </div>
 
@@ -295,7 +295,7 @@ Specifies possible errors that may occur during loading of indoor maps
 
 - <div>
 
-  ` `<span id="/s:7heresdk14VenueErrorCodeO16mapDataIncorrectyA2CmF"></span>` `<span id="//apple_ref/swift/Element/mapDataIncorrect" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-venueerrorcode#/s:7heresdk14VenueErrorCodeO16mapDataIncorrectyA2CmF" class="token"><code>mapDataIncorrect</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14VenueErrorCodeO16mapDataIncorrectyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-mapDataIncorrect" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-venueerrorcode#sdk-for-ios-explore-s-7heresdk14VenueErrorCodeO16mapDataIncorrectyA2CmF" class="token"><code>mapDataIncorrect</code></a> 
 
   </div>
 
@@ -339,7 +339,7 @@ Specifies possible errors that may occur during loading of indoor maps
 
 - <div>
 
-  ` `<span id="/s:7heresdk14VenueErrorCodeO17noMapInCollectionyA2CmF"></span>` `<span id="//apple_ref/swift/Element/noMapInCollection" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-venueerrorcode#/s:7heresdk14VenueErrorCodeO17noMapInCollectionyA2CmF" class="token"><code>noMapInCollection</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14VenueErrorCodeO17noMapInCollectionyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-noMapInCollection" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-venueerrorcode#sdk-for-ios-explore-s-7heresdk14VenueErrorCodeO17noMapInCollectionyA2CmF" class="token"><code>noMapInCollection</code></a> 
 
   </div>
 
@@ -383,7 +383,7 @@ Specifies possible errors that may occur during loading of indoor maps
 
 - <div>
 
-  ` `<span id="/s:7heresdk14VenueErrorCodeO10badRequestyA2CmF"></span>` `<span id="//apple_ref/swift/Element/badRequest" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-venueerrorcode#/s:7heresdk14VenueErrorCodeO10badRequestyA2CmF" class="token"><code>badRequest</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14VenueErrorCodeO10badRequestyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-badRequest" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-venueerrorcode#sdk-for-ios-explore-s-7heresdk14VenueErrorCodeO10badRequestyA2CmF" class="token"><code>badRequest</code></a> 
 
   </div>
 
@@ -427,7 +427,7 @@ Specifies possible errors that may occur during loading of indoor maps
 
 - <div>
 
-  ` `<span id="/s:7heresdk14VenueErrorCodeO12tokenInvalidyA2CmF"></span>` `<span id="//apple_ref/swift/Element/tokenInvalid" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-venueerrorcode#/s:7heresdk14VenueErrorCodeO12tokenInvalidyA2CmF" class="token"><code>tokenInvalid</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14VenueErrorCodeO12tokenInvalidyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-tokenInvalid" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-venueerrorcode#sdk-for-ios-explore-s-7heresdk14VenueErrorCodeO12tokenInvalidyA2CmF" class="token"><code>tokenInvalid</code></a> 
 
   </div>
 
@@ -471,7 +471,7 @@ Specifies possible errors that may occur during loading of indoor maps
 
 - <div>
 
-  ` `<span id="/s:7heresdk14VenueErrorCodeO8notFoundyA2CmF"></span>` `<span id="//apple_ref/swift/Element/notFound" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-venueerrorcode#/s:7heresdk14VenueErrorCodeO8notFoundyA2CmF" class="token"><code>notFound</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14VenueErrorCodeO8notFoundyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-notFound" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-venueerrorcode#sdk-for-ios-explore-s-7heresdk14VenueErrorCodeO8notFoundyA2CmF" class="token"><code>notFound</code></a> 
 
   </div>
 
@@ -515,7 +515,7 @@ Specifies possible errors that may occur during loading of indoor maps
 
 - <div>
 
-  ` `<span id="/s:7heresdk14VenueErrorCodeO014internalServerC0yA2CmF"></span>` `<span id="//apple_ref/swift/Element/internalServerError" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-venueerrorcode#/s:7heresdk14VenueErrorCodeO014internalServerC0yA2CmF" class="token"><code>internalServerError</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14VenueErrorCodeO014internalServerC0yA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-internalServerError" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-venueerrorcode#sdk-for-ios-explore-s-7heresdk14VenueErrorCodeO014internalServerC0yA2CmF" class="token"><code>internalServerError</code></a> 
 
   </div>
 
@@ -559,7 +559,7 @@ Specifies possible errors that may occur during loading of indoor maps
 
 - <div>
 
-  ` `<span id="/s:7heresdk14VenueErrorCodeO18serviceUnavailableyA2CmF"></span>` `<span id="//apple_ref/swift/Element/serviceUnavailable" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-venueerrorcode#/s:7heresdk14VenueErrorCodeO18serviceUnavailableyA2CmF" class="token"><code>serviceUnavailable</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14VenueErrorCodeO18serviceUnavailableyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-serviceUnavailable" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-venueerrorcode#sdk-for-ios-explore-s-7heresdk14VenueErrorCodeO18serviceUnavailableyA2CmF" class="token"><code>serviceUnavailable</code></a> 
 
   </div>
 
@@ -603,7 +603,7 @@ Specifies possible errors that may occur during loading of indoor maps
 
 - <div>
 
-  ` `<span id="/s:7heresdk14VenueErrorCodeO15payloadTooLargeyA2CmF"></span>` `<span id="//apple_ref/swift/Element/payloadTooLarge" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-venueerrorcode#/s:7heresdk14VenueErrorCodeO15payloadTooLargeyA2CmF" class="token"><code>payloadTooLarge</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14VenueErrorCodeO15payloadTooLargeyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-payloadTooLarge" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-venueerrorcode#sdk-for-ios-explore-s-7heresdk14VenueErrorCodeO15payloadTooLargeyA2CmF" class="token"><code>payloadTooLarge</code></a> 
 
   </div>
 

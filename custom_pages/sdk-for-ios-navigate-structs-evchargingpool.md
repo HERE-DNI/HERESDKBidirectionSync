@@ -19,9 +19,9 @@ public struct EVChargingPool : Hashable
 
 A charging pool for electric vehicles is an area equipped with one or more charging stations.
 
-Use <a href="sdk-for-ios-navigate-classes-placecategory#/s:7heresdk13PlaceCategoryC36businessAndServicesEvChargingStationSSvpZ">`PlaceCategory.businessAndServicesEvChargingStation`</a> to find stations. In the <a href="sdk-for-ios-navigate-structs-details">`Details`</a> of a <a href="sdk-for-ios-navigate-classes-place">`Place`</a> result you can find the list of found pools containing stations, if any.
+Use <a href="sdk-for-ios-navigate-classes-placecategory#sdk-for-ios-navigate-s-7heresdk13PlaceCategoryC36businessAndServicesEvChargingStationSSvpZ">`PlaceCategory.businessAndServicesEvChargingStation`</a> to find stations. In the <a href="sdk-for-ios-navigate-structs-details">`Details`</a> of a <a href="sdk-for-ios-navigate-classes-place">`Place`</a> result you can find the list of found pools containing stations, if any.
 
-For offline EV rich attributes, also enable <a href="sdk-for-ios-navigate-structs-layerconfiguration-feature#/s:7heresdk18LayerConfigurationV7FeatureO2evyA2EmF">`LayerConfiguration.Feature.ev`</a> in <a href="sdk-for-ios-navigate-structs-sdkoptions#/s:7heresdk10SDKOptionsV18layerConfigurationAA05LayerD0Vvp">`SDKOptions.layerConfiguration`</a>.
+For offline EV rich attributes, also enable <a href="sdk-for-ios-navigate-structs-layerconfiguration-feature#sdk-for-ios-navigate-s-7heresdk18LayerConfigurationV7FeatureO2evyA2EmF">`LayerConfiguration.Feature.ev`</a> in <a href="sdk-for-ios-navigate-structs-sdkoptions#sdk-for-ios-navigate-s-7heresdk10SDKOptionsV18layerConfigurationAA05LayerD0Vvp">`SDKOptions.layerConfiguration`</a>.
 
 </div>
 
@@ -31,7 +31,7 @@ For offline EV rich attributes, also enable <a href="sdk-for-ios-navigate-struct
 
 - <div>
 
-  ` `<span id="/s:7heresdk14EVChargingPoolV16chargingStationsSayAA0B7StationVGvp"></span>` `<span id="//apple_ref/swift/Property/chargingStations" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evchargingpool#/s:7heresdk14EVChargingPoolV16chargingStationsSayAA0B7StationVGvp" class="token"><code>chargingStations</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14EVChargingPoolV16chargingStationsSayAA0B7StationVGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-chargingStations" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingpool#sdk-for-ios-navigate-s-7heresdk14EVChargingPoolV16chargingStationsSayAA0B7StationVGvp" class="token"><code>chargingStations</code></a> 
 
   </div>
 
@@ -67,6 +67,10 @@ For offline EV rich attributes, also enable <a href="sdk-for-ios-navigate-struct
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-evchargingstation">EVChargingStation</a>
+
   </div>
 
   </div>
@@ -75,7 +79,7 @@ For offline EV rich attributes, also enable <a href="sdk-for-ios-navigate-struct
 
 - <div>
 
-  ` `<span id="/s:7heresdk14EVChargingPoolV25eMobilityServiceProvidersSayAA09EMobilityE8ProviderVGvp"></span>` `<span id="//apple_ref/swift/Property/eMobilityServiceProviders" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evchargingpool#/s:7heresdk14EVChargingPoolV25eMobilityServiceProvidersSayAA09EMobilityE8ProviderVGvp" class="token"><code>eMobilityServiceProviders</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14EVChargingPoolV25eMobilityServiceProvidersSayAA09EMobilityE8ProviderVGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-eMobilityServiceProviders" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingpool#sdk-for-ios-navigate-s-7heresdk14EVChargingPoolV25eMobilityServiceProvidersSayAA09EMobilityE8ProviderVGvp" class="token"><code>eMobilityServiceProviders</code></a> 
 
   </div>
 
@@ -111,6 +115,10 @@ For offline EV rich attributes, also enable <a href="sdk-for-ios-navigate-struct
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-emobilityserviceprovider">EMobilityServiceProvider</a>
+
   </div>
 
   </div>
@@ -119,7 +127,7 @@ For offline EV rich attributes, also enable <a href="sdk-for-ios-navigate-struct
 
 - <div>
 
-  ` `<span id="/s:7heresdk14EVChargingPoolV6accessAA12EVAccessTypeOSgvp"></span>` `<span id="//apple_ref/swift/Property/access" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evchargingpool#/s:7heresdk14EVChargingPoolV6accessAA12EVAccessTypeOSgvp" class="token"><code>access</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14EVChargingPoolV6accessAA12EVAccessTypeOSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-access" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingpool#sdk-for-ios-navigate-s-7heresdk14EVChargingPoolV6accessAA12EVAccessTypeOSgvp" class="token"><code>access</code></a> 
 
   </div>
 
@@ -155,6 +163,10 @@ For offline EV rich attributes, also enable <a href="sdk-for-ios-navigate-struct
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-evaccesstype">EVAccessType</a>
+
   </div>
 
   </div>
@@ -163,7 +175,7 @@ For offline EV rich attributes, also enable <a href="sdk-for-ios-navigate-struct
 
 - <div>
 
-  ` `<span id="/s:7heresdk14EVChargingPoolV24accessRestrictionReasonsSayAA08EVAccessE6ReasonOGvp"></span>` `<span id="//apple_ref/swift/Property/accessRestrictionReasons" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evchargingpool#/s:7heresdk14EVChargingPoolV24accessRestrictionReasonsSayAA08EVAccessE6ReasonOGvp" class="token"><code>accessRestrictionReasons</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14EVChargingPoolV24accessRestrictionReasonsSayAA08EVAccessE6ReasonOGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-accessRestrictionReasons" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingpool#sdk-for-ios-navigate-s-7heresdk14EVChargingPoolV24accessRestrictionReasonsSayAA08EVAccessE6ReasonOGvp" class="token"><code>accessRestrictionReasons</code></a> 
 
   </div>
 
@@ -181,7 +193,7 @@ For offline EV rich attributes, also enable <a href="sdk-for-ios-navigate-struct
 
   <div class="abstract">
 
-  Contains the list of reasons for restriction. Populated only for offline search and when access is <a href="sdk-for-ios-navigate-enums-evaccesstype#/s:7heresdk12EVAccessTypeO16restrictedAccessyA2CmF">`EVAccessType.restrictedAccess`</a>.
+  Contains the list of reasons for restriction. Populated only for offline search and when access is <a href="sdk-for-ios-navigate-enums-evaccesstype#sdk-for-ios-navigate-s-7heresdk12EVAccessTypeO16restrictedAccessyA2CmF">`EVAccessType.restrictedAccess`</a>.
 
   </div>
 
@@ -199,6 +211,10 @@ For offline EV rich attributes, also enable <a href="sdk-for-ios-navigate-struct
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-evaccessrestrictionreason">EVAccessRestrictionReason</a>
+
   </div>
 
   </div>
@@ -207,7 +223,7 @@ For offline EV rich attributes, also enable <a href="sdk-for-ios-navigate-struct
 
 - <div>
 
-  ` `<span id="/s:7heresdk14EVChargingPoolV7detailsAA0bC7DetailsVSgvp"></span>` `<span id="//apple_ref/swift/Property/details" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evchargingpool#/s:7heresdk14EVChargingPoolV7detailsAA0bC7DetailsVSgvp" class="token"><code>details</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14EVChargingPoolV7detailsAA0bC7DetailsVSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-details" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingpool#sdk-for-ios-navigate-s-7heresdk14EVChargingPoolV7detailsAA0bC7DetailsVSgvp" class="token"><code>details</code></a> 
 
   </div>
 
@@ -245,6 +261,10 @@ For offline EV rich attributes, also enable <a href="sdk-for-ios-navigate-struct
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-evchargingpooldetails">EVChargingPoolDetails</a>
+
   </div>
 
   </div>
@@ -253,7 +273,7 @@ For offline EV rich attributes, also enable <a href="sdk-for-ios-navigate-struct
 
 - <div>
 
-  ` `<span id="/s:7heresdk14EVChargingPoolV2idSSSgvp"></span>` `<span id="//apple_ref/swift/Property/id" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evchargingpool#/s:7heresdk14EVChargingPoolV2idSSSgvp" class="token"><code>id</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14EVChargingPoolV2idSSSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-id" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingpool#sdk-for-ios-navigate-s-7heresdk14EVChargingPoolV2idSSSgvp" class="token"><code>id</code></a> 
 
   </div>
 
@@ -297,7 +317,7 @@ For offline EV rich attributes, also enable <a href="sdk-for-ios-navigate-struct
 
 - <div>
 
-  ` `<span id="/s:7heresdk14EVChargingPoolV5cpoIdSSSgvp"></span>` `<span id="//apple_ref/swift/Property/cpoId" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evchargingpool#/s:7heresdk14EVChargingPoolV5cpoIdSSSgvp" class="token"><code>cpoId</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14EVChargingPoolV5cpoIdSSSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-cpoId" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingpool#sdk-for-ios-navigate-s-7heresdk14EVChargingPoolV5cpoIdSSSgvp" class="token"><code>cpoId</code></a> 
 
   </div>
 
@@ -341,7 +361,7 @@ For offline EV rich attributes, also enable <a href="sdk-for-ios-navigate-struct
 
 - <div>
 
-  ` `<span id="/s:7heresdk14EVChargingPoolV8evseInfoSayAA4EvseVGvp"></span>` `<span id="//apple_ref/swift/Property/evseInfo" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-evchargingpool#/s:7heresdk14EVChargingPoolV8evseInfoSayAA4EvseVGvp" class="token"><code>evseInfo</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14EVChargingPoolV8evseInfoSayAA4EvseVGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-evseInfo" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingpool#sdk-for-ios-navigate-s-7heresdk14EVChargingPoolV8evseInfoSayAA4EvseVGvp" class="token"><code>evseInfo</code></a> 
 
   </div>
 
@@ -377,6 +397,10 @@ For offline EV rich attributes, also enable <a href="sdk-for-ios-navigate-struct
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-evse">Evse</a>
+
   </div>
 
   </div>
@@ -385,7 +409,7 @@ For offline EV rich attributes, also enable <a href="sdk-for-ios-navigate-struct
 
 - <div>
 
-      init(chargingStations: eMobilityServiceProviders: access: accessRestrictionReasons: details: id: cpoId: evseInfo: )
+   <span id="sdk-for-ios-navigate-s-7heresdk14EVChargingPoolV16chargingStations25eMobilityServiceProviders6access0I18RestrictionReasons7details2id5cpoId8evseInfoACSayAA0B7StationVG_SayAA09EMobilityG8ProviderVGAA12EVAccessTypeOSgSayAA0uJ6ReasonOGAA0bC7DetailsVSgSSSgA_SayAA4EvseVGtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-chargingStations-eMobilityServiceProviders-access-accessRestrictionReasons-details-id-cpoId-evseInfo" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-evchargingpool#sdk-for-ios-navigate-s-7heresdk14EVChargingPoolV16chargingStations25eMobilityServiceProviders6access0I18RestrictionReasons7details2id5cpoId8evseInfoACSayAA0B7StationVG_SayAA09EMobilityG8ProviderVGAA12EVAccessTypeOSgSayAA0uJ6ReasonOGAA0bC7DetailsVSgSSSgA_SayAA4EvseVGtcfc" class="token"><code>init(chargingStations:</code><wbr></wbr><code>eMobilityServiceProviders:</code><wbr></wbr><code>access:</code><wbr></wbr><code>accessRestrictionReasons:</code><wbr></wbr><code>details:</code><wbr></wbr><code>id:</code><wbr></wbr><code>cpoId:</code><wbr></wbr><code>evseInfo:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -410,7 +434,7 @@ For offline EV rich attributes, also enable <a href="sdk-for-ios-navigate-struct
     - chargingStations: List of charging stations.
     - eMobilityServiceProviders: List of e-Mobility Service Providers. Only online search fills this field.
     - access: The accessibility level of the charging pool, or `nil` if unknown.
-    - accessRestrictionReasons: Contains the list of reasons for restriction. Populated only for offline search and when access is <a href="sdk-for-ios-navigate-enums-evaccesstype#/s:7heresdk12EVAccessTypeO16restrictedAccessyA2CmF">`EVAccessType.restrictedAccess`</a>.
+    - accessRestrictionReasons: Contains the list of reasons for restriction. Populated only for offline search and when access is <a href="sdk-for-ios-navigate-enums-evaccesstype#sdk-for-ios-navigate-s-7heresdk12EVAccessTypeO16restrictedAccessyA2CmF">`EVAccessType.restrictedAccess`</a>.
     - details: EV charging station attributes details. It is available only for a place that has charging station for electric vehicles. Only offline search fills this field.
 
     **Note:** Not available as part of <a href="sdk-for-ios-navigate-classes-suggestion">`Suggestion`</a> results.
@@ -430,12 +454,19 @@ For offline EV rich attributes, also enable <a href="sdk-for-ios-navigate-struct
   Swift
 
   ``` highlight
-  public init ( chargingStations : [ EVChargingStation ], eMobilityServiceProviders : [ EMobilityServiceProvider ], access : EVAccessType ? = nil , accessRestrictionReasons : [ EVAccessRestrictionReason ], details : EVChargingPoolDetails ? = nil , id : String ? = nil , cpoId : String ? = nil , evseInfo : [ Evse ] = [])
+  public init(chargingStations: [EVChargingStation], eMobilityServiceProviders: [EMobilityServiceProvider], access: EVAccessType? = nil, accessRestrictionReasons: [EVAccessRestrictionReason], details: EVChargingPoolDetails? = nil, id: String? = nil, cpoId: String? = nil, evseInfo: [Evse] = [])
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-evchargingstation">EVChargingStation</a>
+  - <a href="sdk-for-ios-navigate-structs-emobilityserviceprovider">EMobilityServiceProvider</a>
+  - <a href="sdk-for-ios-navigate-enums-evaccesstype">EVAccessType</a>
+  - <a href="sdk-for-ios-navigate-enums-evaccessrestrictionreason">EVAccessRestrictionReason</a>
+  - <a href="sdk-for-ios-navigate-structs-evchargingpooldetails">EVChargingPoolDetails</a>
+  - <a href="sdk-for-ios-navigate-structs-evse">Evse</a>
 
   </div>
 

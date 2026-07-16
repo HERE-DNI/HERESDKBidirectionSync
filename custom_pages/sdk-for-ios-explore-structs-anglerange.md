@@ -27,7 +27,7 @@ Represents angle ranges as a circular sector by using an absolute start angle an
 
 - <div>
 
-  ` `<span id="/s:7heresdk10AngleRangeV5startSdvp"></span>` `<span id="//apple_ref/swift/Property/start" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-anglerange#/s:7heresdk10AngleRangeV5startSdvp" class="token"><code>start</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10AngleRangeV5startSdvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-start" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-anglerange#sdk-for-ios-explore-s-7heresdk10AngleRangeV5startSdvp" class="token"><code>start</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Represents angle ranges as a circular sector by using an absolute start angle an
 
 - <div>
 
-  ` `<span id="/s:7heresdk10AngleRangeV6extentSdvp"></span>` `<span id="//apple_ref/swift/Property/extent" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-anglerange#/s:7heresdk10AngleRangeV6extentSdvp" class="token"><code>extent</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10AngleRangeV6extentSdvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-extent" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-anglerange#sdk-for-ios-explore-s-7heresdk10AngleRangeV6extentSdvp" class="token"><code>extent</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Represents angle ranges as a circular sector by using an absolute start angle an
 
 - <div>
 
-      init(start: extent: )
+   <span id="sdk-for-ios-explore-s-7heresdk10AngleRangeV5start6extentACSd_Sdtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-start-extent" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-anglerange#sdk-for-ios-explore-s-7heresdk10AngleRangeV5start6extentACSd_Sdtcfc" class="token"><code>init(start:</code><wbr></wbr><code>extent:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -146,10 +146,8 @@ Represents angle ranges as a circular sector by using an absolute start angle an
   Swift
 
   ``` highlight
-  public init ( start : Double , extent : Double )
+  public init(start: Double, extent: Double)
   ```
-
-  </pre>
 
   </div>
 
@@ -188,7 +186,7 @@ Represents angle ranges as a circular sector by using an absolute start angle an
 
 - <div>
 
-      init()
+   <span id="sdk-for-ios-explore-s-7heresdk10AngleRangeVACycfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-anglerange#sdk-for-ios-explore-s-7heresdk10AngleRangeVACycfc" class="token"><code>init()</code></a> 
 
   </div>
 
@@ -219,10 +217,8 @@ Represents angle ranges as a circular sector by using an absolute start angle an
   Swift
 
   ``` highlight
-  public init ()
+  public init()
   ```
-
-  </pre>
 
   </div>
 
@@ -234,7 +230,7 @@ Represents angle ranges as a circular sector by using an absolute start angle an
 
 - <div>
 
-      fromMinMaxDegreesClockwise(min: max: )
+   <span id="sdk-for-ios-explore-s-7heresdk10AngleRangeV26fromMinMaxDegreesClockwise3min3maxACSd_SdtFZ"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-fromMinMaxDegreesClockwise-min-max" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-anglerange#sdk-for-ios-explore-s-7heresdk10AngleRangeV26fromMinMaxDegreesClockwise3min3maxACSd_SdtFZ" class="token"><code>fromMinMaxDegreesClockwise(min:</code><wbr></wbr><code>max:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -265,10 +261,8 @@ Represents angle ranges as a circular sector by using an absolute start angle an
   Swift
 
   ``` highlight
-  public static func fromMinMaxDegreesClockwise ( min : Double , max : Double ) -> AngleRange
+  public static func fromMinMaxDegreesClockwise(min: Double, max: Double) -> AngleRange
   ```
-
-  </pre>
 
   </div>
 
@@ -315,7 +309,7 @@ Represents angle ranges as a circular sector by using an absolute start angle an
 
 - <div>
 
-      fromDirectionDegreesClockwise(center: extent: )
+   <span id="sdk-for-ios-explore-s-7heresdk10AngleRangeV29fromDirectionDegreesClockwise6center6extentACSd_SdtFZ"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-fromDirectionDegreesClockwise-center-extent" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-anglerange#sdk-for-ios-explore-s-7heresdk10AngleRangeV29fromDirectionDegreesClockwise6center6extentACSd_SdtFZ" class="token"><code>fromDirectionDegreesClockwise(center:</code><wbr></wbr><code>extent:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -346,10 +340,8 @@ Represents angle ranges as a circular sector by using an absolute start angle an
   Swift
 
   ``` highlight
-  public static func fromDirectionDegreesClockwise ( center : Double , extent : Double ) -> AngleRange
+  public static func fromDirectionDegreesClockwise(center: Double, extent: Double) -> AngleRange
   ```
-
-  </pre>
 
   </div>
 
@@ -396,7 +388,7 @@ Represents angle ranges as a circular sector by using an absolute start angle an
 
 - <div>
 
-      inRange(angleClockwiseInDegreesFromNorth: )
+   <span id="sdk-for-ios-explore-s-7heresdk10AngleRangeV02inC032angleClockwiseInDegreesFromNorthSbSd_tF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-inRange-angleClockwiseInDegreesFromNorth" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-anglerange#sdk-for-ios-explore-s-7heresdk10AngleRangeV02inC032angleClockwiseInDegreesFromNorthSbSd_tF" class="token"><code>inRange(angleClockwiseInDegreesFromNorth:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -427,10 +419,8 @@ Represents angle ranges as a circular sector by using an absolute start angle an
   Swift
 
   ``` highlight
-  public func inRange ( angleClockwiseInDegreesFromNorth : Double ) -> Bool
+  public func inRange(angleClockwiseInDegreesFromNorth: Double) -> Bool
   ```
-
-  </pre>
 
   </div>
 
@@ -471,7 +461,7 @@ Represents angle ranges as a circular sector by using an absolute start angle an
 
 - <div>
 
-      closestInRange(angleClockwiseInDegreesFromNorth: )
+   <span id="sdk-for-ios-explore-s-7heresdk10AngleRangeV09closestInC0014angleClockwiseE16DegreesFromNorthS2d_tF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-closestInRange-angleClockwiseInDegreesFromNorth" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-anglerange#sdk-for-ios-explore-s-7heresdk10AngleRangeV09closestInC0014angleClockwiseE16DegreesFromNorthS2d_tF" class="token"><code>closestInRange(angleClockwiseInDegreesFromNorth:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -502,10 +492,8 @@ Represents angle ranges as a circular sector by using an absolute start angle an
   Swift
 
   ``` highlight
-  public func closestInRange ( angleClockwiseInDegreesFromNorth : Double ) -> Double
+  public func closestInRange(angleClockwiseInDegreesFromNorth: Double) -> Double
   ```
-
-  </pre>
 
   </div>
 
@@ -546,7 +534,7 @@ Represents angle ranges as a circular sector by using an absolute start angle an
 
 - <div>
 
-      max()
+   <span id="sdk-for-ios-explore-s-7heresdk10AngleRangeV3maxSdyF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-max" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-anglerange#sdk-for-ios-explore-s-7heresdk10AngleRangeV3maxSdyF" class="token"><code>max()</code></a> 
 
   </div>
 
@@ -577,10 +565,8 @@ Represents angle ranges as a circular sector by using an absolute start angle an
   Swift
 
   ``` highlight
-  public func max () -> Double
+  public func max() -> Double
   ```
-
-  </pre>
 
   </div>
 

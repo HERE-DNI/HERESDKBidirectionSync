@@ -27,7 +27,7 @@ Different types of objects that can be stored in a Metadata class instance.
 
 - <div>
 
-  ` `<span id="/s:7heresdk12MetadataTypeO6customyA2CmF"></span>` `<span id="//apple_ref/swift/Element/custom" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-metadatatype#/s:7heresdk12MetadataTypeO6customyA2CmF" class="token"><code>custom</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12MetadataTypeO6customyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-custom" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-metadatatype#sdk-for-ios-explore-s-7heresdk12MetadataTypeO6customyA2CmF" class="token"><code>custom</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Different types of objects that can be stored in a Metadata class instance.
 
 - <div>
 
-  ` `<span id="/s:7heresdk12MetadataTypeO6doubleyA2CmF"></span>` `<span id="//apple_ref/swift/Element/double" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-metadatatype#/s:7heresdk12MetadataTypeO6doubleyA2CmF" class="token"><code>double</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12MetadataTypeO6doubleyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-double" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-metadatatype#sdk-for-ios-explore-s-7heresdk12MetadataTypeO6doubleyA2CmF" class="token"><code>double</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Different types of objects that can be stored in a Metadata class instance.
 
 - <div>
 
-  ` `<span id="/s:7heresdk12MetadataTypeO14geoCoordinatesyA2CmF"></span>` `<span id="//apple_ref/swift/Element/geoCoordinates" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-metadatatype#/s:7heresdk12MetadataTypeO14geoCoordinatesyA2CmF" class="token"><code>geoCoordinates</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12MetadataTypeO14geoCoordinatesyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-geoCoordinates" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-metadatatype#sdk-for-ios-explore-s-7heresdk12MetadataTypeO14geoCoordinatesyA2CmF" class="token"><code>geoCoordinates</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Different types of objects that can be stored in a Metadata class instance.
 
 - <div>
 
-  ` `<span id="/s:7heresdk12MetadataTypeO7integeryA2CmF"></span>` `<span id="//apple_ref/swift/Element/integer" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-metadatatype#/s:7heresdk12MetadataTypeO7integeryA2CmF" class="token"><code>integer</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12MetadataTypeO7integeryA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-integer" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-metadatatype#sdk-for-ios-explore-s-7heresdk12MetadataTypeO7integeryA2CmF" class="token"><code>integer</code></a> 
 
   </div>
 
@@ -203,7 +203,7 @@ Different types of objects that can be stored in a Metadata class instance.
 
 - <div>
 
-  ` `<span id="/s:7heresdk12MetadataTypeO6stringyA2CmF"></span>` `<span id="//apple_ref/swift/Element/string" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-metadatatype#/s:7heresdk12MetadataTypeO6stringyA2CmF" class="token"><code>string</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12MetadataTypeO6stringyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-string" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-metadatatype#sdk-for-ios-explore-s-7heresdk12MetadataTypeO6stringyA2CmF" class="token"><code>string</code></a> 
 
   </div>
 

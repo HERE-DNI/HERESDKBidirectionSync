@@ -27,7 +27,7 @@ Contains information about images, editorials, rating and a urls to them.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10WebDetailsV6imagesSayAA0B5ImageVGvp"></span>` `<span id="//apple_ref/swift/Property/images" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-webdetails#/s:7heresdk10WebDetailsV6imagesSayAA0B5ImageVGvp" class="token"><code>images</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10WebDetailsV6imagesSayAA0B5ImageVGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-images" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-webdetails#sdk-for-ios-explore-s-7heresdk10WebDetailsV6imagesSayAA0B5ImageVGvp" class="token"><code>images</code></a> 
 
   </div>
 
@@ -63,6 +63,10 @@ Contains information about images, editorials, rating and a urls to them.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-webimage">WebImage</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ Contains information about images, editorials, rating and a urls to them.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10WebDetailsV10editorialsSayAA0B9EditorialVGvp"></span>` `<span id="//apple_ref/swift/Property/editorials" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-webdetails#/s:7heresdk10WebDetailsV10editorialsSayAA0B9EditorialVGvp" class="token"><code>editorials</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10WebDetailsV10editorialsSayAA0B9EditorialVGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-editorials" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-webdetails#sdk-for-ios-explore-s-7heresdk10WebDetailsV10editorialsSayAA0B9EditorialVGvp" class="token"><code>editorials</code></a> 
 
   </div>
 
@@ -107,6 +111,10 @@ Contains information about images, editorials, rating and a urls to them.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-webeditorial">WebEditorial</a>
+
   </div>
 
   </div>
@@ -115,7 +123,7 @@ Contains information about images, editorials, rating and a urls to them.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10WebDetailsV7ratingsSayAA0B6RatingVGvp"></span>` `<span id="//apple_ref/swift/Property/ratings" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-webdetails#/s:7heresdk10WebDetailsV7ratingsSayAA0B6RatingVGvp" class="token"><code>ratings</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk10WebDetailsV7ratingsSayAA0B6RatingVGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-ratings" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-webdetails#sdk-for-ios-explore-s-7heresdk10WebDetailsV7ratingsSayAA0B6RatingVGvp" class="token"><code>ratings</code></a> 
 
   </div>
 
@@ -151,6 +159,10 @@ Contains information about images, editorials, rating and a urls to them.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-webrating">WebRating</a>
+
   </div>
 
   </div>
@@ -159,7 +171,7 @@ Contains information about images, editorials, rating and a urls to them.
 
 - <div>
 
-      init(images: editorials: ratings: )
+   <span id="sdk-for-ios-explore-s-7heresdk10WebDetailsV6images10editorials7ratingsACSayAA0B5ImageVG_SayAA0B9EditorialVGSayAA0B6RatingVGtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-images-editorials-ratings" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-webdetails#sdk-for-ios-explore-s-7heresdk10WebDetailsV6images10editorials7ratingsACSayAA0B5ImageVG_SayAA0B9EditorialVGSayAA0B6RatingVGtcfc" class="token"><code>init(images:</code><wbr></wbr><code>editorials:</code><wbr></wbr><code>ratings:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -190,12 +202,16 @@ Contains information about images, editorials, rating and a urls to them.
   Swift
 
   ``` highlight
-  public init ( images : [ WebImage ] = [], editorials : [ WebEditorial ] = [], ratings : [ WebRating ] = [])
+  public init(images: [WebImage] = [], editorials: [WebEditorial] = [], ratings: [WebRating] = [])
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-webimage">WebImage</a>
+  - <a href="sdk-for-ios-explore-structs-webeditorial">WebEditorial</a>
+  - <a href="sdk-for-ios-explore-structs-webrating">WebRating</a>
 
   </div>
 

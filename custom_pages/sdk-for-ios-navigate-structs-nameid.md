@@ -27,7 +27,7 @@ Structure to represent name-id pairs.
 
 - <div>
 
-  ` `<span id="/s:7heresdk6NameIDV4nameSSSgvp"></span>` `<span id="//apple_ref/swift/Property/name" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-nameid#/s:7heresdk6NameIDV4nameSSSgvp" class="token"><code>name</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk6NameIDV4nameSSSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-name" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-nameid#sdk-for-ios-navigate-s-7heresdk6NameIDV4nameSSSgvp" class="token"><code>name</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Structure to represent name-id pairs.
 
 - <div>
 
-  ` `<span id="/s:7heresdk6NameIDV2idSSSgvp"></span>` `<span id="//apple_ref/swift/Property/id" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-nameid#/s:7heresdk6NameIDV2idSSSgvp" class="token"><code>id</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk6NameIDV2idSSSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-id" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-nameid#sdk-for-ios-navigate-s-7heresdk6NameIDV2idSSSgvp" class="token"><code>id</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Structure to represent name-id pairs.
 
 - <div>
 
-      init(name: id: )
+   <span id="sdk-for-ios-navigate-s-7heresdk6NameIDV4name2idACSSSg_AFtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-name-id" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-nameid#sdk-for-ios-navigate-s-7heresdk6NameIDV4name2idACSSSg_AFtcfc" class="token"><code>init(name:</code><wbr></wbr><code>id:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -146,10 +146,8 @@ Structure to represent name-id pairs.
   Swift
 
   ``` highlight
-  public init ( name : String ? = nil , id : String ? = nil )
+  public init(name: String? = nil, id: String? = nil)
   ```
-
-  </pre>
 
   </div>
 

@@ -29,7 +29,7 @@ Tunnels are categorized from B (low risk, few restrictions) to E (high risk) bas
 
 - <div>
 
-  ` `<span id="/s:7heresdk14TunnelCategoryO1byA2CmF"></span>` `<span id="//apple_ref/swift/Element/b" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-tunnelcategory#/s:7heresdk14TunnelCategoryO1byA2CmF" class="token"><code>b</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14TunnelCategoryO1byA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-b" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-tunnelcategory#sdk-for-ios-explore-s-7heresdk14TunnelCategoryO1byA2CmF" class="token"><code>b</code></a> 
 
   </div>
 
@@ -73,7 +73,7 @@ Tunnels are categorized from B (low risk, few restrictions) to E (high risk) bas
 
 - <div>
 
-  ` `<span id="/s:7heresdk14TunnelCategoryO1cyA2CmF"></span>` `<span id="//apple_ref/swift/Element/c" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-tunnelcategory#/s:7heresdk14TunnelCategoryO1cyA2CmF" class="token"><code>c</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14TunnelCategoryO1cyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-c" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-tunnelcategory#sdk-for-ios-explore-s-7heresdk14TunnelCategoryO1cyA2CmF" class="token"><code>c</code></a> 
 
   </div>
 
@@ -117,7 +117,7 @@ Tunnels are categorized from B (low risk, few restrictions) to E (high risk) bas
 
 - <div>
 
-  ` `<span id="/s:7heresdk14TunnelCategoryO1dyA2CmF"></span>` `<span id="//apple_ref/swift/Element/d" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-tunnelcategory#/s:7heresdk14TunnelCategoryO1dyA2CmF" class="token"><code>d</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14TunnelCategoryO1dyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-d" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-tunnelcategory#sdk-for-ios-explore-s-7heresdk14TunnelCategoryO1dyA2CmF" class="token"><code>d</code></a> 
 
   </div>
 
@@ -161,7 +161,7 @@ Tunnels are categorized from B (low risk, few restrictions) to E (high risk) bas
 
 - <div>
 
-  ` `<span id="/s:7heresdk14TunnelCategoryO1eyA2CmF"></span>` `<span id="//apple_ref/swift/Element/e" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-tunnelcategory#/s:7heresdk14TunnelCategoryO1eyA2CmF" class="token"><code>e</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14TunnelCategoryO1eyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-e" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-tunnelcategory#sdk-for-ios-explore-s-7heresdk14TunnelCategoryO1eyA2CmF" class="token"><code>e</code></a> 
 
   </div>
 

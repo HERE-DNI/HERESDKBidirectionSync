@@ -27,7 +27,7 @@ Weather type attached to <a href="sdk-for-ios-explore-structs-roadsignwarning">`
 
 - <div>
 
-  ` `<span id="/s:7heresdk11WeatherTypeO7unknownyA2CmF"></span>` `<span id="//apple_ref/swift/Element/unknown" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-weathertype#/s:7heresdk11WeatherTypeO7unknownyA2CmF" class="token"><code>unknown</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11WeatherTypeO7unknownyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-unknown" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-weathertype#sdk-for-ios-explore-s-7heresdk11WeatherTypeO7unknownyA2CmF" class="token"><code>unknown</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Weather type attached to <a href="sdk-for-ios-explore-structs-roadsignwarning">`
 
 - <div>
 
-  ` `<span id="/s:7heresdk11WeatherTypeO4rainyA2CmF"></span>` `<span id="//apple_ref/swift/Element/rain" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-weathertype#/s:7heresdk11WeatherTypeO4rainyA2CmF" class="token"><code>rain</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11WeatherTypeO4rainyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-rain" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-weathertype#sdk-for-ios-explore-s-7heresdk11WeatherTypeO4rainyA2CmF" class="token"><code>rain</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Weather type attached to <a href="sdk-for-ios-explore-structs-roadsignwarning">`
 
 - <div>
 
-  ` `<span id="/s:7heresdk11WeatherTypeO4snowyA2CmF"></span>` `<span id="//apple_ref/swift/Element/snow" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-weathertype#/s:7heresdk11WeatherTypeO4snowyA2CmF" class="token"><code>snow</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11WeatherTypeO4snowyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-snow" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-weathertype#sdk-for-ios-explore-s-7heresdk11WeatherTypeO4snowyA2CmF" class="token"><code>snow</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Weather type attached to <a href="sdk-for-ios-explore-structs-roadsignwarning">`
 
 - <div>
 
-  ` `<span id="/s:7heresdk11WeatherTypeO3fogyA2CmF"></span>` `<span id="//apple_ref/swift/Element/fog" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-weathertype#/s:7heresdk11WeatherTypeO3fogyA2CmF" class="token"><code>fog</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11WeatherTypeO3fogyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-fog" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-weathertype#sdk-for-ios-explore-s-7heresdk11WeatherTypeO3fogyA2CmF" class="token"><code>fog</code></a> 
 
   </div>
 

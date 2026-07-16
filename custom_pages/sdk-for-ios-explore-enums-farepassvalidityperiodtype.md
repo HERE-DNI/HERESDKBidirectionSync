@@ -27,7 +27,7 @@ Specifies validity periods.
 
 - <div>
 
-  ` `<span id="/s:7heresdk26FarePassValidityPeriodTypeO6annualyA2CmF"></span>` `<span id="//apple_ref/swift/Element/annual" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-farepassvalidityperiodtype#/s:7heresdk26FarePassValidityPeriodTypeO6annualyA2CmF" class="token"><code>annual</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk26FarePassValidityPeriodTypeO6annualyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-annual" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-farepassvalidityperiodtype#sdk-for-ios-explore-s-7heresdk26FarePassValidityPeriodTypeO6annualyA2CmF" class="token"><code>annual</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Specifies validity periods.
 
 - <div>
 
-  ` `<span id="/s:7heresdk26FarePassValidityPeriodTypeO14extendedAnnualyA2CmF"></span>` `<span id="//apple_ref/swift/Element/extendedAnnual" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-farepassvalidityperiodtype#/s:7heresdk26FarePassValidityPeriodTypeO14extendedAnnualyA2CmF" class="token"><code>extendedAnnual</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk26FarePassValidityPeriodTypeO14extendedAnnualyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-extendedAnnual" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-farepassvalidityperiodtype#sdk-for-ios-explore-s-7heresdk26FarePassValidityPeriodTypeO14extendedAnnualyA2CmF" class="token"><code>extendedAnnual</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Specifies validity periods.
 
 - <div>
 
-  ` `<span id="/s:7heresdk26FarePassValidityPeriodTypeO7minutesyA2CmF"></span>` `<span id="//apple_ref/swift/Element/minutes" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-farepassvalidityperiodtype#/s:7heresdk26FarePassValidityPeriodTypeO7minutesyA2CmF" class="token"><code>minutes</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk26FarePassValidityPeriodTypeO7minutesyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-minutes" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-farepassvalidityperiodtype#sdk-for-ios-explore-s-7heresdk26FarePassValidityPeriodTypeO7minutesyA2CmF" class="token"><code>minutes</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Specifies validity periods.
 
 - <div>
 
-  ` `<span id="/s:7heresdk26FarePassValidityPeriodTypeO4daysyA2CmF"></span>` `<span id="//apple_ref/swift/Element/days" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-farepassvalidityperiodtype#/s:7heresdk26FarePassValidityPeriodTypeO4daysyA2CmF" class="token"><code>days</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk26FarePassValidityPeriodTypeO4daysyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-days" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-farepassvalidityperiodtype#sdk-for-ios-explore-s-7heresdk26FarePassValidityPeriodTypeO4daysyA2CmF" class="token"><code>days</code></a> 
 
   </div>
 
@@ -203,7 +203,7 @@ Specifies validity periods.
 
 - <div>
 
-  ` `<span id="/s:7heresdk26FarePassValidityPeriodTypeO6monthsyA2CmF"></span>` `<span id="//apple_ref/swift/Element/months" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-farepassvalidityperiodtype#/s:7heresdk26FarePassValidityPeriodTypeO6monthsyA2CmF" class="token"><code>months</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk26FarePassValidityPeriodTypeO6monthsyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-months" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-farepassvalidityperiodtype#sdk-for-ios-explore-s-7heresdk26FarePassValidityPeriodTypeO6monthsyA2CmF" class="token"><code>months</code></a> 
 
   </div>
 

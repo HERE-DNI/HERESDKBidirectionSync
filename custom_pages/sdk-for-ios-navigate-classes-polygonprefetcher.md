@@ -35,7 +35,7 @@ Supports downloading of map data - in advance - into the cache to optimize tempo
 
 - <div>
 
-      init(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk17PolygonPrefetcherCyAcA15SDKNativeEngineCcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-polygonprefetcher#sdk-for-ios-navigate-s-7heresdk17PolygonPrefetcherCyAcA15SDKNativeEngineCcfc" class="token"><code>init(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -66,12 +66,14 @@ Supports downloading of map data - in advance - into the cache to optimize tempo
   Swift
 
   ``` highlight
-  public init ( _ sdkEngine : SDKNativeEngine )
+  public init(_ sdkEngine: SDKNativeEngine)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-sdknativeengine">SDKNativeEngine</a>
 
   </div>
 
@@ -102,7 +104,7 @@ Supports downloading of map data - in advance - into the cache to optimize tempo
 
 - <div>
 
-      prefetch(geoPolygon: callback: )
+   <span id="sdk-for-ios-navigate-s-7heresdk17PolygonPrefetcherC8prefetch03geoB08callbackAA10TaskHandle_pAA03GeoB0V_AA22PrefetchStatusListener_ptF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-prefetch-geoPolygon-callback" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-polygonprefetcher#sdk-for-ios-navigate-s-7heresdk17PolygonPrefetcherC8prefetch03geoB08callbackAA10TaskHandle_pAA03GeoB0V_AA22PrefetchStatusListener_ptF" class="token"><code>prefetch(geoPolygon:</code><wbr></wbr><code>callback:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -127,10 +129,10 @@ Supports downloading of map data - in advance - into the cache to optimize tempo
   is invoked on the main thread. Progress is reported by invocation of
       onProgress(...)
 
-  on the main thread. If there is not enough space left in the cache to store needed tiles, operation will fail with <a href="sdk-for-ios-navigate-enums-maploadererror#/s:7heresdk14MapLoaderErrorO14notEnoughSpaceyA2CmF">`MapLoaderError.notEnoughSpace`</a>. To increase cache size, use <a href="sdk-for-ios-navigate-structs-sdkoptions#/s:7heresdk10SDKOptionsV16cacheSizeInBytess5Int64Vvp">`SDKOptions.cacheSizeInBytes`</a> API.
+  on the main thread. If there is not enough space left in the cache to store needed tiles, operation will fail with <a href="sdk-for-ios-navigate-enums-maploadererror#sdk-for-ios-navigate-s-7heresdk14MapLoaderErrorO14notEnoughSpaceyA2CmF">`MapLoaderError.notEnoughSpace`</a>. To increase cache size, use <a href="sdk-for-ios-navigate-structs-sdkoptions#sdk-for-ios-navigate-s-7heresdk10SDKOptionsV16cacheSizeInBytess5Int64Vvp">`SDKOptions.cacheSizeInBytes`</a> API.
   </p>
 
-  To control list of map content features for area prefetch, use <a href="sdk-for-ios-navigate-structs-layerconfiguration#/s:7heresdk18LayerConfigurationV15enabledFeaturesSayAC7FeatureOGvp">`LayerConfiguration.enabledFeatures`</a>.
+  To control list of map content features for area prefetch, use <a href="sdk-for-ios-navigate-structs-layerconfiguration#sdk-for-ios-navigate-s-7heresdk18LayerConfigurationV15enabledFeaturesSayAC7FeatureOGvp">`LayerConfiguration.enabledFeatures`</a>.
 
   To prefetch map data within user-defined circular area around a given location:
 
@@ -149,12 +151,16 @@ Supports downloading of map data - in advance - into the cache to optimize tempo
   Swift
 
   ``` highlight
-  public func prefetch ( geoPolygon : GeoPolygon , callback : PrefetchStatusListener ) -> TaskHandle
+  public func prefetch(geoPolygon: GeoPolygon, callback: PrefetchStatusListener) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-geopolygon">GeoPolygon</a>
+  - <a href="sdk-for-ios-navigate-protocols-prefetchstatuslistener">PrefetchStatusListener</a>
+  - <a href="sdk-for-ios-navigate-protocols-taskhandle">TaskHandle</a>
 
   </div>
 
@@ -199,7 +205,7 @@ Supports downloading of map data - in advance - into the cache to optimize tempo
 
 - <div>
 
-      estimateMapDataSize(geoPolygon: callback: )
+   <span id="sdk-for-ios-navigate-s-7heresdk17PolygonPrefetcherC19estimateMapDataSize03geoB08callbackAA10TaskHandle_pAA03GeoB0V_AA0efG8Listener_ptF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-estimateMapDataSize-geoPolygon-callback" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-polygonprefetcher#sdk-for-ios-navigate-s-7heresdk17PolygonPrefetcherC19estimateMapDataSize03geoB08callbackAA10TaskHandle_pAA03GeoB0V_AA0efG8Listener_ptF" class="token"><code>estimateMapDataSize(geoPolygon:</code><wbr></wbr><code>callback:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -230,12 +236,16 @@ Supports downloading of map data - in advance - into the cache to optimize tempo
   Swift
 
   ``` highlight
-  public func estimateMapDataSize ( geoPolygon : GeoPolygon , callback : MapDataSizeListener ) -> TaskHandle
+  public func estimateMapDataSize(geoPolygon: GeoPolygon, callback: MapDataSizeListener) -> TaskHandle
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-geopolygon">GeoPolygon</a>
+  - <a href="sdk-for-ios-navigate-protocols-mapdatasizelistener">MapDataSizeListener</a>
+  - <a href="sdk-for-ios-navigate-protocols-taskhandle">TaskHandle</a>
 
   </div>
 

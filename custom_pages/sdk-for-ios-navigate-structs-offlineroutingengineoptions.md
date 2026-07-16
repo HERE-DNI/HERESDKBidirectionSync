@@ -27,7 +27,7 @@ Options to configure offline routing engine.
 
 - <div>
 
-  ` `<span id="/s:7heresdk27OfflineRoutingEngineOptionsV27memoryCacheSizeLimitInBytess5Int64Vvp"></span>` `<span id="//apple_ref/swift/Property/memoryCacheSizeLimitInBytes" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-offlineroutingengineoptions#/s:7heresdk27OfflineRoutingEngineOptionsV27memoryCacheSizeLimitInBytess5Int64Vvp" class="token"><code>memoryCacheSizeLimitInBytes</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk27OfflineRoutingEngineOptionsV27memoryCacheSizeLimitInBytess5Int64Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-memoryCacheSizeLimitInBytes" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-offlineroutingengineoptions#sdk-for-ios-navigate-s-7heresdk27OfflineRoutingEngineOptionsV27memoryCacheSizeLimitInBytess5Int64Vvp" class="token"><code>memoryCacheSizeLimitInBytes</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Options to configure offline routing engine.
 
 - <div>
 
-      init(memoryCacheSizeLimitInBytes: )
+   <span id="sdk-for-ios-navigate-s-7heresdk27OfflineRoutingEngineOptionsV27memoryCacheSizeLimitInBytesACs5Int64V_tcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-memoryCacheSizeLimitInBytes" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-offlineroutingengineoptions#sdk-for-ios-navigate-s-7heresdk27OfflineRoutingEngineOptionsV27memoryCacheSizeLimitInBytesACs5Int64V_tcfc" class="token"><code>init(memoryCacheSizeLimitInBytes:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -102,10 +102,8 @@ Options to configure offline routing engine.
   Swift
 
   ``` highlight
-  public init ( memoryCacheSizeLimitInBytes : Int64 = 0 )
+  public init(memoryCacheSizeLimitInBytes: Int64 = 0)
   ```
-
-  </pre>
 
   </div>
 

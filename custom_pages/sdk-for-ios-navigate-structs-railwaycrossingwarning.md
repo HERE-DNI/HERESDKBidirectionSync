@@ -17,7 +17,7 @@ public struct RailwayCrossingWarning : Hashable
 
 </div>
 
-A struct that provides railway crossing. The main field describing the railway crossing is <a href="sdk-for-ios-navigate-structs-railwaycrossingwarning#/s:7heresdk22RailwayCrossingWarningV4typeAA05RoutebC4TypeOvp">`RailwayCrossingWarning.type`</a> specifying whether the railway crossing is protected by a barrier or not. Use `RailwayCrossingWarningListener` to get notifications about upcoming railway crossings.
+A struct that provides railway crossing. The main field describing the railway crossing is <a href="sdk-for-ios-navigate-structs-railwaycrossingwarning#sdk-for-ios-navigate-s-7heresdk22RailwayCrossingWarningV4typeAA05RoutebC4TypeOvp">`RailwayCrossingWarning.type`</a> specifying whether the railway crossing is protected by a barrier or not. Use `RailwayCrossingWarningListener` to get notifications about upcoming railway crossings.
 
 </div>
 
@@ -27,7 +27,7 @@ A struct that provides railway crossing. The main field describing the railway c
 
 - <div>
 
-  ` `<span id="/s:7heresdk22RailwayCrossingWarningV2ids5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/id" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-railwaycrossingwarning#/s:7heresdk22RailwayCrossingWarningV2ids5Int32Vvp" class="token"><code>id</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk22RailwayCrossingWarningV2ids5Int32Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-id" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-railwaycrossingwarning#sdk-for-ios-navigate-s-7heresdk22RailwayCrossingWarningV2ids5Int32Vvp" class="token"><code>id</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ A struct that provides railway crossing. The main field describing the railway c
 
 - <div>
 
-  ` `<span id="/s:7heresdk22RailwayCrossingWarningV010distanceTobC8InMetersSdvp"></span>` `<span id="//apple_ref/swift/Property/distanceToRailwayCrossingInMeters" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-railwaycrossingwarning#/s:7heresdk22RailwayCrossingWarningV010distanceTobC8InMetersSdvp" class="token"><code>distanceToRailwayCrossingInMeters</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk22RailwayCrossingWarningV010distanceTobC8InMetersSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-distanceToRailwayCrossingInMeters" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-railwaycrossingwarning#sdk-for-ios-navigate-s-7heresdk22RailwayCrossingWarningV010distanceTobC8InMetersSdvp" class="token"><code>distanceToRailwayCrossingInMeters</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ A struct that provides railway crossing. The main field describing the railway c
 
 - <div>
 
-  ` `<span id="/s:7heresdk22RailwayCrossingWarningV4typeAA05RoutebC4TypeOvp"></span>` `<span id="//apple_ref/swift/Property/type" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-railwaycrossingwarning#/s:7heresdk22RailwayCrossingWarningV4typeAA05RoutebC4TypeOvp" class="token"><code>type</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk22RailwayCrossingWarningV4typeAA05RoutebC4TypeOvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-type" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-railwaycrossingwarning#sdk-for-ios-navigate-s-7heresdk22RailwayCrossingWarningV4typeAA05RoutebC4TypeOvp" class="token"><code>type</code></a> 
 
   </div>
 
@@ -151,6 +151,10 @@ A struct that provides railway crossing. The main field describing the railway c
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-routerailwaycrossingtype">RouteRailwayCrossingType</a>
+
   </div>
 
   </div>
@@ -159,7 +163,7 @@ A struct that provides railway crossing. The main field describing the railway c
 
 - <div>
 
-  ` `<span id="/s:7heresdk22RailwayCrossingWarningV12distanceTypeAA08DistanceF0Ovp"></span>` `<span id="//apple_ref/swift/Property/distanceType" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-railwaycrossingwarning#/s:7heresdk22RailwayCrossingWarningV12distanceTypeAA08DistanceF0Ovp" class="token"><code>distanceType</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk22RailwayCrossingWarningV12distanceTypeAA08DistanceF0Ovp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-distanceType" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-railwaycrossingwarning#sdk-for-ios-navigate-s-7heresdk22RailwayCrossingWarningV12distanceTypeAA08DistanceF0Ovp" class="token"><code>distanceType</code></a> 
 
   </div>
 
@@ -195,6 +199,10 @@ A struct that provides railway crossing. The main field describing the railway c
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-distancetype">DistanceType</a>
+
   </div>
 
   </div>
@@ -203,7 +211,7 @@ A struct that provides railway crossing. The main field describing the railway c
 
 - <div>
 
-  ` `<span id="/s:7heresdk22RailwayCrossingWarningV16segmentReferenceAA07SegmentF0Vvp"></span>` `<span id="//apple_ref/swift/Property/segmentReference" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-railwaycrossingwarning#/s:7heresdk22RailwayCrossingWarningV16segmentReferenceAA07SegmentF0Vvp" class="token"><code>segmentReference</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk22RailwayCrossingWarningV16segmentReferenceAA07SegmentF0Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-segmentReference" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-railwaycrossingwarning#sdk-for-ios-navigate-s-7heresdk22RailwayCrossingWarningV16segmentReferenceAA07SegmentF0Vvp" class="token"><code>segmentReference</code></a> 
 
   </div>
 
@@ -239,6 +247,10 @@ A struct that provides railway crossing. The main field describing the railway c
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-segmentreference">SegmentReference</a>
+
   </div>
 
   </div>
@@ -247,7 +259,7 @@ A struct that provides railway crossing. The main field describing the railway c
 
 - <div>
 
-      init(id: distanceToRailwayCrossingInMeters: type: distanceType: segmentReference: )
+   <span id="sdk-for-ios-navigate-s-7heresdk22RailwayCrossingWarningV2id010distanceTobC8InMeters4type0F4Type16segmentReferenceACs5Int32V_SdAA05RoutebcK0OAA08DistanceK0OAA07SegmentM0Vtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-id-distanceToRailwayCrossingInMeters-type-distanceType-segmentReference" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-railwaycrossingwarning#sdk-for-ios-navigate-s-7heresdk22RailwayCrossingWarningV2id010distanceTobC8InMeters4type0F4Type16segmentReferenceACs5Int32V_SdAA05RoutebcK0OAA08DistanceK0OAA07SegmentM0Vtcfc" class="token"><code>init(id:</code><wbr></wbr><code>distanceToRailwayCrossingInMeters:</code><wbr></wbr><code>type:</code><wbr></wbr><code>distanceType:</code><wbr></wbr><code>segmentReference:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -278,12 +290,16 @@ A struct that provides railway crossing. The main field describing the railway c
   Swift
 
   ``` highlight
-  public init ( id : Int32 = 0 , distanceToRailwayCrossingInMeters : Double , type : RouteRailwayCrossingType = RouteRailwayCrossingType . unknown , distanceType : DistanceType , segmentReference : SegmentReference )
+  public init(id: Int32 = 0, distanceToRailwayCrossingInMeters: Double, type: RouteRailwayCrossingType = RouteRailwayCrossingType.unknown, distanceType: DistanceType, segmentReference: SegmentReference)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-routerailwaycrossingtype">RouteRailwayCrossingType</a>
+  - <a href="sdk-for-ios-navigate-enums-distancetype">DistanceType</a>
+  - <a href="sdk-for-ios-navigate-structs-segmentreference">SegmentReference</a>
 
   </div>
 

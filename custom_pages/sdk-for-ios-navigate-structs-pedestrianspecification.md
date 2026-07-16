@@ -27,7 +27,7 @@ Pedestrian specific settings.
 
 - <div>
 
-  ` `<span id="/s:7heresdk23PedestrianSpecificationV29walkingSpeedInMetersPerSecondSdvp"></span>` `<span id="//apple_ref/swift/Property/walkingSpeedInMetersPerSecond" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-pedestrianspecification#/s:7heresdk23PedestrianSpecificationV29walkingSpeedInMetersPerSecondSdvp" class="token"><code>walkingSpeedInMetersPerSecond</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk23PedestrianSpecificationV29walkingSpeedInMetersPerSecondSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-walkingSpeedInMetersPerSecond" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-pedestrianspecification#sdk-for-ios-navigate-s-7heresdk23PedestrianSpecificationV29walkingSpeedInMetersPerSecondSdvp" class="token"><code>walkingSpeedInMetersPerSecond</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Pedestrian specific settings.
 
 - <div>
 
-      init(walkingSpeedInMetersPerSecond: )
+   <span id="sdk-for-ios-navigate-s-7heresdk23PedestrianSpecificationV29walkingSpeedInMetersPerSecondACSd_tcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-walkingSpeedInMetersPerSecond" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-pedestrianspecification#sdk-for-ios-navigate-s-7heresdk23PedestrianSpecificationV29walkingSpeedInMetersPerSecondACSd_tcfc" class="token"><code>init(walkingSpeedInMetersPerSecond:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -102,10 +102,8 @@ Pedestrian specific settings.
   Swift
 
   ``` highlight
-  public init ( walkingSpeedInMetersPerSecond : Double = 1.0 )
+  public init(walkingSpeedInMetersPerSecond: Double = 1.0)
   ```
-
-  </pre>
 
   </div>
 

@@ -29,7 +29,7 @@ Concise description of road type used in commercial vehicle regulations.
 
 - <div>
 
-  ` `<span id="/s:7heresdk25CommercialVehicleRoadTypeO7highwayyA2CmF"></span>` `<span id="//apple_ref/swift/Element/highway" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-commercialvehicleroadtype#/s:7heresdk25CommercialVehicleRoadTypeO7highwayyA2CmF" class="token"><code>highway</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk25CommercialVehicleRoadTypeO7highwayyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-highway" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-commercialvehicleroadtype#sdk-for-ios-explore-s-7heresdk25CommercialVehicleRoadTypeO7highwayyA2CmF" class="token"><code>highway</code></a> 
 
   </div>
 
@@ -73,7 +73,7 @@ Concise description of road type used in commercial vehicle regulations.
 
 - <div>
 
-  ` `<span id="/s:7heresdk25CommercialVehicleRoadTypeO8motorwayyA2CmF"></span>` `<span id="//apple_ref/swift/Element/motorway" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-commercialvehicleroadtype#/s:7heresdk25CommercialVehicleRoadTypeO8motorwayyA2CmF" class="token"><code>motorway</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk25CommercialVehicleRoadTypeO8motorwayyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-motorway" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-commercialvehicleroadtype#sdk-for-ios-explore-s-7heresdk25CommercialVehicleRoadTypeO8motorwayyA2CmF" class="token"><code>motorway</code></a> 
 
   </div>
 
@@ -117,7 +117,7 @@ Concise description of road type used in commercial vehicle regulations.
 
 - <div>
 
-  ` `<span id="/s:7heresdk25CommercialVehicleRoadTypeO11nonMotorwayyA2CmF"></span>` `<span id="//apple_ref/swift/Element/nonMotorway" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-commercialvehicleroadtype#/s:7heresdk25CommercialVehicleRoadTypeO11nonMotorwayyA2CmF" class="token"><code>nonMotorway</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk25CommercialVehicleRoadTypeO11nonMotorwayyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-nonMotorway" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-commercialvehicleroadtype#sdk-for-ios-explore-s-7heresdk25CommercialVehicleRoadTypeO11nonMotorwayyA2CmF" class="token"><code>nonMotorway</code></a> 
 
   </div>
 
@@ -161,7 +161,7 @@ Concise description of road type used in commercial vehicle regulations.
 
 - <div>
 
-  ` `<span id="/s:7heresdk25CommercialVehicleRoadTypeO21motorisedVehiclesOnlyyA2CmF"></span>` `<span id="//apple_ref/swift/Element/motorisedVehiclesOnly" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-commercialvehicleroadtype#/s:7heresdk25CommercialVehicleRoadTypeO21motorisedVehiclesOnlyyA2CmF" class="token"><code>motorisedVehiclesOnly</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk25CommercialVehicleRoadTypeO21motorisedVehiclesOnlyyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-motorisedVehiclesOnly" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-commercialvehicleroadtype#sdk-for-ios-explore-s-7heresdk25CommercialVehicleRoadTypeO21motorisedVehiclesOnlyyA2CmF" class="token"><code>motorisedVehiclesOnly</code></a> 
 
   </div>
 
@@ -205,7 +205,7 @@ Concise description of road type used in commercial vehicle regulations.
 
 - <div>
 
-  ` `<span id="/s:7heresdk25CommercialVehicleRoadTypeO17singleCarriagewayyA2CmF"></span>` `<span id="//apple_ref/swift/Element/singleCarriageway" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-commercialvehicleroadtype#/s:7heresdk25CommercialVehicleRoadTypeO17singleCarriagewayyA2CmF" class="token"><code>singleCarriageway</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk25CommercialVehicleRoadTypeO17singleCarriagewayyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-singleCarriageway" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-commercialvehicleroadtype#sdk-for-ios-explore-s-7heresdk25CommercialVehicleRoadTypeO17singleCarriagewayyA2CmF" class="token"><code>singleCarriageway</code></a> 
 
   </div>
 
@@ -249,7 +249,7 @@ Concise description of road type used in commercial vehicle regulations.
 
 - <div>
 
-  ` `<span id="/s:7heresdk25CommercialVehicleRoadTypeO15dualCarriagewayyA2CmF"></span>` `<span id="//apple_ref/swift/Element/dualCarriageway" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-commercialvehicleroadtype#/s:7heresdk25CommercialVehicleRoadTypeO15dualCarriagewayyA2CmF" class="token"><code>dualCarriageway</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk25CommercialVehicleRoadTypeO15dualCarriagewayyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-dualCarriageway" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-commercialvehicleroadtype#sdk-for-ios-explore-s-7heresdk25CommercialVehicleRoadTypeO15dualCarriagewayyA2CmF" class="token"><code>dualCarriageway</code></a> 
 
   </div>
 
@@ -293,7 +293,7 @@ Concise description of road type used in commercial vehicle regulations.
 
 - <div>
 
-  ` `<span id="/s:7heresdk25CommercialVehicleRoadTypeO07expressD0yA2CmF"></span>` `<span id="//apple_ref/swift/Element/expressRoad" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-commercialvehicleroadtype#/s:7heresdk25CommercialVehicleRoadTypeO07expressD0yA2CmF" class="token"><code>expressRoad</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk25CommercialVehicleRoadTypeO07expressD0yA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-expressRoad" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-commercialvehicleroadtype#sdk-for-ios-explore-s-7heresdk25CommercialVehicleRoadTypeO07expressD0yA2CmF" class="token"><code>expressRoad</code></a> 
 
   </div>
 
@@ -337,7 +337,7 @@ Concise description of road type used in commercial vehicle regulations.
 
 - <div>
 
-  ` `<span id="/s:7heresdk25CommercialVehicleRoadTypeO10expresswayyA2CmF"></span>` `<span id="//apple_ref/swift/Element/expressway" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-commercialvehicleroadtype#/s:7heresdk25CommercialVehicleRoadTypeO10expresswayyA2CmF" class="token"><code>expressway</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk25CommercialVehicleRoadTypeO10expresswayyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-expressway" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-commercialvehicleroadtype#sdk-for-ios-explore-s-7heresdk25CommercialVehicleRoadTypeO10expresswayyA2CmF" class="token"><code>expressway</code></a> 
 
   </div>
 
@@ -381,7 +381,7 @@ Concise description of road type used in commercial vehicle regulations.
 
 - <div>
 
-  ` `<span id="/s:7heresdk25CommercialVehicleRoadTypeO7freewayyA2CmF"></span>` `<span id="//apple_ref/swift/Element/freeway" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-commercialvehicleroadtype#/s:7heresdk25CommercialVehicleRoadTypeO7freewayyA2CmF" class="token"><code>freeway</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk25CommercialVehicleRoadTypeO7freewayyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-freeway" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-commercialvehicleroadtype#sdk-for-ios-explore-s-7heresdk25CommercialVehicleRoadTypeO7freewayyA2CmF" class="token"><code>freeway</code></a> 
 
   </div>
 
@@ -425,7 +425,7 @@ Concise description of road type used in commercial vehicle regulations.
 
 - <div>
 
-  ` `<span id="/s:7heresdk25CommercialVehicleRoadTypeO10interstateyA2CmF"></span>` `<span id="//apple_ref/swift/Element/interstate" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-commercialvehicleroadtype#/s:7heresdk25CommercialVehicleRoadTypeO10interstateyA2CmF" class="token"><code>interstate</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk25CommercialVehicleRoadTypeO10interstateyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-interstate" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-commercialvehicleroadtype#sdk-for-ios-explore-s-7heresdk25CommercialVehicleRoadTypeO10interstateyA2CmF" class="token"><code>interstate</code></a> 
 
   </div>
 
@@ -469,7 +469,7 @@ Concise description of road type used in commercial vehicle regulations.
 
 - <div>
 
-  ` `<span id="/s:7heresdk25CommercialVehicleRoadTypeO13limitedAccessyA2CmF"></span>` `<span id="//apple_ref/swift/Element/limitedAccess" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-commercialvehicleroadtype#/s:7heresdk25CommercialVehicleRoadTypeO13limitedAccessyA2CmF" class="token"><code>limitedAccess</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk25CommercialVehicleRoadTypeO13limitedAccessyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-limitedAccess" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-commercialvehicleroadtype#sdk-for-ios-explore-s-7heresdk25CommercialVehicleRoadTypeO13limitedAccessyA2CmF" class="token"><code>limitedAccess</code></a> 
 
   </div>
 
@@ -513,7 +513,7 @@ Concise description of road type used in commercial vehicle regulations.
 
 - <div>
 
-  ` `<span id="/s:7heresdk25CommercialVehicleRoadTypeO5otheryA2CmF"></span>` `<span id="//apple_ref/swift/Element/other" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-commercialvehicleroadtype#/s:7heresdk25CommercialVehicleRoadTypeO5otheryA2CmF" class="token"><code>other</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk25CommercialVehicleRoadTypeO5otheryA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-other" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-commercialvehicleroadtype#sdk-for-ios-explore-s-7heresdk25CommercialVehicleRoadTypeO5otheryA2CmF" class="token"><code>other</code></a> 
 
   </div>
 

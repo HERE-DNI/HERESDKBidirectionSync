@@ -17,7 +17,7 @@ public enum RoadSignType : UInt32, CaseIterable, Codable
 
 </div>
 
-A road sign type classifying road signs that can appear along a road. Some signs are standardized and look the same in all countries, e.g. <a href="sdk-for-ios-explore-enums-roadsigntype#/s:7heresdk12RoadSignTypeO04stopC0yA2CmF">`RoadSignType.stopSign`</a>. In general, the visual appearance of the road signs can differ across countries. Some road signs can be combined with other signs, like <a href="sdk-for-ios-explore-enums-weathertype">`WeatherType`</a> signs. The road sign will be always shown topmost.
+A road sign type classifying road signs that can appear along a road. Some signs are standardized and look the same in all countries, e.g. <a href="sdk-for-ios-explore-enums-roadsigntype#sdk-for-ios-explore-s-7heresdk12RoadSignTypeO04stopC0yA2CmF">`RoadSignType.stopSign`</a>. In general, the visual appearance of the road signs can differ across countries. Some road signs can be combined with other signs, like <a href="sdk-for-ios-explore-enums-weathertype">`WeatherType`</a> signs. The road sign will be always shown topmost.
 
 </div>
 
@@ -27,7 +27,7 @@ A road sign type classifying road signs that can appear along a road. Some signs
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoadSignTypeO7unknownyA2CmF"></span>` `<span id="//apple_ref/swift/Element/unknown" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-roadsigntype#/s:7heresdk12RoadSignTypeO7unknownyA2CmF" class="token"><code>unknown</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12RoadSignTypeO7unknownyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-unknown" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-roadsigntype#sdk-for-ios-explore-s-7heresdk12RoadSignTypeO7unknownyA2CmF" class="token"><code>unknown</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ A road sign type classifying road signs that can appear along a road. Some signs
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoadSignTypeO19startOfNoOvertakingyA2CmF"></span>` `<span id="//apple_ref/swift/Element/startOfNoOvertaking" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-roadsigntype#/s:7heresdk12RoadSignTypeO19startOfNoOvertakingyA2CmF" class="token"><code>startOfNoOvertaking</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12RoadSignTypeO19startOfNoOvertakingyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-startOfNoOvertaking" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-roadsigntype#sdk-for-ios-explore-s-7heresdk12RoadSignTypeO19startOfNoOvertakingyA2CmF" class="token"><code>startOfNoOvertaking</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ A road sign type classifying road signs that can appear along a road. Some signs
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoadSignTypeO17endOfNoOvertakingyA2CmF"></span>` `<span id="//apple_ref/swift/Element/endOfNoOvertaking" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-roadsigntype#/s:7heresdk12RoadSignTypeO17endOfNoOvertakingyA2CmF" class="token"><code>endOfNoOvertaking</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12RoadSignTypeO17endOfNoOvertakingyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-endOfNoOvertaking" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-roadsigntype#sdk-for-ios-explore-s-7heresdk12RoadSignTypeO17endOfNoOvertakingyA2CmF" class="token"><code>endOfNoOvertaking</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ A road sign type classifying road signs that can appear along a road. Some signs
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoadSignTypeO28protectedOvertakingExtraLaneyA2CmF"></span>` `<span id="//apple_ref/swift/Element/protectedOvertakingExtraLane" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-roadsigntype#/s:7heresdk12RoadSignTypeO28protectedOvertakingExtraLaneyA2CmF" class="token"><code>protectedOvertakingExtraLane</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12RoadSignTypeO28protectedOvertakingExtraLaneyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-protectedOvertakingExtraLane" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-roadsigntype#sdk-for-ios-explore-s-7heresdk12RoadSignTypeO28protectedOvertakingExtraLaneyA2CmF" class="token"><code>protectedOvertakingExtraLane</code></a> 
 
   </div>
 
@@ -203,7 +203,7 @@ A road sign type classifying road signs that can appear along a road. Some signs
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoadSignTypeO37protectedOvertakingExtraLaneRightSideyA2CmF"></span>` `<span id="//apple_ref/swift/Element/protectedOvertakingExtraLaneRightSide" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-roadsigntype#/s:7heresdk12RoadSignTypeO37protectedOvertakingExtraLaneRightSideyA2CmF" class="token"><code>protectedOvertakingExtraLaneRightSide</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12RoadSignTypeO37protectedOvertakingExtraLaneRightSideyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-protectedOvertakingExtraLaneRightSide" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-roadsigntype#sdk-for-ios-explore-s-7heresdk12RoadSignTypeO37protectedOvertakingExtraLaneRightSideyA2CmF" class="token"><code>protectedOvertakingExtraLaneRightSide</code></a> 
 
   </div>
 
@@ -247,7 +247,7 @@ A road sign type classifying road signs that can appear along a road. Some signs
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoadSignTypeO36protectedOvertakingExtraLaneLeftSideyA2CmF"></span>` `<span id="//apple_ref/swift/Element/protectedOvertakingExtraLaneLeftSide" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-roadsigntype#/s:7heresdk12RoadSignTypeO36protectedOvertakingExtraLaneLeftSideyA2CmF" class="token"><code>protectedOvertakingExtraLaneLeftSide</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12RoadSignTypeO36protectedOvertakingExtraLaneLeftSideyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-protectedOvertakingExtraLaneLeftSide" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-roadsigntype#sdk-for-ios-explore-s-7heresdk12RoadSignTypeO36protectedOvertakingExtraLaneLeftSideyA2CmF" class="token"><code>protectedOvertakingExtraLaneLeftSide</code></a> 
 
   </div>
 
@@ -291,7 +291,7 @@ A road sign type classifying road signs that can appear along a road. Some signs
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoadSignTypeO14laneMergeRightyA2CmF"></span>` `<span id="//apple_ref/swift/Element/laneMergeRight" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-roadsigntype#/s:7heresdk12RoadSignTypeO14laneMergeRightyA2CmF" class="token"><code>laneMergeRight</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12RoadSignTypeO14laneMergeRightyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-laneMergeRight" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-roadsigntype#sdk-for-ios-explore-s-7heresdk12RoadSignTypeO14laneMergeRightyA2CmF" class="token"><code>laneMergeRight</code></a> 
 
   </div>
 
@@ -335,7 +335,7 @@ A road sign type classifying road signs that can appear along a road. Some signs
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoadSignTypeO13laneMergeLeftyA2CmF"></span>` `<span id="//apple_ref/swift/Element/laneMergeLeft" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-roadsigntype#/s:7heresdk12RoadSignTypeO13laneMergeLeftyA2CmF" class="token"><code>laneMergeLeft</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12RoadSignTypeO13laneMergeLeftyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-laneMergeLeft" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-roadsigntype#sdk-for-ios-explore-s-7heresdk12RoadSignTypeO13laneMergeLeftyA2CmF" class="token"><code>laneMergeLeft</code></a> 
 
   </div>
 
@@ -379,7 +379,7 @@ A road sign type classifying road signs that can appear along a road. Some signs
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoadSignTypeO15laneMergeCenteryA2CmF"></span>` `<span id="//apple_ref/swift/Element/laneMergeCenter" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-roadsigntype#/s:7heresdk12RoadSignTypeO15laneMergeCenteryA2CmF" class="token"><code>laneMergeCenter</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12RoadSignTypeO15laneMergeCenteryA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-laneMergeCenter" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-roadsigntype#sdk-for-ios-explore-s-7heresdk12RoadSignTypeO15laneMergeCenteryA2CmF" class="token"><code>laneMergeCenter</code></a> 
 
   </div>
 
@@ -423,7 +423,7 @@ A road sign type classifying road signs that can appear along a road. Some signs
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoadSignTypeO24railwayCrossingProtectedyA2CmF"></span>` `<span id="//apple_ref/swift/Element/railwayCrossingProtected" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-roadsigntype#/s:7heresdk12RoadSignTypeO24railwayCrossingProtectedyA2CmF" class="token"><code>railwayCrossingProtected</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12RoadSignTypeO24railwayCrossingProtectedyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-railwayCrossingProtected" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-roadsigntype#sdk-for-ios-explore-s-7heresdk12RoadSignTypeO24railwayCrossingProtectedyA2CmF" class="token"><code>railwayCrossingProtected</code></a> 
 
   </div>
 
@@ -467,7 +467,7 @@ A road sign type classifying road signs that can appear along a road. Some signs
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoadSignTypeO26railwayCrossingUnprotectedyA2CmF"></span>` `<span id="//apple_ref/swift/Element/railwayCrossingUnprotected" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-roadsigntype#/s:7heresdk12RoadSignTypeO26railwayCrossingUnprotectedyA2CmF" class="token"><code>railwayCrossingUnprotected</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12RoadSignTypeO26railwayCrossingUnprotectedyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-railwayCrossingUnprotected" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-roadsigntype#sdk-for-ios-explore-s-7heresdk12RoadSignTypeO26railwayCrossingUnprotectedyA2CmF" class="token"><code>railwayCrossingUnprotected</code></a> 
 
   </div>
 
@@ -511,7 +511,7 @@ A road sign type classifying road signs that can appear along a road. Some signs
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoadSignTypeO11roadNarrowsyA2CmF"></span>` `<span id="//apple_ref/swift/Element/roadNarrows" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-roadsigntype#/s:7heresdk12RoadSignTypeO11roadNarrowsyA2CmF" class="token"><code>roadNarrows</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12RoadSignTypeO11roadNarrowsyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-roadNarrows" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-roadsigntype#sdk-for-ios-explore-s-7heresdk12RoadSignTypeO11roadNarrowsyA2CmF" class="token"><code>roadNarrows</code></a> 
 
   </div>
 
@@ -555,7 +555,7 @@ A road sign type classifying road signs that can appear along a road. Some signs
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoadSignTypeO14sharpCurveLeftyA2CmF"></span>` `<span id="//apple_ref/swift/Element/sharpCurveLeft" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-roadsigntype#/s:7heresdk12RoadSignTypeO14sharpCurveLeftyA2CmF" class="token"><code>sharpCurveLeft</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12RoadSignTypeO14sharpCurveLeftyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-sharpCurveLeft" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-roadsigntype#sdk-for-ios-explore-s-7heresdk12RoadSignTypeO14sharpCurveLeftyA2CmF" class="token"><code>sharpCurveLeft</code></a> 
 
   </div>
 
@@ -599,7 +599,7 @@ A road sign type classifying road signs that can appear along a road. Some signs
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoadSignTypeO15sharpCurveRightyA2CmF"></span>` `<span id="//apple_ref/swift/Element/sharpCurveRight" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-roadsigntype#/s:7heresdk12RoadSignTypeO15sharpCurveRightyA2CmF" class="token"><code>sharpCurveRight</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12RoadSignTypeO15sharpCurveRightyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-sharpCurveRight" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-roadsigntype#sdk-for-ios-explore-s-7heresdk12RoadSignTypeO15sharpCurveRightyA2CmF" class="token"><code>sharpCurveRight</code></a> 
 
   </div>
 
@@ -643,7 +643,7 @@ A road sign type classifying road signs that can appear along a road. Some signs
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoadSignTypeO07windingB12StartingLeftyA2CmF"></span>` `<span id="//apple_ref/swift/Element/windingRoadStartingLeft" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-roadsigntype#/s:7heresdk12RoadSignTypeO07windingB12StartingLeftyA2CmF" class="token"><code>windingRoadStartingLeft</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12RoadSignTypeO07windingB12StartingLeftyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-windingRoadStartingLeft" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-roadsigntype#sdk-for-ios-explore-s-7heresdk12RoadSignTypeO07windingB12StartingLeftyA2CmF" class="token"><code>windingRoadStartingLeft</code></a> 
 
   </div>
 
@@ -687,7 +687,7 @@ A road sign type classifying road signs that can appear along a road. Some signs
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoadSignTypeO07windingB13StartingRightyA2CmF"></span>` `<span id="//apple_ref/swift/Element/windingRoadStartingRight" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-roadsigntype#/s:7heresdk12RoadSignTypeO07windingB13StartingRightyA2CmF" class="token"><code>windingRoadStartingRight</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12RoadSignTypeO07windingB13StartingRightyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-windingRoadStartingRight" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-roadsigntype#sdk-for-ios-explore-s-7heresdk12RoadSignTypeO07windingB13StartingRightyA2CmF" class="token"><code>windingRoadStartingRight</code></a> 
 
   </div>
 
@@ -731,7 +731,7 @@ A road sign type classifying road signs that can appear along a road. Some signs
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoadSignTypeO25startOfNoOvertakingTrucksyA2CmF"></span>` `<span id="//apple_ref/swift/Element/startOfNoOvertakingTrucks" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-roadsigntype#/s:7heresdk12RoadSignTypeO25startOfNoOvertakingTrucksyA2CmF" class="token"><code>startOfNoOvertakingTrucks</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12RoadSignTypeO25startOfNoOvertakingTrucksyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-startOfNoOvertakingTrucks" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-roadsigntype#sdk-for-ios-explore-s-7heresdk12RoadSignTypeO25startOfNoOvertakingTrucksyA2CmF" class="token"><code>startOfNoOvertakingTrucks</code></a> 
 
   </div>
 
@@ -775,7 +775,7 @@ A road sign type classifying road signs that can appear along a road. Some signs
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoadSignTypeO23endOfNoOvertakingTrucksyA2CmF"></span>` `<span id="//apple_ref/swift/Element/endOfNoOvertakingTrucks" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-roadsigntype#/s:7heresdk12RoadSignTypeO23endOfNoOvertakingTrucksyA2CmF" class="token"><code>endOfNoOvertakingTrucks</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12RoadSignTypeO23endOfNoOvertakingTrucksyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-endOfNoOvertakingTrucks" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-roadsigntype#sdk-for-ios-explore-s-7heresdk12RoadSignTypeO23endOfNoOvertakingTrucksyA2CmF" class="token"><code>endOfNoOvertakingTrucks</code></a> 
 
   </div>
 
@@ -819,7 +819,7 @@ A road sign type classifying road signs that can appear along a road. Some signs
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoadSignTypeO16steepHillUpwardsyA2CmF"></span>` `<span id="//apple_ref/swift/Element/steepHillUpwards" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-roadsigntype#/s:7heresdk12RoadSignTypeO16steepHillUpwardsyA2CmF" class="token"><code>steepHillUpwards</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12RoadSignTypeO16steepHillUpwardsyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-steepHillUpwards" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-roadsigntype#sdk-for-ios-explore-s-7heresdk12RoadSignTypeO16steepHillUpwardsyA2CmF" class="token"><code>steepHillUpwards</code></a> 
 
   </div>
 
@@ -863,7 +863,7 @@ A road sign type classifying road signs that can appear along a road. Some signs
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoadSignTypeO18steepHillDownwardsyA2CmF"></span>` `<span id="//apple_ref/swift/Element/steepHillDownwards" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-roadsigntype#/s:7heresdk12RoadSignTypeO18steepHillDownwardsyA2CmF" class="token"><code>steepHillDownwards</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12RoadSignTypeO18steepHillDownwardsyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-steepHillDownwards" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-roadsigntype#sdk-for-ios-explore-s-7heresdk12RoadSignTypeO18steepHillDownwardsyA2CmF" class="token"><code>steepHillDownwards</code></a> 
 
   </div>
 
@@ -907,7 +907,7 @@ A road sign type classifying road signs that can appear along a road. Some signs
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoadSignTypeO04stopC0yA2CmF"></span>` `<span id="//apple_ref/swift/Element/stopSign" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-roadsigntype#/s:7heresdk12RoadSignTypeO04stopC0yA2CmF" class="token"><code>stopSign</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12RoadSignTypeO04stopC0yA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-stopSign" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-roadsigntype#sdk-for-ios-explore-s-7heresdk12RoadSignTypeO04stopC0yA2CmF" class="token"><code>stopSign</code></a> 
 
   </div>
 
@@ -951,7 +951,7 @@ A road sign type classifying road signs that can appear along a road. Some signs
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoadSignTypeO11lateralWindyA2CmF"></span>` `<span id="//apple_ref/swift/Element/lateralWind" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-roadsigntype#/s:7heresdk12RoadSignTypeO11lateralWindyA2CmF" class="token"><code>lateralWind</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12RoadSignTypeO11lateralWindyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-lateralWind" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-roadsigntype#sdk-for-ios-explore-s-7heresdk12RoadSignTypeO11lateralWindyA2CmF" class="token"><code>lateralWind</code></a> 
 
   </div>
 
@@ -995,7 +995,7 @@ A road sign type classifying road signs that can appear along a road. Some signs
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoadSignTypeO014generalWarningC0yA2CmF"></span>` `<span id="//apple_ref/swift/Element/generalWarningSign" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-roadsigntype#/s:7heresdk12RoadSignTypeO014generalWarningC0yA2CmF" class="token"><code>generalWarningSign</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12RoadSignTypeO014generalWarningC0yA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-generalWarningSign" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-roadsigntype#sdk-for-ios-explore-s-7heresdk12RoadSignTypeO014generalWarningC0yA2CmF" class="token"><code>generalWarningSign</code></a> 
 
   </div>
 
@@ -1039,7 +1039,7 @@ A road sign type classifying road signs that can appear along a road. Some signs
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoadSignTypeO15riskOfGroundingyA2CmF"></span>` `<span id="//apple_ref/swift/Element/riskOfGrounding" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-roadsigntype#/s:7heresdk12RoadSignTypeO15riskOfGroundingyA2CmF" class="token"><code>riskOfGrounding</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12RoadSignTypeO15riskOfGroundingyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-riskOfGrounding" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-roadsigntype#sdk-for-ios-explore-s-7heresdk12RoadSignTypeO15riskOfGroundingyA2CmF" class="token"><code>riskOfGrounding</code></a> 
 
   </div>
 
@@ -1083,7 +1083,7 @@ A road sign type classifying road signs that can appear along a road. Some signs
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoadSignTypeO12generalCurveyA2CmF"></span>` `<span id="//apple_ref/swift/Element/generalCurve" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-roadsigntype#/s:7heresdk12RoadSignTypeO12generalCurveyA2CmF" class="token"><code>generalCurve</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12RoadSignTypeO12generalCurveyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-generalCurve" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-roadsigntype#sdk-for-ios-explore-s-7heresdk12RoadSignTypeO12generalCurveyA2CmF" class="token"><code>generalCurve</code></a> 
 
   </div>
 
@@ -1127,7 +1127,7 @@ A road sign type classifying road signs that can appear along a road. Some signs
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoadSignTypeO20endOfAllRestrictionsyA2CmF"></span>` `<span id="//apple_ref/swift/Element/endOfAllRestrictions" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-roadsigntype#/s:7heresdk12RoadSignTypeO20endOfAllRestrictionsyA2CmF" class="token"><code>endOfAllRestrictions</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12RoadSignTypeO20endOfAllRestrictionsyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-endOfAllRestrictions" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-roadsigntype#sdk-for-ios-explore-s-7heresdk12RoadSignTypeO20endOfAllRestrictionsyA2CmF" class="token"><code>endOfAllRestrictions</code></a> 
 
   </div>
 
@@ -1171,7 +1171,7 @@ A road sign type classifying road signs that can appear along a road. Some signs
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoadSignTypeO11generalHillyA2CmF"></span>` `<span id="//apple_ref/swift/Element/generalHill" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-roadsigntype#/s:7heresdk12RoadSignTypeO11generalHillyA2CmF" class="token"><code>generalHill</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12RoadSignTypeO11generalHillyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-generalHill" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-roadsigntype#sdk-for-ios-explore-s-7heresdk12RoadSignTypeO11generalHillyA2CmF" class="token"><code>generalHill</code></a> 
 
   </div>
 
@@ -1215,7 +1215,7 @@ A road sign type classifying road signs that can appear along a road. Some signs
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoadSignTypeO14animalCrossingyA2CmF"></span>` `<span id="//apple_ref/swift/Element/animalCrossing" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-roadsigntype#/s:7heresdk12RoadSignTypeO14animalCrossingyA2CmF" class="token"><code>animalCrossing</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12RoadSignTypeO14animalCrossingyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-animalCrossing" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-roadsigntype#sdk-for-ios-explore-s-7heresdk12RoadSignTypeO14animalCrossingyA2CmF" class="token"><code>animalCrossing</code></a> 
 
   </div>
 
@@ -1259,7 +1259,7 @@ A road sign type classifying road signs that can appear along a road. Some signs
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoadSignTypeO13icyConditionsyA2CmF"></span>` `<span id="//apple_ref/swift/Element/icyConditions" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-roadsigntype#/s:7heresdk12RoadSignTypeO13icyConditionsyA2CmF" class="token"><code>icyConditions</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12RoadSignTypeO13icyConditionsyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-icyConditions" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-roadsigntype#sdk-for-ios-explore-s-7heresdk12RoadSignTypeO13icyConditionsyA2CmF" class="token"><code>icyConditions</code></a> 
 
   </div>
 
@@ -1303,7 +1303,7 @@ A road sign type classifying road signs that can appear along a road. Some signs
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoadSignTypeO08slipperyB0yA2CmF"></span>` `<span id="//apple_ref/swift/Element/slipperyRoad" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-roadsigntype#/s:7heresdk12RoadSignTypeO08slipperyB0yA2CmF" class="token"><code>slipperyRoad</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12RoadSignTypeO08slipperyB0yA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-slipperyRoad" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-roadsigntype#sdk-for-ios-explore-s-7heresdk12RoadSignTypeO08slipperyB0yA2CmF" class="token"><code>slipperyRoad</code></a> 
 
   </div>
 
@@ -1347,7 +1347,7 @@ A road sign type classifying road signs that can appear along a road. Some signs
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoadSignTypeO12fallingRocksyA2CmF"></span>` `<span id="//apple_ref/swift/Element/fallingRocks" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-roadsigntype#/s:7heresdk12RoadSignTypeO12fallingRocksyA2CmF" class="token"><code>fallingRocks</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12RoadSignTypeO12fallingRocksyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-fallingRocks" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-roadsigntype#sdk-for-ios-explore-s-7heresdk12RoadSignTypeO12fallingRocksyA2CmF" class="token"><code>fallingRocks</code></a> 
 
   </div>
 
@@ -1391,7 +1391,7 @@ A road sign type classifying road signs that can appear along a road. Some signs
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoadSignTypeO10schoolZoneyA2CmF"></span>` `<span id="//apple_ref/swift/Element/schoolZone" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-roadsigntype#/s:7heresdk12RoadSignTypeO10schoolZoneyA2CmF" class="token"><code>schoolZone</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12RoadSignTypeO10schoolZoneyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-schoolZone" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-roadsigntype#sdk-for-ios-explore-s-7heresdk12RoadSignTypeO10schoolZoneyA2CmF" class="token"><code>schoolZone</code></a> 
 
   </div>
 
@@ -1435,7 +1435,7 @@ A road sign type classifying road signs that can appear along a road. Some signs
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoadSignTypeO15tramwayCrossingyA2CmF"></span>` `<span id="//apple_ref/swift/Element/tramwayCrossing" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-roadsigntype#/s:7heresdk12RoadSignTypeO15tramwayCrossingyA2CmF" class="token"><code>tramwayCrossing</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12RoadSignTypeO15tramwayCrossingyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-tramwayCrossing" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-roadsigntype#sdk-for-ios-explore-s-7heresdk12RoadSignTypeO15tramwayCrossingyA2CmF" class="token"><code>tramwayCrossing</code></a> 
 
   </div>
 
@@ -1479,7 +1479,7 @@ A road sign type classifying road signs that can appear along a road. Some signs
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoadSignTypeO16congestionHazardyA2CmF"></span>` `<span id="//apple_ref/swift/Element/congestionHazard" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-roadsigntype#/s:7heresdk12RoadSignTypeO16congestionHazardyA2CmF" class="token"><code>congestionHazard</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12RoadSignTypeO16congestionHazardyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-congestionHazard" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-roadsigntype#sdk-for-ios-explore-s-7heresdk12RoadSignTypeO16congestionHazardyA2CmF" class="token"><code>congestionHazard</code></a> 
 
   </div>
 
@@ -1523,7 +1523,7 @@ A road sign type classifying road signs that can appear along a road. Some signs
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoadSignTypeO14accidentHazardyA2CmF"></span>` `<span id="//apple_ref/swift/Element/accidentHazard" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-roadsigntype#/s:7heresdk12RoadSignTypeO14accidentHazardyA2CmF" class="token"><code>accidentHazard</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12RoadSignTypeO14accidentHazardyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-accidentHazard" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-roadsigntype#sdk-for-ios-explore-s-7heresdk12RoadSignTypeO14accidentHazardyA2CmF" class="token"><code>accidentHazard</code></a> 
 
   </div>
 
@@ -1567,7 +1567,7 @@ A road sign type classifying road signs that can appear along a road. Some signs
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoadSignTypeO27priorityOverOncomingTrafficyA2CmF"></span>` `<span id="//apple_ref/swift/Element/priorityOverOncomingTraffic" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-roadsigntype#/s:7heresdk12RoadSignTypeO27priorityOverOncomingTrafficyA2CmF" class="token"><code>priorityOverOncomingTraffic</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12RoadSignTypeO27priorityOverOncomingTrafficyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-priorityOverOncomingTraffic" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-roadsigntype#sdk-for-ios-explore-s-7heresdk12RoadSignTypeO27priorityOverOncomingTrafficyA2CmF" class="token"><code>priorityOverOncomingTraffic</code></a> 
 
   </div>
 
@@ -1611,7 +1611,7 @@ A road sign type classifying road signs that can appear along a road. Some signs
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoadSignTypeO22yieldToOncomingTrafficyA2CmF"></span>` `<span id="//apple_ref/swift/Element/yieldToOncomingTraffic" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-roadsigntype#/s:7heresdk12RoadSignTypeO22yieldToOncomingTrafficyA2CmF" class="token"><code>yieldToOncomingTraffic</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12RoadSignTypeO22yieldToOncomingTrafficyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-yieldToOncomingTraffic" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-roadsigntype#sdk-for-ios-explore-s-7heresdk12RoadSignTypeO22yieldToOncomingTrafficyA2CmF" class="token"><code>yieldToOncomingTraffic</code></a> 
 
   </div>
 
@@ -1655,7 +1655,7 @@ A road sign type classifying road signs that can appear along a road. Some signs
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoadSignTypeO32crossingWithPriorityFromTheRightyA2CmF"></span>` `<span id="//apple_ref/swift/Element/crossingWithPriorityFromTheRight" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-roadsigntype#/s:7heresdk12RoadSignTypeO32crossingWithPriorityFromTheRightyA2CmF" class="token"><code>crossingWithPriorityFromTheRight</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12RoadSignTypeO32crossingWithPriorityFromTheRightyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-crossingWithPriorityFromTheRight" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-roadsigntype#sdk-for-ios-explore-s-7heresdk12RoadSignTypeO32crossingWithPriorityFromTheRightyA2CmF" class="token"><code>crossingWithPriorityFromTheRight</code></a> 
 
   </div>
 
@@ -1699,7 +1699,7 @@ A road sign type classifying road signs that can appear along a road. Some signs
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoadSignTypeO18pedestrianCrossingyA2CmF"></span>` `<span id="//apple_ref/swift/Element/pedestrianCrossing" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-roadsigntype#/s:7heresdk12RoadSignTypeO18pedestrianCrossingyA2CmF" class="token"><code>pedestrianCrossing</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12RoadSignTypeO18pedestrianCrossingyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-pedestrianCrossing" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-roadsigntype#sdk-for-ios-explore-s-7heresdk12RoadSignTypeO18pedestrianCrossingyA2CmF" class="token"><code>pedestrianCrossing</code></a> 
 
   </div>
 
@@ -1743,7 +1743,7 @@ A road sign type classifying road signs that can appear along a road. Some signs
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoadSignTypeO5yieldyA2CmF"></span>` `<span id="//apple_ref/swift/Element/yield" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-roadsigntype#/s:7heresdk12RoadSignTypeO5yieldyA2CmF" class="token"><code>yield</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12RoadSignTypeO5yieldyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-yield" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-roadsigntype#sdk-for-ios-explore-s-7heresdk12RoadSignTypeO5yieldyA2CmF" class="token"><code>yield</code></a> 
 
   </div>
 
@@ -1787,7 +1787,7 @@ A road sign type classifying road signs that can appear along a road. Some signs
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoadSignTypeO13doubleHairpinyA2CmF"></span>` `<span id="//apple_ref/swift/Element/doubleHairpin" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-roadsigntype#/s:7heresdk12RoadSignTypeO13doubleHairpinyA2CmF" class="token"><code>doubleHairpin</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12RoadSignTypeO13doubleHairpinyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-doubleHairpin" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-roadsigntype#sdk-for-ios-explore-s-7heresdk12RoadSignTypeO13doubleHairpinyA2CmF" class="token"><code>doubleHairpin</code></a> 
 
   </div>
 
@@ -1831,7 +1831,7 @@ A road sign type classifying road signs that can appear along a road. Some signs
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoadSignTypeO13tripleHairpinyA2CmF"></span>` `<span id="//apple_ref/swift/Element/tripleHairpin" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-roadsigntype#/s:7heresdk12RoadSignTypeO13tripleHairpinyA2CmF" class="token"><code>tripleHairpin</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12RoadSignTypeO13tripleHairpinyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-tripleHairpin" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-roadsigntype#sdk-for-ios-explore-s-7heresdk12RoadSignTypeO13tripleHairpinyA2CmF" class="token"><code>tripleHairpin</code></a> 
 
   </div>
 
@@ -1875,7 +1875,7 @@ A road sign type classifying road signs that can appear along a road. Some signs
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoadSignTypeO10embankmentyA2CmF"></span>` `<span id="//apple_ref/swift/Element/embankment" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-roadsigntype#/s:7heresdk12RoadSignTypeO10embankmentyA2CmF" class="token"><code>embankment</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12RoadSignTypeO10embankmentyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-embankment" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-roadsigntype#sdk-for-ios-explore-s-7heresdk12RoadSignTypeO10embankmentyA2CmF" class="token"><code>embankment</code></a> 
 
   </div>
 
@@ -1919,7 +1919,7 @@ A road sign type classifying road signs that can appear along a road. Some signs
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoadSignTypeO13twoWayTrafficyA2CmF"></span>` `<span id="//apple_ref/swift/Element/twoWayTraffic" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-roadsigntype#/s:7heresdk12RoadSignTypeO13twoWayTrafficyA2CmF" class="token"><code>twoWayTraffic</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12RoadSignTypeO13twoWayTrafficyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-twoWayTraffic" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-roadsigntype#sdk-for-ios-explore-s-7heresdk12RoadSignTypeO13twoWayTrafficyA2CmF" class="token"><code>twoWayTraffic</code></a> 
 
   </div>
 
@@ -1963,7 +1963,7 @@ A road sign type classifying road signs that can appear along a road. Some signs
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoadSignTypeO9urbanAreayA2CmF"></span>` `<span id="//apple_ref/swift/Element/urbanArea" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-roadsigntype#/s:7heresdk12RoadSignTypeO9urbanAreayA2CmF" class="token"><code>urbanArea</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12RoadSignTypeO9urbanAreayA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-urbanArea" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-roadsigntype#sdk-for-ios-explore-s-7heresdk12RoadSignTypeO9urbanAreayA2CmF" class="token"><code>urbanArea</code></a> 
 
   </div>
 
@@ -2007,7 +2007,7 @@ A road sign type classifying road signs that can appear along a road. Some signs
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoadSignTypeO10humpBridgeyA2CmF"></span>` `<span id="//apple_ref/swift/Element/humpBridge" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-roadsigntype#/s:7heresdk12RoadSignTypeO10humpBridgeyA2CmF" class="token"><code>humpBridge</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12RoadSignTypeO10humpBridgeyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-humpBridge" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-roadsigntype#sdk-for-ios-explore-s-7heresdk12RoadSignTypeO10humpBridgeyA2CmF" class="token"><code>humpBridge</code></a> 
 
   </div>
 
@@ -2051,7 +2051,7 @@ A road sign type classifying road signs that can appear along a road. Some signs
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoadSignTypeO06unevenB0yA2CmF"></span>` `<span id="//apple_ref/swift/Element/unevenRoad" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-roadsigntype#/s:7heresdk12RoadSignTypeO06unevenB0yA2CmF" class="token"><code>unevenRoad</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12RoadSignTypeO06unevenB0yA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-unevenRoad" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-roadsigntype#sdk-for-ios-explore-s-7heresdk12RoadSignTypeO06unevenB0yA2CmF" class="token"><code>unevenRoad</code></a> 
 
   </div>
 
@@ -2095,7 +2095,7 @@ A road sign type classifying road signs that can appear along a road. Some signs
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoadSignTypeO9floodAreayA2CmF"></span>` `<span id="//apple_ref/swift/Element/floodArea" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-roadsigntype#/s:7heresdk12RoadSignTypeO9floodAreayA2CmF" class="token"><code>floodArea</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12RoadSignTypeO9floodAreayA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-floodArea" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-roadsigntype#sdk-for-ios-explore-s-7heresdk12RoadSignTypeO9floodAreayA2CmF" class="token"><code>floodArea</code></a> 
 
   </div>
 
@@ -2139,7 +2139,7 @@ A road sign type classifying road signs that can appear along a road. Some signs
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoadSignTypeO8obstacleyA2CmF"></span>` `<span id="//apple_ref/swift/Element/obstacle" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-roadsigntype#/s:7heresdk12RoadSignTypeO8obstacleyA2CmF" class="token"><code>obstacle</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12RoadSignTypeO8obstacleyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-obstacle" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-roadsigntype#sdk-for-ios-explore-s-7heresdk12RoadSignTypeO8obstacleyA2CmF" class="token"><code>obstacle</code></a> 
 
   </div>
 
@@ -2183,7 +2183,7 @@ A road sign type classifying road signs that can appear along a road. Some signs
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoadSignTypeO04hornC0yA2CmF"></span>` `<span id="//apple_ref/swift/Element/hornSign" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-roadsigntype#/s:7heresdk12RoadSignTypeO04hornC0yA2CmF" class="token"><code>hornSign</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12RoadSignTypeO04hornC0yA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-hornSign" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-roadsigntype#sdk-for-ios-explore-s-7heresdk12RoadSignTypeO04hornC0yA2CmF" class="token"><code>hornSign</code></a> 
 
   </div>
 
@@ -2227,7 +2227,7 @@ A road sign type classifying road signs that can appear along a road. Some signs
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoadSignTypeO13noEngineBrakeyA2CmF"></span>` `<span id="//apple_ref/swift/Element/noEngineBrake" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-roadsigntype#/s:7heresdk12RoadSignTypeO13noEngineBrakeyA2CmF" class="token"><code>noEngineBrake</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12RoadSignTypeO13noEngineBrakeyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-noEngineBrake" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-roadsigntype#sdk-for-ios-explore-s-7heresdk12RoadSignTypeO13noEngineBrakeyA2CmF" class="token"><code>noEngineBrake</code></a> 
 
   </div>
 
@@ -2271,7 +2271,7 @@ A road sign type classifying road signs that can appear along a road. Some signs
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoadSignTypeO18endOfNoEngineBrakeyA2CmF"></span>` `<span id="//apple_ref/swift/Element/endOfNoEngineBrake" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-roadsigntype#/s:7heresdk12RoadSignTypeO18endOfNoEngineBrakeyA2CmF" class="token"><code>endOfNoEngineBrake</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12RoadSignTypeO18endOfNoEngineBrakeyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-endOfNoEngineBrake" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-roadsigntype#sdk-for-ios-explore-s-7heresdk12RoadSignTypeO18endOfNoEngineBrakeyA2CmF" class="token"><code>endOfNoEngineBrake</code></a> 
 
   </div>
 
@@ -2315,7 +2315,7 @@ A road sign type classifying road signs that can appear along a road. Some signs
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoadSignTypeO8noIdlingyA2CmF"></span>` `<span id="//apple_ref/swift/Element/noIdling" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-roadsigntype#/s:7heresdk12RoadSignTypeO8noIdlingyA2CmF" class="token"><code>noIdling</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12RoadSignTypeO8noIdlingyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-noIdling" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-roadsigntype#sdk-for-ios-explore-s-7heresdk12RoadSignTypeO8noIdlingyA2CmF" class="token"><code>noIdling</code></a> 
 
   </div>
 
@@ -2359,7 +2359,7 @@ A road sign type classifying road signs that can appear along a road. Some signs
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoadSignTypeO13truckRolloveryA2CmF"></span>` `<span id="//apple_ref/swift/Element/truckRollover" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-roadsigntype#/s:7heresdk12RoadSignTypeO13truckRolloveryA2CmF" class="token"><code>truckRollover</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12RoadSignTypeO13truckRolloveryA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-truckRollover" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-roadsigntype#sdk-for-ios-explore-s-7heresdk12RoadSignTypeO13truckRolloveryA2CmF" class="token"><code>truckRollover</code></a> 
 
   </div>
 
@@ -2403,7 +2403,7 @@ A road sign type classifying road signs that can appear along a road. Some signs
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoadSignTypeO7lowGearyA2CmF"></span>` `<span id="//apple_ref/swift/Element/lowGear" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-roadsigntype#/s:7heresdk12RoadSignTypeO7lowGearyA2CmF" class="token"><code>lowGear</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12RoadSignTypeO7lowGearyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-lowGear" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-roadsigntype#sdk-for-ios-explore-s-7heresdk12RoadSignTypeO7lowGearyA2CmF" class="token"><code>lowGear</code></a> 
 
   </div>
 
@@ -2447,7 +2447,7 @@ A road sign type classifying road signs that can appear along a road. Some signs
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoadSignTypeO12endOfLowGearyA2CmF"></span>` `<span id="//apple_ref/swift/Element/endOfLowGear" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-roadsigntype#/s:7heresdk12RoadSignTypeO12endOfLowGearyA2CmF" class="token"><code>endOfLowGear</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12RoadSignTypeO12endOfLowGearyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-endOfLowGear" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-roadsigntype#sdk-for-ios-explore-s-7heresdk12RoadSignTypeO12endOfLowGearyA2CmF" class="token"><code>endOfLowGear</code></a> 
 
   </div>
 
@@ -2491,7 +2491,7 @@ A road sign type classifying road signs that can appear along a road. Some signs
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoadSignTypeO15bicycleCrossingyA2CmF"></span>` `<span id="//apple_ref/swift/Element/bicycleCrossing" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-roadsigntype#/s:7heresdk12RoadSignTypeO15bicycleCrossingyA2CmF" class="token"><code>bicycleCrossing</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12RoadSignTypeO15bicycleCrossingyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-bicycleCrossing" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-roadsigntype#sdk-for-ios-explore-s-7heresdk12RoadSignTypeO15bicycleCrossingyA2CmF" class="token"><code>bicycleCrossing</code></a> 
 
   </div>
 
@@ -2535,7 +2535,7 @@ A road sign type classifying road signs that can appear along a road. Some signs
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoadSignTypeO15yieldToBicyclesyA2CmF"></span>` `<span id="//apple_ref/swift/Element/yieldToBicycles" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-roadsigntype#/s:7heresdk12RoadSignTypeO15yieldToBicyclesyA2CmF" class="token"><code>yieldToBicycles</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12RoadSignTypeO15yieldToBicyclesyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-yieldToBicycles" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-roadsigntype#sdk-for-ios-explore-s-7heresdk12RoadSignTypeO15yieldToBicyclesyA2CmF" class="token"><code>yieldToBicycles</code></a> 
 
   </div>
 
@@ -2579,7 +2579,7 @@ A road sign type classifying road signs that can appear along a road. Some signs
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoadSignTypeO21noTowedCaravanAllowedyA2CmF"></span>` `<span id="//apple_ref/swift/Element/noTowedCaravanAllowed" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-roadsigntype#/s:7heresdk12RoadSignTypeO21noTowedCaravanAllowedyA2CmF" class="token"><code>noTowedCaravanAllowed</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12RoadSignTypeO21noTowedCaravanAllowedyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-noTowedCaravanAllowed" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-roadsigntype#sdk-for-ios-explore-s-7heresdk12RoadSignTypeO21noTowedCaravanAllowedyA2CmF" class="token"><code>noTowedCaravanAllowed</code></a> 
 
   </div>
 
@@ -2623,7 +2623,7 @@ A road sign type classifying road signs that can appear along a road. Some signs
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoadSignTypeO21noTowedTrailerAllowedyA2CmF"></span>` `<span id="//apple_ref/swift/Element/noTowedTrailerAllowed" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-roadsigntype#/s:7heresdk12RoadSignTypeO21noTowedTrailerAllowedyA2CmF" class="token"><code>noTowedTrailerAllowed</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12RoadSignTypeO21noTowedTrailerAllowedyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-noTowedTrailerAllowed" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-roadsigntype#sdk-for-ios-explore-s-7heresdk12RoadSignTypeO21noTowedTrailerAllowedyA2CmF" class="token"><code>noTowedTrailerAllowed</code></a> 
 
   </div>
 
@@ -2667,7 +2667,7 @@ A road sign type classifying road signs that can appear along a road. Some signs
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoadSignTypeO26noCamperOrMotorhomeAllowedyA2CmF"></span>` `<span id="//apple_ref/swift/Element/noCamperOrMotorhomeAllowed" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-roadsigntype#/s:7heresdk12RoadSignTypeO26noCamperOrMotorhomeAllowedyA2CmF" class="token"><code>noCamperOrMotorhomeAllowed</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12RoadSignTypeO26noCamperOrMotorhomeAllowedyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-noCamperOrMotorhomeAllowed" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-roadsigntype#sdk-for-ios-explore-s-7heresdk12RoadSignTypeO26noCamperOrMotorhomeAllowedyA2CmF" class="token"><code>noCamperOrMotorhomeAllowed</code></a> 
 
   </div>
 
@@ -2711,7 +2711,7 @@ A road sign type classifying road signs that can appear along a road. Some signs
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoadSignTypeO11noTurnOnRedyA2CmF"></span>` `<span id="//apple_ref/swift/Element/noTurnOnRed" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-roadsigntype#/s:7heresdk12RoadSignTypeO11noTurnOnRedyA2CmF" class="token"><code>noTurnOnRed</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12RoadSignTypeO11noTurnOnRedyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-noTurnOnRed" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-roadsigntype#sdk-for-ios-explore-s-7heresdk12RoadSignTypeO11noTurnOnRedyA2CmF" class="token"><code>noTurnOnRed</code></a> 
 
   </div>
 
@@ -2755,7 +2755,7 @@ A road sign type classifying road signs that can appear along a road. Some signs
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoadSignTypeO18turnPermittedOnRedyA2CmF"></span>` `<span id="//apple_ref/swift/Element/turnPermittedOnRed" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-roadsigntype#/s:7heresdk12RoadSignTypeO18turnPermittedOnRedyA2CmF" class="token"><code>turnPermittedOnRed</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12RoadSignTypeO18turnPermittedOnRedyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-turnPermittedOnRed" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-roadsigntype#sdk-for-ios-explore-s-7heresdk12RoadSignTypeO18turnPermittedOnRedyA2CmF" class="token"><code>turnPermittedOnRed</code></a> 
 
   </div>
 
@@ -2799,7 +2799,7 @@ A road sign type classifying road signs that can appear along a road. Some signs
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoadSignTypeO12twoStageLeftyA2CmF"></span>` `<span id="//apple_ref/swift/Element/twoStageLeft" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-roadsigntype#/s:7heresdk12RoadSignTypeO12twoStageLeftyA2CmF" class="token"><code>twoStageLeft</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12RoadSignTypeO12twoStageLeftyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-twoStageLeft" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-roadsigntype#sdk-for-ios-explore-s-7heresdk12RoadSignTypeO12twoStageLeftyA2CmF" class="token"><code>twoStageLeft</code></a> 
 
   </div>
 
@@ -2843,7 +2843,7 @@ A road sign type classifying road signs that can appear along a road. Some signs
 
 - <div>
 
-  ` `<span id="/s:7heresdk12RoadSignTypeO13twoStageRightyA2CmF"></span>` `<span id="//apple_ref/swift/Element/twoStageRight" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-roadsigntype#/s:7heresdk12RoadSignTypeO13twoStageRightyA2CmF" class="token"><code>twoStageRight</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12RoadSignTypeO13twoStageRightyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-twoStageRight" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-roadsigntype#sdk-for-ios-explore-s-7heresdk12RoadSignTypeO13twoStageRightyA2CmF" class="token"><code>twoStageRight</code></a> 
 
   </div>
 

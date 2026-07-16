@@ -35,7 +35,7 @@ Represents an indoor waypoint, used as input for indoor route calculation.
 
 - <div>
 
-      init(coordinates: venueId: levelId: )
+   <span id="sdk-for-ios-navigate-s-7heresdk14IndoorWaypointC11coordinates7venueId05levelF0AcA14GeoCoordinatesV_S2Stcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-coordinates-venueId-levelId" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-indoorwaypoint#sdk-for-ios-navigate-s-7heresdk14IndoorWaypointC11coordinates7venueId05levelF0AcA14GeoCoordinatesV_S2Stcfc" class="token"><code>init(coordinates:</code><wbr></wbr><code>venueId:</code><wbr></wbr><code>levelId:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -66,12 +66,14 @@ Represents an indoor waypoint, used as input for indoor route calculation.
   Swift
 
   ``` highlight
-  public init ( coordinates : GeoCoordinates , venueId : String , levelId : String )
+  public init(coordinates: GeoCoordinates, venueId: String, levelId: String)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-geocoordinates">GeoCoordinates</a>
 
   </div>
 
@@ -114,7 +116,7 @@ Represents an indoor waypoint, used as input for indoor route calculation.
 
 - <div>
 
-      init(coordinates: )
+   <span id="sdk-for-ios-navigate-s-7heresdk14IndoorWaypointC11coordinatesAcA14GeoCoordinatesV_tcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-coordinates" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-indoorwaypoint#sdk-for-ios-navigate-s-7heresdk14IndoorWaypointC11coordinatesAcA14GeoCoordinatesV_tcfc" class="token"><code>init(coordinates:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -145,12 +147,14 @@ Represents an indoor waypoint, used as input for indoor route calculation.
   Swift
 
   ``` highlight
-  public init ( coordinates : GeoCoordinates )
+  public init(coordinates: GeoCoordinates)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-geocoordinates">GeoCoordinates</a>
 
   </div>
 
@@ -181,7 +185,7 @@ Represents an indoor waypoint, used as input for indoor route calculation.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14IndoorWaypointC11coordinatesAA14GeoCoordinatesVvp"></span>` `<span id="//apple_ref/swift/Property/coordinates" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-indoorwaypoint#/s:7heresdk14IndoorWaypointC11coordinatesAA14GeoCoordinatesVvp" class="token"><code>coordinates</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14IndoorWaypointC11coordinatesAA14GeoCoordinatesVvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-coordinates" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-indoorwaypoint#sdk-for-ios-navigate-s-7heresdk14IndoorWaypointC11coordinatesAA14GeoCoordinatesVvp" class="token"><code>coordinates</code></a> 
 
   </div>
 
@@ -217,6 +221,10 @@ Represents an indoor waypoint, used as input for indoor route calculation.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-geocoordinates">GeoCoordinates</a>
+
   </div>
 
   </div>
@@ -225,7 +233,7 @@ Represents an indoor waypoint, used as input for indoor route calculation.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14IndoorWaypointC7venueIdSSSgvp"></span>` `<span id="//apple_ref/swift/Property/venueId" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-indoorwaypoint#/s:7heresdk14IndoorWaypointC7venueIdSSSgvp" class="token"><code>venueId</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14IndoorWaypointC7venueIdSSSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-venueId" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-indoorwaypoint#sdk-for-ios-navigate-s-7heresdk14IndoorWaypointC7venueIdSSSgvp" class="token"><code>venueId</code></a> 
 
   </div>
 
@@ -269,7 +277,7 @@ Represents an indoor waypoint, used as input for indoor route calculation.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14IndoorWaypointC7levelIdSSSgvp"></span>` `<span id="//apple_ref/swift/Property/levelId" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-indoorwaypoint#/s:7heresdk14IndoorWaypointC7levelIdSSSgvp" class="token"><code>levelId</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14IndoorWaypointC7levelIdSSSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-levelId" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-indoorwaypoint#sdk-for-ios-navigate-s-7heresdk14IndoorWaypointC7levelIdSSSgvp" class="token"><code>levelId</code></a> 
 
   </div>
 

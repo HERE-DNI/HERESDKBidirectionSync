@@ -27,7 +27,7 @@ public struct ViolatedRestriction : Hashable
 
 - <div>
 
-  ` `<span id="/s:7heresdk19ViolatedRestrictionV5causeSSvp"></span>` `<span id="//apple_ref/swift/Property/cause" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-violatedrestriction#/s:7heresdk19ViolatedRestrictionV5causeSSvp" class="token"><code>cause</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19ViolatedRestrictionV5causeSSvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-cause" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-violatedrestriction#sdk-for-ios-explore-s-7heresdk19ViolatedRestrictionV5causeSSvp" class="token"><code>cause</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ public struct ViolatedRestriction : Hashable
 
 - <div>
 
-  ` `<span id="/s:7heresdk19ViolatedRestrictionV13timeDependentSbvp"></span>` `<span id="//apple_ref/swift/Property/timeDependent" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-violatedrestriction#/s:7heresdk19ViolatedRestrictionV13timeDependentSbvp" class="token"><code>timeDependent</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19ViolatedRestrictionV13timeDependentSbvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-timeDependent" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-violatedrestriction#sdk-for-ios-explore-s-7heresdk19ViolatedRestrictionV13timeDependentSbvp" class="token"><code>timeDependent</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ public struct ViolatedRestriction : Hashable
 
 - <div>
 
-  ` `<span id="/s:7heresdk19ViolatedRestrictionV7detailsAC7DetailsVSgvp"></span>` `<span id="//apple_ref/swift/Property/details" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-violatedrestriction#/s:7heresdk19ViolatedRestrictionV7detailsAC7DetailsVSgvp" class="token"><code>details</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19ViolatedRestrictionV7detailsAC7DetailsVSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-details" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-violatedrestriction#sdk-for-ios-explore-s-7heresdk19ViolatedRestrictionV7detailsAC7DetailsVSgvp" class="token"><code>details</code></a> 
 
   </div>
 
@@ -151,6 +151,10 @@ public struct ViolatedRestriction : Hashable
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-violatedrestriction-details">Details</a>
+
   </div>
 
   </div>
@@ -159,7 +163,7 @@ public struct ViolatedRestriction : Hashable
 
 - <div>
 
-      init(cause: timeDependent: details: )
+   <span id="sdk-for-ios-explore-s-7heresdk19ViolatedRestrictionV5cause13timeDependent7detailsACSS_SbAC7DetailsVSgtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-cause-timeDependent-details" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-violatedrestriction#sdk-for-ios-explore-s-7heresdk19ViolatedRestrictionV5cause13timeDependent7detailsACSS_SbAC7DetailsVSgtcfc" class="token"><code>init(cause:</code><wbr></wbr><code>timeDependent:</code><wbr></wbr><code>details:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -190,12 +194,14 @@ public struct ViolatedRestriction : Hashable
   Swift
 
   ``` highlight
-  public init ( cause : String , timeDependent : Bool , details : ViolatedRestriction . Details ? = nil )
+  public init(cause: String, timeDependent: Bool, details: ViolatedRestriction.Details? = nil)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-violatedrestriction-details">Details</a>
 
   </div>
 
@@ -205,7 +211,7 @@ public struct ViolatedRestriction : Hashable
 
 - <div>
 
-  ` `<span id="/s:7heresdk19ViolatedRestrictionV7DetailsV"></span>` `<span id="//apple_ref/swift/Struct/Details" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-violatedrestriction#/s:7heresdk19ViolatedRestrictionV7DetailsV" class="token"><code>Details</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19ViolatedRestrictionV7DetailsV"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Struct-Details" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-violatedrestriction#sdk-for-ios-explore-s-7heresdk19ViolatedRestrictionV7DetailsV" class="token"><code>Details</code></a> 
 
   </div>
 

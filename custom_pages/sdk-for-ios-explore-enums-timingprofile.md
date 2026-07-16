@@ -27,7 +27,7 @@ Identifies the timing profile used for emitting notifications and warnings.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13TimingProfileO9slowSpeedyA2CmF"></span>` `<span id="//apple_ref/swift/Element/slowSpeed" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-timingprofile#/s:7heresdk13TimingProfileO9slowSpeedyA2CmF" class="token"><code>slowSpeed</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13TimingProfileO9slowSpeedyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-slowSpeed" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-timingprofile#sdk-for-ios-explore-s-7heresdk13TimingProfileO9slowSpeedyA2CmF" class="token"><code>slowSpeed</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Identifies the timing profile used for emitting notifications and warnings.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13TimingProfileO12regularSpeedyA2CmF"></span>` `<span id="//apple_ref/swift/Element/regularSpeed" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-timingprofile#/s:7heresdk13TimingProfileO12regularSpeedyA2CmF" class="token"><code>regularSpeed</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13TimingProfileO12regularSpeedyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-regularSpeed" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-timingprofile#sdk-for-ios-explore-s-7heresdk13TimingProfileO12regularSpeedyA2CmF" class="token"><code>regularSpeed</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Identifies the timing profile used for emitting notifications and warnings.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13TimingProfileO9fastSpeedyA2CmF"></span>` `<span id="//apple_ref/swift/Element/fastSpeed" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-timingprofile#/s:7heresdk13TimingProfileO9fastSpeedyA2CmF" class="token"><code>fastSpeed</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13TimingProfileO9fastSpeedyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-fastSpeed" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-timingprofile#sdk-for-ios-explore-s-7heresdk13TimingProfileO9fastSpeedyA2CmF" class="token"><code>fastSpeed</code></a> 
 
   </div>
 

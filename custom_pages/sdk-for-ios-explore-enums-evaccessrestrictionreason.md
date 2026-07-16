@@ -27,7 +27,7 @@ Represents the restriction reason of an <a href="sdk-for-ios-explore-structs-evc
 
 - <div>
 
-  ` `<span id="/s:7heresdk25EVAccessRestrictionReasonO13customersOnlyyA2CmF"></span>` `<span id="//apple_ref/swift/Element/customersOnly" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-evaccessrestrictionreason#/s:7heresdk25EVAccessRestrictionReasonO13customersOnlyyA2CmF" class="token"><code>customersOnly</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk25EVAccessRestrictionReasonO13customersOnlyyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-customersOnly" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-evaccessrestrictionreason#sdk-for-ios-explore-s-7heresdk25EVAccessRestrictionReasonO13customersOnlyyA2CmF" class="token"><code>customersOnly</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Represents the restriction reason of an <a href="sdk-for-ios-explore-structs-evc
 
 - <div>
 
-  ` `<span id="/s:7heresdk25EVAccessRestrictionReasonO9brandOnlyyA2CmF"></span>` `<span id="//apple_ref/swift/Element/brandOnly" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-evaccessrestrictionreason#/s:7heresdk25EVAccessRestrictionReasonO9brandOnlyyA2CmF" class="token"><code>brandOnly</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk25EVAccessRestrictionReasonO9brandOnlyyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-brandOnly" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-evaccessrestrictionreason#sdk-for-ios-explore-s-7heresdk25EVAccessRestrictionReasonO9brandOnlyyA2CmF" class="token"><code>brandOnly</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Represents the restriction reason of an <a href="sdk-for-ios-explore-structs-evc
 
 - <div>
 
-  ` `<span id="/s:7heresdk25EVAccessRestrictionReasonO14carSharingOnlyyA2CmF"></span>` `<span id="//apple_ref/swift/Element/carSharingOnly" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-evaccessrestrictionreason#/s:7heresdk25EVAccessRestrictionReasonO14carSharingOnlyyA2CmF" class="token"><code>carSharingOnly</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk25EVAccessRestrictionReasonO14carSharingOnlyyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-carSharingOnly" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-evaccessrestrictionreason#sdk-for-ios-explore-s-7heresdk25EVAccessRestrictionReasonO14carSharingOnlyyA2CmF" class="token"><code>carSharingOnly</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Represents the restriction reason of an <a href="sdk-for-ios-explore-structs-evc
 
 - <div>
 
-  ` `<span id="/s:7heresdk25EVAccessRestrictionReasonO9taxisOnlyyA2CmF"></span>` `<span id="//apple_ref/swift/Element/taxisOnly" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-evaccessrestrictionreason#/s:7heresdk25EVAccessRestrictionReasonO9taxisOnlyyA2CmF" class="token"><code>taxisOnly</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk25EVAccessRestrictionReasonO9taxisOnlyyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-taxisOnly" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-evaccessrestrictionreason#sdk-for-ios-explore-s-7heresdk25EVAccessRestrictionReasonO9taxisOnlyyA2CmF" class="token"><code>taxisOnly</code></a> 
 
   </div>
 
@@ -203,7 +203,7 @@ Represents the restriction reason of an <a href="sdk-for-ios-explore-structs-evc
 
 - <div>
 
-  ` `<span id="/s:7heresdk25EVAccessRestrictionReasonO5otheryA2CmF"></span>` `<span id="//apple_ref/swift/Element/other" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-evaccessrestrictionreason#/s:7heresdk25EVAccessRestrictionReasonO5otheryA2CmF" class="token"><code>other</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk25EVAccessRestrictionReasonO5otheryA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-other" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-evaccessrestrictionreason#sdk-for-ios-explore-s-7heresdk25EVAccessRestrictionReasonO5otheryA2CmF" class="token"><code>other</code></a> 
 
   </div>
 

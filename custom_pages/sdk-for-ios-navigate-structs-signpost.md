@@ -27,7 +27,7 @@ Signpost information.
 
 - <div>
 
-  ` `<span id="/s:7heresdk8SignpostV6labelsSayAA0B5LabelVGvp"></span>` `<span id="//apple_ref/swift/Property/labels" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-signpost#/s:7heresdk8SignpostV6labelsSayAA0B5LabelVGvp" class="token"><code>labels</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8SignpostV6labelsSayAA0B5LabelVGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-labels" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-signpost#sdk-for-ios-navigate-s-7heresdk8SignpostV6labelsSayAA0B5LabelVGvp" class="token"><code>labels</code></a> 
 
   </div>
 
@@ -63,6 +63,10 @@ Signpost information.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-signpostlabel">SignpostLabel</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ Signpost information.
 
 - <div>
 
-      init(labels: )
+   <span id="sdk-for-ios-navigate-s-7heresdk8SignpostV6labelsACSayAA0B5LabelVG_tcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-labels" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-signpost#sdk-for-ios-navigate-s-7heresdk8SignpostV6labelsACSayAA0B5LabelVG_tcfc" class="token"><code>init(labels:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -102,12 +106,14 @@ Signpost information.
   Swift
 
   ``` highlight
-  public init ( labels : [ SignpostLabel ])
+  public init(labels: [SignpostLabel])
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-signpostlabel">SignpostLabel</a>
 
   </div>
 

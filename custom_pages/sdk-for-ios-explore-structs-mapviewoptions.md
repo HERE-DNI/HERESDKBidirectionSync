@@ -27,7 +27,7 @@ Options used for initialization of map view
 
 - <div>
 
-  ` `<span id="/s:7heresdk14MapViewOptionsV10projectionAA0B10ProjectionOvp"></span>` `<span id="//apple_ref/swift/Property/projection" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-mapviewoptions#/s:7heresdk14MapViewOptionsV10projectionAA0B10ProjectionOvp" class="token"><code>projection</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14MapViewOptionsV10projectionAA0B10ProjectionOvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-projection" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-mapviewoptions#sdk-for-ios-explore-s-7heresdk14MapViewOptionsV10projectionAA0B10ProjectionOvp" class="token"><code>projection</code></a> 
 
   </div>
 
@@ -63,6 +63,10 @@ Options used for initialization of map view
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-mapprojection">MapProjection</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ Options used for initialization of map view
 
 - <div>
 
-  ` `<span id="/s:7heresdk14MapViewOptionsV22initialBackgroundColorSo7UIColorCSgvp"></span>` `<span id="//apple_ref/swift/Property/initialBackgroundColor" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-mapviewoptions#/s:7heresdk14MapViewOptionsV22initialBackgroundColorSo7UIColorCSgvp" class="token"><code>initialBackgroundColor</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14MapViewOptionsV22initialBackgroundColorSo7UIColorCSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-initialBackgroundColor" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-mapviewoptions#sdk-for-ios-explore-s-7heresdk14MapViewOptionsV22initialBackgroundColorSo7UIColorCSgvp" class="token"><code>initialBackgroundColor</code></a> 
 
   </div>
 
@@ -115,7 +119,7 @@ Options used for initialization of map view
 
 - <div>
 
-      init(projection: initialBackgroundColor: )
+   <span id="sdk-for-ios-explore-s-7heresdk14MapViewOptionsV10projection22initialBackgroundColorAcA0B10ProjectionO_So7UIColorCSgtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-projection-initialBackgroundColor" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-mapviewoptions#sdk-for-ios-explore-s-7heresdk14MapViewOptionsV10projection22initialBackgroundColorAcA0B10ProjectionO_So7UIColorCSgtcfc" class="token"><code>init(projection:</code><wbr></wbr><code>initialBackgroundColor:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -146,12 +150,14 @@ Options used for initialization of map view
   Swift
 
   ``` highlight
-  public init ( projection : MapProjection = MapProjection . globe , initialBackgroundColor : UIColor ? = nil )
+  public init(projection: MapProjection = MapProjection.globe, initialBackgroundColor: UIColor? = nil)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-mapprojection">MapProjection</a>
 
   </div>
 

@@ -27,7 +27,7 @@ Describes the impact a notice has on the resource to which the notice is attache
 
 - <div>
 
-  ` `<span id="/s:7heresdk14NoticeSeverityO8criticalyA2CmF"></span>` `<span id="//apple_ref/swift/Element/critical" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-noticeseverity#/s:7heresdk14NoticeSeverityO8criticalyA2CmF" class="token"><code>critical</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14NoticeSeverityO8criticalyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-critical" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-noticeseverity#sdk-for-ios-navigate-s-7heresdk14NoticeSeverityO8criticalyA2CmF" class="token"><code>critical</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Describes the impact a notice has on the resource to which the notice is attache
 
 - <div>
 
-  ` `<span id="/s:7heresdk14NoticeSeverityO4infoyA2CmF"></span>` `<span id="//apple_ref/swift/Element/info" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-noticeseverity#/s:7heresdk14NoticeSeverityO4infoyA2CmF" class="token"><code>info</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14NoticeSeverityO4infoyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-info" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-noticeseverity#sdk-for-ios-navigate-s-7heresdk14NoticeSeverityO4infoyA2CmF" class="token"><code>info</code></a> 
 
   </div>
 

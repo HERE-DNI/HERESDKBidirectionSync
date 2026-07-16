@@ -27,7 +27,7 @@ This protocol should be implemented in order to receive notifications about the 
 
 - <div>
 
-      onOffRoadProgressUpdated(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk23OffRoadProgressDelegateP02onbcD7UpdatedyyAA0bcD0VF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-onOffRoadProgressUpdated-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-protocols-offroadprogressdelegate#sdk-for-ios-navigate-s-7heresdk23OffRoadProgressDelegateP02onbcD7UpdatedyyAA0bcD0VF" class="token"><code>onOffRoadProgressUpdated(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -58,12 +58,14 @@ This protocol should be implemented in order to receive notifications about the 
   Swift
 
   ``` highlight
-  func onOffRoadProgressUpdated ( _ offRoadProgress : OffRoadProgress )
+  func onOffRoadProgressUpdated(_ offRoadProgress: OffRoadProgress)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-offroadprogress">OffRoadProgress</a>
 
   </div>
 

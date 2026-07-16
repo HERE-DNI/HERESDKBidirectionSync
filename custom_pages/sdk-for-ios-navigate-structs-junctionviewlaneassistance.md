@@ -32,7 +32,7 @@ A junction is recognized as complex only if:
 
 - <div>
 
-  ` `<span id="/s:7heresdk26JunctionViewLaneAssistanceV012lanesForNextB0SayAA0D0VGvp"></span>` `<span id="//apple_ref/swift/Property/lanesForNextJunction" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-junctionviewlaneassistance#/s:7heresdk26JunctionViewLaneAssistanceV012lanesForNextB0SayAA0D0VGvp" class="token"><code>lanesForNextJunction</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk26JunctionViewLaneAssistanceV012lanesForNextB0SayAA0D0VGvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-lanesForNextJunction" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-junctionviewlaneassistance#sdk-for-ios-navigate-s-7heresdk26JunctionViewLaneAssistanceV012lanesForNextB0SayAA0D0VGvp" class="token"><code>lanesForNextJunction</code></a> 
 
   </div>
 
@@ -70,6 +70,10 @@ A junction is recognized as complex only if:
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-lane">Lane</a>
+
   </div>
 
   </div>
@@ -78,7 +82,7 @@ A junction is recognized as complex only if:
 
 - <div>
 
-  ` `<span id="/s:7heresdk26JunctionViewLaneAssistanceV010distanceToB8InMetersSdvp"></span>` `<span id="//apple_ref/swift/Property/distanceToJunctionInMeters" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-junctionviewlaneassistance#/s:7heresdk26JunctionViewLaneAssistanceV010distanceToB8InMetersSdvp" class="token"><code>distanceToJunctionInMeters</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk26JunctionViewLaneAssistanceV010distanceToB8InMetersSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-distanceToJunctionInMeters" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-junctionviewlaneassistance#sdk-for-ios-navigate-s-7heresdk26JunctionViewLaneAssistanceV010distanceToB8InMetersSdvp" class="token"><code>distanceToJunctionInMeters</code></a> 
 
   </div>
 
@@ -122,7 +126,7 @@ A junction is recognized as complex only if:
 
 - <div>
 
-      init(lanesForNextJunction: distanceToJunctionInMeters: )
+   <span id="sdk-for-ios-navigate-s-7heresdk26JunctionViewLaneAssistanceV012lanesForNextB0010distanceToB8InMetersACSayAA0D0VG_Sdtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-lanesForNextJunction-distanceToJunctionInMeters" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-junctionviewlaneassistance#sdk-for-ios-navigate-s-7heresdk26JunctionViewLaneAssistanceV012lanesForNextB0010distanceToB8InMetersACSayAA0D0VG_Sdtcfc" class="token"><code>init(lanesForNextJunction:</code><wbr></wbr><code>distanceToJunctionInMeters:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -161,12 +165,14 @@ A junction is recognized as complex only if:
   Swift
 
   ``` highlight
-  public init ( lanesForNextJunction : [ Lane ], distanceToJunctionInMeters : Double )
+  public init(lanesForNextJunction: [Lane], distanceToJunctionInMeters: Double)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-lane">Lane</a>
 
   </div>
 

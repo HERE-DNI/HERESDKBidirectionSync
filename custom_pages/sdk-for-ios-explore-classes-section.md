@@ -37,7 +37,7 @@ A section is a part of the route between two stopovers. A stopover is a location
 
 - <div>
 
-  ` `<span id="/s:7heresdk7SectionC8geometryAA11GeoPolylineVvp"></span>` `<span id="//apple_ref/swift/Property/geometry" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-section#/s:7heresdk7SectionC8geometryAA11GeoPolylineVvp" class="token"><code>geometry</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk7SectionC8geometryAA11GeoPolylineVvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-geometry" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-section#sdk-for-ios-explore-s-7heresdk7SectionC8geometryAA11GeoPolylineVvp" class="token"><code>geometry</code></a> 
 
   </div>
 
@@ -68,12 +68,14 @@ A section is a part of the route between two stopovers. A stopover is a location
   Swift
 
   ``` highlight
-  public private(set) lazy var geometry : GeoPolyline { get set }
+  public private(set) lazy var geometry: GeoPolyline { get set }
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geopolyline">GeoPolyline</a>
 
   </div>
 
@@ -83,7 +85,7 @@ A section is a part of the route between two stopovers. A stopover is a location
 
 - <div>
 
-  ` `<span id="/s:7heresdk7SectionC5spansSayAA4SpanCGvp"></span>` `<span id="//apple_ref/swift/Property/spans" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-section#/s:7heresdk7SectionC5spansSayAA4SpanCGvp" class="token"><code>spans</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk7SectionC5spansSayAA4SpanCGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-spans" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-section#sdk-for-ios-explore-s-7heresdk7SectionC5spansSayAA4SpanCGvp" class="token"><code>spans</code></a> 
 
   </div>
 
@@ -114,12 +116,14 @@ A section is a part of the route between two stopovers. A stopover is a location
   Swift
 
   ``` highlight
-  public private(set) lazy var spans : [ Span ] { get set }
+  public private(set) lazy var spans: [Span] { get set }
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-span">Span</a>
 
   </div>
 
@@ -129,7 +133,7 @@ A section is a part of the route between two stopovers. A stopover is a location
 
 - <div>
 
-  ` `<span id="/s:7heresdk7SectionC9maneuversSayAA8ManeuverCGvp"></span>` `<span id="//apple_ref/swift/Property/maneuvers" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-section#/s:7heresdk7SectionC9maneuversSayAA8ManeuverCGvp" class="token"><code>maneuvers</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk7SectionC9maneuversSayAA8ManeuverCGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-maneuvers" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-section#sdk-for-ios-explore-s-7heresdk7SectionC9maneuversSayAA8ManeuverCGvp" class="token"><code>maneuvers</code></a> 
 
   </div>
 
@@ -160,12 +164,14 @@ A section is a part of the route between two stopovers. A stopover is a location
   Swift
 
   ``` highlight
-  public private(set) lazy var maneuvers : [ Maneuver ] { get set }
+  public private(set) lazy var maneuvers: [Maneuver] { get set }
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-maneuver">Maneuver</a>
 
   </div>
 
@@ -175,7 +181,7 @@ A section is a part of the route between two stopovers. A stopover is a location
 
 - <div>
 
-  ` `<span id="/s:7heresdk7SectionC11boundingBoxAA03GeoD0Vvp"></span>` `<span id="//apple_ref/swift/Property/boundingBox" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-section#/s:7heresdk7SectionC11boundingBoxAA03GeoD0Vvp" class="token"><code>boundingBox</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk7SectionC11boundingBoxAA03GeoD0Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-boundingBox" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-section#sdk-for-ios-explore-s-7heresdk7SectionC11boundingBoxAA03GeoD0Vvp" class="token"><code>boundingBox</code></a> 
 
   </div>
 
@@ -211,6 +217,10 @@ A section is a part of the route between two stopovers. A stopover is a location
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geobox">GeoBox</a>
+
   </div>
 
   </div>
@@ -219,7 +229,7 @@ A section is a part of the route between two stopovers. A stopover is a location
 
 - <div>
 
-  ` `<span id="/s:7heresdk7SectionC14lengthInMeterss5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/lengthInMeters" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-section#/s:7heresdk7SectionC14lengthInMeterss5Int32Vvp" class="token"><code>lengthInMeters</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk7SectionC14lengthInMeterss5Int32Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-lengthInMeters" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-section#sdk-for-ios-explore-s-7heresdk7SectionC14lengthInMeterss5Int32Vvp" class="token"><code>lengthInMeters</code></a> 
 
   </div>
 
@@ -263,7 +273,7 @@ A section is a part of the route between two stopovers. A stopover is a location
 
 - <div>
 
-  ` `<span id="/s:7heresdk7SectionC20sectionTransportModeAA0bdE0Ovp"></span>` `<span id="//apple_ref/swift/Property/sectionTransportMode" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-section#/s:7heresdk7SectionC20sectionTransportModeAA0bdE0Ovp" class="token"><code>sectionTransportMode</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk7SectionC20sectionTransportModeAA0bdE0Ovp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-sectionTransportMode" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-section#sdk-for-ios-explore-s-7heresdk7SectionC20sectionTransportModeAA0bdE0Ovp" class="token"><code>sectionTransportMode</code></a> 
 
   </div>
 
@@ -299,6 +309,10 @@ A section is a part of the route between two stopovers. A stopover is a location
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-sectiontransportmode">SectionTransportMode</a>
+
   </div>
 
   </div>
@@ -307,7 +321,7 @@ A section is a part of the route between two stopovers. A stopover is a location
 
 - <div>
 
-  ` `<span id="/s:7heresdk7SectionC14departurePlaceAA05RouteD0Vvp"></span>` `<span id="//apple_ref/swift/Property/departurePlace" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-section#/s:7heresdk7SectionC14departurePlaceAA05RouteD0Vvp" class="token"><code>departurePlace</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk7SectionC14departurePlaceAA05RouteD0Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-departurePlace" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-section#sdk-for-ios-explore-s-7heresdk7SectionC14departurePlaceAA05RouteD0Vvp" class="token"><code>departurePlace</code></a> 
 
   </div>
 
@@ -343,6 +357,10 @@ A section is a part of the route between two stopovers. A stopover is a location
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-routeplace">RoutePlace</a>
+
   </div>
 
   </div>
@@ -351,7 +369,7 @@ A section is a part of the route between two stopovers. A stopover is a location
 
 - <div>
 
-  ` `<span id="/s:7heresdk7SectionC12arrivalPlaceAA05RouteD0Vvp"></span>` `<span id="//apple_ref/swift/Property/arrivalPlace" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-section#/s:7heresdk7SectionC12arrivalPlaceAA05RouteD0Vvp" class="token"><code>arrivalPlace</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk7SectionC12arrivalPlaceAA05RouteD0Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-arrivalPlace" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-section#sdk-for-ios-explore-s-7heresdk7SectionC12arrivalPlaceAA05RouteD0Vvp" class="token"><code>arrivalPlace</code></a> 
 
   </div>
 
@@ -387,6 +405,10 @@ A section is a part of the route between two stopovers. A stopover is a location
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-routeplace">RoutePlace</a>
+
   </div>
 
   </div>
@@ -395,7 +417,7 @@ A section is a part of the route between two stopovers. A stopover is a location
 
 - <div>
 
-  ` `<span id="/s:7heresdk7SectionC21departureLocationTimeAA0dE0VSgvp"></span>` `<span id="//apple_ref/swift/Property/departureLocationTime" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-section#/s:7heresdk7SectionC21departureLocationTimeAA0dE0VSgvp" class="token"><code>departureLocationTime</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk7SectionC21departureLocationTimeAA0dE0VSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-departureLocationTime" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-section#sdk-for-ios-explore-s-7heresdk7SectionC21departureLocationTimeAA0dE0VSgvp" class="token"><code>departureLocationTime</code></a> 
 
   </div>
 
@@ -431,6 +453,10 @@ A section is a part of the route between two stopovers. A stopover is a location
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-locationtime">LocationTime</a>
+
   </div>
 
   </div>
@@ -439,7 +465,7 @@ A section is a part of the route between two stopovers. A stopover is a location
 
 - <div>
 
-  ` `<span id="/s:7heresdk7SectionC19arrivalLocationTimeAA0dE0VSgvp"></span>` `<span id="//apple_ref/swift/Property/arrivalLocationTime" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-section#/s:7heresdk7SectionC19arrivalLocationTimeAA0dE0VSgvp" class="token"><code>arrivalLocationTime</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk7SectionC19arrivalLocationTimeAA0dE0VSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-arrivalLocationTime" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-section#sdk-for-ios-explore-s-7heresdk7SectionC19arrivalLocationTimeAA0dE0VSgvp" class="token"><code>arrivalLocationTime</code></a> 
 
   </div>
 
@@ -475,6 +501,10 @@ A section is a part of the route between two stopovers. A stopover is a location
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-locationtime">LocationTime</a>
+
   </div>
 
   </div>
@@ -483,7 +513,7 @@ A section is a part of the route between two stopovers. A stopover is a location
 
 - <div>
 
-  ` `<span id="/s:7heresdk7SectionC10preActionsSayAA9PreActionVGvp"></span>` `<span id="//apple_ref/swift/Property/preActions" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-section#/s:7heresdk7SectionC10preActionsSayAA9PreActionVGvp" class="token"><code>preActions</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk7SectionC10preActionsSayAA9PreActionVGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-preActions" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-section#sdk-for-ios-explore-s-7heresdk7SectionC10preActionsSayAA9PreActionVGvp" class="token"><code>preActions</code></a> 
 
   </div>
 
@@ -514,12 +544,14 @@ A section is a part of the route between two stopovers. A stopover is a location
   Swift
 
   ``` highlight
-  public private(set) lazy var preActions : [ PreAction ] { get set }
+  public private(set) lazy var preActions: [PreAction] { get set }
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-preaction">PreAction</a>
 
   </div>
 
@@ -529,7 +561,7 @@ A section is a part of the route between two stopovers. A stopover is a location
 
 - <div>
 
-  ` `<span id="/s:7heresdk7SectionC11postActionsSayAA10PostActionVGvp"></span>` `<span id="//apple_ref/swift/Property/postActions" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-section#/s:7heresdk7SectionC11postActionsSayAA10PostActionVGvp" class="token"><code>postActions</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk7SectionC11postActionsSayAA10PostActionVGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-postActions" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-section#sdk-for-ios-explore-s-7heresdk7SectionC11postActionsSayAA10PostActionVGvp" class="token"><code>postActions</code></a> 
 
   </div>
 
@@ -560,12 +592,14 @@ A section is a part of the route between two stopovers. A stopover is a location
   Swift
 
   ``` highlight
-  public private(set) lazy var postActions : [ PostAction ] { get set }
+  public private(set) lazy var postActions: [PostAction] { get set }
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-postaction">PostAction</a>
 
   </div>
 
@@ -575,7 +609,7 @@ A section is a part of the route between two stopovers. A stopover is a location
 
 - <div>
 
-  ` `<span id="/s:7heresdk7SectionC14sectionNoticesSayAA0B6NoticeVGvp"></span>` `<span id="//apple_ref/swift/Property/sectionNotices" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-section#/s:7heresdk7SectionC14sectionNoticesSayAA0B6NoticeVGvp" class="token"><code>sectionNotices</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk7SectionC14sectionNoticesSayAA0B6NoticeVGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-sectionNotices" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-section#sdk-for-ios-explore-s-7heresdk7SectionC14sectionNoticesSayAA0B6NoticeVGvp" class="token"><code>sectionNotices</code></a> 
 
   </div>
 
@@ -606,12 +640,14 @@ A section is a part of the route between two stopovers. A stopover is a location
   Swift
 
   ``` highlight
-  public private(set) lazy var sectionNotices : [ SectionNotice ] { get set }
+  public private(set) lazy var sectionNotices: [SectionNotice] { get set }
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-sectionnotice">SectionNotice</a>
 
   </div>
 
@@ -621,7 +657,7 @@ A section is a part of the route between two stopovers. A stopover is a location
 
 - <div>
 
-  ` `<span id="/s:7heresdk7SectionC06indoorB7DetailsAA06IndoorbD0CSgvp"></span>` `<span id="//apple_ref/swift/Property/indoorSectionDetails" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-section#/s:7heresdk7SectionC06indoorB7DetailsAA06IndoorbD0CSgvp" class="token"><code>indoorSectionDetails</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk7SectionC06indoorB7DetailsAA06IndoorbD0CSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-indoorSectionDetails" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-section#sdk-for-ios-explore-s-7heresdk7SectionC06indoorB7DetailsAA06IndoorbD0CSgvp" class="token"><code>indoorSectionDetails</code></a> 
 
   </div>
 
@@ -657,6 +693,10 @@ A section is a part of the route between two stopovers. A stopover is a location
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-indoorsectiondetails">IndoorSectionDetails</a>
+
   </div>
 
   </div>
@@ -665,7 +705,7 @@ A section is a part of the route between two stopovers. A stopover is a location
 
 - <div>
 
-  ` `<span id="/s:7heresdk7SectionC26consumptionInKilowattHoursSdSgvp"></span>` `<span id="//apple_ref/swift/Property/consumptionInKilowattHours" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-section#/s:7heresdk7SectionC26consumptionInKilowattHoursSdSgvp" class="token"><code>consumptionInKilowattHours</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk7SectionC26consumptionInKilowattHoursSdSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-consumptionInKilowattHours" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-section#sdk-for-ios-explore-s-7heresdk7SectionC26consumptionInKilowattHoursSdSgvp" class="token"><code>consumptionInKilowattHours</code></a> 
 
   </div>
 
@@ -709,7 +749,7 @@ A section is a part of the route between two stopovers. A stopover is a location
 
 - <div>
 
-  ` `<span id="/s:7heresdk7SectionC14transitDetailsAA07TransitbD0VSgvp"></span>` `<span id="//apple_ref/swift/Property/transitDetails" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-section#/s:7heresdk7SectionC14transitDetailsAA07TransitbD0VSgvp" class="token"><code>transitDetails</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk7SectionC14transitDetailsAA07TransitbD0VSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-transitDetails" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-section#sdk-for-ios-explore-s-7heresdk7SectionC14transitDetailsAA07TransitbD0VSgvp" class="token"><code>transitDetails</code></a> 
 
   </div>
 
@@ -745,6 +785,10 @@ A section is a part of the route between two stopovers. A stopover is a location
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-transitsectiondetails">TransitSectionDetails</a>
+
   </div>
 
   </div>
@@ -753,7 +797,7 @@ A section is a part of the route between two stopovers. A stopover is a location
 
 - <div>
 
-  ` `<span id="/s:7heresdk7SectionC5tollsSayAA4TollVGvp"></span>` `<span id="//apple_ref/swift/Property/tolls" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-section#/s:7heresdk7SectionC5tollsSayAA4TollVGvp" class="token"><code>tolls</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk7SectionC5tollsSayAA4TollVGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-tolls" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-section#sdk-for-ios-explore-s-7heresdk7SectionC5tollsSayAA4TollVGvp" class="token"><code>tolls</code></a> 
 
   </div>
 
@@ -784,12 +828,14 @@ A section is a part of the route between two stopovers. A stopover is a location
   Swift
 
   ``` highlight
-  public private(set) lazy var tolls : [ Toll ] { get set }
+  public private(set) lazy var tolls: [Toll] { get set }
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-toll">Toll</a>
 
   </div>
 
@@ -799,7 +845,7 @@ A section is a part of the route between two stopovers. A stopover is a location
 
 - <div>
 
-  ` `<span id="/s:7heresdk7SectionC16trafficIncidentsSayAA22TrafficIncidentOnRouteCGvp"></span>` `<span id="//apple_ref/swift/Property/trafficIncidents" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-section#/s:7heresdk7SectionC16trafficIncidentsSayAA22TrafficIncidentOnRouteCGvp" class="token"><code>trafficIncidents</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk7SectionC16trafficIncidentsSayAA22TrafficIncidentOnRouteCGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-trafficIncidents" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-section#sdk-for-ios-explore-s-7heresdk7SectionC16trafficIncidentsSayAA22TrafficIncidentOnRouteCGvp" class="token"><code>trafficIncidents</code></a> 
 
   </div>
 
@@ -830,12 +876,14 @@ A section is a part of the route between two stopovers. A stopover is a location
   Swift
 
   ``` highlight
-  public private(set) lazy var trafficIncidents : [ TrafficIncidentOnRoute ] { get set }
+  public private(set) lazy var trafficIncidents: [TrafficIncidentOnRoute] { get set }
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-trafficincidentonroute">TrafficIncidentOnRoute</a>
 
   </div>
 
@@ -845,7 +893,7 @@ A section is a part of the route between two stopovers. A stopover is a location
 
 - <div>
 
-  ` `<span id="/s:7heresdk7SectionC8durationSdvp"></span>` `<span id="//apple_ref/swift/Property/duration" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-section#/s:7heresdk7SectionC8durationSdvp" class="token"><code>duration</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk7SectionC8durationSdvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-duration" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-section#sdk-for-ios-explore-s-7heresdk7SectionC8durationSdvp" class="token"><code>duration</code></a> 
 
   </div>
 
@@ -889,7 +937,7 @@ A section is a part of the route between two stopovers. A stopover is a location
 
 - <div>
 
-  ` `<span id="/s:7heresdk7SectionC12trafficDelaySdvp"></span>` `<span id="//apple_ref/swift/Property/trafficDelay" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-section#/s:7heresdk7SectionC12trafficDelaySdvp" class="token"><code>trafficDelay</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk7SectionC12trafficDelaySdvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-trafficDelay" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-section#sdk-for-ios-explore-s-7heresdk7SectionC12trafficDelaySdvp" class="token"><code>trafficDelay</code></a> 
 
   </div>
 
@@ -933,7 +981,7 @@ A section is a part of the route between two stopovers. A stopover is a location
 
 - <div>
 
-  ` `<span id="/s:7heresdk7SectionC20passthroughWaypointsSayAA19PassThroughWaypointVGvp"></span>` `<span id="//apple_ref/swift/Property/passthroughWaypoints" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-section#/s:7heresdk7SectionC20passthroughWaypointsSayAA19PassThroughWaypointVGvp" class="token"><code>passthroughWaypoints</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk7SectionC20passthroughWaypointsSayAA19PassThroughWaypointVGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-passthroughWaypoints" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-section#sdk-for-ios-explore-s-7heresdk7SectionC20passthroughWaypointsSayAA19PassThroughWaypointVGvp" class="token"><code>passthroughWaypoints</code></a> 
 
   </div>
 
@@ -969,6 +1017,10 @@ A section is a part of the route between two stopovers. A stopover is a location
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-passthroughwaypoint">PassThroughWaypoint</a>
+
   </div>
 
   </div>
@@ -977,7 +1029,7 @@ A section is a part of the route between two stopovers. A stopover is a location
 
 - <div>
 
-  ` `<span id="/s:7heresdk7SectionC21noThroughRestrictionsSayAA19ViolatedRestrictionVGvp"></span>` `<span id="//apple_ref/swift/Property/noThroughRestrictions" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-section#/s:7heresdk7SectionC21noThroughRestrictionsSayAA19ViolatedRestrictionVGvp" class="token"><code>noThroughRestrictions</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk7SectionC21noThroughRestrictionsSayAA19ViolatedRestrictionVGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-noThroughRestrictions" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-section#sdk-for-ios-explore-s-7heresdk7SectionC21noThroughRestrictionsSayAA19ViolatedRestrictionVGvp" class="token"><code>noThroughRestrictions</code></a> 
 
   </div>
 
@@ -1012,6 +1064,10 @@ A section is a part of the route between two stopovers. A stopover is a location
   ```
 
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-violatedrestriction">ViolatedRestriction</a>
 
   </div>
 

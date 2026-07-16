@@ -27,7 +27,7 @@ Represents the category of the vehicle supported at the charging point. **Note:*
 
 - <div>
 
-  ` `<span id="/s:7heresdk25EVChargingVehicleCategoryO7regularyA2CmF"></span>` `<span id="//apple_ref/swift/Element/regular" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-evchargingvehiclecategory#/s:7heresdk25EVChargingVehicleCategoryO7regularyA2CmF" class="token"><code>regular</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk25EVChargingVehicleCategoryO7regularyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-regular" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-evchargingvehiclecategory#sdk-for-ios-navigate-s-7heresdk25EVChargingVehicleCategoryO7regularyA2CmF" class="token"><code>regular</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Represents the category of the vehicle supported at the charging point. **Note:*
 
 - <div>
 
-  ` `<span id="/s:7heresdk25EVChargingVehicleCategoryO10twoWheeleryA2CmF"></span>` `<span id="//apple_ref/swift/Element/twoWheeler" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-evchargingvehiclecategory#/s:7heresdk25EVChargingVehicleCategoryO10twoWheeleryA2CmF" class="token"><code>twoWheeler</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk25EVChargingVehicleCategoryO10twoWheeleryA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-twoWheeler" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-evchargingvehiclecategory#sdk-for-ios-navigate-s-7heresdk25EVChargingVehicleCategoryO10twoWheeleryA2CmF" class="token"><code>twoWheeler</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Represents the category of the vehicle supported at the charging point. **Note:*
 
 - <div>
 
-  ` `<span id="/s:7heresdk25EVChargingVehicleCategoryO5heavyyA2CmF"></span>` `<span id="//apple_ref/swift/Element/heavy" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-evchargingvehiclecategory#/s:7heresdk25EVChargingVehicleCategoryO5heavyyA2CmF" class="token"><code>heavy</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk25EVChargingVehicleCategoryO5heavyyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-heavy" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-evchargingvehiclecategory#sdk-for-ios-navigate-s-7heresdk25EVChargingVehicleCategoryO5heavyyA2CmF" class="token"><code>heavy</code></a> 
 
   </div>
 

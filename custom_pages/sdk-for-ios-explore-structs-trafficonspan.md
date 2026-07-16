@@ -27,7 +27,7 @@ Traffic information of a span along a route.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13TrafficOnSpanV28trafficSectionPolylineOffsets5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/trafficSectionPolylineOffset" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-trafficonspan#/s:7heresdk13TrafficOnSpanV28trafficSectionPolylineOffsets5Int32Vvp" class="token"><code>trafficSectionPolylineOffset</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13TrafficOnSpanV28trafficSectionPolylineOffsets5Int32Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-trafficSectionPolylineOffset" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-trafficonspan#sdk-for-ios-explore-s-7heresdk13TrafficOnSpanV28trafficSectionPolylineOffsets5Int32Vvp" class="token"><code>trafficSectionPolylineOffset</code></a> 
 
   </div>
 
@@ -45,7 +45,7 @@ Traffic information of a span along a route.
 
   <div class="abstract">
 
-  Index over <a href="sdk-for-ios-explore-structs-trafficonsection#/s:7heresdk16TrafficOnSectionV8geometrySayAA14GeoCoordinatesVGvp">`TrafficOnSection.geometry`</a> where this span starts.
+  Index over <a href="sdk-for-ios-explore-structs-trafficonsection#sdk-for-ios-explore-s-7heresdk16TrafficOnSectionV8geometrySayAA14GeoCoordinatesVGvp">`TrafficOnSection.geometry`</a> where this span starts.
 
   </div>
 
@@ -71,7 +71,7 @@ Traffic information of a span along a route.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13TrafficOnSpanV14lengthInMetersSdvp"></span>` `<span id="//apple_ref/swift/Property/lengthInMeters" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-trafficonspan#/s:7heresdk13TrafficOnSpanV14lengthInMetersSdvp" class="token"><code>lengthInMeters</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13TrafficOnSpanV14lengthInMetersSdvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-lengthInMeters" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-trafficonspan#sdk-for-ios-explore-s-7heresdk13TrafficOnSpanV14lengthInMetersSdvp" class="token"><code>lengthInMeters</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Traffic information of a span along a route.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13TrafficOnSpanV8durationSdvp"></span>` `<span id="//apple_ref/swift/Property/duration" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-trafficonspan#/s:7heresdk13TrafficOnSpanV8durationSdvp" class="token"><code>duration</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13TrafficOnSpanV8durationSdvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-duration" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-trafficonspan#sdk-for-ios-explore-s-7heresdk13TrafficOnSpanV8durationSdvp" class="token"><code>duration</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Traffic information of a span along a route.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13TrafficOnSpanV12trafficDelaySdvp"></span>` `<span id="//apple_ref/swift/Property/trafficDelay" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-trafficonspan#/s:7heresdk13TrafficOnSpanV12trafficDelaySdvp" class="token"><code>trafficDelay</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13TrafficOnSpanV12trafficDelaySdvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-trafficDelay" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-trafficonspan#sdk-for-ios-explore-s-7heresdk13TrafficOnSpanV12trafficDelaySdvp" class="token"><code>trafficDelay</code></a> 
 
   </div>
 
@@ -203,7 +203,7 @@ Traffic information of a span along a route.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13TrafficOnSpanV26baseSpeedInMetersPerSecondSdvp"></span>` `<span id="//apple_ref/swift/Property/baseSpeedInMetersPerSecond" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-trafficonspan#/s:7heresdk13TrafficOnSpanV26baseSpeedInMetersPerSecondSdvp" class="token"><code>baseSpeedInMetersPerSecond</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13TrafficOnSpanV26baseSpeedInMetersPerSecondSdvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-baseSpeedInMetersPerSecond" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-trafficonspan#sdk-for-ios-explore-s-7heresdk13TrafficOnSpanV26baseSpeedInMetersPerSecondSdvp" class="token"><code>baseSpeedInMetersPerSecond</code></a> 
 
   </div>
 
@@ -247,7 +247,7 @@ Traffic information of a span along a route.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13TrafficOnSpanV29trafficSpeedInMetersPerSecondSdvp"></span>` `<span id="//apple_ref/swift/Property/trafficSpeedInMetersPerSecond" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-trafficonspan#/s:7heresdk13TrafficOnSpanV29trafficSpeedInMetersPerSecondSdvp" class="token"><code>trafficSpeedInMetersPerSecond</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13TrafficOnSpanV29trafficSpeedInMetersPerSecondSdvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-trafficSpeedInMetersPerSecond" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-trafficonspan#sdk-for-ios-explore-s-7heresdk13TrafficOnSpanV29trafficSpeedInMetersPerSecondSdvp" class="token"><code>trafficSpeedInMetersPerSecond</code></a> 
 
   </div>
 
@@ -291,7 +291,7 @@ Traffic information of a span along a route.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13TrafficOnSpanV9jamFactorSdvp"></span>` `<span id="//apple_ref/swift/Property/jamFactor" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-trafficonspan#/s:7heresdk13TrafficOnSpanV9jamFactorSdvp" class="token"><code>jamFactor</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13TrafficOnSpanV9jamFactorSdvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-jamFactor" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-trafficonspan#sdk-for-ios-explore-s-7heresdk13TrafficOnSpanV9jamFactorSdvp" class="token"><code>jamFactor</code></a> 
 
   </div>
 
@@ -335,7 +335,7 @@ Traffic information of a span along a route.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13TrafficOnSpanV15incidentIndicesSays5Int32VGvp"></span>` `<span id="//apple_ref/swift/Property/incidentIndices" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-trafficonspan#/s:7heresdk13TrafficOnSpanV15incidentIndicesSays5Int32VGvp" class="token"><code>incidentIndices</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13TrafficOnSpanV15incidentIndicesSays5Int32VGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-incidentIndices" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-trafficonspan#sdk-for-ios-explore-s-7heresdk13TrafficOnSpanV15incidentIndicesSays5Int32VGvp" class="token"><code>incidentIndices</code></a> 
 
   </div>
 
@@ -353,7 +353,7 @@ Traffic information of a span along a route.
 
   <div class="abstract">
 
-  The indices of traffic incidents from the field <a href="sdk-for-ios-explore-structs-trafficonsection#/s:7heresdk16TrafficOnSectionV16trafficIncidentsSayAA0b8IncidentC5RouteCGvp">`TrafficOnSection.trafficIncidents`</a>.
+  The indices of traffic incidents from the field <a href="sdk-for-ios-explore-structs-trafficonsection#sdk-for-ios-explore-s-7heresdk16TrafficOnSectionV16trafficIncidentsSayAA0b8IncidentC5RouteCGvp">`TrafficOnSection.trafficIncidents`</a>.
 
   </div>
 
@@ -379,7 +379,7 @@ Traffic information of a span along a route.
 
 - <div>
 
-  ` `<span id="/s:7heresdk13TrafficOnSpanV26consumptionInKilowattHoursSdSgvp"></span>` `<span id="//apple_ref/swift/Property/consumptionInKilowattHours" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-trafficonspan#/s:7heresdk13TrafficOnSpanV26consumptionInKilowattHoursSdSgvp" class="token"><code>consumptionInKilowattHours</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13TrafficOnSpanV26consumptionInKilowattHoursSdSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-consumptionInKilowattHours" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-trafficonspan#sdk-for-ios-explore-s-7heresdk13TrafficOnSpanV26consumptionInKilowattHoursSdSgvp" class="token"><code>consumptionInKilowattHours</code></a> 
 
   </div>
 
@@ -423,7 +423,7 @@ Traffic information of a span along a route.
 
 - <div>
 
-      init(trafficSectionPolylineOffset: lengthInMeters: duration: trafficDelay: baseSpeedInMetersPerSecond: trafficSpeedInMetersPerSecond: jamFactor: incidentIndices: consumptionInKilowattHours: )
+   <span id="sdk-for-ios-explore-s-7heresdk13TrafficOnSpanV28trafficSectionPolylineOffset14lengthInMeters8duration0E5Delay09baseSpeedjK9PerSecond0eojkpQ09jamFactor15incidentIndices011consumptionJ13KilowattHoursACs5Int32V_S6dSayANGSdSgtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-trafficSectionPolylineOffset-lengthInMeters-duration-trafficDelay-baseSpeedInMetersPerSecond-trafficSpeedInMetersPerSecond-jamFactor-incidentIndices-consumptionInKilowattHours" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-trafficonspan#sdk-for-ios-explore-s-7heresdk13TrafficOnSpanV28trafficSectionPolylineOffset14lengthInMeters8duration0E5Delay09baseSpeedjK9PerSecond0eojkpQ09jamFactor15incidentIndices011consumptionJ13KilowattHoursACs5Int32V_S6dSayANGSdSgtcfc" class="token"><code>init(trafficSectionPolylineOffset:</code><wbr></wbr><code>lengthInMeters:</code><wbr></wbr><code>duration:</code><wbr></wbr><code>trafficDelay:</code><wbr></wbr><code>baseSpeedInMetersPerSecond:</code><wbr></wbr><code>trafficSpeedInMetersPerSecond:</code><wbr></wbr><code>jamFactor:</code><wbr></wbr><code>incidentIndices:</code><wbr></wbr><code>consumptionInKilowattHours:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -454,10 +454,8 @@ Traffic information of a span along a route.
   Swift
 
   ``` highlight
-  public init ( trafficSectionPolylineOffset : Int32 = 0 , lengthInMeters : Double = 0.0 , duration : TimeInterval = 0 , trafficDelay : TimeInterval = 0 , baseSpeedInMetersPerSecond : Double = 0.0 , trafficSpeedInMetersPerSecond : Double = 0.0 , jamFactor : Double = 0.0 , incidentIndices : [ Int32 ] = [], consumptionInKilowattHours : Double ? = nil )
+  public init(trafficSectionPolylineOffset: Int32 = 0, lengthInMeters: Double = 0.0, duration: TimeInterval = 0, trafficDelay: TimeInterval = 0, baseSpeedInMetersPerSecond: Double = 0.0, trafficSpeedInMetersPerSecond: Double = 0.0, jamFactor: Double = 0.0, incidentIndices: [Int32] = [], consumptionInKilowattHours: Double? = nil)
   ```
-
-  </pre>
 
   </div>
 

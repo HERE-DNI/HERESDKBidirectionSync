@@ -27,7 +27,7 @@ Attribution link type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15AttributionTypeO10disclaimeryA2CmF"></span>` `<span id="//apple_ref/swift/Element/disclaimer" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-attributiontype#/s:7heresdk15AttributionTypeO10disclaimeryA2CmF" class="token"><code>disclaimer</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15AttributionTypeO10disclaimeryA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-disclaimer" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-attributiontype#sdk-for-ios-explore-s-7heresdk15AttributionTypeO10disclaimeryA2CmF" class="token"><code>disclaimer</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Attribution link type.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15AttributionTypeO6tariffyA2CmF"></span>` `<span id="//apple_ref/swift/Element/tariff" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-attributiontype#/s:7heresdk15AttributionTypeO6tariffyA2CmF" class="token"><code>tariff</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15AttributionTypeO6tariffyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-tariff" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-attributiontype#sdk-for-ios-explore-s-7heresdk15AttributionTypeO6tariffyA2CmF" class="token"><code>tariff</code></a> 
 
   </div>
 

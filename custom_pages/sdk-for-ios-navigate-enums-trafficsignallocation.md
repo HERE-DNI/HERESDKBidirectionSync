@@ -29,7 +29,7 @@ Indicates the location of a traffic signal.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21TrafficSignalLocationO8overheadyA2CmF"></span>` `<span id="//apple_ref/swift/Element/overhead" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-trafficsignallocation#/s:7heresdk21TrafficSignalLocationO8overheadyA2CmF" class="token"><code>overhead</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21TrafficSignalLocationO8overheadyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-overhead" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-trafficsignallocation#sdk-for-ios-navigate-s-7heresdk21TrafficSignalLocationO8overheadyA2CmF" class="token"><code>overhead</code></a> 
 
   </div>
 
@@ -73,7 +73,7 @@ Indicates the location of a traffic signal.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21TrafficSignalLocationO4leftyA2CmF"></span>` `<span id="//apple_ref/swift/Element/left" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-trafficsignallocation#/s:7heresdk21TrafficSignalLocationO4leftyA2CmF" class="token"><code>left</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21TrafficSignalLocationO4leftyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-left" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-trafficsignallocation#sdk-for-ios-navigate-s-7heresdk21TrafficSignalLocationO4leftyA2CmF" class="token"><code>left</code></a> 
 
   </div>
 
@@ -117,7 +117,7 @@ Indicates the location of a traffic signal.
 
 - <div>
 
-  ` `<span id="/s:7heresdk21TrafficSignalLocationO5rightyA2CmF"></span>` `<span id="//apple_ref/swift/Element/right" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-trafficsignallocation#/s:7heresdk21TrafficSignalLocationO5rightyA2CmF" class="token"><code>right</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk21TrafficSignalLocationO5rightyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-right" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-trafficsignallocation#sdk-for-ios-navigate-s-7heresdk21TrafficSignalLocationO5rightyA2CmF" class="token"><code>right</code></a> 
 
   </div>
 

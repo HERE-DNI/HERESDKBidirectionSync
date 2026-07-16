@@ -27,7 +27,7 @@ This protocol should be implemented in order to receive notifications from this 
 
 - <div>
 
-      onDestinationReached()
+   <span id="sdk-for-ios-explore-s-7heresdk26DestinationReachedDelegateP02onbC0yyF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-onDestinationReached" class="dashAnchor"></span> <a href="sdk-for-ios-explore-protocols-destinationreacheddelegate#sdk-for-ios-explore-s-7heresdk26DestinationReachedDelegateP02onbC0yyF" class="token"><code>onDestinationReached()</code></a> 
 
   </div>
 
@@ -58,10 +58,8 @@ This protocol should be implemented in order to receive notifications from this 
   Swift
 
   ``` highlight
-  func onDestinationReached ()
+  func onDestinationReached()
   ```
-
-  </pre>
 
   </div>
 

@@ -27,7 +27,7 @@ The options explicitly allowed by user for route calculations.
 
 - <div>
 
-  ` `<span id="/s:7heresdk12AllowOptionsV8allowHovSbvp"></span>` `<span id="//apple_ref/swift/Property/allowHov" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-allowoptions#/s:7heresdk12AllowOptionsV8allowHovSbvp" class="token"><code>allowHov</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12AllowOptionsV8allowHovSbvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-allowHov" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-allowoptions#sdk-for-ios-explore-s-7heresdk12AllowOptionsV8allowHovSbvp" class="token"><code>allowHov</code></a> 
 
   </div>
 
@@ -75,7 +75,7 @@ The options explicitly allowed by user for route calculations.
 
 - <div>
 
-  ` `<span id="/s:7heresdk12AllowOptionsV8allowHotSbvp"></span>` `<span id="//apple_ref/swift/Property/allowHot" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-allowoptions#/s:7heresdk12AllowOptionsV8allowHotSbvp" class="token"><code>allowHot</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk12AllowOptionsV8allowHotSbvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-allowHot" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-allowoptions#sdk-for-ios-explore-s-7heresdk12AllowOptionsV8allowHotSbvp" class="token"><code>allowHot</code></a> 
 
   </div>
 
@@ -123,7 +123,7 @@ The options explicitly allowed by user for route calculations.
 
 - <div>
 
-      init(allowHov: allowHot: )
+   <span id="sdk-for-ios-explore-s-7heresdk12AllowOptionsV8allowHov0D3HotACSb_Sbtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-allowHov-allowHot" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-allowoptions#sdk-for-ios-explore-s-7heresdk12AllowOptionsV8allowHov0D3HotACSb_Sbtcfc" class="token"><code>init(allowHov:</code><wbr></wbr><code>allowHot:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -168,10 +168,8 @@ The options explicitly allowed by user for route calculations.
   Swift
 
   ``` highlight
-  public init ( allowHov : Bool = false , allowHot : Bool = false )
+  public init(allowHov: Bool = false, allowHot: Bool = false)
   ```
-
-  </pre>
 
   </div>
 

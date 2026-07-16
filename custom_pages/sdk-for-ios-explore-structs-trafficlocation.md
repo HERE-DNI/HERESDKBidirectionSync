@@ -27,7 +27,7 @@ The location reference to the traffic incident.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15TrafficLocationV11descriptionSSvp"></span>` `<span id="//apple_ref/swift/Property/description" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-trafficlocation#/s:7heresdk15TrafficLocationV11descriptionSSvp" class="token"><code>description</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15TrafficLocationV11descriptionSSvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-description" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-trafficlocation#sdk-for-ios-explore-s-7heresdk15TrafficLocationV11descriptionSSvp" class="token"><code>description</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ The location reference to the traffic incident.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15TrafficLocationV8polylineAA11GeoPolylineVvp"></span>` `<span id="//apple_ref/swift/Property/polyline" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-trafficlocation#/s:7heresdk15TrafficLocationV8polylineAA11GeoPolylineVvp" class="token"><code>polyline</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15TrafficLocationV8polylineAA11GeoPolylineVvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-polyline" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-trafficlocation#sdk-for-ios-explore-s-7heresdk15TrafficLocationV8polylineAA11GeoPolylineVvp" class="token"><code>polyline</code></a> 
 
   </div>
 
@@ -107,6 +107,10 @@ The location reference to the traffic incident.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geopolyline">GeoPolyline</a>
+
   </div>
 
   </div>
@@ -115,7 +119,7 @@ The location reference to the traffic incident.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15TrafficLocationV19additionalPolylinesSayAA11GeoPolylineVGvp"></span>` `<span id="//apple_ref/swift/Property/additionalPolylines" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-trafficlocation#/s:7heresdk15TrafficLocationV19additionalPolylinesSayAA11GeoPolylineVGvp" class="token"><code>additionalPolylines</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15TrafficLocationV19additionalPolylinesSayAA11GeoPolylineVGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-additionalPolylines" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-trafficlocation#sdk-for-ios-explore-s-7heresdk15TrafficLocationV19additionalPolylinesSayAA11GeoPolylineVGvp" class="token"><code>additionalPolylines</code></a> 
 
   </div>
 
@@ -151,6 +155,10 @@ The location reference to the traffic incident.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geopolyline">GeoPolyline</a>
+
   </div>
 
   </div>
@@ -159,7 +167,7 @@ The location reference to the traffic incident.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15TrafficLocationV14lengthInMeterss5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/lengthInMeters" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-trafficlocation#/s:7heresdk15TrafficLocationV14lengthInMeterss5Int32Vvp" class="token"><code>lengthInMeters</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15TrafficLocationV14lengthInMeterss5Int32Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-lengthInMeters" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-trafficlocation#sdk-for-ios-explore-s-7heresdk15TrafficLocationV14lengthInMeterss5Int32Vvp" class="token"><code>lengthInMeters</code></a> 
 
   </div>
 
@@ -203,7 +211,7 @@ The location reference to the traffic incident.
 
 - <div>
 
-      init(description: polyline: additionalPolylines: lengthInMeters: )
+   <span id="sdk-for-ios-explore-s-7heresdk15TrafficLocationV11description8polyline19additionalPolylines14lengthInMetersACSS_AA11GeoPolylineVSayAIGs5Int32Vtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-description-polyline-additionalPolylines-lengthInMeters" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-trafficlocation#sdk-for-ios-explore-s-7heresdk15TrafficLocationV11description8polyline19additionalPolylines14lengthInMetersACSS_AA11GeoPolylineVSayAIGs5Int32Vtcfc" class="token"><code>init(description:</code><wbr></wbr><code>polyline:</code><wbr></wbr><code>additionalPolylines:</code><wbr></wbr><code>lengthInMeters:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -234,12 +242,14 @@ The location reference to the traffic incident.
   Swift
 
   ``` highlight
-  public init ( description : String = "" , polyline : GeoPolyline , additionalPolylines : [ GeoPolyline ], lengthInMeters : Int32 )
+  public init(description: String = "", polyline: GeoPolyline, additionalPolylines: [GeoPolyline], lengthInMeters: Int32)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geopolyline">GeoPolyline</a>
 
   </div>
 

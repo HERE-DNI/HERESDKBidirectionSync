@@ -33,7 +33,7 @@ Instances of this structure are typically produced by custom warning evaluation 
 
 - <div>
 
-  ` `<span id="/s:7heresdk13CustomWarningV2ids5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/id" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-customwarning#/s:7heresdk13CustomWarningV2ids5Int32Vvp" class="token"><code>id</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13CustomWarningV2ids5Int32Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-id" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-customwarning#sdk-for-ios-navigate-s-7heresdk13CustomWarningV2ids5Int32Vvp" class="token"><code>id</code></a> 
 
   </div>
 
@@ -51,7 +51,7 @@ Instances of this structure are typically produced by custom warning evaluation 
 
   <div class="abstract">
 
-  Identifier of the warning. The ID is unique only within its specific <a href="sdk-for-ios-navigate-structs-customwarning#/s:7heresdk13CustomWarningV06customC4Types5Int32Vvp">`CustomWarning.customWarningType`</a> and can be used to retrieve additional information from a corresponding registry.
+  Identifier of the warning. The ID is unique only within its specific <a href="sdk-for-ios-navigate-structs-customwarning#sdk-for-ios-navigate-s-7heresdk13CustomWarningV06customC4Types5Int32Vvp">`CustomWarning.customWarningType`</a> and can be used to retrieve additional information from a corresponding registry.
 
   </div>
 
@@ -77,7 +77,7 @@ Instances of this structure are typically produced by custom warning evaluation 
 
 - <div>
 
-  ` `<span id="/s:7heresdk13CustomWarningV06customC4Types5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/customWarningType" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-customwarning#/s:7heresdk13CustomWarningV06customC4Types5Int32Vvp" class="token"><code>customWarningType</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13CustomWarningV06customC4Types5Int32Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-customWarningType" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-customwarning#sdk-for-ios-navigate-s-7heresdk13CustomWarningV06customC4Types5Int32Vvp" class="token"><code>customWarningType</code></a> 
 
   </div>
 
@@ -123,7 +123,7 @@ Instances of this structure are typically produced by custom warning evaluation 
 
 - <div>
 
-  ` `<span id="/s:7heresdk13CustomWarningV19startOffsetInMetersSdvp"></span>` `<span id="//apple_ref/swift/Property/startOffsetInMeters" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-customwarning#/s:7heresdk13CustomWarningV19startOffsetInMetersSdvp" class="token"><code>startOffsetInMeters</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13CustomWarningV19startOffsetInMetersSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-startOffsetInMeters" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-customwarning#sdk-for-ios-navigate-s-7heresdk13CustomWarningV19startOffsetInMetersSdvp" class="token"><code>startOffsetInMeters</code></a> 
 
   </div>
 
@@ -169,7 +169,7 @@ Instances of this structure are typically produced by custom warning evaluation 
 
 - <div>
 
-  ` `<span id="/s:7heresdk13CustomWarningV17endOffsetInMetersSdSgvp"></span>` `<span id="//apple_ref/swift/Property/endOffsetInMeters" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-customwarning#/s:7heresdk13CustomWarningV17endOffsetInMetersSdSgvp" class="token"><code>endOffsetInMeters</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13CustomWarningV17endOffsetInMetersSdSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-endOffsetInMeters" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-customwarning#sdk-for-ios-navigate-s-7heresdk13CustomWarningV17endOffsetInMetersSdSgvp" class="token"><code>endOffsetInMeters</code></a> 
 
   </div>
 
@@ -191,7 +191,7 @@ Instances of this structure are typically produced by custom warning evaluation 
 
   Specifies the distance, in meters, from the beginning of the corresponding <a href="sdk-for-ios-navigate-structs-electronichorizonsegment">`ElectronicHorizonSegment`</a> at which the warning is no longer applicable.
 
-  May be `nil`. In this case, the value is automatically considered to be equal to <a href="sdk-for-ios-navigate-structs-customwarning#/s:7heresdk13CustomWarningV19startOffsetInMetersSdvp">`startOffsetInMeters`</a>.
+  May be `nil`. In this case, the value is automatically considered to be equal to <a href="sdk-for-ios-navigate-structs-customwarning#sdk-for-ios-navigate-s-7heresdk13CustomWarningV19startOffsetInMetersSdvp">`startOffsetInMeters`</a>.
 
   </div>
 
@@ -217,7 +217,7 @@ Instances of this structure are typically produced by custom warning evaluation 
 
 - <div>
 
-  ` `<span id="/s:7heresdk13CustomWarningV7payloadAA8MetadataCSgvp"></span>` `<span id="//apple_ref/swift/Property/payload" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-customwarning#/s:7heresdk13CustomWarningV7payloadAA8MetadataCSgvp" class="token"><code>payload</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk13CustomWarningV7payloadAA8MetadataCSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-payload" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-customwarning#sdk-for-ios-navigate-s-7heresdk13CustomWarningV7payloadAA8MetadataCSgvp" class="token"><code>payload</code></a> 
 
   </div>
 
@@ -255,6 +255,10 @@ Instances of this structure are typically produced by custom warning evaluation 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-metadata">Metadata</a>
+
   </div>
 
   </div>
@@ -263,7 +267,7 @@ Instances of this structure are typically produced by custom warning evaluation 
 
 - <div>
 
-      init(id: customWarningType: startOffsetInMeters: endOffsetInMeters: payload: )
+   <span id="sdk-for-ios-navigate-s-7heresdk13CustomWarningV2id06customC4Type19startOffsetInMeters03endhiJ07payloadACs5Int32V_AJS2dSgAA8MetadataCSgtcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-id-customWarningType-startOffsetInMeters-endOffsetInMeters-payload" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-customwarning#sdk-for-ios-navigate-s-7heresdk13CustomWarningV2id06customC4Type19startOffsetInMeters03endhiJ07payloadACs5Int32V_AJS2dSgAA8MetadataCSgtcfc" class="token"><code>init(id:</code><wbr></wbr><code>customWarningType:</code><wbr></wbr><code>startOffsetInMeters:</code><wbr></wbr><code>endOffsetInMeters:</code><wbr></wbr><code>payload:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -285,7 +289,7 @@ Instances of this structure are typically produced by custom warning evaluation 
 
   - Parameters
 
-    - id: Identifier of the warning. The ID is unique only within its specific <a href="sdk-for-ios-navigate-structs-customwarning#/s:7heresdk13CustomWarningV06customC4Types5Int32Vvp">`CustomWarning.customWarningType`</a> and can be used to retrieve additional information from a corresponding registry.
+    - id: Identifier of the warning. The ID is unique only within its specific <a href="sdk-for-ios-navigate-structs-customwarning#sdk-for-ios-navigate-s-7heresdk13CustomWarningV06customC4Types5Int32Vvp">`CustomWarning.customWarningType`</a> and can be used to retrieve additional information from a corresponding registry.
     - customWarningType: Identifier of the custom warning type.
 
     Defines the category of the custom warning and determines which warning registry should be used to retrieve additional warning details.
@@ -298,7 +302,7 @@ Instances of this structure are typically produced by custom warning evaluation 
 
     Specifies the distance, in meters, from the beginning of the corresponding <a href="sdk-for-ios-navigate-structs-electronichorizonsegment">`ElectronicHorizonSegment`</a> at which the warning is no longer applicable.
 
-    May be `nil`. In this case, the value is automatically considered to be equal to <a href="sdk-for-ios-navigate-structs-customwarning#/s:7heresdk13CustomWarningV19startOffsetInMetersSdvp">`startOffsetInMeters`</a>.
+    May be `nil`. In this case, the value is automatically considered to be equal to <a href="sdk-for-ios-navigate-structs-customwarning#sdk-for-ios-navigate-s-7heresdk13CustomWarningV19startOffsetInMetersSdvp">`startOffsetInMeters`</a>.
 
     - payload: Custom warning payload.
 
@@ -315,12 +319,14 @@ Instances of this structure are typically produced by custom warning evaluation 
   Swift
 
   ``` highlight
-  public init ( id : Int32 = 0 , customWarningType : Int32 = 0 , startOffsetInMeters : Double = 0.0 , endOffsetInMeters : Double ? = nil , payload : Metadata ? = nil )
+  public init(id: Int32 = 0, customWarningType: Int32 = 0, startOffsetInMeters: Double = 0.0, endOffsetInMeters: Double? = nil, payload: Metadata? = nil)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-metadata">Metadata</a>
 
   </div>
 

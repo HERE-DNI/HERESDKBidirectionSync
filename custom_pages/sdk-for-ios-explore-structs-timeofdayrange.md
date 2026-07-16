@@ -17,7 +17,7 @@ public struct TimeOfDayRange : Hashable
 
 </div>
 
-Time period when the tariff element is valid, in local time. The time period wraps around to the next day, when end time of the period <a href="sdk-for-ios-explore-structs-timeofdayrange#/s:7heresdk14TimeOfDayRangeV2toSSvp">`TimeOfDayRange.to`</a> is smaller than the beginning <a href="sdk-for-ios-explore-structs-timeofdayrange#/s:7heresdk14TimeOfDayRangeV4fromSSvp">`TimeOfDayRange.from`</a>. **Note:** This is a beta release of this feature, so there could be a few bugs and unexpected behaviors. Related APIs may change for new releases without a deprecation process.
+Time period when the tariff element is valid, in local time. The time period wraps around to the next day, when end time of the period <a href="sdk-for-ios-explore-structs-timeofdayrange#sdk-for-ios-explore-s-7heresdk14TimeOfDayRangeV2toSSvp">`TimeOfDayRange.to`</a> is smaller than the beginning <a href="sdk-for-ios-explore-structs-timeofdayrange#sdk-for-ios-explore-s-7heresdk14TimeOfDayRangeV4fromSSvp">`TimeOfDayRange.from`</a>. **Note:** This is a beta release of this feature, so there could be a few bugs and unexpected behaviors. Related APIs may change for new releases without a deprecation process.
 
 </div>
 
@@ -27,7 +27,7 @@ Time period when the tariff element is valid, in local time. The time period wra
 
 - <div>
 
-  ` `<span id="/s:7heresdk14TimeOfDayRangeV4fromSSvp"></span>` `<span id="//apple_ref/swift/Property/from" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-timeofdayrange#/s:7heresdk14TimeOfDayRangeV4fromSSvp" class="token"><code>from</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14TimeOfDayRangeV4fromSSvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-from" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-timeofdayrange#sdk-for-ios-explore-s-7heresdk14TimeOfDayRangeV4fromSSvp" class="token"><code>from</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Time period when the tariff element is valid, in local time. The time period wra
 
 - <div>
 
-  ` `<span id="/s:7heresdk14TimeOfDayRangeV2toSSvp"></span>` `<span id="//apple_ref/swift/Property/to" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-timeofdayrange#/s:7heresdk14TimeOfDayRangeV2toSSvp" class="token"><code>to</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14TimeOfDayRangeV2toSSvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-to" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-timeofdayrange#sdk-for-ios-explore-s-7heresdk14TimeOfDayRangeV2toSSvp" class="token"><code>to</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Time period when the tariff element is valid, in local time. The time period wra
 
 - <div>
 
-      init(from: to: )
+   <span id="sdk-for-ios-explore-s-7heresdk14TimeOfDayRangeV4from2toACSS_SStcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-from-to" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-timeofdayrange#sdk-for-ios-explore-s-7heresdk14TimeOfDayRangeV4from2toACSS_SStcfc" class="token"><code>init(from:</code><wbr></wbr><code>to:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -146,10 +146,8 @@ Time period when the tariff element is valid, in local time. The time period wra
   Swift
 
   ``` highlight
-  public init ( from : String = "00:00:00" , to : String = "00:00:00" )
+  public init(from: String = "00:00:00", to: String = "00:00:00")
   ```
-
-  </pre>
 
   </div>
 

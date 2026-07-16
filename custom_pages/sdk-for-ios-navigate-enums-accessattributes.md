@@ -27,7 +27,7 @@ Types of access attributes.
 
 - <div>
 
-  ` `<span id="/s:7heresdk16AccessAttributesO4openyA2CmF"></span>` `<span id="//apple_ref/swift/Element/open" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-accessattributes#/s:7heresdk16AccessAttributesO4openyA2CmF" class="token"><code>open</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16AccessAttributesO4openyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-open" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-accessattributes#sdk-for-ios-navigate-s-7heresdk16AccessAttributesO4openyA2CmF" class="token"><code>open</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Types of access attributes.
 
 - <div>
 
-  ` `<span id="/s:7heresdk16AccessAttributesO9noThroughyA2CmF"></span>` `<span id="//apple_ref/swift/Element/noThrough" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-accessattributes#/s:7heresdk16AccessAttributesO9noThroughyA2CmF" class="token"><code>noThrough</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16AccessAttributesO9noThroughyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-noThrough" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-accessattributes#sdk-for-ios-navigate-s-7heresdk16AccessAttributesO9noThroughyA2CmF" class="token"><code>noThrough</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Types of access attributes.
 
 - <div>
 
-  ` `<span id="/s:7heresdk16AccessAttributesO8tollRoadyA2CmF"></span>` `<span id="//apple_ref/swift/Element/tollRoad" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-accessattributes#/s:7heresdk16AccessAttributesO8tollRoadyA2CmF" class="token"><code>tollRoad</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk16AccessAttributesO8tollRoadyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-tollRoad" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-accessattributes#sdk-for-ios-navigate-s-7heresdk16AccessAttributesO8tollRoadyA2CmF" class="token"><code>tollRoad</code></a> 
 
   </div>
 

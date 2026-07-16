@@ -27,7 +27,7 @@ Traffic optimization mode that defines whether and what kind of traffic informat
 
 - <div>
 
-  ` `<span id="/s:7heresdk23TrafficOptimizationModeO13timeDependentyA2CmF"></span>` `<span id="//apple_ref/swift/Element/timeDependent" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-trafficoptimizationmode#/s:7heresdk23TrafficOptimizationModeO13timeDependentyA2CmF" class="token"><code>timeDependent</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk23TrafficOptimizationModeO13timeDependentyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-timeDependent" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-trafficoptimizationmode#sdk-for-ios-navigate-s-7heresdk23TrafficOptimizationModeO13timeDependentyA2CmF" class="token"><code>timeDependent</code></a> 
 
   </div>
 
@@ -45,7 +45,7 @@ Traffic optimization mode that defines whether and what kind of traffic informat
 
   <div class="abstract">
 
-  Traffic optimization is enabled, the shape of the route will be adjusted according to the traffic situation that depends on the <a href="sdk-for-ios-navigate-structs-routeoptions#/s:7heresdk12RouteOptionsV13departureTime10Foundation4DateVSgvp">`RouteOptions.departureTime`</a> or <a href="sdk-for-ios-navigate-structs-routeoptions#/s:7heresdk12RouteOptionsV11arrivalTime10Foundation4DateVSgvp">`RouteOptions.arrivalTime`</a>. As a result, streets with heavy traffic will be avoided whenever possible. Note that this mode enables traffic-aware routing.
+  Traffic optimization is enabled, the shape of the route will be adjusted according to the traffic situation that depends on the <a href="sdk-for-ios-navigate-structs-routeoptions#sdk-for-ios-navigate-s-7heresdk12RouteOptionsV13departureTime10Foundation4DateVSgvp">`RouteOptions.departureTime`</a> or <a href="sdk-for-ios-navigate-structs-routeoptions#sdk-for-ios-navigate-s-7heresdk12RouteOptionsV11arrivalTime10Foundation4DateVSgvp">`RouteOptions.arrivalTime`</a>. As a result, streets with heavy traffic will be avoided whenever possible. Note that this mode enables traffic-aware routing.
 
   </div>
 
@@ -71,7 +71,7 @@ Traffic optimization mode that defines whether and what kind of traffic informat
 
 - <div>
 
-  ` `<span id="/s:7heresdk23TrafficOptimizationModeO20longTermClosuresOnlyyA2CmF"></span>` `<span id="//apple_ref/swift/Element/longTermClosuresOnly" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-trafficoptimizationmode#/s:7heresdk23TrafficOptimizationModeO20longTermClosuresOnlyyA2CmF" class="token"><code>longTermClosuresOnly</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk23TrafficOptimizationModeO20longTermClosuresOnlyyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-longTermClosuresOnly" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-trafficoptimizationmode#sdk-for-ios-navigate-s-7heresdk23TrafficOptimizationModeO20longTermClosuresOnlyyA2CmF" class="token"><code>longTermClosuresOnly</code></a> 
 
   </div>
 
@@ -89,7 +89,7 @@ Traffic optimization mode that defines whether and what kind of traffic informat
 
   <div class="abstract">
 
-  Only long-term road closures are taken into account. Both <a href="sdk-for-ios-navigate-structs-routeoptions#/s:7heresdk12RouteOptionsV13departureTime10Foundation4DateVSgvp">`RouteOptions.departureTime`</a> and <a href="sdk-for-ios-navigate-structs-routeoptions#/s:7heresdk12RouteOptionsV11arrivalTime10Foundation4DateVSgvp">`RouteOptions.arrivalTime`</a> are ignored, and the route will be shaped disregarding all the available current and historical traffic information, except long-term road closures. Note that this mode disables traffic-aware routing regardless of other settings.
+  Only long-term road closures are taken into account. Both <a href="sdk-for-ios-navigate-structs-routeoptions#sdk-for-ios-navigate-s-7heresdk12RouteOptionsV13departureTime10Foundation4DateVSgvp">`RouteOptions.departureTime`</a> and <a href="sdk-for-ios-navigate-structs-routeoptions#sdk-for-ios-navigate-s-7heresdk12RouteOptionsV11arrivalTime10Foundation4DateVSgvp">`RouteOptions.arrivalTime`</a> are ignored, and the route will be shaped disregarding all the available current and historical traffic information, except long-term road closures. Note that this mode disables traffic-aware routing regardless of other settings.
 
   </div>
 
@@ -115,7 +115,7 @@ Traffic optimization mode that defines whether and what kind of traffic informat
 
 - <div>
 
-  ` `<span id="/s:7heresdk23TrafficOptimizationModeO8disabledyA2CmF"></span>` `<span id="//apple_ref/swift/Element/disabled" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-trafficoptimizationmode#/s:7heresdk23TrafficOptimizationModeO8disabledyA2CmF" class="token"><code>disabled</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk23TrafficOptimizationModeO8disabledyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-disabled" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-trafficoptimizationmode#sdk-for-ios-navigate-s-7heresdk23TrafficOptimizationModeO8disabledyA2CmF" class="token"><code>disabled</code></a> 
 
   </div>
 
@@ -133,7 +133,7 @@ Traffic optimization mode that defines whether and what kind of traffic informat
 
   <div class="abstract">
 
-  Traffic optimization is completely disabled, including long-term road closures. Both <a href="sdk-for-ios-navigate-structs-routeoptions#/s:7heresdk12RouteOptionsV13departureTime10Foundation4DateVSgvp">`RouteOptions.departureTime`</a> and <a href="sdk-for-ios-navigate-structs-routeoptions#/s:7heresdk12RouteOptionsV11arrivalTime10Foundation4DateVSgvp">`RouteOptions.arrivalTime`</a> are ignored, and the route will be shaped disregarding all the available current and historical traffic information. Note that seasonal closures are not excluded. To exclude seasonal closures, use <a href="sdk-for-ios-navigate-enums-roadfeatures#/s:7heresdk12RoadFeaturesO15seasonalClosureyA2CmF">`RoadFeatures.seasonalClosure`</a>. Note that this mode disables traffic-aware routing regardless of other settings.
+  Traffic optimization is completely disabled, including long-term road closures. Both <a href="sdk-for-ios-navigate-structs-routeoptions#sdk-for-ios-navigate-s-7heresdk12RouteOptionsV13departureTime10Foundation4DateVSgvp">`RouteOptions.departureTime`</a> and <a href="sdk-for-ios-navigate-structs-routeoptions#sdk-for-ios-navigate-s-7heresdk12RouteOptionsV11arrivalTime10Foundation4DateVSgvp">`RouteOptions.arrivalTime`</a> are ignored, and the route will be shaped disregarding all the available current and historical traffic information. Note that seasonal closures are not excluded. To exclude seasonal closures, use <a href="sdk-for-ios-navigate-enums-roadfeatures#sdk-for-ios-navigate-s-7heresdk12RoadFeaturesO15seasonalClosureyA2CmF">`RoadFeatures.seasonalClosure`</a>. Note that this mode disables traffic-aware routing regardless of other settings.
 
   </div>
 

@@ -27,7 +27,7 @@ Location features supported by HERE positioning.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15LocationFeatureO19cellularPositioningyA2CmF"></span>` `<span id="//apple_ref/swift/Element/cellularPositioning" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-locationfeature#/s:7heresdk15LocationFeatureO19cellularPositioningyA2CmF" class="token"><code>cellularPositioning</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15LocationFeatureO19cellularPositioningyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-cellularPositioning" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-locationfeature#sdk-for-ios-navigate-s-7heresdk15LocationFeatureO19cellularPositioningyA2CmF" class="token"><code>cellularPositioning</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Location features supported by HERE positioning.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15LocationFeatureO17wifiPositioning2dyA2CmF"></span>` `<span id="//apple_ref/swift/Element/wifiPositioning2d" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-locationfeature#/s:7heresdk15LocationFeatureO17wifiPositioning2dyA2CmF" class="token"><code>wifiPositioning2d</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15LocationFeatureO17wifiPositioning2dyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-wifiPositioning2d" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-locationfeature#sdk-for-ios-navigate-s-7heresdk15LocationFeatureO17wifiPositioning2dyA2CmF" class="token"><code>wifiPositioning2d</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Location features supported by HERE positioning.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15LocationFeatureO17wifiPositioning3dyA2CmF"></span>` `<span id="//apple_ref/swift/Element/wifiPositioning3d" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-locationfeature#/s:7heresdk15LocationFeatureO17wifiPositioning3dyA2CmF" class="token"><code>wifiPositioning3d</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15LocationFeatureO17wifiPositioning3dyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-wifiPositioning3d" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-locationfeature#sdk-for-ios-navigate-s-7heresdk15LocationFeatureO17wifiPositioning3dyA2CmF" class="token"><code>wifiPositioning3d</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Location features supported by HERE positioning.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15LocationFeatureO17hdGnssPositioningyA2CmF"></span>` `<span id="//apple_ref/swift/Element/hdGnssPositioning" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-locationfeature#/s:7heresdk15LocationFeatureO17hdGnssPositioningyA2CmF" class="token"><code>hdGnssPositioning</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15LocationFeatureO17hdGnssPositioningyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-hdGnssPositioning" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-locationfeature#sdk-for-ios-navigate-s-7heresdk15LocationFeatureO17hdGnssPositioningyA2CmF" class="token"><code>hdGnssPositioning</code></a> 
 
   </div>
 
@@ -203,7 +203,7 @@ Location features supported by HERE positioning.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15LocationFeatureO14vdrPositioningyA2CmF"></span>` `<span id="//apple_ref/swift/Element/vdrPositioning" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-locationfeature#/s:7heresdk15LocationFeatureO14vdrPositioningyA2CmF" class="token"><code>vdrPositioning</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15LocationFeatureO14vdrPositioningyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-vdrPositioning" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-locationfeature#sdk-for-ios-navigate-s-7heresdk15LocationFeatureO14vdrPositioningyA2CmF" class="token"><code>vdrPositioning</code></a> 
 
   </div>
 
@@ -247,7 +247,7 @@ Location features supported by HERE positioning.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15LocationFeatureO9undefinedyA2CmF"></span>` `<span id="//apple_ref/swift/Element/undefined" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-locationfeature#/s:7heresdk15LocationFeatureO9undefinedyA2CmF" class="token"><code>undefined</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk15LocationFeatureO9undefinedyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-undefined" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-locationfeature#sdk-for-ios-navigate-s-7heresdk15LocationFeatureO9undefinedyA2CmF" class="token"><code>undefined</code></a> 
 
   </div>
 

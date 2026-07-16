@@ -27,7 +27,7 @@ This protocol should be implemented in order to receive railway crossing warning
 
 - <div>
 
-      onRailwayCrossingWarningUpdated(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk30RailwayCrossingWarningDelegateP02onbcD7UpdatedyyAA0bcD0VF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-onRailwayCrossingWarningUpdated-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-protocols-railwaycrossingwarningdelegate#sdk-for-ios-explore-s-7heresdk30RailwayCrossingWarningDelegateP02onbcD7UpdatedyyAA0bcD0VF" class="token"><code>onRailwayCrossingWarningUpdated(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -58,12 +58,14 @@ This protocol should be implemented in order to receive railway crossing warning
   Swift
 
   ``` highlight
-  func onRailwayCrossingWarningUpdated ( _ railwayCrossingWarning : RailwayCrossingWarning )
+  func onRailwayCrossingWarningUpdated(_ railwayCrossingWarning: RailwayCrossingWarning)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-railwaycrossingwarning">RailwayCrossingWarning</a>
 
   </div>
 

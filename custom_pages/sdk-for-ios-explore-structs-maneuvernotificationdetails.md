@@ -27,7 +27,7 @@ This class provides the information regarding the next maneuver to be triggered
 
 - <div>
 
-  ` `<span id="/s:7heresdk27ManeuverNotificationDetailsV8maneuverAA0B0Cvp"></span>` `<span id="//apple_ref/swift/Property/maneuver" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-maneuvernotificationdetails#/s:7heresdk27ManeuverNotificationDetailsV8maneuverAA0B0Cvp" class="token"><code>maneuver</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk27ManeuverNotificationDetailsV8maneuverAA0B0Cvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-maneuver" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-maneuvernotificationdetails#sdk-for-ios-explore-s-7heresdk27ManeuverNotificationDetailsV8maneuverAA0B0Cvp" class="token"><code>maneuver</code></a> 
 
   </div>
 
@@ -63,6 +63,10 @@ This class provides the information regarding the next maneuver to be triggered
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-maneuver">Maneuver</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ This class provides the information regarding the next maneuver to be triggered
 
 - <div>
 
-  ` `<span id="/s:7heresdk27ManeuverNotificationDetailsV08maneuverC4TypeAA0bcF0Ovp"></span>` `<span id="//apple_ref/swift/Property/maneuverNotificationType" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-maneuvernotificationdetails#/s:7heresdk27ManeuverNotificationDetailsV08maneuverC4TypeAA0bcF0Ovp" class="token"><code>maneuverNotificationType</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk27ManeuverNotificationDetailsV08maneuverC4TypeAA0bcF0Ovp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-maneuverNotificationType" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-maneuvernotificationdetails#sdk-for-ios-explore-s-7heresdk27ManeuverNotificationDetailsV08maneuverC4TypeAA0bcF0Ovp" class="token"><code>maneuverNotificationType</code></a> 
 
   </div>
 
@@ -107,6 +111,10 @@ This class provides the information regarding the next maneuver to be triggered
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-maneuvernotificationtype">ManeuverNotificationType</a>
+
   </div>
 
   </div>
@@ -115,7 +123,7 @@ This class provides the information regarding the next maneuver to be triggered
 
 - <div>
 
-  ` `<span id="/s:7heresdk27ManeuverNotificationDetailsV010isCombinedB4TextSbvp"></span>` `<span id="//apple_ref/swift/Property/isCombinedManeuverText" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-maneuvernotificationdetails#/s:7heresdk27ManeuverNotificationDetailsV010isCombinedB4TextSbvp" class="token"><code>isCombinedManeuverText</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk27ManeuverNotificationDetailsV010isCombinedB4TextSbvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-isCombinedManeuverText" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-maneuvernotificationdetails#sdk-for-ios-explore-s-7heresdk27ManeuverNotificationDetailsV010isCombinedB4TextSbvp" class="token"><code>isCombinedManeuverText</code></a> 
 
   </div>
 
@@ -159,7 +167,7 @@ This class provides the information regarding the next maneuver to be triggered
 
 - <div>
 
-      init(maneuver: maneuverNotificationType: isCombinedManeuverText: )
+   <span id="sdk-for-ios-explore-s-7heresdk27ManeuverNotificationDetailsV8maneuver0eC4Type010isCombinedB4TextAcA0B0C_AA0bcF0OSbtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-maneuver-maneuverNotificationType-isCombinedManeuverText" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-maneuvernotificationdetails#sdk-for-ios-explore-s-7heresdk27ManeuverNotificationDetailsV8maneuver0eC4Type010isCombinedB4TextAcA0B0C_AA0bcF0OSbtcfc" class="token"><code>init(maneuver:</code><wbr></wbr><code>maneuverNotificationType:</code><wbr></wbr><code>isCombinedManeuverText:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -190,12 +198,15 @@ This class provides the information regarding the next maneuver to be triggered
   Swift
 
   ``` highlight
-  public init ( maneuver : Maneuver , maneuverNotificationType : ManeuverNotificationType , isCombinedManeuverText : Bool = false )
+  public init(maneuver: Maneuver, maneuverNotificationType: ManeuverNotificationType, isCombinedManeuverText: Bool = false)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-maneuver">Maneuver</a>
+  - <a href="sdk-for-ios-explore-enums-maneuvernotificationtype">ManeuverNotificationType</a>
 
   </div>
 

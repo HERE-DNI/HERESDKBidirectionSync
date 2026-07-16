@@ -35,7 +35,7 @@ This feature is in BETA state and thus there can be bugs and unexpected behavior
 
 - <div>
 
-      init(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk12IconProviderCyAcA10MapContextCcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-iconprovider#sdk-for-ios-explore-s-7heresdk12IconProviderCyAcA10MapContextCcfc" class="token"><code>init(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -66,12 +66,14 @@ This feature is in BETA state and thus there can be bugs and unexpected behavior
   Swift
 
   ``` highlight
-  public init ( _ mapContext : MapContext )
+  public init(_ mapContext: MapContext)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-mapcontext">MapContext</a>
 
   </div>
 
@@ -102,7 +104,7 @@ This feature is in BETA state and thus there can be bugs and unexpected behavior
 
 - <div>
 
-      createRoadShieldIcon(properties: mapScheme: assetType: widthConstraintInPixels: heightConstraintInPixels: callback: )
+   <span id="sdk-for-ios-explore-s-7heresdk12IconProviderC016createRoadShieldB010properties9mapScheme9assetType23widthConstraintInPixels06heightmnO08callbackyAA0efB10PropertiesV_AA03MapI0OAA0bc5AssetK0Os6UInt32VARySo7UIImageCSg_SSSgAA0bC5ErrorOSgtctF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-createRoadShieldIcon-properties-mapScheme-assetType-widthConstraintInPixels-heightConstraintInPixels-callback" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-iconprovider#sdk-for-ios-explore-s-7heresdk12IconProviderC016createRoadShieldB010properties9mapScheme9assetType23widthConstraintInPixels06heightmnO08callbackyAA0efB10PropertiesV_AA03MapI0OAA0bc5AssetK0Os6UInt32VARySo7UIImageCSg_SSSgAA0bC5ErrorOSgtctF" class="token"><code>createRoadShieldIcon(properties:</code><wbr></wbr><code>mapScheme:</code><wbr></wbr><code>assetType:</code><wbr></wbr><code>widthConstraintInPixels:</code><wbr></wbr><code>heightConstraintInPixels:</code><wbr></wbr><code>callback:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -141,12 +143,23 @@ This feature is in BETA state and thus there can be bugs and unexpected behavior
   Swift
 
   ``` highlight
-  public func createRoadShieldIcon ( properties : RoadShieldIconProperties , mapScheme : MapScheme , assetType : IconProviderAssetType , widthConstraintInPixels : UInt32 , heightConstraintInPixels : UInt32 , callback : @escaping IconProviderCallback )
+  public func createRoadShieldIcon(
+      properties: RoadShieldIconProperties,
+      mapScheme: MapScheme,
+      assetType: IconProviderAssetType,
+      widthConstraintInPixels: UInt32,
+      heightConstraintInPixels: UInt32,
+      callback: @escaping IconProviderCallback)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-roadshieldiconproperties">RoadShieldIconProperties</a>
+  - <a href="sdk-for-ios-explore-enums-mapscheme">MapScheme</a>
+  - <a href="sdk-for-ios-explore-enums-iconproviderassettype">IconProviderAssetType</a>
+  - <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk20IconProviderCallbacka">IconProviderCallback</a>
 
   </div>
 
@@ -207,7 +220,7 @@ This feature is in BETA state and thus there can be bugs and unexpected behavior
 
 - <div>
 
-      createVehicleRestrictionIcon(pickingResult: mapScheme: assetType: sizeConstraintsInPixels: completion: )
+   <span id="sdk-for-ios-explore-s-7heresdk12IconProviderC024createVehicleRestrictionB013pickingResult9mapScheme9assetType23sizeConstraintsInPixels10completionyAA014PickMapContentH0C0efH0V_AA0sJ0OAA0bc5AssetL0OAA6Size2DVySo7UIImageCSg_SSSgAA0bC5ErrorOSgtctF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-createVehicleRestrictionIcon-pickingResult-mapScheme-assetType-sizeConstraintsInPixels-completion" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-iconprovider#sdk-for-ios-explore-s-7heresdk12IconProviderC024createVehicleRestrictionB013pickingResult9mapScheme9assetType23sizeConstraintsInPixels10completionyAA014PickMapContentH0C0efH0V_AA0sJ0OAA0bc5AssetL0OAA6Size2DVySo7UIImageCSg_SSSgAA0bC5ErrorOSgtctF" class="token"><code>createVehicleRestrictionIcon(pickingResult:</code><wbr></wbr><code>mapScheme:</code><wbr></wbr><code>assetType:</code><wbr></wbr><code>sizeConstraintsInPixels:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -238,12 +251,23 @@ This feature is in BETA state and thus there can be bugs and unexpected behavior
   Swift
 
   ``` highlight
-  func createVehicleRestrictionIcon ( pickingResult : PickMapContentResult . VehicleRestrictionResult , mapScheme : MapScheme , assetType : IconProviderAssetType , sizeConstraintsInPixels : Size2D , completion callback : @escaping IconProviderCallback )
+  func createVehicleRestrictionIcon(
+      pickingResult: PickMapContentResult.VehicleRestrictionResult,
+      mapScheme: MapScheme,
+      assetType: IconProviderAssetType,
+      sizeConstraintsInPixels: Size2D,
+      completion callback: @escaping IconProviderCallback)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-pickmapcontentresult">PickMapContentResult</a>
+  - <a href="sdk-for-ios-explore-enums-mapscheme">MapScheme</a>
+  - <a href="sdk-for-ios-explore-enums-iconproviderassettype">IconProviderAssetType</a>
+  - <a href="sdk-for-ios-explore-structs-size2d">Size2D</a>
+  - <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk20IconProviderCallbacka">IconProviderCallback</a>
 
   </div>
 
@@ -298,7 +322,7 @@ This feature is in BETA state and thus there can be bugs and unexpected behavior
 
 - <div>
 
-      createVehicleRestrictionIcon(properties: mapScheme: assetType: sizeConstraintsInPixels: completion: )
+   <span id="sdk-for-ios-explore-s-7heresdk12IconProviderC024createVehicleRestrictionB010properties9mapScheme9assetType23sizeConstraintsInPixels10completionyAA0efB10PropertiesV_AA03MapI0OAA0bc5AssetK0OAA6Size2DVySo7UIImageCSg_SSSgAA0bC5ErrorOSgtctF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-createVehicleRestrictionIcon-properties-mapScheme-assetType-sizeConstraintsInPixels-completion" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-iconprovider#sdk-for-ios-explore-s-7heresdk12IconProviderC024createVehicleRestrictionB010properties9mapScheme9assetType23sizeConstraintsInPixels10completionyAA0efB10PropertiesV_AA03MapI0OAA0bc5AssetK0OAA6Size2DVySo7UIImageCSg_SSSgAA0bC5ErrorOSgtctF" class="token"><code>createVehicleRestrictionIcon(properties:</code><wbr></wbr><code>mapScheme:</code><wbr></wbr><code>assetType:</code><wbr></wbr><code>sizeConstraintsInPixels:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -318,7 +342,7 @@ This feature is in BETA state and thus there can be bugs and unexpected behavior
 
   Creates an image representing a vehicle restriction as shown on the map.
 
-  In case when <a href="sdk-for-ios-explore-structs-vehiclerestriction">`VehicleRestriction`</a> object specifies multiple types of restrictions, then the icon is generated for the first one according to the following priority: <a href="sdk-for-ios-explore-structs-vehiclerestriction#/s:7heresdk18VehicleRestrictionV11restrictionAA08SpecificC0VSgvp">`VehicleRestriction.restriction`</a>, <a href="sdk-for-ios-explore-structs-vehiclerestriction#/s:7heresdk18VehicleRestrictionV9axleCountAA12IntegerRangeVSgvp">`VehicleRestriction.axleCount`</a>, <a href="sdk-for-ios-explore-structs-vehiclerestriction#/s:7heresdk18VehicleRestrictionV16axleCountInGroupAA12IntegerRangeVSgvp">`VehicleRestriction.axleCountInGroup`</a>, <a href="sdk-for-ios-explore-structs-vehiclerestriction#/s:7heresdk18VehicleRestrictionV06hazmatC0AA017HazardousMaterialC0VSgvp">`VehicleRestriction.hazmatRestriction`</a>, <a href="sdk-for-ios-explore-structs-vehiclerestriction#/s:7heresdk18VehicleRestrictionV12trailerCountAA12IntegerRangeVSgvp">`VehicleRestriction.trailerCount`</a>.
+  In case when <a href="sdk-for-ios-explore-structs-vehiclerestriction">`VehicleRestriction`</a> object specifies multiple types of restrictions, then the icon is generated for the first one according to the following priority: <a href="sdk-for-ios-explore-structs-vehiclerestriction#sdk-for-ios-explore-s-7heresdk18VehicleRestrictionV11restrictionAA08SpecificC0VSgvp">`VehicleRestriction.restriction`</a>, <a href="sdk-for-ios-explore-structs-vehiclerestriction#sdk-for-ios-explore-s-7heresdk18VehicleRestrictionV9axleCountAA12IntegerRangeVSgvp">`VehicleRestriction.axleCount`</a>, <a href="sdk-for-ios-explore-structs-vehiclerestriction#sdk-for-ios-explore-s-7heresdk18VehicleRestrictionV16axleCountInGroupAA12IntegerRangeVSgvp">`VehicleRestriction.axleCountInGroup`</a>, <a href="sdk-for-ios-explore-structs-vehiclerestriction#sdk-for-ios-explore-s-7heresdk18VehicleRestrictionV06hazmatC0AA017HazardousMaterialC0VSgvp">`VehicleRestriction.hazmatRestriction`</a>, <a href="sdk-for-ios-explore-structs-vehiclerestriction#sdk-for-ios-explore-s-7heresdk18VehicleRestrictionV12trailerCountAA12IntegerRangeVSgvp">`VehicleRestriction.trailerCount`</a>.
 
   </div>
 
@@ -331,12 +355,23 @@ This feature is in BETA state and thus there can be bugs and unexpected behavior
   Swift
 
   ``` highlight
-  func createVehicleRestrictionIcon ( properties : VehicleRestrictionIconProperties , mapScheme : MapScheme , assetType : IconProviderAssetType , sizeConstraintsInPixels : Size2D , completion callback : @escaping IconProviderCallback )
+  func createVehicleRestrictionIcon(
+      properties: VehicleRestrictionIconProperties,
+      mapScheme: MapScheme,
+      assetType: IconProviderAssetType,
+      sizeConstraintsInPixels: Size2D,
+      completion callback: @escaping IconProviderCallback)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-vehiclerestrictioniconproperties">VehicleRestrictionIconProperties</a>
+  - <a href="sdk-for-ios-explore-enums-mapscheme">MapScheme</a>
+  - <a href="sdk-for-ios-explore-enums-iconproviderassettype">IconProviderAssetType</a>
+  - <a href="sdk-for-ios-explore-structs-size2d">Size2D</a>
+  - <a href="sdk-for-ios-explore-maps#sdk-for-ios-explore-s-7heresdk20IconProviderCallbacka">IconProviderCallback</a>
 
   </div>
 

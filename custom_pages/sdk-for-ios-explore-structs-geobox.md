@@ -17,7 +17,7 @@ public struct GeoBox : Hashable
 
 </div>
 
-Represents a bounding rectangle aligned with latitude and longitude. Geographic area represented by this would be visualised as a rectangle when using a normal cylindrical projection (such as Mercator). The box has a maximum span of 360 degrees in longitude and 180 degrees in latitude direction. The box with equal values in longitude for the corners is considered as a span of 360 degrees. The box is considered empty if the latitude of the <a href="sdk-for-ios-explore-structs-geobox#/s:7heresdk6GeoBoxV15southWestCornerAA0B11CoordinatesVvp">`GeoBox.southWestCorner`</a> is larger than the the latitude of the <a href="sdk-for-ios-explore-structs-geobox#/s:7heresdk6GeoBoxV15northEastCornerAA0B11CoordinatesVvp">`GeoBox.northEastCorner`</a>.
+Represents a bounding rectangle aligned with latitude and longitude. Geographic area represented by this would be visualised as a rectangle when using a normal cylindrical projection (such as Mercator). The box has a maximum span of 360 degrees in longitude and 180 degrees in latitude direction. The box with equal values in longitude for the corners is considered as a span of 360 degrees. The box is considered empty if the latitude of the <a href="sdk-for-ios-explore-structs-geobox#sdk-for-ios-explore-s-7heresdk6GeoBoxV15southWestCornerAA0B11CoordinatesVvp">`GeoBox.southWestCorner`</a> is larger than the the latitude of the <a href="sdk-for-ios-explore-structs-geobox#sdk-for-ios-explore-s-7heresdk6GeoBoxV15northEastCornerAA0B11CoordinatesVvp">`GeoBox.northEastCorner`</a>.
 
 </div>
 
@@ -27,7 +27,7 @@ Represents a bounding rectangle aligned with latitude and longitude. Geographic 
 
 - <div>
 
-  ` `<span id="/s:7heresdk6GeoBoxV15southWestCornerAA0B11CoordinatesVvp"></span>` `<span id="//apple_ref/swift/Property/southWestCorner" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-geobox#/s:7heresdk6GeoBoxV15southWestCornerAA0B11CoordinatesVvp" class="token"><code>southWestCorner</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk6GeoBoxV15southWestCornerAA0B11CoordinatesVvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-southWestCorner" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-geobox#sdk-for-ios-explore-s-7heresdk6GeoBoxV15southWestCornerAA0B11CoordinatesVvp" class="token"><code>southWestCorner</code></a> 
 
   </div>
 
@@ -63,6 +63,10 @@ Represents a bounding rectangle aligned with latitude and longitude. Geographic 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geocoordinates">GeoCoordinates</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ Represents a bounding rectangle aligned with latitude and longitude. Geographic 
 
 - <div>
 
-  ` `<span id="/s:7heresdk6GeoBoxV15northEastCornerAA0B11CoordinatesVvp"></span>` `<span id="//apple_ref/swift/Property/northEastCorner" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-geobox#/s:7heresdk6GeoBoxV15northEastCornerAA0B11CoordinatesVvp" class="token"><code>northEastCorner</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk6GeoBoxV15northEastCornerAA0B11CoordinatesVvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-northEastCorner" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-geobox#sdk-for-ios-explore-s-7heresdk6GeoBoxV15northEastCornerAA0B11CoordinatesVvp" class="token"><code>northEastCorner</code></a> 
 
   </div>
 
@@ -107,6 +111,10 @@ Represents a bounding rectangle aligned with latitude and longitude. Geographic 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geocoordinates">GeoCoordinates</a>
+
   </div>
 
   </div>
@@ -115,7 +123,7 @@ Represents a bounding rectangle aligned with latitude and longitude. Geographic 
 
 - <div>
 
-      init(southWestCorner: northEastCorner: )
+   <span id="sdk-for-ios-explore-s-7heresdk6GeoBoxV15southWestCorner09northEastF0AcA0B11CoordinatesV_AGtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-southWestCorner-northEastCorner" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-geobox#sdk-for-ios-explore-s-7heresdk6GeoBoxV15southWestCorner09northEastF0AcA0B11CoordinatesV_AGtcfc" class="token"><code>init(southWestCorner:</code><wbr></wbr><code>northEastCorner:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -146,12 +154,14 @@ Represents a bounding rectangle aligned with latitude and longitude. Geographic 
   Swift
 
   ``` highlight
-  public init ( southWestCorner : GeoCoordinates , northEastCorner : GeoCoordinates )
+  public init(southWestCorner: GeoCoordinates, northEastCorner: GeoCoordinates)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geocoordinates">GeoCoordinates</a>
 
   </div>
 
@@ -161,7 +171,7 @@ Represents a bounding rectangle aligned with latitude and longitude. Geographic 
 
 - <div>
 
-      containing(geoCoordinates: )
+   <span id="sdk-for-ios-explore-s-7heresdk6GeoBoxV10containing14geoCoordinatesACSgSayAA0bF0VG_tFZ"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-containing-geoCoordinates" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-geobox#sdk-for-ios-explore-s-7heresdk6GeoBoxV10containing14geoCoordinatesACSgSayAA0bF0VG_tFZ" class="token"><code>containing(geoCoordinates:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -192,12 +202,14 @@ Represents a bounding rectangle aligned with latitude and longitude. Geographic 
   Swift
 
   ``` highlight
-  public static func containing ( geoCoordinates : [ GeoCoordinates ]) -> GeoBox ?
+  public static func containing(geoCoordinates: [GeoCoordinates]) -> GeoBox?
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geocoordinates">GeoCoordinates</a>
 
   </div>
 
@@ -236,7 +248,7 @@ Represents a bounding rectangle aligned with latitude and longitude. Geographic 
 
 - <div>
 
-      envelope(geoBox: )
+   <span id="sdk-for-ios-explore-s-7heresdk6GeoBoxV8envelope03geoC0A2C_tF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-envelope-geoBox" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-geobox#sdk-for-ios-explore-s-7heresdk6GeoBoxV8envelope03geoC0A2C_tF" class="token"><code>envelope(geoBox:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -267,10 +279,8 @@ Represents a bounding rectangle aligned with latitude and longitude. Geographic 
   Swift
 
   ``` highlight
-  public func envelope ( geoBox : GeoBox ) -> GeoBox
+  public func envelope(geoBox: GeoBox) -> GeoBox
   ```
-
-  </pre>
 
   </div>
 
@@ -311,7 +321,7 @@ Represents a bounding rectangle aligned with latitude and longitude. Geographic 
 
 - <div>
 
-      envelopeGeoBoxes(geoBoxes: )
+   <span id="sdk-for-ios-explore-s-7heresdk6GeoBoxV08envelopeB5Boxes03geoE0ACSgSayACG_tFZ"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-envelopeGeoBoxes-geoBoxes" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-geobox#sdk-for-ios-explore-s-7heresdk6GeoBoxV08envelopeB5Boxes03geoE0ACSgSayACG_tFZ" class="token"><code>envelopeGeoBoxes(geoBoxes:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -342,10 +352,8 @@ Represents a bounding rectangle aligned with latitude and longitude. Geographic 
   Swift
 
   ``` highlight
-  public static func envelopeGeoBoxes ( geoBoxes : [ GeoBox ]) -> GeoBox ?
+  public static func envelopeGeoBoxes(geoBoxes: [GeoBox]) -> GeoBox?
   ```
-
-  </pre>
 
   </div>
 
@@ -386,7 +394,7 @@ Represents a bounding rectangle aligned with latitude and longitude. Geographic 
 
 - <div>
 
-      intersects(geoBox: )
+   <span id="sdk-for-ios-explore-s-7heresdk6GeoBoxV10intersects03geoC0SbAC_tF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-intersects-geoBox" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-geobox#sdk-for-ios-explore-s-7heresdk6GeoBoxV10intersects03geoC0SbAC_tF" class="token"><code>intersects(geoBox:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -417,10 +425,8 @@ Represents a bounding rectangle aligned with latitude and longitude. Geographic 
   Swift
 
   ``` highlight
-  public func intersects ( geoBox : GeoBox ) -> Bool
+  public func intersects(geoBox: GeoBox) -> Bool
   ```
-
-  </pre>
 
   </div>
 
@@ -461,7 +467,7 @@ Represents a bounding rectangle aligned with latitude and longitude. Geographic 
 
 - <div>
 
-      intersection(geoBox: )
+   <span id="sdk-for-ios-explore-s-7heresdk6GeoBoxV12intersection03geoC0SayACGAC_tF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-intersection-geoBox" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-geobox#sdk-for-ios-explore-s-7heresdk6GeoBoxV12intersection03geoC0SayACGAC_tF" class="token"><code>intersection(geoBox:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -494,10 +500,8 @@ Represents a bounding rectangle aligned with latitude and longitude. Geographic 
   Swift
 
   ``` highlight
-  public func intersection ( geoBox : GeoBox ) -> [ GeoBox ]
+  public func intersection(geoBox: GeoBox) -> [GeoBox]
   ```
-
-  </pre>
 
   </div>
 
@@ -538,7 +542,7 @@ Represents a bounding rectangle aligned with latitude and longitude. Geographic 
 
 - <div>
 
-      intersection(geoBoxes: )
+   <span id="sdk-for-ios-explore-s-7heresdk6GeoBoxV12intersection8geoBoxesSayACGAF_tFZ"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-intersection-geoBoxes" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-geobox#sdk-for-ios-explore-s-7heresdk6GeoBoxV12intersection8geoBoxesSayACGAF_tFZ" class="token"><code>intersection(geoBoxes:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -571,10 +575,8 @@ Represents a bounding rectangle aligned with latitude and longitude. Geographic 
   Swift
 
   ``` highlight
-  public static func intersection ( geoBoxes : [ GeoBox ]) -> [ GeoBox ]
+  public static func intersection(geoBoxes: [GeoBox]) -> [GeoBox]
   ```
-
-  </pre>
 
   </div>
 
@@ -615,7 +617,7 @@ Represents a bounding rectangle aligned with latitude and longitude. Geographic 
 
 - <div>
 
-      contains(geoBox: )
+   <span id="sdk-for-ios-explore-s-7heresdk6GeoBoxV8contains03geoC0SbAC_tF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-contains-geoBox" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-geobox#sdk-for-ios-explore-s-7heresdk6GeoBoxV8contains03geoC0SbAC_tF" class="token"><code>contains(geoBox:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -646,10 +648,8 @@ Represents a bounding rectangle aligned with latitude and longitude. Geographic 
   Swift
 
   ``` highlight
-  public func contains ( geoBox : GeoBox ) -> Bool
+  public func contains(geoBox: GeoBox) -> Bool
   ```
-
-  </pre>
 
   </div>
 
@@ -690,7 +690,7 @@ Represents a bounding rectangle aligned with latitude and longitude. Geographic 
 
 - <div>
 
-      contains(geoCoordinates: )
+   <span id="sdk-for-ios-explore-s-7heresdk6GeoBoxV8contains14geoCoordinatesSbAA0bF0V_tF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-contains-geoCoordinates" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-geobox#sdk-for-ios-explore-s-7heresdk6GeoBoxV8contains14geoCoordinatesSbAA0bF0V_tF" class="token"><code>contains(geoCoordinates:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -721,12 +721,14 @@ Represents a bounding rectangle aligned with latitude and longitude. Geographic 
   Swift
 
   ``` highlight
-  public func contains ( geoCoordinates : GeoCoordinates ) -> Bool
+  public func contains(geoCoordinates: GeoCoordinates) -> Bool
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geocoordinates">GeoCoordinates</a>
 
   </div>
 
@@ -765,7 +767,7 @@ Represents a bounding rectangle aligned with latitude and longitude. Geographic 
 
 - <div>
 
-      expandedBy(southMeters: westMeters: northMeters: eastMeters: )
+   <span id="sdk-for-ios-explore-s-7heresdk6GeoBoxV10expandedBy11southMeters04westG005northG004eastG0ACSd_S3dtKF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-expandedBy-southMeters-westMeters-northMeters-eastMeters" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-geobox#sdk-for-ios-explore-s-7heresdk6GeoBoxV10expandedBy11southMeters04westG005northG004eastG0ACSd_S3dtKF" class="token"><code>expandedBy(southMeters:</code><wbr></wbr><code>westMeters:</code><wbr></wbr><code>northMeters:</code><wbr></wbr><code>eastMeters:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -789,7 +791,7 @@ Represents a bounding rectangle aligned with latitude and longitude. Geographic 
 
   Throws
 
-  <a href="sdk-for-ios-explore-core#/s:7heresdk18InstantiationErrora">`InstantiationError`</a> Instantiation error.
+  <a href="sdk-for-ios-explore-core#sdk-for-ios-explore-s-7heresdk18InstantiationErrora">`InstantiationError`</a> Instantiation error.
 
   </div>
 
@@ -804,10 +806,8 @@ Represents a bounding rectangle aligned with latitude and longitude. Geographic 
   Swift
 
   ``` highlight
-  public func expandedBy ( southMeters : Double , westMeters : Double , northMeters : Double , eastMeters : Double ) throws -> GeoBox
+  public func expandedBy(southMeters: Double, westMeters: Double, northMeters: Double, eastMeters: Double) throws -> GeoBox
   ```
-
-  </pre>
 
   </div>
 

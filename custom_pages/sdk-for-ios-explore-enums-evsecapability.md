@@ -27,7 +27,7 @@ Represents the administrative functionality that an EVSE is capable of. **Note:*
 
 - <div>
 
-  ` `<span id="/s:7heresdk14EVSECapabilityO15chargingProfileyA2CmF"></span>` `<span id="//apple_ref/swift/Element/chargingProfile" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-evsecapability#/s:7heresdk14EVSECapabilityO15chargingProfileyA2CmF" class="token"><code>chargingProfile</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14EVSECapabilityO15chargingProfileyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-chargingProfile" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-evsecapability#sdk-for-ios-explore-s-7heresdk14EVSECapabilityO15chargingProfileyA2CmF" class="token"><code>chargingProfile</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Represents the administrative functionality that an EVSE is capable of. **Note:*
 
 - <div>
 
-  ` `<span id="/s:7heresdk14EVSECapabilityO19chargingPreferencesyA2CmF"></span>` `<span id="//apple_ref/swift/Element/chargingPreferences" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-evsecapability#/s:7heresdk14EVSECapabilityO19chargingPreferencesyA2CmF" class="token"><code>chargingPreferences</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14EVSECapabilityO19chargingPreferencesyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-chargingPreferences" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-evsecapability#sdk-for-ios-explore-s-7heresdk14EVSECapabilityO19chargingPreferencesyA2CmF" class="token"><code>chargingPreferences</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Represents the administrative functionality that an EVSE is capable of. **Note:*
 
 - <div>
 
-  ` `<span id="/s:7heresdk14EVSECapabilityO15remoteStartStopyA2CmF"></span>` `<span id="//apple_ref/swift/Element/remoteStartStop" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-evsecapability#/s:7heresdk14EVSECapabilityO15remoteStartStopyA2CmF" class="token"><code>remoteStartStop</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14EVSECapabilityO15remoteStartStopyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-remoteStartStop" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-evsecapability#sdk-for-ios-explore-s-7heresdk14EVSECapabilityO15remoteStartStopyA2CmF" class="token"><code>remoteStartStop</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Represents the administrative functionality that an EVSE is capable of. **Note:*
 
 - <div>
 
-  ` `<span id="/s:7heresdk14EVSECapabilityO10reservableyA2CmF"></span>` `<span id="//apple_ref/swift/Element/reservable" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-evsecapability#/s:7heresdk14EVSECapabilityO10reservableyA2CmF" class="token"><code>reservable</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14EVSECapabilityO10reservableyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-reservable" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-evsecapability#sdk-for-ios-explore-s-7heresdk14EVSECapabilityO10reservableyA2CmF" class="token"><code>reservable</code></a> 
 
   </div>
 
@@ -203,7 +203,7 @@ Represents the administrative functionality that an EVSE is capable of. **Note:*
 
 - <div>
 
-  ` `<span id="/s:7heresdk14EVSECapabilityO10tokenGroupyA2CmF"></span>` `<span id="//apple_ref/swift/Element/tokenGroup" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-evsecapability#/s:7heresdk14EVSECapabilityO10tokenGroupyA2CmF" class="token"><code>tokenGroup</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14EVSECapabilityO10tokenGroupyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-tokenGroup" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-evsecapability#sdk-for-ios-explore-s-7heresdk14EVSECapabilityO10tokenGroupyA2CmF" class="token"><code>tokenGroup</code></a> 
 
   </div>
 
@@ -247,7 +247,7 @@ Represents the administrative functionality that an EVSE is capable of. **Note:*
 
 - <div>
 
-  ` `<span id="/s:7heresdk14EVSECapabilityO6unlockyA2CmF"></span>` `<span id="//apple_ref/swift/Element/unlock" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-evsecapability#/s:7heresdk14EVSECapabilityO6unlockyA2CmF" class="token"><code>unlock</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14EVSECapabilityO6unlockyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-unlock" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-evsecapability#sdk-for-ios-explore-s-7heresdk14EVSECapabilityO6unlockyA2CmF" class="token"><code>unlock</code></a> 
 
   </div>
 

@@ -35,7 +35,7 @@ Represents a geometry inside the <a href="sdk-for-ios-explore-classes-venuelevel
 
 - <div>
 
-  ` `<span id="/s:7heresdk13VenueGeometryC19StringToPropertyMapa"></span>` `<span id="//apple_ref/swift/Alias/StringToPropertyMap" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuegeometry#/s:7heresdk13VenueGeometryC19StringToPropertyMapa" class="token"><code>StringToPropertyMap</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13VenueGeometryC19StringToPropertyMapa"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Alias-StringToPropertyMap" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuegeometry#sdk-for-ios-explore-s-7heresdk13VenueGeometryC19StringToPropertyMapa" class="token"><code>StringToPropertyMap</code></a> 
 
   </div>
 
@@ -71,6 +71,10 @@ Represents a geometry inside the <a href="sdk-for-ios-explore-classes-venuelevel
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-property">Property</a>
+
   </div>
 
   </div>
@@ -79,7 +83,7 @@ Represents a geometry inside the <a href="sdk-for-ios-explore-classes-venuelevel
 
 - <div>
 
-  ` `<span id="/s:7heresdk13VenueGeometryC10identifierSSvp"></span>` `<span id="//apple_ref/swift/Property/identifier" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuegeometry#/s:7heresdk13VenueGeometryC10identifierSSvp" class="token"><code>identifier</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13VenueGeometryC10identifierSSvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-identifier" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuegeometry#sdk-for-ios-explore-s-7heresdk13VenueGeometryC10identifierSSvp" class="token"><code>identifier</code></a> 
 
   </div>
 
@@ -123,7 +127,7 @@ Represents a geometry inside the <a href="sdk-for-ios-explore-classes-venuelevel
 
 - <div>
 
-  ` `<span id="/s:7heresdk13VenueGeometryC5levelAA0B5LevelCvp"></span>` `<span id="//apple_ref/swift/Property/level" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuegeometry#/s:7heresdk13VenueGeometryC5levelAA0B5LevelCvp" class="token"><code>level</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13VenueGeometryC5levelAA0B5LevelCvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-level" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuegeometry#sdk-for-ios-explore-s-7heresdk13VenueGeometryC5levelAA0B5LevelCvp" class="token"><code>level</code></a> 
 
   </div>
 
@@ -159,6 +163,10 @@ Represents a geometry inside the <a href="sdk-for-ios-explore-classes-venuelevel
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-venuelevel">VenueLevel</a>
+
   </div>
 
   </div>
@@ -167,7 +175,7 @@ Represents a geometry inside the <a href="sdk-for-ios-explore-classes-venuelevel
 
 - <div>
 
-  ` `<span id="/s:7heresdk13VenueGeometryC12geometryTypeAC0cE0Ovp"></span>` `<span id="//apple_ref/swift/Property/geometryType" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuegeometry#/s:7heresdk13VenueGeometryC12geometryTypeAC0cE0Ovp" class="token"><code>geometryType</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13VenueGeometryC12geometryTypeAC0cE0Ovp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-geometryType" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuegeometry#sdk-for-ios-explore-s-7heresdk13VenueGeometryC12geometryTypeAC0cE0Ovp" class="token"><code>geometryType</code></a> 
 
   </div>
 
@@ -203,6 +211,10 @@ Represents a geometry inside the <a href="sdk-for-ios-explore-classes-venuelevel
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-venuegeometry-geometrytype">GeometryType</a>
+
   </div>
 
   </div>
@@ -211,7 +223,7 @@ Represents a geometry inside the <a href="sdk-for-ios-explore-classes-venuelevel
 
 - <div>
 
-  ` `<span id="/s:7heresdk13VenueGeometryC6centerAA14GeoCoordinatesVvp"></span>` `<span id="//apple_ref/swift/Property/center" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuegeometry#/s:7heresdk13VenueGeometryC6centerAA14GeoCoordinatesVvp" class="token"><code>center</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13VenueGeometryC6centerAA14GeoCoordinatesVvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-center" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuegeometry#sdk-for-ios-explore-s-7heresdk13VenueGeometryC6centerAA14GeoCoordinatesVvp" class="token"><code>center</code></a> 
 
   </div>
 
@@ -247,6 +259,10 @@ Represents a geometry inside the <a href="sdk-for-ios-explore-classes-venuelevel
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geocoordinates">GeoCoordinates</a>
+
   </div>
 
   </div>
@@ -255,7 +271,7 @@ Represents a geometry inside the <a href="sdk-for-ios-explore-classes-venuelevel
 
 - <div>
 
-  ` `<span id="/s:7heresdk13VenueGeometryC11boundingBoxAA03GeoE0Vvp"></span>` `<span id="//apple_ref/swift/Property/boundingBox" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuegeometry#/s:7heresdk13VenueGeometryC11boundingBoxAA03GeoE0Vvp" class="token"><code>boundingBox</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13VenueGeometryC11boundingBoxAA03GeoE0Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-boundingBox" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuegeometry#sdk-for-ios-explore-s-7heresdk13VenueGeometryC11boundingBoxAA03GeoE0Vvp" class="token"><code>boundingBox</code></a> 
 
   </div>
 
@@ -291,6 +307,10 @@ Represents a geometry inside the <a href="sdk-for-ios-explore-classes-venuelevel
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geobox">GeoBox</a>
+
   </div>
 
   </div>
@@ -299,7 +319,7 @@ Represents a geometry inside the <a href="sdk-for-ios-explore-classes-venuelevel
 
 - <div>
 
-  ` `<span id="/s:7heresdk13VenueGeometryC10propertiesSDySSAA8PropertyCGvp"></span>` `<span id="//apple_ref/swift/Property/properties" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuegeometry#/s:7heresdk13VenueGeometryC10propertiesSDySSAA8PropertyCGvp" class="token"><code>properties</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13VenueGeometryC10propertiesSDySSAA8PropertyCGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-properties" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuegeometry#sdk-for-ios-explore-s-7heresdk13VenueGeometryC10propertiesSDySSAA8PropertyCGvp" class="token"><code>properties</code></a> 
 
   </div>
 
@@ -335,6 +355,10 @@ Represents a geometry inside the <a href="sdk-for-ios-explore-classes-venuelevel
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-venuegeometry#sdk-for-ios-explore-s-7heresdk13VenueGeometryC19StringToPropertyMapa">StringToPropertyMap</a>
+
   </div>
 
   </div>
@@ -343,7 +367,7 @@ Represents a geometry inside the <a href="sdk-for-ios-explore-classes-venuelevel
 
 - <div>
 
-  ` `<span id="/s:7heresdk13VenueGeometryC15internalAddressAC08InternalE0CSgvp"></span>` `<span id="//apple_ref/swift/Property/internalAddress" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuegeometry#/s:7heresdk13VenueGeometryC15internalAddressAC08InternalE0CSgvp" class="token"><code>internalAddress</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13VenueGeometryC15internalAddressAC08InternalE0CSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-internalAddress" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuegeometry#sdk-for-ios-explore-s-7heresdk13VenueGeometryC15internalAddressAC08InternalE0CSgvp" class="token"><code>internalAddress</code></a> 
 
   </div>
 
@@ -379,6 +403,10 @@ Represents a geometry inside the <a href="sdk-for-ios-explore-classes-venuelevel
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-venuegeometry-internaladdress">InternalAddress</a>
+
   </div>
 
   </div>
@@ -387,7 +415,7 @@ Represents a geometry inside the <a href="sdk-for-ios-explore-classes-venuelevel
 
 - <div>
 
-  ` `<span id="/s:7heresdk13VenueGeometryC4nameSSvp"></span>` `<span id="//apple_ref/swift/Property/name" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuegeometry#/s:7heresdk13VenueGeometryC4nameSSvp" class="token"><code>name</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13VenueGeometryC4nameSSvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-name" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuegeometry#sdk-for-ios-explore-s-7heresdk13VenueGeometryC4nameSSvp" class="token"><code>name</code></a> 
 
   </div>
 
@@ -431,7 +459,7 @@ Represents a geometry inside the <a href="sdk-for-ios-explore-classes-venuelevel
 
 - <div>
 
-  ` `<span id="/s:7heresdk13VenueGeometryC9labelNameSSvp"></span>` `<span id="//apple_ref/swift/Property/labelName" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuegeometry#/s:7heresdk13VenueGeometryC9labelNameSSvp" class="token"><code>labelName</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13VenueGeometryC9labelNameSSvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-labelName" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuegeometry#sdk-for-ios-explore-s-7heresdk13VenueGeometryC9labelNameSSvp" class="token"><code>labelName</code></a> 
 
   </div>
 
@@ -475,7 +503,7 @@ Represents a geometry inside the <a href="sdk-for-ios-explore-classes-venuelevel
 
 - <div>
 
-  ` `<span id="/s:7heresdk13VenueGeometryC10lookupTypeAC06LookupE0Ovp"></span>` `<span id="//apple_ref/swift/Property/lookupType" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuegeometry#/s:7heresdk13VenueGeometryC10lookupTypeAC06LookupE0Ovp" class="token"><code>lookupType</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13VenueGeometryC10lookupTypeAC06LookupE0Ovp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-lookupType" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuegeometry#sdk-for-ios-explore-s-7heresdk13VenueGeometryC10lookupTypeAC06LookupE0Ovp" class="token"><code>lookupType</code></a> 
 
   </div>
 
@@ -511,6 +539,10 @@ Represents a geometry inside the <a href="sdk-for-ios-explore-classes-venuelevel
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-venuegeometry-lookuptype">LookupType</a>
+
   </div>
 
   </div>
@@ -519,7 +551,7 @@ Represents a geometry inside the <a href="sdk-for-ios-explore-classes-venuelevel
 
 - <div>
 
-  ` `<span id="/s:7heresdk13VenueGeometryC06parentC0ACvp"></span>` `<span id="//apple_ref/swift/Property/parentGeometry" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuegeometry#/s:7heresdk13VenueGeometryC06parentC0ACvp" class="token"><code>parentGeometry</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13VenueGeometryC06parentC0ACvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-parentGeometry" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuegeometry#sdk-for-ios-explore-s-7heresdk13VenueGeometryC06parentC0ACvp" class="token"><code>parentGeometry</code></a> 
 
   </div>
 
@@ -563,7 +595,7 @@ Represents a geometry inside the <a href="sdk-for-ios-explore-classes-venuelevel
 
 - <div>
 
-  ` `<span id="/s:7heresdk13VenueGeometryC5styleAA0bC5StyleCSgvp"></span>` `<span id="//apple_ref/swift/Property/style" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuegeometry#/s:7heresdk13VenueGeometryC5styleAA0bC5StyleCSgvp" class="token"><code>style</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13VenueGeometryC5styleAA0bC5StyleCSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-style" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuegeometry#sdk-for-ios-explore-s-7heresdk13VenueGeometryC5styleAA0bC5StyleCSgvp" class="token"><code>style</code></a> 
 
   </div>
 
@@ -599,6 +631,10 @@ Represents a geometry inside the <a href="sdk-for-ios-explore-classes-venuelevel
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-venuegeometrystyle">VenueGeometryStyle</a>
+
   </div>
 
   </div>
@@ -607,7 +643,7 @@ Represents a geometry inside the <a href="sdk-for-ios-explore-classes-venuelevel
 
 - <div>
 
-  ` `<span id="/s:7heresdk13VenueGeometryC10labelStyleAA0b5LabelE0CSgvp"></span>` `<span id="//apple_ref/swift/Property/labelStyle" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuegeometry#/s:7heresdk13VenueGeometryC10labelStyleAA0b5LabelE0CSgvp" class="token"><code>labelStyle</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13VenueGeometryC10labelStyleAA0b5LabelE0CSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-labelStyle" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuegeometry#sdk-for-ios-explore-s-7heresdk13VenueGeometryC10labelStyleAA0b5LabelE0CSgvp" class="token"><code>labelStyle</code></a> 
 
   </div>
 
@@ -643,6 +679,10 @@ Represents a geometry inside the <a href="sdk-for-ios-explore-classes-venuelevel
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-venuelabelstyle">VenueLabelStyle</a>
+
   </div>
 
   </div>
@@ -651,7 +691,7 @@ Represents a geometry inside the <a href="sdk-for-ios-explore-classes-venuelevel
 
 - <div>
 
-  ` `<span id="/s:7heresdk13VenueGeometryC7levelIDSSvp"></span>` `<span id="//apple_ref/swift/Property/levelID" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuegeometry#/s:7heresdk13VenueGeometryC7levelIDSSvp" class="token"><code>levelID</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13VenueGeometryC7levelIDSSvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-levelID" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuegeometry#sdk-for-ios-explore-s-7heresdk13VenueGeometryC7levelIDSSvp" class="token"><code>levelID</code></a> 
 
   </div>
 
@@ -695,7 +735,7 @@ Represents a geometry inside the <a href="sdk-for-ios-explore-classes-venuelevel
 
 - <div>
 
-  ` `<span id="/s:7heresdk13VenueGeometryC15InternalAddressC"></span>` `<span id="//apple_ref/swift/Class/InternalAddress" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuegeometry#/s:7heresdk13VenueGeometryC15InternalAddressC" class="token"><code>InternalAddress</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13VenueGeometryC15InternalAddressC"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Class-InternalAddress" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuegeometry#sdk-for-ios-explore-s-7heresdk13VenueGeometryC15InternalAddressC" class="token"><code>InternalAddress</code></a> 
 
   </div>
 
@@ -741,6 +781,10 @@ Represents a geometry inside the <a href="sdk-for-ios-explore-classes-venuelevel
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-venuegeometry">VenueGeometry</a>
+
   </div>
 
   </div>
@@ -749,7 +793,7 @@ Represents a geometry inside the <a href="sdk-for-ios-explore-classes-venuelevel
 
 - <div>
 
-  ` `<span id="/s:7heresdk13VenueGeometryC0C4TypeO"></span>` `<span id="//apple_ref/swift/Enum/GeometryType" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuegeometry#/s:7heresdk13VenueGeometryC0C4TypeO" class="token"><code>GeometryType</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13VenueGeometryC0C4TypeO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-GeometryType" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuegeometry#sdk-for-ios-explore-s-7heresdk13VenueGeometryC0C4TypeO" class="token"><code>GeometryType</code></a> 
 
   </div>
 
@@ -795,7 +839,7 @@ Represents a geometry inside the <a href="sdk-for-ios-explore-classes-venuelevel
 
 - <div>
 
-  ` `<span id="/s:7heresdk13VenueGeometryC10LookupTypeO"></span>` `<span id="//apple_ref/swift/Enum/LookupType" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-venuegeometry#/s:7heresdk13VenueGeometryC10LookupTypeO" class="token"><code>LookupType</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk13VenueGeometryC10LookupTypeO"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Enum-LookupType" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-venuegeometry#sdk-for-ios-explore-s-7heresdk13VenueGeometryC10LookupTypeO" class="token"><code>LookupType</code></a> 
 
   </div>
 

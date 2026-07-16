@@ -17,7 +17,7 @@ public protocol RoadSignWarningDelegate : AnyObject
 
 </div>
 
-This protocol should be implemented in order to receive road sign warnings. **Note:** The road sign warner is a point warner, which means that for a road sign there will *always* be 2 warnings emitted, with the \[RoadSignWarning.distance_type\] set to <a href="sdk-for-ios-explore-enums-distancetype#/s:7heresdk12DistanceTypeO5aheadyA2CmF">`DistanceType.ahead`</a> and <a href="sdk-for-ios-explore-enums-distancetype#/s:7heresdk12DistanceTypeO6passedyA2CmF">`DistanceType.passed`</a> which is given when the location of the road sign is reached. A <a href="sdk-for-ios-explore-structs-roadsignwarning">`RoadSignWarning`</a> will not be given until the previous warning of that type has been passed. For example, a route with <a href="sdk-for-ios-explore-structs-roadsignwarning">`RoadSignWarning`</a> 120 meters and <a href="sdk-for-ios-explore-structs-roadsignwarning">`RoadSignWarning`</a> 160 meters ahead, the first \[RoadSignWarning.distance_to_road_sign_in_meters\] is 120 meters and the next \[RoadSignWarning.distance_to_road_sign_in_meters\] is then 40 meters, since that is the distance between the first and second warnings.
+This protocol should be implemented in order to receive road sign warnings. **Note:** The road sign warner is a point warner, which means that for a road sign there will *always* be 2 warnings emitted, with the \[RoadSignWarning.distance_type\] set to <a href="sdk-for-ios-explore-enums-distancetype#sdk-for-ios-explore-s-7heresdk12DistanceTypeO5aheadyA2CmF">`DistanceType.ahead`</a> and <a href="sdk-for-ios-explore-enums-distancetype#sdk-for-ios-explore-s-7heresdk12DistanceTypeO6passedyA2CmF">`DistanceType.passed`</a> which is given when the location of the road sign is reached. A <a href="sdk-for-ios-explore-structs-roadsignwarning">`RoadSignWarning`</a> will not be given until the previous warning of that type has been passed. For example, a route with <a href="sdk-for-ios-explore-structs-roadsignwarning">`RoadSignWarning`</a> 120 meters and <a href="sdk-for-ios-explore-structs-roadsignwarning">`RoadSignWarning`</a> 160 meters ahead, the first \[RoadSignWarning.distance_to_road_sign_in_meters\] is 120 meters and the next \[RoadSignWarning.distance_to_road_sign_in_meters\] is then 40 meters, since that is the distance between the first and second warnings.
 
 </div>
 
@@ -27,7 +27,7 @@ This protocol should be implemented in order to receive road sign warnings. **No
 
 - <div>
 
-      onRoadSignWarningUpdated(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk23RoadSignWarningDelegateP02onbcD7UpdatedyyAA0bcD0VF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-onRoadSignWarningUpdated-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-protocols-roadsignwarningdelegate#sdk-for-ios-explore-s-7heresdk23RoadSignWarningDelegateP02onbcD7UpdatedyyAA0bcD0VF" class="token"><code>onRoadSignWarningUpdated(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -58,12 +58,14 @@ This protocol should be implemented in order to receive road sign warnings. **No
   Swift
 
   ``` highlight
-  func onRoadSignWarningUpdated ( _ roadSignWarning : RoadSignWarning )
+  func onRoadSignWarningUpdated(_ roadSignWarning: RoadSignWarning)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-roadsignwarning">RoadSignWarning</a>
 
   </div>
 

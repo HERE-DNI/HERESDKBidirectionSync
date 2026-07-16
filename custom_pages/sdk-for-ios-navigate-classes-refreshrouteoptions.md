@@ -10,10 +10,9 @@ slug: "sdk-for-ios-navigate-classes-refreshrouteoptions"
 <div class="language">
 
 ``` highlight
-@available(*, deprecated, message: "Will be removed in v4.28.0. Use the `RoutingOptions` class instead.") public class RefreshRouteOptions
+@available(*, deprecated, message: "Will be removed in v4.28.0. Use the `RoutingOptions` class instead.")
+public class RefreshRouteOptions
 ```
-
-</pre>
 
 ``` highlight
 extension RefreshRouteOptions: NativeBase
@@ -27,7 +26,7 @@ extension RefreshRouteOptions: Hashable
 
 </div>
 
-The options to specify how to refresh an already calculated route identified by a <a href="sdk-for-ios-navigate-structs-routehandle">`RouteHandle`</a>. All the options that may result in a new route shape are ignored as no new route is calculated. Instead, only the data that accompanies a route, such as traffic information, can be refreshed. Therefore, the following route options are ignored: <a href="sdk-for-ios-navigate-structs-routeoptions#/s:7heresdk12RouteOptionsV12alternativess5Int32Vvp">`RouteOptions.alternatives`</a>, <a href="sdk-for-ios-navigate-structs-routeoptions#/s:7heresdk12RouteOptionsV11arrivalTime10Foundation4DateVSgvp">`RouteOptions.arrivalTime`</a>, and <a href="sdk-for-ios-navigate-structs-routeoptions#/s:7heresdk12RouteOptionsV16optimizationModeAA012OptimizationE0Ovp">`RouteOptions.optimizationMode`</a>. If new <a href="sdk-for-ios-navigate-structs-avoidanceoptions">`AvoidanceOptions`</a> are specified, they are ignored as well and instead new <a href="sdk-for-ios-navigate-structs-sectionnotice">`SectionNotice`</a>‘s are generated that indicate where the requested <a href="sdk-for-ios-navigate-structs-avoidanceoptions">`AvoidanceOptions`</a> are violated. Note that when <a href="sdk-for-ios-navigate-structs-evcaroptions#/s:7heresdk12EVCarOptionsV18ensureReachabilitySbvp">`EVCarOptions.ensureReachability`</a> is set to true, the route refresh request will fail as this option is incompatible with a fixed route shape. If any of the ignored options are important, consider calculating a new route instead.
+The options to specify how to refresh an already calculated route identified by a <a href="sdk-for-ios-navigate-structs-routehandle">`RouteHandle`</a>. All the options that may result in a new route shape are ignored as no new route is calculated. Instead, only the data that accompanies a route, such as traffic information, can be refreshed. Therefore, the following route options are ignored: <a href="sdk-for-ios-navigate-structs-routeoptions#sdk-for-ios-navigate-s-7heresdk12RouteOptionsV12alternativess5Int32Vvp">`RouteOptions.alternatives`</a>, <a href="sdk-for-ios-navigate-structs-routeoptions#sdk-for-ios-navigate-s-7heresdk12RouteOptionsV11arrivalTime10Foundation4DateVSgvp">`RouteOptions.arrivalTime`</a>, and <a href="sdk-for-ios-navigate-structs-routeoptions#sdk-for-ios-navigate-s-7heresdk12RouteOptionsV16optimizationModeAA012OptimizationE0Ovp">`RouteOptions.optimizationMode`</a>. If new <a href="sdk-for-ios-navigate-structs-avoidanceoptions">`AvoidanceOptions`</a> are specified, they are ignored as well and instead new <a href="sdk-for-ios-navigate-structs-sectionnotice">`SectionNotice`</a>‘s are generated that indicate where the requested <a href="sdk-for-ios-navigate-structs-avoidanceoptions">`AvoidanceOptions`</a> are violated. Note that when <a href="sdk-for-ios-navigate-structs-evcaroptions#sdk-for-ios-navigate-s-7heresdk12EVCarOptionsV18ensureReachabilitySbvp">`EVCarOptions.ensureReachability`</a> is set to true, the route refresh request will fail as this option is incompatible with a fixed route shape. If any of the ignored options are important, consider calculating a new route instead.
 
 **Note:** This is a beta release of this feature, so there could be a few bugs and unexpected behaviors. Related APIs may change for new releases without a deprecation process.
 
@@ -39,7 +38,7 @@ The options to specify how to refresh an already calculated route identified by 
 
 - <div>
 
-      init(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk19RefreshRouteOptionsCyAcA13TransportModeOcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-refreshrouteoptions#sdk-for-ios-navigate-s-7heresdk19RefreshRouteOptionsCyAcA13TransportModeOcfc" class="token"><code>init(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -70,12 +69,14 @@ The options to specify how to refresh an already calculated route identified by 
   Swift
 
   ``` highlight
-  public init ( _ transportMode : TransportMode )
+  public init(_ transportMode: TransportMode)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-transportmode">TransportMode</a>
 
   </div>
 
@@ -106,7 +107,7 @@ The options to specify how to refresh an already calculated route identified by 
 
 - <div>
 
-      init(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk19RefreshRouteOptionsCyAcA03CarD0Vcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-refreshrouteoptions#sdk-for-ios-navigate-s-7heresdk19RefreshRouteOptionsCyAcA03CarD0Vcfc" class="token"><code>init(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -137,12 +138,14 @@ The options to specify how to refresh an already calculated route identified by 
   Swift
 
   ``` highlight
-  public init ( _ carOptions : CarOptions )
+  public init(_ carOptions: CarOptions)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-caroptions">CarOptions</a>
 
   </div>
 
@@ -159,7 +162,7 @@ The options to specify how to refresh an already calculated route identified by 
   <tr>
   <td><code> </code><em><code>carOptions</code></em><code> </code></td>
   <td><div>
-  <p>Converts the route to a car route, if a different transport mode was used for the <a href="sdk-for-ios-navigate-structs-routehandle"><code>RouteHandle</code></a>. Note that in case this is not possible, an <a href="sdk-for-ios-navigate-enums-routingerror#/s:7heresdk12RoutingErrorO12noRouteFoundyA2CmF"><code>RoutingError.noRouteFound</code></a> error will be triggered.</p>
+  <p>Converts the route to a car route, if a different transport mode was used for the <a href="sdk-for-ios-navigate-structs-routehandle"><code>RouteHandle</code></a>. Note that in case this is not possible, an <a href="sdk-for-ios-navigate-enums-routingerror#sdk-for-ios-navigate-s-7heresdk12RoutingErrorO12noRouteFoundyA2CmF"><code>RoutingError.noRouteFound</code></a> error will be triggered.</p>
   </div></td>
   </tr>
   </tbody>
@@ -173,7 +176,7 @@ The options to specify how to refresh an already calculated route identified by 
 
 - <div>
 
-      init(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk19RefreshRouteOptionsCyAcA05TruckD0Vcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-refreshrouteoptions#sdk-for-ios-navigate-s-7heresdk19RefreshRouteOptionsCyAcA05TruckD0Vcfc" class="token"><code>init(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -204,12 +207,14 @@ The options to specify how to refresh an already calculated route identified by 
   Swift
 
   ``` highlight
-  public init ( _ truckOptions : TruckOptions )
+  public init(_ truckOptions: TruckOptions)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-truckoptions">TruckOptions</a>
 
   </div>
 
@@ -226,7 +231,7 @@ The options to specify how to refresh an already calculated route identified by 
   <tr>
   <td><code> </code><em><code>truckOptions</code></em><code> </code></td>
   <td><div>
-  <p>Converts the route to a truck route, if a different transport mode was used for the <a href="sdk-for-ios-navigate-structs-routehandle"><code>RouteHandle</code></a>. Note that in case this is not possible, an <a href="sdk-for-ios-navigate-enums-routingerror#/s:7heresdk12RoutingErrorO12noRouteFoundyA2CmF"><code>RoutingError.noRouteFound</code></a> error will be triggered.</p>
+  <p>Converts the route to a truck route, if a different transport mode was used for the <a href="sdk-for-ios-navigate-structs-routehandle"><code>RouteHandle</code></a>. Note that in case this is not possible, an <a href="sdk-for-ios-navigate-enums-routingerror#sdk-for-ios-navigate-s-7heresdk12RoutingErrorO12noRouteFoundyA2CmF"><code>RoutingError.noRouteFound</code></a> error will be triggered.</p>
   </div></td>
   </tr>
   </tbody>
@@ -240,7 +245,7 @@ The options to specify how to refresh an already calculated route identified by 
 
 - <div>
 
-      init(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk19RefreshRouteOptionsCyAcA010PedestrianD0Vcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-refreshrouteoptions#sdk-for-ios-navigate-s-7heresdk19RefreshRouteOptionsCyAcA010PedestrianD0Vcfc" class="token"><code>init(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -271,12 +276,14 @@ The options to specify how to refresh an already calculated route identified by 
   Swift
 
   ``` highlight
-  public init ( _ pedestrianOptions : PedestrianOptions )
+  public init(_ pedestrianOptions: PedestrianOptions)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-pedestrianoptions">PedestrianOptions</a>
 
   </div>
 
@@ -293,7 +300,7 @@ The options to specify how to refresh an already calculated route identified by 
   <tr>
   <td><code> </code><em><code>pedestrianOptions</code></em><code> </code></td>
   <td><div>
-  <p>Converts the route to a pedestrian route, if a different transport mode was used for the <a href="sdk-for-ios-navigate-structs-routehandle"><code>RouteHandle</code></a>. Note that in case this is not possible, an <a href="sdk-for-ios-navigate-enums-routingerror#/s:7heresdk12RoutingErrorO12noRouteFoundyA2CmF"><code>RoutingError.noRouteFound</code></a> error will be triggered.</p>
+  <p>Converts the route to a pedestrian route, if a different transport mode was used for the <a href="sdk-for-ios-navigate-structs-routehandle"><code>RouteHandle</code></a>. Note that in case this is not possible, an <a href="sdk-for-ios-navigate-enums-routingerror#sdk-for-ios-navigate-s-7heresdk12RoutingErrorO12noRouteFoundyA2CmF"><code>RoutingError.noRouteFound</code></a> error will be triggered.</p>
   </div></td>
   </tr>
   </tbody>
@@ -307,7 +314,7 @@ The options to specify how to refresh an already calculated route identified by 
 
 - <div>
 
-      init(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk19RefreshRouteOptionsCyAcA07ScooterD0Vcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-refreshrouteoptions#sdk-for-ios-navigate-s-7heresdk19RefreshRouteOptionsCyAcA07ScooterD0Vcfc" class="token"><code>init(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -338,12 +345,14 @@ The options to specify how to refresh an already calculated route identified by 
   Swift
 
   ``` highlight
-  public init ( _ scooterOptions : ScooterOptions )
+  public init(_ scooterOptions: ScooterOptions)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-scooteroptions">ScooterOptions</a>
 
   </div>
 
@@ -360,7 +369,7 @@ The options to specify how to refresh an already calculated route identified by 
   <tr>
   <td><code> </code><em><code>scooterOptions</code></em><code> </code></td>
   <td><div>
-  <p>Converts the route to a scooter route, if a different transport mode was used for the <a href="sdk-for-ios-navigate-structs-routehandle"><code>RouteHandle</code></a>. Note that in case this is not possible, an <a href="sdk-for-ios-navigate-enums-routingerror#/s:7heresdk12RoutingErrorO12noRouteFoundyA2CmF"><code>RoutingError.noRouteFound</code></a> error will be triggered.</p>
+  <p>Converts the route to a scooter route, if a different transport mode was used for the <a href="sdk-for-ios-navigate-structs-routehandle"><code>RouteHandle</code></a>. Note that in case this is not possible, an <a href="sdk-for-ios-navigate-enums-routingerror#sdk-for-ios-navigate-s-7heresdk12RoutingErrorO12noRouteFoundyA2CmF"><code>RoutingError.noRouteFound</code></a> error will be triggered.</p>
   </div></td>
   </tr>
   </tbody>
@@ -374,7 +383,7 @@ The options to specify how to refresh an already calculated route identified by 
 
 - <div>
 
-      init(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk19RefreshRouteOptionsCyAcA04TaxiD0Vcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-refreshrouteoptions#sdk-for-ios-navigate-s-7heresdk19RefreshRouteOptionsCyAcA04TaxiD0Vcfc" class="token"><code>init(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -405,12 +414,14 @@ The options to specify how to refresh an already calculated route identified by 
   Swift
 
   ``` highlight
-  public init ( _ taxiOptions : TaxiOptions )
+  public init(_ taxiOptions: TaxiOptions)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-taxioptions">TaxiOptions</a>
 
   </div>
 
@@ -427,7 +438,7 @@ The options to specify how to refresh an already calculated route identified by 
   <tr>
   <td><code> </code><em><code>taxiOptions</code></em><code> </code></td>
   <td><div>
-  <p>Converts the route to a taxi route, if a different transport mode was used for the <a href="sdk-for-ios-navigate-structs-routehandle"><code>RouteHandle</code></a>. Note that in case this is not possible, an <a href="sdk-for-ios-navigate-enums-routingerror#/s:7heresdk12RoutingErrorO12noRouteFoundyA2CmF"><code>RoutingError.noRouteFound</code></a> error will be triggered.</p>
+  <p>Converts the route to a taxi route, if a different transport mode was used for the <a href="sdk-for-ios-navigate-structs-routehandle"><code>RouteHandle</code></a>. Note that in case this is not possible, an <a href="sdk-for-ios-navigate-enums-routingerror#sdk-for-ios-navigate-s-7heresdk12RoutingErrorO12noRouteFoundyA2CmF"><code>RoutingError.noRouteFound</code></a> error will be triggered.</p>
   </div></td>
   </tr>
   </tbody>
@@ -441,7 +452,7 @@ The options to specify how to refresh an already calculated route identified by 
 
 - <div>
 
-      init(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk19RefreshRouteOptionsCyAcA05EVCarD0Vcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-refreshrouteoptions#sdk-for-ios-navigate-s-7heresdk19RefreshRouteOptionsCyAcA05EVCarD0Vcfc" class="token"><code>init(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -472,12 +483,14 @@ The options to specify how to refresh an already calculated route identified by 
   Swift
 
   ``` highlight
-  public init ( _ evCarOptions : EVCarOptions )
+  public init(_ evCarOptions: EVCarOptions)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-evcaroptions">EVCarOptions</a>
 
   </div>
 
@@ -494,7 +507,7 @@ The options to specify how to refresh an already calculated route identified by 
   <tr>
   <td><code> </code><em><code>evCarOptions</code></em><code> </code></td>
   <td><div>
-  <p>Converts the route to an electric car route, if a different transport mode was used for the <a href="sdk-for-ios-navigate-structs-routehandle"><code>RouteHandle</code></a>. Note that in case this is not possible, an <a href="sdk-for-ios-navigate-enums-routingerror#/s:7heresdk12RoutingErrorO12noRouteFoundyA2CmF"><code>RoutingError.noRouteFound</code></a> error will be triggered.</p>
+  <p>Converts the route to an electric car route, if a different transport mode was used for the <a href="sdk-for-ios-navigate-structs-routehandle"><code>RouteHandle</code></a>. Note that in case this is not possible, an <a href="sdk-for-ios-navigate-enums-routingerror#sdk-for-ios-navigate-s-7heresdk12RoutingErrorO12noRouteFoundyA2CmF"><code>RoutingError.noRouteFound</code></a> error will be triggered.</p>
   </div></td>
   </tr>
   </tbody>
@@ -508,7 +521,7 @@ The options to specify how to refresh an already calculated route identified by 
 
 - <div>
 
-      init(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk19RefreshRouteOptionsCyAcA07EVTruckD0Vcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-refreshrouteoptions#sdk-for-ios-navigate-s-7heresdk19RefreshRouteOptionsCyAcA07EVTruckD0Vcfc" class="token"><code>init(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -539,12 +552,14 @@ The options to specify how to refresh an already calculated route identified by 
   Swift
 
   ``` highlight
-  public init ( _ evTruckOptions : EVTruckOptions )
+  public init(_ evTruckOptions: EVTruckOptions)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-evtruckoptions">EVTruckOptions</a>
 
   </div>
 
@@ -561,7 +576,7 @@ The options to specify how to refresh an already calculated route identified by 
   <tr>
   <td><code> </code><em><code>evTruckOptions</code></em><code> </code></td>
   <td><div>
-  <p>Converts the route to an electric truck route, if a different transport mode was used for the <a href="sdk-for-ios-navigate-structs-routehandle"><code>RouteHandle</code></a>. Note that in case this is not possible, an <a href="sdk-for-ios-navigate-enums-routingerror#/s:7heresdk12RoutingErrorO12noRouteFoundyA2CmF"><code>RoutingError.noRouteFound</code></a> error will be triggered.</p>
+  <p>Converts the route to an electric truck route, if a different transport mode was used for the <a href="sdk-for-ios-navigate-structs-routehandle"><code>RouteHandle</code></a>. Note that in case this is not possible, an <a href="sdk-for-ios-navigate-enums-routingerror#sdk-for-ios-navigate-s-7heresdk12RoutingErrorO12noRouteFoundyA2CmF"><code>RoutingError.noRouteFound</code></a> error will be triggered.</p>
   </div></td>
   </tr>
   </tbody>
@@ -575,7 +590,7 @@ The options to specify how to refresh an already calculated route identified by 
 
 - <div>
 
-      init(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk19RefreshRouteOptionsCyAcA07BicycleD0Vcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-refreshrouteoptions#sdk-for-ios-navigate-s-7heresdk19RefreshRouteOptionsCyAcA07BicycleD0Vcfc" class="token"><code>init(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -606,12 +621,14 @@ The options to specify how to refresh an already calculated route identified by 
   Swift
 
   ``` highlight
-  public init ( _ bicycleOptions : BicycleOptions )
+  public init(_ bicycleOptions: BicycleOptions)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-bicycleoptions">BicycleOptions</a>
 
   </div>
 
@@ -628,7 +645,7 @@ The options to specify how to refresh an already calculated route identified by 
   <tr>
   <td><code> </code><em><code>bicycleOptions</code></em><code> </code></td>
   <td><div>
-  <p>Converts the route to a bicycle route, if a different transport mode was used for the <a href="sdk-for-ios-navigate-structs-routehandle"><code>RouteHandle</code></a>. Note that in case this is not possible, an <a href="sdk-for-ios-navigate-enums-routingerror#/s:7heresdk12RoutingErrorO12noRouteFoundyA2CmF"><code>RoutingError.noRouteFound</code></a> error will be triggered.</p>
+  <p>Converts the route to a bicycle route, if a different transport mode was used for the <a href="sdk-for-ios-navigate-structs-routehandle"><code>RouteHandle</code></a>. Note that in case this is not possible, an <a href="sdk-for-ios-navigate-enums-routingerror#sdk-for-ios-navigate-s-7heresdk12RoutingErrorO12noRouteFoundyA2CmF"><code>RoutingError.noRouteFound</code></a> error will be triggered.</p>
   </div></td>
   </tr>
   </tbody>
@@ -642,7 +659,7 @@ The options to specify how to refresh an already calculated route identified by 
 
 - <div>
 
-      init(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk19RefreshRouteOptionsCyAcA03BusD0Vcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-refreshrouteoptions#sdk-for-ios-navigate-s-7heresdk19RefreshRouteOptionsCyAcA03BusD0Vcfc" class="token"><code>init(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -673,12 +690,14 @@ The options to specify how to refresh an already calculated route identified by 
   Swift
 
   ``` highlight
-  public init ( _ busOptions : BusOptions )
+  public init(_ busOptions: BusOptions)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-busoptions">BusOptions</a>
 
   </div>
 
@@ -695,7 +714,7 @@ The options to specify how to refresh an already calculated route identified by 
   <tr>
   <td><code> </code><em><code>busOptions</code></em><code> </code></td>
   <td><div>
-  <p>Converts the route to a bus route, if a different transport mode was used for the <a href="sdk-for-ios-navigate-structs-routehandle"><code>RouteHandle</code></a>. Note that in case this is not possible, an <a href="sdk-for-ios-navigate-enums-routingerror#/s:7heresdk12RoutingErrorO12noRouteFoundyA2CmF"><code>RoutingError.noRouteFound</code></a> error will be triggered.</p>
+  <p>Converts the route to a bus route, if a different transport mode was used for the <a href="sdk-for-ios-navigate-structs-routehandle"><code>RouteHandle</code></a>. Note that in case this is not possible, an <a href="sdk-for-ios-navigate-enums-routingerror#sdk-for-ios-navigate-s-7heresdk12RoutingErrorO12noRouteFoundyA2CmF"><code>RoutingError.noRouteFound</code></a> error will be triggered.</p>
   </div></td>
   </tr>
   </tbody>
@@ -709,7 +728,7 @@ The options to specify how to refresh an already calculated route identified by 
 
 - <div>
 
-      init(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk19RefreshRouteOptionsCyAcA010PrivateBusD0Vcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-refreshrouteoptions#sdk-for-ios-navigate-s-7heresdk19RefreshRouteOptionsCyAcA010PrivateBusD0Vcfc" class="token"><code>init(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -740,12 +759,14 @@ The options to specify how to refresh an already calculated route identified by 
   Swift
 
   ``` highlight
-  public init ( _ privateBusOptions : PrivateBusOptions )
+  public init(_ privateBusOptions: PrivateBusOptions)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-privatebusoptions">PrivateBusOptions</a>
 
   </div>
 
@@ -762,7 +783,7 @@ The options to specify how to refresh an already calculated route identified by 
   <tr>
   <td><code> </code><em><code>privateBusOptions</code></em><code> </code></td>
   <td><div>
-  <p>Converts the route to a private bus route, if a different transport mode was used for the <a href="sdk-for-ios-navigate-structs-routehandle"><code>RouteHandle</code></a>. Note that in case this is not possible, an <a href="sdk-for-ios-navigate-enums-routingerror#/s:7heresdk12RoutingErrorO12noRouteFoundyA2CmF"><code>RoutingError.noRouteFound</code></a> error will be triggered.</p>
+  <p>Converts the route to a private bus route, if a different transport mode was used for the <a href="sdk-for-ios-navigate-structs-routehandle"><code>RouteHandle</code></a>. Note that in case this is not possible, an <a href="sdk-for-ios-navigate-enums-routingerror#sdk-for-ios-navigate-s-7heresdk12RoutingErrorO12noRouteFoundyA2CmF"><code>RoutingError.noRouteFound</code></a> error will be triggered.</p>
   </div></td>
   </tr>
   </tbody>

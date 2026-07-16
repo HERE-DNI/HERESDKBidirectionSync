@@ -27,7 +27,7 @@ Key of a data source tile. Note: This is a beta release of this feature, so ther
 
 - <div>
 
-  ` `<span id="/s:7heresdk7TileKeyV1xs5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/x" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-tilekey#/s:7heresdk7TileKeyV1xs5Int32Vvp" class="token"><code>x</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk7TileKeyV1xs5Int32Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-x" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-tilekey#sdk-for-ios-explore-s-7heresdk7TileKeyV1xs5Int32Vvp" class="token"><code>x</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Key of a data source tile. Note: This is a beta release of this feature, so ther
 
 - <div>
 
-  ` `<span id="/s:7heresdk7TileKeyV1ys5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/y" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-tilekey#/s:7heresdk7TileKeyV1ys5Int32Vvp" class="token"><code>y</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk7TileKeyV1ys5Int32Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-y" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-tilekey#sdk-for-ios-explore-s-7heresdk7TileKeyV1ys5Int32Vvp" class="token"><code>y</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Key of a data source tile. Note: This is a beta release of this feature, so ther
 
 - <div>
 
-  ` `<span id="/s:7heresdk7TileKeyV5levels5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/level" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-tilekey#/s:7heresdk7TileKeyV5levels5Int32Vvp" class="token"><code>level</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk7TileKeyV5levels5Int32Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-level" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-tilekey#sdk-for-ios-explore-s-7heresdk7TileKeyV5levels5Int32Vvp" class="token"><code>level</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Key of a data source tile. Note: This is a beta release of this feature, so ther
 
 - <div>
 
-      init(x: y: level: )
+   <span id="sdk-for-ios-explore-s-7heresdk7TileKeyV1x1y5levelACs5Int32V_A2Htcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-x-y-level" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-tilekey#sdk-for-ios-explore-s-7heresdk7TileKeyV1x1y5levelACs5Int32V_A2Htcfc" class="token"><code>init(x:</code><wbr></wbr><code>y:</code><wbr></wbr><code>level:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -190,10 +190,8 @@ Key of a data source tile. Note: This is a beta release of this feature, so ther
   Swift
 
   ``` highlight
-  public init ( x : Int32 , y : Int32 , level : Int32 )
+  public init(x: Int32, y: Int32, level: Int32)
   ```
-
-  </pre>
 
   </div>
 

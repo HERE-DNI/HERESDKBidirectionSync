@@ -27,20 +27,7 @@ extension CatalogVersionHint: Hashable
 
 This is a class for capturing user’s intent for the desired catalog version to use in <a href="sdk-for-ios-explore-structs-desiredcatalog">`DesiredCatalog`</a> class.
 
-You can request a specific or latest version of a catalog by calling the static functions
-
-    CatalogVersionHint.specific(...)
-
-and
-
-    CatalogVersionHint.latest(...)
-
-respectively. The HERE platform will make the best effort to provide an appropriate version for the catalog based on this version hint. Please take note that for the API
-
-    CatalogVersionHint.specific(...)
-
-to function properly, it is essential that the mutable and persistent storage should be cleaned.
-</p>
+You can request a specific or latest version of a catalog by calling the static functions <a href="sdk-for-ios-explore-classes-catalogversionhint#sdk-for-ios-explore-s-7heresdk18CatalogVersionHintC8specific7versionACs5Int64V_tFZ">`CatalogVersionHint.specific(...)`</a> and <a href="sdk-for-ios-explore-classes-catalogversionhint#sdk-for-ios-explore-s-7heresdk18CatalogVersionHintC6latest16ignoreCachedDataACSb_tFZ">`CatalogVersionHint.latest(...)`</a> respectively. The HERE platform will make the best effort to provide an appropriate version for the catalog based on this version hint. Please take note that for the API <a href="sdk-for-ios-explore-classes-catalogversionhint#sdk-for-ios-explore-s-7heresdk18CatalogVersionHintC8specific7versionACs5Int64V_tFZ">`CatalogVersionHint.specific(...)`</a> to function properly, it is essential that the mutable and persistent storage should be cleaned.
 
 </div>
 
@@ -50,7 +37,7 @@ to function properly, it is essential that the mutable and persistent storage sh
 
 - <div>
 
-      specific(version: )
+   <span id="sdk-for-ios-explore-s-7heresdk18CatalogVersionHintC8specific7versionACs5Int64V_tFZ"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-specific-version" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-catalogversionhint#sdk-for-ios-explore-s-7heresdk18CatalogVersionHintC8specific7versionACs5Int64V_tFZ" class="token"><code>specific(version:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -81,10 +68,8 @@ to function properly, it is essential that the mutable and persistent storage sh
   Swift
 
   ``` highlight
-  public static func specific ( version : Int64 ) -> CatalogVersionHint
+  public static func specific(version: Int64) -> CatalogVersionHint
   ```
-
-  </pre>
 
   </div>
 
@@ -125,7 +110,7 @@ to function properly, it is essential that the mutable and persistent storage sh
 
 - <div>
 
-      latest(ignoreCachedData: )
+   <span id="sdk-for-ios-explore-s-7heresdk18CatalogVersionHintC6latest16ignoreCachedDataACSb_tFZ"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-latest-ignoreCachedData" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-catalogversionhint#sdk-for-ios-explore-s-7heresdk18CatalogVersionHintC6latest16ignoreCachedDataACSb_tFZ" class="token"><code>latest(ignoreCachedData:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -158,10 +143,8 @@ to function properly, it is essential that the mutable and persistent storage sh
   Swift
 
   ``` highlight
-  public static func latest ( ignoreCachedData : Bool ) -> CatalogVersionHint
+  public static func latest(ignoreCachedData: Bool) -> CatalogVersionHint
   ```
-
-  </pre>
 
   </div>
 

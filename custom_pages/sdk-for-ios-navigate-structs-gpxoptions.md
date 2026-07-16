@@ -27,7 +27,7 @@ Options used when reading the GPX file.
 
 - <div>
 
-  ` `<span id="/s:7heresdk10GPXOptionsV22speedInMetersPerSecondSdvp"></span>` `<span id="//apple_ref/swift/Property/speedInMetersPerSecond" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-gpxoptions#/s:7heresdk10GPXOptionsV22speedInMetersPerSecondSdvp" class="token"><code>speedInMetersPerSecond</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk10GPXOptionsV22speedInMetersPerSecondSdvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-speedInMetersPerSecond" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-gpxoptions#sdk-for-ios-navigate-s-7heresdk10GPXOptionsV22speedInMetersPerSecondSdvp" class="token"><code>speedInMetersPerSecond</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Options used when reading the GPX file.
 
 - <div>
 
-      init(speedInMetersPerSecond: )
+   <span id="sdk-for-ios-navigate-s-7heresdk10GPXOptionsV22speedInMetersPerSecondACSd_tcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-speedInMetersPerSecond" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-gpxoptions#sdk-for-ios-navigate-s-7heresdk10GPXOptionsV22speedInMetersPerSecondACSd_tcfc" class="token"><code>init(speedInMetersPerSecond:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -102,10 +102,8 @@ Options used when reading the GPX file.
   Swift
 
   ``` highlight
-  public init ( speedInMetersPerSecond : Double = 10.0 )
+  public init(speedInMetersPerSecond: Double = 10.0)
   ```
-
-  </pre>
 
   </div>
 

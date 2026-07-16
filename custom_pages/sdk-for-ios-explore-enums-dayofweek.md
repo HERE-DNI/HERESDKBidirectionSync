@@ -27,7 +27,7 @@ Represents the day of the week. **Note:** This is a beta release of this feature
 
 - <div>
 
-  ` `<span id="/s:7heresdk9DayOfWeekO6mondayyA2CmF"></span>` `<span id="//apple_ref/swift/Element/monday" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-dayofweek#/s:7heresdk9DayOfWeekO6mondayyA2CmF" class="token"><code>monday</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9DayOfWeekO6mondayyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-monday" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-dayofweek#sdk-for-ios-explore-s-7heresdk9DayOfWeekO6mondayyA2CmF" class="token"><code>monday</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Represents the day of the week. **Note:** This is a beta release of this feature
 
 - <div>
 
-  ` `<span id="/s:7heresdk9DayOfWeekO7tuesdayyA2CmF"></span>` `<span id="//apple_ref/swift/Element/tuesday" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-dayofweek#/s:7heresdk9DayOfWeekO7tuesdayyA2CmF" class="token"><code>tuesday</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9DayOfWeekO7tuesdayyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-tuesday" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-dayofweek#sdk-for-ios-explore-s-7heresdk9DayOfWeekO7tuesdayyA2CmF" class="token"><code>tuesday</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Represents the day of the week. **Note:** This is a beta release of this feature
 
 - <div>
 
-  ` `<span id="/s:7heresdk9DayOfWeekO9wednesdayyA2CmF"></span>` `<span id="//apple_ref/swift/Element/wednesday" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-dayofweek#/s:7heresdk9DayOfWeekO9wednesdayyA2CmF" class="token"><code>wednesday</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9DayOfWeekO9wednesdayyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-wednesday" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-dayofweek#sdk-for-ios-explore-s-7heresdk9DayOfWeekO9wednesdayyA2CmF" class="token"><code>wednesday</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Represents the day of the week. **Note:** This is a beta release of this feature
 
 - <div>
 
-  ` `<span id="/s:7heresdk9DayOfWeekO8thursdayyA2CmF"></span>` `<span id="//apple_ref/swift/Element/thursday" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-dayofweek#/s:7heresdk9DayOfWeekO8thursdayyA2CmF" class="token"><code>thursday</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9DayOfWeekO8thursdayyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-thursday" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-dayofweek#sdk-for-ios-explore-s-7heresdk9DayOfWeekO8thursdayyA2CmF" class="token"><code>thursday</code></a> 
 
   </div>
 
@@ -203,7 +203,7 @@ Represents the day of the week. **Note:** This is a beta release of this feature
 
 - <div>
 
-  ` `<span id="/s:7heresdk9DayOfWeekO6fridayyA2CmF"></span>` `<span id="//apple_ref/swift/Element/friday" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-dayofweek#/s:7heresdk9DayOfWeekO6fridayyA2CmF" class="token"><code>friday</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9DayOfWeekO6fridayyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-friday" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-dayofweek#sdk-for-ios-explore-s-7heresdk9DayOfWeekO6fridayyA2CmF" class="token"><code>friday</code></a> 
 
   </div>
 
@@ -247,7 +247,7 @@ Represents the day of the week. **Note:** This is a beta release of this feature
 
 - <div>
 
-  ` `<span id="/s:7heresdk9DayOfWeekO8saturdayyA2CmF"></span>` `<span id="//apple_ref/swift/Element/saturday" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-dayofweek#/s:7heresdk9DayOfWeekO8saturdayyA2CmF" class="token"><code>saturday</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9DayOfWeekO8saturdayyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-saturday" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-dayofweek#sdk-for-ios-explore-s-7heresdk9DayOfWeekO8saturdayyA2CmF" class="token"><code>saturday</code></a> 
 
   </div>
 
@@ -291,7 +291,7 @@ Represents the day of the week. **Note:** This is a beta release of this feature
 
 - <div>
 
-  ` `<span id="/s:7heresdk9DayOfWeekO6sundayyA2CmF"></span>` `<span id="//apple_ref/swift/Element/sunday" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-dayofweek#/s:7heresdk9DayOfWeekO6sundayyA2CmF" class="token"><code>sunday</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9DayOfWeekO6sundayyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-sunday" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-dayofweek#sdk-for-ios-explore-s-7heresdk9DayOfWeekO6sundayyA2CmF" class="token"><code>sunday</code></a> 
 
   </div>
 

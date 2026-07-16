@@ -29,7 +29,7 @@ Describes the posted speed limit on the segment span.
 
 - <div>
 
-  ` `<span id="/s:7heresdk17SegmentSpeedLimitV05speedD17InMeterPerSecondsSdSgvp"></span>` `<span id="//apple_ref/swift/Property/speedLimitInMeterPerSeconds" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-segmentspeedlimit#/s:7heresdk17SegmentSpeedLimitV05speedD17InMeterPerSecondsSdSgvp" class="token"><code>speedLimitInMeterPerSeconds</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17SegmentSpeedLimitV05speedD17InMeterPerSecondsSdSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-speedLimitInMeterPerSeconds" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-segmentspeedlimit#sdk-for-ios-explore-s-7heresdk17SegmentSpeedLimitV05speedD17InMeterPerSecondsSdSgvp" class="token"><code>speedLimitInMeterPerSeconds</code></a> 
 
   </div>
 
@@ -73,7 +73,7 @@ Describes the posted speed limit on the segment span.
 
 - <div>
 
-  ` `<span id="/s:7heresdk17SegmentSpeedLimitV05speedD11IsUnlimitedSbvp"></span>` `<span id="//apple_ref/swift/Property/speedLimitIsUnlimited" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-segmentspeedlimit#/s:7heresdk17SegmentSpeedLimitV05speedD11IsUnlimitedSbvp" class="token"><code>speedLimitIsUnlimited</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk17SegmentSpeedLimitV05speedD11IsUnlimitedSbvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-speedLimitIsUnlimited" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-segmentspeedlimit#sdk-for-ios-explore-s-7heresdk17SegmentSpeedLimitV05speedD11IsUnlimitedSbvp" class="token"><code>speedLimitIsUnlimited</code></a> 
 
   </div>
 
@@ -117,7 +117,7 @@ Describes the posted speed limit on the segment span.
 
 - <div>
 
-      init(speedLimitInMeterPerSeconds: speedLimitIsUnlimited: )
+   <span id="sdk-for-ios-explore-s-7heresdk17SegmentSpeedLimitV05speedD17InMeterPerSeconds0eD11IsUnlimitedACSdSg_Sbtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-speedLimitInMeterPerSeconds-speedLimitIsUnlimited" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-segmentspeedlimit#sdk-for-ios-explore-s-7heresdk17SegmentSpeedLimitV05speedD17InMeterPerSeconds0eD11IsUnlimitedACSdSg_Sbtcfc" class="token"><code>init(speedLimitInMeterPerSeconds:</code><wbr></wbr><code>speedLimitIsUnlimited:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -148,10 +148,8 @@ Describes the posted speed limit on the segment span.
   Swift
 
   ``` highlight
-  public init ( speedLimitInMeterPerSeconds : Double ? = nil , speedLimitIsUnlimited : Bool )
+  public init(speedLimitInMeterPerSeconds: Double? = nil, speedLimitIsUnlimited: Bool)
   ```
-
-  </pre>
 
   </div>
 

@@ -23,6 +23,10 @@ extension Navigator: Hashable
 
 </div>
 
+Related types:
+
+- <a href="sdk-for-ios-navigate-protocols-navigatorprotocol">NavigatorProtocol</a>
+
 </div>
 
 This class provides the basic navigation functionality. It provides notifications about current map-matched location updates (see <a href="sdk-for-ios-navigate-structs-navigablelocation">`NavigableLocation`</a>). And, if a route has been set, about the route progress (see <a href="sdk-for-ios-navigate-structs-routeprogress">`RouteProgress`</a>), route deviations (see <a href="sdk-for-ios-navigate-structs-routedeviation">`RouteDeviation`</a>) and maneuver notifications (see <a href="sdk-for-ios-navigate-protocols-eventtextdelegate">`EventTextDelegate`</a>).
@@ -45,7 +49,7 @@ This class continuously reacts to new locations provided from a location source 
 
 - <div>
 
-      init()
+   <span id="sdk-for-ios-navigate-s-7heresdk9NavigatorCACyKcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-navigator#sdk-for-ios-navigate-s-7heresdk9NavigatorCACyKcfc" class="token"><code>init()</code></a> 
 
   </div>
 
@@ -69,7 +73,7 @@ This class continuously reacts to new locations provided from a location source 
 
   Throws
 
-  <a href="sdk-for-ios-navigate-core#/s:7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
+  <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
 
   </div>
 
@@ -84,10 +88,8 @@ This class continuously reacts to new locations provided from a location source 
   Swift
 
   ``` highlight
-  public init () throws
+  public init() throws
   ```
-
-  </pre>
 
   </div>
 
@@ -99,7 +101,7 @@ This class continuously reacts to new locations provided from a location source 
 
 - <div>
 
-      init(sdkEngine: )
+   <span id="sdk-for-ios-navigate-s-7heresdk9NavigatorC9sdkEngineAcA09SDKNativeD0C_tKcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-sdkEngine" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-navigator#sdk-for-ios-navigate-s-7heresdk9NavigatorC9sdkEngineAcA09SDKNativeD0C_tKcfc" class="token"><code>init(sdkEngine:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -123,7 +125,7 @@ This class continuously reacts to new locations provided from a location source 
 
   Throws
 
-  <a href="sdk-for-ios-navigate-core#/s:7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
+  <a href="sdk-for-ios-navigate-core#sdk-for-ios-navigate-s-7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
 
   </div>
 
@@ -138,12 +140,14 @@ This class continuously reacts to new locations provided from a location source 
   Swift
 
   ``` highlight
-  public init ( sdkEngine : SDKNativeEngine ) throws
+  public init(sdkEngine: SDKNativeEngine) throws
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-sdknativeengine">SDKNativeEngine</a>
 
   </div>
 
@@ -174,7 +178,7 @@ This class continuously reacts to new locations provided from a location source 
 
 - <div>
 
-  ` `<span id="/s:7heresdk9NavigatorC5routeAA5RouteCSgvp"></span>` `<span id="//apple_ref/swift/Property/route" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-navigator#/s:7heresdk9NavigatorC5routeAA5RouteCSgvp" class="token"><code>route</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9NavigatorC5routeAA5RouteCSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-route" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-navigator#sdk-for-ios-navigate-s-7heresdk9NavigatorC5routeAA5RouteCSgvp" class="token"><code>route</code></a> 
 
   </div>
 
@@ -210,6 +214,10 @@ This class continuously reacts to new locations provided from a location source 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-route">Route</a>
+
   </div>
 
   </div>
@@ -218,7 +226,7 @@ This class continuously reacts to new locations provided from a location source 
 
 - <div>
 
-  ` `<span id="/s:7heresdk9NavigatorC24trackingTransportProfileAA0dE0VSgvp"></span>` `<span id="//apple_ref/swift/Property/trackingTransportProfile" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-navigator#/s:7heresdk9NavigatorC24trackingTransportProfileAA0dE0VSgvp" class="token"><code>trackingTransportProfile</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9NavigatorC24trackingTransportProfileAA0dE0VSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-trackingTransportProfile" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-navigator#sdk-for-ios-navigate-s-7heresdk9NavigatorC24trackingTransportProfileAA0dE0VSgvp" class="token"><code>trackingTransportProfile</code></a> 
 
   </div>
 
@@ -236,7 +244,7 @@ This class continuously reacts to new locations provided from a location source 
 
   <div class="abstract">
 
-  Properly setting the transport profile optimizes the navigation experience, and improves resource consumption. For example, a <a href="sdk-for-ios-navigate-structs-transportprofile">`TransportProfile`</a> can be defined with a <a href="sdk-for-ios-navigate-structs-vehicleprofile">`VehicleProfile`</a>. A vehicle profile can have several parameters such as <a href="sdk-for-ios-navigate-enums-vehicletype">`VehicleType`</a> to set the source of information describing the vehicle. The default is a <a href="sdk-for-ios-navigate-enums-vehicletype#/s:7heresdk11VehicleTypeO3caryA2CmF">`VehicleType.car`</a> profile.
+  Properly setting the transport profile optimizes the navigation experience, and improves resource consumption. For example, a <a href="sdk-for-ios-navigate-structs-transportprofile">`TransportProfile`</a> can be defined with a <a href="sdk-for-ios-navigate-structs-vehicleprofile">`VehicleProfile`</a>. A vehicle profile can have several parameters such as <a href="sdk-for-ios-navigate-enums-vehicletype">`VehicleType`</a> to set the source of information describing the vehicle. The default is a <a href="sdk-for-ios-navigate-enums-vehicletype#sdk-for-ios-navigate-s-7heresdk11VehicleTypeO3caryA2CmF">`VehicleType.car`</a> profile.
 
   Currently used members of <a href="sdk-for-ios-navigate-structs-transportprofile">`TransportProfile`</a>
 
@@ -258,12 +266,15 @@ This class continuously reacts to new locations provided from a location source 
   Swift
 
   ``` highlight
-  @available(*, deprecated, message: "Will be removed in v4.28.0. Use `NavigatorInterface.trackingTransportSpecification` instead.") public var trackingTransportProfile : TransportProfile ? { get set }
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use `NavigatorInterface.trackingTransportSpecification` instead.")
+  public var trackingTransportProfile: TransportProfile? { get set }
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-transportprofile">TransportProfile</a>
 
   </div>
 
@@ -273,7 +284,7 @@ This class continuously reacts to new locations provided from a location source 
 
 - <div>
 
-  ` `<span id="/s:7heresdk9NavigatorC30trackingTransportSpecificationAA0dE0VSgvp"></span>` `<span id="//apple_ref/swift/Property/trackingTransportSpecification" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-navigator#/s:7heresdk9NavigatorC30trackingTransportSpecificationAA0dE0VSgvp" class="token"><code>trackingTransportSpecification</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9NavigatorC30trackingTransportSpecificationAA0dE0VSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-trackingTransportSpecification" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-navigator#sdk-for-ios-navigate-s-7heresdk9NavigatorC30trackingTransportSpecificationAA0dE0VSgvp" class="token"><code>trackingTransportSpecification</code></a> 
 
   </div>
 
@@ -291,16 +302,16 @@ This class continuously reacts to new locations provided from a location source 
 
   <div class="abstract">
 
-  Defines the transport specification for the `Navigator`, when no route is present. Properly setting the transport specification optimizes the navigation experience, and improves resource consumption. An <a href="sdk-for-ios-navigate-structs-transportspecification">`TransportSpecification`</a> must have the <a href="sdk-for-ios-navigate-structs-transportspecification#/s:7heresdk22TransportSpecificationV13transportModeAA0bE0Ovp">`TransportSpecification.transportMode`</a> set. A transport specification can have several parameters defined such as <a href="sdk-for-ios-navigate-structs-vehiclespecification#/s:7heresdk20VehicleSpecificationV19lengthInCentimeterss5Int32VSgvp">`VehicleSpecification.lengthInCentimeters`</a> defined in <a href="sdk-for-ios-navigate-structs-transportspecification#/s:7heresdk22TransportSpecificationV07vehicleC0AA07VehicleC0VSgvp">`TransportSpecification.vehicleSpecification`</a> to set the source of information describing the vehicle. By default the <a href="sdk-for-ios-navigate-structs-transportspecification">`TransportSpecification`</a> will have the transport mode set to <a href="sdk-for-ios-navigate-enums-transportmode#/s:7heresdk13TransportModeO3caryA2CmF">`TransportMode.car`</a>.
+  Defines the transport specification for the `Navigator`, when no route is present. Properly setting the transport specification optimizes the navigation experience, and improves resource consumption. An <a href="sdk-for-ios-navigate-structs-transportspecification">`TransportSpecification`</a> must have the <a href="sdk-for-ios-navigate-structs-transportspecification#sdk-for-ios-navigate-s-7heresdk22TransportSpecificationV13transportModeAA0bE0Ovp">`TransportSpecification.transportMode`</a> set. A transport specification can have several parameters defined such as <a href="sdk-for-ios-navigate-structs-vehiclespecification#sdk-for-ios-navigate-s-7heresdk20VehicleSpecificationV19lengthInCentimeterss5Int32VSgvp">`VehicleSpecification.lengthInCentimeters`</a> defined in <a href="sdk-for-ios-navigate-structs-transportspecification#sdk-for-ios-navigate-s-7heresdk22TransportSpecificationV07vehicleC0AA07VehicleC0VSgvp">`TransportSpecification.vehicleSpecification`</a> to set the source of information describing the vehicle. By default the <a href="sdk-for-ios-navigate-structs-transportspecification">`TransportSpecification`</a> will have the transport mode set to <a href="sdk-for-ios-navigate-enums-transportmode#sdk-for-ios-navigate-s-7heresdk13TransportModeO3caryA2CmF">`TransportMode.car`</a>.
 
   Currently used members of <a href="sdk-for-ios-navigate-structs-transportspecification">`TransportSpecification`</a>
 
-  - <a href="sdk-for-ios-navigate-structs-transportspecification#/s:7heresdk22TransportSpecificationV13transportModeAA0bE0Ovp">`TransportSpecification.transportMode`</a>: Sets the transport mode.
-  - From <a href="sdk-for-ios-navigate-structs-transportspecification#/s:7heresdk22TransportSpecificationV07vehicleC0AA07VehicleC0VSgvp">`TransportSpecification.vehicleSpecification`</a>:
-    - <a href="sdk-for-ios-navigate-structs-vehiclespecification#/s:7heresdk20VehicleSpecificationV22grossWeightInKilogramss5Int32VSgvp">`VehicleSpecification.grossWeightInKilograms`</a>: Required for truck related speed information.
-    - <a href="sdk-for-ios-navigate-structs-vehiclespecification#/s:7heresdk20VehicleSpecificationV19heightInCentimeterss5Int32VSgvp">`VehicleSpecification.heightInCentimeters`</a>: Required for truck related speed information.
-    - <a href="sdk-for-ios-navigate-structs-vehiclespecification#/s:7heresdk20VehicleSpecificationV18widthInCentimeterss5Int32VSgvp">`VehicleSpecification.widthInCentimeters`</a>: Additional truck definition for more specific truck speed information.
-    - <a href="sdk-for-ios-navigate-structs-vehiclespecification#/s:7heresdk20VehicleSpecificationV19lengthInCentimeterss5Int32VSgvp">`VehicleSpecification.lengthInCentimeters`</a>: Additional truck definition for more specific truck speed information.
+  - <a href="sdk-for-ios-navigate-structs-transportspecification#sdk-for-ios-navigate-s-7heresdk22TransportSpecificationV13transportModeAA0bE0Ovp">`TransportSpecification.transportMode`</a>: Sets the transport mode.
+  - From <a href="sdk-for-ios-navigate-structs-transportspecification#sdk-for-ios-navigate-s-7heresdk22TransportSpecificationV07vehicleC0AA07VehicleC0VSgvp">`TransportSpecification.vehicleSpecification`</a>:
+    - <a href="sdk-for-ios-navigate-structs-vehiclespecification#sdk-for-ios-navigate-s-7heresdk20VehicleSpecificationV22grossWeightInKilogramss5Int32VSgvp">`VehicleSpecification.grossWeightInKilograms`</a>: Required for truck related speed information.
+    - <a href="sdk-for-ios-navigate-structs-vehiclespecification#sdk-for-ios-navigate-s-7heresdk20VehicleSpecificationV19heightInCentimeterss5Int32VSgvp">`VehicleSpecification.heightInCentimeters`</a>: Required for truck related speed information.
+    - <a href="sdk-for-ios-navigate-structs-vehiclespecification#sdk-for-ios-navigate-s-7heresdk20VehicleSpecificationV18widthInCentimeterss5Int32VSgvp">`VehicleSpecification.widthInCentimeters`</a>: Additional truck definition for more specific truck speed information.
+    - <a href="sdk-for-ios-navigate-structs-vehiclespecification#sdk-for-ios-navigate-s-7heresdk20VehicleSpecificationV19lengthInCentimeterss5Int32VSgvp">`VehicleSpecification.lengthInCentimeters`</a>: Additional truck definition for more specific truck speed information.
 
   </div>
 
@@ -318,6 +329,10 @@ This class continuously reacts to new locations provided from a location source 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-transportspecification">TransportSpecification</a>
+
   </div>
 
   </div>
@@ -326,7 +341,7 @@ This class continuously reacts to new locations provided from a location source 
 
 - <div>
 
-  ` `<span id="/s:7heresdk9NavigatorC25navigableLocationDelegateAA09NavigabledE0_pSgvp"></span>` `<span id="//apple_ref/swift/Property/navigableLocationDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-navigator#/s:7heresdk9NavigatorC25navigableLocationDelegateAA09NavigabledE0_pSgvp" class="token"><code>navigableLocationDelegate</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9NavigatorC25navigableLocationDelegateAA09NavigabledE0_pSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-navigableLocationDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-navigator#sdk-for-ios-navigate-s-7heresdk9NavigatorC25navigableLocationDelegateAA09NavigabledE0_pSgvp" class="token"><code>navigableLocationDelegate</code></a> 
 
   </div>
 
@@ -362,6 +377,10 @@ This class continuously reacts to new locations provided from a location source 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-protocols-navigablelocationdelegate">NavigableLocationDelegate</a>
+
   </div>
 
   </div>
@@ -370,7 +389,7 @@ This class continuously reacts to new locations provided from a location source 
 
 - <div>
 
-  ` `<span id="/s:7heresdk9NavigatorC21routeProgressDelegateAA05RoutedE0_pSgvp"></span>` `<span id="//apple_ref/swift/Property/routeProgressDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-navigator#/s:7heresdk9NavigatorC21routeProgressDelegateAA05RoutedE0_pSgvp" class="token"><code>routeProgressDelegate</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9NavigatorC21routeProgressDelegateAA05RoutedE0_pSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-routeProgressDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-navigator#sdk-for-ios-navigate-s-7heresdk9NavigatorC21routeProgressDelegateAA05RoutedE0_pSgvp" class="token"><code>routeProgressDelegate</code></a> 
 
   </div>
 
@@ -406,6 +425,10 @@ This class continuously reacts to new locations provided from a location source 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-protocols-routeprogressdelegate">RouteProgressDelegate</a>
+
   </div>
 
   </div>
@@ -414,7 +437,7 @@ This class continuously reacts to new locations provided from a location source 
 
 - <div>
 
-  ` `<span id="/s:7heresdk9NavigatorC22routeDeviationDelegateAA05RoutedE0_pSgvp"></span>` `<span id="//apple_ref/swift/Property/routeDeviationDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-navigator#/s:7heresdk9NavigatorC22routeDeviationDelegateAA05RoutedE0_pSgvp" class="token"><code>routeDeviationDelegate</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9NavigatorC22routeDeviationDelegateAA05RoutedE0_pSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-routeDeviationDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-navigator#sdk-for-ios-navigate-s-7heresdk9NavigatorC22routeDeviationDelegateAA05RoutedE0_pSgvp" class="token"><code>routeDeviationDelegate</code></a> 
 
   </div>
 
@@ -450,6 +473,10 @@ This class continuously reacts to new locations provided from a location source 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-protocols-routedeviationdelegate">RouteDeviationDelegate</a>
+
   </div>
 
   </div>
@@ -458,7 +485,7 @@ This class continuously reacts to new locations provided from a location source 
 
 - <div>
 
-  ` `<span id="/s:7heresdk9NavigatorC17eventTextDelegateAA05EventdE0_pSgvp"></span>` `<span id="//apple_ref/swift/Property/eventTextDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-navigator#/s:7heresdk9NavigatorC17eventTextDelegateAA05EventdE0_pSgvp" class="token"><code>eventTextDelegate</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9NavigatorC17eventTextDelegateAA05EventdE0_pSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-eventTextDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-navigator#sdk-for-ios-navigate-s-7heresdk9NavigatorC17eventTextDelegateAA05EventdE0_pSgvp" class="token"><code>eventTextDelegate</code></a> 
 
   </div>
 
@@ -494,6 +521,10 @@ This class continuously reacts to new locations provided from a location source 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-protocols-eventtextdelegate">EventTextDelegate</a>
+
   </div>
 
   </div>
@@ -502,7 +533,7 @@ This class continuously reacts to new locations provided from a location source 
 
 - <div>
 
-  ` `<span id="/s:7heresdk9NavigatorC23milestoneStatusDelegateAA09MilestonedE0_pSgvp"></span>` `<span id="//apple_ref/swift/Property/milestoneStatusDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-navigator#/s:7heresdk9NavigatorC23milestoneStatusDelegateAA09MilestonedE0_pSgvp" class="token"><code>milestoneStatusDelegate</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9NavigatorC23milestoneStatusDelegateAA09MilestonedE0_pSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-milestoneStatusDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-navigator#sdk-for-ios-navigate-s-7heresdk9NavigatorC23milestoneStatusDelegateAA09MilestonedE0_pSgvp" class="token"><code>milestoneStatusDelegate</code></a> 
 
   </div>
 
@@ -520,7 +551,7 @@ This class continuously reacts to new locations provided from a location source 
 
   <div class="abstract">
 
-  Object to receive notifications about the arrival at each <a href="sdk-for-ios-navigate-structs-milestone">`Milestone`</a> or missing it. It informs on all waypoints (passed or missed) that are of type <a href="sdk-for-ios-navigate-enums-milestonetype#/s:7heresdk13MilestoneTypeO8stopoveryA2CmF">`MilestoneType.stopover`</a> but excludes the starting waypoint. Waypoints of type <a href="sdk-for-ios-navigate-enums-milestonetype#/s:7heresdk13MilestoneTypeO11passthroughyA2CmF">`MilestoneType.passthrough`</a> are excluded, by default, but can be included via <a href="sdk-for-ios-navigate-classes-navigator#/s:7heresdk9NavigatorC37isPassthroughWaypointsHandlingEnabledSbvp">`isPassthroughWaypointsHandlingEnabled`</a>. Milestone status notifications only occurs if a route has been set. Setting `nil` value to the delegate will unset the delegate. It returns `nil` when no delegate is set by an user.
+  Object to receive notifications about the arrival at each <a href="sdk-for-ios-navigate-structs-milestone">`Milestone`</a> or missing it. It informs on all waypoints (passed or missed) that are of type <a href="sdk-for-ios-navigate-enums-milestonetype#sdk-for-ios-navigate-s-7heresdk13MilestoneTypeO8stopoveryA2CmF">`MilestoneType.stopover`</a> but excludes the starting waypoint. Waypoints of type <a href="sdk-for-ios-navigate-enums-milestonetype#sdk-for-ios-navigate-s-7heresdk13MilestoneTypeO11passthroughyA2CmF">`MilestoneType.passthrough`</a> are excluded, by default, but can be included via <a href="sdk-for-ios-navigate-classes-navigator#sdk-for-ios-navigate-s-7heresdk9NavigatorC37isPassthroughWaypointsHandlingEnabledSbvp">`isPassthroughWaypointsHandlingEnabled`</a>. Milestone status notifications only occurs if a route has been set. Setting `nil` value to the delegate will unset the delegate. It returns `nil` when no delegate is set by an user.
 
   </div>
 
@@ -538,6 +569,10 @@ This class continuously reacts to new locations provided from a location source 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-protocols-milestonestatusdelegate">MilestoneStatusDelegate</a>
+
   </div>
 
   </div>
@@ -546,7 +581,7 @@ This class continuously reacts to new locations provided from a location source 
 
 - <div>
 
-  ` `<span id="/s:7heresdk9NavigatorC26destinationReachedDelegateAA011DestinationdE0_pSgvp"></span>` `<span id="//apple_ref/swift/Property/destinationReachedDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-navigator#/s:7heresdk9NavigatorC26destinationReachedDelegateAA011DestinationdE0_pSgvp" class="token"><code>destinationReachedDelegate</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9NavigatorC26destinationReachedDelegateAA011DestinationdE0_pSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-destinationReachedDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-navigator#sdk-for-ios-navigate-s-7heresdk9NavigatorC26destinationReachedDelegateAA011DestinationdE0_pSgvp" class="token"><code>destinationReachedDelegate</code></a> 
 
   </div>
 
@@ -582,6 +617,10 @@ This class continuously reacts to new locations provided from a location source 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-protocols-destinationreacheddelegate">DestinationReachedDelegate</a>
+
   </div>
 
   </div>
@@ -590,7 +629,7 @@ This class continuously reacts to new locations provided from a location source 
 
 - <div>
 
-  ` `<span id="/s:7heresdk9NavigatorC20speedWarningDelegateAA05SpeeddE0_pSgvp"></span>` `<span id="//apple_ref/swift/Property/speedWarningDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-navigator#/s:7heresdk9NavigatorC20speedWarningDelegateAA05SpeeddE0_pSgvp" class="token"><code>speedWarningDelegate</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9NavigatorC20speedWarningDelegateAA05SpeeddE0_pSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-speedWarningDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-navigator#sdk-for-ios-navigate-s-7heresdk9NavigatorC20speedWarningDelegateAA05SpeeddE0_pSgvp" class="token"><code>speedWarningDelegate</code></a> 
 
   </div>
 
@@ -626,6 +665,10 @@ This class continuously reacts to new locations provided from a location source 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-protocols-speedwarningdelegate">SpeedWarningDelegate</a>
+
   </div>
 
   </div>
@@ -634,7 +677,7 @@ This class continuously reacts to new locations provided from a location source 
 
 - <div>
 
-  ` `<span id="/s:7heresdk9NavigatorC34maneuverViewLaneAssistanceDelegateAA08ManeuverdefG0_pSgvp"></span>` `<span id="//apple_ref/swift/Property/maneuverViewLaneAssistanceDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-navigator#/s:7heresdk9NavigatorC34maneuverViewLaneAssistanceDelegateAA08ManeuverdefG0_pSgvp" class="token"><code>maneuverViewLaneAssistanceDelegate</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9NavigatorC34maneuverViewLaneAssistanceDelegateAA08ManeuverdefG0_pSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-maneuverViewLaneAssistanceDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-navigator#sdk-for-ios-navigate-s-7heresdk9NavigatorC34maneuverViewLaneAssistanceDelegateAA08ManeuverdefG0_pSgvp" class="token"><code>maneuverViewLaneAssistanceDelegate</code></a> 
 
   </div>
 
@@ -670,6 +713,10 @@ This class continuously reacts to new locations provided from a location source 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-protocols-maneuverviewlaneassistancedelegate">ManeuverViewLaneAssistanceDelegate</a>
+
   </div>
 
   </div>
@@ -678,7 +725,7 @@ This class continuously reacts to new locations provided from a location source 
 
 - <div>
 
-  ` `<span id="/s:7heresdk9NavigatorC42currentSituationLaneAssistanceViewDelegateAA07CurrentdefgH0_pSgvp"></span>` `<span id="//apple_ref/swift/Property/currentSituationLaneAssistanceViewDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-navigator#/s:7heresdk9NavigatorC42currentSituationLaneAssistanceViewDelegateAA07CurrentdefgH0_pSgvp" class="token"><code>currentSituationLaneAssistanceViewDelegate</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9NavigatorC42currentSituationLaneAssistanceViewDelegateAA07CurrentdefgH0_pSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-currentSituationLaneAssistanceViewDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-navigator#sdk-for-ios-navigate-s-7heresdk9NavigatorC42currentSituationLaneAssistanceViewDelegateAA07CurrentdefgH0_pSgvp" class="token"><code>currentSituationLaneAssistanceViewDelegate</code></a> 
 
   </div>
 
@@ -714,6 +761,10 @@ This class continuously reacts to new locations provided from a location source 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-protocols-currentsituationlaneassistanceviewdelegate">CurrentSituationLaneAssistanceViewDelegate</a>
+
   </div>
 
   </div>
@@ -722,7 +773,7 @@ This class continuously reacts to new locations provided from a location source 
 
 - <div>
 
-  ` `<span id="/s:7heresdk9NavigatorC40environmentalZoneWarningListenerDelegateAA013EnvironmentaldeG0_pSgvp"></span>` `<span id="//apple_ref/swift/Property/environmentalZoneWarningListenerDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-navigator#/s:7heresdk9NavigatorC40environmentalZoneWarningListenerDelegateAA013EnvironmentaldeG0_pSgvp" class="token"><code>environmentalZoneWarningListenerDelegate</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9NavigatorC40environmentalZoneWarningListenerDelegateAA013EnvironmentaldeG0_pSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-environmentalZoneWarningListenerDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-navigator#sdk-for-ios-navigate-s-7heresdk9NavigatorC40environmentalZoneWarningListenerDelegateAA013EnvironmentaldeG0_pSgvp" class="token"><code>environmentalZoneWarningListenerDelegate</code></a> 
 
   </div>
 
@@ -758,6 +809,10 @@ This class continuously reacts to new locations provided from a location source 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-protocols-environmentalzonewarningdelegate">EnvironmentalZoneWarningDelegate</a>
+
   </div>
 
   </div>
@@ -766,7 +821,7 @@ This class continuously reacts to new locations provided from a location source 
 
 - <div>
 
-  ` `<span id="/s:7heresdk9NavigatorC34junctionViewLaneAssistanceDelegateAA08JunctiondefG0_pSgvp"></span>` `<span id="//apple_ref/swift/Property/junctionViewLaneAssistanceDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-navigator#/s:7heresdk9NavigatorC34junctionViewLaneAssistanceDelegateAA08JunctiondefG0_pSgvp" class="token"><code>junctionViewLaneAssistanceDelegate</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9NavigatorC34junctionViewLaneAssistanceDelegateAA08JunctiondefG0_pSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-junctionViewLaneAssistanceDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-navigator#sdk-for-ios-navigate-s-7heresdk9NavigatorC34junctionViewLaneAssistanceDelegateAA08JunctiondefG0_pSgvp" class="token"><code>junctionViewLaneAssistanceDelegate</code></a> 
 
   </div>
 
@@ -802,6 +857,10 @@ This class continuously reacts to new locations provided from a location source 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-protocols-junctionviewlaneassistancedelegate">JunctionViewLaneAssistanceDelegate</a>
+
   </div>
 
   </div>
@@ -810,7 +869,7 @@ This class continuously reacts to new locations provided from a location source 
 
 - <div>
 
-  ` `<span id="/s:7heresdk9NavigatorC27safetyCameraWarningDelegateAA06SafetydeF0_pSgvp"></span>` `<span id="//apple_ref/swift/Property/safetyCameraWarningDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-navigator#/s:7heresdk9NavigatorC27safetyCameraWarningDelegateAA06SafetydeF0_pSgvp" class="token"><code>safetyCameraWarningDelegate</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9NavigatorC27safetyCameraWarningDelegateAA06SafetydeF0_pSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-safetyCameraWarningDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-navigator#sdk-for-ios-navigate-s-7heresdk9NavigatorC27safetyCameraWarningDelegateAA06SafetydeF0_pSgvp" class="token"><code>safetyCameraWarningDelegate</code></a> 
 
   </div>
 
@@ -846,6 +905,10 @@ This class continuously reacts to new locations provided from a location source 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-protocols-safetycamerawarningdelegate">SafetyCameraWarningDelegate</a>
+
   </div>
 
   </div>
@@ -854,7 +917,7 @@ This class continuously reacts to new locations provided from a location source 
 
 - <div>
 
-  ` `<span id="/s:7heresdk9NavigatorC26safetyCameraWarningOptionsAA06SafetydeF0Vvp"></span>` `<span id="//apple_ref/swift/Property/safetyCameraWarningOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-navigator#/s:7heresdk9NavigatorC26safetyCameraWarningOptionsAA06SafetydeF0Vvp" class="token"><code>safetyCameraWarningOptions</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9NavigatorC26safetyCameraWarningOptionsAA06SafetydeF0Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-safetyCameraWarningOptions" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-navigator#sdk-for-ios-navigate-s-7heresdk9NavigatorC26safetyCameraWarningOptionsAA06SafetydeF0Vvp" class="token"><code>safetyCameraWarningOptions</code></a> 
 
   </div>
 
@@ -890,6 +953,10 @@ This class continuously reacts to new locations provided from a location source 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-safetycamerawarningoptions">SafetyCameraWarningOptions</a>
+
   </div>
 
   </div>
@@ -898,7 +965,7 @@ This class continuously reacts to new locations provided from a location source 
 
 - <div>
 
-  ` `<span id="/s:7heresdk9NavigatorC33dangerZoneWarningListenerDelegateAA06DangerdeG0_pSgvp"></span>` `<span id="//apple_ref/swift/Property/dangerZoneWarningListenerDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-navigator#/s:7heresdk9NavigatorC33dangerZoneWarningListenerDelegateAA06DangerdeG0_pSgvp" class="token"><code>dangerZoneWarningListenerDelegate</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9NavigatorC33dangerZoneWarningListenerDelegateAA06DangerdeG0_pSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-dangerZoneWarningListenerDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-navigator#sdk-for-ios-navigate-s-7heresdk9NavigatorC33dangerZoneWarningListenerDelegateAA06DangerdeG0_pSgvp" class="token"><code>dangerZoneWarningListenerDelegate</code></a> 
 
   </div>
 
@@ -934,6 +1001,10 @@ This class continuously reacts to new locations provided from a location source 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-protocols-dangerzonewarningdelegate">DangerZoneWarningDelegate</a>
+
   </div>
 
   </div>
@@ -942,7 +1013,7 @@ This class continuously reacts to new locations provided from a location source 
 
 - <div>
 
-  ` `<span id="/s:7heresdk9NavigatorC32truckRestrictionsWarningDelegateAA05TruckdeF0_pSgvp"></span>` `<span id="//apple_ref/swift/Property/truckRestrictionsWarningDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-navigator#/s:7heresdk9NavigatorC32truckRestrictionsWarningDelegateAA05TruckdeF0_pSgvp" class="token"><code>truckRestrictionsWarningDelegate</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9NavigatorC32truckRestrictionsWarningDelegateAA05TruckdeF0_pSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-truckRestrictionsWarningDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-navigator#sdk-for-ios-navigate-s-7heresdk9NavigatorC32truckRestrictionsWarningDelegateAA05TruckdeF0_pSgvp" class="token"><code>truckRestrictionsWarningDelegate</code></a> 
 
   </div>
 
@@ -978,6 +1049,10 @@ This class continuously reacts to new locations provided from a location source 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-protocols-truckrestrictionswarningdelegate">TruckRestrictionsWarningDelegate</a>
+
   </div>
 
   </div>
@@ -986,7 +1061,7 @@ This class continuously reacts to new locations provided from a location source 
 
 - <div>
 
-  ` `<span id="/s:7heresdk9NavigatorC12warnerEngineAA06WarnerD0Cvp"></span>` `<span id="//apple_ref/swift/Property/warnerEngine" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-navigator#/s:7heresdk9NavigatorC12warnerEngineAA06WarnerD0Cvp" class="token"><code>warnerEngine</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9NavigatorC12warnerEngineAA06WarnerD0Cvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-warnerEngine" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-navigator#sdk-for-ios-navigate-s-7heresdk9NavigatorC12warnerEngineAA06WarnerD0Cvp" class="token"><code>warnerEngine</code></a> 
 
   </div>
 
@@ -1022,6 +1097,10 @@ This class continuously reacts to new locations provided from a location source 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-warnerengine">WarnerEngine</a>
+
   </div>
 
   </div>
@@ -1030,7 +1109,7 @@ This class continuously reacts to new locations provided from a location source 
 
 - <div>
 
-  ` `<span id="/s:7heresdk9NavigatorC31truckRestrictionsWarningOptionsAA05TruckdeF0Vvp"></span>` `<span id="//apple_ref/swift/Property/truckRestrictionsWarningOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-navigator#/s:7heresdk9NavigatorC31truckRestrictionsWarningOptionsAA05TruckdeF0Vvp" class="token"><code>truckRestrictionsWarningOptions</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9NavigatorC31truckRestrictionsWarningOptionsAA05TruckdeF0Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-truckRestrictionsWarningOptions" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-navigator#sdk-for-ios-navigate-s-7heresdk9NavigatorC31truckRestrictionsWarningOptionsAA05TruckdeF0Vvp" class="token"><code>truckRestrictionsWarningOptions</code></a> 
 
   </div>
 
@@ -1066,6 +1145,10 @@ This class continuously reacts to new locations provided from a location source 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-truckrestrictionswarningoptions">TruckRestrictionsWarningOptions</a>
+
   </div>
 
   </div>
@@ -1074,7 +1157,7 @@ This class continuously reacts to new locations provided from a location source 
 
 - <div>
 
-  ` `<span id="/s:7heresdk9NavigatorC18postActionDelegateAA04PostdE0_pSgvp"></span>` `<span id="//apple_ref/swift/Property/postActionDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-navigator#/s:7heresdk9NavigatorC18postActionDelegateAA04PostdE0_pSgvp" class="token"><code>postActionDelegate</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9NavigatorC18postActionDelegateAA04PostdE0_pSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-postActionDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-navigator#sdk-for-ios-navigate-s-7heresdk9NavigatorC18postActionDelegateAA04PostdE0_pSgvp" class="token"><code>postActionDelegate</code></a> 
 
   </div>
 
@@ -1110,6 +1193,10 @@ This class continuously reacts to new locations provided from a location source 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-protocols-postactiondelegate">PostActionDelegate</a>
+
   </div>
 
   </div>
@@ -1118,7 +1205,7 @@ This class continuously reacts to new locations provided from a location source 
 
 - <div>
 
-  ` `<span id="/s:7heresdk9NavigatorC18speedLimitDelegateAA05SpeeddE0_pSgvp"></span>` `<span id="//apple_ref/swift/Property/speedLimitDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-navigator#/s:7heresdk9NavigatorC18speedLimitDelegateAA05SpeeddE0_pSgvp" class="token"><code>speedLimitDelegate</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9NavigatorC18speedLimitDelegateAA05SpeeddE0_pSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-speedLimitDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-navigator#sdk-for-ios-navigate-s-7heresdk9NavigatorC18speedLimitDelegateAA05SpeeddE0_pSgvp" class="token"><code>speedLimitDelegate</code></a> 
 
   </div>
 
@@ -1154,6 +1241,10 @@ This class continuously reacts to new locations provided from a location source 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-protocols-speedlimitdelegate">SpeedLimitDelegate</a>
+
   </div>
 
   </div>
@@ -1162,7 +1253,7 @@ This class continuously reacts to new locations provided from a location source 
 
 - <div>
 
-  ` `<span id="/s:7heresdk9NavigatorC17roadTextsDelegateAA04RoaddE0_pSgvp"></span>` `<span id="//apple_ref/swift/Property/roadTextsDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-navigator#/s:7heresdk9NavigatorC17roadTextsDelegateAA04RoaddE0_pSgvp" class="token"><code>roadTextsDelegate</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9NavigatorC17roadTextsDelegateAA04RoaddE0_pSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-roadTextsDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-navigator#sdk-for-ios-navigate-s-7heresdk9NavigatorC17roadTextsDelegateAA04RoaddE0_pSgvp" class="token"><code>roadTextsDelegate</code></a> 
 
   </div>
 
@@ -1198,6 +1289,10 @@ This class continuously reacts to new locations provided from a location source 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-protocols-roadtextsdelegate">RoadTextsDelegate</a>
+
   </div>
 
   </div>
@@ -1206,7 +1301,7 @@ This class continuously reacts to new locations provided from a location source 
 
 - <div>
 
-  ` `<span id="/s:7heresdk9NavigatorC22roadAttributesDelegateAA04RoaddE0_pSgvp"></span>` `<span id="//apple_ref/swift/Property/roadAttributesDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-navigator#/s:7heresdk9NavigatorC22roadAttributesDelegateAA04RoaddE0_pSgvp" class="token"><code>roadAttributesDelegate</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9NavigatorC22roadAttributesDelegateAA04RoaddE0_pSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-roadAttributesDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-navigator#sdk-for-ios-navigate-s-7heresdk9NavigatorC22roadAttributesDelegateAA04RoaddE0_pSgvp" class="token"><code>roadAttributesDelegate</code></a> 
 
   </div>
 
@@ -1242,6 +1337,10 @@ This class continuously reacts to new locations provided from a location source 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-protocols-roadattributesdelegate">RoadAttributesDelegate</a>
+
   </div>
 
   </div>
@@ -1250,7 +1349,7 @@ This class continuously reacts to new locations provided from a location source 
 
 - <div>
 
-  ` `<span id="/s:7heresdk9NavigatorC23roadSignWarningDelegateAA04RoaddeF0_pSgvp"></span>` `<span id="//apple_ref/swift/Property/roadSignWarningDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-navigator#/s:7heresdk9NavigatorC23roadSignWarningDelegateAA04RoaddeF0_pSgvp" class="token"><code>roadSignWarningDelegate</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9NavigatorC23roadSignWarningDelegateAA04RoaddeF0_pSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-roadSignWarningDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-navigator#sdk-for-ios-navigate-s-7heresdk9NavigatorC23roadSignWarningDelegateAA04RoaddeF0_pSgvp" class="token"><code>roadSignWarningDelegate</code></a> 
 
   </div>
 
@@ -1286,6 +1385,10 @@ This class continuously reacts to new locations provided from a location source 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-protocols-roadsignwarningdelegate">RoadSignWarningDelegate</a>
+
   </div>
 
   </div>
@@ -1294,7 +1397,7 @@ This class continuously reacts to new locations provided from a location source 
 
 - <div>
 
-  ` `<span id="/s:7heresdk9NavigatorC22roadSignWarningOptionsAA04RoaddeF0Vvp"></span>` `<span id="//apple_ref/swift/Property/roadSignWarningOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-navigator#/s:7heresdk9NavigatorC22roadSignWarningOptionsAA04RoaddeF0Vvp" class="token"><code>roadSignWarningOptions</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9NavigatorC22roadSignWarningOptionsAA04RoaddeF0Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-roadSignWarningOptions" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-navigator#sdk-for-ios-navigate-s-7heresdk9NavigatorC22roadSignWarningOptionsAA04RoaddeF0Vvp" class="token"><code>roadSignWarningOptions</code></a> 
 
   </div>
 
@@ -1330,6 +1433,10 @@ This class continuously reacts to new locations provided from a location source 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-roadsignwarningoptions">RoadSignWarningOptions</a>
+
   </div>
 
   </div>
@@ -1338,7 +1445,7 @@ This class continuously reacts to new locations provided from a location source 
 
 - <div>
 
-  ` `<span id="/s:7heresdk9NavigatorC25schoolZoneWarningDelegateAA06SchooldeF0_pSgvp"></span>` `<span id="//apple_ref/swift/Property/schoolZoneWarningDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-navigator#/s:7heresdk9NavigatorC25schoolZoneWarningDelegateAA06SchooldeF0_pSgvp" class="token"><code>schoolZoneWarningDelegate</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9NavigatorC25schoolZoneWarningDelegateAA06SchooldeF0_pSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-schoolZoneWarningDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-navigator#sdk-for-ios-navigate-s-7heresdk9NavigatorC25schoolZoneWarningDelegateAA06SchooldeF0_pSgvp" class="token"><code>schoolZoneWarningDelegate</code></a> 
 
   </div>
 
@@ -1374,6 +1481,10 @@ This class continuously reacts to new locations provided from a location source 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-protocols-schoolzonewarningdelegate">SchoolZoneWarningDelegate</a>
+
   </div>
 
   </div>
@@ -1382,7 +1493,7 @@ This class continuously reacts to new locations provided from a location source 
 
 - <div>
 
-  ` `<span id="/s:7heresdk9NavigatorC24schoolZoneWarningOptionsAA06SchooldeF0Vvp"></span>` `<span id="//apple_ref/swift/Property/schoolZoneWarningOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-navigator#/s:7heresdk9NavigatorC24schoolZoneWarningOptionsAA06SchooldeF0Vvp" class="token"><code>schoolZoneWarningOptions</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9NavigatorC24schoolZoneWarningOptionsAA06SchooldeF0Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-schoolZoneWarningOptions" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-navigator#sdk-for-ios-navigate-s-7heresdk9NavigatorC24schoolZoneWarningOptionsAA06SchooldeF0Vvp" class="token"><code>schoolZoneWarningOptions</code></a> 
 
   </div>
 
@@ -1418,6 +1529,10 @@ This class continuously reacts to new locations provided from a location source 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-schoolzonewarningoptions">SchoolZoneWarningOptions</a>
+
   </div>
 
   </div>
@@ -1426,7 +1541,7 @@ This class continuously reacts to new locations provided from a location source 
 
 - <div>
 
-  ` `<span id="/s:7heresdk9NavigatorC28realisticViewWarningDelegateAA09RealisticdeF0_pSgvp"></span>` `<span id="//apple_ref/swift/Property/realisticViewWarningDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-navigator#/s:7heresdk9NavigatorC28realisticViewWarningDelegateAA09RealisticdeF0_pSgvp" class="token"><code>realisticViewWarningDelegate</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9NavigatorC28realisticViewWarningDelegateAA09RealisticdeF0_pSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-realisticViewWarningDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-navigator#sdk-for-ios-navigate-s-7heresdk9NavigatorC28realisticViewWarningDelegateAA09RealisticdeF0_pSgvp" class="token"><code>realisticViewWarningDelegate</code></a> 
 
   </div>
 
@@ -1462,6 +1577,10 @@ This class continuously reacts to new locations provided from a location source 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-protocols-realisticviewwarningdelegate">RealisticViewWarningDelegate</a>
+
   </div>
 
   </div>
@@ -1470,7 +1589,7 @@ This class continuously reacts to new locations provided from a location source 
 
 - <div>
 
-  ` `<span id="/s:7heresdk9NavigatorC27realisticViewWarningOptionsAA09RealisticdeF0Vvp"></span>` `<span id="//apple_ref/swift/Property/realisticViewWarningOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-navigator#/s:7heresdk9NavigatorC27realisticViewWarningOptionsAA09RealisticdeF0Vvp" class="token"><code>realisticViewWarningOptions</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9NavigatorC27realisticViewWarningOptionsAA09RealisticdeF0Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-realisticViewWarningOptions" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-navigator#sdk-for-ios-navigate-s-7heresdk9NavigatorC27realisticViewWarningOptionsAA09RealisticdeF0Vvp" class="token"><code>realisticViewWarningOptions</code></a> 
 
   </div>
 
@@ -1508,6 +1627,10 @@ This class continuously reacts to new locations provided from a location source 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-realisticviewwarningoptions">RealisticViewWarningOptions</a>
+
   </div>
 
   </div>
@@ -1516,7 +1639,7 @@ This class continuously reacts to new locations provided from a location source 
 
 - <div>
 
-  ` `<span id="/s:7heresdk9NavigatorC29borderCrossingWarningDelegateAA06BorderdeF0_pSgvp"></span>` `<span id="//apple_ref/swift/Property/borderCrossingWarningDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-navigator#/s:7heresdk9NavigatorC29borderCrossingWarningDelegateAA06BorderdeF0_pSgvp" class="token"><code>borderCrossingWarningDelegate</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9NavigatorC29borderCrossingWarningDelegateAA06BorderdeF0_pSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-borderCrossingWarningDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-navigator#sdk-for-ios-navigate-s-7heresdk9NavigatorC29borderCrossingWarningDelegateAA06BorderdeF0_pSgvp" class="token"><code>borderCrossingWarningDelegate</code></a> 
 
   </div>
 
@@ -1552,6 +1675,10 @@ This class continuously reacts to new locations provided from a location source 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-protocols-bordercrossingwarningdelegate">BorderCrossingWarningDelegate</a>
+
   </div>
 
   </div>
@@ -1560,7 +1687,7 @@ This class continuously reacts to new locations provided from a location source 
 
 - <div>
 
-  ` `<span id="/s:7heresdk9NavigatorC28borderCrossingWarningOptionsAA06BorderdeF0Vvp"></span>` `<span id="//apple_ref/swift/Property/borderCrossingWarningOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-navigator#/s:7heresdk9NavigatorC28borderCrossingWarningOptionsAA06BorderdeF0Vvp" class="token"><code>borderCrossingWarningOptions</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9NavigatorC28borderCrossingWarningOptionsAA06BorderdeF0Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-borderCrossingWarningOptions" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-navigator#sdk-for-ios-navigate-s-7heresdk9NavigatorC28borderCrossingWarningOptionsAA06BorderdeF0Vvp" class="token"><code>borderCrossingWarningOptions</code></a> 
 
   </div>
 
@@ -1596,6 +1723,10 @@ This class continuously reacts to new locations provided from a location source 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-bordercrossingwarningoptions">BorderCrossingWarningOptions</a>
+
   </div>
 
   </div>
@@ -1604,7 +1735,7 @@ This class continuously reacts to new locations provided from a location source 
 
 - <div>
 
-  ` `<span id="/s:7heresdk9NavigatorC23tollStopWarningDelegateAA04TolldeF0_pSgvp"></span>` `<span id="//apple_ref/swift/Property/tollStopWarningDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-navigator#/s:7heresdk9NavigatorC23tollStopWarningDelegateAA04TolldeF0_pSgvp" class="token"><code>tollStopWarningDelegate</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9NavigatorC23tollStopWarningDelegateAA04TolldeF0_pSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-tollStopWarningDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-navigator#sdk-for-ios-navigate-s-7heresdk9NavigatorC23tollStopWarningDelegateAA04TolldeF0_pSgvp" class="token"><code>tollStopWarningDelegate</code></a> 
 
   </div>
 
@@ -1640,6 +1771,10 @@ This class continuously reacts to new locations provided from a location source 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-protocols-tollstopwarningdelegate">TollStopWarningDelegate</a>
+
   </div>
 
   </div>
@@ -1648,7 +1783,7 @@ This class continuously reacts to new locations provided from a location source 
 
 - <div>
 
-  ` `<span id="/s:7heresdk9NavigatorC30railwayCrossingWarningDelegateAA07RailwaydeF0_pSgvp"></span>` `<span id="//apple_ref/swift/Property/railwayCrossingWarningDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-navigator#/s:7heresdk9NavigatorC30railwayCrossingWarningDelegateAA07RailwaydeF0_pSgvp" class="token"><code>railwayCrossingWarningDelegate</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9NavigatorC30railwayCrossingWarningDelegateAA07RailwaydeF0_pSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-railwayCrossingWarningDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-navigator#sdk-for-ios-navigate-s-7heresdk9NavigatorC30railwayCrossingWarningDelegateAA07RailwaydeF0_pSgvp" class="token"><code>railwayCrossingWarningDelegate</code></a> 
 
   </div>
 
@@ -1684,6 +1819,10 @@ This class continuously reacts to new locations provided from a location source 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-protocols-railwaycrossingwarningdelegate">RailwayCrossingWarningDelegate</a>
+
   </div>
 
   </div>
@@ -1692,7 +1831,7 @@ This class continuously reacts to new locations provided from a location source 
 
 - <div>
 
-  ` `<span id="/s:7heresdk9NavigatorC27lowSpeedZoneWarningDelegateAA03LowdefG0_pSgvp"></span>` `<span id="//apple_ref/swift/Property/lowSpeedZoneWarningDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-navigator#/s:7heresdk9NavigatorC27lowSpeedZoneWarningDelegateAA03LowdefG0_pSgvp" class="token"><code>lowSpeedZoneWarningDelegate</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9NavigatorC27lowSpeedZoneWarningDelegateAA03LowdefG0_pSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-lowSpeedZoneWarningDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-navigator#sdk-for-ios-navigate-s-7heresdk9NavigatorC27lowSpeedZoneWarningDelegateAA03LowdefG0_pSgvp" class="token"><code>lowSpeedZoneWarningDelegate</code></a> 
 
   </div>
 
@@ -1728,6 +1867,10 @@ This class continuously reacts to new locations provided from a location source 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-protocols-lowspeedzonewarningdelegate">LowSpeedZoneWarningDelegate</a>
+
   </div>
 
   </div>
@@ -1736,7 +1879,7 @@ This class continuously reacts to new locations provided from a location source 
 
 - <div>
 
-  ` `<span id="/s:7heresdk9NavigatorC27trafficMergeWarningDelegateAA07TrafficdeF0_pSgvp"></span>` `<span id="//apple_ref/swift/Property/trafficMergeWarningDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-navigator#/s:7heresdk9NavigatorC27trafficMergeWarningDelegateAA07TrafficdeF0_pSgvp" class="token"><code>trafficMergeWarningDelegate</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9NavigatorC27trafficMergeWarningDelegateAA07TrafficdeF0_pSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-trafficMergeWarningDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-navigator#sdk-for-ios-navigate-s-7heresdk9NavigatorC27trafficMergeWarningDelegateAA07TrafficdeF0_pSgvp" class="token"><code>trafficMergeWarningDelegate</code></a> 
 
   </div>
 
@@ -1772,6 +1915,10 @@ This class continuously reacts to new locations provided from a location source 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-protocols-trafficmergewarningdelegate">TrafficMergeWarningDelegate</a>
+
   </div>
 
   </div>
@@ -1780,7 +1927,7 @@ This class continuously reacts to new locations provided from a location source 
 
 - <div>
 
-  ` `<span id="/s:7heresdk9NavigatorC26trafficMergeWarningOptionsAA07TrafficdeF0Vvp"></span>` `<span id="//apple_ref/swift/Property/trafficMergeWarningOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-navigator#/s:7heresdk9NavigatorC26trafficMergeWarningOptionsAA07TrafficdeF0Vvp" class="token"><code>trafficMergeWarningOptions</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9NavigatorC26trafficMergeWarningOptionsAA07TrafficdeF0Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-trafficMergeWarningOptions" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-navigator#sdk-for-ios-navigate-s-7heresdk9NavigatorC26trafficMergeWarningOptionsAA07TrafficdeF0Vvp" class="token"><code>trafficMergeWarningOptions</code></a> 
 
   </div>
 
@@ -1816,6 +1963,10 @@ This class continuously reacts to new locations provided from a location source 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-trafficmergewarningoptions">TrafficMergeWarningOptions</a>
+
   </div>
 
   </div>
@@ -1824,7 +1975,7 @@ This class continuously reacts to new locations provided from a location source 
 
 - <div>
 
-  ` `<span id="/s:7heresdk9NavigatorC33offRoadDestinationReachedDelegateAA03OffdefG0_pSgvp"></span>` `<span id="//apple_ref/swift/Property/offRoadDestinationReachedDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-navigator#/s:7heresdk9NavigatorC33offRoadDestinationReachedDelegateAA03OffdefG0_pSgvp" class="token"><code>offRoadDestinationReachedDelegate</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9NavigatorC33offRoadDestinationReachedDelegateAA03OffdefG0_pSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-offRoadDestinationReachedDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-navigator#sdk-for-ios-navigate-s-7heresdk9NavigatorC33offRoadDestinationReachedDelegateAA03OffdefG0_pSgvp" class="token"><code>offRoadDestinationReachedDelegate</code></a> 
 
   </div>
 
@@ -1860,6 +2011,10 @@ This class continuously reacts to new locations provided from a location source 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-protocols-offroaddestinationreacheddelegate">OffRoadDestinationReachedDelegate</a>
+
   </div>
 
   </div>
@@ -1868,7 +2023,7 @@ This class continuously reacts to new locations provided from a location source 
 
 - <div>
 
-  ` `<span id="/s:7heresdk9NavigatorC23offRoadProgressDelegateAA03OffdeF0_pSgvp"></span>` `<span id="//apple_ref/swift/Property/offRoadProgressDelegate" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-navigator#/s:7heresdk9NavigatorC23offRoadProgressDelegateAA03OffdeF0_pSgvp" class="token"><code>offRoadProgressDelegate</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9NavigatorC23offRoadProgressDelegateAA03OffdeF0_pSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-offRoadProgressDelegate" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-navigator#sdk-for-ios-navigate-s-7heresdk9NavigatorC23offRoadProgressDelegateAA03OffdeF0_pSgvp" class="token"><code>offRoadProgressDelegate</code></a> 
 
   </div>
 
@@ -1904,6 +2059,10 @@ This class continuously reacts to new locations provided from a location source 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-protocols-offroadprogressdelegate">OffRoadProgressDelegate</a>
+
   </div>
 
   </div>
@@ -1912,7 +2071,7 @@ This class continuously reacts to new locations provided from a location source 
 
 - <div>
 
-  ` `<span id="/s:7heresdk9NavigatorC27maneuverNotificationOptionsAA08ManeuverdE0Vvp"></span>` `<span id="//apple_ref/swift/Property/maneuverNotificationOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-navigator#/s:7heresdk9NavigatorC27maneuverNotificationOptionsAA08ManeuverdE0Vvp" class="token"><code>maneuverNotificationOptions</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9NavigatorC27maneuverNotificationOptionsAA08ManeuverdE0Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-maneuverNotificationOptions" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-navigator#sdk-for-ios-navigate-s-7heresdk9NavigatorC27maneuverNotificationOptionsAA08ManeuverdE0Vvp" class="token"><code>maneuverNotificationOptions</code></a> 
 
   </div>
 
@@ -1948,6 +2107,10 @@ This class continuously reacts to new locations provided from a location source 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-maneuvernotificationoptions">ManeuverNotificationOptions</a>
+
   </div>
 
   </div>
@@ -1956,7 +2119,7 @@ This class continuously reacts to new locations provided from a location source 
 
 - <div>
 
-  ` `<span id="/s:7heresdk9NavigatorC16eventTextOptionsAA05EventdE0Vvp"></span>` `<span id="//apple_ref/swift/Property/eventTextOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-navigator#/s:7heresdk9NavigatorC16eventTextOptionsAA05EventdE0Vvp" class="token"><code>eventTextOptions</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9NavigatorC16eventTextOptionsAA05EventdE0Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-eventTextOptions" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-navigator#sdk-for-ios-navigate-s-7heresdk9NavigatorC16eventTextOptionsAA05EventdE0Vvp" class="token"><code>eventTextOptions</code></a> 
 
   </div>
 
@@ -1992,6 +2155,10 @@ This class continuously reacts to new locations provided from a location source 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-eventtextoptions">EventTextOptions</a>
+
   </div>
 
   </div>
@@ -2000,7 +2167,7 @@ This class continuously reacts to new locations provided from a location source 
 
 - <div>
 
-  ` `<span id="/s:7heresdk9NavigatorC19speedWarningOptionsAA05SpeeddE0Vvp"></span>` `<span id="//apple_ref/swift/Property/speedWarningOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-navigator#/s:7heresdk9NavigatorC19speedWarningOptionsAA05SpeeddE0Vvp" class="token"><code>speedWarningOptions</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9NavigatorC19speedWarningOptionsAA05SpeeddE0Vvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-speedWarningOptions" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-navigator#sdk-for-ios-navigate-s-7heresdk9NavigatorC19speedWarningOptionsAA05SpeeddE0Vvp" class="token"><code>speedWarningOptions</code></a> 
 
   </div>
 
@@ -2036,6 +2203,10 @@ This class continuously reacts to new locations provided from a location source 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-speedwarningoptions">SpeedWarningOptions</a>
+
   </div>
 
   </div>
@@ -2044,7 +2215,7 @@ This class continuously reacts to new locations provided from a location source 
 
 - <div>
 
-  ` `<span id="/s:7heresdk9NavigatorC27isEnableTunnelExtrapolationSbvp"></span>` `<span id="//apple_ref/swift/Property/isEnableTunnelExtrapolation" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-navigator#/s:7heresdk9NavigatorC27isEnableTunnelExtrapolationSbvp" class="token"><code>isEnableTunnelExtrapolation</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9NavigatorC27isEnableTunnelExtrapolationSbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-isEnableTunnelExtrapolation" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-navigator#sdk-for-ios-navigate-s-7heresdk9NavigatorC27isEnableTunnelExtrapolationSbvp" class="token"><code>isEnableTunnelExtrapolation</code></a> 
 
   </div>
 
@@ -2088,7 +2259,7 @@ This class continuously reacts to new locations provided from a location source 
 
 - <div>
 
-  ` `<span id="/s:7heresdk9NavigatorC37isPassthroughWaypointsHandlingEnabledSbvp"></span>` `<span id="//apple_ref/swift/Property/isPassthroughWaypointsHandlingEnabled" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-navigator#/s:7heresdk9NavigatorC37isPassthroughWaypointsHandlingEnabledSbvp" class="token"><code>isPassthroughWaypointsHandlingEnabled</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9NavigatorC37isPassthroughWaypointsHandlingEnabledSbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-isPassthroughWaypointsHandlingEnabled" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-navigator#sdk-for-ios-navigate-s-7heresdk9NavigatorC37isPassthroughWaypointsHandlingEnabledSbvp" class="token"><code>isPassthroughWaypointsHandlingEnabled</code></a> 
 
   </div>
 
@@ -2132,7 +2303,7 @@ This class continuously reacts to new locations provided from a location source 
 
 - <div>
 
-  ` `<span id="/s:7heresdk9NavigatorC14trafficOnRouteAA07TrafficdE0VSgvp"></span>` `<span id="//apple_ref/swift/Property/trafficOnRoute" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-navigator#/s:7heresdk9NavigatorC14trafficOnRouteAA07TrafficdE0VSgvp" class="token"><code>trafficOnRoute</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9NavigatorC14trafficOnRouteAA07TrafficdE0VSgvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-trafficOnRoute" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-navigator#sdk-for-ios-navigate-s-7heresdk9NavigatorC14trafficOnRouteAA07TrafficdE0VSgvp" class="token"><code>trafficOnRoute</code></a> 
 
   </div>
 
@@ -2168,6 +2339,10 @@ This class continuously reacts to new locations provided from a location source 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-trafficonroute">TrafficOnRoute</a>
+
   </div>
 
   </div>
@@ -2176,7 +2351,7 @@ This class continuously reacts to new locations provided from a location source 
 
 - <div>
 
-  ` `<span id="/s:7heresdk9NavigatorC15locationManagerAA08LocationD0Cvp"></span>` `<span id="//apple_ref/swift/Property/locationManager" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-navigator#/s:7heresdk9NavigatorC15locationManagerAA08LocationD0Cvp" class="token"><code>locationManager</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk9NavigatorC15locationManagerAA08LocationD0Cvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-locationManager" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-navigator#sdk-for-ios-navigate-s-7heresdk9NavigatorC15locationManagerAA08LocationD0Cvp" class="token"><code>locationManager</code></a> 
 
   </div>
 
@@ -2212,6 +2387,10 @@ This class continuously reacts to new locations provided from a location source 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-locationmanager">LocationManager</a>
+
   </div>
 
   </div>
@@ -2220,7 +2399,7 @@ This class continuously reacts to new locations provided from a location source 
 
 - <div>
 
-      getManeuver(index: )
+   <span id="sdk-for-ios-navigate-s-7heresdk9NavigatorC11getManeuver5indexAA0D0CSgs5Int32V_tF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-getManeuver-index" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-navigator#sdk-for-ios-navigate-s-7heresdk9NavigatorC11getManeuver5indexAA0D0CSgs5Int32V_tF" class="token"><code>getManeuver(index:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -2251,12 +2430,14 @@ This class continuously reacts to new locations provided from a location source 
   Swift
 
   ``` highlight
-  public func getManeuver ( index : Int32 ) -> Maneuver ?
+  public func getManeuver(index: Int32) -> Maneuver?
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-maneuver">Maneuver</a>
 
   </div>
 
@@ -2295,7 +2476,7 @@ This class continuously reacts to new locations provided from a location source 
 
 - <div>
 
-      getManeuverNotificationTimingOptions(transportMode: timingProfile: )
+   <span id="sdk-for-ios-navigate-s-7heresdk9NavigatorC36getManeuverNotificationTimingOptions13transportMode13timingProfileAA0defG0VAA09TransportI0O_AA0fK0OtF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-getManeuverNotificationTimingOptions-transportMode-timingProfile" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-navigator#sdk-for-ios-navigate-s-7heresdk9NavigatorC36getManeuverNotificationTimingOptions13transportMode13timingProfileAA0defG0VAA09TransportI0O_AA0fK0OtF" class="token"><code>getManeuverNotificationTimingOptions(transportMode:</code><wbr></wbr><code>timingProfile:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -2326,12 +2507,16 @@ This class continuously reacts to new locations provided from a location source 
   Swift
 
   ``` highlight
-  public func getManeuverNotificationTimingOptions ( transportMode : TransportMode , timingProfile : TimingProfile ) -> ManeuverNotificationTimingOptions
+  public func getManeuverNotificationTimingOptions(transportMode: TransportMode, timingProfile: TimingProfile) -> ManeuverNotificationTimingOptions
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-transportmode">TransportMode</a>
+  - <a href="sdk-for-ios-navigate-enums-timingprofile">TimingProfile</a>
+  - <a href="sdk-for-ios-navigate-structs-maneuvernotificationtimingoptions">ManeuverNotificationTimingOptions</a>
 
   </div>
 
@@ -2376,7 +2561,7 @@ This class continuously reacts to new locations provided from a location source 
 
 - <div>
 
-      setManeuverNotificationTimingOptions(transportMode: timingProfile: options: )
+   <span id="sdk-for-ios-navigate-s-7heresdk9NavigatorC36setManeuverNotificationTimingOptions13transportMode13timingProfile7optionsSbAA09TransportI0O_AA0fK0OAA0defG0VtF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-setManeuverNotificationTimingOptions-transportMode-timingProfile-options" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-navigator#sdk-for-ios-navigate-s-7heresdk9NavigatorC36setManeuverNotificationTimingOptions13transportMode13timingProfile7optionsSbAA09TransportI0O_AA0fK0OAA0defG0VtF" class="token"><code>setManeuverNotificationTimingOptions(transportMode:</code><wbr></wbr><code>timingProfile:</code><wbr></wbr><code>options:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -2407,12 +2592,17 @@ This class continuously reacts to new locations provided from a location source 
   Swift
 
   ``` highlight
-  @discardableResult public func setManeuverNotificationTimingOptions ( transportMode : TransportMode , timingProfile : TimingProfile , options : ManeuverNotificationTimingOptions ) -> Bool
+  @discardableResult
+  public func setManeuverNotificationTimingOptions(transportMode: TransportMode, timingProfile: TimingProfile, options: ManeuverNotificationTimingOptions) -> Bool
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-transportmode">TransportMode</a>
+  - <a href="sdk-for-ios-navigate-enums-timingprofile">TimingProfile</a>
+  - <a href="sdk-for-ios-navigate-structs-maneuvernotificationtimingoptions">ManeuverNotificationTimingOptions</a>
 
   </div>
 
@@ -2463,7 +2653,7 @@ This class continuously reacts to new locations provided from a location source 
 
 - <div>
 
-      getWarningNotificationDistances(warningType: )
+   <span id="sdk-for-ios-navigate-s-7heresdk9NavigatorC31getWarningNotificationDistances11warningTypeAA0deF0VAA0dH0O_tF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-getWarningNotificationDistances-warningType" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-navigator#sdk-for-ios-navigate-s-7heresdk9NavigatorC31getWarningNotificationDistances11warningTypeAA0deF0VAA0dH0O_tF" class="token"><code>getWarningNotificationDistances(warningType:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -2494,12 +2684,15 @@ This class continuously reacts to new locations provided from a location source 
   Swift
 
   ``` highlight
-  public func getWarningNotificationDistances ( warningType : WarningType ) -> WarningNotificationDistances
+  public func getWarningNotificationDistances(warningType: WarningType) -> WarningNotificationDistances
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-warningtype">WarningType</a>
+  - <a href="sdk-for-ios-navigate-structs-warningnotificationdistances">WarningNotificationDistances</a>
 
   </div>
 
@@ -2538,7 +2731,7 @@ This class continuously reacts to new locations provided from a location source 
 
 - <div>
 
-      setWarningNotificationDistances(warningType: warningNotificationDistances: )
+   <span id="sdk-for-ios-navigate-s-7heresdk9NavigatorC31setWarningNotificationDistances11warningType0geF0SbAA0dH0O_AA0deF0VtF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-setWarningNotificationDistances-warningType-warningNotificationDistances" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-navigator#sdk-for-ios-navigate-s-7heresdk9NavigatorC31setWarningNotificationDistances11warningType0geF0SbAA0dH0O_AA0deF0VtF" class="token"><code>setWarningNotificationDistances(warningType:</code><wbr></wbr><code>warningNotificationDistances:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -2569,12 +2762,16 @@ This class continuously reacts to new locations provided from a location source 
   Swift
 
   ``` highlight
-  @discardableResult public func setWarningNotificationDistances ( warningType : WarningType , warningNotificationDistances : WarningNotificationDistances ) -> Bool
+  @discardableResult
+  public func setWarningNotificationDistances(warningType: WarningType, warningNotificationDistances: WarningNotificationDistances) -> Bool
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-warningtype">WarningType</a>
+  - <a href="sdk-for-ios-navigate-structs-warningnotificationdistances">WarningNotificationDistances</a>
 
   </div>
 
@@ -2619,7 +2816,7 @@ This class continuously reacts to new locations provided from a location source 
 
 - <div>
 
-      repeatLastManeuverNotification()
+   <span id="sdk-for-ios-navigate-s-7heresdk9NavigatorC30repeatLastManeuverNotificationyyF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-repeatLastManeuverNotification" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-navigator#sdk-for-ios-navigate-s-7heresdk9NavigatorC30repeatLastManeuverNotificationyyF" class="token"><code>repeatLastManeuverNotification()</code></a> 
 
   </div>
 
@@ -2650,10 +2847,8 @@ This class continuously reacts to new locations provided from a location source 
   Swift
 
   ``` highlight
-  public func repeatLastManeuverNotification ()
+  public func repeatLastManeuverNotification()
   ```
-
-  </pre>
 
   </div>
 
@@ -2665,7 +2860,7 @@ This class continuously reacts to new locations provided from a location source 
 
 - <div>
 
-      calculateRemainingDistanceInMeters(coordinates: )
+   <span id="sdk-for-ios-navigate-s-7heresdk9NavigatorC34calculateRemainingDistanceInMeters11coordinatess5Int32VSgAA14GeoCoordinatesV_tF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-calculateRemainingDistanceInMeters-coordinates" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-navigator#sdk-for-ios-navigate-s-7heresdk9NavigatorC34calculateRemainingDistanceInMeters11coordinatess5Int32VSgAA14GeoCoordinatesV_tF" class="token"><code>calculateRemainingDistanceInMeters(coordinates:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -2696,12 +2891,14 @@ This class continuously reacts to new locations provided from a location source 
   Swift
 
   ``` highlight
-  public func calculateRemainingDistanceInMeters ( coordinates : GeoCoordinates ) -> Int32 ?
+  public func calculateRemainingDistanceInMeters(coordinates: GeoCoordinates) -> Int32?
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-geocoordinates">GeoCoordinates</a>
 
   </div>
 
@@ -2740,7 +2937,7 @@ This class continuously reacts to new locations provided from a location source 
 
 - <div>
 
-      setCustomOption(key: value: )
+   <span id="sdk-for-ios-navigate-s-7heresdk9NavigatorC15setCustomOption3key5valueySS_SStF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-setCustomOption-key-value" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-navigator#sdk-for-ios-navigate-s-7heresdk9NavigatorC15setCustomOption3key5valueySS_SStF" class="token"><code>setCustomOption(key:</code><wbr></wbr><code>value:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -2771,10 +2968,8 @@ This class continuously reacts to new locations provided from a location source 
   Swift
 
   ``` highlight
-  public func setCustomOption ( key : String , value : String )
+  public func setCustomOption(key: String, value: String)
   ```
-
-  </pre>
 
   </div>
 
@@ -2813,7 +3008,7 @@ This class continuously reacts to new locations provided from a location source 
 
 - <div>
 
-      onLocationUpdated(_: )
+   <span id="sdk-for-ios-navigate-s-7heresdk9NavigatorC17onLocationUpdatedyyAA0D0VF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-onLocationUpdated-_" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-navigator#sdk-for-ios-navigate-s-7heresdk9NavigatorC17onLocationUpdatedyyAA0D0VF" class="token"><code>onLocationUpdated(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -2831,7 +3026,7 @@ This class continuously reacts to new locations provided from a location source 
 
   <div class="abstract">
 
-  Called each time a new location is available. In a navigation context while using the `Navigator` or <a href="sdk-for-ios-navigate-classes-visualnavigator">`VisualNavigator`</a>, it’s required to set the <a href="sdk-for-ios-navigate-structs-location#/s:7heresdk8LocationV4time10Foundation4DateVSgvp">`Location.time`</a> parameter for each <a href="sdk-for-ios-navigate-structs-location">`Location`</a> object so that the HERE SDK can map-match the locations properly. If the <a href="sdk-for-ios-navigate-structs-location#/s:7heresdk8LocationV4time10Foundation4DateVSgvp">`Location.time`</a> parameter is missing, the location will be ignored. For navigation, it is also recommended to provide the `bearing` and `speed` parameters for each <a href="sdk-for-ios-navigate-structs-location">`Location`</a> object. Invoked on the main thread.
+  Called each time a new location is available. In a navigation context while using the `Navigator` or <a href="sdk-for-ios-navigate-classes-visualnavigator">`VisualNavigator`</a>, it’s required to set the <a href="sdk-for-ios-navigate-structs-location#sdk-for-ios-navigate-s-7heresdk8LocationV4time10Foundation4DateVSgvp">`Location.time`</a> parameter for each <a href="sdk-for-ios-navigate-structs-location">`Location`</a> object so that the HERE SDK can map-match the locations properly. If the <a href="sdk-for-ios-navigate-structs-location#sdk-for-ios-navigate-s-7heresdk8LocationV4time10Foundation4DateVSgvp">`Location.time`</a> parameter is missing, the location will be ignored. For navigation, it is also recommended to provide the `bearing` and `speed` parameters for each <a href="sdk-for-ios-navigate-structs-location">`Location`</a> object. Invoked on the main thread.
 
   </div>
 
@@ -2844,12 +3039,14 @@ This class continuously reacts to new locations provided from a location source 
   Swift
 
   ``` highlight
-  public func onLocationUpdated ( _ location : Location )
+  public func onLocationUpdated(_ location: Location)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-structs-location">Location</a>
 
   </div>
 
@@ -2880,7 +3077,7 @@ This class continuously reacts to new locations provided from a location source 
 
 - <div>
 
-      availableLanguagesForManeuverNotifications()
+   <span id="sdk-for-ios-navigate-s-7heresdk9NavigatorC42availableLanguagesForManeuverNotificationsSayAA12LanguageCodeOGyFZ"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-availableLanguagesForManeuverNotifications" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-navigator#sdk-for-ios-navigate-s-7heresdk9NavigatorC42availableLanguagesForManeuverNotificationsSayAA12LanguageCodeOGyFZ" class="token"><code>availableLanguagesForManeuverNotifications()</code></a> 
 
   </div>
 
@@ -2911,12 +3108,14 @@ This class continuously reacts to new locations provided from a location source 
   Swift
 
   ``` highlight
-  public static func availableLanguagesForManeuverNotifications () -> [ LanguageCode ]
+  public static func availableLanguagesForManeuverNotifications() -> [LanguageCode]
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-enums-languagecode">LanguageCode</a>
 
   </div>
 

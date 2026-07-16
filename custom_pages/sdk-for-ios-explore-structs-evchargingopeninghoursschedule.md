@@ -27,7 +27,7 @@ Opening hours schedule for EV charging locations, represented by a list of days 
 
 - <div>
 
-  ` `<span id="/s:7heresdk30EVChargingOpeningHoursScheduleV4daysSayAA9DayOfWeekOGvp"></span>` `<span id="//apple_ref/swift/Property/days" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-evchargingopeninghoursschedule#/s:7heresdk30EVChargingOpeningHoursScheduleV4daysSayAA9DayOfWeekOGvp" class="token"><code>days</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk30EVChargingOpeningHoursScheduleV4daysSayAA9DayOfWeekOGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-days" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-evchargingopeninghoursschedule#sdk-for-ios-explore-s-7heresdk30EVChargingOpeningHoursScheduleV4daysSayAA9DayOfWeekOGvp" class="token"><code>days</code></a> 
 
   </div>
 
@@ -63,6 +63,10 @@ Opening hours schedule for EV charging locations, represented by a list of days 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-dayofweek">DayOfWeek</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ Opening hours schedule for EV charging locations, represented by a list of days 
 
 - <div>
 
-  ` `<span id="/s:7heresdk30EVChargingOpeningHoursScheduleV7periodsSayAA14TimeOfDayRangeVGvp"></span>` `<span id="//apple_ref/swift/Property/periods" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-evchargingopeninghoursschedule#/s:7heresdk30EVChargingOpeningHoursScheduleV7periodsSayAA14TimeOfDayRangeVGvp" class="token"><code>periods</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk30EVChargingOpeningHoursScheduleV7periodsSayAA14TimeOfDayRangeVGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-periods" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-evchargingopeninghoursschedule#sdk-for-ios-explore-s-7heresdk30EVChargingOpeningHoursScheduleV7periodsSayAA14TimeOfDayRangeVGvp" class="token"><code>periods</code></a> 
 
   </div>
 
@@ -107,6 +111,10 @@ Opening hours schedule for EV charging locations, represented by a list of days 
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-timeofdayrange">TimeOfDayRange</a>
+
   </div>
 
   </div>
@@ -115,7 +123,7 @@ Opening hours schedule for EV charging locations, represented by a list of days 
 
 - <div>
 
-      init(days: periods: )
+   <span id="sdk-for-ios-explore-s-7heresdk30EVChargingOpeningHoursScheduleV4days7periodsACSayAA9DayOfWeekOG_SayAA04TimeiH5RangeVGtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-days-periods" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-evchargingopeninghoursschedule#sdk-for-ios-explore-s-7heresdk30EVChargingOpeningHoursScheduleV4days7periodsACSayAA9DayOfWeekOG_SayAA04TimeiH5RangeVGtcfc" class="token"><code>init(days:</code><wbr></wbr><code>periods:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -146,12 +154,15 @@ Opening hours schedule for EV charging locations, represented by a list of days 
   Swift
 
   ``` highlight
-  public init ( days : [ DayOfWeek ] = [], periods : [ TimeOfDayRange ] = [])
+  public init(days: [DayOfWeek] = [], periods: [TimeOfDayRange] = [])
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-dayofweek">DayOfWeek</a>
+  - <a href="sdk-for-ios-explore-structs-timeofdayrange">TimeOfDayRange</a>
 
   </div>
 

@@ -27,7 +27,7 @@ All the options to specify how an indoor route should be calculated.
 
 - <div>
 
-  ` `<span id="/s:7heresdk18IndoorRouteOptionsV05routeD0AA0cD0Vvp"></span>` `<span id="//apple_ref/swift/Property/routeOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-indoorrouteoptions#/s:7heresdk18IndoorRouteOptionsV05routeD0AA0cD0Vvp" class="token"><code>routeOptions</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18IndoorRouteOptionsV05routeD0AA0cD0Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-routeOptions" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-indoorrouteoptions#sdk-for-ios-explore-s-7heresdk18IndoorRouteOptionsV05routeD0AA0cD0Vvp" class="token"><code>routeOptions</code></a> 
 
   </div>
 
@@ -47,7 +47,7 @@ All the options to specify how an indoor route should be calculated.
 
   Specifies the common route calculation options.
 
-  **Note:** Currently, only <a href="sdk-for-ios-explore-structs-routeoptions#/s:7heresdk12RouteOptionsV16optimizationModeAA012OptimizationE0Ovp">`RouteOptions.optimizationMode`</a> parameter is utilized for indoor route calculation.
+  **Note:** Currently, only <a href="sdk-for-ios-explore-structs-routeoptions#sdk-for-ios-explore-s-7heresdk12RouteOptionsV16optimizationModeAA012OptimizationE0Ovp">`RouteOptions.optimizationMode`</a> parameter is utilized for indoor route calculation.
 
   </div>
 
@@ -65,6 +65,10 @@ All the options to specify how an indoor route should be calculated.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-routeoptions">RouteOptions</a>
+
   </div>
 
   </div>
@@ -73,7 +77,7 @@ All the options to specify how an indoor route should be calculated.
 
 - <div>
 
-  ` `<span id="/s:7heresdk18IndoorRouteOptionsV13transportModeAA014VenueTransportF0Ovp"></span>` `<span id="//apple_ref/swift/Property/transportMode" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-indoorrouteoptions#/s:7heresdk18IndoorRouteOptionsV13transportModeAA014VenueTransportF0Ovp" class="token"><code>transportMode</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18IndoorRouteOptionsV13transportModeAA014VenueTransportF0Ovp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-transportMode" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-indoorrouteoptions#sdk-for-ios-explore-s-7heresdk18IndoorRouteOptionsV13transportModeAA014VenueTransportF0Ovp" class="token"><code>transportMode</code></a> 
 
   </div>
 
@@ -93,7 +97,7 @@ All the options to specify how an indoor route should be calculated.
 
   The transport mode for route calculation.
 
-  **Note:** Indoor route sections of the resulting route will always be <a href="sdk-for-ios-explore-enums-venuetransportmode#/s:7heresdk18VenueTransportModeO10pedestrianyA2CmF">`VenueTransportMode.pedestrian`</a> in the current implementation. This option will affect only outdoor route sections.
+  **Note:** Indoor route sections of the resulting route will always be <a href="sdk-for-ios-explore-enums-venuetransportmode#sdk-for-ios-explore-s-7heresdk18VenueTransportModeO10pedestrianyA2CmF">`VenueTransportMode.pedestrian`</a> in the current implementation. This option will affect only outdoor route sections.
 
   </div>
 
@@ -111,6 +115,10 @@ All the options to specify how an indoor route should be calculated.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-venuetransportmode">VenueTransportMode</a>
+
   </div>
 
   </div>
@@ -119,7 +127,7 @@ All the options to specify how an indoor route should be calculated.
 
 - <div>
 
-  ` `<span id="/s:7heresdk18IndoorRouteOptionsV015indoorAvoidanceD0AA0bfD0Vvp"></span>` `<span id="//apple_ref/swift/Property/indoorAvoidanceOptions" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-indoorrouteoptions#/s:7heresdk18IndoorRouteOptionsV015indoorAvoidanceD0AA0bfD0Vvp" class="token"><code>indoorAvoidanceOptions</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18IndoorRouteOptionsV015indoorAvoidanceD0AA0bfD0Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-indoorAvoidanceOptions" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-indoorrouteoptions#sdk-for-ios-explore-s-7heresdk18IndoorRouteOptionsV015indoorAvoidanceD0AA0bfD0Vvp" class="token"><code>indoorAvoidanceOptions</code></a> 
 
   </div>
 
@@ -155,6 +163,10 @@ All the options to specify how an indoor route should be calculated.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-indooravoidanceoptions">IndoorAvoidanceOptions</a>
+
   </div>
 
   </div>
@@ -163,7 +175,7 @@ All the options to specify how an indoor route should be calculated.
 
 - <div>
 
-  ` `<span id="/s:7heresdk18IndoorRouteOptionsV22speedInMetersPerSecondSdvp"></span>` `<span id="//apple_ref/swift/Property/speedInMetersPerSecond" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-indoorrouteoptions#/s:7heresdk18IndoorRouteOptionsV22speedInMetersPerSecondSdvp" class="token"><code>speedInMetersPerSecond</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk18IndoorRouteOptionsV22speedInMetersPerSecondSdvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-speedInMetersPerSecond" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-indoorrouteoptions#sdk-for-ios-explore-s-7heresdk18IndoorRouteOptionsV22speedInMetersPerSecondSdvp" class="token"><code>speedInMetersPerSecond</code></a> 
 
   </div>
 
@@ -207,7 +219,7 @@ All the options to specify how an indoor route should be calculated.
 
 - <div>
 
-      init(routeOptions: transportMode: indoorAvoidanceOptions: speedInMetersPerSecond: )
+   <span id="sdk-for-ios-explore-s-7heresdk18IndoorRouteOptionsV05routeD013transportMode015indoorAvoidanceD022speedInMetersPerSecondAcA0cD0V_AA014VenueTransportG0OAA0biD0VSdtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-routeOptions-transportMode-indoorAvoidanceOptions-speedInMetersPerSecond" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-indoorrouteoptions#sdk-for-ios-explore-s-7heresdk18IndoorRouteOptionsV05routeD013transportMode015indoorAvoidanceD022speedInMetersPerSecondAcA0cD0V_AA014VenueTransportG0OAA0biD0VSdtcfc" class="token"><code>init(routeOptions:</code><wbr></wbr><code>transportMode:</code><wbr></wbr><code>indoorAvoidanceOptions:</code><wbr></wbr><code>speedInMetersPerSecond:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -231,11 +243,11 @@ All the options to specify how an indoor route should be calculated.
 
     - routeOptions: Specifies the common route calculation options.
 
-    **Note:** Currently, only <a href="sdk-for-ios-explore-structs-routeoptions#/s:7heresdk12RouteOptionsV16optimizationModeAA012OptimizationE0Ovp">`RouteOptions.optimizationMode`</a> parameter is utilized for indoor route calculation.
+    **Note:** Currently, only <a href="sdk-for-ios-explore-structs-routeoptions#sdk-for-ios-explore-s-7heresdk12RouteOptionsV16optimizationModeAA012OptimizationE0Ovp">`RouteOptions.optimizationMode`</a> parameter is utilized for indoor route calculation.
 
     - transportMode: The transport mode for route calculation.
 
-    **Note:** Indoor route sections of the resulting route will always be <a href="sdk-for-ios-explore-enums-venuetransportmode#/s:7heresdk18VenueTransportModeO10pedestrianyA2CmF">`VenueTransportMode.pedestrian`</a> in the current implementation. This option will affect only outdoor route sections.
+    **Note:** Indoor route sections of the resulting route will always be <a href="sdk-for-ios-explore-enums-venuetransportmode#sdk-for-ios-explore-s-7heresdk18VenueTransportModeO10pedestrianyA2CmF">`VenueTransportMode.pedestrian`</a> in the current implementation. This option will affect only outdoor route sections.
 
     - indoorAvoidanceOptions: Options to specify restrictions for indoor route calculations. By default no restrictions are applied.
     - speedInMetersPerSecond: Specifies the speed that will be used by the service as the speed for <a href="sdk-for-ios-explore-enums-venuetransportmode">`VenueTransportMode`</a> in meters per second. It influences the duration of segments along the route. The default speed is 1 meter per second.
@@ -251,12 +263,16 @@ All the options to specify how an indoor route should be calculated.
   Swift
 
   ``` highlight
-  public init ( routeOptions : RouteOptions = RouteOptions (), transportMode : VenueTransportMode = VenueTransportMode . pedestrian , indoorAvoidanceOptions : IndoorAvoidanceOptions = IndoorAvoidanceOptions (), speedInMetersPerSecond : Double = 1.0 )
+  public init(routeOptions: RouteOptions = RouteOptions(), transportMode: VenueTransportMode = VenueTransportMode.pedestrian, indoorAvoidanceOptions: IndoorAvoidanceOptions = IndoorAvoidanceOptions(), speedInMetersPerSecond: Double = 1.0)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-routeoptions">RouteOptions</a>
+  - <a href="sdk-for-ios-explore-enums-venuetransportmode">VenueTransportMode</a>
+  - <a href="sdk-for-ios-explore-structs-indooravoidanceoptions">IndoorAvoidanceOptions</a>
 
   </div>
 

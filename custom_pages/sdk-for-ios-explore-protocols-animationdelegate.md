@@ -27,7 +27,7 @@ A delegate for animation events.
 
 - <div>
 
-      onAnimationStateChanged(state: )
+   <span id="sdk-for-ios-explore-s-7heresdk17AnimationDelegateP02onB12StateChanged5stateyAA0bE0O_tF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-onAnimationStateChanged-state" class="dashAnchor"></span> <a href="sdk-for-ios-explore-protocols-animationdelegate#sdk-for-ios-explore-s-7heresdk17AnimationDelegateP02onB12StateChanged5stateyAA0bE0O_tF" class="token"><code>onAnimationStateChanged(state:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -58,12 +58,14 @@ A delegate for animation events.
   Swift
 
   ``` highlight
-  func onAnimationStateChanged ( state : AnimationState )
+  func onAnimationStateChanged(state: AnimationState)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-animationstate">AnimationState</a>
 
   </div>
 

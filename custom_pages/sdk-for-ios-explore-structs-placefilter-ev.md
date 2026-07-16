@@ -27,7 +27,7 @@ Constraints that are applicable on the places of category EV station.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11PlaceFilterV2EvV13supplierNamesSaySSGvp"></span>` `<span id="//apple_ref/swift/Property/supplierNames" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-placefilter-ev#/s:7heresdk11PlaceFilterV2EvV13supplierNamesSaySSGvp" class="token"><code>supplierNames</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11PlaceFilterV2EvV13supplierNamesSaySSGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-supplierNames" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-placefilter-ev#sdk-for-ios-explore-s-7heresdk11PlaceFilterV2EvV13supplierNamesSaySSGvp" class="token"><code>supplierNames</code></a> 
 
   </div>
 
@@ -73,7 +73,7 @@ Constraints that are applicable on the places of category EV station.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11PlaceFilterV2EvV16connectorTypeIDsSaySSGvp"></span>` `<span id="//apple_ref/swift/Property/connectorTypeIDs" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-placefilter-ev#/s:7heresdk11PlaceFilterV2EvV16connectorTypeIDsSaySSGvp" class="token"><code>connectorTypeIDs</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11PlaceFilterV2EvV16connectorTypeIDsSaySSGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-connectorTypeIDs" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-placefilter-ev#sdk-for-ios-explore-s-7heresdk11PlaceFilterV2EvV16connectorTypeIDsSaySSGvp" class="token"><code>connectorTypeIDs</code></a> 
 
   </div>
 
@@ -119,7 +119,7 @@ Constraints that are applicable on the places of category EV station.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11PlaceFilterV2EvV19minPowerInKilowattsSdSgvp"></span>` `<span id="//apple_ref/swift/Property/minPowerInKilowatts" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-placefilter-ev#/s:7heresdk11PlaceFilterV2EvV19minPowerInKilowattsSdSgvp" class="token"><code>minPowerInKilowatts</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11PlaceFilterV2EvV19minPowerInKilowattsSdSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-minPowerInKilowatts" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-placefilter-ev#sdk-for-ios-explore-s-7heresdk11PlaceFilterV2EvV19minPowerInKilowattsSdSgvp" class="token"><code>minPowerInKilowatts</code></a> 
 
   </div>
 
@@ -163,7 +163,7 @@ Constraints that are applicable on the places of category EV station.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11PlaceFilterV2EvV34eMobilityServiceProviderPartnerIDsSaySSGvp"></span>` `<span id="//apple_ref/swift/Property/eMobilityServiceProviderPartnerIDs" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-placefilter-ev#/s:7heresdk11PlaceFilterV2EvV34eMobilityServiceProviderPartnerIDsSaySSGvp" class="token"><code>eMobilityServiceProviderPartnerIDs</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11PlaceFilterV2EvV34eMobilityServiceProviderPartnerIDsSaySSGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-eMobilityServiceProviderPartnerIDs" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-placefilter-ev#sdk-for-ios-explore-s-7heresdk11PlaceFilterV2EvV34eMobilityServiceProviderPartnerIDsSaySSGvp" class="token"><code>eMobilityServiceProviderPartnerIDs</code></a> 
 
   </div>
 
@@ -209,7 +209,7 @@ Constraints that are applicable on the places of category EV station.
 
 - <div>
 
-  ` `<span id="/s:7heresdk11PlaceFilterV2EvV11currentTypeAA07CurrentF0OSgvp"></span>` `<span id="//apple_ref/swift/Property/currentType" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-placefilter-ev#/s:7heresdk11PlaceFilterV2EvV11currentTypeAA07CurrentF0OSgvp" class="token"><code>currentType</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11PlaceFilterV2EvV11currentTypeAA07CurrentF0OSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-currentType" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-placefilter-ev#sdk-for-ios-explore-s-7heresdk11PlaceFilterV2EvV11currentTypeAA07CurrentF0OSgvp" class="token"><code>currentType</code></a> 
 
   </div>
 
@@ -245,6 +245,10 @@ Constraints that are applicable on the places of category EV station.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-currenttype">CurrentType</a>
+
   </div>
 
   </div>
@@ -253,7 +257,7 @@ Constraints that are applicable on the places of category EV station.
 
 - <div>
 
-      init(supplierNames: connectorTypeIDs: minPowerInKilowatts: eMobilityServiceProviderPartnerIDs: currentType: )
+   <span id="sdk-for-ios-explore-s-7heresdk11PlaceFilterV2EvV13supplierNames16connectorTypeIDs19minPowerInKilowatts031eMobilityServiceProviderPartnerI007currentH0AESaySSG_AKSdSgAkA07CurrentH0OSgtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-supplierNames-connectorTypeIDs-minPowerInKilowatts-eMobilityServiceProviderPartnerIDs-currentType" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-placefilter-ev#sdk-for-ios-explore-s-7heresdk11PlaceFilterV2EvV13supplierNames16connectorTypeIDs19minPowerInKilowatts031eMobilityServiceProviderPartnerI007currentH0AESaySSG_AKSdSgAkA07CurrentH0OSgtcfc" class="token"><code>init(supplierNames:</code><wbr></wbr><code>connectorTypeIDs:</code><wbr></wbr><code>minPowerInKilowatts:</code><wbr></wbr><code>eMobilityServiceProviderPartnerIDs:</code><wbr></wbr><code>currentType:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -301,12 +305,14 @@ Constraints that are applicable on the places of category EV station.
   Swift
 
   ``` highlight
-  public init ( supplierNames : [ String ] = [], connectorTypeIDs : [ String ] = [], minPowerInKilowatts : Double ? = nil , eMobilityServiceProviderPartnerIDs : [ String ] = [], currentType : CurrentType ? = nil )
+  public init(supplierNames: [String] = [], connectorTypeIDs: [String] = [], minPowerInKilowatts: Double? = nil, eMobilityServiceProviderPartnerIDs: [String] = [], currentType: CurrentType? = nil)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-currenttype">CurrentType</a>
 
   </div>
 

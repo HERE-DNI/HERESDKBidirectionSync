@@ -27,7 +27,7 @@ This enum represents the status of the speed warning feature.
 
 - <div>
 
-  ` `<span id="/s:7heresdk18SpeedWarningStatusO18speedLimitExceededyA2CmF"></span>` `<span id="//apple_ref/swift/Element/speedLimitExceeded" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-speedwarningstatus#/s:7heresdk18SpeedWarningStatusO18speedLimitExceededyA2CmF" class="token"><code>speedLimitExceeded</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18SpeedWarningStatusO18speedLimitExceededyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-speedLimitExceeded" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-speedwarningstatus#sdk-for-ios-navigate-s-7heresdk18SpeedWarningStatusO18speedLimitExceededyA2CmF" class="token"><code>speedLimitExceeded</code></a> 
 
   </div>
 
@@ -45,7 +45,7 @@ This enum represents the status of the speed warning feature.
 
   <div class="abstract">
 
-  Status when the current speed exceeded the speed limit (plus offset) for the current road segment. This status is followed by <a href="sdk-for-ios-navigate-enums-speedwarningstatus#/s:7heresdk18SpeedWarningStatusO18speedLimitRestoredyA2CmF">`SpeedWarningStatus.speedLimitRestored`</a> once the driving speed is again below the speed limit (plus offset) for the current road segment.
+  Status when the current speed exceeded the speed limit (plus offset) for the current road segment. This status is followed by <a href="sdk-for-ios-navigate-enums-speedwarningstatus#sdk-for-ios-navigate-s-7heresdk18SpeedWarningStatusO18speedLimitRestoredyA2CmF">`SpeedWarningStatus.speedLimitRestored`</a> once the driving speed is again below the speed limit (plus offset) for the current road segment.
 
   **Note:** The speed limit used to check this condition does not take into account any temporary special speed limit. See `SpeedLimitListener`.
 
@@ -73,7 +73,7 @@ This enum represents the status of the speed warning feature.
 
 - <div>
 
-  ` `<span id="/s:7heresdk18SpeedWarningStatusO18speedLimitRestoredyA2CmF"></span>` `<span id="//apple_ref/swift/Element/speedLimitRestored" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-speedwarningstatus#/s:7heresdk18SpeedWarningStatusO18speedLimitRestoredyA2CmF" class="token"><code>speedLimitRestored</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18SpeedWarningStatusO18speedLimitRestoredyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-speedLimitRestored" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-speedwarningstatus#sdk-for-ios-navigate-s-7heresdk18SpeedWarningStatusO18speedLimitRestoredyA2CmF" class="token"><code>speedLimitRestored</code></a> 
 
   </div>
 

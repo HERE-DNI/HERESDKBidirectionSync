@@ -35,7 +35,7 @@ Manage the lights and their attributes in a scene.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14MapSceneLightsC33AttributeSettingCompletionHandlera"></span>` `<span id="//apple_ref/swift/Alias/AttributeSettingCompletionHandler" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapscenelights#/s:7heresdk14MapSceneLightsC33AttributeSettingCompletionHandlera" class="token"><code>AttributeSettingCompletionHandler</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14MapSceneLightsC33AttributeSettingCompletionHandlera"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Alias-AttributeSettingCompletionHandler" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapscenelights#sdk-for-ios-navigate-s-7heresdk14MapSceneLightsC33AttributeSettingCompletionHandlera" class="token"><code>AttributeSettingCompletionHandler</code></a> 
 
   </div>
 
@@ -70,12 +70,14 @@ Manage the lights and their attributes in a scene.
   Swift
 
   ``` highlight
-  public typealias AttributeSettingCompletionHandler = ( _ setLightError : MapSceneLights . AttributeSettingError ?) -> Void
+  public typealias AttributeSettingCompletionHandler = (_ setLightError: MapSceneLights.AttributeSettingError?) -> Void
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mapscenelights-attributesettingerror">AttributeSettingError</a>
 
   </div>
 
@@ -106,7 +108,7 @@ Manage the lights and their attributes in a scene.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14MapSceneLightsC8CategoryO"></span>` `<span id="//apple_ref/swift/Enum/Category" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapscenelights#/s:7heresdk14MapSceneLightsC8CategoryO" class="token"><code>Category</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14MapSceneLightsC8CategoryO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-Category" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapscenelights#sdk-for-ios-navigate-s-7heresdk14MapSceneLightsC8CategoryO" class="token"><code>Category</code></a> 
 
   </div>
 
@@ -156,7 +158,7 @@ Manage the lights and their attributes in a scene.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14MapSceneLightsC21AttributeSettingErrorO"></span>` `<span id="//apple_ref/swift/Enum/AttributeSettingError" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapscenelights#/s:7heresdk14MapSceneLightsC21AttributeSettingErrorO" class="token"><code>AttributeSettingError</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14MapSceneLightsC21AttributeSettingErrorO"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Enum-AttributeSettingError" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapscenelights#sdk-for-ios-navigate-s-7heresdk14MapSceneLightsC21AttributeSettingErrorO" class="token"><code>AttributeSettingError</code></a> 
 
   </div>
 
@@ -202,7 +204,7 @@ Manage the lights and their attributes in a scene.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14MapSceneLightsC9DirectionV"></span>` `<span id="//apple_ref/swift/Struct/Direction" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-classes-mapscenelights#/s:7heresdk14MapSceneLightsC9DirectionV" class="token"><code>Direction</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk14MapSceneLightsC9DirectionV"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Struct-Direction" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapscenelights#sdk-for-ios-navigate-s-7heresdk14MapSceneLightsC9DirectionV" class="token"><code>Direction</code></a> 
 
   </div>
 
@@ -248,7 +250,7 @@ Manage the lights and their attributes in a scene.
 
 - <div>
 
-      setColor(category: color: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk14MapSceneLightsC8setColor8category5color10completionyAC8CategoryO_So7UIColorCyAC21AttributeSettingErrorOSgcSgtF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-setColor-category-color-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapscenelights#sdk-for-ios-navigate-s-7heresdk14MapSceneLightsC8setColor8category5color10completionyAC8CategoryO_So7UIColorCyAC21AttributeSettingErrorOSgcSgtF" class="token"><code>setColor(category:</code><wbr></wbr><code>color:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -279,12 +281,15 @@ Manage the lights and their attributes in a scene.
   Swift
 
   ``` highlight
-  public func setColor ( category : MapSceneLights . Category , color : UIColor , completion : MapSceneLights . AttributeSettingCompletionHandler ?)
+  public func setColor(category: MapSceneLights.Category, color: UIColor, completion: MapSceneLights.AttributeSettingCompletionHandler?)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mapscenelights-category">Category</a>
+  - <a href="sdk-for-ios-navigate-classes-mapscenelights#sdk-for-ios-navigate-s-7heresdk14MapSceneLightsC33AttributeSettingCompletionHandlera">AttributeSettingCompletionHandler</a>
 
   </div>
 
@@ -327,7 +332,7 @@ Manage the lights and their attributes in a scene.
 
 - <div>
 
-      setIntensity(category: intensity: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk14MapSceneLightsC12setIntensity8category9intensity10completionyAC8CategoryO_SdyAC21AttributeSettingErrorOSgcSgtF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-setIntensity-category-intensity-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapscenelights#sdk-for-ios-navigate-s-7heresdk14MapSceneLightsC12setIntensity8category9intensity10completionyAC8CategoryO_SdyAC21AttributeSettingErrorOSgcSgtF" class="token"><code>setIntensity(category:</code><wbr></wbr><code>intensity:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -358,12 +363,15 @@ Manage the lights and their attributes in a scene.
   Swift
 
   ``` highlight
-  public func setIntensity ( category : MapSceneLights . Category , intensity : Double , completion : MapSceneLights . AttributeSettingCompletionHandler ?)
+  public func setIntensity(category: MapSceneLights.Category, intensity: Double, completion: MapSceneLights.AttributeSettingCompletionHandler?)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mapscenelights-category">Category</a>
+  - <a href="sdk-for-ios-navigate-classes-mapscenelights#sdk-for-ios-navigate-s-7heresdk14MapSceneLightsC33AttributeSettingCompletionHandlera">AttributeSettingCompletionHandler</a>
 
   </div>
 
@@ -406,7 +414,7 @@ Manage the lights and their attributes in a scene.
 
 - <div>
 
-      setDirection(category: direction: completion: )
+   <span id="sdk-for-ios-navigate-s-7heresdk14MapSceneLightsC12setDirection8category9direction10completionyAC8CategoryO_AC0F0VyAC21AttributeSettingErrorOSgcSgtF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-setDirection-category-direction-completion" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapscenelights#sdk-for-ios-navigate-s-7heresdk14MapSceneLightsC12setDirection8category9direction10completionyAC8CategoryO_AC0F0VyAC21AttributeSettingErrorOSgcSgtF" class="token"><code>setDirection(category:</code><wbr></wbr><code>direction:</code><wbr></wbr><code>completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -437,12 +445,16 @@ Manage the lights and their attributes in a scene.
   Swift
 
   ``` highlight
-  public func setDirection ( category : MapSceneLights . Category , direction : MapSceneLights . Direction , completion : MapSceneLights . AttributeSettingCompletionHandler ?)
+  public func setDirection(category: MapSceneLights.Category, direction: MapSceneLights.Direction, completion: MapSceneLights.AttributeSettingCompletionHandler?)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mapscenelights-category">Category</a>
+  - <a href="sdk-for-ios-navigate-classes-mapscenelights-direction">Direction</a>
+  - <a href="sdk-for-ios-navigate-classes-mapscenelights#sdk-for-ios-navigate-s-7heresdk14MapSceneLightsC33AttributeSettingCompletionHandlera">AttributeSettingCompletionHandler</a>
 
   </div>
 
@@ -485,7 +497,7 @@ Manage the lights and their attributes in a scene.
 
 - <div>
 
-      getColor(category: )
+   <span id="sdk-for-ios-navigate-s-7heresdk14MapSceneLightsC8getColor8categorySo7UIColorCSgAC8CategoryO_tF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-getColor-category" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapscenelights#sdk-for-ios-navigate-s-7heresdk14MapSceneLightsC8getColor8categorySo7UIColorCSgAC8CategoryO_tF" class="token"><code>getColor(category:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -516,12 +528,14 @@ Manage the lights and their attributes in a scene.
   Swift
 
   ``` highlight
-  public func getColor ( category : MapSceneLights . Category ) -> UIColor ?
+  public func getColor(category: MapSceneLights.Category) -> UIColor?
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mapscenelights-category">Category</a>
 
   </div>
 
@@ -560,7 +574,7 @@ Manage the lights and their attributes in a scene.
 
 - <div>
 
-      getIntensity(category: )
+   <span id="sdk-for-ios-navigate-s-7heresdk14MapSceneLightsC12getIntensity8categorySdSgAC8CategoryO_tF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-getIntensity-category" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapscenelights#sdk-for-ios-navigate-s-7heresdk14MapSceneLightsC12getIntensity8categorySdSgAC8CategoryO_tF" class="token"><code>getIntensity(category:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -591,12 +605,14 @@ Manage the lights and their attributes in a scene.
   Swift
 
   ``` highlight
-  public func getIntensity ( category : MapSceneLights . Category ) -> Double ?
+  public func getIntensity(category: MapSceneLights.Category) -> Double?
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mapscenelights-category">Category</a>
 
   </div>
 
@@ -635,7 +651,7 @@ Manage the lights and their attributes in a scene.
 
 - <div>
 
-      getDirection(category: )
+   <span id="sdk-for-ios-navigate-s-7heresdk14MapSceneLightsC12getDirection8categoryAC0F0VSgAC8CategoryO_tF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-getDirection-category" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapscenelights#sdk-for-ios-navigate-s-7heresdk14MapSceneLightsC12getDirection8categoryAC0F0VSgAC8CategoryO_tF" class="token"><code>getDirection(category:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -666,12 +682,15 @@ Manage the lights and their attributes in a scene.
   Swift
 
   ``` highlight
-  public func getDirection ( category : MapSceneLights . Category ) -> MapSceneLights . Direction ?
+  public func getDirection(category: MapSceneLights.Category) -> MapSceneLights.Direction?
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-mapscenelights-category">Category</a>
+  - <a href="sdk-for-ios-navigate-classes-mapscenelights-direction">Direction</a>
 
   </div>
 
@@ -710,7 +729,7 @@ Manage the lights and their attributes in a scene.
 
 - <div>
 
-      reset()
+   <span id="sdk-for-ios-navigate-s-7heresdk14MapSceneLightsC5resetyyF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-reset" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-classes-mapscenelights#sdk-for-ios-navigate-s-7heresdk14MapSceneLightsC5resetyyF" class="token"><code>reset()</code></a> 
 
   </div>
 
@@ -741,10 +760,8 @@ Manage the lights and their attributes in a scene.
   Swift
 
   ``` highlight
-  public func reset ()
+  public func reset()
   ```
-
-  </pre>
 
   </div>
 

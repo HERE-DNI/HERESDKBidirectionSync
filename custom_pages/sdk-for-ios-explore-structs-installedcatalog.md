@@ -27,7 +27,7 @@ Represents installed catalog.
 
 - <div>
 
-  ` `<span id="/s:7heresdk16InstalledCatalogV17catalogIdentifierAA0cE0Vvp"></span>` `<span id="//apple_ref/swift/Property/catalogIdentifier" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-installedcatalog#/s:7heresdk16InstalledCatalogV17catalogIdentifierAA0cE0Vvp" class="token"><code>catalogIdentifier</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk16InstalledCatalogV17catalogIdentifierAA0cE0Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-catalogIdentifier" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-installedcatalog#sdk-for-ios-explore-s-7heresdk16InstalledCatalogV17catalogIdentifierAA0cE0Vvp" class="token"><code>catalogIdentifier</code></a> 
 
   </div>
 
@@ -63,6 +63,10 @@ Represents installed catalog.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-catalogidentifier">CatalogIdentifier</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ Represents installed catalog.
 
 - <div>
 
-      init(hrn: version: )
+   <span id="sdk-for-ios-explore-s-7heresdk16InstalledCatalogV3hrn7versionACSS_s5Int64Vtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-hrn-version" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-installedcatalog#sdk-for-ios-explore-s-7heresdk16InstalledCatalogV3hrn7versionACSS_s5Int64Vtcfc" class="token"><code>init(hrn:</code><wbr></wbr><code>version:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -102,10 +106,8 @@ Represents installed catalog.
   Swift
 
   ``` highlight
-  public init ( hrn : String , version : Int64 )
+  public init(hrn: String, version: Int64)
   ```
-
-  </pre>
 
   </div>
 

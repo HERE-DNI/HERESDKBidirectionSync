@@ -27,7 +27,7 @@ Confirmation action specific status codes.
 
 - <div>
 
-  ` `<span id="/s:7heresdk18ConfirmationStatusO2okyA2CmF"></span>` `<span id="//apple_ref/swift/Element/ok" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-confirmationstatus#/s:7heresdk18ConfirmationStatusO2okyA2CmF" class="token"><code>ok</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18ConfirmationStatusO2okyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-ok" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-confirmationstatus#sdk-for-ios-navigate-s-7heresdk18ConfirmationStatusO2okyA2CmF" class="token"><code>ok</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Confirmation action specific status codes.
 
 - <div>
 
-  ` `<span id="/s:7heresdk18ConfirmationStatusO7pendingyA2CmF"></span>` `<span id="//apple_ref/swift/Element/pending" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-confirmationstatus#/s:7heresdk18ConfirmationStatusO7pendingyA2CmF" class="token"><code>pending</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18ConfirmationStatusO7pendingyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-pending" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-confirmationstatus#sdk-for-ios-navigate-s-7heresdk18ConfirmationStatusO7pendingyA2CmF" class="token"><code>pending</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Confirmation action specific status codes.
 
 - <div>
 
-  ` `<span id="/s:7heresdk18ConfirmationStatusO10notAllowedyA2CmF"></span>` `<span id="//apple_ref/swift/Element/notAllowed" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-confirmationstatus#/s:7heresdk18ConfirmationStatusO10notAllowedyA2CmF" class="token"><code>notAllowed</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18ConfirmationStatusO10notAllowedyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-notAllowed" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-confirmationstatus#sdk-for-ios-navigate-s-7heresdk18ConfirmationStatusO10notAllowedyA2CmF" class="token"><code>notAllowed</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Confirmation action specific status codes.
 
 - <div>
 
-  ` `<span id="/s:7heresdk18ConfirmationStatusO12notSupportedyA2CmF"></span>` `<span id="//apple_ref/swift/Element/notSupported" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-confirmationstatus#/s:7heresdk18ConfirmationStatusO12notSupportedyA2CmF" class="token"><code>notSupported</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk18ConfirmationStatusO12notSupportedyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-notSupported" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-confirmationstatus#sdk-for-ios-navigate-s-7heresdk18ConfirmationStatusO12notSupportedyA2CmF" class="token"><code>notSupported</code></a> 
 
   </div>
 

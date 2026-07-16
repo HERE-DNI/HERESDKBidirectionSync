@@ -27,7 +27,7 @@ Data for an electric vehicle charging station.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15ChargingStationV2idSSSgvp"></span>` `<span id="//apple_ref/swift/Property/id" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-chargingstation#/s:7heresdk15ChargingStationV2idSSSgvp" class="token"><code>id</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15ChargingStationV2idSSSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-id" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-chargingstation#sdk-for-ios-explore-s-7heresdk15ChargingStationV2idSSSgvp" class="token"><code>id</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Data for an electric vehicle charging station.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15ChargingStationV4nameSSSgvp"></span>` `<span id="//apple_ref/swift/Property/name" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-chargingstation#/s:7heresdk15ChargingStationV4nameSSSgvp" class="token"><code>name</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15ChargingStationV4nameSSSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-name" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-chargingstation#sdk-for-ios-explore-s-7heresdk15ChargingStationV4nameSSSgvp" class="token"><code>name</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Data for an electric vehicle charging station.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15ChargingStationV19connectorAttributesAA0b9ConnectorE0VSgvp"></span>` `<span id="//apple_ref/swift/Property/connectorAttributes" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-chargingstation#/s:7heresdk15ChargingStationV19connectorAttributesAA0b9ConnectorE0VSgvp" class="token"><code>connectorAttributes</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15ChargingStationV19connectorAttributesAA0b9ConnectorE0VSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-connectorAttributes" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-chargingstation#sdk-for-ios-explore-s-7heresdk15ChargingStationV19connectorAttributesAA0b9ConnectorE0VSgvp" class="token"><code>connectorAttributes</code></a> 
 
   </div>
 
@@ -151,6 +151,10 @@ Data for an electric vehicle charging station.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-chargingconnectorattributes">ChargingConnectorAttributes</a>
+
   </div>
 
   </div>
@@ -159,7 +163,7 @@ Data for an electric vehicle charging station.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15ChargingStationV5brandAA6NameIDVSgvp"></span>` `<span id="//apple_ref/swift/Property/brand" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-chargingstation#/s:7heresdk15ChargingStationV5brandAA6NameIDVSgvp" class="token"><code>brand</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15ChargingStationV5brandAA6NameIDVSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-brand" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-chargingstation#sdk-for-ios-explore-s-7heresdk15ChargingStationV5brandAA6NameIDVSgvp" class="token"><code>brand</code></a> 
 
   </div>
 
@@ -177,7 +181,7 @@ Data for an electric vehicle charging station.
 
   <div class="abstract">
 
-  Charging station brand. <a href="sdk-for-ios-explore-structs-nameid#/s:7heresdk6NameIDV4nameSSSgvp">`NameID.name`</a> reflect to charging station brand name. <a href="sdk-for-ios-explore-structs-nameid#/s:7heresdk6NameIDV2idSSSgvp">`NameID.id`</a> reflect to charging station brand unique ID.
+  Charging station brand. <a href="sdk-for-ios-explore-structs-nameid#sdk-for-ios-explore-s-7heresdk6NameIDV4nameSSSgvp">`NameID.name`</a> reflect to charging station brand name. <a href="sdk-for-ios-explore-structs-nameid#sdk-for-ios-explore-s-7heresdk6NameIDV2idSSSgvp">`NameID.id`</a> reflect to charging station brand unique ID.
 
   </div>
 
@@ -195,6 +199,10 @@ Data for an electric vehicle charging station.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-nameid">NameID</a>
+
   </div>
 
   </div>
@@ -203,7 +211,7 @@ Data for an electric vehicle charging station.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15ChargingStationV19chargePointOperatorAA6NameIDVSgvp"></span>` `<span id="//apple_ref/swift/Property/chargePointOperator" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-chargingstation#/s:7heresdk15ChargingStationV19chargePointOperatorAA6NameIDVSgvp" class="token"><code>chargePointOperator</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15ChargingStationV19chargePointOperatorAA6NameIDVSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-chargePointOperator" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-chargingstation#sdk-for-ios-explore-s-7heresdk15ChargingStationV19chargePointOperatorAA6NameIDVSgvp" class="token"><code>chargePointOperator</code></a> 
 
   </div>
 
@@ -221,7 +229,7 @@ Data for an electric vehicle charging station.
 
   <div class="abstract">
 
-  Charging station charge-point-operator. <a href="sdk-for-ios-explore-structs-nameid#/s:7heresdk6NameIDV4nameSSSgvp">`NameID.name`</a> reflect to charge-point-operator name. <a href="sdk-for-ios-explore-structs-nameid#/s:7heresdk6NameIDV2idSSSgvp">`NameID.id`</a> reflect to charge-point-operator ID.
+  Charging station charge-point-operator. <a href="sdk-for-ios-explore-structs-nameid#sdk-for-ios-explore-s-7heresdk6NameIDV4nameSSSgvp">`NameID.name`</a> reflect to charge-point-operator name. <a href="sdk-for-ios-explore-structs-nameid#sdk-for-ios-explore-s-7heresdk6NameIDV2idSSSgvp">`NameID.id`</a> reflect to charge-point-operator ID.
 
   </div>
 
@@ -239,6 +247,10 @@ Data for an electric vehicle charging station.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-nameid">NameID</a>
+
   </div>
 
   </div>
@@ -247,7 +259,7 @@ Data for an electric vehicle charging station.
 
 - <div>
 
-  ` `<span id="/s:7heresdk15ChargingStationV33matchingEMobilityServiceProvidersSayAA6NameIDVGvp"></span>` `<span id="//apple_ref/swift/Property/matchingEMobilityServiceProviders" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-chargingstation#/s:7heresdk15ChargingStationV33matchingEMobilityServiceProvidersSayAA6NameIDVGvp" class="token"><code>matchingEMobilityServiceProviders</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk15ChargingStationV33matchingEMobilityServiceProvidersSayAA6NameIDVGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-matchingEMobilityServiceProviders" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-chargingstation#sdk-for-ios-explore-s-7heresdk15ChargingStationV33matchingEMobilityServiceProvidersSayAA6NameIDVGvp" class="token"><code>matchingEMobilityServiceProviders</code></a> 
 
   </div>
 
@@ -265,7 +277,7 @@ Data for an electric vehicle charging station.
 
   <div class="abstract">
 
-  List of matched E-Mobility Service Providers. Populated only when <a href="sdk-for-ios-explore-structs-electricvehicleoptions#/s:7heresdk22ElectricVehicleOptionsV36evMobilityServiceProviderPreferencesAA010EVMobilityghI0Vvp">`ElectricVehicleOptions.evMobilityServiceProviderPreferences`</a> was set. This list reflects the subset of E-Mobility Service Providers supported by the charging station, from the list specified in the request parameter <a href="sdk-for-ios-explore-structs-electricvehicleoptions#/s:7heresdk22ElectricVehicleOptionsV36evMobilityServiceProviderPreferencesAA010EVMobilityghI0Vvp">`ElectricVehicleOptions.evMobilityServiceProviderPreferences`</a>. <a href="sdk-for-ios-explore-structs-nameid#/s:7heresdk6NameIDV4nameSSSgvp">`NameID.name`</a> in each list item reflect to E-Mobility Service Provider name. <a href="sdk-for-ios-explore-structs-nameid#/s:7heresdk6NameIDV2idSSSgvp">`NameID.id`</a> in each list item reflect to E-Mobility Service Provider id.
+  List of matched E-Mobility Service Providers. Populated only when <a href="sdk-for-ios-explore-structs-electricvehicleoptions#sdk-for-ios-explore-s-7heresdk22ElectricVehicleOptionsV36evMobilityServiceProviderPreferencesAA010EVMobilityghI0Vvp">`ElectricVehicleOptions.evMobilityServiceProviderPreferences`</a> was set. This list reflects the subset of E-Mobility Service Providers supported by the charging station, from the list specified in the request parameter <a href="sdk-for-ios-explore-structs-electricvehicleoptions#sdk-for-ios-explore-s-7heresdk22ElectricVehicleOptionsV36evMobilityServiceProviderPreferencesAA010EVMobilityghI0Vvp">`ElectricVehicleOptions.evMobilityServiceProviderPreferences`</a>. <a href="sdk-for-ios-explore-structs-nameid#sdk-for-ios-explore-s-7heresdk6NameIDV4nameSSSgvp">`NameID.name`</a> in each list item reflect to E-Mobility Service Provider name. <a href="sdk-for-ios-explore-structs-nameid#sdk-for-ios-explore-s-7heresdk6NameIDV2idSSSgvp">`NameID.id`</a> in each list item reflect to E-Mobility Service Provider id.
 
   </div>
 
@@ -283,6 +295,10 @@ Data for an electric vehicle charging station.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-nameid">NameID</a>
+
   </div>
 
   </div>
@@ -291,7 +307,7 @@ Data for an electric vehicle charging station.
 
 - <div>
 
-      init(id: name: connectorAttributes: brand: chargePointOperator: matchingEMobilityServiceProviders: )
+   <span id="sdk-for-ios-explore-s-7heresdk15ChargingStationV2id4name19connectorAttributes5brand19chargePointOperator33matchingEMobilityServiceProvidersACSSSg_AjA0b9ConnectorG0VSgAA6NameIDVSgAPSayAOGtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-id-name-connectorAttributes-brand-chargePointOperator-matchingEMobilityServiceProviders" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-chargingstation#sdk-for-ios-explore-s-7heresdk15ChargingStationV2id4name19connectorAttributes5brand19chargePointOperator33matchingEMobilityServiceProvidersACSSSg_AjA0b9ConnectorG0VSgAA6NameIDVSgAPSayAOGtcfc" class="token"><code>init(id:</code><wbr></wbr><code>name:</code><wbr></wbr><code>connectorAttributes:</code><wbr></wbr><code>brand:</code><wbr></wbr><code>chargePointOperator:</code><wbr></wbr><code>matchingEMobilityServiceProviders:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -322,12 +338,15 @@ Data for an electric vehicle charging station.
   Swift
 
   ``` highlight
-  public init ( id : String ? = nil , name : String ? = nil , connectorAttributes : ChargingConnectorAttributes ? = nil , brand : NameID ? = nil , chargePointOperator : NameID ? = nil , matchingEMobilityServiceProviders : [ NameID ] = [])
+  public init(id: String? = nil, name: String? = nil, connectorAttributes: ChargingConnectorAttributes? = nil, brand: NameID? = nil, chargePointOperator: NameID? = nil, matchingEMobilityServiceProviders: [NameID] = [])
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-chargingconnectorattributes">ChargingConnectorAttributes</a>
+  - <a href="sdk-for-ios-explore-structs-nameid">NameID</a>
 
   </div>
 

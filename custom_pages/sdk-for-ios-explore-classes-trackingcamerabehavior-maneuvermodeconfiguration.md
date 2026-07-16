@@ -19,14 +19,9 @@ public struct ManeuverModeConfiguration
 
 Configuration that defines how <a href="sdk-for-ios-explore-classes-trackingcamerabehavior">`TrackingCameraBehavior`</a> reacts to nearby maneuvers.
 
-On each frame, and based on the current position, the availability of its functional road class, and the availability of maneuver data for at least one adjacent maneuver, the camera checks for a match against the <a href="sdk-for-ios-explore-classes-trackingcamerabehavior-maneuvermodeconfiguration#/s:7heresdk22TrackingCameraBehaviorC25ManeuverModeConfigurationV13maneuverRulesSayAC0E4RuleVGvp">`TrackingCameraBehavior.ManeuverModeConfiguration.maneuverRules`</a> in the order they are listed. If a match is found, subsequent rules are not checked. If no match is found, if inputs are unavailable, or if the matched rule has `nil` options, the camera does not react.
+On each frame, and based on the current position, the availability of its functional road class, and the availability of maneuver data for at least one adjacent maneuver, the camera checks for a match against the <a href="sdk-for-ios-explore-classes-trackingcamerabehavior-maneuvermodeconfiguration#sdk-for-ios-explore-s-7heresdk22TrackingCameraBehaviorC25ManeuverModeConfigurationV13maneuverRulesSayAC0E4RuleVGvp">`TrackingCameraBehavior.ManeuverModeConfiguration.maneuverRules`</a> in the order they are listed. If a match is found, subsequent rules are not checked. If no match is found, if inputs are unavailable, or if the matched rule has `nil` options, the camera does not react.
 
-For correct default initialization, use
-
-    TrackingCameraBehavior.defaultManeuverModeConfiguration(...)
-
-.
-</p>
+For correct default initialization, use <a href="sdk-for-ios-explore-classes-trackingcamerabehavior#sdk-for-ios-explore-s-7heresdk22TrackingCameraBehaviorC32defaultManeuverModeConfigurationAC0fgH0VyFZ">`TrackingCameraBehavior.defaultManeuverModeConfiguration(...)`</a>.
 
 </div>
 
@@ -36,7 +31,7 @@ For correct default initialization, use
 
 - <div>
 
-  ` `<span id="/s:7heresdk22TrackingCameraBehaviorC25ManeuverModeConfigurationV13maneuverRulesSayAC0E4RuleVGvp"></span>` `<span id="//apple_ref/swift/Property/maneuverRules" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-trackingcamerabehavior-maneuvermodeconfiguration#/s:7heresdk22TrackingCameraBehaviorC25ManeuverModeConfigurationV13maneuverRulesSayAC0E4RuleVGvp" class="token"><code>maneuverRules</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk22TrackingCameraBehaviorC25ManeuverModeConfigurationV13maneuverRulesSayAC0E4RuleVGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-maneuverRules" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-trackingcamerabehavior-maneuvermodeconfiguration#sdk-for-ios-explore-s-7heresdk22TrackingCameraBehaviorC25ManeuverModeConfigurationV13maneuverRulesSayAC0E4RuleVGvp" class="token"><code>maneuverRules</code></a> 
 
   </div>
 
@@ -54,12 +49,7 @@ For correct default initialization, use
 
   <div class="abstract">
 
-  Ordered list of maneuver rules. Rules are evaluated in order; the first matching rule determines the camera behavior. If empty, this configuration is not valid and the camera does not react to maneuvers. If
-
-      TrackingCameraBehavior.defaultManeuverModeConfiguration(...)
-
-  is not used for `TrackingCameraBehavior.ManeuverModeConfiguration`, it will be an empty list.
-  </p>
+  Ordered list of maneuver rules. Rules are evaluated in order; the first matching rule determines the camera behavior. If empty, this configuration is not valid and the camera does not react to maneuvers. If <a href="sdk-for-ios-explore-classes-trackingcamerabehavior#sdk-for-ios-explore-s-7heresdk22TrackingCameraBehaviorC32defaultManeuverModeConfigurationAC0fgH0VyFZ">`TrackingCameraBehavior.defaultManeuverModeConfiguration(...)`</a> is not used for `TrackingCameraBehavior.ManeuverModeConfiguration`, it will be an empty list.
 
   </div>
 
@@ -77,6 +67,11 @@ For correct default initialization, use
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-trackingcamerabehavior">TrackingCameraBehavior</a>
+  - <a href="sdk-for-ios-explore-classes-trackingcamerabehavior-maneuverrule">ManeuverRule</a>
+
   </div>
 
   </div>
@@ -85,7 +80,7 @@ For correct default initialization, use
 
 - <div>
 
-  ` `<span id="/s:7heresdk22TrackingCameraBehaviorC25ManeuverModeConfigurationV25bearingThresholdInDegreesSdvp"></span>` `<span id="//apple_ref/swift/Property/bearingThresholdInDegrees" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-trackingcamerabehavior-maneuvermodeconfiguration#/s:7heresdk22TrackingCameraBehaviorC25ManeuverModeConfigurationV25bearingThresholdInDegreesSdvp" class="token"><code>bearingThresholdInDegrees</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk22TrackingCameraBehaviorC25ManeuverModeConfigurationV25bearingThresholdInDegreesSdvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-bearingThresholdInDegrees" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-trackingcamerabehavior-maneuvermodeconfiguration#sdk-for-ios-explore-s-7heresdk22TrackingCameraBehaviorC25ManeuverModeConfigurationV25bearingThresholdInDegreesSdvp" class="token"><code>bearingThresholdInDegrees</code></a> 
 
   </div>
 
@@ -129,7 +124,7 @@ For correct default initialization, use
 
 - <div>
 
-      init(maneuverRules: bearingThresholdInDegrees: )
+   <span id="sdk-for-ios-explore-s-7heresdk22TrackingCameraBehaviorC25ManeuverModeConfigurationV13maneuverRules25bearingThresholdInDegreesAESayAC0E4RuleVG_Sdtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-maneuverRules-bearingThresholdInDegrees" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-trackingcamerabehavior-maneuvermodeconfiguration#sdk-for-ios-explore-s-7heresdk22TrackingCameraBehaviorC25ManeuverModeConfigurationV13maneuverRules25bearingThresholdInDegreesAESayAC0E4RuleVG_Sdtcfc" class="token"><code>init(maneuverRules:</code><wbr></wbr><code>bearingThresholdInDegrees:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -162,12 +157,15 @@ For correct default initialization, use
   Swift
 
   ``` highlight
-  public init ( maneuverRules : [ TrackingCameraBehavior . ManeuverRule ] = [], bearingThresholdInDegrees : Double = 25.0 )
+  public init(maneuverRules: [TrackingCameraBehavior.ManeuverRule] = [], bearingThresholdInDegrees: Double = 25.0)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-trackingcamerabehavior">TrackingCameraBehavior</a>
+  - <a href="sdk-for-ios-explore-classes-trackingcamerabehavior-maneuverrule">ManeuverRule</a>
 
   </div>
 

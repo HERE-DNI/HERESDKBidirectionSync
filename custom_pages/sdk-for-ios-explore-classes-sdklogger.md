@@ -35,7 +35,7 @@ Logging interface for Android/iOS platforms. These logs are under management of 
 
 - <div>
 
-      log(level: tag: message: )
+   <span id="sdk-for-ios-explore-s-7heresdk9SDKLoggerC3log5level3tag7messageyAA8LogLevelO_S2StFZ"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-log-level-tag-message" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-sdklogger#sdk-for-ios-explore-s-7heresdk9SDKLoggerC3log5level3tag7messageyAA8LogLevelO_S2StFZ" class="token"><code>log(level:</code><wbr></wbr><code>tag:</code><wbr></wbr><code>message:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -64,12 +64,14 @@ Logging interface for Android/iOS platforms. These logs are under management of 
   Swift
 
   ``` highlight
-  public static func log ( level : LogLevel , tag : String , message : String )
+  public static func log(level: LogLevel, tag: String, message: String)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-loglevel">LogLevel</a>
 
   </div>
 
@@ -112,7 +114,7 @@ Logging interface for Android/iOS platforms. These logs are under management of 
 
 - <div>
 
-      info(tag: message: )
+   <span id="sdk-for-ios-explore-s-7heresdk9SDKLoggerC4info3tag7messageySS_SStFZ"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-info-tag-message" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-sdklogger#sdk-for-ios-explore-s-7heresdk9SDKLoggerC4info3tag7messageySS_SStFZ" class="token"><code>info(tag:</code><wbr></wbr><code>message:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -143,10 +145,8 @@ Logging interface for Android/iOS platforms. These logs are under management of 
   Swift
 
   ``` highlight
-  public static func info ( tag : String , message : String )
+  public static func info(tag: String, message: String)
   ```
-
-  </pre>
 
   </div>
 
@@ -185,7 +185,7 @@ Logging interface for Android/iOS platforms. These logs are under management of 
 
 - <div>
 
-      warn(tag: message: )
+   <span id="sdk-for-ios-explore-s-7heresdk9SDKLoggerC4warn3tag7messageySS_SStFZ"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-warn-tag-message" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-sdklogger#sdk-for-ios-explore-s-7heresdk9SDKLoggerC4warn3tag7messageySS_SStFZ" class="token"><code>warn(tag:</code><wbr></wbr><code>message:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -216,10 +216,8 @@ Logging interface for Android/iOS platforms. These logs are under management of 
   Swift
 
   ``` highlight
-  public static func warn ( tag : String , message : String )
+  public static func warn(tag: String, message: String)
   ```
-
-  </pre>
 
   </div>
 
@@ -258,7 +256,7 @@ Logging interface for Android/iOS platforms. These logs are under management of 
 
 - <div>
 
-      error(tag: message: )
+   <span id="sdk-for-ios-explore-s-7heresdk9SDKLoggerC5error3tag7messageySS_SStFZ"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-error-tag-message" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-sdklogger#sdk-for-ios-explore-s-7heresdk9SDKLoggerC5error3tag7messageySS_SStFZ" class="token"><code>error(tag:</code><wbr></wbr><code>message:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -289,10 +287,8 @@ Logging interface for Android/iOS platforms. These logs are under management of 
   Swift
 
   ``` highlight
-  public static func error ( tag : String , message : String )
+  public static func error(tag: String, message: String)
   ```
-
-  </pre>
 
   </div>
 
@@ -331,7 +327,7 @@ Logging interface for Android/iOS platforms. These logs are under management of 
 
 - <div>
 
-      fatal(tag: message: )
+   <span id="sdk-for-ios-explore-s-7heresdk9SDKLoggerC5fatal3tag7messageySS_SStFZ"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-fatal-tag-message" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-sdklogger#sdk-for-ios-explore-s-7heresdk9SDKLoggerC5fatal3tag7messageySS_SStFZ" class="token"><code>fatal(tag:</code><wbr></wbr><code>message:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -362,10 +358,8 @@ Logging interface for Android/iOS platforms. These logs are under management of 
   Swift
 
   ``` highlight
-  public static func fatal ( tag : String , message : String )
+  public static func fatal(tag: String, message: String)
   ```
-
-  </pre>
 
   </div>
 

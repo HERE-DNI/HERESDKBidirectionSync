@@ -27,7 +27,7 @@ Represents a type of area like country, state, city, county, etc.
 
 - <div>
 
-  ` `<span id="/s:7heresdk8AreaTypeO7countryyA2CmF"></span>` `<span id="//apple_ref/swift/Element/country" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-areatype#/s:7heresdk8AreaTypeO7countryyA2CmF" class="token"><code>country</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8AreaTypeO7countryyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-country" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-areatype#sdk-for-ios-navigate-s-7heresdk8AreaTypeO7countryyA2CmF" class="token"><code>country</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Represents a type of area like country, state, city, county, etc.
 
 - <div>
 
-  ` `<span id="/s:7heresdk8AreaTypeO5stateyA2CmF"></span>` `<span id="//apple_ref/swift/Element/state" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-areatype#/s:7heresdk8AreaTypeO5stateyA2CmF" class="token"><code>state</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8AreaTypeO5stateyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-state" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-areatype#sdk-for-ios-navigate-s-7heresdk8AreaTypeO5stateyA2CmF" class="token"><code>state</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Represents a type of area like country, state, city, county, etc.
 
 - <div>
 
-  ` `<span id="/s:7heresdk8AreaTypeO6countyyA2CmF"></span>` `<span id="//apple_ref/swift/Element/county" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-areatype#/s:7heresdk8AreaTypeO6countyyA2CmF" class="token"><code>county</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8AreaTypeO6countyyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-county" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-areatype#sdk-for-ios-navigate-s-7heresdk8AreaTypeO6countyyA2CmF" class="token"><code>county</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Represents a type of area like country, state, city, county, etc.
 
 - <div>
 
-  ` `<span id="/s:7heresdk8AreaTypeO4cityyA2CmF"></span>` `<span id="//apple_ref/swift/Element/city" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-areatype#/s:7heresdk8AreaTypeO4cityyA2CmF" class="token"><code>city</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8AreaTypeO4cityyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-city" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-areatype#sdk-for-ios-navigate-s-7heresdk8AreaTypeO4cityyA2CmF" class="token"><code>city</code></a> 
 
   </div>
 
@@ -203,7 +203,7 @@ Represents a type of area like country, state, city, county, etc.
 
 - <div>
 
-  ` `<span id="/s:7heresdk8AreaTypeO10postalCodeyA2CmF"></span>` `<span id="//apple_ref/swift/Element/postalCode" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-areatype#/s:7heresdk8AreaTypeO10postalCodeyA2CmF" class="token"><code>postalCode</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8AreaTypeO10postalCodeyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-postalCode" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-areatype#sdk-for-ios-navigate-s-7heresdk8AreaTypeO10postalCodeyA2CmF" class="token"><code>postalCode</code></a> 
 
   </div>
 
@@ -247,7 +247,7 @@ Represents a type of area like country, state, city, county, etc.
 
 - <div>
 
-  ` `<span id="/s:7heresdk8AreaTypeO8districtyA2CmF"></span>` `<span id="//apple_ref/swift/Element/district" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-areatype#/s:7heresdk8AreaTypeO8districtyA2CmF" class="token"><code>district</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8AreaTypeO8districtyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-district" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-areatype#sdk-for-ios-navigate-s-7heresdk8AreaTypeO8districtyA2CmF" class="token"><code>district</code></a> 
 
   </div>
 
@@ -291,7 +291,7 @@ Represents a type of area like country, state, city, county, etc.
 
 - <div>
 
-  ` `<span id="/s:7heresdk8AreaTypeO11subDistrictyA2CmF"></span>` `<span id="//apple_ref/swift/Element/subDistrict" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-enums-areatype#/s:7heresdk8AreaTypeO11subDistrictyA2CmF" class="token"><code>subDistrict</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8AreaTypeO11subDistrictyA2CmF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Element-subDistrict" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-enums-areatype#sdk-for-ios-navigate-s-7heresdk8AreaTypeO11subDistrictyA2CmF" class="token"><code>subDistrict</code></a> 
 
   </div>
 

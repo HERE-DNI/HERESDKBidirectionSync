@@ -27,7 +27,7 @@ Protocol for storing arbitrary metadata types. By implementing this protocol, mu
 
 - <div>
 
-      getTag()
+   <span id="sdk-for-ios-explore-s-7heresdk19CustomMetadataValueP6getTagSSyF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-getTag" class="dashAnchor"></span> <a href="sdk-for-ios-explore-protocols-custommetadatavalue#sdk-for-ios-explore-s-7heresdk19CustomMetadataValueP6getTagSSyF" class="token"><code>getTag()</code></a> 
 
   </div>
 
@@ -58,10 +58,8 @@ Protocol for storing arbitrary metadata types. By implementing this protocol, mu
   Swift
 
   ``` highlight
-  func getTag () -> String
+  func getTag() -> String
   ```
-
-  </pre>
 
   </div>
 

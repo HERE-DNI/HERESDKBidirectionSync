@@ -33,7 +33,7 @@ to render its content.
 
 - <div>
 
-      onAttach(to: )
+   <span id="sdk-for-ios-explore-s-7heresdk24MapViewLifecycleDelegateP8onAttach2toyAA0bC4Base_p_tF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-onAttach-to" class="dashAnchor"></span> <a href="sdk-for-ios-explore-protocols-mapviewlifecycledelegate#sdk-for-ios-explore-s-7heresdk24MapViewLifecycleDelegateP8onAttach2toyAA0bC4Base_p_tF" class="token"><code>onAttach(to:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -68,12 +68,14 @@ to render its content.
   Swift
 
   ``` highlight
-  func onAttach ( to mapView : MapViewBase )
+  func onAttach(to mapView: MapViewBase)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-protocols-mapviewbase">MapViewBase</a>
 
   </div>
 
@@ -104,7 +106,7 @@ to render its content.
 
 - <div>
 
-      onDetach(from: )
+   <span id="sdk-for-ios-explore-s-7heresdk24MapViewLifecycleDelegateP8onDetach4fromyAA0bC4Base_p_tF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-onDetach-from" class="dashAnchor"></span> <a href="sdk-for-ios-explore-protocols-mapviewlifecycledelegate#sdk-for-ios-explore-s-7heresdk24MapViewLifecycleDelegateP8onDetach4fromyAA0bC4Base_p_tF" class="token"><code>onDetach(from:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -135,12 +137,14 @@ to render its content.
   Swift
 
   ``` highlight
-  func onDetach ( from mapView : MapViewBase )
+  func onDetach(from mapView: MapViewBase)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-protocols-mapviewbase">MapViewBase</a>
 
   </div>
 
@@ -171,7 +175,7 @@ to render its content.
 
 - <div>
 
-      onPause()
+   <span id="sdk-for-ios-explore-s-7heresdk24MapViewLifecycleDelegateP7onPauseyyF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-onPause" class="dashAnchor"></span> <a href="sdk-for-ios-explore-protocols-mapviewlifecycledelegate#sdk-for-ios-explore-s-7heresdk24MapViewLifecycleDelegateP7onPauseyyF" class="token"><code>onPause()</code></a> 
 
   </div>
 
@@ -189,12 +193,7 @@ to render its content.
 
   <div class="abstract">
 
-  Called when the map view to which this `MapViewLifecycleDelegate` is attached to gets paused (usually when the app goes into background). This should be used by components that perform continuous updates to pause those updates until
-
-      onResume(...)
-
-  is called.
-  </p>
+  Called when the map view to which this `MapViewLifecycleDelegate` is attached to gets paused (usually when the app goes into background). This should be used by components that perform continuous updates to pause those updates until <a href="sdk-for-ios-explore-protocols-mapviewlifecycledelegate#sdk-for-ios-explore-s-7heresdk24MapViewLifecycleDelegateP8onResumeyyF">`onResume(...)`</a> is called.
 
   </div>
 
@@ -207,10 +206,8 @@ to render its content.
   Swift
 
   ``` highlight
-  func onPause ()
+  func onPause()
   ```
-
-  </pre>
 
   </div>
 
@@ -222,7 +219,7 @@ to render its content.
 
 - <div>
 
-      onResume()
+   <span id="sdk-for-ios-explore-s-7heresdk24MapViewLifecycleDelegateP8onResumeyyF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-onResume" class="dashAnchor"></span> <a href="sdk-for-ios-explore-protocols-mapviewlifecycledelegate#sdk-for-ios-explore-s-7heresdk24MapViewLifecycleDelegateP8onResumeyyF" class="token"><code>onResume()</code></a> 
 
   </div>
 
@@ -240,12 +237,7 @@ to render its content.
 
   <div class="abstract">
 
-  Called when the map view to which this `MapViewLifecycleDelegate` is attached to gets resumed (usually when the app goes into foreground). This should be used by components that perform continuous updates to resume those updates after a previous call to
-
-      onPause(...)
-
-  .
-  </p>
+  Called when the map view to which this `MapViewLifecycleDelegate` is attached to gets resumed (usually when the app goes into foreground). This should be used by components that perform continuous updates to resume those updates after a previous call to <a href="sdk-for-ios-explore-protocols-mapviewlifecycledelegate#sdk-for-ios-explore-s-7heresdk24MapViewLifecycleDelegateP7onPauseyyF">`onPause(...)`</a>.
 
   </div>
 
@@ -258,10 +250,8 @@ to render its content.
   Swift
 
   ``` highlight
-  func onResume ()
+  func onResume()
   ```
-
-  </pre>
 
   </div>
 
@@ -273,7 +263,7 @@ to render its content.
 
 - <div>
 
-      onDestroy()
+   <span id="sdk-for-ios-explore-s-7heresdk24MapViewLifecycleDelegateP9onDestroyyyF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-onDestroy" class="dashAnchor"></span> <a href="sdk-for-ios-explore-protocols-mapviewlifecycledelegate#sdk-for-ios-explore-s-7heresdk24MapViewLifecycleDelegateP9onDestroyyyF" class="token"><code>onDestroy()</code></a> 
 
   </div>
 
@@ -304,10 +294,8 @@ to render its content.
   Swift
 
   ``` highlight
-  func onDestroy ()
+  func onDestroy()
   ```
-
-  </pre>
 
   </div>
 

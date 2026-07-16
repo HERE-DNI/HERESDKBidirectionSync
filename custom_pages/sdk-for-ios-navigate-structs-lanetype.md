@@ -40,7 +40,7 @@ A struct that provides information on the available lane properties. The lane ty
 
 - <div>
 
-  ` `<span id="/s:7heresdk8LaneTypeV9isRegularSbvp"></span>` `<span id="//apple_ref/swift/Property/isRegular" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-lanetype#/s:7heresdk8LaneTypeV9isRegularSbvp" class="token"><code>isRegular</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8LaneTypeV9isRegularSbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-isRegular" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-lanetype#sdk-for-ios-navigate-s-7heresdk8LaneTypeV9isRegularSbvp" class="token"><code>isRegular</code></a> 
 
   </div>
 
@@ -84,7 +84,7 @@ A struct that provides information on the available lane properties. The lane ty
 
 - <div>
 
-  ` `<span id="/s:7heresdk8LaneTypeV22isHighOccupancyVehicleSbvp"></span>` `<span id="//apple_ref/swift/Property/isHighOccupancyVehicle" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-lanetype#/s:7heresdk8LaneTypeV22isHighOccupancyVehicleSbvp" class="token"><code>isHighOccupancyVehicle</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8LaneTypeV22isHighOccupancyVehicleSbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-isHighOccupancyVehicle" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-lanetype#sdk-for-ios-navigate-s-7heresdk8LaneTypeV22isHighOccupancyVehicleSbvp" class="token"><code>isHighOccupancyVehicle</code></a> 
 
   </div>
 
@@ -128,7 +128,7 @@ A struct that provides information on the available lane properties. The lane ty
 
 - <div>
 
-  ` `<span id="/s:7heresdk8LaneTypeV12isReversibleSbvp"></span>` `<span id="//apple_ref/swift/Property/isReversible" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-lanetype#/s:7heresdk8LaneTypeV12isReversibleSbvp" class="token"><code>isReversible</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8LaneTypeV12isReversibleSbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-isReversible" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-lanetype#sdk-for-ios-navigate-s-7heresdk8LaneTypeV12isReversibleSbvp" class="token"><code>isReversible</code></a> 
 
   </div>
 
@@ -172,7 +172,7 @@ A struct that provides information on the available lane properties. The lane ty
 
 - <div>
 
-  ` `<span id="/s:7heresdk8LaneTypeV9isExpressSbvp"></span>` `<span id="//apple_ref/swift/Property/isExpress" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-lanetype#/s:7heresdk8LaneTypeV9isExpressSbvp" class="token"><code>isExpress</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8LaneTypeV9isExpressSbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-isExpress" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-lanetype#sdk-for-ios-navigate-s-7heresdk8LaneTypeV9isExpressSbvp" class="token"><code>isExpress</code></a> 
 
   </div>
 
@@ -216,7 +216,7 @@ A struct that provides information on the available lane properties. The lane ty
 
 - <div>
 
-  ` `<span id="/s:7heresdk8LaneTypeV14isAccelerationSbvp"></span>` `<span id="//apple_ref/swift/Property/isAcceleration" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-lanetype#/s:7heresdk8LaneTypeV14isAccelerationSbvp" class="token"><code>isAcceleration</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8LaneTypeV14isAccelerationSbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-isAcceleration" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-lanetype#sdk-for-ios-navigate-s-7heresdk8LaneTypeV14isAccelerationSbvp" class="token"><code>isAcceleration</code></a> 
 
   </div>
 
@@ -260,7 +260,7 @@ A struct that provides information on the available lane properties. The lane ty
 
 - <div>
 
-  ` `<span id="/s:7heresdk8LaneTypeV14isDecelerationSbvp"></span>` `<span id="//apple_ref/swift/Property/isDeceleration" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-lanetype#/s:7heresdk8LaneTypeV14isDecelerationSbvp" class="token"><code>isDeceleration</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8LaneTypeV14isDecelerationSbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-isDeceleration" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-lanetype#sdk-for-ios-navigate-s-7heresdk8LaneTypeV14isDecelerationSbvp" class="token"><code>isDeceleration</code></a> 
 
   </div>
 
@@ -304,7 +304,7 @@ A struct that provides information on the available lane properties. The lane ty
 
 - <div>
 
-  ` `<span id="/s:7heresdk8LaneTypeV11isAuxiliarySbvp"></span>` `<span id="//apple_ref/swift/Property/isAuxiliary" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-lanetype#/s:7heresdk8LaneTypeV11isAuxiliarySbvp" class="token"><code>isAuxiliary</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8LaneTypeV11isAuxiliarySbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-isAuxiliary" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-lanetype#sdk-for-ios-navigate-s-7heresdk8LaneTypeV11isAuxiliarySbvp" class="token"><code>isAuxiliary</code></a> 
 
   </div>
 
@@ -348,7 +348,7 @@ A struct that provides information on the available lane properties. The lane ty
 
 - <div>
 
-  ` `<span id="/s:7heresdk8LaneTypeV6isSlowSbvp"></span>` `<span id="//apple_ref/swift/Property/isSlow" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-lanetype#/s:7heresdk8LaneTypeV6isSlowSbvp" class="token"><code>isSlow</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8LaneTypeV6isSlowSbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-isSlow" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-lanetype#sdk-for-ios-navigate-s-7heresdk8LaneTypeV6isSlowSbvp" class="token"><code>isSlow</code></a> 
 
   </div>
 
@@ -392,7 +392,7 @@ A struct that provides information on the available lane properties. The lane ty
 
 - <div>
 
-  ` `<span id="/s:7heresdk8LaneTypeV9isPassingSbvp"></span>` `<span id="//apple_ref/swift/Property/isPassing" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-lanetype#/s:7heresdk8LaneTypeV9isPassingSbvp" class="token"><code>isPassing</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8LaneTypeV9isPassingSbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-isPassing" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-lanetype#sdk-for-ios-navigate-s-7heresdk8LaneTypeV9isPassingSbvp" class="token"><code>isPassing</code></a> 
 
   </div>
 
@@ -436,7 +436,7 @@ A struct that provides information on the available lane properties. The lane ty
 
 - <div>
 
-  ` `<span id="/s:7heresdk8LaneTypeV10isShoulderSbvp"></span>` `<span id="//apple_ref/swift/Property/isShoulder" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-lanetype#/s:7heresdk8LaneTypeV10isShoulderSbvp" class="token"><code>isShoulder</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8LaneTypeV10isShoulderSbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-isShoulder" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-lanetype#sdk-for-ios-navigate-s-7heresdk8LaneTypeV10isShoulderSbvp" class="token"><code>isShoulder</code></a> 
 
   </div>
 
@@ -480,7 +480,7 @@ A struct that provides information on the available lane properties. The lane ty
 
 - <div>
 
-  ` `<span id="/s:7heresdk8LaneTypeV17isRegulatedAccessSbvp"></span>` `<span id="//apple_ref/swift/Property/isRegulatedAccess" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-lanetype#/s:7heresdk8LaneTypeV17isRegulatedAccessSbvp" class="token"><code>isRegulatedAccess</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8LaneTypeV17isRegulatedAccessSbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-isRegulatedAccess" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-lanetype#sdk-for-ios-navigate-s-7heresdk8LaneTypeV17isRegulatedAccessSbvp" class="token"><code>isRegulatedAccess</code></a> 
 
   </div>
 
@@ -524,7 +524,7 @@ A struct that provides information on the available lane properties. The lane ty
 
 - <div>
 
-  ` `<span id="/s:7heresdk8LaneTypeV6isTurnSbvp"></span>` `<span id="//apple_ref/swift/Property/isTurn" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-lanetype#/s:7heresdk8LaneTypeV6isTurnSbvp" class="token"><code>isTurn</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8LaneTypeV6isTurnSbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-isTurn" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-lanetype#sdk-for-ios-navigate-s-7heresdk8LaneTypeV6isTurnSbvp" class="token"><code>isTurn</code></a> 
 
   </div>
 
@@ -568,7 +568,7 @@ A struct that provides information on the available lane properties. The lane ty
 
 - <div>
 
-  ` `<span id="/s:7heresdk8LaneTypeV12isCenterTurnSbvp"></span>` `<span id="//apple_ref/swift/Property/isCenterTurn" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-lanetype#/s:7heresdk8LaneTypeV12isCenterTurnSbvp" class="token"><code>isCenterTurn</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8LaneTypeV12isCenterTurnSbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-isCenterTurn" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-lanetype#sdk-for-ios-navigate-s-7heresdk8LaneTypeV12isCenterTurnSbvp" class="token"><code>isCenterTurn</code></a> 
 
   </div>
 
@@ -612,7 +612,7 @@ A struct that provides information on the available lane properties. The lane ty
 
 - <div>
 
-  ` `<span id="/s:7heresdk8LaneTypeV14isTruckParkingSbvp"></span>` `<span id="//apple_ref/swift/Property/isTruckParking" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-lanetype#/s:7heresdk8LaneTypeV14isTruckParkingSbvp" class="token"><code>isTruckParking</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8LaneTypeV14isTruckParkingSbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-isTruckParking" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-lanetype#sdk-for-ios-navigate-s-7heresdk8LaneTypeV14isTruckParkingSbvp" class="token"><code>isTruckParking</code></a> 
 
   </div>
 
@@ -656,7 +656,7 @@ A struct that provides information on the available lane properties. The lane ty
 
 - <div>
 
-  ` `<span id="/s:7heresdk8LaneTypeV9isParkingSbvp"></span>` `<span id="//apple_ref/swift/Property/isParking" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-lanetype#/s:7heresdk8LaneTypeV9isParkingSbvp" class="token"><code>isParking</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8LaneTypeV9isParkingSbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-isParking" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-lanetype#sdk-for-ios-navigate-s-7heresdk8LaneTypeV9isParkingSbvp" class="token"><code>isParking</code></a> 
 
   </div>
 
@@ -700,7 +700,7 @@ A struct that provides information on the available lane properties. The lane ty
 
 - <div>
 
-  ` `<span id="/s:7heresdk8LaneTypeV17isVariableDrivingSbvp"></span>` `<span id="//apple_ref/swift/Property/isVariableDriving" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-lanetype#/s:7heresdk8LaneTypeV17isVariableDrivingSbvp" class="token"><code>isVariableDriving</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8LaneTypeV17isVariableDrivingSbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-isVariableDriving" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-lanetype#sdk-for-ios-navigate-s-7heresdk8LaneTypeV17isVariableDrivingSbvp" class="token"><code>isVariableDriving</code></a> 
 
   </div>
 
@@ -744,7 +744,7 @@ A struct that provides information on the available lane properties. The lane ty
 
 - <div>
 
-  ` `<span id="/s:7heresdk8LaneTypeV9isBicycleSbvp"></span>` `<span id="//apple_ref/swift/Property/isBicycle" class="dashAnchor"></span>` `<a href="sdk-for-ios-navigate-structs-lanetype#/s:7heresdk8LaneTypeV9isBicycleSbvp" class="token"><code>isBicycle</code></a>` `
+   <span id="sdk-for-ios-navigate-s-7heresdk8LaneTypeV9isBicycleSbvp"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Property-isBicycle" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-lanetype#sdk-for-ios-navigate-s-7heresdk8LaneTypeV9isBicycleSbvp" class="token"><code>isBicycle</code></a> 
 
   </div>
 
@@ -788,7 +788,7 @@ A struct that provides information on the available lane properties. The lane ty
 
 - <div>
 
-      init(isRegular: isHighOccupancyVehicle: isReversible: isExpress: isAcceleration: isDeceleration: isAuxiliary: isSlow: isPassing: isShoulder: isRegulatedAccess: isTurn: isCenterTurn: isTruckParking: isParking: isVariableDriving: isBicycle: )
+   <span id="sdk-for-ios-navigate-s-7heresdk8LaneTypeV9isRegular0D20HighOccupancyVehicle0D10Reversible0D7Express0D12Acceleration0D12Deceleration0D9Auxiliary0D4Slow0D7Passing0D8Shoulder0D15RegulatedAccess0D4Turn0d6CenterS00D12TruckParking0dV00D15VariableDriving0D7BicycleACSb_S16btcfc"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-init-isRegular-isHighOccupancyVehicle-isReversible-isExpress-isAcceleration-isDeceleration-isAuxiliary-isSlow-isPassing-isShoulder-isRegulatedAccess-isTurn-isCenterTurn-isTruckParking-isParking-isVariableDriving-isBicycle" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-structs-lanetype#sdk-for-ios-navigate-s-7heresdk8LaneTypeV9isRegular0D20HighOccupancyVehicle0D10Reversible0D7Express0D12Acceleration0D12Deceleration0D9Auxiliary0D4Slow0D7Passing0D8Shoulder0D15RegulatedAccess0D4Turn0d6CenterS00D12TruckParking0dV00D15VariableDriving0D7BicycleACSb_S16btcfc" class="token"><code>init(isRegular:</code><wbr></wbr><code>isHighOccupancyVehicle:</code><wbr></wbr><code>isReversible:</code><wbr></wbr><code>isExpress:</code><wbr></wbr><code>isAcceleration:</code><wbr></wbr><code>isDeceleration:</code><wbr></wbr><code>isAuxiliary:</code><wbr></wbr><code>isSlow:</code><wbr></wbr><code>isPassing:</code><wbr></wbr><code>isShoulder:</code><wbr></wbr><code>isRegulatedAccess:</code><wbr></wbr><code>isTurn:</code><wbr></wbr><code>isCenterTurn:</code><wbr></wbr><code>isTruckParking:</code><wbr></wbr><code>isParking:</code><wbr></wbr><code>isVariableDriving:</code><wbr></wbr><code>isBicycle:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -819,10 +819,8 @@ A struct that provides information on the available lane properties. The lane ty
   Swift
 
   ``` highlight
-  public init ( isRegular : Bool , isHighOccupancyVehicle : Bool , isReversible : Bool , isExpress : Bool , isAcceleration : Bool , isDeceleration : Bool , isAuxiliary : Bool , isSlow : Bool , isPassing : Bool , isShoulder : Bool , isRegulatedAccess : Bool , isTurn : Bool , isCenterTurn : Bool , isTruckParking : Bool , isParking : Bool , isVariableDriving : Bool , isBicycle : Bool )
+  public init(isRegular: Bool, isHighOccupancyVehicle: Bool, isReversible: Bool, isExpress: Bool, isAcceleration: Bool, isDeceleration: Bool, isAuxiliary: Bool, isSlow: Bool, isPassing: Bool, isShoulder: Bool, isRegulatedAccess: Bool, isTurn: Bool, isCenterTurn: Bool, isTruckParking: Bool, isParking: Bool, isVariableDriving: Bool, isBicycle: Bool)
   ```
-
-  </pre>
 
   </div>
 

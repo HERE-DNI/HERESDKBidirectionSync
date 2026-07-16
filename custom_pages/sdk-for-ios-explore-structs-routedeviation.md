@@ -27,7 +27,7 @@ Contains all the relevant information on a deviation from the route.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14RouteDeviationV014lastLocationOnB0AA09NavigableE0VSgvp"></span>` `<span id="//apple_ref/swift/Property/lastLocationOnRoute" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-routedeviation#/s:7heresdk14RouteDeviationV014lastLocationOnB0AA09NavigableE0VSgvp" class="token"><code>lastLocationOnRoute</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14RouteDeviationV014lastLocationOnB0AA09NavigableE0VSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-lastLocationOnRoute" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-routedeviation#sdk-for-ios-explore-s-7heresdk14RouteDeviationV014lastLocationOnB0AA09NavigableE0VSgvp" class="token"><code>lastLocationOnRoute</code></a> 
 
   </div>
 
@@ -63,6 +63,10 @@ Contains all the relevant information on a deviation from the route.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-navigablelocation">NavigableLocation</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ Contains all the relevant information on a deviation from the route.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14RouteDeviationV24lastTraveledSectionIndexs5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/lastTraveledSectionIndex" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-routedeviation#/s:7heresdk14RouteDeviationV24lastTraveledSectionIndexs5Int32Vvp" class="token"><code>lastTraveledSectionIndex</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14RouteDeviationV24lastTraveledSectionIndexs5Int32Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-lastTraveledSectionIndex" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-routedeviation#sdk-for-ios-explore-s-7heresdk14RouteDeviationV24lastTraveledSectionIndexs5Int32Vvp" class="token"><code>lastTraveledSectionIndex</code></a> 
 
   </div>
 
@@ -115,7 +119,7 @@ Contains all the relevant information on a deviation from the route.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14RouteDeviationV37traveledDistanceOnLastSectionInMeterss5Int32Vvp"></span>` `<span id="//apple_ref/swift/Property/traveledDistanceOnLastSectionInMeters" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-routedeviation#/s:7heresdk14RouteDeviationV37traveledDistanceOnLastSectionInMeterss5Int32Vvp" class="token"><code>traveledDistanceOnLastSectionInMeters</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14RouteDeviationV37traveledDistanceOnLastSectionInMeterss5Int32Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-traveledDistanceOnLastSectionInMeters" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-routedeviation#sdk-for-ios-explore-s-7heresdk14RouteDeviationV37traveledDistanceOnLastSectionInMeterss5Int32Vvp" class="token"><code>traveledDistanceOnLastSectionInMeters</code></a> 
 
   </div>
 
@@ -159,7 +163,7 @@ Contains all the relevant information on a deviation from the route.
 
 - <div>
 
-  ` `<span id="/s:7heresdk14RouteDeviationV15currentLocationAA09NavigableE0Vvp"></span>` `<span id="//apple_ref/swift/Property/currentLocation" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-routedeviation#/s:7heresdk14RouteDeviationV15currentLocationAA09NavigableE0Vvp" class="token"><code>currentLocation</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk14RouteDeviationV15currentLocationAA09NavigableE0Vvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-currentLocation" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-routedeviation#sdk-for-ios-explore-s-7heresdk14RouteDeviationV15currentLocationAA09NavigableE0Vvp" class="token"><code>currentLocation</code></a> 
 
   </div>
 
@@ -195,6 +199,10 @@ Contains all the relevant information on a deviation from the route.
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-navigablelocation">NavigableLocation</a>
+
   </div>
 
   </div>
@@ -203,7 +211,7 @@ Contains all the relevant information on a deviation from the route.
 
 - <div>
 
-      init(lastLocationOnRoute: lastTraveledSectionIndex: traveledDistanceOnLastSectionInMeters: currentLocation: )
+   <span id="sdk-for-ios-explore-s-7heresdk14RouteDeviationV014lastLocationOnB00D20TraveledSectionIndex016traveledDistancef4LastH8InMeters07currentE0AcA09NavigableE0VSg_s5Int32VAlItcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-lastLocationOnRoute-lastTraveledSectionIndex-traveledDistanceOnLastSectionInMeters-currentLocation" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-routedeviation#sdk-for-ios-explore-s-7heresdk14RouteDeviationV014lastLocationOnB00D20TraveledSectionIndex016traveledDistancef4LastH8InMeters07currentE0AcA09NavigableE0VSg_s5Int32VAlItcfc" class="token"><code>init(lastLocationOnRoute:</code><wbr></wbr><code>lastTraveledSectionIndex:</code><wbr></wbr><code>traveledDistanceOnLastSectionInMeters:</code><wbr></wbr><code>currentLocation:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -234,12 +242,14 @@ Contains all the relevant information on a deviation from the route.
   Swift
 
   ``` highlight
-  public init ( lastLocationOnRoute : NavigableLocation ? = nil , lastTraveledSectionIndex : Int32 = 0 , traveledDistanceOnLastSectionInMeters : Int32 = 0 , currentLocation : NavigableLocation )
+  public init(lastLocationOnRoute: NavigableLocation? = nil, lastTraveledSectionIndex: Int32 = 0, traveledDistanceOnLastSectionInMeters: Int32 = 0, currentLocation: NavigableLocation)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-navigablelocation">NavigableLocation</a>
 
   </div>
 

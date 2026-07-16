@@ -27,7 +27,7 @@ Available Classification styles.
 
 - <div>
 
-  ` `<span id="/s:7heresdk9CrosswalkC19ClassificationStyleO9undefinedyA2EmF"></span>` `<span id="//apple_ref/swift/Element/undefined" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-crosswalk-classificationstyle#/s:7heresdk9CrosswalkC19ClassificationStyleO9undefinedyA2EmF" class="token"><code>undefined</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9CrosswalkC19ClassificationStyleO9undefinedyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-undefined" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-crosswalk-classificationstyle#sdk-for-ios-explore-s-7heresdk9CrosswalkC19ClassificationStyleO9undefinedyA2EmF" class="token"><code>undefined</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ Available Classification styles.
 
 - <div>
 
-  ` `<span id="/s:7heresdk9CrosswalkC19ClassificationStyleO5otheryA2EmF"></span>` `<span id="//apple_ref/swift/Element/other" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-crosswalk-classificationstyle#/s:7heresdk9CrosswalkC19ClassificationStyleO5otheryA2EmF" class="token"><code>other</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9CrosswalkC19ClassificationStyleO5otheryA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-other" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-crosswalk-classificationstyle#sdk-for-ios-explore-s-7heresdk9CrosswalkC19ClassificationStyleO5otheryA2EmF" class="token"><code>other</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ Available Classification styles.
 
 - <div>
 
-  ` `<span id="/s:7heresdk9CrosswalkC19ClassificationStyleO5zebrayA2EmF"></span>` `<span id="//apple_ref/swift/Element/zebra" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-crosswalk-classificationstyle#/s:7heresdk9CrosswalkC19ClassificationStyleO5zebrayA2EmF" class="token"><code>zebra</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9CrosswalkC19ClassificationStyleO5zebrayA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-zebra" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-crosswalk-classificationstyle#sdk-for-ios-explore-s-7heresdk9CrosswalkC19ClassificationStyleO5zebrayA2EmF" class="token"><code>zebra</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ Available Classification styles.
 
 - <div>
 
-  ` `<span id="/s:7heresdk9CrosswalkC19ClassificationStyleO5solidyA2EmF"></span>` `<span id="//apple_ref/swift/Element/solid" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-crosswalk-classificationstyle#/s:7heresdk9CrosswalkC19ClassificationStyleO5solidyA2EmF" class="token"><code>solid</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9CrosswalkC19ClassificationStyleO5solidyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-solid" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-crosswalk-classificationstyle#sdk-for-ios-explore-s-7heresdk9CrosswalkC19ClassificationStyleO5solidyA2EmF" class="token"><code>solid</code></a> 
 
   </div>
 
@@ -203,7 +203,7 @@ Available Classification styles.
 
 - <div>
 
-  ` `<span id="/s:7heresdk9CrosswalkC19ClassificationStyleO6dashedyA2EmF"></span>` `<span id="//apple_ref/swift/Element/dashed" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-classes-crosswalk-classificationstyle#/s:7heresdk9CrosswalkC19ClassificationStyleO6dashedyA2EmF" class="token"><code>dashed</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk9CrosswalkC19ClassificationStyleO6dashedyA2EmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-dashed" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-crosswalk-classificationstyle#sdk-for-ios-explore-s-7heresdk9CrosswalkC19ClassificationStyleO6dashedyA2EmF" class="token"><code>dashed</code></a> 
 
   </div>
 

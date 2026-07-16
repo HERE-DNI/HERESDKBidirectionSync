@@ -27,7 +27,7 @@ Used to represent road number localized to specific language with optional direc
 
 - <div>
 
-  ` `<span id="/s:7heresdk19LocalizedRoadNumberV09localizedD0AA0B4TextVvp"></span>` `<span id="//apple_ref/swift/Property/localizedNumber" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-localizedroadnumber#/s:7heresdk19LocalizedRoadNumberV09localizedD0AA0B4TextVvp" class="token"><code>localizedNumber</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19LocalizedRoadNumberV09localizedD0AA0B4TextVvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-localizedNumber" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-localizedroadnumber#sdk-for-ios-explore-s-7heresdk19LocalizedRoadNumberV09localizedD0AA0B4TextVvp" class="token"><code>localizedNumber</code></a> 
 
   </div>
 
@@ -63,6 +63,10 @@ Used to represent road number localized to specific language with optional direc
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-localizedtext">LocalizedText</a>
+
   </div>
 
   </div>
@@ -71,7 +75,7 @@ Used to represent road number localized to specific language with optional direc
 
 - <div>
 
-  ` `<span id="/s:7heresdk19LocalizedRoadNumberV9directionAA17CardinalDirectionOSgvp"></span>` `<span id="//apple_ref/swift/Property/direction" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-localizedroadnumber#/s:7heresdk19LocalizedRoadNumberV9directionAA17CardinalDirectionOSgvp" class="token"><code>direction</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19LocalizedRoadNumberV9directionAA17CardinalDirectionOSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-direction" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-localizedroadnumber#sdk-for-ios-explore-s-7heresdk19LocalizedRoadNumberV9directionAA17CardinalDirectionOSgvp" class="token"><code>direction</code></a> 
 
   </div>
 
@@ -107,6 +111,10 @@ Used to represent road number localized to specific language with optional direc
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-cardinaldirection">CardinalDirection</a>
+
   </div>
 
   </div>
@@ -115,7 +123,7 @@ Used to represent road number localized to specific language with optional direc
 
 - <div>
 
-  ` `<span id="/s:7heresdk19LocalizedRoadNumberV9routeTypeAA05RouteF0Ovp"></span>` `<span id="//apple_ref/swift/Property/routeType" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-localizedroadnumber#/s:7heresdk19LocalizedRoadNumberV9routeTypeAA05RouteF0Ovp" class="token"><code>routeType</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk19LocalizedRoadNumberV9routeTypeAA05RouteF0Ovp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-routeType" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-localizedroadnumber#sdk-for-ios-explore-s-7heresdk19LocalizedRoadNumberV9routeTypeAA05RouteF0Ovp" class="token"><code>routeType</code></a> 
 
   </div>
 
@@ -151,6 +159,10 @@ Used to represent road number localized to specific language with optional direc
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-routetype">RouteType</a>
+
   </div>
 
   </div>
@@ -159,7 +171,7 @@ Used to represent road number localized to specific language with optional direc
 
 - <div>
 
-      init(localizedNumber: direction: routeType: )
+   <span id="sdk-for-ios-explore-s-7heresdk19LocalizedRoadNumberV09localizedD09direction9routeTypeAcA0B4TextV_AA17CardinalDirectionOSgAA05RouteH0Otcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-localizedNumber-direction-routeType" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-localizedroadnumber#sdk-for-ios-explore-s-7heresdk19LocalizedRoadNumberV09localizedD09direction9routeTypeAcA0B4TextV_AA17CardinalDirectionOSgAA05RouteH0Otcfc" class="token"><code>init(localizedNumber:</code><wbr></wbr><code>direction:</code><wbr></wbr><code>routeType:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -190,12 +202,16 @@ Used to represent road number localized to specific language with optional direc
   Swift
 
   ``` highlight
-  public init ( localizedNumber : LocalizedText , direction : CardinalDirection ? = nil , routeType : RouteType )
+  public init(localizedNumber: LocalizedText, direction: CardinalDirection? = nil, routeType: RouteType)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-localizedtext">LocalizedText</a>
+  - <a href="sdk-for-ios-explore-enums-cardinaldirection">CardinalDirection</a>
+  - <a href="sdk-for-ios-explore-enums-routetype">RouteType</a>
 
   </div>
 
@@ -205,7 +221,7 @@ Used to represent road number localized to specific language with optional direc
 
 - <div>
 
-      completeRoadNumber()
+   <span id="sdk-for-ios-explore-s-7heresdk19LocalizedRoadNumberV08completecD0SSyF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-completeRoadNumber" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-localizedroadnumber#sdk-for-ios-explore-s-7heresdk19LocalizedRoadNumberV08completecD0SSyF" class="token"><code>completeRoadNumber()</code></a> 
 
   </div>
 
@@ -236,10 +252,8 @@ Used to represent road number localized to specific language with optional direc
   Swift
 
   ``` highlight
-  public func completeRoadNumber () -> String
+  public func completeRoadNumber() -> String
   ```
-
-  </pre>
 
   </div>
 

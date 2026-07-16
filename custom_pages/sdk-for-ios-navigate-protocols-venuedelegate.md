@@ -27,7 +27,7 @@ The protocol for delegates for venue loading events in <a href="sdk-for-ios-navi
 
 - <div>
 
-      onGetVenueCompleted(venueId: venueModel: online: venueStyle: )
+   <span id="sdk-for-ios-navigate-s-7heresdk13VenueDelegateP05onGetB9Completed7venueId0G5Model6online0G5Styleys5Int32V_AA0bI0CSgSbAA0bK0CSgtF"></span> <span id="sdk-for-ios-navigate-apple_ref-swift-Method-onGetVenueCompleted-venueId-venueModel-online-venueStyle" class="dashAnchor"></span> <a href="sdk-for-ios-navigate-protocols-venuedelegate#sdk-for-ios-navigate-s-7heresdk13VenueDelegateP05onGetB9Completed7venueId0G5Model6online0G5Styleys5Int32V_AA0bI0CSgSbAA0bK0CSgtF" class="token"><code>onGetVenueCompleted(venueId:</code><wbr></wbr><code>venueModel:</code><wbr></wbr><code>online:</code><wbr></wbr><code>venueStyle:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -58,12 +58,15 @@ The protocol for delegates for venue loading events in <a href="sdk-for-ios-navi
   Swift
 
   ``` highlight
-  func onGetVenueCompleted ( venueId : Int32 , venueModel : VenueModel ?, online : Bool , venueStyle : VenueStyle ?)
+  func onGetVenueCompleted(venueId: Int32, venueModel: VenueModel?, online: Bool, venueStyle: VenueStyle?)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-navigate-classes-venuemodel">VenueModel</a>
+  - <a href="sdk-for-ios-navigate-classes-venuestyle">VenueStyle</a>
 
   </div>
 

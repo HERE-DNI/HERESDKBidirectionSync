@@ -27,7 +27,7 @@ GeoPlace struct represents a location object: such as a country, a city, a point
 
 - <div>
 
-  ` `<span id="/s:7heresdk8GeoPlaceV5titleSSvp"></span>` `<span id="//apple_ref/swift/Property/title" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-geoplace#/s:7heresdk8GeoPlaceV5titleSSvp" class="token"><code>title</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk8GeoPlaceV5titleSSvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-title" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-geoplace#sdk-for-ios-explore-s-7heresdk8GeoPlaceV5titleSSvp" class="token"><code>title</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ GeoPlace struct represents a location object: such as a country, a city, a point
 
 - <div>
 
-  ` `<span id="/s:7heresdk8GeoPlaceV11externalIDsSayAA10ExternalIDVGvp"></span>` `<span id="//apple_ref/swift/Property/externalIDs" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-geoplace#/s:7heresdk8GeoPlaceV11externalIDsSayAA10ExternalIDVGvp" class="token"><code>externalIDs</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk8GeoPlaceV11externalIDsSayAA10ExternalIDVGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-externalIDs" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-geoplace#sdk-for-ios-explore-s-7heresdk8GeoPlaceV11externalIDsSayAA10ExternalIDVGvp" class="token"><code>externalIDs</code></a> 
 
   </div>
 
@@ -107,6 +107,10 @@ GeoPlace struct represents a location object: such as a country, a city, a point
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-externalid">ExternalID</a>
+
   </div>
 
   </div>
@@ -115,7 +119,7 @@ GeoPlace struct represents a location object: such as a country, a city, a point
 
 - <div>
 
-  ` `<span id="/s:7heresdk8GeoPlaceV4typeAA0C4TypeOvp"></span>` `<span id="//apple_ref/swift/Property/type" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-geoplace#/s:7heresdk8GeoPlaceV4typeAA0C4TypeOvp" class="token"><code>type</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk8GeoPlaceV4typeAA0C4TypeOvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-type" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-geoplace#sdk-for-ios-explore-s-7heresdk8GeoPlaceV4typeAA0C4TypeOvp" class="token"><code>type</code></a> 
 
   </div>
 
@@ -151,6 +155,10 @@ GeoPlace struct represents a location object: such as a country, a city, a point
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-enums-placetype">PlaceType</a>
+
   </div>
 
   </div>
@@ -159,7 +167,7 @@ GeoPlace struct represents a location object: such as a country, a city, a point
 
 - <div>
 
-  ` `<span id="/s:7heresdk8GeoPlaceV10categoriesSayAA0C8CategoryCGvp"></span>` `<span id="//apple_ref/swift/Property/categories" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-geoplace#/s:7heresdk8GeoPlaceV10categoriesSayAA0C8CategoryCGvp" class="token"><code>categories</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk8GeoPlaceV10categoriesSayAA0C8CategoryCGvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-categories" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-geoplace#sdk-for-ios-explore-s-7heresdk8GeoPlaceV10categoriesSayAA0C8CategoryCGvp" class="token"><code>categories</code></a> 
 
   </div>
 
@@ -195,6 +203,10 @@ GeoPlace struct represents a location object: such as a country, a city, a point
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-placecategory">PlaceCategory</a>
+
   </div>
 
   </div>
@@ -203,7 +215,7 @@ GeoPlace struct represents a location object: such as a country, a city, a point
 
 - <div>
 
-  ` `<span id="/s:7heresdk8GeoPlaceV7addressAA7AddressVvp"></span>` `<span id="//apple_ref/swift/Property/address" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-geoplace#/s:7heresdk8GeoPlaceV7addressAA7AddressVvp" class="token"><code>address</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk8GeoPlaceV7addressAA7AddressVvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-address" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-geoplace#sdk-for-ios-explore-s-7heresdk8GeoPlaceV7addressAA7AddressVvp" class="token"><code>address</code></a> 
 
   </div>
 
@@ -239,6 +251,10 @@ GeoPlace struct represents a location object: such as a country, a city, a point
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-address">Address</a>
+
   </div>
 
   </div>
@@ -247,7 +263,7 @@ GeoPlace struct represents a location object: such as a country, a city, a point
 
 - <div>
 
-  ` `<span id="/s:7heresdk8GeoPlaceV8locationAA15LocationDetailsVSgvp"></span>` `<span id="//apple_ref/swift/Property/location" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-geoplace#/s:7heresdk8GeoPlaceV8locationAA15LocationDetailsVSgvp" class="token"><code>location</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk8GeoPlaceV8locationAA15LocationDetailsVSgvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-location" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-geoplace#sdk-for-ios-explore-s-7heresdk8GeoPlaceV8locationAA15LocationDetailsVSgvp" class="token"><code>location</code></a> 
 
   </div>
 
@@ -283,6 +299,10 @@ GeoPlace struct represents a location object: such as a country, a city, a point
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-locationdetails">LocationDetails</a>
+
   </div>
 
   </div>
@@ -291,7 +311,7 @@ GeoPlace struct represents a location object: such as a country, a city, a point
 
 - <div>
 
-  ` `<span id="/s:7heresdk8GeoPlaceV8businessAA15BusinessDetailsVvp"></span>` `<span id="//apple_ref/swift/Property/business" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-geoplace#/s:7heresdk8GeoPlaceV8businessAA15BusinessDetailsVvp" class="token"><code>business</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk8GeoPlaceV8businessAA15BusinessDetailsVvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-business" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-geoplace#sdk-for-ios-explore-s-7heresdk8GeoPlaceV8businessAA15BusinessDetailsVvp" class="token"><code>business</code></a> 
 
   </div>
 
@@ -327,6 +347,10 @@ GeoPlace struct represents a location object: such as a country, a city, a point
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-businessdetails">BusinessDetails</a>
+
   </div>
 
   </div>
@@ -335,7 +359,7 @@ GeoPlace struct represents a location object: such as a country, a city, a point
 
 - <div>
 
-  ` `<span id="/s:7heresdk8GeoPlaceV3webAA10WebDetailsVvp"></span>` `<span id="//apple_ref/swift/Property/web" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-structs-geoplace#/s:7heresdk8GeoPlaceV3webAA10WebDetailsVvp" class="token"><code>web</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk8GeoPlaceV3webAA10WebDetailsVvp"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Property-web" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-geoplace#sdk-for-ios-explore-s-7heresdk8GeoPlaceV3webAA10WebDetailsVvp" class="token"><code>web</code></a> 
 
   </div>
 
@@ -371,6 +395,10 @@ GeoPlace struct represents a location object: such as a country, a city, a point
 
   </div>
 
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-webdetails">WebDetails</a>
+
   </div>
 
   </div>
@@ -379,7 +407,7 @@ GeoPlace struct represents a location object: such as a country, a city, a point
 
 - <div>
 
-      init(title: externalIDs: type: categories: address: location: business: web: )
+   <span id="sdk-for-ios-explore-s-7heresdk8GeoPlaceV5title11externalIDs4type10categories7address8location8business3webACSS_SayAA10ExternalIDVGAA0C4TypeOSayAA0C8CategoryCGAA7AddressVAA15LocationDetailsVSgAA08BusinessS0VAA03WebS0Vtcfc"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-init-title-externalIDs-type-categories-address-location-business-web" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-geoplace#sdk-for-ios-explore-s-7heresdk8GeoPlaceV5title11externalIDs4type10categories7address8location8business3webACSS_SayAA10ExternalIDVGAA0C4TypeOSayAA0C8CategoryCGAA7AddressVAA15LocationDetailsVSgAA08BusinessS0VAA03WebS0Vtcfc" class="token"><code>init(title:</code><wbr></wbr><code>externalIDs:</code><wbr></wbr><code>type:</code><wbr></wbr><code>categories:</code><wbr></wbr><code>address:</code><wbr></wbr><code>location:</code><wbr></wbr><code>business:</code><wbr></wbr><code>web:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -410,12 +438,20 @@ GeoPlace struct represents a location object: such as a country, a city, a point
   Swift
 
   ``` highlight
-  public init ( title : String = "" , externalIDs : [ ExternalID ] = [], type : PlaceType = PlaceType . unknown , categories : [ PlaceCategory ] = [], address : Address = Address (), location : LocationDetails ? = nil , business : BusinessDetails = BusinessDetails (), web : WebDetails = WebDetails ())
+  public init(title: String = "", externalIDs: [ExternalID] = [], type: PlaceType = PlaceType.unknown, categories: [PlaceCategory] = [], address: Address = Address(), location: LocationDetails? = nil, business: BusinessDetails = BusinessDetails(), web: WebDetails = WebDetails())
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-externalid">ExternalID</a>
+  - <a href="sdk-for-ios-explore-enums-placetype">PlaceType</a>
+  - <a href="sdk-for-ios-explore-classes-placecategory">PlaceCategory</a>
+  - <a href="sdk-for-ios-explore-structs-address">Address</a>
+  - <a href="sdk-for-ios-explore-structs-locationdetails">LocationDetails</a>
+  - <a href="sdk-for-ios-explore-structs-businessdetails">BusinessDetails</a>
+  - <a href="sdk-for-ios-explore-structs-webdetails">WebDetails</a>
 
   </div>
 
@@ -425,7 +461,7 @@ GeoPlace struct represents a location object: such as a country, a city, a point
 
 - <div>
 
-      makeMyPlace(title: coordinates: )
+   <span id="sdk-for-ios-explore-s-7heresdk8GeoPlaceV06makeMyC05title11coordinatesACSS_AA0B11CoordinatesVtFZ"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-makeMyPlace-title-coordinates" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-geoplace#sdk-for-ios-explore-s-7heresdk8GeoPlaceV06makeMyC05title11coordinatesACSS_AA0B11CoordinatesVtFZ" class="token"><code>makeMyPlace(title:</code><wbr></wbr><code>coordinates:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -456,12 +492,14 @@ GeoPlace struct represents a location object: such as a country, a city, a point
   Swift
 
   ``` highlight
-  public static func makeMyPlace ( title : String , coordinates : GeoCoordinates ) -> GeoPlace
+  public static func makeMyPlace(title: String, coordinates: GeoCoordinates) -> GeoPlace
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-structs-geocoordinates">GeoCoordinates</a>
 
   </div>
 
@@ -506,7 +544,7 @@ GeoPlace struct represents a location object: such as a country, a city, a point
 
 - <div>
 
-      getID()
+   <span id="sdk-for-ios-explore-s-7heresdk8GeoPlaceV5getIDSSyF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-getID" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-geoplace#sdk-for-ios-explore-s-7heresdk8GeoPlaceV5getIDSSyF" class="token"><code>getID()</code></a> 
 
   </div>
 
@@ -537,10 +575,8 @@ GeoPlace struct represents a location object: such as a country, a city, a point
   Swift
 
   ``` highlight
-  public func getID () -> String
+  public func getID() -> String
   ```
-
-  </pre>
 
   </div>
 
@@ -560,7 +596,7 @@ GeoPlace struct represents a location object: such as a country, a city, a point
 
 - <div>
 
-      isMyPlace()
+   <span id="sdk-for-ios-explore-s-7heresdk8GeoPlaceV04isMyC0SbyF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-isMyPlace" class="dashAnchor"></span> <a href="sdk-for-ios-explore-structs-geoplace#sdk-for-ios-explore-s-7heresdk8GeoPlaceV04isMyC0SbyF" class="token"><code>isMyPlace()</code></a> 
 
   </div>
 
@@ -591,10 +627,8 @@ GeoPlace struct represents a location object: such as a country, a city, a point
   Swift
 
   ``` highlight
-  public func isMyPlace () -> Bool
+  public func isMyPlace() -> Bool
   ```
-
-  </pre>
 
   </div>
 

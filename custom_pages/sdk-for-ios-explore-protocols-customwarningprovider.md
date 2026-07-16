@@ -29,7 +29,7 @@ A protocol representing a provider of custom warnings based on vehicle position.
 
 - <div>
 
-      getCustomWarningType()
+   <span id="sdk-for-ios-explore-s-7heresdk21CustomWarningProviderP03getbC4Types5Int32VyF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-getCustomWarningType" class="dashAnchor"></span> <a href="sdk-for-ios-explore-protocols-customwarningprovider#sdk-for-ios-explore-s-7heresdk21CustomWarningProviderP03getbC4Types5Int32VyF" class="token"><code>getCustomWarningType()</code></a> 
 
   </div>
 
@@ -49,7 +49,7 @@ A protocol representing a provider of custom warnings based on vehicle position.
 
   Returns the custom warning type identifier produced by this provider.
 
-  The returned value corresponds to <a href="sdk-for-ios-explore-structs-customwarning#/s:7heresdk13CustomWarningV06customC4Types5Int32Vvp">`CustomWarning.customWarningType`</a> and <a href="sdk-for-ios-explore-structs-warning#/s:7heresdk7WarningV06customB4Types5Int32VSgvp">`Warning.customWarningType`</a> and is used to apply per-type configuration, such as notification distances.
+  The returned value corresponds to <a href="sdk-for-ios-explore-structs-customwarning#sdk-for-ios-explore-s-7heresdk13CustomWarningV06customC4Types5Int32Vvp">`CustomWarning.customWarningType`</a> and <a href="sdk-for-ios-explore-structs-warning#sdk-for-ios-explore-s-7heresdk7WarningV06customB4Types5Int32VSgvp">`Warning.customWarningType`</a> and is used to apply per-type configuration, such as notification distances.
 
   </div>
 
@@ -62,10 +62,8 @@ A protocol representing a provider of custom warnings based on vehicle position.
   Swift
 
   ``` highlight
-  func getCustomWarningType () -> Int32
+  func getCustomWarningType() -> Int32
   ```
-
-  </pre>
 
   </div>
 
@@ -85,7 +83,7 @@ A protocol representing a provider of custom warnings based on vehicle position.
 
 - <div>
 
-      getWarnings(currentSegment: previousSegment: )
+   <span id="sdk-for-ios-explore-s-7heresdk21CustomWarningProviderP11getWarnings14currentSegment08previousH0SayAA0bC0VGAA0H4DataC_AKSgtF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-getWarnings-currentSegment-previousSegment" class="dashAnchor"></span> <a href="sdk-for-ios-explore-protocols-customwarningprovider#sdk-for-ios-explore-s-7heresdk21CustomWarningProviderP11getWarnings14currentSegment08previousH0SayAA0bC0VGAA0H4DataC_AKSgtF" class="token"><code>getWarnings(currentSegment:</code><wbr></wbr><code>previousSegment:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -118,12 +116,15 @@ A protocol representing a provider of custom warnings based on vehicle position.
   Swift
 
   ``` highlight
-  func getWarnings ( currentSegment : SegmentData , previousSegment : SegmentData ?) -> [ CustomWarning ]
+  func getWarnings(currentSegment: SegmentData, previousSegment: SegmentData?) -> [CustomWarning]
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-segmentdata">SegmentData</a>
+  - <a href="sdk-for-ios-explore-structs-customwarning">CustomWarning</a>
 
   </div>
 

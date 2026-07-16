@@ -25,7 +25,7 @@ extension SDKCache: Hashable
 
 </div>
 
-A class to manage SDK Cache. Path for SDKCache is specified via <a href="sdk-for-ios-explore-structs-sdkoptions#/s:7heresdk10SDKOptionsV9cachePathSSvp">`SDKOptions.cachePath`</a>. SDKCache manages temporary downloaded map data during map interaction and follows LRU (least recently used) strategy to delete map data when cache size exceeds the specified <a href="sdk-for-ios-explore-structs-sdkoptions#/s:7heresdk10SDKOptionsV16cacheSizeInBytess5Int64Vvp">`SDKOptions.cacheSizeInBytes`</a>.
+A class to manage SDK Cache. Path for SDKCache is specified via <a href="sdk-for-ios-explore-structs-sdkoptions#sdk-for-ios-explore-s-7heresdk10SDKOptionsV9cachePathSSvp">`SDKOptions.cachePath`</a>. SDKCache manages temporary downloaded map data during map interaction and follows LRU (least recently used) strategy to delete map data when cache size exceeds the specified <a href="sdk-for-ios-explore-structs-sdkoptions#sdk-for-ios-explore-s-7heresdk10SDKOptionsV16cacheSizeInBytess5Int64Vvp">`SDKOptions.cacheSizeInBytes`</a>.
 
 </div>
 
@@ -35,7 +35,7 @@ A class to manage SDK Cache. Path for SDKCache is specified via <a href="sdk-for
 
 - <div>
 
-      fromEngine(_: )
+   <span id="sdk-for-ios-explore-s-7heresdk8SDKCacheC10fromEngineyAcA09SDKNativeD0CFZ"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-fromEngine-_" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-sdkcache#sdk-for-ios-explore-s-7heresdk8SDKCacheC10fromEngineyAcA09SDKNativeD0CFZ" class="token"><code>fromEngine(_:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -66,12 +66,14 @@ A class to manage SDK Cache. Path for SDKCache is specified via <a href="sdk-for
   Swift
 
   ``` highlight
-  public static func fromEngine ( _ sdkEngine : SDKNativeEngine ) -> SDKCache
+  public static func fromEngine(_ sdkEngine: SDKNativeEngine) -> SDKCache
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-classes-sdknativeengine">SDKNativeEngine</a>
 
   </div>
 
@@ -110,7 +112,7 @@ A class to manage SDK Cache. Path for SDKCache is specified via <a href="sdk-for
 
 - <div>
 
-      clearCache(completion: )
+   <span id="sdk-for-ios-explore-s-7heresdk8SDKCacheC10clearCache10completionyyAA14MapLoaderErrorOSgc_tF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Method-clearCache-completion" class="dashAnchor"></span> <a href="sdk-for-ios-explore-classes-sdkcache#sdk-for-ios-explore-s-7heresdk8SDKCacheC10clearCache10completionyyAA14MapLoaderErrorOSgc_tF" class="token"><code>clearCache(completion:</code><wbr></wbr><code>)</code></a> 
 
   </div>
 
@@ -128,7 +130,7 @@ A class to manage SDK Cache. Path for SDKCache is specified via <a href="sdk-for
 
   <div class="abstract">
 
-  Clears all data that is currently stored in the SDK cache. Path for cache is specified by <a href="sdk-for-ios-explore-structs-sdkoptions#/s:7heresdk10SDKOptionsV9cachePathSSvp">`SDKOptions.cachePath`</a>. The operation can have unexpected behaviour when it is called during a map interaction, during turn-by-turn navigation (only available for the Navigate license) or during ongoing requests initiated by the OfflineSearchEngine or the OfflineRouteEngine (only available for the Navigate license).
+  Clears all data that is currently stored in the SDK cache. Path for cache is specified by <a href="sdk-for-ios-explore-structs-sdkoptions#sdk-for-ios-explore-s-7heresdk10SDKOptionsV9cachePathSSvp">`SDKOptions.cachePath`</a>. The operation can have unexpected behaviour when it is called during a map interaction, during turn-by-turn navigation (only available for the Navigate license) or during ongoing requests initiated by the OfflineSearchEngine or the OfflineRouteEngine (only available for the Navigate license).
 
   </div>
 
@@ -141,12 +143,14 @@ A class to manage SDK Cache. Path for SDKCache is specified via <a href="sdk-for
   Swift
 
   ``` highlight
-  public func clearCache ( completion : @escaping CacheCallbackCompletionHandler )
+  public func clearCache(completion: @escaping CacheCallbackCompletionHandler)
   ```
 
-  </pre>
-
   </div>
+
+  Related types:
+
+  - <a href="sdk-for-ios-explore-core#sdk-for-ios-explore-s-7heresdk30CacheCallbackCompletionHandlera">CacheCallbackCompletionHandler</a>
 
   </div>
 

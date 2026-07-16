@@ -27,7 +27,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3abwyA2CmF"></span>` `<span id="//apple_ref/swift/Element/abw" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3abwyA2CmF" class="token"><code>abw</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3abwyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-abw" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3abwyA2CmF" class="token"><code>abw</code></a> 
 
   </div>
 
@@ -71,7 +71,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3afgyA2CmF"></span>` `<span id="//apple_ref/swift/Element/afg" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3afgyA2CmF" class="token"><code>afg</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3afgyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-afg" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3afgyA2CmF" class="token"><code>afg</code></a> 
 
   </div>
 
@@ -115,7 +115,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3agoyA2CmF"></span>` `<span id="//apple_ref/swift/Element/ago" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3agoyA2CmF" class="token"><code>ago</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3agoyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-ago" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3agoyA2CmF" class="token"><code>ago</code></a> 
 
   </div>
 
@@ -159,7 +159,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3aiayA2CmF"></span>` `<span id="//apple_ref/swift/Element/aia" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3aiayA2CmF" class="token"><code>aia</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3aiayA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-aia" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3aiayA2CmF" class="token"><code>aia</code></a> 
 
   </div>
 
@@ -203,7 +203,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3albyA2CmF"></span>` `<span id="//apple_ref/swift/Element/alb" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3albyA2CmF" class="token"><code>alb</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3albyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-alb" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3albyA2CmF" class="token"><code>alb</code></a> 
 
   </div>
 
@@ -247,7 +247,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3andyA2CmF"></span>` `<span id="//apple_ref/swift/Element/and" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3andyA2CmF" class="token"><code>and</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3andyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-and" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3andyA2CmF" class="token"><code>and</code></a> 
 
   </div>
 
@@ -291,7 +291,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3areyA2CmF"></span>` `<span id="//apple_ref/swift/Element/are" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3areyA2CmF" class="token"><code>are</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3areyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-are" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3areyA2CmF" class="token"><code>are</code></a> 
 
   </div>
 
@@ -335,7 +335,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3argyA2CmF"></span>` `<span id="//apple_ref/swift/Element/arg" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3argyA2CmF" class="token"><code>arg</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3argyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-arg" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3argyA2CmF" class="token"><code>arg</code></a> 
 
   </div>
 
@@ -379,7 +379,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3armyA2CmF"></span>` `<span id="//apple_ref/swift/Element/arm" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3armyA2CmF" class="token"><code>arm</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3armyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-arm" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3armyA2CmF" class="token"><code>arm</code></a> 
 
   </div>
 
@@ -423,7 +423,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3asmyA2CmF"></span>` `<span id="//apple_ref/swift/Element/asm" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3asmyA2CmF" class="token"><code>asm</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3asmyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-asm" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3asmyA2CmF" class="token"><code>asm</code></a> 
 
   </div>
 
@@ -467,7 +467,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3atayA2CmF"></span>` `<span id="//apple_ref/swift/Element/ata" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3atayA2CmF" class="token"><code>ata</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3atayA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-ata" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3atayA2CmF" class="token"><code>ata</code></a> 
 
   </div>
 
@@ -511,7 +511,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3atgyA2CmF"></span>` `<span id="//apple_ref/swift/Element/atg" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3atgyA2CmF" class="token"><code>atg</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3atgyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-atg" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3atgyA2CmF" class="token"><code>atg</code></a> 
 
   </div>
 
@@ -555,7 +555,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3ausyA2CmF"></span>` `<span id="//apple_ref/swift/Element/aus" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3ausyA2CmF" class="token"><code>aus</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3ausyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-aus" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3ausyA2CmF" class="token"><code>aus</code></a> 
 
   </div>
 
@@ -599,7 +599,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3autyA2CmF"></span>` `<span id="//apple_ref/swift/Element/aut" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3autyA2CmF" class="token"><code>aut</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3autyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-aut" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3autyA2CmF" class="token"><code>aut</code></a> 
 
   </div>
 
@@ -643,7 +643,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3azeyA2CmF"></span>` `<span id="//apple_ref/swift/Element/aze" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3azeyA2CmF" class="token"><code>aze</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3azeyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-aze" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3azeyA2CmF" class="token"><code>aze</code></a> 
 
   </div>
 
@@ -687,7 +687,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3bdiyA2CmF"></span>` `<span id="//apple_ref/swift/Element/bdi" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3bdiyA2CmF" class="token"><code>bdi</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3bdiyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-bdi" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3bdiyA2CmF" class="token"><code>bdi</code></a> 
 
   </div>
 
@@ -731,7 +731,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3belyA2CmF"></span>` `<span id="//apple_ref/swift/Element/bel" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3belyA2CmF" class="token"><code>bel</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3belyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-bel" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3belyA2CmF" class="token"><code>bel</code></a> 
 
   </div>
 
@@ -775,7 +775,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3benyA2CmF"></span>` `<span id="//apple_ref/swift/Element/ben" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3benyA2CmF" class="token"><code>ben</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3benyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-ben" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3benyA2CmF" class="token"><code>ben</code></a> 
 
   </div>
 
@@ -819,7 +819,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3besyA2CmF"></span>` `<span id="//apple_ref/swift/Element/bes" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3besyA2CmF" class="token"><code>bes</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3besyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-bes" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3besyA2CmF" class="token"><code>bes</code></a> 
 
   </div>
 
@@ -863,7 +863,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3bfayA2CmF"></span>` `<span id="//apple_ref/swift/Element/bfa" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3bfayA2CmF" class="token"><code>bfa</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3bfayA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-bfa" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3bfayA2CmF" class="token"><code>bfa</code></a> 
 
   </div>
 
@@ -907,7 +907,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3bgdyA2CmF"></span>` `<span id="//apple_ref/swift/Element/bgd" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3bgdyA2CmF" class="token"><code>bgd</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3bgdyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-bgd" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3bgdyA2CmF" class="token"><code>bgd</code></a> 
 
   </div>
 
@@ -951,7 +951,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3bgryA2CmF"></span>` `<span id="//apple_ref/swift/Element/bgr" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3bgryA2CmF" class="token"><code>bgr</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3bgryA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-bgr" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3bgryA2CmF" class="token"><code>bgr</code></a> 
 
   </div>
 
@@ -995,7 +995,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3bhryA2CmF"></span>` `<span id="//apple_ref/swift/Element/bhr" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3bhryA2CmF" class="token"><code>bhr</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3bhryA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-bhr" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3bhryA2CmF" class="token"><code>bhr</code></a> 
 
   </div>
 
@@ -1039,7 +1039,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3bhsyA2CmF"></span>` `<span id="//apple_ref/swift/Element/bhs" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3bhsyA2CmF" class="token"><code>bhs</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3bhsyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-bhs" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3bhsyA2CmF" class="token"><code>bhs</code></a> 
 
   </div>
 
@@ -1083,7 +1083,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3bihyA2CmF"></span>` `<span id="//apple_ref/swift/Element/bih" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3bihyA2CmF" class="token"><code>bih</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3bihyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-bih" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3bihyA2CmF" class="token"><code>bih</code></a> 
 
   </div>
 
@@ -1127,7 +1127,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3blmyA2CmF"></span>` `<span id="//apple_ref/swift/Element/blm" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3blmyA2CmF" class="token"><code>blm</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3blmyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-blm" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3blmyA2CmF" class="token"><code>blm</code></a> 
 
   </div>
 
@@ -1171,7 +1171,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3blryA2CmF"></span>` `<span id="//apple_ref/swift/Element/blr" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3blryA2CmF" class="token"><code>blr</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3blryA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-blr" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3blryA2CmF" class="token"><code>blr</code></a> 
 
   </div>
 
@@ -1215,7 +1215,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3blzyA2CmF"></span>` `<span id="//apple_ref/swift/Element/blz" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3blzyA2CmF" class="token"><code>blz</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3blzyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-blz" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3blzyA2CmF" class="token"><code>blz</code></a> 
 
   </div>
 
@@ -1259,7 +1259,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3bmuyA2CmF"></span>` `<span id="//apple_ref/swift/Element/bmu" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3bmuyA2CmF" class="token"><code>bmu</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3bmuyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-bmu" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3bmuyA2CmF" class="token"><code>bmu</code></a> 
 
   </div>
 
@@ -1303,7 +1303,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3bolyA2CmF"></span>` `<span id="//apple_ref/swift/Element/bol" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3bolyA2CmF" class="token"><code>bol</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3bolyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-bol" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3bolyA2CmF" class="token"><code>bol</code></a> 
 
   </div>
 
@@ -1347,7 +1347,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3brayA2CmF"></span>` `<span id="//apple_ref/swift/Element/bra" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3brayA2CmF" class="token"><code>bra</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3brayA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-bra" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3brayA2CmF" class="token"><code>bra</code></a> 
 
   </div>
 
@@ -1391,7 +1391,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3brbyA2CmF"></span>` `<span id="//apple_ref/swift/Element/brb" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3brbyA2CmF" class="token"><code>brb</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3brbyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-brb" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3brbyA2CmF" class="token"><code>brb</code></a> 
 
   </div>
 
@@ -1435,7 +1435,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3brnyA2CmF"></span>` `<span id="//apple_ref/swift/Element/brn" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3brnyA2CmF" class="token"><code>brn</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3brnyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-brn" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3brnyA2CmF" class="token"><code>brn</code></a> 
 
   </div>
 
@@ -1479,7 +1479,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3btnyA2CmF"></span>` `<span id="//apple_ref/swift/Element/btn" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3btnyA2CmF" class="token"><code>btn</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3btnyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-btn" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3btnyA2CmF" class="token"><code>btn</code></a> 
 
   </div>
 
@@ -1523,7 +1523,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3bwayA2CmF"></span>` `<span id="//apple_ref/swift/Element/bwa" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3bwayA2CmF" class="token"><code>bwa</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3bwayA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-bwa" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3bwayA2CmF" class="token"><code>bwa</code></a> 
 
   </div>
 
@@ -1567,7 +1567,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3cafyA2CmF"></span>` `<span id="//apple_ref/swift/Element/caf" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3cafyA2CmF" class="token"><code>caf</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3cafyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-caf" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3cafyA2CmF" class="token"><code>caf</code></a> 
 
   </div>
 
@@ -1611,7 +1611,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3canyA2CmF"></span>` `<span id="//apple_ref/swift/Element/can" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3canyA2CmF" class="token"><code>can</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3canyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-can" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3canyA2CmF" class="token"><code>can</code></a> 
 
   </div>
 
@@ -1655,7 +1655,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3cckyA2CmF"></span>` `<span id="//apple_ref/swift/Element/cck" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3cckyA2CmF" class="token"><code>cck</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3cckyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-cck" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3cckyA2CmF" class="token"><code>cck</code></a> 
 
   </div>
 
@@ -1699,7 +1699,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3cheyA2CmF"></span>` `<span id="//apple_ref/swift/Element/che" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3cheyA2CmF" class="token"><code>che</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3cheyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-che" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3cheyA2CmF" class="token"><code>che</code></a> 
 
   </div>
 
@@ -1743,7 +1743,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3chlyA2CmF"></span>` `<span id="//apple_ref/swift/Element/chl" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3chlyA2CmF" class="token"><code>chl</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3chlyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-chl" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3chlyA2CmF" class="token"><code>chl</code></a> 
 
   </div>
 
@@ -1787,7 +1787,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3chnyA2CmF"></span>` `<span id="//apple_ref/swift/Element/chn" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3chnyA2CmF" class="token"><code>chn</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3chnyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-chn" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3chnyA2CmF" class="token"><code>chn</code></a> 
 
   </div>
 
@@ -1831,7 +1831,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3civyA2CmF"></span>` `<span id="//apple_ref/swift/Element/civ" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3civyA2CmF" class="token"><code>civ</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3civyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-civ" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3civyA2CmF" class="token"><code>civ</code></a> 
 
   </div>
 
@@ -1875,7 +1875,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3cmryA2CmF"></span>` `<span id="//apple_ref/swift/Element/cmr" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3cmryA2CmF" class="token"><code>cmr</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3cmryA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-cmr" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3cmryA2CmF" class="token"><code>cmr</code></a> 
 
   </div>
 
@@ -1919,7 +1919,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3codyA2CmF"></span>` `<span id="//apple_ref/swift/Element/cod" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3codyA2CmF" class="token"><code>cod</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3codyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-cod" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3codyA2CmF" class="token"><code>cod</code></a> 
 
   </div>
 
@@ -1963,7 +1963,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3cogyA2CmF"></span>` `<span id="//apple_ref/swift/Element/cog" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3cogyA2CmF" class="token"><code>cog</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3cogyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-cog" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3cogyA2CmF" class="token"><code>cog</code></a> 
 
   </div>
 
@@ -2007,7 +2007,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3cokyA2CmF"></span>` `<span id="//apple_ref/swift/Element/cok" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3cokyA2CmF" class="token"><code>cok</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3cokyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-cok" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3cokyA2CmF" class="token"><code>cok</code></a> 
 
   </div>
 
@@ -2051,7 +2051,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3colyA2CmF"></span>` `<span id="//apple_ref/swift/Element/col" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3colyA2CmF" class="token"><code>col</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3colyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-col" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3colyA2CmF" class="token"><code>col</code></a> 
 
   </div>
 
@@ -2095,7 +2095,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3comyA2CmF"></span>` `<span id="//apple_ref/swift/Element/com" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3comyA2CmF" class="token"><code>com</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3comyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-com" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3comyA2CmF" class="token"><code>com</code></a> 
 
   </div>
 
@@ -2139,7 +2139,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3cpvyA2CmF"></span>` `<span id="//apple_ref/swift/Element/cpv" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3cpvyA2CmF" class="token"><code>cpv</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3cpvyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-cpv" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3cpvyA2CmF" class="token"><code>cpv</code></a> 
 
   </div>
 
@@ -2183,7 +2183,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3criyA2CmF"></span>` `<span id="//apple_ref/swift/Element/cri" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3criyA2CmF" class="token"><code>cri</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3criyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-cri" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3criyA2CmF" class="token"><code>cri</code></a> 
 
   </div>
 
@@ -2227,7 +2227,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3cubyA2CmF"></span>` `<span id="//apple_ref/swift/Element/cub" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3cubyA2CmF" class="token"><code>cub</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3cubyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-cub" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3cubyA2CmF" class="token"><code>cub</code></a> 
 
   </div>
 
@@ -2271,7 +2271,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3cuwyA2CmF"></span>` `<span id="//apple_ref/swift/Element/cuw" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3cuwyA2CmF" class="token"><code>cuw</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3cuwyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-cuw" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3cuwyA2CmF" class="token"><code>cuw</code></a> 
 
   </div>
 
@@ -2315,7 +2315,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3cxryA2CmF"></span>` `<span id="//apple_ref/swift/Element/cxr" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3cxryA2CmF" class="token"><code>cxr</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3cxryA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-cxr" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3cxryA2CmF" class="token"><code>cxr</code></a> 
 
   </div>
 
@@ -2359,7 +2359,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3cymyA2CmF"></span>` `<span id="//apple_ref/swift/Element/cym" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3cymyA2CmF" class="token"><code>cym</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3cymyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-cym" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3cymyA2CmF" class="token"><code>cym</code></a> 
 
   </div>
 
@@ -2403,7 +2403,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3cypyA2CmF"></span>` `<span id="//apple_ref/swift/Element/cyp" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3cypyA2CmF" class="token"><code>cyp</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3cypyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-cyp" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3cypyA2CmF" class="token"><code>cyp</code></a> 
 
   </div>
 
@@ -2447,7 +2447,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3czeyA2CmF"></span>` `<span id="//apple_ref/swift/Element/cze" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3czeyA2CmF" class="token"><code>cze</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3czeyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-cze" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3czeyA2CmF" class="token"><code>cze</code></a> 
 
   </div>
 
@@ -2491,7 +2491,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3deuyA2CmF"></span>` `<span id="//apple_ref/swift/Element/deu" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3deuyA2CmF" class="token"><code>deu</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3deuyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-deu" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3deuyA2CmF" class="token"><code>deu</code></a> 
 
   </div>
 
@@ -2535,7 +2535,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3djiyA2CmF"></span>` `<span id="//apple_ref/swift/Element/dji" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3djiyA2CmF" class="token"><code>dji</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3djiyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-dji" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3djiyA2CmF" class="token"><code>dji</code></a> 
 
   </div>
 
@@ -2579,7 +2579,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3dmayA2CmF"></span>` `<span id="//apple_ref/swift/Element/dma" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3dmayA2CmF" class="token"><code>dma</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3dmayA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-dma" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3dmayA2CmF" class="token"><code>dma</code></a> 
 
   </div>
 
@@ -2623,7 +2623,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3dnkyA2CmF"></span>` `<span id="//apple_ref/swift/Element/dnk" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3dnkyA2CmF" class="token"><code>dnk</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3dnkyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-dnk" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3dnkyA2CmF" class="token"><code>dnk</code></a> 
 
   </div>
 
@@ -2667,7 +2667,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3domyA2CmF"></span>` `<span id="//apple_ref/swift/Element/dom" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3domyA2CmF" class="token"><code>dom</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3domyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-dom" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3domyA2CmF" class="token"><code>dom</code></a> 
 
   </div>
 
@@ -2711,7 +2711,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3dzayA2CmF"></span>` `<span id="//apple_ref/swift/Element/dza" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3dzayA2CmF" class="token"><code>dza</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3dzayA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-dza" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3dzayA2CmF" class="token"><code>dza</code></a> 
 
   </div>
 
@@ -2755,7 +2755,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3ecuyA2CmF"></span>` `<span id="//apple_ref/swift/Element/ecu" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3ecuyA2CmF" class="token"><code>ecu</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3ecuyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-ecu" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3ecuyA2CmF" class="token"><code>ecu</code></a> 
 
   </div>
 
@@ -2799,7 +2799,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3egyyA2CmF"></span>` `<span id="//apple_ref/swift/Element/egy" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3egyyA2CmF" class="token"><code>egy</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3egyyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-egy" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3egyyA2CmF" class="token"><code>egy</code></a> 
 
   </div>
 
@@ -2843,7 +2843,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3eriyA2CmF"></span>` `<span id="//apple_ref/swift/Element/eri" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3eriyA2CmF" class="token"><code>eri</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3eriyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-eri" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3eriyA2CmF" class="token"><code>eri</code></a> 
 
   </div>
 
@@ -2887,7 +2887,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3eshyA2CmF"></span>` `<span id="//apple_ref/swift/Element/esh" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3eshyA2CmF" class="token"><code>esh</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3eshyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-esh" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3eshyA2CmF" class="token"><code>esh</code></a> 
 
   </div>
 
@@ -2931,7 +2931,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3espyA2CmF"></span>` `<span id="//apple_ref/swift/Element/esp" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3espyA2CmF" class="token"><code>esp</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3espyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-esp" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3espyA2CmF" class="token"><code>esp</code></a> 
 
   </div>
 
@@ -2975,7 +2975,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3estyA2CmF"></span>` `<span id="//apple_ref/swift/Element/est" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3estyA2CmF" class="token"><code>est</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3estyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-est" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3estyA2CmF" class="token"><code>est</code></a> 
 
   </div>
 
@@ -3019,7 +3019,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3ethyA2CmF"></span>` `<span id="//apple_ref/swift/Element/eth" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3ethyA2CmF" class="token"><code>eth</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3ethyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-eth" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3ethyA2CmF" class="token"><code>eth</code></a> 
 
   </div>
 
@@ -3063,7 +3063,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3finyA2CmF"></span>` `<span id="//apple_ref/swift/Element/fin" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3finyA2CmF" class="token"><code>fin</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3finyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-fin" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3finyA2CmF" class="token"><code>fin</code></a> 
 
   </div>
 
@@ -3107,7 +3107,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3fjiyA2CmF"></span>` `<span id="//apple_ref/swift/Element/fji" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3fjiyA2CmF" class="token"><code>fji</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3fjiyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-fji" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3fjiyA2CmF" class="token"><code>fji</code></a> 
 
   </div>
 
@@ -3151,7 +3151,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3flkyA2CmF"></span>` `<span id="//apple_ref/swift/Element/flk" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3flkyA2CmF" class="token"><code>flk</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3flkyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-flk" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3flkyA2CmF" class="token"><code>flk</code></a> 
 
   </div>
 
@@ -3195,7 +3195,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3frayA2CmF"></span>` `<span id="//apple_ref/swift/Element/fra" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3frayA2CmF" class="token"><code>fra</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3frayA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-fra" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3frayA2CmF" class="token"><code>fra</code></a> 
 
   </div>
 
@@ -3239,7 +3239,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3froyA2CmF"></span>` `<span id="//apple_ref/swift/Element/fro" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3froyA2CmF" class="token"><code>fro</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3froyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-fro" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3froyA2CmF" class="token"><code>fro</code></a> 
 
   </div>
 
@@ -3283,7 +3283,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3fsmyA2CmF"></span>` `<span id="//apple_ref/swift/Element/fsm" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3fsmyA2CmF" class="token"><code>fsm</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3fsmyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-fsm" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3fsmyA2CmF" class="token"><code>fsm</code></a> 
 
   </div>
 
@@ -3327,7 +3327,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3gabyA2CmF"></span>` `<span id="//apple_ref/swift/Element/gab" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3gabyA2CmF" class="token"><code>gab</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3gabyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-gab" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3gabyA2CmF" class="token"><code>gab</code></a> 
 
   </div>
 
@@ -3371,7 +3371,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3gbryA2CmF"></span>` `<span id="//apple_ref/swift/Element/gbr" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3gbryA2CmF" class="token"><code>gbr</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3gbryA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-gbr" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3gbryA2CmF" class="token"><code>gbr</code></a> 
 
   </div>
 
@@ -3415,7 +3415,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3geoyA2CmF"></span>` `<span id="//apple_ref/swift/Element/geo" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3geoyA2CmF" class="token"><code>geo</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3geoyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-geo" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3geoyA2CmF" class="token"><code>geo</code></a> 
 
   </div>
 
@@ -3459,7 +3459,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3ghayA2CmF"></span>` `<span id="//apple_ref/swift/Element/gha" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3ghayA2CmF" class="token"><code>gha</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3ghayA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-gha" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3ghayA2CmF" class="token"><code>gha</code></a> 
 
   </div>
 
@@ -3503,7 +3503,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3gibyA2CmF"></span>` `<span id="//apple_ref/swift/Element/gib" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3gibyA2CmF" class="token"><code>gib</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3gibyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-gib" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3gibyA2CmF" class="token"><code>gib</code></a> 
 
   </div>
 
@@ -3547,7 +3547,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3ginyA2CmF"></span>` `<span id="//apple_ref/swift/Element/gin" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3ginyA2CmF" class="token"><code>gin</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3ginyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-gin" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3ginyA2CmF" class="token"><code>gin</code></a> 
 
   </div>
 
@@ -3591,7 +3591,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3glpyA2CmF"></span>` `<span id="//apple_ref/swift/Element/glp" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3glpyA2CmF" class="token"><code>glp</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3glpyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-glp" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3glpyA2CmF" class="token"><code>glp</code></a> 
 
   </div>
 
@@ -3635,7 +3635,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3gmbyA2CmF"></span>` `<span id="//apple_ref/swift/Element/gmb" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3gmbyA2CmF" class="token"><code>gmb</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3gmbyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-gmb" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3gmbyA2CmF" class="token"><code>gmb</code></a> 
 
   </div>
 
@@ -3679,7 +3679,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3gnbyA2CmF"></span>` `<span id="//apple_ref/swift/Element/gnb" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3gnbyA2CmF" class="token"><code>gnb</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3gnbyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-gnb" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3gnbyA2CmF" class="token"><code>gnb</code></a> 
 
   </div>
 
@@ -3723,7 +3723,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3gnqyA2CmF"></span>` `<span id="//apple_ref/swift/Element/gnq" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3gnqyA2CmF" class="token"><code>gnq</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3gnqyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-gnq" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3gnqyA2CmF" class="token"><code>gnq</code></a> 
 
   </div>
 
@@ -3767,7 +3767,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3grcyA2CmF"></span>` `<span id="//apple_ref/swift/Element/grc" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3grcyA2CmF" class="token"><code>grc</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3grcyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-grc" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3grcyA2CmF" class="token"><code>grc</code></a> 
 
   </div>
 
@@ -3811,7 +3811,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3grdyA2CmF"></span>` `<span id="//apple_ref/swift/Element/grd" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3grdyA2CmF" class="token"><code>grd</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3grdyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-grd" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3grdyA2CmF" class="token"><code>grd</code></a> 
 
   </div>
 
@@ -3855,7 +3855,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3grlyA2CmF"></span>` `<span id="//apple_ref/swift/Element/grl" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3grlyA2CmF" class="token"><code>grl</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3grlyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-grl" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3grlyA2CmF" class="token"><code>grl</code></a> 
 
   </div>
 
@@ -3899,7 +3899,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3gtmyA2CmF"></span>` `<span id="//apple_ref/swift/Element/gtm" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3gtmyA2CmF" class="token"><code>gtm</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3gtmyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-gtm" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3gtmyA2CmF" class="token"><code>gtm</code></a> 
 
   </div>
 
@@ -3943,7 +3943,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3gufyA2CmF"></span>` `<span id="//apple_ref/swift/Element/guf" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3gufyA2CmF" class="token"><code>guf</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3gufyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-guf" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3gufyA2CmF" class="token"><code>guf</code></a> 
 
   </div>
 
@@ -3987,7 +3987,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3gumyA2CmF"></span>` `<span id="//apple_ref/swift/Element/gum" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3gumyA2CmF" class="token"><code>gum</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3gumyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-gum" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3gumyA2CmF" class="token"><code>gum</code></a> 
 
   </div>
 
@@ -4031,7 +4031,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3guyyA2CmF"></span>` `<span id="//apple_ref/swift/Element/guy" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3guyyA2CmF" class="token"><code>guy</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3guyyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-guy" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3guyyA2CmF" class="token"><code>guy</code></a> 
 
   </div>
 
@@ -4075,7 +4075,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3hkgyA2CmF"></span>` `<span id="//apple_ref/swift/Element/hkg" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3hkgyA2CmF" class="token"><code>hkg</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3hkgyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-hkg" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3hkgyA2CmF" class="token"><code>hkg</code></a> 
 
   </div>
 
@@ -4119,7 +4119,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3hndyA2CmF"></span>` `<span id="//apple_ref/swift/Element/hnd" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3hndyA2CmF" class="token"><code>hnd</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3hndyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-hnd" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3hndyA2CmF" class="token"><code>hnd</code></a> 
 
   </div>
 
@@ -4163,7 +4163,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3hrvyA2CmF"></span>` `<span id="//apple_ref/swift/Element/hrv" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3hrvyA2CmF" class="token"><code>hrv</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3hrvyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-hrv" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3hrvyA2CmF" class="token"><code>hrv</code></a> 
 
   </div>
 
@@ -4207,7 +4207,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3htiyA2CmF"></span>` `<span id="//apple_ref/swift/Element/hti" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3htiyA2CmF" class="token"><code>hti</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3htiyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-hti" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3htiyA2CmF" class="token"><code>hti</code></a> 
 
   </div>
 
@@ -4251,7 +4251,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3hunyA2CmF"></span>` `<span id="//apple_ref/swift/Element/hun" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3hunyA2CmF" class="token"><code>hun</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3hunyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-hun" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3hunyA2CmF" class="token"><code>hun</code></a> 
 
   </div>
 
@@ -4295,7 +4295,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3idnyA2CmF"></span>` `<span id="//apple_ref/swift/Element/idn" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3idnyA2CmF" class="token"><code>idn</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3idnyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-idn" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3idnyA2CmF" class="token"><code>idn</code></a> 
 
   </div>
 
@@ -4339,7 +4339,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3imnyA2CmF"></span>` `<span id="//apple_ref/swift/Element/imn" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3imnyA2CmF" class="token"><code>imn</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3imnyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-imn" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3imnyA2CmF" class="token"><code>imn</code></a> 
 
   </div>
 
@@ -4383,7 +4383,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3indyA2CmF"></span>` `<span id="//apple_ref/swift/Element/ind" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3indyA2CmF" class="token"><code>ind</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3indyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-ind" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3indyA2CmF" class="token"><code>ind</code></a> 
 
   </div>
 
@@ -4427,7 +4427,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3iotyA2CmF"></span>` `<span id="//apple_ref/swift/Element/iot" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3iotyA2CmF" class="token"><code>iot</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3iotyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-iot" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3iotyA2CmF" class="token"><code>iot</code></a> 
 
   </div>
 
@@ -4471,7 +4471,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3irlyA2CmF"></span>` `<span id="//apple_ref/swift/Element/irl" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3irlyA2CmF" class="token"><code>irl</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3irlyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-irl" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3irlyA2CmF" class="token"><code>irl</code></a> 
 
   </div>
 
@@ -4515,7 +4515,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3irnyA2CmF"></span>` `<span id="//apple_ref/swift/Element/irn" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3irnyA2CmF" class="token"><code>irn</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3irnyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-irn" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3irnyA2CmF" class="token"><code>irn</code></a> 
 
   </div>
 
@@ -4559,7 +4559,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3irqyA2CmF"></span>` `<span id="//apple_ref/swift/Element/irq" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3irqyA2CmF" class="token"><code>irq</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3irqyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-irq" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3irqyA2CmF" class="token"><code>irq</code></a> 
 
   </div>
 
@@ -4603,7 +4603,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3islyA2CmF"></span>` `<span id="//apple_ref/swift/Element/isl" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3islyA2CmF" class="token"><code>isl</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3islyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-isl" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3islyA2CmF" class="token"><code>isl</code></a> 
 
   </div>
 
@@ -4647,7 +4647,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3isryA2CmF"></span>` `<span id="//apple_ref/swift/Element/isr" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3isryA2CmF" class="token"><code>isr</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3isryA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-isr" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3isryA2CmF" class="token"><code>isr</code></a> 
 
   </div>
 
@@ -4691,7 +4691,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3itayA2CmF"></span>` `<span id="//apple_ref/swift/Element/ita" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3itayA2CmF" class="token"><code>ita</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3itayA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-ita" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3itayA2CmF" class="token"><code>ita</code></a> 
 
   </div>
 
@@ -4735,7 +4735,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3jamyA2CmF"></span>` `<span id="//apple_ref/swift/Element/jam" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3jamyA2CmF" class="token"><code>jam</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3jamyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-jam" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3jamyA2CmF" class="token"><code>jam</code></a> 
 
   </div>
 
@@ -4779,7 +4779,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3joryA2CmF"></span>` `<span id="//apple_ref/swift/Element/jor" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3joryA2CmF" class="token"><code>jor</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3joryA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-jor" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3joryA2CmF" class="token"><code>jor</code></a> 
 
   </div>
 
@@ -4823,7 +4823,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3jpnyA2CmF"></span>` `<span id="//apple_ref/swift/Element/jpn" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3jpnyA2CmF" class="token"><code>jpn</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3jpnyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-jpn" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3jpnyA2CmF" class="token"><code>jpn</code></a> 
 
   </div>
 
@@ -4867,7 +4867,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3kazyA2CmF"></span>` `<span id="//apple_ref/swift/Element/kaz" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3kazyA2CmF" class="token"><code>kaz</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3kazyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-kaz" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3kazyA2CmF" class="token"><code>kaz</code></a> 
 
   </div>
 
@@ -4911,7 +4911,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3kenyA2CmF"></span>` `<span id="//apple_ref/swift/Element/ken" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3kenyA2CmF" class="token"><code>ken</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3kenyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-ken" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3kenyA2CmF" class="token"><code>ken</code></a> 
 
   </div>
 
@@ -4955,7 +4955,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3kgzyA2CmF"></span>` `<span id="//apple_ref/swift/Element/kgz" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3kgzyA2CmF" class="token"><code>kgz</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3kgzyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-kgz" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3kgzyA2CmF" class="token"><code>kgz</code></a> 
 
   </div>
 
@@ -4999,7 +4999,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3khmyA2CmF"></span>` `<span id="//apple_ref/swift/Element/khm" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3khmyA2CmF" class="token"><code>khm</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3khmyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-khm" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3khmyA2CmF" class="token"><code>khm</code></a> 
 
   </div>
 
@@ -5043,7 +5043,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3kiryA2CmF"></span>` `<span id="//apple_ref/swift/Element/kir" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3kiryA2CmF" class="token"><code>kir</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3kiryA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-kir" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3kiryA2CmF" class="token"><code>kir</code></a> 
 
   </div>
 
@@ -5087,7 +5087,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3knayA2CmF"></span>` `<span id="//apple_ref/swift/Element/kna" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3knayA2CmF" class="token"><code>kna</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3knayA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-kna" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3knayA2CmF" class="token"><code>kna</code></a> 
 
   </div>
 
@@ -5131,7 +5131,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3koryA2CmF"></span>` `<span id="//apple_ref/swift/Element/kor" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3koryA2CmF" class="token"><code>kor</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3koryA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-kor" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3koryA2CmF" class="token"><code>kor</code></a> 
 
   </div>
 
@@ -5175,7 +5175,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3kwtyA2CmF"></span>` `<span id="//apple_ref/swift/Element/kwt" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3kwtyA2CmF" class="token"><code>kwt</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3kwtyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-kwt" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3kwtyA2CmF" class="token"><code>kwt</code></a> 
 
   </div>
 
@@ -5219,7 +5219,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3laoyA2CmF"></span>` `<span id="//apple_ref/swift/Element/lao" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3laoyA2CmF" class="token"><code>lao</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3laoyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-lao" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3laoyA2CmF" class="token"><code>lao</code></a> 
 
   </div>
 
@@ -5263,7 +5263,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3lbnyA2CmF"></span>` `<span id="//apple_ref/swift/Element/lbn" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3lbnyA2CmF" class="token"><code>lbn</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3lbnyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-lbn" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3lbnyA2CmF" class="token"><code>lbn</code></a> 
 
   </div>
 
@@ -5307,7 +5307,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3lbryA2CmF"></span>` `<span id="//apple_ref/swift/Element/lbr" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3lbryA2CmF" class="token"><code>lbr</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3lbryA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-lbr" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3lbryA2CmF" class="token"><code>lbr</code></a> 
 
   </div>
 
@@ -5351,7 +5351,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3lbyyA2CmF"></span>` `<span id="//apple_ref/swift/Element/lby" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3lbyyA2CmF" class="token"><code>lby</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3lbyyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-lby" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3lbyyA2CmF" class="token"><code>lby</code></a> 
 
   </div>
 
@@ -5395,7 +5395,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3lcayA2CmF"></span>` `<span id="//apple_ref/swift/Element/lca" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3lcayA2CmF" class="token"><code>lca</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3lcayA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-lca" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3lcayA2CmF" class="token"><code>lca</code></a> 
 
   </div>
 
@@ -5439,7 +5439,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3lieyA2CmF"></span>` `<span id="//apple_ref/swift/Element/lie" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3lieyA2CmF" class="token"><code>lie</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3lieyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-lie" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3lieyA2CmF" class="token"><code>lie</code></a> 
 
   </div>
 
@@ -5483,7 +5483,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3lkayA2CmF"></span>` `<span id="//apple_ref/swift/Element/lka" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3lkayA2CmF" class="token"><code>lka</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3lkayA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-lka" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3lkayA2CmF" class="token"><code>lka</code></a> 
 
   </div>
 
@@ -5527,7 +5527,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3lsoyA2CmF"></span>` `<span id="//apple_ref/swift/Element/lso" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3lsoyA2CmF" class="token"><code>lso</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3lsoyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-lso" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3lsoyA2CmF" class="token"><code>lso</code></a> 
 
   </div>
 
@@ -5571,7 +5571,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3ltuyA2CmF"></span>` `<span id="//apple_ref/swift/Element/ltu" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3ltuyA2CmF" class="token"><code>ltu</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3ltuyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-ltu" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3ltuyA2CmF" class="token"><code>ltu</code></a> 
 
   </div>
 
@@ -5615,7 +5615,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3luxyA2CmF"></span>` `<span id="//apple_ref/swift/Element/lux" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3luxyA2CmF" class="token"><code>lux</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3luxyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-lux" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3luxyA2CmF" class="token"><code>lux</code></a> 
 
   </div>
 
@@ -5659,7 +5659,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3lvayA2CmF"></span>` `<span id="//apple_ref/swift/Element/lva" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3lvayA2CmF" class="token"><code>lva</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3lvayA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-lva" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3lvayA2CmF" class="token"><code>lva</code></a> 
 
   </div>
 
@@ -5703,7 +5703,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3macyA2CmF"></span>` `<span id="//apple_ref/swift/Element/mac" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3macyA2CmF" class="token"><code>mac</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3macyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-mac" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3macyA2CmF" class="token"><code>mac</code></a> 
 
   </div>
 
@@ -5747,7 +5747,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3mafyA2CmF"></span>` `<span id="//apple_ref/swift/Element/maf" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3mafyA2CmF" class="token"><code>maf</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3mafyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-maf" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3mafyA2CmF" class="token"><code>maf</code></a> 
 
   </div>
 
@@ -5791,7 +5791,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3maryA2CmF"></span>` `<span id="//apple_ref/swift/Element/mar" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3maryA2CmF" class="token"><code>mar</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3maryA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-mar" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3maryA2CmF" class="token"><code>mar</code></a> 
 
   </div>
 
@@ -5835,7 +5835,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3mcoyA2CmF"></span>` `<span id="//apple_ref/swift/Element/mco" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3mcoyA2CmF" class="token"><code>mco</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3mcoyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-mco" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3mcoyA2CmF" class="token"><code>mco</code></a> 
 
   </div>
 
@@ -5879,7 +5879,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3mdayA2CmF"></span>` `<span id="//apple_ref/swift/Element/mda" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3mdayA2CmF" class="token"><code>mda</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3mdayA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-mda" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3mdayA2CmF" class="token"><code>mda</code></a> 
 
   </div>
 
@@ -5923,7 +5923,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3mdgyA2CmF"></span>` `<span id="//apple_ref/swift/Element/mdg" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3mdgyA2CmF" class="token"><code>mdg</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3mdgyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-mdg" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3mdgyA2CmF" class="token"><code>mdg</code></a> 
 
   </div>
 
@@ -5967,7 +5967,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3mdvyA2CmF"></span>` `<span id="//apple_ref/swift/Element/mdv" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3mdvyA2CmF" class="token"><code>mdv</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3mdvyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-mdv" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3mdvyA2CmF" class="token"><code>mdv</code></a> 
 
   </div>
 
@@ -6011,7 +6011,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3mexyA2CmF"></span>` `<span id="//apple_ref/swift/Element/mex" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3mexyA2CmF" class="token"><code>mex</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3mexyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-mex" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3mexyA2CmF" class="token"><code>mex</code></a> 
 
   </div>
 
@@ -6055,7 +6055,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3mhlyA2CmF"></span>` `<span id="//apple_ref/swift/Element/mhl" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3mhlyA2CmF" class="token"><code>mhl</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3mhlyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-mhl" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3mhlyA2CmF" class="token"><code>mhl</code></a> 
 
   </div>
 
@@ -6099,7 +6099,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3mkdyA2CmF"></span>` `<span id="//apple_ref/swift/Element/mkd" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3mkdyA2CmF" class="token"><code>mkd</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3mkdyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-mkd" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3mkdyA2CmF" class="token"><code>mkd</code></a> 
 
   </div>
 
@@ -6143,7 +6143,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3mliyA2CmF"></span>` `<span id="//apple_ref/swift/Element/mli" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3mliyA2CmF" class="token"><code>mli</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3mliyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-mli" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3mliyA2CmF" class="token"><code>mli</code></a> 
 
   </div>
 
@@ -6187,7 +6187,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3mltyA2CmF"></span>` `<span id="//apple_ref/swift/Element/mlt" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3mltyA2CmF" class="token"><code>mlt</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3mltyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-mlt" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3mltyA2CmF" class="token"><code>mlt</code></a> 
 
   </div>
 
@@ -6231,7 +6231,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3mmryA2CmF"></span>` `<span id="//apple_ref/swift/Element/mmr" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3mmryA2CmF" class="token"><code>mmr</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3mmryA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-mmr" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3mmryA2CmF" class="token"><code>mmr</code></a> 
 
   </div>
 
@@ -6275,7 +6275,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3mneyA2CmF"></span>` `<span id="//apple_ref/swift/Element/mne" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3mneyA2CmF" class="token"><code>mne</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3mneyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-mne" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3mneyA2CmF" class="token"><code>mne</code></a> 
 
   </div>
 
@@ -6319,7 +6319,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3mngyA2CmF"></span>` `<span id="//apple_ref/swift/Element/mng" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3mngyA2CmF" class="token"><code>mng</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3mngyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-mng" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3mngyA2CmF" class="token"><code>mng</code></a> 
 
   </div>
 
@@ -6363,7 +6363,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3mnpyA2CmF"></span>` `<span id="//apple_ref/swift/Element/mnp" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3mnpyA2CmF" class="token"><code>mnp</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3mnpyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-mnp" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3mnpyA2CmF" class="token"><code>mnp</code></a> 
 
   </div>
 
@@ -6407,7 +6407,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3mozyA2CmF"></span>` `<span id="//apple_ref/swift/Element/moz" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3mozyA2CmF" class="token"><code>moz</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3mozyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-moz" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3mozyA2CmF" class="token"><code>moz</code></a> 
 
   </div>
 
@@ -6451,7 +6451,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3mrtyA2CmF"></span>` `<span id="//apple_ref/swift/Element/mrt" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3mrtyA2CmF" class="token"><code>mrt</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3mrtyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-mrt" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3mrtyA2CmF" class="token"><code>mrt</code></a> 
 
   </div>
 
@@ -6495,7 +6495,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3msryA2CmF"></span>` `<span id="//apple_ref/swift/Element/msr" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3msryA2CmF" class="token"><code>msr</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3msryA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-msr" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3msryA2CmF" class="token"><code>msr</code></a> 
 
   </div>
 
@@ -6539,7 +6539,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3mtqyA2CmF"></span>` `<span id="//apple_ref/swift/Element/mtq" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3mtqyA2CmF" class="token"><code>mtq</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3mtqyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-mtq" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3mtqyA2CmF" class="token"><code>mtq</code></a> 
 
   </div>
 
@@ -6583,7 +6583,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3musyA2CmF"></span>` `<span id="//apple_ref/swift/Element/mus" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3musyA2CmF" class="token"><code>mus</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3musyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-mus" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3musyA2CmF" class="token"><code>mus</code></a> 
 
   </div>
 
@@ -6627,7 +6627,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3mwiyA2CmF"></span>` `<span id="//apple_ref/swift/Element/mwi" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3mwiyA2CmF" class="token"><code>mwi</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3mwiyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-mwi" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3mwiyA2CmF" class="token"><code>mwi</code></a> 
 
   </div>
 
@@ -6671,7 +6671,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3mysyA2CmF"></span>` `<span id="//apple_ref/swift/Element/mys" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3mysyA2CmF" class="token"><code>mys</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3mysyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-mys" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3mysyA2CmF" class="token"><code>mys</code></a> 
 
   </div>
 
@@ -6715,7 +6715,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3mytyA2CmF"></span>` `<span id="//apple_ref/swift/Element/myt" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3mytyA2CmF" class="token"><code>myt</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3mytyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-myt" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3mytyA2CmF" class="token"><code>myt</code></a> 
 
   </div>
 
@@ -6759,7 +6759,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3namyA2CmF"></span>` `<span id="//apple_ref/swift/Element/nam" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3namyA2CmF" class="token"><code>nam</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3namyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-nam" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3namyA2CmF" class="token"><code>nam</code></a> 
 
   </div>
 
@@ -6803,7 +6803,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3nclyA2CmF"></span>` `<span id="//apple_ref/swift/Element/ncl" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3nclyA2CmF" class="token"><code>ncl</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3nclyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-ncl" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3nclyA2CmF" class="token"><code>ncl</code></a> 
 
   </div>
 
@@ -6847,7 +6847,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3neryA2CmF"></span>` `<span id="//apple_ref/swift/Element/ner" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3neryA2CmF" class="token"><code>ner</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3neryA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-ner" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3neryA2CmF" class="token"><code>ner</code></a> 
 
   </div>
 
@@ -6891,7 +6891,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3nfkyA2CmF"></span>` `<span id="//apple_ref/swift/Element/nfk" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3nfkyA2CmF" class="token"><code>nfk</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3nfkyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-nfk" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3nfkyA2CmF" class="token"><code>nfk</code></a> 
 
   </div>
 
@@ -6935,7 +6935,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3ngayA2CmF"></span>` `<span id="//apple_ref/swift/Element/nga" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3ngayA2CmF" class="token"><code>nga</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3ngayA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-nga" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3ngayA2CmF" class="token"><code>nga</code></a> 
 
   </div>
 
@@ -6979,7 +6979,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3nicyA2CmF"></span>` `<span id="//apple_ref/swift/Element/nic" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3nicyA2CmF" class="token"><code>nic</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3nicyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-nic" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3nicyA2CmF" class="token"><code>nic</code></a> 
 
   </div>
 
@@ -7023,7 +7023,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3niuyA2CmF"></span>` `<span id="//apple_ref/swift/Element/niu" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3niuyA2CmF" class="token"><code>niu</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3niuyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-niu" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3niuyA2CmF" class="token"><code>niu</code></a> 
 
   </div>
 
@@ -7067,7 +7067,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3nldyA2CmF"></span>` `<span id="//apple_ref/swift/Element/nld" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3nldyA2CmF" class="token"><code>nld</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3nldyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-nld" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3nldyA2CmF" class="token"><code>nld</code></a> 
 
   </div>
 
@@ -7111,7 +7111,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3noryA2CmF"></span>` `<span id="//apple_ref/swift/Element/nor" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3noryA2CmF" class="token"><code>nor</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3noryA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-nor" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3noryA2CmF" class="token"><code>nor</code></a> 
 
   </div>
 
@@ -7155,7 +7155,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3nplyA2CmF"></span>` `<span id="//apple_ref/swift/Element/npl" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3nplyA2CmF" class="token"><code>npl</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3nplyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-npl" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3nplyA2CmF" class="token"><code>npl</code></a> 
 
   </div>
 
@@ -7199,7 +7199,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3nruyA2CmF"></span>` `<span id="//apple_ref/swift/Element/nru" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3nruyA2CmF" class="token"><code>nru</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3nruyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-nru" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3nruyA2CmF" class="token"><code>nru</code></a> 
 
   </div>
 
@@ -7243,7 +7243,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3nzlyA2CmF"></span>` `<span id="//apple_ref/swift/Element/nzl" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3nzlyA2CmF" class="token"><code>nzl</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3nzlyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-nzl" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3nzlyA2CmF" class="token"><code>nzl</code></a> 
 
   </div>
 
@@ -7287,7 +7287,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3omnyA2CmF"></span>` `<span id="//apple_ref/swift/Element/omn" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3omnyA2CmF" class="token"><code>omn</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3omnyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-omn" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3omnyA2CmF" class="token"><code>omn</code></a> 
 
   </div>
 
@@ -7331,7 +7331,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3pakyA2CmF"></span>` `<span id="//apple_ref/swift/Element/pak" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3pakyA2CmF" class="token"><code>pak</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3pakyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-pak" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3pakyA2CmF" class="token"><code>pak</code></a> 
 
   </div>
 
@@ -7375,7 +7375,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3panyA2CmF"></span>` `<span id="//apple_ref/swift/Element/pan" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3panyA2CmF" class="token"><code>pan</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3panyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-pan" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3panyA2CmF" class="token"><code>pan</code></a> 
 
   </div>
 
@@ -7419,7 +7419,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3pcnyA2CmF"></span>` `<span id="//apple_ref/swift/Element/pcn" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3pcnyA2CmF" class="token"><code>pcn</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3pcnyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-pcn" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3pcnyA2CmF" class="token"><code>pcn</code></a> 
 
   </div>
 
@@ -7463,7 +7463,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3peryA2CmF"></span>` `<span id="//apple_ref/swift/Element/per" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3peryA2CmF" class="token"><code>per</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3peryA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-per" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3peryA2CmF" class="token"><code>per</code></a> 
 
   </div>
 
@@ -7507,7 +7507,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3phlyA2CmF"></span>` `<span id="//apple_ref/swift/Element/phl" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3phlyA2CmF" class="token"><code>phl</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3phlyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-phl" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3phlyA2CmF" class="token"><code>phl</code></a> 
 
   </div>
 
@@ -7551,7 +7551,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3plwyA2CmF"></span>` `<span id="//apple_ref/swift/Element/plw" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3plwyA2CmF" class="token"><code>plw</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3plwyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-plw" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3plwyA2CmF" class="token"><code>plw</code></a> 
 
   </div>
 
@@ -7595,7 +7595,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3pngyA2CmF"></span>` `<span id="//apple_ref/swift/Element/png" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3pngyA2CmF" class="token"><code>png</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3pngyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-png" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3pngyA2CmF" class="token"><code>png</code></a> 
 
   </div>
 
@@ -7639,7 +7639,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3polyA2CmF"></span>` `<span id="//apple_ref/swift/Element/pol" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3polyA2CmF" class="token"><code>pol</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3polyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-pol" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3polyA2CmF" class="token"><code>pol</code></a> 
 
   </div>
 
@@ -7683,7 +7683,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3priyA2CmF"></span>` `<span id="//apple_ref/swift/Element/pri" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3priyA2CmF" class="token"><code>pri</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3priyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-pri" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3priyA2CmF" class="token"><code>pri</code></a> 
 
   </div>
 
@@ -7727,7 +7727,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3prkyA2CmF"></span>` `<span id="//apple_ref/swift/Element/prk" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3prkyA2CmF" class="token"><code>prk</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3prkyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-prk" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3prkyA2CmF" class="token"><code>prk</code></a> 
 
   </div>
 
@@ -7771,7 +7771,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3prtyA2CmF"></span>` `<span id="//apple_ref/swift/Element/prt" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3prtyA2CmF" class="token"><code>prt</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3prtyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-prt" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3prtyA2CmF" class="token"><code>prt</code></a> 
 
   </div>
 
@@ -7815,7 +7815,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3pryyA2CmF"></span>` `<span id="//apple_ref/swift/Element/pry" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3pryyA2CmF" class="token"><code>pry</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3pryyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-pry" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3pryyA2CmF" class="token"><code>pry</code></a> 
 
   </div>
 
@@ -7859,7 +7859,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3pseyA2CmF"></span>` `<span id="//apple_ref/swift/Element/pse" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3pseyA2CmF" class="token"><code>pse</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3pseyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-pse" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3pseyA2CmF" class="token"><code>pse</code></a> 
 
   </div>
 
@@ -7903,7 +7903,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3pyfyA2CmF"></span>` `<span id="//apple_ref/swift/Element/pyf" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3pyfyA2CmF" class="token"><code>pyf</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3pyfyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-pyf" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3pyfyA2CmF" class="token"><code>pyf</code></a> 
 
   </div>
 
@@ -7947,7 +7947,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3qatyA2CmF"></span>` `<span id="//apple_ref/swift/Element/qat" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3qatyA2CmF" class="token"><code>qat</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3qatyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-qat" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3qatyA2CmF" class="token"><code>qat</code></a> 
 
   </div>
 
@@ -7991,7 +7991,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3reuyA2CmF"></span>` `<span id="//apple_ref/swift/Element/reu" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3reuyA2CmF" class="token"><code>reu</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3reuyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-reu" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3reuyA2CmF" class="token"><code>reu</code></a> 
 
   </div>
 
@@ -8035,7 +8035,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3rouyA2CmF"></span>` `<span id="//apple_ref/swift/Element/rou" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3rouyA2CmF" class="token"><code>rou</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3rouyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-rou" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3rouyA2CmF" class="token"><code>rou</code></a> 
 
   </div>
 
@@ -8079,7 +8079,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3rusyA2CmF"></span>` `<span id="//apple_ref/swift/Element/rus" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3rusyA2CmF" class="token"><code>rus</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3rusyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-rus" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3rusyA2CmF" class="token"><code>rus</code></a> 
 
   </div>
 
@@ -8123,7 +8123,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3rwayA2CmF"></span>` `<span id="//apple_ref/swift/Element/rwa" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3rwayA2CmF" class="token"><code>rwa</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3rwayA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-rwa" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3rwayA2CmF" class="token"><code>rwa</code></a> 
 
   </div>
 
@@ -8167,7 +8167,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3sauyA2CmF"></span>` `<span id="//apple_ref/swift/Element/sau" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3sauyA2CmF" class="token"><code>sau</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3sauyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-sau" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3sauyA2CmF" class="token"><code>sau</code></a> 
 
   </div>
 
@@ -8211,7 +8211,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3sdnyA2CmF"></span>` `<span id="//apple_ref/swift/Element/sdn" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3sdnyA2CmF" class="token"><code>sdn</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3sdnyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-sdn" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3sdnyA2CmF" class="token"><code>sdn</code></a> 
 
   </div>
 
@@ -8255,7 +8255,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3senyA2CmF"></span>` `<span id="//apple_ref/swift/Element/sen" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3senyA2CmF" class="token"><code>sen</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3senyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-sen" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3senyA2CmF" class="token"><code>sen</code></a> 
 
   </div>
 
@@ -8299,7 +8299,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3sgpyA2CmF"></span>` `<span id="//apple_ref/swift/Element/sgp" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3sgpyA2CmF" class="token"><code>sgp</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3sgpyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-sgp" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3sgpyA2CmF" class="token"><code>sgp</code></a> 
 
   </div>
 
@@ -8343,7 +8343,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3sgsyA2CmF"></span>` `<span id="//apple_ref/swift/Element/sgs" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3sgsyA2CmF" class="token"><code>sgs</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3sgsyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-sgs" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3sgsyA2CmF" class="token"><code>sgs</code></a> 
 
   </div>
 
@@ -8387,7 +8387,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3shnyA2CmF"></span>` `<span id="//apple_ref/swift/Element/shn" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3shnyA2CmF" class="token"><code>shn</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3shnyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-shn" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3shnyA2CmF" class="token"><code>shn</code></a> 
 
   </div>
 
@@ -8431,7 +8431,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3sjmyA2CmF"></span>` `<span id="//apple_ref/swift/Element/sjm" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3sjmyA2CmF" class="token"><code>sjm</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3sjmyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-sjm" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3sjmyA2CmF" class="token"><code>sjm</code></a> 
 
   </div>
 
@@ -8475,7 +8475,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3slbyA2CmF"></span>` `<span id="//apple_ref/swift/Element/slb" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3slbyA2CmF" class="token"><code>slb</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3slbyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-slb" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3slbyA2CmF" class="token"><code>slb</code></a> 
 
   </div>
 
@@ -8519,7 +8519,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3sleyA2CmF"></span>` `<span id="//apple_ref/swift/Element/sle" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3sleyA2CmF" class="token"><code>sle</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3sleyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-sle" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3sleyA2CmF" class="token"><code>sle</code></a> 
 
   </div>
 
@@ -8563,7 +8563,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3slvyA2CmF"></span>` `<span id="//apple_ref/swift/Element/slv" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3slvyA2CmF" class="token"><code>slv</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3slvyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-slv" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3slvyA2CmF" class="token"><code>slv</code></a> 
 
   </div>
 
@@ -8607,7 +8607,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3smryA2CmF"></span>` `<span id="//apple_ref/swift/Element/smr" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3smryA2CmF" class="token"><code>smr</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3smryA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-smr" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3smryA2CmF" class="token"><code>smr</code></a> 
 
   </div>
 
@@ -8651,7 +8651,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3somyA2CmF"></span>` `<span id="//apple_ref/swift/Element/som" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3somyA2CmF" class="token"><code>som</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3somyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-som" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3somyA2CmF" class="token"><code>som</code></a> 
 
   </div>
 
@@ -8695,7 +8695,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3spmyA2CmF"></span>` `<span id="//apple_ref/swift/Element/spm" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3spmyA2CmF" class="token"><code>spm</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3spmyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-spm" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3spmyA2CmF" class="token"><code>spm</code></a> 
 
   </div>
 
@@ -8739,7 +8739,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3srbyA2CmF"></span>` `<span id="//apple_ref/swift/Element/srb" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3srbyA2CmF" class="token"><code>srb</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3srbyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-srb" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3srbyA2CmF" class="token"><code>srb</code></a> 
 
   </div>
 
@@ -8783,7 +8783,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3ssdyA2CmF"></span>` `<span id="//apple_ref/swift/Element/ssd" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3ssdyA2CmF" class="token"><code>ssd</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3ssdyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-ssd" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3ssdyA2CmF" class="token"><code>ssd</code></a> 
 
   </div>
 
@@ -8827,7 +8827,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3stpyA2CmF"></span>` `<span id="//apple_ref/swift/Element/stp" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3stpyA2CmF" class="token"><code>stp</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3stpyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-stp" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3stpyA2CmF" class="token"><code>stp</code></a> 
 
   </div>
 
@@ -8871,7 +8871,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3suryA2CmF"></span>` `<span id="//apple_ref/swift/Element/sur" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3suryA2CmF" class="token"><code>sur</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3suryA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-sur" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3suryA2CmF" class="token"><code>sur</code></a> 
 
   </div>
 
@@ -8915,7 +8915,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3svkyA2CmF"></span>` `<span id="//apple_ref/swift/Element/svk" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3svkyA2CmF" class="token"><code>svk</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3svkyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-svk" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3svkyA2CmF" class="token"><code>svk</code></a> 
 
   </div>
 
@@ -8959,7 +8959,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3svnyA2CmF"></span>` `<span id="//apple_ref/swift/Element/svn" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3svnyA2CmF" class="token"><code>svn</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3svnyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-svn" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3svnyA2CmF" class="token"><code>svn</code></a> 
 
   </div>
 
@@ -9003,7 +9003,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3sweyA2CmF"></span>` `<span id="//apple_ref/swift/Element/swe" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3sweyA2CmF" class="token"><code>swe</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3sweyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-swe" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3sweyA2CmF" class="token"><code>swe</code></a> 
 
   </div>
 
@@ -9047,7 +9047,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3swzyA2CmF"></span>` `<span id="//apple_ref/swift/Element/swz" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3swzyA2CmF" class="token"><code>swz</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3swzyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-swz" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3swzyA2CmF" class="token"><code>swz</code></a> 
 
   </div>
 
@@ -9091,7 +9091,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3sxmyA2CmF"></span>` `<span id="//apple_ref/swift/Element/sxm" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3sxmyA2CmF" class="token"><code>sxm</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3sxmyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-sxm" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3sxmyA2CmF" class="token"><code>sxm</code></a> 
 
   </div>
 
@@ -9135,7 +9135,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3sycyA2CmF"></span>` `<span id="//apple_ref/swift/Element/syc" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3sycyA2CmF" class="token"><code>syc</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3sycyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-syc" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3sycyA2CmF" class="token"><code>syc</code></a> 
 
   </div>
 
@@ -9179,7 +9179,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3syryA2CmF"></span>` `<span id="//apple_ref/swift/Element/syr" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3syryA2CmF" class="token"><code>syr</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3syryA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-syr" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3syryA2CmF" class="token"><code>syr</code></a> 
 
   </div>
 
@@ -9223,7 +9223,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3tcayA2CmF"></span>` `<span id="//apple_ref/swift/Element/tca" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3tcayA2CmF" class="token"><code>tca</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3tcayA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-tca" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3tcayA2CmF" class="token"><code>tca</code></a> 
 
   </div>
 
@@ -9267,7 +9267,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3tcdyA2CmF"></span>` `<span id="//apple_ref/swift/Element/tcd" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3tcdyA2CmF" class="token"><code>tcd</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3tcdyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-tcd" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3tcdyA2CmF" class="token"><code>tcd</code></a> 
 
   </div>
 
@@ -9311,7 +9311,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3tgoyA2CmF"></span>` `<span id="//apple_ref/swift/Element/tgo" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3tgoyA2CmF" class="token"><code>tgo</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3tgoyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-tgo" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3tgoyA2CmF" class="token"><code>tgo</code></a> 
 
   </div>
 
@@ -9355,7 +9355,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3thayA2CmF"></span>` `<span id="//apple_ref/swift/Element/tha" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3thayA2CmF" class="token"><code>tha</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3thayA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-tha" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3thayA2CmF" class="token"><code>tha</code></a> 
 
   </div>
 
@@ -9399,7 +9399,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3tjkyA2CmF"></span>` `<span id="//apple_ref/swift/Element/tjk" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3tjkyA2CmF" class="token"><code>tjk</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3tjkyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-tjk" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3tjkyA2CmF" class="token"><code>tjk</code></a> 
 
   </div>
 
@@ -9443,7 +9443,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3tklyA2CmF"></span>` `<span id="//apple_ref/swift/Element/tkl" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3tklyA2CmF" class="token"><code>tkl</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3tklyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-tkl" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3tklyA2CmF" class="token"><code>tkl</code></a> 
 
   </div>
 
@@ -9487,7 +9487,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3tkmyA2CmF"></span>` `<span id="//apple_ref/swift/Element/tkm" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3tkmyA2CmF" class="token"><code>tkm</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3tkmyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-tkm" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3tkmyA2CmF" class="token"><code>tkm</code></a> 
 
   </div>
 
@@ -9531,7 +9531,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3tlsyA2CmF"></span>` `<span id="//apple_ref/swift/Element/tls" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3tlsyA2CmF" class="token"><code>tls</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3tlsyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-tls" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3tlsyA2CmF" class="token"><code>tls</code></a> 
 
   </div>
 
@@ -9575,7 +9575,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3tonyA2CmF"></span>` `<span id="//apple_ref/swift/Element/ton" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3tonyA2CmF" class="token"><code>ton</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3tonyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-ton" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3tonyA2CmF" class="token"><code>ton</code></a> 
 
   </div>
 
@@ -9619,7 +9619,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3ttoyA2CmF"></span>` `<span id="//apple_ref/swift/Element/tto" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3ttoyA2CmF" class="token"><code>tto</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3ttoyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-tto" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3ttoyA2CmF" class="token"><code>tto</code></a> 
 
   </div>
 
@@ -9663,7 +9663,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3tunyA2CmF"></span>` `<span id="//apple_ref/swift/Element/tun" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3tunyA2CmF" class="token"><code>tun</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3tunyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-tun" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3tunyA2CmF" class="token"><code>tun</code></a> 
 
   </div>
 
@@ -9707,7 +9707,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3turyA2CmF"></span>` `<span id="//apple_ref/swift/Element/tur" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3turyA2CmF" class="token"><code>tur</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3turyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-tur" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3turyA2CmF" class="token"><code>tur</code></a> 
 
   </div>
 
@@ -9751,7 +9751,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3tuvyA2CmF"></span>` `<span id="//apple_ref/swift/Element/tuv" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3tuvyA2CmF" class="token"><code>tuv</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3tuvyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-tuv" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3tuvyA2CmF" class="token"><code>tuv</code></a> 
 
   </div>
 
@@ -9795,7 +9795,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3twnyA2CmF"></span>` `<span id="//apple_ref/swift/Element/twn" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3twnyA2CmF" class="token"><code>twn</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3twnyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-twn" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3twnyA2CmF" class="token"><code>twn</code></a> 
 
   </div>
 
@@ -9839,7 +9839,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3tzayA2CmF"></span>` `<span id="//apple_ref/swift/Element/tza" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3tzayA2CmF" class="token"><code>tza</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3tzayA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-tza" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3tzayA2CmF" class="token"><code>tza</code></a> 
 
   </div>
 
@@ -9883,7 +9883,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3ugayA2CmF"></span>` `<span id="//apple_ref/swift/Element/uga" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3ugayA2CmF" class="token"><code>uga</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3ugayA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-uga" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3ugayA2CmF" class="token"><code>uga</code></a> 
 
   </div>
 
@@ -9927,7 +9927,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3ukryA2CmF"></span>` `<span id="//apple_ref/swift/Element/ukr" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3ukryA2CmF" class="token"><code>ukr</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3ukryA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-ukr" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3ukryA2CmF" class="token"><code>ukr</code></a> 
 
   </div>
 
@@ -9971,7 +9971,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3uryyA2CmF"></span>` `<span id="//apple_ref/swift/Element/ury" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3uryyA2CmF" class="token"><code>ury</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3uryyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-ury" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3uryyA2CmF" class="token"><code>ury</code></a> 
 
   </div>
 
@@ -10015,7 +10015,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3usayA2CmF"></span>` `<span id="//apple_ref/swift/Element/usa" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3usayA2CmF" class="token"><code>usa</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3usayA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-usa" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3usayA2CmF" class="token"><code>usa</code></a> 
 
   </div>
 
@@ -10059,7 +10059,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3uzbyA2CmF"></span>` `<span id="//apple_ref/swift/Element/uzb" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3uzbyA2CmF" class="token"><code>uzb</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3uzbyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-uzb" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3uzbyA2CmF" class="token"><code>uzb</code></a> 
 
   </div>
 
@@ -10103,7 +10103,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3vatyA2CmF"></span>` `<span id="//apple_ref/swift/Element/vat" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3vatyA2CmF" class="token"><code>vat</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3vatyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-vat" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3vatyA2CmF" class="token"><code>vat</code></a> 
 
   </div>
 
@@ -10147,7 +10147,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3vctyA2CmF"></span>` `<span id="//apple_ref/swift/Element/vct" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3vctyA2CmF" class="token"><code>vct</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3vctyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-vct" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3vctyA2CmF" class="token"><code>vct</code></a> 
 
   </div>
 
@@ -10191,7 +10191,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3venyA2CmF"></span>` `<span id="//apple_ref/swift/Element/ven" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3venyA2CmF" class="token"><code>ven</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3venyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-ven" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3venyA2CmF" class="token"><code>ven</code></a> 
 
   </div>
 
@@ -10235,7 +10235,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3vgbyA2CmF"></span>` `<span id="//apple_ref/swift/Element/vgb" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3vgbyA2CmF" class="token"><code>vgb</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3vgbyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-vgb" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3vgbyA2CmF" class="token"><code>vgb</code></a> 
 
   </div>
 
@@ -10279,7 +10279,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3viryA2CmF"></span>` `<span id="//apple_ref/swift/Element/vir" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3viryA2CmF" class="token"><code>vir</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3viryA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-vir" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3viryA2CmF" class="token"><code>vir</code></a> 
 
   </div>
 
@@ -10323,7 +10323,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3vnmyA2CmF"></span>` `<span id="//apple_ref/swift/Element/vnm" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3vnmyA2CmF" class="token"><code>vnm</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3vnmyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-vnm" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3vnmyA2CmF" class="token"><code>vnm</code></a> 
 
   </div>
 
@@ -10367,7 +10367,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3vutyA2CmF"></span>` `<span id="//apple_ref/swift/Element/vut" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3vutyA2CmF" class="token"><code>vut</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3vutyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-vut" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3vutyA2CmF" class="token"><code>vut</code></a> 
 
   </div>
 
@@ -10411,7 +10411,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3wlfyA2CmF"></span>` `<span id="//apple_ref/swift/Element/wlf" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3wlfyA2CmF" class="token"><code>wlf</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3wlfyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-wlf" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3wlfyA2CmF" class="token"><code>wlf</code></a> 
 
   </div>
 
@@ -10455,7 +10455,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3wsmyA2CmF"></span>` `<span id="//apple_ref/swift/Element/wsm" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3wsmyA2CmF" class="token"><code>wsm</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3wsmyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-wsm" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3wsmyA2CmF" class="token"><code>wsm</code></a> 
 
   </div>
 
@@ -10499,7 +10499,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3yemyA2CmF"></span>` `<span id="//apple_ref/swift/Element/yem" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3yemyA2CmF" class="token"><code>yem</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3yemyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-yem" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3yemyA2CmF" class="token"><code>yem</code></a> 
 
   </div>
 
@@ -10543,7 +10543,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3zafyA2CmF"></span>` `<span id="//apple_ref/swift/Element/zaf" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3zafyA2CmF" class="token"><code>zaf</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3zafyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-zaf" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3zafyA2CmF" class="token"><code>zaf</code></a> 
 
   </div>
 
@@ -10587,7 +10587,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3zmbyA2CmF"></span>` `<span id="//apple_ref/swift/Element/zmb" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3zmbyA2CmF" class="token"><code>zmb</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3zmbyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-zmb" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3zmbyA2CmF" class="token"><code>zmb</code></a> 
 
   </div>
 
@@ -10631,7 +10631,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
 - <div>
 
-  ` `<span id="/s:7heresdk11CountryCodeO3zweyA2CmF"></span>` `<span id="//apple_ref/swift/Element/zwe" class="dashAnchor"></span>` `<a href="sdk-for-ios-explore-enums-countrycode#/s:7heresdk11CountryCodeO3zweyA2CmF" class="token"><code>zwe</code></a>` `
+   <span id="sdk-for-ios-explore-s-7heresdk11CountryCodeO3zweyA2CmF"></span> <span id="sdk-for-ios-explore-apple_ref-swift-Element-zwe" class="dashAnchor"></span> <a href="sdk-for-ios-explore-enums-countrycode#sdk-for-ios-explore-s-7heresdk11CountryCodeO3zweyA2CmF" class="token"><code>zwe</code></a> 
 
   </div>
 
